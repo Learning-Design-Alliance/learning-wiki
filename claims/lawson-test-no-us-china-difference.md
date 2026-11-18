@@ -71,3 +71,4 @@ Lawson Test (24 items) summary statistics from Table 4: U1 mean 18.3 (76.3%) and
 - [Traditional physics content training, even at a conceptually and computationally demanding level, does not by itself improve students' general scientific reasoning ability](traditional-content-training-no-reasoning-transfer.md) — a broader claim this one bears on
 - [Student scientific reasoning gains on the CTSR remained the same when classes moved from two faculty instructors to one faculty instructor plus a Learning Assistant](la-model-maintains-ctsr-gains.md) — related
 - [The Lawson test is inadequate as a diagnostic of proportional reasoning as used in physics](lawson-test-inadequate-proportional-diagnostic.md) — related
+- [Average Lawson scientific reasoning level of the local student population was significantly lower than reported for USA, China and India](lawson-reasoning-lower-than-cross-cultural-peers.md) — reports the opposite

@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../strategies/st-smartphone-sensor-experiments-unconventional-settings.md
+---
+
+# Revision history: [strategies/st-smartphone-sensor-experiments-unconventional-settings](../strategies/st-smartphone-sensor-experiments-unconventional-settings.md)
+
+### 2026-11-18 · ingest · process:wiki-ingest
+Ingested from arxiv-1901.05079 (Sensors based on micromechanical devices: mobile labs at the service of experimental science teaching) via eval_harness.py + ingest_extractions.py

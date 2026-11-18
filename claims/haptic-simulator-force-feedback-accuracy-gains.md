@@ -79,3 +79,5 @@ Descriptive direction-of-effect synthesis across haptic simulator RCTs; the revi
 - [Feedback frequency effects are mixed: higher-frequency intermittent feedback aided procedural skill acquisition, but overly intensive feedback can be inconducive early in learning](feedback-frequency-mixed-effects.md) — related
 - [Feedback improves basic practical skills learning, with expert-adapted verbal feedback, video self-review, and real-time force feedback each showing benefits over alternatives](feedback-methods-improve-basic-practical-skills.md) — related
 - [Virtual guidance reduces cortical perforations during simulator practice](virtual-guidance-reduces-perforations.md) — a narrower finding that bears on this claim
+- [A haptic-hardware tutorial before the simulation produced no quiz-score difference between the two force-feedback groups](haptic-tutorial-no-quiz-difference.md) — related
+- [Undergraduate physics students using a visuo-haptic Coriolis simulation scored 15% higher on a quiz than a reading-and-video group](visuo-haptic-coriolis-15-percent-quiz-gain.md) — a narrower finding that bears on this claim

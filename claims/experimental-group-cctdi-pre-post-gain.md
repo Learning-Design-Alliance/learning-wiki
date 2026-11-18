@@ -55,3 +55,4 @@ Paired samples t-test on the experimental group (n=22) in the quasi-experimental
 - [Descriptive means moved in opposite directions: the treatment group's critical thinking disposition mean rose while the control group's fell](ctd-means-opposite-directions.md) — related
 - [PBL and traditional teaching do not differ significantly in their effect on pre-service teachers’ critical thinking dispositions](pbl-no-difference-critical-thinking-disposition.md) — related
 - [The iHEC cohort showed higher post-rotation critical thinking disposition than the conventional cohort (Cohen's d = 0.75)](ihec-higher-critical-thinking.md) — related
+- [Students in labs designed to teach critical thinking score about 0.52 points higher at post-test controlling for pre-score](ctlabs-higher-post-scores.md) — related

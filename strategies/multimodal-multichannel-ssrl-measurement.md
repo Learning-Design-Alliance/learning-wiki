@@ -53,6 +53,7 @@ The review's stated forward methodological path is to widen data channels toward
 - [Align video recording decisions with residents' self-regulated learning goals rather than investigator-determined parameters](resident-initiated-video-recording-alignment.md)
 - [Combine subjective and objective multimodal measurement (self-report, facial expression, physiological data) to capture academic emotions during learning](multimodal-academic-emotion-measurement.md)
 - [Adopt multi-level, multimodal and observational research designs to study integrated regulation of learning](multimodal-ethnographic-regulation-research-strategy.md)
+- [Integrate server-log network analysis with other methodological approaches to capture student learning strategies](integrate-log-network-analysis-with-other-methods.md)
 
 ## Examples
 -

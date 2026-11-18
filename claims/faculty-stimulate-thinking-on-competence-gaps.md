@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-18
 sources:
   - id: hari-roman-md-2025
     resource: "https://doi.org/10.1097/ACM.0000000000006003"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Near-peers' empathy led them to give direct answers without leading questions, whereas faculty gave students more time to find their own solutions, which students perceived as making learning more sustainable. [→ Hari Roman MD 2025](#hari-roman-md-2025)

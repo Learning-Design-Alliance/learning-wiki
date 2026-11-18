@@ -50,3 +50,4 @@ Descriptive scatterplot analysis (Fig. 5) of Biology midterm scores versus high 
 - [Adding PGS as an either-cutoff screener alongside progress monitoring raises negative predictive value (fewer false negatives) at all effectiveness levels, while generally lowering PPV](either-cutoff-pgs-reduces-false-negatives.md) — related
 - [Predictor variables beyond prior achievement and school track add predictive value for next-year math achievement, with the smallest added effects for the final-year outcome](predictors-beyond-prior-achievement-add-predictive-value.md) — related
 - [The lowest-performing score tail was eliminated in active-learning offerings, with students below ~25 points appearing exclusively in traditional offerings](active-learning-mena-low-tail-eliminated.md) — related
+- [High school GPA and MSU math placement scores add no predictive power to models of physics versus engineering graduation](prior-preparation-features-no-predictive-gain.md) — related

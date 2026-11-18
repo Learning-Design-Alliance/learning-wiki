@@ -13,7 +13,7 @@ generated:
 # Statistical Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 59 claims (43 show a difference, 14 mixed, 2 no difference) · 37 studies (19 causal, 5 design, 4 qualitative, 3 review, 3 theoretical, 2 associational, 1 quant-synthesis), `q1`–`q3` · 3 of 37 report an effect size · 59 claims rest on one study
+> **Evidence** · 60 claims (44 show a difference, 14 mixed, 2 no difference) · 38 studies (20 causal, 5 design, 4 qualitative, 3 review, 3 theoretical, 2 associational, 1 quant-synthesis), `q1`–`q3` · 3 of 38 report an effect size · 60 claims rest on one study
 
 ## Description
 Statistical reasoning is thinking about uncertainty and building mental models of real-world phenomena from data. The Learner Variability Navigator describes it as a cycle: learners pose a question about data, decide what data they need, gather it, organise, analyse and display it, and then describe what it shows and draw inferences to answer the question. It is assessed with questionnaires on understanding of variation (in chance settings such as dice, and in data and graphs) that pair multiple-choice items with written explanations, and with the data-analysis and probability subtests of diagnostic batteries.
@@ -98,6 +98,7 @@ LVN follows it from grade 3 to grade 10. It builds on [measurement](measurement.
 - [Students whose overall paradigm changes show significant pre-post differences in individual set-like responses, shifting about one S response on average](../claims/pmq-paradigm-switchers-one-s-response-shift.md) [+M] — measured as an outcome of the instruction studied
 - [The DMSS data-comparison probe showed the largest shifts of the four probes, with a statistically significant increase in set-like responses and a significant decrease in point-like responses after instruction](../claims/dmss-largest-shift-toward-set-reasoning.md) [+M] — measured as an outcome of the instruction studied
 - [Students are often quick to identify discrepancies but do not initially propose probable causes, instead describing causes post hoc after iterative revisions and measurements](../claims/students-identify-discrepancies-but-delay-proposing-causes.md) [+M] — measured as an outcome of the instruction studied
+- [Preinstruction scientific reasoning level is correlated with probability of passing introductory physics](../claims/reasoning-level-correlates-with-passing-intro-physics.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Statistical Variation Measure** (Watson et al., 2003): Questionnaire examining student understanding of statistical variation, including understanding of basic chance measurement and graph reading, variation in a chance setting (e.g., results of throwing a die), and variation in data and graphs. Students respond to multiple choice questions but also have space to explain their responses which allows for a more comprehensive measure of their understanding.

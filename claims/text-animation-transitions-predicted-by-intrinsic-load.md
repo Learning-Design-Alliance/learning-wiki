@@ -50,3 +50,4 @@ Hierarchical regression (N = 46) on transitions between text and animation AoIs,
 - [Mean fixation duration is uniquely predicted by extraneous load, and additionally by germane load and working memory capacity](mean-fixation-duration-predicted-by-ecl-and-gcl.md) — related
 - [Ratio of pupil size change is uniquely predicted by extraneous load and germane load, with opposite signs](pupil-size-change-predicted-by-ecl-and-gcl.md) — related
 - [Disfluency and WMC × disfluency did not affect intrinsic or germane cognitive load](no-icl-gcl-effects-disfluency.md) — related
+- [No group differences in intrinsic or germane cognitive load between video-analysis and traditional conditions](no-group-differences-icl-gcl.md) — related

@@ -52,6 +52,7 @@ The strategy replaces one large-class simulation with repeated short scenario-ba
 - [Screen students for elevated simulation anxiety with STAI and pupillometry, then support predisposed learners with pre-visit, presession-viewing, and breathing-relaxation interventions](anxiety-screening-and-support-strategy-simulation.md)
 - [Videos: SEL Topics](videos-sel_topics.md)
 - [Use instructional videos and involve students in creating video content to teach clinical communication](video-instruction-clinical-communication-strategy.md)
+- [Implement simulations as one-hour in-class activities with pre-test, guided group exploration, and immediate post-test](pre-test-simulation-post-test-activity-strategy.md)
 
 ## Examples
 -

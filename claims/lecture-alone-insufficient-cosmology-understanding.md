@@ -50,3 +50,4 @@ Five-semester observational study of an introductory astronomy course at an urba
 - [Working with real data helps students understand the evidence behind scientific world views and discard mistaken preconceptions](real-data-helps-discarding-preconceptions.md) — related
 - [Students perceived their understanding of metabolism as significantly improved over the semester](storytelling-improved-perceived-understanding.md) — related
 - [Periodic in-class surveys showed improved self-confidence in all identified skills, with lab and class activities cited far more often than the blog](in-class-surveys-confidence-improved-lab-and-activities-cited.md) — related
+- [A CLASS-based computer lab comparing ΛCDM with exotic cosmological models enabled students to grasp the impact of cosmological parameters on CMB observables](class-exotic-models-cmb-lab-student-understanding.md) — a narrower finding that bears on this claim

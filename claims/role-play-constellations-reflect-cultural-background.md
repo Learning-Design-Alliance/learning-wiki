@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2010
+source_checked: 2026-11-18
 sources:
   - id: brown-2010
     resource: "https://doi.org/10.48550/arXiv.1009.5289"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Constellations created by 'Natives' group members targeted animals and nature while 'Explorers' group members chose artificial objects such as a plane, demonstrating the impact of cultural background on constellation creation. [→ Brown 2010](#brown-2010)

@@ -50,3 +50,4 @@ Contingency-table analysis of 329 residents' composite BESE quartiles against fi
 - [ABP CE first-attempt pass rates increased at two of three programs during BESE implementation, with a ceiling effect at the third](bese-implementation-pass-rates-increased.md) — related
 - [Composite and PGY-1 BESE scores correlate with final-year In-Training Examination scores](bese-scores-correlate-ite.md) — related
 - [Number of BESE quizzes completed is not associated with ABP CE failure rates or scores](quiz-completion-count-not-associated-outcomes.md) — related
+- [Students in the bottom quartile of incoming preparation have about a factor of five higher probability of scoring in the bottom quartile of the exam than top-quartile-preparation students](bottom-quartile-preparation-fivefold-failure-risk.md) — related

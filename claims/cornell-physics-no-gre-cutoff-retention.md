@@ -48,3 +48,4 @@ The article reports Cornell physics graduated 54 of 74 women PhDs (73%) between 
 - [GRE V and GRE Q scores do not predict STEM PhD completion for women](gre-scores-no-prediction-women-stem-phd.md) — related
 - [Women enrolled in STEM PhD programs had GRE Q scores averaging about 40 points lower than men at each institution while completing at similar rates](gre-q-gender-gap-similar-completion.md) — related
 - [The Fisk-Vanderbilt master's-to-PhD bridge program, using a 30-minute interview instead of a GRE cutoff, achieved over 80% retention of women and minorities toward the PhD](fisk-vanderbilt-bridge-program-retention.md) — related
+- [GRE score gaps by race, gender, and citizenship, combined with cutoff use, select against underrepresented groups in physics admissions](gre-cutoffs-select-against-underrepresented-groups.md) — related

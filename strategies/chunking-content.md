@@ -57,9 +57,11 @@ Working memory can hold only a few novel elements at once; presenting more than 
 5. Provide periodic integration activities — summaries, concept maps, cumulative practice — that connect chunks into a whole.
 
 ## Related Strategies
+
 - **Segmented multimedia presentation** — chunking applied to video and animation, per segmenting principles in multimedia design
 - **Spaced retrieval scheduling** — distributes chunk review over time so each unit is consolidated before the next
 - **Scaffolded task sequencing** — chunking applied to whole tasks rather than content pieces
+- [Divide a demanding programming project into incrementally more complex chunks with small self-set goals](chunked-incremental-goals-student-programming-project.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — lessons broken into short videos, each covering one step or concept, followed immediately by practice items; unit structure makes chunk relationships visible.

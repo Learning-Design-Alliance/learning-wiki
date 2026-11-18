@@ -55,3 +55,4 @@ Held-out test set comparison of sequential deep learning models on 316 students'
 - [DMO-GRU trains faster than the deep learning baselines, with a 98 s training time versus 150 s for CNN-GRU and 138 s for LSTM](dmo-gru-faster-training-time.md) — related
 - [The DMO-GRU model achieves the best classification results among the compared models, with 91.2% accuracy, 90.8% F1-score, 90.1% precision and 92.5% recall](dmo-gru-best-classification-results.md) — reports the opposite
 - [Deep learning models (LSTM, GRU, transformer) achieve high and comparable accuracy (0.90–0.93) on physiological exam-outcome prediction](deep-learning-models-comparable-accuracy-physiological-exam-prediction.md) — reports the opposite
+- [The variable-based linear regression classifier produced the best-performing student performance model, yielding the least MAE, RMSE, RAE and RRSE among the four trained models](variable-based-lrc-best-error-metrics-programming-spm.md) — related

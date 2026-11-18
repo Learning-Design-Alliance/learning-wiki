@@ -47,3 +47,4 @@ The authors report their own factor-analytic work with reduced-basis factor anal
 ## Related Claims
 - [Personal Interest and Real World Connection categories shift differently across courses in response to instruction](personal-interest-and-real-world-shift-differently-by-course.md) — related
 - [Two-category distinctions between describing the real world and caring about everyday physics are insufficient for life-science students' connections](two-category-distinction-insufficient.md) — related
+- [On the CLASS, women score less expertlike on real world connections, personal interest, problem solving confidence, and problem solving sophistication, and more expertlike on sense-making/effort](class-gender-category-differences.md) — related

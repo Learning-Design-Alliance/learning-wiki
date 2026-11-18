@@ -53,3 +53,4 @@ Mixed-methods cluster randomized controlled trial with 43 undergraduate physioth
 - [Most included studies sampled medical students (n=13), with few studies among nursing, pharmacy, physiotherapy, dentistry, or mixed disciplines](medical-students-dominate-ebp-teaching-evidence.md) — related
 - [Websites improve practical skills performance in physiotherapy education](websites-improve-practical-skills-physiotherapy.md) — related
 - [Immediately after a single 90‐minute session, physiotherapy students learning neuroanatomy with immersive VR scored higher overall than students studying with atlases and textbooks](ivr-higher-neuroanatomy-posttest-overall.md) — related
+- [Students retain information better when a virtual learning environment complements the traditional learning environment](vle-complement-traditional-teaching-retention.md) — related

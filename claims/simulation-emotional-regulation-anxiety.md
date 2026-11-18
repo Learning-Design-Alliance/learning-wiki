@@ -67,3 +67,4 @@ DHC class 1 on emotional regulation drew on students' self-administered question
 - [Participants reported apprehension before the in situ simulation, driven by fear of the unknown, filming, and perceived assessment, which mostly changed afterwards](simulation-apprehension-fear-assessment.md) — related
 - [Students new to video feedback found their expected self-image differed from their actual video image, causing anxiety and distress](video-self-image-discrepancy-causes-anxiety.md) — related
 - [Student explanations of active-learning anxiety align with communication apprehension, social anxiety, and test anxiety](active-learning-anxiety-evaluative-types.md) — related
+- [STEM courses increased the frequency and intensity of anxiety episodes for students with anxiety-related diagnoses, and testing accommodations reduced test anxiety](stem-course-anxiety-testing-accommodations.md) — related

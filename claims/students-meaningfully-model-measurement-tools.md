@@ -76,3 +76,4 @@ Qualitative transcript excerpts from the think-aloud activity "span four diﬀer
 - [Students engage in model-based reasoning throughout the troubleshooting process, with EMF phases interacting within a troubleshooting cycle](students-model-based-reasoning-throughout-troubleshooting.md) — related
 - [No assessments of students' modeling ability exist for upper-division physics labs](no-upper-division-modeling-assessments.md) — related
 - [Think-aloud interviews validate the framework's focus on measurement system models](think-aloud-validation-measurement-system-models.md) — possibly the same claim (merge candidate)
+- [Upper-division students working on an op-amp circuit spent the most time making measurements, making comparisons, and enacting revisions, and much less time proposing causes and constructing models](students-most-time-measurements-comparisons-revisions.md) — related

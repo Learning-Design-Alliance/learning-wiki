@@ -83,6 +83,7 @@ ConcepTests convert lecture time into [active learning](../principles/active-lea
 - [Teach single-quanta experiments by presenting actual data from original sources with clicker-question discussion, omitting extraneous technical details.](../strategies/single-quanta-original-data-clicker-discussion-strategy.md)
 - [Integrate concept tests on time dependence of expectation values into lectures with peer discussion](../strategies/concept-tests-peer-discussion-quantum-expectation-values.md)
 - [Use sequenced concept tests that address similar concepts in different contexts as peer instruction tools in quantum mechanics lectures](../strategies/sequenced-context-varied-concept-tests-strategy.md)
+- [Sequence a demonstration topic as clicker-answered group-discussion questions that build from a conventional device's limits to the superconducting alternative](../strategies/clicker-group-discussion-question-sequence-magnet-teaching.md)
 
 ## Key Sources
 - Mazur, E. (1997). *Peer instruction: A user's manual.* Prentice Hall.

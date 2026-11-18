@@ -47,3 +47,4 @@ Results from item 1 of the first mechanics-course assessment, reported via a cat
 ## Related Claims
 - [In an electromagnetism item, 26% chose the correct answer, about 6% gave the ideal response, 32% omitted, and all wrong answers (42% of the class) fell in the learning-risk zone.](electromagnetism-item-learning-risk-zone-42-percent.md) — related
 - [False positives (categories 1, 2 and 3) were no more than 1% of total responses, which the authors attribute to the required justification tier discouraging guessing.](false-positives-below-one-percent-with-justification-tier.md) — related
+- [At least 75% of students choose at least one correct response on MRM questions, motivating analysis beyond the correct/incorrect dichotomy](mrm-partial-correctness-evidence.md) — related

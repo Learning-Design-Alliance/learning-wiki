@@ -43,6 +43,7 @@ Instead of a traditional lab report, students submit completed work in a "lab ar
 - [Run student research projects as realistic research environments with minimal teacher instruction](situated-research-project-strategy.md)
 - [Open-inquiry lab workflow in which students design experiments, build simulations, compare them, and iterate](open-inquiry-simulation-experiment-comparison-workflow.md)
 - [Replace or supplement essay assessment with interactive oral assessments (viva voces) where writing is not the skill being assessed](oral-viva-assessment-replace-essays.md)
+- [Communication projects as individual summative assessments replacing the lab practical](data-lab-communication-projects-strategy.md)
 
 ## Examples
 -

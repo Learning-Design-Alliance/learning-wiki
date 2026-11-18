@@ -32,4 +32,4 @@ phyphox is a free cross-platform smartphone-sensor application developed by Staa
 - [SmartPhysics: Rotation Lab](smartphysics-rotation-lab.md)
 
 ## Key Sources
-- Staacks, S., Hütz, S., Heinke, H., & Stampfer, C. (2018). Advanced tools for smartphone-based experiments: phyphox. arXiv. https://arxiv.org/abs/1804.06239
+- Staacks, S., Hütz, S., Heinke, H., & Stampfer, C. (2018). Advanced tools for smartphone-based experiments: phyphox. arXiv. https://arxiv.org/abs/1804.06239. [doi:10.1088/1361-6552/aac05e](https://doi.org/10.1088/1361-6552/aac05e)

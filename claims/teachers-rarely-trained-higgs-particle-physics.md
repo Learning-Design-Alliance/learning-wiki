@@ -48,3 +48,4 @@ The author's motivating observation in the abstract, offered without cited data 
 ## Related Claims
 - [Most surveyed pre-service teachers aim for teaching positions, especially in science or mathematics](career-preference-teaching-science-math.md) — related
 - [Playing Quark Wars solidified particle terminology and made particle identification tangible for secondary/middle school students in a single camp test](quark-wars-solidified-particle-terminology-camp-test.md) — related
+- [Educational presentations of particle physics share a common 'received view' narrative that supports severe misconceptions and ignores the novelty of quantum field theory](received-view-simplified-particle-physics-misconceptions.md) — related

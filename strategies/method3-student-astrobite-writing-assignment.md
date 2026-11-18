@@ -53,6 +53,7 @@ Method 3, "designed with upper-level undergraduate or graduate classes in mind,"
 - [Student research project: topic selection, scaffolded reading of related Astrobites articles, and a paper or presentation](method2-student-research-project-astrobites.md)
 - [Four suggested classroom applications of Astrobites: reading assignments, written summaries, in-class presentations, and a website discussion forum](astrobites-classroom-integration-strategies.md)
 - [Student-Created Magazines](student-created-magazines.md)
+- [Incorporate Astrobites into astronomy coursework using the collaboration's lesson plans and grading rubrics](astrobites-classroom-lesson-plans-strategy.md)
 
 ## Examples
 -

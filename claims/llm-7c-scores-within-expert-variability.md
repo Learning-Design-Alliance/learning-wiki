@@ -78,3 +78,4 @@ Spearman correlation between LLM scores and human mean scores across the 10 disc
 - [Including supplemental response context in modified inputs was necessary because human raters scored target responses with access to those responses](supplemental-response-context-modified-inputs.md) — related
 - [An automated scoring engine matched experienced human markers yet was rejected over the confidentiality-explainability conflict](crase-scoring-equivalent-to-human-markers-rejected.md) — related
 - [Agreement between AI-generated competency scores and human ratings was mixed across studies, with some reporting moderate to strong agreement and others showing score inflation and inconsistent performance](ai-ssp-score-agreement-with-human-ratings-mixed.md) — related
+- [Early inter-rater reliability studies found significant variation between teachers grading the same assignment, about 5 points on a 100 point scale](inter-rater-grading-variation-five-points.md) — related

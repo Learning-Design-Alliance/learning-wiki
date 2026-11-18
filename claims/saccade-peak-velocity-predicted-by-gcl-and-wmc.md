@@ -49,3 +49,4 @@ Hierarchical regression (N = 46) on mean saccade peak velocity from the eye-trac
 - [Mean fixation duration is uniquely predicted by extraneous load, and additionally by germane load and working memory capacity](mean-fixation-duration-predicted-by-ecl-and-gcl.md) — related
 - [Ratio of pupil size change is uniquely predicted by extraneous load and germane load, with opposite signs](pupil-size-change-predicted-by-ecl-and-gcl.md) — related
 - [Transitions between text and animation areas of interest are uniquely predicted by intrinsic load (sentence complexity)](text-animation-transitions-predicted-by-intrinsic-load.md) — related
+- [No group differences in intrinsic or germane cognitive load between video-analysis and traditional conditions](no-group-differences-icl-gcl.md) — related

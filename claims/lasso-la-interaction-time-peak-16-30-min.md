@@ -46,3 +46,4 @@ HLM student interaction-time model (model 5), each category compared against 0 m
 
 ## Related Claims
 - [Student performance was better in classes where faculty spent more time meeting with LAs (+0.004 per additional co-planning minute)](lasso-faculty-co-planning-time.md) — related
+- [Average weekly time spent in the system increased from 15 minutes to 45 minutes for languages and 25 minutes for societal and science subjects over the study period](weekly-system-time-increase-2015-2017.md) — related

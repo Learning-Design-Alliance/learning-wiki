@@ -62,3 +62,4 @@ Qualitative findings from 32 student focus groups. Students cited independence, 
 - [Students in the high-tech group reported higher engagement and perceived value than low-tech students, who wanted more high-tech exposure](high-tech-simulation-qualitative-engagement.md) — related
 - [Instructors' assessment philosophies centered on promoting non-technical discipline-independent skills, providing authentic learning experiences, and emphasizing individualized assessment](instructor-philosophies-ntdis-authentic-individualized.md) — related
 - [Focus group study found students appreciated, engaged with, and learned from VGS and wanted more experiences](focus-group-students-engaged-learned-vgs.md) — related
+- [Pilot students appreciated the creative freedom of computational essays but found the openness and notebook non-linearity challenging](student-experiences-creative-freedom-and-challenges.md) — a narrower finding that bears on this claim

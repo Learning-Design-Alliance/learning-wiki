@@ -52,3 +52,4 @@ Empirical verification on a 50-item Selection Test administered to 911 candidate
 - [Point-biserial item-total correlation is negatively related to test discriminating value and can be expressed via item and test difficulty and discrimination parameters](point-biserial-negative-test-discrimination-relation.md) — related
 - [Intersection point k0 of item difficulty and discriminating curves provides a data-driven item-deletion criterion](k0-intersection-item-deletion-criterion.md) — related
 - [Learned difficulty parameters show a moderate positive correlation with empirical KC difficulty on QATD2k](learned-difficulty-correlates-empirical-difficulty.md) — related
+- [Questions with difficulty index close to 0.27 that reach their maximum DI have the highest discrimination power, per the article's theoretical-limit analysis](diff-i-near-0-27-highest-discrimination-potential.md) — related

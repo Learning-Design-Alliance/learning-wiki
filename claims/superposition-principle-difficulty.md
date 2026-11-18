@@ -51,3 +51,5 @@ Findings from Problems 2–4, which require the superposition principle to compa
 - [Guanhua developed his understanding of superposition of electric forces during the interview, showing forces act simultaneously](superposition-understanding-developed-in-interview.md) — related
 - [Introductory physics students commonly confuse the electric field at a point with the contribution to electric flux through an area, e.g., claiming the field is zero where the area vector is perpendicular to the field](students-confuse-electric-field-with-electric-flux.md) — related
 - [All four observed upper-division students failed their first attempt at a sign-intensive electrostatics superposition problem](upper-division-first-attempt-sign-failures.md) — a narrower finding that bears on this claim
+- [Completing an E&M course improves performance on negative electric field and potential questions but not on the negative net-charge question](em-course-completion-differential-item-effects.md) — related
+- [Interpretations of the term net charge may underlie the persistent difficulty of the charge-transfer question](net-charge-interpretation-difficulty.md) — related

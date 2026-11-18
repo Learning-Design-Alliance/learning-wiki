@@ -70,3 +70,4 @@ Same analysis: Cramér's V effect sizes were "small across all representations",
 - [LLM accuracy varies across mathematically equivalent problem representations even under deterministic decoding, in both interaction conditions](llm-representational-sensitivity-equivalent-math-forms.md) — related
 - [Representation gaps are nontrivial for all models, and code-based interaction can amplify representational specialization rather than stabilizing performance](representation-gaps-model-specific-code-amplification.md) — related
 - [Ninth grade algebra students solve verbally presented problems better than symbolically presented problems](students-verbal-problems-easier-than-symbolic.md) — related
+- [Algebra I students showed no significant accuracy difference between proportion equations and proportion word problems, bounding the verbal advantage to other problem types](proportions-verbal-advantage-null.md) — related

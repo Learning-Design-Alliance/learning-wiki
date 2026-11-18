@@ -170,3 +170,4 @@ The chapter reports Lindsey et al. (2014), whose personalized review system impl
 - [In-class quizzes taken directly from homework problems produced about 15% greater homework completion than conceptually related open-journal quizzes](homework-based-quizzes-15-percent-greater-completion.md) — related
 - [Engineering students struggle with end-of-semester exam load, attributed by lecturers to a lack of semester-accompanying learning and of systematic preparation of and follow-up on courses](student-preparation-deficits-prerequisite-for-icm.md) — related
 - [Students completing more review quizzes than the graded goal continue to improve in accuracy while normal-studiers plateau beyond the 50-question mark](geas-super-studiers-continue-improving.md) — a narrower finding that bears on this claim
+- [Students working mostly from home and primarily taking quizzes (cluster C5) do not show improved performance](home-quiz-use-no-performance-gain.md) — reports the opposite

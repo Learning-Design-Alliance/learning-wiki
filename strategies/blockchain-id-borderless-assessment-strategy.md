@@ -50,4 +50,4 @@ The article proposes that students can take an assessment at any university in t
 -
 
 ## Key Sources
-- Sommer, T., Deppe, G., Stehling, V., Haberstroh, M., & Hees, F. (2018). Request for Comments: Proposal of a Blockchain for the Automatic Management and Acceptance of Student Achievements. E-Prüfungs-Symposium, RWTH Aachen. https://eric.ed.gov/?id=ED
+- Sommer, T., Deppe, G., Stehling, V., Haberstroh, M., & Hees, F. (2018). Request for Comments: Proposal of a Blockchain for the Automatic Management and Acceptance of Student Achievements. E-Prüfungs-Symposium, RWTH Aachen. https://eric.ed.gov/?id=ED. [doi:10.48550/arxiv.1806.09335](https://doi.org/10.48550/arxiv.1806.09335)

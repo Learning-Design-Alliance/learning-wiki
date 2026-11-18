@@ -56,3 +56,4 @@ The authors read the moderate correlation as evidence that LLMs approach problem
 - [Distractor similarity to the correct answer increases MCQ complexity](distractor-similarity-increases-complexity.md) — related
 - [Model selection of the dominant human distractor is compatible with a plausibility-weighted baseline, showing no systematic divergence beyond option plausibility](distractor-selection-plausibility-baseline.md) — related
 - [Rarely chosen distractors can carry clinically important information about unsafe practices, so removing them loses diagnostic information](rarely-chosen-unsafe-distractors-informative.md) — related
+- [Preliminary results suggest multiple choice questions can mimic free-response questions under the right circumstances](multiple-choice-mimics-free-response-preliminary.md) — related

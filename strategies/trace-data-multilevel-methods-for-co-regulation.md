@@ -46,6 +46,7 @@ The review recommends methodological expansion for studying co-regulation as a g
 - [Adopt an integrative methodological toolkit using machine learning and computational models to capture SR's multi-level, temporal, and social dynamics](integrative-methodological-toolkit-machine-learning-sr.md)
 - [Use unobtrusive AI facial expression recognition alongside qualitative interaction coding to study emotion regulation in collaborative learning](fer-alongside-qualitative-coding-for-ssrl-research.md)
 - [Methodological agenda for CCLT-inspired CSCL research: new cognitive load measures, multilevel analysis, temporality, and broader methodologies](cclt-methodological-agenda.md)
+- [Integrate server-log network analysis with other methodological approaches to capture student learning strategies](integrate-log-network-analysis-with-other-methods.md)
 
 ## Examples
 -

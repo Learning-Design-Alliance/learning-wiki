@@ -47,3 +47,4 @@ Qualitative interview study: five faculty and postdocs in Physics, Computer Scie
 ## Related Claims
 - [Semi-structured interviews with senior emergency specialists surfaced implicit competency indicators, such as stress resilience and rapid communication skills, not fully captured in the literature](interviews-surfaced-implicit-indicators-stress-resilience.md) — related
 - [Experts proposed new activities and modifications that were incorporated into the model, while several checklist-derived activities failed to reach consensus](delphi-expert-proposals-and-exclusions.md) — related
+- [NoNIP underwent expert validation through semi-structured interviews with two experts each in mathematics and physics](nonip-expert-validation-interviews.md) — related

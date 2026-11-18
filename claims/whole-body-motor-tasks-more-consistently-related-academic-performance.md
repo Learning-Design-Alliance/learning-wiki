@@ -52,3 +52,4 @@ Authors' interpretation in the Discussion, offered as a possible explanation ("I
 - [Total fine motor scores are significantly and positively associated with mathematics performance in school-aged children, with strong review-level evidence](total-fine-motor-scores-positive-mathematics-association.md) — related
 - [Fine motor skills show a significant moderate overall correlation (r = .329) with academic-cognitive skills in children and adolescents](fms-moderate-correlation-academic-cognitive.md) — reports the opposite
 - [The FiMS–GMS difference is larger for intelligence than for executive functions, where both motor skills show similar moderate links](intelligence-versus-executive-functions-motor-links.md) — reports the opposite
+- [Human Orrery activities with 10 to 16 year old children activate and link cognitive activities about kinematics and dynamics to sensori-motor activities](human-orrery-kinematics-sensorimotor-activation.md) — related

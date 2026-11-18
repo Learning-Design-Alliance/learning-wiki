@@ -49,3 +49,5 @@ Paired t-tests on matched pre/post PLIC scores from 726 students (FY d = 0.10, p
 - [Beyond-first-year students and first-year physics majors score significantly more expert-like than their comparison groups, supporting concurrent validity](eclass-concurrent-validity-course-level-major.md) — related
 - [SQI labs produce a statistically significant, medium effect on post-instruction PLIC scores controlling for pre-scores](sqi-labs-significant-medium-ancova-effect.md) — reports the opposite
 - [SQI-lab students improve on all but one PLIC question while traditional-lab students improve on only 4 of 10](sqi-gains-across-plic-questions.md) — related
+- [Students in labs designed to teach critical thinking score about 0.52 points higher at post-test controlling for pre-score](ctlabs-higher-post-scores.md) — reports the opposite
+- [Students show a small statistically significant pre-to-post gain on the PLIC in matched samples](plic-small-prepost-gain.md) — reports the opposite

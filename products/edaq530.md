@@ -21,6 +21,7 @@ Edaq530 is a low-cost, open-source USB-to-sensor interface and measurement softw
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Measurement templates: single-file experiment settings that can be loaded and switched with one click**: To address teachers' limited classroom preparation time, Edaq530 stores all settings relevant to an experiment in a single .xml file that can be reloaded, shared between teachers and switched without restarting the software. The article states: "Our program stores all settings relevant to an experiment in a single .xml file." Templates include sampling rate, averaging information, time window length, scale titles, graph appearance, channel states, sensors and level-crossing settings. This facilitates the exchange of experiments between users. (Katalin Kopasz et al. (2012))
+- **Set of transparent example experiments demonstrating the EDAQino system across measurement types**: The article provides a reusable lesson-level pattern: a set of tested example experiments, each available as a video demonstration, covering temperature (thermistor), acceleration (three-axis accelerometer on a pendulum bob), photogate timing, Hall-sensor magnetic field measurement, heart-beat photoplethysmography, and mass-on-spring oscillations. The authors state "The methods shown here can inspire the students to play with the possibilities, to realize their own ideas." Each experiment requires the user to configure ports and apply proper scaling functions. (Gingl Z et al. (2018))
 
 ### Claims
 
@@ -34,3 +35,4 @@ Edaq530 is a low-cost, open-source USB-to-sensor interface and measurement softw
 
 ## Key Sources
 - Katalin Kopasz, Péter Makra and Zoltán Gingl. (2012). Edaq530: a transparent, open-end and open-source measurement solution in natural science education. arXiv preprint. https://arxiv.org/abs/1009.0432
+- Gingl Z, Mellár J, Szépe T, Makan G, Mingesz R, Vadai G and Kopasz K. (2018). Universal Arduino-based experimenting system to support teaching of natural sciences. https://github.com/miszak-mta-szte/Edaquino

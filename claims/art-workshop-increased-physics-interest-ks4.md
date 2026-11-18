@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: weak
 newest_evidence: 2018
+source_checked: 2026-11-18
 sources:
   - id: i-andrews-2018
     resource: "https://doi.org/10.1088/1361-6552/aad276"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After the workshop, four out of five students reported increased interest in physics, approximately 35% found it more likely they would study physics at university (20% among students not originally inclined), and three quarters considered physics more accessible (65% of those initially not considering it accessible). [→ I. Andrews 2018](#i-andrews-2018)

@@ -85,3 +85,4 @@ Quasi-experimental comparison of 21 experimental and 13 control students after a
 - [Special physics class students rate teacher-student relationships statistically significantly higher than students in other classes, and report more research, project and experimental opportunities](teacher-student-relationship-perceptions-special-class.md) — related
 - [The EJS PbI treatment produced no significant advantage over traditional instruction on Newton's 3rd Law post-test items](ejs-pbi-no-significant-newtons-third-law-gain.md) — related
 - [Newton's laws, conservation of energy, and geometrical optics are the three physics concepts that are simultaneously pivotal, present in all four examined state standards, and particularly difficult to learn](three-pivotal-physics-concepts-standards.md) — related
+- [Authors report that participants seem to have better understood the laws of thermodynamics after the game](participants-better-understand-thermodynamics.md) — related

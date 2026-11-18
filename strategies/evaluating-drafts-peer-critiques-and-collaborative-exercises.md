@@ -45,6 +45,7 @@ The final recommendation is to consider alternate ways of evaluating student wri
 - [Portfolio Assessment](portfolio-assessment.md)
 - [Drafting And Feedback Cycles](drafting-and-feedback-cycles.md)
 - [Use portfolio assessment as a complementary alternative alongside traditional timed writing assessment](portfolio-complementary-to-traditional-assessment.md)
+- [Critique of shock-value qualitative research presentation and recommendation to consider impact on diverse audiences](avoid-shock-value-qualitative-presentation.md)
 
 ## Examples
 -

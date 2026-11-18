@@ -47,3 +47,4 @@ Experimental design assigning students in three introductory physics courses (69
 ## Related Claims
 - [Paper pre-test participation was uniformly high (87-97%) across instructors, while paper post-test participation varied widely (55-95%) with instructor administration details.](paper-posttest-participation-varies-by-instructor.md) — related
 - [The paper-versus-online participation difference was statistically significant for instructors 1-3 at both pre- and post-test, but for instructors 4-5 only at pre-test, with no significant post-test difference.](paper-online-gap-significant-for-some-instructors.md) — related
+- [Online LASSO-administered assessments produce participation rates and scores equivalent to in-class paper assessments when instructors use four recommended practices](lasso-online-assessments-equivalent-participation-performance.md) — related

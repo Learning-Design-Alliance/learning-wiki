@@ -66,3 +66,5 @@ The survey responses yielded two anecdotes: a Caltech inquiry-based introductory
 ## Related Claims
 - [Classroom use of Astrobites constitutes a form of peer-assisted learning because it is written by and for students and involves discussion and peer-teaching](astrobites-use-as-peer-assisted-learning.md) — related
 - [Astrobites' daily readership includes an estimated >150 undergraduate students in physical-science fields, most of whom aspire to research careers](astrobites-undergraduate-readership-estimate.md) — related
+- [Writing Astrobites summaries develops graduate-student authors' paper-reading, science-communication, and management skills](astrobites-author-skill-development.md) — related
+- [Astrobites reaches a large international readership, but only a small fraction are undergraduates, its intended focus audience](astrobites-readership-broader-than-undergrads.md) — related

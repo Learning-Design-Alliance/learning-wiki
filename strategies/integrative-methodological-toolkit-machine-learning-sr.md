@@ -49,6 +49,7 @@ The article recommends that research on SR in education move beyond single-tradi
 - [Decompose aggregate models of group learning using fine-grained behavioural observations](decompose-group-learning-models-fine-grained-observations.md)
 - [Use log data from digital assessment to reconstruct solution processes and identify validity threats, disengagement, and technical obstacles](log-data-reconstruct-solution-processes-validity-threats.md)
 - [Methodological agenda for CCLT-inspired CSCL research: new cognitive load measures, multilevel analysis, temporality, and broader methodologies](cclt-methodological-agenda.md)
+- [Integrate server-log network analysis with other methodological approaches to capture student learning strategies](integrate-log-network-analysis-with-other-methods.md)
 
 ## Examples
 -

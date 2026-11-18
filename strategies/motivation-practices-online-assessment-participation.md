@@ -48,6 +48,7 @@ Because online, out-of-class assessments suffer lower completion, the authors re
 
 - [Offer participation credit and provide multiple reminders (in class and by email) when administering low-stakes assessments online out of class](credit-and-reminders-online-assessment-participation.md)
 - [Use four recommended practices — multiple email reminders, multiple in-class announcements, and participation credit for pretest and posttest — to maximize online assessment participation](four-recommended-practices-online-assessment-participation.md)
+- [When administering pre/post assessments online, use in-class reminders, email reminders, and credit for participation to reach paper-equivalent participation rates](recommended-practices-raise-online-assessment-participation.md)
 
 ## Examples
 -

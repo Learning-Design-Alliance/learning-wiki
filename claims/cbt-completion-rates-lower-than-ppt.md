@@ -50,3 +50,4 @@ Descriptive completion rates reported in the Methods section of the 25-section e
 - [There is no meaningful difference in low-stakes RBA scores between students completing assessments online outside of class and in class on paper](cbt-condition-nonsignificant-posttest-hlm.md) — related
 - [The more recommended instructor practices used, the higher CBT participation; with all four practices, online and paper posttest participation rates were very similar](instructor-practices-raise-cbt-participation.md) — related
 - [Data collection with low-stakes RBAs systematically over-represents high-achieving students regardless of assessment administration method](low-stakes-rbas-overrepresent-high-achievers.md) — related
+- [Online LASSO-administered assessments produce participation rates and scores equivalent to in-class paper assessments when instructors use four recommended practices](lasso-online-assessments-equivalent-participation-performance.md) — related

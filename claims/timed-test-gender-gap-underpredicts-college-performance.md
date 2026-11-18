@@ -77,3 +77,4 @@ The guide's overview cites Wainer and Steinberg (1992) for this finding, using i
 - [PSAT-based National Merit scholarship selection distributes awards disproportionately to boys, with girls receiving 36 percent of scholarships](psat-national-merit-awards-skew-male.md) — related
 - [Prior achievement, attendance, and suspensions do not explain the gender difference in ninth-grade math grades](prior-achievement-attendance-suspensions-do-not-explain-gender-grade-gap.md) — related
 - [The boys-versus-girls achievement gap narrows and disappears in the highest SES group](sex-gap-in-ea-narrows-at-highest-ses.md) — related
+- [Timed physics exams lower scores for women and girls disproportionately more than for men and boys](timed-exams-disproportionately-lower-womens-scores.md) — related

@@ -52,3 +52,4 @@ Same randomized controlled experiment (n = 95). Multiple-choice accuracy means w
 - [MCQ accuracy was high (above 87%) across all conditions with no significant difference between diverse and generic explanations](mcq-accuracy-no-significant-condition-difference.md) — related
 - [Students reported similar perceived information quantity across conditions, indicating diverse explanations did not produce perceived information overload](diverse-explanations-no-perceived-information-overload.md) — related
 - [Slide provision reduces unprompted class attendance when attendance carries no grade consequence](slide-provision-reduces-unprompted-attendance.md) — related
+- [A replication of diagram-prompting effects replicated the shift toward formal solution approaches but not the accuracy decrement, suggesting sufficient learning time is a necessary condition](diagram-prompting-replication-null.md) — related

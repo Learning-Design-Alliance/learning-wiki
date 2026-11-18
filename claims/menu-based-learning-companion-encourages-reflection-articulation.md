@@ -49,3 +49,4 @@ The authors' retrospective account of their 1998 study of the LuCy learning comp
 - [Deliberative discussion, detectable through dialogue acts, is characterized by social cooperation and openness to persuasion and should lead to better learning outcomes](deliberative-discussion-dialogue-acts.md) — a broader claim this one bears on
 - [Dialogue acts can distinguish balanced, supportive collaborative learning groups from unbalanced, unsupportive ones](dialogue-acts-distinguish-group-types.md) — related
 - [Educators redefined AI's educational role from answer provider to learning partner and tutor supporting conceptual understanding](ai-learning-partner-tutor-redefinition.md) — related
+- [Most students can perform reflective checks when prompted, with 72% correctly articulating the 1/r fall-off of the potential in the large-r limit](prompted-reflection-mostly-successful.md) — related

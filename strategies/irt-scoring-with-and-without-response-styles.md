@@ -42,7 +42,8 @@ The article's method is to score surveys two ways and compare: "we scored survey
 - [Response Styles Scale Usage Definition](../theories/response-styles-scale-usage-definition.md)
 
 ## Related Strategies
-- 
+
+- [Planned validation pathway: IRT, factor analysis, student and faculty interviews, and growth-valuing scoring](piql-validation-pathway-strategy.md)
 
 ## Examples
 -

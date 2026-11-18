@@ -133,3 +133,5 @@ The article's abstract states the consequence of the opt-out conceptualization: 
 - [Nonserious test-taking behavior varies widely across medical schools in the low-stakes BPT, from 1% to 26%](nonserious-test-taking-range-schools.md) — related
 - [Presentation type and individuality of discussed results show no significant relation to serious test-taking behavior as main effects](null-presentation-type-individuality-results.md) — related
 - [Consequences for not participating are associated with higher odds of serious test-taking behavior in a low-stakes assessment](participation-consequences-serious-test-taking.md) — related
+- [The Easy Questions Test identifies 3%–4.6% of real test takers as non-serious versus 41%–51% of simulated random guessers](eqt-flags-3-to-4-6-percent-nonserious.md) — related
+- [The Uncommon Answers Test identifies slightly more than 2% of real test takers as non-serious versus large fractions of simulated random guessers](uat-flags-slightly-over-2-percent-nonserious.md) — related

@@ -45,4 +45,4 @@ CFA on the second random split (n = 480) using R/lavaan, testing the EFA-derived
 
 
 ## Related Claims
--
+- [Confirmatory factor analysis of PIQL response data does not support the intended three-group structure of ratio/proportion, covariation, and negativity items](cfa-fails-piql-three-construct-groups.md) — related

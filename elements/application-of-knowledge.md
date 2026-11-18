@@ -89,6 +89,7 @@ Application is where learning consolidates: retrieving and using knowledge in va
 - [Context-prompt reflection assignments in which students elaborate on a concept, apply it to a novel problem, and receive AI feedback](../strategies/ai-reflection-context-prompt-assignments.md)
 - [Use multiple assessment methods aligned to learning objectives so students must apply information rather than recall memorized facts](../strategies/multi-method-assessment-aligned-to-objectives.md)
 - [Assess with new situations and start from real-life problems rather than repeating lecture tasks](../strategies/new-situations-assessment-strategy.md)
+- [Incorporate conceptually-rich, engaging real-world and astronomical contexts into introductory physics problems and instruction](../strategies/engaging-real-world-contexts-intro-physics-problems.md)
 
 ## Key Sources
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43–59. [doi:10.1007/bf02505024](https://doi.org/10.1007/bf02505024)

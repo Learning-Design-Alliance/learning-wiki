@@ -53,3 +53,4 @@ Experimental study of ten-year-old children (N=69) crossing postquestion presenc
 - [Recall of passage details is most depressed when children receive both underlining and conceptual postquestions](underlining-plus-postquestions-most-depress-detail-recall.md) — related
 - [Engagement via annotation (underlining, highlighting, notes) shows no significant effect on comprehension](annotation-engagement-no-comprehension-effect.md) — related
 - [In one experiment, students who generated their own underlining did not score significantly higher on tests than students given experimenter-generated underlining](experimenter-underlining-effective-as-student-underlining.md) — related
+- [The article reports seven types of prior knowledge that facilitate acquisition, organization, and re-disclosure of new knowledge](seven-types-prior-knowledge-reigeluth.md) — related

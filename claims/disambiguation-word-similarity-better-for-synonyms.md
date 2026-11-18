@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: weak
 newest_evidence: 2018
+source_checked: 2026-11-18
 recheck_by: 2021
 sources:
   - id: atish-pawar-2018
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
+> **Currency** · newest study 2018 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` On the Rubenstein and Goodenough theme word pairs, the proposed algorithm's results are better for words having similar meaning and close to the Li et al. algorithm for other cases. [→ Atish Pawar 2018](#atish-pawar-2018)

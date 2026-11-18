@@ -51,3 +51,4 @@ Case-study analysis of an approximately 15-minute unstructured interview with on
 - [Three interview students eliminated a known quantity from two symbolic equations, leaving one equation with two unknowns; such known/unknown confusion was not observed on numeric versions](known-unknown-confusion-symbolic-only.md) — related
 - [A student avoided negative energy by taking absolute values, confusing zero-point translation with absolute value, a move that does not preserve conservation of energy](student-absolute-value-confusion-negative-energy.md) — related
 - [Upper-level students conflate an expectation value with its rate of change in Larmor precession, showing context-dependent reasoning](qm-inconsistent-reasoning-expectation-value-larmor.md) — related
+- [Re-analysis of published studies through NoNIP reveals shared natures of negativity across different physics contexts](nonip-lens-on-published-studies.md) — related

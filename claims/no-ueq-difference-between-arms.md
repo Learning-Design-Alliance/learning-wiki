@@ -56,3 +56,4 @@ Between-group comparison of UEQ scale scores in the quasi-randomized study, usin
 - [The simulation model demonstrated high usability across all six UEQ domains, with attractiveness rated highest and excellent internal consistency (Cronbach's alpha = 0.91)](sbml-probing-simulator-ueq-usability.md) — related
 - [No significant differences in UEQ dimension scores were found across the three student cohort groups](esnpnsd-ueq-no-differences-three-groups.md) — related
 - [AR instructions receive significantly better user-experience ratings than conventional instructions on 5 of 6 UEQ scales](ar-instructions-better-ueq-ratings-five-of-six-scales.md) — related
+- [Learning gain, educational experience and adjective ratings did not differ by year of study; only SUS usability was significantly higher for current-year students](ethics-game-no-year-of-study-differences-except-sus.md) — related

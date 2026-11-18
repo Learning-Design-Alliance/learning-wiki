@@ -54,3 +54,4 @@ Pre-discussion worksheet analysis of the 24 TAs' feature identification for the 
 - [The solution-checking feature (F14) is underrated or ignored by most TAs: only 4 noticed it and none performed an answer check in their own solutions](tas-underrate-solution-checking-feature.md) — related
 - [TAs value initial problem analysis features (diagram, knowns/unknowns list), and diagrams appear in all TA-written solutions while knowns lists appear in about half](tas-value-initial-problem-analysis-features.md) — related
 - [TAs saw the CA-inspired rubric as promoting good problem-solving practices and fair grading, but over half found it too constraining](tas-stated-pros-cons-of-ca-rubric.md) — related
+- [TAs reported they would use multiple-choice problems mainly for quizzes or exams, and few mentioned formative assessment uses such as clicker questions](tas-view-mc-summative-assessment-only.md) — related

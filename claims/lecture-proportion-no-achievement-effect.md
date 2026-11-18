@@ -48,3 +48,4 @@ Semester 2013 comparison of two redesigned classes taught by one instructor with
 - [Students whose final exam scores declined relative to the midterm in the 1/2-lecture class preferred face-to-face lecture over group problem solving](declining-students-prefer-lecture.md) — related
 - [A flipped redesigned introductory physics class achieved higher final exam scores than a traditional lecture-based class, with no midterm difference](flipped-class-outperforms-traditional-final-exam.md) — related
 - [Flipped classroom students spent more time preparing before class but less time reviewing after class than lecture students](flipped-classroom-shifts-study-time-pre-post.md) — related
+- [Midterm exam averages were higher in classes whose learning was developed based on identified student intelligence levels than in classes that did not use it](midterm-gains-when-learning-based-on-intelligence-level.md) — related

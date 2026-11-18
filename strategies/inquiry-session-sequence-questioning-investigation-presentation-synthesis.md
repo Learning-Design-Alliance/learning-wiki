@@ -56,6 +56,7 @@ The activity runs as timed segments: a 25-minute introduction with slideshow, a 
 - [Use guided-inquiry prompts organized by modeling-framework stages (construction, prediction, measurement modeling, comparison, refinement) in a polarization-of-light lab](modeling-prompt-stages-polarization-lab.md)
 - [Classroom implementation structure: preparation, introduction, activity, feedback cycle](activity-feedback-cycle-classroom-structure.md)
 - [SOLE sessions structure self-organized collaborative inquiry in fixed 60-minute blocks](sole-60-minute-session-structure-strategy.md)
+- [Implement simulations as one-hour in-class activities with pre-test, guided group exploration, and immediate post-test](pre-test-simulation-post-test-activity-strategy.md)
 
 ## Examples
 -

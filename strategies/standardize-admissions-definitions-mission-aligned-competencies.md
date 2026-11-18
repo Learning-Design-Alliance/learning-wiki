@@ -48,6 +48,8 @@ The review recommends that future research establish a standard definition for b
 - [Standardize EA wording and align activities with competency-based curricula through stakeholder consultation](standardize-ea-wording-cbme-alignment.md)
 - [Strengthen English language preparation and consider holistic admission tools in English-medium medical admissions](strengthen-english-preparation-holistic-admission-tools.md)
 - [Use validated admission competency criteria to design admission-evaluation methodologies and align curriculum with graduation competencies](admission-competency-criteria-inform-assessment-and-curriculum.md)
+- [Departments should implement evidence-based, systematic, holistic approaches to graduate admissions and partner with programs producing large numbers of underrepresented graduates](holistic-admissions-partner-msi-strategy.md)
+- [Reevaluate graduate admissions toward holistic assessment of research potential instead of decontextualized test-score cutoffs](holistic-phd-admissions-reevaluation-strategy.md)
 
 ## Examples
 -

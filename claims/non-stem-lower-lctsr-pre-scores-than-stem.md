@@ -10,6 +10,7 @@ generated:
   at: 2026-09-26
 evidence_strength: moderate
 newest_evidence: 2011
+source_checked: 2026-11-18
 recheck_by: 2016
 sources:
   - id: moore-2011
@@ -34,7 +35,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r1` · `q2` · `i2` medium
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
+> **Currency** · newest study 2011 · checked against its sources 2026-11-18 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 
@@ -84,3 +85,5 @@ Assessment study comparing pre-instruction LCTSR scores of non-science majors in
 - [Students' stated reasons for taking the introductory astronomy course were predominantly interest-based (95%), not utilitarian](interest-dominant-motivation-astronomy-course.md) — related
 - [The Lawson test is inadequate as a diagnostic of proportional reasoning as used in physics](lawson-test-inadequate-proportional-diagnostic.md) — related
 - [The CURrENT pre-test (54.3%, N=298) is a meaningful indicator of incoming preparation, correlating with CUE post-test scores and prior GPA](current-pretest-indicates-preparation.md) — related
+- [Average Lawson scientific reasoning level of the local student population was significantly lower than reported for USA, China and India](lawson-reasoning-lower-than-cross-cultural-peers.md) — related
+- [Preinstruction scientific reasoning level is correlated with probability of passing introductory physics](reasoning-level-correlates-with-passing-intro-physics.md) — related

@@ -50,3 +50,4 @@ Figure 1 caption reporting the alluvial diagram analysis of declared versus grad
 - [Z-score-normalized introductory math and physics grades differentiate physics degree earners (above average) from physics declarers who leave (below average)](normalized-grades-differentiate-physics-graduates.md) — related
 - [Engineering-bound leavers exit physics during or after the first E&M course, while other-STEM-bound leavers leave much later](exit-timing-differs-by-destination-degree.md) — related
 - [Physics degree earners at MSU come from all initial declared majors in roughly equal measure, contrary to departmental anecdotes](physics-graduates-from-all-initial-majors-equally.md) — related
+- [The share of students declaring they disliked physics at school fell from 42% to 18% after the course](disliking-physics-decline-42-to-18-percent.md) — related

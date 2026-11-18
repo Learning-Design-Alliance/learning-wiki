@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 221 claims (158 show a difference, 36 mixed, 27 no difference) · 152 studies (74 causal, 25 review, 19 associational, 12 design, 8 quant-synthesis, 8 theoretical, 6 qualitative), `q1`–`q3` · 30 of 152 report an effect size · 219 claims rest on one study
+> **Evidence** · 222 claims (159 show a difference, 36 mixed, 27 no difference) · 153 studies (74 causal, 25 review, 19 associational, 13 design, 8 quant-synthesis, 8 theoretical, 6 qualitative), `q1`–`q3` · 30 of 153 report an effect size · 220 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -262,6 +262,7 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Classroom alignment between learning objective and assessment Bloom levels does not explain students' higher-order cognitive skill gains](../claims/alignment-no-effect-on-critical-thinking-gains.md) [-M] — measured as an outcome of the instruction studied
 - [The CCD modeling activity met its primary content and process goals as evaluated by formative assessment and post-activity evaluation forms](../claims/ccd-modeling-activity-goals-met.md) [+W] — measured as an outcome of the instruction studied
 - [Computational skills and critical thinking are among the most transferable job skills an astronomy education provides](../claims/computational-skills-transferable-job-skills-astronomy.md) [+W] — measured as an outcome of the instruction studied
+- [Enrollment year predicts critical thinking dispositions, with undergraduate 2012 students scoring higher; age shows a small negative association with open-mindedness](../claims/enrollment-year-and-age-predict-ct-dispositions.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

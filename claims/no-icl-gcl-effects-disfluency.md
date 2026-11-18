@@ -51,3 +51,4 @@ Regression analyses of subjective cognitive load ratings (Cognitive Load Questio
 - [Neither disfluency nor distinctiveness affected memory across three experiments with alien-list stimuli](disfluency-distinctiveness-null-rummer.md) — related
 - [Mediation hypotheses via extraneous cognitive load and mental effort are unsupported](humour-mediation-cognitive-load-unsupported.md) — related
 - [Transitions between text and animation areas of interest are uniquely predicted by intrinsic load (sentence complexity)](text-animation-transitions-predicted-by-intrinsic-load.md) — related
+- [No group differences in intrinsic or germane cognitive load between video-analysis and traditional conditions](no-group-differences-icl-gcl.md) — related

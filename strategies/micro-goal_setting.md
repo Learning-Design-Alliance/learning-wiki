@@ -58,8 +58,10 @@ Micro-goals work because they convert a distant, abstract outcome into proximal 
 6. Periodically review accumulated progress against the overall objective so micro-goals remain means, not ends
 
 ## Related Strategies
+
 - [Achievable Micro-Goals](achievable_micro-goals.md) — the closely paired strategy variant focused on confidence-building through small wins
 - [Spaced practice scheduling](../claims/spaced-practice-improves-retention.md) [+M] — micro-goals distributed across days implement spacing
+- [Divide a demanding programming project into incrementally more complex chunks with small self-set goals](chunked-incremental-goals-student-programming-project.md)
 
 ## Examples
 - **[Duolingo](https://www.duolingo.com)** — daily XP goals and streaks decompose language acquisition into daily micro-goals with visible progress tracking.

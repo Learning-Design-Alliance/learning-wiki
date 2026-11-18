@@ -55,3 +55,4 @@ Survey study validating three measurement models via PLS-SEM with 171 students a
 - [Evaluations of leadership competency increase with hierarchical position in Vietnamese universities](leadership-perception-gap-by-position.md) — related
 - Six iterations of the 360 Global Ed Model since 2013 are reported by the authors to demonstrate effectiveness for educating socially responsible global citizens — related
 - [Virtual patient effectiveness evidence comes from both high-income and low- and middle-income countries](vp-effectiveness-global-applicability.md) — related
+- [Students do not identify the focus-group topic as standard school material but see it as necessary for responsible citizenship](topic-not-school-program-but-citizenship.md) — related

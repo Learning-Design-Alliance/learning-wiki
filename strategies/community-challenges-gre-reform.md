@@ -48,6 +48,7 @@ The author closes by assigning each stakeholder group a concrete action to reduc
 
 - [Rank applicants with a coarse-grained admissions rubric combining GPA, recommendations, personal statement, and undergraduate institution](coarse-grained-admissions-rubric.md)
 - [Replace standardized test cutoffs with structured interviews and bridge master's programs in graduate admissions](interviews-replace-gre-cutoffs.md)
+- [Departments should implement evidence-based, systematic, holistic approaches to graduate admissions and partner with programs producing large numbers of underrepresented graduates](holistic-admissions-partner-msi-strategy.md)
 
 ## Examples
 -

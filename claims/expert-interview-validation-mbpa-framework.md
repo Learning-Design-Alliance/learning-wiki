@@ -48,3 +48,4 @@ Qualitative validation study using five semi-structured expert interviews with D
 - [Domain-expert testing indicated the two GAI characters fulfilled 9 of the 12 educator needs identified in the needs analysis](domain-expert-evaluation-9-of-12-needs.md) — related
 - [An expert appraisal workshop of an early VER prototype by twenty international experts stressed the importance of annotation to connect rubric and video](expert-workshop-stressed-annotation-importance.md) — related
 - [Rebuilding the pilot MBPA according to the finalized framework demonstrated the framework is a useful and applicable design tool](framework-rebuild-pilot-mbpa.md) — related
+- [NoNIP underwent expert validation through semi-structured interviews with two experts each in mathematics and physics](nonip-expert-validation-interviews.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: weak
 newest_evidence: 2019
+source_checked: 2026-11-18
 sources:
   - id: nandana-weliweriya-2019
     resource: "https://doi.org/10.1088/1361-6404/aaf5d5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q1`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In an oral exam case, one exemplary student combined gestural, diagrammatic, and written-symbolic semiotic resources into compound representations that developed across three episodes to determine the direction and magnitude of the magnetic field of a current sheet. [→ Nandana Weliweriya 2019](#nandana-weliweriya-2019)

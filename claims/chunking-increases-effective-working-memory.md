@@ -52,3 +52,4 @@ The thesis reports, citing Ericsson, Chase, and Faloon (1980), a case study in w
 - [Deliberate practice can expand short-term memory capacity beyond the conventional seven-item limit](deliberate-practice-expands-memory-capacity.md) — related
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — related
 - [Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse as expertise increases](expertise-reversal-effect-compound.md) — related
+- [The article reports seven types of prior knowledge that facilitate acquisition, organization, and re-disclosure of new knowledge](seven-types-prior-knowledge-reigeluth.md) — related

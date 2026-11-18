@@ -48,3 +48,4 @@ Paired comparison within the overall cross-sectional sample (N = 203) of summed 
 - [Most student–AI interactions occur at the understand and apply Bloom levels, with analyze appearing rarely](cognitive-intent-mostly-understand-apply.md) — related
 - [Technology programs examine discipline-related physics topics at higher cognitive levels within a disciplinary context](technology-programs-discipline-specific-physics-emphasis.md) — related
 - [CBME-aligned e-modules added to lectures improved first-year medical students' performance at all four assessed Bloom cognitive levels compared with lectures alone](e-modules-improve-all-cognitive-levels-medical-students.md) — related
+- [Exercise use by Bloom's taxonomy level differs by subject: languages emphasize remember/understand, societal subjects analyze/evaluate, science shows little use of higher levels](bloom-level-use-varies-by-subject.md) — related

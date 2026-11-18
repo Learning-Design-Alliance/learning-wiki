@@ -57,3 +57,4 @@ actividad (Camino, 1995; Gangui e Iglesias, 2015)."
 - [Con opciones múltiples, más del 56% de los futuros docentes eligió la explicación científica correcta de las fases lunares, pero pocos la justificaron con dibujos, que a menudo reflejaban la teoría del eclipse](fases-lunares-eleccion-correcta-dibujos-eclipse.md) — a narrower finding that bears on this claim
 - [Causalidad inversa y teoría del alejamiento en las explicaciones de las estaciones del año](estaciones-causalidad-inversa-teoria-alejamiento.md) — related
 - [Las fases de la Luna y el movimiento de Sol-Tierra-Luna son el tópico con mayores dificultades reportadas, ligado al obstáculo de la visión espacial](lunar-phases-most-difficult-topic-spatial-vision.md) — a narrower finding that bears on this claim
+- [A maquete demonstrou ser um bom recurso didático, capaz de tornar palpáveis conceitos sobre o Sistema Solar](maquete-bom-recurso-didatico-palpavel.md) — related

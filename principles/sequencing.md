@@ -246,6 +246,7 @@ Performance during practice, unaided performance at the end of the unit, delayed
 - [Two-part lesson: Lorentzian derivation of the transformations first, then Einstein's kinematic reinterpretation](../strategies/two-part-lorentzian-then-einstein-lesson.md)
 - [Sequence the computational project with an early submittable first part and analytical debug cases so students recover from bugs before later physics-focused parts](../strategies/staged-submission-with-analytical-debug-cases.md)
 - [Start introductory programming with structural language concepts rather than object-oriented concepts, and emphasize widely used languages](../strategies/introductory-programming-structural-first.md)
+- [Reverse 'application to definition' path: start from societal concepts and reveal the physics quantities behind them](../strategies/application-to-definition-reverse-path.md)
 
 ## Key Sources
 - Reigeluth, C. M. (1979). In search of a better way to organize instruction: The elaboration theory. *Journal of Instructional Development, 2*(3), 8-15. [doi:10.1007/bf02984374](https://doi.org/10.1007/bf02984374)

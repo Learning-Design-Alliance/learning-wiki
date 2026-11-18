@@ -62,3 +62,4 @@ The review reports, citing Sporte, Hart, & Wechsler (2009) and Allensworth et al
 - [Initial PF activities were too frustrating and were refined with moderate metacognitive support so students struggled without giving up](pf-moderate-support-refinement.md) — a narrower finding that bears on this claim
 - [Case of positive behavioral change in a sixth-grade student](matherial-positive-behavioral-change-case.md) — related
 - [Pre-lab prediction work improves the lab experience and cooperative groups reduce frustration](pre-lab-prediction-improves-lab-experience.md) — related
+- [Lab sections covering content ahead of lecture hindered students' ability to monitor their learning pace, leading one participant to withdraw](disjointed-lab-lecture-pace-monitoring-barrier.md) — a narrower finding that bears on this claim

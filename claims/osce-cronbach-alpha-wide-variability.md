@@ -63,3 +63,4 @@ Descriptive synthesis of all 26 alpha values from 23 studies. The wide range (0.
 - [Internal consistency of OSCE station scores remained high (alpha and omega above 0.8) regardless of paper or tablet rating modality](internal-consistency-stable-across-modality.md) — a narrower finding that bears on this claim
 - [Items within each OSCE station loaded on a single factor with high reliability, confirming suitability of the data for OBM2](osce-stations-unidimensional-high-reliability.md) — related
 - [MCQ entrance exam reliability measured by Cronbach's alpha ranged from 0.530 to 0.747 across recruitment years](mcq-exam-reliability-range.md) — related
+- [ProtoPIQL whole-test scores are fairly normally distributed with mean 11 of 18 but internal reliability below accepted thresholds](protopiql-score-distribution-reliability.md) — related

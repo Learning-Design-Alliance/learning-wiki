@@ -51,3 +51,5 @@ Linear probability regressions on 495 Vanderbilt IGP students with cohort fixed 
 - [Undergraduate GPA is a stronger predictor of graduate outcomes than GRE scores](undergrad-gpa-stronger-predictor-than-gre.md) — related
 - [GRE scores and undergraduate GPA do not predict PhD candidacy exam outcomes](gre-scores-gpa-no-candidacy-prediction.md) — related
 - [GRE scores and undergraduate GPA showed weak, non-significant associations with first-semester Ph.D. GPA among UR trainees](gre-weak-non-significant-predictor-first-semester-gpa.md) — related
+- [Traditional graduate admissions measures, particularly the GRE and Physics GRE, disproportionately exclude underrepresented groups and are poor predictors of PhD completion](gre-pgre-exclude-urm-poor-predictors.md) — related
+- [GRE Verbal scores show no relationship with physics PhD completion in any model](gre-verbal-no-completion-relationship.md) — related

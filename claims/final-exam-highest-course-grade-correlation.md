@@ -47,3 +47,4 @@ Pearson correlational analysis of assessment scores across four sections of an u
 ## Related Claims
 - [Essay question format showed the highest correlation with final exam score among the final exam question formats](essay-format-highest-final-exam-correlation.md) — related
 - [Combined grades in the three prerequisite courses are the best available predictor of E&M exam performance at the start of the semester](prerequisite-grades-predict-em-exam-performance.md) — related
+- [Students who worked most during the semester appeared to have the best exam performances (observational, untested)](usage-during-semester-associated-with-exam-performance.md) — related

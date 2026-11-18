@@ -53,3 +53,5 @@ Standardized linear regressions on 492 students predicting Graduate GPA (Table 4
 - [QGRE correlates only weakly with graduate GPA in the author's program, where undergraduate GPA is a better predictor of graduate GPA and correlates with all three GRE sections](qgre-weak-predictor-ugpa-better.md) — related
 - [US News graduate-program rankings give student selectivity, including mean GRE scores, a total weight of 18%, exceeding several productivity measures](us-news-selectivity-weighting-gre.md) — related
 - [Getting the relative weights of admissions variables right matters more than getting the precise shape of the admissions curve correct](weights-matter-more-than-curve-shape.md) — related
+- [Traditional graduate admissions measures, particularly the GRE and Physics GRE, disproportionately exclude underrepresented groups and are poor predictors of PhD completion](gre-pgre-exclude-urm-poor-predictors.md) — related
+- [Undergraduate GPA is the only admissions metric statistically significantly associated with physics PhD completion across all models studied](ugpa-only-consistent-predictor-physics-phd-completion.md) — related

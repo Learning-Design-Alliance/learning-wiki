@@ -50,3 +50,4 @@ Definitional/methodological statement about the Views About Science Survey instr
 - [No statistically significant difference in physics attitudes between public and private school students under PBL or traditional instruction](no-school-type-difference-physics-attitude.md) — related
 - [PBL instruction produces a larger shift toward physics expert-like attitude than traditional instruction among secondary students](pbl-greater-expert-like-attitude-shift-than-traditional.md) — related
 - [Students in the Extensive section show a significantly greater expert shift in views about biology and learning biology than Moderate-section students](extensive-section-greater-expert-shift-vass.md) — related
+- [The VASS contrasting-alternative format is useful for discussion but less useful than CLASS or MPEX for reliably measuring how expert-like students' beliefs are](vass-format-less-reliable-for-expert-likeness.md) — related

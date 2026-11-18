@@ -52,3 +52,4 @@ Qualitative observation from the case study. During initial testing Josh could n
 - [Both groups showed equal motivation to learn, but iPad-using students reported greater focus and participation during the reading activities](ipads-focus-participation-engagement.md) — related
 - [An overwhelming majority (82 percent) of students who used iPads as e-readers would recommend them, citing e-reader features such as adjustable font, dictionary and pronunciation of unknown text](students-recommend-ipad-ereaders.md) — related
 - [Case study: weekly TA meetings with a struggling student were associated with improved attendance and more homework completed](brandon-case-conference-intervention.md) — related
+- [Students with ADHD may experience six characteristic difficulties in introductory physics courses, including distraction, detail-focus, and slower processing of content presented via multiple means](six-adhd-difficulties-introductory-physics.md) — related

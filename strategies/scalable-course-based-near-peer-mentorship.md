@@ -52,6 +52,7 @@ The article recommends course-embedded near-peer mentorship—pairing first-year
 
 - [Extend college support services over the summer through simple, cost-effective near-age mentor outreach](summer-near-age-mentor-outreach-strategy.md)
 - [Deliver psychosocial-support nudges to at-risk college students via scalable text messaging during transition periods](text-message-nudge-campaigns-transition-periods.md)
+- [Adopt a first-year research program by embedding it in an existing course, then converting it to a credited course](embed-then-credit-first-year-research-program.md)
 
 ## Examples
 -

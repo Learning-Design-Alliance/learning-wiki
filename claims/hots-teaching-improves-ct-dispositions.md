@@ -71,3 +71,4 @@ Disposition outcomes measured with critical thinking assessment instruments in t
 - [Several individual clinical-reasoning questionnaire items showed no significant difference between the DwGJ and control groups](dwgj-reasoning-item-level-null-differences.md) — related
 - [Critical thinking gains favour TA+CBL rounds on six of seven dimensions, with no significant difference on cognitive maturity](ta-cbl-critical-thinking-dimensions-cognitive-maturity-null.md) — related
 - [MOOC-based blended teaching improves most critical thinking subdomains but is inferior for open mindedness and systemic capacity](mooc-blended-critical-thinking-mixed.md) — related
+- [Enrollment year predicts critical thinking dispositions, with undergraduate 2012 students scoring higher; age shows a small negative association with open-mindedness](enrollment-year-and-age-predict-ct-dispositions.md) — related

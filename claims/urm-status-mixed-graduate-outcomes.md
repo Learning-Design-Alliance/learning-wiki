@@ -52,3 +52,5 @@ Linear probability model on 495 students (Table 2); the article separately repor
 - [GRE scores do not predict research productivity (presentations, first-author publications, grants/fellowships) or program progress measures](gre-no-predict-research-productivity.md) — related
 - [GRE scores and undergraduate GPA showed weak, non-significant associations with first-semester Ph.D. GPA among UR trainees](gre-weak-non-significant-predictor-first-semester-gpa.md) — related
 - [UR trainees trained at PWIs had significantly higher first-semester Ph.D. GPAs and GRE scores than UR trainees from HBCUs, but undergraduate GPA did not differ](hbcu-pwi-admission-measure-differences.md) — related
+- [Traditional graduate admissions measures, particularly the GRE and Physics GRE, disproportionately exclude underrepresented groups and are poor predictors of PhD completion](gre-pgre-exclude-urm-poor-predictors.md) — related
+- [Underrepresented groups are more likely to start graduate study in a master's program rather than entering a Ph.D. program directly](underrepresented-groups-more-likely-masters-first-path.md) — related

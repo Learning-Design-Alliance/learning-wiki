@@ -44,6 +44,7 @@ The program introduces students step-by-step using many models and analogies, fi
 ## Related Strategies
 
 - [Do-it-yourself black hole workshop: build and compare sector models to introduce curved space descriptively](diy-black-hole-sector-model-workshop.md)
+- [Introduce a third-party observer when teaching the Einstein equivalence principle to prevent a global acceleration-gravity equivalence conclusion](third-party-observer-eep-strategy.md)
 
 ## Examples
 -

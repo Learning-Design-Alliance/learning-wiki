@@ -50,3 +50,4 @@ Distributional analysis of Bloom-level cognitive intent across all annotated tur
 - [Assignments at the first five levels of Bloom's taxonomy are suited to LLM grading, while Create-level assignments are more challenging for LLMs to assess](bloom-levels-limit-llm-grading-suitability.md) — related
 - [The benefit of multimedia pre-lectures depends on cognitive level of the question, largest for understanding (Level-2) and analyzing (Level-4)](prelecture-benefit-depends-cognitive-level.md) — related
 - [All participant groups scored higher on lower cognitive levels (Remembering, Understanding, Applying) than on higher levels (Analysing, Evaluating, Creating)](lower-cognitive-levels-outscore-higher.md) — related
+- [Exercise use by Bloom's taxonomy level differs by subject: languages emphasize remember/understand, societal subjects analyze/evaluate, science shows little use of higher levels](bloom-level-use-varies-by-subject.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: weak
 newest_evidence: 2018
+source_checked: 2026-11-18
 sources:
   - id: shokaljuk-s-v-2018
     resource: "https://doi.org/10.48550/arXiv.1807.10658"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Reference-type learning-methodical materials created on Sage Worksheets can combine theoretical information and interactive examples of applying it in practice within one resource. [→ Shokaljuk S. V. 2018](#shokaljuk-s-v-2018)
@@ -51,3 +52,4 @@ Descriptive statement from the article's analysis of SageMathCloud resources, il
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](students-report-hands-on-learning-most-effective.md) — related
 - [TAIA produced higher adjusted post-test scientific achievement than worksheet-supported inquiry, controlling for pre-test and ICT competency](taia-higher-posttest-achievement-rural.md) — related
 - [Practical competencies-oriented teaching materials with supplementary local cases produce significantly better learning achievement than traditional lecture in a Human Resource Management unit](practical-competencies-materials-improve-learning-achievement.md) — related
+- [A mixed hands-on activity combining theory, setup assembly, data analysis and critical synthesis increased pre-collegiate students' awareness in quantitatively investigating environmental radioactivity](hands-on-gamma-spectroscopy-increases-student-awareness.md) — related

@@ -76,3 +76,4 @@ Survey item (Figure 5) on explicitly thinking about underlying concepts. Faculty
 - [Some AAPS items show non-monotonic or unexpected group trends whose reasons differ by group, as interpreted through individual interviews](aaps-unexpected-trends-interviews.md) — a narrower finding that bears on this claim
 - [On a data-comparison item, expert responses are selected more often and novice responses less often with greater physics maturity](plic-item-selections-vary-by-maturity.md) — related
 - [More experienced professional monitors develop intuition for stream assessment quality, while less experienced monitors interpret protocol language literally](expert-intuition-rbp-assessment.md) — related
+- [At the end of the course, introductory astronomy students have more expert-like attitudes and approaches to problem solving than introductory physics students, with a large effect size (Cohen's d = 0.81)](aaps-astronomy-favorable-than-physics.md) — related

@@ -50,3 +50,4 @@ Think-aloud interviews (N=4) used an isomorphic expression with physical symbols
 - [Procedural math fluency is often not the primary barrier; upper-division students struggle to interpret and generate mathematical expressions in physics](interpretation-not-procedural-fluency-barrier.md) — a broader claim this one bears on
 - [Mathematical execution errors were common but not specific to Coulomb's Law problems and did not represent the primary barrier to success](execution-math-errors-not-primary-barrier.md) — related
 - [Students frequently lose or cancel exponential terms when applying boundary conditions away from z = 0](inappropriate-exponential-cancellation-bcs.md) — related
+- [Struggling with quantitative upper-division astronomy problems reflects lack of symbolic and representational fluency, not simply poor mathematics preparation](symbolic-fluency-not-math-preparation-limits-quantitative-problem-solving.md) — related

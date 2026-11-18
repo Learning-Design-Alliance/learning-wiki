@@ -53,3 +53,7 @@ Two-way ANOVA and logistic regression on 767 women in the four-institution cohor
 - [Men in the lowest GRE Q quartile completed STEM PhDs at a higher rate than men in all three higher quartiles, a pattern seen at each of the four institutions](lowest-gre-q-quartile-men-highest-completion.md) — related
 - [Cornell University's physics program, which has not applied a GRE cutoff since the late 1990s, graduated 73% of its women PhD students between 1993 and 2011, above the NSF-reported average of 59%](cornell-physics-no-gre-cutoff-retention.md) — related
 - [The Fisk-Vanderbilt master's-to-PhD bridge program, using a 30-minute interview instead of a GRE cutoff, achieved over 80% retention of women and minorities toward the PhD](fisk-vanderbilt-bridge-program-retention.md) — related
+- [GRE score gaps by race, gender, and citizenship, combined with cutoff use, select against underrepresented groups in physics admissions](gre-cutoffs-select-against-underrepresented-groups.md) — related
+- [GRE Physics Subject Test scores are not associated with physics PhD completion in any model studied](gre-physics-no-completion-prediction.md) — related
+- [GRE Quantitative scores predict physics PhD completion in only two of four models, with small practical significance](gre-quantitative-weak-limited-prediction.md) — related
+- [GRE Verbal scores show no relationship with physics PhD completion in any model](gre-verbal-no-completion-relationship.md) — related

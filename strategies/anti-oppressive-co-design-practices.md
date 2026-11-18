@@ -49,6 +49,7 @@ The team adopted an explicitly anti-oppressive and anti-colonial approach to adv
 - [Structure R&D teams for student critical mass, processing time, and collaboration to dispel intimidation](student-critical-mass-structuring.md)
 - [Center educators in research by shifting power dynamics, including diverse educators, and structuring feedback loops](strategies-centering-educators-research-seernet.md)
 - [Use liberating structures — World Café rotations and Spiral Journaling — to balance power dynamics in co-design workshops](world-cafe-spiral-journal-codesign-engagement.md)
+- [Collaboration-level inclusive-climate practices: anti-harassment onboarding, moderated telecon turn-taking, junior-first question order, student-only debriefs, and a Climate and Equity committee](distributed-collaboration-inclusive-climate-practices.md)
 
 ## Examples
 -

@@ -87,3 +87,4 @@ Cohort-wide comparison of GRE section scores by degree origin. "Domestic student
 - [GRE verbal and quantitative scores correlated with course average, first-year graduate GPA, and exit exam scores in a medical physics graduate cohort](gre-quantitative-verbal-correlated-coursework-outcomes.md) — related
 - [GRE scores and undergraduate GPA showed weak, non-significant associations with first-semester Ph.D. GPA among UR trainees](gre-weak-non-significant-predictor-first-semester-gpa.md) — related
 - [Undergraduate GPA was not correlated with faculty rating in this highly selected graduate cohort](undergraduate-gpa-not-correlated-faculty-rating.md) — related
+- [The studied program appears to weight verbal GRE more than the average program, possibly because domestic-only data omit TOEFL effects](verbal-gre-emphasis-domestic-applicants-toefl-hypothesis.md) — related

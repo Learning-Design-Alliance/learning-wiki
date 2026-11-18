@@ -76,3 +76,4 @@ Items were categorized against published DI thresholds (poor ≤ 0.20; acceptabl
 - [Students scored significantly higher on instructor-written MCQs than on ChatGPT-generated MCQs in a within-subjects dental assessment](instructor-mcqs-scored-higher-than-chatgpt-mcqs.md) — related
 - [The study’s histology MCQ test was of optimal quality, with an average difficulty index of 56% and an average discriminative index of 0.68](histology-mcq-test-quality-indices.md) — related
 - [Students who authored MCQs scored significantly higher on the exam's student-question-based MCQ test than a traditionally taught control group](mcq-authoring-higher-exam-mcq-score.md) — related
+- [Test items with negative discrimination values probed conceptual understanding, so conventional item analysis would eliminate conceptually probing questions](negative-di-items-probe-conceptual-understanding.md) — related

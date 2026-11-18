@@ -48,3 +48,4 @@ HGLM Model 2 added a level-3 recommended-practices variable (0 to 4) for the CBT
 - [CBT participation rates are much lower than PPT rates when instructors use none of the recommended practices, but match PPT rates when all four are used](cbt-participation-lower-without-recommended-practices.md) — related
 - [The more recommended instructor practices used, the higher CBT participation; with all four practices, online and paper posttest participation rates were very similar](instructor-practices-raise-cbt-participation.md) — related
 - [CBT condition was a truly nonsignificant predictor of RBA pretest scores in hierarchical linear models](cbt-condition-nonsignificant-pretest-hlm.md) — related
+- [Online LASSO-administered assessments produce participation rates and scores equivalent to in-class paper assessments when instructors use four recommended practices](lasso-online-assessments-equivalent-participation-performance.md) — related

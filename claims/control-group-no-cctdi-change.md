@@ -58,3 +58,4 @@ Paired samples t-test on the control group (n=21); means were 4.56 pre-test and 
 - [PBL and traditional teaching do not differ significantly in their effect on pre-service teachers’ critical thinking dispositions](pbl-no-difference-critical-thinking-disposition.md) — related
 - [The iHEC cohort showed higher post-rotation critical thinking disposition than the conventional cohort (Cohen's d = 0.75)](ihec-higher-critical-thinking.md) — related
 - [Digital RPP improves critical thinking disposition more than traditional group practice](rpp-digital-platform-critical-thinking-gains.md) — related
+- [Students in labs designed to teach critical thinking score about 0.52 points higher at post-test controlling for pre-score](ctlabs-higher-post-scores.md) — related

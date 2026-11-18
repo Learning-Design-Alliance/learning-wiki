@@ -47,3 +47,4 @@ Fall 2013 reverse-ordered administration to half of 91 pre- and 90 post-semester
 ## Related Claims
 - [In one class of 13-year-old boys, memory scores were kept to a steady rank order by repeated practice (successive tests correlating +.87 to +.90) before fatigue testing began](steady-practice-before-fatigue-tests.md) — related
 - [Recall versus recognition response format changes difficulty estimates for vocabulary items](recall-recognition-difficulty-differ.md) — related
+- [Shuffling the order of independent BEMA questions does not affect scores, while shuffling dependent questions does](shuffling-dependent-questions-affects-bema-scores.md) — related

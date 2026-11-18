@@ -46,3 +46,4 @@ Survey section on professional networking (Table 3): 48% of health care professi
 
 ## Related Claims
 - [Health care professionals from developing countries report greater impact on clinical practice (94%) than those from developed regions (88%)](developing-countries-greater-clinical-practice-impact.md) — related
+- [POC in PER report being denied collaboration and professional network development opportunities](poc-per-collaboration-network-denial.md) — related

@@ -48,3 +48,4 @@ Faculty survey item on improving mentoring. Half of faculty reported no desired 
 - [About half of faculty mentor 1–2 students per year, and majorities of both students and faculty prefer UREs lasting at least a year, limiting departmental URE capacity](faculty-mentoring-capacity-limits-ure-selection.md) — related
 - [Physics faculty perceive four families of needs around research-based assessments: practical needs, limited measure, want help, and broader context.](four-needs-families-research-based-assessment-physics.md) — related
 - [Faculty consider their courses in broader departmental and accountability contexts, including program-level assessment and accreditation-driven pressures.](broader-context-program-assessment-accreditation-pressures.md) — related
+- [Mentoring FP projects helped a new faculty member integrate into the department and expand her research network](fp-faculty-integration-moses-vignette.md) — related

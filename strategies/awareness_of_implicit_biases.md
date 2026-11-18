@@ -69,6 +69,7 @@ Bias awareness supports equitable learning environments, but the evidence base d
 - [Future research should measure both explicit stereotypes and implicit bias toward students with learning problems](measure-explicit-and-implicit-teacher-bias.md)
 - [Institutional debiasing: give teachers time to reflect on biases, reduce cognitive load and provide clear evaluation rubrics, and use values affirmation to lower defensiveness](institutional-teacher-debiasing-strategy.md)
 - [Train assessors' awareness of unconscious bias as a cost-effective alternative to anonymous marking, and reconsider all-coursework modules](bias-awareness-training-alternative-to-anonymous-marking.md)
+- [Instructors should adhere to assessment best practices: rubrics, grading by category, item-bias analysis, and universal design](assessment-best-practices-rubrics-item-bias-universal-design.md)
 
 ## Examples
 - **Structured grading in large courses**: Instructors using analytic rubrics and anonymized submissions (common in writing-intensive MOOCs and university writing programs) to decouple evaluation from identity cues.

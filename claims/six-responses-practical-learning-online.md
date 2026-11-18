@@ -53,3 +53,4 @@ Editorial introduction stating its purpose: summarizing six response essays on p
 - Few existing studies distinguished generalized teacher PD from teacher PD for online and blended learning — related
 - [Guidance tools in CoSIL increased ease of use but failed to personalize support to individual students, as reported by the reviewed literature](cosil-guidance-ease-of-use-not-personalized.md) — related
 - Special-issue frameworks argue for design-thinking-based and originary theory development in learning design and technology — related
+- [The article identifies a need for explicit guidance on effective computational-essay practices and for more well-written examples at a variety of levels](need-for-essay-practice-guidelines-and-examples.md) — related

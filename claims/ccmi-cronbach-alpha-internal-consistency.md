@@ -53,3 +53,4 @@ Internal-consistency analysis of the pooled CCMI post-test data at CU. The artic
 - [Mean CCMI post-test score across three pooled semesters was 52.9%, with a wide score range and some students outperforming first-year graduate students](ccmi-pooled-mean-score-distribution.md) — related
 - [The CCMI is a difficult assessment: mean score 49.0% with first-year graduate students averaging 74.5%](ccmi-difficult-assessment.md) — related
 - [Cronbach's alpha for FASCI scores (FA 0.62, SCI 0.51) falls well below the 0.80 target for an open-ended scenario-based instrument](fasci-cronbach-alpha-below-target.md) — related
+- [ProtoPIQL whole-test scores are fairly normally distributed with mean 11 of 18 but internal reliability below accepted thresholds](protopiql-score-distribution-reliability.md) — related

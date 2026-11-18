@@ -48,6 +48,7 @@ A concrete teaching move: alongside the standard Galileo narrative, introduce th
 
 - [De-emphasize Answers, Emphasize Reasoning](de-emphasize-answers-emphasize-reasoning.md)
 - [Embrace Errors as Learning Opportunities](embrace_errors_as_learning_opportunities.md)
+- [Teach the naive De Broglie approach to QM alongside the Schrödinger equation](teach-naive-de-broglie-approach.md)
 
 ## Examples
 -

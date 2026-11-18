@@ -47,6 +47,7 @@ The article identifies four practices instructors can use to motivate students t
 
 - [Offer participation credit and provide multiple reminders (in class and by email) when administering low-stakes assessments online out of class](credit-and-reminders-online-assessment-participation.md)
 - [Use announcements, email reminders, and completion credit to achieve online RBA participation rates similar to in-class testing](motivation-practices-online-assessment-participation.md)
+- [When administering pre/post assessments online, use in-class reminders, email reminders, and credit for participation to reach paper-equivalent participation rates](recommended-practices-raise-online-assessment-participation.md)
 
 ## Examples
 -

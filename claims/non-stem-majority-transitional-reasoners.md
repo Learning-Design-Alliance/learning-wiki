@@ -9,6 +9,7 @@ generated:
   at: 2026-09-26
 evidence_strength: moderate
 newest_evidence: 2011
+source_checked: 2026-11-18
 recheck_by: 2016
 sources:
   - id: moore-2011
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
+> **Currency** · newest study 2011 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 56% of non-STEM students fall in the transitional Piagetian category on the LCTSR, whereas most science majors would on average be classified formal operational. [→ Moore 2011](#moore-2011)
@@ -52,3 +53,5 @@ Classification of non-STEM students (N = 109) into concrete operational, transit
 - [In physics-based courses for non-science majors taught with active-engagement pedagogy, normalized gains were 0.38–0.42 on content tests but 0.06 on a scientific-reasoning test](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) — related
 - [Substantial content-knowledge gains are achievable for non-science majors in courses built on research-verified, active-engagement curricula](active-engagement-content-gains-non-majors.md) — related
 - [Non-science majors average an abysmal 38% on LCTSR questions testing hypothetico-deductive reasoning](non-majors-hypothetico-deductive-lctsr-38.md) — related
+- [Average Lawson scientific reasoning level of the local student population was significantly lower than reported for USA, China and India](lawson-reasoning-lower-than-cross-cultural-peers.md) — related
+- [Preinstruction scientific reasoning level is correlated with probability of passing introductory physics](reasoning-level-correlates-with-passing-intro-physics.md) — related

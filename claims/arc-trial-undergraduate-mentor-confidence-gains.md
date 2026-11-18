@@ -48,3 +48,4 @@ Retrospective pre-then-post survey of undergraduate mentors (n=7 of nine enrolle
 ## Related Claims
 - [Parents reported large increases in children's robot programming knowledge and access to programming resources during the ARC trial](arc-trial-parent-reported-student-gains.md) — related
 - [Retrospective pre/post confidence rose on all four course learning objectives with large rank-biserial effects (N=159)](retrospective-confidence-gains-me373.md) — related
+- [Undergraduate mentors in the PSC showed statistically significant increases in research knowledge, confidence, and collaboration-related skills](psc-undergrad-mentor-gains.md) — related

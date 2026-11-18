@@ -49,3 +49,4 @@ Test of the pipeline on the OULAD dataset (100 learners, day-coarse-grained page
 - [The methodology replicates on a second cohort of 46 learners, with only 1 of 8 low performers in the distributed-learning cluster](second-cohort-replication-massed-low-performance.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
+- [Session duration is significantly segregated across clusters, with Group A overrepresenting short sessions and Cluster 4 long sessions; Group A shows more show-clicks without subsequent hide-clicks than Group C](duration-and-showhide-segregation-clusters.md) — related

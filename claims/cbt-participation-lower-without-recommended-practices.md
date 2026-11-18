@@ -47,3 +47,4 @@ HGLM Model 2 predicted participation probabilities converted from logits by the 
 ## Related Claims
 - [The more recommended instructor practices used, the higher CBT participation; with all four practices, online and paper posttest participation rates were very similar](instructor-practices-raise-cbt-participation.md) — possibly the same claim (merge candidate)
 - [Instructor use of the recommended practices accounts for a large proportion of the between-section variance in CBT participation](recommended-practices-explain-section-participation-variance.md) — related
+- [Online LASSO-administered assessments produce participation rates and scores equivalent to in-class paper assessments when instructors use four recommended practices](lasso-online-assessments-equivalent-participation-performance.md) — a broader claim this one bears on

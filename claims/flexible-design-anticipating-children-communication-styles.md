@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-11-18
 sources:
   - id: yanghee-kim-2021
     resource: "https://doi.org/10.1007/s11423-021-10051-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Children's developing language and unpredictable playful reactions required flexible design, addressed through a human wizard controlling the robot. [→ Yanghee Kim 2021](#yanghee-kim-2021)

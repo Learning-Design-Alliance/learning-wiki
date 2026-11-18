@@ -42,6 +42,7 @@ The article recommends administering E-CLASS as a formative assessment tool: all
 - [Use a four-quadrant attitudes survey to give instructors actionable evidence for lab course transformation](four-quadrant-survey-for-lab-transformation-feedback.md)
 - [Sorted, statement-by-statement instructor reports as formative assessment for lab courses](e-class-sorted-instructor-report-formative-assessment.md)
 - [Use iCARE regularly as a formative assessment and epistemic training tool in inquiry-based teaching](icare-regular-formative-epistemic-training-strategy.md)
+- [Best practices for administering attitudes and beliefs surveys: pre/post timing, framing, online and in-class protocols](administering-attitudes-beliefs-surveys-best-practices.md)
 
 ## Examples
 -

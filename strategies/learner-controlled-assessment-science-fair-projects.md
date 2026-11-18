@@ -50,6 +50,7 @@ The article recommends offering learners multiple assessment choices — multipl
 - [Project-based assessment with community exhibition for WRD learning](wrd-project-based-community-exhibition-assessment.md)
 - [Inquiry-based student research projects following Intel ISEF Science Fair guidelines using geospatial technologies](inquiry-projects-intel-isef-gst-strategy.md)
 - [Teach students systematic ways to find their own research paper topics rather than assigning topics](topic-finding-condition-removal-strategy.md)
+- [Use computational essays as semester-long projects with revision, portfolio-based assessment, or as a stepping stone to programming integration](computational-essays-teaching-and-assessment-uses.md)
 
 ## Examples
 -

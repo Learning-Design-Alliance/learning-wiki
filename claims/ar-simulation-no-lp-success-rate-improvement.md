@@ -59,3 +59,4 @@ Per-protocol analysis of the randomized controlled trial's primary outcome: LP s
 - [Adding standard simulation to e-learning did not significantly improve proficiency rates over e-learning alone](standard-simulation-no-significant-gain-over-e-learning-alone.md) — related
 - [Traumatic lumbar puncture (39%) and post-LP headache (20%) were the most commonly reported complications among trainees](traumatic-lp-and-headache-common-complications.md) — related
 - [Skills laboratory students report higher confidence, motivation, and perceived feedback benefit after training than bedside teaching students](skills-lab-higher-acceptance-confidence-motivation.md) — related
+- [A visual-only simulation without haptic feedback produced a 10% quiz-score increase over the reading-and-video group](visual-only-simulation-10-percent-quiz-gain.md) — related

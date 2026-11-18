@@ -49,3 +49,4 @@ Think-aloud interviews during QuILT development; some students also claimed a si
 - [Some upper-level students claimed photon polarization states cannot serve as basis vectors for a two state system because a photon can have any polarization](photon-polarization-basis-state-difficulty.md) — related
 - [Students overgeneralize classical optics of light beams to single photons, treating a single photon incident on a polarizer as partly transmitted and partly absorbed](single-photon-polarizer-classical-overgeneralization.md) — related
 - [Students assumed that any photon reaching the detectors displays interference regardless of the polarizers in the setup, a difficulty displayed across questions 1, 2, and 3](any-photon-displays-interference-difficulty.md) — related
+- [Simultaneous use of a smartphone's ambient-light and orientation sensors verifies Malus's law in a way that is very accessible for students](cl-001-malus-law-smartphone-dual-sensors.md) — related

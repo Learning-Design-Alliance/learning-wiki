@@ -50,3 +50,4 @@ Comparison of normalized composite SAT histograms for graduates versus non-gradu
 - [High school GPA is a better predictor of college graduation than standardized test scores, yet districts continue to rely on test-based readiness benchmarks](gpa-better-predictor-than-test-scores.md) — a broader claim this one bears on
 - [Late-arriving English Learners had cumulative GPAs similar to the district average but substantially lower SAT scores](late-arriving-els-strong-gpas-low-sat.md) — related
 - [SAT scores predict upper division in-major GPA with correlations of roughly 0.35 to 0.5 across majors at a broad-range state university](sat-predicts-upper-division-gpa-035-05.md) — related
+- [Lower-division coursework performance is a strong indicator of whether an electrical engineering student graduates](lower-division-performance-indicates-graduation.md) — related

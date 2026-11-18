@@ -50,3 +50,4 @@ Results of the regression model comparison (Table 3) on the same 922-student dat
 - [Random Forest is the best-performing classification model for predicting postgraduate public health students' CGPA category, with 71.43% accuracy and AUC 0.87](random-forest-best-classifier-ap.md) — related
 - [DMO-GRU attains the lowest MAE and RMSE and the highest R2 score among the compared regression models for forecasting student success](dmo-gru-lowest-regression-error-highest-r2.md) — related
 - [The number of failed courses is the strongest correlate of postgraduate public health students' CGPA, with a negative correlation of r = −0.37](failed-courses-strongest-negative-correlate-cgpa.md) — related
+- [The variable-based linear regression classifier produced the best-performing student performance model, yielding the least MAE, RMSE, RAE and RRSE among the four trained models](variable-based-lrc-best-error-metrics-programming-spm.md) — related

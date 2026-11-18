@@ -46,6 +46,7 @@ The article demonstrates a closed beta-testing strategy in which students attemp
 ## Related Strategies
 
 - [Iterate simulation scenarios through expert Delphi rounds plus a student pilot, adding clarity, printed results, and structured assessment](iterative-scenario-refinement-experts-pilot.md)
+- [Close the event with an anonymous participant questionnaire and use it to produce an Event Report guiding future improvements](sk-day-anonymous-survey-event-report.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ PLS-SEM result from the 121-student survey; the accepted paths appear in Fig. 4 
 - [Computer anxiety negatively affects students' perceived ease of use of a learning management system](computer-anxiety-negative-effect-lms-peu.md) — related
 - [In a cross-sectional survey, computer self-efficacy statistically mediates the association between computer anxiety and perceived ease of use of an LMS](cse-mediates-anxiety-peu-lms.md) — related
 - [Computer self-efficacy has a strong significant relationship with computer anxiety](cse-strong-relationship-computer-anxiety.md) — related
+- [STEM students report higher computer self-efficacy and perceived ease of use of e-learning than non-STEM students in China](stem-students-higher-cse-peou-china.md) — related

@@ -49,3 +49,4 @@ Qualitative case observations by faculty mentors in the cadet research program, 
 - [Split-persona effect: two distinct agent roles (Expert and Motivator) outperformed one combined Mentor agent](split-persona-effect-agents.md) — related
 - [The Ringelmann effect describes declining average contribution as group size increases, with large groups of five or more often dividing work into subtasks and reducing motivation and collaboration.](ringelmann-effect-group-size-contribution-declines.md) — related
 - [A research program for the weakest 10% of incoming freshmen yielded 22 published or under-review cadet papers in four semesters, about 38% of projects](weakest-10-percent-research-program-22-papers.md) — related
+- [Mentoring FP projects helped a new faculty member integrate into the department and expand her research network](fp-faculty-integration-moses-vignette.md) — related

@@ -49,3 +49,4 @@ Síntesis narrativa de los autores, apoyada en Gangui e Iglesias (2015), sobre l
 - [Las fases de la Luna y el movimiento de Sol-Tierra-Luna son el tópico con mayores dificultades reportadas, ligado al obstáculo de la visión espacial](lunar-phases-most-difficult-topic-spatial-vision.md) — related
 - [Las ideas previas sobre fenómenos astronómicos persisten en la escuela secundaria y afectan también a estudiantes de magisterio y a profesores en actividad](prior-ideas-persist-secondary-teachers.md) — a broader claim this one bears on
 - [Los estudiantes de secundaria tienen dificultades persistentes para reconocer los cambios observables en el movimiento aparente del Sol y los momentos singulares del año](students-difficulties-solar-movement-observable-changes.md) — possibly the same claim (merge candidate)
+- [A maquete demonstrou ser um bom recurso didático, capaz de tornar palpáveis conceitos sobre o Sistema Solar](maquete-bom-recurso-didatico-palpavel.md) — related

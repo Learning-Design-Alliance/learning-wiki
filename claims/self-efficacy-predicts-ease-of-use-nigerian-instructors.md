@@ -50,3 +50,4 @@ PLS-SEM structural model analysis of 299 instructor questionnaires collected fro
 - [Perceived school support, AI learning self-efficacy, and AI perceived usefulness each show negative paths to AI learning anxiety](support-and-appraisals-negatively-predict-ai-learning-anxiety.md) — related
 - [Self-efficacy shows no significant effect on perceived usefulness of e-learning platforms](self-efficacy-pu-path-non-significant.md) — related
 - [Technological complexity shows no significant effect on perceived ease of use or perceived usefulness of e-learning platforms](technological-complexity-paths-non-significant.md) — related
+- [Computer self-efficacy has a positive effect on perceived usefulness and on perceived ease of use of e-learning](cse-positive-paths-pu-peou.md) — a broader claim this one bears on

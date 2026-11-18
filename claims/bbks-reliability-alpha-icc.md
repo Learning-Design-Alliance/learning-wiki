@@ -54,3 +54,4 @@ Reliability analysis of the BBKS: internal consistency via Cronbach alpha and co
 - [The Spanish ARS shows satisfactory internal consistency, discriminant validity and temporal stability for its three factors](spanish-ars-reliability-temporal-stability.md) — related
 - [The TGEI subscales show adequate homogeneity and reliability, but the total sum score is not a homogeneous construct](tgei-subscales-homogeneous-total-not.md) — related
 - [The German-language DTI shows good total-score reliability but meagre subscale reliability in this sample](german-dti-reliability-total-good-subscale-meagre.md) — related
+- [The CTDI-M shows strong internal consistency, split-half, and two-week test-retest reliability](ctdi-m-reliability.md) — related

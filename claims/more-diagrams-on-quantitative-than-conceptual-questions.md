@@ -76,3 +76,4 @@ Descriptive comparison from Table 1 by question type on the final exam (e.g., tr
 - [Students who received peer-reflection recitations drew diagrams on more final-exam problems than traditional-recitation students even though no credit was given for diagrams](peer-reflection-group-more-diagrams-final-exam.md) — related
 - [Scratchwork amounts do not differ significantly between the peer reflection and traditional groups](no-group-difference-in-scratchwork-amount.md) — related
 - [Across both groups, students who drew more diagrams or did more scratch work performed better on the final exam and improved more from midterm to final](diagram-scratch-work-correlates-with-exam-performance.md) — related
+- [Physics students give more favorable responses than astronomy students only on the Factor 2 questions about drawing diagrams and scratchwork, likely because astronomy problems are harder to depict](factor2-drawings-scratchwork-physics-favorable.md) — related

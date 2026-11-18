@@ -51,3 +51,5 @@ Secondary analysis of the questionnaire data: the sample was divided into studen
 - [Among students not wanting to be a scientist, female students more often cite lacking talent for science while male students more often fear losing time for themselves](masterclass-no-motivations-gender-patterns.md) — related
 - [Male and female students give very similar answers about the Masterclass activities themselves, differing mainly on interest in physics outside school](masterclass-satisfaction-similar-across-gender.md) — related
 - [Among students wanting a scientific career, more female than male students are attracted by the idea of traveling (about 37% vs 23%)](masterclass-travel-motivation-gender-gap.md) — related
+- [Most surveyed students say they are interested in science although most do not intend to become a scientist](interested-in-science-not-scientist-career.md) — related
+- [No strong differences between aspiring scientists and other students on perceived usefulness and future importance of the lesson](no-difference-scientist-aspirants-lesson-impact.md) — related

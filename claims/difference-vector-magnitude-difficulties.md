@@ -47,3 +47,4 @@ Exam analysis (N=172) of element CC4. The article reports "86% of 172, N=148" at
 
 ## Related Claims
 - [Upper-division students have difficulty mapping physical systems onto the Coulomb potential integral, especially expressing the differential charge element and difference vector](construction-dq-script-r-difficulties.md) — related
+- [Difficulty expressing the difference vector remains persistent across all three contexts, with 30-45% of students unable to produce a correct expression](difference-vector-difficulty-persistent-across-contexts.md) — related

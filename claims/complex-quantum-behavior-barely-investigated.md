@@ -55,3 +55,4 @@ The review's synthesis states that "the teaching of complex quantum behavior... 
 - [Graduate students often ignore whether the initial state is an eigenstate of the Hamiltonian when reasoning about time dependence of spin expectation values](students-ignore-stationary-state-condition-spin-expectation-values.md) — related
 - [A need exists for assessment tools covering all major quantum topics suitable for statistical analysis at secondary and lower undergraduate levels](need-assessment-tools-quantum-secondary-lower-undergraduate.md) — related
 - [Quantum cryptography is proposed as a very suitable introductory subject for teaching the fundamental principles of quantum physics](quantum-cryptography-introductory-subject.md) — related
+- [Documented student difficulties in upper-level quantum mechanics are dominated by measurement and time evolution and related procedures](qm-difficulty-review-measurement-time-evolution.md) — related

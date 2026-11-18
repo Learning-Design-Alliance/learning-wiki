@@ -67,6 +67,7 @@ Structured dilemma discussions work because they require learners to articulate 
 - [Reconstruct Kohlberg-style moral education to integrate reason and feeling, self and relationship, and concept and context, using real problem situations instead of hypothetical dilemmas](integrate-reason-feeling-self-relationship-concept-context.md)
 - [Design and implement ethics games with attention to facilitation, clarity of instructions, alignment of goals, and social dynamics](ethics-game-design-recommendations-facilitation-goals-social.md)
 - [Use educational discussion and debate to form ecological and moral convictions](discussion-debate-ecological-convictions.md)
+- [Use a choice-based serious game as an elective course assignment to introduce software engineering ethics](serious-game-elective-assignment-se-ethics.md)
 
 ## Related Elements
 - [Case Study](../elements/case-study.md) — the dilemma itself is a short case with an ethical core

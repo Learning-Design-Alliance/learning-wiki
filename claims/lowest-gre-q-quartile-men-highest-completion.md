@@ -71,3 +71,4 @@ Per-institution analysis shown in Fig 2 of male completion rates by GRE Q quarti
 - [Time to degree does not vary by GRE V or GRE Q quartile for men or women](gre-quartile-no-time-to-degree-effect.md) — related
 - [GRE V and GRE Q scores do not predict STEM PhD completion for women](gre-scores-no-prediction-women-stem-phd.md) — related
 - [Women are outscored by men on every section of the GRE general test, and with other factors equal women score lower on high-pressure timed tests](gender-gap-gre-timed-tests.md) — related
+- [GRE Physics Subject Test scores are not associated with physics PhD completion in any model studied](gre-physics-no-completion-prediction.md) — related

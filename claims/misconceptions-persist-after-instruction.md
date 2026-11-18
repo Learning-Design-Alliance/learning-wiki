@@ -70,3 +70,4 @@ Proportional similarity analysis of Survey 3 answer-choice distributions: averag
 - [Students misinterpret color differences between elliptical and spiral galaxies, including as Doppler redshift and blueshift](galaxy-color-redshift-misconception.md) — related
 - [Students misattribute foreground stars in an Andromeda photograph to the Andromeda galaxy rather than the Milky Way](foreground-stars-attribution-misconception.md) — related
 - [College students commonly misconstrue radio images of the Milky Way as depictions of sound rather than light](radio-image-sound-misconception.md) — related
+- [The lab session corrected student misconceptions about optical phase and optical versus electrical spectra, with positive feedback over four years](lab-session-misconception-correction-feedback.md) — related

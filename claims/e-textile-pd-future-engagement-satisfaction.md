@@ -76,3 +76,4 @@ Enjoyment/satisfaction survey (N = 31). Negatively framed items showed minimal n
 - [Participants rated telesimulation positively on enjoyment, knowledge gain, suitability, and practical training opportunities](positive-perception-of-telesimulation.md) — related
 - [Student satisfaction with the online deliberate practice modules was high, with 97% rating them effective, 97% efficient, and 92% enjoyable](high-student-satisfaction-online-ecg-practice-modules.md) — related
 - [Students showed high satisfaction with and acceptance of the blended learning concept and NESTOR](high-student-acceptance-blended-learning-nestor.md) — related
+- [Participants report universally positive experiences and strong intentions to return to future SK Day events](sk-day-universally-positive-survey-replies.md) — related

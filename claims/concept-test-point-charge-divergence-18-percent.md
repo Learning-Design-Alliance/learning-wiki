@@ -52,3 +52,4 @@ In-class concept test (Fig. 2) on the divergence of the field due to a point cha
 - [The most common and persistent student error is automatically associating positive divergence with locations where field lines or vectors spread apart, persisting despite explicit instruction](spreading-field-lines-associated-with-nonzero-divergence.md) — related
 - [Students show severe difficulty interpreting graphical representations of vector fields, succeeding on fewer than a quarter of the harder fields before instruction](students-fail-graphical-vector-field-interpretation.md) — related
 - [Approximately 15% of students on each quiz placed at least one field arrow at a source rather than the observation location](source-placement-fifteen-percent-quizzes.md) — related
+- [Graduate physics students nearly ace most negativity questions but only three of 22 correctly answer the net-charge question](graduate-students-fail-net-charge-question.md) — related

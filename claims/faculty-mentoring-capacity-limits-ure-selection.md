@@ -47,3 +47,4 @@ Faculty survey item on mentoring load, summarized in Fig. 3. The article reports
 ## Related Claims
 - [Half of faculty would make no change to their most recent mentoring experience and want departmental funding, skill-building, and networking support rather than interference in mentoring](faculty-mentoring-autonomy-constraint.md) — related
 - [Students without research experience learned about UREs from fewer sources, within an informal, decentralized information environment](informal-ure-information-sources-fewer-without-experience.md) — related
+- [Mentoring FP projects helped a new faculty member integrate into the department and expand her research network](fp-faculty-integration-moses-vignette.md) — related

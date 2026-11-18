@@ -51,3 +51,4 @@ Evaluation items in the T2 mail questionnaire (153 respondents of 219 attendees)
 - [Two-thirds of attendees reflected on their attitudes towards dying, death and grief and about one in five changed their attitude because of the seminar](seminar-prompted-attitude-reflection-and-change-eolc.md) — related
 - [GP-trainees showed high acceptance of the converted digital seminar format, with 99% willing to participate in an online seminar again and 58% satisfied or very satisfied with the implementation.](kwbw-webinar-high-acceptance-gp-trainees.md) — related
 - [The STP was highly acceptable and satisfying: the online format was rated 9.12/10 and 69.2% of participants were very satisfied](stp-high-satisfaction-acceptability.md) — related
+- [Most students were satisfied with the air:bit project and found the online materials helpful](airbit-student-satisfaction-online-materials.md) — related

@@ -70,3 +70,4 @@ Continuation of the same concluding argument: in a mobile IEE each student gains
 - [The article reports that augmented reality can support student collaboration, which is especially relevant for laboratory work with potentially dangerous equipment requiring constant supervision](ar-collaborative-lab-work.md) — related
 - [The authors of three case studies (roughly 28 students) argue that a place-based augmented reality game, Mad City Mystery, holds potential for engaging students in scientific argumentation](mad-city-mystery-ar-argumentation-cases.md) — related
 - [Experience of using augmented reality within cloud-based systems already exists, but its educational success has not yet been proven under natural conditions](ar-in-cloud-systems-unproven-effectiveness.md) — related
+- [Combining collaborative, game-based and mobile activities is argued to create synergies that make learning more effective than each activity type alone](jscm-synergy-argument.md) — related

@@ -91,3 +91,4 @@ Factor loadings examined across all 19 items in the rotated pattern matrix. Find
 - [Exploratory factor analysis of the gamified test yields a 2-factor solution matching the cognitive-abilities versus personality-characteristics distinction, with conformity loading on neither factor](gba-two-factor-structure-cognitive-personality.md) — related
 - [EFA identifies a two-factor structure (recognition and management) explaining 66.62% of item variance](gp-depression-scale-two-factor-structure-66-62-variance.md) — related
 - [Exploratory factor analysis of feedback identified three factors—motivation, skill development, and engagement—strongly correlated with the jigsaw approach](efa-jigsaw-motivation-skills-engagement.md) — related
+- [An 18-item CTDI-M for Chinese medical college students shows a three-factor structure (open-mindedness, systematicity/analyticity, truth seeking) explaining 57.66% of variance](ctdi-m-three-factor-structure.md) — related

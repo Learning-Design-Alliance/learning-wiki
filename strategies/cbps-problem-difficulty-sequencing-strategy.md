@@ -45,6 +45,7 @@ In the Conclusion the article recommends that lecturers using CBPS prepare a lea
 
 - [Simple-to-Difficult Examples](simple-to-difficult_examples.md)
 - [Competency Based Progression](competency-based-progression.md)
+- [Use complex problems in class and target PI questions at the key decision points of the solution pathway](complex-problems-with-pi-at-decision-points.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Design-features perception survey (5-point Likert) with 27 respondents: colour s
 ## Related Claims
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — a broader claim this one bears on
 - [Elementary teachers review the remixed energy simulation positively, with all six agreeing the added features are useful](six-teachers-positive-review-remixed-energy-simulation.md) — related
+- [Students and instructors gave extremely positive informal feedback on the simulations](simulation-positive-anecdotal-feedback.md) — a broader claim this one bears on

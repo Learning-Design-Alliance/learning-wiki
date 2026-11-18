@@ -49,6 +49,7 @@ The article describes four facilitation aspects: attending to participants' emot
 - [Facilitate online educational collaboration by matching participants on comfort and gradually increasing openness](gradual-openness-matching-comfort-collaboration.md)
 - [Implement CBL with institutional faculty support, clinician facilitators, authentic multimodal cases, preparation incentives and a safe group environment while avoiding behaviour-only assessment](cbl-implementation-strategy-realist-review.md)
 - [Incorporate clinical simulation with structured debriefing into nursing education planning for biosafety and emotional management](simulation-debriefing-biosafety-planning-strategy.md)
+- [Collaboration-level inclusive-climate practices: anti-harassment onboarding, moderated telecon turn-taking, junior-first question order, student-only debriefs, and a Climate and Equity committee](distributed-collaboration-inclusive-climate-practices.md)
 
 ## Examples
 -

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: weak
 newest_evidence: 2018
+source_checked: 2026-11-18
 sources:
   - id: arnaud-mas-2018
     resource: "https://doi.org/10.1109/3dcve.2018.8637113"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Guided tours imply passive learning postures, are time-limited and can be experienced only once, whereas the VR system focuses attention, actively engages learners, provides feedback, and multiplies the situations learners can experience. [→ Arnaud Mas 2018](#arnaud-mas-2018)

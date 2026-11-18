@@ -34,3 +34,4 @@ A five-year, teacher-led professional-development programme for secondary physic
 ## Key Sources
 - Ben Van Dusen and Valerie Otero. (2009). Changing Roles and Identities in a Teacher-Driven Professional Development Community. https://scholar.google.com/scholar?q=Changing+Roles+and+Identities+in+a+Teacher-Driven+Professional+Development+Community
 - Mike Ross, Ben Van Dusen, Valerie Otero. (2014). Becoming Agents of Change through Participation in a Teacher-Driven Professional Research Community.
+- Mike Ross, Ben Van Dusen, Samson Sherman, Valerie Otero. (2010). Teacher-Driven Professional Development and the Pursuit of a Sophisticated Understanding of Inquiry. https://www.nsf.gov/awardsearch/showAward?AwardNumber=0934921

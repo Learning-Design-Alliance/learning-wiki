@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: weak
 newest_evidence: 2017
+source_checked: 2026-11-18
 sources:
   - id: debesh-choudhury-2017
     resource: "https://doi.org/10.1117/12.2267976"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Teaching convolution and correlation with 2D spatial signals makes the concepts easier for students to appreciate than teaching with 1D time signals. [→ Debesh Choudhury 2017](#debesh-choudhury-2017)

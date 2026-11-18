@@ -51,3 +51,4 @@ Results section, Problem A numerical analysis for the calculus-based course acro
 - [A relatively high percentage of correct-choice-incorrect-explanation (CI) answers appeared across many problems, revealing false positives invisible to answer-only scoring](high-percentage-ci-answers-free-response.md) — a broader claim this one bears on
 - [Students perceive show-your-work and short-answer formats as giving instructors the most information about their understanding (95%), though they find them harder than MC](students-perceive-written-formats-most-informative.md) — related
 - [A common student difficulty is the incorrect idea that errors occur every time Eve chooses the wrong basis](errors-every-wrong-basis-misconception.md) — related
+- [Even students who choose the wrong answer on a multiple-choice physics question can generate the correct explanation when prompted for alternatives](wrong-answer-students-generate-correct-explanations.md) — related

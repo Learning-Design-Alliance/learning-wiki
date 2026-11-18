@@ -67,3 +67,4 @@ Item discrimination analysis comparing each item score to the rest of the test (
 ## Related Claims
 - [CMR and FR CUE show similar discrimination and internal consistency](cmr-reliability-discrimination-consistency.md) — related
 - [Item difficulty differs significantly on 3 of 16 items, all easier on the CMR version](cmr-item-difficulty-three-items-easier.md) — related
+- [Multiple-response multiple-correct (MRM) questions are much harder than single-response questions, with no significant discrimination differences](mrm-questions-much-harder.md) — related

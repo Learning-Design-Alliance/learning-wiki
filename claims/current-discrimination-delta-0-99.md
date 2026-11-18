@@ -67,3 +67,4 @@ Item-test correlation analysis using Pearson correlations of each question with 
 ## Related Claims
 - [CURrENT discriminates students of different abilities (Ferguson's δ = 0.99)](current-discriminates-student-abilities.md) — possibly the same claim (merge candidate)
 - [CU's upper-division assessments meet standard Classical Test Theory validation criteria, with overall scores of 45-55% enabling discrimination](cu-assessments-ctt-validation-statistics.md) — a broader claim this one bears on
+- [PLIC scores are unrelated to completion time and the instrument discriminates students well](plic-time-and-discrimination.md) — related

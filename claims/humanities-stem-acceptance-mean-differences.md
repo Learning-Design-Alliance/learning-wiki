@@ -48,3 +48,4 @@ One-way ANOVA on behavioral intention by discipline shows Humanities students hi
 - Perceived ease of use does not significantly predict intention to use the contextual mobile language learning app — related
 - Adding mobile user typology to the UTAUT predictors renders effort expectancy non-significant, suggesting the typology accounts for ease of use — related
 - [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related
+- [STEM students report higher behavioural intention to use e-learning than non-STEM students](stem-students-higher-intention-elearning.md) — reports the opposite

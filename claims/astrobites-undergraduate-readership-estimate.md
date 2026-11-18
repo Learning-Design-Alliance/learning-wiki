@@ -68,3 +68,5 @@ The same informal September 2011 reader survey asked undergraduates about career
 - [Undergraduates new to research lack jargon comprehension, knowledge of research practices, and familiarity with the technical literature, and limited mentor interaction time constrains immersion](undergraduate-research-readiness-barriers.md) — a broader claim this one bears on
 - [Classroom use of Astrobites constitutes a form of peer-assisted learning because it is written by and for students and involves discussion and peer-teaching](astrobites-use-as-peer-assisted-learning.md) — related
 - [RTN perceptions differ by desired future career, with research-career aspirants most synergistic and nonacademic aspirants least](career-plans-differ-rtn-perceptions.md) — related
+- [Writing Astrobites summaries develops graduate-student authors' paper-reading, science-communication, and management skills](astrobites-author-skill-development.md) — related
+- [Astrobites reaches a large international readership, but only a small fraction are undergraduates, its intended focus audience](astrobites-readership-broader-than-undergrads.md) — related

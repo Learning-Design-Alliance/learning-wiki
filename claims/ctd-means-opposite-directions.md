@@ -67,3 +67,4 @@ Descriptive statistics from the quasi-experiment (Table 3): control group M 51.6
 - [Digital RPP improves critical thinking disposition more than traditional group practice](rpp-digital-platform-critical-thinking-gains.md) — possibly the same claim (merge candidate)
 - [Complications and length of stay fell in the active group and rose in the control group after the intervention, but none of the clinical outcome changes reached statistical significance](clinical-outcomes-trended-better-not-significant.md) — related
 - [SO \"a\" attainment trends differ by assessment type: direct assessment rose marginally while student perception rose sharply over three years](so-a-attainment-trend-by-assessment-type.md) — related
+- [Students in labs designed to teach critical thinking score about 0.52 points higher at post-test controlling for pre-score](ctlabs-higher-post-scores.md) — related

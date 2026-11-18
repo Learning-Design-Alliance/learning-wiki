@@ -53,3 +53,4 @@ Qualitative thematic analysis conducted over three months by two independent rev
 - [Free-text feedback on the US-PIVC course clusters around technical skills, improved confidence, clinical utility and future use, with praise for interactivity and repeated practice](us-pivc-course-feedback-themes.md) — related
 - [Facilitated post-scenario debrief was the key agent supporting both clinical and non-clinical skill learning in the simulation programme](debrief-key-behaviour-change-agent.md) — related
 - [Thematic analysis of open-ended responses identifies communication, leadership and teamwork as the most valued learning outcomes, especially in IP courses](simulation-debrief-themes-communication-leadership-teamwork.md) — related
+- [Students in project-based lab teams most often described functional team dynamics, though self-formed friend teams were not always functional](project-team-dynamics-functional.md) — related

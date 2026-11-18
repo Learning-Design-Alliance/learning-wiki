@@ -77,3 +77,5 @@ Quasi-experimental comparison of 222 students in introductory physics courses ta
 - [Newton's laws, conservation of energy, and geometrical optics are the three physics concepts that are simultaneously pivotal, present in all four examined state standards, and particularly difficult to learn](three-pivotal-physics-concepts-standards.md) — related
 - [CSEM learning gains in the Lecture/Studio-format second-semester IPLS course were strikingly larger than any gains measured in the course's traditional format](csem-gains-lecture-studio-larger.md) — related
 - [Average introductory physics unit test scores were 79% under the efficient question-group design versus 76% under the traditional format](efficient-design-unit-test-scores-76-to-79.md) — related
+- [Calculus Concept Inventory questions appear trivial to experts but students in lecture courses score poorly, mirroring the Force Concept Inventory](cci-modeled-after-fci-lecture-students-score-poorly.md) — related
+- [Introductory physics and astronomy students achieve comparable FCI conceptual gains on force concepts, despite differing attitudes](fci-conceptual-gains-comparable.md) — related

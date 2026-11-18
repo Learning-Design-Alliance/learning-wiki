@@ -78,3 +78,4 @@ Think-aloud interviews with students who had completed E&M 1 one to two semester
 - [Interview students show a strong association between delta functions and point charges when constructing expressions for extended charge distributions](delta-functions-strong-point-charge-association-construction.md) — related
 - [Upper-division students rarely spontaneously reflect on their solutions but can do so when prompted](students-rarely-spontaneously-reflect.md) — related
 - [Students consistently activate SoV resources on canonical Cartesian electrostatics exam prompts](cartesian-sov-activation-canonical-prompts.md) — related
+- [Very few students spontaneously reflect on their solutions, with only 20 of 329 students making explicit reflective checks on exams](spontaneous-reflection-rare-across-contexts.md) — related

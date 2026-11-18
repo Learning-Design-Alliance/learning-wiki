@@ -48,3 +48,5 @@ Cross-sectional comparison of matched pre-instruction PLIC scores across 584 FY,
 - [PLIC scores show no statistically significant pre- to post-instruction gains for students in FY, BFY, or graduate labs overall](no-significant-plic-gains-following-instruction.md) — related
 - [On a data-comparison item, expert responses are selected more often and novice responses less often with greater physics maturity](plic-item-selections-vary-by-maturity.md) — a narrower finding that bears on this claim
 - [Beyond-first-year students and first-year physics majors score significantly more expert-like than their comparison groups, supporting concurrent validity](eclass-concurrent-validity-course-level-major.md) — a narrower finding that bears on this claim
+- [PLIC pre-survey scores increase strongly with physics maturity (FY students, BFY students, experts)](plic-pre-survey-scores-rise-with-physics-maturity.md) — possibly the same claim (merge candidate)
+- [Students show a small statistically significant pre-to-post gain on the PLIC in matched samples](plic-small-prepost-gain.md) — related

@@ -50,7 +50,8 @@ The article recommends that universities committed to diversity, equity, and inc
 - [Lower-SES and racially minoritized students use less campus space and fewer public spaces, which is associated with lower belonging](../claims/lower-ses-students-use-less-campus-public-space.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Transform the culture of physics so it signals to female students that they belong, alongside boosting science capital and utility value](transform-physics-culture-signal-belonging.md)
 
 ## Examples
 -

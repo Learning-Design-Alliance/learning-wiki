@@ -69,3 +69,4 @@ Post-semester interviews conducted by a co-author with no course association; in
 - [Post-course, more than 80% of students reported high levels of both met expectations and interest in the course](high-post-course-expectations-met-and-interest.md) — related
 - [End-of-semester interviews show P3 students experienced the classroom as a community of learners, valued group work for future careers, and some began seeing computation as a tool for science, though several did not understand why computation was used.](p3-student-reflections-community-group-skills.md) — related
 - [Students may make real-world physics connections without valuing or labeling them as physics, adding complexity to interpreting attitude measures](connections-without-labeling-as-physics.md) — related
+- [Connection to personal interests shaped a participant's engagement with STEM course content in both negative and positive directions](personal-interest-relevance-engagement-autism.md) — related

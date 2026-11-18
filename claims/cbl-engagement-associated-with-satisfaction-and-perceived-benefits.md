@@ -83,3 +83,4 @@ Chi-squared tests on survey data from 327 students compared perceptions across f
 - [Element-level PBL studies show that problem quality, group functioning and prior knowledge predict interest, and familiar, learning-aligned, critical-reasoning problems raise interest and autonomous motivation](element-level-pbl-studies-predictors-of-interest.md) — related
 - [Students rated the FC-TCLEBL class higher than the LBC class on teamwork ability, analytical skills, and problem-solving skills](fc-tclebl-student-questionnaire-skill-ratings.md) — related
 - [Students across three CBR-related courses perceive PBL as an effective teaching and learning method that enhances CBR competence](pbl-perceived-effective-cbr-competence-133-students.md) — related
+- [Students reported learning ways of thinking, learning by doing projects, and requirements for success from the experimental project](project-lab-described-learning.md) — related

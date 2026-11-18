@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2012
+source_checked: 2026-11-18
 sources:
   - id: vera-montalbano-2012
     resource: "https://doi.org/10.48550/arXiv.1201.0553"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` During measurements of weak uranium sources, the necessity of performing many measures and the problem of evaluating uncertainties arose, and students were ready to recall their statistics knowledge to face this problem. [→ Vera Montalbano 2012](#vera-montalbano-2012)
@@ -51,3 +52,4 @@ Section 2 describes the authors' observation during the laboratory phase, in whi
 - [Students in introductory physics labs are almost never engaged in experiment design, so they hold only a theoretical view of setup limitations and how they affect measurement uncertainty](introductory-lab-students-not-engaged-in-design.md) — a broader claim this one bears on
 - [Students compare radiation measurements as point numbers without the ±σ range, so overlapping successive measurements are treated as errors rather than as valid within statistical uncertainty](students-compare-measurements-as-point-numbers.md) — related
 - [Tasks can be designed to create a perceived trade-off between accuracy and realism that requires sensemaking to resolve](accuracy-realism-task-design.md) — related
+- [A mixed hands-on activity combining theory, setup assembly, data analysis and critical synthesis increased pre-collegiate students' awareness in quantitatively investigating environmental radioactivity](hands-on-gamma-spectroscopy-increases-student-awareness.md) — related

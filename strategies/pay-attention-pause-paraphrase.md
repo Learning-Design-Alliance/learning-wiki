@@ -66,6 +66,7 @@ The protocol converts discussion from a competition for airtime into a comprehen
 - [Active Listening](../strategies/active-listening.md) — the broader skill family this strategy operationalizes
 - [Socratic Seminar](../strategies/socratic-seminar.md) — a discussion format whose norms this protocol can seed early in the year
 - [Scaffold mathematical discussion with paraphrasing, restating, formulaic expressions, elaborating questions, and key vocabulary in context](discussion-scaffolds-paraphrase-formulaic-expressions.md)
+- [Collaboration-level inclusive-climate practices: anti-harassment onboarding, moderated telecon turn-taking, junior-first question order, student-only debriefs, and a Climate and Equity committee](distributed-collaboration-inclusive-climate-practices.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the larger activity this protocol structures

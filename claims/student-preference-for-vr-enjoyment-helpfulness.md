@@ -53,3 +53,4 @@ Attitudinal questions administered to the same randomized treatment groups in th
 - [Pre-post gains show a significant gender difference favoring men in the VR treatment only, not in the video or image treatments](vr-gender-gap-men-larger-gains.md) — related
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — related
 - [The review reports, citing Salzman et al., that students using the MaxwellWorld immersive VR system developed significantly better understanding of electrostatic concepts than students using a 2-D application](maxwellworld-vr-better-electrostatic-understanding-than-emfield.md) — related
+- [Students using stereoscopic VR did not significantly outperform students using WebGL simulations or static 2D images on 3D magnetostatics items](vr-no-outperform-webgl-images-magnetostatics.md) — related

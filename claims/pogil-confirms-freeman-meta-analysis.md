@@ -53,3 +53,4 @@ Side-by-side comparison (Table 3) of the present POGIL-only meta-analysis agains
 - [MENA students showed a considerably larger failure-rate reduction (36% greater) than reported in developed-country meta-analyses under comparable active-learning approaches](active-learning-mena-greater-failure-reduction-than-developed-countries.md) — related
 - [Active learning produces better student outcomes than lecture across STEM, including lower failure rates and higher test performance](active-learning-superior-to-lecture-stem.md) — related
 - [Student ARS performance differed across courses: biology students averaged 89.3% correct while engineering students averaged 58.5% on initial responses, with peer instruction raising averages to 80.0%](ars-performance-biology-versus-engineering.md) — related
+- [Female students benefited more from active learning than male students in failure-rate reduction](active-learning-gender-benefit-failure-rate.md) — related

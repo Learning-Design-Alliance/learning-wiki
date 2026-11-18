@@ -69,3 +69,4 @@ Component-level regression analysis at posttest in the same experiment. The argu
 - [Argument structure training increased students' self-reported confidence with the Toulmin model](training-increased-toulmin-confidence.md) — related
 - [Pretest accuracy moderated the training effect for typical full-fledged arguments: students with high pretest scores benefited most](pretest-accuracy-moderates-typical-argument-training.md) — related
 - [Study performance moderated the training effect: high-achieving students benefited at posttest, low performers did not](study-performance-moderates-training-effect.md) — related
+- [Multi-task learning with specificity prediction as a secondary task almost always improves argument component classification, and yields the only model with warrant f-score above 0.3](multi-task-specificity-improves-argument-classification.md) — related

@@ -48,3 +48,4 @@ Authors' comparative analysis of HeDiCom against existing frameworks such as the
 - [The COVID-19 mandated shift to digital teaching created learning and performance contexts so different that the Philipsen et al. TPD-for-OBL framework's applicability may be limited](covid-context-limits-tpd-ob-framework.md) — related
 - [The HeDiCom framework was developed through a three-stage process of systematic review, framework comparison, and expert/practitioner validation](hedicom-three-stage-development-process.md) — related
 - [Validation sessions reframed fostering students' digital literacy as empowering students for a digital society, adding ethical competences](hedicom-empowering-students-reframing.md) — related
+- [At the time of the monograph, no established list of professional competencies of the future mathematics teacher existed and Ukrainian higher-education standards were still under development](no-established-competency-list-future-math-teachers.md) — related

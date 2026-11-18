@@ -53,3 +53,4 @@ Empirical verification on the 911-candidate, 50-item Selection Test data. The co
 - [Test difficulty value defined as ratio of observed to maximum score vector length times cosine of their angle equals test mean divided by number of items](test-difficulty-value-cosine-definition.md) — related
 - [Accuracy and the proportion of high bets decrease with increasing discrimination difficulty in both domains](difficulty-reduces-accuracy-and-high-bets.md) — related
 - [Graph-based items on Wien's law and the luminosity-area-temperature relationship discriminate best between high- and low-ability Astro 101 students](graph-based-wien-items-discriminate.md) — related
+- [Questions with difficulty index close to 0.27 that reach their maximum DI have the highest discrimination power, per the article's theoretical-limit analysis](diff-i-near-0-27-highest-discrimination-potential.md) — related

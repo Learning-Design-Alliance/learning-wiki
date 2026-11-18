@@ -63,3 +63,4 @@ One-way ANOVA on GenAI shortcut reliance across clusters, F(2, 820) = 22.00, p <
 - [Critical-ethical awareness plays a dual role: it negatively predicts general GenAI reliance but positively predicts shortcut reliance](critical-ethical-awareness-dual-role-reliance.md) — related
 - [Profiles differ in self-perceived academic skills: Engaged and Literate users report the highest problem-solving and cognitive endurance gains, while Uncritical Reliant users report the highest independent thinking](profile-differences-academic-skills.md) — related
 - [Cluster analysis identifies three stable learner profiles: Engaged and Literate, Uncritical Reliant, and Skeptical Minimal users](three-genai-learner-profiles.md) — related
+- [In-depth analysis of a typical session from each cluster yields ten behavioral structures interpreted via Schoenfeld's problem-solving phases](ten-behavioral-structures-schoenfeld.md) — related

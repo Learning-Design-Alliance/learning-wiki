@@ -50,7 +50,8 @@ The article's intervention used 7-8 inch Android tablets costing less than £100
 - [Students rated mobile learning activities positively and 80% gave positive interview feedback](../claims/mobile-math-positive-student-perceptions.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use built-in mobile-device sensors for science experiments across unconventional settings such as amusement parks, gyms, parks and means of transport](st-smartphone-sensor-experiments-unconventional-settings.md)
 
 ## Examples
 -

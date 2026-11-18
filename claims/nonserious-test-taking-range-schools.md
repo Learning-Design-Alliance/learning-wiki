@@ -50,3 +50,4 @@ Descriptive statistics from the BPT dataset of 108,140 observations across nine 
 - [Consequences for not participating are associated with higher odds of serious test-taking behavior in a low-stakes assessment](participation-consequences-serious-test-taking.md) — related
 - [Giving students choice of date or place is associated with sharply lower odds of serious test-taking, unless the test is presented as assessment](choice-reduces-serious-test-taking-assessment-moderation.md) — related
 - [Rapid-guessing behavior can distort test scores and adversely affect measurement](rapid-guessing-distorts-test-scores-and-measurement.md) — related
+- [Scores of test takers flagged as non-serious are much lower than the score distribution of the full actual population](nonserious-scores-much-lower-than-population.md) — related

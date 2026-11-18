@@ -8,7 +8,7 @@ generated:
 id: active-learning-improves-exam-performance
 aliases: [active-learning-raises-stem-exam-performance-047-sd, active-engagement-higher-learning-gains-than-lecture, active-learning-stem-freeman-meta-analysis-gains]
 evidence_strength:
-newest_evidence: 2026
+newest_evidence: 2025
 sources:
   - id: freeman-et-al-2014
     resource: "https://doi.org/10.1073/pnas.1319030111"
@@ -28,9 +28,9 @@ sources:
     n: 15 studies (9,238 students) for exam scores
     kind: quant-synthesis
     rigour: 3
-  - id: finkelstein-2026
+  - id: finkelstein-2025
     resource: "https://doi.org/10.48550/arxiv.2510.01467"
-    title: "Finkelstein, N. (2026). A principled way to think about AI in education: guidance for educators and policy makers on action based on goals, models of human learning, and use of technologies. Draft manuscript, University of Colorado, Boulder. https://arxiv.org/abs/2510.01467. [doi:10.48550/arxiv.2510.01467](https://doi.org/10.48550/arxiv.2510.01467)"
+    title: "Finkelstein, N. (2025). A principled way to think about AI in education: guidance for educators and policy makers on action based on goals, models of human learning, and use of technologies. Draft manuscript, University of Colorado, Boulder. https://arxiv.org/abs/2510.01467. [doi:10.48550/arxiv.2510.01467](https://doi.org/10.48550/arxiv.2510.01467)"
     author: Finkelstein, N.
     q: 2
     i: "?"
@@ -50,7 +50,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 4 studies · 2 quant-synthesis `r2`–`r3`, 2 theoretical `r2` · `q2`–`q4` · `i1`–`i2`
-> **Currency** · newest study 2026 · 3 of 4 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2025 · 2 of 4 entries checked against their sources (automated) · not reviewed by a person
 
 Students taught through active-learning approaches (e.g., in-class problem-solving, discussion, peer instruction) tend to perform better on examinations than students taught through traditional lecture alone.
 
@@ -62,7 +62,7 @@ Students taught through active-learning approaches (e.g., in-class problem-solvi
 
 `q4 i2` Across 158 independent comparisons, student performance on identical or equivalent examinations, concept inventories, and other assessments increased by a weighted standardized mean difference of 0.47 under active learning versus lecturing. [→ Freeman S 2014](#freeman-et-al-2014)
 
-`q2 i?` Environments that proactively engage students show demonstratively higher learning gains than traditional one-way lecture environments, per the consensus study the article cites. [→ Finkelstein 2026](#finkelstein-2026)
+`q2 i?` Environments that proactively engage students show demonstratively higher learning gains than traditional one-way lecture environments, per the consensus study the article cites. [→ Finkelstein 2025](#finkelstein-2025)
 
 `q2 i2` The Freeman et al. meta-analysis of 225 studies found student performance on examinations and concept inventories increased by a printed effect size of 0.47 SD under active learning versus traditional lecturing, with about 6% higher average examination scores and traditional-lecture students 1.5 times more likely to fail. [→ Lebert 2024](#lebert-2024)
 
@@ -98,9 +98,9 @@ Theobald, E. J., Hill, M. J., Tran, E., Agrawal, S., Arroyo, E. N., Behling, S.,
 
 A meta-analysis of published and unpublished STEM course comparisons of traditional lecturing and active learning in which instructor differences were controlled (the same instructor in both, instructors drawn at random from a pool, or both conditions team-taught by four or more), looking at students from underrepresented minority and low-income groups against their classmates. On identical or equivalent exams, the gap was −0.62 SD under lecturing and −0.42 SD under active learning, a 33% reduction; gaps in passing rates narrowed by 45% (26 studies, 44,606 students). The results varied widely between studies, and intensity (the share of class time in activities) moderated them: on exams the gap was −0.48 SD (95% CI −0.60 to −0.37) with low-intensity and −0.36 SD (95% CI −0.45 to −0.27) with high-intensity active learning, a 22% and a 42% reduction relative to lecturing; on passing rates the gap was −9.6% with low intensity (a 16% increase) and −2.0% with high intensity (a 76% reduction). The authors summarise this as "only classes that implement high-intensity active learning narrow achievement gaps", which holds for passing rates but not for exam scores. This qualifies the claim: the benefit on exams is not uniform and depends on how much active learning is actually done.
 
-### Finkelstein 2026
+### Finkelstein 2025
 
-Finkelstein, N. (2026). A principled way to think about AI in education: guidance for educators and policy makers on action based on goals, models of human learning, and use of technologies. Draft manuscript, University of Colorado, Boulder. https://arxiv.org/abs/2510.01467. [doi:10.48550/arxiv.2510.01467](https://doi.org/10.48550/arxiv.2510.01467)
+Finkelstein, N. (2025). A principled way to think about AI in education: guidance for educators and policy makers on action based on goals, models of human learning, and use of technologies. Draft manuscript, University of Colorado, Boulder. https://arxiv.org/abs/2510.01467. [doi:10.48550/arxiv.2510.01467](https://doi.org/10.48550/arxiv.2510.01467)
 
 `q2 · i?` · `theoretical · r2`
 
@@ -214,3 +214,5 @@ The article reports the 2014 Freeman et al. meta-analysis of 225 studies compari
 - [The general physics course with the computational modelling component achieved an average FCI gain of 22%, performing like a traditional instruction course](fci-gain-22-percent-traditional-instruction.md) — a narrower finding that bears on this claim
 - [Differences in pedagogy and testing incentives cannot explain the FCI performance gap between traditional and M&I curricula.](pedagogy-incentives-cannot-explain-fci-gap.md) — related
 - [PER-based approaches are particularly helpful for underrepresented students and can decrease the gap between traditional and underrepresented students in physics classes](per-approaches-reduce-underrepresented-gap.md) — a narrower finding that bears on this claim
+- [Active learning reduced failure rate in introductory physics by 9.1 percentage points compared with traditional lectures](active-learning-reduces-failure-rate-intro-physics-chile.md) — related
+- [Pre- to post-exam gains of 30% to 50% were obtained across the simulations tested at UTEP and UWO](simulation-pre-post-gains-30-50-percent.md) — a narrower finding that bears on this claim

@@ -50,3 +50,4 @@ Analytical discussion of runnable artifacts and dynamic complexity in authoring 
 - [Robot embodiment changes verification and debugging: learners treat robot execution as perceptual evidence for hypothesis-driven revisions, while AI-Only learners rely on generic help-seeking](robot-embodiment-perceptual-evidence-debugging.md) — related
 - [Text-based rubrics alone provide insufficient contextual, dynamic and procedural information to support rich mental model development of complex skills](text-rubrics-lack-contextual-dynamic-procedural-information.md) — related
 - [Interactivity level in virtual patients is related to the navigation model, with branching allowing the highest level](vp-authenticity-interactivity-feedback.md) — related
+- [Parameterized exercises keep content challenging over repeated attempts and help avoid plagiarism in summative use](parameterized-exercises-repeated-attempts-benefits.md) — related

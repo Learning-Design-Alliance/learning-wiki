@@ -94,3 +94,4 @@ Authors' interpretation in the section on games as a culture medium: game enviro
 - [Educational booklets may affect knowledge but are limited for changing practice because learners are passive and reading is uncontrolled](booklet-limits-for-practice-change.md) — related
 - [Students' self-reported competence, autonomy, and relatedness showed a statistically significant link to both class grades and interest in learning physics](affective-experiences-linked-grades-interest.md) — related
 - [Game based learning activities meet four player-activity requirements—students' goals, autonomy, competence, and relatedness—to foster autonomous motivation](four-requirements-autonomous-motivation-dgbl.md) — related
+- [Combining collaborative, game-based and mobile activities is argued to create synergies that make learning more effective than each activity type alone](jscm-synergy-argument.md) — related

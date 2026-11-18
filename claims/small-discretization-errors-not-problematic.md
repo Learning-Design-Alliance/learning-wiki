@@ -49,3 +49,4 @@ and |d0−d1|λ = |235−296|λ = 6120 = 3 .05. These small errors werenot probl
 ## Related Claims
 - [Triple-slit simulation tasks made students reconsider the interference conditions because the two-slit minimization condition fails for three slits](triple-slit-minimization-condition-fails.md) — related
 - [Both educational groups had significantly lower exercise time and probe movement distance in later than in earlier simulator exercises, in within-group pre-post comparisons](simulator-training-efficiency-gains-both-groups.md) — related
+- [A low-cost student spectrometer built in FP measured an LED wavelength within 5 nm of the accepted value](fp-low-cost-spectrometer-within-5nm.md) — related

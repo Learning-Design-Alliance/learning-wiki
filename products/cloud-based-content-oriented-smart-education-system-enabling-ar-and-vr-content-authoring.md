@@ -33,4 +33,4 @@ A cloud-based educational media-service system attributed to Jeong, Kim, and Yoo
 - [SageMathCloud](sagemathcloud.md)
 
 ## Key Sources
-- Popel, M.V., Shyshkina, M.P. (2018). The Cloud Technologies and Augmented Reality: the Prospects of Use. https://journal.iitta.gov.ua/index.php/itlt
+- Popel, M.V., Shyshkina, M.P. (2018). The Cloud Technologies and Augmented Reality: the Prospects of Use. https://journal.iitta.gov.ua/index.php/itlt. [doi:10.31812/123456789/2662](https://doi.org/10.31812/123456789/2662)

@@ -65,3 +65,4 @@ In the same 90-student quasi-experiment, the experimental group's total CTDI-CV 
 - [Critical thinking skills, measured by CTDI-CV, showed no statistically significant improvement after the flipped classroom](ctdi-cv-no-critical-thinking-improvement.md) — related
 - [Open-mindedness is the CT subscale that primarily predicts improvement in the preparation dimension of PBL performance](open-mindedness-predicts-preparation-improvement.md) — related
 - [Third-year medical students at Peking University showed a positive average critical thinking disposition (mean CTDI-CV 297.72)](positive-ct-disposition-medical-students.md) — related
+- [Enrollment year predicts critical thinking dispositions, with undergraduate 2012 students scoring higher; age shows a small negative association with open-mindedness](enrollment-year-and-age-predict-ct-dispositions.md) — related

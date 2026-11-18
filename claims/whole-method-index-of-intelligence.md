@@ -49,3 +49,4 @@ An observational finding the author attributes to his pupil Signorina Ieronutti:
 
 ## Related Claims
 - [Schools overwhelmingly reward executive styles and confuse style with level of intellect](schools-reward-executive-styles.md) — related
+- [Primary school teachers most often consider student intelligence level as the student characteristic to identify in learning](intelligence-level-most-considered-characteristic-primary-teachers.md) — related

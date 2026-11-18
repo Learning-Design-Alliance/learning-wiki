@@ -55,3 +55,4 @@ Classical Test Theory reliability analysis of the split-class samples. Item-test
 - [All CMR CUE items fall within an acceptable difficulty range (30–75%) and show statistically significant item-test correlations (0.28–0.55), supporting item discrimination](cmr-cue-item-difficulty-and-discrimination-acceptable.md) — related
 - [The majority of student responses to coupled CMR CUE subparts are internally consistent even when incorrect, supporting the validity of the multiple-response format](cmr-cue-responses-internally-consistent-even-when-incorrect.md) — related
 - [The E-CLASS shows strong whole-test discrimination, adequate item discrimination, and acceptable internal consistency](eclass-discrimination-internal-consistency.md) — related
+- [PLIC scores are unrelated to completion time and the instrument discriminates students well](plic-time-and-discrimination.md) — related

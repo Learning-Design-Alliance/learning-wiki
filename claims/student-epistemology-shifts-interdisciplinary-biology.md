@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2011
+source_checked: 2026-11-18
 sources:
   - id: jessica-watkins-2011
     resource: "https://doi.org/10.48550/arXiv.1109.4983"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q1`–`q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-18 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Pre-course survey results suggest many introductory biology students do not see the connection between biology and math or physics. [→ Jessica Watkins 2011](#jessica-watkins-2011)

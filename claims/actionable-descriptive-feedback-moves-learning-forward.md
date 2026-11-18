@@ -68,3 +68,4 @@ Table 1 of the brief contrasts effective and less-effective feedback qualities, 
 - [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate improved on some criteria but not others](probing-feedback-revise-resubmit-evidence.md) — related
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — related
 - [Improvement-over-time and actionable-next-steps subcomponents do not significantly improve on mock evaluations](mock-evaluation-improvement-and-next-steps-not-improved.md) — related
+- [JACK provides both evaluative and descriptive feedback, with descriptive feedback referring to the student's input and reusing previous values](jack-evaluative-descriptive-feedback.md) — a narrower finding that bears on this claim

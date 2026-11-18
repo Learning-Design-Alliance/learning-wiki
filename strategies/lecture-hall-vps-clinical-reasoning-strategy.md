@@ -50,6 +50,7 @@ The article recommends implementing VPS programs for whole cohorts in a shared-s
 - [Conduct virtual patients as a collaborative interactive activity within a lecture rather than as an independent session after the lecture](collaborative-vps-within-lecture-strategy.md)
 - [Use virtual patients to replace passive instruction and train clinical reasoning before bedside learning, without diminishing bedside teaching hours](vp-replace-passive-before-bedside-strategy.md)
 - [Use narrated case-based mobile virtual patient applications as a supplement to traditional instruction to improve clinical reasoning skills](narrated-case-based-mobile-vp-supplement-strategy.md)
+- [Implement simulations as one-hour in-class activities with pre-test, guided group exploration, and immediate post-test](pre-test-simulation-post-test-activity-strategy.md)
 
 ## Examples
 -

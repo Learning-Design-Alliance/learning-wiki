@@ -68,3 +68,4 @@ The authors report their own teaching experience over several weeks of molecular
 - [Energy conservation plus the identity a = (1/2)d(v²)/dx yields the falling rope's velocity and acceleration in a form suitable for beginning students](rope-energy-method-beginning-students.md) — related
 - [Students continue to have difficulty differentiating heat energy and temperature even after studying thermochemistry](heat-temperature-differentiation-persists-after-instruction.md) — related
 - [Introductory physics students can engage in genuine theoretical inquiry by deriving empirical gas laws from a simple particle model of gases](intro-physics-theoretical-inquiry-gas-laws.md) — related
+- [Introducing elementary particles as 'smallest particles' or via the microscope metaphor risks the misconception of particles as small pieces of ordinary matter](naive-particle-notion-misconception-risk.md) — related

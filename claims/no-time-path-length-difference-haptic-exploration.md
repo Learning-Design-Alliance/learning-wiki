@@ -67,3 +67,4 @@ Post-hoc power analysis reported in the Discussion, based on the study's task ti
 - [Touch and no-touch groups showed comparable baseline laparoscopic performance on the post-and-sleeve task](baseline-laparoscopic-performance-comparable-groups.md) — related
 - [Haptic exploration of a model before a laparoscopic task significantly reduces force parameters during training](haptic-exploration-lowers-force-laparoscopic-task.md) — related
 - [Haptic simulator trials more frequently show superior accuracy outcomes when force-feedback and structured guidance are included](haptic-simulator-force-feedback-accuracy-gains.md) — related
+- [A haptic-hardware tutorial before the simulation produced no quiz-score difference between the two force-feedback groups](haptic-tutorial-no-quiz-difference.md) — related

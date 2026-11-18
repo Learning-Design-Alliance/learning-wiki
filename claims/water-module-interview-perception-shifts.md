@@ -47,3 +47,4 @@ Interview study of three volunteering Water Module students interviewed at begin
 ## Related Claims
 - [First-year students in the integrative 'Water Module' course showed changes in all four Draw-an-Engineer-Test themes, unlike both control groups](water-module-changes-all-four-daet-themes.md) — a broader claim this one bears on
 - [Water Module students found the active, integrative teaching style stimulating for independent and critical thinking despite initial discomfort](water-module-active-learning-reception.md) — related
+- [In 2015, 70% of respondents said the event is useful to promote the researcher's role and 40% said it could encourage young people toward scientific careers](ern-2015-career-encouragement-perception.md) — related

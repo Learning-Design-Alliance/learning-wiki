@@ -49,6 +49,7 @@ The course spends only a small amount of time lecturing, with the considerable m
 - [Active Learning](../principles/active-learning.md)
 - [Assign empirically tested animation-based learning modules as out-of-class preparation to free class time for active learning](assign-animation-modules-as-preclass-preparation.md)
 - [Assign small-group responses to popular science articles to build critical reading of science in media](popular-science-article-response-assignments.md)
+- [Sequence a demonstration topic as clicker-answered group-discussion questions that build from a conventional device's limits to the superconducting alternative](clicker-group-discussion-question-sequence-magnet-teaching.md)
 
 ## Examples
 -

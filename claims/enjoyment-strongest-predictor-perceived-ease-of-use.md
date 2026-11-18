@@ -50,3 +50,4 @@ Multiple regression on pooled GETAMEL data from 17 students; the largest VIF was
 ## Related Claims
 - [Students highly accepted the VR anatomy software 3D Organon for learning anatomy, with enjoyment the highest-rated GETAMEL variable (μ = 1.9)](high-acceptance-3d-organon-enjoyment-highest.md) — related
 - [Perceived ease of use was the strongest predictor of both perceived usefulness (β = 1.02) and behavioral intention to use 3D Organon (β = 1.01)](ease-of-use-strongest-predictor-usefulness-intention.md) — related
+- [STEM students report higher computer self-efficacy and perceived ease of use of e-learning than non-STEM students in China](stem-students-higher-cse-peou-china.md) — related
