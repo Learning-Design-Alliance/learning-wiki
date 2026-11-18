@@ -49,7 +49,8 @@ The article recommends analyzing time-stamped video-player interaction logs (pla
 - [A single student's watching trajectory showed seeking and pausing mid-video to find values needed for the assignment, with only 46.8 s spent on the conceptual interaction-point questions](../claims/single-student-trajectory-value-seeking.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Model student performance on complex activities starting from in-class engagement measures rather than video clickstream features](model-complex-performance-from-in-class-engagement.md)
 
 ## Examples
 -

@@ -26,7 +26,8 @@ Mathematica is Wolfram's computer algebra system for symbolic and numerical comp
 - [Computer-assisted mathematics instruction through a computer algebra system at the transformation level produces higher parabola achievement than traditional teaching with ICT at the replacement level](../claims/cami-cas-transformation-beats-replacement-parabola-achievement.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [SageMath](sagemath.md)
 
 ## Key Sources
 - Mehmet Alper Ardıç; Tevfik İşleyen (2018). The Effect of Mathematics Instruction through Computer Algebra Systems on the Academic Achievements of Secondary Education Students: Turkey Example. Journal of Education and e-Learning Research, 5(3): 165-173. https://doi.org/10.20448/journal.509.2018.53.165.173

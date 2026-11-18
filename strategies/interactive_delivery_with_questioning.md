@@ -66,6 +66,7 @@ Questioning converts passive reception into [Active Learning](../principles/acti
 - [Wait Time](wait-time.md) — the pause discipline that determines response quality
 - [Peer Instruction](peer-instruction.md) — a fully specified questioning protocol built around conceptual questions and peer debate
 - [Train ChatGPT to pose a follow-up question after each answer to check learner understanding through retrieval practice](chatgpt-followup-questions-retrieval-practice.md)
+- [Use 50/50 and Fill-in-the-Blank interactive lecturing questions with whole-class choral responses for real-time formative feedback](50-50-fill-in-blank-interactive-lecturing.md)
 
 ## Examples
 - **Peer Instruction (Eric Mazur, Harvard)** — ConcepTest questions in physics lectures: students vote individually, discuss with neighbors, revote; the instructor then explains based on the vote pattern. Materials at [https://peerinstruction4cs.org](https://peerinstruction4cs.org).

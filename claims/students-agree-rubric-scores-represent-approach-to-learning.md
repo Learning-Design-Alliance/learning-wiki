@@ -50,3 +50,4 @@ Students completed an online satisfaction survey at week 6 and week 12 of the se
 - [LLM-based rubric scores agreed with expert ratings at the total-score level and on cognitive-process dimensions, but agreement was low for more subjective dimensions](ai-expert-agreement-cognitive-versus-subjective-dimensions.md) — related
 - [The Bloom-driven framework generalizes to social-science questions, with automated rubrics agreeing strongly with experts on usability but only modestly on Bloom level](social-science-generalization-human-agreement.md) — related
 - [Two of seven SRL rubric indicators showed significant discrepancy between student self-assessments and system-generated scores](two-indicators-diverge-self-assessment-system-scores.md) — related
+- [A small survey of users judged the system's semantic and Bloom similarity results useful for deciding between real learning objectives](lo-similarity-user-survey-usefulness.md) — related

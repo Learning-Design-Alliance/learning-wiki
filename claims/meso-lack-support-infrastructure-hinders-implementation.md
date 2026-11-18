@@ -70,3 +70,4 @@ Teachers reported difficulty implementing the new curriculum because materials w
 - [Teachers' lack of pedagogical knowledge about CLT hinders curricular change implementation at the micro-level](micro-teacher-qualifications-hinder-clt-implementation.md) — related
 - [Implementing collaborative argumentation is challenged by time constraints, curriculum fit, teacher training, and system-level support](argumentation-implementation-challenges.md) — related
 - [The coordinated school health approach saw scattered US adoption, hindered by pressures on administrators and lack of integration into School Improvement Plans](csh-scattered-adoption-barriers.md) — related
+- [Teachers completing astronomy research PD report needing step-by-step guidance and support, without which they may disengage](research-pd-support-prevents-disengagement.md) — a narrower finding that bears on this claim

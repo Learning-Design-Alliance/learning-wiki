@@ -51,6 +51,8 @@ The interactive event runs a fixed sequence: introduction to OSP, sharing of lea
 - [Do-it-yourself black hole workshop: build and compare sector models to introduce curved space descriptively](diy-black-hole-sector-model-workshop.md)
 - [Open apparatus design plus a harmonic-then-parametric teaching sequence for the spring-mass laboratory](open-apparatus-harmonic-to-parametric-sequence-strategy.md)
 - [Teacher professional development through customizing Open Source Physics simulation templates](teacher-pd-customizing-osp-simulations.md)
+- [Open-inquiry lab workflow in which students design experiments, build simulations, compare them, and iterate](open-inquiry-simulation-experiment-comparison-workflow.md)
+- [Hand out purposely broken code samples for learners to fix or improve](broken-code-sample-repair-strategy.md)
 
 ## Examples
 -

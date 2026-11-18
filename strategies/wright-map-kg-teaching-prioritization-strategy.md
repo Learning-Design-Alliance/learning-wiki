@@ -50,7 +50,8 @@ The article demonstrates a concrete procedure for translating psychometric and n
 - [Self-efficacy for learning estimated by IRT was not significantly correlated with one-time exam scores or full-range GPA, but showed a weak positive correlation with GPA among students with positive SEL](../claims/sel-gpa-positive-range-correlation.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Operationalize lab learning goals through stakeholder interviews, prioritization, and concept mapping](stakeholder-interviews-concept-map-lab-goals.md)
 
 ## Examples
 -

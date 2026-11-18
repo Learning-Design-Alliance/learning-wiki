@@ -47,6 +47,7 @@ The Lens Inquiry is a three-hour inquiry activity on converging lenses and teles
 - Inquiry Based Learning
 - [CCD modeling activity sequence: airplane-model starter, blueprinting, model building, presentations, synthesis](ccd-modeling-activity-sequence.md)
 - [Inquiry as teaching science as science is done, with facilitator-guided student investigation](inquiry-as-science-is-done-with-facilitation.md)
+- [E&M electrostatics demonstration-based activity where students generate and test models](em-electrostatics-model-generation-lab.md)
 
 ## Examples
 -

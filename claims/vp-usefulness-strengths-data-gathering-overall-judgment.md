@@ -50,3 +50,4 @@ Descriptive analysis of a 14-item adapted eViP questionnaire (full sample N=50; 
 - [Students rated human-created VPs slightly better on helpfulness, preparedness, and learning experience](students-rate-human-vps-slightly-better.md) — related
 - [Students rated the integrated VP session positively, with role modelling (M = 4.44) and varied case practice (M = 4.35) rated higher than “what-if” discussions (M = 3.76)](positive-perceptions-vp-role-modelling-varied-cases-what-if.md) — related
 - [Most students rated the combination of virtual patients and teaching events positively as a worthwhile learning experience](students-rate-vp-integration-positively.md) — related
+- [Graduate students rate the Problem Finding course as relevant, worthwhile and useful for their future and career (M = 4.58)](pf-course-rated-relevant-worthwhile-useful.md) — related

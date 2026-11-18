@@ -49,3 +49,4 @@ Instructor survey scoring of novelty and communication on physics exam questions
 - [Variation among Engineering programs is as large as variation between Engineering and Technology programs](within-sector-variability-rivals-between-sector.md) — related
 - [Collected exam questions required no cognitive processes above apply and no originality in analysis or high-level interdependence](exam-questions-capped-at-apply-and-standardized-analysis.md) — related
 - [Technology programs examine discipline-related physics topics at higher cognitive levels within a disciplinary context](technology-programs-discipline-specific-physics-emphasis.md) — related
+- [The correlational survey covered 290 engineering and 156 technology students taking engineering physics in 2011-2012](446-students-attitude-motivation-survey-physics.md) — related

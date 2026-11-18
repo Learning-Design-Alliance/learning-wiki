@@ -27,4 +27,4 @@ A dataset combining TIMSS 2011 eighth-grade mathematics achievement plausible va
 -
 
 ## Key Sources
-- Cai, J. (2018). Effects of Home Resources and School Environment on Eighth-Grade Mathematics Achievement in Taiwan. https://arxiv.org/abs/1801.06049
+- Cai, J. (2018). Effects of Home Resources and School Environment on Eighth-Grade Mathematics Achievement in Taiwan. https://arxiv.org/abs/1801.06049. [doi:10.48550/arxiv.1801.06049](https://doi.org/10.48550/arxiv.1801.06049)

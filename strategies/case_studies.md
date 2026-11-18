@@ -61,10 +61,12 @@ Case-based learning improves exam performance and higher-order reasoning compare
 6. **Generalize** — follow with a second, contrasting case so learners abstract the principle rather than memorizing one story [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]
 
 ## Related Strategies
+
 - [Problem-Based Learning](../patterns/case-based-learning.md) — cases as the driver of self-directed inquiry; PBL uses cases to *generate* the need for learning, while classic case discussion assumes concepts are already in play
 - [Productive Failure](../strategies/productive-failure.md) — letting learners attempt a case before instruction, so the subsequent teaching resolves the difficulties they experienced [Productive failure improves conceptual learning.](../claims/productive-failure-improves-conceptual-learning.md) [+M]
 - [Role Play](../strategies/acting-role-play.md) — learners enact case participants, adding perspective-taking and affective engagement
 - [Debate](../patterns/debate.md) — structured argumentation over competing case resolutions
+- [Assess with new situations and start from real-life problems rather than repeating lecture tasks](new-situations-assessment-strategy.md)
 
 ## Examples
 - **Harvard Business School case method** — MBA students analyze ~500 cases over two years in 80-minute discussion sections; the instructor cold-calls to require public commitment to a position before peer discussion. See [Case-Based Learning (Harvard Method)](../patterns/case-based-learning.md).

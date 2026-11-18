@@ -67,3 +67,4 @@ Telephone interviews with 13 parents and 4 stakeholder gatekeepers three months 
 - [A serious game version of a parents’ sex and relationships communication programme is acceptable to parents on both cognitive and emotional dimensions](serious-game-acceptable-parents-sr-communication.md) — related
 - [GenAI use is positively associated with attitude, subjective norm, perceived behavioral control, and behavioral intention toward GenAI-assisted learning](genai-use-positively-associated-tpb-constructs.md) — related
 - [Perceived usefulness and perceived ease of use of GenAI tools significantly predict teachers' attitudes and behavioural intention](usefulness-ease-predict-attitude-intention-genai.md) — related
+- [Intentions rather than attitudes alone predict behaviour when people have control over performance](intentions-predict-behaviour-better-than-attitudes.md) — related

@@ -67,3 +67,5 @@ A brief Spring 2014 survey of NITARP+Spitzer alumni with a 50% response rate, re
 - [Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training](exposure-programs-increase-tech-pursuit.md) — a broader claim this one bears on
 - [Students saw technology and STEM careers as creating concrete possibilities for their own agency](stem-careers-possibilities-agency.md) — related
 - [NAMI On Campus Club participants reported high confidence in their clubs' impact, with 72–100% agreement across survey items](nami-campus-club-survey-outcomes.md) — related
+- [NITARP educators' self-described motivations span a whole inward-to-outward range and shift along the continuum during the program year](educators-shift-inward-outward-motivation-continuum.md) — related
+- [Over the program's lifetime, NITARP teams have contributed more than 120 poster papers to the AAS and contributed to eight refereed papers in major astronomy journals](nitarp-program-outputs-posters-papers.md) — related

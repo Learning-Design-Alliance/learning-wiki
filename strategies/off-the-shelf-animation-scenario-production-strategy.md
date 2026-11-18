@@ -52,6 +52,7 @@ The article recommends producing PBL problem scenarios as multimedia animations 
 - [Build online multimedia lessons with slide-sharing, survey, and video-sharing tools in a three-stage workflow](common-tools-ctml-lesson-workflow.md)
 - [Use ChatGPT to break case scripts into scenes, prompt Midjourney for animation, and generate and place question-bank items in scenario simulation videos](chatgpt-midjourney-scenario-video-production-strategy.md)
 - [Storytelling in Explainer Animations and Videos](storytelling_in_explainer_animations_and_videos.md)
+- [Low-cost mathcast production workflow: Wacom tablet, free drawing and screen-capture software, and YouTube hosting with analytics](low-cost-mathcast-production-workflow.md)
 
 ## Examples
 -

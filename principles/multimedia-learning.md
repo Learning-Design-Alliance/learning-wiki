@@ -256,7 +256,7 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - Mayer, R. E. (2021). *Multimedia learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)
 - Fiorella, L., & Mayer, R. E. (2015). *Learning as a generative activity*. Cambridge University Press. [https://doi.org/10.1017/CBO9781107707085](https://doi.org/10.1017/CBO9781107707085)
 - Clinton, V., Alibali, M. W., & Nathan, M. J. (2016). Learning About Posterior Probability: Do Diagrams and Elaborative Interrogation Help? The Journal of Experimental Education, 84(3), 579-599. https://doi.org/10.1080/00220973.2015.1048847
-- Chorianopoulos, K. (2018). A Taxonomy of Asynchronous Instructional Video Styles. International Review of Research in Open and Distributed Learning, 19(1). https://www.irrodl.org/
+- Chorianopoulos, K. (2018). A Taxonomy of Asynchronous Instructional Video Styles. International Review of Research in Open and Distributed Learning, 19(1). https://www.irrodl.org/. [doi:10.19173/irrodl.v19i1.2920](https://doi.org/10.19173/irrodl.v19i1.2920)
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above. The old body follows verbatim.
 
@@ -391,5 +391,5 @@ The article argues that instructional video is one pillar of pedagogical design 
 -
 
 ## Key Sources
-- Chorianopoulos, K. (2018). A Taxonomy of Asynchronous Instructional Video Styles. International Review of Research in Open and Distributed Learning, 19(1). https://www.irrodl.org/
+- Chorianopoulos, K. (2018). A Taxonomy of Asynchronous Instructional Video Styles. International Review of Research in Open and Distributed Learning, 19(1). https://www.irrodl.org/. [doi:10.19173/irrodl.v19i1.2920](https://doi.org/10.19173/irrodl.v19i1.2920)
 -->

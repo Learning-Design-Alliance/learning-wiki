@@ -61,3 +61,4 @@ Baseline OLS regression on pre-workshop survey data from Npre = 199 Australian s
 - [Male students outperform female students across all four competence domains in self-rated emergency response competence](sex-difference-competence-males-higher.md) — related
 - [Among five tested factors, only discussing the underrepresentation of women positively correlated with high-school girls' interest in physical science careers](discussing-underrepresentation-boosts-girls-interest.md) — related
 - [Female first-year physics students were more likely to enroll in life science subjects in later years, while male students were more likely to enroll in computer science](female-physics-students-life-science-enrollment.md) — related
+- [Girls dissociate their gender from cleverness by age 6, and by age 10-11 STEM loses the interest of girls who already believe a science career is not for them](girls-dissociate-cleverness-age-six.md) — related

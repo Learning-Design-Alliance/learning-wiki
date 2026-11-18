@@ -50,3 +50,4 @@ A 15-item subset of the Environmental Attitude Inventory (Cronbach's α = .83) m
 - [Students overwhelmingly preferred the VR condition as their favorite learning method regardless of which condition they studied in](students-overwhelmingly-prefer-vr-moon-phases.md) — related
 - [Neither the VR application nor the traditional lesson produced a significant positive change in pro-environmental attitudes](no-attitude-change-either-condition.md) — related
 - [School type significantly predicted change in environmental-protection attitudes, with academic-track students changing more than combined-school students](school-type-predicts-uss-attitude-change.md) — related
+- [All three conditions showed statistically significant pre-to-post gains on the Moon phases test](moon-phases-significant-prepost-gains-all-conditions.md) — related

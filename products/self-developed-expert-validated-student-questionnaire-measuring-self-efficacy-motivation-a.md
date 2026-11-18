@@ -27,6 +27,7 @@ A 30-item Likert-scale student questionnaire developed by Aja Lucy et al. to mea
 ## Related Products and Programmes
 
 - [Spanish version of the Academic Motivation Scale (AMS)](spanish-version-of-the-academic-motivation-scale-ams.md)
+- [Physics Anxiety Rating Scale (PARS), 16-item version](physics-anxiety-rating-scale-pars-16-item-version.md)
 
 ## Key Sources
 - Aja Lucy, Odhine Innocent Sunday, Muhammad Tukur, Lubega Mohammad. (2025). Students' psychological patterns and academic performance in public secondary schools in Kazo District, Uganda: a quantitative analysis. BMC Psychology. https://doi.org/10.1186/s40359-025-03187-w

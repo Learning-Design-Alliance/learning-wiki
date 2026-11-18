@@ -48,3 +48,4 @@ Mann-Whitney U comparison of post-test Patience Scale scores between the experim
 - [Within the experimental group, patience scores rose significantly from pre-test to post-test while control-group scores did not change](experimental-group-prepost-patience-increase.md) — related
 - [Patience gains from the training program were maintained at the three-month follow-up test](patience-gains-maintained-follow-up.md) — related
 - [The patience training program produced no significant change in university students' PERMA well-being levels](patience-training-no-wellbeing-effect.md) — related
+- [Long program timescale lets students get stuck and teaches patience and perseverance, and supports mentor development](srmp-long-timescale-benefit.md) — related

@@ -13,7 +13,7 @@ generated:
 # Operations and Place Value
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 95 claims (70 show a difference, 15 mixed, 10 no difference) · 60 studies (28 causal, 17 associational, 5 quant-synthesis, 5 design, 2 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 14 of 60 report an effect size · 92 claims rest on one study
+> **Evidence** · 100 claims (74 show a difference, 15 mixed, 11 no difference) · 62 studies (29 causal, 17 associational, 5 quant-synthesis, 5 design, 3 theoretical, 2 review, 1 qualitative), `q1`–`q4` · 14 of 62 report an effect size · 97 claims rest on one study
 
 ## Description
 This page brings together two factors from the Learner Variability Navigator. Operations covers addition, subtraction, multiplication and division: at first learners treat an operation as an instruction about which calculation to do, and LVN stresses that they also need a conceptual understanding of what each operation means, which lets them estimate an approximate answer as well as calculate an exact one quickly and accurately. Place value is understanding that in the base-ten system the same digit stands for different values (ones, tens, hundreds) depending on its position, which children work out as they explore the size of numbers and how numbers relate.
@@ -132,6 +132,11 @@ Operations are assessed with standardised numerical operations subtests that ask
 - [Many students enter astronomy degree programs without sufficient skills to solve computational problems in their core classes or contribute immediately to research](../claims/astronomy-students-enter-lacking-computational-skills.md) [+W] — learners who differ on it differ in outcomes
 - [Arithmetic and algebra fundamentals must be over-learned to automaticity for well-structured science problem solving, and calculator-free computational fluency predicts general chemistry success](../claims/computation-automaticity-overlearning-required-science-problem-solving.md) [+M] — learners who differ on it differ in outcomes
 - [Computation skills declined after state standards and textbooks de-emphasized memorization and practice in computational problem solving](../claims/k12-standards-deemphasizing-computation-preceded-skill-decline.md) [+M] — measured as an outcome of the instruction studied
+- [Even high-performing students may master calculation techniques without knowing what they are for (author's observation)](../claims/calculation-skill-without-application-asian-paradox.md) [+W] — measured as an outcome of the instruction studied
+- [Pratomsuksa 1 students learning place value with the developed mobile application scored higher on the post-lesson test than the pre-lesson test](../claims/place-value-app-post-higher-than-pre.md) [+M] — measured as an outcome of the instruction studied
+- [Retention of achievement after 2 weeks showed no difference for students learning with the application](../claims/place-value-app-two-week-retention-no-difference.md) [-M] — measured as an outcome of the instruction studied
+- [Students learning place value with the application achieved higher post-lesson scores than students taught by the traditional method](../claims/place-value-app-beats-traditional-posttest.md) [+M] — measured as an outcome of the instruction studied
+- [The developed application met the 80/80 efficiency standard with during-lesson and posttest performance of 89.07/91.84](../claims/place-value-app-efficiency-89-91-exceeds-80-80.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Numerical Operations Subtest of the Wechsler Individual Achievement Test (WIAT-III)** (Wechsler, 2009): Standardized test of procedural knowledge of Operations: writing numbers, counting and solving arithmetic problems, up to fractions and negative integers.

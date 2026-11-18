@@ -54,3 +54,4 @@ The review reports, citing Hendrickx et al. (2016), that "a range of 0.06–0.29
 - [Graph theory parameters distinguish centralized from decentralized discussion groups (density and centralization)](graph-parameters-centralized-decentralized.md) — related
 - [Classroom help networks that are theoretically most beneficial for achievement are highly uncommon in practice](beneficial-help-networks-highly-uncommon.md) — related
 - [Classroom help networks vary widely across classrooms, making it difficult to identify a typical classroom network structure](help-networks-vary-widely-no-typical-classroom.md) — related
+- [Aggregate classroom network integration measures (density and average path length) show no difference between day 2 and day 7 of the program](no-change-network-integration-impress.md) — related

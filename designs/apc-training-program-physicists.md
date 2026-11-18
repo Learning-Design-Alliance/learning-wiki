@@ -41,7 +41,8 @@ The APC is a training program introduced in 2010 that "introduces software conce
 - 
 
 ## Related Designs
-- 
+
+- [Four-level classification of trainee experience for HEP computing training](hep-trainee-experience-level-classification.md)
 
 ## Examples
 -

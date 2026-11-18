@@ -45,6 +45,7 @@ The COSMOS astronomy course was organized around three stated themes that drove 
 ## Related Designs
 
 - [Remote observing sessions giving students the experience of working astronomers](remote-observing-students-as-scientists.md)
+- [Harwood model of scientific inquiry: ten activities framing the lab design](harwood-ten-activity-inquiry-model.md)
 
 ## Examples
 -

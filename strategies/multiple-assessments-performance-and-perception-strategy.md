@@ -42,6 +42,7 @@ The article recommends that instructors and administrators examine the instrumen
 - [Assess m-Learning adoption from instructor and university-management perspectives in addition to learner perceptions](assess-mlearning-instructor-management-perspectives.md)
 - [Assess blended e-learning outcomes with both achievement tests and self-assessment](assess-both-achievement-test-and-self-assessment.md)
 - [Use pre/post attitude surveys with detailed instructor feedback reports as formative assessment for lab course transformation](formative-attitude-survey-feedback-reports-lab-courses.md)
+- [Evaluate curriculum reform with long-term follow-up surveys after graduation, not student evaluations](long-term-followup-curriculum-evaluation.md)
 
 ## Examples
 -

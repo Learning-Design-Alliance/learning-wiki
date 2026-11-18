@@ -58,3 +58,4 @@ Qualitative observational analysis of video-recorded group problem solving in on
 - [Published quantum mechanics difficulties restructure into three framing error categories](qm-difficulties-three-framing-error-categories.md) — related
 - [The predominance of alpha shifts implies group members share similar framings and can easily reach consensus about what should occur next in problem solving](alpha-shift-dominance-similar-framing.md) — related
 - [Some QM difficulties reflect failure to shift frames when the problem requires a transition](transition-errors-qm-difficulties.md) — related
+- [Long program timescale lets students get stuck and teaches patience and perseverance, and supports mentor development](srmp-long-timescale-benefit.md) — related

@@ -41,7 +41,8 @@ The data source for the study is an introductory physics course for undergraduat
 - 
 
 ## Related Designs
-- 
+
+- [Bond-energy lesson sequence from definition, visualisation and hands-on experiments to real-life applications](bond-energy-lesson-sequence.md)
 
 ## Examples
 -

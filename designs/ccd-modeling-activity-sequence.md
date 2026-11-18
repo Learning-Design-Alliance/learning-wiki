@@ -45,6 +45,7 @@ A two-session, five-hour inquiry activity in which students first explore trade-
 
 - [Lens Inquiry: a full inquiry-cycle lab sequence from demonstrations through student-designed investigations to synthesis](lens-inquiry-lab-sequence.md)
 - [Engineering inquiry pattern: student-generated starter questions sorted into engineering design-goal challenges](starter-questions-sorted-into-engineering-challenges.md)
+- [E&M electrostatics demonstration-based activity where students generate and test models](em-electrostatics-model-generation-lab.md)
 
 ## Examples
 -

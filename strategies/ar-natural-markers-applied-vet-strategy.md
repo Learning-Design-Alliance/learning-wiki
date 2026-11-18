@@ -50,6 +50,7 @@ The article recommends AR as an alternative for topics requiring learner applica
 
 - [Provide prior training with new instructional technologies before technology-supported class activities](prior-training-new-instructional-technology.md)
 - [Augmented Reality (AR) for Manufacturing Training](augmented-reality-ar-for-manufacturing-training.md)
+- [Use prepared-marker scenes for classroom AR and additional hardware sensors (gyroscopes, GPS, compasses) for unprepared out-of-classroom scenes](prepared-vs-unprepared-ar-scenes-strategy.md)
 
 ## Examples
 -

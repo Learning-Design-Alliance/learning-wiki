@@ -45,7 +45,8 @@ A weekly first-hour laboratory exercise adapted from a metacognition study, in w
 - 
 
 ## Related Designs
-- 
+
+- [Weekly pre-laboratory cooperative group problem-solving exercise with metacognitive self-monitoring rubric](prelab-group-problem-solving-metacognitive-rubric-exercise.md)
 
 ## Examples
 -

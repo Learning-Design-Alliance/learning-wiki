@@ -52,3 +52,5 @@ The author's descriptive analysis of ETS QGRE score distributions by race/ethnic
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — a broader claim this one bears on
 - [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](mit-lower-sat-math-scores-equal-performance.md) — related
 - [Undergraduate women earned slightly but significantly higher course grades than men in both life and physical science STEM courses](women-higher-course-grades-stem-courses.md) — related
+- [Standardized admission tests introduced since the 1940s were found to be better predictors of gender and color than of professional success, keeping women and minorities out of top schools](standardized-tests-predict-demographics-not-success.md) — a broader claim this one bears on
+- [Women rejected by an employer are 1.5 times less likely than men to apply to another job opening by the same employer](women-rejection-reapplication-gap.md) — related

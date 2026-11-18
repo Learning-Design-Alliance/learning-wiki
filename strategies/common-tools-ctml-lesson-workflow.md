@@ -55,6 +55,7 @@ The article recommends a workflow using only commonly available tools: create co
 - [Digital Storytelling](digital_storytelling.md)
 - [Produce PBL scenario animations inexpensively with off-the-shelf web-based animation apps](off-the-shelf-animation-scenario-production-strategy.md)
 - [Build online modules from existing lecture slides with narration, animations, and embedded formative review quizzes](reuse-lecture-slides-interactive-modules-strategy.md)
+- [Low-cost mathcast production workflow: Wacom tablet, free drawing and screen-capture software, and YouTube hosting with analytics](low-cost-mathcast-production-workflow.md)
 
 ## Examples
 -

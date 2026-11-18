@@ -53,4 +53,4 @@ The chapter reports that all teachers in the authors' studies "saw embodied mode
 -
 
 ## Key Sources
-- Sengupta, P., Dickes, A., & Farris, A.V. (2018). Toward a Phenomenology of Computational Thinking in STEM Education. In Computational Thinking in STEM Discipline: Foundations and Research Highlights (Khine, M.S., Ed.). Springer. https://arxiv.org/abs/1801.09258
+- Sengupta, P., Dickes, A., & Farris, A.V. (2018). Toward a Phenomenology of Computational Thinking in STEM Education. In Computational Thinking in STEM Discipline: Foundations and Research Highlights (Khine, M.S., Ed.). Springer. https://arxiv.org/abs/1801.09258. [doi:10.1007/978-3-319-93566-9_4](https://doi.org/10.1007/978-3-319-93566-9_4)

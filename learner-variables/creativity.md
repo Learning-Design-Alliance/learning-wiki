@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 187 claims (143 show a difference, 30 mixed, 14 no difference) · 97 studies (42 causal, 25 associational, 13 review, 8 quant-synthesis, 5 design, 2 qualitative, 2 theoretical), `q1`–`q3` · 20 of 97 report an effect size · 185 claims rest on one study
+> **Evidence** · 188 claims (144 show a difference, 30 mixed, 14 no difference) · 98 studies (42 causal, 25 associational, 13 review, 8 quant-synthesis, 6 design, 2 qualitative, 2 theoretical), `q1`–`q3` · 20 of 98 report an effect size · 186 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -222,6 +222,7 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Creativity positively predicts academic achievement in geography](../claims/creativity-predicts-geography-achievement.md) [+W] — learners who differ on it differ in outcomes
 - [Montessori schoolchildren show higher convergent and divergent creativity than traditionally schooled peers at both kindergarten and elementary age](../claims/montessori-higher-creativity-both-ages.md) [+M] — measured as an outcome of the instruction studied
 - [A 13-week creativity course produced significant pre-post CEDA gains in fluidity, flexibility and usefulness but not originality among engineering students](../claims/ind8108-ceda-significant-gains-fluidity-flexibility-usefulness-not-originality.md) [~M] — measured as an outcome of the instruction studied
+- [Students report the course improved their creative thinking skills (M = 4.51) and that team discussion improved understanding and generated creative ideas (M = 4.65)](../claims/pf-course-creativity-and-team-discussion-ratings.md) [+M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

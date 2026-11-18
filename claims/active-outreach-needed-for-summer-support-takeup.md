@@ -50,3 +50,4 @@ The 2011 qualitative study found advisors exchanged a phone call or email with 8
 - [Most surveyed text-message recipients reported the nudges helped them complete college tasks](text-nudges-helped-complete-college-tasks.md) — related
 - [In Study 2, advisor ratings of student time management skills were higher for the treatment group than for the control group](advisor-ratings-higher-treatment-study2.md) — related
 - [Passive-mentored students rarely initiated mentor contact despite assigned availability](passive-mentoring-students-rarely-seek-contact.md) — related
+- [In the DEST4TD follow-up survey, most collaboration members delayed or forgot to respond to outreach email requests, and 12% felt they had nothing interesting to share](dest4td-participation-barriers-survey.md) — related

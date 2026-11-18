@@ -51,3 +51,4 @@ Pre-post CLASS analysis by major (Table III; n = 33 biology, 22 health, 11 CCS):
 - [Biology majors earned substantially better course grades than Health Science majors, a difference upheld within every learning orientation](biology-majors-outperform-health-majors-course-grade.md) — related
 - [Health Science majors entered the course with significantly more novice-like physics attitudes than Biology and other Natural Science majors](health-majors-more-novice-like-pretest-attitudes.md) — related
 - [The attitudinal-gain advantage of Framework-oriented students was prominent only within Health Science majors, not Biology or other Natural Science majors](orientation-gain-effect-limited-to-health-majors.md) — related
+- [Health science majors begin and end the course more novice-like and with lower FCI gains and course grades than biology and other natural science majors](health-science-majors-lower-course-outcomes.md) — related

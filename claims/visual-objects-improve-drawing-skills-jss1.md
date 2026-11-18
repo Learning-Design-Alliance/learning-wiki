@@ -51,3 +51,4 @@ Pretest-posttest control-group experiment: 120 JSS1 students randomly assigned t
 - [3D virtual-reality lecture was statistically non-inferior to 2D lecture on knowledge and rated better on spatial understanding and enjoyment (Kockro et al.)](kockro-3d-lecture-noninferior-rated-better.md) — related
 - [Interactive 3D stereoscopic video produced higher post-test scores on anatomical relationships and clinical reasoning than 2D video (Bernard et al.)](bernard-3d-stereoscopy-relationships-reasoning.md) — related
 - [VR-based anatomy teaching moderately improves learners' examination scores compared with traditional or 2D digital methods](vr-anatomy-teaching-improves-test-scores.md) — related
+- [The author observes that convolution and correlation are better appreciated with two-dimensional spatial signals than with one-dimensional time signals](2d-spatial-signals-clearer-for-convolution-teaching.md) — a narrower finding that bears on this claim

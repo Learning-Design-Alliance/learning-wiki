@@ -55,3 +55,4 @@ Quasi-experiment with 31 experimental (Applied Foreign Languages) and 46 control
 - [Class IX physical science students taught with the constructivist 7E model achieved significantly higher post-test and gain scores than students taught with traditional methods](7e-model-higher-science-achievement-secondary.md) — related
 - [Experimental-group learning achievement improved significantly from before to after the three-week practical materials instruction](within-group-learning-gain-practical-materials.md) — related
 - [Interactive learning technologies produced greater gains in foreign language communicative competence than traditional instruction in a 54-student quasi-experiment](interactive-technologies-greater-flcc-gains-kfu.md) — related
+- [A single Sage worksheet resource can combine theoretical information with interactive examples of its practical application](sage-worksheet-theory-plus-interactive-examples.md) — related

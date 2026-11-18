@@ -49,3 +49,4 @@ Qualitative finding from facilitator fieldnotes during the project development p
 - [Sequencing generated drawing before viewing a provided visual improves transfer, suggesting provided visuals work best as feedback](drawing-before-provided-visual-improves-transfer.md) — related
 - [A four-hour e-textile workshop significantly increased young novices' ability to draw a functional circuit, from 12 of 22 (55%) at pre-test to 19 of 22 (86%) at post-test](four-hour-etextile-workshop-functional-circuit-gain.md) — related
 - [Roundhouse Diagrams helped reveal student misconceptions, which students generally reflected in the visuals they drew](roundhouse-diagrams-reveal-misconceptions.md) — related
+- [During the game students often draw graphs and diagrams, a physics skill they are often not motivated to practice](game-motivates-drawing-graphs-and-diagrams.md) — related

@@ -48,3 +48,4 @@ Qualitative analysis of logbook, interview and focus group data from the collabo
 ## Related Claims
 - [A collaborative action research project investigated how primary school teachers can use students' FoK/I in superdiverse classrooms](car-project-teachers-use-fok-superdiverse-classrooms.md) — related
 - [Sociocultural classroom diversity can produce inequality when school-home discontinuities make children perform below their abilities](school-home-discontinuities-inequality-superdiverse-classrooms.md) — related
+- [Studies find team progress is optimal under superdiversity, where teams are not dominated by a single gender or by one or two national identities](superdiversity-optimal-team-progress.md) — related

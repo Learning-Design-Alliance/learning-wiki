@@ -60,6 +60,7 @@ The article recommends deploying immersive VR training alongside traditional cli
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
 - [Combine immersive VR simulation with existing traditional teaching resources for venipuncture training](combine-vr-with-traditional-venipuncture-teaching.md)
 - [Deploy the diagnostic module as a supplement to any instruction strategy, from traditional to highly interactive](diagnostic-module-as-instruction-supplement.md)
+- [Use VR to support interdisciplinary communication in research and education](vr-for-interdisciplinary-communication-strategy.md)
 
 ## Examples
 -

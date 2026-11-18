@@ -26,7 +26,8 @@ This is a novel causal-inference framework combining principal stratification wi
 - [The observed mastery proportion m̄ confounds mastery propensity with section difficulty (Spearman r = -0.30), whereas the IRT latent variable ηT does not (r = 0.07)](../claims/mbar-confounded-eta-not.md) [+M]
 
 ## Related Research Methods
--
+
+- [Three-method framework for causal analysis of EdTech log data from RCTs: matching, mediation, and principal stratification](three-method-framework-for-causal-analysis-of-edtech-log-data-from-rcts-matching-mediation.md)
 
 ## Key Sources
 - Adam C. Sales, and John F Pane. (2017). The Role of Mastery Learning in an Intelligent Tutoring System: Principal Stratification on a Latent Variable. https://arxiv.org/abs/1707.09308

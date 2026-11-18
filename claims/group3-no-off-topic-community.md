@@ -49,3 +49,4 @@ Observational analysis of Group 3's coded ties across the full 42-minute episode
 - [Directional network analysis identified Herb as initiating predominantly off-topic interactions, a possible cause of Group 2's off-topic trend](herb-off-topic-initiations-group2.md) — related
 - [The Grade 10 Visual Arts class was the only class to engage in social (chitchat) discourse, which the authors suggest may reflect a warm classroom climate](chitchat-only-in-visual-arts-class.md) — related
 - [Off-task activity appeared more common in the larger six-to-seven-member teams than in the compact teams, though not in every larger team](off-task-more-common-in-larger-making-teams.md) — related
+- [Similar topicality distributions across different activities (days 7 and 8) make it unlikely that different classroom activities drove the conversation topicality shift](activity-type-unlikely-driver-topicality.md) — related

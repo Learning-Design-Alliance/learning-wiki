@@ -79,6 +79,7 @@ Role play is a form of [Active Learning](../principles/active-learning.md) groun
 - [Role play-based assessment of therapist competence with simulated patients](role-play-based-competence-assessment.md)
 - [Use scenario-based role-play to prepare interns for communicating with mentors](mentor-communication-scenario-role-play.md)
 - [Use embodied modeling activities to prepare and deepen agent-based programming, with perspective-taking across agent types](embodied-modeling-before-agent-based-programming.md)
+- [Participatory simulations integrating individual and collective insight](participatory-simulations-individual-collective-insight.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — modeling a skilled enactment before learners attempt their own

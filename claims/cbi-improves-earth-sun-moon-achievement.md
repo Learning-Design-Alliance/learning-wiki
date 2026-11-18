@@ -53,3 +53,4 @@ ANCOVA in a pre-test/post-test control group experiment with 26 experimental and
 - [Pupils taught with the IWB and XERTE resource scored no better on post-tests than pupils taught traditionally](iwb-no-significant-score-difference-mauritius.md) — reports the opposite
 - [Simulation-based biology teaching produced significantly higher post-test success scores than traditional teaching methods for education students.](simulation-biology-higher-posttest-success.md) — related
 - [Practical competencies-oriented teaching materials with supplementary local cases produce significantly better learning achievement than traditional lecture in a Human Resource Management unit](practical-competencies-materials-improve-learning-achievement.md) — related
+- [Learning gains vary by Moon phases topic but do not differ significantly across conditions](moon-phases-topic-gains-vary-no-condition-differences.md) — related

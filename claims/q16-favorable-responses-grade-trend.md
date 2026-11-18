@@ -50,3 +50,4 @@ Descriptive breakdown of favorable vs. not-favorable responses to Q16 ("The prim
 - [E-CLASS scores correlate weakly with final course grade overall, with a significant but still weak correlation in beyond-first-year labs](eclass-convergent-validity-grades.md) — related
 - [Favorable responses to the 'I don’t enjoy doing physics experiments' item are evenly split among high-performing first-year students but decline with grade in the BFY labs](q7-enjoyment-item-grade-pattern.md) — related
 - [Overall E-CLASS score shows no statistically significant correlation with final course grade across all lab courses (r = 0.05)](overall-grade-eclass-correlation-null.md) — related
+- [Avoiding confirm-the-known-result activities in the transformed course was followed by a significant favorable shift on the E-CLASS item about confirming previously known results](avoiding-confirmation-activities-shift-item-16.md) — related

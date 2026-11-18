@@ -51,3 +51,4 @@ The review reports this randomized controlled trial by Hung et al. as showing a 
 - [Extended reality training shows no statistically significant difference in GEARS scores compared to dry lab training](xr-vs-dry-lab-gears-no-significant-difference.md) — related
 - [Novice surgeons trained on a sensorized vascular simulator achieve significantly higher overall GEARS scores in an in vivo porcine robotic vascular dissection task than untrained controls](simulator-training-higher-gears-porcine-vascular-dissection.md) — related
 - [VR training reduced depth of collisions with surrounding tissue in inexperienced surgeons relative to untrained controls (p = 0.02)](vr-training-reduces-collision-depth.md) — related
+- [Students value bonus exercises, but tailored and untailored exercises were rated similarly](bonus-exercise-tailoring-no-perception-difference.md) — related

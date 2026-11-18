@@ -49,3 +49,4 @@ Analysis of critical incidents coded by thinking-in-levels across the three PFO 
 - [In-situ analysis of challenge episodes reveals a wide range of cognitive, motivational, emotional, and socially oriented micro-level challenges in collaborative learning](challenge-episodes-reveal-micro-level-challenges.md) — related
 - Seven prominent educational foci of AIED research, 2010–2019: online learning, game-based learning, collaborative learning, assessment, affect, engagement, learning design — related
 - [Societal values in the simulation game triggered more disagreement, discussion and modification than scientific values, fostering critical CT practices](societal-values-trigger-critical-ct.md) — related
+- [Digital game based learning should be analyzed at the micro level of learning and game mechanics rather than at the macro level of the game as a whole](micro-level-mechanics-analysis-dgbl.md) — related

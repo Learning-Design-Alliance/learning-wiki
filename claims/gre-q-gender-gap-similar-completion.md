@@ -55,3 +55,5 @@ Two-way ANOVA with Tukey post hoc comparison of GRE Q means by gender across the
 - [GRE V and GRE Q scores do not predict STEM PhD completion for women](gre-scores-no-prediction-women-stem-phd.md) — related
 - [Time to degree does not vary by GRE V or GRE Q quartile for men or women](gre-quartile-no-time-to-degree-effect.md) — related
 - [Women are outscored by men on every section of the GRE general test, and with other factors equal women score lower on high-pressure timed tests](gender-gap-gre-timed-tests.md) — related
+- [Cornell University's physics program, which has not applied a GRE cutoff since the late 1990s, graduated 73% of its women PhD students between 1993 and 2011, above the NSF-reported average of 59%](cornell-physics-no-gre-cutoff-retention.md) — related
+- [The Fisk-Vanderbilt master's-to-PhD bridge program, using a 30-minute interview instead of a GRE cutoff, achieved over 80% retention of women and minorities toward the PhD](fisk-vanderbilt-bridge-program-retention.md) — related

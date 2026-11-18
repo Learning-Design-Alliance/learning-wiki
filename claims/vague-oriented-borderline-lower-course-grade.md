@@ -47,3 +47,4 @@ T-test comparisons of average course GPA across learning orientation groups (Fra
 ## Related Claims
 - [Course grades stratify by orientation in favor of framework orientation, but the difference is statistically significant in S14 only and the trend is tentative across semesters](framework-orientation-higher-course-grades-tentative.md) — related
 - [Biology majors performed significantly better than health science majors in course grade in the S15 semester but not in S14, with a combined-semesters advantage for biology](biology-outperform-health-grades-semester-dependent.md) — related
+- [Learning orientations show no differences on FCI posttest scores or overall course grades within the single-course scope](learning-orientation-no-fci-grade-difference.md) — related

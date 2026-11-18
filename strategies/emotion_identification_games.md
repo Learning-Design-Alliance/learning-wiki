@@ -58,9 +58,11 @@ Emotion identification games work because they pair repeated exposure to express
 6. Increase difficulty over time: add intensity gradations, mixed emotions, and context-dependent cues, using [Multiple Contrasting Cases](../claims/comparing-contrasting-cases-improves-learning.md) [+M] to sharpen category boundaries.
 
 ## Related Strategies
+
 - ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a specific check-in variant of the same recognition task
 - [Acting/Role-Play](../strategies/acting-role-play.md) — extends identification into enacting and resolving emotional situations
 - [Active Listening](active-listening.md) — the receptive skill that emotion identification feeds into during peer interaction
+- [Run a two-phase term-guessing game: timed drawing rounds followed by charades-style acting of curriculum terms](two-phase-drawing-then-acting-game-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — repeated recognition trials are the core mechanism

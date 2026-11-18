@@ -178,3 +178,4 @@ Open questions: how the four levels interact in real classrooms (e.g., whether p
 - [Motivational and behavioural feedback interventions show small-to-medium effects, cautioning generic porting of strategies](motivational-feedback-small-medium-effects.md) — related
 - [Praising comment orientation is moderately positively associated with quantitative competency ratings (β = 0.46)](praise-orientation-positive-rating-association.md) — related
 - [Positive feedback is most effective when honest, attributing success to effort and strategy, reinforcing improvement, delivered privately, and with explicit achievable criteria](effective-positive-feedback-conditions.md) — a narrower finding that bears on this claim
+- [Feedback moderates homework effects: strong versus weak effects depending on whether feedback is given](homework-effects-moderated-by-feedback.md) — related

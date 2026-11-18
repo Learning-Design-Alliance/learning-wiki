@@ -83,3 +83,4 @@ Same Model 1 regression, contrasting programme types against standard entry. Gat
 - [Ethnicity effects on examination performance persist after taking performance at previous assessment stages into account](ethnicity-effects-persist-after-prior-performance-adjustment.md) — related
 - [Demographic and schooling background measures independently predict first-year outcome after educational attainment is taken into account](background-measures-independently-predict-medical-outcome.md) — related
 - [Most first-year medical students (84.3%) pass all examinations at first attempt, with small fail, repeat and attrition groups](first-year-medical-outcome-distribution-ukcat12.md) — related
+- [Standardized admission tests introduced since the 1940s were found to be better predictors of gender and color than of professional success, keeping women and minorities out of top schools](standardized-tests-predict-demographics-not-success.md) — related

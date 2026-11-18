@@ -84,3 +84,4 @@ The paper's review of the Course Signals deployment, piloted at Purdue in 2007, 
 - [Uncontrolled estimates of retention effects on dropout are larger than propensity-adjusted estimates, suggesting confounding inflates naive associations](confounding-inflates-retention-dropout-estimates.md) — related
 - [Sensitivity analysis indicated medium-to-large unobserved confounding would be needed to eliminate the reported pandemic effects](unobserved-confounder-sensitivity-pandemic-effects.md) — related
 - [Medium and large achievement effects are confounded by combined interventions or non-controlled designs](lad-achievement-effects-confounded.md) — related
+- [Just-in-time interventions had no significant effects on course dropout rates or scores](jit-interventions-no-effect-scores-dropout.md) — related

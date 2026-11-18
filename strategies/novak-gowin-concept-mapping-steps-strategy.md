@@ -40,7 +40,8 @@ The article details a four-step procedure for introducing concept mapping, follo
 - [Concept Mapping Meaningful Learning Framework](../theories/semantic-network-theory.md)
 
 ## Related Strategies
-- 
+
+- [Operationalize lab learning goals through stakeholder interviews, prioritization, and concept mapping](stakeholder-interviews-concept-map-lab-goals.md)
 
 ## Examples
 -

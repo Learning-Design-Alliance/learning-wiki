@@ -45,4 +45,5 @@ The algorithm (Table 2) applies a KS test at the 5% significance level to viewin
 
 
 ## Related Claims
--
+- [Viewing durations of learners who have viewed no fewer than a course-specific number of videos follow a lognormal distribution](lognormal-learners-duration-distribution.md) — possibly the same claim (merge candidate)
+- [A random differential equation with duration-dependent change rate expresses memory in lognormal-learners' viewing behavior](lognormal-learner-memory-equation.md) — related

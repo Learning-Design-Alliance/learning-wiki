@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2017
+source_checked: 2026-11-18
 sources:
   - id: pratim-sengupta-2017
     resource: "https://doi.org/10.48550/arXiv.1702.04855"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When students learn with agent-based models and simulations, they first use intuitive agent-level knowledge and can gradually develop multi-level explanations connecting agent-level intuitions with emergent aggregate-level phenomena. [→ Pratim Sengupta 2017](#pratim-sengupta-2017)
@@ -49,3 +50,4 @@ Narrative review of educational research in Section 2.2; the paper attributes th
 - [Public code play supports visitors' multi-level explanations of emergent patterns in agent-level terms](public-code-play-supports-agent-level-explanations.md) — a narrower finding that bears on this claim
 - [ABM students engage more frequently in embodied reasoning strategies—first-to-third-person perspective shifts, causal inference making, and gestures—than video students, who rely more on third-person perspectives and information retrieval](abm-students-more-embodied-reasoning-strategies.md) — related
 - [Embodied modeling followed by agent-based simulation supported progressively more complex mechanistic explanations of emergence (3rd-grade study)](embodied-modeling-mechanistic-explanations.md) — a narrower finding that bears on this claim
+- [Computational modeling makes complex phenomena accessible to much younger learners](computational-modeling-accessibility-younger-learners.md) — related

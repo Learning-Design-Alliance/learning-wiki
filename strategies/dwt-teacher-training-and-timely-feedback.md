@@ -48,6 +48,7 @@ Based on the finding that DWT-supported problem-based collaborative learning pos
 ## Related Strategies
 
 - [Provide teachers in-service training on CAS-based CAMI and have them design worksheets and dynamic materials before instruction](inservice-training-and-material-design-for-cami.md)
+- [Web-based training platform with incremental contribution and persistent container environments](web-based-hep-training-platform-strategy.md)
 
 ## Examples
 -

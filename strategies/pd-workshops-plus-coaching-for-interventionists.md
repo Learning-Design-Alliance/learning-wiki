@@ -50,6 +50,7 @@ The article describes a professional development model in which instructional as
 - [Designate a Spalding coordinator and provide 45-70 hours of formal teacher training with ongoing mentoring to support implementation fidelity](spalding-coordinator-and-intensive-pd-strategy.md)
 - [Intensive trainer-led observation and feedback model for tutoring professional development](early-steps-trainer-observation-feedback-training.md)
 - [Train-the-trainer workshop to build coach competency and self-efficacy before delivery](train-the-trainer-coach-workshop.md)
+- [Use professional development workshops that pair hands-on curriculum activities with a summary of classroom trial results to build teacher support](pdw-showcase-with-research-evidence-strategy.md)
 
 ## Examples
 -

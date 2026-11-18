@@ -42,6 +42,7 @@ During co-design meetings, facilitators position community members as experts by
 - [Anticipate barriers to data use by building in strategies for future data use from initial conversations, and trust the process by going at the community's pace.](anticipate-barriers-build-in-data-use-strategies.md)
 - [Form design teams by building trust and relationships and prioritizing meaningful representation before project kick-off.](build-trust-meaningful-representation-design-teams.md)
 - [Anti-oppressive co-design meeting practices: land acknowledgements, shared roles, breakout discussions, multiple input modes](anti-oppressive-co-design-practices.md)
+- [Interview students rather than experts to ground survey language in student interpretations](interview-students-before-survey-design.md)
 
 ## Examples
 -

@@ -90,6 +90,7 @@ Articulation strengthens metacognition and conceptual clarity because converting
 - [Defense of Instruction: coaches require teachers to articulate and defend instructional decisions with student data](../strategies/defense-of-instruction-strategy.md)
 - [Guide iteration with diagnostic questioning after failed tests](../strategies/diagnostic-questioning-after-failed-tests.md)
 - [Have students write a complete scientific paper (Introduction, Method, Results, Conclusion)](../strategies/write-full-scientific-paper-student-project.md)
+- [Use oral exams with instructor hints to assess conceptual understanding, problem-solving and scientific communication while eliciting rich semiotic coordination](../strategies/oral-exams-eliciting-semiotic-coordination.md)
 
 ## Key Sources
 - Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145–182. [doi:10.1207/s15516709cog1302_1](https://doi.org/10.1207/s15516709cog1302_1)

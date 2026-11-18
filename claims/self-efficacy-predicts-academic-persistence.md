@@ -231,3 +231,4 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [Trainees with a learning goal orientation selected more challenging tasks, planned more strategically, and reported more positive assessment outcomes when feedback targeted their goals](learning-goal-orientation-strategic-planning-positive-outcomes.md) — related
 - [When self-efficacy is low, repeated negative or diminishing peer-comparison feedback may worsen self-efficacy and lead toward goal abandonment](negative-feedback-may-worsen-low-self-efficacy.md) — related
 - [Self-confidence and self-efficacy are reported as the most significant and powerful influences on persistence with a subject](affect-self-efficacy-persistence.md) — a narrower finding that bears on this claim
+- [In the landscape of college physics challenges, mindset beliefs cannot always be considered the dominant factor in how students respond to challenge](mindset-beliefs-not-always-dominant.md) — related

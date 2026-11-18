@@ -61,3 +61,4 @@ This is design-based research across a small number of intensively-analyzed clas
 - [Material difficulty is not determined solely by element number and interactivity](difficulty-beyond-element-interactivity.md) — a broader claim this one bears on
 - [Students often bypass articulating assumptions when a ready-made mathematical model is available](assumptions-bypassed-with-ready-mathematical-model.md) — related
 - [In the photometer activity, students proposed a broader range of revisions than they performed, with performed revisions concentrated on the easiest-to-implement assumptions](photometer-proposals-broader-than-revisions.md) — related
+- [Students' unarticulated assumptions and unfamiliar concepts act as barriers to modeling during experiments](student-barriers-assumptions-model-limitations.md) — related

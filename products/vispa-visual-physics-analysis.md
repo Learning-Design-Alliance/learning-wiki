@@ -25,7 +25,8 @@ VISPA is a browser-based physics data-analysis development environment developed
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Scilab Cloud](scilab-cloud.md)
 
 ## Key Sources
 - Erdmann M, Fischer R, Glaser C, Klingebiel D, Krause R, Kuempel D, Müller G, Rieger M, Steggemann J, Urban M, Walz D, Weidenhaupt K, Winchen T, Weltermann B. (2014). A field study of data analysis exercises in a bachelor physics course using the internet platform VISPA. https://vispa.physik.rwth-aachen.de

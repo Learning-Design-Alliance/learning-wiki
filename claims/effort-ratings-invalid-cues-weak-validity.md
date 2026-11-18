@@ -77,3 +77,4 @@ The commentary reports, citing David et al. (2024), a meta-analysis finding the 
 - Recent AI-in-education studies often rely on subjective or performance-during-support measures and weak comparison designs, limiting claims about learning effects — a narrower finding that bears on this claim
 - [Perceived mental effort has a negative indirect association with learning outcomes, mediated by monitoring judgments (β = -0.05)](mental-effort-indirect-negative-effect-on-outcomes-via-monitoring.md) — related
 - [Perceived mental effort is negatively associated with monitoring judgments (β = -0.19) in a meta-analytic structural equation model](mental-effort-negatively-related-to-monitoring-judgments-masem.md) — related
+- [The RBP protocol's subjectivity and imprecision compel monitors to rely on background knowledge and personal experience, and its scales can mislead](rbp-protocol-interpretation-challenges.md) — related

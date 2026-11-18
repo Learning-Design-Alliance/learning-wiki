@@ -86,3 +86,4 @@ Checklist 3 results for the chronic-renal-failure scenario: with normality confi
 - [Checklist-assessed clinical performance was significantly higher at the six-month POST assessment than at the initial PRE assessment across all six simulation scenarios](simulation-checklist-gains-six-months.md) — a broader claim this one bears on
 - [Scores improved significantly at six-month re-evaluation in the three standardized-patient scenarios (hypoglycemia, epileptic seizure, cerebral palsy)](standardized-patient-scenarios-significant-gains.md) — related
 - [The late-experience group had a higher comorbidity burden, including pulmonary hypertension, chronic kidney disease, coronary artery disease, and lower LVEF](tavr-ar-later-group-higher-comorbidity-burden.md) — related
+- [A first test of targeted informed action in a live course revealed an effect, but statistical significance has not been shown](live-course-test-effect-not-significant.md) — related

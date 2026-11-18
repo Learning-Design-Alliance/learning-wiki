@@ -49,3 +49,4 @@ Theoretical argument in the article's opening section: the author asserts chemis
 - [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — related
 - [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — related
 - [The article argues geometry teaching should target ten enumerated outcomes, with the general powers rather than the content as the chief aim](geometry-ten-aims-powers-over-content.md) — related
+- [Teaching the process of science rather than factual knowledge better prepares undergraduates for diverse careers (author's argued position)](process-over-facts-science-curriculum.md) — a narrower finding that bears on this claim

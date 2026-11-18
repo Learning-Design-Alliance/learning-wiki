@@ -74,3 +74,4 @@ Table 1 reports mean games played per active day of 73.18 for males (N=1528) ver
 - [Gender differences in learning success differ by method: favoring females in Laban Section III and males throughout the traditional group](gender-differences-by-method.md) — related
 - [The flipped format alleviates the gender disparity in exam scores: female students underperform males in the standard class but do not differ significantly on two of three exams in the flipped class](flipped-format-alleviates-gender-disparity-exam-scores.md) — related
 - [Gender differences in skill scores were not statistically significant overall, though female participants in one group scored lower at retention](gender-score-differences-null-with-one-retention-exception.md) — related
+- [Students playing the quantum guessing game developed progressively more sophisticated measurement and guessing strategies](students-develop-strategies-quantum-guessing-game.md) — related

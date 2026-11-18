@@ -56,3 +56,4 @@ This is an intervention-development paper for the Cities Mentor Project, not the
 - [The most strongly endorsed student needs are more sleep, time with friends, and help coping with stress](top-endorsed-student-needs-sleep-friends-stress.md) — related
 - [Mentoring relationship quality, not just mentor access, was significantly associated with youth outcomes](mentoring-relationship-quality-youth-outcomes.md) — related
 - [Portfolios do not work by themselves; they only work if conditions such as mentoring, open structure, a supporting learning environment and direct learning gain are fulfilled](portfolio-conditions-for-success-mentoring-open-structure.md) — a narrower finding that bears on this claim
+- [The 4-H Study of Positive Youth Development found structured out-of-school time, leadership experiences, and adult mentoring play a vital role in youth success](4h-study-out-of-school-time-mentoring-vital.md) — related

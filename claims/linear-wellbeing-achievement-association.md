@@ -66,3 +66,4 @@ Cross-validation RMSE comparison across the model set; the article interprets th
 ## Related Claims
 - [Chinese adolescents' weekly physical activity duration has an inverted U-shaped relationship with academic achievement, with an inflection point of approximately 3.549 h/week](inverted-u-physical-activity-academic-achievement-inflection-3-549.md) — related
 - [The association between educational poverty and achievement is non-linear, steepening at high poverty levels, while the economic-poverty relationship is linear](nonlinear-educational-poverty-achievement-association.md) — related
+- [Linearized school mathematics contributed to a resilient clockwork-reality worldview](linearized-curriculum-clockwork-worldview.md) — related

@@ -28,6 +28,7 @@ A self-contained, AI-generated browser application developed by Josep Ll. Suñer
 ## Related Products and Programmes
 
 - [Q-Learning Lab](q-learning-lab.md)
+- [phyphox](phyphox.md)
 
 ## Key Sources
 - Josep Ll. Suñer, Francisco M. Muñoz-Pérez, Juan C. Castro-Palacio, Juan A. Monsoriu, Martín Monteiro, Cecilia Stari, and Arturo C. Martí. (2026). Uniform and Accelerated Circular Motion with a Smartphone: A No-Code, AI-Generated Browser Laboratory. https://smartphysics.webs.upv.es/rotation-lab

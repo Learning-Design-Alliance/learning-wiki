@@ -52,3 +52,4 @@ The authors' interpretive analysis (type e) of the Episode 1 small-group discuss
 - [Students most often vacillate in interpretive responses when intuitive sense conflicts with what they consider a correct response](students-vacillate-personal-versus-public-perspectives.md) — a broader claim this one bears on
 - [A network of three mutually overlapping intuitive ideas (less distance implies less time, bunched up means faster, faster implies less time) stabilizes students' initial thinking](network-of-intuitive-ideas-stabilizes-thinking.md) — related
 - [Substance-based ontological metaphors for gravity served as the source for teachers' generation of a sophisticated argument about equal gravitational acceleration](substance-ontologies-seed-sophisticated-argument.md) — related
+- [Thinking computationally about implementing a better model is the key to resolving the accuracy-realism inconsistency](thinking-computationally-key-resolution.md) — related

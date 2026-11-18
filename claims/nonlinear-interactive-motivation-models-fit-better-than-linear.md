@@ -55,3 +55,4 @@ Model-comparison results from the TIMSS 2019 cross-national analysis, in which 3
 - [The relation of autonomous motivation to grades is curvilinear, with grades accelerating at higher autonomous motivation](curvilinear-autonomous-motivation-grades.md) — related
 - [Higher grades occur when high autonomous motivation coincides with low controlled motivation (incongruence), not congruence](incongruence-high-autonomous-low-controlled-higher-grades.md) — a narrower finding that bears on this claim
 - [Common and exceptional problems elicit distinct speed-accuracy profiles: curvilinear for common problems versus linear for exceptional problems, converging in older and higher-achieving students](speed-accuracy-profiles-differ-by-problem-type.md) — related
+- [Linearized school mathematics contributed to a resilient clockwork-reality worldview](linearized-curriculum-clockwork-worldview.md) — related

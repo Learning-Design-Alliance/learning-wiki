@@ -9,7 +9,7 @@ generated:
   at: 2026-09-26
 evidence_strength: weak
 newest_evidence: 2011
-source_checked: 2026-10-20
+source_checked: 2026-11-18
 sources:
   - id: slezak-2011
     resource: "https://doi.org/10.48550/arxiv.1110.0050"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
-> **Currency** · newest study 2011 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Slezak 2011: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims

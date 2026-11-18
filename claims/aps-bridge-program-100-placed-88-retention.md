@@ -69,3 +69,4 @@ Program outcome data reported in the Outcomes section; retention is defined as s
 - [The APS Bridge Program has placed over 150 students into Bridge or graduate physics programs, with placements comprising 93% URM and 23% female students](aps-bridge-program-placement-outcomes-93-urm.md) — reports the opposite
 - [The APS Bridge Program aims, within a decade, to raise the URM share of physics PhDs to match the bachelor's degree share, a gap of roughly 30 more doctoral degrees](aps-bridge-goal-close-bs-phd-gap.md) — related
 - [Established bridge programs report high retention: Fisk-Vanderbilt at 80% and the University of Michigan's Imes-Moore applied physics program at 90%](fisk-vanderbilt-imes-moore-retention-rates.md) — related
+- [The Fisk-Vanderbilt master's-to-PhD bridge program, using a 30-minute interview instead of a GRE cutoff, achieved over 80% retention of women and minorities toward the PhD](fisk-vanderbilt-bridge-program-retention.md) — related

@@ -55,3 +55,4 @@ Observational plot of upper division in-major GPAs of UO physics and math gradua
 - [Clark Honors College students average upper GPA 3.7 versus 3.2 overall, suggesting elite-university grades of B+/A- are not unreasonable grade inflation](honors-college-grade-inflation-estimate.md) — related
 - [ASTR122 total scores correlate with combined SAT score (R=0.49) and with overall college GPA (Pearson r = 0.65)](astronomy-course-score-correlates-sat-and-gpa.md) — related
 - [PER research subjects are better prepared mathematically than the overall population of introductory physics students](per-subjects-stronger-math-preparation.md) — related
+- [College One showed a clear increase in AS-level Physics grades versus predicted grades, averaging +0.86 grade per student, as tentative evidence of improved attainment](outreach-tentative-as-grade-improvement.md) — related

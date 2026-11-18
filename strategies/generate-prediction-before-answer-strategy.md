@@ -48,7 +48,9 @@ The article recommends prediction generation as an efficient, curiosity-stimulat
 - [Generating predictions does not by itself improve overall memory performance relative to generating examples](../claims/prediction-no-memory-advantage-over-example.md) [~W]
 
 ## Related Strategies
+
 - [Active Learning](../principles/active-learning.md)
+- [Teacher-as-facilitator discussions driven by stimulating questions, with explicit promotion of proper scientific language](facilitator-question-driven-scientific-language.md)
 
 ## Examples
 -

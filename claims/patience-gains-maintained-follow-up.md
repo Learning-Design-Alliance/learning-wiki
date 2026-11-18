@@ -49,3 +49,4 @@ Mann-Whitney U analysis of the trail (follow-up) test administered three months 
 - [A 5-week patience training program significantly raised all three patience sub-dimension scores of university students compared to a control group at post-test](patience-training-raises-patience-scores.md) — related
 - [Within the experimental group, patience scores rose significantly from pre-test to post-test while control-group scores did not change](experimental-group-prepost-patience-increase.md) — related
 - [Knowledge gains from the SSTP were maintained at follow-up, with a small decrease attributed to absence of coaching and feedback](sstp-knowledge-gains-maintained-follow-up.md) — related
+- [Long program timescale lets students get stuck and teaches patience and perseverance, and supports mentor development](srmp-long-timescale-benefit.md) — related

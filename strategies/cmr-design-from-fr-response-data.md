@@ -55,6 +55,8 @@ The article's development recipe: compile a priori codes from the FR rubric, app
 - [Build multiple-choice distractors by categorizing students' open-ended written responses into groups of similar ideas](student-response-distractor-construction-strategy.md)
 - [Strategies for implementing upper-division conceptual assessments: early faculty involvement, simple rubrics, multiple-choice versions, and low-stakes framing](upper-division-assessment-implementation-strategies.md)
 - [Develop grading rubrics that credit deeper expert-like analysis even when the final answer is incorrect](rubrics-credit-deeper-analysis-incorrect-answers.md)
+- [Grade free-response items by checking boxed final answers and awarding partial credit by mistake type](box-final-answer-partial-credit-grading.md)
+- [Design multiple-choice self-training questions with at least six answers, distractor groups based on common mistakes, and negative points for wrong answers](sst-question-design-six-answers-negative-points.md)
 
 ## Examples
 -

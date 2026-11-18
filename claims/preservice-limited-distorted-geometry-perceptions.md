@@ -49,3 +49,4 @@ Thematic analysis of interview data from the three participants found their "lim
 - [Preservice teachers' geometry learning narratives took two forms (as a learner and as a beginning teacher) and yielded three themes about geometry learning](narrative-thematic-findings-geometry-learning.md) — related
 - [Students in a model-designed flipped algebra course showed significant pre-to-post gains in mature views of mathematics](flipped-algebra-vams-significant-gain.md) — related
 - [A preservice teacher's self-perceived confidence and success with traditional mathematics inhibited reinterpreting his understanding of mathematics](math-confidence-inhibits-philosophy-reinterpretation.md) — related
+- [Elementary students' internal thinking in geometry involves two types of distortion: process and product](distortion-process-product-types.md) — related

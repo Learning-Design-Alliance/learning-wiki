@@ -64,6 +64,7 @@ One-sentence response is a low-cost implementation of [Active Learning](../princ
 - [Wait Time](wait-time.md) — the questioning practice that gives written responses time to form
 - [Expose students to learning through exploration, questioning, and writing down questions and answers](srl-exploration-questioning-writing-strategy.md)
 - [Implement the ticket to retention: distribute one to five target questions, have students write answers, discuss with two classmates, listen, revise, and submit](ticket-to-retention-procedure.md)
+- [Use 50/50 and Fill-in-the-Blank interactive lecturing questions with whole-class choral responses for real-time formative feedback](50-50-fill-in-blank-interactive-lecturing.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the natural follow-on where sampled responses seed whole-class dialogue

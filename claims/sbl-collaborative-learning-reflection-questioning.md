@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-11-18
 sources:
   - id: fukamizu-junichi-2021
     resource: "https://doi.org/10.5116/ijme.61b3.214c"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Trainers avoid direct instruction and instead stimulate thinking, collaboration, and reflection through questions, dialog, and think-aloud. [→ Fukamizu Junichi 2021](#fukamizu-junichi-2021)

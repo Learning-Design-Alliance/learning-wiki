@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 477 claims (241 for, 208 mixed, 28 against) · 359 studies (113 associational, 87 design, 63 causal, 48 review, 30 theoretical, 13 quant-synthesis, 5 qualitative), `q1`–`q3` · 33 of 359 report an effect size · 469 claims rest on one study
+> **Evidence** · 478 claims (242 for, 208 mixed, 28 against) · 360 studies (113 associational, 87 design, 63 causal, 48 review, 30 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 33 of 360 report an effect size · 470 claims rest on one study
 
 ## Conditional relationship
 
@@ -321,6 +321,7 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Weighted simulated multiple-choice scores correlate more highly with rubric-graded free-response performance than dichotomous simulated scores](../claims/weighted-mc-correlation-higher-than-dichotomous.md) [+M] — attached 2026-11-17 from Shih-Yin Lin et al. (2010), which proposed "Grade free-response questions carefully with a good rubric, since lenient grading does not reflect students' level of understanding"; tests this page's relationship.
 - [The Turkish AAPS translation showed robust internal consistency across all student groups, with Cronbach alpha ranging from 0.82 to 0.90](../claims/turkish-aaps-survey-reliability-validation.md) [+W] — attached 2026-11-17 from Nuri Balta et al. (2016), which proposed "Translate and validate attitude surveys through expert translation, bilingual physicist review, and one-on-one cognitive interviews with the least-experienced students before large-scale administration".
 - [Cronbach's alpha for FASCI scores (FA 0.62, SCI 0.51) falls well below the 0.80 target for an open-ended scenario-based instrument](../claims/fasci-cronbach-alpha-below-target.md) [+W] — attached 2026-11-17 from Talbot et al. (2014), which proposed "Scrutinize score reliability with a multi-faceted approach rather than defaulting to a single conventional coefficient".
+- [Students may make real-world physics connections without valuing or labeling them as physics, adding complexity to interpreting attitude measures](../claims/connections-without-labeling-as-physics.md) [+W] — attached 2026-11-18 from Abhilash Nair et al. (2018), which proposed "Measures of students' connections between physics and the real world should be nuanced or expanded to reflect students' rich disciplinary experiences".
 
 ## Objective and learner-valued goal
 

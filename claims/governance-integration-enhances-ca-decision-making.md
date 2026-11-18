@@ -53,3 +53,4 @@ Cross-case qualitative finding (RQ2-2) from improvement-plan documents, intervie
 - A literature review identifies misalignment between conducted research and needed evidence, contextual factors, and rarely used bridging frameworks as challenges to evidence use in policy decisions — a broader claim this one bears on
 - [Subject matter interviews reveal barriers to evidence use in government: untimely evidence, research not geared to decision-makers, limited understanding of evidence, and organizational influences](interview-barriers-evidence-use-government.md) — a broader claim this one bears on
 - [Faculty organized EdTech integration decisions in ways aligned with the principles](dexter-2023-faculty-decisions-aligned-principles.md) — related
+- [The heading-based extraction algorithm correctly tagged learning outcomes in 78 of 86 course outline documents (90.69% accuracy)](lo-extraction-90-69-percent-86-documents.md) — related

@@ -52,3 +52,4 @@ One-way ANOVA comparing treatment (N = 64) and wait-list control (N = 64) groups
 - [In an RCT, women STEM doctoral students who used CareerWISE showed greater knowledge of interpersonal problem solving steps than wait-list controls](careerwise-rct-treatment-steps-knowledge.md) — related
 - [Wait-list control participants scored significantly higher on both APSS questions after their own exposure to CareerWISE](careerwise-wlc-pre-post-gains.md) — related
 - [No statistical difference was found between engineering and non-engineering participants on either APSS question, supporting conclusions about engineering students from the full STEM sample](engineering-nonengineering-no-difference-apss.md) — related
+- [Students spontaneously applied problem-solving strategies to new scenarios or in new ways after being introduced to them](spontaneous-strategy-transfer-new-scenarios.md) — related

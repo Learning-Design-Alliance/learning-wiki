@@ -43,7 +43,8 @@ The article concludes with a forward-looking recommendation: "Measures and proce
 - [Epistemic Control Framework Four Stages](../theories/metacognition.md)
 
 ## Related Strategies
-- 
+
+- [Add structured role assignments to inquiry-lab group work while preserving student decision-making agency](structured-roles-inquiry-lab-group-work.md)
 
 ## Examples
 -

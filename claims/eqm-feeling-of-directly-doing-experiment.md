@@ -46,3 +46,4 @@ Qualitative interview with the entire Class 1 after the test, asking the biggest
 
 ## Related Claims
 - [Participating in real scientific research was the primary motivating factor for Class 1 students playing the educational Quantum Moves game](eqm-real-research-primary-motivation-class1.md) — related
+- [Students playing the quantum guessing game developed progressively more sophisticated measurement and guessing strategies](students-develop-strategies-quantum-guessing-game.md) — related

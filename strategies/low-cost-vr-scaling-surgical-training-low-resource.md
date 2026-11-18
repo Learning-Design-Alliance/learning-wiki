@@ -51,6 +51,7 @@ The article recommends low-cost VR simulation as a scalable approach to surgical
 - [Checklist for virtual training adoption in low-resource settings](virtual-training-adoption-checklist.md)
 - [Prioritize scalable, low-cost simulation solutions and phased implementation so resource-limited settings can adopt the RT competency framework](scalable-low-cost-simulation-phased-implementation-rt.md)
 - [Prioritise simulation and gamification over flipped classroom models, and implement low-cost physical games before investing in expensive simulation equipment](prioritise-simulation-gamification-low-cost-first.md)
+- [Use VR to support interdisciplinary communication in research and education](vr-for-interdisciplinary-communication-strategy.md)
 
 ## Examples
 -

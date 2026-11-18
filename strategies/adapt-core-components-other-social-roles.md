@@ -48,6 +48,7 @@ The article recommends localizing the program by retaining its core interpersona
 
 - Friend Supporter Web Program
 - [Role-Playing Emotional Scenarios](role-playing_emotional_scenarios.md)
+- [Adapt the four-question unit-test design to the local syllabus while preserving coherence](adapt-unit-test-design-to-syllabus.md)
 
 ## Examples
 -

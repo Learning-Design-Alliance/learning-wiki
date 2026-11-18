@@ -51,3 +51,4 @@ Pseudo-longitudinal pre/post comparison of the full population in each course (T
 - [The pseudo-longitudinal increase in E-CLASS scores across the lab curriculum is driven by selection, not cumulative laboratory instruction](selection-effect-not-cumulative-instruction.md) — related
 - [Raw pre-to-post E-CLASS shifts were positive and small in skills-focused courses but negative in first-year concepts-focused and both-focused courses](eclas-shift-skills-positive-concepts-negative.md) — reports the opposite
 - [Students in Traditional first-year physics labs show a significant negative shift in E-CLASS scores, while students in Transformed courses do not shift significantly](traditional-labs-negative-eclass-shift-transformed-none.md) — related
+- [Three E-CLASS items related to the transformation goals showed statistically significant favorable post-test shifts after the course transformation](three-eclass-items-significant-favorable-shift.md) — reports the opposite

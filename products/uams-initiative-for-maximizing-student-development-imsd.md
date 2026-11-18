@@ -26,7 +26,8 @@ A University of Arkansas for Medical Sciences programme that supports underrepre
 - [No statistically significant differences in later matriculation outcomes existed between HBCU- and PWI-trained UR graduates, suggesting undergraduate training effects can be mitigated during graduate training](../claims/no-long-term-hbcu-pwi-performance-differences.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [National Astronomy Consortium (NAC) program](national-astronomy-consortium-nac-program.md)
 
 ## Key Sources
 - Williams Tremaine B., Prince Latrina Y., Allen Antiño R., Sterba Kristen M., Thomas Billy R., McGehee Robert E. (2021). Performance measures of racially underrepresented Ph.D. students in biomedical sciences: The UAMS IMSD Program Outcomes. PLoS ONE 16(2): e0246683. https://doi.org/10.1371/journal.pone.0246683

@@ -54,3 +54,4 @@ Case study of N=123 express-pure physics students in three classes, each co-taug
 - [Tracker video analysis lets students infer kinematics quantities from real video, yielding values consistent with gravitational acceleration](tracker-video-analysis-infers-kinematics-values.md) — related
 - [Teachers reported improved mathematical and graphical understanding of motion and judged video modeling suitable for active and deep learning](teachers-report-improved-understanding-video-modeling.md) — related
 - [Among 273 Secondary Three students doing the Tracker performance task, only the best class registered a significant positive pre-post change in affective perceptions of physics](tracker-pt-survey-only-best-class-significant-affective-change.md) — related
+- [Constructing timelike geodesics on a spacetime sector model shows that free-fall geodesics produce the expected up-and-down motion in space](sector-model-timelike-geodesics-free-fall.md) — related

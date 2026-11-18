@@ -69,3 +69,4 @@ LCD post hoc results (Table 2) show SML+AI outscored C by 5.49 points (p = 0.018
 - [Adding a virtual simulation teaching platform to traditional teaching improves medical undergraduates' anatomical knowledge of gastrointestinal diseases](virtual-simulation-platform-improves-anatomical-knowledge.md) — related
 - [Supplementing traditional instruction with a mobile virtual patient application produces a significant group-by-measurement interaction in physiotherapy students' achievement](mobile-vp-interaction-achievement-gains.md) — related
 - [Simulator-based teaching produced higher overall knowledge scores than traditional PowerPoint-based teaching in medical students](simulator-teaching-higher-total-score-than-lecture.md) — related
+- [Students learning place value with the application achieved higher post-lesson scores than students taught by the traditional method](place-value-app-beats-traditional-posttest.md) — related

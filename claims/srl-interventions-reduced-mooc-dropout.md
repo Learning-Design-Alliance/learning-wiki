@@ -56,3 +56,4 @@ Chi-square test of homogeneity on dropout across the three 120-student condition
 - [Only conditional cash transfer interventions showed consistently positive impacts in the SDPP literature review](sdpp-review-conditional-cash-transfers-only-consistent.md) — reports the opposite
 - [Retention-test dropout was high and statistically similar in both groups of the peer-assessment simulation trial](high-similar-retention-test-dropout-both-groups.md) — related
 - [Adding the online community was associated with improved retention in the walking program, with a 21% versus 34% dropout rate, while both arms increased walking with no difference between arms](community-arm-improved-retention-suh.md) — related
+- [Just-in-time interventions had no significant effects on course dropout rates or scores](jit-interventions-no-effect-scores-dropout.md) — reports the opposite

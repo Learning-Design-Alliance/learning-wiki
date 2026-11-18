@@ -65,6 +65,7 @@ Student-generated visuals are effective because drawing requires translating ver
 - [Comparing Cases](../elements/comparing-cases.md) — contrasting multiple visuals drives abstraction
 - [Use visual forms to communicate complex ideas about exploring real-world problems](visual-forms-communicate-complex-ideas.md)
 - [Provide specific instruction on drawing diagrams to increase students' use of diagrams in problem solving](specific-diagram-instruction-strategy.md)
+- [Charcoal and putty-rubber drawing exercise as an analogy for particle-detector interaction making the invisible visible](charcoal-putty-rubber-detector-analogy.md)
 
 ## Related Elements
 - [Analogies](../elements/analogies.md) — visual analogies help learners map unfamiliar structures onto familiar ones

@@ -77,6 +77,7 @@ Design Thinking situates learning in ill-structured, authentic problems, which s
 - [Use paper prototyping before programming to help students formulate app design ideas](paper-prototyping-before-programming.md)
 - [Embed creativity development in ID courses through experimentation, open-ended projects, critique, and drills for variable answer development](embed-creativity-id-teaching-practices.md)
 - [Participatory, V-model systems-engineering design process with end-user engagement](participatory-v-model-simulation-design.md)
+- [Materialize design knowledge as artifacts to sustain organization-level design conversations](materialized-artifacts-design-conversations.md)
 
 ## Examples
 - **Stanford d.school K12 Lab** (https://dschool.stanford.edu) — publishes design challenge curricula and the "wallet project" sprint used widely in schools and universities

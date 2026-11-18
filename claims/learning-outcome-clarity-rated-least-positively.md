@@ -50,3 +50,4 @@ Descriptive survey of the Winter Term 2014/15 course participants. Both sub-samp
 - [Junior anesthesiology residents completing an RCDP-based ACLS simulation curriculum report high satisfaction and expect improved clinical performance](rcdp-acls-residents-high-satisfaction.md) — related
 - [More than 90% of participating second-year medical students endorsed each objective on the post-simulation Likert survey](pidd-simulation-likert-90-percent-endorsement.md) — related
 - [No indication of systematic differences between medical and nursing students in their perceptions of the inter-professional course, apart from slightly divergent judgements on some aspects](no-systematic-group-differences-perceptions.md) — a broader claim this one bears on
+- [A small survey of users judged the system's semantic and Bloom similarity results useful for deciding between real learning objectives](lo-similarity-user-survey-usefulness.md) — related

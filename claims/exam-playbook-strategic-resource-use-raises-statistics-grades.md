@@ -75,3 +75,4 @@ Dosage analysis within the same two RCTs comparing students who completed both p
 - [Exam Playbook benefits relate to dosage and to earlier use before exams](exam-playbook-dosage-timing-benefits.md) — related
 - [Self-administered Exam Playbook use predicts higher exam scores in real-world college classes (d = 0.18)](exam-playbook-use-exam-performance.md) — related
 - [Treatment-group students were almost twice as likely as control students to earn a B- or better on the final exam](treatment-nearly-twice-likely-b-or-better.md) — related
+- [Introductory students who completed Direct Measurement Video model-making activities outperformed those who did not](dmv-model-making-activities-outperformance.md) — related

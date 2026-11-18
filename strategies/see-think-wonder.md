@@ -98,6 +98,7 @@ The routine makes thinking visible and separates observation from interpretation
 6. **Bridge** — connect the class's wonderings to the upcoming content or inquiry investigation
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — See, Think, Wonder serves this function by surfacing what learners already know and believe before instruction
 - [I Used to Think… Now I Think…](../strategies/i-used-to-think-now-i-think.md) — a companion Project Zero routine for reflection after learning
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the same individual-then-social response structure applied to questions rather than images
@@ -107,6 +108,7 @@ The routine makes thinking visible and separates observation from interpretation
 - [I Notice, I Wonder](../strategies/i-notice-i-wonder.md) — a mathematics-oriented variant used to open problem solving
 - [KWL](../strategies/kwl.md) — a related pre-inquiry routine that elicits prior knowledge and questions, but without the evidence/inference separation
 - [Use the Ten Times Two routine to build observational vocabulary before data analysis](ten-times-two-looking-activity.md)
+- [Teacher-as-facilitator discussions driven by stimulating questions, with explicit promotion of proper scientific language](facilitator-question-driven-scientific-language.md)
 
 ## Examples
 - **Science:** students observe a microscopic image of an unfamiliar cell, record observations, propose what it might be, and generate questions that launch a unit on cell structure.

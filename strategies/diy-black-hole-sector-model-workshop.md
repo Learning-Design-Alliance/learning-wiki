@@ -52,6 +52,8 @@ A workshop sequence in which participants first classify surface curvature with 
 
 - [Hands-on workshop sequence: study an existing model, modify it, then self-direct a personal customization project](ejs-hands-on-model-modification-workshop-strategy.md)
 - [Introduce curved space geometry before warped time, then present Newtonian and Euclidean approximations as special cases](einstein-first-sequencing-curved-space-to-warped-time.md)
+- [Have students compute and construct sector models themselves from a given metric to study geodesics independently](students-compute-sector-models-from-metric-strategy.md)
+- [Students calculate spacetime sector models themselves using a simplified method requiring only elementary mathematics](student-sector-model-calculation-strategy.md)
 
 ## Examples
 -

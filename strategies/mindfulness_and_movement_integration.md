@@ -61,6 +61,7 @@ Mindfulness training reliably improves attention and reduces mind-wandering, and
 - [Active Recess](active-recess.md) — physical activity without the mindfulness component; complementary but distinct
 - [Check-Ins](../principles/check-ins.md) — the awareness routine that typically opens and closes a mindful movement practice
 - [Set up learning environments encouraging mind and body balance by implementing wellness techniques such as meditation, yoga, and exercise in daily instruction, and use Zoom Cafés for social presence](wellness-techniques-zoom-cafes-daily-instruction.md)
+- [Integrate a sensory meditation and a contemplative videography into undergraduate physics courses to draw students' attention to their embodied experience of physical phenomena](contemplative-practices-physics-integration-strategy.md)
 
 ## Examples
 - **[Mindful Schools](https://www.mindfulschools.org)** — K–12 curriculum of short daily mindful-movement and breathing practices delivered by classroom teachers.

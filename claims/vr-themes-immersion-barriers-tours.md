@@ -53,3 +53,4 @@ Thematic analysis using NVivo of the recorded online Zoom focus group with 25 ML
 - [Teachers identified cost, bulky headsets, Wi-Fi connectivity, and technical issues as key challenges to integrating VR into ML2 teaching](vr-challenges-cost-headsets-wifi.md) — related
 - [Teachers rated VR's potential effect on ML2 students' learning outcomes at a mean of 6.80 on a 10-point scale, with a significant age-related difference](vr-ml2-outcome-rating-anova.md) — related
 - [Teachers reported VR could enable Maltese speaking practice at a level unachievable in classrooms or online, especially for students abroad](vr-speaking-practice-unachievable-classroom.md) — possibly the same claim (merge candidate)
+- [Guided tours alone are insufficient for building facility navigation skills, so the authors designed a VR game to add attention, active engagement, feedback and repetition](guided-tours-insufficient-vr-game-adds-engagement.md) — related

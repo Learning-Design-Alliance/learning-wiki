@@ -67,3 +67,4 @@ Same interview study, limiting-behavior component (R2): students struggled to id
 - [Students rarely spontaneously check units or limiting behavior to verify their potential solutions](students-do-not-spontaneously-reflect.md) — reports the opposite
 - [Upper-division students rarely spontaneously reflect on their solutions but can do so when prompted](students-rarely-spontaneously-reflect.md) — a broader claim this one bears on
 - [Students rarely reflect on results: they struggle to check units and physical limits of reflection and transmission coefficients](weak-reflection-skills-rt-coefficients.md) — possibly the same claim (merge candidate)
+- [Students spontaneously used special case reasoning on the ellipse problem but needed prompting for extreme cases](ellipse-special-case-spontaneous-extreme-prompted.md) — related

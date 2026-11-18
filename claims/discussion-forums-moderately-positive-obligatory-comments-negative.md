@@ -50,3 +50,4 @@ Questionnaire evaluation of the collaborative activities; Table 2 reports mean f
 - [Anchored discussion produces more meaning-oriented discussion of academic texts than traditional forum discussion](anchored-discussion-more-meaning-oriented.md) — related
 - [Forum discussion shows more argumentation and confirmation, partly mediated by its opinion-oriented subject matter](argumentation-mediated-by-message-subject.md) — related
 - [Students appreciated e-moderator support (mean 3.4–4.1 of 5) though some found first-module messages too strict](e-moderator-support-appreciated-some-strict-messages.md) — related
+- [Online reader comments on two Conversation articles showed strong public support, with 86% support and no opposition for one article but 19% opposition for the other](online-comments-support-einsteinian-teaching.md) — related

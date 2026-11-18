@@ -53,3 +53,4 @@ Stage 2 comparison notes from the single-participant case study; for the rainbow
 - [Review-reported experiment found output performed noticing and hypothesis-testing functions but no apparent metalinguistic function in L2 writing](zhao-ping-output-functions-writing-experiment.md) — related
 - [Passive instructional events such as texts do not explicitly prompt students to produce written or spoken output](passive-instruction-no-production-prompt.md) — related
 - [Notetaking as a feedback tool facilitates resolution of lexical problems but leaves grammatical problems unresolved, suggesting reformulation as an alternative](notetaking-feedback-limits-grammar-resolution.md) — related
+- [Inspecting and comparing computational outputs of rounding versus no rounding provides an entry point into sensemaking](comparing-computational-outputs-entry-point.md) — related

@@ -56,6 +56,7 @@ The report's third use case illustrates Recommendation 3—investing 'in role-sp
 - [Teacher AI professional development should pair readiness-building with structured engagement with attribution and pedagogy](pd-pairs-readiness-with-attribution-engagement.md)
 - [Pair literacy accountability indicators with funded professional development and aligned mandates](pair-literacy-accountability-with-funded-pd.md)
 - [Adopt student-centered innovative learning models and build teacher capacity to implement them in mathematics and statistics](adopt-innovative-models-pd-math-statistics.md)
+- [Large science collaborations can support researcher EPO engagement via shared repositories, dedicated funding, infrastructure credit, dedicated staff, and communication training](collaboration-support-for-epo-engagement.md)
 
 ## Examples
 -

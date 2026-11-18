@@ -27,4 +27,4 @@ The article proposes a qualitative taxonomy organizing video lectures along two 
 -
 
 ## Key Sources
-- Chorianopoulos, K. (2018). A taxonomy of asynchronous instructional video styles. The International Review of Research in Open and Distributed Learning. https://arxiv.org/abs/1801.06050
+- Chorianopoulos, K. (2018). A taxonomy of asynchronous instructional video styles. The International Review of Research in Open and Distributed Learning. https://arxiv.org/abs/1801.06050. [doi:10.19173/irrodl.v19i1.2920](https://doi.org/10.19173/irrodl.v19i1.2920)

@@ -49,6 +49,7 @@ The article reports that researchers' responses on evaluation were quite univers
 - [Peer Feedback](peer_feedback.md)
 - [Rubrics](rubrics.md)
 - [Design lab activities so students must rely on their notebooks in ways that emulate authentic documentation](authentic-documentation-lab-activity-design.md)
+- [Use detailed rubrics and additional TA guidance to increase feedback on student lab notebooks](rubric-guided-ta-notebook-feedback-strategy.md)
 
 ## Examples
 -

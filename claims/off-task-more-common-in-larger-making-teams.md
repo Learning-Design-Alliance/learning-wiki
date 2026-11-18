@@ -53,3 +53,4 @@ Visual analysis of the teams' Making-Process-Rugs in Fig. 1, a hedges-level obse
 - [In this inquiry, student pairs work better than groups of three because larger groups risk disengaging members](pairs-better-than-triads-in-stellar-inquiry.md) — a broader claim this one bears on
 - [Teams performing best under crisis stress show brief, simple communication patterns: fewer interacting members and short phrases instead of complex interactions](brief-simple-interaction-patterns-best-under-crisis.md) — a broader claim this one bears on
 - [Group 3 had no off-topic interactions among members during the entire activity, suggesting it may not be actively developing as a community](group3-no-off-topic-community.md) — related
+- [The decrease in off-task interactions suggests students built successful collaborations, consistent with off-task interaction serving student positioning within groups](off-task-decrease-suggests-collaborations-formed.md) — related

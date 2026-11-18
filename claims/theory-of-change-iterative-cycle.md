@@ -47,3 +47,4 @@ The authors' interpretation drawn from applying the methodology to the I Can Rea
 ## Related Claims
 - [In a theory-guided in-situ simulation programme, an interprofessional primary care team progressed through the expansive learning cycle from questioning current practice to consolidating new practices](simlab-expansive-learning-cycle-progression.md) — related
 - [Determining the right M&E activities for a new or evolving solution is challenging, and more complex when investing in multiple solutions at once](me-selection-challenging-multi-solution-investments.md) — related
+- [Attracting augmented reality for educators requires developing new methodologies, didactic materials and updating the curriculum](ar-requires-new-methodologies-and-materials.md) — related

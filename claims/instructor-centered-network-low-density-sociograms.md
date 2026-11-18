@@ -65,3 +65,4 @@ Quantitative network properties of the course network. The article reports "grap
 
 ## Related Claims
 - [NLC1 acted as one evenly participating group with no cliques, while NLC2 was initially directed by three central participants and did not operate as one group](nlc1-even-participation-nlc2-star-shape.md) — related
+- [Aggregate classroom network integration measures (density and average path length) show no difference between day 2 and day 7 of the program](no-change-network-integration-impress.md) — related

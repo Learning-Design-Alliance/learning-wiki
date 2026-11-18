@@ -31,7 +31,7 @@ sources:
 # Clear Structure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 39 claims (24 for, 13 mixed, 2 against) · 42 studies (13 causal, 9 quant-synthesis, 7 review, 6 qualitative, 4 theoretical, 3 associational), `q1`–`q4` · 9 of 42 report an effect size · 30 claims rest on one study
+> **Evidence** · 40 claims (25 for, 13 mixed, 2 against) · 43 studies (13 causal, 9 quant-synthesis, 7 review, 6 qualitative, 4 theoretical, 3 associational, 1 design), `q1`–`q4` · 9 of 43 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -105,6 +105,7 @@ Claims this page cited before it was rewritten as a conditional model. Each was 
 - [Students accurately perceive differences between clear and unclear lessons regardless of concept structure](../claims/students-perceive-lesson-clarity.md) [+W]
 - [In the scanned textbooks, statistics terms such as cluster and outlier are defined vaguely before any examples, and more formal criteria are never developed](../claims/vague-statistics-definitions-never-formalized.md) [+W]
 - [Under structured pre-session planning, students across four repeatedly taught groups reported no significant differences in perceptions of structure and organization](../claims/pre-session-planning-consistent-structure-perceptions.md) [~W] — attached 2026-11-05 from Alotiby Amna (2025), which proposed "Use structured pre-session planning to maintain teaching consistency across repeated delivery of identical sessions".
+- [Average introductory physics unit test scores were 79% under the efficient question-group design versus 76% under the traditional format](../claims/efficient-design-unit-test-scores-76-to-79.md) [+W] — attached 2026-11-18 from Benjamin O. Tayo (2018), which proposed "One question on a single central topic per test page"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

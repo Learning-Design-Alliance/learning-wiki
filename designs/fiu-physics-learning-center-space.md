@@ -45,6 +45,7 @@ The PLC is a physical complex comprising a 1200 square foot reformed classroom w
 ## Related Designs
 
 - [Educational Design Research Studio (EDRS) for collaborative design work](educational-design-research-studio-edrs.md)
+- [STEM centers as informal learning spaces serving three communities of practice](stem-centers-three-communities-of-practice.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ The review reports follow-up work by Hazari's group surveying only high-school g
 - [Evaluation of the 2014 CUWiP found the conferences produced consistently positive understanding of physics careers and growth in community and mentoring among participants (Brewe and Hazari)](cuwip-2014-evaluation-career-understanding-community.md) — related
 - [PER studies identify self-efficacy opportunities differing by gender and factors affecting women's physical-science career choices (Sawtelle et al.; Hazari et al.)](per-self-efficacy-and-career-choice-factors.md) — related
 - [Female students show greater increases in interest and performance than male students, closing initial gender gaps](einstein-first-gender-equity-gains.md) — related
+- [Girls dissociate their gender from cleverness by age 6, and by age 10-11 STEM loses the interest of girls who already believe a science career is not for them](girls-dissociate-cleverness-age-six.md) — related

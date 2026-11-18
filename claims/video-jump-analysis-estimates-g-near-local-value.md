@@ -58,3 +58,4 @@ Numerical analysis of videotaped vertical jump data shown in figure 2, with velo
 - [Tracker video analysis lets students infer kinematics quantities from real video, yielding values consistent with gravitational acceleration](tracker-video-analysis-infers-kinematics-values.md) — a broader claim this one bears on
 - [Parabola fits of video-analysis data can yield kinematics parameters, but an incorrect assumed video frame rate produced an erroneous gravitational acceleration of g = -4.634 m/s2](parabola-fit-frame-rate-error-gravitational-acceleration.md) — related
 - [Tracker-based computer laboratory lessons produce large within-group learning gains on toss-up and free fall kinematics for secondary students](tracker-lessons-large-kinematics-gains.md) — related
+- [Constructing timelike geodesics on a spacetime sector model shows that free-fall geodesics produce the expected up-and-down motion in space](sector-model-timelike-geodesics-free-fall.md) — related

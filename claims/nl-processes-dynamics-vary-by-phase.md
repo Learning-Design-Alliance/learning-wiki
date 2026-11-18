@@ -56,3 +56,4 @@ Authors' conclusion from the timeline analysis of the two NLCs, in which activit
 - [The reviewer argues that the dynamic character of appetites and desires must be considered in any thoroughgoing character-development plan](appetites-desires-character-development.md) — related
 - [Formative reflection led to dropping the group reciprocal-teaching stage from the EDI structure](edi-group-reciprocal-teaching-dropped.md) — related
 - [Learners' reciprocity patterns shifted from other-regulation toward self-regulation across the G-DA course](reciprocity-shifted-toward-self-regulation.md) — a narrower finding that bears on this claim
+- [Collaborative student work works well in groups of 2–3, while larger groups develop sidelining power dynamics](srmp-small-group-collaboration.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: weak
 newest_evidence: 2018
+source_checked: 2026-11-18
 sources:
   - id: nandana-weliweriya-2018
     resource: "https://doi.org/10.1119/perc.2017.pr.103"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A student used gestures and words (evanescent representations) to improve and build meaning onto his diagram, then recorded the developed meaning on the durable diagram. [→ Nandana Weliweriya 2018](#nandana-weliweriya-2018)
@@ -49,3 +50,5 @@ Moment-by-moment video analysis of one student's individual oral exam in an uppe
 - [Enacting support—gestures and manipulatives—facilitates explanation quality and problem-solving, partly by adding strategies to verbal explanations](enacting-support-facilitates-explaining.md) — related
 - [Gesturing during learning improves retention and reduces cognitive load](gesturing-during-learning-retention-load.md) — related
 - [Among students not provided with diagrams, self-construction of free-body diagrams strongly and positively correlated with problem-solving performance and prior Mechanics achievement](self-constructed-fbd-correlates-with-performance.md) — related
+- [A student solving a complex physics problem builds compound representations by linking semiotic resources across multiple modes](compound-representations-built-by-coordinating-resources.md) — a narrower finding that bears on this claim
+- [The disciplinary affordance of one semiotic resource can hinder the use of another during problem solving](disciplinary-affordances-can-hinder-other-resources.md) — related

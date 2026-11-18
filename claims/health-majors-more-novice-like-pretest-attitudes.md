@@ -50,3 +50,4 @@ One-way ANOVA comparisons of CLASS pretest percentages of expert-like responses 
 - [Orientation categories do not correlate strongly to choice of major, contradicting the assumption that biology and health science majors would be less framework-oriented](orientation-not-strongly-tied-to-major.md) — related
 - [Epistemic orientations vary by major, presenting a challenge to problem-solving framework pedagogies in diverse IPLS courses](epistemic-disparity-by-major-challenges-framework-pedagogy.md) — related
 - [The attitudinal-gain advantage of Framework-oriented students was prominent only within Health Science majors, not Biology or other Natural Science majors](orientation-gain-effect-limited-to-health-majors.md) — related
+- [Health science majors begin and end the course more novice-like and with lower FCI gains and course grades than biology and other natural science majors](health-science-majors-lower-course-outcomes.md) — related

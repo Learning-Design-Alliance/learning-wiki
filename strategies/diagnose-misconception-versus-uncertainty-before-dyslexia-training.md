@@ -40,7 +40,8 @@ Because many states now mandate dyslexia training, the article implies teacher e
 - [Conceptual Change Misconception Versus Uncertainty](../theories/conceptual-change-misconception-versus-uncertainty.md)
 
 ## Related Strategies
-- 
+
+- [Train teachers to diagnose intuitive conceptions and misconceptions with concept tests in their own classrooms](concept-tests-misconception-diagnosis-strategy.md)
 
 ## Examples
 -

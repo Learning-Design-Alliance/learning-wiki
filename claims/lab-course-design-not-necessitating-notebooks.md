@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-18
 sources:
   - id: jacob-t-stanley-and-h-j-lewandowski-2016
     resource: "https://doi.org/10.1103/physrevphyseducres.12.020129"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Seven interviewees criticized lab curriculum design because short, one-session activities created no pressing need to record information. [→ Jacob T. Stanley and H. J. Lewandowski 2016](#jacob-t-stanley-and-h-j-lewandowski-2016)
@@ -50,3 +51,5 @@ Interview coding of 13 graduate students' evaluations of undergraduate lab cours
 - [Physics graduate students developed documentation skills primarily through informal hands-on practice in authentic research settings](hands-on-authentic-practice-develops-documentation.md) — related
 - [Physics graduate students in experimental research groups broadly agree on the purpose of the lab notebook as a record of experimental progress that supports sense-making, future planning, publication, and communication](notebook-purpose-researcher-consensus.md) — related
 - [Skills-focused courses differed observationally from concepts-focused courses: fewer verification labs, more student agency, more uncertainty quantification and lab notebooks](skills-focused-courses-activity-profile.md) — related
+- [About 30% of student groups in an experimentation-focused intro physics lab recorded questionable research practices in their lab notes](thirty-percent-groups-questionable-research-practices.md) — related
+- [In the transformed introductory physics lab course, over 70% of students reported moderate-to-great improvement in their ability to create a high quality graph or maintain a lab notebook, and over 80% preferred lab notebooks to lab reports.](self-reported-gains-lab-notebooks-graphs-intro-lab.md) — related

@@ -25,7 +25,8 @@ A weekly roster-based self-report survey instrument developed by Jesper Bruun to
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [SNA toolbox](sna-toolbox.md)
 
 ## Key Sources
 - Jesper Bruun, I.G. Bearden. (2013). Time Development of Early Social Networks: Link analysis and group dynamics. arXiv:1308.4259. https://arxiv.org/abs/1308.4259

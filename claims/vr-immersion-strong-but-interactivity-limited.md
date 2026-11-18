@@ -79,3 +79,4 @@ Thematic analysis of 11 interview transcripts under the ITEM immersion domain. P
 - [Realism of the dramatization strategy contributes to perceived legitimacy and triggers psychological reactions resembling actual practice](realism-legitimacy-dramatization-simulation.md) — related
 - [Participants experienced the virtual patient as supporting learner-centered education, with emotional engagement (eustress) and divided reactions to game-like elements](vp-mooc-learner-centered-eustress-game.md) — related
 - [Students found the real-patient ward setting highly realistic, with filming itself only a minor behavioural confounder](ward-setting-realism-video-supervision.md) — related
+- [Students accept virtual experiments for hands-on activities when the interfaces approximate real instruments, the data are genuinely messy, differences from realistic portrayal are clarified, and the tool is flagged as training](ve-acceptance-messy-data.md) — related

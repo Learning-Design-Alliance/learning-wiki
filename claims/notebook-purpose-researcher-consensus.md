@@ -52,3 +52,4 @@ Qualitative synthesis of interviews with 13 physics graduate student researchers
 - [Graduate research advisors provided little to no instruction or feedback on students' lab notebooks](advisors-minimal-notebook-instruction-feedback.md) — related
 - [Lab course activities did not necessitate notebook use because of their short, scripted timescale](lab-course-design-not-necessitating-notebooks.md) — related
 - [Open-ended lab exercises that rely on students to determine which features are of physical interest provide insight into how experimental research is conducted and build experimental skills like note-taking](open-ended-unguided-analysis-builds-experimental-skills.md) — related
+- [About 30% of student groups in an experimentation-focused intro physics lab recorded questionable research practices in their lab notes](thirty-percent-groups-questionable-research-practices.md) — related

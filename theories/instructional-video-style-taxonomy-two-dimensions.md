@@ -56,4 +56,4 @@ The article proposes a taxonomy that classifies asynchronous instructional video
 - [Explore unexplored taxonomy quadrants by combining artificial characters with digital media and augmented reality](../strategies/explore-artificial-characters-digital-media-quadrants.md)
 
 ## Key Sources
-- Chorianopoulos, K. (2018). A Taxonomy of Asynchronous Instructional Video Styles. International Review of Research in Open and Distributed Learning, 19(1). https://www.irrodl.org/
+- Chorianopoulos, K. (2018). A Taxonomy of Asynchronous Instructional Video Styles. International Review of Research in Open and Distributed Learning, 19(1). https://www.irrodl.org/. [doi:10.19173/irrodl.v19i1.2920](https://doi.org/10.19173/irrodl.v19i1.2920)

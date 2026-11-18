@@ -50,3 +50,4 @@ Secondary analysis of qualitative Delphi data from 51 experts at two universitie
 - [Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time](plc-norms-three-categories-trust-prerequisite.md) — related
 - [Equity commitments in technology adoption face ongoing constraints from infrastructure, funding, and organizational capacity](equity-commitments-constrained-infrastructure-capacity.md) — related
 - [Instructor motivation to use adaptive learning acts as a facilitator influencing student acceptability of adaptive learning](instructor-motivation-facilitates-student-acceptability.md) — a narrower finding that bears on this claim
+- [How an instructor implements active learning is perhaps the most important factor in determining student learning gains](implementation-quality-determines-learning-gains.md) — related

@@ -86,3 +86,4 @@ Wilcoxon signed-rank tests showed significant faculty-only changes for boring (Z
 - [Final student ratings of all instructor descriptors except strict correlate significantly with perceived student learning, with strong positive associations for confident, engaging, enthusiastic, organized, relate, relaxed, respect, and understanding](descriptor-ratings-correlate-learning.md) — related
 - [By semester's end, GTAs are rated more engaging, organized, relatable, respected, and understanding than faculty, while faculty are rated more boring](final-gta-faculty-rating-differences.md) — related
 - [At the start of the semester, undergraduates rate faculty higher than GTAs on confident, engaging, and enthusiastic, and GTAs higher than faculty on nervous and uncertain](initial-gta-faculty-rating-differences.md) — related
+- [GTAs rank Microteaching as the most useful course activity across all surveyed years](microteaching-most-useful-activity.md) — related

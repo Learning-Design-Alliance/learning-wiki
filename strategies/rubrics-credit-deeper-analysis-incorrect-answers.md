@@ -45,6 +45,7 @@ Because partially correct responses imply different levels of expertise, the art
 - [Build multiple-choice distractors from coded free-response student answers, with partial credit for partially correct reasoning](cmr-design-from-fr-response-data.md)
 - [Colour-coded partial-credit scoring that keeps points in jeopardy during collaboration](two-colour-partial-credit-scoring-strategy.md)
 - [Compare assessment responses with expert responses to build a scoring scheme distinguishing expert-like from novice-like reasoning](expert-comparison-scoring-scheme.md)
+- [Grade free-response items by checking boxed final answers and awarding partial credit by mistake type](box-final-answer-partial-credit-grading.md)
 
 ## Examples
 -

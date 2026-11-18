@@ -50,6 +50,7 @@ The article recommends two simple classroom experiments to explain recoil throug
 ## Related Strategies
 
 - [Introduce additional recoil systems (sprinkler, swing, DC motor, atomic recoil) as deep thought-provoking exercises after the core explanation](recoil-extension-systems-thought-provoking-exercises.md)
+- [Run the Nerf Gun Challenge with balloons of varying mass to visualise the origin of the uncertainty principle](nerf-gun-challenge-uncertainty-principle.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Model-based predictions from the HLM analysis, illustrated in Figure 2, show the
 - [Instructor effectiveness is maintained as instructors gain experience teaching with Learning Assistants](la-supported-instructors-maintain-effectiveness.md) — related
 - [LA support is not associated with smaller performance gaps between demographic groups (p > 0.8, d ~ 0.01)](la-support-no-gap-reduction.md) — related
 - [LA-supported courses show higher student posttest scores than traditional courses across all demographics](la-support-higher-posttest-scores.md) — related
+- [LA-supported collaborative courses show higher posttest scores than collaborative courses without LAs in introductory physics](la-support-adds-gains-beyond-collaborative-learning.md) — related

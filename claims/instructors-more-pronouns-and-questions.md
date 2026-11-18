@@ -71,3 +71,4 @@ Question-use analysis of FOXGLOVE feedback comments (§4.2.3), counting question
 - [Instructors and LLMs distribute feedback similarly across the five argumentative goals, with Claim receiving the most feedback from both](similar-goal-distribution-instructor-llm-feedback.md) — related
 - [Gender prompts shift feedback stance: female students receive affective, first-person, empathy-oriented feedback while male students receive objective, task-oriented critique](gender-prompt-emotional-connection-pedagogy.md) — related
 - [100% of ChatGPT's coding comments are positive while experts mix positive and negative comments](chatgpt-overly-positive-comments.md) — related
+- [Online reader comments on two Conversation articles showed strong public support, with 86% support and no opposition for one article but 19% opposition for the other](online-comments-support-einsteinian-teaching.md) — related

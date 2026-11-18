@@ -49,3 +49,4 @@ A single informal test of the game at the Berze Science Club summer camp in Visz
 - [Middle-school students progress through zones of mathematical play in a designed digital game, taking varied conceptual paths to the same goal](students-progress-through-zones-of-mathematical-play.md) — related
 - [The three touch-based-action groups did not differ significantly on the identification test](no-group-difference-identification-test.md) — related
 - [Physics teachers are rarely trained to teach the Higgs boson despite student demand](teachers-rarely-trained-higgs-particle-physics.md) — related
+- [Informal one-to-one evaluation during the workshop showed growing student understanding of detector operation, particle families, and force carriers](informal-growing-understanding-detector-particles.md) — related

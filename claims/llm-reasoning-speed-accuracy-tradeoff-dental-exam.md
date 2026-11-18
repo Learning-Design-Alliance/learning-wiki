@@ -50,3 +50,4 @@ Wall-clock latency and accuracy were recorded for each model across 119 DUS ques
 - [N-back response time increases and accuracy decreases with cognitive load, and Posner cue conditions differ in speed and accuracy trade-offs](cognitive-load-dose-response-nback-posner.md) — related
 - [Across the preclinical-to-clinical transition students become faster while cleaning quality declines — a speed–accuracy trade-off independent of training schedule](speed-accuracy-tradeoff-clinical-transition.md) — related
 - [Larger dense generators passed smoke probes but all exceeded the +30% classroom latency limit in bake-off round 1](larger-generators-fail-classroom-speed-gate.md) — related
+- [Tasks can be designed to create a perceived trade-off between accuracy and realism that requires sensemaking to resolve](accuracy-realism-task-design.md) — related

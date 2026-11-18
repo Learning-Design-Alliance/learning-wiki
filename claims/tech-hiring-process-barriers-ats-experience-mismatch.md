@@ -57,3 +57,4 @@ Thematic analysis of worker and learner interviews, surveys, and design sessions
 - [Black women and participants with intersecting identities report being overlooked, facing microaggressions, and experiencing imposter syndrome in tech spaces](intersectional-identity-impact-black-women-tech.md) — related
 - [Worker and jobseeker input on skills-first pathway design and implementation is far too often limited or missing](worker-input-on-skills-first-pathways-limited-or-missing.md) — related
 - [Spelling errors damage job applicants' prospects and recruiters' impressions of professional capabilities](spelling-errors-hiring-penalties.md) — related
+- [Women rejected by an employer are 1.5 times less likely than men to apply to another job opening by the same employer](women-rejection-reapplication-gap.md) — related

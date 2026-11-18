@@ -56,3 +56,4 @@ Self-developed satisfaction questionnaire administered only in the experimental 
 - [Trainee satisfaction, goal achievement, and technical-application ratings ranked the ChatGPT group highest, followed by the template group, then the traditional group](chatgpt-group-highest-satisfaction-ratings.md) — related
 - [Participants report high engagement and satisfaction with the course but mixed technical experiences](sci-pa-elearning-engagement-satisfaction-technical-issues.md) — related
 - [Most experimental-group students reported agreement with, interest in, and engagement from the flipped classroom plus web-based learning system](student-perceptions-flipped-anatomy-web-system.md) — related
+- [Students reported overall high satisfaction with the application (2.84, S.D. 0.13), with enjoyment rated highest](place-value-app-student-satisfaction-high.md) — related

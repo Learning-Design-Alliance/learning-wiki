@@ -86,3 +86,4 @@ Evaluation of the Vantage collaboration protocol with 188 Prolific-recruited par
 - [The expert rater scored performances lower than the non-expert raters, suggesting peer-assessment may be problematic compared with assessment by a more experienced clinician](expert-rater-lower-peer-assessment-problematic.md) — related
 - [Overall impression reliability substantial (Kappa 0.65) and most sessions rated average-to-excellent](overall-impression-ratings-good-delivery.md) — related
 - [Peer assessments of non-technical skills show inter-rater agreement on four of five dimensions, but self- and peer-assessments do not agree](peer-interrater-reliability-no-self-peer-agreement.md) — related
+- [The underlying sentence similarity algorithm achieves Pearson correlations of 0.8753 for word similarity and 0.8794 for sentence similarity against benchmarks](sentence-similarity-benchmark-correlations.md) — related

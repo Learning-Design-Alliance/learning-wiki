@@ -52,3 +52,4 @@ The review describes an "invisible tax" of extra, unrecognized, and uncompensate
 - [Teachers of color report more workplace stress and dissatisfaction than White teachers](teachers-of-color-workplace-stress-dissatisfaction.md) — related
 - [Minority teachers are disproportionately employed in high-poverty, high-minority, urban public schools](minority-teachers-disproportionately-in-hard-to-staff-schools.md) — related
 - [Underprepared teachers are two to three times more likely to leave than prepared teachers, driving a revolving door in high-poverty schools](underprepared-teachers-leave-two-to-three-times-more.md) — related
+- [Hiding one's LGBT+ identity imposes extra emotional effort that saps energy and impacts productivity, according to the Guide's account of isolation and invisibility](identity-concealment-emotional-toll-productivity.md) — related

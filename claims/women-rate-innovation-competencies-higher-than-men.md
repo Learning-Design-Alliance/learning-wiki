@@ -47,3 +47,4 @@ Sex subgroup analysis within the LA survey (Table 4). The article reports the pr
 ## Related Claims
 - [Clinical oncologists rate social responsibility higher but leading others and innovation lower than other specialists](clinical-oncologists-social-responsibility-higher-leading-others-innovation-lower.md) — related
 - [No significant differences between LA and NA/EU ratings for self-management, social responsibility, innovation, or leading others competencies](no-la-eu-differences-other-four-competency-domains.md) — related
+- [Women represent only 12% of US innovators, and the average US-born male is nine times more likely to contribute to an innovation than the average female](us-women-innovators-twelve-percent.md) — related

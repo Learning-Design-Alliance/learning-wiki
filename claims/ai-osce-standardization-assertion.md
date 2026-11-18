@@ -48,3 +48,4 @@ Authors' assertion from the reflective report on their AI-supported OSCE; no psy
 ## Related Claims
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills](ai-simulation-short-term-gains-nursing.md) — related
+- [Students who complete open-inquiry preparation are reported to perform better during subsequent authentic research, though effectiveness is not yet formally assessed](inquiry-prep-reported-better-research-performance.md) — related

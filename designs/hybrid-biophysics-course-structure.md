@@ -42,7 +42,8 @@ The course was divided into three components: case studies applying physical app
 - [Biophysics Course Performance Unrelated To Major](../claims/biophysics-course-performance-unrelated-to-major.md) [+M]
 
 ## Related Designs
-- 
+
+- [Our Place in the Universe: an interdisciplinary common core course using astronomy history to teach rational thinking](our-place-in-universe-hku-course.md)
 
 ## Examples
 -

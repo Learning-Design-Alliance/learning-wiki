@@ -57,3 +57,4 @@ Qualitative interview analysis in the reformed course: students may reject refor
 - [Biology students' resistance to using mathematics in biology is context-dependent, improving when they perceive the activity as doing work for them](biology-students-math-attitudes-context-dependent.md) — related
 - [Epistemological expectation mismatches between students and instructors surfaced around independence, math, and social norms](epistemological-expectation-mismatches-astronomy.md) — related
 - [A coherence/expectations framework explains the analogy failure: students who do not value consistency in physics resort to memorized formulas and disregard the paired problem.](coherence-expectations-analogy-failure.md) — related
+- [Student resistance to computation differs from general resistance to research-based methods: students reject learning something new and activities they see as not belonging in physics class](student-resistance-computation-different-form.md) — related

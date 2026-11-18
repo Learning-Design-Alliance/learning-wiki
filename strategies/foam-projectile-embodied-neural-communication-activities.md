@@ -51,6 +51,8 @@ A four-part classroom activity sequence in which students in pairs or small grou
 ## Related Strategies
 
 - [Mitigate reluctance to participate in group activities with clearly defined roles and an icebreaker interaction with the materials](defined-roles-and-nerf-icebreaker-for-group-activities.md)
+- [Model the photoelectric effect by firing Nerf bullets at ping-pong balls in bowls of varying depth](bowls-ping-pong-photoelectric-analogy.md)
+- [Use toy Nerf gun projectiles as analogue photons to introduce the particle nature of light](nerf-gun-analogue-photons.md)
 
 ## Examples
 -

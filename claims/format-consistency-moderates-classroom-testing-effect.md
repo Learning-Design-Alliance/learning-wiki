@@ -80,3 +80,4 @@ Meta-analytic moderator analysis of quiz–exam format consistency; the review r
 - [The number of quiz questions (five vs. ten) does not moderate the improvement in exam performance](quiz-question-number-does-not-moderate-testing-effect.md) — related
 - [No interaction between practice and final test question format: matching formats does not enhance the retrieval effect, challenging transfer-appropriate processing](no-format-interaction-challenges-tap.md) — reports the opposite
 - [Performance trends across expertise groups are similar regardless of whether students received multiple-choice or free-response question formats](similar-performance-trends-mc-vs-free-response.md) — related
+- [Students in large-enrollment flipped introductory physics classes performed significantly better than students in traditional classes by the same instructors on identical quiz and final-exam questions](flipped-identical-questions-significant-gains.md) — related

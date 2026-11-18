@@ -49,3 +49,4 @@ Observational comparison of predefined user-type distributions across the two co
 - [A majority of students in both cohorts either did not register at the platform or were nonusers (84% non-pandemic, 47% pandemic)](high-nonuse-elp-both-cohorts.md) — reports the opposite
 - [COVID-19 lockdown significantly increases first-year medical students' acceptance of an e-learning platform, with registration rising from 68 of 251 to 201 of 255 enrolled students](lockdown-increases-elp-registration-medical-students.md) — related
 - [Reads and downloads per user per day approximately doubled during the lockdown period, with a statistically significant difference for reads (p = 0.0059)](reads-per-user-day-doubled-lockdown.md) — related
+- [Online reader comments on two Conversation articles showed strong public support, with 86% support and no opposition for one article but 19% opposition for the other](online-comments-support-einsteinian-teaching.md) — related

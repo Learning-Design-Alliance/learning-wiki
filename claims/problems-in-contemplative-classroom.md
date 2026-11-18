@@ -51,3 +51,4 @@ Qualitative analysis for RQ4 based on interviews with five named MA TEFL student
 - [Tenth-graders show few signs of global task awareness when selecting text fragments, rarely rereading or deeply processing task instructions](few-signs-global-task-awareness-selection.md) — related
 - [Easy access to AI-generated answers may reduce learners' motivation to engage deeply with material](ai-over-reliance-reduces-deep-engagement.md) — related
 - [Student perceptions of the student-centeredness of flipped classrooms increase significantly over a semester](flipped-classroom-student-centeredness-perceptions-increase.md) — related
+- [Students reported an overall increased awareness of their cognitive and emotional processes after the contemplative practices](contemplative-practices-awareness-cognitive-emotional-processes.md) — related

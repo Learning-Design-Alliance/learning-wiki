@@ -49,3 +49,4 @@ Video qualitative analysis of 14 group recordings from 36 students produced 379 
 - [Co-regulation and socially shared regulation occur rarely in synchronous online collaborative learning](corl-ssrl-rare-synchronous-cscl.md) — related
 - [Regulatory sequencing in synchronous CSCL: cognitive interactions initiate cycles, co-regulation iterates with task execution, and SSRL follows socio-emotional interactions](regulation-sequencing-pattern-synchronous-cscl.md) — related
 - Video-supported collaborative learning research falls into four major categories, with observation and collaborative analysis the most popular and video-supported synchronous collaboration the least utilized — related
+- [Real-time, online-controlled observing sessions foster team-building and synchronous collaborative working among distance learners](real-time-observing-team-building.md) — related

@@ -77,3 +77,7 @@ The review reports Leonidis et al.'s (2012) claim that the SESIL ambient-intelli
 - [Students who used QR codes as augmented reality in their education performed at higher levels than students who did not](qr-code-ar-higher-student-performance-saudi.md) — related
 - [Students integrating QR-code AR into their learning reported no technical issues, attributed to alpha-generation technology familiarity](qr-code-ar-no-technical-issues-alpha-generation.md) — related
 - [Scaffolding in a handheld sensor-based vocabulary game significantly improved low-achieving EFL students' motivation and performance](scaffolding-sensor-vocabulary-game-improves-low-achievers.md) — related
+- [Augmented reality can be implemented in education via three methods: marker position, geolocation, and QR-code](ar-three-implementation-methods-marker-geolocation-qr.md) — a broader claim this one bears on
+- [The article discusses advantages and disadvantages of using QR codes and their application in the learning process, based on summarizing existing research](qr-code-advantages-disadvantages-table.md) — related
+- [The authors conclude that mobile learning is accessible to pupils and students and that QR-code technologies have sufficient potential in physics teaching](qr-codes-sufficient-potential-physics-learning.md) — related
+- [The article argues that a mobile information and educational environment of a HEI yields institutional advantages and gives every student free, time- and place-independent access to discipline materials](mobile-ios-advantages.md) — related

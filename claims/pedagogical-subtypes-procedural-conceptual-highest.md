@@ -51,3 +51,4 @@ Mini-meta-analysis of pedagogical intervention subtypes within the 60-study revi
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — reports the opposite
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — reports the opposite
 - [Across education interventions in Sub-Saharan Africa, the overall pooled effect size on student learning is 0.16 with very high heterogeneity (I2 = 80.1%)](ssa-meta-analysis-overall-effect-0-16.md) — related
+- [Hands-on activities are the school science activities meeting the highest degree of learner interest](hands-on-activities-highest-science-interest.md) — related

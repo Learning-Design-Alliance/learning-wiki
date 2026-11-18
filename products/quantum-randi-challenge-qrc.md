@@ -27,6 +27,7 @@ The QRC is a modifiable computer game created by Vongehr for teaching quantum me
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Quantum Randi Challenge: a modifiable computer game teaching quantum mechanics**: The QRC is a computer game that anybody can modify, designed to reject hidden variable models by simply teaching quantum mechanics. Per the article, "there is no bet or interaction with challengers". The present version includes a simulation of true quantum behavior violating Bell 99% of the time, hidden variables violating Bell and CHSH with 50% probability, and ones violating Bell 85% of the time when missing 13% anti-correlation. The challenge is to modify the hidden variables so the predicted quantum behavior, including anti-correlation, arises. (Vongehr (2012))
+- **Ready-to-use game tables of symmetrically placed qubit states (eigenstates, tetrahedron, octahedron, cube)**: The article supplies five game tables: eigenstate states along the coordinate axes, and tilted tetrahedron, tilted octahedron, and cube sets whose states are "vertices of regular polyhedra" chosen to be symmetrically placed on the Bloch sphere. Each table lists each state's Bloch vector, the P(+1) percentages for x, y, and z measurements, and the corresponding die-roll ranges. (Theodore A. Corcovilos (2018))
 
 ### Claims
 - [Demanding anti-correlation is argued to be didactically superior to employing the CHSH inequality in the QRC](../claims/anti-correlation-superior-to-chsh-didactically.md) [+W]
@@ -40,8 +41,8 @@ The QRC is a modifiable computer game created by Vongehr for teaching quantum me
 
 ## Key Sources
 - Vongehr, S. (2012). Quantum Randi Challenge. arXiv:1207.5294. [doi:10.48550/arXiv.1207.5294](https://doi.org/10.48550/arXiv.1207.5294)
-
 <!-- merged 2026-10-10 from elements/quantum-randi-challenge-computer-game ("Quantum Randi Challenge: a modifiable computer game teaching quantum mechanics"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Theodore A. Corcovilos. (2018). A Simple game simulating quantum measurements of qubits. https://arxiv.org/abs/1804.08417
 
 # Quantum Randi Challenge: a modifiable computer game teaching quantum mechanics
 

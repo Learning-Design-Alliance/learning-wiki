@@ -50,3 +50,4 @@ Interview coding of graduate research experiences. The article reports all 13 in
 - [Lab course activities did not necessitate notebook use because of their short, scripted timescale](lab-course-design-not-necessitating-notebooks.md) — related
 - [Physics graduate students developed documentation skills primarily through informal hands-on practice in authentic research settings](hands-on-authentic-practice-develops-documentation.md) — related
 - [Physics graduate students in experimental research groups broadly agree on the purpose of the lab notebook as a record of experimental progress that supports sense-making, future planning, publication, and communication](notebook-purpose-researcher-consensus.md) — related
+- [In the transformed course, most students (57%) felt they received the right amount of feedback on their electronic notebooks, but about 40% said they received too little feedback.](insufficient-ta-feedback-lab-notebooks.md) — related

@@ -94,3 +94,4 @@ Same thematic analysis of open-ended responses: constraints included needing mor
 - [A 2012 video-based flipped classroom in which students watched recorded lectures left students feeling unsupported and produced lower satisfaction despite better marks than 2010](video-flipped-classroom-unsupported-students.md) — related
 - [Using videos for home viewing frees curriculum time so teachers can give immediate assistance and richer in-class discussion](video-home-viewing-frees-class-time.md) — related
 - [Within videos, students concentrated access and pauses on concrete, assignment-required content (actions, formulas, problem-solving techniques) and engaged less with conceptual or epistemological sections](students-focus-on-concrete-assignment-content-in-videos.md) — related
+- [Students perceived the mathcast videos as more understandable and helpful as the semester progressed](mathcast-perceived-helpfulness-increased.md) — related

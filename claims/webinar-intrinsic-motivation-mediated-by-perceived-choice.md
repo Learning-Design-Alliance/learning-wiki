@@ -76,3 +76,4 @@ Mediation analysis across the whole sample (PROCESS macro, OLS regression with b
 - [Control group reported higher interest/enjoyment and perceived choice than the camera group](control-group-higher-interest-and-choice.md) — related
 - [Live lecture attendance choices depend primarily on lecturer communication skills and perceived lecture value rather than recording availability](attendance-driven-by-lecture-quality-not-recordings.md) — related
 - [Intrinsic motivation one week after training does not differ between in situ and off-site simulation participants](iss-oss-motivation-no-difference.md) — related
+- [Real-time, online-controlled observing sessions foster team-building and synchronous collaborative working among distance learners](real-time-observing-team-building.md) — related

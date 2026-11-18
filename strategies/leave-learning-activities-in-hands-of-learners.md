@@ -43,6 +43,7 @@ A forward-looking recommendation drawn from the findings: as machines increasing
 ## Related Strategies
 
 - [Teachers should be less prescriptive and allow students to decide how to carry out mathematics activities](less-prescriptive-teacher-role-pbl-math.md)
+- [Add structured role assignments to inquiry-lab group work while preserving student decision-making agency](structured-roles-inquiry-lab-group-work.md)
 
 ## Examples
 -

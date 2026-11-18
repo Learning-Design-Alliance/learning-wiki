@@ -46,6 +46,8 @@ The article's strategy is to use QR codes printed in student textbooks as a form
 
 - [Augmented Reality (AR) in Classroom](augmented-reality-ar-in-classroom.md)
 - [Develop AR-supported materials for other Turkish Language Teaching lessons that students find difficult](extend-ar-materials-to-difficult-turkish-lessons.md)
+- [Run a physical QR quest in which student groups decode question codes at stations under a time limit with a point-and-penalty scoring system](physical-qr-quest-stations-scoring.md)
+- [Use QR codes for games and quizzes, a virtual exhibition, apparatus apps, computer-model study tasks, and answer-key self-checking in physics lessons](qr-codes-games-exhibition-models-selfcheck-strategy.md)
 
 ## Examples
 -

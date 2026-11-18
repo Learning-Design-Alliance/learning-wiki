@@ -46,3 +46,4 @@ Phase 3 effectiveness evaluation using the E1/E2 test: Process Effectiveness (E1
 
 ## Related Claims
 - [Experimental group also scored higher than control group on post-test academic achievement](experimental-higher-achievement-posttest.md) — related
+- [The developed application met the 80/80 efficiency standard with during-lesson and posttest performance of 89.07/91.84](place-value-app-efficiency-89-91-exceeds-80-80.md) — related

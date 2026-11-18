@@ -49,6 +49,7 @@ The article recommends learning environments that let learners explore social re
 - [Use the game and physical activities course with an interdisciplinary approach for experiential elementary science teaching](gpa-course-science-teaching-strategy.md)
 - [Use directed educational games sessions to teach social skills to educable mentally retarded children](directed-educational-games-social-skills-strategy.md)
 - [Explore alternative experiential learning activities for students who do not respond positively to poverty simulations](alternative-experiential-activities-poverty-education.md)
+- [Support curriculum-industry links with invited industry speakers and extracurricular technology activities](industry-speakers-extracurricular-tech-activities.md)
 
 ## Examples
 -

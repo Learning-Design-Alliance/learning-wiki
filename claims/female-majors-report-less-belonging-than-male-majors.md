@@ -56,3 +56,4 @@ Interview study of 201 college seniors from 16 UNC system campuses; coded belong
 - [Male and female subjects responded differently, confounding interpretation](sex-differences-confound-attitude-change.md) — related
 - [Gender and major differences in agentic engagement and autonomy-support perceptions among Chinese EFL students](gender-major-differences-ae-past.md) — related
 - [Cisgender men speak more during small-group or whole-class discussions, reinforcing perceptions of greater competence in STEM.](men-speak-more-discussions-competence-perceptions.md) — related
+- [Women represent only 12% of US innovators, and the average US-born male is nine times more likely to contribute to an innovation than the average female](us-women-innovators-twelve-percent.md) — related

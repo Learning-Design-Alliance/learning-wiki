@@ -74,3 +74,5 @@ Survey item (Figure 5) on explicitly thinking about underlying concepts. Faculty
 - [Students and faculty alike report a general lack of reflection after solving physics problems](lack-of-reflection-after-problem-solving.md) — related
 - [On the AAPS survey, faculty respond more expert-like than Ph.D. students, who respond more expert-like than introductory students, with large effect sizes](aaps-expertise-gradient-effect-sizes.md) — related
 - [Some AAPS items show non-monotonic or unexpected group trends whose reasons differ by group, as interpreted through individual interviews](aaps-unexpected-trends-interviews.md) — a narrower finding that bears on this claim
+- [On a data-comparison item, expert responses are selected more often and novice responses less often with greater physics maturity](plic-item-selections-vary-by-maturity.md) — related
+- [More experienced professional monitors develop intuition for stream assessment quality, while less experienced monitors interpret protocol language literally](expert-intuition-rbp-assessment.md) — related

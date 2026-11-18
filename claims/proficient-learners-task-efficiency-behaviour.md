@@ -92,3 +92,4 @@ ANOVA on playground exploration time showed Proficient learners spent less time 
 - [Isolated nonverbal cues require novice proficiency and receptiveness to be effective](nonverbal-cues-require-novice-proficiency.md) — related
 - [Sensor-based force measurement discriminates skill levels, with experts suturing faster and with lower applied force than novices](force-sensing-discriminates-surgical-skill.md) — related
 - [Experienced operators completed the phantom biometry task far faster than novices](experienced-operators-faster-task-completion-ultrasound.md) — related
+- [Almost 80% of students complete the efficient-design one-hour unit test within 50 minutes](80-percent-students-complete-within-50-minutes.md) — related

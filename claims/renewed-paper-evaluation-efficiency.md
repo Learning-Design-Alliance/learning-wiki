@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-10
 evidence_strength: moderate
-newest_evidence: 2007
+newest_evidence: 2008
 sources:
-  - id: dexin-lu-2007
+  - id: dexin-lu-2008
     resource: "https://doi.org/10.48550/arXiv.0801.2042"
-    title: "Dexin Lu, Dong Ruan, Wang Xu, Nianle Wu, Minwen Xiao, Yu An. (2007). An Experiment of Research-Oriented Teaching/Learning. [doi:10.48550/arXiv.0801.2042](https://doi.org/10.48550/arXiv.0801.2042)"
+    title: "Dexin Lu, Dong Ruan, Wang Xu, Nianle Wu, Minwen Xiao, Yu An. (2008). An Experiment of Research-Oriented Teaching/Learning. Originally published 2007. [doi:10.48550/arXiv.0801.2042](https://doi.org/10.48550/arXiv.0801.2042)"
     author: Dexin Lu, Dong Ruan, Wang Xu, Nianle Wu, Minwen Xiao, Yu An
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` A renewed evaluation system in 2006 reduced the evaluation of 256 papers from two weeks (five TAs and three instructors) to three days, with TA and instructor groups offering quite similar scores at 29.2% high coincidence. [→ Dexin Lu 2007](#dexin-lu-2007)
+`q2 i?` A renewed evaluation system in 2006 reduced the evaluation of 256 papers from two weeks (five TAs and three instructors) to three days, with TA and instructor groups offering quite similar scores at 29.2% high coincidence. [→ Dexin Lu 2008](#dexin-lu-2008)
 
 ## Evidence
 
-### Dexin Lu 2007
+### Dexin Lu 2008
 
-Dexin Lu, Dong Ruan, Wang Xu, Nianle Wu, Minwen Xiao, Yu An. (2007). An Experiment of Research-Oriented Teaching/Learning. [doi:10.48550/arXiv.0801.2042](https://doi.org/10.48550/arXiv.0801.2042)
+Dexin Lu, Dong Ruan, Wang Xu, Nianle Wu, Minwen Xiao, Yu An. (2008). An Experiment of Research-Oriented Teaching/Learning. Originally published 2007. [doi:10.48550/arXiv.0801.2042](https://doi.org/10.48550/arXiv.0801.2042)
 
 `q2 · i?` · `design · r2`
 
@@ -51,3 +51,4 @@ Program self-report of a renewed evaluation operation procedure introduced in 20
 - [Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard](expert-triad-high-inter-rater-reliability-bash-grading.md) — related
 - [Human scoring and feedback for HDR takes about 11 minutes 30 seconds per learner, while GPT-based scoring and feedback is nearly instant](hdr-human-scoring-time-burden.md) — related
 - [Inter-rater scoring of the writing tests showed good correlation-coefficient reliability](inter-rater-reliability-writing-scores.md) — related
+- [Grading one efficient-design unit test takes about 6 minutes or less, about 3 hours for a class of about 30 students](six-minutes-grading-per-student-test.md) — related

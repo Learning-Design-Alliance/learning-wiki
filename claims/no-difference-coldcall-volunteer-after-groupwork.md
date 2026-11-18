@@ -48,3 +48,4 @@ Comparison of the two post-group-work response strategies across 45 sections: "n
 - [Group cold calling produced a higher proportion of unique responders than individual cold calling, yet GTAs used it less frequently](group-cold-call-unique-responders-underused.md) — related
 - [Individual volunteering concentrated responses among the same students, whereas GTA-targeted group volunteering yielded more unique responders, yet GTAs favored whole-class volunteering](group-volunteer-unique-responders-bias.md) — related
 - [Given practice-based training, GTAs implemented drilled evidence-based techniques at high frequency and most classrooms reached high student participation levels](gta-practice-training-high-adoption-drilled-techniques.md) — related
+- [GTAs consistently rate the Orientation as useful and valuable and prefer its interactive activities over lecturing](gtas-rate-orientation-useful-interactive.md) — related

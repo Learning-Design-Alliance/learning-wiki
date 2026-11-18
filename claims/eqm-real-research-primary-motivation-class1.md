@@ -47,3 +47,4 @@ Written questionnaire administered after the Class 1 play sessions; only 7 of 20
 ## Related Claims
 - [Students experienced playing Quantum Moves as directly doing an experiment, in contrast with only calculating results in normal teaching](eqm-feeling-of-directly-doing-experiment.md) — related
 - [Players decided to engage in gaming primarily for escapism and fun, social connectivity, and achievement of task-related goals through control](gaming-engagement-decision-factors.md) — a broader claim this one bears on
+- [Students playing the quantum guessing game developed progressively more sophisticated measurement and guessing strategies](students-develop-strategies-quantum-guessing-game.md) — related

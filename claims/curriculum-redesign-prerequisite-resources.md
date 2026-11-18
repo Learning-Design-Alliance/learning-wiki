@@ -49,3 +49,4 @@ Discussion synthesis of the qualitative findings. Participants recognised that "
 - [An innovation foreign to the rest of its system may be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — a broader claim this one bears on
 - [Implementation challenges of adaptive learning classify into facilitators, barriers, and neutral challenges, and a single determinant can act as prerequisite, moderator, strategy, or outcome](determinants-valence-facilitators-barriers-neutral.md) — a broader claim this one bears on
 - [Teachers and stakeholders centred their views of ICT's role on first-order barriers of resources and students](ict-role-first-order-resources-students.md) — related
+- [How an instructor implements active learning is perhaps the most important factor in determining student learning gains](implementation-quality-determines-learning-gains.md) — related

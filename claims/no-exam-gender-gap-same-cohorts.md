@@ -57,3 +57,4 @@ Comparison of end-of-course examination results for the same matched cohorts at 
 - [In physics courses, gendered performance differences arise from timed exam scores, while female students modestly outperform males on homework and in-class response credit](exam-performance-source-of-gpd.md) — reports the opposite
 - [Multiple-choice question format shows no evidence of disadvantaging female students](no-female-disadvantage-multiple-choice.md) — related
 - [Significant gender differences in FCI scores appear in every application of the test, with small to medium effect sizes](fci-gender-differences-all-applications.md) — related
+- [Mechanics courses were a partial exception: some identical-question scores were significantly lower in flipped classes and the gender gap was generally not improved there](mechanics-flipped-outlier.md) — reports the opposite

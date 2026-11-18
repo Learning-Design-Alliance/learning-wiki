@@ -44,6 +44,7 @@ The study engaged two Kasena Elders, as holders of Indigenous knowledge, to visi
 ## Related Strategies
 
 - [On-country visits where students interact with Aboriginal Elders as experiential learning](on-country-elder-visits-experiential-learning.md)
+- [Incorporating non-Western cosmologies into ngVLA education through indigenous talks, STEAM projects, and Star Parties](non-western-cosmologies-ngvla-education.md)
 
 ## Examples
 -

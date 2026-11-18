@@ -45,7 +45,8 @@ The article's future-research section offers concrete design moves for K-5 citiz
 - [Students, not expert scientists, played the moderating role by asking questions and making assertions, with one student bridging scientists and students](../claims/students-moderating-bridging-role.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Train citizen scientists in qualitative assessment by supporting three needs: diverse stream experiences, peer discussion, and narrative construction](volunteer-qualitative-assessment-training-needs.md)
 
 ## Examples
 -

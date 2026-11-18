@@ -55,3 +55,4 @@ Mixed-methods study (Bahadır Yılmaz 2025, Turkey) of a face-to-face PFA traini
 - [A web-based PFA simulation program raised nurses' self-reported disaster response competence more than e-book self-learning (medium effect)](web-pfa-sim-raises-disaster-competencies.md) — related
 - [The web-based PFA simulation program improves nurses' problem-solving ability more than e-book self-learning (medium effect)](web-pfa-sim-improves-problem-solving.md) — related
 - [The web-based PFA simulation program improves nurses' self-leadership capacity more than e-book self-learning (medium effect)](web-pfa-sim-improves-self-leadership.md) — related
+- [The PR:EPARe game, designed with LM-GM, showed positive outcomes in a cluster-randomized controlled trial of self-reported psychosocial preparedness for avoiding coercion](lm-gm-prerepare-rct-positive-outcomes.md) — related

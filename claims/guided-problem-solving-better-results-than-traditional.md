@@ -48,3 +48,4 @@ The author's conclusion section asserts, without reported data, measures or comp
 - [Students taught college algebra via the scientific heuristic method performed significantly better on the post-test than students taught by direct instruction](scientific-heuristic-outperforms-direct-instruction-posttest.md) — related
 - [PBL and traditional teaching have different effects on pre-service teachers’ perceptions of problem-solving ability, with PBL more influential](pbl-difference-problem-solving-perception.md) — related
 - [Teachers with ownership adapted the VCL easily while teachers lacking ownership reduced the problem to a cookbook approach](vcl-ownership-versus-cookbook-approach.md) — related
+- [A multidisciplinary art-physics laboratory on light polarization is reported by the author to make students more engaged and the learning of the physics concepts more effective](art-physics-polarization-lab-engagement.md) — related

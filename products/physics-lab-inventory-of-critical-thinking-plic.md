@@ -13,7 +13,7 @@ generated:
 # Physics Lab Inventory of Critical thinking (PLIC)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The PLIC is a choose-many closed-response assessment developed by Katherine N. Quinn and colleagues to measure introductory physics students' critical thinking about experimental methods, data, evidence, and model limitations.
@@ -23,9 +23,12 @@ The PLIC is a choose-many closed-response assessment developed by Katherine N. Q
 - **Physics Lab Inventory of Critical thinking (PLIC), a choose-many closed-response assessment of critical thinking in physics labs**: The PLIC is a choose-many closed-response survey asking students to critique the experimental methods and data of two fictitious groups testing the Hooke's law model of a mass on a spring. It asks students to interpret data, critique experimental design, and evaluate model breakdown, with follow-up questions probing reasoning. The authors define critical thinking as the ability to "critique data, identify whether or not conclusions are supported by evidence, and distinguish a significant effect from random noise and variability". It is intended to assess how students think critically, not whether they do. (Katherine N. Quinn et al. (2018))
 
 ### Claims
+- [PLIC performance is consistently higher with greater physics maturity, from first-year students to experts](../claims/plic-scores-increase-with-physics-maturity.md) [+M]
+- [SQI labs produce a statistically significant, medium effect on post-instruction PLIC scores controlling for pre-scores](../claims/sqi-labs-significant-medium-ancova-effect.md) [+M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Katherine N. Quinn, Carl Wieman, and N.G. Holmes. (2018). Interview validation of the Physics Lab Inventory of Critical thinking (PLIC). https://arxiv.org/abs/1802.02424
+- Cole Walsh, Katherine N. Quinn, and N. G. Holmes. (2018). Assessment of critical thinking in physics labs. https://arxiv.org/abs/1808.10566v1

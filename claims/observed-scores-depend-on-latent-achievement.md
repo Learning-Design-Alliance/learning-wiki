@@ -47,3 +47,4 @@ Posterior estimates from the random effects selection model fitted to the distri
 ## Related Claims
 - [Selection into Dutch COVID-19 remediation programs was strongly linked to disadvantage, with students with extremely low test scores most likely to participate](remediation-selection-linked-to-disadvantage.md) — related
 - [Unconditionally, students who self-enroll in the paired lab are more likely to complete nonmajors introductory biology and earn higher grades than students who do not](lab-enrollment-unconditional-outcome-advantage.md) — related
+- [Homework participants scored sensibly higher on the initial level test (0.39 vs 0.31), suggesting self-selection into the scheme](sst-level-test-self-selection-039-vs-031.md) — related

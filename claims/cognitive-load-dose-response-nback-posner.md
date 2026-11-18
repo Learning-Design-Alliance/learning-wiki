@@ -57,3 +57,4 @@ Mixed-effect regression with Bonferroni post hoc correction across 160 adolescen
 - [In an immersive VR dual-task search-and-learning environment, both a pedagogical agent cue and a light cue produced faster search times than no cueing](vr-agent-light-cues-reduce-search-time.md) — related
 - [Reasoning-enabled LLM modes improved accuracy but required excessively long generation times, creating a speed-accuracy trade-off](llm-reasoning-speed-accuracy-tradeoff-dental-exam.md) — related
 - [Gamified driving interventions may reduce unsafe driving by reducing boredom, but visual cues can increase cognitive workload and slow reaction times](gamification-reduces-boredom-visual-cues-workload.md) — a narrower finding that bears on this claim
+- [Tasks can be designed to create a perceived trade-off between accuracy and realism that requires sensemaking to resolve](accuracy-realism-task-design.md) — related

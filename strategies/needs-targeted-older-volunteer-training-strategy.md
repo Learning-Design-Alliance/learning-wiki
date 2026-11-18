@@ -46,6 +46,7 @@ Based on the survey findings, the authors propose concrete training actions matc
 ## Related Strategies
 
 - [Targeted interventions to support sonographer teachers: competency-framework review, feedback workshops, protected time, and sonographer educator roles](sonographer-educator-support-interventions.md)
+- [Train citizen scientists in qualitative assessment by supporting three needs: diverse stream experiences, peer discussion, and narrative construction](volunteer-qualitative-assessment-training-needs.md)
 
 ## Examples
 -

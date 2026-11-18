@@ -65,3 +65,4 @@ Analysis of a single cohort of 315 undergraduate electrical engineering students
 - [Women are outscored by men on every section of the GRE general test, and with other factors equal women score lower on high-pressure timed tests](gender-gap-gre-timed-tests.md) — related
 - [A gender score offset appears in the distance cohort but not in the in-class cohorts, with a larger pre-class gap for distant learners](geas-gender-offset-distance-cohort.md) — a narrower finding that bears on this claim
 - [Gendered performance differences are small and variable in STEM lab courses, unlike their closely related lecture courses](gpd-absent-stem-labs.md) — related
+- [MIT mechanical engineering reached near gender parity (49.5% women in 2017) through deliberate structural interventions including recruitment programs, hiring women faculty, and curriculum modernization](mit-mechanical-engineering-gender-parity-interventions.md) — related

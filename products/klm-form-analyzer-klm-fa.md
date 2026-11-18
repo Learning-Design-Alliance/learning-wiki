@@ -30,4 +30,4 @@ KLM-FA is a Windows desktop application that parses web forms, simulates user in
 -
 
 ## Key Sources
-- Katsanos, C., Xenos, M. and Tselios, N. (2018). Tool-mediated HCI Modeling Instruction in a Campus-based Software Quality Course. https://arxiv.org/abs/1802.01924
+- Katsanos, C., Xenos, M. and Tselios, N. (2018). Tool-mediated HCI Modeling Instruction in a Campus-based Software Quality Course. https://arxiv.org/abs/1802.01924. [doi:10.1007/978-3-319-91238-7_10](https://doi.org/10.1007/978-3-319-91238-7_10)

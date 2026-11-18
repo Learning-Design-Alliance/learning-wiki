@@ -46,6 +46,7 @@ The article recommends replacing generic metacognitive training with interventio
 ## Related Strategies
 
 - [Replace labor-intensive in-person coaching with a virtual professional learning community to scale professional development](vplc-replaces-in-person-coaching-for-scale.md)
+- [Adapt training scenarios to professional profiles using obstacle placement and difficulty configuration](obstacle-placement-scenario-adaptation-strategy.md)
 
 ## Examples
 -

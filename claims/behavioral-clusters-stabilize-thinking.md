@@ -55,3 +55,4 @@ Participation-based video analysis in Section 4.B.1 of three behavioral clusters
 - [Coordinating attention between whole-strip length and dot spacing does not disrupt and may stabilize the idea that shorter strips take less time](part-whole-coordination-preserves-initial-idea.md) — a narrower finding that bears on this claim
 - [A student's animated off-worksheet statements can function as bids for a frame change that the group may accept or ignore](behavioral-bids-for-frame-change.md) — related
 - [Pairs managed mutual awareness through spatial and temporal affordances and developed attention-getting protocols finer-grained than turn-taking](awareness-attention-management-shared-workspaces.md) — related
+- [Recurring questions may help counteract the inherent slipperiness or dynamism of sensemaking frames, keeping students engaged when they otherwise might move on](recurring-questions-stabilize-frame.md) — related

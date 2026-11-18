@@ -53,3 +53,4 @@ Qualitative analysis of written exam responses to the ATP reconciliation essay (
 - [Students perceive how each scientific discipline bounds the system of interest, and this perception shapes how they justify cross-disciplinary reasoning about ATP and bond energy](disciplinary-system-bounding-shapes-student-justifications.md) — related
 - [In the first year of the course, around half of the analyzed students met or exceeded expectations on the ATP reconciliation essay question.](half-students-met-expectations-atp-essay-rubric.md) — related
 - [Interviewed students spontaneously sought interdisciplinary coherence beyond course prompts, using physics to reconcile contradictions between chemistry and biology.](interview-students-spontaneous-interdisciplinary-coherence.md) — a broader claim this one bears on
+- [Usova held that interdisciplinary teaching influences scientific concept formation](interdisciplinary-teaching-influences-concept-formation.md) — related

@@ -52,3 +52,4 @@ Pre/post survey comparison reported in the Series Impact section. The report pri
 - [Medical students who attend a student-led peer teaching society report improved knowledge, confidence, motivation and sense of community](meded-attendance-reported-academic-and-community-benefits.md) — related
 - [Greater teaching experience correlated with less need to look up topic background and more confidence in class quality](fc-teacher-experience-confidence-correlation.md) — related
 - [The workshop increased participants' self-reported familiarity and comfort with using interactive tools for online teaching](workshop-increased-familiarity-comfort-interactive-tools.md) — related
+- [About 40% of NITARP educators report that the experience changed their approach to learning, reflecting growing comfort with complex new concepts](nitarp-comfort-with-unknown.md) — related

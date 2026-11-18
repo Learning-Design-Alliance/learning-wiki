@@ -1,0 +1,1 @@
+{"id": "arxiv-1806.08042:element:hku-science-foundation-courses", "outcome": "design", "why": "This is a setting-specific two-course implementation for incoming HKU science students rather than a reusable instructional element.", "model": "openai/gpt-5.6-luna", "cost_usd": 0.02236171, "at": "2026-11-18", "page": "designs/hku-science-foundation-courses.md"}

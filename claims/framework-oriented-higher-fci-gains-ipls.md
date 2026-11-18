@@ -52,3 +52,5 @@ Pre-post observational analysis of 39 students in a first-semester algebra-based
 - [Course grades stratify by orientation in favor of framework orientation, but the difference is statistically significant in S14 only and the trend is tentative across semesters](framework-orientation-higher-course-grades-tentative.md) — related
 - [Orientation categories do not correlate strongly to choice of major, contradicting the assumption that biology and health science majors would be less framework-oriented](orientation-not-strongly-tied-to-major.md) — related
 - [Framework-oriented students experienced positive expert-like CLASS attitude gains while Performance- and Vague-oriented students slightly declined](framework-oriented-students-positive-class-gains.md) — related
+- [Health science majors begin and end the course more novice-like and with lower FCI gains and course grades than biology and other natural science majors](health-science-majors-lower-course-outcomes.md) — related
+- [Learning orientations show no differences on FCI posttest scores or overall course grades within the single-course scope](learning-orientation-no-fci-grade-difference.md) — related

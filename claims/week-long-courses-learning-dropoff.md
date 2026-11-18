@@ -47,3 +47,4 @@ The author's lesson from the original 1998 week-long LANL course, which ran nine
 ## Related Claims
 - [Training durations varied widely, most commonly 1–5 days/sessions (22%), ranging from one-off lectures to content embedded across four-year degrees](cst-duration-variation-one-to-five-days-common.md) — related
 - [Graduate nursing students' self-confidence dropped slightly but significantly during the 15-day interval between simulation modules while performance did not](self-confidence-slight-drop-15-day-interval.md) — related
+- [Off-task interactions during assigned tasks drop sharply over the course of the two-week IMPRESS program, from 15% of ties on day 2 to 3% on day 7](off-task-ties-decrease-impress-program.md) — related

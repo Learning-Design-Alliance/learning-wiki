@@ -43,6 +43,7 @@ The brief recommends that government agencies, policymakers, advocacy organizati
 - [Four strategic recommendations for supporting AI literacy across settings](strategic-recommendations-ai-literacy-across-settings.md)
 - [Co-create contextualized AI literacy policies via multi-stakeholder task forces with phased roadmaps](co-create-ai-literacy-policies-task-forces.md)
 - [Legislators should pass consumer-protection legislation and create a regulatory agency governing AI education products](legislate-consumer-protections-and-regulatory-agency-for-ai-edtech.md)
+- [Federate training initiatives across experiments to share materials and reduce duplication](federated-hep-training-initiatives-strategy.md)
 
 ## Examples
 -

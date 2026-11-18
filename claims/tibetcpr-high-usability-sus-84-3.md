@@ -65,3 +65,4 @@ Descriptive usability assessment using the System Usability Scale administered t
 - [Learners rated the e-GAL reference implementation Acceptable and Good with a median and mean SUS score of 75](sus-75-acceptable-gesture-platform.md) — related
 - [Pilot participants rated the CAI highly usable and effective for nutritional assessment learning](cai-pilot-high-usability-effectiveness-ratings.md) — related
 - [The mobile game prototype received a high subjective usability score on the System Usability Scale](mobile-game-high-sus-usability-score.md) — related
+- [Students reported overall high satisfaction with the application (2.84, S.D. 0.13), with enjoyment rated highest](place-value-app-student-satisfaction-high.md) — related

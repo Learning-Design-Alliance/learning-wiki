@@ -72,3 +72,4 @@ Metaregression of profile-score heterogeneity on gender equality indicators. Pri
 - [Male students are overrepresented among top-performing math students, with a mean female-to-male ratio of 1:1.50 across 82 countries](male-overrepresentation-top5-math-pisa.md) — related
 - [The fraction of women enrolling in mathematics degree programs in the UK and the Netherlands has remained constant despite rising female participation in higher education](female-mathematics-enrollment-fraction-constant-uk-netherlands.md) — related
 - [Among top-performing math students, male students show strongly math-oriented math–reading achievement profiles whereas female students' profiles are more balanced](math-reading-profile-gender-tilt-top5.md) — related
+- [Women represent only 12% of US innovators, and the average US-born male is nine times more likely to contribute to an innovation than the average female](us-women-innovators-twelve-percent.md) — related

@@ -53,6 +53,7 @@ The article proposes developing curricula "differentiated for distinct occupatio
 - [Integrate EI into health sciences curricula through structured experiential methods such as reflective journaling, simulation, peer mentoring, and structured debriefing](ei-experiential-curriculum-integration-strategy.md)
 - [Differentiated interventions integrating AI literacy training, psychological capital cultivation, and professional identity reinforcement](differentiated-interventions-ai-literacy-psycap-commitment.md)
 - [Integrate emotion-regulation and metacognitive support into AI literacy education, with differentiated learning assistance](ai-literacy-emotion-regulation-metacognitive-support.md)
+- [Role model video series reflecting the diversity of observatory careers](role-model-video-series-diverse-careers.md)
 
 ## Examples
 -

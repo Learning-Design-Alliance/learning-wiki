@@ -80,3 +80,4 @@ Focus group participants described accessing high-fidelity simulation from home 
 - [Virtual patients provide a safe environment that allows learners to make and learn from errors without threatening patient safety](vp-safe-environment-for-error-learning.md) — related
 - [Participants experienced the virtual patient as supporting learner-centered education, with emotional engagement (eustress) and divided reactions to game-like elements](vp-mooc-learner-centered-eustress-game.md) — related
 - [Computer simulations are usually not very effective in classroom practice because students may perceive them as artificial](simulations-not-effective-classroom.md) — reports the opposite
+- [The article reports that AR-supported experiments offer a safe way to run experiments teacher-guided or independently, addressing risks of hazardous materials and time/material constraints in classroom research](ar-safe-remote-experiments-physics.md) — related

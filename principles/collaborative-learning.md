@@ -47,7 +47,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 109 claims (49 for, 54 mixed, 6 against) · 107 studies (33 causal, 16 review, 16 theoretical, 13 quant-synthesis, 13 associational, 11 qualitative, 5 design), `q1`–`q4` · 18 of 107 report an effect size · 103 claims rest on one study
+> **Evidence** · 113 claims (51 for, 56 mixed, 6 against) · 110 studies (34 causal, 16 review, 16 theoretical, 14 associational, 13 quant-synthesis, 11 qualitative, 6 design), `q1`–`q4` · 19 of 110 report an effect size · 107 claims rest on one study
 
 ## Conditional relationship
 
@@ -176,6 +176,10 @@ Claims this page cites that do not change the model above. Each was read against
 - [Tutor interaction parameters show mixed or statistically insignificant correlations with performance, and small cohesive groups with limited tutor role tended to perform better](../claims/tutor-interaction-parameters-mixed-correlation.md) [~W] — attached 2026-11-09 from Saqr M et al. (2018), which proposed "Design online PBL for small, interactive, cohesive groups and support isolated learners, since these modifiable factors correlate with better performance"; tests this page's relationship.
 - [Collaborative annotation of whole slide images significantly improves quiz performance over individual annotation for senior medical students, with a large effect size](../claims/collaborative-wsi-annotation-superior-senior-students.md) [+W] — attached 2026-11-09 from Sahota Michael et al. (2016), which proposed "Deploy collaborative annotation of microscopic images for learners with sufficient background knowledge of the discipline"; tests this page's relationship.
 - [More dyad than single-practice trainees achieved OSAUS scores above the pass/fail standard on the clinical transfer test](../claims/dyad-higher-transfer-pass-rate.md) [+W] — attached 2026-11-09 from Tolsgaard MG et al. (2015), which proposed "Use dyad practice in early simulation-based training to lower time and monetary costs without compromising skills transfer"; tests this page's relationship.
+- [Dyads instructed to jointly explain requested bottom-out hints at a lower rate than individual self-explainers in the Andes physics tutor](../claims/joint-explanation-lower-bottom-out-hint-rate.md) [+W] — attached 2026-11-18 from Robert G.M. Hausmann et al. (2008), which proposed "Combine proven learning situations to build learning environments that go beyond the independent contributions of each single strategy".
+- [Collaborative learning courses produced gains 3.06 percentage points larger than lecture-based courses for all demographic groups, achieving Equity of Individuality with proportional improvements of 20.1% to 30.8%](../claims/collaborative-learning-equity-of-individuality.md) [+W] — attached 2026-11-18 from Van Dusen et al. (2019), which proposed "Collaborative learning raises gains for all groups but must be paired with addressing student power differentials to achieve equitable outcomes"; tests this page's relationship.
+- [In the first analyzed group, speaking-time distribution was rated semi-equitable with three instances of one member speaking at least twice as much as a group mate](../claims/group1-semiequitable-speaking-time.md) [~W] — attached 2026-11-18 from Ben Archibeque et al. (2017), which proposed "Use a two-times speaking-time threshold to flag potential oppression in small groups".
+- [The second analyzed group was rated inequitable in total speaking time, with the largest difference over nine times larger](../claims/group2-inequitable-speaking-time.md) [~W] — attached 2026-11-18 from Ben Archibeque et al. (2017), which proposed "Use a two-times speaking-time threshold to flag potential oppression in small groups".
 
 ## Objective and learner-valued goal
 

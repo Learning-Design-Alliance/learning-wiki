@@ -49,6 +49,7 @@ A service-learning course at Pace University, offered to undergraduates with no 
 
 - [Well-structured PS course design pattern: problem-led lectures integrated with guided practice labs](problem-led-lecture-lab-integration.md)
 - [Technical mathematics course structure combining expert modeling lectures with collaborative workshop sessions](modeling-lectures-plus-collaborative-workshop-sessions.md)
+- [Seven-pillar capacity-building program combining collaborative problem-solving, technical skills, mentoring, and micro-credentialing](seven-pillar-stem-capacity-building-program.md)
 
 ## Examples
 -

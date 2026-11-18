@@ -49,7 +49,8 @@ PHYS 170 is Yale's calculus-based first-semester introductory physics for the li
 - [Phys170 Increased Relevance Belief](../claims/phys170-increased-relevance-belief.md) [+M]
 
 ## Related Designs
-- 
+
+- [Studio-format IPLS course adapting Modeling Instruction discursive structures and positioning life-science students as experts](ipls-studio-course-positioning-students-as-experts.md)
 
 ## Examples
 -

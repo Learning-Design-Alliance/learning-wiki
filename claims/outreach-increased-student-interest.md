@@ -50,3 +50,4 @@ Authors' informal evaluation (Section V) drawing on discussions and survey forms
 - [Teenagers learn key network-science material quickly, requiring impromptu extension activities in outreach sessions](students-learn-network-material-quickly.md) — related
 - [Adapted network-science outreach activities for Spanish teenagers succeeded in transmitting basic network-science concepts, with student poll responses all A or B](outreach-network-science-transmitted-concepts.md) — related
 - [Participation in the NetSci High outreach program had a significant impact on students' understanding of networks and on their data-science, academic, and professional skills, per the program's summative assessments](netsci-high-summative-impact-skills.md) — related
+- [A sustained five-session outreach programme stimulated self-reported interest in science among 54–64% of sixth-form participants](sustained-outreach-stimulated-interest-science.md) — related

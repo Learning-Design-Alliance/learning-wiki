@@ -71,3 +71,7 @@ Formative assessment works because it converts assessment from a measurement eve
 - Skill and procedure refinement: identifying and correcting errors before they consolidate
 - Conceptual understanding: surfacing misconceptions while they are still revisable
 - Self-regulation: building learners' capacity to judge their own work against criteria ([Self-Regulated
+
+## Related Strategies
+
+- [Use oral exams with instructor hints to assess conceptual understanding, problem-solving and scientific communication while eliciting rich semiotic coordination](oral-exams-eliciting-semiotic-coordination.md)

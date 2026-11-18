@@ -64,3 +64,6 @@ Computational evaluation on behavior trace data from 168 middle school students 
 - [Machine learning models can predict SRL-use categories early in students' interactions with accuracy significantly above baseline](ml-models-predict-srl-early.md) — related
 - [Random Forest is the best-performing classification model for predicting postgraduate public health students' CGPA category, with 71.43% accuracy and AUC 0.87](random-forest-best-classifier-ap.md) — related
 - [A linear support vector machine using 4 performance metrics classified skilled versus novice participants in a virtual reality brain tumor resection task with 92% accuracy, 100% sensitivity and 82% specificity](svm-classifies-skilled-novice-vr-neurosurgery-92-accuracy.md) — related
+- [An LSTM using raw click features significantly outperforms SVM baselines at predicting final grades within the algebra course](lstm-outperforms-svm-grade-prediction-raw-clicks.md) — related
+- [Random forest and support vector machine models also failed to beat chance when predicting laboratory performance, supporting the null result](rf-svm-also-fail-beat-chance-lab-performance.md) — related
+- [Model results are robust to varying training fraction and number of trees, but the highest-physics-degree factor is only marginally meaningful](hyperparameter-robustness-variable-importance.md) — related

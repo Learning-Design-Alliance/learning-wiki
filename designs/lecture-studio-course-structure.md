@@ -44,7 +44,8 @@ The Lecture/Studio format is a hybrid of the traditional lecture/lab/recitation 
 - [Ipls Biological Focus No Fci Decrease](../claims/ipls-biological-focus-no-fci-decrease.md) [+M]
 
 ## Related Designs
-- 
+
+- [Studio-format IPLS course adapting Modeling Instruction discursive structures and positioning life-science students as experts](ipls-studio-course-positioning-students-as-experts.md)
 
 ## Examples
 -

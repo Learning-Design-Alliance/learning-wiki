@@ -68,3 +68,4 @@ Gender-split 3-way ANCOVAs on the N = 3481 matched subsample, controlling for pr
 - [The postinstruction advantage of skills-focused courses was larger for women, large enough to eliminate or reverse the typical gender gap in adjusted means](skills-focus-advantage-larger-for-women.md) — related
 - [Gender is a significant predictor of post-instruction E-CLASS means in Traditional courses only, with men's adjusted means higher than women's](gender-predictor-traditional-courses-only.md) — related
 - [No interaction between lab-activity type and course level, major, or gender on postinstruction E-CLASS scores](no-interaction-open-ended-eclass.md) — reports the opposite
+- [In traditional guided-verification physics labs, no gender difference appears in the distribution of behaviour profiles](no-gender-difference-traditional-labs.md) — reports the opposite

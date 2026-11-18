@@ -48,3 +48,4 @@ Correlational analysis comparing MWCS and VASS scores per student across the Sol
 - [VASS attitude classifications can be grouped into folk, transitional, and expert profiles using percent expert-like response](vass-three-profile-classification.md) — related
 - [PBL instruction produces a larger shift toward physics expert-like attitude than traditional instruction among secondary students](pbl-greater-expert-like-attitude-shift-than-traditional.md) — related
 - [No statistically significant gender difference in students' attitudes towards physics at pre- or post-test](no-gender-difference-physics-attitude.md) — related
+- [Attitude and motivation towards learning physics show a high positive correlation among the 446 students](high-positive-correlation-attitude-motivation-physics.md) — related

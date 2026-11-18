@@ -47,3 +47,4 @@ Análisis de las respuestas de la prueba piloto a las preguntas 1 y 2 del cuesti
 
 ## Related Claims
 - [Los estudiantes de secundaria tienen dificultades persistentes para reconocer los cambios observables en el movimiento aparente del Sol y los momentos singulares del año](students-difficulties-solar-movement-observable-changes.md) — related
+- [Las ideas previas sobre fenómenos astronómicos persisten en la escuela secundaria y afectan también a estudiantes de magisterio y a profesores en actividad](prior-ideas-persist-secondary-teachers.md) — related

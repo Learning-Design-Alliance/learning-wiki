@@ -9,11 +9,11 @@ generated:
   at: 2026-09-26
 evidence_strength: weak
 newest_evidence: 2018
-source_checked: 2026-11-05
+source_checked: 2026-11-18
 sources:
   - id: chorianopoulos-2018
-    resource: "https://www.irrodl.org/"
-    title: "Chorianopoulos, K. (2018). A Taxonomy of Asynchronous Instructional Video Styles. International Review of Research in Open and Distributed Learning, 19(1). https://www.irrodl.org/"
+    resource: "https://doi.org/10.19173/irrodl.v19i1.2920"
+    title: "Chorianopoulos, K. (2018). A Taxonomy of Asynchronous Instructional Video Styles. International Review of Research in Open and Distributed Learning, 19(1). https://www.irrodl.org/. [doi:10.19173/irrodl.v19i1.2920](https://doi.org/10.19173/irrodl.v19i1.2920)"
     author: Chorianopoulos, K.
     q: 2
     i: "?"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
@@ -35,7 +35,7 @@ sources:
 
 ### Chorianopoulos 2018
 
-Chorianopoulos, K. (2018). A Taxonomy of Asynchronous Instructional Video Styles. International Review of Research in Open and Distributed Learning, 19(1). https://www.irrodl.org/
+Chorianopoulos, K. (2018). A Taxonomy of Asynchronous Instructional Video Styles. International Review of Research in Open and Distributed Learning, 19(1). https://www.irrodl.org/. [doi:10.19173/irrodl.v19i1.2920](https://doi.org/10.19173/irrodl.v19i1.2920)
 
 `q2 · i?` · `review · r2`
 

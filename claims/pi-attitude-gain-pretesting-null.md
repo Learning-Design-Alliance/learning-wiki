@@ -60,3 +60,4 @@ Descriptive analysis (means, standard deviations, mean gains) of SADQ scores in 
 - [The experimental and control groups were equivalent on all four environmental literacy dimensions at pre-test](pretest-equivalence-environmental-literacy-groups.md) — related
 - [The non-pretested Advance Organizer group (E2) scored significantly higher than the pretested one (E1) on the post-test](e2-outperformed-e1-posttest.md) — related
 - [The 7E instructional model improved positive attitudes toward communication skills but did not significantly change negative attitudes](7e-model-positive-communication-attitudes.md) — related
+- [The developed application met the 80/80 efficiency standard with during-lesson and posttest performance of 89.07/91.84](place-value-app-efficiency-89-91-exceeds-80-80.md) — related

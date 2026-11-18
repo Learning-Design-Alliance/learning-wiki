@@ -71,3 +71,4 @@ Line-by-line analysis of transcribed dialogue for two event types: isolation of 
 - [The Socially Mediated Metacognition Framework coding scheme adequately captures students' metacognitive interactions during circuit troubleshooting](smmf-suitable-for-troubleshooting-analysis.md) — related
 - [Collaborative negotiation about whether and when to move between modeling phases lies beyond the scope of the EMF](phase-navigation-negotiation-beyond-emf.md) — related
 - [Student pairs’ component replacements followed an order pattern: all pairs replaced the 100 Ω resistor, all-but-one replaced the faulty op-amp, and the resistor was always replaced before the op-amp, mostly during problem formulation.](repair-order-resistor-before-op-amp.md) — related
+- [Different phases of circuit troubleshooting correspond to different combinations of modeling subtasks](troubleshooting-phases-modeling-subtasks.md) — a narrower finding that bears on this claim

@@ -54,3 +54,4 @@ One-mode SNA of aggregate networks over four weeks for 22 students per group, co
 - [The number of cliques in the forum interaction networks increased dramatically by the third iteration, while cohesion within cliques decreased](clique-numbers-increase-cohesion-decreases.md) — related
 - [Cognitive presence appears in 46% and social presence in 45% of VR learning studies, each tied to distinct task families](cognitive-social-presence-frequencies.md) — related
 - [VR design review simulation improves construction students' error detection compared with 2D drawings](vr-design-review-improves-error-detection.md) — related
+- [Aggregate classroom network integration measures (density and average path length) show no difference between day 2 and day 7 of the program](no-change-network-integration-impress.md) — related

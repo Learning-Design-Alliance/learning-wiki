@@ -50,3 +50,4 @@ The study's reported finding, as stated in the article's abstract, is that "stud
 - [Students integrating QR-code AR into their learning reported no technical issues, attributed to alpha-generation technology familiarity](qr-code-ar-no-technical-issues-alpha-generation.md) — related
 - [The effect of mobile game-based learning on learners' engagement and achievement is still to be documented in research](mgb-engagement-achievement-undocumented.md) — a broader claim this one bears on
 - [Students in the Bidirectional QR-code SLE receive significantly higher completeness scores than students in the Traditional SLE](bidirectional-sle-higher-completeness.md)
+- [Augmented reality can be implemented in education via three methods: marker position, geolocation, and QR-code](ar-three-implementation-methods-marker-geolocation-qr.md) — a broader claim this one bears on

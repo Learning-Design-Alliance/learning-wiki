@@ -69,3 +69,4 @@ Bonferroni-corrected paired post hoc tests: neither group's decline reached corr
 - [Dictionary-based SEANCE features yielded 21 nominally significant within-person associations with wearable outcomes, but none survived Bonferroni or FDR correction](seance-nominal-associations-no-survivors.md) — related
 - [In Experiment 3, the reminder × interference interaction on story recall was significant but no pairwise comparison survived Bonferroni correction](exp3-recall-interaction-nonsignificant-simple-effects.md) — related
 - [Guidance, immediate feedback, and system-directed control showed unadjusted moderator signals that did not survive multiplicity adjustment, making them hypothesis-generating only](design-moderators-unadjusted-only-hypothesis-generating.md) — related
+- [Mean physics anxiety scores do not change significantly from pre to post in the active-learning course, though individual students shift](no-mean-anxiety-change-pre-post.md) — related

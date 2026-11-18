@@ -51,6 +51,7 @@ Each computational assignment contained a test case: "an initial problem was pos
 - [Sequence the computational project with an early submittable first part and analytical debug cases so students recover from bugs before later physics-focused parts](staged-submission-with-analytical-debug-cases.md)
 - [Provide ready-made integrated conceptual and quantitative problems as homework in graduate core courses](strategy-integrated-conceptual-quantitative-problems.md)
 - [Design all introductory computational assignments to be completable in spreadsheets so students without programming background can participate.](spreadsheet-first-computational-assignments-strategy.md)
+- [Integrate computation in science classes with tasks beyond procedural programming use, and ensure students have sufficiently strong computational foundations](computation-beyond-procedural-use-strategy.md)
 
 ## Examples
 -

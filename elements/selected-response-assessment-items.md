@@ -131,6 +131,7 @@ Other common item-writing mistakes cut across formats: unclear wording (leaving 
 - A multiple-choice item testing application of the "law of diminishing returns" concept via a novel scenario, versus one merely testing recall of the definition
 - [Sequence retrieval practice from less effortful item types (multiple choice, factual) to more effortful ones (short answer, applied) as learners reach mastery](../strategies/sequence-practice-easy-to-difficult-item-types.md)
 - [Use true-false examinations with immediate self-correction and public display of scores as a time-saving teaching and assessment routine](../strategies/true-false-immediate-correction-display-strategy.md)
+- [Design multiple-choice self-training questions with at least six answers, distractor groups based on common mistakes, and negative points for wrong answers](../strategies/sst-question-design-six-answers-negative-points.md)
 
 ## Key Sources
 - Linn, R. L., & Miller, M. D. (2005). *Measurement and assessment in teaching* (9th ed.). Pearson.

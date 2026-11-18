@@ -159,6 +159,7 @@ Correct procedures, conceptual understanding, recall of a correction and comfort
 - [Tool-supported workflow for identifying, clustering, and visualizing common modelling mistakes as bug fixing transformations](../research-methods/tool-supported-workflow-for-identifying-clustering-and-visualizing-common-modelling-mistak.md)
 - [After instruction, have students practice designing deliberately invalid experiments, explain and correct their own errors, and optionally exchange designs with peers for spot-explain-fix discussion](../strategies/practice-designing-deliberately-invalid-experiments-strategy.md)
 - [Use VSA error analysis to derive learning points for clinical teachers, such as teaching judicious, step-wise use of investigations](../strategies/vsa-error-analysis-learning-points-strategy.md)
+- [Design multiple-choice self-training questions with at least six answers, distractor groups based on common mistakes, and negative points for wrong answers](../strategies/sst-question-design-six-answers-negative-points.md)
 
 ## Key Sources
 - Metcalfe, J. (2017). Learning from errors. *Annual Review of Psychology, 68*, 465–489. [https://doi.org/10.1146/annurev-psych-010416-044022](https://doi.org/10.1146/annurev-psych-010416-044022)

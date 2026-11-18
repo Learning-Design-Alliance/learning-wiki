@@ -44,6 +44,7 @@ The article recommends that "ontology development must play a key role for the f
 
 - [Archive theories and best practices as ways of goal-decomposition in an ontology-engineered database](archive-theories-as-goal-decompositions-strategy.md)
 - [Advance ontology development as an evidence-based engineering activity: validate quality parameters empirically, build an easy-to-use metrics toolbox, and change developer behaviour incrementally](evidence-based-ontology-development-research-agenda.md)
+- [Future improvements: expand domains and corpus, restructure data files, and build education-domain WordNet-like ontologies](education-domain-ontology-future-work.md)
 
 ## Examples
 -

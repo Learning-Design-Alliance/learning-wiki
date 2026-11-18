@@ -40,7 +40,8 @@ In the transformed course, the laboratory notebook was enhanced and served as "t
 - 
 
 ## Related Designs
-- 
+
+- [Transformed introductory lab course design: shared unknown-outcome activities with group work, prediction, uncertainty use, and electronic lab notebooks](transformed-lab-shared-unknown-outcome-activities.md)
 
 ## Examples
 -

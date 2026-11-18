@@ -52,3 +52,4 @@ Controlled randomized treatment study in calculus-based freshman physics at OSU:
 - [AR and 2D methods boosted knowledge similarly, but the 3D AR method drew greater satisfaction and student preference (Lopez et al.)](lopez-ar-similar-knowledge-higher-satisfaction.md) — related
 - [Students report significantly higher enjoyment and perceived helpfulness for the VR treatment than for video and static image treatments](student-preference-for-vr-enjoyment-helpfulness.md) — related
 - [Pre-post gains show a significant gender difference favoring men in the VR treatment only, not in the video or image treatments](vr-gender-gap-men-larger-gains.md) — related
+- [The review reports, citing Salzman et al., that students using the MaxwellWorld immersive VR system developed significantly better understanding of electrostatic concepts than students using a 2-D application](maxwellworld-vr-better-electrostatic-understanding-than-emfield.md) — related

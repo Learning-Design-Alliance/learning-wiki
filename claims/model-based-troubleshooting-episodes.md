@@ -50,3 +50,4 @@ Qualitative coding of think-aloud interviews: troubleshooting was coded when stu
 - [Students in an upper-division physics lab engage in meaningful modeling of measurement tools, not just knob-turning](students-meaningfully-model-measurement-tools.md) — related
 - [Students developed AI understanding by reasoning about how physical setup and environmental conditions affect sensor perception and machine learning data quality](physical-setup-reasoning-builds-ai-understanding.md) — related
 - [Students engage in model-based reasoning throughout the troubleshooting process, with EMF phases interacting within a troubleshooting cycle](students-model-based-reasoning-throughout-troubleshooting.md) — related
+- [Think-aloud interviews validate the framework's focus on measurement system models](think-aloud-validation-measurement-system-models.md) — related

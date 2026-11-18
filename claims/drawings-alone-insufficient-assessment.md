@@ -49,3 +49,4 @@ Interpretation of a student's answer to situation d) (Figure 13b), where a carel
 - [Most students judge written corrective feedback alone insufficient and want accompanying metalinguistic explanation](wcf-alone-insufficient-need-metalinguistic-explanation.md) — related
 - [The animation advantage is largest when instruction includes no accompanying text](animation-advantage-largest-without-accompanying-text.md) — related
 - [Students' graphical responses to a follow-up question often ignored the result they had just derived minutes earlier](followup-question-ignored-derived-result.md) — related
+- [The RBP protocol's subjectivity and imprecision compel monitors to rely on background knowledge and personal experience, and its scales can mislead](rbp-protocol-interpretation-challenges.md) — related

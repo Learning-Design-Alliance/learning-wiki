@@ -12,7 +12,7 @@ generated:
 # Goal Orientation Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 70 claims (50 for, 20 mixed) · 36 studies (22 associational, 6 causal, 3 quant-synthesis, 3 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 36 report an effect size · 70 claims rest on one study
+> **Evidence** · 71 claims (50 for, 21 mixed) · 37 studies (23 associational, 6 causal, 3 quant-synthesis, 3 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 37 report an effect size · 71 claims rest on one study
 
 ## Description
 Goal setting is itself a key motivational process (Locke & Latham, 1984, 2006) — the goals learners choose, and how committed they are to attaining them, shape motivation to learn (Wentzel, 2000). But beyond goal *content* (what a learner wants to achieve), goal orientation theory argues that the *reason* a learner pursues a goal has its own independent effect on learning and performance, explaining differences in how individuals approach and respond to achievement situations (Ames & Archer, 1988; Meece, Anderman, & Anderman, 2006).
@@ -131,6 +131,7 @@ Because mastery-approach goals reliably support the more sustained, thoughtful l
 - [Performance-approach goal orientation predicts low frustration tolerance among medical students, while performance-avoidance adds little](../claims/performance-approach-goals-predict-low-frustration-tolerance.md) [~W] — attached 2026-11-10 from Madjar Nir et al. (2012), which proposed "Goal orientation theory: motivation defined by mastery, performance-approach and performance-avoidance goals".
 - [Overall epistemic game frequency showed only a small effect of learning orientation or group dynamic in the F15 class](../claims/small-effect-orientation-dynamic-game-frequency.md) [~W] — attached 2026-11-17 from Andrew J. Mason et al. (2015), which proposed "Three learning orientations toward the group problem solving exercise"; tests this page's relationship.
 - [Biology and Health Science majors showed similar learning-orientation distributions, while other Natural Science majors were almost entirely Performance- or Vague-oriented](../claims/other-ns-majors-performance-vague-oriented.md) [~W] — attached 2026-11-18 from Charles A. Bertram et al. (2017), which proposed "Three-category taxonomy of students' learning orientations toward a problem solving exercise: Framework, Performance, and Vague".
+- [Learning orientations show no differences on FCI posttest scores or overall course grades within the single-course scope](../claims/learning-orientation-no-fci-grade-difference.md) [~W] — attached 2026-11-18 from Mason et al. (2017), which proposed "Learning-orientation taxonomy (Framework / Performance / Vague) mapping mastery and performance achievement goals onto a single-course problem-solving context"; tests this page's relationship.
 
 ## The evidence by question
 

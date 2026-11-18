@@ -49,3 +49,4 @@ Author's own limitation statement in Part 5.2. The article also lists authentici
 - [Formal theory offers advantages over common sense for guiding implementation, but empirical evidence of effectiveness is lacking](formal-theory-advantages-over-common-sense.md) — related
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — related
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
+- [Course design and participatory structures can impact a student's sense of relevance with lasting effects after the course](course-design-participatory-structures-impact-relevance-nicole.md) — related

@@ -50,3 +50,4 @@ Within-group pre-post comparison for the 21 multimedia-taught experimental stude
 - [Control and experimental groups did not differ significantly in pre-test attitude towards mathematics after homogeneity matching](matched-groups-no-pretest-attitude-difference.md) — related
 - [At post-test, the e-learning experimental group significantly outperformed the control group in attitude toward physics](e-learning-outperforms-control-attitude.md) — related
 - [Project based learning has a positive effect on students' attitudes towards classification of organisms](pbl-positive-attitude-classification.md) — related
+- [No significant difference between attitude and motivation scores of the respondents towards learning physics](no-significant-difference-attitude-versus-motivation-guido.md) — related

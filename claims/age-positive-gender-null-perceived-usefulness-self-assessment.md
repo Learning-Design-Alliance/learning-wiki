@@ -68,3 +68,4 @@ Review synthesis across five studies of individual factors: "No study reported a
 
 ## Related Claims
 - [The usefulness of app components varied by child's age: conversation starters were too advanced for some younger children but helpful for older children](component-usefulness-varies-by-child-age.md) — related
+- [Student perception of being too young to understand Einsteinian physics varied by age, with 56% of 5-9 year olds agreeing and 56% of 10-14 year olds disagreeing](age-dependence-too-young-perception.md) — related

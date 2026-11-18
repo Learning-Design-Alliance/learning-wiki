@@ -69,3 +69,4 @@ Thematic analysis identified absence of formal administrative support as a theme
 - [Faculty reluctance and limited expertise are common challenges in implementing IPE, which can harm interprofessional relationships if poorly planned](faculty-reluctance-ipe-challenge.md) — related
 - [Opportunities to strengthen interprofessional socialisation include enhanced institutional support, opportunities for socialisation and more collaboration](opportunities-to-strengthen-interprofessional-socialisation.md) — related
 - [Local departmental culture is a leading barrier to establishing simulation-based training in emergency departments](local-culture-barrier-ed-sbt.md) — related
+- [Institutional IT departments and policies form a barrier specific to integrating computation, as instructors may need server access and support that IT does not provide](it-department-barrier-computation.md) — related

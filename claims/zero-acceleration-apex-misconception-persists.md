@@ -49,3 +49,4 @@ Item-level pre-posttest analysis in the discussion section. The article reports 
 - [Application items on higher initial velocity and lower gravitational acceleration showed near-zero and negative gains (Q7 +4%, Q8 -10%)](tracker-q7-q8-application-items-not-improved.md) — related
 - [Probeware affords measurement of acceleration at the cart's highest point after an upward push, permitting the fallacy that acceleration is zero there to be addressed](probeware-turning-point-acceleration-affordance.md) — related
 - [The zero-velocity/zero-acceleration misconception at maximum height was virtually absent in this sample](absence-zero-velocity-acceleration-misconception.md) — reports the opposite
+- [Constructing timelike geodesics on a spacetime sector model shows that free-fall geodesics produce the expected up-and-down motion in space](sector-model-timelike-geodesics-free-fall.md) — related

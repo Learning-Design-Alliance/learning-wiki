@@ -80,3 +80,4 @@ One-way ANCOVA in the six-week quasi-experiment (final sample 94 students; EG n 
 - [Practical competencies-oriented teaching materials with supplementary local cases produce significantly better learning achievement than traditional lecture in a Human Resource Management unit](practical-competencies-materials-improve-learning-achievement.md) — related
 - [Inquiry-based learning yields greater achievement gains than traditional teaching in a 7th-grade science and technology course](inquiry-greater-achievement-gains-than-traditional.md) — related
 - [Material resources in schools are a necessary but non-sufficient condition for effective ICT integration; an active and dynamic methodological approach must also be implemented.](escuela2-material-resources-insufficient.md) — related
+- [A single Sage worksheet resource can combine theoretical information with interactive examples of its practical application](sage-worksheet-theory-plus-interactive-examples.md) — related

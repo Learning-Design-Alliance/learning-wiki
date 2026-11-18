@@ -56,3 +56,4 @@ The chapter's response is to [design adaptive, reflexive structures at macro, me
 - [Dispositions such as openness and shared responsibility are shaped by conditions, not fixed individual traits](dispositions-shaped-by-conditions.md) — related
 - [Types of agency interact at micro, meso and macro levels, and their combination expresses agency at increasing scales](agency-interaction-micro-meso-macro.md) — a narrower finding that bears on this claim
 - [Institutional (macro) sources currently provide the highest level of SoTL support in CSD, with programs (meso) providing the fewest](macro-level-highest-sotl-support-csd.md) — a narrower finding that bears on this claim
+- [Digital game based learning should be analyzed at the micro level of learning and game mechanics rather than at the macro level of the game as a whole](micro-level-mechanics-analysis-dgbl.md) — related

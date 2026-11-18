@@ -50,6 +50,7 @@ The article recommends deploying LAs in inquiry-based group work so that groups 
 - [Give Hints and Clues to Help Students Answer Questions](give_hints_and_clues_to_help_students_answer_questions.md)
 - [Design chatbots that begin with guided inquiry and progressively provide explicit guidance when students remain stuck](chatbots-guided-inquiry-then-explicit-guidance.md)
 - [Use asynchronous AI tutoring for students' first engagement with challenging material, reserving class time for higher-order skills](ai-tutor-first-exposure-flipped-strategy.md)
+- [Deploy learning assistants in environments conducive to small-group collaborative work, such as labs and recitations](deploy-las-in-labs-and-recitations.md)
 
 ## Examples
 -

@@ -75,3 +75,4 @@ Tutor interview data in the communication skills subtheme; tutors reported impro
 - [Educators redefined AI's educational role from answer provider to learning partner and tutor supporting conceptual understanding](ai-learning-partner-tutor-redefinition.md) — related
 - [Staff and students reported that PBL developed critical thinking, academic writing, communication and problem-solving skills, including IUHPE competencies](pbl-develops-critical-thinking-communication-iuhpe-competencies.md) — related
 - [Peer review in the course served a dual role: improving writing and acting as a method for learning and understanding the material](peer-review-dual-role-writing-and-understanding.md) — related
+- [Long program timescale lets students get stuck and teaches patience and perseverance, and supports mentor development](srmp-long-timescale-benefit.md) — related

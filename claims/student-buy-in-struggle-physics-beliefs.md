@@ -52,3 +52,4 @@ The column's argument for obtaining student buy-in, citing Redish, Steinberg and
 - [Students are not blank slates: naive conceptions from everyday experience can interfere with physics learning, so instructors should assess initial knowledge and build on it](prior-knowledge-naive-conceptions-physics.md) — related
 - [Specific observable mindset-signaling behaviors have been identified that convey peers' implicit beliefs about ability](mindset-signaling-behaviors-identified.md) — related
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — related
+- [A life-science student with initially high physics anxiety can come to report using physics to reason through everyday phenomena, contrasting the common deterioration of relevance beliefs](contrasting-case-student-finds-physics-relevant-in-daily-life.md) — related

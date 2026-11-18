@@ -54,3 +54,4 @@ The review reports this as background literature, citing reference 24 (a systema
 - [Neurosurgical simulation models across 18 included studies received favourable face validity ratings for visual realism, but haptic realism was a key limitation](neurosurgical-simulation-face-validity-visual-favourable-haptic-limited.md) — related
 - [VR neurosurgical simulators show favourable visual realism but low haptic fidelity, with only 12% of participants in one study agreeing haptics were realistic](vr-neurosurgical-simulators-low-haptic-fidelity.md) — related
 - [VR-based surgical simulation addresses the non-reusable and expensive nature of physical oral implant training materials](vr-simulation-avoids-physical-material-waste.md) — related
+- [The review reports, citing Imam and Jarus, that stroke rehabilitation VR interventions showed significant improvement in outcomes favouring the VR group over control](vr-stroke-rehabilitation-outcomes-favour-vr-group.md) — related

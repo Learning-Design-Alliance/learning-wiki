@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 708 claims (380 show a difference, 166 mixed, 162 no difference) · 495 studies (260 associational, 172 causal, 20 review, 18 quant-synthesis, 12 design, 8 theoretical, 5 qualitative), `q1`–`q4` · 71 of 495 report an effect size · 700 claims rest on one study
+> **Evidence** · 717 claims (387 show a difference, 168 mixed, 162 no difference) · 500 studies (262 associational, 173 causal, 21 review, 18 quant-synthesis, 13 design, 8 theoretical, 5 qualitative), `q1`–`q4` · 71 of 500 report an effect size · 709 claims rest on one study
 
 ## How to read this page
 
@@ -747,6 +747,15 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Neither multiple-choice format nor scaffolding level sufficiently explains the physics gender gap](../claims/neither-mc-nor-scaffolding-explains-gender-gap.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The only significantly female-biased iCMA questions involve careful reading, with small bias magnitude](../claims/female-bias-careful-reading-questions.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Performance gaps by gender and race/ethnicity in introductory physics are similar in size and widen from pretest to posttest](../claims/physics-equity-gaps-widen-pre-post.md) [+M] — an instructional effect differs by group
+- [After controlling for pretest scores, White and Hispanic female students had significantly lower gains than male peers, while Asian, Black, and Pacific Islander female students had gains similar to male peers](../claims/intersectional-gain-differences-college-physics.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female students leave more problems blank than male students, a small but significant difference](../claims/females-leave-more-blanks-than-males.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Girls dissociate their gender from cleverness by age 6, and by age 10-11 STEM loses the interest of girls who already believe a science career is not for them](../claims/girls-dissociate-cleverness-age-six.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [In the Pipeline to Technology study, minority and women undergraduates demonstrated technical skill mastery but lacked STEM self-efficacy, pointing to low workforce access as a causal influence on low participation](../claims/pipeline-to-technology-mastery-without-self-efficacy.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Intervention programs like AAUW, Girl Scouts, Girls Inc., Tech Bridge and Girls Who Code contributed to evening out gender ratios in US high school science and math classes in the 1990s-2010s](../claims/after-school-stem-programs-evened-ratios.md) [+M] — the gap was measured as an outcome of the instruction studied
+- [MIT mechanical engineering reached near gender parity (49.5% women in 2017) through deliberate structural interventions including recruitment programs, hiring women faculty, and curriculum modernization](../claims/mit-mechanical-engineering-gender-parity-interventions.md) [+M] — the gap was measured as an outcome of the instruction studied
+- [The flipped classroom significantly reduced, but did not eliminate, the gender gap in introductory physics performance](../claims/flipped-classroom-reduced-gender-gap.md) [~M] — an instructional effect differs by group
+- [Women represent only 12% of US innovators, and the average US-born male is nine times more likely to contribute to an innovation than the average female](../claims/us-women-innovators-twelve-percent.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Women rejected by an employer are 1.5 times less likely than men to apply to another job opening by the same employer](../claims/women-rejection-reapplication-gap.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

@@ -57,3 +57,4 @@ Authors' interpretive statement in the framing section on challenges of digitali
 - [The business model of AI in education is usually based on platformization and datafication, with subscription services and data-driven upselling](aied-platformization-datafication-business-model.md) — related
 - [Significant barriers to AI implementation include algorithmic bias, lack of transparency, data privacy concerns, unregulated use, and system limitations](ai-implementation-barriers-medical-education.md) — related
 - [Integrated curricula make physical activity teaching difficult to quantify, though some integrated schools can provide detailed breakdowns](integrated-curricula-pa-teaching-hard-to-quantify.md) — a narrower finding that bears on this claim
+- [The article identifies data protection as the foremost unresolved challenge of a worldwide achievement blockchain](data-protection-foremost-unresolved-challenge.md) — a narrower finding that bears on this claim

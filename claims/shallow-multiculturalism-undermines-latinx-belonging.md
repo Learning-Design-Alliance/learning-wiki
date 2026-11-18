@@ -55,3 +55,4 @@ The review reports, citing Rolón-Dow et al. (2022), focus groups with Latinx un
 - [National racial violence significantly reduced belonging and confidence among Black and Latinx STEM students relative to white peers](national-racial-violence-racialized-belonging-declines.md) — related
 - [Intersectional brilliance stereotypes show mixed patterns, supporting both intersectional invisibility and double jeopardy accounts](intersectional-brilliance-stereotypes-mixed.md) — related
 - [Black women and participants with intersecting identities report being overlooked, facing microaggressions, and experiencing imposter syndrome in tech spaces](intersectional-identity-impact-black-women-tech.md) — related
+- [Hiding one's LGBT+ identity imposes extra emotional effort that saps energy and impacts productivity, according to the Guide's account of isolation and invisibility](identity-concealment-emotional-toll-productivity.md) — related

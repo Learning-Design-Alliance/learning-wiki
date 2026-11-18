@@ -48,3 +48,4 @@ To identify the depth of health informatics needs per role, the authors counted 
 - [A set of invariant competency areas forms the stable core of nursing informatics education across 2018 and 2026](tiger-2026-invariant-core-competency-areas.md) — related
 - [eHealth/EHR and data analytics showed the largest relevance increases from 2018 to 2026](tiger-2026-ehr-data-analytics-largest-increases.md) — related
 - [Each nursing role exhibits a distinct competency pattern, with basic computer literacy and data protection common to all five](tiger-2026-role-specific-competency-patterns.md) — related
+- [Proposed trend-topic courses map strongly onto MÜDEK learning outcomes, with internet of things and identity management/cybersecurity showing the broadest coverage](trend-courses-mudek-outcome-mapping.md) — related

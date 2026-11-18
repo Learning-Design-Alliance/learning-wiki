@@ -46,6 +46,7 @@ An implementable teaching activity: provide answers to sample problems so activi
 - [Reasoning-Focused Instruction](reasoning-focused_instruction.md)
 - [De-emphasize Answers, Emphasize Reasoning](de-emphasize-answers-emphasize-reasoning.md)
 - [Provide feedback in the problem-solving phase to foster negative knowledge and multiple solution attempts](feedback-in-problem-solving-phase-negative-knowledge.md)
+- [Never distribute worked solutions to activity worksheets; offer select answers instead](no-worksheet-solutions-strategy.md)
 
 ## Examples
 -

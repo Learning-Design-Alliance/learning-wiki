@@ -52,3 +52,4 @@ Content analysis of the eight interviews; Table 1 reports both collaboration sub
 - [Teams and teamwork is the most frequently developed IPEC core competency in interprofessional education, identified in 65 instances across 62 studies](ipe-teams-teamwork-most-frequent-competency.md) — related
 - [Saudi nursing students perceived pre-class assignments in flipped learning as deepening their understanding of course content](fl-preclass-assignments-deepened-understanding-nursing.md) — related
 - [Both student groups reported that the inter-professional module fostered mutual respect and provided insight into the other profession's perspective](module-fostered-mutual-understanding.md) — related
+- [Bi-communal astronomy activity days were followed by participant-reported feelings of improved mutual understanding and empathy](columba-hypatia-reported-empathy-after-bicommunal-days.md) — related

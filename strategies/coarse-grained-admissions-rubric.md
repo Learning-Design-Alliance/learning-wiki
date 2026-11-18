@@ -48,6 +48,7 @@ The author describes an admissions rubric his program is developing to replace o
 ## Related Strategies
 
 - [Community-level challenges: reform program admissions practices, reward appropriate practices, and remove the GRE from program rankings](community-challenges-gre-reform.md)
+- [Replace standardized test cutoffs with structured interviews and bridge master's programs in graduate admissions](interviews-replace-gre-cutoffs.md)
 
 ## Examples
 -

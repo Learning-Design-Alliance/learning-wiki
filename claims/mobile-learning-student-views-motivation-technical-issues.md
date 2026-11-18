@@ -65,3 +65,4 @@ Semi-structured interviews with five randomly chosen mobile learning group stude
 - [Technical problems with computers and networks are a downside of e-learning implementation](technical-problems-downside-elearning.md) — related
 - [Students reported high acceptance of the VR suture training system, with 92.31% finding it interesting and useful and 100% valuing anytime access](vr-suture-training-acceptance.md) — related
 - [Students valued desktop VE-based simulation for its accessibility, allowing them to log in anytime and anywhere and to stop and resume sessions](dvsim-accessible-repeatable-practice.md) — related
+- [Mobile learning offers advantages over e-learning in portability, continuous access and interactivity, but faces fragmentation, small screens and high initial costs](mobile-learning-advantages-disadvantages.md) — related

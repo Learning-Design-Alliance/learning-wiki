@@ -39,7 +39,8 @@ A tutorial question in an air-resistance unit asks students to find an equation 
 - [Students Incorrect Minus Sign Ma Term Scalar Equation](../claims/students-incorrect-minus-sign-ma-term-scalar-equation.md) [+M]
 
 ## Related Designs
-- 
+
+- [Coffee-filter terminal-velocity lab activity for comparing linear and drag models](coffee-filter-terminal-velocity-model-comparison-lab.md)
 
 ## Examples
 -

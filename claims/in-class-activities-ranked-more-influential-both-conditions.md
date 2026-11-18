@@ -50,3 +50,4 @@ Survey ranking item (n = 47 nonflipped, 50 flipped): cross-tabulation showed the
 - [Inductive coding of open-ended responses yielded four themes: virtual format issues, work-life balance, influential group dynamics, and improved connection in-person](alg-qualitative-four-themes.md) — related
 - [Students rated the peer-tutoring homework assignments among the most helpful at-home activities, and most TQ students preferred the tutoring portion over the writing portion](tqw-ranked-helpful-at-home-activity.md) — related
 - [Flipped students rated technology-facilitated activities more negatively but saw clearer purpose in activities, with other attitudes equal](flipped-attitudes-technology-negative-purpose-positive.md) — related
+- [The learning activity may be a stronger factor for student learning than the modality of instruction](activity-stronger-factor-than-modality.md) — related

@@ -48,3 +48,4 @@ In the post-test questionnaire of the randomized trial, Table 1 reports items su
 - [3D reconstructed images improved PGY1 surgical residents' imaging-reasoning accuracy versus 2D CT in a randomized controlled trial](3d-images-improve-pgy1-imaging-reasoning.md) — related
 - [A mixed-methods study of orthodontic residents found no significant difference in overall performance across 2D, 3D, and VR surgical simulations, with residents ready to adopt VR](residents-performance-2d-3d-vr-no-difference.md) — related
 - [3D virtual-reality lecture was statistically non-inferior to 2D lecture on knowledge and rated better on spatial understanding and enjoyment (Kockro et al.)](kockro-3d-lecture-noninferior-rated-better.md) — related
+- [The author observes that convolution and correlation are better appreciated with two-dimensional spatial signals than with one-dimensional time signals](2d-spatial-signals-clearer-for-convolution-teaching.md) — related

@@ -52,3 +52,6 @@ The article reports, in its abstract, that "students did not face any technical 
 - [Failures of education technology implementations are attributed to social, psychological, and cultural issues rather than technical shortcomings](edtech-failures-social-psychological-cultural.md) — related
 - [Teachers identified cost, bulky headsets, Wi-Fi connectivity, and technical issues as key challenges to integrating VR into ML2 teaching](vr-challenges-cost-headsets-wifi.md) — related
 - [Despite generational familiarity with technology, students uniformly requested more familiarization with VR hardware and free exploration before managing a virtual patient](students-requested-vr-hardware-familiarization.md) — related
+- [Augmented reality can be implemented in education via three methods: marker position, geolocation, and QR-code](ar-three-implementation-methods-marker-geolocation-qr.md) — related
+- [The article discusses advantages and disadvantages of using QR codes and their application in the learning process, based on summarizing existing research](qr-code-advantages-disadvantages-table.md) — related
+- [The authors conclude that mobile learning is accessible to pupils and students and that QR-code technologies have sufficient potential in physics teaching](qr-codes-sufficient-potential-physics-learning.md) — related

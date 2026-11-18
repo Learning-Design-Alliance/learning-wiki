@@ -41,6 +41,7 @@ The laboratory centers on a sequence of simulations: first, a single narrow slit
 ## Related Strategies
 
 - [Extend the simulation to advanced topics by defining material parameters across the domain](simulation-parameter-extension-topics-strategy.md)
+- [Use single-photon interference videos alongside laser diffraction and soap-film experiments to interpret wave patterns statistically](single-photon-interference-video-approach.md)
 
 ## Examples
 -

@@ -41,6 +41,7 @@ The review presents Gelderman's argument, by comparison to a successful school s
 - [Use extracurricular activities and inclusion-oriented clubs to build cross-group connections, while removing access barriers](extracurricular-shared-goals-cross-group-connections.md)
 - [Before or After-School Physical Activity Programs](before_or_after-school_physical_activity_programs.md)
 - [Design coordination activities as games without losers so all children participate actively](gaming-without-losers-coordination-activities.md)
+- [Refer participants among funnel programs so they can grow while programs focus on new participants](refer-participants-across-funnel-programs.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Qualitative investigation in which 10 of the learners were interviewed and obser
 - [Homework solutions showed experimental students using multiple strategies correctly while control students made additive errors](homework-solutions-show-strategy-and-error-differences.md) — related
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — related
 - [Thematic analysis of teacher interviews identifies barriers to implementation and factors for success](mast-implementation-barriers-success-factors.md) — related
+- [Students spontaneously applied problem-solving strategies to new scenarios or in new ways after being introduced to them](spontaneous-strategy-transfer-new-scenarios.md) — related

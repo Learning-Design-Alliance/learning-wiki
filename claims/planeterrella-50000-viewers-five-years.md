@@ -48,3 +48,4 @@ Descriptive report by the authors across all deployed Planeterrellas (abstract a
 ## Related Claims
 - [The Leicester Planeterrella reached about 20,000 visitors through Auroral Shows supported by four curriculum-linked lesson packs](leicester-planeterrella-20000-visitors-lesson-packs.md) — related
 - [In a small school focus group, 100% agreed the Planeterrella presentation was interesting and science affects everyday life, and 75% wanted to learn more about science careers](planeterrella-focus-group-interest-careers.md) — related
+- [Astronomy topics are among the most interesting science topics for young people](astronomy-topics-high-young-people-interest.md) — related

@@ -52,3 +52,4 @@ Observational comparison of binned SAT Math scores for all SAT takers versus stu
 - [ASTR122 total scores correlate with combined SAT score (R=0.49) and with overall college GPA (Pearson r = 0.65)](astronomy-course-score-correlates-sat-and-gpa.md) — related
 - [Average grades in the calculus-based physics course 25X show an almost identical threshold at SAT-M just below 600](phys-25x-threshold-sat-m-600.md) — related
 - [SAT scores predict upper division in-major GPA with correlations of roughly 0.35 to 0.5 across majors at a broad-range state university](sat-predicts-upper-division-gpa-035-05.md) — related
+- [College One showed a clear increase in AS-level Physics grades versus predicted grades, averaging +0.86 grade per student, as tentative evidence of improved attainment](outreach-tentative-as-grade-improvement.md) — related

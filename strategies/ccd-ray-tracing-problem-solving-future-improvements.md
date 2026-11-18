@@ -52,6 +52,7 @@ The authors foresee computers helping students analyze measurements: a ray traci
 - [Disassemble-and-rebuild consensus task for teaching optical conjugation and relays](ao-rebuild-consensus-design-task.md)
 - [Let students discover telescope drift-scan imaging by switching tracking off](drift-scan-student-discovery-strategy.md)
 - [Mix concept introductions, general discussion and hands-on software tutorials with close support to maximise pupil interaction](mixed-concept-discussion-hands-on-session-design.md)
+- [Use representative optical system simulations alongside geometric and physical optics to teach Fourier optics](representative-optical-simulations-teaching-strategy.md)
 
 ## Examples
 -

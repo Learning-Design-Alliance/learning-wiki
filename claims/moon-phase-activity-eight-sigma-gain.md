@@ -48,3 +48,4 @@ Quasi-experimental pretest/posttest comparison of the Fall 2006 (no laboratories
 ## Related Claims
 - [Questions directly addressed by the night laboratories showed a statistically significant overall improvement (4.1 sigma), which drops to a marginal 1.8 sigma when the outlier moon-phase question is excluded](directly-addressed-objectives-improved.md) — related
 - [Introducing the night laboratories produced no improvement on assessment questions the laboratories did not address](unaddressed-questions-no-improvement.md) — related
+- [Learning gains vary by Moon phases topic but do not differ significantly across conditions](moon-phases-topic-gains-vary-no-condition-differences.md) — related

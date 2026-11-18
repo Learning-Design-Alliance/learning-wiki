@@ -57,3 +57,4 @@ Expert assessment of the model's individual elements on a five-level rating scal
 - [Expert focus group rated the model appropriate at the highest level](expert-evaluation-model-appropriateness.md) — related
 - [Students rated their opinions of learning with the CoBl model at the high agreed level (overall mean 4.23)](cobl-student-opinions-high.md) — related
 - [Expert audit rated the developed model good to very good across appropriateness, possibility, correctness, usefulness and innovation](model-audit-good-to-very-good.md) — related
+- [Five content specialists rated the application's quality at the highest level overall (4.73, S.D. 0.47)](place-value-app-specialist-quality-highest-level.md) — related

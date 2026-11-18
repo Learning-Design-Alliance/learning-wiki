@@ -53,3 +53,4 @@ Discourse analysis of the Bronze group's first sensemaking discussion in Tutoria
 - [A teaching assistant's arrival shifts group behavior to the red cluster, corresponding to framing the activity as listening to the TA](ta-arrival-shifts-framing-to-listening.md) — related
 - [Tutorial groups varied widely in when they first entered collaborative sensemaking, from about 13 minutes to nearly 53 minutes of tutorial time](groups-vary-first-sensemaking-timing.md) — related
 - [Members of a tutorial group occupy shared behavior modes, indicating an emergent group-level framing](group-shared-behavior-modes-emergent-framing.md) — related
+- [Students' transition into a sensemaking frame is accompanied by a verbalized question or statement of uncertainty that names a perceived gap or inconsistency in understanding](question-marks-sensemaking-entry.md) — related

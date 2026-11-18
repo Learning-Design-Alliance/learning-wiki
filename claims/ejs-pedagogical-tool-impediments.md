@@ -48,3 +48,4 @@ Authors' stated impediments section (a type (e) interpretation, not a tested res
 - [Most U.S. schools report teachers are not sufficiently trained to use technology, and half of teachers cite lack of training as a major obstacle](teacher-technology-training-gap.md) — related
 - [Evidence favoring student-centered pedagogy has not translated into widespread faculty adoption, and neither data provision nor workshops has proven sufficient](pedagogical-change-data-workshops-insufficient.md) — a broader claim this one bears on
 - [Teachers in the Singapore OSP community appropriate Open Source Physics resources in three ways: create, adapt, and use](osp-teachers-create-adapt-use.md) — related
+- [Adding computation to a physics course creates a dual teaching burden of teaching the computational skill and the physics lesson it embodies within a fixed semester length](dual-burden-skill-plus-physics-fixed-semester.md) — a narrower finding that bears on this claim

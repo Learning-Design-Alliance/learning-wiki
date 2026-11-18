@@ -41,7 +41,8 @@ The course used Docker container technology so that students on their own machin
 - 
 
 ## Related Designs
-- 
+
+- [Docker containers and JupyterHub to eliminate the software installation step in training](docker-jupyterhub-training-environments.md)
 
 ## Examples
 -

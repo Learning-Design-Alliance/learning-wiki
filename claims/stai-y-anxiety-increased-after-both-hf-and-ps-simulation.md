@@ -53,3 +53,4 @@ Quasi-experimental before-after study of 148 medical students; paired T-test com
 - [Anxiety scores fell significantly from pre-test to post-test after high-fidelity simulation in medical students in both of two consecutive sessions, in a single-group pre-post study](anxiety-decreases-after-high-fidelity-simulation.md) — reports the opposite
 - [Post-simulation state anxiety is significantly higher in the individual simulation group than the peer group](individual-simulation-higher-state-anxiety-after.md) — related
 - [Stress responses during simulation (salivary cortisol, STAI, cognitive appraisal) do not differ between in situ and off-site settings, though simulation itself raised cortisol and STAI in both](iss-oss-stress-no-difference.md) — related
+- [Mean physics anxiety scores do not change significantly from pre to post in the active-learning course, though individual students shift](no-mean-anxiety-change-pre-post.md) — related

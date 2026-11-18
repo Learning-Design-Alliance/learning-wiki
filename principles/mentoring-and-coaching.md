@@ -31,7 +31,7 @@ sources:
 # Mentoring and Coaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 92 claims (52 for, 33 mixed, 7 against) · 71 studies (20 causal, 15 review, 12 associational, 11 qualitative, 6 design, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 7 of 71 report an effect size · 88 claims rest on one study
+> **Evidence** · 93 claims (53 for, 33 mixed, 7 against) · 72 studies (20 causal, 15 review, 12 associational, 12 qualitative, 6 design, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 7 of 72 report an effect size · 89 claims rest on one study
 
 ## Conditional relationship
 
@@ -169,6 +169,7 @@ Claims the earlier page cited that this model does not use, each with a note on 
 - [Assigned mentors can produce superficial mentoring relationships; mentees should instead choose from a list of potential mentors](../claims/assigned-mentors-superficial-relationship.md) [+W] — attached 2026-11-10 from Straus Sharon E et al. (2011), which proposed "Build national research-training capacity by combining structured streams, mentorship grounded in mentorship research, and partnership-based sustainability".
 - [Remote mentoring of young females in STEM was reported to build mentees' skills, confidence, scientific visibility, and career awareness, with a minority reporting discontent](../claims/magic-remote-mentoring-impact-on-mentees.md) [+W] — attached 2026-11-17 from Khare et al. (2013), which proposed "Personalize and scale STEM mentoring for girls through remote one-on-one mentoring rather than face-to-face-only models"; tests this page's relationship.
 - [The authors' mentored projects show high competition placement rates and frequent publication](../claims/mentored-science-project-outcome-rates.md) [+W] — attached 2026-11-17 from Amy Courtney et al. (2013), which proposed "Pair student researchers with a knowledgeable mentor (qualified scientist)".
+- [IT entrepreneurs' desired mentoring support changes across the conception, start-up and growth phases of their entrepreneurial career](../claims/mentoring-support-needs-vary-by-entrepreneurial-phase.md) [+W] — attached 2026-11-18 from Jamshed Memon et al. (2014), which proposed "Match mentors to the entrepreneur's career phase and address problems individually rather than generically".
 
 ## Objective and learner-valued goal
 

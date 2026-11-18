@@ -73,3 +73,4 @@ Review's theoretical interpretation of reported drawbacks: intrusiveness, "messa
 - [Desire to learn and curiosity, anywhere-anytime viewing, doing practice, and occupational relevance were the most prominent motivation-increasing factors](flipped-classroom-motivation-factors.md) — related
 - [Open Teaching can function as a driving strategy in autonomous learning](open-teaching-autonomous-learning-strategy.md) — related
 - [The three pilots shared online technology for mastery pathways, credit for demonstrated mastery, anytime/anywhere learning, and improved data management](proficiency-pilots-shared-design-attributes.md) — related
+- [Mobile learning offers advantages over e-learning in portability, continuous access and interactivity, but faces fragmentation, small screens and high initial costs](mobile-learning-advantages-disadvantages.md) — related

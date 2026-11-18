@@ -91,3 +91,4 @@ The review's synthesis of psychological research on belonging, implicit theories
 - [Programme outcome and experience ratings were moderately associated with self-efficacy, while only learning-from-success-and-failure and goal-thinking items were weakly associated with mindset](self-efficacy-outcome-associations.md) — related
 - [Basic psychological needs positively predict college students' academic self-efficacy](bpn-predict-academic-self-efficacy.md) — related
 - [A \"never quit\" award and reflexive questions created concrete opportunities for preschool children to persevere and develop participation and effort](never-quit-award-preschool-effort.md) — a narrower finding that bears on this claim
+- [In the landscape of college physics challenges, mindset beliefs cannot always be considered the dominant factor in how students respond to challenge](mindset-beliefs-not-always-dominant.md) — a narrower finding that bears on this claim

@@ -76,9 +76,11 @@ Emotions are not noise around learning but causal inputs to it: achievement emot
 6. **Maintain consistency.** Build validation into routine structures such as [Check-Ins](../elements/check-in.md) and [Feedback](../elements/feedback.md) rather than reserving it for crises.
 
 ## Related Strategies
+
 - [Active Listening](active-listening.md) — the listening posture that makes validation accurate rather than formulaic
 - [Action-Oriented Feedback](action-oriented-feedback.md) — validation is the relational precondition for feedback to be acted on
 - [Wise Feedback](wise-feedback.md) — pairs validation of the relationship with explicit high expectations
+- [Explicitly normalize the discomfort of not understanding, and coach participants to ask questions early and often](nitarp-normalize-feeling-stupid-ask-questions.md)
 
 ## Examples
 - **Wise feedback interventions** (Yeager et al., 2014): teachers attached a brief note to critical essay feedback stating they held the student to high standards because they knew the student could meet them — trust in the validator made the criticism usable.

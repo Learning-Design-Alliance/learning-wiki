@@ -56,3 +56,4 @@ Close qualitative discourse analysis of videotaped first discussions of three tu
 - [The instructor's introduction of epistemic distancing helped the group switch from a dismissive approach to deep inquiry](distancing-switches-group-to-inquiry.md) — a narrower finding that bears on this claim
 - [Excessive epistemic distancing led one tutorial group to avoid discussing its ideas in its first tutorial discussion](excessive-distancing-avoids-discussion.md) — a narrower finding that bears on this claim
 - [An instructor's hedged, eye-level rephrasing of a student question opened space for a dismissive tutorial group to offer tentative ideas](hedged-rephrasing-opens-discussion-space.md) — a narrower finding that bears on this claim
+- [Students' transition into a sensemaking frame is accompanied by a verbalized question or statement of uncertainty that names a perceived gap or inconsistency in understanding](question-marks-sensemaking-entry.md) — related

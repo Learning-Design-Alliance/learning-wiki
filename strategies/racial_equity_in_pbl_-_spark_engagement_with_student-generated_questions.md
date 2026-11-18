@@ -66,6 +66,7 @@ Student question generation increases engagement because it builds on authentic 
 - Community-based learning — student questions about their own communities ground projects in authentic local contexts
 - Choice boards — a structure for letting students pursue their prioritized questions through differentiated pathways
 - [Strategies for utilizing emotions to promote learning: spark curiosity via knowledge gaps, foster mastery orientation, transmit enthusiasm, and time emotional events within lessons](utilizing-emotions-to-promote-learning-strategies.md)
+- [Teacher-as-facilitator discussions driven by stimulating questions, with explicit promotion of proper scientific language](facilitator-question-driven-scientific-language.md)
 
 ## Examples
 - **The Question Formulation Technique** ([Right Question Institute](https://rightquestion.org)) — a published protocol used across K–12 and higher education in which students produce, refine, and prioritize questions that then drive lessons and projects; documented in Rothstein & Santana's *Make Just One Change* (2011).

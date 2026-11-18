@@ -47,3 +47,4 @@ Baseline comparison within the same Wagner Consumer Behavior class before the ex
 ## Related Claims
 - [Wagner marketing incubator participants outscored non-participants on end-of-semester critical thinking prompts by 16.95%, significant at the 11% two-tailed level](marketing-incubator-participants-endscore-advantage.md) — related
 - [Wagner students' overall pre-to-post critical thinking prompt gain of 9.8% was not statistically significant](wagner-prepost-gain-not-significant.md) — related
+- [Homework participants scored sensibly higher on the initial level test (0.39 vs 0.31), suggesting self-selection into the scheme](sst-level-test-self-selection-039-vs-031.md) — possibly the same claim (merge candidate)

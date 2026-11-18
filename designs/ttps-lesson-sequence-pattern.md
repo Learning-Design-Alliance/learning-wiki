@@ -46,6 +46,7 @@ The article describes a recurring lesson structure for TTPS on block schedules. 
 
 - [Four-stage CASP-based sequence: lecture with worked examples, individual RCT analysis, instructor feedback, then collaborative group evaluation](casp-four-stage-rct-evaluation-sequence.md)
 - [CLASP discussion/laboratory activity cycle: small-group work on model-based activities, whole-class discussion, and homework integrated into the next DL meeting](clasp-dl-activity-cycle.md)
+- [Lecture-Tutorial implementation pattern: targeted interactive lecture with TPS checks, followed by collaborative in-class worksheet work and a whole-class debrief](lecture-tutorial-implementation-sequence.md)
 
 ## Examples
 -

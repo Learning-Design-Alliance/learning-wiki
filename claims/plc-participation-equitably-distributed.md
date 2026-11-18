@@ -54,3 +54,4 @@ Authors' interpretation of the hierarchical regression results for the 99-studen
 - [Student characteristics such as race and gender identity were not strong predictors of resource-use profile membership; only two pairwise comparisons were significant.](few-demographic-predictors-resource-profiles.md) — related
 - [Demographic variables do not predict peer leaders' critical thinking gains](demographics-not-indicators-ct-gains.md) — related
 - [Reading guides were used similarly across student groups by gender, ethnicity, and aptitude, with demographics contributing to completion in few cases and inconsistently](reading-guide-use-equitable-across-student-groups.md) — related
+- [Demographic characteristics (DHH status and gender) show no apparent impact on students' integration in the classroom interaction network](demographics-no-impact-network-integration.md) — related

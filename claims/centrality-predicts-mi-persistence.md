@@ -52,3 +52,4 @@ Simple logistic regression (persistence ∼ centrality) on SNA survey network da
 - [Closeness at the start of the second semester is predicted by prior participation in MI and by closeness at the end of the first semester](closeness-persists-across-semesters.md) — related
 - [Closeness centrality above an optimized threshold predicts persistence with up to 75% probability of successful inference](closeness-threshold-75-percent-inference.md) — related
 - [Betweenness centrality is never a significant predictor of final grade in the Modeling Instruction classroom](betweenness-never-significant.md) — related
+- [Closeness centrality predicts anxiety shift before but not after false-discovery-rate correction, while outdegree remains significant](closeness-significance-false-discovery.md) — related

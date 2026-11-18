@@ -52,3 +52,4 @@ The editorial reports on the Asterhan and Schwarz study of four classes using an
 - [Learning happens across formal, non-formal and informal settings, face-to-face and online](formal-non-formal-informal-learning-settings-interplay.md) — related
 - [A majority of CMC studies (79%) produced effect sizes favoring CMC, while 21% favored face-to-face or non-computer-mediated communication](cmc-79-percent-positive-21-negative.md) — related
 - [Asynchronous voice-based MMC offers more opportunities for noticing non-target items than synchronous voice MMC](avmmc-more-noticing-than-svmmc.md) — related
+- [Real-time, online-controlled observing sessions foster team-building and synchronous collaborative working among distance learners](real-time-observing-team-building.md) — a narrower finding that bears on this claim

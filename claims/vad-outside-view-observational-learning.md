@@ -9,6 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-18
 sources:
   - id: stefan-a-schreder-2025
     resource: "https://doi.org/10.1007/s11251-025-09716-9"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-18 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants reported learning from observing others' actions and mistakes on video, seeing how actions related to team performance; facilitators observed that most participants mainly focused on their own performance. [→ Stefan A. Schreder 2025](#stefan-a-schreder-2025)

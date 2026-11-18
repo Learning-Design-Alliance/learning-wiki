@@ -48,6 +48,7 @@ The review relays Beaky's four broad principles for undergraduate astronomy rese
 ## Related Designs
 
 - [UM-D, HFC and FAAC partnership facilities and programs](umd-hfc-faac-partnership-element.md)
+- [PIRATE robotic telescope facility for distance-teaching practical astronomy](pirate-remote-telescope-facility.md)
 
 ## Examples
 -

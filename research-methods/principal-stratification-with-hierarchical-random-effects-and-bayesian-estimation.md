@@ -29,7 +29,8 @@ The article develops a framework that models students as a mixture of latent sub
 - [Grant effect is larger for always-applicants (16.1% dropout reduction) than compliant-applicants, whose small effect dilutes the complier effect](../claims/grant-effect-larger-always-applicants.md) [+M]
 
 ## Related Research Methods
--
+
+- [Three-method framework for causal analysis of EdTech log data from RCTs: matching, mediation, and principal stratification](three-method-framework-for-causal-analysis-of-edtech-log-data-from-rcts-matching-mediation.md)
 
 ## Key Sources
 - Avi Feller, Todd Grindal, Luke Miratrix, Lindsay C. Page. (2014). Compared to what? Estimating Causal Effects for Latent Subgroups to Understand Variation in the Impacts of Head Start by Alternate Child Care Setting. SREE Spring 2014 Conference. https://www.sree.org

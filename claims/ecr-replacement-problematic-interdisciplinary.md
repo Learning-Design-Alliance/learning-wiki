@@ -50,3 +50,5 @@ Theoretical argument comparing reconciliation frameworks in the physics educatio
 - [Alternative conceptions persist alongside scientific conceptions and resist change even after instruction](alternative-conceptions-persist-coexist.md) — related
 - [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — reports the opposite
 - [Verification-lab predictions derive from authoritative sources rather than students' own ideas, so students may never confront their misconceptions](verification-lab-predictions-authoritative-source.md) — related
+- [Authoritative science teaching fosters the mistaken idea that truth is easy to arrive at and self-evident](authoritative-teaching-hinders-enquiry.md) — related
+- [Usova held that interdisciplinary teaching influences scientific concept formation](interdisciplinary-teaching-influences-concept-formation.md) — related

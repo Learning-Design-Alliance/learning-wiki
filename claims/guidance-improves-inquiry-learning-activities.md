@@ -77,3 +77,4 @@ Q-test moderator analyses in the same meta-analysis examined whether between-stu
 - [Guidance increases the effectiveness of inquiry-based learning, and all six guidance types were equally effective](guidance-boosts-inquiry-half-sd.md) — related
 - [Teacher Feedback Led to Increased TU Duration by 50 Percent and Two Guidance Levels](teacher-feedback-tu-improvements.md) — related
 - [Guidance improves K–12 students' learning outcomes across inquiry-based practices and STEM domains, but high levels of guidance can harm students with high knowledge or abilities](guidance-improves-k12-inquiry-outcomes-inverted-u.md) — related
+- [Teacher guidance more than doubles the effect of inquiry-based learning in science](teacher-guidance-moderates-inquiry-based-science-learning.md) — related

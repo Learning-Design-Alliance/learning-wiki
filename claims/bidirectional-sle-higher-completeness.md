@@ -51,3 +51,5 @@ Second mixed ANOVA of the same experiment, on the completeness dimension of teac
 - [Students working in a Bidirectional QR-code SLE receive significantly higher teacher-assigned correctness scores than students in a Traditional SLE](bidirectional-sle-higher-correctness.md) — related
 - [The Bidirectional SLE's advantage over the Traditional SLE in correctness and completeness is significant for open questions but not for closed questions](open-question-advantage-interaction.md) — related
 - [Students who used QR codes as augmented reality in their education performed at higher levels than students who did not](qr-code-ar-higher-student-performance-saudi.md)
+- [Augmented reality can be implemented in education via three methods: marker position, geolocation, and QR-code](ar-three-implementation-methods-marker-geolocation-qr.md) — a broader claim this one bears on
+- [The article discusses advantages and disadvantages of using QR codes and their application in the learning process, based on summarizing existing research](qr-code-advantages-disadvantages-table.md) — related

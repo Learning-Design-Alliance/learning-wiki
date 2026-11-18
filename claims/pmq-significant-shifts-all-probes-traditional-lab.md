@@ -56,3 +56,4 @@ Pre-post analysis of PMQ responses from a traditional introductory lab course, c
 - [Students enter the traditional lab course already using predominantly set-like reasoning for data analysis (UR probe), leaving the UR probe with little room to measure change](ur-probe-high-set-reasoning-at-entry.md) — related
 - [Students whose overall paradigm does not change show no significant pre-post difference in individual set-like responses](pmq-unchanged-paradigms-no-significant-s-shift.md) — related
 - [Students apply set-like reasoning to spread when it is presented explicitly (SMDS) even before instruction, but are initially less set-like when spread must be conceptualized implicitly (DMSS), converging after instruction](spread-explicit-versus-implicit-set-reasoning.md) — related
+- [Pilot survey of roughly 650 introductory lab students yielded nearly 500 responses across 108 questions](pilot-survey-500-responses-108-questions.md) — related

@@ -45,7 +45,8 @@ The review's forward-looking recommendation is a shared interdisciplinary projec
 - [Evidence that classroom network structure relates to course outcomes under interactive pedagogies is mixed](../claims/mixed-evidence-network-density-course-outcomes.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Use dynamic group formation so students interact with as many peers as possible across a semester](dynamic-group-formation-peer-interaction.md)
 
 ## Examples
 -

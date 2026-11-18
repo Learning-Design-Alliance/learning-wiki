@@ -48,6 +48,7 @@ The report recommends a new state-federal partnership that "combines existing, n
 ## Related Strategies
 
 - [Ten state policy recommendations for student-centered financial aid systems](state-financial-aid-design-recommendations.md)
+- [Fund stipends and laptops to remove financial barriers to participation](srmp-stipends-laptops-strategy.md)
 
 ## Examples
 -

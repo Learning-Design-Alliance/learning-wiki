@@ -49,3 +49,4 @@ Observational finding across the student pairs' recitation sessions, with teachi
 
 ## Related Claims
 - [Teachers' load-reducing strategies correlate with lower cognitive load and higher motivation, engagement, and achievement, and their motivating styles with lower load and higher motivation and engagement (Evans et al., 2024)](load-reducing-teaching-strategies-motivation-engagement.md) — related
+- [Studio LAs, but few lab or recitation LAs, reported learning about teamwork, tracking each context's emphasis on student group work](la-teamwork-learning-context-difference.md) — related

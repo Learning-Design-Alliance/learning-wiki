@@ -49,3 +49,4 @@ End-of-session survey administered in the last 10 minutes of 52 sessions (N = 97
 - [Personal involvement with privacy topics increases with participant age, from 6.15 in the youngest secondary group to 8.65 in higher education](involvement-increases-with-age-ibuddy.md) — related
 - [The simulation with the creation of the artificial buddy was the most appreciated part of the session (45.40% of open answers)](simulation-most-appreciated-part-ibuddy.md) — related
 - [Only about one fourth of participants reported specific data-protection actions, suggesting a single session is not enough for behavioral change](single-privacy-session-insufficient-behavior-change.md) — related
+- [Out-of-school science learning offers show consistently high enjoyment and appreciation across countries, ages and disciplines](out-of-school-science-offers-high-enjoyment.md) — a broader claim this one bears on

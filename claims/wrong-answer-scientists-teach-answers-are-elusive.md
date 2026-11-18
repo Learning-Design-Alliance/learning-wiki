@@ -51,3 +51,4 @@ The author's theoretical argument opening the essay: students rarely encounter s
 - [Students learning science through historical accounts emphasizing scientists' struggles were more likely to be motivated to understand and retain science content](struggle-narratives-motivate-science-learning.md) — related
 - [The collaboration revealed that some art students held a misconception of science as a body of knowledge rather than a process](students-science-as-process-misconception.md) — related
 - [The authors argue that open access to published scientific work may be insufficient to bridge the epistemological divide between scientists and the public](open-access-insufficient-for-public-engagement-with-science.md) — related
+- [Teaching the process of science rather than factual knowledge better prepares undergraduates for diverse careers (author's argued position)](process-over-facts-science-curriculum.md) — related

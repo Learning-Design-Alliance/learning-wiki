@@ -44,7 +44,8 @@ The authors recommend having physics students create catenoids between two rings
 
 
 ## Related Strategies
-- 
+
+- [Use single-photon interference videos alongside laser diffraction and soap-film experiments to interpret wave patterns statistically](single-photon-interference-video-approach.md)
 
 ## Examples
 -

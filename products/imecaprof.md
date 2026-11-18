@@ -25,7 +25,8 @@ iMecaProf is real-time smartphone-sensor display software developed by Joel Chev
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [phyphox](phyphox.md)
 
 ## Key Sources
 - Joel Chevrier, Laya Madani, Simon Ledenmat, Ahmad Bsiesy. (2012). Teaching Classical Mechanics using Smartphones. https://dl.dropbox.com/s/7qln80wiqbxl9ne/iMecaProf%203.zip?dl=1

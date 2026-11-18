@@ -50,6 +50,7 @@ Beyond individual specialist support, the article identifies a departmental envi
 - [Support faculty adoption and retention of RBIS through direct in-course help from a trained discipline-based science education specialist during initial implementation](direct-specialist-support-during-rbis-implementation.md)
 - [Speculative recommendations for units adopting paired teaching to disseminate RBIS](paired-teaching-implementation-recommendations.md)
 - [Use peer observation, reflection, clear examples, and departmental support to develop TA interactivity](ta-peer-observation-reflection-strategy.md)
+- [Target individual faculty rather than departments when promoting integration of computation into physics courses](individual-level-efforts-computation-integration.md)
 
 ## Examples
 -

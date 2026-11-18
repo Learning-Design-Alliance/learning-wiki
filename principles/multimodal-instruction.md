@@ -31,7 +31,7 @@ sources:
 # Multimodal Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 67 claims (36 for, 27 mixed, 4 against) · 60 studies (33 causal, 12 review, 7 quant-synthesis, 3 associational, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 13 of 60 report an effect size · 61 claims rest on one study
+> **Evidence** · 69 claims (37 for, 28 mixed, 4 against) · 61 studies (33 causal, 12 review, 7 quant-synthesis, 3 associational, 3 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 13 of 61 report an effect size · 63 claims rest on one study
 
 ## Conditional relationship
 
@@ -144,6 +144,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Multimodal theme-sets improve L2 students' comprehension of core concepts in unit surveys](../claims/multimodal-theme-sets-improve-l2-comprehension.md) [+W] — attached 2026-11-03 from Ruefman (2015), which proposed "Multimodal theme-sets: thematically linked supplemental texts reinforcing a core reading".
 - [Graphic novel instruction significantly improved EFL students' understanding of literary devices in Macbeth compared to plain text instruction](../claims/graphic-novels-improve-literary-device-comprehension.md) [+M] — attached 2026-11-03 from Öz et al. (2015), which proposed "Use graphic novels as alternative reading materials to teach literary texts in EFL classrooms"; tests this page's relationship.
 - [Graphic novel instruction significantly improved EFL students' vocabulary learning compared to plain text instruction](../claims/graphic-novels-improve-vocabulary-learning.md) [+M] — attached 2026-11-03 from Öz et al. (2015), which proposed "Use graphic novels as alternative reading materials to teach literary texts in EFL classrooms"; tests this page's relationship.
+- [A student solving a complex physics problem builds compound representations by linking semiotic resources across multiple modes](../claims/compound-representations-built-by-coordinating-resources.md) [+W] — attached 2026-11-18 from Nandana Weliweriya et al. (2018), which proposed "Design problem-solving tasks so students strategically combine multiple semiotic resources rather than choose between researcher-provided representations".
+- [The disciplinary affordance of one semiotic resource can hinder the use of another during problem solving](../claims/disciplinary-affordances-can-hinder-other-resources.md) [~W] — attached 2026-11-18 from Nandana Weliweriya et al. (2018), which proposed "Design problem-solving tasks so students strategically combine multiple semiotic resources rather than choose between researcher-provided representations".
 
 ## Objective and learner-valued goal
 

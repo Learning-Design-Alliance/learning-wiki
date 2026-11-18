@@ -240,6 +240,7 @@ The expectation should weaken if new comparisons with comparable learners, holdi
 - [When implementing PS-I, include contrasting cases or build the instruction phase on student solutions](../strategies/include-contrasting-cases-or-build-instruction-on-student-solutions.md)
 - [Use collaboration scripting to take advantage of the hidden learning in productive failure](../strategies/scripting-leverage-productive-failure-hidden-learning.md)
 - [Use group-based generation and exploration followed by teacher-led consolidation and comparison of student-generated and canonical solutions](../strategies/group-generation-then-consolidation-strategy.md)
+- [Use an invention task before instruction on canonical fitting procedures](../strategies/invention-task-before-fitting-instruction.md)
 
 ## Key Sources
 - Sinha, T., & Kapur, M. (2021). When problem solving followed by instruction works: Evidence for productive failure. *Review of Educational Research, 91*(5), 761–798. [doi:10.3102/00346543211019105](https://doi.org/10.3102/00346543211019105)

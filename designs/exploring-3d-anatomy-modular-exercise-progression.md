@@ -45,6 +45,7 @@ The course is structured in distinct modular exercises that learners move throug
 
 - [Exploring 3D Anatomy: a free open online course for three-dimensional spatial awareness](exploring-3d-anatomy-open-online-course.md)
 - [Three-activity self-paced lesson sequence: interactive app practice, written proof exercise, then skill-based competitive game](three-activity-self-paced-tablet-lesson.md)
+- [Art-science workshop sequence progressing from traditional to experimental art activities with a cumulative ideas sheet](art-science-workshop-sequence.md)
 
 ## Examples
 -

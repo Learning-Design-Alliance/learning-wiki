@@ -48,3 +48,4 @@ Mixed-method experiment comparing 19 Control teams (N=103, Traditional SLE) with
 - [Students in the Bidirectional SLE report significantly better impressions of technological adoption, collaboration, and meaningfulness than students in the Traditional SLE](bidirectional-sle-better-impressions.md) — related
 - [Students in the Bidirectional QR-code SLE receive significantly higher completeness scores than students in the Traditional SLE](bidirectional-sle-higher-completeness.md) — related
 - [The Bidirectional SLE's advantage over the Traditional SLE in correctness and completeness is significant for open questions but not for closed questions](open-question-advantage-interaction.md) — related
+- [The article discusses advantages and disadvantages of using QR codes and their application in the learning process, based on summarizing existing research](qr-code-advantages-disadvantages-table.md) — related

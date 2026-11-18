@@ -73,3 +73,4 @@ Correlational analysis within the same experiment linking the hiring item to the
 - [Both female and male students rate male physics professors higher than female professors on scientific thinking and hands-on skills](male-as-scientist-bias-scientific-skills-ratings.md) — related
 - [Male students rate male physics professors more positively than female professors on overall evaluation, while female students rate them equally](male-students-overall-evaluation-gender-interaction.md) — related
 - [Ratings of interpersonal and communicative skills show same-sex bias: each student gender rates same-gender professors more positively](same-sex-bias-interpersonal-skills-ratings.md) — related
+- [MIT mechanical engineering reached near gender parity (49.5% women in 2017) through deliberate structural interventions including recruitment programs, hiring women faculty, and curriculum modernization](mit-mechanical-engineering-gender-parity-interventions.md) — related

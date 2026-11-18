@@ -62,6 +62,7 @@ Thinking time converts discussion from a race to respond into a structured seque
 - Cold calling with preparation — thinking time makes cold calling equitable by guaranteeing everyone has something to say
 - Write-to-learn activities — written generation during thinking time doubles as formative assessment evidence
 - [Have learners bring their own thinking before using generative AI to enable productive struggle](own-thinking-before-generative-ai-productive-struggle.md)
+- [Use 50/50 and Fill-in-the-Blank interactive lecturing questions with whole-class choral responses for real-time formative feedback](50-50-fill-in-blank-interactive-lecturing.md)
 
 ## Examples
 - **[Think-Pair-Share](../patterns/think-pair-share.md)** (Kagan) — the most widely used cooperative structure; the silent "think" phase is the component most often dropped in practice, and most needed

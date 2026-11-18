@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-18
 sources:
   - id: benjamin-pollard-2017
     resource: "https://doi.org/10.48550/arXiv.1707.01979"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The pre-test and post-test distributions of overall student paradigms are statistically different (p ≪ 0.01), with an increase in set-like students and decreases in point-like and mixed students. [→ Benjamin Pollard 2017](#benjamin-pollard-2017)

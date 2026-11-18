@@ -44,7 +44,8 @@ The article argues that pandemic-era in-presence lab teaching is feasible when t
 - [Students Rt Pcr Expected Results Majority](../claims/students-rt-pcr-expected-results-majority.md) [+M]
 
 ## Related Designs
-- 
+
+- [Model-comparison lab activities require linearly related variables, competing models, simple data collection, and messy data](activity-design-for-model-comparison-labs.md)
 
 ## Examples
 -

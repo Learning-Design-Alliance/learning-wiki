@@ -43,6 +43,7 @@ Action research is defined in the digest as "a tool of curriculum development co
 
 - [Action Research](action-research.md)
 - [Youth Participatory Action Research (YPAR)](youth-participatory-action-research-ypar.md)
+- [Use evidence-based education as the knowledge basis for teacher decision-making](evidence-based-education-teacher-decisions.md)
 
 ## Examples
 -

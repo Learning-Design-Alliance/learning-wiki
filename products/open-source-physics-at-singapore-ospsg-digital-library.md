@@ -27,4 +27,4 @@ A Singapore Ministry of Education Educational Technology Division digital librar
 -
 
 ## Key Sources
-- Lim, V., Wee, L., Ng, S., & Teo, J. (2017). Massive Open and Online Courses (MOOCs) and Open Education Resources (OER) in Singapore. Educational Technology Division, Ministry of Education, Singapore. Draft to appear in journal by SEAMEO Secretariat.
+- Lim, V., Wee, L., Ng, S., & Teo, J. (2017). Massive Open and Online Courses (MOOCs) and Open Education Resources (OER) in Singapore. Educational Technology Division, Ministry of Education, Singapore. Draft to appear in journal by SEAMEO Secretariat. [doi:10.48550/arxiv.1708.08743](https://doi.org/10.48550/arxiv.1708.08743)

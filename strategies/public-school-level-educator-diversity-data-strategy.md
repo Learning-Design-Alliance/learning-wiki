@@ -42,6 +42,7 @@ The brief recommends that states, as keepers of state data systems, collect and 
 - [Set measurable, time-bound goals for school leader diversity and make diversity data publicly visible](leader-diversity-goals-public-data.md)
 - [Six state strategies for increasing the racial diversity of the educator workforce, from data visibility through COVID-relief investment](six-state-strategies-educator-diversity-workforce.md)
 - [Six state-level strategies for increasing the racial diversity of the educator workforce](six-state-strategies-educator-diversity.md)
+- [Universities should publicly disseminate graduate gender data to enable general gender studies in physics](public-dissemination-of-graduate-gender-data.md)
 
 ## Examples
 -

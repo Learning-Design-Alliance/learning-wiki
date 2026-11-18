@@ -59,3 +59,4 @@ Systematic review of 20 studies (narrative synthesis) of simulation-based patien
 - [Progression-focused simulation curricula (FRS, SIMULATE) yield superior outcomes compared to traditional training methods](frs-simulate-progression-curricula-superior-outcomes.md) — related
 - [Students trained with the DVRS scored significantly higher in the dental surgery course than students trained with traditional manikins](dvrs-higher-dental-surgery-scores-than-manikin.md) — related
 - [Classroom versus clinical setting differences in patient safety dimension scores are statistically significant but mostly very small in effect size](classroom-clinical-differences-small-effect-sizes.md) — related
+- [The review reports domain-specific benefits of VR over traditional teaching approaches in road safety, basketball, Hajj training and abstract subjects](vr-domain-specific-benefits-over-traditional-teaching.md) — related

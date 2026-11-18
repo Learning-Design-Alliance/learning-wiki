@@ -64,6 +64,7 @@ Embodied activity is most effective when the movement maps transparently onto th
 - [Act It Out](act_it_out.md) — the general embodied-enactment strategy of which mathematical dance is a domain-specific case
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — body-based representations work best when anchored to concepts learners have begun to formalize
 - [Conclude with a choreography-and-analysis final project in place of a final exam](choreography-analysis-final-project-culminating.md)
+- [Shadow screen performance in which students choreograph particle physics concepts with their bodies](shadow-screen-particle-performance.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — the performance functions as a modeled example for the audience

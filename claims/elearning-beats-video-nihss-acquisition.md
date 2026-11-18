@@ -59,3 +59,4 @@ Web-based randomized controlled trial in 3 Swiss university hospitals; 43 e-lear
 - [Simulation-based training improves immediate knowledge-test scores of primary care professionals in critical patient care](simulation-training-improves-pc-knowledge-critical-care.md) — related
 - [Video materials preferentially promote clinical skill acquisition over written materials](video-materials-better-skill-acquisition-than-written.md) — related
 - [Didactic lectures produced greater knowledge gain than asynchronous computer-based modules for novice learners in an acute care course](didactic-beats-asynchronous-knowledge-gain-novices.md) — reports the opposite
+- [Introductory students who completed Direct Measurement Video model-making activities outperformed those who did not](dmv-model-making-activities-outperformance.md) — related

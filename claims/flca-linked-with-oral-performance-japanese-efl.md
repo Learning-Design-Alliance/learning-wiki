@@ -85,3 +85,4 @@ Qualitative case study of two Japanese adult EFL learners using reflective journ
 - [63.9% of students experienced increased stress or anxiety from pre-class tests](pre-class-tests-increase-stress-anxiety.md) — related
 - [English anxiety is negatively related to self-efficacy](english-anxiety-negatively-related-to-self-efficacy.md) — related
 - [Fear of delay increases doctoral students' stress levels but does not significantly improve their academic performance](fear-of-delay-raises-stress-not-performance.md) — related
+- [NITARP educators report feeling more comfortable talking with scientists and speaking the language of science because of the experience](nitarp-educators-comfortable-with-scientists.md) — related
