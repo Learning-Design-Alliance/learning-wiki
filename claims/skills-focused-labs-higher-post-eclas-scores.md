@@ -69,3 +69,4 @@ By-item comparison of FY students in skills- vs concepts-focused courses (30 cou
 - [The postinstruction advantage of skills-focused courses was larger for women, large enough to eliminate or reverse the typical gender gap in adjusted means](skills-focus-advantage-larger-for-women.md) — related
 - [Students in courses using open-ended lab activities score significantly higher on postinstruction E-CLASS than students in guided-lab-only courses](open-ended-labs-higher-post-eclass.md) — related
 - [Students in Traditional first-year physics labs show a significant negative shift in E-CLASS scores, while students in Transformed courses do not shift significantly](traditional-labs-negative-eclass-shift-transformed-none.md) — related
+- [Post-course E-CLASS scores were indistinguishable from national norms, indicating the cookbook/inquiry admixture had no effect different from cookbook labs](mixed-inquiry-cookbook-labs-no-gain-over-national-norms.md) — related

@@ -44,6 +44,7 @@ The article proposes an MMLA design using three technologies: system logs captur
 
 - [Address ethics and privacy considerations — transparency, security, student control, accountability, and informed consent — at the initial stages of MMLA design in simulation-based training](ethics-privacy-principles-mmla-simulator-design.md)
 - [Triangulate physiological data with other CSCL data streams ( such as video or logfile traces ) to uncover otherwise unidentifiable psychophysiological reactions](triangulate-physiological-data-with-video-or-logs.md)
+- [Analyse detailed simulation interaction logs to identify learning challenges and improve simulation design, especially in distance-learning scenarios](simulation-log-analysis-for-design-improvement.md)
 
 ## Examples
 -

@@ -52,3 +52,5 @@ Qualitative case study drawn from approximately 150 hours of video data of upper
 - [Shifts from the blue to the green behavioral cluster correspond to shifts from completing the worksheet to discussing ideas](blue-green-shift-marks-framing-shift.md) — related
 - [Frame transitions are brief, on the order of a few seconds, and can be triggered by instructor feedback or groupmate disagreement](brief-frame-transitions-triggered-externally.md) — related
 - [Productive problem solving can occur in any epistemological frame provided students transition appropriately between frames](productive-solving-any-frame-with-appropriate-transitions.md) — a broader claim this one bears on
+- [Assessment features, such as not providing numbers, can shift a student's epistemic form and thereby shift their epistemological frame](assessment-features-shift-resource-and-frame.md) — related
+- [Epistemological frame shifts occur at the level of a shift in a single epistemological resource](frame-shifts-via-single-resource-shift.md) — related

@@ -55,3 +55,4 @@ The brief argues, citing prior scholarship, that boarding schools founded to eli
 - [When educators partnered with families on attendance, chronic absenteeism rates dropped 15%](family-partnership-reduced-chronic-absenteeism-15-percent.md) — related
 - [AI/AN students experienced chronic absence rates among the highest of any ethnic group before and after the pandemic](aian-absence-highest-among-ethnic-groups.md) — related
 - [Excused-unexcused absence distinctions show few outcome differences and delay intervention](excused-unexcused-absence-few-differences.md) — related
+- [Perceived unfair treatment related to race/ethnicity dropped from 1.94 to 1.15 between pre and post surveys (P<0.0002)](cures-perceived-unfair-treatment-drop.md) — related

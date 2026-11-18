@@ -50,7 +50,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 4 studies · 2 quant-synthesis `r2`–`r3`, 2 theoretical `r2` · `q2`–`q4` · `i1`–`i2`
-> **Currency** · newest study 2025 · 2 of 4 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2025 · 3 of 4 entries checked against their sources (automated) · not reviewed by a person
 
 Students taught through active-learning approaches (e.g., in-class problem-solving, discussion, peer instruction) tend to perform better on examinations than students taught through traditional lecture alone.
 
@@ -127,7 +127,7 @@ The article reports the 2014 Freeman et al. meta-analysis of 225 studies compari
 |---|---|---|---|
 | [Freeman et al. 2014](https://doi.org/10.1073/pnas.1319030111) | q4 · quant-synthesis · r2 | i2 · medium effect, 0.47 SD; i2; i? | this claim; [Students in traditional lecture STEM courses are 1.5 times more likely to fail than studen](lecturing-increases-stem-failure-rates.md) (supports); [The active-learning advantage is robust to publication bias and to variation in methodolog](active-learning-effect-robust-bias-and-rigor.md) (supports); [Active learning's performance benefits hold across all STEM disciplines](active-learning-benefits-hold-across-stem-disciplines.md) (supports) |
 | [Theobald et al. 2020](https://doi.org/10.1073/pnas.1916903117) | q3 · quant-synthesis · r3 | i1 · small effect, exam gap narrowed by 0.20 SD (−0.62 to −0.42) | this claim |
-| [Finkelstein 2026](https://doi.org/10.48550/arxiv.2510.01467) | q2 · theoretical · r2 | i? | this claim |
+| [Finkelstein 2025](https://doi.org/10.48550/arxiv.2510.01467) | q2 · theoretical · r2 | i? | this claim |
 | [Lebert 2024](https://doi.org/10.1111/nyas.15238) | q2 · theoretical · r2 | i2 | this claim |
 | [Deslauriers L. 2019](https://doi.org/10.1073/pnas.1821936116) | q3 · causal · r3 | i? | [Students in active classrooms scored higher on tests of learning than students in passive ](active-learning-higher-test-scores-than-lecture.md) (supports) |
 | [Özgür Tutal 2026](https://doi.org/10.1038/s41598-026-50770-1) | q2 · causal · r1 | i3 | [Prospective teachers taught with CCCT outperformed a lecture-based control group on academ](ccct-outperformed-lecture-achievement.md) (supports) |
@@ -216,3 +216,4 @@ The article reports the 2014 Freeman et al. meta-analysis of 225 studies compari
 - [PER-based approaches are particularly helpful for underrepresented students and can decrease the gap between traditional and underrepresented students in physics classes](per-approaches-reduce-underrepresented-gap.md) — a narrower finding that bears on this claim
 - [Active learning reduced failure rate in introductory physics by 9.1 percentage points compared with traditional lectures](active-learning-reduces-failure-rate-intro-physics-chile.md) — related
 - [Pre- to post-exam gains of 30% to 50% were obtained across the simulations tested at UTEP and UWO](simulation-pre-post-gains-30-50-percent.md) — a narrower finding that bears on this claim
+- [Active-learning meta-analyses compare broadly defined active learning with traditional lecture and do not show that named teaching methods are more effective](active-learning-meta-analyses-broad-definition-aggregate.md) — possibly the same claim (merge candidate)

@@ -42,6 +42,7 @@ The article's future-directions section recommends extending its observed practi
 - [Design TTXs with assessment in mind so that log data capture the learning process](design-ttx-with-assessment-in-mind.md)
 - [Use multimodal data and time-sensitive analyses to capture situational motivational processes](multimodal-data-time-sensitive-analyses-motivation.md)
 - [Use behavioral data alongside self-report measures when assessing trait mindfulness in adolescents](behavioral-data-trait-mindfulness-assessment.md)
+- [Analyse detailed simulation interaction logs to identify learning challenges and improve simulation design, especially in distance-learning scenarios](simulation-log-analysis-for-design-improvement.md)
 
 ## Examples
 -

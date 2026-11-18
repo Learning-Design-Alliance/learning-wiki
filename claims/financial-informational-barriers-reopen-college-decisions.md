@@ -53,3 +53,4 @@ Qualitative findings from advisor interviews and the intervention model show stu
 - [Financial and logistical pressures precluded low-income students from anticipatory socialization for college](summer-tasks-preclude-anticipatory-socialization.md) — related
 - [Among accepted students, FAFSA completion is associated with roughly 50 percent higher four-year college enrollment](fafsa-completion-predicts-four-year-enrollment.md) — related
 - [Low ACT scores and confusion about financial aid led a hardworking, college-aspiring student to decide not to attend college at all](act-scores-and-aid-confusion-deter-enrollment.md) — a narrower finding that bears on this claim
+- [Career choice motivations are dominated by school mathematics and physics affinity and the desire to contribute to science, not financial or social recognition](physics-career-motivations-intrinsic-not-financial.md) — reports the opposite

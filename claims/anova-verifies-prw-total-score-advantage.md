@@ -68,3 +68,4 @@ Independent samples t-test (unequal variances assumed) comparing total marks of 
 - [ANOVA showed a significant difference in reading comprehension posttest performance among the three strategy groups](anova-significant-posttest-difference-three-groups.md) — related
 - [Post-test comparison shows the PBL group significantly outperformed the control group on analysis, openness and justice temperaments and analysis and interpretation skills](pbl-posttest-group-differences.md) — related
 - [Experimental group outperformed control group on post-tests in both courses](experimental-group-outperformed-control-post-tests.md) — possibly the same claim (merge candidate)
+- [One-way ANOVA shows post-test scores differ across estimated ability levels in the experimental group (vocabulary F= 5.75, grammar F= 4.71, reading comprehension F= 5.98) but not for vocabulary and grammar in the control group](anova-distinguishes-estimated-ability-groups.md) — related

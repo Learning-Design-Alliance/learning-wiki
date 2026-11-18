@@ -85,3 +85,4 @@ Review synthesis: only four studies explicitly discussed purpose; students value
 ## Related Claims
 - [Practice and training, external feedback, use of instruments, and environmental support facilitate students' implementation of self-assessment](instructional-factors-self-assessment-implementation.md) — related
 - [Students generally hold positive perceptions of the usefulness of self-assessment, but findings across studies are inconclusive](students-generally-positive-but-inconclusive-perceived-usefulness-self-assessment.md) — related
+- [Students regarded feedback as an important component of peer assessment, valuing corrective and suggestive comments beyond bare marking](peer-feedback-importance-corrective-suggestive.md) — related

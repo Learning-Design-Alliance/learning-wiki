@@ -47,3 +47,4 @@ Hierarchical linear modeling of pretest scores from the 1,310-student between-gr
 ## Related Claims
 - [CBT condition was not meaningfully related to RBA posttest scores, with the largest predicted effect (E&M, 2.2 points) not statistically reliable](cbt-condition-nonsignificant-posttest-hlm.md) — related
 - [Instructor use of the recommended practices accounts for a large proportion of the between-section variance in CBT participation](recommended-practices-explain-section-participation-variance.md) — related
+- [Total time to completion of the online RBA showed no significant relationship with scores](online-rba-completion-time-no-score-relationship.md) — related

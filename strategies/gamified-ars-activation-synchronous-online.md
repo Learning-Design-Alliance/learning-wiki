@@ -49,6 +49,7 @@ A specific implementable recipe from the article: during the synchronous online 
 ## Related Strategies
 
 - [Use breakout rooms and audience-response platforms to enhance learner engagement in remote teaching environments](breakout-rooms-audience-response-rt-engagement.md)
+- [Use a gamified quiz platform (Kahoot!) as a playful learning check after the calculation tasks](kahoot-quiz-learning-check-strategy.md)
 
 ## Examples
 -

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-11-18
 sources:
   - id: michalis-xenos-2019
     resource: "https://doi.org/10.1007/978-3-030-11932-4_55"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Post-test scores after playing the Ethics Game were statistically significantly higher than pre-test scores after lecture-based instruction (Z=8.321, p<.000, N=144). [→ Michalis Xenos 2019](#michalis-xenos-2019)

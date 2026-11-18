@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 220 claims (141 show a difference, 47 mixed, 32 no difference) · 165 studies (60 causal, 42 associational, 25 review, 15 quant-synthesis, 10 qualitative, 7 design, 6 theoretical), `q1`–`q4` · 31 of 165 report an effect size · 214 claims rest on one study
+> **Evidence** · 221 claims (142 show a difference, 47 mixed, 32 no difference) · 166 studies (60 causal, 42 associational, 25 review, 15 quant-synthesis, 10 qualitative, 7 design, 6 theoretical), `q1`–`q4` · 31 of 166 report an effect size · 215 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -258,6 +258,7 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [ONTRAC training improves response inhibition and Stroop interference relative to control, while sustained attention and short-term memory show nonsignificant improvement trends](../claims/ontrac-cognitive-gains-inhibition-stroop.md) [-M] — measured as an outcome of the instruction studied
 - [Reaction time deteriorates after an hour of a stressful, difficult lecture in Mathematical Physics](../claims/reaction-time-deteriorates-after-hour-lecture.md) [~M] — measured as an outcome of the instruction studied
 - [Students with ADHD may experience six characteristic difficulties in introductory physics courses, including distraction, detail-focus, and slower processing of content presented via multiple means](../claims/six-adhd-difficulties-introductory-physics.md) [+W] — learners who differ on it differ in outcomes
+- [Children sustained wide attention on the educational games, engaging with the tasks indirectly](../claims/wide-attention-indirect-educational-engagement.md) [+W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

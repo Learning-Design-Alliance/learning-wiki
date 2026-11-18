@@ -53,3 +53,6 @@ The review reports Blue and Heller's matched-samples study in an introductory un
 - [Gender gaps in introductory physics post-test scores are associated with factors present prior to taking the course (Kost et al.)](gender-gaps-associated-with-pre-course-factors.md) — reports the opposite
 - [Removing the significantly gender-unfair FCI items eliminates a substantial portion of the gender gap in at least some samples](fci-unfair-item-removal-reduces-gap.md) — related
 - [The flipped classroom significantly reduced, but did not eliminate, the gender gap in introductory physics performance](flipped-classroom-reduced-gender-gap.md) — related
+- [The FCI gender gap narrowed following instruction in these blended sections](fci-gender-gap-narrowed-blended-sections.md) — related
+- [Post-test misconception scores differ significantly between men and women on every FMCE community, but all effect sizes are small or negligible](fmce-misconception-score-gender-small-effects.md) — related
+- [Physics majors in blended interactive-engagement sections showed large, statistically significant FCI gains for both men and women](large-fci-gains-blended-physics-major-sections.md) — related

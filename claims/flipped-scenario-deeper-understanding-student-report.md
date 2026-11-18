@@ -55,3 +55,5 @@ Authors' interpretation of student feedback from the intervention group, reporte
 - [Absence of pedagogical encounters with teachers and patients prevented students from placing presentation content in a larger context and hindered deeper learning](absence-of-pedagogical-encounters-hindered-deep-learning.md) — related
 - [In an A-level mechanics revision lesson using multiple representations, the majority of the 25 surveyed students agreed the lesson deepened their understanding and recommended the strategy](mr-mechanics-revision-lesson-positive-feedback.md) — related
 - [Drawing physical terms helps students develop deeper understanding of the concepts behind the terms](drawing-terms-deepens-physics-concept-understanding.md) — related
+- [Flipped classroom freed class time for guiding students through more advanced and engaging materials](flipped-classroom-time-for-advanced-materials.md) — related
+- [Technology-enhanced pre-instructional peer assessment helps students prepare for new content acquisition in the following lesson, per students' perceptions](pre-instructional-peer-assessment-prepares-content-acquisition.md) — related

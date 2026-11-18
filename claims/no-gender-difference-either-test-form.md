@@ -89,3 +89,4 @@ Main-effect t-tests of gender on pretest and posttest scores; both non-significa
 - [Male and female students reported no significant differences in perceptions of either teaching module on the course questionnaire](no-gender-difference-questionnaire-perceptions.md) — related
 - [The knowledge test showed measurement invariance across gender and school grade, with girls and ninth-graders scoring better at small effect sizes](bls-test-measurement-invariance-gender-grade.md) — reports the opposite
 - [Gender patterns diverged across formats: male students scored higher in the online group while female students scored higher in the paper-based group on the summative assessment](gender-divergence-summative-format.md) — related
+- [Gender differences in CPS step performance: females better at focusing and describing, males at planning and executing](cps-gender-differences-steps.md) — related

@@ -76,3 +76,4 @@ Qualitative interviews with experimental-group participants. Student C said "The
 - [88% of students said hands-on activities helped them understand Einsteinian concepts, and 70% wanted to learn more Einsteinian physics](hands-on-activities-helped-clarity-einsteinian-concepts.md) — related
 - [Out-of-school science learning offers show consistently high enjoyment and appreciation across countries, ages and disciplines](out-of-school-science-offers-high-enjoyment.md) — related
 - [Most students in a redesigned project-based physics lab reported satisfaction with their team's project achievements](project-lab-majority-satisfaction.md) — related
+- [Students evaluated the CPS experience positively, most appreciating group discussion and knowledge sharing](students-evaluate-cps-positively.md) — related

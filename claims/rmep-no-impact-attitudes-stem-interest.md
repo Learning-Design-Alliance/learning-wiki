@@ -46,3 +46,4 @@ The impact study measured student attitudes toward mathematics and interest in S
 
 ## Related Claims
 - [The RMEP Project had no statistically detectable impact on students' mathematics achievement as measured by SOL exams](rmep-no-impact-student-achievement.md) — related
+- [Students oriented toward STEM careers show more positive science attitudes, with non-STEM-intending students least positively impacted and astronomy/physics-career students most](astro-attitude-correlates-stem-career-orientation.md) — related

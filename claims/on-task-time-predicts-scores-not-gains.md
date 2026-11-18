@@ -68,3 +68,4 @@ Same linear mixed-effects design predicting pre-to-post change from on-task perc
 - [Students in all three conditions learned significantly from the CSCL environment, with significant pretest-to-posttest gains in each condition](all-conditions-learned-from-cscl-environment.md) — related
 - [Pre-test mathematical performance and self-efficacy are the most important predictors of post-test math performance in a random forest model](pretest-performance-selfefficacy-predict-posttest-math.md) — related
 - [Pre-to-post gains in cooperative science learning occur for listing cell organelles (d = 0.70) but not for describing their functions](structure-gains-not-function-gains.md) — related
+- [Post-scores are independent of pre-scores while normalized gain is strongly pre-score dependent, and math-test scores predict post-scores better than the pre-test](pre-score-bias-and-math-predictor.md) — related

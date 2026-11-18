@@ -74,3 +74,4 @@ Table I of the same survey study prints the Cohen's d effect sizes between group
 - [Introductory physics students find symbolic problems more difficult and are less favorable on symbolic-problem items than graduate students and faculty](intro-students-symbolic-problem-difficulty.md) — related
 - [Astronomy students give more favorable responses than physics students on Factor 1 AAPS questions about metacognition and enjoyment of problem solving](factor1-metacognition-enjoyment-astronomy-favorable.md) — a narrower finding that bears on this claim
 - [Astronomy students show more favorable sensemaking responses than physics students (Factor 8)](factor8-sensemaking-astronomy-favorable.md) — a narrower finding that bears on this claim
+- [Students' attitudes toward astronomy and science are positively correlated with the grade they expect to receive in introductory astronomy](astro-attitude-correlates-expected-grade.md) — related

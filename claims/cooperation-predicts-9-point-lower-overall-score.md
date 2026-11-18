@@ -64,3 +64,5 @@ Difference-of-means t-test across three semesters of Eco101 (N = 71 game players
 - [Regression predicts Cooperators score 6.7 points lower on the in-class exam, a negative but unemphasized relationship](cooperation-predicts-lower-exam-score.md) — related
 - [Non-cooperators were far less likely to score below 70% overall in the course (9.1% vs 38.8% of Cooperators)](low-scorers-breakdown-by-game-choice.md) — related
 - [The exam-score difference between Cooperators and Non-cooperators was significant only at the 10% level, not the 5% level](grade-game-exam-difference-marginal.md) — related
+- [PD PL differs from prior game-theory-in-education work by modeling student interaction with prisoner's dilemma and reporting an implementation](pd-pl-distinct-from-related-game-theory-work.md) — related
+- [PD PL scoring formula makes the higher-effort student earn a lower payoff, reproducing the prisoner's dilemma structure](pd-pl-payoff-structure-matches-prisoners-dilemma.md) — related

@@ -49,3 +49,4 @@ Observational comparison of attempt counts by gender in the 1315-student cohort,
 - [Female medical students spend more time on the first attempt of an e-learning quiz than male students, while time until the first attempt is comparable between the sexes](female-students-longer-first-quiz-attempt.md) — related
 - [Intubation success rates increase and intubation times decrease across successive attempts for both DL and VL methods](success-rises-times-fall-across-attempts.md) — related
 - [ECG quiz scores and final ECG examination scores do not differ between female and male medical students](no-gender-difference-ecg-quiz-final-scores.md) — related
+- [Time spent on successive assessment tasks decreased sharply within each peer assessment meeting](assessment-phase-time-decreased-across-meetings.md) — related

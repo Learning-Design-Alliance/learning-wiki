@@ -54,3 +54,4 @@ This is the author's interpretation in the conclusions section, offered as a pos
 - [MPEX Reality Link scores typically deteriorate over a semester of physics instruction](mpex-reality-link-negative-shift-instruction.md) — related
 - [At the end of the course, introductory astronomy students have more expert-like attitudes and approaches to problem solving than introductory physics students, with a large effect size (Cohen's d = 0.81)](aaps-astronomy-favorable-than-physics.md) — related
 - [Standard physics courses often have a negative impact on students' attitudes and beliefs, leaving students' beliefs less expertlike after a course](standard-courses-negative-belief-shifts.md) — related
+- [Students' attitudes toward astronomy and science are positively correlated with the grade they expect to receive in introductory astronomy](astro-attitude-correlates-expected-grade.md) — related

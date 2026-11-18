@@ -73,3 +73,4 @@ Same national E-CLASS data set of matched first-year pre/post responses. The Tra
 - [Post-instruction E-CLASS scores are significantly higher in Transformed than Traditional courses, with no significant pre-instruction difference](transformed-higher-post-eclass-overall.md) — related
 - [The transformed lab course produced no statistically significant difference in overall post-instruction E-CLASS scores compared to the original course](lab-transformation-no-overall-eclass-change.md) — related
 - [Transformed DATA Lab courses produced higher expert-like attitudes about experimental physics than traditional lab courses after controlling for incoming E-CLASS scores](data-lab-e-class-gains-over-traditional-labs.md) — related
+- [Post-course E-CLASS scores were indistinguishable from national norms, indicating the cookbook/inquiry admixture had no effect different from cookbook labs](mixed-inquiry-cookbook-labs-no-gain-over-national-norms.md) — related

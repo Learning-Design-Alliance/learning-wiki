@@ -53,3 +53,4 @@ FER output aligned across group members showed surprise was the most shared emot
 - [Joy was the predominant emotion in compulsory primary education PE, linked to diverse content, cooperative games, absence of competitiveness and cathartic release](joy-predominant-cpe-pe.md) — related
 - [Participants' emotional trajectories shifted progressively from predominantly positive emotions in primary PE to more negative, intense and frequent emotions in secondary PE](negative-emotional-shift-cpe-to-cse.md) — related
 - [Students reported that the greatest difficulty lay in working in groups, while the most frequently shared feeling was enjoyment](student-difficulty-groupwork-enjoyment.md) — related
+- [Students were surprised at how physics and dance came together and valued the plushies, collaboration, and final end product](student-feedback-physics-dance-connection.md) — related

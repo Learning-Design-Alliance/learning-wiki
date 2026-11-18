@@ -57,3 +57,4 @@ Post-workshop evaluation surveys from the phase-2 scale-up facilitator training 
 - [44% of train-the-trainer attendees reported implementing research mentor training at their institutions](rmt-implementation-forty-four-percent.md) — related
 - [Participants were highly satisfied with the online oncogenetics module, with satisfaction item scores of at least 4.1 and a global score of 7.9](high-satisfaction-online-genetics-cpd-module.md) — related
 - [Students rated trainers highly, with the highest average values for approachability (4.5) and cooperativeness (4.75)](trainers-rated-high-approachability-cooperativeness.md) — related
+- [Students rated the lidyef2018 program highly on a 5-point evaluation survey, with an overall score of 4.09±0.77](lidyef2018-evaluation-survey-4-09.md) — related

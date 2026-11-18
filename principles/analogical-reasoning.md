@@ -168,6 +168,7 @@ Recognising that a source applies, mapping it correctly, using the principle on 
 - [Hybrid productive failure with analogical comparison: schema abstraction through comparing contrasting models](../designs/hybrid-pf-analogical-comparison-schema-abstraction.md)
 - [Teach each topic with Glynn's step-by-step Teaching-With-Analogy (TWA) model using multiple concrete analogies](../strategies/twa-step-by-step-analogy-teaching-strategy.md)
 - [Follow analogical reasoning activities with an instructor-led post-activity discussion targeting the misconception](../strategies/post-activity-discussion-static-friction-strategy.md)
+- [Explicitly examine analogies and models as thinking tools, not merely use them to teach circuit ideas](../strategies/explicit-analogy-examination-thinking-tools.md)
 
 ### Illustrative
 

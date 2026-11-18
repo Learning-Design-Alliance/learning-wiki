@@ -69,3 +69,4 @@ Sequence and transition analysis of the two active trajectories. Social-interact
 - [Free riders earned significantly lower grades than students in the active constructive and social interactive trajectories, whose achievement levels were statistically indistinguishable.](free-riders-lower-grades-two-active-trajectories-equal.md) — related
 - [High joint visual attention can hide a free-rider effect in collaborative dyads](high-jva-hides-free-rider-effect.md) — related
 - [In informal social scenes, AgentSchool generates plausible traces of peripheral participation, clique formation, aggressor-induced cohesion, and opinion-leader emergence consistent with classroom social theories](informal-social-scenes-emergent-traces.md) — related
+- [Running PD PL over several sessions lets students counter free riders by negotiating or changing teammates](pd-pl-free-rider-prevention-via-session-iteration.md) — related

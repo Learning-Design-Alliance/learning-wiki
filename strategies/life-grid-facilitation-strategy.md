@@ -53,4 +53,4 @@ The article recommends specific facilitation practices for realizing the life gr
 -
 
 ## Key Sources
-- Rowland, A. A., Dounas-Frazer, D. R., Ríos, L., Lewandowski, H. J., & Corwin, L. A. (2019). Using the Life Grid Interview Technique in Science Education Research. https://arxiv.org/abs/1903.02386
+- Rowland, A. A., Dounas-Frazer, D. R., Ríos, L., Lewandowski, H. J., & Corwin, L. A. (2019). Using the Life Grid Interview Technique in Science Education Research. https://arxiv.org/abs/1903.02386. [doi:10.1186/s40594-019-0186-z](https://doi.org/10.1186/s40594-019-0186-z)

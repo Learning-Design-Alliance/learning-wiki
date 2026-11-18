@@ -50,3 +50,4 @@ Descriptive trend across the three attempts in the mannequin study of 130 studen
 - [Video laryngoscopy yields higher intubation success rates than direct laryngoscopy among novice medical students on the first and second attempts, but not on the third](vl-higher-success-first-second-attempt.md) — related
 - [Video laryngoscopy produces shorter intubation times than direct laryngoscopy on the second and third attempts, but not on the first](vl-shorter-times-second-third-attempt.md) — related
 - [Male students show a trend toward more quiz attempts, and time spent per attempt decreases with each new attempt](males-trend-more-quiz-attempts.md) — related
+- [Time spent on successive assessment tasks decreased sharply within each peer assessment meeting](assessment-phase-time-decreased-across-meetings.md) — related

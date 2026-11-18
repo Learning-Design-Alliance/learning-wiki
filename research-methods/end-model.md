@@ -27,4 +27,4 @@ The βEND model assigns each course a difficulty term D and each user an engagem
 -
 
 ## Key Sources
-- Wintermute, E. H., Cisel, M., & Lindner, A. B. (2019). A survival model for course-course interactions in a Massive Open Online Course platform. arXiv. https://www.fun-mooc.fr
+- Wintermute, E. H., Cisel, M., & Lindner, A. B. (2019). A survival model for course-course interactions in a Massive Open Online Course platform. arXiv. https://www.fun-mooc.fr. [doi:10.48550/arxiv.1905.04201](https://doi.org/10.48550/arxiv.1905.04201)

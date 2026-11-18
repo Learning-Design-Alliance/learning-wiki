@@ -54,3 +54,4 @@ Survey item on main information source about radioactivity among the 131 respond
 - [Greek non-physics-major undergraduate students hold inadequate and confused knowledge of general-interest nuclear issues, with incorrect answers exceeding correct ones in more than half of the questions](tei-students-faulty-nuclear-views.md) — related
 - [TV, specialized press, internet and astronomy museums are the most used channels for seeking astronomy information, with internet dominant among students](astronomy-information-sources-tv-internet.md) — related
 - [Radio broadcasts have tremendous penetration among general publics without access to the internet in Latin America and other developing regions](radio-penetration-reaches-audiences-without-internet.md) — related
+- [Internet, TV and school are the main reported sources of radioactivity knowledge, with school peaking in 3rd ESO and the master group](main-information-sources-internet-tv-school.md) — related

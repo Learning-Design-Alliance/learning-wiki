@@ -55,3 +55,4 @@ Retention analysis of the 2017 and 2018 cohorts using Chancellor's Office enroll
 - [Systemwide first-year B4 completion rose to approximately 73 percent in 2018/19, up from approximately 63 percent in each of the three previous years](eo1110-b4-completion-increase-first-year.md) — related
 - [Retention rates for Black/African American and Hispanic/Latino students dropped more steeply between the second and third semesters than for White and Asian students in both cohorts](eo1110-retention-gaps-widen-by-ethnicity.md) — related
 - [Attrition from General Chemistry-IS was higher than from General Chemistry and previous fall semesters](is-course-higher-attrition-rate.md) — related
+- [A course-based data science research experience in a first-semester introductory course can be completed by all enrolled students with no course attrition](cures-first-semester-no-attrition.md) — related

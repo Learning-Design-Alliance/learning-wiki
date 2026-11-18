@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In follow-up interviews, students expressed appreciation for the creative freedom and non-linear nature of the project. [→ Tor Ole B. Odden and John Burk 2020 (2)](#tor-ole-b-odden-and-john-burk-2020-2)
@@ -66,3 +66,6 @@ The same follow-up interviews surfaced challenges: "it could be difficult to cho
 ## Related Claims
 - [Students valued the independence, real-world relevance, hands-on work, and collaboration in challenge based lessons](students-valued-independence-and-real-world-relevance.md) — a broader claim this one bears on
 - [Interviewed students reported that rubric use, though initially stressful, helped them appreciate the qualities of good writing](rubric-interviews-appreciation-good-writing.md) — related
+- [Students reported that the creative freedom of the computational-essay project was motivating, and about half spent substantially more time on it than the assignment it replaced](computational-essay-creative-freedom-motivating.md) — related
+- [Students found the openness of the computational-essay project challenging, particularly choosing a topic, but appreciated the provided scaffolds such as example essays and starter simulations](computational-essay-openness-challenging-scaffolds-appreciated.md) — possibly the same claim (merge candidate)
+- [Students in a pilot computational-essay project reported that open-ended programming offered creative freedom at both a micro level (varied approaches to sub-tasks) and a macro level (choice of topics and projects)](computational-essays-creative-freedom-micro-macro.md) — related

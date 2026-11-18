@@ -69,3 +69,4 @@ Matched pre/post E-CLASS data (1,377 DL1 and 925 DL2 students) administered as a
 - [Students in Traditional first-year physics labs show a significant negative shift in E-CLASS scores, while students in Transformed courses do not shift significantly](traditional-labs-negative-eclass-shift-transformed-none.md) — related
 - [First-year physics lab students' overall E-CLASS scores decline significantly over one semester of instruction (d = −0.15)](fy-lab-e-class-overall-negative-shift.md) — a broader claim this one bears on
 - [Gender is a significant predictor of post-instruction E-CLASS means in Traditional courses only, with men's adjusted means higher than women's](gender-predictor-traditional-courses-only.md) — related
+- [Pre/post E-CLASS scores showed a small decrease in expert-like responses and no statistically significant pre-post differences in a partially reformed lab course](e-class-pre-post-no-significant-change-mixed-labs.md) — related

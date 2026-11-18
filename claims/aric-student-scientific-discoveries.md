@@ -86,3 +86,4 @@ The review's description of Hands on Universe reports a web-based asteroid searc
 - [Working with real data helps students understand the evidence behind scientific world views and discard mistaken preconceptions](real-data-helps-discarding-preconceptions.md) — related
 - [The Pulsar Search Collaboratory shows positive effects on middle and high-school students' science identity, self-efficacy, and STEM intentions relative to a control group](psc-student-identity-self-efficacy-gains.md) — related
 - [STARS undergraduate research experiences produced statistically significant growth in astrophysics understanding and confidence, with effects amplified for URM and female students](stars-undergrad-research-gains.md) — related
+- [PSC I students discovered seven pulsars and detected 25 already known pulsars while analyzing program data](psc1-student-pulsar-discoveries.md) — related

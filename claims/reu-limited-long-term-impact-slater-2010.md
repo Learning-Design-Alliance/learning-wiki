@@ -49,3 +49,4 @@ The white paper attributes this finding to Slater (2010), citing it as backgroun
 - [Having a mentor other than one's advisor during graduate school did not affect whether one was working in astronomy or physics after earning a PhD and completing any postdocs](extra-mentor-no-effect-on-retention.md) — related
 - [UAT participation reached 373 students (39% women, ~30% underrepresented groups) and 34 faculty (44% women) over twelve years](uat-participation-373-students-diversity.md) — related
 - [Most undergraduate research experiences arise from local or informal opportunities rather than national agency-sponsored programs](undergrad-research-local-informal-majority.md) — related
+- [IAYC alumni in full-time astronomy careers show higher first-author paper and citation rates than comparison groups of astronomers, in a small non-equivalent sample](iayc-alumni-bibliometric-comparison.md) — related

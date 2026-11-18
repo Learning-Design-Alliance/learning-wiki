@@ -67,3 +67,4 @@ National survey of medical and physics residents cited in the Introduction: "onl
 ## Related Claims
 - [A survey suggested residency programs with an incident learning system are more effective at safety and quality education](incident-learning-systems-linked-to-better-safety-education.md) — related
 - [A structured patient safety education program was successfully completed by five medical physics residents between 2014 and 2016 with positive feedback](patient-safety-program-five-residents-completed.md) — related
+- [Radiation oncology trainees and chairs report high interest and unmet need in bioinformatics/quantitative training](astro-2017-survey-bioinformatics-training-interest.md) — related

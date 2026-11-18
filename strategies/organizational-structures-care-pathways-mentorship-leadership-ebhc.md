@@ -57,6 +57,7 @@ In its conclusions, the review recommends that "healthcare organizations and edu
 - [Implement structured mentorship programs and formal leadership development initiatives for healthcare professionals in LMIC settings](structured-mentorship-leadership-development-lmic.md)
 - [Targeted interventions to enhance clinical preparation, plus mentorship and education–practice collaboration, to bolster nurse interns' readiness](enhance-clinical-preparation-interventions-nurse-interns.md)
 - [Implement organizational educational interventions — mentorship, structured feedback, and continuing professional development — to raise nurses' clinical competence](educational-interventions-mentorship-feedback-nurse-competence.md)
+- [Guide stage-based small groups through a five-year career planning path with senior mentors](five-year-career-planning-small-groups.md)
 
 ## Examples
 -

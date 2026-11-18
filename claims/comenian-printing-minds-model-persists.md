@@ -47,3 +47,4 @@ Theoretical argument from the abstract and historical section: the authors trace
 
 ## Related Claims
 - [The article argues that memorization-centered management education faces three specific challenges: theory-practice disconnection, textbook lag, and simulation-reality divide](three-challenges-memorization-management-education.md) — related
+- [Physics teaching is described as stuck in outdated pre-20th-century content, and barriers to including Modern and Contemporary Physics are multiple and interacting](mcp-teaching-outdated-content-barriers.md) — a narrower finding that bears on this claim

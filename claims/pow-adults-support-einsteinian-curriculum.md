@@ -50,3 +50,4 @@ Attitudinal post-questionnaire (Likert-type scale) from 25 adults attending the 
 - [Year 6 students find Einsteinian concepts interesting and do not consider themselves too young to learn them](einstein-first-year6-attitudes.md) — related
 - [88% of students said hands-on activities helped them understand Einsteinian concepts, and 70% wanted to learn more Einsteinian physics](hands-on-activities-helped-clarity-einsteinian-concepts.md) — related
 - [In a small school focus group, 100% agreed the Planeterrella presentation was interesting and science affects everyday life, and 75% wanted to learn more about science careers](planeterrella-focus-group-interest-careers.md) — related
+- [High-school students are reported to be able to assimilate modern physics concepts such as gravitational waves and relate them to their daily lives](students-assimilate-modern-physics-concepts.md) — related

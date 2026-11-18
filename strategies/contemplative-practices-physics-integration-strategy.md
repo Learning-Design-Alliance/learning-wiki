@@ -52,6 +52,7 @@ The article presents two classroom practices: a guided somatic sensory meditatio
 
 - [Mindfulness and Movement Integration](mindfulness_and_movement_integration.md)
 - [Shadow screen performance in which students choreograph particle physics concepts with their bodies](shadow-screen-particle-performance.md)
+- [Integrate a somatic meditation and contemplation assignment into physics courses to connect theory with lived experience](somatic-meditation-physics-assignment-strategy.md)
 
 ## Examples
 -

@@ -71,3 +71,5 @@ Descriptive analysis of 2023/24 statewide data, reported in text and Figure 1, o
 - [Small-group learning effects vary by classroom gender and ethnic diversity, with effects smaller in female-dominated and predominately White classrooms](diversity-composition-moderates-small-group-effects.md) — related
 - [Participants in VM-for-EBD research are disproportionately male: only 14% of gender-reporting studies' participants were female versus about 24% of the EBD population](vm-ebd-gender-underrepresentation-females.md) — related
 - [The SAT-M 600 threshold implies demographic ratios among successful Physics and Mathematics students will be highly skewed](sat-m-threshold-demographic-implications.md) — related
+- [Enrollment strategy distributions differ by gender and race/ethnicity](enrollment-strategy-differs-by-gender-and-ethnicity.md) — related
+- [No demographic or prior-knowledge risk factors for being excluded from small groups or dropping out could be identified; students with and without grades were similar](no-demographic-risk-factors-lab-dropout.md) — reports the opposite

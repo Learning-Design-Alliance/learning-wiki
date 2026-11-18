@@ -53,3 +53,4 @@ Mediation analysis using PROCESS Model 4 with bootstrapping tested whether state
 - [VR listening mode significantly enhanced affective engagement during listening tasks](vr-enhances-affective-engagement-listening.md) — related
 - [VR listening mode significantly increased cognitive absorption during listening tasks](vr-increases-cognitive-absorption-listening.md) — related
 - [In an observational path model of at-risk readers, first-grade attention had no significant direct path to third-grade reading comprehension but a significant indirect path through word reading, not listening comprehension](attention-indirect-effect-comprehension-via-word-reading.md) — related
+- [Children sustained wide attention on the educational games, engaging with the tasks indirectly](wide-attention-indirect-educational-engagement.md) — related

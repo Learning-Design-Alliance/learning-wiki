@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: weak
-newest_evidence: 2012
+newest_evidence: 2013
 sources:
-  - id: roberto-benedetti-2012
+  - id: roberto-benedetti-2013
     resource: "https://doi.org/10.48550/arXiv.1302.3767"
-    title: "Roberto Benedetti, Emilio Mariotti and Vera Montalbano. (2012). First Steps into Physics in the Winery. Department of Physics, University of Siena. [doi:10.48550/arXiv.1302.3767](https://doi.org/10.48550/arXiv.1302.3767)"
+    title: "Roberto Benedetti, Emilio Mariotti and Vera Montalbano. (2013). First Steps into Physics in the Winery. Department of Physics, University of Siena. Originally published 2012. [doi:10.48550/arXiv.1302.3767](https://doi.org/10.48550/arXiv.1302.3767)"
     author: Roberto Benedetti, Emilio Mariotti and Vera Montalbano
     q: 1
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q1 i?` During class discussion many students properly connected heating time of a constant heater, heat transferred, temperature variations, changes of state and how the Malligand device works. [→ Roberto Benedetti 2012](#roberto-benedetti-2012)
+`q1 i?` During class discussion many students properly connected heating time of a constant heater, heat transferred, temperature variations, changes of state and how the Malligand device works. [→ Roberto Benedetti 2013](#roberto-benedetti-2013)
 
 ## Evidence
 
-### Roberto Benedetti 2012
+### Roberto Benedetti 2013
 
-Roberto Benedetti, Emilio Mariotti and Vera Montalbano. (2012). First Steps into Physics in the Winery. Department of Physics, University of Siena. [doi:10.48550/arXiv.1302.3767](https://doi.org/10.48550/arXiv.1302.3767)
+Roberto Benedetti, Emilio Mariotti and Vera Montalbano. (2013). First Steps into Physics in the Winery. Department of Physics, University of Siena. Originally published 2012. [doi:10.48550/arXiv.1302.3767](https://doi.org/10.48550/arXiv.1302.3767)
 
 `q1 · i?` · `design · r2`
 
@@ -47,3 +47,4 @@ Direct observation of the discussion following the changes-of-state laboratory, 
 ## Related Claims
 - [In the blacksmithing heat-transfer lab, the pre-trip simulation consistently overpredicted rod temperatures, and adding a radiation transfer scheme improved the fit to student-collected forge data](simulation-overprediction-radiation-scheme-improves-fit.md) — related
 - [Physical environment elements — sunlight, nature views, temperature, and lighting — affect learning](physical-environment-affects-learning.md) — related
+- [Students' spontaneous questions during the experiments showed investigative engagement and transfer of concepts to everyday situations](student-questions-investigative-engagement-arduino-experiments.md) — related

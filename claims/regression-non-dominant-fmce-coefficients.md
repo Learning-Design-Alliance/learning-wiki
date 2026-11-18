@@ -71,3 +71,4 @@ The same regression model (Table III) tested concept-inventory and interaction e
 - [LA-supported courses have higher relative gains for underserved students (87% vs 80% of dominant-group gains)](la-support-higher-relative-underserved-gains.md) — related
 - [LA support is not associated with smaller performance gaps between demographic groups (p > 0.8, d ~ 0.01)](la-support-no-gap-reduction.md) — reports the opposite
 - [The article reports larger pretest-to-posttest gains in collaborative-learning and LA-supported courses than in traditional courses, though the collaborative-only model coefficient was not reported as significant](collaborative-learning-larger-gains-than-traditional-physics.md) — related
+- [The study's two-administration design with long gaps provides evidence that the FMCE yields reliable measures of students' learning over time and multiple implementations](fmce-test-retest-reliability-evidence.md) — related

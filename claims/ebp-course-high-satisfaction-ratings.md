@@ -82,3 +82,4 @@ Course evaluation survey using a researcher-designed five-point Likert scale adm
 - [Participants were highly satisfied with the online oncogenetics module, with satisfaction item scores of at least 4.1 and a global score of 7.9](high-satisfaction-online-genetics-cpd-module.md) — related
 - [Participants whose goals matched EBM content rated course relevance higher (80% vs 65%), and relevance was only weakly correlated with teaching-quality ratings](course-relevance-learning-goal-match.md) — related
 - [Residents rated the EBM workshop very positively and reported perceived knowledge gains, but these perceptions were not associated with measured skill increases](workshop-satisfaction-not-linked-to-gains.md) — related
+- [Students rated pre-class videos as useful to their learning (mean 4.034 on a 5-point scale)](flipped-preclass-videos-perceived-useful.md) — related

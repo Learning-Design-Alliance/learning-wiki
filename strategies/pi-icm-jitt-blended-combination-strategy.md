@@ -48,6 +48,7 @@ Die Strategie kombiniert drei Ansätze zu einem flexiblen Blended-Learning-Veran
 
 - [Blended Learning](../patterns/blended-learning.md)
 - [Plan ICM evaluations with multiple proximal outcome criteria, multiple data sources and time points, capture of unintended effects, moderators and process data](icm-evaluation-planning-strategy.md)
+- [Thematische Einführung über Videos und Alltagsvorstellungen vor dem Experiment](video-einfuehrung-vor-auftriebsexperiment.md)
 
 ## Examples
 -

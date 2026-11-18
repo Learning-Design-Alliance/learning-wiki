@@ -51,3 +51,4 @@ Gender analysis of pre-post gains in the randomized three-treatment electric fie
 - [Men outperformed in the VR condition, with gender and video game experience highly correlated, leaving the responsible variable unclear](gender-video-game-interaction-vr-advantage.md) — related
 - [Smartphone stereoscopic VR, video, and static 2D image treatments produce no significantly different pre-post gains on electric field direction questions in freshman electrostatics](no-significant-gain-differences-vr-video-images.md) — related
 - [Men report higher computer self-efficacy, domain identification, knowledge, and motivation than women](gender-gaps-computer-self-efficacy-knowledge-motivation.md) — related
+- [Students rated the VR electrostatics intervention positively and equally across treatment groups](students-rate-vr-intervention-positively-equally.md) — related

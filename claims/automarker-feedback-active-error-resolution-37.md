@@ -49,3 +49,4 @@ Self-reflection survey questions gauging know-why asked whether test-case feedba
 - [Students surveyed in a DSA course perceived the automarker as a formative instructional strategy that supported experiential learning of programming](automarker-survey-favourable-formative-perceptions.md) — related
 - [Engagement with the feedback process was limited: 39.0% of students declined to comment and a further 30.2% had no specific suggestion](limited-engagement-with-feedback-process.md) — related
 - [Student-reported vector-learning gains from the programming exercise are mixed, which the authors read as a gauge of how connected the activity feels to course material](mixed-vector-learning-gains-programming-lab.md) — related
+- [Students regarded feedback as an important component of peer assessment, valuing corrective and suggestive comments beyond bare marking](peer-feedback-importance-corrective-suggestive.md) — related

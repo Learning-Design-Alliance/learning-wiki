@@ -65,3 +65,4 @@ Three-stage WLSMV multigroup invariance sequence (Nmen=251, Nwomen=255) followed
 - [The factor structure of the Spanish ARS is invariant with respect to gender at the measurement-weight level](spanish-ars-gender-invariance.md) — related
 - [Effects of mathematics tutoring quality were similar across below-average, average, and above-average performing students](tutoring-quality-effects-similar-across-achievement-subgroups.md) — related
 - [Teenagers’ gender moderates the links between parental socialization and adjustment and academic performance: the model structure is equivalent across gender but the structural relationships are not invariant](gender-moderates-parenting-academic-performance-links.md) — related
+- [Measurement invariance holds by gender and no gender differences appear in any predictive paths; differences occur only in high school GPA and introductory physics intercepts](no-gender-differences-in-predictive-paths-sem.md) — reports the opposite

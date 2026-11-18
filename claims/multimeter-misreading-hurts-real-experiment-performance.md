@@ -50,3 +50,4 @@ Author's interpretation (§5) of the capacitor-unit quiz results, where many stu
 - [A tablet-based AR app displaying real-time measurement data above circuit components aided conceptual knowledge acquisition more effectively than traditional physics lab lessons](ar-realtime-measurement-aids-conceptual-knowledge-physics.md) — related
 - [After a 1-day ECMO simulation course, most delegates reported perceived gains in technical skills such as circuit troubleshooting and pump familiarity](ecmo-simulation-course-technical-skill-gains.md) — related
 - [State-of-the-art multimodal LLMs cannot reliably interpret circuit diagrams and therefore cannot independently solve circuit analysis problems](vlm-cannot-interpret-circuit-diagrams.md) — related
+- [In a large-scale college introductory physics course, simulated equipment (PhET) improved students' mastery of physics concepts better than assembling real circuits](phet-simulation-better-than-real-circuits.md) — related

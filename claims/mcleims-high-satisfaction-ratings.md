@@ -75,3 +75,4 @@ Descriptive analysis of a locally developed 23-item five-point Likert questionna
 - [Attendees rate the streamlined train-the-trainer workshop highly satisfactory](ft-workshop-satisfaction-ratings.md) — related
 - [All three OCTQ global ratings showed mean scores greater than 4, raising ceiling-effect concerns](octq-global-ratings-ceiling-effect.md) — related
 - [Learners rated the circuit-measuring cooperative system positively on a five-point Likert questionnaire](likert-questionnaire-positive-circuit-measuring-system.md) — related
+- [Students rated the lidyef2018 program highly on a 5-point evaluation survey, with an overall score of 4.09±0.77](lidyef2018-evaluation-survey-4-09.md) — related

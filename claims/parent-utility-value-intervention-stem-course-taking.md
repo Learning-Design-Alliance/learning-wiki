@@ -47,3 +47,4 @@ SEM analysis of the RCT reports the course-taking effect, previously reported by
 ## Related Claims
 - [High-school mathematics and science course-taking significantly predicted all measured posthigh-school STEM career pursuit outcomes](high-school-course-taking-predicts-career-pursuit.md) — related
 - [A parent-centered utility-value intervention increased adolescents' mathematics and science ACT scores by about 12 percentile points](parent-utility-value-intervention-act-scores.md) — related
+- [A national open-application process attracted 681 valid applications, from which 30 students were selected with preference for those without prior science-event opportunities](lidyef2018-30-selected-from-681-applicants.md) — related

@@ -51,3 +51,4 @@ Same quasi-experiment; ANCOVA on EPQ posttest scores adjusted for baseline showe
 - [μ-Suppression scores are greater in the 360° video group at Cz and C4 but not at C3](360-video-mu-suppression-cz-c4.md) — related
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — a broader claim this one bears on
 - [Older students report statistically higher simulation design and educational practice scores than younger students](older-students-higher-sds-epq-scores.md) — related
+- [The benefit of preliminary VR training was limited to questions posed in VR, with no improvement on 2D computer-based posttest questions](vr-training-benefit-limited-to-vr-posed-questions.md) — related

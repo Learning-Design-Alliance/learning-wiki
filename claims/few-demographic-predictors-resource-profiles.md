@@ -59,3 +59,4 @@ Manual three-step BCH multinomial logistic regression of latent class membership
 - [Participation in the PLC learning community is equitably distributed across gender and ethnicity](plc-participation-equitably-distributed.md) — related
 - [Demographic factors other than final grade showed no impact on persistence in the logistic regression models](demographics-null-persistence-mi.md) — related
 - [Demographic, departmental, and institutional factors are less useful predictors of faculty experience teaching computation](demographic-departmental-factors-less-predictive.md) — related
+- [Enrollment strategy distributions differ by gender and race/ethnicity](enrollment-strategy-differs-by-gender-and-ethnicity.md) — reports the opposite

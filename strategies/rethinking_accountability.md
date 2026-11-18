@@ -68,6 +68,7 @@ Fair assessment requires that grades reflect achievement of learning goals rathe
 - [Support the shift from standardized testing toward diverse assessment strategies—performance-based assessments, portfolios, and experiential learning—with teacher training, resource allocation, and accountability flexibility](diverse-pog-assessment-strategies-with-teacher-support.md)
 - [Design assignments with flexible deadlines during ERT to accommodate learners' increased obligations in crisis times](flexible-deadlines-ert-assignments.md)
 - [Offer instructors grading alternatives that eliminate behavioral zeros](grading-alternatives-to-behavioral-zeros.md)
+- [Use two assessment rubrics so engagement with the adaptive platform can improve grades without penalizing non-users](dual-rubric-platform-incentive.md)
 
 ## Related Elements
 - [Assessment](../elements/assessment.md) — the structure being rethought; alternative formats live here

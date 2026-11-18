@@ -56,3 +56,4 @@ Synthesis of seven intervention studies in the review's evidence-strength table 
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — related
 - [Classroom physical activity breaks show strong evidence of improving positive academic emotions in university students](pa-breaks-positive-emotions-strong-evidence.md) — related
 - [In secondary school students, breaks with green views or walks in larger green spaces improve attention performance](green-exposure-secondary-school-attention.md) — related
+- [Children sustained wide attention on the educational games, engaging with the tasks indirectly](wide-attention-indirect-educational-engagement.md) — related

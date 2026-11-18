@@ -66,3 +66,4 @@ Results section, Bayesian GLMM on gaze allocation. No syndrome group differed re
 ## Related Claims
 - [All groups, including individuals with Down, Fragile X, and Williams syndromes, adapted their choices based on deterministic feedback, staying with rewarded options and switching after losses](feedback-learning-intact-genetic-id-groups.md) — related
 - [Individuals with Williams syndrome show intact behavioral feedback learning but no loss-driven pupil dilation, a dissociation from typically developing controls](ws-pupil-valence-dissociation.md) — related
+- [Incorrect responses are associated with longer visit durations on incorrect options and less time on correct options, with a large interaction effect](accuracy-option-type-interaction-attention.md) — related

@@ -47,6 +47,7 @@ The paper's instructional strategy is an undergraduate project in a basic comput
 - [Incorporate computation into an existing classical mechanics course through in-class demonstrations followed by student projects that progress from template modification to independent construction](demonstration-template-to-independent-projects.md)
 - [Assign extension projects on the relativistic plane solutions: transverse geodesics, horizons, wave-equation field trapping, and massless particles](student-projects-relativistic-plane-metrics.md)
 - [Incorporate numerical calculation into introductory quantum courses to counteract abstraction-driven misconceptions](incorporate-numerical-calculation-in-quantum-courses.md)
+- [Refer to resolution as a number or value and emphasize that small values detect fine details](resolution-as-number-value-language-strategy.md)
 
 ## Examples
 -

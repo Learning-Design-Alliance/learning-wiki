@@ -55,3 +55,4 @@ Analysis of FCI normalized gains plotted against IELTS overall score (Fig. 4, bo
 - [When the γ-process (associative interaction of correct and incorrect knowledge) is considered, the normalized gain correlates positively with pretest score](gamma-process-positive-gain-pretest-correlation.md) — related
 - [Overall TOEFL score shows very low correlation with FCI performance, but reading ability correlates an order of magnitude more strongly](toefl-reading-ability-fci-correlation.md) — related
 - [A fixed raw or Hake gain corresponds to different proficiency progressions depending on students' initial pre-test score](fixed-gain-different-proficiency-progressions.md) — related
+- [Teaching methods may require thoughtful adaptation to succeed in very different contexts, while faithful implementation can succeed in similar contexts](teaching-method-adaptation-context-dependent.md) — related

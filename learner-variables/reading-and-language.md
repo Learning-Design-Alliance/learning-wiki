@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 344 claims (214 show a difference, 58 mixed, 72 no difference) · 240 studies (97 causal, 56 associational, 36 quant-synthesis, 33 review, 8 theoretical, 5 qualitative, 5 design), `q1`–`q4` · 53 of 240 report an effect size · 335 claims rest on one study
+> **Evidence** · 345 claims (214 show a difference, 59 mixed, 72 no difference) · 241 studies (98 causal, 56 associational, 36 quant-synthesis, 33 review, 8 theoretical, 5 qualitative, 5 design), `q1`–`q4` · 53 of 241 report an effect size · 336 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -395,6 +395,7 @@ What a learner can read without effort, and whether the language of instruction 
 - [This study demonstrates, for the first time, a longitudinal link between sign-based abilities and word reading in DHH signing children learning to read](../claims/first-longitudinal-link-sign-abilities-word-reading-dhh.md) [+M] — learners who differ on it differ in outcomes
 - [Diagnostic accuracy varied by case, lowest for the HIV case with English as a second language and highest for the diabetes case with both contextual factors](../claims/case-contextual-factor-accuracy-variation.md) [~M] — learners who differ on it differ in outcomes
 - [Overall TOEFL score shows very low correlation with FCI performance, but reading ability correlates an order of magnitude more strongly](../claims/toefl-reading-ability-fci-correlation.md) [+W] — learners who differ on it differ in outcomes
+- [One-way ANOVA shows post-test scores differ across estimated ability levels in the experimental group (vocabulary F= 5.75, grammar F= 4.71, reading comprehension F= 5.98) but not for vocabulary and grammar in the control group](../claims/anova-distinguishes-estimated-ability-groups.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

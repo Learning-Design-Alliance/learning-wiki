@@ -74,3 +74,4 @@ Fidelity quality ratings on the five-point IFC scale were collected by observers
 - [PFS was implemented with high coach and teacher fidelity and child compliance, but parent compliance was low](pfs-implementation-fidelity-high-parent-compliance-low.md) — related
 - [Basic and Plus teachers showed fairly high and statistically similar adherence to the MTP-M/S curricula](mtp-ms-teacher-adherence-fidelity.md) — related
 - [Teachers implemented on average 98% of juggling-math lessons and 99% of control math lessons over the 5-week program](juggling-math-high-implementation-rates.md) — related
+- [Learning implementation proportions were no less than 83% for each phase in both groups](pp-implementation-fidelity-83-percent.md) — related

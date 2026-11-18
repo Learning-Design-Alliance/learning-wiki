@@ -63,3 +63,5 @@ The review synthesizes how Abdul Rahim et al. (2022) and Cantwell et al. (2022) 
 - [E-learning fosters learner autonomy and self-directed learning by enabling students to control pace, time, and content](elearning-fosters-learner-autonomy-self-direction.md) — related
 - [The article attributes Sim + LBL's effectiveness to cognitive and motivational processes consistent with Self-Determination Theory](sdt-explanation-sim-lbl-effectiveness.md) — related
 - [Game based learning activities meet four player-activity requirements—students' goals, autonomy, competence, and relatedness—to foster autonomous motivation](four-requirements-autonomous-motivation-dgbl.md) — related
+- [How Learning Works teaching principles and Self-Determination Theory needs characterize physics faculty's productive teaching ideas and motivations](hlw-sdt-characterize-faculty-teaching-ideas.md) — related
+- [Interview data from research-participating physics students contained three distinct motivations for doing research, aligned with SDT's autonomy, competence, and relatedness dimensions](three-research-motivations-sdt-alignment.md) — related

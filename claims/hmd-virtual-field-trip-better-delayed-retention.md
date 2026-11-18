@@ -58,3 +58,4 @@ Independent-samples t-test (Hypothesis 5) on the delayed posttest after the full
 - [Screen-based 360° contextual simulation videos yield higher posttest Student Satisfaction and Self-Confidence in Learning scores than dose-matched 2D videos](360-video-higher-scls-nursing.md) — related
 - [Screen-based 360° contextual simulation videos yield higher posttest Simulation Design Scale scores than dose-matched 2D instructional videos in undergraduate nursing students](360-video-higher-sds-nursing.md) — related
 - [At four-week retest, breastfeeding self-efficacy remains higher in the simulator group than in the video group](retest-self-efficacy-simulator-exceeds-video.md) — related
+- [The benefit of preliminary VR training was limited to questions posed in VR, with no improvement on 2D computer-based posttest questions](vr-training-benefit-limited-to-vr-posed-questions.md) — related

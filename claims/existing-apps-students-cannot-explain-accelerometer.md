@@ -47,3 +47,4 @@ Preliminary study of laboratory sections using smartphones in lieu of convention
 ## Related Claims
 - [After using the MyTech app and its curriculum, students gave more accurate, more detailed explanations of how the smartphone accelerometer works](mytech-improves-accelerometer-explanations.md) — related
 - [Most students agreed that the spring-model visualization helped them understand how the smartphone accelerometer works](spring-visualization-self-reported-value.md) — related
+- [Teachers and students gave positive feedback on smartphone physics experiments](positive-feedback-smartphone-physics-experiments.md) — related

@@ -53,3 +53,4 @@ The report's narrative synthesis, citing Goupil & Proust and Csikszentmihalyi, s
 - [Effortful regulation is maximized at moderate levels of emotional and physiological reactivity and declines at very low or very high levels](inverted-u-arousal-executive-function.md) — a broader claim this one bears on
 - [The relationship between effort and meaning follows an inverted U-shape: moderate friction enhances meaning and motivation while excessive friction overwhelms](effort-meaning-inverted-u-shape.md) — a broader claim this one bears on
 - [Struggle maintained just along the edge of understanding entices learners to strive further, while excessive struggle may demoralize](struggle-edge-of-understanding-balance.md) — related
+- [Practicing qualitative methods is fast and intuitive, boosting learner self-esteem and helping students and professionals navigate information overload](qualitative-methods-build-self-esteem-navigation.md) — related

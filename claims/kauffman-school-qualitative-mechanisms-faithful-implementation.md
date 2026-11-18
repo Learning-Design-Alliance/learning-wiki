@@ -49,3 +49,4 @@ The paper used qualitative data to explore possible mechanisms for the school's 
 - [Key stakeholders believe the Kauffman School's methods positively influence students' behavior, attitudes, and performance](kauffman-stakeholders-believe-methods-improve-behavior-attitudes-performance.md) — possibly the same claim (merge candidate)
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — related
 - [Qualitative findings across four studies describe improved leadership knowledge, skills, beliefs, attitudes, and stakeholder engagement](qualitative-improvements-leadership-competencies.md) — related
+- [Research in the teaching-method-centered paradigm does not support its premises that using more named methods, or implementing them faithfully, is more effective](method-centered-paradigm-premises-lack-research-support.md) — related

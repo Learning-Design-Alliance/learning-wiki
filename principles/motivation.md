@@ -310,6 +310,7 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [Design assessment as information, not reward and punishment, and provide an engaging curriculum with choice and community](../strategies/assessment-as-information-not-reward.md)
 - [Design peer mindset interventions that leverage adolescents' need for belonging and status, including high-status peer models](../strategies/leverage-belonging-status-peer-mindset-interventions.md)
 - [Communicate course structure and expectations early to support students' self-efficacy at course start](../strategies/early-structure-communication-supports-self-efficacy.md)
+- [Improve equity and inclusion in introductory physics, including interventions to boost self-efficacy, growth mindset and sense of belonging](../strategies/equity-inclusion-interventions-introductory-physics.md)
 
 ### Illustrative
 

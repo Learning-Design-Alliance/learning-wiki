@@ -53,3 +53,4 @@ Paired-samples t-test analysis of pre-post Environmental Literacy Scale scores i
 - [Within-group knowledge gains from pre-test to post-test are statistically significant in both the intervention and control groups](within-group-knowledge-gains-both-groups-immunohematology.md) — reports the opposite
 - [Professional attitudes toward physiotherapy did not change under any instructional model](no-attitude-change-any-instructional-model.md) — related
 - [Non-IDSE interns exposed only to within-discipline simulation showed no statistically significant change in interdisciplinary attitude ratings](non-idse-cohort-no-attitude-change.md) — related
+- [The experimental group improved significantly from pre-test to post-test (p<0.001) while the control group showed no statistically significant change](history-informed-group-pretest-posttest-improvement.md) — related

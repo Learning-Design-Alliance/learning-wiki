@@ -59,3 +59,4 @@ Qualitative content analysis of the interviews generated the main category 'Barr
 - [Nurses wanted more opportunity to learn how colleagues manage Teach-Back and more visual reminders to maintain use](nurses-wanted-peer-learning-and-visual-reminders.md) — related
 - [Physicians most frequently identified health education as the element they want to start or increase in their practice](physicians-want-increased-health-education.md) — related
 - [In time-scarce clinical practice, competency-driven portfolio checklists degenerate into bureaucratic exercises that stand between the learner and workplace learning opportunities](portfolio-bureaucracy-competency-based-checklists.md) — related
+- [Students occasionally reminded of the lab course's auxiliary materials reported using them more, and finding them helpful, than a non-randomly formed comparison group; passing was not measured](reminders-increase-auxiliary-material-use.md) — related

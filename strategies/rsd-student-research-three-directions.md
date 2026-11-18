@@ -51,4 +51,4 @@ The article outlines three directions for student research work with Earth remot
 -
 
 ## Key Sources
-- Kholoshyn, I.V., Varfolomyeyeva, I.M., Hanchuk, O.V., Bondarenko, O.V., Pikilnyak, A.V. (2019). Pedagogical techniques of Earth remote sensing data application into modern school practice. (No publisher URL or DOI printed in the article text.). https://arxiv.org/abs/1909.04381
+- Kholoshyn, I.V., Varfolomyeyeva, I.M., Hanchuk, O.V., Bondarenko, O.V., Pikilnyak, A.V. (2019). Pedagogical techniques of Earth remote sensing data application into modern school practice. (No publisher URL or DOI printed in the article text.). https://arxiv.org/abs/1909.04381. [doi:10.31812/123456789/3262](https://doi.org/10.31812/123456789/3262)

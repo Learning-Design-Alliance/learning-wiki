@@ -47,3 +47,4 @@ Project report by two student interns and their supervisor at Haus der Astronomi
 ## Related Claims
 - [Analysis of 137 participants' descriptions of a galaxy simulation yielded five qualitatively different categories of disciplinary discernment](five-categories-disciplinary-discernment.md) — related
 - [An alarming 43% of first-year astronomy undergraduates focused on non-disciplinary things in presented representations](first-year-non-disciplinary-discernment-43-percent.md) — related
+- [Duo internships pairing student teachers with astronomy students produced lessons that were scientifically correct and pedagogically sound](duo-internship-teacher-training-pilot.md) — related

@@ -47,6 +47,7 @@ Trained health workers transfer RDT skills to colleagues at their own facilities
 - [Cascading training model from tertiary specialists to primary care physicians and community health workers for MASLD screening](cascading-masld-training-model.md)
 - [Optimizing MECC TtT delivery: skills-based experiential training, clear cascade expectations, trainer flexibility, and quality-based evaluation](mecc-ttt-optimization-recommendations.md)
 - [Adopt onsite LDHF/m-mentoring for health worker capacity building where feasible, keeping staff at service delivery points](onsite-ldhf-mentoring-capacity-building-strategy.md)
+- [Train primary school teachers to extend and multiply early-astronomy programmes](unawe-teacher-training-multiplication-strategy.md)
 
 ## Examples
 -

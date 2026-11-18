@@ -47,3 +47,4 @@ Hierarchical linear modeling of LASSO database data from 4,365 students in 93 in
 ## Related Claims
 - [Instructor effectiveness is maintained as instructors gain experience teaching with Learning Assistants](la-supported-instructors-maintain-effectiveness.md) — related
 - [The predicted posttest-score gap favoring LA-supported courses grows from 3.1% with no prior instructor experience to 10.3% at six terms of experience](la-gap-grows-with-instructor-experience.md) — related
+- [LA-supported introductory physics courses are associated with lower overall DFW rates than traditional courses taught by the same instructors](la-support-lower-overall-dfw-rates.md) — related

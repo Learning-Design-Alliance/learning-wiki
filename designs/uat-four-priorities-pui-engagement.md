@@ -48,4 +48,4 @@ The article enumerates the priorities it identified to address the challenges of
 -
 
 ## Key Sources
-- Koopmann, R. A., et al. (2019). Integrating Undergraduate Research and Faculty Development in a Legacy Astronomy Research Project. Astro2020 APC White Paper. https://arxiv.org/abs/1907.06754
+- Koopmann, R. A., et al. (2019). Integrating Undergraduate Research and Faculty Development in a Legacy Astronomy Research Project. Astro2020 APC White Paper. https://arxiv.org/abs/1907.06754. [doi:10.48550/arxiv.1907.06754](https://doi.org/10.48550/arxiv.1907.06754)

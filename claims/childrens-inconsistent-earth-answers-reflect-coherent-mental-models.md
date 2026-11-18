@@ -60,3 +60,4 @@ The study is the standard citation for the view that children's misconceptions a
 - [An interviewed student held the pictures that bond breaking in ATP releases energy and that bond forming releases energy simultaneously, and had not fully reconciled them](wylie-holds-conflicting-bond-energy-pictures-simultaneously.md) — a narrower finding that bears on this claim
 - [Large fractions of middle school students hold incorrect views about sizes and distances in the universe both before and after instruction](niaq-size-distance-misconceptions.md) — related
 - [Many intervention 3 students gave dialogue answers inconsistent with their actual quiz-problem solutions](dialogue-answer-solution-inconsistency-intervention-3.md) — a narrower finding that bears on this claim
+- [Pupils revert to alternative frameworks for their intuitions on slightly novel tasks even after apparently understanding an idea](alternative-frameworks-revert-novel-tasks.md) — related

@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 174 claims (111 for, 58 mixed, 5 against) · 130 studies (57 associational, 39 causal, 22 review, 6 design, 4 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q3` · 33 of 130 report an effect size · 172 claims rest on one study
+> **Evidence** · 175 claims (112 for, 58 mixed, 5 against) · 131 studies (58 associational, 39 causal, 22 review, 6 design, 4 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q3` · 33 of 131 report an effect size · 173 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" ([Bandura, 1977](https://doi.org/10.1037/0033-295x.84.2.191)). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" ([Seifert & Sutton, 2018](https://edtechbooks.org/lidtfoundations/motivation_theories_on_learning)). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -221,6 +221,7 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Informants across professions reported enhanced self-efficacy and reduced stress after multi-professional PPH simulation training](../claims/enhanced-self-efficacy-reduced-stress-pph-simulation.md) [+W] — attached 2026-11-09 from Egenberg Signe et al. (2017), which proposed "Social cognitive theory of self-efficacy with four sources applied to simulation training".
 - [Female high school students experience much lower self-efficacy states in physics than male students, with a very large effect size of d = 0.88, and the difference does not occur in other school courses.](../claims/gender-gap-self-efficacy-states-high-school-physics.md) [+W] — attached 2026-11-17 from Jayson M. Nissen (2016), which proposed "Self-efficacy states as dynamic, in-the-moment judgments measured via the Experience Sampling Method".
 - [A reliable self-efficacy state measure can be identified in the SSYSD ESM data, with skill, control, and success items loading on a single factor that also includes expectation and self-feeling items.](../claims/esm-self-efficacy-state-measure-pca.md) [+W] — attached 2026-11-17 from Jayson M. Nissen (2016), which proposed "Self-efficacy states as dynamic, in-the-moment judgments measured via the Experience Sampling Method".
+- [Centrality measures related differentially to the sources of self-efficacy: PageRank to mastery experiences, inDegree and outDegree to verbal persuasion, and outDegree to vicarious learning](../claims/centrality-sources-mastery-verbal-vicarious.md) [+W] — attached 2026-11-18 from Remy Dou et al. (2016), which proposed "Model of self-efficacy development in active learning environments".
 
 ## The evidence by question
 

@@ -55,3 +55,5 @@ The review's comparison of weighted normalized gains (0.43 men vs 0.37 women on 
 - [Matched-samples studies find no post-test performance difference between men and women in introductory physics when matched on prior measures](matched-samples-no-gender-posttest-difference.md) — related
 - [Interactive engagement instruction yields significantly higher normalized learning gains than traditional lecture on both the FCI and FMCE](ie-higher-gains-than-lecture-physics-50k.md) — related
 - [Normalized gain g overestimates gender inequities in student learning compared to Cohen's d](normalized-gain-overestimates-gender-inequities.md) — related
+- [The FCI gender gap narrowed following instruction in these blended sections](fci-gender-gap-narrowed-blended-sections.md) — related
+- [Physics majors in blended interactive-engagement sections showed large, statistically significant FCI gains for both men and women](large-fci-gains-blended-physics-major-sections.md) — related

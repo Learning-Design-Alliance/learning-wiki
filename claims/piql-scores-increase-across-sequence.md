@@ -46,3 +46,4 @@ Descriptive comparison of PIQL pretest means across three non-matched class snap
 
 ## Related Claims
 - [As students progress through the introductory sequence, PIQL response modules become less coherent rather than more expert-like](modules-less-coherent-with-progression.md) — related
+- [Dichotomously scored PIQL results indicate only a very modest improvement in students' quantitative reasoning from introductory physics instruction](piql-dichotomous-scoring-modest-improvement.md) — a narrower finding that bears on this claim

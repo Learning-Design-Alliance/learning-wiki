@@ -61,3 +61,4 @@ Findings from the process evaluation interviews and case studies with TAs, class
 - [The authors report that multimedia use appeared to include more students in the learning process and increase interest, motivation and participation](multimedia-engagement-observation.md) — related
 - [Teachers, senior leaders, speech and language therapists and local authority managers perceived that Talk of the Town had a positive effect on pupil learning and confidence](tott-staff-perceived-positive-effects.md) — related
 - [Staff in participating schools reported improvements in children's spoken language, listening, narrative skills, vocabulary and confidence, attributing them to the small-group format and engaging content](neli-staff-reported-improvements.md) — related
+- [The article claims inquiry-based learning increases pupil motivation and develops practical and research skills](inquiry-learning-motivation-and-research-skills.md) — related

@@ -55,3 +55,4 @@ Knowledge synthesis of empirical studies and expert advice on STEM PLCs. The syn
 - [EAI modalities were associated with higher student motivation and changes in attitudes toward STEM knowledge areas](eai-motivation-attitude-stem-effects.md) — related
 - [Evidence on teacher attitude change as an outcome of team-based professional development in higher education is insufficient; only one study mentioned attitudes](team-pd-attitude-outcome-insufficient-evidence.md) — related
 - [Comprehensive induction had no impact on teacher satisfaction or feelings of preparedness](induction-no-impact-satisfaction-preparedness.md) — related
+- [After the PSC Summer Camp, 85% of participants reported increased understanding and competency, with 80% feeling part of a team](psc-summer-camp-understanding-gains.md) — related

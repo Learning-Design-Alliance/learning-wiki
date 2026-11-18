@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: weak
 newest_evidence: 2019
+source_checked: 2026-11-18
 sources:
   - id: p-a-bartlett-2019
     resource: "https://doi.org/10.48550/arXiv.1905.13006"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After DRT introduction, students worked on notebooks outside allotted sessions and formed peer groups for mutual support, behaviour not observed before. [→ P. A. Bartlett 2019](#p-a-bartlett-2019)

@@ -50,3 +50,4 @@ Survey of 121 of 176 project team members (70 AA, 51 PR) using five-point Likert
 - [AHP weighting ranks Communication and Health Education Skills highest (0.235) among the seven competency dimensions](ahp-weights-communication-highest-tb-educator-competency.md) — related
 - [AHP weighting assigns the highest weight to professional theoretical knowledge (0.2168) and the lowest to professional development ability (0.1649), with consistency ratio 0.0013](ahp-weights-primary-indicators-clinical-nutritionists.md) — related
 - [Skill increase during the QICs was modest, lower in Process Redesign than Advanced Access, with analytical skills increasing most](modest-skill-increase-lower-in-pr.md) — related
+- [Canadian astronomers overwhelmingly rate statistical analysis as critically important to their research](astronomers-rate-statistics-critically-important.md) — related

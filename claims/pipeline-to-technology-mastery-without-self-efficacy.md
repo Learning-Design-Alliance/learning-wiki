@@ -52,3 +52,4 @@ The article reports on the authors' three-year, small-scale "Pipeline to Technol
 - [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — related
 - [San Diego regional data show STEM access and pay remain inequitable by race, socioeconomic status, and gender](san-diego-stem-access-inequities.md) — related
 - [AP Computer Science participation is disproportionately low among girls and students of color](ap-cs-participation-gaps-gender-race.md) — related
+- [Being a numerical minority does not explain the physics self-efficacy gap: it remains open only in the major cluster with the highest proportion of women](numerical-minority-not-explaining-physics-efficacy-gap.md) — related

@@ -54,3 +54,4 @@ Instructor-assessed pre/post evaluation of 9 camp students using a 5-point grade
 - [The camp team qualified for the World Robot Olympiad India national championship from a fiercely competitive 23-team regional round](ev3-camp-team-wro-qualification.md) — related
 - [Student feedback was positive: 78% found teamwork helpful, 89% found programming the key challenge, and 89% wanted a follow-up camp](ev3-camp-student-feedback.md) — related
 - [Working with LEGO Mindstorms robots was highly engaging and motivating for students, but produced stress, insecurity about theoretical knowledge, and logistical frustration](robots-engaging-but-stressful.md) — related
+- [After the PSC Summer Camp, 85% of participants reported increased understanding and competency, with 80% feeling part of a team](psc-summer-camp-understanding-gains.md) — related

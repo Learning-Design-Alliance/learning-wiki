@@ -51,3 +51,4 @@ Kirkpatrick Level 1 satisfaction item on the anonymous Pre-Clerkship End of Year
 - [In an initial feedback survey, students strongly agreed the embodied activities were memorable, helped learning beyond lecture alone, and were recommendable to future groups](initial-student-feedback-memorability-and-recommendation.md) — related
 - [Facilitator group was a significant factor in student self-assessed SDL total scores at course midpoint but not at endpoint](facilitator-effect-midpoint-only.md) — related
 - [Self-assessed competency increased significantly for four of five SDL component skills, but not for critical thinking](four-of-five-sdl-skills-significant-increase.md) — related
+- [Most surveyed students reported that RiPPLE's creation, evaluation, open learner model, and recommendation features benefited their learning](ripple-student-perceptions-survey.md) — related

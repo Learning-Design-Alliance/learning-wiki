@@ -96,3 +96,6 @@ The same analysis reports the gender pattern is instrument-dependent: on the BEM
 - [Instruction reduced many pretest gender differences on FCI items but failed to close the gap for items 14, 21, 22, 23, and 27](fci-instruction-reduces-pretest-gap-not-five-items.md) — a narrower finding that bears on this claim
 - [Intersectional demographic differences predict physics pretest scores, with White male students highest and Black female students lowest, and gender gaps 2.62 percentage points smaller on the FMCE than the FCI](intersectional-pretest-differences-college-physics.md) — related
 - [In the landscape of college physics challenges, mindset beliefs cannot always be considered the dominant factor in how students respond to challenge](mindset-beliefs-not-always-dominant.md) — related
+- [The FCI gender gap narrowed following instruction in these blended sections](fci-gender-gap-narrowed-blended-sections.md) — related
+- [Post-test misconception scores differ significantly between men and women on every FMCE community, but all effect sizes are small or negligible](fmce-misconception-score-gender-small-effects.md) — related
+- [Physics majors in blended interactive-engagement sections showed large, statistically significant FCI gains for both men and women](large-fci-gains-blended-physics-major-sections.md) — related

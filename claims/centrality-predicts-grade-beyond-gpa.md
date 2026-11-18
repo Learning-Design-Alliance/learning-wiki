@@ -56,3 +56,4 @@ Observational bootstrapped multiple regression analysis of five survey-collected
 - [Out-of-class networks are basically fully developed by midsemester, with about 95% of eventual members already present by week 8](out-of-class-networks-developed-by-midsemester.md) — related
 - [In Semester 2, no centrality/grade correlations were statistically significant](semester2-no-centrality-grade-correlations.md) — related
 - [Closeness centrality predicts anxiety shift before but not after false-discovery-rate correction, while outdegree remains significant](closeness-significance-false-discovery.md) — related
+- [Gatekeeper brokerage positively predicted problem elaboration but negatively predicted physics grades](gatekeeper-brokerage-elaboration-grades-contrast.md) — related

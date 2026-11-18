@@ -44,6 +44,7 @@ The report recommends a national online "Ed-tech Product Information Exchange" w
 ## Related Strategies
 
 - [Build formal feedback mechanisms and an evaluation plan into ed-tech pilots](formal-feedback-and-evaluation-plan-pilots.md)
+- [Provide online parts lists, build instructions, and design documentation so that other groups can replicate the exhibit.](open-hardware-replication-documentation-strategy.md)
 
 ## Examples
 -

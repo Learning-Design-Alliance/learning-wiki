@@ -44,6 +44,7 @@ The paper recommends coaching programs be "a collective enterprise embedded in t
 - [System-level strategies to build enabling conditions for Powerful Learning](system-level-strategies-powerful-learning-conditions.md)
 - [Provide sustained, powerful professional development with professional learning communities for QTEL implementation](sustained-powerful-pd-for-qtel.md)
 - [Implement SEL systemically as a public health approach with shared vision, adult SEL, aligned programs, and continuous improvement](systemic-sel-public-health-implementation.md)
+- [Recruiting competitive faculty and continuous faculty retraining to sustain astronomy education quality](faculty-recruitment-retraining-astronomy-education-quality.md)
 
 ## Examples
 -

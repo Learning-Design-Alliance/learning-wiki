@@ -47,3 +47,4 @@ Robustness check addressing pretest bias (Kennedy 1992 'testing down' strategy);
 ## Related Claims
 - [The one-minute paper's effect does not differ by student ability level as measured by GPA](one-minute-paper-effect-independent-of-gpa.md) — related
 - [The one-minute paper significantly enhances students' statistics knowledge in an OLS controlled-vs-experimental comparison](one-minute-paper-ols-significant-knowledge-gain.md) — related
+- [Post-scores are independent of pre-scores while normalized gain is strongly pre-score dependent, and math-test scores predict post-scores better than the pre-test](pre-score-bias-and-math-predictor.md) — related

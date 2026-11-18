@@ -48,6 +48,7 @@ A three-part implementation strategy for universities adopting the cultivation m
 - [Convene cross-functional generative AI task forces to guide ethical adoption decisions and procurement](cross-functional-generative-ai-task-force.md)
 - [Invest in ongoing educator professional development and an assessment community of practice for POG success](pog-ongoing-pd-community-of-practice.md)
 - [Interdisciplinary task-design guidelines: respect disciplinary differences in language, identify cross-disciplinary reasoning similarities, and engage students in seeking coherence across apparently contradictory disciplinary ideas](interdisciplinary-task-design-guidelines-strategy.md)
+- [Institutional-level actions to improve astronomers' statistical training: add applied statistics courses, create cross-disciplinary venues, make joint hires, and reward interdisciplinary work](institutional-astrostatistics-training-actions.md)
 
 ## Examples
 -

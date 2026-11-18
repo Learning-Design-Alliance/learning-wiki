@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 300 claims (218 show a difference, 47 mixed, 35 no difference) · 207 studies (87 causal, 58 associational, 23 review, 19 design, 7 quant-synthesis, 7 qualitative, 6 theoretical), `q1`–`q4` · 52 of 207 report an effect size · 294 claims rest on one study
+> **Evidence** · 303 claims (221 show a difference, 47 mixed, 35 no difference) · 209 studies (87 causal, 58 associational, 23 review, 19 design, 9 qualitative, 7 quant-synthesis, 6 theoretical), `q1`–`q4` · 52 of 209 report an effect size · 297 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -335,6 +335,9 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Initial student interest in a project topic is not a necessary condition for ownership; interest and perceived value can increase over time](../claims/initial-interest-not-necessary-ownership-grows.md) [-M] — learners who differ on it differ in outcomes
 - [The Einstein-First programme improved students' interest in physics, with female students' interest rising from 50% to nearly match males' initial 80%](../claims/einstein-first-female-interest-increase.md) [+M] — measured as an outcome of the instruction studied
 - [Course design and participatory structures can impact a student's sense of relevance with lasting effects after the course](../claims/course-design-participatory-structures-impact-relevance-nicole.md) [+M] — measured as an outcome of the instruction studied
+- [After the visit, students describe learning quantum physics as more useful, interesting or important, and almost none become more negative](../claims/learning-quantum-valued-more-positively-after-visit.md) [+M] — measured as an outcome of the instruction studied
+- [Students see the relevance of learning quantum physics as conditional on personal interest, with the individual dimension of relevance predominant](../claims/individual-dimension-dominates-relevance-of-learning-quantum.md) [+M] — learners who differ on it differ in outcomes
+- [The contemplative practice awakened intrinsic motivation and curiosity about electromagnetic theory in many students](../claims/em-practice-curiosity-motivation.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

@@ -48,6 +48,7 @@ The article proposes bringing students into direct contact with real-world data 
 ## Related Strategies
 
 - [Expand graduate training in specialized codes and techniques via summer schools, workshops, and Software Carpentry sessions at AAS meetings](aas-meeting-workshops-graduate-computational-training.md)
+- [Using real Hubble-constant data in guided case studies to build data-analysis skills in introductory astronomy](hubble-constant-real-data-case-studies-strategy.md)
 
 ## Examples
 -

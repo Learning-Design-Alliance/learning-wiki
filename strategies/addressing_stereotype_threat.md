@@ -68,6 +68,8 @@ Stereotype threat operates through working-memory load and physiological stress,
 - [Deliver salient, personalized ability signals to encourage educational investments](salient-personalized-ability-signals-strategy.md)
 - [Brief in-school self-affirmation writing exercises administered before major assessments](self-affirmation-writing-exercise-strategy.md)
 - [Collecting demographic information such as gender before standardized physics tests need not be avoided for fear of stereotype threat](demographic-inquiry-before-tests-not-detrimental.md)
+- [Instructor practices that foster belongingness and a growth-mindset classroom culture to support gender equity](belongingness-instructor-practices-gender-equity.md)
+- [Counter-programming in secondary schools to address physics stereotypes and improve women's physics self-efficacy before engineering coursework](secondary-school-counter-programming-physics-self-efficacy.md)
 
 ## Related Elements
 - [Feedback](../elements/feedback.md) — the element the wise-feedback format (high standards plus assurance of capacity) modifies

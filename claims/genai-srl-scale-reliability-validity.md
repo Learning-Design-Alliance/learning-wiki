@@ -76,3 +76,4 @@ Reliability and validity analysis of the 34-item scale on Sample two (N = 342). 
 - [The modified 17-item ICAR showed high internal consistency overall (α = .981) and across all six domains (α = .881–.963)](icar-high-internal-consistency.md) — related
 - [Internal consistency of the OCTQ five-factor solution exceeded 0.70, though Factors 4 and 5 were moderate](octq-internal-consistency-above-070.md) — related
 - [The virtual case-based assessment scale has high internal consistency (Cronbach's alpha 0.848)](virtual-case-tool-alpha-0848.md) — related
+- [The ten-item interferometry test showed acceptable reliability: average α = 0.675 with post-test discriminations within accepted limits except item 10 in fall 2016](interferometry-test-alpha-0-675-reliability.md) — related

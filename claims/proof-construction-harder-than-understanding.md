@@ -71,3 +71,4 @@ Qualitative analysis of students' work in the Findings and Discussion section li
 - [Mathematical proof was the most difficult MLTA component for students in both teaching approaches](mathematical-proof-most-difficult-mlta-item.md) — related
 - [Students at all levels have serious difficulties constructing proofs, with instruction explicitly teaching expert heuristics substantially increasing proof-writing ability](students-difficulty-constructing-proofs.md) — related
 - [Fieldwork to understand the problem finding process was rated a good experience (M = 4.65), and students found the problem finding step more difficult than the problem solving step (M = 4.11)](fieldwork-good-but-problem-finding-harder-than-solving.md) — related
+- [Students showed persistent difficulty proving statements with the formal definition of limit, tending to use limit rules instead](students-difficulty-proving-with-limit-definition.md) — a narrower finding that bears on this claim

@@ -74,3 +74,4 @@ The abstract reports that knowledge and skills aligned with the literature, but 
 - [Technology's impact on learning depends heavily on teachers' skills, values, and dispositions — core elements of teacher identity](technology-impact-depends-on-teacher-identity.md) — related
 - [Cross-cultural sensitivity, highlighted in the literature for physician leadership, was notably absent from participants' competency perceptions](cross-cultural-sensitivity-absent-from-middle-manager-competency-perceptions.md) — related
 - [Panelists identified communication and relationship-building as a core collaboration domain spanning multi-modal communication, active listening, and relational trust](smh-collab-communication-relationship-domain.md) — related
+- [Skills that no exemplary CP course lists as goals are largely the ones experts say can be learned during research, with keeping a TODO list the least consistent case](course-goal-omissions-match-survey-priorities.md) — related

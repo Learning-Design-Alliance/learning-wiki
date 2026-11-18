@@ -75,3 +75,4 @@ Between-condition comparison of post-test scores in a randomized pre-post study 
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — a broader claim this one bears on
 - [All three conditions showed statistically significant pre-to-post gains on the Moon phases test](moon-phases-significant-prepost-gains-all-conditions.md) — related
 - [Learning gains vary by Moon phases topic but do not differ significantly across conditions](moon-phases-topic-gains-vary-no-condition-differences.md) — possibly the same claim (merge candidate)
+- [In a pilot ASTRO 101 study, a VR activity on Moon phases and eclipses was at least as effective as supplemental lecture or hands-on activities on multiple-choice quiz gains](vr-moon-phases-at-least-as-effective-pilot.md) — related

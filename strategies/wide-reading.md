@@ -65,6 +65,7 @@ Reading volume is one of the strongest correlates of vocabulary growth, backgrou
 - [Implement Accelerated Reader as a daily reading practice block with level-matched book selection and quiz-based teacher monitoring](accelerated-reader-implementation-strategy.md)
 - [Devote weekly intervention time to reading a wide range of texts](weekly-wide-range-of-texts-reading.md)
 - [Implement classroom extensive reading with a graded-reader library, loan records, book reports, and teacher check-in interviews](er-library-book-report-interview-strategy.md)
+- [Sketch the skeleton of a field for background-free learners to enable faster later progress](skeleton-sketch-for-faster-progress.md)
 
 ## Examples
 - **Reading Workshop (Teachers College / Units of Study)** — daily independent reading with conferring, built on large classroom libraries ([https://www.unitsofstudy.com](https://www.unitsofstudy.com))

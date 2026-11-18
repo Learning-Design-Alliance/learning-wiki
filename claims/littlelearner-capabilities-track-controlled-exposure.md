@@ -90,3 +90,4 @@ Language-familiarity validation on the CLEAR dataset, which provides Bradley-Ter
 - [Across scaling, post-training, and in-context learning, the pretraining filter rather than the intervention sets LittleLearner's capability ceiling](pretraining-filter-sets-capability-ceiling.md) — a broader claim this one bears on
 - [The multi-stage filtering pipeline reduces Beyond-K-5 retention to near zero while preserving a minority of K-5 content](k5-filter-pipeline-near-zero-beyond-k5-retention.md) — related
 - [In-context learning with few-shot examples and explanations does not unlock Beyond-K-5 reasoning for the 5B LittleLearner](icl-does-not-unlock-beyond-k5-reasoning.md) — related
+- [After filtering, the MUTLA video data contain 2170 question segments, with 61.54% having valid face tracking for at least 50% of frames and 18.30% fully tracked](mutla-2170-segments-valid-tracking-percentages.md) — related

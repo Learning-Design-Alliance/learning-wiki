@@ -52,3 +52,4 @@ Narrative review synthesis of the formal-school literature. The authors state th
 - [Authentic research experiences through the Global Telescope Network increased high school interns' interest in science and science careers](gtn-interns-interest-grew.md) — related
 - [Evidence favoring student-centered pedagogy has not translated into widespread faculty adoption, and neither data provision nor workshops has proven sufficient](pedagogical-change-data-workshops-insufficient.md) — a broader claim this one bears on
 - [Faculty experience with computation has grown over the last decade but does not translate fully into formal courses](computation-experience-grew-not-translated-to-courses.md) — related
+- [The authors conclude that Gartner's prediction underestimates college educators and that Classroom 3D Printing will be a widespread reality significantly earlier than the middle of the next decade](classroom-3d-printing-plateau-earlier-than-gartner.md) — related

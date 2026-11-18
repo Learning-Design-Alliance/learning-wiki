@@ -48,3 +48,4 @@ Informal evaluation through one-to-one discussions during the pilot workshops wi
 ## Related Claims
 - [Pilot workshop feedback indicates increased interest in physics among KS4 students after an art-based particle physics workshop](art-workshop-increased-physics-interest-ks4.md) — related
 - [Playing Quark Wars solidified particle terminology and made particle identification tangible for secondary/middle school students in a single camp test](quark-wars-solidified-particle-terminology-camp-test.md) — related
+- [Students reported learning what is inside the atom and that particles can be created or disappear through interactions](particle-dance-atom-learning-outcomes.md) — related

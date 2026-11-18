@@ -48,3 +48,4 @@ The article's history section reports programme scale as compiled statistics: "2
 ## Related Claims
 - [International Masterclasses reached over 10,000 students in 50 countries in the 2017 season](imc-2017-scale-10000-students-50-countries.md) — related
 - [In a survey of 590 Slovak masterclass participants, 72% expressed interest in pursuing a career in natural sciences (including informatics) or engineering](slovak-survey-career-interest.md) — related
+- [By 2019 International Masterclasses involved over 10,000 high school students in 332 masterclasses at 239 institutions measuring authentic data from six experiments](imc-2019-scale-10000-students-332-masterclasses.md) — related

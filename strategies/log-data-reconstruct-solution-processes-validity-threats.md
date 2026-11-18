@@ -41,6 +41,7 @@ The article recommends analyzing log data capturing how an assessment was comple
 - [Adopt an integrative methodological toolkit using machine learning and computational models to capture SR's multi-level, temporal, and social dynamics](integrative-methodological-toolkit-machine-learning-sr.md)
 - [Use multimodal data and time-sensitive analyses to capture situational motivational processes](multimodal-data-time-sensitive-analyses-motivation.md)
 - [Enhance DFA in-depth informativity by eliciting oral student talk via speech-to-text and dialogic follow-up questions generated with large language models](speech-to-text-llm-dialogic-followup-dfa.md)
+- [Analyse detailed simulation interaction logs to identify learning challenges and improve simulation design, especially in distance-learning scenarios](simulation-log-analysis-for-design-improvement.md)
 
 ## Examples
 -

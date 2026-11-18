@@ -55,3 +55,4 @@ Measurement invariance testing via configural, metric, and scalar multi-group CF
 - [Measurement invariance of the cognitive load, adaptability, and innovation model holds across teacher subgroups](cl-measurement-invariance-teacher-subgroups.md) — related
 - [SSE scale shows partial measurement invariance across Slovak- and English-program students, with Items 9 and 12 non-invariant](sse-partial-measurement-invariance-items-9-12.md) — related
 - [The factor structure of the Spanish ARS is invariant with respect to gender at the measurement-weight level](spanish-ars-gender-invariance.md) — related
+- [Measurement invariance holds by gender and no gender differences appear in any predictive paths; differences occur only in high school GPA and introductory physics intercepts](no-gender-differences-in-predictive-paths-sem.md) — related

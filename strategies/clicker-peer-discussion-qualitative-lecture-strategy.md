@@ -48,6 +48,7 @@ During lecture the instructor poses multiple-choice and True-False questions eve
 - [Integrate concept tests on time dependence of expectation values into lectures with peer discussion](concept-tests-peer-discussion-quantum-expectation-values.md)
 - [Use sequenced concept tests that address similar concepts in different contexts as peer instruction tools in quantum mechanics lectures](sequenced-context-varied-concept-tests-strategy.md)
 - [Sequence a demonstration topic as clicker-answered group-discussion questions that build from a conventional device's limits to the superconducting alternative](clicker-group-discussion-question-sequence-magnet-teaching.md)
+- [Use clicker questions with instructor-elicted explanations of popular wrong answers to build coherence-seeking epistemologies](clicker-wrong-answer-explanations-strategy.md)
 
 ## Examples
 -

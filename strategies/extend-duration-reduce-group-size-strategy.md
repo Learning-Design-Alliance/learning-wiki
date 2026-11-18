@@ -44,6 +44,7 @@ Based on student feedback, the authors plan to extend the practical session from
 ## Related Strategies
 
 - [Expand simulation-based teaching to additional physiology practicals and organ systems](expand-simulation-across-physiology-curriculum.md)
+- [Extend hands-on and computer-application session durations and provide replication guidelines when organizing similar frontier-physics schools](lidyef2018-session-duration-and-replication-strategy.md)
 
 ## Examples
 -

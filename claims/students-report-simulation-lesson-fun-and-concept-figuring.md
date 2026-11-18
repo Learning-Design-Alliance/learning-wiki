@@ -164,3 +164,7 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [A multidisciplinary art-physics laboratory on light polarization is reported by the author to make students more engaged and the learning of the physics concepts more effective](art-physics-polarization-lab-engagement.md) — related
 - [The author argues that combining simulations with experiments helps students see the connection between them and understand their limitations](simulation-experiment-combination-builds-connection-awareness.md) — related
 - [Students report high enjoyment and perceived usefulness of the quantum mechanics game after a class test](entangle-game-high-acceptance-survey.md) — related
+- [A kinesthetic game in which students play qubits and scientists lets high-school students experience quantum features and discover underlying rules from experimental data first-hand](kinesthetic-qubit-game-first-hand-experience.md) — related
+- [Students held positive attitudes toward the DGE, rating it helpful for learning limit concepts (3.73/5) and interesting (4.4/5)](positive-student-attitudes-toward-dge-limit-activities.md) — related
+- [Inquiry-based Real-Time Physics labs promoted peer discussion of physics concepts, but students struggled with troubleshooting and independent investigation](rtp-labs-promoted-peer-concept-discussion.md) — related
+- [Secret objectives bridge inquiry-style laboratories and problem-based learning by letting students create the problem themselves](secret-objectives-bridge-pbl-inquiry.md) — related

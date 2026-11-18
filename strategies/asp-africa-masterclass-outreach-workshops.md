@@ -47,6 +47,7 @@ IMC collaborates with the African School of Fundamental Physics and Applications
 ## Related Strategies
 
 - [International Day of Women and Girls in Science masterclasses with all-girl cohorts and women physicists](idwgs-all-girls-masterclasses-strategy.md)
+- [Organize a policy forum during the school to engage African policymakers on capacity development and retention](asp-capacity-development-forum-strategy.md)
 
 ## Examples
 -

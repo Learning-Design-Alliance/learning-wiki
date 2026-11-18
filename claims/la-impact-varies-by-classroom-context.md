@@ -68,3 +68,4 @@ The Findings section reports that raw gains "vary signiﬁcantly across LA uses 
 - [Mean course effect size varies significantly with the primary LA-supported activity relative to courses without LA support (ANOVA F4,64=3.132, p=0.02)](anova-la-activity-effect-size-variation.md) — a broader claim this one bears on
 - [No statistically significant differences in effect size were found among the primary uses of LA support (laboratory, recitation, lecture, unknown)](no-significant-differences-among-la-uses.md) — reports the opposite
 - [LA-supported collaborative courses show higher posttest scores than collaborative courses without LAs in introductory physics](la-support-adds-gains-beyond-collaborative-learning.md) — related
+- [Instructors unanimously reported that LAs let them reduce lecturing time and increase collaborative learning activities](las-reduce-lecture-increase-collaborative.md) — related

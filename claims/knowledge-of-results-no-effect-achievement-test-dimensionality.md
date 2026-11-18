@@ -57,3 +57,4 @@ Two studies (Research Report 80-1) comparing two groups of students on computer-
 - [Cognitive process inference in computerized testing rarely rests on strong process data](weak-process-data-in-computerized-testing.md) — related
 - [Immediate, informative test results enable teachers to differentiate instruction to individual needs](immediate-adaptive-test-results-enable-differentiation.md) — related
 - [A one-factor unidimensional model is the most reasonable fit for MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states, though Michigan Mathematics misses the RMSEA criterion](map-cat-unidimensional-factor-structure.md) — related
+- [Averaging correctness estimates across problems captures knowledge throughout learning, which better estimates knowledge carried out of the system than final estimates](averaging-across-problems-captures-path-to-mastery.md) — related

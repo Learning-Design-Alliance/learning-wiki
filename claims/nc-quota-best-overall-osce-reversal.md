@@ -68,3 +68,4 @@ OLS regression (Table 4, column 3) of overall OSCE score with age, Abitur grade,
 - [Controlling for age and Abitur dissolves quota differences in OSCE communication scores, and neither variable plays a role in communication](communication-gaps-dissolve-with-controls.md) — related
 - [Waiting-list students with health-care work experience outperform NC-quota classmates in OSCE medical-skills stations once age and Abitur grade are controlled](waiting-list-experience-compensates-osce-skills.md) — related
 - [NC and selection students have a significantly higher probability of very good or good OSCE grades even after controlling for Abitur grade, age and other factors](ordered-logit-osce-grade-probabilities.md) — reports the opposite
+- [ASP2018 selected 85 students from 523 applicants, with most participants at MSc level and a peak age around 26–27](asp2018-selection-85-of-523.md) — related

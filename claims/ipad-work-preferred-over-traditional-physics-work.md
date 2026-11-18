@@ -72,3 +72,4 @@ Observational finding from the same qualitative study: after iPad implementation
 - [Introducing iPads and screencasting into an urban high school physics class was followed by increased student social status, opportunities for play, and a sense of agency](ipad-inclusion-social-status-play-agency.md) — related
 - [Students found working with the interactive simulation more enjoyable than the same activity with printed screenshots](simulation-more-enjoyable-than-screenshots.md) — related
 - [How learning is framed influences the strategies students use, their enjoyment, and what they transfer](learning-framing-influences-strategies-and-transfer.md) — related
+- [53% of surveyed second-year high-school students had never visited a physics laboratory, indicating little experimental activity in their schools](53-percent-students-never-visited-physics-lab-picos.md) — related

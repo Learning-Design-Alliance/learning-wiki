@@ -8,20 +8,20 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: weak
-newest_evidence: 2015
-recheck_by: 2020
+newest_evidence: 2014
+recheck_by: 2019
 sources:
-  - id: sissi-l-li-2015
+  - id: sissi-l-li-2014
     resource: "https://doi.org/10.48550/arXiv.1411.5738"
-    title: "Sissi L. Li, Gabriela Serna, Jocelyn S. Read, Joshua R. Smith, Heather Chilton, Michael E. Loverude. (2015). A collaboration to support novice instructors in research-based astronomy teaching. [doi:10.48550/arXiv.1411.5738](https://doi.org/10.48550/arXiv.1411.5738)"
+    title: "Sissi L. Li, Gabriela Serna, Jocelyn S. Read, Joshua R. Smith, Heather Chilton, Michael E. Loverude. (2014). A collaboration to support novice instructors in research-based astronomy teaching. [doi:10.48550/arXiv.1411.5738](https://doi.org/10.48550/arXiv.1411.5738)"
     author: Sissi L. Li, Gabriela Serna, Jocelyn S. Read, Joshua R. Smith, Heather Chilton, Michael E. Loverude
     q: 1
     i: "?"
     kind: design
     rigour: 2
-  - id: sissi-l-li-2015-2
+  - id: sissi-l-li-2014-2
     resource: "https://doi.org/10.48550/arXiv.1411.5738"
-    title: "Sissi L. Li, Gabriela Serna, Jocelyn S. Read, Joshua R. Smith, Heather Chilton, Michael E. Loverude. (2015). A collaboration to support novice instructors in research-based astronomy teaching. [doi:10.48550/arXiv.1411.5738](https://doi.org/10.48550/arXiv.1411.5738)"
+    title: "Sissi L. Li, Gabriela Serna, Jocelyn S. Read, Joshua R. Smith, Heather Chilton, Michael E. Loverude. (2014). A collaboration to support novice instructors in research-based astronomy teaching. [doi:10.48550/arXiv.1411.5738](https://doi.org/10.48550/arXiv.1411.5738)"
     author: Sissi L. Li, Gabriela Serna, Jocelyn S. Read, Joshua R. Smith, Heather Chilton, Michael E. Loverude
     q: 1
     i: "?"
@@ -33,17 +33,17 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q1`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
-`q1 i?` Students memorized moon-phase diagram positions and struggled when the arrangement differed from the initial presentation. [→ Sissi L. Li 2015](#sissi-l-li-2015)
-`q1 i?` Students had a hard time accepting that triangles with different shapes can have equal areas in Kepler's second law contexts, and parallax questions were consistently among the most missed on exams. [→ Sissi L. Li 2015 (2)](#sissi-l-li-2015-2)
+`q1 i?` Students memorized moon-phase diagram positions and struggled when the arrangement differed from the initial presentation. [→ Sissi L. Li 2014](#sissi-l-li-2014)
+`q1 i?` Students had a hard time accepting that triangles with different shapes can have equal areas in Kepler's second law contexts, and parallax questions were consistently among the most missed on exams. [→ Sissi L. Li 2014 (2)](#sissi-l-li-2014-2)
 
 ## Evidence
 
-### Sissi L. Li 2015
+### Sissi L. Li 2014
 
-Sissi L. Li, Gabriela Serna, Jocelyn S. Read, Joshua R. Smith, Heather Chilton, Michael E. Loverude. (2015). A collaboration to support novice instructors in research-based astronomy teaching. [doi:10.48550/arXiv.1411.5738](https://doi.org/10.48550/arXiv.1411.5738)
+Sissi L. Li, Gabriela Serna, Jocelyn S. Read, Joshua R. Smith, Heather Chilton, Michael E. Loverude. (2014). A collaboration to support novice instructors in research-based astronomy teaching. [doi:10.48550/arXiv.1411.5738](https://doi.org/10.48550/arXiv.1411.5738)
 
 `q1 · i?` · `design · r2`
 
@@ -51,9 +51,9 @@ Peer-instructor and instructor observations during Lecture-Tutorials and lecture
 
 > "many students struggle when we pose questions in which the arrangement of celestial bodies diﬀers from the initial presentation"
 
-### Sissi L. Li 2015 (2)
+### Sissi L. Li 2014 (2)
 
-Sissi L. Li, Gabriela Serna, Jocelyn S. Read, Joshua R. Smith, Heather Chilton, Michael E. Loverude. (2015). A collaboration to support novice instructors in research-based astronomy teaching. [doi:10.48550/arXiv.1411.5738](https://doi.org/10.48550/arXiv.1411.5738)
+Sissi L. Li, Gabriela Serna, Jocelyn S. Read, Joshua R. Smith, Heather Chilton, Michael E. Loverude. (2014). A collaboration to support novice instructors in research-based astronomy teaching. [doi:10.48550/arXiv.1411.5738](https://doi.org/10.48550/arXiv.1411.5738)
 
 `q1 · i?` · `qualitative · r2`
 
@@ -67,3 +67,4 @@ Instructor observations across course offerings on parallax (d = 1/p) and Kepler
 ## Related Claims
 - [Bidimensional textbook schemes of the lunar phases hinder understanding of the three-dimensional phenomenon and blur the distinction between phases and eclipses](bidimensional-schemes-hinder-phase-learning.md) — related
 - [Students commonly misplace stars within the solar system and misinterpret parallax and stellar distances, including trainee science teachers](stars-placed-within-solar-system-misconception.md) — related
+- [Lack of prior knowledge about the astronomy topics worked in the course was the most-cited difficulty, reported by 44% of participants](lack-prior-astronomy-knowledge-main-difficulty.md) — related

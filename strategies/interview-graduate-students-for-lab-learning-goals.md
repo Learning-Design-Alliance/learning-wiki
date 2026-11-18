@@ -47,7 +47,8 @@ The article recommends grounding learning-goal development for content-specific 
 - [Faculty did not emphasize content-specific goals but valued deep physics knowledge and expert-like habits of mind during experiments](../claims/faculty-value-expert-like-habits-not-content-goals.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Build a project-based computational physics course grounded in expert practice, culminating in a student-chosen final project](expert-grounded-project-based-cp-course.md)
 
 ## Examples
 -

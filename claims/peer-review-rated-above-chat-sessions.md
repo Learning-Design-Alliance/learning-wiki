@@ -67,3 +67,5 @@ Same questionnaire ratings: subjects 'were less positive about the chat session 
 ## Related Claims
 - [Scheduled design cycles and peer review most successfully evoked iteration; the resources message and chat sessions were less successful](scheduled-cycles-and-peer-review-evoked-iteration-most.md) — related
 - [Students rated the image decoding, poster sharing, and synthesis lecture components of a digital-images inquiry highest on a five-point feedback scale](digital-images-inquiry-student-feedback-ratings.md) — related
+- [Student-written experiment reports scored an average of 4.2 out of 5, which the authors took as positive evidence of experimental competence](lidyef2018-experiment-reports-4-2.md) — related
+- [Students evaluated the CPS experience positively, most appreciating group discussion and knowledge sharing](students-evaluate-cps-positively.md) — related

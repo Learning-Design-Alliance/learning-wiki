@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 200 claims (107 for, 78 mixed, 15 against) · 167 studies (83 causal, 24 review, 16 associational, 16 design, 15 quant-synthesis, 7 theoretical, 6 qualitative), `q1`–`q4` · 20 of 167 report an effect size · 199 claims rest on one study
+> **Evidence** · 201 claims (108 for, 78 mixed, 15 against) · 168 studies (83 causal, 24 review, 17 design, 16 associational, 15 quant-synthesis, 7 theoretical, 6 qualitative), `q1`–`q4` · 20 of 168 report an effect size · 200 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -235,6 +235,7 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Students learning place value with the application achieved higher post-lesson scores than students taught by the traditional method](../claims/place-value-app-beats-traditional-posttest.md) [+W] — attached 2026-11-18 from Rawiphon Charunphankaseam (2018), which proposed "Mobile application for learning place value (HTML5/JavaScript hybrid app with randomized digit questions, narrated feedback, and retry)"; tests this page's relationship.
 - [Retention of achievement after 2 weeks showed no difference for students learning with the application](../claims/place-value-app-two-week-retention-no-difference.md) [~W] — attached 2026-11-18 from Rawiphon Charunphankaseam (2018), which proposed "Mobile application for learning place value (HTML5/JavaScript hybrid app with randomized digit questions, narrated feedback, and retry)"; tests this page's relationship.
 - [Simultaneous use of a smartphone's ambient-light and orientation sensors verifies Malus's law in a way that is very accessible for students](../claims/cl-001-malus-law-smartphone-dual-sensors.md) [+W] — attached 2026-11-18 from Martin Monteiro et al. (2019), which proposed "Mobile devices with built-in MEMS sensors as portable mobile laboratories for experimental sciences".
+- [88% of students approved the Arduino as a tool for producing physics experiments](../claims/88-percent-students-approve-arduino-tool.md) [+W] — attached 2026-11-18 from Lima et al. (2020), which proposed "Arduino UNO Rev. 3 platform as a low-cost data-acquisition board for physics experiments".
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

@@ -49,3 +49,4 @@ Backward-elimination multiple logistic regression across six MI sections found "
 - [Student characteristics such as race and gender identity were not strong predictors of resource-use profile membership; only two pairwise comparisons were significant.](few-demographic-predictors-resource-profiles.md) — related
 - [Robustness checks including ordered logistic regression confirm the absence of gender and ethnic grading bias](robustness-checks-confirm-null-grading-bias.md) — related
 - [Final grade positively predicts persistence overall, but grades in the middle of the pack show no statistically significant correlation with persistence](final-grade-predicts-persistence-except-intermediate.md) — related
+- [No gender, ethnicity, or major differences emerged in pre-post self-efficacy scores in the MI courses](no-gender-ethnicity-major-self-efficacy-differences.md) — related

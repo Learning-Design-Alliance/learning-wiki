@@ -69,3 +69,4 @@ Pre/post questionnaire study pooling five intern groups at RBWH; the article rep
 - [Knowledge-question performance rose significantly for every question after the programme, while attitude items showed minimal to no significant change](knowledge-gained-attitudes-unchanged.md) — related
 - [Medical students answered more cardiovascular knowledge questions correctly after optional access to an LPM-based e-learning environment than before, in an uncontrolled pre-post test](lpm-ele-improves-cvs-knowledge-questions.md) — related
 - [Correct-answer percentages rise steadily across academic years on the competency-based progress test, from 22.02% in year one to 66.67% in year six](progress-test-scores-rise-academic-years.md) — related
+- [Post-test percentage correct ranged from 63% to 89% on every item, up from widely varying pre-test scores of 8% to 60%](interferometry-test-item-difficulty-63-89-post.md) — related

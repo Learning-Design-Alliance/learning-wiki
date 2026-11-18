@@ -47,3 +47,4 @@ Student self-reported survey data illustrated in Figure 4 (n = 44) on the value 
 ## Related Claims
 - [Students using existing accelerometer apps with a minimally adapted traditional curriculum could not describe how the smartphone accelerometer works](existing-apps-students-cannot-explain-accelerometer.md) — related
 - [After using the MyTech app and its curriculum, students gave more accurate, more detailed explanations of how the smartphone accelerometer works](mytech-improves-accelerometer-explanations.md) — related
+- [Teachers and students gave positive feedback on smartphone physics experiments](positive-feedback-smartphone-physics-experiments.md) — related

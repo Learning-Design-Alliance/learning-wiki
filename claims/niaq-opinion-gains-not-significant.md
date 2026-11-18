@@ -52,3 +52,4 @@ Pre/post multiple-choice opinion items for the pre-service teacher cohorts. The 
 - [About one third of Belgian respondents declare an interest in astronomy, with interest rising with cultural level, ecological concern and science background](belgium-astronomy-interest-one-third.md) — related
 - [Undergraduates' self-reported interest in bioinformatics shifted from medium to high between surveys before and after a 5-hour EDUCE module in MICB 301, with no comparison group](educe-micb301-bioinformatics-interest-increase.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
+- [Opinions about quantum science change more after the visit than interests do](opinions-change-more-than-interests-after-visit.md) — related

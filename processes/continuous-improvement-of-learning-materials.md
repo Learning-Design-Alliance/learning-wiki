@@ -138,6 +138,7 @@ This is a *design* process, not an analytics dashboard. Its precondition is a li
 - **Open textbook revision programmes** — usage and outcome data from one term prioritising which chapters are rewritten for the next
 - **Self-paced courseware** — where per-resource telemetry is abundant and no instructor is present to notice a resource failing
 - [Learning analytics with rapid feedback loops at many levels to build lifelong-learning qualities](../strategies/learning-analytics-rapid-feedback-loops.md)
+- [Signal that a live simulation is running and provide downloadable data for classroom activities](../strategies/earth-like-simulation-signalling-and-csv-strategy.md)
 
 ## Key Sources
 - Wiley, Strader, & Bodily. Ch. 15 in *Design for Learning*. EdTech Books. [https://edtechbooks.org/id/continuous_improvement](https://edtechbooks.org/id/continuous_improvement)

@@ -55,3 +55,4 @@ The review reports follow-up work by Hazari's group surveying only high-school g
 - [PER studies identify self-efficacy opportunities differing by gender and factors affecting women's physical-science career choices (Sawtelle et al.; Hazari et al.)](per-self-efficacy-and-career-choice-factors.md) — related
 - [Female students show greater increases in interest and performance than male students, closing initial gender gaps](einstein-first-gender-equity-gains.md) — related
 - [Girls dissociate their gender from cleverness by age 6, and by age 10-11 STEM loses the interest of girls who already believe a science career is not for them](girls-dissociate-cleverness-age-six.md) — related
+- [Students oriented toward STEM careers show more positive science attitudes, with non-STEM-intending students least positively impacted and astronomy/physics-career students most](astro-attitude-correlates-stem-career-orientation.md) — related

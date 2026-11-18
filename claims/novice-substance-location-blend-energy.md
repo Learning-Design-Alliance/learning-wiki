@@ -51,3 +51,4 @@ Interpretive case analysis of a Spring 2013 interview with an undergraduate pre-
 - [Haphazard mixing of substance and location predicates leads students to confused reasoning about negative energy](haphazard-ontology-mixing-leads-to-confusion.md) — related
 - [Students fail to coordinate the multiple, ontologically conflicting descriptions embedded in physicists' language, which may produce patterns interpreted as misconceptions](students-fail-to-coordinate-conflicting-descriptions.md) — a broader claim this one bears on
 - [Gestural and metaphorical elements accompany the pulling out resource, evidencing its procedural status](pulling-out-gestural-basis.md) — related
+- [Students conceive electric current as a material substance rather than a process, which creates an ontological obstacle and blocks the voltage concept](current-as-substance-ontological-obstacle.md) — a narrower finding that bears on this claim

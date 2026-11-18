@@ -52,6 +52,7 @@ The authors propose a concrete research-and-development plan for Argentine astro
 
 - [Diagnose PBL gaps with a quality questionnaire, then revise problems with the 3C3R model via a multidisciplinary revision committee](3c3r-pbl-revision-strategy.md)
 - [Design didactic tools for teacher training that explicitly take teachers' misconceptions and learning obstacles into account](didactic-tools-addressing-teacher-misconceptions.md)
+- [Plan new continuing-education offerings from school-context diagnostics and participant demand, coordinated with municipal education secretariats](demand-driven-astronomy-cpd-planning.md)
 
 ## Examples
 -

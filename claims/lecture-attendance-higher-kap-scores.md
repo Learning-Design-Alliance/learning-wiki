@@ -49,3 +49,4 @@ Univariate group comparisons (Student's t-test) on the knowledge dimension. Lect
 - [Female gender, administrative position and lecture attendance independently predict adequate enteral nutrition knowledge](independent-factors-adequate-en-knowledge.md) — related
 - [Knowledge, attitude and practice scores for enteral nutrition are positively correlated](positive-kap-correlations-enteral-nutrition.md) — related
 - [Objective nutrition knowledge increased significantly after the 'Eat This!' online lecture series](eat-this-objective-knowledge-increase-significant.md) — related
+- [Perceived helpfulness of in-class lectures is positively correlated with science attitudes, while the instructor-attitude correlation disappears in that subset](lecture-helpfulness-correlated-attitude.md) — related

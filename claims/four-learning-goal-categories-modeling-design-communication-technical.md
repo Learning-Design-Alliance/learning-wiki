@@ -49,3 +49,4 @@ Faculty interview study: fifteen faculty were interviewed for about one hour and
 - [Faculty experts show majority but not complete consensus on E-CLASS statements](faculty-consensus-22-of-30-eclass-statements.md) — related
 - [Physics faculty lack consensus on what topics should be taught in modern physics](no-faculty-consensus-modern-physics-topics.md) — related
 - [Five distinct faculty personas emerged from interviews about physics assessment practices](personas-five-physics-faculty-archetypes.md) — related
+- [The five framework categories overlap rather than partition goals for writing in physics labs](framework-categories-interrelated-not-exclusive.md) — related

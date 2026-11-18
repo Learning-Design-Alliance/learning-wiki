@@ -50,3 +50,4 @@ ANCOVA (N=55) shows significant modality effects on eye-tracking indices in all 
 - [Decoding ability predicted retrieval, transfer, and retention, and interacted with modality so that video retention benefits were largest for children with weaker decoding](decoding-interaction-modality-retention.md) — related
 - [Faster initial-pass studying rate predicted better retention, delayed retention, and transfer and lower cognitive load, but the effect was mostly due to modality](faster-studying-rate-predicts-outcomes-and-load.md) — related
 - [Text amount and slide position strongly influenced studying durations, but picture type did not affect studying rate in either modality](slide-characteristics-drive-studying-duration.md) — related
+- [During the Predict task, unconfident physics students focus significantly longer on relevant task areas than confident students with comparable scores](eye-tracking-confidence-visit-duration-predict.md) — related

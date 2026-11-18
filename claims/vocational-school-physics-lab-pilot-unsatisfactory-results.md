@@ -49,3 +49,4 @@ Pilot case study in an Italian vocational school for commercial and tourist serv
 - [Vocational students showed uneven mastery after the lab path: most used units correctly but very few handled calorimetry or error propagation](vocational-lab-uneven-measurement-skill-outcomes.md) — a narrower finding that bears on this claim
 - [Individuals with social anxiety disorder are less likely to be eligible for vocational or academic upper secondary programmes than the general population](sad-lower-upper-secondary-eligibility.md) — related
 - [Adaptations of army trade tests may enable comparison of vocational students with men in the trades](army-trade-test-adaptations-for-vocational-comparison.md) — related
+- [Using the adapted device, a blind student participated fully in laboratory measurement for the first time and reported satisfaction](blind-student-first-full-measurement-participation.md) — related

@@ -49,6 +49,7 @@ Based on lessons learned, the authors recommend keeping learning activities non-
 - [Keep sessions voluntary to identify less useful teaching; reserve mandatory attendance for crucial content](voluntary-attendance-utility-signal.md)
 - [Increase student preparation for preclass material via clear expectations, focused preparation tasks, and explicit links to in-class active learning](clear-expectations-focused-prep-increase-preparation.md)
 - [Flipped Classroom](flipped-classroom.md)
+- [Structure seminar talks and fights on different problems with feedback carryover](seminar-talk-fight-different-problems-feedback.md)
 
 ## Examples
 -

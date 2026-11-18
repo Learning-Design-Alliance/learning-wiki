@@ -47,3 +47,4 @@ Online user survey completed by 10 of 14 tested novice researchers using DADOS-S
 ## Related Claims
 - [Administrator-role researchers rate WriteSim TCExam fast, easy to learn, use and navigate](admin-survey-rates-writesim-usable-for-trainers.md) — related
 - [WriteSim TCExam has been used informally to train roughly 25-30 novice researchers, with positive informal reports but no measured outcomes](writesim-informally-trained-novice-researchers.md) — related
+- [Practicing qualitative methods is fast and intuitive, boosting learner self-esteem and helping students and professionals navigate information overload](qualitative-methods-build-self-esteem-navigation.md) — related

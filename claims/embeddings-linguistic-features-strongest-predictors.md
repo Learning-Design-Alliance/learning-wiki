@@ -48,3 +48,4 @@ The review reports, citing Yaneva et al. (2019, 2020), a feature-ablation analys
 ## Related Claims
 - [Combining semantic and process features yields the best difficulty prediction; semantic embeddings alone trail the full model by 7.4–12.1 macro-F1 points on SAT Math](full-representation-beats-semantic-only-ablation.md) — related
 - [Surface readability measures are weak predictors of question difficulty, per reviewed studies](readability-weak-difficulty-predictors.md) — related
+- [R2DE's relative difficulty-estimation error (8.23%) is smaller than that of recent NLP difficulty-prediction works, though this does not assure better performance across datasets](r2de-difficulty-error-smaller-than-prior-work.md) — related

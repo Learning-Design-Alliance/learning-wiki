@@ -58,3 +58,4 @@ Analytical derivation (Section III) solving the α-process differential equation
 - [Prior physics knowledge moderated the correlation between feeling of learning and actual test performance (positive interaction, P < 0.05)](prior-knowledge-moderates-feeling-of-learning-accuracy.md) — related
 - [Low Prior Knowledge students achieved significantly higher normalized learning gains than High Prior Knowledge students](lpk-normalized-gain-exceeds-hpk.md) — reports the opposite
 - [Normalized gain g is positively biased in favor of populations with higher pretest scores](normalized-gain-biased-favoring-high-pretest-populations.md) — reports the opposite
+- [Post-scores are independent of pre-scores while normalized gain is strongly pre-score dependent, and math-test scores predict post-scores better than the pre-test](pre-score-bias-and-math-predictor.md) — reports the opposite

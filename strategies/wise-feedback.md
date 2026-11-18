@@ -58,9 +58,11 @@ Wise feedback works because critical feedback is ambiguous: learners — especia
 5. Repeat the framing consistently across the term so it becomes a credible pattern, not a one-off.
 
 ## Related Strategies
+
 - [Action-Oriented Feedback](action-oriented-feedback.md) — supplies the substantive, actionable critique that wise framing wraps
 - [Formative Feedback](formative-feedback.md) — wise feedback is a motivational framing layered on formative critique
 - [Growth Mindset Framing](growth-mindset-framing.md) — shares the premise that ability is improvable; wise feedback operationalizes it in the feedback channel
+- [Instructor practices that foster belongingness and a growth-mindset classroom culture to support gender equity](belongingness-instructor-practices-gender-equity.md)
 
 ## Examples
 - **Yeager & Cohen (2012) field experiments** — Seventh-grade teachers attached a single wise-framing sentence to essay feedback; students who received it were roughly twice as likely to revise and improved essay quality, with the largest effects among Black and Latino students.

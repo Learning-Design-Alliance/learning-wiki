@@ -49,3 +49,4 @@ Frequency analysis across 69 course offerings found "closeness and betweenness s
 - [Courses with a low number of forum interactions show inconsistent participation-dimension results, while eigenvector centrality remains robust there.](low-interaction-courses-inconsistent-participation-measures.md) — related
 - [Betweenness centrality shows the least consistent correlation with performance, being largely insignificant or negative across configurations except in one course](betweenness-centrality-least-consistent.md) — related
 - [Prior SNA studies of centrality-achievement links in CSCL show inconsistent, mostly small-sample results, with betweenness and closeness the most inconsistent measures](traditional-centralities-inconsistent-literature.md) — related
+- [Eigenvector centrality was negatively related to problem elaboration, an effect driven mainly by the Mixed and Treatment sections](eigenvector-negative-problem-elaboration.md) — related

@@ -60,3 +60,5 @@ Descriptive analysis of an anonymous Qualtrics survey of 66 students (19 pre-cli
 - [Peer-led workshops increase competency mastery and success in biology, particularly for PEERs and women, though all groups benefit](peer-led-workshops-increase-mastery-biology.md) — related
 - [International medical students define academic success as mastery of medical knowledge, clinical skills and communication skills, not only grades](mbbs-success-beyond-grades.md) — related
 - [Undergraduate mentors in the PSC showed statistically significant increases in research knowledge, confidence, and collaboration-related skills](psc-undergrad-mentor-gains.md) — related
+- [The 2019 BPDM workshop was followed by increases in participants' sense of identity, belonging, and team community](bpdm-2019-identity-belonging-team-increase.md) — related
+- [After the Capstone event, most student participants believed they were part of a community of scientists (93%) and advancing science (97%)](psc-capstone-community-of-scientists-beliefs.md) — related

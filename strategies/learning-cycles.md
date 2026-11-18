@@ -66,6 +66,7 @@ Learning cycles embody the "experience before formalization" principle: concepts
 - [Tailor in-class flipped classroom design to students' prior knowledge and the learning context](context-aligned-in-class-flipped-design.md)
 - [Structured inquiry session sequence: introduction, questioning, investigation, presentations, and synthesis](inquiry-session-sequence-questioning-investigation-presentation-synthesis.md)
 - [Classroom implementation structure: preparation, introduction, activity, feedback cycle](activity-feedback-cycle-classroom-structure.md)
+- [Present the Arduino experiment before the theoretical content, with students generating hypotheses in small groups](experiment-before-theory-group-hypotheses-strategy.md)
 
 ## Examples
 - **BSCS Science: An Investigative Approach** ([bscs.org](https://bscs.org)) — the high school biology program built directly on the 5E model, with each chapter structured as Engage–Explore–Explain–Elaborate–Evaluate

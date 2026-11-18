@@ -46,7 +46,8 @@ The UNSW interview is 'designed around a biographical assessment of the applican
 - [Prior academic achievement (UAI) is the strongest predictor of overall and knowledge-based outcomes in an integrated medical selection process, controlling for demographics](../claims/uai-strongest-predictor-medical-program-outcomes.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Blind motivational-statement selection with diversity-aware optimisation to manage oversubscribed camps](blind-motivation-statement-diversity-optimisation-selection.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Synthesis of the meta-analytic results on school grades: combining the small STE
 - [Simulations of the meta-analytic estimates indicate the top 10% of a STEM class contains roughly equal numbers of girls and boys, with more girls in non-STEM](simulation-top-10-percent-even-gender-ratio-stem.md) — related
 - [Gender differences in assessment points earned remained small but statistically significant after controlling for math course type and level](gender-gap-persists-controlling-course-enrollment.md) — related
 - [Basic conclusions about male-female achievement gaps and changes in gaps as students progress through school may change when models account for test effort](male-female-gap-conclusions-sensitive-to-test-effort.md) — related
+- [The gender gap in STEM GPA is much smaller than in overall GPA and vanishes for most groups except the most privileged students](stem-gpa-gender-gap-vanishes-except-privileged.md) — related

@@ -55,3 +55,4 @@ This is the authors' interpretation regarding ESPB, which has no hard constraint
 - [When all students follow an identical task sequence, data from an easy-to-hard sequence with learning and a flat sequence without learning can be virtually indistinguishable](ordering-bias-task-sequence-indistinguishable.md) — related
 - [Students spontaneously set their own challenges and take ownership when exploring PhET simulations](students-self-challenges-phet-sims-ownership.md) — related
 - [Freely explored simulations engage students in making connections, making predictions, testing them and interpreting outcomes](quvis-simulations-promote-student-driven-inquiry.md) — related
+- [Choosing their own music was reported as the cornerstone of students taking ownership of the choreography](music-choice-drives-student-ownership.md) — related

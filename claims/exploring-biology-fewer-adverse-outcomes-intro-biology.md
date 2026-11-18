@@ -48,3 +48,4 @@ Matched-pairs analysis of institutional data for 698 students (349 per group), m
 - [Exploring Biology preferentially benefited at-risk students: the grade-shift advantage was significant only for students who earned a C in first-semester introductory biology](exploring-biology-benefits-c-grade-students.md) — related
 - [Exploring Biology students passed the second semester of introductory biology more often than comparison students](exploring-biology-second-semester-passing.md) — related
 - [Exploring Biology students continued into and completed the two-semester introductory biology sequence at higher rates than comparison students](exploring-biology-higher-sequence-persistence.md) — related
+- [A course-based data science research experience in a first-semester introductory course can be completed by all enrolled students with no course attrition](cures-first-semester-no-attrition.md) — related

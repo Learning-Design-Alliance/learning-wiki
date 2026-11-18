@@ -55,3 +55,4 @@ Authors' interpretation of the hierarchical regression results for the 99-studen
 - [Demographic variables do not predict peer leaders' critical thinking gains](demographics-not-indicators-ct-gains.md) — related
 - [Reading guides were used similarly across student groups by gender, ethnicity, and aptitude, with demographics contributing to completion in few cases and inconsistently](reading-guide-use-equitable-across-student-groups.md) — related
 - [Demographic characteristics (DHH status and gender) show no apparent impact on students' integration in the classroom interaction network](demographics-no-impact-network-integration.md) — related
+- [Self-formed laboratory groups show demographic homogeneity varying by section: a physics-major section split by gender while a teacher-major section formed heterogeneous groups](lab-group-composition-demographic-variation.md) — related

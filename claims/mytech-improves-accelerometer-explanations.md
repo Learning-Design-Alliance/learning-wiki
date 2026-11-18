@@ -48,3 +48,4 @@ Second-round study with n = 41 students after exposure to the MyTech app and cur
 ## Related Claims
 - [Students using existing accelerometer apps with a minimally adapted traditional curriculum could not describe how the smartphone accelerometer works](existing-apps-students-cannot-explain-accelerometer.md) — related
 - [Most students agreed that the spring-model visualization helped them understand how the smartphone accelerometer works](spring-visualization-self-reported-value.md) — related
+- [Teachers and students gave positive feedback on smartphone physics experiments](positive-feedback-smartphone-physics-experiments.md) — related

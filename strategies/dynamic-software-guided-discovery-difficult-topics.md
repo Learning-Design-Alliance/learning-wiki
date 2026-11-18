@@ -48,6 +48,7 @@ The article recommends that instruction of mathematics subjects known to be diff
 
 - [Prepare GSP activities beyond geometry and train teachers in dynamic geometry pedagogy](gsp-teacher-training-and-extension-strategy.md)
 - [Use concrete props and algebraic patterns to scaffold analogical skill in geometry discovery lessons](props-and-algebraic-patterns-analogy-scaffolding.md)
+- [Implement DGE activities within collaborative group learning with instructor facilitation](dge-collaborative-group-implementation-strategy.md)
 
 ## Examples
 -

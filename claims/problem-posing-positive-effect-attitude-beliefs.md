@@ -49,3 +49,4 @@ Meta-analysis of six attitude-belief weighted effect sizes from experimental stu
 - [Problem posing interventions show the largest positive effect on knowledge-based mathematics achievement (mean Hedges' g = 1.31)](problem-posing-largest-effect-knowledge-based.md) — related
 - [Problem posing interventions show a large positive effect on students' levels and kinds of problems posed (mean Hedges' g = 0.77)](problem-posing-positive-effect-ability-based.md) — related
 - [Problem posing interventions show a large positive effect on problem-solving skill outcomes (mean Hedges' g = 0.83)](problem-posing-positive-effect-skill-based.md) — related
+- [The problem posing learning model had a significant positive effect on students' learning motivation](pp-model-significant-motivation-effect.md) — a narrower finding that bears on this claim

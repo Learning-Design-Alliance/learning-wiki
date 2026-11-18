@@ -54,3 +54,4 @@ Descriptive comparison of student performance on the two most difficult multiple
 - [Students showed growth in representational competence and conceptual understanding of particle motion across an online sequence of representational challenges](online-rca-growth-particle-motion.md) — related
 - [Multiple-choice questions combined with description and open-description items can measure higher-level thinking, including concept understanding at levels C1–C6](multilevel-mcq-measures-higher-order-chemistry-understanding.md) — related
 - [Teacher reports on embodying mindfulness online are mixed, with most reporting similar or greater embodiment](online-mbp-embodiment-mixed.md) — related
+- [Assessing 3-D immersive learning with flat multiple-choice tests raises a fairness question the authors flag as unresolved](flat-test-assessment-of-3d-learning-fairness.md) — related

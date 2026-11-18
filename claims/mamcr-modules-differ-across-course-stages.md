@@ -49,3 +49,4 @@ Module analysis for multiple-choice responses (MAMCR) applied to networks of cor
 - [Confirmatory factor analysis of PIQL response data does not support the intended three-group structure of ratio/proportion, covariation, and negativity items](cfa-fails-piql-three-construct-groups.md) — related
 - [MAMCR fails to replicate for large FCI samples: Infomap with LANS sparsification consistently identified only one large community of incorrect answers](mamcr-fails-large-fci-samples.md) — related
 - [As students progress through the introductory sequence, PIQL response modules become less coherent rather than more expert-like](modules-less-coherent-with-progression.md) — a broader claim this one bears on
+- [Dichotomously scored PIQL results indicate only a very modest improvement in students' quantitative reasoning from introductory physics instruction](piql-dichotomous-scoring-modest-improvement.md) — related

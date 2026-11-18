@@ -55,4 +55,4 @@ ACER is an analytical framework designed to guide and structure investigations o
 - Bethany R. Wilcox and Steven J. Pollock. (2015). Upper-division student difficulties with Separation of Variables. https://arxiv.org/abs/1507.03938v1
 - Qing X. Ryan, Steven J. Pollock, and Bethany R. Wilcox. (2015). Student Difficulties with Boundary Conditions in Electrodynamics. arXiv. https://arxiv.org/abs/1507.05604
 - Nandana Weliweriya, Justyna P. Zwolak, Eleanor C. Sayre, Dean Zollman. (2017). Varied reasoning schema in students’ written solutions. arXiv preprint. https://arxiv.org/abs/1611.02262
-- Wilcox, B. R., & Corsiglia, G. (2019). A cross-context look at upper-division student difficulties with integration. arXiv preprint. https://arxiv.org/abs/1908.00474
+- Wilcox, B. R., & Corsiglia, G. (2019). A cross-context look at upper-division student difficulties with integration. arXiv preprint. https://arxiv.org/abs/1908.00474. [doi:10.1103/physrevphyseducres.15.020136](https://doi.org/10.1103/physrevphyseducres.15.020136)

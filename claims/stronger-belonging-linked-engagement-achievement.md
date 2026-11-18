@@ -80,3 +80,4 @@ Narrative review attribution: the article reports Pedler et al.'s (2022) finding
 - [The hypothesized mediated moderation was not supported because motivation did not increase](mediated-moderation-not-supported.md) — related
 - [Prior research cited by the authors links a student-focused (learning-focused) approach to teaching with higher self-efficacy and positive emotions among higher education teachers](lft-correlates-self-efficacy-positive-emotions.md) — related
 - [Reading self-confidence is the student variable most strongly linked to academic resilience, significant and positive in every country analyzed](reading-self-confidence-predicts-academic-resilience-all-countries.md) — related
+- [The 2019 BPDM workshop was followed by increases in participants' sense of identity, belonging, and team community](bpdm-2019-identity-belonging-team-increase.md) — related

@@ -104,6 +104,7 @@ Struggle supports learning only when it is *productive* — learners grapple wit
 - [Check-In](../elements/check-in.md) — surfaces when students are stuck so support can be calibrated to the struggle
 - [Formative Assessment](formative-assessment-cycles.md) — low-stakes assessment structures that make error safe and informative
 - [Normalize failure and integrate post-traumatic growth through faculty disclosure of mistakes and structured reflection](failing-forward-ptg-reflection-strategy.md)
+- [Provide scaffolding at the conceptual-to-mathematical transition and use growth-mindset activities to sustain persistence after setbacks](scaffolding-conceptual-mathematical-transition-growth-mindset.md)
 
 ## Examples
 - **[Productive Failure](productive-failure.md) (Kapur)** — Singapore math classrooms present complex problems before formal instruction; students struggle in groups, then compare their solutions to canonical methods. Replicated improvements in conceptual understanding over teach-first controls.

@@ -68,3 +68,4 @@ The review reports that facilitator-led clarification followed the t-RAT in many
 - [In both TBL formats, tRAT and iSAT scores significantly improve over preceding iRAT scores](tbl-trat-isat-improve-over-irat.md) — related
 - [Remote Anatomage Teaching via a smart digital podium is technically feasible for large-group anatomy lectures without interruption](rat-technically-feasible-large-group-lectures.md) — related
 - [Students particularly value the IRAT and AES within the closing session for gauging their own knowledge and applying it to clinically pertinent scenarios.](students-value-irat-and-aes-in-closing-session.md) — related
+- [The TBL readiness assessment process provides immediate feedback that may drive mastery-experience and verbal-persuasion self-efficacy gains](tbl-readiness-assessment-immediate-feedback-mastery-source.md) — related

@@ -63,6 +63,7 @@ Game based review works primarily because it forces repeated retrieval of prior 
 - [Retrieval Practice](retrieval-practice-activities.md) — the underlying mechanism; a review game is a gamified retrieval exercise
 - [Formative Assessment](formative-assessment-cycles.md) — review games double as low-stakes diagnosis of what to reteach
 - [Adding quiz and crossword-puzzle activities to reduce monotony in the masterclass day](astroparticle-quiz-crossword-variety-strategy.md)
+- [Use a gamified quiz platform (Kahoot!) as a playful learning check after the calculation tasks](kahoot-quiz-learning-check-strategy.md)
 
 ## Examples
 - **[Kahoot!](https://kahoot.com)** — multiple-choice quiz game with simultaneous responses, music, and scoring; widely used for unit review. Its self-paced sibling mode removes the speed advantage.

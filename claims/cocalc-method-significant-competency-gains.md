@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-18
 sources:
   - id: maiiav-popel-2018
     resource: "https://doi.org/10.33407/itlt.v68i6.2404"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After the forming stage of the pedagogical experiment, the distribution of professional competency formation levels differed statistically significantly between the experimental group trained with the CoCalc method and the traditionally trained control group. [→ MaiiaV. Popel 2018](#maiiav-popel-2018)

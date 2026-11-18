@@ -83,3 +83,4 @@ The article's summary of existing experimental studies (Section IV) documenting 
 - [Institutional type (Carnegie classification) does not affect normalized gain after controlling for teaching method and test](carnegie-type-no-effect-on-gain.md) — reports the opposite
 - [Class-average pre-test score and institutional SAT score do not correlate with normalized gain after correcting for test and teaching method](pretest-and-sat-no-gain-correlation.md) — reports the opposite
 - [Normalized gain g is positively biased in favor of populations with higher pretest scores](normalized-gain-biased-favoring-high-pretest-populations.md) — possibly the same claim (merge candidate)
+- [No meaningful correlation was found between FCI prescore and CLASS shift, or between FCI gain and FCI pretest score](no-correlation-fci-pretest-class-shift.md) — reports the opposite

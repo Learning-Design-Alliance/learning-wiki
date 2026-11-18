@@ -58,3 +58,4 @@ End-of-semester survey of students in the gamified course. "Seventy-two percent 
 - [Peer competition and focus on the activity were the most highly rated engagement aspects of gamified TP ARS games, with most flow-related prompts endorsed by at least 85% of respondents.](peer-competition-focus-top-engagement-aspects.md) — related
 - [Students rated the exhibit's activities highly, with the initial lecture lowest at 78% of scores between 8 and 10](holographic-exhibit-quality-ratings-8-to-10.md) — a narrower finding that bears on this claim
 - [Students report high enjoyment and perceived usefulness of the quantum mechanics game after a class test](entangle-game-high-acceptance-survey.md) — a narrower finding that bears on this claim
+- [Gamifying the overtaking task engaged almost all learners, including those initially uninterested](gamification-overtaking-engagement.md) — a narrower finding that bears on this claim

@@ -52,3 +52,4 @@ Cross-sectional comparison of cluster properties from the K-means analysis of 17
 - [Teachers oriented towards students and changing students' conceptions are associated with students reporting deeper approaches to learning](teacher-orientation-deep-approaches.md) — related
 - [After training, better professional vision and reasoning are correlated with more learning-centered conception changes and fewer misconceptions](posttest-correlations-vision-conceptions.md) — related
 - [Greater percent teaching time allocation is associated with lower learner-centered teaching practices](teaching-time-allocation-negative-rtop.md) — related
+- [Lab TAs' written reflections shifted from a traditional transmission model of education toward a student-centered view of learning across the professional development program](ta-reflections-shift-from-transmission-to-student-centered.md) — related

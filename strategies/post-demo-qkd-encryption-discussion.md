@@ -48,6 +48,7 @@ An immediate post-demonstration discussion connecting the Bell test to secure ke
 ## Related Strategies
 
 - [Play the BB84 quantum cryptography protocol using only part 1 of the game](entangle-game-bb84-extension.md)
+- [E91 entanglement-based key distribution game with CHSH test as eavesdropping check](e91-entanglement-key-game.md)
 
 ## Examples
 -

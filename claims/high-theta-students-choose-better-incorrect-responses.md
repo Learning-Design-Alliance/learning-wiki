@@ -49,3 +49,4 @@ Interpretation of the 2PL-NRM trace-line plots (Fig. 3) for questions 14, 18, an
 - [The ranking of incorrect FCI answer choices comes from item response curves relating answer choice selection to total score as a proxy for understanding](irc-ranking-of-incorrect-answers.md) — related
 - [A 2PL-NRM nested logit IRT model applied to over 7,000 students' FMCE responses yields a unique ak parameter for every incorrect response, enabling a quantitative ranking of incorrect answers](irt-nested-logit-ranks-incorrect-responses.md) — related
 - [At least 75% of students choose at least one correct response on MRM questions, motivating analysis beyond the correct/incorrect dichotomy](mrm-partial-correctness-evidence.md) — related
+- [On any given FMCE item, roughly a fifth of students switch answers between the two courses, while the majority (82.4% on average) give consistent responses](fmce-item-level-answer-consistency.md) — related

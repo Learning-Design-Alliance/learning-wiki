@@ -56,8 +56,10 @@ The app exemplifies game-based practice: short problem sequences with immediate 
 5. Revisit skills across days rather than in one long session to gain spacing benefits [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
+
 - [Khan Academy](https://www.khanacademy.org) — Moose Math's parent platform; extends the same mastery-based progression to older learners
 - Math manipulative stations — the concrete counterpart to the app's visual representations
+- [Progressively unlock games to give children a sense of advancing to new challenges](progressive-game-unlocking-sense-of-advancement.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the app's core mechanism: high-frequency, low-stakes problem solving

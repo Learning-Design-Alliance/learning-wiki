@@ -58,3 +58,4 @@ Repeated measures ANOVA in a quasi-experimental pre-, post-, post-post-test desi
 - [Students' self-rated interest in pursuing an ophthalmology residency rose from pre-workshop to immediately after the workshop and was not statistically different from either pre-workshop or immediate post-workshop levels at three months in one single-group pre-post study](sbe-ophthalmology-interest-fades.md) — related
 - [Clinical skill performance gains from e-learning are retained: one-month skill performance is not significantly different from immediately post-intervention](clinical-skill-performance-retained-one-month.md) — related
 - [Reported workshop studies found measurable improvements from activated demonstration training](activated-demonstration-workshop-improvements.md) — related
+- [PRiSE students show lasting STEM confidence and skills effects and greater physics and STEM uptake at university three years later](prise-lasting-longitudinal-impacts.md) — related

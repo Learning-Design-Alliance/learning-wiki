@@ -50,3 +50,4 @@ Check-all-that-apply survey item (Q15) on motivating factors for EPO engagement,
 - [Most DES respondents favor centralized EPO efforts, valuing time savings and avoidance of duplicated effort](epo-centralization-favorable.md) — related
 - [Temporary-position researchers are more likely than permanent-position researchers to engage in EPO only during free time](epo-free-time-temporary-position.md) — related
 - [In 2016 the average DES EPO social media post reached about 2,500 users, with reach highly variable between posts (258 to 14,450 users)](des-epo-social-media-average-reach-2500-users.md) — related
+- [Career choice motivations are dominated by school mathematics and physics affinity and the desire to contribute to science, not financial or social recognition](physics-career-motivations-intrinsic-not-financial.md) — related

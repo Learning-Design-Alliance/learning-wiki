@@ -68,6 +68,7 @@ Growth mindset interventions produce small but reliable gains in achievement for
 - [Values-aligned teacher training that connects growth mindset-supportive practices to teachers' core professional values](values-aligned-teacher-training-strategy.md)
 - [Build growth-mindset classroom cultures through teacher practices that convey all students can learn and improve](growth-mindset-classroom-culture-practices.md)
 - [Four-part support strategy: mindset interventions, grit-building tasks, adaptability support, and PGI-promoting growth opportunities](four-part-mindset-grit-adaptability-pgi-support-strategy.md)
+- [Instructor practices that foster belongingness and a growth-mindset classroom culture to support gender equity](belongingness-instructor-practices-gender-equity.md)
 
 ## Examples
 - **[PERTS / Mindset Works](https://www.mindsetworks.com)** — The Brainology curriculum teaches neuroplasticity through interactive modules; the National Study of Learning Mindsets ([Yeager et al., 2019](https://doi.org/10.1038/s41586-019-1466-y)) delivered two 25-minute online sessions to ~12,000 ninth-graders and raised GPA among lower-achieving students.

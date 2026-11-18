@@ -50,3 +50,4 @@ Numerical comparison on the mismatch-grade (MMG) subset of the UNT dataset shown
 - [The two-stage query with SCS elevates grading process up to 40% on the LL dataset and up to 30% at the beginning on the JRL dataset compared to conventional AL](age-elevates-grading-ll-jrl.md) — related
 - [Instead of cutting answers, the proposed model converges faster than conventional AL and elevates grading up to 30% at the very beginning on the JRL dataset](age-converges-faster-jrl-30-percent.md) — related
 - [GPT-4 surpasses other LLMs in the AGE query selection with an accuracy rate 15% better](gpt4-surpasses-other-llms-15-percent.md)
+- [Simulation shows the proposed estimation successfully estimates abilities within finite iterations, faster and with smaller error when historical data is considered](acquisition-estimation-convergence-history-simulation.md) — related

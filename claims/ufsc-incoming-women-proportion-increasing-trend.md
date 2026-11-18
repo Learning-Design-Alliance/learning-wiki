@@ -49,3 +49,4 @@ A temporal analysis of women's entry into undergraduate physics courses (figure 
 - [In the bacharelado (bachelor in physics) course at UFSC, success rates are 13,4% for women and 16,8% for men (19,6% and 21,4% after correction).](ufsc-bacharelado-success-rates-women-men.md) — related
 - [The proportion of women among UFSC physics students decreases as the career advances (scissor effect).](ufsc-physics-scissor-effect-women-proportion-decreases.md) — related
 - [In the licenciatura (physics teaching) course at UFSC, success rates are 17,7% for women and 19% for men (23% after excluding recent incomers).](ufsc-licenciatura-success-rates-women-men.md) — related
+- [Diversity decreases with career progression: proportions of women and black+parda people are higher among undergraduates than at the PhD level](diversity-decreases-with-career-progression-scissors-effect.md) — related

@@ -58,3 +58,4 @@ Between-subject experiment (N = 16 without graphs, N = 20 with graphs), 36 engin
 - [Conventional Gibbs vector calculus hinders students' intuitive understanding of physics because vectors do not integrate with basic algebraic operations](gibbs-vectors-limit-student-intuition.md) — related
 - [A GA-based presentation of electromagnetism is more accessible to students because it requires neither vector calculus nor tensor index notation](ga-electromagnetism-accessible-presentation.md) — related
 - [In this study, the correctness of the vector arrows in students' diagrams did not significantly impact problem-solving performance](diagram-vector-correctness-no-score-effect.md) — related
+- [The graphical notation lowers barriers in learning and practicing vector calculus and fosters student self-motivation](graphical-notation-lowers-vector-calculus-barriers.md) — reports the opposite

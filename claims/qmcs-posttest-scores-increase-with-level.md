@@ -93,3 +93,4 @@ Single junior quantum course with an abbreviated six-question pretest showed a p
 - [Modern physics students' QMCS pretest scores are only slightly above random guessing](qmcs-pretest-near-random-guessing.md) — related
 - [About 69% of junior/senior students in introductory quantum physics courses demonstrate an adequate level of quantum thinking on a 29-item questionnaire](quantum-thinking-69-percent-college-survey.md) — related
 - [Interactive engagement methods produced significantly higher QMCS scores than traditional teaching](interactive-engagement-higher-quantum-scores.md) — related
+- [There is a strong predictive relationship among sophomore, junior and senior level physics courses, unlike introductory physics](later-physics-courses-strongly-predict-each-other.md) — related

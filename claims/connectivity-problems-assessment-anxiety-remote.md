@@ -59,3 +59,4 @@ Focus group theme on technological challenges: students worried about "missing i
 - [Remote assessment of low-stake skills was viewed as comparable to in-person assessment and able to standardise competency assessment](remote-assessment-standardises-low-stake-competency.md) — related
 - [Poor internet connectivity and device incompatibility limited access to online courses for students in developing countries during COVID-19](poor-connectivity-blocked-online-access-developing-countries.md) — related
 - [Poor internet connectivity, timing clashes, and home distractions were the main hindrances to online learning in the developing-country setting](connectivity-timing-hindrances-online-learning.md) — related
+- [Students reported negative experiences when the flipped classroom lacked adequate infrastructure such as internet connection](flipped-classroom-internet-infrastructure-difficulty.md) — related

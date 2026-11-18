@@ -104,3 +104,4 @@ Completion-sample participants answered the 5-question NASA-TLX after each task.
 - [Cognitive offloading — using physical external elements to reduce task cognitive demand — improves performance in perception, memory, mathematical thinking, and spatial reasoning](cognitive-offloading-improves-performance-extended-mind.md) — related
 - [The article attributes anxiety's inhibiting effect on e-learning adaptation to cognitive load: mental effort spent on anxiety reduces effort available for e-learning](cognitive-load-explanation-anxiety-elearning.md) — related
 - [NASA-TLX workload was moderately correlated with total time spent on robotic tasks](nasa-tlx-workload-correlates-task-time.md) — related
+- [Explanations raise perceived cognitive workload only for annotators with AI experience](xal-workload-higher-for-ai-experienced-annotators.md) — related

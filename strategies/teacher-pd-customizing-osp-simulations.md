@@ -46,6 +46,7 @@ The article advocates teachers customizing existing Open Source Physics simulati
 - [Remix existing open source simulation models into inquiry learning environments matched to the local syllabus](remix-open-source-simulations-for-inquiry-strategy.md)
 - [Remix workflow: build on expert source code through analyze-then-modify stages](ejs-remix-existing-source-code-strategy.md)
 - [Hands-on workshop sequence: study an existing model, modify it, then self-direct a personal customization project](ejs-hands-on-model-modification-workshop-strategy.md)
+- [Customize recorded simulation data using the _recorder object to match the research question](ejs-recorder-customization-strategy.md)
 
 ## Examples
 -

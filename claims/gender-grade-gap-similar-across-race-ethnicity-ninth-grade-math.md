@@ -58,3 +58,4 @@ Observational analysis of CPS administrative records for 29,229 first-time ninth
 - [Validity evidence for the IRLA is disaggregated across grade, program, and race/ethnicity](irla-validity-disaggregated-demographics.md) — related
 - [Bachelor's DAI varies sharply by race/ethnicity and gender: Black and Latino young men are projected at 10 and 13 percent versus a 19 percent district average](cps-dai-gaps-race-gender.md) — related
 - [Performance gaps by gender and race/ethnicity in introductory physics are similar in size and widen from pretest to posttest](physics-equity-gaps-widen-pre-post.md) — related
+- [Women earn roughly 0.2 grade points higher overall GPA than men across all demographic groups](women-higher-overall-gpa-all-groups.md) — related

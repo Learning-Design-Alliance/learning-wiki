@@ -45,6 +45,7 @@ After evaluation, the developers determined that the signal stick activity's low
 ## Related Strategies
 
 - [Use a planetarium set to historical sky conditions to let students learn by experience](planetarium-historical-sky-conditions-strategy.md)
+- [Use a mobile inflatable planetarium plus a portable telescope as a first contact with science for students who cannot visit fixed facilities](mobile-planetarium-first-contact-strategy.md)
 
 ## Examples
 -

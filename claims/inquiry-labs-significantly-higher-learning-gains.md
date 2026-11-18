@@ -73,3 +73,4 @@ Effect-size estimation from the 10 controlled studies with sufficient data (n = 
 - [Student preference for inquiry-based versus scripted laboratory exercises varies by exercise, with one exercise showing greater preference for scripted versions](scripted-lab-preference-exception-one-exercise.md) — related
 - [Science process skills scores rose significantly from pre-test to post-test among students taught with GIBLEI, in one uncontrolled pre-post study](giblei-within-group-sps-gain-wilcoxon.md) — related
 - [The control group taught with the traditional approach also improved significantly on scientific process skills from pretest to post-test](control-group-spst-also-improved.md) — related
+- [Precisely scripted demonstration laboratories offer little learning value and may foster less-expert beliefs, while inquiry elements promote expert-like beliefs](scripted-labs-little-added-value-inquiry-promotes-expert-beliefs.md) — related

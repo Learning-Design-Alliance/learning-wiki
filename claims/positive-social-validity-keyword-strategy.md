@@ -51,3 +51,4 @@ Social validity form with 12 closed items and two open-ended questions administe
 - [Students expressed positive opinions about the SQ3R intervention, while reporting that summarizing was difficult](student-positive-opinions-sq3r-intervention.md) — related
 - [Both control and experimental students responded positively to e-learning, with the experimental group's attitude slightly higher](student-attitudes-elearning-experimental-higher.md) — related
 - [All three teachers expressed positive opinions about the CLE and reciprocal peer teaching treatment](cle-peer-teaching-positive-teacher-opinions.md) — related
+- [Students showed increased confidence in expressing opinions and discussing what they learned by the end of the workshop](increased-confidence-after-particle-dance.md) — related

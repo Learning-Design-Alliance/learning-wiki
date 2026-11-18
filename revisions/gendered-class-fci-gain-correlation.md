@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/gendered-class-fci-gain-correlation.md
+---
+
+# Revision history: [claims/gendered-class-fci-gain-correlation](../claims/gendered-class-fci-gain-correlation.md)
+
+### 2026-11-18 · ingest · process:wiki-ingest
+Ingested from arxiv-2003.02704 (Positive attitudinal shifts and a narrowing gender gap: Do expertlike attitudes correlate to higher learning gains for women in the physics classroom?) via eval_harness.py + ingest_extractions.py

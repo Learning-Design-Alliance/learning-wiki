@@ -55,3 +55,4 @@ The review reports Docktor and Heller's analysis of FCI scores for more than 500
 - [Most individual studies report positive gender gaps in mean FCI scores, with effect sizes ranging from -0.15 to 1.5](fci-individual-study-gaps-range.md) — related
 - [Mean FCI scores differ significantly between male and female students at a moderate magnitude favoring male students (g = 0.61) across international PER studies](fci-gender-gap-moderate-favoring-males.md) — related
 - [Matched-samples studies find no post-test performance difference between men and women in introductory physics when matched on prior measures](matched-samples-no-gender-posttest-difference.md) — related
+- [The FCI gender gap narrowed following instruction in these blended sections](fci-gender-gap-narrowed-blended-sections.md) — reports the opposite

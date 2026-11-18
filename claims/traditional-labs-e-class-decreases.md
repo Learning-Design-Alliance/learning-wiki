@@ -50,3 +50,5 @@ Matched pre/post E-CLASS responses collected in the traditional laboratory cours
 ## Related Claims
 - [Transformed DATA Lab courses produced higher expert-like attitudes about experimental physics than traditional lab courses after controlling for incoming E-CLASS scores](data-lab-e-class-gains-over-traditional-labs.md) — related
 - [CLASP students' expert-like epistemologies (MPEX-II) were statistically unchanged over the quarter, unlike the declines reported for most standard and many reformed physics classes](clasp-mpex-epistemologies-unchanged.md) — related
+- [Pre/post E-CLASS scores showed a small decrease in expert-like responses and no statistically significant pre-post differences in a partially reformed lab course](e-class-pre-post-no-significant-change-mixed-labs.md) — possibly the same claim (merge candidate)
+- [Precisely scripted demonstration laboratories offer little learning value and may foster less-expert beliefs, while inquiry elements promote expert-like beliefs](scripted-labs-little-added-value-inquiry-promotes-expert-beliefs.md) — related

@@ -52,3 +52,4 @@ Evaluation of the NANOGrav IRES program, a 10-week REU-style research-abroad int
 - [Review reports exposure abroad alone does not guarantee gains in social-change competencies, calling the learning mechanism a black box](social-change-exposure-black-box.md) — reports the opposite
 - [Undergraduate mentors in the PSC showed statistically significant increases in research knowledge, confidence, and collaboration-related skills](psc-undergrad-mentor-gains.md) — related
 - [STARS undergraduate research experiences produced statistically significant growth in astrophysics understanding and confidence, with effects amplified for URM and female students](stars-undergrad-research-gains.md) — related
+- [Former participants report international outcomes including travel abroad, international collaboration and living in a different country](iayc-international-outcomes.md) — related

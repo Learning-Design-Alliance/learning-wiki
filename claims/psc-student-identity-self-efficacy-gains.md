@@ -48,3 +48,5 @@ Evaluation of the PSC program comparing student participants to a control group 
 - [Student researchers in ARiC projects produced recognised scientific discoveries, including 25 pulsars, hundreds of asteroids and a Trans-Neptunian object](aric-student-scientific-discoveries.md) — related
 - [The effects on math self-efficacy, math utility value and STEM vocational interest do not persist at the 6-month follow-up](srl-intervention-followup-nonpersistence-utility-interest.md) — reports the opposite
 - [STARS undergraduate research experiences produced statistically significant growth in astrophysics understanding and confidence, with effects amplified for URM and female students](stars-undergrad-research-gains.md) — related
+- [The problem posing model had a significant positive effect on each measured motivation aspect: interest, diligence, identity, collaboration, and self-control](pp-model-positive-all-motivation-aspects.md) — related
+- [Participation in PSC II significantly increased high school teachers' competency in teaching science and the research process (d = 0.53)](psc-teacher-teaching-competency-increase.md) — related

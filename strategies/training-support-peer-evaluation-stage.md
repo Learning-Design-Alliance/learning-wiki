@@ -51,6 +51,7 @@ From the study's findings the authors recommend that "training, tutoring and sup
 - [Train peer tutors to mastery on the exact skill checklist before they teach, using the same Peyton's-method module as the trainees will receive](peer-tutor-mastery-training-strategy.md)
 - [Provide continuous tutor training in PBL case facilitation, assessment, and evaluation](continuous-pbl-tutor-training-strategy.md)
 - [Engage medical students as peer assessors in high-fidelity-simulation-based clinical performance evaluation](students-as-peer-assessors-simulation-evaluation.md)
+- [Four practical suggestions for designing and implementing technology-enhanced pre-instructional peer assessment](pre-instructional-peer-assessment-design-suggestions.md)
 
 ## Examples
 -

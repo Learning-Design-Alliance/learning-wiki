@@ -68,3 +68,4 @@ Item discrimination analysis comparing each item score to the rest of the test (
 - [CMR and FR CUE show similar discrimination and internal consistency](cmr-reliability-discrimination-consistency.md) — related
 - [Item difficulty differs significantly on 3 of 16 items, all easier on the CMR version](cmr-item-difficulty-three-items-easier.md) — related
 - [Multiple-response multiple-correct (MRM) questions are much harder than single-response questions, with no significant discrimination differences](mrm-questions-much-harder.md) — related
+- [The ten-item interferometry test showed acceptable reliability: average α = 0.675 with post-test discriminations within accepted limits except item 10 in fall 2016](interferometry-test-alpha-0-675-reliability.md) — related

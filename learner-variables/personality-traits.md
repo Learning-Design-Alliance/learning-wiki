@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 174 claims (113 show a difference, 38 mixed, 23 no difference) · 83 studies (48 associational, 15 review, 12 causal, 5 quant-synthesis, 3 theoretical), `q1`–`q4` · 26 of 83 report an effect size · 174 claims rest on one study
+> **Evidence** · 175 claims (113 show a difference, 39 mixed, 23 no difference) · 84 studies (48 associational, 15 review, 13 causal, 5 quant-synthesis, 3 theoretical), `q1`–`q4` · 27 of 84 report an effect size · 175 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -209,6 +209,7 @@ Personality traits are relatively stable individual differences, most often meas
 - [Conscientiousness measured by the CI appears to be a stable characteristic not modified by teaching and clinical exposure in years 1–2](../claims/conscientiousness-stable-not-modified-by-teaching.md) [-M] — measured as an outcome of the instruction studied
 - [Exam length cannot be set fairly by treatment or opportunity: a short test penalizes conscientious students and a long exam penalizes fast ones](../claims/exam-length-tradeoff-speed-conscientiousness.md) [~W] — an instructional effect differs with it
 - [No relationship between students' personality traits and their grades was unveiled, except a marginal negative agreeableness correlation in the first study](../claims/personality-traits-no-grade-relationship.md) [~M] — learners who differ on it differ in outcomes
+- [Conscientiousness moderates the effect of explanations on learning gains: low-Conscientiousness users tended to learn better with explanations](../claims/conscientiousness-moderates-explanation-learning-gains.md) [~M] — an instructional effect differs with it
 
 ## Related Learner Variables
 

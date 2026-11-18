@@ -149,3 +149,4 @@ A meta-analysis of 54 control-group studies (141 effect sizes; the abstract's fi
 - [Collaborative writing and rubric-guided peer feedback were experienced as meaningful learning experiences supporting engagement with persuasive essay writing](collaborative-writing-peer-feedback-meaningful.md) — a narrower finding that bears on this claim
 - [The educational value of EPAAs depended primarily on the quality of the feedback discussion](epaa-educational-value-depends-on-feedback-quality.md) — related
 - [Formative assessment and continuous feedback are prioritized over traditional offline final examinations in the evaluation phase](formative-assessment-over-final-exams-bmooc.md) — related
+- [Students rated the fairness of their own marking and the benefit of peer assessment highly while reporting difficulty and moderate pressure in assessing peers' works](peer-assessment-perception-ratings-statistical-methods-course.md) — related

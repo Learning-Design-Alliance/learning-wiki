@@ -51,3 +51,4 @@ Instructor observation of team interaction and engagement during the 9-student c
 - [Student feedback was positive: 78% found teamwork helpful, 89% found programming the key challenge, and 89% wanted a follow-up camp](ev3-camp-student-feedback.md) — related
 - [Purely peer groups working purposefully out-of-reach problems did not fully succeed but still made significant progress, internalizable by individual members](peer-groups-did-not-fully-succeed-out-of-reach-problems.md) — related
 - [The camp team qualified for the World Robot Olympiad India national championship from a fiercely competitive 23-team regional round](ev3-camp-team-wro-qualification.md) — related
+- [A majority of surveyed minority-group members, and about a third of those with impostor syndrome, felt the camp helped them reach their goals](iayc-minority-impostor-syndrome-support.md) — related

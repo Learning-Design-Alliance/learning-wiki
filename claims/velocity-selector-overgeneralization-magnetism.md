@@ -67,3 +67,4 @@ Pre/post results for the net-force question with oppositely directed electric an
 ## Related Claims
 - [Students conflate magnetic poles with electric charges, failing to distinguish a bar magnet from an electric dipole](electric-magnetic-dipole-confusion.md) — related
 - [Students predict that wires carrying opposite currents attract, and even those correctly predicting repulsion could not explain it via magnetic-force reasoning](opposite-current-wires-attract-misconception.md) — related
+- [No participant explained induced current in moving-loop cases via the magnetic part of the Lorentz force, though it is the cause of EMI in those cases](emi-lorentz-force-explanation-absent.md) — related

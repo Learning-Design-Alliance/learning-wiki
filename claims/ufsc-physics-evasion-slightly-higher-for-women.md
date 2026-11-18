@@ -51,3 +51,4 @@ The abstract states evasion is "always slightly higher for women". The body repo
 - [Undergraduate physics courses at UFSC show very high evasion, with less than 20% of incomers obtaining the degree on average.](ufsc-physics-undergraduate-evasion-below-20-percent.md) — related
 - [Evasion is lower in postgraduate physics courses than in undergraduate courses at UFSC.](ufsc-physics-postgraduate-evasion-lower-than-undergraduate.md) — related
 - [The proportion of women among UFSC physics students decreases as the career advances (scissor effect).](ufsc-physics-scissor-effect-women-proportion-decreases.md) — related
+- [Diversity decreases with career progression: proportions of women and black+parda people are higher among undergraduates than at the PhD level](diversity-decreases-with-career-progression-scissors-effect.md) — related

@@ -75,3 +75,4 @@ Reading holdout results: the random forest beat the direct approach, dummy regre
 - [SGD classifiers on document-term matrices outperformed explicit linguistic-feature filters for removing low-scoring responses](sgd-classifier-filtering-outperformed-linguistic-features.md) — related
 - [Model results are robust to varying training fraction and number of trees, but the highest-physics-degree factor is only marginally meaningful](hyperparameter-robustness-variable-importance.md) — related
 - [The variable-based linear regression classifier produced the best-performing student performance model, yielding the least MAE, RMSE, RAE and RRSE among the four trained models](variable-based-lrc-best-error-metrics-programming-spm.md) — related
+- [A Random Forest regressor with question_only text encoding performed best for estimating both IRT latent traits in cross-validated model choice](r2de-random-forest-question-only-best.md) — related

@@ -8,12 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
-newest_evidence: 2012
-source_checked: 2026-10-20
+newest_evidence: 2011
 sources:
-  - id: farr-2012
+  - id: farr-2011
     resource: "https://doi.org/10.48550/arxiv.1109.3720"
-    title: "Farr, Schelbert, & Trouille. (2012). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720 [doi:10.48550/arxiv.1109.3720](https://doi.org/10.48550/arxiv.1109.3720)"
+    title: "Farr, Schelbert, & Trouille. (2011). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720 [doi:10.48550/arxiv.1109.3720](https://doi.org/10.48550/arxiv.1109.3720)"
     author: "Farr, Schelbert, & Trouille"
     q: 2
     i: "?"
@@ -25,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2012 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Over 80% of students were able to predict and explain why the frequency of the gravitational wave increases with time during inspiral, while only about half deduced that the amplitude also increases. [→ Farr 2012](#farr-2012)
+`q2 i?` Over 80% of students were able to predict and explain why the frequency of the gravitational wave increases with time during inspiral, while only about half deduced that the amplitude also increases. [→ Farr 2011](#farr-2011)
 
 ## Evidence
 
-### Farr 2012
+### Farr 2011
 
-Farr, Schelbert, & Trouille. (2012). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720 [doi:10.48550/arxiv.1109.3720](https://doi.org/10.48550/arxiv.1109.3720)
+Farr, Schelbert, & Trouille. (2011). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720 [doi:10.48550/arxiv.1109.3720](https://doi.org/10.48550/arxiv.1109.3720)
 
 `q2 · i?` · `design · r2`
 
@@ -55,3 +54,4 @@ Classroom implementation across 8 mixed junior/senior, honors and non-honors cla
 - Adding prediction and discussion to lecture demonstrations significantly improves students' ability to explain the outcomes compared with merely observing — related
 - [The study demonstrates the need for particular instructional supports, including differentiated expertise-building opportunities and addressing teacher beliefs about computational-model construction](instructional-supports-needed-for-complex-systems-implementation.md) — related
 - [Embedding gravitational-wave science across a year-long astronomy curriculum gave coherence to previously disconnected units and motivated students](grav-wave-theme-coheres-curriculum.md) — related
+- [High-school students are reported to be able to assimilate modern physics concepts such as gravitational waves and relate them to their daily lives](students-assimilate-modern-physics-concepts.md) — related

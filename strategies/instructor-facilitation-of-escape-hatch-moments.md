@@ -45,6 +45,7 @@ The article recommends that instructors treat tense small-group moments as objec
 
 - [Time educator intervention to the anger tipping point rather than suppressing anger from the outset](intervene-at-anger-tipping-point.md)
 - [Intervene in Abusive Language](intervene_in_abusive_language.md)
+- [Implement DGE activities within collaborative group learning with instructor facilitation](dge-collaborative-group-implementation-strategy.md)
 
 ## Examples
 -

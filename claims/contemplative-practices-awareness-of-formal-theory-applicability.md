@@ -51,3 +51,5 @@ Qualitative thematic coding of students' written reflections on the sensory medi
 - [Students described a sudden awakening of the senses and heightened somatic, sensory, and environmental awareness during the contemplative practices](sensory-meditation-heightened-embodiment-sensory-awareness.md) — related
 - [Students experienced a sense of intrinsic motivation to study physics in response to the desire to find explanations for physical phenomena](contemplative-practices-intrinsic-motivation-physics.md) — related
 - [Student skepticism about the contemplative practices was rare: only one student openly doubted their value, and a handful of pre-practice skeptics reported enjoying them](contemplative-practices-student-skepticism-minimal.md) — related
+- [Most students expressed appreciation for the somatic, affective, and cognitive effects of the practice, while a minority reported initial skepticism](em-practice-appreciation-skepticism.md) — related
+- [A contemplative practice of somatic meditation and contemplation deepened students' awareness of electromagnetic phenomena in their surroundings](somatic-meditation-em-awareness.md) — related

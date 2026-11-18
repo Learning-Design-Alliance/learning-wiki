@@ -49,3 +49,4 @@ Finding from the HLM analysis of 4,365 students in 93 courses (56 LA-supported),
 - [LA support is not associated with smaller performance gaps between demographic groups (p > 0.8, d ~ 0.01)](la-support-no-gap-reduction.md) — related
 - [The article reports larger pretest-to-posttest gains in collaborative-learning and LA-supported courses than in traditional courses, though the collaborative-only model coefficient was not reported as significant](collaborative-learning-larger-gains-than-traditional-physics.md) — a broader claim this one bears on
 - [LA-supported collaborative courses show higher posttest scores than collaborative courses without LAs in introductory physics](la-support-adds-gains-beyond-collaborative-learning.md) — related
+- [LA-supported introductory physics courses are associated with lower overall DFW rates than traditional courses taught by the same instructors](la-support-lower-overall-dfw-rates.md) — related

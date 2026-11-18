@@ -55,3 +55,4 @@ End-of-semester anonymous student evaluations in the 2009-2010 LA-supported clas
 - [Most students in a hybrid PA programme agreed that live online classes, questions, and breakout rooms encouraged engagement, but only half felt connected to other class members](hybrid-pa-survey-connection-engagement.md) — related
 - [Students reported that assigning certainty ratings to MCQ answers made them aware of what they know and do not know and assisted in identifying knowledge gaps](crmcq-student-survey-awareness-gaps.md) — related
 - [Pre-service teachers' science teaching efficacy beliefs improved on most STEBI items after instruction in LA-supported classes](stebi-gains-students-la-classes.md) — related
+- [Students evaluated the CPS experience positively, most appreciating group discussion and knowledge sharing](students-evaluate-cps-positively.md) — related

@@ -48,3 +48,4 @@ The authors' reasoned recommendation, not a tested result: they argue that altho
 ## Related Claims
 - [The survey reports, citing Qiu et al., that BKT consistently overestimates the accuracy of students' answers when a day or more has elapsed since their previous responses.](bkt-overestimates-accuracy-after-a-day-elapses.md) — reports the opposite
 - [BKT is the most efficient knowledge tracing approach overall in simulated online mastery learning, though DKT is more efficient for AS and M problems](bkt-most-efficient-online-mastery-learning.md) — related
+- [BKT's interpretable latent estimates may not be as useful as thought, though BKT retains uses where model structure must be explained](bkt-latent-estimates-less-useful-than-thought.md) — related

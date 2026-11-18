@@ -53,3 +53,4 @@ Findings from Problems 2–4, which require the superposition principle to compa
 - [All four observed upper-division students failed their first attempt at a sign-intensive electrostatics superposition problem](upper-division-first-attempt-sign-failures.md) — a narrower finding that bears on this claim
 - [Completing an E&M course improves performance on negative electric field and potential questions but not on the negative net-charge question](em-course-completion-differential-item-effects.md) — related
 - [Interpretations of the term net charge may underlie the persistent difficulty of the charge-transfer question](net-charge-interpretation-difficulty.md) — related
+- [Upper-division students struggled with an introductory-level electrostatics sign problem; none succeeded in the first few tries](upper-division-students-struggle-sign-problem.md) — a narrower finding that bears on this claim

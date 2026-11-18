@@ -99,6 +99,7 @@ The SFA® staff development model "emphasizes a relatively brief initial trainin
 - [Sustain MI skill acquisition with ongoing coaching, feedback, supervision and on-the-job practice rather than training alone](ongoing-coaching-feedback-sustain-mi-skills.md)
 - [Train classroom teachers via an initial in-service workshop with ongoing individual feedback and annual boosters](teacher-in-service-training-active-lessons-strategy.md)
 - [Structure teacher professional development workshops as short, off-site events with grouped collaboration and iterative feedback rounds](nice-workshop-structure-strategy.md)
+- [Three-phase CPS teacher-updating course: instruction, teacher-as-learner practice, and coached student testing](cps-teacher-updating-course-structure.md)
 
 ## Examples
 -

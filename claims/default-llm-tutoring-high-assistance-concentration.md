@@ -55,3 +55,4 @@ Observational analysis of 14,637 paired turns from 203 students using a GPT-4o-m
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Reviews citing one randomised trial (Bastani et al. 2025) report that unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [Classroom deployments report faster help and higher perceived understanding when assistance emphasizes explanation, pseudocode, and staged hints while withholding final solutions by default](tutoring-deployment-outcome-signals.md) — related
+- [In a pilot study, students most often requested why explanations of hints, followed by how explanations](pilot-why-explanations-most-requested.md) — related

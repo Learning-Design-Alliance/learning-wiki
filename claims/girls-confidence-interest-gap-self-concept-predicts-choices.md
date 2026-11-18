@@ -153,3 +153,4 @@ Correlational evidence cited in the overview (Simpkins and Davis-Kean 2005; Upde
 - [Hands-on activities are the school science activities meeting the highest degree of learner interest](hands-on-activities-highest-science-interest.md) — related
 - [In the Pipeline to Technology study, minority and women undergraduates demonstrated technical skill mastery but lacked STEM self-efficacy, pointing to low workforce access as a causal influence on low participation](pipeline-to-technology-mastery-without-self-efficacy.md) — related
 - [Women represent only 12% of US innovators, and the average US-born male is nine times more likely to contribute to an innovation than the average female](us-women-innovators-twelve-percent.md) — related
+- [Career choice motivations are dominated by school mathematics and physics affinity and the desire to contribute to science, not financial or social recognition](physics-career-motivations-intrinsic-not-financial.md) — related

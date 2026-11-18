@@ -47,3 +47,4 @@ Observational report from the paper's conclusion section on enrollment trends ac
 ## Related Claims
 - [After four years in the specialized physics curriculum, 'physicists' pupils substantially outperform 'mathematicians' and standard-class pupils on physics tests of increasing complexity](physicists-class-outperforms-on-physics-tests.md) — related
 - [4th-grade gifted 'physicists' perform on average at grammar-school level on PISA science but with roughly three times the concentration of top performances](physicists-top-performance-concentration-pisa.md) — related
+- [The article claims inquiry-based learning increases pupil motivation and develops practical and research skills](inquiry-learning-motivation-and-research-skills.md) — related

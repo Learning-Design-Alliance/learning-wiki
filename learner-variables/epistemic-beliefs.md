@@ -13,7 +13,7 @@ generated:
 # Epistemic Beliefs
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 70 claims (53 show a difference, 13 mixed, 4 no difference) · 46 studies (10 causal, 9 qualitative, 7 review, 7 associational, 7 design, 3 quant-synthesis, 3 theoretical), `q1`–`q3` · 3 of 46 report an effect size · 70 claims rest on one study
+> **Evidence** · 74 claims (54 show a difference, 14 mixed, 6 no difference) · 49 studies (11 causal, 10 qualitative, 7 review, 7 associational, 7 design, 3 quant-synthesis, 3 theoretical), `q1`–`q3` · 3 of 49 report an effect size · 74 claims rest on one study
 
 ## Description
 Epistemic (or epistemological) beliefs are what a learner takes knowledge and knowing to be. Learners who see knowledge as certain, simple and given by authority tend to read conflicting sources less critically and to expect quick answers; learners who see it as tentative and evidence-based integrate sources and argue more. Beliefs are measured by questionnaires and interviews and vary by domain. They predict comprehension of conflicting texts and argumentation, moderate inquiry-based designs, and are an outcome that instruction in the nature of science or in sourcing can change.
@@ -102,6 +102,10 @@ Epistemic (or epistemological) beliefs are what a learner takes knowledge and kn
 - [MPEX Reality Link scores typically deteriorate over a semester of physics instruction](../claims/mpex-reality-link-negative-shift-instruction.md) [+W] — measured as an outcome of the instruction studied
 - [Standard physics courses often have a negative impact on students' attitudes and beliefs, leaving students' beliefs less expertlike after a course](../claims/standard-courses-negative-belief-shifts.md) [+W] — measured as an outcome of the instruction studied
 - [Traditional introductory laboratory courses showed small decreases in expert-like attitudes about experimental physics from pre to post instruction](../claims/traditional-labs-e-class-decreases.md) [+M] — measured as an outcome of the instruction studied
+- [Average nature-of-science E-CLASS score decreased slightly from 0.66 to 0.63 despite the course aiming to teach the role of experimentation](../claims/nature-of-science-e-class-decrease-066-063.md) [-M] — measured as an outcome of the instruction studied
+- [Precisely scripted demonstration laboratories offer little learning value and may foster less-expert beliefs, while inquiry elements promote expert-like beliefs](../claims/scripted-labs-little-added-value-inquiry-promotes-expert-beliefs.md) [~W] — measured as an outcome of the instruction studied
+- [Students of TAs who adopted nature-of-science instruction showed a sizable increase on NoS-related E-CLASS items, with a statistically significant difference between the two TA groups and the two item categories](../claims/ta-nos-buy-in-improves-student-eclass-nos-attitudes.md) [+M] — measured as an outcome of the instruction studied
+- [Without TA engagement with the nature-of-science module, most TAs did not use the proposed strategies and their students regressed more on NoS-related E-CLASS items than on other items](../claims/without-ta-nos-engagement-students-regress-on-nos-items.md) [-M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Can instruction shift learners' views of how scientific knowledge is made and judged, and do the shifts last?* [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](../claims/both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) [+M]

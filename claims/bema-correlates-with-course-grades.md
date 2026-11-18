@@ -51,3 +51,4 @@ Correlational analysis across multiple semesters of Physics II (over 2600 matche
 - [Individual students' BEMA scores show no significant change after either upper-division E&M course](upper-division-courses-no-bema-shift.md) — related
 - [Upper-division students who had freshman Tutorials score about 15 points higher on the BEMA than comparable upper-division students without Tutorials](freshman-tutorials-persist-upper-division-bema.md) — related
 - [The Tutorial-versus-non-Tutorial BEMA difference persists across all six topical question clusters, with no significant within-cluster change from freshman to upper-division](bema-subtopic-clusters-persist.md) — related
+- [Unmatched students showed no significant difference on the BEMA post-test but scored 3.6% lower in overall PHYS II course grade (d = 0.3), suggesting weaker mechanics preparation did not impair E&M learning](unmatched-students-bema-course-grade.md) — related

@@ -52,3 +52,4 @@ Authors' forward-looking interpretation stated in the abstract, not a tested res
 - [Reviewed studies indicate AI-enabled personalization benefits both academic performance and student motivation](ai-personalization-benefits-performance-motivation.md) — related
 - [Teachers who believe AI will help them reach professional goals and improve students' learning outcomes (utility value) may be more motivated to use it (theoretical argument).](teacher-utility-value-increases-motivation-to-use-ai.md) — related
 - [Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).](teacher-perceived-cost-reduces-motivation-to-use-ai.md) — related
+- [It is unclear whether simulations designed for classroom use succeed in online, unsupervised courses](simulation-success-unsupervised-online-unclear.md) — related

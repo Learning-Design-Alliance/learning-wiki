@@ -47,3 +47,4 @@ Anecdotal report from the two pilot semesters. In 2011 one student built a simul
 ## Related Claims
 - [Students in Arduino-based lab sections scored unremarkably on standard physics pre/post inventories](arduino-lab-standard-inventory-scores-unremarkable.md) — related
 - [Students sometimes perceived the Arduino lab work as extra work tangential to the course syllabus and their careers](arduino-lab-perceived-as-extra-work.md) — related
+- [88% of students approved the Arduino as a tool for producing physics experiments](88-percent-students-approve-arduino-tool.md) — related

@@ -64,6 +64,7 @@ Curation reduces extraneous cognitive load: every navigation decision, broken li
 - [Clear structure](../principles/clear-structure.md) — the organizational principle the collection itself must embody
 - [Advance organizers](../elements/advance-organizers.md) — the framing statements that give a resource collection its navigational schema
 - [Class-sourcing: students curate and share resources, reviewed by faculty and peers](class-sourcing-student-curated-resources.md)
+- [Provide online parts lists, build instructions, and design documentation so that other groups can replicate the exhibit.](open-hardware-replication-documentation-strategy.md)
 
 ## Examples
 - **LiveBinders** (https://www.livebinders.com) — tabbed, binder-style curation used by teachers to assemble unit resources, exemplars, and tools into a single shareable link.

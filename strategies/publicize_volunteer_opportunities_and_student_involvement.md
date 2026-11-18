@@ -63,6 +63,7 @@ Specific, low-threshold invitations outperform general appeals because they redu
 - Home communication routines (regular positive contact) — the trust base that makes volunteer asks land
 - [Recruit early in the spring, communicate clearly with parents, keep enrollment open, and require commitment to clear program expectations](early-parent-communication-open-enrollment-summer-edtech.md)
 - [Complete five pre-event tasks in priority order: set date and book rooms, find volunteers, advertise, secure funding, and prepare materials](sk-day-pre-event-planning-tasks.md)
+- [Engage trainees in planning the next workshop and post year-round mentoring opportunities](year-round-trainee-engagement-opportunities.md)
 
 ## Examples
 - **Epstein's Six Types of Involvement framework** ([Johns Hopkins NNPS](https://nnps.jhucsos.com)) — "Type 3: Volunteering" treats recruitment, scheduling, and matching parent skills to tasks as a designed program rather than an ad hoc request.

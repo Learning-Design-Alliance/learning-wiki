@@ -49,3 +49,4 @@ Regression-based CART analysis (in R) on Study 1 action counts (gaps and coordin
 ## Related Claims
 - [Sequence-alignment clusters of small-group action logs differ in productivity and balance of contribution, with the largest cluster showing the lowest word count and highest imbalance](sequence-alignment-clusters-differ-in-quality.md) — related
 - [Unsupervised time-series clustering identifies low performers more accurately than SVM or decision-tree classifiers trained on two temporal statistics](unsupervised-clustering-beats-feature-classifiers.md) — related
+- [Depercolation analysis over seven weeks reveals stable groups, stable separations, coming together, separation and temporary groups among laboratory students](depercolation-group-stability-patterns.md) — related

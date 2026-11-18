@@ -50,6 +50,7 @@ The article's method is a reusable recipe for benchmarking LLMs on professional 
 ## Related Strategies
 
 - [Evaluate LLMs for educational use with repeated-attempt consistency testing rather than single-attempt performance only](repeated-attempt-llm-evaluation-strategy.md)
+- [Compare the experimental result with the known theoretical value on a linear axis using confidence intervals](confidence-interval-comparison-discussion-strategy.md)
 
 ## Examples
 -

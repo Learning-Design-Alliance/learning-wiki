@@ -47,3 +47,4 @@ Review of 23 Essay 1 submissions on transits and occultations; the author report
 ## Related Claims
 - [The stellar-dimming conceptual question in Essay 3 was the least successful, with only 36% of responses correct and 21% of students misinterpreting the question as asking about the duration of dimming](dimming-question-least-successful-misinterpretation.md) — related
 - [About a quarter of Essay 1 responses could not distinguish rotational from orbital motion, a confusion that dropped to 2% by Essay 3 after in-class demonstrations](rotation-versus-orbital-confusion-reduced.md) — related
+- [The 2D Human Orrery wrongly predicts frequent Venus transits, and the discrepancy with the rare real phenomenon forces learners to question the model's validity](2d-orrery-transit-discrepancy-model-questioning.md) — related

@@ -65,6 +65,7 @@ Editing as a formative activity improves writing quality when it is criterion-re
 - [Peer Tutoring](peer-tutoring.md) — a broader reciprocal structure of which peer editing is a writing-specific instance
 - [Rubric-Based Self-Assessment](rubric-based-self-assessment.md) — the self-evaluation component generalized beyond writing
 - [Provide sentence evaluation criteria (clarity, intended audience) and model revision against them](sentence-evaluation-criteria-clarity-audience-revision.md)
+- [Use paired sheet writing, exchange, and mutual assessment with game-theoretic scoring to structure peer learning](pd-pl-paired-sheet-exchange-strategy.md)
 
 ## Examples
 - **Process writing instruction ([Graham & Sandmel, 2011](https://doi.org/10.1080/00220671.2010.488703)):** Across 29 experimental studies, elementary and secondary students in process writing classrooms — which routinely include peer and self-editing with structured response — outperformed controls on writing quality (effect size ≈ 0.34).

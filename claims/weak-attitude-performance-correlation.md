@@ -49,3 +49,5 @@ Correlational analysis comparing MWCS and VASS scores per student across the Sol
 - [PBL instruction produces a larger shift toward physics expert-like attitude than traditional instruction among secondary students](pbl-greater-expert-like-attitude-shift-than-traditional.md) — related
 - [No statistically significant gender difference in students' attitudes towards physics at pre- or post-test](no-gender-difference-physics-attitude.md) — related
 - [Attitude and motivation towards learning physics show a high positive correlation among the 446 students](high-positive-correlation-attitude-motivation-physics.md) — related
+- [Perceived helpfulness of in-class lectures is positively correlated with science attitudes, while the instructor-attitude correlation disappears in that subset](lecture-helpfulness-correlated-attitude.md) — related
+- [Participation and strongly-connected-group metrics show very low correlations with physics knowledge (MBT) and attitudes (CLASS)](participation-metrics-uncorrelated-survey-scores.md) — related

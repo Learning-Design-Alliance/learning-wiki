@@ -54,3 +54,4 @@ Statistical characterization of the final TOSLS administered pre- and postsemest
 - [AITAQS dimension reliabilities fall within 0.721–0.745 Cronbach's α, exceeding acceptability thresholds, with all CR values above 0.7 though some AVE values fall below 0.5.](aitaqs-reliability-alpha-cr-ave.md) — related
 - [Questionnaire constructs showed acceptable to strong internal consistency (α = 0.740 to 0.945)](questionnaire-constructs-internal-consistency.md) — related
 - [Most protoPIQL questions show acceptable CTT difficulty and discrimination once thresholds are adjusted for item difficulty](protopiql-ctt-item-statistics.md) — related
+- [The ten-item interferometry test showed acceptable reliability: average α = 0.675 with post-test discriminations within accepted limits except item 10 in fall 2016](interferometry-test-alpha-0-675-reliability.md) — related

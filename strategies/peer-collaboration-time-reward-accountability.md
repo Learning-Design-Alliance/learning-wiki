@@ -46,6 +46,7 @@ The article recommends that because unfacilitated peer collaboration requires mi
 
 - [Collaborative Group Work](collaborative_group_work.md)
 - [Encourage Cooperation](encourage_cooperation.md)
+- [Implement DGE activities within collaborative group learning with instructor facilitation](dge-collaborative-group-implementation-strategy.md)
 
 ## Examples
 -

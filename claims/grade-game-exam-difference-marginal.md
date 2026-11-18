@@ -47,3 +47,4 @@ Difference-of-means t-test on the in-class exam (the exam including Game Theory)
 ## Related Claims
 - [Regression predicts Cooperators score 6.7 points lower on the in-class exam, a negative but unemphasized relationship](cooperation-predicts-lower-exam-score.md) — related
 - [Non-cooperators (dominant-strategy choosers) in the Grade Game scored significantly higher overall in Eco101 than Cooperators](cooperation-predicts-9-point-lower-overall-score.md) — related
+- [PD PL differs from prior game-theory-in-education work by modeling student interaction with prisoner's dilemma and reporting an implementation](pd-pl-distinct-from-related-game-theory-work.md) — related

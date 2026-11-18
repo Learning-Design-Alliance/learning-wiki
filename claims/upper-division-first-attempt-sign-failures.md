@@ -48,3 +48,4 @@ Moment-by-moment video analysis of oral exams in an upper-division Electromagnet
 ## Related Claims
 - [Students have difficulty with the principle of superposition, failing to distinguish the field due to individual charges from the net electric field](superposition-principle-difficulty.md) — a broader claim this one bears on
 - [On CMR CUE Q5, 42% of students selected Gauss's Law, and most of those (89%) selected reasoning elements indicating they misapplied Gauss's law by ignoring the cavity's asymmetry](students-misapply-gausss-law-off-center-cavity-q5.md) — related
+- [Upper-division students struggled with an introductory-level electrostatics sign problem; none succeeded in the first few tries](upper-division-students-struggle-sign-problem.md) — possibly the same claim (merge candidate)

@@ -50,3 +50,4 @@ Fine-tuning experiment of two Hungarian transformers (hubert-base-cc, PULI-BERT-
 - [T-tests show no significant shallow-vs-transformer difference in accuracy, weighted F1 or macro-F1, but a significant ROC-AUC advantage for the shallow model](ttest-roc-auc-advantage-shallow.md) — reports the opposite
 - [For transformer models, oversampling and backtranslation augmentation improve performance while freezing the encoder substantially decreases it](transformer-ablation-oversampling-freezing.md) — related
 - [Reducing BERT to a single encoder layer (BERT (1)) decreases classification performance by .05 points in weighted F1 average compared to the full 12-layer model](bert-encoder-layer-count-affects-classification-performance.md) — related
+- [Downsampling improved minority-outcome sensitivity but was not adopted by the optimized classifier, and upsampling was ineffective](resampling-effects-physics-grade-classifier.md) — related

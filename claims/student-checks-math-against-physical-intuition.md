@@ -55,3 +55,4 @@ Authors' analysis of the interview transcript, describing valuable habits of min
 - [SQILab students can recognize limitations of the small-angle model when their precise measurements conflict with class expectations](sqilab-students-recognize-model-limitations.md) — related
 - [Students showed strong and accurate physical intuitions for extreme or special cases across multiple physics problems](strong-accurate-intuitions-extreme-cases.md) — related
 - [Students struggled to match correct physical intuition to equations in the springs-in-series problem despite extreme case reasoning](springs-series-intuition-equation-mismatch.md) — related
+- [Both case-study students distinguished sign meanings and had sound algebra, so their struggles stemmed from the physical meaning embodied in signs rather than missing mathematical tools](struggles-not-from-missing-math-tools.md) — related

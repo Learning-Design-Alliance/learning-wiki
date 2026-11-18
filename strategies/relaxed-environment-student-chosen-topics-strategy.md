@@ -51,6 +51,7 @@ An implementable recipe for oral-skill sessions: seat students facing one anothe
 - [Speed Chatting (Pre-Reading)](speed-chatting-pre-reading.md)
 - [Let students choose their own writing topics to build confidence and increase communicative language ability.](student-chosen-writing-topics.md)
 - [Rotate team leadership among young learners to build speaking and communication skills](rotating-team-leadership-young-learners.md)
+- [Use small stationary groups with rotating mentors to discuss career and personal sacrifices](small-groups-rotating-mentors-sacrifices.md)
 
 ## Examples
 -

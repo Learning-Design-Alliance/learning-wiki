@@ -78,3 +78,4 @@ The authors' interpretation of the same Modena transcript: although the teacher 
 - [Engagement mode is orthogonal to instructional task: any task can be engaged at any of the four modes](engagement-mode-orthogonal-to-instructional-task.md) — related
 - [Teachers play a key role in engaging students in writing and improving writing outcomes in grades 6-12](teachers-key-role-secondary-writing-outcomes.md) — related
 - [Playful embodied robot sessions sustained young children's attention well beyond the planned session length, and children voluntarily invited peers into one-on-one play](robot-extended-attention-voluntary-collaboration.md) — related
+- [Gamifying the overtaking task engaged almost all learners, including those initially uninterested](gamification-overtaking-engagement.md) — related

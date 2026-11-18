@@ -52,3 +52,4 @@ Preferred-learning-method item in the 709-student cross-sectional survey; Table 
 - [GPs prefer pre-appraised evidence sources over independently searching and appraising primary research](gps-prefer-pre-appraised-evidence-sources.md) — related
 - [Attitudes towards EBM are positive overall; EBM-trained students agree more strongly on most attitude statements but remain neutral on whether EBM incorporates physician expertise and patient preferences](ebm-attitudes-positive-training-strengthens-agreement.md) — related
 - [Botswana laboratory personnel most prefer training workshops (218/275), hands-on workshops (163/275), and internet-based learning (156/275); workplace journal clubs are least preferred (32/275)](cpd-delivery-mode-preferences-botswana-lab.md) — related
+- [Preferred modes of statistics training shift across career stages, from courses toward workshops and mentoring](statistics-training-preferences-by-career-stage.md) — related

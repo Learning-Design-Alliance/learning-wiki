@@ -50,4 +50,4 @@ Because many burst registrations may never receive serious user effort, the auth
 -
 
 ## Key Sources
-- Wintermute, E. H., Cisel, M., & Lindner, A. B. (2019). A survival model for course-course interactions in a Massive Open Online Course platform. arXiv. https://arxiv.org/abs/1905.04201
+- Wintermute, E. H., Cisel, M., & Lindner, A. B. (2019). A survival model for course-course interactions in a Massive Open Online Course platform. arXiv. https://arxiv.org/abs/1905.04201. [doi:10.48550/arxiv.1905.04201](https://doi.org/10.48550/arxiv.1905.04201)
