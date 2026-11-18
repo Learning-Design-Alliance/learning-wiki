@@ -1,0 +1,51 @@
+---
+type: claim
+title: "Male students predominate in UFSC physics courses, with more than 76% of students being male."
+description: "Male students predominate in UFSC physics courses, with more than 76% of students being male."
+id: ufsc-physics-male-predominance-over-76-percent
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-18
+evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2020
+sources:
+  - id: menezes-2017
+    resource: "https://doi.org/10.48550/arXiv.1710.09165"
+    title: "Menezes, D. P., Buss, K., Silvano, C. A., D'Ávila, B. N., & Anteneodo, C. (2017). Physics courses of the Federal University of Santa Catarina: evasion and gender. [doi:10.48550/arXiv.1710.09165](https://doi.org/10.48550/arXiv.1710.09165)"
+    author: "Menezes, D. P., Buss, K., Silvano, C. A., D'Ávila, B. N., & Anteneodo, C."
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 1
+---
+
+# Male students predominate in UFSC physics courses, with more than 76% of students being male.
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: local conditions change quickly
+
+## Subclaims
+`q2 i?` The data show a great male predominance in UFSC physics courses, larger than 76%. [→ Menezes 2017](#menezes-2017)
+
+## Evidence
+
+### Menezes 2017
+
+Menezes, D. P., Buss, K., Silvano, C. A., D'Ávila, B. N., & Anteneodo, C. (2017). Physics courses of the Federal University of Santa Catarina: evasion and gender. [doi:10.48550/arXiv.1710.09165](https://doi.org/10.48550/arXiv.1710.09165)
+
+`q2 · i?` · `associational · r1`
+
+The abstract reports that across the analyzed UFSC physics courses there is "a great male predominance (larger than 76%)". This is a descriptive institutional statistic with no effect size printed.
+
+> "The data point towards a great male predominance (larger than 76%)"
+
+## Discussion
+
+
+## Related Claims
+- [In the licenciatura (physics teaching) course at UFSC, success rates are 17,7% for women and 19% for men (23% after excluding recent incomers).](ufsc-licenciatura-success-rates-women-men.md) — related
+- [In the bacharelado (bachelor in physics) course at UFSC, success rates are 13,4% for women and 16,8% for men (19,6% and 21,4% after correction).](ufsc-bacharelado-success-rates-women-men.md) — related
+- [Undergraduate physics courses at UFSC show very high evasion, with less than 20% of incomers obtaining the degree on average.](ufsc-physics-undergraduate-evasion-below-20-percent.md) — related

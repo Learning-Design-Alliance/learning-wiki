@@ -68,3 +68,4 @@ A conceptual framework paper distinguishing humanlikeness (a design property) fr
 - [Emotional design features are implemented inconsistently within and between studies, especially in visual sophistication and anthropomorphic elements](emotional-design-implementation-heterogeneity.md) — related
 - [People preferred interacting with a humanoid robot over a comparable on-screen agent and showed less socially undesirable behaviour](robot-preferred-over-screen-agent-less-undesirable-behavior.md) — related
 - [Students warn that overly perfect, anthropomorphic PA communication can be unsettling and produce uncanny valley effects](pa-anthropomorphism-uncanny-valley-caution.md) — related
+- [Human embodiment findings: learners prefer human over robot presenters, and face presence shows no significant learning difference (as reported by the review)](human-embodiment-presence-findings.md) — related

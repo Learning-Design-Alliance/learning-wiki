@@ -49,3 +49,4 @@ Authors' interpretation of their interview findings against Piaget's egocentrism
 - [High-quality pretend play is an important facilitator of perspective taking and later abstract thought](pretend-play-facilitates-perspective-taking-abstract-thought.md) — related
 - [Monolingual and bilingual children show no differences in the types of errors committed on the perspective-taking task](no-language-group-differences-error-types-perspective-taking.md) — related
 - [The article argues spatial perspective-taking performance relates to academic problem solving and can indicate academic potential](perspective-taking-indicator-academic-success.md) — related
+- [Understanding of chronological time must be the foundation for understanding of historical time, so chronological activities should precede historical ones](chronological-foundation-for-historical-time.md) — related

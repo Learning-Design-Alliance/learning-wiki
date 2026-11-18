@@ -66,3 +66,4 @@ Correlational analysis of over 100,000 learning records from the MAIC pilot, reg
 - [Higher e-module engagement clusters had marginally higher final course grades, with significant differences for the Journal Article assignment and Concept Map modules](engagement-final-grade-differences-journal-concept-map.md) — related
 - [Class participation significantly moderates the knowledge-score change from mid-test to post-test in flipped classroom learning](class-participation-moderates-flipped-gain.md) — related
 - [Student engagement predicts lab exam performance after controlling for pre-test scores](engagement-correlates-lab-learning.md) — related
+- [Course grades significantly predict participation: A students participate at far higher rates than F students, but practices did not differentially motivate high and low performers](course-grade-predicts-assessment-participation.md) — related

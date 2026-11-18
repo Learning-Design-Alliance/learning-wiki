@@ -43,6 +43,7 @@ A concrete pairing procedure for peer tutoring: "the teacher ranks students from
 ## Related Strategies
 
 - [Paragraph Shrinking](../strategies/paragraph_shrinking.md): a PALS activity the pairs then carry out
+- [Engage stronger students as informal tutors of weaker peers within a mixed-ability cohort](informal-tutoring-mixed-ability-strategy.md)
 
 ## Examples
 

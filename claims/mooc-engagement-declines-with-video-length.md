@@ -8,12 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
-newest_evidence: 2025
-source_checked: 2026-11-05
+newest_evidence: 2026
 sources:
-  - id: kazuki-kawamura-2025
+  - id: kazuki-kawamura-2026
     resource: "https://doi.org/10.48550/arxiv.2608.08990"
-    title: "Kazuki Kawamura. (2025). AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques. Doctoral dissertation, The University of Tokyo. https://arxiv.org/abs/2608.08990 [doi:10.48550/arxiv.2608.08990](https://doi.org/10.48550/arxiv.2608.08990)"
+    title: "Kazuki Kawamura. (2026). AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques. Doctoral dissertation, The University of Tokyo. https://arxiv.org/abs/2608.08990 Originally published 2025. [doi:10.48550/arxiv.2608.08990](https://doi.org/10.48550/arxiv.2608.08990)"
     author: Kazuki Kawamura
     q: 2
     i: "?"
@@ -25,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` A large-scale analysis of 6.9 million MOOC video-viewing sessions found that the fraction viewed decreased as videos became longer and that median engagement was less than half of the duration for videos longer than nine minutes. [→ Kazuki Kawamura 2025](#kazuki-kawamura-2025)
+`q2 i?` A large-scale analysis of 6.9 million MOOC video-viewing sessions found that the fraction viewed decreased as videos became longer and that median engagement was less than half of the duration for videos longer than nine minutes. [→ Kazuki Kawamura 2026](#kazuki-kawamura-2026)
 
 ## Evidence
 
-### Kazuki Kawamura 2025
+### Kazuki Kawamura 2026
 
-Kazuki Kawamura. (2025). AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques. Doctoral dissertation, The University of Tokyo. https://arxiv.org/abs/2608.08990 [doi:10.48550/arxiv.2608.08990](https://doi.org/10.48550/arxiv.2608.08990)
+Kazuki Kawamura. (2026). AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques. Doctoral dissertation, The University of Tokyo. https://arxiv.org/abs/2608.08990 Originally published 2025. [doi:10.48550/arxiv.2608.08990](https://doi.org/10.48550/arxiv.2608.08990)
 
 `q2 · i?` · `associational · r?`
 
@@ -69,3 +68,4 @@ The dissertation reports, citing a large-scale log analysis of 6.9 million MOOC 
 - [Students split evenly on optimal podcast length: 49% found 3 minutes optimal while an equal proportion preferred 5 minutes](podcast-length-split-three-versus-five-minutes.md) — related
 - [Student engagement with MOOC videos drops sharply as video length increases beyond 6 minutes](video-length-median-engagement-declines.md) — related
 - [Students accessed almost the entirety of a video only about half the time on average, and completion of lecture-oriented videos decreased with video length more steeply than completion of laboratory videos](in-video-completion-declines-with-lecture-video-length.md) — a narrower finding that bears on this claim
+- [Completion rates of viewing videos per learner negatively correlate with average video length across eight MOOCs](video-length-negative-correlation-completion-rate.md) — related

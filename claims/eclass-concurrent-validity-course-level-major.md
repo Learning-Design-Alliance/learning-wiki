@@ -53,3 +53,6 @@ Comparison of FY (N = 2433) and BFY (N = 1158) subgroups from the matched datase
 - [Post-instruction E-CLASS scores show a small but statistically significant decline from pre-instruction scores in matched data](eclass-pre-post-shift-small.md) — related
 - [The E-CLASS gender gap is smaller in beyond-first-year than first-year courses — decreasing from a moderate to a small effect size — while remaining statistically significant, and BFY students of both genders score higher](eclass-gender-gap-smaller-bfy-than-fy.md) — related
 - [Shift patterns differ by course level: open-ended activities produced significant positive shifts only in beyond-first-year courses](course-level-shift-pattern-open-ended.md) — related
+- [Beyond-first-year lab students' overall E-CLASS scores do not shift significantly over one semester](bfy-lab-e-class-no-significant-shift.md) — related
+- [BFY students score higher than FY students on E-CLASS, with statistically significant differences on 24 of 30 items](bfy-score-higher-than-fy-e-class.md) — possibly the same claim (merge candidate)
+- [First-year physics lab students' overall E-CLASS scores decline significantly over one semester of instruction (d = −0.15)](fy-lab-e-class-overall-negative-shift.md) — related

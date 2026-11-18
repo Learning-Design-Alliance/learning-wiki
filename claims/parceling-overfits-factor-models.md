@@ -52,3 +52,4 @@ Simulation cross-calibration results (Table 8): each of the three models' data w
 - [Ignoring testlet effects by fitting a unidimensional 2PL model produced mild shrinkage of item intercept and loading estimates toward zero relative to the bifactor model](ignoring-testlet-effects-shrinks-parameter-estimates.md) — related
 - [CAT data cannot be fit into factor models at the item level, making item-level construct validity investigation meaningless for CAT](cat-item-level-construct-recovery-impossible.md) — related
 - [A three-parameter model with a guessing parameter yields minimal fit improvement and is hardly useful for online homework](tpm-guessing-parameter-not-useful.md) — related
+- [Guessing is a significant factor in LSCI responses, favoring the 3PL model (RMSEA 0.06) over the 2PL model (RMSEA 0.07)](3pl-guessing-parameter-lsci.md) — related

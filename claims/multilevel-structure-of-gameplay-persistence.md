@@ -57,3 +57,4 @@ The fully unconditional HLM model on 3,803 observations from 137 students showed
 - [Roughly 45% of variance in Chinese adolescents' achievement lies between schools, supporting multilevel modeling](between-school-variance-achievement-icc-pisa-china.md) — related
 - [Hierarchical linear modeling shows 18% of variance in clinical practicum performance is attributable to differences between institutions (ICC = 0.18, p < 0.05)](hlm-institutional-variance-practicum.md) — related
 - [Between-class variance accounts for roughly a quarter of variance in students' system-thinking performance measures](between-class-variance-system-thinking.md) — related
+- [Course-level features explain 29% of variance in student physics performance, student-level features 71%](course-features-explain-29-percent-variance.md) — related

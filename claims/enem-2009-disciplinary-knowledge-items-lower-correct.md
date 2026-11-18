@@ -49,3 +49,4 @@ Descriptive analysis of ENEM 2009 responses by knowledge-requirement classificat
 - [Percent correct on ENEM 2009 Natural Sciences items is almost always low and nearly identical for concluintes and all participants](enem-2009-low-correct-concluintes-similar.md) — related
 - [ENEM Physics items are predominantly qualitative, long for the available time, and generally well contextualized](enem-physics-items-predominantly-qualitative-long-contextualized.md) — related
 - [New facts related to students' prior disciplinary knowledge are better remembered after 24 hours than schema-unrelated facts](schema-related-facts-better-remembered.md) — related
+- [Enem Physics items requiring quantitative reasoning, specific disciplinary content, graphical interpretation or multiple cognitive steps show correct-answer rates below the exam average, sometimes below random choice](enem-physics-items-content-reasoning-below-average.md) — related

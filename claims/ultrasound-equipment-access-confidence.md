@@ -74,3 +74,4 @@ Null finding from the same participant sample comparing residency institution ty
 - [Prior attendance at non-cadaveric ultrasound courses raises pre-course confidence but not post-course confidence, and non-attendees improve more for hip and ankle but not knee injections](prior-course-attendance-confidence-compensation.md) — related
 - [Years of musculoskeletal ultrasound experience correlate positively with pre- and post-course self-reported confidence but negatively with self-reported confidence improvement](usg-experience-confidence-correlations.md) — related
 - [Learner confidence showed no association with passing rate at either baseline or post-curriculum assessment](sbml-slitalmp-confidence-passing-no-association.md) — related
+- [Reported computational teaching experience varies by institution type, driven by lower reporting at two-year colleges](computation-experience-varies-by-institution-degree-type.md) — related

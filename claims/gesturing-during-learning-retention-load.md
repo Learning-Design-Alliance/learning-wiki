@@ -74,3 +74,4 @@ The review reports Goldin-Meadow et al.'s study in which children and adults exp
 - [Gesturing while explaining problem solving reduces cognitive load](gesturing-reduces-cognitive-load.md) — related
 - [Stimming and fidgeting are associated with improved cognitive performance, while suppressing stimming consumes cognitive resources](stimming-supports-cognitive-performance.md) — related
 - [AR technologies may facilitate physics learning by providing complementary visualizations, optimizing cognitive load, allowing haptic learning, reducing task completion time and promoting collaborative inquiry](ar-facilitates-physics-learning-five-mechanisms.md) — related
+- [Students build new meaning onto durable representations using evanescent representations during problem solving](students-build-meaning-on-durable-representations-with-evanescent.md) — related

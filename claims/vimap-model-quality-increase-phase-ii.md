@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-18
 sources:
   - id: dickes-2016
     resource: "https://doi.org/10.58459/icce.2016.1152"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students' use of appropriate variables and accurate graphs in ViMAP increased over Phase II, shown in Figure 7 and scored 0–3 for variable appropriateness and graph accuracy. [→ Dickes 2016](#dickes-2016)
@@ -49,3 +50,5 @@ Classroom-level analysis of students' ViMAP code: each student's final model was
 - [Elementary students using ViMAP agent-based programming with graphing can begin to understand motion as continuous change](vimap-agent-programming-continuous-change.md) — a broader claim this one bears on
 - [Students shifted from canonical representations toward invented, visually communicative models of acceleration, using co-variation of turtle variables such as pen-width with step-size](invented-communicative-models-covariation.md) — a narrower finding that bears on this claim
 - [Students derived the formula Total Distance = Number of Steps x Approximate Step Size and used it predictively, as illustrated by Angelo's reasoning about winning a bet and verifying his ViMAP model](total-distance-formula-predictive-reasoning.md) — related
+- [Sociomathematical norms around 'what counts as a good model' shifted students' warrants and grew computational fluency in ViMAP over six weeks (3rd-grade study)](sociomathematical-norms-computational-fluency.md) — related
+- [Dual-mode visual/text programming (ViMAP plus NetLogo) supported 8th-graders' transition to text-based programming](visual-to-text-programming-transition.md) — related

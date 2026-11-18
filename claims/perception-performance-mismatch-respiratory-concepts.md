@@ -49,3 +49,4 @@ Comparison of survey favorability ratings against midterm performance per concep
 - [The active learning lab did not significantly improve performance on the volume-pressure-airflow relationship concept](spirometry-lab-no-significant-gain-volume-pressure.md) — related
 - [A spirometry-based active learning lab improved community college students' performance on respiratory volumes questions relative to control sections](spirometry-lab-improves-respiratory-volumes-performance.md) — related
 - [The spirometry-based active learning lab produced the largest performance gain on questions about the hallmarks of restrictive and obstructive respiratory diseases](spirometry-lab-improves-respiratory-disease-performance.md) — related
+- [Students performed best with essay/subjective questions yet most favored multiple-choice questions, a preference–performance mismatch](essay-questions-outperform-mcq-preference-mismatch.md) — related

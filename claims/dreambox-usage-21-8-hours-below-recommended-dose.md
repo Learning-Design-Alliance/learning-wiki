@@ -56,3 +56,4 @@ Descriptive usage data from the Wang and Woodworth (2011) RCT, conducted mid-Oct
 - [The e-learning group needed far less time for reading and learning than the traditional group](ecme-less-learning-time.md) — related
 - [Requiring school-level commitments to technology access in year two roughly quintupled the share of students meeting recommended usage](access-commitments-increased-fidelity-usage-year-two.md) — related
 - [Implementation of the LRS was variable, with many teachers not meeting weekly usage targets](lrs-variable-implementation.md) — related
+- [Median CTAI usage decreased from year 1 to year 2 across hours, problems, and sections, while median units worked increased](ctai-usage-decreased-year-2.md) — related

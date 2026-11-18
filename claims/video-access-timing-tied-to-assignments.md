@@ -74,3 +74,4 @@ Per-video daily access analysis (Figure 7) of 161 students. "only about one-fift
 - [Counting questions students procrastinate, practicing little until late in the semester, while counting days spreads practice across the term](counting-questions-procrastination-pattern.md) — related
 - [Low-performing students tended to procrastinate more on graded problem-solving exercises and on video watching with formative MCQs](low-performers-procrastinated-exercises-and-videos.md) — related
 - [Students used the rDSA system extensively during formative assessment, with usage peaking the day before the exam](rdsa-usage-peaks-before-exams.md) — related
+- [Failing students delay engagement with the course project until the end of the term while passing students access it throughout](project-access-timing-passing-failing.md) — related

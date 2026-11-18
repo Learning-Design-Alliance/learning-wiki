@@ -51,6 +51,7 @@ The authors foresee computers helping students analyze measurements: a ray traci
 - [Guided systems-diagramming warm-up on a functioning AO workbench](ao-systems-diagramming-warm-up.md)
 - [Disassemble-and-rebuild consensus task for teaching optical conjugation and relays](ao-rebuild-consensus-design-task.md)
 - [Let students discover telescope drift-scan imaging by switching tracking off](drift-scan-student-discovery-strategy.md)
+- [Mix concept introductions, general discussion and hands-on software tutorials with close support to maximise pupil interaction](mixed-concept-discussion-hands-on-session-design.md)
 
 ## Examples
 -

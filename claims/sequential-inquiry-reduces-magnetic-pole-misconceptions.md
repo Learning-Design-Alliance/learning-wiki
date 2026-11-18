@@ -51,3 +51,4 @@ Concept-frequency analysis of pretest, posttest, and retention test responses of
 - [With a sphere magnet, both upper-lower and internal-external surfaces have lost their functions, and the inquiry begins with the question of how to find the poles of a magnet.](sphere-magnet-creates-cognitive-engagement.md) — related
 - [An asymmetry misconception in time dilation was present pre-instruction and reduced after instruction](time-dilation-asymmetry-misconception.md) — related
 - [Counter-intuitive observations are often more effective for honing students' research skills than experiments with predictable outcomes](counterintuitive-observations-foster-research-skills.md) — related
+- [Students conflate magnetic poles with electric charges, failing to distinguish a bar magnet from an electric dipole](electric-magnetic-dipole-confusion.md) — related

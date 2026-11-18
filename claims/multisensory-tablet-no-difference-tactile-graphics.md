@@ -48,3 +48,4 @@ The review reports, citing Hahn et al. (2019), a study of 22 BVIs comparing a Sa
 - [Combining voiced auditory descriptions with tactile graphics increased braille readers' likelihood of answering assessment items correctly](auditory-descriptions-plus-tactile-graphics-improve-bvi-assessment.md) — related
 - [BVI students face material and instructional barriers: late STEM materials, error-laden tactile worksheets, and variable teacher graphic descriptions](bvi-material-instructional-barriers.md) — related
 - [Vision is not required for developing number sense and math skills in BVI learners](vision-not-required-for-number-sense-bvi.md) — related
+- [Sighted classmates appreciated the additional tactile, 3D graphical and oral-explanation accommodations made for a blind student](sighted-students-appreciated-tactile-aids.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-18
 sources:
   - id: zhang-li-dan-2026
     resource: "https://doi.org/10.1186/s12909-026-09050-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 100% of interviewed participants highlighted the importance of team collaboration, and 91.7% reported the model reinforced individual technical skills while building a coherent clinical sequence. [→ Zhang Li-dan 2026](#zhang-li-dan-2026)

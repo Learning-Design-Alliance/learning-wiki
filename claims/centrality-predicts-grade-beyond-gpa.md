@@ -52,3 +52,6 @@ Observational bootstrapped multiple regression analysis of five survey-collected
 - [The relationship between classroom engagement and future academic performance does not emerge until the second half of the semester](engagement-performance-link-emerges-late.md) — a narrower finding that bears on this claim
 - [Closeness centrality is the strongest correlate of final grade, with a midsemester closeness measurement the best discovered predictor of end-of-semester grade](closeness-centrality-best-grade-predictor.md) — a narrower finding that bears on this claim
 - [Final grade adds predictive power beyond centrality for outdegree and closeness, but indegree no longer predicts persistence once grade is accounted for](grade-moderates-indegree-persistence-link.md) — related
+- [Forum network centrality is positively correlated with final course grade in the two semesters with denser forum networks](forum-centrality-correlated-with-grade-dense-semesters.md) — a narrower finding that bears on this claim
+- [Out-of-class networks are basically fully developed by midsemester, with about 95% of eventual members already present by week 8](out-of-class-networks-developed-by-midsemester.md) — related
+- [In Semester 2, no centrality/grade correlations were statistically significant](semester2-no-centrality-grade-correlations.md) — related

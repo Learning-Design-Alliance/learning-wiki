@@ -68,3 +68,4 @@ Thematic analysis of semi-structured interviews (N=6) in the third semester. The
 - [Creative projects can disengage students who lack drawing skill, impose high task burden, and be perceived as equivalent to conventional teaching](student-disengagement-task-burden-creative-projects.md) — related
 - [Students rated AI most valuable for time-efficient information gathering and complex mechanism explanation, while remaining cautious about AI information accuracy.](student-ai-perceptions-efficiency-versus-accuracy-caution.md) — related
 - [Emergency nurses hold a cautious acceptance attitude toward human-machine collaboration and manually verify AI outputs](nurses-cautious-acceptance-verify-ai-outputs.md) — related
+- [Initial student interest in a project topic is not a necessary condition for ownership; interest and perceived value can increase over time](initial-interest-not-necessary-ownership-grows.md) — related

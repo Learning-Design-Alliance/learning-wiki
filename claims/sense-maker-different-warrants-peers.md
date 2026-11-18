@@ -52,3 +52,4 @@ Video analysis of a Basic Circuits discussion section shows Adam accepting that 
 - [Case study: a student's physical-mapping framing of the work integral resisted change during group argument](case-study-framing-inertia-work-paths.md) — related
 - [A student committed to sense-making learns to compartmentalize deep learning as a \"hobby\" to protect his GPA within the existing system](sense-making-compartmentalized-as-hobby.md) — related
 - [Teachers' tendency to seek coherence between their intuitions and known correct answers was a key epistemological resource enabling their progress](coherence-seeking-epistemological-resource.md) — related
+- [Sighted classmates appreciated the additional tactile, 3D graphical and oral-explanation accommodations made for a blind student](sighted-students-appreciated-tactile-aids.md) — related

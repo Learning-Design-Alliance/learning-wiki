@@ -57,3 +57,4 @@ Satisfaction Likert-scale questionnaire (Table 1, n = 64) completed at the end o
 - [All 51 students agreed the simulator trained motor coordination and 2D perception, improved understanding, consolidated learning, and should be used before real surgery](unanimous-student-endorsement-of-simulator-skills-training.md) — related
 - [Medical students report high satisfaction with the Virtual Doc pediatric CPR virtual reality simulation](virtual-doc-high-satisfaction-medical-students.md) — a narrower finding that bears on this claim
 - [Participants perceive Virtual Doc as educationally efficacious for learning pediatric CPR](virtual-doc-perceived-educational-efficacy.md) — related
+- [With-OnLabs students responded positively on an ARCS-based satisfaction questionnaire, with nearly all endorsing the Skype session and a majority wanting it before every lab exercise](onlabs-skype-satisfaction-arcs-positive.md) — related

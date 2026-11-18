@@ -54,6 +54,7 @@ The article recommends designing instruction that makes expert heuristics explic
 - [Use active, collaborative problem-solving methods with concrete teaching aids rather than lecture-only instruction](active-collaborative-problem-solving-with-teaching-aids.md)
 - [Categorization](categorization.md)
 - [Problem Solving Draw A Picture](problem_solving-draw_a_picture.md)
+- [Explicitly teach a divide-and-conquer problem-solving approach and pair quantitative with conceptual problems on the same physics principle](divide-and-conquer-paired-problems-magnetism.md)
 
 ## Examples
 -

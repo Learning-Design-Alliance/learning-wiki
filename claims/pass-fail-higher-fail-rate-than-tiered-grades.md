@@ -50,3 +50,4 @@ Retrospective cohort analysis of 7164 fourth- and fifth-year clinical exams (304
 - [Fifth-year students permanently switched from Tiered to Pass/Fail grading failed more often (3.6% vs 1.1%)](permanent-switch-fifth-year-fail-rate-increase.md) — related
 - [Tiered grade exam levels showed no semester differences and no time trend at fourth year](tiered-grades-stable-across-semesters-and-time.md) — related
 - [More students failed the VP exam (17, 3%) than the oral exam (1 student) over five years](vp-exam-failure-rate-higher-than-oral.md) — related
+- [Traditional exams behave like implicit tiered assessment but retain workload, anxiety and grade-inflation problems](traditional-exams-pass-at-fifty-percent-dilutes-competence-evidence.md) — related

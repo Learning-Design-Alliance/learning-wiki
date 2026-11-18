@@ -47,3 +47,4 @@ The phenomenographic interview analysis found the Limited Measure family was the
 ## Related Claims
 - [Physics faculty perceive four families of needs around research-based assessments: practical needs, limited measure, want help, and broader context.](four-needs-families-research-based-assessment-physics.md) — a broader claim this one bears on
 - [Small student enrollments make RBA results difficult to interpret because statistical analysis is not valid on small numbers and scores fluctuate year to year.](small-course-rba-results-interpretation-fluctuations.md) — a narrower finding that bears on this claim
+- [Faculty barriers to using research-based assessments include lack of support in choosing, administering, scoring, and interpreting assessments](faculty-barriers-rba-use-support.md) — a broader claim this one bears on

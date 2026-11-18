@@ -52,3 +52,4 @@ Standardized linear regressions on 492 students predicting Graduate GPA (Table 4
 - [GRE scores and undergraduate GPA showed weak, non-significant associations with first-semester Ph.D. GPA among UR trainees](gre-weak-non-significant-predictor-first-semester-gpa.md) — related
 - [QGRE correlates only weakly with graduate GPA in the author's program, where undergraduate GPA is a better predictor of graduate GPA and correlates with all three GRE sections](qgre-weak-predictor-ugpa-better.md) — related
 - [US News graduate-program rankings give student selectivity, including mean GRE scores, a total weight of 18%, exceeding several productivity measures](us-news-selectivity-weighting-gre.md) — related
+- [Getting the relative weights of admissions variables right matters more than getting the precise shape of the admissions curve correct](weights-matter-more-than-curve-shape.md) — related

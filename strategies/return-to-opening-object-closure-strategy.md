@@ -40,6 +40,7 @@ The chapter ends by returning to the soccer ball that motivated the lesson, now 
 
 - [Anchor spherical-geometry calculations in real-world cases such as the New York–Paris flight path and the Bermuda Triangle](real-world-spherical-geometry-anchor-strategy.md)
 - [Open a lesson on spherical geometry by asking learners to flatten a familiar spherical object such as a soccer ball](soccer-ball-flattening-entry-strategy.md)
+- [Close the lesson with a guided discussion of the method's accuracy and its limits compared with modern GPS](closure-accuracy-discussion-navigation.md)
 
 ## Examples
 -

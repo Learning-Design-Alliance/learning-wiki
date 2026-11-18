@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: moderate
-newest_evidence: 2015
+newest_evidence: 2016
 sources:
-  - id: simon-fauvel-2015
+  - id: simon-fauvel-2016
     resource: "https://doi.org/10.48550/arXiv.1601.06862"
-    title: "Simon Fauvel, Han Yu. (2015). A Survey on Artificial Intelligence and Data Mining for MOOCs. Nanyang Technological University, Singapore. [doi:10.48550/arXiv.1601.06862](https://doi.org/10.48550/arXiv.1601.06862)"
+    title: "Simon Fauvel, Han Yu. (2016). A Survey on Artificial Intelligence and Data Mining for MOOCs. Nanyang Technological University, Singapore. Originally published 2015. [doi:10.48550/arXiv.1601.06862](https://doi.org/10.48550/arXiv.1601.06862)"
     author: Simon Fauvel, Han Yu
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` The longer a MOOC video is, the higher the in-video dropout rate, i.e. learners are less likely to finish watching it. [→ Simon Fauvel 2015](#simon-fauvel-2015)
+`q2 i?` The longer a MOOC video is, the higher the in-video dropout rate, i.e. learners are less likely to finish watching it. [→ Simon Fauvel 2016](#simon-fauvel-2016)
 
 ## Evidence
 
-### Simon Fauvel 2015
+### Simon Fauvel 2016
 
-Simon Fauvel, Han Yu. (2015). A Survey on Artificial Intelligence and Data Mining for MOOCs. Nanyang Technological University, Singapore. [doi:10.48550/arXiv.1601.06862](https://doi.org/10.48550/arXiv.1601.06862)
+Simon Fauvel, Han Yu. (2016). A Survey on Artificial Intelligence and Data Mining for MOOCs. Nanyang Technological University, Singapore. Originally published 2015. [doi:10.48550/arXiv.1601.06862](https://doi.org/10.48550/arXiv.1601.06862)
 
 `q2 · i?` · `associational · r?`
 
@@ -47,3 +47,4 @@ The survey reports a data-mining study of video watching activities [21] that fo
 ## Related Claims
 - [Students' video watching profile summarized from clickstream predicts in-video dropout](behavioral-vectors-predict-in-video-dropout.md) — related
 - [Greater IPI, increased rewatching and greater video play proportion each associate with lower MOOC dropout hazard](ipi-survival-dropout-hazard.md) — related
+- [Completion rates of viewing videos per learner negatively correlate with average video length across eight MOOCs](video-length-negative-correlation-completion-rate.md) — possibly the same claim (merge candidate)

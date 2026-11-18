@@ -89,3 +89,4 @@ In the same invalid-test simulation, compensatory selection "introduced a negati
 - [Compensatory selection eliminates or tempers the positive correlation between valid standardized test scores and degree completion among accepted students](compensatory-selection-eliminates-valid-test-correlation.md) — related
 - [Dropping standardized test scores from admissions raises or lowers simulated degree completion depending on whether the test is valid](dropping-test-scores-changes-simulated-degree-completion.md) — related
 - [Among 540 NBA players, height shows no significant correlation with Win Shares or points scored despite clearly predicting basketball success in general](nba-height-no-correlation-among-selected-players.md) — related
+- [Admissions selection induces a spurious negative correlation between admissions variables (GRE score and research experience) among admitted students](selection-induces-spurious-negative-correlation.md) — related

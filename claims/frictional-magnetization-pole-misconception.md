@@ -48,3 +48,4 @@ Analysis of the SLPAT magnetization question, in which students drew the poles o
 - [Prospective science teachers in both groups held conceptual misunderstandings about sound, electricity, magnetism, light and optics](prospective-teachers-physics-misconceptions-five-topics.md) — a broader claim this one bears on
 - [Teaching physics in a science teaching laboratory practice course via the Jigsaw method based on cooperative learning yields higher achievement than the confirmatory laboratory method](jigsaw-lab-higher-physics-achievement-than-confirmatory.md) — related
 - [Prompting self-explanation in a physics electricity unit led to accelerated future learning in a subsequent magnetism unit](self-explanation-accelerated-future-learning-physics.md) — related
+- [Students conflate magnetic poles with electric charges, failing to distinguish a bar magnet from an electric dipole](electric-magnetic-dipole-confusion.md) — related

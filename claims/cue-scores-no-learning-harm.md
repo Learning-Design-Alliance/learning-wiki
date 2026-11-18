@@ -67,3 +67,4 @@ End-of-semester CUE administration in the same fall 2012 class. The post-test sc
 - [Student feedback on the story-writing activity was overwhelmingly negative in both semesters despite high effort](story-writing-negative-feedback.md) — related
 - [Overall cumulative final exam scores showed no significant difference before versus after implementing the story](final-exam-overall-no-significant-difference.md) — related
 - [A semester-long science-fiction story-writing task elicited high effort from upper-division physics students, with all students submitting stories averaging 7,000 words](story-writing-high-effort-em.md) — related
+- [CUE post-test responses showed students shifting from guessing toward representing systems with equations and diagrams and using conceptual rather than long algorithmic approaches](cue-post-test-shift-toward-conceptual-approaches.md) — related

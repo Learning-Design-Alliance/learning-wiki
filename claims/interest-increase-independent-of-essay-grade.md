@@ -52,3 +52,4 @@ Cross-tabulation of survey question 3 responses by average essay letter grade fo
 - [In a non-majors introductory astronomy course, 62% of 106 essays from 55 students earned A, B or C grades, with 22.6% of average essay scores failing](essay-grades-nonmajors-astronomy-distribution.md) — related
 - [Only 21% of surveyed students felt the essays increased their interest in astronomy, while 49% felt the essays were not educationally beneficial and should not be offered again](essay-survey-interest-and-benefit-minority.md) — related
 - [Perceived educational benefit of the essays rose with essay grade, from about 40% among higher grades to zero among students who earned failing essay grades](perceived-benefit-rises-with-essay-grade.md) — related
+- [Informal student feedback was positive, with pupils reporting increased interest in astronomy and feeling like real astronomers](positive-informal-student-feedback-pilot.md) — related

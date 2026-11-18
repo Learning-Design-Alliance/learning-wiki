@@ -76,6 +76,7 @@ Simulation alone is an experience; learning comes from the structure wrapped aro
 - [Sequence simulation first, then repeat the same assignment with physical laboratory equipment](simulation-first-then-laboratory-sequence.md)
 - [Use computer simulation as a foundational prerequisite before scenario-based ACLS simulation](computer-simulation-as-foundational-prerequisite.md)
 - [Three-phase semi-guided exploration design for teaching energy with a simulator](three-phase-semi-guided-simulator-design.md)
+- [Inquiry-based primary-school physics lesson structure alternating guided discussion, hands-on experiments, and a closing synthesis game](primary-inquiry-hands-on-synthesis-game-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the structured engagement phase inside the simulation

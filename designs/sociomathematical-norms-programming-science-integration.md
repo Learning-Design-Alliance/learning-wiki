@@ -54,4 +54,4 @@ The paper proposes that teachers can integrate agent-based programming with scie
 -
 
 ## Key Sources
-- Dickes, A., Farris, A., & Sengupta, P. (2016). Integrating Agent-based Programming with Elementary Science: The Role of Sociomathematical Norms. Proceedings of the 24th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education. https://www.apsce.net
+- Dickes, A., Farris, A., & Sengupta, P. (2016). Integrating Agent-based Programming with Elementary Science: The Role of Sociomathematical Norms. Proceedings of the 24th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education. https://www.apsce.net. [doi:10.58459/icce.2016.1152](https://doi.org/10.58459/icce.2016.1152)

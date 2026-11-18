@@ -50,3 +50,4 @@ Case study comparing two self-selected groups in a first-year engineering physic
 - [By the second exam, passing rates of platform users (68%) and non-users (64%) were nearly equal, and the user score advantage narrowed](arco-second-exam-advantage-narrowed.md) — related
 - [The authors report a strong correlation between proper use of the platform and obtained results](arco-proper-use-correlated-with-results.md) — related
 - [Course-wide passing rose from the first to the second exam, with the second exam passed by 65% of the course, almost four times the first exam's passing students](arco-course-passing-rose-first-to-second-exam.md) — related
+- [The authors report that in nuclear physics, around 40% of 60 students passed the exam, rising to approximately 73% counting only students who regularly attended lessons.](nuclear-physics-40-percent-pass-60-students.md) — related

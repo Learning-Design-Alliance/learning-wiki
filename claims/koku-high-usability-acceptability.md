@@ -68,3 +68,4 @@ Descriptive summarisation of usability and acceptability questionnaires complete
 - [The scale is quickly completed, averaging 4 min, which the authors report as good acceptability](gp-depression-scale-acceptability-4-min-completion.md) — related
 - [The TV-based home telehealth technology was easy to learn and use, with a mean System Usability Scale score of 94.4](high-usability-tv-based-rehab-technology.md) — related
 - [The mobile game prototype received a high subjective usability score on the System Usability Scale](mobile-game-high-sus-usability-score.md) — related
+- [Students perceived KLM-FA as good to excellent in usability, with a mean SUS score of 82.0](klm-fa-perceived-usability-sus.md) — related

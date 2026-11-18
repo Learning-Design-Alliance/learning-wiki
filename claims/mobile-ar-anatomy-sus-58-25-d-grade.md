@@ -55,3 +55,4 @@ Survey of 10 anatomy educators at Curtin University using the validated System U
 - [The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation, which the authors take to suggest UI consistency issues](photon-fusion-sus-good-but-variable-usability.md) — related
 - [Individual SUS scores did not correlate with educators' prior AR experience; experienced educators' scores were divided between grades F and B](sus-scores-no-correlation-ar-experience.md) — related
 - [Students rated the HoloLens 2 above average on the System Usability Scale (mean 79.4)](hololens-sus-79-above-average-usability.md) — related
+- [Students perceived KLM-FA as good to excellent in usability, with a mean SUS score of 82.0](klm-fa-perceived-usability-sus.md) — related

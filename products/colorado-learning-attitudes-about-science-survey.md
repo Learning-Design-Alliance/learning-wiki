@@ -27,6 +27,7 @@ A standardized, Likert-scale survey developed to measure students’ beliefs and
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Colorado Learning Attitudes about Science Survey (CLASS) as the outcome measure**: The study used the CLASS questionnaire, a standardised instrument that "has passed validity and reliability tests" and differentiates between the beliefs of experts and novices, to measure learners' engagement and applied understanding of ecological concepts. It was administered as a pre- and post-test with a 5-point Likert scale (1=strongly disagree to 5=strongly agree). Learners' percentage favourable scores were computed against the CLASS Expert Response Key across 42 statements, comparing responses of the 355 learners to expert reactions. (Okwara (2024))
+- **E-CLASS: Colorado Learning Attitudes about Science Survey for Experimental Physics**: The E-CLASS is a 30 item, Likert-style survey of student epistemologies about experimental physics. Students rate each prompt, such as "The primary purpose of doing physics experiments is to conﬁrm previously known results.", from both their personal perspective when doing experiments in class and that of a hypothetical experimental physicist. It was validated through student interviews and expert review and tested for statistical validity and reliability using responses from multiple institutions and course levels. (Bethany R. Wilcox et al. (2016))
 
 ### Claims
 
@@ -36,8 +37,8 @@ A standardized, Likert-scale survey developed to measure students’ beliefs and
 
 ## Key Sources
 - Okwara, V. U. (2024). The impact of puppetry as a teaching tool on Grade 9 learners' applied conceptual understanding of ecological concepts: A STE(A)M context. Educational Research: Theory and Practice, 35(4), 158-174. https://orcid.org/0000-0002-0876-9020
-
 <!-- merged 2026-10-10 from elements/class-survey-ecology-measure ("Colorado Learning Attitudes about Science Survey (CLASS) as the outcome measure"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Bethany R. Wilcox and H. J. Lewandowski. (2016). Impact of instructional approach on students' epistemologies about experimental physics. arXiv:1609.05758. https://arxiv.org/abs/1609.05758
 
 # Colorado Learning Attitudes about Science Survey (CLASS) as the outcome measure
 

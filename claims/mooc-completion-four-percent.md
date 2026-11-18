@@ -60,3 +60,4 @@ The paper cites a University of Pennsylvania Graduate School of Education study 
 - [AI voice cloning maintains student engagement comparable to traditional audio recording](ai-voice-cloning-maintains-engagement.md) — a narrower finding that bears on this claim
 - [Only 23.1% of registrants attended all four sessions, with a 26.6% dropout rate](low-completion-voluntary-course.md) — a narrower finding that bears on this claim
 - [Software Carpentry's online MOOC-style offerings failed, with only 5-10% of starters finishing and most finishers already knowing the material](software-carpentry-mooc-low-completion.md) — a narrower finding that bears on this claim
+- [MOOC dropout rates are very high, with reported rates of 80-95% at Stanford, MIT and UC Berkeley and only 7% of 50,000 students completing a Coursera-UC Berkeley software engineering course](mooc-dropout-rates-80-95-percent.md) — related

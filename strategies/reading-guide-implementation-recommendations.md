@@ -48,6 +48,7 @@ The authors offer four recommendations for instructors adopting reading guides: 
 
 - [Increase student preparation for preclass material via clear expectations, focused preparation tasks, and explicit links to in-class active learning](clear-expectations-focused-prep-increase-preparation.md)
 - [Use start-of-class quizzes on pre-class video content as a regular part of flipped in-class sessions](start-of-class-quiz-strategy-flipped-classroom.md)
+- [Four practical recommendations for MOOC developers: budget time, test materials, correct errors, and be responsive on discussion boards](mooc-development-four-recommendations.md)
 
 ## Examples
 -

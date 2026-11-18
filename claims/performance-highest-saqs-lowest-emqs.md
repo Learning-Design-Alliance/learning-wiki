@@ -50,3 +50,4 @@ Repeated measures analysis of performance percentages in the same 29-student coh
 - [EMQs are significantly more difficult than MCQs and SAQs in dental exams](emqs-more-difficult-than-mcqs-saqs.md) — related
 - [GPA and gender effects on performance vary by question format](gpa-gender-effects-vary-by-format.md) — related
 - [Performance differences among formats hold in most courses but not orthodontics](format-performance-differs-by-course.md) — a narrower finding that bears on this claim
+- [The section whose final exam combined all four question formats had the highest final exam median, while the essay-only section had the lowest](combined-format-section-highest-final-exam-median.md) — related

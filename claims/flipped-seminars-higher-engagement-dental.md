@@ -54,3 +54,4 @@ Observational report from the dental programme's own course evaluations after th
 - [After the flipped classroom transition, students submitted significantly more course evaluation comments, and nearly all agreed the course was enjoyable and the format effective](more-scef-comments-and-high-agreement-after-fc.md) — related
 - [Research-based interactive teaching techniques developed in undergraduate courses can be successfully employed in graduate courses](per-techniques-work-in-graduate-courses.md) — related
 - [A previous direct-lesson introduction of Audacity produced weak engagement and no materials, while the flipped-classroom format produced engagement and educational materials](direct-lesson-vs-flipped-engagement-contrast.md) — related
+- [A fully student-led seminar unit on complex systems research topics was reported to yield high engagement and enrolment growth](student-led-seminars-high-engagement.md) — related

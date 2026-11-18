@@ -57,3 +57,4 @@ Observation from the Year Three cross-state evaluation of AD interviews and coll
 - [Transition Leaders play a central role in coordinating collaboration between schools and stakeholders, but their effectiveness depends on sufficient flexibility and resources](transition-leaders-coordinate-collaboration.md) — related
 - [Involvement of stakeholders nationally enhanced programme acceptance, clinician buy-in and funding sustainability](stakeholder-involvement-buy-in-sustainability.md) — related
 - [An experienced bottom-up manager with communication and structuring skills improved acceptance and early successes in curriculum mapping](bottom-up-manager-acceptance.md) — related
+- [Project-based funding for OER risks the resource becoming obsolete when the funding duration runs out](oer-project-funding-obsolescence.md) — possibly the same claim (merge candidate)

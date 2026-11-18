@@ -47,3 +47,4 @@ Authors' interpretive statement in the discussion, offered without evidence or a
 ## Related Claims
 - [Children with dyslexia read texts significantly more slowly than typical readers in both oral and silent reading](children-dyslexia-slower-both-reading-modes.md) — related
 - [For children and adolescents with dyslexia, the silent reading deficit is as large as or larger than the oral reading deficit](dyslexia-silent-reading-deficit-as-large-or-larger.md) — related
+- [Disabilities are little studied in physics education research despite affecting many students](disabilities-little-studied-per.md) — related

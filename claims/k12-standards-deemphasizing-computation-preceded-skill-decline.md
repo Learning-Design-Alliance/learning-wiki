@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: mixed
 newest_evidence: 2016
+source_checked: 2026-11-18
 sources:
   - id: hartman-2016
     resource: "https://doi.org/10.48550/arXiv.1608.05006"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-18 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` State math standards modeled on the 1989 NCTM standards, adopted by over 40 states between 1990 and 2002, directed decreased attention to memorizing rules and algorithms, rote practice, and paper-and-pencil fraction computation. [→ Hartman 2016](#hartman-2016)

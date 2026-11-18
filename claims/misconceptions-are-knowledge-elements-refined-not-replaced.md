@@ -57,3 +57,4 @@ The contrasting position is that children's ideas form coherent mental models co
 - [A particle mental model of sound propagation is stable, coherent and widely applicable at all educational levels](sound-particle-mental-model.md) — a narrower finding that bears on this claim
 - [The replacement requirement of elicit-confront-resolve is problematic for interdisciplinary conflicts in which neither conflicting idea is more correct than the other](ecr-replacement-problematic-interdisciplinary.md) — a narrower finding that bears on this claim
 - [The collaboration revealed that some art students held a misconception of science as a body of knowledge rather than a process](students-science-as-process-misconception.md) — related
+- [Verification-lab predictions derive from authoritative sources rather than students' own ideas, so students may never confront their misconceptions](verification-lab-predictions-authoritative-source.md) — related

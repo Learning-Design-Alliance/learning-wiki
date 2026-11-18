@@ -50,3 +50,4 @@ LSD post-hoc analysis on the translation test found the giver-receiver differenc
 - [Both giving and receiving marginal L1 glosses improve L2 vocabulary learning on a fill-in-the-blank test relative to no glosses](marginal-l1-glosses-improve-fill-in-blank-vocabulary.md) — related
 - [On the translation test, the giver group outperformed both other groups and the receiver group outperformed the control group at the posttests](translation-test-giver-receiver-control-ordering.md) — reports the opposite
 - [The significant test-by-group interaction for percent-segments-entered reflected no between-group differences at any time point](segments-entered-interaction-no-group-differences.md) — related
+- [The numerical problem format correlated more weakly with final exam score (r = 0.430) than the fill-in-the-blank format (r = 0.830)](numerical-problem-weakest-final-exam-correlation.md) — related

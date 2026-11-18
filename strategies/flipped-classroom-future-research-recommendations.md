@@ -44,6 +44,7 @@ In their limitations and recommendations section, the authors propose concrete n
 - [Use large samples, true experimental designs, and moderate treatment durations when evaluating SRL scaffolds](meta-analysis-design-recommendations-srl-scaffolds.md)
 - [Rigorously compare PBL with traditional methods before broad PGME implementation, using larger samples, controls, and follow-up](compare-pbl-traditional-methods-before-pgme-implementation.md)
 - [Plan multi-institutional evaluation and extend the curriculum with more simulations, collaborative activities and conceptual diagnostics](quantum-curriculum-future-development-strategy.md)
+- [Future work: replicate with larger populations and assess retention time of knowledge gained under the two preparation methods](virtual-lab-replication-and-retention-future-work.md)
 
 ## Examples
 -

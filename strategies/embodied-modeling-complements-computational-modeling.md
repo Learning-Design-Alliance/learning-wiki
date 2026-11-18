@@ -51,9 +51,10 @@ Throughout the year the teacher connected ViMAP modeling to out-of-computer expe
 - [Use embodied turtle-acting prompts and color/step-through scaffolds to teach agent-based thinking](act-like-a-turtle-embodied-prompt-strategy.md)
 - [Body-motion graph construction with a real-time position sensor as an introductory activity for position and velocity concepts](go-motion-walk-graph-position-velocity.md)
 - [Design complementary computational and non-computational modeling activities to support teacher adoption of computational modeling](complementary-computational-noncomputational-modeling.md)
+- [Use embodied modeling activities to prepare and deepen agent-based programming, with perspective-taking across agent types](embodied-modeling-before-agent-based-programming.md)
 
 ## Examples
 -
 
 ## Key Sources
-- Dickes, A., Farris, A., & Sengupta, P. (2016). Integrating Agent-based Programming with Elementary Science: The Role of Sociomathematical Norms. Proceedings of the 24th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education. https://arxiv.org/abs/1609.00850
+- Dickes, A., Farris, A., & Sengupta, P. (2016). Integrating Agent-based Programming with Elementary Science: The Role of Sociomathematical Norms. Proceedings of the 24th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education. https://arxiv.org/abs/1609.00850. [doi:10.58459/icce.2016.1152](https://doi.org/10.58459/icce.2016.1152)

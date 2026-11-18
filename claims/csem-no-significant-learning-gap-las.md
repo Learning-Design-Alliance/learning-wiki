@@ -48,3 +48,4 @@ Paired t-test analysis of the CSEM portion of the LASSO data (754 students in 21
 - [In a multiple linear regression of LA-supported courses, non-dominant status predicts effect sizes 0.262 higher than dominant peers, and the FMCE predicts effect sizes 0.2 lower than the FCI](regression-non-dominant-fmce-coefficients.md) — related
 - [In introductory physics courses, the learning gap favors dominant students without LAs but is significantly reversed in courses with LAs (pooled across concept inventories)](las-reverse-physics-learning-gaps.md) — related
 - [On the Force Concept Inventory, the learning gap is significantly negative without LAs and significantly positive with LAs](fci-learning-gap-reversal-las.md) — related
+- [LA support is not associated with smaller performance gaps between demographic groups (p > 0.8, d ~ 0.01)](la-support-no-gap-reduction.md) — reports the opposite

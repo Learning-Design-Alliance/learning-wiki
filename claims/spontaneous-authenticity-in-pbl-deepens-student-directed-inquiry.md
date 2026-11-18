@@ -80,3 +80,4 @@ This is a single, deeply documented case study (Portraiture methodology, which p
 - [Communication about internal events depends on the student judging the teacher as helpful, and cannot be carried out by a predetermined curriculum](internal-event-communication-depends-on-trust.md) — related
 - [The authors report that games enabled self-motivated physics learning to continue outside the classroom](games-enable-self-motivated-out-of-class-learning.md) — related
 - [Students and teachers reported a need to balance student-directed inquiry with teacher-directed instruction when using the simulation](fgd-balance-student-inquiry-teacher-instruction.md) — related
+- [Major student-driven creative projects are widely used in complex systems coursework and were reported as successful and popular with students](student-led-creative-projects-widespread-successful.md) — related

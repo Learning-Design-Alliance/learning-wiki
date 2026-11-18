@@ -52,6 +52,7 @@ The strategy runs across the paper's three sections: students discretize the evo
 - [Use simple spreadsheet-based numerical simulation of orbital systems as an engaging team-based learning activity](spreadsheet-numerical-simulation-team-learning-strategy.md)
 - [Incorporate computation into an existing classical mechanics course through in-class demonstrations followed by student projects that progress from template modification to independent construction](demonstration-template-to-independent-projects.md)
 - [Incorporate numerical calculation into introductory quantum courses to counteract abstraction-driven misconceptions](incorporate-numerical-calculation-in-quantum-courses.md)
+- [Reuse algorithms across physics courses by scaling equations into shared dimensionless forms](reuse-scaled-algorithms-across-physics-courses.md)
 
 ## Examples
 -

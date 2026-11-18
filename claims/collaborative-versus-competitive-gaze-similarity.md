@@ -69,3 +69,4 @@ Null correlational result from the game-phase analysis of 18 dyads; the printed 
 - [Speech episodes strengthen the relation between gaze similarity and posttest scores in both poster and game phases](speech-episodes-moderate-gaze-learning.md) — related
 - [Collaborative MAR gameplay exceeds competitive gameplay on observed physical activity and interest in exploring the tool](collaborative-mar-physical-activity-tool-use.md) — related
 - [Collaborative MAR gameplay raises children's observable enjoyment and mood more than competitive gameplay](collaborative-mar-higher-observed-affect.md) — related
+- [One-way MANOVA found no significant difference between the two game-version groups on engagement or performance, with univariate effects stronger on engagement than performance.](manova-no-group-difference-engagement-performance.md) — related

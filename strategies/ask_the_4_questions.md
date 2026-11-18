@@ -59,9 +59,11 @@ The framework operationalizes the finding that feedback is most powerful when it
 6. Follow up: check whether the improvement action was applied in the next piece of work
 
 ## Related Strategies
+
 - Formative feedback cycles — the four questions supply the diagnostic structure that makes each cycle productive
 - Rubric-based self-assessment — learners internalize the first two questions by applying criteria to their own work
 - Portfolio conferencing — the four answers organize a conversation about growth over time
+- [Use group work with written formative feedback to keep every student engaged in computational work](group-formative-feedback-computational-engagement.md)
 
 ## Related Elements
 - [Provide Feedback](../elements/provide-feedback.md) — the element this strategy structures

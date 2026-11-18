@@ -52,3 +52,4 @@ Mixed-methods study of 424 primary teachers plus 21 case studies; the quote dire
 - [Students' purposes when using technology are primarily related to entertainment and information seeking rather than structured learning tasks.](escuela2-students-entertainment-orientation.md) — related
 - [Only 21.5% of teachers believe the policy of giving each student a computer should extend to all courses and stages of the school system.](escuela2-policy-extension-low-support.md) — related
 - [Teachers' student-centered pedagogical beliefs and problem-solving practices predict higher levels of IT integration in mathematics lessons](teacher-pedagogical-beliefs-practices-predict-it-integration.md) — related
+- [Forced integration of ICT into classroom teaching strategies can be extremely dangerous and mere ICT use does not guarantee results](forced-ict-integration-dangerous.md) — related

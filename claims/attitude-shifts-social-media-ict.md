@@ -67,3 +67,4 @@ In the third study (N=46), paired comparisons of learning via ICT, learning via 
 - [ICT-supported teaching improved pupils' attitudes toward ICT but not their attitudes toward social studies](ict-treatment-attitude-effects-split.md) — related
 - [Prior knowledge and ICT-supported instruction predicted achievement post-test scores, while pupils' attitudes toward the subject and ICT did not](prior-knowledge-and-treatment-predict-achievement-not-attitudes.md) — related
 - [iPod inquiry teaching produced significantly more positive scientific attitudes than regular teaching for third graders](ipod-inquiry-improves-scientific-attitudes.md) — related
+- [Social-media close-up picture game posts reached on average 1400 people, with a maximum of 43301](closer-look-social-media-reach.md) — related

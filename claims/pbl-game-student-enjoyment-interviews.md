@@ -73,3 +73,4 @@ Qualitative interviews with experimental-group participants. Student C said "The
 - [Undergraduate students in a project-based outreach course rated the course very positively, averaging 4.5(0.6) on a 1–5 appreciation scale, and 96% said they would not have preferred another elective](outreach-course-high-student-appreciation.md) — related
 - [Non-physics-major students enjoyed the cycloid experiment](non-physics-majors-enjoyed-cycloid-experiment.md) — related
 - [Many students in beginner-programmer introductory physics classes report that the game-like programming exercise was enjoyable or fun](planetoids-exercise-enjoyment-survey.md) — related
+- [88% of students said hands-on activities helped them understand Einsteinian concepts, and 70% wanted to learn more Einsteinian physics](hands-on-activities-helped-clarity-einsteinian-concepts.md) — related

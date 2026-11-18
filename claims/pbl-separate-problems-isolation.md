@@ -52,3 +52,4 @@ Conceptual argument citing Schmidt et al. (2009) for the short-run performance b
 - [Students responded most positively to projects that felt authentic and were organized in a clear sequence with manageable milestones](student-engagement-authenticity-clear-sequence.md) — related
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — related
 - [School reform efforts often narrowly focus on instruction, curriculum and pedagogy while overlooking organizational and community conditions](reform-narrowly-focuses-on-instruction.md) — a broader claim this one bears on
+- [Teaching in the integrated science course stages each natural science as a distinct, separate activity rather than showing sciences working together](bsc-teaching-stages-disciplines-separately.md) — related

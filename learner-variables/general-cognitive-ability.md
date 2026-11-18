@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 242 claims (150 show a difference, 55 mixed, 37 no difference) · 168 studies (64 causal, 64 associational, 15 quant-synthesis, 13 review, 7 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 38 of 168 report an effect size · 239 claims rest on one study
+> **Evidence** · 243 claims (151 show a difference, 55 mixed, 37 no difference) · 169 studies (65 associational, 64 causal, 15 quant-synthesis, 13 review, 7 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 39 of 169 report an effect size · 240 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -278,6 +278,7 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Copying occurs on average about 12% of initial submissions nearly independent of ability, while low-ability students guess more than high-ability students](../claims/copying-12-percent-guessing-ability-dependent.md) [~M] — learners who differ on it differ in outcomes
 - [The peer assessment effect was homogeneous: no subgroup differences by gender, race, prior coursework, class year or aptitude](../claims/peer-assessment-effect-homogeneous-across-subgroups.md) [-M] — an instructional effect differs with it
 - [Additional aptitude measures (HS GPA, standardized test scores) narrow but do not eliminate gendered performance differences](../claims/covariates-do-not-explain-gpd.md) [~M] — learners who differ on it differ in outcomes
+- [Students in high-IAS Astro 101 classes (IAS ≥ 25%) reach significantly higher average post-instruction IRT-estimated ability than students in low-IAS classes (Cohen's d = 0.80)](../claims/irt-high-ias-post-ability-advantage.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

@@ -65,3 +65,4 @@ The report's current-state section, citing Code.org et al. (2020), reports that 
 - [Code.org's Professional Learning Program significantly increased AP Computer Science Principles test taking in treatment schools, with an average increase of almost 18 additional tests per school](codeorg-plp-increased-csp-ap-test-taking.md) — related
 - [Student characteristics such as race and gender identity were not strong predictors of resource-use profile membership; only two pairwise comparisons were significant.](few-demographic-predictors-resource-profiles.md) — related
 - [The Akamai Internship Program maintains an 83% retention rate across 144 participants from underrepresented groups](akamai-program-retention-diversity.md) — related
+- [Race and ethnicity receive meaningful but unclustered attention, with indigenous and multiracial student populations neglected](race-ethnicity-considered-indigenous-multiracial-neglected.md) — related

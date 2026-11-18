@@ -61,3 +61,4 @@ In Student C's chat log debugging the probe-setting problem (P6) with an unknown
 - [Educators report a certainty–proof gap: high confidence that student work is AI-generated without ability to prove it](certainty-proof-gap-ai-detection.md) — related
 - [Confidence testing diagnoses misconceptions: two post-test questions showed negative confidence-score correlations](rci-confidence-misconception-diagnosis.md) — related
 - [Student pairs’ component replacements followed an order pattern: all pairs replaced the 100 Ω resistor, all-but-one replaced the faulty op-amp, and the resistor was always replaced before the op-amp, mostly during problem formulation.](repair-order-resistor-before-op-amp.md) — related
+- [Photodiodes and op-amps are common apparatus in optics and electronics labs, making them candidate assessment contexts](photodiodes-op-amps-common-contexts.md) — related

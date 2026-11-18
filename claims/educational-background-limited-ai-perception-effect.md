@@ -57,3 +57,4 @@ One-way ANOVA by educational level in the quantitative phase (N = 302). The arti
 - [Teacher quality covariates are significant only at specific levels: Master's degree share at middle and high schools, experience at elementary schools](teacher-quality-covariate-pattern.md) — related
 - [Higher formal education was not associated with better nutritional knowledge; Bachelor's degree holders scored significantly worse than university‐diploma holders](education-not-linked-to-nutrition-knowledge.md) — related
 - [Higher educational attainment was associated with better qualification up to a plateau at the doctoral level](education-level-qualification-plateau-doctorate.md) — related
+- [The professional profile of the sampled teachers is dominated by recent entrants holding specialization (lato-sensu) degrees rather than masters or doctorates](teacher-profile-specialization-degrees.md) — related

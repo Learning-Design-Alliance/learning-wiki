@@ -61,6 +61,7 @@ Screen readers remove the decoding bottleneck for learners who can comprehend sp
 - [Chunking](../principles/chunking.md) — breaking text into short segments reduces the memory burden of linear auditory input [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 - [Clear Structure](../principles/clear-structure.md) — well-structured documents are what make screen reader navigation possible
 - [Use process driven math to break math problems into navigable pieces for students accessing math auditorily](process-driven-math-auditory-bvi.md)
+- [Start accessible-material preparation months ahead: compile a complete materials list, allow early preregistration, and split conversion between commercial services and in-house work](lead-time-accessible-materials-conversion.md)
 
 ## Examples
 - **JAWS (Freedom Scientific)** — the dominant commercial screen reader in education; widely used with refreshable braille displays in K–12 and university disability services.

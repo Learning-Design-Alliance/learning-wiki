@@ -23,7 +23,7 @@ sources:
 # Expanding Social Networks
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (23 for, 11 mixed, 1 against) · 41 studies (17 qualitative, 8 causal, 4 review, 4 associational, 3 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 1 of 41 report an effect size · 30 claims rest on one study
+> **Evidence** · 37 claims (25 for, 11 mixed, 1 against) · 42 studies (17 qualitative, 8 causal, 5 associational, 4 review, 3 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 1 of 42 report an effect size · 32 claims rest on one study
 
 ## Conditional relationship
 
@@ -128,6 +128,8 @@ Claims the earlier page cited that are not part of the model above, each with wh
 - [In the Tucson household ethnography, exchanges within households' social networks were often reciprocal and built mutual trust through shared practical activities.](../claims/household-exchange-networks-are-reciprocal-and-build-trust.md) [+W] — an ethnographic digest; trust grew through reciprocal exchange in shared practical activity. It bears on building from learners' existing networks, which [Cultural & Life Experiences Connections](cultural-life-experiences-connections.md) owns.
 - [Diverse, noncompetitive coaching groups provided a constant community of support for URM students who lacked supportive peer networks in early graduate school](../claims/coaching-group-community-of-support.md) [+W] — attached 2026-11-09 from Williams et al. (2017), which proposed "Coached diverse peer group model for supplementary career support"; tests this page's relationship.
 - [Coaching support was not always perceived as needed or accessible: some students relied on supportive mentors, and others could not engage due to time constraints and infrequent group meetings](../claims/coaching-support-not-always-accessible.md) [~W] — attached 2026-11-09 from Williams et al. (2017), which proposed "Coached diverse peer group model for supplementary career support"; tests this page's relationship.
+- [For students with intermediate final grades, out-of-class network centrality—not grade or in-class centrality—is the statistically significant predictor of persistence](../claims/out-of-class-network-predicts-persistence-intermediate-grades.md) [+W] — attached 2026-11-18 from Justyna P. Zwolak et al. (2017), which proposed "Promote out-of-class interactions to increase students' persistence in STEM majors"; tests this page's relationship.
+- [An out-of-class closeness threshold of about 0.14 separates intermediate-grade students with about 63% versus about 92% chances of persisting](../claims/closeness-threshold-0-14-persistence-chance.md) [+W] — attached 2026-11-18 from Justyna P. Zwolak et al. (2017), which proposed "Promote out-of-class interactions to increase students' persistence in STEM majors"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

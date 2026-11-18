@@ -16,7 +16,7 @@ sources:
 # Introduce curved space geometry before warped time, then present Newtonian and Euclidean approximations as special cases
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 design), `q2` · 0 of 2 report an effect size · 1 claim rests on one study
 
 ## Description
 The program introduces students step-by-step using many models and analogies, first introducing curved space and measurements of curved space, then warped time through real and thought experiments with clocks. After students learn the best modern understanding of gravity, it becomes natural to introduce the useful approximations of Euclidean geometry and Newton's law of gravitation, which are extremely accurate on Earth but break down near black holes.

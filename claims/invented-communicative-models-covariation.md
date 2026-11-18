@@ -55,3 +55,4 @@ Case analysis of one student's first and final acceleration models (Figure 4). A
 - [Elementary students using ViMAP agent-based programming with graphing can begin to understand motion as continuous change](vimap-agent-programming-continuous-change.md) — a broader claim this one bears on
 - [Across Phase II, students' ViMAP models and graphs became increasingly accurate and their programming commands increasingly sophisticated, as scored on a 0–3 scale](vimap-model-quality-increase-phase-ii.md) — a broader claim this one bears on
 - [Third-grade students' criteria for a good measurement shifted from socially defined (class vote) to sociomathematically defined (mathematical accuracy) after the heel-to-toe convention failed](step-size-norm-social-to-sociomathematical-shift.md) — related
+- [Dual-mode visual/text programming (ViMAP plus NetLogo) supported 8th-graders' transition to text-based programming](visual-to-text-programming-transition.md) — related

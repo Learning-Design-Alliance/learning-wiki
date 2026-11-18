@@ -49,3 +49,4 @@ Author's interpretation (type e) in the Demand section, offered without data: Ca
 - [The authors' data supports that Calculus 1 need not be a prerequisite for lower-level CS courses](calculus1-need-not-prerequisite-lower-level-cs.md) — related
 - [Students entered the Integral Calculus experiment with near-zero pretest scores, indicating weak prerequisite preparation](calculus-students-weak-prerequisite-background.md) — related
 - [Demand at the Evening Tutoring Center was dominated by Calculus 1, followed closely by Calculus 3, with over 2500 cadets served in the first semester](tutoring-demand-calculus-1-and-3.md) — related
+- [The mathematics needed for the discrete quasimolecular modeling calculations is trivial and can be performed at the pre-calculus level](discrete-modeling-precalculus-mathematics.md) — related

@@ -48,6 +48,7 @@ A seed-and-feed strategy has staff create initial content before members arrive,
 ## Related Strategies
 
 - [Run time-limited contests with small prizes that reward participation over performance to elicit posting in small online communities](small-prize-participation-contests-strategy.md)
+- [Use weekly instructor-created anchor threads to structure forum discussion](weekly-anchor-tasks-forum-structuring.md)
 
 ## Examples
 -

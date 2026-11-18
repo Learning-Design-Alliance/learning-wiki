@@ -66,3 +66,5 @@ Correlational analysis of Twitter activity against laboratory and final grades i
 
 ## Related Claims
 - [Twitter activity was related to the final grade only in the first study (r=.49), with no significant relationship in the second and third studies](twitter-activity-final-grade-first-study.md) — reports the opposite
+- [Change in internet self-efficacy correlates negatively with laboratory performance in the Twitter-supported course](self-efficacy-change-negative-lab-correlation.md) — related
+- [Twitter commenting activity and perceived question understandability correlate positively with laboratory grades](twitter-activity-correlates-laboratory-grade.md) — related

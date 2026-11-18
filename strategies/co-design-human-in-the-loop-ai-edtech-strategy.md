@@ -57,6 +57,7 @@ The report recommends that AI developers "embrace and center the expertise of te
 - [Involve end-users and teachers early in educational game development](involve-end-users-early-game-development.md)
 - [Participatory, V-model systems-engineering design process with end-user engagement](participatory-v-model-simulation-design.md)
 - [Meaningfully engage end-users and experts as partners throughout e-learning co-development and evaluation using the IKT Guiding Principles](ikt-partner-engagement-elearning-codevelopment-strategy.md)
+- [Involve the course instructor in rating and tuning visualization and model parameters](instructor-in-the-loop-visualization-tuning.md)
 
 ## Examples
 -

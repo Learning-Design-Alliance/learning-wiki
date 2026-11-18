@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 707 claims (379 show a difference, 166 mixed, 162 no difference) · 494 studies (259 associational, 172 causal, 20 review, 18 quant-synthesis, 12 design, 8 theoretical, 5 qualitative), `q1`–`q4` · 71 of 494 report an effect size · 699 claims rest on one study
+> **Evidence** · 708 claims (380 show a difference, 166 mixed, 162 no difference) · 495 studies (260 associational, 172 causal, 20 review, 18 quant-synthesis, 12 design, 8 theoretical, 5 qualitative), `q1`–`q4` · 71 of 495 report an effect size · 700 claims rest on one study
 
 ## How to read this page
 
@@ -746,6 +746,7 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Male students report far more interest in physics outside school than female students (about 80% vs 46%)](../claims/masterclass-male-female-physics-interest-outside-school-gap.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Neither multiple-choice format nor scaffolding level sufficiently explains the physics gender gap](../claims/neither-mc-nor-scaffolding-explains-gender-gap.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The only significantly female-biased iCMA questions involve careful reading, with small bias magnitude](../claims/female-bias-careful-reading-questions.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Performance gaps by gender and race/ethnicity in introductory physics are similar in size and widen from pretest to posttest](../claims/physics-equity-gaps-widen-pre-post.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

@@ -47,6 +47,7 @@ The authors close with five recommendations for follow-up work: replicate with d
 
 - [Future research should replicate the model in diverse educational domains and use experimental and intervention methods](tcm-future-research-replication-and-experimental-designs.md)
 - [Future studies should use larger samples and test online social networking sites like Facebook or blogs for academic writing feedback](future-ocf-larger-samples-social-networks.md)
+- [Future work: replicate with larger populations and assess retention time of knowledge gained under the two preparation methods](virtual-lab-replication-and-retention-future-work.md)
 
 ## Examples
 -

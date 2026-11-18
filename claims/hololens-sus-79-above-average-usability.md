@@ -67,3 +67,4 @@ SUS questionnaire completed by the eight HL-group students after tutorials. The 
 - [Learning Moment achieved high perceived usability, with a mean System Usability Scale score of 80.9 among medical and physician assistant students](lm-mean-sus-score-80-9.md) — related
 - [The TV-based home telehealth technology was easy to learn and use, with a mean System Usability Scale score of 94.4](high-usability-tv-based-rehab-technology.md) — related
 - [The mobile game prototype received a high subjective usability rating on the System Usability Scale](mobile-game-high-sus-usability-score.md) — related
+- [Students perceived KLM-FA as good to excellent in usability, with a mean SUS score of 82.0](klm-fa-perceived-usability-sus.md) — related

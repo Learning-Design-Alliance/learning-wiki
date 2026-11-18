@@ -50,3 +50,4 @@ The WWC review reports the progressing in school domain finding from the Kemple 
 - [Check & Connect increases credits accrued (progressing in school) in one RCT](check-and-connect-increases-credits-progressing.md) — related
 - [MDRC's experimental career academies evaluation found males earned as much as 17% more than peers for 8 years after high school, alongside attendance, course-taking, and on-time-credit gains](career-academies-mdrc-male-earnings-gains.md) — reports the opposite
 - [Attendance and dropout improved after year one of the intervention and reverted after the project ended](attendance-dropout-rose-then-reverted.md) — related
+- [In Singapore, MOOCs form 12% of all SkillsFuture Credit-eligible courses and about 6% of Singaporeans have used their credits on MOOCs, mostly aged 25 to 39](skillsfuture-credits-mooc-uptake.md) — related

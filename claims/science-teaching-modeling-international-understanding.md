@@ -49,3 +49,4 @@ Theoretical argument, not an empirical test: drawing on Bandura (1969) and Gagn�
 - [Participation in mathematics PLC changed teachers' collaboration norms, understanding of mathematics and its teaching, and ability to design and carry out teaching](plc-participation-changes-teacher-norms-understanding-practice.md) — related
 - [Cross-class super notes in Knowledge Forum prompt rise-above syntheses and serve as an epistemic ladder supporting deeper understanding](super-notes-epistemic-ladder-cross-class-knowledge-building.md) — related
 - [The Europe-wide distribution of megalithic sites supports education for global citizenship through cross-border collaboration](megalithic-distribution-global-citizenship.md) — related
+- [Teaching strategies must serve personal and human growth, not only instruction and summative evaluation of school performance](teaching-strategies-serve-human-growth.md) — a broader claim this one bears on

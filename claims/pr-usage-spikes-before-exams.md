@@ -71,3 +71,4 @@ Enrollment and usage counts from Table I: of 571 Phys 140 and 531 Phys 240 enrol
 - [PeerWise activity spikes before examinations and students report using it to reinforce knowledge close to exams](peerwise-activity-spikes-before-exams.md) — related
 - [Students accessed laboratory videos most just before lab due dates, but showed little spike around homework due dates and rarely revisited old videos before exams](video-access-timing-tied-to-assignments.md) — related
 - [Students graduating in 2016 from the IFAL secondary technical course received less than 200 of the scheduled 267 hours of physics over 3 years](ifal-less-than-200-physics-hours.md) — related
+- [In Singapore, MOOCs form 12% of all SkillsFuture Credit-eligible courses and about 6% of Singaporeans have used their credits on MOOCs, mostly aged 25 to 39](skillsfuture-credits-mooc-uptake.md) — related

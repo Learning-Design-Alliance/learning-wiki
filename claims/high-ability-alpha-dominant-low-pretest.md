@@ -73,3 +73,4 @@ The article reports (Section V.B) Coletta et al. (2005)'s four interactive-engag
 - [Class-average pre-test score and institutional SAT score do not correlate with normalized gain after correcting for test and teaching method](pretest-and-sat-no-gain-correlation.md) — related
 - [Normalized gain g is positively biased in favor of populations with higher pretest scores](normalized-gain-biased-favoring-high-pretest-populations.md) — related
 - [The three methods for calculating normalized gain are highly correlated (r ≥ 0.93)](three-normalized-gain-methods-highly-correlated.md) — related
+- [Initial performance affected post-test scores, but low and high initial performers gained equally in normalized learning gain](klm-fa-learning-gain-initial-performance.md) — related

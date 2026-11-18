@@ -50,3 +50,4 @@ Prospective randomized study of 35 medical students in an elective pain-medicine
 - [After teaching, medical interns taught with practical training scenario simulation score significantly higher on all Mini-CEX clinical-skill dimensions than interns taught with bedside teaching](simulation-teaching-higher-minicex-post-teaching.md) — related
 - [Final NRP test scores did not differ significantly between lecture-then-simulation and simulation-then-lecture training orders](nrp-final-scores-no-order-difference.md) — related
 - [Skills lab training improves medical students' OSCE examination performance compared with classic bedside training alone](skills-lab-training-improves-osce-performance.md) — related
+- [Section 01 performed worse in the skill-based assessment than section 04 despite the same instructor, with lab-before-lecture ordering a suspected cause](lab-before-lecture-ordering-worse-sa-section01.md) — related

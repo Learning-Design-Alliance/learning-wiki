@@ -46,7 +46,8 @@ The article prescribes a concrete teaching sequence: "The lesson should consist 
 - [None of the reviewed textbooks use the geometric approach, and nearly all order the derivation relativity-principle-first](../claims/textbooks-order-relativity-first-no-geometry.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Teach longitude derivation in two consecutive steps: first a Longitude Clock exercise with five time readings, then plotting seven positions from Cook's second voyage](two-step-longitude-clock-activity.md)
 
 ## Examples
 -

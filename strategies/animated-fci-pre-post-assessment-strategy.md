@@ -48,6 +48,7 @@ The authors re-created all 30 animated FCI questions as mp4 screen-capture video
 - [Always run statistical tests of reliability and discrimination when administering the FCI in a new context](statistical-evaluation-fci-new-context.md)
 - [Concept Probing](concept-probing.md)
 - [Teach introductory physics with Just-in-Time Teaching, a student-centered, interactive-engagement style, to improve conceptual understanding of Newtonian concepts](just-in-time-teaching-strategy.md)
+- [Recast and animate concept-inventory-style assessment questions to match the look and feel of the programming exercises](animated-recast-bema-assessment-strategy.md)
 
 ## Examples
 -

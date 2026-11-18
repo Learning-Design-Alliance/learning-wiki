@@ -66,3 +66,4 @@ This is a single-session collaborative task in one academic context (pre-service
 - [Groups that initiated collaboration early, coordinated before problem-solving, and interacted continuously tended to achieve equal participation and higher satisfaction](early-coordination-continuous-interaction-equal-participation.md) — related
 - [Teams that coordinate, communicate, and document intermediate results solve EER problems more successfully](eer-structured-teams-solve-better.md) — related
 - [Learner–content interaction was perceived as significantly more helpful for learning than learner–learner interaction despite equivalent measured performance](learner-content-interaction-perceived-more-helpful-for-learning.md) — a narrower finding that bears on this claim
+- [Students perceive teamwork as valuable but far fewer actually collaborate out of class, even when teamwork is expected or required](attitude-practice-discrepancy-collaboration.md) — related

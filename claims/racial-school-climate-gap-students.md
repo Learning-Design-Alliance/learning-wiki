@@ -84,3 +84,4 @@ Two reports using Cal-SCHLS data from different years confirmed significant conn
 - [Teachers' empathetic caring is associated with stronger mathematics classroom connectedness among Black and Latine students than transactional care](empathetic-care-math-connectedness.md) — related
 - [E-EMR effects differed by race/ethnicity: seven significant race × condition interactions relative to White students, for Asian, Latinx, Black and Multiracial students, mostly favouring them](e-emr-race-ethnicity-moderated-benefits.md) — related
 - [International and Asian-American students report a dominator more often than white American students, and lower course grades predict more dominator reports](demographics-predict-dominator-reporting.md) — related
+- [Race and ethnicity receive meaningful but unclustered attention, with indigenous and multiracial student populations neglected](race-ethnicity-considered-indigenous-multiracial-neglected.md) — related

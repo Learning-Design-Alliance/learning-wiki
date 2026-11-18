@@ -27,7 +27,7 @@ sources:
 # Understanding must be cultivated through exploration, not described or told
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (14 for, 5 mixed, 4 against) · 27 studies (8 causal, 5 review, 4 quant-synthesis, 4 design, 3 qualitative, 3 theoretical), `q1`–`q4` · 5 of 27 report an effect size · 18 claims rest on one study
+> **Evidence** · 25 claims (16 for, 5 mixed, 4 against) · 28 studies (8 causal, 5 review, 5 design, 4 quant-synthesis, 3 qualitative, 3 theoretical), `q1`–`q4` · 5 of 28 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -130,6 +130,8 @@ Learners, domains and outcomes differ across these claims (children learning a s
 - [Critical Temper Weakest On Basic Prejudices](../claims/critical-temper-weakest-on-basic-prejudices.md) [+W]
 - [Objections Stage Most Difficult Crito](../claims/objections-stage-most-difficult-crito.md) [+W]
 - [Grammar consciousness-raising activities produce significantly higher grammar posttest scores than deductive grammar teaching for young EFL learners](../claims/gcr-activities-significant-posttest-advantage-young-efl.md) [+W] — attached 2026-11-01 from Hamidreza Fatemipour et al. (2015), which proposed "Six-step inductive grammar consciousness-raising activity sequence"; tests this page's relationship.
+- [Engaging students in crafting definitions from the ground up is posited to build student agency around definitions and reveal definitions as human constructions](../claims/crafting-definitions-builds-agency-definitions-as-human-constructions.md) [+W] — attached 2026-11-18 from Angela Little et al. (2017), which proposed "Engage students in crafting definitions themselves because scientists create, refine, and debate definitions as part of scientific practice".
+- [Even reformed introductory physics curricula rarely engage students in extended crafting of their own definitions](../claims/reformed-physics-curricula-rarely-craft-definitions.md) [+W] — attached 2026-11-18 from Angela Little et al. (2017), which proposed "Engage students in crafting definitions themselves because scientists create, refine, and debate definitions as part of scientific practice".
 
 ## Objective and learner-valued goal
 

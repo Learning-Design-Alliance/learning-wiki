@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/irt-mirt-enem-score-validation.md
+---
+
+# Revision history: [claims/irt-mirt-enem-score-validation](../claims/irt-mirt-enem-score-validation.md)
+
+### 2026-11-18 · ingest · process:wiki-ingest
+Ingested from arxiv-1802.09880 (Dificuldades na aprendizagem de F\'isica sob a \'otica dos resultados do Enem / Physics learning difficulties from the perspective of ENEM results) via eval_harness.py + ingest_extractions.py

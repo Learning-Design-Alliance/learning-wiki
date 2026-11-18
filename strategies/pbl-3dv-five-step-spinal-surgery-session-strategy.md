@@ -50,6 +50,7 @@ The article details a five-part implementation: preparing typical spinal cases w
 ## Related Strategies
 
 - [Structure PBL sessions around case-specific 3D-printed models with teacher-facilitated group inquiry and self- and peer-assessment](3dp-integrated-pbl-session-structure-strategy.md)
+- [Use PBL-structured case studies to teach emerging, rapidly changing fields like nanotechnology](pbl-case-studies-emerging-fields-strategy.md)
 
 ## Examples
 -

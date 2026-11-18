@@ -47,6 +47,7 @@ The article recommends that before running discovery learning, teachers form gro
 - [Assign small mixed-ability groups and manage group functioning and rotation for collaborative feedback tasks](small-mixed-ability-groups-for-cfts.md)
 - [Structure mutual learning teams with heterogeneous ability within teams and equality across teams](mutual-learning-heterogeneous-team-formation.md)
 - [Use concrete props and algebraic patterns to scaffold analogical skill in geometry discovery lessons](props-and-algebraic-patterns-analogy-scaffolding.md)
+- [Engage stronger students as informal tutors of weaker peers within a mixed-ability cohort](informal-tutoring-mixed-ability-strategy.md)
 
 ## Examples
 -

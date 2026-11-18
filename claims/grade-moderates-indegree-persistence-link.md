@@ -70,3 +70,4 @@ The same likelihood ratio comparison showed "Full models remained better ﬁts f
 - [Outdegree centrality emerges earliest and is the best available predictor of final grade early in the semester](outdegree-earliest-predictor.md) — related
 - [In a Modeling Instruction physics course, classroom network centrality predicts final course grade over and above prior GPA for three of four centrality measures tested](centrality-predicts-grade-beyond-gpa.md) — related
 - [Betweenness centrality shows no statistically significant association with persistence in MI courses](betweenness-null-persistence.md) — related
+- [Final grade positively predicts persistence overall, but grades in the middle of the pack show no statistically significant correlation with persistence](final-grade-predicts-persistence-except-intermediate.md) — related

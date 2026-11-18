@@ -52,3 +52,4 @@ Linear models visualized in Figure 4 predicting course grade from GPE as a funct
 - [Female medical laboratory sciences students earn significantly higher average final grades than male students in the same courses](female-medical-lab-sciences-students-higher-grades.md) — related
 - [Gender differences in undergraduate physics course grades were minimal and statistically insignificant after controlling for prior academic performance](gender-gap-physics-grades-minimal-controlling-gpe.md) — related
 - [Female students earn lower grades than equivalently prepared male counterparts in most courses studied (β −0.021 to −0.133; up to 0.303 grade points lower)](gender-gap-upper-level-life-science-courses.md) — related
+- [Sample 1 female students earned somewhat higher course grades than male students despite lower FCI scores](fci-female-course-grades-higher.md) — related

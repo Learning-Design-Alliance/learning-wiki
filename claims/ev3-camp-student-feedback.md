@@ -49,3 +49,4 @@ Post-camp feedback survey of the 9 students covering challenges, instructor help
 - [Most middle and high school students surveyed after classroom retrieval practice programs viewed them positively and said frequent retrieval practice helped them feel less nervous about exams](students-report-classroom-retrieval-practice-helps-learning-and-reduces-exam-nervousness.md) — related
 - [The camp team qualified for the World Robot Olympiad India national championship from a fiercely competitive 23-team regional round](ev3-camp-team-wro-qualification.md) — related
 - [Collaboration skills improved for 7 of 9 camp students, but 2 students remained ineffective group members](ev3-camp-collaboration-gains-mixed.md) — related
+- [Students reported satisfaction with the Lego camp and showed observed improvements in motor, creative, social and communication skills](lego-camp-student-satisfaction-observed-gains.md) — related

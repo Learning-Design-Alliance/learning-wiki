@@ -64,3 +64,4 @@ Chi-squared tests on profile membership of the 191-teacher sample showed "the pr
 - [Self-reported competence was significantly associated with campus and year of study, but not with age or gender.](namibia-competence-campus-year-association.md) — related
 - [Cluster membership is not associated with teacher sex, department, work experience, or hospital level](cluster-membership-no-demographic-association.md) — related
 - [Age correlates with self-assessed competency, but the association disappears after adjusting for length of service; sex, education and professional membership show no association](age-correlates-self-assessed-competency-not-after-service-adjustment.md) — related
+- [Inferential analysis found no significant differences in knowledge across the demographic variables examined](no-significant-differences-demographic-variables.md) — related

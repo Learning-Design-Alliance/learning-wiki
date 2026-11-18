@@ -51,3 +51,4 @@ Narrative review synthesis of the formal-school literature. The authors state th
 - [A structured-inquiry remote telescope evaluation showed highly significant gains in astronomical understanding and reduced alternative conceptions, with perception gains varying dramatically between schools](csurtp-eye-observatory-evaluation-gains.md) — related
 - [Authentic research experiences through the Global Telescope Network increased high school interns' interest in science and science careers](gtn-interns-interest-grew.md) — related
 - [Evidence favoring student-centered pedagogy has not translated into widespread faculty adoption, and neither data provision nor workshops has proven sufficient](pedagogical-change-data-workshops-insufficient.md) — a broader claim this one bears on
+- [Faculty experience with computation has grown over the last decade but does not translate fully into formal courses](computation-experience-grew-not-translated-to-courses.md) — related

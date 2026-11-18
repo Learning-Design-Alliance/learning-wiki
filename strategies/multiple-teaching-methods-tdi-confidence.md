@@ -52,6 +52,7 @@ The article recommends diversifying TDI teaching beyond traditional classroom: "
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
 - [Incorporate interactive learning methods such as team-based learning into e-learning for lower-performing students](team-based-learning-for-low-grades-e-learning.md)
 - [Diversify learners' virtual clinical exposure with alternative virtual learning experiences such as virtual patients and virtual OSCEs](alternative-virtual-learning-experiences-vc.md)
+- [Explore unexplored taxonomy quadrants by combining artificial characters with digital media and augmented reality](explore-artificial-characters-digital-media-quadrants.md)
 
 ## Examples
 -

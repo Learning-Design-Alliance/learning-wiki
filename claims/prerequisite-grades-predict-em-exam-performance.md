@@ -65,3 +65,4 @@ Table II row for the combined prerequisite-grade variable: an average Pearson co
 
 ## Related Claims
 - [Homework and reading completion predicted final exam performance more strongly under the formative format](homework-reading-predictors-formative-format.md) — related
+- [Final exam score had the highest correlation with total course score among course assessments, making it the best predictor of course performance](final-exam-highest-course-grade-correlation.md) — related

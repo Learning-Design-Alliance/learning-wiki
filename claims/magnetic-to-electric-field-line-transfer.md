@@ -49,3 +49,4 @@ Mandi used her middle school knowledge of magnetic field lines to reason that el
 - [Students' reasoning about electric fields is variable and context-sensitive rather than fixed](student-reasoning-variability-context-sensitive.md) — a broader claim this one bears on
 - [Students express that electric interactions are stronger when charges are closer and that charges have a range of effect](electric-interaction-strength-varies-with-distance.md) — related
 - [Guanhua developed his understanding of superposition of electric forces during the interview, showing forces act simultaneously](superposition-understanding-developed-in-interview.md) — related
+- [Students conflate magnetic poles with electric charges, failing to distinguish a bar magnet from an electric dipole](electric-magnetic-dipole-confusion.md) — related

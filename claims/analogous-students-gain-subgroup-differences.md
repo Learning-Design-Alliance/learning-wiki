@@ -50,3 +50,4 @@ Analysis of individual normalized gains for 613 analogous FT/TM student pairs, r
 - [The effect of flip teaching on laboratory grades does not interact with students' final-grade level (high vs low).](no-method-by-grade-level-interaction.md) — reports the opposite
 - [Flip teaching in laboratory sessions produces significantly higher laboratory grades than traditional methodology in Physics and Electricity courses.](flipped-lab-teaching-higher-lab-grades.md) — related
 - [Institutional type (Carnegie classification) does not affect normalized gain after controlling for teaching method and test](carnegie-type-no-effect-on-gain.md) — related
+- [Initial performance affected post-test scores, but low and high initial performers gained equally in normalized learning gain](klm-fa-learning-gain-initial-performance.md) — reports the opposite

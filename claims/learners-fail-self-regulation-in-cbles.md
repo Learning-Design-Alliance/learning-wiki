@@ -51,3 +51,4 @@ The dissertation reports, citing Azevedo & Cromley (2004) and Roll et al. (2005)
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — related
 - [When AI assistance is withdrawn, student performance tends to decline, revealing a lack of internalized learning strategies](ai-assistance-withdrawal-performance-decline.md) — a narrower finding that bears on this claim
 - [Metacognitive prompting increases domain-general metacognitive SRL activities (goal specification and strategic planning) in young learners in a CBLE](prompting-increases-domain-general-metacognitive-srl.md) — a narrower finding that bears on this claim
+- [Learning environments have a decisive impact on teaching processes and students' own learning.](enhanced-learning-environments-positive-impact.md) — related

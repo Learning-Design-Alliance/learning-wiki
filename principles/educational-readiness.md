@@ -13,7 +13,7 @@ generated:
 # Educational Readiness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (15 for, 8 mixed) · 25 studies (8 associational, 7 review, 3 causal, 2 qualitative, 2 design, 2 theoretical, 1 quant-synthesis), `q1`–`q4` · 1 of 25 report an effect size · 21 claims rest on one study
+> **Evidence** · 24 claims (15 for, 9 mixed) · 26 studies (9 associational, 7 review, 3 causal, 2 qualitative, 2 design, 2 theoretical, 1 quant-synthesis), `q1`–`q4` · 1 of 26 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -118,6 +118,7 @@ Claims the earlier page cited that the model above does not use as evidence for 
 - [A year of West Virginia Pre-K produced substantial gains in print awareness at kindergarten entry, and the program meets all 10 NIEER quality standards](../claims/wv-prek-print-awareness-gains.md) [+W] — a state case study reporting researchers' finding second-hand; bears on programmes that raise readiness, not on the entry decision.
 - [Difficulty adjusting to kindergarten and first grade can put young children at academic risk](../claims/kindergarten-transition-difficulty-academic-risk.md) [+W] — a fact sheet's assertion with no data; used in the situation table only as a reason to plan the transition.
 - [Number naming and number comparison are better predictors of kindergarten arithmetic than number line estimation](../claims/number-naming-comparison-better-predictors-than-number-line-estimation.md) [+W] — attached 2026-10-17 from Praet et al. (2013), which proposed "Assess kindergarten language and number naming to inform targeted instruction and interventions for children at risk of arithmetic difficulties".
+- [The prerequisite test model did not statistically significantly predict performance in the second game, G2, limiting generalizability](../claims/g2-model-not-significant-generalizability-limited.md) [~W] — attached 2026-11-18 from Valdemar Švábenský et al. (2018), which proposed "Dissolve prerequisite assessment into the game's story, with levels each targeting a single learning outcome so prerequisites can be tested before or during that level"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

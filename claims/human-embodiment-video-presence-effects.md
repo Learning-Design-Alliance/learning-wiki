@@ -118,3 +118,4 @@ Narrative review attributing to Li, Kizilcec, Bailenson, and Ju (2016) an examin
 - [A conversational, first-person script style increases engagement and attention compared with a formal presentation style](conversational-script-style-engagement.md) — related
 - [Instructor visibility in video is mixed: a visible talking head may add distraction and lower retention, though brief on-camera introductions may increase engagement](talking-head-mixed-evidence.md) — related
 - [Participants perceived video as well-suited to displaying clinical procedures, though this was not tested by the intervention](vp-pbl-video-suited-procedures-perception.md) — related
+- [Human embodiment findings: learners prefer human over robot presenters, and face presence shows no significant learning difference (as reported by the review)](human-embodiment-presence-findings.md) — possibly the same claim (merge candidate)

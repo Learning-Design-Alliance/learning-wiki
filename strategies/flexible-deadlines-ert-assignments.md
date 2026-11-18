@@ -47,6 +47,7 @@ The article recommends designing assignments with more flexible deadlines in ERT
 - [Rethinking Accountability](rethinking_accountability.md)
 - [Establish reciprocal communication with learners to understand their contexts and create equitable online experiences](reciprocal-communication-equitable-ert.md)
 - [Ensure timely responses to student inquiries and prompt feedback on assignments during ERT](timely-response-prompt-feedback-ert.md)
+- [Add structure and supports for struggling online learners, such as an early strategies module and flexible deadlines with incentivized content ordering](structure-supports-struggling-online-learners.md)
 
 ## Examples
 -

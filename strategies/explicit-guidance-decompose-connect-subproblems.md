@@ -53,6 +53,7 @@ The article recommends that analogical-reasoning activities with solved examples
 - [Explicit Teacher Modeling](explicit_teacher_modeling.md)
 - [IDEAL Problem-Solving Model](ideal-problem-solving-model.md)
 - [Break synthesis clicker questions into separate sub-questions before combining them into one question](break-synthesis-clickers-into-sub-problems.md)
+- [Explicitly teach a divide-and-conquer problem-solving approach and pair quantitative with conceptual problems on the same physics principle](divide-and-conquer-paired-problems-magnetism.md)
 
 ## Examples
 -

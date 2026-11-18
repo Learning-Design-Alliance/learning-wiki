@@ -57,3 +57,4 @@ Continuous-variable HLM models (Model 2, Table 4) predicting six-year graduation
 - [Both HSGPA and ACT scores leave large high school effects on college graduation unexplained, which the study recommends measuring and publishing directly](high-school-effects-beyond-gpa-and-act.md) — related
 - [School-average ACT scores strongly predict individual college graduation, doubling the odds per standard deviation](school-average-act-predicts-graduation.md) — related
 - [Higher HSGPA and higher mathematics and chosen-subject matura scores significantly increase the predicted probability of graduation.](hsgpa-math-chosen-subject-increase-graduation-probability.md) — related
+- [High school performance and standardized test scores showed little signal for predicting STEM attrition, in contrast to previous research](pre-college-measures-weak-signal-stem-attrition.md) — related

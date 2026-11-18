@@ -89,3 +89,4 @@ Narrative review attributing this to Lafay et al. (2021): third and fifth grader
 - [Visualizing support—provided diagrams or learner-generated drawings—facilitates higher-quality explanations and better comprehension than explaining text alone](visualizing-support-facilitates-explaining.md) — related
 - [Observing and producing gestures can enhance comprehension of verbal messages including narratives](gesture-enhances-verbal-comprehension-established.md) — related
 - [Dynamic training shifts children's verbal explanations: fewer non-inductive and more full-inductive explanations, but no significant change for no-answer or partial-inductive categories](dynamic-training-verbal-explanation-shifts.md) — related
+- [Students build new meaning onto durable representations using evanescent representations during problem solving](students-build-meaning-on-durable-representations-with-evanescent.md) — related

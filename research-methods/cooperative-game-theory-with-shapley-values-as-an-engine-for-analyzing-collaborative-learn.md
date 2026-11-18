@@ -34,4 +34,4 @@ The article establishes its model on cooperative game theory, in which "a group 
 - [Coordination-based evolutionary game-theoretic framework of student AI use in assessment](coordination-based-evolutionary-game-theoretic-framework-of-student-ai-use-in-assessment.md)
 
 ## Key Sources
-- Taraman, S., Hassan, Y., Shawky, D., & Badawi, A. (2016). Employing Game theory and Multilevel Analysis to Predict the Factors that Affect Collaborative Learning Outcomes: An Empirical Study.
+- Taraman, S., Hassan, Y., Shawky, D., & Badawi, A. (2016). Employing Game theory and Multilevel Analysis to Predict the Factors that Affect Collaborative Learning Outcomes: An Empirical Study. [doi:10.48550/arxiv.1610.05075](https://doi.org/10.48550/arxiv.1610.05075)

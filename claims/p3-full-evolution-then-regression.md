@@ -48,3 +48,4 @@ DEAF analysis of a single question probing displacement viewed from the velocity
 - [Global DEAF analysis of tutorial-based instruction reached maximum performance and homogeneity of approximately (0.75, 0.75) at the ninth application, coinciding with the exam date](deaf-global-maximum-075-at-exam-date.md) — a broader claim this one bears on
 - [A concept probing graphical interpretation of velocity vs time from a narrative perspective failed to evolve, oscillating between partially clear and confused across applications](p2-concept-fails-to-evolve-oscillating.md) — related
 - [A student confounded a quantity decreasing with its rate of decrease, mistaking a linear v-t graph for 'velocity decreasing at a decreasing rate'](student-confusion-slope-versus-height-of-graphs.md) — related
+- [ENEM 2012_Q60 shows completers still confuse position with velocity and struggle to represent motion graphically](enem-position-velocity-confusion-2012-q60.md) — related

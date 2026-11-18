@@ -43,6 +43,7 @@ To insert light pollution academically, the article leverages UTN's federal stru
 
 - [Present light pollution through a causes-effects-consequences scheme so the problem is not relegated to astronomers and amateur observers](causes-effects-consequences-presentation-scheme.md)
 - [Approve the course through integrative final projects applied to concrete engineering problems of the local specialty and region](regional-applied-final-projects.md)
+- [Train interested teachers to run the astronomy discovery sessions themselves to make the project sustainable](teacher-led-training-scheme-sustainability.md)
 
 ## Examples
 -

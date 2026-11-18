@@ -50,3 +50,4 @@ Numerical binomial analysis of the 25X grade data: per-bin A-grade probabilities
 - [Mathematics and physics show modest evidence of a cognitive threshold: no student with SAT-M below roughly 600 attained GPA above 3.5](cognitive-threshold-math-physics-satm-600.md) — possibly the same claim (merge candidate)
 - [Average grades in the calculus-based physics course 25X show an almost identical threshold at SAT-M just below 600](phys-25x-threshold-sat-m-600.md) — related
 - [The SAT-M 600 threshold implies demographic ratios among successful Physics and Mathematics students will be highly skewed](sat-m-threshold-demographic-implications.md) — related
+- [PER research subjects are better prepared mathematically than the overall population of introductory physics students](per-subjects-stronger-math-preparation.md) — related

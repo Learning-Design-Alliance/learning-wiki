@@ -50,3 +50,4 @@ Subgroup analysis of the fourth-year exams that alternated grading format before
 - [Fifth-year students permanently switched from Tiered to Pass/Fail grading failed more often (3.6% vs 1.1%)](permanent-switch-fifth-year-fail-rate-increase.md) — related
 - [Tiered grade exam levels showed no semester differences and no time trend at fourth year](tiered-grades-stable-across-semesters-and-time.md) — related
 - [Grading format at fourth- and fifth-year exams did not change final licensing exam performance](grading-format-no-effect-licensing-exam-grades.md) — related
+- [Traditional exams behave like implicit tiered assessment but retain workload, anxiety and grade-inflation problems](traditional-exams-pass-at-fifty-percent-dilutes-competence-evidence.md) — related

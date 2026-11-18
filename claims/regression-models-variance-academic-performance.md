@@ -51,3 +51,4 @@ Six multiple linear regression models were developed with basic course grades, p
 - [Demographics and study approaches together explain 27.5% of exam grade variance, with learning environment adding little](grade-variance-27-percent-model-ot.md) — related
 - [Regression analysis identifies age, high school grades, and test scores as significant GPA predictors, with the final model explaining about 31.58% of variance](regression-predictors-dental-gpa-model.md) — related
 - [Multi-predictor regression models of total grade scores explain 30.5% of variance in females but only 4.3% in males](regression-fitness-academics-gender-variance.md) — a narrower finding that bears on this claim
+- [The final model explains 5% of student-level, 44.8% of school-level, and 13.6% of total variance in math achievement](final-model-variance-explained-taiwan-math.md) — related

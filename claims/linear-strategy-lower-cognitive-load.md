@@ -48,3 +48,4 @@ Mixed-effects models predicting outcomes from review strategy proportions in the
 - [Fifth graders review videos mostly linearly forward, whereas review of illustrated texts combines varied strategies](review-strategies-vary-by-modality.md) — related
 - [Faster initial-pass studying rate predicted better retention, delayed retention, and transfer and lower cognitive load, but the effect was mostly due to modality](faster-studying-rate-predicts-outcomes-and-load.md) — related
 - [Fifth and sixth graders showed higher delayed retention and lower cognitive load when learning science from videos than from illustrated texts](video-better-retention-lower-load-classroom.md) — related
+- [Passing students progress linearly through Habitable Worlds content while failing students show a hub-and-spoke pattern of going to quizzes first](passing-linear-failing-hub-spoke-habitable-worlds.md) — related

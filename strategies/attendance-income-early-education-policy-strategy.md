@@ -46,6 +46,7 @@ The article recommends intervening on the factors its adjusted model identified 
 
 - [Federal strategy to expand access to integrated, inclusive ECE through child care funding, universal preschool, Head Start alignment, and inclusive special education](federal-strategy-integrated-inclusive-ece-access.md)
 - [Reduce families' dependence on private education or expand access to high-quality learning resources for lower-income youth](reduce-private-education-dependence-policy-korea.md)
+- [Design tailored policies improving well-being, health, income and family education for low-income students, plus empowerment policies for Black, Pardo and Indigenous students](tailored-socioeconomic-achievement-gap-policies.md)
 
 ## Examples
 -

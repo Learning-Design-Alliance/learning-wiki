@@ -49,3 +49,4 @@ Written responses from 131 students to a question probing understanding of stati
 - [Introductory students treat the frictional force as governed by a special formula (e.g., equal to μsN), applying it even when they have correctly derived the equilibrium value.](friction-special-formula-belief.md) — related
 - [Among 131 students answering both problems in a work-on-ramp isomorphic pair, correct-answer rates fell from 65% on the frictionless ramp work problem to 27% on the rough-ramp problem](ipp-work-ramp-friction-distractor.md) — related
 - [Many algebra-based students could not use the static friction inequality scaffold, with half stating the coefficient of friction was needed to solve the problem](algebra-students-struggle-inequality-scaffold.md) — related
+- [On ENEM 2010_Q81 on buoyancy, misconceptions about weight reduction and force balance were present in nearly half of respondents](enem-buoyancy-misconceptions-2010-q81.md) — related

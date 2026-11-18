@@ -101,3 +101,4 @@ Variance-component comparison between the combined HSGPA-plus-ACT model and the 
 - [College graduation rates vary significantly across high schools among students with the same HSGPA, and about one-fourth of that school-level variation is induced by comparing students with similar HSGPAs](school-variance-same-hsgpa-graduation.md) — related
 - [Both admission tests show substantial incremental validity over high-school GPA for predicting preclinical performance, whereas GPA adds little beyond admission test scores](admission-tests-incremental-validity-over-gpa.md) — reports the opposite
 - [HSGA, APT and ACT scores were each significantly positively associated with cumulative GPA at graduation](admission-scores-positively-associated-gpa.md) — related
+- [High school performance and standardized test scores showed little signal for predicting STEM attrition, in contrast to previous research](pre-college-measures-weak-signal-stem-attrition.md) — related

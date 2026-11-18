@@ -51,3 +51,4 @@ Comparison of Table IV response mappings for the Force Sled cluster with Thornto
 - [Student answers depend on the representational format and context of FMCE questions](fmce-representational-contextual-dependence.md) — related
 - [A majority of M&I students (71%) and half of traditional students (50%) incorrectly asserted a net force in the direction of the elevator's motion](net-force-in-direction-of-motion-error.md) — related
 - [The 'motion implies force' preconception — confusion between velocity and net force — is pervasive among students even after instruction](motion-implies-force-preconception.md) — related
+- [ENEM force-and-motion items (2013_Q87, 2014_Q67, 2014_Q82) show persistent non-scientific conceptions that force is proportional to velocity and that motion requires a continuous force](enem-force-motion-misconceptions-2013-2014.md) — related

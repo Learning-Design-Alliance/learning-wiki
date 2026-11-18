@@ -52,3 +52,4 @@ Empirical verification on the 911-candidate, 50-item Selection Test data. The co
 - [Intersection point k0 of item difficulty and discriminating curves provides a data-driven item-deletion criterion](k0-intersection-item-deletion-criterion.md) — related
 - [Test difficulty value defined as ratio of observed to maximum score vector length times cosine of their angle equals test mean divided by number of items](test-difficulty-value-cosine-definition.md) — related
 - [Accuracy and the proportion of high bets decrease with increasing discrimination difficulty in both domains](difficulty-reduces-accuracy-and-high-bets.md) — related
+- [Graph-based items on Wien's law and the luminosity-area-temperature relationship discriminate best between high- and low-ability Astro 101 students](graph-based-wien-items-discriminate.md) — related

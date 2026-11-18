@@ -51,3 +51,4 @@ Quantitative feedback collected via Microsoft Forms Likert-scale questionnaire f
 - [The hybrid viva-voce format had the strongest association between examiners' scores, with a correlation coefficient of 0.496](hybrid-strongest-examiner-score-correlation.md) — related
 - [Student and examiner satisfaction is high for structured and virtual oral formats (72–96% agreement), with preference for SOEs over traditional viva](high-satisfaction-structured-oral.md) — related
 - [Candidates and examiners reported satisfaction, perceived fairness and trust in a remotely conducted high-stakes viva voce examination](post-exam-survey-satisfaction-fairness-trust.md) — related
+- [Students expressed a preference for combined assessment techniques over a single format](students-prefer-combined-assessment-formats.md) — possibly the same claim (merge candidate)

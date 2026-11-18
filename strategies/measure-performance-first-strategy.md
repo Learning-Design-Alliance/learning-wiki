@@ -42,7 +42,8 @@ The APC devotes a half-day lesson to performance measurements and multi-core/SIM
 - [APC participants rated the course content as relevant to their work and would recommend it](../claims/apc-survey-relevance-recommendation.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Extension activities: building code from scratch, measuring runtime, the Verlet algorithm, and multi-body extensions](simulation-course-extension-activities.md)
 
 ## Examples
 -

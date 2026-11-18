@@ -52,3 +52,4 @@ Authors' interpretation of coded reflection excerpts, including one student desc
 - [During the course, curiosity, enjoyment, confusion and anxiety decreased over time, boredom increased, and surprise and frustration remained stationary.](time-trends-epistemic-emotions-decline-course.md) — related
 - [Positive emotive scales of the POS show neutral responses and lower agreement than research-based biology courses, conflicting with items 1-10](pos-emotive-scales-neutral-conflicting.md) — related
 - [Students in an upper-division physics lab course with self-chosen group final projects show high levels of project ownership on POS items 1-10](pos-items-1-10-high-ownership-lasers-course.md) — related
+- [Student ownership is characterized by a wide range of emotions that fluctuate as students alternate between extended struggle and moments of success](ownership-emotions-fluctuate-struggle-success.md) — related

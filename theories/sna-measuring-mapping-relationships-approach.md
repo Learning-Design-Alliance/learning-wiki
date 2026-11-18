@@ -45,6 +45,7 @@ The brief presents social network analysis as a methodological approach for prog
 
 - [Use SNA in both process and outcome evaluations of programs](../strategies/sna-process-and-outcome-evaluations-strategy.md)
 - [Use SNA at the whole-network level to study all ties within a defined group](../strategies/sna-whole-network-defined-group-strategy.md)
+- [Use SNA on classroom video to identify groups and individuals interacting in unexpected ways and assess program community goals](../strategies/sna-video-unexpected-behavior-strategy.md)
 
 ## Key Sources
 - Todd Honeycutt. (2009). Making Connections: Using Social Network Analysis for Program Evaluation. Princeton, NJ: Mathematica Policy Research. https://www.mathematica.org/publications/making-connections-using-social-network-analysis-for-program-evaluation

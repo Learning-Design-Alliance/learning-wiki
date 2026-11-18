@@ -49,3 +49,4 @@ Descriptive analysis of ENEM 2009 microdata (Fig. 7, Annex 1, Part 2) covering 2
 - [ENEM 2009 percent correct is lower on quantitative Physics items than on qualitative ones](enem-2009-quantitative-items-lower-correct.md) — related
 - [ENEM 2009-2011 Physics content distribution privileges electromagnetism, waves and thermal physics over mechanics](enem-physics-content-distribution-skewed.md) — related
 - [ENEM Physics items are predominantly qualitative, long for the available time, and generally well contextualized](enem-physics-items-predominantly-qualitative-long-contextualized.md) — related
+- [Secondary-school completers show persistent difficulties with basic physics concepts in mechanics, thermal phenomena and geometric optics on ENEM 2009–2014 items](enem-persistent-physics-concept-difficulties.md) — a narrower finding that bears on this claim

@@ -96,3 +96,5 @@ Course-level comparison of FCI results across years of the Harvard calculus-base
 - [Students show improved conceptual understanding of Einsteinian concepts after the Einstein-First program](einstein-first-improved-conceptual-understanding.md) — related
 - [Interactive engagement methods produced significantly higher QMCS scores than traditional teaching](interactive-engagement-higher-quantum-scores.md) — related
 - [P3 students earn FMCE normalized gains of 0.60, above the 0.10-0.35 range of traditional lecture-based instruction at MSU and comparable to other transformed interactive engagement classrooms.](p3-fmce-normalized-gain-060.md) — related
+- [CSEM learning gains in the Lecture/Studio-format second-semester IPLS course were strikingly larger than any gains measured in the course's traditional format](csem-gains-lecture-studio-larger.md) — related
+- [Students in the reformed Lecture/Studio IPLS course perform at least at the same level on the FCI as interactive-engagement classes teaching traditional content, so the biological focus did not reduce fundamental physics understanding](ipls-biological-focus-no-fci-decrease.md) — related

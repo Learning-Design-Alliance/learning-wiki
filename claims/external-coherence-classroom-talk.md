@@ -55,3 +55,4 @@ In one discussion section, while analyzing a mesh circuit problem, Michael reaso
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related
 - [Teachers' tendency to seek coherence between their intuitions and known correct answers was a key epistemological resource enabling their progress](coherence-seeking-epistemological-resource.md) — related
 - [Upper-division physics undergraduates commonly construct novel equations to model physical situations through intuitive understanding rather than formal derivation, as modeled by Sherin's symbolic forms](symbolic-forms-intuitive-equation-construction.md) — related
+- [Sighted classmates appreciated the additional tactile, 3D graphical and oral-explanation accommodations made for a blind student](sighted-students-appreciated-tactile-aids.md) — related

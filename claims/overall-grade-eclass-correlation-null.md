@@ -49,3 +49,4 @@ Correlational analysis pooling matched post-test E-CLASS scores and final grades
 - [E-CLASS scores correlate weakly with final course grade overall, with a significant but still weak correlation in beyond-first-year labs](eclass-convergent-validity-grades.md) — possibly the same claim (merge candidate)
 - [Favorable responses to the confirmatory-purpose E-CLASS item fluctuate little with grade in the first-year lab but show a downward trend in the BFY labs](q16-favorable-responses-grade-trend.md) — related
 - [Favorable responses to the 'I don’t enjoy doing physics experiments' item are evenly split among high-performing first-year students but decline with grade in the BFY labs](q7-enjoyment-item-grade-pattern.md) — related
+- [First-year physics lab students' overall E-CLASS scores decline significantly over one semester of instruction (d = −0.15)](fy-lab-e-class-overall-negative-shift.md) — related

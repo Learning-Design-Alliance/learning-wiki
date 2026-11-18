@@ -50,3 +50,4 @@ Group-level marginal inference on the luck variables of the CAT causal model, re
 - [Counterfactual probabilities of necessity and sufficiency quantify the causal effect of hints and skills on task performance](pn-ps-counterfactuals-help-and-skill-effects.md) — related
 - [Individualised counterfactual inferences estimate whether a specific student would have performed differently under different help conditions](individual-counterfactuals-student-help-conditions.md) — related
 - [The game rules combine knowledge and memory skills with a realistic element of luck](card-game-combines-knowledge-memory-luck.md) — related
+- [Designing pretests for cybersecurity games poses three challenges: calibrating questions to game-relevant skills, keeping the test short while informative, and embedding it in the game](three-challenges-prerequisite-testing-cybersecurity-games.md) — a broader claim this one bears on

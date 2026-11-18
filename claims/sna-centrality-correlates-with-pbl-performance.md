@@ -58,3 +58,4 @@ Pearson correlation analysis (RQ1) of student SNA parameters versus final grades
 - [SNA parameters predict final grade, with early (midterm) participation more predictive than whole-course data](sna-parameters-predict-grade-early-participation-more-predictive.md) — related
 - [Social network analysis holds promise for describing student learning communities and informing departmental support decisions](sna-promising-for-learning-communities.md) — related
 - [Closeness centrality is the strongest correlate of final grade, with a midsemester closeness measurement the best discovered predictor of end-of-semester grade](closeness-centrality-best-grade-predictor.md) — related
+- [Forum network centrality is positively correlated with final course grade in the two semesters with denser forum networks](forum-centrality-correlated-with-grade-dense-semesters.md) — a narrower finding that bears on this claim

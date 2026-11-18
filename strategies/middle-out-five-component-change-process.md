@@ -50,7 +50,8 @@ The middle-out approach guides departments through five inter-related components
 - [Supportive organizational cultures enhance self-directed learning practices among healthcare professionals, whereas restrictive policies hinder them](../claims/organizational-culture-enhances-sdl-hcp.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Shared-vision curriculum change process using index cards, individual faculty meetings, and staged faculty votes](shared-vision-curriculum-change-index-cards.md)
 
 ## Examples
 -

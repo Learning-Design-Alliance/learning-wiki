@@ -51,3 +51,4 @@ Linear regression of Spring SNA1 centralities on Fall centralities found three o
 - [Persistence in Modeling Instruction correlates significantly with whole-network centrality measures (betweenness and closeness) but not with ego-network measures such as degree](betweenness-closeness-persistence-mi.md) — related
 - [Classroom interaction networks shift over the semester from numerous seatmate ties to fewer, more selective cross-group connections](network-selection-effect-over-semester.md) — related
 - [Betweenness centrality shows no statistically significant association with persistence in MI courses](betweenness-null-persistence.md) — related
+- [Students with two semesters of Modeling Instruction report more out-of-class collaborative practice than students with one semester, especially for challenging problems and individual-exam preparation](two-semesters-mi-more-out-of-class-collaboration.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2017
+source_checked: 2026-11-18
 sources:
   - id: nathan-e-sanders-2017
     resource: "https://doi.org/10.1119/1.4991506"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r1` · `q1`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-18 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The lesson plans were developed iteratively: the materials were workshopped with 25 students and educators at the 229th AAS meeting in Grapevine, TX, and many specific teaching strategies came from those participants. [→ Nathan E. Sanders 2017](#nathan-e-sanders-2017)

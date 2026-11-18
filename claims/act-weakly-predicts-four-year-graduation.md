@@ -54,3 +54,4 @@ Four-year graduation models in Table 5 for the CPS sample; only about half as ma
 - [HSGPA has a strong, positive relationship with college graduation that does not vary significantly in its linear slope across high schools](hsgpa-strong-consistent-predictor-college-graduation.md) — related
 - [The linear slope of the HSGPA–college graduation relationship does not vary significantly across high schools, so HSGPA provides a consistent signal across schools](hsgpa-slope-consistent-across-schools.md) — related
 - [Higher HSGPA and higher mathematics and chosen-subject matura scores significantly increase the predicted probability of graduation.](hsgpa-math-chosen-subject-increase-graduation-probability.md) — related
+- [High school performance and standardized test scores showed little signal for predicting STEM attrition, in contrast to previous research](pre-college-measures-weak-signal-stem-attrition.md) — related

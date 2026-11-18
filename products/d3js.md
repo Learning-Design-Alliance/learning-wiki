@@ -27,6 +27,7 @@ An open-source JavaScript library maintained by the D3 community for binding dat
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **JavaScript with the d3.js library as a web-native module-development technology**: JavaScript is an interpreted scripting language whose functionality "will be familiar to users of other scripting languages popular among graduate student researchers, such as Python." The d3.js library ("Data Driven Documents") supports display of scientific data in formats from line plots and bar charts to network graph browsers and map projections. Scores of example pages with full source code and data files serve as templates for student module development. (Nathan E. Sanders et al. (2013))
+- **d3-scatterplot open-source visualization tool**: An interactive, in-house d3-based visualization developed alongside the research to let the subject matter expert inspect plots by hovering over points to reveal semantic meta-information such as the question name and lesson, with a colouring feature for categorical attributes like lesson. The article notes its features were similar to the commercial package Tableau but that it "is now open sourced to the community," with the benefit of being easily linked via URL in shared web documents. It served as the inspection interface for the skip-gram/t-SNE visualizations in the Habitable Worlds case study. (Pardos et al. (2018))
 
 ### Claims
 
@@ -35,8 +36,8 @@ An open-source JavaScript library maintained by the D3 community for binding dat
 
 ## Key Sources
 - Nathan E. Sanders, Chris Faesi, Alyssa A. Goodman. (2013). A New Approach to Developing Interactive Software Modules through Graduate Education. https://arxiv.org/abs/1308.1908
-
 <!-- merged 2026-10-10 from elements/javascript-d3-module-development-technology ("JavaScript with the d3.js library as a web-native module-development technology"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Pardos, Z. A., & Horodyskyj, L. (2018). Analysis of Student Behaviour in Habitable Worlds Using Continuous Representation Visualization. https://github.com/CAHLR/d3-scatterplot
 
 # JavaScript with the d3.js library as a web-native module-development technology
 

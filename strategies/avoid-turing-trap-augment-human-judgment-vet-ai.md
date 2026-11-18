@@ -43,6 +43,7 @@ The review's forward-looking recommendation is that "research and practice must 
 
 - [Ground AI integration in higher education on core principles of human agency, academic freedom, transparency, ethics, inclusivity, and critical thinking](core-principles-ai-integration-higher-education.md)
 - [Design AI tutors for complementarity across role paradigms and move beyond static prompting toward dynamic learner modeling](design-for-complementarity-and-dynamic-learner-modeling.md)
+- [Explore unexplored taxonomy quadrants by combining artificial characters with digital media and augmented reality](explore-artificial-characters-digital-media-quadrants.md)
 
 ## Examples
 -

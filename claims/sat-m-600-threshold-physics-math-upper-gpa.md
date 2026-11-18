@@ -54,3 +54,4 @@ Observational analysis of 2000-2004 University of Oregon student records, plotte
 - [SAT scores predict upper division in-major GPA with correlations of roughly 0.35 to 0.5 across majors at a broad-range state university](sat-predicts-upper-division-gpa-035-05.md) — a broader claim this one bears on
 - [A 50 percent or greater chance of graduate-school-level success in Physics or Mathematics requires SAT-M well above 700](sat-m-above-700-fifty-percent-success-chance.md) — related
 - [The SAT-M 600 threshold implies demographic ratios among successful Physics and Mathematics students will be highly skewed](sat-m-threshold-demographic-implications.md) — related
+- [PER research subjects are better prepared mathematically than the overall population of introductory physics students](per-subjects-stronger-math-preparation.md) — related

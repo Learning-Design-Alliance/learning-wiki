@@ -49,6 +49,7 @@ In the end-of-life care module, "students were divided into co-operative learnin
 
 - [Implement PBL as five-to-six-member student groups researching real-life wave problems and presenting solutions](pbl-group-problem-presentation-strategy.md)
 - [Follow experiential learning opportunities with open discussions focusing on emotional intelligence](open-discussions-emotional-intelligence.md)
+- [Use PBL-structured case studies to teach emerging, rapidly changing fields like nanotechnology](pbl-case-studies-emerging-fields-strategy.md)
 
 ## Examples
 -

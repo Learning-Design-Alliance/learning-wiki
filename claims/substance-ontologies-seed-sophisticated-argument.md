@@ -52,3 +52,4 @@ Close qualitative analysis of a videotaped small-group discussion among teachers
 - [Teachers' tendency to seek coherence between their intuitions and known correct answers was a key epistemological resource enabling their progress](coherence-seeking-epistemological-resource.md) — related
 - [On a clicker question about gravitational force on falling bodies, half of students answered that equal speeds require equal pulls, while more than 80% answered the reversed horizontal version correctly](clicker-equal-pulls-framing-error.md) — related
 - [Incorrect answers about gravity on the moon remained comparable pre- and post-course (26% vs 24%), a topic not directly assessed in the course](gravity-misconceptions-unchanged-not-assessed.md) — related
+- [Teachers noticed the problematic facets of the energy-as-substance metaphor resource but not the generative value of the metaphor resource itself](teachers-notice-facets-not-metaphor-resource.md) — related

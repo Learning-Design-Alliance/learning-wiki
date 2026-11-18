@@ -47,3 +47,4 @@ Benchmarking task in which 26 first-year physics graduate students in a TA train
 ## Related Claims
 - [Students given a partial diagram (empty tube) scored significantly worse on the standing-wave quiz than students prompted to draw a diagram or given no support](partial-diagram-intervention-worse-quiz-performance.md) — related
 - [Across most problems analyzed over the semester, no significant differences appeared between intervention groups, and diagram interventions never improved performance](no-group-differences-majority-of-problems.md) — related
+- [A student can stand fast on a developed durable representation and later translate to a second durable representation (mathematics)](stand-fast-then-translate-to-mathematics.md) — related

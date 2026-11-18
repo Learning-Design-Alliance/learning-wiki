@@ -51,3 +51,4 @@ Multilevel Model 1 results for interest in science. The Girl coefficient on pret
 - [The more girls endorse gender-interest stereotypes favoring boys, the lower their own interest in computer science and engineering, and interest stereotypes predict girls' interest more strongly than ability stereotypes](gender-interest-stereotypes-predict-girls-lower-interest.md) — related
 - [Web-based collaborative inquiry produces a small but significant improvement in students' interest in science](small-significant-interest-gain-web-inquiry.md) — related
 - [Switch-on Reading is almost equally effective for boys and girls (+0.26 and +0.23)](switch-on-similar-effect-boys-girls.md) — related
+- [Girls' interest in physics increased significantly more than boys' during the Year 9 Einsteinian physics program, moving from 50% to 80%](girls-attitude-gains-exceed-boys-year9.md) — related

@@ -51,6 +51,7 @@ When asking students to self-diagnose their problem solutions, provide a rubric 
 - [Use a written self-diagnosis reflection exercise after group problem solving to help students identify areas of struggle](post-problem-solving-self-diagnosis-reflection-strategy.md)
 - [Score self-diagnoses against both expert ideal knowledge and novice-perceived knowledge using RDS, SDS, and RSD columns](three-column-diagnosis-scoring-strategy.md)
 - [Erroneous Examples](erroneous_examples.md)
+- [Limit support during self-diagnosis (final answer only, with notes and textbooks) before providing the detailed solution, to promote productive struggle](struggle-first-self-diagnosis-final-answer-only.md)
 
 ## Examples
 -

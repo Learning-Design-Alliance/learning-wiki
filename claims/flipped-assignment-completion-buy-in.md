@@ -66,3 +66,4 @@ Appendix D trend and Table 6 show completion declining during weeks 6, 7, and 8 
 ## Related Claims
 - [Using at least one feature raised students' multiple choice question attempt rate to 89 percent and eliminated the drop on hard assignments, with a significant feature-use × difficulty interaction](readworks-feature-use-engagement-attempts.md) — related
 - [Pre-service teachers reported coming to class prepared and completing assignments in class as the flipped classroom's main positive aspects](fc-positive-aspects-participant-opinions.md) — related
+- [Teacher feedback identified software difficulty and lengthy instructions as barriers, with mid-course attendance dips recovering after weekly reminders](teacher-feedback-software-difficulty-attendance-dip.md) — related

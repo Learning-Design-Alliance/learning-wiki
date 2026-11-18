@@ -83,3 +83,4 @@ Assessment study comparing pre-instruction LCTSR scores of non-science majors in
 - [Non-science majors average an abysmal 38% on LCTSR questions testing hypothetico-deductive reasoning](non-majors-hypothetico-deductive-lctsr-38.md) — related
 - [Students' stated reasons for taking the introductory astronomy course were predominantly interest-based (95%), not utilitarian](interest-dominant-motivation-astronomy-course.md) — related
 - [The Lawson test is inadequate as a diagnostic of proportional reasoning as used in physics](lawson-test-inadequate-proportional-diagnostic.md) — related
+- [The CURrENT pre-test (54.3%, N=298) is a meaningful indicator of incoming preparation, correlating with CUE post-test scores and prior GPA](current-pretest-indicates-preparation.md) — related

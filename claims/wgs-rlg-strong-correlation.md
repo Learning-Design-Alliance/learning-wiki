@@ -49,3 +49,4 @@ Pearson correlation analysis between WGS and RLG scores across three µ calibrat
 - [Lower µ-values in the Weighted Gain Score produce larger learning gain estimates, while higher µ-values produce smaller estimates](wgs-mu-parameter-rescales-learning-gain.md) — related
 - [Both WGS and RLG detect the same significant interaction between teaching format and learning disposition in the empirical dataset](wgs-rlg-same-interaction-effect.md) — related
 - [The WGS yields interpretable results with very small sample sizes where Rasch-based approaches are not applicable](wgs-small-sample-advantage.md) — related
+- [Normalized gain g maps to a range of IRT-estimated gains roughly 1 logit wide for individual students, limiting g as an individual learning measure (r = 0.93 with Δθ)](delta-theta-vs-normalized-gain-individual.md) — related

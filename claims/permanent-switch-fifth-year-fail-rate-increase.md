@@ -50,3 +50,4 @@ Before-after comparison within the same fifth-year modules after the 2018 reform
 - [Pass/Fail exams in undergraduate medical education show a higher fail rate than Tiered grade exams (3.3% vs 2.0%)](pass-fail-higher-fail-rate-than-tiered-grades.md) — related
 - [Grading format at fourth- and fifth-year exams did not change final licensing exam performance](grading-format-no-effect-licensing-exam-grades.md) — related
 - [Tiered grade exam levels showed no semester differences and no time trend at fourth year](tiered-grades-stable-across-semesters-and-time.md) — related
+- [Traditional exams behave like implicit tiered assessment but retain workload, anxiety and grade-inflation problems](traditional-exams-pass-at-fifty-percent-dilutes-competence-evidence.md) — related

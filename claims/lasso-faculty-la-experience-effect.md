@@ -47,3 +47,4 @@ Continuous-variable HLM model (model 8) over the course-level sample (Table 2 re
 ## Related Claims
 - [Student quantum-thinking scores varied across the five faculty members' courses, with Eric's class highest (3.54 quantum, 2.00 classical)](class-level-variation-quantum-thinking-scores.md) — related
 - [Hand-off of Tutorials from one PER faculty member to another sustains statistically indistinguishable student learning gains](per-to-per-handoff-sustains-gains.md) — related
+- [Instructor effectiveness is maintained as instructors gain experience teaching with Learning Assistants](la-supported-instructors-maintain-effectiveness.md) — reports the opposite

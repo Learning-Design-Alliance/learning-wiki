@@ -49,3 +49,4 @@ Mutual information analysis in Table VII reports threshold values and chi-square
 - [Higher indegree, outdegree, and closeness at the end of a first-semester Modeling Instruction course predict enrolling in the second MI course](centrality-predicts-mi-persistence.md) — related
 - [Final grade adds predictive power beyond centrality for outdegree and closeness, but indegree no longer predicts persistence once grade is accounted for](grade-moderates-indegree-persistence-link.md) — related
 - [Higher degree, indegree and closeness centrality at the end of a first-semester mechanics Modeling Instruction course correlate with persistence in any second-semester physics](centrality-degree-closeness-persistence-physics.md) — related
+- [An out-of-class closeness threshold of about 0.14 separates intermediate-grade students with about 63% versus about 92% chances of persisting](closeness-threshold-0-14-persistence-chance.md) — related

@@ -58,6 +58,7 @@ Papert saw computers as giving children unprecedented power to explore what he c
 - [Mathbot's design framework: Constructionism combined with Reinforcement Learning Theory for adaptive AI-driven learning](../designs/mathbot-constructionism-reinforcement-framework.md)
 - [Own It, Learn It, Share It framework for student-centered learning](../designs/own-it-learn-it-share-it-framework.md)
 - [Broaden the design space of educational technologies for makerspaces beyond technical skill support](../strategies/makerspace-edtech-design-directions-strategy.md)
+- [Use embodied modeling activities to prepare and deepen agent-based programming, with perspective-taking across agent types](../strategies/embodied-modeling-before-agent-based-programming.md)
 
 ## Key Sources
 - Papert, S. (1980). *Mindstorms: Children, computers, and powerful ideas*. Basic Books.

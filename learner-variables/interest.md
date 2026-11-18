@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 297 claims (216 show a difference, 47 mixed, 34 no difference) · 204 studies (86 causal, 58 associational, 23 review, 19 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 52 of 204 report an effect size · 291 claims rest on one study
+> **Evidence** · 299 claims (217 show a difference, 47 mixed, 35 no difference) · 206 studies (87 causal, 58 associational, 23 review, 19 design, 7 quant-synthesis, 6 qualitative, 6 theoretical), `q1`–`q4` · 52 of 206 report an effect size · 293 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -332,6 +332,8 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Students in the interpretation-focused courses showed significantly greater post-instruction interest in quantum mechanics, with interest decreasing in the Realist/Statistical course.](../claims/interpretation-curriculum-promotes-quantum-interest.md) [+M] — measured as an outcome of the instruction studied
 - [Students find online feedback more enjoyable and useful than traditional feedback in undergraduate mathematical assessment](../claims/online-feedback-more-enjoyable-useful-than-traditional.md) [+M] — measured as an outcome of the instruction studied
 - [Students rated pre-class assignments that included a PhET activity as more enjoyable than text-only assignments](../claims/phet-preclass-enjoyment-higher.md) [+M] — measured as an outcome of the instruction studied
+- [Initial student interest in a project topic is not a necessary condition for ownership; interest and perceived value can increase over time](../claims/initial-interest-not-necessary-ownership-grows.md) [-M] — learners who differ on it differ in outcomes
+- [The Einstein-First programme improved students' interest in physics, with female students' interest rising from 50% to nearly match males' initial 80%](../claims/einstein-first-female-interest-increase.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

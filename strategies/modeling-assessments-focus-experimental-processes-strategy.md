@@ -45,6 +45,7 @@ Because iteration is common in lab activities, the authors argue that measuring 
 ## Related Strategies
 
 - [Design lab activities so that different activities or activity phases target different types of iteration](activities-target-different-iteration-types-strategy.md)
+- [Design modeling assessment items to elicit students' justifications for their modeling pathways](assessment-items-elicit-modeling-justifications.md)
 
 ## Examples
 -

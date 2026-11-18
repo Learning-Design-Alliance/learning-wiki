@@ -49,3 +49,4 @@ A couple of comments suggested that the lack of embodiment by the instructor, su
 - [Human embodiment in video: perceived social presence benefits learning ratings, but instructor-face inclusion shows no significant learning-performance difference, and learners prefer human over robot presenters with mixed recall](human-embodiment-video-presence-effects.md) — related
 - [Presentation slide visuals were the feature most cited by DHH students for facilitating learning](dhh-presentation-visuals-facilitate-learning.md) — related
 - [Teacher reports on embodying mindfulness online are mixed, with most reporting similar or greater embodiment](online-mbp-embodiment-mixed.md) — related
+- [Human embodiment findings: learners prefer human over robot presenters, and face presence shows no significant learning difference (as reported by the review)](human-embodiment-presence-findings.md) — related

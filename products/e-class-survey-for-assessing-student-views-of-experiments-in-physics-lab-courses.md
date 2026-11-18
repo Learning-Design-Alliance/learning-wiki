@@ -19,7 +19,7 @@ sources:
 # E-CLASS survey for assessing student views of experiments in physics lab courses
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 6 studies (4 associational, 2 design), `q2` · 5 of 6 report an effect size · 6 claims rest on one study
+> **Evidence** · 10 claims (8 for, 1 mixed, 1 against) · 7 studies (5 associational, 2 design), `q2`–`q3` · 6 of 7 report an effect size · 9 claims rest on one study
 
 ## Description
 E-CLASS is a pre/post survey assessment developed by physics education researchers to measure undergraduate students’ views, strategies, habits of mind, and attitudes concerning experimental physics.
@@ -35,6 +35,7 @@ E-CLASS is a pre/post survey assessment developed by physics education researche
 - **E-CLASS: the Colorado Learning Attitudes about Science Survey for Experimental Physics**: E-CLASS is a 30-item, Likert-style survey targeting students’ epistemologies, expectations, affect, and confidence regarding experimental physics. Items use a paired structure in which students rate agreement from their own perspective doing class experiments and that of a hypothetical experimental physicist. It was "validated through student interviews and faculty review, and has been tested for statistical validity and reliability using responses from a broad student population". This article analyzes a national E-CLASS data set for gender differences. (Bethany R. Wilcox et al. (2016))
 - **E-CLASS (Colorado Learning Attitudes about Science Survey for Experimental Physics)**: E-CLASS is a 30-item Likert-style survey measuring students' epistemologies and expectations about experimental physics, plus affect and confidence when doing experiments. Students rate prompts such as "Calculating uncertainties helps me understand my results better." from both their personal perspective and that of a hypothetical experimental physicist. It was validated through student interviews and expert review and tested for statistical validity and reliability across institutions and course levels, and is administered through a centralized system with a matched pre/post design. (Bethany R. Wilcox et al. (2016))
 - **E-CLASS: Colorado Learning Attitudes about Science Survey for Experimental Physics**: The E-CLASS is the survey instrument this study administers pre and post instruction in undergraduate physics lab courses. It is "a 30 item, Likert-style survey that targets students' epistemologies and expectations about the nature and importance of experimental physics", as well as affect and confidence. Students respond from their personal perspective and that of a hypothetical experimental physicist; scoring awards +1 for favorable, 0 for neutral, and −1 for unfavorable responses, giving a range of [−30, 30]. It was validated through student interviews, expert review, and statistical reliability testing across institutions and course levels. (Bethany R. Wilcox et al. (2016))
+- **E-CLASS survey for experimental physics**: The E-CLASS (Colorado Learning Attitudes about Science Survey for Experimental Physics) is a research-based, validated 30-item survey probing students' views about the nature and importance of experimental physics. Students rate agreement with statements such as "I am usually able to complete an experiment without understanding the equations and physics ideas that describe the system I am investigating," from both their own perspective in their lab course and the perspective of a hypothetical experimental physicist. It was reviewed by 23 practicing experimental physicists and validated with student interviews and statistical reliability testing. (Bethany R. Wilcox et al. (2017))
 
 ### Claims
 - [Survey participation was low in about half of administered classes, with only 20 of 45 classes exceeding 40% matched pre/post response](../claims/eclass-low-response-rates-half-of-classes.md) [-W]
@@ -44,6 +45,9 @@ E-CLASS is a pre/post survey assessment developed by physics education researche
 - [In the aggregate national E-CLASS data, women score significantly lower than men on overall scores both pre- and postinstruction, with a moderate effect size](../claims/eclass-aggregate-gender-gap-women-lower.md) [+M]
 - [Students in courses using open-ended lab activities score significantly higher on postinstruction E-CLASS than students in guided-lab-only courses](../claims/open-ended-labs-higher-post-eclass.md) [+M]
 - [First-year students in skills-focused lab courses had higher postinstruction overall E-CLASS scores than students in concepts-focused courses](../claims/skills-focused-labs-higher-post-eclas-scores.md) [+M]
+- [First-year physics lab students' overall E-CLASS scores decline significantly over one semester of instruction (d = −0.15)](../claims/fy-lab-e-class-overall-negative-shift.md) [+M]
+- [Beyond-first-year lab students' overall E-CLASS scores do not shift significantly over one semester](../claims/bfy-lab-e-class-no-significant-shift.md) [+M]
+- [Students accurately predict expert-like E-CLASS responses on more than 80% of items in both FY and BFY courses](../claims/students-accurately-predict-expert-responses.md) [+M]
 
 ## Related Products and Programmes
 
@@ -59,6 +63,7 @@ E-CLASS is a pre/post survey assessment developed by physics education researche
 - Bethany R. Wilcox and H. J. Lewandowski. (2016). Research-based assessment of students’ beliefs about experimental physics: When is gender a factor? https://arxiv.org/abs/1606.02629
 - Bethany R. Wilcox and H. J. Lewandowski. (2016). Open-ended versus guided laboratory activities: Impact on students' beliefs about experimental physics. arXiv:1608.01621. https://arxiv.org/abs/1608.01621
 - Bethany R. Wilcox and H. J. Lewandowski (2016). Developing skills vs reinforcing concepts in physics labs: Insight from E-CLASS. https://arxiv.org/abs/1611.02322
+- Bethany R. Wilcox and H. J. Lewandowski. (2017). Students’ views about the nature of experimental physics. https://arxiv.org/abs/1708.04226
 
 # E-CLASS survey for assessing student views of experiments in physics lab courses
 

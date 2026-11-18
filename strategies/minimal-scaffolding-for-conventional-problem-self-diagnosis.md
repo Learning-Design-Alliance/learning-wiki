@@ -17,7 +17,7 @@ sources:
 # Provide minimal external support (final answer plus notes/textbook) when the target problem is conventional and textbook-similar, to foster meaningful self-diagnosis
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 3 studies (3 causal), `q2`–`q3` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 4 studies (4 causal), `q2`–`q3` · 0 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 Based on the finding that heavy scaffolding may produce superficial self-diagnosis, the article's discussion suggests that for a conventional problem whose similar solutions appear in textbooks and notes, students can do "the hard work by themselves", and that the second stage of a meaningful intervention — realizing conflict between one's thought and the text — "might only be reflected and observed in the SD of students who received the minimal support". Instructors running self-diagnosis activities should therefore reserve rich scaffolds (worked examples, rubrics) for difficult problems lacking textbook-similar solutions.
@@ -52,6 +52,7 @@ Based on the finding that heavy scaffolding may produce superficial self-diagnos
 ## Related Strategies
 
 - [Use a written self-diagnosis reflection exercise after group problem solving to help students identify areas of struggle](post-problem-solving-self-diagnosis-reflection-strategy.md)
+- [Limit support during self-diagnosis (final answer only, with notes and textbooks) before providing the detailed solution, to promote productive struggle](struggle-first-self-diagnosis-final-answer-only.md)
 
 ## Examples
 -

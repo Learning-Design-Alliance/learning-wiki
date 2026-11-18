@@ -52,3 +52,4 @@ Survey analysis of learners in years 2 and 3 (N = 44 for the revisit pie charts,
 - [Participation gender gaps vary substantially from class to class, with females less likely to participate in 11 classes and more likely in one](participation-gaps-vary-by-classroom.md) — related
 - [Jigsaw's advantage over conventional instruction held for both male and female students, with no significant main effect of treatment on gender](jigsaw-gender-neutral-attitude-effect.md) — related
 - [Male students verbally participate more than female students in life sciences courses, with 32% of males versus 22% of females participating at least once per class](males-participate-more-than-females-life-sciences.md) — related
+- [Most students, and significantly more females than males, did not enjoy calculations, while both genders strongly preferred activity-based learning](students-dislike-calculations-prefer-activities.md) — related

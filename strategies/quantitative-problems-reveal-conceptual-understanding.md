@@ -47,6 +47,7 @@ The article recommends that instructors use "properly designed quantitative prob
 
 - [Connecting Concepts to Procedures](connecting_concepts_to_procedures.md)
 - [Learner-Generated Examples](learner-generated_examples.md)
+- [Explicitly teach a divide-and-conquer problem-solving approach and pair quantitative with conceptual problems on the same physics principle](divide-and-conquer-paired-problems-magnetism.md)
 
 ## Examples
 -

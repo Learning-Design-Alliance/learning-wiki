@@ -47,3 +47,4 @@ Coding analysis of percentage of exam points associated with tasks eliciting eac
 ## Related Claims
 - [The 3D-LAP distinguishes exams with potential to elicit three-dimensional learning from those that do not](3d-lap-distinguishes-exams.md) — a broader claim this one bears on
 - [Traditional assessment items almost never meet the scientific-practice criteria requiring evidence of student reasoning](reasoning-criterion-almost-never-met-traditional-items.md) — related
+- [No FCI items are three-dimensional; most FCI points reward one-dimensional core-idea questions](fci-no-three-dimensional-items.md) — related

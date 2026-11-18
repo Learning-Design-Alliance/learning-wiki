@@ -74,3 +74,4 @@ Authors' interpretation in the Interpretive Summary section, not a tested result
 - [Community partnerships steadily withdrew from the school after the intervention project lost support](partnership-withdrawal-after-project.md) — related
 - [Voluntary facilitator recruitment raised concerns about sustainability, fairness, and encroachment on research and promotion time](voluntary-cbl-recruitment-sustainability-concerns.md) — related
 - [Sustained PAL implementation depends on whole-school buy-in, senior leadership support and is shaped by external policy and parent factors](whole-school-leadership-external-factors-pal.md) — related
+- [Project-based funding for OER risks the resource becoming obsolete when the funding duration runs out](oer-project-funding-obsolescence.md) — related

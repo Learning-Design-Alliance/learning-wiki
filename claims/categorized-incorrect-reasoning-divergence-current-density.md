@@ -51,3 +51,4 @@ Categorization of written incorrect responses from Courses A-C, summarized in Ta
 - [On a midterm dipole question most students correctly located non-zero divergence at the sources, but many did not transfer this resource to the current-density context](dipole-midterm-correct-but-not-transferred.md) — related
 - [Across eight institutions, only 39% of 376 students correctly stated that ∇⋅J=0 inside the wire in CURrENT Q4(b)](thirty-nine-percent-correct-across-eight-institutions.md) — related
 - [Only 30% of electrodynamics students explicitly used boundary conditions on a conceptual question about the electric field outside a current-carrying wire](students-fail-activate-bcs-wire-context.md) — related
+- [More than half of students (51.2%) incorrectly answer whether the divergence of the steady current density inside a wire is zero](divergence-of-current-density-student-difficulty.md) — related

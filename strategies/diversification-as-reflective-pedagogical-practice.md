@@ -50,6 +50,7 @@ The article concludes that diversifying the philosophy curriculum is best pursue
 - [Representation of Diverse Perspectives and Identities](representation_of_diverse_perspectives_and_identities.md)
 - [Inclusive Cultural Response](inclusive_cultural_response.md)
 - [Culturally Responsive Curriculum Scorecards](culturally_responsive_curriculum_scorecards.md)
+- [Incorporate research methodology, learning psychology, and philosophy of education subjects into post-graduate curricular directives to improve teachers' reflection and pedagogic practice](postgraduate-curricular-subjects-strategy.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Observational plot of upper division in-major GPAs of UO physics and math gradua
 - [SAT scores predict upper division in-major GPA with correlations of roughly 0.35 to 0.5 across majors at a broad-range state university](sat-predicts-upper-division-gpa-035-05.md) — related
 - [Clark Honors College students average upper GPA 3.7 versus 3.2 overall, suggesting elite-university grades of B+/A- are not unreasonable grade inflation](honors-college-grade-inflation-estimate.md) — related
 - [ASTR122 total scores correlate with combined SAT score (R=0.49) and with overall college GPA (Pearson r = 0.65)](astronomy-course-score-correlates-sat-and-gpa.md) — related
+- [PER research subjects are better prepared mathematically than the overall population of introductory physics students](per-subjects-stronger-math-preparation.md) — related

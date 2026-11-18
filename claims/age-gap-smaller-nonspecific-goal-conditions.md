@@ -62,3 +62,4 @@ Controlled experiment in which 40 young adults and 40 old adults navigated a com
 ## Related Claims
 
 - [Older adults' slowdown relative to young adults is far smaller for problems interpreted as procedurally solved than for retrieval-solved problems](differential-aging-cost-procedure-vs-retrieval.md)
+- [Postcard content differed by participant age: adults reflected the science, young participants the infrastructure and fauna](antarcticards-age-difference-in-content.md) — related

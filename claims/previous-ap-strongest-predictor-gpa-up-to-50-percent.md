@@ -63,3 +63,4 @@ Step 2 of the first-year hierarchical regression: previous AP was the only signi
 - [Adding CBSSA average to the regression model raises explained variance in Step 1 performance to 71.4%, with CBSSA the strongest predictor](cbssa-average-strongest-predictor-model2.md) — related
 - [GPA explained less than 5% of variance in most first-two-semester subjects and the NVP, with GPA validity confirmed for some but not all preclinical examinations](gpa-limited-preclinical-prediction.md) — related
 - [Each admissions tool adds incremental validity for explaining GPA variance, jointly explaining 3 to 36 per cent of variance](incremental-validity-multiple-admissions-tools.md) — related
+- [The final model explains 5% of student-level, 44.8% of school-level, and 13.6% of total variance in math achievement](final-model-variance-explained-taiwan-math.md) — related

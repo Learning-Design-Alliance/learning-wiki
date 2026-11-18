@@ -54,3 +54,4 @@ Critical review synthesis of 23 empirical studies (quasi-experimental and correl
 - [The comprehension-skill difference in inference making persists after controlling for memory for the text and delayed retention of the knowledge base](inference-difference-not-explained-by-memory.md) — related
 - [Students with high reading habit have better reading comprehension than students with low reading habit](high-reading-habit-better-comprehension.md) — related
 - [Prior knowledge of the law-related learning topic was low and did not differ between the four experimental groups](prior-knowledge-low-and-equivalent-across-groups.md) — related
+- [After reading a story about a Viking voyage, students aged 12-16 are expected to be able to explain how the Sun can be used to find the cardinal directions.](vikings-sun-cardinal-directions-objective.md) — related

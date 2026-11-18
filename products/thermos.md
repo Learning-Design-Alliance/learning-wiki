@@ -27,6 +27,7 @@ Thermos is a student-facing learning analytics dashboard developed to visualize 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Thermos learning analytics dashboard**: The Thermos dashboard is a student-facing, enhanced visualization type LAD designed to support the appraisal and preparatory phases of self-regulation of study behaviour. It presents the Motivation and Engagement Wheel, the Group Work skill graph, and a Study Progress widget, combined with a feedback box that "provides actionable feedback, self-improvement exercises" under Reflect, Explore, and Get Skilled buttons and support suggestions under a Connect button. Students use it mostly of their own volition; no teacher or tutor can monitor student results. (de Vreugd et al. (2024))
+- **Kamiokanne water-Cherenkov muon counter built from a thermos flask**: The Kamiokanne is a low-cost alternative muon detector used by several ICD groups. The article describes it as "a standard one liter thermos flask with an inner reﬂective coating as part of the insulation", filled with common tap water so that traversing atmospheric muons cause Cherenkov light flashes detected by a photomultiplier tube mounted in the nozzle. (M. Hütten et al. (2017))
 
 ### Claims
 - [Perceived impact of LAD use on study behaviour varied, with most participants reporting no impact](../claims/lad-impact-on-study-behaviour-varied-mostly-null.md) [~W]
@@ -40,8 +41,8 @@ Thermos is a student-facing learning analytics dashboard developed to visualize 
 
 ## Key Sources
 - de Vreugd, L., van Leeuwen, A., Jansen, R., & van der Schaaf, M. (2024). Learning Analytics Dashboard Design and Evaluation to Support Student Self-Regulation of Study Behaviour. Journal of Learning Analytics, 11(3), 249–262. https://doi.org/10.18608/jla.2024.8529
-
 <!-- merged 2026-10-10 from elements/thermos-learning-analytics-dashboard ("Thermos learning analytics dashboard"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- M. Hütten, T. Karg, C. Schwerdt, C. Steppa and M. Walter. (2017). The International Cosmic Day – An Outreach Event for Astroparticle Physics. 35th International Cosmic Ray Conference — ICRC2017. https://arxiv.org/abs/1711.01441
 
 # Thermos learning analytics dashboard
 

@@ -79,3 +79,4 @@ Exploratory Welch tests comparing reported global fit indices by dimensionality 
 - [The AGS should be scored as a total score, not as determination, resilience, and focus factor scores](ags-total-score-not-factor-scores.md) — a narrower finding that bears on this claim
 - [Academic resilience measured by the Spanish ARS negatively predicts academic stress in university students](academic-resilience-negatively-predicts-academic-stress.md) — related
 - [A three-subject Rasch scale model (biology, physics, chemistry) retained its properties in a validation sample better than a unidimensional scale, despite high factor correlations](three-subject-rasch-scales-better-validation.md) — a narrower finding that bears on this claim
+- [MIRT fit statistics alone do not clearly identify the optimal number of FCI factors, with different criteria suggesting between 3 and 9 factors](fci-factor-number-criteria-conflict.md) — related

@@ -50,3 +50,4 @@ Likelihood ratio test comparing multivariate logistic regression models (central
 - [Betweenness centrality is never a significant predictor of final grade in the Modeling Instruction classroom](betweenness-never-significant.md) — related
 - [Demographic factors other than final grade showed no impact on persistence in the logistic regression models](demographics-null-persistence-mi.md) — related
 - [Final grade adds predictive power beyond centrality for outdegree and closeness, but indegree no longer predicts persistence once grade is accounted for](grade-moderates-indegree-persistence-link.md) — related
+- [Final grade positively predicts persistence overall, but grades in the middle of the pack show no statistically significant correlation with persistence](final-grade-predicts-persistence-except-intermediate.md) — related

@@ -50,6 +50,7 @@ The article's training program consists of two video tutorials — one explainin
 
 - [Structure a simulation-based mastery learning program as sequential steps: video tutorial, MCQ with feedback, supervised practice, then repeated self-directed practice with video-based assessment](sbml-sequential-training-protocol-probing.md)
 - [Deliver zone 0 preparatory self-directed learning through an interactive video structured on Peyton's 4-step approach](zone0-interactive-video-peyton-four-step-strategy.md)
+- [Mix concept introductions, general discussion and hands-on software tutorials with close support to maximise pupil interaction](mixed-concept-discussion-hands-on-session-design.md)
 
 ## Examples
 -

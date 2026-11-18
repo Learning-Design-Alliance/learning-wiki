@@ -53,3 +53,4 @@ Quasi-experimental study of 240 junior secondary two students in three Nigerian 
 - [SJT scores showed no significant differences by socio-economic status indicators (high school origin and parental educational background) in either pilot year](sjt-no-ses-score-differences-indonesia-pilot.md) — related
 - [School achievement level is associated with school type and socio-economic status, entrenching educational disadvantage in Chile](school-achievement-level-associated-ses-school-type.md) — reports the opposite
 - [Socio-economic background, whether indexed by school type or by a Barratt-based Social Status score, explains very little variance in assessment marks](ses-measures-explain-little-assessment-variance.md) — related
+- [School economic background, school location, and school computer resources each significantly predict between-school differences in math achievement](school-level-predictors-math-achievement-taiwan.md) — reports the opposite

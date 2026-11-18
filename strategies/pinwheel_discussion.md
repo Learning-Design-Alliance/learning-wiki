@@ -66,6 +66,7 @@ The format combines two evidence-backed mechanisms: structured peer discussion a
 - [Debate](debate.md) — pinwheel borrows adversarial structure but replaces win/loss with collaborative sense-making
 - [Jigsaw](jigsaw.md) — shares the expert-group preparation phase and interdependence structure
 - [Make student oral presentations of laboratory results the central activity](student-oral-talks-central-activity-strategy.md)
+- [Rotate team leadership among young learners to build speaking and communication skills](rotating-team-leadership-young-learners.md)
 
 ## Related Elements
 - [Expert Groups](../elements/expert-groups.md) — the preparation phase that makes speakers credible

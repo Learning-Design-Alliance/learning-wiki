@@ -100,3 +100,4 @@ Proctored final-lab evaluation in a large introductory mechanics course, deliver
 - [Final project performance was on par with homework and exam grades, with students strongest on physics, model, and working code and weakest on evaluating outcomes and synthesis](final-project-rubric-performance-pattern.md) — related
 - [Roughly a third of 9th-grade Modeling Instruction students successfully complete an unaided VPython computational model of a baseball in motion](third-of-ninth-graders-succeed-vpython-proctored-model.md) — related
 - [Involving introductory-course students in research activities with small assistantships and conference travel recruited new physics majors at a stated 10-20 percent success rate over eight years](research-involvement-recruits-physics-majors.md) — related
+- [Computation is used mostly on homework and projects, rarely with interactive engagement or on exams](computation-homework-projects-common-interactive-exams-rare.md) — related

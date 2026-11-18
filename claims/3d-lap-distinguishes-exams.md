@@ -51,3 +51,6 @@ Coding analysis of two exams per discipline (A exams from canonical tasks, B exa
 - [Selected-response tasks meeting 3D-LAP criteria do not provide strong evidence of three-dimensional learning](selected-response-weak-evidence-3d.md) — related
 - [The revised three-question cluster is claimed to be more capable of assessing engagement with a scientific practice, crosscutting concept, and core idea than the traditional item](revised-cluster-more-capable-three-dimensional-assessment.md) — related
 - [A traditional selected-response physics item gives no explicit evidence of how a student arrived at an answer, according to the authors' 3D-LAP analysis](traditional-item-lacks-reasoning-evidence.md) — related
+- [No FCI items are three-dimensional; most FCI points reward one-dimensional core-idea questions](fci-no-three-dimensional-items.md) — related
+- [The FMCE provides more evidence of three-dimensional learning than the FCI, with most points on two- and three-dimensional questions](fmce-more-three-dimensional-than-fci.md) — a narrower finding that bears on this claim
+- [Only a select few specific scientific practices, crosscutting concepts, and core ideas appear on the four concept inventories](limited-specific-3dl-components-inventories.md) — related

@@ -47,7 +47,8 @@ The authors propose using the 3D-LAP as a professional development tool to aid f
 - [A traditional selected-response physics item gives no explicit evidence of how a student arrived at an answer, according to the authors' 3D-LAP analysis](../claims/traditional-item-lacks-reasoning-evidence.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Develop next-generation standardized assessments aligned with three-dimensional learning](develop-3dl-aligned-standardized-assessments.md)
 
 ## Examples
 -

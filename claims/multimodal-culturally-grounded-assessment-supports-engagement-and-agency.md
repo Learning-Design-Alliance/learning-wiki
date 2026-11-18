@@ -66,3 +66,4 @@ This is a qualitative, design-based study conducted in informal community settin
 - [Agentic engagement with lively data supports epistemically just crisis sensemaking](lively-data-and-agentic-positions-support-epistemically-just-crisis-sensemaking.md) — related
 - [An online learning platform enabled Grade 9 students to construct and coordinate a variety of multimodal representations in both digital and non-digital forms](stile-enabled-representation-construction.md) — related
 - [Teachers' agentic decisions influence students' processes of achieving learner agency, both positively and negatively](teacher-agency-influences-learner-agency.md) — related
+- [Engaging students in crafting definitions from the ground up is posited to build student agency around definitions and reveal definitions as human constructions](crafting-definitions-builds-agency-definitions-as-human-constructions.md) — related

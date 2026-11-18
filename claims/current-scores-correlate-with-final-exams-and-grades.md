@@ -47,3 +47,4 @@ Criterion validity analysis correlating CURrENT scores with independent measures
 
 ## Related Claims
 - [Posttest QRQ scores correlated highly with course grades (r = 0.5), and learning gains were not correlated with pretest scores, indicating students at all levels benefited](qrq-grade-alignment-and-uniform-gains.md) — related
+- [CURrENT scores correlate moderately-to-strongly with final exam performance and subject GPA](current-criterion-validity-correlations.md) — possibly the same claim (merge candidate)

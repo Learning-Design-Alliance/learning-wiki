@@ -54,3 +54,4 @@ Field study of a Coursera management MOOC with 61,893 registered students; 992 a
 - [Math club participation is associated with higher odds of declaring a STEM major in college, remaining significant after propensity score matching](math-club-participation-stem-college-major.md) — related
 - [Science club participation is positively associated with high school science GPA, significant across all three propensity score matching methods](science-club-participation-higher-science-gpa.md) — related
 - [MOOC∩KSX students interact far more in forums than MOOC-only students on both platforms](ksx-students-more-forum-interaction.md) — related
+- [MOOC dropout rates are very high, with reported rates of 80-95% at Stanford, MIT and UC Berkeley and only 7% of 50,000 students completing a Coursera-UC Berkeley software engineering course](mooc-dropout-rates-80-95-percent.md) — reports the opposite

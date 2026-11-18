@@ -84,6 +84,7 @@ Hot seat is a form of structured role-play that converts passive content review 
 - [Debate](debate.md) — contrasts perspectives under adversarial questioning rather than in-character interviewing
 - [Case-Based Learning](case-based-learning.md) — hot seat can serve as the discussion engine for a case, with learners answering as stakeholders
 - [Model social imagination of fictional characters' perspectives using connection stems, character-focused questions, and letters to characters](model-social-imagination-connection-stems.md)
+- [Use embodied modeling activities to prepare and deepen agent-based programming, with perspective-taking across agent types](embodied-modeling-before-agent-based-programming.md)
 
 ## Related Elements
 - [Act-It-Out](../elements/act-it-out.md) — dramatization element that hot seat extends with a Q&A structure

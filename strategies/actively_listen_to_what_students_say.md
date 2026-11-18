@@ -63,6 +63,7 @@ Active listening converts student talk from performance into formative evidence:
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — the same listening stance applied to individual written work
 - [Action-Oriented Feedback](action-oriented-feedback.md) — what responsive listening feeds into
 - [Observe the classroom for dissonance between what students say and what teachers see](classroom-observation-dissonance-inclusive-design.md)
+- [Ask teachers why a student might give an answer rather than what is wrong with it, to focus attention on the student's construction of ideas](ask-why-might-student-give-answer.md)
 
 ## Examples
 - **Talk Science / Accountable Talk** (Michaels & O'Connor, [SERP Institute](https://www.serpinstitute.org/talkscience)) — trains teachers in revoicing and probing moves that operationalize listening to student reasoning in math and science discussion.

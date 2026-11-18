@@ -52,6 +52,7 @@ Before implementation, peer tutors received a two-hour workshop held half a mont
 - [Sustained, needs-based PBIS professional development with in-classroom coaching to build teacher capacity](sustained-pbis-professional-development-coaching.md)
 - [Brief initial training with extensive follow-up coaching and on-site facilitation for whole-school program implementation](brief-initial-training-extensive-coaching-facilitation.md)
 - [Comprehensive facilitator training and support program before and during CBL implementation](cbl-facilitator-training-support-program.md)
+- [Assemble and train an instructional team with an in-class assistant and an out-of-class tutor, held together by regular meetings and careful records](instructional-team-for-blind-physics-student.md)
 
 ## Examples
 -

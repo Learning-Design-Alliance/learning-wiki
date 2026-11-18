@@ -50,3 +50,4 @@ Regression analyses of subjective cognitive load ratings (Cognitive Load Questio
 - [The null effect of the disfluency × WMC interaction on transfer replicated the primary study's null finding, with both studies showing negative coefficients](transfer-null-interaction-replicated.md) — related
 - [Neither disfluency nor distinctiveness affected memory across three experiments with alien-list stimuli](disfluency-distinctiveness-null-rummer.md) — related
 - [Mediation hypotheses via extraneous cognitive load and mental effort are unsupported](humour-mediation-cognitive-load-unsupported.md) — related
+- [Transitions between text and animation areas of interest are uniquely predicted by intrinsic load (sentence complexity)](text-animation-transitions-predicted-by-intrinsic-load.md) — related

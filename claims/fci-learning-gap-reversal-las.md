@@ -47,3 +47,4 @@ Instrument-specific paired t-tests (with Bonferroni corrections) on the FCI port
 ## Related Claims
 - [In introductory physics courses, the learning gap favors dominant students without LAs but is significantly reversed in courses with LAs (pooled across concept inventories)](las-reverse-physics-learning-gaps.md) — a broader claim this one bears on
 - [On the Conceptual Survey of Electricity and Magnetism, LA-supported courses show no significant learning gap (no no-LA CSEM data available)](csem-no-significant-learning-gap-las.md) — related
+- [LA-supported courses have higher relative gains for underserved students (87% vs 80% of dominant-group gains)](la-support-higher-relative-underserved-gains.md) — related

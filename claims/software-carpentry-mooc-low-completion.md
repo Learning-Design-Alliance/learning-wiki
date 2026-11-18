@@ -47,3 +47,4 @@ The author's report of three online classes offered during the 2010-11 version 4
 ## Related Claims
 - [A University of Pennsylvania study found only about half of MOOC registrants viewed a lecture and only about four percent finished a course entirely](mooc-completion-four-percent.md) — a broader claim this one bears on
 - [A discussion article on music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes](moocs-low-completion-embodied-music-learning.md) — a broader claim this one bears on
+- [MOOC dropout rates are very high, with reported rates of 80-95% at Stanford, MIT and UC Berkeley and only 7% of 50,000 students completing a Coursera-UC Berkeley software engineering course](mooc-dropout-rates-80-95-percent.md) — related

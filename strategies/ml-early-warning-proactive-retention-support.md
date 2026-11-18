@@ -60,6 +60,7 @@ The article recommends that institutions use machine learning predictions of wit
 - [Establish an academic early warning system for primary school students using ensemble learning methods](ensemble-learning-academic-early-warning-system.md)
 - [Predict and warn students at risk to assist teacher management and prevent selective ignoring](achievement-prediction-early-warning-strategy.md)
 - [Establish an early, preventive support system for low-achieving students, using high inter-course score correlations to predict at-risk students](early-preventive-support-system-low-achievers.md)
+- [Collect social network survey data at midsemester to identify at-risk students while intervention is still possible](midsemester-network-survey-early-identification.md)
 
 ## Examples
 -

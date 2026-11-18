@@ -73,3 +73,4 @@ Interview evidence from MC-Q17: a student choosing between superposition options
 - [In-class concept tests resolved many student difficulties distinguishing stationary states from eigenstates of operators corresponding to other observables](concept-tests-resolve-stationary-state-difficulties.md) — related
 - [Students fail to transfer the superposition principle from classical contexts to particle waves and treat stationary states as the only allowed wave functions](superposition-lateral-transfer-difficulty.md) — related
 - [Students often draw wave function diagrams from memory or memorized procedures without a qualitative feel for the physics](wave-function-sketches-drawn-from-memory.md) — related
+- [Students misapply object-based resources such as part-for-whole and dying away when reasoning about wave propagation and superposition](object-resources-misapplied-to-waves.md) — related

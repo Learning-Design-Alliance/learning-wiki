@@ -52,3 +52,4 @@ Preliminary-phase email survey of three mathematics teacher educators (a profess
 - [Networks and professional learning communities of practicing principals support sharing best practices and problem solving on the job](principal-networks-professional-learning-communities.md) — related
 - [STEM PLC participation increases teachers' deliberation about students' mathematics or science thinking and shifts instruction toward attention to student reasoning and diverse problem-solving modes](stem-plc-instructional-practice-shifts.md) — related
 - [Teachers' student-centered pedagogical beliefs and problem-solving practices predict higher levels of IT integration in mathematics lessons](teacher-pedagogical-beliefs-practices-predict-it-integration.md) — related
+- [In Implementation 3, Teacher C lectured centrally about all aspects of science while Teacher D questioned students about Biology as a discipline](bsc-teacher-c-versus-d-implementation-3.md) — related

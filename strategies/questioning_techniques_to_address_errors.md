@@ -65,6 +65,7 @@ Questioning that targets the *reasoning behind* an error converts a mistake into
 - [Design learning-oriented LLM prompts around guided questions, step-by-step support, reflection, and a thinking partner rather than direct answers](learning-oriented-llm-prompt-strategy.md)
 - [Use agent-driven question dialogue to challenge mathematical thinking and role-model learner behaviour](agent-driven-question-dialogue-strategy.md)
 - [Paired-question technique: matching questions so students get one right and one wrong, then guiding refinement of raw intuition](paired-question-technique-elby.md)
+- [Evaluate learning twofold: check activity results and question students in discussion](twofold-activity-evaluation-questions-discussion.md)
 
 ## Examples
 - Instead of telling a student they cannot subtract a larger number from a smaller number, ask: "Do we have enough ones to take 7 ones from 3 ones?" Instead of directly correcting an incorrectly renamed minuend, ask: "Does 8 tens and 13 tens equal 83?"

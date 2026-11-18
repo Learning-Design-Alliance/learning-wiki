@@ -67,3 +67,4 @@ Descriptive contributor statistics from the same Results section. Faculty contri
 - [Clinical cases accounted for only 5.8% of e-MedEdu hits, and their use varied widely across subjects (98.05–360.22 per case by organ system)](clinical-cases-low-and-uneven-use.md) — related
 - [Annual website hits at the e-MedEdu medical e-learning portal rose consistently over the decade from 84,361 in 2009 to 508,857 in 2018](emedu-annual-hits-increase-2009-2018.md) — related
 - [Procedural-skills videos received the most hits among e-MedEdu online videos, averaging 4,163.26 hits per clip versus 1,043.47 for patient-encounter clips](procedural-skills-videos-most-viewed.md) — related
+- [Faculty experience with computation has grown over the last decade but does not translate fully into formal courses](computation-experience-grew-not-translated-to-courses.md) — related

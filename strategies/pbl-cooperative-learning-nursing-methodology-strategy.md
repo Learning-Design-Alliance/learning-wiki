@@ -45,6 +45,7 @@ After finding that traditional lectures were used to explain the nursing process
 ## Related Strategies
 
 - [Promote Reference Nurses' use of the electronic record system and analyze student reflective journals for improvement areas](promote-rn-electronic-records-and-reflective-journals.md)
+- [Use PBL-structured case studies to teach emerging, rapidly changing fields like nanotechnology](pbl-case-studies-emerging-fields-strategy.md)
 
 ## Examples
 -

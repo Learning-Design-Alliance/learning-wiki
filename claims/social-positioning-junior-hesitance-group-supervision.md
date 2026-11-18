@@ -59,3 +59,4 @@ Focus group finding interpreted through social positioning theory: balancing the
 - [Access to clinical supervision was identified as necessary for clinicians to build confidence and embed self-management facilitation skills after brief training](clinical-supervision-embeds-self-management-skills.md) — related
 - [Less experienced teachers' talk about process is almost exclusively in the initiation-response-feedback (IRF) format, limiting social-regulatory group dynamics](irf-dominates-novice-teacher-process-talk.md) — related
 - [Junior students feel insecure about deficient anatomical knowledge before clerkships, while senior students can put these feelings in perspective](student-insecurity-anatomical-knowledge.md) — related
+- [Primary school teachers often feel insecure about teaching science subjects because these are outside their training](primary-teachers-insecure-teaching-science.md) — related

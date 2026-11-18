@@ -68,3 +68,4 @@ Same interview study; 17 students were coded as receiving informational support 
 - [Career coaching provided emotional support to URM biomedical PhD students, with coaches offering a caring, listening presence and peers offering mutual encouragement](coaching-emotional-support-urm-phd-students.md) — related
 - [Diverse, noncompetitive coaching groups provided a constant community of support for URM students who lacked supportive peer networks in early graduate school](coaching-group-community-of-support.md) — related
 - [Coaching support was not always perceived as needed or accessible: some students relied on supportive mentors, and others could not engage due to time constraints and infrequent group meetings](coaching-support-not-always-accessible.md) — related
+- [Co-organizing outreach developed the PhD student's proposal writing, media, and social-media communication skills](outreach-personal-skill-development-phd-student.md) — related

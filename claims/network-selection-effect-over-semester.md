@@ -51,3 +51,4 @@ Network-level descriptive analysis across the five collections found reported ti
 - [The fraction of completely new links in early student interaction networks decreases over the first weeks of study](fraction-new-links-decreases-over-time.md) — related
 - [Closeness at the start of the second semester is predicted by prior participation in MI and by closeness at the end of the first semester](closeness-persists-across-semesters.md) — related
 - [The relationship between classroom engagement and future academic performance does not emerge until the second half of the semester](engagement-performance-link-emerges-late.md) — related
+- [Out-of-class networks are basically fully developed by midsemester, with about 95% of eventual members already present by week 8](out-of-class-networks-developed-by-midsemester.md) — related

@@ -62,3 +62,5 @@ The review recounts the failed replications: Pollock et al. found 'no statistica
 - [Significant gendered performance differences favoring male students are ubiquitous in large introductory STEM lecture courses](gpd-ubiquitous-stem-lectures.md) — related
 - [In introductory physics courses, the learning gap favors dominant students without LAs but is significantly reversed in courses with LAs (pooled across concept inventories)](las-reverse-physics-learning-gaps.md) — related
 - [Normalized gain g overestimates gender inequities in student learning compared to Cohen's d](normalized-gain-overestimates-gender-inequities.md) — related
+- [Instruction reduced many pretest gender differences on FCI items but failed to close the gap for items 14, 21, 22, 23, and 27](fci-instruction-reduces-pretest-gap-not-five-items.md) — a narrower finding that bears on this claim
+- [LA support is not associated with smaller performance gaps between demographic groups (p > 0.8, d ~ 0.01)](la-support-no-gap-reduction.md) — related

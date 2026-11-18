@@ -50,3 +50,4 @@ Comparison of average course grades by orientation group (Table IV; combined-sem
 - [Male-instructed classes show a small performance gender gap in favor of males (0.20 SD), while female-instructed classes show no significant gap](male-instructed-classes-performance-gap.md) — related
 - [Framework-oriented students show borderline-significantly higher FCI gains than performance-oriented and vaguely-defined students in an IPLS course (g = +0.22 vs +0.13 and +0.04)](framework-oriented-higher-fci-gains-ipls.md) — related
 - [Orientation categories do not correlate strongly to choice of major, contradicting the assumption that biology and health science majors would be less framework-oriented](orientation-not-strongly-tied-to-major.md) — related
+- [Vague-oriented students were borderline significantly worse in course grade than Performance-oriented students, with no significant Framework-Performance difference](vague-oriented-borderline-lower-course-grade.md) — related

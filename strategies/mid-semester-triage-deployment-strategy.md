@@ -49,6 +49,7 @@ The authors recommend deploying the model as a decision-support complement to ad
 - [Deploy AI as an auxiliary tool supplemented by structured measures including transparent auditing of algorithmic bias and data-processing privacy protocols](ai-auxiliary-tool-structured-safeguards-strategy.md)
 - [Disclose quantization trade-offs, audit bias, and establish data governance before live deployment of quantized educational AI](quantized-edtech-governance-deployment-strategy.md)
 - [Audit educational LLM deployments for differential treatment before serving marginalized learners](audit-llm-tutors-for-paternalistic-bias.md)
+- [Time advising interventions using predicted attrition risk and modeled STEM-affinity transitions](timely-advising-stem-affinity-interventions.md)
 
 ## Examples
 -

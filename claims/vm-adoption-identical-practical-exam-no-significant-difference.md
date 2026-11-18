@@ -64,3 +64,4 @@ Same single-institution comparison described in Results; the article notes this 
 
 ## Related Claims
 - [Adopting the virtual microscope saved 210 hours of faculty precepting time per year and allowed laboratory sessions to be reduced from three hours to two hours without reducing slides taught](vm-saved-faculty-time-reduced-lab-hours.md) — related
+- [Distance-learning students who chose to prepare with the OnLabs virtual lab, alongside a tutor-led Skype session, scored better on microscopy Pre-Tests in all three test-difficulty groups](onlabs-higher-pretest-baseline-all-groups.md) — related

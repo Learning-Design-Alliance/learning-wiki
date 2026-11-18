@@ -47,6 +47,7 @@ The authors recommend that instructors assess the learning-style profile of thei
 ## Related Strategies
 
 - [Identify students' cognitive style before choosing between inquiry and conventional teaching](identify-cognitive-style-before-model-choice.md)
+- [Teachers select instructional strategies and media by checking student learning-style combination profiles](style-based-strategy-media-selection-strategy.md)
 
 ## Examples
 -

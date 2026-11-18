@@ -51,3 +51,4 @@ The report's framing statement, offered without cited evidence, asserts that alt
 - [Online college courses are a rapidly expanding feature of higher education, with little prior research on their relative effects](online-courses-expanding-little-research.md) — related
 - [Alternative certification programs grew to account for about one-third of all new teachers certified annually in the United States](alternative-certification-one-third-new-teachers.md) — related
 - [Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors](alternative-certification-25-percent-more-likely-to-leave.md) — related
+- [Despite research effort since the 1980s, misconceptions research had little impact on physics teaching and little incorporation into didactic materials and teacher training](little-impact-misconceptions-research-on-teaching.md) — related

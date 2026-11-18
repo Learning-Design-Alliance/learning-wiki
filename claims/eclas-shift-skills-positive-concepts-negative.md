@@ -50,3 +50,4 @@ Raw pre/post overall E-CLASS scores (Table III, Fig. 1) for the aggregate data s
 - [First-year students in skills-focused lab courses had higher postinstruction overall E-CLASS scores than students in concepts-focused courses](skills-focused-labs-higher-post-eclas-scores.md) — related
 - [Guided-lab-only courses show a small significant negative shift in E-CLASS scores over a semester](guided-labs-negative-shift.md) — related
 - [All three lab courses show negative or neutral pre-to-post E-CLASS shifts, with no positive shifts](negative-neutral-pre-post-eclass-shifts.md) — reports the opposite
+- [Students in Traditional first-year physics labs show a significant negative shift in E-CLASS scores, while students in Transformed courses do not shift significantly](traditional-labs-negative-eclass-shift-transformed-none.md) — related

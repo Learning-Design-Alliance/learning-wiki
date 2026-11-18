@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 256 claims (194 show a difference, 43 mixed, 19 no difference) · 194 studies (104 associational, 38 causal, 29 review, 9 theoretical, 7 qualitative, 5 design, 2 quant-synthesis), `q1`–`q4` · 10 of 194 report an effect size · 254 claims rest on one study
+> **Evidence** · 261 claims (199 show a difference, 43 mixed, 19 no difference) · 197 studies (107 associational, 38 causal, 29 review, 9 theoretical, 7 qualitative, 5 design, 2 quant-synthesis), `q1`–`q4` · 10 of 197 report an effect size · 259 claims rest on one study
 
 ## How to read this page
 
@@ -293,6 +293,11 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Concepts-first organization transfers: AL&CF students earned higher z-grades in their next physics course (9B), an effect significant for the whole class but not for female or underrepresented minority subgroups](../claims/concepts-first-transfer-to-next-course.md) [~M] — an instructional effect differs by group
 - [Grade gaps for underrepresented minority students vanish only in the concepts-first course: ZGradeGap is −0.08 ± 0.24 for AL&CF versus −0.88 ± 0.22 (ALOnly) and −0.60 ± 0.14 (NoAL)](../claims/concepts-first-eliminates-minority-grade-gap.md) [~W] — an instructional effect differs by group
 - [Students who took at least one concepts-first course were 1.7 ± 0.3 times more likely to graduate with a STEM major (2.7 ± 1.3 for underrepresented minorities), while active learning alone conferred no such benefit](../claims/concepts-first-stem-graduation-retention.md) [+M] — an instructional effect differs by group
+- [Controlling for pretest scores, underserved students score lower on posttests, and students underserved by both gender and race/ethnicity score 7.6% lower](../claims/hlm-predicted-gaps-controlling-pretest.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Over the last 20 years the fraction of physics BS degrees earned by Hispanic Americans grew by 6% while the fraction earned by Black/African Americans decreased by 2%](../claims/hispanic-bs-growth-black-decline-physics-degrees.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Performance gaps by gender and race/ethnicity in introductory physics are similar in size and widen from pretest to posttest](../claims/physics-equity-gaps-widen-pre-post.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The percentage of physics bachelor's degrees earned by African Americans has been steadily falling over the last 10-15 years, while Hispanic American growth appears proportional to population growth](../claims/urm-physics-bachelors-degree-trends.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [URM students earn a small share of physics degrees, with physics near the lowest fraction of the physical sciences for bachelor's degrees earned by Black/African-American and Hispanic Americans](../claims/urm-degree-representation-physics-lowest-physical-sciences.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

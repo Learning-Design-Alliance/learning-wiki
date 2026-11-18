@@ -51,3 +51,4 @@ COPUS analysis of nine video-recorded class periods per instructor, coded by two
 - [Campus-wide clicker use falls into three predominant modes: Peer Discussion, Individual Thinking, and Alternative Collaboration.](three-modes-of-clicker-use.md) — related
 - [Groups differ in how they frame tutorials: one group favored discussion while another favored worksheet completion](groups-vary-in-tutorial-framing.md) — related
 - [Support and coaching from a science education specialist appears important for developing novices' attitudes toward in-class activities](ses-support-important-novice-attitudes.md) — related
+- [Interactive elements (worksheets and computer exercises) helped students better understand the lecture's content, with the worksheet-supported exam question answered about two-thirds correctly versus usually well under half on similar questions](interactive-elements-improve-content-understanding-atomistic-modeling.md) — related

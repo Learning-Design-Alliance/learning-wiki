@@ -62,3 +62,4 @@ Descriptive analysis of CPS data on CTE enrollment linked to college-level cours
 - [Fewer than one-fifth of DCPS AP teachers participated in the APSI at least once every three years](fewer-one-fifth-ap-teachers-apsi-every-three-years.md) — related
 - [Years of science study in high school are directly related to college entrance exam achievement, and Hispanic and Black students complete advanced science courses at smaller rates](years-science-study-sat-achievement.md) — related
 - [Oakland Unified high school participation in Linked Learning career pathways rose from 49% in 2014 to 87.7% in 2020–21](linked-learning-pathway-participation-growth.md) — related
+- [In Singapore, MOOCs form 12% of all SkillsFuture Credit-eligible courses and about 6% of Singaporeans have used their credits on MOOCs, mostly aged 25 to 39](skillsfuture-credits-mooc-uptake.md) — related

@@ -76,3 +76,4 @@ Random-slope ACT model variance components. The article concludes that "noise in
 - [The linear slope of the HSGPA–college graduation relationship does not vary significantly across high schools, so HSGPA provides a consistent signal across schools](hsgpa-slope-consistent-across-schools.md) — related
 - [School-average ACT scores strongly predict individual college graduation, doubling the odds per standard deviation](school-average-act-predicts-graduation.md) — related
 - [Higher HSGPA and higher mathematics and chosen-subject matura scores significantly increase the predicted probability of graduation.](hsgpa-math-chosen-subject-increase-graduation-probability.md) — related
+- [High school performance and standardized test scores showed little signal for predicting STEM attrition, in contrast to previous research](pre-college-measures-weak-signal-stem-attrition.md) — related

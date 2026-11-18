@@ -49,3 +49,4 @@ Preliminary multi-institution CURrENT comparison treating courses as data points
 - [CU SP12 E&M II students scored significantly higher than Institution X students on CURrENT Q3, Q4, and total score](cu-sp12-higher-current-scores-q3-q4-total.md) — a narrower finding that bears on this claim
 - [In Harvard's introductory physics course, average FCI posttest scores and normalized gain rose sharply in the year it switched from traditional lectures to Peer Instruction](fci-gain-increased-peer-instruction-harvard.md) — related
 - [Learning gains from the transformed course persisted when taught four years later by a different instructor using the same materials](deliberate-practice-gains-sustain-second-instructor.md) — related
+- [Students in transformed upper-division electrodynamics courses score significantly higher on the CURrENT than students in standard lecture-based courses](transformed-courses-higher-current-scores.md) — possibly the same claim (merge candidate)

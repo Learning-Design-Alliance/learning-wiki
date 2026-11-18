@@ -68,3 +68,5 @@ The same regression model (Table III) tested concept-inventory and interaction e
 - [In introductory physics courses, the learning gap favors dominant students without LAs but is significantly reversed in courses with LAs (pooled across concept inventories)](las-reverse-physics-learning-gaps.md) — a broader claim this one bears on
 - [A meta-analysis of FCI and FMCE data found no correlation of institutional SAT scores, pre-test scores, or institution type with normalized gains, though pre-test scores correlate with institution type.](normalized-gains-institution-type-independent.md) — related
 - [The FMCE discriminates more sharply than the FCI between interactive engagement and traditional instruction in this dataset](fmce-more-discriminating-ie-vs-trad.md) — related
+- [LA-supported courses have higher relative gains for underserved students (87% vs 80% of dominant-group gains)](la-support-higher-relative-underserved-gains.md) — related
+- [LA support is not associated with smaller performance gaps between demographic groups (p > 0.8, d ~ 0.01)](la-support-no-gap-reduction.md) — reports the opposite

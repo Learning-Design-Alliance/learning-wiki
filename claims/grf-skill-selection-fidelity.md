@@ -47,3 +47,4 @@ Comparison of the focal skill each student selected on the online form against t
 
 ## Related Claims
 - [The Guided Reflection Form elicited narrative, growth, and action statements in nearly all student reflections](grf-elicits-narrative-growth-action-statements.md) — related
+- [Guided reflection submissions are dominated by narrative statements (~60%) and broad growth statements (~30%), with few specific action or achievement statements](grf-narrative-dominance-few-action-statements.md) — related

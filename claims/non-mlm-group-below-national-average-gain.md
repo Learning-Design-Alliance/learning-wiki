@@ -49,3 +49,4 @@ CSEM normalized gain data from the two non-MLM semesters (Fa10 and Sp11). The au
 - [Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02](hake-ie-gains-two-sd-greater.md) — related
 - [Introductory physics students taught with Just-in-Time Teaching showed larger overall Force Concept Inventory gains (37.6%±2.0%) than students in traditional lecture courses (17.9%±2.5%)](jitt-larger-fci-gains-than-lecture.md) — related
 - [Just-in-time teaching improves cognitive gains and decreases failure and attrition rates compared with traditional teaching](jitt-improves-gains-decreases-failure-attrition.md) — reports the opposite
+- [CSEM learning gains in the Lecture/Studio-format second-semester IPLS course were strikingly larger than any gains measured in the course's traditional format](csem-gains-lecture-studio-larger.md) — related

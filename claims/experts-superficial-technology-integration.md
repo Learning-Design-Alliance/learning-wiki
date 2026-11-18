@@ -52,3 +52,5 @@ Qualitative analysis (NVIVO-coded) of seven semi-structured interviews with lead
 - [SWOT in educational settings is typically applied superficially, episodically, and detached from improvement cycles](swot-applied-superficially-episodically-in-schools.md) — related
 - [University students in Communication and Education programs show low familiarity with media literacy, media education, and educommunication terms](students-low-familiarity-media-literacy-terms.md) — related
 - [Teacher educators show shallow understanding of GenAI tools and gaps in aligning AI use with pedagogical goals](teacher-educators-shallow-genai-understanding-gaps.md) — related
+- [Audiovisual media and new image technologies act as windows to the past that can enhance initiation into historical time, but require rigorous pedagogical examination](audiovisual-media-windows-to-the-past.md) — related
+- [Digital literacy reduced to instrumental and technical training is inadequate; authentic digital literacy requires critical understanding of techno-media languages](digital-literacy-beyond-instrumental-training.md) — related

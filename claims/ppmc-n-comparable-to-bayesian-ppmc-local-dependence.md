@@ -52,3 +52,4 @@ The article's simulation study compared the proposed PPMC-N method against the B
 - [A multidimensional IRT model with simple structure fits testlet-based reading data better than both the general polytomous testlet model and the standard 2PL/GPCM](mirt-ss-fits-testlet-data-better.md) — related
 - [In operational reading-test data, ignoring local dependence inflates reliability estimates, with passage-based alpha 2.3%-4.9% lower than item-based alpha across six test forms](real-data-reliability-overestimated-2-3-to-4-9-percent.md) — related
 - [Ignoring cluster dependence in analysis (naive analysis) inflates significance, making new teaching methods appear better than they are](naive-analysis-false-significance-cluster-studies.md) — related
+- [Item 29 is identified as problematic by IRT fit, reliability, and inter-item correlation analyses](fci-item29-problematic.md) — related

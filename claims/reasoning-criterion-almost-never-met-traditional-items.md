@@ -50,3 +50,4 @@ Authors' observation from item review during 3D-LAP criteria development: tradit
 - [The 3D-LAP distinguishes exams with potential to elicit three-dimensional learning from those that do not](3d-lap-distinguishes-exams.md) — related
 - [Physics A exams award many points to core-idea tasks even though few tasks elicit practices or crosscutting concepts](physics-core-ideas-prevalent-in-canonical-exams.md) — related
 - [Selected-response tasks meeting 3D-LAP criteria do not provide strong evidence of three-dimensional learning](selected-response-weak-evidence-3d.md) — related
+- [No FCI items are three-dimensional; most FCI points reward one-dimensional core-idea questions](fci-no-three-dimensional-items.md) — related

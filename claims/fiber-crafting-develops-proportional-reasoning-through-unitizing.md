@@ -63,3 +63,4 @@ This is a small, purposive case study (3 focal youth from a 17-participant camp)
 - [Algorithms developed over time through changes in youth-material collaborations, defining learning as physical expansion of algorithmic production](algorithms-expand-over-time-youth-material-changes.md) — related
 - [In weaving, performed algorithms emerged as repeated youth-material movements one dimension at a time, producing reliable fabric outputs](weaving-algorithm-one-dimension-at-a-time.md) — related
 - [Neither youth nor loom alone drove the algorithmic production and fabric output; both actively produced it collaboratively](neither-youth-nor-loom-alone-drove-algorithm.md) — related
+- [Even reformed introductory physics curricula rarely engage students in extended crafting of their own definitions](reformed-physics-curricula-rarely-craft-definitions.md) — related

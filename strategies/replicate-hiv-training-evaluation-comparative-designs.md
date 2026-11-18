@@ -46,6 +46,7 @@ The article recommends that replicas of this study be conducted once similar tra
 - [Replicate the internship model in Type 1 and 2 universities and apply corrective processes to eliminate identified weaknesses](replicate-anesthesia-internship-corrective-processes.md)
 - [Tailor postgraduate educational programs to performance-trajectory subtypes and average internship scores across a year of monthly evaluations](tailored-programs-and-yearlong-internship-score-averaging.md)
 - [Encourage other university-supervised groups to establish similar robotics activities and extend programming logic to all projects in future iterations](strategy-scale-robotics-programming-future.md)
+- [Future work: replicate with larger populations and assess retention time of knowledge gained under the two preparation methods](virtual-lab-replication-and-retention-future-work.md)
 
 ## Examples
 -

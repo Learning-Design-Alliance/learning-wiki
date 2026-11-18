@@ -70,3 +70,4 @@ AIC-based model comparison among 11 nested multilevel models showed random EA-PG
 - [Five measured school sociodemographic characteristics do not explain the EA-PGI-by-school interaction](school-sociodemographics-do-not-explain-pgi-interaction.md) — related
 - [The EA-PGI-by-school interaction is stronger for maths and reading than for English](pgi-school-interaction-subject-specific.md) — related
 - [Roughly 45% of variance in Chinese adolescents' achievement lies between schools, supporting multilevel modeling](between-school-variance-achievement-icc-pisa-china.md) — related
+- [Course-level features explain 29% of variance in student physics performance, student-level features 71%](course-features-explain-29-percent-variance.md) — related

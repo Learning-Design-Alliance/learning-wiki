@@ -173,6 +173,7 @@ This pattern is scoped to building understanding of a `concept` or `principle` o
 - A concept lesson that starts with a familiar example, introduces a new model, and checks understanding through short application tasks.
 - A literacy lesson that connects prior experience to a new comprehension strategy and then practices it on a brief text.
 - [Use myth-refutation sky-browser activities (e.g. the 2012 doomsday claim) for learners not doing calculations](../strategies/myth-refutation-sky-browser-use-case.md)
+- [Open the lesson with a guided question-and-answer sequence connecting life, liquid water and stellar heat](../strategies/guided-qa-life-water-heat-discussion.md)
 
 ## Key Sources
 - Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. *American Educator, 36*(1), 12-19, 39.

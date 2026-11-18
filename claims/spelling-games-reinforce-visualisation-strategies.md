@@ -51,3 +51,4 @@ The researcher's reflective observation during the intervention noted a week-fou
 - [Contrary to expectations, agent-led reflection sessions typically ended with participants sounding more certain of their plans than when they started](sessions-ended-more-certain.md) — related
 - [Students hold highly positive attitudes toward visualisation strategies for spelling.](positive-student-attitudes-toward-visualisation-strategies.md) — related
 - [Feedback provision dipped in weeks three and six across all groups, possibly because the skills taught those weeks had fewer components](feedback-dipped-weeks-three-and-six.md) — related
+- [Teacher feedback identified software difficulty and lengthy instructions as barriers, with mid-course attendance dips recovering after weekly reminders](teacher-feedback-software-difficulty-attendance-dip.md) — related

@@ -39,6 +39,7 @@ The article recommends that educators recognize themselves as "philosophers" of 
 ## Related Strategies
 
 - [Systemic, human-centred approach treating digital data use as a school-and-teacher system, with AI integrated into professional development](systemic-human-centred-data-use-approach.md)
+- [Use media themselves as parallel objects of study in the classroom](media-as-parallel-object-of-study.md)
 
 ## Examples
 -
