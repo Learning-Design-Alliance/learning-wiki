@@ -54,3 +54,4 @@ Side-by-side comparison (Table 3) of the present POGIL-only meta-analysis agains
 - [Active learning produces better student outcomes than lecture across STEM, including lower failure rates and higher test performance](active-learning-superior-to-lecture-stem.md) — related
 - [Student ARS performance differed across courses: biology students averaged 89.3% correct while engineering students averaged 58.5% on initial responses, with peer instruction raising averages to 80.0%](ars-performance-biology-versus-engineering.md) — related
 - [Female students benefited more from active learning than male students in failure-rate reduction](active-learning-gender-benefit-failure-rate.md) — related
+- [A meta-analysis of over 200 studies found active learning techniques appear generally effective across all STEM disciplines and class sizes (as reported by the chapter, citing Freeman et al. 2014)](active-learning-effective-across-stem-freeman-2014.md) — related

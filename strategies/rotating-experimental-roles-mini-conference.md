@@ -42,6 +42,7 @@ To practice collaboration goals, "students rotate though group roles similar to 
 
 - [Empowering Students as Leaders](empowering_students_as_leaders.md)
 - [Gallery Walk](gallery-walk.md)
+- [Workshop-based mini-research project walking students through the full research cycle](composer-mini-research-workshop-strategy.md)
 
 ## Examples
 -

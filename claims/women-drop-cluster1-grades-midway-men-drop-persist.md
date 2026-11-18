@@ -73,3 +73,5 @@ Table IIb comparison for the second STEM cluster; women who dropped earned "on a
 - [Higher-performing women in Honors Physics courses are switching out of the physics major](high-performing-women-leaving-physics-major.md) — related
 - [Women who drop STEM majors earn statistically significantly higher STEM GPAs than men who drop the same majors](women-drop-stem-majors-higher-gpa-than-men-who-drop.md) — related
 - [In every major except psychology, women who drop a major are more likely than men to earn a degree in another major, while men are more likely to leave without a degree](women-who-drop-earn-another-degree-men-leave-no-degree.md) — related
+- [In the second STEM major cluster, URM students who earn a degree earn on average the same grades as Asian and White students who drop the major](urm-degree-earners-grades-match-non-urm-droppers.md) — related
+- [GPA differences between degree-earners and major-droppers vary by major cluster, from roughly 0.6 grade points in the first STEM cluster to roughly 0.2 in the second](gpa-gap-earners-vs-droppers-by-cluster.md) — related

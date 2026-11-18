@@ -49,3 +49,4 @@ Feasibility analysis of the CA-PT administration across seven medical schools: "
 - [Digital test administration caused data-collection difficulties in the pilot, while paper-based tests were administered without problems](pal-digital-testing-difficulties-paper-smooth.md) — reports the opposite
 - [Simulation interventions showed positive usability and feasibility, with technical preparation needs sometimes causing non-completion](usability-feasibility-technical-issues.md) — related
 - [CA-PT test performance correlates strongly with conventional progress test performance (parallel-forms reliability r = 0.834)](ca-pt-strong-correlation-conventional-pt.md) — related
+- [Open-inquiry groups took slightly longer on average to complete the experiment than guided-inquiry groups, with both finishing within the three-hour period](open-inquiry-longer-completion-time.md) — related

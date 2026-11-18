@@ -48,3 +48,4 @@ The authors' characterization of the AAPT's 2014 recommendations document, citin
 - [Students in Arduino-based lab sections scored unremarkably on standard physics pre/post inventories](arduino-lab-standard-inventory-scores-unremarkable.md) — related
 - [Students in traditional laboratories access knowledge almost solely from authority, while reformed Scientific Community Labs foster sense-making framing](traditional-labs-authority-versus-scl-sense-making.md) — related
 - [The labs did not measurably affect conceptual learning: combined conceptual lab-related items showed no significant difference, and only one of 20 multiple-choice items was significant](lab-no-conceptual-learning-effect.md) — related
+- [Open-inquiry laboratory experience was more design-oriented and aligned with AAPT's designing-experiments outcome than guided-inquiry](open-inquiry-design-skill-reinforcing.md) — related

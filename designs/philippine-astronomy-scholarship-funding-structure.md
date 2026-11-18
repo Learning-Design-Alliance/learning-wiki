@@ -46,4 +46,4 @@ BS Astronomy students at RTU are supported by the Republic Act 10931 (UAQTEA), w
 -
 
 ## Key Sources
-- Guido, R. M. D. (2019). The Progress of Astronomy Program in the Rizal Technological University Philippines. https://www.rtu.edu.ph
+- Guido, R. M. D. (2019). The Progress of Astronomy Program in the Rizal Technological University Philippines. https://www.rtu.edu.ph. [doi:10.48550/arxiv.1911.06656](https://doi.org/10.48550/arxiv.1911.06656)

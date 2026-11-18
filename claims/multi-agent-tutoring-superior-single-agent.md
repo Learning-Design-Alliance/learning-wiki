@@ -53,3 +53,4 @@ The review attributes this comparative conclusion to Gupta and Heggond's (2026) 
 - [KERMIT observes students' actions and adapts to their knowledge and learning abilities](kermit-adapts-to-student-actions.md) — related
 - [Pairing several children per computer did not lower learning gains despite weaker individualisation](two-children-per-computer-gains-not-lower.md) — related
 - [The adaptive peer-like agent brought the most benefit to children's vocabulary learning and affective engagement compared with fixed-role agents](adaptive-peer-agent-most-benefit.md) — related
+- [The population-based engagement model outperforms per-learner personalised models when individual training data is limited (around 60 events)](population-model-better-in-cold-start.md) — related

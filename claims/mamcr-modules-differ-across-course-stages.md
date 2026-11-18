@@ -50,3 +50,5 @@ Module analysis for multiple-choice responses (MAMCR) applied to networks of cor
 - [MAMCR fails to replicate for large FCI samples: Infomap with LANS sparsification consistently identified only one large community of incorrect answers](mamcr-fails-large-fci-samples.md) — related
 - [As students progress through the introductory sequence, PIQL response modules become less coherent rather than more expert-like](modules-less-coherent-with-progression.md) — a broader claim this one bears on
 - [Dichotomously scored PIQL results indicate only a very modest improvement in students' quantitative reasoning from introductory physics instruction](piql-dichotomous-scoring-modest-improvement.md) — related
+- [Recent PIQL versions are unidimensional, and the authors interpret the single construct as Physics Quantitative Literacy, suggesting the three facets may develop simultaneously](piql-unidimensional-single-construct.md) — related
+- [A four-level scoring scheme for multiple-choice/multiple-response items reveals response nuance that dichotomous scoring hides](four-level-mcmr-scoring-reveals-nuance.md) — related

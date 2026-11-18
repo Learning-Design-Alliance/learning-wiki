@@ -47,6 +47,7 @@ Based on their findings, the authors recommend that programs create opportunitie
 ## Related Strategies
 
 - [Targeted Networking](targeted_networking.md)
+- [Provide networking opportunities in space for young people](provide-space-networking-opportunities-young-people.md)
 
 ## Examples
 -

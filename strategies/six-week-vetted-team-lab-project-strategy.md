@@ -49,7 +49,8 @@ The redesigned course gave students six weeks to complete an experimental projec
 - [Students identified project management, resource utilization, and better research methods as future improvements to the project experience](../claims/student-suggested-project-improvements.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Replace the pre-defined lab script with a student-proposed experimental project](student-proposed-experimental-project-strategy.md)
 
 ## Examples
 -

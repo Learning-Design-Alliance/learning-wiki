@@ -69,3 +69,4 @@ The same Wilcoxon analysis printed non-significant P-values of 0.182 for liking 
 - [Mobile-3G classroom use increased communication between students and between instructor and students, including course-related instant messaging during lectures](mobile-use-increases-student-instructor-interactions.md) — related
 - [Mobile-3G use in class was observed to increase student engagement and involvement in learning activities](mobile-use-increases-classroom-engagement.md) — related
 - [Student compliance with weekly online self-tests decreased over the course of the test sequence](online-self-test-compliance-declines-over-time.md) — related
+- [Pre/post survey showed only a small, non-significant positive change in students' views of science](small-nonsignificant-tssi-change-inclusive-astronomy.md) — related

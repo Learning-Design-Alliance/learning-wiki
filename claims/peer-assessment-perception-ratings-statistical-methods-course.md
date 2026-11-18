@@ -24,6 +24,8 @@ sources:
     author: Kristanto, Y. D.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: kristanto-2018-3
     resource: "https://doi.org/10.21831/reid.v4i2.20951"
     title: "Kristanto, Y. D. (2018). Technology-enhanced pre-instructional peer assessment: Exploring students' perceptions in a Statistical Methods course. REiD (Research and Evaluation in Education), 4(2), 105-116. [doi:10.21831/reid.v4i2.20951](https://doi.org/10.21831/reid.v4i2.20951)"
@@ -61,7 +63,7 @@ Descriptive analysis of rating-scale questionnaire items administered via Google
 
 Kristanto, Y. D. (2018). Technology-enhanced pre-instructional peer assessment: Exploring students' perceptions in a Statistical Methods course. REiD (Research and Evaluation in Education), 4(2), 105-116. [doi:10.21831/reid.v4i2.20951](https://doi.org/10.21831/reid.v4i2.20951)
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Questionnaire item on pressure during the assessment task; students reported moderate pressure, and 'more than half comes from their role (62.07%)', with smaller shares from experience and peers. Descriptive proportions only.
 
@@ -85,3 +87,4 @@ Questionnaire section on students' perceptions of peer assessment; 'approximatel
 - [Student groups perceive peer assessment in PtBL as beneficial for feedback and engagement but raise bias concerns](student-perceptions-peer-assessment-benefits-bias.md) — related
 - [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — related
+- [Individualising team marks via peer assessment reduced student complaints about free riding and marking fairness from 26% to 7% of feedback](peer-assessment-individualisation-free-riding-complaints-decrease.md) — related

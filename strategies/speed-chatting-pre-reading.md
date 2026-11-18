@@ -66,6 +66,7 @@ Speed chatting works as a [Activation](../elements/activation.md) activity: retr
 - [Anticipation Guides](anticipation-guides.md) — a written pre-reading prediction activity that pairs well with or substitutes for oral chatting
 - [Create a relaxed, worry-free discussion environment with student-chosen topics and rotating team leadership](relaxed-environment-student-chosen-topics-strategy.md)
 - [Form asymmetrical pairs and build pair work into reading instruction](form-asymmetrical-pairs-for-cooperative-reading.md)
+- [Use low-stakes introductory seminar activities (asking about figures, news stories, prepared questions) before reading full papers](low-stakes-introductory-seminar-activities.md)
 
 ## Related Elements
 - [Activation](../elements/activation.md) — the cognitive function this strategy serves

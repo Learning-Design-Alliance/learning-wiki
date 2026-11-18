@@ -71,3 +71,4 @@ Authors' interpretation in the Discussion linking subcategories to stereotype th
 - [Grounded theory analysis of 666 quotes identified five categories of Instructor Talk, with Building the Instructor/Student Relationship most prevalent at 35.4% of quotes](five-emergent-instructor-talk-categories.md) — related
 - [CURE instructors used more immediacy talk per hour than non-CURE instructors, with a medium effect of course type](cure-more-immediacy-talk-than-non-cure.md) — related
 - [The distribution of immediacy talk per hour did not differ significantly between CURE and non-CURE instructors](immediacy-talk-distributions-not-significant.md) — related
+- [Instructors can incorporate the history of women's exclusion from physics into classrooms in varied ways, but should avoid teaching it immediately before an exam to avoid activating stereotype threat](teaching-womens-history-physics-classroom-strategy.md) — related

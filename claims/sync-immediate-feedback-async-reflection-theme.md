@@ -49,3 +49,4 @@ Reflexive thematic analysis of semi-structured interviews with 30 of the 50 stud
 - [The authors interpret the OLM's advantages as stemming primarily from learner autonomy and asynchronicity rather than online delivery per se](autonomy-asynchronicity-interpretation-olm-advantage.md) — related
 - [Direct observation and video-based feedback formats differ structurally in timing: immediate short feedback versus delayed feedback after student self-review of a videotaped encounter](osce-feedback-format-structural-timing-difference.md) — related
 - [Feedback comments phrased as questions are perceived as more stimulating of reflection than statement-formatted comments](question-format-feedback-stimulates-reflection.md) — related
+- [Approximately 50% of surveyed instructors would structure synchronous versus asynchronous course time differently if teaching remotely again](restructure-sync-async-remote-lab-time.md) — related

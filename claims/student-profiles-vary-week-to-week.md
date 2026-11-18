@@ -51,3 +51,5 @@ Secondary analysis within the observational study: because each student has one 
 - [Positive adaptation showed the highest temporal stability while maladaptive adaptation was the least stable profile across the semester](positive-adaptation-highest-stability-maladaptive-least.md) — related
 - [In inquiry-based physics labs, women's profiles cluster in laptop use and men's in equipment use, indicating gendered task division](gendered-task-division-inquiry-labs.md) — related
 - [Students who worked most during the semester appeared to have the best exam performances (observational, untested)](usage-during-semester-associated-with-exam-performance.md) — related
+- [Inquiry labs showed substantially greater task division within groups than traditional labs, with comparable division across group gender compositions](inquiry-labs-greater-task-division.md) — related
+- [Removing pedagogical structure in labs opened a wider range of available roles, with only 14% of inquiry-lab groups having all members in the same cluster versus 43% in traditional labs](reduced-structure-wider-roles.md) — related

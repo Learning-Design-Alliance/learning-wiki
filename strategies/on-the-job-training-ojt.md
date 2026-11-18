@@ -90,6 +90,7 @@ Well-run OJT is essentially [Cognitive Apprenticeship](cognitive-apprenticeship.
 - [Instructional Coaching](instructional-coaching.md) — the same trainer-alongside relationship applied to teaching practice
 - [Performance Support and Job Aids](performance-support-job-aids.md) — reduces how much has to be trained at all, and lets fading happen sooner
 - [Use anatomy-faithful dry-lab simulators as an off-the-job alternative to animal and cadaver surgical training](dry-lab-off-jt-alternative-animal-cadaver-training.md)
+- [Structured preparation and coaching of teaching assistants before delivering inquiry laboratories](teaching-assistant-preparation-for-inquiry-labs.md)
 
 ## Examples
 

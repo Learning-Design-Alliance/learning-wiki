@@ -61,3 +61,4 @@ End-of-semester survey administered during the last month of circle meetings to 
 - [Self-efficacy and gameplay interest are negatively associated with elementary students' competitive anxiety in one-on-one gameplay](self-efficacy-interest-negatively-associated-competitive-anxiety.md) — related
 - [Formative focus groups found 5th graders most liked choosing story locations, and nearly all felt they learned from the app](cityhacks-formative-focus-groups.md) — related
 - [Outreach participants reported increased interest in networks and mathematics, per surveys and discussions](outreach-increased-student-interest.md) — related
+- [Art-inclined participants reported growing interest and ability in solving mathematical problems after the course](art-inclined-students-gained-math-confidence.md) — related

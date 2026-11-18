@@ -67,3 +67,5 @@ Group comparisons (Table 1) found no significant differences between DHH and hea
 - [All three academic anxieties are negatively correlated with STEM interest and positively correlated with mental rotation commission error rate](anxieties-correlated-mr-error-and-stem-interest.md) — related
 - [Math and science anxiety are significant positive predictors of mental rotation commission error rate, above and beyond spatial anxiety, spatial habits, ASL experience, and hearing status](math-science-anxiety-predict-mr-error.md) — related
 - [ASL experience was not associated with mental rotation performance, spatial habits, or math, science, or spatial anxiety in this sample](asl-experience-null-spatial-outcomes.md) — related
+- [DHH students reported a statistically significantly higher how-much-I-learned-about-science rating than hearing students after AstroDance performances](dhh-higher-learned-science-ratings.md) — related
+- [DHH and hearing students reported statistically indistinguishable enjoyment of the AstroDance performance](equivalent-enjoyment-dhh-hearing.md) — related

@@ -51,3 +51,11 @@ Reflexive ethnographic observations of twelve lab sections (more than 100 hours)
 - [In inquiry-based physics labs, women's profiles cluster in laptop use and men's in equipment use, indicating gendered task division](gendered-task-division-inquiry-labs.md) — related
 - [Averaged code fractions corroborate the cluster result: men handle equipment more and women use laptops more in inquiry labs](inquiry-lab-code-fractions-corroborate-clusters.md) — related
 - [In traditional guided-verification physics labs, no gender difference appears in the distribution of behaviour profiles](no-gender-difference-traditional-labs.md) — related
+- [Inquiry labs showed substantially greater task division within groups than traditional labs, with comparable division across group gender compositions](inquiry-labs-greater-task-division.md) — related
+- [The authors interpret that lab tasks are not inherently gendered and that mixed-gender role divisions reflect students enacting gender](lab-tasks-not-inherently-gendered-interpretation.md) — related
+- [Men behaved differently depending on group gender composition: men in single-gender groups were more often high Equipment users, while men in mixed-gender groups were more often high Other users](men-behavior-group-composition.md) — related
+- [In mixed-gender lab groups, men spent more time on the equipment while women spent more time on paper](mixed-gender-lab-groups-men-equipment-women-paper.md) — related
+- [Removing pedagogical structure in labs opened a wider range of available roles, with only 14% of inquiry-lab groups having all members in the same cluster versus 43% in traditional labs](reduced-structure-wider-roles.md) — related
+- [Women in single-gender groups were dominant across all lab activity roles, while women in mixed-gender groups were dominant only on computer, paper, or group discussion](single-gender-women-dominant-across-all-lab-roles.md) — related
+- [In mixed-gender inquiry-lab groups, women spent about twice as much time as men analyzing data on laptops (14±7% vs 6±3% of the lab period)](women-twice-laptop-analysis-time.md) — related
+- [Hands-on labs produce earlier and greater group cohesion than remote or simulated labs](hands-on-labs-greater-group-cohesion.md) — related

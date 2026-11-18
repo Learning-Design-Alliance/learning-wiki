@@ -41,6 +41,7 @@ The authors' forward-looking recommendations for the integrated curriculum. Firs
 - [Iterative improvements and interdisciplinary integration for the next course iteration](next-iteration-improvements-life-science-physics.md)
 - [Use freely available gravitational-wave education tools and resources, including Black Hole Hunter and Einstein's Messengers](grav-wave-education-tools-for-educators.md)
 - [Introduce gravitational waves in high school through debates, hands-on experimentation, and prior optics and gravitation topics as an entry door](gw-via-debates-experiments-optics-entry.md)
+- [Remote group project built on individual extensions of standard kit experiments with cross-group peer review](remote-individual-extension-group-project.md)
 
 ## Examples
 -

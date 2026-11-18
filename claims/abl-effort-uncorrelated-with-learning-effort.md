@@ -16,12 +16,14 @@ sources:
     author: Zhongzhou Chen and Matthew Guthrie
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Pre-learning test-taking effort was not correlated with learning effort on 9 of 10 OLMs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Zhongzhou Chen and Matthew Guthrie. (2019). Measuring the Effectiveness of Learning Resources Via Student Interaction with Online Learning Modules. Originally published 2017. [doi:10.48550/arXiv.1903.08003](https://doi.org/10.48550/arXiv.1903.08003)
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Correlational analysis of OLM log data using Fisher's exact tests (Table 4, row 1) found that "on 9 out of 10 modules, students’ test-taking effort on pre-learning attempts are not correlated with their learning efforts (MLS)"; the study therefore combined both measures into four engagement modes for subsequent analyses.
 

@@ -75,3 +75,4 @@ Mixed quantitative–qualitative expert review with seven experts in teacher edu
 - [Expert validation rated the ACP-SCT program content with an average Content Validity Index of 0.89](acp-sct-cvi-0-89-expert-validity.md) — related
 - [Content validation reduced 44 candidate items to 14, with scale-level CVR of .89 and CVI of .92](bsec-content-validity-cvr-cvi.md) — related
 - [All items in the final version of the ABC competency frameworks reached a Content Validation Index of at least 85% after revision of below-threshold items.](cvi-at-least-85-percent-final-items.md) — related
+- [Iterative revision produced a 20-item PIQL whose final version meets reliability and item-quality thresholds (Cronbach's α = 0.80 on v2.2)](piql-final-version-reliable-alpha-080.md) — related

@@ -67,3 +67,4 @@ Model evaluation using a modified k-fold cross-validation training on nine cours
 - [Most learners were repeat users: 77.1% completed more than one module and learners revisited modules an average of 2.84 to 3.82 times](gen-equip-repeat-usage-keeners.md) — related
 - [A logistic regression model using SNA indicators classifies high versus low achievers with 93.3% accuracy (AUC 0.92) in the study dataset](logistic-regression-classifies-achievement-93-percent.md) — related
 - [Lower question completion, PGY3 class and non-daily play predicted longitudinal attrition in a gamified knowledge competition.](attrition-predictors-completion-class-play-style.md) — related
+- [Gradient boosted trees (xgboost) outperform maximum-likelihood logistic regression at predicting graduating semester by out-of-sample F1-score, except in semesters 15-16](xgboost-outperforms-mle-time-to-graduation.md) — related

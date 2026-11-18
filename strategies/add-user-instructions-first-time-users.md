@@ -46,6 +46,7 @@ Based on teacher and student user experience, the study recommends that systems 
 - [User-Friendly Library Website Practices](user-friendly_library_website_practices.md)
 - [Support less digitally savvy learners with targeted digital scaffolding and add collaborative activities to AI-enhanced microlearning](digital-scaffolding-and-peer-interaction-microlearning.md)
 - [Deploy an LLM-based chatbot trained on course materials to support course orientation and onboarding, particularly for ESL students](llm-chatbot-course-orientation-strategy.md)
+- [Design a blockchain-based trusted achievement record with a friendly user interface to hide blockchain complexity](friendly-ui-blockchain-achievement-record-strategy.md)
 
 ## Examples
 -

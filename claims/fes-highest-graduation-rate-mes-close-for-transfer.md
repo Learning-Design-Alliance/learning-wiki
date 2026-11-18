@@ -16,12 +16,14 @@ sources:
     author: Shahab Boumi, Adan Vela
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # FES students have the highest graduation rate, with MES students showing graduation rates close to FES for transfer students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Shahab Boumi, Adan Vela. (2020). Quantifying the relationship between student enrollment patterns and student performance. [doi:10.48550/arXiv.2003.10874](https://doi.org/10.48550/arXiv.2003.10874)
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Absorbing Markov chain analysis of graduation rates for transfer students across academic levels and enrollment strategies. Table 17 shows MES transfer students at Start have 72% graduation rate compared to FES at 74% and PES at 36%.
 

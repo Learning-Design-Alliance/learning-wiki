@@ -49,6 +49,7 @@ The article recommends that in courses already using programming, computational 
 - [Implement computational essays via an open investigation challenge with pre-built simplified simulations, example essays, drop-in sessions, and peer presentations](scaffolded-computational-essay-pilot-strategy.md)
 - [Writing Process Portfolios](writing-process-portfolios.md)
 - [Give learners control over how learning is measured via assessment choices and science-fair-type projects](learner-controlled-assessment-science-fair-projects.md)
+- [Add peer review and revision cycles to computational essay courses to supply feedback and correctness checking](peer-review-revision-for-computational-essays.md)
 
 ## Examples
 -

@@ -65,6 +65,7 @@ Citation chaining shifts information seeking from keyword luck to structured inq
 - [3-Source Rule](3-source_rule.md) — a verification norm that citation chaining operationalizes by surfacing independent sources for the same claim
 - [Teach literature searching with an iterative search-sort-inspect-repeat algorithm using field tags, search-string perturbations, and citation sorting](search-sort-inspect-repeat-literature-strategy.md)
 - [Start a literature-review course by having students find all existing reviews on the topic to expose the gap and teach search tools](find-all-existing-reviews-starting-strategy.md)
+- [Search ADS by first author and year, then filter by field and refereed status to locate a specific paper](ads-author-year-search-filtering-strategy.md)
 
 ## Examples
 - **Systematic reviews in health sciences** — Cochrane-style reviews use backward-and-forward citation searching ("snowballing") as a supplement to database searches to ensure no relevant trial is missed.

@@ -51,6 +51,7 @@ The article's recommendations for professional development design are threefold:
 - [Use findings on instructor power relations to inform professional development for responding to Generative AI](genai-power-relations-inform-instructor-pd.md)
 - [Professional development for AI ethics should create spaces for contextualised critique and resistance](pd-contextualised-critique-ai-ethics.md)
 - [Use a community of practice to collaboratively develop university-wide online orientation resources](community-of-practice-collaborative-orientation-development.md)
+- [Use the Community of Practice framework as a design framework for developing future informal physics programs](cop-as-design-framework-for-programs.md)
 
 ## Examples
 -

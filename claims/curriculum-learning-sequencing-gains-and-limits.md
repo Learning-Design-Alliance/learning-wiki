@@ -66,3 +66,5 @@ The article describes hard example mining as a divergence from human pedagogy, n
 ## Related Claims
 - [Reinforcement learning in adaptive educational systems faces sample inefficiency and reward-design instability, motivating hybrid RL-ML approaches](rl-sample-inefficiency-reward-design-limits.md) — related
 - [Reinforcement learning operationalizes motivational constructs by representing motivation in the reward function](rl-reward-function-operationalizes-motivation.md) — related
+- [Training sequences sampled from an optimized time-varying word distribution yield significantly higher generalization accuracy than frequency-based and uniform baselines in a connectionist reading model](optimized-word-sequence-beats-frequency-baselines-reading-ann.md) — a narrower finding that bears on this claim
+- [Optimized-sequence gains over baselines are larger for a 200-word training pool than a 1000-word pool, though overall test accuracy is lower with the smaller pool](sequence-optimization-gains-larger-small-pool.md) — a narrower finding that bears on this claim

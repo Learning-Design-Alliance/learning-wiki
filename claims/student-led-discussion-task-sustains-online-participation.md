@@ -62,3 +62,4 @@ Observational analysis of SNAPP visualisations of discussion-board interactions 
 - [Peer-led learning is associated with higher post-secondary cognitive achievement than non-peer-led learning, with a moderate pooled effect of g = 0.36](pll-moderate-positive-effect-cognitive-achievement.md) — related
 - [Gas exchange question scores did not differ between small groups led by study coauthors versus nonauthors (74.7% vs. 75.8%)](no-facilitator-author-effect-on-gas-exchange-scores.md) — related
 - [Moving the activity to an online forum with task-based prompts produced no student-to-student interaction and an assessment-centered discussion](online-forum-implementation-no-interaction-assessment-centered.md) — reports the opposite
+- [The article reports, citing prior work, that asynchronous forums and discussion boards can cause too much interaction, student overload, dissatisfaction, and backwardness](asynchronous-forums-overload-dissatisfaction.md) — related

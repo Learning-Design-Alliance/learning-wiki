@@ -48,3 +48,4 @@ The author's self-reported count of students supervised across his long-running 
 ## Related Claims
 - [Remote mentoring of young females in STEM was reported to build mentees' skills, confidence, scientific visibility, and career awareness, with a minority reporting discontent](magic-remote-mentoring-impact-on-mentees.md) — related
 - [Pupil discoveries spanned multiple variable star types, including a delta Scuti star with the shortest period of the project at 1.82 hours](variable-star-types-discovered-london-pilot.md) — related
+- [AstroDance surveyed audiences were roughly evenly split by hearing status and gender, mostly aged 13–21, with 89% self-reporting ethnicity](astrodance-audience-demographics.md) — related

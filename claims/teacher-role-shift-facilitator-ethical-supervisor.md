@@ -79,3 +79,4 @@ RQ2 theme establishing the teacher as supervisor and ethicist of AI use. Teacher
 - [In the direct method, teachers perceive conversational ventriloquism, autonomy shifts, authority challenges, and memory erosion](dm-four-ethical-tensions.md) — related
 - [Educators' written ideas about ChatGPT in education followed four themes: fostering AI literacy, acting as a character, improving learning, and serving as a teacher's help](chatgpt-ideas-four-themes-dataset2.md) — related
 - [In-app automated data analysis shifts an experiment's instructional focus, e.g. from teaching data analysis to teaching basic kinematics](in-app-analysis-shifts-experiment-focus.md) — related
+- [Student participation in scientific exhibitions shifts teachers from knowledge transmitters to mediators and makes students protagonists of teaching-learning](exhibition-student-protagonism-mediation.md) — related

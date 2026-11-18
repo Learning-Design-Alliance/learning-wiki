@@ -17,12 +17,14 @@ sources:
     author: Benjamin Clavié, Kobi Gal
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Pretraining on MOOC forum data improves urgency-prediction performance beyond the state of the art, with EduDistilBERT achieving the best overall performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Benjamin Clavié, Kobi Gal. (2019). EduBERT: Pretrained Deep Language Models for Learning Analytics. Companion Proceedings 10th International Conference on Learning Analytics & Knowledge (LAK20). [doi:10.48550/arXiv.1912.00690](https://doi.org/10.48550/arXiv.1912.00690)
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Evaluation on the Stanford MOOCPosts urgency-prediction task, comparing EduBERT, EduDistilBERT, BERT-base and DistilBERT against Guo et al. (2019). All pretraining approaches "outperformed the SoA for F1 and weighted F1 measures"; EduDistilBERT reached weighted F1 0.925 versus 0.918 for the prior state of the art.
 

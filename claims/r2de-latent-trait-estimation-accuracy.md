@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-18
 evidence_strength: moderate
+source_checked: 2026-11-18
 sources:
   - id: luca-benedetto-2020
     title: Luca Benedetto 2020
@@ -27,7 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 design `r2` · `q2`
-> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
+> **Currency** · no dated study recorded · checked against its sources 2026-11-18 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On the held-out test questions, R2DE estimated difficulty with a MAE of 0.639, i.e. 6.39% of the difficulty range. [→ Luca Benedetto 2020](#luca-benedetto-2020)

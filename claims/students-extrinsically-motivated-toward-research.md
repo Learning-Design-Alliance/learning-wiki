@@ -16,12 +16,14 @@ sources:
     author: Tra Huynh, Adrian M. Madsen, and Eleanor C. Sayre
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students who joined research groups expressed inherent interest in physics but had little idea what research entails beforehand, i.e. extrinsic motivation toward research
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Tra Huynh, Adrian M. Madsen, and Eleanor C. Sayre. (2020). Undergraduate Researcher Personas. Originally published 2019. [doi:10.48550/arXiv.2003.00364](https://doi.org/10.48550/arXiv.2003.00364)
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Thematic analysis of the interview corpus found that, although students 'expressed an inherent interest in physics, they had little idea about what research is like or what it entails before their involvement in research.' The authors read this as extrinsic motivation toward research activity.
 

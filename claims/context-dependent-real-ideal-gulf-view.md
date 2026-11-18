@@ -97,3 +97,4 @@ Microanalysis of the interview transcript found that while discussing or solving
 - [An affectively positive experience of informal conceptual reasoning temporarily reversed Judy's stance that conceptual reasoning is useless](positive-affect-reversed-conceptual-reasoning-stance.md) — related
 - [A student's epistemological stance privileging formalism over perception can be nuanced and flexible rather than a globally robust belief](epistemological-stance-nuanced-flexible.md) — related
 - [Following a formal problem-solving rubric without activating sense-making intuition can produce nonsense, even by professionals](rubric-without-intuition-produces-nonsense.md) — related
+- [A student’s belief that intuition need not be reconciled with mathematical formalism may have prevented her from checking representational consistency](epistemological-beliefs-block-consistency-check.md) — related

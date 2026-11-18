@@ -65,6 +65,7 @@ For curriculum design, the chapter recommends a transdisciplinary approach in wh
 - [Pair human trafficking content with related existing topics when adapting the curriculum to other institutions](pair-trafficking-content-with-related-topics.md)
 - [Embed new curricular content by replacing an existing clerkship activity rather than adding instructional time](replace-existing-clerkship-activity-strategy.md)
 - [Add technology-trend courses to the curriculum through project-based learning](trend-courses-project-based-learning.md)
+- [Introduce climate physics by weaving it into existing physics course topics in staged intersections](weave-climate-physics-into-course-topics.md)
 
 ## Examples
 -

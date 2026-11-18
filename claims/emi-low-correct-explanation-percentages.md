@@ -16,12 +16,14 @@ sources:
     author: Michela Cavinato, Elia Giliberti and Marco Giliberti
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Fewer than half of participants answered even the most standard EMI questions correctly with sufficient explanations, with correct-plus-explained rates falling to 4–6% on non-standard questions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Michela Cavinato, Elia Giliberti and Marco Giliberti (2019). Conceptualization of Electromagnetic Induction at various Educational Levels: a Case Study. [doi:10.48550/arXiv.1910.04491](https://doi.org/10.48550/arXiv.1910.04491)
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Section 4.7 reports, for the pooled 49-participant sample, the percentage of students who both chose the correct multiple-choice option and gave a sufficiently correct motivation for each of the six questions; the printed list continues with D5 at 4% and D6 at 6%.
 

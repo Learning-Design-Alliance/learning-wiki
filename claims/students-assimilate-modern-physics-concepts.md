@@ -16,12 +16,14 @@ sources:
     author: Brendon S. M. Barros and Emanuel V. de Souza
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # High-school students are reported to be able to assimilate modern physics concepts such as gravitational waves and relate them to their daily lives
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Brendon S. M. Barros and Emanuel V. de Souza. (2020). Estudo das ondas gravitacionais no ensino médio: uma abordagem teórica e experimental. [doi:10.48550/arXiv.2003.08543](https://doi.org/10.48550/arXiv.2003.08543)
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 The authors' stated outcome of their classroom work introducing gravitational waves through debates and experimental practices in high school. They state they are "mostrando acima de tudo que os alunos possuem a capacidade de assimilar conceitos físicos modernos". No effect size or test statistic is printed in the supplied text.
 

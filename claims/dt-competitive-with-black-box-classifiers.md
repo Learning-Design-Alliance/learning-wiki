@@ -9,6 +9,7 @@ generated:
   at: 2026-10-12
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-18
 recheck_by: 2028
 sources:
   - id: vincent-zhang-2025
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
+> **Currency** · newest study 2025 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` LR, RF and SVM performed slightly better than DTs, with SVM best at 83.9-94.4% accuracy, but SVM and RF are black-box and SVM and LR were slow to train. [→ Vincent Zhang 2025](#vincent-zhang-2025)
@@ -81,3 +82,5 @@ Comparison reported in the Results section across the same four-course module-le
 - [Random forest and support vector machine models also failed to beat chance when predicting laboratory performance, supporting the null result](rf-svm-also-fail-beat-chance-lab-performance.md) — related
 - [Model results are robust to varying training fraction and number of trees, but the highest-physics-degree factor is only marginally meaningful](hyperparameter-robustness-variable-importance.md) — related
 - [The factor-based M5P decision tree is the most computationally efficient classifier in build time among the four evaluated student performance models](factor-based-m5p-most-computationally-efficient.md) — related
+- [A decision tree trained on Sample 2 week-2 data identifies a homework average of 62% as the highest-level threshold for classifying students at risk of a DFW outcome](decision-tree-homework-62-percent-threshold-dfw.md) — related
+- [Gradient boosted trees (xgboost) outperform maximum-likelihood logistic regression at predicting graduating semester by out-of-sample F1-score, except in semesters 15-16](xgboost-outperforms-mle-time-to-graduation.md) — related

@@ -17,7 +17,7 @@ sources:
 # Advertise the existence of secret objectives and challenge students to find them, then let students direct the investigation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 qualitative), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 qualitative, 1 design), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Students are 'explicitly challenged to find the secret objectives in each experiment' and then given freedom to explore. Staff should allow students to decide what the problem actually is and what to do about it; students first identify a problem with the experiment, then inquire into its nature and implications. Teaching staff should acknowledge that secret objectives are personal and that staff know only some of them, to discourage belief in a single correct answer.

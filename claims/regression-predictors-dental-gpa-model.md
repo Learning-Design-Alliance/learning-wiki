@@ -76,3 +76,4 @@ Initial linear regression with bootstrapped p-values (1000 samples). Table 4 pri
 - [The regression model based on cumulative GPA explains more variance than the model based on first-year GPA](cumulative-gpa-model-better-fit.md) — related
 - [After adjustment, current GPA and knowledge test score — not learning method — were associated with final statistics achievement](gpa-and-knowledge-test-predict-final-score.md) — related
 - [The final model explains 5% of student-level, 44.8% of school-level, and 13.6% of total variance in math achievement](final-model-variance-explained-taiwan-math.md) — related
+- [Students in the reformed section had a statistically significantly lower average high school GPA (3.58 vs 3.69, p = 0.008), with no significant differences on other entrance measures](reformed-section-lower-high-school-gpa-p-0008.md) — related

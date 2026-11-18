@@ -16,12 +16,14 @@ sources:
     author: Kyle M. Whitcomb and Chandralekha Singh
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # First-generation URM students show declining STEM GPA in later years across all major clusters, unlike non-URM students who rise over time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kyle M. Whitcomb and Chandralekha Singh. (2020). Not all disadvantages are equal: Racial/ethnic minority students have largest disadvantage of all demographic groups in both STEM and non-STEM GPA. arXiv preprint. [doi:10.48550/arXiv.2003.04376](https://doi.org/10.48550/arXiv.2003.04376)
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Observational analysis of mean GPA by year across three major clusters (engineering/CS/math/physical science; other STEM; non-STEM), Figs. 3 and 4. The article reports the first-generation URM STEM GPA "drops in the third year for every subpopulation by major."
 

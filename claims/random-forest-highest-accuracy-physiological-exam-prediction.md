@@ -56,3 +56,4 @@ Comparative evaluation of tuned machine learning models on a test set of 49,299 
 - [Random Forest performed slightly better overall than SVM and Complement Naive Bayes for classifying short exam answers, with an average F-score of 0.82](random-forest-slightly-better-for-answer-classification.md) — related
 - [Random Forest most accurately predicts novices' visual behavior levels from CV-DL-extracted metrics, with fixation rates on objects and tool speed as key predictors](random-forest-predicts-visual-behavior-levels.md) — related
 - [Model performance metrics stabilize once the minority outcome training sample reaches roughly 100 students](minority-sample-size-100-threshold-physics-prediction.md) — related
+- [Raw LMNET is the most predictable engagement encoding, and Random Forest with kernelised models performs best, indicating non-linearity](raw-lmnet-rf-best-engagement-prediction.md) — related

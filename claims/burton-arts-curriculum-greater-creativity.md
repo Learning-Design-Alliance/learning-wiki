@@ -50,3 +50,4 @@ The review reports this second-hand, citing Burton, a professor of fine art at C
 
 ## Related Claims
 - [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — related
+- [Art-inclined participants reported growing interest and ability in solving mathematical problems after the course](art-inclined-students-gained-math-confidence.md) — related

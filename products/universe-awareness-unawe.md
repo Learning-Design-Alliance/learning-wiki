@@ -21,6 +21,7 @@ An international astronomy-education network and programme that uses the Univers
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **The UNAWE philosophy: astronomy as inspiration for global citizenship in early childhood**: The UNAWE philosophy holds that the early formative years are crucial in developing the human value system, and that astronomy's beauty and grandeur can motivate very young children. The programme uses the Universe 'to encourage young children, particularly those from an underprivileged background, to have an interest in science and technology and foster their sense of global citizenship from the earliest age'. (George Miley et al. (2015))
+- **UNAWE Earthball inflatable globe**: The UNAWE Earthball is a flagship resource described as 'a simple inflatable globe without borders' that shows the Earth from the perspective of Space, illustrating its shape, axial tilt and surface composition. Its accompanying activity booklet contains 50 interactive, hands-on activities for children aged between 6 and 12 years, usable in schools, playgrounds or at home. (George Miley et al. (2015))
 
 ### Claims
 

@@ -59,8 +59,10 @@ Exploration Station leverages self-directed, hands-on engagement: autonomy over 
 5. Bring discoveries into whole-class share-outs, then have learners commit to a composition pathway and begin drafting.
 
 ## Related Strategies
+
 - Activating prior knowledge — seeding exploration with what learners already know about modes and media gives the open browsing a starting point
 - Studio-based learning — the station functions as a studio resource within an atelier-style composition classroom
+- [Split project work into hands-on and digital subgroups so participants follow their own interests](hands-on-digital-subgroup-split.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — low-stakes tool trials before open exploration reduce interface load

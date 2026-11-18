@@ -51,3 +51,4 @@ Pooled SALG survey from six of seven 2-yr campuses (n = 85 in Figure 3; Table 9 
 - [Community college CREATE students showed significant self-rated gains in reading primary literature, understanding research, and maturation of epistemological beliefs, with no change in the knowledge-is-certain category](cc-create-saab-affective-epistemological-gains.md) — related
 - [A majority of community college students in first-time CREATE courses preferred CREATE to other teaching methods they had experienced](cc-create-student-preference-over-lecture.md) — related
 - [Students assessed that they made great gains in understanding real scientific research and real world issues](salg-great-gains-real-world-research.md) — related
+- [Pre/post survey showed only a small, non-significant positive change in students' views of science](small-nonsignificant-tssi-change-inclusive-astronomy.md) — related

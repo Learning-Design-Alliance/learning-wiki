@@ -99,3 +99,5 @@ Same overview: students recognize durable skills like time management, collabora
 - [Students may make real-world physics connections without valuing or labeling them as physics, adding complexity to interpreting attitude measures](connections-without-labeling-as-physics.md) — related
 - [Students valued the open-ended generative task for connecting physics to real contexts but reported unfamiliarity with making assumptions](student-perceptions-of-generative-task.md) — related
 - [High-school students are reported to be able to assimilate modern physics concepts such as gravitational waves and relate them to their daily lives](students-assimilate-modern-physics-concepts.md) — related
+- [Teaching climate science in isolation can produce helplessness, disempowerment and apathy rather than motivation to act](climate-science-alone-causes-apathy.md) — related
+- [Over 40% of responses to a personal writing prompt connected course content to students' life files](writing-prompt-life-file-connections-over-40-percent.md) — a narrower finding that bears on this claim

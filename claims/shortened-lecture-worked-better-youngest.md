@@ -51,3 +51,4 @@ Observation across the two University sessions with 15–16-year-olds: many exam
 - [Profile-based shortening removed more sentences and more presentation time than script writers' cuts](profile-cut-more-than-writers-cuts.md) — related
 - [The workshop covered too many topics to fit the session time, and the configuration model was skipped for lack of a good pre-worked example](workshop-too-long-topics-skipped.md) — related
 - [Substantially shortening and simplifying Proposal C signiﬁcantly improved students' understanding of its wording without reducing motivation understanding](simplifying-proposal-c-improved-wording-understanding.md) — related
+- [The author observes that student audiences pay more attention to peer-delivered astronomy talks than to the same topic in a teacher's lecture](peer-delivered-astronomy-talks-higher-attention.md) — a broader claim this one bears on

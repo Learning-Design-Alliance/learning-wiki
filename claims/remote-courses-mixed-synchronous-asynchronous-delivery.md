@@ -55,3 +55,4 @@ Table 1 of the national student survey (n = 1,008) reports delivery mechanisms: 
 - [Electronic resources as adjuncts to in-person teaching were associated with increased attendance in three studies](electronic-resources-adjunct-increased-attendance.md) — related
 - [Students in a large analytical chemistry course preferred synchronous videoconference lectures over pre-recorded asynchronous lectures](students-prefer-synchronous-lectures-large-course.md) — related
 - [Students preferentially accessed lecture slides and practical videos over other repository resource types, with video uptake rising and slide uptake falling between 2009 and 2010](lecture-slides-videos-most-accessed.md) — related
+- [Approximately 50% of surveyed instructors would structure synchronous versus asynchronous course time differently if teaching remotely again](restructure-sync-async-remote-lab-time.md) — related

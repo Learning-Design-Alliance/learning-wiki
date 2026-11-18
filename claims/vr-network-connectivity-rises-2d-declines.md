@@ -48,3 +48,4 @@ Successive cross-sectional one-mode SNA over four weeks (Table 1) of the two gro
 - [3D VR co-creation showed CoI-like network features from the outset, with higher social-presence density and fewer, larger components than 2D](vr-cocreation-community-of-inquiry-features.md) — related
 - [3D VR co-creation forms a more connected, centralized, and reciprocal aggregate social network with fewer cliques than 2D digital co-creation](vr-cocreation-denser-more-centralized-networks.md) — a broader claim this one bears on
 - [Nearly all 3D VR co-creators brokered contacts across the network while many 2D digital co-creators showed no betweenness](vr-cocreators-brokerage-betweenness.md) — related
+- [Link reciprocity increases from early to late semester in all four curricula, with ISLE rising from 50% to 90%](reciprocity-increases-early-to-late-semester.md) — related

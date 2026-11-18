@@ -58,3 +58,4 @@ Mixed-effects regression on trait anxiety in the study sample; gender was the on
 - [The test anxiety interventions did not change end-of-course self-declared trait anxiety](test-anxiety-intervention-no-trait-anxiety-change.md) — related
 - [Women report higher trait test anxiety than men at the start of an introductory biology course](women-report-higher-trait-test-anxiety-than-men-intro-biology.md) — possibly the same claim (merge candidate)
 - [Male students reported higher self-efficacy than female students in both Studies 2 and 3, and self-efficacy mediated the gender effect on learning in Study 3](gender-self-efficacy-difference-mediation.md) — related
+- [Women reported lower self-efficacy and higher test anxiety than men in an active-learning introductory physics course](women-lower-self-efficacy-higher-test-anxiety.md) — related

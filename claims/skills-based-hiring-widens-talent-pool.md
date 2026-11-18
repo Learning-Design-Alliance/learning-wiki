@@ -52,3 +52,4 @@ In its postsecondary key recommendations, the scan states that "removing degree 
 - [A skills-first approach to hiring and advancement is taking hold in the private and public sectors](skills-first-hiring-taking-hold.md) — related
 - [Black jobseekers report biased applicant tracking systems, lengthy hiring processes, and entry-level postings requiring years of experience](tech-hiring-process-barriers-ats-experience-mismatch.md) — related
 - Roughly 30% of core workplace skills changed in ten years and over 60% of job titles mentioning AI are non-tech roles — related
+- [A mismatch exists between higher education's response to quantum workforce demand and what industry requests: only 14% of companies mentioned master's degrees while many institutions are considering them, and 52% requested short on-demand courses](masters-degree-vs-industry-short-course-demand.md) — related

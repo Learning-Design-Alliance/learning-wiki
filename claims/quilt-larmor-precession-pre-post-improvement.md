@@ -52,3 +52,4 @@ Pre-/posttest study of 72 students in four junior-senior level quantum mechanics
 - [Incorrect reasoning differs by item: students misattribute stationary-state status on the Sx item but invoke non-commutation of Sx and Sy on the Sy item](quilt-larmor-item-reasoning-asymmetry.md) — related
 - [Graduate students often ignore whether the initial state is an eigenstate of the Hamiltonian when reasoning about time dependence of spin expectation values](students-ignore-stationary-state-condition-spin-expectation-values.md) — related
 - [Working through the time-development QuILT improved average performance from 53% to 85% on pre-/post-tests in an advanced quantum mechanics course](quilt-time-development-pre-post-gain.md) — related
+- [Upper-level QM students show moderate pretest-to-posttest gains on every question after engaging with the Larmor precession clicker question sequence with peer instruction](cqs-larmor-moderate-gains-all-questions.md) — related

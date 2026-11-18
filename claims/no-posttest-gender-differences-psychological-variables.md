@@ -56,3 +56,4 @@ Independent-samples t-tests comparing males (n = 37) and females (n = 47) at pos
 - [No significant gender differences in examination performance within any of the three teaching-modality groups](no-gender-difference-anatomy-modality-groups.md) — related
 - [No overall gender differences in examination performance, with one exception at T1 for Rater 1](no-gender-difference-facial-examination-osce.md) — related
 - [No gender, ethnicity, or major differences emerged in pre-post self-efficacy scores in the MI courses](no-gender-ethnicity-major-self-efficacy-differences.md) — related
+- [Significant gender gaps in physics self-efficacy favoring male students persist at the end of both physics 1 and physics 2, with moderate effect sizes](gender-gap-physics-self-efficacy-intro-sequence.md) — reports the opposite

@@ -71,3 +71,4 @@ FY/BFY-separated comparison of CIS communication-activity reports; apparent diff
 - [Lab course activities did not necessitate notebook use because of their short, scripted timescale](lab-course-design-not-necessitating-notebooks.md) — related
 - [The LCAS discovery and relevance scale differentiates CURE students from traditional lab students with a medium-large effect](lcas-discovery-relevance-differentiates-cures.md) — related
 - [Four E-CLASS items elicit less-than-50% expert-like responses in both FY and BFY courses, three of them concerning student autonomy](low-favorable-autonomy-items-e-class.md) — related
+- [Many instructors shifted remote lab learning goals toward reinforcing physics concepts, while skills-focused courses largely maintained their goals](shift-to-concept-focused-remote-lab-goals.md) — related

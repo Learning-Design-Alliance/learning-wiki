@@ -75,6 +75,7 @@ Formative assessment is among the most consistently supported instructional prac
 - [Return graded three-tier tests, guide student reflection on learning-risk topics, and re-evaluate to monitor progress](return-tests-guide-reflection-reevaluate-risks.md)
 - [Collect formative assessment at the end of class to inform the next session when instructors are uncomfortable modifying delivery in real time](end-of-class-collection-for-next-session.md)
 - [Weekly individualized formative feedback on group work using three criteria](weekly-formative-feedback-group-work-p3.md)
+- [Use weekly discomfort surveys to guide instructors toward topical areas students feel deserve attention](discomfort-survey-guide-instructor-attention.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the evidence-collection step

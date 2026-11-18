@@ -68,3 +68,4 @@ Table III (sexual harassment) and Table IV (moral harassment) break responses do
 - [The Brazilian physics community is poorly diverse, being predominantly male, white, heterosexual and southeastern](brazilian-physics-community-poorly-diverse.md) — related
 - [Moral and sexual harassment incidence is higher in subgroups differing from the cisgender-heterosexual majority profile](higher-harassment-non-cisgender-non-heterosexual.md) — related
 - [Diversity decreases with career progression: proportions of women and black+parda people are higher among undergraduates than at the PhD level](diversity-decreases-with-career-progression-scissors-effect.md) — related
+- [One in five female physics Ph.D. students (21%) reported experiencing sexual harassment during their studies, versus 2% of men](sexual-harassment-female-physics-phd-israel.md) — related

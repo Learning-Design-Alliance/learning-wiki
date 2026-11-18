@@ -52,3 +52,4 @@ Pre-post matched FCI analysis of 217 physics majors (168 men, 49 women) across f
 - [Women's CLASS scores correlated meaningfully with normalized FCI gains, but men's did not](gendered-class-fci-gain-correlation.md) — related
 - [An honors section taught with integrated PER-informed lab and lecture methods achieved an FCI normalized gain of 0.5, well above the large lecture sections](honors-integrated-per-perl-fci-gain-0-5.md) — related
 - [Men's average FCI and FMCE pretest scores are always higher than women's, and posttest scores and normalized gains are usually higher, with no single factor explaining the gap.](gender-gap-fci-fmce-pretest-scores.md) — related
+- [Men scored higher than women on FCI pretest, FCI post-test, and solo-phase exam in introductory physics](fci-exam-gender-gaps-favor-men.md) — related

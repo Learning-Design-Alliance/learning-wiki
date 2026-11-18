@@ -46,6 +46,7 @@ The article recommends institutional responses built on "the deliberate creation
 
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
 - [Embed GenAI literacy and ethical use directly in nursing curricula rather than prohibiting it](embed-genai-literacy-ethics-nursing-curricula.md)
+- [Involve students and alumni directly in campus activities, curriculum development and dialogue to build experience value](involve-students-curriculum-dialogue.md)
 
 ## Examples
 -

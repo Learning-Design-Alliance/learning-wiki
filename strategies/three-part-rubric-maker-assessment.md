@@ -44,6 +44,7 @@ After a well-crafted prompt, the paper recommends a rubric or checklist as the s
 - [Use component-level checklists for lesson planning and rubric design](checklists-for-lesson-planning-and-rubrics.md)
 - [Assess disruption and reclamation with rubric levels of adaptability and automated disruption-reclamation profiles](assess-disruption-reclamation-adaptability.md)
 - [Teachers can use ChatGPT to generate open-ended question prompts, quality rubrics, and formative assessment prompts aligned with learning goals](chatgpt-teacher-assessment-prompt-strategies.md)
+- [Use reflection, formative assessment and final assessment to close CMODS lessons](reflection-formative-final-assessment-cmods.md)
 
 ## Examples
 -

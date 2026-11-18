@@ -60,3 +60,4 @@ Same postsimulation survey (110 respondents). Figure 6 reports mean perceived-im
 - [More than 90% of participating second-year medical students endorsed each objective on the post-simulation Likert survey](pidd-simulation-likert-90-percent-endorsement.md) — a broader claim this one bears on
 - [Most student respondents perceived that SDL sessions improved their performance of the specific skills practised](students-perceive-sdl-improves-practised-skills.md) — related
 - [Medical students highly view blueprinted feedback reports, rating feedback as valuable](high-viewing-rates-blueprinted-feedback.md) — related
+- [Students report the activities as highly motivating and time management as essential to project success](survey-motivation-and-time-management.md) — related

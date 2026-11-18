@@ -48,3 +48,4 @@ Correlational analysis of time-stamped log data from 28 graduate computer confer
 - [Class size shows no significant relationship with the total number of words students write in online courses](class-size-no-words-written-correlation.md) — related
 - [Students in larger online classes open a smaller percentage of their peers' notes](larger-classes-fewer-notes-opened.md) — related
 - [Students write shorter notes as online class size increases](larger-classes-shorter-notes.md) — related
+- [Longer lectures receive a smaller percentage of watch time and are harder to compare accurately](lecture-length-reduces-watch-time-fraction.md) — related

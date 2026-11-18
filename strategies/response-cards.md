@@ -65,6 +65,7 @@ Response cards are a low-cost implementation of [Active Learning](../principles/
 - [Use LMS discussion boards as a low-anxiety alternative to oral recitation for L2 opinion expression](lms-discussion-board-recitation-substitute.md)
 - [Replace board-work by a few selected students with device-based submission of all students' problem solutions for whole-class real-time feedback](whole-class-digital-ink-solution-submission-strategy.md)
 - [Use 50/50 and Fill-in-the-Blank interactive lecturing questions with whole-class choral responses for real-time formative feedback](50-50-fill-in-blank-interactive-lecturing.md)
+- [Use green-yellow-red cards for quick non-verbal comprehension feedback during lessons](traffic-light-cards-nonverbal-feedback.md)
 
 ## Examples
 - **Plickers** (https://www.plickers.com) — students hold printed QR-style cards; the teacher scans the room with a device and receives per-student response data, combining the low-tech card mechanic with digital record-keeping.

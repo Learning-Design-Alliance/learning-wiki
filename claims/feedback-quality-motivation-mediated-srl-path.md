@@ -52,3 +52,4 @@ Bootstrapped indirect-effect tests (Table 9) in the 689-student survey: QAF→LM
 - [Perceived AIGC affordance enhances AIGC self-efficacy and directly predicts self-regulated learning in IEI undergraduates](aigc-affordance-boosts-self-efficacy-and-srl.md) — related
 - [AIGC feedback quality predicts satisfaction but not self-efficacy, and satisfaction does not predict self-regulated learning](feedback-quality-satisfaction-not-srl.md) — related
 - [Self-efficacy and learning motivation serially mediate the link from AIGC affordance to self-regulated learning](serial-mediation-affordance-efficacy-motivation-srl.md) — related
+- [Co-creation does not directly affect student satisfaction; its effect is indirect through experience value.](co-creation-no-direct-effect-satisfaction.md) — related

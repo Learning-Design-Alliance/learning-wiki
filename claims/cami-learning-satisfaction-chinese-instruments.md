@@ -56,3 +56,4 @@ Post-instruction Learning Satisfaction Survey Questionnaire on a five-point Like
 - [Students report satisfaction with simulation-based maternity sessions, agreeing simulation assisted understanding of clinical practice and should precede real practice](satisfaction-simulation-maternity-sessions.md) — related
 - [Students responded positively to the transiting-planet inquiry activity, with 90% writing positive post-activity survey responses](transiting-planets-inquiry-90-percent-positive-feedback.md) — related
 - [Students found learning with the computer models fun, interesting and extending beyond the syllabus, and expressed appreciation](ejs-simulations-fun-beyond-syllabus-appreciation.md) — related
+- [In class surveys, 93% of students agreed the iOLab-based lab was useful to their learning and 90% indicated the iOLab was easy to use.](iolab-lab-student-survey-usefulness-ease.md) — related

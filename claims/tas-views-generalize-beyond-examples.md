@@ -50,3 +50,4 @@ Follow-up think-aloud interviews with 12 former participants, conducted at least
 - [TAs judged context-rich problems the most challenging of the presented problem types and multiple-choice problems moderately challenging](tas-rank-context-rich-most-challenging.md) — related
 - [Most TAs did not envision any situation in which context-rich problems could be used effectively, and over 20% said they would never use them](tas-reluctant-use-context-rich-problems.md) — related
 - [TAs' pros for multiple-choice problems centered on logistical issues, and a majority listed the con that no partial credit or understanding is shown](tas-mc-pros-logistical-cons-no-partial-credit.md) — related
+- [TAs found the CSEM-related PCK task challenging but reported it was worthwhile for learning to think from students' perspective](tas-found-pck-task-challenging-but-worthwhile.md) — related

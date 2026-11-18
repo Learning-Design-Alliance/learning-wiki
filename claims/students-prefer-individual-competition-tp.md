@@ -50,3 +50,4 @@ Single-choice survey item asking the 91 respondents in which TP environment they
 - [Cooperative team-based competition in a gamified course was associated with high reported enjoyment of group work, in contrast to studies using solely competitive elements](cooperative-team-competition-group-work-enjoyment.md) — related
 - [Competition was a constant source of enjoyment for math circle participants, with evaluation focused on the task rather than the individual](competition-enjoyment-task-focused-evaluation.md) — related
 - [Students strongly oppose preassigned teams and value autonomy in review game participation](review-game-team-autonomy.md) — related
+- [Students strongly preferred anonymous clicker polling and valued it as a positive break, with over 80% agreement on the first three Likert statements](clicker-anonymity-and-break-likert-results.md) — related

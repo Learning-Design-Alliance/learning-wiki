@@ -52,3 +52,4 @@ Comparison of final academic performance between the two cohorts; course evaluat
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — a broader claim this one bears on
 - [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](gamification-raises-motivation-satisfaction.md) — related
 - [Gamification studies in SLA show positive results on learning achievement and motivation but without confirmed correlation between the two](gamification-sla-learning-motivation-no-confirmed-correlation.md) — related
+- [Gamification shows mixed results for learning performance, especially when based on scores and leaderboards](gamification-mixed-learning-results-leaderboards.md) — related

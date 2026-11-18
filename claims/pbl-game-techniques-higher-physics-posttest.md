@@ -86,3 +86,4 @@ Quasi-experimental comparison of 21 experimental and 13 control students after a
 - [The EJS PbI treatment produced no significant advantage over traditional instruction on Newton's 3rd Law post-test items](ejs-pbi-no-significant-newtons-third-law-gain.md) — related
 - [Newton's laws, conservation of energy, and geometrical optics are the three physics concepts that are simultaneously pivotal, present in all four examined state standards, and particularly difficult to learn](three-pivotal-physics-concepts-standards.md) — related
 - [Authors report that participants seem to have better understood the laws of thermodynamics after the game](participants-better-understand-thermodynamics.md) — related
+- [A comic-book and augmented-reality didactic sequence for Newton's laws shows good acceptance among adolescents and favors advances in concept learning and application to everyday events](comics-ar-newton-laws-acceptance-learning.md) — related

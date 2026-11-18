@@ -44,7 +44,8 @@ The article recommends that "the development of e-learning should focus on ease 
 - [Polytechnic lecturers found the CIDOS e-learning system not user friendly, too complex and difficult to use](../claims/cidos-elearning-not-user-friendly-lecturers.md) [-W]
 
 ## Related Strategies
-- 
+
+- [Design a blockchain-based trusted achievement record with a friendly user interface to hide blockchain complexity](friendly-ui-blockchain-achievement-record-strategy.md)
 
 ## Examples
 -

@@ -93,6 +93,7 @@ Vocabulary knowledge is one of the strongest correlates of reading comprehension
 - [Concrete actions for mathematics educators: focus on ideas over words, engage students in defining early, connect multiple representations, extend to formal definitions, and nurture the genre of definition](educator-actions-for-defining-with-english-learners.md)
 - [Activate Background Knowledge](activate_background_knowledge.md) — vocabulary clarification works best when anchored to what learners already know
 - [Address Biases in the Use of Language and Symbols](address_biases_in_the_use_of_language_and_symbols.md) — extends language clarification to inclusive, culturally responsive use of terms and symbols
+- [Use visualization and side-by-side comparison of mathematical models of datasets to press and refine learners' definitions of mode](visual-model-comparison-to-press-mode-definitions.md)
 
 ## Examples
 - **Word Generation** (https://www.serpinstitute.org/word-generation) — SERP Institute's middle-school program that teaches high-utility academic vocabulary through repeated, discussion-embedded encounters across subject areas.

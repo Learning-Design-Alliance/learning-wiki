@@ -72,3 +72,4 @@ In its CRSE section, the paper attributes this finding to prior research, citing
 - [Research suggests that using culturally responsive and sustaining education practices in mathematics can enhance learning and academic success](crse-math-enhances-learning-and-success.md) — related
 - [When AI/AN communities design their own place-, culture-, and language-based education programs, students' school engagement and learning flourish](culture-based-programs-flourish-engagement.md) — related
 - [OER design, use, and research should be intentional and theoretically grounded with focus on quality, pedagogy, differentiation, and equity](oer-work-needs-intentional-theoretical-grounding.md) — a broader claim this one bears on
+- [Informal physics spaces, characterized by learner agency and voluntary engagement, allow physics identity to form outside traditional academic constraints](informal-spaces-agency-support-identity-exploration.md) — related

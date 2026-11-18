@@ -50,3 +50,4 @@ Independent-sample t-tests on entrance measures confirmed group nonequivalence: 
 - [The treatment groups showed no pre-existing differences on college GPA, high school GPA, class rank, or SAT scores](no-preexisting-covariate-differences.md) — related
 - [No significant difference between underprepared and college-ready students on final exam multiple-choice questions](final-exam-multiple-choice-no-significant-difference.md) — related
 - [After approximately 12 weeks of embedded support, underprepared students significantly outperformed college-ready peers on late-semester common questions](late-semester-underprepared-outperform-college-ready.md) — related
+- [Students in the reformed section had a statistically significantly lower average high school GPA (3.58 vs 3.69, p = 0.008), with no significant differences on other entrance measures](reformed-section-lower-high-school-gpa-p-0008.md) — related

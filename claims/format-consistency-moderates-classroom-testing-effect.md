@@ -81,3 +81,4 @@ Meta-analytic moderator analysis of quiz–exam format consistency; the review r
 - [No interaction between practice and final test question format: matching formats does not enhance the retrieval effect, challenging transfer-appropriate processing](no-format-interaction-challenges-tap.md) — reports the opposite
 - [Performance trends across expertise groups are similar regardless of whether students received multiple-choice or free-response question formats](similar-performance-trends-mc-vs-free-response.md) — related
 - [Students in large-enrollment flipped introductory physics classes performed significantly better than students in traditional classes by the same instructors on identical quiz and final-exam questions](flipped-identical-questions-significant-gains.md) — related
+- [The clicker question bank also works well as a source of quiz and test questions, revealed by the pandemic shift online](clicker-bank-repurposed-for-online-quizzes.md) — related

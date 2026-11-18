@@ -46,6 +46,10 @@ The concept test/peer instruction model developed by Eric Mazur stops lectures e
 - [Use clicker questions with student-student discussion during lecture to build qualitative understanding of basic concepts](clicker-peer-discussion-qualitative-lecture-strategy.md)
 - [Use sequenced concept tests that address similar concepts in different contexts as peer instruction tools in quantum mechanics lectures](sequenced-context-varied-concept-tests-strategy.md)
 - [Use 50/50 and Fill-in-the-Blank interactive lecturing questions with whole-class choral responses for real-time formative feedback](50-50-fill-in-blank-interactive-lecturing.md)
+- [Implement multiple-choice question sequences as clicker questions with individual commitment, peer discussion, and instructor-led whole-class discussion at checkpoints](clicker-mqs-peer-discussion-implementation.md)
+- [Practical in-class routine for clicker polling: clusters of 3–5 questions, 45–60 second polls, and follow-up discussion when many answers are wrong](clicker-polling-classroom-routine.md)
+- [Ask students to solve derivation problems individually immediately after the peer clicker sequence, announced in advance as a quiz, to consolidate learning and build self-reliance](immediate-individual-reflection-quiz-after-cqs.md)
+- [Add a peer instruction (think–pair–share) component after the initial clicker poll to build student connection](peer-instruction-after-clicker-poll.md)
 
 ## Examples
 -

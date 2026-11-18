@@ -41,6 +41,7 @@ The guide's recommendations for practice distill lessons from its multi-year stu
 ## Related Strategies
 
 - [Select survey audiences around three postsecondary milestones: recent graduates, the 2-3 year sweet-spot cohort, and long-term alumni](alumni-audience-postsecondary-milestones.md)
+- [Involve students and alumni directly in campus activities, curriculum development and dialogue to build experience value](involve-students-curriculum-dialogue.md)
 
 ## Examples
 -

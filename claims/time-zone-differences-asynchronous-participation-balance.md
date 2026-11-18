@@ -54,3 +54,4 @@ Interview finding from the case study. Students found asynchronous discussion cl
 - [Students report technical, typing, time, topic, presentation, and grouping challenges when participating in synchronous online forum discussions](ofd-implementation-challenges.md) — related
 - [Learners perceived face-to-face speaking tasks as more useful than asynchronous online tasks, citing lack of interaction and naturalness](learners-prefer-face-to-face-over-asynchronous-vt-tasks.md) — related
 - [Asynchronous voice-based MMC offers more opportunities for noticing non-target items than synchronous voice MMC](avmmc-more-noticing-than-svmmc.md) — related
+- [The article reports, citing prior work, that asynchronous forums and discussion boards can cause too much interaction, student overload, dissatisfaction, and backwardness](asynchronous-forums-overload-dissatisfaction.md) — related

@@ -48,3 +48,4 @@ Single-item analysis in the pilot study, shown in Fig. 2.b. The article reports 
 - [A mixed-reality holo.lab setting improves undergraduate students' gain in conceptual understanding of heat transfer and thermal conduction, with a small adjusted effect](mr-hololab-improves-heat-conduction-conceptual-gain.md) — related
 - [The treatment group improved significantly from pre- to post-test while the control group did not show a significant effect](tg-significant-gain-cg-not-significant-htce.md) — related
 - [Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02](hake-ie-gains-two-sd-greater.md) — related
+- [Students using simulations achieve conceptual understanding similar to students in hands-on labs when both can manipulate variables](simulation-similar-conceptual-understanding-zacharia.md) — related

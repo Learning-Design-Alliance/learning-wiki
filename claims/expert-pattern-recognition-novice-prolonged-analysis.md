@@ -51,3 +51,4 @@ This is the article's theoretical characterization (drawing on Eraut's mode-of-c
 - [Expert teachers' classroom perception appears knowledge-driven while novices' appears image-driven, guided by salient visual features](knowledge-driven-vs-image-driven-classroom-perception.md) — related
 - [Experts perceive classroom situations in terms of groups of students while novices devote more visual attention to individual students](experts-perceive-groups-novices-individuals.md) — related
 - [Experts respond faster than novices on clinical decision-making cases](experts-faster-response-times-clinical-cases.md) — a narrower finding that bears on this claim
+- [The decisions-to-be-made are discipline-general, but how experts make them varies greatly by discipline and individual, relying on domain-specific predictive frameworks](decision-making-relies-on-domain-specific-predictive-frameworks.md) — related

@@ -69,3 +69,4 @@ Survey responses to the same position-probability question; "Eleven percent of t
 - [Many students mistake the expectation value of energy for a possible measurement outcome and cannot distinguish individual measurements from expectation values](expectation-value-confused-with-measurement-outcome.md) — related
 - [Beginning graduate students who can compute measurement probabilities often cannot use them to find expectation values: 67% answered Question 2(b) correctly but only 39% answered Question 2(c) correctly](expectation-value-calculation-difficulty.md) — related
 - [Students misjudge how relative phases and stationarity affect expectation values of position, momentum, and energy](expectation-value-misconceptions-phase-and-time-dependence.md) — related
+- [Students confuse the density of states with particle number density or the distribution function](density-of-states-confused-with-particle-number.md) — related

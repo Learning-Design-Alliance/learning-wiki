@@ -47,6 +47,7 @@ The article's forward-looking recommendations: developers of teacher preparation
 
 - [Use blended learning approaches for teachers' professional development in ICT integration](blended-approach-teacher-pd-strategy.md)
 - [Use SWBL as an alternative learning environment to equip pre-service teachers with technology-application knowledge and skills](swbl-alternative-environment-teacher-ict-training.md)
+- [Add CMODS-related topics to pre-service and in-service teacher training programs](cmods-teacher-training-topics.md)
 
 ## Examples
 -

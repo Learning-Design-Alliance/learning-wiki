@@ -60,3 +60,4 @@ Random effects meta-analysis of 38 PER studies reporting mean FCI scores by gend
 - [FCI scores show consistent gender gaps of over 15% on pretests and over 13% on post-tests, with both genders gaining similarly](fci-consistent-gender-gaps-docktor-heller.md) — related
 - [At pretest, males show a significantly higher degree of polarisation than females on the six FCI questions](pretest-polarisation-gender-difference-males-higher.md) — related
 - [Significant gender differences in FCI scores appear in every application of the test, with small to medium effect sizes](fci-gender-differences-all-applications.md) — a narrower finding that bears on this claim
+- [The gender gap on the FCI is largest between male and female students who agree with the gender stereotype](gender-gap-largest-among-stereotype-agreeers.md) — a narrower finding that bears on this claim

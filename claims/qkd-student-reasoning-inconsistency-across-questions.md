@@ -51,3 +51,4 @@ Analysis of written pretest responses from the three course years found inconsis
 - [Upper-level undergraduate students show large pretest-to-posttest gains on quantum key distribution concepts after working through the QKD QuILT](qkd-quilt-pretest-posttest-gains.md) — related
 - [Most students hold mixed rather than consistent quantum or realist perspectives on measurement and uncertainty across multiple contexts.](mixed-quantum-realist-perspectives-majority.md) — a broader claim this one bears on
 - [Most students show inconsistent (mixed) reasoning across PMQ probes before instruction, and a sizable fraction remain inconsistent after instruction](pmq-mixed-inconsistent-reasoning-persists.md) — related
+- [Median student interest in further quantum computing learning remained at 4 before and after the module, with distribution changes showing some students wished to study QC further](qc-module-further-learning-interest.md) — related

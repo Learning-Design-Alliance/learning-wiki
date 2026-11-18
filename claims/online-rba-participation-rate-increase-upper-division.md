@@ -52,3 +52,6 @@ Observational analysis of RBA administration across six upper-division courses a
 - [The more recommended instructor practices used, the higher CBT participation; with all four practices, online and paper posttest participation rates were very similar](instructor-practices-raise-cbt-participation.md) — related
 - [Participation is higher on pretests than posttests in both administration modes](pretest-participation-exceeds-posttest-both-modes.md) — related
 - [Data collection with low-stakes RBAs systematically over-represents high-achieving students regardless of assessment administration method](low-stakes-rbas-overrepresent-high-achievers.md) — related
+- [Explicit credit-based incentives increased online RBA participation rates above historical norms, with slightly lower online scores attributed to broader sampling](incentives-increase-online-rba-participation.md) — possibly the same claim (merge candidate)
+- [Online unproctored administration of a physics quantitative-reasoning RBA yields participation rates similar to in-person proctored administration](online-rba-participation-similar-to-in-person.md) — related
+- [Student performance on online RBAs is equivalent to performance on the same tests administered on paper in class](online-rba-scores-equivalent-to-paper.md) — related

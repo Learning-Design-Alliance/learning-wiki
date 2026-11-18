@@ -49,3 +49,4 @@ Observational data from three instructors teaching the same four lighting topics
 - [Instructor roles shift from exclusive information source toward orchestrating and regulating AI-mediated learning activities](instructor-role-shift-orchestrating-genai.md) — a broader claim this one bears on
 - [LLM assistance value in VR instruction varies with instructional intent type](llm-assistance-value-varies-with-intent-type.md) — related
 - [Sysadmins shift from producing solutions to evaluating, correcting, and refining GenAI output, which still requires human expertise](sysadmin-expertise-shifts-to-validating-genai-output.md) — related
+- [Parameter variation in a single problem setup generates many different question instances of the same concepts](parameter-variation-generates-large-question-banks.md) — related

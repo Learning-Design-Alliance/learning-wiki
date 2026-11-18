@@ -51,6 +51,7 @@ Because submitted code provides limited evidence of what students did after rece
 - [Use metacognitive activities and process evidence to help students monitor the purpose of their AI use](metacognitive-ai-use-monitoring-strategies.md)
 - [Make the state of pending administrative processes visible to participants to remove status-enquiry volume](process-state-visibility-reduces-status-enquiries.md)
 - [Conclude online tutoring sessions with a prompt for students to identify and explain what they learned](postsession-student-reflection-prompt.md)
+- [Make student process visible in online science courses through discussion forums and process-sharing assignments](process-visibility-discussion-forums-strategy.md)
 
 ## Examples
 -

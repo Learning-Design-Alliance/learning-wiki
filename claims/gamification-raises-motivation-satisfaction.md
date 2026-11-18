@@ -71,3 +71,4 @@ The review reports, citing Yu (2023), a mixed-methods study of university studen
 - [Midwifery students reported significantly greater satisfaction with the gamified training method than with the traditional lecture method](gamification-greater-satisfaction-midwifery-students.md) — related
 - [Students expressed satisfaction, engagement and motivation with all three systems, with final average assessments of 4.28, 4.61 and 4.47 out of 5.](students-satisfied-gamified-crs-anatomy.md) — related
 - [Students reported high satisfaction and increased motivation to learn from the gamified histology course](kahoot-satisfaction-motivation-histology.md) — related
+- [Gamification shows mixed results for learning performance, especially when based on scores and leaderboards](gamification-mixed-learning-results-leaderboards.md) — related

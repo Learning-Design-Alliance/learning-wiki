@@ -50,3 +50,7 @@ Investigation of student difficulties with written free-response and multiple-ch
 - [Roughly half of students diagonalize the entire H′ matrix instead of only its degenerate subspace when finding a good basis](students-diagonalize-entire-h-prime-matrix.md) — related
 - [Students wrongly judge a basis good from completeness of eigenstates of H0 alone, or by examining only H0 or only H′](students-misjudge-good-basis-from-eigenstates-alone.md) — related
 - [Gains from ICT to GCT grew each week for the first five weeks of the course, with a dip in week 6](qm-clicker-gains-learning-curve-five-weeks.md) — related
+- [Students incorrectly focus on the degeneracy in the weaker perturbation instead of the degeneracy in the stronger Hamiltonian when determining a good basis](degeneracy-focus-perturbation-not-hamiltonian.md) — related
+- [Many students do not realize the perturbation matrix must be diagonalized only within each degenerate subspace and instead seek simultaneous eigenstates of the two non-commuting Hamiltonians](diagonalize-entire-perturbation-matrix-difficulty.md) — related
+- [Some students do not realize degenerate perturbation theory should be used, or focus only on the Zeeman term and neglect the fine-structure term](dpt-not-recognized-and-fine-structure-ignored.md) — related
+- [Many students do not realize degenerate perturbation theory should be used, and memorization of which basis is good masks lack of deep understanding of DPT](memorization-masks-lack-dpt-understanding.md) — related

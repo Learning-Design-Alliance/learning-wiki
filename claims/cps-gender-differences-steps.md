@@ -32,6 +32,8 @@ sources:
     author: Carlo Maria Carbonaro, Alessia Zurru, Viviana Fanti, Matteo Tuveri, Gianluca Usai
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Gender differences in CPS step performance: females better at focusing and describing, males at planning and executing
@@ -71,7 +73,7 @@ Same mean-vote-per-gender analysis of the course sample, covering the planning a
 
 Carlo Maria Carbonaro, Alessia Zurru, Viviana Fanti, Matteo Tuveri, Gianluca Usai. (2020). Cooperative Problem Solving: an experience of high-school teaching updating. Originally published 2019. [doi:10.48550/arXiv.2003.07731](https://doi.org/10.48550/arXiv.2003.07731)
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Same gender analysis, evaluation step. Overall results were comparable for the two groups, with "a slight increased capability to evaluate the goodness of the obtained results" appearing in females' data.
 

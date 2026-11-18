@@ -48,6 +48,7 @@ The authors recommend that equity policies address financial and psychosocial pr
 
 - [Provide hands-on assistance with college entry steps (entrance exams, searches, visits, applications) and financial aid, beginning before 12th grade](hands-on-college-entry-assistance.md)
 - [Level the selection playing field by providing coaching to disadvantaged groups or using processes less amenable to coaching](level-playing-field-selection-coaching-access.md)
+- [Treat equity and student access to technology and materials as a primary constraint in remote and hybrid lab course design](equity-first-remote-lab-design.md)
 
 ## Examples
 -

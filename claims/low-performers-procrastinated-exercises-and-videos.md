@@ -9,6 +9,7 @@ generated:
   at: 2026-10-08
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-18
 sources:
   - id: raković-2023
     resource: "https://doi.org/10.18608/jla.2023.7843"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The midterm subtracted network showed low performers had stronger catching-up connections to summative exercises and to videos with formative MCQs, suggesting more procrastination. [→ Raković 2023](#rakovic-2023)

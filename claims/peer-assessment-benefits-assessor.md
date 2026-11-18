@@ -129,3 +129,4 @@ The claim also sits within the wider evidence base on [collaborative learning im
 - [Peer assessment functions as a learning activity: evaluating peers helps students review their own knowledge and clinical skills](peer-assessment-as-learning-activity.md) — a narrower finding that bears on this claim
 - [Improvements were attributable to the first intervention: comment box placement and a dedicated recommendations box, not to checklist reduction or a rubric hyperlink](comment-box-placement-recommendation-box-effective.md) — related
 - [Students rated the fairness of their own marking and the benefit of peer assessment highly while reporting difficulty and moderate pressure in assessing peers' works](peer-assessment-perception-ratings-statistical-methods-course.md) — related
+- [A gallery feedback activity significantly improved participants' course projects](gallery-poster-feedback-improved-projects.md) — a narrower finding that bears on this claim

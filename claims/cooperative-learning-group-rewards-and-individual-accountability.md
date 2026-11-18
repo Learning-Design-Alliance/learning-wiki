@@ -184,3 +184,4 @@ The standard remedy in the cooperative learning literature is **individual accou
 - [Within intervention classrooms, students were more collaboratively engaged during the interdependent phase 2 than phase 1](phase2-interdependence-raises-engagement.md) — a narrower finding that bears on this claim
 - [Peer pressure within project groups was often more motivational than faculty guidance, and allowing group splits rescued motivated members](peer-pressure-group-splits-motivation.md) — related
 - [Distributing control of one computational agent across two sensors and two students fostered positive interdependence among elementary dyads](claim-distributed-control-positive-interdependence.md) — related
+- [Individualising team marks via peer assessment reduced student complaints about free riding and marking fairness from 26% to 7% of feedback](peer-assessment-individualisation-free-riding-complaints-decrease.md) — a narrower finding that bears on this claim

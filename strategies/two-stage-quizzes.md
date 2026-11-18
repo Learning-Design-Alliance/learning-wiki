@@ -72,6 +72,7 @@ The strategy combines two well-supported mechanisms: retrieval practice from the
 - [Use a formative MEQ under exam conditions with immediate peer-review feedback so students can adapt their learning strategies](formative-meq-feedback-adapt-learning-strategies.md)
 - [Use two-stage (group) exams and Calibrated Peer Review to make talking, writing, and collaboration manageable in large courses](two-stage-exams-and-calibrated-peer-review.md)
 - [Pair automated online problem-set quizzes with lectures, with rapid scored feedback and immediate posting of solutions](automated-online-quiz-rapid-feedback-strategy.md)
+- [Ask students to solve derivation problems individually immediately after the peer clicker sequence, announced in advance as a quiz, to consolidate learning and build self-reliance](immediate-individual-reflection-quiz-after-cqs.md)
 
 ## Examples
 - **University of British Columbia / Carl Wieman Science Education Initiative** — two-stage midterm and final exams adopted across physics, chemistry, and biology courses; group stages typically worth 15–25% ([cwsei.ubc.ca](https://cwsei.ubc.ca)).

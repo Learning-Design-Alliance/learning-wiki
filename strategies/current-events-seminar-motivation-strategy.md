@@ -49,6 +49,7 @@ The article recommends exploiting heightened public interest after a current eve
 - [Use Current Events & Fictional Characters](use-current-events-fictional-characters.md)
 - [Brainstorming Topics of Interest](brainstorming_topics_of_interest.md)
 - [Identify common nuclear-issues misconceptions among students and the general population to develop educational material addressing them](misconception-survey-informs-material-development.md)
+- [Offer general-interest seminars and popularized informational material on radiation and nuclear issues for students and the public](general-interest-radiation-seminars-strategy.md)
 
 ## Examples
 -

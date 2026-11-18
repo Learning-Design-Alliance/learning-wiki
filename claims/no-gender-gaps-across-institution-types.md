@@ -52,3 +52,4 @@ Mixed-effects regression on exam scores across 33 courses at seven institutions 
 - [Test anxiety mediated the effect of URM status on exam performance only at inclusive institutions, not at community colleges or selective institutions](test-anxiety-mediation-urm-gap-only-inclusive.md) — related
 - [Student characteristics such as race and gender identity were not strong predictors of resource-use profile membership; only two pairwise comparisons were significant.](few-demographic-predictors-resource-profiles.md) — related
 - [Ethnicity stigma consciousness did not significantly mediate URM performance gaps at any institution type, though URM students at selective institutions reported higher ESC](esc-not-mediator-urm-gap.md) — related
+- [Course scores showed no differences across gender or culture/ethnicity in the inclusivity-driven astronomy course](no-score-differences-gender-ethnicity-inclusive-astronomy.md) — related

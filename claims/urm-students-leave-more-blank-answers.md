@@ -50,3 +50,4 @@ Observational analysis of 10 years of UC Davis Physics 7A/7B class databases cov
 - [First-generation college students leave more blank answers than non-first-generation students](first-gen-students-leave-more-blank-answers.md) — related
 - [Female students leave more problems blank than male students, a small but significant difference](females-leave-more-blanks-than-males.md) — related
 - [URM students underperformed relative to non-URM students on introductory biology exams at inclusive and selective 4-year institutions, but not at community colleges](urm-performance-gaps-vary-by-institution-type.md) — related
+- [Course scores showed no differences across gender or culture/ethnicity in the inclusivity-driven astronomy course](no-score-differences-gender-ethnicity-inclusive-astronomy.md) — related

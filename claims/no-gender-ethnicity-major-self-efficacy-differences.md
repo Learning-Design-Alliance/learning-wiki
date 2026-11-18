@@ -16,6 +16,8 @@ sources:
     author: Remy Dou, Eric Brewe, Justyna P. Zwolak, Geoff Potvin, Eric A. Williams, and Laird H. Kramer
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: remy-dou-2016-2
     resource: "https://doi.org/10.1103/PhysRevPhysEducRes.12.020124"
     title: "Remy Dou, Eric Brewe, Justyna P. Zwolak, Geoff Potvin, Eric A. Williams, and Laird H. Kramer. (2016). Beyond performance metrics: Examining a decrease in students' physics self-efficacy through a social networks lens. Physical Review Physics Education Research 12, 020124. https://doi.org/10.1103/PhysRevPhysEducRes.12.020124"
@@ -42,7 +44,7 @@ sources:
 
 Remy Dou, Eric Brewe, Justyna P. Zwolak, Geoff Potvin, Eric A. Williams, and Laird H. Kramer. (2016). Beyond performance metrics: Examining a decrease in students' physics self-efficacy through a social networks lens. Physical Review Physics Education Research 12, 020124. https://doi.org/10.1103/PhysRevPhysEducRes.12.020124
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Two independent samples t tests compared female and male students' pre and post SOSESC-P scores: "The analysis revealed that no statistically significant gender difference existed at the start of the MI courses or at the end," holding also for the disaggregated sources.
 
@@ -69,3 +71,4 @@ A multiple linear regression with ethnicity, major, and gender predicting post s
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
 - [Demographic moderators (child gender, parent gender, ethnicity, sample type, socio-economic status) show limited moderating effects on the self-efficacy–partnership association](limited-demographic-moderators.md) — related
 - [No statistically significant post-test gender differences emerged on any psychological variable, with only small tendencies favoring females on some measures](no-posttest-gender-differences-psychological-variables.md) — related
+- [Significant gender gaps in physics self-efficacy favoring male students persist at the end of both physics 1 and physics 2, with moderate effect sizes](gender-gap-physics-self-efficacy-intro-sequence.md) — reports the opposite

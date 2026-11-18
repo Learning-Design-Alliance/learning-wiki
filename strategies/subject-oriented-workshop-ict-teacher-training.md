@@ -45,6 +45,7 @@ Because integrating ICT effectively into teaching is not straightforward, the ar
 - [Engage students in self-learning by providing an array of technology resources, with teacher training through workshops and seminars](self-learning-technology-resources-teacher-training.md)
 - [Teach conflict resolution experientially over an extended period with opportunities to practice skills](extended-experiential-conflict-training-strategy.md)
 - [Adopt brain-based learning methods and teacher workshops in chemistry and science teaching](adopt-bbl-methods-and-teacher-workshops.md)
+- [Support teacher adoption through compensated training workshops and focusing on one course stream initially](qc-module-teacher-training-workshop-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Parallel-groups comparison in the Academy of the University of Illinois, first s
 - [On a test of setting up experiments and interpreting phenomena, the applied-science group showed a decided advantage (60% vs 35% correct on first reports)](applied-approach-experimentation-advantage-zoology.md) — related
 - [A larger percentage of applied-science pupils averaged above 85 in the semester's work (46.6 vs 29.4)](applied-approach-high-achievers-zoology.md) — related
 - [The applied-science group's zoology semester grades exceed their grades in other subjects by more than the pure-science group's](applied-approach-semester-grade-advantage-zoology.md) — related
+- [Prior secondary school type (General vs Vocational Lyceum) showed almost no significant difference in radiation knowledge](lyceum-type-no-significant-knowledge-difference.md) — related

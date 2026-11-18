@@ -51,4 +51,4 @@ Based on the findings, the author proposes a set of suggestions for designing an
 -
 
 ## Key Sources
-- Kristanto, Y. D. (2018). Technology-enhanced pre-instructional peer assessment: Exploring students' perceptions in a Statistical Methods course. REiD (Research and Evaluation in Education), 4(2), 105-116. http://journal.uny.ac.id/index.php/reid
+- Kristanto, Y. D. (2018). Technology-enhanced pre-instructional peer assessment: Exploring students' perceptions in a Statistical Methods course. REiD (Research and Evaluation in Education), 4(2), 105-116. http://journal.uny.ac.id/index.php/reid. [doi:10.21831/reid.v4i2.20951](https://doi.org/10.21831/reid.v4i2.20951)

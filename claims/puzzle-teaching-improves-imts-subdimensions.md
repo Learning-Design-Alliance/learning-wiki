@@ -50,3 +50,4 @@ Between-group comparisons in Table 2 of the RCT: Attention t = 2.216, p = 0.030,
 - [Each of the four ARCS motivational components (attention, relevance, confidence, satisfaction) was rated significantly higher in the e-learning group](arcs-components-all-higher-ecme.md) — related
 - [Gamified educational robots increase all four learning-motivation dimensions (attention, relevance, self-confidence, satisfaction) in a STEM curriculum](gamified-robots-increase-stem-motivation.md) — related
 - [Regression analysis attributes the largest puzzle effect to knowledge (β = 0.896), with smaller positive effects on motivation and self-efficacy](regression-puzzle-application-knowledge-beta-0896.md) — related
+- [Gamified and puzzle-based approaches to teaching quantum mechanics show motivation and learning benefits in prior studies](gamified-quantum-teaching-benefits.md) — a narrower finding that bears on this claim

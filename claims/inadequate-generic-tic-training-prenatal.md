@@ -56,3 +56,4 @@ Thematic analysis of interviews with 23 prenatal clinicians found that "clinicia
 - [Prenatal clinicians report increased empathy and understanding of patient behavior through TIC learning](tic-increased-empathy-prenatal-clinicians.md) — related
 - [Stakeholders identified an educational-support gap: LEDs stabilise the workforce but receive less structured teaching than HEE trainees, with lack of protected time a key barrier](led-education-support-gap-protected-time.md) — related
 - [Clinical educators lacked specific training in teaching telehealth competencies and relied on assumed workplace knowledge](educator-lack-telehealth-training-simulation.md) — possibly the same claim (merge candidate)
+- [Most quantum companies provide no formal training structure, relying on on-the-job learning through independent study, mentoring, and online resources](informal-on-the-job-training-quantum-industry.md) — related

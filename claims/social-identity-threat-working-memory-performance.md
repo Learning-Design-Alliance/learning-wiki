@@ -65,3 +65,4 @@ The review reports experimental social identity threat research (Beilock et al.,
 - [Altering the order of administration of math and verbal tests serves as an ecological intervention that reduces stereotype threat on girls’ math performance.](test-order-intervention-reduces-stereotype-threat-girls-math.md) — related
 - [Technical skill assessments show mixed gender effects, with initial task differences disappearing after training and no evidence that stereotype threat impairs female performance](technical-skills-gender-mixed-training-erases-gaps.md) — related
 - [BME students report masking their identity to fit in and to avoid negative stereotyping](bme-students-identity-masking.md) — related
+- [Instructors can incorporate the history of women's exclusion from physics into classrooms in varied ways, but should avoid teaching it immediately before an exam to avoid activating stereotype threat](teaching-womens-history-physics-classroom-strategy.md) — related

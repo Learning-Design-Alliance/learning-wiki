@@ -48,3 +48,4 @@ Pre/post concept-inventory study of the spring 2011 Astro 101 mega-course at the
 - [Across three spring mega-course offerings, students achieved average normalized LSCI gains of 0.42, 0.48, and 0.43, all within Hake's medium-gain region](mega-course-lsci-gains-three-semesters.md) — related
 - [The optional-textbook class's Star Properties Concept Inventory normalized gain exceeded that of a national sample of Astro 101 classes](spci-gain-optional-textbook-exceeds-national-sample.md) — related
 - [Astro 101 students taught with Lecture-Tutorials achieved average LSCI normalized gains of 0.46–0.48, placing the classes in the top 10% nationally](lecture-tutorials-top-decile-normalized-gains.md) — related
+- [Astro 101 students achieve similar learning gains regardless of institution type, class size, or background (as reported by the chapter, citing Prather et al. 2009)](astro101-similar-gains-regardless-institution-type.md) — related

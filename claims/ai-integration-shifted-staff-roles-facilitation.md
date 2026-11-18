@@ -52,3 +52,4 @@ Staff focus group interviews. Staff could no longer rely on well-established pro
 - [Teachers used student perception data to shift lesson design, modify norms, and target personalized intervention, but heavy workload inhibited data integration](perception-data-use-and-workload-barrier.md) — related
 - [Instructors reported role transformation toward facilitation, shifted assessment toward performance-based formats, and identified professional development and integrity needs](instructor-adaptation-themes-genai.md) — related
 - [Facilitators report no personal identity shift but gains in confidence, teaching skills, and perceptions of themselves as teachers](cbl-facilitator-confidence-gains-no-identity-shift.md) — related
+- [Student participation in scientific exhibitions shifts teachers from knowledge transmitters to mediators and makes students protagonists of teaching-learning](exhibition-student-protagonism-mediation.md) — related

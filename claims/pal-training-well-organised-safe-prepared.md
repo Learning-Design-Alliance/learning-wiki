@@ -46,3 +46,4 @@ Survey evaluation of the pre-PAL training programme across the six pilots (149 s
 
 ## Related Claims
 - [Students report PAL improved confidence, feedback ability, and teaching, clinical and communication skills (95–100% agreement)](pal-improved-confidence-feedback-teaching-skills.md) — related
+- [Students report the activities as highly motivating and time management as essential to project success](survey-motivation-and-time-management.md) — related

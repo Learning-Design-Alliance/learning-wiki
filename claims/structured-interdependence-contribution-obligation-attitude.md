@@ -54,3 +54,4 @@ Attitude results from the four-condition experiment (Table 2, item significant a
 - [Higher numbers of interactions are associated with higher posttest scores in asynchronous online small group work](interaction-quantity-correlates-posttest-online-groups.md) — related
 - [A dynamic adaptive reward mechanism in Comtella regulated online community contributions sustainably at an instructor-predefined level](comtella-adaptive-incentive-regulation.md) — related
 - [Teaching practices are associated with sense of belonging: higher group work characterizes agreement on most items that differ](group-work-belonging-simplex.md) — related
+- [Requiring each student to individually perform all kit experiments and an individual extension eliminated freeloaders, by students' overwhelming agreement (SU35)](individual-kit-experiments-eliminated-freeloaders.md) — related

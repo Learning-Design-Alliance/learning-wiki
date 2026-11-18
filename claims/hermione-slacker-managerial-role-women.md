@@ -67,3 +67,5 @@ Observation-phase tally reported by the authors: of approximately 20 students id
 - [Both Secretary and Hermione roles are associated with stunted physics and science identity development for the women occupying them](gendered-roles-stunt-identity-growth.md) — possibly the same claim (merge candidate)
 - [Same-gender lab partnerships tend toward equitable, symmetric work patterns while mixed-gender partnerships break into inequitable archetypes](same-gender-groups-equitable-collaboration.md) — related
 - [In mixed-gender introductory physics lab groups, the Tinkerer role tends to be taken by men and the Secretary (note-taking/data) role by women](secretary-tinkerer-gendered-task-division.md) — related
+- [Being the only woman in an introductory physics lab course led one student to work alone, feel excluded, and ultimately withdraw from the course](isolation-only-woman-lab-withdrawal.md) — related
+- [The authors interpret that lab tasks are not inherently gendered and that mixed-gender role divisions reflect students enacting gender](lab-tasks-not-inherently-gendered-interpretation.md) — related

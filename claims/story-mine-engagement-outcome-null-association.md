@@ -53,3 +53,4 @@ Exploratory correlational analysis of engagement and outcome change in the pilot
 - [Engagement with the unguided STORY MINE module was low, averaging fewer than 3 active login days over 12 weeks](story-mine-low-engagement-unguided.md) — related
 - [Excluding two participants in acute crisis reduced the negative effect estimates to very small or small](story-mine-sensitivity-crisis-exclusion.md) — related
 - [There was no clear pattern to the relationship between student, teacher, and school characteristics and the effectiveness of the interventions.](no-clear-pattern-characteristics-and-effectiveness.md) — related
+- [Engagement, number of views and star ratings carry very different information, with near-zero correlation between engagement and ratings](engagement-decoupled-from-views-and-ratings.md) — related

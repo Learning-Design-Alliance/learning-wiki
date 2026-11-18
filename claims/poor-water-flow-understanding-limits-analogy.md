@@ -16,12 +16,14 @@ sources:
     author: Gerald Tembrevilla, Marina Milner-Bolotin, Stephen Petrina
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Children in a UK study had poor understanding of water flow itself, and beginning physics students lack the water-flow understanding the analogy presupposes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Gerald Tembrevilla, Marina Milner-Bolotin, Stephen Petrina. (2019). Electric fluid to electric current: The problematic attempts of abstraction to concretization. https://doi.org/XXXX/XXXX. Originally published 2016. [doi:10.48550/arXiv.1910.02762](https://doi.org/10.48550/arXiv.1910.02762)
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The article reports, citing Wilkinson and Gentner & Gentner, that 'children had poor understanding of water flow' and that beginning physics students lack necessary understanding of water flow dynamics for the analogy to be productive. Design details of the underlying studies are not given in this article.
 

@@ -59,3 +59,4 @@ HLM analysis of 12 courses found Gender significant in 8 of 12 courses; the conc
 - [First-year gender differences in physics grades favored male students among low-GPE students, but were reduced or reversed in second-year courses](first-year-physics-gender-gap-low-gpe-reverses-second-year.md) — related
 - [Gender differences in undergraduate physics course grades were minimal and statistically insignificant after controlling for prior academic performance](gender-gap-physics-grades-minimal-controlling-gpe.md) — reports the opposite
 - [Sample 1 female students earned somewhat higher course grades than male students despite lower FCI scores](fci-female-course-grades-higher.md) — reports the opposite
+- [Female students had higher high school GPA but lower physics 1 and 2 grades than male students, with small effect sizes](gender-grade-patterns-intro-physics-hs-gpa.md) — a narrower finding that bears on this claim

@@ -73,3 +73,4 @@ Item classification counts from the same item-level analysis: 6 (20.0%) GenAI-as
 - [Pharmacology assessment items written under the integrated flipped case-based curriculum showed significantly higher item difficulty than legacy items while maintaining item discrimination](integrated-curriculum-higher-item-difficulty.md) — related
 - [Combining difficulty and discrimination thresholds, 33 of the 50 SJT items were identified as valid](sjt-33-items-identified-valid.md) — related
 - [Most SJT items show positive corrected point-biserial discrimination, with 72% at 0.10 or higher](sjt-items-point-biserial-discrimination-mostly-positive.md) — related
+- [The QMFPS is reliable and shows good item discrimination for low-stakes assessment](qmfps-reliable-kr20-item-discrimination.md) — related

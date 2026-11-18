@@ -24,12 +24,14 @@ sources:
     author: P Klein, A Lichtenberger, S Küchemann, S Becker, M Kekule, J Viiri, C Baadte, A Vaterlaus and J Kuhn
     q: 3
     i: 1
+    kind: associational
+    rigour: 1
 ---
 
 # High response confidence is associated with shorter visit durations on both item questions and options
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i1` small
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3` · `i1` small
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -52,7 +54,7 @@ Two-way ANOVA on visit duration on the question AOI with accuracy and confidence
 
 P Klein, A Lichtenberger, S Küchemann, S Becker, M Kekule, J Viiri, C Baadte, A Vaterlaus and J Kuhn. (2020). Visual attention while solving the test of understanding graphs in kinematics: An eye-tracking analysis. Originally published 2019. [doi:10.1088/1361-6404/ab5f51](https://doi.org/10.1088/1361-6404/ab5f51)
 
-`q3 · i1`
+`q3 · i1` · `associational · r1`
 
 Two-way ANOVA on visit duration on the options AOI. The printed effect size is d = 0.34 for the confidence main effect and no accuracy impact; low confidence is related to longer visit durations.
 

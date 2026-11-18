@@ -75,3 +75,4 @@ Authors' interpretation (type e) offered in the results and discussion, contrast
 - [The effectiveness of gamification in medical education is context-dependent, with design choices such as competition versus collaboration and personalization moderating outcomes](gamification-effectiveness-context-dependent.md) — a broader claim this one bears on
 - [Prior gamification studies show mixed long-term effects, with some reporting declining motivation over time and competition potentially harming satisfaction](mixed-long-term-gamification-motivation-evidence.md) — related
 - [Students preferred competitive TP environments, with 53% selecting individual competition with one clicker per student as the environment in which they learned best.](students-prefer-individual-competition-tp.md) — related
+- [Gamification shows mixed results for learning performance, especially when based on scores and leaderboards](gamification-mixed-learning-results-leaderboards.md) — related

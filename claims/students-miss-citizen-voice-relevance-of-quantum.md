@@ -49,3 +49,5 @@ Qualitative analysis of section C answers and paired interviews with four studen
 - [Students see the relevance of learning quantum physics as conditional on personal interest, with the individual dimension of relevance predominant](individual-dimension-dominates-relevance-of-learning-quantum.md) — related
 - [A Quantum Rules! outreach visit increases upper-secondary students' agreement that quantum science is important for society](quantum-rules-visit-increases-perceived-societal-importance.md) — related
 - [Students saw technology and STEM careers as creating concrete possibilities for their own agency](stem-careers-possibilities-agency.md) — related
+- [After the module, students' perceived societal importance of quantum computing shifted toward appreciating that the technology is in its infancy, with median importance unchanged at 4](qc-module-importance-perception-shift.md) — related
+- [Median student interest in further quantum computing learning remained at 4 before and after the module, with distribution changes showing some students wished to study QC further](qc-module-further-learning-interest.md) — related

@@ -49,3 +49,4 @@ Qualitative content analysis of the hard skills domain (35 participants). "10/35
 - [Stakeholders expect digital health navigators to build patient relationships marked by interpersonal warmth, empathy, and patience, not only technical support](dhn-interpersonal-warmth-empathy-expectations.md) — related
 - [Stakeholders favor DHNs integrated into the existing clinical team, most often medical assistants or similar groups, but flag workload and training constraints](dhn-team-integration-occupational-background.md) — related
 - [Stakeholders expect DHNs to have fundamental digital skills, knowledge of available DTx, and the ability to convey digital knowledge to patients](dhn-technical-digital-skills-expectations.md) — related
+- [Respondents want trusted achievement records to store a diversity of documents, with educational certificates seen as essential](achievement-record-essential-contents.md) — related

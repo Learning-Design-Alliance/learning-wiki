@@ -13,7 +13,7 @@ generated:
 # Algebraic Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 113 claims (70 show a difference, 27 mixed, 16 no difference) · 75 studies (44 causal, 9 associational, 8 qualitative, 5 review, 5 theoretical, 2 design, 1 quant-synthesis), `q1`–`q4` · 15 of 75 report an effect size · 109 claims rest on one study
+> **Evidence** · 113 claims (70 show a difference, 27 mixed, 16 no difference) · 75 studies (44 causal, 9 associational, 9 qualitative, 5 review, 5 theoretical, 2 design, 1 quant-synthesis), `q1`–`q4` · 15 of 75 report an effect size · 109 claims rest on one study
 
 ## Description
 Algebraic thinking is the ability to generalise, represent, justify and reason with abstract mathematical structures and relationships: noticing that a pattern holds for all numbers, writing it with symbols, and arguing why it holds. The Learner Variability Navigator stresses that it is not only a secondary-school subject: in the primary grades it deepens understanding of arithmetic, for example by making the properties of operations explicit, and it helps students connect separate parts of their early mathematics. It is assessed with written early-algebra assessments and with researcher-designed measures that separate conceptual knowledge, procedural knowledge and flexibility in solving equations.

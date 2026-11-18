@@ -16,12 +16,14 @@ sources:
     author: Kim, J.-H. and Nam, J.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Sunray diagrams provide a visual intuition for the peculiar minus sign in the cyclic partial derivative relation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kim, J.-H. and Nam, J. (2021). Thermodynamic identities with sunray diagrams. Originally published 2020. [doi:10.1088/1361-6404/abce1e](https://doi.org/10.1088/1361-6404/abce1e)
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Analytical graphical derivation in section 2.1: an arrow visits the dy-axis and dz-axis and returns home, and the direction flip supplies the minus sign. The authors call this 'a visual intuition to the peculiar minus sign.'
 

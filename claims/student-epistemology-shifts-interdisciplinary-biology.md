@@ -86,3 +86,4 @@ Qualitative case analysis of one videotaped interview with a sophomore ecology m
 - [A student's outgoing epistemological stance toward physics expanded toward seeing physics knowledge as meaningful and consequential for biology and chemistry](outgoing-epistemological-stance-expansion.md) — related
 - [Physics instructors and biology students have different go-to epistemological resources, creating instructional conflict](instructor-student-epistemological-stance-mismatch.md) — related
 - [A life-science student with initially high physics anxiety can come to report using physics to reason through everyday phenomena, contrasting the common deterioration of relevance beliefs](contrasting-case-student-finds-physics-relevant-in-daily-life.md) — a narrower finding that bears on this claim
+- [Over 40% of responses to a personal writing prompt connected course content to students' life files](writing-prompt-life-file-connections-over-40-percent.md) — related

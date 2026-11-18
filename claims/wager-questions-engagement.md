@@ -48,3 +48,4 @@ Post-study survey on review game logistics, scored on a 7-point Likert scale. Th
 - [Participants frequently deviate from optimal wagering strategies implied by payoff matrices](participants-deviate-from-optimal-wagering-strategies.md) — related
 - [Students rated the game positively, most often citing fun/interactive features, visuals, and new information learned](losing-the-lake-positive-student-feedback.md) — related
 - [Students rated the classroom games as fun and engaging (mean 4.7/5) and did not find leaderboards intimidating (mean 1.7/5)](gamification-survey-fun-engagement-leaderboards.md) — related
+- [Gamification shows mixed results for learning performance, especially when based on scores and leaderboards](gamification-mixed-learning-results-leaderboards.md) — related

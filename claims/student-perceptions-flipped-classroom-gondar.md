@@ -59,3 +59,4 @@ Descriptive survey of the 50 flipped classroom students using a validated 5-poin
 - [Focus groups identified interaction, small class size, active in-class activities, and pre-class online engagement as factors in positive learning experiences, with students unsure the model would work in larger classes](flipped-focus-group-positive-experience-factors.md) — related
 - [Flipped classroom freed class time for guiding students through more advanced and engaging materials](flipped-classroom-time-for-advanced-materials.md) — related
 - [Technology-enhanced pre-instructional peer assessment helps students prepare for new content acquisition in the following lesson, per students' perceptions](pre-instructional-peer-assessment-prepares-content-acquisition.md) — related
+- [Most students in a large numerical analysis class reported that clicker questions helped them better understand lecture material](clickers-improve-perceived-understanding-numerical-analysis.md) — related

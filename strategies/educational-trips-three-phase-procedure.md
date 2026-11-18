@@ -49,6 +49,7 @@ The article details an implementable field-trip recipe: before the trip the teac
 - [Field Trips](field_trips.md)
 - [Ensure supervisor quality through preparation, observation, feedback and post-event evaluation](gp-supervisor-quality-assurance-strategy.md)
 - [Run the dam visit as a multidisciplinary activity in which Physics, History and Geography teachers contextualize the same site around operation, economy and impacts](multidisciplinary-dam-visit-activity.md)
+- [Take students with telescopes to accessible non-formal sites where they observe, plan and transmit what they learned](telescope-outings-students-as-transmitters.md)
 
 ## Examples
 -

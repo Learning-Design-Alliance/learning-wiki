@@ -47,3 +47,4 @@ Because transcription was not yet complete, the authors report only informal obs
 ## Related Claims
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — a broader claim this one bears on
 - [Pre-written prompts increase Justifications and Alternative ideas in children's pair-programming talk and shift the role of Simple questions](prompts-increase-exploratory-talk-elements-pair-programming.md) — related
+- [Pairs of students produced higher-quality videos than students working alone, with a few exceptions](pairs-produce-higher-quality-videos.md) — related

@@ -54,6 +54,7 @@ Debriefing was "structured based on the three-phase approach, including reaction
 - [PEARLS-based structured debriefing after each pathophysiology simulation](pearls-debriefing-pathophysiology-simulation.md)
 - [Three-phase debriefing (meeting, analysis, summary) after the simulated scene](three-phase-debriefing-meeting-analysis-summary.md)
 - [Use a structured three-phase debriefing after each resuscitation scenario, including reaction, advocacy-inquiry, and generalization phases](three-phase-debriefing-shock-simulation-strategy.md)
+- [Use reflection, formative assessment and final assessment to close CMODS lessons](reflection-formative-final-assessment-cmods.md)
 
 ## Examples
 -

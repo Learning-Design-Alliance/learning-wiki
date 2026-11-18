@@ -65,3 +65,4 @@ The review synthesizes how Abdul Rahim et al. (2022) and Cantwell et al. (2022) 
 - [Game based learning activities meet four player-activity requirements—students' goals, autonomy, competence, and relatedness—to foster autonomous motivation](four-requirements-autonomous-motivation-dgbl.md) — related
 - [How Learning Works teaching principles and Self-Determination Theory needs characterize physics faculty's productive teaching ideas and motivations](hlw-sdt-characterize-faculty-teaching-ideas.md) — related
 - [Interview data from research-participating physics students contained three distinct motivations for doing research, aligned with SDT's autonomy, competence, and relatedness dimensions](three-research-motivations-sdt-alignment.md) — related
+- [Gamified and puzzle-based approaches to teaching quantum mechanics show motivation and learning benefits in prior studies](gamified-quantum-teaching-benefits.md) — related

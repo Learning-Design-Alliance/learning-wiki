@@ -48,3 +48,4 @@ The editors report the expected finding of Rhem, Gijselaers and Segers's empiric
 - [Frequent participation in governance is associated with more favorable perceptions of organizational culture](governance-participation-linked-culture-perceptions.md) — related
 - [Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels](higher-hierarchy-levels-recalled-better.md) — related
 - [A hierarchical internal knowledge organization facilitates performance on complex recall and problem-solving tasks more than a single-level organization of the same knowledge](hierarchical-organization-improves-complex-task-performance.md) — related
+- [No hierarchical or hub-and-spoke position structure appeared in the data, suggesting active learning classes have a flatter social structure than the 'work with the smart student' expectation](no-hierarchy-active-learning-networks.md) — related

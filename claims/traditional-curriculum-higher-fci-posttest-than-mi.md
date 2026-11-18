@@ -60,3 +60,4 @@ In-class FCI testing of over 5000 students across 22 traditional and 6 M&I secti
 - [Differences in pedagogy and testing incentives cannot explain the FCI performance gap between traditional and M&I curricula.](pedagogy-incentives-cannot-explain-fci-gap.md) — related
 - [Experimental and control cohorts were statistically equivalent on conceptual physics diagnostics (FCI, MBT, BEMA) at entry and across the course](comparison-cycles-diagnostics-equivalent.md) — reports the opposite
 - [Introductory physics and astronomy students achieve comparable FCI conceptual gains on force concepts, despite differing attitudes](fci-conceptual-gains-comparable.md) — related
+- [The online introductory mechanics course achieved an FCI learning gain of 0.55 (d = 1.3) using matched data in Spring 2019.](iolab-online-mechanics-fci-gain-0-55.md) — related

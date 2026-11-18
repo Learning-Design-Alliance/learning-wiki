@@ -54,6 +54,7 @@ The article recommends ongoing professional development so teachers can handle I
 - [Sponsor teachers to attend workshops and seminars on the effective use of the demonstration teaching method](teacher-workshops-on-demonstration-method.md)
 - [Train chemistry teachers to use computer simulations through seminars, workshops and conferences organised by professional bodies](professional-bodies-train-teachers-simulations.md)
 - [Organize rational and emotive-oriented conferences and orientations for schoolteachers before introducing them to online teaching](rebt-oriented-conferences-for-teachers-strategy.md)
+- [Support teacher adoption through compensated training workshops and focusing on one course stream initially](qc-module-teacher-training-workshop-strategy.md)
 
 ## Examples
 -

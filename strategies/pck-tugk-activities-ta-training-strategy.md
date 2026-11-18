@@ -51,6 +51,7 @@ The article recommends that TA training courses include tasks in which teaching 
 
 - [Use TUG-K style PCK tasks in TA and new-faculty professional development, followed by discussion of common student difficulties](pck-task-ta-professional-development-strategy.md)
 - [Sensitize instructors to students' likely conceptual difficulties when teaching first-year graduate quantum mechanics](sensitize-instructors-quantum-conceptual-difficulties.md)
+- [Use a predict-the-most-common-incorrect-answer task with a standardized concept survey in TA professional development to engender discussion of student difficulties](csem-pck-task-ta-professional-development.md)
 
 ## Examples
 -

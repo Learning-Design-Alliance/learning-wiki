@@ -17,7 +17,7 @@ sources:
 # Deep Learning Knowledge Tracing Models
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 12 claims (3 for, 8 mixed, 1 against) · 9 studies (6 design, 1 causal, 1 review, 1 associational), `q1`–`q2` · 0 of 9 report an effect size · 12 claims rest on one study
+> **Evidence** · 13 claims (4 for, 8 mixed, 1 against) · 11 studies (8 design, 1 causal, 1 review, 1 associational), `q1`–`q2` · 0 of 11 report an effect size · 12 claims rest on one study
 
 ## Description
 The survey reviews deep learning KT in four sub-categories: deep knowledge tracing with recurrent networks, memory-aware tracing such as DKVMN with key and value matrices, attentive tracing such as SAKT, SAINT and AKT built on self-attention, and graph-based tracing over knowledge-concept graphs. It argues deep learning is suited to "modeling complex learning processes, particularly when a significant amount of learning interaction data" is available.
@@ -52,6 +52,7 @@ The survey reviews deep learning KT in four sub-categories: deep knowledge traci
 - [DKT+ regularization addresses two DKT deficits: failure to reconstruct observed interactions and inconsistent knowledge-state transitions across time steps.](../claims/dkt-plus-regularization-addresses-reconstruction-and-transition-consistency.md) [~W]
 - [Which knowledge-tracing model predicts learner performance best depends on the data, with logistic regression leading on smaller datasets and very long learner histories and deep knowledge tracing on large or sequential ones](../claims/knowledge-tracing-model-choice-depends-on-dataset.md) [~M] — deep knowledge tracing led on five of nine datasets and logistic regression on four
 - [Under one standardised evaluation, most deep knowledge-tracing models published after the original DKT do not beat it, and a common KC-level evaluation shortcut inflates reported accuracy](../claims/newer-deep-kt-models-rarely-beat-dkt-standard-protocol.md) [~M] — a benchmark of ten deep models on seven datasets under one protocol
+- [AKT outperforms existing knowledge tracing methods on benchmark datasets in predicting future learner responses](../claims/akt-outperforms-kt-baselines-auc-benchmarks.md) [+W] — attached 2026-11-18 from Context-Aware Attentive Knowledge Tracing, which proposed "Attentive Knowledge Tracing (AKT): a context-aware, interpretable attention-based knowledge tracing model".
 
 ## The evidence by question
 

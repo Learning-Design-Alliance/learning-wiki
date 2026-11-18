@@ -24,6 +24,8 @@ sources:
     author: Kyle M. Whitcomb and Chandralekha Singh
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Students who drop a major have lower GPAs than those who earn a degree in it, with gaps of roughly 0.6 grade points in the first STEM cluster and 0.2 in the second, widening over time in non-STEM
@@ -52,7 +54,7 @@ Yearly mean GPA comparison for the second STEM cluster (Figs. 8c and 8d): degree
 
 Kyle M. Whitcomb and Chandralekha Singh. (2020). Gender inequities throughout STEM: Women with higher grades drop STEM majors while men persist. [doi:10.48550/arXiv.2004.00560](https://doi.org/10.48550/arXiv.2004.00560)
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Yearly mean GPA for non-STEM majors including psychology (Figs. 8e and 8f): "the overall GPA disparity widens over time from roughly 0.4 grade points in the ﬁrst year to roughly 1.2 grade points in the fourth year".
 
@@ -65,3 +67,4 @@ Yearly mean GPA for non-STEM majors including psychology (Figs. 8e and 8f): "the
 - [Women who drop the first cluster of STEM majors earn significantly lower grades than men who persist, while women who drop the second cluster earn the same grades as men who persist](women-drop-cluster1-grades-midway-men-drop-persist.md) — related
 - [Women who drop STEM majors earn statistically significantly higher STEM GPAs than men who drop the same majors](women-drop-stem-majors-higher-gpa-than-men-who-drop.md) — related
 - [In every major except psychology, women who drop a major are more likely than men to earn a degree in another major, while men are more likely to leave without a degree](women-who-drop-earn-another-degree-men-leave-no-degree.md) — related
+- [GPA differences between degree-earners and major-droppers vary by major cluster, from roughly 0.6 grade points in the first STEM cluster to roughly 0.2 in the second](gpa-gap-earners-vs-droppers-by-cluster.md) — possibly the same claim (merge candidate)

@@ -46,6 +46,7 @@ To facilitate information retrieval in a field with no shared vocabulary, the re
 - [Future AI-SRL research should broaden search strategies, include educators and younger learners, address motivation, and apply longitudinal designs](ai-srl-future-research-recommendations.md)
 - [Boolean Operators](boolean_operators.md)
 - [Use reported author keywords rather than statistically derived keywords for research tendency detection](reported-keywords-for-tendency-detection.md)
+- [Search ADS by first author and year, then filter by field and refereed status to locate a specific paper](ads-author-year-search-filtering-strategy.md)
 
 ## Examples
 -

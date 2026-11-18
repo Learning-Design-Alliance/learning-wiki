@@ -55,3 +55,4 @@ Analysis of student outcomes at age 19 across cohorts (Figure 3, Table 1). The s
 - [Chicago graduation rates improved steadily since the early 1990s except for the first two cohorts subject to the eighth-grade promotion standard, and age-16 dropout rates declined for the last five years](cps-graduation-improving-trend.md) — related
 - [Dropout intentions increased over the school year among 9th-grade students](dropout-intentions-increase-over-school-year.md) — related
 - [Attendance and dropout improved after year one of the intervention and reverted after the project ended](attendance-dropout-rose-then-reverted.md) — related
+- [Arizona State University's use of Knewton since 2011 was accompanied by dropout falling from 13% to 6% and completion rising from 66% to 75%](knewton-asu-dropout-completion-change.md) — related

@@ -17,12 +17,14 @@ sources:
     author: Bethany R. Wilcox, Steven J. Pollock, and Daniel R. Bolton
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The study's two-administration design with long gaps provides evidence that the FMCE yields reliable measures of students' learning over time and multiple implementations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Bethany R. Wilcox, Steven J. Pollock, and Daniel R. Bolton. (2020). Retention of conceptual learning after an interactive introductory physics course. [doi:10.1103/physrevphyseducres.16.010140](https://doi.org/10.1103/physrevphyseducres.16.010140)
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 An author interpretation drawn from the longitudinal matched dataset: measuring performance at two points separated by 1-15 months, a gap large enough to discourage or eliminate students simply remembering their prior responses, supports the conclusion that "the FMCE provides measures of stu-dents' learning that are reliable over time and multiple implementations."
 

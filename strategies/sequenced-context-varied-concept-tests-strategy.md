@@ -50,6 +50,7 @@ The article describes designing "a sequence of multiple-choice questions to addr
 - [Design concept test sequences that vary representation and difficulty level](concept-test-sequence-design-strategy.md)
 - [Use concept tests with peer instruction: poll challenging multiple-choice questions, then have students discuss and repoll](concept-tests-peer-instruction-improve-conceptual-understanding.md)
 - [Use clicker questions with student-student discussion during lecture to build qualitative understanding of basic concepts](clicker-peer-discussion-qualitative-lecture-strategy.md)
+- [Add a later scaffolded-weaning question to the CQS targeting the stationary-state learning goal](cqs-larmor-add-question-second-learning-goal.md)
 
 ## Examples
 -

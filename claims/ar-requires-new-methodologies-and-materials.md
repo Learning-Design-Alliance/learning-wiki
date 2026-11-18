@@ -49,3 +49,4 @@ Finding stated as one of the article's research results, based on its analysis o
 - [Basic speech textbooks have not incorporated contemporary rhetorical theory, remaining nearly unchanged across decades](basic-speech-texts-unchanged.md) — related
 - [Switching to an updated synchronous platform catalysed the teacher's ongoing teaching innovation](platform-switch-catalyses-teaching-innovation.md) — related
 - [Theory-of-change development functions as an iterative cycle that incorporates new research as it emerges and the product evolves](theory-of-change-iterative-cycle.md) — related
+- [A comic-book and augmented-reality didactic sequence for Newton's laws shows good acceptance among adolescents and favors advances in concept learning and application to everyday events](comics-ar-newton-laws-acceptance-learning.md) — related

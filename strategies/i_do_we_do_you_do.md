@@ -64,6 +64,7 @@ The sequence embodies [Scaffolding](../principles/scaffolding.md) and [Fading](.
 - [Gradual-release coaching model (I do, we do, you do) for building turnaround capacity](gradual-release-turnaround-coaching-model.md)
 - [Teach algebra word problems through the three-phase sequence of modeling, scaffolding, and collaboration](three-phase-constructivist-algebra-word-problems.md)
 - [Four-step scaffolded explanation sequence for comparing fraction magnitudes](four-step-fraction-explanation-sequence.md)
+- [Balance structure and open-endedness by scaffolding agency with modeling, coaching, and fading support](scaffold-agency-modeling-coaching-fading.md)
 
 ## Patterns That Use This Strategy
 - [Direct Instruction](../patterns/direct-instruction.md) — the modeled–guided–independent practice arc is its central structure

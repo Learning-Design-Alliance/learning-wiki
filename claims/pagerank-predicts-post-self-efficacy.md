@@ -16,12 +16,14 @@ sources:
     author: Remy Dou, Eric Brewe, Justyna P. Zwolak, Geoff Potvin, Eric A. Williams, and Laird H. Kramer
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # PageRank centrality in the classroom social network predicted post self-efficacy scores controlling for pre scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Remy Dou, Eric Brewe, Justyna P. Zwolak, Geoff Potvin, Eric A. Williams, and Laird H. Kramer. (2016). Beyond performance metrics: Examining a decrease in students' physics self-efficacy through a social networks lens. Physical Review Physics Education Research 12, 020124. https://doi.org/10.1103/PhysRevPhysEducRes.12.020124
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Bootstrapped linear regressions (1000 iterations) predicting post SOSESC-P total scores while controlling for pre scores tested inDegree, outDegree, and PageRank in separate models; "PageRank explained an additional 3.7% of the variance in students' post self-efficacy scores (see Table II)."
 

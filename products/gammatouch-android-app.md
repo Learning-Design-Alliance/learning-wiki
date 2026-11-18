@@ -30,4 +30,4 @@ An Android application developed to control a γstream digital multichannel anal
 
 ## Key Sources
 - Albéri, M.; Baldoncini, M.; Bottardi, C.; Chiarelli, E.; Landsberger, S.; Raptis, K.G.C.; Serafini, A.; Strati, V.; Mantovani, F. (2019). Training Future Engineers to Be Ghostbusters: Hunting for the Spectral Environmental Radioactivity. http://www.fe.infn.it/radioactivity/educational
-- Leong, T. K., Wee, L. K., García-Clemente, F. J., & Esquembre, F. (2019). Promoting the Joy of Learning by Turning a Smartphone into Scientific Equipment. GIREP-ICPE-EPEC-MPTL conference, Budapest. https://www.um.es/fem/EjsWiki/
+- Leong, T. K., Wee, L. K., García-Clemente, F. J., & Esquembre, F. (2019). Promoting the Joy of Learning by Turning a Smartphone into Scientific Equipment. GIREP-ICPE-EPEC-MPTL conference, Budapest. https://www.um.es/fem/EjsWiki/. [doi:10.48550/arxiv.1911.06655](https://doi.org/10.48550/arxiv.1911.06655)

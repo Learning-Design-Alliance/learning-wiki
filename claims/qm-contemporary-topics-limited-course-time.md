@@ -68,3 +68,4 @@ One instructor called the Bell inequality experiments "a major breakthrough that
 - [Physics faculty lack consensus on what topics should be taught in modern physics](no-faculty-consensus-modern-physics-topics.md) — related
 - [In end-of-term reflective essays, the topics students most frequently cited as having influenced their perspectives on quantum physics were the single-quanta experiments with light and matter.](single-quanta-experiments-most-cited-in-reflective-essays.md) — related
 - [Physics teaching is described as stuck in outdated pre-20th-century content, and barriers to including Modern and Contemporary Physics are multiple and interacting](mcp-teaching-outdated-content-barriers.md) — related
+- [Student discomfort with physical concepts increases over the semester, peaking during the quantum computing and entanglement units where the physics category dominates](physics-discomfort-peaks-quantum-computing-entanglement.md) — related

@@ -49,3 +49,4 @@ Step 4 free-text analysis via thematic framework (table 3): procedural skills, d
 - [Open-ended reflections most often highlighted realism of the simulation (51.5%), the simulation patient's role (32.0%), and interprofessional collaboration (20.6%)](mcleims-open-ended-themes.md) — related
 - [Open-ended responses identified six themes of what sonographers need to teach and evaluate fellows successfully](sonographer-teaching-six-themes.md) — related
 - [Thematic analysis of focus groups and open-ended responses identified immersion, clinical communication practice and safe decision-making environments as key perceived benefits](vr-pilot-qualitative-benefit-themes.md) — related
+- [Physics Ph.D. students report three main areas of difficulty: professional, economic and personal](physics-phd-three-difficulty-areas.md) — related

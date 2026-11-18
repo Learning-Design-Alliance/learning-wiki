@@ -49,3 +49,4 @@ Results-section comparison in the same train-test study: the article states XGBo
 - [A baseline logistic regression model classifies outstanding postgraduate GPA with AUC 0.659 and accuracy 0.825 on a held-out test set](lr-baseline-gpa-classification.md) — a narrower finding that bears on this claim
 - [An XGBoost classification model classifies outstanding postgraduate GPA with AUC 0.617 and accuracy 0.786 on the held-out test set](xgboost-gpa-classification.md) — a narrower finding that bears on this claim
 - [Baseline LR and XGBoost models achieve comparable predictive performance on OULAD, with XGBoost slightly higher AUC-ROC](baseline-model-performance-oulad-lr-xgboost.md) — related
+- [Xgboost more accurately predicts graduating semesters for female students, under-represented minority students, and students with missing high school GPA than logistic regression](xgboost-subgroup-recall-advantage.md) — reports the opposite

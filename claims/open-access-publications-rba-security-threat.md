@@ -47,3 +47,4 @@ Authors' interpretation of their post-administration Google searches of QMCA and
 ## Related Claims
 - [Printing of online RBA pages was rare (1.4% of respondents) and posed no detected security breach](online-rba-print-events-rare.md) — related
 - [Copy events occurred for about 9% of students, roughly half were followed by sustained browser switches consistent with Googling, but copying students' scores were not significantly higher](copy-events-googling-pattern-no-score-benefit.md) — related
+- [Very few students (less than 1-2%) attempted to save online RBAs, but assessment security concerns grow as solutions become available online](online-rba-security-few-save-attempts.md) — related

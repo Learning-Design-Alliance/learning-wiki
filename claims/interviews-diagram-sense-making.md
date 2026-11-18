@@ -50,3 +50,4 @@ Think-aloud interviews with eight students using Ericsson and Simon's protocol, 
 - [Among students using a primarily mathematical approach, those who also drew a productive diagram scored better than those who did not, in both quiz and midterm](productive-diagram-helps-math-approach.md) — related
 - [Students prompted to draw a diagram were more likely to draw productive diagrams than the diagram-only and no-support groups](prompt-increases-productive-diagrams.md) — related
 - [None of twelve interviewed students could solve a non-equilibrium Newton's second/third law problem without help, and they showed systematic difficulties with Newton's third law and free-body-diagram system choice](newton-third-law-interview-difficulties.md) — related
+- [In observational interviews, students spent on average 71% more time conceptually planning the problem without a provided diagram than the problems with diagrams](provided-diagram-less-conceptual-planning-time.md) — related

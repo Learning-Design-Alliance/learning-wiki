@@ -18,7 +18,7 @@ sources:
 # Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 43 claims (19 for, 21 mixed, 3 against) · 39 studies (12 causal, 8 review, 6 quant-synthesis, 6 design, 3 associational, 3 qualitative, 1 theoretical), `q1`–`q4` · 6 of 39 report an effect size · 41 claims rest on one study
+> **Evidence** · 44 claims (20 for, 21 mixed, 3 against) · 40 studies (12 causal, 8 review, 7 design, 6 quant-synthesis, 3 associational, 3 qualitative, 1 theoretical), `q1`–`q4` · 6 of 40 report an effect size · 42 claims rest on one study
 
 ## Description
 Assessment is the structured collection of evidence about learner understanding, performance, or progress for the purposes of feedback, decision making, grading, or revision.
@@ -94,6 +94,7 @@ Assessment is the structured collection of evidence about learner understanding,
 - [Common OSCE and Management Viva assessor biases such as familiarity with the student were not observed in this rural-campus cohort](../claims/examiner-familiarity-bias-not-observed.md) [~W] — attached 2026-11-08 from Shulruf Boaz et al. (2019), which proposed "OBM2 borderline-performance moderation method for OSCE and Management Viva examiner marks".
 - [The mean overall GP communication score rose from standard to context-specific MAAS-Global rating in one uncontrolled pre-post study; the increase was statistically significant and had a large effect size](../claims/context-specific-rating-raises-maas-global-overall-score.md) [~W] — attached 2026-11-10 from Essers Geurt et al. (2013), which proposed "Context-specific rating protocol for incorporating context factors into MAAS-Global communication assessment".
 - [A purpose-built first-class diagnostic test showed the Calculus III science students were weakly prepared, with scores far below the course's readiness thresholds](../claims/diagnostic-test-reveals-weak-calculus-iii-preparation.md) [+W] — attached 2026-11-17 from Radoslav M. Dimitrić (2013), which proposed "Course-specific diagnostic test administered at the first class meeting".
+- [A student's strategy, evaluated via CWW, is taken together with the numeric score as a measure of learning outcome used to identify students needing help](../claims/strategy-evaluation-as-learning-outcome-measure.md) [+W] — attached 2026-11-18 from Gupta et al. (2019), which proposed "Four-parameter linguistic model of student strategy (time taken, subject's knowledge, liking towards subject, perceived preparation level)".
 
 ## The evidence by question
 - *Does using assessment evidence during instruction raise achievement compared with the usual teaching?* [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+S]

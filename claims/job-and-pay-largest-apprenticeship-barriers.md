@@ -53,3 +53,4 @@ Descriptive analysis of survey-reported reasons for non-persistence in the appre
 - [The most cited barriers to adult learning are situational, but adults also face internal barriers such as low confidence in their ability to learn](adult-learner-barriers-situational-and-internal.md) — a broader claim this one bears on
 - [An adult-education market report asserts, quoting earlier research it does not detail, that adult training yields better results the more closely it relates to a real job or occupation](employer-relevant-training-improves-adult-outcomes.md) — related
 - [Half of reported developmental barriers stem from academic-related challenges (50.39%)](academic-challenges-half-of-development-barriers.md) — related
+- [Physics Ph.D. students report three main areas of difficulty: professional, economic and personal](physics-phd-three-difficulty-areas.md) — related

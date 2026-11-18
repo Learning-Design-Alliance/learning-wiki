@@ -24,6 +24,8 @@ sources:
     author: Yi-Ting Huang, Meng Chang Chen, and Yeali S. Sun
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # One-way ANOVA shows post-test scores differ across estimated ability levels in the experimental group (vocabulary F= 5.75, grammar F= 4.71, reading comprehension F= 5.98) but not for vocabulary and grammar in the control group
@@ -52,7 +54,7 @@ Empirical ANOVA (Section 5.2.1, Table 4) comparing mean post-test scores across 
 
 Yi-Ting Huang, Meng Chang Chen, and Yeali S. Sun. (2018). Bringing personalized learning into computer-aided question generation. Originally published 2012. [doi:10.48550/arXiv.1808.09735](https://doi.org/10.48550/arXiv.1808.09735)
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Post hoc analysis within the same experimental group: 'a Bonfe r roni p ost hoc test indicated that the performance of the est i- mated ability 1 and 2 w ere significantly different from the estima t ed ability 5 and 6', which the authors read as the estimation distinguishing higher from lower ability examinees.
 

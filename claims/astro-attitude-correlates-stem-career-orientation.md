@@ -16,12 +16,14 @@ sources:
     author: "Adam S. Trotter, Daniel E. Reichart, Aaron P. LaCluyzé & Rachel Freed"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Students oriented toward STEM careers show more positive science attitudes, with non-STEM-intending students least positively impacted and astronomy/physics-career students most
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Adam S. Trotter, Daniel E. Reichart, Aaron P. LaCluyzé & Rachel Freed. (2019). Factors Contributing to Attitudinal Gains in Introductory Astronomy Courses. Robotic Telescopes, Student Research and Education (RTSRE) Proceedings, Vol. 1, No. 1. Originally published 2018. [doi:10.32374/rtsre.2019.014](https://doi.org/10.32374/rtsre.2019.014)
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Regression analysis of the full survey sample; 370 out of 749 respondents, or nearly 50%, indicated they did not intend to pursue STEM-related careers. The article reports an ordered attitude-impact gradient across the three career-orientation groups and lists Career Index as positively correlated.
 
@@ -49,3 +51,4 @@ Regression analysis of the full survey sample; 370 out of 749 respondents, or ne
 - [Perceived helpfulness of Skynet-based telescope labs is positively correlated with science attitudes, while other lab components show no significant impact](skynet-lab-helpfulness-correlated-attitude.md) — related
 - [The RMEP Project had no statistically detectable impact on students' attitudes toward mathematics or interest in STEM careers](rmep-no-impact-attitudes-stem-interest.md) — related
 - [Among five tested factors, only discussing the underrepresentation of women positively correlated with high-school girls' interest in physical science careers](discussing-underrepresentation-boosts-girls-interest.md) — related
+- [Two-thirds or more of Astro 101 students report a non-STEM major or area of interest, and up to 40% of introductory science students plan to become licensed teachers](astro101-students-nonstem-majors-future-teachers.md) — related

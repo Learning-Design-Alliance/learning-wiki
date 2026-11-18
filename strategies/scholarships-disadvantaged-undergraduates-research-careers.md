@@ -42,7 +42,8 @@ The strategy is to award competitive scholarships to highly talented undergradua
 - [NIH Undergraduate Scholarship Program scholars progress toward biomedical research careers at substantially higher rates than finalists who were not awarded scholarships](../claims/nih-ugsp-scholars-outpace-non-awarded-finalists.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Immersing awarded students in a year-long scholarship program with monthly meetings, observatory visits and community outreach](maes-icj-scholarship-immersion-strategy.md)
 
 ## Examples
 -

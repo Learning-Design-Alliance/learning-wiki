@@ -73,3 +73,4 @@ The article reports the retained items' difficulty spread and that discriminatio
 - [Discriminative power peaks for questions of moderate difficulty (0.4–0.7) and declines at both extremes in both groups](discrimination-peaks-moderate-difficulty.md) — related
 - [Item discrimination of the Quick Risk Test is adequate overall, with three items below the conventional 0.2 threshold before training](quick-risk-test-item-discrimination-indices.md) — related
 - [The final 25-item test shows good reliability and item discrimination, with post-test item difficulty ranging from 0.2 to 0.8 and point biserial discrimination from 0.21 to 0.48](test-psychometrics-difficulty-discrimination.md) — related
+- [CTT parameters on the protoPIQL identified weak items (too easy or low discrimination), driving item removal and addition across versions](protopiql-ctt-weak-items-removed.md) — related

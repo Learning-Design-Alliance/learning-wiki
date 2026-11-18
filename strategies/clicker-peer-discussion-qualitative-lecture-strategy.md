@@ -49,6 +49,9 @@ During lecture the instructor poses multiple-choice and True-False questions eve
 - [Use sequenced concept tests that address similar concepts in different contexts as peer instruction tools in quantum mechanics lectures](sequenced-context-varied-concept-tests-strategy.md)
 - [Sequence a demonstration topic as clicker-answered group-discussion questions that build from a conventional device's limits to the superconducting alternative](clicker-group-discussion-question-sequence-magnet-teaching.md)
 - [Use clicker questions with instructor-elicted explanations of popular wrong answers to build coherence-seeking epistemologies](clicker-wrong-answer-explanations-strategy.md)
+- [Implement multiple-choice question sequences as clicker questions with individual commitment, peer discussion, and instructor-led whole-class discussion at checkpoints](clicker-mqs-peer-discussion-implementation.md)
+- [Practical in-class routine for clicker polling: clusters of 3–5 questions, 45–60 second polls, and follow-up discussion when many answers are wrong](clicker-polling-classroom-routine.md)
+- [Add a peer instruction (think–pair–share) component after the initial clicker poll to build student connection](peer-instruction-after-clicker-poll.md)
 
 ## Examples
 -

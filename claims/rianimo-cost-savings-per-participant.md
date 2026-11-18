@@ -53,3 +53,4 @@ Retrospective cost analysis comparing delivery costs: total delivery costs were 
 - [Per-participant implementation costs fall substantially in leaner implementation models without a warm-up year or local coach](assistments-sensitivity-lower-cost-scenarios.md) — related
 - [FSP-TCM total cost ($7590.00) was significantly lower than OSP-TCM total cost ($17415.60)](fsp-tcm-lower-cost-than-osp-tcm.md) — related
 - [The emotional stimulus video costs substantially less to produce than the announced practical assessment it replaces](emotional-stimulus-video-lower-cost-than-assessment.md) — related
+- [Virtualizing research seminars saves substantial funds that can be redirected to research positions](virtual-seminars-save-travel-costs.md) — related

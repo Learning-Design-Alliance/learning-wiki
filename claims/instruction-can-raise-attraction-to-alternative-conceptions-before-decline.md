@@ -54,3 +54,4 @@ A rise in the number of students choosing an alternative-conception distractor a
 - [LLM-generated distractors for math multiple-choice questions are judged mathematically valid more often than plausible to students](llm-math-distractors-more-valid-than-plausible.md) — related; distractors that track student ideas
 - [The review reports that formal astronomy instruction sharply reduces preservice teachers' alternative conceptions of Moon phases](instruction-reduces-moon-phase-alternative-conceptions.md) — related
 - [No single physical concept or prior experience unifies the gender-unfair FCI items, though distractor preferences differ by gender](fci-unfair-items-no-common-concept.md) — related
+- [Prior research found large learning-gain differences between students taught by teachers who could versus could not identify alternate conceptions on strong-distractor items](teacher-mci-knowledge-linked-to-learning-gains.md) — related

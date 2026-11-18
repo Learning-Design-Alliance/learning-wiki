@@ -68,3 +68,4 @@ The paper cites Nerad and Cerny (1991), a study of University of California Ph.D
 - [Master's students are far more likely to be self-funded than Ph.D. students, and community-college coursework is more common in master's-only departments](masters-students-self-funded-and-community-college-backgrounds.md) — related
 - [Students in master's programs are more likely to attend part-time than students in Ph.D. programs, and master's institutions serve more part-time undergraduates](masters-programs-more-part-time-students.md) — related
 - [Master's-granting physics and astronomy institutions serve undergraduate populations with a substantially larger share of lower-income (Pell-eligible) students than Ph.D.-granting institutions](masters-institutions-serve-more-pell-eligible-undergraduates.md) — related
+- [Students from higher-income high school communities take longer to graduate](higher-income-high-school-longer-graduation.md) — related

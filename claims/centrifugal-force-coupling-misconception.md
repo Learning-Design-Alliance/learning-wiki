@@ -17,12 +17,14 @@ sources:
     author: S. Küchemann, P. Klein, H. Fouckhardt, S. Gröber, and J. Kuhn
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Nearly half of first-semester physics students believe the centrifugal force is only required when the object is coupled to the rotating system
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 S. Küchemann, P. Klein, H. Fouckhardt, S. Gröber, and J. Kuhn. (2020). Improving students' understanding of rotating frames of reference using videos from different perspectives. arXiv preprint. Originally published 2019. [doi:10.1103/physrevphyseducres.16.010112](https://doi.org/10.1103/physrevphyseducres.16.010112)
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Student interviews on two posttest questions (airplane over a rotating disc; water glass) plus distractor analysis, with 21 first-semester physics students. In interview question Q1 the distractor naming only the Coriolis force had the highest probability (42.8%).
 

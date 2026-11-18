@@ -49,3 +49,4 @@ Confirmatory factor analysis of PIQL pretest responses from three calculus-based
 - [The final CKAPQ CFA model shows strong absolute fit but incremental fit indices below recommended thresholds](ckapq-cfa-absolute-fit-strong-incremental-weak.md) — related
 - [Module analysis (MAMCR) of correct PIQL responses identifies modules that differ across course stages and mix all three PQL constructs](mamcr-modules-differ-across-course-stages.md) — related
 - [Dichotomously scored PIQL results indicate only a very modest improvement in students' quantitative reasoning from introductory physics instruction](piql-dichotomous-scoring-modest-improvement.md) — related
+- [Recent PIQL versions are unidimensional, and the authors interpret the single construct as Physics Quantitative Literacy, suggesting the three facets may develop simultaneously](piql-unidimensional-single-construct.md) — related

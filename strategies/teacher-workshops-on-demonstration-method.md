@@ -49,6 +49,7 @@ Among the article's recommendations, teachers should be sponsored by government 
 - [Adopt active-participation strategies such as CRAIS for mathematics teaching and train teachers through seminars and workshops](adopt-crais-via-teacher-training-seminars-workshops.md)
 - [Train chemistry teachers to use computer simulations through seminars, workshops and conferences organised by professional bodies](professional-bodies-train-teachers-simulations.md)
 - [Provide economics teachers with in-service training, workshops, seminars and conferences on method selection](in-service-training-economics-teachers-methods.md)
+- [Support teacher adoption through compensated training workshops and focusing on one course stream initially](qc-module-teacher-training-workshop-strategy.md)
 
 ## Examples
 -

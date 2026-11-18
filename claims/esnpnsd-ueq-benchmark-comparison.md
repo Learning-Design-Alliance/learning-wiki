@@ -49,3 +49,5 @@ Benchmark comparison of the ESNPNSD UEQ results against the standard UEQ benchma
 - [The simulation model demonstrated high usability across all six UEQ domains, with attractiveness rated highest and excellent internal consistency (Cronbach's alpha = 0.91)](sbml-probing-simulator-ueq-usability.md) — related
 - [No significant differences in UEQ dimension scores were found across the three student cohort groups](esnpnsd-ueq-no-differences-three-groups.md) — related
 - [In 3D mode, RiNeo MR showed good to excellent SUS usability and UEQ scores above 1 on all scales, with a trend toward residents rating attractiveness higher (p = 0.067)](rineo-3d-usability-user-experience.md) — related
+- [Achievement and gender significantly affect pre-service teachers' UEQ ratings of Jupyter, with large effects on Attractiveness, Novelty and gender differences in Novelty](achievement-gender-factors-ueq-jupyter.md) — related
+- [Pre-service physics teachers rate Jupyter best on Novelty and Efficiency and weakest on Perspicuity and Attractiveness in UEQ benchmarks](ueq-benchmark-jupyter-novelty-best-perspicuity-weakest.md) — reports the opposite

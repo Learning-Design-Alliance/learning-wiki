@@ -55,6 +55,7 @@ The report recommends treating infrastructure investment as inseparable from tec
 - [Prioritize consistent staff training, equitable resource access, and students' self-confidence with technology in PE](staff-training-equal-access-self-esteem-pe-technology.md)
 - [Spend limited resources on faculty training, flexible technology-free spaces, and instructional staffing rather than embedding expensive classroom technology](invest-faculty-training-flexible-spaces-over-embedded-tech.md)
 - [Large science collaborations can support researcher EPO engagement via shared repositories, dedicated funding, infrastructure credit, dedicated staff, and communication training](collaboration-support-for-epo-engagement.md)
+- [Treat equity and student access to technology and materials as a primary constraint in remote and hybrid lab course design](equity-first-remote-lab-design.md)
 
 ## Examples
 -

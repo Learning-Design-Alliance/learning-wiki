@@ -50,3 +50,4 @@ Comparison of maternal versus paternal relative categories in the national-test 
 - [Same-sex pairs of relatives are slightly but systematically more correlated on school performance than opposite-sex pairs](same-sex-pairs-slightly-more-correlated.md) — related
 - [Parents' socio-educational level predicts adolescent achievement, with maternal education a direct predictor and paternal education indirect](parental-education-predicts-adolescent-achievement.md) — related
 - [Paternal education independently predicts adolescent educational attainment at age 17, with high-educated fathers conferring higher odds than medium-educated fathers](paternal-education-predicts-adolescent-attainment-netherlands.md) — related
+- [Parenthood affects the studying of most student-mothers and student-fathers, with women reporting more schedule flexibility and efficiency gains](parenthood-affects-phd-studying-gendered.md) — related

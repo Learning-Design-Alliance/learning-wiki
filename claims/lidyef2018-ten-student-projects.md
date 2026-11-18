@@ -47,3 +47,4 @@ Project work conducted during students' free time as part of the inquiry-based c
 ## Related Claims
 - [88% of students approved the Arduino as a tool for producing physics experiments](88-percent-students-approve-arduino-tool.md) — related
 - [In one extreme case, two sixth-graders with a choice-rich, ungraded STEAM infrastructure extended a game-design challenge into a year-long self-directed project well beyond its designed scope](choice-rich-infrastructure-supports-productive-deviation-and-learning.md) — related
+- [Despite fewer registrations, the authors perceived increased project complexity in MAES 2019, indicating improved teaching-learning relations](maes-2019-complexity-increase.md) — related

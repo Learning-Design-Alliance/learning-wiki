@@ -32,7 +32,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 151 claims (64 for, 77 mixed, 10 against) · 91 studies (32 quant-synthesis, 23 causal, 12 review, 8 associational, 8 qualitative, 6 theoretical, 2 design), `q1`–`q4` · 22 of 91 report an effect size · 146 claims rest on one study
+> **Evidence** · 152 claims (65 for, 77 mixed, 10 against) · 92 studies (32 quant-synthesis, 24 causal, 12 review, 8 associational, 8 qualitative, 6 theoretical, 2 design), `q1`–`q4` · 22 of 92 report an effect size · 147 claims rest on one study
 
 ## Conditional relationship
 
@@ -143,6 +143,7 @@ On 2026-10-19 (wave 2) the other claims linked here were read and moved into the
 - [Students in problem-based learning curricula outperform students in traditional curricula on the European Prescribing Exam](../claims/pbl-curriculum-higher-prescribing-exam-scores.md) [+W] — attached 2026-11-05 from Donker et al. (2026), which proposed "Include a final CPT examination and problem-based learning in medical curricula to strengthen prescribing competence"; tests this page's relationship.
 - [Fourth-year medical students who completed the PBL-based Elective Osteoporosis Course I scored on average 6.7 points higher on a multiple-choice test than fifth-year students who completed only the mandatory curriculum](../claims/pbl-elective-osteoporosis-course-i-higher-test-scores.md) [+W] — attached 2026-11-05 from Hoffmanová I et al. (2025), which proposed "Offer elective, PBL-based courses to consolidate multidisciplinary content that is dispersed across mandatory courses".
 - [PBL students are more likely to be academically satisfied with their type of curriculum than LBL students in Ethiopian health science colleges](../claims/pbl-students-more-likely-academically-satisfied-curriculum-ethiopia.md) [+W] — attached 2026-11-07 from Tadesse Selamawit Girma et al. (2022), which proposed "Incorporate problem-based learning as a formal instructional method across higher education curricula to enhance health science students' academic satisfaction"; tests this page's relationship.
+- [Students in the Treatment section (ill-structured problems with socialization-and-creativity instruction) scored higher on physics grades than Traditional-section students](../claims/treatment-section-higher-physics-grades.md) [+W] — attached 2026-11-18 from J. Pulgar et al. (2020), which proposed "Accompany cooperative learning with instructional strategies matched to the problem type, including instructor guidance and assumption-making for ill-structured tasks".
 
 ## Objective and learner-valued goal
 

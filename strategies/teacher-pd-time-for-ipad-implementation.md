@@ -44,6 +44,7 @@ The article recommends that schools support iPad implementation through innovati
 - [Support first-year adopters of a comprehensive curriculum with quick-start overviews, editable materials, and curated course plans](support-first-year-curriculum-adopters-quick-start.md)
 - [Provide institutional support for educational technology in schools: ministry provision, expert training, and a utilization manual](institutional-support-edtech-utilization.md)
 - [Explore learners' perspectives qualitatively before integrating m-learning e-resources into an academic curriculum](explore-learner-perspectives-before-mlearning-integration.md)
+- [Support teacher adoption through compensated training workshops and focusing on one course stream initially](qc-module-teacher-training-workshop-strategy.md)
 
 ## Examples
 -

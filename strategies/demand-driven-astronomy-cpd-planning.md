@@ -17,7 +17,7 @@ sources:
 # Plan new continuing-education offerings from school-context diagnostics and participant demand, coordinated with municipal education secretariats
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 A planning strategy in which new proposals and offerings of the astronomy course are 'orientadas a partir de diagnósticos oriundos dos contextos escolares, das preocupações e reflexões inerentes às salas de aulas e projetos escolares', rather than only from educational indices or demand diagnosis. The second cohort already reflected this: school groups visited the new observatory at teachers' request, and modules on Literature and the Universe and on astronomical events and life on Earth were added from first-cohort demands and projects.

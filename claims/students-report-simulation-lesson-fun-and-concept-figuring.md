@@ -168,3 +168,8 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Students held positive attitudes toward the DGE, rating it helpful for learning limit concepts (3.73/5) and interesting (4.4/5)](positive-student-attitudes-toward-dge-limit-activities.md) — related
 - [Inquiry-based Real-Time Physics labs promoted peer discussion of physics concepts, but students struggled with troubleshooting and independent investigation](rtp-labs-promoted-peer-concept-discussion.md) — related
 - [Secret objectives bridge inquiry-style laboratories and problem-based learning by letting students create the problem themselves](secret-objectives-bridge-pbl-inquiry.md) — related
+- [Remote-lab students recognize nonidealities in data more often than hands-on-lab students, while simulation students focus more on their learning process](lab-format-differences-lindsay-good.md) — related
+- [Working with ready-made computer models aids clarity and motivation but is largely reproductive](ready-made-models-reproductive-limitation.md) — related
+- [Student engagement and satisfaction were maintained in the remote kit-based labs: no tuning out was observed and a majority felt the remote labs were equal to in-person labs](remote-kit-labs-engagement-and-satisfaction-maintained.md) — related
+- [Students rated remote labs better for working at their own pace but the same or worse for procedure design and tool-choice agency](remote-labs-own-pace-agency.md) — related
+- [Student evaluation of the transformed lab was positive on the freedom of the second session but split on the logbook (20 of 50 surveyed)](student-feedback-split-on-logbook-positive-on-freedom.md) — related

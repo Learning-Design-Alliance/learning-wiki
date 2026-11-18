@@ -72,3 +72,4 @@ Descriptive account linking robot sensors to physics content; no measures are re
 - [Eighth graders in both conditions performed poorly on the electric-circuits pretest, confirming prevalent misconceptions](pretest-misconceptions-electric-circuits-jordan.md) — related
 - [In an inquiry-based Physics by Inquiry course, more than 90% of students reported at least one cognitive conflict in each topic section](over-90-percent-report-conflict-each-pbi-section.md) — related
 - [Eighth graders taught with the Herrmann Whole Brain Teaching Method significantly outperformed conventionally taught peers on conceptual understanding of simple electric circuits](hwbtm-outperforms-conventional-electric-circuits.md) — related
+- [A four-part outreach program lets high-school and early undergraduate students perform meaningful hands-on quantum circuit calculations without advanced mathematics](qist-outreach-without-advanced-math.md) — related

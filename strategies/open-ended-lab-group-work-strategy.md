@@ -53,4 +53,4 @@ The studied course uses open-ended assignments (e.g. measuring the mass of a clu
 -
 
 ## Key Sources
-- Kontro, I.; Génois, M. (2020). Combining surveys and sensors to explore student behaviour. https://arxiv.org/abs/2003.04137
+- Kontro, I.; Génois, M. (2020). Combining surveys and sensors to explore student behaviour. https://arxiv.org/abs/2003.04137. [doi:10.3390/educsci10030068](https://doi.org/10.3390/educsci10030068)

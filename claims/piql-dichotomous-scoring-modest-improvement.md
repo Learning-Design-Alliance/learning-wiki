@@ -48,3 +48,5 @@ Administration of the PIQL in large-enrollment calculus-based courses, scored di
 - [Confirmatory factor analysis of PIQL response data does not support the intended three-group structure of ratio/proportion, covariation, and negativity items](cfa-fails-piql-three-construct-groups.md) — related
 - [Module analysis (MAMCR) of correct PIQL responses identifies modules that differ across course stages and mix all three PQL constructs](mamcr-modules-differ-across-course-stages.md) — related
 - [Overall PIQL scores increase across the introductory sequence (mean scores of 50%, 56%, and 58%)](piql-scores-increase-across-sequence.md) — a broader claim this one bears on
+- [Item Response Curves expose per-item response patterns beyond dichotomous scoring, including persistent distractor choice and mixed responding](item-response-curves-reveal-patterns.md) — related
+- [A four-level scoring scheme for multiple-choice/multiple-response items reveals response nuance that dichotomous scoring hides](four-level-mcmr-scoring-reveals-nuance.md) — related

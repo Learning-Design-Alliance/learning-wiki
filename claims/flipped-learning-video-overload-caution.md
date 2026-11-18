@@ -50,3 +50,4 @@ The authors' own teaching observations, echoed (they state) in the literature, w
 - [Students responded with polarised feedback to a redesigned technology-rich active-learning course, with almost a quarter disliking the flipped-video approach](polarised-student-feedback-technology-rich-active-learning-course.md) — related
 - [The authors interpret that ceaseless interactive actions caused cognitive overload that disrupted student learning](ceaseless-interactive-actions-cognitive-overload.md) — related
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — a broader claim this one bears on
+- [The article reports, citing prior work, that asynchronous forums and discussion boards can cause too much interaction, student overload, dissatisfaction, and backwardness](asynchronous-forums-overload-dissatisfaction.md) — related

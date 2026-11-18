@@ -51,3 +51,4 @@ Pre/post-test study in an Advanced Quantum Mechanics course: students took a sho
 - [Certainty-rated pre- and post-test results flagged 14 of 50 MCQs for review of question formulation and content delivery, leading to course changes the following year](crmcq-flagged-14-of-50-mcqs-review.md) — related
 - [Students retained the ability to distinguish a superposition from a mixture a full semester after working on the QuILT (8 of 9 correct)](sge-quilt-concepts-retained-semester.md) — related
 - [Revised simulation and activity significantly improved introductory students' answers on how the 25% error fraction comes about (78.0% vs 41.1% correct)](revised-sim-improved-error-fraction-answers.md) — related
+- [SGE MQS improvement was limited on basis-transformation (question 3) and superposition-vs-mixture (question 5) items, with smaller gains than the QuILT produced](sge-mqs-limited-gains-basis-superposition-mixture.md) — related

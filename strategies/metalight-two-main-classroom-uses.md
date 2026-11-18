@@ -47,6 +47,7 @@ The article identifies two main ways of using MetaLight: as a visual aid during 
 ## Related Strategies
 
 - [Use MetaLight's forest plot exercise feature for students to construct rather than interpret plots](forest-plot-construction-exercise.md)
+- [Four classroom uses: visualization, exploration, student-driven discussion, and guided-inquiry assignments](composer-classroom-uses-strategy.md)
 
 ## Examples
 -

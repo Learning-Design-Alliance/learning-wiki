@@ -16,12 +16,14 @@ sources:
     author: Hannah S. Dalgleish, Joshua L. Veitch-Michaelis
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Former participants report international outcomes including travel abroad, international collaboration and living in a different country
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hannah S. Dalgleish, Joshua L. Veitch-Michaelis. (2019). Assessing the influence of one astronomy camp over 50 years. [doi:10.1038/s41550-019-0965-y](https://doi.org/10.1038/s41550-019-0965-y)
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Educational-impact section of the retrospective survey; respondents also credited the camp with increased proficiency in English and confidence applying for future roles, and noted that engaging with a diverse group was useful for networking.
 

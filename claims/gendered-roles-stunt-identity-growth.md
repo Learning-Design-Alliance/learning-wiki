@@ -51,3 +51,4 @@ Authors' interpretive synthesis of the observation and interview data, applying 
 - [In the Hermione-Slacker mode, a student (typically female) shoulders a disproportionate share of managerial lab work for unprepared partners, stunting identity growth](hermione-slacker-managerial-role-women.md) — possibly the same claim (merge candidate)
 - [In mixed-gender introductory physics lab groups, the Tinkerer role tends to be taken by men and the Secretary (note-taking/data) role by women](secretary-tinkerer-gendered-task-division.md) — related
 - [Same-gender lab partnerships tend toward equitable, symmetric work patterns while mixed-gender partnerships break into inequitable archetypes](same-gender-groups-equitable-collaboration.md) — related
+- [The authors interpret that lab tasks are not inherently gendered and that mixed-gender role divisions reflect students enacting gender](lab-tasks-not-inherently-gendered-interpretation.md) — related

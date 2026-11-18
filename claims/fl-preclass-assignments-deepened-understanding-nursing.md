@@ -56,3 +56,4 @@ Qualitative content analysis of semi-structured interviews with eight third-year
 - [Students exposed to the flipped classroom reported largely positive perceptions, with 84% finding pre-class materials helpful and 76% reporting improved understanding](student-perceptions-flipped-classroom-gondar.md) — related
 - [Preparatory tasks in the flipped-classroom webinar design were rated helpful by 82% of GP-trainees, citing positive effects on learning success and better understanding of content.](flipped-classroom-pre-tasks-helpful-gp-trainees.md) — related
 - [Flipped-course students reported increased confidence in understanding material and in applying critical thinking outside class, with no decline in course enthusiasm](attitudinal-benefits-flipped-active-learning.md) — related
+- [The module proved appropriate as a standalone resource when senior students self-taught chosen topics in a flipped classroom format](qc-module-standalone-flipped-classroom.md) — related

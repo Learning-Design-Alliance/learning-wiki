@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
-newest_evidence: 2025
+newest_evidence: 2026
 sources:
-  - id: li-li-2025
+  - id: li-li-2026
     resource: "https://doi.org/10.48550/arxiv.2606.09598"
-    title: "Li Li, Yu Cao. (2025). Awareness of Technological Isomorphism: Integrating AI into Elementary Mathematics Teaching on Data and Prediction, A Case Study of the Compound Line Graph. https://arxiv.org/abs/2606.09598 [doi:10.48550/arxiv.2606.09598](https://doi.org/10.48550/arxiv.2606.09598)"
+    title: "Li Li, Yu Cao. (2026). Awareness of Technological Isomorphism: Integrating AI into Elementary Mathematics Teaching on Data and Prediction, A Case Study of the Compound Line Graph. https://arxiv.org/abs/2606.09598 Originally published 2025. [doi:10.48550/arxiv.2606.09598](https://doi.org/10.48550/arxiv.2606.09598)"
     author: Li Li, Yu Cao
     q: 2
     i: "?"
@@ -31,17 +31,17 @@ sources:
 # Reflection on a prediction failure shifted students' isomorphism awareness from structural recognition to boundary awareness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 2 studies · 2 qualitative `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` When an anomaly (an opened flask lid) made the AI's prediction deviate from the actual value, students attributed the error to contextual information missing from the model's data, showing understanding that human inference can complement AI prediction. [→ Li Li 2025](#li-li-2025)
+`q2 i?` When an anomaly (an opened flask lid) made the AI's prediction deviate from the actual value, students attributed the error to contextual information missing from the model's data, showing understanding that human inference can complement AI prediction. [→ Li Li 2026](#li-li-2026)
 
 ## Evidence
 
-### Li Li 2025
+### Li Li 2026
 
-Li Li, Yu Cao. (2025). Awareness of Technological Isomorphism: Integrating AI into Elementary Mathematics Teaching on Data and Prediction, A Case Study of the Compound Line Graph. https://arxiv.org/abs/2606.09598 [doi:10.48550/arxiv.2606.09598](https://doi.org/10.48550/arxiv.2606.09598)
+Li Li, Yu Cao. (2026). Awareness of Technological Isomorphism: Integrating AI into Elementary Mathematics Teaching on Data and Prediction, A Case Study of the Compound Line Graph. https://arxiv.org/abs/2606.09598 Originally published 2025. [doi:10.48550/arxiv.2606.09598](https://doi.org/10.48550/arxiv.2606.09598)
 
 `q2 · i?` · `qualitative · r1`
 
@@ -67,3 +67,4 @@ The authors' interpretation of the same Segment 3 discourse: students recognized
 - [Dual-track comparison of manual estimation with AI prediction activated students' isomorphism awareness in a Grade 5 lesson](dual-track-comparison-activates-isomorphism-awareness.md) — related
 - [Micro productive failure (problem solving before instruction) improved sixth-graders' isomorphic algebraic procedural problem solving, with the advantage stable across one-day and one-week delays](micro-productive-failure-improves-isomorphic-procedural-problems.md)
 - [Emotion dynamics during problem-solving predict learning outcomes in a manner that depends on scaffolding design](emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently.md) — related
+- [The authors hypothesize the observed transfer is partly due to advanced students' developed abstract reasoning skills enabling recognition of the isomorphism between contexts](advanced-students-abstract-reasoning-enables-transfer.md) — related

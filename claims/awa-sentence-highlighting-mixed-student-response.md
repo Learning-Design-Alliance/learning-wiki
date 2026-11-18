@@ -70,3 +70,4 @@ The editors report the student-facing evaluation of AWA's highlighting feature; 
 - [Gemini-2.5-Pro can effectively replicate human expert judgments when answering SLM-generated MCQs](gemini-surrogate-judge-replicates-human-answers.md) — related
 - [Lexical adaptation of the general rhetorical parser reduced false positives in legal essay analysis without introducing parse errors](lexical-adaptation-reduced-false-positives-legal-parser.md) — related
 - [In an in-intervention explanation task, a majority of students (87.7%) conveyed at least partial understanding of valency after being introduced to the metaconcept](valency-explanation-task-majority-partial-understanding.md) — related
+- [Automatically generated mathematical hints are judged useful in over 90% of cases by independent domain-expert analysis](mathematical-hints-rated-useful-experts.md) — related

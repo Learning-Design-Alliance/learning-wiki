@@ -17,7 +17,7 @@ sources:
 # Introduce gravitational waves in high school through debates, hands-on experimentation, and prior optics and gravitation topics as an entry door
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 unmarked) · 2 studies (1 design, 1 theoretical), `q1` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 unmarked) · 2 studies (2 design), `q1` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 A teaching strategy in which gravitational waves are brought into the classroom by connecting them to topics students already study — optics and gravitation — and by combining thematic debate with experimental practice using the low-cost interferometer. The authors state that fundamentals of "óptica e gravitação, que servem como uma porta de entrada desse conteúdo em sala de aula" open the way to new concepts about how the Universe works, and justify experimentation as a way for the student to contact reality with the aim of "comprovar modelos ou teorias" and of motivating the student and awakening interest in the theme.

@@ -50,3 +50,4 @@ Analytical critique of Lave and Wenger's (1991) Community of Practice model as a
 - [Sociocultural SLA literature portrays learners who resist mainstream social interaction negatively, as 'nonparticipating' or having 'negative attitude'](sociocultural-sla-demonizes-socially-resistant-learners.md) — related
 - [The Good Language Learner metanarrative persists in sociocultural accounts by equating success with access to community conversations](gll-metanarrative-persists-sociocultural-theory.md) — related
 - [Mainstream motivation theories have extended toward identity and culture but keep explanatory constructs within individuals](mainstream-motivation-theories-individual-constructs.md) — related
+- [The Physics Can be Awesome afterschool program can be characterized as a community of practice with identifiable domain, community, and practice](pca-afterschool-program-functions-as-cop.md) — related

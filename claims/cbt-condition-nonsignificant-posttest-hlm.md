@@ -111,3 +111,5 @@ Model 3 disaggregated by the three courses and plotted via the HLM hypothesis-te
 - [Online LASSO-administered assessments produce participation rates and scores equivalent to in-class paper assessments when instructors use four recommended practices](lasso-online-assessments-equivalent-participation-performance.md) — a broader claim this one bears on
 - [Total time to completion of the online RBA showed no significant relationship with scores](online-rba-completion-time-no-score-relationship.md) — related
 - [Online RBA scores were 4–5% lower than historical in-class scores in the same courses, a non-significant difference driven by a larger lower tail](online-vs-inclass-rba-scores-comparable.md) — related
+- [Online administration shows a small (~10%) lower average score on 17 common RBA items, with Cohen's d ≈ 0.3](online-rba-score-small-decrease.md) — reports the opposite
+- [Student performance on online RBAs is equivalent to performance on the same tests administered on paper in class](online-rba-scores-equivalent-to-paper.md) — a broader claim this one bears on

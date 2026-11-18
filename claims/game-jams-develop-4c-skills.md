@@ -51,3 +51,4 @@ Thematic analysis (Atlas.ti, hermeneutic approach) of pre/post surveys, 40 inter
 - [Pre-event skill surveys enable balanced, skill-diverse team formation, but participants reported that more detailed skill screening would have benefited teams](pre-event-skill-survey-team-formation.md) — related
 - [Online environments build adolescent competence through pride in achievements, social confidence, and creative confidence](online-competence-pride-confidence-creativity.md) — related
 - [Students attributed competencies in teamwork, time management, quick thinking, critical thinking, communication, and confidence to team-based gamified quizzing](student-reported-competencies-gamified-quizzing.md) — related
+- [Serious games support playful learning situations for disciplinary areas and 21st century skills](serious-games-disciplinary-21st-century-skills.md) — related

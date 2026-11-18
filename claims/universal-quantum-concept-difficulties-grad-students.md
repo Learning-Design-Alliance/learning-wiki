@@ -54,3 +54,4 @@ Written survey of 202 first-year graduate students at seven universities plus th
 - [Advanced undergraduate and graduate students have common difficulties with the time dependence of expectation values in quantum mechanics](advanced-students-time-dependence-expectation-values-difficulties.md) — related
 - [Many students mistake the expectation value of energy for a possible measurement outcome and cannot distinguish individual measurements from expectation values](expectation-value-confused-with-measurement-outcome.md) — related
 - [Some instructors recall struggling to make conceptual sense of QM as undergraduates despite being facile at calculations and getting good grades](qm-instructors-own-learning-struggles.md) — related
+- [Graduate students scored significantly higher than undergraduates on the QMFPS, but both groups struggled](graduate-students-outperform-undergraduates-qmfps.md) — related

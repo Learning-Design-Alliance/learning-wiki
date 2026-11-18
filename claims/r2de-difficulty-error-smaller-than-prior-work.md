@@ -13,12 +13,14 @@ sources:
     title: Luca Benedetto 2020
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # R2DE's relative difficulty-estimation error (8.23%) is smaller than that of recent NLP difficulty-prediction works, though this does not assure better performance across datasets
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -30,7 +32,7 @@ sources:
 
 Luca Benedetto, Andrea Cappelli, Roberto Turrin, and Paolo Cremonesi. 2020. R2DE: a NLP approach to estimating IRT parameters of newly generated questions. In Proceedings of the 10th International Conference on Learning Analytics and Knowledge (LAK '20). https://doi.org/10.1145/3375462.3375517
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Comparison of relative difficulty-estimation error against recent NLP difficulty-prediction works, each evaluated on its own private dataset and difficulty range. The table reports R2DE at "[-5; 5] 0.823 8.23%" versus "[0; 1] 0.21 21%" and "[0; 100] 22.45 22.4%".
 

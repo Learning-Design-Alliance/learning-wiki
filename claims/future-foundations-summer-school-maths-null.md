@@ -49,3 +49,4 @@ Gain-score analysis of the randomised trial (Table 8: treatment mean 7.51, contr
 - [Summer math program effects differ by income status, with low-income samples showing d=0.11 and mixed-income samples showing a non-significant d=-0.02.](summer-math-income-moderator-between-study.md) — a broader claim this one bears on
 - [EEF-funded interventions showed no evidence of positive or negative overall effects on FSM pupils' mathematics outcomes](eef-interventions-fsm-maths-null-pooled.md) — related
 - [The Discover Summer School showed no statistically significant effect on spelling and grammar attainment](discover-summer-school-no-significant-spelling-grammar-effect.md) — related
+- [A two-week network science summer course for high-school pupils was overall successful and positively received](network-science-summer-course-high-school-successful.md) — related

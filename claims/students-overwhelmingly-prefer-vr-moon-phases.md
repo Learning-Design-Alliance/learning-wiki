@@ -76,3 +76,4 @@ Preference survey administered after participants viewed all three conditions in
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — related
 - [Focus-group comments portrayed the VR version as enjoyable while the PC version was described as tedious and frustrating](vr-enjoyment-pc-tedium-theme.md) — related
 - [A brief VR Moon-phases activity did not affect students' environmental attitudes compared with desktop and hands-on conditions](vr-no-effect-environmental-attitudes.md) — related
+- [Students most frequently preferred the highest-agency Project Lab unit, with freedom the most common stated reason](project-lab-most-preferred-freedom-reason.md) — related

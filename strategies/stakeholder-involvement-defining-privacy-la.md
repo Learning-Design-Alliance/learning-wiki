@@ -49,6 +49,7 @@ The article recommends that LA scholars involve students, teachers, parents, and
 - [Engage the AI in Education community actively with the public and key stakeholders to mitigate the in-credible AI effect](aied-public-engagement-strategy.md)
 - [Build students' understanding of the purposes and benefits of sharing data before implementing learning analytics](build-student-understanding-of-data-sharing.md)
 - [Involve end-users and teachers early in educational game development](involve-end-users-early-game-development.md)
+- [Involve students and alumni directly in campus activities, curriculum development and dialogue to build experience value](involve-students-curriculum-dialogue.md)
 
 ## Examples
 -

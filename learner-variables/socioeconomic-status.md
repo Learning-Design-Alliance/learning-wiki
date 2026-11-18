@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 296 claims (162 show a difference, 66 mixed, 68 no difference) · 223 studies (106 associational, 82 causal, 15 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 37 of 223 report an effect size · 295 claims rest on one study
+> **Evidence** · 297 claims (163 show a difference, 66 mixed, 68 no difference) · 224 studies (107 associational, 82 causal, 15 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 37 of 224 report an effect size · 296 claims rest on one study
 
 ## How to read this page
 
@@ -381,6 +381,7 @@ A learner's economic and social position: family income or poverty (often measur
 - [Math ACT scores decline with poverty concentration, but most Chicago charter schools score similarly to neighborhood schools at the same poverty level, except Noble Street](../claims/act-declines-with-poverty-charter-similar-to-neighborhood.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [First-generation college students leave more blank answers than non-first-generation students](../claims/first-gen-students-leave-more-blank-answers.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [First-generation students had smaller predicted DFW-rate decreases from LA support than continuing-generation peers](../claims/fg-students-smaller-dfw-decreases.md) [+M] — an instructional effect differs by group
+- [Students from higher-income high school communities take longer to graduate](../claims/higher-income-high-school-longer-graduation.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

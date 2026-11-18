@@ -17,7 +17,7 @@ sources:
 # Two-stage method for introducing CoCalc into mathematics teachers' pre-service training
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A two-stage method for introducing CoCalc into pre-service mathematics teacher training. Stage one is to "include in the v ariation part of the educational and professional training program of Bachelor of Mathem atics an optional course"; stage two introduces trainings, seminars, webinars and individual consultations during a pilot deployment of a cloud-based information and educational environment.

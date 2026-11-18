@@ -55,3 +55,4 @@ Sensitivity analysis (Table 2) varying length of professional development, avail
 - [The riAniMO approach was cost-saving, training 322 more HCPs and saving €61.7 per participant versus standard BLSD retraining](rianimo-cost-savings-per-participant.md) — related
 - [Cost per trainee depends strongly on trainee volume: development and validation costs fall below about 10% of total costs with more than 50 trainees](cost-per-trainee-volume-sensitivity-analysis.md) — related
 - [The sunk cost of transitioning to blended learning is recovered by lower running costs in the third program iteration, with growing present-value savings thereafter](bl-transition-cost-recovered-third-year.md) — related
+- [Virtualizing research seminars saves substantial funds that can be redirected to research positions](virtual-seminars-save-travel-costs.md) — related

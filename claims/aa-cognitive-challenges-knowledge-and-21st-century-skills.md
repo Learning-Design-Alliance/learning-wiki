@@ -53,3 +53,4 @@ Coding of cognitive challenges across the 37 included studies. The review report
 - [The Key Stage 3 ICT assessment has more potential than CWRA and PISA to measure the full range of 21st century capabilities](key-stage-3-assessment-potential-advantage.md) — related
 - [Students overwhelmingly value critical media analysis skills but report these skills were rarely addressed in their coursework](importance-coverage-gap-critical-media-skills.md) — related
 - [Students completing a SAP-codeveloped authentic assessment reported the greatest growth in scientific literacy (41.6%) and communication/knowledge translation (34.7%), with less reported growth in critical thinking (16.2%) and problem-solving (7.5%)](sap-authentic-assessment-skill-growth-sl-communication.md) — a narrower finding that bears on this claim
+- [Serious games support playful learning situations for disciplinary areas and 21st century skills](serious-games-disciplinary-21st-century-skills.md) — related

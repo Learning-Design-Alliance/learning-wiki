@@ -71,3 +71,4 @@ Think-aloud interviews with graduate-student volunteers indicate that despite co
 - [Difficulties with Dirac notation persisted in advanced students, and regression on problem 1 suggests some had memorized procedures rather than mastered the notation](dirac-notation-memorized-procedures.md) — related
 - [Upper-level students struggle to write position and momentum eigenstate inner products without Dirac notation, often confusing the Kronecker delta with the Dirac delta function](eigenstate-inner-product-delta-confusion.md) — related
 - [Undergraduates struggled with a generic operator acting on a generic quantum state: 35% identified the correct position-representation form on a multiple-choice question and only 6% wrote it on the open-ended question](ug-generic-operator-generic-state-difficulty.md) — related
+- [Mathematics functions as a barrier to entry that excludes non-specialists from quantum computing knowledge](mathematics-barrier-quantum-entry.md) — related

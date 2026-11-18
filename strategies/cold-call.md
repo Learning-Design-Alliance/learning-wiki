@@ -103,6 +103,7 @@ Cold calling dramatically broadens participation beyond volunteers, distributing
 - [Random Calling with Name Cards](random-calling-name-cards.md) — procedural tool for even distribution
 - [Class Discussion Facilitation](class-discussion-facilitation.md) — cold calling as one move within broader discussion leadership
 - [Instructors should explain the rationale for active learning practices and buffer cold calling with peer discussion](buffer-cold-calling-rationale-strategy.md)
+- [Assign a random pair member as reporter in think-pair-share to broaden verbal participation](random-reporter-think-pair-share-strategy.md)
 
 ## Examples
 - **Harvard Business School's case method** — cold calling is a signature norm; every student is expected to be called on in any class, which normalizes the practice and drives preparation (see [Case-Based Learning](../patterns/case-based-learning.md)).

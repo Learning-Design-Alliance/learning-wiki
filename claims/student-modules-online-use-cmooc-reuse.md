@@ -49,3 +49,4 @@ Authors' forward-looking plan, not a reported result: the team is working with H
 - [Prior cross-sectional between-group research on the platform found a positive usage–test-score relationship but could not rule out unobserved confounding](prior-cross-sectional-platform-usage-achievement-link.md) — related
 - [Consolidating edtech tools enabled DPS to pursue vendor partnerships that systematically compare app usage with student data to evaluate tool effectiveness](dps-consolidation-enables-impact-analysis.md) — related
 - [No evaluation of use, comprehensibility or effectiveness of RehAmpTT has been conducted in the main target group](rehamptt-no-evaluation-conducted.md) — related
+- [The authors claim no evaluation of SEAL yet: experiments to test effectiveness and experience are future work](seal-effectiveness-testing-future-work.md) — related

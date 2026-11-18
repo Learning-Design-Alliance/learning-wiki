@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-18
 sources:
   - id: van-dusen-2018
     resource: "https://doi.org/10.48550/arXiv.1812.02299"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` LASSO-based and in-class assessments provided equivalent participation rates and equivalent student performance scores when instructors used in-class reminders, multiple email reminders, and credit for pretest and posttest participation. [→ Van Dusen 2018](#van-dusen-2018)
@@ -55,3 +56,7 @@ A randomized between groups experimental design by Nissen et al. compared comput
 - [Participation is higher on pretests than posttests in both administration modes](pretest-participation-exceeds-posttest-both-modes.md) — related
 - [Online administration of upper-division RBAs raised participation rates, with 94% overall participation versus historical rates never higher than 80%](online-rba-participation-rate-increase-upper-division.md) — related
 - [Online RBA scores were 4–5% lower than historical in-class scores in the same courses, a non-significant difference driven by a larger lower tail](online-vs-inclass-rba-scores-comparable.md) — related
+- [Explicit credit-based incentives increased online RBA participation rates above historical norms, with slightly lower online scores attributed to broader sampling](incentives-increase-online-rba-participation.md) — related
+- [Online and in-class paper administration of low-stakes RBAs yield comparable participation rates when recommended practices are used](online-rba-participation-comparable-to-paper.md) — possibly the same claim (merge candidate)
+- [Student performance on online RBAs is equivalent to performance on the same tests administered on paper in class](online-rba-scores-equivalent-to-paper.md) — related
+- [Online unproctored administration of a physics quantitative-reasoning RBA yields participation rates similar to in-person proctored administration](online-rba-participation-similar-to-in-person.md) — a narrower finding that bears on this claim

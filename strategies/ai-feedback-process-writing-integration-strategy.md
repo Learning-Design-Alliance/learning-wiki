@@ -51,6 +51,7 @@ The article's procedure: students receive explicit genre instruction, draft inde
 - [Have students compare their peer-feedback revisions with AI-generated revisions to examine dialogic positioning](compare-peer-and-ai-revisions-dialogic-positioning.md)
 - [Implement Hyland's (2007) four-stage genre-based writing cycle: modeling, joint construction, independent construction, and comparing.](hyland-four-stage-genre-writing-cycle.md)
 - [Carefully vet freely available video resources for clinical correlation and procedural detail rather than assuming all supplemental video content is comparably rigorous](vet-video-resources-clinical-correlation-rigor.md)
+- [Add peer review and revision cycles to computational essay courses to supply feedback and correctness checking](peer-review-revision-for-computational-essays.md)
 
 ## Examples
 -

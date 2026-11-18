@@ -52,6 +52,7 @@ The article describes a four-step algorithm for finding influential papers on a 
 
 - [Citation_Chaining](citation_chaining.md)
 - [Educational Research Map Visualization](educational_research_map_visualization.md)
+- [Search ADS by first author and year, then filter by field and refereed status to locate a specific paper](ads-author-year-search-filtering-strategy.md)
 
 ## Examples
 -

@@ -46,6 +46,7 @@ The article proposes that, alongside conventional measures, schools "can build a
 ## Related Strategies
 
 - [Deploy ML-based early-warning prediction to shift retention support from reactive to proactive intervention](ml-early-warning-proactive-retention-support.md)
+- [Use classification results only to support, not to exclude, students: keep interventions open to all while encouraging the most at-risk students to use them](ethical-use-classification-open-to-all-students.md)
 
 ## Examples
 -

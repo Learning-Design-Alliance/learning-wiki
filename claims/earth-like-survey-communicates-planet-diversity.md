@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-11-18
 sources:
   - id: elizabeth-j-tasker-2020
     resource: "https://doi.org/10.1017/s1473550419000326"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The majority of questionnaire respondents selected statements consistent with the project goals, suggesting the site transmits information about planetary diversity. [→ Elizabeth J. Tasker 2020](#elizabeth-j-tasker-2020)

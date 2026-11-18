@@ -69,3 +69,6 @@ ANOVA between groups with t-tests printed p-values: for problem 1, p = 0.015 (Gr
 - [All seven surveyed physics faculty incorrectly predicted that students given diagrams would perform best](faculty-mispredict-diagram-benefit.md) — related
 - [Students given a partial diagram (empty tube) scored significantly worse on the standing-wave quiz than students prompted to draw a diagram or given no support](partial-diagram-intervention-worse-quiz-performance.md) — related
 - [On problem 2, comparison-group students who did not draw a diagram outperformed students given a diagram (p = 0.004)](no-diagram-outperformed-given-diagram-problem2.md) — a narrower finding that bears on this claim
+- [Instructors nearly always predicted that providing diagrams would help, contrary to the measured outcomes](instructors-mispredict-diagram-provision-benefit.md) — related
+- [Students provided with diagrams performed significantly worse than prompted and no-support students on two electrostatics quiz problems, with large effect sizes](provided-diagrams-worse-electrostatics-quizzes.md) — related
+- [Across ten quiz problems in a semester, providing a diagram never improved performance and was detrimental on three](providing-diagrams-never-beneficial.md) — related

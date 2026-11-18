@@ -16,6 +16,8 @@ sources:
     author: "Gürbüz, S., Adıgüzel, A., Özcan, V. E., Kırpıcı, S. M., & Yılmaz, A."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: gürbüz-2019-2
     resource: "https://doi.org/10.1139/cjp-2018-0823"
     title: "Gürbüz, S., Adıgüzel, A., Özcan, V. E., Kırpıcı, S. M., & Yılmaz, A. (2019). Experimental High Energy Physics Summer School For High Schools. [doi:10.1139/cjp-2018-0823](https://doi.org/10.1139/cjp-2018-0823)"
@@ -42,7 +44,7 @@ sources:
 
 Gürbüz, S., Adıgüzel, A., Özcan, V. E., Kırpıcı, S. M., & Yılmaz, A. (2019). Experimental High Energy Physics Summer School For High Schools. [doi:10.1139/cjp-2018-0823](https://doi.org/10.1139/cjp-2018-0823)
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 ATLAS data-analysis exercise using Minerva software, part of the ATLAS Masterclass Z-path: "Most of them achieved to identify 7 tracks out of 10"; the missed tracks were attributed to insufficient task time.
 

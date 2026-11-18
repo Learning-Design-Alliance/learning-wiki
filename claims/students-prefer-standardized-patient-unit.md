@@ -50,3 +50,4 @@ Semi-structured interviews with 43 students (17 speakers, 26 observers) comparin
 - [Students reported significantly higher motivation during the standardized patient unit than during the VR unit](sp-unit-higher-motivation-than-vr.md) — related
 - [Qualitative findings indicate SVVR immersion enhanced engagement, concentration, perceived realism, patient assessment, clinical decision-making, and interdisciplinary collaboration](qualitative-immersion-enhanced-engagement-realism.md) — related
 - [Standardized patients were rated significantly more believable than virtual patients on behavior, emotion, and overall subscales](sp-higher-believability-than-virtual-patients.md) — related
+- [Students most frequently preferred the highest-agency Project Lab unit, with freedom the most common stated reason](project-lab-most-preferred-freedom-reason.md) — related

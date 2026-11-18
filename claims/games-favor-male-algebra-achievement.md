@@ -71,3 +71,4 @@ ANCOVA of male and female students taught with games and without games (Table 5)
 - [Female students outperformed males in the live lecture condition, but not in the flipped conditions](gender-difference-live-lecture-gains.md) — related
 - [Male-instructed classes show a small performance gender gap in favor of males (0.20 SD), while female-instructed classes show no significant gap](male-instructed-classes-performance-gap.md) — related
 - [Female players significantly outperform male players on tutorial scores even though males play more games per day](females-outperform-males-tutorial-scores.md) — reports the opposite
+- [Secondary students' expectations of educational games differ by gender](gender-differences-game-expectations-secondary.md) — related

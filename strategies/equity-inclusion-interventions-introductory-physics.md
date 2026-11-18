@@ -50,6 +50,7 @@ The article recommends that physics departments direct equity and inclusion effo
 - [Provide scaffolding at the conceptual-to-mathematical transition and use growth-mindset activities to sustain persistence after setbacks](scaffolding-conceptual-mathematical-transition-growth-mindset.md)
 - [Design classroom contexts that align activity goals and practices with student goals to promote belonging](align-context-goals-practices-belonging.md)
 - [Promote a Growth Mindset](promote_a_growth_mindset.md)
+- [Use brief social-psychological classroom interventions (e.g., belonging and mindset interventions) to raise women's belonging, self-efficacy, confidence and interest in physics](brief-belonging-mindset-interventions-physics.md)
 
 ## Examples
 -

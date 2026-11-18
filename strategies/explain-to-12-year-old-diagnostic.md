@@ -45,6 +45,7 @@ A specific assessment prompt used by the authors to probe whether students under
 ## Related Strategies
 
 - [Ask Open-Ended Questions](ask_open-ended_questions.md)
+- [Open-ended kinematics lab in which students judge small-versus-big push differences from StatKey box plots](slowing-down-box-plot-judgment-lab.md)
 
 ## Examples
 -

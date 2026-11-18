@@ -161,6 +161,7 @@ Dwell time, voluntary return, self-extended projects, explained understanding at
 - [Co-Census](../products/co-census.md) — museum software that turns visitors' answers about identity, family and work into visualisations they control by moving, to spark dialogue among visitors
 - [Offer three voluntary multiple-choice questions per lecture on an online platform with feedback, without changing lecture structure](../strategies/voluntary-online-mcqs-per-lecture-strategy.md)
 - [Visitor center interpretation built on the intersection of resource stories, visitor interests, and institutional mission](../designs/three-realms-visitor-center-interpretation.md)
+- [Split project work into hands-on and digital subgroups so participants follow their own interests](../strategies/hands-on-digital-subgroup-split.md)
 
 ## Key Sources
 - Ashton, S., Nelson, K. R., & Millward, L. (2018). Careers in museum learning: Making a difference in museums through instructional design. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/careers_in_museum_learning](https://edtechbooks.org/lidtfoundations/careers_in_museum_learning)

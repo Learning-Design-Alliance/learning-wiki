@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 365 claims (277 show a difference, 47 mixed, 41 no difference) · 288 studies (95 causal, 94 associational, 33 review, 28 qualitative, 19 design, 10 quant-synthesis, 8 theoretical), `q1`–`q4` · 58 of 288 report an effect size · 361 claims rest on one study
+> **Evidence** · 372 claims (284 show a difference, 47 mixed, 41 no difference) · 292 studies (96 associational, 95 causal, 33 review, 28 qualitative, 21 design, 10 quant-synthesis, 8 theoretical), `q1`–`q4` · 59 of 292 report an effect size · 368 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -396,6 +396,13 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [In engineering and mathematics, men report higher self-efficacy while women earn higher grades — self-efficacy and performance gender differences run in direct opposition](../claims/opposing-self-efficacy-performance-gender-patterns-math-engineering.md) [+M] — learners who differ on it differ in outcomes
 - [Physics shows the most extreme self-efficacy/performance mismatch: men's self-efficacy advantage is much larger than their small grade advantage](../claims/physics-largest-self-efficacy-performance-mismatch.md) [+M] — learners who differ on it differ in outcomes
 - [Self-efficacy decreased significantly on all four sources of self-efficacy in the MI courses](../claims/self-efficacy-source-subscale-decreases-mi.md) [+M] — measured as an outcome of the instruction studied
+- [Art-inclined participants reported growing interest and ability in solving mathematical problems after the course](../claims/art-inclined-students-gained-math-confidence.md) [+M] — measured as an outcome of the instruction studied
+- [End-of-physics-2 self-efficacy is directly predicted by prior self-efficacy (b = 0.41), belonging (b = 0.35), peer interaction (b = 0.21) and perceived recognition (b = 0.16)](../claims/self-efficacy-predicted-belonging-peer-interaction-recognition.md) [+M] — learners who differ on it differ in outcomes
+- [Gender differences in post-course self-efficacy, interest, and identity are mediated by the learning environment, with gender directly predicting only pre-course beliefs and environment perceptions](../claims/learning-environment-mediate-gender-differences-motivation.md) [+M] — measured as an outcome of the instruction studied
+- [Male and female students' motivational beliefs differ significantly in favor of men at the end of algebra-based introductory physics, even though women are the majority (63%) in these courses](../claims/gender-gap-motivational-beliefs-algebra-based-physics.md) [+M] — measured as an outcome of the instruction studied
+- [Perceived recognition, peer interaction, and belonging each predict end-of-course physics self-efficacy and interest after controlling for pre-course self-efficacy and interest](../claims/learning-environment-predicts-post-motivational-beliefs.md) [+M] — measured as an outcome of the instruction studied
+- [Sense of belonging is the largest predictor of post-course physics self-efficacy, and belonging uniquely explains substantial variance in self-efficacy](../claims/belonging-largest-predictor-post-self-efficacy.md) [+M] — measured as an outcome of the instruction studied
+- [The authors report that using the didactic sequences fostered student protagonism, with visible growth in students' confidence and ability to lead interventions](../claims/student-protagonism-didactic-sequences.md) [+W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

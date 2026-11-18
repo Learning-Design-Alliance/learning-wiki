@@ -47,6 +47,7 @@ The report synthesizes the growth mindset literature into math teaching practice
 - [Praise Effort and Strategies](praise_effort_and_strategies.md)
 - [Emphasis on the Learning Process](emphasis_on_the_learning_process.md)
 - [Reinforce growth mindsets through explicit messages plus implicit classroom practices](growth-mindset-explicit-and-implicit-practices.md)
+- [Use surveys of student familiarity to form mixed-ability groups and tailor topic emphasis](qc-module-survey-based-grouping.md)
 
 ## Examples
 -

@@ -24,6 +24,8 @@ sources:
     author: Ulrik Lyngs, Kai Lukoff, Petr Slovak, William Seymour, Helena Webb, Marina Jirotka, Jun Zhao, Max Van Kleek, Nigel Shadbolt
     q: 2
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Some intervention effects persist after removal: fewer daily visits for goal reminders and less passive newsfeed browsing after newsfeed removal
@@ -52,7 +54,7 @@ RQ4 comparison of the post-intervention block to the first baseline in the goal-
 
 Ulrik Lyngs, Kai Lukoff, Petr Slovak, William Seymour, Helena Webb, Marina Jirotka, Jun Zhao, Max Van Kleek, Nigel Shadbolt. (2020). 'I Just Want to Hack Myself to Not Get Distracted': Evaluating Design Interventions for Self-Control on Facebook. CHI '20, April 25–30, 2020, Honolulu, HI, USA. https://doi.org/10.1145/3313831.3376672
 
-`q2 · i3`
+`q2 · i3` · `causal · r2`
 
 RQ4 comparison of post-intervention to baseline in the newsfeed-removal condition: reported passive newsfeed browsing was lower after the intervention ended, "p = 0.007, r = 0.78"; some participants said they felt less attracted by the newsfeed when it returned.
 

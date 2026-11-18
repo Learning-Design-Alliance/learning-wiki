@@ -179,6 +179,7 @@ Accuracy of judgement, on-task behaviour, immediate task performance, delayed re
 - [Self-Monitoring of Behavior](../strategies/self-monitoring-of-behavior.md), [Whole-class self-monitoring](../strategies/whole_class_self-monitoring.md) and [Self-monitoring in writing](../strategies/self-monitoring-in-writing.md) — strategy recipes that apply this principle.
 - [Self-monitoring](../elements/self-monitoring.md) — the element page.
 - [Teach students to monitor and reflect on their own behavior](../strategies/teach-students-self-monitor-reflect-behavior.md)
+- [Progressively answer three questions while reading: what problem, how addressed, what was found](../strategies/three-question-paper-reading-scaffold.md)
 
 ## Key Sources
 - Bol, L., Campbell, K. D. Y., Perez, T., & Yen, C. J. (2016). The effects of self-regulated learning training on community college students' metacognition and achievement in developmental math courses. *Community College Journal of Research and Practice, 40*(6), 480-495. [https://doi.org/10.1080/10668926.2015.1068718](https://doi.org/10.1080/10668926.2015.1068718)

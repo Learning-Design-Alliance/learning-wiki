@@ -49,3 +49,4 @@ Pearson correlations between SGM attendance and course grades across eight semes
 - [Non-AP students rated SGM benefits more highly than AP students, and attendance correlated positively with perceived benefits](sgm-benefits-non-ap-rated-higher.md) — related
 - [URM students attended voluntary SGM workshops more frequently than non-URM students](sgm-attendance-urm-higher.md) — related
 - [The historical URM–non-URM grade gap narrowed in Biology 2 but not in Biology 1 after program implementation](grade-gap-narrowed-biology2-only.md) — related
+- [The five satisfaction aspects are highly positively inter-correlated (coefficients above 0.8), and attendance correlates positively with perceived course difficulty (0.44)](satisfaction-aspects-high-intercorrelation.md) — related

@@ -51,3 +51,4 @@ The review attributes this cost analysis to Nathan et al. (2022), a randomised t
 - [The effect of offline computer-based digital education on medical doctors' knowledge gain compared with face-to-face learning is uncertain (very low grade evidence)](ocde-vs-face-to-face-knowledge-uncertain.md) — related
 - [Approximately 86.61% of trainees prioritize suturing and knot-tying practice as the most critical simulator training component](suturing-knot-tying-most-critical-component.md) — related
 - [The riAniMO approach was cost-saving, training 322 more HCPs and saving €61.7 per participant versus standard BLSD retraining](rianimo-cost-savings-per-participant.md) — related
+- [Virtualizing research seminars saves substantial funds that can be redirected to research positions](virtual-seminars-save-travel-costs.md) — related

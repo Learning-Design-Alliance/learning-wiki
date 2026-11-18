@@ -54,3 +54,4 @@ The authors' account of keypad use in their introductory college physics lecture
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — a broader claim this one bears on
 - [Danmaku questions elicit rapid co-answering and co-confusion, while discussion-board questions often go unanswered or support multi-round elaboration](co-answering-co-confusion-versus-lonely-confusion.md) — related
 - [The article argues that traditional teacher-centered lecturing fails to provide interaction and that active engagement is measurably more effective for understanding](traditional-lecture-fails-interaction-active-engagement-more-effective.md) — related
+- [The author observes that student audiences pay more attention to peer-delivered astronomy talks than to the same topic in a teacher's lecture](peer-delivered-astronomy-talks-higher-attention.md) — related

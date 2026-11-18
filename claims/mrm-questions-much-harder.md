@@ -48,3 +48,4 @@ CTT comparison of question types in the protoPIQL (Table I): SR difficulty 0.74 
 - [At least 75% of students choose at least one correct response on MRM questions, motivating analysis beyond the correct/incorrect dichotomy](mrm-partial-correctness-evidence.md) — related
 - [CMR format captures most but not all FR reasoning: about 74% of FR responses matched CMR reasoning elements](cmr-captures-three-quarters-of-fr-reasoning.md) — related
 - [All CMR CUE items fall within an acceptable difficulty range (30–75%) and show statistically significant item-test correlations (0.28–0.55), supporting item discrimination](cmr-cue-item-difficulty-and-discrimination-acceptable.md) — related
+- [CTT item difficulty was significantly lower online for five of 17 common items, four of them MCMR items](online-item-difficulty-lower-five-items.md) — related

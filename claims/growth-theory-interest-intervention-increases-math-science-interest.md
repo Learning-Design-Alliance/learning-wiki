@@ -51,3 +51,4 @@ The manuscript's title states the headline finding: the intervention "Increases 
 ## Related Claims
 - [The intervention's effect on math/science course interest and grades was tested as a main effect and as moderated by math/science identity](interest-intervention-effect-tested-main-effect-and-identity-moderation.md) — related
 - [The targeted sample's math/science identity was low on average but showed variability, motivating the moderation analysis](sample-math-science-identity-low-on-average-variable.md) — related
+- [Art-inclined participants reported growing interest and ability in solving mathematical problems after the course](art-inclined-students-gained-math-confidence.md) — related

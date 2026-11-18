@@ -49,3 +49,4 @@ Reported from Cardiff Metropolitan University module evaluation comments within 
 - [Student groups perceive peer assessment in PtBL as beneficial for feedback and engagement but raise bias concerns](student-perceptions-peer-assessment-benefits-bias.md) — related
 - [Students and staff perceived poster presentations as an effective and fair way to assess students’ ability to collect, analyse, interpret and present data](posters-effective-fair-assessment-research-ability.md) — related
 - [Student peer-to-peer feedback is perceived as beneficial but raises concerns about honesty and accuracy](peer-feedback-benefits-and-concerns.md) — related
+- [Individualising team marks via peer assessment reduced student complaints about free riding and marking fairness from 26% to 7% of feedback](peer-assessment-individualisation-free-riding-complaints-decrease.md) — related

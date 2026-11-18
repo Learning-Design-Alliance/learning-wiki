@@ -57,3 +57,4 @@ Thematic analysis of an optional electronic survey with two open-ended questions
 - [Thematic analysis of open-ended responses identifies communication, leadership and teamwork as the most valued learning outcomes, especially in IP courses](simulation-debrief-themes-communication-leadership-teamwork.md) — related
 - [Students requested more open-ended inquiry activities and more diverse simulation options](students-requested-open-ended-inquiry-and-options.md) — related
 - [Students most commonly chose a new perspective on physics and seeing links between areas of physics as what they enjoyed most](action-physics-enjoyment-new-perspective-and-links.md) — related
+- [Alumni most commonly reported gains in knowledge and understanding of space (87%), social confidence (83%) and teamwork (71%), with networking the most-cited career benefit](ssuk-skills-knowledge-social-confidence-teamwork.md) — related

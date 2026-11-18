@@ -59,10 +59,12 @@ Hand-raising lets a small minority of confident students dominate discourse whil
 6. Record what responses reveal about understanding and adjust instruction accordingly — link to [Formative Assessment](../patterns/formative-assessment.md)
 
 ## Related Strategies
+
 - [Wait Time](wait-time.md) — the pause that makes cold calling a thinking technique rather than a gotcha
 - [Think-Pair-Share](../patterns/think-pair-share.md) — rehearsal structure that de-risks individual response
 - [Cold Calling](cold-call.md) — the selection technique at the core of this strategy
 - [Classroom Response Systems](classroom-response-systems.md) — anonymous whole-class alternative achieving the same universal accountability
+- [Assign a random pair member as reporter in think-pair-share to broaden verbal participation](random-reporter-think-pair-share-strategy.md)
 
 ## Examples
 - **Uncommon Schools / Teach Like a Champion classrooms** — Lemov's "Cold Call" and "No Opt Out" techniques are standard practice; teachers use name-stick randomization with pair rehearsal before selection ([teachlikeachampion.com](https://teachlikeachampion.com))

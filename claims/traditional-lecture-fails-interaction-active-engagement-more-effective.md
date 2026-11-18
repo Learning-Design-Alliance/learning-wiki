@@ -54,3 +54,4 @@ Theoretical argument in the physics module section, citing educational research 
 - [The deliberate practice transformation process covered 90% of the material of the traditional lecture format](deliberate-practice-90-percent-coverage.md) — related
 - [Students created more complete and more correct physics solutions when using screencasts instead of their traditional notebooks](screencasts-more-complete-correct-solutions.md) — a narrower finding that bears on this claim
 - [Teaching by telling is not an effective approach to helping students learn physics; PER-based curricula instead build on interactive engagement](teaching-by-telling-ineffective-physics.md) — a narrower finding that bears on this claim
+- [Using CMODS is argued to shift teaching from passive to active methods and activate students' learning activity](cmods-passive-to-active-shift.md) — a narrower finding that bears on this claim

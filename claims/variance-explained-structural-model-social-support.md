@@ -73,3 +73,4 @@ Structural model path coefficients from Fig 2 of the same study: social support�
 - [Self-efficacy partially mediates the relationship between externally oriented thinking and clinical communication competence](self-efficacy-partial-mediator-eot-communication.md) — related
 - [The mediation models fit well and explain 22% of variance in extra training and 37% in academic performance](mediation-model-fit-variance.md) — related
 - [Engagement at each PBL phase strongly predicts engagement at the next phase, with earlier measures explaining 81% of variance in the final measure](sequential-engagement-path-analysis.md) — related
+- [Sense of belonging is the largest predictor of post-course physics self-efficacy, and belonging uniquely explains substantial variance in self-efficacy](belonging-largest-predictor-post-self-efficacy.md) — related

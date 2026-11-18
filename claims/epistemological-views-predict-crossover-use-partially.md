@@ -16,12 +16,14 @@ sources:
     author: "Kuo, E., Hull, M. M., Elby, A., & Gupta, A."
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # End-of-course epistemological views toward problem-solving coherence predicted crossover approach use but did not fully account for MS–CTRL differences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Kuo, E., Hull, M. M., Elby, A., & Gupta, A. (2019). Mathematical Sensemaking as Seeking Coherence between Calculations and Concepts: Instruction and Assessments for Introductory Physics. [doi:10.48550/arXiv.1903.05596](https://doi.org/10.48550/arXiv.1903.05596)
 
-`q2 · i?`
+`q2 · i?` · `associational · r?`
 
 Survey-based secondary analysis within the same quasi-experimental three-section study: end-of-course epistemological surveys about problem-solving coherence were related to crossover approach use. The article reports that views "predicted their crossover approach use but did not fully account for the differences" between MS and CTRL groups. No effect size or test statistic is printed in the supplied text.
 

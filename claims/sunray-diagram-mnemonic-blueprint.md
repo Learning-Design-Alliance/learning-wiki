@@ -16,12 +16,14 @@ sources:
     author: Kim, J.-H. and Nam, J.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Sunray diagrams serve as a quick mnemonic and reveal the blueprint of proofs of partial derivative identities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kim, J.-H. and Nam, J. (2021). Thermodynamic identities with sunray diagrams. Originally published 2020. [doi:10.1088/1361-6404/abce1e](https://doi.org/10.1088/1361-6404/abce1e)
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Authors' stated strengths of the graphical method in section 2.1, offered as interpretation rather than a tested result: the diagram acts as a mnemonic and hints possible directions of progress when only a left-hand side is given.
 

@@ -50,3 +50,4 @@ Chi-square tests of item-level response frequencies among 528 Turkish students. 
 ## Related Claims
 - [The Turkish AAPS translation showed robust internal consistency across all student groups, with Cronbach alpha ranging from 0.82 to 0.90](turkish-aaps-survey-reliability-validation.md) — related
 - [Only one survey item showed a gender difference: females ranked prioritizing concepts to review more positively than males (97.8% vs 84.4%, p = 0.030).](gender-difference-prioritize-concepts-item.md) — related
+- [AstroDance surveyed audiences were roughly evenly split by hearing status and gender, mostly aged 13–21, with 89% self-reporting ethnicity](astrodance-audience-demographics.md) — related

@@ -171,6 +171,7 @@ Ties formed, ties used, reduced isolation, persistence, and employment or settle
 - [Support informal workplace learning by recognising and rendering visible the informal networks through which workers actually learn](../strategies/render-informal-workplace-learning-visible.md)
 - [Offer pre-arrival materials and self-evaluation paired with developmental exercises, plus peer mentoring, to foster adaptive traits and social support before students arrive on campus](../strategies/pre-arrival-self-evaluation-peer-mentoring-strategy.md)
 - [In resource-limited contexts, rely on strong pedagogy rather than technology: clear relevant cases, structured peer mentoring, and community settings as authentic learning environments](../strategies/resource-limited-pbl-pedagogy-over-technology.md)
+- [Provide networking opportunities in space for young people](../strategies/provide-space-networking-opportunities-young-people.md)
 
 ## Key Sources
 - Department for Education. (2018). *Decisions of adult learners*. Kantar Public and Learning and Work Institute.

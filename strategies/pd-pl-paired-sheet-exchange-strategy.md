@@ -59,4 +59,4 @@ A concrete classroom recipe: after the instructor teaches, students choose a tea
 -
 
 ## Key Sources
-- Noorani, S. F., Manshaei, M. H., Montazeri, M. A., & Omoomi, B. (2019). Fostering Peer Learning through a New Game-Theoretical Approach in a Blended Learning Environment. https://arxiv.org/abs/1910.12235
+- Noorani, S. F., Manshaei, M. H., Montazeri, M. A., & Omoomi, B. (2019). Fostering Peer Learning through a New Game-Theoretical Approach in a Blended Learning Environment. https://arxiv.org/abs/1910.12235. [doi:10.48550/arxiv.1910.12235](https://doi.org/10.48550/arxiv.1910.12235)

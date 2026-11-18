@@ -54,3 +54,4 @@ Preliminary evaluation in a junior-senior level quantum mechanics course: the co
 - [Students rated QuILTs highly effective and 10 of 12 preferred completing them in class rather than as homework](quilt-student-survey-effectiveness.md) — related
 - [Classes using concept tests and Quantum Interactive Learning Tutorials scored far higher on the QMS and retained their advantage a semester later](research-based-tools-raise-qms-scores-with-retention.md) — related
 - [A need exists for assessment tools covering all major quantum topics suitable for statistical analysis at secondary and lower undergraduate levels](need-assessment-tools-quantum-secondary-lower-undergraduate.md) — related
+- [Undergraduates taught with research-based learning tools scored significantly higher on the QMFPS than those who were not](research-based-learning-tools-higher-qmfps-scores.md) — possibly the same claim (merge candidate)

@@ -49,3 +49,4 @@ Administrative/workflow report from the implementing course: 15 lab sessions eac
 - [Most VM users held positive perceptions of VM as a histology learning tool, but most doubted it could fully replace traditional microscopy](vm-positive-perceptions-replacement-doubt.md) — related
 - [The majority of BSc students said virtual microscope sessions could not be run adequately without staff present.](vm-sessions-need-staff-present.md) — related
 - [Student pacing differed between laboratory and non-laboratory use of the virtual microscope, with more slides viewed per hour in lab but slightly longer per-slide viewing time outside lab](vm-viewing-pacing-in-lab-versus-out-of-lab.md) — related
+- [Virtualizing research seminars saves substantial funds that can be redirected to research positions](virtual-seminars-save-travel-costs.md) — related

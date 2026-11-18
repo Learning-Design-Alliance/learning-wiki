@@ -49,3 +49,4 @@ Survey 1 open-ended responses to images of the two major galaxy types (Figure 4)
 - [Students misinterpret what spectra indicate, including temperature, composition, and distance information](spectra-interpretation-misconceptions.md) — related
 - [Students commonly attribute spiral galaxy structure to matter swirling into a central black hole](spiral-arms-black-hole-misconception.md) — related
 - [Galaxy and spectra misconceptions persist after instruction, with similar patterns across two different classes](misconceptions-persist-after-instruction.md) — related
+- [The Doppler shift Student Representation Task sequences representation creation to confront known reasoning difficulties, culminating in QCR = 4 graphing](doppler-shift-srt-confronts-difficulties.md) — related

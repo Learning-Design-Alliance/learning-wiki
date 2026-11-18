@@ -64,6 +64,7 @@ Cold calling after pair work converts discussion from optional participation int
 - [Wait Time](wait-time.md) — the pause discipline that makes cold calling a thinking prompt rather than a gotcha
 - [Random Calling](random-calling.md) — the equity mechanism that makes sampling visibly fair
 - [Manage TPS discussion challenges by having the instructor circulate among pairs and by using classroom response systems for evaluating responses and managing time](tps-engagement-and-noise-management.md)
+- [Add a peer instruction (think–pair–share) component after the initial clicker poll to build student connection](peer-instruction-after-clicker-poll.md)
 
 ## Examples
 - **Teach Like a Champion (Lemov, 2021)** — "Cold Call" is one of the core techniques; Lemov explicitly recommends cold calling *after* turn-and-talk so students report rehearsed answers, and describes "warm calling" as the on-ramp for reluctant speakers. See [Teach Like a Champion](https://teachlikeachampion.com).

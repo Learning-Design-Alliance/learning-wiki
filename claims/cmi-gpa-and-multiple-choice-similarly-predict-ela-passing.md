@@ -52,3 +52,4 @@ Logistic regression analyses on subsamples enrolled in English 105 (n = 381) and
 - [The ELA placement test was most precise for students whose scores would place them into developmental courses, with precision declining above the 40th percentile](cmi-ela-test-precision-declines-above-40th-percentile.md) — related
 - [Students placed into Level 3 and Level 4 intensive pathways had the highest first-attempt passing rates in credit-bearing ELA courses, while Level 2 intensive pathway students had the lowest](cmi-intensive-pathways-level3-4-highest-ela-passing-rates.md) — related
 - [MCAS and PARCC scores similarly predict which students need remedial coursework in college](parcc-mcas-similar-remediation-prediction.md) — related
+- [Math placement score and high school GPA predict early graduation, while AP credits do not strongly predict graduating early](preparation-predicts-early-graduation-not-ap-credits.md) — related

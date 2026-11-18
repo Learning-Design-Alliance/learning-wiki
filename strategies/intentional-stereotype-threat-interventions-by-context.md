@@ -42,7 +42,8 @@ Given varying findings about the effects of ethnicity stigma consciousness acros
 - [At community colleges, ethnicity stigma consciousness positively predicted exam scores for all students, while URM status did not predict ESC](../claims/esc-positively-predicted-exam-scores-community-colleges.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Universities should make concerted efforts to mentor and support all students and improve STEM learning environments to counteract stereotypes disadvantaging URM students](concerted-mentoring-support-equitable-stem-environments.md)
 
 ## Examples
 -

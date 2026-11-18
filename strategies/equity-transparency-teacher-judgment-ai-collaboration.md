@@ -52,6 +52,7 @@ As part of its third contribution, the paper recommends that implementations of 
 - [Higher education leaders should develop more inclusive and future-oriented GenAI policies integrating social equity, interdisciplinary experimentation, and sustainability considerations](develop-inclusive-future-oriented-genai-policies.md)
 - [Design AI mediators with negotiable intervention, participant-controlled synthesis, and transparent role transitions that preserve human ownership of team decisions](negotiable-transparent-ai-mediation-design.md)
 - [Deploy agentic AI in education with transparency about agentic decisions, human oversight and institutional responsibility](responsible-deployment-transparency-human-oversight-agentic-ai.md)
+- [Treat equity and student access to technology and materials as a primary constraint in remote and hybrid lab course design](equity-first-remote-lab-design.md)
 
 ## Examples
 -

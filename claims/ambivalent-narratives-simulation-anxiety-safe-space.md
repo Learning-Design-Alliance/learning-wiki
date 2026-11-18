@@ -63,3 +63,4 @@ Bardin's content analysis of free narratives on simulation days (Table 3) identi
 - [Confidence items tied to performing in front of faculty and the possibility of making a mistake improved most between the first and second simulations](confidence-item-gains-front-of-faculty.md) — related
 - [Students perceived the gamified quizzes as a risk-free anonymous environment for practicing histology without fear of judgment](kahoot-risk-free-anonymous-practice-environment.md) — related
 - [Neither class showed 'conceptual debugging': no more elaborate investigative strategy was observed in any group after interacting with the environments](gt-no-conceptual-debugging.md) — related
+- [Students framed \"simulation\" as exams and quizzes eliciting test anxiety, with no association to data or computer experiments](students-simulation-exam-frame-no-data-link.md) — related

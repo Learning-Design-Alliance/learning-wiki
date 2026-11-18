@@ -79,3 +79,4 @@ Anonymous learning-management-system survey on preferred lecture format for spri
 - [Physiotherapy students prefer a combination of online e-learning and lecture-style learning formats for chronic disease management](physiotherapy-students-prefer-blended-e-learning-lecture-formats.md) — related
 - [Dispersed videoconferencing students rated interaction highest and were observed interacting more than co-located students](dispersed-videoconference-highest-interaction.md) — related
 - [End-of-semester lecture ratings averaged about 4/5 across topics, with special functions (L12) rated differently by juniors (4.7±0.5) than seniors (3.9±0.7)](lecture-topic-ratings-phys497-spring2007.md) — related
+- [Approximately 50% of surveyed instructors would structure synchronous versus asynchronous course time differently if teaching remotely again](restructure-sync-async-remote-lab-time.md) — related

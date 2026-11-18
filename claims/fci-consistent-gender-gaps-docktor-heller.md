@@ -56,3 +56,5 @@ The review reports Docktor and Heller's analysis of FCI scores for more than 500
 - [Mean FCI scores differ significantly between male and female students at a moderate magnitude favoring male students (g = 0.61) across international PER studies](fci-gender-gap-moderate-favoring-males.md) — related
 - [Matched-samples studies find no post-test performance difference between men and women in introductory physics when matched on prior measures](matched-samples-no-gender-posttest-difference.md) — related
 - [The FCI gender gap narrowed following instruction in these blended sections](fci-gender-gap-narrowed-blended-sections.md) — reports the opposite
+- [Men scored higher than women on FCI pretest, FCI post-test, and solo-phase exam in introductory physics](fci-exam-gender-gaps-favor-men.md) — a narrower finding that bears on this claim
+- [The best-fitting FCI post-test model included only FCI pretest and self-efficacy, with no gender predictor](fci-posttest-model-pretest-self-efficacy.md) — related

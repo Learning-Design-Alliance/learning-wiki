@@ -16,12 +16,14 @@ sources:
     author: Shahab Boumi, Adan Vela
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # PES students have a higher DFW rate compared to MES and FES groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Shahab Boumi, Adan Vela. (2020). Quantifying the relationship between student enrollment patterns and student performance. [doi:10.48550/arXiv.2003.10874](https://doi.org/10.48550/arXiv.2003.10874)
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive DFW rate analysis across enrollment strategy clusters from UCF records. Games-Howell post hoc tests show p-values of 0 for all possible pairs between FES, MES, and PES for both FTIC and transfer students. FES students have the lowest rates in each of D, F, and W grades.
 

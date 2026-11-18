@@ -52,6 +52,7 @@ The authors propose four novel curricular applications of Astrobites to suppleme
 - [Student research project: topic selection, scaffolded reading of related Astrobites articles, and a paper or presentation](method2-student-research-project-astrobites.md)
 - [Student writing assignment: authoring an Astrobites-style summary with peer editing and optional guest-post publication](method3-student-astrobite-writing-assignment.md)
 - [Partner with instructors to run controlled classroom studies of the methods' impacts on literature facility, perceptions, and reading habits](controlled-classroom-study-astrobites-impacts.md)
+- [Present papers in journal club via a four-highlight scaffold centered on physical meaning](four-highlight-paper-presentation-scaffold.md)
 
 ## Examples
 -

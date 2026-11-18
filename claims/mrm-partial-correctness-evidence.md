@@ -48,3 +48,5 @@ Four-tiered correctness analysis (All Correct, Some Correct, Both, Only Incorrec
 - [In a mechanics item, traditional multiple-choice scoring showed 75% correct answers while the enriched three-tier spectrum showed only 39% ideal responses (category 9).](three-tier-spectrum-reveals-fewer-ideal-responses-than-mcq.md) — related
 - [Multiple-response multiple-correct (MRM) questions are much harder than single-response questions, with no significant discrimination differences](mrm-questions-much-harder.md) — related
 - [Students with above-average latent understanding (theta > 0) are more likely to choose both the correct response and the highest-ranked incorrect response on FMCE questions 14, 18, and 19](high-theta-students-choose-better-incorrect-responses.md) — related
+- [Online format changes increased the percentage of students choosing multiple responses on all MCMR items](mcmr-multiple-response-selection-increased-online.md) — related
+- [A four-level scoring scheme for multiple-choice/multiple-response items reveals response nuance that dichotomous scoring hides](four-level-mcmr-scoring-reveals-nuance.md) — possibly the same claim (merge candidate)

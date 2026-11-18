@@ -50,3 +50,5 @@ Remote pilot study on the Korbit platform (January–February 2020) with 796 ann
 - [K-12 learners preferred incremental hints and multiple attempts over immediately revealed solutions](learners-prefer-incremental-hints-over-solutions.md) — related
 - [Unsolicited hints and meta-hints raised first-attempt correctness by d=0.682 and problem completion by d=0.727](unsolicited-meta-hints-effect-sizes.md) — a broader claim this one bears on
 - [Hint Factory MDP-generated hints gave correct next-step hints over 80% of the time and a pilot showed students solved more logic proofs with hints](hint-factory-mdp-hints-effective.md) — related
+- [Deep personalization feedback selection yields higher student learning gains than a non-personalized baseline in a dialogue-based ITS](deep-personalization-feedback-higher-learning-gains.md) — possibly the same claim (merge candidate)
+- [Automatically generated Wikipedia-based explanations produce learning gains comparable to personalized hints and are rated helpful by students](wikipedia-based-explanations-comparable-gains.md) — related

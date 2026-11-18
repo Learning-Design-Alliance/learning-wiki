@@ -49,3 +49,4 @@ Qualitative recommendation theme: focus group participants proposed a voting-sty
 - [Grading students on the quality of their reviews rather than on peer-assessed marks reduced tensions and improved student-instructor mark correlations](grading-review-quality-reduces-tensions-improves-correlations.md) — related
 - [Intervention teams did not implement the peer assessment because marking peers negatively threatened their relationships](peer-assessment-nonimplementation-relational-fear.md) — related
 - [A transparent, points-based peer assessment system did not improve team contribution in a cluster RCT among undergraduate medical students](points-based-peer-assessment-no-team-contribution-gain.md) — related
+- [Individualising team marks via peer assessment reduced student complaints about free riding and marking fairness from 26% to 7% of feedback](peer-assessment-individualisation-free-riding-complaints-decrease.md) — related

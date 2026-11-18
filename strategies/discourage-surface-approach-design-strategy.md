@@ -52,6 +52,7 @@ Based on the finding that strategic approach scores were positively and surface 
 ## Related Strategies
 
 - [Design assessment and manage workload so that deep learning is explicitly rewarded in PBL environments](reward-deep-learning-in-assessment-strategy.md)
+- [Design online modules to encourage students to take their required first attempts more seriously](encourage-serious-first-attempts-online-modules.md)
 
 ## Examples
 -

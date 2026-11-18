@@ -48,3 +48,4 @@ Thematic analysis of six semi-structured interviews (inter-rater agreement 90%) 
 - [Teachers accessed the OUA dashboard infrequently and irregularly, mostly around assignment submission weeks](infrequent-oua-access-by-teachers.md) — related
 - [Using predictive analytics while ignoring teacher knowledge may misidentify students at risk of dropping out and negatively influence teacher views](ignoring-teacher-knowledge-misidentifies-risk-students.md) — related
 - [In a worked example from real Erasmus+ decisions, some of CourseGraph's nearest-neighbor course mappings matched the program director's and others did not, one plausibly because it ignores differences in learning methods](coursegraph-mappings-align-with-program-director.md) — related
+- [Time-window colour resets gave teachers up-to-date readiness information, while continuously student-set colours could be outdated or confusing](fireflies-colour-reset-up-to-date-readiness-info.md) — related

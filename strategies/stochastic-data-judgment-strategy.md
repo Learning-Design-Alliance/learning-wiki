@@ -17,7 +17,7 @@ sources:
 # Use stochastic single-particle data to force judgment calls that expose measurement bias
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The strategy is to have students analyze data whose stochastic, power-law-distributed nature makes analysis decisions consequential and ambiguous: selecting particles, background, threshold, and time domain, none with uniquely correct answers. The article states that "the design of the experiment and stochastic nature of the data collected require students to make judgements throughout the course of the single-particle measurement and analysis", challenging positivist expectations that a predetermined procedure yields objective results.

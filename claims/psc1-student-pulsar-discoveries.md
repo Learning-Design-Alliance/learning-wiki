@@ -16,12 +16,14 @@ sources:
     author: "Blumer, H., McLaughlin, M. A., Stewart, J., Williamson, K., Lorimer, D. R., Heatherly, S. A., Swiggum, J. K., Lynch, R. S., Zabriskie, C., Lewandowska, N., Roy, A., & Au, S."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # PSC I students discovered seven pulsars and detected 25 already known pulsars while analyzing program data
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Blumer, H., McLaughlin, M. A., Stewart, J., Williamson, K., Lorimer, D. R., Heatherly, S. A., Swiggum, J. K., Lynch, R. S., Zabriskie, C., Lewandowska, N., Roy, A., & Au, S. (2020). The Pulsar Search Collaboratory: Current Status and Future Prospects. arXiv:1909.05104. Originally published 2019. [doi:10.1119/10.0000032](https://doi.org/10.1119/10.0000032)
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Program record of PSC I (2008–2013) outcomes reported in the article's overview of the original regional phase. Students analyzed telescope data "set aside for the PSC program" and made real scientific discoveries; several students were authors on journal papers.
 

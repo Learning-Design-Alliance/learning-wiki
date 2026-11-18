@@ -52,3 +52,4 @@ Behavioral observation counts reported in the Discussion; the authors interpret 
 - [Smartphone settings moderate how vigilance translates into phone use: vigilance raises checking frequency more when notifications are revealed, and use duration more when notifications are hidden](settings-moderate-vigilance-phone-use-link.md) — related
 - [Students with visible notifications check their phones more frequently in class than students with hidden notifications](notification-revealed-higher-phone-use-frequency.md) — related
 - [Loss of browser focus was the most common online behavior, but most focus-loss periods were brief and did not correlate with scores](browser-focus-loss-common-brief-no-score-correlation.md) — related
+- [Browser focus data show most distraction events during online RBAs are brief and do not correlate with scores](online-rba-distraction-no-score-impact.md) — related

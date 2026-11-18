@@ -48,3 +48,4 @@ Observational analysis of ten years of institutional records for N = 24,567 unde
 - [First-generation URM students show declining STEM GPA in later years across all major clusters, unlike non-URM students who rise over time](fg-urm-stem-gpa-decline-by-major.md) — related
 - [URM students with at least one additional disadvantage are consistently the most disadvantaged group, with low-income plus URM the most disadvantageous combination](urm-plus-additional-disadvantage-most-disadvantaged.md) — related
 - [URM students who persisted as biology majors still had significantly lower subsequent biology and NSE GPAs than non-URM peers](urm-subsequent-gpa-still-lower.md) — a narrower finding that bears on this claim
+- [URM students consistently earn lower GPAs than non-URM peers, roughly 0.3 grade points lower among chemistry, computer science, engineering, mathematics, and physics majors](urm-lower-gpa-across-majors.md) — related

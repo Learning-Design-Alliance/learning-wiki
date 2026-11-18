@@ -23,7 +23,7 @@ sources:
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 49 claims (28 for, 18 mixed, 3 against) · 47 studies (11 causal, 10 review, 10 theoretical, 6 associational, 5 design, 4 qualitative, 1 quant-synthesis), `q1`–`q4` · 1 of 47 report an effect size · 47 claims rest on one study
+> **Evidence** · 50 claims (28 for, 19 mixed, 3 against) · 48 studies (11 causal, 10 review, 10 theoretical, 7 associational, 5 design, 4 qualitative, 1 quant-synthesis), `q1`–`q4` · 1 of 48 report an effect size · 48 claims rest on one study
 
 ## Conditional relationship
 
@@ -173,6 +173,7 @@ Claims the earlier page cited, or that bear on the decision, that are used above
 - [Dental students' critical appraisal performance on a risk-of-bias tool rose from pre-test to post-test after EBD education in one uncontrolled pre-post study](../claims/ebd-education-improves-critical-appraisal-dental-students.md) [+W] — attached 2026-11-04 from de Mendonça C. I. D. et al. (2026), which proposed "Integrate EBD education into dental curricula to bridge the gap between evidence and clinical practice"; tests this page's relationship.
 - [Dynamic particle models with incorrect force values, juxtaposed against real video data, compel students to rethink their force assumptions in projectile motion](../claims/dynamic-particle-model-refutes-impetus-misconceptions.md) [+W] — attached 2026-11-17 from Loo Kang WEE et al. (2015), which proposed "Use a data driven modeling process rather than trial and error when building dynamic particle models".
 - [Adding visual aids such as a best-fit line or lowess smooth increases the probability a relationship is called significant regardless of its actual significance](../claims/visual-aids-shift-significance-perception.md) [+W] — attached 2026-11-18 from Aaron Fisher et al. (2014), which proposed "Plot designers and viewers should account for the biasing effect of trend lines on perceived significance".
+- [Taking a stand-alone introductory electricity and magnetism lab course produced no measurable difference in normalized final exam performance on lab-related questions in physics 2](../claims/physics2-lab-no-exam-effect.md) [~W] — attached 2026-11-18 from Carl Wieman et al. (2015), which proposed "Institutions should examine the learning objectives and achieved outcomes of their introductory lab courses rather than assume lab time and money are well spent".
 
 ## Objective and learner-valued goal
 

@@ -93,3 +93,4 @@ Narrative synthesis of prior GAI-in-education literature in the introduction. Th
 - The most frequently measured pedagogical aspects of technology integration are enhancing students' cognitive engagement, promoting collaboration between students, and allowing students to conduct research online. — related
 - [The editorial argues that existing models of pedagogy are inadequate for the demands of technology-enhanced learning.](editorial-argues-pedagogy-models-inadequate-for-technology.md) — related
 - [The review finds technology's impact depends mainly on pedagogical design, teaching accompaniment, and university policies](impact-depends-on-pedagogical-design-review.md) — possibly the same claim (merge candidate)
+- [Microworld-type pedagogical software can give significant pedagogical effect despite minimal teaching-management functions](activity-oriented-software-develops-intellect.md) — related

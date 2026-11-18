@@ -66,3 +66,4 @@ Same analysis; student-student interaction significantly predicted emotional eng
 ## Related Claims
 - [Emotional engagement positively influences active learning and mediates the effects of interactions and social presence](emotional-engagement-mediation-active-learning.md) — related
 - [Teacher-student interaction positively influences active learning directly and via emotional engagement](teacher-student-interaction-active-learning.md) — related
+- [Co-creation does not directly affect student satisfaction; its effect is indirect through experience value.](co-creation-no-direct-effect-satisfaction.md) — related

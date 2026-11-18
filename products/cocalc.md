@@ -13,7 +13,7 @@ generated:
 # CoCalc
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size
 
 ## Description
 CoCalc is a web-based cloud platform for collaborative computation, course management, and document authoring, developed and operated by SageMath, Inc.

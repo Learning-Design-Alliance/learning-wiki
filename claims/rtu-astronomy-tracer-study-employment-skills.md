@@ -16,6 +16,8 @@ sources:
     author: Guido, R. M. D.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 1
   - id: guido-2019-2
     resource: "https://doi.org/10.48550/arXiv.1911.06656"
     title: "Guido, R. M. D. (2019). The Progress of Astronomy Program in the Rizal Technological University Philippines. [doi:10.48550/arXiv.1911.06656](https://doi.org/10.48550/arXiv.1911.06656)"
@@ -42,7 +44,7 @@ sources:
 
 Guido, R. M. D. (2019). The Progress of Astronomy Program in the Rizal Technological University Philippines. [doi:10.48550/arXiv.1911.06656](https://doi.org/10.48550/arXiv.1911.06656)
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r1`
 
 The article's tracer study section (citing Miranda, 2017) reports graduate employment outcomes: most graduates "are employed and currently working in private and public national government", with job acquisition taking at most six months. No effect size is printed.
 

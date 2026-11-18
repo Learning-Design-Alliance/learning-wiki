@@ -16,6 +16,8 @@ sources:
     author: Ulrik Lyngs, Kai Lukoff, Petr Slovak, William Seymour, Helena Webb, Marina Jirotka, Jun Zhao, Max Van Kleek, Nigel Shadbolt
     q: 2
     i: 2
+    kind: causal
+    rigour: 2
   - id: ulrik-lyngs-2020-2
     resource: "https://doi.org/10.1145/3313831.3376672"
     title: "Ulrik Lyngs, Kai Lukoff, Petr Slovak, William Seymour, Helena Webb, Marina Jirotka, Jun Zhao, Max Van Kleek, Nigel Shadbolt. (2020). 'I Just Want to Hack Myself to Not Get Distracted': Evaluating Design Interventions for Self-Control on Facebook. CHI '20, April 25–30, 2020, Honolulu, HI, USA. https://doi.org/10.1145/3313831.3376672"
@@ -42,7 +44,7 @@ sources:
 
 Ulrik Lyngs, Kai Lukoff, Petr Slovak, William Seymour, Helena Webb, Marina Jirotka, Jun Zhao, Max Van Kleek, Nigel Shadbolt. (2020). 'I Just Want to Hack Myself to Not Get Distracted': Evaluating Design Interventions for Self-Control on Facebook. CHI '20, April 25–30, 2020, Honolulu, HI, USA. https://doi.org/10.1145/3313831.3376672
 
-`q2 · i2`
+`q2 · i2` · `causal · r2`
 
 Usage-logging analysis (RQ2) for the goal-reminder condition comparing intervention to baseline: average daily scrolling declined by 42%, "t(14) = 2.39, p = 0.03, d = 0.62".
 

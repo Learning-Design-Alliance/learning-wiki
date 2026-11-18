@@ -100,6 +100,7 @@ Growth mindset interventions have produced measurable gains in achievement for s
 - [Top up intelligence interventions with process feedback when students receive grades](process-feedback-top-up-strategy.md)
 - [Four-part support strategy: mindset interventions, grit-building tasks, adaptability support, and PGI-promoting growth opportunities](four-part-mindset-grit-adaptability-pgi-support-strategy.md)
 - [Improve equity and inclusion in introductory physics, including interventions to boost self-efficacy, growth mindset and sense of belonging](equity-inclusion-interventions-introductory-physics.md)
+- [Instructors and TAs should avoid propagating gender stereotypes and message that physics success comes from effort and deliberate practice](instructors-avoid-propagating-gender-stereotypes-strategy.md)
 
 ## Examples
 - **[Youcubed](https://www.youcubed.org)** (Jo Boaler, Stanford) — mathematical mindset lessons and teacher resources built around the claim that everyone can learn math to high levels; includes error-normalization routines and "low floor, high ceiling" tasks.

@@ -92,3 +92,4 @@ Whole-test discrimination statistic for the QMCS: "Ferguson’s delta for the QM
 - [The E-CLASS shows strong whole-test discrimination, adequate item discrimination, and acceptable internal consistency](eclass-discrimination-internal-consistency.md) — related
 - [The CCMI is highly internally consistent and discriminates students on a per-point basis](ccmi-internal-consistency-discrimination.md) — related
 - [Most QMS items have difficulty below 0.5 and item discrimination (PBD) from about 0.2 to 0.6](qms-item-difficulty-discrimination-statistics.md) — related
+- [Iterative revision produced a 20-item PIQL whose final version meets reliability and item-quality thresholds (Cronbach's α = 0.80 on v2.2)](piql-final-version-reliable-alpha-080.md) — related

@@ -47,7 +47,8 @@ The article's analysis yields per-module improvement directions: for modules 3, 
 - [A 35-second duration cutoff, estimated via mixture-model fitting of first-attempt durations, separates Brief from Normal attempts](../claims/brief-attempt-35-second-cutoff-mixture-model.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Design online modules to encourage students to take their required first attempts more seriously](encourage-serious-first-attempts-online-modules.md)
 
 ## Examples
 -

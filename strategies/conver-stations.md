@@ -64,6 +64,7 @@ The strategy operationalizes [collaborative learning](../principles/collaborativ
 - [Socratic Seminar](socratic-seminar.md) — whole-class alternative when group logistics are impractical
 - [Use small groups of well-known co-students with rotating roles as simulator and respondent to foster psychological safety and peer learning](small-familiar-groups-rotating-roles-vr-simulation-strategy.md)
 - [Run a physical QR quest in which student groups decode question codes at stations under a time limit with a point-and-penalty scoring system](physical-qr-quest-stations-scoring.md)
+- [Assign a random pair member as reporter in think-pair-share to broaden verbal participation](random-reporter-think-pair-share-strategy.md)
 
 ## Examples
 - A high-school civics class discusses "Should voting be mandatory?" in five groups; after ten minutes, two students per group rotate, bringing distinct arguments (compulsory turnout, civic duty, enforcement concerns) into new configurations for a second round.

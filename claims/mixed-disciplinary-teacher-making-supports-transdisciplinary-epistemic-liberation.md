@@ -69,3 +69,4 @@ This is a small, purposively-sampled design-based research study (6 core teacher
 - [Disciplinary diversity among facilitators was consistently perceived as a strength enriching training and group supervision](disciplinary-diversity-strength-training-supervision.md) — related
 - [Workshop participants raised no contention about the scaffolded learning design and outcomes across six breakout groups](workshop-no-contention-learning-design-representation.md) — related
 - [Extended, frequent interdisciplinary conversation surfaces tacit disciplinary assumptions about content, epistemology, and competencies that surveys or occasional discussion do not reveal.](sustained-cross-disciplinary-dialogue-surfaces-tacit-assumptions.md) — related
+- [A math-art summer school course convinced all participants that mathematics and arts do not exclude each other](math-art-course-shifted-discipline-attitudes.md) — related

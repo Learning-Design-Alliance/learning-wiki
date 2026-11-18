@@ -41,7 +41,8 @@ Students in groups of two to four use cups of brown and white beans to simulate 
 - Four Step Manipulative Simulation Derivation Data Process
 
 ## Related Strategies
-- 
+
+- [Building a floor-plan network of the school building and simulating SI epidemic dynamics with vaccination strategies](floor-plan-network-si-vaccination-strategy.md)
 
 ## Examples
 -

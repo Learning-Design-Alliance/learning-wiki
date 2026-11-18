@@ -75,3 +75,4 @@ Independent-samples t-tests comparing 67 lower-proficiency (L) and 30 higher-pro
 - [Item MSLQ_22 and MBI_08 scores are negatively correlated with performance in the high-grade group](high-grade-item-negative-correlation.md) — related
 - [Motivation item scores differ significantly across academic performance groups in e-learning medical technology students](mslq-item-differences-across-performance-groups.md) — related
 - [Motivational strategy use differed little between blended and didactic learning, and test anxiety, time management and effort regulation showed no group differences](motivational-strategies-little-difference-bl-dt.md) — related
+- [Self-efficacy correlated positively and test anxiety negatively with FCI post-test and exam scores](self-efficacy-test-anxiety-correlate-with-scores.md) — related

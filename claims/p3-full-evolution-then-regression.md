@@ -49,3 +49,4 @@ DEAF analysis of a single question probing displacement viewed from the velocity
 - [A concept probing graphical interpretation of velocity vs time from a narrative perspective failed to evolve, oscillating between partially clear and confused across applications](p2-concept-fails-to-evolve-oscillating.md) — related
 - [A student confounded a quantity decreasing with its rate of decrease, mistaking a linear v-t graph for 'velocity decreasing at a decreasing rate'](student-confusion-slope-versus-height-of-graphs.md) — related
 - [ENEM 2012_Q60 shows completers still confuse position with velocity and struggle to represent motion graphically](enem-position-velocity-confusion-2012-q60.md) — related
+- [Pre-service teachers' pre-test concepts of Physical System, Dynamical Variables, State and Time Evolution show a very high level of generality, indicating poorly differentiated prior knowledge](pretest-very-high-generality-qm-concepts.md) — related

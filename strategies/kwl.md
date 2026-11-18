@@ -60,6 +60,7 @@ KWL operationalizes [Activation](../principles/activation.md) by requiring learn
 - [Exit Ticket](exit-ticket.md) — the L phase can be implemented as a standalone formative check
 - [Integrate metacognitive strategy instruction across content areas and across before, during, and after phases of teaching](integrate-metacognition-before-during-after-lesson.md)
 - [Use the K-W-L strategy (What I know, What I want to learn, What I learned) to activate prior knowledge before reading](kwl-prior-knowledge-activation-strategy.md)
+- [Progressively answer three questions while reading: what problem, how addressed, what was found](three-question-paper-reading-scaffold.md)
 
 ## Examples
 - **Ogle's original protocol (1986)** — fifth-grade science and social studies teachers using wall charts with K/W/L columns before and after expository reading, with whole-class discussion at each phase

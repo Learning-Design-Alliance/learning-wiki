@@ -70,3 +70,4 @@ Post-programme attitudinal results from the three-week Indonesian intervention (
 - [88% of students said hands-on activities helped them understand Einsteinian concepts, and 70% wanted to learn more Einsteinian physics](hands-on-activities-helped-clarity-einsteinian-concepts.md) — related
 - [Attitude towards mathematical calculations showed no significant change after the Einsteinian programmes](no-change-liking-calculations.md) — related
 - [Fast 30% of minor-subject students reported having had no interest in physics before beginning their studies](minor-subject-students-no-physics-interest.md) — related
+- [Both male and female students' physics self-efficacy and interest declined from the beginning to the end of the course, with female students declining more](self-efficacy-interest-decline-pre-post-females-more.md) — related

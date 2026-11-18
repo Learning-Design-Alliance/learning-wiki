@@ -16,12 +16,14 @@ sources:
     author: Kelli Shar, Rosemary S. Russ, James T. Laverty
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Assessment features, such as not providing numbers, can shift a student's epistemic form and thereby shift their epistemological frame
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kelli Shar, Rosemary S. Russ, James T. Laverty. (2020). Student Epistemological Framing on Paper-Based Assessments. [doi:10.1103/physrevphyseducres.16.020101](https://doi.org/10.1103/physrevphyseducres.16.020101)
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Case analysis of two students (Lisa and Jack) on the Ferris Wheel problem, which gave no quantities. The authors interpret that "Not providing numbers or varying quantities is a feature of the assessment that interrupts Lisa’s initial epistemological form," shifting both students from Algorithmic to Conceptual Physics frames. Seven of nine students attempted it conceptually from the start.
 

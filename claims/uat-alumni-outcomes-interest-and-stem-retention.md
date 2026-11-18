@@ -67,3 +67,4 @@ Post-graduation pathway tracking of UAT alumni reported in the outcomes section,
 - [80% of UAT workshop participants went on to complete at least one independent research project](uat-80-percent-independent-research-continuation.md) — related
 - [The scGY program affirmed or strengthened most participants' intent to pursue a healthcare career, while helping a few rule the path out](scgy-career-affirmation-and-exploration.md) — related
 - [Post-program surveys show most students felt more likely to pursue STEM, more comfortable in university labs, and found the program appropriately challenging](discovery-survey-attitudes-comfort-pursuit.md) — related
+- [SSUK alumni are well represented in STEM and space careers, and 75% of alumni in STEM said SSUK encouraged them to do outreach](ssuk-alumni-stem-space-careers-outreach.md) — related

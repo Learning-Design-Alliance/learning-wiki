@@ -49,6 +49,7 @@ The article recommends that simulations be used with activities that direct expl
 - [Guided Inquiry](guided_inquiry.md)
 - [Iterative simulation design cycle with think-aloud student interviews before classroom use](phet-interview-driven-design-cycle.md)
 - [Guided exploration activities in which students measure V/I ratios across varying voltages to confront the constancy of resistance](guided-exploration-v-i-ratio-activity.md)
+- [Four classroom uses: visualization, exploration, student-driven discussion, and guided-inquiry assignments](composer-classroom-uses-strategy.md)
 
 ## Examples
 -

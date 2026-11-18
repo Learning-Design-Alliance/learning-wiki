@@ -48,3 +48,4 @@ The author's retrospective summary of the 1999 wave-propagation study, in which 
 - [Performance trends across expertise groups are similar regardless of whether students received multiple-choice or free-response question formats](similar-performance-trends-mc-vs-free-response.md) — related
 - [Free-response performance matches multiple-choice performance for resistance but is better for capacitance and inductance](free-response-better-capacitance-inductance.md) — related
 - [Free-response answers in course A could be matched to the a priori multiple-choice choices for 84% (Question 1) and 88% (Question 2) of students](fr-answers-match-apriori-mc-choices.md) — related
+- [Online format changes increased the percentage of students choosing multiple responses on all MCMR items](mcmr-multiple-response-selection-increased-online.md) — related

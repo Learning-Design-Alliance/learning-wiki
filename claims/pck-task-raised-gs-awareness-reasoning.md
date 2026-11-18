@@ -46,3 +46,4 @@ Authors' interpretation from the Discussion and Summary section, drawing on the 
 
 ## Related Claims
 - [Performing the physical therapist role was perceived as challenging to threatening, yet its impact on awareness of professional development was not questioned](pt-role-performance-challenging-to-threatening.md) — related
+- [TAs found the CSEM-related PCK task challenging but reported it was worthwhile for learning to think from students' perspective](tas-found-pck-task-challenging-but-worthwhile.md) — related

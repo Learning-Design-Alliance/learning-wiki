@@ -49,3 +49,4 @@ Repeated measures ANOVA with Greenhouse-Geisser correction on ECLS-K:2011 scores
 - [Mathematics was a relative strength across communication status, income, and gender](math-relative-strength-fourth-grade.md) — a narrower finding that bears on this claim
 - [A female reading advantage was found, but males outperformed females in math and science in lower- and upper-income groups](gender-advantage-reading-not-math-science.md) — related
 - [Vocational ability scores differ significantly across academic backgrounds, with each discipline showing distinct strengths and weaknesses.](vocational-ability-differs-by-discipline.md) — related
+- [Two-way ANOVA found no statistically significant interaction between gender and undergraduate/science educator status](no-gender-status-interaction-effect.md) — related

@@ -75,3 +75,4 @@ Follow-up observation reported by the authors, citing Buyarski (2016): after the
 - [Prior studies reviewed report that summer bridge participants persist to the second year and earn higher GPAs than non-participants](prior-studies-bridge-persistence-gpa.md) — related
 - [Sustaining a strengthened PE program in high-stakes academic settings is difficult, and discontinuation erodes its academic benefits](pe-program-sustainability-challenge-exam-pressure.md) — related
 - [Learning gains from the transformed course persisted when taught four years later by a different instructor using the same materials](deliberate-practice-gains-sustain-second-instructor.md) — related
+- [Courses taught by part-time or non-tenure-track faculty are associated with lower persistence and graduation outcomes (as reported by the chapter, citing Supiano 2018)](part-time-faculty-lower-persistence-graduation.md) — related

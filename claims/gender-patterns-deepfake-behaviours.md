@@ -58,3 +58,4 @@ Pre-survey logistic regression (Table 2) controlling for year level and school o
 - [Female students show broader post-workshop gains than males, including significant increases in AI and computer science career interest, while males show no statistically significant change in career interest](females-broader-gains-career-interest-narrow-gap.md) — related
 - [At-risk identification is demographically patterned, with Black, Hispanic, and male students more likely to be identified](at-risk-identification-demographic-patterns.md) — related
 - [Males were significantly more likely than females to report probable ADHD in the young adult sample (OR=1.56)](males-more-likely-probable-adhd.md) — related
+- [Secondary students' expectations of educational games differ by gender](gender-differences-game-expectations-secondary.md) — related

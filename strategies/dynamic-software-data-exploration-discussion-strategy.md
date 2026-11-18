@@ -46,6 +46,7 @@ The article recommends that technology be used not merely to compute numbers but
 ## Related Strategies
 
 - [Equip classrooms with visualization software such as CAS and DGS so students construct their own knowledge of hard concepts](cas-visualization-classrooms-for-hard-concepts.md)
+- [Four classroom uses: visualization, exploration, student-driven discussion, and guided-inquiry assignments](composer-classroom-uses-strategy.md)
 
 ## Examples
 -

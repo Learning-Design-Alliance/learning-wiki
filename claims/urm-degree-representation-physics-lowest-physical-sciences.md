@@ -77,3 +77,4 @@ Figure-based descriptive comparison of doctorate degrees earned 1973-2015 by dem
 - [Black/African American and Hispanic/Latino students were overrepresented in lower QR placement categories relative to their share of the 2018 CSU entering cohort](eo1110-racial-disproportionality-qr-placement.md) — related
 - [Race/ethnicity was among the most important predictors of intervention effectiveness, with lower predicted effects for Black/African American students.](race-ethnicity-predicts-intervention-effectiveness.md) — related
 - [Diversity decreases with career progression: proportions of women and black+parda people are higher among undergraduates than at the PhD level](diversity-decreases-with-career-progression-scissors-effect.md) — related
+- [Only 47% of URM declared physics majors earn a physics degree compared to 68% of White physics majors](urm-physics-degree-earning-47-percent.md) — related

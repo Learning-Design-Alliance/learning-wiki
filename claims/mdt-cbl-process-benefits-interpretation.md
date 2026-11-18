@@ -58,3 +58,4 @@ Authors' interpretation (type e) from the Discussion, not a tested result: the a
 - [The article argues, on theoretical grounds, that PBL + CBL stimulates motivation, judgment, collaboration, and interdisciplinary integration in lymphoma training](pbl-cbl-theoretical-advantages-lymphoma.md) — related
 - [Asking students to engage in prior learning before CBL is likely to enhance their confidence to participate](prior-learning-enhances-confidence-cbl.md) — related
 - [The authors interpret the pattern of gains as showing students benefited most from practicing the SVI testing format rather than from gaining knowledge](svi-format-practice-benefited-most.md) — related
+- [Working with ready-made computer models aids clarity and motivation but is largely reproductive](ready-made-models-reproductive-limitation.md) — related

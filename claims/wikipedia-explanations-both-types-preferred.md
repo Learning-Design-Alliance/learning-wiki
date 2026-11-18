@@ -47,3 +47,4 @@ Second pilot experiment in which students received two randomly-selected explana
 ## Related Claims
 - [Wikipedia-based explanation success rates (17.65%) are far lower than personalized hints (60.47%), with no significant difference between extracted and generated types](wikipedia-explanations-low-success-rate.md) — related
 - [A Decision Tree classifier distinguishes high- from low-quality Wikipedia-based explanations with an F1 score of 80.32% on the validation set](decision-tree-explanation-quality-f1-80.md) — related
+- [Automatically generated Wikipedia-based explanations produce learning gains comparable to personalized hints and are rated helpful by students](wikipedia-based-explanations-comparable-gains.md) — related

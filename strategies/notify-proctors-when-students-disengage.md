@@ -41,6 +41,7 @@ This strategy has test systems alert proctors in real time when a student shows 
 
 - [Proctor Intervention for Rapid Guessing](proctor_intervention_for_rapid_guessing.md)
 - [Use automated disengagement detection with proctor notification during remote low-stakes testing](automated-disengagement-detection-proctor-notification-strategy.md)
+- [Complement distributed peripheral information with aggregated display or multimodal notification](complement-peripheral-info-aggregated-multimodal.md)
 
 ## Examples
 -

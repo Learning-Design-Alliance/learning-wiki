@@ -49,3 +49,4 @@ Aggregate comparison of matched pre/post E-CLASS scores across N = 4915 students
 - [Postinstruction item-level differences favor open-ended courses on 24 of 30 E-CLASS items](item-level-post-differences-open-ended.md) — a narrower finding that bears on this claim
 - [The open-ended-course advantage on postinstruction E-CLASS persists after controlling for preinstruction score, course level, major, and gender](ancova-open-ended-predicts-eclass.md) — possibly the same claim (merge candidate)
 - [First-year students in skills-focused lab courses had higher postinstruction overall E-CLASS scores than students in concepts-focused courses](skills-focused-labs-higher-post-eclas-scores.md) — related
+- [Students' self-rated Sense of Agency scores rose significantly from pre-test to post-test over a semester in open-ended physics labs with gradually increased student agency, in one uncontrolled pre-post study](open-ended-labs-increase-sense-of-agency.md) — related

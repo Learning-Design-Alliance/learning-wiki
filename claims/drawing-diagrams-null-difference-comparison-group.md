@@ -51,3 +51,6 @@ Within the comparison group on problem 2, self-selected diagram-drawers outscore
 - [A higher level of detail in a student's diagram corresponds to a better score on a two-dimensional electric force problem](diagram-detail-correlates-physics-problem-score.md) — related
 - [Across both groups, students who drew more diagrams or did more scratch work performed better on the final exam and improved more from midterm to final](diagram-scratch-work-correlates-with-exam-performance.md) — related
 - [Students who draw expert-like diagrams perform better on an introductory electric field and force problem than students who draw other diagrams](expert-like-diagrams-better-physics-scores.md) — a narrower finding that bears on this claim
+- [Neither prompting nor providing a diagram significantly affected performance on the two-dimensional electric force problem](no-intervention-effect-two-dimensional-problem.md) — related
+- [Within the no-support group, students who drew a diagram and those who did not performed similarly on problem 2](ns-group-drawing-null-difference.md) — related
+- [Students who drew productive diagrams significantly outperformed students who did not on both electrostatics problems, with large effect sizes](productive-diagram-drawers-outperform.md) — reports the opposite

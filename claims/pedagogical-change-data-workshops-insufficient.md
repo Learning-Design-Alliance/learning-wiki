@@ -52,3 +52,4 @@ The essay's framing synthesis of prior change-effort literature, opening the Int
 - [One-time workshops raise awareness of evidence-based teaching strategies but are not sufficient for faculty to adopt them](workshops-insufficient-for-adoption-evidence-based-teaching.md) — a narrower finding that bears on this claim
 - [The article argues that using Ejs as a pedagogical tool faces steep learning-curve and school-culture impediments](ejs-pedagogical-tool-impediments.md) — a narrower finding that bears on this claim
 - [Robotic telescope technology has outpaced widespread inquiry-based classroom implementation](robotic-telescope-implementation-gap.md) — a narrower finding that bears on this claim
+- [The author identifies five barriers to teaching climate change: knowledge pollution, inter/transdisciplinarity, psychological barriers, onto-epistemological barriers, and faculty/institutional barriers](five-barriers-climate-pedagogy.md) — related

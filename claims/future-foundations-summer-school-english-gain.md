@@ -48,3 +48,4 @@ Randomised trial (435 pupils randomised in three waves; 310 with achieved gain s
 - [EEF-funded interventions improved FSM pupils' literacy outcomes with a pooled effect size of 0.06, equivalent to about one month's progress](eef-interventions-fsm-literacy-pooled-006.md) — related
 - [Fresh Start pupils made more progress in literacy than control pupils after 22 weeks, with an overall effect size of +0.24](fresh-start-22-week-effect-024.md) — related
 - [The summer school showed no beneficial effect on maths outcomes (effect size approximately zero)](future-foundations-summer-school-maths-null.md) — related
+- [A two-week network science summer course for high-school pupils was overall successful and positively received](network-science-summer-course-high-school-successful.md) — related

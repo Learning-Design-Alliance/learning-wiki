@@ -50,3 +50,4 @@ Subsection analysis grouping the 35 studies by VSWM type; the largest mean effec
 - [Standardised and non-standardised VSWM measures perform equally in relating VSWM to mathematics performance](standardised-vswm-measure-no-advantage.md) — related
 - [VSWM shows an overall positive relationship with mathematics performance in school-aged children](vswm-positive-association-mathematics-performance.md) — related
 - [Studies using a standardised mathematics measure yield significantly larger VSWM–mathematics effect sizes](standardised-math-measure-larger-effect-sizes.md) — related
+- [Participants improved on both recall and synthesis questions, which the authors interpret as non-sequential learning](recall-synthesis-nonsequential-gains.md) — related

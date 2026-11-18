@@ -52,3 +52,4 @@ Before-and-after comparison of average normalized (Hake) gains on the FCI across
 - [A physics course focused on epistemological learning can attain strong conceptual gains comparable to active-engagement reforms](epistemological-focus-preserves-conceptual-gains.md) — related
 - [In physics-based courses for non-science majors taught with active-engagement pedagogy, normalized gains were 0.38–0.42 on content tests but 0.06 on a scientific-reasoning test](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) — related
 - [Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02](hake-ie-gains-two-sd-greater.md) — related
+- [The online introductory mechanics course achieved an FCI learning gain of 0.55 (d = 1.3) using matched data in Spring 2019.](iolab-online-mechanics-fci-gain-0-55.md) — related
