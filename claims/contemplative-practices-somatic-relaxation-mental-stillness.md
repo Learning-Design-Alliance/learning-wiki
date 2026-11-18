@@ -50,3 +50,4 @@ Theme from the qualitative coding of written reflections on the contemplative pr
 - [Student skepticism about the contemplative practices was rare: only one student openly doubted their value, and a handful of pre-practice skeptics reported enjoying them](contemplative-practices-student-skepticism-minimal.md) — related
 - [Pedagogy has evolved to include gaming, social interaction and play, and contemplative practices](pedagogy-evolved-new-methods.md) — related
 - [Students reported an overall increased awareness of their cognitive and emotional processes after the contemplative practices](contemplative-practices-awareness-cognitive-emotional-processes.md) — related
+- [Most students expressed appreciation for the somatic, affective, and cognitive effects of the practice, while a minority reported initial skepticism](em-practice-appreciation-skepticism.md) — related

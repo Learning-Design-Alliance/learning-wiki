@@ -49,3 +49,4 @@ Matched longitudinal comparison in the higher-level course of each population pa
 - [All three lab courses show negative or neutral pre-to-post E-CLASS shifts, with no positive shifts](negative-neutral-pre-post-eclass-shifts.md) — related
 - [The pseudo-longitudinal increase in E-CLASS scores across the lab curriculum is driven by selection, not cumulative laboratory instruction](selection-effect-not-cumulative-instruction.md) — a broader claim this one bears on
 - [Pseudo-longitudinal E-CLASS averages increase in each consecutive required lab course (18.1, 19.5, 20.1 preinstruction)](pseudo-longitudinal-eclass-increase-consecutive-lab-courses.md) — related
+- [Post-course E-CLASS scores were indistinguishable from national norms, indicating the cookbook/inquiry admixture had no effect different from cookbook labs](mixed-inquiry-cookbook-labs-no-gain-over-national-norms.md) — related

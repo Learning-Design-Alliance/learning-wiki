@@ -47,3 +47,4 @@ Multilevel random-effects meta-analysis of cross-sectional studies (k = 6, N = 1
 ## Related Claims
 - [Anxiety shows no significant overall association with political learning in either cross-sectional or experimental designs](anxiety-no-significant-association-political-learning.md) — related
 - [Positive-activating emotions show a small positive association with political learning in cross-sectional designs, but not in experimental designs](positive-activating-emotions-political-learning-cross-sectional.md) — a broader claim this one bears on
+- [Students' enthusiasm showed a cross-over pattern: the control group started higher and the experimental group ended higher](pp-enthusiasm-cross-over-pattern.md) — related

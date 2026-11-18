@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: weak
 newest_evidence: 2019
+source_checked: 2026-11-18
 sources:
   - id: özkan-2019
     resource: "https://doi.org/10.22323/1.334.0326"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Playtesting showed children were highly motivated to replay levels in order to get all the stars, which the authors interpret as learning the material better. [→ Özkan 2019](#ozkan-2019)

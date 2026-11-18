@@ -15,7 +15,7 @@ grain_size: unit, course
 # Team Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 121 claims (79 for, 38 mixed, 4 against) · 63 studies (21 causal, 17 quant-synthesis, 8 review, 7 design, 6 associational, 3 theoretical, 1 qualitative), `q1`–`q4` · 19 of 63 report an effect size · 112 claims rest on one study
+> **Evidence** · 122 claims (80 for, 38 mixed, 4 against) · 64 studies (21 causal, 17 quant-synthesis, 8 review, 8 design, 6 associational, 3 theoretical, 1 qualitative), `q1`–`q4` · 20 of 64 report an effect size · 113 claims rest on one study
 
 ## Description and scope
 
@@ -136,6 +136,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Students report positive interprofessional attitudes after the TBL session, with majorities agreeing that viewpoints were respected and shared learning helps teamwork](../claims/ip-tbl-students-value-interprofessional-learning.md) [+W] — attached 2026-11-08 from Burgess A et al. (2020), which proposed "Use the small-group, task-focused characteristics of TBL as a student-centred strategy to support interprofessional learning goals".
 - [No significant difference between medical and physiotherapy students' perceptions of the TBL experience](../claims/no-discipline-difference-tbl-perceptions.md) [~W] — attached 2026-11-08 from Burgess A et al. (2020), which proposed "Use the small-group, task-focused characteristics of TBL as a student-centred strategy to support interprofessional learning goals".
 - [Uneven team ratios and late integration of physiotherapy students into established medical teams hindered interprofessional contributions](../claims/uneven-team-ratio-hindered-physio-contribution.md) [~W] — attached 2026-11-08 from Burgess A et al. (2020), which proposed "Use the small-group, task-focused characteristics of TBL as a student-centred strategy to support interprofessional learning goals".
+- [Team-Based Learning in an IPLS course produces a small positive overall self-efficacy shift for she-identifying students](../claims/tbl-ipls-overall-self-efficacy-gain-she-students.md) [+W] — attached 2026-11-18 from Brokk Toggerson et al. (2021), which proposed "Team-Based Learning pattern for large-enrollment IPLS: flipped preparation, five-person semester-long diverse teams, and 35% team-based grading".
 
 ## Illustrative design instance and observation record
 

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-18
 sources:
   - id: zosia-krusberg-and-meredith-jane-ward-2018
     resource: "https://doi.org/10.48550/arXiv.1804.05748"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students' reflections abounded with details of heightened somatic, sensory, and environmental awareness during the practices. [→ Zosia Krusberg and Meredith Jane Ward 2018](#zosia-krusberg-and-meredith-jane-ward-2018)
@@ -53,3 +54,4 @@ Theme extracted from the qualitative coding of written reflections on the sensor
 - [Many students described a naturally emergent sense of curiosity in response to their observations during the contemplative practices](contemplative-practices-emergent-curiosity-observations.md) — related
 - [A majority of students reported that the contemplative practices produced feelings of somatic relaxation and mental stillness](contemplative-practices-somatic-relaxation-mental-stillness.md) — related
 - [Pedagogy has evolved to include gaming, social interaction and play, and contemplative practices](pedagogy-evolved-new-methods.md) — related
+- [A contemplative practice of somatic meditation and contemplation deepened students' awareness of electromagnetic phenomena in their surroundings](somatic-meditation-em-awareness.md) — related

@@ -47,3 +47,4 @@ A seven-question questionnaire was circulated among the RCT's students after OSP
 ## Related Claims
 - [Adding procedure-specific educational videos to live demonstration improves preclinical operative dentistry competence in second-year dental students](video-plus-live-demonstration-improves-preclinical-dental-competence.md) — related
 - [Nursing students report high satisfaction with creating educational videos, with applicability rated highest (4.12 ± 0.59) and complexity lowest (3.47 ± 0.69)](nursing-students-high-satisfaction-video-creation.md) — related
+- [An advanced historical-reconstruction project on Newton's optics received highly favourable reception from both participating students and public audiences](newton-opticks-project-favourable-reception.md) — related

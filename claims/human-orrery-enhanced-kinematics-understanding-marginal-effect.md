@@ -67,3 +67,4 @@ The authors' interpretation of the same experiment's outcome: the "marginal effe
 - [Through the eccentric orbit of a comet on the Human Orrery, students observed varying velocity and realized why force and speed are not directly related](comet-orbit-force-speed-not-directly-related.md) — related
 - [Human Orrery activities with 10 to 16 year old children activate and link cognitive activities about kinematics and dynamics to sensori-motor activities](human-orrery-kinematics-sensorimotor-activation.md) — related
 - [Sequences with 12-year-old pupils showed a global confusion in the use of kinematic words, with difficulty getting the word duration to emerge in learners' talk](kinematic-vocabulary-confusion-duration-emergence.md) — related
+- [In prior Human Orrery sequences, 16-year-old students showed significant improvement in understanding and use of change of reference frames](orrery-frames-significant-improvement-16yo.md) — related

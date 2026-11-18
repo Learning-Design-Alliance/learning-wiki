@@ -30,4 +30,4 @@ The paper redefines the discrimination index, scaling the top-versus-bottom-27% 
 -
 
 ## Key Sources
-- Joshi, P.K., Jain, Y., Khunyakari, R. and Basu, S. (2019). A novel alternative to analyzing multiple choice questions via discrimination index. https://arxiv.org/abs/1906.07941
+- Joshi, P.K., Jain, Y., Khunyakari, R. and Basu, S. (2019). A novel alternative to analyzing multiple choice questions via discrimination index. https://arxiv.org/abs/1906.07941. [doi:10.48550/arxiv.1906.07941](https://doi.org/10.48550/arxiv.1906.07941)

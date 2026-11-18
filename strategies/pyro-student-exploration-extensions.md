@@ -44,6 +44,7 @@ Each solver section closes with a set of open exercises the article frames as th
 ## Related Strategies
 
 - [Extension activities: building code from scratch, measuring runtime, the Verlet algorithm, and multi-body extensions](simulation-course-extension-activities.md)
+- [Have students build and explore their own multi-dimensional wire configurations (solenoids, Helmholtz coils, toroidal systems) with the superposition routine before lengthy theoretical derivations](student-built-3d-magnetic-field-models-strategy.md)
 
 ## Examples
 -

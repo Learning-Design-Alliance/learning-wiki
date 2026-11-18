@@ -49,3 +49,5 @@ Threshold-relaxation analysis of the incorrect-answer correlation networks; the 
 - [MAMCR fails to replicate for large FCI samples: Infomap with LANS sparsification consistently identified only one large community of incorrect answers](mamcr-fails-large-fci-samples.md) — related
 - [FCI incorrect-answer communities divide into two classes: those from consistently applied incorrect reasoning (misconceptions) and those from the blocked structure of items sharing a common stem](fci-incorrect-communities-blocking-versus-misconceptions.md) — related
 - [Modified Module Analysis identified 9 groups of incorrect FCI answers on the pretest and 11 on the post-test, in most cases mappable to common misconceptions](mma-identifies-incorrect-answer-groups.md) — related
+- [Item blocking in the FCI generates spurious response communities not grounded in shared reasoning](fci-item-blocking-generates-spurious-communities.md) — related
+- [At less restrictive sparsification thresholds the FMCE yields many more communities, including misconceptions outside the FCI taxonomy](fmce-low-threshold-richer-misconceptions.md) — related

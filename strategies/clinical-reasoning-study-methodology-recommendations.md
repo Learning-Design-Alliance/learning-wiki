@@ -52,6 +52,7 @@ The review recommends that future researchers "include confidence intervals for 
 - [Use large samples, true experimental designs, and moderate treatment durations when evaluating SRL scaffolds](meta-analysis-design-recommendations-srl-scaffolds.md)
 - [Future psychiatry education technology studies should use active comparators, standardized assessment tools, and long-term follow-up](psychiatry-ed-tech-future-research-strategy.md)
 - [Use cluster randomized clinical trials and blinded simulation-based behavior assessment to strengthen NTS training evidence](cluster-rct-blinded-simulation-assessment-nts.md)
+- [Compare the experimental result with the known theoretical value on a linear axis using confidence intervals](confidence-interval-comparison-discussion-strategy.md)
 
 ## Examples
 -

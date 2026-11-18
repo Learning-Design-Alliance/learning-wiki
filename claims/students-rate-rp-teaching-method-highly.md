@@ -47,3 +47,4 @@ Anonymised post-course survey of all 48 students using a 0–10 visual analogue 
 ## Related Claims
 - [Students rate the GPT companion's formative assessment features highly, including question quality, feedback usefulness, and critical thinking support](positive-perceptions-formative-assessment-features-gpt-companion.md) — related
 - [GAI is rated highly effective for supporting cognitive presence by 85.71% of surveyed marketing educators](gai-rated-highly-effective-cognitive-presence.md) — related
+- [Students rated pre-class videos as useful to their learning (mean 4.034 on a 5-point scale)](flipped-preclass-videos-perceived-useful.md) — related

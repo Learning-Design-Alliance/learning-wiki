@@ -66,3 +66,5 @@ Classroom observations accompanying the interview cases: the author reports "a h
 ## Related Claims
 - [Authors report that flexibility in sim access supports student agency while students tend to explore in a productive sequence](flexibility-supports-agency-productive-sequence.md) — related
 - [Medical students experienced a digital Prezi presentation as supporting ownership of their learning through flexibility and increased engagement](prezi-presentation-student-ownership-of-learning.md) — related
+- [Choosing their own music was reported as the cornerstone of students taking ownership of the choreography](music-choice-drives-student-ownership.md) — related
+- [In a large-scale college introductory physics course, simulated equipment (PhET) improved students' mastery of physics concepts better than assembling real circuits](phet-simulation-better-than-real-circuits.md) — related

@@ -116,3 +116,4 @@ Independent samples t-test with Welch's correction on the survey's gender-based 
 - [Male students show higher interest in astronomy than female students, but no gender difference appears in the public sample](astronomy-interest-gender-gap-students-only.md) — related
 - [Female high school students experience much lower self-efficacy states in physics than male students, with a very large effect size of d = 0.88, and the difference does not occur in other school courses.](gender-gap-self-efficacy-states-high-school-physics.md) — related
 - [Most students, and significantly more females than males, did not enjoy calculations, while both genders strongly preferred activity-based learning](students-dislike-calculations-prefer-activities.md) — related
+- [No gender, ethnicity, or major differences emerged in pre-post self-efficacy scores in the MI courses](no-gender-ethnicity-major-self-efficacy-differences.md) — related

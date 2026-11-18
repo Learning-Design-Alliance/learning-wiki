@@ -47,3 +47,4 @@ Analysis of a student free fall Doppler experiment (Fig. 2 right, Δt = 0.05 s),
 ## Related Claims
 - [A pendulum Doppler experiment lets students measure g to about 1% accuracy while observing approaching, receding and accelerating Doppler shifts in one setup](pendulum-doppler-g-one-percent.md) — related
 - [Student video analysis of vertical jumps yields a free-fall acceleration estimate close to the local value of g](video-jump-analysis-estimates-g-near-local-value.md) — related
+- [A blind student using an audio-converting measurement device obtained a linear thermal expansion coeﬃcient for aluminum within the expected range](blind-student-audio-device-thermal-expansion-within-range.md) — related

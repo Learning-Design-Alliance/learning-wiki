@@ -49,3 +49,4 @@ Comparison of outcome across admission paths for all enrolled students (Table 4,
 - [Admission routes weighting non-cognitive criteria are independently associated with lower M1 performance relative to the grade-based quota](non-cognitive-admission-route-lower-m1.md) — related
 - [Bivariately, poorer M1 grades correlate moderately with lower school performance and higher age at enrolment, and M1 performance differs across admission quotas](bivariate-m1-correlates-and-route-differences.md) — related
 - [Membership in outcome groups (failed, lagged, resat, no resitting) was not related to HAM-Nat scores or PEA among entrance-test students](outcome-groups-unrelated-to-ham-nat.md) — related
+- [ASP2018 selected 85 students from 523 applicants, with most participants at MSc level and a peak age around 26–27](asp2018-selection-85-of-523.md) — related

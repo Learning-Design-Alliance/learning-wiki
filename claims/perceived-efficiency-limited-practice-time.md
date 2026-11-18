@@ -51,3 +51,4 @@ Focus group theme Teaching efficiency and effectiveness: students reported regul
 - [Reform-group students perceive classroom time as insufficient compared with conventional-group students](dxr-mindmap-insufficient-class-time.md) — reports the opposite
 - [Iraqi EFL learners held predominantly positive attitudes toward flipped classroom instruction](positive-learner-attitudes-fci-iraq.md) — related
 - [Experimental-group residents report significantly higher satisfaction than control-group residents across the seven measured teaching dimensions](boppps-flipped-higher-teaching-satisfaction.md) — related
+- [Students perceived insufficient time for solving in-class problems in the flipped statistics course](flipped-inclass-time-pressure-perception.md) — reports the opposite

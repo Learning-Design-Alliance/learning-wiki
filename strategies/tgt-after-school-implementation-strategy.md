@@ -61,6 +61,7 @@ The article recommends practical adjustments for integrating web-based game play
 - [Train both teachers and students in cooperative learning before implementation, with sufficient time to master interpersonal skills and accountability](train-teachers-and-students-in-cooperative-learning.md)
 - [When implementing experiential school nutrition programs, secure sufficient duration, curriculum integration, teacher involvement, and supporting resources](secure-duration-integration-teacher-resources-for-nutrition-programs.md)
 - [Train students and secure IT resources before deploying mathematical e-assessments, and design tasks that combine utility with enjoyment](train-students-and-secure-it-before-maths-eassessment.md)
+- [Extend hands-on and computer-application session durations and provide replication guidelines when organizing similar frontier-physics schools](lidyef2018-session-duration-and-replication-strategy.md)
 
 ## Examples
 -

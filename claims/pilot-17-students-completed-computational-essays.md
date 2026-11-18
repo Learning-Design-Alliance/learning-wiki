@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-11-18
 sources:
   - id: tor-ole-b-odden-and-john-burk-2020
     resource: "https://doi.org/10.1119/1.5145471"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All students in a 17-student pilot group successfully completed computational essays, working individually or in pairs over roughly 4-6 weeks. [→ Tor Ole B. Odden and John Burk 2020](#tor-ole-b-odden-and-john-burk-2020)
@@ -47,3 +48,6 @@ Pilot implementation in a fall 2018 introductory electricity and magnetism cours
 ## Related Claims
 - [In a large introductory mechanics course, the majority of students (60.4%) successfully completed a proctored computational modeling evaluation on a novel central force problem after a semester of computational homework.](computational-evaluation-majority-success-intro-mechanics.md) — related
 - [After computational homework, many introductory mechanics students could model a new physical situation they had no prior experience with](computational-homework-novel-situation-modeling.md) — related
+- [Students found the openness of the computational-essay project challenging, particularly choosing a topic, but appreciated the provided scaffolds such as example essays and starter simulations](computational-essay-openness-challenging-scaffolds-appreciated.md) — related
+- [First course delivery at UNSW Sydney: 9 students in groups of 2-3 successfully performed all experiments and demonstrated the learning outcomes](nv-lab-course-first-semester-9-students.md) — related
+- [Social computational literacy had not been explicitly emphasized in any course in the studied program](social-computational-literacy-not-explicitly-emphasized.md) — related

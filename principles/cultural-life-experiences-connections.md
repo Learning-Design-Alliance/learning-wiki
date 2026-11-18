@@ -269,6 +269,7 @@ The present evidence establishes no dose, no sequence, no effect on achievement 
 - [Design mathematics learning environments that build on students' home language, communities, and lived experiences](../strategies/build-math-on-home-language-and-community.md)
 - [Create physical learning activities with gesture recognition for preschoolers by strengthening connections between life experiences and tasks](../strategies/gesture-recognition-physical-activity-life-experience-connection.md)
 - [Use integrated-skills project work on environmental topics to raise awareness and language skills](../strategies/integrated-skills-project-work-environmental-topics.md)
+- [Connect quantum physics learning to everyday life, citizenship and human relationships rather than applications alone](../strategies/connect-quantum-learning-to-everyday-life-and-citizenship.md)
 
 ## Key Sources
 - Hansman, C. A. (2001). Context-based adult learning. *New Directions for Adult and Continuing Education, 89*, 43-52. [https://doi.org/10.1002/ace.7](https://doi.org/10.1002/ace.7)

@@ -66,3 +66,4 @@ The report's conceptual analysis of Oklahoma's A–F letter grades argues that c
 - [Formative feedback supports grader learning and author improvement but is seldom incorporated as a weighting factor in summative grade synthesis](formative-feedback-learning-and-underuse-in-weighting.md) — related
 - [The effect of collaborative testing on retention does not differ across achievement levels from A to F letter grades](no-format-effect-any-letter-grade.md) — related
 - [K-12 report card grades are multidimensional measures of cognitive and noncognitive factors, not solely achievement](grades-multidimensional-cognitive-noncognitive-factors.md) — related
+- [Averaging correctness estimates across problems captures knowledge throughout learning, which better estimates knowledge carried out of the system than final estimates](averaging-across-problems-captures-path-to-mastery.md) — related

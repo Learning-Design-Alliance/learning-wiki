@@ -65,3 +65,4 @@ Descriptive transcript analysis of 2003-09 CPS graduates (N=90,041) excluding sp
 - [In schools offering both course types, enrollment differs by race/ethnicity, with more White students in single-discipline courses](racialized-enrollment-single-discipline-courses.md) — a narrower finding that bears on this claim
 - [Hispanic students graduated at far lower rates than white and Asian ELL students despite similar course performance patterns](hispanic-lower-graduation-than-white-asian.md) — related
 - [AP and IB programs in neighborhood high schools serve students with higher-than-average but below selective-enrollment achievement](ap-ib-fill-gap-for-mid-high-achievers.md) — related
+- [Enrollment strategy distributions differ by gender and race/ethnicity](enrollment-strategy-differs-by-gender-and-ethnicity.md) — related

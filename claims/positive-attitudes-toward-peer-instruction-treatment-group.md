@@ -52,3 +52,4 @@ Safaa Mohammad Al-Hebaishi. (2017). The Effect of Peer Instruction Method on Pre
 - [Nursing students held positive attitudes toward mind mapping as a teaching method (average survey score 4.13 ± 0.73)](positive-attitudes-mind-mapping-teaching-nursing.md) — related
 - [Learners rated the circuit-measuring cooperative system positively on a five-point Likert questionnaire](likert-questionnaire-positive-circuit-measuring-system.md) — related
 - [Students held positive attitudes toward using a Facebook page as a learning method](positive-student-attitudes-facebook-learning.md) — related
+- [Pre-service English language teachers report generally positive perceptions of a flipped statistics classroom](flipped-classroom-positive-perceptions-pre-service-english-teachers.md) — related

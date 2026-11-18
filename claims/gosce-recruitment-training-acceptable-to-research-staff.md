@@ -53,3 +53,4 @@ Post-GOSCE survey of research staff at a large urban hospital; 91% (41/45) compl
 - [Interns in both groups report high acceptance of OSCE as a fair and ability-reflecting assessment format](osce-questionnaire-high-acceptance-interns.md) — related
 - [After deep explanation of recoil, 18 students reported learning something new and benefiting from the discussion](post-instruction-students-receptive-recoil-discussion.md) — related
 - [The European Researchers' Night was judged positively by about 85% of participants, with about 98% willing to participate again](ern-high-satisfaction-repeat-intent.md) — related
+- [After the Capstone event, most student participants believed they were part of a community of scientists (93%) and advancing science (97%)](psc-capstone-community-of-scientists-beliefs.md) — related

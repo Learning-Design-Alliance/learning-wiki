@@ -48,3 +48,4 @@ The gain HLM accounting for course type (153 collaborative courses with 11,740 s
 ## Related Claims
 - [Equality of Learning was not achieved in either lecture-based or collaborative courses: every marginalized group's gains trailed equally prepared White male peers, and gaps were the same across course types](equality-of-learning-not-achieved-physics.md) — related
 - [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) — a broader claim this one bears on
+- [LA support is associated with larger predicted DFW-rate decreases for BIPOC students than for their White peers, achieving equity of individuality](la-support-larger-dfw-decreases-bipoc.md) — related

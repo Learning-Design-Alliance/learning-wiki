@@ -60,3 +60,4 @@ This is a single revelatory case (q1); it demonstrates that the restorying mecha
 - High achievers dominate teamwork under KCLS, and some students resist or avoid it — related
 - [Lack of diversity in computing stems from social and structural barriers, not ability or interest](structural-barriers-not-ability-limit-computing-diversity.md) — a broader claim this one bears on
 - [A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life](teacher-appropriation-of-edp-reframes-restrictive-stem-narratives.md) — related
+- [Students perceive scientists positively and mostly non-stereotypically, though a mad-scientist association with crazy persists](students-positive-non-stereotypical-scientist-perception.md) — related

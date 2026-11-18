@@ -52,6 +52,7 @@ The article recommends that introductory physics instructors incorporate problem
 - [Use simple spreadsheet-based numerical simulation of orbital systems as an engaging team-based learning activity](spreadsheet-numerical-simulation-team-learning-strategy.md)
 - [Use a five-step framework for context-rich problems: focus on the problem, describe the physics, plan the solution, execute the plan, evaluate the answer](heller-five-step-context-rich-problem-framework.md)
 - [Model-Eliciting Activities (MEAs)](model-eliciting-activities-meas.md)
+- [Using real Hubble-constant data in guided case studies to build data-analysis skills in introductory astronomy](hubble-constant-real-data-case-studies-strategy.md)
 
 ## Examples
 -

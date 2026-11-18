@@ -69,3 +69,4 @@ Theoretical hypothesis advanced from the authors' data on students and physicist
 - [Interaction with physicist tutors is where most learning takes place in masterclasses](physicist-tutors-central-to-masterclass-learning.md) — related
 - [Teachers noticed the problematic facets of the energy-as-substance metaphor resource but not the generative value of the metaphor resource itself](teachers-notice-facets-not-metaphor-resource.md) — related
 - [Introducing elementary particles as 'smallest particles' or via the microscope metaphor risks the misconception of particles as small pieces of ordinary matter](naive-particle-notion-misconception-risk.md) — a narrower finding that bears on this claim
+- [Students conceive electric current as a material substance rather than a process, which creates an ontological obstacle and blocks the voltage concept](current-as-substance-ontological-obstacle.md) — a narrower finding that bears on this claim

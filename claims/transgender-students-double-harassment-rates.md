@@ -59,3 +59,4 @@ Descriptive percentages from the CHKS 2017–19 pooled high school sample (Table
 - [After school-wide positive and restorative discipline training, Black-White and LGBTQ-straight differences in perceived bullying converged at one majority-minority school](swprd-converged-bullying-perceptions.md) — related
 - [Equalizing perceived supports and safety would reduce gay/lesbian/bisexual versus straight disparities in connectedness by 90-100 percent and other disparities by half](supports-safety-account-orientation-disparities.md) — related
 - [Harassment within the past year affected 23% of LGB respondents and 31–39% of transgender individuals, per a 2010 study the Guide cites](lgb-harassment-rates-2010-study.md) — related
+- [Moral and sexual harassment incidence is higher in subgroups differing from the cisgender-heterosexual majority profile](higher-harassment-non-cisgender-non-heterosexual.md) — a broader claim this one bears on

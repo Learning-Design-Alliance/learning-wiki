@@ -108,3 +108,4 @@ Within the same interview study, the two error-making students then solved the n
 - [Many introductory students find symbolic problems more difficult than numerical ones and prefer plugging in numbers early rather than solving symbolically first](intro-students-symbolic-difficulty-early-numbers.md) — related
 - [Physics context affects mathematical execution: students cancel exponentials in E&M wave problems but not in an isomorphic pure-math problem](physics-context-affects-math-execution.md) — related
 - [Very few advanced students reason conceptually about expectation values, and many prefer plug-and-chug methods over conceptual approaches](few-students-reason-conceptually-expectation-value.md) — related
+- [Reasoning with quantities represented as general variables destabilizes student reasoning, while invariant reasoning remains a productive resource](general-variables-destabilize-reasoning-invariant-resource.md) — related

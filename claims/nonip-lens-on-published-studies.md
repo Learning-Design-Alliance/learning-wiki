@@ -69,3 +69,4 @@ Review-reported oral-exam case study from junior-level Electricity and Magnetism
 - [NoNIP underwent expert validation through semi-structured interviews with two experts each in mathematics and physics](nonip-expert-validation-interviews.md) — related
 - [A student conflated a written minus sign with a quantity taking negative values, and this conflation appears when the variable is used to solve for something else.](outer-inner-minus-conflation-context-dependent.md) — related
 - [Textbook face-validity review found all negative-sign uses categorizable by NoNIP except negative exponents in the initial version](nonip-textbook-face-validity.md) — related
+- [Upper-division students struggled with an introductory-level electrostatics sign problem; none succeeded in the first few tries](upper-division-students-struggle-sign-problem.md) — related

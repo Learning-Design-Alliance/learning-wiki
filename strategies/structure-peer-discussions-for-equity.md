@@ -51,6 +51,7 @@ Because social identities predict preferred roles and barriers differ across stu
 - [Classroom Community Building](classroom-community-building.md)
 - [Community Building](community-building.md)
 - [Learning Communities](learning-communities.md)
+- [Purposefully stimulate interactions between student groups to mitigate social-structural effects on efficacy beliefs](purposeful-interaction-stimulation-equity-efficacy.md)
 
 ## Examples
 -

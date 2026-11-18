@@ -49,3 +49,4 @@ Cross-tabulation of training experiences against DOI-stage placement (Table 3) i
 - [Perception that EBT is not possible in large classes was more common among graduate students who had not implemented EBT](large-class-perception-barrier-non-implementers.md) — related
 - [Most graduate students receive mandatory TA training, but few receive substantial training in instructional strategies](mandatory-ta-training-lacks-instructional-strategies.md) — related
 - [Graduate students who sought out nonmandatory teaching or training experiences progressed further toward EBT adoption](seeking-teaching-opportunities-linked-ebt-adoption.md) — related
+- [Without TA engagement with the nature-of-science module, most TAs did not use the proposed strategies and their students regressed more on NoS-related E-CLASS items than on other items](without-ta-nos-engagement-students-regress-on-nos-items.md) — related

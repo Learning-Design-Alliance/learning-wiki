@@ -9,6 +9,7 @@ generated:
   at: 2026-11-08
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-11-18
 sources:
   - id: felszeghy-szabolcs-2019
     resource: "https://doi.org/10.1186/s12909-019-1701-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students quizzed in team mode at the beginning of teaching sessions scored 69% versus 58% for individual players, and teams at the end scored 87% versus 82% for individuals (p < 0.05). [→ Felszeghy Szabolcs 2019](#felszeghy-szabolcs-2019)

@@ -67,3 +67,4 @@ Social validity data collected at posttest from intervention teachers using a si
 - [Teachers evaluated the e-learning resource's utility very positively, with 97% reporting they would recommend it to others](elearning-resource-utility-rated-positively.md) — related
 - [All students ranked the multimedia software as the best study method and would recommend or pay for it](students-prefer-multimedia-over-printed-text.md) — related
 - [All surveyed teachers reported significant or very significant student learning outcomes and would recommend the project](airbit-teacher-reported-outcomes.md) — related
+- [Teachers rated the CPS approach and its components positively after a professional-development course](teachers-rate-cps-positively.md) — related

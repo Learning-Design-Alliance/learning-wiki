@@ -57,3 +57,4 @@ A response piece assessing the Zacharia et al. (2015) literature review from a v
 - [Virtual and remote labs reduce the costs associated with conventional hands-on labs](virtual-remote-labs-reduce-hands-on-lab-costs.md) — related
 - [Virtual laboratories match physical laboratories on conceptual mastery, with domain-specific advantages and disadvantages](virtual-matches-physical-conceptual-mastery.md) — related
 - [Students reported that pairing hands-on real tools with virtual tools helped them verify and understand both instruments](students-report-real-and-virtual-tools-mutually-supporting.md) — related
+- [Inquiry-based Real-Time Physics labs promoted peer discussion of physics concepts, but students struggled with troubleshooting and independent investigation](rtp-labs-promoted-peer-concept-discussion.md) — related

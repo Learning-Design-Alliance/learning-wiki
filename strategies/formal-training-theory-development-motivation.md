@@ -44,6 +44,7 @@ The article recommends that educational psychologists "undergo more formal train
 ## Related Strategies
 
 - [Use formal computational modelling to specify dynamic causal processes in motivation theories](computational-modelling-for-motivation-theory.md)
+- [Explicitly examine analogies and models as thinking tools, not merely use them to teach circuit ideas](explicit-analogy-examination-thinking-tools.md)
 
 ## Examples
 -

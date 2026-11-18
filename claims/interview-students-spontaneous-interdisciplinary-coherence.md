@@ -52,3 +52,4 @@ One of 48 semi-structured interviews with 23 students across the first two years
 - [Given appropriate supports, a substantial portion of the class reconciled the differing disciplinary perspectives on ATP bond energy, even if they might not have done so spontaneously](reconciliation-with-appropriate-supports-capstone.md) — related
 - [Life-science students enter IPLS courses with salient ideas about energy grounded in chemical bonds and ATP from their biology and chemistry coursework.](ipls-students-incoming-atp-bond-energy-ideas.md) — related
 - [Emphasizing scientific modeling as a shared practice helps students achieve an integrated understanding across physics and biology](modeling-shared-practice-bridges-physics-biology.md) — related
+- [The practice led about half of students to identify interdisciplinary connections between electrodynamics and biological and chemical systems](em-practice-interdisciplinary-connections.md) — related

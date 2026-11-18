@@ -51,3 +51,4 @@ Content analysis of open-ended suggestions from the ten student groups at course
 - [Students perceived peer assessment as a fair way of assessing intervention reports and presentations](peer-assessment-perceived-fair.md) — related
 - [Student peer-to-peer feedback is perceived as beneficial but raises concerns about honesty and accuracy](peer-feedback-benefits-and-concerns.md) — possibly the same claim (merge candidate)
 - [Workplace-based assessment and recruitment are perceived as vulnerable to bias, whereas Royal College examinations are typically perceived as more rigorous and fair](assessment-recruitment-bias-perceptions.md) — related
+- [Students rated the fairness of their own marking and the benefit of peer assessment highly while reporting difficulty and moderate pressure in assessing peers' works](peer-assessment-perception-ratings-statistical-methods-course.md) — related

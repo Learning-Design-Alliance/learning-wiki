@@ -61,3 +61,4 @@ Attitudinal Likert questionnaire (AQ 1 and AQ 4) administered pre and post to 10
 - [Participants reported enhanced science-related education (68%) and excitement about the topics covered (80%)](outreach-enhanced-education-excitement.md) — related
 - [School students (N=20) at the public outreach workshop showed strong support for learning Einsteinian physics, with 100% strongly agreeing they wish they could do such experiments at school](pow-students-support-einsteinian-curriculum.md) — related
 - [A sustained five-session outreach programme stimulated self-reported interest in science among 54–64% of sixth-form participants](sustained-outreach-stimulated-interest-science.md) — related
+- [Fast 30% of minor-subject students reported having had no interest in physics before beginning their studies](minor-subject-students-no-physics-interest.md) — related

@@ -58,3 +58,4 @@ Same eye-tracking experiment; analyses of average fixation length on math-releva
 - [Revisions to visuals had no effect on post-lesson test scores, though prior knowledge predicted performance](revised-visuals-no-learning-effect.md) — related
 - [Students with correct answers show significantly higher fixation counts in task-relevant areas than students with incorrect answers](correct-solvers-more-fixations-relevant-areas.md) — related
 - [Prior knowledge moderated the effect of incorrect worked examples: students with low prior knowledge benefited most, and prior knowledge no longer predicted post-test scores in the incorrect examples group](prior-knowledge-moderates-incorrect-examples.md) — related
+- [During the Predict task, unconfident physics students focus significantly longer on relevant task areas than confident students with comparable scores](eye-tracking-confidence-visit-duration-predict.md) — related

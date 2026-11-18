@@ -59,3 +59,4 @@ Posttest questionnaire with one yes/no item and an open-ended question administe
 - [Watching cartoons with English subtitles produces no statistically significant vocabulary-gain advantage over watching without subtitles among upper-intermediate ELT students](no-subtitle-advantage-cartoon-vocabulary-gains.md) — related
 - [Experimental-group students' opinions on concept cartoons clustered into five themes: learning, applicability to other lessons, correcting missing and false information, persistence, and being funny or different](student-opinions-concept-cartoons-five-themes.md) — related
 - [Students hold highly positive attitudes toward visualisation strategies for spelling.](positive-student-attitudes-toward-visualisation-strategies.md) — related
+- [Students held positive attitudes toward the DGE, rating it helpful for learning limit concepts (3.73/5) and interesting (4.4/5)](positive-student-attitudes-toward-dge-limit-activities.md) — related

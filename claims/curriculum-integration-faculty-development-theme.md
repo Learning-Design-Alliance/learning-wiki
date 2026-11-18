@@ -70,3 +70,4 @@ Interview finding: all interviewed teachers emphasised faculty development neces
 - [Factors identified for poor rheumatology exposure include lack of full-time rheumatologists, absent local specialty training, and emphasis on acute specialties](factors-poor-rheumatology-exposure.md) — related
 - [Organizational issues, limited simulation capacity, and restricted access are major barriers to simulation-based learning reported by Rwandan medical students](organizational-capacity-access-barriers-simulation.md) — related
 - [Participating teachers report applying new particle physics content knowledge and trying new teaching practices in their classrooms](teacher-reported-classroom-application-of-pd-content.md) — related
+- [Physics teaching is described as stuck in outdated pre-20th-century content, and barriers to including Modern and Contemporary Physics are multiple and interacting](mcp-teaching-outdated-content-barriers.md) — related

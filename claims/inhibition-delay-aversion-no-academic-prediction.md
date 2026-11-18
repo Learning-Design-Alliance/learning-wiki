@@ -54,3 +54,4 @@ Null finding from the same hierarchical regression models predicting academic pe
 - [Time perception and working memory deficits predict word reading and numeration across time, more strongly than other neuropsychological constructs](time-perception-working-memory-predict-academics.md) — related
 - [Executive function measures predict early mathematics achievement over and above reading ability and IQ](executive-functions-predict-early-math-over-iq.md) — related
 - [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — related
+- [Being strongly connected early in the laboratory course does not predict later participation](early-connectedness-not-predict-later-participation.md) — related

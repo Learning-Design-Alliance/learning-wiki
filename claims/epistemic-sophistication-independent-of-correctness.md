@@ -55,3 +55,4 @@ Methodological rationale in the study section explains case selection from the v
 - [Warrants used in students' math arguments provide explicit evidence of epistemological framing](warrants-evidence-of-epistemological-framing.md) — related
 - [Oscillating between interpretive frames was not negatively related to correct physics answers, and exclusive single-frame users differed on overall correct answers and attempts](frame-oscillation-correct-answers-quantum-dreams.md) — a narrower finding that bears on this claim
 - [Productive problem solving can occur in any epistemological frame provided students transition appropriately between frames](productive-solving-any-frame-with-appropriate-transitions.md) — related
+- [Novice physics students seldom shift epistemological frames during assessment, with most beginning problems in an Algorithmic Physics frame](students-seldom-shift-frames-assessment.md) — related

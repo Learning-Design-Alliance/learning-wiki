@@ -53,3 +53,4 @@ Descriptive pre/post comparison of emotional responses in the session surveys. T
 - [Students' AI workflows shifted toward guided, step-by-step use and more sophisticated prompting and critical evaluation over the semester](ai-workflows-shifted-toward-guided-use.md) — related
 - [Faculty transformation followed four themes: fear shifting to curiosity, desire for ethical clarity, inclusive design as equity amplifier, and evolution from gatekeepers to guides](four-themes-faculty-ai-transformation.md) — related
 - [64.41% of students reported heightened curiosity for scientific research after Nobel laureate case studies, and 71.19% reported improved literature-reading skills](nobel-cases-research-motivation-literature-skills.md) — related
+- [Before-and-after Astronomy Questionnaire responses showed almost all students left with heightened scientific curiosity and desire to learn more](pre-post-questionnaire-curiosity-gains.md) — related

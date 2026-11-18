@@ -70,3 +70,4 @@ The article's concluding synthesis, an authors' interpretation connecting proces
 - Methodological features explain variation in structure findings: methods centering teachers' and students' experiences and aligning with the focal outcome matter — related
 - [Song-based instruction is consistently associated with increased affective engagement in EFL listening classrooms](song-based-instruction-affective-engagement.md) — related
 - [Pair interaction reportedly reduces anxiety and increases confidence and motivation](pair-interaction-reduces-anxiety-increases-motivation.md) — related
+- [Three approaches to writing—Communication, WTL, and WAP—are argued to be simultaneously necessary for writing in science](three-writing-approaches-necessary-simultaneously.md) — related

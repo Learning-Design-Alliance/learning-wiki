@@ -48,3 +48,4 @@ Pre-course open question on reasons for enrolling, answered by all 79 students; 
 - [Non-STEM majors in conceptual physics and astronomy courses score significantly lower pre-instruction on the LCTSR than STEM majors](non-stem-lower-lctsr-pre-scores-than-stem.md) — related
 - [Surveys show that only a minority of adults and introductory astronomy students correctly understand that the universe is expanding](expanding-universe-misconception-minority-surveys.md) — related
 - [Substantial content-knowledge gains are achievable for non-science majors in courses built on research-verified, active-engagement curricula](active-engagement-content-gains-non-majors.md) — related
+- [Career choice motivations are dominated by school mathematics and physics affinity and the desire to contribute to science, not financial or social recognition](physics-career-motivations-intrinsic-not-financial.md) — related

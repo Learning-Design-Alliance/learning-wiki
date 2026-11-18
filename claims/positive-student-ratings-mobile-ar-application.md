@@ -75,3 +75,4 @@ Post-experiment assessment in session 2: "a solid majority of 86%" viewed positi
 - [Students received the new PBL oral-health content positively, with most judging PBL a suitable format](students-received-pbl-oral-content-positively.md) — related
 - [Most participants (81.4%) did not feel distracted by the music, and overall course satisfaction was high (9.2/10)](low-subjective-distraction-high-satisfaction-music-training.md) — related
 - [Students report positive perceptions of and overall satisfaction with using the Socrative mobile classroom application in a medical English course](positive-perceptions-socrative-medical-english.md) — related
+- [86% of students said the Arduino-based experiment contributed significantly to learning the content presented](86-percent-experiment-contributed-significantly-learning.md) — related

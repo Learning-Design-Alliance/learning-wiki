@@ -53,3 +53,4 @@ Multivariate logistic regression in the retrospective Rouen cohort survey (523 r
 - [Regular physical activity (at least once per week) was associated with 81% higher odds of entrance exam success](regular-sport-associated-entrance-success.md) — related
 - [Sleep duration shows an inverted U-shaped association with academic performance in all five subjects, with a peak around 8 hours of nightly sleep](inverted-u-sleep-duration-academic-performance.md) — related
 - [Sleep duration the night before a test positively predicts test scores in both samples](test-eve-sleep-predicts-performance.md) — related
+- [A physics diagnostic test used alongside the college entrance exam is reported as a relevant approach for qualifying astronomy students](physics-diagnostic-test-qualify-astronomy-students.md) — related

@@ -48,3 +48,4 @@ Reporting of skepticism in the qualitative coding of the full corpus of written 
 - [Students reported an overall increased awareness of their cognitive and emotional processes after the contemplative practices](contemplative-practices-awareness-cognitive-emotional-processes.md) — related
 - [A majority of students reported that the contemplative practices produced feelings of somatic relaxation and mental stillness](contemplative-practices-somatic-relaxation-mental-stillness.md) — related
 - [Carrying out the contemplative practices made undergraduate physics students highly aware of the applicability of formal physics principles to their observations and embodied experience](contemplative-practices-awareness-of-formal-theory-applicability.md) — related
+- [Most students expressed appreciation for the somatic, affective, and cognitive effects of the practice, while a minority reported initial skepticism](em-practice-appreciation-skepticism.md) — related

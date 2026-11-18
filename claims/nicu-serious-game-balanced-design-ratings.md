@@ -47,3 +47,4 @@ Descriptive analysis of the same 160-respondent postgame survey assessing game b
 ## Related Claims
 - [Engagement with AI-generated educational interactive fiction is marginal, near the neutral midpoint of the scale](ai-generated-if-engagement-marginal.md) — related
 - [Satisfaction scores clustered around scale midpoint in both cohorts, interpreted as moderate satisfaction](satisfaction-moderate-both-formats-exploratory.md) — related
+- [Pre-university students responded positively to the hands-on BB84 workshop and found its difficulty well balanced](bb84-workshop-student-feedback.md) — related

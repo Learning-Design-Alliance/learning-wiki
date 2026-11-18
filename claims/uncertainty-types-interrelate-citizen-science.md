@@ -47,3 +47,4 @@ Authors' interpretive discussion of the case study. The discussion "suggests int
 ## Related Claims
 - [All nine DReaM uncertainty articulation sub-categories were identified in middle school students' citizen science participation](nine-dream-subcategories-articulated-case-study.md) — related
 - [Working with statistically messy authentic data in citizen science gave middle school students a window into scientists' world and intense experience with scientific reasoning](messy-radon-data-window-into-scientists-world.md) — related
+- [The five framework categories overlap rather than partition goals for writing in physics labs](framework-categories-interrelated-not-exclusive.md) — related

@@ -57,3 +57,4 @@ Qualitative essays from 14 of 35 voluntary experimental-group students, coded by
 - [After the scaffolding intervention, learners could more confidently express their ideas in their writings.](scaffolding-increased-writing-confidence.md) — related
 - [Newly developed digital learning tools increase student motivation, enjoyment and engagement, but participation is usually voluntary and skewed toward senior students](digital-tools-increase-motivation-engagement-voluntary-participation.md) — related
 - [Most students expressed positive attitudes toward ILC tasks, integration, and laboratory procedures](ilc-positive-student-perceptions.md) — related
+- [Students showed increased confidence in expressing opinions and discussing what they learned by the end of the workshop](increased-confidence-after-particle-dance.md) — related

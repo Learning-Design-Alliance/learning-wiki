@@ -49,3 +49,4 @@ In the fifth semi-structured clinical interview (March 17, 2010) in this case st
 - [A student committed to sense-making learns to compartmentalize deep learning as a \"hobby\" to protect his GPA within the existing system](sense-making-compartmentalized-as-hobby.md) — related
 - [Michael's classroom talk shows a commitment to external coherence between intuitive physical explanation and mathematical/graphical representations](external-coherence-classroom-talk.md) — related
 - [Typical engineering assessment practices reward regurgitation and speed and designate conceptual reasoning as peripheral \"extra credit,\" in Michael's experience](engineering-assessment-rewards-regurgitation.md) — related
+- [Standard PER assessment paradigms do not capture coherence-seeking, leaving mathematical sensemaking outcomes undetected](standard-per-assessments-miss-coherence-seeking.md) — related

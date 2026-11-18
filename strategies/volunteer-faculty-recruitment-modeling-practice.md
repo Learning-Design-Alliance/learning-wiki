@@ -43,6 +43,7 @@ The report's tentative conclusions recommend recruiting faculty already committe
 - [Build trust early through quick wins and visible responsiveness to feedback, using a tiered rollout to grow champions](build-trust-early-quick-wins-tiered-rollout.md)
 - [Demonstrate solution benefits through participant perspectives, direct experience, and foregrounded student voice](demonstrate-benefits-student-voice-sustainability.md)
 - [Create small wins to motivate faculty during pedagogical change](small-wins-faculty-motivation-change.md)
+- [Recruiting competitive faculty and continuous faculty retraining to sustain astronomy education quality](faculty-recruitment-retraining-astronomy-education-quality.md)
 
 ## Examples
 -

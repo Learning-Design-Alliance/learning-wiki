@@ -56,3 +56,6 @@ Linear multilevel model of 2,866 course grades from nine undergraduate STEM cour
 - [No gender gap in exam points, but women earned more non-exam points, in the control section](no-gender-gap-exam-points-women-more-nonexam-points.md) — related
 - [A 700 QGRE cutoff would reject nearly three quarters of Hispanic physical-sciences test takers, more for other minority groups, and filter out women at a higher rate than men](qgre-cutoff-700-diversity-filter.md) — related
 - [Gender differences in undergraduate physics course grades were minimal and statistically insignificant after controlling for prior academic performance](gender-gap-physics-grades-minimal-controlling-gpe.md) — reports the opposite
+- [Low importance of demographic variables in physics grade prediction was not caused by sample imbalance](demographic-variable-importance-not-sample-imbalance.md) — related
+- [Among physics majors, men earn higher grades than women only in introductory physics courses, with small-to-medium effect sizes](gender-gap-only-introductory-physics-grades.md) — reports the opposite
+- [Women earn roughly 0.2 grade points higher overall GPA than men across all demographic groups](women-higher-overall-gpa-all-groups.md) — related

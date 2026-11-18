@@ -13,7 +13,7 @@ author: Andrea diSessa; John P. Smith III, Andrea diSessa & Jeremy Roschelle
 # Knowledge in Pieces
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 21 claims (16 for, 5 mixed) · 20 studies (8 qualitative, 4 associational, 3 theoretical, 2 design, 1 causal, 1 quant-synthesis, 1 review), `q1`–`q4` · 0 of 20 report an effect size · 19 claims rest on one study
+> **Evidence** · 22 claims (17 for, 5 mixed) · 21 studies (9 qualitative, 4 associational, 3 theoretical, 2 design, 1 causal, 1 quant-synthesis, 1 review), `q1`–`q4` · 0 of 21 report an effect size · 20 claims rest on one study
 
 ## Description
 
@@ -64,6 +64,7 @@ A third tradition reached a similar question from procedural skills. Brown and B
 - [Resource clusters changed between the 2015 pretest and final exam after targeted instruction, with breakdown reached by 13 of 17 students on the final versus 8 of 16 at mid-semester](../claims/cluster-shifts-after-instruction-2015.md) [+W] — attached 2026-11-17 from Savannah L. Mitchem et al. (2016), which proposed "Resource Theory: resources, their plasticity versus solidity, and clusters forming mental models"; tests this page's relationship.
 - [Unpacking separation of variables yields a resource graph of three conceptual and three procedural resources](../claims/sov-unpacked-resource-graph.md) [+W] — attached 2026-11-17 from Bahar Modir et al. (2016), which proposed "Resources framework: fine-grained, reusable elements of student reasoning with internal structure".
 - [Teachers noticed the problematic facets of the energy-as-substance metaphor resource but not the generative value of the metaphor resource itself](../claims/teachers-notice-facets-not-metaphor-resource.md) [+W] — attached 2026-11-18 from Michael C. Wittmann (2017), which proposed "Resources are scale-free: several seemingly different resources may be contextual instances of one conceptual chunk, creating grain-size tensions for teachers".
+- [Epistemological frame shifts occur at the level of a shift in a single epistemological resource](../claims/frame-shifts-via-single-resource-shift.md) [+W] — attached 2026-11-18 from Kelli Shar et al. (2021), which proposed "Epistemological framing and resources model applied to assessment contexts"; tests this page's relationship.
 
 ## Related Theories
 - [Multiple local conceptual coherences: student understanding as locally stable patterns requiring stability explanations](multiple-local-conceptual-coherences.md) — a development of the same view, explaining the local stabilities of variable thinking

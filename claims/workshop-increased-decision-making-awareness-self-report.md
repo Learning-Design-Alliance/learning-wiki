@@ -50,3 +50,4 @@ Descriptive analysis of post-course 5-point Likert survey responses from the sam
 - [Students exposed to the biased LLM showed no awareness of its influence, reporting lower perceived AI influence than neutral-condition participants despite larger bias effects](bias-transfer-without-awareness-llm-writing.md) — related
 - [Resident knowledge of key clinical teaching concepts, including Kolb's Experiential Learning theory and Miller's Pyramid, improved significantly after the workshop](resident-teaching-concept-knowledge-improved-post-workshop.md) — related
 - [Awareness of biases in combining assessment information could improve the robustness of student progression decisions](awareness-of-biases-improves-progression-decisions.md) — related
+- [Second survey shows a pronounced increase in students' awareness of their own decisions between first and second surveys](second-survey-increased-decision-awareness.md) — related

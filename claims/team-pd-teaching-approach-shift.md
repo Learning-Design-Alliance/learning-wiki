@@ -72,3 +72,4 @@ Quantitative survey study (N = 33) of an 8–12-week online training with a team
 - [Teachers in online team-based training reported significantly greater confidence in their technological pedagogical content knowledge after training](team-pd-tpck-confidence-gain.md) — related
 - [Teachers oriented towards students and changing students' conceptions are associated with students reporting deeper approaches to learning](teacher-orientation-deep-approaches.md) — related
 - [Short-duration TPACK-based professional development improved teachers' ML knowledge and interest (ML4STEM)](ml4stem-teacher-pd-initial-evidence.md) — related
+- [Lab TAs' written reflections shifted from a traditional transmission model of education toward a student-centered view of learning across the professional development program](ta-reflections-shift-from-transmission-to-student-centered.md) — a narrower finding that bears on this claim

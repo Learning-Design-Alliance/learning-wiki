@@ -52,3 +52,4 @@ Descriptive comparison of three high-reputation Herat schools (two public, one p
 - [AP and IB programs in neighborhood high schools serve students with higher-than-average but below selective-enrollment achievement](ap-ib-fill-gap-for-mid-high-achievers.md) — related
 - [Private schools outperform subsidised schools, which outperform public schools, on eighth-grade academic performance](institution-type-performance-gradient-chile.md) — a broader claim this one bears on
 - [No school type stood out on TAP performance, but charter schools had substantially lower dropout rates after controlling for incoming student characteristics](chicago-charter-schools-lower-dropout-rates.md) — related
+- [A physics diagnostic test used alongside the college entrance exam is reported as a relevant approach for qualifying astronomy students](physics-diagnostic-test-qualify-astronomy-students.md) — related

@@ -48,3 +48,4 @@ Belief survey administered at the beginning and end of the yearlong PD to 40 mid
 - [Teachers' context beliefs increased after a year in the program, though this increase was not statistically significant.](pd-increased-teacher-context-beliefs-ibi.md) — related
 - [Professional learning experiences shift teachers' beliefs away from traditional views toward practice-based science and increase implementation confidence, with gains leveling off after initial workshops](openscied-pd-shifts-teacher-beliefs-confidence.md) — a broader claim this one bears on
 - [Attitude toward science and self-belief show no significant change in either condition](no-change-attitude-self-belief.md) — related
+- [Lab TAs' written reflections shifted from a traditional transmission model of education toward a student-centered view of learning across the professional development program](ta-reflections-shift-from-transmission-to-student-centered.md) — related

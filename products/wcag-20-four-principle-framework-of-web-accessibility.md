@@ -29,4 +29,4 @@ A W3C framework for evaluating and improving web content through the principles 
 -
 
 ## Key Sources
-- Scanlon, E., Taylor, Z. W., & Chini, J. J. (2019). Physics Webpages Create Barriers to Participation for People with Disabilities: Five Steps to Increase Digital Accessibility. https://sciences.ucf.edu/physics/undergraduate/curriculum/
+- Scanlon, E., Taylor, Z. W., & Chini, J. J. (2019). Physics Webpages Create Barriers to Participation for People with Disabilities: Five Steps to Increase Digital Accessibility. https://sciences.ucf.edu/physics/undergraduate/curriculum/. [doi:10.48550/arxiv.1907.02906](https://doi.org/10.48550/arxiv.1907.02906)

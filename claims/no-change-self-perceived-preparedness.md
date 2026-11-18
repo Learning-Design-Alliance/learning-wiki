@@ -47,3 +47,4 @@ Linear mixed-effects repeated-measures model with random intercepts for particip
 ## Related Claims
 - [College faculty, staff and administrators rated their preparedness to support student veterans in psychological distress significantly higher after game-based virtual-human role-play training, and still above baseline at 3-month follow-up, in a pre/post study with no control group.](voc-training-increases-gatekeeper-preparedness.md) — related
 - [Neither feedback mode produced differential improvements in syntactic complexity; a general time effect appeared only in the first task](syntactic-complexity-no-differential-effect.md) — related
+- [Concept-first students are the only group whose self-reported preparedness significantly increases over the assignment](concept-first-preparedness-increase.md) — reports the opposite

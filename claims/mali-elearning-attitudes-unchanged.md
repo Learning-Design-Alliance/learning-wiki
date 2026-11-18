@@ -49,3 +49,4 @@ A general attitudes questionnaire of 10 statements (scored 1–10) completed at 
 - [E-learning significantly increased participants' satisfaction with knowledge and self-assessed ability to diagnose and manage patients, and by more than knowledge and practices scores.](mali-elearning-confidence-gains-exceed-knowledge.md) — related
 - [Sleep cueing with name+positive trait pairs improves implicit attitudes (IAT D-scores) toward the cued person](sleep-cueing-improves-implicit-attitudes-iat.md) — related
 - [Sixth graders' self-rated attitudes toward science rose from pre-test to post-test after a 12-week newspapers-in-science-teaching program, in one uncontrolled pre-post study](newspapers-in-education-improved-attitude-toward-science.md) — related
+- [Participants' attitudes toward computer science did not significantly change over the 2019 BPDM workshop](bpdm-2019-attitudes-no-change.md) — related

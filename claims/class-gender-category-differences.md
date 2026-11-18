@@ -49,3 +49,4 @@ The article reports this second-hand from Adams et al. (reference 3), the CLASS 
 - [Personal Interest and Real World Connection categories shift differently across courses in response to instruction](personal-interest-and-real-world-shift-differently-by-course.md) — related
 - [Reduced-basis factor analysis on statement subsets split the combined real-world/personal-interest category into two categories matching student interview distinctions](reduced-basis-factor-analysis-split-personal-interest-real-world.md) — related
 - [CLASS Personal Interest and Real World Connection clusters typically show negative shifts, though some instructional approaches produce positive shifts](class-relevance-clusters-typically-negative-shifts.md) — related
+- [Men showed a significant negative CLASS shift in the sense making or effort category](men-negative-shift-sense-making-effort.md) — related

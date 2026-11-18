@@ -72,3 +72,4 @@ Qualitative evidence from individual discussions in the earlier problem-pair stu
 - [Even with an explicit instruction to make an analogy with a solved tension problem, only 35% of introductory physics students correctly solved the isomorphic friction problem.](explicit-analogy-instruction-insufficient-friction.md) — related
 - [Misconceptions about static friction prevented transfer from an equilibrium problem with two people pulling to an isomorphic table problem](ipp-equiibrium-table-friction-no-transfer.md) — related
 - [Of 67 introductory students given the same problem, only 10.5% gave the correct response that final speed is independent of the friction coefficient, and only one gave qualitatively correct reasoning](students-correct-response-rolling-problem-10-5-percent.md) — related
+- [About one quarter of physics students treat inertial forces as having the same effects on objects as real forces](inertial-forces-treated-as-real-misconception.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-11-18
 recheck_by: 2024
 sources:
   - id: scanlon-2019
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
+> **Currency** · newest study 2019 · checked against its sources 2026-11-18 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Five error types — information and relationships (1.3.1), non-text content (1.1.1), link purpose (2.4.4), resize text (1.4.4), and name, role, value (4.1.2) — were responsible for the majority of errors. [→ Scanlon 2019](#scanlon-2019)

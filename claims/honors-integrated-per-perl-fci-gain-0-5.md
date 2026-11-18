@@ -56,3 +56,4 @@ Pre/post FCI assessment of small honors/majors sections of the calculus-based co
 - [Students in Arduino-based lab sections scored unremarkably on standard physics pre/post inventories](arduino-lab-standard-inventory-scores-unremarkable.md) — related
 - [Student difficulties on the test are not strongly dependent on student population or calculus background, except for honors and active-engagement classes](difficulty-independent-of-calculus-background.md) — related
 - [Section 01 performed worse in the skill-based assessment than section 04 despite the same instructor, with lab-before-lecture ordering a suspected cause](lab-before-lecture-ordering-worse-sa-section01.md) — related
+- [Physics majors in blended interactive-engagement sections showed large, statistically significant FCI gains for both men and women](large-fci-gains-blended-physics-major-sections.md) — related

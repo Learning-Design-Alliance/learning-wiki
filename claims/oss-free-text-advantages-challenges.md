@@ -47,3 +47,4 @@ Qualitative context analysis of free-text questions in the same survey. A second
 ## Related Claims
 - [Students, teachers and standardised patients rated the OSS-worn encounter as realistic, with no significant difference between groups](oss-realistic-encounter-all-groups.md) — related
 - [Open-ended reflections most often highlighted realism of the simulation (51.5%), the simulation patient's role (32.0%), and interprofessional collaboration (20.6%)](mcleims-open-ended-themes.md) — related
+- [Students' spontaneous questions during the experiments showed investigative engagement and transfer of concepts to everyday situations](student-questions-investigative-engagement-arduino-experiments.md) — related

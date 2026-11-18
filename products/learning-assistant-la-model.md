@@ -20,6 +20,7 @@ An undergraduate STEM instructional-support programme in which trained Learning 
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **The Colorado Learning Assistant Model's three essential elements: pedagogy, weekly content preparation, and practice**: The Colorado Learning Assistant Model, created at the University of Colorado-Boulder and adopted at Chicago State University in 2010, is composed of three essential elements. The article states: "The Colorado Learning Assistant Model is composed of three essential elements which include pedagogy, weekly content preparation, and practice." The pedagogy element is a required course; the content element is weekly preparation meetings between faculty and LAs; practice occurs when LAs employ their lessons in high school or college settings. The model originally addressed inadequate teacher preparation for high school physics teachers. (Amezcua (2018))
 
 ### Claims
 - [Physics courses supported by Learning Assistants show course-level Cohen's d effect sizes on average 1.4 times higher than courses without LA support](../claims/la-support-higher-physics-effect-sizes.md) [+M]
@@ -39,3 +40,4 @@ An undergraduate STEM instructional-support programme in which trained Learning 
 - Jada-Simone S. White, Ben Van Dusen, & Edward A. Roualdes. (2016). The Impacts of Learning Assistants on Student Learning of Physics. https://www.learningassistantalliance.org
 - Ben Van Dusen and Jayson M. Nissen. (2017). Systemic inequities in introductory physics courses: the impacts of learning assistants. https://arxiv.org/abs/1711.05836
 - Xochith Herrera, Jayson Nissen, and Ben Van Dusen. (2018). Student Outcomes Across Collaborative-Learning Environments. arXiv:1808.07076. https://arxiv.org/abs/1808.07076
+- Amezcua, F. (2018). Development of the Preparation Session Observational Tool (PSOT) for Quantitative Analysis by Probing the Underlying Behaviors that Contribute to Various Learning Assistant-Faculty Relationships.

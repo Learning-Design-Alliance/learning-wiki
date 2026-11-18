@@ -50,3 +50,4 @@ The authors report as a stated limitation of the pilot that "COVID-19 restrictio
 - [School-aged children experienced a substantial overall learning deficit during the COVID-19 pandemic (pooled d = −0.14), equivalent to about 35% of a school year's learning](covid-pandemic-pooled-learning-deficit.md) — related
 - [Observed COVID-19 achievement declines were more substantial than declines during other recent disruptions such as natural disasters](covid-declines-exceed-natural-disaster-declines.md) — related
 - [Instructors widely relaxed deadlines and adjusted grading to accommodate pandemic circumstances, while balancing compassion with academic rigor](instructors-flexible-deadlines-grading-covid.md) — related
+- [In a DGE limit-definition activity sequence, most students completed introduction and main activities but only one group (5.3%) completed the closure activity](dge-limit-activity-participation-pattern.md) — related

@@ -49,3 +49,4 @@ The study's descriptive statistics matched prior studies: grade differences betw
 - [Students with higher course grades are more likely to participate in low-stakes RBAs in both CBT and PPT conditions, with a non-linear grade-participation relationship](course-grade-participation-gradient-low-stakes-rbas.md) — possibly the same claim (merge candidate)
 - [Completion rates for online out-of-class RBA administration were substantially lower than for in-class paper administration](cbt-completion-rates-lower-than-ppt.md) — related
 - [Gender differences in low-stakes RBA participation are not statistically significant, though all estimates point toward higher female participation](gender-participation-difference-nonsignificant-small.md) — related
+- [Online administration of upper-division RBAs raised participation rates, with 94% overall participation versus historical rates never higher than 80%](online-rba-participation-rate-increase-upper-division.md) — related

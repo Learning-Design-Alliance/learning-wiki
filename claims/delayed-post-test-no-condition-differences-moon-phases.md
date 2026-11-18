@@ -47,3 +47,4 @@ Follow-up learning test emailed to all participants about four months after the 
 ## Related Claims
 - [VR, desktop simulation, and hands-on activities produced no significant differences in immediate post-test learning about Moon phases](no-learning-difference-vr-desktop-hands-on-moon-phases.md) — related
 - [A brief VR Moon-phases activity did not affect students' environmental attitudes compared with desktop and hands-on conditions](vr-no-effect-environmental-attitudes.md) — related
+- [In a pilot ASTRO 101 study, a VR activity on Moon phases and eclipses was at least as effective as supplemental lecture or hands-on activities on multiple-choice quiz gains](vr-moon-phases-at-least-as-effective-pilot.md) — related

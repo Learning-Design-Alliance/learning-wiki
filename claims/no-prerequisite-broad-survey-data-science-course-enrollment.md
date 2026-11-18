@@ -46,3 +46,4 @@ Course-design case report from the article's introduction section: the authors s
 
 ## Related Claims
 - [Requiring statistics or linear algebra prerequisites would have sharply reduced enrollment in the multivariate data analysis course](prerequisites-would-cut-enrollment-19-to-5.md) — related
+- [A course-based data science research experience in a first-semester introductory course can be completed by all enrolled students with no course attrition](cures-first-semester-no-attrition.md) — related

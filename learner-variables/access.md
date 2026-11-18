@@ -13,7 +13,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 133 claims (94 show a difference, 28 mixed, 11 no difference) · 104 studies (40 associational, 19 causal, 16 review, 10 design, 9 qualitative, 7 theoretical, 3 quant-synthesis), `q1`–`q4` · 8 of 104 report an effect size · 128 claims rest on one study
+> **Evidence** · 136 claims (97 show a difference, 28 mixed, 11 no difference) · 106 studies (41 associational, 19 causal, 16 review, 11 design, 9 qualitative, 7 theoretical, 3 quant-synthesis), `q1`–`q4` · 8 of 106 report an effect size · 131 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -177,6 +177,9 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [In a blended introductory mechanics course, students accessed laboratory videos far more consistently than lecture-oriented videos, with lecture access falling below 40% late in the semester while lab access remained above 84%](../claims/lab-videos-accessed-more-than-lecture-videos.md) [+M] — measured as an outcome of the instruction studied
 - [Student video-accessing behaviors showed little correlation with course performance in the blended mechanics course](../claims/video-accessing-uncorrelated-with-performance.md) [-W] — learners who differ on it differ in outcomes
 - [Free or low-cost robotic telescope access equalises instrumentation access across socioeconomic and physical barriers](../claims/robotic-telescope-equity-access.md) [+M] — measured as an outcome of the instruction studied
+- [A blind student using an audio-converting measurement device obtained a linear thermal expansion coeﬃcient for aluminum within the expected range](../claims/blind-student-audio-device-thermal-expansion-within-range.md) [+M] — learners who differ on it differ in outcomes
+- [Students reported negative experiences when the flipped classroom lacked adequate infrastructure such as internet connection](../claims/flipped-classroom-internet-infrastructure-difficulty.md) [+M] — an instructional effect differs with it
+- [Using the adapted device, a blind student participated fully in laboratory measurement for the first time and reported satisfaction](../claims/blind-student-first-full-measurement-participation.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

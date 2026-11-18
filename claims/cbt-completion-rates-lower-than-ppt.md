@@ -51,3 +51,5 @@ Descriptive completion rates reported in the Methods section of the 25-section e
 - [The more recommended instructor practices used, the higher CBT participation; with all four practices, online and paper posttest participation rates were very similar](instructor-practices-raise-cbt-participation.md) — related
 - [Data collection with low-stakes RBAs systematically over-represents high-achieving students regardless of assessment administration method](low-stakes-rbas-overrepresent-high-achievers.md) — related
 - [Online LASSO-administered assessments produce participation rates and scores equivalent to in-class paper assessments when instructors use four recommended practices](lasso-online-assessments-equivalent-participation-performance.md) — related
+- [Total time to completion of the online RBA showed no significant relationship with scores](online-rba-completion-time-no-score-relationship.md) — related
+- [Online administration of upper-division RBAs raised participation rates, with 94% overall participation versus historical rates never higher than 80%](online-rba-participation-rate-increase-upper-division.md) — reports the opposite

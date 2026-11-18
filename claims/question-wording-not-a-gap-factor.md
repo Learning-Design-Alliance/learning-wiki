@@ -55,3 +55,5 @@ McCullough and Meltzer's rewording study and DIF analyses by Dietz et al. and Po
 - [Revising FCI question contexts to stereotypically feminine settings narrowed the gender gap because men scored significantly worse, not because women improved](rfci-context-change-narrowed-gap-via-men.md) — related
 - [DIF analysis identifies eight FCI items with large differential item functioning in Sample 1, six unfair to women and two biased in favor of women](fci-dif-large-items-sample1.md) — reports the opposite
 - [Performance gaps by gender and race/ethnicity in introductory physics are similar in size and widen from pretest to posttest](physics-equity-gaps-widen-pre-post.md) — related
+- [The FCI gender gap narrowed following instruction in these blended sections](fci-gender-gap-narrowed-blended-sections.md) — related
+- [Post-test misconception scores differ significantly between men and women on every FMCE community, but all effect sizes are small or negligible](fmce-misconception-score-gender-small-effects.md) — related

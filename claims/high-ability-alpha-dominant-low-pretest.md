@@ -74,3 +74,4 @@ The article reports (Section V.B) Coletta et al. (2005)'s four interactive-engag
 - [Normalized gain g is positively biased in favor of populations with higher pretest scores](normalized-gain-biased-favoring-high-pretest-populations.md) — related
 - [The three methods for calculating normalized gain are highly correlated (r ≥ 0.93)](three-normalized-gain-methods-highly-correlated.md) — related
 - [Initial performance affected post-test scores, but low and high initial performers gained equally in normalized learning gain](klm-fa-learning-gain-initial-performance.md) — related
+- [No meaningful correlation was found between FCI prescore and CLASS shift, or between FCI gain and FCI pretest score](no-correlation-fci-pretest-class-shift.md) — related

@@ -46,4 +46,4 @@ The article proposes that students' cognition of reality through aerospace image
 -
 
 ## Key Sources
-- Kholoshyn, I.V., Varfolomyeyeva, I.M., Hanchuk, O.V., Bondarenko, O.V., Pikilnyak, A.V. (2019). Pedagogical techniques of Earth remote sensing data application into modern school practice. (No publisher URL or DOI printed in the article text.)
+- Kholoshyn, I.V., Varfolomyeyeva, I.M., Hanchuk, O.V., Bondarenko, O.V., Pikilnyak, A.V. (2019). Pedagogical techniques of Earth remote sensing data application into modern school practice. (No publisher URL or DOI printed in the article text.). [doi:10.31812/123456789/3262](https://doi.org/10.31812/123456789/3262)

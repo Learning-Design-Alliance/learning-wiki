@@ -74,3 +74,4 @@ Analysis of completion rates by number of semesters of continuous enrollment in 
 - [Most CPS completers who took longer than four years were enrolled more than eight terms: 67% finished in nine or ten terms and 12% in eleven or twelve](late-completers-enrolled-more-than-eight-terms.md) — related
 - [The simulator computes Bachelor-degree-level rates: graduation rate and an efficiency rate measured as credits of the curriculum with respect to credits really taken](simulator-computes-degree-level-graduation-and-efficiency-rates.md) — related
 - [Course average in the two weed-out courses indicated progression to degree: six of ten non-completers failed one or both, and no student who passed both failed out](weed-out-course-average-predicts-degree-progression.md) — related
+- [Most students maintain their enrollment strategy from one semester to the next](students-maintain-enrollment-strategy-semester-to-semester.md) — related

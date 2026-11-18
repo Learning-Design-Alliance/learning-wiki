@@ -52,3 +52,4 @@ Multi-group SEM invariance testing across gender, age groups, and academic disci
 - [The mediation pattern from online class-related enjoyment to achievement is moderated by gender but not by major or grade](gender-moderates-enjoyment-mediation-pattern.md) — related
 - [Associations among economic perceptions and academic outcomes do not differ between preadolescents and early adolescents](no-age-moderation-economic-stress.md) — related
 - [Structural relationships between self-regulated learning, participation and performance are invariant across the two assessment policies](srl-performance-relationships-invariant-across-policies.md) — related
+- [Measurement invariance holds by gender and no gender differences appear in any predictive paths; differences occur only in high school GPA and introductory physics intercepts](no-gender-differences-in-predictive-paths-sem.md) — related

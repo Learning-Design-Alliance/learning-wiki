@@ -56,3 +56,4 @@ Anonymous course evaluation survey after the two-hour IF-AT midterm, with attitu
 - [Students in one Physics First section predominantly reported liking Buddy Quizzes more than regular quizzes](buddy-quiz-student-feedback-predominantly-positive.md) — related
 - [Students reacted largely very favorably to classroom physics instruction conducted across continents in Second Life](sl-cross-continent-classroom-instruction-favorable.md) — related
 - [Most students in the game-inspired computational physics courses reacted positively to the course design overall](game-inspired-cp-positive-overall-reactions.md) — related
+- [Most students reacted positively to the VR experience and felt it contributed to their learning](vr-positive-student-reactions.md) — related

@@ -51,3 +51,4 @@ The article states that "a proporção de mulheres diminui conforme a carreira a
 - [Evasion is always slightly higher for women than for men across UFSC physics courses.](ufsc-physics-evasion-slightly-higher-for-women.md) — related
 - [In UFSC postgraduate physics, success rates are 71,4% (master's, women), 85% (master's, men), 43,8% (doctorate, women), and 55,3% (doctorate, men).](ufsc-postgraduate-success-rates-by-sex-and-level.md) — related
 - [Evasion is lower in postgraduate physics courses than in undergraduate courses at UFSC.](ufsc-physics-postgraduate-evasion-lower-than-undergraduate.md) — related
+- [Diversity decreases with career progression: proportions of women and black+parda people are higher among undergraduates than at the PhD level](diversity-decreases-with-career-progression-scissors-effect.md) — a broader claim this one bears on

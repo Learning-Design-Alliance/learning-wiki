@@ -56,9 +56,10 @@ The article recommends that boosting the value of and access to capital is neces
 - [Use culturally diverse examples, values affirmation, and equity strategies to reduce stress and support students' sense of belonging in science](culturally-diverse-examples-equity-strategy.md)
 - [Reimagine campus physical spaces as part of institutional diversity, equity, and inclusion commitments](reimagine-campus-physical-spaces-for-inclusion.md)
 - [Reevaluate graduate admissions toward holistic assessment of research potential instead of decontextualized test-score cutoffs](holistic-phd-admissions-reevaluation-strategy.md)
+- [Improve equity and inclusion in introductory physics, including interventions to boost self-efficacy, growth mindset and sense of belonging](equity-inclusion-interventions-introductory-physics.md)
 
 ## Examples
 -
 
 ## Key Sources
-- Turnbull, S. M., Vanholsbeeck, F., Locke, K., & O'Neale, D. R. J. (2019). Bourdieu, networks, and movements: Using the concepts of habitus, field and capital to understand a network analysis of gender differences in undergraduate physics. arXiv preprint. https://arxiv.org/abs/1903.08725
+- Turnbull, S. M., Vanholsbeeck, F., Locke, K., & O'Neale, D. R. J. (2019). Bourdieu, networks, and movements: Using the concepts of habitus, field and capital to understand a network analysis of gender differences in undergraduate physics. arXiv preprint. https://arxiv.org/abs/1903.08725. [doi:10.1371/journal.pone.0222357](https://doi.org/10.1371/journal.pone.0222357)

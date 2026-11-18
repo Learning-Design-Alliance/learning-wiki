@@ -90,6 +90,7 @@ The intervention's delivery strategy is multi-year, job-embedded teacher trainin
 - [Adopt peer-coaching and faculty learning community models in which instructors regularly observe and support one another](peer-coaching-faculty-learning-communities.md)
 - [Sustain MI skill acquisition with ongoing coaching, feedback, supervision and on-the-job practice rather than training alone](ongoing-coaching-feedback-sustain-mi-skills.md)
 - [Train classroom teachers via an initial in-service workshop with ongoing individual feedback and annual boosters](teacher-in-service-training-active-lessons-strategy.md)
+- [Three-phase CPS teacher-updating course: instruction, teacher-as-learner practice, and coached student testing](cps-teacher-updating-course-structure.md)
 
 ## Examples
 -

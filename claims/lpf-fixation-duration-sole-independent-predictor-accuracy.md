@@ -48,3 +48,4 @@ Multivariate analysis in the same 100-CT eye-tracking study. The regression esti
 - [Diagnostic accuracy correlates negatively with total examination time and LPF main object gaze metrics](accuracy-negative-correlation-examination-time-lpf-metrics.md) — a broader claim this one bears on
 - [High-accuracy cytotechnologists show shorter examination time, less background dwell, and faster HPF cytoplasm detection than low-accuracy peers](high-accuracy-group-faster-search-patterns.md) — related
 - [Training increases students' focus on LPF main object targets and HPF cytoplasm](training-increases-focus-on-target-aois.md) — related
+- [High response confidence is associated with shorter visit durations on both item questions and options](high-confidence-shorter-visit-durations.md) — related

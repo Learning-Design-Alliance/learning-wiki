@@ -53,3 +53,5 @@ A randomized between groups experimental design by Nissen et al. compared comput
 - [Completion rates for online out-of-class RBA administration were substantially lower than for in-class paper administration](cbt-completion-rates-lower-than-ppt.md) — related
 - [Participation rates for assessments administered in class on paper are nearly twice as high as participation rates for online administration, with a pre-to-post drop in both formats.](inclass-participation-nearly-twice-online.md) — related
 - [Participation is higher on pretests than posttests in both administration modes](pretest-participation-exceeds-posttest-both-modes.md) — related
+- [Online administration of upper-division RBAs raised participation rates, with 94% overall participation versus historical rates never higher than 80%](online-rba-participation-rate-increase-upper-division.md) — related
+- [Online RBA scores were 4–5% lower than historical in-class scores in the same courses, a non-significant difference driven by a larger lower tail](online-vs-inclass-rba-scores-comparable.md) — related

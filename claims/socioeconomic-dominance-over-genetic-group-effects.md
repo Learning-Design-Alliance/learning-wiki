@@ -49,3 +49,4 @@ Authors' interpretation drawn from the state-stratified ENEM 2014 analysis: stud
 - [School-level socio-economic disadvantage significantly predicted immigrant students' self-efficacy and achievement but not valuing in exploratory multilevel tests](school-ses-disadvantage-predicts-efficacy-achievement-not-valuing.md) — a narrower finding that bears on this claim
 - [Socio-economic background, whether indexed by school type or by a Barratt-based Social Status score, explains very little variance in assessment marks](ses-measures-explain-little-assessment-variance.md) — reports the opposite
 - [Demographic variables showed negligible relationships with content knowledge posttests and teaching method](demographics-negligible-relationship-achievement-treatment.md) — reports the opposite
+- [Socioeconomic vulnerability is the main obstacle reported along physics studies and careers in Brazil](socioeconomic-vulnerability-main-career-obstacle.md) — related

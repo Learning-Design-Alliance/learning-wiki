@@ -53,3 +53,4 @@ Editorial interpretation of why science teaching is misdirected, offered without
 - [The article argues that continued simple, single-object experiments tend to make pupils unguarded and hasty in their conclusions, and that premise-testing experiments should correct this.](simple-experiments-hasty-judgments.md) — related
 - [Dewey argues that science has not justified its early promises as part of the educational curriculum](dewey-science-not-justified-curriculum-promises.md) — a broader claim this one bears on
 - [The editorial judges science teaching inadequate or misdirected at every school level, with nature study and geography declining in the elementary school.](science-teaching-inadequate-all-levels-1915.md) — a broader claim this one bears on
+- [The article claims inquiry-based learning increases pupil motivation and develops practical and research skills](inquiry-learning-motivation-and-research-skills.md) — related

@@ -55,6 +55,7 @@ The review argues peer-led change fails in isolation: "This means that peer inte
 - [Implement AI-supported STEM instruction through sustained, system-level integration of one to two months or more rather than isolated short interventions](sustained-system-level-ai-integration-stem.md)
 - [Build growth-mindset classroom cultures through teacher practices that convey all students can learn and improve](growth-mindset-classroom-culture-practices.md)
 - [Design classroom contexts that align activity goals and practices with student goals to promote belonging](align-context-goals-practices-belonging.md)
+- [Link every STEM engagement activity to the wider learning ecology and deliver coherent reinforcing messages](link-activities-to-learning-ecology.md)
 
 ## Examples
 -

@@ -45,7 +45,8 @@ The article recommends that trained teachers and peers serve as complementary de
 - [One-time teacher-led OHE was ineffective in improving adolescents' oral health knowledge and behavior](../claims/one-time-teacher-led-ohe-ineffective.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Link every STEM engagement activity to the wider learning ecology and deliver coherent reinforcing messages](link-activities-to-learning-ecology.md)
 
 ## Examples
 -

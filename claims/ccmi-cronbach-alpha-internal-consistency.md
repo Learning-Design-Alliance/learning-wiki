@@ -54,3 +54,4 @@ Internal-consistency analysis of the pooled CCMI post-test data at CU. The artic
 - [The CCMI is a difficult assessment: mean score 49.0% with first-year graduate students averaging 74.5%](ccmi-difficult-assessment.md) — related
 - [Cronbach's alpha for FASCI scores (FA 0.62, SCI 0.51) falls well below the 0.80 target for an open-ended scenario-based instrument](fasci-cronbach-alpha-below-target.md) — related
 - [ProtoPIQL whole-test scores are fairly normally distributed with mean 11 of 18 but internal reliability below accepted thresholds](protopiql-score-distribution-reliability.md) — related
+- [The ten-item interferometry test showed acceptable reliability: average α = 0.675 with post-test discriminations within accepted limits except item 10 in fall 2016](interferometry-test-alpha-0-675-reliability.md) — related

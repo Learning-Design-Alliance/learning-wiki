@@ -13,7 +13,7 @@ generated:
 # Accommodations
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (3 review, 1 causal), `q2`–`q3` · 0 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies (3 review, 1 causal, 1 design), `q2`–`q3` · 0 of 5 report an effect size · 2 claims rest on one study
 
 ## Description
 Accommodations are changes to *how* students access instruction and demonstrate learning — extended time, alternative formats, assistive technology, preferential seating, chunked assignments — that level the playing field without altering the construct being assessed or the learning goal. They are distinguished from *modifications*, which change what is taught or expected. Accommodations function as targeted barrier removal: the designer identifies where a fixed presentation or response format disadvantages a learner and provides an alternate route to the same outcome.
@@ -55,6 +55,7 @@ Accommodations improve access and performance for learners whose needs conflict 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Screen reader choice affects time and effort for accessing math: JAWS users completed a quadratic-equation task faster than NVDA users](../claims/screen-reader-effort-quadratic-equation-bvi.md) [~W]
+- [A blind student using an audio-converting measurement device obtained a linear thermal expansion coeﬃcient for aluminum within the expected range](../claims/blind-student-audio-device-thermal-expansion-within-range.md) [+W] — attached 2026-11-18 from O. Negrete et al. (2020), which proposed "Arduino-based photogate and segmented-disk device converting dial-indicator readings into audible beeps and vocalized millimeters"; tests this page's relationship.
 
 ## Related Elements
 - [Choice Boards](choice-boards.md) — a structured way to offer response-format accommodations without individual negotiation

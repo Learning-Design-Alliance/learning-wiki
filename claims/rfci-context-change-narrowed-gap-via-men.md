@@ -51,3 +51,4 @@ The review reports a pilot study in which college students in English, sociology
 - [Rewording FCI questions with feminine and everyday contexts does not change the gender gap, and DIF analyses show no consistent pattern of items favoring men](question-wording-not-a-gap-factor.md) — related
 - [Men's average FCI and FMCE pretest scores are always higher than women's, and posttest scores and normalized gains are usually higher, with no single factor explaining the gap.](gender-gap-fci-fmce-pretest-scores.md) — related
 - [Mechanics concept inventory pretest gender gaps always favor men, ranging from 8.2% to 18.7% with a weighted average of 13.0%](mechanics-pretest-gender-gap-weighted-average.md) — related
+- [The FCI gender gap narrowed following instruction in these blended sections](fci-gender-gap-narrowed-blended-sections.md) — related

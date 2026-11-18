@@ -45,6 +45,7 @@ Because the gap traces to incoming preparedness and does not shrink on its own, 
 - [Offer a sophomore-year mathematical physics course preparing students for the mathematics of quantum physics](sophomore-math-physics-prerequisite-for-qp.md)
 - [Furnish the model with physics-specific habits of mind and practice as concrete design targets for a preparation program](physics-specific-habits-design-targets.md)
 - [Support female students' self-efficacy at their entry point into physics education in high school or college](support-female-self-efficacy-physics-entry-point.md)
+- [Counter-programming in secondary schools to address physics stereotypes and improve women's physics self-efficacy before engineering coursework](secondary-school-counter-programming-physics-self-efficacy.md)
 
 ## Examples
 -

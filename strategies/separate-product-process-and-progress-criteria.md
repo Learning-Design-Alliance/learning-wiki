@@ -66,6 +66,7 @@ Blending non-achievement factors into achievement grades distorts the grade's me
 - [Clarify assessment purpose, define skill expectations with rubrics and progressions, and calibrate on student work](clarify-purpose-norm-expectations-calibrate-pog.md)
 - [Implement peer assessment in absorbable steps with clarified criteria and quality training](staged-peer-assessment-implementation.md)
 - [Use element-weighted rubrics and social moderation to standardise interpretation of marking criteria](rubric-elemental-weighting-social-moderation.md)
+- [Use two assessment rubrics so engagement with the adaptive platform can improve grades without penalizing non-users](dual-rubric-platform-incentive.md)
 
 ## Related Elements
 - [Rubrics](../elements/rubrics.md) — the instrument that makes each criterion explicit and gradable

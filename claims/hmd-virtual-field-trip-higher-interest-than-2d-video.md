@@ -54,3 +54,4 @@ Independent-samples t-test (Hypothesis 3) on the interest scale; the article's s
 - [Participants in the 360° VR video condition report higher interest and enjoyment than those learning via traditional video or posters](360-vr-higher-interest-enjoyment.md) — related
 - [3D virtual-reality lecture was statistically non-inferior to 2D lecture on knowledge and rated better on spatial understanding and enjoyment (Kockro et al.)](kockro-3d-lecture-noninferior-rated-better.md) — related
 - [The 3D feature is rated as moderately interesting relative to 2D video, with no difference between novice and experienced groups](3d-feature-moderate-added-interest.md) — related
+- [The benefit of preliminary VR training was limited to questions posed in VR, with no improvement on 2D computer-based posttest questions](vr-training-benefit-limited-to-vr-posed-questions.md) — related

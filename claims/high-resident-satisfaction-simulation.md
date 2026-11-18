@@ -67,3 +67,4 @@ Post-simulation reaction survey (Kirkpatrick level 1) completed anonymously by 2
 - [Medical students highly view blueprinted feedback reports, rating feedback as valuable](high-viewing-rates-blueprinted-feedback.md) — related
 - [Students rated the redesigned introductory physics course very positively, with increased interest in studying physics](intro-physics-survey-high-ratings-increased-interest.md) — related
 - [Most students in a redesigned project-based physics lab reported satisfaction with their team's project achievements](project-lab-majority-satisfaction.md) — related
+- [Students rated the lidyef2018 program highly on a 5-point evaluation survey, with an overall score of 4.09±0.77](lidyef2018-evaluation-survey-4-09.md) — related

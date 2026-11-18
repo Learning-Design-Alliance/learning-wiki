@@ -71,3 +71,4 @@ Technical-level item from the same evaluation: median 4 with IQR 0 on the six-po
 - [Most learners found the lesson duration 'just right', supporting microlearning as an appropriate educational strategy](lesson-duration-just-right-supports-microlearning.md) — related
 - [Extracurricular fluorescence modules left students enthusiastic but were experienced as difficult to follow](fluorescence-module-engaging-but-difficult.md) — related
 - [Most PHYS 170 students judge the course's mathematics and calculus level appropriate for their ability](phys170-math-level-judged-appropriate.md) — related
+- [Students evaluated the CPS experience positively, most appreciating group discussion and knowledge sharing](students-evaluate-cps-positively.md) — related

@@ -43,6 +43,7 @@ The article describes a tutor preparation approach implemented in "three closely
 - [Support curriculum implementation with initial multi-day training plus ongoing onsite consultation during the school year](training-plus-onsite-consultation-support.md)
 - [Provide structured multi-phase professional development with ongoing support for intervention teachers](wilson-structured-professional-development-strategy.md)
 - [Coach-led initial implementation followed by teacher phase transition](coach-phase-teacher-phase-transition.md)
+- [Three-phase CPS teacher-updating course: instruction, teacher-as-learner practice, and coached student testing](cps-teacher-updating-course-structure.md)
 
 ## Examples
 -

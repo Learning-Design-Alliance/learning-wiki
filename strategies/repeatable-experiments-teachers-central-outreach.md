@@ -49,6 +49,7 @@ In this strategy, visiting scientists run workshops in which classroom teachers 
 - [Keep the outreach experiment scientist-operated rather than automated so visitors can ask questions and meet a living experimenter](scientist-operated-outreach-demonstration.md)
 - [Balloon-and-bottle demonstration of Charles' law using hot and room-temperature water baths](balloon-bottle-charles-law-demonstration.md)
 - [Estimating absolute zero by measuring gas volume in a frictionless syringe at different temperatures and extrapolating to zero volume](syringe-extrapolation-absolute-zero.md)
+- [Signal that a live simulation is running and provide downloadable data for classroom activities](earth-like-simulation-signalling-and-csv-strategy.md)
 
 ## Examples
 -

@@ -48,6 +48,7 @@ The article recommends that before running discovery learning, teachers form gro
 - [Structure mutual learning teams with heterogeneous ability within teams and equality across teams](mutual-learning-heterogeneous-team-formation.md)
 - [Use concrete props and algebraic patterns to scaffold analogical skill in geometry discovery lessons](props-and-algebraic-patterns-analogy-scaffolding.md)
 - [Engage stronger students as informal tutors of weaker peers within a mixed-ability cohort](informal-tutoring-mixed-ability-strategy.md)
+- [Implement DGE activities within collaborative group learning with instructor facilitation](dge-collaborative-group-implementation-strategy.md)
 
 ## Examples
 -

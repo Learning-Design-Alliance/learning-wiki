@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 718 claims (388 show a difference, 168 mixed, 162 no difference) · 501 studies (262 associational, 173 causal, 21 review, 18 quant-synthesis, 13 design, 8 theoretical, 6 qualitative), `q1`–`q4` · 71 of 501 report an effect size · 710 claims rest on one study
+> **Evidence** · 728 claims (394 show a difference, 172 mixed, 162 no difference) · 506 studies (267 associational, 173 causal, 21 review, 18 quant-synthesis, 13 design, 8 theoretical, 6 qualitative), `q1`–`q4` · 72 of 506 report an effect size · 720 claims rest on one study
 
 ## How to read this page
 
@@ -757,6 +757,16 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Women represent only 12% of US innovators, and the average US-born male is nine times more likely to contribute to an innovation than the average female](../claims/us-women-innovators-twelve-percent.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Women rejected by an employer are 1.5 times less likely than men to apply to another job opening by the same employer](../claims/women-rejection-reapplication-gap.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Same-gender lab partnerships tend toward equitable, symmetric work patterns while mixed-gender partnerships break into inequitable archetypes](../claims/same-gender-groups-equitable-collaboration.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Among physics majors, men earn higher grades than women only in introductory physics courses, with small-to-medium effect sizes](../claims/gender-gap-only-introductory-physics-grades.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Higher-performing women in Honors Physics courses are switching out of the physics major](../claims/high-performing-women-leaving-physics-major.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [In every major except psychology, women who drop a major are more likely than men to earn a degree in another major, while men are more likely to leave without a degree](../claims/women-who-drop-earn-another-degree-men-leave-no-degree.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Major declaration is strongly gendered: around 80% of computer science and physics and astronomy majors are men, and 32% of men versus 11% of women declare an engineering major](../claims/gendered-major-declaration-engineering-cs-physics.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The FCI gender gap narrowed following instruction in these blended sections](../claims/fci-gender-gap-narrowed-blended-sections.md) [+M] — an instructional effect differs by group
+- [The gender gap in STEM GPA is much smaller than in overall GPA and vanishes for most groups except the most privileged students](../claims/stem-gpa-gender-gap-vanishes-except-privileged.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Women earn higher grades than men in foundational mathematics, engineering, and chemistry courses, while men earn higher grades only in the two introductory physics courses](../claims/grade-gender-differences-vary-by-discipline.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Women earn roughly 0.2 grade points higher overall GPA than men across all demographic groups](../claims/women-higher-overall-gpa-all-groups.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Women who drop STEM majors earn statistically significantly higher STEM GPAs than men who drop the same majors](../claims/women-drop-stem-majors-higher-gpa-than-men-who-drop.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Women who drop the first cluster of STEM majors earn significantly lower grades than men who persist, while women who drop the second cluster earn the same grades as men who persist](../claims/women-drop-cluster1-grades-midway-men-drop-persist.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

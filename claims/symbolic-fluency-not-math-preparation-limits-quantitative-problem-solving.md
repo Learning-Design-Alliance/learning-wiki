@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: weak
 newest_evidence: 2020
+source_checked: 2026-11-18
 sources:
   - id: colin-s-wallace-2020
     resource: "https://doi.org/10.1119/10.0000504"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A student may do well in calculus yet be unable to progress on the pressure integral if they lack the symbolic and representational fluency to interpret terms like collision rates, momentum changes, and solid angle elements. [→ Colin S. Wallace 2020](#colin-s-wallace-2020)

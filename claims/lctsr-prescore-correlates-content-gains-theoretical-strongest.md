@@ -74,3 +74,5 @@ Correlational analysis over two years of conceptual physics courses relating pre
 - [Pretest scores correlate positively with learning pace, but posttest scores show no such correlation, indicating slower students catch up when given more time and content](pretest-posttest-pace-correlation-equalization.md) — related
 - [Normalized gain g is positively biased in favor of populations with higher pretest scores](normalized-gain-biased-favoring-high-pretest-populations.md) — related
 - [The CURrENT pre-test (54.3%, N=298) is a meaningful indicator of incoming preparation, correlating with CUE post-test scores and prior GPA](current-pretest-indicates-preparation.md) — related
+- [Post-scores are independent of pre-scores while normalized gain is strongly pre-score dependent, and math-test scores predict post-scores better than the pre-test](pre-score-bias-and-math-predictor.md) — reports the opposite
+- [Response accuracy and response confidence are highly correlated on the score level in the TUG-K (r = 0.63)](tug-k-accuracy-confidence-correlated.md) — related

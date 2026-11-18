@@ -49,3 +49,4 @@ Content analysis of the interview question about difficulties while describing t
 - [Students most often attributed OrCheTaboo's contribution to retention in learning, followed by fun learning, association between concepts, and increased motivation](orchetaboo-perceived-contribution-categories.md) — related
 - [91% of experimental group students said OrCheTaboo helped them learn functional-group concepts](orchetaboo-students-report-learning-help.md) — related
 - [Academics attribute student difficulties chiefly to lack of work, insufficient mastery of mathematical tools, difficulty giving physical meaning to knowledge, and lack of curiosity](student-difficulties-perceived-by-physics-academics.md) — related
+- [Lack of prior knowledge about the astronomy topics worked in the course was the most-cited difficulty, reported by 44% of participants](lack-prior-astronomy-knowledge-main-difficulty.md) — related

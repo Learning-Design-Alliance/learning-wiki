@@ -144,3 +144,4 @@ Thirty-two undergraduates took part in eight computer-based "trialogues" about r
 - [Scenarios should challenge participants to experience failures and feelings of inadequacy to drive reflection and learning](failure-driven-scenarios-drive-reflection.md) — related
 - [Real-time correspondence between Modellus animations and model mathematics helped students resolve cognitive conflicts and difficulties in key concepts](modellus-real-time-correspondence-resolved-difficulties.md) — a narrower finding that bears on this claim
 - [The qualitative-prediction-and-consistency-check scaffold worked as intended for some students but not all](prediction-consistency-check-partial-success.md) — a narrower finding that bears on this claim
+- [The apparent failure of the QKD system during the hacking attempt creates cognitive conflict that the authors link to greater learning gains](cognitive-conflict-hacking-bb84.md) — a narrower finding that bears on this claim

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-18
 sources:
   - id: jayson-m-nissen-2016
     resource: "https://doi.org/10.48550/arXiv.1612.09188"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Combining the representative high school finding with the earlier single-course university finding indicates that most, if not all, physics instruction tends to harm female students' physics self-efficacy. [→ Jayson M. Nissen 2016](#jayson-m-nissen-2016)

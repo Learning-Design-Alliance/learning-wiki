@@ -47,3 +47,4 @@ Partial correlation matrix for dichotomous FCI item scores correcting for total 
 
 ## Related Claims
 - [A substantial part of the exploratory FCI factor structure results from problem blocks and pairs of similar questions rather than the structure of Newtonian mechanics](fci-factor-structure-blocks-and-repeated-items.md) — reports the opposite
+- [Item blocking in the FCI generates spurious response communities not grounded in shared reasoning](fci-item-blocking-generates-spurious-communities.md) — related

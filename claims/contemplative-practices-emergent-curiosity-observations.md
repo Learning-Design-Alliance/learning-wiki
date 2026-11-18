@@ -51,3 +51,6 @@ Theme from the qualitative coding of written reflections. Students posed questio
 - [A majority of students reported that the contemplative practices produced feelings of somatic relaxation and mental stillness](contemplative-practices-somatic-relaxation-mental-stillness.md) — related
 - [The lived experience of conversing with a pedagogical agent comprises five interdependent phenomenological themes](five-themes-conversing-pedagogical-agent.md) — related
 - [Pedagogy has evolved to include gaming, social interaction and play, and contemplative practices](pedagogy-evolved-new-methods.md) — related
+- [Participants most often cited that the course awakened curiosity (Despertar curiosidade, 56% of reports), with new methodologies and contribution to professional performance also prominent](curiosity-awakening-top-positive-point-astronomy-cpd.md) — related
+- [The contemplative practice awakened intrinsic motivation and curiosity about electromagnetic theory in many students](em-practice-curiosity-motivation.md) — related
+- [A contemplative practice of somatic meditation and contemplation deepened students' awareness of electromagnetic phenomena in their surroundings](somatic-meditation-em-awareness.md) — related

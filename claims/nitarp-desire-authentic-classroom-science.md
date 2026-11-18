@@ -50,3 +50,4 @@ Self-report survey theme on getting better science into classrooms; Table I list
 - [At least 12% of NITARP educators report substantially changing career paths in part due to the program, and 14% call the experience life changing](nitarp-career-change-life-changing.md) — related
 - [Teamwork and collaboration emerge as a powerful, previously unanticipated outcome of the NITARP research experience](nitarp-teamwork-powerful-motivator.md) — related
 - [NITARP educators' self-described motivations span a whole inward-to-outward range and shift along the continuum during the program year](educators-shift-inward-outward-motivation-continuum.md) — related
+- [60% of surveyed students had previously performed some experimental activity, while 40% had not](60-percent-students-performed-some-experimental-activity.md) — related

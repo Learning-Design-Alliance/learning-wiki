@@ -49,3 +49,4 @@ Template analysis of semi-structured interviews with 12 purposively sampled clin
 - [Fifty-one percent of surveyed postgraduate clinical teachers belong to a teacher-centered (transmission) cluster, with three distinct teacher profiles identified](three-teacher-clusters-transmission-majority.md) — related
 - [Lecturing, demonstrating and intervening align with a teaching-as-transmission perspective focused on the teacher's own knowledge and acting](lecturing-demonstrating-intervening-transmission.md) — related
 - [Five distinct faculty personas emerged from interviews about physics assessment practices](personas-five-physics-faculty-archetypes.md) — related
+- [Lab TAs' written reflections shifted from a traditional transmission model of education toward a student-centered view of learning across the professional development program](ta-reflections-shift-from-transmission-to-student-centered.md) — related

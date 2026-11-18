@@ -13,7 +13,7 @@ generated:
 # Digital Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 95 claims (69 show a difference, 13 mixed, 13 no difference) · 74 studies (23 associational, 16 causal, 10 review, 9 qualitative, 7 design, 5 theoretical, 4 quant-synthesis), `q1`–`q4` · 11 of 74 report an effect size · 93 claims rest on one study
+> **Evidence** · 97 claims (71 show a difference, 13 mixed, 13 no difference) · 75 studies (23 associational, 16 causal, 10 review, 10 qualitative, 7 design, 5 theoretical, 4 quant-synthesis), `q1`–`q4` · 11 of 75 report an effect size · 95 claims rest on one study
 
 ## Description
 Whether a learner can *operate* the interface — distinct from [access](access.md), which is whether they can load it at all. It covers navigation, file handling, knowing what is clickable, and the confidence to explore without fear of breaking something. Every course here is delivered digitally, so this is never out of scope, and it is the dimension most often assumed away: a designer fluent in the interface cannot see it.
@@ -129,6 +129,8 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [A short-term Lego Mindstorms EV3 summer camp improved elementary students' computational thinking and programming skills, with 6 of 9 students showing substantial improvement](../claims/ev3-camp-improves-ct-programming-skills.md) [+M] — measured as an outcome of the instruction studied
 - [Arithmetic and algebra fundamentals must be over-learned to automaticity for well-structured science problem solving, and calculator-free computational fluency predicts general chemistry success](../claims/computation-automaticity-overlearning-required-science-problem-solving.md) [+M] — learners who differ on it differ in outcomes
 - [Computation skills declined after state standards and textbooks de-emphasized memorization and practice in computational problem solving](../claims/k12-standards-deemphasizing-computation-preceded-skill-decline.md) [+M] — measured as an outcome of the instruction studied
+- [Students displayed cognitive computational literacy practices: modeling, visualization of abstract phenomena, and repeated simulation runs across parameter values](../claims/students-cognitive-computational-literacy-practices-visualization-iteration.md) [+M] — measured as an outcome of the instruction studied
+- [Undergraduate physics students in a computational essay project demonstrated material computational literacy practices including debugging, tinkering, and algorithmic thinking](../claims/students-demonstrate-material-computational-literacy-practices.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do learners who differ in digital literacy differ in learning, engagement and later outcomes?* [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](../claims/digital-literacy-gaps-span-demographics.md) [+M]

@@ -48,3 +48,4 @@ Instructor observation supported by open-ended student feedback: the act of gami
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — a broader claim this one bears on
 - [A majority of students rated the gamified courses enjoyable or very enjoyable, with some reporting reduced school-related stress compared with non-gamified classes](gamified-courses-majority-enjoyable-stress-relief.md) — related
 - [The authors report that prior knowledge has a positive impact on acquiring new information and that motivation appears to facilitate this association](prior-knowledge-motivation-facilitate-new-learning.md) — related
+- [Gamifying the overtaking task engaged almost all learners, including those initially uninterested](gamification-overtaking-engagement.md) — a narrower finding that bears on this claim

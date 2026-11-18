@@ -53,6 +53,7 @@ The 4P4CT (Four Pedagogies for CT) framework is a conceptual framework for teach
 
 - [Incorporate CT skills into all teacher preparation programs, for all subject matters, with iterative guidance for non-STEM teachers](../strategies/ct-in-all-teacher-preparation-programs.md)
 - [Integrate computational thinking into PreK-8 core subject matter rather than relying on stand-alone clubs and classes](../strategies/prek-8-ct-integration-over-stand-alone.md)
+- [Apply informatics (digital skills, programming, data science) in physics to increase motivation and practical use of knowledge](../strategies/applied-informatics-in-physics-strategy.md)
 
 ## Key Sources
 - Ragonis, N., & Hazzan, O. (2026). Computational Thinking Across Disciplines: A Taxonomy of Pedagogical Approaches as Reflected in Prospective Teachers’ Simulations of Computational Processes. Informatics in Education, 25(1), 173–199. https://doi.org/10.15388/infedu.2506.019

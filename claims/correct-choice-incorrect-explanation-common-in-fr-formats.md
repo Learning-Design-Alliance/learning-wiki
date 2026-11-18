@@ -52,3 +52,4 @@ Results section, Problem A numerical analysis for the calculus-based course acro
 - [Students perceive show-your-work and short-answer formats as giving instructors the most information about their understanding (95%), though they find them harder than MC](students-perceive-written-formats-most-informative.md) — related
 - [A common student difficulty is the incorrect idea that errors occur every time Eve chooses the wrong basis](errors-every-wrong-basis-misconception.md) — related
 - [Even students who choose the wrong answer on a multiple-choice physics question can generate the correct explanation when prompted for alternatives](wrong-answer-students-generate-correct-explanations.md) — related
+- [Fewer than half of participants answered even the most standard EMI questions correctly with sufficient explanations, with correct-plus-explained rates falling to 4–6% on non-standard questions](emi-low-correct-explanation-percentages.md) — related

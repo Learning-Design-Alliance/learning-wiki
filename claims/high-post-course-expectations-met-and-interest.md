@@ -48,3 +48,4 @@ Post-course retrospective 1–5 scale questions on met expectations (answered by
 - [Post-instruction interviews confirmed students read the blog more than they commented, citing time constraints, and reported interest rose most when material applied to aviation](interviews-read-more-than-commented-aviation-relevance.md) — related
 - [Participants reported high satisfaction with the progressive laparoscopic program, with 80% strongly agreeing it stimulated learning interest and 64% stating it exceeded expectations](laparoscopic-program-high-satisfaction-interest.md) — related
 - [A substantial fraction of students reported increased interest in physics and ability to connect physics to their life science majors and careers](life-science-examples-increase-interest-and-relevance.md) — related
+- [Fast 30% of minor-subject students reported having had no interest in physics before beginning their studies](minor-subject-students-no-physics-interest.md) — related

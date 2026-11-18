@@ -49,3 +49,4 @@ ANOVA on Study 1 data (153 students after exclusions; 70 game, 83 non-game) comp
 - [Male participants were almost twice as likely as females to be engaged in gaming](males-twice-likely-gaming-engagement.md) — related
 - [Gaming the system is significantly negatively correlated with test performance in the digital learning game](gaming-negative-correlation-test-performance.md) — related
 - [Automated gaming-the-system detectors built with XGBoost reliably recognize gaming in both problem-solving and self-explanation steps](xgboost-gaming-detectors-decimal-point.md) — related
+- [Gender differences in CPS step performance: females better at focusing and describing, males at planning and executing](cps-gender-differences-steps.md) — related

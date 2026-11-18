@@ -47,3 +47,4 @@ End-of-course focus groups found role-playing positively valued, especially its 
 ## Related Claims
 - [Role play in CST is reported to increase empathy and provide safe practice, but students note artificiality and poor acting authenticity](role-play-benefits-and-artificiality-cst.md) — related
 - [Clinical educators propose simulated patients in scenarios informed by real patient experiences as a way to prepare students for complex, unpredictable patient encounters.](sp-scenarios-complex-unpredictable-encounters.md) — related
+- [Teachers rated the CPS approach and its components positively after a professional-development course](teachers-rate-cps-positively.md) — related

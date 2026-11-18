@@ -13,7 +13,7 @@ generated:
 # Distributed Cognition
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 53 claims (29 for, 23 mixed, 1 against) · 47 studies (13 theoretical, 11 review, 10 causal, 6 qualitative, 4 design, 2 associational, 1 quant-synthesis), `q1`–`q4` · 6 of 47 report an effect size · 48 claims rest on one study
+> **Evidence** · 54 claims (30 for, 23 mixed, 1 against) · 48 studies (13 theoretical, 11 review, 10 causal, 7 qualitative, 4 design, 2 associational, 1 quant-synthesis), `q1`–`q4` · 6 of 48 report an effect size · 49 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,7 @@ Linked since the conversion and read against the model on 2026-10-19, relevant b
 - [Presentation technologies such as paper posters and PowerPoint mediate the sharing of ways of seeing in design studio critique sessions](../claims/presentation-technologies-mediate-ways-of-seeing.md) [+W] — read 2026-10-19: conversation analysis of architecture studio critiques; the medium of a shared display shapes what a group comes to see together, which supports treating the representation as a design choice but gives no rule for choosing one.
 - [Joint attention is a group phenomenon not reducible to either individual's mental representations](../claims/joint-attention-group-phenomenon.md) [+W] — read 2026-10-19: a theoretical argument in an editorial; bears on the theory page more than on any design step here.
 - [ASSISTments exercise sharing supported over 10 external collaborations, 16 students designing experiments in teams, and remote multi-disciplinary studies without face-to-face meetings](../claims/assistments-collaborative-work-external-collaborations.md) [+W] — attached 2026-11-17 from Joseph Jay Williams et al. (2015), which proposed "Design platforms to support Collaborative Work: remote, asynchronous collaboration by diverse people on the same educational resource".
+- [Students build new meaning onto durable representations using evanescent representations during problem solving](../claims/students-build-meaning-on-durable-representations-with-evanescent.md) [+W] — attached 2026-11-18 from Nandana Weliweriya et al. (2017), which proposed "Support students in building durable representations they can stand fast on before translating to further representations".
 
 ## Objective and learner-valued goal
 

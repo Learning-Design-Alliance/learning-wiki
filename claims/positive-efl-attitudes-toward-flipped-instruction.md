@@ -48,3 +48,4 @@ Frequency analysis of a 22-item Likert questionnaire (adapted from Elfatah and A
 - [Treatment-group pre-service teachers held positive attitudes toward peer instruction, with questionnaire item means ranging from 3.4000 to 4.5500](positive-attitudes-toward-peer-instruction-treatment-group.md) — related
 - [Iraqi EFL learners held predominantly positive attitudes toward flipped classroom instruction](positive-learner-attitudes-fci-iraq.md) — related
 - [Kuwaiti pre-service teachers held favourable perceptions of flipped learning, with over 90% agreement on six questionnaire items](positive-student-perceptions-flipped-learning.md) — related
+- [Pre-service English language teachers report generally positive perceptions of a flipped statistics classroom](flipped-classroom-positive-perceptions-pre-service-english-teachers.md) — related

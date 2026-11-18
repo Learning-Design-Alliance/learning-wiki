@@ -50,3 +50,7 @@ Bootstrapped correlation-matrix community detection applied to incorrect FCI res
 - [FCI incorrect-answer communities divide into two classes: those from consistently applied incorrect reasoning (misconceptions) and those from the blocked structure of items sharing a common stem](fci-incorrect-communities-blocking-versus-misconceptions.md) — related
 - [Relaxing sparsification thresholds did not merge FCI misconceptions into a coherent non-Newtonian framework; they appear to exist relatively independently as small groups of consistent answers](fci-misconceptions-independent-small-groups.md) — related
 - [Post-test prevalence of common incorrect-answer communities was very similar for men and women, with only the circular impetus community {6A, 7A} showing a difference beyond the overall score gap (d = 0.39)](circular-impetus-community-gender-difference-posttest.md) — related
+- [Most correct communities were detected post-instruction rather than pretest](correct-communities-emerge-post-instruction.md) — related
+- [Item blocking in the FCI generates spurious response communities not grounded in shared reasoning](fci-item-blocking-generates-spurious-communities.md) — related
+- [MMA identifies fewer but substantially larger misconception communities on the FMCE than on the FCI, while the FCI covers a broader set of misconceptions](fmce-versus-fci-community-comparison.md) — related
+- [MMA-P recovers incorrect communities similar to MMA while also identifying correct and mixed communities](mma-p-recovers-incorrect-communities-similar-to-mma.md) — related

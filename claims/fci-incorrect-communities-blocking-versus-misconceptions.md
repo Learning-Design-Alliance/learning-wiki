@@ -50,3 +50,4 @@ Identification of blocked-problem communities; the article reports that in {8A, 
 - [MAMCR fails to replicate for large FCI samples: Infomap with LANS sparsification consistently identified only one large community of incorrect answers](mamcr-fails-large-fci-samples.md) — related
 - [Relaxing sparsification thresholds did not merge FCI misconceptions into a coherent non-Newtonian framework; they appear to exist relatively independently as small groups of consistent answers](fci-misconceptions-independent-small-groups.md) — related
 - [Modified Module Analysis identified 9 groups of incorrect FCI answers on the pretest and 11 on the post-test, in most cases mappable to common misconceptions](mma-identifies-incorrect-answer-groups.md) — related
+- [Item blocking in the FCI generates spurious response communities not grounded in shared reasoning](fci-item-blocking-generates-spurious-communities.md) — a broader claim this one bears on

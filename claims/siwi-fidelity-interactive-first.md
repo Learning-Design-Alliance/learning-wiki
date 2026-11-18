@@ -68,3 +68,4 @@ The article cites a previous study of the 3-year SIWI professional development p
 - [SIWI improved discourse-level writing traits in both personal narrative and persuasive genres among grade 3-5 d/hh students](siwi-writing-trait-gains-elementary-dhh.md) — related
 - [SIWI improved written language accuracy and complexity outcomes, especially for personal narrative writing](siwi-written-language-gains-elementary-dhh.md) — related
 - [Teachers actively synthesize professional-development practices with their own context rather than transferring them intact](teachers-synthesize-pd-practices-with-context-not-just-transfer-them.md) — related
+- [Research in the teaching-method-centered paradigm does not support its premises that using more named methods, or implementing them faithfully, is more effective](method-centered-paradigm-premises-lack-research-support.md) — related

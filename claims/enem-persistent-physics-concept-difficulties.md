@@ -56,3 +56,4 @@ Observational analysis of thirteen ENEM Natural Sciences questions from 2009–2
 - [Percent correct on ENEM 2009 Natural Sciences items is almost always low and nearly identical for concluintes and all participants](enem-2009-low-correct-concluintes-similar.md) — a broader claim this one bears on
 - [Newton's laws, conservation of energy, and geometrical optics are the three physics concepts that are simultaneously pivotal, present in all four examined state standards, and particularly difficult to learn](three-pivotal-physics-concepts-standards.md) — related
 - [ENEM 2009-2011 Physics content distribution privileges electromagnetism, waves and thermal physics over mechanics](enem-physics-content-distribution-skewed.md) — related
+- [Students who attended a physics education course and built an EMI didactical path show nearly no difficulties with motional electromotive force](emi-physics-education-course-motional-emf.md) — related

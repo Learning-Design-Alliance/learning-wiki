@@ -50,3 +50,4 @@ Questionnaire measures of perceptions of effective teachers and attitudes toward
 - [Attitude toward science and self-belief show no significant change in either condition](no-change-attitude-self-belief.md) — related
 - [After an SDT-driven redesign of a two-day teacher workshop (one cohort of 26, no control group), self-reported AI-TPACK (d = 0.70), IPACK (d = 0.86) and AI attitude (d = 0.58) rose significantly from pre to post](sdt-driven-redesign-capacity-willingness-gains.md) — related
 - [Teacher satisfaction with SBI did not differ significantly between experienced and novice implementer cohorts](sbi-teacher-satisfaction-no-difference.md) — related
+- [Participants' attitudes toward computer science did not significantly change over the 2019 BPDM workshop](bpdm-2019-attitudes-no-change.md) — related

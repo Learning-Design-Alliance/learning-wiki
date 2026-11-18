@@ -21,6 +21,7 @@ An Android application developed to control a γstream digital multichannel anal
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **NaI(Tl) scintillation detector with GammaTOUCH Android app over Bluetooth client-server system**: The core instrumentation for both experiments is a 4” × 4” thallium-activated sodium iodide scintillator with a digital MultiChannel Analyzer (γstream by CAEN), chosen because it is "a relatively accessible and affordable instrument" with high detection efficiency that works at room temperature. The γstream is operated via the GammaTOUCH Android app, "which uses the Bluetooth communication protocol", letting students set operating voltage, specify acquisition time, start measurements, and visualize spectra on a tablet or smartphone. (Albéri et al. (2019))
+- **Radioactivity app using a pin-diode as a low-cost GM counter**: The radioactivity app detects beta and gamma particles as electrical signals via a pin-diode inserted into the microphone/headphone jack, processing them into count per minute and count per second against time graphs. Students observe the random nature of radiation, compare penetration power of materials, study activity versus distance, and use multiple phones to observe magnetic deflection of beta particles. (Leong et al. (2019))
 
 ### Claims
 
@@ -29,3 +30,4 @@ An Android application developed to control a γstream digital multichannel anal
 
 ## Key Sources
 - Albéri, M.; Baldoncini, M.; Bottardi, C.; Chiarelli, E.; Landsberger, S.; Raptis, K.G.C.; Serafini, A.; Strati, V.; Mantovani, F. (2019). Training Future Engineers to Be Ghostbusters: Hunting for the Spectral Environmental Radioactivity. http://www.fe.infn.it/radioactivity/educational
+- Leong, T. K., Wee, L. K., García-Clemente, F. J., & Esquembre, F. (2019). Promoting the Joy of Learning by Turning a Smartphone into Scientific Equipment. GIREP-ICPE-EPEC-MPTL conference, Budapest. https://www.um.es/fem/EjsWiki/

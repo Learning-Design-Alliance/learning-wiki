@@ -52,3 +52,4 @@ Cross-intervention synthesis of the scaling (Figure 7), GRPO post-training (Figu
 - [LittleLearner's capabilities tightly track its controlled exposure: strong on in-scope tasks, degrading beyond the K-5 boundary](littlelearner-capabilities-track-controlled-exposure.md) — a narrower finding that bears on this claim
 - [Scaling model size improves performance within K-5 and at the boundary but does not recover Beyond-K-5 performance](scaling-helps-in-scope-not-beyond-k5.md) — a narrower finding that bears on this claim
 - [The multi-stage filtering pipeline reduces Beyond-K-5 retention to near zero while preserving a minority of K-5 content](k5-filter-pipeline-near-zero-beyond-k5-retention.md) — related
+- [After filtering, the MUTLA video data contain 2170 question segments, with 61.54% having valid face tracking for at least 50% of frames and 18.30% fully tracked](mutla-2170-segments-valid-tracking-percentages.md) — related

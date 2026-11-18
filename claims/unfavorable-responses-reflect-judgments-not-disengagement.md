@@ -50,3 +50,4 @@ This is the authors' interpretation (discussion of Interview 1 and 2 case data) 
 - [Two-category distinctions between describing the real world and caring about everyday physics are insufficient for life-science students' connections](two-category-distinction-insufficient.md) — a broader claim this one bears on
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Hands-on laboratory activities were appreciated by vocational students but did not suffice when physics was perceived as useless for their professional training](hands-on-appreciated-insufficient-when-topic-perceived-useless.md) — related
+- [Students valued the open-ended generative task for connecting physics to real contexts but reported unfamiliarity with making assumptions](student-perceptions-of-generative-task.md) — related

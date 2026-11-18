@@ -51,3 +51,4 @@ Institutional data from the matched-pairs data set (n = 698) tracking enrollment
 - [CoC participants persisted into and performed better in subsequent biology courses, especially students with low and medium preparedness](coc-improves-persistence-future-courses.md) — related
 - [A utility-value writing intervention increases continuation to the second course of the biology sequence](uv-intervention-increases-sequence-continuation.md) — related
 - [Exploring Biology students passed the second semester of introductory biology more often than comparison students](exploring-biology-second-semester-passing.md) — related
+- [A course-based data science research experience in a first-semester introductory course can be completed by all enrolled students with no course attrition](cures-first-semester-no-attrition.md) — related

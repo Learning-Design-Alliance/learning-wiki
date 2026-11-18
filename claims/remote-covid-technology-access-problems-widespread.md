@@ -165,3 +165,5 @@ Structured-response survey item on hardware/software problem frequency; ten perc
 - [Poor internet connectivity and device incompatibility limited access to online courses for students in developing countries during COVID-19](poor-connectivity-blocked-online-access-developing-countries.md) — related
 - [Universities in developing countries lacked the financial resources and technical infrastructure to purchase and operate e-learning platforms during COVID-19](universities-lacked-finance-infrastructure-e-learning.md) — related
 - [A non-negligible proportion of students experienced technical difficulties with online access to the virtual reality platform](technical-difficulties-online-vr-access.md) — related
+- [Students reported negative experiences when the flipped classroom lacked adequate infrastructure such as internet connection](flipped-classroom-internet-infrastructure-difficulty.md) — related
+- [Students reported negative DGE experiences: technical issues, difficulty typing mathematical equations, and gaps in prerequisite knowledge](negative-dge-experiences-technical-prerequisite.md) — related

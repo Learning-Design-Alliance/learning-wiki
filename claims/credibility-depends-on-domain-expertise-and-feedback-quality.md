@@ -53,3 +53,4 @@ Thematic analysis of the four trainee focus groups. Some trainees saw the assess
 - [Trainees desired strategies for improvement and coaching rather than mere assessment of performance](trainees-desire-coaching-not-scoring.md) — related
 - [Surgical trainees more often questioned the feedback and practicality of cross-specialty assessment than found it motivating](trainees-question-cross-specialty-assessment-value.md) — related
 - [Students found peer feedback more honest, constructive and easier to receive than lecturer feedback, though some questioned same-level peers' credibility](peer-feedback-honest-constructive-credibility-caution.md) — related
+- [Students expressed negative attitudes toward the fairness and credibility of peer grading and found the number-of-errors grading strategy inflexible](peer-grading-credibility-fairness-skepticism.md) — related

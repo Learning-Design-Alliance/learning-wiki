@@ -30,6 +30,10 @@ Learner choice is the element in which learners are given meaningful options abo
 - [Meaningful choice about learning tasks increases interest, but only under boundary conditions](../claims/meaningful-choice-increases-interest-limited.md) [~W]
 - [Nearly all reviewed serious games include game mechanics providing freedom of gameplay, most commonly choice options, interactive elements, and free exploration](../claims/freedom-of-gameplay-mechanics-common.md) [+W]
 
+## Examples
+
+- [Advertise the existence of secret objectives and challenge students to find them, then let students direct the investigation](../strategies/advertise-secret-objectives-challenge-strategy.md)
+
 ## Related Elements
 - [Personalized Pacing](personalized-pacing.md)
 - [Self-Assessment](self-assessment.md)

@@ -51,3 +51,5 @@ HLM interaction analysis of 4,365 students in 93 courses from the LASSO platform
 - [On the Conceptual Survey of Electricity and Magnetism, LA-supported courses show no significant learning gap (no no-LA CSEM data available)](csem-no-significant-learning-gap-las.md) — reports the opposite
 - [In a multiple linear regression of LA-supported courses, non-dominant status predicts effect sizes 0.262 higher than dominant peers, and the FMCE predicts effect sizes 0.2 lower than the FCI](regression-non-dominant-fmce-coefficients.md) — reports the opposite
 - [Interactive engagement teaching methods show both increases and decreases in the gender gap from pre- to posttest, so they do not reliably reduce it](interactive-engagement-not-reliably-reduce-gap.md) — related
+- [First-generation students had smaller predicted DFW-rate decreases from LA support than continuing-generation peers](fg-students-smaller-dfw-decreases.md) — related
+- [LA-supported courses reduced but did not eliminate demographic inequities in DFW rates, so equality of outcomes was not achieved](la-courses-no-equality-of-outcomes.md) — reports the opposite

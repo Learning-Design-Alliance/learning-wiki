@@ -55,3 +55,4 @@ Inductive content analysis of the 10 interviews identified drawback themes: slow
 - [Iraqi EFL learners held predominantly positive attitudes toward flipped classroom instruction](positive-learner-attitudes-fci-iraq.md) — related
 - [Flipped classrooms depend on student participation and home technology access, limiting applicability](flipped-classroom-participation-and-access-barriers.md) — a broader claim this one bears on
 - [Technical problems with computers and networks are a downside of e-learning implementation](technical-problems-downside-elearning.md) — related
+- [Students reported negative experiences when the flipped classroom lacked adequate infrastructure such as internet connection](flipped-classroom-internet-infrastructure-difficulty.md) — possibly the same claim (merge candidate)

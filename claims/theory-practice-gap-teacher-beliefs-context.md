@@ -67,3 +67,4 @@ The review attributes this school-composition finding to Brault et al. (2014) an
 ## Related Claims
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — related
 - [The teacher behaviours most predictive of engagement change do not neatly fit within any single motivational theory, supporting theoretical integration](cross-theoretical-71-teacher-behaviors-predict-engagement.md) — related
+- [How Learning Works teaching principles and Self-Determination Theory needs characterize physics faculty's productive teaching ideas and motivations](hlw-sdt-characterize-faculty-teaching-ideas.md) — related

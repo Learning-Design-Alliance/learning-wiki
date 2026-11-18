@@ -55,3 +55,4 @@ This is the authors' concluding interpretation from their case study of three in
 - [Students and faculty value real-world examples in gateway math, but limited resources and training often lead to procedural instruction](real-world-relevance-gateway-math-procedural-instruction.md) — related
 - [Two-category distinctions between describing the real world and caring about everyday physics are insufficient for life-science students' connections](two-category-distinction-insufficient.md) — a broader claim this one bears on
 - [A wound-healing classroom activity that intersected a student's lived experience became a recurring, self-reported touchpoint for physics relevance](wound-healing-activity-lived-experience-relevance.md) — related
+- [Students valued the open-ended generative task for connecting physics to real contexts but reported unfamiliarity with making assumptions](student-perceptions-of-generative-task.md) — related

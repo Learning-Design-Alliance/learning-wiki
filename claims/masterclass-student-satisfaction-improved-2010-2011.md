@@ -48,3 +48,4 @@ QuarkNet's survey compared U.S. Masterclass students' 2011 and 2010 satisfaction
 ## Related Claims
 - [The LPC at Fermilab contributed directly to a third of CMS's first over 100 publications and supports 14 fellows as emerging analysis leaders](lpc-contribution-third-of-cms-publications.md) — related
 - [Mixing ATLAS and CMS masterclass institutes in the same videoconference confused students, who did not understand the other experiment's terminology and could lose interest](mixing-atlas-cms-institutes-videoconference-confusion.md) — related
+- [In the ATLAS data-analysis exercise most students identified 7 of 10 W-particle tracks, and a follow-up test averaged 10.7 out of 12](lidyef2018-atlas-data-analysis-outcomes.md) — related

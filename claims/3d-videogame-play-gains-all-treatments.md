@@ -67,3 +67,6 @@ The conclusions contrast this study's pattern with Smith et al.'s electrostatics
 - [Among students who rarely play video games, VR gains were lower than the other treatments but not significantly so](vr-lower-gains-rare-gamers-nonsignificant.md) — related
 - [Among students reporting regular video game play, VR produced significantly higher gains on dipole question pairs than video (d = 0.30) and static images (d = 0.42)](vr-gains-advantage-frequent-gamers.md) — related
 - [Students using stereoscopic VR did not significantly outperform students using WebGL simulations or static 2D images on 3D magnetostatics items](vr-no-outperform-webgl-images-magnetostatics.md) — related
+- [Classifying gamers by whether they primarily play 3D versus 2D games made no difference to the results](game-type-3d-classification-no-effect.md) — reports the opposite
+- [Gaming experience correlates with higher scores on 3D electrostatics assessments, including on the pretest given before instruction](gaming-experience-correlates-electrostatics-scores.md) — related
+- [The interaction between preliminary VR training and prior gaming experience was not statistically significant, and untrained gamers showed negative gains](gaming-training-interaction-not-significant.md) — related

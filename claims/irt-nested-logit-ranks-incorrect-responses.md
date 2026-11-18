@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-11-18
 recheck_by: 2023
 sources:
   - id: trevor-i-smith-2020
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
+> **Currency** · newest study 2020 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Applying the 2PL-NRM nested logit model to N = 12,388 FMCE response sets gives every incorrect response choice a unique ak value, allowing incorrect responses to be ranked within each question. [→ Trevor I. Smith 2020](#trevor-i-smith-2020)
@@ -50,3 +51,4 @@ Secondary analysis of combined FMCE response sets from four colleges and PhysPor
 - [On FMCE question 19, the best incorrect answer is a constant positive force graph, and claiming zero force is needed to speed up an object ranks better than choosing a changing-force graph](fmce-q19-incorrect-response-ranking.md) — related
 - [Hedges' g thresholds classify ak parameter comparisons: g < 0.5 means responses are equally correct, g ≥ 1.3 means they represent different levels of understanding, and values between are inconclusive](hedges-g-thresholds-ak-comparisons.md) — related
 - [Students with above-average latent understanding (theta > 0) are more likely to choose both the correct response and the highest-ranked incorrect response on FMCE questions 14, 18, and 19](high-theta-students-choose-better-incorrect-responses.md) — related
+- [On any given FMCE item, roughly a fifth of students switch answers between the two courses, while the majority (82.4% on average) give consistent responses](fmce-item-level-answer-consistency.md) — related

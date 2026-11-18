@@ -54,6 +54,7 @@ The authors recommend that "transition curricula may benefit from differentiated
 - [Tailor infectious-disease training programs to trainees' sex, education level, professional background, and prior experience](tailor-training-to-trainee-characteristics.md)
 - [Differentiate the training program by surgeon experience level: synthetic exercises for young residents, biological exercises for senior groups](tes-experience-tiered-exercise-allocation.md)
 - [Adapt simulation session length and content to learner experience level, and emphasize maintenance training for low-frequency procedures](adapt-sim-session-to-experience-and-maintain.md)
+- [Extend hands-on and computer-application session durations and provide replication guidelines when organizing similar frontier-physics schools](lidyef2018-session-duration-and-replication-strategy.md)
 
 ## Examples
 -

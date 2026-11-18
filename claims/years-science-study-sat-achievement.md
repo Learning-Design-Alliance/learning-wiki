@@ -70,3 +70,4 @@ The report cites Bridgeman and Wendler (2005) for the pattern that "Smaller prop
 - [Most CTE students also participated in college-level coursework, though CTE students had slightly lower AP participation](cte-students-college-coursework-participation.md) — related
 - [The evidence base for offering a college-ready curriculum is rated low, with mixed findings on rigorous curricula and positive findings on AP course taking](college-ready-curriculum-low-evidence.md) — related
 - [HSE exam takers completed fewer years of school and were more likely to be lunch-eligible and to identify as Black or Hispanic than non-exam takers](nj-hse-takers-differ-from-nontakers.md) — related
+- [A physics diagnostic test used alongside the college entrance exam is reported as a relevant approach for qualifying astronomy students](physics-diagnostic-test-qualify-astronomy-students.md) — related

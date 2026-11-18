@@ -65,3 +65,5 @@ MPEX-II survey administered in Fall 2008 to about 600 students in two CLASP A co
 - [Introductory physics and astronomy students achieve comparable FCI conceptual gains on force concepts, despite differing attitudes](fci-conceptual-gains-comparable.md) — related
 - [Standard physics courses often have a negative impact on students' attitudes and beliefs, leaving students' beliefs less expertlike after a course](standard-courses-negative-belief-shifts.md) — related
 - [Traditional introductory laboratory courses showed small decreases in expert-like attitudes about experimental physics from pre to post instruction](traditional-labs-e-class-decreases.md) — related
+- [Pre/post E-CLASS scores showed a small decrease in expert-like responses and no statistically significant pre-post differences in a partially reformed lab course](e-class-pre-post-no-significant-change-mixed-labs.md) — related
+- [Average nature-of-science E-CLASS score decreased slightly from 0.66 to 0.63 despite the course aiming to teach the role of experimentation](nature-of-science-e-class-decrease-066-063.md) — related

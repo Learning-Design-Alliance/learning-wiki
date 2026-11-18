@@ -54,6 +54,7 @@ The article's recommendations section advises instructors to "consider using the
 - [Adopt flexible, competency-based attendance policies and flipped classrooms for senior medical students](flexible-attendance-flipped-classroom-senior-students.md)
 - [Invest in high-quality prescripted vodcasts and consider combining vodcasts with live teaching (e.g., flipped classroom)](high-quality-vodcasts-flipped-combination.md)
 - [Seven-type recommendation sets from students and instructors for promoting e-learning success in online EFL classes](seven-type-ereadiness-recommendations-online-efl.md)
+- [Support inexperienced and low-achiever students and structure problem posing with innovative strategies and technologies](support-and-structure-problem-posing-strategy.md)
 
 ## Examples
 -

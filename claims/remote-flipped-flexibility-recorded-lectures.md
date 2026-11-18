@@ -54,3 +54,4 @@ Focus group study of 20 Bachelor of Pharmacy students in 8 groups over 2 rounds;
 - [Prolonged remote flipped learning produced initial disorientation, then fatigue, isolation, and a desire to return to campus](prolonged-remote-learning-fatigue-isolation.md) — related
 - [Students perceived advantages of e-learning for quality of educational life, including flexibility, economic savings, time savings and improved didactic continuity through recorded content](elearning-advantages-flexibility-savings-didactic-continuity.md) — related
 - [A 2012 video-based flipped classroom in which students watched recorded lectures left students feeling unsupported and produced lower satisfaction despite better marks than 2010](video-flipped-classroom-unsupported-students.md) — related
+- [Students perceived peer instruction and group discussion as motivating and helpful in the flipped statistics class](flipped-peer-instruction-group-discussion-perceived-positive.md) — related

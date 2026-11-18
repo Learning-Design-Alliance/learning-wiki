@@ -71,3 +71,4 @@ Same 2009 questionnaire responses: alongside positive reactions, "students also 
 - [Real-time correspondence between Modellus animations and model mathematics helped students resolve cognitive conflicts and difficulties in key concepts](modellus-real-time-correspondence-resolved-difficulties.md) — related
 - [Modelling with Modellus helped students distinguish and correctly interpret multiple representations such as trajectories versus coordinate graphs](modellus-multiple-representations-interpretation.md) — related
 - [Students experienced difficulty starting fieldwork due to the ambiguous nature of ill-structured problems, team-balance frustration, and felt 8 weeks were not enough](pf-course-reported-difficulties-ambiguity-team-balance-duration.md) — related
+- [Most students reacted positively to the VR experience and felt it contributed to their learning](vr-positive-student-reactions.md) — related

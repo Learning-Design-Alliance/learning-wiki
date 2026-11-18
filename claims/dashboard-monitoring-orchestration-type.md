@@ -56,3 +56,4 @@ Qualitative case analysis of lesson recordings and teacher tablet screen capture
 - [Teacher interviews identified five types of monitored information and, via the Kano method, four highest-priority dashboard indicators for CSCL monitoring](teacher-interviews-prioritize-dashboard-indicators.md) — related
 - [Dashboard support type did not influence detection of CSCL events but did influence teachers' interpretation of the situation](dashboard-support-type-affects-interpretation-not-detection.md) — related
 - [AI tools positively affected student engagement and enabled real-time lesson adjustments based on student feedback](ai-tools-boost-engagement-real-time-adjustment.md) — related
+- [A Learning Analytics-Moodle extension monitors and records EjsS simulation interactions in real time and displays an individual on-task metric and current simulation state on an instructor dashboard](ejss-moodle-real-time-interaction-monitoring.md) — related

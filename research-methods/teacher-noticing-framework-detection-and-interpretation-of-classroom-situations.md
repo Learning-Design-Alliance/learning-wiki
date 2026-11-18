@@ -12,7 +12,7 @@ generated:
 # Teacher noticing framework: detection and interpretation of classroom situations
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 10 claims (10 for) · 4 studies (2 associational, 1 causal, 1 review), `q2`–`q3` · 0 of 4 report an effect size · 10 claims rest on one study
+> **Evidence** · 11 claims (11 for) · 5 studies (2 associational, 1 causal, 1 review, 1 qualitative), `q1`–`q3` · 0 of 5 report an effect size · 11 claims rest on one study
 
 ## Description
 The article adopts the teacher noticing framework of Van Es and Sherin to model how teachers make sense of classroom and dashboard situations. It distinguishes two processes: "detection", deciding what deserves attention, and interpretation, reasoning about events and their broader principles. Characteristics include which students and behaviors teachers focus on, the specificity and evidence use of interpretations, and teachers' stance ranging from describing to interpreting. The framework supplies the study's coding scheme and its outcome measures.
@@ -24,6 +24,7 @@ The article adopts the teacher noticing framework of Van Es and Sherin to model 
 - **Wolff, Jarodzka, and Boshuizen's model of teachers' classroom management scripts linking knowledge, perception, and situational awareness**: The article presents the first detailed theoretical framework for research on teachers' professional vision: a model of teachers' classroom management scripts incorporating organized knowledge and perception with their effects on situational awareness and representations of classroom events, developed by contrasting novice and expert teachers. The review states this model "can not only help to synergize existing research into a broader picture but also clearly point towards new research avenues." It is expected to enable a shift from exploration to hypothesis-driven research. (Jarodzka et al. (2020))
 - **Professional vision as selective attention, knowledge-based reasoning, and decision-making bridging teacher knowledge and practice**: The article applies a framework in which professional vision in education consists of selective attention and knowledge-based reasoning including "description, explanation and prediction", later expanded to a third interrelated component, decision-making of action. It treats professional vision as "not only an integrated model of a teacher's knowledge but also a system bridging knowledge and practice", developmentally shaped by teachers' knowledge and beliefs and learnable through guided video observation rather than a natural talent. (Maikki Pouta et al. (2020))
 - **Teacher noticing as a construct for studying knowledge for active-learning instruction in undergraduate STEM**: Teacher noticing treats classrooms as complex social environments where teachers cannot attend to everything; it is knowledge in action used to reason about what teachers see and make instructional decisions in real time. The article applies this K–12 construct to undergraduate active learning for the first time, arguing active-learning instructors must recognize and respond to student thinking in real time, and operationalizes it with a video-based lesson-analysis survey comparing experts and novices. (Auerbach A. J. et al. (2018))
+- **Teacher noticing as a three-step perceive-interpret-respond process**: Following Sherin et al. (2011), the article defines teacher noticing as "a three step process in which the teacher perceives something, interprets it, and formulates an intended response". The authors combine this lens with epistemic framing to ground their case study, treating the instructor's question as the formulated response following perception and interpretation of the student's work. (Hass et al. (2017))
 
 ### Claims
 - [Dashboard support type did not influence detection of CSCL events but did influence teachers' interpretation of the situation](../claims/dashboard-support-type-affects-interpretation-not-detection.md) [+W]
@@ -36,6 +37,7 @@ The article adopts the teacher noticing framework of Van Es and Sherin to model 
 - [Expert active-learning instructors notice creating opportunities for generative work significantly more often than novices](../claims/experts-notice-generative-work.md) [+M]
 - [Experts provide more evaluations of active-learning lessons supported by reasoning than novices](../claims/experts-more-evaluations-with-reasoning.md) [+M]
 - [Experts provide more suggestions for improving active-learning lessons supported by reasoning than novices](../claims/experts-more-suggestions-with-reasoning.md) [+M]
+- [An instructor can tacitly notice a student's epistemic framing during problem solving, as inferred from a stimulated recall interview](../claims/instructor-tacitly-notices-student-framing.md) [+W]
 
 ## Related Research Methods
 
@@ -48,3 +50,4 @@ The article adopts the teacher noticing framework of Van Es and Sherin to model 
 - Jarodzka, H., Skuballa, I., & Gruber, H. (2020). Eye-Tracking in Educational Practice: Investigating Visual Perception Underlying Teaching and Learning in the Classroom. Educational Psychology Review. https://doi.org/10.1007/s10648-020-09565-7
 - Maikki Pouta, Erno Lehtinen & Tuire Palonen. (2020). Student Teachers' and Experienced Teachers' Professional Vision of Students' Understanding of the Rational Number Concept. Educational Psychology Review. https://doi.org/10.1007/s10648-020-09536-y
 - Auerbach A. J., Higgins M., Brickman P., Andrews T. C. (2018). Teacher Knowledge for Active-Learning Instruction: Expert–Novice Comparison Reveals Differences. CBE—Life Sciences Education. https://doi.org/10.1187/cbe.17-07-0149
+- Hass, C. A. F., Ryan, Q. X., & Sayre, E. C. (2017). Teacher Noticing and Shifting of Student Epistemic Framing. https://arxiv.org/abs/1704.05103

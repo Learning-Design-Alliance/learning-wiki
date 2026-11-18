@@ -48,3 +48,4 @@ Post-hoc multiple comparisons (Tukey HSD and Bonferroni-corrected t-tests) among
 - [Mean course effect size varies significantly with the primary LA-supported activity relative to courses without LA support (ANOVA F4,64=3.132, p=0.02)](anova-la-activity-effect-size-variation.md) — reports the opposite
 - [Physics courses supported by Learning Assistants show course-level Cohen's d effect sizes on average 1.4 times higher than courses without LA support](la-support-higher-physics-effect-sizes.md) — related
 - [Posttest gains vary by LA classroom context, with the largest gains when LAs are used in labs and the smallest in lecture](la-impact-varies-by-classroom-context.md) — reports the opposite
+- [Instructors unanimously reported that LAs let them reduce lecturing time and increase collaborative learning activities](las-reduce-lecture-increase-collaborative.md) — related

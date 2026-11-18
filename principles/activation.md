@@ -141,6 +141,7 @@ The present evidence does not establish an optimal activation format or duration
 - [Create an interactive learning environment in real or semi-real contexts using modern teaching media](../strategies/interactive-real-semi-real-learning-environment.md)
 - [Learning-theory-based evaluation checklist of instructional strategies and techniques for textbook analysis](../elements/learning-theory-evaluation-checklist-elt-textbooks.md)
 - [Present a problem for small-group explanation discussion before assigning the relevant expository text](../strategies/pre-text-small-group-explanation-discussion.md)
+- [Open the lesson by eliciting prior knowledge and experiences about spaceflight, then orient toward the Saturn V](../strategies/prior-knowledge-elicitation-spaceflight-introduction.md)
 
 ### Illustrative
 

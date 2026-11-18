@@ -48,3 +48,4 @@ Written conceptual survey administered in first-year graduate quantum mechanics 
 ## Related Claims
 - [Graduate students often ignore whether the initial state is an eigenstate of the Hamiltonian when reasoning about time dependence of spin expectation values](students-ignore-stationary-state-condition-spin-expectation-values.md) — a narrower finding that bears on this claim
 - [Graduate student performance on the time-dependence questions shows no significant difference between a cohort tested after eleven weeks and one tested after almost two semesters of graduate quantum mechanics](no-significant-difference-two-graduate-cohorts-time-dependence.md) — related
+- [Fewer than half of participants answered even the most standard EMI questions correctly with sufficient explanations, with correct-plus-explained rates falling to 4–6% on non-standard questions](emi-low-correct-explanation-percentages.md) — related

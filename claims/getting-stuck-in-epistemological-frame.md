@@ -56,3 +56,4 @@ Recap of three previously reported observational examples: novices using recursi
 - [Productive problem solving can occur in any epistemological frame provided students transition appropriately between frames](productive-solving-any-frame-with-appropriate-transitions.md) — related
 - [Even high-performing students may master calculation techniques without knowing what they are for (author's observation)](calculation-skill-without-application-asian-paradox.md) — related
 - [Long program timescale lets students get stuck and teaches patience and perseverance, and supports mentor development](srmp-long-timescale-benefit.md) — related
+- [Novice physics students seldom shift epistemological frames during assessment, with most beginning problems in an Algorithmic Physics frame](students-seldom-shift-frames-assessment.md) — related

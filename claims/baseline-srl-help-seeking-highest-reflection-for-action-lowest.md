@@ -51,3 +51,4 @@ Pre-intervention self-report analysis of SQsrl data from Adam's cohort (49 of 70
 - [Teachers' and students' SRL profiles differ more than they are alike, sharing only insufficient reflection practice](teacher-student-srl-profiles-differ-except-reflection.md) — a broader claim this one bears on
 - [Teachers' self-reported SRL shows self-efficacy as the highest-practiced skill and help-seeking and goal-setting as the lowest](teachers-srl-self-efficacy-high-help-seeking-low.md) — related
 - [Tagging skills and completing challenges engaged students in self-assessment and reflection on their skill development](assessmake21-tagging-challenges-engaged-self-assessment.md) — related
+- [A small set of computational skills — algorithmic problem decomposition, flow control, proactive communication, help-seeking, Googling, and data visualization — are judged necessary by every surveyed computational physicist](unanimously-necessary-cpr-skills-survey.md) — related

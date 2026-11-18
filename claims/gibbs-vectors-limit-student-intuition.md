@@ -50,3 +50,4 @@ The authors' theoretical argument in the introduction: conventional vectors form
 - [Undergraduate students learning electromagnetism created their own Maple routines for vector-calculus operators and explored the meaning of the operators by applying them to fields](undergraduates-create-maple-routines-vector-operators.md) — related
 - [Numerical computation fosters student acceptance that kets are column vectors, bras row vectors, and operators matrices](numerical-computation-builds-ket-matrix-intuition.md) — related
 - [No overall multimedia effect on problem-solving performance in vector calculus: graphs did not significantly improve correctness](no-overall-multimedia-effect-vector-calculus.md) — related
+- [The graphical notation lowers barriers in learning and practicing vector calculus and fosters student self-motivation](graphical-notation-lowers-vector-calculus-barriers.md) — related

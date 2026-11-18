@@ -68,3 +68,4 @@ Same questionnaire study. Items on active involvement favored generalists after 
 - [Generalist tutors spend about twice as long on direct-observation OSCE feedback as specialist tutors](generalists-longer-osce-feedback-duration.md) — related
 - [Students' active involvement during formative OSCE feedback is average to low across tutor profiles](osce-feedback-student-active-involvement-low.md) — related
 - [Lack of feedback training and shorter OSCE supervision experience negatively influence the feedback process beyond tutor profile](feedback-training-and-experience-influence-osce-feedback-process.md) — related
+- [Students rated pre-class videos as useful to their learning (mean 4.034 on a 5-point scale)](flipped-preclass-videos-perceived-useful.md) — related

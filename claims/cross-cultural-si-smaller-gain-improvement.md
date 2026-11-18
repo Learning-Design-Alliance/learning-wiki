@@ -48,3 +48,4 @@ Compilation of published FCI/FMCE pre-/post-reform gains in Table II, comparing 
 ## Related Claims
 - [In the CWP pilot at KU, FCI normalized gain improved substantially for students with high English proficiency, from 0.16 pre-reform to 0.47](cwp-high-proficiency-fci-gain-0-47.md) — related
 - [FCI normalized gains at KU are strongly modulated by English language proficiency, converging on Hake's averages only at high IELTS scores](fci-gain-modulated-by-language-proficiency.md) — related
+- [Teaching methods may require thoughtful adaptation to succeed in very different contexts, while faithful implementation can succeed in similar contexts](teaching-method-adaptation-context-dependent.md) — a broader claim this one bears on

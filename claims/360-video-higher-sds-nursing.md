@@ -51,3 +51,4 @@ Quasi-experimental 2-group pretest-posttest study of 55 third-year nursing stude
 - [Students who experienced the virtual field trip via a 3D HMD scored higher on a delayed posttest roughly three weeks later than 2D-video students](hmd-virtual-field-trip-better-delayed-retention.md) — related
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — a broader claim this one bears on
 - [Immersive HMD viewing of a 360° video improves incidental cued recall compared to non-immersive touchscreen viewing](ivr-360-video-hmd-incidental-recall-advantage.md) — related
+- [The benefit of preliminary VR training was limited to questions posed in VR, with no improvement on 2D computer-based posttest questions](vr-training-benefit-limited-to-vr-posed-questions.md) — related

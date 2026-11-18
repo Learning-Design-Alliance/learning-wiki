@@ -42,6 +42,7 @@ A classroom strategy in which the teacher and students cooperatively build a sim
 
 - [Body-motion graph construction with a real-time position sensor as an introductory activity for position and velocity concepts](go-motion-walk-graph-position-velocity.md)
 - [Invite student-generated questions from the problem context to launch additional learning cycles in which students identify variables, hypothesize, design experiments, and test predictions](garlic-student-question-learning-cycles.md)
+- [Present the Arduino experiment before the theoretical content, with students generating hypotheses in small groups](experiment-before-theory-group-hypotheses-strategy.md)
 
 ## Examples
 -

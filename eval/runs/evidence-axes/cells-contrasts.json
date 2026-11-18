@@ -121434,5 +121434,349 @@
  "test-format\tshuffled order of independent questions\toriginal question order": {
   "label": "Randomized order of independent questions vs fixed original question order",
   "treatment_is_a": true
+ },
+ "?\tPMG\tPML": {
+  "label": "group-based vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\t4-week flipped Statistics for Research course\ttraditional approach": {
+  "label": "flipped classroom vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tBlended peer instruction, group problem solving, direct instruction, and growth-mindset emphasis\tPre-instruction baseline": {
+  "label": "blended peer instruction, group problem solving, direct instruction, and growth-mindset emphasis vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tLA-supported semesters\tsemesters without LAs": {
+  "label": "LA-supported semesters vs semesters without learning assistants",
+  "treatment_is_a": true
+ },
+ "active-learning\tPD PL game-theoretical peer learning mechanism\tpre-test before mechanism implementation": {
+  "label": "game-theoretical peer-learning mechanism vs pre-implementation baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tParticle Dance workshop\tstudents' understanding before the workshop": {
+  "label": "Particle Dance workshop vs pre-workshop baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tPredict–Observe–Explain demonstration\tprediction phase before demonstration": {
+  "label": "Predict–Observe–Explain demonstration vs prediction-only phase",
+  "treatment_is_a": true
+ },
+ "active-learning\tTBL introductory physics for life-science course\tbeginning-of-semester baseline": {
+  "label": "Team-Based Learning vs beginning-of-semester baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tTeam-Based Learning course\tbeginning-of-semester baseline": {
+  "label": "Team-Based Learning vs beginning-of-semester baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive learning or interactive engagement\ttraditional lecture": {
+  "label": "active learning or interactive engagement vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tblended peer instruction, group problem solving, direct instruction, and growth-mindset emphasis\tpre-instruction attitudes": {
+  "label": "blended peer instruction, group problem solving, direct instruction, and growth-mindset emphasis vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative student-created choreography\tstudents' participation at the beginning of the workshop": {
+  "label": "student-created choreography workshop vs beginning-of-workshop baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tdebates and experimental practices\tnot stated": {
+  "label": "debates and experimental practices vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tenacted astronomy sequences\tnot stated": {
+  "label": "enacted astronomy sequences vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom\ttraditional approach": {
+  "label": "flipped classroom vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup discussion and knowledge sharing\trole splitting and resolving scheme": {
+  "label": "group discussion and knowledge sharing vs role splitting and scheme resolution",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup generation of physics problems\ttraditional algebra-based problems": {
+  "label": "group-generated physics problems vs traditional algebra-based problems",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive lecture with Think-Pair-Share and Lecture-Tutorial\tpre-instruction assessment before interferometry instruction": {
+  "label": "interactive lecture with Think-Pair-Share and Lecture-Tutorial vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive lecture with Think-Pair-Share and Lecture-Tutorial\tpre-instruction baseline": {
+  "label": "interactive lecture with Think-Pair-Share and Lecture-Tutorial vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tlecture, Think-Pair-Share voting questions, and Lecture-Tutorial\tbefore any instruction on interferometry": {
+  "label": "interactive lecture with Think-Pair-Share, voting questions, and Lecture-Tutorial vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tlecture, Think-Pair-Share voting questions, and Lecture-Tutorial\tpre-instruction": {
+  "label": "interactive lecture with Think-Pair-Share, voting questions, and Lecture-Tutorial vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tlecture, Think-Pair-Share, and Lecture-Tutorial\tpre-instruction": {
+  "label": "interactive lecture with Think-Pair-Share and Lecture-Tutorial vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tparticipatory workshop with student-created dance and discussion\tstudents' engagement at the beginning of the workshop": {
+  "label": "student-created choreography workshop vs beginning-of-workshop baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer instruction and group discussion\tother in-class activity": {
+  "label": "peer instruction and group discussion vs other in-class activity",
+  "treatment_is_a": true
+ },
+ "active-learning\tsemester-long Team-Based Learning IPLS course\tbeginning-of-semester baseline": {
+  "label": "Team-Based Learning vs beginning-of-semester baseline",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tStudents chose the music for their choreography\tStudents are usually given a song or piece of music": {
+  "label": "student-chosen music vs assigned music",
+  "treatment_is_a": true
+ },
+ "autonomy-support\topen-ended computational essay allowing students to choose and define their own project\tstandard assignments requiring students to do a specified task": {
+  "label": "open-ended/self-defined project vs prescribed assignment",
+  "treatment_is_a": true
+ },
+ "autonomy-support\topen-ended computational essay allowing students to define and pursue their own questions\tmore prescribed physics and programming assignments": {
+  "label": "open-ended/self-defined project vs prescribed assignment",
+  "treatment_is_a": true
+ },
+ "autonomy-support\topen-ended computational essay with freedom to choose a topic and approach\tmore prescribed physics problem-solving and programming assignments": {
+  "label": "open-ended/self-defined project vs prescribed assignment",
+  "treatment_is_a": true
+ },
+ "autonomy-support\topen-ended computational essay with student-chosen investigation question\tstandard programming-based assignments with a defined task and endpoint": {
+  "label": "open-ended/self-defined project vs prescribed assignment",
+  "treatment_is_a": true
+ },
+ "autonomy-support\topen-ended computational essay with student-chosen project\tstandard programming-based assignments with defined endpoints": {
+  "label": "open-ended/self-defined project vs prescribed assignment",
+  "treatment_is_a": true
+ },
+ "autonomy-support\topen-ended computational project allowing students to choose their topic and approach\tmore prescribed physics problem-solving and laboratory tasks": {
+  "label": "open-ended/self-defined project vs prescribed assignment",
+  "treatment_is_a": true
+ },
+ "autonomy-support\topen-ended project with freedom to choose a research question\thighly specified assignments with a defined endpoint": {
+  "label": "open-ended/self-defined project vs prescribed assignment",
+  "treatment_is_a": true
+ },
+ "autonomy-support\topen-ended self-chosen computational essay\tcompulsory weekly programming assignments": {
+  "label": "open-ended/self-defined project vs prescribed assignment",
+  "treatment_is_a": true
+ },
+ "autonomy-support\toptional open-ended computational essay\tmandatory presentation-based assignment": {
+  "label": "optional open-ended assignment vs compulsory assignment",
+  "treatment_is_a": true
+ },
+ "autonomy-support\toptional open-ended computational essay\tstandard compulsory programming-based assignments": {
+  "label": "optional open-ended assignment vs compulsory assignment",
+  "treatment_is_a": true
+ },
+ "autonomy-support\toptional open-ended computational essay\tstandard programming-based assignments": {
+  "label": "optional open-ended assignment vs compulsory assignment",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent choice of choreography and music\tusual dance lessons with assigned music": {
+  "label": "student-chosen choreography and music vs assigned choreography and music",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent-chosen self-directed projects\tnone reported": {
+  "label": "student-chosen self-directed projects vs no reported comparison",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent-led collaborative workshop\tstudents' confidence at the beginning of the workshop": {
+  "label": "not a valid treatment contrast: student-led workshop vs baseline confidence measure",
+  "treatment_is_a": false
+ },
+ "autonomy-support\tstudents choose choreography and music\tusual dance lessons with assigned music": {
+  "label": "student-chosen choreography and music vs assigned choreography and music",
+  "treatment_is_a": true
+ },
+ "case-comparison\tOliver's and Charlie's student derivations\texemplar solutions": {
+  "label": "student derivations vs exemplar solutions",
+  "treatment_is_a": true
+ },
+ "case-comparison\tappropriate, consistent blending of sign meanings\tinconsistent or inappropriate blending of sign meanings": {
+  "label": "appropriate, consistent sign-meaning blending vs inappropriate, inconsistent sign-meaning blending",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tCTE sequence\tTCE sequence": {
+  "label": "Concept first vs theory first",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tConcept first\tTheory first": {
+  "label": "Concept first vs theory first",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tExample first\tConcept first": {
+  "label": "Example first vs concept first",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tExample first\tTheory first": {
+  "label": "Example first vs theory first",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTA engagement in explicit nature-of-science instruction\tTAs who did not engage with or implement the nature-of-science instruction": {
+  "label": "explicit nature-of-science instruction vs no explicit nature-of-science instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTA explicitly engaged students in nature-of-science instruction\tTAs who did not engage with nature-of-science instruction": {
+  "label": "explicit nature-of-science instruction vs no explicit nature-of-science instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTA explicitly taught nature of science\tTA did not engage with nature-of-science instruction": {
+  "label": "explicit nature-of-science instruction vs no explicit nature-of-science instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTA-engaged explicit instruction on the nature of science\tTAs who did not engage with the value of teaching nature of science": {
+  "label": "explicit nature-of-science instruction vs no explicit nature-of-science instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tobserve the rotating-disc demonstration\tpredict the trajectory before demonstration": {
+  "label": "observe demonstration vs predict before demonstration",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstandard heuristic derivation using the time-energy uncertainty relation\tcareful use or avoidance of the standard derivation": {
+  "label": "standard heuristic derivation vs careful use or avoidance of standard derivation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttextbook instruction, augmented photographs, and six videos from two perspectives\tobserving the demonstration experiment": {
+  "label": "multimedia textbook instruction vs observing demonstration experiment",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tpeer assessment with constructive comments\tpeer marking without comments": {
+  "label": "peer feedback/comments vs no comments",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tpeer feedback with comments\tpeer marking without comments": {
+  "label": "peer feedback/comments vs no comments",
+  "treatment_is_a": true
+ },
+ "feedback-type\tcorrective peer feedback\tsuggestive peer feedback": {
+  "label": "corrective vs suggestive peer feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tpeer assessment using a rubric\tno comparison condition reported": {
+  "label": "peer assessment vs no peer assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\ttechnology-enhanced pre-instructional peer assessment\tnot stated in study": {
+  "label": "peer assessment vs no peer assessment",
+  "treatment_is_a": true
+ },
+ "gamification\tPD_PL peer-learning mechanism with game-theoretical payoffs\tpre-test before mechanism implementation": {
+  "label": "payoff-based gamified peer learning vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "gamification\tPD_PL: repeated prisoner’s-dilemma peer learning with payoff-based rewards\tpre-test baseline before PD_PL": {
+  "label": "payoff-based gamified peer learning vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "gamification\tplanet-overtaking activity with game-like hand-raising challenge\tlearners initially uninterested before or without engagement in the activity": {
+  "label": "game-like challenge/gamified activity vs no game-like challenge",
+  "treatment_is_a": true
+ },
+ "gamification\ttwo educational mathematics games on a tablet\tnot stated": {
+  "label": "educational mathematics games vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tinquiry-based Real-Time Physics labs\tcookbook-style labs": {
+  "label": "inquiry-based labs vs cookbook-style labs",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tsix Real-Time Physics inquiry-based labs\tcookbook-style labs": {
+  "label": "inquiry-based labs vs cookbook-style labs",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2016 MOSCE participants\t2016 non-participants": {
+  "label": "MOSCE participation vs non-participation",
+  "treatment_is_a": true
+ },
+ "media-design\tTextbook instruction with augmented photographs and six videos from stationary and rotating perspectives\tObservation of the demonstration before instruction": {
+  "label": "multimedia-enhanced instruction vs demonstration observation",
+  "treatment_is_a": true
+ },
+ "media-design\ttextbook instruction, augmented photographs, and six videos from stationary and rotating perspectives\tobservation of the demonstration without the subsequent instruction": {
+  "label": "multimedia-enhanced instruction vs demonstration observation",
+  "treatment_is_a": true
+ },
+ "media-design\ttextbook instruction, augmented photographs, and six videos from stationary and rotating perspectives\tpre-instruction observation of the demonstration": {
+  "label": "multimedia-enhanced instruction vs demonstration observation",
+  "treatment_is_a": true
+ },
+ "practice-amount\trepeated attempts under different conditions\tan initial attempt": {
+  "label": "repeated practice vs single practice",
+  "treatment_is_a": true
+ },
+ "prompts\tGravitron prompt to show reasoning through words, diagrams, and equations\tstudents' initial problem-solving frame": {
+  "label": "multimodal reasoning prompt vs initial problem-solving frame",
+  "treatment_is_a": true
+ },
+ "prompts\tInstructor asks about the electric-field direction\tStudent’s reasoning before the instructor prompt": {
+  "label": "electric-field-direction prompt vs no prompt",
+  "treatment_is_a": true
+ },
+ "prompts\tInstructor question prompting consideration of electric-field direction\tStudent's pre-question algorithmic solution process": {
+  "label": "electric-field-direction prompt vs no prompt",
+  "treatment_is_a": true
+ },
+ "prompts\tgoal reminders\tbaseline without intervention": {
+  "label": "goal reminders vs no goal reminders",
+  "treatment_is_a": true
+ },
+ "prompts\tgoal reminders\tfirst baseline without intervention": {
+  "label": "goal reminders vs no goal reminders",
+  "treatment_is_a": true
+ },
+ "prompts\tgoal reminders\twhite-background control": {
+  "label": "goal reminders vs no goal reminders",
+  "treatment_is_a": true
+ },
+ "prompts\tinterviewer prompt noting that the question asked for validation\tbefore the prompt": {
+  "label": "validation prompt vs no prompt",
+  "treatment_is_a": true
+ },
+ "prompts\tprompted reflection on experimental decisions\tno reported comparison": {
+  "label": "prompted reflection vs no reported comparison",
+  "treatment_is_a": true
+ },
+ "prompts\trepeated reminders about available materials\tno reminders about available materials": {
+  "label": "reminders about available materials or aids vs no reminders",
+  "treatment_is_a": true
+ },
+ "prompts\trepeated reminders about the available aids\tno reminders about the available aids": {
+  "label": "reminders about available materials or aids vs no reminders",
+  "treatment_is_a": true
+ },
+ "prompts\tsecond written survey\tfirst written survey": {
+  "label": "second survey vs first survey",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tgreater effort in the prisoner’s-dilemma payoff structure\tless effort or defection": {
+  "label": "greater rewards/incentives vs lesser rewards/incentives",
+  "treatment_is_a": true
+ },
+ "scaffolding\tappropriate instructional scaffolding guided by identified ability\tpre-test performance before scaffolding": {
+  "label": "adaptive scaffolding vs unscaffolded",
+  "treatment_is_a": true
+ },
+ "scaffolding\tinstructor checking tool prompting use of the signed blend\tmixed signed and unsigned treatments of coordinates": {
+  "label": "consistent scaffolding vs mixed scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\topen-ended project with example essay, starter simulations, suggested questions, guidelines, and help-desk support\tvery open brief without those starting supports": {
+  "label": "scaffolded project vs unscaffolded project",
+  "treatment_is_a": true
+ },
+ "simulation\tkinesthetic game in which students act as qubits and scientists\tnot stated": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
  }
 }

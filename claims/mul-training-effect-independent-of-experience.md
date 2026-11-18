@@ -53,3 +53,4 @@ Mixed-effects linear regression with experience (<10 vs ≥10 years) and trainin
 - [Prior radiological experience has no significant impact on PI-RADSv2.1 or PI-QUALv2 learning, with only a minor effect on EPE grading](prior-radiological-experience-minimal-impact.md) — a broader claim this one bears on
 - [No significant interaction between experience level and training effect was observed, suggesting video and AR training benefits across residency years](no-experience-training-interaction.md) — related
 - [Radiology residents, regardless of prior prostate MRI experience, achieve high whole-gland segmentation accuracy against an expert reference](residents-high-prostate-segmentation-accuracy.md) — related
+- [Radiology trainees report greater intent to learn AI/ML and willingness to help train algorithms than attending radiologists](radiology-survey-trainee-ai-enthusiasm.md) — related

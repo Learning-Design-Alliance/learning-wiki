@@ -57,3 +57,4 @@ Omnibus ANOVA on posttest scores of three intact groups (30 subjects each) of in
 - [Scores rose from pre-test to post-test in one group with no comparison group](null-hypothesis-rejected-pre-post-english.md) — related
 - [One-way ANOVA on posttest scores showed a statistically significant difference among the subtitle, no-subtitle, and control groups (F = 84.161, Sig. = .000)](anova-significant-difference-three-groups-vocabulary.md) — related
 - [Reading strategies training improves literal reading comprehension of elementary-proficiency EFL vocational students relative to conventional teaching](strategies-training-improves-literal-comprehension-efl.md) — related
+- [One-way ANOVA shows post-test scores differ across estimated ability levels in the experimental group (vocabulary F= 5.75, grammar F= 4.71, reading comprehension F= 5.98) but not for vocabulary and grammar in the control group](anova-distinguishes-estimated-ability-groups.md) — related

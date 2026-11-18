@@ -51,6 +51,7 @@ The article recommends that faculty build student trust through responsive actio
 - [Contacts Between Students And Faculty](contacts-between-students-and-faculty.md)
 - [Demonstrating Caring](demonstrating_caring.md)
 - [Building a Trusting Community](building_a_trusting_community.md)
+- [Instructor practices that foster belongingness and a growth-mindset classroom culture to support gender equity](belongingness-instructor-practices-gender-equity.md)
 
 ## Examples
 -

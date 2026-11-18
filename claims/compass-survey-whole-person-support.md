@@ -47,3 +47,4 @@ Multiple-choice items from the same fall 2011 survey report frequencies of peer 
 ## Related Claims
 - [Longitudinal interviews and surveys indicate Compass students felt supported academically and personally and stayed socially connected](compass-survey-community-support.md) — possibly the same claim (merge candidate)
 - [Positive learning communities and collaborative social interaction drive learning](social-connection-and-collaboration-drive-learning.md) — a broader claim this one bears on
+- [Former IAYC participants report long-term friendships, with most remaining in contact monthly or more often](iayc-long-term-friendships.md) — related

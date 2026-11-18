@@ -97,3 +97,5 @@ Same overview: students recognize durable skills like time management, collabora
 - [Authentic, complex level-boss tasks helped students feel prepared for real-world computational work](authentic-level-bosses-real-world-preparation.md) — related
 - [Many students' first contact with the research literature presents a barrier rather than a facilitator to a career in research, because expert communication conventions presuppose shared context newcomers lack.](literature-jargon-barrier-newcomers.md) — related
 - [Students may make real-world physics connections without valuing or labeling them as physics, adding complexity to interpreting attitude measures](connections-without-labeling-as-physics.md) — related
+- [Students valued the open-ended generative task for connecting physics to real contexts but reported unfamiliarity with making assumptions](student-perceptions-of-generative-task.md) — related
+- [High-school students are reported to be able to assimilate modern physics concepts such as gravitational waves and relate them to their daily lives](students-assimilate-modern-physics-concepts.md) — related

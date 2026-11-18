@@ -53,3 +53,4 @@ Qualitative thematic analysis of one 40-minute focus group with all 11 students,
 - [Students exposed to the flipped classroom reported largely positive perceptions, with 84% finding pre-class materials helpful and 76% reporting improved understanding](student-perceptions-flipped-classroom-gondar.md) — related
 - [The instructor reports spectacular learning outcomes in student confidence on the topic, attributed to extensive in-class and online discussion and boosted by journal acceptance](student-confidence-gain-from-publication-course.md) — related
 - [Peer Instruction is more common in larger interactive engagement classes, scaling from 6% of small classes to 41% of classes over 100 students](peer-instruction-scales-with-class-size.md) — related
+- [Flipped classroom freed class time for guiding students through more advanced and engaging materials](flipped-classroom-time-for-advanced-materials.md) — related

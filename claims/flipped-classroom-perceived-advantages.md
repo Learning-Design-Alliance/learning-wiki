@@ -61,3 +61,4 @@ Content analysis of open-ended questionnaire responses from the experimental gro
 - [Students most valued interaction with peers and educators and flexibility of digital resources, while long seminars and preparation load were the most common complaints](flipped-classroom-positive-negative-factors-physiotherapy.md) — related
 - [A 2012 video-based flipped classroom in which students watched recorded lectures left students feeling unsupported and produced lower satisfaction despite better marks than 2010](video-flipped-classroom-unsupported-students.md) — related
 - [Using videos for home viewing frees curriculum time so teachers can give immediate assistance and richer in-class discussion](video-home-viewing-frees-class-time.md) — related
+- [Students perceived peer instruction and group discussion as motivating and helpful in the flipped statistics class](flipped-peer-instruction-group-discussion-perceived-positive.md) — related

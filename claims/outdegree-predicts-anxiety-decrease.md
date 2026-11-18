@@ -47,3 +47,4 @@ Permutation-based simple linear regressions on network data from the fifth colle
 ## Related Claims
 - [Indegree shows no significant relationship with normalized physics anxiety shift at the end of the semester, regardless of tuning parameter value](indegree-no-anxiety-relationship.md) — related
 - [Closeness centrality predicts anxiety shift before but not after false-discovery-rate correction, while outdegree remains significant](closeness-significance-false-discovery.md) — related
+- [Male students had slightly higher inDegree centrality than female students in the MI classroom social network](male-higher-indegree-centrality.md) — related

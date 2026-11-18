@@ -50,6 +50,7 @@ The article prescribes a recurring student workflow across its modules: "Develop
 - [Submit lab work in a 'lab article' format modeled on a research paper](lab-article-submission-format.md)
 - [Remix existing open source simulation models into inquiry learning environments matched to the local syllabus](remix-open-source-simulations-for-inquiry-strategy.md)
 - [Hands-on workshop sequence: study an existing model, modify it, then self-direct a personal customization project](ejs-hands-on-model-modification-workshop-strategy.md)
+- [Advertise the existence of secret objectives and challenge students to find them, then let students direct the investigation](advertise-secret-objectives-challenge-strategy.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Comparison of coded belonging reasons between majors and leavers in the intervie
 - [Racially marginalized students are less likely to report a sense of belonging in STEM education](marginalized-students-lower-stem-belonging.md) — related
 - [Representation in the sub-discipline relates to belonging: women of color in pSTEM report belonging less frequently than white men](field-representation-relates-to-womens-belonging.md) — related
 - [Cisgender men speak more during small-group or whole-class discussions, reinforcing perceptions of greater competence in STEM.](men-speak-more-discussions-competence-perceptions.md) — related
+- [Attrition rates differ widely across majors, with physics and mathematics students the most likely to drop and computer science, non-STEM, and psychology students the least likely](physics-mathematics-highest-attrition-among-declared-majors.md) — related

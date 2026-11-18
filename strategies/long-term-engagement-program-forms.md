@@ -51,6 +51,7 @@ The whitepaper proposes that "Along­termcommunityengagementprogramshouldbesuppo
 - [Professional societies can sustain education-outreach partnerships nationally by gathering data on existing partnerships, providing a knowledge repository, and convening meetings](professional-society-outreach-support-roles.md)
 - [Passion-based seminar program culminating in senior internships](passion-based-seminar-program-senior-internships.md)
 - [Build a College Promise team spanning internal campus units and external cross-segment and cross-sector partners](cross-segment-cross-sector-promise-team.md)
+- [International practicum placements at partner astronomical research institutions for astronomy undergraduates](international-practicum-astronomy-research-institutes.md)
 
 ## Examples
 -

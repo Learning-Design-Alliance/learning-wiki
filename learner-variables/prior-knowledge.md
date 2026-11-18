@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 308 claims (177 show a difference, 86 mixed, 45 no difference) · 243 studies (89 causal, 44 associational, 38 review, 25 design, 25 theoretical, 11 quant-synthesis, 11 qualitative), `q1`–`q4` · 39 of 243 report an effect size · 290 claims rest on one study
+> **Evidence** · 310 claims (178 show a difference, 86 mixed, 46 no difference) · 245 studies (89 causal, 46 associational, 38 review, 25 design, 25 theoretical, 11 quant-synthesis, 11 qualitative), `q1`–`q4` · 40 of 245 report an effect size · 292 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -356,6 +356,8 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Student gain after the tournament hardly depended on prior achievement, suggesting equal opportunities of improvement for low- and high-performers](../claims/tournament-gain-independent-of-prior-achievement.md) [-M] — learners who differ on it differ in outcomes
 - [Students with the lowest pretest scores showed the largest gains, with binned gains decreasing from 0.33 (0–3 correct) to 0.18 (4–6) to 0.05 (7–9)](../claims/lowest-pretest-scorers-largest-gains.md) [+M] — learners who differ on it differ in outcomes
 - [AAPS responses differentiate expertise levels: groups of different physics expertise differ by large effect sizes in expert-likeness of problem-solving attitudes](../claims/aaps-group-expertise-effect-sizes.md) [+M] — learners who differ on it differ in outcomes
+- [Higher-expertise students allocate more attention to correct options and less to popular incorrect options, but strong distractors retain attention at all expertise levels](../claims/expertise-attention-option-categories.md) [+W] — learners who differ on it differ in outcomes
+- [No meaningful correlation was found between FCI prescore and CLASS shift, or between FCI gain and FCI pretest score](../claims/no-correlation-fci-pretest-class-shift.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

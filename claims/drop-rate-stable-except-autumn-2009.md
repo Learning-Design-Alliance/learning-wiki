@@ -48,3 +48,4 @@ A χ2 analysis of drop rates across quarters from Spring 2002 through Autumn 200
 - [Raw failure rates in the introductory biology course declined from 18.2% to 6.3% as course structure increased across quarters](failure-rate-declined-18-to-6-percent.md) — related
 - [High course structure significantly reduces failure rates in introductory biology independent of student ability, while moderate structure has a marginal effect](high-structure-reduces-failure-intro-biology.md) — related
 - [Student academic ability varied across quarters but not systematically with changes in course structure](student-ability-varied-not-with-structure.md) — related
+- [A course-based data science research experience in a first-semester introductory course can be completed by all enrolled students with no course attrition](cures-first-semester-no-attrition.md) — related

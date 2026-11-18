@@ -56,3 +56,4 @@ Observations from mentors and teachers in the 2011 U.S. program found that "putt
 - [Rewards cause people to lose interest in whatever they were rewarded for doing, undermining intrinsic motivation](rewards-undermine-intrinsic-interest.md) — a broader claim this one bears on
 - [Students find the introductory theory portion of the masterclass difficult and prefer practical experiments](masterclass-theory-intro-found-difficult.md) — related
 - [In the 2016 ICD, PhD students from ATLAS and IceCube presented their atmospheric muon zenith-angle data, and comparison with student measurements produced a fruitful discussion](icd-2016-atlas-icecube-muon-comparison.md) — related
+- [In the ATLAS data-analysis exercise most students identified 7 of 10 W-particle tracks, and a follow-up test averaged 10.7 out of 12](lidyef2018-atlas-data-analysis-outcomes.md) — related

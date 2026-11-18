@@ -50,3 +50,4 @@ Theoretical argument in Debate 4 applying Bandura's theory of self-efficacy to t
 - [Physiological synchrony is detectable among medical resident teams both before and during CRM simulation training, exceeding surrogate-data chance levels](ps-detected-pre-and-during-crm-simulation.md) — a narrower finding that bears on this claim
 - [Interprofessional CPR training with MAES is perceived by nursing and medical students to enhance teamwork and nontechnical skill development](maes-ipe-enhances-teamwork-perceptions.md) — related
 - [Multidisciplinary simulation increased nontechnical self-efficacy by 0.3 points on a 4-point scale](simulation-increased-nontechnical-self-efficacy-otolaryngology.md) — related
+- [Large, diverse, long-lasting TBL teams are posited as drivers of verbal-persuasion self-efficacy gains in she-identifying students](tbl-team-structure-verbal-persuasion-source.md) — related

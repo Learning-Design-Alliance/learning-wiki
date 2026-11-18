@@ -43,6 +43,7 @@ The article's intervention was a 4-week, scripted, classroom-format workshop (ab
 ## Related Strategies
 
 - [Direct older new SNS users to senior-focused online communities offering social support and courses](senior-online-communities-sns-support.md)
+- [Engage trainees in planning the next workshop and post year-round mentoring opportunities](year-round-trainee-engagement-opportunities.md)
 
 ## Examples
 -

@@ -49,3 +49,5 @@ Hierarchical linear model analysis (Model 2) of LASSO database data from first-s
 - [LA-supported courses show higher student posttest scores than traditional courses across all demographics](la-support-higher-posttest-scores.md) — related
 - [The predicted posttest-score gap favoring LA-supported courses grows from 3.1% with no prior instructor experience to 10.3% at six terms of experience](la-gap-grows-with-instructor-experience.md) — related
 - [Posttest gains vary by LA classroom context, with the largest gains when LAs are used in labs and the smallest in lecture](la-impact-varies-by-classroom-context.md) — related
+- [LA-supported introductory physics courses are associated with lower overall DFW rates than traditional courses taught by the same instructors](la-support-lower-overall-dfw-rates.md) — related
+- [Instructors unanimously reported that LAs let them reduce lecturing time and increase collaborative learning activities](las-reduce-lecture-increase-collaborative.md) — related

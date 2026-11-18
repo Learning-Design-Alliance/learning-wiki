@@ -53,3 +53,4 @@ Qualitative case analysis of two dyads with high JVA levels drawn from the eye-t
 - [Trajectories differed in transition structure: free-rider students migrated from social mediator and leader roles into the peripheral explorer role, and rarely returned to leadership directly.](free-rider-transition-structure.md) — related
 - [Proactive feedback produces significant post-intervention increases in Joint Mental Effort of dyads](propact-feedback-increases-jme-post-intervention.md) — related
 - [Linguistic coherence predicts productive collaboration, strengthened by joint visual attention data](linguistic-coherence-predicts-productive-collaboration.md) — related
+- [Running PD PL over several sessions lets students counter free riders by negotiating or changing teammates](pd-pl-free-rider-prevention-via-session-iteration.md) — related

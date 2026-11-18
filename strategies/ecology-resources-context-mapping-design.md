@@ -50,6 +50,7 @@ The article recommends using the framework during design to map potential resour
 
 - [Discovery-phase data collection: surveys, listening sessions, and project inventories to map the current system](discovery-phase-data-collection-tools.md)
 - [ICT can strengthen homeschooling through learning communities and resource access](ict-homeschooling-learning-community-strategy.md)
+- [Link every STEM engagement activity to the wider learning ecology and deliver coherent reinforcing messages](link-activities-to-learning-ecology.md)
 
 ## Examples
 -

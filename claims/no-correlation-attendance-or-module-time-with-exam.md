@@ -68,3 +68,4 @@ Spearman correlation within the TEL group between self-documented time using the
 - [Time spent on e-learning modules and number of authentic videos watched did not correlate with MSE test performance](engagement-no-correlation-mse-scores.md) — related
 - [Lectures and small-group peer teaching did not augment ECG examination performance compared with self-directed learning](teaching-format-did-not-augment-examination-performance.md) — related
 - [Dental students free to combine e-learning with lectures attend significantly fewer face-to-face lectures than students in a mandatory-attendance traditional course](tel-flexible-attendance-reduces-lecture-attendance.md) — related
+- [In the baseline model, the number of failed and aborted modules is negatively correlated with final course score](baseline-fail-abort-negative-correlation.md) — related

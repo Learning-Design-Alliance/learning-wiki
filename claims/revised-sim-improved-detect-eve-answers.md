@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-18
 sources:
   - id: antje-kohnle-and-aluna-rizzoli-2016
     resource: "https://doi.org/10.1088/1361-6404/aa62c8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The question on what actions Alice and Bob could take to determine whether Eve compromised their key was answered significantly better in 2016 (78.0%) than 2014 (58.9%), U=2420, p=0.01. [→ Antje Kohnle and Aluna Rizzoli 2016](#antje-kohnle-and-aluna-rizzoli-2016)

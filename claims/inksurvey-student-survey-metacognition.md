@@ -68,3 +68,4 @@ Same survey probed metacognition: 48 of 63 students (76%) reported that construc
 - [Real-time formative assessment on simulations revealed a common misconception that students did not notice Kirchhoff's law holds at each instant of time](inksurvey-reveals-kirchhoff-misconception.md) — related
 - [Students reported considerable satisfaction with the online program, with over 85% agreeing it was interactive and educational](student-satisfaction-online-case-program.md) — related
 - [Formative assessment probes indicate improved density understanding after the submarine project](density-understanding-gains-submarine-project.md) — related
+- [86% of students said the Arduino-based experiment contributed significantly to learning the content presented](86-percent-experiment-contributed-significantly-learning.md) — related

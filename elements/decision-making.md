@@ -87,6 +87,7 @@ Decision-making tasks support learning because they require learners to actively
 
 **[SimVenture](https://simventure.co.uk)** — A business startup simulation in which learners make sequential decisions about product, finance, and staffing, with market consequences feeding back into subsequent decision rounds.
 - [Defense of Instruction: coaches require teachers to articulate and defend instructional decisions with student data](../strategies/defense-of-instruction-strategy.md)
+- [Use stochastic single-particle data to force judgment calls that expose measurement bias](../strategies/stochastic-data-judgment-strategy.md)
 
 ## Key Sources
 - Hmelo-Silver, C. E. (2004). Problem-based learning: What and how do students learn? *Educational Psychology Review, 16*(3), 235–266. [doi:10.1023/b:edpr.0000034022.16470.f3](https://doi.org/10.1023/b:edpr.0000034022.16470.f3)

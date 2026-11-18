@@ -51,3 +51,4 @@ Observational analysis of the lab courses associated with the same STEM subjects
 - [Large introductory STEM lecture courses impose significant grade penalties on all students, averaging -0.22 letter grades](stem-lectures-impose-grade-penalties.md) — related
 - [Gendered performance differences are generally small in Humanities and Social Science lecture courses](gpd-small-humanities-social-sciences.md) — related
 - [In standardised test scores of 15-year-olds, gender differences in variance are consistent across STEM and non-STEM subjects, unlike in grades](test-score-variance-gap-consistent-across-subjects.md) — related
+- [The gender gap in STEM GPA is much smaller than in overall GPA and vanishes for most groups except the most privileged students](stem-gpa-gender-gap-vanishes-except-privileged.md) — related

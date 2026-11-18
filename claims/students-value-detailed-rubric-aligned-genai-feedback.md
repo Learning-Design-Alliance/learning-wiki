@@ -68,3 +68,4 @@ Thematic analysis of student post-surveys (n=79) and focus groups (n=18) in a qu
 - [Interview data show students valued progress tracking and freedom, while a minority missed grades and found the procedures demanding](afl-interview-qualitative-responses.md) — related
 - [Thematic analysis identified exam-aligned structured practice as the core perceived value of AIVP](aivp-thematic-exam-aligned-practice.md) — related
 - [Residents found the curriculum's grading rubrics helpful and reported knowing how to improve after graded feedback](rubric-feedback-helped-residents-know-how-to-improve.md) — related
+- [Students regarded feedback as an important component of peer assessment, valuing corrective and suggestive comments beyond bare marking](peer-feedback-importance-corrective-suggestive.md) — related

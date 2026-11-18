@@ -49,3 +49,4 @@ ANOVA on subsequent-course GPAs of students who persisted in biology-related dis
 - [After SGM program implementation, URM students graduated with biology and NSE majors or minors at rates equal to non-URM students, closing a pre-program gap](pltl-sgm-urm-persistence-equal-non-urm.md) — related
 - [Biology majors and minors enrolled in postcollege degree programs at higher rates than college alumni overall, with no URM or program differences](postgrad-enrollment-bio-majors-higher-no-urm-difference.md) — related
 - [URM students left biomedical fields at higher rates than majority students, an effect explained in part by their lower biology course grades](urm-higher-biomedical-attrition-mediated-by-grades.md) — related
+- [URM students have the lowest mean overall and STEM GPAs, lower even than non-URM students with one disadvantage](urm-students-lowest-gpa-all-groups.md) — a broader claim this one bears on

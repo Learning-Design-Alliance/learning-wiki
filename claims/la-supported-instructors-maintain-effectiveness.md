@@ -48,3 +48,4 @@ The same HLM analysis of 4,365 students in 93 courses found that times taught wi
 - [Instructor effectiveness in introductory physics declines as instructors gain experience teaching a course without Learning Assistants](instructor-effectiveness-declines-teaching-without-las.md) — related
 - [The predicted posttest-score gap favoring LA-supported courses grows from 3.1% with no prior instructor experience to 10.3% at six terms of experience](la-gap-grows-with-instructor-experience.md) — related
 - [Students' effect sizes increase by 0.154 for every term a faculty member has previously taught the course with LAs, a statistically significant difference](lasso-faculty-la-experience-effect.md) — reports the opposite
+- [LA-supported introductory physics courses are associated with lower overall DFW rates than traditional courses taught by the same instructors](la-support-lower-overall-dfw-rates.md) — related

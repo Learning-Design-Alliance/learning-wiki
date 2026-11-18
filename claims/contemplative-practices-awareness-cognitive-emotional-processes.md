@@ -52,3 +52,4 @@ Theme from the qualitative coding of written reflections. Excerpts include a stu
 - [Pedagogy has evolved to include gaming, social interaction and play, and contemplative practices](pedagogy-evolved-new-methods.md) — a broader claim this one bears on
 - [Meditation shows significant but predominantly small effects on social competence, with teacher-facilitated programmes showing more significant effects](meditation-small-social-competence-effects.md) — related
 - [A majority of students reported that the contemplative practices produced feelings of somatic relaxation and mental stillness](contemplative-practices-somatic-relaxation-mental-stillness.md) — related
+- [Most students expressed appreciation for the somatic, affective, and cognitive effects of the practice, while a minority reported initial skepticism](em-practice-appreciation-skepticism.md) — related

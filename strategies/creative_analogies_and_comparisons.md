@@ -59,9 +59,11 @@ Analogies reduce intrinsic load by letting learners import an existing schema in
 5. Ask learners to apply the concept in a new situation, or to critique or generate analogies themselves, to check that they mapped structure rather than surface features
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — analogies are a specific, structured way of doing this
 - [Concrete Examples](../strategies/concrete-examples.md) — examples instantiate the target directly; analogies import structure from a different domain
 - [Dual Coding](../strategies/dual-coding.md) — pairing the analogy with a visual reinforces the mapping
+- [Explicitly examine analogies and models as thinking tools, not merely use them to teach circuit ideas](explicit-analogy-examination-thinking-tools.md)
 
 ## Related Elements
 - [Analogies](../elements/analogies.md) — the core element this strategy deploys

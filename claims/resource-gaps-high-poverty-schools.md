@@ -60,3 +60,4 @@ The report cites recent analyses of school-equity-case data from more than 20 st
 - [Early childhood education programs often yield larger benefits for children most in need, such as low-income children, children of color, and those with fewer educational resources](ece-larger-benefits-children-most-in-need.md) — related
 - [Large class size, inadequate classroom facilities, and low internet access are associated with low academic performance in Ethiopian higher education](facility-deficits-associated-low-performance.md) — related
 - [ICT resources such as computers, internet facilities and printers are not adequately available in Ekiti State secondary schools](ict-resources-inadequate-ekiti-schools.md) — related
+- [PES students come from families with lower income levels compared to FES and MES students](pes-students-lower-family-income.md) — related

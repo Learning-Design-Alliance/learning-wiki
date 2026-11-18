@@ -107,3 +107,4 @@ This systematic review searched for studies (1977–2020) comparing guided play 
 - [The learning environment can engage children in advanced mathematical thinking in early education](game-engages-advanced-mathematical-thinking.md) — related
 - [Mean effect sizes of technology-enhanced mathematics learning vary by didactical functionality from small to medium, with the largest variation for developing conceptual understanding](effect-sizes-vary-by-didactical-functionality-math.md) — related
 - [Learning by designing an educational location-based game produced greater knowledge acquisition than learning by playing one, with significant effects on five of nine knowledge questions](designing-location-based-game-knowledge-acquisition.md) — related
+- [Preschool children needed guidance to create and understand user profiles in the serious-game app](preschool-children-profile-concept-not-assimilated.md) — a narrower finding that bears on this claim

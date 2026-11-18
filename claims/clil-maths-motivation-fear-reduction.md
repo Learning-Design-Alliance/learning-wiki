@@ -54,3 +54,4 @@ The authors report that pupils "became more motivated to learn something new and
 - [Self-reported sympathy and interest toward mathematics on the paired interest/love items differed significantly from pre-test to post-test after Second Life-based instruction, with post-test scores favored in one uncontrolled pre-post study (z=3.01, p<.05)](sl-math-robot-interest-love-pair-increase.md) — related
 - [CLIL applications helped an initially disadvantaged experimental group become statistically similar to the control group in English test scores](clil-experimental-group-levels-with-control-posttest.md) — related
 - [Students responded very positively to project-based CLIL learning](clil-positive-student-perceptions.md) — related
+- [The article claims inquiry-based learning increases pupil motivation and develops practical and research skills](inquiry-learning-motivation-and-research-skills.md) — related

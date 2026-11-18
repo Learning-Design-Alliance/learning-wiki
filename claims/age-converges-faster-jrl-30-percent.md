@@ -49,3 +49,4 @@ Numerical comparison on the just-right-length (JRL) scenario of the UNT dataset 
 - [The two-stage query with SCS elevates grading process up to 40% on the LL dataset and up to 30% at the beginning on the JRL dataset compared to conventional AL](age-elevates-grading-ll-jrl.md) — possibly the same claim (merge candidate)
 - [AGE reduces teacher grading burden by requiring only 1% of student answers in the UNT dataset to be graded](age-grades-only-one-percent-unt.md) — related
 - [On the mismatch-grade dataset, all models without the voting mechanism diverge, while AGE with VM estimates student answers increasingly precisely](vm-prevents-divergence-mmg.md) — related
+- [Simulation shows the proposed estimation successfully estimates abilities within finite iterations, faster and with smaller error when historical data is considered](acquisition-estimation-convergence-history-simulation.md) — related

@@ -54,6 +54,7 @@ The review recommends making growth mindset behaviors socially rewarded rather t
 - [Adapt interventions that leverage peer relationships to curb the social contagion of dropout in high schools](peer-relationship-interventions-curb-dropout-contagion.md)
 - [Build growth-mindset classroom cultures through teacher practices that convey all students can learn and improve](growth-mindset-classroom-culture-practices.md)
 - [Teachers can make desirable peer norms salient by explicitly acknowledging students who express mastery goals](acknowledge-mastery-goal-students-salient-norm.md)
+- [Improve equity and inclusion in introductory physics, including interventions to boost self-efficacy, growth mindset and sense of belonging](equity-inclusion-interventions-introductory-physics.md)
 
 ## Examples
 -

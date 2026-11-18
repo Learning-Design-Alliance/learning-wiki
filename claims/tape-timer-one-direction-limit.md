@@ -53,3 +53,4 @@ Affordance analysis of the tape timer lab (dots on a paper tape at 0.01 s interv
 - [The zero-velocity/zero-acceleration misconception at maximum height was virtually absent in this sample](absence-zero-velocity-acceleration-misconception.md) — related
 - [Students perceive the downward part of a vertical launch and free fall from rest as different cases, with large decreases in correct models](downward-motion-perceived-different-case.md) — related
 - [Students engaged in self-directed learning with the simulation, customizing the roller coaster and addressing their own misconceptions](self-directed-learning-remixed-simulation.md) — related
+- [A fully realistic treatment of a rocket launch would exceed the difficulty level feasible for school teaching, so the unit uses idealized vertical ascent](realistic-rocket-treatment-exceeds-school-level.md) — related

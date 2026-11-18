@@ -57,3 +57,4 @@ In one discussion section, while analyzing a mesh circuit problem, Michael reaso
 - [Upper-division physics undergraduates commonly construct novel equations to model physical situations through intuitive understanding rather than formal derivation, as modeled by Sherin's symbolic forms](symbolic-forms-intuitive-equation-construction.md) — related
 - [Sighted classmates appreciated the additional tactile, 3D graphical and oral-explanation accommodations made for a blind student](sighted-students-appreciated-tactile-aids.md) — related
 - [Students struggled to match correct physical intuition to equations in the springs-in-series problem despite extreme case reasoning](springs-series-intuition-equation-mismatch.md) — related
+- [Standard PER assessment paradigms do not capture coherence-seeking, leaving mathematical sensemaking outcomes undetected](standard-per-assessments-miss-coherence-seeking.md) — related

@@ -64,6 +64,7 @@ Drawing is a generative learning activity: learners must construct external stru
 - [Use data visualization to make complex concepts accessible in research communication](data-visualization-for-accessible-research-communication.md)
 - [Prompt students to sketch a drawing of the system while reading an expository science text](sketching-during-reading-strategy.md)
 - [Three-step construction of lens ray diagrams from bundles of elemental images, with focal points redefined in terms of elemental images](elemental-image-ray-diagram-construction.md)
+- [Use sunray diagrams in undergraduate thermodynamics to clear up beginners' misconceptions about partial derivatives](sunray-undergraduate-misconception-strategy.md)
 
 ## Examples
 - **[Picturing to Learn](https://picturingtosolve.org)** (Harvard/MIT) — undergraduate science students create drawings to explain concepts to non-experts; the audience constraint improves selectivity and reveals misconceptions.

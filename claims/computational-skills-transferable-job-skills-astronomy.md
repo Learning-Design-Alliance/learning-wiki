@@ -53,3 +53,4 @@ The article's Careers section asserts this as the authors' position, adding that
 ## Related Claims
 - [Computational skills are required at all levels of education and research in astronomy](computational-skills-required-all-astronomy-levels.md) — related
 - [Job-seeking CS students rank ethical concerns last among job considerations, below remuneration, location, work-life balance, and workplace culture](ethical-concerns-ranked-last-job-consideration.md) — related
+- [Survey respondents argue statistical training is important for employability outside academic astronomy](statistics-training-supports-hqp-employability.md) — related

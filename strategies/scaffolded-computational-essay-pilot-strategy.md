@@ -49,6 +49,8 @@ The article's pilot recipe: give students the challenge to "use a simulation to 
 ## Related Strategies
 
 - [Use computational essays as semester-long projects with revision, portfolio-based assessment, or as a stepping stone to programming integration](computational-essays-teaching-and-assessment-uses.md)
+- [Scaffold open-ended computational projects with example essays, starter simulations, and peer presentations](scaffold-open-ended-computational-essays-strategy.md)
+- [Scaffold open-ended computational projects with seed simulations, an example essay, and staffed helpdesk hours](seed-simulations-helpdesk-scaffolding-strategy.md)
 
 ## Examples
 -

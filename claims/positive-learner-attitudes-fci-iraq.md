@@ -88,3 +88,5 @@ Semi-structured interviews with 10 experimental-group volunteers, analysed by in
 - [Students perceived distance learning as more efficient and as providing more time to study and review materials than classroom learning](distance-learning-perceived-more-efficient-more-time.md) — related
 - [Flipped students rated technology-facilitated activities more negatively but saw clearer purpose in activities, with other attitudes equal](flipped-attitudes-technology-negative-purpose-positive.md) — reports the opposite
 - [Students hold positive attitudes towards e-learning that do not change over the course, yet continue to regard face-to-face lectures as the basis of their education](positive-e-learning-attitudes-lectures-still-basis.md) — related
+- [Pre-service English language teachers report generally positive perceptions of a flipped statistics classroom](flipped-classroom-positive-perceptions-pre-service-english-teachers.md) — related
+- [Students perceived peer instruction and group discussion as motivating and helpful in the flipped statistics class](flipped-peer-instruction-group-discussion-perceived-positive.md) — related

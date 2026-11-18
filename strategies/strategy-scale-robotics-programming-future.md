@@ -50,6 +50,7 @@ The authors recommend that other university-supervised groups replicate the exhi
 - Element Pibid Robotics Exhibition
 - [Build robots from electronic scraps and Arduino boards as a low-cost alternative where schools cannot afford robotics kits](strategy-electronic-scrap-arduino-robots.md)
 - [Replicate and extend the evaluation with comparative and correlative designs at other institutions, and evaluate enhanced postgraduate HIV training programmes](replicate-hiv-training-evaluation-comparative-designs.md)
+- [Extend hands-on and computer-application session durations and provide replication guidelines when organizing similar frontier-physics schools](lidyef2018-session-duration-and-replication-strategy.md)
 
 ## Examples
 -

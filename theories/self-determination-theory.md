@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 154 claims (115 for, 36 mixed, 3 against) · 106 studies (48 associational, 21 causal, 13 review, 9 quant-synthesis, 6 theoretical, 5 qualitative, 4 design), `q1`–`q4` · 28 of 106 report an effect size · 148 claims rest on one study
+> **Evidence** · 156 claims (117 for, 36 mixed, 3 against) · 108 studies (48 associational, 21 causal, 13 review, 9 quant-synthesis, 7 qualitative, 6 theoretical, 4 design), `q1`–`q4` · 28 of 108 report an effect size · 150 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -210,6 +210,8 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Autonomous motivation is positively associated with GPA for Dutch students in pre-clinical education and for Western minority students in clinical education, but not for non-Western students](../claims/autonomous-motivation-gpa-association-ethnic-groups.md) [~W] — attached 2026-11-09 from Isik U et al. (2017), which proposed "Self-Determination Theory as the framework distinguishing autonomous from controlled motivation in medical students".
 - [Perceived competence, intrinsic motivation, external regulation, engagement, and perceived learning rose from pre-test to post-test in one group with no comparison group (path analysis)](../claims/sdt-path-engagement-mediation-tbl.md) [+W] — attached 2026-11-09 from Jeno Lucas M. et al. (2017), which proposed "Self-determination theory: basic psychological needs and a continuum of motivation types"; tests this page's relationship.
 - [Screencast activities shifted responsibility for determining solution steps from teacher to student, increasing student agency](../claims/screencasts-increase-student-agency-physics.md) [+W] — attached 2026-11-17 from Van Dusen et al. (2012), which proposed "Personal-meaning model: the iPad as a mediating 'bridge' connecting students to physics via agency, status, and play".
+- [How Learning Works teaching principles and Self-Determination Theory needs characterize physics faculty's productive teaching ideas and motivations](../claims/hlw-sdt-characterize-faculty-teaching-ideas.md) [+W] — attached 2026-11-18 from Strubbe et al. (2024), which proposed "Five aspects of faculty agency around teaching, read through Self-Determination Theory".
+- [Interview data from research-participating physics students contained three distinct motivations for doing research, aligned with SDT's autonomy, competence, and relatedness dimensions](../claims/three-research-motivations-sdt-alignment.md) [+W] — attached 2026-11-18 from Tra Huynh et al. (2019), which proposed "Self-Determination Theory characterizing research motivation along autonomy, competence, and relatedness".
 
 ## The evidence by question
 

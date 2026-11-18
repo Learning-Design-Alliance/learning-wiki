@@ -52,3 +52,4 @@ Qualitative focus-group interviews with 18 students (4 male, 14 female), analyze
 - [Saudi nursing students perceived pre-class assignments in flipped learning as deepening their understanding of course content](fl-preclass-assignments-deepened-understanding-nursing.md) — related
 - [The lowest-rated aspects of the flipped classroom concerned time: students most wanted more time per topic and noted long preparation and conduction time](flipped-classroom-time-related-lowest-ratings.md) — related
 - [A flipped-classroom pilot in pre-service physics teacher education led all four participating teachers to independently learn a multimedia tool and produce a shareable physics laboratory learning path](flipped-classroom-pilot-produces-four-mm-learning-paths.md) — related
+- [Pre-service English language teachers report generally positive perceptions of a flipped statistics classroom](flipped-classroom-positive-perceptions-pre-service-english-teachers.md) — related

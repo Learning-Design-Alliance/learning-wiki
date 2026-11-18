@@ -76,10 +76,12 @@ Belonging interventions work by reframing adversity: students who attribute earl
 5. Monitor belonging indicators (participation, help-seeking, retention) and adjust; treat the intervention as a message the institution must keep confirming.
 
 ## Related Strategies
+
 - [Growth Mindset Interventions](growth-mindset-interventions.md) — complementary attribution reframing: ability is malleable, belonging difficulties are temporary
 - [Wise Feedback](wise-feedback.md) — critical feedback framed with assurance of high expectations and capacity, reinforcing belonging at the moment of evaluation
 - [Value Affirmation](value-affirmation.md) — a complementary brief intervention targeting self-integrity rather than belonging; often combined
 - [Check-Ins](../principles/check-ins.md) — ongoing relational practices that maintain the belonging message after the initial intervention
+- [Provide scaffolding at the conceptual-to-mathematical transition and use growth-mindset activities to sustain persistence after setbacks](scaffolding-conceptual-mathematical-transition-growth-mindset.md)
 
 ## Examples
 - **University of Texas at Austin** — Walton & Cohen's social-belonging module delivered to incoming students; the original randomized study showed narrowed racial achievement gaps that persisted through three years of college.

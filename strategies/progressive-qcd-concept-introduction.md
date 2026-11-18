@@ -43,6 +43,7 @@ A concrete recipe used in Quantum 3: start with one central concept and add rule
 ## Related Strategies
 
 - [Use a three-star efficiency rating that rewards skillful play without blocking progression](three-star-nonblocking-progression.md)
+- [Sketch the skeleton of a field for background-free learners to enable faster later progress](skeleton-sketch-for-faster-progress.md)
 
 ## Examples
 -

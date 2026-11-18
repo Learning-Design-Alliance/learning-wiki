@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/lack-prior-astronomy-knowledge-main-difficulty.md
+---
+
+# Revision history: [claims/lack-prior-astronomy-knowledge-main-difficulty](../claims/lack-prior-astronomy-knowledge-main-difficulty.md)
+
+### 2026-11-18 · ingest · process:wiki-ingest
+Ingested from arxiv-2002.05444 (Continuing education: a solution proposal for problems in the teaching of Astronomy) via eval_harness.py + ingest_extractions.py

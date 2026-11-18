@@ -74,3 +74,4 @@ Quasi-experimental study of two ninth-grade sections (30 students each) in two I
 - [CMMCALL program improved low-achievers' academic performance in grammar and reading comprehension](cmmcall-improved-low-achievers-performance.md) — related
 - [Concept mapping and paraphrasing instruction produced no significant difference in EFL learners' reading comprehension post-test scores](concept-mapping-paraphrasing-no-significant-difference.md) — related
 - [PBL instruction significantly improved EFL learners' English reading comprehension compared with traditional reading instruction](pbl-significantly-improves-efl-reading-comprehension-taiwan-university.md) — related
+- [One-way ANOVA shows post-test scores differ across estimated ability levels in the experimental group (vocabulary F= 5.75, grammar F= 4.71, reading comprehension F= 5.98) but not for vocabulary and grammar in the control group](anova-distinguishes-estimated-ability-groups.md) — related

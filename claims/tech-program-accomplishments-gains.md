@@ -55,3 +55,4 @@ Thematic analysis across seven accomplishment themes: career transition and expe
 - [People and connections were the most-used learning transition supports among HSE participant-advisors](people-connections-top-transition-support.md) — related
 - [Advancement to WRL 7 was observed only after industry-embedded exposure, not additional coursework](wrl-6-to-7-gated-by-industry-embedded-exposure.md) — related
 - [Black workers and learners report awareness and exploration barriers to tech careers including limited diverse representation, limited social networks, and limited school exposure](black-tech-awareness-exploration-barriers.md) — related
+- [Enrollment in the astronomy continuing-education course was driven partly by certification needs, cited by about 50% of one municipal network's teachers and 20% of the other's](certification-motivation-astronomy-cpd-enrollment.md) — related

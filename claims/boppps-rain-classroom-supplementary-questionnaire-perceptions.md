@@ -70,3 +70,4 @@ Investigator-developed supplementary questionnaire of eight items on five-point 
 - [Students reported close-to-moderate perceived gains in problem-solving and knowledge-construction abilities](perceived-learning-gains-close-to-moderate.md) — related
 - [Students responded favorably to collaborative testing, reporting high involvement, reduced stress, and interest in future group-testing classes](positive-student-perceptions-collaborative-testing.md) — related
 - [Students reported strong gains in modeling content, modeling process skills, and cooperative skills on a retrospective SALG survey (N = 89).](salg-strong-gains-modeling-content-process-cooperative.md) — related
+- [Students evaluated the CPS experience positively, most appreciating group discussion and knowledge sharing](students-evaluate-cps-positively.md) — related

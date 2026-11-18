@@ -57,3 +57,4 @@ Pre/post survey administration by teachers across the five terms (217 responses 
 - [In a survey of 590 Slovak masterclass participants, 72% expressed interest in pursuing a career in natural sciences (including informatics) or engineering](slovak-survey-career-interest.md) — related
 - [Pilot workshop feedback indicates increased interest in physics among KS4 students after an art-based particle physics workshop](art-workshop-increased-physics-interest-ks4.md) — related
 - [UAT alumni report increased research interest and self-knowledge, and 91% of alumni with known status pursue STEM careers](uat-alumni-outcomes-interest-and-stem-retention.md) — related
+- [Students oriented toward STEM careers show more positive science attitudes, with non-STEM-intending students least positively impacted and astronomy/physics-career students most](astro-attitude-correlates-stem-career-orientation.md) — related

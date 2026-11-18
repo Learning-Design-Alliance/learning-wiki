@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: weak
 newest_evidence: 2019
+source_checked: 2026-11-18
 recheck_by: 2024
 sources:
   - id: michael-b-lund-2019
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
+> **Currency** · newest study 2019 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The share of STEM Ph.D. earners whose master's came from master's colleges rises from 12% overall to 18% for Native American and African American students, and women were less likely to reach a Ph.D. program (17% vs 31% of men). [→ Michael B. Lund 2019](#michael-b-lund-2019)

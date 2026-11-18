@@ -52,3 +52,4 @@ Constructivist grounded-theory analysis of the AI-enabled section, triangulating
 - [Educators redefined AI's educational role from answer provider to learning partner and tutor supporting conceptual understanding](ai-learning-partner-tutor-redefinition.md) — related
 - [Log analysis reveals novel post-acceptance behaviors (slow tab accept, slow accept then modify) that show suggestion acceptance is a multi-step process](novel-post-acceptance-behavioral-metrics.md) — related
 - [Field instructors positioned technology as a presentation aid to be tempered with traditional teaching](field-instructors-technology-as-presentation-aid-tempered.md) — related
+- [PSOT code prevalence data can suggest ongoing LA-faculty partnership types but are reference points, not benchmarks](psot-data-suggest-partnerships-not-benchmark.md) — related

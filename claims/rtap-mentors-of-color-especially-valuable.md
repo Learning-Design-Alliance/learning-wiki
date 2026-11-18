@@ -49,3 +49,4 @@ Qualitative interview finding: "Several participants were assigned mentor-teache
 - [Mentorship was important to apprentices, but mentor quality and time with mentors varied across programs](rtap-mentorship-value-and-variability.md) — a broader claim this one bears on
 - [Few teachers receive regular mentoring, and early-career teachers of color report less access to mentoring and induction than White peers](limited-mentoring-access-early-career-teachers-of-color.md) — related
 - [New teachers who receive little mentoring are twice as likely to leave the classroom as well-mentored beginners](mentoring-halves-new-teacher-attrition.md) — a broader claim this one bears on
+- [Participants valued mentors who honestly shared the human costs and difficulties of computer science careers](bpdm-qualitative-relatable-mentors.md) — related

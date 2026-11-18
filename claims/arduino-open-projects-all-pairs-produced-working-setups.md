@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: moderate
-newest_evidence: 2015
+newest_evidence: 2016
 sources:
-  - id: f-bouquet-2015
+  - id: f-bouquet-2016
     resource: "https://doi.org/10.48550/arXiv.1601.06659"
-    title: "F. Bouquet, J. Bobroff, M. Fuchs-Gallezot, and L. Maurines. (2015). Project-based physics labs using low-cost open-source hardware. [doi:10.48550/arXiv.1601.06659](https://doi.org/10.48550/arXiv.1601.06659)"
+    title: "F. Bouquet, J. Bobroff, M. Fuchs-Gallezot, and L. Maurines. (2016). Project-based physics labs using low-cost open-source hardware. Originally published 2015. [doi:10.48550/arXiv.1601.06659](https://doi.org/10.48550/arXiv.1601.06659)"
     author: F. Bouquet, J. Bobroff, M. Fuchs-Gallezot, and L. Maurines
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` All eleven pairs of third-year students completed a working experimental setup and physical measurements within the five-day project, though some projects were reoriented and downsized. [→ F. Bouquet 2015](#f-bouquet-2015)
+`q2 i?` All eleven pairs of third-year students completed a working experimental setup and physical measurements within the five-day project, though some projects were reoriented and downsized. [→ F. Bouquet 2016](#f-bouquet-2016)
 
 ## Evidence
 
-### F. Bouquet 2015
+### F. Bouquet 2016
 
-F. Bouquet, J. Bobroff, M. Fuchs-Gallezot, and L. Maurines. (2015). Project-based physics labs using low-cost open-source hardware. [doi:10.48550/arXiv.1601.06659](https://doi.org/10.48550/arXiv.1601.06659)
+F. Bouquet, J. Bobroff, M. Fuchs-Gallezot, and L. Maurines. (2016). Project-based physics labs using low-cost open-source hardware. Originally published 2015. [doi:10.48550/arXiv.1601.06659](https://doi.org/10.48550/arXiv.1601.06659)
 
 `q2 · i?` · `design · r2`
 
@@ -46,3 +46,4 @@ Course-completion report for the open-project teaching unit: the authors state t
 
 ## Related Claims
 - [Students in introductory physics labs are almost never engaged in experiment design, so they hold only a theoretical view of setup limitations and how they affect measurement uncertainty](introductory-lab-students-not-engaged-in-design.md) — a broader claim this one bears on
+- [88% of students approved the Arduino as a tool for producing physics experiments](88-percent-students-approve-arduino-tool.md) — related

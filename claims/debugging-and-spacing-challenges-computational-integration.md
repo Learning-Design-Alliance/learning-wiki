@@ -52,3 +52,5 @@ Authors' reflection on two years of teaching the course (15-18 students per year
 - [Distributed (spaced) learning is reported to work best compared with massed study in one long session](distributed-practice-beats-cramming-principle.md) — a broader claim this one bears on
 - [Distributed practice outperforms massed practice for long-term learning, with a possible foreign-language exception](distributed-practice-beats-massed-with-exception.md) — a broader claim this one bears on
 - [Integrating numerical computation into Modeling Instruction provides coherence among models, links representations, and extends the curriculum to real-world problems](numerical-computation-modeling-instruction-benefits.md) — related
+- [Social computational literacy had not been explicitly emphasized in any course in the studied program](social-computational-literacy-not-explicitly-emphasized.md) — related
+- [Undergraduate physics students in a computational essay project demonstrated material computational literacy practices including debugging, tinkering, and algorithmic thinking](students-demonstrate-material-computational-literacy-practices.md) — related

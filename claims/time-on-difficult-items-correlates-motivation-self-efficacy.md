@@ -51,3 +51,4 @@ Analytic example examining whether item response times, after accounting for ite
 - Response times have been used extensively for achievement estimation but little work links test metadata to social-emotional constructs — related
 - [Using item response time metadata to measure students' social-emotional learning shows both promise and limitations](response-time-metadata-sel-promise-and-limitations.md) — a broader claim this one bears on
 - [Whether EF gains are seen depends on the amount of time children spend doggedly practicing and pushing themselves to improve](repeated-practice-key-ef-gains.md) — related
+- [The engineering-context physics self-efficacy item correlates highly with a general physics self-efficacy survey and shows a similar gender effect size](engineering-context-physics-efficacy-item-validation.md) — related

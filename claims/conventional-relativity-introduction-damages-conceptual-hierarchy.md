@@ -51,3 +51,4 @@ Theoretical-pedagogical argument in the section on problems of the conventional 
 - [Most textbooks do not justify the linearity of the Lorentz transformation, and many present invariance of transverse coordinates as obvious](textbooks-linearity-transverse-unjustified.md) — related
 - [None of the reviewed textbooks use the geometric approach, and nearly all order the derivation relativity-principle-first](textbooks-order-relativity-first-no-geometry.md) — related
 - [Standard textbook presentation of SHM as a differential equation is alien to most first-course students](shm-differential-equation-alien-to-introductory-students.md) — related
+- [The standard heuristic derivation is pedagogically undesirable because it is incomplete and its interpretation is confusing for students.](heuristic-derivation-pedagogically-undesirable.md) — related
