@@ -47,7 +47,8 @@ When two interventions have approximately similar rankings for an individual, RI
 - [RITA outperforms an RCT-derived ATE baseline in simulated worlds with heterogeneous treatment effects](../claims/rita-outperforms-rct-baseline-under-heterogeneity.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Set the minimum adaptive-course workload at one-third of total assignments based on background overlap](minimum-one-third-assignments-adaptive-course.md)
 
 ## Examples
 -

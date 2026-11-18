@@ -13,7 +13,7 @@ generated:
 # Journaling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (9 for, 3 mixed, 1 against) · 10 studies (4 causal, 2 quant-synthesis, 2 design, 1 review, 1 qualitative), `q2`–`q4` · 3 of 10 report an effect size · 12 claims rest on one study
+> **Evidence** · 14 claims (10 for, 3 mixed, 1 against) · 11 studies (4 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 review), `q2`–`q4` · 3 of 11 report an effect size · 13 claims rest on one study
 
 ## Description
 Journaling is the element in which learners record reflections, observations, questions, or progress over time in written form. It is useful when learning benefits from continuity, introspection, and visible documentation of change.
@@ -51,6 +51,7 @@ Journaling is the element in which learners record reflections, observations, qu
 - [Tenth-grade students who wrote structured reflective science journals significantly outperformed control students on overall self-regulation strategies](../claims/reflective-journal-writing-improves-self-regulation-strategies.md) [+W] — attached 2026-11-01 from Nawar M. Al-Rawahi et al. (2015), which proposed "Structured reflective science journal writing model with six components"; tests this page's relationship.
 - [Final-year nursing students' reflective journals about emergency and ICU placements yield four themes and an overall positive learning experience with high emotional burden](../claims/rlj-four-themes-critical-care-placements.md) [+W] — attached 2026-11-08 from González-García María et al. (2020), which proposed "Reflective learning journal (RLJ) as a learning and assessment tool in clinical nursing education".
 - [The Guided Reflection Form elicited narrative, growth, and action statements in nearly all student reflections](../claims/grf-elicits-narrative-growth-action-statements.md) [+W] — attached 2026-11-17 from Dimitri R. Dounas-Frazer et al. (2015), which proposed "Guided Reflection Form (GRF), a weekly online reflection tool with instructor feedback".
+- [Student completion of weekly GRF reflections was high, with an 88% submission rate across both sections](../claims/grf-high-completion-rate-88-percent.md) [+W] — attached 2026-11-17 from Daniel L. Reinholz (2017), which proposed "Guided Reflection Form (GRF)".
 
 ## The evidence by question
 

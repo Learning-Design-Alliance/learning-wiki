@@ -48,3 +48,4 @@ Quasi-experiment with 50 students per group, randomly divided, taking a 30-item 
 - [For a fixed initial velocity and no air resistance, projectile range is maximized at an elevation angle of π/4 radians](projectile-maximum-range-pi-over-four.md) — related
 - [Learning physics with the interactive Motion and Vector Analysis software produced higher conceptual understanding than traditional instruction in a quasi-experiment with XI-grade students](interactive-motion-vector-software-improves-conceptual-understanding.md) — related
 - [Class IX physical science students taught with the constructivist 7E model achieved significantly higher post-test and gain scores than students taught with traditional methods](7e-model-higher-science-achievement-secondary.md) — related
+- [Students show improved conceptual understanding of Einsteinian concepts after the Einstein-First program](einstein-first-improved-conceptual-understanding.md) — related

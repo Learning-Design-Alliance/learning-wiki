@@ -50,3 +50,4 @@ The same standardized citywide trend analysis for fifth-grade mathematics found 
 - [ITBS and ISAT inclusion rules differ: ISAT reports scores for all test-takers, while about 20 percent of ITBS test-takers are excluded from public reporting](itbs-tested-but-excluded-isat-reports-all.md) — related
 - [ITBS mathematics is heavily weighted toward computation while ISAT contains up to three times as many items on algebra, geometry, measurement, and probability and statistics](itbs-computation-isat-higher-order-math-content.md) — related
 - [SWPBIS training showed no significant effect on school-level third- and fifth-grade math and reading proficiency gains](swpbis-no-significant-achievement-effect.md) — related
+- [On nationally normed state tests through 2002, computation scores declined while reasoning scores rose or held steady](state-test-computation-declined-reasoning-rose.md) — related

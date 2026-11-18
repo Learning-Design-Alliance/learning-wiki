@@ -72,3 +72,4 @@ The article's structural analysis of the meeting identifies two main parts: "wor
 - [Iterative advisory group feedback drove four framework iterations, including adding disruption and multi-level oppression](advisory-feedback-drove-framework-iterations.md) — a narrower finding that bears on this claim
 - [In the meeting, coordination was the most common type of interaction and communication the rarest, indicating reconceptualizing the script was very challenging](coordination-dominates-communication-rare.md) — related
 - [Propose is the dominant communication sequence in e-learning team design, occupying almost half of team activity](propose-dominant-communication-sequence.md) — related
+- [In the least scaffolded electromagnet activity, no student iterated on their model despite the opportunity, and most students judged their comparison to show sufficient agreement](electromagnet-no-iteration-most-agreement.md) — related

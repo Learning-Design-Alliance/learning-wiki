@@ -52,3 +52,4 @@ Comparison of the computer-based group (N=29) with the prior study's individual 
 - [For novel material (impulse-momentum theorem), no statistical difference emerges among group-based styles with verbal TA interaction; the tutorial material itself dominates](novel-material-instructor-support-less-important.md) — related
 - [Students in computer-based inquiry environments still held misconceptions about force and energy after instruction](persistent-misconceptions-computer-based-ibl.md) — related
 - [For material students have prior knowledge of (work-energy theorem), tutorial effectiveness depends significantly on teaching quality, with the ideal Socratic implementation best](instructor-quality-matters-with-prior-knowledge.md) — related
+- [The authors hypothesize that understanding gained in Potential Penguin transfers to Quantum Moves performance and quantum understanding](hypothesis-inter-game-transfer-penguin-to-quantum-moves.md) — related

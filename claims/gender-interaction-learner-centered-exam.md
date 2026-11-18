@@ -51,3 +51,4 @@ Follow-up LMM with a gender by PC2-quartile interaction on exam scores from all 
 - [Exam Playbook benefits were larger for female users and for first-generation students, reducing achievement gaps](exam-playbook-moderation-demographic-benefits.md) — related
 - [In introductory STEM courses, medium but not medium-high learner-centered practice levels correlate with higher exam scores](introductory-courses-learner-centered-q2-only.md) — related
 - [Principal component analysis of PORTAAL practices identifies a learner-centered set (volunteer/random-call answers, prompting logic, positive feedback) opposed to an instruction-centered set](portaal-pca-two-teaching-modes.md) — related
+- [Scaffolding does not preferentially benefit female students; apparent preferential gain is an artifact of achievement-level composition](scaffolding-gains-level-dependent-not-gender.md) — reports the opposite

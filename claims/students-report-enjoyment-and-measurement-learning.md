@@ -51,3 +51,4 @@ Instructor's summary evaluation of the lab across implementations, reporting stu
 - [Children were highly engaged in and enjoyed the HL activities, with participation increasing in 60% of observed sessions](hl-activities-engagement-enjoyment.md) — related
 - [Experimental-group students reported enjoying learning Newton's Laws through game-based projects and wanted the method used in other lessons](pbl-game-student-enjoyment-interviews.md) — related
 - [Students articulated a strong preference for iPad work over traditional physics work and initiated out-of-class physics activity](ipad-work-preferred-over-traditional-physics-work.md) — related
+- [Non-physics-major students enjoyed the cycloid experiment](non-physics-majors-enjoyed-cycloid-experiment.md) — related

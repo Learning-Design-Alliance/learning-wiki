@@ -71,3 +71,4 @@ On a written infinite-square-well question about whether all allowed wave functi
 - [Many graduate students fail to give the correct time-dependence of a non-stationary state, often writing a common phase factor](grad-qm-time-development-difficulties.md) — related
 - [Think-aloud interviews revealed that students dismissed the ground-state distractor for its low energy and shape rather than because it is a stationary eigenstate, and that students drew on classical wave analogies](think-aloud-interviews-q17-distractor-reasons.md) — related
 - [Students overextend and misapply metaphorical systems in physicists' language, and some QM difficulties can be explained as difficulties with language](students-overextend-physics-metaphors.md) — related
+- [Student understanding of wave-particle duality falls into three clusters ranging from classical to quasiquantum description](three-clusters-wave-particle-duality-understanding.md) — related

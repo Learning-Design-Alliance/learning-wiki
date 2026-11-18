@@ -25,7 +25,8 @@ A suite of SSU-maintained public websites providing gamma-ray-burst and space-sc
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [ESA European CanSat competition](esa-european-cansat-competition.md)
 
 ## Key Sources
 - Lynn Cominsky, Kevin McLin, Aurore Simonnet and the Swift E/PO Team. (2014). Fourteen Years of Education and Public Outreach for the Swift Gamma-ray Burst Explorer Mission. eConf C1304143. https://arxiv.org/abs/1405.2104

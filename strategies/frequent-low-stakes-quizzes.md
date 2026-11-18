@@ -128,6 +128,7 @@ Retrieval practice produces substantially more durable retention than restudying
 - [Use seminar quizzes as low-stakes formative tools for readiness, feedback and identifying struggling students](seminar-quiz-formative-feedback-strategy.md)
 - [Reopen graded quizzes as ungraded, delayed practice near exam time and encourage all students — especially lower prior performers — to use them](delayed-requizzing-strategy.md)
 - [Implement retrieval practice as frequent low- or no-stakes quizzes with feedback, framed as learning opportunities](low-stakes-retrieval-practice-implementation.md)
+- [Embed low-stakes formative assessment activities throughout the course, such as think-pair-share, clicker questions, tutorials with pre- and post-tests, collaborative problem solving, minute papers, and concept maps](embedded-low-stakes-formative-assessment-activities.md)
 
 ## Examples
 - **Team-Based Learning** ([tbl.teamslearn.org](http://www.tbl.teamslearn.org)) — individual Readiness Assurance Tests taken before team discussion, with immediate appeal and feedback

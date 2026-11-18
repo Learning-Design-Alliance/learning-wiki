@@ -41,6 +41,7 @@ This strategy pairs student-facing supports (personalized planning materials and
 
 - [Find The Fit Upward Bound Advising Program](../products/find-the-fit.md)
 - [Pair college-transition messaging with more specific college-related information and adequate advisor capacity](college-messaging-specific-info-strategy.md)
+- [Intentional advising: individually contact interested students at orientation, plan mathematics pathways, and follow up after grades post](intentional-advising-orientation-math-pathway-followup.md)
 
 ## Examples
 -

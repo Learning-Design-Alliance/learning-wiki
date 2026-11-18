@@ -50,3 +50,4 @@ Authors' reflective evaluation across their outreach events (Section IV), based 
 - [A friendship-paradox module failed in practice because its verification calculations were tedious and it did not scale up](friendship-paradox-module-failed.md) — related
 - [Decision tree classifiers trained on slide interaction features predict end-of-module outcomes with high accuracy across four K-12 programming courses](dt-slide-interaction-features-predict-module-outcomes.md) — related
 - [Adapted network-science outreach activities for Spanish teenagers succeeded in transmitting basic network-science concepts, with student poll responses all A or B](outreach-network-science-transmitted-concepts.md) — related
+- [Participation in the NetSci High outreach program had a significant impact on students' understanding of networks and on their data-science, academic, and professional skills, per the program's summative assessments](netsci-high-summative-impact-skills.md) — related

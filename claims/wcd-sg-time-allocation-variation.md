@@ -48,3 +48,4 @@ Observational time-allocation results from RIOT-coded discussion/lab sections; t
 - [Instructor-student interactions vary greatly across instructors teaching the same interactive-engagement physics course](vast-instructor-interaction-variation-clasp.md) — a broader claim this one bears on
 - [Instructor interaction types during small group time vary widely, from explaining to student-shared dialogue](small-group-interaction-type-variation.md) — related
 - [Physics 50W workshop TAs showed much greater variation in time allocation than lab TAs, splitting time nearly evenly between whole class, small groups, individuals, and not interacting](physics50w-high-ta-variation.md) — related
+- [Studio physics students interacted 2.7 times more with their TA in lecture sessions than non-studio students did with their instructors, but lab interaction rates were greater in non-studio physics](studio-vs-nonstudio-interaction-rates.md) — related

@@ -35,5 +35,5 @@ A research-based guided quantum-mechanics tutorial developed by Singh and collea
 
 ## Key Sources
 - Chandralekha Singh and Emily Marshman. (2014). Developing an Interactive Tutorial on a Mach-Zehnder Interferometer with Single Photons. 2014 PERC Proceedings. https://doi.org/10.1119/perc.2014.pr.056
-- Maries, A., Sayer, R., and Singh, C. (2015). Investigating transfer of learning in advanced quantum mechanics. https://scholar.google.com
+- Maries, A., Sayer, R., and Singh, C. (2015). Investigating transfer of learning in advanced quantum mechanics. https://scholar.google.com. [doi:10.1119/perc.2015.pr.047](https://doi.org/10.1119/perc.2015.pr.047)
 - Emily Marshman and Chandralekha Singh. (2016). Interactive tutorial to improve student understanding of single photon experiments involving a Mach-Zehnder Interferometer. https://arxiv.org/abs/1601.05931

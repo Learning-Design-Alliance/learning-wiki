@@ -50,3 +50,4 @@ Motivation proxy measured by extra credit submission rates across the three sect
 - [Web-facilitated section students earned significantly higher final course grade and final letter grade means than online section students](web-facilitated-higher-final-grade-than-online.md) — related
 - [Web-facilitated section students earned significantly higher final exam means than both hybrid and online section students in an undergraduate exercise psychology course](web-facilitated-higher-final-exam-than-hybrid-online.md) — related
 - [Hybrid-section students earned significantly fewer extra-credit points, and attendance correlated with total points across the cohort](engagement-measures-extra-credit-attendance.md) — related
+- [In the Spring 2015 replication, extra credit was insufficient to motivate voting or problem modification, with only about 5% of about 160 students submitting modifications](spring-2015-motivation-failure.md) — related

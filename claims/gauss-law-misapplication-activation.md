@@ -85,3 +85,4 @@ Think-aloud interview set (N=10 across two protocols) probing Activation. Misapp
 ## Related Claims
 - [Roughly a quarter of junior-level E&M students attempted to calculate the potential by first calculating the electric field rather than using direct integration of Coulomb's Law for potential](coulomb-law-activation-selection-patterns.md) — related
 - [Students who first calculated total charge were more likely to attempt Gauss' Law for the potential, suggesting prompts cue resource activation](total-charge-prompt-cues-gauss-law.md) — related
+- [Questions about net flux through closed surfaces and choice of Gaussian surfaces were extremely difficult, with students unsure which surfaces Gauss' law applies to](students-unsure-gauss-law-closed-surfaces-gaussian-surface-choice.md) — related

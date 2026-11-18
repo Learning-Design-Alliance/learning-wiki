@@ -53,3 +53,4 @@ Mediation analysis (Baron & Kenny criteria plus Sobel/Goodman test in XLSTAT) on
 - [Computer self-efficacy mediates the relationship between technological literacy attained through the Contextualized-OLPC project and functional literacy](computer-self-efficacy-mediation-olpc-functional-literacy.md) — related
 - [Instructors' self-efficacy positively affects perceived ease of use of e-learning platforms in Nigerian universities](self-efficacy-predicts-ease-of-use-nigerian-instructors.md) — related
 - [Learner computer anxiety does not significantly affect e-learning satisfaction in this sample](computer-anxiety-null-satisfaction.md) — related
+- [Availability of IT services and computer self-efficacy strongly predict perceived ease of use of online mathematical assessments](ait-cse-predict-ease-of-use.md) — related

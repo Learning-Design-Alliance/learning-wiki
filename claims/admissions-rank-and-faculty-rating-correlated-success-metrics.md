@@ -66,3 +66,4 @@ Reasonability-check correlations within the same cohort. "Faculty rating was fou
 ## Related Claims
 - [GRE verbal and quantitative scores correlated with course average, first-year graduate GPA, and exit exam scores in a medical physics graduate cohort](gre-quantitative-verbal-correlated-coursework-outcomes.md) — related
 - [Undergraduate GPA was not correlated with faculty rating in this highly selected graduate cohort](undergraduate-gpa-not-correlated-faculty-rating.md) — related
+- [Students' CT performance correlates with their overall GPA, suggesting CT as a predictor of academic success](ct-performance-correlates-with-gpa.md) — related

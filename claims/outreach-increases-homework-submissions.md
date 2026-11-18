@@ -49,3 +49,4 @@ Phase 2 quasi-experiment: all nine classes received weekly TIPS homework for sev
 - [Completing the follow-up homework assignment modestly boosted exam question performance](follow-up-homework-modestly-boosts-exam-performance.md) — related
 - [LA-based personalized feedback increased the proportion of students attempting practice problems during the intervention phase compared to generic messages](la-personalized-feedback-increased-practice-attempt-proportion.md) — related
 - [In-class quizzes taken directly from homework problems produced about 15% greater homework completion than conceptually related open-journal quizzes](homework-based-quizzes-15-percent-greater-completion.md) — related
+- [Student completion of weekly GRF reflections was high, with an 88% submission rate across both sections](grf-high-completion-rate-88-percent.md) — related

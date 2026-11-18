@@ -32,6 +32,7 @@ A University of Kansas multimedia science education project combining a website,
 ## Related Products and Programmes
 
 - [Quarked! interactive website](quarked-interactive-website.md)
+- [Quark Wars](quark-wars.md)
 
 ## Key Sources
 - A. Bean, T. MacDonald. (2011). The Multimedia Project Quarked!. Proceedings of the DPF-2011 Conference, Providence, RI. http://www.quarked.org/

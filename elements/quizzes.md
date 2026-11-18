@@ -114,6 +114,7 @@ Quizzes are one of the most robustly supported instructional elements: testing i
 - [Incorporate automated skills testing as formative assessment in an adaptive learning cycle with repetitive testing](../strategies/automated-testing-adaptive-learning-cycle.md)
 - [Pair automated online problem-set quizzes with lectures, with rapid scored feedback and immediate posting of solutions](../strategies/automated-online-quiz-rapid-feedback-strategy.md)
 - [Scoring-format variations to shift the assessment toward formative or competitive functions](../strategies/buddy-quiz-scoring-variation-strategy.md)
+- [Use a compulsory but ungraded quiz to verify student familiarity with orientation material](../strategies/compulsory-ungraded-orientation-quiz.md)
 
 ## Key Sources
 - Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)

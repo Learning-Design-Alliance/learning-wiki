@@ -145,3 +145,4 @@ Open questions for future enrichment: effect sizes relative to other learning te
 - [Bilinguals may have a specific advantage in transferring understanding of novel symbolic rules to new contexts](bilingual-transfer-novel-symbolic-rules.md) — related
 - [Question-asking practice does not increase prompted question generation on a novel-animal task, nor the content categories of those questions](no-transfer-to-prompted-question-generation.md) — related
 - [An AP Chemistry learnersourcing crossover design comparing student-written explanations with answer-only practice produced no substantiated results because the posttest was never assigned](learnersourcing-crossover-posttest-unsubstantiated.md) — related
+- [Building Understanding towards an Answer Mode: consonant, elaborative discussion of abstract physics concepts prior to answering](building-understanding-mode-elaborative-abstract.md) — related

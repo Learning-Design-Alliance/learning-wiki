@@ -43,6 +43,7 @@ The article proposes organizing the entire first-year laboratory course around a
 ## Related Designs
 
 - [Deepening laboratory for motivated and talented students as a pilot toward design-based research](deepening-laboratory-pilot-design-based-research.md)
+- [Detector-as-common-thread course design: students progress through all stages of a real particle physics experiment](detector-common-thread-experiment-stages.md)
 
 ## Examples
 -

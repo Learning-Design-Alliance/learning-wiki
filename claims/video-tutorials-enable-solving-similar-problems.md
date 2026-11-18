@@ -50,3 +50,4 @@ Preliminary interview-based evaluation of the interactive video tutorials in int
 ## Related Claims
 - [After working through the tutorial, all eight interviewed students drew correct free body diagrams and Newton's second law equations for a near-transfer three-box problem](post-tutorial-near-far-transfer-success.md) — possibly the same claim (merge candidate)
 - [None of twelve interviewed students could solve a non-equilibrium Newton's second/third law problem without help, and they showed systematic difficulties with Newton's third law and free-body-diagram system choice](newton-third-law-interview-difficulties.md) — related
+- [In one-on-one think-aloud implementation, introductory physics students averaged above 80% on paired problems for all three tutorials](one-on-one-tutorial-implementation-above-80-paired-problems.md) — related

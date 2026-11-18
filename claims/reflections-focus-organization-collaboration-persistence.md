@@ -48,3 +48,4 @@ Content analysis of 73 weekly reflections completed by 8 students over 11 weeks,
 ## Related Claims
 - [Medical students in a flipped competency-based curriculum frequently report planning and reflection strategies but rarely report monitoring strategies during pre-class independent learning](medical-students-srl-planning-reflection-over-monitoring.md) — related
 - [SEC-focused app use was limited (7 of 15 students) but involved students used the app longer and reported greater benefits](sec-focused-use-limited-but-longer-and-greater-benefit.md) — related
+- [Student completion of weekly GRF reflections was high, with an 88% submission rate across both sections](grf-high-completion-rate-88-percent.md) — related

@@ -74,3 +74,4 @@ Think-aloud interview finding accompanying the Question 6 item analysis, in whic
 - [Approximately one-third of students from seven universities incorrectly evolve a non-stationary superposition state with a single overall phase factor e^{-iEt/ħ}](qm-overall-phase-factor-time-evolution-difficulty.md) — related
 - [Students fail to transfer the superposition principle from classical contexts to particle waves and treat stationary states as the only allowed wave functions](superposition-lateral-transfer-difficulty.md) — related
 - [Advanced students commonly believe only energy eigenstates are possible wavefunctions and that any well-shaped potential allows bound states](wavefunction-and-bound-state-misconceptions-1d-qm.md) — related
+- [Teaching of complex quantum behavior — time dependence, superposition, and the measurement problem — is barely investigated at the secondary and lower undergraduate level](complex-quantum-behavior-barely-investigated.md) — related

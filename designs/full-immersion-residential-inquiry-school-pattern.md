@@ -41,7 +41,8 @@ A reusable lesson/unit-level design: a residential multi-day program organized a
 - 
 
 ## Related Designs
-- 
+
+- [Detector-as-common-thread course design: students progress through all stages of a real particle physics experiment](detector-common-thread-experiment-stages.md)
 
 ## Examples
 -

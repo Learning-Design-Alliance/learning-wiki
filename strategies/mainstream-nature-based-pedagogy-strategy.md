@@ -54,6 +54,7 @@ The review concludes that it is time to take nature seriously as a resource for 
 ## Related Strategies
 
 - [Use local ancient monuments as outdoor classrooms, chosen after surveying what pupils and teachers do not know](local-monuments-as-outdoor-classrooms-strategy.md)
+- [Check terrain safety and prefer outdoor play for the game](quark-wars-terrain-safety-outdoor-play-strategy.md)
 
 ## Examples
 -

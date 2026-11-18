@@ -17,8 +17,12 @@ two. This works entry by entry:
      wherever it is cited, which is what lets a duplicate claim be found and a study counted once;
   3. else the preprint's own DataCite DOI (10.48550/arXiv.<id>), with the title aligned, or for a
      translated title the first author and year (the arXiv id from the manifest is the coordinate).
-     A cited year that is not the preprint's becomes the record's year; an earlier one is kept in the
-     citation as "Originally published YYYY".
+  A cited year that is not the chosen record's becomes the record's year (even one year off); an
+  earlier one is kept in the citation as "Originally published YYYY".
+
+    --years   for entries already citing a preprint's arXiv DOI on the batch's pages, align the cited
+              year with the DataCite record's, the same way (a published DOI's Crossref year is left
+              alone: a proceedings volume is often issued the year after the one it is cited by)
 
 The body citation line is rewritten (the DOI link takes the place of the line's other URLs) along
 with the entry's heading and the anchors that point at it; sync_evidence_codes.py rebuilds sources[]
@@ -143,6 +147,8 @@ def main():
     ap.add_argument("--pages", nargs="*", help="only these pages (default: every page the batch's arXiv sources wrote)")
     ap.add_argument("--upgrade", action="store_true",
                     help="also move entries that cite a preprint's arXiv DOI to its published version's")
+    ap.add_argument("--years", action="store_true",
+                    help="only align the cited year of entries that already give a DOI with that DOI's record")
     g = ap.add_mutually_exclusive_group(required=True)
     g.add_argument("--check", action="store_true")
     g.add_argument("--apply", action="store_true")
@@ -180,6 +186,34 @@ def main():
             nonlocal done
             head, who, year, n, line = mo.groups()
             year = int(year)
+            if "doi.org/10." in line and a.years:
+                # --years: the cited year follows the record of the DOI the entry already gives
+                dm = re.search(r"\[doi:(10\.[^\]]+)\]", line)
+                if not dm:
+                    return mo.group(0)
+                doi = dm.group(1)
+                arx = re.match(r"10\.48550/arxiv\.(.+)$", doi, re.I)
+                if not arx:
+                    # only a preprint's posting year is unambiguous: Crossref's issued year for a
+                    # proceedings volume (PERC 2013 issued 2014) is not the year it is cited by
+                    return mo.group(0)
+                rec = datacite(arx.group(1))
+                title = cited_title(line, year)
+                if not (rec and rec["year"] and int(rec["year"]) != year and overlap(title, rec["title"]) >= 0.75
+                        and titles_align(title, rec["title"])):
+                    return mo.group(0)
+                new_year = int(rec["year"])
+                note = f" Originally published {year}." if year < new_year else ""
+                renames[f"{who} {year}{n}"] = f"{who} {new_year}{n}"
+                done += 1
+                if log:
+                    log.write(json.dumps({"page": page, "entry": f"{who} {new_year}{n}", "doi": doi,
+                                          "why": f"cited year {year} aligned with the record's {new_year}"}) + "\n")
+                print(f"  {page.split('/')[-1][:44]:44} {who[:24]:24} {year} -> {new_year}  {doi}")
+                line = re.sub(rf"\({year}\)", f"({new_year})", line, count=1)
+                if note and "Originally published" not in line:
+                    line = line.replace(f" [doi:{doi}]", f"{note} [doi:{doi}]", 1)
+                return f"{head}{who} {new_year}{n}\n\n{line}"
             if "doi.org/10." in line:
                 arx = re.search(r"\[doi:(10\.48550/arxiv\.([^\]]+))\]\([^)]+\)", line, re.I)
                 if not (a.upgrade and arx):
@@ -226,7 +260,10 @@ def main():
                 return mo.group(0)
             new_year = year
             note = ""
-            if abs(int(rec["year"]) - year) > 1:
+            # the citation carries the year of the record whose DOI it gives: a year one off (a preprint
+            # posted the year after the conference, or the data-collection year) is still the wrong year,
+            # and the load-bearing judge fails it
+            if int(rec["year"]) != year:
                 new_year = int(rec["year"])
                 if year < new_year:
                     note = f" Originally published {year}."

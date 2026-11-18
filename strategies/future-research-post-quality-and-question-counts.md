@@ -41,7 +41,8 @@ The authors propose that follow-up work explore "the content of the posts, as qu
 - [Students post significantly more in online discussion forums when instructor posts use standard auto-generated subject titles rather than personalized subject headings](../claims/nonpersonalized-subject-headings-higher-post-quantity.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Future research directions: control grade incentives, compare compulsory versus voluntary participation, and apply learning analytics to tweet types](twitter-study-future-research-directions.md)
 
 ## Examples
 -

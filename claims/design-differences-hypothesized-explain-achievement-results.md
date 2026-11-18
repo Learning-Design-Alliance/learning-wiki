@@ -50,3 +50,4 @@ Authors' interpretive statement in the paper's abstract. It presents an explanat
 - [The authors interpret the null result as partly reflecting a tension between adaptive mastery learning and curricular coverage: students who master early topics slowly may not reach later topics tested by the state assessment](adaptive-mastery-versus-coverage-tension-null-result.md) — related
 - Studies comparing digital tools to other instruction without hypothesizing instructional features cannot explain why effects occur — related
 - [Students' science skills and experience being matched to the instruction level explains why ILL-3 was most effective](matching-inquiry-level-to-student-competence.md) — related
+- [Tight correspondence between a scientific hypothesis and the experimental method is the most important feature of a successful student science project](tight-hypothesis-method-correspondence-science-projects.md) — related

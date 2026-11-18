@@ -49,3 +49,4 @@ Based on the authors' interviews and observations of students doing homework dur
 - [Teaching the Bohr model does not prevent students from learning the Schrödinger model of the atom](bohr-model-not-obstacle-to-schrodinger-learning.md) — related
 - [Comparing and contrasting different atomic models is a key curriculum feature for helping students move beyond the Bohr model](comparing-contrasting-models-key-feature.md) — related
 - [Students frequently use multiple models of the atom rather than a single model](students-use-multiple-atomic-models.md) — related
+- [Secondary and lower undergraduate students have difficulty letting go of Bohr's planetary atomic model](difficulty-letting-go-bohr-planetary-model.md) — related

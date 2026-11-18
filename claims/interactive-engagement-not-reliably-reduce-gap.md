@@ -59,3 +59,6 @@ The review recounts the failed replications: Pollock et al. found 'no statistica
 - [Reformed pedagogies and a values-affirmation exercise reduced or eliminated gender gaps in some studies, with replication failures reported](reformed-pedagogy-gender-gap-reduction-mixed-replication.md) — possibly the same claim (merge candidate)
 - [Gender gaps in introductory physics post-test scores are associated with factors present prior to taking the course (Kost et al.)](gender-gaps-associated-with-pre-course-factors.md) — related
 - [Values affirmation substantially reduced the male-female performance and learning difference in college introductory physics (Miyake et al.)](values-affirmation-reduced-gender-gap-introductory-physics.md) — related
+- [Significant gendered performance differences favoring male students are ubiquitous in large introductory STEM lecture courses](gpd-ubiquitous-stem-lectures.md) — related
+- [In introductory physics courses, the learning gap favors dominant students without LAs but is significantly reversed in courses with LAs (pooled across concept inventories)](las-reverse-physics-learning-gaps.md) — related
+- [Normalized gain g overestimates gender inequities in student learning compared to Cohen's d](normalized-gain-overestimates-gender-inequities.md) — related

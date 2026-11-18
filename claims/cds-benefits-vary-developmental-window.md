@@ -53,3 +53,4 @@ The review reports studies showing younger infants (4–6 months) prefer CDS whi
 - [Child-directed speech predicts real-time language-processing efficiency at 19 and 24 months and explains gains in efficiency](child-directed-speech-predicts-processing-efficiency.md) — related
 - [Overheard adult speech is unrelated to 24-month vocabulary, unlike child-directed speech](overheard-speech-unrelated-vocabulary.md) — related
 - [Amount of child-directed speech at 19 months predicts expressive vocabulary size at 24 months in low-SES Spanish-learning infants](child-directed-speech-predicts-vocabulary-low-ses.md) — related
+- [Word discovery algorithm finds no learning advantage for child-directed over adult-directed speech](child-directed-speech-no-word-learning-advantage.md) — related

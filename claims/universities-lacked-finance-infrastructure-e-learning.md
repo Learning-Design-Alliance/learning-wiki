@@ -75,3 +75,4 @@ The review reports, citing Hoq, that in Saudi Arabia universities hired new ICT 
 - [Infrastructure inequities — chronic bandwidth limitations, power outages, and device incompatibility — severely disrupt proctored assessments and exacerbate educational disadvantages in low-resource settings](infrastructure-inequities-disrupt-proctored-assessments.md) — related
 - [Implementing and sustaining PBL poses financial, physical, human-resource and organizational challenges, particularly in low-income countries](pbl-implementation-cost-challenges-low-income.md) — related
 - [A peer role-play communication course for preclinical students can be implemented without additional financial or human resources](role-play-course-no-additional-resources.md) — related
+- [Free or low-cost robotic telescope access equalises instrumentation access across socioeconomic and physical barriers](robotic-telescope-equity-access.md) — related

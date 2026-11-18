@@ -49,3 +49,4 @@ Qualitative content analysis of unsatisfactory Investigate responses (39/47) on 
 - [Unmechanistic hypotheses dominate unsatisfactory Hypothesize responses, including teleological thinking](unmechanistic-and-teleological-hypotheses.md) — related
 - [In Evaluate, unsatisfactory responses extend into other domains or state incorrect results; in Integrate, unsubstantiated conclusions predict lower scores](evaluate-extend-incorrect-integrate-unsubstantiated.md) — related
 - [Graduating biochemistry majors perform satisfactorily in only two of five ill-defined problem-solving domains: Evaluate and Reflect](graduating-majors-satisfactory-only-evaluate-reflect-domains.md) — a broader claim this one bears on
+- [Tight correspondence between a scientific hypothesis and the experimental method is the most important feature of a successful student science project](tight-hypothesis-method-correspondence-science-projects.md) — a broader claim this one bears on

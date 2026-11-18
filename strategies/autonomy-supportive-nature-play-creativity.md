@@ -53,6 +53,7 @@ Across the reviewed kindergarten and nature-school studies, an important factor 
 - [Interaction with Natural Environment](interaction_with_natural_environment.md)
 - [Guided Play](guided-play.md)
 - [Combine technology-based programs with outdoor activities to strengthen students’ link to nature](combine-technology-with-outdoor-activities.md)
+- [Check terrain safety and prefer outdoor play for the game](quark-wars-terrain-safety-outdoor-play-strategy.md)
 
 ## Examples
 -

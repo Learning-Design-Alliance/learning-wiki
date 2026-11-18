@@ -53,3 +53,4 @@ Per-item analysis shown in Fig. 3 comparing average scores on each of the 16 ite
 - [CI responses decreased dramatically when the quiz used a Ranking Task problem requiring explicit ranking, and the straight-calculation version also showed no significant percentage of CI answers](explicit-ranking-task-reduces-ci-responses.md) — related
 - [Item difficulty differs significantly on 3 of 16 items, all easier on the CMR version](cmr-item-difficulty-three-items-easier.md) — related
 - [OSU students scored dramatically higher on multiple-choice than free-response CUE versions for some questions, with a 7-fold increase on the dipole-moment question](cue-fr-mc-score-discrepancies-osu.md) — related
+- [The good MC–FR correlations may not generalize when the MC and FR questions differ more in context or representation](mc-fr-correlation-context-dependent-scope.md) — related

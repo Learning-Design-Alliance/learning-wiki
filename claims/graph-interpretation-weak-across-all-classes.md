@@ -53,3 +53,4 @@ Results section, Problem 3 magnetism, where the pre-test was not a direct match 
 - [Students excelled in perceptual analysis, reaction and personal interpretation but performed weakest in synthesis across the five Anderson dimensions](five-dimension-uneven-performance.md) — related
 - [Only the designing-experiments inquiry skill improved significantly, and its gain correlates with the highest frequency of FACT use](designing-experiments-skill-significant-gain.md) — related
 - [Inquiry-based algebra-based students outperform all other introductory classes, including honors, on free-response pre- and post-tests in electricity and magnetism](inquiry-outperforms-on-free-response-testing.md) — reports the opposite
+- [Grapher students who reason in a variable-focused way about graphs show the highest gains of all](variable-focused-graph-framing-highest-gains.md) — related

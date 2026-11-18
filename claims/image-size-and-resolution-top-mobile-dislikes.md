@@ -48,3 +48,4 @@ Analysis of open-ended online survey responses to Is there anything you don't li
 - [Pre-service teachers liked SWBL's facilitating learning, anywhere/anytime access, just-in-time learning, ease of use, meaningful learning and reliability, but disliked reduced classroom communication and Internet dependence](swbl-liked-and-disliked-features-themes.md) — related
 - [Students' open-ended feedback most frequently praised the ability to annotate, the user-friendly interface, improved understanding, collaboration and engagement](positive-perceptions-annotation-activities.md) — related
 - [Users rate chatbots easy to use with clear, relevant, largely accurate responses, but the intrusive pop-up design is the largest annoyance](chatbot-ux-clear-relevant-popup-annoyance.md) — related
+- [Efficacy of colour imaging as an astronomy engagement gateway remains largely unvalidated](colour-imaging-efficacy-unvalidated.md) — related

@@ -43,7 +43,8 @@ A set of low-cost sensors and Arduino boards serving as the data-acquisition bac
 - [Arduino Low Cost Sensor Kit Open Projects](arduino-low-cost-sensor-kit-open-projects.md) [+M]
 
 ## Related Designs
-- 
+
+- [Low-budget Arduino-based sensor kit with datasheet calibration for CanSat atmospheric measurement](cansat-arduino-low-budget-sensor-kit.md)
 
 ## Examples
 -

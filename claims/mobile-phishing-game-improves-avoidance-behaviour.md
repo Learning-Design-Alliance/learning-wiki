@@ -49,3 +49,5 @@ Think-aloud study with a pre- and post-test, 20 participants each taking part fo
 - [Scores for participants who played the mobile anti-phishing game rose from pre-test to post-test when identifying phishing and legitimate websites, in one uncontrolled pre-post study](mobile-game-significant-pre-post-phishing-improvement.md) — possibly the same claim (merge candidate)
 - [The mobile game prototype received a high subjective usability rating on the System Usability Scale](mobile-game-high-sus-usability-score.md) — related
 - [In a prior comparative evaluation, gamified phishing-detection modules produced better learning effects than Mimecast training](gamified-modules-beat-mimecast-phishing.md) — related
+- [The mobile game is somewhat effective in enhancing the user's phishing awareness](mobile-game-somewhat-effective-phishing-awareness.md) — a broader claim this one bears on
+- [Usually 56.04 percent of phishing attacks contain some form of target name in the URL, so end-user phishing URL awareness should be considered to combat phishing threats](phishing-urls-contain-target-name.md) — related

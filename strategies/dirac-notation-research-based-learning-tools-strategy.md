@@ -53,6 +53,7 @@ Based on the difficulty research, the authors recommend research-based learning 
 
 - [Integrate concept tests on time dependence of expectation values into lectures with peer discussion](concept-tests-peer-discussion-quantum-expectation-values.md)
 - [Give students multiple opportunities to recognize, recall, and generate translations between representations using research-based learning tools](multiple-opportunities-generate-translation-representations.md)
+- [Use documented student difficulties with Dirac-notation operator representations as resources for developing curricula and pedagogies that integrate mathematical and conceptual aspects of the QM formalism](dirac-notation-difficulties-as-curriculum-resources.md)
 
 ## Examples
 -

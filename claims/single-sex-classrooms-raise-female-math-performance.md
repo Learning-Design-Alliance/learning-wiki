@@ -51,3 +51,4 @@ Randomized study reported by the review: Eisenkopf et al. (2014) randomly assign
 - [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](mit-lower-sat-math-scores-equal-performance.md)
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related
 - [Female students reported significantly lower initial self-efficacy for quantitative biology problems than male students, with small effect sizes](female-students-lower-initial-quantitative-self-efficacy.md) — related
+- [AP1 grade gaps depended on academic preparation and school type: among low-GPE students males and co-educational students tended to get higher grades, while among high-GPE students single-sex school students tended to get higher grades](single-sex-school-ap1-grades-high-gpe.md) — related

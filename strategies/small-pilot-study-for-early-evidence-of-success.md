@@ -41,6 +41,7 @@ Phase 3 of the evidence-building process prescribes running a small pilot study 
 - [Conduct a large pilot study to validate effectiveness with high confidence](large-pilot-study-validation-strategy.md)
 - [Plan sample sizes phase by phase across the four evidence-building phases](phase-based-sample-size-planning.md)
 - [Pretest the assessment and evaluate fitness for purpose before live administration](fitness-for-purpose-pretest-gate.md)
+- [Run a pilot study before the full experiment and be willing to restart with an improved design](pilot-study-before-full-student-experiment.md)
 
 ## Examples
 -

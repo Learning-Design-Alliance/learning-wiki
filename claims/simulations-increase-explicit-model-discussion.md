@@ -48,3 +48,4 @@ Semester comparison after the Rutherford Scattering and Models of the Hydrogen A
 - [Teaching the Bohr model does not prevent students from learning the Schrödinger model of the atom](bohr-model-not-obstacle-to-schrodinger-learning.md) — related
 - [A curriculum combining interactive lectures and homework using the PhET Photoelectric Effect simulation produced much greater learning than traditional or tutorial-supplemented instruction](phet-photoelectric-curriculum-exam-gains.md) — related
 - [Students struggled to explain the Davisson Germer experiment from textbook reading, but after instruction using the Davisson Germer: Electron Diffraction simulation, 92% correctly explained the interference result on an exam](davisson-germer-simulation-exam-92-percent.md) — related
+- [Secondary and lower undergraduate students have difficulty letting go of Bohr's planetary atomic model](difficulty-letting-go-bohr-planetary-model.md) — related

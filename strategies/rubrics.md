@@ -80,6 +80,7 @@ Rubrics make quality criteria explicit *before* performance, converting assessme
 - [Use the platform's rubrics and checklists so students assess their own and peers' abstracts throughout the project stages.](rubrics-checklists-for-self-and-peer-assessment.md)
 - [A master rubric with selectable grading scales to assess knowledge identification, integration, and synthesis across disciplines](master-rubric-knowledge-identification-integration-synthesis.md)
 - [Provide explicit evaluation criteria and a forced-discrimination scoring rule in TBL peer evaluation to support reliability](peer-evaluation-criteria-and-forced-discrimination-rules.md)
+- [Evaluate notebooks holistically on interpretability rather than format, using peer feedback, oral quizzes, or a reproduction practicum](authentic-notebook-evaluation-methods.md)
 
 ## Related Elements
 - [Provide Feedback](../elements/provide-feedback.md) — rubric descriptors make feedback specific and criterion-referenced rather than evaluative

@@ -47,3 +47,4 @@ Survey item on situations in which instructors give students feedback. "By far, 
 ## Related Claims
 - [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — related
 - [During COVID-19 online medical education, students rated instructors highly responsible but found platform support insufficient, with moderate overall satisfaction](perceptions-instructors-platforms-satisfaction-descriptives.md) — related
+- [Frequent formative assessment used throughout a course can greatly improve student learning by giving students repeated opportunities to reflect and giving instructors real-time feedback](frequent-formative-assessment-improves-learning.md) — related

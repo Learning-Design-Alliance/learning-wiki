@@ -51,3 +51,4 @@ General discussion of the two randomized classroom experiments: far-transfer Qua
 - [Prior knowledge score did not significantly moderate the sequence effect within either experiment, though each experiment covered a restricted prior-knowledge range](prior-knowledge-not-significant-moderator-within-experiments.md) — related
 - [No significant interaction between condition and pre-test knowledge on learning outcomes in either topic](no-condition-pretest-interaction-we-ps.md) — related
 - [For introductory biology students with low topic-specific prior knowledge, problem-solving-first (PS-I) outperformed instruction-first (I-PS) on a near-transfer test](ps-i-beats-i-ps-near-transfer-low-prior-knowledge.md) — related
+- [No significant difference between training conditions on far transfer problems overall](no-far-transfer-difference-overall.md) — related

@@ -51,3 +51,5 @@ A comparative phenomenological inquiry (RQ1) of three regular labs in Swedish un
 - [The tape timer affords study of downward motion only, so the direction of acceleration and the acceleration at the turning point cannot be addressed](tape-timer-one-direction-limit.md) — a narrower finding that bears on this claim
 - [Material arrangement of artifacts (strips centered and ordered by length, worksheets held close) affords and stabilizes the initial pattern of activity; later decentralization enables new patterns](material-arrangement-affords-stability.md) — related
 - A sound card has a time resolution of a fraction of a millisecond, comparable to that of photogate timers — a narrower finding that bears on this claim
+- [Lecturers and students do not discern the same things from the same disciplinary representation](lecturer-student-discernment-mismatch.md) — related
+- [Motion parallax in simulations cues the ability to extrapolate three-dimensionality](motion-parallax-cues-e3d-in-simulations.md) — a narrower finding that bears on this claim

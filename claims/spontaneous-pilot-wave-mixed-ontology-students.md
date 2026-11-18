@@ -77,3 +77,4 @@ Interview data from 19 modern physics students. Student G described the electron
 - [Students bridge between particle and wave descriptions of electrons, switching within and across contexts](students-bridge-particle-wave-descriptions.md) — related
 - [Students exhibit ontological flexibility, shifting among multiple stances toward the particle in a box: quantum particle, classical particle, and a blend of classical and quantum properties](ontological-flexibility-multiple-stances-piab.md) — related
 - [Students spontaneously engage in metacognition, explicitly tagging when their reasoning switches between quantum and classical explanations](spontaneous-metacognitive-tagging-classical-quantum.md) — related
+- [Student understanding of wave-particle duality falls into three clusters ranging from classical to quasiquantum description](three-clusters-wave-particle-duality-understanding.md) — related

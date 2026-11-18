@@ -55,3 +55,4 @@ Multilevel Model 1 fixed-effect results from the pretest/posttest study. The Gir
 - [TDTS was more effective for girls than for boys, with effect sizes of +0.32 and +0.12 respectively](tdts-more-effective-for-girls-than-boys.md) — related
 - [Under authentic learning, girls outperformed boys at posttest although both genders improved](authentic-learning-girls-outperform-boys-posttest.md) — related
 - [Girls outperformed boys on the immediate post-test but this gender difference disappeared at delayed post-test](gender-gap-post-test-disappears-delayed.md) — reports the opposite
+- [Scaffolding does not preferentially benefit female students; apparent preferential gain is an artifact of achievement-level composition](scaffolding-gains-level-dependent-not-gender.md) — related

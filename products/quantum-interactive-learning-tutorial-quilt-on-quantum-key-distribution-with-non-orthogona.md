@@ -28,7 +28,8 @@ A guided quantum-physics tutorial developed by DeVore and colleagues that uses q
 - [Upper-level undergraduates' average scores rose from 56% on the pretest to 91% on the posttest after working through the QKD QuILT](../claims/quilt-qkd-prepost-average-score-improvement.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [QuVis suite of four interactive QKD simulations](quvis-suite-of-four-interactive-qkd-simulations.md)
 
 ## Key Sources
 - DeVore, S. and Singh, C. (2013). An Interactive Learning Tutorial on Quantum Key Distribution. https://scholar.google.com/scholar?q=An+Interactive+Learning+Tutorial+on+Quantum+Key+Distribution

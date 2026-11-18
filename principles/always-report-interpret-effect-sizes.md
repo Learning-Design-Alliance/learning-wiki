@@ -23,7 +23,7 @@ sources:
 # Always report and interpret effect sizes alongside p values for primary outcomes
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (19 for, 14 mixed) · 34 studies (13 quant-synthesis, 11 causal, 5 review, 5 theoretical), `q1`–`q4` · 11 of 34 report an effect size · 32 claims rest on one study
+> **Evidence** · 35 claims (21 for, 14 mixed) · 35 studies (13 quant-synthesis, 11 causal, 5 review, 5 theoretical, 1 associational), `q1`–`q4` · 11 of 35 report an effect size · 34 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,8 @@ None of these claims measures what a reader does differently with an effect size
 - Effect size indices and power analyses are rarely reported in educational research across all four design paradigms [+W] — attached 2026-10-21 from Keselman et al. (1998), which proposed "Adopt robust statistical test procedures and routinely report effect sizes when analyzing group differences".
 - [STEM field benchmarks differ markedly: science shows the largest quartiles and mathematics the smallest](../claims/stem-field-benchmark-heterogeneity.md) [+W] — attached 2026-10-21 from Mehmet Bicakci et al. (2026), which proposed "Interpret STEM education intervention effects against empirically derived, context-sensitive benchmark distributions rather than Cohen's universal thresholds".
 - Effect size measures may be perceived by teachers as telling little about the changes of real students [+W] — attached 2026-10-21 from Zitzmann et al. (2023), which proposed "Report responder rates in addition to effect sizes so stakeholders can understand the consequences of implementing a treatment".
+- [Normalized gain g is positively biased in favor of populations with higher pretest scores](../claims/normalized-gain-biased-favoring-high-pretest-populations.md) [+W] — attached 2026-11-17 from Jayson M. Nissen et al. (2018), which proposed "Researchers should avoid normalized gain and report Cohen's d with descriptive statistics when measuring student learning gains".
+- [Normalized gain g overestimates gender inequities in student learning compared to Cohen's d](../claims/normalized-gain-overestimates-gender-inequities.md) [+W] — attached 2026-11-17 from Jayson M. Nissen et al. (2018), which proposed "Researchers should avoid normalized gain and report Cohen's d with descriptive statistics when measuring student learning gains".
 
 ## Objective and learner-valued goal
 

@@ -48,3 +48,4 @@ Single spin-1/2 probability question given to 17 students. "12% of the students 
 ## Related Claims
 - [Interviews revealed quantum misconceptions: that only one path is physically relevant, that the stationary path's amplitude magnitude exceeds other paths', and that probability equals the amplitude magnitude rather than its square](quantum-misconceptions-paths-amplitude-probability.md) — related
 - [Beginning graduate students who can compute measurement probabilities often cannot use them to find expectation values: 67% answered Question 2(b) correctly but only 39% answered Question 2(c) correctly](expectation-value-calculation-difficulty.md) — related
+- [Students heavily compartmentalized the linked binary and computational parts, failing to use the binary answer to build an expectation for the computation](compartmentalization-expectation-building-failure.md) — related

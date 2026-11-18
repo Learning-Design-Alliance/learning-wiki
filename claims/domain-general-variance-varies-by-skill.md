@@ -50,3 +50,4 @@ Fixed-order regression analyses across three arithmetic outcomes in 258 third gr
 ## Related Claims
 - [Different domain-general factors uniquely account for variation in different arithmetic skills](domain-general-factors-skill-specific.md) — related
 - [Previous domain knowledge accounts for most of the variance in later achievement, considerably reducing the predictive impact of IQ and WM](domain-knowledge-dominates-later-achievement.md) — a broader claim this one bears on
+- [Arithmetic and algebra fundamentals must be over-learned to automaticity for well-structured science problem solving, and calculator-free computational fluency predicts general chemistry success](computation-automaticity-overlearning-required-science-problem-solving.md) — related

@@ -49,3 +49,4 @@ Evaluation of the two outreach activities: teachers ran anonymous polls among 4�
 - [Outreach participants reported increased interest in networks and mathematics, per surveys and discussions](outreach-increased-student-interest.md) — related
 - [Interactivity is the strongest predictor of module success in network-science outreach sessions for teenagers](interactivity-predicts-outreach-module-success.md) — related
 - [The first part of the outreach talk was too long for the youngest students, and a shortened version worked better](shortened-lecture-worked-better-youngest.md) — related
+- [Participation in the NetSci High outreach program had a significant impact on students' understanding of networks and on their data-science, academic, and professional skills, per the program's summative assessments](netsci-high-summative-impact-skills.md) — related

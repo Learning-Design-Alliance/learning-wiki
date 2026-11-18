@@ -47,3 +47,4 @@ Manual inspection of model transcripts of the same audio clips in Experiment 1 (
 
 ## Related Claims
 - [Fully automated WCPM scores from Whisper V2 transcriptions closely align with expert human raters (correlation 0.98, average difference 4.82 WCPM)](automated-wcpm-correlates-098-human-raters.md) — related
+- [Unsupervised clustering on realistic speech converges on short context-sensitive acoustic clusters rather than phonemes](clustering-speech-converges-acoustic-clusters-not-phonemes.md) — related

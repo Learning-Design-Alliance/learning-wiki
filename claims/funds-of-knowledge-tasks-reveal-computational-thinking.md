@@ -65,3 +65,4 @@ This is a design-based study with a small sample (13 children total across two t
 - [SES measurement faces validity and practical challenges including student knowledge of parental data and missing data in single-parent families](ses-measurement-challenges-student-report.md) — related
 - Student modelling research follows two main trends: describing student attributes versus building representations that reason about and simulate student behaviour. — related
 - [The learning environment can engage children in advanced mathematical thinking in early education](game-engages-advanced-mathematical-thinking.md) — related
+- [Work on assessing computational thinking is in its infancy and built-for-purpose assessment tools may be required](ct-assessment-in-infancy-review-2017.md) — a broader claim this one bears on

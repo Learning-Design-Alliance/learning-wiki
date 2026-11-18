@@ -30,6 +30,7 @@ Edaq530 is a low-cost, open-source USB-to-sensor interface and measurement softw
 ## Related Products and Programmes
 
 - [TEEMSS](teemss.md)
+- [Ciênsação](ciensacao.md)
 
 ## Key Sources
 - Katalin Kopasz, Péter Makra and Zoltán Gingl. (2012). Edaq530: a transparent, open-end and open-source measurement solution in natural science education. arXiv preprint. https://arxiv.org/abs/1009.0432

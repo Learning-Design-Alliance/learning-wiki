@@ -42,6 +42,7 @@ Drawing on Bjork and Bjork, the article advocates "desirable difficulties, such 
 - [Critique And Revision](critique-and-revision.md)
 - [Critique Protocol](critique-protocol.md)
 - [Revise e-learning material iteratively using LMS log files, mapped learning habits and evaluation-system results](log-based-iterative-material-revision.md)
+- [Use think-aloud protocols by instructors and students to make problem-solving processes visible and scaffold monitoring](think-aloud-problem-solving-strategy.md)
 
 ## Examples
 -

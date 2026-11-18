@@ -85,3 +85,4 @@ ANCOVA on overall course grade controlling for SAT composite and writing. Studen
 ## Related Claims
 - [Formative peer evaluation improves students' perceptions of the learning climate and competence, but not doubt, compared to summative-only peer evaluation.](formative-peer-evaluation-improves-perceptions.md) — related
 - [Low-performing students tended to procrastinate more on graded problem-solving exercises and on video watching with formative MCQs](low-performers-procrastinated-exercises-and-videos.md) — related
+- [Three of nine camp students earned the top grade in project and time management after the program](ev3-camp-project-management-gains.md) — related

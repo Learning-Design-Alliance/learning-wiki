@@ -48,3 +48,8 @@ Transcribed audiovisual data of 14 lab groups solving a context-rich rotational 
 - [Epistemic orientations vary by major, presenting a challenge to problem-solving framework pedagogies in diverse IPLS courses](epistemic-disparity-by-major-challenges-framework-pedagogy.md) — related
 - [Orientation categories do not correlate strongly to choice of major, contradicting the assumption that biology and health science majors would be less framework-oriented](orientation-not-strongly-tied-to-major.md) — related
 - [Framework-oriented students show positive normalized gains on CLASS problem-solving attitude clusters, while Vague and Performance-oriented students shift more novice-like](framework-orientation-class-gains.md) — related
+- [Assessment drives learning, and assessment tools that probe only algorithmic plug-and-chug procedures eliminate students' incentives to acquire deep understanding](assessment-drives-learning-algorithmic-tests-undermine-deep-understanding.md) — related
+- [Very few advanced students reason conceptually about expectation values, and many prefer plug-and-chug methods over conceptual approaches](few-students-reason-conceptually-expectation-value.md) — related
+- [Overall epistemic game frequency showed only a small effect of learning orientation or group dynamic in the F15 class](small-effect-orientation-dynamic-game-frequency.md) — related
+- [Transliteration to Mathematics game frequency differed significantly between the S14 semester and the S15 and F15 semesters](tm-game-frequency-semester-difference.md) — related
+- [Vague-dominated and framework-dominated groups tended to favor collaboration in the F15 class](vague-framework-groups-favor-collaboration.md) — related

@@ -65,6 +65,7 @@ Active learning reliably improves performance relative to lecture-only instructi
 - [Formative Assessment](formative-assessment-cycles.md) — most active-learning activities double as assessment-for-learning opportunities
 - [Use real-world problems, open-ended class discussions, and inquiry-oriented experiments as higher order thinking strategies](real-world-open-discussion-inquiry-strategies.md)
 - [Design physics modules and worksheets with explicit critical thinking prompts, open-ended problems, and real-world decision-making scenarios](design-materials-prompts-open-ended-real-world.md)
+- [Embed low-stakes formative assessment activities throughout the course, such as think-pair-share, clicker questions, tutorials with pre- and post-tests, collaborative problem solving, minute papers, and concept maps](embedded-low-stakes-formative-assessment-activities.md)
 
 ## Examples
 - **Peer Instruction (Eric Mazur, Harvard)** — students answer a conceptual question individually, discuss with neighbors, then re-answer; widely adopted in physics and beyond ([Peer Instruction](https://www.peerinstruction.net))

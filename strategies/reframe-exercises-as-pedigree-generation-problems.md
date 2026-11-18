@@ -44,6 +44,7 @@ The article recommends transforming typical exercises into complex problems: ins
 
 - [Use a five-step framework for context-rich problems: focus on the problem, describe the physics, plan the solution, execute the plan, evaluate the answer](heller-five-step-context-rich-problem-framework.md)
 - [Provide feedback in the problem-solving phase to foster negative knowledge and multiple solution attempts](feedback-in-problem-solving-phase-negative-knowledge.md)
+- [Break synthesis clicker questions into separate sub-questions before combining them into one question](break-synthesis-clickers-into-sub-problems.md)
 
 ## Examples
 -

@@ -60,3 +60,4 @@ Student quote from iteration 2 qualitative data on peer review and online feedba
 - [Peer assessment functions as a learning activity: evaluating peers helps students review their own knowledge and clinical skills](peer-assessment-as-learning-activity.md) — possibly the same claim (merge candidate)
 - [Observing peer videos benefited students regardless of whether the peer performance was better or worse than their own](peer-videos-benefit-regardless-of-performance-level.md) — related
 - [Video-based self-reflection helped some medical students identify mistakes in communication and technical skills of which they were previously unaware](video-self-reflection-reveals-unnoticed-mistakes.md) — related
+- [Frequent formative assessment used throughout a course can greatly improve student learning by giving students repeated opportunities to reflect and giving instructors real-time feedback](frequent-formative-assessment-improves-learning.md) — related

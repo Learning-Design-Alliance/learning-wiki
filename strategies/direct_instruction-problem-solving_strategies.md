@@ -66,6 +66,8 @@ Explicit strategy instruction works because novices lack the schemas to recogniz
 - [Deliver a critical thinking module through three sequenced instructional strategies ending in applied reflection](three-strategy-critical-thinking-module-sequence.md)
 - [Directly instruct learning strategies in course context: model strategies with think-alouds, explain benefits, and train with practice and feedback over time](direct-instruction-learning-strategies-metacognition.md)
 - [Use a five-step framework for context-rich problems: focus on the problem, describe the physics, plan the solution, execute the plan, evaluate the answer](heller-five-step-context-rich-problem-framework.md)
+- [Give students explicit incentives to reflect after solving physics problems](explicit-incentives-post-solution-reflection.md)
+- [Use explicit metacognitive questioning and visible instructor struggle to shift novice problem-solving approaches](schoenfeld-metacognitive-questioning-strategy.md)
 
 ## Examples
 - **Cognitively Guided Instruction (CGI) in mathematics** — teachers elicit and build on children's informal strategies, making strategy repertoires explicit classroom content ([CGI for Math](../principles/responsive-teaching.md)).

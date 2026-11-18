@@ -57,8 +57,10 @@ Generic praise is processed as social evaluation; specific praise functions as i
 5. Follow with a next step or question to keep the focus on the work, not the evaluation ([Action-oriented Feedback](../strategies/action-oriented-feedback.md)).
 
 ## Related Strategies
+
 - [Action-oriented Feedback](action-oriented-feedback.md) — the broader category; specific praise is its positive-affect subset
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — a setting where individualized, specific praise is feasible
+- [Reward and celebrate student science accomplishments liberally with positive feedback](liberal-rewards-science-accomplishments.md)
 
 ## Examples
 - A writing teacher's margin comment: "Your second paragraph anticipates the counterargument — that's what makes this persuasive," rather than "Great essay!"

@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 312 claims (148 for, 149 mixed, 15 against) · 228 studies (70 associational, 69 causal, 28 review, 18 quant-synthesis, 17 qualitative, 15 theoretical, 11 design), `q1`–`q4` · 52 of 228 report an effect size · 296 claims rest on one study
+> **Evidence** · 314 claims (149 for, 150 mixed, 15 against) · 229 studies (70 associational, 69 causal, 28 review, 18 quant-synthesis, 17 qualitative, 15 theoretical, 12 design), `q1`–`q4` · 52 of 229 report an effect size · 298 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -359,6 +359,8 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [About half (49.0%) of introductory biology students provide evidence of monitoring the effectiveness of their learning strategies, while 51.0% do not](../claims/half-of-intro-bio-students-monitor-strategy-effectiveness.md) [+W] — attached 2026-11-09 from Stanton et al. (2015), which proposed "A working continuum of metacognitive-regulation development in introductory biology students with four categories: not engaging, struggling, emerging, and developing".
 - [Nearly all (98.4%) introductory biology students were willing to change their study plans, but only 44.9% selected new strategies based on their exam 1 experiences](../claims/willing-to-change-but-half-cannot-evaluate-plans.md) [~W] — attached 2026-11-09 from Stanton et al. (2015), which proposed "A working continuum of metacognitive-regulation development in introductory biology students with four categories: not engaging, struggling, emerging, and developing".
 - [Most students (74.7%) reported spending more time studying for exam 2, but only half (51.0%) reported following key parts of their new study plans](../claims/following-new-study-plans-harder-than-more-time.md) [~W] — attached 2026-11-09 from Stanton et al. (2015), which proposed "A working continuum of metacognitive-regulation development in introductory biology students with four categories: not engaging, struggling, emerging, and developing".
+- [One case-study student who engaged in self-regulated learning improved from 18-24% below the class average on early tests to 6% below by the fourth test, with an FCI normalized gain of 0.70 versus 0.34 for students with similar scientific reasoning scores.](../claims/case-study-self-regulated-learner-exceeded-expectations.md) [+W] — attached 2026-11-17 from Jeffrey A. Phillips (2016), which proposed "Self-regulated learning as a plan-monitor-adjust cycle".
+- [Most students engaged only superficially with the reflective homework reports, and report quality and practice quantity did not correlate with grades or problem-solving proficiency.](../claims/superficial-reflection-no-correlation-with-grades.md) [~M] — attached 2026-11-17 from Jeffrey A. Phillips (2016), which proposed "Self-regulated learning as a plan-monitor-adjust cycle"; tests this page's relationship.
 
 ## The evidence by question
 

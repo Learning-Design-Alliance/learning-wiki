@@ -50,3 +50,4 @@ Separate HMMs were fitted and estimated with the EM algorithm over each cluster'
 - [A Hidden Markov Model over knowledge states identifies Analytical Thinking (A5) as the learning bottleneck with the lowest forward transition probability](hmm-identifies-a5-bottleneck.md) — related
 - [Hidden semi-Markov model analysis of mathematical problem-solving yields brain-processing stages matching rationally expected problem-solving steps](hidden-semi-markov-stages-confirm-problem-solving-steps.md) — related
 - [Bayes factors on Gaussian-process trajectories show each behavioural cluster is statistically distinct from the others](gpr-bayes-factors-cluster-distinctness.md) — related
+- [Unsupervised clustering on realistic speech converges on short context-sensitive acoustic clusters rather than phonemes](clustering-speech-converges-acoustic-clusters-not-phonemes.md) — related

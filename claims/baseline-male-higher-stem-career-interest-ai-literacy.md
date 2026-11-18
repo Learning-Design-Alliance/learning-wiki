@@ -60,3 +60,4 @@ Baseline OLS regression on pre-workshop survey data from Npre = 199 Australian s
 - [Female students in the experimental group showed significantly higher maths gains than female controls, while males did not differ](mobile-math-gains-female-students-only.md) — related
 - [Male students outperform female students across all four competence domains in self-rated emergency response competence](sex-difference-competence-males-higher.md) — related
 - [Among five tested factors, only discussing the underrepresentation of women positively correlated with high-school girls' interest in physical science careers](discussing-underrepresentation-boosts-girls-interest.md) — related
+- [Female first-year physics students were more likely to enroll in life science subjects in later years, while male students were more likely to enroll in computer science](female-physics-students-life-science-enrollment.md) — related

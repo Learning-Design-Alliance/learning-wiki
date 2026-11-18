@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-11-17
 sources:
   - id: lisk-kristina-2024
     resource: "https://doi.org/10.36834/cmej.78564"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a shoulder palpation laboratory, the availability of 3D printed models created opportunities for peer teaching, modeling between students and the instructor, and learning through self-discovery. [→ Lisk Kristina 2024](#lisk-kristina-2024)

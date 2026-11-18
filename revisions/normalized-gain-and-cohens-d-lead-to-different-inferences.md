@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/normalized-gain-and-cohens-d-lead-to-different-inferences.md
+---
+
+# Revision history: [claims/normalized-gain-and-cohens-d-lead-to-different-inferences](../claims/normalized-gain-and-cohens-d-lead-to-different-inferences.md)
+
+### 2026-11-17 · ingest · process:wiki-ingest
+Ingested from arxiv-1612.09180 (A comparison of Hake's g and Cohen's d for analyzing gains on concept inventories) via eval_harness.py + ingest_extractions.py

@@ -70,3 +70,4 @@ Participant P5 in Case 2 described using a Moodle platform to assess analytical 
 - [Zimbabwean universities faced trenchant institutional needs for online teaching — untrained personnel, poor digital infrastructure and cyber security — mostly emanating from inadequate funding](zimbabwe-universities-institutional-needs-online-teaching.md) — related
 - [Manager development training courses face challenges including theory-orientation, unknown effectiveness, and inadequate content](development-course-effectiveness-unknown-challenges.md) — related
 - [About 79% of students judged traditional learning more effective than e-learning for developing practical, clinical and laboratory skills](traditional-learning-preferred-for-practical-skills-79-percent.md) — related
+- [College students were reluctant to voice opinions about the course, with the classroom power structure speculated as a contributing factor](student-voice-reluctance-power-structure.md) — related

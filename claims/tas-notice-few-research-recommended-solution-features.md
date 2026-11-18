@@ -53,3 +53,4 @@ Pre-discussion worksheet analysis of the 24 TAs' feature identification for the 
 - [Most TAs do not notice solution direction (backward vs. forward) as a design consideration, and TAs who write backward solutions do not mention the feature](tas-do-not-notice-solution-direction-feature.md) — related
 - [The solution-checking feature (F14) is underrated or ignored by most TAs: only 4 noticed it and none performed an answer check in their own solutions](tas-underrate-solution-checking-feature.md) — related
 - [TAs value initial problem analysis features (diagram, knowns/unknowns list), and diagrams appear in all TA-written solutions while knowns lists appear in about half](tas-value-initial-problem-analysis-features.md) — related
+- [TAs saw the CA-inspired rubric as promoting good problem-solving practices and fair grading, but over half found it too constraining](tas-stated-pros-cons-of-ca-rubric.md) — related

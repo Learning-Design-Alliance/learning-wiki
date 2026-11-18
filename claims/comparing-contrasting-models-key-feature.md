@@ -51,3 +51,4 @@ Cross-study comparison with a German secondary-school study (77% drew a quantum 
 - [Students frequently use multiple models of the atom rather than a single model](students-use-multiple-atomic-models.md) — related
 - [Comparing model behavior to real Euglena experiments helped students recognize subtle differences beyond what instructions discussed](bifocal-modeling-reveals-real-model-differences.md) — a broader claim this one bears on
 - [Instructors were divided on the Bohr model, with two-thirds viewing it as misleading for students learning QM](qm-bohr-model-misleading-divided.md) — related
+- [Secondary and lower undergraduate students have difficulty letting go of Bohr's planetary atomic model](difficulty-letting-go-bohr-planetary-model.md) — related

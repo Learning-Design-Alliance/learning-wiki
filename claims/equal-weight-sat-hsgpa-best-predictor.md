@@ -55,3 +55,4 @@ Numerical search over linear combinations (1-f)·SAT + f·GPAHS of z-scored pred
 - [Average grades in the calculus-based physics course 25X show an almost identical threshold at SAT-M just below 600](phys-25x-threshold-sat-m-600.md) — related
 - [Grades in the calculus-based physics course correlate 0.75 with upper-division Physics GPA, with slightly higher grades in 25X](phys-25x-upper-division-correlation-075.md) — related
 - [SAT and GRE scores correlate at roughly 0.75, consistent with both measuring a stable trait](sat-gre-correlation-075.md) — related
+- [Students' CT performance correlates with their overall GPA, suggesting CT as a predictor of academic success](ct-performance-correlates-with-gpa.md) — a narrower finding that bears on this claim

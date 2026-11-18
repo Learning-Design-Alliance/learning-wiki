@@ -11,9 +11,9 @@ generated:
 evidence_strength: weak
 newest_evidence: 2015
 sources:
-  - id: eugene-t-torigoe-2012
+  - id: eugene-t-torigoe-2011
     resource: "https://doi.org/10.48550/arXiv.1112.3229"
-    title: "Eugene T. Torigoe. (2012). How numbers help students solve physics problems. arXiv. [doi:10.48550/arXiv.1112.3229](https://doi.org/10.48550/arXiv.1112.3229)"
+    title: "Eugene T. Torigoe. (2011). How numbers help students solve physics problems. arXiv. [doi:10.48550/arXiv.1112.3229](https://doi.org/10.48550/arXiv.1112.3229)"
     author: Eugene T. Torigoe
     q: 2
     i: "?"
@@ -41,11 +41,11 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies (3 entries) · 2 qualitative `r2` · `q2`
-> **Currency** · newest study 2015 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2015 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 
-`q2 i?` Two interview subjects canceled the t's in a symbolic derivation, conflating two different times, but both correctly solved the numeric version. [→ Eugene T. Torigoe 2012](#eugene-t-torigoe-2012)
+`q2 i?` Two interview subjects canceled the t's in a symbolic derivation, conflating two different times, but both correctly solved the numeric version. [→ Eugene T. Torigoe 2011](#eugene-t-torigoe-2011)
 
 `q2 i?` Two interview subjects used the symbol t, defined as the time to reach the final velocity, as the time to reach half the final velocity, canceling the t's after combining two equations. [→ Eugene T. Torigoe 2015](#eugene-t-torigoe-2015)
 
@@ -53,9 +53,9 @@ sources:
 
 ## Evidence
 
-### Eugene T. Torigoe 2012
+### Eugene T. Torigoe 2011
 
-Eugene T. Torigoe. (2012). How numbers help students solve physics problems. arXiv. [doi:10.48550/arXiv.1112.3229](https://doi.org/10.48550/arXiv.1112.3229)
+Eugene T. Torigoe. (2011). How numbers help students solve physics problems. arXiv. [doi:10.48550/arXiv.1112.3229](https://doi.org/10.48550/arXiv.1112.3229)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -105,3 +105,6 @@ Within the same interview study, the two error-making students then solved the n
 - [The article argues that symbolic problems are hard because students activate resources and cues appropriate for numeric problem solving, such as treating every equation as a general model and the remaining non-numeric symbol as the unknown](inappropriate-resource-activation-symbolic-errors.md) — related
 - [Over a third of solutions inappropriately cancel exponential terms when the boundary is not at z=0, and physics context affects students' math execution](physics-context-affects-exponential-cancellation.md) — related
 - [In the interview study, it was common for students unable to solve a symbolic problem to find their earlier mistakes and easily reach the correct answer when given the numeric version immediately afterward](symbolic-failure-numeric-success-interviews.md) — related
+- [Many introductory students find symbolic problems more difficult than numerical ones and prefer plugging in numbers early rather than solving symbolically first](intro-students-symbolic-difficulty-early-numbers.md) — related
+- [Physics context affects mathematical execution: students cancel exponentials in E&M wave problems but not in an isomorphic pure-math problem](physics-context-affects-math-execution.md) — related
+- [Very few advanced students reason conceptually about expectation values, and many prefer plug-and-chug methods over conceptual approaches](few-students-reason-conceptually-expectation-value.md) — related

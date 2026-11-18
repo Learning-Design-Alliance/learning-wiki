@@ -75,3 +75,4 @@ Chi-square analysis of the after-program cohort (Fall 2008–Spring 2012) shows 
 - [URM students attended voluntary SGM workshops more frequently than non-URM students](sgm-attendance-urm-higher.md) — related
 - [Active learning in an entry-level biology course closed performance gaps between underrepresented and non-underrepresented minority students and increased all students' self-efficacy](active-learning-closed-gaps-increased-self-efficacy.md) — related
 - [Students who took at least one concepts-first course were 1.7 ± 0.3 times more likely to graduate with a STEM major (2.7 ± 1.3 for underrepresented minorities), while active learning alone conferred no such benefit](concepts-first-stem-graduation-retention.md) — related
+- [Undergraduate research participation benefits STEM students in learning retention, graduation rates, and graduate program entry](ugr-benefits-retention-graduation-graduate-entry.md) — related

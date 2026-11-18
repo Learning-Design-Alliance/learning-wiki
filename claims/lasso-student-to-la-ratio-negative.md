@@ -47,3 +47,4 @@ Continuous-variable HLM model (model 6) over the pilot-semester course sample (T
 ## Related Claims
 - [Student performance was better in classes where faculty spent more time meeting with LAs (+0.004 per additional co-planning minute)](lasso-faculty-co-planning-time.md) — related
 - [LA-supported students averaged an effect size of 0.845, scoring 0.845 standard deviations higher on post-tests than pre-tests](lasso-grand-mean-effect-size-0-845.md) — related
+- [Physics courses supported by Learning Assistants show course-level Cohen's d effect sizes on average 1.4 times higher than courses without LA support](la-support-higher-physics-effect-sizes.md) — related

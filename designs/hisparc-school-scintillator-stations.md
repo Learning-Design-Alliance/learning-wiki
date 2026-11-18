@@ -41,7 +41,8 @@ Detection stations 'in the form of ski.boxes' situated on school roofs let stude
 - 
 
 ## Related Designs
-- 
+
+- [Escaramujo cosmic ray detector: plastic scintillator plates read out by SiPMs with a QuarkNet DAQ card and Raspberry Pi](escaramujo-cosmic-ray-detector.md)
 
 ## Examples
 -

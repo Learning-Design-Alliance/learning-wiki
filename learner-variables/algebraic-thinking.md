@@ -13,7 +13,7 @@ generated:
 # Algebraic Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 109 claims (69 show a difference, 25 mixed, 15 no difference) · 71 studies (44 causal, 8 associational, 7 qualitative, 5 theoretical, 4 review, 2 design, 1 quant-synthesis), `q1`–`q4` · 15 of 71 report an effect size · 105 claims rest on one study
+> **Evidence** · 111 claims (70 show a difference, 26 mixed, 15 no difference) · 73 studies (44 causal, 9 associational, 7 qualitative, 5 review, 5 theoretical, 2 design, 1 quant-synthesis), `q1`–`q4` · 15 of 73 report an effect size · 107 claims rest on one study
 
 ## Description
 Algebraic thinking is the ability to generalise, represent, justify and reason with abstract mathematical structures and relationships: noticing that a pattern holds for all numbers, writing it with symbols, and arguing why it holds. The Learner Variability Navigator stresses that it is not only a secondary-school subject: in the primary grades it deepens understanding of arithmetic, for example by making the properties of operations explicit, and it helps students connect separate parts of their early mathematics. It is assessed with written early-algebra assessments and with researcher-designed measures that separate conceptual knowledge, procedural knowledge and flexibility in solving equations.
@@ -146,6 +146,8 @@ LVN follows it from grade 3 to grade 10. It links forward to [geometric reasonin
 - [The presence of even a single symbolic variable presents a significant obstacle to engineering students' algebraic reasoning, and symbolizing of proportional verbal statements shows no improvement after one semester of mechanics](../claims/single-variable-symbolizing-obstacle-introductory-physics.md) [-M] — measured as an outcome of the instruction studied
 - [After working through the tutorial, all eight interviewed students drew correct free body diagrams and Newton's second law equations for a near-transfer three-box problem](../claims/post-tutorial-near-far-transfer-success.md) [+M] — measured as an outcome of the instruction studied
 - [Common unscaffolded difficulties on the tire swing problem (treating it as equilibrium, missing the centripetal acceleration, misusing kinematics equations) were reduced by the solved-problem scaffolding](../claims/scaffolding-reduces-common-difficulties.md) [+M] — measured as an outcome of the instruction studied
+- [Arithmetic and algebra fundamentals must be over-learned to automaticity for well-structured science problem solving, and calculator-free computational fluency predicts general chemistry success](../claims/computation-automaticity-overlearning-required-science-problem-solving.md) [+M] — learners who differ on it differ in outcomes
+- [Many introductory students find symbolic problems more difficult than numerical ones and prefer plugging in numbers early rather than solving symbolically first](../claims/intro-students-symbolic-difficulty-early-numbers.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Early algebra assessment** (Blanton et al., 2015): Written assessment to measure students' understanding of core algebraic concepts and practices.

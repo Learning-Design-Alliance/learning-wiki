@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: moderate
-newest_evidence: 2012
+newest_evidence: 2013
 sources:
-  - id: beth-thacker-2012
+  - id: beth-thacker-2013
     resource: "https://doi.org/10.48550/arXiv.1312.6000"
-    title: "Beth Thacker, Hani Dulli, Dave Pattillo, and Keith West. (2012). Lessons from a Large-Scale Assessment: Results from Conceptual Inventories. Physics Department, Texas Tech University. [doi:10.48550/arXiv.1312.6000](https://doi.org/10.48550/arXiv.1312.6000)"
+    title: "Beth Thacker, Hani Dulli, Dave Pattillo, and Keith West. (2013). Lessons from a Large-Scale Assessment: Results from Conceptual Inventories. Physics Department, Texas Tech University. Originally published 2012. [doi:10.48550/arXiv.1312.6000](https://doi.org/10.48550/arXiv.1312.6000)"
     author: Beth Thacker, Hani Dulli, Dave Pattillo, and Keith West
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` In algebra-based introductory physics, introducing RT labs and recitations with traditional lecture raised FCI normalized gain from 0.09 to 0.18, still closer to traditional scores than to the IE region. [→ Beth Thacker 2012](#beth-thacker-2012)
+`q2 i?` In algebra-based introductory physics, introducing RT labs and recitations with traditional lecture raised FCI normalized gain from 0.09 to 0.18, still closer to traditional scores than to the IE region. [→ Beth Thacker 2013](#beth-thacker-2013)
 
 ## Evidence
 
-### Beth Thacker 2012
+### Beth Thacker 2013
 
-Beth Thacker, Hani Dulli, Dave Pattillo, and Keith West. (2012). Lessons from a Large-Scale Assessment: Results from Conceptual Inventories. Physics Department, Texas Tech University. [doi:10.48550/arXiv.1312.6000](https://doi.org/10.48550/arXiv.1312.6000)
+Beth Thacker, Hani Dulli, Dave Pattillo, and Keith West. (2013). Lessons from a Large-Scale Assessment: Results from Conceptual Inventories. Physics Department, Texas Tech University. Originally published 2012. [doi:10.48550/arXiv.1312.6000](https://doi.org/10.48550/arXiv.1312.6000)
 
 `q2 · i?` · `causal · r1`
 
@@ -50,3 +50,4 @@ Large-scale pre/post assessment of algebra-based introductory physics at Texas T
 - [On the algebra-based MBT, in-class RT/PERL scores significantly exceeded RT/TL scores (p < 0.003) and INQ scores (p < 0.002), while online scores ran 10-15 percentage points lower](mbt-algebra-based-rt-perl-significantly-higher.md) — related
 - [Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02](hake-ie-gains-two-sd-greater.md) — related
 - [Interactive engagement instruction yields significantly higher normalized learning gains than traditional lecture on both the FCI and FMCE](ie-higher-gains-than-lecture-physics-50k.md) — related
+- [One case-study student who engaged in self-regulated learning improved from 18-24% below the class average on early tests to 6% below by the fourth test, with an FCI normalized gain of 0.70 versus 0.34 for students with similar scientific reasoning scores.](case-study-self-regulated-learner-exceeded-expectations.md) — related

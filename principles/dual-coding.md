@@ -182,6 +182,7 @@ Comprehension while the visual is in view, recall a week later, transfer to a ne
 - [Design HOTs lessons around concepts, schemas, metaphors, visualization and inference](../strategies/hots-lesson-design-five-components-strategy.md)
 - [Use a 3-phase half-wave rectification demonstration to make the 120-degree phase separation visually concrete](../strategies/three-phase-rectifier-visual-phase-separation.md)
 - [Three-step construction of lens ray diagrams from bundles of elemental images, with focal points redefined in terms of elemental images](../strategies/elemental-image-ray-diagram-construction.md)
+- [Provide specific instruction on drawing diagrams to increase students' use of diagrams in problem solving](../strategies/specific-diagram-instruction-strategy.md)
 
 ## Key Sources
 - Paivio, A. (1990). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)

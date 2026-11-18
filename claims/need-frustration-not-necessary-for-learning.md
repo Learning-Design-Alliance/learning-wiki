@@ -63,3 +63,4 @@ Narrative review argument synthesizing research on autonomous motivation, flow, 
 - [Educational psychology cannot be formulated or taught without a substantial background in general psychology (Baldwin's position)](educational-psychology-needs-general-psychology-background.md) — related
 - [Struggle is experienced as a necessary and motivating part of theoretical sensemaking](struggle-necessary-and-motivating.md) — reports the opposite
 - [Working with LEGO Mindstorms robots was highly engaging and motivating for students, but produced stress, insecurity about theoretical knowledge, and logistical frustration](robots-engaging-but-stressful.md) — related
+- [Troubleshooting was a significant part of UREs, often cited as where the most learning occurred, and the most common response for needed preparation](troubleshooting-central-ure-learning.md) — related

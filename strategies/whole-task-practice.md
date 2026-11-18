@@ -65,6 +65,7 @@ Whole task practice supports schema construction by letting learners experience 
 - [Manage intrinsic load with a part-whole approach, task variability, and self-explanation to raise germane load](part-whole-variability-self-explanation-raise-germane-load.md)
 - [Expose learners to real-world problems embedded in complex systems with multiple interactive components](expose-learners-to-complex-system-problems.md)
 - [Provide necessary learning resources and simplify non-critical aspects of complex practice](simplify-non-critical-aspects-of-complex-practice.md)
+- [Structure exams around ACE-M components with points attached to Analyze and Create a Plan to signal the value of the whole process](ace-m-component-weighted-exams.md)
 
 ## Examples
 - **4C/ID implementations in medical education** — students perform simplified but complete patient consultations from early training, with complexity increasing across task classes (see [Open Universiteit 4C/ID resources](https://www.4cid.org)).

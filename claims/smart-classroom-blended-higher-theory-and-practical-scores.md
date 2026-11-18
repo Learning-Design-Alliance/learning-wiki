@@ -74,3 +74,4 @@ Table 1 prints theoretical-assessment means of "82.54 ± 8.08" versus "77.58 ± 
 - [BOPPPS-based blended teaching produces significantly higher overall course scores than traditional lecture-based teaching](boppps-higher-overall-course-scores.md) — related
 - [The Smart Class teaching module and the Traditional Class teaching module produced no statistically significant difference in medical English exam scores among first-year physiotherapy students](smart-class-traditional-class-similar-medical-english-exam-scores.md) — related
 - [Second-year nursing students taught with blended learning combined with a flipped classroom design achieved significantly higher course grades than students taught by traditional teacher-centred learning](blended-flipped-learning-higher-nursing-course-grades.md) — related
+- [A practical exam assessing experimental skills yields usually good scores for first-year students](practical-exam-good-scores-first-year-optics.md) — related

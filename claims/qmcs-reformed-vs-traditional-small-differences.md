@@ -73,3 +73,4 @@ Per-item comparison in reformed versus traditional modern physics courses. Ref. 
 - [Zero gain on QMCS questions about the uncertainty principle and the wavelength-potential relationship in modern physics courses](qmcs-zero-gain-uncertainty-principle-wavelength-potential.md) — related
 - [Graduate quantum students show no pretest-posttest difference and no correlation between QMCS scores and final exam scores](qmcs-graduate-courses-no-gains-no-correlation.md) — related
 - [Evaluators distinguished the category expectation value and uncertainty from uncertainty principle, scoring the former high and the latter low on the same questions](uncertainty-versus-uncertainty-principle-category-distinction.md) — related
+- [Interactive engagement methods produced significantly higher QMCS scores than traditional teaching](interactive-engagement-higher-quantum-scores.md) — a narrower finding that bears on this claim

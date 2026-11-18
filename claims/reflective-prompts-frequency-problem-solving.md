@@ -57,3 +57,4 @@ The introduction reports, citing Sijmkens et al. (2023), a study with university
 - [Completion of the angular momentum reflection module is the first significant predictor of conceptual understanding of the related exam problem](angular-momentum-module-first-predictor-conceptual-understanding.md) — related
 - [Students emphasising rehearsal and memorisation techniques showed lower conceptual understanding and less DLC interaction](rehearsal-negative-concept-dlc-interaction.md) — related
 - [Insufficient prior conceptual understanding (solid angle and steradians) blocked accurate model construction in the LED lab](insufficient-conceptual-knowledge-blocks-model-construction.md) — related
+- [Problem modifiers scored about 90% versus about 58% for the rest of the class on Angular Momentum final-exam problems](angular-momentum-modders-versus-class.md) — related

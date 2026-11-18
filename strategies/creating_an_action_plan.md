@@ -65,6 +65,7 @@ Action planning operationalizes the forethought and performance phases of [Self-
 - [Achievable Micro-Goals](achievable_micro-goals.md) — the sub-goal sizing step that protects self-efficacy
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — a classroom routine that embeds planning in learner choice
 - [Have students unpack goals into tasks and subtasks to counter the planning fallacy](task-unpacking-goal-setting-worksheet.md)
+- [Structure exams around ACE-M components with points attached to Analyze and Create a Plan to signal the value of the whole process](ace-m-component-weighted-exams.md)
 
 ## Examples
 - **Morisano et al. (2010)** — Struggling university students who completed a structured goal-setting and planning intervention (elaborating personal goals, specifying means, and reflecting on conflicts) improved GPA relative to controls.

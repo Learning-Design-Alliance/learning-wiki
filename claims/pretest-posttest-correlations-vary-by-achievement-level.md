@@ -53,3 +53,4 @@ The report's stated purpose, from its abstract: an examination of variability in
 - [Writing proficiency and digital critical thinking were strongly associated, and the association strengthened from pretest to posttest](writing-dcts-co-development-correlations.md) — related
 - [Extensive reading of graded readers produced substantial vocabulary learning gains for EFL learners across proficiency levels](extensive-reading-produces-vocabulary-gains-efl.md) — related
 - [Regression significance patterns varied substantially across institutions and years, with no significant coefficients at Institution C](regression-patterns-vary-across-institutions.md) — related
+- [The three methods for calculating normalized gain are highly correlated (r ≥ 0.93)](three-normalized-gain-methods-highly-correlated.md) — related

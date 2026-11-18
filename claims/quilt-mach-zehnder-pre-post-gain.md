@@ -73,3 +73,4 @@ Post-test of the Mach-Zehnder interferometer QuILT included three questions abou
 - [Students fail to distinguish the quantum eraser setup from the setup with two orthogonal polarizers and cannot explain why interference is restored at D1](students-quantum-eraser-confusion-mzi.md) — related
 - [Many students incorrectly claim that inserting or removing BS2 does not change detector probabilities, and this difficulty was reduced after the QuILT (56% to 17% on Q3 and Q4)](mzi-quilt-bs2-role-difficulty-reduced.md) — related
 - [Students hold the incorrect model that BS1 splits a photon into two half-energy photons, and this difficulty was reduced after the QuILT (39% to 17% on Q2)](mzi-quilt-photon-splitting-difficulty-reduced.md) — related
+- [The DPT QuILT significantly improved pretest-to-posttest performance for both undergraduates and graduate students](quilt-improves-dpt-prepost-scores.md) — related

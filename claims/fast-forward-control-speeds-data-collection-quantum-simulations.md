@@ -64,3 +64,4 @@ Follow-up survey of St Andrews students after the fast-forward button was incorp
 
 ## Related Claims
 - [Most students begin exploring simulation controls from top to bottom, justifying placing single-fire controls above fast-forward controls](top-to-bottom-control-exploration-ordering.md) — related
+- [Some instructors described students repeating data collection with unchanged apparatuses and procedures to improve the statistical precision of analyses](repeated-data-collection-improve-statistical-precision.md) — related

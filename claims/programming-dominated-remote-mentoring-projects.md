@@ -47,3 +47,4 @@ Distribution analysis of skills learnt by the 23 mentees shows "The majority (42
 ## Related Claims
 - [Remote mentoring of young females in STEM was reported to build mentees' skills, confidence, scientific visibility, and career awareness, with a minority reporting discontent](magic-remote-mentoring-impact-on-mentees.md) — related
 - [Remote-mentored girls completed tangible STEM projects distributed across computation (44%), game/animation/web (36%), and non-programming (20%) categories](remote-mentoring-project-type-distribution.md) — related
+- [URE project goals were provided by research mentors, and students rarely decided whether projects were feasible](ure-goals-provided-by-mentors.md) — related

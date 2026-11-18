@@ -54,3 +54,4 @@ The review's comparison of weighted normalized gains (0.43 men vs 0.37 women on 
 - [FCI scores show consistent gender gaps of over 15% on pretests and over 13% on post-tests, with both genders gaining similarly](fci-consistent-gender-gaps-docktor-heller.md) — related
 - [Matched-samples studies find no post-test performance difference between men and women in introductory physics when matched on prior measures](matched-samples-no-gender-posttest-difference.md) — related
 - [Interactive engagement instruction yields significantly higher normalized learning gains than traditional lecture on both the FCI and FMCE](ie-higher-gains-than-lecture-physics-50k.md) — related
+- [Normalized gain g overestimates gender inequities in student learning compared to Cohen's d](normalized-gain-overestimates-gender-inequities.md) — related

@@ -53,3 +53,5 @@ The article reports, citing prior educational research (Trumper; Brown & Neale),
 - [Documented student difficulties included moon-phase diagrams, Kepler's second law triangle areas, parallax math, and celestial-sphere visualization](astronomy-student-difficulty-areas-documented.md) — related
 - [The stellar-dimming conceptual question in Essay 3 was the least successful, with only 36% of responses correct and 21% of students misinterpreting the question as asking about the duration of dimming](dimming-question-least-successful-misinterpretation.md) — related
 - [Students misinterpret what spectra indicate, including temperature, composition, and distance information](spectra-interpretation-misconceptions.md) — related
+- [Students have great difficulty extrapolating three dimensions from one- and two-dimensional astronomical representations](difficulty-extrapolating-3d-from-2d-astronomy-representations.md) — related
+- [Motion parallax in simulations cues the ability to extrapolate three-dimensionality](motion-parallax-cues-e3d-in-simulations.md) — related

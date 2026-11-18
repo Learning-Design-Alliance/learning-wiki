@@ -58,9 +58,12 @@ Observing a model reduces the unguided search that overwhelms novices during ini
 4. Include [Coaching](../elements/coaching.md) and feedback as learners attempt the task themselves.
 
 ## Related Strategies
+
 - [Worked Examples](worked-examples-first.md) — demonstration applied to problem solving, with written reasoning annotation
 - [Scaffolding](scaffolding.md) — demonstration is the most supportive rung, faded as competence grows
 - [Direct Instruction](direct-instruction.md) — instructional sequence in which modeling precedes guided and independent practice
+- [Use explicit metacognitive questioning and visible instructor struggle to shift novice problem-solving approaches](schoenfeld-metacognitive-questioning-strategy.md)
+- [Use think-aloud protocols by instructors and students to make problem-solving processes visible and scaffold monitoring](think-aloud-problem-solving-strategy.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — narrated video demonstrations of problem solving followed by practice exercises with on-demand hints.

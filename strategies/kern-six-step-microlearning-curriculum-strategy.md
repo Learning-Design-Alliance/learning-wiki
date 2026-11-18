@@ -41,7 +41,8 @@ The article demonstrates implementing a preparatory curriculum by systematically
 - [A four-round Delphi process with educators and students reached consensus on goals, content priorities, and implementation strategies for the OSCE preparatory tool](../claims/delphi-consensus-osce-tool-goals.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Before implementing evidence-based teaching, compile students' initial knowledge, define measurable goals, and design aligned instruction and assessment by working through six guiding questions](six-questions-evidence-based-teaching-design.md)
 
 ## Examples
 -

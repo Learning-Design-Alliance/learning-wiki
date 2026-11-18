@@ -59,3 +59,4 @@ The review tallies feedback-quality comparisons separately from grading comparis
 - [Human experts provide more nuanced and mixed feedback than ChatGPT-4o and Perplexity in mixed reality simulation mentoring](human-experts-more-nuanced-feedback-than-llm-mrs.md) — related
 - [Students perceived the automated personalized feedback as too general and lacking personal response](automated-feedback-perceived-too-general.md) — a narrower finding that bears on this claim
 - [On descriptive analytical tasks ChatGPT produced logically structured work but lacked deep contextualization, domain-specific insights, and visual elements](chatgpt-descriptive-tasks-generic-outputs.md) — a narrower finding that bears on this claim
+- [Both instructors reported that short, vague student reflections made it difficult to write good feedback, and structure feedback sometimes failed to change this](short-reflections-hinder-grf-feedback.md) — related

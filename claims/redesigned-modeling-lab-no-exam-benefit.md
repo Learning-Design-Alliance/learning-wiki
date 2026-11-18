@@ -49,3 +49,6 @@ Quasi-experimental comparison of 443 final-exam students in an electricity and m
 - [Taking a stand-alone introductory electricity and magnetism lab course produced no measurable difference in normalized final exam performance on lab-related questions in physics 2](physics2-lab-no-exam-effect.md) — related
 - [Stand-alone intro labs provide no added value to lecture content learning whether their goals target content reinforcement or modeling and experimentation](stand-alone-labs-no-content-value-either-goal-set.md) — a broader claim this one bears on
 - [Students who self-selected into the optional lab course scored higher on the overall physics 2 final exam than students who did not](lab-takers-higher-overall-exam-self-selection.md) — related
+- [Taking an optional introductory physics lab that aims to reinforce lecture content provides no measurable added value to final-exam performance on lab-related questions](instructional-labs-no-added-value-final-exams.md) — related
+- [Students who enroll in optional labs differ systematically from non-enrolled students, requiring normalization before any lab-effect comparison](lab-enrollment-selection-effects.md) — related
+- [The null lab effect persists when final-exam analysis is restricted to conceptual questions only](labs-no-conceptual-benefit-final-exams.md) — related

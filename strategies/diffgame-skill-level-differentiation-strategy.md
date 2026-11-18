@@ -52,4 +52,4 @@ The article recommends deploying DiffGame in classrooms for "both fun introducti
 -
 
 ## Key Sources
-- Pedersen, M. K., Svenningsen, A., Dohn, N. B., Lieberoth, A., & Sherson, J. (2016). DiffGame: Game-based mathematics learning for physics. https://arxiv.org/abs/1601.08016
+- Pedersen, M. K., Svenningsen, A., Dohn, N. B., Lieberoth, A., & Sherson, J. (2016). DiffGame: Game-based mathematics learning for physics. https://arxiv.org/abs/1601.08016. [doi:10.1016/j.sbspro.2016.07.047](https://doi.org/10.1016/j.sbspro.2016.07.047)

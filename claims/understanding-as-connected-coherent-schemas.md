@@ -58,3 +58,4 @@ Theoretical argument reviewing expertise research: adaptive experts' knowledge i
 - [Ability for creative independent work is assessed at four levels, from ignorance of theory to independently posing and solving a problem](four-levels-creative-independent-work-ability.md) — related
 - [New information fitting an existing schema is consolidated into neocortex more rapidly](schema-based-prior-knowledge-rapid-consolidation.md) — related
 - [After deep explanation of recoil, 18 students reported learning something new and benefiting from the discussion](post-instruction-students-receptive-recoil-discussion.md) — a narrower finding that bears on this claim
+- [Informal interviews indicated that problem modifiers showed deep understanding and transfer to novel difficult scenarios](problem-modding-transfer-interviews.md) — a narrower finding that bears on this claim

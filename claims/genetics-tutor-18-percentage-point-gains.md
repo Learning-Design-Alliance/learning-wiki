@@ -50,3 +50,4 @@ The article reports that "In a total of 45 single-unit in-course evaluations, pr
 - [Pre-instruction LCTSR scores correlate with normalized learning gains, most strongly for theoretical content (TUG-K r=0.59) and more weakly for descriptive content (DIRECT r=0.50)](lctsr-prescore-correlates-content-gains-theoretical-strongest.md) — related
 - [An adapted SimCalc intervention in Florida produced strong learning gains (ES = 1.09), significantly higher posttests than predicted from the Texas control group](simcalc-florida-extension-gains.md) — related
 - [Prediction activities yield larger pretest-to-posttest learning gains than worked example or tell-then-practice activities in a genetics course](prediction-activities-largest-learning-gains-genetics.md) — related
+- [A CT-focused CS0 course improved students' analytical skills by over 18 percentage points on average](cs0-course-improved-analytical-skills.md) — related

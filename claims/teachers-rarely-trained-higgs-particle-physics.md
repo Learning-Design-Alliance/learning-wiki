@@ -8,12 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: weak
-newest_evidence: 2012
-recheck_by: 2017
+newest_evidence: 2013
+recheck_by: 2018
 sources:
-  - id: t-csörgő-2012
+  - id: t-csörgő-2013
     resource: "https://doi.org/10.48550/arXiv.1303.2732"
-    title: "T. Csörgő. (2012). Higgs Boson – on Your Own: A Memory Style Quark Matter Card Game. [doi:10.48550/arXiv.1303.2732](https://doi.org/10.48550/arXiv.1303.2732)"
+    title: "T. Csörgő. (2013). Higgs Boson – on Your Own: A Memory Style Quark Matter Card Game. Originally published 2012. [doi:10.48550/arXiv.1303.2732](https://doi.org/10.48550/arXiv.1303.2732)"
     author: T. Csörgő
     q: 1
     i: "?"
@@ -25,16 +25,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: baselines and conditions change
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
-`q1 i?` Media-educated students ask physics teachers about the Higgs boson, but teachers are rarely trained to teach this topic in elementary, middle or junior high schools. [→ T. Csörgő 2012](#t-csorgo-2012)
+`q1 i?` Media-educated students ask physics teachers about the Higgs boson, but teachers are rarely trained to teach this topic in elementary, middle or junior high schools. [→ T. Csörgő 2013](#t-csorgo-2013)
 
 ## Evidence
 
-### T. Csörgő 2012
+### T. Csörgő 2013
 
-T. Csörgő. (2012). Higgs Boson – on Your Own: A Memory Style Quark Matter Card Game. [doi:10.48550/arXiv.1303.2732](https://doi.org/10.48550/arXiv.1303.2732)
+T. Csörgő. (2013). Higgs Boson – on Your Own: A Memory Style Quark Matter Card Game. Originally published 2012. [doi:10.48550/arXiv.1303.2732](https://doi.org/10.48550/arXiv.1303.2732)
 
 `q1 · i?` · `design · r1`
 
@@ -47,3 +47,4 @@ The author's motivating observation in the abstract, offered without cited data 
 
 ## Related Claims
 - [Most surveyed pre-service teachers aim for teaching positions, especially in science or mathematics](career-preference-teaching-science-math.md) — related
+- [Playing Quark Wars solidified particle terminology and made particle identification tangible for secondary/middle school students in a single camp test](quark-wars-solidified-particle-terminology-camp-test.md) — related

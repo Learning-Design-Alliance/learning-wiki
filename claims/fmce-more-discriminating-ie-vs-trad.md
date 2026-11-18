@@ -48,3 +48,5 @@ Comparison of normalized gains by teaching method within the secondary-analysis 
 ## Related Claims
 - [Interactive engagement instruction yields significantly higher normalized learning gains than traditional lecture on both the FCI and FMCE](ie-higher-gains-than-lecture-physics-50k.md) — related
 - [Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02](hake-ie-gains-two-sd-greater.md) — related
+- [P3 students earn FMCE normalized gains of 0.60, above the 0.10-0.35 range of traditional lecture-based instruction at MSU and comparable to other transformed interactive engagement classrooms.](p3-fmce-normalized-gain-060.md) — related
+- [In a multiple linear regression of LA-supported courses, non-dominant status predicts effect sizes 0.262 higher than dominant peers, and the FMCE predicts effect sizes 0.2 lower than the FCI](regression-non-dominant-fmce-coefficients.md) — related

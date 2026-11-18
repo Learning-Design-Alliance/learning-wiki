@@ -40,7 +40,8 @@ A standardized IVR classroom environment with 30 virtual student agents arranged
 - 
 
 ## Related Designs
-- 
+
+- [Three-group controlled study design with concurrent gameplay data streams and eye tracking](three-group-potential-penguin-study-design.md)
 
 ## Examples
 -

@@ -12,7 +12,7 @@ generated:
 # Cognitive Apprenticeship
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 15 claims (9 for, 4 mixed, 2 against) · 11 studies (6 causal, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q3` · 0 of 11 report an effect size · 15 claims rest on one study
+> **Evidence** · 16 claims (10 for, 4 mixed, 2 against) · 12 studies (6 causal, 3 qualitative, 2 theoretical, 1 associational), `q1`–`q3` · 0 of 12 report an effect size · 16 claims rest on one study
 
 ## Description
 Cognitive apprenticeship is the theory that complex thinking is learned through modeled expert performance, coached participation, scaffolding, articulation, reflection, and gradual fading in authentic tasks.
@@ -34,6 +34,7 @@ Cognitive apprenticeship is the theory that complex thinking is learned through 
 - [Metacognitive time-outs attending to process occur multiple times in experienced teachers' classrooms but almost never with inexperienced teachers](../claims/metacognitive-time-outs-experienced-teachers.md) [+W] — attached 2026-11-10 from Winston Kalman A et al. (2013), which proposed "Theory of remediation: cognitive apprenticeship within a small community of inquiry requiring expert teachers in multiple roles".
 - [Level of scaffolding significantly affects introductory physics students' physics self-diagnosis performance, with outline-plus-rubric support yielding the highest diagnosis grades](../claims/scaffolding-level-affects-physics-self-diagnosis.md) [+W] — attached 2026-11-17 from E. Cohen et al. (2008), which proposed "Cognitive apprenticeship framing of scaffolded self-diagnosis tasks"; tests this page's relationship.
 - [Rubric scaffolding specifically improves diagnosis of presentation mistakes: the outline-plus-rubric group outperformed both other groups, which did not differ from each other](../claims/rubric-improves-presentation-self-diagnosis.md) [+W] — attached 2026-11-17 from E. Cohen et al. (2008), which proposed "Cognitive apprenticeship framing of scaffolded self-diagnosis tasks".
+- [Instructors' reported troubleshooting teaching practices largely align with the cognitive apprenticeship model (asking questions, coaching, verbalizing reasoning, modeling, fading support)](../claims/troubleshooting-teaching-aligns-cognitive-apprenticeship.md) [+W] — attached 2026-11-17 from Dimitri R. Dounas-Frazer et al. (2016), which proposed "Cognitive apprenticeship as a framework for troubleshooting instruction in electronics labs".
 
 ## Related Theories
 

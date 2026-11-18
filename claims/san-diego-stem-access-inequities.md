@@ -99,3 +99,4 @@ The report's context section, referencing Figure 2 (annual income by gender and 
 - [College enrollment gaps by race, gender, and socioeconomic background among CPS graduates were driven primarily by differences in four-year enrollment](cps-enrollment-gaps-driven-by-four-year-enrollment.md) — related
 - [Lack of diversity in computing stems from social and structural barriers, not ability or interest](structural-barriers-not-ability-limit-computing-diversity.md) — a narrower finding that bears on this claim
 - The reviewed literature shows limited engagement with specialist diversity concepts such as gender or race and little attention to teacher educators' own knowledge — related
+- [Free or low-cost robotic telescope access equalises instrumentation access across socioeconomic and physical barriers](robotic-telescope-equity-access.md) — related

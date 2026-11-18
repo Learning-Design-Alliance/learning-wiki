@@ -57,3 +57,4 @@ Subgroup analysis by gender within the main RCT model with interaction terms; th
 - [Male students report slightly higher classroom engagement than female students in the sample](gender-gap-engagement-boys-higher.md) — related
 - [Quizzical participation showed no gender difference even though males outperformed females on course exams in both cohorts](no-gender-difference-quizzical-participation.md) — related
 - [Treatment effects on evaluations of female instructors appear concentrated among male students, though the male-versus-female difference is not statistically significant](student-sex-moderation-female-instructor-ratings.md) — related
+- [Normalized gain g overestimates gender inequities in student learning compared to Cohen's d](normalized-gain-overestimates-gender-inequities.md) — related

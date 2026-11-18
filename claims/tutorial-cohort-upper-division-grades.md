@@ -50,3 +50,4 @@ Course-grade comparison across seven semesters of traditionally curved upper-div
 - [The Tutorial-versus-non-Tutorial BEMA difference persists across all six topical question clusters, with no significant within-cluster change from freshman to upper-division](bema-subtopic-clusters-persist.md) — related
 - [Grades in the calculus-based physics course correlate 0.75 with upper-division Physics GPA, with slightly higher grades in 25X](phys-25x-upper-division-correlation-075.md) — related
 - [Control-group students were at least as strong as experimental-group students in other traditionally taught upper-division physics courses](control-group-comparability-other-upper-division-courses.md) — related
+- [ACE-M-taught Calculus 1 students earned a higher average Calculus 2 grade (3.09 vs 2.81) with different instructors; the physics transfer effect was smaller and not statistically significant](ace-m-transfer-to-subsequent-courses.md) — related

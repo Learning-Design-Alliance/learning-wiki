@@ -58,6 +58,7 @@ The guide recommends that educators embed computational thinking into topics the
 - [Integrate computational fluency practice into science lessons by having science teachers present numerical, computation-based examples](science-teachers-integrate-computational-practice.md)
 - [Embed new curricular content by replacing an existing clerkship activity rather than adding instructional time](replace-existing-clerkship-activity-strategy.md)
 - [Embed new skill practice in existing course time with in-class group discussion rather than adding class time](embed-skill-practice-in-existing-lab-discussion-time.md)
+- [Integrate CT into existing subjects such as sciences, maths and English when a standalone CS course is not feasible](integrate-ct-into-existing-subjects.md)
 
 ## Examples
 -

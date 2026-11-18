@@ -136,3 +136,4 @@ This review addresses the "representation dilemma": students often must learn un
 - [Two-dimensional molecular dynamics simulations with fixed-wall boundary conditions are preferable for many educational purposes](two-dimensional-md-preferred-education.md) — related
 - [Pictorial representations of molecular energy states (arcs and arrows) help students produce more scientifically coherent explanations after instruction](arcs-arrows-pictorial-energy-state-representations.md) — a narrower finding that bears on this claim
 - [Coordinating multiple frames helps students monitor calculations and find errors, while staying only in algorithmic math makes checking solutions difficult](coordinating-frames-aids-error-monitoring.md) — related
+- [Student-reported vector-learning gains from the programming exercise are mixed, which the authors read as a gauge of how connected the activity feels to course material](mixed-vector-learning-gains-programming-lab.md) — related

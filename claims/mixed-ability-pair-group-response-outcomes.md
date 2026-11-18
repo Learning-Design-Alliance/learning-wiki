@@ -47,3 +47,4 @@ Table II's final row: in the 36% of cases where both members were correct indivi
 ## Related Claims
 - [Peer collaboration can produce co-construction of knowledge: pairs answered correctly questions neither member could answer individually, with 29% of responses moving from both-incorrect individually to correct as a pair](peer-interaction-co-construction-of-knowledge.md) — related
 - [Peer pairs co-constructed correct responses in 29% of eligible cases, at a frequency roughly ten times higher than predicted by random guessing.](peer-co-construction-correct-group-response.md) — related
+- [Students in one uncontrolled pre-test-to-post-test study: groups in which no member answered the ICT correctly all answered the GCT correctly 31% of the time](qm-clicker-co-construction-31-percent.md) — related

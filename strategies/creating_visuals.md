@@ -64,6 +64,7 @@ Student-generated visuals are effective because drawing requires translating ver
 - [Concept Mapping](../elements/concept-mapping.md) — a specific structured format for visual construction
 - [Comparing Cases](../elements/comparing-cases.md) — contrasting multiple visuals drives abstraction
 - [Use visual forms to communicate complex ideas about exploring real-world problems](visual-forms-communicate-complex-ideas.md)
+- [Provide specific instruction on drawing diagrams to increase students' use of diagrams in problem solving](specific-diagram-instruction-strategy.md)
 
 ## Related Elements
 - [Analogies](../elements/analogies.md) — visual analogies help learners map unfamiliar structures onto familiar ones

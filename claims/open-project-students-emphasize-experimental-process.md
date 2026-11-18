@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: weak
-newest_evidence: 2015
+newest_evidence: 2016
 sources:
-  - id: f-bouquet-2015
+  - id: f-bouquet-2016
     resource: "https://doi.org/10.48550/arXiv.1601.06659"
-    title: "F. Bouquet, J. Bobroff, M. Fuchs-Gallezot, and L. Maurines. (2015). Project-based physics labs using low-cost open-source hardware. [doi:10.48550/arXiv.1601.06659](https://doi.org/10.48550/arXiv.1601.06659)"
+    title: "F. Bouquet, J. Bobroff, M. Fuchs-Gallezot, and L. Maurines. (2016). Project-based physics labs using low-cost open-source hardware. Originally published 2015. [doi:10.48550/arXiv.1601.06659](https://doi.org/10.48550/arXiv.1601.06659)"
     author: F. Bouquet, J. Bobroff, M. Fuchs-Gallezot, and L. Maurines
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` In the survey, 65% of open-project student answers fell in the experimental capacities category versus 24% for focused-lab students, while academic knowledge was cited by 30% versus 57%. [→ F. Bouquet 2015](#f-bouquet-2015)
+`q2 i?` In the survey, 65% of open-project student answers fell in the experimental capacities category versus 24% for focused-lab students, while academic knowledge was cited by 30% versus 57%. [→ F. Bouquet 2016](#f-bouquet-2016)
 
 ## Evidence
 
-### F. Bouquet 2015
+### F. Bouquet 2016
 
-F. Bouquet, J. Bobroff, M. Fuchs-Gallezot, and L. Maurines. (2015). Project-based physics labs using low-cost open-source hardware. [doi:10.48550/arXiv.1601.06659](https://doi.org/10.48550/arXiv.1601.06659)
+F. Bouquet, J. Bobroff, M. Fuchs-Gallezot, and L. Maurines. (2016). Project-based physics labs using low-cost open-source hardware. Originally published 2015. [doi:10.48550/arXiv.1601.06659](https://doi.org/10.48550/arXiv.1601.06659)
 
 `q2 · i?` · `design · r2`
 
@@ -47,3 +47,4 @@ Survey of 17 open-project and 21 focused-lab students using open-ended questions
 ## Related Claims
 - [Open-project students more often cited teamwork and work organization, but less often cited autonomy, as personal impact](open-project-teamwork-cited-autonomy-underacknowledged.md) — related
 - [Open-project students more often mentioned interactions with teachers despite equal teacher time in both lab formats](open-project-students-mention-teacher-interactions-more.md) — related
+- [Skills-focused courses differed observationally from concepts-focused courses: fewer verification labs, more student agency, more uncertainty quantification and lab notebooks](skills-focused-courses-activity-profile.md) — related

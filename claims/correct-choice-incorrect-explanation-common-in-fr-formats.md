@@ -8,12 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: moderate
-newest_evidence: 2012
-recheck_by: 2017
+newest_evidence: 2013
+recheck_by: 2018
 sources:
-  - id: beth-thacker-2012
+  - id: beth-thacker-2013
     resource: "https://doi.org/10.48550/arXiv.1312.6004"
-    title: "Beth Thacker, Ganesh Chapagain, David Pattillo, Keith West. (2012). The Effect of Problem Format on Students' Responses. [doi:10.48550/arXiv.1312.6004](https://doi.org/10.48550/arXiv.1312.6004)"
+    title: "Beth Thacker, Ganesh Chapagain, David Pattillo, Keith West. (2013). The Effect of Problem Format on Students' Responses. Originally published 2012. [doi:10.48550/arXiv.1312.6004](https://doi.org/10.48550/arXiv.1312.6004)"
     author: Beth Thacker, Ganesh Chapagain, David Pattillo, Keith West
     q: 2
     i: "?"
@@ -25,16 +25,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: baselines and conditions change
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
-`q2 i?` For the calculus-based course on Problem A, the percentage of students choosing correctly but explaining incorrectly (CI) ranged from about 25–60% in part (a) and around 60–70% in part (b) in FR formats. [→ Beth Thacker 2012](#beth-thacker-2012)
+`q2 i?` For the calculus-based course on Problem A, the percentage of students choosing correctly but explaining incorrectly (CI) ranged from about 25–60% in part (a) and around 60–70% in part (b) in FR formats. [→ Beth Thacker 2013](#beth-thacker-2013)
 
 ## Evidence
 
-### Beth Thacker 2012
+### Beth Thacker 2013
 
-Beth Thacker, Ganesh Chapagain, David Pattillo, Keith West. (2012). The Effect of Problem Format on Students' Responses. [doi:10.48550/arXiv.1312.6004](https://doi.org/10.48550/arXiv.1312.6004)
+Beth Thacker, Ganesh Chapagain, David Pattillo, Keith West. (2013). The Effect of Problem Format on Students' Responses. Originally published 2012. [doi:10.48550/arXiv.1312.6004](https://doi.org/10.48550/arXiv.1312.6004)
 
 `q2 · i?` · `causal · r2`
 
@@ -50,3 +50,4 @@ Results section, Problem A numerical analysis for the calculus-based course acro
 - [CI responses decreased dramatically when the quiz used a Ranking Task problem requiring explicit ranking, and the straight-calculation version also showed no significant percentage of CI answers](explicit-ranking-task-reduces-ci-responses.md) — related
 - [A relatively high percentage of correct-choice-incorrect-explanation (CI) answers appeared across many problems, revealing false positives invisible to answer-only scoring](high-percentage-ci-answers-free-response.md) — a broader claim this one bears on
 - [Students perceive show-your-work and short-answer formats as giving instructors the most information about their understanding (95%), though they find them harder than MC](students-perceive-written-formats-most-informative.md) — related
+- [A common student difficulty is the incorrect idea that errors occur every time Eve chooses the wrong basis](errors-every-wrong-basis-misconception.md) — related

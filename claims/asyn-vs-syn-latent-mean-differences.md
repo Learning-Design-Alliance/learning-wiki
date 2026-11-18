@@ -52,3 +52,4 @@ Latent mean analysis across all three modality pairs with rotated reference grou
 - [Synchronous online discussions produce higher behavioral, emotional, and cognitive engagement than asynchronous online discussions in online math courses](synchronous-discussion-increases-engagement.md) — related
 - [Asynchronous and synchronous e-learning produce no difference in total clinical record writing quality among speech therapy students](async-sync-no-difference-cr-total-score.md) — related
 - [Synchronous discussions foster social presence while asynchronous communication supports higher levels of thinking in online courses](synchronous-social-presence-asynchronous-higher-thinking.md) — related
+- [Adding synchronous communication to asynchronous online courses is associated with greater social presence and, in some contexts, improved learning outcomes](synchronous-communication-social-presence-online.md) — related

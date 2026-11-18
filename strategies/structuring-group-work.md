@@ -67,6 +67,7 @@ Group work improves outcomes when it creates genuine interdependence and individ
 - [Assign and rotate role interdependency (leader, writer, task guard, text guard) to support sharedness in scripted collaboration](rotated-role-interdependency-scripting-strategy.md)
 - [Teach sourcing across all online inquiry phases with explicit instruction, controversial tasks, prompts, and collaborative group work](sourcing-across-inquiry-phases-intervention-design.md)
 - [Rotate students’ written questions among peers so they assess and discuss them to feed the dialogue](peer-rotation-written-questions-dialogue.md)
+- [Use active-learning activities — peer interaction, interactive engagement, writing tasks, and student-tutor dialogue videos — to teach quantum concepts](active-learning-activities-quantum-concepts-strategy.md)
 
 ## Examples
 - **Jigsaw classroom (Aronson)** — students become experts on one segment in "expert groups," then teach it in mixed "jigsaw groups"; the structure makes each member's contribution indispensable. [https://www.jigsaw.org](https://www.jigsaw.org)

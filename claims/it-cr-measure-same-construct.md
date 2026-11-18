@@ -52,3 +52,4 @@ Correlation-matrix analysis of the two final exams (Table V); item correlations 
 - [Students obtain higher scores on integrated testlets than on concept-equivalent constructed-response questions, a difference largely attributable to guessing baseline](it-scores-higher-than-cr-equivalents.md) — related
 - [IF-AT exam scores correlate with constructed-response quiz scores (r = 0.67), supporting validity](if-at-exam-scores-correlate-with-cr-quiz-scores.md) — related
 - [Polychotomously scored IF-AT physics exam items show excellent discrimination, with a mean item-total correlation of r′ = 0.41 ± 0.13 across 45 items](if-at-integrated-testlet-items-excellent-discrimination.md) — related
+- [Binary and computational questions on resistor networks were nearly uncorrelated, suggesting they do not test the same construct](binary-computational-uncorrelated-constructs.md) — reports the opposite

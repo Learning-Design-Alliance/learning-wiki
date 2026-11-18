@@ -17,7 +17,7 @@ sources:
 # Use isomorphic problem pairs in instruction and discuss or require justification of their isomorphism
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 4 studies (3 causal, 1 theoretical), `q2`–`q3` · 0 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 5 studies (4 causal, 1 theoretical), `q2`–`q3` · 0 of 5 report an effect size · 4 claims rest on one study
 
 ## Description
 The article recommends exploiting isomorphic problems as teaching tools: give students paired problems similar to those in the study and later discuss their isomorphism to help them discern underlying similarities, or tell students the problems are isomorphic and ask them to justify the isomorphism. It also suggests rewarding students for identifying isomorphic problems in homework, e.g., solving one in detail and laying out a plan for the other, to motivate conceptual analysis and planning before implementation.
@@ -49,6 +49,7 @@ The article recommends exploiting isomorphic problems as teaching tools: give st
 ## Related Strategies
 
 - [Assign paired problems as quizzes or homework so students transfer the tutorial-taught approach without help](paired-problems-quizzes-homework-strategy.md)
+- [Administer CQIPP pairs back to back with the quantitative question preceding the conceptual question, without telling students the questions are isomorphic](cqipp-back-to-back-administration.md)
 
 ## Examples
 -

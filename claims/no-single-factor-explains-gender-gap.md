@@ -50,3 +50,4 @@ The review's synthesis of 26 published articles comparing 30 factors concludes '
 
 ## Related Claims
 - [Too few studies exist to draw robust conclusions on moderating factors (age, gender, screen size, dosage, SAMR-based activities) or on whether benefits persist beyond the post-test](mobile-device-moderators-insufficient-evidence.md) — related
+- [Neither multiple-choice format nor scaffolding level sufficiently explains the physics gender gap](neither-mc-nor-scaffolding-explains-gender-gap.md) — a narrower finding that bears on this claim

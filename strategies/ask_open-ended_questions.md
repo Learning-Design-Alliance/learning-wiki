@@ -64,6 +64,7 @@ Open-ended questions surface information that closed questions systematically mi
 - [Check-Ins](../principles/check-ins.md) — the routine structure that makes individual open questions sustainable at scale
 - [Building Empathy](../principles/building-empathy.md) — open questions are the primary data-gathering move for empathic response
 - [Question-driven lab report that lets students decide which measurements to perform](question-driven-report-student-liberty-strategy.md)
+- [Ask students to explain the instrument to a layperson (a 12-year-old) to diagnose device understanding](explain-to-12-year-old-diagnostic.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — open questions are the questioning half of the coaching cycle

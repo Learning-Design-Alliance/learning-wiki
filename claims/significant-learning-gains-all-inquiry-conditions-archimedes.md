@@ -53,3 +53,4 @@ Controlled experiment with 120 third-year pre-university students (86 analyzed) 
 - [Leveraging appropriate types of guidance during the relevant phases of inquiry benefits student inquiry in virtual and remote labs](phase-appropriate-guidance-benefits-inquiry-labs.md) — related
 - [Virtual laboratories match physical laboratories on conceptual mastery, with domain-specific advantages and disadvantages](virtual-matches-physical-conceptual-mastery.md) — related
 - [Virtual lab simulations improved blood typing knowledge and motivation but faced technical and language barriers](virtual-labs-improve-blood-typing-knowledge-motivation.md) — related
+- [Pre-test to post-test scores rose significantly on all three topics after pre-class assignments, in one single-group pre-post study](preclass-assignment-learning-gains.md) — related

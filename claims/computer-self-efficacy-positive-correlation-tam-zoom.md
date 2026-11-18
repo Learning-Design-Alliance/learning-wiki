@@ -51,3 +51,4 @@ Correlation analysis (Table 4) of the 75-student questionnaire data testing Hypo
 - [Attitude, facilitating conditions, and social influence correlate most strongly with behavioral intention, while perceived ease of use correlates weakest](at-fc-si-strongest-bi-correlates-peou-weakest.md) — related
 - [Perceived usefulness and perceived ease of use of GenAI tools significantly predict teachers' attitudes and behavioural intention](usefulness-ease-predict-attitude-intention-genai.md) — related
 - [Gender had no impact on students' acceptance of using Zoom for language learning, per the article's conclusion](gender-no-impact-tam-zoom-acceptance.md) — related
+- [Availability of IT services and computer self-efficacy strongly predict perceived ease of use of online mathematical assessments](ait-cse-predict-ease-of-use.md) — related

@@ -50,3 +50,4 @@ Post-program student surveys (grades 2-8) conducted as part of the pilot assessm
 - [Teachers judged the Quarked! programs valuable from both a curriculum and affective perspective](teachers-judge-quarked-programs-valuable.md) — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [Over half of surveyed students would tell friends they enjoyed the program, and 46% would mention specific program content](students-would-share-enjoyment-with-friends.md) — related
+- [Playing Quark Wars solidified particle terminology and made particle identification tangible for secondary/middle school students in a single camp test](quark-wars-solidified-particle-terminology-camp-test.md) — related

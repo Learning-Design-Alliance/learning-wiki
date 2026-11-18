@@ -50,3 +50,4 @@ Observation across the two University sessions with 15–16-year-olds: many exam
 - [The profile-shortened version of a film commentary produced learning equal to the longer script writers' and full versions](profile-shortened-commentary-equal-learning.md) — related
 - [Profile-based shortening removed more sentences and more presentation time than script writers' cuts](profile-cut-more-than-writers-cuts.md) — related
 - [The workshop covered too many topics to fit the session time, and the configuration model was skipped for lack of a good pre-worked example](workshop-too-long-topics-skipped.md) — related
+- [Substantially shortening and simplifying Proposal C signiﬁcantly improved students' understanding of its wording without reducing motivation understanding](simplifying-proposal-c-improved-wording-understanding.md) — related

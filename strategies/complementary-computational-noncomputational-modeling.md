@@ -49,6 +49,7 @@ The authors recommend pairing computational modeling platforms with physical and
 ## Related Strategies
 
 - [Use real-time laboratory visualization rather than computer-based animations or simulations for electromagnetic wave concepts](real-time-lab-visualization-not-simulations.md)
+- [Use embodied and physical modeling activities to complement computational modeling so programming commands become experientially real](embodied-modeling-complements-computational-modeling.md)
 
 ## Examples
 -

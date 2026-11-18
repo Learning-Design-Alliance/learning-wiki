@@ -50,6 +50,7 @@ In the AOSS lab activity, students first trace the light path, identify parts, a
 - [Guided systems-diagramming warm-up on a functioning AO workbench](ao-systems-diagramming-warm-up.md)
 - [Systems optimization activity varying aberrations, speed and software parameters](ao-systems-optimization-activity.md)
 - [Problem Solving Draw A Picture](problem_solving-draw_a_picture.md)
+- [Enrich practical sessions with ray-tracing software and 2D CCD cameras, and tutorials with a problem-solving approach](ccd-ray-tracing-problem-solving-future-improvements.md)
 
 ## Examples
 -

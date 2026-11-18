@@ -155,3 +155,5 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Students reported that pairing hands-on real tools with virtual tools helped them verify and understand both instruments](students-report-real-and-virtual-tools-mutually-supporting.md) — related
 - [Student performance-task artifacts (research reports and Tracker *.TRZ files) suggest students behaved like scientists in classroom context](tracker-artifacts-indicate-scientist-like-behaviour.md) — related
 - [Open-ended lab exercises that rely on students to determine which features are of physical interest provide insight into how experimental research is conducted and build experimental skills like note-taking](open-ended-unguided-analysis-builds-experimental-skills.md) — related
+- [Student-reported vector-learning gains from the programming exercise are mixed, which the authors read as a gauge of how connected the activity feels to course material](mixed-vector-learning-gains-programming-lab.md) — related
+- [Year 6 students find Einsteinian concepts interesting and do not consider themselves too young to learn them](einstein-first-year6-attitudes.md) — related

@@ -48,3 +48,5 @@ Pilot-semester observational analysis using hierarchical linear models on 3,315 
 - [Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02](hake-ie-gains-two-sd-greater.md) — related
 - [Student average effect size decreases as the student-to-LA ratio increases (-0.005 per additional student per LA)](lasso-student-to-la-ratio-negative.md) — related
 - [In the CWP pilot at KU, FCI normalized gain improved substantially for students with high English proficiency, from 0.16 pre-reform to 0.47](cwp-high-proficiency-fci-gain-0-47.md) — related
+- [Physics courses supported by Learning Assistants show course-level Cohen's d effect sizes on average 1.4 times higher than courses without LA support](la-support-higher-physics-effect-sizes.md) — related
+- [Mean course effect size varies significantly with the primary LA-supported activity relative to courses without LA support (ANOVA F4,64=3.132, p=0.02)](anova-la-activity-effect-size-variation.md) — related

@@ -61,9 +61,11 @@ Structured observation converts diffuse empathy into usable evidence: by constra
 6. Reflect individually and in [Peer Discussion](../elements/peer-discussion.md) on insights gained, and commit to specific changes in practice, policy, or resource allocation.
 
 ## Related Strategies
+
 - Empathy interviews — pair student voice with observation so the student interprets their own experience rather than being interpreted
 - Instructional rounds — applies the same descriptive-first observation discipline at the classroom rather than individual-student level
 - Equity audits — structured observation supplies the granular evidence such audits require
+- [Record detailed, properly tagged Kankor data with standardized attributes and main-stream categories](kankor-detailed-data-structure-strategy.md)
 
 ## Examples
 - **[Shadow a Student Challenge](https://www.shadowastudent.org)** (IDEO + Stanford d.school School Retool) — school leaders shadow a student for a full day using a structured template, then debrief and commit to a "hack" addressing what they observed.

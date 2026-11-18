@@ -51,3 +51,4 @@ During individual interviews on question 3, in which a particle is released from
 - [Many introductory students believe potential energy diagrams represent motion only in the positive x-direction](students-associate-ped-with-single-direction-motion.md) — related
 - [Many students believe potential energy cannot be negative](students-believe-potential-energy-cannot-be-negative.md) — related
 - [A student avoided negative energy by taking absolute values, confusing zero-point translation with absolute value, a move that does not preserve conservation of energy](student-absolute-value-confusion-negative-energy.md) — related
+- [The authors hypothesize that understanding gained in Potential Penguin transfers to Quantum Moves performance and quantum understanding](hypothesis-inter-game-transfer-penguin-to-quantum-moves.md) — related

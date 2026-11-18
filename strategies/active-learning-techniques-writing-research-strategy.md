@@ -47,7 +47,8 @@ The article states that active learning includes several techniques such as demo
 - [Peer pairing, peer tutoring, and small collaborative/cooperative groupings improved MLs' English phonological awareness across grade levels and were often associated with better English decoding and fluency than teacher-mediated instruction](../claims/peer-pairing-tutoring-grouping-improve-ml-reading-skills.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Use active-learning activities — peer interaction, interactive engagement, writing tasks, and student-tutor dialogue videos — to teach quantum concepts](active-learning-activities-quantum-concepts-strategy.md)
 
 ## Examples
 -

@@ -63,3 +63,4 @@ Path analysis mediation model (final pruned model) fitted to longitudinal data f
 - [Visuospatial skill improvement does not mediate intervention effects on classroom behavior](vs-improvement-does-not-mediate-behavior.md) — related
 - [Grade 5 academic and non-cognitive skills are positive predictors of grade 8 mathematics scores](grade-5-skills-predict-grade-8-math-achievement.md) — related
 - [The association between inhibition and first-grade achievement in math, reading, and writing is fully mediated by LRBs](lrb-full-mediation-inhibition-achievement.md) — related
+- [Arithmetic and algebra fundamentals must be over-learned to automaticity for well-structured science problem solving, and calculator-free computational fluency predicts general chemistry success](computation-automaticity-overlearning-required-science-problem-solving.md) — related

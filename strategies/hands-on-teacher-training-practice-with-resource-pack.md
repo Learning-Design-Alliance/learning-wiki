@@ -46,6 +46,7 @@ The Paired Reading delivery team trained teachers over two sessions totalling on
 - [Train paraprofessionals to deliver Sound Partners lessons using a local trainer plus manual and video-based professional development](sound-partners-paraprofessional-training-strategy.md)
 - [Support implementation with initial Science of Reading training plus PLC-based lesson study and model lessons](plc-lesson-study-implementation-support.md)
 - [Pair brief e-learning with practical frameworks, downloadable materials and behaviour change techniques to support implementation into practice](elearning-plus-practical-framework-implementation-strategy.md)
+- [Full-day standardisation workshops to consolidate quality-control procedures](qc0-standardisation-workshops.md)
 
 ## Examples
 -

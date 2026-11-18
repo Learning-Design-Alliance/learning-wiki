@@ -55,3 +55,5 @@ Qualitative analysis of contributions in negotiation and group spaces during the
 - [Resistance messages in asynchronous discussions elicit most messages with perspectival understanding](resistance-messages-elicit-perspectival-understanding.md) — related
 - [Metalanguage in the episodic interview worked as a tool to re-contextualise and re-signify meanings at a later moment](metalanguage-recontextualises-meanings-episodic-interview.md) — related
 - [Effective small-group work in physics produces co-construction of knowledge: students can figure out answers together that they would not figure out alone](peer-co-construction-of-knowledge-physics.md) — related
+- [Co-construction of an Answer Mode: multiple students build an answer through consonant, elaborative interaction over specific physics content](co-construction-answer-mode-elaborative-specific.md) — related
+- [Four distinct Modes of student interaction (Debate, Informing, Co-construction of an Answer, Building Understanding towards an Answer) emerge from video of introductory physics group work](four-modes-of-collaboration-identified.md) — related

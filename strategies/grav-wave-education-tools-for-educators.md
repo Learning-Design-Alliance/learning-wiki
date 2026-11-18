@@ -40,6 +40,7 @@ The article points educators to a set of existing tools for teaching gravitation
 
 - [Extend the curriculum with student-built interferometer projects and a Bayesian parameter-estimation unit](future-extensions-interferometer-and-bayesian-unit.md)
 - [Use a frontier science facility's detector search as a platform for multi-audience outreach programs](ligo-observatory-outreach-programs.md)
+- [Donate the functional detector built during the course to the host institution for future training and research](donate-functional-detector-to-host-institution.md)
 
 ## Examples
 -

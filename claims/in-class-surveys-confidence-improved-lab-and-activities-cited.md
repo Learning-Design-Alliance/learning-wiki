@@ -52,3 +52,4 @@ Biweekly in-class surveys, based on established design principles for self-confi
 - [Laboratories and demonstrations are the most frequently used engagement techniques in high school physics across all location categories](labs-demos-most-frequent-engagement.md) — related
 - [Student understanding of cosmology increases over a semester with relevant and engaging exercises, but lecture alone was not seen to improve it significantly](lecture-alone-insufficient-cosmology-understanding.md) — related
 - [Students at both introductory and advanced levels perceived the two-level simulations as useful for improving their understanding](students-perceive-quvis-simulations-useful.md) — related
+- [Student-reported vector-learning gains from the programming exercise are mixed, which the authors read as a gauge of how connected the activity feels to course material](mixed-vector-learning-gains-programming-lab.md) — related

@@ -56,3 +56,4 @@ Reflexive thematic analysis of the 30 interviews; theme 3. Synchronous students 
 - [Students in a large analytical chemistry course preferred synchronous videoconference lectures over pre-recorded asynchronous lectures](students-prefer-synchronous-lectures-large-course.md) — related
 - [Synchronous discussions foster social presence while asynchronous communication supports higher levels of thinking in online courses](synchronous-social-presence-asynchronous-higher-thinking.md) — related
 - [Students are less likely to prefer faculty presence after experiencing a faculty-absent case discussion](preference-for-faculty-declines-after-absence.md) — related
+- [Adding synchronous communication to asynchronous online courses is associated with greater social presence and, in some contexts, improved learning outcomes](synchronous-communication-social-presence-online.md) — related

@@ -57,3 +57,4 @@ Analysis of 2024-25 classes assessed against seven fidelity criteria developed w
 - [Schools implemented the Lesson Study programme with high fidelity, attending training and completing roughly one cycle per term](lesson-study-high-implementation-fidelity.md) — related
 - [Case study applies the framework to 24 students evaluated by multiple stakeholder groups](z-mabac-case-study-24-students.md) — related
 - [The same instructional practice can produce different student motivation outcomes depending on the instructor, underscoring fidelity to evidence-based methods](practice-fidelity-varies-motivation-outcomes.md) — related
+- [Case study: weekly TA meetings with a struggling student were associated with improved attendance and more homework completed](brandon-case-conference-intervention.md) — related

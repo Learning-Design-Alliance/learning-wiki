@@ -54,3 +54,4 @@ Episode analysis: Owen describes thermal energy from a hot plate traveling until
 - [Teachers across multiple courses and scenarios describe transformation into thermal energy as a terminal process, a 'dead end'](teachers-thermal-energy-terminal-dead-end.md) — related
 - [Teachers disagree about whether thermal energy can be useful, revealing that energy's usefulness depends on the objects included in the scenario](teachers-usefulness-depends-on-scenario-objects.md) — related
 - [Learners expect that energy associated with a perceptible indicator will be associated with another perceptible indicator when the energy transforms, challenging energy conservation when all indicators become imperceptible](perceptible-indicator-expectation-energy-transformations.md) — related
+- [Gestural and metaphorical elements accompany the pulling out resource, evidencing its procedural status](pulling-out-gestural-basis.md) — related

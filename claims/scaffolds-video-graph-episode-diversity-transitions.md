@@ -55,3 +55,4 @@ Qualitative video-graph comparison of thematic episodes across 11 groups' transc
 - [Explicit scaffolding prompts elicited P1 (exploring) and P2 (planning) engagement at task start that groups did not show on the non-scaffolded task](scaffolds-prompt-p1-p2-engagement-at-start.md) — related
 - [Groups' final solution scores were significantly higher on the scaffolded task than the non-scaffolded task](scaffolds-higher-final-solution-scores.md) — related
 - [Practices P1, P2, P3, P4 and P7 received the highest percentages at the Redefinition level](p1-p2-p3-p4-p7-highest-redefinition-percentages.md) — related
+- [Students experimentally identify the cycloid path (P4) as the minimum-time descent, with times decreasing from P1 to P4 and increasing again from P5 to P8](cycloid-p4-minimum-descent-time-verified.md) — related

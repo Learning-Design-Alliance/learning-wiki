@@ -52,3 +52,4 @@ Fall 2020 interviews with California district superintendents and human resource
 - [Many programs face partnership alignment, hiring-placement, and administrative capacity challenges that limit financial sustainability](partnership-and-capacity-challenges-residencies.md) — related
 - [Early childhood credential candidates face financial, time, and navigation barriers that fall hardest on candidates of color](ec-credential-barriers-cost-time-navigation.md) — related
 - [Each year thousands of new teachers pass through hundreds of different teacher preparation programs before being hired to teach in the nation's schools](thousands-of-new-teachers-hundreds-of-preparation-programs.md) — related
+- [Agency-mediated UGR programs with large applicant pools risk selecting under-prepared students due to uneven university grading](agency-mediated-ugr-selection-risk.md) — related

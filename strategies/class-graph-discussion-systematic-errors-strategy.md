@@ -47,6 +47,7 @@ During the lab the instructor introduces the standard deviation and standard dev
 ## Related Strategies
 
 - [Optional target-hitting extension uses calculated projectile ranges to confirm the accuracy of the height method](target-hitting-range-extension-strategy.md)
+- [Introduce measurement uncertainty through dispersion of repeated measurements plus a one-variable derivative propagation recipe](dispersion-based-uncertainty-introduction-strategy.md)
 
 ## Examples
 -

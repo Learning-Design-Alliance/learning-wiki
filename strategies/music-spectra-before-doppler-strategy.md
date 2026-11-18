@@ -45,6 +45,7 @@ Before the Doppler measurement, students analyze sounds from musical instruments
 - [Music & Dance](music-dance.md)
 - [Have students sample sounds from their own instruments, voices, and resonant objects and analyze them spectrally in Audacity](student-sampled-sound-harmonic-analysis-strategy.md)
 - [Introduce constant acceleration by saying velocity increases by a fixed amount each second (e.g. 10 m/s per second in free fall) instead of stating a constant acceleration of 10 m/s²](velocity-increases-each-second-free-fall-strategy.md)
+- [Extend the fan Doppler experiment to an audible sound source, or reuse it to teach ultrasound fundamentals in medical physics](audible-doppler-variant-and-medical-physics-reuse-strategy.md)
 
 ## Examples
 -

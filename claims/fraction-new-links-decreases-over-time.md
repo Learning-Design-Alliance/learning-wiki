@@ -47,3 +47,4 @@ Numerical link analysis shown in Figure 3(b) of the weekly networks: "the fracti
 
 ## Related Claims
 - [Early student interaction networks segregate significantly by lab class and to a lesser degree by gender, but not by end-of-course grade](segregation-by-lab-class-gender-not-grade.md) — related
+- [Classroom interaction networks shift over the semester from numerous seatmate ties to fewer, more selective cross-group connections](network-selection-effect-over-semester.md) — related

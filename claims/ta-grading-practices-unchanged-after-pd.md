@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-17
 sources:
   - id: henderson-2014
     resource: "https://doi.org/10.1119/perc.2014.pr.024"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-17 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Average grades assigned to the elaborated solution (SSD) and the brief solution (SSE) by the 18-TA subgroup do not change significantly over the semester, and SSE continues to receive the higher average grade. [→ Henderson 2014](#henderson-2014)
@@ -75,3 +76,8 @@ Distribution of TA grades (Fig. 4) at both time points; the article reports 'the
 - [Physics TAs state that grading serves as a learning opportunity for the student and feedback for the instructor, and these stated purposes are stable across a semester](ta-stated-grading-purposes-learning-feedback.md) — related
 - [TAs' perceptions of grading did not change significantly during one semester of teaching experience](tas-grading-perceptions-stable-over-one-semester.md) — related
 - [Almost all first-year physics TAs stated that the purpose of grading was formative](tas-state-formative-purpose-of-grading.md) — related
+- [Physics TAs graded elaborated student solutions higher than brief solutions in both intro physics and QM contexts, with the difference statistically significant only for the QM solution pair](tas-grade-elaborated-higher-qm-significant-intro-not.md) — reports the opposite
+- [TAs' grading scores on the two solutions did not change significantly after the PD grading activities and one semester of TA experience](tas-grading-unchanged-after-pd-and-semester.md) — possibly the same claim (merge candidate)
+- [TAs who judged the intro physics problems easy often inferred correct understanding in the brief intro solution even when the solution showed no evidence of it](tas-inferred-understanding-brief-intro-solution-without-evidence.md) — related
+- [Physics TAs using a CA-inspired rubric scored an elaborated solution similarly to their pre-rubric score and did not match expert rubric scores, particularly for a brief solution](tas-rubric-scores-differ-from-expert-scores.md) — related
+- [Two-thirds of the TAs stated they would grade QM and intro physics solutions using different criteria](two-thirds-tas-stated-different-criteria-intro-qm.md) — related

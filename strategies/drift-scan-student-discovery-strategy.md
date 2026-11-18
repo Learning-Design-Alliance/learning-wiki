@@ -43,6 +43,7 @@ As an unplanned enrichment of the lab, some students discover that switching the
 ## Related Strategies
 
 - [Require multi-frame mosaics (rather than single exposures) to force planning and note-taking](mosaic-task-forces-planning-and-notes.md)
+- [Enrich practical sessions with ray-tracing software and 2D CCD cameras, and tutorials with a problem-solving approach](ccd-ray-tracing-problem-solving-future-improvements.md)
 
 ## Examples
 -

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2010
+source_checked: 2026-11-17
 sources:
   - id: shabnam-siddiqui-and-chandralekha-singh-2010
     resource: "https://doi.org/10.1063/1.3515227"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-17 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Despite rating mathematical preparation as inadequate, faculty's major concern was often students' conceptual difficulties in learning QM. [→ Shabnam Siddiqui and Chandralekha Singh 2010](#shabnam-siddiqui-and-chandralekha-singh-2010)

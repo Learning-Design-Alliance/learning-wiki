@@ -48,6 +48,7 @@ Peer Instruction restructures lecture so short presentations on key points are e
 - [Classroom Response Systems](classroom-response-systems.md)
 - [Use a vote–discuss–revote sequence with classroom response systems so students reach more accurate understanding through peer discussion alone](clicker-vote-discuss-revote.md)
 - [Use concept tests with peer instruction: poll challenging multiple-choice questions, then have students discuss and repoll](concept-tests-peer-instruction-improve-conceptual-understanding.md)
+- [Restructure the adaptive-course classroom as a discussion-based setting with broad multidisciplinary problems](discussion-based-classroom-broad-multidisciplinary-problems.md)
 
 ## Examples
 -

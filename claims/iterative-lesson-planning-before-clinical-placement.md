@@ -53,3 +53,4 @@ Program-design description from the case study's lesson planning section, based 
 - [In a qualitative case study of three social-studies teacher candidates, pedagogical judgment appeared to grow over a clinical semester of structured, iterative support aligned to rubric competencies](structured-iterative-support-improves-pedagogical-judgment.md) — related
 - [Lesson-plan quality grows steadily across three iterative design rounds, but no product reaches the excellent grade](iterative-design-steady-growth-no-excellent.md) — related
 - [Iterative revisions to the implementation plan produced no evidence of increased implementation outcomes across the three waves](no-uptake-increase-across-waves.md) — related
+- [The Astrobites lesson-plan materials were workshopped with 25 students and educators at the 229th AAS meeting, and many of the presented teaching strategies were suggested by those participants.](astrobites-lesson-plans-workshopped-aas-229.md) — related

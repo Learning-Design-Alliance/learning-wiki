@@ -47,3 +47,4 @@ This is the authors' interpretive claim in the conclusions section, grounded in 
 ## Related Claims
 - [Educators and students have already used Astrobites in undergraduate classrooms, in blog-modeling and journal-club course formats](astrobites-classroom-use-anecdotes.md) — related
 - [Astrobites' daily readership includes an estimated >150 undergraduate students in physical-science fields, most of whom aspire to research careers](astrobites-undergraduate-readership-estimate.md) — related
+- [The Astrobites lesson-plan materials were workshopped with 25 students and educators at the 229th AAS meeting, and many of the presented teaching strategies were suggested by those participants.](astrobites-lesson-plans-workshopped-aas-229.md) — related

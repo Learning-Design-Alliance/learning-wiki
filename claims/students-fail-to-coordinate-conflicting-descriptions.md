@@ -63,3 +63,5 @@ Theoretical hypothesis advanced from the authors' data on students and physicist
 - [Students bridge between particle and wave descriptions of electrons, switching within and across contexts](students-bridge-particle-wave-descriptions.md) — related
 - [Students exhibit ontological flexibility, shifting among multiple stances toward the particle in a box: quantum particle, classical particle, and a blend of classical and quantum properties](ontological-flexibility-multiple-stances-piab.md) — related
 - [Most introductory students have difficulty qualitatively interpreting basic energy and momentum principles and applying them in physical situations](students-difficulty-qualitative-energy-momentum.md) — related
+- [Secondary and lower undergraduate students have difficulty relating quantum physics to physical reality](students-difficulty-relating-quantum-physics-physical-reality.md) — related
+- [Student understanding of wave-particle duality falls into three clusters ranging from classical to quasiquantum description](three-clusters-wave-particle-duality-understanding.md) — related

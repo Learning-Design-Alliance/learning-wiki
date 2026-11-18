@@ -62,3 +62,4 @@ Interpretation of the Factor 2 composition (task-value and self-efficacy items) 
 - [Interest and self-efficacy are distinct yet reciprocally related in supporting learning](interest-self-efficacy-reciprocal-relation.md) — related
 - [Learning model and students' early mathematical ability (KAM) interact in increasing self-confidence](interaction-learning-kam-self-confidence.md) — related
 - [Applying formative evaluation strengthened the teacher's beliefs that every student can learn and boosted students' self-confidence](formative-evaluation-boosts-teacher-beliefs.md) — related
+- [A reliable self-efficacy state measure can be identified in the SSYSD ESM data, with skill, control, and success items loading on a single factor that also includes expectation and self-feeling items.](esm-self-efficacy-state-measure-pca.md) — related

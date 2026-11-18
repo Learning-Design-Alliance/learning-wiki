@@ -47,3 +47,4 @@ The publication's own abstract-level description states it is "A reanalysis of t
 
 ## Related Claims
 - [Fraction Face-Off! shows potentially positive effects on general mathematics achievement, with a WWC-calculated effect size of 0.64 and improvement index of +24 on NAEP selected items](fraction-face-off-potentially-positive-general-math-achievement.md) — related
+- [NAEP Long-Term Trend fraction scores for 17-year-olds declined from 76% correct in 1990 to 56% in 1999 while main NAEP gains were ten times larger](naep-ltt-fraction-computation-declined-1990-1999.md) — related

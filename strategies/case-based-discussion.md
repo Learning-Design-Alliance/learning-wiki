@@ -61,10 +61,12 @@ Discussion of authentic cases forces learners to apply concepts under the ambigu
 7. Follow with a second, contrasting case or a written reflection to consolidate the schema ([Anchored Instruction](../elements/anchored-instruction.md)).
 
 ## Related Strategies
+
 - [Case Studies](../elements/case-studies.md) — the case material itself; discussion is the processing method applied to it
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a structure that guarantees individual commitment before whole-group discussion
 - [Debate](debate.md) — a more adversarial variant when the case has two clearly opposed positions
 - [Socratic Questioning](../elements/socratic-questioning.md) — the facilitation technique underlying effective probing
+- [Defense of Instruction: coaches require teachers to articulate and defend instructional decisions with student data](defense-of-instruction-strategy.md)
 
 ## Examples
 - **Harvard Business School case method** — MBA students analyze a business case daily in plenary discussion led by cold-calling; the model for the [case-based learning pattern](../patterns/case-based-learning.md). [https://www.hbs.edu/mba/academic-experience/Pages/the-hbs-case-method.aspx](https://www.hbs.edu/mba/academic-experience/Pages/the-hbs-case-method.aspx)

@@ -32,6 +32,7 @@ Curricular analytics is the study of academic program design and layout, in whic
 ## Related Research Methods
 
 - [Diffusion-based centrality framework for measuring uptake in CSCL discourse](diffusion-based-centrality-framework-for-measuring-uptake-in-cscl-discourse.md)
+- [Principal-component course-significance analysis for empirical credit allocation](principal-component-course-significance-analysis-for-empirical-credit-allocation.md)
 
 ## Key Sources
 - Albert Lionelle, McKenna Quam, Carla Brodley, and Catherine Gill. 2024. Does Curricular Complexity in Computer Science Influence the Representation of Women CS Graduates?. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2024). https://doi.org/10.1145/3626252.3630835

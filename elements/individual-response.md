@@ -76,6 +76,7 @@ Requiring an independent answer before discussion converts passive listening int
 
 **Think-Pair-Share** — The "think" phase is an individual response in written or silent form; skipping it in favor of immediate pairing sharply reduces the quality of pair discussion.
 - [Peer Instruction structured questioning sequence: individual answers, convince-your-neighbors discussion, revote, and instructor feedback](../strategies/peer-instruction-questioning-sequence.md)
+- [Embed low-stakes formative assessment activities throughout the course, such as think-pair-share, clicker questions, tutorials with pre- and post-tests, collaborative problem solving, minute papers, and concept maps](../strategies/embedded-low-stakes-formative-assessment-activities.md)
 
 ## Key Sources
 - Mazur, E. (1997). *Peer instruction: A user's manual*. Prentice Hall.

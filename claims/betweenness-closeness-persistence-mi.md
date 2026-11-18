@@ -48,3 +48,6 @@ Univariate logistic regression of persistence in the electricity and magnetism M
 - [Higher degree, indegree and closeness centrality at the end of a first-semester mechanics Modeling Instruction course correlate with persistence in any second-semester physics](centrality-degree-closeness-persistence-physics.md) — reports the opposite
 - [Prior SNA studies of centrality-achievement links in CSCL show inconsistent, mostly small-sample results, with betweenness and closeness the most inconsistent measures](traditional-centralities-inconsistent-literature.md) — related
 - [Excluding instructional staff from the network leaves all centrality measures but closeness statistically unchanged between medians](instructor-exclusion-wilcoxon-null.md) — related
+- [Betweenness centrality shows no statistically significant association with persistence in MI courses](betweenness-null-persistence.md) — reports the opposite
+- [Higher indegree, outdegree, and closeness at the end of a first-semester Modeling Instruction course predict enrolling in the second MI course](centrality-predicts-mi-persistence.md) — reports the opposite
+- [Closeness at the start of the second semester is predicted by prior participation in MI and by closeness at the end of the first semester](closeness-persists-across-semesters.md) — related

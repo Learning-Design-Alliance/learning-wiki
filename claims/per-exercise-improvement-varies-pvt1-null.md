@@ -49,3 +49,4 @@ Per-exercise analysis of entry vs exit examinations (Table 4, Welch's t-test). P
 - [Secondary motion parameters show a mixed pattern: digitally trained novices used shorter path length in suturing, but greater left-hand motion volume in circle cutting and lower depth perception in balloon resection](digital-training-secondary-motion-parameters-mixed.md) — related
 - [Knot quality improved much more slowly than time efficiency in laparoscopic knotting training](knot-quality-improves-slower-than-time-efficiency.md) — related
 - [Instrument handling outcomes (time and motion parameters) decreased significantly in five of six tasks after at-home training](time-motion-parameters-decreased-after-training.md) — related
+- [Students experimentally identify the cycloid path (P4) as the minimum-time descent, with times decreasing from P1 to P4 and increasing again from P5 to P8](cycloid-p4-minimum-descent-time-verified.md) — related

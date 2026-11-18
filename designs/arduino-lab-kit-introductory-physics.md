@@ -43,7 +43,8 @@ The element is a roughly $60 student-purchased lab kit consisting of an Arduino 
 - 
 
 ## Related Designs
-- 
+
+- [Low-budget Arduino-based sensor kit with datasheet calibration for CanSat atmospheric measurement](cansat-arduino-low-budget-sensor-kit.md)
 
 ## Examples
 -

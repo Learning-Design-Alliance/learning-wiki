@@ -47,3 +47,6 @@ Likelihood ratio test comparing multivariate logistic regression models (central
 
 ## Related Claims
 - [Adding signature classification as a feature improves success prediction accuracy from 36.8% to 44.2% on the test group](signature-improves-success-prediction-accuracy.md) — a broader claim this one bears on
+- [Betweenness centrality is never a significant predictor of final grade in the Modeling Instruction classroom](betweenness-never-significant.md) — related
+- [Demographic factors other than final grade showed no impact on persistence in the logistic regression models](demographics-null-persistence-mi.md) — related
+- [Final grade adds predictive power beyond centrality for outdegree and closeness, but indegree no longer predicts persistence once grade is accounted for](grade-moderates-indegree-persistence-link.md) — related

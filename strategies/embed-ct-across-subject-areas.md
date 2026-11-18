@@ -61,6 +61,7 @@ The article recommends embedding CT ideas in the subjects students already learn
 - [Integrate collaborative videomaking (DST) into STEM-A and CLIL courses as an authentic, student-centred literacy activity](dst-videomaking-integration-stem-clil.md)
 - [Integrate computational fluency practice into science lessons by having science teachers present numerical, computation-based examples](science-teachers-integrate-computational-practice.md)
 - [Embed resilience and coherence-strengthening interventions into existing curricular structures rather than standalone courses](embed-soc-interventions-existing-frameworks.md)
+- [Integrate CT into existing subjects such as sciences, maths and English when a standalone CS course is not feasible](integrate-ct-into-existing-subjects.md)
 
 ## Examples
 -

@@ -79,3 +79,4 @@ Cognitive load experiments comparing group versus individual learning on high- a
 - [Collaboration facilitates learning only under specific knowledge and experience conditions; with advanced learners it can be detrimental via the expertise reversal effect](collaboration-beneficial-conditions-expertise-reversal.md) — related
 - [Experienced groups show higher instructional efficiency than inexperienced groups in the delayed retention test after collaborative learning](zambrano-2019-experienced-groups-more-efficient-retention.md) — related
 - [The experiment method showed positive instructional efficiency (EE = 0.37) while the traditional method showed negative efficiency (EC = -0.37)](positive-instructional-efficiency-experiment-method.md) — related
+- [Students devise three forward-propulsion methods, and propeller propulsion usually fails under load](three-propulsion-methods-propeller-fails-loaded.md) — related

@@ -53,3 +53,4 @@ The review reports follow-up work by Hazari's group surveying only high-school g
 - [TD engagement closes the course-planning and teaching-methods self-efficacy gap between women and men early-career scholars as engagement increases](td-engagement-gender-gap-closing.md) — related
 - [Evaluation of the 2014 CUWiP found the conferences produced consistently positive understanding of physics careers and growth in community and mentoring among participants (Brewe and Hazari)](cuwip-2014-evaluation-career-understanding-community.md) — related
 - [PER studies identify self-efficacy opportunities differing by gender and factors affecting women's physical-science career choices (Sawtelle et al.; Hazari et al.)](per-self-efficacy-and-career-choice-factors.md) — related
+- [Female students show greater increases in interest and performance than male students, closing initial gender gaps](einstein-first-gender-equity-gains.md) — related

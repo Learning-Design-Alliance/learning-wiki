@@ -50,3 +50,4 @@ Interpretive case analysis of a Spring 2013 interview with an undergraduate pre-
 - [Switching to a blended substance/location ontology helped one student correct her understanding of chemical bond energy](blended-ontology-corrects-bond-energy-understanding.md) — related
 - [Haphazard mixing of substance and location predicates leads students to confused reasoning about negative energy](haphazard-ontology-mixing-leads-to-confusion.md) — related
 - [Students fail to coordinate the multiple, ontologically conflicting descriptions embedded in physicists' language, which may produce patterns interpreted as misconceptions](students-fail-to-coordinate-conflicting-descriptions.md) — a broader claim this one bears on
+- [Gestural and metaphorical elements accompany the pulling out resource, evidencing its procedural status](pulling-out-gestural-basis.md) — related

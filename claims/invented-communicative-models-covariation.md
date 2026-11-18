@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-17
 sources:
   - id: amy-voss-farris-2016
     resource: "https://doi.org/10.48550/arXiv.1602.06963"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` During the third modeling cycle, all students expanded their use of variables (rotation, color contrasts, pen-width, relative size of agents) to make models more visually and mathematically communicative, illustrated by Darien's co-varying pen-width with step-size. [→ Amy Voss Farris 2016](#amy-voss-farris-2016)
@@ -51,3 +52,6 @@ Case analysis of one student's first and final acceleration models (Figure 4). A
 - [In the same case study, two fifth graders built a coordinated multimodal model of acceleration in which color, dot-gaps, pitch and note duration represented speed and continuous change of motion](multimodal-color-gaps-pitch-duration-acceleration-model.md) — related
 - [As perspectives cohered over the interaction, the dyad's perspective distribution shifted from primarily graph-based to coordinated graph, agent, and object perspectives](pov-timeline-shift-from-graph-to-coordinated-perspectives.md) — related
 - [All evaluated models struggle with spatial reasoning and precise visual replication on Turtle Graphics tasks](vlms-struggle-spatial-reasoning-visual-precision.md) — related
+- [Elementary students using ViMAP agent-based programming with graphing can begin to understand motion as continuous change](vimap-agent-programming-continuous-change.md) — a broader claim this one bears on
+- [Across Phase II, students' ViMAP models and graphs became increasingly accurate and their programming commands increasingly sophisticated, as scored on a 0–3 scale](vimap-model-quality-increase-phase-ii.md) — a broader claim this one bears on
+- [Third-grade students' criteria for a good measurement shifted from socially defined (class vote) to sociomathematically defined (mathematical accuracy) after the heel-to-toe convention failed](step-size-norm-social-to-sociomathematical-shift.md) — related

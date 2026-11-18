@@ -50,6 +50,8 @@ The article recommends adding a computational component to introductory quantum 
 - [Teach quantum bound states by embedding arbitrary potentials in an infinite square well basis and solving truncated matrix diagonalization problems](square-well-basis-matrix-diagonalization-instruction-strategy.md)
 - [Undergraduate project assignment investigating exact calculation of numbers beyond floating point precision in Fortran](arbitrary-precision-undergraduate-project-assignment.md)
 - [Use simple spreadsheet-based numerical simulation of orbital systems as an engaging team-based learning activity](spreadsheet-numerical-simulation-team-learning-strategy.md)
+- [Design all introductory computational assignments to be completable in spreadsheets so students without programming background can participate.](spreadsheet-first-computational-assignments-strategy.md)
+- [Teaching sequence: discretize the evolution equations, implement the recurrences in a spreadsheet, and compare classical, stochastic and quantum solutions](spreadsheet-recurrence-teaching-sequence.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ This is the editorial author's Vygotksian interpretation of the productive-failu
 - [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md) — a broader claim this one bears on
 - [In math problem solving, a tutor LLM alone significantly improved unassisted test accuracy over no-agent control, while peer-like error agents alone did not reach significance](tutor-alone-significant-peers-alone-not-math.md) — related
 - [Large group size (4-5 members) limited individual participation and may have inflated self-assessed confidence](large-group-size-limited-participation-confidence.md) — related
+- [Collaboration skills improved for 7 of 9 camp students, but 2 students remained ineffective group members](ev3-camp-collaboration-gains-mixed.md) — related

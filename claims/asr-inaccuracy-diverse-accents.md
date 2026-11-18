@@ -91,3 +91,4 @@ Participants described ASR benefits, including "a safe space to practice speakin
 - [Pre-deep-learning speech recognition was markedly less accurate on non-native speech, undermining automated oral feedback for learners, as the article reports citing prior studies](asr-accuracy-drop-non-native-learner-speech.md) — a narrower finding that bears on this claim
 - [Some ESL learners felt their English was not high enough to use ASR because their speech was not always intelligible to it, although overall perceived usefulness was positive](low-proficiency-intelligibility-barrier-asr.md) — related
 - [Students perceived text input as superior for accuracy, control, and editability, with transcription errors a key voice drawback](text-perceived-accuracy-control-editability.md) — related
+- [Crowdsourced videos exhibit significant diversity in presentation format, language style, and pedagogical approach](crowdsourced-video-multidimensional-diversity.md) — related

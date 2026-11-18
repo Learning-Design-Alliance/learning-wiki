@@ -62,6 +62,7 @@ Recess leverages the well-documented link between physical activity and cognitiv
 - [Brain breaks / movement breaks](movement-breaks.md) — shorter in-class activity bursts that serve a similar attentional-reset function when full recess is impossible
 - [Physical education](../strategies/physical_education.md) — instruction in skills and fitness; complements but does not replace the unstructured play of recess
 - [Spread recess throughout the day and pair increased recess with positive behavior or conflict resolution curricula](spread-recess-throughout-day-strategy.md)
+- [Check terrain safety and prefer outdoor play for the game](quark-wars-terrain-safety-outdoor-play-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — recess is informal practice of motor, social, and self-regulation skills through repeated play

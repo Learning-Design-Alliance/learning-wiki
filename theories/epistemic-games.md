@@ -17,7 +17,7 @@ sources:
 # Epistemic Games
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 3 studies (2 qualitative, 1 associational), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 Epistemic games (Collins & Ferguson, 1993; Morrison & Collins, 1995) are "generative patterns of inquiry that underpin knowledgeable actions" (Markauskaite & Goodyear, 2017) — recognizable, rule-like sets of moves, constraints, and strategies organized around constructing a particular kind of knowledge (an explanation, a design, a problem statement). Each game has entry conditions, constraints on who can play and how, a target *epistemic form* (the kind of knowledge structure being built), and exit conditions; games can nest inside one another and a group can transfer out of one game into another and back. Earlier work on epistemic games focused mainly on the discourse moves involved. Arthars et al. (2024) extend the framework with an **ecological analytical perspective** (Goodwin; Hutchins), arguing that a game's moves are inseparably multimodal — language, gesture, gaze, body positioning, and shared artifacts (a whiteboard, a sketch) jointly constitute the "move," not language alone.
@@ -43,6 +43,8 @@ Studying interdisciplinary teams constructing a shared problem statement, Arthar
 
 - [Epistemic games reveal unacknowledged disciplinary differences in teams](../claims/epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams.md) [~M]
 - [Performance-oriented lab groups heavily use the Recursive Plug and Chug and Mapping Math to Meaning epistemic games, typifying a novice-like problem-solving approach](../claims/performance-groups-recursive-plug-and-chug-games.md) [+W] — attached 2026-11-17 from Andrew J. Mason (2014), which proposed "Epistemic games framework (Tuminaro & Redish) for categorizing students' problem-solving approaches".
+- [Transliteration to Mathematics game frequency differed significantly between the S14 semester and the S15 and F15 semesters](../claims/tm-game-frequency-semester-difference.md) [+W] — attached 2026-11-17 from Andrew J. Mason et al. (2015), which proposed "Epistemic games as structures of knowledge and strategy in physics problem solving".
+- [The F15 semester had significantly higher overall epistemic games per minute than S14 and borderline higher than S15](../claims/f15-higher-overall-games-per-minute.md) [+W] — attached 2026-11-17 from Andrew J. Mason et al. (2015), which proposed "Epistemic games as structures of knowledge and strategy in physics problem solving".
 
 ## Related Theories
 
@@ -55,6 +57,7 @@ Studying interdisciplinary teams constructing a shared problem statement, Arthar
 - [Epistemic Games: Shared-Understanding Moves](../elements/epistemic-games-shared-understanding-moves.md) — the five named moves operationalized as a teachable/scaffoldable instructional element
 - [Epistemic Cognition](../principles/epistemic-cognition.md) — epistemic games' "knowledge validation" move is a team-level, interactional analogue to an individual learner's epistemic criteria for evaluating claims
 - [Structure estimation problem instruction around the six e-e-game moves of problematize through evaluation](../strategies/e-e-game-moves-instruction-strategy.md)
+- [Brief randomized audiovisual sampling to estimate epistemic game frequency in a live classroom](../strategies/brief-audiovisual-sampling-epistemic-games.md)
 
 ## Key Sources
 - Arthars, N., Markauskaite, L., & Goodyear, P. (2024). Constructing shared understanding of complex interdisciplinary problems: Epistemic games in interdisciplinary teamwork. *Journal of the Learning Sciences, 33*(2), 405-442. [https://doi.org/10.1080/10508406.2024.2341390](https://doi.org/10.1080/10508406.2024.2341390)

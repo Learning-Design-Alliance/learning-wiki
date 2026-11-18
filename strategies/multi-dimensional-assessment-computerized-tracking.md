@@ -42,6 +42,7 @@ A future-directions recommendation: because the flipped classroom model emphasiz
 - [In online flipped classrooms, set appropriate task difficulty, organize team grouping, build incentive mechanisms, and use multi-dimensional digital evaluation](online-flipped-classroom-task-difficulty-grouping-incentives.md)
 - [Use findings on strategy–time-management links to develop early warning systems and interventions promoting effective time management and strategy use in flipped classrooms](early-warning-systems-time-management-strategy-use.md)
 - [Prioritize high-quality RCTs with standardized assessment tools and subjective outcomes in future flipped classroom research](prioritize-high-quality-rcts-standardized-assessment.md)
+- [Record student interactions during design tasks to directly assess the design process](record-student-interactions-design-process.md)
 
 ## Examples
 -

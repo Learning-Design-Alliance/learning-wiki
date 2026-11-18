@@ -49,6 +49,7 @@ The review recommends designing asynchronous e-learning around three interaction
 - [Apply evidence-based approaches from self-regulation, multimedia learning, motivation, and collaborative learning theories in distance and online course design](evidence-based-approaches-next-generation-distance-learning.md)
 - [Enhance digital training platforms with interactivity, supervision, and expanded content coverage](optimize-digital-platforms-engagement-supervision-content.md)
 - [Design and facilitate four types of interaction: with resources, instructor, peers, and self](four-online-interactions-design.md)
+- [Provide external supports and incentives (grades, learning communities, time-management modules) to drive engagement with self-study tools](factor-iii-external-supports-incentives-self-study-engagement.md)
 
 ## Examples
 -

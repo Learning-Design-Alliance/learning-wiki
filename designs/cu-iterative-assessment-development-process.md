@@ -44,7 +44,8 @@ CU's four upper-division assessments were developed through an iterative design 
 - 
 
 ## Related Designs
-- 
+
+- [MCS development pattern: free-response reasoning and interviews guide multiple-choice distracter design with faculty review](mcs-survey-development-pattern.md)
 
 ## Examples
 -

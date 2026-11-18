@@ -49,3 +49,4 @@ Descriptive domain-level percentages from the cross-sectional survey, reported a
 - [More PBL than LBL students report satisfaction with improved comprehension of knowledge (RR = 1.84)](pbl-satisfaction-comprehension-knowledge.md) — related
 - [In the same RCT, PBL combined with virtual simulation received significantly higher student evaluations of teaching effectiveness (17.72 ± 1.24 vs. 12.72 ± 1.02, p < 0.01) and teaching satisfaction (86.96 ± 6.46 vs. 70.24 ± 8.71, p < 0.05)](pbl-virtual-simulation-higher-satisfaction-trauma-orthopedics.md) — related
 - [Students report higher class satisfaction with CBL than with LBL (RR = 1.63)](cbl-higher-class-satisfaction-than-lbl.md) — related
+- [Student satisfaction with assessment & feedback and organization & management markedly improved after LiftUpp's introduction](liftupp-nss-satisfaction-improvement.md) — related

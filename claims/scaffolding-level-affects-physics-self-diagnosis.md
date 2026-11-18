@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2008
+source_checked: 2026-11-17
 sources:
   - id: e-cohen-2008
     resource: "https://doi.org/10.1063/1.3021284"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2008 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · E. Cohen 2008: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-17)
 
 ## Subclaims

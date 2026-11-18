@@ -42,7 +42,8 @@ The article grounds its mobile game design in elements of a theoretical model de
 - [Mobile Game Significant Pre Post Phishing Improvement](../claims/mobile-game-significant-pre-post-phishing-improvement.md) [+M]
 
 ## Related Designs
-- 
+
+- [TTAT-derived game design framework for avoiding phishing attacks through motivation](ttat-derived-phishing-game-design-framework.md)
 
 ## Examples
 -

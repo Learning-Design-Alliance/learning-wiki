@@ -52,3 +52,5 @@ The same 2011 registration analysis for Alagoas secondary schools found "more ma
 - [Private schools in Alagoas employ more specialist teachers than public schools, but physics teachers at private schools have the lowest educational level of all subjects](private-schools-higher-specialist-teaching-rates.md) — related
 - [UK Department of Education figures for 2011 show only 56.1% of physics teachers at publicly funded schools hold a degree in their subject, a pattern matching Alagoas at a higher level](uk-2011-physics-teacher-degree-rates.md) — related
 - [Two-thirds of the nation's more than 21,000 physics teachers do not have a degree in physics or physics education](two-thirds-physics-teachers-lack-physics-degree.md) — related
+- [Only 20% of physics classes at public schools in Alagoas were taught by teachers with a tertiary physics degree](alagoas-20-percent-physics-classes-specialist-teachers.md) — related
+- [Physics has the lowest growth and student retention among all STEM subjects](physics-lowest-retention-among-stem.md) — related

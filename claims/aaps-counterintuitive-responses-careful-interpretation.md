@@ -72,3 +72,5 @@ Survey item (Figure 5) on explicitly thinking about underlying concepts. Faculty
 - [Graduate students are still developing expertise in graduate-level problem solving compared with physics faculty](grad-students-developing-graduate-level-expertise.md) — related
 - [Introductory physics students find symbolic problems more difficult and are less favorable on symbolic-problem items than graduate students and faculty](intro-students-symbolic-problem-difficulty.md) — related
 - [Students and faculty alike report a general lack of reflection after solving physics problems](lack-of-reflection-after-problem-solving.md) — related
+- [On the AAPS survey, faculty respond more expert-like than Ph.D. students, who respond more expert-like than introductory students, with large effect sizes](aaps-expertise-gradient-effect-sizes.md) — related
+- [Some AAPS items show non-monotonic or unexpected group trends whose reasons differ by group, as interpreted through individual interviews](aaps-unexpected-trends-interviews.md) — a narrower finding that bears on this claim

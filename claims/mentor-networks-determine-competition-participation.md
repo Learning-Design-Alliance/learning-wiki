@@ -53,3 +53,4 @@ Interpretation of physics competition participation changes across the decade, p
 - [The association between development index and competition participation strengthened over the decade: differences among counties were less striking in 2001–2003 than in 2007–2009](social-differentiation-recent-trend-physics-math.md) — related
 - [Croatian counties with the highest development index (Zagreb, Varaždin, Međimurje) show the highest science-competition participation in almost all disciplines](high-development-counties-highest-competition-participation.md) — related
 - [Intensive three-year professional development changed Leader Teachers' practice dramatically, but peer diffusion of reform was uneven](leader-teacher-diffusion-uneven.md) — related
+- [The authors' mentored projects show high competition placement rates and frequent publication](mentored-science-project-outcome-rates.md) — related

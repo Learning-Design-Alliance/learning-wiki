@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2011
+source_checked: 2026-11-17
 sources:
   - id: guangtian-zhu-and-chandralekha-singh-2011
     resource: "https://doi.org/10.1063/1.3515229"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The 33 first-year graduate students averaged 51.6% on the QMS, and their instructors agreed many lacked the conceptual understanding needed to perform well even though they do well on quantitative exams. [→ Guangtian Zhu and Chandralekha Singh 2011](#guangtian-zhu-and-chandralekha-singh-2011)

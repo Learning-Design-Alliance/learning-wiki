@@ -50,3 +50,4 @@ Concept-frequency analysis of pretest, posttest, and retention test responses of
 - [Correct answers for determining the numbers of poles and their locations were fewer in the other types of magnets compared to bar and horseshoe magnets in the pretest.](pretest-correct-answers-fewer-other-magnet-types.md) — related
 - [With a sphere magnet, both upper-lower and internal-external surfaces have lost their functions, and the inquiry begins with the question of how to find the poles of a magnet.](sphere-magnet-creates-cognitive-engagement.md) — related
 - [An asymmetry misconception in time dilation was present pre-instruction and reduced after instruction](time-dilation-asymmetry-misconception.md) — related
+- [Counter-intuitive observations are often more effective for honing students' research skills than experiments with predictable outcomes](counterintuitive-observations-foster-research-skills.md) — related

@@ -49,3 +49,5 @@ Think-aloud qualitative findings from the user study: participants made very few
 - [Scores for participants who played the mobile anti-phishing game rose from pre-test to post-test when identifying phishing and legitimate websites, in one uncontrolled pre-post study](mobile-game-significant-pre-post-phishing-improvement.md) — related
 - [Students' reliance on surface-level evaluation strategies declined after the modules, including trust in dot-org domains, links, appearance, and About pages](surface-strategies-declined-after-modules.md) — related
 - [One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with in two quasi-experiments](checklist-evaluation-ineffective-online.md) — related
+- [The mobile game is somewhat effective in enhancing the user's phishing awareness](mobile-game-somewhat-effective-phishing-awareness.md) — a broader claim this one bears on
+- [Usually 56.04 percent of phishing attacks contain some form of target name in the URL, so end-user phishing URL awareness should be considered to combat phishing threats](phishing-urls-contain-target-name.md) — related

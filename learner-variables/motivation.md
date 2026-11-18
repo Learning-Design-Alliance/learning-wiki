@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 466 claims (305 show a difference, 111 mixed, 50 no difference) · 333 studies (125 associational, 110 causal, 42 review, 16 theoretical, 14 quant-synthesis, 14 qualitative, 12 design), `q1`–`q4` · 91 of 333 report an effect size · 454 claims rest on one study
+> **Evidence** · 467 claims (305 show a difference, 112 mixed, 50 no difference) · 334 studies (126 associational, 110 causal, 42 review, 16 theoretical, 14 quant-synthesis, 14 qualitative, 12 design), `q1`–`q4` · 91 of 334 report an effect size · 455 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -516,6 +516,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Reported increase in interest in astronomy was uniform across essay grade levels, with higher-scoring students not feeling more interested than lower-scoring ones](../claims/interest-increase-independent-of-essay-grade.md) [+M] — measured as an outcome of the instruction studied
 - [Students in the interpretation-focused courses showed significantly greater post-instruction interest in quantum mechanics, with interest decreasing in the Realist/Statistical course.](../claims/interpretation-curriculum-promotes-quantum-interest.md) [~M] — measured as an outcome of the instruction studied
 - [Physics interest was strongly correlated with interest/enjoyment, value/usefulness, autonomy, and performance-approach orientation](../claims/physics-interest-intrinsic-motivation-correlations.md) [+M] — learners who differ on it differ in outcomes
+- [Persistence indices for both male and female participant groups increased as workshop workload increased, a pattern the authors flag as requiring further study](../claims/workload-persistence-increase-untested.md) [~W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

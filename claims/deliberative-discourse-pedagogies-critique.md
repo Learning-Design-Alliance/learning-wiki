@@ -71,3 +71,5 @@ In the Debates and Critiques section the review reports multiculturalist concern
 - [Mutual understanding on the euro prevailed among participants in the Danish Deliberative Poll](deliberative-poll-mutual-understanding.md) — related
 - [Liberal discourse grounds democratic education in knowledge of democratic institutions and critical thinking across the curriculum](liberal-discourse-knowledge-and-reason.md) — related
 - [Multiculturalist discourse prioritizes diversity over universal frameworks and recommends curricula of self-understanding, encounter with the Other, and intercultural competency](multiculturalist-discourse-diversity-curriculum.md) — related
+- [Debate Mode: two students argue conflicting understandings with dissonant interaction style and argumentation discourse](debate-mode-dissonant-argumentation.md) — related
+- [Consonant interactions are not necessarily better than dissonant interactions for group work](consonant-not-necessarily-better.md) — related

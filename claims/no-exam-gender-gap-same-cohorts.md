@@ -54,3 +54,5 @@ Comparison of end-of-course examination results for the same matched cohorts at 
 - [The flipped format alleviates the gender disparity in exam scores: female students underperform males in the standard class but do not differ significantly on two of three exams in the flipped class](flipped-format-alleviates-gender-disparity-exam-scores.md) — reports the opposite
 - [No statistically significant gender differences in perceived learning outcomes across any dimension among higher vocational students](no-gender-differences-perceived-learning-outcomes-vocational.md) — related
 - [No gender gap appeared on the multiple-choice final exam, which included both conceptual and quantitative questions on similar topics](no-gender-gap-final-exam.md) — a narrower finding that bears on this claim
+- [In physics courses, gendered performance differences arise from timed exam scores, while female students modestly outperform males on homework and in-class response credit](exam-performance-source-of-gpd.md) — reports the opposite
+- [Multiple-choice question format shows no evidence of disadvantaging female students](no-female-disadvantage-multiple-choice.md) — related

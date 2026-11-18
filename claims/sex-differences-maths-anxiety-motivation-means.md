@@ -75,3 +75,5 @@ Univariate ANOVAs across TEDS continuous variables; the article reports sex expl
 - [Performance metrics did not differ by sex, self-identified hobbies, or correlate with age, caffeine, or sleep](no-performance-differences-demographics-behaviors.md) — related
 - [Male students report higher self-efficacy than female students despite similar simulator performance](gender-self-efficacy-gap-simulator.md) — related
 - [In the EinsteinMobil travelling exhibition, most or all participating students showed much interest regardless of age, gender, or general interest in physics](einsteinmobil-student-interest.md) — related
+- [Female students show greater increases in interest and performance than male students, closing initial gender gaps](einstein-first-gender-equity-gains.md) — reports the opposite
+- [Female high school students experience much lower self-efficacy states in physics than male students, with a very large effect size of d = 0.88, and the difference does not occur in other school courses.](gender-gap-self-efficacy-states-high-school-physics.md) — related

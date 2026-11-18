@@ -54,3 +54,4 @@ Known-groups comparison of students who could be clearly identified as CURE (n =
 - [CURE students report stronger project ownership than students in traditional lab courses or research internships](cure-project-ownership-stronger-than-lab-internship.md) — related
 - [Students report similar lab-skill confidence gains from CURE/ALLURE and traditional laboratory courses](similar-lab-skill-confidence-gains-cure-traditional-lab.md) — related
 - [Some CURE students experience the discovery nature of CUREs as a struggle that undermines their sense of scientific capability](some-cure-students-struggle-with-discovery-uncertainty.md) — related
+- [Skills-focused courses differed observationally from concepts-focused courses: fewer verification labs, more student agency, more uncertainty quantification and lab notebooks](skills-focused-courses-activity-profile.md) — related

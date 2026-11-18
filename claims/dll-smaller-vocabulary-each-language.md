@@ -73,3 +73,4 @@ The review reports, citing Junker & Stockman (2002), Lundén & Silvén (2011), a
 - [Controlling for SES, monolingual children outperform both simultaneous and sequential bilinguals on single-language English receptive and expressive vocabulary measures](monolinguals-outperform-bilinguals-single-language-english-vocabulary.md) — a narrower finding that bears on this claim
 - [Each language entails a conceptually different world, so exact translation of conceptual structure between languages is impossible](language-entails-conceptually-different-world.md) — related
 - [Language development functions as a consequence of, not a prerequisite for, deep conceptual exploration in secondary mathematics for English Learners](language-consequence-not-prerequisite-math-el.md) — related
+- [Infant language acquisition proceeds gradually and in overlapping fashion across linguistic levels rather than in stages](gradual-overlapping-language-acquisition-trajectories.md) — related

@@ -67,3 +67,4 @@ Across the interview corpus, the idea was "espoused by 14 out of 20 interviewees
 - [Electronics instructors believe students need to develop the ability to troubleshoot because nothing works the first time](instructors-believe-students-need-to-troubleshoot.md) — related
 - [Instructors perceive troubleshooting as naturally embedded in every circuit-building lab, though most had not designed activities specifically to teach it](all-circuit-building-labs-natural-troubleshooting-opportunities.md) — related
 - [Instructors hold that students should expect to troubleshoot, and that anticipation of the need to troubleshoot marks proficient students](students-should-expect-to-troubleshoot.md) — related
+- [Almost all interviewed electronics lab instructors identified developing students' ability to troubleshoot as an important learning goal of the electronics course](instructors-value-troubleshooting-learning-goal.md) — related

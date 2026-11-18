@@ -48,3 +48,4 @@ Response-distribution analysis of the magnitude mid-test question (Table 1): GR 
 ## Related Claims
 - [CC students' performance rose substantially from mid- to post-test, and the GR difference remained at post-test; the change was measured within the CC group](cc-improved-mid-to-posttest.md) — related
 - [General Rule analogical instruction outperforms Case-by-Case instruction on the magnitude mid-test question, with no difference on the direction question](general-rule-beats-case-by-case-magnitude-midtest.md) — possibly the same claim (merge candidate)
+- [The author interprets common incorrect answers on altered-procedure questions as reflecting remembered rules of thumb rather than sense-making](heuristic-answers-ap-questions-interpretation.md) — related

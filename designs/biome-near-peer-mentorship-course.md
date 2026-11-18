@@ -42,7 +42,8 @@ BIOME is a co-taught, one-unit, pass/no pass weekly 50-minute Fall seminar restr
 - [Biome Improves On Time Chem 1B Enrollment](../claims/biome-improves-on-time-chem-1b-enrollment.md) [+M]
 
 ## Related Designs
-- 
+
+- [Blended peer-mentoring program structure: academically homogeneous peer groups of five to eight students with mentors acting as tutors and coaches](peer-mentoring-homogeneous-groups-tutor-coach.md)
 
 ## Examples
 -

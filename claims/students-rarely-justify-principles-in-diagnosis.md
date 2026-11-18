@@ -46,3 +46,4 @@ Scoring decision reported in the scoring section of the rubric development study
 
 ## Related Claims
 - [TAs' self-reported preferences for solution features do not match the solutions they write: few provided overviews or justifications and none checked their answers](ta-preference-practice-mismatch-solutions.md) — related
+- [When grading with the rubric, over half of TAs credited the brief solution with invoking and justifying useful principles even though the solution contained no explicit invoking or justifying](tas-credited-explication-without-evidence.md) — related

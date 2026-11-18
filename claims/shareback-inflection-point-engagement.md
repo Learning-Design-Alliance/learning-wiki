@@ -50,3 +50,4 @@ Practitioner observation across repeated deliveries of the Fundamentals lessons 
 - [Across approximately 400 workshop participants, learners report that hands-on n-gram activities build a new mental model of LLMs as probabilistic next-word generation at scale](unplugged-ngram-activities-demystify-llms.md) — related
 - [Workshop participants reported that the ESSA four-tier model under-delivers evidence about for whom and under what conditions technologies work](four-tier-model-misses-context-evidence.md) — related
 - [Individual anger trajectories rose alongside science talk until an inflection point, after which engagement dropped sharply](individual-anger-inflection-lisa.md) — related
+- [Participants immediately engage with the chart construction, generating wide-ranging nuclear physics questions, with over 1,000 visitors building the chart at one open day](participants-engage-generate-questions.md) — related

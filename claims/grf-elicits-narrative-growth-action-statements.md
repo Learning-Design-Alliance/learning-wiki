@@ -87,3 +87,5 @@ Breakdown of statement-type combinations across the 97 reflections, shown in a V
 - [Students who wrote about the GRF in their unguided final reflections described favorable experiences with reflection](final-reflections-positive-on-grf.md) — related
 - [Student reflections focused on out-of-class academic work and time management, with resilience rarely addressed](grf-reflection-content-time-management-dominant.md) — related
 - [Students' skill selection on the online form aligned with author skill codes for about 72% of growth and 71% of action statements](grf-skill-selection-fidelity.md) — related
+- [Student completion of weekly GRF reflections was high, with an 88% submission rate across both sections](grf-high-completion-rate-88-percent.md) — related
+- [Both instructors using the GRF used all six coded response types in their written feedback to students](grf-instructors-used-all-six-response-types.md) — related

@@ -40,7 +40,8 @@ In the last six weeks of the course, students selected a physical system, develo
 - 
 
 ## Related Designs
-- 
+
+- [A set of seven game-like p5.js programming activities for introductory mechanics, released on the PICUP site, with a p5.js-based learning management system](game-centered-p5js-mechanics-exercise-set.md)
 
 ## Examples
 -

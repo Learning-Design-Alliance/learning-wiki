@@ -69,6 +69,7 @@ Physical activity is associated with modest improvements in attention, executive
 - [School and community sports programs that maintain healthy weight may support children's academic performance](school-weight-maintenance-programs-academic-performance.md)
 - [Schedule vigorous in-class exercise sessions after core academic lessons rather than before them](vigorous-activity-after-academic-lessons.md)
 - [Implement school breakfast clubs and active-transport walking programs combining low-GI breakfast with light bilateral coordinative exercise](breakfast-club-coordinative-exercise-strategy.md)
+- [Structure out-of-school astronomy like a sports league: easy entry, escalating challenge, and high-level club experiences](gelderman-astronomy-progression-strategy.md)
 
 ## Examples
 - **[BOKS](https://www.bokskids.org)** — a before-school physical activity program offering structured 12-week curricula of running, games, and skill work, active in thousands of schools across North America.

@@ -59,3 +59,4 @@ Thematic synthesis of the reviewed studies (Section 4.1). The review reports tha
 - [Adaptive learning systems report academic performance gains of 15–25% and engagement increases of up to 40%](adaptive-learning-gains-15-25-percent.md) — a narrower finding that bears on this claim
 - [AI chatbots enable flexible personalized learning by adapting teaching strategies to individual student needs](chatbot-flexible-personalized-learning.md) — related
 - [Chatbot integration in a smart classroom is expected by the authors to increase learner engagement and academic achievement](chatbot-engagement-achievement-expectation.md) — related
+- [Adaptive educational hypermedia systems are reported effective at tailoring instruction for heterogeneous groups in higher education and K-12](aeh-effective-tailoring-heterogeneous-groups.md) — related

@@ -58,3 +58,4 @@ Observational SNA analysis across the 12 PBL courses comparing multigraph, weigh
 - [Group cohesion and interactivity parameters (clustering coefficient, density, average degree) correlate positively with performance, while group size correlates negatively](group-cohesion-density-correlate-with-performance.md) — related
 - [Students' SNA centrality measures (participation, information exchange, connectedness, social capital) correlate moderately to strongly with grades in online PBL](sna-centrality-correlates-with-pbl-performance.md) — related
 - [In-degree centrality, but not degree or out-degree, is moderately correlated with final grade in online clinical case discussions](in-degree-centrality-moderately-correlated-final-grade.md) — related
+- [In a Modeling Instruction physics course, classroom network centrality predicts final course grade over and above prior GPA for three of four centrality measures tested](centrality-predicts-grade-beyond-gpa.md) — related

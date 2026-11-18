@@ -46,7 +46,8 @@ The article recommends that the methods and technology used to train CMS users i
 - [The LPC at Fermilab contributed directly to a third of CMS's first over 100 publications and supports 14 fellows as emerging analysis leaders](../claims/lpc-contribution-third-of-cms-publications.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Future training plans: software understanding and in-house Python instruction for operations staff](software-and-python-training-plan.md)
 
 ## Examples
 -

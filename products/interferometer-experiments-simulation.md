@@ -27,7 +27,8 @@ A QuVis Quantum Mechanics Visualization Project interactive simulation for teach
 - [The class using the revised visualization (2014) showed a significantly different, lower frequency of incorrect superposition ideas than the 2013 class](../claims/revised-visualization-lower-incorrect-ideas-inclass.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [QuVis suite of four interactive QKD simulations](quvis-suite-of-four-interactive-qkd-simulations.md)
 
 ## Key Sources
 - Antje Kohnle, Charles Baily and Scott Ruby. (2014). Investigating the Influence of Visualization on Student Understanding of Quantum Superposition. http://www.st-andrews.ac.uk/physics/quvis

@@ -20,6 +20,7 @@ A weekly roster-based self-report survey instrument developed by Jesper Bruun to
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Repeated weighted SNA classroom-interaction survey administered every 3–4 weeks**: A pencil-and-paper survey administered in MI-M (Fall 2014, Fall 2015) and MI-EM (Spring 2015, Spring 2016) courses every 3–4 weeks asked students to name individuals they had a "meaningful classroom interaction" with. Starting Spring 2015 it included a randomized roster and weighted responses from 0 to 3 by interaction frequency, treating frequency as tie quality. Response rates were 78% or more on all but one disregarded survey; missing data (about 20%) fell within robustness thresholds so no imputation was used. (Zwolak et al. (2016))
 
 ### Claims
 
@@ -28,3 +29,4 @@ A weekly roster-based self-report survey instrument developed by Jesper Bruun to
 
 ## Key Sources
 - Jesper Bruun, I.G. Bearden. (2013). Time Development of Early Social Networks: Link analysis and group dynamics. arXiv:1308.4259. https://arxiv.org/abs/1308.4259
+- Zwolak, J. P., Dou, R., Williams, E. A., & Brewe, E. (2016). Students' network integration as a predictor of persistence in introductory physics courses. arXiv preprint. https://arxiv.org/abs/1611.00668

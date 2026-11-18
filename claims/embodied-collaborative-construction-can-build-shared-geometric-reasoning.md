@@ -85,3 +85,4 @@ This is a single case study of four graduate students already trained in embodie
 - [Media scaffolding helped students investigate geometry properties, form mental concrete shapes, and complete geometry tasks](media-scaffolding-three-helps-geometry.md) — related
 - [Students' basic geometry skills on curved-solid objects improved after learning with the media](before-after-basic-geometry-skills-improved.md) — related
 - [Micro:bit calculator tasks help students recognize when computing by machine or by hand is more efficient](microbit-calculator-efficiency-recognition.md) — related
+- [Participants immediately engage with the chart construction, generating wide-ranging nuclear physics questions, with over 1,000 visitors building the chart at one open day](participants-engage-generate-questions.md) — related

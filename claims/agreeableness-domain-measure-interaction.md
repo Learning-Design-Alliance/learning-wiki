@@ -51,3 +51,4 @@ This was the only trait with a significant overall domain × measure interaction
 - [Extraversion correlates positively with achievement in language domains but not in STEM, a domain pattern driven by grades](extraversion-language-domain-pattern.md) — related
 - [Neuroticism correlates negatively with achievement overall, most strongly with STEM test scores](neuroticism-negative-achievement-association.md) — related
 - [Openness shows larger correlations with achievement in language than in STEM subject domains, a pattern that holds for both grades and test scores](openness-language-stem-domain-moderation.md) — related
+- [No relationship between students' personality traits and their grades was unveiled, except a marginal negative agreeableness correlation in the first study](personality-traits-no-grade-relationship.md) — related

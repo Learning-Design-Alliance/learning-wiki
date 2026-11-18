@@ -27,4 +27,4 @@ A four-question open-ended questionnaire developed to assess first-year universi
 -
 
 ## Key Sources
-- Battaglia, Di Paola & Fazio. (2014). Cluster Analysis of Educational Data: an Example of Quantitative Study on the answers to an Open-Ended Questionnaire. Università di Palermo. https://unipa.it
+- Battaglia, Di Paola & Fazio. (2014). Cluster Analysis of Educational Data: an Example of Quantitative Study on the answers to an Open-Ended Questionnaire. Università di Palermo. https://unipa.it. [doi:10.48550/arxiv.1512.08998](https://doi.org/10.48550/arxiv.1512.08998)

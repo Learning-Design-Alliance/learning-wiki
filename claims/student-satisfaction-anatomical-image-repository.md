@@ -55,3 +55,4 @@ Anonymous satisfaction survey of 54 students (60% of quiz participants; 30% of a
 - [Residents unanimously rated the module's embedded self-assessment checkpoint questions as helpful for reinforcing learning](embedded-checkpoint-questions-rated-helpful.md) — related
 - [Students preferred the online repository to other sources of learning material primarily because of its efficiency of access](students-prefer-repository-for-efficiency.md) — a narrower finding that bears on this claim
 - [Instructor review of student-authored MCQs retained most of them in a repository whose questions spanned diverse taxonomic levels of knowledge](student-mcq-repository-quality.md) — related
+- [Ciênsação experiments are accessed by teachers worldwide, with appreciative feedback from countries as diverse as Ghana and Germany](ciensacao-global-teacher-uptake.md) — related

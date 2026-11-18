@@ -49,6 +49,7 @@ The authors recommend organising education so that children spend time in natura
 - [Interaction with Natural Environment](interaction_with_natural_environment.md)
 - [Bring the Outdoors In](bring_the_outdoors_in.md)
 - [Enriched Learning Environment](enriched_learning_environment.md)
+- [Check terrain safety and prefer outdoor play for the game](quark-wars-terrain-safety-outdoor-play-strategy.md)
 
 ## Examples
 -

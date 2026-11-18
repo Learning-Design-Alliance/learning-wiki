@@ -47,3 +47,4 @@ Exploratory factor analysis using principal factor method with oblique rotation 
 ## Related Claims
 - [The SE-12 is a unidimensional, reliable, and partially valid instrument for assessing clinicians' communication self-efficacy](se-12-reliable-partially-valid-instrument.md) — possibly the same claim (merge candidate)
 - [The objective-based AI literacy assessment demonstrates psychometric stability with high reliability (KR-20 = 0.862) and approximate unidimensionality](ob-ai-literacy-assessment-psychometrically-stable.md) — related
+- [A reliable self-efficacy state measure can be identified in the SSYSD ESM data, with skill, control, and success items loading on a single factor that also includes expectation and self-feeling items.](esm-self-efficacy-state-measure-pca.md) — related

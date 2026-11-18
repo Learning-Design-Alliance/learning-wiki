@@ -56,3 +56,4 @@ Cohort technical findings on speech detection, reported in Table 5. Projects suc
 - Students recommended ChatGPT to peers and suggested improvements to accent recognition, visual aids, and response time — related
 - [Across 28 K-12 AI pilot projects, AI demonstrated success at categorizing and coding datasets, translating language, and triangulating qualitative findings with quantitative data](ai-success-coding-datasets-translation-triangulation.md) — related
 - [Automated speech recognition tutoring supports early reading in three areas: word identification, attention to meaning, and motivation](asr-tutoring-supports-word-identification-attention-motivation.md) — reports the opposite
+- [Crowdsourced videos exhibit significant diversity in presentation format, language style, and pedagogical approach](crowdsourced-video-multidimensional-diversity.md) — related

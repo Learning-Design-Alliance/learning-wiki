@@ -52,3 +52,4 @@ Analysis of responses to a CURrENT conceptual survey question (ACER category A2)
 - [Incorrect answers to CURrENT Q4(b) cluster around a small set of reasoning types, most commonly that the magnitude of J increasing to the right implies non-zero divergence](categorized-incorrect-reasoning-divergence-current-density.md) — related
 - [Students' concept images of grad, div and curl focus on evaluation, with few conceptual descriptions and confusion about vector or scalar character](concept-image-focused-on-evaluation.md) — related
 - [Across eight institutions, only 39% of 376 students correctly stated that ∇⋅J=0 inside the wire in CURrENT Q4(b)](thirty-nine-percent-correct-across-eight-institutions.md) — related
+- [Many students fail to spontaneously activate boundary conditions when not explicitly prompted, especially outside the wave context](students-fail-to-activate-bcs-without-explicit-prompt.md) — related

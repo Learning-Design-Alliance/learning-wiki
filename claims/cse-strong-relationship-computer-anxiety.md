@@ -49,3 +49,4 @@ Regression analysis in the mediation assessment showed a significant ANX–CSE p
 - [CSE partially mediates anxiety's effect on PEU: the direct ANX–PEU path remains significant but weaker](cse-partial-mediation-anx-peu-weakened.md) — related
 - [Computer anxiety negatively affects students' perceived ease of use of a learning management system](computer-anxiety-negative-effect-lms-peu.md) — related
 - [Computer self-efficacy mediates the relationship between technological literacy attained through the Contextualized-OLPC project and functional literacy](computer-self-efficacy-mediation-olpc-functional-literacy.md) — related
+- [Availability of IT services and computer self-efficacy strongly predict perceived ease of use of online mathematical assessments](ait-cse-predict-ease-of-use.md) — related

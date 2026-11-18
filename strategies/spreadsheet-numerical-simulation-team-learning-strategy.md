@@ -47,6 +47,7 @@ The article recommends having students solve the multiple-body motion equations 
 ## Related Strategies
 
 - [Incorporate numerical calculation into introductory quantum courses to counteract abstraction-driven misconceptions](incorporate-numerical-calculation-in-quantum-courses.md)
+- [Teaching sequence: discretize the evolution equations, implement the recurrences in a spreadsheet, and compare classical, stochastic and quantum solutions](spreadsheet-recurrence-teaching-sequence.md)
 
 ## Examples
 -

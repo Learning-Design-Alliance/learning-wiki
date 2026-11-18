@@ -45,6 +45,7 @@ The authors recommend coordination exercise programs structured as games in whic
 
 - [Primary school teachers should regularly include activities in which children manipulate objects with larger and smaller muscles to develop bodily coordination](include-object-manipulation-coordination-activities.md)
 - [Allocate school-aged children to cognitively challenging physical activities such as tag games, team games, or coordinative exercises](cognitively-challenging-physical-activities-recommendation.md)
+- [Structure out-of-school astronomy like a sports league: easy entry, escalating challenge, and high-level club experiences](gelderman-astronomy-progression-strategy.md)
 
 ## Examples
 -

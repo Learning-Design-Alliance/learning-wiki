@@ -52,6 +52,7 @@ The article recommends that in the evaluation phase, student learning should be 
 - [Revision Cycles](revision-cycles.md)
 - [Align assessment strategies with each competency area using simulations, projects, and reflective portfolios](quintuple-aim-aligned-assessment-strategies.md)
 - [Use an online self-assessment rubric to evaluate MOOC learning](online-rubric-self-assessment-mooc.md)
+- [Evaluate notebooks holistically on interpretability rather than format, using peer feedback, oral quizzes, or a reproduction practicum](authentic-notebook-evaluation-methods.md)
 
 ## Examples
 -

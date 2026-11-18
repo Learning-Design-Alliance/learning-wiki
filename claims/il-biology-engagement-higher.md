@@ -50,3 +50,4 @@ Behavioral comparison in the 2002 and 2003 correlational biology study: Table 2 
 ## Related Claims
 - [Optional 'What is Biology Good For?' essays achieved >75% weekly participation and >90% of students reported they made science relevance clear](good-for-essays-relevance-motivation.md) — related
 - [E-learning platform use increased homework submission and attendance in a reviewed case study](e-learning-platform-homework-attendance-case-study.md) — related
+- [In the Spring 2015 replication, extra credit was insufficient to motivate voting or problem modification, with only about 5% of about 160 students submitting modifications](spring-2015-motivation-failure.md) — related

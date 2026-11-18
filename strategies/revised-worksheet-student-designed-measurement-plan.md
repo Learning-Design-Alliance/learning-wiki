@@ -47,7 +47,9 @@ The author expanded the experiment's objectives so that, besides finding attenua
 - [Measuring background and very weak radioactive sources over extended periods creates the need for many measurements and uncertainty evaluation, prompting students to recall their statistics knowledge](../claims/weak-source-measurements-motivate-statistics.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Select parachutes by measured drop tests comparing descent speed and stability before flight](measured-drop-test-parachute-selection.md)
+- [Estimate the standard deviation in a pilot experiment before planning how many measurements to take](pilot-experiment-estimate-sigma-planning.md)
 
 ## Examples
 -

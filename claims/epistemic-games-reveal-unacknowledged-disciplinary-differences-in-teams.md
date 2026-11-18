@@ -67,3 +67,4 @@ This is methodologically careful naturalistic research (q2-q3: peer-reviewed, sy
 - [Bennett et al.'s study engaged a diverse cross-section of university teachers across disciplines and modalities, yet reported common shared design practices](diverse-cohort-common-shared-design-practices.md) — related
 - [Extended, frequent interdisciplinary conversation surfaces tacit disciplinary assumptions about content, epistemology, and competencies that surveys or occasional discussion do not reveal.](sustained-cross-disciplinary-dialogue-surfaces-tacit-assumptions.md) — related
 - [The estimation epistemic game consists of six basic moves from problematize to evaluation](e-e-game-six-basic-moves.md) — related
+- [The article claims its collaborative-writing rules originate from the authors' own frustrating and stressful experiences rather than from systematic study](rules-originate-from-authors-experience.md) — related

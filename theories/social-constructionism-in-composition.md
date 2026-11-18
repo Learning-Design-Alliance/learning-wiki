@@ -49,7 +49,7 @@ The paper defines social constructionism as "a philosophy of knowledge whichasse
 - [Vygotsky's social constructivism: psychological phenomena emerge from social interaction](social-constructivism-vygotsky-social-interaction.md)
 
 ## Examples
--
+
 
 ## Key Sources
 - DeCiccio, Albert C. (1988). Social Constructionism and Collaborative Learning: Recommendations for Teaching Writing. Paper presented at the Annual Meeting of the Conference on College Composition and Communication. https://eric.ed.gov/?id=ED294201

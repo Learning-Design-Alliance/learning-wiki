@@ -49,6 +49,7 @@ In this short activity, students familiar with some AO terminology are shown the
 - [Disassemble-and-rebuild consensus task for teaching optical conjugation and relays](ao-rebuild-consensus-design-task.md)
 - [Systems optimization activity varying aberrations, speed and software parameters](ao-systems-optimization-activity.md)
 - [Pretraining](pretraining.md)
+- [Enrich practical sessions with ray-tracing software and 2D CCD cameras, and tutorials with a problem-solving approach](ccd-ray-tracing-problem-solving-future-improvements.md)
 
 ## Examples
 -

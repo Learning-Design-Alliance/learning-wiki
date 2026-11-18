@@ -61,3 +61,4 @@ Trend analysis of ITBS grade-equivalent scores by age cohort from 1990 to 2001, 
 - [Productivity profiles in adjacent grades are negatively related, so judging a school from selected grades alone can be very misleading](adjacent-grade-profiles-negatively-related.md) — related
 - [A Rasch-score re-analysis corroborates slowing and in some cases declining test score trends, with nine-year-olds an exception](rasch-reanalysis-corroborates-slowing-trends.md) — related
 - [In fifth-grade reading, ITBS scores declined significantly more than ISAT scores from 1999 to 2002](fifth-grade-reading-itbs-greater-decline-than-isat.md) — related
+- [On nationally normed state tests through 2002, computation scores declined while reasoning scores rose or held steady](state-test-computation-declined-reasoning-rose.md) — related

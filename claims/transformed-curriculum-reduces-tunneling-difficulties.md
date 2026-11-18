@@ -68,3 +68,4 @@ Comparison across the eight courses using QMCS responses to the Figure 6 questio
 - [After transformed instruction most students state energy is conserved in tunneling, yet energy-loss reasoning persists in subtle forms](energy-conservation-stated-but-energy-loss-reasoning-persists.md) — related
 - [Interviews in transformed courses reveal three new reasons students think energy is lost in tunneling, beyond the two reported in prior literature](three-new-reasons-energy-loss-tunneling.md) — related
 - [Upper-level quantum mechanics students incorrectly claim a particle loses energy when it tunnels through a rectangular potential barrier, transferring classical reasoning](qm-tunneling-classical-energy-loss-difficulty.md) — related
+- [Undergraduate students hold prominent misconceptions about wave functions and tunneling, including the false belief that energy is lost during tunneling](wave-function-tunneling-misconceptions.md) — related

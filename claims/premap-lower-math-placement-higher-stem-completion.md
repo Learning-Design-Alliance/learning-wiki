@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: moderate
-newest_evidence: 2012
+newest_evidence: 2013
 sources:
-  - id: sarah-garner-2012
+  - id: sarah-garner-2013
     resource: "https://doi.org/10.48550/arXiv.1311.5486"
-    title: "Sarah Garner, Michael J. Tremmel, Sarah J. Schmidt, John P. Wisniewski, Eric Agol. (2012). Evaluation of a College Freshman Diversity Research Program. [doi:10.48550/arXiv.1311.5486](https://doi.org/10.48550/arXiv.1311.5486)"
+    title: "Sarah Garner, Michael J. Tremmel, Sarah J. Schmidt, John P. Wisniewski, Eric Agol. (2013). Evaluation of a College Freshman Diversity Research Program. Originally published 2012. [doi:10.48550/arXiv.1311.5486](https://doi.org/10.48550/arXiv.1311.5486)"
     author: Sarah Garner, Michael J. Tremmel, Sarah J. Schmidt, John P. Wisniewski, Eric Agol
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Pre-MAP students that place into lower math courses are more successful at completing a STEM degree than their counterparts. [→ Sarah Garner 2012](#sarah-garner-2012)
+`q2 i?` Pre-MAP students that place into lower math courses are more successful at completing a STEM degree than their counterparts. [→ Sarah Garner 2013](#sarah-garner-2013)
 
 ## Evidence
 
-### Sarah Garner 2012
+### Sarah Garner 2013
 
-Sarah Garner, Michael J. Tremmel, Sarah J. Schmidt, John P. Wisniewski, Eric Agol. (2012). Evaluation of a College Freshman Diversity Research Program. [doi:10.48550/arXiv.1311.5486](https://doi.org/10.48550/arXiv.1311.5486)
+Sarah Garner, Michael J. Tremmel, Sarah J. Schmidt, John P. Wisniewski, Eric Agol. (2013). Evaluation of a College Freshman Diversity Research Program. Originally published 2012. [doi:10.48550/arXiv.1311.5486](https://doi.org/10.48550/arXiv.1311.5486)
 
 `q2 · i?` · `associational · r1`
 
@@ -49,3 +49,4 @@ Observational analysis of UW student database records (Table 2) comparing STEM g
 - [A student's likelihood of graduating in a STEM field is strongly affected by math placement and grade in the first math class, with Pre-MAP students showing higher STEM graduation fractions at similar grades](math-placement-grade-predict-stem-graduation.md) — related
 - [Pre-MAP graduates earn cumulative GPAs not significantly different from UW, STEM, Physics, or Astronomy majors, but underperform in upper-level physics while excelling in astronomy courses](premap-gpa-physics-astronomy-course-performance.md) — related
 - [Remediation requirements are not a primary driver of low college degree completion rates](remediation-not-primary-driver-low-completion.md) — related
+- [Undergraduate research participation benefits STEM students in learning retention, graduation rates, and graduate program entry](ugr-benefits-retention-graduation-graduate-entry.md) — related

@@ -51,3 +51,4 @@ The review reports, citing Preszler 2009, that peer-led workshops let students w
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — related
 - [After a peer-led workshop, the proportion of students classified as high knowledge rose from 41.9% at pre-test to 86.0% at post-test in one uncontrolled pre-post study](knowledge-category-shift-after-peer-led-workshop.md) — related
 - [Higher relative biology competency predicts a lower preference for the listener role in peer discussions](competency-predicts-listener-preference.md) — related
+- [Teaching algorithmic construction via structured pseudocode before C++ yielded equal final-exam language knowledge and may particularly benefit women's confidence](pseudocode-first-equals-full-language-instruction.md) — related

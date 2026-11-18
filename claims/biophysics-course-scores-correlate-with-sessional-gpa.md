@@ -48,3 +48,4 @@ Regression analysis of final course scores versus sessional GPA for 99 students 
 - [Academic performance in the interdisciplinary biophysics course is unrelated to declared major](biophysics-course-performance-unrelated-to-major.md) — related
 - [Women scored about 33 SAT-M points lower than men who took the same math course and received the same grade](women-33-sat-points-lower-matched-course-grade.md) — related
 - [Second-year students rate a co-taught interdisciplinary biophysics course highly, with 91% positive overall ratings over six years](current-topics-biophysics-high-student-satisfaction.md) — related
+- [Students' CT performance correlates with their overall GPA, suggesting CT as a predictor of academic success](ct-performance-correlates-with-gpa.md) — related

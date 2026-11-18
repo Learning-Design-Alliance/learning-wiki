@@ -49,3 +49,4 @@ Between-subjects field experiment with a whole cohort of second-year medical stu
 - [Feedback understanding moderates the effect of the relevant FA on course-script knowledge but not on in-depth-knowledge gain](feedback-understanding-moderates-fa-effect.md) — related
 - [Course-script knowledge shows a significant time-by-condition interaction: the treatment group increases continuously while the control group first decreases](time-condition-interaction-course-script-knowledge.md) — related
 - [Students in the treatment condition gain significantly more additional in-depth knowledge during the practical course than control students](relevant-fa-increases-in-depth-knowledge-gain.md) — related
+- [Formative assessment probes indicate improved density understanding after the submarine project](density-understanding-gains-submarine-project.md) — a narrower finding that bears on this claim

@@ -69,6 +69,8 @@ Explicit modeling gives novices a complete expert performance to study, reducing
 - [Provide explicit prompting instruction and expert scaffolding before or during novice LLM activities](explicit-prompting-instruction-before-llm-tasks.md)
 - [Implement anticipatory reading guides through a phased release: teacher modeling, collaborative creation, then independent guide construction.](phased-anticipatory-guide-implementation.md)
 - [Provide explicit guidance and sustained practice on decomposing multi-step problems and connecting sub-problems when using solved examples for analogical reasoning](explicit-guidance-decompose-connect-subproblems.md)
+- [Use explicit metacognitive questioning and visible instructor struggle to shift novice problem-solving approaches](schoenfeld-metacognitive-questioning-strategy.md)
+- [Use think-aloud protocols by instructors and students to make problem-solving processes visible and scaffold monitoring](think-aloud-problem-solving-strategy.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — the observable-performance component

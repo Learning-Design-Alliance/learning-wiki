@@ -55,3 +55,4 @@ The article reports this gender comparison in its abstract without printing test
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
 - [Female students showed stronger motivation toward e-learning resources and training than male students](female-students-stronger-elearning-motivation.md) — related
 - [No gender gap appeared on the multiple-choice final exam, which included both conceptual and quantitative questions on similar topics](no-gender-gap-final-exam.md) — related
+- [In the vector calculus workshop, the female participants' persistence index was 100.6% higher than the male participants'](wvc1-female-persistence-index-higher.md) — related

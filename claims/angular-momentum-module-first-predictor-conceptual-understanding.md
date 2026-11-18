@@ -51,3 +51,4 @@ Hierarchical regression with concept score as outcome (N=272). Module 8 completi
 - [No significant relationship found between DLC interaction and self-reported metacognitive abilities on the MSLQ](no-mslq-relationship-dlc.md) — related
 - [A problem's primary physics concept predicts persistence, with energy can dissipate problems eliciting the most](primary-concept-predicts-persistence.md) — related
 - [Completing the topic-specific reflection module on angular momentum yielded a larger effect on strategic approach than completing other modules alone](topic-specific-module-larger-strategy-effect.md) — related
+- [Problem modifiers scored about 90% versus about 58% for the rest of the class on Angular Momentum final-exam problems](angular-momentum-modders-versus-class.md) — related

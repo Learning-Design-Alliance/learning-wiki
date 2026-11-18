@@ -49,3 +49,4 @@ Retention sub-study: one class of 18 students (a subset of the 72) answered four
 - [Upper-level students' scores on time-dependence of expectation values improve significantly after working on the Larmor precession QuILT](quilt-larmor-precession-pre-post-improvement.md) — related
 - [Gains from the QKD QuILT persisted on a delayed posttest administered roughly two months later](qkd-quilt-delayed-posttest-retention.md) — related
 - [Students tested immediately after learning a topic score higher than students tested on the same items after a delay](delayed-midterm-items-lower-scores.md) — related
+- [Undergraduates retained DPT learning six weeks after the QuILT, scoring 97.8% and 91.0% on repeated questions](quilt-retention-six-weeks-final-exam.md) — related

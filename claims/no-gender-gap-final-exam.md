@@ -51,3 +51,4 @@ Comparison of male and female scores on the instructor-developed multiple-choice
 - [The same student cohorts show no statistically significant gender gap in end-of-course examination performance](no-exam-gender-gap-same-cohorts.md) — a broader claim this one bears on
 - [Conceptual understanding and motivation gains were similar for male and female students using the software](no-gender-difference-motion-vector-software-outcomes.md) — related
 - [Quizzical participation showed no gender difference even though males outperformed females on course exams in both cohorts](no-gender-difference-quizzical-participation.md) — related
+- [Multiple-choice question format shows no evidence of disadvantaging female students](no-female-disadvantage-multiple-choice.md) — related

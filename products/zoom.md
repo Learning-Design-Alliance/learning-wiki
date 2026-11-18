@@ -25,7 +25,8 @@ Zoom is a web-conferencing platform developed by Zoom Communications that enable
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Breakout](breakout.md)
 
 ## Key Sources
 - Alfadda, Hind Abdulaziz, & Mahdi, Hassan Saleh. (2021). Measuring Students’ Use of Zoom Application in Language Course Based on the Technology Acceptance Model (TAM). Journal of Psycholinguistic Research. https://doi.org/10.1007/s10936-020-09752-1

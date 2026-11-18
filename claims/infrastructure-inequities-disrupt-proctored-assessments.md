@@ -74,3 +74,4 @@ Review synthesis of Maboe and Tomas's (2023) qualitative study (n = 17) in South
 - [Universities in developing countries lacked the financial resources and technical infrastructure to purchase and operate e-learning platforms during COVID-19](universities-lacked-finance-infrastructure-e-learning.md) — related
 - [Poor internet connectivity, timing clashes, and home distractions were the main hindrances to online learning in the developing-country setting](connectivity-timing-hindrances-online-learning.md) — related
 - [E-learning in Nigeria is argued to offer increased access, convenience of time and place, varied resources and individualised learning, but few universities use ICT](e-learning-nigeria-access-benefits-low-adoption.md) — related
+- [Free or low-cost robotic telescope access equalises instrumentation access across socioeconomic and physical barriers](robotic-telescope-equity-access.md) — related

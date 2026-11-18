@@ -65,3 +65,5 @@ The commentary reports, citing Aridor et al. (this issue), a case study of two m
 - [Students who learn about scientists who got wrong answers come to see scientific answers as elusive rather than found in the back of a book](wrong-answer-scientists-teach-answers-are-elusive.md) — related
 - [Students who do not understand how elusive scientific answers are may dismiss science and see lab problems as signs of failure](answer-focus-misconceptions-about-science.md) — related
 - [Undergraduate art students collaborating with scientists gained understanding of how scientists operate and found scientists approachable](mica-fermi-student-scientist-collaboration-outcomes.md) — related
+- [The authors argue that open access to published scientific work may be insufficient to bridge the epistemological divide between scientists and the public](open-access-insufficient-for-public-engagement-with-science.md) — related
+- [Undergraduate research helps students develop professional identity and become scientists](ugr-professional-identity-development.md) — related

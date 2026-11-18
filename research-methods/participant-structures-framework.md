@@ -25,7 +25,8 @@ The article adapts Scott et al.'s framework, which the authors say defines four 
 - [Faculty PD workshops typically fall into the prescriptive, individually-focused dissemination category of change efforts, which the authors argue can limit faculty's sense that their experiences matter](../claims/faculty-pd-workshops-prescriptive-dissemination-category.md) [+M]
 
 ## Related Research Methods
--
+
+- [Four observed types of laboratory group interaction](four-observed-types-of-laboratory-group-interaction.md)
 
 ## Key Sources
 - Alice Olmstead and Chandra Turpen. (2016). Assessing the interactivity and prescriptiveness of faculty professional development workshops: The Real-Time Professional Development Observation Tool (R-PDOT). arXiv. https://arxiv.org/abs/1606.07126v2

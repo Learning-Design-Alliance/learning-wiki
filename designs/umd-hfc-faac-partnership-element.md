@@ -44,10 +44,11 @@ The whitepaper describes a formalized partnership between a 4-year PUI (UM-D), a
 - [Umd Hfc Faac Outreach Partnership Impact](../claims/umd-hfc-faac-outreach-partnership-impact.md) [+M]
 
 ## Related Designs
-- 
+
+- [Undergraduate astronomy research programs should be sustainable, usable, publishable and curriculum-integrated](beaky-undergraduate-research-principles.md)
 
 ## Examples
 -
 
 ## Key Sources
-- Clarkson, W., Bord, D., Swift, C., Rasmussen, E. J., Matzke, D., Murrell, S., LoPresto, M., Campbell, T., Clubb, R., & Salliotte, D. (2016). Sustaining educational and public outreach programs in astronomy. Whitepaper for AAS Education Task Force. http://www.fordastronomyclub.com/index.html
+- Clarkson, W., Bord, D., Swift, C., Rasmussen, E. J., Matzke, D., Murrell, S., LoPresto, M., Campbell, T., Clubb, R., & Salliotte, D. (2016). Sustaining educational and public outreach programs in astronomy. Whitepaper for AAS Education Task Force. http://www.fordastronomyclub.com/index.html. [doi:10.48550/arxiv.1606.04578](https://doi.org/10.48550/arxiv.1606.04578)

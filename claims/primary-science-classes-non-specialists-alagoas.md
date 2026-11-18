@@ -68,3 +68,4 @@ The graduation-background breakdown of primary science teachers (Figure 2) shows
 - [More than half of physics class registrations in Alagoas secondary schools refer to teachers without a degree in any natural science, while biology is least affected](majority-physics-classes-non-scientists-alagoas.md) — related
 - [Non-specialist teaching at Alagoas secondary schools is highly subject specific: maths and biology are taught predominantly by specialists while physics is affected particularly strongly](subject-specific-non-specialist-teaching-alagoas.md) — related
 - [Private schools in Alagoas employ more specialist teachers than public schools, but physics teachers at private schools have the lowest educational level of all subjects](private-schools-higher-specialist-teaching-rates.md) — related
+- [Physics has the lowest growth and student retention among all STEM subjects](physics-lowest-retention-among-stem.md) — related

@@ -76,3 +76,4 @@ End of the results section. The authors summarize the two episodes as showing 'm
 - [Switching to a blended substance/location ontology helped one student correct her understanding of chemical bond energy](blended-ontology-corrects-bond-energy-understanding.md) — related
 - [An exclusive substance metaphor led a student to incorrectly claim energy is released when bonds are broken; switching to a mixed ontology helped her analyze the situation correctly](substance-metaphor-bond-breaking-misconception.md) — related
 - [Students spontaneously engage in metacognition, explicitly tagging when their reasoning switches between quantum and classical explanations](spontaneous-metacognitive-tagging-classical-quantum.md) — related
+- [Student understanding of wave-particle duality falls into three clusters ranging from classical to quasiquantum description](three-clusters-wave-particle-duality-understanding.md) — related

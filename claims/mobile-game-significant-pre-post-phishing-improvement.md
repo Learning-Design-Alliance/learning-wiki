@@ -49,3 +49,5 @@ Paired-samples t-test in the think-aloud user study comparing pre- and post-test
 - [The mobile game was more effective than traditional online learning at teaching computer users to identify fraudulent websites](mobile-game-more-effective-than-website-learning.md) — a broader claim this one bears on
 - [Playing the mobile phishing-identification game significantly improved participants' phishing avoidance behaviour from pre-test to post-test](mobile-phishing-game-improves-avoidance-behaviour.md) — possibly the same claim (merge candidate)
 - [After game training, all participants based legitimacy judgements on the URL, whereas pre-test participants used incorrect strategies such as judging professional design](url-inspection-strategy-shift-after-game.md) — related
+- [The mobile game is somewhat effective in enhancing the user's phishing awareness](mobile-game-somewhat-effective-phishing-awareness.md) — a broader claim this one bears on
+- [Usually 56.04 percent of phishing attacks contain some form of target name in the URL, so end-user phishing URL awareness should be considered to combat phishing threats](phishing-urls-contain-target-name.md) — related

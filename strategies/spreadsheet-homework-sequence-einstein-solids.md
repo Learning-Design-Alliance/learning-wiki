@@ -44,6 +44,7 @@ The authors present the interacting-solids material in class with handouts of th
 ## Related Strategies
 
 - [Re-weight IPLS content: de-emphasize projectile motion, constant-acceleration rotations, gravitation, and heat engines; give new prominence to fluids, optics, energy, and entropy; add scaling, strength of materials, and gradient-driven flows](ipls-content-reweighting.md)
+- [Design all introductory computational assignments to be completable in spreadsheets so students without programming background can participate.](spreadsheet-first-computational-assignments-strategy.md)
 
 ## Examples
 -

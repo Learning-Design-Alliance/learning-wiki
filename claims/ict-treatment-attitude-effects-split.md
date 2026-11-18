@@ -73,3 +73,4 @@ Independent-samples t-tests on the social studies attitude scale (Cronbach's alp
 - [Reciprocal teaching produced significantly more favourable attitudes towards Islamic culture than the traditional method](reciprocal-teaching-attitudes-islamic-culture.md) — related
 - [Traditional teaching produced no statistically significant change in attitude toward physics in the control group](traditional-teaching-no-attitude-change.md) — related
 - [Peer education and traditional teaching both improved attitudes toward physical education, with no significant difference between the two groups.](peer-education-no-group-difference-pe-attitudes.md) — related
+- [Students' attitudes toward learning via ICT shifted after the activities in the first study and toward learning via social media in the second, with no shifts in the third study](attitude-shifts-social-media-ict.md) — related

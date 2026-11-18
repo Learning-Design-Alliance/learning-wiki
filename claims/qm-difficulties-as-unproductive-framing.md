@@ -54,3 +54,7 @@ Interpretation drawn from the observational episode in which Eric’s conceptual
 - [48% of graduate students incorrectly claimed Ĥψ=Eψ is the most fundamental equation of QM and resisted verifying it explicitly for superposition states](schrodinger-equation-overgeneralization-graduates.md) — related
 - [Approximately one-third of students from seven universities incorrectly evolve a non-stationary superposition state with a single overall phase factor e^{-iEt/ħ}](qm-overall-phase-factor-time-evolution-difficulty.md) — related
 - [Beginning graduate students show pervasive difficulties with time-development of the wavefunction: 31% wrote a common phase factor for a superposition state and 9% believed the wavefunction has no time dependence](grad-qm-time-development-difficulties.md) — related
+- [Teaching of complex quantum behavior — time dependence, superposition, and the measurement problem — is barely investigated at the secondary and lower undergraduate level](complex-quantum-behavior-barely-investigated.md) — related
+- [Some QM difficulties reflect correct framing but insufficient or wrong resource activation (content errors)](content-errors-qm-difficulties.md) — related
+- [Some QM difficulties reflect operating in the wrong frame (displacement errors)](displacement-errors-qm-difficulties.md) — related
+- [Published quantum mechanics difficulties restructure into three framing error categories](qm-difficulties-three-framing-error-categories.md) — related

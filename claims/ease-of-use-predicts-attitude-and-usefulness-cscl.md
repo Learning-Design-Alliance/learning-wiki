@@ -52,3 +52,5 @@ PLS structural model on the 701-student survey with printed β = 0.316 and 0.309
 - [Attitude, facilitating conditions, and social influence correlate most strongly with behavioral intention, while perceived ease of use correlates weakest](at-fc-si-strongest-bi-correlates-peou-weakest.md) — related
 - [Perceived usefulness significantly positively influences satisfaction, perceived impact on learning, and attitude towards CSCL](perceived-usefulness-influences-satisfaction-impact-attitude.md) — related
 - [Perceived usefulness and perceived ease of use are direct significant predictors of intention to use mobile library applications](pu-peou-predict-intention-mobile-library-apps.md) — related
+- [Comparative feedback — perceiving online feedback as better than traditional feedback — strongly predicts perceived usefulness and enjoyment](comparative-feedback-predicts-usefulness-enjoyment.md) — related
+- [Perceived ease of use strongly influences perceived usefulness and enjoyment, and exerts significant indirect effects on attitude and usage intention](peu-indirect-effects-attitude-intention.md) — related

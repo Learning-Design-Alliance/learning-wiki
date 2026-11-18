@@ -56,6 +56,7 @@ An OSF-hosted replication package from Zambrano et al. containing the prompts, G
 - [Large-scale longitudinal parent-report language dataset collected via a free language therapy app, with code and data released on OSF](large-scale-longitudinal-parent-report-language-dataset-collected-via-a-free-language-ther.md)
 - [finaldataset.dat](finaldatasetdat.md)
 - [Openly shared student and teacher measures from the Social Perspective Taking professional development study](openly-shared-student-and-teacher-measures-from-the-social-perspective-taking-professional.md)
+- [Ciênsação](ciensacao.md)
 
 ## Key Sources
 - Zambrano, A.F., Wei, Z., Zhang, J., Baker, R.S., Ocumpaugh, J., Barany, A., Liu, X., Ginger, J., Paquette, L., Zhou, Y., & Borchers, C. (2026). Data Plus Theory Equals Codebook: Leveraging LLMs for Human-AI Codebook Development. Journal of Educational Data Mining, Volume 18, No 1. https://osf.io/g3z4x. [doi:10.35542/osf.io/4wyqc_v1](https://doi.org/10.35542/osf.io/4wyqc_v1)

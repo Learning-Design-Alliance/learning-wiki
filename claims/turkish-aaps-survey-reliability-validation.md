@@ -48,3 +48,4 @@ Reliability analysis of the translated 33-item Likert survey administered to 528
 ## Related Claims
 - [No overall gender difference on the Turkish AAPS survey, but male and female response distributions differed significantly on 11 of 33 items, split roughly evenly in favor of each gender](turkish-aaps-gender-item-level-differences.md) — related
 - [The Turkish TBL-SAI shows high internal consistency with a Cronbach's α of 0.90 after item refinement](tbl-sai-tr-cronbach-alpha-090.md) — related
+- [The AAPS survey is a reliable and content-valid 33-item instrument for measuring attitudes and approaches to physics problem solving](aaps-survey-reliable-valid-instrument.md) — related

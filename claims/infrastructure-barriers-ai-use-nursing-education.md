@@ -74,3 +74,4 @@ Interview finding from the concerns subcategory; participants noted that "connec
 - [Technological challenges, including platform access failures and unavailable resources, reduced the effectiveness of online learning](technological-challenges-reduce-online-learning-effectiveness.md) — related
 - [Universities in developing countries lacked the financial resources and technical infrastructure to purchase and operate e-learning platforms during COVID-19](universities-lacked-finance-infrastructure-e-learning.md) — related
 - [The openness of a free MOOC does not guarantee equitable access: YWYL enrollment skewed toward developed countries because unrestricted high-speed internet is a necessity](mooc-openness-does-not-guarantee-equitable-access.md) — related
+- [Free or low-cost robotic telescope access equalises instrumentation access across socioeconomic and physical barriers](robotic-telescope-equity-access.md) — related

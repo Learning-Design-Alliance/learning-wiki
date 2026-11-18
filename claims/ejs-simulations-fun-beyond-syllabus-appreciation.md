@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: weak
-newest_evidence: 2012
+newest_evidence: 2013
 sources:
-  - id: loo-kang-wee-2012
+  - id: loo-kang-wee-2013
     resource: "https://doi.org/10.48550/arXiv.1303.0079"
-    title: "Loo Kang WEE, Giam Hwee GOH and Charles CHEW. (2012). Enabling Gravity-Physics by Inquiry using Easy Java Simulation. Best School-Based Research Paper submitted to 5th Redesign Pedagogy Conference. [doi:10.48550/arXiv.1303.0079](https://doi.org/10.48550/arXiv.1303.0079)"
+    title: "Loo Kang WEE, Giam Hwee GOH and Charles CHEW. (2013). Enabling Gravity-Physics by Inquiry using Easy Java Simulation. Best School-Based Research Paper submitted to 5th Redesign Pedagogy Conference. Originally published 2012. [doi:10.48550/arXiv.1303.0079](https://doi.org/10.48550/arXiv.1303.0079)"
     author: Loo Kang WEE, Giam Hwee GOH and Charles CHEW
     q: 1
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q1 i?` Students reported that lessons with the simulations were fun and interesting and provided insights outside of the syllabus, and thanked the teachers and ICT inventors. [→ Loo Kang WEE 2012](#loo-kang-wee-2012)
+`q1 i?` Students reported that lessons with the simulations were fun and interesting and provided insights outside of the syllabus, and thanked the teachers and ICT inventors. [→ Loo Kang WEE 2013](#loo-kang-wee-2013)
 
 ## Evidence
 
-### Loo Kang WEE 2012
+### Loo Kang WEE 2013
 
-Loo Kang WEE, Giam Hwee GOH and Charles CHEW. (2012). Enabling Gravity-Physics by Inquiry using Easy Java Simulation. Best School-Based Research Paper submitted to 5th Redesign Pedagogy Conference. [doi:10.48550/arXiv.1303.0079](https://doi.org/10.48550/arXiv.1303.0079)
+Loo Kang WEE, Giam Hwee GOH and Charles CHEW. (2013). Enabling Gravity-Physics by Inquiry using Easy Java Simulation. Best School-Based Research Paper submitted to 5th Redesign Pedagogy Conference. Originally published 2012. [doi:10.48550/arXiv.1303.0079](https://doi.org/10.48550/arXiv.1303.0079)
 
 `q1 · i?` · `design · r2`
 
@@ -54,3 +54,4 @@ Qualitative survey excerpts under the themes Learning with computer models can b
 - [Students reported that Tracker lessons supported fun, self-directed inquiry learning of physics](students-reported-fun-inquiry-tracker-lessons.md) — related
 - [Pilot school-based use suggests students can enact investigative learning like scientists with the gravity models](pilot-investigative-learning-gravity-models.md) — related
 - [Students reported that interactive engagement with the simulations was fun, engaging, and helped them remember how to read the scales](students-report-interactive-engagement-fun-and-memorable.md) — related
+- [Year 6 students find Einsteinian concepts interesting and do not consider themselves too young to learn them](einstein-first-year6-attitudes.md) — related

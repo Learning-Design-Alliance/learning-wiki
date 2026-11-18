@@ -52,6 +52,7 @@ The article recommends that analogical-reasoning activities with solved examples
 - [Modeling Multi Step Processes](modeling-multi-step-processes.md)
 - [Explicit Teacher Modeling](explicit_teacher_modeling.md)
 - [IDEAL Problem-Solving Model](ideal-problem-solving-model.md)
+- [Break synthesis clicker questions into separate sub-questions before combining them into one question](break-synthesis-clickers-into-sub-problems.md)
 
 ## Examples
 -

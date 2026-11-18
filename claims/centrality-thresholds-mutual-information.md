@@ -47,3 +47,5 @@ Information-theoretic threshold analysis on the same MI network data, reported i
 ## Related Claims
 - [Optimal ensemble threshold value is 0.7, with accuracy declining beyond it](ensemble-threshold-0-7-optimal.md) — related
 - [Optimizing the classification threshold improves cross-dataset mind wandering detection, raising person-level correlation from 0.48 to 0.8](threshold-optimization-improves-cross-dataset-detection.md) — related
+- [Betweenness centrality shows no statistically significant association with persistence in MI courses](betweenness-null-persistence.md) — related
+- [Closeness centrality above an optimized threshold predicts persistence with up to 75% probability of successful inference](closeness-threshold-75-percent-inference.md) — possibly the same claim (merge candidate)

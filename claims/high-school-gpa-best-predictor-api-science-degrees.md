@@ -52,3 +52,4 @@ Correlational and regression analysis of 2015/2016–2016/2017 cohorts (N = 79�
 - [The grade obtained in the PAU specific phase is a significant secondary predictor of the API in all five degrees](pau-specific-phase-secondary-predictor.md) — related
 - [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — a broader claim this one bears on
 - [Entering GPA is the single best predictor of grades in large-enrollment upper-level life sciences courses, accounting for 22.3–58.0% of variance (β 0.315–0.662)](entering-gpa-best-predictor-life-science-grades.md) — related
+- [Students' CT performance correlates with their overall GPA, suggesting CT as a predictor of academic success](ct-performance-correlates-with-gpa.md) — a narrower finding that bears on this claim

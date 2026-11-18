@@ -68,3 +68,4 @@ Observational coding of tutorial video: at least two researchers coded changes i
 - [Epistemic distancing plays a critical role in student groups' construction of a safe space for collaborative sensemaking in physics tutorials](epistemic-distancing-builds-safe-space-sensemaking.md) — related
 - [The checklist assessment showed strong interrater reliability, contributing validation evidence](checklist-interrater-reliability-kappa-0875.md) — related
 - [A GPT-4-based coding scheme achieved over 90% inter-coder agreement, surpassing results reported for specialised pre-2017 AI (~80%)](gpt4-surpasses-specialised-intelligence-agreement.md) — related
+- [Four distinct Modes of student interaction (Debate, Informing, Co-construction of an Answer, Building Understanding towards an Answer) emerge from video of introductory physics group work](four-modes-of-collaboration-identified.md) — related

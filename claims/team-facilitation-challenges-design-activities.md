@@ -50,3 +50,4 @@ Authors' qualitative account of facilitating the CCD modeling activity in 2008 a
 - [Group sizes of five or six led to domination or freeloading, while groups of three or four maximized each member's potential to contribute.](group-size-three-or-four-avoid-freeloading.md) — related
 - [Dyadic pair interaction showed domination and unequal cognitive engagement, consistent with prior CSCL drawback findings](dyadic-domination-unequal-engagement.md) — related
 - [Group workbench activities raise specific facilitation challenges around participation and assumptions](workbench-group-facilitation-challenges.md) — possibly the same claim (merge candidate)
+- [College students were reluctant to voice opinions about the course, with the classroom power structure speculated as a contributing factor](student-voice-reluctance-power-structure.md) — related

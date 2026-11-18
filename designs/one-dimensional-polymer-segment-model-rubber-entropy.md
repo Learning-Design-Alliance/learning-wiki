@@ -44,7 +44,8 @@ The article's model treats a rubber polymer as a 1-D chain of fixed-length segme
 - Adiabatic Tension Extension Nonlinear Deviation [~M]
 
 ## Related Designs
-- 
+
+- [Adiabatic expansion model of the atmospheric temperature gradient, with stated scope limits](adiabatic-atmosphere-lapse-rate-model.md)
 
 ## Examples
 -

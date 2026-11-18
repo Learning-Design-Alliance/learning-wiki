@@ -30,7 +30,8 @@ The Institute of Physics New Quantum Curriculum is a freely available online int
 - [Students at both introductory and advanced levels perceived the two-level simulations as useful for improving their understanding](../claims/students-perceive-quvis-simulations-useful.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [QuVis suite of four interactive QKD simulations](quvis-suite-of-four-interactive-qkd-simulations.md)
 
 ## Key Sources
 - Kohnle A, Bozhinova I, Browne D, Everitt M, Fomins A, Kok P, Kulaitis G, Prokopas M, Raine D and Swinbank E. (2013). A new introductory quantum mechanics curriculum. https://quantumphysics.iop.org

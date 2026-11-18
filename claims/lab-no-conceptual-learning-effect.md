@@ -49,3 +49,4 @@ Question-by-question analysis of the 20 multiple-choice physics 2 final exam ite
 - [Lab-course takers entered and left the course with higher content ability, but taking the lab did not interact with this ability gap](lab-students-higher-ability-no-interaction.md) — related
 - [The final exam multiple-choice set showed acceptable internal consistency (KR-20 = 0.63) and item-total correlations from 0.15 to 0.51](final-exam-kr20-reliability-063.md) — related
 - [Taking a stand-alone introductory electricity and magnetism lab course produced no measurable difference in normalized final exam performance on lab-related questions in physics 2](physics2-lab-no-exam-effect.md) — possibly the same claim (merge candidate)
+- [The null lab effect persists when final-exam analysis is restricted to conceptual questions only](labs-no-conceptual-benefit-final-exams.md) — related

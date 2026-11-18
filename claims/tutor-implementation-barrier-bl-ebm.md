@@ -50,3 +50,4 @@ Focus-group theme on barriers and enablers: in-class replay of clips "would nega
 - [Implementation analysis identified student engagement as a challenge for technology-driven tutoring programs](saga-implementation-engagement-challenges.md) — related
 - [Focus groups identified interaction, small class size, active in-class activities, and pre-class online engagement as factors in positive learning experiences, with students unsure the model would work in larger classes](flipped-focus-group-positive-experience-factors.md) — related
 - [Focus groups identified student preference for blended-learning EBM delivery because it linked theory to bedside practice](focus-groups-prefer-blended-ebm-theory-practice-link.md) — related
+- [Students who reported skimming tutorials and inconsistently short self-reported times suggest superficial engagement despite perceived effectiveness](superficial-self-study-engagement-skimming-self-report.md) — related

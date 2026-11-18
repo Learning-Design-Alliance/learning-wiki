@@ -49,3 +49,4 @@ Post-lesson interviews with the three chemistry teachers after the two research 
 - [Bringing out the necessary pattern of variation and invariance in the learning situation enhances the likelihood that the object of learning is appropriated](bringing-out-variation-pattern-enhances-appropriation.md) — possibly the same claim (merge candidate)
 - [Redesigning the second research lesson cycle so students compared results across groups raised correct answers on the volume item from 11% to 80%](cycle2-redesign-volume-item-gain-69.md) — a narrower finding that bears on this claim
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
+- [Lecturers and students do not discern the same things from the same disciplinary representation](lecturer-student-discernment-mismatch.md) — related

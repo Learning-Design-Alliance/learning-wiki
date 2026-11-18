@@ -54,3 +54,4 @@ Correlational analysis in Section 3.3 (Table 3): e.g. GPT-4.1 prompted for holis
 - [Ensembles of operational raters outperform the LLMs: two raters suffice on average across aspects, but larger ensembles are needed for individual aspects](rater-ensembles-outperform-llms-feedback.md) — related
 - [Holistic peer feedback correlated significantly with tutor marks while specific-criteria rubric feedback did not in the PEARS system](pears-holistic-feedback-correlates-tutor-marks-specific-does-not.md) — related
 - [Automated assessment marks show very strong positive correlation with expert tutor marks on search algorithm exercises](automated-assessment-agrees-with-tutors-search-algorithms.md) — related
+- [Dr Scratch's CT assessment correlates positively and significantly with classic software complexity metrics](dr-scratch-validated-against-complexity-metrics.md) — related

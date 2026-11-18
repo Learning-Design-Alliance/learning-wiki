@@ -61,3 +61,4 @@ Qualitative theme from questionnaire open-ended responses, individual interviews
 - [Students rated the ChatGPT-based virtual bedside teaching positively, with 75.6% satisfied with its impact on learning efficacy and 73.3% with learning experience](chatbot-bedside-teaching-positive-ratings.md) — related
 - [Students in both groups preferred peer-to-peer discussion over contacting the lecturer directly](peer-discussion-preferred-over-lecturer-theme.md) — related
 - [Participants reported mostly positive mental wellbeing online, with social isolation and lost peer contact as key barriers](mental-wellbeing-online-term-positive-with-isolation-barrier.md) — related
+- [Many students' first contact with the research literature presents a barrier rather than a facilitator to a career in research, because expert communication conventions presuppose shared context newcomers lack.](literature-jargon-barrier-newcomers.md) — related

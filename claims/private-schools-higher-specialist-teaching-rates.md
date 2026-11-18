@@ -68,3 +68,4 @@ The 2011 registration data on teachers' educational level shows "Only 77.3 % of 
 - [Subject Specific Non Specialist Teaching Alagoas](subject-specific-non-specialist-teaching-alagoas.md)
 - [Only 11.0% of primary-school science registrations in Alagoas are taught by science graduates, with more geography, history and language teachers than physicists teaching science](primary-science-classes-non-specialists-alagoas.md) — related
 - [In 2011 more mathematicians than physicists were teaching physics in Alagoas secondary schools](mathematicians-outnumber-physicists-teaching-physics.md) — related
+- [Physics has the lowest growth and student retention among all STEM subjects](physics-lowest-retention-among-stem.md) — related

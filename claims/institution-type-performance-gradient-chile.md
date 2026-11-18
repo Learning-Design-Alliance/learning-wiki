@@ -48,3 +48,4 @@ One-way ANOVA with Tamhane post hoc comparisons on the SIMCE global score of 15,
 ## Related Claims
 - [Urban, private, and larger schools tend to have higher SES and higher achievement in the Chinese sample](school-characteristics-ses-achievement-correlates-china.md) — related
 - [In grade 9 expository-text classrooms, combined strategy instruction showed no significant effect while public-school students outperformed private-school students](grade9-expository-no-treatment-public-advantage.md) — reports the opposite
+- [Candidates from the studied private high school outperformed candidates from public high schools in Kankor, but the advantage is qualified by selective admission and not all private schools perform well](private-public-high-school-kankor-performance.md) — a narrower finding that bears on this claim

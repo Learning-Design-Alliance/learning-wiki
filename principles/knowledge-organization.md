@@ -175,6 +175,7 @@ Assisted sorting, unaided rebuilding, integrative-task performance, detail recal
 - [Frame-aided writing procedure for authors of historical explanations](../strategies/frame-aided-writing-procedure.md)
 - [Teach students to use frame slot questions as a reading, studying, and self-monitoring tool](../strategies/teach-students-frame-slot-questions.md)
 - [Task Trees: hierarchical knowledge representation for task recognition and event selection](../designs/task-trees-knowledge-representation.md)
+- [Build the chart from scratch at each event so participants actively construct it and gain a hands-on sense of nuclear scales](../strategies/build-chart-from-scratch-at-each-event.md)
 
 ### Illustrative
 

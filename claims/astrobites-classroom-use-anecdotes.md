@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2012
+source_checked: 2026-11-17
 sources:
   - id: sanders-2012
     resource: "https://doi.org/10.3847/aer2012030"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r1` · `q2`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-17 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` An educator survey received responses from 4 students and 6 educators indicating they had used Astrobites in a class, with two described course anecdotes. [→ Sanders 2012](#sanders-2012)

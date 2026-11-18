@@ -48,3 +48,4 @@ Literature-based analysis in the section on eliciting feedback. The paper report
 - [Interactive dialogue with the AI tool, available only in some sites, promoted deeper engagement and student agency during revision](interactive-genai-dialogue-promotes-engagement.md) — related
 - [GenAI/LLM language ability, democratization potential, and semantic-sensor functions can serve the emancipatory vision without ever-increasing model complexity](genai-properties-serve-flourishing-vision.md) — related
 - [The OSP approach helps users overcome barriers in creating, using and scaling up meaningful ICT use in education](osp-overcomes-ict-barriers.md) — related
+- [The authors argue that immediate automated responses can help overcome international students' feelings of isolation and reduce culturally rooted misunderstandings](immediate-response-reduces-isolation-claim.md) — related

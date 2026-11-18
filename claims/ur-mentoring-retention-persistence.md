@@ -52,3 +52,4 @@ Narrative review statement in the Benefits section, attributed by the article to
 - [Faculty advisors and mentors are considered pivotal in promoting doctoral students' development as responsible and ethical researchers](faculty-mentors-pivotal-responsible-research-development.md) — related
 - [Students in three consortium districts reported positive experiences with the cross-grade mentorship program and with campus social workers](west-kern-student-climate-survey-outcomes.md) — related
 - [People and connections were the most-used learning transition supports among HSE participant-advisors](people-connections-top-transition-support.md) — related
+- [Undergraduate research participation benefits STEM students in learning retention, graduation rates, and graduate program entry](ugr-benefits-retention-graduation-graduate-entry.md) — related

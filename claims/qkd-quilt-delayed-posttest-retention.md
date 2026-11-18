@@ -74,3 +74,4 @@ Question 5, which tests whether the photon's polarization can be determined only
 - [Learning gains from the Larmor precession QuILT are retained on matched final-exam questions more than two months later](quilt-larmor-gains-retained-final-exam.md) — related
 - [QuILT work produces significant gains in correct quantum-mechanical reasoning that are retained, while classical reasoning shows no change or very small positive gain](quilt-larmor-quantum-reasoning-gains-retained.md) — a broader claim this one bears on
 - [Students retained the ability to distinguish a superposition from a mixture a full semester after working on the QuILT (8 of 9 correct)](sge-quilt-concepts-retained-semester.md) — related
+- [Undergraduates retained DPT learning six weeks after the QuILT, scoring 97.8% and 91.0% on repeated questions](quilt-retention-six-weeks-final-exam.md) — related

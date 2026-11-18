@@ -47,3 +47,4 @@ Survey knowledge item: "the majority associating it with a more summative defini
 ## Related Claims
 - [Formative purpose dominates peer assessment studies, but summative purpose is relatively frequent in ICT, engineering, and health and welfare domains](peer-assessment-formative-purpose-dominant.md) — related
 - [Students who used EVS only for summative assessment reported lower learning benefits and higher challenges than students who used it formatively or in combination](evs-summative-use-negative-impact.md) — related
+- [The TAs generally viewed grading as serving only a summative assessment purpose rather than a formative one](tas-view-grading-summative-only-not-formative.md) — related

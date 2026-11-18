@@ -48,3 +48,4 @@ Supplementary analysis of a large international dataset of standardised test sco
 - [Gender differences in both mean and variance of grades are smaller in STEM than non-STEM subjects](gender-gap-smaller-in-stem-than-non-stem.md) — related
 - [Greater gender similarity in STEM grade variability arises because girls' grades are more variable in STEM than non-STEM, while boys' variability does not differ by subject](girls-more-variable-in-stem-boys-unchanged.md) — related
 - [Simulations of the meta-analytic estimates indicate the top 10% of a STEM class contains roughly equal numbers of girls and boys, with more girls in non-STEM](simulation-top-10-percent-even-gender-ratio-stem.md) — related
+- [Gendered performance differences are small and variable in STEM lab courses, unlike their closely related lecture courses](gpd-absent-stem-labs.md) — related

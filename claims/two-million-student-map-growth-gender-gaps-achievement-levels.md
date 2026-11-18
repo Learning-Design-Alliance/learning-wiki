@@ -52,3 +52,4 @@ Second analysis described in the brief: a large-scale observational analysis of 
 - Early female-favored mean math differences reverse to male-favored differences that widen across elementary grades — related
 - [A NWEA research brief examines whether taking Algebra in 8th grade instead of 9th grade improves student outcomes](nwea-algebra-placement-8th-vs-9th-grade-outcomes-brief.md) — related
 - [The achievement divide between high and low achievers widened significantly over the last two years of the pandemic](achievement-divide-widened-significantly.md) — related
+- [First-year gender differences in physics grades favored male students among low-GPE students, but were reduced or reversed in second-year courses](first-year-physics-gender-gap-low-gpe-reverses-second-year.md) — related

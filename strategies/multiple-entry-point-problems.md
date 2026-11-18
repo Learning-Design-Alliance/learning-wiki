@@ -41,6 +41,7 @@ To encourage varied approaches, "teachers should try to present problems with mu
 - [Learner-Centric Approach](learner-centric_approach.md)
 - [Problem Solving Draw A Picture](problem_solving-draw_a_picture.md)
 - [Visualizing](visualizing.md)
+- [Provide specific instruction on drawing diagrams to increase students' use of diagrams in problem solving](specific-diagram-instruction-strategy.md)
 
 ## Examples
 -

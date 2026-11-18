@@ -49,3 +49,5 @@ Between-group comparison on the final exam: "the lab students out-performing the
 - [Students who self-selected into the optional lab course scored higher on the overall physics 2 final exam than students who did not](lab-takers-higher-overall-exam-self-selection.md) — possibly the same claim (merge candidate)
 - [Taking a stand-alone introductory electricity and magnetism lab course produced no measurable difference in normalized final exam performance on lab-related questions in physics 2](physics2-lab-no-exam-effect.md) — related
 - [The final exam multiple-choice set showed acceptable internal consistency (KR-20 = 0.63) and item-total correlations from 0.15 to 0.51](final-exam-kr20-reliability-063.md) — related
+- [Taking an optional introductory physics lab that aims to reinforce lecture content provides no measurable added value to final-exam performance on lab-related questions](instructional-labs-no-added-value-final-exams.md) — related
+- [The null lab effect persists when final-exam analysis is restricted to conceptual questions only](labs-no-conceptual-benefit-final-exams.md) — related

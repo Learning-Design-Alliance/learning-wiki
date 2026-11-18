@@ -52,3 +52,4 @@ ANCOVA on the same quasi-experiment (53 vs 53 students), pre-test as covariance,
 - [ICT-supported teaching improved pupils' attitudes toward ICT but not their attitudes toward social studies](ict-treatment-attitude-effects-split.md) — related
 - [Drama-based science teaching improved students' attitudes towards science learning compared with traditional teaching](drama-teaching-improved-attitudes-towards-science.md) — related
 - [Experimental group mean scientific literacy score of 21.3967 versus control group mean of 11.8943](experimental-mean-21-4-versus-control-11-9.md) — related
+- [Students' attitudes toward learning via ICT shifted after the activities in the first study and toward learning via social media in the second, with no shifts in the third study](attitude-shifts-social-media-ict.md) — related

@@ -44,7 +44,8 @@ The authors propose forward-looking directions: "Adding a control group would al
 - [Self-reported comfort performing basic obstetric ultrasound increased for all participant groups after the training intervention](../claims/ultrasound-training-increases-self-reported-comfort-all-groups.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Extend the fan Doppler experiment to an audible sound source, or reuse it to teach ultrasound fundamentals in medical physics](audible-doppler-variant-and-medical-physics-reuse-strategy.md)
 
 ## Examples
 -

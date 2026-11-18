@@ -50,3 +50,4 @@ Pre-post conceptual testing across four offerings of the reformed first-semester
 - [Small but significant correlations exist between students' incoming beliefs and their conceptual gains in physics courses](incoming-beliefs-correlate-conceptual-gains.md) — related
 - [The reformed modern physics course using simulations extensively showed high conceptual learning gains and no negative belief shift, in contrast to low gains and large negative belief shift in comparable unreformed courses](reformed-course-gains-beliefs.md) — related
 - [Students in Arduino-based lab sections scored unremarkably on standard physics pre/post inventories](arduino-lab-standard-inventory-scores-unremarkable.md) — related
+- [P3 students earn FMCE normalized gains of 0.60, above the 0.10-0.35 range of traditional lecture-based instruction at MSU and comparable to other transformed interactive engagement classrooms.](p3-fmce-normalized-gain-060.md) — related

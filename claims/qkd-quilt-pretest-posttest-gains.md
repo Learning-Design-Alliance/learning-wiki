@@ -53,3 +53,4 @@ In-class paired pretest/posttest analysis of 74 upper-level undergraduate quantu
 - [Upper-level undergraduates improved dramatically from pre- to post-test after working through the double-slit QuILT, with a normalized gain of 0.94](quilt-dse-undergraduate-normalized-gain-0-94.md) — related
 - [Undergraduate pre- to post-test performance rose significantly from pre-test to post-test after working through the QuILT on addition of angular momentum, in one single-group pre-post study](quilt-angular-momentum-pre-post-gains.md) — related
 - [QuILT work produces significant gains in correct quantum-mechanical reasoning that are retained, while classical reasoning shows no change or very small positive gain](quilt-larmor-quantum-reasoning-gains-retained.md) — a broader claim this one bears on
+- [The DPT QuILT significantly improved pretest-to-posttest performance for both undergraduates and graduate students](quilt-improves-dpt-prepost-scores.md) — related

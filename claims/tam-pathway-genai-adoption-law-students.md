@@ -75,3 +75,4 @@ Variance-explained and fit indices from the same SEM; R2 values are variance exp
 - [Perceived ease of use was the strongest predictor of both perceived usefulness (β = 1.02) and behavioral intention to use 3D Organon (β = 1.01)](ease-of-use-strongest-predictor-usefulness-intention.md) — related
 - [TAME-ChatGPT construct scores indicated a generally positive attitude towards ChatGPT and its use in the study sample](tame-chatgpt-positive-attitude-descriptive.md) — related
 - [Perceived usefulness of Zoom is strongly positively correlated with students' attitude toward it and their behavioral intention to use it in language learning](pu-strongly-correlated-attitude-behavioral-intention-zoom.md) — related
+- [Attitude and enjoyment are the most important factors influencing students' usage intention of online mathematical assessments, while perceived usefulness has no direct effect on intention](attitude-enjoyment-predict-usage-intention-maths-eassessment.md) — related

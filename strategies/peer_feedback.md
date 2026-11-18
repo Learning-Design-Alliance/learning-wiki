@@ -63,6 +63,7 @@ Peer feedback works because it doubles the learning opportunity: receivers get t
 - [Collaborative Learning](../patterns/collaborative-learning.md) — peer feedback structures the critique phase of group work
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — peer critique plays the role expert critique plays in the coaching phase
 - [Peer feedback against success criteria: students locate where peers are in their learning and give actionable clues, hints, suggestions, or wonderings](peer-feedback-against-success-criteria.md)
+- [Evaluate notebooks holistically on interpretability rather than format, using peer feedback, oral quizzes, or a reproduction practicum](authentic-notebook-evaluation-methods.md)
 
 ## Examples
 - **[Calibrated Peer Review](calibrated_peer_review.md) (CPR)** — students first calibrate their ratings against expert-scored samples, then review peers' essays; calibration gates access to the review stage. https://cpr.molsci.ucla.edu

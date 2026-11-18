@@ -25,7 +25,7 @@ sources:
 # Boundary Crossing Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 4 studies (3 qualitative, 1 theoretical), `q1`–`q3` · 1 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 5 studies (4 qualitative, 1 theoretical), `q1`–`q3` · 1 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 Boundary crossing ([Akkerman & Bakker, 2011](https://doi.org/10.3102/0034654311404435); [Akkerman & Bruining, 2016](https://doi.org/10.1080/10508406.2016.1147448)) explains learning that happens specifically at points of sociocultural discontinuity — where practices, institutions, or roles differ enough that moving between them requires real interpretive work, not just information transfer. It operates through four dialogical mechanisms: **identification** (articulating how the practices differ and what each one is), **coordination** (finding enough mutual, working common ground to cooperate despite the differences), **reflection** (adopting another practice's perspective on one's own), and **transformation** (hybridizing elements of both practices into something new). These mechanisms can operate at three nested levels: **institutional** (between organizations, e.g., a school and a research lab), **interpersonal** (between individuals or groups, e.g., a domain expert and novices), and **intrapersonal** (within one person inhabiting multiple roles at once, e.g., a teacher who is simultaneously an authority figure and a co-learner).
@@ -53,6 +53,7 @@ A related, complementary construct is the **boundary object** (Star & Griesemer,
 - [Course-based research experience boundary objects support disciplinary integration and authentic research networks](../claims/course-based-research-experience-boundary-objects-support-disciplinary-integration-and-authentic-research-networks.md) [+M]
 - [Boundary-crossing mechanisms unfold sequentially across levels, and broker centrality creates an involvement paradox](../claims/boundary-crossing-mechanisms-unfold-sequentially-and-brokers-face-an-involvement-paradox.md) [+M]
 - [Introducing SBE as a third learning site may increase the theory-practice split for student nurses](../claims/sbe-may-increase-theory-practice-split.md) [~W] — attached 2026-11-05 from Allan et al. (2026), which proposed "Recontextualisation theory: knowledge is reworked across contexts of learning and practice".
+- [Open source code fragments function as boundary objects between designers' and visitors' figured worlds](../claims/code-as-boundary-object-designer-visitor-figured-worlds.md) [+W] — attached 2026-11-17 from Pratim Sengupta et al. (2016), which proposed "Figured worlds and boundary work/play as a framework for public STEM learning".
 
 ## Related Theories
 - [Cultural-Historical Activity Theory](cultural-historical-activity-theory.md) — CHAT's boundary object concept is one of the sources boundary crossing draws on; CHAT emphasizes activity-system structure, while boundary crossing foregrounds the interpretive mechanisms (identification/coordination/reflection/transformation) of the crossing itself
@@ -68,6 +69,7 @@ A related, complementary construct is the **boundary object** (Star & Griesemer,
 - [Broker Position Circulation](../strategies/broker-position-circulation.md) — deliberately transferring a bridging role to a successor to counter the broker involvement paradox
 - [Deliberately bridge student experience data work across tools, initiatives, and partner organizations](../strategies/bridge-student-experience-data-across-initiatives.md)
 - [Address the usage gap through learning design that crosses boundaries between academic, personal lifestyle and professional spheres](../strategies/boundary-crossing-learning-design-for-usage-gap.md)
+- [Teachers use the ADD to locate students' discernment level and craft teaching that supports crossing category boundaries](../strategies/add-boundary-crossing-teaching.md)
 
 ## Key Sources
 - Liukkonen, P., Vartiainen, H., Pöllänen, S., & Kokko, S. (2023). Interacting with nature in and through boundary crossing learning: A case of bioart-making. *Journal of the Learning Sciences, 32*(4-5), 534-572. [https://doi.org/10.1080/10508406.2023.2263845](https://doi.org/10.1080/10508406.2023.2263845)

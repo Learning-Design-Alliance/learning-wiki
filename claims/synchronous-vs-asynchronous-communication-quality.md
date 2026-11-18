@@ -72,3 +72,4 @@ Mann-Whitney tests on CLIWC-coded message content: social and cognitive process 
 - [Social support features were prevalent in the reviewed Web-based substance use interventions](social-support-prevalence-encouraging.md) — related
 - [Synchronous online forum discussion produces no statistically significant difference in lexical density compared with asynchronous blog writing](ofd-blog-no-difference-lexical-density.md) — related
 - [Synchronous online forum discussion produces no statistically significant difference in syntactic complexity compared with asynchronous blog writing, though the OFD mean was slightly higher](ofd-blog-no-difference-syntactic-complexity.md) — related
+- [Adding synchronous communication to asynchronous online courses is associated with greater social presence and, in some contexts, improved learning outcomes](synchronous-communication-social-presence-online.md) — related
