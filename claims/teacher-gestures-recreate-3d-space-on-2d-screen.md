@@ -49,3 +49,4 @@ From the analysis of Excerpt 2, seven interactional sequences of a teacher super
 - [VET teachers use the real machine as the benchmark of legitimacy for simulator instruction and shift between teacher and future-colleague positions.](real-machine-benchmark-and-colleague-positioning.md) — related
 - [Collaborative speech strongly co-occurs with actions on virtual objects and virtual hand gestures in shared VR geometry tasks](speech-co-occurs-with-actions-and-gestures-shared-vr.md) — related
 - [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) — related
+- [Students have great difficulty extrapolating three dimensions from one- and two-dimensional astronomical representations](difficulty-extrapolating-3d-from-2d-astronomy-representations.md) — related

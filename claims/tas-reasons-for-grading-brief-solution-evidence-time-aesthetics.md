@@ -66,3 +66,6 @@ Reasons coding for the same grading task: 'In the homework context, a larger num
 ## Related Claims
 - [The authors propose that TAs' belief-practice gap arises because research-recommended solution features conflict with values of engagement, standards, time, and grading](ta-belief-practice-gap-competing-values.md) — a broader claim this one bears on
 - [TAs' quiz-versus-homework grading differences may stem from their consideration of evidence of thought processes, quiz time limitations, or a preference for brief, condensed solutions](ta-grading-reasons-evidence-time-aesthetics.md) — possibly the same claim (merge candidate)
+- [Grader disagreement was highest for the brief introductory physics solution SSE, with a score standard deviation of 2.71](highest-grading-disagreement-brief-intro-solution-sse.md) — related
+- [When grading with the rubric, over half of TAs credited the brief solution with invoking and justifying useful principles even though the solution contained no explicit invoking or justifying](tas-credited-explication-without-evidence.md) — related
+- [TAs who judged the intro physics problems easy often inferred correct understanding in the brief intro solution even when the solution showed no evidence of it](tas-inferred-understanding-brief-intro-solution-without-evidence.md) — related

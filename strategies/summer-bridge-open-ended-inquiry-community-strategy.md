@@ -48,6 +48,7 @@ The article's founders chose to intervene "over the summer between the students'
 
 - Compass Project Berkeley Program
 - [Use a Freshman Interest Group (FIG) model learning community as a resource-parsimonious retention intervention](fig-model-learning-community-undecided.md)
+- [Support female students' self-efficacy at their entry point into physics education in high school or college](support-female-self-efficacy-physics-entry-point.md)
 
 ## Examples
 -

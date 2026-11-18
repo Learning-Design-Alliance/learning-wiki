@@ -48,6 +48,7 @@ The article recommends activities outside the classroom as a strategy for foster
 - [Encourage activities that support positive peer relationships through direct connections, clubs, and sports](peer-relationship-activities-for-wellbeing.md)
 - [Use equity-oriented extracurricular clubs as spaces for sustained peer dialogue on urgent civic issues](gsa-dialogue-space-civic-issues-strategy.md)
 - [Structure disability awareness programs to include extensive personal contact, joint participation, equal status, and cooperative interdependence](structure-interaction-equal-status-cooperative-interdependence.md)
+- [Structure out-of-school astronomy like a sports league: easy entry, escalating challenge, and high-level club experiences](gelderman-astronomy-progression-strategy.md)
 
 ## Examples
 -

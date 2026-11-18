@@ -71,3 +71,4 @@ Learning-strategy level results from the same laboratory study: guided-invention
 - [Pre-service teachers preparing with a worked example outperform inventing peers on transfer of learning-strategy assessment skills](worked-example-preparation-higher-transfer-than-inventing.md) — related
 - [The inventing group showed more metacognitive regulation during future learning, contrary to hypothesis, without benefiting transfer](inventing-group-more-metacognitive-regulation.md) — related
 - [Worked-example preparation leads to more application of canonical criteria during future learning, which mediates higher transfer](canonical-criteria-application-mediates-transfer-advantage.md) — related
+- [Third-grade students' criteria for a good measurement shifted from socially defined (class vote) to sociomathematically defined (mathematical accuracy) after the heel-to-toe convention failed](step-size-norm-social-to-sociomathematical-shift.md) — related

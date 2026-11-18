@@ -50,3 +50,4 @@ Authors' interpretation of their CUE findings: OSU students meet separation of v
 - [OSU students scored on average 36.5±2.4% on the CUE post-test, lower than the 47.8±1.9% reported at CU](osu-cue-post-test-mean-lower-than-cu.md) — related
 - [The overall per-question CUE score pattern is similar across OSU's radically reformed curriculum and CU's curriculum](cue-score-pattern-similar-across-curricula.md) — related
 - [CU students rarely used a potential approach on the CUE superposition question, while OSU students — whose curriculum introduces potential before field — did so more often](potential-approach-osu-vs-cu.md) — related
+- [Separated partial derivative terms in the TDSE cue students to group each side by variable, but not all students know separability is required](tdse-cues-grouping-separability-awareness.md) — related

@@ -70,3 +70,4 @@ Cluster-level analysis of the worksheet data: for problem description and evalua
 - [Many more TAs mentioned problem-description and explication features than graded on them](tas-mention-explication-features-more-than-grade-on-them.md) — related
 - [TAs notice few of the example-solution features that the literature identifies as supportive of expert-like problem solving](tas-notice-few-research-recommended-solution-features.md) — related
 - [The solution-checking feature (F14) is underrated or ignored by most TAs: only 4 noticed it and none performed an answer check in their own solutions](tas-underrate-solution-checking-feature.md) — related
+- [TAs saw the CA-inspired rubric as promoting good problem-solving practices and fair grading, but over half found it too constraining](tas-stated-pros-cons-of-ca-rubric.md) — related

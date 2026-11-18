@@ -69,3 +69,4 @@ Survey item (Figure 1): graduate students were far less likely to see structural
 - [Some AAPS responses are counter-intuitive and require careful interpretation: graduate students can match introductory students superficially, and faculty can appear less favorable due to automaticity](aaps-counterintuitive-responses-careful-interpretation.md) — related
 - [Graduate students show less expert-like attitudes and approaches for graduate-level problem solving than for introductory-level problem solving](grad-students-less-expertlike-graduate-level-problems.md) — related
 - [Students and faculty alike report a general lack of reflection after solving physics problems](lack-of-reflection-after-problem-solving.md) — related
+- [On the AAPS survey, faculty respond more expert-like than Ph.D. students, who respond more expert-like than introductory students, with large effect sizes](aaps-expertise-gradient-effect-sizes.md) — related

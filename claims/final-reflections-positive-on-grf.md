@@ -48,3 +48,4 @@ Analysis of the tenth-week final reflections, which were not guided by GRF promp
 - [The Guided Reflection Form elicited narrative, growth, and action statements in nearly all student reflections](grf-elicits-narrative-growth-action-statements.md) — related
 - [A personal utility prompt in journal writing improves learning motivation and comprehension](personal-utility-prompt-motivation-comprehension.md) — related
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
+- [Student completion of weekly GRF reflections was high, with an 88% submission rate across both sections](grf-high-completion-rate-88-percent.md) — related

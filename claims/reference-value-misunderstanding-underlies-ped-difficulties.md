@@ -51,3 +51,4 @@ Authors' interpretation of the response patterns across the questions and format
 - [Students tend to associate a particle's motion with only the total energy and misapply conservation of energy when comparing potential energy diagrams](students-associate-motion-with-total-energy-only.md) — related
 - [Students fail to coordinate the multiple, ontologically conflicting descriptions embedded in physicists' language, which may produce patterns interpreted as misconceptions](students-fail-to-coordinate-conflicting-descriptions.md) — related
 - [Many introductory students believe potential energy diagrams represent motion only in the positive x-direction](students-associate-ped-with-single-direction-motion.md) — related
+- [The authors hypothesize that dynamically displayed, resizing energy formulas facilitate explicit understanding and strengthen ties to analytical problem solving](hypothesis-dynamic-font-size-facilitates-explicit-understanding.md) — related

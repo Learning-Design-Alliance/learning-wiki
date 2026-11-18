@@ -48,3 +48,4 @@ Descriptive observation from the eight-week teaching episodes reported in Result
 - [Integrating spelling games with visualisation strategies can re-motivate students when performance dips mid-intervention.](spelling-games-reinforce-visualisation-strategies.md) — related
 - [Pre-service clinical teachers who viewed videotapes of their teaching with guided feedback provided more total feedback to students than teachers in a seminar-only group and a control group across eight teaching episodes](video-review-guided-feedback-increases-clinical-teacher-feedback.md) — related
 - [Feedback provision shows a primacy effect in busy ED settings: assessors tend to complete only the first or second feedback component](mini-cex-feedback-primacy-effect.md) — related
+- [Gains from ICT to GCT grew each week for the first five weeks of the course, with a dip in week 6](qm-clicker-gains-learning-curve-five-weeks.md) — related

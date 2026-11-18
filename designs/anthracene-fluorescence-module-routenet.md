@@ -42,7 +42,8 @@ A downloadable module for 17-year-old secondary students, published for use in R
 - [Fluorescence Module Engaging But Difficult](../claims/fluorescence-module-engaging-but-difficult.md) [+W]
 
 ## Related Designs
-- 
+
+- [Escaramujo cosmic ray detector: plastic scintillator plates read out by SiPMs with a QuarkNet DAQ card and Raspberry Pi](escaramujo-cosmic-ray-detector.md)
 
 ## Examples
 -

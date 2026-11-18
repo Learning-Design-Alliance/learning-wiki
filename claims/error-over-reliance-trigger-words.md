@@ -49,3 +49,4 @@ Table 1 reports incorrect responses to Example 4 among the 1417 students: gout a
 - [VSAQs are answered incorrectly more often than MCQs on practice tests, indicating lower initial retrieval success](vsaq-lower-initial-retrieval-success.md) — a broader claim this one bears on
 - [At item level, correct answers improved for 43 of 46 knowledge items after the e-learning program, while three negatively worded items decreased and three items remained mostly answered incorrectly](delirium-knowledge-item-level-prepost-changes.md) — related
 - [Lack of specificity of radiology requesting was the predominant error on the neck lump question, answered incorrectly by 53.4% of students](error-radiology-requesting-specificity.md) — related
+- [The author interprets common incorrect answers on altered-procedure questions as reflecting remembered rules of thumb rather than sense-making](heuristic-answers-ap-questions-interpretation.md) — related

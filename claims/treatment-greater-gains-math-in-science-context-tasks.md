@@ -49,3 +49,4 @@ A delayed-treatment quasi-experiment in which teachers taught GC/CoV-rich or GC/
 - [The two teacher groups did not differ on released-math tasks; both groups made pretest-to-posttest gains, suggesting math-in-science-context tasks better capture OpenSciEd math reasoning](released-math-tasks-no-group-difference.md) — related
 - [Many teachers' knowledge of students' GC and CoV increased in sophistication over the school year, and teachers reported the professional learning and just-in-time supports were helpful](teacher-knowledge-and-pl-supports-grew.md) — related
 - [Teachers addressed graph comprehension consistently at high levels across observed lessons, while covariational reasoning enactment varied widely by lesson](gc-consistent-cov-varied-across-lessons.md) — related
+- [Grapher students who reason in a variable-focused way about graphs show the highest gains of all](variable-focused-graph-framing-highest-gains.md) — related

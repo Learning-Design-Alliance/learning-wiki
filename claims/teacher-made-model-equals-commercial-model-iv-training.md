@@ -70,3 +70,4 @@ Comparing groups formed from intact classes (analysed as individual students), i
 - [Skills laboratory training of IV cannulation yields better video-assessed clinical performance than bedside teaching in first-year medical students](skills-lab-iv-cannulation-transfer-superior-video-ratings.md) — related
 - [An intravenous injection VR simulator program improved nursing students' knowledge, acceptance, and motivation](ivr-injection-vr-simulator-nursing-knowledge.md) — related
 - [Trainees' self-efficacy for IV catheter insertion increased significantly after skills-lab training using the modified Peyton's Approach for small groups](modified-peyton-small-group-self-efficacy-gain.md) — related
+- [A practical exam assessing experimental skills yields usually good scores for first-year students](practical-exam-good-scores-first-year-optics.md) — related

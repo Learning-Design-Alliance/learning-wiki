@@ -51,6 +51,8 @@ The article recommends that instructors use the framework diagnostically during 
 ## Related Strategies
 
 - [Create instructional environments that trigger and stabilize the productive aspects of students' existing epistemological views rather than confronting and replacing problematic beliefs](trigger-stabilize-productive-epistemological-stances.md)
+- [Attend to students' epistemic frames during problem solving and deliberately shift or follow them to keep students productive](attend-to-and-shift-student-frames-strategy.md)
+- [Instructors use framing-based insights to devise strategic plans for in-class group work that promote productive framing and student-induced frame shifts](strategic-in-class-group-work-productive-framing.md)
 
 ## Examples
 -

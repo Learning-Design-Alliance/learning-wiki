@@ -52,6 +52,7 @@ Before class, students complete a short ungraded quiz that gates access to the w
 - [Use seminar quizzes as low-stakes formative tools for readiness, feedback and identifying struggling students](seminar-quiz-formative-feedback-strategy.md)
 - [Pair automated online problem-set quizzes with lectures, with rapid scored feedback and immediate posting of solutions](automated-online-quiz-rapid-feedback-strategy.md)
 - [Assign pre-class draft answers with attempt credit to ensure preparation for in-class problem solving](attempt-credit-flipped-classroom-preparation.md)
+- [Use a compulsory but ungraded quiz to verify student familiarity with orientation material](compulsory-ungraded-orientation-quiz.md)
 
 ## Examples
 -

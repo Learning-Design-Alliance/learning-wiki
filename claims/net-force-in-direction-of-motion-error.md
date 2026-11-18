@@ -51,3 +51,5 @@ Coded transcript statements from the elevator problem in the think-aloud study; 
 - [Most common student responses on the Force Sled cluster match the force-proportional-to-velocity model](force-sled-common-responses-f-proportional-v.md) — related
 - [On the moving elevator problem, more traditional students selected the correct answer (60%) than M&I students (43%), a non-significant reversed distribution](elevator-problem-reversed-response-distribution.md) — related
 - [Students are not blank slates: naive conceptions from everyday experience can interfere with physics learning, so instructors should assess initial knowledge and build on it](prior-knowledge-naive-conceptions-physics.md) — a broader claim this one bears on
+- [A majority of students do not develop a Newtonian view of force and motion after traditional instruction](majority-no-newtonian-view-traditional-instruction.md) — related
+- [The 'motion implies force' preconception — confusion between velocity and net force — is pervasive among students even after instruction](motion-implies-force-preconception.md) — a broader claim this one bears on

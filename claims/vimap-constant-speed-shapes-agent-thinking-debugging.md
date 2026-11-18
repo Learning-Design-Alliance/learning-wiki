@@ -47,3 +47,4 @@ Qualitative observations from two studies: Study 1 with fourteen 3rd-4th grade c
 ## Related Claims
 - [Iterative validation of ViMAP models against a real-world ramp scenario teaches students initial conditions and model refinement](vimap-phase2-model-validation-initial-conditions.md) — related
 - [Acceleration-based spiral activities help learners articulate continuous change as repeated discrete increments of step size](vimap-acceleration-spirals-continuous-change.md) — related
+- [Elementary students using ViMAP agent-based programming with graphing can begin to understand motion as continuous change](vimap-agent-programming-continuous-change.md) — related

@@ -54,3 +54,4 @@ Qualitative multiple-case study comparing three groups of preservice science tea
 - [Strategy variety for drawing attention was higher in the no-instruction and peer tutoring groups, while frequency was higher in the instruction groups](drawing-attention-variety-no-instruction-peer-tutoring.md) — related
 - [Metacognitive strategies and products of metacognitive processes were more diverse and frequent in reading strategy instruction groups than in the no-instruction group](strategy-instruction-increases-metacognitive-strategy-use.md) — related
 - [Observation-group nurses most frequently used cognitive strategies, then metacognitive, then social/emotional strategies during think-aloud case reporting](ta-reporting-learning-strategy-distribution.md) — related
+- [Discrepant output episodes yielded the largest diversity of metacognitive and transactive moves and the highest frequency of clusters across groups](discrepant-output-episodes-richest-smm.md) — related

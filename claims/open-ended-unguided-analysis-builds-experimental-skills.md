@@ -47,3 +47,5 @@ Authors' qualitative assessment of the second, relatively unguided lab component
 ## Related Claims
 - [Students most strongly felt like data scientists during the open-ended final project, supporting disciplinary authenticity](final-project-felt-like-data-scientist.md) — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
+- [Student-reported vector-learning gains from the programming exercise are mixed, which the authors read as a gauge of how connected the activity feels to course material](mixed-vector-learning-gains-programming-lab.md) — related
+- [Physics graduate students in experimental research groups broadly agree on the purpose of the lab notebook as a record of experimental progress that supports sense-making, future planning, publication, and communication](notebook-purpose-researcher-consensus.md) — related

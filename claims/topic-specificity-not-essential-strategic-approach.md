@@ -50,3 +50,4 @@ Hierarchical regression with strategy score as outcome (N=272). Modules 3 and 4 
 - [Completing the topic-specific reflection module on angular momentum yielded a larger effect on strategic approach than completing other modules alone](topic-specific-module-larger-strategy-effect.md) — reports the opposite
 - [Completion of the angular momentum reflection module is the first significant predictor of conceptual understanding of the related exam problem](angular-momentum-module-first-predictor-conceptual-understanding.md) — related
 - [Frequent use of reflective prompts related to better strategic problem-solving and conceptual understanding](reflective-prompts-frequency-problem-solving.md) — related
+- [Problem modifiers scored about 90% versus about 58% for the rest of the class on Angular Momentum final-exam problems](angular-momentum-modders-versus-class.md) — related

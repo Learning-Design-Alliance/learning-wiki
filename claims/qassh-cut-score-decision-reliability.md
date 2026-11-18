@@ -48,3 +48,4 @@ Testing-consequences validity analysis using the criterion-referenced coefficien
 ## Related Claims
 - [The QASSH shows very high reliability (absolute G coefficients ≥0.96) for assessing scenario quality across immersive simulation, procedural simulation and simulated participants](qassh-high-g-coefficients-three-variants.md) — possibly the same claim (merge candidate)
 - [DC estimates tend to be lowest when the cut score is set at the peak of the score distribution, where inconsistent decisions are most likely](dc-lowest-at-score-distribution-peak.md) — related
+- [Standard errors of measurement show precision insufficient for most decisions: SEM Δ for SCI is about 0.35 (95% CI ±0.70), making criterion-referenced SCI decisions very difficult to defend](sem-shows-insufficient-precision-fasci.md) — related

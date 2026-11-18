@@ -46,3 +46,4 @@ Recommended procedure in the New Recommendation section: students read options f
 
 ## Related Claims
 - [Some LLMs exhibit a selection bias against selecting option D on multiple-choice pedagogy questions](llm-selection-bias-against-option-d.md) — related
+- [The author interprets common incorrect answers on altered-procedure questions as reflecting remembered rules of thumb rather than sense-making](heuristic-answers-ap-questions-interpretation.md) — related

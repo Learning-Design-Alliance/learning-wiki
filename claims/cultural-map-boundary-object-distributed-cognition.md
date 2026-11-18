@@ -49,3 +49,5 @@ RQ3 qualitative analysis applying Star and Griesemer's boundary-object concept t
 - [Co-design dialogue with museum educators revealed an unmet need for digital infrastructure, which students addressed with a bilingual cultural map extending the museum's spatial storytelling](museum-codesign-revealed-digital-infrastructure-need.md) — related
 - [Course-based research experience boundary objects support disciplinary integration and authentic research networks](course-based-research-experience-boundary-objects-support-disciplinary-integration-and-authentic-research-networks.md) — a broader claim this one bears on
 - [Boundary spanning perceptions and actions are critical mechanisms for productive divergent collaboration](bsp-bsa-critical-mechanisms-divergent-collaboration.md) — related
+- [Open source code fragments function as boundary objects between designers' and visitors' figured worlds](code-as-boundary-object-designer-visitor-figured-worlds.md) — related
+- [In a public computation space, visitors appropriate designers' code, producing figured worlds dissonant from the designers' intent](visitor-appropriation-of-code-dissonant-figured-worlds.md) — related

@@ -12,7 +12,7 @@ generated:
 # Goal Orientation Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 68 claims (50 for, 18 mixed) · 34 studies (20 associational, 6 causal, 3 quant-synthesis, 3 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 34 report an effect size · 68 claims rest on one study
+> **Evidence** · 69 claims (50 for, 19 mixed) · 35 studies (21 associational, 6 causal, 3 quant-synthesis, 3 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 35 report an effect size · 69 claims rest on one study
 
 ## Description
 Goal setting is itself a key motivational process (Locke & Latham, 1984, 2006) — the goals learners choose, and how committed they are to attaining them, shape motivation to learn (Wentzel, 2000). But beyond goal *content* (what a learner wants to achieve), goal orientation theory argues that the *reason* a learner pursues a goal has its own independent effect on learning and performance, explaining differences in how individuals approach and respond to achievement situations (Ames & Archer, 1988; Meece, Anderman, & Anderman, 2006).
@@ -129,6 +129,7 @@ Because mastery-approach goals reliably support the more sustained, thoughtful l
 - [Mastery goal orientation is positively associated with perceived psychosocial abilities among first-year medical students](../claims/mastery-goals-associated-with-perceived-psychosocial-abilities.md) [+W] — attached 2026-11-10 from Madjar Nir et al. (2012), which proposed "Goal orientation theory: motivation defined by mastery, performance-approach and performance-avoidance goals".
 - [Mastery goal orientation is negatively associated with low frustration tolerance among medical students](../claims/mastery-goals-negatively-associated-with-low-frustration-tolerance.md) [+W] — attached 2026-11-10 from Madjar Nir et al. (2012), which proposed "Goal orientation theory: motivation defined by mastery, performance-approach and performance-avoidance goals".
 - [Performance-approach goal orientation predicts low frustration tolerance among medical students, while performance-avoidance adds little](../claims/performance-approach-goals-predict-low-frustration-tolerance.md) [~W] — attached 2026-11-10 from Madjar Nir et al. (2012), which proposed "Goal orientation theory: motivation defined by mastery, performance-approach and performance-avoidance goals".
+- [Overall epistemic game frequency showed only a small effect of learning orientation or group dynamic in the F15 class](../claims/small-effect-orientation-dynamic-game-frequency.md) [~W] — attached 2026-11-17 from Andrew J. Mason et al. (2015), which proposed "Three learning orientations toward the group problem solving exercise"; tests this page's relationship.
 
 ## The evidence by question
 

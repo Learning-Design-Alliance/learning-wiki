@@ -71,3 +71,5 @@ The article reports (Section V.B) Coletta et al. (2005)'s four interactive-engag
 - [IRT fairly well predicts observed gains and losses on the FCI as functions of pre-test score](irt-predicts-fci-gains-losses.md) — related
 - [Institutional type (Carnegie classification) does not affect normalized gain after controlling for teaching method and test](carnegie-type-no-effect-on-gain.md) — related
 - [Class-average pre-test score and institutional SAT score do not correlate with normalized gain after correcting for test and teaching method](pretest-and-sat-no-gain-correlation.md) — related
+- [Normalized gain g is positively biased in favor of populations with higher pretest scores](normalized-gain-biased-favoring-high-pretest-populations.md) — related
+- [The three methods for calculating normalized gain are highly correlated (r ≥ 0.93)](three-normalized-gain-methods-highly-correlated.md) — related

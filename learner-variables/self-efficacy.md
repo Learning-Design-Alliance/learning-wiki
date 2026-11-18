@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 360 claims (272 show a difference, 47 mixed, 41 no difference) · 285 studies (95 causal, 91 associational, 33 review, 28 qualitative, 19 design, 10 quant-synthesis, 8 theoretical), `q1`–`q4` · 58 of 285 report an effect size · 356 claims rest on one study
+> **Evidence** · 361 claims (273 show a difference, 47 mixed, 41 no difference) · 286 studies (95 causal, 92 associational, 33 review, 28 qualitative, 19 design, 10 quant-synthesis, 8 theoretical), `q1`–`q4` · 58 of 286 report an effect size · 357 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -391,6 +391,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Medical students' self-perceived competence in EBM correlates poorly with objectively measured EBM competence in the searching domain (r = 0.13, p = 0.4)](../claims/poor-correlation-self-perceived-objective-ebm-searching.md) [-W] — learners who differ on it differ in outcomes
 - [Pre-service teachers' science teaching efficacy beliefs improved on most STEBI items after instruction in LA-supported classes](../claims/stebi-gains-students-la-classes.md) [+M] — measured as an outcome of the instruction studied
 - [Self-confidence and self-efficacy are reported as the most significant and powerful influences on persistence with a subject](../claims/affect-self-efficacy-persistence.md) [+W] — learners who differ on it differ in outcomes
+- [The large gender difference in self-efficacy states occurs in physics and only in physics, across both high school and university settings, indicating physics instruction systemically harms female students' physics self-efficacy.](../claims/physics-instruction-systemically-harms-female-self-efficacy.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

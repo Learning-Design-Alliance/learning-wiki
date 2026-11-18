@@ -69,3 +69,4 @@ The authors' conclusion from this comparability check: "the CG group to be at le
 - [Grades in the calculus-based physics course correlate 0.75 with upper-division Physics GPA, with slightly higher grades in 25X](phys-25x-upper-division-correlation-075.md) — related
 - [Tutorial-cohort students earn marginally but not significantly higher upper-division course grades than non-Tutorial peers](tutorial-cohort-upper-division-grades.md) — related
 - [Students whose composite preparation-goals-motivation (PGM) score falls below the instruction threshold struggle in traditionally taught physics courses](pgm-threshold-traditional-instruction-struggle.md) — related
+- [Teachers qualitatively observed better retained experimental skills two to three years after the experiment-centered course, compared with students from classical tracks](qualitative-long-term-retention-experimental-skills.md) — related

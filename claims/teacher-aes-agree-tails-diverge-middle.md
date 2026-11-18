@@ -75,3 +75,4 @@ Teachers' interpretation of the Organization distribution (Figure 4): AES reads 
 - [Students perceive AI scoring as accurate for grammar, mechanics, and organization but skeptical of its ability to evaluate diverse styles, complex writing, tone, and emotion](ai-scoring-perceptions-lower-vs-higher-order.md) — related
 - [The GED essay is scored holistically on a six-point scale by two independent readers](ged-essay-holistic-six-point-two-readers.md) — related
 - [The LLM judge agrees with human annotators at 87.7% (κ = 0.842) on consensus pairs, but severity-rating agreement is uneven and medium-tier boundaries are uncertain](judge-calibration-labels-strong-severity-uneven.md) — related
+- [Schools whose teachers scored higher on MAST rubrics of adaptive-expert strategies showed larger student CST mathematics gains than low-rubric schools](mast-rubric-scores-track-student-gains.md) — related

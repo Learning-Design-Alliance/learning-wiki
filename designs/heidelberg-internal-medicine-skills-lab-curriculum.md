@@ -40,7 +40,8 @@ The interdisciplinary longitudinal skills-lab curriculum at Heidelberg embeds in
 - 
 
 ## Related Designs
-- 
+
+- [Allocate skills-lab staff and material capacity to OSCE-relevant sessions at the end of term and reduce advanced-session offerings late in the term](end-of-term-capacity-osce-relevant-sessions.md)
 
 ## Examples
 -

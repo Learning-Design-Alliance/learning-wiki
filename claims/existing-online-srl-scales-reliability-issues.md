@@ -65,3 +65,4 @@ The authors' review of Cronbach's alpha for relevant scales of existing online S
 - [Cronbach's alpha is below 0.7 for every competency scale, which the authors attribute to the heterogeneity of SJT domains](sjt-cronbach-alpha-below-07-per-competency.md) — related
 - [The EBMQ shows strong internal consistency, with overall Cronbach's alpha of 0.909](ebmq-internal-consistency-alpha-0909.md) — related
 - [CCMI Cronbach's alpha of 0.77 falls just below the 0.80 low-stakes cutoff, but is argued to underestimate true internal consistency](ccmi-cronbach-alpha-internal-consistency.md) — related
+- [Cronbach's alpha for FASCI scores (FA 0.62, SCI 0.51) falls well below the 0.80 target for an open-ended scenario-based instrument](fasci-cronbach-alpha-below-target.md) — related

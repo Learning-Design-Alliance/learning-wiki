@@ -53,3 +53,4 @@ Null finding from the study's structural equation model in 139 at-risk fourth gr
 - [Language, in addition to processing speed and attentive behavior, significantly predicts fraction calculations in at-risk fourth graders](language-predicts-fraction-calculations.md) — related
 - [Whole-number and fraction calculations fit a two-factor structure significantly better than a one-factor model](two-factor-calculation-structure-better-fit.md) — related
 - [Domain-general abilities moderate fraction intervention effects but whole-number calculation skill does not](domain-general-abilities-moderate-fraction-intervention-effects.md) — related
+- [Arithmetic and algebra fundamentals must be over-learned to automaticity for well-structured science problem solving, and calculator-free computational fluency predicts general chemistry success](computation-automaticity-overlearning-required-science-problem-solving.md) — related

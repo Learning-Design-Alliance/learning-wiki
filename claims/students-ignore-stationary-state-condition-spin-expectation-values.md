@@ -59,3 +59,5 @@ Spin-1/2 questions 3 and 4 in a uniform magnetic field, answered by the 39 gradu
 - [Upper-level students' scores on time-dependence of expectation values improve significantly after working on the Larmor precession QuILT](quilt-larmor-precession-pre-post-improvement.md) — related
 - [Upper-level students hold specific difficulties with commutators, stationary states, and eigenstates of non-energy operators in Larmor precession contexts](student-difficulties-time-dependence-expectation-values.md) — related
 - [Students incorrectly believe the wavefunction returns to its initial state after measurement and struggle with time development after measurement](wavefunction-time-evolution-after-measurement-difficulties.md) — related
+- [Teaching of complex quantum behavior — time dependence, superposition, and the measurement problem — is barely investigated at the secondary and lower undergraduate level](complex-quantum-behavior-barely-investigated.md) — related
+- [Very few advanced students reason conceptually about expectation values, and many prefer plug-and-chug methods over conceptual approaches](few-students-reason-conceptually-expectation-value.md) — related

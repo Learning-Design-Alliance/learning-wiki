@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2016
+source_checked: 2026-11-17
 sources:
   - id: m-zingale-2016
     resource: "https://doi.org/10.48550/arXiv.1606.02242"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Computational skills and critical thinking are among the most transferable job skills from astronomy education, and are skills employers consistently seek. [→ M. Zingale 2016](#m-zingale-2016)

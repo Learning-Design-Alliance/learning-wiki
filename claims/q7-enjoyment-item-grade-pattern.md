@@ -70,3 +70,4 @@ In the BFY labs, "the fraction of students with favorable responses was highest 
 - [Favorable responses to the confirmatory-purpose E-CLASS item fluctuate little with grade in the first-year lab but show a downward trend in the BFY labs](q16-favorable-responses-grade-trend.md) — related
 - [E-CLASS scores correlate weakly with final course grade overall, with a significant but still weak correlation in beyond-first-year labs](eclass-convergent-validity-grades.md) — related
 - [Overall E-CLASS score shows no statistically significant correlation with final course grade across all lab courses (r = 0.05)](overall-grade-eclass-correlation-null.md) — related
+- [Non-physics-major students enjoyed the cycloid experiment](non-physics-majors-enjoyed-cycloid-experiment.md) — related

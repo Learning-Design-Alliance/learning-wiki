@@ -46,6 +46,7 @@ In the advanced version, after a player finds a four-card combination matching a
 
 - [Represent Higgs decay modes as four-card lepton combinations in the card game](higgs-decay-four-card-combination-strategy.md)
 - [Use active-learning techniques throughout — dice-rolling, think–pair–share, and role-playing — to elicit and combat probability misconceptions](dice-rolling-think-pair-share-roleplay-strategy.md)
+- [Run the outreach game at multiple knowledge levels, starting at the layperson level](quark-wars-knowledge-level-scaling-strategy.md)
 
 ## Examples
 -

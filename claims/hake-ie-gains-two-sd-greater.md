@@ -9,7 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: weak
 newest_evidence: 2007
-source_checked: 2026-10-20
+source_checked: 2026-11-17
 sources:
   - id: lei-bao-2007
     resource: "https://doi.org/10.48550/arxiv.0710.1375"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2` · `i2` medium
-> **Currency** · newest study 2007 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2007 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Across 62 courses and N = 6542 students, interactive engagement courses' average normalized gains were about two standard deviations greater than traditional courses', and the correlation of average gains with pretest scores was +0.02. [→ Lei Bao 2007](#lei-bao-2007)
@@ -95,3 +95,7 @@ The article reports (Introduction) Hake's large multi-course survey as backgroun
 - [Interactive engagement instruction yields significantly higher normalized learning gains than traditional lecture on both the FCI and FMCE](ie-higher-gains-than-lecture-physics-50k.md) — possibly the same claim (merge candidate)
 - [Class-average pre-test score and institutional SAT score do not correlate with normalized gain after correcting for test and teaching method](pretest-and-sat-no-gain-correlation.md) — related
 - [Student-designed tutorials produced high normalized learning gains (Hake gain 0.8) in tutored introductory physics students](student-tutorials-hake-gain-0-8.md) — related
+- [Normalized gain g is positively biased in favor of populations with higher pretest scores](normalized-gain-biased-favoring-high-pretest-populations.md) — related
+- [P3 students earn FMCE normalized gains of 0.60, above the 0.10-0.35 range of traditional lecture-based instruction at MSU and comparable to other transformed interactive engagement classrooms.](p3-fmce-normalized-gain-060.md) — a narrower finding that bears on this claim
+- [The three methods for calculating normalized gain are highly correlated (r ≥ 0.93)](three-normalized-gain-methods-highly-correlated.md) — related
+- [One case-study student who engaged in self-regulated learning improved from 18-24% below the class average on early tests to 6% below by the fourth test, with an FCI normalized gain of 0.70 versus 0.34 for students with similar scientific reasoning scores.](case-study-self-regulated-learner-exceeded-expectations.md) — related

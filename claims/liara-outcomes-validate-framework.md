@@ -48,3 +48,4 @@ Case-study description of the LI(A)RA project within LIA. The team, originating 
 - [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — related
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — related
 - [Cooperation compared with individualistic efforts typically results in higher achievement, greater retention, and greater social competence and self-esteem](cooperation-versus-individualistic-effort-outcomes.md) — related
+- [The authors' mentored projects show high competition placement rates and frequent publication](mentored-science-project-outcome-rates.md) — related

@@ -51,3 +51,4 @@ Annual anonymous end-of-semester surveys are used to ascertain students' opinion
 - [Students judged the module's time scope appropriate and prior knowledge sufficient, but rated content difficulty as slightly too high](time-difficulty-ratings-radiotherapy-module.md) — related
 - [93.1% of students rated pre-class test difficulty as appropriate](pre-class-tests-appropriate-difficulty-rating.md) — related
 - [Student evaluations of Yale's first-semester introductory physics courses form statistically distinct clusters by course, even across instructors and teaching styles](set-clusters-statistically-significant-across-courses.md) — related
+- [Students report that the first game-like programming exercise (Planetoids) is at an appropriate difficulty level for classes with many weak or absolute beginner programmers](planetoids-exercise-appropriate-difficulty-survey.md) — related

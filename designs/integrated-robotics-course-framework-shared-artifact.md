@@ -48,6 +48,7 @@ The framework organizes mechanical assembly, electrical setup, simulation, polic
 - [Four coordinated disciplinary tracks (ME, Build, EE, CS+AI) with dependency-gated progression](four-track-dependency-gated-robotics-progression.md)
 - [Three design tensions from expert feedback: authenticity versus cognitive load, integration versus visible progress, and team construction versus individual accountability](three-design-tensions-robotics-curriculum.md)
 - [Intelligent Agent Framework for AI Curriculum Organization](intelligent-agent-framework-ai-curriculum.md)
+- [Detector-as-common-thread course design: students progress through all stages of a real particle physics experiment](detector-common-thread-experiment-stages.md)
 
 ## Examples
 -

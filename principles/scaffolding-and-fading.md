@@ -47,7 +47,7 @@ sources:
 # Scaffolding and Fading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 48 claims (23 for, 23 mixed, 2 against) · 48 studies (17 causal, 11 review, 8 theoretical, 4 associational, 4 qualitative, 3 quant-synthesis, 1 design), `q1`–`q4` · 7 of 48 report an effect size · 41 claims rest on one study
+> **Evidence** · 49 claims (23 for, 24 mixed, 2 against) · 49 studies (18 causal, 11 review, 8 theoretical, 4 associational, 4 qualitative, 3 quant-synthesis, 1 design), `q1`–`q4` · 7 of 49 report an effect size · 42 claims rest on one study
 
 ## Conditional relationship
 
@@ -120,6 +120,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [More teacher support in AI-based instruction is not always better; a review found support worked well when balanced with students' autonomy and independent thinking](../claims/teacher-support-benefits-conditional-on-autonomy-balance.md) [~W]
 - [Adaptive fading adjusted to discourse quality is reported as more effective than fixed fading regimes for developing internal script components, but long-term evidence is lacking](../claims/adaptive-fading-beats-fixed-regimes-short-term.md) [+W] — attached 2026-10-22 from Noroozi et al. (2018), which proposed "Design second-order argument scaffolding through a three-step guideline: diagnose internal scripts, adapt support, fade adaptively"; tests this page's relationship.
 - [Fading of instructional support in collaborative argumentation has produced mixed results, with effectiveness depending on the fading criterion used](../claims/fading-collaborative-argumentation-mixed-results.md) [~W] — attached 2026-10-22 from Noroozi et al. (2018), which proposed "Design second-order argument scaffolding through a three-step guideline: diagnose internal scripts, adapt support, fade adaptively"; tests this page's relationship.
+- [Post-lab quiz scores showed no statistically significant difference between Maximally Scaffolded and Reduced Scaffolding groups in an undergraduate electronics lab](../claims/no-significant-difference-ms-rs-postlab-quiz.md) [~W] — attached 2026-11-17 from Evan Halstead (2016), which proposed "Simply deleting steps from cookbook lab guides may not be sufficient to increase students' takeaway from lab activities"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

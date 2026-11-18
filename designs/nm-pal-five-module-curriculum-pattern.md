@@ -51,6 +51,7 @@ The NM-PAL model integrated senior medical students (recruited from the top 30% 
 - [SP+CBL integration creates synergistic benefits through contextualised communication training combined with analytical rigour.](sp-cbl-synergistic-framework.md)
 - [R-ISAM: a five-phase spiral framework for fully integrated anatomical sciences education](r-isam-five-phase-spiral-framework.md)
 - [Fixed disease-module curriculum architecture combining contouring, structured plan review, MDT debriefing and narrative feedback](fixed-disease-module-curriculum-architecture.md)
+- [Blended peer-mentoring program structure: academically homogeneous peer groups of five to eight students with mentors acting as tutors and coaches](peer-mentoring-homogeneous-groups-tutor-coach.md)
 
 ## Examples
 -

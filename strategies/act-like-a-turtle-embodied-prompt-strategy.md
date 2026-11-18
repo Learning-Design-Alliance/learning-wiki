@@ -44,7 +44,8 @@ When students struggle to identify the turtle's heading or use control flow, the
 - [Acceleration-based spiral activities help learners articulate continuous change as repeated discrete increments of step size](../claims/vimap-acceleration-spirals-continuous-change.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use embodied and physical modeling activities to complement computational modeling so programming commands become experientially real](embodied-modeling-complements-computational-modeling.md)
 
 ## Examples
 -

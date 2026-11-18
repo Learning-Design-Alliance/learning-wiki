@@ -50,3 +50,4 @@ Pre/post-test study in an Advanced Quantum Mechanics course: students took a sho
 - [Higher student certainty in MCQ responses is associated with higher odds of answering correctly](mcq-certainty-odds-of-correctness.md) — related
 - [Certainty-rated pre- and post-test results flagged 14 of 50 MCQs for review of question formulation and content delivery, leading to course changes the following year](crmcq-flagged-14-of-50-mcqs-review.md) — related
 - [Students retained the ability to distinguish a superposition from a mixture a full semester after working on the QuILT (8 of 9 correct)](sge-quilt-concepts-retained-semester.md) — related
+- [Revised simulation and activity significantly improved introductory students' answers on how the 25% error fraction comes about (78.0% vs 41.1% correct)](revised-sim-improved-error-fraction-answers.md) — related

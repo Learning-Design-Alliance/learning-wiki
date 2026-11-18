@@ -44,6 +44,7 @@ The article's methodological recipe: pairs of near-transfer questions are used f
 ## Related Strategies
 
 - [Future studies should isolate the time-delay effect and the question-similarity effect separately](future-studies-isolate-delay-and-similarity.md)
+- [Use scaffolding elements to design matched low- and high-scaffolding versions of the same question for experimental exams](matched-scaffolding-versions-experimental-exams.md)
 
 ## Examples
 -

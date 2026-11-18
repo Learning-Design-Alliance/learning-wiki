@@ -64,6 +64,7 @@ Well-designed rubrics make evaluation criteria transparent before students begin
 - [Iterative post-teaching analysis with rubric-aligned written feedback and revise-and-resubmit cycles](iterative-post-teaching-analysis-feedback-cycle.md)
 - [Pair convenient platform analytics with transparent, education-specific evaluation criteria rather than trusting either alone](pair-platform-analytics-with-transparent-criteria.md)
 - [Clearly explain the purpose, benefits, challenges, and evaluation criteria of group work, and use detailed rubrics, training, and practice to support equitable peer evaluation.](transparent-communication-peer-evaluation-rubrics.md)
+- [Weekly individualized formative feedback on group work using three criteria](weekly-formative-feedback-group-work-p3.md)
 
 ## Examples
 - Elementary (grades 3–5) writing rubrics aligned to grade-level standards, shared at assignment launch and used for peer review before drafting ends

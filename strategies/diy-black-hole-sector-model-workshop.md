@@ -51,6 +51,7 @@ A workshop sequence in which participants first classify surface curvature with 
 ## Related Strategies
 
 - [Hands-on workshop sequence: study an existing model, modify it, then self-direct a personal customization project](ejs-hands-on-model-modification-workshop-strategy.md)
+- [Introduce curved space geometry before warped time, then present Newtonian and Euclidean approximations as special cases](einstein-first-sequencing-curved-space-to-warped-time.md)
 
 ## Examples
 -

@@ -67,3 +67,4 @@ Coding of normal-incidence exam solutions (N=128 solutions, two semesters) at el
 ## Related Claims
 - [Students frequently select wrong boundary-condition equations or field components and drop exponential terms when setting up boundary equations](component-selection-and-amplitude-sum-errors.md) — related
 - [Students are more successful interpreting mathematical expressions than generating them from physical descriptions](generating-harder-than-interpreting-expressions.md) — a broader claim this one bears on
+- [Students commonly make construction errors building complex field expressions, including incorrect reflected-wave direction and dot-product simplification](construction-errors-complex-field-expressions-electrodynamics.md) — related

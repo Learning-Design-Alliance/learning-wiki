@@ -56,3 +56,4 @@ Multi-university study reviewed (Ref. [24]): a beam of electrons in spin state |
 - [Students do not automatically transfer the quantum formalism from the 2-D Hilbert space of spin 1/2 systems to infinite-dimensional Hilbert spaces](spin-hilbert-space-transfer-difficulty.md) — related
 - [Only 23% of students correctly predicted beam splitting for a Stern-Gerlach gradient perpendicular to the spin state, most wrongly claiming orthogonality prevents splitting](stern-gerlach-x-gradient-orthogonality-difficulty.md) — possibly the same claim (merge candidate)
 - [Only 41% of students correctly predicted two-spot splitting along z for a Stern-Gerlach apparatus with a vertical magnetic field gradient](graduate-students-low-sge-splitting-z.md) — related
+- [Secondary and lower undergraduate students have difficulty relating quantum physics to physical reality](students-difficulty-relating-quantum-physics-physical-reality.md) — related

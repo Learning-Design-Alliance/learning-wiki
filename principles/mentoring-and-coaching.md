@@ -31,7 +31,7 @@ sources:
 # Mentoring and Coaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 91 claims (51 for, 33 mixed, 7 against) · 70 studies (20 causal, 15 review, 12 associational, 11 qualitative, 5 quant-synthesis, 5 design, 2 theoretical), `q1`–`q4` · 7 of 70 report an effect size · 87 claims rest on one study
+> **Evidence** · 92 claims (52 for, 33 mixed, 7 against) · 71 studies (20 causal, 15 review, 12 associational, 11 qualitative, 6 design, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 7 of 71 report an effect size · 88 claims rest on one study
 
 ## Conditional relationship
 
@@ -168,6 +168,7 @@ Claims the earlier page cited that this model does not use, each with a note on 
 - [Access to clinical supervision was identified as necessary for clinicians to build confidence and embed self-management facilitation skills after brief training](../claims/clinical-supervision-embeds-self-management-skills.md) [+W] — attached 2026-11-10 from Dures Emma et al. (2014), which proposed "Design brief self-management skills training as rheumatology-specific, with preparatory materials, practice sessions, boundary discussion, and ongoing clinical supervision".
 - [Assigned mentors can produce superficial mentoring relationships; mentees should instead choose from a list of potential mentors](../claims/assigned-mentors-superficial-relationship.md) [+W] — attached 2026-11-10 from Straus Sharon E et al. (2011), which proposed "Build national research-training capacity by combining structured streams, mentorship grounded in mentorship research, and partnership-based sustainability".
 - [Remote mentoring of young females in STEM was reported to build mentees' skills, confidence, scientific visibility, and career awareness, with a minority reporting discontent](../claims/magic-remote-mentoring-impact-on-mentees.md) [+W] — attached 2026-11-17 from Khare et al. (2013), which proposed "Personalize and scale STEM mentoring for girls through remote one-on-one mentoring rather than face-to-face-only models"; tests this page's relationship.
+- [The authors' mentored projects show high competition placement rates and frequent publication](../claims/mentored-science-project-outcome-rates.md) [+W] — attached 2026-11-17 from Amy Courtney et al. (2013), which proposed "Pair student researchers with a knowledgeable mentor (qualified scientist)".
 
 ## Objective and learner-valued goal
 

@@ -73,3 +73,4 @@ In the conclusions, the authors report seeing students 'spontaneously engaging i
 - [Students bridge between particle and wave descriptions of electrons, switching within and across contexts](students-bridge-particle-wave-descriptions.md) — related
 - [A student builds a hybrid classical-quantum argument, using a classical definite-position assumption as input to the uncertainty principle to argue zero energy is impossible](hybrid-classical-quantum-zero-energy-argument.md) — related
 - [Some students spontaneously hold a mixed wave-particle (pilot-wave-like) ontology without awareness of formal pilot-wave interpretations](spontaneous-pilot-wave-mixed-ontology-students.md) — related
+- [Student understanding of wave-particle duality falls into three clusters ranging from classical to quasiquantum description](three-clusters-wave-particle-duality-understanding.md) — related

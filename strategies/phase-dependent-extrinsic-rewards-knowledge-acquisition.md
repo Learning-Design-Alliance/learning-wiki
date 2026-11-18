@@ -52,6 +52,7 @@ The article recommends that extrinsic incentives or external supports can help "
 ## Related Strategies
 
 - [Instill Intrinsic Motivation](instill_intrinsic_motivation.md)
+- [Provide external supports and incentives (grades, learning communities, time-management modules) to drive engagement with self-study tools](factor-iii-external-supports-incentives-self-study-engagement.md)
 
 ## Examples
 -

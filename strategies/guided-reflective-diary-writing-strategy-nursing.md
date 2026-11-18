@@ -58,6 +58,7 @@ This is the article's own implementable intervention recipe: students write one 
 - [Implement out-of-class English journal writing with weekly encouraging teacher feedback and two rotating notebooks](efl-journal-writing-weekly-feedback-strategy.md)
 - [Dialogue Journals](dialogue-journals.md)
 - [Incorporate structured reflection activities (group reflection and individual reflective journals) into service-learning subjects](structured-reflection-service-learning.md)
+- [Implement weekly reflection-and-feedback cycles in small sections of 10 to 20 students per instructor](grf-small-section-implementation-strategy.md)
 
 ## Examples
 -

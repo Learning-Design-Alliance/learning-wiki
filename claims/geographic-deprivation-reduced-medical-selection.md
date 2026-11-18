@@ -51,3 +51,4 @@ Random-effects meta-analysis of 6 effect sizes for the deprived-geographic-area 
 - [Household economic and educational disadvantage is associated with poorer progression through medical school, with effects larger for progression than for selection](household-disadvantage-poorer-medical-progression.md) — related
 - [Lower socioeconomic background, older age, graduate-entry and non-professional parental background are associated with lower MRCS pass rates and more non-satisfactory ARCP outcomes](socioeconomic-age-background-attainment-gaps.md) — related
 - [Socioeconomic deprivation is associated with lower attainment in very preterm children, with free school meal eligibility comparable in magnitude to severe brain injury](deprivation-associated-underattainment-preterm.md) — related
+- [Agency-mediated UGR programs with large applicant pools risk selecting under-prepared students due to uneven university grading](agency-mediated-ugr-selection-risk.md) — related

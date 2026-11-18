@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/documentation-difficulties-researchers.md
+---
+
+# Revision history: [claims/documentation-difficulties-researchers](../claims/documentation-difficulties-researchers.md)
+
+### 2026-11-17 · ingest · process:wiki-ingest
+Ingested from arxiv-1612.00112 (Recommendations for the use of notebooks in upper-division physics lab courses) via eval_harness.py + ingest_extractions.py

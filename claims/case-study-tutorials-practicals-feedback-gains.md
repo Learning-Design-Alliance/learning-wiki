@@ -69,3 +69,4 @@ Same Likert feedback-survey comparison, for the statement on laboratory practica
 - [Positive feedback for case study-based tutorials improved from mid-unit to end-of-unit surveys, with “Definitely agree” responses rising from 44% to 69%](mid-to-end-unit-tutorial-feedback-increase.md) — related
 - [Introducing case-study-focused PBL unit design improved student feedback ratings, with gains in 2021/22 maintained or further improved in 2022/23](pbl-redesign-improved-blood-science-feedback.md) — a broader claim this one bears on
 - [Attendance at case study tutorial sessions increased by 20% in 2022/23 compared with 2021/22](tutorial-attendance-increase-2223.md) — related
+- [Students report positive feedback on the experiment-centered optics course, with 90% finding the organization well adapted](positive-student-survey-feedback-optics-course.md) — related

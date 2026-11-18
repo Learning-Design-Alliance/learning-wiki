@@ -54,3 +54,4 @@ Randomised controlled trial with 50 speech therapy students (25 per group) compa
 - [Synchronous online discussions produce higher behavioral, emotional, and cognitive engagement than asynchronous online discussions in online math courses](synchronous-discussion-increases-engagement.md) — related
 - [Synchronous online forum discussion produces no statistically significant difference in lexical diversity compared with asynchronous blog writing in EFL post-test writing](ofd-blog-no-difference-lexical-diversity.md) — related
 - [Synchronous discussions foster social presence while asynchronous communication supports higher levels of thinking in online courses](synchronous-social-presence-asynchronous-higher-thinking.md) — related
+- [Adding synchronous communication to asynchronous online courses is associated with greater social presence and, in some contexts, improved learning outcomes](synchronous-communication-social-presence-online.md) — related

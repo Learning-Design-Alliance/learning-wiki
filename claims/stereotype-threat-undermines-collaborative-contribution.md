@@ -62,3 +62,4 @@ The primer defines stereotype threat as a psychological phenomenon in which "stu
 - [Structured briefing and debriefing were largely absent from studies showing stress-impaired performance, and may contribute to impaired outcomes](briefing-debriefing-absent-impaired-studies.md) — related
 - [BME students report masking their identity to fit in and to avoid negative stereotyping](bme-students-identity-masking.md) — related
 - [Students facing stereotype threat show larger cortisol and blood pressure increases in evaluative situations, and values-affirmation exercises can counteract stereotype threat effects for months or years](stereotype-threat-cortisol-values-affirmation.md) — related
+- [Stereotype threat is a promising research direction for understanding the harm to female students' physics self-efficacy because both phenomena occur in physics but not chemistry and both relate to stress.](stereotype-threat-self-efficacy-research-direction.md) — related

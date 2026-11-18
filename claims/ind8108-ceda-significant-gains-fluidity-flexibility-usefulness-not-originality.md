@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: moderate
-newest_evidence: 2015
+newest_evidence: 2016
 sources:
-  - id: sophie-morin-2015
+  - id: sophie-morin-2016
     resource: "https://doi.org/10.48550/arXiv.1602.02643"
-    title: "Sophie Morin, Jean-Marc Robert, Liane Gabora. (2015). Creativity Training for Future Engineers: Preliminary Results from an Educative Experience. Proceedings of the 7th International Conference on Education and New Learning Technologies. [doi:10.48550/arXiv.1602.02643](https://doi.org/10.48550/arXiv.1602.02643)"
+    title: "Sophie Morin, Jean-Marc Robert, Liane Gabora. (2016). Creativity Training for Future Engineers: Preliminary Results from an Educative Experience. Proceedings of the 7th International Conference on Education and New Learning Technologies. Originally published 2015. [doi:10.48550/arXiv.1602.02643](https://doi.org/10.48550/arXiv.1602.02643)"
     author: Sophie Morin, Jean-Marc Robert, Liane Gabora
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` T-test analysis of pre-post CEDA scores indicated a significant increase for fluidity, flexibility and usefulness, while originality did not show an important increase. [→ Sophie Morin 2015](#sophie-morin-2015)
+`q2 i?` T-test analysis of pre-post CEDA scores indicated a significant increase for fluidity, flexibility and usefulness, while originality did not show an important increase. [→ Sophie Morin 2016](#sophie-morin-2016)
 
 ## Evidence
 
-### Sophie Morin 2015
+### Sophie Morin 2016
 
-Sophie Morin, Jean-Marc Robert, Liane Gabora. (2015). Creativity Training for Future Engineers: Preliminary Results from an Educative Experience. Proceedings of the 7th International Conference on Education and New Learning Technologies. [doi:10.48550/arXiv.1602.02643](https://doi.org/10.48550/arXiv.1602.02643)
+Sophie Morin, Jean-Marc Robert, Liane Gabora. (2016). Creativity Training for Future Engineers: Preliminary Results from an Educative Experience. Proceedings of the 7th International Conference on Education and New Learning Technologies. Originally published 2015. [doi:10.48550/arXiv.1602.02643](https://doi.org/10.48550/arXiv.1602.02643)
 
 `q2 · i?` · `design · r2`
 

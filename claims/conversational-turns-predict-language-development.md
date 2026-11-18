@@ -115,3 +115,4 @@ The shift from "word count" to "conversational turns" as the operative mechanism
 - [Second Life role-play interactions show more conversational turns with shorter contributions than face-to-face role-play](sl-interaction-turn-patterns.md) — related
 - [Family income is the strongest positive predictor of good academic performance among Haor secondary students](family-income-strongest-predictor-haor-academic-performance.md) — related
 - [Children's SES substantially predicts academic performance in the Guizhou sample](ses-predicts-academic-performance-china.md) — related
+- [Word discovery algorithm finds no learning advantage for child-directed over adult-directed speech](child-directed-speech-no-word-learning-advantage.md) — related

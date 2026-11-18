@@ -84,6 +84,7 @@ Mastery learning operationalizes the assumption that most learners can master mo
 - **Use spaced practice** — mastery criteria should be re-checked over time; passing once does not guarantee retention
 - **Use formative assessment cycles** — mastery learning is essentially formative assessment with a gating rule attached
 - [Allow learners self-paced, unlimited practice repetitions until they judge themselves competent](self-paced-practice-until-self-judged-competency.md)
+- [Restructure the adaptive-course classroom as a discussion-based setting with broad multidisciplinary problems](discussion-based-classroom-broad-multidisciplinary-problems.md)
 
 ## Examples
 - **Bloom's "Learning for Mastery" (LFM)** — the classic group-based implementation: teach, check, correct in small groups, reassess with alternate forms.

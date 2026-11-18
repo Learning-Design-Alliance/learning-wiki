@@ -73,3 +73,4 @@ Linear regression on the same 400-answer corpus with automated marker scores as 
 - [GAME's marks agree with a human marker's marks on student programming exercises and assignments](game-marks-agree-with-human-marker.md) — related
 - [Automated video metrics correlate with validated expert-based assessment tools](automated-video-metrics-correlate-with-validated-tools.md) — related
 - [Round two NAF scores correlated very strongly (r = 0.97) with the final round-three KOL consensus rankings](strong-correlation-naf-scores-final-consensus.md) — a narrower finding that bears on this claim
+- [Dr Scratch's CT assessment correlates positively and significantly with classic software complexity metrics](dr-scratch-validated-against-complexity-metrics.md) — related

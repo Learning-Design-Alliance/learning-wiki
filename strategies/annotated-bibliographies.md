@@ -65,6 +65,7 @@ Annotated bibliographies work because they force generative engagement with text
 - [Jigsaw Reading](jigsaw-reading.md) — distributes source reading across a group, with annotations as the sharing mechanism
 - [Citation Chaining](../strategies/citation_chaining.md) — a discovery method learners can apply while building the bibliography
 - [Assessment design levers that make learning visible and reduce the payoff from generic generated text](assessment-design-levers-visible-learning-traces.md)
+- [Have students write a complete scientific paper (Introduction, Method, Results, Conclusion)](write-full-scientific-paper-student-project.md)
 
 ## Examples
 - **First-year composition courses** commonly assign annotated bibliographies before a researched argument essay; the annotations serve as drafting notes and force early engagement with sources rather than last-minute citation stuffing.

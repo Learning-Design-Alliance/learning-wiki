@@ -71,3 +71,4 @@ Response analysis of QMS Question (23), where a 1D simple harmonic oscillator is
 - [Graduate students often ignore whether the initial state is an eigenstate of the Hamiltonian when reasoning about time dependence of spin expectation values](students-ignore-stationary-state-condition-spin-expectation-values.md) — related
 - [Semi-classical model language from modern physics leads students to believe there is non-trivial time-dependence even in stationary states](semiclassical-time-language-misconceptions.md) — related
 - [Graduate students share common difficulties with basic quantum mechanics concepts regardless of university](universal-quantum-concept-difficulties-grad-students.md) — related
+- [Secondary and lower undergraduate students have difficulty relating quantum physics to physical reality](students-difficulty-relating-quantum-physics-physical-reality.md) — related

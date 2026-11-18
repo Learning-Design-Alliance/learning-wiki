@@ -9,7 +9,6 @@ generated:
   at: 2026-10-14
 evidence_strength: moderate
 newest_evidence: 2010
-source_checked: 2026-10-20
 sources:
   - id: s-p-formica-2010
     resource: "https://doi.org/10.1103/PhysRevSTPER.6.020106"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
-> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across five semesters, overall FCI gains were 37.6%±2.0% in Just-in-Time Teaching courses versus 17.9%±2.5% in traditional lecture courses. [→ S. P. Formica 2010](#s-p-formica-2010)
@@ -73,3 +72,6 @@ Quasi-experimental comparison of 222 students in introductory physics courses ta
 - [An interactive-engagement mechanics course using MasteringPhysics yields a normalised FCI gain of about 0.18 with a statistically significant pre-to-post improvement](cbcmp-fci-normalised-gain-018.md) — related
 - [Normalised gains on the six force-identification FCI questions are low, ranging from 13% to 30%](low-gain-force-identification-questions.md) — related
 - [Peer Instruction is more common in larger interactive engagement classes, scaling from 6% of small classes to 41% of classes over 100 students](peer-instruction-scales-with-class-size.md) — related
+- [One case-study student who engaged in self-regulated learning improved from 18-24% below the class average on early tests to 6% below by the fourth test, with an FCI normalized gain of 0.70 versus 0.34 for students with similar scientific reasoning scores.](case-study-self-regulated-learner-exceeded-expectations.md) — related
+- [A majority of students do not develop a Newtonian view of force and motion after traditional instruction](majority-no-newtonian-view-traditional-instruction.md) — related
+- [Newton's laws, conservation of energy, and geometrical optics are the three physics concepts that are simultaneously pivotal, present in all four examined state standards, and particularly difficult to learn](three-pivotal-physics-concepts-standards.md) — related

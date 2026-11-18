@@ -75,3 +75,4 @@ Post-PL questionnaires, interviews, and written reflections indicated teachers v
 - [Teachers reported increased motivation knowledge and feasible, impactful MDP implementation after M-PLANS professional learning](m-plans-teacher-knowledge-uptake-gains.md) — related
 - [RAISE's impacts on reported teacher practices grew between year 1 and year 2, which the authors attribute to additional summer professional development and on-site support](raise-teacher-impacts-increased-year1-to-year2.md) — related
 - [Many treatment-school teachers interpreted the intervention as “one more thing,” reducing motivation except among a bought-in minority](slms-one-more-thing-teacher-interpretation.md) — related
+- [Grapher students who reason in a variable-focused way about graphs show the highest gains of all](variable-focused-graph-framing-highest-gains.md) — related

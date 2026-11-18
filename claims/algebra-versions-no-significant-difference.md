@@ -49,3 +49,4 @@ One-way ANOVA on summed category frequencies over the 15 common problems, plus p
 - [LLM errors on multimodal physics problems fall into four categories, with visual processing errors most prevalent, and error type distribution does not differ significantly across models](four-category-llm-multimodal-error-taxonomy.md) — related
 - [Calculus-based introductory students categorize problems more expert-like than algebra-based students (34.4% vs 18.7% of questions in good categories)](calc-vs-algebra-categorization-gap.md) — related
 - [Large introductory classes reveal a significantly wider spectrum of student expertise in categorization than the eight volunteers in the classic Chi study](wider-expertise-spectrum-large-classes-categorization.md) — related
+- [Students in the large-class study created an average of 7.02 categories per student, yielding 82 proto-categories reinterpreted into 59 categories](categorization-task-category-counts-large-classes.md) — related

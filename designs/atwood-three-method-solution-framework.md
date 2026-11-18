@@ -42,7 +42,8 @@ The article organizes the Atwood's machine solution around three complementary m
 - 
 
 ## Related Designs
-- 
+
+- [Research-based adaptive interactive e-learning physics tutorials based on cognitive apprenticeship](adaptive-e-learning-physics-tutorials-cognitive-apprenticeship.md)
 
 ## Examples
 -

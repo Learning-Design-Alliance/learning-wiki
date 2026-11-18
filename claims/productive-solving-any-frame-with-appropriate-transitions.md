@@ -53,3 +53,8 @@ Qualitative observational analysis of video-recorded group problem solving in on
 - [Epistemological frames of novice-leaning physics students can be sticky, trapping them for many minutes](sticky-epistemological-frames-novice-students.md) — related
 - [Shifts from the blue to the green behavioral cluster correspond to shifts from completing the worksheet to discussing ideas](blue-green-shift-marks-framing-shift.md) — related
 - [Warrants used in students' math arguments provide explicit evidence of epistemological framing](warrants-evidence-of-epistemological-framing.md) — related
+- [Some QM difficulties reflect correct framing but insufficient or wrong resource activation (content errors)](content-errors-qm-difficulties.md) — related
+- [Some QM difficulties reflect operating in the wrong frame (displacement errors)](displacement-errors-qm-difficulties.md) — related
+- [Published quantum mechanics difficulties restructure into three framing error categories](qm-difficulties-three-framing-error-categories.md) — related
+- [The predominance of alpha shifts implies group members share similar framings and can easily reach consensus about what should occur next in problem solving](alpha-shift-dominance-similar-framing.md) — related
+- [Some QM difficulties reflect failure to shift frames when the problem requires a transition](transition-errors-qm-difficulties.md) — related

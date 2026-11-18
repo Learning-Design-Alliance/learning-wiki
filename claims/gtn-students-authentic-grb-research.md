@@ -66,3 +66,4 @@ Observational account of the SSU 14-inch GORT robotic telescope, which caught it
 ## Related Claims
 - [Authentic research experiences through the Global Telescope Network increased high school interns' interest in science and science careers](gtn-interns-interest-grew.md) — related
 - [Swift-supported after-school programs brought STEM activities and tutoring to under-represented, primarily Hispanic students in partnership with local schools and community organizations](swift-after-school-underrepresented-stem.md) — related
+- [Engaging primary teachers with the Bradford Robotic Telescope pushed teachers to learn more astronomy, with a reported 30% jump in STEM applications](brt-teacher-astronomy-learning.md) — related

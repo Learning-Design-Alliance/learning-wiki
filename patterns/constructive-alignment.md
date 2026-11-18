@@ -33,7 +33,7 @@ grain_size: course, program
 # Constructive Alignment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 19 claims (11 for, 7 mixed, 1 against) · 21 studies (6 quant-synthesis, 5 theoretical, 4 causal, 3 associational, 2 review, 1 qualitative), `q1`–`q4` · 10 of 21 report an effect size · 16 claims rest on one study
+> **Evidence** · 20 claims (12 for, 7 mixed, 1 against) · 22 studies (6 quant-synthesis, 6 theoretical, 4 causal, 3 associational, 2 review, 1 qualitative), `q1`–`q4` · 10 of 22 report an effect size · 17 claims rest on one study
 
 ## Description and scope
 
@@ -128,6 +128,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Task Instruction Shifts Learner Tblt Views](../claims/task-instruction-shifts-learner-tblt-views.md) [+M]
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](../claims/no-pretest-listening-difference-groups.md) [+W]
 - [TOEFL-materials instruction did not change learners' views toward TBLT](../claims/toefl-instruction-no-view-change.md) [+W]
+- [Assessment drives learning, and assessment tools that probe only algorithmic plug-and-chug procedures eliminate students' incentives to acquire deep understanding](../claims/assessment-drives-learning-algorithmic-tests-undermine-deep-understanding.md) [+W] — attached 2026-11-17 from Chandralekha Singh (2017), which proposed "State measurable learning goals shared with students, spanning all levels of Bloom's taxonomy, and assess with tools commensurate with those goals".
 
 ## Illustrative design instance and observation record
 

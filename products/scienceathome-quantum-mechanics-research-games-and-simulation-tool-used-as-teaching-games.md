@@ -27,7 +27,8 @@ A suite of ScienceAtHome citizen-science research games and simulation tools in 
 - [99% of users drop out within 7 active days; all players staying beyond 7 days were voluntarily recruited at public events, and demographics do not predict hero status](../claims/heroes-voluntary-recruitment-demographics-null.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Potential Penguin](potential-penguin.md)
 
 ## Key Sources
 - Andreas Lieberoth, Mads Kock Pedersen, Andreea Catalina Marin, Tilo Planke, Jacob Friis Sherson. (2014). Getting Humans to do Quantum Optimization - User Acquisition, Engagement and Early Results from the Citizen Cyberscience Game Quantum Moves. Human Computation. https://doi.org/10.15346/hc.v1i2.11

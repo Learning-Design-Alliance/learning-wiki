@@ -51,3 +51,4 @@ Mixed-effects model on 10 multiple-imputation datasets (1575 observations, 315 s
 - [Women score lower than men in high-stakes final exams across advanced undergraduate STEM courses, with mean differences of 2.5 to ~7 points on a 100-point scale](gender-gap-high-stakes-exams-advanced-stem.md) — related
 - [High-school grades do not capture the preparation gap: controlling for high-school scores did not eliminate the gap, possibly due to a ceiling effect](high-school-grades-ceiling-effect-gap.md) — related
 - [In fully adjusted models, girls attain lower marks in mathematics while boys perform better in physical education](gender-effects-fully-adjusted-models.md) — related
+- [Gender differences in undergraduate physics course grades were minimal and statistically insignificant after controlling for prior academic performance](gender-gap-physics-grades-minimal-controlling-gpe.md) — related

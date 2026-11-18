@@ -67,3 +67,4 @@ Survey results reported descriptively with average Likert responses: "the studen
 ## Related Claims
 - [Student attitudes toward exams, grading, and feedback were more favorable under the formative format](formative-format-favorable-attitudes.md) — related
 - [Students in the active-learning flipped course reported strongly positive attitudes, and course retention was higher than in the control group](active-learning-positive-attitudes-and-retention-ap.md) — related
+- [Students report positive feedback on the experiment-centered optics course, with 90% finding the organization well adapted](positive-student-survey-feedback-optics-course.md) — related

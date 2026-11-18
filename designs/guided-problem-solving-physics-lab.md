@@ -46,7 +46,8 @@ This lesson-level pattern combines 'problem-solving' and 'guided design' modes: 
 - [Guided Problem Solving Better Results Than Traditional](../claims/guided-problem-solving-better-results-than-traditional.md) [+W]
 
 ## Related Designs
-- 
+
+- [Transparency-first design pattern: exploratory device-familiarization exercise with visualization before data collection](transparency-first-device-familiarization.md)
 
 ## Examples
 -

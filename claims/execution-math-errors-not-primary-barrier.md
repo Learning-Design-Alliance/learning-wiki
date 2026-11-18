@@ -55,3 +55,5 @@ Exam analysis of the Execution component: 60% of 172 solutions contained Executi
 - [Procedural math fluency is often not the primary barrier; upper-division students struggle to interpret and generate mathematical expressions in physics](interpretation-not-procedural-fluency-barrier.md) — a broader claim this one bears on
 - [Roughly a quarter of Cartesian SoV exam solutions contained only Execution errors, and Fourier's trick was preferred over simpler term matching](cartesian-sov-execution-only-errors-common.md) — related
 - [Execution errors rarely constitute the primary barrier on spherical SoV exam problems](spherical-sov-execution-rarely-barrier.md) — a narrower finding that bears on this claim
+- [Students commonly make construction errors building complex field expressions, including incorrect reflected-wave direction and dot-product simplification](construction-errors-complex-field-expressions-electrodynamics.md) — related
+- [Physics context affects mathematical execution: students cancel exponentials in E&M wave problems but not in an isomorphic pure-math problem](physics-context-affects-math-execution.md) — related

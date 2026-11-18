@@ -56,4 +56,4 @@ The whitepaper proposes that "Along­termcommunityengagementprogramshouldbesuppo
 -
 
 ## Key Sources
-- Clarkson, W., Bord, D., Swift, C., Rasmussen, E. J., Matzke, D., Murrell, S., LoPresto, M., Campbell, T., Clubb, R., & Salliotte, D. (2016). Sustaining educational and public outreach programs in astronomy. Whitepaper for AAS Education Task Force. http://www.fordastronomyclub.com/index.html
+- Clarkson, W., Bord, D., Swift, C., Rasmussen, E. J., Matzke, D., Murrell, S., LoPresto, M., Campbell, T., Clubb, R., & Salliotte, D. (2016). Sustaining educational and public outreach programs in astronomy. Whitepaper for AAS Education Task Force. http://www.fordastronomyclub.com/index.html. [doi:10.48550/arxiv.1606.04578](https://doi.org/10.48550/arxiv.1606.04578)

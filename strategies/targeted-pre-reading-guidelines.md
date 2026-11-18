@@ -45,6 +45,7 @@ The authors report "We have found three guidelines helpful to encourage and faci
 
 - [Use just-in-time teaching: pre-class electronic exercises whose responses structure the upcoming class session](just-in-time-teaching-pre-class-exercises.md)
 - [Classroom implementation structure: preparation, introduction, activity, feedback cycle](activity-feedback-cycle-classroom-structure.md)
+- [Periodic Astrobites reading assignments with guided questions, electronic response collection, and in-class discussion](method1-periodic-reading-guided-questions.md)
 
 ## Examples
 -

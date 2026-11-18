@@ -54,6 +54,7 @@ The authors designed their assignments "to require little additional class time 
 - [Integrate computational thinking into existing disciplinary teaching across grade bands rather than adding it on](integrate-ct-into-disciplinary-learning.md)
 - [Embed new solutions into existing operations and procedures to sustain and scale them](embed-solutions-existing-operations.md)
 - [Instructors facing low FCI scores in a reformed curriculum may add homework problems and lab activities more aligned with the assessment's scope.](add-aligned-homework-labs-to-improve-fci.md)
+- [Address troubleshooting in lectures and lab manuals by highlighting common pitfalls for each lab activity](highlight-common-pitfalls-lectures-lab-manuals.md)
 
 ## Examples
 -

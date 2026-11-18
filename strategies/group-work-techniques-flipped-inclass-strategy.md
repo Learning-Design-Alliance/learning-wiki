@@ -47,6 +47,7 @@ The article recommends engaging flipped-classroom students through multiple grou
 - [Fishbowl](fishbowl.md)
 - [Structured Peer Discussion Roles](structured-peer-discussion-roles.md)
 - [Use asynchronous AI tutoring for students' first engagement with challenging material, reserving class time for higher-order skills](ai-tutor-first-exposure-flipped-strategy.md)
+- [Use active-learning activities — peer interaction, interactive engagement, writing tasks, and student-tutor dialogue videos — to teach quantum concepts](active-learning-activities-quantum-concepts-strategy.md)
 
 ## Examples
 -

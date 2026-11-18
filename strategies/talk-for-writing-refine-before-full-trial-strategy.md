@@ -45,6 +45,7 @@ The evaluators conclude that Talk for Writing is not yet ready for a full effect
 ## Related Strategies
 
 - [Pilot multi-component interventions before trial and choose outcome tests that capture the targeted skill](pilot-multicomponent-interventions-and-align-outcome-test.md)
+- [Run a pilot study before the full experiment and be willing to restart with an improved design](pilot-study-before-full-student-experiment.md)
 
 ## Examples
 -

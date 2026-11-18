@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-16
 evidence_strength: moderate
-newest_evidence: 2012
+newest_evidence: 2011
 sources:
-  - id: eugene-t-torigoe-2012
+  - id: eugene-t-torigoe-2011
     resource: "https://doi.org/10.48550/arXiv.1112.3229"
-    title: "Eugene T. Torigoe. (2012). How numbers help students solve physics problems. arXiv. [doi:10.48550/arXiv.1112.3229](https://doi.org/10.48550/arXiv.1112.3229)"
+    title: "Eugene T. Torigoe. (2011). How numbers help students solve physics problems. arXiv. [doi:10.48550/arXiv.1112.3229](https://doi.org/10.48550/arXiv.1112.3229)"
     author: Eugene T. Torigoe
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` In the earlier 2006 final-exam study of large student populations, numeric versions averaged between 85-95% while symbolic versions averaged between 45-60%. [→ Eugene T. Torigoe 2012](#eugene-t-torigoe-2012)
+`q3 i?` In the earlier 2006 final-exam study of large student populations, numeric versions averaged between 85-95% while symbolic versions averaged between 45-60%. [→ Eugene T. Torigoe 2011](#eugene-t-torigoe-2011)
 
 ## Evidence
 
-### Eugene T. Torigoe 2012
+### Eugene T. Torigoe 2011
 
-Eugene T. Torigoe. (2012). How numbers help students solve physics problems. arXiv. [doi:10.48550/arXiv.1112.3229](https://doi.org/10.48550/arXiv.1112.3229)
+Eugene T. Torigoe. (2011). How numbers help students solve physics problems. arXiv. [doi:10.48550/arXiv.1112.3229](https://doi.org/10.48550/arXiv.1112.3229)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -51,3 +51,4 @@ Reported from the author's earlier final-exam study comparing numeric and symbol
 - [Three interview students eliminated a known quantity from two symbolic equations, leaving one equation with two unknowns; such known/unknown confusion was not observed on numeric versions](known-unknown-confusion-symbolic-only.md) — a narrower finding that bears on this claim
 - [The article argues that symbolic problems are hard because students activate resources and cues appropriate for numeric problem solving, such as treating every equation as a general model and the remaining non-numeric symbol as the unknown](inappropriate-resource-activation-symbolic-errors.md) — related
 - [In the interview study, it was common for students unable to solve a symbolic problem to find their earlier mistakes and easily reach the correct answer when given the numeric version immediately afterward](symbolic-failure-numeric-success-interviews.md) — related
+- [Many introductory students find symbolic problems more difficult than numerical ones and prefer plugging in numbers early rather than solving symbolically first](intro-students-symbolic-difficulty-early-numbers.md) — related

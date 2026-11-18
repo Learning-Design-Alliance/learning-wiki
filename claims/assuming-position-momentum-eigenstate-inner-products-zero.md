@@ -52,3 +52,5 @@ Open-ended question with 46 upper-level undergraduates after instruction in rele
 - [Students commonly confuse a state with an operator when translating between Dirac notation and position or momentum representations](confusing-state-with-operator-dirac-translation.md) — related
 - [Difficulties with Dirac notation persisted in advanced students, and regression on problem 1 suggests some had memorized procedures rather than mastered the notation](dirac-notation-memorized-procedures.md) — related
 - [Undergraduate quantum mechanics students inappropriately transfer classical mechanics concepts into quantum mechanics contexts](inappropriate-classical-transfer-quantum-mechanics.md) — related
+- [Only 27% of undergraduates correctly wrote ⟨p|p̂|p′⟩, and 8% invoked an incorrect normalization condition, often confusing the Kronecker delta with the Dirac delta function](ug-incorrect-normalization-kronecker-dirac-confusion.md) — related
+- [Only 15% of undergraduates could write ⟨x|p̂|p′⟩ without Dirac notation, and some invoked an incorrect orthogonality condition between position and momentum eigenstates](ug-incorrect-orthogonality-position-momentum.md) — related

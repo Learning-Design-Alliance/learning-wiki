@@ -13,7 +13,7 @@ author: Andrea diSessa; John P. Smith III, Andrea diSessa & Jeremy Roschelle
 # Knowledge in Pieces
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 17 claims (12 for, 5 mixed) · 17 studies (5 qualitative, 4 associational, 3 theoretical, 2 design, 1 causal, 1 quant-synthesis, 1 review), `q1`–`q4` · 0 of 17 report an effect size · 15 claims rest on one study
+> **Evidence** · 20 claims (15 for, 5 mixed) · 19 studies (7 qualitative, 4 associational, 3 theoretical, 2 design, 1 causal, 1 quant-synthesis, 1 review), `q1`–`q4` · 0 of 19 report an effect size · 18 claims rest on one study
 
 ## Description
 
@@ -60,6 +60,9 @@ A third tradition reached a similar question from procedural skills. Brown and B
 - [In a ticker-tape Tutorial, students' confidently wrong answer about segment timing is an epistemological framing error, corrected when later questions shift the context](../claims/ticker-tape-framing-error-not-misconception.md) [+W] — attached 2026-11-17 from Redish (2012), which proposed "Epistemological framing: students' unconscious answer to what kind of knowledge is being learned and how to learn it controls their classroom behavior".
 - [Students' reasoning about electric fields is variable and context-sensitive rather than fixed](../claims/student-reasoning-variability-context-sensitive.md) [+W] — attached 2026-11-17 from Ying Cao et al. (2016), which proposed "Learning resources framework: students' preinstruction ideas as productive building blocks"; tests this page's relationship.
 - [Student groups working with ticker-tape timers shifted quickly between two mutually exclusive interpretations of the same dot spacing, drawing on different intuitive resources as the lesson's cues changed](../claims/ticker-tape-groups-shift-resource-activation.md) [+W] — attached 2026-11-17 from Edward F. Redish et al. (2014), which proposed "The Resources Framework: student reasoning as dynamic activation of fine-grained cognitive resources under conceptual, epistemological, and affective framing"; tests this page's relationship.
+- [Upper-division E&M students who activate sub-atomic resources about internal atomic structure when explaining polarization are very likely to reach dielectric breakdown](../claims/sub-atomic-resources-predict-breakdown.md) [+W] — attached 2026-11-17 from Savannah L. Mitchem et al. (2016), which proposed "Resource Theory: resources, their plasticity versus solidity, and clusters forming mental models".
+- [Resource clusters changed between the 2015 pretest and final exam after targeted instruction, with breakdown reached by 13 of 17 students on the final versus 8 of 16 at mid-semester](../claims/cluster-shifts-after-instruction-2015.md) [+W] — attached 2026-11-17 from Savannah L. Mitchem et al. (2016), which proposed "Resource Theory: resources, their plasticity versus solidity, and clusters forming mental models"; tests this page's relationship.
+- [Unpacking separation of variables yields a resource graph of three conceptual and three procedural resources](../claims/sov-unpacked-resource-graph.md) [+W] — attached 2026-11-17 from Bahar Modir et al. (2016), which proposed "Resources framework: fine-grained, reusable elements of student reasoning with internal structure".
 
 ## Related Theories
 - [Multiple local conceptual coherences: student understanding as locally stable patterns requiring stability explanations](multiple-local-conceptual-coherences.md) — a development of the same view, explaining the local stabilities of variable thinking

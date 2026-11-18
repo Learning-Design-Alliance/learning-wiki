@@ -50,3 +50,4 @@ A priori contrasts on the far transfer task (2x2-factorial design interpretation
 - [PF students outperformed direct-instruction students on conceptual understanding and transfer without compromising procedural fluency](pf-outperformed-di-variance-conceptual-transfer.md) — related
 - [Students who compared a climate model with non-climate analog models during productive failure scored significantly higher on far across domain transfer than students who used only the climate model](two-models-comparison-far-across-domain-transfer.md) — related
 - [Training in metacognitive regulation combined with a cognitive learning strategy transfers to better metacognitive regulation of mental effort (far transfer), with small effect sizes](far-transfer-metacognitive-regulation-mental-effort.md) — related
+- [No significant difference between training conditions on far transfer problems overall](no-far-transfer-difference-overall.md) — reports the opposite

@@ -50,3 +50,4 @@ In the results, instructor Birch says that when circuits "involve more than one 
 - [The idea that nothing works the first time is an expert experimental physics epistemology espoused by 14 of 20 interviewed electronics instructors](nothing-works-first-time-expert-epistemology.md) — related
 - [Instructors perceive troubleshooting as naturally embedded in every circuit-building lab, though most had not designed activities specifically to teach it](all-circuit-building-labs-natural-troubleshooting-opportunities.md) — a narrower finding that bears on this claim
 - [Many instructors use students' construction of functional circuits as a proxy for proficient troubleshooting ability](circuit-completion-as-proxy-for-troubleshooting.md) — related
+- [Almost all interviewed electronics lab instructors identified developing students' ability to troubleshoot as an important learning goal of the electronics course](instructors-value-troubleshooting-learning-goal.md) — related

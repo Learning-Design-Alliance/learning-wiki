@@ -48,3 +48,4 @@ Paired-samples t-test for the 20 participants assigned to read the APWG public e
 - [Scores for participants who played the mobile anti-phishing game rose from pre-test to post-test when identifying phishing and legitimate websites, in one uncontrolled pre-post study](mobile-game-significant-pre-post-phishing-improvement.md) — related
 - [The mobile game was more effective than traditional online learning at teaching computer users to identify fraudulent websites](mobile-game-more-effective-than-website-learning.md) — related
 - [Playing the mobile phishing-identification game significantly improved participants' phishing avoidance behaviour from pre-test to post-test](mobile-phishing-game-improves-avoidance-behaviour.md) — related
+- [The mobile game is somewhat effective in enhancing the user's phishing awareness](mobile-game-somewhat-effective-phishing-awareness.md) — related

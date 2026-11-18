@@ -66,3 +66,5 @@ Episode analysis of a group led through separation of variables in algorithmic m
 ## Related Claims
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — related
 - [The calculation framing spreads through a working group: peers offered only calculation strategies to resolve a divergent integral](calculation-framing-spreads-through-group.md) — related
+- [In the nested solenoids episode, students cycled among conceptual physics, algorithmic physics, and algorithmic math, with shorter conceptual-physics visits (64 s average) than algorithmic ones, while the instructor stayed entirely in conceptual physics](nested-solenoids-episode-framing-cycle.md) — related
+- [Problem statement phrasing promotes different initial frames and may elicit different difficulties](problem-statements-promote-frames.md) — related

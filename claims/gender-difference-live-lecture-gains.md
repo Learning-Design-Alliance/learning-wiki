@@ -52,3 +52,4 @@ Secondary analysis of improvement scores by sex across the three randomized grou
 - [No statistically significant difference in knowledge gains between live, flipped video, and interactive flipped methods (η² = 0.009)](no-between-group-difference-three-teaching-methods.md) — related
 - [Module benefit held for both male and female students, with no treatment × gender interaction](module-benefit-gender-uniform.md) — related
 - [The flipped format alleviates the gender disparity in exam scores: female students underperform males in the standard class but do not differ significantly on two of three exams in the flipped class](flipped-format-alleviates-gender-disparity-exam-scores.md) — related
+- [Scaffolding does not preferentially benefit female students; apparent preferential gain is an artifact of achievement-level composition](scaffolding-gains-level-dependent-not-gender.md) — related

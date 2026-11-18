@@ -40,7 +40,8 @@ The course culminated in "an open ended, ill structured final design project as 
 - [Assimilator Higher Open Ended Synchronous Online](../claims/assimilator-higher-open-ended-synchronous-online.md) [+M]
 
 ## Related Designs
-- 
+
+- [Capstone engineering design process with free exploration for novice robotics learners](ev3-capstone-design-process-pattern.md)
 
 ## Examples
 -

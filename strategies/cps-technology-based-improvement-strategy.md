@@ -50,6 +50,7 @@ Based on implementation difficulties, the authors suggest implementing CPS via a
 ## Related Strategies
 
 - [Implement CPS flexibly, adapting to teachers' curricular demands and teaching styles](cps-flexible-teacher-adaptation-strategy.md)
+- [Add companion questions asking students to identify applicable physics principles to detect method errors hidden by MC equivalence](companion-question-principle-selection-strategy.md)
 
 ## Examples
 -

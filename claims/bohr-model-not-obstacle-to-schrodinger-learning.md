@@ -50,3 +50,4 @@ Analysis of final-exam descriptions of a ground-state hydrogen atom across four 
 - [Students found understanding the reasons for the development of atomic models much more difficult than understanding the models' features](model-building-reasoning-harder-than-model-features.md) — related
 - [Interactive simulations with associated homework increased students' explicit discussion and multiple-model use, but not Schrödinger-model use](simulations-increase-explicit-model-discussion.md) — related
 - [Prompting students to reflect on the Schrödinger model within an exam question increases their use of that model](exam-prompting-increases-schrodinger-model-use.md) — related
+- [Secondary and lower undergraduate students have difficulty letting go of Bohr's planetary atomic model](difficulty-letting-go-bohr-planetary-model.md) — reports the opposite

@@ -51,3 +51,4 @@ Two-way mixed ANOVA on the Ideas about Citizen Science subscale (13 items) in th
 - [Students perceived CCS tasks as authentic problems whose answers teachers did not already know (52.2%) versus everyday school (8%)](ccs-tasks-authentic-teacher-no-answer.md) — related
 - [Most students (71–83%) experienced working more on real-world problems in CCS projects than in everyday school (33–44%), while collaboration showed no significant distinction from everyday schoolwork](ccs-real-world-problem-solving-distinct-collaboration-not.md) — related
 - [In the 2010 Clarke Middle School pilot, WWTA participation increased sixth-graders' knowledge, understanding, and interest in science and interest in using real telescopes](wwta-pilot-dramatic-gains-knowledge-understanding-interest.md) — related
+- [Undergraduate research helps students develop professional identity and become scientists](ugr-professional-identity-development.md) — related

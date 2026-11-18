@@ -110,6 +110,7 @@ Argumentation improves conceptual understanding and scientific reasoning because
 - [Scenario B: constructing, critiquing, and reframing AI-mediated arguments](../strategies/scenario-construct-critique-reframe-arguments.md)
 - A teacher instituted a daily talk routine ("every day we talk... every day it's the expectation") specifically to build the interpersonal familiarity needed before asking students to argue with each other productively.
 - A teacher reframed her own definition of rigor from "how much homework are you giving my kids" to designing tasks that "hooked it to the kid... their experiences and their cultural [background]," reasoning that this makes rigorous discourse more equitably accessible than a traditional difficulty-based standard.
+- [Defense of Instruction: coaches require teachers to articulate and defend instructional decisions with student data](../strategies/defense-of-instruction-strategy.md)
 
 ## Key Sources
 - Kuhn, D. (2010). Teaching and learning science as argument. *Science Education, 94*(5), 810–824. [doi:10.1002/sce.20395](https://doi.org/10.1002/sce.20395)

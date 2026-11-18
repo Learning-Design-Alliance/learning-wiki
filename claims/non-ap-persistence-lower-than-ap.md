@@ -67,3 +67,4 @@ Correlational analysis of SGM attendance and biology retention within the non-AP
 - [After SGM program implementation, URM students graduated with biology and NSE majors or minors at rates equal to non-URM students, closing a pre-program gap](pltl-sgm-urm-persistence-equal-non-urm.md) — related
 - [SGM attendance correlated with grades in Biology 2 (r = 0.18) but not in Biology 1](sgm-attendance-grade-correlation-bio2-only.md) — related
 - [Non-AP students rated SGM benefits more highly than AP students, and attendance correlated positively with perceived benefits](sgm-benefits-non-ap-rated-higher.md) — related
+- [Undergraduate research participation benefits STEM students in learning retention, graduation rates, and graduate program entry](ugr-benefits-retention-graduation-graduate-entry.md) — related

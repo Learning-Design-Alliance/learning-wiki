@@ -89,3 +89,4 @@ Item analysis of FCI results from twenty-two traditional and six M&I sections at
 - [Interactive sections significantly outperformed traditional sections on the four FCI Newton's Third Law questions (Cohen's D = 0.583), while the entire-FCI normalized gain difference was not statistically significant](ils-fci-newtons-third-law-gain-french-mechanics.md) — reports the opposite
 - [Normalised gains on the six force-identification FCI questions are low, ranging from 13% to 30%](low-gain-force-identification-questions.md) — related
 - [On six FCI force-identification questions, student answers cluster on a pair of dominant answers containing the correct choice and a superset wrong choice](polarising-choices-force-identification.md) — related
+- [A majority of students do not develop a Newtonian view of force and motion after traditional instruction](majority-no-newtonian-view-traditional-instruction.md) — related

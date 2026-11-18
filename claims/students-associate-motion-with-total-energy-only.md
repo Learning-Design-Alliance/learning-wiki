@@ -51,3 +51,4 @@ On question 2, which asked students to identify two different potential energy d
 - [Students hold a strong belief that the numeric value of kinetic energy cannot exceed the numeric value of total energy when potential energy is negative](students-believe-kinetic-energy-cannot-exceed-total-energy.md) — related
 - [Many students believe potential energy cannot be negative](students-believe-potential-energy-cannot-be-negative.md) — related
 - [Students fail to coordinate the multiple, ontologically conflicting descriptions embedded in physicists' language, which may produce patterns interpreted as misconceptions](students-fail-to-coordinate-conflicting-descriptions.md) — related
+- [Only 36% of introductory physics students correctly identified conserved total mechanical energy on a cyclist-uphill item even after instruction](confusion-forms-of-energy-36-percent.md) — related

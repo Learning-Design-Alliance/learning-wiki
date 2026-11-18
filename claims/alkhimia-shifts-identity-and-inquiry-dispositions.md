@@ -69,3 +69,4 @@ Same pre–post survey analysis, disposition items: students expressed the "WKH 
 ## Related Claims
 - [The Alkhimia program shifted classroom culture toward student voice and valuing of multiple viewpoints](alkhimia-classroom-culture-student-voice-shift.md) — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
+- [Undergraduate research helps students develop professional identity and become scientists](ugr-professional-identity-development.md) — related

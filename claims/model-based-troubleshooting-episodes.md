@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2014
+source_checked: 2026-11-17
 sources:
   - id: benjamin-m-zwickl-2014
     resource: "https://doi.org/10.48550/arXiv.1410.0881"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Some troubleshooting episodes consisted of rapid cycles of qualitative predictions and qualitative measurements that identified the source of an apparatus problem within a minute or less. [→ Benjamin M. Zwickl 2014](#benjamin-m-zwickl-2014)

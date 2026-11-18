@@ -74,6 +74,7 @@ Formative assessment is among the most consistently supported instructional prac
 - [Weekly guided reflections on lifelong learning skills with individualized instructive and affective feedback](guided-reflections-individualized-feedback-strategy.md)
 - [Return graded three-tier tests, guide student reflection on learning-risk topics, and re-evaluate to monitor progress](return-tests-guide-reflection-reevaluate-risks.md)
 - [Collect formative assessment at the end of class to inform the next session when instructors are uncomfortable modifying delivery in real time](end-of-class-collection-for-next-session.md)
+- [Weekly individualized formative feedback on group work using three criteria](weekly-formative-feedback-group-work-p3.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the evidence-collection step

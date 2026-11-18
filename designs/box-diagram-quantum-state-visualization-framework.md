@@ -42,7 +42,8 @@ The article introduces a pictorial framework in which states of multiple quantum
 - 
 
 ## Related Designs
-- 
+
+- [Alluvial and bubble diagram representations of student pathways through a physics major](pathway-alluvial-bubble-diagram-representations.md)
 
 ## Examples
 -

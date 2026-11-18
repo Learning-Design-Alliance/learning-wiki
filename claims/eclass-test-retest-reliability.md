@@ -68,3 +68,4 @@ Semester-stability proxy across 16 courses at 11 institutions; the 5 significant
 - [Post-instruction E-CLASS scores show a small but statistically significant decline from pre-instruction scores in matched data](eclass-pre-post-shift-small.md) — related
 - [Random assignment to open- versus closed-note conditions produces no significant difference in overall paper quiz performance in large-enrollment biology lab courses](open-note-no-overall-performance-difference.md) — related
 - [Neither the workshop nor the one-on-one intervention affected enrollment in the following semester](academic-planning-interventions-no-persistence-effect.md) — related
+- [Guided-lab-only courses show a small significant negative shift in E-CLASS scores over a semester](guided-labs-negative-shift.md) — related

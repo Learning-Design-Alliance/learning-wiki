@@ -58,8 +58,10 @@ Task analysis reduces extraneous cognitive load by externalizing the structure o
 5. Have learners check off sub-tasks as they complete them and compare their work to the stated criteria ([Assess Performance](../elements/assess-performance.md))
 
 ## Related Strategies
+
 - ["Headings and Highlight" Strategy](headings-and-highlight-strategy-variant.md) — the annotation move that marks key task requirements
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — connects the analyzed task to what learners already know about the genre
+- [Use guiding questions in a Socratic style to break research tasks into smaller steps and steer discussion](socratic-guiding-questions-research-tasks.md)
 
 ## Related Elements
 - [Chunking](../principles/chunking.md) — the sub-task decomposition mechanism

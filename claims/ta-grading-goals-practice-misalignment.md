@@ -55,3 +55,5 @@ Analysis linking stated grading purposes to actual grades assigned to the contra
 - [TAs' perceptions of grading did not change significantly during one semester of teaching experience](tas-grading-perceptions-stable-over-one-semester.md) — related
 - [Many more TAs mentioned problem-description and explication features than graded on them](tas-mention-explication-features-more-than-grade-on-them.md) — related
 - [Almost all first-year physics TAs stated that the purpose of grading was formative](tas-state-formative-purpose-of-grading.md) — related
+- [When grading with the rubric, over half of TAs credited the brief solution with invoking and justifying useful principles even though the solution contained no explicit invoking or justifying](tas-credited-explication-without-evidence.md) — related
+- [Physics TAs using a CA-inspired rubric scored an elaborated solution similarly to their pre-rubric score and did not match expert rubric scores, particularly for a brief solution](tas-rubric-scores-differ-from-expert-scores.md) — related

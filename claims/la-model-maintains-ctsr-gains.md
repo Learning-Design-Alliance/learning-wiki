@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2010
+source_checked: 2026-11-17
 sources:
   - id: andrew-ferstl-2010
     resource: "https://doi.org/10.48550/arXiv.1007.3789"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Scie Ed 201/203 CTSR gains of about 1 to 1.5 points on a 13-point scale were maintained with one instructor plus an LA. [→ Andrew Ferstl 2010](#andrew-ferstl-2010)

@@ -48,3 +48,6 @@ Comparison of average scores by final-exam expertise group (1-5) in course A (fr
 - [Free-response performance matches multiple-choice performance for resistance but is better for capacitance and inductance](free-response-better-capacitance-inductance.md) — related
 - [The benefits of retrieval practice do not depend on an exact match between initial retrieval practice conditions and the final test format](retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats.md) — related
 - [The classroom testing effect transfers to mismatched test formats, but consistent quiz–exam formats yield a significantly larger effect (g = 0.531 vs. g = 0.399).](format-consistency-moderates-classroom-testing-effect.md) — related
+- [Students with higher final-exam expertise scored higher on Questions 1 and 2 in both formats in both courses](expertise-trend-similar-across-formats.md) — possibly the same claim (merge candidate)
+- [Correspondence between free-response and multiple-choice performance across courses is better when partial credit is awarded for both](partial-credit-improves-fr-mc-correspondence.md) — related
+- [Free-response answers in course A could be matched to the a priori multiple-choice choices for 84% (Question 1) and 88% (Question 2) of students](fr-answers-match-apriori-mc-choices.md) — related

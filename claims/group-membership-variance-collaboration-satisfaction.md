@@ -50,3 +50,4 @@ Scenario A null-model LMM variance decomposition. The intraclass correlation of 
 - [Computation competence showed substantial class-specific differential development, with ICC rising from 3% at pretest to 25% at posttest within the measured group](class-specific-differential-development-icc.md) — related
 - [Roughly 45% of variance in Chinese adolescents' achievement lies between schools, supporting multilevel modeling](between-school-variance-achievement-icc-pisa-china.md) — related
 - [Between-class variance accounts for roughly a quarter of variance in students' system-thinking performance measures](between-class-variance-system-thinking.md) — related
+- [Multilevel variance decomposition shows both group and student level variance are significantly different from zero, with most variance at the student level](multilevel-variance-student-level-dominant.md) — related

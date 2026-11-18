@@ -48,7 +48,8 @@ The authors recommend constraining oral exams to only the topics a student did n
 - [Revisiting other material in a module does not significantly affect retention of already-mastered material](../claims/retesting-other-material-no-effect-mastered-retention.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Implement weekly reflection-and-feedback cycles in small sections of 10 to 20 students per instructor](grf-small-section-implementation-strategy.md)
 
 ## Examples
 -

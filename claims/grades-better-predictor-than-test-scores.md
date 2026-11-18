@@ -85,3 +85,4 @@ Review synthesis of predictive studies (Box 1.1), citing University of Californi
 - [Conventional medical school evaluation metrics only vaguely capture students' self-directed learning readiness, with no combination of grades or test scores strongly predicting it](assessment-metrics-vaguely-capture-sdlr-medical-students.md) — related
 - [Applicants with lower trial-studying scores were significantly less likely to enroll, consistent with a small self-selection effect](trial-studying-scores-self-selection-enrollment.md) — related
 - [Degree class predicted year 1 exam performance but not year 2 exams](degree-class-predicts-year1-exams-not-year2.md) — a narrower finding that bears on this claim
+- [High school scores are not strongly related to success in Kankor because some schools' scoring systems are untrustworthy, so direct admission based on high school grades is not recommended](high-school-grades-weakly-related-to-kankor-success.md) — reports the opposite

@@ -46,6 +46,7 @@ The article's short-term priority response to assessment feedback is to 'establi
 - [Assessment design levers that make learning visible and reduce the payoff from generic generated text](assessment-design-levers-visible-learning-traces.md)
 - [Reflective Assessment](reflective_assessment.md)
 - [Design lab courses so notebooks are an essential, authentic part of lab activities via multi-week projects and peer-reliant collaboration](authentic-notebook-use-multi-week-collaborative-labs.md)
+- [Evaluate notebooks holistically on interpretability rather than format, using peer feedback, oral quizzes, or a reproduction practicum](authentic-notebook-evaluation-methods.md)
 
 ## Examples
 -

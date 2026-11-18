@@ -47,3 +47,4 @@ Authors' hypothesis stated in the Results overview, to be investigated by dividi
 ## Related Claims
 - [Multiple-hypothesis strategies improve performance only when simulation complexity is low](multiple-hypothesis-strategy-low-complexity.md) — related
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — related
+- [Tight correspondence between a scientific hypothesis and the experimental method is the most important feature of a successful student science project](tight-hypothesis-method-correspondence-science-projects.md) — related

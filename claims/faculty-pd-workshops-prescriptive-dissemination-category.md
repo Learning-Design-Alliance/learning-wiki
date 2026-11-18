@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2016
+source_checked: 2026-11-17
 sources:
   - id: alice-olmstead-and-chandra-turpen-2016
     resource: "https://doi.org/10.1103/physrevphyseducres.12.020136"
@@ -40,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · design `r2` · `q1`–`q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-17 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Henderson et al. found that faculty change efforts in STEM typically fall into four categories distinguished by prescriptive versus emergent outcomes and individual versus group focus. [→ Alice Olmstead and Chandra Turpen 2016](#alice-olmstead-and-chandra-turpen-2016)

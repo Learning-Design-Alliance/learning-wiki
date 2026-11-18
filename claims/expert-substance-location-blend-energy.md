@@ -48,3 +48,4 @@ Interpretive case analysis of classroom video from an introductory physics for l
 - [A novice undergraduate student similarly blends substance and location ontologies when reasoning about ATP hydrolysis energy](novice-substance-location-blend-energy.md) — related
 - [Both experts and students successfully use a blended substance/location ontology for energy in an IPLS course](blended-substance-location-ontology-used-by-experts-and-students.md) — a broader claim this one bears on
 - [A structured blend of ontologies, not mere combination, supports productive reasoning: Peter's group succeeded where the metaphors complemented each other](structured-blend-enables-productive-reasoning.md) — related
+- [Gestural and metaphorical elements accompany the pulling out resource, evidencing its procedural status](pulling-out-gestural-basis.md) — related

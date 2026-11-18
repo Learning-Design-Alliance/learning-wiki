@@ -61,3 +61,4 @@ The article's literature review (summarized in its Fig. 3) of SNA studies of cen
 - [Students' SNA centrality measures (participation, information exchange, connectedness, social capital) correlate moderately to strongly with grades in online PBL](sna-centrality-correlates-with-pbl-performance.md) — related
 - [Social network analysis holds promise for describing student learning communities and informing departmental support decisions](sna-promising-for-learning-communities.md) — related
 - [Persistence in Modeling Instruction correlates significantly with whole-network centrality measures (betweenness and closeness) but not with ego-network measures such as degree](betweenness-closeness-persistence-mi.md) — related
+- [Betweenness centrality shows no statistically significant association with persistence in MI courses](betweenness-null-persistence.md) — related

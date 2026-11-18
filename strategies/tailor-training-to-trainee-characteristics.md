@@ -53,6 +53,7 @@ The article recommends designing personalized training pathways that account for
 - [Differentiate transition curricula by prior experience level, offering abbreviated foundational modules and extended advanced sessions for experienced practitioners](experience-differentiated-transition-pathways.md)
 - [Implement periodic educational interventions and training programs on infection control practices for COVID-19 across all healthcare professions](periodic-infection-control-training-interventions-strategy.md)
 - [Differentiate simulation versions by prior knowledge using the expertise reversal effect](differentiated-simulation-versions-expertise-reversal.md)
+- [Tailor lecture content to the background of the local student cohort](tailor-lectures-to-local-background.md)
 
 ## Examples
 -

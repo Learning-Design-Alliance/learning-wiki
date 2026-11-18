@@ -49,6 +49,21 @@ def inbound(keys: set) -> dict:
                 src = f"{folder}/{s}"
                 if src not in keys:
                     out.setdefault(WIKI_ROOT / folder / f"{s}.md", []).append(key)
+    # The reverse index records the edges the design side reads, not every link: a strategy's
+    # Related Strategies bullet or a theory's Examples bullet to a strategy is not in it (2026-11-18:
+    # three such links survived two removals). Every page naming the file is checked as well;
+    # strip_links resolves each link, so a page that only mentions the name changes nothing.
+    import subprocess
+    for key in keys:
+        name = key.split("/", 1)[1] + ".md"
+        found = subprocess.run(["grep", "-rlF", "--include=*.md", name, *[str(WIKI_ROOT / f) for f in okf_lib.CONTENT_FOLDERS]],
+                               capture_output=True, text=True).stdout.split()
+        for f in found:
+            p = Path(f)
+            if p.name != "index.md" and str(p.relative_to(WIKI_ROOT).with_suffix("")) not in keys:
+                lst = out.setdefault(p, [])
+                if key not in lst:
+                    lst.append(key)
     return out
 
 

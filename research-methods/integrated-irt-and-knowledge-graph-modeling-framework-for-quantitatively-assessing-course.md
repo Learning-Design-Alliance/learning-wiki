@@ -26,7 +26,8 @@ The article proposes combining item response modeling with knowledge graph model
 - [The knowledge graph backbone's main component comprised 58 knowledge points, and IRT difficulty levels could not replace knowledge-point position parameters in the graph](../claims/kg-backbone-position-distinct-from-irt-difficulty.md) [+M]
 
 ## Related Research Methods
--
+
+- [Principal-component course-significance analysis for empirical credit allocation](principal-component-course-significance-analysis-for-empirical-credit-allocation.md)
 
 ## Key Sources
 - Cao Zhen-Yu, Lin Feng, Feng Chun. (2024). Interpretation of course conceptual structure and student self-efficacy: an integrated strategy of knowledge graphs with item response modeling. BMC Medical Education. https://doi.org/10.1186/s12909-024-05401-6

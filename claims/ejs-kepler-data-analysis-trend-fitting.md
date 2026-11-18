@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: weak
-newest_evidence: 2013
+newest_evidence: 2014
 sources:
-  - id: loo-kang-wee-2013
+  - id: loo-kang-wee-2014
     resource: "https://doi.org/10.48550/arXiv.1401.3061"
-    title: "Loo Kang WEE, Giam Hwee GOH, Ee-Peow LIM. (2013). Easy Java Simulation, Innovative Tool for Teachers as Designers of Gravity-Physics Computer Models. MPTL18, Madrid. [doi:10.48550/arXiv.1401.3061](https://doi.org/10.48550/arXiv.1401.3061)"
+    title: "Loo Kang WEE, Giam Hwee GOH, Ee-Peow LIM. (2014). Easy Java Simulation, Innovative Tool for Teachers as Designers of Gravity-Physics Computer Models. MPTL18, Madrid. Originally published 2013. [doi:10.48550/arXiv.1401.3061](https://doi.org/10.48550/arXiv.1401.3061)"
     author: Loo Kang WEE, Giam Hwee GOH, Ee-Peow LIM
     q: 1
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q1 i?` The Kepler's System Model's data analysis tool produces best-fit lines whose coefficients suggest T^2 proportional to R^3 and lg T proportional to 1.498 lg R. [→ Loo Kang WEE 2013](#loo-kang-wee-2013)
+`q1 i?` The Kepler's System Model's data analysis tool produces best-fit lines whose coefficients suggest T^2 proportional to R^3 and lg T proportional to 1.498 lg R. [→ Loo Kang WEE 2014](#loo-kang-wee-2014)
 
 ## Evidence
 
-### Loo Kang WEE 2013
+### Loo Kang WEE 2014
 
-Loo Kang WEE, Giam Hwee GOH, Ee-Peow LIM. (2013). Easy Java Simulation, Innovative Tool for Teachers as Designers of Gravity-Physics Computer Models. MPTL18, Madrid. [doi:10.48550/arXiv.1401.3061](https://doi.org/10.48550/arXiv.1401.3061)
+Loo Kang WEE, Giam Hwee GOH, Ee-Peow LIM. (2014). Easy Java Simulation, Innovative Tool for Teachers as Designers of Gravity-Physics Computer Models. MPTL18, Madrid. Originally published 2013. [doi:10.48550/arXiv.1401.3061](https://doi.org/10.48550/arXiv.1401.3061)
 
 `q1 · i?` · `design · r2`
 
@@ -46,3 +46,4 @@ Numerical best-fit results from the Kepler's System Model's built-in data analys
 
 ## Related Claims
 - [Students using VLT data and Kepler's third law reproduce the Galactic black hole mass close to 4 million solar masses](kepler-laws-galactic-black-hole-exercise.md) — related
+- [Introductory students can extract a chirp mass of about 30 solar masses from the GW150914 waveform using simple data-analysis tools.](gw150914-chirp-mass-student-extraction.md) — related

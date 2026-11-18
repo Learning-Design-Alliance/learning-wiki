@@ -54,3 +54,4 @@ Survey question to the 231 students who had not used VM (Figure 2); the article 
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — a broader claim this one bears on
 - [Universities in developing countries lacked the financial resources and technical infrastructure to purchase and operate e-learning platforms during COVID-19](universities-lacked-finance-infrastructure-e-learning.md) — related
 - [Unfamiliarity and perceived necessity are the main reasons instructors give for not using checklists, written and technology-based feedback](reasons-nonuse-feedback-methods.md) — related
+- [Most Kankor participants lack understanding of the test's structure and procedures, and unfamiliarity and lack of preparation are widely believed to be main reasons for failing](kankor-unfamiliarity-and-preparation-beliefs.md) — related

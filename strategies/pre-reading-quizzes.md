@@ -66,6 +66,7 @@ Pre-reading quizzes exploit the pretesting effect: attempting to retrieve an ans
 - [Use ungraded pre-class quizzes to unlock module content and focus learning, paired with graded post-quizzes with feedback](pre-quiz-unlocks-module-post-quiz-feedback.md)
 - [Assign pre-class draft answers with attempt credit to ensure preparation for in-class problem solving](attempt-credit-flipped-classroom-preparation.md)
 - [Design warm-up problems with a capped attempt policy and office-hour overlap to keep students engaged without penalty](warmup-attempt-cap-office-hours-strategy.md)
+- [Use a compulsory but ungraded quiz to verify student familiarity with orientation material](compulsory-ungraded-orientation-quiz.md)
 
 ## Examples
 - **Intro psychology course**: instructor posts a 5-question ungraded Canvas quiz on memory concepts before students read the textbook chapter; the same concepts appear on the unit exam with higher accuracy than un-pretested concepts.

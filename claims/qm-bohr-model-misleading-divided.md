@@ -67,3 +67,4 @@ Shabnam Siddiqui and Chandralekha Singh. (2010). Surveying Instructors’ Attitu
 - [Instructors' major concern is students' conceptual difficulties in QM, which one instructor viewed as avoidable in many situations if inaccurate descriptions are not taught](qm-instructors-conceptual-difficulties-primary-concern.md) — related
 - [Comparing and contrasting different atomic models is a key curriculum feature for helping students move beyond the Bohr model](comparing-contrasting-models-key-feature.md) — related
 - [Instructors varied on emphasizing connections between classical mechanics and QM, with several focusing mainly on the differences](qm-cm-connections-emphasis-varied.md) — related
+- [Secondary and lower undergraduate students have difficulty letting go of Bohr's planetary atomic model](difficulty-letting-go-bohr-planetary-model.md) — related

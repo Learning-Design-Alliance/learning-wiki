@@ -44,4 +44,4 @@ A 12-question research-based multiple-choice survey developed by McKagan et al. 
 ## Key Sources
 - McKagan, S. B., Perkins, K. K., & Wieman, C. E. (2010). The Design and Validation of the Quantum Mechanics Conceptual Survey. https://arxiv.org/abs/1007.2015. [doi:10.48550/arxiv.1007.2015](https://doi.org/10.48550/arxiv.1007.2015)
 - Guangtian Zhu and Chandralekha Singh. (2011). Surveying students' understanding of quantum mechanics in one spatial dimension. http://goo.gl/tSKuK
-- Singh, C. and Zhu, G. (2010). Surveying Students' Understanding of Quantum Mechanics. Department of Physics and Astronomy, University of Pittsburgh. https://www.aapt.org
+- Singh, C. and Zhu, G. (2010). Surveying Students' Understanding of Quantum Mechanics. Department of Physics and Astronomy, University of Pittsburgh. https://www.aapt.org. [doi:10.1063/1.3515229](https://doi.org/10.1063/1.3515229)

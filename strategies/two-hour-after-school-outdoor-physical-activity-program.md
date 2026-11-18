@@ -52,6 +52,7 @@ The article's intervention is a structured 2-hour (4-6 pm) after-school physical
 ## Related Strategies
 
 - [Provide a programme manual plus mentoring and support before scaling up a teacher-developed physical activity intervention](manual-and-mentoring-before-full-trial.md)
+- [Check terrain safety and prefer outdoor play for the game](quark-wars-terrain-safety-outdoor-play-strategy.md)
 
 ## Examples
 -

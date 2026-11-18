@@ -45,7 +45,8 @@ A low-cost laboratory kit for quantitative Doppler measurements: a sound source 
 - [Pendulum Doppler G One Percent](../claims/pendulum-doppler-g-one-percent.md) [+M]
 
 ## Related Designs
-- 
+
+- [Fan-reflection 40 kHz acoustic Doppler apparatus with DrDAQ ADC and spectrum analysis](fan-ultrasound-doppler-drdaq-apparatus.md)
 
 ## Examples
 -

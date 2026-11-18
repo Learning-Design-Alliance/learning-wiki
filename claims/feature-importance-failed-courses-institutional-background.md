@@ -70,3 +70,4 @@ Authors' discussion of the regression feature importance results (Fig. 4), where
 - [SHAP analysis identifies undergraduate GPA rank as the most influential predictor, followed by gender, confidence, undergraduate score average, and CET-4 performance](shap-undergrad-gpa-rank-strongest-predictor.md) — related
 - [Engineered practice-balance features outperform raw activity counts: the Intensity Ratio ranks third among Codeforces predictors, and upsolving habit dominates the survey model](intensity-ratio-and-upsolving-habit-top-feature-importance.md) — related
 - [Biology and Introduction to Health Sciences midterm scores are the strongest predictors of at-risk classification, with SHAP analyses showing the largest case-level impact](biology-intro-midterms-strongest-predictors.md) — related
+- [Students' CT performance correlates with their overall GPA, suggesting CT as a predictor of academic success](ct-performance-correlates-with-gpa.md) — related

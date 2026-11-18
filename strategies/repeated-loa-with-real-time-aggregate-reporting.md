@@ -43,6 +43,7 @@ The article recommends that a professional community access the LoA on an ongoin
 ## Related Strategies
 
 - [Sustain a faculty community of practice for creative problem-solving pedagogy](monthly-faculty-meetings-creative-pedagogy-development.md)
+- [Use modular real-time visualizations as interventions to study and shape distributed group communication](real-time-visualization-group-intervention-strategy.md)
 
 ## Examples
 -

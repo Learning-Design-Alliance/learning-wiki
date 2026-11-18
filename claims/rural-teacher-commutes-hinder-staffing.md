@@ -85,3 +85,4 @@ Site visit data on SIG-funded incentives across the rural schools. Administrator
 - [Smaller rural districts tend to outperform larger ones, but large geographic spread limits their capacity to manage turnaround efforts](small-rural-districts-outperform-larger-but-distance-limits-turnaround-capacity.md) — related
 - [Qualitative data support the view that the four-day school week helps attract and retain teachers in rural districts](four-day-week-teacher-recruitment-qualitative.md) — related
 - [Few SIG schools with high ELL enrollments used staffing strategies to build teacher capacity for serving ELLs](few-sig-schools-staffing-strategies-ell-teacher-capacity.md) — related
+- [High staff turnover at Paranal creates a continuous need for considerable training effort](turnover-drives-continuous-training-need.md) — related

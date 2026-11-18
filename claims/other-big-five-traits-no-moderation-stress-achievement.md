@@ -55,3 +55,4 @@ Moderation analyses in the same survey (Table 2, Models 1–4). The article repo
 - [Extraversion, Agreeableness, and Conscientiousness are positively associated with non-performance and performance components of academic achievement](personality-traits-academic-achievement-paths.md) — related
 - [Adolescent girls scored higher than boys on conscientiousness, openness, emotion management, and neuroticism](gender-differences-big-five-em-adolescents.md) — related
 - [Extraversion and resilience correlate with lower tutor stress; most other personality traits show no correlation](extraversion-resilience-protective-tutor-stress.md) — related
+- [No relationship between students' personality traits and their grades was unveiled, except a marginal negative agreeableness correlation in the first study](personality-traits-no-grade-relationship.md) — related

@@ -53,3 +53,4 @@ Wilcoxon signed-rank test within the experimental group (N=46), applied because 
 - [The experimental group's science process skills improved significantly from pre-test to post-test after four weeks of place-based teaching](place-based-group-significant-pre-post-gain.md) — related
 - [Science process skills scores fell from pretest to posttest within the control group under traditional laboratory instruction, without a significant change](traditional-lab-instruction-no-sps-improvement.md) — related
 - [Inquiry-based biology laboratory courses produce significantly higher learning gains than non-inquiry laboratory courses, with a mean effect size of 0.73 in controlled studies](inquiry-labs-significantly-higher-learning-gains.md) — related
+- [Pre-test to post-test scores rose significantly on all three topics after pre-class assignments, in one single-group pre-post study](preclass-assignment-learning-gains.md) — related

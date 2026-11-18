@@ -54,6 +54,7 @@ Pre-questioning introduces "a summary that echoes the text content," after which
 - [Pretesting](pretesting.md)
 - [Question Generation](question-generation.md)
 - [Teach ESP technical vocabulary through sequenced pre-task, task-cycle and post-task activities](task-based-esp-vocabulary-lesson-sequence.md)
+- [Begin teaching sequences with activities that draw out students' ideas and provide opportunities for expression](draw-out-student-ideas-sequence-start.md)
 
 ## Examples
 -

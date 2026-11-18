@@ -48,3 +48,4 @@ Narrative synthesis of cross-sectional and longitudinal studies of physics major
 
 ## Related Claims
 - [Ordinary physics courses produce negative or zero shifts in students' expert-like beliefs, while model-building and explicit belief-development courses produce positive shifts](physics-instruction-belief-shifts-meta-analysis.md) — related
+- [Preliminary comparison suggests longitudinal E-CLASS trends are similar for physics majors and non-physics majors](longitudinal-trends-similar-across-majors.md) — related

@@ -48,6 +48,7 @@ The authors recommend that educational communities facilitate online collaborati
 
 - [Community Building](community-building.md)
 - [Facilitation conditions for the drawing and Facebook activities: clear presentation, small rotating comparison groups, climate of trust, and active participation in online sharing](drawingvoice-facilitation-conditions.md)
+- [Four facilitation strategies for safe intergroup discussions](facilitation-strategies-intergroup-discussions.md)
 
 ## Examples
 -

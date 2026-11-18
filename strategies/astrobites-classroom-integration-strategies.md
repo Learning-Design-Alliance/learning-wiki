@@ -47,7 +47,11 @@ The authors propose four novel curricular applications of Astrobites to suppleme
 - [Undergraduates new to research lack jargon comprehension, knowledge of research practices, and familiarity with the technical literature, and limited mentor interaction time constrains immersion](../claims/undergraduate-research-readiness-barriers.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Periodic Astrobites reading assignments with guided questions, electronic response collection, and in-class discussion](method1-periodic-reading-guided-questions.md)
+- [Student research project: topic selection, scaffolded reading of related Astrobites articles, and a paper or presentation](method2-student-research-project-astrobites.md)
+- [Student writing assignment: authoring an Astrobites-style summary with peer editing and optional guest-post publication](method3-student-astrobite-writing-assignment.md)
+- [Partner with instructors to run controlled classroom studies of the methods' impacts on literature facility, perceptions, and reading habits](controlled-classroom-study-astrobites-impacts.md)
 
 ## Examples
 -

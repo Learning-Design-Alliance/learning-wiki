@@ -47,3 +47,4 @@ Program-level outcome report by the program founders describing four semesters o
 ## Related Claims
 - [Peer pressure within project groups was often more motivational than faculty guidance, and allowing group splits rescued motivated members](peer-pressure-group-splits-motivation.md) — related
 - [Quantitative fisheries science projects had the highest early success rate, with four of seven As in the first semester](fisheries-projects-high-success-rate.md) — related
+- [The authors' mentored projects show high competition placement rates and frequent publication](mentored-science-project-outcome-rates.md) — related

@@ -55,3 +55,4 @@ The authors' theoretical interpretation of dialogue patterns, offered as an expl
 - [Dyadic pair interaction showed domination and unequal cognitive engagement, consistent with prior CSCL drawback findings](dyadic-domination-unequal-engagement.md) — related
 - [Structured collaboration did not significantly improve balance of student code contributions compared to free collaboration](structured-dpp-no-contribution-balance-gain.md) — related
 - [Group sizes of five or six led to domination or freeloading, while groups of three or four maximized each member's potential to contribute.](group-size-three-or-four-avoid-freeloading.md) — related
+- [Informing Mode: one student explains while others listen or ask clarifying questions, with consonant and consensual character](informing-mode-consensual-consensual.md) — related

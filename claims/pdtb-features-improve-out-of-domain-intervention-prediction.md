@@ -1,0 +1,52 @@
+---
+type: claim
+title: "Augmenting a state-of-the-art intervention predictor with PDTB discourse features improves out-of-domain prediction of instructor intervention by 3.4% F1 on average across 14 MOOCs"
+description: "Augmenting a state-of-the-art intervention predictor with PDTB discourse features improves out-of-domain prediction of instructor intervention by 3.4% F1 on average across 14 MOOCs"
+id: pdtb-features-improve-out-of-domain-intervention-prediction
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-17
+evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2020
+sources:
+  - id: muthu-kumar-chandrasekaran-2017
+    resource: "https://doi.org/10.1609/aaai.v31i1.11015"
+    title: "Muthu Kumar Chandrasekaran, Carrie Demmans Epp, Min-Yen Kan, Diane Litman. (2017). Using Discourse Signals for Robust Instructor Intervention Prediction. Association for the Advancement of Artificial Intelligence. [doi:10.1609/aaai.v31i1.11015](https://doi.org/10.1609/aaai.v31i1.11015)"
+    author: Muthu Kumar Chandrasekaran, Carrie Demmans Epp, Min-Yen Kan, Diane Litman
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
+---
+
+# Augmenting a state-of-the-art intervention predictor with PDTB discourse features improves out-of-domain prediction of instructor intervention by 3.4% F1 on average across 14 MOOCs
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
+
+## Subclaims
+`q2 i?` In leave-one-out cross-course-validation over 14 MOOCs, the combined EDM'15 + PDTB model outperforms the EDM'15 baseline by 3.4% F1 on average, with the gain largely from a 5.7% recall improvement. [→ Muthu Kumar Chandrasekaran 2017](#muthu-kumar-chandrasekaran-2017)
+
+## Evidence
+
+### Muthu Kumar Chandrasekaran 2017
+
+Muthu Kumar Chandrasekaran, Carrie Demmans Epp, Min-Yen Kan, Diane Litman. (2017). Using Discourse Signals for Robust Instructor Intervention Prediction. Association for the Advancement of Artificial Intelligence. [doi:10.1609/aaai.v31i1.11015](https://doi.org/10.1609/aaai.v31i1.11015)
+
+`q2 · i?` · `design · r2`
+
+Out-of-domain evaluation using leave-one-out cross-course-validation over the 14-MOOC corpus, comparing the EDM'15 baseline with the E+P augmented model. The article reports "E+P betters EDM'15 performance by 3.4% on average", attributing the F1 gain mainly to recall. No standardized effect size is printed.
+
+> "Table 4 shows the performance of the EDM'15 and E+P models on each of the 14 MOOCs from LOO–CCV . E+P betters EDM'15 performance by 3.4% on average. The improved F1 is largely due to a 5.7% improvement in recall."
+
+## Discussion
+
+
+## Related Claims
+- [Contingency and Expansion discourse relations contribute most among the PDTB features for predicting instructor intervention](contingency-expansion-relations-contribute-most.md) — related
+- [PDTB discourse features boost intervention prediction most when courses have low intervention ratios and fewer positive instances to learn from](pdtb-features-help-low-intervention-ratio-courses.md) — related
+- [With PDTB discourse features added, the combined model outperforms the EDM'15 baseline on average in the in-domain setting across 14 MOOC offerings](pdtb-features-improve-in-domain-intervention-prediction.md) — related
+- [PDTB discourse features are more robust than vocabulary-based features across MOOC domains, gaining 11.6% out-of-domain versus 2.7% for the vocabulary baseline](pdtb-features-robust-to-domain-differences.md) — related

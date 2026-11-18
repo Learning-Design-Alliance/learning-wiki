@@ -71,3 +71,4 @@ The same meta-analysis found institution type uncorrelated with normalized gains
 - [Institutional type (Carnegie classification) does not affect normalized gain after controlling for teaching method and test](carnegie-type-no-effect-on-gain.md) — possibly the same claim (merge candidate)
 - [Interactive engagement instruction yields significantly higher normalized learning gains than traditional lecture on both the FCI and FMCE](ie-higher-gains-than-lecture-physics-50k.md) — related
 - [Class-average pre-test score and institutional SAT score do not correlate with normalized gain after correcting for test and teaching method](pretest-and-sat-no-gain-correlation.md) — possibly the same claim (merge candidate)
+- [In a multiple linear regression of LA-supported courses, non-dominant status predicts effect sizes 0.262 higher than dominant peers, and the FMCE predicts effect sizes 0.2 lower than the FCI](regression-non-dominant-fmce-coefficients.md) — related

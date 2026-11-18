@@ -27,4 +27,4 @@ DiffGame is a browser-based suite of game-like interactive exercises developed b
 -
 
 ## Key Sources
-- Pedersen, M. K., Svenningsen, A., Dohn, N. B., Lieberoth, A., & Sherson, J. (2016). DiffGame: Game-based mathematics learning for physics.
+- Pedersen, M. K., Svenningsen, A., Dohn, N. B., Lieberoth, A., & Sherson, J. (2016). DiffGame: Game-based mathematics learning for physics. [doi:10.1016/j.sbspro.2016.07.047](https://doi.org/10.1016/j.sbspro.2016.07.047)

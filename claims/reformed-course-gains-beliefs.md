@@ -83,3 +83,4 @@ Comparison courses reported in the same section: the pre-reform engineering cour
 - [By normalized favorable gain on the indeterminacy statement, ENG-INT showed the greatest positive impact among engineering courses, comparable with the physics majors course.](eng-int-greatest-normalized-gain-indeterminacy-attitudes.md) — related
 - [One semester of modern physics instruction significantly shifts student reasoning toward quantum-specific justifications on a measurement statement.](modern-physics-instruction-shifts-quantum-reasoning.md) — related
 - [Simulations reportedly generated more student discussions on the foundations of quantum mechanics than the previous year, an anecdotal observation](simulations-sparked-foundations-discussions.md) — related
+- [Interactive engagement methods produced significantly higher QMCS scores than traditional teaching](interactive-engagement-higher-quantum-scores.md) — related

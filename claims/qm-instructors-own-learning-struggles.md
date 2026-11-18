@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2010
+source_checked: 2026-11-17
 recheck_by: 2015
 sources:
   - id: shabnam-siddiqui-and-chandralekha-singh-2010
@@ -41,7 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r1` · `q2`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
+> **Currency** · newest study 2010 · checked against its sources 2026-11-17 (automated, 3 of 3 entries) · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Some faculty members struggled to make sense of QM as undergraduates although they were facile at mathematical calculations and obtained good grades. [→ Shabnam Siddiqui and Chandralekha Singh 2010](#shabnam-siddiqui-and-chandralekha-singh-2010)

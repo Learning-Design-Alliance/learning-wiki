@@ -67,3 +67,4 @@ Chi-square tests comparing pooled resource uptake between 2009 and 2010 found "s
 - [mLearning students prefer video-based materials with each video under 5 minutes](mlearning-students-prefer-short-videos-under-5-minutes.md) — related
 - [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](guo-video-style-engagement-findings.md) — related
 - [Most remote courses used both synchronous and asynchronous delivery mechanisms](remote-courses-mixed-synchronous-asynchronous-delivery.md) — related
+- [Ciênsação experiments are accessed by teachers worldwide, with appreciative feedback from countries as diverse as Ghana and Germany](ciensacao-global-teacher-uptake.md) — related

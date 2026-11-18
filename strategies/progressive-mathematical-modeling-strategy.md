@@ -47,6 +47,7 @@ The author transferred Tracker's video-modeling pedagogy into EjsS simulations: 
 ## Related Strategies
 
 - [Enable full-screen app-like simulation display on small mobile screens for anytime, anywhere learning](fullscreen-mobile-simulation-strategy.md)
+- [Dynamically resizing on-screen formulas to link game actions with analytical expressions](dynamic-font-size-formula-display.md)
 
 ## Examples
 -

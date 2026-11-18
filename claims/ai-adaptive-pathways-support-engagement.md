@@ -54,3 +54,5 @@ The review reports, citing Fisher & Baird (2020), that adaptive platforms person
 - [Adaptive learning systems report academic performance gains of 15–25% and engagement increases of up to 40%](adaptive-learning-gains-15-25-percent.md) — related
 - [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — possibly the same claim (merge candidate)
 - [ITSs as core or supplementary components of instruction show positive learning gains in individual studies, including ALEKS, Writing Pal, and eDia platform deployments](its-individual-study-positive-gains.md) — related
+- [Recent studies of adaptive systems report improvements in perceived learning, motivation, and satisfaction](adaptive-systems-improve-perceived-learning-motivation.md) — related
+- [Adaptive educational hypermedia systems are reported effective at tailoring instruction for heterogeneous groups in higher education and K-12](aeh-effective-tailoring-heterogeneous-groups.md) — related

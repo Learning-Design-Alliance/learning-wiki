@@ -50,3 +50,4 @@ One-group in-class pre/post evaluation in three upper-level QM courses: pretest 
 - [Upper-level undergraduate students show large pretest-to-posttest gains on quantum key distribution concepts after working through the QKD QuILT](qkd-quilt-pretest-posttest-gains.md) — possibly the same claim (merge candidate)
 - [Upper-level undergraduates improved dramatically from pre- to post-test after working through the double-slit QuILT, with a normalized gain of 0.94](quilt-dse-undergraduate-normalized-gain-0-94.md) — related
 - [Undergraduate pre- to post-test performance rose significantly from pre-test to post-test after working through the QuILT on addition of angular momentum, in one single-group pre-post study](quilt-angular-momentum-pre-post-gains.md) — related
+- [The DPT QuILT significantly improved pretest-to-posttest performance for both undergraduates and graduate students](quilt-improves-dpt-prepost-scores.md) — related

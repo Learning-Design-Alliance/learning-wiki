@@ -55,3 +55,4 @@ For the postdiction bias of factual questions, which slightly tended toward unde
 - [Low self-confidence leads trainees to underestimate and examiners to give lower grades](low-self-confidence-underestimation-lower-grades.md) — related
 - [Female first-semester medical students tend to overestimate their performance while male students tend to underestimate theirs, with realistic self-assessment more common among women](gender-differences-over-underestimation-first-semester.md) — reports the opposite
 - [On the knowledge test, the highest performers significantly underestimated their scores while lower performers significantly overestimated theirs](high-performers-underestimate-low-overestimate-knowledge-test.md) — related
+- [The only significantly female-biased iCMA questions involve careful reading, with small bias magnitude](female-bias-careful-reading-questions.md) — related

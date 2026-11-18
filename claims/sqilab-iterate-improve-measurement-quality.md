@@ -47,3 +47,4 @@ Class-level comparison of two cohorts in similar pendulum-amplitude experiments 
 ## Related Claims
 - [A student pair's iterative redesign raised their pendulum t'-score from 0.18 to 3.71, leading them to conclude the two amplitude measurements differed](pendulum-pair-t-score-progression.md) — related
 - [SQILab students can recognize limitations of the small-angle model when their precise measurements conflict with class expectations](sqilab-students-recognize-model-limitations.md) — related
+- [Prior SQILabs instruction significantly improved the quality of students' follow-up reasoning on comparisons, with no significant difference between the two SQILabs groups](sqilabs-improves-follow-up-reasoning-quality.md) — related

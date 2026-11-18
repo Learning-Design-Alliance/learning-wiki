@@ -58,3 +58,4 @@ Numerical comparison of average normalized gain gN (Hake, 1998) across 2007–20
 - [An interactive-engagement mechanics course using MasteringPhysics yields a normalised FCI gain of about 0.18 with a statistically significant pre-to-post improvement](cbcmp-fci-normalised-gain-018.md) — related
 - [Normalised gains on the six force-identification FCI questions are low, ranging from 13% to 30%](low-gain-force-identification-questions.md) — related
 - [ACI administration diagnosed low teaching effectiveness for action concepts in 2014, with normalized gain improving after the 2015 course redesign](aci-normalized-gain-2014-2015.md) — related
+- [One case-study student who engaged in self-regulated learning improved from 18-24% below the class average on early tests to 6% below by the fourth test, with an FCI normalized gain of 0.70 versus 0.34 for students with similar scientific reasoning scores.](case-study-self-regulated-learner-exceeded-expectations.md) — related

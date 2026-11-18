@@ -47,3 +47,6 @@ Detailed item-level examination of pre-to-post response transitions on the six p
 ## Related Claims
 - [On six FCI force-identification questions, student answers cluster on a pair of dominant answers containing the correct choice and a superset wrong choice](polarising-choices-force-identification.md) — related
 - [Normalised gains on the six force-identification FCI questions are low, ranging from 13% to 30%](low-gain-force-identification-questions.md) — related
+- [Transition matrix analysis of FCI Question 18 shows post-instruction movement to better incorrect answer choices that dichotomous scoring does not reveal](transition-matrices-richer-than-dichotomous-scoring.md) — related
+- [Transition rates to the correct FCI answer can be higher from a worse incorrect answer than a better one, as shown by answer choice E on Question 18](transition-rate-worse-answer-can-exceed-better.md) — related
+- [The ranking of incorrect FCI answer choices comes from item response curves relating answer choice selection to total score as a proxy for understanding](irc-ranking-of-incorrect-answers.md) — related

@@ -48,3 +48,4 @@ Survey item asking respondents who never used a method to give one reason per me
 - [Most medical instructors rate feedback as important or very important, with no significant differences by gender or location](instructors-rate-feedback-important-survey.md) — related
 - [Verbal feedback is the most commonly used feedback method, followed by peer feedback, while checklists, written and technology-based feedback are rarely used](verbal-feedback-most-used-method.md) — related
 - [Non-users of VM blamed lack of hardware devices, internet access, technical knowledge, and insufficient promotion by instructional personnel](vm-nonusers-obstacles-devices-promotion.md) — related
+- [Most Kankor participants lack understanding of the test's structure and procedures, and unfamiliarity and lack of preparation are widely believed to be main reasons for failing](kankor-unfamiliarity-and-preparation-beliefs.md) — related

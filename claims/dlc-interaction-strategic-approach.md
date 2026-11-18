@@ -51,3 +51,4 @@ Group comparison of strategy scores among 316 first-year bioscience engineering 
 - [Frequent use of reflective prompts related to better strategic problem-solving and conceptual understanding](reflective-prompts-frequency-problem-solving.md) — related
 - [Graduate students can effectively develop interactive educational online software modules as a curriculum component of an advanced science course](graduate-students-develop-interactive-modules-as-course-project.md) — related
 - [Students who completed more modules made significantly more attempts per module than low completers](completers-more-attempts-significant.md) — related
+- [Problem modifiers scored about 90% versus about 58% for the rest of the class on Angular Momentum final-exam problems](angular-momentum-modders-versus-class.md) — related

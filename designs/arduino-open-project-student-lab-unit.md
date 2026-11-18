@@ -46,7 +46,8 @@ A project-based lab for third-year fundamental physics students at Paris-Sud, or
 - [Open Project Students Emphasize Experimental Process](../claims/open-project-students-emphasize-experimental-process.md) [+M]
 
 ## Related Designs
-- 
+
+- [Low-budget Arduino-based sensor kit with datasheet calibration for CanSat atmospheric measurement](cansat-arduino-low-budget-sensor-kit.md)
 
 ## Examples
 -

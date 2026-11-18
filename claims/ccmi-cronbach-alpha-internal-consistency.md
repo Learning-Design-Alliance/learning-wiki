@@ -52,3 +52,4 @@ Internal-consistency analysis of the pooled CCMI post-test data at CU. The artic
 - [Theoretically defined test reliability computable from a single administration via parallel-half vector lengths and angle exceeds split-half reliability but falls below Cronbach alpha](single-administration-theoretical-reliability-vectors.md) — related
 - [Mean CCMI post-test score across three pooled semesters was 52.9%, with a wide score range and some students outperforming first-year graduate students](ccmi-pooled-mean-score-distribution.md) — related
 - [The CCMI is a difficult assessment: mean score 49.0% with first-year graduate students averaging 74.5%](ccmi-difficult-assessment.md) — related
+- [Cronbach's alpha for FASCI scores (FA 0.62, SCI 0.51) falls well below the 0.80 target for an open-ended scenario-based instrument](fasci-cronbach-alpha-below-target.md) — related

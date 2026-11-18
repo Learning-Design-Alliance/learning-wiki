@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 699 claims (375 show a difference, 163 mixed, 161 no difference) · 490 studies (256 associational, 171 causal, 20 review, 18 quant-synthesis, 12 design, 8 theoretical, 5 qualitative), `q1`–`q4` · 70 of 490 report an effect size · 691 claims rest on one study
+> **Evidence** · 707 claims (379 show a difference, 166 mixed, 162 no difference) · 494 studies (259 associational, 172 causal, 20 review, 18 quant-synthesis, 12 design, 8 theoretical, 5 qualitative), `q1`–`q4` · 71 of 494 report an effect size · 699 claims rest on one study
 
 ## How to read this page
 
@@ -738,6 +738,14 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [No overall gender difference on the Turkish AAPS survey, but male and female response distributions differed significantly on 11 of 33 items, split roughly evenly in favor of each gender](../claims/turkish-aaps-gender-item-level-differences.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The E-CLASS gender gap is of moderate size for non-physics majors but small for physics majors, and physics majors of both genders outscore non-physics majors](../claims/eclass-gender-gap-smaller-physics-majors.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The E-CLASS gender gap is smaller in beyond-first-year than first-year courses — decreasing from a moderate to a small effect size — while remaining statistically significant, and BFY students of both genders score higher](../claims/eclass-gender-gap-smaller-bfy-than-fy.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [A marginally significant lecturer main effect reflected male students' greater variation in ratings of individual lecturers](../claims/individual-lecturer-variation-male-students.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Both female and male students rate male physics professors higher than female professors on scientific thinking and hands-on skills](../claims/male-as-scientist-bias-scientific-skills-ratings.md) [-M] — an instructional effect differs by group
+- [In the vector calculus workshop, the female participants' persistence index was 100.6% higher than the male participants'](../claims/wvc1-female-persistence-index-higher.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Male students rate male physics professors more positively than female professors on overall evaluation, while female students rate them equally](../claims/male-students-overall-evaluation-gender-interaction.md) [~M] — an instructional effect differs by group
+- [Male students recommend hiring male physics professors more strongly than female professors, and hiring recommendations track overall evaluations](../claims/male-students-hiring-recommendation-bias.md) [+M] — an instructional effect differs by group
+- [Male students report far more interest in physics outside school than female students (about 80% vs 46%)](../claims/masterclass-male-female-physics-interest-outside-school-gap.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Neither multiple-choice format nor scaffolding level sufficiently explains the physics gender gap](../claims/neither-mc-nor-scaffolding-explains-gender-gap.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The only significantly female-biased iCMA questions involve careful reading, with small bias magnitude](../claims/female-bias-careful-reading-questions.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

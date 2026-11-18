@@ -82,3 +82,4 @@ The article's summary of existing experimental studies (Section IV) documenting 
 - [A meta-analysis of FCI and FMCE data found no correlation of institutional SAT scores, pre-test scores, or institution type with normalized gains, though pre-test scores correlate with institution type.](normalized-gains-institution-type-independent.md) — reports the opposite
 - [Institutional type (Carnegie classification) does not affect normalized gain after controlling for teaching method and test](carnegie-type-no-effect-on-gain.md) — reports the opposite
 - [Class-average pre-test score and institutional SAT score do not correlate with normalized gain after correcting for test and teaching method](pretest-and-sat-no-gain-correlation.md) — reports the opposite
+- [Normalized gain g is positively biased in favor of populations with higher pretest scores](normalized-gain-biased-favoring-high-pretest-populations.md) — possibly the same claim (merge candidate)

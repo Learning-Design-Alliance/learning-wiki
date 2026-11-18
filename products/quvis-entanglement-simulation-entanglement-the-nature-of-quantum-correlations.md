@@ -29,7 +29,8 @@ An interactive quantum-mechanics visualization developed by the QuVis Quantum Me
 - [Students incorrectly state that product states are entangled because they cannot be factorized, due to difficulty converting a sum of two-particle terms into a product of single-particle states](../claims/factorization-product-state-misconception.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [QuVis suite of four interactive QKD simulations](quvis-suite-of-four-interactive-qkd-simulations.md)
 
 ## Key Sources
 - Antje Kohnle and Erica Deffebach. (2015). Investigating student understanding of quantum entanglement. https://www.st-andrews.ac.uk/physics/quvis/simulations_html5/sims/entanglement/entanglement.html

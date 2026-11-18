@@ -34,3 +34,4 @@ Alice is a 3D programming environment developed by Carnegie Mellon University th
 ## Key Sources
 - Costa, J. M., & Miranda, G. L. (2019). Using Alice Software with 4C-ID Model: Effects in Programming Knowledge and Logical Reasoning. Informatics in Education, 18(1), 1-15. https://doi.org/10.15388/infedu.2019.01
 - Kleinert R, Heiermann N, Plum PS, Wahba R, Chang D, Maus M, Chon S, Hoelscher AH, Stippel DL. (2015). Web-Based Immersive Virtual Patient Simulators: Positive Effect on Clinical Reasoning in Medical Education. Journal of Medical Internet Research. https://doi.org/10.2196/jmir.5035
+- Karen Aguar, Charles C. Sanchez, Diego Boada Beltran, Saeid Safaei, Mehdi Assefi, Jonathan Arnold, Pedro Portes, Hamid R. Arabnia, Juan B. Gutierrez. (2017). Considerations for Interdisciplinary Instruction and Design Influenced by Adaptive Learning. A Case Study Involving Biology, Computer Science, Mathematics, and Statistics. https://arxiv.org/abs/1703.06010

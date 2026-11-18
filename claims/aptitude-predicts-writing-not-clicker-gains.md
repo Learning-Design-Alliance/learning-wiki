@@ -50,3 +50,4 @@ GLMM and correlational analyses using average multiple-choice exam score as an a
 ## Related Claims
 - [No significant treatment effect on clicker-question improvement from pre- to postactivity](no-treatment-effect-clicker-improvement.md) — related
 - [Instructor identity significantly affects student performance on in-class and exam writing during active learning](instructor-effect-active-learning-writing.md) — related
+- [No evidence that treatment affected the in-class clicker test following instruction](phet-preclass-no-inclass-treatment-effect.md) — related

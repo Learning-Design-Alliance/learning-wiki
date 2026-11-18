@@ -50,3 +50,5 @@ Numerical IRT analysis of the proportion of answer change ICi, plotted for the F
 - [Within the FCI-metric, questions 1 and 6 are the easiest and 25 and 26 the hardest, while questions 5, 13 and 18 discriminate best and question 29's item characteristic curve is almost flat](fci-item-difficulty-and-discrimination-extremes.md) — related
 - [Estimated guessing chances vary widely across FCI items, with question 16 above 30% and questions 23 and 26 at no more than 5% for low-proficiency students](fci-guessing-parameter-variation-across-items.md) — related
 - [IRT fairly well predicts observed gains and losses on the FCI as functions of pre-test score](irt-predicts-fci-gains-losses.md) — a broader claim this one bears on
+- [The ranking of incorrect FCI answer choices comes from item response curves relating answer choice selection to total score as a proxy for understanding](irc-ranking-of-incorrect-answers.md) — related
+- [Transition rates to the correct FCI answer can be higher from a worse incorrect answer than a better one, as shown by answer choice E on Question 18](transition-rate-worse-answer-can-exceed-better.md) — related

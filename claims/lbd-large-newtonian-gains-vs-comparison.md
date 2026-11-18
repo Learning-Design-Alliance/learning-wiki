@@ -50,3 +50,4 @@ Pre/post t-test comparison of an LBD honors science class (N=90 in 2002-03) agai
 - [CLASP students achieved an average normalized FCI gain of 0.39, above the traditional-course range and in the middle of the interactive-engagement range, despite only about a third of one quarter on mechanics](clasp-fci-normalized-gain.md) — related
 - [Newtonian concept performance declines significantly at intermediate points during an iteratively structured unit, with declines timed differently across concepts](intermediate-concept-performance-declines.md) — related
 - [Third-law performance drops to zero at the rubber band car quiz but response patterns show regression to an intermediate state, not a return to pretest reasoning](third-law-drop-intermediate-state.md) — related
+- [A majority of students do not develop a Newtonian view of force and motion after traditional instruction](majority-no-newtonian-view-traditional-instruction.md) — related

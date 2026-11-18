@@ -99,6 +99,8 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Reopen graded quizzes as ungraded, delayed practice near exam time and encourage all students — especially lower prior performers — to use them](delayed-requizzing-strategy.md)
 - [Provide corrective feedback on low-stakes quizzes when using test-enhanced learning](corrective-feedback-on-quizzes-strategy.md)
 - [Implement retrieval practice as frequent low- or no-stakes quizzes with feedback, framed as learning opportunities](low-stakes-retrieval-practice-implementation.md)
+- [Embed low-stakes formative assessment activities throughout the course, such as think-pair-share, clicker questions, tutorials with pre- and post-tests, collaborative problem solving, minute papers, and concept maps](embedded-low-stakes-formative-assessment-activities.md)
+- [Diagnose computation fluency with brief calculator-free quizzes, then provide practice or a math-for-physical-sciences course before the topic is needed](diagnose-remediate-math-automaticity-strategy.md)
 
 ## Examples
 - **[Retrieval Practice](https://www.retrievalpractice.org)** (Agarwal & Bain) — classroom guides and research summaries for implementing low stakes quizzing across K–12 subjects.

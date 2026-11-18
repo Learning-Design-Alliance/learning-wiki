@@ -47,7 +47,8 @@ Before using the FCI with a new student population, evaluate its reliability and
 - [All 30 FCI items fit the three-parameter item response model acceptably, with chi-square goodness-of-fit statistics below 1](../claims/fci-irt-goodness-of-fit-chi-square.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Assess conceptual learning from programming exercises with an animated Force Concept Inventory administered immediately before and after each exercise](animated-fci-pre-post-assessment-strategy.md)
 
 ## Examples
 -

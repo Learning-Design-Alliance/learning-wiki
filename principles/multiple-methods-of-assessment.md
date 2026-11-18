@@ -35,7 +35,7 @@ sources:
 # Multiple Methods of Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 57 claims (35 for, 20 mixed, 2 against) · 63 studies (17 causal, 11 associational, 10 review, 8 theoretical, 7 design, 5 quant-synthesis, 5 qualitative), `q1`–`q4` · 5 of 63 report an effect size · 51 claims rest on one study
+> **Evidence** · 58 claims (36 for, 20 mixed, 2 against) · 64 studies (17 causal, 12 associational, 10 review, 8 theoretical, 7 design, 5 quant-synthesis, 5 qualitative), `q1`–`q4` · 5 of 64 report an effect size · 52 claims rest on one study
 
 ## Conditional relationship
 
@@ -167,6 +167,7 @@ Relevant claims read against the model that do not change it, and off-topic clai
 - [University teachers surveyed in India largely support using the four-tool assessment strategy for larger student numbers, except the identical experimental test](../claims/university-teachers-support-four-tool-lab-assessment-strategy.md) [~W] — attached 2026-11-17 from Rajesh B. Khaparde (2009), which proposed "Four-tool laboratory assessment pattern with relative weightings set by course level and objectives".
 - [A relatively high percentage of correct-choice-incorrect-explanation (CI) answers appeared across many problems, revealing false positives invisible to answer-only scoring](../claims/high-percentage-ci-answers-free-response.md) [+W] — attached 2026-11-17 from Beth Thacker et al. (2011), which proposed "Use free-response assessments requiring shown work and explained reasoning alongside conceptual inventories to evaluate introductory instruction".
 - [In FR and MC/FR formats, a large share of introductory physics students choose the correct answer but cannot correctly explain their reasoning or show calculations (CI answers)](../claims/correct-choice-incorrect-explanation-common-in-fr-formats.md) [+W] — attached 2026-11-17 from Beth Thacker et al. (2012), which proposed "Include free-response questions requiring shown work and explained reasoning in courses dominated by MC assessment, because FR yields information on thinking processes MC cannot provide".
+- [Most students who computed the network correctly did so without demonstrating deeper conceptual understanding of series and parallel combinations](../claims/computation-without-conceptual-understanding.md) [+W] — attached 2026-11-17 from Abid H. Mujtaba (2016), which proposed "Couple limited-choice and computational exam questions with descriptive questions to probe deeper conceptual understanding".
 
 ## Objective and learner-valued goal
 

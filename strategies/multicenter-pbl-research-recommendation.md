@@ -47,6 +47,7 @@ The authors recommend that future primary research on PBL be conducted "at sever
 - [Medical schools should frequently evaluate students' perceptions of the educational environment and adapt methods flexibly](frequent-environment-evaluation-flexible-methods.md)
 - [Run preparatory pre-activities to adapt students and teachers before PBL treatment](pbl-pre-activities-adaptation.md)
 - [Future flipped classroom research should use larger multi-site samples, standardized facilitator training, and mixed-methods data collection](flipped-classroom-future-research-recommendations.md)
+- [Partner with instructors to run controlled classroom studies of the methods' impacts on literature facility, perceptions, and reading habits](controlled-classroom-study-astrobites-impacts.md)
 
 ## Examples
 -

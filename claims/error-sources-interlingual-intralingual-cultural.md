@@ -63,3 +63,4 @@ Theoretical review section (§3) categorizing error sources. The article states 
 - [L1-induced errors persist in advanced learners and risk fossilization if learners rely on compensatory communication strategies](l1-interference-errors-fossilization-risk.md) — a narrower finding that bears on this claim
 - [Pre-operative errors stem largely from insufficient preparation, including setup issues and cognitive distractions that affect accuracy](preoperative-preparation-and-distraction-errors.md) — related
 - [Mother-tongue interference errors resist full correction even under constructive feedback](interlingual-errors-resist-cfb-correction.md) — a narrower finding that bears on this claim
+- [Infant language acquisition proceeds gradually and in overlapping fashion across linguistic levels rather than in stages](gradual-overlapping-language-acquisition-trajectories.md) — reports the opposite

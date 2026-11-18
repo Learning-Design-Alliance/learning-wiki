@@ -45,6 +45,7 @@ When training reviewers of a specialist methodology, embed staff from the local 
 - [Consider multiprofessional team training in obstetrics involving all staff within their units](multiprofessional-team-training-obstetrics-recommendation.md)
 - [Deliver a three-day in-service critical care training using existing hospital structures, local facilitators, and supervised skill practice with return demonstrations](three-day-in-service-critical-care-training-strategy.md)
 - [Train paraprofessionals to deliver Sound Partners lessons using a local trainer plus manual and video-based professional development](sound-partners-paraprofessional-training-strategy.md)
+- [Full-day standardisation workshops to consolidate quality-control procedures](qc0-standardisation-workshops.md)
 
 ## Examples
 -

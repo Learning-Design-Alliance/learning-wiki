@@ -47,3 +47,7 @@ Univariate logistic regression on students in a Fall 2014 mechanics Modeling Ins
 ## Related Claims
 - [Persistence in Modeling Instruction correlates significantly with whole-network centrality measures (betweenness and closeness) but not with ego-network measures such as degree](betweenness-closeness-persistence-mi.md) — reports the opposite
 - [In a correlation meta-analysis across 69 course offerings, diffusion-based centralities correlated with academic achievement with high combined coefficients and predictive intervals](diffusion-centralities-meta-analysis-achievement.md) — related
+- [Betweenness centrality shows no statistically significant association with persistence in MI courses](betweenness-null-persistence.md) — related
+- [Higher indegree, outdegree, and closeness at the end of a first-semester Modeling Instruction course predict enrolling in the second MI course](centrality-predicts-mi-persistence.md) — related
+- [Closeness at the start of the second semester is predicted by prior participation in MI and by closeness at the end of the first semester](closeness-persists-across-semesters.md) — related
+- [Closeness centrality above an optimized threshold predicts persistence with up to 75% probability of successful inference](closeness-threshold-75-percent-inference.md) — related

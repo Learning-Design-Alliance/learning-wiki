@@ -46,3 +46,4 @@ Study findings from the think-aloud evaluation of the game design framework thro
 
 ## Related Claims
 - [In a structural equation model, self-efficacy for procedural knowledge positively predicts intended use of retrieval practice, while perceived cost negatively predicts reported use](self-efficacy-predicts-intent-cost-predicts-usage.md) — related
+- [Perceived threat, safeguard effectiveness, safeguard cost, self-efficacy, perceived severity and perceived susceptibility elements should be incorporated into a game design framework for computer users to avoid phishing attacks through their motivation](six-motivational-elements-phishing-game-framework.md) — related

@@ -65,3 +65,4 @@ Online usage statistics documented for the web version, collected since January 
 
 ## Related Claims
 - [The eClinic has stated technical limitations: no internal search or bookmarking, and lost quiz results on shutdown](eclinic-search-bookmarking-limitations.md) — related
+- [Ciênsação experiments are accessed by teachers worldwide, with appreciative feedback from countries as diverse as Ghana and Germany](ciensacao-global-teacher-uptake.md) — related

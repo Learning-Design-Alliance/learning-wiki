@@ -44,6 +44,7 @@ The paper argues technology is necessary but far from sufficient: at Georgia Sta
 
 - [Reduce institutional barriers through cross-department coordination, low-barrier review models, and faculty-based outreach](coordination-and-faculty-outreach-emergency-aid.md)
 - [Integrate background grade-prediction models into early alert advising systems](grade-prediction-early-alert-integration.md)
+- [Intentional advising: individually contact interested students at orientation, plan mathematics pathways, and follow up after grades post](intentional-advising-orientation-math-pathway-followup.md)
 
 ## Examples
 -

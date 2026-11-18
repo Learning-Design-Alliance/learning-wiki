@@ -76,3 +76,4 @@ Paired comparison within the experimental group: pre-test mean 39.815, post-test
 - [The experimental class XI AP1 averaged 90 on the posttest after using the media, versus 79.7 for control class XI AP2](corel-videostudio-posttest-experimental-90-control-79-7.md) — related
 - [Computer assisted instruction with Derive reduced misconceptions and raised understanding across all six derivative attainments](derive-instruction-reduces-derivative-misconceptions.md) — a narrower finding that bears on this claim
 - [Twelfth-grade students taught Access databases with Moodle-based educational software obtained significantly higher final-test grades than a comparable control class](moodle-access-software-higher-final-test-grades.md) — related
+- [Students show improved conceptual understanding of Einsteinian concepts after the Einstein-First program](einstein-first-improved-conceptual-understanding.md) — related

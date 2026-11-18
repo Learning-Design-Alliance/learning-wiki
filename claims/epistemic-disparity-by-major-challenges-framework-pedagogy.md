@@ -51,3 +51,4 @@ Authors' interpretation (type e) of the Table 1 major-by-orientation distributio
 - [Performance-oriented IPLS students show negative CLASS attitude gains across all item clusters (-0.09 to -0.32) while framework-oriented students show positive gains](performance-oriented-negative-class-gains.md) — related
 - [Framework-oriented students show positive normalized gains on CLASS problem-solving attitude clusters, while Vague and Performance-oriented students shift more novice-like](framework-orientation-class-gains.md) — related
 - [Performance-oriented lab groups heavily use the Recursive Plug and Chug and Mapping Math to Meaning epistemic games, typifying a novice-like problem-solving approach](performance-groups-recursive-plug-and-chug-games.md) — related
+- [Overall epistemic game frequency showed only a small effect of learning orientation or group dynamic in the F15 class](small-effect-orientation-dynamic-game-frequency.md) — related

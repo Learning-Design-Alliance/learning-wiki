@@ -74,3 +74,4 @@ Author interpretation regarding the class of 1924, for whom administration influ
 - [Army Alpha point scores correlate about +0.36 with academic grades among nearly 6000 college students, with correlations varying across sub-tests](army-alpha-grades-correlation-036-college.md) — related
 - [Discussing low test performance with a mentor is associated with much higher odds of serious test-taking behavior in a low-stakes progress test](mentor-discussion-low-performance-serious-test-taking.md) — related
 - [Consequences for not participating are associated with higher odds of serious test-taking behavior in a low-stakes assessment](participation-consequences-serious-test-taking.md) — related
+- [Curricular UGR projects ensure student sincerity because performance affects graduating grades](curricular-ugr-grade-accountability.md) — related

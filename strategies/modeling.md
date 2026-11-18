@@ -58,8 +58,10 @@ Modeling reduces the unguided search that overwhelms novices by supplying a refe
 5. Have learners articulate their own reasoning back ([Articulation](../elements/articulation.md)) to confirm the modeled strategies transferred.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — prepares learners to extract the right features from a model before they observe it
 - [Action-Oriented Feedback](action-oriented-feedback.md) — the natural follow-on to modeling; feedback references the modeled criteria
+- [Use explicit metacognitive questioning and visible instructor struggle to shift novice problem-solving approaches](schoenfeld-metacognitive-questioning-strategy.md)
 
 ## Examples
 - **[Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md)** — modeling is the first phase of the modeling–coaching–fading sequence described by Collins, Brown, and Newman.

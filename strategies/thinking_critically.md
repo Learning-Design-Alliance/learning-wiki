@@ -78,3 +78,7 @@ Critical thinking instruction works best when it is explicit, embedded in subjec
 - [Cognitive Activation](../principles/cognitive-activation.md) — the strategy operationalizes this principle by posing questions that require learners to go beyond reproduction: evaluate, justify, connect, and challenge
 - [Analogical Reasoning](../principles/analogical-reasoning.md) — comparing multiple cases side by side helps learners abstract the underlying criteria rather than memorizing surface judgments
 - [Ask Experts](../principles/ask-experts.md) — inviting learners to interrogate a text,
+
+## Related Strategies
+
+- [Defense of Instruction: coaches require teachers to articulate and defend instructional decisions with student data](defense-of-instruction-strategy.md)

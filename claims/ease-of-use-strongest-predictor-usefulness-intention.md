@@ -55,3 +55,5 @@ Multiple regression on pooled data from 17 students; VIF values for both predict
 - [ARCS motivation did not significantly predict behavioral intention but exerted a strong direct effect on use behavior, dominating its explanation](arcs-motivation-drives-use-behavior-not-intention.md) — related
 - [Self-efficacy, computer anxiety, and enjoyment collectively explained 91% of variance in perceived ease of use, with enjoyment the strongest predictor (β = 0.78)](enjoyment-strongest-predictor-perceived-ease-of-use.md) — related
 - [Perceived ease of use of Zoom is positively correlated with perceived usefulness, attitude and behavioral intention](peu-positive-correlation-tam-zoom.md) — related
+- [Perceived ease of use strongly influences perceived usefulness and enjoyment, and exerts significant indirect effects on attitude and usage intention](peu-indirect-effects-attitude-intention.md) — related
+- [Attitude and enjoyment are the most important factors influencing students' usage intention of online mathematical assessments, while perceived usefulness has no direct effect on intention](attitude-enjoyment-predict-usage-intention-maths-eassessment.md) — related

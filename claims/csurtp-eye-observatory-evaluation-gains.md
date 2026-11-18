@@ -66,3 +66,5 @@ A second outcome measure in the same evaluation: the review reports significant 
 ## Related Claims
 - [Preservice elementary teachers hold robust non-scientific conceptions of basic astronomical notions](preservice-teachers-astronomy-misconceptions.md) — related
 - [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — related
+- [Engaging primary teachers with the Bradford Robotic Telescope pushed teachers to learn more astronomy, with a reported 30% jump in STEM applications](brt-teacher-astronomy-learning.md) — related
+- [Robotic telescope technology has outpaced widespread inquiry-based classroom implementation](robotic-telescope-implementation-gap.md) — related

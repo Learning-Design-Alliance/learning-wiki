@@ -50,3 +50,4 @@ Survey of 645 university students using an in-house LMS in undergraduate MIS/FIT
 - [Computer self-efficacy has a strong significant relationship with computer anxiety](cse-strong-relationship-computer-anxiety.md) — related
 - [Technological complexity shows no significant effect on perceived ease of use or perceived usefulness of e-learning platforms](technological-complexity-paths-non-significant.md) — related
 - [Learner computer anxiety does not significantly affect e-learning satisfaction in this sample](computer-anxiety-null-satisfaction.md) — related
+- [Availability of IT services and computer self-efficacy strongly predict perceived ease of use of online mathematical assessments](ait-cse-predict-ease-of-use.md) — related

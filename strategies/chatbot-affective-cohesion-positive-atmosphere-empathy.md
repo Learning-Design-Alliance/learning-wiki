@@ -50,6 +50,7 @@ This strategy cultivates emotional bonds among team members through mutual compr
 - [Relationship Building](relationship-building.md)
 - [Community Building](community-building.md)
 - [Common Ground Group Assignments](common_ground_group_assignments.md)
+- [Frame collaborative learning as a game and build trust in teammates' ability to increase collaboration](frame-collaboration-as-game-with-trust.md)
 
 ## Examples
 -

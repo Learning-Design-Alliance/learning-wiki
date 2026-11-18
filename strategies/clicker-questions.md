@@ -71,6 +71,8 @@ Clicker questions are a core implementation of [Active Learning](../principles/a
 - [Use Cash-Participation in small classes of twenty-four or fewer as a more personal alternative to clicker systems](cash-participation-small-class-strategy.md)
 - [Use concept tests with peer instruction: poll challenging multiple-choice questions, then have students discuss and repoll](concept-tests-peer-instruction-improve-conceptual-understanding.md)
 - [Recast multiple-choice clicker questions as open-format questions requiring written justification to expose faulty reasoning behind correct answers](recast-clicker-questions-open-format-strategy.md)
+- [Break synthesis clicker questions into separate sub-questions before combining them into one question](break-synthesis-clickers-into-sub-problems.md)
+- [Embed low-stakes formative assessment activities throughout the course, such as think-pair-share, clicker questions, tutorials with pre- and post-tests, collaborative problem solving, minute papers, and concept maps](embedded-low-stakes-formative-assessment-activities.md)
 
 ## Examples
 - **[Peer Instruction](https://www.peerinstruction.net)** — Eric Mazur's method, originated in Harvard physics (ConcepTests), now used across STEM disciplines; question banks are published through the [Peer Instruction Network](https://blog.peerinstruction.net).

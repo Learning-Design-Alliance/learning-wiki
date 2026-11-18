@@ -54,6 +54,7 @@ The report recommends an iterative approach in which researchers use existing da
 - [Iteratively add complex clinical content and refine difficulty level before a full trial](add-complex-clinical-content-next-iteration-strategy.md)
 - [Improve the e-learning package's explanations and feedback, then re-test in an adequately powered trial of 90 participants](improve-lacaep-then-powered-trial-strategy.md)
 - [Use a two-phase pre-usability testing method (requirements gathering then questionnaire ranking) before developing a mobile collaborative learning application](two-phase-pre-usability-testing-strategy.md)
+- [Run a pilot study before the full experiment and be willing to restart with an improved design](pilot-study-before-full-student-experiment.md)
 
 ## Examples
 -

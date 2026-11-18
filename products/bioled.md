@@ -28,4 +28,4 @@ BioLEd is a two-semester biochemistry curriculum developed by Gray et al. that c
 -
 
 ## Key Sources
-- Gray, C., Price, C. W., Lee, C. T., Dewald, A. H., Cline, M. A., McAnany, C. E., Columbus, L., & Mura, C. (2014). Known Structure, Unknown Function: An Inquiry-based Undergraduate Biochemistry Lab Course. Biochemistry and Molecular Biology Education (BAMBEd). http://biochemlab.org
+- Gray, C., Price, C. W., Lee, C. T., Dewald, A. H., Cline, M. A., McAnany, C. E., Columbus, L., & Mura, C. (2014). Known Structure, Unknown Function: An Inquiry-based Undergraduate Biochemistry Lab Course. Biochemistry and Molecular Biology Education (BAMBEd). http://biochemlab.org. [doi:10.48550/arxiv.1507.08262](https://doi.org/10.48550/arxiv.1507.08262)

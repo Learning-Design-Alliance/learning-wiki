@@ -60,3 +60,4 @@ The article reports, citing both the research literature and the CST survey of 1
 - [Small rural teaching staffs forced PLCs across grades and subjects, and teachers in four schools felt isolated from same-subject colleagues](small-rural-staffs-cross-subject-plcs-isolation.md) — related
 - [Rural Nebraska districts' middle school CTE offerings are limited by teacher availability, with one CTE teacher often covering both middle grade and high school courses](rural-districts-cte-limited-by-teacher-availability.md) — a narrower finding that bears on this claim
 - [Principal turnover often has negative effects on student achievement, teacher retention, and school culture unless a much more effective principal replaces the prior one](principal-turnover-negative-effects.md) — related
+- [High staff turnover at Paranal creates a continuous need for considerable training effort](turnover-drives-continuous-training-need.md) — related

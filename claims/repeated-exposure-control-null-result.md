@@ -49,3 +49,4 @@ Control analysis on the 2012 final exam comparing four questions on topics learn
 - [On a delayed final exam roughly 12 weeks after teaching, undergraduates scored significantly higher on common curriculum questions they had taught than on the rest of the exam](delayed-final-exam-retention-gains.md) — related
 - [Regular low-stakes post-lecture testing produces higher final exam scores on tested than on non-tested material in undergraduate endodontics](testing-effect-endodontics-final-exam.md) — related
 - [Undergraduates in a service-learning peer-teaching program showed significant pre-to-post gains on content questions related to the genetics curriculum they taught, in two consecutive years](slp-peer-teaching-prepost-gains.md) — related
+- [The null lab effect persists when final-exam analysis is restricted to conceptual questions only](labs-no-conceptual-benefit-final-exams.md) — related

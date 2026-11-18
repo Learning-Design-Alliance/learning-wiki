@@ -10,6 +10,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-17
 sources:
   - id: yerushalmi-2014
     resource: "https://doi.org/10.1119/perc.2014.pr.068"
@@ -41,7 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies (3 entries) · 1 associational `r1`, 1 qualitative `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-17 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 
@@ -98,3 +99,7 @@ Simulated grading task at the start of a TA professional development program: 43
 - [TAs' grading approaches indicate a subtractive scheme, weighing domain knowledge and correctness in the detailed solution but rarely docking the brief solution for missing justifications](tas-subtractive-grading-scheme.md) — related
 - [After teaching experience and PD, many TAs changed their reasons for assigning grades, particularly their perception of what counts as adequate evidence of student thinking](ta-grading-reasons-evidence-perception-shift.md) — related
 - [The authors propose that TAs' belief-practice gap arises because research-recommended solution features conflict with values of engagement, standards, time, and grading](ta-belief-practice-gap-competing-values.md) — a broader claim this one bears on
+- [Physics TAs graded elaborated student solutions higher than brief solutions in both intro physics and QM contexts, with the difference statistically significant only for the QM solution pair](tas-grade-elaborated-higher-qm-significant-intro-not.md) — reports the opposite
+- [TAs who judged the intro physics problems easy often inferred correct understanding in the brief intro solution even when the solution showed no evidence of it](tas-inferred-understanding-brief-intro-solution-without-evidence.md) — related
+- [Physics TAs using a CA-inspired rubric scored an elaborated solution similarly to their pre-rubric score and did not match expert rubric scores, particularly for a brief solution](tas-rubric-scores-differ-from-expert-scores.md) — related
+- [Grader disagreement was highest for the brief introductory physics solution SSE, with a score standard deviation of 2.71](highest-grading-disagreement-brief-intro-solution-sse.md) — related

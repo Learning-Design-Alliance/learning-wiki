@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 121 claims (69 for, 49 mixed, 3 against) · 92 studies (43 causal, 19 quant-synthesis, 18 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 25 of 92 report an effect size · 115 claims rest on one study
+> **Evidence** · 122 claims (70 for, 49 mixed, 3 against) · 93 studies (43 causal, 19 quant-synthesis, 18 review, 5 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 25 of 93 report an effect size · 116 claims rest on one study
 
 ## Conditional relationship
 
@@ -184,6 +184,7 @@ Claims read against this model that do not change it. Each says what it is and w
 - [Students reinforced with an educational card game showed significantly higher mean gain scores than students reinforced with traditional exercises](../claims/card-game-higher-gain-than-traditional.md) [+W] — attached 2026-11-10 from Gutierrez (2014), which proposed "Use educational card games as supplemental reinforcement rather than replacing traditional instruction"; tests this page's relationship.
 - [Computer game-based instruction produces significantly greater world history learning achievement than non-game-based instruction in Chinese senior high school students](../claims/cgbi-greater-world-history-achievement.md) [+W] — attached 2026-11-10 from Yu Zhonggen et al. (2014), which proposed "Blended computer game-based instruction structured around goal, rules, levels, participation control, unknown results, and timely feedback"; tests this page's relationship.
 - [Students are significantly more motivated overall by computer game-based instruction than by traditional instruction, with availability of learning materials as the driving dimension](../claims/cgbi-higher-motivation-availability.md) [+W] — attached 2026-11-10 from Yu Zhonggen et al. (2014), which proposed "Blended computer game-based instruction structured around goal, rules, levels, participation control, unknown results, and timely feedback"; tests this page's relationship.
+- [The mobile game is somewhat effective in enhancing the user's phishing awareness](../claims/mobile-game-somewhat-effective-phishing-awareness.md) [+W] — attached 2026-11-17 from Arachchilage (2016), which proposed "Use game-based security education because games can motivate users and keep attention by providing immediate feedback"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

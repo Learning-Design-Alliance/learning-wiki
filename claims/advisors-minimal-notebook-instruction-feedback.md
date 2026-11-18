@@ -49,3 +49,4 @@ Interview coding of graduate research experiences. The article reports all 13 in
 - [Reading prior researchers' notebooks and experiencing negative consequences of missing records shaped documentation practice](old-notebooks-and-negative-experiences-shape-practice.md) — related
 - [Lab course activities did not necessitate notebook use because of their short, scripted timescale](lab-course-design-not-necessitating-notebooks.md) — related
 - [Physics graduate students developed documentation skills primarily through informal hands-on practice in authentic research settings](hands-on-authentic-practice-develops-documentation.md) — related
+- [Physics graduate students in experimental research groups broadly agree on the purpose of the lab notebook as a record of experimental progress that supports sense-making, future planning, publication, and communication](notebook-purpose-researcher-consensus.md) — related

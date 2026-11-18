@@ -56,3 +56,5 @@ Qualitative analysis of Kendra's anomalous statements in group A's episodes. The
 - [Gestures can reveal the content and source of student physics ideas, including ideas generated before they are articulated verbally](gestures-reveal-content-and-source-of-student-ideas.md) — related
 - [In a Newton's Third Law tutorial episode, clustering, persistence, resistance, and transition evidence supports the group as the unit of cognition](group-unit-newtons-third-law-episode.md) — related
 - [In a shadows-and-light tutorial episode, evidence supports the individual, not the group, as the unit of cognitive analysis](individual-unit-shadows-light-episode.md) — related
+- [In episodes with no clusters, students were not metacognitively engaging in each other's ideas; one student dominating conversation precluded nodes](no-clusters-no-mutual-metacognitive-engagement.md) — related
+- [The predominance of alpha shifts implies group members share similar framings and can easily reach consensus about what should occur next in problem solving](alpha-shift-dominance-similar-framing.md) — related

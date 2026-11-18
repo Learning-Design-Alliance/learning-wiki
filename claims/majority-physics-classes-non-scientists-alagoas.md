@@ -71,3 +71,4 @@ The same scientist/non-scientist breakdown of 2011 registrations shows "the rate
 - [Subjects cluster by specialist availability, and because physicists already focus on teaching their own subject, raising physics' specialist teaching rate requires more physics teachers](physics-specialist-rate-limited-by-teacher-supply.md) — related
 - [Only 11.0% of primary-school science registrations in Alagoas are taught by science graduates, with more geography, history and language teachers than physicists teaching science](primary-science-classes-non-specialists-alagoas.md) — related
 - [Two-thirds of the nation's more than 21,000 physics teachers do not have a degree in physics or physics education](two-thirds-physics-teachers-lack-physics-degree.md) — related
+- [Only 20% of physics classes at public schools in Alagoas were taught by teachers with a tertiary physics degree](alagoas-20-percent-physics-classes-specialist-teachers.md) — related

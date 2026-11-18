@@ -27,7 +27,8 @@ The framework models student generative-AI use in assessment as a two-player sym
 - [In simulations, responsible AI-use norms emerge only within a constrained design space: when reflection effort is high relative to its reward, opportunistic AI use persists, and near the boundary small changes in reward or effort produce large shifts in responsible-use frequency](../claims/reflective-assessment-constrained-design-space.md) [+M]
 
 ## Related Research Methods
--
+
+- [Cooperative game theory with Shapley values as an engine for analyzing collaborative learning interactions](cooperative-game-theory-with-shapley-values-as-an-engine-for-analyzing-collaborative-learn.md)
 
 ## Key Sources
 - Ndidi Bianca Ogbo, Zhao Song, Shatha Ghareeb, and The Anh Han. (2026). Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning. https://arxiv.org/abs/2605.27400

@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-16
 evidence_strength: weak
-newest_evidence: 2012
+newest_evidence: 2011
 sources:
-  - id: eugene-t-torigoe-2012
+  - id: eugene-t-torigoe-2011
     resource: "https://doi.org/10.48550/arXiv.1112.3229"
-    title: "Eugene T. Torigoe. (2012). How numbers help students solve physics problems. arXiv. [doi:10.48550/arXiv.1112.3229](https://doi.org/10.48550/arXiv.1112.3229)"
+    title: "Eugene T. Torigoe. (2011). How numbers help students solve physics problems. arXiv. [doi:10.48550/arXiv.1112.3229](https://doi.org/10.48550/arXiv.1112.3229)"
     author: Eugene T. Torigoe
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Three students incorrectly eliminated the known quantity d from d = v₀t and d = ½at², ending with one equation and two unknowns. [→ Eugene T. Torigoe 2012](#eugene-t-torigoe-2012)
+`q2 i?` Three students incorrectly eliminated the known quantity d from d = v₀t and d = ½at², ending with one equation and two unknowns. [→ Eugene T. Torigoe 2011](#eugene-t-torigoe-2011)
 
 ## Evidence
 
-### Eugene T. Torigoe 2012
+### Eugene T. Torigoe 2011
 
-Eugene T. Torigoe. (2012). How numbers help students solve physics problems. arXiv. [doi:10.48550/arXiv.1112.3229](https://doi.org/10.48550/arXiv.1112.3229)
+Eugene T. Torigoe. (2011). How numbers help students solve physics problems. arXiv. [doi:10.48550/arXiv.1112.3229](https://doi.org/10.48550/arXiv.1112.3229)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -56,3 +56,4 @@ Interview analysis: three students solving the symbolic Tortoise and Hare proble
 - [Numeric exam versions scored 85-95% on average while symbolic versions scored 45-60% in an earlier large-population study](earlier-exam-numeric-85-95-symbolic-45-60.md) — a broader claim this one bears on
 - [The article argues that symbolic problems are hard because students activate resources and cues appropriate for numeric problem solving, such as treating every equation as a general model and the remaining non-numeric symbol as the unknown](inappropriate-resource-activation-symbolic-errors.md) — related
 - [In speak-aloud interviews, introductory physics students who could not solve symbolic problems often confused known and unknown symbols in the symbolic versions but not the numeric versions](interviews-known-unknown-confusion-symbolic.md) — possibly the same claim (merge candidate)
+- [Many introductory students find symbolic problems more difficult than numerical ones and prefer plugging in numbers early rather than solving symbolically first](intro-students-symbolic-difficulty-early-numbers.md) — related

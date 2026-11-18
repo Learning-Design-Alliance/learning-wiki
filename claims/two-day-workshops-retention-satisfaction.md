@@ -67,3 +67,4 @@ Participant feedback from the two-day workshop model, as reported by the author.
 - [Software Carpentry workshops improved attendees' computational understanding, with test scores rising more than two-fold (130%) after the workshop](software-carpentry-130-percent-test-score-gain.md) — related
 - [GP trainees who attended a two-day palliative care seminar rated their overall end-of-life care competencies significantly higher six months after the seminar than before it, in a within-group pre-test–post-test comparison](palliative-seminar-raises-overall-eolc-competency-self-rating.md) — related
 - [Eight-day review improved a five-week science test versus one-day review in a simulated university classroom](eight-day-review-improves-five-week-science-test-versus-one-day-review.md) — related
+- [Retreat placement and newcomer catch-up framing were associated with the two highest-attendance workshops](retreat-and-catch-up-framing-high-attendance.md) — related

@@ -73,11 +73,13 @@ Attention is the scarcest resource in learning: learners attend to what is salie
 5. Prompt learners to state the pattern and how cases relate ([Self-Explanation](../elements/self-explanation.md)); have them generate their own example or non-example to check that the abstraction stuck.
 
 ## Related Strategies
+
 - [Advance Organizers](use-advance-organizers.md) — a front-loaded form of signaling that frames what to look for before study begins
 - [Comparing Cases](comparing-contrasting-cases.md) — the exploration engine that turns highlighted features into abstracted patterns
 - [Headings and Highlight](headings-and-highlight-strategy-variant.md) — the concrete text-marking implementation of the signaling component
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — gives learners a framework onto which highlighted patterns can attach
 - [Chunking](../principles/chunking.md) — grouping related features so the highlighted structure fits in working memory
+- [Provide visual cues or hints for self-exploration before direct instruction to promote transfer in online tutorials](cues-before-direct-instruction-online-tutorials.md)
 
 ## Examples
 - **[Project Gutenberg-annotated close reading]** — no; a stronger published example: **Facing History and Ourselves** (https://www.facinghistory.org) uses guided annotation and contrast cases to highlight patterns in historical evidence.

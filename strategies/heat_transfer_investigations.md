@@ -78,6 +78,7 @@ Inquiry-based science teaching produces moderate positive effects on conceptual 
 - [Use spreadsheet-based processing of level-crossing data from simple experiments (picket fence, heat conduction, spring oscillations) to demonstrate core physics concepts](edaq530-sample-experiment-strategies.md)
 - [Eight open student exploration activities investigating freezing of water with varied containers, covers, hardness, stirring and freezers](mpemba-student-exploration-activities.md)
 - [Open with ink-drop diffusion and plasticine-mixing experiences to raise reversibility and homogeneity questions](ink-drop-plasticine-opening-experiences.md)
+- [Build a functional Yagi ground-station antenna from makeshift materials with an empirically tuned driven element](makeshift-yagi-antenna-construction.md)
 
 ## Examples
 - **FOSS Science (Full Option Science System)** — the *Energy* module includes structured investigations of heat transfer between materials with guided data collection ([https://www.fossweb.com](https://www.fossweb.com))

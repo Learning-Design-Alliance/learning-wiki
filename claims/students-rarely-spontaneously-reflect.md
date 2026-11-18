@@ -52,3 +52,4 @@ Post-ACER integration study in upper-division electrostatics, based on exam solu
 - [Many junior-level students fail to spontaneously activate the delta function as the appropriate tool when not explicitly prompted](students-fail-spontaneous-delta-function-activation.md) — related
 - [Students rarely spontaneously reflect on their SoV solutions in either Cartesian or spherical geometries](spontaneous-reflection-rare-sov-solutions.md) — a narrower finding that bears on this claim
 - [Students check units more readily than limiting behavior when reflecting on reflection and transmission coefficients](students-struggle-checking-unphysical-limits.md) — a narrower finding that bears on this claim
+- [Students rarely reflect on results: they struggle to check units and physical limits of reflection and transmission coefficients](weak-reflection-skills-rt-coefficients.md) — a narrower finding that bears on this claim

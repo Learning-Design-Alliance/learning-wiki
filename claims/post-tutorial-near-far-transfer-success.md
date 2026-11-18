@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2016
+source_checked: 2026-11-17
 sources:
   - id: chandralekha-singh-2016
     resource: "https://doi.org/10.48550/arXiv.1602.07746"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All eight students who worked through the sub-problems and videos correctly drew free body diagrams and wrote Newton's second law equations for a three-box near-transfer problem, and several correctly set up a farther-transfer rope-tension problem. [→ Chandralekha Singh 2016](#chandralekha-singh-2016)
@@ -53,3 +54,5 @@ In eight later think-aloud interviews, students attempted the tutorial then solv
 - [Scaffolding supports roughly doubled the percentage of students who correctly used Newton's second law along the incline to solve for static friction](scaffolding-doubles-correct-newton-second-law-use.md) — related
 - [In a small interview case study, introductory physics students who used interactive problem-solving tutorials scored approximately 85% on a paired transfer problem, outperforming students given a textbook-style solution (about 60%) or the relevant textbook section (less than 30%).](tutorial-group-outperforms-solution-and-textbook-aids-transfer.md) — related
 - [Preliminary evaluations show that a majority of students unable to solve tutorial problems without help can solve similar problems after working through the video tutorial](video-tutorials-enable-solving-similar-problems.md) — possibly the same claim (merge candidate)
+- [In one-on-one think-aloud implementation, introductory physics students averaged above 80% on paired problems for all three tutorials](one-on-one-tutorial-implementation-above-80-paired-problems.md) — related
+- [For students who solved the initial problem correctly, Cue + Video and Video Only conditions outperformed Cue Only on both near and far transfer tasks](prior-knowledge-moderates-transfer-benefit.md) — related

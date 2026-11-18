@@ -69,3 +69,4 @@ On a sophomore-level written final exam, "About 10% of the students" gave this a
 - [Many introductory students believe potential energy diagrams represent motion only in the positive x-direction](students-associate-ped-with-single-direction-motion.md) — related
 - [Students hold a strong belief that the numeric value of kinetic energy cannot exceed the numeric value of total energy when potential energy is negative](students-believe-kinetic-energy-cannot-exceed-total-energy.md) — related
 - [Students tend to associate a particle's motion with only the total energy and misapply conservation of energy when comparing potential energy diagrams](students-associate-motion-with-total-energy-only.md) — related
+- [The authors hypothesize that understanding gained in Potential Penguin transfers to Quantum Moves performance and quantum understanding](hypothesis-inter-game-transfer-penguin-to-quantum-moves.md) — related

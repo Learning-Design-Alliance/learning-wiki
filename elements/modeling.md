@@ -102,6 +102,7 @@ Modeling provides structured exposure to expert-level reasoning, reducing the un
 **[National Writing Project](https://www.nwp.org)** — Teachers write alongside students, modeling drafting and revision decisions in real time rather than only presenting finished texts.
 - [Train self-assessment and task-selection with video modeling examples before a self-regulated learning phase](../strategies/video-modeling-examples-train-self-assessment-task-selection.md)
 - [Select and train motivational mentors who regulate their own motivation and use autonomy-supportive behaviors](../strategies/select-train-autonomy-supportive-motivational-mentors.md)
+- [Use explicit metacognitive questioning and visible instructor struggle to shift novice problem-solving approaches](../strategies/schoenfeld-metacognitive-questioning-strategy.md)
 
 ## Key Sources
 - Bandura, A. (1977). Social learning theory. *Englewood Cliffs, NJ: Prentice Hall.*

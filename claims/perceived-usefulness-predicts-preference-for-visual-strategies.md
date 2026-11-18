@@ -54,3 +54,4 @@ Pearson correlation analysis of questionnaire responses found r = .994 (p = 0.00
 - [Visualisation strategies significantly improve L2 students' spelling skills compared to traditional memorisation methods.](visualisation-strategies-improve-l2-spelling-skills.md) — related
 - [Students trained in visualisation strategies show greater weekly improvement in words memorised than control students.](visualisation-strategies-improve-weekly-word-retention.md) — related
 - [Perceived visualisation, understanding and self-assessment ratings of 3D IMs were strongly positively inter-correlated, while preference for physical models correlated weakly negatively](spearman-correlations-3d-im-likert-items.md) — related
+- [Comparative feedback — perceiving online feedback as better than traditional feedback — strongly predicts perceived usefulness and enjoyment](comparative-feedback-predicts-usefulness-enjoyment.md) — related

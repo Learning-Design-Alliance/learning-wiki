@@ -52,6 +52,7 @@ The article recommends having a human operate the demonstration during public ev
 - [Group Pupils During Science Experiments and Demonstrations](grouping-for-science-experiments-and-demonstrations.md)
 - [Pair a science culture venue with an active research programme so mediators are trained directly on live research data](scientist-sponsorship-trains-mediators-live-data.md)
 - [Design outreach experiments to be easily repeatable so teachers can incorporate them into their own lessons, and keep teachers central to the activities](repeatable-experiments-teachers-central-outreach.md)
+- [Facilitator role of inviting visitors to hack the live code and pointing to easily altered parameters](facilitator-invites-hacking-of-live-code.md)
 
 ## Examples
 -

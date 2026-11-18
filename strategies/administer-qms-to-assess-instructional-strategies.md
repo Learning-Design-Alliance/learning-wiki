@@ -53,4 +53,4 @@ The QMS is intended as a reusable assessment instrument: it can be given to uppe
 -
 
 ## Key Sources
-- Singh, C. and Zhu, G. (2010). Surveying Students' Understanding of Quantum Mechanics. Department of Physics and Astronomy, University of Pittsburgh. https://www.aapt.org
+- Singh, C. and Zhu, G. (2010). Surveying Students' Understanding of Quantum Mechanics. Department of Physics and Astronomy, University of Pittsburgh. https://www.aapt.org. [doi:10.1063/1.3515229](https://doi.org/10.1063/1.3515229)

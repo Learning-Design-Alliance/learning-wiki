@@ -25,7 +25,8 @@ A teacher- and learner-usable educational card game built on the 66-card Quark M
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Quark Wars](quark-wars.md)
 
 ## Key Sources
 - T. Csörgő. (2012). Higgs Boson – on Your Own: A Memory Style Quark Matter Card Game. http://www.kfki.hu/~csorgo/talks/12/2012-12-04-TCs-Higgs-boson-on-your-own.pdf

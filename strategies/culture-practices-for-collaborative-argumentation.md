@@ -45,6 +45,7 @@ The primer lists essential practices for fostering a culture of critical thinkin
 - [Build Community Through Peer Feedback](build_community_through_peer_feedback.md)
 - [Building a Trusting Community](building_a_trusting_community.md)
 - [Building Community Through Peer Feedback in PBL](building_community_through_peer_feedback_in_pbl.md)
+- [Frame collaborative learning as a game and build trust in teammates' ability to increase collaboration](frame-collaboration-as-game-with-trust.md)
 
 ## Examples
 -

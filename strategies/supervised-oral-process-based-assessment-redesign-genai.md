@@ -53,6 +53,7 @@ Participants described moving away from unsupervised written essays toward more 
 - [Redesign assessment toward progressive, authentic, and reflective methods rather than intensive paperwork](redesign-assessment-authentic-progressive-methods.md)
 - [Replace or supplement essay assessment with interactive oral assessments (viva voces) where writing is not the skill being assessed](oral-viva-assessment-replace-essays.md)
 - [Use online viva voce as an alternative when assessment duration cannot be kept as short as the invigilated original](online-viva-voce-alternative-open-book.md)
+- [Shift assessment away from inauthentic timed examinations toward more scientifically authentic evaluation activities](shift-away-from-timed-examinations.md)
 
 ## Examples
 -

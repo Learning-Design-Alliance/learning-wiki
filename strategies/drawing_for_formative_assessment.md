@@ -64,6 +64,7 @@ Drawing is a generative activity: constructing an external visual representation
 - Exit tickets — a drawing prompt is a visual variant of the same quick formative check
 - Concept mapping — a structured, node-and-link cousin of free drawing that trades expressiveness for comparability
 - [Draw on diagnosed errors and misconceptions to inform the teaching of integration and limits](teach-integration-limits-from-diagnosed-misconceptions.md)
+- [Begin teaching sequences with activities that draw out students' ideas and provide opportunities for expression](draw-out-student-ideas-sequence-start.md)
 
 ## Related Elements
 - [Assessment](../elements/assessment.md) — the drawings function as formative assessment evidence

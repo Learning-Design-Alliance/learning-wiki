@@ -50,3 +50,6 @@ Bottom-up coding of open-ended questionnaire responses about the purpose of grad
 - [In a quiz context, TAs graded a minimal-reasoning solution (SSE) significantly higher than a detailed-reasoning solution with canceling mistakes (SSD)](tas-quiz-grading-favors-minimal-reasoning-solution.md) — related
 - [TAs' perceptions of grading did not change significantly during one semester of teaching experience](tas-grading-perceptions-stable-over-one-semester.md) — related
 - [Almost all first-year physics TAs stated that the purpose of grading was formative](tas-state-formative-purpose-of-grading.md) — possibly the same claim (merge candidate)
+- [TAs' grading scores on the two solutions did not change significantly after the PD grading activities and one semester of TA experience](tas-grading-unchanged-after-pd-and-semester.md) — related
+- [The TAs generally viewed grading as serving only a summative assessment purpose rather than a formative one](tas-view-grading-summative-only-not-formative.md) — reports the opposite
+- [Frequent formative assessment used throughout a course can greatly improve student learning by giving students repeated opportunities to reflect and giving instructors real-time feedback](frequent-formative-assessment-improves-learning.md) — related

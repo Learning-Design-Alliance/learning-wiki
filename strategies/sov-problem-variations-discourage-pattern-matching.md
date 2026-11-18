@@ -46,6 +46,7 @@ The authors recommend directly targeting the separated form of the potential and
 ## Related Strategies
 
 - [Vary physical contexts and practice reflection skills when teaching boundary conditions](vary-contexts-and-practice-reflection-for-bcs.md)
+- [Use unmixed partial derivatives in quantum mechanics to probe students' separation of variables structure](unmixed-partial-derivatives-probe-strategy.md)
 
 ## Examples
 -

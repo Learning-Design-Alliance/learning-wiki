@@ -51,3 +51,4 @@ The essay's framing synthesis of prior change-effort literature, opening the Int
 - [The authors attribute students' strong preference for expert facilitators to lack of prior cultural exposure to active-learning pedagogies](lack-of-pbl-exposure-shapes-facilitator-expertise-perceptions.md) — related
 - [One-time workshops raise awareness of evidence-based teaching strategies but are not sufficient for faculty to adopt them](workshops-insufficient-for-adoption-evidence-based-teaching.md) — a narrower finding that bears on this claim
 - [The article argues that using Ejs as a pedagogical tool faces steep learning-curve and school-culture impediments](ejs-pedagogical-tool-impediments.md) — a narrower finding that bears on this claim
+- [Robotic telescope technology has outpaced widespread inquiry-based classroom implementation](robotic-telescope-implementation-gap.md) — a narrower finding that bears on this claim

@@ -72,3 +72,4 @@ Bivariate correlation matrix (Table 5) among the six constructs in the sample of
 - [Computer self-efficacy is positively correlated with all TAM variables in students' use of Zoom for language learning](computer-self-efficacy-positive-correlation-tam-zoom.md) — related
 - [Perceived ease of use of Zoom is positively correlated with perceived usefulness, attitude and behavioral intention](peu-positive-correlation-tam-zoom.md) — related
 - [Perceived usefulness of Zoom is strongly positively correlated with students' attitude toward it and their behavioral intention to use it in language learning](pu-strongly-correlated-attitude-behavioral-intention-zoom.md) — related
+- [Perceived ease of use strongly influences perceived usefulness and enjoyment, and exerts significant indirect effects on attitude and usage intention](peu-indirect-effects-attitude-intention.md) — reports the opposite

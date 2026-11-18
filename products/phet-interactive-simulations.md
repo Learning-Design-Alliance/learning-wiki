@@ -30,7 +30,8 @@ Free, interactive science and mathematics simulation software developed and dist
 - [Students spontaneously set their own challenges and take ownership when exploring PhET simulations](../claims/students-self-challenges-phet-sims-ownership.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [QuVis suite of four interactive QKD simulations](quvis-suite-of-four-interactive-qkd-simulations.md)
 
 ## Key Sources
 - S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2007). Why we should teach the Bohr model and how to teach it effectively. https://arxiv.org/abs/0707.1541

@@ -55,3 +55,4 @@ Variance component analysis of diary data from 18 teachers found that 70-88% of 
 - [SEL can be improved by both short-term targeted interventions and longer-term strategies to improve school contextual factors](sel-improvable-short-and-long-term.md) — related
 - [Effect sizes across the included studies are highly heterogeneous (I² = 91.37%), indicating moderating factors](high-heterogeneity-innovative-models-critical-thinking.md) — related
 - [Class-level residual variance remains high after adjustment, indicating substantial unobserved class-level factors](residual-class-variance-high-after-adjustment.md) — related
+- [In the G Study, most observed-score variance lies in the person-by-item interaction for FA (~60%) and in the items themselves for SCI (42%)](g-study-variance-items-dominate-error.md) — related

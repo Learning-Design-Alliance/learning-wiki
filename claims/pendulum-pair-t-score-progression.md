@@ -48,3 +48,4 @@ Documented case of one pair of students in the Pendulum for Pros SQILab, shown i
 - [SQILab students made more measurement trials with substantially lower average uncertainty than a prior non-SQILab cohort in a similar pendulum experiment](sqilab-iterate-improve-measurement-quality.md) — related
 - [Redesigning the second research lesson cycle so students compared results across groups raised correct answers on the volume item from 11% to 80%](cycle2-redesign-volume-item-gain-69.md) — related
 - [SQILab students can recognize limitations of the small-angle model when their precise measurements conflict with class expectations](sqilab-students-recognize-model-limitations.md) — related
+- [Prior SQILabs instruction significantly improved the quality of students' follow-up reasoning on comparisons, with no significant difference between the two SQILabs groups](sqilabs-improves-follow-up-reasoning-quality.md) — related

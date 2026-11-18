@@ -70,3 +70,4 @@ Subgroup analysis of the 10 TAs who provided reasons; for the four scoring SSE>S
 - [In a quiz context, TAs graded a minimal-reasoning solution (SSE) significantly higher than a detailed-reasoning solution with canceling mistakes (SSD)](tas-quiz-grading-favors-minimal-reasoning-solution.md) — related
 - [TAs' perceptions of grading did not change significantly during one semester of teaching experience](tas-grading-perceptions-stable-over-one-semester.md) — reports the opposite
 - [Almost all first-year physics TAs stated that the purpose of grading was formative](tas-state-formative-purpose-of-grading.md) — related
+- [TAs' grading scores on the two solutions did not change significantly after the PD grading activities and one semester of TA experience](tas-grading-unchanged-after-pd-and-semester.md) — related

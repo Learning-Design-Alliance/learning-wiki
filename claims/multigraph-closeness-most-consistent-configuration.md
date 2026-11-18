@@ -57,3 +57,4 @@ Observational analysis of closeness centrality correlations with performance acr
 - [Year 2 students show significantly higher closeness and lower betweenness centrality than Year 1, with no cohort difference in in-degree](year2-higher-closeness-lower-betweenness.md) — related
 - [Students' SNA centrality measures (participation, information exchange, connectedness, social capital) correlate moderately to strongly with grades in online PBL](sna-centrality-correlates-with-pbl-performance.md) — related
 - [In-degree centrality, but not degree or out-degree, is moderately correlated with final grade in online clinical case discussions](in-degree-centrality-moderately-correlated-final-grade.md) — related
+- [Closeness centrality is the strongest correlate of final grade, with a midsemester closeness measurement the best discovered predictor of end-of-semester grade](closeness-centrality-best-grade-predictor.md) — reports the opposite

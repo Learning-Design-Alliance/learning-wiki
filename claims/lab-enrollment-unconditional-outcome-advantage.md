@@ -50,3 +50,4 @@ Descriptive comparison of institutional records for 3736 Lab and 7057 No Lab stu
 - [The authors conclude that observed lab–grade differences are largely attributable to selection bias rather than a causal effect of the lab](paired-lab-selection-bias-not-causal.md) — related
 - [Students concurrently enrolled in the IL and introductory biology courses outperformed biology-only students, with a mean final grade of 83% versus 70%](il-biology-outperformed-biology-only.md) — related
 - [The number of observed test scores depends on students' unobserved general achievement level, with higher-achieving students more likely to have complete data](observed-scores-depend-on-latent-achievement.md) — related
+- [Students who enroll in optional labs differ systematically from non-enrolled students, requiring normalization before any lab-effect comparison](lab-enrollment-selection-effects.md) — related

@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 281 claims (135 for, 127 mixed, 19 against) · 210 studies (92 causal, 36 review, 28 quant-synthesis, 19 associational, 15 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 51 of 210 report an effect size · 257 claims rest on one study
+> **Evidence** · 283 claims (136 for, 128 mixed, 19 against) · 211 studies (92 causal, 36 review, 28 quant-synthesis, 20 associational, 15 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 51 of 211 report an effect size · 259 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -329,6 +329,8 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Smartwatch feedback increases the proportion of infant chest compressions within the correct depth range in a randomized controlled simulation study](../claims/smartwatch-feedback-improves-correct-compression-depth-proportion.md) [+W] — attached 2026-11-08 from Lee Juncheol et al. (2018), which proposed "Smartwatch-based chest compression feedback application for infant CPR"; tests this page's relationship.
 - [Smartwatch feedback produces significantly deeper infant chest compressions than no feedback](../claims/smartwatch-feedback-deeper-compression-depth.md) [+W] — attached 2026-11-08 from Lee Juncheol et al. (2018), which proposed "Smartwatch-based chest compression feedback application for infant CPR"; tests this page's relationship.
 - [Student self-ratings of communication competence significantly improved in nine of ten VAS items after the 360° feedback CST, with a global pre-post effect size of ES = 0.74](../claims/self-rated-competence-gains-360-feedback-cst.md) [+W] — attached 2026-11-09 from Engerer Cosima et al. (2016), which proposed "360° behavior-orientated feedback communication skills training concept with feed-forward documentation".
+- [Comparative feedback — perceiving online feedback as better than traditional feedback — strongly predicts perceived usefulness and enjoyment](../claims/comparative-feedback-predicts-usefulness-enjoyment.md) [+W] — attached 2026-11-17 from Acosta-Gonzaga et al. (2014), which proposed "Stack-within-Moodle mathematical e-assessment with malrule-based detailed feedback".
+- [Received feedback quality influences enjoyment but not perceived usefulness, and contributes little to attitude and usage intention](../claims/received-feedback-enjoyment-not-usefulness.md) [~W] — attached 2026-11-17 from Acosta-Gonzaga et al. (2014), which proposed "Stack-within-Moodle mathematical e-assessment with malrule-based detailed feedback".
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

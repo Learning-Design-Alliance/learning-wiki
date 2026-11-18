@@ -48,3 +48,4 @@ Authors' experience report from their outreach events (Section IV). They found s
 - [Interactivity is the strongest predictor of module success in network-science outreach sessions for teenagers](interactivity-predicts-outreach-module-success.md) — related
 - [Outreach participants reported increased interest in networks and mathematics, per surveys and discussions](outreach-increased-student-interest.md) — related
 - [Adapted network-science outreach activities for Spanish teenagers succeeded in transmitting basic network-science concepts, with student poll responses all A or B](outreach-network-science-transmitted-concepts.md) — related
+- [Participation in the NetSci High outreach program had a significant impact on students' understanding of networks and on their data-science, academic, and professional skills, per the program's summative assessments](netsci-high-summative-impact-skills.md) — related

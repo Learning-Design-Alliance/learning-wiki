@@ -46,3 +46,4 @@ Ordered logistic regression addressing the non-equidistant Danish grading scale,
 
 ## Related Claims
 - [Examiner gender plays no significant role in gender or ethnic grading bias](examiner-gender-no-role-grading-bias.md) — related
+- [Demographic factors other than final grade showed no impact on persistence in the logistic regression models](demographics-null-persistence-mi.md) — related

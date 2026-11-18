@@ -61,3 +61,4 @@ Longitudinal observational analysis of 27 mother–child dyads from primarily lo
 - [LENA automated adult word counts are reliable for Spanish-language home environments](lena-adult-word-estimates-reliable-spanish.md) — related
 - [Overheard adult speech is unrelated to 24-month vocabulary, unlike child-directed speech](overheard-speech-unrelated-vocabulary.md) — related
 - [The mediation of child-directed speech effects through processing efficiency holds after controlling for knowledge of the target words and excluding at-chance performers](mediation-robust-to-word-knowledge-controls.md) — related
+- [Word discovery algorithm finds no learning advantage for child-directed over adult-directed speech](child-directed-speech-no-word-learning-advantage.md) — related

@@ -24,7 +24,8 @@ A three-day regional conference programme run by the American Physical Society t
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [NetSciEd symposium series](netscied-symposium-series.md)
 
 ## Key Sources
 - Abramzon, N., Benson, P., Bertschinger, E., Blessing, S., Cochran, G. L., Cox, A., Cunningham, B. A., Galbraith-Frew, J., Johnson, J., Kerby, L., Lalanne, E., O'Donnell, C., Petty, S., Sampath, S., Singh, C., Spencer, C., Woodle, K. S., & Yenello, S. (2014). Women in physics in the United States: recruitment and retention. https://www.aip.org/statistics/women

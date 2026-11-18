@@ -54,3 +54,4 @@ Descriptive comparison of incoming achievement across CPS program types. The rep
 - [School test score averages are strongly related to the income of the families a school serves](school-test-scores-strongly-related-to-family-income.md) — related
 - [Students' grades are a more important predictor of college enrollment than ACT scores, which mainly constrain the selectivity of colleges attended](grades-predict-enrollment-more-than-act-chicago.md) — related
 - [Selective enrollment (gifted) Chicago schools show the highest exam performance of all Chicago school types at every grade, most strikingly at grade 11](selective-enrollment-highest-performance-all-grades.md) — related
+- [Candidates from the studied private high school outperformed candidates from public high schools in Kankor, but the advantage is qualified by selective admission and not all private schools perform well](private-public-high-school-kankor-performance.md) — related

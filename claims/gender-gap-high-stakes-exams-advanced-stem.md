@@ -64,3 +64,4 @@ Analysis of a single cohort of 315 undergraduate electrical engineering students
 - [No gender gap in exam points, but women earned more non-exam points, in the control section](no-gender-gap-exam-points-women-more-nonexam-points.md) — reports the opposite
 - [Women are outscored by men on every section of the GRE general test, and with other factors equal women score lower on high-pressure timed tests](gender-gap-gre-timed-tests.md) — related
 - [A gender score offset appears in the distance cohort but not in the in-class cohorts, with a larger pre-class gap for distant learners](geas-gender-offset-distance-cohort.md) — a narrower finding that bears on this claim
+- [Gendered performance differences are small and variable in STEM lab courses, unlike their closely related lecture courses](gpd-absent-stem-labs.md) — related

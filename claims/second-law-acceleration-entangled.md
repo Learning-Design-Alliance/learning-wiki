@@ -73,3 +73,4 @@ Cross-cluster comparison of decline timing between acceleration and second law c
 - [Less skilled comprehenders make fewer knowledge-based coherence and elaborative inferences than skilled comprehenders even when the relevant knowledge is equally available](poor-comprehenders-fewer-inferences-equal-knowledge.md) — related
 - [Third-law performance drops to zero at the rubber band car quiz but response patterns show regression to an intermediate state, not a return to pretest reasoning](third-law-drop-intermediate-state.md) — related
 - [Students generally have difficulty distinguishing the concepts of velocity and acceleration](students-difficulty-velocity-acceleration-discrimination.md) — related
+- [Students using SURGE NextG's graphing tool show greater pre-post gains on Newtonian relationships than students without it](surge-nextg-grapher-greater-gains-newtonian.md) — related

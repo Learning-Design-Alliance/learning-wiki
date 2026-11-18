@@ -48,6 +48,7 @@ A suite of computational homework activities in which students in the Matter & I
 
 - [VPython-based computational homework suite in introductory mechanics, deployed with randomized initial conditions via WebAssign](vpython-computational-homework-webassign-suite.md)
 - [Blacksmithing forge heat-transfer lab assignment for a calculus-based physics course](blacksmithing-heat-transfer-lab-assignment.md)
+- [P3 (Projects and Practices in Physics) introductory mechanics course](p3-projects-and-practices-physics-course.md)
 
 ## Examples
 -

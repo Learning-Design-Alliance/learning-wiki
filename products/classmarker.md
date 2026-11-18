@@ -30,6 +30,7 @@ ClassMarker is a web-based platform operated by ClassMarker for creating, admini
 - [Assessment Integration Management (AIM)](assessment-integration-management-aim.md)
 - [Online Experimental Psychological System (OPES) computerized cognitive test battery](online-experimental-psychological-system-opes-computerized-cognitive-test-battery.md)
 - [UST E-Leap](ust-e-leap.md)
+- [LASSO (Learning Assistant Supported Student Outcomes) online assessment system](lasso-learning-assistant-supported-student-outcomes-online-assessment-system.md)
 
 ## Key Sources
 - Öz, H., & Özturan, T. (2018). Computer-based and paper-based testing: Does the test administration mode influence the reliability and validity of achievement tests? Journal of Language and Linguistic Studies, 14(1), 67-85. https://www.jlls.org

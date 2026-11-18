@@ -47,3 +47,4 @@ Weekly survey data collected during Spring 2012 from the 21 upper-division Physi
 ## Related Claims
 - [End-of-semester survey: most students reported the computational project let them explore new physics and roughly 90% gained confidence with Mathematica](student-survey-project-exploration-confidence.md) — related
 - [In a pilot study of student-centered guest lecturing, most online graduate students reported positive satisfaction and perceived engagement with the approach](pilot-positive-perceptions-student-centered-guest-lecturing.md) — related
+- [Non-physics-major students enjoyed the cycloid experiment](non-physics-majors-enjoyed-cycloid-experiment.md) — related

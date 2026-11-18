@@ -43,6 +43,7 @@ The reviewed program's core design strategy is whole-class assignment of a singl
 - [Tiered Assignments](tiered-assignments.md)
 - [Differentiated Instruction](differentiated-instruction.md)
 - [Differentiated Teaching](differentiated_teaching.md)
+- [Tailor lecture content to the background of the local student cohort](tailor-lectures-to-local-background.md)
 
 ## Examples
 -

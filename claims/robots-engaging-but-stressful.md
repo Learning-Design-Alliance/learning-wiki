@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-17
 sources:
   - id: lykke-et-al-2015
     resource: "https://eric.ed.gov/?id=EJ1108370"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Lykke et al. 2015: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-03)
 
 ## Subclaims
@@ -54,3 +55,4 @@ Focus group interview findings validating the questionnaire and observation resu
 - [Experienced effort-by-need frustration is neither a necessary requirement nor a typical concomitant of high-quality learning](need-frustration-not-necessary-for-learning.md) — related
 - [Neither experimental nor control groups' programming knowledge developed significantly during the robot-based semester](robot-programming-no-knowledge-gain.md) — related
 - [Interviewed students experienced the social robotic platform as superior to the computer-based platform for interactivity, engagement, clinical reasoning and communication practice, while emotional-skill practice fell short of real encounters](interviews-robot-superior-cr-communication-emotional-skills.md) — related
+- [A short-term Lego Mindstorms EV3 summer camp improved elementary students' computational thinking and programming skills, with 6 of 9 students showing substantial improvement](ev3-camp-improves-ct-programming-skills.md) — related

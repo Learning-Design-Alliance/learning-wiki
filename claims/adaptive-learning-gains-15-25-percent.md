@@ -52,3 +52,4 @@ A PRISMA systematic review of 48 studies (2023–March 2026) of the roles agenti
 - [AI-driven personalized and adaptive learning pathways support learner engagement and satisfaction in online courses](ai-adaptive-pathways-support-engagement.md) — related
 - [Included studies suggest engagement increases when adaptive platform activities are tailored to learners' personal needs and emotional state](adaptivity-emotional-tailoring-increases-engagement.md) — related
 - [Eight AI-driven factors positively influence learner satisfaction and engagement in online higher education](eight-ai-factors-positive-engagement-satisfaction.md) — related
+- [Adaptive educational hypermedia systems are reported effective at tailoring instruction for heterogeneous groups in higher education and K-12](aeh-effective-tailoring-heterogeneous-groups.md) — related

@@ -69,6 +69,7 @@ Giving learners authentic decision rights increases ownership and intrinsic moti
 - [Consult online students directly during the needs analysis phase of orientation resource design](consult-students-in-needs-analysis.md)
 - [Involve learners in negotiating course plans and evaluation criteria](negotiate-course-plan-and-criteria-with-learners.md)
 - [Engage faculty in reviewing student perception data at a curriculum retreat as an ongoing student-faculty partnership for curricular assessment](faculty-retreat-review-of-student-perception-data.md)
+- [Student/TA one-on-one conferences as a mentoring and student-voice strategy in collegiate science courses](student-ta-conferences-strategy.md)
 
 ## Examples
 - **Students as Partners (International)** — a global movement documented by Cook-Sather and colleagues in which undergraduates co-design courses and curriculum with faculty; many institutions (e.g., McMaster's Student Partners Program) run formal partnership programs.

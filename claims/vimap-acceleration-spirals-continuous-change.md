@@ -47,3 +47,4 @@ Qualitative observation across the two studies of Activity 1.2, in which student
 ## Related Claims
 - [A three-theme spiral (Fourier transforms, diffusion, molecular simulations) made a broad biophysics territory teachable in ten weeks](three-theme-spiral-ten-week-biophysics.md) — related
 - [Constant-speed shape-drawing activities in ViMAP develop agent-based thinking and debugging in elementary and high school novices](vimap-constant-speed-shapes-agent-thinking-debugging.md) — related
+- [Elementary students using ViMAP agent-based programming with graphing can begin to understand motion as continuous change](vimap-agent-programming-continuous-change.md) — a broader claim this one bears on

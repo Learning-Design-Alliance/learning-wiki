@@ -36,4 +36,4 @@ A University of Copenhagen computer-based educational program that uses cartoons
 ## Key Sources
 - Hobbs Emma C. et al. (2018). Preliminary assessment of the computer‐based Taenia solium educational program ‘The Vicious Worm’ on knowledge uptake in primary school students in rural areas in eastern Zambia. Tropical Medicine & International Health. https://doi.org/10.1111/tmi.13029
 - Nalin Asanka Gamagedara Arachchilage. (2015). User-Centred Security Education: A Game Design to Thwart Phishing Attacks. https://arxiv.org/abs/1511.03459
-- Arachchilage, N. A. G., Love, S., & Maple, C. (2013). Can a Mobile Game Teach Computer Users to Thwart Phishing Attacks. International Journal for Infonomics (IJI), Volume 6, Issues 3/4. http://www.infonomics-society.org/IJI
+- Arachchilage, N. A. G., Love, S., & Maple, C. (2013). Can a Mobile Game Teach Computer Users to Thwart Phishing Attacks. International Journal for Infonomics (IJI), Volume 6, Issues 3/4. http://www.infonomics-society.org/IJI. [doi:10.20533/iji.1742.4712.2013.0083](https://doi.org/10.20533/iji.1742.4712.2013.0083)

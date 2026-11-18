@@ -53,3 +53,4 @@ Same correlational analysis of the 29-infant sample: coders classified 5-min rec
 - [Infants' preference for and learning benefit from child-directed speech change over development, with CDS advantages diminishing by the third year](cds-benefits-vary-developmental-window.md) — related
 - [The mediation of child-directed speech effects through processing efficiency holds after controlling for knowledge of the target words and excluding at-chance performers](mediation-robust-to-word-knowledge-controls.md) — related
 - [Faster word recognition at 24 months is associated with larger vocabularies and greater vocabulary gains in Spanish-learning children](faster-word-recognition-linked-larger-vocabulary.md) — related
+- [Word discovery algorithm finds no learning advantage for child-directed over adult-directed speech](child-directed-speech-no-word-learning-advantage.md) — related

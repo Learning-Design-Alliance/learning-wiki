@@ -54,3 +54,4 @@ Thematic analysis of student quotes across settings; students described peer lea
 - [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](vad-stress-psychological-safety-threat.md) — related
 - [Facilitators invest significant effort in creating a safe learning environment, viewing stress and tension as hindrances to learning](facilitators-create-safe-learning-space.md) — related
 - [Students expressed positive anonymous opinions about the tournament as a less stressful, cooperative form of assessment](students-positive-opinions-tournament-assessment.md) — related
+- [Most students reported no interest in changing circumstances for discussing personal concerns with the TA, and only 3% felt comfortable doing so](students-reluctant-personal-concerns-ta.md) — related

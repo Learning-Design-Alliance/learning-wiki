@@ -43,6 +43,7 @@ The authors recommend using the full-length scale at course start to profile eac
 
 - [Place GenAI entry after the learner's initial task attempt rather than before it](genai-entry-after-attempt-in-srl-cycle.md)
 - [Use the MRIM scale as a diagnostic and pedagogical tool for teaching L2 argumentative writing](mrim-scale-pedagogical-diagnostic-use.md)
+- [Craft diagnostic pre-assessments and path-diverse exams carefully for adaptive courses](diagnostic-preassessment-and-path-diverse-exams.md)
 
 ## Examples
 -

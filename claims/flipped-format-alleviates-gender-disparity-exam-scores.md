@@ -51,3 +51,5 @@ Gross D, Pietri ES, Anderson G, Moyano-Camihort K, Graham MJ. (2015). Increased 
 - [Flipped-format students score significantly higher on exams than standard-format students, by an average of 11.6% across three exams in an upper-division physical chemistry course](flipped-format-exam-scores-improve-upper-division.md) — related
 - [The same student cohorts show no statistically significant gender gap in end-of-course examination performance](no-exam-gender-gap-same-cohorts.md) — reports the opposite
 - [Female players significantly outperform male players on tutorial scores even though males play more games per day](females-outperform-males-tutorial-scores.md) — related
+- [In physics courses, gendered performance differences arise from timed exam scores, while female students modestly outperform males on homework and in-class response credit](exam-performance-source-of-gpd.md) — related
+- [First-year gender differences in physics grades favored male students among low-GPE students, but were reduced or reversed in second-year courses](first-year-physics-gender-gap-low-gpe-reverses-second-year.md) — related

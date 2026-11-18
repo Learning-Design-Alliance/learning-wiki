@@ -13,7 +13,7 @@ generated:
 # Measurement
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 25 claims (18 show a difference, 4 mixed, 3 no difference) · 16 studies (6 causal, 4 qualitative, 3 design, 2 associational, 1 theoretical), `q1`–`q3` · 1 of 16 report an effect size · 24 claims rest on one study
+> **Evidence** · 26 claims (19 show a difference, 4 mixed, 3 no difference) · 17 studies (7 causal, 4 qualitative, 3 design, 2 associational, 1 theoretical), `q1`–`q3` · 1 of 17 report an effect size · 25 claims rest on one study
 
 ## Description
 Measurement, as a mathematical skill, is identifying an attribute of something (its length, area, volume or duration) and comparing it with a unit that has the same attribute (an inch, a square centimetre, a minute), so that the attribute gets a number that can be reasoned with and calculated with. The Learner Variability Navigator describes it as the basis of scientific inquiry and a way into other mathematics, including estimation, fractions and [statistical reasoning](statistical-reasoning.md). It is assessed with instruments that separate spatial or conceptual reasoning about length, distance, perimeter, area and volume from the use of formulas.
@@ -61,6 +61,7 @@ LVN follows it from grade 3 to grade 10. It draws on [spatial ability](spatial-a
 - [Singaporean secondary students using the real-and-virtual measurement lesson scored an average of 88% correct on seven formative measurement questions](../claims/students-88-percent-average-correct-measurement-questions.md) [+M] — measured as an outcome of the instruction studied
 - [Students in an upper-division physics lab engage in meaningful modeling of measurement tools, not just knob-turning](../claims/students-meaningfully-model-measurement-tools.md) [+M] — measured as an outcome of the instruction studied
 - [Fourth graders in a year-long ViMAP modeling study came to interpret measurement data as designed measures and began talking about error after collectively critiquing a video of their own measurement work](../claims/data-as-designed-measures-error-talk.md) [+M] — measured as an outcome of the instruction studied
+- [Formative assessment probes indicate improved density understanding after the submarine project](../claims/density-understanding-gains-submarine-project.md) [+W] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measurement Skills Assessment (MeSA)** (Vasilyeva et al., 2009): Assesses students' reasoning about Measurement concepts (including length, distance, perimeter, area, and volume) and captures spatial/conceptual vs. formula-based Measurement skills.

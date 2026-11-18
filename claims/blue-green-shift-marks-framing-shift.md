@@ -97,3 +97,4 @@ Second episode analysis of the same group on an epistemological worksheet questi
 - [Microscopic studies link student framing to resource activation, and frame shifts are frequent with instructor prompts enabling productive transitions](framing-drives-resource-activation.md) — related
 - [Tutorial wording (“can we define”) afforded an escape hatch that relieved tension but terminated the physics debate](tutorial-wording-can-we-define-escape-hatch.md) — related
 - [Productive problem solving can occur in any epistemological frame provided students transition appropriately between frames](productive-solving-any-frame-with-appropriate-transitions.md) — related
+- [In episodes with no clusters, students were not metacognitively engaging in each other's ideas; one student dominating conversation precluded nodes](no-clusters-no-mutual-metacognitive-engagement.md) — related

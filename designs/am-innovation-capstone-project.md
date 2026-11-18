@@ -39,10 +39,11 @@ The course capstone asks student teams to conceptualize, justify, design, and pr
 - 
 
 ## Related Designs
-- 
+
+- [Capstone engineering design process with free exploration for novice robotics learners](ev3-capstone-design-process-pattern.md)
 
 ## Examples
 -
 
 ## Key Sources
-- Go, J., & Hart, A. J. (2015). A Framework for Teaching the Fundamentals of Additive Manufacturing and Enabling Rapid Innovation.
+- Go, J., & Hart, A. J. (2015). A Framework for Teaching the Fundamentals of Additive Manufacturing and Enabling Rapid Innovation. [doi:10.1016/j.addma.2016.03.001](https://doi.org/10.1016/j.addma.2016.03.001)

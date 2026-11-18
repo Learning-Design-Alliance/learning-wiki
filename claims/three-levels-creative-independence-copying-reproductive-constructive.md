@@ -51,3 +51,4 @@ Definitional statement from the methods section describing the middle of three l
 - [Ability for creative independent work is assessed at four levels, from ignorance of theory to independently posing and solving a problem](four-levels-creative-independent-work-ability.md) — reports the opposite
 - [CREATE benefits transfer to a new task on all three creativity components: fluency, flexibility, and originality](create-transfer-effects-all-components.md) — related
 - [From age 4, children spontaneously devise multiple previously unseen reminder-setting strategies across transfer trials, with this tendency increasing with age](age-four-spontaneous-novel-reminder-strategies.md) — related
+- [Informal interviews indicated that problem modifiers showed deep understanding and transfer to novel difficult scenarios](problem-modding-transfer-interviews.md) — related

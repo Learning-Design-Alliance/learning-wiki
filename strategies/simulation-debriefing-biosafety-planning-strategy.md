@@ -58,6 +58,7 @@ The authors recommend that nurse educators incorporate simulation activities com
 - [Incorporate structured non-technical skills training and structured debriefing sessions within simulation-based education](structured-nts-training-debriefing-recommendation.md)
 - [Incorporate practical gerontological nursing teaching early in the curriculum, using situational simulation and case-based teaching](early-practical-gerontological-teaching-strategy.md)
 - [Use simulation debriefing with Crisis Resource Management, effective communication methods, and teamwork improvement to reduce communication-related errors](crm-communication-teamwork-simulation-strategy.md)
+- [Four facilitation strategies for safe intergroup discussions](facilitation-strategies-intergroup-discussions.md)
 
 ## Examples
 -

@@ -67,6 +67,7 @@ A strengths orientation supports motivation through competence and autonomy: lea
 - [Use asset mapping to identify and celebrate existing strengths in the school and community](asset-mapping-celebrate-strengths.md)
 - [Implement anti-bias curricular models with four goals to build culturally relevant, strength-based classrooms](anti-bias-curriculum-four-goals-strategy.md)
 - [Intercultural programming to enhance socio-emotional engagement for probation students](intercultural-programming-socioemotional-engagement.md)
+- [Reward and celebrate student science accomplishments liberally with positive feedback](liberal-rewards-science-accomplishments.md)
 
 ## Examples
 - **Positive education at Geelong Grammar School** — whole-school adoption of character-strengths identification and use, part of the program evaluated in Seligman et al. (2009).

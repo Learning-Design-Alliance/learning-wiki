@@ -48,3 +48,4 @@ Qualitative analysis of the episode. Explicitly the students debate whether more
 - [Case study: a student's physical-mapping framing of the work integral resisted change during group argument](case-study-framing-inertia-work-paths.md) — a narrower finding that bears on this claim
 - [A student's unspoken warrant that mathematics should fit the physical system signals a Physical Mapping framing of math use](physical-mapping-warrant-episode.md) — a narrower finding that bears on this claim
 - [Citing a recalled theorem as justification signals an Invoking Authority framing of mathematics use](invoking-authority-framing-warrant.md) — a narrower finding that bears on this claim
+- [Debate Mode: two students argue conflicting understandings with dissonant interaction style and argumentation discourse](debate-mode-dissonant-argumentation.md) — related

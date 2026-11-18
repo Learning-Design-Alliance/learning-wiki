@@ -68,3 +68,4 @@ Interview coding of self-evaluations of current practice. Nine interviewees judg
 - [Reading prior researchers' notebooks and experiencing negative consequences of missing records shaped documentation practice](old-notebooks-and-negative-experiences-shape-practice.md) — a narrower finding that bears on this claim
 - [Undergraduate lab courses did not adequately prepare most physics graduate students to use lab notebooks for research documentation](undergrad-lab-courses-inadequate-notebook-training.md) — related
 - [Lab course activities did not necessitate notebook use because of their short, scripted timescale](lab-course-design-not-necessitating-notebooks.md) — related
+- [Physics graduate students in experimental research groups broadly agree on the purpose of the lab notebook as a record of experimental progress that supports sense-making, future planning, publication, and communication](notebook-purpose-researcher-consensus.md) — related

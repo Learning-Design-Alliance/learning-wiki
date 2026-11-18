@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-16
 evidence_strength: moderate
-newest_evidence: 2012
+newest_evidence: 2011
 sources:
-  - id: eugene-t-torigoe-2012
+  - id: eugene-t-torigoe-2011
     resource: "https://doi.org/10.48550/arXiv.1112.3229"
-    title: "Eugene T. Torigoe. (2012). How numbers help students solve physics problems. arXiv. [doi:10.48550/arXiv.1112.3229](https://doi.org/10.48550/arXiv.1112.3229)"
+    title: "Eugene T. Torigoe. (2011). How numbers help students solve physics problems. arXiv. [doi:10.48550/arXiv.1112.3229](https://doi.org/10.48550/arXiv.1112.3229)"
     author: Eugene T. Torigoe
     q: 3
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q3`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` On a final-exam question administered to 765 students, the numeric version averaged 79.6% versus 63.4% on the symbolic version, a 16.2% difference significant at p<0.001. [→ Eugene T. Torigoe 2012](#eugene-t-torigoe-2012)
+`q3 i?` On a final-exam question administered to 765 students, the numeric version averaged 79.6% versus 63.4% on the symbolic version, a 16.2% difference significant at p<0.001. [→ Eugene T. Torigoe 2011](#eugene-t-torigoe-2011)
 
 ## Evidence
 
-### Eugene T. Torigoe 2012
+### Eugene T. Torigoe 2011
 
-Eugene T. Torigoe. (2012). How numbers help students solve physics problems. arXiv. [doi:10.48550/arXiv.1112.3229](https://doi.org/10.48550/arXiv.1112.3229)
+Eugene T. Torigoe. (2011). How numbers help students solve physics problems. arXiv. [doi:10.48550/arXiv.1112.3229](https://doi.org/10.48550/arXiv.1112.3229)
 
 `q3 · i?` · `qualitative · r2`
 
@@ -52,3 +52,4 @@ Large-population final-exam study in a calculus-based introductory physics cours
 - [Five interview students made the most common Tortoise-and-Hare symbolic error by using the Tortoise's velocity symbol as if it were the Hare's final velocity, some treating symbol associations as dynamic](variable-confusion-tortoise-hare-error.md) — related
 - [The article argues that symbolic problems are hard because students activate resources and cues appropriate for numeric problem solving, such as treating every equation as a general model and the remaining non-numeric symbol as the unknown](inappropriate-resource-activation-symbolic-errors.md) — related
 - [In the interview study, it was common for students unable to solve a symbolic problem to find their earlier mistakes and easily reach the correct answer when given the numeric version immediately afterward](symbolic-failure-numeric-success-interviews.md) — related
+- [Many introductory students find symbolic problems more difficult than numerical ones and prefer plugging in numbers early rather than solving symbolically first](intro-students-symbolic-difficulty-early-numbers.md) — related

@@ -58,3 +58,4 @@ Theoretical argument in the section on enhancing novel problem solving: the arti
 - [Long-term memory is effectively unlimited and holds schemas that vary in their degree of automation](long-term-memory-schemas-automation.md) — related
 - [Working memory capacity is related to initial analogical reasoning ability in children](wm-related-initial-analogy-ability.md) — related
 - [Learners' interview responses indicated schema construction linking novel problems to worked-out examples](interview-responses-indicate-schema-construction.md) — a narrower finding that bears on this claim
+- [Informal interviews indicated that problem modifiers showed deep understanding and transfer to novel difficult scenarios](problem-modding-transfer-interviews.md) — a narrower finding that bears on this claim

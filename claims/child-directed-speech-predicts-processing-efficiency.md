@@ -53,3 +53,4 @@ Correlational analysis linking LENA-measured child-directed speech to performanc
 - [Parental language input differs in quantity and quality across SES groups and relates to children's vocabulary, grammar, and processing development](ses-differences-quantity-quality-parental-input.md) — related
 - [Overheard adult speech is unrelated to 24-month vocabulary, unlike child-directed speech](overheard-speech-unrelated-vocabulary.md) — related
 - [Infants' preference for and learning benefit from child-directed speech change over development, with CDS advantages diminishing by the third year](cds-benefits-vary-developmental-window.md) — related
+- [Word discovery algorithm finds no learning advantage for child-directed over adult-directed speech](child-directed-speech-no-word-learning-advantage.md) — related

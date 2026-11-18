@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-17
 sources:
   - id: yerushalmi-2014
     resource: "https://doi.org/10.1119/perc.2014.pr.068"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the homework context, 58% of TAs (N=25) graded SSE>SSD while 35% (N=15) graded SSD>SSE, a softened version of the quiz-context gap. [→ Yerushalmi 2014](#yerushalmi-2014)
@@ -52,3 +53,7 @@ Homework-context grades from the same worksheet study of 43 TAs: '58% of TAs (N=
 - [In a quiz context, TAs graded a minimal-reasoning solution (SSE) significantly higher than a detailed-reasoning solution with canceling mistakes (SSD)](tas-quiz-grading-favors-minimal-reasoning-solution.md) — related
 - [TAs' grading approaches indicate a subtractive scheme, weighing domain knowledge and correctness in the detailed solution but rarely docking the brief solution for missing justifications](tas-subtractive-grading-scheme.md) — related
 - [In the homework context the SSE–SSD gap softened and average scores were comparable](tas-quiz-hw-grading-gap-softened-hw-nonsignificant.md) — possibly the same claim (merge candidate)
+- [Physics TAs graded elaborated student solutions higher than brief solutions in both intro physics and QM contexts, with the difference statistically significant only for the QM solution pair](tas-grade-elaborated-higher-qm-significant-intro-not.md) — reports the opposite
+- [Physics TAs using a CA-inspired rubric scored an elaborated solution similarly to their pre-rubric score and did not match expert rubric scores, particularly for a brief solution](tas-rubric-scores-differ-from-expert-scores.md) — related
+- [TAs' grading scores on the two solutions did not change significantly after the PD grading activities and one semester of TA experience](tas-grading-unchanged-after-pd-and-semester.md) — related
+- [Two-thirds of the TAs stated they would grade QM and intro physics solutions using different criteria](two-thirds-tas-stated-different-criteria-intro-qm.md) — related

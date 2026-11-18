@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 260 claims (169 show a difference, 60 mixed, 31 no difference) · 226 studies (107 causal, 56 associational, 24 review, 15 quant-synthesis, 11 design, 10 qualitative, 3 theoretical), `q1`–`q4` · 42 of 226 report an effect size · 256 claims rest on one study
+> **Evidence** · 263 claims (171 show a difference, 61 mixed, 31 no difference) · 228 studies (108 causal, 56 associational, 24 review, 15 quant-synthesis, 12 design, 10 qualitative, 3 theoretical), `q1`–`q4` · 42 of 228 report an effect size · 259 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -317,6 +317,9 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [The authors hypothesize that explaining during small group time may lead students to wait for help rather than continue working through problems](../claims/explaining-may-not-promote-active-sense-making.md) [~W] — measured as an outcome of the instruction studied
 - [Learning gains were highest on the three simulations with the greatest class attendance, a pattern the authors attribute to non-random attendance rather than learning style](../claims/attendance-associated-with-gains-in-coupled-model.md) [+M] — learners who differ on it differ in outcomes
 - [Classical analyses of PSCI field testing found no significant difference due to instruction, time since the course was taken, or demographics, indicating one population](../claims/no-significant-split-instruction-demographics-psci.md) [-M] — learners who differ on it differ in outcomes
+- [For the Resonance topic, pre-class assignments including a PhET activity drew more reported time on task](../claims/phet-resonance-longer-time-on-task.md) [+M] — measured as an outcome of the instruction studied
+- [Most CU-Prime leaders attended at least one workshop and about a third attended at least three](../claims/workshop-attendance-22-of-30-leaders.md) [+M] — measured as an outcome of the instruction studied
+- [Retreat placement and newcomer catch-up framing were associated with the two highest-attendance workshops](../claims/retreat-and-catch-up-framing-high-attendance.md) [~M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

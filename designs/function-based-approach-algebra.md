@@ -40,7 +40,8 @@ A reform approach that organizes introductory algebra concepts and skills around
 - [Function Based Generative Intervention Improved 2010 Algebra Gains](../claims/function-based-generative-intervention-improved-2010-algebra-gains.md) [+M]
 
 ## Related Designs
-- 
+
+- [SURGE Symbolic: a disciplinarily integrated game organized around navigating and coordinating formal representations](surge-symbolic-disciplinarily-integrated-game.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Binning analysis of free-response answers from 153 students in course A, matchin
 - [OSU students scored dramatically higher on multiple-choice than free-response CUE versions for some questions, with a 7-fold increase on the dipole-moment question](cue-fr-mc-score-discrepancies-osu.md) — reports the opposite
 - [Free-response performance matches multiple-choice performance for resistance but is better for capacitance and inductance](free-response-better-capacitance-inductance.md) — reports the opposite
 - [Scores on the multiple-choice CUE do not differ significantly from scores on the free-response version in an upper-division electrostatics course](mc-cue-scores-match-fr-cue.md) — related
+- [Free-response answers in course A could be matched to the a priori multiple-choice choices for 84% (Question 1) and 88% (Question 2) of students](fr-answers-match-apriori-mc-choices.md) — possibly the same claim (merge candidate)

@@ -51,3 +51,4 @@ Mediation analysis (N = 135, PROCESS model 82, 5000 bootstrap samples, cluster-c
 - [Neither the quantity nor the quality of PF students' own solution attempts correlated with their conceptual knowledge acquisition](solution-attempts-not-correlated-with-conceptual-knowledge.md) — related
 - [Collaborative and individual problem solving in traditional PF do not differ in conceptual knowledge after instruction](pf-collaborative-individual-no-conceptual-knowledge-difference.md) — related
 - [Solution quality correlates with conceptual knowledge and gap awareness only for individual problem solvers](pf-solution-quality-correlation-individual-only.md) — related
+- [Most students engaged only superficially with the reflective homework reports, and report quality and practice quantity did not correlate with grades or problem-solving proficiency.](superficial-reflection-no-correlation-with-grades.md) — related

@@ -49,3 +49,4 @@ Multilevel model of exam scores with percent CR as predictor; the gender × perc
 - [For middle/high-SES male students, increasing the percentage of constructed-response questions on an exam predicts increased exam performance](constructed-response-questions-raise-overall-performance.md) — related
 - [The exam playbook intervention showed no statistically significant treatment-effect differences by gender, race, class standing, or prior performance](exam-playbook-no-subgroup-treatment-differences.md) — related
 - [For middle/high-SES male students, increasing an exam's weighted Bloom's level predicts decreased exam performance after controlling for prior GPA and exam difficulty](higher-blooms-level-lowers-overall-exam-performance.md) — related
+- [Scaffolding does not preferentially benefit female students; apparent preferential gain is an artifact of achievement-level composition](scaffolding-gains-level-dependent-not-gender.md) — related

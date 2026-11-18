@@ -13,7 +13,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 132 claims (93 show a difference, 28 mixed, 11 no difference) · 103 studies (40 associational, 19 causal, 15 review, 10 design, 9 qualitative, 7 theoretical, 3 quant-synthesis), `q1`–`q4` · 8 of 103 report an effect size · 127 claims rest on one study
+> **Evidence** · 133 claims (94 show a difference, 28 mixed, 11 no difference) · 104 studies (40 associational, 19 causal, 16 review, 10 design, 9 qualitative, 7 theoretical, 3 quant-synthesis), `q1`–`q4` · 8 of 104 report an effect size · 128 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -176,6 +176,7 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [Radio broadcasts have tremendous penetration among general publics without access to the internet in Latin America and other developing regions](../claims/radio-penetration-reaches-audiences-without-internet.md) [+W] — measured as an outcome of the instruction studied
 - [In a blended introductory mechanics course, students accessed laboratory videos far more consistently than lecture-oriented videos, with lecture access falling below 40% late in the semester while lab access remained above 84%](../claims/lab-videos-accessed-more-than-lecture-videos.md) [+M] — measured as an outcome of the instruction studied
 - [Student video-accessing behaviors showed little correlation with course performance in the blended mechanics course](../claims/video-accessing-uncorrelated-with-performance.md) [-W] — learners who differ on it differ in outcomes
+- [Free or low-cost robotic telescope access equalises instrumentation access across socioeconomic and physical barriers](../claims/robotic-telescope-equity-access.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

@@ -28,6 +28,7 @@ The CoMPAS framework models individual participation in collaborative learning p
 ## Related Research Methods
 
 - [Two-type taxonomy of direct behavioral and latent-construct participation indicators](two-type-taxonomy-of-direct-behavioral-and-latent-construct-participation-indicators.md)
+- [Four observed types of laboratory group interaction](four-observed-types-of-laboratory-group-interaction.md)
 
 ## Key Sources
 - Shihui Feng, Ziyi Wei. (2025). The CoMPAS Framework for Modeling Individual Participation in Collaborative Learning Processes: a Systematic Review. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09450-x

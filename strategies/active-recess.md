@@ -64,6 +64,7 @@ Recess functions as an attention-restoration and arousal-regulation mechanism: s
 - [Classroom Physical Activity Integration](classroom-physical-activity-integration.md) — embedding movement into academic content rather than separating it
 - [Design running programs to support autonomy, competence and relatedness needs](sdt-aligned-running-program-design.md)
 - [Integrate structured active breaks into academic curricula to support student well-being and performance](integrate-active-breaks-into-curricula.md)
+- [Check terrain safety and prefer outdoor play for the game](quark-wars-terrain-safety-outdoor-play-strategy.md)
 
 ## Examples
 - **LiiNK Project (Texas Christian University)** — implements multiple daily outdoor recesses alongside character education; published studies report improved attention and reduced disciplinary referrals (https://liinkproject.tcu.edu)

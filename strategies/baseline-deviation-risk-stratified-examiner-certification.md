@@ -44,7 +44,8 @@ Among the practical implications the authors draw for building a national, scala
 - [Specialty background was the only factor significantly associated with baseline scoring deviation, with neurosurgery and urology examiners deviating more than general surgery examiners](../claims/specialty-background-baseline-scoring-deviation.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use sliced assessment data to calibrate observers and give staff feedback on their rating deviations](staff-calibration-feedback-strategy.md)
 
 ## Examples
 -

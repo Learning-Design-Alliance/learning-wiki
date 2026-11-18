@@ -59,9 +59,11 @@ Hands-on manipulation of concrete parts supports early science learning by letti
 6. **Justify and share:** each learner explains one trait choice and its function to a partner or the class ([Practice](../elements/practice.md) with [Class Discussion](../elements/class-discussion.md)).
 
 ## Related Strategies
+
 - [Sorting and Classifying](sort-and-classify.md) — the part-sorting variant is a direct application of classification practice
 - [Activate Background Knowledge](../strategies/activating-prior-knowledge.md) — the opening picture discussion surfaces what learners already know about animals
 - [Measure and Graph Data](../strategies/measure_and_graph_data.md) — the measurement extension feeds directly into data recording
+- [Build the chart from scratch at each event so participants actively construct it and gain a hands-on sense of nuclear scales](build-chart-from-scratch-at-each-event.md)
 
 ## Related Elements
 - [Application](../elements/application.md) — assembly is the applied phase where trait knowledge is used, not just recalled

@@ -66,3 +66,4 @@ Gender was included in the dominance models because it had a significant effect 
 ## Related Claims
 - [Girls outperform boys on effortful control, teacher-rated social competence, and achievement in this sample](sex-differences-ec-social-achievement.md) — a broader claim this one bears on
 - [Latino girls reported higher belonging and achievement than boys, and Latino subgroup and parent-education differences emerged in the sixth grade](latino-gender-subgroup-covariate-differences.md) — related
+- [Additional aptitude measures (HS GPA, standardized test scores) narrow but do not eliminate gendered performance differences](covariates-do-not-explain-gpd.md) — related

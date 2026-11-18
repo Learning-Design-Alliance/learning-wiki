@@ -42,7 +42,8 @@ The article reports that "the student’s pre-test feedback allowed the instruct
 - [In IPPE2, pre-test satisfaction was significantly higher for all five technical-domain items, while exercise, instructor and communication domains showed no significant pre-post differences](../claims/ippe2-pretest-higher-technical-satisfaction.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use clickers in tutorial sessions to activate students before or after exercises](clickers-in-optics-tutorials-strategy.md)
 
 ## Examples
 -

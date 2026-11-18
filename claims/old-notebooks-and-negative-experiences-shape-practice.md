@@ -48,3 +48,4 @@ Interview coding of skill-development pathways. Three interviewees used former s
 - [Graduate research advisors provided little to no instruction or feedback on students' lab notebooks](advisors-minimal-notebook-instruction-feedback.md) — related
 - [Physics graduate students developed documentation skills primarily through informal hands-on practice in authentic research settings](hands-on-authentic-practice-develops-documentation.md) — a broader claim this one bears on
 - [Undergraduate lab courses did not adequately prepare most physics graduate students to use lab notebooks for research documentation](undergrad-lab-courses-inadequate-notebook-training.md) — related
+- [Physics graduate students in experimental research groups broadly agree on the purpose of the lab notebook as a record of experimental progress that supports sense-making, future planning, publication, and communication](notebook-purpose-researcher-consensus.md) — related

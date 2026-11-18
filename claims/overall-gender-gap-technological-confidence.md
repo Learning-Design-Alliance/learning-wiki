@@ -114,3 +114,4 @@ Independent samples t-test with Welch's correction on the survey's gender-based 
 - [Male students report higher self-efficacy than female students despite similar simulator performance](gender-self-efficacy-gap-simulator.md) — related
 - [GRAS-DK score differed slightly by gender and by highest-taxonomy-level elective, but not by age, study progression, or extracurricular activity](gras-dk-background-variable-correlates.md) — related
 - [Male students show higher interest in astronomy than female students, but no gender difference appears in the public sample](astronomy-interest-gender-gap-students-only.md) — related
+- [Female high school students experience much lower self-efficacy states in physics than male students, with a very large effect size of d = 0.88, and the difference does not occur in other school courses.](gender-gap-self-efficacy-states-high-school-physics.md) — related

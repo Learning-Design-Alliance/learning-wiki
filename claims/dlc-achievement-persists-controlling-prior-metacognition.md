@@ -51,3 +51,4 @@ Hierarchical regression analysis with N=272 students who completed the MSLQ pret
 - [Students who completed more DLC reflection modules exhibited a more strategic approach to solving an exam problem on angular momentum](dlc-interaction-strategic-approach.md) — related
 - [Students emphasising rehearsal and memorisation techniques showed lower conceptual understanding and less DLC interaction](rehearsal-negative-concept-dlc-interaction.md) — related
 - [Micro-analytic self-report questions predict exam performance better than the MSLQ, which did not correlate with exam scores](microanalytic-questions-outpredict-mslq.md) — related
+- [Problem modifiers scored about 90% versus about 58% for the rest of the class on Angular Momentum final-exam problems](angular-momentum-modders-versus-class.md) — related

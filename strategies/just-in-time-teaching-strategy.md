@@ -45,6 +45,7 @@ Just-in-Time Teaching (JiTT) is described in the article as "a student-centered,
 ## Related Strategies
 
 - [Just In Time Teaching](just-in-time-teaching.md)
+- [Assess conceptual learning from programming exercises with an animated Force Concept Inventory administered immediately before and after each exercise](animated-fci-pre-post-assessment-strategy.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ In the same regression, ICT attitude pre-test (beta = -.106, p = .329), social s
 - [ICT-supported teaching improved pupils' attitudes toward ICT but not their attitudes toward social studies](ict-treatment-attitude-effects-split.md) — related
 - [Pupils' pre-test attitudes toward social studies were negatively correlated with their pre-treatment attitudes toward ICT](negative-correlation-social-studies-ict-attitudes.md) — related
 - [ICT-supported social studies teaching produced higher achievement post-test scores than traditional instruction in a quasi-experiment with 6th graders](ict-treatment-higher-achievement-post-test-social-studies.md) — related
+- [Students' attitudes toward learning via ICT shifted after the activities in the first study and toward learning via social media in the second, with no shifts in the third study](attitude-shifts-social-media-ict.md) — related

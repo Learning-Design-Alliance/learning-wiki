@@ -30,7 +30,7 @@ grain_size: unit
 # Mastery Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 36 claims (16 for, 18 mixed, 2 against) · 32 studies (12 causal, 8 quant-synthesis, 3 review, 3 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 9 of 32 report an effect size · 32 claims rest on one study
+> **Evidence** · 39 claims (17 for, 20 mixed, 2 against) · 33 studies (13 causal, 8 quant-synthesis, 3 review, 3 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 9 of 33 report an effect size · 35 claims rest on one study
 
 ## Description and scope
 
@@ -110,6 +110,9 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Female students show stronger academic self-confidence, more positive attitudes, higher achievement, and fewer absences, but this advantage diminishes almost completely under mastery learning](../claims/sex-advantage-diminishes-under-mastery-learning.md) [~W]
 - [Mastery learning instruction produced significantly higher post-test achievement in quantitative chemistry than conventional teaching among Senior Secondary 2 students](../claims/mastery-learning-higher-quantitative-chemistry-posttest.md) [+M] — attached 2026-11-01 from Telimoye Leesi Mitee et al. (2015), which proposed "Mastery learning instructional cycle of units, formative tests, and corrective instruction"; tests this page's relationship.
 - [In one single-group pre-test/post-test study with no comparison group, medical students' PPE donning and doffing performance scores rose from pre-test to post-test after simulation-based mastery learning, reaching mastery in a simulated clinical environment.](../claims/sbml-improves-medical-student-ppe-donning-doffing.md) [+W] — attached 2026-11-07 from Miller Danielle T. MD et al. (2022), which proposed "Medical schools should adopt SBML for PPE training before clinical experiences because standard video-based training leaves students unproficient"; tests this page's relationship.
+- [The mastery-homework advantage in trial one was significant on nearer-transfer questions but not on farther-transfer questions](../claims/mastery-benefit-near-transfer-only.md) [+W] — attached 2026-11-17 from William R. Evans et al. (2016), which proposed "Use mastery-style homework where students are less familiar with the material and the assessment is near transfer to the study materials"; tests this page's relationship.
+- [No mastery-versus-traditional difference was seen in the calculus-based friction trial (trial two)](../claims/no-difference-calculus-friction-trial.md) [~W] — attached 2026-11-17 from William R. Evans et al. (2016), which proposed "Use mastery-style homework where students are less familiar with the material and the assessment is near transfer to the study materials"; tests this page's relationship.
+- [No mastery-versus-traditional difference was seen in the end-of-semester Newton's laws trial (trial three)](../claims/no-difference-newtons-laws-trial.md) [~W] — attached 2026-11-17 from William R. Evans et al. (2016), which proposed "Use mastery-style homework where students are less familiar with the material and the assessment is near transfer to the study materials"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

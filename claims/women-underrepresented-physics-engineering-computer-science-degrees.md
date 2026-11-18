@@ -51,3 +51,4 @@ Descriptive statistics reported in the guide's overview, drawn from National Sci
 - [Compass summer program participants are substantially more diverse than physics degree recipients nationally](compass-participants-more-diverse-than-physics-degrees.md) — related
 - [Early Compass participants completed science or engineering degrees at a higher rate than the national rate, but causality is not established](compass-retention-58-percent-not-causal.md) — related
 - [Women remain underrepresented in US physics, with men holding most senior positions (8% full professors), though numbers of women are increasing at all levels](women-underrepresented-us-physics-8-percent-full-professor.md) — related
+- [US bachelor’s degrees in physics, chemistry, and the physical sciences and engineering declined as a percentage of all degrees awarded between 1984 and 2011](us-physical-science-degrees-declined-1984-2011.md) — related

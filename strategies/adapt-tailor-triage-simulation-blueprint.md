@@ -49,6 +49,7 @@ The authors offer the simulation as a blueprint other programs can adopt and mod
 - [Adapt RaT curricula to local cultural, institutional, and workforce characteristics rather than directly adopting Western-designed programs](contextually-adapted-rat-program-design.md)
 - [Culturally tailored chatbot design: position chatbots as reflective companions for Chinese users and as thinking partners for Western users, while deploying cognitive support broadly](culturally-tailored-chatbot-design-strategy.md)
 - [Embed repeated exposure to diverse disaster triage scenarios in training to build adaptive decision-making](repeated-diverse-scenario-exposure-triage-strategy.md)
+- [Tailor lecture content to the background of the local student cohort](tailor-lectures-to-local-background.md)
 
 ## Examples
 -

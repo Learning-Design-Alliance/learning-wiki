@@ -48,3 +48,4 @@ Quasi-experimental pretest-posttest study of 40 middle school computer science t
 - [E-platform in-service training produced more positive attitudes toward teaching Scratch programming than traditional training](eplatform-training-improves-attitudes-teaching-programming.md) — related
 - [E-platform training produced significantly higher practical Scratch programming skills than traditional training](eplatform-training-improves-practical-programming-skills.md) — a narrower finding that bears on this claim
 - [E-platform and traditional in-service training did not differ on theoretical programming knowledge](eplatform-training-no-gain-theoretical-knowledge.md) — related
+- [Pre-camp assessment via a Scratch-based game showed weak baseline computational thinking skills among camp students](ev3-camp-baseline-game-assessment.md) — related

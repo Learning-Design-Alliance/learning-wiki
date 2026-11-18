@@ -44,7 +44,8 @@ P3 is a newly adopted format of introductory calculus-based mechanics at Michiga
 - [Play Strategy Haphazard Code Changes](../claims/play-strategy-haphazard-code-changes.md) [+W]
 
 ## Related Designs
-- 
+
+- [P3 (Projects and Practices in Physics) introductory mechanics course](p3-projects-and-practices-physics-course.md)
 
 ## Examples
 -

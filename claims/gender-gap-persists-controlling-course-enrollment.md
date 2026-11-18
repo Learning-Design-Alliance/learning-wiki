@@ -62,3 +62,4 @@ Regression models with a male indicator controlling for algebra/geometry and hon
 - [Women were marginally about 1.5 times more likely than men to earn a top grade (A or A+), failing to support the variability hypothesis](women-more-likely-top-grades-stem.md) — related
 - [No gender gap in exam points, but women earned more non-exam points, in the control section](no-gender-gap-exam-points-women-more-nonexam-points.md) — related
 - [Greater male variability is insufficient to explain male over-representation in STEM, given the small gender gaps in STEM grades](variability-insufficient-to-explain-stem-underrepresentation.md) — related
+- [Significant gendered performance differences favoring male students are ubiquitous in large introductory STEM lecture courses](gpd-ubiquitous-stem-lectures.md) — related
