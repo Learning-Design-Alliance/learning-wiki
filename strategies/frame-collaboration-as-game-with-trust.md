@@ -53,4 +53,4 @@ In its educational suggestions, the article recommends treating collaboration th
 -
 
 ## Key Sources
-- Taraman, S., Hassan, Y., Shawky, D., & Badawi, A. (2016). Employing Game theory and Multilevel Analysis to Predict the Factors that Affect Collaborative Learning Outcomes: An Empirical Study. https://arxiv.org/abs/1610.05075
+- Taraman, S., Hassan, Y., Shawky, D., & Badawi, A. (2016). Employing Game theory and Multilevel Analysis to Predict the Factors that Affect Collaborative Learning Outcomes: An Empirical Study. https://arxiv.org/abs/1610.05075. [doi:10.48550/arxiv.1610.05075](https://doi.org/10.48550/arxiv.1610.05075)

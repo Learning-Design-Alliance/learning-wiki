@@ -49,3 +49,4 @@ The review's article-selection analysis found that although many TCSA papers app
 - [Research on supports teachers need to teach about complex systems has been sparse despite 15 years of tools-and-theories work](little-research-on-teacher-supports-for-complex-systems.md) — related
 - [Instructional design models are rarely tested against outcomes; their credibility comes from practitioners finding them useful.](instructional-design-models-are-validated-by-adoption-not-testing.md) — a broader claim this one bears on
 - The ITE-diversity literature is broad in focus but shallow in depth, with most papers describing teaching about or catering to diversity and few considering teaching for diversity — a narrower finding that bears on this claim
+- [Effects of integrating computing into basic science courses have been sparsely studied, motivating a research program on assessment](computing-integration-effects-sparsely-studied.md) — related

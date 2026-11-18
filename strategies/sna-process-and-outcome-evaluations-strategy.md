@@ -42,6 +42,7 @@ The brief recommends applying social network analysis in two evaluation types. I
 ## Related Strategies
 
 - [Use SNA at the whole-network level to study all ties within a defined group](sna-whole-network-defined-group-strategy.md)
+- [Use SNA on classroom video to identify groups and individuals interacting in unexpected ways and assess program community goals](sna-video-unexpected-behavior-strategy.md)
 
 ## Examples
 -

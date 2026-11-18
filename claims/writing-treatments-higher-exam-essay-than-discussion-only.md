@@ -52,3 +52,4 @@ GLMM analysis of exam essay data from 346 consenting students in three sections,
 - [When controlling for number of letters completed (treatment intensity), the writing treatment effect on the midterm remained statistically significant, highlighting the role of student effort](letter-writing-effect-controlling-effort.md) — related
 - [Participating in an informal letter-writing assignment did not significantly improve scores on a multiple-choice-only quiz](letter-writing-no-effect-mc-quiz.md) — related
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — a broader claim this one bears on
+- [Students performed best with essay/subjective questions yet most favored multiple-choice questions, a preference–performance mismatch](essay-questions-outperform-mcq-preference-mismatch.md) — related

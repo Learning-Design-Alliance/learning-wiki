@@ -52,3 +52,6 @@ Bootstrapped regression comparison across four centrality measures in the MI cla
 - [The relationship between classroom engagement and future academic performance does not emerge until the second half of the semester](engagement-performance-link-emerges-late.md) — related
 - [Multigraph closeness centrality is the most consistent of the three configurations for correlating closeness with performance, though less robust than degree and eigenvector centralities](multigraph-closeness-most-consistent-configuration.md) — reports the opposite
 - [In a Modeling Instruction physics course, classroom network centrality predicts final course grade over and above prior GPA for three of four centrality measures tested](centrality-predicts-grade-beyond-gpa.md) — a broader claim this one bears on
+- [Forum network centrality is positively correlated with final course grade in the two semesters with denser forum networks](forum-centrality-correlated-with-grade-dense-semesters.md) — related
+- [Out-of-class networks are basically fully developed by midsemester, with about 95% of eventual members already present by week 8](out-of-class-networks-developed-by-midsemester.md) — related
+- [In Semester 2, no centrality/grade correlations were statistically significant](semester2-no-centrality-grade-correlations.md) — related

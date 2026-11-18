@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: weak
-newest_evidence: 2012
+newest_evidence: 2013
 sources:
-  - id: beth-thacker-2012
+  - id: beth-thacker-2013
     resource: "https://doi.org/10.48550/arXiv.1312.6000"
-    title: "Beth Thacker, Hani Dulli, Dave Pattillo, and Keith West. (2012). Lessons from a Large-Scale Assessment: Results from Conceptual Inventories. Physics Department, Texas Tech University. [doi:10.48550/arXiv.1312.6000](https://doi.org/10.48550/arXiv.1312.6000)"
+    title: "Beth Thacker, Hani Dulli, Dave Pattillo, and Keith West. (2013). Lessons from a Large-Scale Assessment: Results from Conceptual Inventories. Physics Department, Texas Tech University. Originally published 2012. [doi:10.48550/arXiv.1312.6000](https://doi.org/10.48550/arXiv.1312.6000)"
     author: Beth Thacker, Hani Dulli, Dave Pattillo, and Keith West
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Only the honors/majors sections achieved FCI gains well above 0.3, with the integrated PER/PERL honors section reaching a normalized gain of 0.5. [→ Beth Thacker 2012](#beth-thacker-2012)
+`q2 i?` Only the honors/majors sections achieved FCI gains well above 0.3, with the integrated PER/PERL honors section reaching a normalized gain of 0.5. [→ Beth Thacker 2013](#beth-thacker-2013)
 
 ## Evidence
 
-### Beth Thacker 2012
+### Beth Thacker 2013
 
-Beth Thacker, Hani Dulli, Dave Pattillo, and Keith West. (2012). Lessons from a Large-Scale Assessment: Results from Conceptual Inventories. Physics Department, Texas Tech University. [doi:10.48550/arXiv.1312.6000](https://doi.org/10.48550/arXiv.1312.6000)
+Beth Thacker, Hani Dulli, Dave Pattillo, and Keith West. (2013). Lessons from a Large-Scale Assessment: Results from Conceptual Inventories. Physics Department, Texas Tech University. Originally published 2012. [doi:10.48550/arXiv.1312.6000](https://doi.org/10.48550/arXiv.1312.6000)
 
 `q2 · i?` · `causal · r1`
 
@@ -55,3 +55,4 @@ Pre/post FCI assessment of small honors/majors sections of the calculus-based co
 - [In physics-based courses for non-science majors taught with active-engagement pedagogy, normalized gains were 0.38–0.42 on content tests but 0.06 on a scientific-reasoning test](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) — related
 - [Students in Arduino-based lab sections scored unremarkably on standard physics pre/post inventories](arduino-lab-standard-inventory-scores-unremarkable.md) — related
 - [Student difficulties on the test are not strongly dependent on student population or calculus background, except for honors and active-engagement classes](difficulty-independent-of-calculus-background.md) — related
+- [Section 01 performed worse in the skill-based assessment than section 04 despite the same instructor, with lab-before-lecture ordering a suspected cause](lab-before-lecture-ordering-worse-sa-section01.md) — related

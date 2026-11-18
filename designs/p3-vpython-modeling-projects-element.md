@@ -52,3 +52,4 @@ P3 is a newly adopted format of introductory calculus-based mechanics at Michiga
 
 ## Key Sources
 - Michael J. Obsniuk, Paul W. Irving, and Marcos D. Caballero. (2015). A Case Study: Novel Group Interactions through Introductory Computational Physics. https://arxiv.org/abs/1511.05457
+- Marcos D. Caballero, Michael J. Obsniuk, Paul W. Irving. (2017). Teaching Computation in Introductory Physics using Complex Problems. https://pcubed.pa.msu.edu

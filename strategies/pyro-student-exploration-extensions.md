@@ -42,7 +42,8 @@ Each solver section closes with a set of open exercises the article frames as th
 - [The pyro compressible-hydrodynamics verification tests reproduce analytic reference solutions (Sod shock tube, Sedov-Taylor blast wave, single-mode Rayleigh-Taylor)](../claims/pyro-compressible-tests-match-analytic-solutions.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Extension activities: building code from scratch, measuring runtime, the Verlet algorithm, and multi-body extensions](simulation-course-extension-activities.md)
 
 ## Examples
 -

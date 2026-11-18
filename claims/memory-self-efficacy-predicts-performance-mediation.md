@@ -56,3 +56,4 @@ Final SEM of the pooled sample; about 24.8% of total variance in memory performa
 - [Age negatively and education positively predict memory self-efficacy, and age negatively predicts memory performance](age-education-predict-memory-self-efficacy-and-performance.md) — related
 - [Dispositional learning goals positively predict memory self-efficacy in younger and older adults](learning-goals-predict-higher-memory-self-efficacy.md) — related
 - [Academic self-efficacy was not significantly associated with final test performance](self-efficacy-no-direct-path-final-test.md) — related
+- [Self-assessment does not statistically significantly predict performance in cybersecurity games](self-assessment-not-reliable-cybersecurity-game-predictor.md) — related

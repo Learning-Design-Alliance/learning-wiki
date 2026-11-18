@@ -98,3 +98,4 @@ ANOVA across majors (English, Journalism, Education, Arabic, Others) in the expe
 - [Preferences for visual, written, or board-exam-oriented e-learning resources did not differ significantly by gender, year, GPA bracket, background, or research participation](no-demographic-differences-elearning-preferences.md) — related
 - [Training type has a significant positive effect on examination scores independent of gender and academic year (ANCOVA)](ancova-training-effect-independent-gender-year.md) — related
 - [Improvement factor showed no correlation with sex, age, non-traditional status, accelerated degree participation, or undergraduate GPA](improvement-factor-uncorrelated-background-variables.md) — related
+- [Inferential analysis found no significant differences in knowledge across the demographic variables examined](no-significant-differences-demographic-variables.md) — related

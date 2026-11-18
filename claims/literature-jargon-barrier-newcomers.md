@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2017
+source_checked: 2026-11-18
 recheck_by: 2022
 sources:
   - id: nathan-e-sanders-2017
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
+> **Currency** · newest study 2017 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` First contact with the primary literature often obstructs rather than supports entry into research, since peer-to-peer shorthand, established jargon, and passing reference to decades of results obscure meaning to students. [→ Nathan E. Sanders 2017](#nathan-e-sanders-2017)

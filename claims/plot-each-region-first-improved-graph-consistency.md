@@ -50,3 +50,4 @@ Quasi-experimental analysis of consistency across all graphed regions among the 
 - [Group 1 students outperformed Group 2 students on the electric-field expression in regions r<a and b<r<c](plot-each-region-first-boosted-expressions-versus-evaluation-intervention.md) — related
 - [Evaluating the electric field at beginning, mid and end points of each region adversely affected students' graphing performance despite being intended to help](explicit-point-evaluation-scaffold-adverse-effect.md) — related
 - [A majority of introductory physics students drew electric-field graphs inconsistent with their own mathematical expressions in all regions in preliminary research](preliminary-majority-graphs-inconsistent-with-expressions.md) — related
+- [Consistency plots of the two groups were similar and no consistency pattern is necessarily more equitable than another](consistency-plots-no-equity-pattern.md) — related

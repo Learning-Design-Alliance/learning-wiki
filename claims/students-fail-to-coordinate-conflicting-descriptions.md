@@ -65,3 +65,6 @@ Theoretical hypothesis advanced from the authors' data on students and physicist
 - [Most introductory students have difficulty qualitatively interpreting basic energy and momentum principles and applying them in physical situations](students-difficulty-qualitative-energy-momentum.md) — related
 - [Secondary and lower undergraduate students have difficulty relating quantum physics to physical reality](students-difficulty-relating-quantum-physics-physical-reality.md) — related
 - [Student understanding of wave-particle duality falls into three clusters ranging from classical to quasiquantum description](three-clusters-wave-particle-duality-understanding.md) — related
+- [Students misapply object-based resources such as part-for-whole and dying away when reasoning about wave propagation and superposition](object-resources-misapplied-to-waves.md) — a narrower finding that bears on this claim
+- [Interaction with physicist tutors is where most learning takes place in masterclasses](physicist-tutors-central-to-masterclass-learning.md) — related
+- [Teachers noticed the problematic facets of the energy-as-substance metaphor resource but not the generative value of the metaphor resource itself](teachers-notice-facets-not-metaphor-resource.md) — related

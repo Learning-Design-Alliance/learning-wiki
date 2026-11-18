@@ -51,3 +51,4 @@ Rank-sum tests on incoming GPA, SAT scores, and course grades found no significa
 - [The relative fraction of homework and lecture topics devoted to FCI force and motion concepts correlates with observed FCI performance differences between curricula.](homework-lecture-fraction-correlates-fci-gap.md) — related
 - [Traditional curriculum students significantly outperform Matter & Interactions students on the FCI post-test in introductory mechanics.](traditional-curriculum-higher-fci-posttest-than-mi.md) — related
 - [Experimental and control cohorts were statistically equivalent on conceptual physics diagnostics (FCI, MBT, BEMA) at entry and across the course](comparison-cycles-diagnostics-equivalent.md) — related
+- [The CURrENT pre-test (54.3%, N=298) is a meaningful indicator of incoming preparation, correlating with CUE post-test scores and prior GPA](current-pretest-indicates-preparation.md) — related

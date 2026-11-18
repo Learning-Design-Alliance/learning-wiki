@@ -50,6 +50,7 @@ The review recommends future directions for dental education, including explorin
 - [Prefer mixed reality with hand tracking over head-mounted-display controllers for gesture-simulation training](mr-hand-tracking-over-hmd-controllers.md)
 - [Advocate and popularize emerging teaching methods as routine dental teaching, while combining them with traditional models to offset cost and time weaknesses](promote-emerging-methods-routine-dental-teaching.md)
 - [Strengthen interinstitutional collaboration and investigate emerging technologies (3D printing, augmented reality) in simulation-based medical education research](strengthen-collaboration-emerging-technologies-strategy.md)
+- [Explore unexplored taxonomy quadrants by combining artificial characters with digital media and augmented reality](explore-artificial-characters-digital-media-quadrants.md)
 
 ## Examples
 -

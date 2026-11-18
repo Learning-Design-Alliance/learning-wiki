@@ -51,3 +51,4 @@ Random assignment design across six states; the abstract reports impacts "from a
 - [At some colleges the program lowered student loan debt](pbs-lowered-student-loan-debt.md) — related
 - [Performance-based scholarships had mixed impacts on second-semester registration](pbs-mixed-impacts-second-semester-registration.md) — related
 - [In the longest-follow-up site (Ohio), performance-based scholarships raised degree attainment by about 3.5 percentage points](pbs-ohio-degree-attainment-impact.md) — related
+- [In Singapore, MOOCs form 12% of all SkillsFuture Credit-eligible courses and about 6% of Singaporeans have used their credits on MOOCs, mostly aged 25 to 39](skillsfuture-credits-mooc-uptake.md) — related

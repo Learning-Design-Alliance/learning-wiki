@@ -53,3 +53,4 @@ NADL Informal distance estimation subtest comparing DD and control participants:
 - [Spatial processing is preserved but slower in developmental dyscalculia, with slow trail-making and mental rotation speed attributed to WM/inhibition impairment](dd-spatial-processing-preserved-but-slow.md) — related
 - [Adults with DD show deficient time/duration processing but preserved length processing, with mixed findings across studies](dd-adults-time-duration-deficit-length-mixed.md) — related
 - [Adults with dyslexia without dyscalculia show no deficit in nonsymbolic numerical magnitude processing](dyslexia-without-dyscalculia-intact-magnitude-processing.md) — related
+- [Disabilities are little studied in physics education research despite affecting many students](disabilities-little-studied-per.md) — related

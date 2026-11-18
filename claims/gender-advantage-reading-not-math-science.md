@@ -50,3 +50,4 @@ Pairwise comparisons in the ECLS-K:2011 ANOVA showed the gender pattern. The art
 - [Mathematics was a relative strength across communication status, income, and gender](math-relative-strength-fourth-grade.md) — related
 - [Subject scores interacted significantly with communication status, gender, income, and their four-way combination](subject-by-status-gender-ses-interactions.md) — related
 - [Male gender relates to lower English grades but not Math or Science grades](male-gender-lower-english-grades-only.md) — reports the opposite
+- [Sex gaps in ENEM performance are larger than ethnic gaps: males score higher in mathematics and females higher in writing across income levels](enem-sex-gaps-larger-than-ethnic-gaps.md) — related

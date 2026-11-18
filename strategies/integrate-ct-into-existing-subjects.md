@@ -43,9 +43,10 @@ The review's Research Question 3 section recommends that where schools cannot ru
 - [Integrate computational thinking into existing disciplinary teaching across grade bands rather than adding it on](integrate-ct-into-disciplinary-learning.md)
 - [Integrate computational thinking across K-12 subject areas rather than treating it as computer-science-only](integrate-computational-thinking-across-k12-subjects.md)
 - [Integrate AI literacy across grades and subject-area learning rather than confining it to electives](integrate-ai-literacy-across-subject-areas.md)
+- [Just-in-time Math Bits integrated into each Paradigm course in place of a standalone Math Methods course](just-in-time-math-bits-paradigms.md)
 
 ## Examples
 -
 
 ## Key Sources
-- Lockwood, J., & Mooney, A. (2017). Computational Thinking in Education: Where does it fit? A systematic literary review. Maynooth University, Ireland. http://www.education.ie/en/Publications/Corporate-Reports/Strategy-Statement/Action-Plan-for-Education-2017.pdf
+- Lockwood, J., & Mooney, A. (2017). Computational Thinking in Education: Where does it fit? A systematic literary review. Maynooth University, Ireland. http://www.education.ie/en/Publications/Corporate-Reports/Strategy-Statement/Action-Plan-for-Education-2017.pdf. [doi:10.48550/arxiv.1703.07659](https://doi.org/10.48550/arxiv.1703.07659)

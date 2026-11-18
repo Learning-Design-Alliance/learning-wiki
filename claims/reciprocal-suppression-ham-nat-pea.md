@@ -56,3 +56,4 @@ Multiple regression models (Table 3) predicting zOutcomeOverall in students enro
 - [HAM-Nat predicted ZVP examination performance better than GPA only in the WiSe 2009/10 cohort, when the test was part of selection](ham-nat-zvp-advantage-only-2009-cohort.md) — related
 - [Gender differences in HAM-Nat scores and success were not significant, but regression suggests prediction may be steeper for females and a suppressor effect elevates predictive power](hamnat-gender-suppressor-tendency.md) — related
 - [The HAM-Nat-BPC scale provides predictive information for academic success independent of, and roughly equal in size to, high school GPA](hamnat-incremental-validity-over-gpa.md) — related
+- [Getting the relative weights of admissions variables right matters more than getting the precise shape of the admissions curve correct](weights-matter-more-than-curve-shape.md) — related

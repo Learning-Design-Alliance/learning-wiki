@@ -47,3 +47,4 @@ Correlational analysis (Discussion section) of 41 students' ILS scores against n
 ## Related Claims
 - [Coupling interactive simulations with real-time open-format formative assessment produced statistically significant learning gains across all five simulations in an engineering physics course](coupled-model-significant-learning-gains.md) — related
 - [Learning gains were highest on the three simulations with the greatest class attendance, a pattern the authors attribute to non-random attendance rather than learning style](attendance-associated-with-gains-in-coupled-model.md) — related
+- [Preferred strategies and media differ across Felder-Silverman learning-style combinations, with A-S-Vi-Se students favouring games and simulations plus visual media](style-combination-strategy-media-mapping.md) — related

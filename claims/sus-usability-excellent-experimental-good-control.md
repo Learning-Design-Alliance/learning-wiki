@@ -58,3 +58,4 @@ SUS percentile ranks converted to adjective ratings for both groups (n=78 total)
 - [EVS usability scores above 'good' benchmark but students become more critical of usability when encountering staff competency or testing problems](evs-usability-context-dependent.md) — related
 - [The DCBL platform achieved marginal-to-average usability (mean SUS 62.4) with moderate cognitive workload](dcbl-platform-usability-sus-workload.md) — related
 - [Platform usability was rated high marginal (SUS 64.04) with no age-group difference, and chatbot usability was poor for older adults](epa-coach-usability-sus-cuq-ratings.md) — related
+- [Students perceived KLM-FA as good to excellent in usability, with a mean SUS score of 82.0](klm-fa-perceived-usability-sus.md) — related

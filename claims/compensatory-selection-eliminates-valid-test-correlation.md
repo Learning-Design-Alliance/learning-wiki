@@ -89,3 +89,4 @@ Same simulation with Test over-weighted in the summed selection score; over-weig
 - [MCAT-inclusive composites eliminate predictive validity for final-year grades among bottom-tertile students](mcat-bottom-tertile-predictive-validity-eliminated.md) — related
 - [Among 540 NBA players, height shows no significant correlation with Win Shares or points scored despite clearly predicting basketball success in general](nba-height-no-correlation-among-selected-players.md) — related
 - [Dropping standardized test scores from admissions raises or lowers simulated degree completion depending on whether the test is valid](dropping-test-scores-changes-simulated-degree-completion.md) — related
+- [Range restriction via admissions selection weakens observed correlations between admissions variables and subsequent student performance, even under an accurate admissions model](range-restriction-weakens-admissions-correlations.md) — related

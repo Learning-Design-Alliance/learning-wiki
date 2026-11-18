@@ -51,3 +51,4 @@ Results theme from the semistructured instructor interviews: "Four instructors s
 - [Almost all interviewed electronics lab instructors identified developing students' ability to troubleshoot as an important learning goal of the electronics course](instructors-value-troubleshooting-learning-goal.md) — related
 - [Instructors described model revisions as fixing computational mistakes and accounting for nonideal photodiode aspects such as finite active area and saturation](model-revisions-fix-errors-nonideal-photodiodes.md) — related
 - [Some instructors described students repeating data collection with unchanged apparatuses and procedures to improve the statistical precision of analyses](repeated-data-collection-improve-statistical-precision.md) — related
+- [Instructors identify every Modeling Framework subtask as an important learning outcome for upper-division optics and electronics labs](instructors-identify-all-modeling-subtasks-important.md) — related

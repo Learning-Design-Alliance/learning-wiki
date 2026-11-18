@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-18
 sources:
   - id: dickes-2016
     resource: "https://doi.org/10.58459/icce.2016.1152"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All students produced ViMAP models using appropriate, non-redundant variables for the two-car problem, with multiplicative reasoning visible in repeat x step-size structures (Car 1: 3 x 45; Car 2: 4 x 35). [→ Dickes 2016](#dickes-2016)
@@ -51,3 +52,4 @@ End-of-Phase-II classroom activity: students modeled Car 1 traveling at 45 mph f
 - [Students derived the formula Total Distance = Number of Steps x Approximate Step Size and used it predictively, as illustrated by Angelo's reasoning about winning a bet and verifying his ViMAP model](total-distance-formula-predictive-reasoning.md) — related
 - [Across Phase II, students' ViMAP models and graphs became increasingly accurate and their programming commands increasingly sophisticated, as scored on a 0–3 scale](vimap-model-quality-increase-phase-ii.md) — related
 - [Elementary students using ViMAP agent-based programming with graphing can begin to understand motion as continuous change](vimap-agent-programming-continuous-change.md) — a broader claim this one bears on
+- [Dual-mode visual/text programming (ViMAP plus NetLogo) supported 8th-graders' transition to text-based programming](visual-to-text-programming-transition.md) — related

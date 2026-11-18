@@ -56,3 +56,4 @@ Intraclass correlation analysis of the multilevel data structure: "0.117 and 0.4
 - [Computation competence showed substantial class-specific differential development, with ICC rising from 3% at pretest to 25% at posttest within the measured group](class-specific-differential-development-icc.md) — related
 - [Roughly 45% of variance in Chinese adolescents' achievement lies between schools, supporting multilevel modeling](between-school-variance-achievement-icc-pisa-china.md) — related
 - [Between-class variance accounts for roughly a quarter of variance in students' system-thinking performance measures](between-class-variance-system-thinking.md) — related
+- [Course-level features explain 29% of variance in student physics performance, student-level features 71%](course-features-explain-29-percent-variance.md) — related

@@ -51,3 +51,5 @@ Longitudinal analysis of five collections showed "In the ﬁrst collection, no c
 - [Betweenness centrality is never a significant predictor of final grade in the Modeling Instruction classroom](betweenness-never-significant.md) — related
 - [In a correlation meta-analysis across 69 course offerings, diffusion-based centralities correlated with academic achievement with high combined coefficients and predictive intervals](diffusion-centralities-meta-analysis-achievement.md) — a broader claim this one bears on
 - [Classroom interaction networks shift over the semester from numerous seatmate ties to fewer, more selective cross-group connections](network-selection-effect-over-semester.md) — related
+- [Out-of-class networks are basically fully developed by midsemester, with about 95% of eventual members already present by week 8](out-of-class-networks-developed-by-midsemester.md) — related
+- [In Semester 2, no centrality/grade correlations were statistically significant](semester2-no-centrality-grade-correlations.md) — related

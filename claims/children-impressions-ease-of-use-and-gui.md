@@ -48,3 +48,4 @@ Qualitative analysis of written impressions showed ease of use and GUI appearanc
 - [Interviewed students appreciated NNG 4's improved graphics and design, supporting the role of aesthetics in serious game experience](nng4-aesthetics-appreciated-interviews.md) — related
 - [Low-fidelity prototype evaluation found initial UI options overwhelming and checkbox selections unintuitive](paper-prototype-overwhelming-options-feedback.md) — related
 - [Future research should test efficacy of the embodied activities with knowledge tests rather than self-reported impressions](future-research-knowledge-tests-for-embodied-activities.md) — related
+- [Sighted classmates appreciated the additional tactile, 3D graphical and oral-explanation accommodations made for a blind student](sighted-students-appreciated-tactile-aids.md) — related

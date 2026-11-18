@@ -47,3 +47,4 @@ Theoretical argument from the paper's opening section, illustrated with the Higg
 ## Related Claims
 - [Experience with an activity like Plotting LHC Discovery gives students background to understand an explanation of a real discovery plot and identify its key features](plotting-activity-builds-discovery-plot-readiness.md) — a narrower finding that bears on this claim
 - [Students in introductory physics labs are almost never engaged in experiment design, so they hold only a theoretical view of setup limitations and how they affect measurement uncertainty](introductory-lab-students-not-engaged-in-design.md) — related
+- [Particle physics became part of the mandatory school curriculum in North Rhine Westfalia, Germany, with state-wide baccalaureat exam problems in preparation](masterclasses-entering-formal-curricula.md) — related

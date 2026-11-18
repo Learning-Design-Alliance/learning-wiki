@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
-newest_evidence: 2012
+newest_evidence: 2011
 sources:
-  - id: farr-2012
+  - id: farr-2011
     resource: "https://doi.org/10.48550/arxiv.1109.3720"
-    title: "Farr, Schelbert, & Trouille. (2012). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720 [doi:10.48550/arxiv.1109.3720](https://doi.org/10.48550/arxiv.1109.3720)"
+    title: "Farr, Schelbert, & Trouille. (2011). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720 [doi:10.48550/arxiv.1109.3720](https://doi.org/10.48550/arxiv.1109.3720)"
     author: "Farr, Schelbert, & Trouille"
     q: 1
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q1 i?` Explicitly connecting existing curriculum topics to gravitational-wave science whenever possible gave coherency to units that before may have seemed disconnected, and students' fascination with the topic produced significant self-motivation. [→ Farr 2012](#farr-2012)
+`q1 i?` Explicitly connecting existing curriculum topics to gravitational-wave science whenever possible gave coherency to units that before may have seemed disconnected, and students' fascination with the topic produced significant self-motivation. [→ Farr 2011](#farr-2011)
 
 ## Evidence
 
-### Farr 2012
+### Farr 2011
 
-Farr, Schelbert, & Trouille. (2012). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720 [doi:10.48550/arxiv.1109.3720](https://doi.org/10.48550/arxiv.1109.3720)
+Farr, Schelbert, & Trouille. (2011). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720 [doi:10.48550/arxiv.1109.3720](https://doi.org/10.48550/arxiv.1109.3720)
 
 `q1 · i?` · `design · r2`
 
@@ -52,3 +52,4 @@ The authors' interpretive report (type e) from their year-long implementation in
 - [Wave 1's greatest challenge was achieving mutual knowledge and coherence among six independently selected projects while respecting their differences](seernet-wave1-coherence-challenge.md) — related
 - [Similar introductory lessons on the same topics were observed across grades separated by multiple years, indicating little curricular development](similar-lessons-across-grades-little-development.md) — related
 - [A demonstration-plus-guided-inquiry-plus-computational-model sequence helped most students predict increasing gravitational-wave frequency, but only about half predicted increasing amplitude](guided-inquiry-computational-model-overcomes-amplitude-misconception.md) — related
+- [Informal student feedback was positive, with pupils reporting increased interest in astronomy and feeling like real astronomers](positive-informal-student-feedback-pilot.md) — related

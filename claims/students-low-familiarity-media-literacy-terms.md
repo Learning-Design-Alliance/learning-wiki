@@ -49,3 +49,5 @@ In-person survey of 141 students in Journalism, Social Education, Early Childhoo
 - [Students hold a generally critical stance toward media influence on their opinions, with traditional formats inspiring more trust than digital platforms](media-influence-perception-trust-formats.md) — related
 - [Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial, limited to devices and software without a critical approach](experts-superficial-technology-integration.md) — related
 - [More frequent media consumption is associated with greater perceived ability to manage and critically analyze information](consumption-frequency-confidence-association.md) — related
+- [Digital literacy reduced to instrumental and technical training is inadequate; authentic digital literacy requires critical understanding of techno-media languages](digital-literacy-beyond-instrumental-training.md) — related
+- [Masterman's seven reasons for media education remain valid and are strengthened in the techno-media society](masterman-seven-reasons-media-education-valid.md) — related

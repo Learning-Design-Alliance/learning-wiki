@@ -66,3 +66,4 @@ Interpretive caveat the article states, citing Mohebbi et al. (2011): 'the under
 ## Related Claims
 - [Google Trends data show ChatGPT search interest surged globally within weeks of its November 2022 public release, with plagiarism among the top related queries](google-trends-chatgpt-plagiarism-queries.md) — related
 - [A higher number of completed simulations correlated with better quiz performance, but the author explicitly warns this correlation does not establish causation](simulation-count-correlates-with-quiz-performance.md) — related
+- [The Google Trends class exhibited 'hypothesis-perplexity', making no hypotheses throughout their researches, unlike the schoolyard class](gt-hypothesis-perplexity.md) — related

@@ -98,3 +98,4 @@ Testimony of Phyllis Rosser, a consultant on sex bias in testing, at the April 2
 - [Overachievers (low SAT, high upper GPA) are disproportionately female (64%) and underachievers disproportionately male (79%)](overachievers-female-underachievers-male.md) — a narrower finding that bears on this claim
 - [A 50 percent or greater chance of graduate-school-level success in Physics or Mathematics requires SAT-M well above 700](sat-m-above-700-fifty-percent-success-chance.md) — related
 - [A 700 QGRE cutoff would reject nearly three quarters of Hispanic physical-sciences test takers, more for other minority groups, and filter out women at a higher rate than men](qgre-cutoff-700-diversity-filter.md) — a narrower finding that bears on this claim
+- [Sample 1 female students earned somewhat higher course grades than male students despite lower FCI scores](fci-female-course-grades-higher.md) — related

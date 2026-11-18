@@ -74,3 +74,4 @@ Narrative account of the Klepsch et al. (2017) validation using informed and na�
 - [Prior knowledge correlates negatively with delayed ICL and ECL and positively with delayed GCL, consistent with meta-analytic findings](prior-knowledge-correlates-with-load-types.md) — related
 - In the new questionnaire, ICL and ECL correlate positively while both correlate negatively with GCL — related
 - [Currently available multidimensional cognitive load questionnaires show psychometric limitations, including missing manipulation-check experiments and too few items per factor](psychometric-limitations-existing-clt-questionnaires.md) — a broader claim this one bears on
+- [Subjective difficulty ratings differentiate high- from low-germane-load students but not redundant from non-redundant conditions](difficulty-rating-sensitive-to-germane-load.md) — related

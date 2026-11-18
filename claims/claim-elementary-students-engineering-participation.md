@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: weak
-newest_evidence: 2013
+newest_evidence: 2014
 sources:
-  - id: pratim-sengupta-2013
+  - id: pratim-sengupta-2014
     resource: "https://doi.org/10.48550/arXiv.1402.7252"
-    title: "Pratim Sengupta, Gokul Krishnan and Mason Wright. (2013). Integrated STEM in Elementary Grades Using Distributed Agent-based Computation. [doi:10.48550/arXiv.1402.7252](https://doi.org/10.48550/arXiv.1402.7252)"
+    title: "Pratim Sengupta, Gokul Krishnan and Mason Wright. (2014). Integrated STEM in Elementary Grades Using Distributed Agent-based Computation. Originally published 2013. [doi:10.48550/arXiv.1402.7252](https://doi.org/10.48550/arXiv.1402.7252)"
     author: Pratim Sengupta, Gokul Krishnan and Mason Wright
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` The presented cases show 3rd and 4th grade students successfully participated productively in an engineering design process highlighting User Centered Design and collaboration. [→ Pratim Sengupta 2013](#pratim-sengupta-2013)
+`q2 i?` The presented cases show 3rd and 4th grade students successfully participated productively in an engineering design process highlighting User Centered Design and collaboration. [→ Pratim Sengupta 2014](#pratim-sengupta-2014)
 
 ## Evidence
 
-### Pratim Sengupta 2013
+### Pratim Sengupta 2014
 
-Pratim Sengupta, Gokul Krishnan and Mason Wright. (2013). Integrated STEM in Elementary Grades Using Distributed Agent-based Computation. [doi:10.48550/arXiv.1402.7252](https://doi.org/10.48550/arXiv.1402.7252)
+Pratim Sengupta, Gokul Krishnan and Mason Wright. (2014). Integrated STEM in Elementary Grades Using Distributed Agent-based Computation. Originally published 2013. [doi:10.48550/arXiv.1402.7252](https://doi.org/10.48550/arXiv.1402.7252)
 
 `q2 · i?` · `design · r2`
 
@@ -47,3 +47,4 @@ Authors' synthesis of the presented cases from the enrichment study: 3rd and 4th
 ## Related Claims
 - [Experimental early algebra students' assessment scores rose significantly from 3rd to 4th grade but not from 4th to 5th grade, while comparison students' scores did not change significantly across grades](ea-scores-rose-grade3-to-4-not-4-to-5.md) — related
 - [Experimental students significantly outperformed comparison students on the algebra assessment in 4th and 5th grade, but not in 3rd grade](ea-experimental-outperformed-comparison-grades-4-5.md) — related
+- [Designing computational machines for authentic users deepened 4th-graders' mathematical explanations between two user-testing events](authentic-users-deeper-explanations.md) — a narrower finding that bears on this claim

@@ -46,3 +46,4 @@ Analysis of the void region in the 2006/08 consistency plot (figure 10): 21 solu
 
 ## Related Claims
 - [A starburst pattern showed students using both limits and an integration constant were throwing all techniques at the problem rather than transitioning toward the limits method](starburst-kitchen-sink-not-stepping-stone.md) — related
+- [Procedural resources exist, and students using different integration methods share some resources but differ in how they handle boundary conditions, causing peer confusion](procedural-resources-integration-methods.md) — related

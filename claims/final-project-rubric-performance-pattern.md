@@ -67,3 +67,4 @@ Rubric-dimension analysis of the 70-student spring 2012 offering, shown in Fig. 
 - [In a large introductory mechanics course, the majority of students (60.4%) successfully completed a proctored computational modeling evaluation on a novel central force problem after a semester of computational homework.](computational-evaluation-majority-success-intro-mechanics.md) — related
 - [Student performance varies by topic, with weakest knowledge on anticoagulants and weakest prescribing skills for pulmonary drugs](prescribing-scores-vary-by-drug-topic.md) — related
 - [Fall clusters of coding-question students trend toward higher exam scores than report-writer clusters](clustering-report-writers-lower-exam-scores.md) — related
+- [Computation is used mostly on homework and projects, rarely with interactive engagement or on exams](computation-homework-projects-common-interactive-exams-rare.md) — related

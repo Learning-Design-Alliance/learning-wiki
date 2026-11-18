@@ -47,3 +47,4 @@ The review reports, citing Yerushalmi et al., a recitation-based self-diagnosis 
 ## Related Claims
 - [AI chatbots provide students detailed feedback, step-by-step homework solutions, and self-quizzing support](chatbot-homework-study-assistance.md) — related
 - [Cheat sheet type was not significantly associated with exam performance on either exam, though a moderate non-significant trend favoured self-created sheets on the final](cheatsheet-type-no-significant-performance-difference.md) — related
+- [On the challenging problem, group S students who struggled with only textbooks and notes scored 46% higher on the transfer problem than group W students given a detailed solution](struggle-group-s-46-percent-higher-transfer.md) — possibly the same claim (merge candidate)

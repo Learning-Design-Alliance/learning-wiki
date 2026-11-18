@@ -93,3 +93,4 @@ The same analysis reports the gender pattern is instrument-dependent: on the BEM
 - [Matched-samples studies find no post-test performance difference between men and women in introductory physics when matched on prior measures](matched-samples-no-gender-posttest-difference.md) — related
 - [Revising FCI question contexts to stereotypically feminine settings narrowed the gender gap because men scored significantly worse, not because women improved](rfci-context-change-narrowed-gap-via-men.md) — related
 - [Neither multiple-choice format nor scaffolding level sufficiently explains the physics gender gap](neither-mc-nor-scaffolding-explains-gender-gap.md) — related
+- [Instruction reduced many pretest gender differences on FCI items but failed to close the gap for items 14, 21, 22, 23, and 27](fci-instruction-reduces-pretest-gap-not-five-items.md) — a narrower finding that bears on this claim

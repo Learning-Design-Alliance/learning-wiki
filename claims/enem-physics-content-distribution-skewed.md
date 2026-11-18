@@ -47,3 +47,4 @@ Classification of Physics items by knowledge object across the 2009-2011 tests (
 
 ## Related Claims
 - [Percent correct on ENEM 2009 Natural Sciences items is almost always low and nearly identical for concluintes and all participants](enem-2009-low-correct-concluintes-similar.md) — related
+- [Secondary-school completers show persistent difficulties with basic physics concepts in mechanics, thermal phenomena and geometric optics on ENEM 2009–2014 items](enem-persistent-physics-concept-difficulties.md) — related

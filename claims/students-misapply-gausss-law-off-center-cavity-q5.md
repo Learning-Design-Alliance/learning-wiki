@@ -70,3 +70,4 @@ Analysis of reasoning selections among the 176 students who chose Gauss's Law (F
 - [A strict right/wrong rubric breaks agreement between CMR and FR CUE scores](strict-rubric-breaks-cmr-fr-agreement.md) — related
 - [CUE rubric weaknesses: use of the term \"superposition\" is strongly curriculum-dependent (81% of CU vs 22% of OSU relevant answers), and only ~15% of students at either institution took a clearly correct approach](cue-superposition-rubric-curriculum-dependence.md) — related
 - [In the case study, nearly all interviewed students incorrectly concluded that the electric field is zero everywhere inside an asymmetric cavity in a charged insulating sphere, misapplying Gauss's law.](gauss-law-zero-field-cavity-misconception.md) — related
+- [All four observed upper-division students failed their first attempt at a sign-intensive electrostatics superposition problem](upper-division-first-attempt-sign-failures.md) — related

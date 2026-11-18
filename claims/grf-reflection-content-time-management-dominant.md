@@ -85,3 +85,5 @@ Skill-type coding of growth and action statements; the article notes that "Resil
 ## Related Claims
 - [The Guided Reflection Form elicited narrative, growth, and action statements in nearly all student reflections](grf-elicits-narrative-growth-action-statements.md) — related
 - [Academics' advice focused mainly on resource management (34% of advice), with surface and deep strategies together under 30%](advice-dominated-by-resource-management.md) — related
+- [Guided reflection submissions are dominated by narrative statements (~60%) and broad growth statements (~30%), with few specific action or achievement statements](grf-narrative-dominance-few-action-statements.md) — related
+- [Partially guided (prompted) 2015 summer journals were shorter, more focused, and contained a significantly smaller proportion of coded statements with lower Narrative fraction than unguided 2014 journals](prompts-shorten-journals-shift-statement-mix.md) — related

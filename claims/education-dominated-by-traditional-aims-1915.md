@@ -52,3 +52,4 @@ Editorial opinion in the Journal of Educational Psychology, offered without data
 - Investigations in educational psychology percolate slowly into the thinking of college administrators — related
 - [Dewey argues the scientific attitude is achieved by pupils taking a hand in the making of knowledge through inquiry](dewey-making-knowledge-through-inquiry.md) — related
 - [Field instructors positioned technology as a presentation aid to be tempered with traditional teaching](field-instructors-technology-as-presentation-aid-tempered.md) — related
+- [Despite research effort since the 1980s, misconceptions research had little impact on physics teaching and little incorporation into didactic materials and teacher training](little-impact-misconceptions-research-on-teaching.md) — a narrower finding that bears on this claim

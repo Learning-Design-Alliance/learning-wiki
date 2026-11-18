@@ -59,3 +59,5 @@ Unconditional two-level HLM models on the full PISA 2018 Chinese sample. The art
 - [Between-school differences account for 23.2% of variance in academic achievement, 2.4% in psychological distress and 6.4% in aggressive behaviour](icc-school-level-variance-outcomes.md) — related
 - [Between-class variance accounts for roughly a quarter of variance in students' system-thinking performance measures](between-class-variance-system-thinking.md) — related
 - [Fourteen percent of variance in academic achievement is attributable to differences between classrooms](classroom-level-achievement-variance-14-percent.md) — related
+- [Course-level features explain 29% of variance in student physics performance, student-level features 71%](course-features-explain-29-percent-variance.md) — related
+- [About 21.5% of the variance in eighth-grade mathematics achievement in Taiwan lies between schools](icc-21-5-percent-between-schools-taiwan-math.md) — related

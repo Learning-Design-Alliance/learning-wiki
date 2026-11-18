@@ -52,6 +52,7 @@ The authors use computation in two main ways: live demonstrations of computer so
 - [Provide scaffolded code and live coding exercises, and integrate computation into every assignment and modeling cycle](scaffolded-code-live-coding-strategy.md)
 - [Teaching sequence: discretize the evolution equations, implement the recurrences in a spreadsheet, and compare classical, stochastic and quantum solutions](spreadsheet-recurrence-teaching-sequence.md)
 - [Design all introductory computational assignments to be completable in spreadsheets so students without programming background can participate.](spreadsheet-first-computational-assignments-strategy.md)
+- [Reuse algorithms across physics courses by scaling equations into shared dimensionless forms](reuse-scaled-algorithms-across-physics-courses.md)
 
 ## Examples
 -

@@ -59,9 +59,11 @@ Physical environment is not a neutral backdrop: classroom design features accoun
 6. Co-design and iterate: gather learner feedback on the space each term and adjust, treating the environment as a design artifact.
 
 ## Related Strategies
+
 - [Flexible Seating](flexible-seating.md) — the furniture-level implementation of the same principle
 - [Makerspaces](makerspaces.md) — a purpose-built creative space organized around tools and iteration
 - [Brainstorming](brainstorming.md) — an activity whose quality depends on the affordances of the space it happens in
+- [Five strategies for improving the pedagogic framework of school spaces (after Martin-Moreno)](martin-moreno-pedagogic-space-strategies.md)
 
 ## Examples
 - **High Tech High (San Diego, https://www.hightechhigh.org)** — project-based charter schools with studio-style classrooms, gallery walls of student work, and shared project spaces.

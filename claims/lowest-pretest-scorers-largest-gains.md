@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: weak
-newest_evidence: 2014
+newest_evidence: 2015
 sources:
-  - id: ole-eggers-bjaelde-2014
+  - id: ole-eggers-bjaelde-2015
     resource: "https://doi.org/10.48550/arXiv.1506.08128"
-    title: "Ole Eggers Bjaelde, Mads Kock Pedersen, Jacob Sherson. (2014). Gamification of Quantum Mechanics Teaching. E-Learn 2014 - New Orleans, LA, United States, October 27-30, 2014. [doi:10.48550/arXiv.1506.08128](https://doi.org/10.48550/arXiv.1506.08128)"
+    title: "Ole Eggers Bjaelde, Mads Kock Pedersen, Jacob Sherson. (2015). Gamification of Quantum Mechanics Teaching. E-Learn 2014 - New Orleans, LA, United States, October 27-30, 2014. Originally published 2014. [doi:10.48550/arXiv.1506.08128](https://doi.org/10.48550/arXiv.1506.08128)"
     author: Ole Eggers Bjaelde, Mads Kock Pedersen, Jacob Sherson
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` When binned by pretest performance, students with 0–3 correct answers gained 0.33, students with 4–6 gained 0.18, and students with 7–9 gained 0.05. [→ Ole Eggers Bjaelde 2014](#ole-eggers-bjaelde-2014)
+`q2 i?` When binned by pretest performance, students with 0–3 correct answers gained 0.33, students with 4–6 gained 0.18, and students with 7–9 gained 0.05. [→ Ole Eggers Bjaelde 2015](#ole-eggers-bjaelde-2015)
 
 ## Evidence
 
-### Ole Eggers Bjaelde 2014
+### Ole Eggers Bjaelde 2015
 
-Ole Eggers Bjaelde, Mads Kock Pedersen, Jacob Sherson. (2014). Gamification of Quantum Mechanics Teaching. E-Learn 2014 - New Orleans, LA, United States, October 27-30, 2014. [doi:10.48550/arXiv.1506.08128](https://doi.org/10.48550/arXiv.1506.08128)
+Ole Eggers Bjaelde, Mads Kock Pedersen, Jacob Sherson. (2015). Gamification of Quantum Mechanics Teaching. E-Learn 2014 - New Orleans, LA, United States, October 27-30, 2014. Originally published 2014. [doi:10.48550/arXiv.1506.08128](https://doi.org/10.48550/arXiv.1506.08128)
 
 `q2 · i?` · `causal · r1`
 
@@ -51,3 +51,4 @@ Binned analysis of the pretest/posttest data from the same 64-student gamified i
 - [Among students scoring at or below the 50th percentile on the pretest, number of correct answers rose by an average of 12% from pre-test to post-test in one uncontrolled pre-post study, with greatest gains among those most deficient in critical appraisal](caw-lowest-half-12-percent-gain.md) — related
 - [On-track gains were largest for students with the lowest incoming skills and for African American males](on-track-gains-largest-for-lowest-skills-and-black-males.md) — related
 - [Low-performing students (below the 50th pretest percentile) showed significant improvement with vPLC-augmented ASSISTments](vplc-assistments-low-performing-significant-gain.md) — related
+- [Learning gains in the Einstein-First programme were largely independent of students' prior knowledge, with the lowest pre-test scorers reaching high post-test scores](einstein-first-gains-independent-of-prior-knowledge.md) — related

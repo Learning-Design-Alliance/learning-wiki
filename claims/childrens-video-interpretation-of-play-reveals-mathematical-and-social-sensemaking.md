@@ -61,3 +61,4 @@ This is a single-classroom, four-child qualitative study using video-elicited in
 - [Films with existential themes can serve as vehicles for Bildung in higher education](existential-films-vehicle-for-bildung.md) — related
 - [In-situ analysis of challenge episodes reveals a wide range of cognitive, motivational, emotional, and socially oriented micro-level challenges in collaborative learning](challenge-episodes-reveal-micro-level-challenges.md) — related
 - [Identical overt behaviors can reflect different engagement modes: a video-watching example](identical-overt-behavior-different-modes.md) — related
+- [Engaging students in crafting definitions from the ground up is posited to build student agency around definitions and reveal definitions as human constructions](crafting-definitions-builds-agency-definitions-as-human-constructions.md) — related

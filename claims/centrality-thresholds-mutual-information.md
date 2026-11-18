@@ -49,3 +49,4 @@ Information-theoretic threshold analysis on the same MI network data, reported i
 - [Optimizing the classification threshold improves cross-dataset mind wandering detection, raising person-level correlation from 0.48 to 0.8](threshold-optimization-improves-cross-dataset-detection.md) — related
 - [Betweenness centrality shows no statistically significant association with persistence in MI courses](betweenness-null-persistence.md) — related
 - [Closeness centrality above an optimized threshold predicts persistence with up to 75% probability of successful inference](closeness-threshold-75-percent-inference.md) — possibly the same claim (merge candidate)
+- [An out-of-class closeness threshold of about 0.14 separates intermediate-grade students with about 63% versus about 92% chances of persisting](closeness-threshold-0-14-persistence-chance.md) — a narrower finding that bears on this claim

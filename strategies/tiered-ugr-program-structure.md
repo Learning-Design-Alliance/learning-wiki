@@ -48,4 +48,4 @@ The article proposes that agency-mediated UGR programs could adopt a "‘tiered 
 -
 
 ## Key Sources
-- Konar, S. (2016). Under-Graduate Research in Physics : An Indian Perspective. https://arxiv.org/abs/1610.06302
+- Konar, S. (2016). Under-Graduate Research in Physics : An Indian Perspective. https://arxiv.org/abs/1610.06302. [doi:10.48550/arxiv.1610.06302](https://doi.org/10.48550/arxiv.1610.06302)

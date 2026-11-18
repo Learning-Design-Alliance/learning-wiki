@@ -48,3 +48,5 @@ Matched pre-/post-test data from three calculus-based introductory physics class
 - [Students who used the tutorials significantly outperformed Honors students and upper-level undergraduates, but not first-year graduate students, on a cumulative test](tutorial-group-outperforms-honors-upperlevel-not-grads.md) — related
 - [The tutorials helped students who performed poorly (0-33%) on the pre-test after traditional instruction](tutorials-help-low-pretest-scorers.md) — a narrower finding that bears on this claim
 - [Student-designed tutorials produced large normalized learning gains in introductory physics students](student-tutorials-hake-gain-0-8.md) — related
+- [Students in calculus-based introductory physics improved from 28% pre-test to 50% post-test on a 30-item magnetism diagnostic but still struggled after instruction](magnetism-diagnostic-pre-post-gains.md) — related
+- [In introductory physics, PER disproportionately relies on students in the calculus-based course](per-overrelies-on-calculus-based-course.md) — related

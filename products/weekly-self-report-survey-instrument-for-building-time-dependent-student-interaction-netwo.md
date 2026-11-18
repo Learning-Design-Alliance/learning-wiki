@@ -29,4 +29,4 @@ A weekly roster-based self-report survey instrument developed by Jesper Bruun to
 
 ## Key Sources
 - Jesper Bruun, I.G. Bearden. (2013). Time Development of Early Social Networks: Link analysis and group dynamics. arXiv:1308.4259. https://arxiv.org/abs/1308.4259
-- Zwolak, J. P., Dou, R., Williams, E. A., & Brewe, E. (2016). Students' network integration as a predictor of persistence in introductory physics courses. arXiv preprint. https://arxiv.org/abs/1611.00668
+- Zwolak, J. P., Dou, R., Williams, E. A., & Brewe, E. (2016). Students' network integration as a predictor of persistence in introductory physics courses. arXiv preprint. https://arxiv.org/abs/1611.00668. [doi:10.1103/physrevphyseducres.13.010113](https://doi.org/10.1103/physrevphyseducres.13.010113)

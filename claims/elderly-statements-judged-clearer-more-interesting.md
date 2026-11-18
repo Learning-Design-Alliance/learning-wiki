@@ -48,3 +48,4 @@ Judgment task in which raters evaluated the statements produced by the young and
 - [Elderly adults show an overall decrement in the complexity of oral and written statements attributable to an age-related loss of left-branching clauses across all three language samples](aging-reduces-syntactic-complexity-left-branching-loss.md) — related
 - [Adults with greater memory capacity, measured by WAIS Digits Backward, produced more complex utterances and used more right- and left-branching clauses](memory-capacity-linked-utterance-complexity.md) — related
 - Rater training was reported in 65% of studies and statements of rater bias in 29%, used as proxy indicators of study rigour — related
+- [Postcard content differed by participant age: adults reflected the science, young participants the infrastructure and fauna](antarcticards-age-difference-in-content.md) — related

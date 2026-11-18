@@ -9,7 +9,7 @@ generated:
   at: 2026-10-15
 evidence_strength: weak
 newest_evidence: 2016
-source_checked: 2026-11-01
+source_checked: 2026-11-18
 sources:
   - id: brame-cynthia-j-2016
     resource: "https://doi.org/10.1187/cbe.16-03-0125"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In four edX MOOCs analyzed across 6.9 million video-watching sessions, median engagement was near 100% for videos under 6 minutes, about 50% for 9- to 12-minute videos, and about 20% for 12- to 40-minute videos. [→ Brame Cynthia J 2016](#brame-cynthia-j-2016)
@@ -63,3 +63,5 @@ The essay reports, citing Guo et al. (2014), an observational analysis of video-
 - [Student engagement with MOOC videos drops sharply as video length increases beyond 6 minutes](video-length-median-engagement-declines.md) — possibly the same claim (merge candidate)
 - [edX content experiments can randomly assign equal-sized participant groups to different course components, as in a three-version motivational video experiment](edx-three-version-motivational-video-experiment.md) — related
 - [Forum involvement declines sharply as a MOOC progresses, and instructor participation does not reduce the decline rate](forum-posts-decline-as-course-progresses.md) — related
+- [Guo et al. identified six basic video production styles and found engagement differences among them (as reported by the review)](guo-six-video-styles-engagement-findings.md) — related
+- [Completion rates of viewing videos per learner negatively correlate with average video length across eight MOOCs](video-length-negative-correlation-completion-rate.md) — related

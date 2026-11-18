@@ -80,6 +80,7 @@ The review recommends that immersive technologies like VR and AR be used as supp
 - [Combine immersive VR simulation with existing traditional teaching resources for venipuncture training](combine-vr-with-traditional-venipuncture-teaching.md)
 - [Replace or supplement a lecture with a short high-fidelity simulator session of identical content and duration](identical-content-simulator-session-strategy.md)
 - [Move instrument practice onto the Internet with 3D simulation and group discussion](online-3d-instrument-practice-strategy.md)
+- [Explore unexplored taxonomy quadrants by combining artificial characters with digital media and augmented reality](explore-artificial-characters-digital-media-quadrants.md)
 
 ## Examples
 -

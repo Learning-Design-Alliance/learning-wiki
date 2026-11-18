@@ -47,6 +47,7 @@ The review recommends that improving PA outcomes in ALCs "may require the implem
 ## Related Strategies
 
 - [Ample Space](ample_space.md)
+- [Five strategies for improving the pedagogic framework of school spaces (after Martin-Moreno)](martin-moreno-pedagogic-space-strategies.md)
 
 ## Examples
 -

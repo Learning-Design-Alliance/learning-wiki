@@ -66,3 +66,4 @@ The review attributes to Nguyen et al. the suggestion of higher-order thinking m
 ## Related Claims
 - [Monitoring messages do not significantly reduce cheating in unproctored online assessments](monitoring-message-no-significant-cheating-reduction.md) — a narrower finding that bears on this claim
 - [Displaying a honor code reminder during an unproctored online test lowers the odds of cheating compared to a control condition](honor-code-reminder-lowers-cheating-odds.md) — a narrower finding that bears on this claim
+- [Forced integration of ICT into classroom teaching strategies can be extremely dangerous and mere ICT use does not guarantee results](forced-ict-integration-dangerous.md) — related

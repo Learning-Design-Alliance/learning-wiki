@@ -49,3 +49,4 @@ Descriptive analysis of per-instructor paper pre- and post-test participation ra
 - [Participation rates for assessments administered in class on paper are nearly twice as high as participation rates for online administration, with a pre-to-post drop in both formats.](inclass-participation-nearly-twice-online.md) — related
 - [Online participation was uniformly mediocre at pre-test (40-53%) and diverged sharply at post-test across instructors (18-24% for three, 66-90% for two).](online-posttest-participation-diverges-by-instructor.md) — related
 - [The paper-versus-online participation difference was statistically significant for instructors 1-3 at both pre- and post-test, but for instructors 4-5 only at pre-test, with no significant post-test difference.](paper-online-gap-significant-for-some-instructors.md) — related
+- [Participation is higher on pretests than posttests in both administration modes](pretest-participation-exceeds-posttest-both-modes.md) — related

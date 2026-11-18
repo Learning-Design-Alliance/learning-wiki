@@ -47,3 +47,4 @@ Qualitative classification of items by competency and skill (Table 1, Fig. 2) sh
 
 ## Related Claims
 - [The assessment violates IRT assumptions of unidimensionality and local independence, which the authors identify as a likely cause of the method discrepancy](irt-assumption-violations-cause-dif-method-discrepancy.md) — related
+- [Some Enem Natural Sciences items violate the monotonic increase postulated by the 3PL IRT model, raising unidimensionality concerns](enem-items-violate-irt-monotonicity.md) — related

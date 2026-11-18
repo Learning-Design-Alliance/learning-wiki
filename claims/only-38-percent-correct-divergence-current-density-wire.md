@@ -50,3 +50,4 @@ Conceptual assessment (CURrENT Q4(b)) administered to the St Andrews E&M class d
 - [Across eight institutions, only 39% of 376 students correctly stated that ∇⋅J=0 inside the wire in CURrENT Q4(b)](thirty-nine-percent-correct-across-eight-institutions.md) — a broader claim this one bears on
 - [Most Institution X students incorrectly believed the divergence of the steady-state current density was non-zero inside a current-carrying wire](x-students-nonzero-divergence-j-misconception.md) — related
 - [Only 30% of electrodynamics students explicitly used boundary conditions on a conceptual question about the electric field outside a current-carrying wire](students-fail-activate-bcs-wire-context.md) — related
+- [More than half of students (51.2%) incorrectly answer whether the divergence of the steady current density inside a wire is zero](divergence-of-current-density-student-difficulty.md) — related

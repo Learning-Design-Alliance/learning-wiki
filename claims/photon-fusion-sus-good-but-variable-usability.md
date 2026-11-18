@@ -72,3 +72,4 @@ SUS questionnaire administered after the one-hour lab session with 10 participan
 - [Heuristic evaluation by a human factors engineer identified no critical usability issues but several major or moderate issues, which were addressed through simulator refinement](dka-simulator-usability-testing.md) — related
 - [OLabX received modest System Usability Scale scores across two independent evaluation events (60.8 at ULAC, 65.83 at AUTH)](olabx-sus-scores-two-workshops.md) — related
 - [The mobile game prototype received a high subjective usability score on the System Usability Scale](mobile-game-high-sus-usability-score.md) — related
+- [Students perceived KLM-FA as good to excellent in usability, with a mean SUS score of 82.0](klm-fa-perceived-usability-sus.md) — related

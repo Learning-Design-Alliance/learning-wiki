@@ -68,3 +68,5 @@ Same paired t-test analysis of the LASSO dataset, testing the learning gap in LA
 - [On the Force Concept Inventory, the learning gap is significantly negative without LAs and significantly positive with LAs](fci-learning-gap-reversal-las.md) — a narrower finding that bears on this claim
 - [In a multiple linear regression of LA-supported courses, non-dominant status predicts effect sizes 0.262 higher than dominant peers, and the FMCE predicts effect sizes 0.2 lower than the FCI](regression-non-dominant-fmce-coefficients.md) — a narrower finding that bears on this claim
 - [Interactive engagement teaching methods show both increases and decreases in the gender gap from pre- to posttest, so they do not reliably reduce it](interactive-engagement-not-reliably-reduce-gap.md) — related
+- [LA-supported courses have higher relative gains for underserved students (87% vs 80% of dominant-group gains)](la-support-higher-relative-underserved-gains.md) — related
+- [LA support is not associated with smaller performance gaps between demographic groups (p > 0.8, d ~ 0.01)](la-support-no-gap-reduction.md) — reports the opposite

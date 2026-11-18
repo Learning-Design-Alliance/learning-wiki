@@ -64,6 +64,7 @@ Questioning is one of the most consistently supported teacher moves in reading i
 - [Discussion-Based Learning](../principles/collaborative-learning.md) — the broader pattern this strategy supports with prepared questions
 - [Guided-question and emotional-appreciation routine for narrative text comprehension](guided-questions-emotional-appreciation-routine.md)
 - [Teach main idea identification with two repeated questions: who or what is the paragraph about, and what happens in the paragraph](two-questions-main-idea-strategy.md)
+- [Evaluate learning twofold: check activity results and question students in discussion](twofold-activity-evaluation-questions-discussion.md)
 
 ## Examples
 - A middle-school ELA teacher asks students to identify the central claim of an opinion article, then to list two pieces of evidence the author uses, before discussing whether the evidence is persuasive.

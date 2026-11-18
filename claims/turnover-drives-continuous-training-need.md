@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2016
+source_checked: 2026-11-18
 recheck_by: 2019
 sources:
   - id: henri-m-j-boffin-2016
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: local conditions change quickly
+> **Currency** · newest study 2016 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2019**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Recruitment and turnover at PSO, including three-year post-doctoral fellowships, imply a continuous need for a considerable training effort for both new and existing staff. [→ Henri M. J. Boffin 2016](#henri-m-j-boffin-2016)

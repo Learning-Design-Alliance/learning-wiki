@@ -49,6 +49,7 @@ The authors' forward-looking recommendation for research on online corrective fe
 - [Direct future wiki and blog research toward native-language and writing teaching, and conduct separate meta-analyses per environment](web20-future-research-native-language-writing.md)
 - [Future research recommendations for Facebook-based writing education studies](facebook-writing-education-future-research-strategy.md)
 - [Integrate online corrective feedback into the teaching and learning of academic writing](integrate-online-corrective-feedback-strategy.md)
+- [Future work: replicate with larger populations and assess retention time of knowledge gained under the two preparation methods](virtual-lab-replication-and-retention-future-work.md)
 
 ## Examples
 -

@@ -59,3 +59,4 @@ Moderator analysis within the random-effects meta-analysis of animated vs. stati
 - [Student drawings alone can mislead teachers about students' knowledge; accompanying text or discussion can turn a carelessly drawn sketch into a correct answer](drawings-alone-insufficient-assessment.md) — related
 - [The article reports that students taught with animated instructional material showed retention ability beyond those taught without it](animated-material-retention-advantage-bauchi.md) — related
 - [Students rated dynamic visual, auditory, and still-image resources as contributing more to skill acquisition than kinesthetic simulator practice or self-written notes](multimodal-resource-contribution-rankings.md) — related
+- [Popular YouTube instructional videos share fast pace, text highlights, static images, animations, and high-definition production (as reported by the review)](popular-instructional-video-characteristics.md) — related

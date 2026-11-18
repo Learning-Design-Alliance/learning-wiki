@@ -49,3 +49,4 @@ Mann-Whitney comparisons of subscale sums by gender in the before-and-after ques
 - [Significant gender difference favoring male students on the e-learning subscale](gender-difference-e-learning-subscale-males.md) — related
 - [Male participants scored higher on clinical preparedness in Spain while women scored higher on attitudes in both cohorts](here-gender-preparedness-attitudes.md) — related
 - [Female medical undergraduates had higher total EI scores than males](females-higher-ei-scores-medical-undergraduates.md) — related
+- [The Einstein-First programme improved students' interest in physics, with female students' interest rising from 50% to nearly match males' initial 80%](einstein-first-female-interest-increase.md) — related

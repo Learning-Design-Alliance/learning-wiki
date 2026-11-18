@@ -54,3 +54,4 @@ Random-slope hierarchical model of students nested in high schools (n=17,753). T
 - [Both HSGPA and ACT strongly predict four-year college enrollment and enrollment in colleges with strong graduation rates](gpa-and-act-predict-enrollment-college-quality.md) — related
 - [For four-year (rather than six-year) graduation, ACT scores are slightly predictive but their coefficient is one-sixth the HSGPA coefficient](act-weakly-predicts-four-year-graduation.md) — related
 - [Higher HSGPA and higher mathematics and chosen-subject matura scores significantly increase the predicted probability of graduation.](hsgpa-math-chosen-subject-increase-graduation-probability.md) — related
+- [High school performance and standardized test scores showed little signal for predicting STEM attrition, in contrast to previous research](pre-college-measures-weak-signal-stem-attrition.md) — related

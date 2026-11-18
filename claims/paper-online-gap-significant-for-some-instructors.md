@@ -48,3 +48,4 @@ Chi-square tests with Bonferroni corrections compared paper and online participa
 - [Participation rates for assessments administered in class on paper are nearly twice as high as participation rates for online administration, with a pre-to-post drop in both formats.](inclass-participation-nearly-twice-online.md) — related
 - [Paper pre-test participation was uniformly high (87-97%) across instructors, while paper post-test participation varied widely (55-95%) with instructor administration details.](paper-posttest-participation-varies-by-instructor.md) — related
 - [Online participation was uniformly mediocre at pre-test (40-53%) and diverged sharply at post-test across instructors (18-24% for three, 66-90% for two).](online-posttest-participation-diverges-by-instructor.md) — related
+- [Participation is higher on pretests than posttests in both administration modes](pretest-participation-exceeds-posttest-both-modes.md) — related

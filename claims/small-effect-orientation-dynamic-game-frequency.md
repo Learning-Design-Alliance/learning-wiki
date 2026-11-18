@@ -52,3 +52,4 @@ Descriptive analysis of Table II for the F15 class (15 groups) by predominant gr
 - [Framework-oriented students show positive normalized gains on CLASS problem-solving attitude clusters, while Vague and Performance-oriented students shift more novice-like](framework-orientation-class-gains.md) — related
 - [One-way ANOVA across semesters showed no overall significance in average games per minute for each game](anova-no-semester-effect-games.md) — related
 - [Orientation categories do not correlate strongly to choice of major, contradicting the assumption that biology and health science majors would be less framework-oriented](orientation-not-strongly-tied-to-major.md) — related
+- [Framework-oriented students experienced positive expert-like CLASS attitude gains while Performance- and Vague-oriented students slightly declined](framework-oriented-students-positive-class-gains.md) — related

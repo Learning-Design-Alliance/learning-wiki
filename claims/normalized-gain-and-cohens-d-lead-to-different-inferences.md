@@ -48,3 +48,4 @@ Correlational analysis of course-level effect sizes from the LASSO database of c
 ## Related Claims
 - [Normalized gain g is positively biased in favor of populations with higher pretest scores](normalized-gain-biased-favoring-high-pretest-populations.md) — related
 - [The three methods for calculating normalized gain are highly correlated (r ≥ 0.93)](three-normalized-gain-methods-highly-correlated.md) — related
+- [Prior college astronomy research found online concept inventory scores approximately 6% higher than in-class scores (effect size about 0.30) but was underpowered](bonham-online-scores-6-percent-higher-underpowered.md) — related

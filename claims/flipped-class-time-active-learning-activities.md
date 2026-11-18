@@ -51,3 +51,4 @@ The during-class component began with 15-20 minutes of question-and-answer on vi
 - [Jigsaw's advantage over conventional instruction held for both male and female students, with no significant main effect of treatment on gender](jigsaw-gender-neutral-attitude-effect.md) — related
 - [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) — a broader claim this one bears on
 - [The flipped classroom has two components: direct video instruction outside class and active face-to-face learning inside class](flipped-classroom-two-components.md) — related
+- [Flipped classroom techniques with video lectures were reported by one teacher to improve engagement and learning outcomes](flipped-classroom-video-lectures-report-improvement.md) — a narrower finding that bears on this claim

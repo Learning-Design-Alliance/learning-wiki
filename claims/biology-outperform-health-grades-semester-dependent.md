@@ -47,3 +47,5 @@ Course-grade comparison by major in Table IV (combined-semesters Biology 3.22, H
 ## Related Claims
 - [Course grades stratify by orientation in favor of framework orientation, but the difference is statistically significant in S14 only and the trend is tentative across semesters](framework-orientation-higher-course-grades-tentative.md) — related
 - [Orientation categories do not correlate strongly to choice of major, contradicting the assumption that biology and health science majors would be less framework-oriented](orientation-not-strongly-tied-to-major.md) — related
+- [Biology majors earned substantially better course grades than Health Science majors, a difference upheld within every learning orientation](biology-majors-outperform-health-majors-course-grade.md) — possibly the same claim (merge candidate)
+- [Vague-oriented students were borderline significantly worse in course grade than Performance-oriented students, with no significant Framework-Performance difference](vague-oriented-borderline-lower-course-grade.md) — related

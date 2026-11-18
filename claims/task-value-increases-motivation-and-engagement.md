@@ -265,3 +265,4 @@ Intrinsic interest is less reliably shapeable in the short term than utility val
 - [Both early-research-exposure contexts increased student motivation to orient their careers toward research](both-contexts-increased-motivation-toward-research.md) — a narrower finding that bears on this claim
 - [Pre-service teachers' opinions of how interesting and important physics and astronomy are, and how much is left to discover, rise non-significantly from a high baseline](niaq-opinion-gains-not-significant.md) — related
 - [Physics interest was strongly correlated with interest/enjoyment, value/usefulness, autonomy, and performance-approach orientation](physics-interest-intrinsic-motivation-correlations.md) — related
+- [Initial student interest in a project topic is not a necessary condition for ownership; interest and perceived value can increase over time](initial-interest-not-necessary-ownership-grows.md) — a narrower finding that bears on this claim

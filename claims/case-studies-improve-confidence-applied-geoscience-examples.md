@@ -51,3 +51,4 @@ One-group pretest–posttest quasiexperimental survey of the 30 mining engineeri
 ## Related Claims
 - [Students became significantly more willing to convince others that geoscience is important in mining after the intervention](case-studies-increase-willingness-advocate-geoscience-mining.md) — related
 - [Students' self-reported exposure to geoscience concepts rose significantly from pre-test to post-test in one group with no comparison group after a case study–based curriculum](case-studies-increase-exposure-geoscience-concepts.md) — related
+- [By the end of the Engineering Applications of Nanoscience and Nanotechnology course, students reported increased motivation to investigate implications of nanotechnology and to teach others](nsnt-applications-course-motivation-increase.md) — related

@@ -55,3 +55,4 @@ The paper's lesson-of-MOOCs analysis states that by 2016 it became clear MOOCs "
 - [A single Tipping Point explains dropout patterns in only about a quarter of online courses, so lesson-level dropout behavior is more complex than one critical lesson](tipping-point-hypothesis-insufficient-online-dropout.md) — related
 - [GPT-4 de-identification performance varies by course, with lower agreement in courses with longer posts and more qualitative discussion](gpt4-redaction-performance-varies-by-course-content.md) — related
 - [Adult learners take MOOC courses for six stated reasons, including topical interest and viewing lurking as learning](six-reasons-adult-learners-take-moocs.md) — related
+- [In Asia, over 70 universities offer MOOCs to adult learners and 30% of the Asian population has registered for a MOOC](asian-mooc-adoption-70-universities.md) — related

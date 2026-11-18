@@ -54,3 +54,5 @@ Summary of CTT validation statistics for CU's assessments (excluding QMAT): "Ove
 - [MC CUE scores correlate strongly with course exam scores and total course score](mc-cue-criterion-validity-exam-correlation.md) — related
 - [The CMR CUE shows acceptable whole-test discrimination (Ferguson's Delta = 0.99) and internal consistency (Cronbach's α = 0.82)](cmr-cue-ferguson-delta-and-cronbach-alpha.md) — a narrower finding that bears on this claim
 - [The CMR CUE yields an overall average score of 52.6 ± 0.9% (by student) across 15 courses at 9 institutions, with a slightly non-normal, positively skewed score distribution](cmr-cue-overall-average-52-6-percent.md) — related
+- [Class-average Δθ correlates strongly with ⟨g⟩ (r = 0.99), and an IAS of 25% is necessary but not sufficient for average Δθ > 1](class-average-delta-theta-ias-25-percent.md) — related
+- [The CURrENT shows substantial discriminatory power (Ferguson's δ=0.99) and acceptable item-test correlations](current-discrimination-delta-0-99.md) — a narrower finding that bears on this claim

@@ -45,6 +45,7 @@ Each week tutors assess students on their group work and provide written individ
 - [Checklists & Rubrics](checklists-rubrics.md)
 - [Feed Up, Feed Back, Feed Forward Model](feed-up-feed-back-feed-forward-model.md)
 - [Weekly Student Reflection](weekly_student_reflection.md)
+- [Use group work with written formative feedback to keep every student engaged in computational work](group-formative-feedback-computational-engagement.md)
 
 ## Examples
 -

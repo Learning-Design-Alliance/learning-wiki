@@ -57,3 +57,4 @@ Quasi-experimental pre-test/post-test study with intact classes of 6th graders (
 - [Computer-assisted educational games raised 6th-grade grammar achievement more than the existing curriculum over 12 weeks](caeg-grammar-achievement-posttest-advantage.md) — related
 - [Computer-assisted Roundhouse Diagrams produced higher posttest scores than the Context-Based Learning curriculum alone on a 9th-grade Force and Motion multiple-choice achievement test](roundhouse-diagrams-higher-achievement-test-posttest.md) — a narrower finding that bears on this claim
 - [Journal writing as a writing-to-learn activity raises fourth-grade science achievement more than regular instruction alone](journal-writing-wtl-improves-fourth-grade-science-achievement.md) — related
+- [Forced integration of ICT into classroom teaching strategies can be extremely dangerous and mere ICT use does not guarantee results](forced-ict-integration-dangerous.md) — reports the opposite

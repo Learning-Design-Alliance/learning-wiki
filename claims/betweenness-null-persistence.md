@@ -52,3 +52,4 @@ Logistic regression results in Table V show betweenness estimates (6.35 full net
 - [Prior SNA studies of centrality-achievement links in CSCL show inconsistent, mostly small-sample results, with betweenness and closeness the most inconsistent measures](traditional-centralities-inconsistent-literature.md) — related
 - [Closeness at the start of the second semester is predicted by prior participation in MI and by closeness at the end of the first semester](closeness-persists-across-semesters.md) — related
 - [Final grade adds predictive power beyond centrality for outdegree and closeness, but indegree no longer predicts persistence once grade is accounted for](grade-moderates-indegree-persistence-link.md) — related
+- [For students with intermediate final grades, out-of-class network centrality—not grade or in-class centrality—is the statistically significant predictor of persistence](out-of-class-network-predicts-persistence-intermediate-grades.md) — related

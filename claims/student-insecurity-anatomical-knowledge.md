@@ -50,3 +50,4 @@ Focus-group finding: students reported mastering broad outlines but not importan
 - [Inexperienced participants hesitate to contribute in mixed-seniority group supervision, a social-positioning challenge unique to the group format](social-positioning-junior-hesitance-group-supervision.md) — related
 - [Significant gaps persist in perceived adequacy of rhinoplasty training exposure, with 72% of senior residents reporting adequate training versus only 13% of junior residents.](rhinoplasty-training-exposure-gap-senior-junior-residents.md) — related
 - [Baseline DMP recognition before gAI varies by expertise, with junior trainees scoring significantly lower than trainers in both anatomical areas](baseline-dmp-recognition-expertise-differences.md) — related
+- [Primary school teachers often feel insecure about teaching science subjects because these are outside their training](primary-teachers-insecure-teaching-science.md) — related

@@ -49,3 +49,4 @@ Preliminary comparison of the CURrENT given in SP12 at CU (N=24) and at a small 
 - [A majority of CU SP12 students gave complete, correct reasoning on the Stokes' theorem derivation, while few X-students reached the result](cu-complete-stokes-derivation-reasoning.md) — related
 - [Learning outcomes measured by the CURrENT assessment differed between SP12 and FA12, but the data are tentative pending validation](current-assessment-tentative-semester-differences.md) — related
 - [Preliminary CURrENT data indicate transformed curricular materials improve student learning relative to traditional lecture](current-transformed-preliminary-improvement.md) — a broader claim this one bears on
+- [Students in transformed upper-division electrodynamics courses score significantly higher on the CURrENT than students in standard lecture-based courses](transformed-courses-higher-current-scores.md) — a broader claim this one bears on

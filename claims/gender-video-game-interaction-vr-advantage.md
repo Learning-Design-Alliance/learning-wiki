@@ -69,3 +69,4 @@ Variable correlation checks before regression found gender and video game experi
 - [Men report higher computer self-efficacy, domain identification, knowledge, and motivation than women](gender-gaps-computer-self-efficacy-knowledge-motivation.md) — related
 - [Prior VR experience did not interact with condition, indicating VR experience did not improve learning in the VR condition](vr-experience-no-interaction-learning.md) — reports the opposite
 - [Prior real or simulated arthroscopy experience, handedness, sports activity and video-game experience do not correlate with training improvement or final scores](no-demographic-predictors-of-simulator-training-gains.md) — related
+- [Pre-post gains show a significant gender difference favoring men in the VR treatment only, not in the video or image treatments](vr-gender-gap-men-larger-gains.md) — related

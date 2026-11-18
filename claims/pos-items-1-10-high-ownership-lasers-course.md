@@ -50,3 +50,5 @@ Survey administration to all 20 students completing the Lasers Course during the
 - [80% of students described positive self-efficacy at least twice during the project](80-percent-self-efficacy-reflections.md) — related
 - [85% of students described at least three instances of peer interaction in their project reflections](85-percent-peer-interaction-reflections.md) — related
 - [Students' affective responses to project struggles and successes are complex, making POS emotive scale responses difficult to interpret](complex-affect-complicates-emotive-scales.md) — related
+- [Coupling division of labor with collective brainstorming can help balance student agency, instructor mentorship, and peer collaboration on multiweek lab projects](division-of-labor-collective-brainstorming-balance-ownership.md) — related
+- [Student ownership is characterized by a wide range of emotions that fluctuate as students alternate between extended struggle and moments of success](ownership-emotions-fluctuate-struggle-success.md) — related

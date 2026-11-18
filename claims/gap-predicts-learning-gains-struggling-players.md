@@ -52,3 +52,4 @@ Log-file analysis of 70 8th and 9th grade students who played Newton's Playgroun
 - [The usefulness of the GAP depends on players being sufficiently challenged in the game](gap-usefulness-depends-on-challenge.md) — related
 - [Creativity estimate significantly predicts physics learning and game enjoyment](creativity-predicts-learning-enjoyment.md)
 - [High physics interest and low (0-3 years) additional physics education predict more play activity, but neither predicts tutorial scores](physics-interest-education-predict-play-not-score.md) — related
+- [Case analysis of individual game events reveals anomalies — high-pretest players quitting and low-pretest players succeeding — that may add noise to regression models](game-event-case-anomalies-noise-in-models.md) — related

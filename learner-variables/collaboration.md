@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 195 claims (154 show a difference, 28 mixed, 13 no difference) · 169 studies (66 causal, 30 review, 24 qualitative, 16 design, 15 associational, 12 quant-synthesis, 6 theoretical), `q1`–`q3` · 16 of 169 report an effect size · 195 claims rest on one study
+> **Evidence** · 197 claims (155 show a difference, 29 mixed, 13 no difference) · 171 studies (66 causal, 30 review, 25 qualitative, 16 associational, 16 design, 12 quant-synthesis, 6 theoretical), `q1`–`q3` · 16 of 171 report an effect size · 197 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -237,6 +237,8 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Students reported strong gains in modeling content, modeling process skills, and cooperative skills on a retrospective SALG survey (N = 89).](../claims/salg-strong-gains-modeling-content-process-cooperative.md) [+M] — measured as an outcome of the instruction studied
 - [Emphasizing and motivating group work at the start of recitation correlated with introductory students working effectively in groups](../claims/group-work-emphasis-correlates-effectiveness.md) [+M] — measured as an outcome of the instruction studied
 - [Contribution does not significantly predict group output, while average pre-session score negatively predicts group work grade](../claims/pre-session-score-negatively-predicts-group-grade.md) [-M] — learners who differ on it differ in outcomes
+- [Coupling division of labor with collective brainstorming can help balance student agency, instructor mentorship, and peer collaboration on multiweek lab projects](../claims/division-of-labor-collective-brainstorming-balance-ownership.md) [+M] — measured as an outcome of the instruction studied
+- [Students perceive teamwork as valuable but far fewer actually collaborate out of class, even when teamwork is expected or required](../claims/attitude-practice-discrepancy-collaboration.md) [~M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

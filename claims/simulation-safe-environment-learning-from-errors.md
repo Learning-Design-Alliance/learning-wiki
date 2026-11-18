@@ -95,3 +95,4 @@ Theme 2 (learning from error) of the qualitative analysis. One participant said 
 - [Students reported that MAES© decreases the anxiety inherent in simulation, allowing them to work more relaxed](maes-reduces-simulation-anxiety.md) — related
 - [Students perceive the VP as a motivating, easy-to-use tool that permits error-making without consequences and supports structured reasoning](vp-perceived-motivating-safe-for-errors.md) — possibly the same claim (merge candidate)
 - [Virtual patients provide a safe environment that allows learners to make and learn from errors without threatening patient safety](vp-safe-environment-for-error-learning.md) — possibly the same claim (merge candidate)
+- [Neither class showed 'conceptual debugging': no more elaborate investigative strategy was observed in any group after interacting with the environments](gt-no-conceptual-debugging.md) — related

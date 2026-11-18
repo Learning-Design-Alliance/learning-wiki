@@ -89,3 +89,7 @@ Breakdown of statement-type combinations across the 97 reflections, shown in a V
 - [Students' skill selection on the online form aligned with author skill codes for about 72% of growth and 71% of action statements](grf-skill-selection-fidelity.md) — related
 - [Student completion of weekly GRF reflections was high, with an 88% submission rate across both sections](grf-high-completion-rate-88-percent.md) — related
 - [Both instructors using the GRF used all six coded response types in their written feedback to students](grf-instructors-used-all-six-response-types.md) — related
+- [No statistically significant differences in coded statement frequencies between first-year Metacognition students and sophomore Vibrations & Waves students](grf-frequency-no-difference-course-level.md) — related
+- [Guided reflection submissions are dominated by narrative statements (~60%) and broad growth statements (~30%), with few specific action or achievement statements](grf-narrative-dominance-few-action-statements.md) — related
+- [Unguided and partially guided journals are considerably richer in statement-type diversity than classroom GRFs](journals-richer-than-grfs.md) — related
+- [LIWC analysis gives each GRF coding category a distinct linguistic fingerprint across Analytical Thinking, Authenticity, and Emotional Tone](liwc-distinct-fingerprints-coding-categories.md) — related

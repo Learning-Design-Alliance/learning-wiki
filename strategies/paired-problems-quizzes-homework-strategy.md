@@ -49,6 +49,7 @@ The article recommends that each tutorial problem be matched with paired problem
 ## Related Strategies
 
 - [Use isomorphic problem pairs in instruction and discuss or require justification of their isomorphism](isomorphic-problem-pairs-instruction-strategy.md)
+- [Explicitly teach a divide-and-conquer problem-solving approach and pair quantitative with conceptual problems on the same physics principle](divide-and-conquer-paired-problems-magnetism.md)
 
 ## Examples
 -

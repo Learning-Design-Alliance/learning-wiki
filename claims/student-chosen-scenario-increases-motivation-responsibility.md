@@ -52,3 +52,4 @@ Focus-group theme on scenario choice in the qualitative study. Students reported
 - [CHW trainees value realistic standardized patient scenarios as a key benefit of simulation-based MI training](chws-value-realistic-sp-scenarios-in-mi-simulation-training.md) — related
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — a broader claim this one bears on
 - [Serving multiple students within a school and letting students choose frames were perceived to reduce stigma and increase willingness to wear glasses](school-based-group-delivery-reduces-glasses-stigma.md) — related
+- [Initial student interest in a project topic is not a necessary condition for ownership; interest and perceived value can increase over time](initial-interest-not-necessary-ownership-grows.md) — related

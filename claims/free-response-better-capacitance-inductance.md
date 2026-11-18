@@ -50,3 +50,4 @@ Free-response questions given to 430 students from four calculus-based introduct
 - [Scores on the multiple-choice CUE do not differ significantly from scores on the free-response version in an upper-division electrostatics course](mc-cue-scores-match-fr-cue.md) — reports the opposite
 - [Performance trends across expertise groups are similar regardless of whether students received multiple-choice or free-response question formats](similar-performance-trends-mc-vs-free-response.md) — related
 - [Physics graduate students perform significantly better than introductory students on the circuit-element questions but show similar difficulties, especially with inductance](graduate-students-better-but-similar-difficulties.md) — related
+- [Multiple-choice, multiple-response question formats tap into more student ideas than free response questions](mcmr-elicits-more-student-ideas.md) — related

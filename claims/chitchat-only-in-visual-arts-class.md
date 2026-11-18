@@ -50,3 +50,4 @@ Narrative analysis of the Grade 10 Visual Arts view (19 students, 292 notes over
 - [Only Grade 10 Liberal Studies students engaged in simple argumentation, complex argumentation, and theory-oriented interactions, possibly due to the subject's emphasis on argumentation](argumentation-only-in-liberal-studies.md)
 - [Social dynamics — trust, friendship, openness, and rudeness — shape the effectiveness of dialogic interactions](trust-and-social-dynamics-shape-dialogic-effectiveness.md) — related
 - [Positive Greetings At The Door Improve Engagement](positive-greetings-at-the-door-improve-engagement.md) — related
+- [Group 3 had no off-topic interactions among members during the entire activity, suggesting it may not be actively developing as a community](group3-no-off-topic-community.md) — related

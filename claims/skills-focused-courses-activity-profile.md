@@ -70,3 +70,4 @@ FY/BFY-separated comparison of CIS communication-activity reports; apparent diff
 - [Open-project students more often cited experimental capacities as the lab's contribution to their scientific formation, while focused-lab students more often cited academic knowledge](open-project-students-emphasize-experimental-process.md) — related
 - [Lab course activities did not necessitate notebook use because of their short, scripted timescale](lab-course-design-not-necessitating-notebooks.md) — related
 - [The LCAS discovery and relevance scale differentiates CURE students from traditional lab students with a medium-large effect](lcas-discovery-relevance-differentiates-cures.md) — related
+- [Four E-CLASS items elicit less-than-50% expert-like responses in both FY and BFY courses, three of them concerning student autonomy](low-favorable-autonomy-items-e-class.md) — related

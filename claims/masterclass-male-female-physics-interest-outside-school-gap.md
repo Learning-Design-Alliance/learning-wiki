@@ -56,3 +56,4 @@ Questionnaire analysis of about 500 students attending the Pisa Masterclass from
 - [Among students wanting a scientific career, more female than male students are attracted by the idea of traveling (about 37% vs 23%)](masterclass-travel-motivation-gender-gap.md) — related
 - [Female high school students experience much lower self-efficacy states in physics than male students, with a very large effect size of d = 0.88, and the difference does not occur in other school courses.](gender-gap-self-efficacy-states-high-school-physics.md) — related
 - [Among students wanting a scientific career, more male than female students think they have a talent for science (about 40% vs 20%)](masterclass-talent-self-perception-gender-gap.md) — related
+- [The Einstein-First programme improved students' interest in physics, with female students' interest rising from 50% to nearly match males' initial 80%](einstein-first-female-interest-increase.md) — related

@@ -76,3 +76,4 @@ Same FC questionnaire, offline-course items: 90.5% liked teacher-student interac
 - [Most responding postgraduates most liked interacting online with peers and faculty over individual passive homework](online-social-interaction-valued-over-passive-homework.md) — related
 - [Focus groups identified interaction, small class size, active in-class activities, and pre-class online engagement as factors in positive learning experiences, with students unsure the model would work in larger classes](flipped-focus-group-positive-experience-factors.md) — related
 - [Students reported positive experience with the tutor-web: 92% said they learned from it, but 82% preferred a mixture of tutor-web and written homework](tutor-web-student-survey-positive-mixed-preference.md) — related
+- [Flipped classroom techniques with video lectures were reported by one teacher to improve engagement and learning outcomes](flipped-classroom-video-lectures-report-improvement.md) — related

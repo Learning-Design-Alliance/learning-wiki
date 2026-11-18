@@ -47,3 +47,4 @@ Authors' account of the teacher-created culture of sharing and critiquing peer m
 ## Related Claims
 - [Students developed a class norm that a good video for measuring motion must keep the camera still and show the whole motion, enabling frame-by-frame measures of acceleration](good-video-norm-acceleration.md) — related
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related
+- [Sociomathematical norms around 'what counts as a good model' shifted students' warrants and grew computational fluency in ViMAP over six weeks (3rd-grade study)](sociomathematical-norms-computational-fluency.md) — related

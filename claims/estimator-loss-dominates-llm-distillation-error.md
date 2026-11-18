@@ -50,3 +50,4 @@ Simulation study switching the upstream estimator from oracle CATE to X-learner.
 - [Decision quality collapses toward the majority action in severely imbalanced settings](decision-collapse-severely-imbalanced-settings.md) — related
 - [Mentee fidelity on HSLS:09 test split: attribution transmits far better than decisions, and 98.8% of narrations pass the faithfulness audit](hsls-mentee-fidelity-attribution-better-than-decisions.md) — related
 - [Narration fluency is no evidence of correctness: narration quality is independent of signal quality](narration-quality-independent-of-signal-quality.md) — related
+- [Students attribute the narrowing of a falling water jet to atmospheric compression rather than the continuity equation](jet-narrowing-compression-misconception.md) — related

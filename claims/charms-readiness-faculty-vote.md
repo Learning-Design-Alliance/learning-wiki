@@ -48,3 +48,4 @@ A readiness survey in the Charms Department found thirteen respondents, of whom 
 ## Related Claims
 - [Expert panel consensus (seven experts, ≥80% agreement rule) endorsed the refined EA framework structure](expert-consensus-ea-framework.md) — related
 - [The voting process itself, rather than topic-congruence with individual interests, appears responsible for the motivation benefit](voting-process-itself-fosters-motivation.md) — related
+- [The Paradigms 2.0 process produced a unanimously adopted curriculum revision](unanimous-faculty-adoption-paradigms-2.md) — related

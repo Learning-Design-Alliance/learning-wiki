@@ -45,6 +45,7 @@ In the discussion the authors recommend moving from broad multi-device workshops
 - [Replace passive theoretical IT instruction with hands-on active technological creation and algorithmic troubleshooting](hands-on-active-technological-creation-curriculum.md)
 - [Improve security training efficacy through more hands-on, repeated, and systematically exposed training rather than one-off awareness videos](repeated-hands-on-security-training-strategy.md)
 - [Use interprofessional, simulation-inclusive training toward a universal airway management approach, blending simulation, clinical volume, and effective learning strategies](interprofessional-universal-airway-training-strategy.md)
+- [Run multi-audience student workshops on the desktop QKD system covering physics, electronics, programming and algorithms](qkd-workshop-multi-audience-training.md)
 
 ## Examples
 -

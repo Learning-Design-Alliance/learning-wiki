@@ -52,3 +52,4 @@ Pre-test comparison of 70 life science university teachers (22 prospective, 48 c
 - [Reasoning scores of both prospective and current faculty teachers increased significantly during the short pedagogical training, but noticing did not improve significantly in either group](training-improves-reasoning-not-noticing.md) — related
 - [Studying double-content examples before video-based analyses hindered student teachers' noticing and reasoning compared to studying without them](double-content-examples-hindered-noticing-reasoning.md) — related
 - [Random assignment failed for pretest scores: the labeling condition started lower than the no-labeling condition](apriori-pretest-difference-labeling-condition.md) — related
+- [University teachers' current training in the studied Brazilian sample is primarily scientific and technical, with gaps in pedagogic teacher training](latu-sensu-training-scientific-technical-pedagogic-gaps.md) — related

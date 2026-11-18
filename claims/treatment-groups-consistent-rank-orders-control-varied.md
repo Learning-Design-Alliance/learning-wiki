@@ -65,3 +65,4 @@ Qualitative content analysis of control group transcripts found "little continui
 
 ## Related Claims
 - [Treatment group discourse followed a seven-step developmental process while control group discourse followed only three steps and rarely settled on a position](seven-step-versus-three-step-discourse-process.md) — related
+- [Total speaking time misses drastic changes in an individual's behavior over time, which conversation consistency captures](speaking-time-misses-temporal-change.md) — related

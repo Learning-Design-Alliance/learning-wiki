@@ -48,3 +48,4 @@ Descriptive analysis of ENEM 2009 microdata (2,555,594 all participants; 944,162
 - [ENEM 2009 percent correct is lower on Physics items requiring specific disciplinary knowledge](enem-2009-disciplinary-knowledge-items-lower-correct.md) — related
 - [Percent correct on ENEM 2009 Natural Sciences items is almost always low and nearly identical for concluintes and all participants](enem-2009-low-correct-concluintes-similar.md) — related
 - [ENEM Physics items are predominantly qualitative, long for the available time, and generally well contextualized](enem-physics-items-predominantly-qualitative-long-contextualized.md) — related
+- [Enem Physics items requiring quantitative reasoning, specific disciplinary content, graphical interpretation or multiple cognitive steps show correct-answer rates below the exam average, sometimes below random choice](enem-physics-items-content-reasoning-below-average.md) — related

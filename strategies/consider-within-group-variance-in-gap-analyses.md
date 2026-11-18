@@ -49,6 +49,7 @@ The authors recommend that researchers investigating gender or performance gaps 
 - [Disaggregate student outcome data by demographic variables when evaluating educational interventions](disaggregate-outcomes-by-demographics-strategy.md)
 - [Examine literacy screening data for intersectional differences not apparent from simple disaggregation and consider student and school characteristics together when targeting supports](intersectional-screening-data-analysis-strategy.md)
 - [Conduct equity investigations of reform outcomes carefully, avoiding gap-gazing that marginalizes underrepresented groups](careful-equity-investigations-avoid-gap-gazing.md)
+- [Address the Health Science major achievement gap by coordinating with biology departments and health science colleges, potentially via separate sections per major](ipls-separate-sections-by-major-strategy.md)
 
 ## Examples
 -

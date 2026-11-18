@@ -66,6 +66,7 @@ The authors recommend integrating TBL with other teaching methods such as Proble
 - [Combine E-learning with traditional teaching methods so each benefits from the other](combine-elearning-with-traditional-teaching-gp-residency.md)
 - [Adopt a flipped classroom combined with hybrid teaching methods as a suitable learning strategy for RN-to-BSN nursing programs](flipped-classroom-hybrid-rnbsn-strategy.md)
 - [Adopt a hybrid TBL-PBL approach that extends TBL duration and adds clinical reasoning prompts](hybrid-tbl-pbl-implementation-strategy.md)
+- [Use PBL-structured case studies to teach emerging, rapidly changing fields like nanotechnology](pbl-case-studies-emerging-fields-strategy.md)
 
 ## Examples
 -

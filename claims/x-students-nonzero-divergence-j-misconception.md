@@ -51,3 +51,4 @@ Open-response CURrENT Q3 results at Institution X (N=11). The article reports th
 - [On a midterm dipole question most students correctly located non-zero divergence at the sources, but many did not transfer this resource to the current-density context](dipole-midterm-correct-but-not-transferred.md) — related
 - [Only 38% of St Andrews students correctly stated that the divergence of the current density is zero inside a wire with decreasing diameter on CURrENT Q4(b)](only-38-percent-correct-divergence-current-density-wire.md) — related
 - [Only 30% of electrodynamics students explicitly used boundary conditions on a conceptual question about the electric field outside a current-carrying wire](students-fail-activate-bcs-wire-context.md) — related
+- [More than half of students (51.2%) incorrectly answer whether the divergence of the steady current density inside a wire is zero](divergence-of-current-density-student-difficulty.md) — related

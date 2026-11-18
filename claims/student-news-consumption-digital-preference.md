@@ -48,3 +48,4 @@ Survey of 141 university students reporting media use. The article states "socia
 - [Students hold a generally critical stance toward media influence on their opinions, with traditional formats inspiring more trust than digital platforms](media-influence-perception-trust-formats.md) — related
 - Television news specials viewing shows no substantial age increase in frequency but systematic increases in stability and parent-child similarity — related
 - [University students in Communication and Education programs show low familiarity with media literacy, media education, and educommunication terms](students-low-familiarity-media-literacy-terms.md) — related
+- [Masterman's seven reasons for media education remain valid and are strengthened in the techno-media society](masterman-seven-reasons-media-education-valid.md) — related

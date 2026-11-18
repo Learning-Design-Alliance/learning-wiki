@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 195 claims (103 for, 77 mixed, 15 against) · 164 studies (81 causal, 24 review, 16 associational, 15 quant-synthesis, 15 design, 7 theoretical, 6 qualitative), `q1`–`q4` · 19 of 164 report an effect size · 194 claims rest on one study
+> **Evidence** · 196 claims (104 for, 77 mixed, 15 against) · 165 studies (82 causal, 24 review, 16 associational, 15 quant-synthesis, 15 design, 7 theoretical, 6 qualitative), `q1`–`q4` · 20 of 165 report an effect size · 195 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -230,6 +230,7 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Introducing iPads and screencasting into an urban high school physics class was followed by increased student social status, opportunities for play, and a sense of agency](../claims/ipad-inclusion-social-status-play-agency.md) [+W] — attached 2026-11-17 from Van Dusen (2014), which proposed "iPad with screencasting as a boundary object bridging peer, classroom, and physics cultural practices".
 - [Students created more complete and more correct physics solutions when using screencasts instead of their traditional notebooks](../claims/screencasts-more-complete-correct-solutions.md) [+W] — attached 2026-11-17 from Van Dusen (2014), which proposed "iPad with screencasting as a boundary object bridging peer, classroom, and physics cultural practices".
 - [A flipped-classroom pilot in pre-service physics teacher education led all four participating teachers to independently learn a multimedia tool and produce a shareable physics laboratory learning path](../claims/flipped-classroom-pilot-produces-four-mm-learning-paths.md) [+W] — attached 2026-11-17 from Vera Montalbano (2015), which proposed "Four open-source/free multimedia tools for physics laboratory teaching (Audacity, Algodoo, GeoGebra, Tracker)".
+- [A mixed-reality holo.lab setting improves undergraduate students' gain in conceptual understanding of heat transfer and thermal conduction, with a small adjusted effect](../claims/mr-hololab-improves-heat-conduction-conceptual-gain.md) [+M] — attached 2026-11-18 from M. P. Strzys et al. (2017), which proposed "HoloLens holo.lab setup for heat conduction with three real-time augmented representations"; tests this page's relationship.
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

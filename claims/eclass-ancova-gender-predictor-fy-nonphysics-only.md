@@ -72,3 +72,4 @@ The initial 4-way ANCOVA including all interaction terms revealed "a signiﬁcan
 - [The open-ended-course advantage on postinstruction E-CLASS persists after controlling for preinstruction score, course level, major, and gender](ancova-open-ended-predicts-eclass.md) — related
 - [No interaction between lab-activity type and course level, major, or gender on postinstruction E-CLASS scores](no-interaction-open-ended-eclass.md) — related
 - [The postinstruction advantage of skills-focused courses was larger for women, large enough to eliminate or reverse the typical gender gap in adjusted means](skills-focus-advantage-larger-for-women.md) — related
+- [Gender is a significant predictor of post-instruction E-CLASS means in Traditional courses only, with men's adjusted means higher than women's](gender-predictor-traditional-courses-only.md) — related

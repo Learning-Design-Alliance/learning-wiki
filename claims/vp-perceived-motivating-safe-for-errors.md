@@ -57,3 +57,4 @@ Qualitative component using student focus groups, professor field journals, and 
 - [Students found the VP model structure easy to follow and flexible across program levels](vp-structure-easy-to-follow-student-reports.md) — related
 - [Grounded theory analysis identifies a core phenomenon 'learning from the VP' with four categories: VP Construction, External Preconditions, Student–VP Interaction and Consequences](vp-learning-core-phenomenon-four-categories.md) — related
 - [The historical dimension of the sequence has motivational and metacognitive value: students feel legitimized in error and proud to reason like Galileo](historical-controversy-motivational-metacognitive-value.md) — related
+- [Neither class showed 'conceptual debugging': no more elaborate investigative strategy was observed in any group after interacting with the environments](gt-no-conceptual-debugging.md) — related

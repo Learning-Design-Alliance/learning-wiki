@@ -52,3 +52,4 @@ Predictive modeling study of 346 first-year UAE health sciences students, five s
 - [Machine learning methods outperformed logistic regression in classification accuracy across reviewed studies](ml-outperforms-logistic-regression-aied.md) — reports the opposite
 - [Baseline LR and XGBoost models achieve comparable predictive performance on OULAD, with XGBoost slightly higher AUC-ROC](baseline-model-performance-oulad-lr-xgboost.md) — related
 - [Decision trees achieve competitive accuracy with black-box models (LR, RF, SVM), which performed slightly better but lack interpretability](dt-competitive-with-black-box-classifiers.md) — related
+- [STEM attrition is predictable from first-year registrar transcript data, with four ML models reaching AUROCs between 0.87 and 0.89 and logistic regression performing slightly better](first-year-transcript-data-predicts-stem-attrition.md) — related

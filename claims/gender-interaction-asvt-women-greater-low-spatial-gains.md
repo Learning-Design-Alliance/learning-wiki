@@ -74,3 +74,4 @@ Second regression model adding the gender × pre-test interaction for ASVT post-
 - [A short PBL-VR training session significantly increased both apparel spatial visualization and fit correction skills](pbl-vr-improves-spatial-visualization-fit-correction.md) — related
 - [Women showed more severe depression levels and better visual memory retention than men in the sample](gender-differences-severe-depression-visual-memory.md) — related
 - [Men outperformed in the VR condition, with gender and video game experience highly correlated, leaving the responsible variable unclear](gender-video-game-interaction-vr-advantage.md) — related
+- [Pre-post gains show a significant gender difference favoring men in the VR treatment only, not in the video or image treatments](vr-gender-gap-men-larger-gains.md) — related

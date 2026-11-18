@@ -62,3 +62,4 @@ Daily activity analysis in the within-class experiment, shown in Fig. 2 with the
 - [Spacing potential — days in advance studying began and days studied per week — was not a significant predictor of performance on immediate or delayed tests](spacing-potential-not-predictive-biology-exams.md) — related
 - [In the flipped course, video-lecture access correlates positively with exam scores and with GPA, and higher-GPA students spread viewing more evenly across weeks](video-access-correlates-with-exam-scores-and-gpa.md) — related
 - [Students accessed laboratory videos most just before lab due dates, but showed little spike around homework due dates and rarely revisited old videos before exams](video-access-timing-tied-to-assignments.md) — related
+- [Failing students delay engagement with the course project until the end of the term while passing students access it throughout](project-access-timing-passing-failing.md) — related

@@ -55,3 +55,4 @@ The authors' stated limitation that using multiple-choice question scores as the
 - [Some university medical students acquired the ability to select when to use certain methodological strategies and what they are good for, after tutoring sessions.](students-select-methodological-strategies-tutoring.md) — related
 - [A supplementary TBL class produced no significant difference in multiple-choice examination scores of factual and conceptual knowledge](supplementary-tbl-no-mcq-knowledge-difference.md) — related
 - [Replacing traditional seminars with standardized-patient training does not compromise factual knowledge as measured by written examination](standardized-patients-no-written-exam-difference.md) — a narrower finding that bears on this claim
+- [Selecting all available options on a multiple-response assessment does not represent critical thinking, but limiting selections forces prioritization](selecting-all-options-not-critical-thinking.md) — related

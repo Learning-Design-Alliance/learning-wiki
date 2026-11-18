@@ -54,3 +54,4 @@ Observational study of educator support across introductions, in-game assistance
 - [Teachers valued interactive discussion-based training but identified unfamiliarity with online resources as a challenge when transitioning to distance learning.](hero-elementary-training-discussion-facilitation-online-resources-challenge.md) — related
 - [Students were highly engaged in the in-school environment, with engagement increasing over the implementation duration.](hero-elementary-in-school-student-engagement-increased.md) — related
 - [In post-wargaming debriefings, teachers and students delineate tactics from related areas of military competence such as teamwork, communication, and technology](tactics-delineated-from-related-competence-debriefing.md) — related
+- [Observed teachers rarely varied activities, moved around the classroom, or contextualized content with life experiences and current issues](limited-classroom-interaction-contextualization.md) — related

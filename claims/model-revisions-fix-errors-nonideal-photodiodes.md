@@ -48,3 +48,4 @@ Results theme on model revisions from the instructor interviews: revisions invol
 - [Instructors Describe Four Iteration Types Engagement](instructors-describe-four-iteration-types-engagement.md)
 - [Eight of nineteen interviewed upper-division optics lab instructors identified the iterative nature of modeling as important for students to learn](instructors-identify-iteration-important-optics-labs.md) — related
 - [Four instructors said engaging students in iteration was not a goal of their activities, with three citing a tension between activity coverage and depth](some-instructors-not-goal-iteration-breadth-depth-tension.md) — related
+- [Photodiodes and op-amps are common apparatus in optics and electronics labs, making them candidate assessment contexts](photodiodes-op-amps-common-contexts.md) — related

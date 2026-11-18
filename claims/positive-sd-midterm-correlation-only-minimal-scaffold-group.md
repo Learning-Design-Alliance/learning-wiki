@@ -47,3 +47,5 @@ Exploratory correlational analysis across the intervention groups in the same co
 ## Related Claims
 - [For the conventional problem, only the minimal-support group showed the correlation pattern of a meaningful intervention (SD predicting transfer)](minimal-support-meaningful-self-diagnosis-quiz7.md) — possibly the same claim (merge candidate)
 - [Prior quiz grade correlates marginally negatively with physics self-diagnosis grade but positively with presentation self-diagnosis grade](prior-knowledge-self-diagnosis-correlations.md) — related
+- [Written self-diagnosis interventions reduce the gap between low and high prior-knowledge students on a subsequent transfer problem](self-diagnosis-reduces-prior-knowledge-gap.md) — related
+- [Within the rubric-and-outline group, self-diagnosis physics scores showed only a minor positive, non-significant correlation with midterm physics scores, and other groups showed no correlations](self-diagnosis-score-midterm-correlations-weak.md) — reports the opposite

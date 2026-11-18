@@ -76,3 +76,4 @@ Table II reports average normalized gains for students in the authors' courses o
 - [The Lawson test is inadequate as a diagnostic of proportional reasoning as used in physics](lawson-test-inadequate-proportional-diagnostic.md) — related
 - [Student difficulties on the test are not strongly dependent on student population or calculus background, except for honors and active-engagement classes](difficulty-independent-of-calculus-background.md) — related
 - [Teaching by telling is not an effective approach to helping students learn physics; PER-based curricula instead build on interactive engagement](teaching-by-telling-ineffective-physics.md) — related
+- [Students in the reformed Lecture/Studio IPLS course perform at least at the same level on the FCI as interactive-engagement classes teaching traditional content, so the biological focus did not reduce fundamental physics understanding](ipls-biological-focus-no-fci-decrease.md) — related

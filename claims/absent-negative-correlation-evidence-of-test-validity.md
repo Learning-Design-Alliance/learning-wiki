@@ -69,3 +69,4 @@ Concluding statement of the simulation results: "owing to a 'compensatory select
 - [Invalid Test Spurious Negative Correlation Selective Admissions](invalid-test-spurious-negative-correlation-selective-admissions.md)
 - [Incorporating ML-predicted MCAT scores into admissions composites reduces correlations with subsequent medical school performance](predicted-mcat-reduces-performance-correlations.md) — related
 - [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](mit-lower-sat-math-scores-equal-performance.md) — related
+- [Admissions selection induces a spurious negative correlation between admissions variables (GRE score and research experience) among admitted students](selection-induces-spurious-negative-correlation.md) — related

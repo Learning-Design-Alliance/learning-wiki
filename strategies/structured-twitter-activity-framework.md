@@ -48,6 +48,7 @@ The article implements and evaluates a framework of Twitter-mediated educational
 ## Related Strategies
 
 - [Future research directions: control grade incentives, compare compulsory versus voluntary participation, and apply learning analytics to tweet types](twitter-study-future-research-directions.md)
+- [Structured weekly Twitter activity recipe: hashtagged questions, tweet limits, peer commenting and question quotas with a participation incentive](structured-hashtag-twitter-activity-recipe.md)
 
 ## Examples
 -

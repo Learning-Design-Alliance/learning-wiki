@@ -49,3 +49,4 @@ Observation from comparing AI usage trends (Figure 4) with team comprehension tr
 - [Students who implemented code without AI (usage level 0) maintained consistently high code comprehension, while level-3 AI users showed very little comprehension in the Mid period](no-ai-use-high-comprehension-level3-low.md) — related
 - [Across the student body as a whole, no clear statistical trend was confirmed between AI usage levels and code comprehension](no-statistical-trend-ai-usage-comprehension.md) — related
 - [Self-reported LLM usage collapses at the first team milestone and recovers only partially on later coding-heavy team tasks](llm-usage-collapses-at-team-onset-partial-recovery.md) — related
+- [Teacher feedback identified software difficulty and lengthy instructions as barriers, with mid-course attendance dips recovering after weekly reminders](teacher-feedback-software-difficulty-attendance-dip.md) — related

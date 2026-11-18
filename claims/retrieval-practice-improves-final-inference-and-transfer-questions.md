@@ -117,3 +117,4 @@ The chapter reports Eglington and Kang (2016), who reused Tran et al.'s material
 - [Addressing did not enhance transfer performance in study 1](addressing-no-transfer-effect.md) — related
 - [Comprehension gains appeared on main-idea and inference items but not on word-meaning-guessing items](item-level-gains-except-guessing-meaning.md) — related
 - [No interaction between practice and final test question format: matching formats does not enhance the retrieval effect, challenging transfer-appropriate processing](no-format-interaction-challenges-tap.md) — related
+- [The numerical problem format correlated more weakly with final exam score (r = 0.430) than the fill-in-the-blank format (r = 0.830)](numerical-problem-weakest-final-exam-correlation.md) — related

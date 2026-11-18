@@ -50,3 +50,4 @@ The creativity theme emerged from interviews with six PBL group participants. Th
 - [Pre-trained sentence embedding models can evaluate the novelty of open-ended, generic, small datasets of ideas co-generated during classroom PBL cocreation without fine-tuning](sentence-embedding-novelty-evaluation-pbl-cocreation.md) — related
 - [Groups outperform individuals when devising creative solutions to real-world complex problems](groups-outperform-individuals-complex-problem-creativity.md) — a broader claim this one bears on
 - [Well-defined tasks and accessible materials support shared creative influence in group work](well-defined-tasks-and-accessible-materials-support-shared-creative-influence.md) — related
+- [Major student-driven creative projects are widely used in complex systems coursework and were reported as successful and popular with students](student-led-creative-projects-widespread-successful.md) — related

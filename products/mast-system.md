@@ -34,4 +34,4 @@ A two-year Mathematics and Science Teaching professional-development programme r
 - [MyTeachingPartner-Secondary (MTP-S)](myteachingpartner-secondary-mtp-s.md)
 
 ## Key Sources
-- Phillips, J. A., McElwain, M. C., & Clemmer, K. W. (2016). Metacognitive Training in Professional Development Can Improve and Sustain Student Achievement. Loyola Marymount University. http://www.mathleadershipcorps.org
+- Phillips, J. A., McElwain, M. C., & Clemmer, K. W. (2016). Metacognitive Training in Professional Development Can Improve and Sustain Student Achievement. Loyola Marymount University. http://www.mathleadershipcorps.org. [doi:10.48550/arxiv.1607.07856](https://doi.org/10.48550/arxiv.1607.07856)

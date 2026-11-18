@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2016
+source_checked: 2026-11-18
 sources:
   - id: hartman-2016
     resource: "https://doi.org/10.48550/arXiv.1608.05006"
@@ -40,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r1`–`r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-18 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Cognitive science findings reported by the National Mathematics Advisory Panel identify automaticity as the most central way to improve working memory’s functional capacity and recommend arithmetic facts and fundamental algorithms be over-learned rather than merely learned to moderate proficiency. [→ Hartman 2016](#hartman-2016)

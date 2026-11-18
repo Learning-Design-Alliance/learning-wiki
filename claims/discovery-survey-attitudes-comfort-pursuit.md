@@ -54,3 +54,4 @@ Pre/post survey administration by teachers across the five terms (217 responses 
 - [Students responded positively to the transiting-planet inquiry activity, with 90% writing positive post-activity survey responses](transiting-planets-inquiry-90-percent-positive-feedback.md) — related
 - [Approximately two-thirds of pilot students affirmed learning biology-relevant lab skills, with negative responses disappearing by spring](nexus-labs-biology-relevant-skills-perception.md) — related
 - [Pilot IPLS students shifted toward perceiving the reformed physics labs as valuable for their future careers](nexus-physics-labs-career-perception-shift.md) — related
+- [In a survey of 590 Slovak masterclass participants, 72% expressed interest in pursuing a career in natural sciences (including informatics) or engineering](slovak-survey-career-interest.md) — related

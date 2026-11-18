@@ -48,3 +48,4 @@ Binning analysis of free-response answers from 153 students in course A, matchin
 - [Free-response answers match the a priori choices of carefully designed research-based multiple-choice questions for the large majority of students](free-response-answers-match-apriori-mc-choices.md) — possibly the same claim (merge candidate)
 - [Correlations between rubric-graded free-response and simulated multiple-choice performance are higher for weighted than dichotomous scoring](weighted-mc-correlation-higher-than-dichotomous.md) — related
 - [Performance trends across expertise groups are similar regardless of whether students received multiple-choice or free-response question formats](similar-performance-trends-mc-vs-free-response.md) — related
+- [Multiple-choice, multiple-response question formats tap into more student ideas than free response questions](mcmr-elicits-more-student-ideas.md) — related

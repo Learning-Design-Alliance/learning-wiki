@@ -47,3 +47,4 @@ Authors' discussion of the pilot RCT's feasibility, in which 57 trainees were ra
 ## Related Claims
 - [Eye-tracking-based VR feedback with simulated ED interruptions was feasible to implement in a pilot trial](eye-tracking-vr-feedback-feasibility-pilot.md) — related
 - [The e-learning intervention was feasible and acceptable to Japanese overseas workers, with most completers reporting behaviour change and positive evaluations](oral-health-elearning-feasible-acceptable-overseas-workers.md) — related
+- [The authors report the feasibility and potential of a remotely available educational website on laser interferometry for heat transfer experiments](remote-interferometry-website-feasibility.md) — related

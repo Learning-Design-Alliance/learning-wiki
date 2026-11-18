@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i3` large
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` In the first study, Twitter activity correlated with the course's final grade (r=.49, p=.03). [→ Alexia Katrimpouza 2017](#alexia-katrimpouza-2017)
@@ -67,3 +67,6 @@ In the third study (N=46), correlational analysis of Twitter activity measures (
 - [In all three case studies, students who participated in the Twitter activities received higher laboratory and final grades than students who did not participate](twitter-participants-higher-lab-grades.md) — reports the opposite
 - [Conscientiousness and openness to experience related to Twitter activity only in the third study; no relationships appeared in the first two studies](personality-openness-twitter-activity-third-study.md) — related
 - [Students' Twitter activity concentrated in comments on peers' tweets, indicating preference for peer interaction over tutor-directed questions](peer-commenting-dominates-twitter-activity.md) — related
+- [Change in internet self-efficacy correlates negatively with laboratory performance in the Twitter-supported course](self-efficacy-change-negative-lab-correlation.md) — related
+- [Students' Twitter commenting activity correlates positively with final exam grades in a structured four-week course intervention](twitter-activity-correlates-final-exam-grade.md) — related
+- [Twitter commenting activity and perceived question understandability correlate positively with laboratory grades](twitter-activity-correlates-laboratory-grade.md) — related

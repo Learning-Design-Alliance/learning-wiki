@@ -45,7 +45,8 @@ The article proposes using learning analytics to disassemble the "data jigsaw qu
 - [Error patterns in VR trace data associated with misconceptions and confusion are identified via visualization with human expert aid](../claims/trace-error-patterns-misconceptions-confusion-vrts.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Involve the course instructor in rating and tuning visualization and model parameters](instructor-in-the-loop-visualization-tuning.md)
 
 ## Examples
 -

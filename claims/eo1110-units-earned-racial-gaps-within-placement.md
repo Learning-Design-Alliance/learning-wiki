@@ -56,3 +56,4 @@ Observational analysis of units earned by race/ethnicity within QR placement (Fi
 - [Natural uptake of the freely available Exam Playbook differed by gender and race but not academic ability or first-generation status](exam-playbook-natural-uptake-demographics.md) — related
 - [Race/ethnicity was among the most important predictors of intervention effectiveness, with lower predicted effects for Black/African American students.](race-ethnicity-predicts-intervention-effectiveness.md) — related
 - [Ethnic, gender and socio-environmental group differences in higher education assessment are pervasive but small in practical terms](he-assessment-group-differences-pervasive-but-small.md) — related
+- [URM students earn a small share of physics degrees, with physics near the lowest fraction of the physical sciences for bachelor's degrees earned by Black/African-American and Hispanic Americans](urm-degree-representation-physics-lowest-physical-sciences.md) — related

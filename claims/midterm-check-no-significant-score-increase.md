@@ -48,3 +48,4 @@ Retrospective comparison of examination scores before and after the mid-term che
 - [Online ligation training with flipped e-learning enabled all 134 medical students to achieve passing scores, with a combined average score of 12.2 out of 15](online-flipped-elearning-ligation-passing-scores.md) — related
 - [No statistically significant differences among the three sections on mid-term exam, online journal entries, or combined totals](no-significant-difference-midterm-journal-combined.md) — related
 - [Students without prior ligation training scored the same as experienced students in the online practice](no-score-difference-experienced-inexperienced-ligation.md) — related
+- [Mid-semester scores differ significantly between some pairs of the four course sections, with section 02 differing significantly from sections 01, 04 and DL](welch-t-test-section-pair-differences-it341.md) — related

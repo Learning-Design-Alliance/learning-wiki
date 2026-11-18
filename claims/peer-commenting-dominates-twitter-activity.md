@@ -49,3 +49,4 @@ Descriptive analysis of tweet counts in the first study (N=19) showed comments o
 - [Conscientiousness and openness to experience related to Twitter activity only in the third study; no relationships appeared in the first two studies](personality-openness-twitter-activity-third-study.md) — related
 - [The article argues that skepticism about Twitter's contribution to learning rests on an overly narrow conception of learning focused on academic performance](twitter-learning-skepticism-narrow-conception.md) — related
 - [Twitter activity was related to the final grade only in the first study (r=.49), with no significant relationship in the second and third studies](twitter-activity-final-grade-first-study.md) — related
+- [Students' Twitter commenting activity correlates positively with final exam grades in a structured four-week course intervention](twitter-activity-correlates-final-exam-grade.md) — related

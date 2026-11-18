@@ -49,3 +49,4 @@ In the Difficulty with results interpretation subcategory, 14 faculty and depart
 - [Faculty perceive research-based assessments as limited in what they measure and want assessments of skills, perceptions, and specific concepts.](rbas-perceived-limited-want-skills-perceptions-concepts.md) — a broader claim this one bears on
 - [Vivaldi first-year on-track counts fluctuated between 24 and 31 across the classes of 1997–2001](vivaldi-first-year-on-track-over-time.md) — related
 - [Autograder accuracy on individual exams fluctuates around the expected performance, and strong deviations can be reliably detected by validation](per-exam-accuracy-fluctuates-validation-detects-deviations.md) — related
+- [Faculty barriers to using research-based assessments include lack of support in choosing, administering, scoring, and interpreting assessments](faculty-barriers-rba-use-support.md) — a broader claim this one bears on

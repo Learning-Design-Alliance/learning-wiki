@@ -50,3 +50,4 @@ Same survey cohort (n = 114); 107 students (93.9%) preferred MCQs over fill-in-t
 - [Medical students prefer viewing anatomy on pinned cadavers over digital images during practical exams](students-prefer-pinned-cadavers-over-digital-images-practical-exams.md) — related
 - [Medical students most favor an Individual 90%/Group 10% grading distribution for combined anatomy exams](students-prefer-individual-90-group-10-grading-distribution.md) — related
 - [87.1% of students preferred group exams and 90.3% perceived improved future consultation skills](group-exam-and-consultation-perceptions-pilot.md) — related
+- [The numerical problem format correlated more weakly with final exam score (r = 0.430) than the fill-in-the-blank format (r = 0.830)](numerical-problem-weakest-final-exam-correlation.md) — related

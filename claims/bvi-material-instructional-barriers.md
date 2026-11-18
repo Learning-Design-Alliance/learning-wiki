@@ -91,3 +91,4 @@ The review reports, citing Rosenblum et al. (2020), that with 10 teachers of the
 - [Half of reported developmental barriers stem from academic-related challenges (50.39%)](academic-challenges-half-of-development-barriers.md) — related
 - [The item-quality and prediction work is part of a larger project aiming to make online math more accessible to students with visual impairments](larger-project-online-math-accessibility-vi.md) — related
 - [Score-access barriers push musicians with BLV toward memorization and listening-based learning, and accessible notation tools miss performance-critical details](blv-score-access-memorization-default.md) — related
+- [Sighted classmates appreciated the additional tactile, 3D graphical and oral-explanation accommodations made for a blind student](sighted-students-appreciated-tactile-aids.md) — related

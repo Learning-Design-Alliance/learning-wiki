@@ -68,6 +68,7 @@ AR's learning benefit comes primarily from externalizing abstract or spatially c
 - [Flipped classroom](../principles/flipped-learning.md) — AR exploration can serve as the in-class active segment after content exposure
 - [Embed QR codes in student textbooks as an augmented reality entry point to enhance performance](qr-codes-in-textbooks-as-ar-strategy.md)
 - [Design XR interfaces for young learners with embodied tasks, direct manipulation, and layered spatial scaffolds](elementary-xr-interface-design-principles.md)
+- [Explore unexplored taxonomy quadrants by combining artificial characters with digital media and augmented reality](explore-artificial-characters-digital-media-quadrants.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — AR overlays can deliver annotated, spatially anchored demonstrations of processes

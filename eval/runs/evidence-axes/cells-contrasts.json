@@ -119958,5 +119958,621 @@
  "worked-examples\tVideo Only\tCue Only": {
   "label": "Video worked example vs cue only",
   "treatment_is_a": true
+ },
+ "active-learning\t10-week Einsteinian physics programme with presentations and hands-on activities\tpre-programme baseline": {
+  "label": "Einstein-First programme vs pre-programme baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\t20-lesson Einstein-First programme using models, analogies, activities and group discussion\tpre-programme baseline": {
+  "label": "Einstein-First programme vs pre-programme baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\t20-lesson Einstein-First programme using models, analogies, activities and group discussion\tpre-programme learning, assessed at delayed follow-up": {
+  "label": "Einstein-First programme vs pre-programme baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\t20-lesson Einstein-First programme with activities\tpre-programme attitude": {
+  "label": "Einstein-First programme vs pre-programme baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\t20-lesson Einstein-First programme with models, analogies, group activities and discussion\tpre-programme baseline": {
+  "label": "Einstein-First programme vs pre-programme baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tEinstein-First activity-based physics programme\tpre-programme attitudes": {
+  "label": "Einstein-First programme vs pre-programme baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tEinstein-First lessons with hands-on models, analogies, group activities and discussions\tpre-programme baseline": {
+  "label": "Einstein-First programme vs pre-programme baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tEinstein-First programme\tpre-programme baseline": {
+  "label": "Einstein-First programme vs pre-programme baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tInteractive Lecture Demonstrations\tenhanced lecture demonstrations": {
+  "label": "Interactive lecture demonstrations vs enhanced lecture demonstrations",
+  "treatment_is_a": true
+ },
+ "active-learning\tInteractive lecture demonstrations with peer discussion and revised predictions\tenhanced lecture demonstrations without those additional interactive elements": {
+  "label": "Interactive lecture demonstrations with peer discussion and revised predictions vs enhanced lecture demonstrations without these elements",
+  "treatment_is_a": true
+ },
+ "active-learning\tLecture/Studio format with biologically aligned content and active engagement\ttraditional instruction": {
+  "label": "Lecture/studio instruction with active engagement vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tLecture/Studio with interactive engagement and new content\ttraditional lecture/laboratory instruction": {
+  "label": "Lecture/studio instruction with interactive engagement vs traditional lecture/laboratory instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive learning at least 25% of class time\tactive learning less than 25% of class time": {
+  "label": "At least 25% active-learning time vs less than 25%",
+  "treatment_is_a": true
+ },
+ "active-learning\tat least 25% of class time using active learning\tless than 25% of class time using active learning": {
+  "label": "At least 25% active-learning time vs less than 25%",
+  "treatment_is_a": true
+ },
+ "active-learning\tclasses using active learning at least 25% of class time\tclasses using active learning less than 25% of class time": {
+  "label": "At least 25% active-learning time vs less than 25%",
+  "treatment_is_a": true
+ },
+ "active-learning\tclasses with greater average active-learning time\tclasses with less average active-learning time": {
+  "label": "More active-learning time vs less active-learning time",
+  "treatment_is_a": true
+ },
+ "active-learning\tcompetitive team activities with rotating leadership\tno comparison condition stated": {
+  "label": "Competitive team activities with rotating leadership vs no comparison condition stated",
+  "treatment_is_a": true
+ },
+ "active-learning\tconstructivist hands-on designing and building\tno comparison condition stated": {
+  "label": "Constructivist hands-on designing and building vs no comparison condition stated",
+  "treatment_is_a": true
+ },
+ "active-learning\tcourses taught with varying degrees of interactivity\tstandard lecture-based courses": {
+  "label": "More interactive instruction vs standard lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tenhanced lecture demonstrations\ttraditional lecture demonstrations": {
+  "label": "Enhanced lecture demonstrations vs traditional lecture demonstrations",
+  "treatment_is_a": true
+ },
+ "active-learning\tenhanced lecture demonstrations\tverification labs": {
+  "label": "Enhanced lecture demonstrations vs verification laboratories",
+  "treatment_is_a": true
+ },
+ "active-learning\texperimental hands-on work with historical instruments\tusual school didactics": {
+  "label": "Experimental hands-on work with historical instruments vs usual school didactics",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom with activity-based ABM experimentation\tnot stated": {
+  "label": "Flipped classroom with activity-based experimentation vs no comparison condition stated",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom with classroom activities and experimentation\tthe previous classroom approach": {
+  "label": "Flipped classroom with in-class activities and experimentation vs previous classroom approach",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom with classroom time devoted to experimentation\tconventional lecture-centered classroom": {
+  "label": "Flipped classroom with in-class experimentation vs conventional lecture-centred classroom",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom with in-class experimentation and activities\tlecture-centred classroom instruction": {
+  "label": "Flipped classroom with in-class experimentation and activities vs lecture-centred instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tguided study or debate\texpository lecture": {
+  "label": "Guided study or debate vs expository lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tguided study or debate\texpository sessions (lectures)": {
+  "label": "Guided study or debate vs expository sessions",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on learning-by-doing in university scientific museums\tusual didactics at school": {
+  "label": "Hands-on museum learning-by-doing vs usual school didactics",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on museum laboratory activity\tusual didactics at school": {
+  "label": "Hands-on museum laboratory activity vs usual school didactics",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on team construction activities\tno comparison condition stated": {
+  "label": "Hands-on team construction activities vs no comparison condition stated",
+  "treatment_is_a": true
+ },
+ "active-learning\timproved 20-lesson Einstein-First programme using models, analogies, activities and group discussion\tpre-programme baseline": {
+  "label": "Einstein-First programme vs pre-programme baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive elements, especially computer exercises and research proposals\ttraditional lecture / pre-intervention": {
+  "label": "Interactive learning elements vs traditional lecture or pre-intervention",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive group work, computer exercises, and research proposal\ttraditional lecture and pre-interactive period": {
+  "label": "Interactive group work, computer exercises, and research proposals vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive group worksheets and computer exercises\ttraditional lecture period": {
+  "label": "Interactive worksheets and computer exercises vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive worksheet work-through\tsimilar exam questions not worked through in the worksheets": {
+  "label": "Interactive worksheet work-through vs similar questions without worksheet work-through",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive worksheets and computer exercises\ttraditional lecture format": {
+  "label": "Interactive worksheets and computer exercises vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning involving model development, implementation, analysis, and feedback\tteaching equations, methods, or implementation without the full iterative problem process": {
+  "label": "Iterative problem-based learning vs instruction without the full problem-solving process",
+  "treatment_is_a": true
+ },
+ "active-learning\tsmall-group peer suggestion and sharing\tindividual initial drawing": {
+  "label": "Small-group peer suggestion and sharing vs individual initial drawing",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent fabrication and testing of solar panels\tnot stated": {
+  "label": "Student fabrication and testing of solar panels vs no comparison condition stated",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudents generate data and write ideas on the board\tless active instruction": {
+  "label": "Student-generated data and board-based idea sharing vs less active instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudents generate data, write ideas on the board, and experiment with concepts\tpassive or lecture-focused teaching": {
+  "label": "Student-generated data, board-based idea sharing, and experimentation vs passive or lecture-focused teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tthree-week Einsteinian physics programme\tpre-programme baseline": {
+  "label": "Einsteinian physics programme vs pre-programme baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tthree-week Einsteinian physics programme with presentations and hands-on activities\tpre-programme baseline": {
+  "label": "Einsteinian physics programme with presentations and hands-on activities vs pre-programme baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tthreshold definition activity\ttraditional science course experience": {
+  "label": "Threshold definition activity vs traditional science course experience",
+  "treatment_is_a": true
+ },
+ "active-learning\tthreshold definition activity\ttraditional science courses": {
+  "label": "Threshold definition activity vs traditional science courses",
+  "treatment_is_a": true
+ },
+ "active-learning\tthreshold definition activity with small-group discussion\tnot reported": {
+  "label": "Threshold definition activity with small-group discussion vs no comparison condition stated",
+  "treatment_is_a": true
+ },
+ "active-learning\ttransformed courses\tstandard lecture courses": {
+  "label": "Transformed courses vs standard lecture courses",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tdivision of labor coupled with collective brainstorming\tdivision of labor or brainstorming without the coupling": {
+  "label": "Coupled division of labor and collective brainstorming vs uncoupled division of labor or brainstorming",
+  "treatment_is_a": true
+ },
+ "autonomy-support\ttiered assessment with optional advanced tasks\tassessment requiring all students to attempt advanced tasks": {
+  "label": "Optional advanced tasks vs required advanced tasks",
+  "treatment_is_a": true
+ },
+ "autonomy-support\ttiered assessment with optional advanced tasks\tassessment without optional challenge-by-choice tasks": {
+  "label": "Optional challenge-by-choice tasks vs no optional challenge-by-choice tasks",
+  "treatment_is_a": true
+ },
+ "case-comparison\tATLAS and IceCube atmospheric-muon data presented in a video conference\tstudents’ own atmospheric-muon measurements": {
+  "label": "large-scale experiment data presented vs students’ own measurements alone",
+  "treatment_is_a": true
+ },
+ "case-comparison\tcomparison with large-scale experiment data\tstudent measurements alone": {
+  "label": "large-scale experiment data comparison vs students’ measurements alone",
+  "treatment_is_a": true
+ },
+ "case-comparison\tpanel with substantially cracked cells\thigh-power panel with undamaged cells": {
+  "label": "cracked cells vs undamaged cells",
+  "treatment_is_a": true
+ },
+ "case-comparison\tpanels with bridged tabbing wire\tpanels without bridged tabbing wire": {
+  "label": "bridged tabbing wire vs no bridged tabbing wire",
+  "treatment_is_a": true
+ },
+ "case-comparison\tundetermined-constants integration method\tlimits-of-integration method": {
+  "label": "undetermined-constants integration method vs limits-of-integration method",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tpositive example first in a cluster\tnegative example first in a cluster": {
+  "label": "positive examples first vs negative examples first",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tExplain virtual particles as field disturbances and calculation tools\tDescribe virtual particles as actual particles": {
+  "label": "field-based/interpretive explanation of virtual particles vs actual-particle explanation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\taxiomatic quantum mechanics as the underlying course approach\tnot stated": {
+  "label": "axiomatic quantum mechanics vs unspecified course approach",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\taxiomatic quantum-mechanics teaching\tnon-axiomatic or historically organized teaching": {
+  "label": "axiomatic quantum mechanics vs non-axiomatic or historically organized teaching",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcareful conceptual explanation with analogies and limited mathematics\tusual technical or mathematically complex approach": {
+  "label": "conceptual, low-mathematics explanation vs technical or mathematically complex approach",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcareful explanation of fundamental concepts without much mathematics\tusual technical approach": {
+  "label": "conceptual, low-mathematics explanation vs technical approach",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcareful introduction of particles, virtual particles and Feynman diagrams\tpopular or inaccurate explanations": {
+  "label": "careful and accurate explanation of particles and Feynman diagrams vs popular or inaccurate explanation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tchronological-time experiences as a foundation for historical-time learning\thistorical-time learning without a chronological foundation": {
+  "label": "chronological-time foundation vs historical-time learning without a chronological foundation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\trepresentation-invariant axiomatic quantum mechanics\tapplication-focused or non-axiomatic quantum-mechanics teaching": {
+  "label": "representation-invariant axiomatic quantum mechanics vs application-focused or non-axiomatic teaching",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tprerequisite knowledge quiz\tself-assessment": {
+  "label": "prerequisite knowledge test vs self-assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tprerequisite test\tself-assessment": {
+  "label": "prerequisite knowledge test vs self-assessment",
+  "treatment_is_a": true
+ },
+ "gamification\tgame play\tpretest": {
+  "label": "gameplay vs pretest",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tCTA1 curriculum with mastery learning\texisting algebra I curriculum": {
+  "label": "mastery-learning curriculum vs conventional curriculum",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tCTA1 curriculum with mastery-based progression\texisting algebra I curriculum": {
+  "label": "mastery-learning curriculum vs conventional curriculum",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tCTA1 mastery-learning curriculum\texisting algebra I curriculum": {
+  "label": "mastery-learning curriculum vs conventional curriculum",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tCognitive Tutor Algebra I curriculum\texisting Algebra I curriculum": {
+  "label": "Cognitive Tutor Algebra I curriculum vs existing Algebra I curriculum",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tteacher reassignment before section mastery\tno reassignment before mastery": {
+  "label": "teacher reassignment before section mastery vs no reassignment before mastery",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tteacher reassignment before section mastery\tremaining in the current section until mastery": {
+  "label": "teacher reassignment before section mastery vs remaining in the current section until mastery",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tyear-2 CTAI implementation\tyear-1 CTAI implementation": {
+  "label": "later implementation year vs earlier implementation year",
+  "treatment_is_a": true
+ },
+ "media-design\tanimation and narration without redundant onscreen text\tanimation, narration, and concurrent onscreen text replicating narration": {
+  "label": "redundant onscreen text with animation and narration vs animation and narration without onscreen text",
+  "treatment_is_a": false
+ },
+ "media-design\tanimation, narration, and concurrent onscreen text replicating narration\tanimation and narration without onscreen text": {
+  "label": "redundant onscreen text with animation and narration vs animation and narration without onscreen text",
+  "treatment_is_a": true
+ },
+ "media-design\tanimation, narration, and concurrent onscreen text replicating the narration\tanimation and narration without onscreen text": {
+  "label": "redundant onscreen text with animation and narration vs animation and narration without onscreen text",
+  "treatment_is_a": true
+ },
+ "media-design\tfast pace, text highlights, static images and animations, and high-definition production\tnot stated": {
+  "label": "enhanced video production vs unspecified production",
+  "treatment_is_a": true
+ },
+ "media-design\thigh-complexity sentences\tlow-complexity sentences": {
+  "label": "high-complexity sentences vs low-complexity sentences",
+  "treatment_is_a": true
+ },
+ "media-design\timage- and audiovisual-supported historical-time instruction\tinstruction without images or audiovisual media": {
+  "label": "image- and audiovisual-supported instruction vs instruction without images or audiovisual media",
+  "treatment_is_a": true
+ },
+ "media-design\tlonger average videos\tshorter average videos": {
+  "label": "longer videos vs shorter videos",
+  "treatment_is_a": true
+ },
+ "media-design\tmoderate talking-head presence\tconstant talking-head presence": {
+  "label": "constant talking-head presence vs moderate talking-head presence",
+  "treatment_is_a": false
+ },
+ "media-design\tmore interactive version of Grey Plague\tstatic-visual-novel version of Grey Plague": {
+  "label": "more interactive version vs static-visual-novel version",
+  "treatment_is_a": true
+ },
+ "media-design\treal or animated human\treal or animated robot": {
+  "label": "human character vs robot character",
+  "treatment_is_a": true
+ },
+ "media-design\tredundant lesson with animation, narration, and concurrent onscreen text\tnon-redundant lesson with animation and narration": {
+  "label": "redundant onscreen text with animation and narration vs animation and narration without onscreen text",
+  "treatment_is_a": true
+ },
+ "media-design\tredundant presentation: animation, narration, and concurrent onscreen text\tnon-redundant presentation: animation and narration": {
+  "label": "redundant onscreen text with animation and narration vs animation and narration without onscreen text",
+  "treatment_is_a": true
+ },
+ "media-design\ttactile and 3D graphical aids plus explicit oral explanations of mathematics and graphics\tusual instruction without these additional accessibility supports": {
+  "label": "tactile and 3D graphical aids with explicit oral explanations vs usual instruction without additional accessibility supports",
+  "treatment_is_a": true
+ },
+ "media-design\ttimezone analogy for local U(1) gauge symmetry\tno analogy or more formal treatment": {
+  "label": "timezone analogy vs no analogy or formal treatment",
+  "treatment_is_a": true
+ },
+ "media-design\tvideo projection\tphotocopies, blackboard and chalk-pencil": {
+  "label": "video projection vs photocopies, blackboard, and chalk-pencil instruction",
+  "treatment_is_a": true
+ },
+ "practice-amount\tteacher preparation ahead of the masterclass\tless or no preparation": {
+  "label": "more preparation vs less or no preparation",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem-based learning and iterative model development\tequation-focused mathematics or implementation-focused computer science teaching": {
+  "label": "problem-first vs theory-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tstarting from an example and threading it through the class\tintroducing theory before examples and applications": {
+  "label": "example-first vs theory-first",
+  "treatment_is_a": true
+ },
+ "prompts\t2015 partially guided journals\t2014 unguided journals": {
+  "label": "partially guided prompts vs unguided prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tUnguided and partially guided IMPRESS journals\tFormally guided classroom GRFs": {
+  "label": "journal prompts vs formal Guided Reflection Forms",
+  "treatment_is_a": true
+ },
+ "prompts\thigher self-diagnosis score\tlower self-diagnosis score": {
+  "label": "higher vs lower self-diagnosis",
+  "treatment_is_a": true
+ },
+ "prompts\tjustify the initial judgment using the answer options\tmake the initial judgment before justification": {
+  "label": "answer-option-supported justification vs judgment before justification",
+  "treatment_is_a": true
+ },
+ "prompts\tpartially guided journals with reflection prompts\tunguided diary-style journals": {
+  "label": "partially guided prompts vs unguided prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tunguided and partially guided journals\tformal Guided Reflection Forms": {
+  "label": "journal prompts vs formal Guided Reflection Forms",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tvoluntary group research proposal with bonus points\tstudents not participating in a research proposal": {
+  "label": "bonus points for voluntary participation vs no bonus points for nonparticipation",
+  "treatment_is_a": true
+ },
+ "scaffolding\tSelf-diagnosis with a rubric and solution outline\tControl group": {
+  "label": "self-diagnosis with rubric and solution outline vs no self-diagnosis/control",
+  "treatment_is_a": true
+ },
+ "scaffolding\tSelf-diagnosis with minimal guidance using notes and textbooks\tSelf-diagnosis with a detailed worked-out solution": {
+  "label": "detailed worked-out solution vs minimal guidance using notes and textbooks",
+  "treatment_is_a": false
+ },
+ "scaffolding\tSelf-diagnosis with rubric and solution outline\tControl group without self-diagnosis": {
+  "label": "self-diagnosis with rubric and solution outline vs no self-diagnosis/control",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdelegated tutoring for assignments and exam study\tno delegated tutor": {
+  "label": "delegated tutoring vs no delegated tutor",
+  "treatment_is_a": true
+ },
+ "scaffolding\tself-diagnosis with minimal guidance using notes and textbooks\tself-diagnosis with a worked-out example": {
+  "label": "worked-out example vs minimal guidance using notes and textbooks",
+  "treatment_is_a": false
+ },
+ "scaffolding\tself-diagnosis with rubric and solution outline\tcontrol group without self-diagnosis": {
+  "label": "self-diagnosis with rubric and solution outline vs no self-diagnosis/control",
+  "treatment_is_a": true
+ },
+ "simulation\tElectron Sink model interaction\tnot stated": {
+  "label": "Electron Sink model interaction vs not stated",
+  "treatment_is_a": true
+ },
+ "simulation\tElectron Sink model with balancing-time activity\tCurrent in a Wire model": {
+  "label": "Electron Sink model with balancing-time activity vs Current in a Wire model",
+  "treatment_is_a": true
+ },
+ "simulation\tSkype preparation session using the OnLabs 3D virtual biology laboratory\tconventional face-to-face preparation without OnLabs": {
+  "label": "Skype preparation using the OnLabs 3D virtual biology laboratory vs conventional face-to-face preparation",
+  "treatment_is_a": true
+ },
+ "simulation\tSkype session with 3D OnLabs virtual lab\tconventional face-to-face tutorial": {
+  "label": "Skype session with the OnLabs 3D virtual lab vs conventional face-to-face tutorial",
+  "treatment_is_a": true
+ },
+ "simulation\tadmitted students selected by an accurate performance model\tfull simulated applicant pool": {
+  "label": "Accurate performance model selection vs full simulated applicant pool",
+  "treatment_is_a": true
+ },
+ "simulation\tgroup interaction with Electric Field Hockey\tno comparison condition reported": {
+  "label": "Group interaction with Electric Field Hockey simulation vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "simulation\tgroup interaction with Electric Field Hockey simulation\tno comparison condition": {
+  "label": "Group interaction with Electric Field Hockey simulation vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "simulation\titerative program solving closest approach\tenergy-conservation calculation": {
+  "label": "Iterative closest-approach solution vs energy-conservation calculation",
+  "treatment_is_a": true
+ },
+ "simulation\tlinear admissions model with 2X GRE weight, all admitted students\tnot stated": {
+  "label": "Linear admissions model with 2X GRE weight vs not stated",
+  "treatment_is_a": true
+ },
+ "simulation\tlinear admissions model with 2X GRE weight, lower tier of admitted students\tnot stated": {
+  "label": "Linear admissions model with 2X GRE weight vs not stated",
+  "treatment_is_a": true
+ },
+ "simulation\tlinear admissions model with 2X GRE weight, upper tier of admitted students\tnot stated": {
+  "label": "Linear admissions model with 2X GRE weight vs not stated",
+  "treatment_is_a": true
+ },
+ "simulation\tlower half of students admitted by an accurate performance model\tfull simulated applicant pool": {
+  "label": "Accurate performance model selection vs full simulated applicant pool",
+  "treatment_is_a": true
+ },
+ "simulation\tnonzero beta correction\tNewtonian case with alpha = beta = 0": {
+  "label": "Nonzero beta correction vs Newtonian case with alpha = beta = 0",
+  "treatment_is_a": true
+ },
+ "simulation\trecommended smaller time step\tdoubled time step": {
+  "label": "Smaller numerical time step vs doubled time step",
+  "treatment_is_a": true
+ },
+ "simulation\tsmaller numerical time step\tlarger numerical time step": {
+  "label": "Smaller numerical time step vs larger numerical time step",
+  "treatment_is_a": true
+ },
+ "simulation\tsmaller time step\tlarger time step": {
+  "label": "Smaller time step vs larger time step",
+  "treatment_is_a": true
+ },
+ "test-format\tSection 01 assessment structure\tDL section assessment structure": {
+  "label": "Section 01 assessment structure vs DL-section assessment structure",
+  "treatment_is_a": true
+ },
+ "test-format\tSection 02 exam structure with MCQs and essay questions\tDL section exam structure with MCQs and a numerical problem": {
+  "label": "MCQ-and-essay exam vs MCQ-and-numerical-problem exam",
+  "treatment_is_a": true
+ },
+ "test-format\tSection 02 exam structure with MCQs and essay questions\tSection 01 exam structure with MCQs, fill-in-the-blank questions, and a numerical problem": {
+  "label": "MCQ-and-essay exam vs MCQ-, fill-in-the-blank-, and numerical-problem exam",
+  "treatment_is_a": true
+ },
+ "test-format\tSection 02 exam structure with MCQs and essay questions\tSection 04 exam structure with MCQs, fill-in-the-blank questions, and a numerical problem": {
+  "label": "MCQ-and-essay exam vs MCQ-, fill-in-the-blank-, and numerical-problem exam",
+  "treatment_is_a": true
+ },
+ "test-format\tcombination of MCQ, essay, fill-in-the-blank, and numerical-problem formats\tessay format only": {
+  "label": "Mixed-format assessment vs essay-only assessment",
+  "treatment_is_a": true
+ },
+ "test-format\tcombined MCQ, essay, fill-in-the-blank, and numerical formats\tsingle or less varied exam formats": {
+  "label": "Mixed-format assessment vs single or less-varied-format assessment",
+  "treatment_is_a": true
+ },
+ "test-format\tcombined MCQ, essay, fill-in-the-blank, and numerical-problem formats\tessay-only format": {
+  "label": "Mixed-format assessment vs essay-only assessment",
+  "treatment_is_a": true
+ },
+ "test-format\tcombined assessment techniques\tsingle assessment format": {
+  "label": "Mixed assessment techniques vs single assessment format",
+  "treatment_is_a": true
+ },
+ "test-format\tcombined final exam with MCQ, essay, fill-in-the-blank, and numerical problem\tessay-only final exam": {
+  "label": "Mixed-format final exam vs essay-only final exam",
+  "treatment_is_a": true
+ },
+ "test-format\tcombined final-exam formats\tsingle final-exam format": {
+  "label": "Mixed-format final exam vs single-format final exam",
+  "treatment_is_a": true
+ },
+ "test-format\tconfidence-scored prerequisite test\tdichotomously scored prerequisite test": {
+  "label": "Confidence-scored test vs dichotomously scored test",
+  "treatment_is_a": true
+ },
+ "test-format\tessay questions\tMCQs, fill-in-the-blank questions, or numerical problem": {
+  "label": "Essay questions vs MCQ, fill-in-the-blank, or numerical-problem questions",
+  "treatment_is_a": true
+ },
+ "test-format\tessay questions\tMCQs, fill-in-the-blank, and numerical problems": {
+  "label": "Essay questions vs MCQ, fill-in-the-blank, and numerical-problem questions",
+  "treatment_is_a": true
+ },
+ "test-format\tessay questions\tMCQs, fill-in-the-blank, and numerical questions": {
+  "label": "Essay questions vs MCQ, fill-in-the-blank, and numerical questions",
+  "treatment_is_a": true
+ },
+ "test-format\tessay questions\tMCQs, fill-in-the-blank, and numerical-problem questions": {
+  "label": "Essay questions vs MCQ, fill-in-the-blank, and numerical-problem questions",
+  "treatment_is_a": true
+ },
+ "test-format\tessay-question format\tMCQ, fill-in-the-blank, and numerical-problem formats": {
+  "label": "Essay-question format vs MCQ, fill-in-the-blank, and numerical-problem formats",
+  "treatment_is_a": true
+ },
+ "test-format\texam including essay questions\tMCQ-heavy exam": {
+  "label": "Essay-inclusive exam vs MCQ-heavy exam",
+  "treatment_is_a": true
+ },
+ "test-format\tfinal exam assessment\tother course assessments": {
+  "label": "Final-exam assessment vs other course assessments",
+  "treatment_is_a": true
+ },
+ "test-format\tlimit answers to no more than three\tunrestricted multiple responses": {
+  "label": "Limited multiple-response selection (maximum three) vs unrestricted multiple-response selection",
+  "treatment_is_a": true
+ },
+ "test-format\tlimit students to no more than three answers per question\tallow selection of many or all answers": {
+  "label": "Limited multiple-response selection (maximum three) vs unrestricted multiple-response selection",
+  "treatment_is_a": true
+ },
+ "test-format\tmaximum of three response options with an excessive-selection notification\tunrestricted multiple-response selection": {
+  "label": "Limited multiple-response selection (maximum three) vs unrestricted multiple-response selection",
+  "treatment_is_a": true
+ },
+ "test-format\tmidterm containing essay questions\tmidterms dominated by multiple-choice questions": {
+  "label": "Essay-containing midterm vs MCQ-dominated midterm",
+  "treatment_is_a": true
+ },
+ "test-format\tmultiple-choice, multiple-response question\tfree-response question": {
+  "label": "Multiple-choice multiple-response questions vs free-response questions",
+  "treatment_is_a": true
+ },
+ "test-format\tmultiple-choice, multiple-response questions\tfree-response questions": {
+  "label": "Multiple-choice multiple-response questions vs free-response questions",
+  "treatment_is_a": true
+ },
+ "test-format\tnumerical problem questions\tfill-in-the-blank questions": {
+  "label": "Numerical-problem questions vs fill-in-the-blank questions",
+  "treatment_is_a": true
+ },
+ "test-format\tobjective questions, especially MCQs\tsubjective essay questions": {
+  "label": "Objective questions, especially MCQs, vs subjective essay questions",
+  "treatment_is_a": true
+ },
+ "test-format\tonline computer-based assessment outside class\tpaper-and-pencil assessment in class": {
+  "label": "Online out-of-class computer-based assessment vs in-class paper-and-pencil assessment",
+  "treatment_is_a": true
+ },
+ "test-format\tonline out-of-class computer-based RBA\tin-class paper-and-pencil RBA": {
+  "label": "Online out-of-class computer-based RBA vs in-class paper-and-pencil RBA",
+  "treatment_is_a": true
+ },
+ "test-format\tonline out-of-class computer-based assessment\tin-class paper-and-pencil assessment": {
+  "label": "Online out-of-class computer-based assessment vs in-class paper-and-pencil assessment",
+  "treatment_is_a": true
+ },
+ "test-format\tpresent familiar concepts in unfamiliar ways\tpresent familiar concepts and terminology in familiar ways": {
+  "label": "Familiar concepts presented in unfamiliar ways vs familiar concepts and terminology presented in familiar ways",
+  "treatment_is_a": true
+ },
+ "test-format\treduced FCI excluding unfair items\t30-item FCI": {
+  "label": "Reduced FCI excluding unfair items vs full 30-item FCI",
+  "treatment_is_a": true
+ },
+ "worked-examples\tSelf-diagnosis using textbooks and notes, with only the final answer provided\tSelf-diagnosis using a detailed written solution": {
+  "label": "Detailed worked solution vs final answer only",
+  "treatment_is_a": false
  }
 }

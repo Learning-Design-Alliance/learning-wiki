@@ -49,3 +49,4 @@ The article reports, citing prior research [1–3] (Trowbridge & McDermott 1980,
 - [Students tend to treat potential energy vs. position graphs as position vs. time graphs, reading velocity from the slope](students-treat-ped-as-position-time-graph.md) — related
 - [Modelling with Modellus helped students distinguish and correctly interpret multiple representations such as trajectories versus coordinate graphs](modellus-multiple-representations-interpretation.md) — related
 - [Students generally have difficulty distinguishing the concepts of velocity and acceleration](students-difficulty-velocity-acceleration-discrimination.md) — a narrower finding that bears on this claim
+- [ENEM 2012_Q60 shows completers still confuse position with velocity and struggle to represent motion graphically](enem-position-velocity-confusion-2012-q60.md) — a narrower finding that bears on this claim

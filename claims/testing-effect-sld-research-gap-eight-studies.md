@@ -65,3 +65,4 @@ Same co-citation analysis: "all of these studies covered learners with DLD" and 
 
 ## Related Claims
 - [A strength in arithmetic skills did not distinguish geometric or fraction skills among DLD children](arithmetic-strength-no-dld-math-advantage.md) — related
+- [Disabilities are little studied in physics education research despite affecting many students](disabilities-little-studied-per.md) — a broader claim this one bears on

@@ -49,4 +49,4 @@ SURGE Symbolic is an example of a disciplinarily integrated game that inverts ea
 -
 
 ## Key Sources
-- Sengupta, P., & Clark, D. (2016). Playing Modeling Games in the Science Classroom: The Case for Disciplinary Integration. Educational Technology, 56(3), 16–22. http://www.surgeuniverse.com
+- Sengupta, P., & Clark, D. (2016). Playing Modeling Games in the Science Classroom: The Case for Disciplinary Integration. Educational Technology, 56(3), 16–22. http://www.surgeuniverse.com. [doi:10.48550/arxiv.1607.05094](https://doi.org/10.48550/arxiv.1607.05094)

@@ -48,3 +48,4 @@ Survey results for emotive scale items 11-16 (surprised, astonished, amazed, hap
 ## Related Claims
 - [Students in an upper-division physics lab course with self-chosen group final projects show high levels of project ownership on POS items 1-10](pos-items-1-10-high-ownership-lasers-course.md) — related
 - [Students' affective responses to project struggles and successes are complex, making POS emotive scale responses difficult to interpret](complex-affect-complicates-emotive-scales.md) — related
+- [Student ownership is characterized by a wide range of emotions that fluctuate as students alternate between extended struggle and moments of success](ownership-emotions-fluctuate-struggle-success.md) — related

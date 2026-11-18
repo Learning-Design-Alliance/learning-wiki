@@ -66,6 +66,7 @@ Valuing reasoning over answers converts errors from endpoints into learning oppo
 - **Self-Explanation Prompts** — the individual, written counterpart to whole-class reasoning discourse
 - [Question students about why a correct answer was chosen, rather than why an error was made](question-correct-answers-not-errors.md)
 - [Design learning-oriented LLM prompts around guided questions, step-by-step support, reflection, and a thinking partner rather than direct answers](learning-oriented-llm-prompt-strategy.md)
+- [Ask teachers why a student might give an answer rather than what is wrong with it, to focus attention on the student's construction of ideas](ask-why-might-student-give-answer.md)
 
 ## Examples
 - A teacher puts a worked algebra problem with a sign error on the board and asks, "Find where the reasoning went wrong" — students must articulate the error, not just supply the right answer.

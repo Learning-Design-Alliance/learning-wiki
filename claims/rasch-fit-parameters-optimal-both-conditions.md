@@ -55,3 +55,4 @@ Preliminary Rasch analysis of the four tests. The article also reports "the high
 - [GLAT shows robust structural validity and reliability under a 2-parameter logistic IRT model](glat-2pl-structural-validity-reliability.md) — related
 - [In operational reading-test data, item parameter estimates from a standard 2PL/GPCM that ignores local dependence closely match those from the testlet model (average correlations 0.9893 and 0.9978)](local-dependence-small-impact-item-parameters-real-data.md) — related
 - [Local dependence was observed among SMCI scale items, suggesting possible multidimensionality](smci-local-dependence-multidimensionality.md) — reports the opposite
+- [Item 29 is identified as problematic by IRT fit, reliability, and inter-item correlation analyses](fci-item29-problematic.md) — reports the opposite

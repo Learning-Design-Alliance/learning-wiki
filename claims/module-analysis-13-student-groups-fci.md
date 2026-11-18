@@ -70,3 +70,4 @@ Group-level characterization of response profiles against nine previously measur
 - [Most FCI questions in the Bogotá sample were answered without any mental model, i.e. at random](fci-bogota-53-percent-random-answers.md) — related
 - [Analysis of an FCI cannonball question shows the physically correct answer is not among the options, and answering it involves epistemic framing as much as conceptual understanding](fci-cannonball-question-epistemic-framing.md) — related
 - [On six FCI force-identification questions, student answers cluster on a pair of dominant answers containing the correct choice and a superset wrong choice](polarising-choices-force-identification.md) — related
+- [All six observed course-implementation networks are highly modular, with modularity Q above 0.5](bsc-networks-high-modularity.md) — related

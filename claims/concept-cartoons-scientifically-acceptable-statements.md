@@ -68,3 +68,4 @@ Pretest–posttest comparison of statement categories in both groups. The articl
 - [Worksheet analysis of three students showed naïve ideas developing from practical verifications of their assumptions, especially in topics new to students](concept-cartoons-worksheets-practical-verification.md) — related
 - [Individual development charts show all experimental students improved their ideas, compared with 47.62% of control students](individual-conceptual-change-development-charts.md) — related
 - [After teaching, 90% of experimental and 80% of control students gave scientifically acceptable answers about double-slit interference](posttest-acceptable-answers-both-groups.md) — related
+- [A mixed-reality holo.lab setting improves undergraduate students' gain in conceptual understanding of heat transfer and thermal conduction, with a small adjusted effect](mr-hololab-improves-heat-conduction-conceptual-gain.md) — related

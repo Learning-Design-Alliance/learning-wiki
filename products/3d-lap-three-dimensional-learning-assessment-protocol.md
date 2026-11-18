@@ -13,7 +13,7 @@ generated:
 # 3D-LAP: Three-Dimensional Learning Assessment Protocol
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (2 design), `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 3 studies (3 design), `q1`–`q2` · 0 of 3 report an effect size · 6 claims rest on one study
 
 ## Description
 A protocol developed by Cooper and colleagues for evaluating the potential of educational assessment tasks to elicit three-dimensional student responses in STEM and other contexts.
@@ -24,12 +24,15 @@ A protocol developed by Cooper and colleagues for evaluating the potential of ed
 - **Three Dimensional Learning Assessment Protocol (3D-LAP) for analyzing assessment items**: The 3D-LAP is a parallel instrument under development to determine whether assessment items contain scientific practices, crosscutting concepts, and disciplinary core ideas. It analyzes exams, homework, and clicker questions collected from each section of every introductory course, with collection planned to continue for several years. The article notes that "The coding structure for this tool is being ﬁnalized." (James T. Laverty et al. (2014))
 - **Three-Dimensional Learning Assessment Protocol (3D-LAP)**: The 3D-LAP is a "soon-to-be released research instrument that can be used to both design and characterize assessment items." Its "principle components ... are sets of criteria that have been developed for each scientiﬁc practice, crosscutting concept, and core idea." It uses the Framework's lists of practices and crosscutting concepts, while core ideas for college physics were generated locally by Michigan State Physics and Astronomy faculty. Practice criteria focus on required actions ("verbs"), whereas crosscutting-concept and core-idea criteria include subconstructs that must appear in the question stem or correct answer. An item must meet all criteria for a dimension to count as Aligned. (James T. Laverty et al. (2015))
 - **3D-LAP: a protocol for characterizing assessment tasks' potential to elicit three-dimensional learning**: The Three-Dimensional Learning Assessment Protocol (3D-LAP) is a coding protocol that describes criteria for each scientific practice, crosscutting concept, and core idea defining what is required for an assessment task to elicit that construct. It was developed by an interdisciplinary team of disciplinary experts and discipline-based education researchers in biology, chemistry, and physics through iterative negotiation against real assessment tasks. Each scientific practice includes 2–4 criteria all of which must be met; each crosscutting concept has a brief description; each core idea has a list where only one item must align. (Laverty JT et al. (2016))
+- **Three-Dimensional Learning Assessment Protocol (3D-LAP)**: The 3D-LAP is a protocol for characterizing whether an assessment task has the potential to elicit evidence of student engagement with the three dimensions of three-dimensional learning: scientific practices, crosscutting concepts, and disciplinary core ideas. It uses individual questions or clusters of related questions ("tasks") as the unit of analysis. Scientific practices each have 2-4 criteria all of which must be met; crosscutting concepts have brief descriptions; core ideas have lists of ideas of which at least one must appear. The article applies it to code the four most common physics concept inventories. (James T. Laverty et al. (2017))
 
 ### Claims
 - [The revised three-question cluster is claimed to be more capable of assessing engagement with a scientific practice, crosscutting concept, and core idea than the traditional item](../claims/revised-cluster-more-capable-three-dimensional-assessment.md) [+W]
 - [Traditional assessment items almost never meet the scientific-practice criteria requiring evidence of student reasoning](../claims/reasoning-criterion-almost-never-met-traditional-items.md) [+W]
 - [The 3D-LAP distinguishes exams with potential to elicit three-dimensional learning from those that do not](../claims/3d-lap-distinguishes-exams.md) [+M]
 - [Inter-rater agreement for 3D-LAP coding meets a 75% threshold across disciplines and dimensions](../claims/3d-lap-inter-rater-agreement.md) [+M]
+- [Few tasks on the four most common physics concept inventories have the potential to elicit evidence of all three dimensions of three-dimensional learning](../claims/concept-inventories-few-three-dimensional-tasks.md) [+M]
+- [Concept inventories elicit core ideas much more often than scientific practices or crosscutting concepts](../claims/concept-inventories-bias-toward-core-ideas.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -39,3 +42,4 @@ A protocol developed by Cooper and colleagues for evaluating the potential of ed
 - James T. Laverty, Stuart H. Tessmer, Melanie M. Cooper, and Marcos D. Caballero. (2014). Engaging Physics Faculty in Course Transformation. https://arxiv.org/abs/1407.3260
 - James T. Laverty, Melanie M. Cooper, and Marcos D. Caballero. (2015). Developing the Next Generation of Physics Assessments. https://arxiv.org/abs/1507.00663v2
 - Laverty JT, Underwood SM, Matz RL, Posey LA, Carmel JH, Caballero MD, Fata-Hartley CL, Ebert-May D, Jardeleza SE, Cooper MM. (2016). Characterizing College Science Assessments: The Three-Dimensional Learning Assessment Protocol. PLoS ONE 11(9): e0162333. https://doi.org/10.1371/journal.pone.0162333
+- James T. Laverty and Marcos D. Caballero. (2017). What are we assessing? An analysis of the most common concept inventories in physics. arXiv preprint. https://arxiv.org/abs/1711.03191

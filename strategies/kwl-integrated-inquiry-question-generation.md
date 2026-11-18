@@ -49,6 +49,7 @@ This strategy integrates the Know–Want–Learn chart into the phases of inquir
 - [Question Formulation Technique](question-formulation-technique-qft.md)
 - [Scaffold question formulation and active help-seeking in AI-supported tutoring systems](scaffold-question-formulation-ai-help-seeking.md)
 - [Implement four-phase scientific inquiry with conceptual change in physics lessons](four-phase-scientific-inquiry-conceptual-change-strategy.md)
+- [Inquiry-based primary-school physics lesson structure alternating guided discussion, hands-on experiments, and a closing synthesis game](primary-inquiry-hands-on-synthesis-game-strategy.md)
 
 ## Examples
 -

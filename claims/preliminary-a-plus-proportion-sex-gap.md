@@ -49,3 +49,4 @@ Descriptive preliminary analysis of course scores from 37 courses in the Clinica
 - [Change in anxiety across the semester is negatively correlated with course grade and GPA for male students but not female students](anxiety-change-performance-correlation-males.md) — related
 - [Female physiotherapy students achieve higher GPAs than male students](female-students-higher-gpa-physiotherapy.md) — related
 - [Female students earn lower grades than equivalently prepared male counterparts in most courses studied (β −0.021 to −0.133; up to 0.303 grade points lower)](gender-gap-upper-level-life-science-courses.md) — related
+- [Sample 1 female students earned somewhat higher course grades than male students despite lower FCI scores](fci-female-course-grades-higher.md) — related

@@ -54,3 +54,4 @@ Descriptive analysis of interviews with 10 students, triangulated with student a
 - [Clinical teachers judged the haptics software's available learning activities excessive for the required competence and curriculum time](haptics-tasks-exceed-required-competence.md) — related
 - [Willingness to learn was the leading competency in the can-do attitude domain](hst-willingness-to-learn-leading-cando-competency.md) — related
 - [A majority of residents (80.0%) choose extracurricular educational topics based on recent clinical encounters](topics-chosen-from-clinical-encounters.md) — related
+- [Authors judge the revised tiered scheme successful, with advanced tasks rewarding and learnable by choice](authors-judge-tiered-scheme-works-student-feedback.md) — related

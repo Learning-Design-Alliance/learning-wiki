@@ -56,3 +56,5 @@ Case study of a four-student homework group videotaped while solving a French an
 - [Disorder and chaos metaphors do productive work for students in making sense of diffusion and osmosis](disorder-metaphor-productive-diffusion-osmosis.md) — related
 - [Finding the right visual metaphors was key to students interpreting scientific concepts accurately without being too literal](metaphor-finding-key-art-science-interpretation.md) — related
 - [Students fail to transfer the superposition principle from classical contexts to particle waves and treat stationary states as the only allowed wave functions](superposition-lateral-transfer-difficulty.md) — related
+- [Students misapply object-based resources such as part-for-whole and dying away when reasoning about wave propagation and superposition](object-resources-misapplied-to-waves.md) — related
+- [Interaction with physicist tutors is where most learning takes place in masterclasses](physicist-tutors-central-to-masterclass-learning.md) — related

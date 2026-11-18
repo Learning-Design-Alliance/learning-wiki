@@ -47,3 +47,4 @@ Midterm physics grades by group (Table 6) in the same course; the authors report
 ## Related Claims
 - [On the difficult problem, the notes-and-textbook group outperformed the worked-example group on the transfer (midterm) task despite lower self-diagnosis scores](minimal-support-group-outperformed-worked-example-on-transfer.md) — reports the opposite
 - [For the conventional problem, only the minimal-support group showed the correlation pattern of a meaningful intervention (SD predicting transfer)](minimal-support-meaningful-self-diagnosis-quiz7.md) — related
+- [Introductory-level students did not perceive the quiz and midterm problems as similar, suggesting the midterm was a far rather than near transfer problem that may explain the poor overall performance](students-perceive-isomorphic-problems-as-different.md) — reports the opposite

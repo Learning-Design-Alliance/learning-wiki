@@ -75,3 +75,4 @@ ANOVA comparing pre- and post-test score gains by course-year group (56 students
 - [Second-year students reported more first aid training and more tetanus-status inquiry than first-years, but knowledge differences were not consistent across domains](academic-year-differences-dental-trauma-inconsistent.md) — related
 - [Reported competency improvements did not differ significantly by course level (basic or advanced) or profession (doctor or nurse)](no-course-profession-interaction-competency-gains.md) — related
 - [No significant differences in performance or ratings between lower-year (first and second) and higher-year (third and fourth) medical students](no-year-level-differences-performance-ratings.md) — related
+- [The face-to-face tutorial equated Post-Test scores at low and medium difficulty, but With-OnLabs students scored higher in the high-difficulty group](onlabs-posttest-advantage-high-difficulty-only.md) — related

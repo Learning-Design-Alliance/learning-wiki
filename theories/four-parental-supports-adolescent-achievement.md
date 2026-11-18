@@ -49,6 +49,7 @@ The brief presents a framework of four supports present when adolescents do bett
 ## Examples
 
 - [Provide parents with concrete direction and materials for supporting their adolescent's academic work at home](../strategies/concrete-academic-direction-for-parents.md)
+- [Encourage parents to purchase more educational resources and improve the home learning environment](../strategies/encourage-parents-home-educational-resources-taiwan.md)
 
 ## Key Sources
 - Roderick, M., Stone, S., with Arney, M., Chiong, J., DaCosta, K., & Waxman, E. (1998). Changing Standards, Changing Relationships: Building Family-School Relationships to Promote Achievement in High Schools. Consortium on Chicago School Research. https://ccsr.uchicago.edu/publications/changing-standards-changing-relationships-building-family-school-relationships-promote

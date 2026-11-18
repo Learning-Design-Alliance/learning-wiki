@@ -57,3 +57,4 @@ Registrar final course grades for 31 classes (1949 students), ACT-adjusted via t
 - [Middle school students' astronomy ranking-task performance is significantly stratified by gender, with female students scoring 15–20% lower on average](niaq-gender-stratification-astronomy.md) — related
 - [Course grades stratify by orientation in favor of framework orientation, but the difference is statistically significant in S14 only and the trend is tentative across semesters](framework-orientation-higher-course-grades-tentative.md) — related
 - [Gateway first-year STEM lecture courses show grade penalties averaging -0.41 and gendered performance differences averaging -0.18, roughly 10% of course point totals](gateway-stem-gpd-ten-percent.md) — related
+- [Sample 1 female students earned somewhat higher course grades than male students despite lower FCI scores](fci-female-course-grades-higher.md) — reports the opposite

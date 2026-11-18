@@ -41,6 +41,7 @@ The article recommends that mathematics educators sequence instruction by elemen
 
 - [A five-question research agenda for one-step equation learning and instruction](one-step-equations-research-agenda.md)
 - [Scaffolded Problem Sequencing](scaffolded-problem-sequencing.md)
+- [Teach longitude derivation in two consecutive steps: first a Longitude Clock exercise with five time readings, then plotting seven positions from Cook's second voyage](two-step-longitude-clock-activity.md)
 
 ## Examples
 -

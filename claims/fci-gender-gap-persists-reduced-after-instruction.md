@@ -52,3 +52,4 @@ Post-instruction comparison of male and female mean FCI scores in the same match
 - [Male students outperform female students on practically all individual FCI items, before and after instruction](males-outperform-on-almost-all-fci-items.md) — related
 - [Approximately half of the female students in each cohort start in the lowest pre-instruction FCI performance quartile](half-female-cohort-lowest-fci-quartile.md) — related
 - [Illustrative FCI items on falling and thrown objects show item gender gaps that persist after instruction](persistent-item-gender-gaps-fci-items-2-13-23.md) — a narrower finding that bears on this claim
+- [Instruction reduced many pretest gender differences on FCI items but failed to close the gap for items 14, 21, 22, 23, and 27](fci-instruction-reduces-pretest-gap-not-five-items.md) — a narrower finding that bears on this claim

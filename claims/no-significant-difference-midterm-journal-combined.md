@@ -62,3 +62,5 @@ One-way ANOVA results for these measures: mid-term exam F = .38, p = .68; journa
 - [Introducing a mid-term check on day 8 of online ligation practice did not significantly increase examination scores](midterm-check-no-significant-score-increase.md) — related
 - [Hybrid-section students who used both audio and visual components of the online lecture reported higher midterm grades than those who used only the visual component](audio-use-associated-higher-midterm-grades.md) — related
 - [No significant differences in exam performance or overall instruction and technology ratings across videoconference/webcast and co-located/dispersed conditions](no-exam-rating-differences-four-distance-conditions.md) — related
+- [An ANOVA F test across the four sections finds statistically significant evidence that not all section means are equal (p = 0.002863)](anova-section-means-unequal-it341.md) — reports the opposite
+- [Mid-semester scores differ significantly between some pairs of the four course sections, with section 02 differing significantly from sections 01, 04 and DL](welch-t-test-section-pair-differences-it341.md) — related

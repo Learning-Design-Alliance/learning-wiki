@@ -35,7 +35,7 @@ sources:
 # Multiple Methods of Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 58 claims (36 for, 20 mixed, 2 against) · 64 studies (17 causal, 12 associational, 10 review, 8 theoretical, 7 design, 5 quant-synthesis, 5 qualitative), `q1`–`q4` · 5 of 64 report an effect size · 52 claims rest on one study
+> **Evidence** · 60 claims (38 for, 20 mixed, 2 against) · 65 studies (17 causal, 13 associational, 10 review, 8 theoretical, 7 design, 5 quant-synthesis, 5 qualitative), `q1`–`q4` · 5 of 65 report an effect size · 54 claims rest on one study
 
 ## Conditional relationship
 
@@ -168,6 +168,8 @@ Relevant claims read against the model that do not change it, and off-topic clai
 - [A relatively high percentage of correct-choice-incorrect-explanation (CI) answers appeared across many problems, revealing false positives invisible to answer-only scoring](../claims/high-percentage-ci-answers-free-response.md) [+W] — attached 2026-11-17 from Beth Thacker et al. (2011), which proposed "Use free-response assessments requiring shown work and explained reasoning alongside conceptual inventories to evaluate introductory instruction".
 - [In FR and MC/FR formats, a large share of introductory physics students choose the correct answer but cannot correctly explain their reasoning or show calculations (CI answers)](../claims/correct-choice-incorrect-explanation-common-in-fr-formats.md) [+W] — attached 2026-11-17 from Beth Thacker et al. (2012), which proposed "Include free-response questions requiring shown work and explained reasoning in courses dominated by MC assessment, because FR yields information on thinking processes MC cannot provide".
 - [Most students who computed the network correctly did so without demonstrating deeper conceptual understanding of series and parallel combinations](../claims/computation-without-conceptual-understanding.md) [+W] — attached 2026-11-17 from Abid H. Mujtaba (2016), which proposed "Couple limited-choice and computational exam questions with descriptive questions to probe deeper conceptual understanding".
+- [The section whose final exam combined all four question formats had the highest final exam median, while the essay-only section had the lowest](../claims/combined-format-section-highest-final-exam-median.md) [+W] — attached 2026-11-18 from Islam et al. (2017), which proposed "Combine multiple question formats in course assessments so students can demonstrate knowledge in more than one way"; tests this page's relationship.
+- [Students expressed a preference for combined assessment techniques over a single format](../claims/students-prefer-combined-assessment-formats.md) [+W] — attached 2026-11-18 from Islam et al. (2017), which proposed "Combine multiple question formats in course assessments so students can demonstrate knowledge in more than one way".
 
 ## Objective and learner-valued goal
 

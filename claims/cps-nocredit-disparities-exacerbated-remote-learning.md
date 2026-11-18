@@ -58,3 +58,4 @@ Descriptive analysis of no-credit grade rates by student background among 223,09
 - [As total enrollment shrinks, the shares of English Learners, students with disabilities, and low-income students are growing, concentrating higher-need populations in districts with less funding](rising-need-share-amid-shrinking-enrollment.md) — related
 - [Socio-economic inequality in learning increased during the pandemic for most estimates, across subjects, grades and pandemic stages](covid-learning-inequality-increased-low-ses.md) — possibly the same claim (merge candidate)
 - [SES is negatively associated with children's cognitive and academic performance, leading to long-term educational and economic disparities](ses-negative-association-cognitive-academic.md) — related
+- [In Singapore, MOOCs form 12% of all SkillsFuture Credit-eligible courses and about 6% of Singaporeans have used their credits on MOOCs, mostly aged 25 to 39](skillsfuture-credits-mooc-uptake.md) — related

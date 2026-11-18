@@ -70,6 +70,7 @@ Scaffolded questioning operationalizes [Scaffolding](../principles/scaffolding.m
 - [Scaffolding storytelling: guiding a child to create their own story about new material through open-ended questions, hints, and validation](scaffolding-storytelling-strategy.md)
 - [Use varied research question types, including asking students about answers they would not naturally choose, to access knowledge not revealed by select-and-justify tasks](varied-question-types-research-strategy.md)
 - [Use guiding questions in a Socratic style to break research tasks into smaller steps and steer discussion](socratic-guiding-questions-research-tasks.md)
+- [Step-by-step guided analysis of real satellite data with embedded questions](step-by-step-real-satellite-data-analysis-strategy.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — small groups take turns leading discussion using trained question prompts (predict, clarify, question, summarize), with the teacher modeling and fading over roughly 20 sessions.

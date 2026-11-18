@@ -49,3 +49,5 @@ Separate analysis of FY (N = 592 open-ended, 3487 guided) and BFY (N = 553 open-
 - [Beyond-first-year students and first-year physics majors score significantly more expert-like than their comparison groups, supporting concurrent validity](eclass-concurrent-validity-course-level-major.md) — related
 - [Guided-lab-only courses show a small significant negative shift in E-CLASS scores over a semester](guided-labs-negative-shift.md) — related
 - [Multi-week projects show no E-CLASS advantage over shorter-term open-ended activities](no-project-advantage-eclass.md) — related
+- [Beyond-first-year lab students' overall E-CLASS scores do not shift significantly over one semester](bfy-lab-e-class-no-significant-shift.md) — related
+- [Students in Traditional first-year physics labs show a significant negative shift in E-CLASS scores, while students in Transformed courses do not shift significantly](traditional-labs-negative-eclass-shift-transformed-none.md) — related

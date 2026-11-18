@@ -109,3 +109,4 @@ Table 6 summary of the author's lab's experimental tests reports the immersion p
 - [Virtual reality anatomy learning showed no consistent advantage: three of four reviewed VR studies favored VR over books, but one found no advantage over static 2D depictions](virtual-reality-anatomy-no-consistent-advantage.md) — related
 - [Atlas of anatomy and textbooks dominated residents' anatomy learning approaches, and no resident used 3D forms](atlas-textbook-dominant-anatomy-learning-approaches.md) — related
 - [Students reported that the 3D simulation improved their visualization and understanding of satellite motion](ejs-3d-simulation-improved-student-visualization.md) — related
+- [Students report significantly higher enjoyment and perceived helpfulness for the VR treatment than for video and static image treatments](student-preference-for-vr-enjoyment-helpfulness.md) — related

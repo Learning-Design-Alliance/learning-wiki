@@ -73,3 +73,4 @@ Correlational analysis over two years of conceptual physics courses relating pre
 - [TUG-K results after traditionally taught physics I showed a practically binomial distribution with probability of the order of 1/5, indicating low effectiveness of traditional instruction](traditional-instruction-binomial-1-5-ineffective.md) — related
 - [Pretest scores correlate positively with learning pace, but posttest scores show no such correlation, indicating slower students catch up when given more time and content](pretest-posttest-pace-correlation-equalization.md) — related
 - [Normalized gain g is positively biased in favor of populations with higher pretest scores](normalized-gain-biased-favoring-high-pretest-populations.md) — related
+- [The CURrENT pre-test (54.3%, N=298) is a meaningful indicator of incoming preparation, correlating with CUE post-test scores and prior GPA](current-pretest-indicates-preparation.md) — related

@@ -41,7 +41,8 @@ The article recommends using the two-dimensional taxonomy not only to choose a f
 - [Instructional Video Style Taxonomy Two Dimensions](../theories/instructional-video-style-taxonomy-two-dimensions.md)
 
 ## Related Strategies
-- 
+
+- [Explore unexplored taxonomy quadrants by combining artificial characters with digital media and augmented reality](explore-artificial-characters-digital-media-quadrants.md)
 
 ## Examples
 -

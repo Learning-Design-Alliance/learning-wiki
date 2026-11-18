@@ -54,3 +54,4 @@ Anonymous end-of-rotation survey collected over nine months (97 surveys); studen
 - [Classic lectures were the single most preferred whole-block format among surveyed students, ahead of PBL](classic-lectures-most-preferred-whole-block.md) — reports the opposite
 - [Students in a large analytical chemistry course preferred synchronous videoconference lectures over pre-recorded asynchronous lectures](students-prefer-synchronous-lectures-large-course.md) — related
 - [In a branching virtual patient for PBL, the majority of responding undergraduate medical students preferred text-based scenarios over video-based ones](vp-pbl-majority-prefer-text-over-video.md) — related
+- [Students expressed a preference for combined assessment techniques over a single format](students-prefer-combined-assessment-formats.md) — related

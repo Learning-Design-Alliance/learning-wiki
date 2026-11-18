@@ -54,3 +54,4 @@ The review reports, citing Ireson and Ayene et al., that cluster analysis of exi
 - [Students fail to coordinate the multiple, ontologically conflicting descriptions embedded in physicists' language, which may produce patterns interpreted as misconceptions](students-fail-to-coordinate-conflicting-descriptions.md) — related
 - [Think-aloud interviews with 15 upper-level undergraduate and graduate students identified common difficulties with single-photon MZI concepts](think-aloud-interviews-mzi-common-difficulties.md) — related
 - [Students fail to transfer the superposition principle from classical contexts to particle waves and treat stationary states as the only allowed wave functions](superposition-lateral-transfer-difficulty.md) — related
+- [Students misapply object-based resources such as part-for-whole and dying away when reasoning about wave propagation and superposition](object-resources-misapplied-to-waves.md) — related

@@ -51,3 +51,4 @@ Spearman rho analysis in the survey study (n = 72) of perceived difficulty again
 - [Exam-level AI difficulty correlations with student performance are directionally consistent but weaker and only exploratory](exam-level-ai-difficulty-correlation-exploratory.md) — related
 - [The negative AI-difficulty–performance correlation is stable across exposure-discount values 0 to 0.40, and is strongest with no adjustment](exposure-discount-sensitivity-stable-correlation.md) — related
 - [Group membership showed weak negative Pearson correlations with knowledge score and perceived interest](weak-negative-correlations-group-membership.md) — related
+- [Pretest scores correlate moderately with game score and finished levels, and all performance predictors negatively correlate with perceived game difficulty](pretest-correlations-game-score-difficulty.md) — related

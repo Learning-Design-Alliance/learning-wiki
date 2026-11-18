@@ -61,3 +61,4 @@ This is the authors' interpretation section on validation benefits, not a tested
 - [Iterative prompt refinement and expert pilot-testing may partly explain favorable LLM virtual patient output quality](iterative-prompt-refinement-expert-testing-improves-output.md) — related
 - [Iterative validation of ViMAP models against a real-world ramp scenario teaches students initial conditions and model refinement](vimap-phase2-model-validation-initial-conditions.md) — a narrower finding that bears on this claim
 - [Professors initially employed systematic problem-solving heuristics (visualizing, considering conservation laws, examining limiting cases) that students rarely used](expert-systematic-heuristics-under-intuition-failure.md) — related
+- [In the particle repulsion exercise, students' energy-conservation calculation of closest approach agrees well with the iterative program](repulsion-closest-approach-agrees-iterative.md) — related

@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 65 claims (45 for, 20 mixed) · 59 studies (35 causal, 7 review, 6 quant-synthesis, 5 associational, 3 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 15 of 59 report an effect size · 60 claims rest on one study
+> **Evidence** · 66 claims (46 for, 20 mixed) · 60 studies (35 causal, 7 review, 6 quant-synthesis, 5 associational, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 15 of 60 report an effect size · 61 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -101,6 +101,7 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [Interns learning blood cell morphology with an interactive multimedia eBook achieved significantly better post-test scores than interns learning with a traditional PowerPoint atlas](../claims/ime-ebook-better-posttest-than-powerpoint.md) [+W] — attached 2026-11-09 from Hsiao Chih-Cheng et al. (2016), which proposed "SimMAGIC interactive multimedia eBook atlas of blood cell morphology"; tests this page's relationship.
 - [Interns using the interactive multimedia eBook reported more positive attitudes, enjoyment, perceived skill support, intuitiveness and confidence than PowerPoint users](../claims/ime-ebook-more-positive-attitudes-than-powerpoint.md) [+W] — attached 2026-11-09 from Hsiao Chih-Cheng et al. (2016), which proposed "SimMAGIC interactive multimedia eBook atlas of blood cell morphology".
 - [Interactive gravity simulations with student-proposed models helped fifteen grade 11 students understand that a mass creates the gravitational field and potential, which paper representations had not made clear](../claims/gravity-simulation-shows-mass-creates-field-grade11.md) [+W] — attached 2026-11-17 from Loo Kang Wee (2020), which proposed "Epub3 electronic book-chapter prototypes on Simple Harmonic Motion and Gravity for the Singapore-Cambridge A-level"; tests this page's relationship.
+- [Sighted classmates appreciated the additional tactile, 3D graphical and oral-explanation accommodations made for a blind student](../claims/sighted-students-appreciated-tactile-aids.md) [+W] — attached 2026-11-18 from Holt et al. (2018), which proposed "Sonification of scientific data and detector signals using LoggerPro, MATLAB, and Mathematica".
 
 ## The evidence by question
 
@@ -128,6 +129,7 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [Deliver video-based listening exercises through a structured online platform with limited replay attempts](../strategies/moodle-video-listening-exercises.md)
 - [Integrate animated video education into pre-procedural patient education](../strategies/animated-video-preprocedural-education-strategy.md)
 - [Use parallel, standardized interactive computer presentations with multimodal demonstrations for technique-skill training](../strategies/parallel-standardized-computer-presentations-strategy.md)
+- [Embed the navigation activity in a historical and multimedia context using documentaries, oral presentations and cross-curricular links](../strategies/navigation-history-multimedia-context.md)
 
 ## Key Sources
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)

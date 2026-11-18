@@ -68,3 +68,4 @@ Review of secondary analyses of the PISA 2003 international assessment across 41
 - [Students with higher initial achievement in German benefited more from higher class mean achievement levels](german-class-mean-achievement-benefits-high-initial-achievers.md) — related
 - [BFLPE is stronger on the regular class level and strongest on the domain-specific math class level](math-class-strongest-bflpe-course-tracking.md) — a narrower finding that bears on this claim
 - [Prior knowledge, working memory capacity and academic self-concept positively predicted, and socioeconomic status negatively predicted, Science and Technology performance](socio-cognitive-predictors-science-performance.md) — related
+- [High-IAS classes started with significantly lower average pre-instruction ability than low-IAS classes (Cohen's d = 0.49)](high-ias-lower-pre-instruction-ability.md) — related

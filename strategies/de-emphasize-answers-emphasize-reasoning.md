@@ -87,6 +87,7 @@ Requiring learners to explain and justify their steps triggers self-explanation,
 - [When teaching Galileo and the right answer, also teach Riccioli and the wrong answer](pair-galileo-with-riccioli-strategy.md)
 - [Use varied research question types, including asking students about answers they would not naturally choose, to access knowledge not revealed by select-and-justify tasks](varied-question-types-research-strategy.md)
 - [Guide iteration with diagnostic questioning after failed tests](diagnostic-questioning-after-failed-tests.md)
+- [Ask teachers why a student might give an answer rather than what is wrong with it, to focus attention on the student's construction of ideas](ask-why-might-student-give-answer.md)
 
 ## Related Elements
 - [Articulation](../elements/articulation.md) — the mechanism by which reasoning becomes visible and discussable

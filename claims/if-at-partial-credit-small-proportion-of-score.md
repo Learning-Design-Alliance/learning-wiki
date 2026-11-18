@@ -51,3 +51,4 @@ Score decomposition of the IF-AT final exam: the mean was 67% but "without parti
 - [Intra-testlet items were slightly more difficult than stand-alone questions (p′ = 0.69 ± 0.15 vs 0.75 ± 0.15)](intra-testlet-items-slightly-more-difficult.md) — related
 - [Within the ICB course, students in the bottom quartile of online textbook use scored significantly lower on course exams than top-quartile users](icb-textbook-use-dosage-exam-correlation.md) — related
 - [Partial credit in integrated testlets is granted in a discriminating manner, with top-half students converting more available partial credit than bottom-half students](it-partial-credit-discriminating.md) — related
+- [In Singapore, MOOCs form 12% of all SkillsFuture Credit-eligible courses and about 6% of Singaporeans have used their credits on MOOCs, mostly aged 25 to 39](skillsfuture-credits-mooc-uptake.md) — related

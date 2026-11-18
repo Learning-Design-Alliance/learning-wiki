@@ -47,3 +47,4 @@ A methodological assertion stated without supporting data or argument detail, of
 ## Related Claims
 - [The EPIC evaluation baseline report compares student characteristics across the program's three partners and compares award-determination data with data on all students in the awarded schools](epic-baseline-compares-partner-student-characteristics-and-award-data.md) — related
 - [Probability-based knowledge acquired under speed versus accuracy instructions is comparable when tested with equal speed-accuracy emphasis](acquired-probability-knowledge-resistant-to-instructions.md) — a narrower finding that bears on this claim
+- [The educational value of any medium is relative: it depends on how it is used, the characteristics of the students, and the context of use](medium-educational-value-relative-to-use-and-context.md) — a narrower finding that bears on this claim

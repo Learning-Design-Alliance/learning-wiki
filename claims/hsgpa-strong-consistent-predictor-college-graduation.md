@@ -54,3 +54,4 @@ Hierarchical logistic models of six-year college graduation for 17,753 CPS four-
 - [For four-year (rather than six-year) graduation, ACT scores are slightly predictive but their coefficient is one-sixth the HSGPA coefficient](act-weakly-predicts-four-year-graduation.md) — related
 - [Increasing high school GPA by 0.4 points has a larger impact on four-year college graduation than increasing ACT by 2 points for CPS students of all academic qualifications](gpa-increase-outperforms-act-for-college-graduation.md) — related
 - [Higher HSGPA and higher mathematics and chosen-subject matura scores significantly increase the predicted probability of graduation.](hsgpa-math-chosen-subject-increase-graduation-probability.md) — related
+- [High school performance and standardized test scores showed little signal for predicting STEM attrition, in contrast to previous research](pre-college-measures-weak-signal-stem-attrition.md) — related

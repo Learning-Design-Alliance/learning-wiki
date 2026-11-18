@@ -67,3 +67,4 @@ Correlational analysis (Table 8) across all groups: PRE quiz vs. SD r = 0.277 (p
 - [Self-diagnosis interventions reduced the gap between low and high achievers on the difficult problem, but the diagnosis was not meaningful for any group](self-diagnosis-reduced-achievement-gap-not-meaningful-quiz6.md) — related
 - [For the conventional problem, only the minimal-support group showed the correlation pattern of a meaningful intervention (SD predicting transfer)](minimal-support-meaningful-self-diagnosis-quiz7.md) — related
 - [Only the minimal-scaffolding group showed a positive correlation between physics self-diagnosis scores and midterm scores](positive-sd-midterm-correlation-only-minimal-scaffold-group.md) — related
+- [Without self-diagnosis, the gap between low and high prior-knowledge students persists: the control group shows a significant correlation between quiz and transfer scores](control-group-quiz-transfer-correlation-gap-persists.md) — related

@@ -73,3 +73,4 @@ Observational density-distribution analysis (Fig. 5) of overall GPA versus ASTR1
 - [Clark Honors College students average upper GPA 3.7 versus 3.2 overall, suggesting elite-university grades of B+/A- are not unreasonable grade inflation](honors-college-grade-inflation-estimate.md) — related
 - [Mathematics and physics show modest evidence of a cognitive threshold: no student with SAT-M below roughly 600 attained GPA above 3.5](cognitive-threshold-math-physics-satm-600.md) — related
 - [Natural science majors score significantly higher in the objective-graded astronomy course (mean 61±13) than other majors, whose mean scores are identical at 55±12](natural-science-majors-score-higher-intro-astronomy.md) — related
+- [PER research subjects are better prepared mathematically than the overall population of introductory physics students](per-subjects-stronger-math-preparation.md) — related

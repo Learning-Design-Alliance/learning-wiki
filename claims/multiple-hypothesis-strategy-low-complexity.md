@@ -51,3 +51,4 @@ The review reports Quinn and Alessi's experiment with a disease-spread simulatio
 - [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](guidance-improves-inquiry-learning-outcomes.md) — related
 - [KLI complexity-matching hypothesis: instructional principles of a given complexity are effective for knowledge components of equal or greater complexity but not less complex ones](kli-complexity-matching-hypothesis.md) — related
 - [The authors hypothesize that use of good strategies when building science models is linked to better learning outcomes on science and CT concepts](good-strategies-linked-to-better-outcomes-hypothesis.md) — related
+- [The Google Trends class exhibited 'hypothesis-perplexity', making no hypotheses throughout their researches, unlike the schoolyard class](gt-hypothesis-perplexity.md) — related

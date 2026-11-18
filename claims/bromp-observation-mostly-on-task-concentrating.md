@@ -54,3 +54,4 @@ Observational study using the BROMP protocol across four sessions; researchers c
 - [Student disengagement in adaptive learning platforms is linked to technical problems, boredom with long or irrelevant content, insufficient challenge and feedback, and declining engagement over time](disengagement-factors-adaptive-platforms.md) — related
 - [Automated detectors of disengaged behaviors inferred from interaction-log data alone reached AUC over 0.8 for gaming and correlated 0.55 with observed off-task behavior](sensor-free-disengagement-detectors-accuracy.md) — related
 - [Digital game loading time caused issues but students had no significant navigation problems once the game loaded.](hero-elementary-game-loading-time-navigation-issues.md) — related
+- [Percentage of on-topic ties over time revealed distinct group behaviors, with Group 2 declining toward off-topic and Group 3 staying on-topic](on-topic-percentage-group-differences.md) — related

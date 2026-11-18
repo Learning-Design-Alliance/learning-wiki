@@ -49,3 +49,4 @@ In the picture-title test (five paintings, no time limit), titles were classifie
 - [Earlier studies suggested mature active-learning patterns emerge only in late childhood, but the article attributes this to paradigm limitations](late-emergence-findings-paradigm-limited.md) — related
 - [A smaller percentage of young children pass at age on the group tests than on Kuhlmann's individual tests, with 60 percent versus 78 percent passing at age six](group-vs-individual-passing-at-age-lowell.md) — related
 - [Cool executive function measures show ascending age-related growth across adolescence, with a growth spurt around age 14–15](cool-ef-ascending-growth-adolescence.md) — related
+- [Children from about five years old can begin to comprehend historical time, understood as identifying people, places and objects belonging to different past periods](historical-time-from-age-five.md) — related

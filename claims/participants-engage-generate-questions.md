@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2016
+source_checked: 2026-11-18
 sources:
   - id: c-aa-diget-2016
     resource: "https://doi.org/10.1088/1361-6552/aa550c"
@@ -40,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · design `r1` · `q1`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-18 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Across delivered events, participants immediately engaged with the chart, which generated a wide range of questions about many aspects of nuclear physics. [→ C. Aa. Diget 2016](#c-aa-diget-2016)

@@ -73,3 +73,4 @@ Postsession survey of the intern cohort (postsession response rate 94%, 33 of 35
 - [Students showed high satisfaction with and acceptance of the blended learning concept and NESTOR](high-student-acceptance-blended-learning-nestor.md) — related
 - [Residents report that clinical observation rarely comes with appropriate feedback and that expert staff feedback is scarce and highly valued](lack-of-expert-staff-feedback.md) — related
 - [Students rated the AMSC highly valuable at course end and reported it prepared them for their internships](amsc-student-evaluation-ratings.md) — related
+- [With-OnLabs students responded positively on an ARCS-based satisfaction questionnaire, with nearly all endorsing the Skype session and a majority wanting it before every lab exercise](onlabs-skype-satisfaction-arcs-positive.md) — related

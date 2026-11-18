@@ -74,3 +74,4 @@ Qualitative transcript excerpts from the think-aloud activity "span four diﬀer
 - [An explicit emphasis on modeling gives labs a natural way to integrate systematic-error analysis through model assumptions, idealizations, and refinement](modeling-integrates-systematic-error-analysis.md) — related
 - [Students in the transformed course show preliminary evidence of internalizing modeling practices in later weeks without explicit prompts](preliminary-internalization-later-weeks.md) — related
 - [Students engage in model-based reasoning throughout the troubleshooting process, with EMF phases interacting within a troubleshooting cycle](students-model-based-reasoning-throughout-troubleshooting.md) — related
+- [No assessments of students' modeling ability exist for upper-division physics labs](no-upper-division-modeling-assessments.md) — related

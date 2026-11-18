@@ -48,3 +48,4 @@ Multi-institution comparison of CUE post-test scores across 21 courses and 7 ins
 - [Calculus-based classes with traditional labs and traditional lecture had the lowest, practically zero, post-test and gain scores on the electrostatics problem](traditional-labs-lecture-lowest-free-response-scores.md) — related
 - [Topical time-on-task alone is insufficient to account for the BEMA performance differences between curricula](time-on-task-insufficient-explanation.md) — related
 - [Preliminary CURrENT data indicate transformed curricular materials improve student learning relative to traditional lecture](current-transformed-preliminary-improvement.md) — related
+- [CUE post-test responses showed students shifting from guessing toward representing systems with equations and diagrams and using conceptual rather than long algorithmic approaches](cue-post-test-shift-toward-conceptual-approaches.md) — related

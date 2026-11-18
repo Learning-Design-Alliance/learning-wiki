@@ -67,3 +67,4 @@ ANOVA of MCS pre-test scores in eight regular calculus-based classes (403 males,
 - [In algebra-based courses there is no significant post-test gender difference on the MCS](mcs-no-posttest-gender-difference-algebra-based.md) — related
 - [After traditional instruction, female students in regular calculus-based courses score significantly lower than male students on the MCS post-test](mcs-posttest-gender-difference-calculus-based.md) — related
 - [A significant post-test gender difference favoring males also appears in the honors calculus-based introductory physics course](mcs-posttest-gender-difference-honors.md) — related
+- [Students in calculus-based introductory physics improved from 28% pre-test to 50% post-test on a 30-item magnetism diagnostic but still struggled after instruction](magnetism-diagnostic-pre-post-gains.md) — related

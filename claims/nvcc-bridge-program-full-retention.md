@@ -52,3 +52,4 @@ Reported outcome for one cohort of the NVCC summer bridge program, which refresh
 - [Fall-to-fall retention was significantly higher for the 2015 Summer Bridge cohort than for controls](summer-bridge-fall-to-fall-retention-cohort-2015.md) — related
 - [Summer Bridge participants at a Hispanic-serving community college outperformed non-participants in gatekeeper course pass rates, with gains growing across cohorts](summer-bridge-gatekeeper-pass-rates-hispanic-community-college.md) — related
 - [Summer Bridge participants in cohorts 2014 and 2015 had significantly higher gatekeeper pass rates, semester GPA, and earned credit hours than controls](summer-bridge-significantly-higher-gpa-credit-hours.md) — related
+- [Established bridge programs report high retention: Fisk-Vanderbilt at 80% and the University of Michigan's Imes-Moore applied physics program at 90%](fisk-vanderbilt-imes-moore-retention-rates.md) — related

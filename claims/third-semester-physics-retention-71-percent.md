@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-18
 sources:
   - id: k-mccavit-and-n-e-b-zellner-2015
     resource: "https://doi.org/10.1088/0143-0807/37/6/065702"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Retention from first-semester physics through to third-semester courses (Phys 245: Electronics and Phys 243: Mathematical Methods in Physics I) increased from an aggregate 50% to an aggregate 71% after program implementation. [→ K. McCavit and N. E. B. Zellner 2015](#k-mccavit-and-n-e-b-zellner-2015)

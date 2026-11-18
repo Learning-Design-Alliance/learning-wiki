@@ -75,3 +75,4 @@ Initial linear regression with bootstrapped p-values (1000 samples). Table 4 pri
 - [The final regression model predicting exam points included non-biology GPA, ethnicity/nationality, and treatment, explaining roughly 44% of adjusted variance](regression-model-exam-points-gpa-ethnicity-treatment.md) — related
 - [The regression model based on cumulative GPA explains more variance than the model based on first-year GPA](cumulative-gpa-model-better-fit.md) — related
 - [After adjustment, current GPA and knowledge test score — not learning method — were associated with final statistics achievement](gpa-and-knowledge-test-predict-final-score.md) — related
+- [The final model explains 5% of student-level, 44.8% of school-level, and 13.6% of total variance in math achievement](final-model-variance-explained-taiwan-math.md) — related

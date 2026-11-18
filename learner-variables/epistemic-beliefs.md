@@ -13,7 +13,7 @@ generated:
 # Epistemic Beliefs
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 63 claims (47 show a difference, 12 mixed, 4 no difference) · 39 studies (10 causal, 6 review, 6 qualitative, 6 design, 5 associational, 3 quant-synthesis, 3 theoretical), `q1`–`q3` · 3 of 39 report an effect size · 63 claims rest on one study
+> **Evidence** · 64 claims (47 show a difference, 13 mixed, 4 no difference) · 40 studies (10 causal, 6 review, 6 associational, 6 qualitative, 6 design, 3 quant-synthesis, 3 theoretical), `q1`–`q3` · 3 of 40 report an effect size · 64 claims rest on one study
 
 ## Description
 Epistemic (or epistemological) beliefs are what a learner takes knowledge and knowing to be. Learners who see knowledge as certain, simple and given by authority tend to read conflicting sources less critically and to expect quick answers; learners who see it as tentative and evidence-based integrate sources and argue more. Beliefs are measured by questionnaires and interviews and vary by domain. They predict comprehension of conflicting texts and argumentation, moderate inquiry-based designs, and are an outcome that instruction in the nature of science or in sourcing can change.
@@ -95,6 +95,7 @@ Epistemic (or epistemological) beliefs are what a learner takes knowledge and kn
 - [Jim's seemingly stubborn epistemological stance shifted in response to a contextual cue: a prompt about the sign of g unstuck him quickly and eagerly](../claims/epistemological-stance-shifts-with-contextual-cues.md) [+M] — measured as an outcome of the instruction studied
 - [Immersive inquiry research experiences produced significant gains in teachers' understanding of the nature of science and in their students' understanding](../claims/immersive-research-teacher-nos-gains.md) [+M] — measured as an outcome of the instruction studied
 - [Student buy-in matters for PER-based pedagogies: explicitly discussing that struggling is integral to learning, and improving students' attitudes and beliefs about physics, supports motivation and learning](../claims/student-buy-in-struggle-physics-beliefs.md) [+M] — measured as an outcome of the instruction studied
+- [The attitudinal-gain advantage of Framework-oriented students was prominent only within Health Science majors, not Biology or other Natural Science majors](../claims/orientation-gain-effect-limited-to-health-majors.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Can instruction shift learners' views of how scientific knowledge is made and judged, and do the shifts last?* [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](../claims/both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) [+M]

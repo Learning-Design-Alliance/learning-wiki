@@ -50,3 +50,4 @@ Finding from the observational analysis of teachers’ pedagogical activity. The
 - [Comprehension instruction in resource rooms consisted mostly of teacher question-and-answer monitoring rather than explicit comprehension-strategy instruction](comprehension-monitoring-dominates-strategy-instruction-scarce.md) — related
 - [Writing to the teacher led students to treat writing as evaluation and reproduce transmitted content rather than construct their own knowledge](teacher-audience-promotes-evaluation-not-construction.md) — related
 - [Undergraduate lecture experience transmits a normative belief that lecture is the accepted way to teach](undergraduate-lecture-enculturation-transmits-lecture-norm.md) — related
+- [Middle-school students report question-and-answer methods as the most used and most liked instructional strategy, with lectures still popular](question-answer-most-used-liked-strategy.md) — related

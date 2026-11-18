@@ -49,3 +49,4 @@ DEAF analysis applied to a single question probing graphical interpretation of v
 - [A concept probing displacement from the velocity vs time graph showed full evolution to maximum but then regressed to earlier states, indicating no definitive learning](p3-full-evolution-then-regression.md) — related
 - [DEAF analysis of tutorial-based active instruction with 20 engineering students did not show the tutorial methodology as the most effective, falsifying the working hypothesis](tutorial-methodology-hypothesis-falsified-deaf.md) — related
 - [Performance curves across 10 consecutive test applications were generally flat, with scores improving slightly then decaying and oscillating between sessions](flat-performance-curves-ten-applications.md) — related
+- [ENEM 2012_Q60 shows completers still confuse position with velocity and struggle to represent motion graphically](enem-position-velocity-confusion-2012-q60.md) — related

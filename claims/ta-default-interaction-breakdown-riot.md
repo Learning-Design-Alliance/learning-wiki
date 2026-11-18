@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-18
 sources:
   - id: eric-matthew-hickok-2016
     resource: "https://doi.org/10.48550/arXiv.1602.07740"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In over twenty hours of RIOT observations across Physics 2A, 50, 50W, and 51, TAs spent just under a third of time talking at students, less than a fifth talking with or observing, and nearly 45% Not Interacting. [→ Eric Matthew Hickok 2016](#eric-matthew-hickok-2016)

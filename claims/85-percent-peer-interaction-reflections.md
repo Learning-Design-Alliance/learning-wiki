@@ -49,3 +49,4 @@ Qualitative coding of the Peer Interactions category (84% agreement, kappa 0.67)
 - [70% of students described at least one instance of intentionality in weekly project reflections](70-percent-intentionality-reflections.md) — related
 - [Nearly all peer critique disagreements were resolved, mostly through concession, with co-construction appearing only in soft and mixed disagreements](disagreement-resolution-consensus-concession.md) — related
 - [Students in an upper-division physics lab course with self-chosen group final projects show high levels of project ownership on POS items 1-10](pos-items-1-10-high-ownership-lasers-course.md) — related
+- [Coupling division of labor with collective brainstorming can help balance student agency, instructor mentorship, and peer collaboration on multiweek lab projects](division-of-labor-collective-brainstorming-balance-ownership.md) — related

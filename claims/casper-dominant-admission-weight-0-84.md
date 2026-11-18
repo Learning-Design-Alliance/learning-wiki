@@ -50,3 +50,4 @@ Regression tree analyses (two rounds, second using only GPA and Casper) cross-va
 - [Casper, but not GPA, correlates significantly with OSCE 510, OSCE 540, and multiple fieldwork competencies in placements 2 and 3](casper-significant-correlations-gpa-none.md) — related
 - [Selecting a cohort using Casper-weighted admission scores produced no statistically significant demographic differences from the actually admitted cohort, with about 46% overlap](casper-weighted-selection-no-significant-diversity-change.md) — related
 - [Metric weights reveal each metric's relative importance and expose compensation between metrics, allowing trainees to see how strong performance on one metric offsets weakness in another](metric-weights-reveal-importance-and-compensation.md) — related
+- [Getting the relative weights of admissions variables right matters more than getting the precise shape of the admissions curve correct](weights-matter-more-than-curve-shape.md) — related

@@ -54,3 +54,4 @@ Qualitative co-occurrence analysis of the rule-based case study. Participants wh
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — related
 - [In an open simulation game with wide scope and low distance, second-order interventions effectively elicited second-order responses](open-sg-sol-interventions-elicit-sol-responses.md) — related
 - [Struggling with navigation before debrief instruction preceded students' understanding of integrated care concepts, supporting productive struggle as a mechanism](productive-struggle-mechanism-gps-care.md) — related
+- [Disturbances were frequent and illustrated all three tension types when the new tool was introduced, then reduced over time without disappearing](efh-disturbances-frequent-at-onset.md) — related

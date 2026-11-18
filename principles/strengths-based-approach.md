@@ -194,6 +194,7 @@ Teacher expectations, recognized competence in a familiar form, self-efficacy, p
 - [Professional development in asset-based pedagogies and adult SEL to build culturally affirming environments](../strategies/pd-asset-based-pedagogies-adult-sel-sead.md)
 - [Incorporate discussions of human sex trafficking into required counselor education trauma curriculum and provide targeted training](../strategies/sex-trafficking-training-in-counselor-education.md)
 - [Pair person-first language with an explicit explanation of its rationale rather than expecting language change alone to shift attitudes](../strategies/pair-language-change-with-rationale-explanation.md)
+- [Use group work with written formative feedback to keep every student engaged in computational work](../strategies/group-formative-feedback-computational-engagement.md)
 
 ## Key Sources
 - Garwood, J. D., & Ampuja, A. A. (2019). Inclusion of students with learning, emotional, and behavioral disabilities through strength-based approaches. *Intervention in School and Clinic, 55*(1), 46-51. [https://doi.org/10.1177/1053451218767918](https://doi.org/10.1177/1053451218767918)

@@ -48,3 +48,4 @@ Survey of 141 students on perceived media influence. Overall, 52.2% perceive a r
 - [Positioning personal experience as an epistemic resource supports expansion from inward to outward critical orientations](positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion.md) — related
 - [Students consume news frequently, primarily through social media and television, with a preference for digital over traditional media](student-news-consumption-digital-preference.md) — related
 - [University students in Communication and Education programs show low familiarity with media literacy, media education, and educommunication terms](students-low-familiarity-media-literacy-terms.md) — related
+- [Masterman's seven reasons for media education remain valid and are strengthened in the techno-media society](masterman-seven-reasons-media-education-valid.md) — related

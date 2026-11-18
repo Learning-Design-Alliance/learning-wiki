@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 276 claims (191 show a difference, 59 mixed, 26 no difference) · 172 studies (63 associational, 54 causal, 18 review, 15 qualitative, 10 design, 10 theoretical, 2 quant-synthesis), `q1`–`q4` · 39 of 172 report an effect size · 273 claims rest on one study
+> **Evidence** · 277 claims (192 show a difference, 59 mixed, 26 no difference) · 173 studies (63 associational, 54 causal, 18 review, 15 qualitative, 11 design, 10 theoretical, 2 quant-synthesis), `q1`–`q4` · 39 of 173 report an effect size · 274 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -311,6 +311,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Mixing ATLAS and CMS masterclass institutes in the same videoconference confused students, who did not understand the other experiment's terminology and could lose interest](../claims/mixing-atlas-cms-institutes-videoconference-confusion.md) [+W] — measured as an outcome of the instruction studied
 - [Students found working with the interactive simulation more enjoyable than the same activity with printed screenshots](../claims/simulation-more-enjoyable-than-screenshots.md) [+M] — measured as an outcome of the instruction studied
 - [Students find online feedback more enjoyable and useful than traditional feedback in undergraduate mathematical assessment](../claims/online-feedback-more-enjoyable-useful-than-traditional.md) [+M] — measured as an outcome of the instruction studied
+- [A dual A/B-marks aggregation scheme tracked advanced performance but confused students and produced low-mark anxiety](../claims/ab-marks-scheme-confusion-and-anxiety.md) [+M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

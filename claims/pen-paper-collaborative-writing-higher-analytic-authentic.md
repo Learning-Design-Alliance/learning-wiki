@@ -48,3 +48,4 @@ LIWC2015 results reported in Table 1 for the same eleven-text comparison: contro
 - [EFL students writing a collaborative essay in Google Docs produce more words than peers writing the same task with pen and paper](google-docs-collaborative-essay-higher-word-count.md) — related
 - [Virtual collaborative writing yields higher clout, emotional tone and function-word scores than face-to-face pen-and-paper collaborative writing](telecollaborative-writing-higher-clout-tone-function-words.md) — related
 - [Inter-rater scoring of the writing tests showed good correlation-coefficient reliability](inter-rater-reliability-writing-scores.md) — related
+- [LIWC analysis gives each GRF coding category a distinct linguistic fingerprint across Analytical Thinking, Authenticity, and Emotional Tone](liwc-distinct-fingerprints-coding-categories.md) — related

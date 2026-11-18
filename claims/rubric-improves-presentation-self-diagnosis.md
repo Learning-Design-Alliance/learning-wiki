@@ -48,3 +48,4 @@ ANCOVA of presentation self-diagnosis grades (means: B 0.42, C 0.10, D 0.12) acr
 ## Related Claims
 - [Rubric-supported presentation self-diagnosis improved presentation self-diagnosis but did not improve midterm solution presentation](presentation-rubric-aids-self-diagnosis-not-midterm-presentation.md) — a broader claim this one bears on
 - [Level of scaffolding significantly affects introductory physics students' physics self-diagnosis performance, with outline-plus-rubric support yielding the highest diagnosis grades](scaffolding-level-affects-physics-self-diagnosis.md) — related
+- [Introductory physics students given a diagnosis rubric and solution outline during in-class self-diagnosis performed significantly better on a subsequent isomorphic midterm problem than a control group](rubric-outline-self-diagnosis-better-midterm-physics.md) — related

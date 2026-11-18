@@ -50,3 +50,6 @@ Cross-case synthesis of three interviewed students (Xinmiao, Mandi, Guanhua) fou
 - [A bigger charge exerts a stronger force, as expressed by students](bigger-charge-stronger-force-student-idea.md) — related
 - [Students express that electric interactions are stronger when charges are closer and that charges have a range of effect](electric-interaction-strength-varies-with-distance.md) — related
 - [Ninth-grade students without formal electric field instruction spontaneously draw arrow diagrams in open-ended comic strip activities](students-spontaneously-draw-arrow-diagrams-preinstruction.md) — related
+- [A student who produced narratives throughout the worksheet expressed ideas of electric charges that increased from earlier to later sections](mengdi-narrative-ideas-increased-across-sections.md) — related
+- [In her first comic-strip narrative, a student mentioned no electricity ideas at all](no-electricity-ideas-in-first-narrative.md) — related
+- [A high school student embedded law-like electrostatic ideas about attraction and collision within his comic-strip narrative](zixuan-embedded-physical-ideas-in-charge-narratives.md) — a narrower finding that bears on this claim

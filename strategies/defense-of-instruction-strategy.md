@@ -53,4 +53,4 @@ Defense of Instruction is the metacognitive practice at the center of every MAST
 -
 
 ## Key Sources
-- Phillips, J. A., McElwain, M. C., & Clemmer, K. W. (2016). Metacognitive Training in Professional Development Can Improve and Sustain Student Achievement. Loyola Marymount University. https://arxiv.org/abs/1607.07856
+- Phillips, J. A., McElwain, M. C., & Clemmer, K. W. (2016). Metacognitive Training in Professional Development Can Improve and Sustain Student Achievement. Loyola Marymount University. https://arxiv.org/abs/1607.07856. [doi:10.48550/arxiv.1607.07856](https://doi.org/10.48550/arxiv.1607.07856)

@@ -52,3 +52,4 @@ Quasiexperimental nonrandomized control-group pretest-posttest study in GEOG 102
 - [The cross-section question showed the highest gain for both groups, with the simulation group's gain (60%) double the paper group's (30%)](cross-section-concept-visual-gain-60-vs-30.md) — a narrower finding that bears on this claim
 - [Computer simulations yield a slightly higher achievement effect than pen-and-paper modelling activities](computer-simulations-slightly-higher-effect-than-pen-and-paper.md) — a broader claim this one bears on
 - [The incentivized group showed a large effect size (Cohen's d = 1.01) in pretest to posttest improvement](large-effect-size-incentivized-group-pre-post-improvement.md) — related
+- [The treatment group improved significantly from pre- to post-test while the control group did not show a significant effect](tg-significant-gain-cg-not-significant-htce.md) — related

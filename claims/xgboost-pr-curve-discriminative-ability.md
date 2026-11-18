@@ -50,3 +50,4 @@ Complementary validation on the testing dataset (Fig. 3c) of the same study; the
 - [A baseline logistic regression model classifies outstanding postgraduate GPA with AUC 0.659 and accuracy 0.825 on a held-out test set](lr-baseline-gpa-classification.md) — related
 - [On the TU/e CS overlap dataset, supervised NLP classifiers (Random Forest, XGBoost) outperform thresholding and zero-shot LLM baselines at detecting course overlap](rf-xgboost-beat-thresholds-and-llms-on-course-overlap.md) — related
 - [TRACE outperforms LSTM, GNN and XGBoost baselines on grade prediction](trace-outperforms-lstm-gnn-xgboost.md) — related
+- [The STEM-affinity graphical model's final-quarter intention classification matches actual STEM graduation with accuracy 0.896, recall 0.999, and precision 0.670](stem-affinity-model-final-quarter-validation.md) — related

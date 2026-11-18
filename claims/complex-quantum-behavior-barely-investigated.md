@@ -54,3 +54,4 @@ The review's synthesis states that "the teaching of complex quantum behavior... 
 - [Students incorrectly time-evolve superposed wave functions with a single phase factor and judge the resulting probability density time-independent](time-development-of-wavefunction-difficulties.md) — related
 - [Graduate students often ignore whether the initial state is an eigenstate of the Hamiltonian when reasoning about time dependence of spin expectation values](students-ignore-stationary-state-condition-spin-expectation-values.md) — related
 - [A need exists for assessment tools covering all major quantum topics suitable for statistical analysis at secondary and lower undergraduate levels](need-assessment-tools-quantum-secondary-lower-undergraduate.md) — related
+- [Quantum cryptography is proposed as a very suitable introductory subject for teaching the fundamental principles of quantum physics](quantum-cryptography-introductory-subject.md) — related

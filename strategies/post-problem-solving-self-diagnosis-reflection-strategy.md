@@ -49,6 +49,7 @@ After lab groups complete a context-rich problem and the instructor outlines the
 - [Provide a self-diagnosis rubric requiring students to explain specific missing details when reviewing their solutions](self-diagnosis-rubric-specific-details-strategy.md)
 - [Provide minimal external support (final answer plus notes/textbook) when the target problem is conventional and textbook-similar, to foster meaningful self-diagnosis](minimal-scaffolding-for-conventional-problem-self-diagnosis.md)
 - [Use week-to-week written reflection rubrics and major-tailored context-rich problems to refine attitudinal categorization](week-to-week-rubric-analysis-strategy.md)
+- [Limit support during self-diagnosis (final answer only, with notes and textbooks) before providing the detailed solution, to promote productive struggle](struggle-first-self-diagnosis-final-answer-only.md)
 
 ## Examples
 -

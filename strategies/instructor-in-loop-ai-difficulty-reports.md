@@ -40,6 +40,7 @@ In this strategy, the instructor first reviews the student's raw attempt history
 ## Related Strategies
 
 - [Human-in-the-loop validation workflow: hold all AI-generated teaching content in unreviewed status until a teacher manually approves it](human-in-the-loop-teacher-validation-workflow.md)
+- [Involve the course instructor in rating and tuning visualization and model parameters](instructor-in-the-loop-visualization-tuning.md)
 
 ## Examples
 -

@@ -111,3 +111,5 @@ Randomised study of 169 second-year medical students comparing 3D VR and 2D lect
 - [Residents across all training years showed high acceptance of 3D training and supported its early introduction in residency](high-acceptance-of-3d-training-residents.md) — related
 - [Students reported that the 3D simulation improved their visualization and understanding of satellite motion](ejs-3d-simulation-improved-student-visualization.md) — related
 - [Students found working with the interactive simulation more enjoyable than the same activity with printed screenshots](simulation-more-enjoyable-than-screenshots.md) — related
+- [Smartphone stereoscopic VR, video, and static 2D image treatments produce no significantly different pre-post gains on electric field direction questions in freshman electrostatics](no-significant-gain-differences-vr-video-images.md) — related
+- [Students report significantly higher enjoyment and perceived helpfulness for the VR treatment than for video and static image treatments](student-preference-for-vr-enjoyment-helpfulness.md) — related

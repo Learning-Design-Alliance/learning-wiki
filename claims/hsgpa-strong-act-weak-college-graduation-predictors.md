@@ -52,3 +52,4 @@ The study's overview contrasts the two measures: "the relationship of HSGPAs wit
 - [HSGPA has a strong, positive relationship with college graduation that does not vary significantly in its linear slope across high schools](hsgpa-strong-consistent-predictor-college-graduation.md) — related
 - [ACT scores weakly predict college graduation, and the school-level variance in the ACT slope (0.192) exceeds the average slope (0.129), so school effects introduce more noise than the ACT signal](act-weak-predictor-noise-exceeds-signal.md) — related
 - [Adding ACT scores to models with HSGPA contributes little to the prediction of college graduation and does not reduce between-school variability](act-adds-little-beyond-hsgpa.md) — related
+- [High school performance and standardized test scores showed little signal for predicting STEM attrition, in contrast to previous research](pre-college-measures-weak-signal-stem-attrition.md) — related

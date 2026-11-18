@@ -75,3 +75,4 @@ Randomised controlled study with 66 medical students (33 per group) comparing a 
 - [Computer-based 3D anatomy tools show conflicting effectiveness: several studies found significantly higher scores with 3D models, but other studies found traditional methods equal or better](computer-based-3d-anatomy-tools-mixed-effectiveness.md) — related
 - [3D reconstructed images improved PGY1 surgical residents' imaging-reasoning accuracy versus 2D CT in a randomized controlled trial](3d-images-improve-pgy1-imaging-reasoning.md) — related
 - [A randomized controlled trial cited by the article found webinar-based and participative self-study learning produced significant and similar knowledge and ability gains](joshi-rct-webinar-vs-participative-learning.md) — related
+- [Students report significantly higher enjoyment and perceived helpfulness for the VR treatment than for video and static image treatments](student-preference-for-vr-enjoyment-helpfulness.md) — related

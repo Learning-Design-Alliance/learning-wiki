@@ -51,3 +51,4 @@ Frequency analysis of wrong answers to the ten open-ended SLPAT questions (writi
 - [Prospective teachers hold more misconceptions about teaching and learning than current faculty both before and after training, and misconceptions decreased only among current faculty](prospective-teachers-more-misconceptions.md) — related
 - [Despite school ray-optics training, most students misconceive lens image formation, imagining the lens as a valve letting light through](lens-image-formation-valve-misconception.md) — related
 - [Many students hold that wind influences the frequency of received sound](wind-influences-frequency-concept.md) — a narrower finding that bears on this claim
+- [Despite research effort since the 1980s, misconceptions research had little impact on physics teaching and little incorporation into didactic materials and teacher training](little-impact-misconceptions-research-on-teaching.md) — related

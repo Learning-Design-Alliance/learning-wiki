@@ -51,3 +51,4 @@ Within the 5-way ANCOVA (N = 4759), all possible interaction terms were initiall
 - [Course focus (skills, concepts, or both) remained a significant predictor of postinstruction E-CLASS scores after adjusting for preinstruction score, major, and gender](ancova-course-focus-predicts-post-eclas.md) — related
 - [After controlling for preinstruction scores, course level, and major, gender significantly predicts postinstruction E-CLASS scores only for first-year students and only for non-physics majors](eclass-ancova-gender-predictor-fy-nonphysics-only.md) — related
 - [Multi-week projects show no E-CLASS advantage over shorter-term open-ended activities](no-project-advantage-eclass.md) — related
+- [A statistically significant interaction between gender and instructional approach indicates the benefit of Transformed courses was larger for women than men](gender-by-instruction-interaction-women-benefit-more.md) — reports the opposite

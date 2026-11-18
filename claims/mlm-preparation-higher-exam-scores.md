@@ -50,3 +50,4 @@ Comparison of common closed-book free-response exams across four semesters of th
 - [MLM-script presentations fall between the other two groups: above the Textbook group but below the MLM group, as multimedia learning theory predicts](mlm-script-intermediate-between-mlm-and-textbook.md) — related
 - [The multimedia learning module advantage over the textbook persists on a retention test administered two weeks after the lessons](mlm-retention-advantage-two-weeks.md) — related
 - [Calculus-based classes with traditional labs and traditional lecture had the lowest, practically zero, post-test and gain scores on the electrostatics problem](traditional-labs-lecture-lowest-free-response-scores.md) — related
+- [CSEM learning gains in the Lecture/Studio-format second-semester IPLS course were strikingly larger than any gains measured in the course's traditional format](csem-gains-lecture-studio-larger.md) — related

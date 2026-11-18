@@ -54,3 +54,4 @@ Model-data fit evaluation preceding the DIF analyses, reported in Table 2. Histo
 - [The MID competency scale showed acceptable model fit except for a mediocre RMSEA](mid-competency-instrument-model-fit.md) — related
 - [Global-fit evidence does not clearly favor unidimensional over multidimensional academic resilience measurement models, as fit-index pass rates diverge by index](dimensionality-evidence-mixed-resilience-scales.md) — related
 - [The two-parameter logistic IRT model fit best only for the hypotheses-concerning-means bank; the one-parameter model sufficed for the other three banks](irt-model-fit-varies-by-item-bank.md) — related
+- [Guessing is a significant factor in LSCI responses, favoring the 3PL model (RMSEA 0.06) over the 2PL model (RMSEA 0.07)](3pl-guessing-parameter-lsci.md) — related

@@ -48,3 +48,4 @@ Descriptive comparison of EQAO achievement-level distributions (Table 2) among 3
 - [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](pisa-sex-differences-math-small-reading-three-times-larger.md) — reports the opposite
 - [Female kindergarteners outscore males in math and reading at entry; the reading gap was stable while the small math gap narrowed slightly](gender-gaps-at-kindergarten-entry-2010-2017.md) — related
 - [Gender and expertise domain are the most robust grade predictors; females outperform males in 9 of 13 subjects with negligible effects](gender-and-expertise-robust-grade-predictors.md) — a broader claim this one bears on
+- [Sex gaps in ENEM performance are larger than ethnic gaps: males score higher in mathematics and females higher in writing across income levels](enem-sex-gaps-larger-than-ethnic-gaps.md) — related

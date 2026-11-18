@@ -54,3 +54,4 @@ The review's third foundational concept, stated as an expert perspective on the 
 - [Comparing their own analyses with LLM outputs empowered students' sense of competence and reduced concerns about LLMs replacing human expertise](llm-comparison-empowers-competence.md) — related
 - [Educational booklets may affect knowledge but are limited for changing practice because learners are passive and reading is uncontrolled](booklet-limits-for-practice-change.md) — related
 - [Students engaging with elearning behave as passive recipients, with completion of sections not equating to active learning](elearning-passivity-theme-medical-students.md) — related
+- [No disturbances specifically related to the subject element (students' views of themselves as learners) were found in the Electric Field Hockey activity](efh-no-subject-element-tensions.md) — related

@@ -56,3 +56,4 @@ Models predicting enrollment among all high school graduates (n=55,084 per the m
 - [Students' grades are a more important predictor of college enrollment than ACT scores, which mainly constrain the selectivity of colleges attended](grades-predict-enrollment-more-than-act-chicago.md) — related
 - [The linear slope of the HSGPA–college graduation relationship does not vary significantly across high schools, so HSGPA provides a consistent signal across schools](hsgpa-slope-consistent-across-schools.md) — related
 - [High school GPA predicts four-year college graduation more strongly than achievement test scores among Chicago graduates](hsgpa-predicts-college-graduation-more-than-tests.md) — related
+- [High school performance and standardized test scores showed little signal for predicting STEM attrition, in contrast to previous research](pre-college-measures-weak-signal-stem-attrition.md) — related

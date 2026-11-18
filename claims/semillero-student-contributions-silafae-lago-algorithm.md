@@ -46,3 +46,4 @@ Program report from the 2014 seedbed with 12 students (sixth to eighth semester 
 
 ## Related Claims
 - [Both early-research-exposure contexts increased student motivation to orient their careers toward research](both-contexts-increased-motivation-toward-research.md) — related
+- [Participants in the Radio Jove seedbed program recognized a relationship between sunspot numbers and 20 MHz solar burst counts](sunspot-number-20mhz-burst-relationship-students.md) — related

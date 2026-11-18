@@ -52,3 +52,4 @@ Survey question "Did the programming lab help you understand vectors better?" (F
 - [Open-ended lab exercises that rely on students to determine which features are of physical interest provide insight into how experimental research is conducted and build experimental skills like note-taking](open-ended-unguided-analysis-builds-experimental-skills.md) — related
 - [Students report that the first game-like programming exercise (Planetoids) is at an appropriate difficulty level for classes with many weak or absolute beginner programmers](planetoids-exercise-appropriate-difficulty-survey.md) — related
 - [Many students in beginner-programmer introductory physics classes report that the game-like programming exercise was enjoyable or fun](planetoids-exercise-enjoyment-survey.md) — related
+- [Vectors are a known difficulty in introductory physics that carries over into computational tasks](vector-difficulty-in-computational-tasks.md) — related

@@ -55,3 +55,4 @@ Study 1 recalibrated 2,716 MAP Growth items with on-grade samples using the stan
 - [Old (English-borrowed) and newly calibrated Spanish item RITs differ negligibly, with correlations of 0.98 and no statistically significant paired t-test differences](spanish-item-rit-calibration-negligible-differences.md) — related
 - [Representative and university samples differ in mean accuracy but yield convergent estimates of item difficulty (ρ = 0.96)](sample-groups-differ-in-mean-but-not-item-difficulty.md) — a narrower finding that bears on this claim
 - [Item difficulty increases across grades, with Grade 6 items tailored to less capable students](item-difficulty-increases-across-grades.md) — related
+- [Rasch-model difficulty estimates confirmed the three test sets were of augmented difficulty and that Post-Tests were less difficult than their corresponding Pre-Tests](rasch-difficulty-pre-post-tests.md) — related

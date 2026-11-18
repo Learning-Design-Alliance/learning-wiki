@@ -51,3 +51,4 @@ Unconditional multilevel models decomposing variance in structural system thinki
 - [Classroom and institutional differences account for little variance in engagement; nearly all variance is between students](engagement-variance-mostly-student-level.md) — related
 - [Roughly 45% of variance in Chinese adolescents' achievement lies between schools, supporting multilevel modeling](between-school-variance-achievement-icc-pisa-china.md) — related
 - [About 14% of literacy and 19% of math achievement variability lies between schools in the KELS 6th-grade sample](icc-between-school-variability-kels.md) — related
+- [Course-level features explain 29% of variance in student physics performance, student-level features 71%](course-features-explain-29-percent-variance.md) — related

@@ -54,3 +54,4 @@ The authors report this from their own teaching experience, not from a controlle
 - [Self-reported student attitudes toward group work showed significant positive shifts over one SGL term in one single-group pre-post study, on three of four SAGE subscores, including a large drop in frustration](sgl-improved-student-attitudes-sage.md) — related
 - [User testing showed free-form note-taking frustrated users, prompting a redesign to drag-and-drop scaffolding that reduced frustration and improved engagement](drag-and-drop-notebook-scaffolding-redesign.md) — related
 - [Anecdotally, Maximally Scaffolded students finished lab activities much more quickly than Reduced Scaffolding students](ms-group-faster-lab-completion.md) — related
+- [Verification labs do not add to students' learning of physics content in a measurable way despite explicit goals to do so](verification-labs-no-measurable-content-learning.md) — related

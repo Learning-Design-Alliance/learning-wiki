@@ -53,3 +53,4 @@ Observational analysis of grade records for the year-long calculus-based physics
 - [SAT scores predict upper division in-major GPA with correlations of roughly 0.35 to 0.5 across majors at a broad-range state university](sat-predicts-upper-division-gpa-035-05.md) — related
 - [A 50 percent or greater chance of graduate-school-level success in Physics or Mathematics requires SAT-M well above 700](sat-m-above-700-fifty-percent-success-chance.md) — related
 - [A roughly equally weighted combination of SAT and high school GPA (in SD units) best predicts upper division GPA](equal-weight-sat-hsgpa-best-predictor.md) — related
+- [PER research subjects are better prepared mathematically than the overall population of introductory physics students](per-subjects-stronger-math-preparation.md) — related
