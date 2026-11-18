@@ -52,3 +52,4 @@ Moderator analysis of comprehension outcomes in the random-effects meta-analysis
 - [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — related
 - [Adding equations to tree diagrams reduced cognitive load but did not improve learning outcomes](adding-equations-to-diagrams-reduced-load-not-outcomes.md) — related
 - [Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load](germane-load-redistributive-function-reformulation.md) — related
+- [Structural equation modeling supports a causal connection between reduced extraneous cognitive load and enhanced learning gain for the reference-system sub-concept](sem-supports-ecl-reduction-causes-learning-gain.md) — reports the opposite

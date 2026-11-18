@@ -50,3 +50,4 @@ Survey items (30) and (31), shown in Figures 6 and 7, on whether symbolic proble
 - [Students and faculty alike report a general lack of reflection after solving physics problems](lack-of-reflection-after-problem-solving.md) — related
 - [On the AAPS survey, faculty respond more expert-like than Ph.D. students, who respond more expert-like than introductory students, with large effect sizes](aaps-expertise-gradient-effect-sizes.md) — related
 - [Many introductory students find symbolic problems more difficult than numerical ones and prefer plugging in numbers early rather than solving symbolically first](intro-students-symbolic-difficulty-early-numbers.md) — possibly the same claim (merge candidate)
+- [At the end of the course, introductory astronomy students have more expert-like attitudes and approaches to problem solving than introductory physics students, with a large effect size (Cohen's d = 0.81)](aaps-astronomy-favorable-than-physics.md) — related

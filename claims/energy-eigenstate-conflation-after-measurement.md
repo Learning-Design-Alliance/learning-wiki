@@ -51,3 +51,4 @@ Multiple-choice survey of 76 students from six universities administered after t
 - [Many graduate students incorrectly describe a stationary state as an eigenstate of any operator corresponding to an observable rather than an eigenstate of the Hamiltonian](stationary-state-misconception-eigenstate-of-any-operator.md) — related
 - [Students cannot set up the probability of measuring an energy eigenvalue for a state not written as a superposition of energy eigenstates](energy-measurement-probability-triangle-wavefunction-difficulty.md) — related
 - [Students conflate individual measurements with expectation values of quantum observables](expectation-value-individual-measurement-conflation.md) — related
+- [Many non-specialist physicists incorrectly believe special relativity cannot model time dilation due to acceleration](physicists-misconception-sr-cannot-handle-acceleration.md) — related

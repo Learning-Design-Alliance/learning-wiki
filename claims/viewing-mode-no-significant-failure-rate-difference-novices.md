@@ -51,3 +51,4 @@ In the same randomized two-arm teaching intervention (n = 19 per arm), the ANOVA
 - [3D vision yields lower learning plateaus than 2D for both performance time and errors in laparoscopic box-trainer tasks](3d-lower-learning-plateaus-than-2d-laparoscopic-box-trainer.md) — related
 - [3D training showed no significant error-count advantage over 2D in either box-trainer task](3d-no-significant-error-advantage-box-trainer.md) — related
 - [3D-trained novices' final 2D performance was not significantly better than 2D-trained novices' performance](3d-trained-final-2d-performance-not-significantly-better.md) — related
+- [As attributed to Zhdan, the integrated pedagogical software tools GRAN1, GRAN-2D, GRAN-3D, DG and SAGE do not affect the success and speed of task solving of students with low and high levels of theoretical knowledge](gran-sage-tools-no-effect-success-speed-zhdan.md) — related

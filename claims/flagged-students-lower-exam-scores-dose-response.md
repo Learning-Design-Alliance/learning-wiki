@@ -69,3 +69,4 @@ Per-exam breakdown in the Spring 2026 case study (Figure 7); the Midterm 2 contr
 - [MOSS detected far fewer suspicious cases in Spring 2026 than in prior offerings, as LLM-assisted submissions lack similarity signals](moss-detection-declined-spring-2026.md) — related
 - [Students who used LLMs on assignments scored significantly lower than non-users on the first midterm (large effect size), but this gap narrowed and was non-significant on the later midterms](llm-users-lower-midterm1-score-gap-narrowed.md) — related
 - [Average H-scores rose from near-zero in pre-LLM offerings to 11.9 in Spring 2026, with maximum scores reaching 81](h-score-distributions-rose-over-time.md) — related
+- [Midterm exam averages were higher in classes whose learning was developed based on identified student intelligence levels than in classes that did not use it](midterm-gains-when-learning-based-on-intelligence-level.md) — related

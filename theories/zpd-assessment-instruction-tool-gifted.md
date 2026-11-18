@@ -81,6 +81,7 @@ The ZPD is defined by Vygotsky as "the distance between the actual developmental
 - [Three-level creative tasks with assistance cards for mini investigations in physics laboratory work](../designs/three-level-creative-tasks-assistance-cards.md)
 - [Time simulation sessions toward the end of the academic year to engage learners in their zone of proximal development](../designs/time-simulation-zpd-end-of-year.md)
 - [Derive simulation scenarios from real clinical events and pitch them to the learners' background at the edge of their comfort zone](../strategies/real-event-scenarios-at-comfort-zone-edge.md)
+- [Teacher professional development scenarios built on collective work on actual practices, extending the ZPD to a ZPDP](../strategies/zpdp-collective-work-on-practices-training.md)
 
 ## Key Sources
 - McGlonn-Nelson, K. (2005). Looking Outward: Exploring the Intersections of Sociocultural Theory and Gifted Education. The Journal of Secondary Gifted Education, 17(1), 48-55. https://eric.ed.gov/?id=EJ746045. [doi:10.4219/jsge-2005-391](https://doi.org/10.4219/jsge-2005-391)

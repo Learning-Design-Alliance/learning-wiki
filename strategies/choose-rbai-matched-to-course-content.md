@@ -41,6 +41,8 @@ The resource letter closes each topic section with concrete recommendations for 
 - [RCR educators should select or develop measures aligned with core RCR competencies and targeted learning outcomes, using the review's overview](select-validated-rcr-measures-aligned-competencies.md)
 - [Schools and districts should choose screener benchmarks that match their goals and resources for defining and serving at-risk students](match-screener-benchmark-choice-to-goals-resources.md)
 - [Researchers should weigh goals and resources when choosing between GAIQ and individual interviews](choose-data-collection-by-goals-and-resources.md)
+- [When selecting mathematics assessments, choose one of the overlapping tests matched to your population and never mix tests across pre- and post-testing](choose-one-math-assessment-no-mix-and-match.md)
+- [Match beliefs and self-efficacy survey choice to purpose: CLASS for quick broad measurement, SOSEC-P for detailed self-efficacy, PSEQ for short combined use](match-beliefs-self-efficacy-survey-to-purpose.md)
 
 ## Examples
 -

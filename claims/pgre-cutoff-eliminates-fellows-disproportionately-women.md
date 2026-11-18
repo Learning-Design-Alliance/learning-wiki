@@ -51,3 +51,4 @@ Numerical breakdown in Table 1 of fellows below PGRE percentile thresholds from 
 - [PGRE score distributions differ notably by gender among prize fellows, with about 42% of female fellows below the 50th percentile](pgre-gender-disparity-prize-fellows.md) — related
 - [Prize postdoctoral fellows in astronomy report Physics GRE scores spanning the full percentile range, with about 30% below the 50th percentile](prize-fellows-pgre-scores-span-full-range.md) — related
 - [PGRE score shows no statistically significant correlation with first-author papers published during or exiting graduate school among prize fellows](pgre-no-correlation-graduate-publications.md) — related
+- [Admissions predictions show a rough physics GRE cutoff around 700 that high GPA can partially compensate below](rough-physics-gre-cutoff-700-gpa-compensation.md) — related

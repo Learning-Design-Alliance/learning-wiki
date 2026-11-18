@@ -52,3 +52,4 @@ Correlation analysis (Table 4) of the 75-student questionnaire data testing Hypo
 - [Perceived usefulness and perceived ease of use of GenAI tools significantly predict teachers' attitudes and behavioural intention](usefulness-ease-predict-attitude-intention-genai.md) — related
 - [Gender had no impact on students' acceptance of using Zoom for language learning, per the article's conclusion](gender-no-impact-tam-zoom-acceptance.md) — related
 - [Availability of IT services and computer self-efficacy strongly predict perceived ease of use of online mathematical assessments](ait-cse-predict-ease-of-use.md) — related
+- [Computer self-efficacy influences e-learning intention indirectly through perceived usefulness and perceived ease of use more strongly for non-STEM students than for STEM students](cse-effects-stronger-non-stem.md) — related

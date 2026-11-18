@@ -54,3 +54,4 @@ Exam coding of the Reflection component of the ACER framework. The quote shows "
 - [Students rarely spontaneously reflect on their SoV solutions in either Cartesian or spherical geometries](spontaneous-reflection-rare-sov-solutions.md) — possibly the same claim (merge candidate)
 - [Students check units more readily than limiting behavior when reflecting on reflection and transmission coefficients](students-struggle-checking-unphysical-limits.md) — reports the opposite
 - [Students rarely reflect on results: they struggle to check units and physical limits of reflection and transmission coefficients](weak-reflection-skills-rt-coefficients.md) — a narrower finding that bears on this claim
+- [Very few students spontaneously reflect on their solutions, with only 20 of 329 students making explicit reflective checks on exams](spontaneous-reflection-rare-across-contexts.md) — a broader claim this one bears on

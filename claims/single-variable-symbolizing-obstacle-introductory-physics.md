@@ -76,3 +76,4 @@ Pre/post administration of the Woozles item, in which students convert a verbal 
 - [Typical verbal achievement tests may underestimate students' subject-matter knowledge because of a mismatch between the test's symbolic form and students' symbolic encoding](verbal-achievement-tests-may-underestimate-via-symbolic-mismatch.md) — related
 - [Novice students often treat physics equations as mathematical grammar rather than integrating them with physical meaning, leading to predictable errors](novices-reason-from-mathematical-grammar.md) — related
 - [Concreteness fading enables learners to build a store of memorable images usable when abstract symbols lose meaning](fading-builds-memorable-images.md) — related
+- [Algebra I students showed no significant accuracy difference between proportion equations and proportion word problems, bounding the verbal advantage to other problem types](proportions-verbal-advantage-null.md) — related

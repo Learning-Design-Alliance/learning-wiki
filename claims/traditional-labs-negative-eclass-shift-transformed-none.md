@@ -72,3 +72,4 @@ Same national E-CLASS data set of matched first-year pre/post responses. The Tra
 - [Shift patterns differ by course level: open-ended activities produced significant positive shifts only in beyond-first-year courses](course-level-shift-pattern-open-ended.md) — related
 - [Post-instruction E-CLASS scores are significantly higher in Transformed than Traditional courses, with no significant pre-instruction difference](transformed-higher-post-eclass-overall.md) — related
 - [The transformed lab course produced no statistically significant difference in overall post-instruction E-CLASS scores compared to the original course](lab-transformation-no-overall-eclass-change.md) — related
+- [Transformed DATA Lab courses produced higher expert-like attitudes about experimental physics than traditional lab courses after controlling for incoming E-CLASS scores](data-lab-e-class-gains-over-traditional-labs.md) — related

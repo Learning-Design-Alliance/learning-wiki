@@ -48,3 +48,5 @@ Validation rerun of the conditional inference forest restricted to the five mean
 ## Related Claims
 - [A reduced model using only the six top-ranked predictors maintains relatively similar MD prediction performance (AUC .776)](six-predictor-md-model-auc-776.md) — related
 - [The most predictive factors of faculty having experience teaching computation are using computation in research with students, not personally using computation, and beliefs that computation brings new physics and new problems to the classroom](meaningful-factors-faculty-computation-teaching.md) — related
+- [A conditional inference random forest model predicts physics PhD admissions decisions on held-out data with 75.8% average accuracy](random-forest-predicts-physics-phd-admissions-75-8-percent.md) — related
+- [A two-factor model using only undergraduate GPA and physics GRE matches the full model's predictive performance](two-factor-gpa-physics-gre-model-matches-full-model.md) — related

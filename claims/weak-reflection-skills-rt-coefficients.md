@@ -69,3 +69,4 @@ Exam question (N=30) asking students to describe situations with zero reflection
 - [Students rarely spontaneously checked units or limiting behavior of their solutions, though they endorsed such checks when prompted](reflection-checks-rarely-spontaneous.md) — a broader claim this one bears on
 - [Students rarely spontaneously check units or limiting behavior to verify their potential solutions](students-do-not-spontaneously-reflect.md) — a broader claim this one bears on
 - [Upper-division students rarely spontaneously reflect on their solutions but can do so when prompted](students-rarely-spontaneously-reflect.md) — a broader claim this one bears on
+- [Very few students spontaneously reflect on their solutions, with only 20 of 329 students making explicit reflective checks on exams](spontaneous-reflection-rare-across-contexts.md) — related

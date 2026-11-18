@@ -46,3 +46,4 @@ Fall 2014 student survey comparing CU physics majors with and without research e
 
 ## Related Claims
 - [Students without research experience learned about UREs from fewer sources, within an informal, decentralized information environment](informal-ure-information-sources-fewer-without-experience.md) — related
+- [Most undergraduate research experiences arise from local or informal opportunities rather than national agency-sponsored programs](undergrad-research-local-informal-majority.md) — related

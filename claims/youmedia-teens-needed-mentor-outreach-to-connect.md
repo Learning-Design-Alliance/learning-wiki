@@ -49,3 +49,4 @@ Qualitative Year 1 study based on more than 130 hours of observation and formal 
 - [YOUmedia registration increased steadily across Year 1, reaching 1,593 registered teens by August 2010](youmedia-registration-increased-year-one.md) — related
 - [YOUmedia staff struggled at times to balance teen choice of activities with structured learning activities](youmedia-staff-tension-choice-versus-structured-learning.md) — related
 - [YOUmedia cultivates a sense of community among participating teens that drives engagement with digital media](youmedia-sense-of-community-drives-digital-media-engagement.md) — related
+- [The IceCube outreach team used a gallery exhibit with three named strategies to reach audiences underrepresented in science.](messages-gallery-exhibit-diverse-audience-strategies.md) — related

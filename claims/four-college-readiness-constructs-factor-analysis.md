@@ -60,3 +60,4 @@ Factor analysis of roughly 40 variables identified as strongly predictive by ran
 - [Teachers' frequency of using data to inform instruction is among the strongest multivariate predictors of student achievement in the sample](teacher-data-use-frequency-predicts-achievement.md) — a narrower finding that bears on this claim
 - [Low-SES students who expect to complete higher education are more likely to be academically resilient, with the strongest association in grade 9](higher-educational-expectations-predict-academic-resilience.md) — a narrower finding that bears on this claim
 - [Report card scores load more strongly on the student achievement construct than school exam scores](report-card-loading-exceeds-school-exam-loading.md) — a narrower finding that bears on this claim
+- [K-12 report card grades are multidimensional measures of cognitive and noncognitive factors, not solely achievement](grades-multidimensional-cognitive-noncognitive-factors.md) — related

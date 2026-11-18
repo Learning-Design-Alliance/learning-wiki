@@ -47,3 +47,4 @@ Survey results from the 51-student sample reported in the results analysis. Sugg
 ## Related Claims
 - [A holographic-exhibit extension activity was positively received by high-school students, with 100% reporting they liked the activity](holographic-exhibit-100-percent-liked-activity.md) — related
 - [Expert role-players expressed more frustration with insufficient in-game social context in computer RPGs than with any other aspect, even when discussing their favorite games](players-frustrated-by-thin-social-context.md) — related
+- [Participants report universally positive experiences and strong intentions to return to future SK Day events](sk-day-universally-positive-survey-replies.md) — related

@@ -54,3 +54,4 @@ Mediation analysis (Baron & Kenny criteria plus Sobel/Goodman test in XLSTAT) on
 - [Instructors' self-efficacy positively affects perceived ease of use of e-learning platforms in Nigerian universities](self-efficacy-predicts-ease-of-use-nigerian-instructors.md) — related
 - [Learner computer anxiety does not significantly affect e-learning satisfaction in this sample](computer-anxiety-null-satisfaction.md) — related
 - [Availability of IT services and computer self-efficacy strongly predict perceived ease of use of online mathematical assessments](ait-cse-predict-ease-of-use.md) — related
+- [Computer self-efficacy has a positive effect on perceived usefulness and on perceived ease of use of e-learning](cse-positive-paths-pu-peou.md) — related

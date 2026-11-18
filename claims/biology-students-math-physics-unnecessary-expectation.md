@@ -55,3 +55,4 @@ Views of "the value of math and physics" shaped participation in "specific physi
 - [Biology and physics faculty tend to hold dramatically different epistemological views of introductory knowledge, with biology favoring realistic systems and physics favoring idealized toy models.](physics-biology-epistemological-style-differences.md) — related
 - [A coherence/expectations framework explains the analogy failure: students who do not value consistency in physics resort to memorized formulas and disregard the paired problem.](coherence-expectations-analogy-failure.md) — related
 - [Prior physics content knowledge need is minimal for the PLIC, though some exposure to physics is necessary](plic-minimal-prior-physics-knowledge.md) — related
+- [What students believe about physics can influence the way they approach learning in their physics course](beliefs-influence-learning-approach.md) — related

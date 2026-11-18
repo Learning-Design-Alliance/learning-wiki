@@ -46,6 +46,7 @@ Heller and colleagues formalized problem-solving tasks into "a coherent framewor
 - [Five-Stage Problem-Solving Model](five-stage_problem-solving_model.md)
 - [Direct Instruction: Problem-Solving Strategies](direct_instruction-problem-solving_strategies.md)
 - [Reframe typical biology exercises as complex problems by prompting students to generate and compare possible scenarios, using clickers and Peer Instruction to foster discussion](reframe-exercises-as-pedigree-generation-problems.md)
+- [Incorporate conceptually-rich, engaging real-world and astronomical contexts into introductory physics problems and instruction](engaging-real-world-contexts-intro-physics-problems.md)
 
 ## Examples
 -

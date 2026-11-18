@@ -56,6 +56,7 @@ An implementable peer-review routine: the instructor forms critique groups of th
 - [Ladder of Feedback](ladder_of_feedback.md)
 - [Reciprocal Peer Feedback](reciprocal-peer-feedback.md)
 - [Peer Critique](peer-critique.md)
+- [Simulate the peer-review process for lab reports as part of assessment](peer-review-simulation-lab-report-assessment.md)
 
 ## Examples
 -

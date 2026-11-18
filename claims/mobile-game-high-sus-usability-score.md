@@ -80,3 +80,4 @@ Subjective satisfaction evaluation of the prototype using the SUS scoring approa
 - [Playing the mobile phishing-identification game significantly improved participants' phishing avoidance behaviour from pre-test to post-test](mobile-phishing-game-improves-avoidance-behaviour.md) — related
 - [Students rated the HoloLens 2 above average on the System Usability Scale (mean 79.4)](hololens-sus-79-above-average-usability.md) — related
 - [The Ethics Quarter e-learning intervention achieves good usability among nurse managers (mean SUS 85.40)](ethics-quarter-good-usability-sus-85.md) — related
+- [The Ethics Game received high perceived usability, with a mean SUS score of 83.14 rated Good to Excellent](ethics-game-high-sus-usability.md) — related

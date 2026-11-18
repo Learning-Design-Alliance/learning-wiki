@@ -20,6 +20,7 @@ A computer-based Monte Carlo simulator developed by Caro Huertas et al. to model
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Simulation model of student flow through curricula**: Because controlled experiments on live curricula would impact the success or failure of actual students, the authors built a simulation model that studies the impact of structural and instructional complexity on hypothetical students within a simulated environment. Each run simulates student flow through a curriculum to compute an average completion rate, i.e., graduation rate, under fixed pass rates and course-taking behavior rules. (Gregory L. Heileman et al. (2018))
 
 ### Claims
 
@@ -32,3 +33,4 @@ A computer-based Monte Carlo simulator developed by Caro Huertas et al. to model
 
 ## Key Sources
 - Caro Huertas, Eduardo; González Fernández, María Camino; Mira McWilliams, José Manuel. (2014). Student academic performance stochastic simulator based on the Monte Carlo method. Computers & Education, v. 76, pp. 45-54. https://doi.org/10.1016/j.compedu.2014.03.007
+- Gregory L. Heileman, Chaouki T. Abdallah, Ahmad Slim, Michael Hickman. (2018). Curricular Analytics: A Framework for Quantifying the Impact of Curricular Reforms and Pedagogical Innovations. arXiv preprint. https://arxiv.org/abs/1811.09676

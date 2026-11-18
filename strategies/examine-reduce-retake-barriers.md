@@ -45,7 +45,8 @@ The article recommends that instructors implementing optional exam retakes activ
 - [Students who worked a job, especially more than 20 h a week, were less likely to retake exams even when retakes were offered during class time or online](../claims/working-students-less-likely-retake.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Design physics courses with UDL by examining the why, what, and how of teaching to find student barriers, then adding supports and options](why-what-how-udl-course-examination-strategy.md)
 
 ## Examples
 -

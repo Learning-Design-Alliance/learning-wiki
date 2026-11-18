@@ -56,3 +56,4 @@ Video-recorded intervention session analysis (RQ2): after the instructor asked f
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — a broader claim this one bears on
 - [Families' geoscience sense-making during learning-on-the-move was shaped by the immersive qualities of a mobile AR app](mobile-ar-families-immersive-geoscience-lotm.md) — related
 - [Drawing machines that multiplied sensor readings via program parameters supported multiplicative and proportionality-based reasoning](claim-multiplicative-proportionality-designs.md) — related
+- [Combining collaborative, game-based and mobile activities is argued to create synergies that make learning more effective than each activity type alone](jscm-synergy-argument.md) — related

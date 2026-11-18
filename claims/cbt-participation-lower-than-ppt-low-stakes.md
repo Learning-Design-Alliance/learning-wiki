@@ -50,3 +50,4 @@ Raw participation analysis of the between-groups study in which each of 1,310 st
 - [Participation is higher on pretests than posttests in both administration modes](pretest-participation-exceeds-posttest-both-modes.md) — related
 - [The more recommended instructor practices used, the higher CBT participation; with all four practices, online and paper posttest participation rates were very similar](instructor-practices-raise-cbt-participation.md) — related
 - [Student performance on low-stakes research-based assessments is equivalent whether administered online out of class as a CBT or in class on paper as a PPT](cbt-condition-nonsignificant-posttest-hlm.md) — related
+- [Online LASSO-administered assessments produce participation rates and scores equivalent to in-class paper assessments when instructors use four recommended practices](lasso-online-assessments-equivalent-participation-performance.md) — related

@@ -75,3 +75,4 @@ Per-problem scatterplots and linear regressions of AI-assigned versus TA-assigne
 - [The revised Round II grading workflow reduced AI over-awarding and total-score MAD, most clearly for OE1 (7.1% to 4.8%) and QM (9.4% to 3.8%)](revised-workflow-reduces-overawarding-mad.md) — related
 - [AI grading errors concentrate in graphical tasks and include both false positives on incorrect equations and false negatives from misread sketches and labels](ai-grading-failure-modes-graphical-tasks.md) — related
 - [A renewed course-paper evaluation procedure cut grading time from two weeks to three days for 256 papers with high scorer agreement](renewed-paper-evaluation-efficiency.md) — related
+- [The reliability of grades tends to increase as assignments are aggregated up to overall course grades](grade-reliability-increases-with-aggregation.md) — related

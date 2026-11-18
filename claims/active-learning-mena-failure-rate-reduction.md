@@ -51,3 +51,6 @@ Analysis of official final course results from the university registration offic
 - [Active learning improved mean course performance by 9% (g = 0.48) across five physics and astronomy courses in a MENA university](active-learning-mena-mean-gain-g048.md) — a broader claim this one bears on
 - [Upper grades (A+B) increased by 8.09 to 73.60% across the five courses while the middle grade C remained nearly unchanged](active-learning-mena-upper-grades-increased.md) — related
 - [Under an objective grading scheme, 29% of introductory astronomy students fail to meet minimal college standards, 41% perform satisfactorily, and 30% reach good or superior work](objective-astronomy-grading-29-percent-fail-minimal-standards.md) — related
+- [Active learning's failure-rate reduction was concentrated in transitional-reasoning students, with null effects for concrete and formal reasoners](active-learning-benefits-transitional-reasoners-most.md) — a narrower finding that bears on this claim
+- [Female students benefited more from active learning than male students in failure-rate reduction](active-learning-gender-benefit-failure-rate.md) — a narrower finding that bears on this claim
+- [Active learning reduced failure rate in introductory physics by 9.1 percentage points compared with traditional lectures](active-learning-reduces-failure-rate-intro-physics-chile.md) — related

@@ -50,3 +50,4 @@ Three-way type I ANOVA on course-level shift data ordered by educational changea
 - [Courses for elementary education and non-science majors show greater belief shifts than calculus-based courses](student-population-belief-shifts.md) — related
 - [Small classes show significantly greater positive belief shifts than large classes](small-classes-greater-belief-shifts.md) — related
 - [Ordinary physics courses produce negative or zero shifts in students' expert-like beliefs, while model-building and explicit belief-development courses produce positive shifts](physics-instruction-belief-shifts-meta-analysis.md) — related
+- [Courses with an explicit focus on modeling or developing expertlike beliefs show significantly greater positive shifts in attitudes and beliefs scores on the CLASS and MPEX than courses with some focus or ordinary courses](explicit-expertlike-belief-focus-greater-positive-shifts.md) — related

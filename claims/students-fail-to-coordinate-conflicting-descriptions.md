@@ -68,3 +68,4 @@ Theoretical hypothesis advanced from the authors' data on students and physicist
 - [Students misapply object-based resources such as part-for-whole and dying away when reasoning about wave propagation and superposition](object-resources-misapplied-to-waves.md) — a narrower finding that bears on this claim
 - [Interaction with physicist tutors is where most learning takes place in masterclasses](physicist-tutors-central-to-masterclass-learning.md) — related
 - [Teachers noticed the problematic facets of the energy-as-substance metaphor resource but not the generative value of the metaphor resource itself](teachers-notice-facets-not-metaphor-resource.md) — related
+- [Introducing elementary particles as 'smallest particles' or via the microscope metaphor risks the misconception of particles as small pieces of ordinary matter](naive-particle-notion-misconception-risk.md) — a narrower finding that bears on this claim

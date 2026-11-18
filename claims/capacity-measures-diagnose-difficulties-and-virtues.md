@@ -65,3 +65,4 @@ The same commentary contrasts capacity measures favorably: "Measures of what an 
 
 ## Related Claims
 - [Average-type children's percentage of final height attained by age 7 supports prediction of ultimate stature (70.3% for boys, 74.2% for girls)](height-percentage-final-growth-age-seven.md) — related
+- [Student feedback about what they gained from a course helps faculty improve it, whereas feedback about what they liked does not](salg-gains-feedback-useful-likes-not.md) — a narrower finding that bears on this claim

@@ -41,7 +41,8 @@ Because relatively few universities operate accelerator research facilities, the
 - career development
 
 ## Related Strategies
-- 
+
+- [Fund large-scale, long-duration PUI-focused research collaborations that train faculty alongside students](pui-focused-research-collaborations-strategy.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ RSiena Model 1 selection effects across 20 converged classroom networks. The art
 - [Adolescents perceiving higher parental autonomy support are more likely to select higher-achieving friends](autonomy-support-selects-high-achieving-friends.md) — related
 - [Parental educational expectations directly predict higher adolescent academic achievement after accounting for friendship processes](parental-expectations-direct-achievement-effect.md) — related
 - [Adolescents who are similar in academic engagement more often become close friends over the school year](similar-engagement-friend-selection.md) — related
+- [Being nominated as a good physics student positively predicts both directing information seeking toward others and receiving advice-seeking ties](good-student-nominations-predict-seeking.md) — related

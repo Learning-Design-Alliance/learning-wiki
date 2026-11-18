@@ -128,6 +128,7 @@ Belonging uncertainty — doubt about whether one fits in a setting — dispropo
 - [Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices](../patterns/shared-power-co-creation-of-educational-systems.md)
 - [Schools lacking ethnic diversity with small Latino representation should implement programs recognizing and empowering Latino culture and identity](../strategies/latino-culture-identity-programs-low-diversity-schools.md)
 - [Use culturally diverse examples, values affirmation, and equity strategies to reduce stress and support students' sense of belonging in science](../strategies/culturally-diverse-examples-equity-strategy.md)
+- [Transform the culture of physics so it signals to female students that they belong, alongside boosting science capital and utility value](../strategies/transform-physics-culture-signal-belonging.md)
 
 ## Key Sources
 - Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. *Science, 331*(6023), 1447–1451. [doi:10.1126/science.1198364](https://doi.org/10.1126/science.1198364)

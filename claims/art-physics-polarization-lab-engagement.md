@@ -49,3 +49,4 @@ The author's overall assertion about the laboratory he developed for high school
 - [Some upper-level students claimed photon polarization states cannot serve as basis vectors for a two state system because a photon can have any polarization](photon-polarization-basis-state-difficulty.md) — related
 - [The guided problem-solving laboratory approach yielded better learning and overall results than the traditional cookbook method, according to the author's own evaluation](guided-problem-solving-better-results-than-traditional.md) — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
+- [Simultaneous use of a smartphone's ambient-light and orientation sensors verifies Malus's law in a way that is very accessible for students](cl-001-malus-law-smartphone-dual-sensors.md) — related

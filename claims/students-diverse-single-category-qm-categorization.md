@@ -47,3 +47,4 @@ Observational finding from the categorization task given as a quiz to 22 juniors
 ## Related Claims
 - [Faculty categorizations of quantum mechanics problems were diverse, unlike their highly uniform categorizations of introductory physics problems](faculty-qm-categories-diverse-unlike-introductory.md) — related
 - [Professors specify multiple solution methods and multiple categories per problem more often than Ph.D. students and introductory students, who often place two-principle problems in only one category](faculty-multiple-categories-two-principle-problems.md) — related
+- [Quantum field theory is rarely taught or even mentioned in introductory physics courses from high school through upper-division undergraduate levels](qft-absent-from-introductory-physics-courses.md) — related

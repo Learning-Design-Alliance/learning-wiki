@@ -54,3 +54,4 @@ One-way ANOVA on course-level shift data from the meta-analysis dataset comparin
 - [Teaching method remains the strongest predictor of belief shifts even when pretest scores are taken into account](teaching-method-beats-pretest-predicting-shifts.md) — related
 - [Small classes show significantly greater positive belief shifts than large classes](small-classes-greater-belief-shifts.md) — related
 - [Quasi-experimental and experimental interventions can positively change epistemic cognition, but the theory-of-change remains unidentified](interventions-change-epistemic-cognition.md) — a broader claim this one bears on
+- [Courses with an explicit focus on modeling or developing expertlike beliefs show significantly greater positive shifts in attitudes and beliefs scores on the CLASS and MPEX than courses with some focus or ordinary courses](explicit-expertlike-belief-focus-greater-positive-shifts.md) — a narrower finding that bears on this claim

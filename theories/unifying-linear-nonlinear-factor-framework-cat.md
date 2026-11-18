@@ -50,6 +50,7 @@ The study's theoretical framework treats IRT models as a special case of nonline
 ## Examples
 
 - [Use item parcels (testlets), not items, as observable indicators when evaluating construct validity of CAT data](../strategies/use-parcels-for-cat-construct-validity.md)
+- [Planned validation pathway: IRT, factor analysis, student and faculty interviews, and growth-valuing scoring](../strategies/piql-validation-pathway-strategy.md)
 
 ## Key Sources
 - Shudong Wang, Hong Jiao. (2012). Examine Construct Validity of Computerized Adaptive Test in K-12 Assessments. Paper presented at the annual meeting of the National Council on Measurement in Education. https://www.nwea.org/research/publication/examine-construct-validity-of-computerized-adaptive-test-in-k-12-assessments/

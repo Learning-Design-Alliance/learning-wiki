@@ -66,3 +66,4 @@ The authors' stated interpretation of student difficulty distinguishing potentia
 ## Related Claims
 - [A 90-minute teaching intervention with 3D-printed height models increased correct determination of voltages in simple and series circuits among year-8 students](3d-height-models-improve-voltage-determination-simple-series.md) — related
 - [Students believe a physical quantity should have only one formula and treat intrinsic properties as depending on the variables in definitional equations](one-formula-belief-intrinsic-property-confusion.md) — related
+- [Students have difficulty understanding fundamental behavior of electrical circuits](students-difficulty-fundamental-circuit-behavior.md) — related

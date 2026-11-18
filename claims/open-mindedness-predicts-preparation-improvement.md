@@ -52,3 +52,4 @@ Stepwise multiple linear regression (n = 102) with the five PBL performance dime
 - [Critical thinking gains favour TA+CBL rounds on six of seven dimensions, with no significant difference on cognitive maturity](ta-cbl-critical-thinking-dimensions-cognitive-maturity-null.md) — related
 - [All critical thinking subscales except inquisitiveness improved after DBSS; inquisitiveness showed no significant change](dbss-cctdi-subscales-except-inquisitiveness-improve.md) — related
 - [\"Learning, Thinking & Conveying\" training with experiential learning improves critical thinking disposition in 5 of 7 CTDI-CV dimensions but not systematicity or cognitive maturity](ltc-training-improves-ctdi-cv-critical-thinking-partially.md) — related
+- [Enrollment year predicts critical thinking dispositions, with undergraduate 2012 students scoring higher; age shows a small negative association with open-mindedness](enrollment-year-and-age-predict-ct-dispositions.md) — related

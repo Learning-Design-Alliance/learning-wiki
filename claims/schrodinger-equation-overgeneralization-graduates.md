@@ -57,3 +57,5 @@ Findings from prior work cited in this article, reported for the same 39 graduat
 - [Graduate students share common difficulties with basic quantum mechanics concepts regardless of university](universal-quantum-concept-difficulties-grad-students.md) — a broader claim this one bears on
 - [Teaching of complex quantum behavior — time dependence, superposition, and the measurement problem — is barely investigated at the secondary and lower undergraduate level](complex-quantum-behavior-barely-investigated.md) — related
 - [A model-verifying frame causes students to ignore instructional hints and resist searching for contradictory evidence](model-verifying-frame-ignores-instructional-hints.md) — related
+- [Many non-specialist physicists incorrectly believe special relativity cannot model time dilation due to acceleration](physicists-misconception-sr-cannot-handle-acceleration.md) — related
+- [Documented student difficulties in upper-level quantum mechanics are dominated by measurement and time evolution and related procedures](qm-difficulty-review-measurement-time-evolution.md) — a broader claim this one bears on

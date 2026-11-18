@@ -46,3 +46,4 @@ Post-course attitude questionnaire (1–6 scale) in the randomized trial. Questi
 
 ## Related Claims
 - [Examination results do not differ between students in a flexible technology-enhanced learning course and students in a traditional face-to-face course](tel-exam-results-comparable-to-traditional.md) — related
+- [Electronic exams were equally accepted by students, with participation numbers equal to paper-based exams](electronic-exams-equal-acceptance-participation.md) — related

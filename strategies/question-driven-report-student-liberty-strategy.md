@@ -50,6 +50,7 @@ Instead of giving assembly instructions, the authors' report asks questions on t
 - [Question-answer directions that let children answer as part of the administration](question-answer-directions-young-children.md)
 - [Ask Open-Ended Questions](ask_open-ended_questions.md)
 - [Give Hints and Clues to Help Students Answer Questions](give_hints_and_clues_to_help_students_answer_questions.md)
+- [Provide measurement results on demand in written modeling assessments rather than virtual instruments](provide-measurement-results-on-demand-assessment.md)
 
 ## Examples
 -

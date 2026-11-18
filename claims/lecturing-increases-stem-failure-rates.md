@@ -58,3 +58,5 @@ Random-effects meta-analysis of 67 independent comparisons of failure rates (usu
 - [Active learning produces better student outcomes than lecture across STEM, including lower failure rates and higher test performance](active-learning-superior-to-lecture-stem.md) — possibly the same claim (merge candidate)
 - [Most STEM faculty still rely primarily on lecture despite evidence favoring active learning](faculty-still-primarily-lecture-stem.md) — related
 - [Active-learning techniques improve STEM student performance relative to traditional lecture, including reduced failure and withdrawal among underrepresented groups](active-learning-outperforms-lecture-stem.md) — a broader claim this one bears on
+- [Female students benefited more from active learning than male students in failure-rate reduction](active-learning-gender-benefit-failure-rate.md) — a narrower finding that bears on this claim
+- [Active learning reduced failure rate in introductory physics by 9.1 percentage points compared with traditional lectures](active-learning-reduces-failure-rate-intro-physics-chile.md) — a narrower finding that bears on this claim

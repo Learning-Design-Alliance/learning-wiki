@@ -68,3 +68,4 @@ Ten-question satisfaction survey completed by 69 of the 117 fourth-year students
 - [In one uncontrolled pre-post study, second-year students' knowledge of the consultation process and comfort requesting consults rose from pre-test to post-test after a 5 Cs model didactic](consult-curriculum-second-year-knowledge-comfort.md) — related
 - [Simulation-based 5 Cs curriculum improved average GRS scores of fourth-year students' simulated consultations](consult-curriculum-fourth-year-grs-improvement.md) — related
 - [Learners rated the CBL module highly, with 100% reporting learning objectives were met and 93.5% endorsing anticipated practice change](cbl-pediatric-meningitis-learner-ratings.md) — related
+- [High-school students report being generally very satisfied after participating in the thermodynamics focus group](focus-group-thermodynamics-high-satisfaction.md) — related

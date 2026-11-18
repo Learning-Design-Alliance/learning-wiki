@@ -55,3 +55,5 @@ The review reports this as background literature, citing reference 24 (a systema
 - [VR neurosurgical simulators show favourable visual realism but low haptic fidelity, with only 12% of participants in one study agreeing haptics were realistic](vr-neurosurgical-simulators-low-haptic-fidelity.md) — related
 - [VR-based surgical simulation addresses the non-reusable and expensive nature of physical oral implant training materials](vr-simulation-avoids-physical-material-waste.md) — related
 - [The review reports, citing Imam and Jarus, that stroke rehabilitation VR interventions showed significant improvement in outcomes favouring the VR group over control](vr-stroke-rehabilitation-outcomes-favour-vr-group.md) — related
+- [A visual-only simulation without haptic feedback produced a 10% quiz-score increase over the reading-and-video group](visual-only-simulation-10-percent-quiz-gain.md) — related
+- [Undergraduate physics students using a visuo-haptic Coriolis simulation scored 15% higher on a quiz than a reading-and-video group](visuo-haptic-coriolis-15-percent-quiz-gain.md) — a narrower finding that bears on this claim

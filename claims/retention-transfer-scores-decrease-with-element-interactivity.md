@@ -53,3 +53,4 @@ Descriptive analysis of the eight RTs and TTs plotted against the experts' low/h
 - [The CLT-based design produced higher effective learning scores at retention and transfer, while achievement effective learning scores were nearly equal between groups](clt-design-effective-learning-retention-transfer.md) — related
 - [Learning relational categories becomes more difficult as the complexity of the knowledge type increases](knowledge-type-complexity-learning-difficulty.md) — related
 - [Rail complexity affects retention and transfer in opposite directions: retention gains increase with complexity while transfer gains decrease, with no inverted-U](complexity-retention-transfer-dissociation.md) — related
+- [High-school students report being generally very satisfied after participating in the thermodynamics focus group](focus-group-thermodynamics-high-satisfaction.md) — related

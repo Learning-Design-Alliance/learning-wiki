@@ -44,6 +44,7 @@ The experiments show that simply describing an activity as one "girls are less i
 ## Related Strategies
 
 - [Introduce computer science to girls in elementary school, before gender-interest stereotypes take root](introduce-cs-early-before-interest-stereotypes-take-root.md)
+- [Self-reflection questions for researchers to avoid harmful labeling and stereotyping of student participants](self-reflection-questions-harmful-labeling.md)
 
 ## Examples
 -

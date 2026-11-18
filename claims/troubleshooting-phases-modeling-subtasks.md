@@ -47,3 +47,4 @@ Think-aloud study of eight student pairs from two institutions troubleshooting a
 ## Related Claims
 - [Students engage in model-based reasoning throughout the troubleshooting process, with EMF phases interacting within a troubleshooting cycle](students-model-based-reasoning-throughout-troubleshooting.md) — a broader claim this one bears on
 - [Student pairs demonstrated model-based reasoning during strategic and evaluative stages of troubleshooting, with twelve excerpts (five isolation-type and seven evaluation-type events) analyzed line-by-line using Modeling Framework codes.](model-based-reasoning-during-troubleshooting.md) — a broader claim this one bears on
+- [All pairs of modeling subtasks occurred in close temporal proximity, with measurement-comparison, measurement-revision, and comparison-revision pairs most prevalent](all-adjacent-subtask-pairs-present-op-amp.md) — related

@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/wrong-answer-students-generate-correct-explanations.md
+---
+
+# Revision history: [claims/wrong-answer-students-generate-correct-explanations](../claims/wrong-answer-students-generate-correct-explanations.md)
+
+### 2026-11-18 · ingest · process:wiki-ingest
+Ingested from arxiv-1909.01455 (A new approach for uncovering student resources with multiple-choice questions) via eval_harness.py + ingest_extractions.py

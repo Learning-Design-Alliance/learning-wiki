@@ -50,3 +50,4 @@ Aggregate written EEQ pretest data from five semesters at School 1 and one at Sc
 - [On the finite-reservoirs homework question, only 12 of 25 students answered all parts correctly, and some students who identified the Carnot engine still failed to use ΔSuni = 0](frq-finite-reservoirs-carnot-disconnect.md) — related
 - [Some upper-division students struggle to apply the state function property of entropy to cyclic processes, requiring instructor intervention to conclude that entropy change over a cycle is zero](state-function-entropy-cycles-struggle.md) — related
 - [EEQ response patterns are statistically similar between two institutions on three of four sub-questions, but differ significantly on the Carnot working-substance question](eeq-cross-institution-response-similarity.md) — related
+- [Authors report that participants seem to have better understood the laws of thermodynamics after the game](participants-better-understand-thermodynamics.md) — related

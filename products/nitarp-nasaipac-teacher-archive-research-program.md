@@ -39,6 +39,6 @@ A NASA/IPAC-run year-long professional-development programme that pairs educator
 -
 
 ## Key Sources
-- Rebull, L. M., Fitzgerald, M., Roberts, T., French, D. A., Laurence, W., Gorjian, V., & Squires, G. K. (2018). The NASA/IPAC Teacher Archive Research Program (NITARP). http://nitarp.ipac.caltech.edu
+- Rebull, L. M., Fitzgerald, M., Roberts, T., French, D. A., Laurence, W., Gorjian, V., & Squires, G. K. (2018). The NASA/IPAC Teacher Archive Research Program (NITARP). http://nitarp.ipac.caltech.edu. [doi:10.48550/arxiv.1804.08743](https://doi.org/10.48550/arxiv.1804.08743)
 - L. M. Rebull. (2018). Authentic Research in the Classroom for Teachers and Students. https://nitarp.ipac.caltech.edu
 - L. M. Rebull, T. Roberts, W. Laurence, M. T. Fitzgerald, D. A. French, V. Gorjian, and G. K. Squires. (2018). Motivations of Educators for Participating in NITARP, an Authentic Astronomy Research Experience Professional Development Program. https://arxiv.org/abs/1805.01381

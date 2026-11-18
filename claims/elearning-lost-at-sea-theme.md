@@ -48,3 +48,4 @@ In the focus-group analysis, the lost at sea theme encompassed feeling overwhelm
 - [A didactic pedagogical approach to MECC TtT and MECC training limits accessibility, particularly for participants outside health care settings](didactic-pedagogy-limits-ttt-accessibility.md) — related
 - [Flexible time allocation and repeatability were the main reasons students chose the online format](flexibility-repeatability-drive-online-choice.md) — related
 - [Consensus favoured e-signposting, key feature problems and Bayesian reasoning questions, while narrative saturation, wordy presentation and invisible feedback were poorly received](vp-consensus-helpful-unhelpful-properties.md) — related
+- [Lab sections covering content ahead of lecture hindered students' ability to monitor their learning pace, leading one participant to withdraw](disjointed-lab-lecture-pace-monitoring-barrier.md) — related

@@ -53,3 +53,4 @@ Paired-samples T-test on self-reported weekly listening practice time of the exp
 - [The share of students choosing interleaved practice rose from 13% to 40% across the session, but the visual feedback prompt did not further increase interleaved practice choices](vfp-did-not-improve-strategy-choices.md) — related
 - [Students spent only one to two hours weekly on out-of-class study, using video watching, revision, and summarization strategies](fc-out-of-class-study-time-strategies.md) — related
 - [PBL participants spent significantly more weekly time reading English texts than non-PBL participants during the treatment](pbl-increases-out-of-class-reading-time.md) — related
+- [Average weekly time spent in the system increased from 15 minutes to 45 minutes for languages and 25 minutes for societal and science subjects over the study period](weekly-system-time-increase-2015-2017.md) — related

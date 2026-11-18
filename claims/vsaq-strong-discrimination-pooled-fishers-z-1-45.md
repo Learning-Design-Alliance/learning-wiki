@@ -51,3 +51,4 @@ Meta-analysis of Fisher's z-transformed discrimination indices across 12 data po
 - [Initial pooled analysis shows no statistically significant difference between VSAQ and MCQ scores but with extreme heterogeneity](vsaq-mcq-initial-pooled-no-difference-high-heterogeneity.md) — related
 - [The CSV-IE demonstrated high discriminatory power (DI ≥ 0.20) across all assessed GM-ITE domains](csv-ie-high-discrimination-all-domains.md) — related
 - [Students' entrepreneurial-intention attributes differ across three pocket-money groups, though the discriminant model shows low discrimination power](pocket-money-groups-entrepreneurial-intention-profiles.md) — related
+- [In IJSO 2013 data, 21 questions had very high DI (0.5 to 0.8) and 17 questions had reasonable DI (0.1 to 0.4)](ijso-2013-di-question-level-distribution.md) — related

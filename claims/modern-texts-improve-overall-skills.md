@@ -49,3 +49,4 @@ Evidence from GQMCS responses, one-on-one conversations with students in years f
 - [Graduate quantum mechanics students score substantially higher on the QMCS than students after a traditional modern physics course](qmcs-graduate-vs-modern-physics-scores.md) — related
 - [The reformed modern physics course using simulations extensively showed high conceptual learning gains and no negative belief shift, in contrast to low gains and large negative belief shift in comparable unreformed courses](reformed-course-gains-beliefs.md) — related
 - [A need exists for assessment tools covering all major quantum topics suitable for statistical analysis at secondary and lower undergraduate levels](need-assessment-tools-quantum-secondary-lower-undergraduate.md) — related
+- [Popular undergraduate modern physics textbooks contain misstatements claiming special relativity applies only to inertial frames](textbook-misstatements-sr-inertial-only.md) — related

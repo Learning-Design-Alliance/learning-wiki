@@ -52,6 +52,7 @@ CAST's framework for designing flexible instruction around learner variability t
 - Marvin Roski, Ratan Sebastian, Ralph Ewerth, Anett Hoppe, Andreas Nehring. (2024). Learning analytics and the Universal Design for Learning (UDL): A clustering approach. Computers & Education 214 (2024) 105028. https://doi.org/10.1016/j.compedu.2024.105028
 - Davies, P. L., Schelly, C. L., & Spooner, C. L. (2013). Measuring the Effectiveness of Universal Design for Learning Intervention in Postsecondary Education. Journal of Postsecondary Education and Disability, 26(3), 195-220. http://accessproject.colostate.edu/udl
 - E. Ergonul and S. Buyukcoban. (2026). Fostering interactive medical education: integrating Web 2.0 tools through a universal design for learning framework. Medical Education Online. https://doi.org/10.1080/10872981.2026.2639193
+- Amanda Lannan, Erin Scanlon, & Jacquelyn J. Chini. (2019). Resources for Supporting Students with and without Disabilities in Your Physics Courses. The Physics Teacher. https://aapt.scitation.org/journal/pte
 
 # Universal Design for Learning framework: three principles for supporting learner variability
 

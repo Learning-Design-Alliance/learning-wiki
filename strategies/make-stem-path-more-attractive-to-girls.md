@@ -44,7 +44,8 @@ Because girls graduating school are as likely as boys to have earned grades high
 - [High school girls and boys take largely similar math and science coursework, with girls more likely to complete biology and chemistry and boys more likely to complete physics and calculus](../claims/gender-parity-high-school-math-science-course-taking.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Build educational games in a genre with high female participation, such as Match 3, when targeting girls for STEM recruitment](match3-genre-female-recruitment.md)
 
 ## Examples
 -

@@ -105,3 +105,5 @@ Study 2 thematic analysis of twelve student interviews produced Global Theme 1 f
 - [Self-directed learners benefited most from the experiential training, and learners managed competing clinical and research priorities](self-directed-learning-and-competing-priorities.md) — related
 - [Home-based online group rehabilitation provides an environment for learning from professionals and peers and forms a supportive social group among participants](online-group-peer-learning-social-copd.md) — related
 - [Interviewed students named the project's freedom as its exclusive feature and reported enhanced schedule-planning and communication skills](student-freedom-exclusive-project-feature.md) — related
+- [An autonomous empathic robot fosters meaningful discussions about sustainability in group learning, a learning outcome in sustainability education](empathic-robot-fosters-sustainability-discussions.md) — related
+- [IRES research-abroad experiences produce increased knowledge, statistically significant gains in international-collaboration skills and confidence, and increased desire to work with scientists from other countries](ires-research-abroad-gains.md) — related

@@ -56,3 +56,4 @@ A theoretical review in cognitive load theory, which reports two studies by othe
 - [Static and dynamic graphics produce equivalent learning gains for children learning from a multimedia science lesson](static-dynamic-graphics-equivalent-gains.md) — related
 - [Prior studies found pictures superior to video because target words did not require dynamic presentation](prior-picture-superiority-due-to-simple-concepts.md) — related
 - [Animation-enriched VP yields superior procedural quality compared with static-media VP, while video instruction does not differ from either](animation-enriched-vp-procedural-quality-pbls.md) — a narrower finding that bears on this claim
+- [Human Orrery activities with 10 to 16 year old children activate and link cognitive activities about kinematics and dynamics to sensori-motor activities](human-orrery-kinematics-sensorimotor-activation.md) — related

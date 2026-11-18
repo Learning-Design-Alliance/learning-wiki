@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-18
 recheck_by: 2021
 sources:
   - id: atish-pawar-and-vijay-mago-2018
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
+> **Currency** · newest study 2018 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The sentence similarity algorithm used in the methodology correlates with benchmark word-similarity data at Pearson r = 0.8753 and with mean human sentence-similarity judgments at r = 0.8794. [→ Atish Pawar and Vijay Mago 2018](#atish-pawar-and-vijay-mago-2018)

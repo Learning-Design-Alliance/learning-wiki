@@ -59,3 +59,5 @@ Comparison of FY (N = 2433) and BFY (N = 1158) subgroups from the matched datase
 - [PLIC scores show no statistically significant pre- to post-instruction gains for students in FY, BFY, or graduate labs overall](no-significant-plic-gains-following-instruction.md) — related
 - [PLIC performance is consistently higher with greater physics maturity, from first-year students to experts](plic-scores-increase-with-physics-maturity.md) — a broader claim this one bears on
 - [On a data-comparison item, expert responses are selected more often and novice responses less often with greater physics maturity](plic-item-selections-vary-by-maturity.md) — related
+- [PLIC pre-survey scores increase strongly with physics maturity (FY students, BFY students, experts)](plic-pre-survey-scores-rise-with-physics-maturity.md) — related
+- [Students show a small statistically significant pre-to-post gain on the PLIC in matched samples](plic-small-prepost-gain.md) — related

@@ -50,3 +50,4 @@ Qualitative analysis of open-ended Survey 1 responses (117–149 students, early
 - [Galaxy and spectra misconceptions persist after instruction, with similar patterns across two different classes](misconceptions-persist-after-instruction.md) — related
 - [The misconception that radio telescopes collect sound waves decreased after instruction, with 84% post-course correctly identifying electromagnetic waves](ska-sound-wave-misconception-reduced-post-course.md) — related
 - [Students misinterpret what spectra indicate, including temperature, composition, and distance information](spectra-interpretation-misconceptions.md) — related
+- [The lab session corrected student misconceptions about optical phase and optical versus electrical spectra, with positive feedback over four years](lab-session-misconception-correction-feedback.md) — related

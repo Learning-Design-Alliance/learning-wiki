@@ -48,3 +48,4 @@ Self-reported outcomes from the authors' decade of mentoring middle-school to co
 - [A research program for the weakest 10% of incoming freshmen yielded 22 published or under-review cadet papers in four semesters, about 38% of projects](weakest-10-percent-research-program-22-papers.md) — related
 - [The LI(A)RA project produced competitive, scholarly, and educational outcomes that validated the framework's practices](liara-outcomes-validate-framework.md) — related
 - [Science fair mentor networks determine county participation: when individual mentors stop, county competition support collapses](mentor-networks-determine-competition-participation.md) — related
+- [Freshman Projects projects frequently develop into ongoing research with presentations and student-coauthored publications](fp-projects-blossom-into-publications.md) — a broader claim this one bears on

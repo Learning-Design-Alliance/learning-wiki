@@ -68,6 +68,7 @@ Authentic audiences shift learners from performance-for-evaluation toward commun
 - [Culminate engineering learning tasks in action within real contexts through industry, government, and NGO partnerships](real-context-action-tasks-engineering.md)
 - [Develop papers through successive preliminary presentations to gather peer feedback before journal submission](preliminary-presentations-before-journal-submission.md)
 - [Let cadets choose their own publication venue after understanding the trade-offs](cadet-chosen-publication-venue-strategy.md)
+- [Encourage FP groups to present and publish beyond the department to extend project impact](disseminate-fp-work-beyond-department.md)
 
 ## Examples
 - **[PBLWorks (Buck Institute)](https://www.pblworks.org)** — Gold-standard project-based learning units culminating in public products presented to authentic audiences (experts, parents, community panels).

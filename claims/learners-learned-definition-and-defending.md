@@ -70,3 +70,4 @@ Focus-group finding on the second objective, ability to defend, from learners' o
 - [Children who chose to comfort the victim reported higher self-efficacy and victim-help expectations than those who chose to confront the bully (descriptive, imbalanced groups)](remind-strategy-choice-descriptive-differences.md) — related
 - [REMind did not significantly change children's expectations that defending would help the victim feel better](remind-victim-outcome-expectations-not-significant.md) — related
 - [After the project, students understood that the risk of radiation essentially depends on its amount and kind](radiation-risk-understanding-amount-dependence.md) — related
+- [Authors report that participants seem to have better understood the laws of thermodynamics after the game](participants-better-understand-thermodynamics.md) — a narrower finding that bears on this claim

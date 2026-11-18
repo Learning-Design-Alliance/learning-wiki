@@ -53,3 +53,4 @@ Chi-square tests in the 121-student cross-sectional survey found no statisticall
 - [Trait anxiety shows a similar sociodemographic pattern to state anxiety before the OSCE](trait-anxiety-similar-pattern-state-anxiety.md) — related
 - [Gender and accommodation type showed no statistically significant relationship with summative assessment marks](no-gender-accommodation-association-summative-marks.md) — related
 - [No statistically significant gender differences in MEQ* or MEQ-1 total scores](no-gender-differences-meq-scores.md) — related
+- [STEM courses increased the frequency and intensity of anxiety episodes for students with anxiety-related diagnoses, and testing accommodations reduced test anxiety](stem-course-anxiety-testing-accommodations.md) — related

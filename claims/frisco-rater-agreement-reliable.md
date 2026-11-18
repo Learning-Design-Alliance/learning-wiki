@@ -113,3 +113,4 @@ Reliability analysis of essay scoring by three high school physics teachers of 1
 - [A mastery-based grading rubric produces consistent scores when used by untrained graders, with Cohen's kappa of 0.95](ccmi-grading-rubric-untrained-grader-reliability.md) — related
 - [Duplicate scoring of constructed-response exam questions reveals substantial inter-rater bias and random error even with high score correlations](cr-inter-rater-unreliability.md) — related
 - [Inter-rater agreement for 3D-LAP coding meets a 75% threshold across disciplines and dimensions](3d-lap-inter-rater-agreement.md) — related
+- [Early inter-rater reliability studies found significant variation between teachers grading the same assignment, about 5 points on a 100 point scale](inter-rater-grading-variation-five-points.md) — related

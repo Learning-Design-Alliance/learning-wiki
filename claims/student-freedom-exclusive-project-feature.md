@@ -67,3 +67,4 @@ Same three-student interview study: "all students claimed the importance of plan
 - [Students reported communication with other members as the major difficulty of the project, and the most motivated student began to think critically about the research plan and physics itself](communication-major-difficulty-critical-thinking.md) — related
 - [Fourth graders taught science and social studies through the project method achieved higher final-test knowledge than peers taught in the usual way](project-method-higher-final-knowledge-young-learners.md) — related
 - [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](students-interaction-empathy-perspective-taking.md) — related
+- [Students reported learning ways of thinking, learning by doing projects, and requirements for success from the experimental project](project-lab-described-learning.md) — related

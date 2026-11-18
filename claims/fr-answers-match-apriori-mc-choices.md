@@ -49,3 +49,4 @@ Binning analysis of free-response answers from 153 students in course A, matchin
 - [Correlations between rubric-graded free-response and simulated multiple-choice performance are higher for weighted than dichotomous scoring](weighted-mc-correlation-higher-than-dichotomous.md) — related
 - [Performance trends across expertise groups are similar regardless of whether students received multiple-choice or free-response question formats](similar-performance-trends-mc-vs-free-response.md) — related
 - [Multiple-choice, multiple-response question formats tap into more student ideas than free response questions](mcmr-elicits-more-student-ideas.md) — related
+- [Preliminary results suggest multiple choice questions can mimic free-response questions under the right circumstances](multiple-choice-mimics-free-response-preliminary.md) — a broader claim this one bears on

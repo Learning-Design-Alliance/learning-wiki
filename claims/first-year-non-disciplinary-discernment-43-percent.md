@@ -50,3 +50,4 @@ Second-hand report, in this article's background section, of a qualitative study
 - [Lecturers and students do not discern the same things from the same disciplinary representation](lecturer-student-discernment-mismatch.md) — related
 - [The more disciplinary knowledge participants have, the less non-disciplinary discernment they reported](less-non-disciplinary-discernment-with-education-level.md) — a broader claim this one bears on
 - [Motion parallax in simulations cues the ability to extrapolate three-dimensionality](motion-parallax-cues-e3d-in-simulations.md) — related
+- [Pre-university students with high-school-level knowledge reproduced visually similar simulations of interacting galaxy pairs NGC 5426/7 and the Antennae](pre-university-simulation-reproduces-interacting-galaxies.md) — related

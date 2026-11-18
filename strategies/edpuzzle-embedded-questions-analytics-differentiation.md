@@ -42,6 +42,7 @@ The article recommends using Edpuzzle's customization and data features to perso
 - [Learning Dashboards](learning-dashboards.md)
 - [Tiered Assignments](tiered-assignments.md)
 - [Integrate a multimedia learning platform as a complement to traditional instruction, assigning curated playlists with embedded quizzes and flashcards for spaced repetition](multimedia-tool-complement-traditional-instruction-strategy.md)
+- [Differentiate Google Classroom use by study year: multimedia library for freshmen, source-supported analysis for second years, complex use for senior students](year-differentiated-google-classroom-uses.md)
 
 ## Examples
 -

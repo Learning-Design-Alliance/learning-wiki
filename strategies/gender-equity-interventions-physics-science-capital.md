@@ -49,7 +49,8 @@ Based on their findings, the authors recommend interventions to make physics a v
 - [Gender differences in undergraduate physics course grades were minimal and statistically insignificant after controlling for prior academic performance](../claims/gender-gap-physics-grades-minimal-controlling-gpe.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Transform the culture of physics so it signals to female students that they belong, alongside boosting science capital and utility value](transform-physics-culture-signal-belonging.md)
 
 ## Examples
 -

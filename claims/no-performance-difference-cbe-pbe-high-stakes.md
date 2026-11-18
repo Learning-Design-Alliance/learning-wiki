@@ -47,3 +47,4 @@ Randomized field experiment in a Biopsychology course: students were randomly as
 ## Related Claims
 - [After taking a computer-based exam, half of students prefer paper-based exams and about a quarter prefer computer-based exams](exam-mode-preference-after-first-cbe.md) — related
 - [Most students' opinions of computer-based exams become or remain positive after taking one, with no midterm-final difference](opinion-change-after-taking-cbe.md) — related
+- [Electronic exams were equally accepted by students, with participation numbers equal to paper-based exams](electronic-exams-equal-acceptance-participation.md) — related

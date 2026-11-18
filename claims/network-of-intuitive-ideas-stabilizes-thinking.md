@@ -63,3 +63,4 @@ Qualitative analysis of transcript episodes in which students described shorter 
 - [The Ohm's p-prim can be modeled as emerging within the wavepulse context rather than being activated as a pre-existing idea](ohm-p-prim-emerges-from-blend.md) — related
 - [Teachers' tendency to seek coherence between their intuitions and known correct answers was a key epistemological resource enabling their progress](coherence-seeking-epistemological-resource.md) — related
 - [Student groups working with ticker-tape timers shifted quickly between two mutually exclusive interpretations of the same dot spacing, drawing on different intuitive resources as the lesson's cues changed](ticker-tape-groups-shift-resource-activation.md) — related
+- [Students can coordinate correct causal elements yet draw flawed inferences, as in speed/distance compensation arguments the qualitative logic table shows cannot yield a conclusion](flawed-compensation-inference-qualitative-logic.md) — related

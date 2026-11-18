@@ -55,3 +55,4 @@ Grade-distribution analysis in the 17 secondary-mover schools. The summary repor
 - [High school course grades improved in spring 2020 and remained higher than pre-pandemic levels through spring 2021, with a slight rise in Fs](cps-high-school-grades-improved-remote-learning.md) — related
 - [Higher course grades predict larger ACT gains regardless of starting PLAN score; students with Ds or Fs lose ground](good-grades-predict-act-gains.md) — related
 - [Student performance declines from freshman to sophomore year, with course failures rising in every subject and attendance declining sharply](performance-declines-freshman-to-sophomore.md) — reports the opposite
+- [Percent-scale grading did not simply inflate grades: percent-scale students earned about 20% more A's yet also failed more, with only a small average grade shift and a narrower 4-point distribution](percent-scale-more-as-and-more-fails-not-inflation.md) — related

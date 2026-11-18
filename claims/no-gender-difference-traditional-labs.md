@@ -50,3 +50,4 @@ Same observational cluster analysis of student behaviour profiles over 30 lab pe
 - [Student behaviour profiles vary week to week rather than representing stable semester-long behaviour types](student-profiles-vary-week-to-week.md) — related
 - [Averaged code fractions corroborate the cluster result: men handle equipment more and women use laptops more in inquiry labs](inquiry-lab-code-fractions-corroborate-clusters.md) — related
 - [A statistically significant interaction between gender and instructional approach indicates the benefit of Transformed courses was larger for women than men](gender-by-instruction-interaction-women-benefit-more.md) — reports the opposite
+- [In mixed-gender introductory physics lab groups, the Tinkerer role tends to be taken by men and the Secretary (note-taking/data) role by women](secretary-tinkerer-gendered-task-division.md) — related

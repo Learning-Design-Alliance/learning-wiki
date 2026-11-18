@@ -47,3 +47,4 @@ Grade analysis of two semesters of CU's four core lab courses: matched responden
 
 ## Related Claims
 - [Survey participation was low in about half of administered classes, with only 20 of 45 classes exceeding 40% matched pre/post response](eclass-low-response-rates-half-of-classes.md) — related
+- [Matched-sample PLIC scores are biased upward relative to unmatched respondents](plic-matched-sample-bias.md) — related

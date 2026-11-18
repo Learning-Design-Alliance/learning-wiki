@@ -66,3 +66,4 @@ Antje Kohnle and Erica Deffebach. (2015). Investigating student understanding of
 ## Related Claims
 - [Many students incorrectly believe all entangled states are maximally entangled, showing perfect correlations or anticorrelations along all common measurement axes, and this persists after revised-simulation use](entanglement-maximally-entangled-misconception.md) — related
 - [Students incorrectly state that product states are entangled because they cannot be factorized, due to difficulty converting a sum of two-particle terms into a product of single-particle states](factorization-product-state-misconception.md) — related
+- [The game's entanglement part lets students encounter non-local correlations impossible in a classical system](entangle-game-nonlocal-correlations.md) — related

@@ -120970,5 +120970,469 @@
  "test-format\tstandardized tests as admission requirements\tprofessional success as a predictor criterion": {
   "label": "standardized admission tests vs professional-success criteria",
   "treatment_is_a": true
+ },
+ "active-learning\tHuman Orrery activity with bodily enactment\tnot stated": {
+  "label": "Bodily enactment (Human Orrery) vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer Instruction questions unpacking symbolic and mathematical representations\tstandard textbook-style quantitative solutions": {
+  "label": "Peer Instruction vs textbook-style quantitative instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tStudents act as scientists and quantum particles, collect data, and discuss explanations\tno comparison condition reported": {
+  "label": "Inquiry-based scientific role-play vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive learning\ttraditional learning": {
+  "label": "Active learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive learning\ttraditional lecture-only instruction": {
+  "label": "Active learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive learning lectures and exercise session\ttraditional teaching": {
+  "label": "Active learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive learning lectures and exercise sessions\ttraditional teaching": {
+  "label": "Active learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive learning methodology\ttraditional learning": {
+  "label": "Active learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive lectures and exercise session\ttraditional teaching": {
+  "label": "Active learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive methodology\ttraditional learning": {
+  "label": "Active learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tdemonstration videos, flipped classroom, and group discussion\tnot stated": {
+  "label": "Flipped, collaborative, multimedia learning vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tfocus-group brainstorming with moderated discussion and slides\ttypical definition-to-application school instruction": {
+  "label": "Discussion-based active learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tsequential Peer Instruction questions scaffolding a quantitative problem\tsolving the quantitative problem without the PI sequence": {
+  "label": "Scaffolded Peer Instruction vs unscripted problem solving",
+  "treatment_is_a": true
+ },
+ "active-learning\tunderrepresented high school students integrated into content creation and trained to photograph attendees\toutreach without high school students integrated into content creation": {
+  "label": "Participatory co-creation with students vs conventional outreach",
+  "treatment_is_a": true
+ },
+ "autonomy-support\topen dialogue about needs and accommodations\tlimited or no dialogue": {
+  "label": "open dialogue about needs and accommodations vs limited or no dialogue",
+  "treatment_is_a": true
+ },
+ "autonomy-support\topen-ended computational essay project\tstandard computational assignments": {
+  "label": "open-ended computational project vs standard fixed-endpoint computational assignments",
+  "treatment_is_a": true
+ },
+ "autonomy-support\topen-ended computational essay project with creative freedom\tstandard computational assignments with a fixed endpoint": {
+  "label": "open-ended computational project vs standard fixed-endpoint computational assignments",
+  "treatment_is_a": true
+ },
+ "autonomy-support\topen-ended computational essay with creative freedom\tstandard computational assignments with a prescribed endpoint": {
+  "label": "open-ended computational project vs standard fixed-endpoint computational assignments",
+  "treatment_is_a": true
+ },
+ "autonomy-support\topen-ended computational-essay project\tmandatory presentation-based project": {
+  "label": "open-ended computational project vs mandatory presentation-based project",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tpermission to justify not answering a written question when experiments deviate or fail\tfixed scripted written-question assessment": {
+  "label": "permission to justify nonresponse or deviations vs fixed scripted written-question assessment",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tpermission to justify not answering the stated written question\tanswering predetermined scripted questions": {
+  "label": "permission to justify nonresponse or deviations vs predetermined scripted questions",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent-selected project topic\tinstructor-suggested topics": {
+  "label": "student-selected project topic vs instructor-suggested topics",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudents choose their own project topic\tinstructor-suggested topics": {
+  "label": "student-selected project topic vs instructor-suggested topics",
+  "treatment_is_a": true
+ },
+ "case-comparison\tcompare ΛCDM with three exotic cosmological models using CLASS\tΛCDM reference model versus exotic-model cases": {
+  "label": "ΛCDM vs exotic cosmological models",
+  "treatment_is_a": true
+ },
+ "debriefing\tGame followed by group discussion and a brief presentation linking findings to quantum mechanics\tno comparison condition reported": {
+  "label": "debriefing vs no debriefing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplain interactions through exchange particles and virtual particles\texplain interactions through quantum-field-theory processes without literal particle exchange": {
+  "label": "particle-exchange explanation vs quantum-field-process explanation",
+  "treatment_is_a": true
+ },
+ "feedback-timing\timmediate oral feedback\tdelayed written feedback": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tmultiple-choice questions for high-stakes summative assessment\tmultiple-choice questions for formative assessment, such as clicker questions": {
+  "label": "formative assessment vs high-stakes summative assessment",
+  "treatment_is_a": false
+ },
+ "formative-assessment\tmultiple-choice questions used for formative assessment\tmultiple-choice questions used for high-stakes summative assessment": {
+  "label": "formative assessment vs high-stakes summative assessment",
+  "treatment_is_a": true
+ },
+ "gamification\tEntangle Me! game involving movement, ball-based measurement, and role-play\tno comparison condition reported": {
+  "label": "game-based instruction vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "gamification\tEntangle Me! quantum-mechanics game\tno comparison condition": {
+  "label": "game-based instruction vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "gamification\tEntangle Me! quantum-mechanics game\tno comparison condition reported": {
+  "label": "game-based instruction vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "gamification\tEthics Game\tlecture-based instruction": {
+  "label": "game-based instruction vs lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tEthics Game activity\tlecture-based instruction": {
+  "label": "game-based instruction vs lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tEthics Game activity\tlecture-based instruction before the game": {
+  "label": "game-based instruction vs lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tEthics Game after lecture\tlecture-based instruction before the game": {
+  "label": "game-based instruction vs lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tplaying the Quantum 3 game\tno comparison condition stated": {
+  "label": "game-based instruction vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "gamification\tprivacy-themed game\tgeneral smartwatch-use game": {
+  "label": "privacy-themed game vs general smartwatch-use game",
+  "treatment_is_a": true
+ },
+ "gamification\tprivacy-themed game group\tgeneral smartwatch-use game group": {
+  "label": "privacy-themed game vs general smartwatch-use game",
+  "treatment_is_a": true
+ },
+ "gamification\tprivacy-themed smartwatch game\tgeneral smartwatch-use game": {
+  "label": "privacy-themed game vs general smartwatch-use game",
+  "treatment_is_a": true
+ },
+ "gamification\tprivacy-themed smartwatch game\tnon-privacy smartwatch game": {
+  "label": "privacy-themed game vs non-privacy smartwatch game",
+  "treatment_is_a": true
+ },
+ "gamification\tprivacy-themed smartwatch game with privacy challenges\tsame smartwatch game without the privacy theme": {
+  "label": "privacy-themed game vs non-privacy-themed game",
+  "treatment_is_a": true
+ },
+ "learner-difference\t0–3 years of physics education beyond 9th grade\t4–6 years of physics education beyond 9th grade": {
+  "label": "more vs less physics education beyond 9th grade",
+  "treatment_is_a": false
+ },
+ "learner-difference\t0–3 years of physics education beyond 9th grade\t7–10 years of physics education beyond 9th grade": {
+  "label": "more vs less physics education beyond 9th grade",
+  "treatment_is_a": false
+ },
+ "learner-difference\t15 instructors who had taught introductory mechanics in the past seven years\t15 instructors who had not taught introductory mechanics in the past seven years": {
+  "label": "recently taught introductory mechanics vs not recently taught introductory mechanics",
+  "treatment_is_a": true
+ },
+ "learner-difference\t16–30 minutes/week interacting with LAs\t0 minutes/week interacting with LAs": {
+  "label": "some LA interaction vs no LA interaction",
+  "treatment_is_a": true
+ },
+ "learner-difference\t180 calculus-based introductory students in a large class\teight introductory student volunteers in the Chi, Feltovich, and Glaser study": {
+  "label": "large-class introductory students vs volunteer introductory students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t180 in-class introductory students a few weeks after instruction\t8 out-of-class student volunteers in Chi et al.'s study": {
+  "label": "in-class introductory students after instruction vs out-of-class volunteer students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1–5 minutes/week interacting with LAs\t0 minutes/week interacting with LAs": {
+  "label": "some LA interaction vs no LA interaction",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2009 cohort\t2008 cohort": {
+  "label": "later cohort vs earlier cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2011–2012 cohort of ten students\t2010–2011 cohort of six students": {
+  "label": "later cohort vs earlier cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2014 students scoring below 10% on the pre-test\t2014 class mean": {
+  "label": "low pre-test performance vs average pre-test performance",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tachievement-based mastery-learning-like course design\tnot stated": {
+  "label": "mastery learning vs non-mastery learning",
+  "treatment_is_a": true
+ },
+ "media-design\tcourse resources provided in multiple formats and available outside class\tfewer or single-format course resources": {
+  "label": "multi-format, broadly accessible resources vs fewer or single-format resources",
+  "treatment_is_a": true
+ },
+ "media-design\tgallery exhibit created with internationally accomplished artists\tprior IceCube education and outreach efforts without this art partnership": {
+  "label": "artist-collaborative exhibit vs conventional education and outreach",
+  "treatment_is_a": true
+ },
+ "media-design\tpresenting the accelerator as a gigantic microscope\tnot using the microscope metaphor": {
+  "label": "accelerator-as-microscope metaphor vs no microscope metaphor",
+  "treatment_is_a": true
+ },
+ "media-design\tuse the accelerator-as-microscope metaphor\texplain detection without the microscope metaphor": {
+  "label": "accelerator-as-microscope metaphor vs no microscope metaphor",
+  "treatment_is_a": true
+ },
+ "practice-amount\thaptic-device tutorial and ten practice trials before simulation\tforce-feedback simulation without the tutorial and practice trials": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\ttutorial on using haptic devices before the simulation\tno tutorial before the simulation": {
+  "label": "tutorial vs no tutorial",
+  "treatment_is_a": true
+ },
+ "prompts\tdiagram prompt\tno prompt": {
+  "label": "diagram prompt vs no prompt",
+  "treatment_is_a": true
+ },
+ "prompts\texplain every multiple-choice option\tclassify students from their selected answer alone": {
+  "label": "explain all answer options vs answer-only response",
+  "treatment_is_a": true
+ },
+ "prompts\texplain every multiple-choice option\tselect one answer only": {
+  "label": "explain all answer options vs answer-only response",
+  "treatment_is_a": true
+ },
+ "prompts\texplicit reflection prompts\tno prompt; spontaneous reflection": {
+  "label": "prompted or guided reflection vs unprompted or no reflection",
+  "treatment_is_a": true
+ },
+ "prompts\texplicit reflection questions\tspontaneous reflection without prompts": {
+  "label": "prompted or guided reflection vs unprompted or no reflection",
+  "treatment_is_a": true
+ },
+ "prompts\tgenerate a plausible explanation for every multiple-choice option\tselect one multiple-choice answer": {
+  "label": "explain all answer options vs answer-only response",
+  "treatment_is_a": true
+ },
+ "prompts\tgenerate an explanation for each multiple-choice option\tselect or rate the likely correct answer": {
+  "label": "explain all answer options vs answer-only response",
+  "treatment_is_a": true
+ },
+ "prompts\tgenerate explanations for all answer choices\tprovide only the selected multiple-choice answer": {
+  "label": "explain all answer options vs answer-only response",
+  "treatment_is_a": true
+ },
+ "prompts\tgenerate explanations for every answer choice\tselect or provide one answer": {
+  "label": "explain all answer options vs answer-only response",
+  "treatment_is_a": true
+ },
+ "prompts\tgenerate explanations for every multiple-choice option\tselect a single multiple-choice answer": {
+  "label": "explain all answer options vs answer-only response",
+  "treatment_is_a": true
+ },
+ "prompts\tgenerate explanations for every multiple-choice option\tselect one multiple-choice answer": {
+  "label": "explain all answer options vs answer-only response",
+  "treatment_is_a": true
+ },
+ "prompts\tguided reflection essay prompts\tno stated comparison": {
+  "label": "prompted or guided reflection vs unprompted or no reflection",
+  "treatment_is_a": true
+ },
+ "prompts\tguided reflective essay after the project\tno reported reflection condition": {
+  "label": "prompted or guided reflection vs unprompted or no reflection",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tMoodle-based Data Retrieval Tests\tformal laboratory-notebook marking before DRT introduction": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tMoodle-based Data Retrieval Tests\tpractice before DRT implementation": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tend-of-term Data Retrieval Test\tno DRT or the earlier notebook-marking approach": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tend-of-term DRT contributing substantially to the course grade\tlaboratory assessment before DRT implementation": {
+  "label": "substantial course-grade incentive vs no substantial course-grade incentive",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tthree-star system rewarding efficient play\tnot stated": {
+  "label": "reward system vs no reward system",
+  "treatment_is_a": true
+ },
+ "scaffolding\torganized course scaffolds such as schedules, concept maps, and learning objectives\tcourse content without these scaffolds": {
+  "label": "organized course scaffolds vs unscaffolded course content",
+  "treatment_is_a": true
+ },
+ "self-explanation\tgenerate explanations for every answer choice\tselect a multiple-choice answer only": {
+  "label": "self-explanation vs answer selection only",
+  "treatment_is_a": true
+ },
+ "self-explanation\tgenerate explanations for every multiple-choice option\tselect a single multiple-choice answer": {
+  "label": "self-explanation vs answer selection only",
+  "treatment_is_a": true
+ },
+ "simulation\tDavisson-Germer computer simulation\tpre-test before the simulation": {
+  "label": "simulation vs pre-simulation assessment",
+  "treatment_is_a": true
+ },
+ "simulation\tHuman Orrery embodied learning\tnot stated": {
+  "label": "embodied simulation vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "simulation\tHuman Orrery enactment of planetary motion\tnot stated": {
+  "label": "embodied simulation vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "simulation\tHuman Orrery learning experience\tnot stated": {
+  "label": "embodied simulation vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "simulation\tRutherford, Compton, Frank-Hertz, or Davisson-Germer simulation\tpre-test before the simulation": {
+  "label": "simulation vs pre-simulation assessment",
+  "treatment_is_a": true
+ },
+ "simulation\tcomputer simulations of modern physics experiments\tpre-simulation performance": {
+  "label": "simulation vs pre-simulation assessment",
+  "treatment_is_a": true
+ },
+ "simulation\tcomputer simulations of modern-physics experiments\tpre-examination before the simulation": {
+  "label": "simulation vs pre-simulation assessment",
+  "treatment_is_a": true
+ },
+ "simulation\thands-on numerical galaxy simulation project\tanalytical or non-simulation approach not directly tested": {
+  "label": "simulation vs non-simulation approach",
+  "treatment_is_a": true
+ },
+ "simulation\trunning computer simulations and changing experiment parameters\tclass lecture or experiments only presented in class": {
+  "label": "simulation activity vs lecture or presented experiments",
+  "treatment_is_a": true
+ },
+ "simulation\tstudent-created Python galaxy simulations\tno comparison condition reported": {
+  "label": "student-created simulation vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "simulation\tvisuo-haptic simulation with force feedback\tsupplemental reading and video": {
+  "label": "visuo-haptic simulation with force feedback vs reading and video",
+  "treatment_is_a": true
+ },
+ "simulation\tvisuo-haptic simulation with force feedback\tsupplemental reading material and video": {
+  "label": "visuo-haptic simulation with force feedback vs reading and video",
+  "treatment_is_a": true
+ },
+ "simulation\tvisuo-haptic simulation with force feedback and practice trials\tsupplemental reading and video": {
+  "label": "visuo-haptic simulation with force feedback and practice vs reading and video",
+  "treatment_is_a": true
+ },
+ "simulation\tvisuo-haptic simulation with force feedback and trials\tsupplemental reading material and video": {
+  "label": "visuo-haptic simulation with force feedback and practice vs reading and video",
+  "treatment_is_a": true
+ },
+ "test-format\tMRM questions\tSR questions": {
+  "label": "Multiple-response questions (MRM) vs single-response questions (SR)",
+  "treatment_is_a": true
+ },
+ "test-format\tMRS and MRM questions\tSR questions": {
+  "label": "Multiple-response questions (MRS/MRM) vs single-response questions (SR)",
+  "treatment_is_a": true
+ },
+ "test-format\tMRS questions\tSR questions": {
+  "label": "Multiple-response questions (MRS) vs single-response questions (SR)",
+  "treatment_is_a": true
+ },
+ "test-format\tMoodle-based Data Retrieval Test\tformal laboratory notebook marking": {
+  "label": "Moodle-based data retrieval test vs formal laboratory notebook marking",
+  "treatment_is_a": true
+ },
+ "test-format\tQ1 presented as the first question\tQ1 presented in a random position": {
+  "label": "Fixed-first question position vs randomized question position",
+  "treatment_is_a": true
+ },
+ "test-format\tQ21 presented in shuffled order\tQ21 presented in fixed original order": {
+  "label": "Randomized question order vs fixed original question order",
+  "treatment_is_a": true
+ },
+ "test-format\tQ3 detached from Q1 and Q2\tQ3 presented in the dependent-question trio": {
+  "label": "Separated question vs sequential dependent-question trio",
+  "treatment_is_a": true
+ },
+ "test-format\tQ9 MRM item with three correct responses\tQ12 and Q15 MRM items with two correct responses": {
+  "label": "MRM items with three correct responses vs MRM items with two correct responses",
+  "treatment_is_a": true
+ },
+ "test-format\tcontext-rich problems\tother introductory problem types": {
+  "label": "Context-rich problems vs other introductory problem types",
+  "treatment_is_a": true
+ },
+ "test-format\tfour-tiered correctness analysis\tall-or-none correctness scoring": {
+  "label": "Four-tiered correctness analysis vs all-or-none correctness scoring",
+  "treatment_is_a": true
+ },
+ "test-format\tmultiple-choice problems\tother introductory problem types": {
+  "label": "Multiple-choice problems vs other introductory problem types",
+  "treatment_is_a": true
+ },
+ "test-format\tmultiple-choice questions with suitable distractors and partial credit\tfree-response questions": {
+  "label": "Multiple-choice questions with distractors and partial credit vs free-response questions",
+  "treatment_is_a": true
+ },
+ "test-format\toral checks\tother assessment activities": {
+  "label": "Oral checks vs other assessment activities",
+  "treatment_is_a": true
+ },
+ "test-format\toral examination\twritten explanation": {
+  "label": "Oral examination vs written explanation",
+  "treatment_is_a": true
+ },
+ "test-format\trandomized answer-option order\tfixed answer-option order": {
+  "label": "Randomized answer-option order vs fixed answer-option order",
+  "treatment_is_a": true
+ },
+ "test-format\tseparated dependent questions with individual diagrams\tdependent questions presented sequentially as a continuation": {
+  "label": "Separated dependent questions with individual diagrams vs sequential dependent questions",
+  "treatment_is_a": true
+ },
+ "test-format\tshuffled order of dependent questions\tfixed original question order": {
+  "label": "Randomized order of dependent questions vs fixed original dependent-question order",
+  "treatment_is_a": true
+ },
+ "test-format\tshuffled order of dependent questions\toriginal dependent-question order": {
+  "label": "Randomized order of dependent questions vs fixed original dependent-question order",
+  "treatment_is_a": true
+ },
+ "test-format\tshuffled order of dependent questions\toriginal fixed question order": {
+  "label": "Randomized order of dependent questions vs fixed original dependent-question order",
+  "treatment_is_a": true
+ },
+ "test-format\tshuffled order of independent questions\tfixed original question order": {
+  "label": "Randomized order of independent questions vs fixed original question order",
+  "treatment_is_a": true
+ },
+ "test-format\tshuffled order of independent questions\toriginal fixed question order": {
+  "label": "Randomized order of independent questions vs fixed original question order",
+  "treatment_is_a": true
+ },
+ "test-format\tshuffled order of independent questions\toriginal question order": {
+  "label": "Randomized order of independent questions vs fixed original question order",
+  "treatment_is_a": true
  }
 }

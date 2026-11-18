@@ -50,3 +50,4 @@ Secondary analysis within the observational study: because each student has one 
 - [Most learners (68%) maintain the same inquiry-strategy cluster across two different simulations, indicating stable rather than task-specific approaches](inquiry-cluster-stability-across-simulations.md) — related
 - [Positive adaptation showed the highest temporal stability while maladaptive adaptation was the least stable profile across the semester](positive-adaptation-highest-stability-maladaptive-least.md) — related
 - [In inquiry-based physics labs, women's profiles cluster in laptop use and men's in equipment use, indicating gendered task division](gendered-task-division-inquiry-labs.md) — related
+- [Students who worked most during the semester appeared to have the best exam performances (observational, untested)](usage-during-semester-associated-with-exam-performance.md) — related

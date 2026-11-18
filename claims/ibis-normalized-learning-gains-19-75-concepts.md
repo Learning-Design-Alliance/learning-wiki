@@ -55,3 +55,4 @@ Four-year pre/post concept assessment of 724 enrolled students (542 matched pre-
 - [Both control and experimental sixth-grade groups made statistically significant overall gains on the Lunar Phases Concept Inventory from pre to post](earth-space-unit-lpci-overall-gains-both-groups.md) — related
 - [Intervention students improved significantly on five of ten pre/post concept-assessment items, with an overall normalized change of 0.139, but showed a significant decrease in placing an extinct common ancestor](pre-post-concept-assessment-gains.md) — related
 - [The general physics course with the computational modelling component achieved an average FCI gain of 22%, performing like a traditional instruction course](fci-gain-22-percent-traditional-instruction.md) — related
+- [Pre- to post-exam gains of 30% to 50% were obtained across the simulations tested at UTEP and UWO](simulation-pre-post-gains-30-50-percent.md) — related

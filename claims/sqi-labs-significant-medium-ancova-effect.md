@@ -49,3 +49,5 @@ ANCOVA on post-instruction PLIC scores for 383 traditional-FY and 201 SQI-FY stu
 - [PLIC scores show no statistically significant pre- to post-instruction gains for students in FY, BFY, or graduate labs overall](no-significant-plic-gains-following-instruction.md) — reports the opposite
 - [SQI-lab students improve on all but one PLIC question while traditional-lab students improve on only 4 of 10](sqi-gains-across-plic-questions.md) — related
 - [Following instruction, SQI-lab students favor the residual-distribution expert response much more than traditional-lab students](sqi-students-favor-residual-distribution-response.md) — a narrower finding that bears on this claim
+- [Students in labs designed to teach critical thinking score about 0.52 points higher at post-test controlling for pre-score](ctlabs-higher-post-scores.md) — possibly the same claim (merge candidate)
+- [Students show a small statistically significant pre-to-post gain on the PLIC in matched samples](plic-small-prepost-gain.md) — related

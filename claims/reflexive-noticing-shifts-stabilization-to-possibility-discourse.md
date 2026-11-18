@@ -71,3 +71,4 @@ This is a single-school qualitative discourse study without a comparison school 
 - [Consciousness is most prominent during change and has little role in fixed reflexes and well-established habits](consciousness-prominent-in-change-not-habits.md) — related
 - [Agnes shifted to an exotopic position, viewing the problem from outside, which expanded collaboration](exotopic-position-shift-expands-collaboration.md) — related
 - [A student reframing toward physical mapping — checking how the mathematics fits the physical system — resolved the group's difficulty](physical-mapping-reframing-resolves-difficulty.md) — related
+- [Fine analyses of classroom unfoldings reveal recurring student difficulties tied to implicit shifts the teacher does not always notice](implicit-viewpoint-shifts-student-difficulties.md) — related

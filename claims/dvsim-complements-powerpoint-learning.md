@@ -47,3 +47,4 @@ Theme from the thematic analysis of student interviews: a participant explained 
 ## Related Claims
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — a broader claim this one bears on
 - [Digital tools complemented hands-on investigations by providing opportunities not possible in the classroom and letting children easily practice what they learned in hands-on activities.](nico-nor-digital-tools-complement-hands-on.md) — related
+- [Students retain information better when a virtual learning environment complements the traditional learning environment](vle-complement-traditional-teaching-retention.md) — related

@@ -69,3 +69,4 @@ Survey item analysis (Figure 1) comparing graduate students' responses under the
 - [AAPS responses differentiate expertise levels: groups of different physics expertise differ by large effect sizes in expert-likeness of problem-solving attitudes](aaps-group-expertise-effect-sizes.md) — related
 - [Graduate students are still developing expertise in graduate-level problem solving compared with physics faculty](grad-students-developing-graduate-level-expertise.md) — related
 - [On the AAPS survey, faculty respond more expert-like than Ph.D. students, who respond more expert-like than introductory students, with large effect sizes](aaps-expertise-gradient-effect-sizes.md) — related
+- [At the end of the course, introductory astronomy students have more expert-like attitudes and approaches to problem solving than introductory physics students, with a large effect size (Cohen's d = 0.81)](aaps-astronomy-favorable-than-physics.md) — related

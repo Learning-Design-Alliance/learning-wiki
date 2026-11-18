@@ -41,7 +41,8 @@ The article recommends a specific infrastructure for computational exercises: Py
 - scientific reporting
 
 ## Related Strategies
-- 
+
+- [Preparing electronic educational resources with the CoCalc toolset](eor-preparable-with-cocalc-toolset.md)
 
 ## Examples
 -

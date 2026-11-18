@@ -53,3 +53,4 @@ GT contingency-table analysis of category scores (item counts per category rangi
 - [Topical time-on-task alone is insufficient to account for the BEMA performance differences between curricula](time-on-task-insufficient-explanation.md) — related
 - [FCI performance differences between traditional and M&I curricula persist after accounting for pre-instruction FCI scores, GPA, and SAT scores.](fci-differences-persist-after-controls.md) — related
 - [Traditional curriculum students significantly outperform Matter & Interactions students on the FCI post-test in introductory mechanics.](traditional-curriculum-higher-fci-posttest-than-mi.md) — related
+- [BEMA mean scores at TAMU were 27% at pre-instruction and 42% at post-instruction on WebAssign](bema-mean-scores-pre-post-webassign.md) — related

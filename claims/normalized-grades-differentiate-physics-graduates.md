@@ -48,3 +48,5 @@ Same FIG. 3a normalized-comparison analysis; the discussion adds that physics de
 - [Most (87%) students who declare a physics major and graduate earn a degree in some STEM field](87-percent-physics-declarers-graduate-stem.md) — related
 - [Students who leave the physics major take required introductory courses later than the recommended schedule, while physics degree earners take them earlier](course-timing-differentiates-physics-degree-earners.md) — related
 - [Engineering-bound leavers exit physics during or after the first E&M course, while other-STEM-bound leavers leave much later](exit-timing-differs-by-destination-degree.md) — related
+- [Grades in introductory physics and calculus, course timing, gender, and ethnicity have negligible effect sizes and much smaller roles in predicting physics versus engineering graduation](grades-demographics-negligible-effect-physics-degree.md) — related
+- [Lower-division coursework performance is a strong indicator of whether an electrical engineering student graduates](lower-division-performance-indicates-graduation.md) — related

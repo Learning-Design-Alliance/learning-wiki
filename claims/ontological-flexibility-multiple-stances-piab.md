@@ -77,3 +77,4 @@ End of the results section. The authors summarize the two episodes as showing 'm
 - [An exclusive substance metaphor led a student to incorrectly claim energy is released when bonds are broken; switching to a mixed ontology helped her analyze the situation correctly](substance-metaphor-bond-breaking-misconception.md) — related
 - [Students spontaneously engage in metacognition, explicitly tagging when their reasoning switches between quantum and classical explanations](spontaneous-metacognitive-tagging-classical-quantum.md) — related
 - [Student understanding of wave-particle duality falls into three clusters ranging from classical to quasiquantum description](three-clusters-wave-particle-duality-understanding.md) — related
+- [Introducing elementary particles as 'smallest particles' or via the microscope metaphor risks the misconception of particles as small pieces of ordinary matter](naive-particle-notion-misconception-risk.md) — related

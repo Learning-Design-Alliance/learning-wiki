@@ -78,3 +78,4 @@ Review synthesis in Chapter 2 of psychological evidence on mindsets. The review 
 - [Grit, sense of belonging, and motives for attending college showed no significant direct associations with academic achievement in this sample](grit-belonging-motives-no-achievement-association.md) — related
 - [Students' fixed mindsets in math positively predict test anxiety and negatively predict self-efficacy, persistence and achievement](student-fixed-mindset-predicts-math-motivation-outcomes.md) — a narrower finding that bears on this claim
 - [Basic psychological needs positively predict college students' academic self-efficacy](bpn-predict-academic-self-efficacy.md) — related
+- [K-12 report card grades are multidimensional measures of cognitive and noncognitive factors, not solely achievement](grades-multidimensional-cognitive-noncognitive-factors.md) — related

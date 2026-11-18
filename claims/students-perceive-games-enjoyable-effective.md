@@ -54,3 +54,4 @@ Post-course online survey of 30 gamer-group students using 5-point Likert statem
 - [Medical students who played weekly open-access pharmacology games showed significant pretest-to-posttest score improvement, while control students did not](pharmacology-games-significant-posttest-gain.md) — related
 - [Seventy percent of surveyed students believed they learned better from the gaming format than from didactic lectures, and most favored reward points for game activities](students-prefer-games-over-lectures-points.md) — related
 - [A large majority of students perceived the gamified review activities as useful, motivating, and enjoyable](students-perceive-gamification-useful-motivating-enjoyable.md) — related
+- [Students report high enjoyment and perceived usefulness of the quantum mechanics game after a class test](entangle-game-high-acceptance-survey.md) — related

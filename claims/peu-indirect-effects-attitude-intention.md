@@ -70,3 +70,4 @@ Same analysis; the authors describe the causal chains PEU→EN→AT→BI and PEU
 - [Perceived ease of use is a robust predictor, positively and significantly influencing students' attitudes towards CSCL and their perceptions of usefulness](ease-of-use-predicts-attitude-and-usefulness-cscl.md) — related
 - [Attitude, facilitating conditions, and social influence correlate most strongly with behavioral intention, while perceived ease of use correlates weakest](at-fc-si-strongest-bi-correlates-peou-weakest.md) — reports the opposite
 - [Students find online feedback more enjoyable and useful than traditional feedback in undergraduate mathematical assessment](online-feedback-more-enjoyable-useful-than-traditional.md) — related
+- [Computer self-efficacy influences e-learning intention indirectly through perceived usefulness and perceived ease of use more strongly for non-STEM students than for STEM students](cse-effects-stronger-non-stem.md) — related

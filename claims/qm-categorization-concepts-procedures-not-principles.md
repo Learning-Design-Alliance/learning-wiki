@@ -51,3 +51,5 @@ Theme from individual discussions with faculty participants, not a tested result
 - [Upper-level quantum mechanics students often categorize problems by surface features rather than solution similarity](qm-students-poor-problem-categorization.md) — related
 - [Instructors agree that the primary goals of an upper-division QM course are learning the postulates and formalism and applying the formalism to solve diverse problems](qm-course-goals-postulates-formalism-problem-solving.md) — related
 - [Most introductory students have difficulty qualitatively interpreting basic energy and momentum principles and applying them in physical situations](students-difficulty-qualitative-energy-momentum.md) — related
+- [Quantum field theory is rarely taught or even mentioned in introductory physics courses from high school through upper-division undergraduate levels](qft-absent-from-introductory-physics-courses.md) — related
+- [Expert categorization of upper-level quantum mechanics problems is based primarily on the process involved (measurement or time evolution) rather than on fundamental principles](qm-categorization-based-on-process.md) — related

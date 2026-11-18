@@ -53,4 +53,4 @@ A concrete program practice for supporting novice learners doing authentic resea
 -
 
 ## Key Sources
-- Rebull, L. M., Fitzgerald, M., Roberts, T., French, D. A., Laurence, W., Gorjian, V., & Squires, G. K. (2018). The NASA/IPAC Teacher Archive Research Program (NITARP). https://arxiv.org/abs/1804.08743
+- Rebull, L. M., Fitzgerald, M., Roberts, T., French, D. A., Laurence, W., Gorjian, V., & Squires, G. K. (2018). The NASA/IPAC Teacher Archive Research Program (NITARP). https://arxiv.org/abs/1804.08743. [doi:10.48550/arxiv.1804.08743](https://doi.org/10.48550/arxiv.1804.08743)

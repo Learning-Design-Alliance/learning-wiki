@@ -70,3 +70,4 @@ Post hoc analysis adding all six active strategies into the model in the same st
 - [Quiz-and-reflection and extended-quiz conditions show no significant difference in unit exam performance](quiz-reflection-vs-extended-quiz-unit-exam-no-difference.md) — related
 - [Training activity scores in cognitive, metacognitive, and behavioral/environmental regulation each significantly related to subsequent exam performance after controlling for prior knowledge](training-scores-partial-correlations-exams.md) — related
 - [Students in terms with online, open-book preclass reading quizzes earned 4.9% more exam points than control-term students with equivalent non-biology GPA](reading-quizzes-raise-community-college-exam-scores.md) — related
+- [Students working mostly from home and primarily taking quizzes (cluster C5) do not show improved performance](home-quiz-use-no-performance-gain.md) — related

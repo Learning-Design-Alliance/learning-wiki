@@ -66,6 +66,7 @@ Sustained attention on a single task degrades well before learners report losing
 - Movement Breaks — the between-interval activity that restores vigilance
 - [Apply the 10-minutes-per-grade homework time guideline, adjusted modestly for remote learning](ten-minutes-per-grade-homework-guideline.md)
 - [Break large homework assignments into smaller, frequent, short-duration daily tasks](frequent-short-homework-tasks.md)
+- [Divide a demanding programming project into incrementally more complex chunks with small self-set goals](chunked-incremental-goals-student-programming-project.md)
 
 ## Examples
 - A Grade 3 teacher sets a 12-minute timer for writing workshop; at each timer, students bring their draft page to the teacher's desk for a 30-second check, then return — combining monitoring, movement, and feedback.

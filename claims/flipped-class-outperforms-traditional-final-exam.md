@@ -66,3 +66,4 @@ T-test and F-test analysis of Semester 2012 exam score distributions. The final-
 ## Related Claims
 - [Reducing the face-to-face lecture proportion from 1/2 to 1/3 of class time did not affect student achievement in flipped physics classes](lecture-proportion-no-achievement-effect.md) — related
 - [Students in the hybrid section scored significantly lower than students in the traditional section on all midterm and final exams in introductory microbiology](hybrid-section-lower-exam-scores-microbiology.md) — related
+- [Midterm exam averages were higher in classes whose learning was developed based on identified student intelligence levels than in classes that did not use it](midterm-gains-when-learning-based-on-intelligence-level.md) — related

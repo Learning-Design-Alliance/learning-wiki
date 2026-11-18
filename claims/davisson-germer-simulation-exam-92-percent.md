@@ -66,3 +66,4 @@ Midterm exam result in the same physics-majors course after a reading quiz, an i
 ## Related Claims
 - [Students completing multimedia learning modules before tutorials achieve significantly higher normalized learning gains on the CSEM than students preparing via textbook reading and lecture](mlm-preparation-higher-csem-normalized-gain.md) — a broader claim this one bears on
 - [Interactive simulations with associated homework increased students' explicit discussion and multiple-model use, but not Schrödinger-model use](simulations-increase-explicit-model-discussion.md) — related
+- [Davisson-Germer simulation study with over 50 UTEP students showed improved post-exam performance on basic knowledge of the experiment](davisson-germer-simulation-pre-post-improvement.md) — related

@@ -49,3 +49,5 @@ Cluster analysis of 522 normalized behaviour profiles observed over 30 lab perio
 - [In traditional guided-verification physics labs, no gender difference appears in the distribution of behaviour profiles](no-gender-difference-traditional-labs.md) — related
 - [Laptop and paper cluster membership is fully determined by lab format: laptop-only profiles in inquiry labs, paper-only in traditional labs](lab-format-determines-note-taking-cluster.md) — related
 - [Student behaviour profiles vary week to week rather than representing stable semester-long behaviour types](student-profiles-vary-week-to-week.md) — related
+- [In mixed-gender pairs in an introductory physics lab, female students on average handle the equipment no more or less than an equal share of the time (40±6%, not statistically different from 50%)](female-equipment-use-not-different-from-equal.md) — reports the opposite
+- [In mixed-gender introductory physics lab groups, the Tinkerer role tends to be taken by men and the Secretary (note-taking/data) role by women](secretary-tinkerer-gendered-task-division.md) — related

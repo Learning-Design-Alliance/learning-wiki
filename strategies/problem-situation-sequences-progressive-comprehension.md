@@ -43,6 +43,7 @@ The authors propose identifying a sequence of situations-problems whose resoluti
 
 - [Anchored Instruction](anchored-instruction.md)
 - [Real World Math Applications](real-world_math_applications.md)
+- [Reverse 'application to definition' path: start from societal concepts and reveal the physics quantities behind them](application-to-definition-reverse-path.md)
 
 ## Examples
 -

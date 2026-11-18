@@ -48,3 +48,4 @@ Post-survey item analysis (Fig. 4; N(Traditional)=383, N(SQI)=201) on comparing 
 - [On a data-comparison item, expert responses are selected more often and novice responses less often with greater physics maturity](plic-item-selections-vary-by-maturity.md) — related
 - [SQI-lab students improve on all but one PLIC question while traditional-lab students improve on only 4 of 10](sqi-gains-across-plic-questions.md) — related
 - [SQI labs produce a statistically significant, medium effect on post-instruction PLIC scores controlling for pre-scores](sqi-labs-significant-medium-ancova-effect.md) — a broader claim this one bears on
+- [Students in labs designed to teach critical thinking score about 0.52 points higher at post-test controlling for pre-score](ctlabs-higher-post-scores.md) — related

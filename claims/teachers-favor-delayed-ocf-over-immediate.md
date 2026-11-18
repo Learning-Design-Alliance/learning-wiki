@@ -56,3 +56,4 @@ In the timing analysis of the six-teacher interview study, "The overall triodes 
 - [Learners prefer receiving corrective feedback more than teachers feel they should provide it](learners-prefer-cf-more-than-teachers-provide.md) — related
 - [High-school teachers favor laboratory tests in physics entrance examinations more than college physicists do](hall-1910-laboratory-entrance-test-split.md) — related
 - [Immediate video tape playback is believed to give new instructors insight into their errors not possible with other existing methods](video-tape-playback-instructor-feedback.md) — related
+- [Students report improved ability to explain and communicate through oral checks, with a strong preference for immediate oral feedback over delayed written feedback](oral-checks-communication-feedback-2016.md) — reports the opposite

@@ -53,3 +53,4 @@ Controlled randomized treatment study in calculus-based freshman physics at OSU:
 - [Students report significantly higher enjoyment and perceived helpfulness for the VR treatment than for video and static image treatments](student-preference-for-vr-enjoyment-helpfulness.md) — related
 - [Pre-post gains show a significant gender difference favoring men in the VR treatment only, not in the video or image treatments](vr-gender-gap-men-larger-gains.md) — related
 - [The review reports, citing Salzman et al., that students using the MaxwellWorld immersive VR system developed significantly better understanding of electrostatic concepts than students using a 2-D application](maxwellworld-vr-better-electrostatic-understanding-than-emfield.md) — related
+- [Students using stereoscopic VR did not significantly outperform students using WebGL simulations or static 2D images on 3D magnetostatics items](vr-no-outperform-webgl-images-magnetostatics.md) — related

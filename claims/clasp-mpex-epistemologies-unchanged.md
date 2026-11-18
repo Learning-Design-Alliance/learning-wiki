@@ -62,3 +62,6 @@ MPEX-II survey administered in Fall 2008 to about 600 students in two CLASP A co
 - [A collaborative expert-role learning design in Class 3 strengthened students' perceived physics learning compared with Class 1 and 2](eqm-expert-roles-improved-perceived-learning.md) — related
 - [Attitudes toward science measured by the CLASS survey showed no significant differences between the concepts-first and active-learning-only sections, and neither section's scores appreciably changed](class-attitudes-no-section-differences.md) — related
 - [MPEX Reality Link scores typically deteriorate over a semester of physics instruction](mpex-reality-link-negative-shift-instruction.md) — related
+- [Introductory physics and astronomy students achieve comparable FCI conceptual gains on force concepts, despite differing attitudes](fci-conceptual-gains-comparable.md) — related
+- [Standard physics courses often have a negative impact on students' attitudes and beliefs, leaving students' beliefs less expertlike after a course](standard-courses-negative-belief-shifts.md) — related
+- [Traditional introductory laboratory courses showed small decreases in expert-like attitudes about experimental physics from pre to post instruction](traditional-labs-e-class-decreases.md) — related

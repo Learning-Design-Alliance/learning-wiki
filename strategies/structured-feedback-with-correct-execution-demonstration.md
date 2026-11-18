@@ -45,7 +45,8 @@ After the formative examination, students should receive structured feedback tha
 - [Only about a third of students correctly estimated their OSCE performance, and self-assessment correlated only weakly with actual score (r=0.26)](../claims/self-assessment-overestimation-osce-r-026.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Oral mastery demonstrations in student pairs, with a pitch and course-assignment evidence requirement](pair-oral-demonstration-strategy.md)
 
 ## Examples
 -

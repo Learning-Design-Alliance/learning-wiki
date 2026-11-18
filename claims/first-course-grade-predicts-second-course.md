@@ -48,3 +48,4 @@ HLM results (Table 1) show First series of course β values of 0.528 (PHY 432), 
 - [Entering GPA is the single best predictor of grades in large-enrollment upper-level life sciences courses, accounting for 22.3–58.0% of variance (β 0.315–0.662)](entering-gpa-best-predictor-life-science-grades.md) — related
 - [The gender gap is absent in courses with free-response exams and for biochemistry majors, suggesting the bias is artificial](free-response-exams-no-gender-gap.md) — related
 - [Female students earn lower grades than equivalently prepared male counterparts in most courses studied (β −0.021 to −0.133; up to 0.303 grade points lower)](gender-gap-upper-level-life-science-courses.md) — reports the opposite
+- [Students who worked most during the semester appeared to have the best exam performances (observational, untested)](usage-during-semester-associated-with-exam-performance.md) — related

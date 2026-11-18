@@ -54,6 +54,7 @@ Standard professional development often positions research or expert frameworks 
 - (none yet linked)
 - [Self-directed professional learning cycle in recurring two-week PD chunks with public goals and study groups](summit-self-directed-teacher-pd-cycle.md)
 - [Shift from one-day fragmented workshops to collaborative, extended, content-focused professional development](collaborative-extended-professional-development-shift.md)
+- [Teacher professional development scenarios built on collective work on actual practices, extending the ZPD to a ZPDP](zpdp-collective-work-on-practices-training.md)
 
 ## Examples
 - Six secondary science teachers used this structure across four Saturday sessions (Oct 2017-May 2018) to explore the role of relationships in scientific argumentation, producing 25 total reflections and 11+ hours of recorded discussion.

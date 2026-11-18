@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: weak
 newest_evidence: 2018
+source_checked: 2026-11-18
 sources:
   - id: fragkoudi-2018
     resource: "https://doi.org/10.48550/arXiv.1808.03521"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` After bi-communal astronomy visits, Greek-Cypriot and Turkish-Cypriot participants reported feelings of improved understanding and empathy of each other. [→ Fragkoudi 2018](#fragkoudi-2018)

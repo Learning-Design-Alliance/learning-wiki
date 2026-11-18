@@ -51,3 +51,4 @@ Descriptive analysis of eight years of program records retrieved from the electr
 - [Breast cancer CCASP: mean module-test pass of 79.3% and certification exam pass of 83%, with 7% failing](ccasp-breast-program-exam-outcomes.md) — reports the opposite
 - [CCASP fellows were predominantly European mid-career oncologists, with specialty mix varying by program](ccasp-fellow-demographics-specialty-mix.md) — related
 - [Lymphoma CCASP: mean module-test pass of 83% and certification exam pass of 88.5%, with scores mainly Very Good and Good](ccasp-lymphoma-program-exam-outcomes.md) — a narrower finding that bears on this claim
+- [All students give midterm and final oral presentations and write a technical report, archived in the Fermilab Education Office web archive, with 6 ECTS credits upon passing a University of Pisa final exam](midterm-final-presentations-technical-report-ects.md) — related

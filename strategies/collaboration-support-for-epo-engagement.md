@@ -47,6 +47,7 @@ The article's survey item Q22 asked how DES and other large collaborations could
 - [Sustain scientist participation in outreach by designing projects that capitalize on scientists' hobbies and creativity](capitalize-scientist-hobbies-for-sustainable-epo.md)
 - [Pair technology access with targeted investments in infrastructure, staffing, and support, and pilot initiatives with dedicated budgets](pair-access-with-infrastructure-investment.md)
 - [Invest in dedicated instructional technology leadership roles and role-specific professional learning for AI literacy](role-specific-ai-professional-learning-leadership.md)
+- [Create dedicated funding mechanisms for UAT-like research-engagement components in large scientific projects](funding-mechanisms-for-uat-like-programs.md)
 
 ## Examples
 -

@@ -50,6 +50,7 @@ The article recommends tailoring journal club design to students' academic level
 - [Offer adaptive learning pathways tailored to learners' prior ultrasound experience level](adaptive-pathways-by-prior-experience.md)
 - [Differentiate e-module design by achievement level: add spaced repetition and adaptive quizzes for low achievers and advanced case-based challenges for high achievers](differentiated-e-module-design-by-achievement-level.md)
 - [Differentiate transition curricula by prior experience level, offering abbreviated foundational modules and extended advanced sessions for experienced practitioners](experience-differentiated-transition-pathways.md)
+- [Form journal clubs specifically designed for undergraduates and early graduate students, using Bites summaries as entry points](bites-based-undergraduate-journal-clubs.md)
 
 ## Examples
 -

@@ -70,3 +70,5 @@ In individual discussion, one faculty member felt that "the misconceptions in QM
 - [Instructors agree that the primary goals of an upper-division QM course are learning the postulates and formalism and applying the formalism to solve diverse problems](qm-course-goals-postulates-formalism-problem-solving.md) — related
 - [Some instructors recall struggling to make conceptual sense of QM as undergraduates despite being facile at calculations and getting good grades](qm-instructors-own-learning-struggles.md) — related
 - [Instructors rated students' mathematical preparation for QM as average or below average, with special functions rated weakest](qm-student-math-preparation-rated-below-average.md) — related
+- [Quantum field theory is rarely taught or even mentioned in introductory physics courses from high school through upper-division undergraduate levels](qft-absent-from-introductory-physics-courses.md) — related
+- [Popular undergraduate modern physics textbooks contain misstatements claiming special relativity applies only to inertial frames](textbook-misstatements-sr-inertial-only.md) — related

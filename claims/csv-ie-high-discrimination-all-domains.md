@@ -50,3 +50,4 @@ Discrimination index analysis of the CSV-IE item against GM-ITE 2022 results, us
 - [VSAQ assessments demonstrate strong discriminatory power between high- and low-performing students](vsaq-strong-discrimination-pooled-fishers-z-1-45.md) — related
 - [All 12 cases had excellent discriminatory ability (item analysis: 0.31–0.84)](foi-test-all-12-cases-excellent-discrimination.md) — related
 - [The two-step pretest (expert consensus plus resident discrimination test) selected 94 questions in 23 domains, all with high discrimination power](two-step-pretest-94-question-tool-development.md) — related
+- [In IJSO 2013 data, 21 questions had very high DI (0.5 to 0.8) and 17 questions had reasonable DI (0.1 to 0.4)](ijso-2013-di-question-level-distribution.md) — related

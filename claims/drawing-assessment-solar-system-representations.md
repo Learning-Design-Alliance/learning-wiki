@@ -50,3 +50,4 @@ Qualitative observation of EG students' end-of-activity drawings made without vi
 - [Individual viewing of an animation film about the Solar System yields low knowledge gains in first-graders](individual-viewing-animation-low-gains.md) — related
 - [A short animated film transmits a high density of information that cannot be learned in a single viewing and can negatively affect understanding](animation-information-density-single-viewing.md) — related
 - [Twenty-one of 30 deaf students correctly marked where the Sun rises and sets after observation-based activities](sun-rise-set-drawing-21-of-30-correct.md) — related
+- [Human Orrery activities with 10 to 16 year old children activate and link cognitive activities about kinematics and dynamics to sensori-motor activities](human-orrery-kinematics-sensorimotor-activation.md) — related

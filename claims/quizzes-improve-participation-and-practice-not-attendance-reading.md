@@ -88,3 +88,4 @@ In the same within-subject study, attendance showed no omnibus effect (F = 2.47,
 - [The number of quiz questions (five vs. ten) does not moderate the improvement in exam performance](quiz-question-number-does-not-moderate-testing-effect.md) — related
 - [Active learning conditions more often include quizzes, homework, and learning/exam preparation than lecture conditions](active-learning-conditions-more-other-pedagogical-features.md) — related
 - [Response cards markedly increase student responding and quiz scores compared with hand raising](response-cards-increase-responding-and-quiz-scores.md) — related
+- [Students working mostly from home and primarily taking quizzes (cluster C5) do not show improved performance](home-quiz-use-no-performance-gain.md) — related

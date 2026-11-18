@@ -86,6 +86,7 @@ Predictability reduces the cognitive and emotional load of participation: when s
 - Think-pair-share — pair rehearsal before the called-on turn improves response quality under the same structure
 - Volunteer-only discussion — the contrast case; equitable but often dominated by a few confident students
 - [Instructors should explain the rationale for active learning practices and buffer cold calling with peer discussion](buffer-cold-calling-rationale-strategy.md)
+- [Collaboration-level inclusive-climate practices: anti-harassment onboarding, moderated telecon turn-taking, junior-first question order, student-only debriefs, and a Climate and Equity committee](distributed-collaboration-inclusive-climate-practices.md)
 
 ## Examples
 - **Harvard Business School-style cold-calling, modified**: some case-method instructors post the day's calling sequence on the board before class so students can prepare their case analysis for their slot — retaining accountability while adding preparation time.

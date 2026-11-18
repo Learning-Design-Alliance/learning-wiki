@@ -69,3 +69,4 @@ Same no-motivation analysis of the roughly 70 no-responders; the paper reports "
 - [Among students wanting a scientific career, more male than female students think they have a talent for science (about 40% vs 20%)](masterclass-talent-self-perception-gender-gap.md) — related
 - [Male and female students give very similar answers about the Masterclass activities themselves, differing mainly on interest in physics outside school](masterclass-satisfaction-similar-across-gender.md) — related
 - [Among students wanting a scientific career, more female than male students are attracted by the idea of traveling (about 37% vs 23%)](masterclass-travel-motivation-gender-gap.md) — related
+- [Most surveyed students say they are interested in science although most do not intend to become a scientist](interested-in-science-not-scientist-career.md) — related

@@ -71,6 +71,7 @@ Many other systems for teaching problem-solving exist for specific domains — g
 - [Combine a graphic organizer with varied grouping formats to scaffold non-routine problem solving](combine-organizer-with-varied-grouping-scaffolds.md)
 - [Structure PBL instruction through the five steps of question, analysis, problem solving, results reporting, and reflection and evaluation](pbl-five-step-english-teaching-strategy.md)
 - [Provide explicit guidance and sustained practice on decomposing multi-step problems and connecting sub-problems when using solved examples for analogical reasoning](explicit-guidance-decompose-connect-subproblems.md)
+- [Decompose complex open statistics exercises into path-dependent stages with fallback stages and accepted input corridors](staged-path-dependent-exercise-decomposition.md)
 
 ## Examples
 - **IDEAL in mathematics instruction:** a teacher models the full cycle on a non-routine word problem, then students work in pairs on a structurally similar problem using an IDEAL organizer, comparing their representation to the modeled one afterward.

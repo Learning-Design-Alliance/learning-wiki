@@ -163,3 +163,4 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Pilot workshop feedback indicates increased interest in physics among KS4 students after an art-based particle physics workshop](art-workshop-increased-physics-interest-ks4.md) — related
 - [A multidisciplinary art-physics laboratory on light polarization is reported by the author to make students more engaged and the learning of the physics concepts more effective](art-physics-polarization-lab-engagement.md) — related
 - [The author argues that combining simulations with experiments helps students see the connection between them and understand their limitations](simulation-experiment-combination-builds-connection-awareness.md) — related
+- [Students report high enjoyment and perceived usefulness of the quantum mechanics game after a class test](entangle-game-high-acceptance-survey.md) — related

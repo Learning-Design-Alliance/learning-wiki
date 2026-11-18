@@ -50,3 +50,5 @@ Item-level analysis of pre-instruction PLIC responses (Fig. 2; N(FY)=584, N(BFY)
 - [Graduate students are still developing expertise in graduate-level problem solving compared with physics faculty](grad-students-developing-graduate-level-expertise.md) — related
 - [Some AAPS responses are counter-intuitive and require careful interpretation: graduate students can match introductory students superficially, and faculty can appear less favorable due to automaticity](aaps-counterintuitive-responses-careful-interpretation.md) — related
 - [Beyond-first-year students and first-year physics majors score significantly more expert-like than their comparison groups, supporting concurrent validity](eclass-concurrent-validity-course-level-major.md) — related
+- [Low-scoring quick responders apply answering patterns rather than picking answers at random](answering-patterns-not-random-guessing.md) — related
+- [PLIC pre-survey scores increase strongly with physics maturity (FY students, BFY students, experts)](plic-pre-survey-scores-rise-with-physics-maturity.md) — a broader claim this one bears on

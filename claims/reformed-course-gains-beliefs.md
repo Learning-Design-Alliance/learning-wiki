@@ -84,3 +84,5 @@ Comparison courses reported in the same section: the pre-reform engineering cour
 - [One semester of modern physics instruction significantly shifts student reasoning toward quantum-specific justifications on a measurement statement.](modern-physics-instruction-shifts-quantum-reasoning.md) — related
 - [Simulations reportedly generated more student discussions on the foundations of quantum mechanics than the previous year, an anecdotal observation](simulations-sparked-foundations-discussions.md) — related
 - [Interactive engagement methods produced significantly higher QMCS scores than traditional teaching](interactive-engagement-higher-quantum-scores.md) — related
+- [The demonstration positively impacted students' interest in physics and promoted appreciation of quantum mechanics' role in modern industry, per written evaluations](demo-boosts-interest-physics-quantum-industry-appreciation.md) — related
+- [Standard physics courses often have a negative impact on students' attitudes and beliefs, leaving students' beliefs less expertlike after a course](standard-courses-negative-belief-shifts.md) — related

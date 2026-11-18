@@ -56,3 +56,4 @@ Summary of CTT validation statistics for CU's assessments (excluding QMAT): "Ove
 - [The CMR CUE yields an overall average score of 52.6 ± 0.9% (by student) across 15 courses at 9 institutions, with a slightly non-normal, positively skewed score distribution](cmr-cue-overall-average-52-6-percent.md) — related
 - [Class-average Δθ correlates strongly with ⟨g⟩ (r = 0.99), and an IAS of 25% is necessary but not sufficient for average Δθ > 1](class-average-delta-theta-ias-25-percent.md) — related
 - [The CURrENT shows substantial discriminatory power (Ferguson's δ=0.99) and acceptable item-test correlations](current-discrimination-delta-0-99.md) — a narrower finding that bears on this claim
+- [PLIC scores are unrelated to completion time and the instrument discriminates students well](plic-time-and-discrimination.md) — related

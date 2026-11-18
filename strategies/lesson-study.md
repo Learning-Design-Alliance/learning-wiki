@@ -67,6 +67,7 @@ Lesson Study works because it converts teaching into a site of systematic inquir
 - [Three-session action cycle process for cross-institutional workforce planning](action-cycle-cross-institutional-planning.md)
 - [Weekly design meetings as key sites of teacher inquiry, collaboration, and knowledge creation](weekly-design-meetings-teacher-inquiry.md)
 - [Co-design the guided inquiry lesson package with the classroom teacher and collect multiple data sources](co-design-guided-inquiry-lesson-package-teachers.md)
+- [Lesson-sharing with structured reflection prompts as a professional development activity for refining conceptions of inquiry](lesson-sharing-reflection-prompts-strategy.md)
 
 ## Patterns That Use This Strategy
 - [Collaborative Inquiry](../principles/inquiry-based-learning.md) — lesson study is the most formalized collaborative inquiry protocol for teachers

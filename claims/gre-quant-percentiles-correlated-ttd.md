@@ -50,3 +50,4 @@ Pearson correlation of quantitative GRE percentiles with time to degree in the r
 - [GRE scores correlate with time to degree in opposite directions for international and URM students](gre-scores-ttd-demographic-specific.md) — related
 - [Undergraduate GPA correlates with time to degree only for domestic students](ug-gpa-predicts-ttd-domestic-only.md) — related
 - [Verbal GRE percentiles predict PhD candidacy exam outcomes](verbal-gre-percentiles-predict-candidacy.md) — related
+- [GRE Quantitative scores predict physics PhD completion in only two of four models, with small practical significance](gre-quantitative-weak-limited-prediction.md) — related

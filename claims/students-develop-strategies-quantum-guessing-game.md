@@ -67,3 +67,4 @@ The same informal observations describe the strategy progression: students began
 - [Students experienced playing Quantum Moves as directly doing an experiment, in contrast with only calculating results in normal teaching](eqm-feeling-of-directly-doing-experiment.md) — related
 - [Participating in real scientific research was the primary motivating factor for Class 1 students playing the educational Quantum Moves game](eqm-real-research-primary-motivation-class1.md) — related
 - [The authors hypothesize that understanding gained in Potential Penguin transfers to Quantum Moves performance and quantum understanding](hypothesis-inter-game-transfer-penguin-to-quantum-moves.md) — related
+- [Playtesting showed Quantum 3 players learned baryon composition passively, predicting how to form baryons they had not previously seen](quantum3-passive-baryon-learning-playtests.md) — related

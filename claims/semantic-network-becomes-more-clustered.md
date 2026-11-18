@@ -48,3 +48,4 @@ Semantic network analysis of open-ended responses using NetMiner showed densitie
 - [The words 'empathy' and 'communication' move from independent communities to a single merged community by the end of the clinical skills curriculum](empathy-communication-merge-community.md) — a narrower finding that bears on this claim
 - [Core concepts such as active listening and respect emerge after the lecture curriculum but decrease in prominence after the clinical skills curriculum](active-listening-respect-not-instilled.md) — related
 - [Montessori-schooled children show shorter average shortest path length and lower modularity in their semantic networks than traditionally-schooled children](montessori-lower-aspl-modularity-semantic-network.md) — related
+- [Cluster mean Complexity scores divide the ten clusters into three over-arching groups (A, B, C) differing in complexity](three-complexity-groups-session-clusters.md) — related

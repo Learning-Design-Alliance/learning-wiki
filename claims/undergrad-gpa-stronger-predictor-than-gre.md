@@ -56,3 +56,4 @@ Authors' synthesis of the regression results across Tables 2–4: in the graduat
 - [QGRE correlates only weakly with graduate GPA in the author's program, where undergraduate GPA is a better predictor of graduate GPA and correlates with all three GRE sections](qgre-weak-predictor-ugpa-better.md) — a narrower finding that bears on this claim
 - [PGRE score shows no statistically significant correlation with first-author papers published during or exiting graduate school among prize fellows](pgre-no-correlation-graduate-publications.md) — related
 - [Students' CT performance correlates with their overall GPA, suggesting CT as a predictor of academic success](ct-performance-correlates-with-gpa.md) — a narrower finding that bears on this claim
+- [Undergraduate GPA is the only admissions metric statistically significantly associated with physics PhD completion across all models studied](ugpa-only-consistent-predictor-physics-phd-completion.md) — related

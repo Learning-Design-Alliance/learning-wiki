@@ -53,3 +53,4 @@ Statistical characterization of the final TOSLS administered pre- and postsemest
 - [CTAT shows robust psychometric properties for higher education CS/AI students, with reliable internal consistency and adequate IRT item parameters](ctat-robust-psychometric-properties.md) — related
 - [AITAQS dimension reliabilities fall within 0.721–0.745 Cronbach's α, exceeding acceptability thresholds, with all CR values above 0.7 though some AVE values fall below 0.5.](aitaqs-reliability-alpha-cr-ave.md) — related
 - [Questionnaire constructs showed acceptable to strong internal consistency (α = 0.740 to 0.945)](questionnaire-constructs-internal-consistency.md) — related
+- [Most protoPIQL questions show acceptable CTT difficulty and discrimination once thresholds are adjusted for item difficulty](protopiql-ctt-item-statistics.md) — related

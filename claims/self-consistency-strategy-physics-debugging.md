@@ -69,3 +69,4 @@ Video analysis of the group's gestures during the debugging phase, showing confi
 - [The P3 group's less strategic strategy, play, involved haphazard changes to the initial momentum that eventually resolved the bug](play-strategy-haphazard-code-changes.md) — reports the opposite
 - [During bug recognition, the P3 group attributed unexpected simulation output to their understanding of Python rather than to their understanding of physics](bug-recognition-blame-python-not-physics.md) — related
 - [The authors argue that the computational nature of P3 tasks — translating physics into code that must logically flow plus immediate visual display — produced learning opportunities that might otherwise have been missed in an analytic task](computational-translation-affords-learning-opportunities.md) — related
+- [Students do not automatically recognize that a computer executes code line-by-line and iteratively](students-miss-line-by-line-iteration.md) — related

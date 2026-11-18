@@ -48,6 +48,7 @@ The authors' forward-looking recommendation for inquiry labs: keep collaborative
 
 - [Normalise collaborative decision making and meaning making across upper secondary, undergraduate and postgraduate learning](normalise-collaborative-decision-making-across-levels.md)
 - [Leave knowledge-generating activities such as making predictions in the hands of learners rather than demonstrating or deciding for them](leave-learning-activities-in-hands-of-learners.md)
+- [Structure and incentivize equitable collaboration in lab groups: rotating roles, regular re-grouping, individual tinkering time, and scaffolded task division with TA buy-in](equitable-collaboration-structuring-strategy.md)
 
 ## Examples
 -

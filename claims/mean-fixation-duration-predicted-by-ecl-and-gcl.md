@@ -48,3 +48,4 @@ Hierarchical regression (N = 46) on mean fixation duration recorded with an EyeL
 - [Mean saccade peak velocity is predicted by germane load and working memory capacity, but not by intrinsic or extraneous load](saccade-peak-velocity-predicted-by-gcl-and-wmc.md) — related
 - [Ratio of pupil size change is uniquely predicted by extraneous load and germane load, with opposite signs](pupil-size-change-predicted-by-ecl-and-gcl.md) — related
 - [Transitions between text and animation areas of interest are uniquely predicted by intrinsic load (sentence complexity)](text-animation-transitions-predicted-by-intrinsic-load.md) — related
+- [No group differences in intrinsic or germane cognitive load between video-analysis and traditional conditions](no-group-differences-icl-gcl.md) — related

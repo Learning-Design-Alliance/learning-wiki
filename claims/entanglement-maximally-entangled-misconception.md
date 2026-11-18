@@ -67,3 +67,4 @@ Advanced-level 2014 post-test question 1 with three states; five students' writt
 - [Students incorrectly attribute properties of entangled states to product states, linked with difficulty translating a state from the Z to the X basis](product-state-entangled-properties-misconception.md) — related
 - [Before the QuILT, students incorrectly believed Bob always knows the polarization of Alice's photon in the B92 protocol, whether or not his detector clicks](bob-knows-photon-polarization-difficulty.md) — related
 - [Some introductory students incorrectly state that particles in a product state must have definite spin values rather than being in a superposition of spin states](product-state-definite-spin-misconception.md) — related
+- [The game's entanglement part lets students encounter non-local correlations impossible in a classical system](entangle-game-nonlocal-correlations.md) — related

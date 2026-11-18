@@ -45,7 +45,8 @@ The report groups students into five college-qualification bands (from access to
 - [CPS graduates' grades predicted college enrollment: graduates needed at least a 2.5 GPA for close to a 50 percent likelihood of enrolling in a four-year college](../claims/gpa-predicts-college-enrollment-cps.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Differentiate Google Classroom use by study year: multimedia library for freshmen, source-supported analysis for second years, complex use for senior students](year-differentiated-google-classroom-uses.md)
 
 ## Examples
 -

@@ -103,6 +103,7 @@ Sequencing from simple to complex manages intrinsic cognitive load by ensuring t
 - [Sequence the computational project with an early submittable first part and analytical debug cases so students recover from bugs before later physics-focused parts](../strategies/staged-submission-with-analytical-debug-cases.md)
 - [Hide information in early representations to reduce cognitive load before introducing more complex ones](../strategies/black-box-hiding-reduce-cognitive-load-sequencing.md)
 - [Introduce a tiered structure in UGR programs to separate well-prepared students from those needing foundational reinforcement](../strategies/tiered-ugr-program-structure.md)
+- [Sequence introductory QFT instruction in two stages: classical and quantum foundations first, then the emergence and implications of field theory](../strategies/two-stage-qft-intro-sequence.md)
 
 ## Key Sources
 - Posner, G. J., & Strike, K. A. (1976). A categorization scheme for principles of sequencing content. *Educational Psychologist, 12*(1), 77–86. [doi:10.2307/1169945](https://doi.org/10.2307/1169945)

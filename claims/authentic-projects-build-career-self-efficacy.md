@@ -76,3 +76,4 @@ The authors describe Mr. Duarte's planned final project, in which students "will
 - [Project-based and experiential learning approaches are reported as most effective for AI literacy education, and early exposure enhances learners' self-efficacy](early-exposure-enhances-ai-self-efficacy.md) — related
 - [Interest and self-efficacy are distinct yet reciprocally related in supporting learning](interest-self-efficacy-reciprocal-relation.md) — a broader claim this one bears on
 - [Both early-research-exposure contexts increased student motivation to orient their careers toward research](both-contexts-increased-motivation-toward-research.md) — related
+- [Early research involvement integrated a former student into the physics community and supported her path to a research career](fp-vignette-community-and-career-integration.md) — related

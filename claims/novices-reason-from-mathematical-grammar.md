@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2010
+source_checked: 2026-11-18
 sources:
   - id: edward-f-redish-and-ayush-gupta-2010
     resource: "https://doi.org/10.48550/arXiv.1002.0472"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On a quiz after extensive instruction, more than half of nearly 200 students answered that replacing a test charge q with -3q changes the electric field, reasoning from E = F/q as algebraic grammar rather than physical meaning. [→ Edward F. Redish and Ayush Gupta 2010](#edward-f-redish-and-ayush-gupta-2010)

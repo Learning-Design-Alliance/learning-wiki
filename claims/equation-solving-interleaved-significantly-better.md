@@ -50,3 +50,4 @@ Simulation results in the equation solving domain: interleaved curricula reached
 ## Related Claims
 - [In SimStudent simulations across three math and science domains, interleaved-order curricula yielded as effective or more effective learning than blocked-order curricula](simstudent-interleaved-as-or-more-effective.md) — a broader claim this one bears on
 - [In stoichiometry, SimStudent trained on interleaved-ordering curricula achieved significantly higher step scores than with blocked-ordering curricula](stoichiometry-interleaved-significantly-better.md) — related
+- [A linear combination of delay and blocking factors fits simulated completion rates with r2 = 0.955](delay-blocking-fit-structural-complexity.md) — related

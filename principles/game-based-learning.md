@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 122 claims (70 for, 49 mixed, 3 against) · 93 studies (43 causal, 19 quant-synthesis, 18 review, 5 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 25 of 93 report an effect size · 116 claims rest on one study
+> **Evidence** · 123 claims (71 for, 49 mixed, 3 against) · 94 studies (44 causal, 19 quant-synthesis, 18 review, 5 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 25 of 94 report an effect size · 117 claims rest on one study
 
 ## Conditional relationship
 
@@ -185,6 +185,7 @@ Claims read against this model that do not change it. Each says what it is and w
 - [Computer game-based instruction produces significantly greater world history learning achievement than non-game-based instruction in Chinese senior high school students](../claims/cgbi-greater-world-history-achievement.md) [+W] — attached 2026-11-10 from Yu Zhonggen et al. (2014), which proposed "Blended computer game-based instruction structured around goal, rules, levels, participation control, unknown results, and timely feedback"; tests this page's relationship.
 - [Students are significantly more motivated overall by computer game-based instruction than by traditional instruction, with availability of learning materials as the driving dimension](../claims/cgbi-higher-motivation-availability.md) [+W] — attached 2026-11-10 from Yu Zhonggen et al. (2014), which proposed "Blended computer game-based instruction structured around goal, rules, levels, participation control, unknown results, and timely feedback"; tests this page's relationship.
 - [The mobile game is somewhat effective in enhancing the user's phishing awareness](../claims/mobile-game-somewhat-effective-phishing-awareness.md) [+W] — attached 2026-11-17 from Arachchilage (2016), which proposed "Use game-based security education because games can motivate users and keep attention by providing immediate feedback"; tests this page's relationship.
+- [University students' software engineering ethics knowledge scores rose from pre-test to post-test after playing the Ethics Game, in one uncontrolled pre-post study](../claims/ethics-game-improves-se-ethics-knowledge.md) [+W] — attached 2026-11-18 from Michalis Xenos (2018), which proposed "Branching narrative with consequence-driven alternative endings as the game's instructional design"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

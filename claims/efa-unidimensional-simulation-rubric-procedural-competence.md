@@ -61,3 +61,4 @@ Exploratory factor analysis of the adapted simulation rubric reported in Results
 - [A four-item communication global rating scale shows a reliable one-factor structure within individual OSCE stations](cs-scale-reliable-within-osce-stations.md) — related
 - [GRAS-DK could not be confirmed as a one-dimensional scale either](gras-dk-not-one-dimensional.md) — related
 - [A reliable self-efficacy state measure can be identified in the SSYSD ESM data, with skill, control, and success items loading on a single factor that also includes expectation and self-feeling items.](esm-self-efficacy-state-measure-pca.md) — related
+- [PLIC is not a single-construct assessment: PCA requires six components and Cronbach's α is low](plic-multidimensional-structure.md) — related

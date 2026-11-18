@@ -101,3 +101,4 @@ Testimony of Phyllis Rosser, a consultant on sex bias in testing, at the April 2
 - [Sample 1 female students earned somewhat higher course grades than male students despite lower FCI scores](fci-female-course-grades-higher.md) — related
 - [Intervention programs like AAUW, Girl Scouts, Girls Inc., Tech Bridge and Girls Who Code contributed to evening out gender ratios in US high school science and math classes in the 1990s-2010s](after-school-stem-programs-evened-ratios.md) — related
 - [Standardized admission tests introduced since the 1940s were found to be better predictors of gender and color than of professional success, keeping women and minorities out of top schools](standardized-tests-predict-demographics-not-success.md) — a broader claim this one bears on
+- [Timed physics exams lower scores for women and girls disproportionately more than for men and boys](timed-exams-disproportionately-lower-womens-scores.md) — related

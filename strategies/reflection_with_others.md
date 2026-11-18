@@ -86,6 +86,7 @@ Collaborative reflection works because it combines external perspective with soc
 - [Implement peer support groups in which small groups of clinical teaching faculty collectively reflect, debrief, and share teaching strategies](peer-support-groups-clinical-teaching-faculty.md)
 - [Use the FQI to structure educator professional development on feedback, including colleague observation and video clubs](fqi-video-club-professional-development.md)
 - [Adopt peer-coaching and faculty learning community models in which instructors regularly observe and support one another](peer-coaching-faculty-learning-communities.md)
+- [Lesson-sharing with structured reflection prompts as a professional development activity for refining conceptions of inquiry](lesson-sharing-reflection-prompts-strategy.md)
 
 ## Examples
 - **Lesson study in Japan and the U.S.** — Teams of teachers jointly plan a "research lesson," observe it live while collecting data on student thinking, then revise and reteach it in another class. Documented in the U.S. via the Mills College Lesson Study Group ([lessonresearch.net](https://www.lessonresearch.net)).

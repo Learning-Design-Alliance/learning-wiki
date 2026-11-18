@@ -224,10 +224,12 @@ Pair performance, each learner's immediate unaided performance, delayed retentio
 - [Building Empathy](building-empathy.md) — constructive peer review depends on understanding audience, tone, and the impact of feedback.
 
 ## Examples
+
 - **Structured draft review**: Learners use a rubric and sentence stems to comment on a peer's draft before revision.
 - **Gallery walk critique**: Learners review several products and leave targeted feedback linked to criteria.
 - **Real-time digital peer response**: Learners respond to classmates' work in a shared platform while the task is still revisable.
 - **Two-stage review**: Learners first identify strengths and evidence, then suggest one or two specific next moves.
+- [Simulate the peer-review process for lab reports as part of assessment](../strategies/peer-review-simulation-lab-report-assessment.md)
 
 ### Illustrative
 

@@ -65,6 +65,7 @@ Family literacy events work best when they model concrete practices caregivers c
 - [Provide parent read-at-home plans and home reading strategies for struggling readers](parent-read-at-home-plans.md)
 - [Encourage cognition and literacy by providing varied reading, writing, and drawing materials and building environmental awareness](varied-materials-and-environmental-awareness-encourage-literacy.md)
 - [Parents support elementary writing skills at home through everyday writing activities like writing stories, reviewing movies, and describing things around them](parent-home-writing-activities-tip-sheet.md)
+- [Complete five pre-event tasks in priority order: set date and book rooms, find volunteers, advertise, secure funding, and prepare materials](sk-day-pre-event-planning-tasks.md)
 
 ## Examples
 - **Raising a Reader (https://www.raisingareader.org)** — national program combining family engagement events with rotating book-bag cycles; family nights train caregivers on shared-reading techniques before bags go home.

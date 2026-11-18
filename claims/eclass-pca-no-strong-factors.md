@@ -51,3 +51,4 @@ PCA on matched pre- and post-instruction responses using R; the Guttman-Kaiser c
 - [Principal component analysis independently separates command, modifier, and syntactic language comprehension items](pca-separation-language-items.md) — related
 - [Principal component analysis of PORTAAL practices identifies a learner-centered set (volunteer/random-call answers, prompting logic, positive feedback) opposed to an instruction-centered set](portaal-pca-two-teaching-modes.md) — related
 - [Joint clustering of receptive and expressive items yields six distinct clusters, supporting independent receptive and expressive dimensions](six-clusters-joint-receptive-expressive.md) — related
+- [PLIC is not a single-construct assessment: PCA requires six components and Cronbach's α is low](plic-multidimensional-structure.md) — related

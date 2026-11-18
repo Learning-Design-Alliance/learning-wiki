@@ -54,6 +54,7 @@ A concrete operationalization of [Womanist Restorying](../theories/womanist-rest
 
 - (none yet linked)
 - [Use myriad field texts and the analytical tools of broadening, burrowing, and storying and restorying to move from field texts to research texts](broadening-burrowing-storying-restorying-tools.md)
+- [Integrate teens from underrepresented groups into exhibit content creation to build ownership and scientist-student interaction.](teen-content-creation-ownership-strategy.md)
 
 ## Examples
 - A 4-week after-school museum workshop where a 15-year-old Black girl, Heather, and her group designed a quilt patch depicting a Black woman computer scientist asserting "I can do this" against a skeptical supervisor, after having named "old white men" as their group's dominant CS stereotype.

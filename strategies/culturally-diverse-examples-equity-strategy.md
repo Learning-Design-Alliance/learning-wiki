@@ -47,7 +47,8 @@ The article recommends building classroom materials and climates that signal all
 - [Students facing stereotype threat show larger cortisol and blood pressure increases in evaluative situations, and values-affirmation exercises can counteract stereotype threat effects for months or years](../claims/stereotype-threat-cortisol-values-affirmation.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Transform the culture of physics so it signals to female students that they belong, alongside boosting science capital and utility value](transform-physics-culture-signal-belonging.md)
 
 ## Examples
 -

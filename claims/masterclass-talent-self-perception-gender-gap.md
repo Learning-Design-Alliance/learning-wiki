@@ -53,3 +53,4 @@ Analysis of the motivations section of the questionnaire, where students selecte
 - [Among students wanting a scientific career, more female than male students are attracted by the idea of traveling (about 37% vs 23%)](masterclass-travel-motivation-gender-gap.md) — related
 - [Male students report far more interest in physics outside school than female students (about 80% vs 46%)](masterclass-male-female-physics-interest-outside-school-gap.md) — related
 - [28% of Slovak masterclass participants reported at the end of the day that masterclasses influenced their choice of future studies](masterclass-influence-study-choice.md) — related
+- [Most surveyed students say they are interested in science although most do not intend to become a scientist](interested-in-science-not-scientist-career.md) — related

@@ -47,7 +47,9 @@ The article proposes a minimum standard for selection to surgical training that 
 - [Structured interviews have two to three times the predictive value of unstructured interviews but are rarely used in EU selection](../claims/structured-interviews-predictive-value-selection.md) [+W]
 
 ## Related Strategies
+
 - [Sweden Decentralized Unstructured Selection](../claims/sweden-decentralized-unstructured-selection.md)
+- [Recruitment strategy: match candidate profiles to available training programs through thorough interviews before selection](candidate-program-matching-recruitment.md)
 
 ## Examples
 -

@@ -32,3 +32,4 @@ The PLIC is a choose-many closed-response assessment developed by Katherine N. Q
 ## Key Sources
 - Katherine N. Quinn, Carl Wieman, and N.G. Holmes. (2018). Interview validation of the Physics Lab Inventory of Critical thinking (PLIC). https://arxiv.org/abs/1802.02424
 - Cole Walsh, Katherine N. Quinn, and N. G. Holmes. (2018). Assessment of critical thinking in physics labs. https://arxiv.org/abs/1808.10566v1
+- Cole Walsh, Katherine N. Quinn, C. Wieman, and N.G. Holmes. (2019). Quantifying critical thinking: Development and validation of the Physics Lab Inventory of Critical thinking (PLIC). https://arxiv.org/abs/1901.06961

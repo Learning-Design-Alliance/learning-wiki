@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 261 claims (199 show a difference, 43 mixed, 19 no difference) · 197 studies (107 associational, 38 causal, 29 review, 9 theoretical, 7 qualitative, 5 design, 2 quant-synthesis), `q1`–`q4` · 10 of 197 report an effect size · 259 claims rest on one study
+> **Evidence** · 262 claims (200 show a difference, 43 mixed, 19 no difference) · 198 studies (108 associational, 38 causal, 29 review, 9 theoretical, 7 qualitative, 5 design, 2 quant-synthesis), `q1`–`q4` · 10 of 198 report an effect size · 260 claims rest on one study
 
 ## How to read this page
 
@@ -298,6 +298,7 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Performance gaps by gender and race/ethnicity in introductory physics are similar in size and widen from pretest to posttest](../claims/physics-equity-gaps-widen-pre-post.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The percentage of physics bachelor's degrees earned by African Americans has been steadily falling over the last 10-15 years, while Hispanic American growth appears proportional to population growth](../claims/urm-physics-bachelors-degree-trends.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [URM students earn a small share of physics degrees, with physics near the lowest fraction of the physical sciences for bachelor's degrees earned by Black/African-American and Hispanic Americans](../claims/urm-degree-representation-physics-lowest-physical-sciences.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [GRE score gaps by race, gender, and citizenship, combined with cutoff use, select against underrepresented groups in physics admissions](../claims/gre-cutoffs-select-against-underrepresented-groups.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

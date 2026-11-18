@@ -54,3 +54,5 @@ Mann-Whitney tests comparing passed vs failed candidacy exam results in the GSBS
 - [GRE subtest scores do not predict graduating with a Ph.D. among biomedical graduate students after controlling for other admissions criteria](gre-no-predict-phd-completion.md) — related
 - [GRE Verbal scores predict some faculty evaluation items but show no consistent pattern across mentor ratings](gre-verbal-predicts-some-faculty-evaluations.md) — related
 - [Undergraduate GPA is a stronger predictor of graduate outcomes than GRE scores](undergrad-gpa-stronger-predictor-than-gre.md) — reports the opposite
+- [Traditional graduate admissions measures, particularly the GRE and Physics GRE, disproportionately exclude underrepresented groups and are poor predictors of PhD completion](gre-pgre-exclude-urm-poor-predictors.md) — related
+- [GRE Physics Subject Test scores are not associated with physics PhD completion in any model studied](gre-physics-no-completion-prediction.md) — related

@@ -89,3 +89,4 @@ The review reports Chen's (2013) examination of Tablet PC use for informal Engli
 - [Students formed self-initiated peer groups for peer-to-peer teaching and collaborative pamphlet writing, which reduced workload and supported learning](collaborative-peer-teaching-pamphlet-strategies.md) — related
 - [Students valued tablets for freehand drawing during group modeling activities in both classroom types](tablets-valued-group-modeling.md) — related
 - [Applying information technologies to teaching Physics is claimed to optimize teaching, support independent learning, motivation and mobility](ict-physics-teaching-benefits.md) — related
+- [Tablet-PC-supported video analysis reduces intervention-induced extraneous cognitive load compared with traditional experimental tools in regular physics lessons](video-analysis-reduces-extraneous-cognitive-load.md) — related

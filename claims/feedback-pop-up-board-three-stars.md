@@ -47,3 +47,4 @@ During iterative testing, different feedback types were tested to balance focus 
 ## Related Claims
 - [Teacher feedback during co-design directly produced four dashboard design changes: predictive alerts, navigation redesign, integrated attendance-performance view, and a Help tab](teacher-feedback-drove-mlad-design-changes.md) — related
 - [A pop-up quiz tablet refocused idle multiplayer players during long observation steps](quiz-tablet-refocus-multiplayer-players.md) — related
+- [Playtesting showed children were highly motivated to replay Quantum 3 levels to earn all three stars, which the authors link to learning the material better](quantum3-star-replay-motivation.md) — related

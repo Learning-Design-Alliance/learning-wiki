@@ -57,3 +57,5 @@ Exam analysis of the Execution component: 60% of 172 solutions contained Executi
 - [Execution errors rarely constitute the primary barrier on spherical SoV exam problems](spherical-sov-execution-rarely-barrier.md) — a narrower finding that bears on this claim
 - [Students commonly make construction errors building complex field expressions, including incorrect reflected-wave direction and dot-product simplification](construction-errors-complex-field-expressions-electrodynamics.md) — related
 - [Physics context affects mathematical execution: students cancel exponentials in E&M wave problems but not in an isomorphic pure-math problem](physics-context-affects-math-execution.md) — related
+- [A new difficulty with interpreting and expressing the volume current density emerges in magnetostatics, representing 90% of differential element difficulties in that context](current-density-new-difficulty-magnetostatics.md) — related
+- [Execution errors are rarely the primary barrier to student success; most fundamental execution errors are preceded by significant difficulties in activation or construction](execution-errors-rarely-primary-barrier.md) — related

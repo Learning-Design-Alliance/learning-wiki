@@ -13,7 +13,7 @@ generated:
 # Sensory Integration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 20 claims (12 show a difference, 5 mixed, 3 no difference) · 10 studies (6 causal, 2 qualitative, 1 quant-synthesis, 1 associational), `q2`–`q3` · 3 of 10 report an effect size · 20 claims rest on one study
+> **Evidence** · 21 claims (13 show a difference, 5 mixed, 3 no difference) · 11 studies (6 causal, 2 qualitative, 1 quant-synthesis, 1 associational, 1 design), `q2`–`q3` · 3 of 11 report an effect size · 21 claims rest on one study
 
 ## Description
 Sensory integration is the brain's capacity to receive, process and organise information arriving through several senses at once, such as sights, sounds, smells and touch, and turn it into appropriate physical and emotional responses. When it is difficult for a learner, sensory input can interfere with focusing on reading, writing or mathematics, and the LVN describes knock-on effects on peer relationships, participation in class activities and sleep, all of which can make learning and engagement harder. Learners can have higher or lower thresholds for input in a given sense, and difficulty can show as over-sensitivity or as sensory-motor difficulty. The LVN covers it from pre-kindergarten to grade 12, and notes that its link with mathematics performance weakens as children get older. It is measured with sensory profiles completed by parents, teachers or learners themselves, and with clinical test batteries of visual, tactile and kinaesthetic processing and motor performance. It overlaps with [self-regulation](self-regulation.md), since integration combines sensory processing with behavioural regulation, and with [learning disabilities and developmental differences](learning-disabilities.md).
@@ -55,6 +55,7 @@ Sensory integration is the brain's capacity to receive, process and organise inf
 - [Dental students' two-point discrimination thresholds fell in both hands after a home training programme, in a single-group pre-post study with no control (per-finger r up to 0.55)](../claims/home-training-improves-tactile-sensitivity-dental-students.md) [+W] — measured as an outcome of the instruction studied
 - [Autistic students report sensory overload and sensitivity to change affecting academic performance and social participation](../claims/sensory-overload-routine-change-university-autism.md) [+M] — learners who differ on it differ in outcomes
 - [Students described a sudden awakening of the senses and heightened somatic, sensory, and environmental awareness during the contemplative practices](../claims/sensory-meditation-heightened-embodiment-sensory-awareness.md) [+M] — measured as an outcome of the instruction studied
+- [Human Orrery activities with 10 to 16 year old children activate and link cognitive activities about kinematics and dynamics to sensori-motor activities](../claims/human-orrery-kinematics-sensorimotor-activation.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Sensory Profile 2 (SP2)** (Dunn, 2014): parent and teacher questionnaires on sensory processing, praxis and social participation from birth to about 15, in several languages.

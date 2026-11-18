@@ -63,6 +63,7 @@ Belonging is a psychological state that predicts engagement, persistence, and ac
 - [Norm setting](norm_setting.md) — co-created behavioral norms are a social cue that signals collective ownership of the space
 - [Culturally responsive teaching](culturally-responsive-teaching.md) — the broader pedagogical stance of which environmental representation is one visible component
 - [Expose girls to female role models who have succeeded in math and science](expose-girls-female-math-science-role-models.md)
+- [Transform the culture of physics so it signals to female students that they belong, alongside boosting science capital and utility value](transform-physics-culture-signal-belonging.md)
 
 ## Examples
 - **Cheryan et al.'s computer science classroom studies** — replacing Star Trek posters and video game paraphernalia with nature posters and neutral decor significantly raised women's interest in CS, demonstrating that objects alone carry belonging signals ([https://doi.org/10.1037/a0013496](https://doi.org/10.1037/a0013496)).

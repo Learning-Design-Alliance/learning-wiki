@@ -20,6 +20,7 @@ A department-level inclusion framework developed by Ackerman et al. that organiz
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Departmental retention pattern: assessment, actionable plans with measurable outcomes, and iterative improvement toward inclusiveness**: For retention, the paper prescribes a recurring six-step departmental cycle: engage in "genuine, open, and sometimes difficult conversations"; conduct assessments to identify areas of need; create short- and long-term actionable plans with measurable outcomes; incentivize and support professional development; take action and monitor progress "employing inclusive processes"; and encourage ongoing improvement by iterating through steps 1-5. The pattern targets five goals including ending harassment and bullying, full ADA-compliant accessibility, a family-friendly environment, evidence-based mentoring, and teaching practices that support students with marginalized identities. (AAS Task Force on Diversity et al. (2019))
 
 ### Claims
 
@@ -32,3 +33,4 @@ A department-level inclusion framework developed by Ackerman et al. that organiz
 
 ## Key Sources
 - Ackerman, N., Atherton, T., Avalani, A. R., Berven, C. A., Laskar, T., Neunzert, A., Parno, D. S., & Ramsey-Musolf, M. (2018). LGBT+ Best Practices Guide: A Guide for Physics Departments, Laboratories, and Professional Societies (Second Edition). https://arxiv.org/abs/1804.08406
+- AAS Task Force on Diversity and Inclusion in Astronomy Graduate Education. (2019). Promoting Diversity and Inclusion in Astronomy Graduate Education: an Astro2020 Decadal Survey White Paper. Endorsed by the AAS Board of Trustees. https://aas.org

@@ -48,3 +48,4 @@ Qualitative finding from the interview corpus: in Lorca's episode the proposed c
 ## Related Claims
 - [Students are often quick to identify discrepancies but do not initially propose probable causes, instead describing causes post hoc after iterative revisions and measurements](students-identify-discrepancies-but-delay-proposing-causes.md) — a narrower finding that bears on this claim
 - [Some students who cannot immediately propose a cause for an observed discrepancy converge on one post hoc through continuous, iterative measurements and revisions](iterative-measure-revise-post-hoc-cause-pathway.md) — possibly the same claim (merge candidate)
+- [Students often propose causes for circuit discrepancies that do not follow logically from the observed discrepancy, drawing on experiential knowledge](disconnected-proposed-causes-op-amp-discrepancies.md) — possibly the same claim (merge candidate)

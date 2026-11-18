@@ -59,9 +59,11 @@ Group grades create a social-loafing problem: when individual contribution is in
 6. Debrief with teams on process (who did what, what worked) to preserve shared responsibility without shared grades.
 
 ## Related Strategies
+
 - [Individual accountability within cooperative learning](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+M] — the claim-level basis: group rewards work only when paired with individual accountability
 - Peer assessment strategies — provide the contribution-visibility mechanism that replaces the shared grade
 - [Assessment for learning](../principles/assessment-for-learning.md) — reframes group work as feedback-rich practice rather than a grading event
+- [Communication projects as individual summative assessments replacing the lab practical](data-lab-communication-projects-strategy.md)
 
 ## Examples
 - **Johnson & Johnson's cooperative learning model** — specifies "group goals and individual accountability" as defining conditions; teachers assess each member individually on the team's learning material.

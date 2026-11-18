@@ -68,3 +68,4 @@ The commentary reports, citing Aridor et al. (this issue), a case study of two m
 - [The authors argue that open access to published scientific work may be insufficient to bridge the epistemological divide between scientists and the public](open-access-insufficient-for-public-engagement-with-science.md) — related
 - [Undergraduate research helps students develop professional identity and become scientists](ugr-professional-identity-development.md) — related
 - [Students accept virtual experiments for hands-on activities when the interfaces approximate real instruments, the data are genuinely messy, differences from realistic portrayal are clarified, and the tool is flagged as training](ve-acceptance-messy-data.md) — a narrower finding that bears on this claim
+- [Students do not identify the focus-group topic as standard school material but see it as necessary for responsible citizenship](topic-not-school-program-but-citizenship.md) — related

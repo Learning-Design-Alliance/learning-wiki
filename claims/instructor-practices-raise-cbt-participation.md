@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-18
 sources:
   - id: manher-jariwala-2018
     resource: "https://doi.org/10.1119/perc.2017.pr.044"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-18 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Instructor use of recommended practices was a statistically reliable predictor of CBT participation, explaining 45% of the variance. [→ Manher Jariwala 2018](#manher-jariwala-2018)
@@ -69,3 +70,4 @@ Predicted participation rates from the HGLM (Figure 3), converted from logits to
 - [CBT participation rates are much lower than PPT rates when instructors use none of the recommended practices, but match PPT rates when all four are used](cbt-participation-lower-without-recommended-practices.md) — possibly the same claim (merge candidate)
 - [Student performance on low-stakes research-based assessments is equivalent whether administered online out of class as a CBT or in class on paper as a PPT](cbt-condition-nonsignificant-posttest-hlm.md) — related
 - [Instructor use of the recommended practices accounts for a large proportion of the between-section variance in CBT participation](recommended-practices-explain-section-participation-variance.md) — related
+- [Online LASSO-administered assessments produce participation rates and scores equivalent to in-class paper assessments when instructors use four recommended practices](lasso-online-assessments-equivalent-participation-performance.md) — a broader claim this one bears on

@@ -53,3 +53,4 @@ Propensity score-weighted hierarchical model on Texas higher education records f
 - [The four-year college STEM major advantage of inclusive STEM high schools holds for Hispanic, female, and economically disadvantaged students, with odds ratios above three](ishs-stem-major-advantage-underrepresented-subgroups.md) — a narrower finding that bears on this claim
 - [Math club participation is associated with higher odds of declaring a STEM major in college, remaining significant after propensity score matching](math-club-participation-stem-college-major.md)
 - [Preliminary estimates suggest UBMS participation increases the odds of majoring in math or science](ubms-increases-odds-math-science-major.md) — related
+- [The share of students declaring they disliked physics at school fell from 42% to 18% after the course](disliking-physics-decline-42-to-18-percent.md) — related

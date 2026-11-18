@@ -48,3 +48,4 @@ Hermeneutic interpretive analysis of the on-line survey descriptions, using a co
 - [An alarming 43% of first-year astronomy undergraduates focused on non-disciplinary things in presented representations](first-year-non-disciplinary-discernment-43-percent.md) — related
 - [The more disciplinary knowledge participants have, the less non-disciplinary discernment they reported](less-non-disciplinary-discernment-with-education-level.md) — related
 - [Lecturers and students do not discern the same things from the same disciplinary representation](lecturer-student-discernment-mismatch.md) — related
+- [Pre-university students with high-school-level knowledge reproduced visually similar simulations of interacting galaxy pairs NGC 5426/7 and the Antennae](pre-university-simulation-reproduces-interacting-galaxies.md) — related

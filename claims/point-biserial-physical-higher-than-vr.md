@@ -52,3 +52,4 @@ One-way ANOVA on point biserial values from the mock bellringer exam after exclu
 - [The VR-based OSCE station shows higher item discrimination and discrimination index than the matched physical station](vrs-higher-discrimination-than-phs.md) — reports the opposite
 - [VR-based and physical OSCE stations testing identical emergency content show comparable item difficulty within the ideal reference range](vrs-item-difficulty-comparable.md) — related
 - [Students' entrepreneurial-intention attributes differ across three pocket-money groups, though the discriminant model shows low discrimination power](pocket-money-groups-entrepreneurial-intention-profiles.md) — related
+- [Most protoPIQL questions show acceptable CTT difficulty and discrimination once thresholds are adjusted for item difficulty](protopiql-ctt-item-statistics.md) — related

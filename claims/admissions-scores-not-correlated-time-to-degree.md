@@ -50,3 +50,4 @@ Retrospective Pearson correlation analysis of 286 doctoral records (2007–2012)
 - [GRE scores and undergraduate GPA do not predict PhD candidacy exam outcomes](gre-scores-gpa-no-candidacy-prediction.md) — related
 - [GRE scores correlate with time to degree in opposite directions for international and URM students](gre-scores-ttd-demographic-specific.md) — related
 - [Undergraduate GPA correlates with time to degree only for domestic students](ug-gpa-predicts-ttd-domestic-only.md) — related
+- [GRE score gaps by race, gender, and citizenship, combined with cutoff use, select against underrepresented groups in physics admissions](gre-cutoffs-select-against-underrepresented-groups.md) — related

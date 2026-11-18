@@ -58,3 +58,4 @@ Two-way between-groups ANOVA on post-test scores with gender and condition; "no 
 - [The treatment-by-gender interaction on post-test achievement is not significant](treatment-gender-interaction-not-significant-gifted.md) — related
 - [Gender moderates the retention benefit of text production: significant for female learners at 24 hours only, not for male learners](gender-moderates-text-production-retention-benefit.md) — related
 - [A three-way ANOVA found no significant interaction between posttest Awareness scores, treatment group, and gender, but a significant main effect for treatment group](dlist7-three-way-anova-awareness-treatment-gender.md) — related
+- [A statistically significant treatment-by-sex interaction emerged in magnetostatics scores, with females not disadvantaged by the VR treatment](treatment-sex-interaction-magnetostatics-vr.md) — reports the opposite

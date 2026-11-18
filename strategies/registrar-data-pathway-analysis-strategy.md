@@ -43,7 +43,8 @@ The article recommends working "to understand what might be learned using data f
 - [Most (87%) students who declare a physics major and graduate earn a degree in some STEM field](../claims/87-percent-physics-declarers-graduate-stem.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Expand demographic, longitudinal, and funding data collection on physics and astronomy graduate students through the AIP Statistical Research Center](expand-graduate-student-data-collection-aip.md)
 
 ## Examples
 -

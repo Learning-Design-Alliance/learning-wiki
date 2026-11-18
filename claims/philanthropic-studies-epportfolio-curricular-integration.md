@@ -49,3 +49,4 @@ Single-program case study of the IUPUI Philanthropic Studies B.A. The authors de
 - The ePortfolio social pedagogy ecosystem appears to be an effective way for students to integrate deeper learning and document developing information literacy competencies as self-assessment — related
 - [ePortfolio produced more powerful outcomes when faculty and staff received extended intensive professional development than brief training or none](intensive-professional-development-stronger-epportfolio-outcomes.md) — related
 - [Students in ePortfolio-based Personal Development Plan sections had significantly higher first-year GPAs and retention than non-ePDP peers, but gains were not sustained without intensive professional development](epdp-pilot-gpa-retention-gains-not-sustained.md) — related
+- [Corrective actions for SO F were proposed by embedding ethics in the capstone project and mandatory industrial cooperative training](so-f-remediation-capstone-coop.md) — related

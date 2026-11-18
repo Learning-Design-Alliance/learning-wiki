@@ -61,8 +61,10 @@ Peer review works because giving feedback forces learners to articulate quality 
 6. **Reflect.** Brief [Check-In](../elements/check-in.md) on which feedback was used and why, building evaluative judgment for the next cycle.
 
 ## Related Strategies
+
 - [Writing Conferences](5-minute_writing_conferences.md) — teacher-led one-to-one feedback that complements peer review with expert judgment
 - [Peer Tutoring](peer-tutoring.md) — a related structure where the more capable partner leads rather than exchanging reciprocal critique
+- [Simulate the peer-review process for lab reports as part of assessment](peer-review-simulation-lab-report-assessment.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — whole-class debrief of common issues found across drafts

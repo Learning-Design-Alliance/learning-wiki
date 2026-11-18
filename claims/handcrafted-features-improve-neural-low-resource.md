@@ -50,3 +50,4 @@ The survey reports Nadeem et al. (2019)'s finding in the context of hybrid neura
 - [Holistic scoring of German university students' essays posed significant challenges to both a neural model and an SVM with n-gram features](german-essay-scoring-challenges-both-models.md) — related
 - [Concatenating hand-crafted linguistic features with neural essay representations significantly increases essay scoring performance](hybrid-features-boost-essay-scoring.md) — related
 - [A fine-tuned SBERT Transformer SAG model for German approximates but does not beat hand-crafted feature-based models in unseen-question evaluation](german-transformer-sag-approximates-feature-models.md) — related
+- [Almost all neural network models benefit from adding handcrafted wLDA and online dialogue features](handcrafted-features-improve-neural-argument-classifiers.md) — a narrower finding that bears on this claim

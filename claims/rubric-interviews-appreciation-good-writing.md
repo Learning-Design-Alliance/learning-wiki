@@ -47,3 +47,4 @@ Semi-structured interviews with ten volunteers from the experimental group after
 ## Related Claims
 - [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](rubrics-improve-student-work.md) — related
 - [In two online comparisons, a rubric changed what peer reviewers commented on (one study) and helped peer raters place writing in quality tiers, most for complex criteria (the other); the first study says the rubric restrained reflective thinking](rubrics-improve-peer-feedback-quality.md) — related
+- [Pilot students appreciated the creative freedom of computational essays but found the openness and notebook non-linearity challenging](student-experiences-creative-freedom-and-challenges.md) — related

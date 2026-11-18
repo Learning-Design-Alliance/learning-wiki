@@ -51,4 +51,4 @@ The article's PDW format gives teachers direct experience of the student curricu
 -
 
 ## Key Sources
-- Foppoli, A., Choudhary, R., Blair, D., Kaur, T., Moschilla, J. and Zadnik, M. (2018). Public and Teacher Response to Einsteinian Physics in Schools. https://www.einsteinianphysics.com/about
+- Foppoli, A., Choudhary, R., Blair, D., Kaur, T., Moschilla, J. and Zadnik, M. (2018). Public and Teacher Response to Einsteinian Physics in Schools. https://www.einsteinianphysics.com/about. [doi:10.1088/1361-6552/aae4a4](https://doi.org/10.1088/1361-6552/aae4a4)

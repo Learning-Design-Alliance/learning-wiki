@@ -108,3 +108,4 @@ Model 3 disaggregated by the three courses and plotted via the HLM hypothesis-te
 - [Overall participation is lower for online computer-based low-stakes assessments (58.1%) than for in-class paper assessments (78.8%)](cbt-participation-lower-than-ppt-low-stakes.md) — related
 - [Participation is higher on pretests than posttests in both administration modes](pretest-participation-exceeds-posttest-both-modes.md) — related
 - [Students with higher course grades are more likely to participate in low-stakes RBAs in both CBT and PPT conditions, with a non-linear grade-participation relationship](course-grade-participation-gradient-low-stakes-rbas.md) — related
+- [Online LASSO-administered assessments produce participation rates and scores equivalent to in-class paper assessments when instructors use four recommended practices](lasso-online-assessments-equivalent-participation-performance.md) — a broader claim this one bears on

@@ -58,6 +58,7 @@ The review recommends that future research and learning-technology design exploi
 - [Use log data from digital assessment to reconstruct solution processes and identify validity threats, disengagement, and technical obstacles](log-data-reconstruct-solution-processes-validity-threats.md)
 - [Combine subjective and objective multimodal measurement (self-report, facial expression, physiological data) to capture academic emotions during learning](multimodal-academic-emotion-measurement.md)
 - [Use behavioral data alongside self-report measures when assessing trait mindfulness in adolescents](behavioral-data-trait-mindfulness-assessment.md)
+- [Integrate server-log network analysis with other methodological approaches to capture student learning strategies](integrate-log-network-analysis-with-other-methods.md)
 
 ## Examples
 -

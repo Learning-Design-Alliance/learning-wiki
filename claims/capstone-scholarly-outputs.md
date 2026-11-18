@@ -47,3 +47,4 @@ Retrospective review of the first 35 graduating students' capstone projects foun
 ## Related Claims
 - [Most capstone projects involved original research and international travel](capstone-original-research-international-travel.md) — related
 - [Case reports were the predominant type and conference presentations the most common format of scholarly activity among Japanese junior residents](case-reports-predominant-scholarly-activity-type.md) — related
+- [Freshman Projects projects frequently develop into ongoing research with presentations and student-coauthored publications](fp-projects-blossom-into-publications.md) — related

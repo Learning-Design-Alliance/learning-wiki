@@ -43,6 +43,7 @@ The article recommends lowering the skills and time required to author ITSs by p
 
 - [Open design directions for adaptive authoring: crowdsourced standards, individual differences, modular customization, path visualization, and instructor real-time control](adaptive-authoring-open-research-directions.md)
 - [Build adaptive reinforcement content in free interactive platforms (Genially.com, Canva) to bypass ITS cost and skill barriers](free-interactive-platforms-bypass-its-barriers.md)
+- [Provide teachers with authoring tools containing scenario shells for the three JSCM game patterns](jscm-authoring-tools-scenario-shells.md)
 
 ## Examples
 -

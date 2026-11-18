@@ -49,6 +49,7 @@ Video modeling pedagogy (attributed to Brown, 2007-2010) has students create sim
 - [Use Tracker video analysis of real collisions to connect simulation concepts to real-life applications](../strategies/tracker-video-inquiry-real-collisions-strategy.md)
 - [60-minute inquiry lesson using video analysis and modeling with Tracker on real-life motion examples](../strategies/tracker-video-analysis-inquiry-lesson.md)
 - [Implement progressive mathematical modeling in simulations: students propose an initial model, predict, observe, and compare fit with simulated data](../strategies/progressive-mathematical-modeling-strategy.md)
+- [Have students configure code to match direct measurement videos of real experiments, connecting simulation to real-world data](../strategies/configure-code-to-match-measurement-videos.md)
 
 ## Key Sources
 - Wee, L. K., & Lee, T. L. (2011). Video Analysis and Modeling Tool for Physics Education. Paper presented at the 4th Redesigning Pedagogy International Conference, Singapore. http://weelookang.blogspot.com/2011/05/video-analysis-and-modeling-tool-for.html

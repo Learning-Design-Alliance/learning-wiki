@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 199 claims (156 show a difference, 30 mixed, 13 no difference) · 173 studies (66 causal, 30 review, 27 qualitative, 16 associational, 16 design, 12 quant-synthesis, 6 theoretical), `q1`–`q3` · 16 of 173 report an effect size · 199 claims rest on one study
+> **Evidence** · 200 claims (157 show a difference, 30 mixed, 13 no difference) · 174 studies (66 causal, 30 review, 27 qualitative, 17 design, 16 associational, 12 quant-synthesis, 6 theoretical), `q1`–`q3` · 16 of 174 report an effect size · 200 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -241,6 +241,7 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Students perceive teamwork as valuable but far fewer actually collaborate out of class, even when teamwork is expected or required](../claims/attitude-practice-discrepancy-collaboration.md) [~M] — measured as an outcome of the instruction studied
 - [Studio LAs, but few lab or recitation LAs, reported learning about teamwork, tracking each context's emphasis on student group work](../claims/la-teamwork-learning-context-difference.md) [~M] — measured as an outcome of the instruction studied
 - [Teamwork and collaboration emerge as a powerful, previously unanticipated outcome of the NITARP research experience](../claims/nitarp-teamwork-powerful-motivator.md) [+M] — measured as an outcome of the instruction studied
+- [IRES research-abroad experiences produce increased knowledge, statistically significant gains in international-collaboration skills and confidence, and increased desire to work with scientists from other countries](../claims/ires-research-abroad-gains.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

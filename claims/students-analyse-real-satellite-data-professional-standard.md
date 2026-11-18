@@ -46,3 +46,4 @@ The article's conclusion reports the intended outcome of the activity: students 
 
 ## Related Claims
 - [Efficacy of colour imaging as an astronomy engagement gateway remains largely unvalidated](colour-imaging-efficacy-unvalidated.md) — related
+- [Practical work with aerospace images yields specific measurable geographic knowledge types, from morphometry to spectral indicators](practical-work-rsd-knowledge-types.md) — related

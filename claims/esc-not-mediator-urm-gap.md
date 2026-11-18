@@ -49,3 +49,4 @@ SEM mediation analysis found "ESC was not a significant mediator for the effect 
 - [Test anxiety mediated the effect of URM status on exam performance only at inclusive institutions, not at community colleges or selective institutions](test-anxiety-mediation-urm-gap-only-inclusive.md) — related
 - [URM students underperformed relative to non-URM students on introductory biology exams at inclusive and selective 4-year institutions, but not at community colleges](urm-performance-gaps-vary-by-institution-type.md) — related
 - [No binary gender performance gaps were observed in introductory biology across community college, inclusive, and selective institution contexts](no-gender-gaps-across-institution-types.md) — related
+- [Structural equation modeling confirms that incoming preparation mediates the demographic gaps in final exam scores at all three institutions](sem-mediation-of-demographic-gaps.md) — related

@@ -47,3 +47,4 @@ In the introduction the authors argue, without reporting empirical data, that qu
 ## Related Claims
 - [The authors report that quantum cryptography can basically be explained to high school students within half an hour](quantum-cryptography-half-hour-high-school-explanation.md) — related
 - [Teaching of complex quantum behavior — time dependence, superposition, and the measurement problem — is barely investigated at the secondary and lower undergraduate level](complex-quantum-behavior-barely-investigated.md) — related
+- [In a preliminary school test using the key-distribution slides, an important percent of students connected quantum entanglement with cryptography](students-connect-entanglement-cryptography.md) — related

@@ -47,3 +47,4 @@ Secondary analysis of the randomized electric field study splitting data by self
 ## Related Claims
 - [Smartphone stereoscopic VR, video, and static 2D image treatments produce no significantly different pre-post gains on electric field direction questions in freshman electrostatics](no-significant-gain-differences-vr-video-images.md) — a broader claim this one bears on
 - [Among students reporting regular video game play, VR produced significantly higher gains on dipole question pairs than video (d = 0.30) and static images (d = 0.42)](vr-gains-advantage-frequent-gamers.md) — related
+- [Students reporting heavy 3D videogame play showed significantly higher gains than low players in all three treatments, not only in VR](3d-videogame-play-gains-all-treatments.md) — related

@@ -55,3 +55,4 @@ Summary statistics from the multiple regression on proportion of exam points ear
 - [None of the assessed non-academic constructs (EI, motivation, self-esteem, attitudes towards science, perceived personal incompetence) predicted final medical school GPA](non-academic-constructs-did-not-predict-gpa.md) — related
 - [Convergent thinking, divergent thinking, and openness jointly explain incremental variance in GPA beyond age and sex (ΔR² = 0.13)](thinking-personality-model-incremental-gpa-variance.md) — related
 - [High school GPA alone explains 20.6–63.3% of API variance depending on degree, with the full models explaining 42.8–71.6%](gpa-variance-api-by-degree.md) — related
+- [Instructors using the percent scale shifted roughly 14% of exam-item grade weight into non-zero F grades, an effect not explained by student GPA](percent-scale-shifts-grade-weight-nonzero-fs.md) — related

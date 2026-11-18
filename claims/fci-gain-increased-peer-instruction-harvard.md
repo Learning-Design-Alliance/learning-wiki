@@ -99,3 +99,6 @@ Course-level comparison of FCI results across years of the Harvard calculus-base
 - [CSEM learning gains in the Lecture/Studio-format second-semester IPLS course were strikingly larger than any gains measured in the course's traditional format](csem-gains-lecture-studio-larger.md) — related
 - [Students in the reformed Lecture/Studio IPLS course perform at least at the same level on the FCI as interactive-engagement classes teaching traditional content, so the biological focus did not reduce fundamental physics understanding](ipls-biological-focus-no-fci-decrease.md) — related
 - [Average introductory physics unit test scores were 79% under the efficient question-group design versus 76% under the traditional format](efficient-design-unit-test-scores-76-to-79.md) — related
+- [Active learning reduced failure rate in introductory physics by 9.1 percentage points compared with traditional lectures](active-learning-reduces-failure-rate-intro-physics-chile.md) — related
+- [Calculus Concept Inventory questions appear trivial to experts but students in lecture courses score poorly, mirroring the Force Concept Inventory](cci-modeled-after-fci-lecture-students-score-poorly.md) — related
+- [Introductory physics and astronomy students achieve comparable FCI conceptual gains on force concepts, despite differing attitudes](fci-conceptual-gains-comparable.md) — related

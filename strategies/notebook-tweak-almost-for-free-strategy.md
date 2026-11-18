@@ -44,6 +44,7 @@ The course paired a heavily commented sample program solving a familiar problem 
 ## Related Strategies
 
 - [Incorporate numerical calculation into introductory quantum courses to counteract abstraction-driven misconceptions](incorporate-numerical-calculation-in-quantum-courses.md)
+- [Mandatory offline pass/fail coding exam as an artificial obstacle forcing independent programming](offline-coding-exam-obstacle-strategy.md)
 
 ## Examples
 -

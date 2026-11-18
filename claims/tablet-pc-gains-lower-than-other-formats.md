@@ -50,3 +50,4 @@ One-way ANCOVA on posttest gain scores controlling for pretest results (F(2,306)
 - [Students in traditional and experiment conditions outperform tablet condition on transfer questions about fog formation](transfer-fog-traditional-experiment-outperform-tablet.md) — related
 - [Students in traditional and experiment conditions outperform tablet condition on transfer questions about the relation between wind and air pressure](transfer-wind-pressure-traditional-experiment-outperform-tablet.md) — related
 - [All three lecture formats significantly improve global test scores on cloud and wind formation from pretest to posttest and retention test](three-lecture-formats-improve-cloud-wind-scores.md) — related
+- [Tablet-PC-supported video analysis reduces intervention-induced extraneous cognitive load compared with traditional experimental tools in regular physics lessons](video-analysis-reduces-extraneous-cognitive-load.md) — reports the opposite

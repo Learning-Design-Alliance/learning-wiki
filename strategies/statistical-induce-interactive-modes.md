@@ -45,6 +45,7 @@ The article distinguishes five versions of interactive mode: passive mode (rheto
 ## Related Strategies
 
 - [Use a vote–discuss–revote sequence with classroom response systems so students reach more accurate understanding through peer discussion alone](clicker-vote-discuss-revote.md)
+- [Use complex problems in class and target PI questions at the key decision points of the solution pathway](complex-problems-with-pi-at-decision-points.md)
 
 ## Examples
 -

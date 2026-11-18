@@ -48,3 +48,4 @@ Correlation analysis (Spearman and Kendall) of questionnaire motivations and log
 - [Coordinator assessment of learning designs does not correlate with metadata-based quality indicators](assessment-uncorrelated-with-metadata-quality.md) — related
 - [No significant correlation found between participants' behavior and the quality of their contributions](no-behavior-quality-correlation-oc-teachers.md) — related
 - [Behavior and contribution quality are shaped by platform incentives and features rather than self-reported motivations](platform-features-shape-behavior-and-quality.md) — related
+- [Teacher behavior showed no correlation with student learning gain in the intervention](teacher-behavior-uncorrelated-with-learning-gain.md) — related

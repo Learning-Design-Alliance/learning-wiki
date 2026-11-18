@@ -20,6 +20,7 @@ Astrobites is a not-for-profit website run by graduate students in astrophysical
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Science Bites network: 17 graduate-student-led summary sites across 15 scientific topics and multiple languages**: Since 2010 the Astrobites model has expanded into a network of "Science Bites" websites led by graduate students and postdocs in different fields and languages. "The Science Bites family encompasses 17 sites and covers 15 different scientific topics", including Softbites, particlebites, PERbites, Oceanbites, and Oncobites, plus sites in Spanish (astrobitos), Portuguese (astropontos), and Persian/Farsi (staryab). The authors argue this growth demonstrates the model filled a gap in how researchers communicate with broader communities. (Astrobites as a Community-led Model for Education, Science Communication, and Accessibilit)
 
 ### Claims
 - [Many students' first contact with the research literature presents a barrier rather than a facilitator to a career in research, because expert communication conventions presuppose shared context newcomers lack.](../claims/literature-jargon-barrier-newcomers.md) [+W]
@@ -30,3 +31,4 @@ Astrobites is a not-for-profit website run by graduate students in astrophysical
 ## Key Sources
 - Sanders, N. E., Kohler, S., Newton, E., & the Astrobites collaboration. (2012). Preparing Undergraduates for Research Careers: Using Astrobites in the Classroom. http://astrobites.com. [doi:10.3847/aer2012030](https://doi.org/10.3847/aer2012030)
 - Nathan E. Sanders, Susanna Kohler, Chris Faesi, Ashley Villar, Michael Zevin, and the Astrobites Collaboration. (2017). Incorporating Current Research into Formal Higher Education Settings using Astrobites. https://arxiv.org/abs/1706.01165
+- Khullar, G., Kohler, S., Konchady, T., Foley, M., Hornsby, A. L., de los Reyes, M. A., Chisari, N. E., Villar, V. A., Shin, K., Doughty, C., Shipp, N., Ramasawmy, J., Penoyre, Z., Lichtenberg, T., Storey-Fisher, K., Hall, O., Lewis, B., Pearlman, A. B., Cárdenas-Avendaño, A., Bridge, J. S., González-Egea, E., Panwar, V., Slepian, Z., & Zimmerman, M. (2019). Astrobites as a Community-led Model for Education, Science Communication, and Accessibility in Astrophysics. https://astrobites.org

@@ -52,3 +52,4 @@ Analysis of the yes-motivation distributions from the Masterclass questionnaire;
 - [When conditioned on interest in physics outside school, male and female students' answers about wanting to be a scientist become very similar](masterclass-career-gap-conditional-on-physics-interest.md) — related
 - [In the EinsteinMobil travelling exhibition, most or all participating students showed much interest regardless of age, gender, or general interest in physics](einsteinmobil-student-interest.md) — related
 - [Male students report far more interest in physics outside school than female students (about 80% vs 46%)](masterclass-male-female-physics-interest-outside-school-gap.md) — related
+- [Most surveyed students say they are interested in science although most do not intend to become a scientist](interested-in-science-not-scientist-career.md) — related

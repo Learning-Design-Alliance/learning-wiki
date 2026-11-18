@@ -52,6 +52,7 @@ The study's implementation assigned Osmosis videos alongside, not instead of, di
 - [Incorporating Methods for Self-Testing](incorporating_methods_for_self-testing.md)
 - [Use Edpuzzle's embedded questions, analytics, and LMS integration to support differentiation](edpuzzle-embedded-questions-analytics-differentiation.md)
 - [Cumulative Review Quizzes](cumulative-review-quizzes.md)
+- [Differentiate Google Classroom use by study year: multimedia library for freshmen, source-supported analysis for second years, complex use for senior students](year-differentiated-google-classroom-uses.md)
 
 ## Examples
 -

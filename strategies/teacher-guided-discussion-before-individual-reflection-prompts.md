@@ -45,6 +45,7 @@ After students examine the highlighted differences between their own and an expe
 ## Related Strategies
 
 - [Discussions to Guide Reflection](discussions_to_guide_reflection.md)
+- [Three classroom uses of the quantum concept maps: lecturer-led walkthroughs, recitation-section map building, and student homework support](three-classroom-uses-of-qm-concept-maps.md)
 
 ## Examples
 -

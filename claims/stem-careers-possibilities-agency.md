@@ -52,3 +52,4 @@ Interview excerpt (Nora) illustrating the theme 'Technology and STEM careers cre
 - [Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training](exposure-programs-increase-tech-pursuit.md) — a broader claim this one bears on
 - [Students adopted nondeterministic (SCOT-like) views in which humans influence technological change, supporting agency](students-scot-views-human-steering-technology.md) — related
 - [NITARP and its Spitzer predecessor reached thousands of students and influenced over 100 students to pursue science careers](nitarp-spitzer-reach-and-career-influence.md) — related
+- [In 2015, 70% of respondents said the event is useful to promote the researcher's role and 40% said it could encourage young people toward scientific careers](ern-2015-career-encouragement-perception.md) — related

@@ -77,3 +77,4 @@ Stability check splitting the sample into two equal subsamples and repeating k-m
 - [Cluster analysis across both studies identifies three meta-attention knowledge profiles, including an overconfident group with a self-knowledge/strategy mismatch](makq-three-meta-attention-profiles.md) — related
 - [Affinity propagation clustering of gameplay attempts yielded an interpretable six-cluster solution (part.6)](affinity-propagation-six-cluster-solution.md)
 - [ID learners' initial theoretical understanding is basic, perfunctory, and reliant on expert sources](initial-theoretical-understanding-basic-perfunctory.md) — related
+- [In-depth analysis of a typical session from each cluster yields ten behavioral structures interpreted via Schoenfeld's problem-solving phases](ten-behavioral-structures-schoenfeld.md) — related

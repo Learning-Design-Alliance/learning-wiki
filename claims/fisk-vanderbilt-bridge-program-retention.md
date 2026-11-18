@@ -51,3 +51,4 @@ The article reports, citing Miller & Stassun (2014), that the Fisk-Vanderbilt br
 - [Cornell University's physics program, which has not applied a GRE cutoff since the late 1990s, graduated 73% of its women PhD students between 1993 and 2011, above the NSF-reported average of 59%](cornell-physics-no-gre-cutoff-retention.md) — related
 - [GRE V and GRE Q scores do not predict STEM PhD completion for women](gre-scores-no-prediction-women-stem-phd.md) — related
 - [Women enrolled in STEM PhD programs had GRE Q scores averaging about 40 points lower than men at each institution while completing at similar rates](gre-q-gender-gap-similar-completion.md) — related
+- [GRE score gaps by race, gender, and citizenship, combined with cutoff use, select against underrepresented groups in physics admissions](gre-cutoffs-select-against-underrepresented-groups.md) — related

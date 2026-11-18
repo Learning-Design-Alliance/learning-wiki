@@ -62,6 +62,7 @@ Student feedback functions as a formative assessment loop applied to teaching it
 - [Formative Assessment](../patterns/formative-assessment.md) — the same gather–interpret–adjust loop applied to student learning rather than teaching
 - [Check-Ins](../principles/check-ins.md) — the routine interpersonal channel through which ongoing feedback often flows
 - [Collect anonymous user questionnaires at exhibitions and schools to evaluate the games' educational effectiveness](outreach-game-feedback-questionnaires-strategy.md)
+- [Close the event with an anonymous participant questionnaire and use it to produce an Event Report guiding future improvements](sk-day-anonymous-survey-event-report.md)
 
 ## Examples
 - A high-school teacher runs a two-question anonymous Google Form every Friday ("What helped your learning this week? What got in the way?") and opens Monday's class by naming one adjustment.

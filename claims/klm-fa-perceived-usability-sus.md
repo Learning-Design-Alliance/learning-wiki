@@ -74,3 +74,4 @@ Adjective rating scale results from the same post-test questionnaire; the articl
 - [The VR system received a mean System Usability Scale score of 76.68, indicating good usability](vr-als-system-sus-76-good-usability.md) — related
 - [Older adults rated the KOKU digital programme with excellent usability and high acceptability](koku-high-usability-acceptability.md) — related
 - [The experimental group rated AVDS usability as excellent while the control group rated it as good](sus-usability-excellent-experimental-good-control.md) — related
+- [The Ethics Game received high perceived usability, with a mean SUS score of 83.14 rated Good to Excellent](ethics-game-high-sus-usability.md) — related

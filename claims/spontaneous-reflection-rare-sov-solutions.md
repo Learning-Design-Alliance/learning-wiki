@@ -70,3 +70,4 @@ Exam analysis of spherical SoV solutions found rare explicit spontaneous checkin
 - [Students rarely spontaneously checked units or limiting behavior of their solutions, though they endorsed such checks when prompted](reflection-checks-rarely-spontaneous.md) — possibly the same claim (merge candidate)
 - [Upper-division students rarely spontaneously reflect on their solutions but can do so when prompted](students-rarely-spontaneously-reflect.md) — a broader claim this one bears on
 - [Upper-division students rarely spontaneously reflect on their delta-function solutions, such as checking total charge in a region](students-rarely-reflect-spontaneously-on-delta-function-solutions.md) — related
+- [Very few students spontaneously reflect on their solutions, with only 20 of 329 students making explicit reflective checks on exams](spontaneous-reflection-rare-across-contexts.md) — a broader claim this one bears on

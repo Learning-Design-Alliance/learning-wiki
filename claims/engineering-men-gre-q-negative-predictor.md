@@ -72,3 +72,4 @@ Quartile comparison shown in Fig 4 for male engineering and non-engineering stud
 - [Women enrolled in STEM PhD programs had GRE Q scores averaging about 40 points lower than men at each institution while completing at similar rates](gre-q-gender-gap-similar-completion.md) — related
 - [Students with undergraduate engineering degrees received significantly higher faculty ratings, while physics degrees showed no advantage over other degree types](engineering-degree-higher-faculty-rating.md) — related
 - [Women are outscored by men on every section of the GRE general test, and with other factors equal women score lower on high-pressure timed tests](gender-gap-gre-timed-tests.md) — related
+- [GRE Physics Subject Test scores are not associated with physics PhD completion in any model studied](gre-physics-no-completion-prediction.md) — related

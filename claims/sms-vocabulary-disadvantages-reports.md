@@ -51,3 +51,4 @@ From the qualitative analysis of the 25 written reports and the authors' discuss
 - [Interviewed students perceived SMS learning support as having more advantages than disadvantages](sms-perceived-more-advantages-than-disadvantages.md) — related
 - [Students reported SMS limitations including character limits, lack of formatting, and one-way communication](sms-reported-disadvantages-character-limit-one-way.md) — related
 - [SMS methodology is reported to enhance retrieval of memorized English language rules](sms-enhances-retrieval-memorized-rules.md) — related
+- [The authors identify disadvantages of organizing blended learning with Google Classroom, including predominance of external motivation, low readiness of some students, insufficient technical support, and the need for extra-curricular pedagogical support](google-classroom-blended-learning-disadvantages.md) — related

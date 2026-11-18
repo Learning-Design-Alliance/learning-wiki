@@ -61,3 +61,4 @@ Model comparison on the common student sample using Root-Mean-Square Error (Tabl
 - [Linear regression shows automated grade predicts manual grade (R² = 0.829)](regression-automated-predicts-manual-grade-r2-0829.md) — related
 - [Seemingly Unrelated Regression on Fall 2005 sections confirms the one-minute paper as equally effective](one-minute-paper-sur-confirmation.md) — related
 - [Checklist scores significantly predict GRS scores in a high-stakes exit OSCE](checklist-predicts-grs-regression-osce.md) — related
+- [The variable-based linear regression classifier produced the best-performing student performance model, yielding the least MAE, RMSE, RAE and RRSE among the four trained models](variable-based-lrc-best-error-metrics-programming-spm.md) — related

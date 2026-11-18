@@ -51,3 +51,4 @@ Descriptive analysis of exam records from three breast cancer cohorts (CCB1–CC
 - [Lung cancer CCASP: mean module-test pass of 81% and a 100% certification exam pass for all 16 attenders](ccasp-lung-program-exam-outcomes.md) — related
 - [CCASP fellows were predominantly European mid-career oncologists, with specialty mix varying by program](ccasp-fellow-demographics-specialty-mix.md) — related
 - [More students failed the VP exam (17, 3%) than the oral exam (1 student) over five years](vp-exam-failure-rate-higher-than-oral.md) — related
+- [All students give midterm and final oral presentations and write a technical report, archived in the Fermilab Education Office web archive, with 6 ECTS credits upon passing a University of Pisa final exam](midterm-final-presentations-technical-report-ects.md) — related

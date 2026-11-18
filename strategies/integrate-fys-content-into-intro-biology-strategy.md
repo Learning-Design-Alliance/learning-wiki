@@ -48,7 +48,8 @@ The authors recommend that instructors incorporating FYS activities into introdu
 - [Students reported valuing both the FYS transition components and the disciplinary biology components of Exploring Biology](../claims/exploring-biology-students-value-fys-and-disciplinary-components.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Adopt a first-year research program by embedding it in an existing course, then converting it to a credited course](embed-then-credit-first-year-research-program.md)
 
 ## Examples
 -

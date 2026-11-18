@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 368 claims (259 show a difference, 67 mixed, 42 no difference) · 242 studies (95 associational, 67 causal, 33 review, 19 qualitative, 12 quant-synthesis, 8 design, 8 theoretical), `q1`–`q4` · 53 of 242 report an effect size · 360 claims rest on one study
+> **Evidence** · 369 claims (260 show a difference, 67 mixed, 42 no difference) · 243 studies (95 associational, 67 causal, 33 review, 20 qualitative, 12 quant-synthesis, 8 design, 8 theoretical), `q1`–`q4` · 53 of 243 report an effect size · 361 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -408,6 +408,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Pre-lab prediction work improves the lab experience and cooperative groups reduce frustration](../claims/pre-lab-prediction-improves-lab-experience.md) [+W] — measured as an outcome of the instruction studied
 - [Estevan persisted in sense-making about seasons for most of a 90-minute class despite frustration, reaching a mostly accurate model](../claims/estevan-seasons-persistence-case.md) [+W] — learners who differ on it differ in outcomes
 - [Humor and epistemic or affective distancing facilitate rather than derail group discussion](../claims/distancing-moves-facilitate-discussion.md) [+W] — learners who differ on it differ in outcomes
+- [STEM courses increased the frequency and intensity of anxiety episodes for students with anxiety-related diagnoses, and testing accommodations reduced test anxiety](../claims/stem-course-anxiety-testing-accommodations.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

@@ -59,3 +59,4 @@ In-class FCI testing of over 5000 students across 22 traditional and 6 M&I secti
 - [The general physics course with the computational modelling component achieved an average FCI gain of 22%, performing like a traditional instruction course](fci-gain-22-percent-traditional-instruction.md) — related
 - [Differences in pedagogy and testing incentives cannot explain the FCI performance gap between traditional and M&I curricula.](pedagogy-incentives-cannot-explain-fci-gap.md) — related
 - [Experimental and control cohorts were statistically equivalent on conceptual physics diagnostics (FCI, MBT, BEMA) at entry and across the course](comparison-cycles-diagnostics-equivalent.md) — reports the opposite
+- [Introductory physics and astronomy students achieve comparable FCI conceptual gains on force concepts, despite differing attitudes](fci-conceptual-gains-comparable.md) — related

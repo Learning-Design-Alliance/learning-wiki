@@ -72,3 +72,4 @@ Preliminary test class (15 students from both physics-major and general-educatio
 - [Scientific reasoning gains (LCTSR) are equal between flipped and nonflipped active classrooms and significant within both](lctsr-reasoning-gains-equal-flipped-nonflipped.md) — related
 - [Explicit instruction in scientific reasoning appears to produce larger reasoning gains, though observations are preliminary](explicit-reasoning-instruction-larger-gains-preliminary.md) — possibly the same claim (merge candidate)
 - [Non-science majors average an abysmal 38% on LCTSR questions testing hypothetico-deductive reasoning](non-majors-hypothetico-deductive-lctsr-38.md) — related
+- [Average Lawson scientific reasoning level of the local student population was significantly lower than reported for USA, China and India](lawson-reasoning-lower-than-cross-cultural-peers.md) — related

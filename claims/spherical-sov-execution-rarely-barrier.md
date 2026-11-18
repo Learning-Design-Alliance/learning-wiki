@@ -50,3 +50,4 @@ Observational analysis of spherical SoV exam solutions: "only a small fraction o
 - [Just under half of CU students did not select SoV as the appropriate solution method for a spherical shell problem on the CUE](spherical-sov-activation-cue-difficulty.md) — related
 - [Almost two-thirds of spherical SoV exam solutions included correct expressions for all explicit and implicit boundary conditions](spherical-sov-boundary-condition-expressions.md) — related
 - [Mathematical execution errors were common but not specific to Coulomb's Law problems and did not represent the primary barrier to success](execution-math-errors-not-primary-barrier.md) — a broader claim this one bears on
+- [Execution errors are rarely the primary barrier to student success; most fundamental execution errors are preceded by significant difficulties in activation or construction](execution-errors-rarely-primary-barrier.md) — related

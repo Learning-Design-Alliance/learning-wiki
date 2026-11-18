@@ -50,3 +50,4 @@ Online questionnaire evaluation of five digital seminar days in the KWBW program
 - [The STP was highly acceptable and satisfying: the online format was rated 9.12/10 and 69.2% of participants were very satisfied](stp-high-satisfaction-acceptability.md) — related
 - [Students rate digital simulated-person communication seminars highly, with 63% giving a very good and 37% a good overall grade](digital-sp-seminars-high-student-acceptance.md) — related
 - [About 70% of attendees evaluated the two-day seminar as helpful or very helpful for their practical work and 22.9% attributed new competencies to it](seminar-rated-helpful-by-most-attendees.md) — related
+- [Most students were satisfied with the air:bit project and found the online materials helpful](airbit-student-satisfaction-online-materials.md) — related

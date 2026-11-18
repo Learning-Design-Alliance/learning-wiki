@@ -71,3 +71,4 @@ Sentiment analysis of open-ended survey responses conducted by ChatGPT4, which t
 - [Sentiment analysis of open-ended SALG responses showed positive sentiments more abundant than negative in all years, with a higher positive proportion in the latter two years](ibis-sentiment-positive-trigrams-increased.md) — related
 - [Residents' unprompted comments about the rapid feedback intervention were almost entirely positive (11 of 12)](resident-comments-on-rapid-feedback-mostly-positive.md) — related
 - [Student feedback on the story-writing activity was overwhelmingly negative in both semesters despite high effort](story-writing-negative-feedback.md) — related
+- [Most players reached the neutral ending rather than the promotion ending, and student feedback drove design revisions](ethics-game-ending-distribution-and-revisions.md) — related

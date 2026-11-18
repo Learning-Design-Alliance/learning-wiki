@@ -47,3 +47,4 @@ Twelve ophthalmology faculty from four teaching hospitals participated in think-
 
 ## Related Claims
 - [The ICO-OCEX achieved strong content validity through a modified Delphi technique with expert consensus on all 33 items](ico-ocex-content-validity-delphi-consensus.md) — related
+- [NoNIP underwent expert validation through semi-structured interviews with two experts each in mathematics and physics](nonip-expert-validation-interviews.md) — related

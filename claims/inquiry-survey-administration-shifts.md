@@ -47,3 +47,4 @@ Coding of open-ended responses to the Wallace and Kang inquiry survey items at t
 ## Related Claims
 - [Challenging statements among teachers and researchers increased over four-fold during the middle period of the program](challenging-statements-fourfold-increase.md) — related
 - [Teachers' references to the NSES five essential features of inquiry increased across five lesson-sharing reflections](lesson-sharing-refs-essential-features-increase.md) — related
+- [References to inquiry features outside the NSES framework shifted between survey administrations, with Real-world and Model decreasing markedly and Own increasing moderately](non-nses-inquiry-references-shift.md) — related

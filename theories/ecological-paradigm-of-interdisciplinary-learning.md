@@ -67,11 +67,13 @@ This paradigm organizes design guidance around three recurring dilemmas, each wi
 - [Three-theme characterization of innovative interdisciplinary exploratory research: new frontiers, equitable co-design, and networked communities](three-themes-exploratory-research-character.md)
 
 ## Examples
+
 - [Interdisciplinary Course-Based Research Experience](../principles/inquiry-based-learning.md) — a "human capital" content-dilemma response, using students' own disciplinary networks instead of pre-designed disciplinary content
 - [Organization Simulation for Interdisciplinary Learning](../designs/organization-simulation-for-interdisciplinary-learning.md) — a pedagogy-dilemma response built around a shared simulated task and evolving knowledge objects
 - [Interdisciplinary Societal Dilemma Units](../designs/interdisciplinary-societal-dilemma-units.md) — a "sandwich"-sequence content-dilemma response for K-12, paired with an organization-dilemma response (moving the program out of school)
 - [Humanizing Co-Design with Educators](../processes/humanizing-co-design-with-educators.md) — an infrastructuring response that brings researchers and educators together as co-designers across institutional boundaries
 - [Interdisciplinary humanities units improve students' interdisciplinary competences](../claims/interdisciplinary-humanities-units-improve-interdisciplinary-competences.md) [+W] — a "sandwich"-sequence content-dilemma response at the middle-school humanities level, with the strongest quantitative evidence among the studies this paradigm draws on
+- [Co-construct Orrery sequences with teachers across subjects and extend toward interdisciplinary STEAM approaches](../strategies/co-constructed-orrery-sequences-steam.md)
 
 ## Key Sources
 - Kali, Y. (2024). An ecological paradigm of interdisciplinary learning: Implications for design. *Journal of the Learning Sciences, 33*(2), 450-464. [https://doi.org/10.1080/10508406.2024.2354152](https://doi.org/10.1080/10508406.2024.2354152)

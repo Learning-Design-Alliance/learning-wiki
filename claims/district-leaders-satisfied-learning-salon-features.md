@@ -53,3 +53,4 @@ Descriptive post-engagement survey (15 Likert and open-ended items via Qualtrics
 - [Students were highly satisfied with the paired course model and its components, with 100% willing to advise a new student to take the paired courses](paired-course-high-student-satisfaction.md) — related
 - [Participants report high satisfaction with both training modalities with no difference between groups](high-satisfaction-both-modalities-no-difference.md) — related
 - [92.60% of students were satisfied with the A-SPIRE model and 96.3% believed their science communication ability improved](a-spire-high-satisfaction-self-assessed-improvement.md) — related
+- [High-school students report being generally very satisfied after participating in the thermodynamics focus group](focus-group-thermodynamics-high-satisfaction.md) — related

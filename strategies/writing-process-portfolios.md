@@ -66,6 +66,7 @@ Portfolios operationalize process-oriented writing instruction, which meta-analy
 - [Activities for student self-reflection](activities_for_student_self-reflection.md) — the reflection routines the cover letter depends on
 - [Teachers introduce portfolios in language classes so students regularly self-assess and become aware of their learning process](introduce-portfolios-for-learner-self-assessment-awareness.md)
 - [Use formative quizzes, writing portfolios, and peer-feedback rubrics rather than relying only on a final examination](formative-assessment-toolkit-strategy.md)
+- [Use computational essays as semester-long projects with revision, portfolio-based assessment, or as a stepping stone to programming integration](computational-essays-teaching-and-assessment-uses.md)
 
 ## Examples
 - **National Writing Project classrooms** — teachers routinely use working portfolios with revision memos and reflective letters as the core assessment of writing units ([nwp.org](https://www.nwp.org))

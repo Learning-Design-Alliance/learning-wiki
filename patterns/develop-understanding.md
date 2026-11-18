@@ -15,7 +15,7 @@ grain_size: lesson
 # Develop Understanding
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 41 claims (20 for, 18 mixed, 3 against) · 55 studies (28 causal, 10 review, 8 quant-synthesis, 4 theoretical, 3 qualitative, 2 associational), `q1`–`q4` · 10 of 55 report an effect size · 33 claims rest on one study
+> **Evidence** · 42 claims (21 for, 18 mixed, 3 against) · 56 studies (28 causal, 10 review, 8 quant-synthesis, 4 qualitative, 4 theoretical, 2 associational), `q1`–`q4` · 10 of 56 report an effect size · 34 claims rest on one study
 
 ## Description and scope
 
@@ -121,6 +121,7 @@ Claims this page cited before the 2026-10-05 rewrite and not used as core eviden
 - [Students showed growth in representational competence and conceptual understanding of particle motion across an online sequence of representational challenges](../claims/online-rca-growth-particle-motion.md) [+W] — attached 2026-10-29 from Cirkony et al. (2022), which proposed "Sequence representational challenges before introducing scientific explanations in online representation-focused units".
 - [Conceptual change texts with concept maps produced significantly higher post-test concept scores than traditional teaching for air pressure](../claims/conceptual-change-texts-concept-maps-beat-traditional-air-pressure-posttest.md) [+W] — attached 2026-11-02 from Akbaş et al. (2011), which proposed "Use conceptual change texts together with concept maps to remediate misconceptions".
 - [Fourth graders taught with conceptual change texts scored significantly higher on the post-test than peers taught with traditional methods](../claims/cct-posttest-favors-experimental-group.md) [+W] — attached 2026-11-02 from Orhan Dağdelen (2015), which proposed "Conceptual change text structure: question, dissatisfaction, refutation, and example-based reinforcement"; tests this page's relationship.
+- [Even students who choose the wrong answer on a multiple-choice physics question can generate the correct explanation when prompted for alternatives](../claims/wrong-answer-students-generate-correct-explanations.md) [+W] — attached 2026-11-18 from Nolan K. Weinlader et al. (2018), which proposed "When students can generate correct reasoning among alternatives, instruction should focus on helping them select the correct reasoning rather than only presenting it".
 
 ## Illustrative design instance and observation record
 

@@ -48,3 +48,4 @@ Randomized experiment with 20 medical students block-randomized into a touch and
 - [Touch and no-touch groups showed comparable baseline laparoscopic performance on the post-and-sleeve task](baseline-laparoscopic-performance-comparable-groups.md) — related
 - [Haptic exploration before practice shows no significant difference in laparoscopic task time or path length, with a trend toward shorter path length](no-time-path-length-difference-haptic-exploration.md) — related
 - [Haptic simulator trials more frequently show superior accuracy outcomes when force-feedback and structured guidance are included](haptic-simulator-force-feedback-accuracy-gains.md) — a broader claim this one bears on
+- [A haptic-hardware tutorial before the simulation produced no quiz-score difference between the two force-feedback groups](haptic-tutorial-no-quiz-difference.md) — related

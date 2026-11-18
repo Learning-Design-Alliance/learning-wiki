@@ -72,3 +72,4 @@ Category 4 groups stayed mostly in the task enactment phase; the study reports "
 - [Trace data can capture the temporal progress of regulation as learners engage in learning tasks over time](trace-data-capture-temporal-regulation.md) — related
 - [Commitments to change clustered into four categories — communication, behavior, knowledge, and attitude — with roughly one third of behavior- and attitude-related commitments interprofessional](c2c-commitments-four-categories.md) — related
 - [Discrepant output episodes yielded the largest diversity of metacognitive and transactive moves and the highest frequency of clusters across groups](discrepant-output-episodes-richest-smm.md) — related
+- [Cluster mean Complexity scores divide the ten clusters into three over-arching groups (A, B, C) differing in complexity](three-complexity-groups-session-clusters.md) — related

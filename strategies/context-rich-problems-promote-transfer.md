@@ -47,6 +47,7 @@ Context-rich problems, developed by the University of Minnesota PERG, begin with
 - [Maximize Transfer and Generalization](maximize_transfer_and_generalization.md)
 - [Scenario-Based E-Learning](scenario-based_e-learning.md)
 - [Practice Responsible Decision-Making](practice_responsible_decision-making.md)
+- [Incorporate conceptually-rich, engaging real-world and astronomical contexts into introductory physics problems and instruction](engaging-real-world-contexts-intro-physics-problems.md)
 
 ## Examples
 -

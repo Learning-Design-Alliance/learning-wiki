@@ -40,6 +40,8 @@ The article recommends using E-CLASS as a common evaluation tool for lab course 
 
 - [Use pre/post attitude surveys with detailed instructor feedback reports as formative assessment for lab course transformation](formative-attitude-survey-feedback-reports-lab-courses.md)
 - [Sorted, statement-by-statement instructor reports as formative assessment for lab courses](e-class-sorted-instructor-report-formative-assessment.md)
+- [Best practices for administering attitudes and beliefs surveys: pre/post timing, framing, online and in-class protocols](administering-attitudes-beliefs-surveys-best-practices.md)
+- [Match beliefs and self-efficacy survey choice to purpose: CLASS for quick broad measurement, SOSEC-P for detailed self-efficacy, PSEQ for short combined use](match-beliefs-self-efficacy-survey-to-purpose.md)
 
 ## Examples
 -
