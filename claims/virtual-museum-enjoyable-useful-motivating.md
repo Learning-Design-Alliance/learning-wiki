@@ -53,3 +53,5 @@ Open-ended question responses from 20 students showed the most frequent opinion 
 - [Students with better computer knowledge had more positive attitudes toward the virtual museum application.](computer-knowledge-moderates-virtual-museum-attitudes.md) — related
 - [Web-based museum trails enhanced design students' knowledge of, interest in, and closeness to museum objects](trails-enhanced-knowledge-interest-closeness-objects.md) — related
 - [Students reported that the greatest difficulty lay in working in groups, while the most frequently shared feeling was enjoyment](student-difficulty-groupwork-enjoyment.md) — related
+- [Older distance students agree more that virtual and remote experiments make practical science enjoyable, while younger students prefer co-location with equipment](age-trend-remote-lab-enjoyment.md) — related
+- [Students agreeing that virtual experiments make practical work more enjoyable tend to obtain higher module grades, and students replying that remote experiments are not effective for teaching collaboration tend to obtain lower grades](enjoyment-grade-correlation.md) — related

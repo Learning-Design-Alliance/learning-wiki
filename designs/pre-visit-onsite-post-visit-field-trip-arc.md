@@ -41,7 +41,8 @@ The Sea Turtle Trek packet structures a park field trip as three sequential acti
 - [Learning Cycle Effective Science Learning](../claims/learning-cycle-effective-science-learning.md) [+W]
 
 ## Related Designs
-- 
+
+- [Mono-communal preparation visits followed by bi-communal joint activity days](mono-communal-then-bicommunal-astronomy-days.md)
 
 ## Examples
 -

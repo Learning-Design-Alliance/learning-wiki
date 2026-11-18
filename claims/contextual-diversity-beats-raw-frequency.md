@@ -49,3 +49,4 @@ The review reports, citing Adelman, Brown and Quesada (ref 32), that "the number
 - [Lexical simplification (high-frequency target words) substantially reduces word-level processing times in adult sentence reading](lexical-simplification-reduces-target-word-processing.md) — related
 - [Training experiments with adults suggest linguistic diversity supports word learning](linguistic-diversity-training-supports-learning.md) — related
 - [Text experience offers unique lexical learning opportunities: most new vocabulary after reading onset is learned via reading, and children's text is more lexically diverse than speech](text-experience-unique-lexical-learning.md) — related
+- [Corpus disambiguation can assign inaccurate word senses, which frequency statistics partly mitigate](corpus-disambiguation-inaccuracies.md) — related

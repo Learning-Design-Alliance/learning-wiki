@@ -74,3 +74,4 @@ Observational density-distribution analysis (Fig. 5) of overall GPA versus ASTR1
 - [Mathematics and physics show modest evidence of a cognitive threshold: no student with SAT-M below roughly 600 attained GPA above 3.5](cognitive-threshold-math-physics-satm-600.md) — related
 - [Natural science majors score significantly higher in the objective-graded astronomy course (mean 61±13) than other majors, whose mean scores are identical at 55±12](natural-science-majors-score-higher-intro-astronomy.md) — related
 - [PER research subjects are better prepared mathematically than the overall population of introductory physics students](per-subjects-stronger-math-preparation.md) — related
+- [College One showed a clear increase in AS-level Physics grades versus predicted grades, averaging +0.86 grade per student, as tentative evidence of improved attainment](outreach-tentative-as-grade-improvement.md) — related

@@ -53,3 +53,4 @@ In the 180-student curriculum study, Group 2 took only the pre-repetition test o
 - [Taking a multiple-choice test boosts performance on later tests compared with nontested control conditions, including with complex SAT II materials](mc-testing-boosts-later-performance.md) — related
 - [Multiple-choice testing improves later cued recall of prose facts, a benefit that persists though reduced after a one-week delay](mc-testing-prose-cued-recall-benefit.md) — related
 - [Multiple-choice testing increases the later production of multiple-choice lures as answers on cued recall tests, even under warning against guessing](mc-testing-increases-lure-production.md) — related
+- [Terms not initially recognized by some group members are quickly taken in, as shown by later recognition of those and similar terms](unrecognized-terms-quickly-taken-in.md) — related

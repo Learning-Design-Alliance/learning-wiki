@@ -57,3 +57,4 @@ Qualitative content analysis of interviews with experimental-group students, cod
 - [Most learners report that visual input helps them understand speakers](visual-input-helps-comprehension-perceptions.md) — related
 - [Students formed positive views and attitudes toward teaching with tablets](students-positive-attitudes-tablets-ar-lessons.md) — possibly the same claim (merge candidate)
 - [Students reported that the simulations improved visualization of invisible or unobservable gravitational concepts](ejs-simulations-improve-visualization-invisible-concepts.md) — related
+- [Reported benefits of educational augmented reality include motivation, attention, understanding, memorization, and safe experimentation](ar-reported-benefits-motivation-memorization.md) — a broader claim this one bears on

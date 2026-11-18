@@ -62,3 +62,4 @@ The primer reports this as a theoretical account attributed to Leenknecht et al.
 - [Correctness and informative feedback with appropriate challenge fostered competence and autonomy](feedback-features-fostered-competence-autonomy.md) — a narrower finding that bears on this claim
 - [The authors attribute the motivation decrease to researcher-selected applications limiting autonomy, low technological literacy undermining competence, and weak relatedness](sdt-explanation-motivation-decrease-digital-workshop.md) — related
 - [The article attributes Sim + LBL's effectiveness to cognitive and motivational processes consistent with Self-Determination Theory](sdt-explanation-sim-lbl-effectiveness.md) — related
+- [Game based learning activities meet four player-activity requirements—students' goals, autonomy, competence, and relatedness—to foster autonomous motivation](four-requirements-autonomous-motivation-dgbl.md) — related

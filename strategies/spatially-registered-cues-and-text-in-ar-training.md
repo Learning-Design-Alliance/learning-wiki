@@ -45,6 +45,7 @@ Based on participant feedback and observed difficulties, the authors recommend t
 ## Related Strategies
 
 - [Use arrows as visuospatial cues to direct the learner's attention to relevant regions of an animation.](arrows-visuospatial-cues-animation-strategy.md)
+- [Use prepared-marker scenes for classroom AR and additional hardware sensors (gyroscopes, GPS, compasses) for unprepared out-of-classroom scenes](prepared-vs-unprepared-ar-scenes-strategy.md)
 
 ## Examples
 -

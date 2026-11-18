@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-16
 evidence_strength: weak
-newest_evidence: 2009
+newest_evidence: 2010
 sources:
-  - id: brown-2009
+  - id: brown-2010
     resource: "https://doi.org/10.48550/arXiv.1009.5289"
-    title: "Brown, D. and Neale, N. (2009). A Global Citizen of the Skies. [doi:10.48550/arXiv.1009.5289](https://doi.org/10.48550/arXiv.1009.5289)"
+    title: "Brown, D. and Neale, N. (2010). A Global Citizen of the Skies. Originally published 2009. [doi:10.48550/arXiv.1009.5289](https://doi.org/10.48550/arXiv.1009.5289)"
     author: Brown, D. and Neale, N.
     q: 1
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q1 i?` Constellations created by 'Natives' group members targeted animals and nature while 'Explorers' group members chose artificial objects such as a plane, demonstrating the impact of cultural background on constellation creation. [→ Brown 2009](#brown-2009)
+`q1 i?` Constellations created by 'Natives' group members targeted animals and nature while 'Explorers' group members chose artificial objects such as a plane, demonstrating the impact of cultural background on constellation creation. [→ Brown 2010](#brown-2010)
 
 ## Evidence
 
-### Brown 2009
+### Brown 2010
 
-Brown, D. and Neale, N. (2009). A Global Citizen of the Skies. [doi:10.48550/arXiv.1009.5289](https://doi.org/10.48550/arXiv.1009.5289)
+Brown, D. and Neale, N. (2010). A Global Citizen of the Skies. Originally published 2009. [doi:10.48550/arXiv.1009.5289](https://doi.org/10.48550/arXiv.1009.5289)
 
 `q1 · i?` · `design · r2`
 

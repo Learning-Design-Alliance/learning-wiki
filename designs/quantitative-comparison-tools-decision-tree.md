@@ -41,7 +41,8 @@ The experimental curriculum taught a set of analysis tools "used regularly by sc
 - [Comparison Cycle Framework Critical Thinking](comparison-cycle-framework-critical-thinking.md) [+M]
 
 ## Related Designs
-- 
+
+- [Model-comparison lab activities require linearly related variables, competing models, simple data collection, and messy data](activity-design-for-model-comparison-labs.md)
 
 ## Examples
 -

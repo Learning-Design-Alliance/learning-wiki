@@ -57,3 +57,4 @@ Findings from the TBLT section of the thematic analysis. Teachers reported scaff
 - [GenAI undermines evidence rules by making work products ambiguous between student competence and AI capability, with substitution capacity depending on task cognitive demands](genai-disrupts-evidence-rules-asymmetrically.md) — related
 - [Students' generative AI use may function either as a scaffold supporting thinking or as a shortcut bypassing essential cognitive processes](ai-scaffold-or-shortcut-pathways.md) — related
 - [Advanced technology's hyperinteractivity can intensify social inequality in education](hyperinteractivity-can-intensify-inequality.md) — related
+- [Tasks can be designed to create a perceived trade-off between accuracy and realism that requires sensemaking to resolve](accuracy-realism-task-design.md) — related

@@ -67,6 +67,7 @@ Stations exploit the benefits of multiple, contrasting representations: encounte
 - [Interdisciplinary scenario stations combining 3D models, CT-A interpretation, and expert-led clinical discussion](interdisciplinary-ica-scenario-stations.md)
 - [Assign small-group responses to popular science articles to build critical reading of science in media](popular-science-article-response-assignments.md)
 - [Design concept test sequences that vary representation and difficulty level](concept-test-sequence-design-strategy.md)
+- [Run a physical QR quest in which student groups decode question codes at stations under a time limit with a point-and-penalty scoring system](physical-qr-quest-stations-scoring.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the text resources that populate stations

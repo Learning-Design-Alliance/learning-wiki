@@ -13,7 +13,7 @@ generated:
 # Learning Disabilities and Developmental Differences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 192 claims (132 show a difference, 36 mixed, 24 no difference) · 104 studies (54 associational, 25 causal, 11 review, 6 quant-synthesis, 5 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 22 of 104 report an effect size · 190 claims rest on one study
+> **Evidence** · 193 claims (133 show a difference, 36 mixed, 24 no difference) · 105 studies (54 associational, 26 causal, 11 review, 6 quant-synthesis, 5 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 22 of 105 report an effect size · 191 claims rest on one study
 
 ## Description
 Identified differences in how a learner learns: specific learning disabilities such as dyslexia and dyscalculia, autism, intellectual disability, and the special educational needs (an IEP in the United States, an EHC plan in England) that formally record them. In the research it appears as a population a design targets, as a moderator (an approach that works differently for these learners), and as a predictor of outcomes. It is distinct from [access](access.md), which is about perceiving and operating the material (sensory and motor impairments, devices); a learner can need both. Attention-related differences such as ADHD sit on [attention](attention.md).
@@ -226,6 +226,7 @@ Identified differences in how a learner learns: specific learning disabilities s
 - [Early school attendance of preterm infants accounts for an estimated 1 in 60 infants needing special educational needs in later education](../claims/early-school-entry-population-attributable-sen-fraction.md) [+M] — learners who differ on it differ in outcomes
 - [Matching preterm infants to term peers in the same school year attenuates the association between prematurity and special educational needs at KS4 to non-significance](../claims/sen-association-attenuated-same-school-year.md) [~M] — learners who differ on it differ in outcomes
 - [Preterm infants have higher odds of special educational needs at age 16 than term peers when matched on date of birth](../claims/preterm-higher-ks4-sen-odds-dob-matched.md) [+M] — learners who differ on it differ in outcomes
+- [The review reports, citing Didehbani et al., that young adults with high-functioning autism showed significant increases on social cognitive measures after VR social cognition training](../claims/vr-social-cognition-training-autism-significant-gains.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Do learners with disabilities reach lower achievement, graduation and postsecondary outcomes than their peers, by how much, and does it differ by disability type?* [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](../claims/disability-largest-postsecondary-outcome-gap.md) [+M]

@@ -48,3 +48,4 @@ Class-level comparison of two cohorts in similar pendulum-amplitude experiments 
 - [A student pair's iterative redesign raised their pendulum t'-score from 0.18 to 3.71, leading them to conclude the two amplitude measurements differed](pendulum-pair-t-score-progression.md) — related
 - [SQILab students can recognize limitations of the small-angle model when their precise measurements conflict with class expectations](sqilab-students-recognize-model-limitations.md) — related
 - [Prior SQILabs instruction significantly improved the quality of students' follow-up reasoning on comparisons, with no significant difference between the two SQILabs groups](sqilabs-improves-follow-up-reasoning-quality.md) — related
+- [A model-verifying frame can lead students to engage in questionable research practices, such as deliberately decreasing measurement precision to obtain a desired result](model-verifying-frame-questionable-research-practices.md) — related

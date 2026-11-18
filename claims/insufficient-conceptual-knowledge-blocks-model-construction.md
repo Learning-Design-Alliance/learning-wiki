@@ -47,3 +47,4 @@ Think-aloud interviews in the LED optical power activity: despite an explanatory
 ## Related Claims
 - [Students often bypass articulating assumptions when a ready-made mathematical model is available](assumptions-bypassed-with-ready-mathematical-model.md) — a broader claim this one bears on
 - [Frequent use of reflective prompts related to better strategic problem-solving and conceptual understanding](reflective-prompts-frequency-problem-solving.md) — related
+- [Students' unarticulated assumptions and unfamiliar concepts act as barriers to modeling during experiments](student-barriers-assumptions-model-limitations.md) — a broader claim this one bears on

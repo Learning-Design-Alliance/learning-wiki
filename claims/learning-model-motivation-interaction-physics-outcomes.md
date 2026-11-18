@@ -46,3 +46,5 @@ Two-way ANOVA interaction term (bxk) in the factorial quasi-experiment: "the val
 
 ## Related Claims
 - [Structured inquiry instruction produces significantly higher geometry concept understanding than conventional instruction in a quasi-experiment](structured-inquiry-higher-geometry-concept-understanding.md) — related
+- [Engineering and technology students show no significant difference in motivation towards learning physics](no-significant-difference-motivation-physics-guido.md) — related
+- [Engineering and technology students show no significant difference in attitudes towards learning physics](no-significant-difference-attitudes-physics-guido.md) — related

@@ -49,3 +49,5 @@ Micro-analysis of Excerpt 3 during the final report-writing activity; the teache
 - [Cognitively oriented challenges dominated student help requests during computer-supported lab work, with 45.1% conceptual and 28.7% cognitive-regulation requests](help-requests-mostly-conceptual-cogreg.md)
 - [Teachers can guide students' conceptual understanding of life skills concepts by building on the everyday experiences students invoke in classroom conversations.](teachers-build-on-everyday-experiences-in-life-skills-conversations.md) — related
 - [When facing students' major conceptual challenges, the teacher shifted from prompting cued questions to providing explanations himself](teacher-shifts-cued-questions-to-explanations.md) — related
+- [Drawing physical terms helps students develop deeper understanding of the concepts behind the terms](drawing-terms-deepens-physics-concept-understanding.md) — related
+- [Once students communicate concepts pictorially, they move beyond definitions and use everyday examples to convey terms to their group](pictorial-communication-prompts-everyday-examples.md) — related

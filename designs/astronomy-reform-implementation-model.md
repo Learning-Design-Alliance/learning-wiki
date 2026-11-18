@@ -42,7 +42,8 @@ The article presents a model of reform implementation for introductory astronomy
 - [Epistemological Expectation Mismatches Astronomy](../claims/epistemological-expectation-mismatches-astronomy.md) [+M]
 
 ## Related Designs
-- 
+
+- [Our Place in the Universe: an interdisciplinary common core course using astronomy history to teach rational thinking](our-place-in-universe-hku-course.md)
 
 ## Examples
 -

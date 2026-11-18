@@ -48,3 +48,4 @@ Survey results on manner of use (Table 7) among the 281 respondents, characteriz
 - [Most medical students use recorded lectures weekly, mainly to make up missed lectures, review content, and develop notes](weekly-recording-use-for-review-and-notes.md) — related
 - [Segmenting video into short pieces or click-forward pauses supports student engagement and learning from video](segmenting-supports-video-engagement-learning.md) — related
 - [Students perceive the greatest benefits of recorded lectures as multi-resource integration and improved understanding, with technology problems as chief drawbacks](perceived-benefits-and-drawbacks-of-recordings.md) — related
+- [The mathcast format has stated drawbacks: no easy individualization, indistinguishable public analytics data, and imperfect viewing verification](mathcast-format-drawbacks.md) — related

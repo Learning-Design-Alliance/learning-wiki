@@ -79,3 +79,4 @@ Quasi-experimental study of 66 seventh-graders randomly assigned to three groups
 - [Model RC circuit and lipid bilayer show no difference in electrical response, validating the RC-equivalence teaching goal](bilayer-equivalent-to-rc-circuit.md) — related
 - [Building low-cost robot prototypes let high-school students work on electricity, kinematics, dynamics and modern-physics topics](cl-prototypes-physics-topics.md) — related
 - [Enem 2011 item 70 (simple electric circuits) reveals lack of familiarity with conducting materials: only about 35% correct, 40% chose options connecting the wire to the bulb's glass, and the item has low discrimination](enem-2011-item70-circuits-practical-activities.md) — related
+- [Fourier-optics simulations combined with geometric and physical optics convey principles and real-world applications in classroom teaching](fourier-optics-classroom-simulations.md) — related

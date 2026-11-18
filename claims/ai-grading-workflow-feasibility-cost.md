@@ -78,3 +78,4 @@ Cost accounting in Sect. 3.2 compares the token cost with 16 TAs × 5 h × $44/h
 - [The e-learning group needed far less time for reading and learning than the traditional group](ecme-less-learning-time.md) — related
 - [All four LLMs completed the 240-question assessment in under 3 minutes, far faster than the human time allocation](llms-complete-frcs-urol-under-three-minutes.md) — related
 - [A renewed course-paper evaluation procedure cut grading time from two weeks to three days for 256 papers with high scorer agreement](renewed-paper-evaluation-efficiency.md) — related
+- [Grading one efficient-design unit test takes about 6 minutes or less, about 3 hours for a class of about 30 students](six-minutes-grading-per-student-test.md) — related

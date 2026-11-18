@@ -30,6 +30,7 @@ The review recommends that family medicine education research be explicitly theo
 ## Related Research Methods
 
 - [A priori causal-graph specification before educational data analysis](a-priori-causal-graph-specification-before-educational-data-analysis.md)
+- [Critical Quantitative Intersectionality (CQI) framework](critical-quantitative-intersectionality-cqi-framework.md)
 
 ## Key Sources
 - Webster F, Krueger P, MacDonald H, Archibald D, Telner D, Bytautas J, Whitehead C. (2015). A scoping review of medical education research in family medicine. BMC Medical Education. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4407512/

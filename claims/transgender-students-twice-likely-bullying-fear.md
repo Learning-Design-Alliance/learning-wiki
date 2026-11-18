@@ -61,3 +61,4 @@ Descriptive CHKS tabulations of school safety measures by gender identity and sc
 - [Equalizing perceived supports and safety would reduce gay/lesbian/bisexual versus straight disparities in connectedness by 90-100 percent and other disparities by half](supports-safety-account-orientation-disparities.md) — related
 - [Identity- or bias-based harassment shows negative social-emotional and academic consequences over and above general victimization](bias-based-harassment-added-harm.md) — related
 - [The school environment can serve as a source of chronic stress: bullying at school is linked to higher hair cortisol and poorer executive function](school-environment-chronic-stress-hair-cortisol.md) — related
+- [Harassment within the past year affected 23% of LGB respondents and 31–39% of transgender individuals, per a 2010 study the Guide cites](lgb-harassment-rates-2010-study.md) — related

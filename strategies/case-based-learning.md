@@ -103,6 +103,7 @@ CBL works because it situates abstract concepts in the messy, contextualized con
 - [Debate](debate.md) — structured argumentation over case decisions
 - [Peer Instruction](peer-instruction.md) — a scalable way to inject commitment-and-discussion cycles into large classes
 - [Design implications for web-enhanced case-based activity environments](web-enhanced-cba-design-implications.md)
+- [Assess with new situations and start from real-life problems rather than repeating lecture tasks](new-situations-assessment-strategy.md)
 
 ## Examples
 - **Harvard Business School case method** — MBA students analyze ~500 published cases (e.g., from [HBP Education](https://www.hbs.edu/education/Pages/default.aspx)) in cold-call discussion sections

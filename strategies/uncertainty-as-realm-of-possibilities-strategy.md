@@ -48,6 +48,7 @@ The strategy redefines the negatively connoted word uncertainty as a "realm of p
 
 - [Practical guidance for running classroom demonstrations: practice, siting, timing, and assessment to avoid jugglery](demonstration-implementation-cautions-strategy.md)
 - [Avoid jargon and redefine common terms like planet and star in astronomy outreach, aiming at understanding rather than fact lists](avoid-jargon-redefine-terms-astronomy-outreach.md)
+- [Use single-photon interference videos alongside laser diffraction and soap-film experiments to interpret wave patterns statistically](single-photon-interference-video-approach.md)
 
 ## Examples
 -

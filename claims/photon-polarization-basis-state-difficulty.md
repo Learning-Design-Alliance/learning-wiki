@@ -51,3 +51,4 @@ Semi-structured think-aloud interviews with fifteen undergraduates and graduate 
 - [Some interviewed students incorrectly claimed a single photon is absorbed by a polarizer only when its polarization is orthogonal to the polarizer axis](single-photon-polarizer-probabilistic-difficulty.md) — related
 - [Advanced undergraduate and graduate students frequently confuse vectors and directions in 3D physical space with state vectors and operators in Hilbert space](confounding-physical-space-hilbert-space-qm.md) — related
 - [Secondary and lower undergraduate students have difficulty relating quantum physics to physical reality](students-difficulty-relating-quantum-physics-physical-reality.md) — related
+- [A multidisciplinary art-physics laboratory on light polarization is reported by the author to make students more engaged and the learning of the physics concepts more effective](art-physics-polarization-lab-engagement.md) — related

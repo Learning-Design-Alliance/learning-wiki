@@ -45,7 +45,8 @@ A four-stage online PBL task conducted during COVID-19 in which "students to wor
 - 
 
 ## Related Designs
-- 
+
+- [Nitobe School trans-graduate-school PBL program with team-based learning across 18 graduate schools](nitobe-school-tbl-pbl-program.md)
 
 ## Examples
 -

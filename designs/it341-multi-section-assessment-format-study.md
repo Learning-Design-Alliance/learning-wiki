@@ -46,4 +46,4 @@ An empirical study of 115 undergraduates in four sections (three in-class, one d
 -
 
 ## Key Sources
-- Islam, K., Ahmadi, P., & Yousaf, S. (2017). Assessment Formats and Student Learning Performance: What is the Relation? George Mason University. https://www.asee.org
+- Islam, K., Ahmadi, P., & Yousaf, S. (2017). Assessment Formats and Student Learning Performance: What is the Relation? George Mason University. https://www.asee.org. [doi:10.48550/arxiv.1711.10396](https://doi.org/10.48550/arxiv.1711.10396)

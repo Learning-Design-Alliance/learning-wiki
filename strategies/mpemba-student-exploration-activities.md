@@ -50,6 +50,7 @@ The article proposes a set of eight student investigation activities on cooling 
 - [Mass, Density, and Buoyancy Experiments](mass-density-and-buoyancy-experiments.md)
 - [Heat Transfer Investigations](heat_transfer_investigations.md)
 - [Guided Inquiry](guided_inquiry.md)
+- [Salt-plus-ice extension experiment reaching about -18 °C, run as an optional lowest-temperature competition](salt-ice-experiment-strategy.md)
 
 ## Examples
 -

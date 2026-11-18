@@ -25,7 +25,8 @@ GEAS is a set of online general-astronomy laboratory projects and data-analysis 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [SDSS Voyages and Sky Server projects](sdss-voyages-and-sky-server-projects.md)
 
 ## Key Sources
 - Nicole P. Vogt, Stephen P. Cook, and Amy Smith Muise. (2012). A New Resource for College Distance Education Astronomy Laboratory Exercises. https://arxiv.org/abs/1505.00051

@@ -46,6 +46,7 @@ The authors recommend, invoking cognitive load theory, that "instructors should 
 - [Manage cognitive load in complex resuscitation simulation through scenario sequencing, role rotation, and immediate feedback](cognitive-load-management-resuscitation-simulation-strategy.md)
 - [Sequence virtual simulation before authentic video across skill-development stages in teacher observation training](sequence-vs-then-av-teacher-training.md)
 - [Design and implement VS teaching with simplified interfaces, multimodal feedback, multilingual diverse case libraries, pre-training, and controlled VR session lengths](vs-design-recommendations-strategy.md)
+- [Ensure participant familiarity with VR before deploying it for instruction](ensure-vr-familiarity-before-instruction.md)
 
 ## Examples
 -

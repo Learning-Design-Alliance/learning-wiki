@@ -9,6 +9,7 @@ generated:
   at: 2026-11-09
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-18
 sources:
   - id: rose-e-2018
     resource: "https://doi.org/10.5811/westjem.2017.8.35162"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Viewing was 60.2% with three days' notice versus 68.7% with two weeks' notice, p = 0.197. [→ Rose E 2018](#rose-e-2018)

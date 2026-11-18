@@ -47,7 +47,8 @@ A program in which experienced and talented undergraduates, identified by a prev
 - [Positive Student Evaluations Of Las](../claims/positive-student-evaluations-of-las.md) [+M]
 
 ## Related Designs
-- 
+
+- [Adapted Engineering LA Program pedagogy workshop with weekly online reflections](engineering-la-pedagogy-workshop-element.md)
 
 ## Examples
 -

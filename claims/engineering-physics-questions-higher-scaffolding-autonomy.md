@@ -49,3 +49,4 @@ Instructor survey scoring of scaffolding on physics exam questions from Engineer
 - [Collected exam questions required no cognitive processes above apply and no originality in analysis or high-level interdependence](exam-questions-capped-at-apply-and-standardized-analysis.md) — related
 - [No significant differences between Engineering and Technology exam questions in novelty and level of communication](no-significant-difference-novelty-communication.md) — related
 - [Variation among Engineering programs is as large as variation between Engineering and Technology programs](within-sector-variability-rivals-between-sector.md) — related
+- [The correlational survey covered 290 engineering and 156 technology students taking engineering physics in 2011-2012](446-students-attitude-motivation-survey-physics.md) — related

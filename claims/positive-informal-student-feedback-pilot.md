@@ -51,3 +51,4 @@ Informal student feedback collected during the closing session of the pilot, rep
 - [Reported increase in interest in astronomy was uniform across essay grade levels, with higher-scoring students not feeling more interested than lower-scoring ones](interest-increase-independent-of-essay-grade.md) — related
 - [Embedding gravitational-wave science across a year-long astronomy curriculum gave coherence to previously disconnected units and motivated students](grav-wave-theme-coheres-curriculum.md) — related
 - [Pupil discoveries spanned multiple variable star types, including a delta Scuti star with the shortest period of the project at 1.82 hours](variable-star-types-discovered-london-pilot.md) — related
+- [Pilot workshop feedback indicates increased interest in physics among KS4 students after an art-based particle physics workshop](art-workshop-increased-physics-interest-ks4.md) — related

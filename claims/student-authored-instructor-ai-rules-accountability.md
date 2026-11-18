@@ -73,3 +73,4 @@ Provenance analysis of the exercise: the Gemini-generated assignment instructed 
 - [A proposed three-part process-evidence submission (deliverable, AI interaction logs, video reflection) shifts displacement upstream rather than eliminating it](three-part-process-evidence-submission.md) — related
 - [Student surveys show widespread AI use, desire for instructor guidance, and 'checking correctness' as a frequent use](student-surveys-ai-use-guidance-checking-correctness.md) — related
 - [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — a broader claim this one bears on
+- [Course design and participatory structures can impact a student's sense of relevance with lasting effects after the course](course-design-participatory-structures-impact-relevance-nicole.md) — related

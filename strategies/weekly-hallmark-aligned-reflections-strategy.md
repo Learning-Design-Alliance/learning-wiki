@@ -56,6 +56,7 @@ The researchers developed three alternating sets of reflection prompts—on week
 - [Guide Student Reflection](guide_student_reflection.md)
 - [Journaling for Self-Reflection](journaling_for_self-reflection.md)
 - [Journal Reflections for Self-Awareness](journal_reflections_for_self-awareness.md)
+- [Combine repeated quantitative survey administration with qualitative interviews and project artifacts to identify mechanisms supporting project ownership](mixed-methods-ownership-mechanism-studies.md)
 
 ## Examples
 -

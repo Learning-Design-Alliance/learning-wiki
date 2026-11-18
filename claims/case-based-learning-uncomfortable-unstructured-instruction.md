@@ -53,3 +53,4 @@ Interview finding from the discussion section of the case study. The authors lin
 - [Nursing students experienced initial confusion followed by progressive exploration and problem-solving in the in-class flipped classroom](progressive-learning-experience-confusion-to-problem-solving.md) — related
 - [Students early in the transition to active learning may have a lower tolerance of uncertainty and need clarity at the end of a case](low-tolerance-uncertainty-cbl-clarity.md) — related
 - [Open-ended feedback attributed perceived gains to eBook self-study and in-class case discussion, though some students found self-study difficult](fc-ebm-open-ended-feedback-ebook-case-discussion.md) — related
+- [Students experienced difficulty starting fieldwork due to the ambiguous nature of ill-structured problems, team-balance frustration, and felt 8 weeks were not enough](pf-course-reported-difficulties-ambiguity-team-balance-duration.md) — related

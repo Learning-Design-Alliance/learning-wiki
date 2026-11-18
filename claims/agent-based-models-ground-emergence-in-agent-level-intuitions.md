@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2016
+source_checked: 2026-11-18
 sources:
   - id: pratim-sengupta-marie-claire-shanahan-2016
     resource: "https://doi.org/10.48550/arXiv.1610.06658"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The article argues, on the basis of prior research it cites, that curricula using agent-based models help students understand complex systems and emergence by grounding emergent phenomena in embodied, agent-level intuitions. [→ Pratim Sengupta & Marie-Claire Shanahan 2016](#pratim-sengupta-marie-claire-shanahan-2016)
@@ -50,3 +51,4 @@ The authors' design rationale, attributed to prior studies they cite (including 
 - [Teaching by telling is not an effective approach to helping students learn physics; PER-based curricula instead build on interactive engagement](teaching-by-telling-ineffective-physics.md) — related
 - [Public code play supports visitors' multi-level explanations of emergent patterns in agent-level terms](public-code-play-supports-agent-level-explanations.md) — a narrower finding that bears on this claim
 - [Embodied modeling followed by agent-based simulation supported progressively more complex mechanistic explanations of emergence (3rd-grade study)](embodied-modeling-mechanistic-explanations.md) — a narrower finding that bears on this claim
+- [Computational modeling makes complex phenomena accessible to much younger learners](computational-modeling-accessibility-younger-learners.md) — related

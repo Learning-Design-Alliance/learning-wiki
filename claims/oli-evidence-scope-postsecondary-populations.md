@@ -50,3 +50,4 @@ The report's introduction states the population scope of the reviewed evidence. 
 - The OGAP trial population was racially diverse and predominantly low-income, supporting scope to high-poverty urban districts — related
 - [Black/African American and Hispanic/Latino students earned fewer first-year baccalaureate units than White and Asian students in every QR placement category in both cohorts](eo1110-credit-gaps-by-ethnicity-persist.md) — related
 - [Retention rates for Black/African American and Hispanic/Latino students dropped more steeply between the second and third semesters than for White and Asian students in both cohorts](eo1110-retention-gaps-widen-by-ethnicity.md) — related
+- [After controlling for pretest scores, White and Hispanic female students had significantly lower gains than male peers, while Asian, Black, and Pacific Islander female students had gains similar to male peers](intersectional-gain-differences-college-physics.md) — related

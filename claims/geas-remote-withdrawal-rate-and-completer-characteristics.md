@@ -65,3 +65,4 @@ Descriptive comparison of distance-course completers against withdrawn and on-ca
 
 ## Related Claims
 - [Distance-course completers, withdrawing students, and on-campus students performed equally on a pre-class survey of astronomical concepts](geas-preclass-survey-no-group-differences.md) — related
+- [Older distance students agree more that virtual and remote experiments make practical science enjoyable, while younger students prefer co-location with equipment](age-trend-remote-lab-enjoyment.md) — related

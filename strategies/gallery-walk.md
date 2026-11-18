@@ -82,6 +82,7 @@ Gallery walks operationalize [Active Learning](../principles/active-learning.md)
 6. Debrief whole-class: synthesize themes, surface disagreements between stations, correct propagated errors ([Class Discussion](../elements/class-discussion.md))
 
 ## Related Strategies
+
 - [Jigsaw](../strategies/jigsaw.md) — complementary rotation structure where groups specialize then share
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the discussion routine that can run *within* each station
 - [Peer Feedback](../elements/peer-feedback.md) — the critique variant of a gallery walk depends on this skill
@@ -89,6 +90,7 @@ Gallery walks operationalize [Active Learning](../principles/active-learning.md)
 - Jigsaw — complementary group-rotation structure; gallery walks can serve as the expert-group reporting phase
 - Peer Review — commentary variants of gallery walks are essentially structured peer review
 - Station Rotation (blended learning) — the technology-integrated cousin, where stations include digital activities
+- [Rotate students through experimental roles and run a mid-session mini-conference to build collaboration](rotating-experimental-roles-mini-conference.md)
 
 ## Examples
 - **EL Education protocols** ([https://eleducation.org](https://eleducation.org)) — published gallery walk and "gallery critique" protocols used in expeditionary learning classrooms, with structured peer-feedback norms

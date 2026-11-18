@@ -52,3 +52,4 @@ Mixed-effects multivariable regression controlling for courses nested within ins
 - [Test anxiety was universally negatively associated with exam scores across community college, inclusive, and selective institutions](test-anxiety-negatively-associated-exam-scores-all-contexts.md) — related
 - [URM students left biomedical fields at higher rates than majority students, an effect explained in part by their lower biology course grades](urm-higher-biomedical-attrition-mediated-by-grades.md) — related
 - [Reported computational teaching experience varies by institution type, driven by lower reporting at two-year colleges](computation-experience-varies-by-institution-degree-type.md) — related
+- [URM students leave a larger fraction of exam answers blank than non-URM and white students in introductory physics courses](urm-students-leave-more-blank-answers.md) — related

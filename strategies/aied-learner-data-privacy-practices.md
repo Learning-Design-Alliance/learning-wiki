@@ -48,6 +48,7 @@ As AIED systems become commercial lifelong learning companions collecting data o
 - [Address core ethical challenges—data privacy, algorithmic fairness, and transparency—when deploying AI-driven personalized learning](ethical-safeguards-ai-personalized-learning.md)
 - [Six collective-responsibility strategies for AIED researchers facing commercial misuse](aied-collective-responsibility-strategies.md)
 - [Learning analytics with rapid feedback loops at many levels to build lifelong-learning qualities](learning-analytics-rapid-feedback-loops.md)
+- [Collect LGBT+ demographic and climate data only with anonymization and misuse safeguards, keeping it separate from personnel decisions](safeguarded-lgbt-demographic-data-collection.md)
 
 ## Examples
 -

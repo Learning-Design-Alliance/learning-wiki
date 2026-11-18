@@ -60,3 +60,4 @@ Analysis of identical pre- and after-class quizzes for all 178 participants in a
 - [E-learning modules and peer-reviewed PDF articles both improved global health conceptual knowledge with no statistically significant difference between the two approaches](e-learning-versus-pdf-articles-no-knowledge-difference-global-health.md) — related
 - [Both learning groups showed a significant pre-to-post increase in global health knowledge quiz scores](global-health-knowledge-quiz-pre-post-gain.md) — related
 - [Within the e-learning group, quiz scores improved significantly from pre- to post-quiz in all four modules of the reproductive health e-course](e-learning-module-pre-post-quiz-gains.md) — related
+- [Personalized quiz generation produced significant pretest-to-posttest gains within the experimental group, while the two groups did not differ significantly on the posttest](personalized-quiz-pre-post-gains-not-posttest-group-difference.md) — related

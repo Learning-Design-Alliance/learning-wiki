@@ -54,3 +54,5 @@ Recap of three previously reported observational examples: novices using recursi
 - [Observed epistemological framings extend over durations from ten seconds to ten minutes](framing-durations-ten-seconds-to-ten-minutes.md) — related
 - [Oscillating between interpretive frames was not negatively related to correct physics answers, and exclusive single-frame users differed on overall correct answers and attempts](frame-oscillation-correct-answers-quantum-dreams.md) — related
 - [Productive problem solving can occur in any epistemological frame provided students transition appropriately between frames](productive-solving-any-frame-with-appropriate-transitions.md) — related
+- [Even high-performing students may master calculation techniques without knowing what they are for (author's observation)](calculation-skill-without-application-asian-paradox.md) — related
+- [Long program timescale lets students get stuck and teaches patience and perseverance, and supports mentor development](srmp-long-timescale-benefit.md) — related

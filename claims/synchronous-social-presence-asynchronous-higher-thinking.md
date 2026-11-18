@@ -51,3 +51,4 @@ Narrative review section on teaching effectiveness in technology-mediated learni
 - [Live webinars foster greater intrinsic motivation than recorded lectures, an effect fully mediated by perceived choice](webinar-intrinsic-motivation-mediated-by-perceived-choice.md) — related
 - [Asynchronous and synchronous e-learning produce no difference in total clinical record writing quality among speech therapy students](async-sync-no-difference-cr-total-score.md) — related
 - [Adding synchronous communication to asynchronous online courses is associated with greater social presence and, in some contexts, improved learning outcomes](synchronous-communication-social-presence-online.md) — a narrower finding that bears on this claim
+- [Real-time, online-controlled observing sessions foster team-building and synchronous collaborative working among distance learners](real-time-observing-team-building.md) — related

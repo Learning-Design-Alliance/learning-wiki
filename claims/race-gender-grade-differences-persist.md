@@ -96,3 +96,4 @@ Coefficients from Model 5a on the CPS grade dataset show these differences exist
 - [Female students earn lower grades than equivalently prepared male counterparts in most courses studied (β −0.021 to −0.133; up to 0.303 grade points lower)](gender-gap-upper-level-life-science-courses.md) — reports the opposite
 - [Additional aptitude measures (HS GPA, standardized test scores) narrow but do not eliminate gendered performance differences](covariates-do-not-explain-gpd.md) — related
 - [Controlling for pretest scores, underserved students score lower on posttests, and students underserved by both gender and race/ethnicity score 7.6% lower](hlm-predicted-gaps-controlling-pretest.md) — related
+- [Equality of Learning was not achieved in either lecture-based or collaborative courses: every marginalized group's gains trailed equally prepared White male peers, and gaps were the same across course types](equality-of-learning-not-achieved-physics.md) — related

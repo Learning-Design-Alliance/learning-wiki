@@ -41,7 +41,8 @@ A benchtop optical apparatus in which a 630–680 nm laser diode shines through 
 - Polarizer Experiment Commutation Demonstration [+M]
 
 ## Related Designs
-- 
+
+- [Interdisciplinary polarization laboratory sequence combining physics demonstrations, biology (bee vision) and art with everyday materials](polarization-art-biology-lab-sequence.md)
 
 ## Examples
 -

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-18
 sources:
   - id: kazuki-kawamura-2026
     resource: "https://doi.org/10.48550/arxiv.2608.08990"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A large-scale analysis of 6.9 million MOOC video-viewing sessions found that the fraction viewed decreased as videos became longer and that median engagement was less than half of the duration for videos longer than nine minutes. [→ Kazuki Kawamura 2026](#kazuki-kawamura-2026)
@@ -69,3 +70,4 @@ The dissertation reports, citing a large-scale log analysis of 6.9 million MOOC 
 - [Student engagement with MOOC videos drops sharply as video length increases beyond 6 minutes](video-length-median-engagement-declines.md) — related
 - [Students accessed almost the entirety of a video only about half the time on average, and completion of lecture-oriented videos decreased with video length more steeply than completion of laboratory videos](in-video-completion-declines-with-lecture-video-length.md) — a narrower finding that bears on this claim
 - [Completion rates of viewing videos per learner negatively correlate with average video length across eight MOOCs](video-length-negative-correlation-completion-rate.md) — related
+- [MOOC viewing-duration hazard functions simultaneously exhibit a bathtub curve and a Lindy-effect decreasing tail](mooc-viewing-hazard-bathtub-lindy.md) — related

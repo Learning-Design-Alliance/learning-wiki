@@ -49,6 +49,7 @@ A concrete recipe for facilitating active learning in large resident conferences
 ## Related Strategies
 
 - [Run a strengths-based student focus group using open-ended, neutrally framed questions about learning from home](strengths-based-student-focus-group-questions.md)
+- [Explicitly normalize the discomfort of not understanding, and coach participants to ask questions early and often](nitarp-normalize-feeling-stupid-ask-questions.md)
 
 ## Examples
 -

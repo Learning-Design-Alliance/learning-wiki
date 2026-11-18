@@ -50,3 +50,4 @@ Focus group themes on interpersonal and social factors. One participant said "My
 - [Trainees identify personal factors — learning habits, personality and interests — as influences on SDL](personal-factors-shape-sdl-trainees.md) — related
 - [Fear of appearing incompetent acts as both a barrier and a facilitator to physicians' engagement in feedback-related SDL](fear-of-incompetence-dual-role-sdl-feedback.md) — related
 - [Teamwork, collaborative work, interactivity, and networking are the most frequently reported physician facilitators of SDL, while medicine's on-the-job learning culture is the most cited social-influences barrier](social-influences-teamwork-facilitates-sdl.md) — related
+- [Entrepreneurs' intentions towards mentoring are influenced by peers and superiors, while family influence is marginal](peer-and-superior-influence-mentoring-intentions.md) — related

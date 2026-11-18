@@ -54,3 +54,4 @@ Interview data revealed technical problems: students reported that "the computer
 - [Students reported technical difficulties with Edmodo more than financial ones, with the small mobile screen and slow internet the top challenges](edmodo-technical-and-financial-challenges.md) — related
 - [Internet and computer access problems limited participation in the online argumentation implementation](internet-access-limits-online-argumentation.md) — related
 - [Trainees' main perceived challenges with the e-Learning pilot were limited computer-laboratory workspace (33%), slow internet/intranet speed (29%), and limited training of ICT staff (28%)](ghana-elearning-pilot-challenges-workspace-speed-capacity.md) — related
+- [Institutional IT departments and policies form a barrier specific to integrating computation, as instructors may need server access and support that IT does not provide](it-department-barrier-computation.md) — related

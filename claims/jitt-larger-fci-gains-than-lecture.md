@@ -76,3 +76,4 @@ Quasi-experimental comparison of 222 students in introductory physics courses ta
 - [A majority of students do not develop a Newtonian view of force and motion after traditional instruction](majority-no-newtonian-view-traditional-instruction.md) — related
 - [Newton's laws, conservation of energy, and geometrical optics are the three physics concepts that are simultaneously pivotal, present in all four examined state standards, and particularly difficult to learn](three-pivotal-physics-concepts-standards.md) — related
 - [CSEM learning gains in the Lecture/Studio-format second-semester IPLS course were strikingly larger than any gains measured in the course's traditional format](csem-gains-lecture-studio-larger.md) — related
+- [Average introductory physics unit test scores were 79% under the efficient question-group design versus 76% under the traditional format](efficient-design-unit-test-scores-76-to-79.md) — related

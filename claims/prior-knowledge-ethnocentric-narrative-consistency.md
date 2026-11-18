@@ -50,3 +50,4 @@ Prior knowledge was assessed with an open-ended question about the 1974 events, 
 - [Programs should facilitate cognitive disequilibrium so students question ethnocentric views and consider other cultural perspectives](programs-facilitate-cognitive-disequilibrium-ethnocentric-views.md) — related
 - [All four groups showed a tendency toward knowledge sharing, presenting information without interpretation or evaluation](information-sharing-without-interpretation-prevalent.md) — related
 - [The think-aloud emotion of sadness and prior knowledge predict coherence-based processing during reading of the other-side text](sadness-prior-knowledge-predict-coherence-processing.md) — related
+- [Bi-communal astronomy activity days were followed by participant-reported feelings of improved mutual understanding and empathy](columba-hypatia-reported-empathy-after-bicommunal-days.md) — related

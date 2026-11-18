@@ -93,3 +93,4 @@ Chi-square tests on reasoning strategies during post-test transfer tasks found a
 - [Multi-agent simulations are chosen because agent-based models help learners ground emergent phenomena in embodied agent-level intuitions](agent-based-models-ground-emergence-in-agent-level-intuitions.md) — a broader claim this one bears on
 - [Agent-based computing enables learners to build multi-level explanations of complex phenomena by connecting agent-level intuitions to emergent aggregate behaviors](agent-based-computing-connects-agent-intuitions-to-emergent-phenomena.md) — related
 - [Embodied modeling followed by agent-based simulation supported progressively more complex mechanistic explanations of emergence (3rd-grade study)](embodied-modeling-mechanistic-explanations.md) — related
+- [Computational modeling makes complex phenomena accessible to much younger learners](computational-modeling-accessibility-younger-learners.md) — related

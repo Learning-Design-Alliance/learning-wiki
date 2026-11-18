@@ -52,3 +52,4 @@ Analysis of standardized TABE-CLAS-E reading results for the treatment group, wi
 - [CHLS self-study significantly benefited advanced-level students but not intermediate- or lower-level students](chls-benefits-advanced-learners-only.md) — related
 - [Genre-based reading instruction produces significantly higher reading posttest scores than traditional instruction for Iranian female high school EFL learners](gbi-outperforms-traditional-reading-instruction-iranian-high-school.md) — related
 - [20% of students described as advanced-level learners were in fact no more than intermediate-high on the ACTFL scale](twenty-percent-claimed-advanced-actually-intermediate-high.md) — related
+- [Progress is greatest when vocabulary questions match the student's proficiency level while grammar and reading comprehension questions are set one level lower](personalized-strategy-vocabulary-matched-grammar-reading-lower.md) — related

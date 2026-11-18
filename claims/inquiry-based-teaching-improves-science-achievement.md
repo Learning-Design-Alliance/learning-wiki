@@ -174,3 +174,4 @@ The chapter reports, citing Furtak et al. (2012), a meta-analysis of 37 studies 
 - [Direct scaffolding improves scientific inquiry performance more than indirect scaffolding, especially for students with high prior reasoning skills](direct-scaffolding-outperforms-indirect-inquiry.md) — a narrower finding that bears on this claim
 - [Effectiveness of inquiry-based curricula in K–12 is higher when learners receive more guidance and when learners are older, but meta-analytic findings are mixed and underwhelming](inquiry-k12-effectiveness-higher-with-guidance-and-age.md) — a broader claim this one bears on
 - [Students given minimal guidance engaged in discovery learning minimally, with low overall simulator usage](minimal-guidance-low-simulator-usage.md) — related
+- [Teacher guidance more than doubles the effect of inquiry-based learning in science](teacher-guidance-moderates-inquiry-based-science-learning.md) — related

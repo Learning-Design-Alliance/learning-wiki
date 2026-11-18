@@ -63,6 +63,7 @@ The article describes a support model in which interventionists attended two fiv
 - [Integrate CT activities into weekly mathematics lessons with teacher workshops and reflective cycles](ct-math-integration-workshop-reflection-strategy.md)
 - [Train peer tutors in a pre-session workshop and sustain quality with feedback questionnaires and incentive awards](peer-tutor-training-and-incentive-strategy.md)
 - [Train-the-trainer workshop to build coach competency and self-efficacy before delivery](train-the-trainer-coach-workshop.md)
+- [Structure teacher professional development workshops as short, off-site events with grouped collaboration and iterative feedback rounds](nice-workshop-structure-strategy.md)
 
 ## Examples
 -

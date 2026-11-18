@@ -55,3 +55,4 @@ Interpretive analysis of co-occurrence data from the rule-based case study. The 
 - [In an open simulation game with wide scope and low distance, second-order interventions effectively elicited second-order responses](open-sg-sol-interventions-elicit-sol-responses.md) — related
 - [In an open simulation game, third-order interventions effectively evoked third-order responses](open-sg-tol-interventions-elicit-tol-responses.md) — related
 - [High task variability can overload working memory and reduce learning efficiency in some cases](task-variability-overload-tradeoff.md) — related
+- [Requiring computer-based data analysis after smartphone experiments poses extraneous cognitive load that may hinder physics learning](smartphone-experiment-data-analysis-extraneous-load.md) — related

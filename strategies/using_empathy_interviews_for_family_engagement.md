@@ -85,6 +85,7 @@ Empathy interviews work because they position families as experts on their own e
 - [Run a strengths-based student focus group using open-ended, neutrally framed questions about learning from home](strengths-based-student-focus-group-questions.md)
 - [Use empathy interviews as a natural, informal conversation to uncover students' experiences, emotions, and unmet needs in mathematics learning](empathy-interviews-uncover-student-experiences.md)
 - [Collect qualitative formative data and map likely conversation paths before developing AI-powered VSP prompts](formative-qualitative-mapping-before-ai-vsp-prompts.md)
+- [Interview students rather than experts to ground survey language in student interpretations](interview-students-before-survey-design.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — the opening move that establishes psychological safety

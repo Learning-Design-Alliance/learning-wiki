@@ -27,7 +27,8 @@ The article develops a purpose-built categorical framework for analyzing competi
 - [IBO theoretical items steadily increased their number of depictive representations (0.24 per item in 1993 to 2.00 in 2017), and representations became the central meaning-carrying element with few text-graphic redundancies](../claims/ibo-representations-increase-central-meaning.md) [+M]
 
 ## Related Research Methods
--
+
+- [Taxonomy of questionable research practices in student lab notes](taxonomy-of-questionable-research-practices-in-student-lab-notes.md)
 
 ## Key Sources
 - Opitz Sebastian, Harms Ute. (2020). Assessing High Performers in the Life Sciences: Characteristics of Exams Used at the International Biology Olympiad (IBO) and Their Implications for Life Science Education. CBE—Life Sciences Education. https://doi.org/10.1187/cbe.19-10-0215

@@ -53,3 +53,4 @@ Results from Q3 of the questionnaire on simple astronomical concepts: the study 
 - [Most preservice teachers believe the Moon does not rotate on its axis, and none correctly explained the Moon's same-face motion or a lunar eclipse](moon-motion-misconceptions-preservice-teachers.md) — related
 - [Widespread misconceptions persist among Belgian respondents about seasons, lunar phases, the Moon's light and the Moon's rotation](astronomy-misconceptions-seasons-moon-phases.md) — related
 - [Students remain confused when changes of referential are needed to understand astronomical phenomena such as moon phases, seasons, eclipses and orbital motion around a common centre of mass](referential-change-difficulty-astronomy-students.md) — related
+- [Including astronomy topics improves science literacy and specific competencies, with many effect sizes of 0.8 or larger](astronomy-inclusion-improves-science-literacy.md) — related

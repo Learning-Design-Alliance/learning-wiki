@@ -51,3 +51,4 @@ Baseline t-test comparing previous year-2 semester-1 overall grades between coho
 - [Chatbot and search engine classes showed no significant baseline differences in science learning ability and knowledge before the intervention](class-level-baseline-equivalence-chatbot-vs-search-engine.md) — related
 - [The cohort with access to online e-learning material scored on average 5.57% higher on the MCQ examination than the cohort without access](elearning-mcq-grade-5-57-percent-higher.md) — related
 - [The cohort with access to online e-learning material scored on average 2.08% higher on the SNQ examination than the cohort without access](elearning-snq-grade-2-08-percent-higher.md) — a narrower finding that bears on this claim
+- [Class averages fluctuated little across the four cohorts 2014-15 to 2017-18, arguing against cohort or test-difficulty bias](sst-cohort-averages-stable-across-years.md) — related

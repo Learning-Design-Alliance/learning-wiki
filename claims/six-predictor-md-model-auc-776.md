@@ -50,3 +50,4 @@ Follow-up MLP analysis using an identical procedure but only the six top-ranked 
 - [The most important kindergarten predictors of Grade 6 MD are RAN, spatial relations, arithmetic skills, number concepts, attention-orientation, and counting](top-predictors-md-ran-spatial-attention.md) — related
 - [Supplementary nonlinear models yield only modest AUC gains over the calibrated logistic baseline](nonlinear-models-modest-auc-gains-over-logistic-baseline.md) — related
 - [Training the MLP on an oversampled (balanced) MD dataset did not improve performance over training on the unbalanced data](oversampled-balanced-data-no-gain-md-model.md) — related
+- [A reduced model using only the five meaningful features performs nearly as well as the full 44-feature model](five-feature-model-nearly-full-performance.md) — related

@@ -64,3 +64,4 @@ The review recounts the failed replications: Pollock et al. found 'no statistica
 - [Normalized gain g overestimates gender inequities in student learning compared to Cohen's d](normalized-gain-overestimates-gender-inequities.md) — related
 - [Instruction reduced many pretest gender differences on FCI items but failed to close the gap for items 14, 21, 22, 23, and 27](fci-instruction-reduces-pretest-gap-not-five-items.md) — a narrower finding that bears on this claim
 - [LA support is not associated with smaller performance gaps between demographic groups (p > 0.8, d ~ 0.01)](la-support-no-gap-reduction.md) — related
+- [The flipped classroom significantly reduced, but did not eliminate, the gender gap in introductory physics performance](flipped-classroom-reduced-gender-gap.md) — related

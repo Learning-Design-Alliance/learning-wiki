@@ -50,3 +50,4 @@ Regression analysis of proportion correct versus level (Fig. 4). All participant
 - [No consistent learning effect of repeated TrackFX gameplay was found across children, though 37% showed positive performance slopes and improvement reached an asymptote after six sessions](no-consistent-trackfx-practice-effect.md)
 - [Children aged 30–58 months tracked on average 1 target among 2 distractors, with a slight trend for older children to reach higher thresholds](trackfx-children-threshold-one-target.md)
 - [Adding distractors made the MOT game substantially more difficult for children than adults, interpreted as immature attentional inhibition of distractors](distractors-impair-children-more-than-adults.md)
+- [After the personalized quiz strategy, the experimental group's correctly answered questions shifted toward higher difficulty levels, most notably levels two and six](personalized-quizzes-shift-correct-answers-to-higher-difficulty.md) — related

@@ -8,12 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-16
 evidence_strength: weak
-newest_evidence: 2009
-source_checked: 2026-11-17
+newest_evidence: 2010
 sources:
-  - id: edward-f-redish-and-ayush-gupta-2009
+  - id: edward-f-redish-and-ayush-gupta-2010
     resource: "https://doi.org/10.48550/arXiv.1002.0472"
-    title: "Edward F. Redish and Ayush Gupta. (2009). Making Meaning with Math in Physics: A Semantic Analysis. Department of Physics, University of Maryland, College Park. [doi:10.48550/arXiv.1002.0472](https://doi.org/10.48550/arXiv.1002.0472)"
+    title: "Edward F. Redish and Ayush Gupta. (2010). Making Meaning with Math in Physics: A Semantic Analysis. Department of Physics, University of Maryland, College Park. Originally published 2009. [doi:10.48550/arXiv.1002.0472](https://doi.org/10.48550/arXiv.1002.0472)"
     author: Edward F. Redish and Ayush Gupta
     q: 2
     i: "?"
@@ -25,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2009 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` On a quiz after extensive instruction, more than half of nearly 200 students answered that replacing a test charge q with -3q changes the electric field, reasoning from E = F/q as algebraic grammar rather than physical meaning. [→ Edward F. Redish and Ayush Gupta 2009](#edward-f-redish-and-ayush-gupta-2009)
+`q2 i?` On a quiz after extensive instruction, more than half of nearly 200 students answered that replacing a test charge q with -3q changes the electric field, reasoning from E = F/q as algebraic grammar rather than physical meaning. [→ Edward F. Redish and Ayush Gupta 2010](#edward-f-redish-and-ayush-gupta-2010)
 
 ## Evidence
 
-### Edward F. Redish and Ayush Gupta 2009
+### Edward F. Redish and Ayush Gupta 2010
 
-Edward F. Redish and Ayush Gupta. (2009). Making Meaning with Math in Physics: A Semantic Analysis. Department of Physics, University of Maryland, College Park. [doi:10.48550/arXiv.1002.0472](https://doi.org/10.48550/arXiv.1002.0472)
+Edward F. Redish and Ayush Gupta. (2010). Making Meaning with Math in Physics: A Semantic Analysis. Department of Physics, University of Maryland, College Park. Originally published 2009. [doi:10.48550/arXiv.1002.0472](https://doi.org/10.48550/arXiv.1002.0472)
 
 `q2 · i?` · `theoretical · r2`
 
@@ -66,3 +65,4 @@ Anecdotal classroom report from a second-semester algebra-based physics class qu
 - [Students believe a physical quantity should have only one formula and treat intrinsic properties as depending on the variables in definitional equations](one-formula-belief-intrinsic-property-confusion.md) — a narrower finding that bears on this claim
 - [Students' ADK in high school physics centers on using correct procedure to produce correct answers rather than conceptual understanding](student-adk-procedure-over-conceptual-understanding.md) — related
 - [Introductory physics students misinterpret field equations by treating them as pure algebra, ignoring that the force depends on the test charge](students-treat-physics-equations-as-pure-math.md) — possibly the same claim (merge candidate)
+- [Students struggled to match correct physical intuition to equations in the springs-in-series problem despite extreme case reasoning](springs-series-intuition-equation-mismatch.md) — a narrower finding that bears on this claim

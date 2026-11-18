@@ -79,3 +79,5 @@ Model comparison on a 20% scenario-held-out test set, with 3-fold cross-validati
 - [CatBoost is the best-performing algorithm for predicting programme non-completion, with F1-measure of 94.5±0.6, slightly better than Random Forest](catboost-best-f1-programme-completion.md) — reports the opposite
 - [Random Forest is the best classifier for discriminating trained from untrained VR trainees](random-forest-best-classifier-vrts-student-model.md) — related
 - [Random Forest is the best-performing classification model for predicting postgraduate public health students' CGPA category, with 71.43% accuracy and AUC 0.87](random-forest-best-classifier-ap.md) — related
+- [Model results are robust to varying training fraction and number of trees, but the highest-physics-degree factor is only marginally meaningful](hyperparameter-robustness-variable-importance.md) — related
+- [Random forest and support vector machine models also failed to beat chance when predicting laboratory performance, supporting the null result](rf-svm-also-fail-beat-chance-lab-performance.md) — related

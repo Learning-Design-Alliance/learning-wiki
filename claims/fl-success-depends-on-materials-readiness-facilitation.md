@@ -49,3 +49,4 @@ Authors' interpretation in the Discussion, attributed to cited reviews (Brewer a
 - [Flipped classrooms depend on student participation and home technology access, limiting applicability](flipped-classroom-participation-and-access-barriers.md) — related
 - [Students perceived flipped learning as having a distinct set of affordances (flexible video access, preparation, interaction) and constraints (video length, lack of guidance while watching)](flipped-learning-affordances-constraints-perceptions.md) — related
 - [Saudi nursing students perceived pre-class assignments in flipped learning as deepening their understanding of course content](fl-preclass-assignments-deepened-understanding-nursing.md) — related
+- [How an instructor implements active learning is perhaps the most important factor in determining student learning gains](implementation-quality-determines-learning-gains.md) — related

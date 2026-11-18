@@ -48,3 +48,4 @@ Qualitative thematic analysis of end-of-year facilitator interviews. Control fac
 - [IPE interventions show significant improvements in role clarity, communication skills, and teamwork dynamics](ipe-improves-role-clarity-communication-teamwork.md) — related
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
 - [Nurse educators experience an ambiguous dual role supporting ECNs' emotional wellbeing while maintaining educational responsibilities](educator-dual-role-education-pastoral-support.md) — related
+- [LAs' role and skill perceptions centered on communicating disciplinary knowledge and understanding course content](la-role-perceptions-disciplinary-communication.md) — related

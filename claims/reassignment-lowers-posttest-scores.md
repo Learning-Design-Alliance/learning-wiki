@@ -48,3 +48,4 @@ Quasi-experimental analysis in Section 8. The authors note that reassignment was
 - [School-level factors accounted for the largest share of variation in section reassignment (30% year 1, 43% year 2), not classroom or student factors](school-factors-drive-reassignment.md) — related
 - [The most common reassignment destination was the next unit in the curriculum (52% year 1, 24% year 2), suggesting teachers mostly advanced students who were behind](reassignment-mostly-to-next-unit.md) — related
 - [Reassignment was more common in the second half of the school year, consistent with test-preparation pressure or teacher learning](reassignment-timing-second-half-year.md) — related
+- [Sensitivity analysis shows the negative hint-usage estimate is vulnerable to an unmeasured confounder as predictive as pretest, though not one as predictive as ethnicity](hint-effect-sensitivity-unmeasured-confounding.md) — related

@@ -55,6 +55,8 @@ Based on the technical problems students encountered and the small device count,
 - [Provide frequent deadline reminders, easy instructor access, and technical support to ease undergraduate transition to hybrid/online learning](support-strategies-hybrid-online-transition.md)
 - [Use mobile devices and cloud-based technologies to support extensive task-based activities in real-world contexts](mobile-cloud-task-based-real-world-activities.md)
 - [Address technical infrastructure and user comfort (Wi-Fi reliability, cybersickness) when implementing holographic simulation education](holopatient-implementation-technical-infrastructure-comfort.md)
+- [Implement mobile learning in high technical institutions by securing free Internet access, device spread, supporting systems, a mixed learning model, and mobile-based methods](mobile-learning-conditions-technical-universities.md)
+- [Transition electromechanics modeling instruction to mobile Internet devices once Xcos on Web implements full Scilab Xcos functionality](transition-modeling-instruction-mobile-devices-xcos-on-web.md)
 
 ## Examples
 -

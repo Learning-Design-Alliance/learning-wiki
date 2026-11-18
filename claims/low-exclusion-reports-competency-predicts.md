@@ -66,3 +66,4 @@ Study II Likert-scale dominator question answered by 323 students in terms A and
 ## Related Claims
 - [Student characteristics such as race and gender identity were not strong predictors of resource-use profile membership; only two pairwise comparisons were significant.](few-demographic-predictors-resource-profiles.md) — a broader claim this one bears on
 - [Gender predicted SRL profile membership, with male students more likely in lower SRL profiles; major, prior experience, and time commitment did not predict membership](gender-predicts-srl-profile-membership.md) — related
+- [Studies find team progress is optimal under superdiversity, where teams are not dominated by a single gender or by one or two national identities](superdiversity-optimal-team-progress.md) — related

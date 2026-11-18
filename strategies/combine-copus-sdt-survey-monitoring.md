@@ -52,6 +52,7 @@ The article recommends that instructors and departments "interested in flexible 
 ## Related Strategies
 
 - [Assess motivational development with multi-faceted, ongoing, longitudinal measures including scaffolding observation](multifaceted-ongoing-motivational-development-assessment.md)
+- [Mixed-instrument evaluation plan combining efficacy and interest surveys, interviews, and a staged statistical analysis plan](stem-center-evaluation-instrument-plan.md)
 
 ## Examples
 -

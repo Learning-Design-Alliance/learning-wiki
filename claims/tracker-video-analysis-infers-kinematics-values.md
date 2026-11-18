@@ -72,3 +72,5 @@ In the same video analysis demonstration, the parabolic fit parameter for the y 
 - [Parabola fits of video-analysis data can yield kinematics parameters, but an incorrect assumed video frame rate produced an erroneous gravitational acceleration of g = -4.634 m/s2](parabola-fit-frame-rate-error-gravitational-acceleration.md) — a narrower finding that bears on this claim
 - [Tracker-based computer laboratory lessons produce large within-group learning gains on toss-up and free fall kinematics for secondary students](tracker-lessons-large-kinematics-gains.md) — related
 - [Graph-recall and gradient-interpretation items (Q1-6) improved substantially after Tracker lessons, with gains of 16 to 33 percentage points](tracker-q1-6-positive-gains.md) — related
+- [Constructing timelike geodesics on a spacetime sector model shows that free-fall geodesics produce the expected up-and-down motion in space](sector-model-timelike-geodesics-free-fall.md) — related
+- [In-app automated data analysis shifts an experiment's instructional focus, e.g. from teaching data analysis to teaching basic kinematics](in-app-analysis-shifts-experiment-focus.md) — related

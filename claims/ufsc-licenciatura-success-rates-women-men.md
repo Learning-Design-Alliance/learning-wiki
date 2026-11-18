@@ -54,3 +54,5 @@ The licenciatura section reports 458 female and 1488 male incomers, 77 female an
 - [The proportion of women among UFSC physics students decreases as the career advances (scissor effect).](ufsc-physics-scissor-effect-women-proportion-decreases.md) — related
 - [Male students predominate in UFSC physics courses, with more than 76% of students being male.](ufsc-physics-male-predominance-over-76-percent.md) — related
 - [Undergraduate physics courses at UFSC show very high evasion, with less than 20% of incomers obtaining the degree on average.](ufsc-physics-undergraduate-evasion-below-20-percent.md) — a broader claim this one bears on
+- [UFSM undergraduate physics graduation rates are roughly constant at 7.6, 7.3 and 6.5 graduates per year, and fewer than 30% of entrants complete the degree](ufsm-physics-graduation-rates-below-30-percent-completion.md) — related
+- [Female UFSM physics graduate percentages exceed Brazilian national averages in all courses and time windows, reaching 50% in daytime licenciatura and master's over the last five years](ufsm-female-percentages-above-national-50-percent-last-five-years.md) — related

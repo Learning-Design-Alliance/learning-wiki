@@ -47,3 +47,4 @@ The authors' position statement in the abstract, criticizing the practice of add
 ## Related Claims
 - [Time dependence, cascading events, and distinct player roles added to a redesigned AR engine fostered collaboration between teams in subsequent game iterations](ar-gen2-features-foster-between-team-collaboration.md) — related
 - [Adaptive and intelligent Web-based educational systems form a new development paradigm in AI-Ed, distinct from AI-CAI and ITS](aiwbes-new-paradigm-distinct-from-ai-cai-and-its.md) — related
+- [A game mechanic's motivational potential depends on how it is implemented and perceived, not only on which mechanic is chosen](mechanic-motivational-potential-context-dependent.md) — related

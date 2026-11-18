@@ -66,3 +66,4 @@ Responses to the knowledge-growth statement in the same class: "94% of students 
 ## Related Claims
 - [Faculty experts show majority but not complete consensus on E-CLASS statements](faculty-consensus-22-of-30-eclass-statements.md) — related
 - [Instruction in classical physics significantly decreases student agreement that the same experiment can yield two different correct results, consistent with reinforcement of a deterministic perspective.](classical-physics-instruction-reinforces-deterministic-perspective.md) — related
+- [Avoiding confirm-the-known-result activities in the transformed course was followed by a significant favorable shift on the E-CLASS item about confirming previously known results](avoiding-confirmation-activities-shift-item-16.md) — related

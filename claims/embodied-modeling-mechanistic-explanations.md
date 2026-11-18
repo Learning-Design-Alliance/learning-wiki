@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-18
 sources:
   - id: sengupta-2018
     resource: "https://doi.org/10.1007/978-3-319-93566-9_4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a 3rd-grade classroom, students who cycled through embodied modeling, graphing, and NetLogo agent-based modeling developed progressively more complex mechanistic explanations of emergence, including backward and forward chaining. [→ Sengupta 2018](#sengupta-2018)

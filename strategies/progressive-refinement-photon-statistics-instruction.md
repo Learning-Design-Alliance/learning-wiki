@@ -41,6 +41,7 @@ An instructional sequence in which "Methods fold the characteristics of the emit
 ## Related Strategies
 
 - [Present the Stefan-Boltzmann law in two steps: photon number flux first, then total power as photon number times average photon energy](stefan-boltzmann-via-photon-number.md)
+- [Use toy Nerf gun projectiles as analogue photons to introduce the particle nature of light](nerf-gun-analogue-photons.md)
 
 ## Examples
 -

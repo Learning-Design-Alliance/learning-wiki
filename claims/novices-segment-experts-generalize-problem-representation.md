@@ -82,3 +82,5 @@ Qualitative analysis of verbatim transcriptions of the novices' blood cell discu
 - [Novices' categorization tendency shifted toward categorizing problems by principle rather than surface feature from pre-test to post-test after brief exposure to computer-constrained conceptual analysis, in one uncontrolled pre-post study](computer-constrained-conceptual-analysis-shifts-categorization.md) — related
 - [Novice and expert problem solvers differ in how they characterize complex problems and in the skills they employ](expert-novice-differences-complex-problem-characterization.md) — a broader claim this one bears on
 - [Upper-level quantum mechanics students often categorize problems by surface features rather than solution similarity](qm-students-poor-problem-categorization.md) — related
+- [Analogy functions as a problem-solving process in students' cube-net representation](analogy-problem-solving-cube-nets.md) — related
+- [Students new to physics attribute underlying mechanisms of phenomena to physics and strengthen connections as they experience more of the discipline](novice-students-attribute-mechanisms-to-physics.md) — related

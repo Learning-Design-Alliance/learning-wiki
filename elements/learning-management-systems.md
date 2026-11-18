@@ -38,6 +38,10 @@ Learning management systems are the element in which course organization, materi
 - [The experimental group showed statistically significant pre-to-post achievement gains in the EFL teaching methods course after Blackboard-based instruction](../claims/blackboard-instruction-significant-prepost-gains-efl-methods.md) [~W]
 - [Blackboard-based instruction was more effective than traditional instruction in improving post-test achievement, with the experimental group outperforming the control group](../claims/blackboard-outperformed-traditional-instruction-posttest.md) [+W]
 
+## Examples
+
+- [Organize full-distance learning in SageMathCloud through the Manage a Course course manager](../strategies/sagemathcloud-course-manager-distance-learning.md)
+
 ## Related Elements
 - [Resource Hubs](resource-hubs.md)
 - [Progress Tracking](progress-tracking.md)

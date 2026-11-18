@@ -49,3 +49,4 @@ Spearman correlations across the 400-student four-school comparative sample (Tab
 - [Degree of use of active learning methods is positively correlated with environmental knowledge test grades, while the dogmatic method is negatively correlated](active-methods-positive-correlation-knowledge-grades.md) — related
 - [Private middle school students significantly outperformed the three public middle schools on the environmental knowledge test, with no significant difference among the public schools](private-school-outperforms-public-schools-knowledge-test.md) — related
 - [Textbook use is negatively correlated with school performance while diversification of teaching aids characterizes higher-performing schools](textbook-only-teaching-indicator-less-effective-learning.md) — related
+- [Hands-on activities are the school science activities meeting the highest degree of learner interest](hands-on-activities-highest-science-interest.md) — related

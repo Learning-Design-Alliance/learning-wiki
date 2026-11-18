@@ -50,6 +50,7 @@ The article states that any LA system can have considerable socioeconomic impact
 - [Build students' understanding of the purposes and benefits of sharing data before implementing learning analytics](build-student-understanding-of-data-sharing.md)
 - [Map identified procedural-training gaps to targeted simulation design features, including timed scenarios, embedded consent tasks, ethical scenarios, modular practice, feedback loops, and milestone-based benchmarks](simulation-design-features-mapped-to-cvc-training-gaps.md)
 - [Six APA-informed ethical considerations for integrating AI into systemic practice](apa-informed-ethical-considerations-ai-integration.md)
+- [Collect LGBT+ demographic and climate data only with anonymization and misuse safeguards, keeping it separate from personnel decisions](safeguarded-lgbt-demographic-data-collection.md)
 
 ## Examples
 -

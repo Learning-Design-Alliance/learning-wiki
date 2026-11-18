@@ -27,7 +27,8 @@ A national programme run by the American Physical Society's Department of Educat
 - [Bridge programs report high retention: 88% for the APS Bridge Program versus a 60% national average, with Fisk-Vanderbilt at 80% and Michigan's Imes-Moore program at 90%](../claims/bridge-program-retention-rates-88-percent.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [National Astronomy Consortium (NAC) program](national-astronomy-consortium-nac-program.md)
 
 ## Key Sources
 - Brian Beckford. (2017). Bridge Programs as an approach to improving diversity in physics. 38th International Conference on High Energy Physics. https://arxiv.org/abs/1708.08011

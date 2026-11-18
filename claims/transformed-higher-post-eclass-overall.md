@@ -49,3 +49,4 @@ Observational comparison of matched E-CLASS data from N = 3601 first-year studen
 - [Sixteen of 30 E-CLASS items show Transformed courses scoring significantly better post-instruction, with moderate differences only on items 14 and 23](sixteen-of-thirty-items-transformed-better.md) — related
 - [Students in Traditional first-year physics labs show a significant negative shift in E-CLASS scores, while students in Transformed courses do not shift significantly](traditional-labs-negative-eclass-shift-transformed-none.md) — related
 - [Gender is a significant predictor of post-instruction E-CLASS means in Traditional courses only, with men's adjusted means higher than women's](gender-predictor-traditional-courses-only.md) — related
+- [The transformed lab course produced no statistically significant difference in overall post-instruction E-CLASS scores compared to the original course](lab-transformation-no-overall-eclass-change.md) — reports the opposite

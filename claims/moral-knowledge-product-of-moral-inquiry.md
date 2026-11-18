@@ -58,3 +58,4 @@ Philosophical argument in the section on Dewey's view of character education: th
 - [Because many delinquent girls learned quickly and accurately, the article concludes moral defects must be partially explained on grounds other than inferior mentality](delinquency-not-fully-explained-by-mentality.md) — related
 - [For the feeble-minded, punishment is of little avail because the moral sentiment is impaired](punishment-ineffective-impaired-moral-sentiment.md) — related
 - [Academic dishonesty builds a propensity for dishonesty into student character because actions form habits and habits form character](cheating-builds-dishonest-character-propensity.md) — related
+- [Teaching the process of science rather than factual knowledge better prepares undergraduates for diverse careers (author's argued position)](process-over-facts-science-curriculum.md) — a narrower finding that bears on this claim

@@ -70,3 +70,4 @@ Survey item (Figure 1): graduate students were far less likely to see structural
 - [Graduate students show less expert-like attitudes and approaches for graduate-level problem solving than for introductory-level problem solving](grad-students-less-expertlike-graduate-level-problems.md) — related
 - [Students and faculty alike report a general lack of reflection after solving physics problems](lack-of-reflection-after-problem-solving.md) — related
 - [On the AAPS survey, faculty respond more expert-like than Ph.D. students, who respond more expert-like than introductory students, with large effect sizes](aaps-expertise-gradient-effect-sizes.md) — related
+- [On a data-comparison item, expert responses are selected more often and novice responses less often with greater physics maturity](plic-item-selections-vary-by-maturity.md) — related

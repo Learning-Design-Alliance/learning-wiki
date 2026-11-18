@@ -48,3 +48,4 @@ Item-level analysis of the application items. The article reports Q7 roughly unc
 - [Tracker-based computer laboratory lessons produce large within-group learning gains on toss-up and free fall kinematics for secondary students](tracker-lessons-large-kinematics-gains.md) — a broader claim this one bears on
 - [Graph-recall and gradient-interpretation items (Q1-6) improved substantially after Tracker lessons, with gains of 16 to 33 percentage points](tracker-q1-6-positive-gains.md) — related
 - [The misconception that acceleration is zero at the top of toss-up motion persisted despite gains on the highest-point velocity item](zero-acceleration-apex-misconception-persists.md) — related
+- [Constructing timelike geodesics on a spacetime sector model shows that free-fall geodesics produce the expected up-and-down motion in space](sector-model-timelike-geodesics-free-fall.md) — related

@@ -50,6 +50,7 @@ In the recommendations section, the author suggests three refinements to scripte
 - [Have students draw their own cartoons to express concerns and consolidate understanding of an issue](students-draw-own-cartoons.md)
 - [What Would Their Day Look Like?](what_would_their_day_look_like.md)
 - [Use kinesthetic explorations and body-intuition prompts to help students develop intuition for acceleration](kinesthetic-explorations-acceleration-intuition.md)
+- [Elastic-band resisted drawing to embody the increasing attractive force between separated quarks](elastic-band-quark-attraction-drawing.md)
 
 ## Examples
 -

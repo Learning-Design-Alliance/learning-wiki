@@ -46,6 +46,7 @@ From initial implementation in SP12, the authors report three lessons: instructo
 
 - [Design advanced-physics tutorial activities that focus on concepts, scaffold problem difficulty, and allow generous completion time](advanced-tutorial-design-guidelines.md)
 - [Science Education Initiative model of iterative course transformation](sei-course-transformation-model-em-ii.md)
+- [Staff mega-course collaborative work with trained undergraduate peer teaching assistants recruited from former high-performing students](peer-teaching-assistants-mega-course.md)
 
 ## Examples
 -

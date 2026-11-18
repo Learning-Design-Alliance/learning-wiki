@@ -70,6 +70,7 @@ A related, complementary construct is the **boundary object** (Star & Griesemer,
 - [Deliberately bridge student experience data work across tools, initiatives, and partner organizations](../strategies/bridge-student-experience-data-across-initiatives.md)
 - [Address the usage gap through learning design that crosses boundaries between academic, personal lifestyle and professional spheres](../strategies/boundary-crossing-learning-design-for-usage-gap.md)
 - [Teachers use the ADD to locate students' discernment level and craft teaching that supports crossing category boundaries](../strategies/add-boundary-crossing-teaching.md)
+- [Professional School of Education (PSE)](../products/professional-school-of-education-pse.md)
 
 ## Key Sources
 - Liukkonen, P., Vartiainen, H., Pöllänen, S., & Kokko, S. (2023). Interacting with nature in and through boundary crossing learning: A case of bioart-making. *Journal of the Learning Sciences, 32*(4-5), 534-572. [https://doi.org/10.1080/10508406.2023.2263845](https://doi.org/10.1080/10508406.2023.2263845)

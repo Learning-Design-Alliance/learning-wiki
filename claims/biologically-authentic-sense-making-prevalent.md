@@ -8,19 +8,19 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-16
 evidence_strength: moderate
-newest_evidence: 2010
+newest_evidence: 2011
 sources:
-  - id: jessica-watkins-2010
+  - id: jessica-watkins-2011
     resource: "https://doi.org/10.48550/arXiv.1109.4983"
-    title: "Jessica Watkins, Janet E. Coffey, Edward F. Redish, & Todd J. Cooke. (2010). Disciplinary authenticity: Enriching the reforms of introductory physics courses for life-science students. [doi:10.48550/arXiv.1109.4983](https://doi.org/10.48550/arXiv.1109.4983)"
+    title: "Jessica Watkins, Janet E. Coffey, Edward F. Redish, & Todd J. Cooke. (2011). Disciplinary authenticity: Enriching the reforms of introductory physics courses for life-science students. Originally published 2010. [doi:10.48550/arXiv.1109.4983](https://doi.org/10.48550/arXiv.1109.4983)"
     author: "Jessica Watkins, Janet E. Coffey, Edward F. Redish, & Todd J. Cooke"
     q: 2
     i: "?"
     kind: qualitative
     rigour: "?"
-  - id: jessica-watkins-2010-2
+  - id: jessica-watkins-2011-2
     resource: "https://doi.org/10.48550/arXiv.1109.4983"
-    title: "Jessica Watkins, Janet E. Coffey, Edward F. Redish, & Todd J. Cooke. (2010). Disciplinary authenticity: Enriching the reforms of introductory physics courses for life-science students. [doi:10.48550/arXiv.1109.4983](https://doi.org/10.48550/arXiv.1109.4983)"
+    title: "Jessica Watkins, Janet E. Coffey, Edward F. Redish, & Todd J. Cooke. (2011). Disciplinary authenticity: Enriching the reforms of introductory physics courses for life-science students. Originally published 2010. [doi:10.48550/arXiv.1109.4983](https://doi.org/10.48550/arXiv.1109.4983)"
     author: "Jessica Watkins, Janet E. Coffey, Edward F. Redish, & Todd J. Cooke"
     q: 2
     i: "?"
@@ -32,17 +32,17 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r?` · `q2`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` The most prevalent category, about half of the homework and exam questions, asked students to use mathematics and physics to make sense of biological phenomena such as kangaroo hopping mechanics and diffusion constraints on worm size and shape. [→ Jessica Watkins 2010](#jessica-watkins-2010)
-`q2 i?` In these questions the same tools are used differently than in physics courses: students attend to selected variables and reason qualitatively about proportionalities in service of biological understanding rather than computing numerical answers. [→ Jessica Watkins 2010 (2)](#jessica-watkins-2010-2)
+`q2 i?` The most prevalent category, about half of the homework and exam questions, asked students to use mathematics and physics to make sense of biological phenomena such as kangaroo hopping mechanics and diffusion constraints on worm size and shape. [→ Jessica Watkins 2011](#jessica-watkins-2011)
+`q2 i?` In these questions the same tools are used differently than in physics courses: students attend to selected variables and reason qualitatively about proportionalities in service of biological understanding rather than computing numerical answers. [→ Jessica Watkins 2011 (2)](#jessica-watkins-2011-2)
 
 ## Evidence
 
-### Jessica Watkins 2010
+### Jessica Watkins 2011
 
-Jessica Watkins, Janet E. Coffey, Edward F. Redish, & Todd J. Cooke. (2010). Disciplinary authenticity: Enriching the reforms of introductory physics courses for life-science students. [doi:10.48550/arXiv.1109.4983](https://doi.org/10.48550/arXiv.1109.4983)
+Jessica Watkins, Janet E. Coffey, Edward F. Redish, & Todd J. Cooke. (2011). Disciplinary authenticity: Enriching the reforms of introductory physics courses for life-science students. Originally published 2010. [doi:10.48550/arXiv.1109.4983](https://doi.org/10.48550/arXiv.1109.4983)
 
 `q2 · i?` · `qualitative · r?`
 
@@ -50,9 +50,9 @@ From the qualitative coding of the 75 course questions, the making-sense-of-biol
 
 > "Our last category of items was the most prevalent; about half of the homework and exam questions were labeled as using mathematics and"
 
-### Jessica Watkins 2010 (2)
+### Jessica Watkins 2011 (2)
 
-Jessica Watkins, Janet E. Coffey, Edward F. Redish, & Todd J. Cooke. (2010). Disciplinary authenticity: Enriching the reforms of introductory physics courses for life-science students. [doi:10.48550/arXiv.1109.4983](https://doi.org/10.48550/arXiv.1109.4983)
+Jessica Watkins, Janet E. Coffey, Edward F. Redish, & Todd J. Cooke. (2011). Disciplinary authenticity: Enriching the reforms of introductory physics courses for life-science students. Originally published 2010. [doi:10.48550/arXiv.1109.4983](https://doi.org/10.48550/arXiv.1109.4983)
 
 `q2 · i?` · `qualitative · r?`
 
@@ -76,3 +76,4 @@ Analysis of a Fick-equation exam question about ventilatory and circulatory pump
 - [Life science students accept and engage enthusiastically with physics and mathematical modeling when applications are perceived as biologically authentic, and resist when they perceive them as irrelevant to biology.](authentic-relevance-drives-life-science-student-engagement.md) — related
 - [Biology and physics faculty tend to hold dramatically different epistemological views of introductory knowledge, with biology favoring realistic systems and physics favoring idealized toy models.](physics-biology-epistemological-style-differences.md) — related
 - [Physics instructors and biology students have different go-to epistemological resources, creating instructional conflict](instructor-student-epistemological-stance-mismatch.md) — related
+- [Students new to physics attribute underlying mechanisms of phenomena to physics and strengthen connections as they experience more of the discipline](novice-students-attribute-mechanisms-to-physics.md) — related

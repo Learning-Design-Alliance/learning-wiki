@@ -47,3 +47,4 @@ The review's assessment of the aversive-state literature: it cites Jepma et al.'
 ## Related Claims
 - [Curiosity and situational interest differ on five dimensions: theoretical account, biology, triggers, affect, and information search](curiosity-situational-interest-five-dimensions.md) — reports the opposite
 - [Frequently used word stems such as \"can\", \"want\", \"thing\" and \"feel\" carry no discriminative value between curiosity and interest definitions](common-word-stems-no-discriminative-value.md) — related
+- [Students experienced a sense of intrinsic motivation to study physics in response to the desire to find explanations for physical phenomena](contemplative-practices-intrinsic-motivation-physics.md) — related

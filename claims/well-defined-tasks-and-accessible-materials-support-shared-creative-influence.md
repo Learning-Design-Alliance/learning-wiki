@@ -62,3 +62,4 @@ This is a single-group case study (one focal group deeply analyzed out of four o
 - [Participants used a limited, polymorphic repertoire of materials, gestures and symbols whose meanings were context-derived](limited-polymorphic-repertoire-written-collaboration.md) — related
 - [A focused design task supported by explicit and targeted disciplinary supports led to a student technology design process driven by disciplinary understanding](focused-task-disciplinary-understanding-drives-design.md) — related
 - [PBL in small groups supports creativity through openness to new ideas, handling problems from different angles, and imagining various solutions](pbl-small-group-creativity.md) — related
+- [Collaborative student work works well in groups of 2–3, while larger groups develop sidelining power dynamics](srmp-small-group-collaboration.md) — related

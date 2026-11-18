@@ -51,3 +51,4 @@ The authors' analytical argument: because verification labs aim to confirm previ
 - [Student misconceptions can be read as knowledge elements that serve in some contexts and are refined and reorganised during learning, rather than as strongly held flawed ideas that instruction must confront and replace](misconceptions-are-knowledge-elements-refined-not-replaced.md) — related
 - [Alternative conceptions persist alongside scientific conceptions and resist change even after instruction](alternative-conceptions-persist-coexist.md) — related
 - [Verification labs impose high cognitive load while enhanced lecture demonstrations impose much lower cognitive load](verification-labs-high-cognitive-load.md) — related
+- [Authoritative science teaching fosters the mistaken idea that truth is easy to arrive at and self-evident](authoritative-teaching-hinders-enquiry.md) — related

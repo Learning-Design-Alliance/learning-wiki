@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: weak
-newest_evidence: 2014
+newest_evidence: 2015
 sources:
-  - id: amy-voss-farris-and-pratim-sengupta-2014
+  - id: amy-voss-farris-and-pratim-sengupta-2015
     resource: "https://doi.org/10.48550/arXiv.1512.08619"
-    title: "Amy Voss Farris and Pratim Sengupta. (2014). Democratizing Children's Computation: Learning Computational Science as Aesthetic Experience. [doi:10.48550/arXiv.1512.08619](https://doi.org/10.48550/arXiv.1512.08619)"
+    title: "Amy Voss Farris and Pratim Sengupta. (2015). Democratizing Children's Computation: Learning Computational Science as Aesthetic Experience. Originally published 2014. [doi:10.48550/arXiv.1512.08619](https://doi.org/10.48550/arXiv.1512.08619)"
     author: Amy Voss Farris and Pratim Sengupta
     q: 1
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q1`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q1 i?` Ariana's ViMAP project writing 'Thomas' shows the computational agent became a transitional object onto which she projected her identity, connecting biographical experiences outside the classroom to programming. [→ Amy Voss Farris and Pratim Sengupta 2014](#amy-voss-farris-and-pratim-sengupta-2014)
+`q1 i?` Ariana's ViMAP project writing 'Thomas' shows the computational agent became a transitional object onto which she projected her identity, connecting biographical experiences outside the classroom to programming. [→ Amy Voss Farris and Pratim Sengupta 2015](#amy-voss-farris-and-pratim-sengupta-2015)
 
 ## Evidence
 
-### Amy Voss Farris and Pratim Sengupta 2014
+### Amy Voss Farris and Pratim Sengupta 2015
 
-Amy Voss Farris and Pratim Sengupta. (2014). Democratizing Children's Computation: Learning Computational Science as Aesthetic Experience. [doi:10.48550/arXiv.1512.08619](https://doi.org/10.48550/arXiv.1512.08619)
+Amy Voss Farris and Pratim Sengupta. (2015). Democratizing Children's Computation: Learning Computational Science as Aesthetic Experience. Originally published 2014. [doi:10.48550/arXiv.1512.08619](https://doi.org/10.48550/arXiv.1512.08619)
 
 `q1 · i?` · `qualitative · r3`
 
@@ -47,3 +47,4 @@ Illustrative case study of Ariana, a fifth grader in a two-week summer course, w
 ## Related Claims
 - [The article reports that an aesthetic, multimodal computing experience was inclusive for two initially disinterested students, inviting them into a domain of practice for which they initially had no interest and enabling full participation](aesthetic-computing-experience-inclusive-for-disinterested.md) — related
 - [In the same case study, two fifth graders built a coordinated multimodal model of acceleration in which color, dot-gaps, pitch and note duration represented speed and continuous change of motion](multimodal-color-gaps-pitch-duration-acceleration-model.md) — related
+- [A wound-healing classroom activity that intersected a student's lived experience became a recurring, self-reported touchpoint for physics relevance](wound-healing-activity-lived-experience-relevance.md) — related

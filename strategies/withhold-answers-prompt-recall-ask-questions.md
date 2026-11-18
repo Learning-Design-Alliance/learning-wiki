@@ -51,6 +51,7 @@ A concrete implementable recipe drawn from what students themselves requested an
 - [Encouraging Help-Seeking Behavior](encouraging_help-seeking_behavior.md)
 - [Transplant ITS insights such as hint timing and solution review into regulative CSCL design](transplant-its-insights-to-cscl.md)
 - [Design for productive struggle: default to solution withholding and laddered hints with reflection between levels](design-for-productive-struggle-genai.md)
+- [Never distribute worked solutions to activity worksheets; offer select answers instead](no-worksheet-solutions-strategy.md)
 
 ## Examples
 -

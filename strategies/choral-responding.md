@@ -65,6 +65,7 @@ Choral responding multiplies active engagement during teacher-led instruction, c
 - [Response Cards](response-cards.md) — silent written variant that makes every answer individually visible
 - [Numbered Heads Together](numbered-heads-together.md) — cooperative variant combining group rehearsal with random individual reporting
 - [Question-answer directions that let children answer as part of the administration](question-answer-directions-young-children.md)
+- [Use 50/50 and Fill-in-the-Blank interactive lecturing questions with whole-class choral responses for real-time formative feedback](50-50-fill-in-blank-interactive-lecturing.md)
 
 ## Examples
 - **Direct Instruction programs** (e.g., *Reading Mastery*, McGraw-Hill) — scripted choral responding on phonics and decoding prompts is a core delivery mechanism, with signals and pacing built into the teacher script.

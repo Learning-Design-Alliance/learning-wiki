@@ -53,6 +53,7 @@ Because the included interventions were mainly short-term and the review found n
 - [Increase radiology education emphasis in the medical curriculum](radiology-education-curriculum-emphasis.md)
 - [Evaluate microlearning effectiveness with an RCT adding objective outcomes to self-report measures](planned-rct-microlearning-evaluation-strategy.md)
 - [Design future Serious Game versus traditional teaching trials as randomised studies with pre-tests and learning-time data](randomised-pretest-design-for-serious-game-trials.md)
+- [Evaluate curriculum reform with long-term follow-up surveys after graduation, not student evaluations](long-term-followup-curriculum-evaluation.md)
 
 ## Examples
 -

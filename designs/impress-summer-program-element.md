@@ -45,7 +45,8 @@ IMPRESS (Integrating Metacognitive Practices and Research to Ensure Student Succ
 - 
 
 ## Related Designs
-- 
+
+- [IMPRESS summer bridge program](impress-summer-bridge-program.md)
 
 ## Examples
 -

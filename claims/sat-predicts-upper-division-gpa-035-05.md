@@ -55,3 +55,4 @@ Observational analysis of 4,420 University of Oregon students' records plotted a
 - [Average grades in the calculus-based physics course 25X show an almost identical threshold at SAT-M just below 600](phys-25x-threshold-sat-m-600.md) — related
 - [Grades in the calculus-based physics course correlate 0.75 with upper-division Physics GPA, with slightly higher grades in 25X](phys-25x-upper-division-correlation-075.md) — related
 - [PER research subjects are better prepared mathematically than the overall population of introductory physics students](per-subjects-stronger-math-preparation.md) — related
+- [College One showed a clear increase in AS-level Physics grades versus predicted grades, averaging +0.86 grade per student, as tentative evidence of improved attainment](outreach-tentative-as-grade-improvement.md) — related

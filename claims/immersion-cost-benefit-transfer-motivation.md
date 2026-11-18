@@ -102,3 +102,4 @@ The review reports, citing Frederiksen et al. (2020) in surgical training, that 
 - [Positive pre-learning emotions induced by funny videos improved knowledge transfer but not knowledge retention in elementary students learning from a video lecture.](positive-pre-learning-emotion-improves-transfer-not-retention.md) — a narrower finding that bears on this claim
 - [iVR training has been reported as 34 times more cost-effective than a traditional course format](ivr-34x-more-cost-effective-than-traditional-course.md) — related
 - [Trainees support extending the 3D video format to other medical procedures](support-extending-vr-to-other-procedures.md) — related
+- [The review reports, citing Salzman et al., that students using the MaxwellWorld immersive VR system developed significantly better understanding of electrostatic concepts than students using a 2-D application](maxwellworld-vr-better-electrostatic-understanding-than-emfield.md) — related

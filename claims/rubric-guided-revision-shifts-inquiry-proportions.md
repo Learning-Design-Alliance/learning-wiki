@@ -85,3 +85,4 @@ Rubric analysis of the geologic time laboratory (Table IV); the shift occurred o
 ## Related Claims
 - [Students in revised higher-inquiry rock and mineral laboratory sections scored significantly higher than traditional-section students on postlab assessments](higher-inquiry-labs-improve-postlab-scores.md) — related
 - [AI-driven methodologies in chemistry laboratory classes foster deeper understanding of chemical phenomena while raising questions about human intuition and creativity](ai-lab-methodologies-deeper-understanding-questions-intuition.md) — related
+- [Avoiding confirm-the-known-result activities in the transformed course was followed by a significant favorable shift on the E-CLASS item about confirming previously known results](avoiding-confirmation-activities-shift-item-16.md) — related

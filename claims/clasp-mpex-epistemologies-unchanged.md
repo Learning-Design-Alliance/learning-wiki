@@ -61,3 +61,4 @@ MPEX-II survey administered in Fall 2008 to about 600 students in two CLASP A co
 - [Students in Arduino-based lab sections scored unremarkably on standard physics pre/post inventories](arduino-lab-standard-inventory-scores-unremarkable.md) — related
 - [A collaborative expert-role learning design in Class 3 strengthened students' perceived physics learning compared with Class 1 and 2](eqm-expert-roles-improved-perceived-learning.md) — related
 - [Attitudes toward science measured by the CLASS survey showed no significant differences between the concepts-first and active-learning-only sections, and neither section's scores appreciably changed](class-attitudes-no-section-differences.md) — related
+- [MPEX Reality Link scores typically deteriorate over a semester of physics instruction](mpex-reality-link-negative-shift-instruction.md) — related

@@ -46,7 +46,9 @@ The strategy places high school students in an environment as close as possible 
 - [Interviewed students named the project's freedom as its exclusive feature and reported enhanced schedule-planning and communication skills](../claims/student-freedom-exclusive-project-feature.md) [+W]
 
 ## Related Strategies
+
 - Ice Salt Cloud Chamber Apparatus
+- [Submit lab work in a 'lab article' format modeled on a research paper](lab-article-submission-format.md)
 
 ## Examples
 -

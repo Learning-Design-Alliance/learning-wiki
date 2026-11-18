@@ -69,3 +69,4 @@ CURrENT conceptual assessment question (N=500 from 9 institutions) on the E fiel
 - [When BC equations are not provided, some students substitute conservation-style reasoning instead of activating boundary conditions](conservation-reasoning-replaces-bcs.md) — possibly the same claim (merge candidate)
 - [Upper-division electrodynamics students show recurring difficulties with Maxwell equations, conservation-law interpretation, boundary conditions, complex exponentials, and plane-wave vectors](advanced-em-student-difficulties-themes.md) — a broader claim this one bears on
 - [Only 30% of electrodynamics students explicitly used boundary conditions on a conceptual question about the electric field outside a current-carrying wire](students-fail-activate-bcs-wire-context.md) — related
+- [Students spontaneously used special case reasoning on the ellipse problem but needed prompting for extreme cases](ellipse-special-case-spontaneous-extreme-prompted.md) — related

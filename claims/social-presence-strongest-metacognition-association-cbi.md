@@ -55,7 +55,7 @@ Correlational analysis under RQ3 in the survey of 47 graduate students in the on
 | [Means 2021](https://doi.org/10.51388/20.500.12265/116) | q1 · qualitative · r2 | i? | [Students perceived online lab exercises as more effective when instructors were present on](online-labs-better-with-instructor-scaffolds.md) (qualifies) |
 | [Sarré 2011](https://doi.org/10.14705/rpnet.2011.9781908416001) | q2 · causal · r1 | i? | [Discussion board interactions generated no negative feedback at all, suggesting synchrony ](discussion-board-no-negative-feedback-synchrony-required.md) (qualifies) |
 | [Dhanya Pramod and Kanchan Pranay Patil 2026](https://doi.org/10.1007/s44217-026-02168-4) | q2 · associational · r2 | i? | [Learning motivation and perceived social presence are both positively associated with lear](motivation-social-presence-boost-engagement-agentic-ai.md) (supports) |
-| Chorianopoulos 2018 | q2 · review · r2 | i? | [Human embodiment in video: perceived social presence benefits learning ratings, but instru](human-embodiment-video-presence-effects.md) (qualifies) |
+| [Chorianopoulos 2018](https://doi.org/10.19173/irrodl.v19i1.2920) | q2 · review · r2 | i? | [Human embodiment in video: perceived social presence benefits learning ratings, but instru](human-embodiment-video-presence-effects.md) (qualifies) |
 | Brewer 2003 | q3 · associational · r2 | i? | [Higher numbers of interactions are associated with higher posttest scores in asynchronous ](interaction-quantity-correlates-posttest-online-groups.md) (qualifies) |
 <!-- synthesis:end -->
 

@@ -50,3 +50,4 @@ Chi-square analysis of test answers from a six-month quasi-experiment with fourt
 - [Heuristic-methodological instruction increases pupils' reported strategies for overcoming work difficulties](heuristic-instruction-overcoming-difficulties.md) — related
 - [Heuristic-methodological instruction increases pupils' checking of answer correctness](heuristic-instruction-checking-answer-correctness.md) — related
 - [Heuristic-methodological instruction shows no significant effect on pupils' reported learning planning](heuristic-instruction-no-effect-learning-planning.md) — related
+- [Students connect new terms to previously drawn terms, circling terms already guessed by the group](circling-previously-drawn-terms-builds-connections.md) — a narrower finding that bears on this claim

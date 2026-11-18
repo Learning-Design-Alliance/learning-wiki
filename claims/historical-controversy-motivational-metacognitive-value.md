@@ -69,3 +69,4 @@ Authors' interpretation of post-sequence student statements in the a posteriori 
 - [Students perceive the VP as a motivating, easy-to-use tool that permits error-making without consequences and supports structured reasoning](vp-perceived-motivating-safe-for-errors.md) — related
 - [Students lack metacognitive awareness of the benefits of errorful learning: the three learning groups did not differ in perceived competence, judgments of learning, or rated method effectiveness even after tests](no-metacognitive-awareness-of-errorful-learning-benefits.md) — related
 - [The cognitive conflict over the Earth's immobility leads students to construct a first formulation of the principle of conservation of motion](cognitive-conflict-leads-to-conservation-principle.md) — related
+- [Explicitly discussing that feeling stupid is a legitimate part of science reduced educator disengagement in NITARP](nitarp-feeling-stupid-discussion-reduces-disengagement.md) — related

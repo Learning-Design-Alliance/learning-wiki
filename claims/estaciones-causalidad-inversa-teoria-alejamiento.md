@@ -50,3 +50,4 @@ Análisis de respuestas de la prueba piloto a las preguntas 3 y 5. Muchas alumna
 - [Respuestas muy variadas sobre definiciones astronómicas corrientes y terminología cotidiana](terminologia-cotidiana-respuestas-variadas.md) — related
 - [Algunos futuros docentes explican las estaciones usando el clima como causa, confundiendo causa y efecto (causalidad singular)](causalidad-singular-clima-estaciones.md) — possibly the same claim (merge candidate)
 - [Entre los futuros docentes de primaria, la teoría del alejamiento (cercanía o lejanía del Sol) es la explicación más frecuente para las estaciones del año](teoria-alejamiento-estaciones-futuros-docentes.md) — related
+- [Las ideas previas sobre fenómenos astronómicos persisten en la escuela secundaria y afectan también a estudiantes de magisterio y a profesores en actividad](prior-ideas-persist-secondary-teachers.md) — related

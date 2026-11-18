@@ -48,3 +48,4 @@ Latent profile transition analysis of the three-wave panel; transition probabili
 - [During a year-long AI curriculum, most students maintained or moved upward in motivational profile, with substantial upward transitions out of the Disengaged profile](upward-motivational-transitions-year-ai-curriculum.md) — related
 - [At Time 3, profile membership was significantly associated with Japanese learning self-efficacy and learning burnout, with all three profiles differing pairwise](profiles-predict-self-efficacy-and-burnout.md) — related
 - [Students' roles showed strong temporal stability: each trajectory returned to its initial roles across the 13 weeks, which the authors interpret as stable collaborative dispositions.](role-trajectories-return-to-initial-roles.md) — related
+- [Student behaviour profiles vary week to week rather than representing stable semester-long behaviour types](student-profiles-vary-week-to-week.md) — related

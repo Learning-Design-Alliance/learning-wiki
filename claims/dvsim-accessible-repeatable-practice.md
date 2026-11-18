@@ -53,3 +53,4 @@ Participant account from the reflective-observation theme of the interview study
 - [The three pilots shared online technology for mastery pathways, credit for demonstrated mastery, anytime/anywhere learning, and improved data management](proficiency-pilots-shared-design-attributes.md) — related
 - [Students reported high acceptance of the VR suture training system, with 92.31% finding it interesting and useful and 100% valuing anytime access](vr-suture-training-acceptance.md) — related
 - [Students reported that iPads helped them learn science by providing resource access for student-directed research and by supporting personal learning needs such as pace and ease of use](ipads-support-student-directed-learning.md) — related
+- [Mobile learning offers advantages over e-learning in portability, continuous access and interactivity, but faces fragmentation, small screens and high initial costs](mobile-learning-advantages-disadvantages.md) — related

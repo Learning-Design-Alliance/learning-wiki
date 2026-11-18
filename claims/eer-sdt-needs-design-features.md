@@ -62,3 +62,4 @@ The review synthesizes how Abdul Rahim et al. (2022) and Cantwell et al. (2022) 
 - Self-determination theory grew incrementally by adding mini-theories as evidence accumulated — related
 - [E-learning fosters learner autonomy and self-directed learning by enabling students to control pace, time, and content](elearning-fosters-learner-autonomy-self-direction.md) — related
 - [The article attributes Sim + LBL's effectiveness to cognitive and motivational processes consistent with Self-Determination Theory](sdt-explanation-sim-lbl-effectiveness.md) — related
+- [Game based learning activities meet four player-activity requirements—students' goals, autonomy, competence, and relatedness—to foster autonomous motivation](four-requirements-autonomous-motivation-dgbl.md) — related

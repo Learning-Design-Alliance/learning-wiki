@@ -49,3 +49,4 @@ Discussion-level analysis of interview data across junior, mid-career, and senio
 - [AI-assisted teams comprise more junior authors and fewer senior authors](ai-assisted-teams-more-junior-fewer-senior-authors.md) — related
 - [AI-related guilt decreases with career stage, with early-career academics reporting the highest guilt](ai-guilt-decreases-with-career-stage.md) — related
 - [The negative association between AI-assisted writing and team age is strongest among the youngest teams](ai-writing-age-effect-strongest-junior-teams.md) — related
+- [Barrier–engagement-time correlations vary by career stage: skills barriers for the youngest, academic and local community barriers for mid-career researchers](epo-barrier-correlations-by-age.md) — related

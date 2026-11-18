@@ -44,6 +44,7 @@ Research-project groups observed with the Lick Observatory 1-m telescope remotel
 
 - [Night-laboratory station rotation with three simultaneous activities for large non-major classes](night-lab-station-rotation.md)
 - [Course built on three overarching themes: light as astronomers' only data, iterative scientific investigation, and students' capacity for scientific thinking](three-theme-astronomy-course-design.md)
+- [PIRATE robotic telescope facility for distance-teaching practical astronomy](pirate-remote-telescope-facility.md)
 
 ## Examples
 -

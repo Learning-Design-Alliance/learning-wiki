@@ -54,3 +54,5 @@ Authors' interpretation drawn from teachers' observations, informal comments and
 - [A successor vocational-school path connecting physics measures to a professional instrument fully achieved its aim of increasing students' attention on physics](professional-instrument-connection-raised-vocational-students-attention.md) — related
 - [The author reports the model was successful in many contexts with great student involvement](model-successful-many-contexts-involvement.md) — reports the opposite
 - [Simulations can supplement experiential learning where hands-on activities are absent](simulations-supplement-hands-on-physics.md) — related
+- [Students may make real-world physics connections without valuing or labeling them as physics, adding complexity to interpreting attitude measures](connections-without-labeling-as-physics.md) — related
+- [Unfavorable survey responses about real-world connection can reflect judgments about the practical necessity of using physics rather than a failure to value or perceive relevance](unfavorable-responses-reflect-judgments-not-disengagement.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-18
 sources:
   - id: dimitri-r-dounas-frazer-2018
     resource: "https://doi.org/10.1103/physrevphyseducres.14.020118"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Each of the five modeling subtasks (making measurements, constructing models, making comparisons, proposing causes, enacting revisions) was identified as important by multiple optics and electronics instructors. [→ Dimitri R. Dounas-Frazer 2018](#dimitri-r-dounas-frazer-2018)
@@ -51,3 +52,5 @@ Interview study of 35 lab instructors (19 optics, 16 electronics); semistructure
 - [Four instructors said engaging students in iteration was not a goal of their activities, with three citing a tension between activity coverage and depth](some-instructors-not-goal-iteration-breadth-depth-tension.md) — related
 - [No assessments of students' modeling ability exist for upper-division physics labs](no-upper-division-modeling-assessments.md) — related
 - [Photodiodes and op-amps are common apparatus in optics and electronics labs, making them candidate assessment contexts](photodiodes-op-amps-common-contexts.md) — related
+- [Modeling is taken up differently in optics than in electronics lab courses, particularly for the comparisons subtask](domain-differences-optics-electronics-modeling.md) — a narrower finding that bears on this claim
+- [Some students who cannot immediately propose a cause for an observed discrepancy converge on one post hoc through continuous, iterative measurements and revisions](iterative-measure-revise-post-hoc-cause-pathway.md) — related

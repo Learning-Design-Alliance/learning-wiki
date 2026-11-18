@@ -74,3 +74,4 @@ The essay reports, citing Urban et al. (2024), "an increase in creative problem-
 - [Free ChatGPT use boosts originality on the assisted creative task but the advantage disappears when assistance is removed](chatgpt-free-use-originality-gains-vanish-unassisted.md) — related
 - [Teachers express concern that student overreliance on AI may degrade independent thinking and hands-on scientific skills](teacher-concern-overreliance-ai-degrades-skills.md) — related
 - [AI-assisted outputs are more similar to each other than purely human-authored ones, indicating a homogenization risk](ai-assisted-outputs-homogenization-risk.md) — related
+- [Students report the course improved their creative thinking skills (M = 4.51) and that team discussion improved understanding and generated creative ideas (M = 4.65)](pf-course-creativity-and-team-discussion-ratings.md) — related

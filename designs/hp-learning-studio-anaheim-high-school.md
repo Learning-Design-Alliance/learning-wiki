@@ -44,6 +44,7 @@ The HP Learning Studio is a school-community technology space launched in Winter
 ## Related Designs
 
 - [Educational Design Research Studio (EDRS) for collaborative design work](educational-design-research-studio-edrs.md)
+- [STEM centers as informal learning spaces serving three communities of practice](stem-centers-three-communities-of-practice.md)
 
 ## Examples
 -

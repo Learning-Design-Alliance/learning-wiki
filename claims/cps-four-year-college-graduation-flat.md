@@ -60,3 +60,4 @@ Descriptive analysis of six-year bachelor's completion among immediate four-year
 - [Immediate four-year enrollees were far more likely than immediate two-year enrollees to complete a four-year degree within six years (48 percent vs 7 percent)](four-year-immediate-enrollment-completion-advantage.md) — related
 - [The CPS four-year college enrollment rate rose from 33 percent in 2006 to 42 percent in 2014, slightly below the national rate](cps-four-year-enrollment-33-to-42-percent.md) — related
 - [CPS four-year completion rates rose 7 percentage points over ten years while enrollees nearly doubled, but remained far below six-year rates](cps-four-year-rates-increased-seven-points.md) — reports the opposite
+- [UFSM undergraduate physics graduation rates are roughly constant at 7.6, 7.3 and 6.5 graduates per year, and fewer than 30% of entrants complete the degree](ufsm-physics-graduation-rates-below-30-percent-completion.md) — related

@@ -51,3 +51,4 @@ Small-scale first trial of the revised instruction sheet with 18 students (6 gro
 - [Treatment students evaluated the lessons positively, reporting that the classes helped them master the second conditional](positive-student-evaluations-virtual-world-lessons.md) — related
 - [More than 80% of non-physics-major students fail to calculate the statistical uncertainty correctly in the gamma-attenuation experiment because they underestimate or ignore background radiation](students-ignore-background-in-uncertainty-calculation.md) — related
 - [Most students misattribute the source of statistical uncertainty in radiation counting to the measuring device rather than to the random nature of the emitted radiation](students-attribute-counting-uncertainty-to-device.md) — related
+- [Students' views about measurement uncertainty, distinct from conceptual understanding, shifted favorably after the transformed course](measurement-uncertainty-views-shift-item-5.md) — related

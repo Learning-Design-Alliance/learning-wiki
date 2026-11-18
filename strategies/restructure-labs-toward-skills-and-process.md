@@ -51,6 +51,7 @@ Given the null content-reinforcement benefit and labs' high cost, the article re
 
 - [Instructional Labs No Added Value Final Exams](../claims/instructional-labs-no-added-value-final-exams.md)
 - [Improve structured labs via time for testing and troubleshooting and emphasis on process quality over product](structured-labs-time-for-troubleshooting-process-quality.md)
+- [Clarify lab purpose, prompt critical consideration of model limitations, and emphasize uncertainty reduction to reduce confirmatory practices in experimentation-focused labs](clarify-lab-purpose-reduce-confirmatory-practices.md)
 
 ## Examples
 -

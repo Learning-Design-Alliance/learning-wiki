@@ -48,6 +48,7 @@ The brief recommends that state education agencies, as keepers of state data sys
 - [Six state-level strategies for increasing the racial diversity of the educator workforce](six-state-strategies-educator-diversity.md)
 - [Set clear numeric educator-diversity goals at the state, district, and teacher preparation levels with public progress reporting](statewide-educator-diversity-goals.md)
 - [Make school-level educator diversity data publicly available and easy to interpret so stakeholders can act on it](public-school-level-educator-diversity-data-strategy.md)
+- [Universities should publicly disseminate graduate gender data to enable general gender studies in physics](public-dissemination-of-graduate-gender-data.md)
 
 ## Examples
 -

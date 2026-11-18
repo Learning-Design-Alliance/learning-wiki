@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 137 claims (76 for, 59 mixed, 2 against) · 91 studies (42 causal, 27 associational, 13 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 23 of 91 report an effect size · 134 claims rest on one study
+> **Evidence** · 138 claims (77 for, 59 mixed, 2 against) · 92 studies (42 causal, 27 associational, 13 review, 4 quant-synthesis, 4 theoretical, 2 design), `q1`–`q4` · 23 of 92 report an effect size · 135 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -200,6 +200,7 @@ Information processing models are often criticized as overly linear and serial, 
 - [Experiment 1 shows base-centric matrix study improves recall over affix-centric study with a medium effect that emerges mainly on the second memory test](../claims/base-centric-beats-affix-centric-recall-exp1.md) [+W] — attached 2026-11-08 from Ng Melvin M. R. et al. (2022), which proposed "Organized, generative encoding account of why morphological matrices improve memory"; tests this page's relationship.
 - [Between ages 7–8 and 9–10, the influential visuospatial working memory subcomponent for mathematics shifts from spatial–simultaneous to spatial–sequential, while verbal working memory remains a significant predictor](../claims/wm-component-shift-simultaneous-to-sequential.md) [+W] — attached 2026-11-08 from Allen et al. (2020), which proposed "Subdivision of visuospatial working memory into spatial–simultaneous and spatial–sequential subcomponents based on encoding format".
 - [The type of repetition activity (test-only, lecture, e-learning module, or small-group dissession) did not affect long-term retention of anatomical knowledge](../claims/repetition-format-no-effect-retention.md) [~W] — attached 2026-11-08 from Kooloos Jan G.M. et al. (2020), which proposed "Memory-based account of why active learning was expected to aid repetition: arousal, schemas, and retrieval"; tests this page's relationship.
+- [Guided tours alone are insufficient for building facility navigation skills, so the authors designed a VR game to add attention, active engagement, feedback and repetition](../claims/guided-tours-insufficient-vr-game-adds-engagement.md) [+W] — attached 2026-11-18 from Arnaud Mas et al. (2018), which proposed "Four-factor learning-process account (attention, active engagement, feedback, consolidation) underpinning Indy's design".
 
 ## The evidence by question
 - *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]

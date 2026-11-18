@@ -52,6 +52,7 @@ The article recommends staffing peer-guided courses for international students w
 - [Deploying a high-performing former student as an in-class peer teaching assistant during guided practice](student-learning-assistant-guided-practice-strategy.md)
 - [Equip faculty and peer tutors with tools to foster social congruence with and between students](faculty-development-social-congruence-strategy.md)
 - [Recruit educated peers or non-physicians as instructors for the technical teaching of basic practical skills](recruit-peer-non-physician-instructors-technical-skills.md)
+- [Staff mega-course collaborative work with trained undergraduate peer teaching assistants recruited from former high-performing students](peer-teaching-assistants-mega-course.md)
 
 ## Examples
 -

@@ -88,3 +88,4 @@ The report describes teacher residency programs in high-need districts, in which
 - [Effective, supportive principals retain teachers, with the largest effects in high-need schools](supportive-principals-retain-teachers.md) — related
 - [UCLA-CS reports high teacher retention and above-district student and parent satisfaction alongside its academic outcomes](ucla-cs-teacher-retention-and-satisfaction.md) — related
 - [Fully prepared novice teachers are less than half as likely to leave teaching after their first year than those lacking key training elements](full-preparation-retention-first-year.md) — possibly the same claim (merge candidate)
+- [First-time GTAs who completed the preparation course receive higher student evaluation ratings than unprepared GTAs, significant in nine of twelve categories](prep-course-higher-student-evaluations.md) — related

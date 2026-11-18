@@ -49,3 +49,4 @@ Cross-sectional survey of 405 STEM lecturers at seven public universities in Yun
 - [Technostress has a significant negative effect on STEM lecturers' TPACK](technostress-negative-effect-tpack-stem-lecturers.md) — related
 - [TPACK partially mediates the negative relationship between technostress and CIT](tpack-partial-mediation-technostress-cit.md) — related
 - [TPACK positively predicts STEM lecturers' competency in interdisciplinary teaching](tpack-positive-predicts-cit.md) — related
+- [Usova held that interdisciplinary teaching influences scientific concept formation](interdisciplinary-teaching-influences-concept-formation.md) — related

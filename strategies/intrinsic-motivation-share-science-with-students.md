@@ -42,6 +42,7 @@ The report highlights research on the importance of building students' intrinsic
 - [Teachers emphasize the value and joy of learning rather than relying on rewards or punishments](value-and-joy-messages-over-rewards-punishments.md)
 - [Address student expectations of passive instruction early in the semester to promote buy-in](address-passive-expectations-early-buy-in-strategy.md)
 - [Reward and celebrate student science accomplishments liberally with positive feedback](liberal-rewards-science-accomplishments.md)
+- [Build student buy-in deliberately: explain the method on day one and connect early quizzes to worksheets](student-buy-in-flipped-large-lecture.md)
 
 ## Examples
 -

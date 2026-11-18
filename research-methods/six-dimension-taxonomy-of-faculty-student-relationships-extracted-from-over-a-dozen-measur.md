@@ -26,6 +26,7 @@ To handle heterogeneity across FSR measures, the authors inductively reviewed mo
 ## Related Research Methods
 
 - [Six discourse functions mapped onto inquiry-based knowledge construction categories](six-discourse-functions-mapped-onto-inquiry-based-knowledge-construction-categories.md)
+- [Taxonomy of questionable research practices in student lab notes](taxonomy-of-questionable-research-practices-in-student-lab-notes.md)
 
 ## Key Sources
 - Fathi, Z., Zarei, P., Fong, C. J., Saha, A. K., & Sharmeen, S. (2026). The Caring Professor: A Meta-Analysis of Associations between Faculty-Student Relationships and Postsecondary Student Success. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10100-9

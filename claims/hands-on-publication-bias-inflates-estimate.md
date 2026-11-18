@@ -75,3 +75,4 @@ Author's interpretation of the included studies' reporting pattern: "Negative im
 - Small sample sizes and publication bias against non-significant findings may inflate meta-analytic effect size estimates in the chemistry teaching-method categories — related
 - Publication bias affects several blended BOPPPS outcome syntheses but trim-and-fill does not change significance — related
 - [Publication bias checks indicate the positive FCM effect is robust: trim-and-fill estimate 0.21619 and fail-safe number 5725.2](fcm-meta-publication-bias-robust.md) — related
+- [Hands-on learning shows a large impact on science achievement](hands-on-learning-science-achievement-effect.md) — related

@@ -75,6 +75,7 @@ Learners make art using or about living organisms (specimens, plants, biological
 ## Related Designs
 
 - [Collaborative making project pattern: multi-material, digitally enhanced, holistic, thematically anchored](school-collaborative-making-project-pattern.md)
+- [Art-science workshop sequence progressing from traditional to experimental art activities with a cumulative ideas sheet](art-science-workshop-sequence.md)
 
 ## Related Patterns
 - [Problem-Based Learning (PBL)](../patterns/problem-based-learning.md) — shares an inquiry-driven structure but is organized around progressive institutional access and material engagement rather than a single driving problem

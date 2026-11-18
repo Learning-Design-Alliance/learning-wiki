@@ -132,6 +132,7 @@ As Morshead (1965) pointed out on publication of the affective-domain handbook, 
 - [Use a low-threshold online training plus a SMART template to prepare students for self-created learning outcomes](../strategies/famuplus-online-training-smart-template-strategy.md)
 - [Educational objectives for a dietary oral health curriculum organized according to Bloom's knowledge and cognitive process dimensions](../designs/bloom-organized-dietary-oral-health-objectives.md)
 - [Design mathematics e-modules around Bloom's taxonomy so each module supports every cognitive objective from knowledge to evaluation](../strategies/bloom-taxonomy-math-e-modules-strategy.md)
+- [Six-step WordNet-based word similarity method enhanced with word-sense disambiguation and sense-frequency weighting](../research-methods/six-step-wordnet-based-word-similarity-method-enhanced-with-word-sense-disambiguation-and.md)
 
 ## Key Sources
 - Bloom, B. S. (Ed.), Engelhart, M. D., Furst, E. J., Hill, W. H., & Krathwohl, D. R. (1956). *Taxonomy of educational objectives, Handbook I: The cognitive domain*. David McKay Co.

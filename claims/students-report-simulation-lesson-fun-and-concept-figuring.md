@@ -159,3 +159,7 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Year 6 students find Einsteinian concepts interesting and do not consider themselves too young to learn them](einstein-first-year6-attitudes.md) — related
 - [Hands-on experimental work with historical instruments helps students construct knowledge from their own experience and learn the connected Physics and Chemistry better than usual school didactics, per the authors](hands-on-historical-instruments-construct-knowledge.md) — related
 - [Informal student feedback was positive, with pupils reporting increased interest in astronomy and feeling like real astronomers](positive-informal-student-feedback-pilot.md) — related
+- [Older distance students agree more that virtual and remote experiments make practical science enjoyable, while younger students prefer co-location with equipment](age-trend-remote-lab-enjoyment.md) — related
+- [Pilot workshop feedback indicates increased interest in physics among KS4 students after an art-based particle physics workshop](art-workshop-increased-physics-interest-ks4.md) — related
+- [A multidisciplinary art-physics laboratory on light polarization is reported by the author to make students more engaged and the learning of the physics concepts more effective](art-physics-polarization-lab-engagement.md) — related
+- [The author argues that combining simulations with experiments helps students see the connection between them and understand their limitations](simulation-experiment-combination-builds-connection-awareness.md) — related

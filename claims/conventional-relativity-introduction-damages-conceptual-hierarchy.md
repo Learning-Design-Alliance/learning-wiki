@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2011
+source_checked: 2026-11-18
 sources:
   - id: gürel-2011
     resource: "https://doi.org/10.48550/arXiv.1107.4748"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In the usual derivation of the Lorentz transformations from Einstein's postulates, peculiarities of time are derived from the behavior of light velocity, damaging the student's existing conceptual hierarchy without fully deconstructing Galilean space and absolute time, so both frameworks coexist in students' minds. [→ Gürel 2011](#gurel-2011)

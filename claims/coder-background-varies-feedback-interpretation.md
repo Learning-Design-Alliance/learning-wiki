@@ -72,3 +72,4 @@ Spearman's rank correlation analysis of coding by researchers versus teachers on
 - [Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement](human-llm-agreement-gap-jaccard.md) — related
 - [Prior non-LLM automated coding approaches yielded variable and often lower agreement with human coders on teacher knowledge measures, especially PCK](prior-automated-coding-variable-lower-agreement-pck.md) — related
 - Coder agreement ranged from 68.57% (identical) to 95% (category coding) across coding stages — related
+- [Feedback moderates homework effects: strong versus weak effects depending on whether feedback is given](homework-effects-moderated-by-feedback.md) — related

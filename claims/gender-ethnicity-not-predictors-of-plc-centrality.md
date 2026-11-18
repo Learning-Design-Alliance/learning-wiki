@@ -51,3 +51,4 @@ Hierarchical multiple regression models 3–6 added time per week, ethnicity, in
 - [Demographic variables do not predict peer leaders' critical thinking gains](demographics-not-indicators-ct-gains.md) — related
 - [Visiting the PLC more days per week is associated with denser connections and greater centrality in the network sociogram](more-plc-days-denser-connections.md) — related
 - [Reading guides were used similarly across student groups by gender, ethnicity, and aptitude, with demographics contributing to completion in few cases and inconsistently](reading-guide-use-equitable-across-student-groups.md) — related
+- [Demographic characteristics (DHH status and gender) show no apparent impact on students' integration in the classroom interaction network](demographics-no-impact-network-integration.md) — related

@@ -58,6 +58,8 @@ A concrete design recipe drawn from the simulation training framework and the tr
 - [Run history-taking sessions with individual reflection, group discussion, and Pendleton-rule peer feedback supported by instructor probing questions](rp-feedback-history-taking-session-recipe.md)
 - [Use a briefing–simulation–debriefing structure around a clinical virtual simulator scenario in a case-based lesson](briefing-simulation-debriefing-cvs-strategy.md)
 - [Create structured team learning spaces combining case discussion, expert backup and emotional debriefing](malaise-group-case-discussion-space.md)
+- [Use the interactive debriefing interface to valorize hunts: itineraries, safety discussion, alternatives and learner self-explanation](indys-debriefing-valorization-strategy.md)
+- [Design remote and virtual experiments for situational awareness and facilitated in-person social interaction](remote-lab-situational-awareness-recommendations.md)
 
 ## Examples
 -

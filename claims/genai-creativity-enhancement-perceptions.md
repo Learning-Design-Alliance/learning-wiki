@@ -73,3 +73,4 @@ Descriptive results for the creativity dimension: idea generation received " M =
 - [ChatGPT use in STEAM IBL is reported to enhance learner outcomes including motivation, critical thinking, engagement, and problem-solving](chatgpt-steam-ibl-learner-advantages.md) — related
 - [GAI-assisted DST creation produced significantly better team creativity performance than traditional methods, particularly in novelty and user experience](gai-assisted-dst-improves-team-creativity.md) — related
 - [Undergraduate students rate GenAI's usefulness for programming coursework significantly above neutral](genai-usefulness-perceptions-programming-positive.md) — related
+- [Students report the course improved their creative thinking skills (M = 4.51) and that team discussion improved understanding and generated creative ideas (M = 4.65)](pf-course-creativity-and-team-discussion-ratings.md) — related

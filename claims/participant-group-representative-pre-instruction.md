@@ -47,3 +47,4 @@ Comparative descriptive analysis of pre-instruction LSCI scores between the part
 ## Related Claims
 - [Astro 101 students taught with Lecture-Tutorials achieved average LSCI normalized gains of 0.46–0.48, placing the classes in the top 10% nationally](lecture-tutorials-top-decile-normalized-gains.md) — related
 - [Normalized learning gains on the Light and Spectroscopy Concept Inventory were statistically indistinguishable whether the textbook was required or optional](lsci-gains-textbook-required-optional-no-difference.md) — related
+- [Across three spring mega-course offerings, students achieved average normalized LSCI gains of 0.42, 0.48, and 0.43, all within Hake's medium-gain region](mega-course-lsci-gains-three-semesters.md) — related

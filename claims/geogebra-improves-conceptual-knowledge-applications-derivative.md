@@ -49,3 +49,4 @@ True experimental pre-test post-test control group study with 31 experimental an
 - [Geogebra-assisted instruction shows no significant effect on procedural knowledge of applications of derivative](geogebra-no-effect-procedural-knowledge.md) — related
 - [Year 9 students learning circles with GeoGebra significantly outperformed the control group on the post test](geogebra-circles-posttest-outperformance.md) — related
 - [GeoGebra instruction with guided discovery worksheets produced significantly higher quadratic functions achievement than textbook-based instruction in a randomized pretest-posttest experiment](geogebra-guided-discovery-quadratic-achievement-gain.md) — related
+- [Students learning place value with the application achieved higher post-lesson scores than students taught by the traditional method](place-value-app-beats-traditional-posttest.md) — related

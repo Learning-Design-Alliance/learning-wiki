@@ -55,3 +55,4 @@ In the automatic evaluation study, Gemini-2.5-Pro evaluated the same 64 MCQs und
 - [The LLM-judge scoring pipeline for the two metrics aligns with human labels and human raters](llm-judge-pipeline-validated-against-human-raters.md) — related
 - [Expert-judged sentence selection by a tuned rhetorical parser succeeded, but student reactions to key-sentence highlighting were mixed](awa-sentence-highlighting-mixed-student-response.md) — related
 - [All five LLMs answered every MCQ and showed high short-term test–retest agreement (AC1 0.79–1.00), indicating reproducible performance without selective abstention](llms-answered-every-mcq-high-test-retest-agreement.md) — related
+- [The underlying sentence similarity algorithm achieves Pearson correlations of 0.8753 for word similarity and 0.8794 for sentence similarity against benchmarks](sentence-similarity-benchmark-correlations.md) — related

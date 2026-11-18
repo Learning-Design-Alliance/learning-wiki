@@ -49,3 +49,4 @@ Effect size analysis reported alongside the score comparisons; ηp2 values are p
 - [Flipped physical classroom blended learning produced higher final exam scores than flipped virtual classroom blended learning and traditional learning](flipped-physical-classroom-higher-final-exam.md) — related
 - [Flipped classroom significantly improves practical exam scores over lecture-based learning (pooled SMD 0.50)](fc-practical-exam-smd-050.md) — related
 - [Flipped classroom design features — start-of-class quizzes, patient case discussion, and short pre-class videos — are each associated with advantages over traditional teaching](flipped-pharmacy-design-features-subgroups.md) — related
+- [Students in large-enrollment flipped introductory physics classes performed significantly better than students in traditional classes by the same instructors on identical quiz and final-exam questions](flipped-identical-questions-significant-gains.md) — related

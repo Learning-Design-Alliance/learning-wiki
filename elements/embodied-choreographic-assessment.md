@@ -51,7 +51,9 @@ Learners work in small groups to create a dance or movement sequence that repres
 - [Listening Palette](listening-palette.md) — a lighter-weight multimodal reflection task from the same study, often used earlier in a unit
 
 ## Examples
+
 - Youth choreographed a dance representing resonance as "small effort creating large impact," framing the physics concept through a social scenario of interpersonal influence, then revised it after peer feedback.
+- [Shadow screen performance in which students choreograph particle physics concepts with their bodies](../strategies/shadow-screen-particle-performance.md)
 
 ## Key Sources
 - Champion, D., Solomon, F., & Lammey, M. (2025). Embodying physics assessment: Reimagining formative assessment as a creative, multimodal, and culturally sustaining dialogic practice. *Journal of the Learning Sciences, 34*(4), 474-525. [https://doi.org/10.1080/10508406.2025.2569583](https://doi.org/10.1080/10508406.2025.2569583)

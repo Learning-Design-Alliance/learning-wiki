@@ -54,3 +54,4 @@ The authors' three-part analysis examined Project 2061 and self-developed concep
 - [The authors conclude that students in Just-in-Time Teaching courses better understand Newton's Third Law after instruction than students in traditional lecture courses](jitt-better-newtons-third-law-understanding.md) — related
 - [Interactive explorations preceded by prediction, using motion sensors on air tracks, greatly improve student understanding of force and motion concepts](predict-then-explore-air-track-improves-understanding.md) — related
 - [Secondary-school completers show persistent difficulties with basic physics concepts in mechanics, thermal phenomena and geometric optics on ENEM 2009–2014 items](enem-persistent-physics-concept-difficulties.md) — related
+- [Fourier-optics simulations combined with geometric and physical optics convey principles and real-world applications in classroom teaching](fourier-optics-classroom-simulations.md) — related

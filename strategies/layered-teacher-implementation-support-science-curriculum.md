@@ -90,6 +90,8 @@ In the evaluated trial, intervention teachers received a layered support package
 - [Train-the-trainer workshops to disseminate the program to residency programs](train-the-trainer-workshops-medical-physics-residency.md)
 - [Support faculty adoption and retention of RBIS through direct in-course help from a trained discipline-based science education specialist during initial implementation](direct-specialist-support-during-rbis-implementation.md)
 - [Distribute educational kits with in-service teacher training through local institutions](kit-distribution-with-in-service-training.md)
+- [Structure teacher professional development workshops as short, off-site events with grouped collaboration and iterative feedback rounds](nice-workshop-structure-strategy.md)
+- [Use professional development workshops that pair hands-on curriculum activities with a summary of classroom trial results to build teacher support](pdw-showcase-with-research-evidence-strategy.md)
 
 ## Examples
 -

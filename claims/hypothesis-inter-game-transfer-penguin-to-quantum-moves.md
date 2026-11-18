@@ -50,3 +50,4 @@ This is the article's second stated hypothesis, framed as an open research quest
 - [Students hold a strong belief that the numeric value of kinetic energy cannot exceed the numeric value of total energy when potential energy is negative](students-believe-kinetic-energy-cannot-exceed-total-energy.md) — related
 - [Many students believe potential energy cannot be negative](students-believe-potential-energy-cannot-be-negative.md) — related
 - [The computer-based implementation showed no significant difference from individual paper-based work with brief written answers](computer-based-no-better-than-individual-paper.md) — related
+- [Students playing the quantum guessing game developed progressively more sophisticated measurement and guessing strategies](students-develop-strategies-quantum-guessing-game.md) — related

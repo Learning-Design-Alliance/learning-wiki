@@ -53,3 +53,4 @@ Qualitative finding from semi-structured think-aloud interviews conducted during
 - [Students incorrectly claimed that two orthogonal polarizers in the MZI paths differ from a single polarizer only in that fewer photons reach the detectors](two-orthogonal-polarizers-interference-difficulty.md) — related
 - [A classical-indeterminism modification of the QRC program fails to reproduce anti-correlation at equal angles](classical-indeterminism-model-fails-anticorrelation.md) — related
 - [Think-aloud interviews with 15 upper-level undergraduate and graduate students identified common difficulties with single-photon MZI concepts](think-aloud-interviews-mzi-common-difficulties.md) — related
+- [A multidisciplinary art-physics laboratory on light polarization is reported by the author to make students more engaged and the learning of the physics concepts more effective](art-physics-polarization-lab-engagement.md) — related

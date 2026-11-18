@@ -52,6 +52,7 @@ A strategy of moving away from asynchronous essays as proxies for other forms of
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md)
 - [Redesign assessment so AI-generated text cannot substitute for student work: reflective, contextualised and project-based assignments](assessment-redesign-reflective-contextualised-assignments.md)
 - [Use online viva voce as an alternative when assessment duration cannot be kept as short as the invigilated original](online-viva-voce-alternative-open-book.md)
+- [Submit lab work in a 'lab article' format modeled on a research paper](lab-article-submission-format.md)
 
 ## Examples
 -

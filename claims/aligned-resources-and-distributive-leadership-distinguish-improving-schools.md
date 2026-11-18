@@ -64,3 +64,4 @@ Longitudinal field research on 12 Annenberg schools over five years. The report 
 - [Transition Leaders play a central role in coordinating collaboration between schools and stakeholders, but their effectiveness depends on sufficient flexibility and resources](transition-leaders-coordinate-collaboration.md) — related
 - [United States case: a grassroots network sustained and scaled active-learning innovations through leadership and networks rather than research, but remained at second-order change](remake-learning-network-scaled-without-research.md) — related
 - [Panelists identified distributed leadership, role clarity, and structured team functioning as a core collaboration domain](smh-collab-leadership-team-functioning-domain.md) — related
+- [The 4-H Study of Positive Youth Development found structured out-of-school time, leadership experiences, and adult mentoring play a vital role in youth success](4h-study-out-of-school-time-mentoring-vital.md) — related

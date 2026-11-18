@@ -59,3 +59,4 @@ Narrative synthesis in the review's discussion of fibreoptic intubation simulato
 - [Simulation-based training helps reduce and mitigate surgical skill decay, but its role is not yet fully investigated](simulation-mitigates-surgical-skill-decay.md) — related
 - [Low-fidelity airway training models can provide the same training results as high-fidelity counterparts at lower cost, according to studies cited by the authors](low-fidelity-models-match-high-fidelity-results.md) — related
 - [Predictive validity was shown in two simulators, with a positive correlation between simulator outcomes and future performance](ips-predictive-validity-positive-correlation.md) — related
+- [The review reports, citing Imam and Jarus, that stroke rehabilitation VR interventions showed significant improvement in outcomes favouring the VR group over control](vr-stroke-rehabilitation-outcomes-favour-vr-group.md) — related

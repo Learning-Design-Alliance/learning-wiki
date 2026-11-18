@@ -46,3 +46,4 @@ Questionnaire taken right before the final exam in Semester 2013, comparing sati
 
 ## Related Claims
 - [Students whose final exam scores declined relative to the midterm in the 1/2-lecture class preferred face-to-face lecture over group problem solving](declining-students-prefer-lecture.md) — related
+- [GTAs consistently rate the Orientation as useful and valuable and prefer its interactive activities over lecturing](gtas-rate-orientation-useful-interactive.md) — related

@@ -73,3 +73,4 @@ Same qualitative analysis of the four cohorts' feedback forms and team reports; 
 - [Both regulation of task performance and regulation of the collaboration process are important for effective CSCL](task-and-collaboration-regulation-both-important.md) — related
 - [Secondary students in CSCL devote much of their communication to regulating task performance, especially planning the task and monitoring task progress](cscl-groups-mostly-regulate-task-performance.md) — related
 - [Cooperative learning, computer-supported collaborative learning, and digital games probably improve learning.](cooperative-learning-cscl-and-digital-games-probably-improve-learning.md) — related
+- [Teamwork and collaboration emerge as a powerful, previously unanticipated outcome of the NITARP research experience](nitarp-teamwork-powerful-motivator.md) — related

@@ -54,6 +54,7 @@ The authors advocate that networks researchers (and scientists generally) engage
 - [Adapt and reuse existing outreach material, tailoring session length and topic selection to the audience](adapt-reuse-outreach-material-tailored.md)
 - [Pair a science culture venue with an active research programme so mediators are trained directly on live research data](scientist-sponsorship-trains-mediators-live-data.md)
 - [Design outreach experiments to be easily repeatable so teachers can incorporate them into their own lessons, and keep teachers central to the activities](repeatable-experiments-teachers-central-outreach.md)
+- [Sustain scientist participation in outreach by designing projects that capitalize on scientists' hobbies and creativity](capitalize-scientist-hobbies-for-sustainable-epo.md)
 
 ## Examples
 -

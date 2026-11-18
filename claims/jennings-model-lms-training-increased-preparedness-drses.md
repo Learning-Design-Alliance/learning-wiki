@@ -48,3 +48,4 @@ Randomized controlled trial (Koca and Arkan 2020, Turkey) of a Jennings Disaster
 - [PFA training improved nursing students' self-efficacy in disaster intervention and perception of disaster preparedness](pfa-training-improved-student-self-efficacy-preparedness.md) — related
 - [RAPID-PFA training improved nursing students' perceived competencies, disaster preparedness, helping capacity, and self-efficacy with effects maintained at follow-up](rapid-pfa-improved-student-competencies-maintained.md) — related
 - [Structured digital-based education improved nursing students' disaster literacy and disaster preparedness beliefs](structured-digital-education-improved-disaster-literacy.md) — related
+- [The PR:EPARe game, designed with LM-GM, showed positive outcomes in a cluster-randomized controlled trial of self-reported psychosocial preparedness for avoiding coercion](lm-gm-prerepare-rct-positive-outcomes.md) — related

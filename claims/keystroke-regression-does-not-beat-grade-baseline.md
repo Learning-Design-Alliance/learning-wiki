@@ -51,3 +51,4 @@ Regression results (RQ2): random forest, support vector machine, and naive Bayes
 - [Over the full writing process, only one of 54 keystroke features (percentage of long pauses between words) correlates significantly with final writing grade in ESL academic summaries](only-one-keystroke-feature-correlates-with-writing-grade.md) — reports the opposite
 - [On real tutor log data, the models beat mean-time prediction but most of the gain is captured by a simple baseline, and the learning extension slightly overfits](real-data-prediction-baseline-captures-most-gain.md) — related
 - [The proposed model's effectiveness was demonstrated by applying it to actual keystroke log datasets](tdlhmm-effectiveness-demonstrated-keystroke-datasets.md) — related
+- [Random forest and support vector machine models also failed to beat chance when predicting laboratory performance, supporting the null result](rf-svm-also-fail-beat-chance-lab-performance.md) — related

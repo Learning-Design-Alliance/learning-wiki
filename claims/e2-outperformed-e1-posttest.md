@@ -49,3 +49,4 @@ Tukey post-hoc comparison of the two experimental groups' post-test PPAT scores 
 - [Tukey post-hoc comparisons show each Advance Organizer group significantly outperformed each control group on the poetry post-test](tukey-ao-groups-beat-controls-poetry.md) — related
 - [Descriptive gains show the experimental group's attitude change exceeded the control group's, and pretesting had no effect on the intervention](pi-attitude-gain-pretesting-null.md) — related
 - [The only significant pairwise post-test difference in attitudes was between two e-learning-taught groups differing only in pre-test exposure, favouring the pre-tested group](pretest-presence-drove-attitude-difference.md) — reports the opposite
+- [The developed application met the 80/80 efficiency standard with during-lesson and posttest performance of 89.07/91.84](place-value-app-efficiency-89-91-exceeds-80-80.md) — related

@@ -58,3 +58,4 @@ Qualitative analysis of Kendra's anomalous statements in group A's episodes. The
 - [In a shadows-and-light tutorial episode, evidence supports the individual, not the group, as the unit of cognitive analysis](individual-unit-shadows-light-episode.md) — related
 - [In episodes with no clusters, students were not metacognitively engaging in each other's ideas; one student dominating conversation precluded nodes](no-clusters-no-mutual-metacognitive-engagement.md) — related
 - [The predominance of alpha shifts implies group members share similar framings and can easily reach consensus about what should occur next in problem solving](alpha-shift-dominance-similar-framing.md) — related
+- [Students' transition into a sensemaking frame is accompanied by a verbalized question or statement of uncertainty that names a perceived gap or inconsistency in understanding](question-marks-sensemaking-entry.md) — a narrower finding that bears on this claim

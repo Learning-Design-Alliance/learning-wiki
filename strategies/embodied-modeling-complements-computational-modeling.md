@@ -52,6 +52,7 @@ Throughout the year the teacher connected ViMAP modeling to out-of-computer expe
 - [Body-motion graph construction with a real-time position sensor as an introductory activity for position and velocity concepts](go-motion-walk-graph-position-velocity.md)
 - [Design complementary computational and non-computational modeling activities to support teacher adoption of computational modeling](complementary-computational-noncomputational-modeling.md)
 - [Use embodied modeling activities to prepare and deepen agent-based programming, with perspective-taking across agent types](embodied-modeling-before-agent-based-programming.md)
+- [Agent-based modeling as pedagogical approach for emergent mathematical behavior](agent-based-modeling-emergent-math-strategy.md)
 
 ## Examples
 -

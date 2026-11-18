@@ -55,3 +55,4 @@ Multivariate linear regression in the cohort of 1634 graduates found "female gen
 - [Female gender and private school attendance predict high achievement in the socio-demographic model but are overshadowed by health behaviors](gender-school-type-overshadowed-by-health-behaviors.md) — related
 - [Age and gender show no significant effect on academic success in Master of Public Health students](age-gender-no-significant-effect-mph.md) — reports the opposite
 - [Higher age, female gender and more time spent on self-study each predict higher GPA among occupational therapy students, controlling for study approaches](age-gender-selfstudy-predict-ot-gpa.md) — related
+- [Standardized admission tests introduced since the 1940s were found to be better predictors of gender and color than of professional success, keeping women and minorities out of top schools](standardized-tests-predict-demographics-not-success.md) — reports the opposite

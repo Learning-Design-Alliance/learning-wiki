@@ -48,3 +48,4 @@ Attitudinal pre/post Likert questionnaire results from the Year 9 twenty-lesson 
 - [Female students show greater increases in interest and performance than male students, closing initial gender gaps](einstein-first-gender-equity-gains.md) — possibly the same claim (merge candidate)
 - [The Einstein-First programme improved students' interest in physics, with female students' interest rising from 50% to nearly match males' initial 80%](einstein-first-female-interest-increase.md) — related
 - [Girls started with lower interest in science than boys but gained significantly more, resulting in equal post-intervention interest](girls-lower-initial-interest-higher-gain.md) — related
+- [Attitudinal scores rose modestly from pre-test to post-test after the intervention, in one uncontrolled pre-post study, despite ceiling effects; girls' conceptual scores rose more than boys'](attitude-gender-improvement-einsteinian-intervention.md) — related

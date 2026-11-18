@@ -46,6 +46,7 @@ The article recommends deploying real-time, data-driven visualizations next to g
 
 - Breakout Visualization Platform
 - [Deploy the LoA repeatedly over time with real-time aggregate reporting within a community that owns the data and process](repeated-loa-with-real-time-aggregate-reporting.md)
+- [Use VR to support interdisciplinary communication in research and education](vr-for-interdisciplinary-communication-strategy.md)
 
 ## Examples
 -

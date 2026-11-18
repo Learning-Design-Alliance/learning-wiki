@@ -26,7 +26,8 @@ Derive is a computer algebra system developed by Soft Warehouse for performing n
 - [Computer assisted instruction with Derive reduced misconceptions and raised understanding across all six derivative attainments](../claims/derive-instruction-reduces-derivative-misconceptions.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [SageMath](sagemath.md)
 
 ## Key Sources
 - Kaplan, A., Ozturk, M., & Ocal, M. F. (2015). Relieving of misconceptions of derivative concept with derive. International Journal of Research in Education and Science (IJRES), 1(1), 64-74. http://www.ijres.net

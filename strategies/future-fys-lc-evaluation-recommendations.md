@@ -48,6 +48,7 @@ The article recommends several improvements to future evaluations of FYS and FYS
 ## Related Strategies
 
 - [Use a Freshman Interest Group (FIG) model learning community as a resource-parsimonious retention intervention](fig-model-learning-community-undecided.md)
+- [Evaluate curriculum reform with long-term follow-up surveys after graduation, not student evaluations](long-term-followup-curriculum-evaluation.md)
 
 ## Examples
 -

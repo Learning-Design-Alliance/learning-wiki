@@ -55,3 +55,4 @@ Observational study using the BROMP protocol across four sessions; researchers c
 - [Automated detectors of disengaged behaviors inferred from interaction-log data alone reached AUC over 0.8 for gaming and correlated 0.55 with observed off-task behavior](sensor-free-disengagement-detectors-accuracy.md) — related
 - [Digital game loading time caused issues but students had no significant navigation problems once the game loaded.](hero-elementary-game-loading-time-navigation-issues.md) — related
 - [Percentage of on-topic ties over time revealed distinct group behaviors, with Group 2 declining toward off-topic and Group 3 staying on-topic](on-topic-percentage-group-differences.md) — related
+- [Off-task interactions during assigned tasks drop sharply over the course of the two-week IMPRESS program, from 15% of ties on day 2 to 3% on day 7](off-task-ties-decrease-impress-program.md) — related

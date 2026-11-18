@@ -43,6 +43,7 @@ The paper presents collaboration between Indigenous and non-Indigenous academics
 
 - [Cultivation of Multiple Ways of Knowing and Making Meaning](cultivate_multiple_ways_of_knowing_and_making_meaning.md)
 - [Base inclusive-strategy training on indigenous pedagogies and enable use of advanced evidence-based techniques](indigenous-pedagogy-training-inclusive-strategies.md)
+- [Incorporating non-Western cosmologies into ngVLA education through indigenous talks, STEAM projects, and Star Parties](non-western-cosmologies-ngvla-education.md)
 
 ## Examples
 -

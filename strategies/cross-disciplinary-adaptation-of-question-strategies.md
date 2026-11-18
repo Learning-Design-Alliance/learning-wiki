@@ -43,6 +43,7 @@ In future work, the authors recommend extending the framework beyond computer sc
 - [Design questions with engineered knowledge gaps LLMs cannot bridge alone, via non-existing scenarios and guided mathematical reasoning](engineered-knowledge-gap-question-design.md)
 - [Re-arrange and extend the web-assisted flipped-classroom activity materials to other science subjects and disciplines](rearrange-web-assisted-materials-other-subjects.md)
 - [Adapt the blended online-PBL-CBL framework to other surgical disciplines and incorporate AI-assisted learning](adapt-blended-framework-other-disciplines-ai-future.md)
+- [Adapt the four-question unit-test design to the local syllabus while preserving coherence](adapt-unit-test-design-to-syllabus.md)
 
 ## Examples
 -

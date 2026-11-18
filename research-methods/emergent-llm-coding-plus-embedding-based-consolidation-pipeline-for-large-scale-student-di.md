@@ -26,7 +26,8 @@ A two-step methodological framework, framed as the LLM analog of open coding in 
 - [Student discourse with a Socratic AI physics tutor concentrates sharply: of 357 consolidated categories, the top 25 cover roughly half of all student turns](../claims/ai-tutor-discourse-concentrates-top-categories.md) [+M]
 
 ## Related Research Methods
--
+
+- [Taxonomy of questionable research practices in student lab notes](taxonomy-of-questionable-research-practices-in-student-lab-notes.md)
 
 ## Key Sources
 - Syed Furqan Abbas Hashmi and N. Sanjay Rebello. (2026). A bottom-up taxonomy of student discourse with a Socratic AI physics tutor. https://arxiv.org/abs/2608.07373

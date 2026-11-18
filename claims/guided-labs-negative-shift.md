@@ -52,3 +52,4 @@ In the aggregate data set (N = 4915), guided-only students' overall E-CLASS scor
 - [Shift patterns differ by course level: open-ended activities produced significant positive shifts only in beyond-first-year courses](course-level-shift-pattern-open-ended.md) — related
 - [First-year physics lab students' overall E-CLASS scores decline significantly over one semester of instruction (d = −0.15)](fy-lab-e-class-overall-negative-shift.md) — a broader claim this one bears on
 - [Students in Traditional first-year physics labs show a significant negative shift in E-CLASS scores, while students in Transformed courses do not shift significantly](traditional-labs-negative-eclass-shift-transformed-none.md) — related
+- [The transformed lab course produced no statistically significant difference in overall post-instruction E-CLASS scores compared to the original course](lab-transformation-no-overall-eclass-change.md) — related

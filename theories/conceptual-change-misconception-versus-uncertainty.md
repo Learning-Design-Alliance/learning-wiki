@@ -47,6 +47,7 @@ The article applies conceptual change theory to teacher knowledge of dyslexia, a
 
 - [Diagnose whether teachers hold misconceptions or uncertainties about dyslexia before designing training](../strategies/diagnose-misconception-versus-uncertainty-before-dyslexia-training.md)
 - [Conceptual Change](../strategies/conceptual-change.md)
+- [Train teachers to diagnose intuitive conceptions and misconceptions with concept tests in their own classrooms](../strategies/concept-tests-misconception-diagnosis-strategy.md)
 
 ## Key Sources
 - Erin K. Washburn, Benjamin C. Heddy, Emily Binks-Cantrell, Tiffany Peltier. (2022). What do teachers know about dyslexia? It’s complicated! The State Education Standard. https://www.nwea.org/research/publication/what-do-teachers-know-about-dyslexia-its-complicated/

@@ -50,3 +50,4 @@ Linear regression with final exam score as dependent variable across five semest
 - [Weekly formative midterms improve final exam performance on higher-order items but not on remember-level items in introductory biology](weekly-formative-midterms-higher-order-gains.md) — related
 - [Combined grades in the three prerequisite courses are the best available predictor of E&M exam performance at the start of the semester](prerequisite-grades-predict-em-exam-performance.md) — related
 - [Library homework scores correlate strongly with midterm and final exam scores for both distance and in-class learners](geas-homework-correlates-with-exams.md) — related
+- [Students who returned the optional multiple-choice homework gained 0.13 points between level test and final grade, while non-participants lost 0.02](sst-homework-participants-gain-013-nonparticipants-002.md) — related

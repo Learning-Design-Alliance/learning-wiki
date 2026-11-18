@@ -55,3 +55,5 @@ One-way ANOVA on post-test SADQ attitude scores of all 300 students in the four 
 - [Students taught with structured inquiry report more favourable attitudes and perceptions than conventionally taught students](structured-inquiry-favourable-student-attitudes-perceptions.md) — related
 - [Control group students receiving only the standard science curriculum showed no significant change in attitude across pretest, posttest and monitoring test](control-group-no-attitude-change.md) — related
 - [Project based learning has a positive effect on students' attitudes towards classification of organisms](pbl-positive-attitude-classification.md) — related
+- [No significant difference between attitude and motivation scores of the respondents towards learning physics](no-significant-difference-attitude-versus-motivation-guido.md) — reports the opposite
+- [Engineering and technology students show no significant difference in attitudes towards learning physics](no-significant-difference-attitudes-physics-guido.md) — related

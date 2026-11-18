@@ -13,7 +13,7 @@ generated:
 # Epistemic Beliefs
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 64 claims (47 show a difference, 13 mixed, 4 no difference) · 40 studies (10 causal, 6 review, 6 associational, 6 qualitative, 6 design, 3 quant-synthesis, 3 theoretical), `q1`–`q3` · 3 of 40 report an effect size · 64 claims rest on one study
+> **Evidence** · 68 claims (51 show a difference, 13 mixed, 4 no difference) · 44 studies (10 causal, 9 qualitative, 7 associational, 6 review, 6 design, 3 quant-synthesis, 3 theoretical), `q1`–`q3` · 3 of 44 report an effect size · 68 claims rest on one study
 
 ## Description
 Epistemic (or epistemological) beliefs are what a learner takes knowledge and knowing to be. Learners who see knowledge as certain, simple and given by authority tend to read conflicting sources less critically and to expect quick answers; learners who see it as tentative and evidence-based integrate sources and argue more. Beliefs are measured by questionnaires and interviews and vary by domain. They predict comprehension of conflicting texts and argumentation, moderate inquiry-based designs, and are an outcome that instruction in the nature of science or in sourcing can change.
@@ -96,6 +96,10 @@ Epistemic (or epistemological) beliefs are what a learner takes knowledge and kn
 - [Immersive inquiry research experiences produced significant gains in teachers' understanding of the nature of science and in their students' understanding](../claims/immersive-research-teacher-nos-gains.md) [+M] — measured as an outcome of the instruction studied
 - [Student buy-in matters for PER-based pedagogies: explicitly discussing that struggling is integral to learning, and improving students' attitudes and beliefs about physics, supports motivation and learning](../claims/student-buy-in-struggle-physics-beliefs.md) [+M] — measured as an outcome of the instruction studied
 - [The attitudinal-gain advantage of Framework-oriented students was prominent only within Health Science majors, not Biology or other Natural Science majors](../claims/orientation-gain-effect-limited-to-health-majors.md) [~M] — an instructional effect differs with it
+- [Health science majors begin and end the course more novice-like and with lower FCI gains and course grades than biology and other natural science majors](../claims/health-science-majors-lower-course-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [Three-quarters of NITARP educator participants self-report some or major change in their understanding of the nature of science after the year-long research experience](../claims/nitarp-nature-of-science-self-reported-change.md) [+M] — measured as an outcome of the instruction studied
+- [A life-science student with initially high physics anxiety can come to report using physics to reason through everyday phenomena, contrasting the common deterioration of relevance beliefs](../claims/contrasting-case-student-finds-physics-relevant-in-daily-life.md) [+M] — measured as an outcome of the instruction studied
+- [MPEX Reality Link scores typically deteriorate over a semester of physics instruction](../claims/mpex-reality-link-negative-shift-instruction.md) [+W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Can instruction shift learners' views of how scientific knowledge is made and judged, and do the shifts last?* [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](../claims/both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) [+M]

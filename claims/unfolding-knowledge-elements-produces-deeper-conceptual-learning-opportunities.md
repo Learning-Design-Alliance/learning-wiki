@@ -65,3 +65,4 @@ Eight experienced mathematics teachers using the same conceptually-focused volum
 - [Knowledge of creating opportunities for generative work alone was insufficient to produce generative instruction when lesson questions required only lower-order cognitive skills](generative-work-knowledge-insufficient-without-challenging-questions.md) — related
 - [Mathematics in physics fills multiple epistemic roles: physical relation, calculation framework, web of ideas, and packaging of rules](epistemic-complexity-math-in-physics.md) — related
 - [Students' ADK in high school physics centers on using correct procedure to produce correct answers rather than conceptual understanding](student-adk-procedure-over-conceptual-understanding.md) — related
+- [Drawing physical terms helps students develop deeper understanding of the concepts behind the terms](drawing-terms-deepens-physics-concept-understanding.md) — related

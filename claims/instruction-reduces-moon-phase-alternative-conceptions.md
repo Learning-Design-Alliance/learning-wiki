@@ -50,3 +50,4 @@ Narrative review attributing this to Trundle et al. (2002) on Moon phases: "el p
 - [On distractor-driven science items, instruction can first strengthen students' attraction to an alternative conception before that preference declines](instruction-can-raise-attraction-to-alternative-conceptions-before-decline.md) — related
 - [Preservice elementary teachers hold robust non-scientific conceptions of basic astronomical notions](preservice-teachers-astronomy-misconceptions.md) — related
 - [The proportion of students endorsing astrology's usefulness decreased after the course, with 89% post-course holding that astrology lacks evidential support](astrology-endorsement-decreased-after-astronomy-course.md) — related
+- [Including astronomy topics improves science literacy and specific competencies, with many effect sizes of 0.8 or larger](astronomy-inclusion-improves-science-literacy.md) — a broader claim this one bears on

@@ -48,6 +48,7 @@ The study operationalized peer teaching by embedding a female student teaching a
 - [Peer Tutoring](peer-tutoring.md)
 - [Navigator-Tourist Peer Learning](navigator-tourist_peer_learning.md)
 - [Recruit former participants with international backgrounds as peer tutors for international students](recruit-international-background-former-participants-as-tutors.md)
+- [Staff mega-course collaborative work with trained undergraduate peer teaching assistants recruited from former high-performing students](peer-teaching-assistants-mega-course.md)
 
 ## Examples
 -

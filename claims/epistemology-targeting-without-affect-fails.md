@@ -74,3 +74,4 @@ Episode B from the interview: asked whether knowing physical aspects matters for
 - [Two interview episodes disconfirmed an affect-free model of Judy's epistemological dynamics: a reversal toward conceptual reasoning and an unchanged dismissal of its importance](episodes-disconfirm-affect-free-model.md) — possibly the same claim (merge candidate)
 - [An affectively positive experience of informal conceptual reasoning temporarily reversed Judy's stance that conceptual reasoning is useless](positive-affect-reversed-conceptual-reasoning-stance.md) — related
 - [In a clinical interview, an undergraduate engineering student distinguished conceptual from equation-based problems and expressed repeated annoyance at conceptual problems](judy-annoyance-at-conceptual-problems.md) — related
+- [Even high-performing students may master calculation techniques without knowing what they are for (author's observation)](calculation-skill-without-application-asian-paradox.md) — related

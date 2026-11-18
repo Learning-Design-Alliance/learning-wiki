@@ -49,3 +49,4 @@ Repeated-measures ANCOVA comparing 11 experimental and 9 control children with A
 - [The intervention produces significantly greater object control skill gains than no intervention in young children with ASD](motor-intervention-improves-object-control-asd.md) — related
 - [Locomotor skill gains plateau after about 4 weeks of the high-dosage intervention, while object control gains continue between weeks 4 and 8](motor-intervention-dosage-plateau-pattern.md) — related
 - [The motor skill intervention does not significantly change accelerometer-measured physical activity levels in young children with ASD](motor-intervention-no-pa-change-asd.md) — related
+- [The review reports, citing Didehbani et al., that young adults with high-functioning autism showed significant increases on social cognitive measures after VR social cognition training](vr-social-cognition-training-autism-significant-gains.md) — related

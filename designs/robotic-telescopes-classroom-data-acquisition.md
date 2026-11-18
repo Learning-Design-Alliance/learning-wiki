@@ -42,7 +42,8 @@ The SalsaJ platform is complemented by remote observing tools in radio and optic
 - 
 
 ## Related Designs
-- 
+
+- [PIRATE robotic telescope facility for distance-teaching practical astronomy](pirate-remote-telescope-facility.md)
 
 ## Examples
 -

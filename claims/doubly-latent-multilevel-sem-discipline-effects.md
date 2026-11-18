@@ -51,3 +51,4 @@ Methodological contribution of the study: the authors state they assessed the im
 - Positive school-average achievement effects on subsequent achievement can be phantom effects that disappear under doubly-latent modeling with covariates — related
 - [Verbal achievement mediates most relations between classroom disciplinary problems and motivation constructs](verbal-achievement-mediates-discipline-motivation-relations.md) — related
 - [Student, student/home, and school factors explain significant variance in student- and school-level mathematics motivation](ecology-factors-explain-variance-math-motivation.md) — related
+- [On a sample multilevel dataset, the estimated association between SAT verbal scores and FCI post-test scores changes sign and size depending on whether data are disaggregated, aggregated, or modeled with HLM](modeling-method-changes-sat-fci-association.md) — a narrower finding that bears on this claim

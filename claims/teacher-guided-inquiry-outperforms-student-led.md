@@ -141,3 +141,4 @@ This synthesis analyzed 138 studies conducted between 1984 and 2002 addressing t
 - [Effectiveness of inquiry-based curricula in K–12 is higher when learners receive more guidance and when learners are older, but meta-analytic findings are mixed and underwhelming](inquiry-k12-effectiveness-higher-with-guidance-and-age.md) — a broader claim this one bears on
 - [Students given minimal guidance engaged in discovery learning minimally, with low overall simulator usage](minimal-guidance-low-simulator-usage.md) — related
 - [Students and teachers reported a need to balance student-directed inquiry with teacher-directed instruction when using the simulation](fgd-balance-student-inquiry-teacher-instruction.md) — related
+- [Teacher guidance more than doubles the effect of inquiry-based learning in science](teacher-guidance-moderates-inquiry-based-science-learning.md) — related

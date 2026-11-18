@@ -53,3 +53,4 @@ Career-stage ANOVA in the 109-respondent survey revealed "significant difference
 - [The negative association between AI-assisted writing and team age is strongest among the youngest teams](ai-writing-age-effect-strongest-junior-teams.md) — related
 - [Academics' identity reconstruction through technology integration varies across career stages](career-stage-differences-identity-reconstruction-technology.md) — related
 - [Perceived career development benefits increase with year of study, with significant differences between early and later years](career-benefit-perceptions-increase-by-year.md) — related
+- [Barrier–engagement-time correlations vary by career stage: skills barriers for the youngest, academic and local community barriers for mid-career researchers](epo-barrier-correlations-by-age.md) — related

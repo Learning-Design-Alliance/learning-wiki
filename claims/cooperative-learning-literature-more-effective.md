@@ -48,3 +48,4 @@ Narrative background assertion in the introduction, attributed by the author to 
 - [In secondary-school research, cooperative learning beat frontal teaching in 68% of comparisons, with STAD most and Jigsaw least successful](secondary-cooperative-learning-newmann-thompson.md) — related
 - [The achievement effect of cooperative learning differs significantly across student grade levels, largest at university level (d+ = 1.33)](cooperative-learning-achievement-grade-moderator.md) — related
 - [A 1994 adult-literacy practice guide asserts, citing no specific study, that primary and secondary students learn more through non-competitive collaborative group work than in individualized competitive classrooms](collaborative-group-work-beats-competitive-classrooms-k12.md) — related
+- [How an instructor implements active learning is perhaps the most important factor in determining student learning gains](implementation-quality-determines-learning-gains.md) — related

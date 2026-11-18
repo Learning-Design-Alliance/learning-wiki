@@ -50,3 +50,4 @@ Observational finding from the paired three-stage study of 11 surgeons: the arti
 - [The VR group scored significantly lower than controls at week 2, reflecting an initial learning curve with the VR system](vr-initial-learning-curve-week-2.md) — related
 - [Mid-range degradation is conditioned on task-specific adaptation: it is most severe for few-shot LLMs with few examples, decreases with more task-specific data, and is mildest for the fine-tuned encoder](task-specific-adaptation-conditions-mid-range-degradation.md) — a broader claim this one bears on
 - [Performance in the VR suture training improved with practice repetitions but reached a plateau after 2 to 4 practices](vr-suture-practice-plateau.md) — related
+- [MAPLE's adaptation needs improvement for weak simulated students, whose estimated skill declined after initial progress](maple-weak-students-needs-tuning.md) — a narrower finding that bears on this claim

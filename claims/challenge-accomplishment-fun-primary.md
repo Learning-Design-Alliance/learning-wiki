@@ -57,3 +57,4 @@ Focus group thematic analysis (N = 12 students): students described preferring m
 - [Frontal teaching keeps learners within LOTS-like activities and gives a misguided idea of context-search effort](frontal-teaching-lots-context-misguidance.md) — related
 - [Medical students perceive elearning as intrinsically lower value than face-to-face teaching, generating a sense of injustice that obstructs engagement](elearning-injustice-theme-medical-students.md) — related
 - [Authors judge the revised tiered scheme successful, with advanced tasks rewarding and learnable by choice](authors-judge-tiered-scheme-works-student-feedback.md) — a narrower finding that bears on this claim
+- [Students experienced a sense of intrinsic motivation to study physics in response to the desire to find explanations for physical phenomena](contemplative-practices-intrinsic-motivation-physics.md) — related

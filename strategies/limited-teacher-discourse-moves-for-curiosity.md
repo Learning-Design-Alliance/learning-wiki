@@ -44,7 +44,8 @@ This strategy holds that in collaborative student-led discourse environments tea
 - [Teacher invitations to generate ideas and formulate new questions (T:IND, T:ID) were not identified as curiosity antecedents in the network analysis](../claims/teacher-invitation-moves-not-curiosity-antecedents.md) [~M]
 
 ## Related Strategies
-- 
+
+- [Teacher-as-facilitator discussions driven by stimulating questions, with explicit promotion of proper scientific language](facilitator-question-driven-scientific-language.md)
 
 ## Examples
 -

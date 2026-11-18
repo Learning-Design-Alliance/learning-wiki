@@ -55,3 +55,4 @@ Open-ended survey responses from 1177 faculty across 11 faculties were coded wit
 - [Teachers report a need for faster lesson planning and material preparation to gain time for higher-value activities](teachers-need-faster-lesson-planning.md) — related
 - [Time was the most pervasive resource barrier, identified by two-thirds of studies](time-barrier-two-thirds-pal-studies.md) — related
 - [Faculties cite proven effectiveness, relief of medical teachers, development of practical teaching and exam preparation as main motives for PAL implementation](pal-implementation-motives-survey.md) — related
+- [Attracting augmented reality for educators requires developing new methodologies, didactic materials and updating the curriculum](ar-requires-new-methodologies-and-materials.md) — related

@@ -47,3 +47,4 @@ Observational analysis of one twenty-student fall 2015 Electromagnetism I sectio
 ## Related Claims
 - [Grades in the calculus-based physics course correlate 0.75 with upper-division Physics GPA, with slightly higher grades in 25X](phys-25x-upper-division-correlation-075.md) — related
 - [ACE-M-taught Calculus 1 students earned a higher average Calculus 2 grade (3.09 vs 2.81) with different instructors; the physics transfer effect was smaller and not statistically significant](ace-m-transfer-to-subsequent-courses.md) — related
+- [Behavioral zeros can lower course grades substantially for students who otherwise perform well](behavioral-zeros-lower-grades-of-strong-students.md) — related

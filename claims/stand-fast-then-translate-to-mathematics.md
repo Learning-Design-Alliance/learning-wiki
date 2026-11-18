@@ -48,3 +48,5 @@ Case-study analysis of the oral exam episode: the student stands fast on his dia
 - [Students build new meaning onto durable representations using evanescent representations during problem solving](students-build-meaning-on-durable-representations-with-evanescent.md) — related
 - [Graduate students who can calculate divergence and curl mathematically without difficulty still struggle to recognize them in diagrammatic representations of vector fields](grads-calculate-but-not-recognize-divergence-curl-diagrams.md) — related
 - [Most physics graduate students (76%) chose the diagrammatic approach over the provided equations on the standing-wave problem](experts-prefer-diagrammatic-approach.md) — related
+- [A student solving a complex physics problem builds compound representations by linking semiotic resources across multiple modes](compound-representations-built-by-coordinating-resources.md) — related
+- [The disciplinary affordance of one semiotic resource can hinder the use of another during problem solving](disciplinary-affordances-can-hinder-other-resources.md) — related

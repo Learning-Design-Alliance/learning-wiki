@@ -59,9 +59,11 @@ The game's power comes from forcing learners to maintain and update a shrinking 
 5. Rotate roles; when students become number-holders, require them to plan a clue sequence in advance.
 
 ## Related Strategies
+
 - Twenty Questions — the same information-seeking structure applied to non-numerical domains
 - Number Talks — complementary routine for building magnitude and computation reasoning through discourse
 - Guess My Rule — the property-based clue variant focused on pattern and function rather than a single value
+- [Follow-on programming project in which advanced students implement an algorithmic Scientist player](follow-on-programming-project-statistical-estimation.md)
 
 ## Related Elements
 - [Application of Knowledge](../elements/application-of-knowledge.md) — each guess applies number properties to a live problem

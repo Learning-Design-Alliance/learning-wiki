@@ -46,6 +46,7 @@ A specific, implementable staffing strategy: a pathology resident is awarded an 
 - [Strategic staffing partnership model funds resident stipends while meeting LEA paraeducator and substitute staffing needs](strategic-staffing-partnership-model.md)
 - [District investment of LCFF funds in residency stipends written into Local Control and Accountability Plans as a workforce development strategy](lcff-district-funded-residency-stipends.md)
 - [Develop dedicated online competency modules combined with blended learning and telehealth interactions for clinical skills](blended-learning-telehealth-modules-optometry-strategy.md)
+- [Web-based training platform with incremental contribution and persistent container environments](web-based-hep-training-platform-strategy.md)
 
 ## Examples
 -

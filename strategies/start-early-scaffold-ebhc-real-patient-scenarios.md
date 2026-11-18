@@ -43,7 +43,8 @@ Coordinators recommended beginning EBHC teaching in the preclinical years to lay
 - [Role modelling of EBHC by clinicians in the clinical setting is an important facilitator of student learning](../claims/role-modelling-facilitates-ebhc-learning.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Assess with new situations and start from real-life problems rather than repeating lecture tasks](new-situations-assessment-strategy.md)
 
 ## Examples
 -

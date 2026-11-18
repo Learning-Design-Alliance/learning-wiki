@@ -51,3 +51,4 @@ Binary logistic regression on the same 308 students (Nagelkerke R2 = 0.553; Hosm
 - [Intrinsic and extrinsic motivation each positively predict academic success, while amotivation shows no significant direct effect](motivation-predicts-academic-success-nursing-gpa.md) — related
 - [Students with prior online-learning experience report higher PNS and motivation and lower amotivation than inexperienced peers](prior-online-experience-higher-pns-motivation.md) — related
 - [Self-efficacy, intrinsic achievement motivation, and amotivation predict academic performance](self-efficacy-achievement-amotivation-predict-performance.md) — related
+- [In secondary education, intrinsic motivation and identified regulation show a moderately strong positive relation with school achievement, while amotivation shows a strong negative relation](sdt-regulation-types-school-achievement-review.md) — related

@@ -61,3 +61,4 @@ This is a single-course case study (q1) with two student pairs (n=4) and no comp
 - [Computational skills learned in classical mechanics transfer to other physics and mathematics courses, per the authors' experience](computation-skills-transfer-across-courses.md) — related
 - [Mathematics in physics fills multiple epistemic roles: physical relation, calculation framework, web of ideas, and packaging of rules](epistemic-complexity-math-in-physics.md) — related
 - [Students can conduct inquiry learning of science using teacher-created computer simulations, with more ambitious tasks including students creating and remixing their own simulations as representations of their understanding](ejs-simulations-support-inquiry-learning.md) — a broader claim this one bears on
+- [Computational activities can provide fertile ground for student sensemaking, as an existence proof from one case](computation-fertile-ground-sensemaking.md) — related

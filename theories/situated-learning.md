@@ -18,7 +18,7 @@ moved_from: [principle/situated-learning]
 # Situated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 26 claims (19 for, 5 mixed, 2 against) · 26 studies (8 causal, 8 qualitative, 5 review, 2 theoretical, 1 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 3 of 26 report an effect size · 24 claims rest on one study
+> **Evidence** · 27 claims (20 for, 5 mixed, 2 against) · 27 studies (9 qualitative, 8 causal, 5 review, 2 theoretical, 1 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 3 of 27 report an effect size · 25 claims rest on one study
 
 ## Description
 Situated learning holds that knowledge is inseparable from the social, material, and cultural contexts in which it is used. Learning is strengthened when it happens through participation in authentic practices rather than only through abstract decontextualized instruction.
@@ -57,6 +57,7 @@ Situated learning holds that knowledge is inseparable from the social, material,
 - [Some students perceived the weekly situated learning assignments as time-consuming and overly challenging](../claims/situated-learning-assignments-perceived-time-consuming-challenging.md) [~W]
 - [Students valued HoloLens for shared, instructor-guided collaborative learning, especially synchronized faculty pointing at structures](../claims/hololens-shared-instructor-guided-learning.md) [+W] — attached 2026-11-04 from Lin Joseph et al. (2026), which proposed "Situated Learning Theory as an analytic framework for mixed-reality anatomy instruction".
 - [Practice-based group-learning with familiar colleagues fostered a supportive environment and a shared base of observational competence in primary healthcare](../claims/shared-competence-base-group-learning-clinobsmunicipality.md) [+W] — attached 2026-11-07 from Alfstad E et al. (2025), which proposed "Situated learning and communities of practice as the explanatory frame for group-based competence development".
+- [A peer network, especially an engineering friend, supported a life-science student in making physics connections in social and everyday settings](../claims/peer-network-supports-everyday-physics-connections.md) [+W] — attached 2026-11-18 from Abhilash Nair et al. (2018), which proposed "Relevance operationalized as a conduit between settings, emerging situationally through systems of relationships, roles, and settings".
 
 ## The evidence by question
 - *Does instruction built around authentic tasks and contexts produce better learning and transfer than abstract, decontextualized instruction?* [Chicago classrooms with high-quality authentic intellectual assignments showed greater one-year ITBS gains than classrooms with low-quality assignments](../claims/authentic-assignments-greater-itbs-gains.md) [+M]

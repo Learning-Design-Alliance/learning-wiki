@@ -54,3 +54,4 @@ Questionnaire administered to the experimental group only, using the Turkish ada
 - [After using the game-based learning system, students report positive motivation, with about 80% satisfaction and 83% confidence](arcs-questionnaire-positive-motivation-satisfaction-confidence.md) — related
 - [Gamified educational robots increase all four learning-motivation dimensions (attention, relevance, self-confidence, satisfaction) in a STEM curriculum](gamified-robots-increase-stem-motivation.md) — related
 - [Students taught via CAS-based computer modeling showed increased motivation and higher self-estimated knowledge](cas-modeling-motivation-self-attestation.md) — related
+- [Reported benefits of educational augmented reality include motivation, attention, understanding, memorization, and safe experimentation](ar-reported-benefits-motivation-memorization.md) — related

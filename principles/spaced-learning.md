@@ -512,6 +512,7 @@ The article concludes that AI-generated podcasts are best positioned as a 'mobil
 
 - [Spread time-limited skills courses over several days in shorter sessions rather than massing practice on one day](../strategies/spread-skills-courses-over-several-days-strategy.md)
 - [Deliver procedural education through spaced simulation with deliberate practice: assisted step-by-step practice, an unassisted evaluation, and return sessions at 3–6 months](../strategies/spaced-deliberate-practice-procedure-curriculum.md)
+- [Three-week module structure distributing simulation, experiment, and comparison work across days](../designs/three-week-simulation-experiment-module-structure.md)
 
 ## Key Sources
 

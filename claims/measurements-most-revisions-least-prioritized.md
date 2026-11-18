@@ -66,3 +66,4 @@ Descriptive results from the same 35-instructor interview study reported alongsi
 ## Related Claims
 - [Instructors identify every Modeling Framework subtask as an important learning outcome for upper-division optics and electronics labs](instructors-identify-all-modeling-subtasks-important.md) — related
 - [About two-thirds of instructors listed three or more modeling subtasks as important](two-thirds-three-or-more-subtasks.md) — related
+- [Modeling is taken up differently in optics than in electronics lab courses, particularly for the comparisons subtask](domain-differences-optics-electronics-modeling.md) — related

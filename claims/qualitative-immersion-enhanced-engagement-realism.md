@@ -103,3 +103,4 @@ Semistructured interviews with all 54 experimental-group participants, analyzed 
 - [Participants experienced the virtual patient as supporting learner-centered education, with emotional engagement (eustress) and divided reactions to game-like elements](vp-mooc-learner-centered-eustress-game.md) — related
 - [Students receiving feedback report greater concentration and anxiety, while control students report more enjoyment](feedback-concentration-anxiety-tradeoff.md) — related
 - [Triage training improved staff knowledge, and live-victim and written-scenario formats showed no significant difference in learning outcomes](triage-training-improves-knowledge-format-comparison.md) — related
+- [Reported benefits of educational augmented reality include motivation, attention, understanding, memorization, and safe experimentation](ar-reported-benefits-motivation-memorization.md) — related

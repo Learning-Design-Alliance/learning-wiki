@@ -66,6 +66,7 @@ Grading homework completion measures compliance, not learning, and creates incen
 - [Frequent Low-Stakes Testing](frequent-low-stakes-quizzes.md) — a graded-but-low-stakes alternative that preserves retrieval benefits
 - [Replace frequent pass/fail tests with friendly, autonomy-supportive feedback sessions in high-stakes preclinical courses](friendly-feedback-replacing-formal-tests-strategy.md)
 - [Offer extra-credit incentives to encourage full effort on ungraded pre- and post-tests](extra-credit-incentive-concept-tests.md)
+- [Offer instructors grading alternatives that eliminate behavioral zeros](grading-alternatives-to-behavioral-zeros.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — homework becomes ungraded practice rather than a graded product

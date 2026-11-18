@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-18
 sources:
   - id: justyna-p-zwolak-2018
     resource: "https://doi.org/10.1119/perc.2017.pr.115"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-18 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 92% of Spring 2017 students perceived teamwork as valuable for success, but only about half reported working with peers even when teamwork was expected (60% before the group exam) or requested (55% on group assignments). [→ Justyna P. Zwolak 2018](#justyna-p-zwolak-2018)

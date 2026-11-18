@@ -106,3 +106,4 @@ Neither entry is the meta-analysis itself: both are practitioner digests restati
 - [With scrambled randomization and novel material, jigsaw produced no difference versus individualistic learning on a life-sciences test](jigsaw-vs-individualistic-null-sleep-cycle-e2.md) — reports the opposite
 - [Prior meta-analysis reported an effect size of 0.76 for academic controversy versus individualistic learning on achievement](johnson-johnson-controversy-meta-analysis-076.md) — a narrower finding that bears on this claim
 - [Controlled e-learning cases promote student satisfaction and are suggested for burnout prevention (second-hand reports)](elearning-cases-satisfaction-burnout-prevention.md) — related
+- [Collaborative student work works well in groups of 2–3, while larger groups develop sidelining power dynamics](srmp-small-group-collaboration.md) — a narrower finding that bears on this claim

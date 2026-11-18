@@ -52,3 +52,4 @@ Thematic analysis of interviews with 40 international MBBS students (18 high ach
 - [Facebook acted as part of the 'social glue' helping first-year students settle into university life, though most students did not see it as crucial to overcoming loneliness.](facebook-social-glue-settling-in.md) — related
 - [The most strongly endorsed student needs are more sleep, time with friends, and help coping with stress](top-endorsed-student-needs-sleep-friends-stress.md) — related
 - [First-year students specifically joined Facebook before university registration to make new face-to-face friends at university while keeping in touch with friends and family from home.](facebook-pre-registration-friend-making.md) — related
+- [A peer network, especially an engineering friend, supported a life-science student in making physics connections in social and everyday settings](peer-network-supports-everyday-physics-connections.md) — a narrower finding that bears on this claim

@@ -44,7 +44,8 @@ A recurring component of the first hour of each lab section in a first-semester 
 - [Reflection Responses Classify By Orientation And Major](../claims/reflection-responses-classify-by-orientation-and-major.md) [+M]
 
 ## Related Designs
-- 
+
+- [Weekly pre-laboratory cooperative group problem-solving exercise with metacognitive self-monitoring rubric](prelab-group-problem-solving-metacognitive-rubric-exercise.md)
 
 ## Examples
 -

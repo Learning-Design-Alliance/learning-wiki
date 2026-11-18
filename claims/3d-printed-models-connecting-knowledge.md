@@ -49,3 +49,4 @@ Thematic analysis of observations and focus group data. Field notes recorded var
 - [High-learning groups demonstrate more frequent and stronger cross-modal connections linking verbal explanations with digital representations and embodied gestures.](high-learning-groups-stronger-cross-modal-connections.md) — related
 - [Multi-modal representations created during collaboration act as metaphors that shape joint reasoning and meaning making](multimodal-representations-as-metaphors-joint-reasoning.md) — a broader claim this one bears on
 - [Students used manipulable de-articulated 3D printed bones to visualize anatomical structures and their positioning during palpation practice](3d-printed-models-visualization-anatomy.md) — related
+- [Students were highly engaged with the 3D-printed height models and largely accepted them as a helpful learning tool](student-acceptance-3d-height-models.md) — related

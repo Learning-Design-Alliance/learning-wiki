@@ -51,3 +51,5 @@ The study's stated null hypothesis was tested at the 0.05 alpha level using the 
 - [A one-sided t-test found the difference in mean student responses between team-teaching and traditional teaching to be statistically significant](t-test-significant-difference-teaching-methods.md) — related
 - [Scores rose from pre-test to post-test in one group with no comparison group](null-hypothesis-rejected-pre-post-english.md) — related
 - [Project based learning has a positive effect on students' attitudes towards classification of organisms](pbl-positive-attitude-classification.md) — related
+- [No significant difference between attitude and motivation scores of the respondents towards learning physics](no-significant-difference-attitude-versus-motivation-guido.md) — reports the opposite
+- [Engineering and technology students show no significant difference in attitudes towards learning physics](no-significant-difference-attitudes-physics-guido.md) — related

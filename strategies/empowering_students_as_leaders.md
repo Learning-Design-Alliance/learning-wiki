@@ -69,6 +69,8 @@ The strategy works through two mechanisms documented in the cooperative learning
 - [Use group roles, rotating roles, shared rubrics, and product-and-process debriefs to foster belonging in group work](group-roles-rubrics-debriefs-belonging.md)
 - [Train students to serve as discussion leaders within small online discussion groups](train-student-discussion-leaders.md)
 - [Rotate team leadership among young learners to build speaking and communication skills](rotating-team-leadership-young-learners.md)
+- [Rotate students through experimental roles and run a mid-session mini-conference to build collaboration](rotating-experimental-roles-mini-conference.md)
+- [Use weekly tutor feedback to move positive leaders toward a facilitation role and negative leaders toward positive leadership](weekly-tutor-feedback-to-shift-leader-roles.md)
 
 ## Examples
 - **Cooperative learning role cards** (Johnson & Johnson tradition): teams in a science class assign Facilitator, Recorder, Timekeeper, and Checker roles that rotate weekly; teachers report reduced off-task behavior among previously disruptive students given the Facilitator role.

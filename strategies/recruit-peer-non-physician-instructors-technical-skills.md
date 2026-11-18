@@ -48,6 +48,7 @@ Based on the majority of reviewed controlled studies showing basic practical ski
 
 - [Use trained student teaching assistants, with a pre-course didactical workshop, to expand hands-on ultrasound training despite instructor shortages](student-tas-for-ultrasound-instructor-shortage.md)
 - [Recruit former participants with international backgrounds as peer tutors for international students](recruit-international-background-former-participants-as-tutors.md)
+- [Staff mega-course collaborative work with trained undergraduate peer teaching assistants recruited from former high-performing students](peer-teaching-assistants-mega-course.md)
 
 ## Examples
 -

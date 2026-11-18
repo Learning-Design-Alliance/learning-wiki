@@ -58,3 +58,4 @@ Comparison of Quizzical participation between male and female students across bo
 - [The RCI shows a gender bias absent from the same course's homework, exam, and ATAR measures](rci-gender-bias-not-in-other-assessment.md) — related
 - [No gender gap appeared on the multiple-choice final exam, which included both conceptual and quantitative questions on similar topics](no-gender-gap-final-exam.md) — related
 - [In physics courses, gendered performance differences arise from timed exam scores, while female students modestly outperform males on homework and in-class response credit](exam-performance-source-of-gpd.md) — related
+- [Mechanics courses were a partial exception: some identical-question scores were significantly lower in flipped classes and the gender gap was generally not improved there](mechanics-flipped-outlier.md) — related

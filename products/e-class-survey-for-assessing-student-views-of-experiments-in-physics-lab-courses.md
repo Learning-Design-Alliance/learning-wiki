@@ -19,7 +19,7 @@ sources:
 # E-CLASS survey for assessing student views of experiments in physics lab courses
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 10 claims (8 for, 1 mixed, 1 against) · 7 studies (5 associational, 2 design), `q2`–`q3` · 6 of 7 report an effect size · 9 claims rest on one study
+> **Evidence** · 12 claims (10 for, 1 mixed, 1 against) · 8 studies (5 associational, 2 design, 1 causal), `q2`–`q3` · 6 of 8 report an effect size · 11 claims rest on one study
 
 ## Description
 E-CLASS is a pre/post survey assessment developed by physics education researchers to measure undergraduate students’ views, strategies, habits of mind, and attitudes concerning experimental physics.
@@ -36,6 +36,8 @@ E-CLASS is a pre/post survey assessment developed by physics education researche
 - **E-CLASS (Colorado Learning Attitudes about Science Survey for Experimental Physics)**: E-CLASS is a 30-item Likert-style survey measuring students' epistemologies and expectations about experimental physics, plus affect and confidence when doing experiments. Students rate prompts such as "Calculating uncertainties helps me understand my results better." from both their personal perspective and that of a hypothetical experimental physicist. It was validated through student interviews and expert review and tested for statistical validity and reliability across institutions and course levels, and is administered through a centralized system with a matched pre/post design. (Bethany R. Wilcox et al. (2016))
 - **E-CLASS: Colorado Learning Attitudes about Science Survey for Experimental Physics**: The E-CLASS is the survey instrument this study administers pre and post instruction in undergraduate physics lab courses. It is "a 30 item, Likert-style survey that targets students' epistemologies and expectations about the nature and importance of experimental physics", as well as affect and confidence. Students respond from their personal perspective and that of a hypothetical experimental physicist; scoring awards +1 for favorable, 0 for neutral, and −1 for unfavorable responses, giving a range of [−30, 30]. It was validated through student interviews, expert review, and statistical reliability testing across institutions and course levels. (Bethany R. Wilcox et al. (2016))
 - **E-CLASS survey for experimental physics**: The E-CLASS (Colorado Learning Attitudes about Science Survey for Experimental Physics) is a research-based, validated 30-item survey probing students' views about the nature and importance of experimental physics. Students rate agreement with statements such as "I am usually able to complete an experiment without understanding the equations and physics ideas that describe the system I am investigating," from both their own perspective in their lab course and the perspective of a hypothetical experimental physicist. It was reviewed by 23 practicing experimental physicists and validated with student interviews and statistical reliability testing. (Bethany R. Wilcox et al. (2017))
+- **E-CLASS and POS survey instruments as paired pre/post measures of views about experimental physics and project ownership**: E-CLASS is a 30-item Likert-style survey about views of experimental physics, scored expertlike per item; POS is a 16-item survey whose first 10 items probe responsibility, personal achievement, and connection to research projects, with agreement indicative of project ownership. In this study the instruments were administered pre- and post-project to 96 students (75% response rate), item scores collapsed to a 3-point scale (unfavorable −1, neutral 0, favorable +1), with E-CLASS totals ranging −30 to +30 and POS (first 10 items) −10 to +10. (Dimitri R. Dounas-Frazer et al. (2018))
+- **E-CLASS: Colorado Learning Attitudes about Science Survey for Experimental Physics**: E-CLASS is a research-based assessment developed in the authors' research group "with the goal of providing a quantitative measure of the effectiveness of [course] transformations." It consists of 30 statements about experimental physics rated on a 5-point Likert scale, each with a defined expert-like response validated by consensus of over 20 practicing experimental physicists and lab instructors. It measures beliefs, attitudes, and expectations about the nature of experimental physics, including habits of mind, emotional relationship with experimentation, and roles of practices such as making predictions and communicating results. (Benjamin Pollard et al. (2018))
 
 ### Claims
 - [Survey participation was low in about half of administered classes, with only 20 of 45 classes exceeding 40% matched pre/post response](../claims/eclass-low-response-rates-half-of-classes.md) [-W]
@@ -48,6 +50,8 @@ E-CLASS is a pre/post survey assessment developed by physics education researche
 - [First-year physics lab students' overall E-CLASS scores decline significantly over one semester of instruction (d = −0.15)](../claims/fy-lab-e-class-overall-negative-shift.md) [+M]
 - [Beyond-first-year lab students' overall E-CLASS scores do not shift significantly over one semester](../claims/bfy-lab-e-class-no-significant-shift.md) [+M]
 - [Students accurately predict expert-like E-CLASS responses on more than 80% of items in both FY and BFY courses](../claims/students-accurately-predict-expert-responses.md) [+M]
+- [Three E-CLASS items related to the transformation goals showed statistically significant favorable post-test shifts after the course transformation](../claims/three-eclass-items-significant-favorable-shift.md) [+M]
+- [The transformed lab course produced no statistically significant difference in overall post-instruction E-CLASS scores compared to the original course](../claims/lab-transformation-no-overall-eclass-change.md) [+M]
 
 ## Related Products and Programmes
 
@@ -64,6 +68,8 @@ E-CLASS is a pre/post survey assessment developed by physics education researche
 - Bethany R. Wilcox and H. J. Lewandowski. (2016). Open-ended versus guided laboratory activities: Impact on students' beliefs about experimental physics. arXiv:1608.01621. https://arxiv.org/abs/1608.01621
 - Bethany R. Wilcox and H. J. Lewandowski (2016). Developing skills vs reinforcing concepts in physics labs: Insight from E-CLASS. https://arxiv.org/abs/1611.02322
 - Bethany R. Wilcox and H. J. Lewandowski. (2017). Students’ views about the nature of experimental physics. https://arxiv.org/abs/1708.04226
+- Dimitri R. Dounas-Frazer and H. J. Lewandowski. (2018). Correlating students' views about experimental physics with their sense of project ownership. https://arxiv.org/abs/1807.00385
+- Benjamin Pollard and H. J. Lewandowski. (2018). Transforming a large introductory lab course: impacts on views about experimental physics. arXiv preprint. https://arxiv.org/abs/1807.04243
 
 # E-CLASS survey for assessing student views of experiments in physics lab courses
 

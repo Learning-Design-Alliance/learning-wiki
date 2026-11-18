@@ -56,3 +56,4 @@ Interview and log analysis of self-identified beginners in the AI-enabled sectio
 - [Allowing procedural constructs (branches, rules, loops, recursion) in an authoring tool dramatically raises authoring complexity and demands debugging support](procedural-authoring-constructs-raise-complexity.md) — related
 - [Emergency nurses hold a cautious acceptance attitude toward human-machine collaboration and manually verify AI outputs](nurses-cautious-acceptance-verify-ai-outputs.md) — related
 - [Students rarely cross-check ChatGPT outputs, and use it most on topics where they have least knowledge, increasing risk of absorbing errors](students-rarely-cross-check-chatgpt-errors.md) — related
+- [A model-verifying frame causes students to ignore instructional hints and resist searching for contradictory evidence](model-verifying-frame-ignores-instructional-hints.md) — related

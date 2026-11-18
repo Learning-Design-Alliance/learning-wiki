@@ -101,3 +101,4 @@ A second meta-analysis reported in the same section found introjected and extern
 - [The more specific the motivation measure, the more correlations with students' grades are found](specificity-predicts-grade-correlations.md) — related
 - [Autonomous motivation, controlled motivation, and study strategy are not associated with clerkship performance](motivation-strategy-not-associated-clerkship-performance.md) — reports the opposite
 - [Perceived competence, intrinsic motivation, external regulation, engagement, and perceived learning rose from pre-test to post-test in one group with no comparison group (path analysis)](sdt-path-engagement-mediation-tbl.md) — related
+- [In secondary education, intrinsic motivation and identified regulation show a moderately strong positive relation with school achievement, while amotivation shows a strong negative relation](sdt-regulation-types-school-achievement-review.md) — related

@@ -49,3 +49,4 @@ Authors' report on the initiative's 45 simulations over 24 months: they state "l
 - [The PDSA ramp simulations identified knowledge gaps, performance deficiencies, and latent safety threats that were addressed in real time and through later cycles.](pdsa-simulations-identified-gaps-and-lsts.md) — related
 - [Structured trauma resuscitation team training augmented by simulation improved teamwork domain ratings and reduced time to CT scanner, intubation, and operating room](simulation-augmented-team-training-improves-trauma-care-efficiency.md) — related
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
+- [NITARP teams function most efficiently with approximately five people: a mentor astronomer, a mentor teacher, and three new educators](nitarp-team-size-five-people.md) — related

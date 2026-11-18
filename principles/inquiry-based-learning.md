@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 103 claims (59 for, 34 mixed, 10 against) · 104 studies (40 causal, 20 quant-synthesis, 12 review, 12 theoretical, 9 design, 7 qualitative, 4 associational), `q1`–`q4` · 26 of 104 report an effect size · 89 claims rest on one study
+> **Evidence** · 104 claims (60 for, 34 mixed, 10 against) · 105 studies (41 causal, 20 quant-synthesis, 12 review, 12 theoretical, 9 design, 7 qualitative, 4 associational), `q1`–`q4` · 26 of 105 report an effect size · 90 claims rest on one study
 
 ## Conditional relationship
 
@@ -176,6 +176,7 @@ The heading is kept because tools look for it; new links land here unread. Re-re
 - [Students observed suspended, jamming cornstarch crystals in oobleck, illustrating its non-Newtonian origins](../claims/microscopy-oobleck-suspended-crystals.md) [+W] — attached 2026-11-17 from D. R. Dounas-Frazer et al. (2012), which proposed "Three-phase pattern: develop a model, test the model, investigate deviations from the model".
 - [Open play time with an interactive simulation supports the teacher in leading student-centered, inquiry-based classroom discourse](../claims/open-play-sim-time-supports-inquiry.md) [+W] — attached 2026-11-17 from Noah S. Podolefsky (2013), which proposed "Include 5-10 minutes of open play with a simulation before guided activities to build student ownership".
 - [Pilot school-based use suggests students can enact investigative learning like scientists with the gravity models](../claims/pilot-investigative-learning-gravity-models.md) [+W] — attached 2026-11-17 from Loo Kang WEE et al. (2013), which proposed "Use computer models with strong teacher guidance for inquiry-based physics learning".
+- [SQI-lab students improve on all but one PLIC question while traditional-lab students improve on only 4 of 10](../claims/sqi-gains-across-plic-questions.md) [+W] — attached 2026-11-18 from Cole Walsh et al. (2018), which proposed "Structured Quantitative Inquiry (SQI) labs"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

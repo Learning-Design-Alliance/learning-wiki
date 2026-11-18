@@ -57,3 +57,4 @@ Kost et al.'s regression models on FMCE and BEMA posttest scores used predictive
 - [Gender gaps in introductory physics post-test scores are associated with factors present prior to taking the course (Kost et al.)](gender-gaps-associated-with-pre-course-factors.md) — a broader claim this one bears on
 - [Removing the significantly gender-unfair FCI items eliminates a substantial portion of the gender gap in at least some samples](fci-unfair-item-removal-reduces-gap.md) — related
 - [Controlling for pretest scores, underserved students score lower on posttests, and students underserved by both gender and race/ethnicity score 7.6% lower](hlm-predicted-gaps-controlling-pretest.md) — related
+- [The flipped classroom significantly reduced, but did not eliminate, the gender gap in introductory physics performance](flipped-classroom-reduced-gender-gap.md) — related

@@ -25,7 +25,8 @@ A 20-item, five-point Likert self-report instrument adapted and administered by 
 - [Speaking anxiety scores decreased significantly from pretest to posttest after self-regulated strategy instruction, in one group of Egyptian EFL university students with no comparison group](../claims/srl-strategy-instruction-reduced-speaking-anxiety.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Physics Anxiety Rating Scale (PARS), 16-item version](physics-anxiety-rating-scale-pars-16-item-version.md)
 
 ## Key Sources
 - El-Sakka, S. M. F. (2016). Self-Regulated Strategy Instruction for Developing Speaking Proficiency and Reducing Speaking Anxiety of Egyptian University Students. English Language Teaching, 9(12). https://doi.org/10.5539/elt.v9n12p22

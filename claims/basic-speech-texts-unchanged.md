@@ -47,3 +47,4 @@ The author's informal observation comparing the oldest and newest basic speech t
 
 ## Related Claims
 - [The article argues that memorization-centered management education faces three specific challenges: theory-practice disconnection, textbook lag, and simulation-reality divide](three-challenges-memorization-management-education.md) — related
+- [Attracting augmented reality for educators requires developing new methodologies, didactic materials and updating the curriculum](ar-requires-new-methodologies-and-materials.md) — related

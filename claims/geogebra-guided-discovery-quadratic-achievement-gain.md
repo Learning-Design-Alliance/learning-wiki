@@ -54,3 +54,4 @@ Pretest-posttest control group experiment with 62 tenth-grade students randomly 
 - [Geogebra-assisted instruction improves overall post-test scores on applications of derivative](geogebra-improves-overall-scores-applications-derivative.md) — related
 - [Geogebra-assisted instruction improves conceptual knowledge of applications of derivative compared to traditional instruction](geogebra-improves-conceptual-knowledge-applications-derivative.md) — related
 - [Deliberate practice produces better overall competency grades than conventional lecture, with no clear failures and seven good passes versus five clear failures and none](deliberate-practice-better-overall-grades-trauma.md) — related
+- [A single Sage worksheet resource can combine theoretical information with interactive examples of its practical application](sage-worksheet-theory-plus-interactive-examples.md) — related

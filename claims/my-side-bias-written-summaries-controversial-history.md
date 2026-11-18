@@ -51,3 +51,4 @@ Think-aloud study of 39 Greek-Cypriot young adults reading own-side and other-si
 - [Participants' prior knowledge about the historical event was entirely consistent with their own ethnic group's narrative, with none providing an alternative interpretation](prior-knowledge-ethnocentric-narrative-consistency.md) — related
 - [Emotions reported during think-aloud reading were mostly negative (anger, sadness) for both texts, in contrast to positive questionnaire-reported emotions toward the other ethnic group](negative-think-aloud-emotions-both-texts.md) — related
 - [External strategy use affects comprehension of relations among controversial texts, according to the article's title statement](external-strategy-use-comprehension-controversial-texts.md) — related
+- [Bi-communal astronomy activity days were followed by participant-reported feelings of improved mutual understanding and empathy](columba-hypatia-reported-empathy-after-bicommunal-days.md) — related

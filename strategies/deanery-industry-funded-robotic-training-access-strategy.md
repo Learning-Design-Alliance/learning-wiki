@@ -50,6 +50,7 @@ The article recommends a resource-efficient funding arrangement in which the cos
 - [Tiered certification tracks with regional simulation hubs, mobile units, and shared access to avoid excluding resource-limited centres](tiered-certification-regional-hubs-strategy.md)
 - [In resource-limited settings, begin simulation training with standardized patients and part-task simulators, progressing to high-fidelity simulation centers as funding becomes available](staged-sbme-implementation-low-resource.md)
 - [Implement simulation-based learning and AR/VR in LMIC postgraduate dental programs through stakeholder investment, equitable access, and comprehensive training](lmic-sbl-integration-steps-prosthodontics.md)
+- [Fund stipends and laptops to remove financial barriers to participation](srmp-stipends-laptops-strategy.md)
 
 ## Examples
 -

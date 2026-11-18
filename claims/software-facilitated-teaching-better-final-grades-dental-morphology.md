@@ -49,3 +49,4 @@ Retrospective analysis of final examination grades of 294 second-year dental stu
 - [Within each software-intervention year, the number of students achieving good grades was significantly higher than the number achieving average grades](good-grades-outnumber-average-within-software-years.md) — related
 - [The between-group comparison of the three yearly cohorts revealed no statistical significance, despite a gradual increase in students scoring good grades](no-significant-between-group-difference-gradual-increase.md) — related
 - [Female students' good grades improved significantly in both software years versus the control year, while male students' year-wise comparison showed no significance](female-year-wise-gains-significant-males-not.md) — a narrower finding that bears on this claim
+- [Class averages fluctuated little across the four cohorts 2014-15 to 2017-18, arguing against cohort or test-difficulty bias](sst-cohort-averages-stable-across-years.md) — related

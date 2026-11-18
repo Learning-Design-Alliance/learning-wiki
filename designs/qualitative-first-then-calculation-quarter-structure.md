@@ -40,7 +40,8 @@ This pattern reorganizes a course so that, for each topic, the instructor first 
 - [Qualitative First Organization Higher Final Exam Scores](../claims/qualitative-first-organization-higher-final-exam-scores.md) [+M]
 
 ## Related Designs
-- 
+
+- [Model-based general relativity course structure: step-by-step introduction from sphere to spacetime sector models](model-based-gr-course-progression.md)
 
 ## Examples
 -

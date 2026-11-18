@@ -54,3 +54,4 @@ The review's discussion of its second research question argues that task complex
 - [More teacher support in AI-based instruction is not always better; a review found support worked well when balanced with students' autonomy and independent thinking](teacher-support-benefits-conditional-on-autonomy-balance.md) — related
 - [In gamers' interview reports, sustained gaming engagement appeared closely related to controlling an optimal level of challenge: games too hard were often abandoned and games too easy lost their interest](optimal-challenge-sustains-gaming-engagement.md) — possibly the same claim (merge candidate)
 - [Challenges that impede learners' progress can spur them to think and act agentially in their learning](challenges-spur-agentic-learning.md) — related
+- [Teachers completing astronomy research PD report needing step-by-step guidance and support, without which they may disengage](research-pd-support-prevents-disengagement.md) — related

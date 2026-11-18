@@ -42,6 +42,7 @@ This recommendation concerns provider selection criteria: districts should favor
 - [Use evaluation evidence on implementation quality, attendance, and relationships to guide tutoring program selection and improvement](use-implementation-evidence-to-improve-tutoring-access.md)
 - [Provide tutors 20 hours of pre-service training plus ongoing weekly coaching and professional development](tutor-training-weekly-coaching-strategy.md)
 - [Sustained professional development model combining training days, site visits, observations, and ongoing coaching](reading-go-professional-development-model.md)
+- [Select PD applicants by fit to maximize gain per invested resource, using a brief finalist interview](pd-applicant-selection-four-types-strategy.md)
 
 ## Examples
 -

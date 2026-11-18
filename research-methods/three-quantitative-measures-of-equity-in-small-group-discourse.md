@@ -29,7 +29,8 @@ The article operationalizes equity in small groups with three complementary meas
 - [Total speaking time misses drastic changes in an individual's behavior over time, which conversation consistency captures](../claims/speaking-time-misses-temporal-change.md) [+M]
 
 ## Related Research Methods
--
+
+- [Group-level civility coding for small-group discourse](group-level-civility-coding-for-small-group-discourse.md)
 
 ## Key Sources
 - Ben Archibeque, Florian Genz, Maxwell Franklin, Scott Franklin, and Eleanor Sayre. (2017). Quantitative Measures of Equity in Small Groups. arXiv. https://arxiv.org/abs/1711.00053

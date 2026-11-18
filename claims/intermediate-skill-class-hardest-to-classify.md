@@ -68,3 +68,4 @@ Error analysis with the Video Swin Tiny model using majority voting over three r
 - [Deep learning models classify open suturing videos into three skill levels with up to 75% accuracy and 72% F1, comparable to individual human raters](video-models-three-level-open-suturing-skill-classification.md) — related
 - [Random Forest most accurately predicts novices' visual behavior levels from CV-DL-extracted metrics, with fixation rates on objects and tool speed as key predictors](random-forest-predicts-visual-behavior-levels.md) — related
 - [Shorter video snippet lengths with more segments improved skill classification for the I3D and Video Swin Tiny models](shorter-snippet-lengths-aid-skill-assessment.md) — related
+- [The model's class imbalance biases predictions: faculty without experience teaching computation are classified almost at random](class-imbalance-prediction-bias.md) — related

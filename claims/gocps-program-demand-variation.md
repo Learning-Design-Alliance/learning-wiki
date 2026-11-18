@@ -68,3 +68,4 @@ Descriptive cross-tabulation of program demand by the district's School Quality 
 - [Program demand varied widely: 21 percent of programs had more than ten times as many applications as seats, led by arts, CTE, and SEHS programs](gocps-program-demand-variation-arts-cte-sehs.md) — possibly the same claim (merge candidate)
 - [Demand for RSF-supported schools was generally strong, with most Cohort 1 and 2 schools oversubscribed by 2007-08](rsf-schools-oversubscribed-strong-demand.md) — related
 - [Under Boston's Controlled Choice plan, 90 percent of students received a first- or second-choice school and fewer than 10 percent were mandatorily assigned](boston-controlled-choice-most-students-get-first-or-second-choice.md) — related
+- [Programs requiring more of their participants reach fewer people and demand higher organizer time per participant](programs-requiring-more-reach-fewer-participants.md) — related

@@ -50,3 +50,4 @@ The article's descriptive comparison of the Provincia de Buenos Aires EGB-1/2/3 
 - [Most preservice teachers believe the Moon does not rotate on its axis, and none correctly explained the Moon's same-face motion or a lunar eclipse](moon-motion-misconceptions-preservice-teachers.md) — related
 - [Preservice elementary teachers hold robust non-scientific conceptions of basic astronomical notions](preservice-teachers-astronomy-misconceptions.md) — related
 - [Many preservice teachers explain the seasons with the proximity theory](proximity-theory-seasons-preservice-teachers.md) — related
+- [Including astronomy topics improves science literacy and specific competencies, with many effect sizes of 0.8 or larger](astronomy-inclusion-improves-science-literacy.md) — related

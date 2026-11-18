@@ -27,7 +27,8 @@ Easy Java Simulations is an open-source Java-based authoring tool and library cr
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [GNU Octave](gnu-octave.md)
 
 ## Key Sources
 - Loo Kang Wee & Wai Keong Mak. (2009). Leveraging on Easy Java Simulation tool and open source computer simulation library to create interactive digital media for mass customization of high school physics curriculum. Paper presented at the 3rd Redesigning Pedagogy International Conference, Singapore. http://conference.nie.edu.sg/2009/

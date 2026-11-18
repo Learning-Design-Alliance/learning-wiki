@@ -50,6 +50,7 @@ The authors restructured the junior-level Electronics course around three coordi
 ## Related Strategies
 
 - [Iterative improvements and interdisciplinary integration for the next course iteration](next-iteration-improvements-life-science-physics.md)
+- [Use lab guides that explicitly prompt modeling subtasks, with scaffolding fading over the semester](modeling-prompt-lab-guides-fading-scaffolding.md)
 
 ## Examples
 -

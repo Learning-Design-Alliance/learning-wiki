@@ -47,6 +47,7 @@ Drawing on Expectancy Violation Theory, the article recommends that instructors 
 - [Intervene early in the semester to address students' misperception that the cognitive effort of active learning signals poor learning](early-semester-active-learning-misperception-intervention.md)
 - [Explicate, Validate, and Address Negative Emotions](explicate-validate-and-address-negative-emotions.md)
 - [Build students' intrinsic motivation and share learning sciences principles with students to support buy-in and ownership](intrinsic-motivation-share-science-with-students.md)
+- [Build student buy-in deliberately: explain the method on day one and connect early quizzes to worksheets](student-buy-in-flipped-large-lecture.md)
 
 ## Examples
 -

@@ -79,3 +79,4 @@ Interview participants in the three content-specific communities, each convened 
 - [Participants applied the learning: more than 60% used session resources, 47% shared them, and 19 respondents reported planning, advocacy and guidance-drafting actions](participants-used-and-shared-session-resources.md) — related
 - [In learner-centred CME workshops, a friendly collaborative context emerges as the core category linked to knowledge sharing and improved learning outcomes](friendly-collaborative-context-core-category-cme.md) — related
 - [Consonant interactions are not necessarily better than dissonant interactions for group work](consonant-not-necessarily-better.md) — related
+- [The decrease in off-task interactions suggests students built successful collaborations, consistent with off-task interaction serving student positioning within groups](off-task-decrease-suggests-collaborations-formed.md) — related

@@ -49,3 +49,5 @@ Qualitative analysis of one student's final conclusion from the SQILab sample (F
 - [A student pair's iterative redesign raised their pendulum t'-score from 0.18 to 3.71, leading them to conclude the two amplitude measurements differed](pendulum-pair-t-score-progression.md) — related
 - [A student checked his algebraic results against physical expectations and explicitly connected coordinate system, equation, and physical situation.](student-checks-math-against-physical-intuition.md) — related
 - [Prior SQILabs instruction significantly improved the quality of students' follow-up reasoning on comparisons, with no significant difference between the two SQILabs groups](sqilabs-improves-follow-up-reasoning-quality.md) — related
+- [Students entering a physics lab designed for model evaluation may initially frame the lab as verifying a provided model rather than evaluating it](students-frame-labs-as-model-verification.md) — related
+- [A whole class discussion revealing that the model broke down directly challenged Ali and Ben's model-verifying frame](whole-class-discussion-challenges-model-verifying-frame.md) — related

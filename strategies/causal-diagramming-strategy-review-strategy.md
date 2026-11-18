@@ -49,6 +49,7 @@ The article recommends that managers should take advantage of systems thinking t
 
 - [Visualizing](visualizing.md)
 - [Problem Solving Draw A Picture](problem_solving-draw_a_picture.md)
+- [Use evidence-based education as the knowledge basis for teacher decision-making](evidence-based-education-teacher-decisions.md)
 
 ## Examples
 -

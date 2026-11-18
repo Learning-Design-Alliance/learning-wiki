@@ -46,7 +46,8 @@ The article states that "the maintenance of manageable instructor-to-student rat
 - [Performance remained stable or improved despite enrollment expanding from 408 to a peak of 795 students](../claims/cbl-stable-performance-despite-enrollment-expansion.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Adapt the four-question unit-test design to the local syllabus while preserving coherence](adapt-unit-test-design-to-syllabus.md)
 
 ## Examples
 -

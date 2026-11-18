@@ -61,6 +61,7 @@ Requiring a written response from every student converts a passive listening mom
 - [Wait Time](wait-time.md) — the writing interval doubles as structured wait time before discussion
 - [Exit Tickets](exit-ticket.md) — the same written-response mechanism used for end-of-class assessment
 - [Offer generative formulaic expressions instead of rigid sentence starters](generative-formulaic-expressions-not-sentence-starters.md)
+- [Use 50/50 and Fill-in-the-Blank interactive lecturing questions with whole-class choral responses for real-time formative feedback](50-50-fill-in-blank-interactive-lecturing.md)
 
 ## Examples
 - **Middle-school math:** after solving ¾ + ⅚, every student completes "The common denominator is needed because…" before the teacher displays three anonymous sentences for comparison.

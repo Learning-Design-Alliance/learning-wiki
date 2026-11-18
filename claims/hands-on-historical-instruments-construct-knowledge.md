@@ -51,3 +51,4 @@ Authors' interpretive claim (type e) from the Discussion, with no printed measur
 - [A successor vocational-school path connecting physics measures to a professional instrument fully achieved its aim of increasing students' attention on physics](professional-instrument-connection-raised-vocational-students-attention.md) — related
 - [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — a broader claim this one bears on
 - [Students presented historical instruments and their stage activities to museum visitors at the end of the stage](students-present-instruments-museum-visitors.md) — related
+- [The author argues that combining simulations with experiments helps students see the connection between them and understand their limitations](simulation-experiment-combination-builds-connection-awareness.md) — related

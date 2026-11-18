@@ -49,6 +49,7 @@ The article validates a repeatable workflow in which donor MRI scans are reviewe
 
 - Xr Cbl Donor Mri 3D Model Modules
 - [R-ISAM: a five-phase spiral framework for fully integrated anatomical sciences education](r-isam-five-phase-spiral-framework.md)
+- [Marker-based AR object development pattern: a 3D model, a quickly recognizable 2D marker, and a marker-to-model association in the AR software](marker-based-ar-object-development.md)
 
 ## Examples
 -

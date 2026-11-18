@@ -113,7 +113,8 @@ def datacite(aid):
 
 
 def cited_title(line, year):
-    m = re.search(rf"\({year}\)\.\s*(.+?)(?:\.\s|\?\s|$)", line)
+    # a ". " after a lone capital is an initial inside the title ("A.V. Usova's Contribution"), not its end
+    m = re.search(rf"\({year}\)\.\s*(.+?)(?:(?<!\b[A-Z])\.\s|\?\s|$)", line)
     return (m.group(1) if m else line).strip(" .*")
 
 

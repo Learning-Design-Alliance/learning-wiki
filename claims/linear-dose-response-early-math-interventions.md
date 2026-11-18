@@ -53,3 +53,4 @@ Meta-analytic model comparison of 164 effect sizes from 24 studies, fitting a re
 - [Dosage significantly predicts intervention effects in a linear model (β = 0.03 per hour), but the dosage main effect is no longer significant after controlling for moderators](dosage-slope-nonsignificant-with-moderators.md) — related
 - [A discrete time trend model fit the reading fluency data significantly better than a linear time trend model](discrete-time-model-fit-better-than-linear.md) — related
 - [Variation in instructional dosage did not explain variation in writing instruction effect sizes](instructional-dosage-no-moderation-writing-instruction.md) — related
+- [Linearized school mathematics contributed to a resilient clockwork-reality worldview](linearized-curriculum-clockwork-worldview.md) — related

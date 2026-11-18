@@ -38,7 +38,8 @@ The article describes a concrete grading recipe used in the authors' non-anonymo
 - accumulating summative assessment data over a semester
 
 ## Related Strategies
-- 
+
+- [Grade free-response items by checking boxed final answers and awarding partial credit by mistake type](box-final-answer-partial-credit-grading.md)
 
 ## Examples
 -

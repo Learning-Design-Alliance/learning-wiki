@@ -55,3 +55,4 @@ Interview sessions with five university participants (two master's students, two
 - [First-level participant feedback found the iThinkSmart prototype engaging but flagged movement, navigation, graphics, and device-support issues for improvement](ithinksmart-prototype-feedback-themes.md) — related
 - [User testing showed free-form note-taking frustrated users, prompting a redesign to drag-and-drop scaffolding that reduced frustration and improved engagement](drag-and-drop-notebook-scaffolding-redesign.md) — related
 - [Children's most frequent impressions concern ease of use of tangible interface and graphical UI](children-impressions-ease-of-use-and-gui.md) — related
+- [Low fidelity prototypes support design learning while high fidelity prototypes can hinder fluency](low-fidelity-prototyping-supports-design-learning.md) — related

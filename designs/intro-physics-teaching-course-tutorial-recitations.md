@@ -41,7 +41,8 @@ A three-credit, three-hours-per-week semester course in which students read and 
 - 
 
 ## Related Designs
-- 
+
+- [Adapted Engineering LA Program pedagogy workshop with weekly online reflections](engineering-la-pedagogy-workshop-element.md)
 
 ## Examples
 -

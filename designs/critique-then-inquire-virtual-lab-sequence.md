@@ -43,7 +43,8 @@ A lesson-level sequence in which students first critique problematic inquiry cas
 - [Posttest Critique Inquiry Performance Relation](../claims/posttest-critique-inquiry-performance-relation.md) [+W]
 
 ## Related Designs
-- 
+
+- [Harwood model of scientific inquiry: ten activities framing the lab design](harwood-ten-activity-inquiry-model.md)
 
 ## Examples
 -

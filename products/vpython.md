@@ -29,6 +29,7 @@ VPython is an open-source programming environment that enables learners to const
 ## Related Products and Programmes
 
 - [Scratch](scratch.md)
+- [GNU Octave](gnu-octave.md)
 
 ## Key Sources
 - Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A. (2012). Implementing and assessing computational modeling in introductory mechanics. arXiv. https://arxiv.org/abs/1107.5216. [doi:10.48550/arxiv.1107.5216](https://doi.org/10.48550/arxiv.1107.5216)

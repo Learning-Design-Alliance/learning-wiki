@@ -46,3 +46,4 @@ Numerical solution of the Berti et al. fit equations for the principal least-dam
 
 ## Related Claims
 - [Introductory students can extract a chirp mass of about 30 solar masses from the GW150914 waveform using simple data-analysis tools.](gw150914-chirp-mass-student-extraction.md) — related
+- [Constructing timelike geodesics on a spacetime sector model shows that free-fall geodesics produce the expected up-and-down motion in space](sector-model-timelike-geodesics-free-fall.md) — related

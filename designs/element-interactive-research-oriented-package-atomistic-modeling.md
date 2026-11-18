@@ -46,7 +46,8 @@ A package of three interactive 90-minute lecture units plus about 10% of self-st
 - [Interactive Elements Fail Method Limitations Objective](../claims/interactive-elements-fail-method-limitations-objective.md) [-M]
 
 ## Related Designs
-- 
+
+- [Knowledge model: a vector-space student profile for content-based bonus-exercise recommendation](vector-space-knowledge-model-bonus-recommendation.md)
 
 ## Examples
 -

@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: moderate
-newest_evidence: 2013
+newest_evidence: 2014
 sources:
-  - id: vashti-sawtelle-chandra-turpen-2013
+  - id: vashti-sawtelle-chandra-turpen-2014
     resource: "https://doi.org/10.48550/arXiv.1409.5471"
-    title: "Vashti Sawtelle & Chandra Turpen. (2013). Leveraging a Relationship with Biology to Expand a Relationship with Physics. [doi:10.48550/arXiv.1409.5471](https://doi.org/10.48550/arXiv.1409.5471)"
+    title: "Vashti Sawtelle & Chandra Turpen. (2014). Leveraging a Relationship with Biology to Expand a Relationship with Physics. Originally published 2013. [doi:10.48550/arXiv.1409.5471](https://doi.org/10.48550/arXiv.1409.5471)"
     author: "Vashti Sawtelle & Chandra Turpen"
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` In a lab episode on kinematic graphs of amoeba motion, Violet positioned herself as 'physics stupid' and disengaged immediately after the TA called for definitional knowledge (instantaneous vs. average velocity). [→ Vashti Sawtelle & Chandra Turpen 2013](#vashti-sawtelle-chandra-turpen-2013)
+`q2 i?` In a lab episode on kinematic graphs of amoeba motion, Violet positioned herself as 'physics stupid' and disengaged immediately after the TA called for definitional knowledge (instantaneous vs. average velocity). [→ Vashti Sawtelle & Chandra Turpen 2014](#vashti-sawtelle-chandra-turpen-2014)
 
 ## Evidence
 
-### Vashti Sawtelle & Chandra Turpen 2013
+### Vashti Sawtelle & Chandra Turpen 2014
 
-Vashti Sawtelle & Chandra Turpen. (2013). Leveraging a Relationship with Biology to Expand a Relationship with Physics. [doi:10.48550/arXiv.1409.5471](https://doi.org/10.48550/arXiv.1409.5471)
+Vashti Sawtelle & Chandra Turpen. (2014). Leveraging a Relationship with Biology to Expand a Relationship with Physics. Originally published 2013. [doi:10.48550/arXiv.1409.5471](https://doi.org/10.48550/arXiv.1409.5471)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -47,3 +47,4 @@ Video-recorded lab episode (Clip 4) in the first month of the course, analyzed a
 ## Related Claims
 - [A biology major's relationship with physics shifted over a year-long interdisciplinary physics course, from hatred and avoidance toward identification, mixed affect, and more expert-like ways of knowing](violet-expanding-relationship-with-physics.md) — related
 - [Recruiting a student's relationship with biology into physics tasks engaged her in physics reasoning and increased her liking of physics](leveraging-biology-identity-engages-physics.md) — related
+- [Explicitly discussing that feeling stupid is a legitimate part of science reduced educator disengagement in NITARP](nitarp-feeling-stupid-discussion-reduces-disengagement.md) — related

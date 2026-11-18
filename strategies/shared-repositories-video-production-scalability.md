@@ -42,6 +42,7 @@ A scalability strategy for resource-intensive real-patient video production: the
 - [Phased implementation with shared video library and peer-assisted feedback to scale micro-skills training](microskills-cptm-scaling-strategy.md)
 - [Phased implementation strategy for robot-assisted training to distribute costs](phased-implementation-robot-training-strategy.md)
 - [Share health education content across robots via a shared platform and collect materials in advance to reduce preparation burden](shared-robot-platform-content-collection-strategy.md)
+- [Federate training initiatives across experiments to share materials and reduce duplication](federated-hep-training-initiatives-strategy.md)
 
 ## Examples
 -

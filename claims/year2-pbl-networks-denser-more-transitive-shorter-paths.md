@@ -67,3 +67,4 @@ Group-level network comparison by cohort using Mann-Whitney U tests. The article
 ## Related Claims
 - [Classrooms differ in network density and centrality, indicators of social cohesion](classroom-density-centrality-variation.md) — related
 - [Montessori-schooled children show shorter average shortest path length and lower modularity in their semantic networks than traditionally-schooled children](montessori-lower-aspl-modularity-semantic-network.md) — related
+- [Aggregate classroom network integration measures (density and average path length) show no difference between day 2 and day 7 of the program](no-change-network-integration-impress.md) — related

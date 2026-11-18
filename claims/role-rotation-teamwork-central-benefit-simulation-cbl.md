@@ -57,3 +57,4 @@ Qualitative finding from the 12-participant interview arm: the teamwork theme wa
 - [Mandated multi-role rotation and full attendance in the participatory simulation phase achieved complete learner engagement](multi-role-rotation-full-engagement.md) — related
 - [Participant experiences of integrated simulation with TBL cluster into four themes: reflection and feedback, highly simulated scenarios, improved clinical thinking, and teamwork and communication](four-theme-clusters-simulation-tbl-experience.md) — related
 - [After faculty development training, teachers across all clusters and experience levels demonstrated core feedback skills in the simulated scenario](faculty-development-improved-feedback-skills-all-clusters.md) — related
+- [Teamwork and collaboration emerge as a powerful, previously unanticipated outcome of the NITARP research experience](nitarp-teamwork-powerful-motivator.md) — related

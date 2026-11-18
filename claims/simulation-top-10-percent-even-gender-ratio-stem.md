@@ -73,3 +73,4 @@ Simulation study inferring relative distributions of girls' and boys' grades fro
 - [Greater male variability is insufficient to explain male over-representation in STEM, given the small gender gaps in STEM grades](variability-insufficient-to-explain-stem-underrepresentation.md) — related
 - [In standardised test scores of 15-year-olds, gender differences in variance are consistent across STEM and non-STEM subjects, unlike in grades](test-score-variance-gap-consistent-across-subjects.md) — related
 - [The SAT-M 600 threshold implies demographic ratios among successful Physics and Mathematics students will be highly skewed](sat-m-threshold-demographic-implications.md) — reports the opposite
+- [Intervention programs like AAUW, Girl Scouts, Girls Inc., Tech Bridge and Girls Who Code contributed to evening out gender ratios in US high school science and math classes in the 1990s-2010s](after-school-stem-programs-evened-ratios.md) — related

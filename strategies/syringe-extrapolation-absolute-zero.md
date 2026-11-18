@@ -43,6 +43,7 @@ For older students, this activity has learners grease a plastic syringe to make 
 
 - [Balloon-and-bottle demonstration of Charles' law using hot and room-temperature water baths](balloon-bottle-charles-law-demonstration.md)
 - [Design outreach experiments to be easily repeatable so teachers can incorporate them into their own lessons, and keep teachers central to the activities](repeatable-experiments-teachers-central-outreach.md)
+- [Salt-plus-ice extension experiment reaching about -18 °C, run as an optional lowest-temperature competition](salt-ice-experiment-strategy.md)
 
 ## Examples
 -

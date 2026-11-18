@@ -45,6 +45,7 @@ The article recommends Professional Development Workshops as the vehicle for tra
 ## Related Strategies
 
 - [Multi-format teacher professional development for implementing the Facing History and Ourselves curriculum](fhao-teacher-professional-development.md)
+- [Use professional development workshops that pair hands-on curriculum activities with a summary of classroom trial results to build teacher support](pdw-showcase-with-research-evidence-strategy.md)
 
 ## Examples
 -

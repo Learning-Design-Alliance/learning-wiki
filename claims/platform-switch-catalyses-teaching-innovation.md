@@ -50,3 +50,4 @@ Findings from Period 2 of the case study: after testing the updated Collaborate 
 - [Early self- and task-related concerns are maintained alongside later impact concerns as adoption of complex technologies advances, modifying the sequential CBAM conception](early-concerns-maintained-alongside-later-concerns.md) — related
 - [Colleges adopted new technology platforms to increase efficiencies, but face challenges sustaining their use after the grant ends](technology-platforms-efficiency-adoption-sustainability-challenge.md) — related
 - [The teacher's agency system reached dynamic stability at the edge of chaos in the final period](agency-reaches-edge-of-chaos-stability.md) — related
+- [Attracting augmented reality for educators requires developing new methodologies, didactic materials and updating the curriculum](ar-requires-new-methodologies-and-materials.md) — related

@@ -25,7 +25,9 @@ Maple is a computer algebra system developed and distributed by Maplesoft for sy
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [GNU Octave](gnu-octave.md)
+- [SageMath](sagemath.md)
 
 ## Key Sources
 - Yurii Ignat'ev and Alsu Samigullina. (2014). A Mathematical Modeling In Computer Algebra Systems (CAS) As A Base For A Development of The Mathematics Education. https://arxiv.org/abs/1410.4456

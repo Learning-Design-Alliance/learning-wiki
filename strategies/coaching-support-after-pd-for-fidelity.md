@@ -53,6 +53,7 @@ The article's implementation model pairs a one-day workshop with ongoing coach s
 - [Provide coaching and performance feedback to teachers after initial training to sustain knowledge and skills](post-training-coaching-and-performance-feedback.md)
 - [Extended professional development pairing CTE teachers with science teacher partners in a community of practice](science-in-cte-extended-pd-teacher-partners.md)
 - [Pair short group trainings with monthly onsite coaching visits to change instructional practice](short-training-monthly-coaching-strategy.md)
+- [Structure teacher professional development workshops as short, off-site events with grouped collaboration and iterative feedback rounds](nice-workshop-structure-strategy.md)
 
 ## Examples
 -

@@ -52,6 +52,7 @@ The article's implementation strategy is to begin with explicit instructions and
 - [Revision And Resubmission](revision-and-resubmission.md)
 - [Ongoing Feedback and Reflection](ongoing_feedback_and_reflection.md)
 - [Embed verification cycles and faded prompt scaffolding into GenAI-supported STEAM tasks](verification-cycles-and-faded-prompt-scaffolding-genai.md)
+- [Use lab guides that explicitly prompt modeling subtasks, with scaffolding fading over the semester](modeling-prompt-lab-guides-fading-scaffolding.md)
 
 ## Examples
 -

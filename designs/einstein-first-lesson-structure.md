@@ -48,4 +48,4 @@ The Einstein-First programs used a repeating 45-minute lesson structure divided 
 -
 
 ## Key Sources
-- Kaur, T., Blair, D., Moschilla, J., Stannard, W. & Zadnik, M. (2017). Teaching Einsteinian Physics at Schools: Part 3, Review of Research Outcomes. https://arxiv.org/abs/1710.02536
+- Kaur, T., Blair, D., Moschilla, J., Stannard, W. & Zadnik, M. (2017). Teaching Einsteinian Physics at Schools: Part 3, Review of Research Outcomes. https://arxiv.org/abs/1710.02536. [doi:10.1088/1361-6552/aa83dd](https://doi.org/10.1088/1361-6552/aa83dd)

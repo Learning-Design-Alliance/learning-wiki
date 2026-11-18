@@ -42,7 +42,8 @@ GoSA, begun in 2011 at Universidad Nacional de Colombia's National Astronomical 
 - 
 
 ## Related Designs
-- 
+
+- [NRAO's observatory-wide pipeline approach to STEM capacity development](nrao-pipeline-approach-stem-capacity.md)
 
 ## Examples
 -

@@ -57,3 +57,5 @@ Fine-grained interaction analysis of Sequence 1, a poster-making group work epis
 - [The teacher supported understanding of assignments by reformulating scientific terms into everyday concepts and by contextualising the lab experiment](teacher-reformulates-terms-contextualises-experiment.md) — related
 - [Explicitly unfolding higher-order contributions into lower-order concept elements produces deeper conceptual learning opportunities than jumping directly to procedure](unfolding-knowledge-elements-produces-deeper-conceptual-learning-opportunities.md) — related
 - [Students are not blank slates: naive conceptions from everyday experience can interfere with physics learning, so instructors should assess initial knowledge and build on it](prior-knowledge-naive-conceptions-physics.md) — related
+- [Drawing physical terms helps students develop deeper understanding of the concepts behind the terms](drawing-terms-deepens-physics-concept-understanding.md) — related
+- [Once students communicate concepts pictorially, they move beyond definitions and use everyday examples to convey terms to their group](pictorial-communication-prompts-everyday-examples.md) — related

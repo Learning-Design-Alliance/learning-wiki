@@ -56,3 +56,4 @@ Regression analysis using number of reading guides fully completed before class 
 - [Prior knowledge and individual effort, not classroom type, predict postcourse content knowledge](prior-knowledge-effort-predict-post-knowledge.md) — related
 - [Gender, ethnicity, and introductory course type do not improve prediction of centrality in the PLC network](gender-ethnicity-not-predictors-of-plc-centrality.md) — related
 - [Participation in the PLC learning community is equitably distributed across gender and ethnicity](plc-participation-equitably-distributed.md) — related
+- [Demographic characteristics (DHH status and gender) show no apparent impact on students' integration in the classroom interaction network](demographics-no-impact-network-integration.md) — related

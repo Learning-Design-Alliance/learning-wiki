@@ -59,3 +59,4 @@ Students recruited from one Precalculus course at a US university (a convenience
 - [Students value the ability to pause, rewind and replay video podcasts to suit their own pace](podcast-control-pause-replay-valued.md) — related
 - [A single student's watching trajectory showed seeking and pausing mid-video to find values needed for the assignment, with only 46.8 s spent on the conceptual interaction-point questions](single-student-trajectory-value-seeking.md) — related
 - [Within videos, students concentrated access and pauses on concrete, assignment-required content (actions, formulas, problem-solving techniques) and engaged less with conceptual or epistemological sections](students-focus-on-concrete-assignment-content-in-videos.md) — related
+- [Student performance on math-to-physics assignments increased from pre- to post-video for five of six instructional videos in an E&M course](mathcast-pre-post-performance-gains.md) — related

@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 209 claims (157 show a difference, 22 mixed, 30 no difference) · 170 studies (95 causal, 18 review, 14 associational, 13 design, 12 quant-synthesis, 12 qualitative, 5 theoretical), `q1`–`q4` · 35 of 170 report an effect size · 203 claims rest on one study
+> **Evidence** · 212 claims (158 show a difference, 24 mixed, 30 no difference) · 172 studies (95 causal, 18 review, 14 associational, 14 design, 13 qualitative, 12 quant-synthesis, 5 theoretical), `q1`–`q4` · 35 of 172 report an effect size · 206 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -247,6 +247,9 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Students' descriptions of the similarities between the solved and quiz problems did not correlate with their ability to solve the quiz problem](../claims/stated-similarities-no-correlation-with-solving.md) [-M] — learners who differ on it differ in outcomes
 - [Informal interviews indicated that problem modifiers showed deep understanding and transfer to novel difficult scenarios](../claims/problem-modding-transfer-interviews.md) [+W] — learners who differ on it differ in outcomes
 - [Problem modifiers scored about 90% versus about 58% for the rest of the class on Angular Momentum final-exam problems](../claims/angular-momentum-modders-versus-class.md) [+M] — learners who differ on it differ in outcomes
+- [Fieldwork to understand the problem finding process was rated a good experience (M = 4.65), and students found the problem finding step more difficult than the problem solving step (M = 4.11)](../claims/fieldwork-good-but-problem-finding-harder-than-solving.md) [~M] — measured as an outcome of the instruction studied
+- [Students experienced difficulty starting fieldwork due to the ambiguous nature of ill-structured problems, team-balance frustration, and felt 8 weeks were not enough](../claims/pf-course-reported-difficulties-ambiguity-team-balance-duration.md) [~M] — measured as an outcome of the instruction studied
+- [Students spontaneously applied problem-solving strategies to new scenarios or in new ways after being introduced to them](../claims/spontaneous-strategy-transfer-new-scenarios.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

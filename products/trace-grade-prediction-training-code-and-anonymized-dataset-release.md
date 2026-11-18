@@ -21,6 +21,7 @@ Paul Savala's TRACE release provides training code and an anonymized subset of e
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **TRACE training code and anonymized dataset release on GitHub**: The author released training code and an anonymized subset of the data to support replication and adaptation by other institutions. The article states the architecture "requires no institution-specific feature engineering—course and major embeddings are learned from enrollment data alone, and the model can be retrained on any institution's historical records without structural modification." Code is available at https://github.com/paulsavala/TRACE-grade-prediction. (Paul Savala (2026))
+- **Two-course Coursera clickstream dataset for grade prediction**: The dataset comprises clickstream logs from two Coursera courses run January through April 2013: an algebra course with 43,361 students used for training (first 80%) and validation (remaining 20%), and a pre-calculus course with 51,069 students used as testing data. For the classification task the article reports 5,577,375 training clicks, 1,311,938 validation clicks, and 6,531,139 test clicks, with 6,749 training, 1,688 validation, and 8,984 test instances. Three feature sets were derived: raw clicks (2,648 types, not generalizable), 46 course-consistent click categories, and 10 HMM/MMM session states that are almost course-independent. (Yohan Jo et al. (2018))
 
 ### Claims
 
@@ -31,3 +32,4 @@ Paul Savala's TRACE release provides training code and an anonymized subset of e
 
 ## Key Sources
 - Paul Savala. (2026). Jointly Predicting Courses and Grades Using a Transformer-Based Model. arXiv. https://arxiv.org/abs/2608.13409
+- Yohan Jo, Keith Maki, Gaurav Tomar. (2018). Time Series Analysis of Clickstream Logs from Online Courses. https://arxiv.org/abs/1809.04177

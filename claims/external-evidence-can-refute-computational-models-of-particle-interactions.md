@@ -57,3 +57,4 @@ This is a single-classroom qualitative study without a comparison condition, so 
 - [Latent transition analysis extracted four ability-profiles of hypothesis-based reasoning across affirmative, refuting, and irrelevant evidence](four-hbr-ability-profiles-lta.md) — related
 - [Experts' ontological choices about the same physical phenomenon are context-dependent](expert-ontological-choices-context-dependent.md) — related
 - [Students' frequently-used strategies changed from the acceleration unit to the diffusion unit, showing strategy evolution across model-building tasks](strategy-evolution-across-ctsim-units.md) — related
+- [Students new to physics attribute underlying mechanisms of phenomena to physics and strengthen connections as they experience more of the discipline](novice-students-attribute-mechanisms-to-physics.md) — related

@@ -51,4 +51,4 @@ The article presents Table 2, an index of instructional video styles compiled by
 -
 
 ## Key Sources
-- Chorianopoulos, K. (2018). A Taxonomy of Asynchronous Instructional Video Styles. International Review of Research in Open and Distributed Learning, 19(1). https://www.irrodl.org/
+- Chorianopoulos, K. (2018). A Taxonomy of Asynchronous Instructional Video Styles. International Review of Research in Open and Distributed Learning, 19(1). https://www.irrodl.org/. [doi:10.19173/irrodl.v19i1.2920](https://doi.org/10.19173/irrodl.v19i1.2920)

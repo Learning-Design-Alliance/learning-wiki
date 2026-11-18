@@ -53,3 +53,4 @@ Hysteroscopic exercise completion times from the same cohort trial, shown in Fig
 - [Mid-level residents and proficient surgeons show similar performance on several EMIG exercises, a pattern the authors attribute partly to selection bias](emig-midlevel-proficient-similar-performance.md) — related
 - [Laparoscopic exercise did-not-complete rates are highest in the novice cohort and negligible only in the expert group](emig-laparoscopic-incompletion-rates-by-cohort.md) — related
 - [Task completion time was not selected by the best model, suggesting completion time is not necessarily predictive when evaluating surgeons on a finer scale than novice-versus-expert](completion-time-not-predictive-finer-scale.md) — related
+- [Tailored-group students needed less working time on longer bonus exercises than the untailored group, though not significantly](tailored-bonus-exercise-working-time-tendency.md) — related

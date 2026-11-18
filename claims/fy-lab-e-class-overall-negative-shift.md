@@ -52,3 +52,5 @@ Analysis of matched pre/post E-CLASS responses from FY students (N = 5609) shows
 - [E-CLASS scores correlate weakly with final course grade overall, with a significant but still weak correlation in beyond-first-year labs](eclass-convergent-validity-grades.md) — related
 - [Guided-lab-only courses show a small significant negative shift in E-CLASS scores over a semester](guided-labs-negative-shift.md) — a narrower finding that bears on this claim
 - [Students in Traditional first-year physics labs show a significant negative shift in E-CLASS scores, while students in Transformed courses do not shift significantly](traditional-labs-negative-eclass-shift-transformed-none.md) — a narrower finding that bears on this claim
+- [Three E-CLASS items related to the transformation goals showed statistically significant favorable post-test shifts after the course transformation](three-eclass-items-significant-favorable-shift.md) — related
+- [The transformed lab course produced no statistically significant difference in overall post-instruction E-CLASS scores compared to the original course](lab-transformation-no-overall-eclass-change.md) — related

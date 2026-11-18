@@ -61,3 +61,4 @@ Secondary qualitative finding from the gateway math study of faculty and student
 - [Instructors' assessment philosophies centered on promoting non-technical discipline-independent skills, providing authentic learning experiences, and emphasizing individualized assessment](instructor-philosophies-ntdis-authentic-individualized.md) — related
 - [Instructional gains in special small-group programs may not generalize to real-world teaching conditions](special-program-gains-not-real-world.md) — related
 - [Hands-on laboratory activities were appreciated by vocational students but did not suffice when physics was perceived as useless for their professional training](hands-on-appreciated-insufficient-when-topic-perceived-useless.md) — related
+- [Students may make real-world physics connections without valuing or labeling them as physics, adding complexity to interpreting attitude measures](connections-without-labeling-as-physics.md) — related

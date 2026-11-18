@@ -48,3 +48,4 @@ Document comparison of the study's 52 important STEM descriptors against the ele
 - [Frameworks of 21st century skills commonly lack categories for technology and engineering skills, time/resource/knowledge management skills, and system skills](21c-frameworks-lack-stem-categories.md) — related
 - [Nine skills, four knowledge types, and four work activities are relatively more important for STEM than non-STEM occupations (effect size r > 0.3)](stem-vs-nonstem-effect-size-descriptors.md) — related
 - [The five most important work activities for STEM workers concern obtaining, deciding about, and updating information and knowledge](top-stem-work-activities-information.md) — related
+- [MÜDEK-accredited computer engineering programs' curricula include mobile technologies, parallel programming and expert systems, and commonly start instruction with Java](mudek-programs-curricula-java-mobile-parallel.md) — related

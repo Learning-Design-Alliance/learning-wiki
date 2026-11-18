@@ -76,3 +76,4 @@ The review reports Hawes et al. found "statistically significant correlations be
 - [Five hours of Tetris play improved some mental rotation measures but not most spatial skill measures](tetris-play-selective-mental-rotation-gains.md) — related
 - [Spatial ability scores are positively associated with mathematics performance across children and adults, as the review reports](spatial-ability-associated-mathematics-performance.md) — related
 - [A single session of mental rotation training improves math calculation performance in 6- to 8-year-olds](mental-rotation-training-improves-math-calculation-children.md) — related
+- [The author observes that convolution and correlation are better appreciated with two-dimensional spatial signals than with one-dimensional time signals](2d-spatial-signals-clearer-for-convolution-teaching.md) — related

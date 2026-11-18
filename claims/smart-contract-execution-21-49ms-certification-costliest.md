@@ -46,4 +46,5 @@ Prototype performance measurement (Table 1) of the four smart contracts under th
 
 
 ## Related Claims
--
+- [The article claims automatic recognition of external exam performance via smart contracts without student application](automatic-recognition-external-exams-smart-contract.md) — related
+- [The article argues global agreement and higher-education-policy commitment are necessary preconditions for the blockchain to be meaningful](global-agreement-policy-commitment-precondition.md) — related

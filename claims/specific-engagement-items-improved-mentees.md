@@ -48,3 +48,4 @@ Item-level USEI analysis in the same quasi-experimental study. Mentee means exce
 ## Related Claims
 - [Same-class peer mentorship did not significantly improve mentees' overall university engagement relative to controls](peer-mentorship-no-significant-overall-engagement-gain.md) — related
 - [Same-class peer mentorship did not significantly improve mentees' overall subjective vitality relative to controls](peer-mentorship-no-significant-subjective-vitality-gain.md) — related
+- [The programme modestly improved self-reported engagement with science, with 32% more likely to talk to teachers and 34% more likely to consider studying science at university](sustained-outreach-improved-engagement-science.md) — related

@@ -66,6 +66,7 @@ Response devices convert passive audiences into active respondents and give inst
 - [Combine anonymous clicker questions with small-group discussion of conceptual questions](cps-anonymity-group-discussion-strategy.md)
 - [Use an anonymous audience response system to activate students who hesitate to answer questions publicly](anonymous-ars-activate-hesitant-students.md)
 - [Replace board-work by a few selected students with device-based submission of all students' problem solutions for whole-class real-time feedback](whole-class-digital-ink-solution-submission-strategy.md)
+- [Use 50/50 and Fill-in-the-Blank interactive lecturing questions with whole-class choral responses for real-time formative feedback](50-50-fill-in-blank-interactive-lecturing.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — each question is a retrieval practice opportunity

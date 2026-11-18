@@ -54,4 +54,4 @@ This strategy sequences the learning in two steps of increasing authenticity. St
 -
 
 ## Key Sources
-- Nielbock, M. and Müller, T. (2017). Britannia Rule the Waves. AstroEDU manuscript no. astroedu1646. https://arxiv.org/abs/1708.08332
+- Nielbock, M. and Müller, T. (2017). Britannia Rule the Waves. AstroEDU manuscript no. astroedu1646. https://arxiv.org/abs/1708.08332. [doi:10.48550/arxiv.1708.08332](https://doi.org/10.48550/arxiv.1708.08332)

@@ -44,6 +44,7 @@ Claremont compensates candidates to make a yearlong coteaching model accessible 
 
 - [Provide financial support and induction mentoring in exchange for a multi-year teaching commitment](financial-support-commitment-induction-strategy.md)
 - [Strategic staffing partnership model funds resident stipends while meeting LEA paraeducator and substitute staffing needs](strategic-staffing-partnership-model.md)
+- [Fund stipends and laptops to remove financial barriers to participation](srmp-stipends-laptops-strategy.md)
 
 ## Examples
 -

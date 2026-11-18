@@ -47,6 +47,7 @@ For multi-institution programs, the framework lets students take courses across 
 ## Related Strategies
 
 - [Micro Credentials And Badging](micro-credentials-and-badging.md)
+- [Use blockchain ID plus official identification to enable borderless assessment participation](blockchain-id-borderless-assessment-strategy.md)
 
 ## Examples
 -

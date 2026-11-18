@@ -51,3 +51,4 @@ MANCOVA of CLASS-Bio pre/post percent-favorable shifts in the matched two-sectio
 - [Personal Interest and Real World Connection categories shift differently across courses in response to instruction](personal-interest-and-real-world-shift-differently-by-course.md) — related
 - [Support and coaching from a science education specialist appears important for developing novices' attitudes toward in-class activities](ses-support-important-novice-attitudes.md) — related
 - [Attitudes toward science measured by the CLASS survey showed no significant differences between the concepts-first and active-learning-only sections, and neither section's scores appreciably changed](class-attitudes-no-section-differences.md) — reports the opposite
+- [CLASS Personal Interest and Real World Connection clusters typically show negative shifts, though some instructional approaches produce positive shifts](class-relevance-clusters-typically-negative-shifts.md) — related

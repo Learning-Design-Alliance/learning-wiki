@@ -52,3 +52,4 @@ Between-group comparison from the study's post-test results (Tables 2–4): the 
 - [IC-JPA instruction did not produce a statistically significant difference in correct academic language usage compared to traditional instruction](icjpa-no-difference-academic-language-usage.md) — related
 - [Traditional reading instruction without attention to learning styles yields non-significant gains in reading comprehension and self-efficacy](traditional-efl-instruction-non-significant-gains.md) — related
 - [Training on speed reading strategies (skimming and scanning) significantly improves reading comprehension among second secondary literary students in English language](speed-reading-strategies-training-improves-reading-comprehension.md) — related
+- [Students learning place value with the application achieved higher post-lesson scores than students taught by the traditional method](place-value-app-beats-traditional-posttest.md) — related

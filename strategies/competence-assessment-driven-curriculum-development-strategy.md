@@ -50,6 +50,7 @@ The article recommends administering both a self-survey and an objective scenari
 ## Related Strategies
 
 - [Stepwise integration of EPAs into prehospital emergency medicine training incorporating pediatric-specific EPAs, simulation-based refresher courses, and EPA-based assessment tools](stepwise-epa-integration-prehospital-training.md)
+- [Adapt training scenarios to professional profiles using obstacle placement and difficulty configuration](obstacle-placement-scenario-adaptation-strategy.md)
 
 ## Examples
 -

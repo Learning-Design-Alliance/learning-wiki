@@ -65,6 +65,7 @@ Pre-assessment of learner needs functions as a form of [Activation](../principle
 - [Use percentage-consensus opinionnaires to locate shared values before redesign](percentage-consensus-opinionnaires.md)
 - [Select evidence-based mindfulness programs matched to school needs assessment data](select-evidence-based-mindfulness-programs-needs-assessment.md)
 - [Replace broad Likert-scale patient ratings with goal-directed questions and multisource (360°) feedback structures](goal-directed-patient-questions-360-feedback.md)
+- [Four-piece question structure eliciting identity statements in the pilot survey](four-piece-identity-question-structure.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the formal element this strategy applies to pre-instructional, non-graded data

@@ -56,3 +56,6 @@ Comparison of FY (N = 2433) and BFY (N = 1158) subgroups from the matched datase
 - [Beyond-first-year lab students' overall E-CLASS scores do not shift significantly over one semester](bfy-lab-e-class-no-significant-shift.md) — related
 - [BFY students score higher than FY students on E-CLASS, with statistically significant differences on 24 of 30 items](bfy-score-higher-than-fy-e-class.md) — possibly the same claim (merge candidate)
 - [First-year physics lab students' overall E-CLASS scores decline significantly over one semester of instruction (d = −0.15)](fy-lab-e-class-overall-negative-shift.md) — related
+- [PLIC scores show no statistically significant pre- to post-instruction gains for students in FY, BFY, or graduate labs overall](no-significant-plic-gains-following-instruction.md) — related
+- [PLIC performance is consistently higher with greater physics maturity, from first-year students to experts](plic-scores-increase-with-physics-maturity.md) — a broader claim this one bears on
+- [On a data-comparison item, expert responses are selected more often and novice responses less often with greater physics maturity](plic-item-selections-vary-by-maturity.md) — related

@@ -47,6 +47,7 @@ The article's recommendations respond directly to its location findings: rural s
 ## Related Strategies
 
 - [Equip Nigerian schools with PowerPoint presentation facilities and train teachers to use them for technology-based subjects](encourage-ppt-nigerian-schools-strategy.md)
+- [Faculty should encourage students in drilling physics problems and deliver more efficient teaching](encourage-drilling-physics-problems-strategy.md)
 
 ## Examples
 -

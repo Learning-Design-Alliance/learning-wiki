@@ -51,3 +51,4 @@ Theme 5 of the focus group analysis with 25 healthcare professionals: participan
 - [Team-based interprofessional simulation sessions were associated with 92% of respondents reporting increased interprofessional understanding and an average 18% rise in team performance scores](interprofessional-team-simulation-gains.md) — related
 - [Most participants reported perceived competency gains in interprofessional collaboration, communication, teamwork and empathy, and professional knowledge and skills](mcleims-perceived-competency-gains.md) — related
 - [Positive and negative factors in simulation (practical organisation, cases, reversed hierarchies, involvement, debriefing) were unrelated to the ISS or OSS setting](simulation-factors-unrelated-to-setting.md) — related
+- [Bi-communal astronomy activity days were followed by participant-reported feelings of improved mutual understanding and empathy](columba-hypatia-reported-empathy-after-bicommunal-days.md) — related

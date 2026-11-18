@@ -51,3 +51,7 @@ A synthesis statement in the commentary's assessment question on how we learn, d
 - [Social and emotional competence can be enhanced through explicit instruction, teaching practices, and curriculum integration](sel-classroom-approaches-three-types.md) — related
 - [Motivation theories in education have converged on a learner-centered focus over recent decades](motivation-theories-converged-learner-centered.md) — related
 - [Barach argues game-based learning needs more pedagogical rigor, scaffolding integration, and learner accountability through design](need-pedagogical-rigor-learning-games.md) — related
+- [A majority of students reported that the contemplative practices produced feelings of somatic relaxation and mental stillness](contemplative-practices-somatic-relaxation-mental-stillness.md) — related
+- [Students reported an overall increased awareness of their cognitive and emotional processes after the contemplative practices](contemplative-practices-awareness-cognitive-emotional-processes.md) — a narrower finding that bears on this claim
+- [Many students described a naturally emergent sense of curiosity in response to their observations during the contemplative practices](contemplative-practices-emergent-curiosity-observations.md) — related
+- [Students described a sudden awakening of the senses and heightened somatic, sensory, and environmental awareness during the contemplative practices](sensory-meditation-heightened-embodiment-sensory-awareness.md) — related

@@ -60,9 +60,11 @@ Naming emotions recruits verbal labeling that supports regulation — the "affec
 5. **Close with a strategy link**: end by naming one regulation strategy the class can use tomorrow, so the debrief feeds forward rather than merely venting.
 
 ## Related Strategies
+
 - [Active-Listening](active-listening.md) — the peer behavior the debrief depends on; without it, sharing becomes performance
 - ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — a playful variant that builds the same emotion vocabulary through guessing rather than disclosure
 - [Action Planning](action_planning.md) — a natural follow-on that converts identified feelings into regulation strategies
+- [Explicitly normalize the discomfort of not understanding, and coach participants to ask questions early and often](nitarp-normalize-feeling-stupid-ask-questions.md)
 
 ## Examples
 - **[RULER](../products/ruler.md) (Yale Center for Emotional Intelligence)** — the "Charter" and "Mood Meter" routines include structured emotional check-ins and debriefs; widely implemented in K–12 classrooms. https://ei.yale.edu

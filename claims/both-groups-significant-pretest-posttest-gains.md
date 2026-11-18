@@ -74,3 +74,4 @@ Paired-samples t-test for related samples (Table 3): experimental pretest-postes
 - [All three learning groups' knowledge scores rose significantly from pre-test to post-test after watching the online video, with change measured within each group](significant-within-group-knowledge-gain-all-three-video-groups.md) — related
 - [No significant difference was found between pretest and posttest knowledge-test scores over the 4-week period](no-significant-pretest-posttest-difference-clinical-reasoning.md) — related
 - [Posttest scores improved significantly from pretest in both the blended and control groups (p<0.01)](both-groups-significant-pre-post-gains-dermatology.md) — possibly the same claim (merge candidate)
+- [Personalized quiz generation produced significant pretest-to-posttest gains within the experimental group, while the two groups did not differ significantly on the posttest](personalized-quiz-pre-post-gains-not-posttest-group-difference.md) — related

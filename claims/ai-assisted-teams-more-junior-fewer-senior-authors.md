@@ -52,3 +52,4 @@ Career-age composition analysis across four career stages (junior, early-career,
 - [AI-related guilt decreases with career stage, with early-career academics reporting the highest guilt](ai-guilt-decreases-with-career-stage.md) — related
 - [In LLM-assisted team formation, class standing strongly drives assignments: seniors are far less likely than freshmen to be assigned to Interface Design relative to Core Development](llm-team-formation-class-standing-effect.md) — related
 - [Academics' identity reconstruction through technology integration varies across career stages](career-stage-differences-identity-reconstruction-technology.md) — related
+- [Barrier–engagement-time correlations vary by career stage: skills barriers for the youngest, academic and local community barriers for mid-career researchers](epo-barrier-correlations-by-age.md) — related

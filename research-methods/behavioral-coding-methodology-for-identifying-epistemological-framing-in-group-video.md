@@ -44,7 +44,8 @@ A real-time observational coding protocol in which coders watch video of small g
 - [AP-to-AM frame shifts occur far more frequently than AM-to-AP shifts (15 vs 3) in group problem solving](../claims/ap-am-shift-asymmetry.md) [+M]
 
 ## Related Research Methods
--
+
+- [Recurring-question marker for identifying sensemaking in qualitative data](recurring-question-marker-for-identifying-sensemaking-in-qualitative-data.md)
 
 ## Key Sources
 - Rachel E. Scherr and David Hammer. (2007). Student Behavior and Epistemological Framing: Examples from Collaborative Active-Learning Activities in Physics. Submitted to Cognition and Instruction. https://scholar.google.com/scholar?q=Student+Behavior+and+Epistemological+Framing

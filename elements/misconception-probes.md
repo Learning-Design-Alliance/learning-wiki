@@ -96,6 +96,7 @@ Probes work because learners cannot revise a belief they do not realize they hol
 - [Triangulate curriculum impact with multiple instruments plus longitudinal tracking](../strategies/assessment-triangulation-longitudinal-tracking-strategy.md)
 - [Use the misconceptions found in graph pre-tests to create multiple choice assessment questions for position, velocity and acceleration](../strategies/misconception-based-multiple-choice-questions.md)
 - [Revise simulations in response to documented student difficulties by adding visualizations that show when errors do and do not occur](../strategies/revise-sims-from-documented-difficulties.md)
+- [Train teachers to diagnose intuitive conceptions and misconceptions with concept tests in their own classrooms](../strategies/concept-tests-misconception-diagnosis-strategy.md)
 
 ## Key Sources
 - Hestenes, D., Wells, M., & Swackhamer, G. (1992). Force Concept Inventory. *The Physics Teacher, 30*(3), 141–158. [doi:10.1119/1.2343497](https://doi.org/10.1119/1.2343497)

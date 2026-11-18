@@ -31,7 +31,8 @@ Wolfram Research's software document format renders interactive Mathematica code
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Scilab Cloud](scilab-cloud.md)
 
 ## Key Sources
 - Nathan E. Sanders, Chris Faesi, Alyssa A. Goodman. (2013). A New Approach to Developing Interactive Software Modules through Graduate Education. https://arxiv.org/abs/1308.1908

@@ -50,3 +50,4 @@ Hypothesis 3 covariate results from the daily-diary study (N = 57). For the SAI,
 - [Leisure-time physical activity, but not PA breaks, is associated with fewer self-reported attention difficulties during home studying](ltpa-reduces-daily-attention-difficulties.md) — related
 - [Using breaks between lectures for independent study is an independent positive predictor of daily study satisfaction beyond overall time investment](breaks-for-independent-study-predict-satisfaction.md) — related
 - [On days when university students do more leisure-time physical activity, they report higher functional stress and lower dysfunctional stress during home studying](ltpa-daily-functional-dysfunctional-stress.md) — related
+- [Just-in-time interventions cause students to take earlier action and longer breaks, but many students perceived them as unhelpful or poorly timed](jit-intervention-timing-and-perception.md) — related

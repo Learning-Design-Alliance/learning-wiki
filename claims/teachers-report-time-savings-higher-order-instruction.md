@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
-newest_evidence: 2025
+newest_evidence: 2026
 sources:
-  - id: raigul-zheldibayeva-2025
+  - id: raigul-zheldibayeva-2026
     resource: "https://doi.org/10.48550/arxiv.2605.17055"
-    title: "Raigul Zheldibayeva, Ana Karina de Oliveira Nascimento, Vania Castro, Bill Cope and Mary Kalantzis. (2025). Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar. https://arxiv.org/abs/2605.17055 [doi:10.48550/arxiv.2605.17055](https://doi.org/10.48550/arxiv.2605.17055)"
+    title: "Raigul Zheldibayeva, Ana Karina de Oliveira Nascimento, Vania Castro, Bill Cope and Mary Kalantzis. (2026). Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar. https://arxiv.org/abs/2605.17055 Originally published 2025. [doi:10.48550/arxiv.2605.17055](https://doi.org/10.48550/arxiv.2605.17055)"
     author: Raigul Zheldibayeva, Ana Karina de Oliveira Nascimento, Vania Castro, Bill Cope and Mary Kalantzis
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Teachers across sites said the tool reduced time on repetitive feedback and freed them for argument development, coherence, and reasoning concerns. [→ Raigul Zheldibayeva 2025](#raigul-zheldibayeva-2025)
+`q2 i?` Teachers across sites said the tool reduced time on repetitive feedback and freed them for argument development, coherence, and reasoning concerns. [→ Raigul Zheldibayeva 2026](#raigul-zheldibayeva-2026)
 
 ## Evidence
 
-### Raigul Zheldibayeva 2025
+### Raigul Zheldibayeva 2026
 
-Raigul Zheldibayeva, Ana Karina de Oliveira Nascimento, Vania Castro, Bill Cope and Mary Kalantzis. (2025). Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar. https://arxiv.org/abs/2605.17055 [doi:10.48550/arxiv.2605.17055](https://doi.org/10.48550/arxiv.2605.17055)
+Raigul Zheldibayeva, Ana Karina de Oliveira Nascimento, Vania Castro, Bill Cope and Mary Kalantzis. (2026). Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar. https://arxiv.org/abs/2605.17055 Originally published 2025. [doi:10.48550/arxiv.2605.17055](https://doi.org/10.48550/arxiv.2605.17055)
 
 `q2 · i?` · `qualitative · r3`
 
@@ -56,3 +56,4 @@ Teacher post-surveys (n=5) in the multiple-case study; teachers reported the fee
 - [SWOT analysis concluded blended learning is the ideal future teaching concept and e-Learning implementation creates new cooperation opportunities without saving time](swot-blended-learning-ideal-concept.md) — reports the opposite
 - [Automated scoring and feedback technologies help trainees save time and self-monitor progress, but VR assessment may measure efficiency rather than safe practices](automated-feedback-efficiency-limitation.md) — related
 - [Korean EFL middle school students desire extra help with writing to achieve balanced English competence](korean-efl-students-desire-writing-balance.md) — related
+- [Most DES respondents favor centralized EPO efforts, valuing time savings and avoidance of duplicated effort](epo-centralization-favorable.md) — related

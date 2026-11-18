@@ -8,12 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-16
 evidence_strength: weak
-newest_evidence: 2011
-source_checked: 2026-11-17
+newest_evidence: 2012
 sources:
-  - id: vera-montalbano-2011
+  - id: vera-montalbano-2012
     resource: "https://doi.org/10.48550/arXiv.1201.0553"
-    title: "Vera Montalbano, Sonia Quattrini. (2011). MEASURES OF RADIOACTIVITY: A TOOL FOR UNDERSTANDING STATISTICAL DATA ANALYSIS. FFP12 2011, Udine 21-23 November 2011. [doi:10.48550/arXiv.1201.0553](https://doi.org/10.48550/arXiv.1201.0553)"
+    title: "Vera Montalbano, Sonia Quattrini. (2012). MEASURES OF RADIOACTIVITY: A TOOL FOR UNDERSTANDING STATISTICAL DATA ANALYSIS. FFP12 2011, Udine 21-23 November 2011. Originally published 2011. [doi:10.48550/arXiv.1201.0553](https://doi.org/10.48550/arXiv.1201.0553)"
     author: Vera Montalbano, Sonia Quattrini
     q: 2
     i: "?"
@@ -25,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2011 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` During measurements of weak uranium sources, the necessity of performing many measures and the problem of evaluating uncertainties arose, and students were ready to recall their statistics knowledge to face this problem. [→ Vera Montalbano 2011](#vera-montalbano-2011)
+`q2 i?` During measurements of weak uranium sources, the necessity of performing many measures and the problem of evaluating uncertainties arose, and students were ready to recall their statistics knowledge to face this problem. [→ Vera Montalbano 2012](#vera-montalbano-2012)
 
 ## Evidence
 
-### Vera Montalbano 2011
+### Vera Montalbano 2012
 
-Vera Montalbano, Sonia Quattrini. (2011). MEASURES OF RADIOACTIVITY: A TOOL FOR UNDERSTANDING STATISTICAL DATA ANALYSIS. FFP12 2011, Udine 21-23 November 2011. [doi:10.48550/arXiv.1201.0553](https://doi.org/10.48550/arXiv.1201.0553)
+Vera Montalbano, Sonia Quattrini. (2012). MEASURES OF RADIOACTIVITY: A TOOL FOR UNDERSTANDING STATISTICAL DATA ANALYSIS. FFP12 2011, Udine 21-23 November 2011. Originally published 2011. [doi:10.48550/arXiv.1201.0553](https://doi.org/10.48550/arXiv.1201.0553)
 
 `q2 · i?` · `design · r2`
 
@@ -51,3 +50,4 @@ Section 2 describes the authors' observation during the laboratory phase, in whi
 - [Most students misattribute the source of statistical uncertainty in radiation counting to the measuring device rather than to the random nature of the emitted radiation](students-attribute-counting-uncertainty-to-device.md) — related
 - [Students in introductory physics labs are almost never engaged in experiment design, so they hold only a theoretical view of setup limitations and how they affect measurement uncertainty](introductory-lab-students-not-engaged-in-design.md) — a broader claim this one bears on
 - [Students compare radiation measurements as point numbers without the ±σ range, so overlapping successive measurements are treated as errors rather than as valid within statistical uncertainty](students-compare-measurements-as-point-numbers.md) — related
+- [Tasks can be designed to create a perceived trade-off between accuracy and realism that requires sensemaking to resolve](accuracy-realism-task-design.md) — related

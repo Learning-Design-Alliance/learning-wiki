@@ -50,3 +50,4 @@ Tally-sheet observations during the six-week study showed that spontaneous trans
 - [Most 3-year-olds deployed a demonstrated external marking strategy, but none modified it to solve a conceptually similar transfer task](three-year-olds-copy-but-do-not-modify-external-strategy.md) — related
 - [In two studies of children aged 10–12 and 9–13, students were more likely to study vocabulary on days they received a mobile-app study reminder than on days they did not](reminder-days-boost-same-day-study-probability.md) — related
 - [The experimental treatment group showed greater gains than comparison classes on benchmark and social studies assessments.](treatment-group-outperformed-comparison-classes.md) — a broader claim this one bears on
+- [Students spontaneously applied problem-solving strategies to new scenarios or in new ways after being introduced to them](spontaneous-strategy-transfer-new-scenarios.md) — reports the opposite

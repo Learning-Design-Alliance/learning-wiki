@@ -22,6 +22,7 @@ A free desktop virtual-reality simulation developed by Dominic McGrath and colle
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Real Time Relativity (RTR) virtual reality simulation of special relativity**: Real Time Relativity is a desktop virtual reality package that simulates the visual effects of travelling at near light speed in a game-like world with user control over motion and view, with scenarios including clocks, planets and abstract shapes. The article states "the visual experience of the user is extremely accurate" and that some effects can be disabled to focus on particular concepts. It runs on a personal computer with a programmable graphics card and is available free from http://realtimerelativity.org/. (Dominic McGrath et al. (2009))
+- **Python/Vispy animation toolkit for Special Relativity visualizations**: The article releases a set of Python scripts, built on the Vispy package combining OpenGL with Python, that generate interactive visualizations and animations of relativistically moving self-luminous wire-frame objects. As printed: "The code of this work comes in three parts, make_shape.py, SR_transforms.py, and animate_shape.py." The make_shape script produces points for rods combined into squares and cubes, SR_transforms applies Lorentz transformations and optical distortion, and animate_shape renders the animations. The scripts are made available online for personal or professional use, and shapes are built point by point so the mechanism is transparent to readers. (Jason Garver (2018))
 
 ### Claims
 - [Students who completed the RTR experiment performed better on the final exam special relativity question (d = 0.33, p < 0.05)](../claims/rtr-final-exam-advantage-d-033.md) [+M]
@@ -37,8 +38,8 @@ A free desktop virtual-reality simulation developed by Dominic McGrath and colle
 ## Key Sources
 - Dominic McGrath, Margaret Wegener, Timothy J. McIntyre, Craig Savage, Michael Williamson. (2009). Student experiences of virtual reality - a case study in learning special relativity. arXiv:0911.0226. https://arxiv.org/abs/0911.0226
 - C. Savage, D. McGrath, T. McIntyre, M. Wegener, M. Williamson. (2009). Teaching Physics Using Virtual Reality. http://realtimerelativity.org
-
 <!-- merged 2026-11-10 from products/real-time-relativity ("Real Time Relativity"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Jason Garver. (2018). A Pedagogic Approach To Visualization In Special Relativity. Astrophysics Thesis, University of Minnesota-Twin Cities. https://arxiv.org/abs/1805.11515
 
 # Real Time Relativity
 

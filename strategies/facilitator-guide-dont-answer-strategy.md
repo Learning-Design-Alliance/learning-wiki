@@ -48,6 +48,7 @@ In the classroom session, 3–5 prepped faculty advisors with an answer key circ
 
 - [Peer Teaching](peer-teaching.md)
 - [Increase Latency Periods When Questioning Students](increase_latency_periods_when_questioning_students.md)
+- [Teacher-as-facilitator discussions driven by stimulating questions, with explicit promotion of proper scientific language](facilitator-question-driven-scientific-language.md)
 
 ## Examples
 -

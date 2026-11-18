@@ -47,6 +47,7 @@ The article proposes a three-stage evaluation sequence grounded in the construct
 
 - [Allocate human and AI effort by dimension type: automate explicit-criteria dimensions, retain human review for pedagogical judgment](human-ai-division-of-labor-mcq-generation.md)
 - [Develop rigorous benchmarks for LLM data extraction tasks in education systematic reviews](develop-benchmarks-llm-data-extraction-education.md)
+- [Two-stage research design identifying and integrating cultural and social learning cues (CSLC) into informal STEM programs](two-stage-cslc-research-design.md)
 
 ## Examples
 -

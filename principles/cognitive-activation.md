@@ -30,7 +30,7 @@ sources:
 # Cognitive Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 39 claims (21 for, 16 mixed, 2 against) · 46 studies (22 causal, 5 review, 5 qualitative, 4 quant-synthesis, 4 associational, 4 theoretical, 2 design), `q1`–`q4` · 11 of 46 report an effect size · 31 claims rest on one study
+> **Evidence** · 41 claims (23 for, 16 mixed, 2 against) · 47 studies (22 causal, 6 qualitative, 5 review, 4 quant-synthesis, 4 associational, 4 theoretical, 2 design), `q1`–`q4` · 11 of 47 report an effect size · 33 claims rest on one study
 
 ## Conditional relationship
 
@@ -138,6 +138,8 @@ Re-read 2026-10-19: every claim listed here before that date was read against th
 - [The explicit assumptions prompt prompted Conceptual Discussion from every group studied and had the highest overall Conceptual Discussion percentage](../claims/assumptions-prompt-most-conceptual-discussion.md) [+W] — attached 2026-11-16 from Martinuk et al. (2010), which proposed "Require students to state modeling assumptions to induce conceptual discussion, because reconciliation between formal physics and everyday intuition is required".
 - [Typical engineering assessment practices reward regurgitation and speed and designate conceptual reasoning as peripheral \"extra credit,\" in Michael's experience](../claims/engineering-assessment-rewards-regurgitation.md) [+W] — attached 2026-11-16 from Brian A. Danielak et al. (2010), which proposed "Retention efforts should target not only demographic diversity but also the approaches to knowledge, learning, and problem-solving that programs support".
 - [When prompted, most students reflect on derived expressions superficially and fail to connect terms to the relevant physics](../claims/superficial-reflection-on-derived-expressions.md) [~W] — attached 2026-11-17 from Caballero et al. (2012), which proposed "Instruction should teach students to gain confidence in derived expressions by connecting them to the physics, not just checking units".
+- [In the biology course ARS questions were intended mainly to check in and elicit immediate recall, while the engineering course used ARS questions to prompt conceptual and quantitative reasoning on new scenarios](../claims/ars-check-in-versus-conceptual-reasoning-across-courses.md) [+W] — attached 2026-11-18 from Koretsky et al. (2018), which proposed "Design and evaluate active learning tools by foregrounding the intended student thinking and sense-making processes, not only performance gains relative to controls".
+- [Despite different implementations, both courses' ARS and GIW tools were intended to engage students in conceptual reasoning and quantitative reasoning around key disciplinary topics](../claims/shared-sense-making-targets-across-tools.md) [+W] — attached 2026-11-18 from Koretsky et al. (2018), which proposed "Design and evaluate active learning tools by foregrounding the intended student thinking and sense-making processes, not only performance gains relative to controls".
 
 ## Objective and learner-valued goal
 

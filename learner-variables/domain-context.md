@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 130 claims (90 show a difference, 30 mixed, 10 no difference) · 115 studies (27 causal, 26 qualitative, 20 review, 19 design, 11 associational, 7 theoretical, 5 quant-synthesis), `q1`–`q4` · 15 of 115 report an effect size · 126 claims rest on one study
+> **Evidence** · 138 claims (96 show a difference, 32 mixed, 10 no difference) · 119 studies (29 qualitative, 27 causal, 20 review, 20 design, 11 associational, 7 theoretical, 5 quant-synthesis), `q1`–`q4` · 15 of 119 report an effect size · 134 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -171,6 +171,14 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [Aligning electronics course content with the frequency distribution of real research electronics work can better prepare undergraduates for research careers](../claims/align-course-to-real-usage-distribution.md) [+M] — an instructional effect differs with it
 - [Hands-on laboratory activities were appreciated by vocational students but did not suffice when physics was perceived as useless for their professional training](../claims/hands-on-appreciated-insufficient-when-topic-perceived-useless.md) [~W] — an instructional effect differs with it
 - [Life science students accept and engage enthusiastically with physics and mathematical modeling when applications are perceived as biologically authentic, and resist when they perceive them as irrelevant to biology.](../claims/authentic-relevance-drives-life-science-student-engagement.md) [+M] — an instructional effect differs with it
+- [A wound-healing classroom activity that intersected a student's lived experience became a recurring, self-reported touchpoint for physics relevance](../claims/wound-healing-activity-lived-experience-relevance.md) [~M] — an instructional effect differs with it
+- [Concurrent enrollment in a disciplinary course alongside physics amplified a life-science major's sense of physics relevance through mesosystem connections](../claims/mesosystem-cross-course-connections-amplify-relevance-maria.md) [+M] — learners who differ on it differ in outcomes
+- [Disciplinary identity shapes the nature of students' real-world physics connections, with concurrent life-science coursework enabling cross-disciplinary connections](../claims/disciplinary-identity-shapes-physics-connections.md) [+W] — learners who differ on it differ in outcomes
+- [Life-science students rarely think of or talk about physics in everyday life yet make a variety of connections to the real world](../claims/life-science-students-rarely-think-physics-but-connect.md) [+W] — learners who differ on it differ in outcomes
+- [A life-science student with initially high physics anxiety can come to report using physics to reason through everyday phenomena, contrasting the common deterioration of relevance beliefs](../claims/contrasting-case-student-finds-physics-relevant-in-daily-life.md) [+M] — measured as an outcome of the instruction studied
+- [CLASS Personal Interest and Real World Connection clusters typically show negative shifts, though some instructional approaches produce positive shifts](../claims/class-relevance-clusters-typically-negative-shifts.md) [~W] — measured as an outcome of the instruction studied
+- [Course design and participatory structures can impact a student's sense of relevance with lasting effects after the course](../claims/course-design-participatory-structures-impact-relevance-nicole.md) [+M] — measured as an outcome of the instruction studied
+- [Graduate students rate the Problem Finding course as relevant, worthwhile and useful for their future and career (M = 4.58)](../claims/pf-course-rated-relevant-worthwhile-useful.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

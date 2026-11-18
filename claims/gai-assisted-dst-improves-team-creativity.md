@@ -56,3 +56,4 @@ One-way ANOVA on expert-rated TCP scores (three experts, ICC = 0.89) comparing s
 - [Adult learners view AI as a collaborative learning agent for solving complex problems, sharing knowledge, and honing higher-order thinking](ai-as-collaborative-learning-agent.md) — related
 - [Students rate GenAI's creativity enhancement in programming significantly above neutral](genai-creativity-enhancement-perceptions.md) — related
 - [Treatment-group final products score significantly higher on all three CPAM creativity aspects: uniqueness, practicality and detail](cpam-aspects-all-favour-mobile-cad-integration.md) — related
+- [Students report the course improved their creative thinking skills (M = 4.51) and that team discussion improved understanding and generated creative ideas (M = 4.65)](pf-course-creativity-and-team-discussion-ratings.md) — related

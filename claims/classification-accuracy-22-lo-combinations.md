@@ -70,3 +70,4 @@ Within the same classification-accuracy analysis of 22 LO-assessment combination
 - [DINA models fit FCI and EMCS posttest data well but fit FMCE data only marginally](dina-fit-fci-emcs-good-fmce-marginal.md) — related
 - [The combined FCI, FMCE, and EMCS item bank covers all 14 learning objectives with at least six items each, mostly single- or two-LO items](rba-item-bank-covers-14-los.md) — related
 - [Misspecification of theoretical diagnostic classification models and inaccurate Q-matrices impact classification accuracy](tdcm-qmatrix-misspecification-hurts-classification.md) — a broader claim this one bears on
+- [The heading-based extraction algorithm correctly tagged learning outcomes in 78 of 86 course outline documents (90.69% accuracy)](lo-extraction-90-69-percent-86-documents.md) — related

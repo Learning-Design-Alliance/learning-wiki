@@ -45,4 +45,4 @@ Written open-response items on importance of probability, career desire and pers
 
 
 ## Related Claims
--
+- [Long program timescale lets students get stuck and teaches patience and perseverance, and supports mentor development](srmp-long-timescale-benefit.md) — related

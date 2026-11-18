@@ -47,6 +47,7 @@ The article's forward-looking recommendations call for ontology development to b
 ## Related Strategies
 
 - [Develop ontologies for ITS interoperability incrementally (mappings, benchmark tasks, folksonomies) rather than a top-down super-ontology](incremental-ontology-standards-aied.md)
+- [Future improvements: expand domains and corpus, restructure data files, and build education-domain WordNet-like ontologies](education-domain-ontology-future-work.md)
 
 ## Examples
 -
