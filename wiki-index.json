@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":79006,
+"claim":79009,
 "design":4799,
 "element":1057,
 "learner-variable":75,
@@ -2071,6 +2071,7 @@
 "a-level-right-censoring-attenuates-predictive-correlations":"a-level-right-censoring-attenuates-predictive-correlations",
 "a-levels-predict-medical-school-assessments":"a-levels-predict-medical-school-assessments",
 "a-little-intelligence-can-go-a-long-way":"a-little-intelligence-can-go-a-long-way",
+"a-model-written-checklist-agrees-less-with-human-raters-on-short-answers":"a-model-written-checklist-agrees-less-with-human-raters-on-short-answers",
 "a-osats-correlates-with-osats-grs":"a-osats-correlates-with-osats-grs",
 "a-osats-delphi-consensus-development":"a-osats-delphi-consensus-development",
 "a-osats-discriminates-experience-levels":"a-osats-discriminates-experience-levels",
@@ -56145,6 +56146,7 @@
 "preceptorship-sct-hematology-oncology-only-topic-improved":"preceptorship-sct-hematology-oncology-only-topic-improved",
 "preceptorship-suboptimal-implementation-short-infrequent-sessions":"preceptorship-suboptimal-implementation-short-infrequent-sessions",
 "precg-session1-2-difference":"precg-session1-2-difference",
+"precise-yes-no-checklists-do-not-make-llm-grading-more-reliable":"precise-yes-no-checklists-do-not-make-llm-grading-more-reliable",
 "precision-of-language-evaluation-criterion":"precision-of-language-evaluation-criterion",
 "precision-score-validity-ivr-rating-scale":"precision-score-validity-ivr-rating-scale",
 "precision-throw-not-associated-academic-performance":"precision-throw-not-associated-academic-performance",
@@ -60015,6 +60017,7 @@
 "ree-within-group-stress-change-sustained":"ree-within-group-stress-change-sustained",
 "referee-expertise-decision-accuracy-advantage":"referee-expertise-decision-accuracy-advantage",
 "referee-ratings-poor-predictors-of-training-performance":"referee-ratings-poor-predictors-of-training-performance",
+"reference-answer-checklists-miss-false-claims-and-reward-key-terms":"reference-answer-checklists-miss-false-claims-and-reward-key-terms",
 "reference-custom-tte-score-agreement":"reference-custom-tte-score-agreement",
 "reference-group-test-difficulty-validation":"reference-group-test-difficulty-validation",
 "reference-value-misunderstanding-underlies-ped-difficulties":"reference-value-misunderstanding-underlies-ped-difficulties",

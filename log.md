@@ -12,6 +12,9 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 
 ## 2026-11-19
 
+* **Ingest**: [claims/reference-answer-checklists-miss-false-claims-and-reward-key-terms](claims/reference-answer-checklists-miss-false-claims-and-reward-key-terms.md) — From research release checklist-grading-2026 1.0.1, https://doi.org/10.5281/zenodo.24023968
+* **Ingest**: [claims/a-model-written-checklist-agrees-less-with-human-raters-on-short-answers](claims/a-model-written-checklist-agrees-less-with-human-raters-on-short-answers.md) — From research release checklist-grading-2026 1.0.1, https://doi.org/10.5281/zenodo.24023968
+* **Ingest**: [claims/precise-yes-no-checklists-do-not-make-llm-grading-more-reliable](claims/precise-yes-no-checklists-do-not-make-llm-grading-more-reliable.md) — From research release checklist-grading-2026 1.0.1, https://doi.org/10.5281/zenodo.24023968
 * **Ingest**: [strategies/ar-supplementary-blended-learning-strategy](strategies/ar-supplementary-blended-learning-strategy.md) — Ingested from arxiv-2203.07024 (A Review of Augmented Reality Apps for an AR-Based STEM Education Framework) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/ar-quadratic-pilot-positive-reaction](claims/ar-quadratic-pilot-positive-reaction.md) — Ingested from arxiv-2203.07024 (A Review of Augmented Reality Apps for an AR-Based STEM Education Framework) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/ar-simulation-deeper-investigatory-engagement](claims/ar-simulation-deeper-investigatory-engagement.md) — Ingested from arxiv-2203.07024 (A Review of Augmented Reality Apps for an AR-Based STEM Education Framework) via eval_harness.py + ingest_extractions.py

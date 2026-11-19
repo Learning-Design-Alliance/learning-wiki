@@ -8,15 +8,15 @@ This wiki is written by language models, from published research, and checked by
 
 | | |
 |---|---|
-| Claims | 79,006, from 18,106 sources |
+| Claims | 79,009, from 18,106 sources |
 | Reviewed by a person | 0 |
 | Every evidence entry compared with its source by the faithfulness judge | 8,381 claims (11%) |
-| Claims citing at least one DOI | 65,711 claims (83%) |
+| Claims citing at least one DOI | 65,714 claims (83%) |
 | Sources whose citations went through the Crossref identity gate | 17,280 of 18,106 |
 | Sources read for impossible statistics and invented references | 6,251 of 7,135 (2026-10-25) |
 | Cited DOIs checked for retraction | 6,793 of 6,793 (2026-10-25) |
 | Retracted sources found and acted on | 11 |
-| Claims past their recheck year (fast-ageing kinds only) | 7,344 of 14,689 with one |
+| Claims past their recheck year (fast-ageing kinds only) | 7,344 of 14,692 with one |
 | Claims removed by a check, all time | 7,709 |
 
 ## The checks, in the order a claim meets them
@@ -51,7 +51,7 @@ A claim whose evidence has no DOI after a Crossref and DataCite search is remove
 
 **Cannot catch.** Whether the DOI'd source is any good.
 
-**Coverage.** 65,711 of 79,006 claims (83%) cite a DOI; 2,915 claims removed for having none.
+**Coverage.** 65,714 of 79,009 claims (83%) cite a DOI; 2,915 claims removed for having none.
 
 ### 5. Faithfulness to the source
 
@@ -83,7 +83,7 @@ Each evidence entry carries a design tier (`q1`–`q4`), an impact code (`i0`–
 
 **Cannot catch.** Whether a study's conclusion is true. The codes describe how a study was done, not whether it was right.
 
-**Coverage.** 93,214 evidence entries; 11,411 rest on a printed effect size and 81,831 report none (`i?`); 87,249 carry a rigour rating.
+**Coverage.** 93,217 evidence entries; 11,411 rest on a printed effect size and 81,834 report none (`i?`); 87,249 carry a rigour rating.
 
 ### 9. Duplicates and merges
 
@@ -99,7 +99,7 @@ Each claim states the year of its newest study and when its sources were last ch
 
 **Cannot catch.** A finding superseded by newer research the wiki has not ingested.
 
-**Coverage.** 14,689 claims carry a recheck year; 7,344 are past it.
+**Coverage.** 14,692 claims carry a recheck year; 7,344 are past it.
 
 ### 11. Structure
 
