@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-11-19
 recheck_by: 2026
 sources:
   - id: chandralekha-singh-2021
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
+> **Currency** · newest study 2021 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Because societal stereotypes are strongest in physics, a field historically associated with brilliant men, women and ethnic and racial minority students are more likely than majority students to view struggle negatively and have lower sense of belonging. [→ Chandralekha Singh 2021](#chandralekha-singh-2021)

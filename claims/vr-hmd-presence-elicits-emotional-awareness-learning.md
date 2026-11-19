@@ -48,3 +48,4 @@ Focus-group and observational data from the theme 'Playful and emotionally affec
 - [High-immersion VR produced significantly higher enjoyment than video instruction, with a medium effect size](vr-higher-enjoyment-than-video.md) — related
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — reports the opposite
 - [Resident doctors in child and adolescent psychiatry experienced VR-SIMI as an appropriate method for training non-technical skills during residency](vr-simi-experienced-appropriate-nons-technical-skill-training-residents.md) — a broader claim this one bears on
+- [Overall satisfaction with the virtual tour did not differ significantly by participation medium (HMD, Desktop mode, or YouTube)](no-satisfaction-difference-by-medium.md) — related

@@ -45,4 +45,4 @@ Theoretical argument, not a data study. Freeman analyzes the advocates' argument
 
 
 ## Related Claims
--
+- [Multi-sensory teaching benefits students of all levels of sight, according to interviewed BVI researchers](multisensory-teaching-benefits-all-sight-levels.md) — related

@@ -47,3 +47,4 @@ Spearman correlation analysis within the experimental group (n = 105) between di
 ## Related Claims
 - [Favorable overall self-reported perceptions coexisted with lower self-reported familiarity in specific technical areas: machine learning, prior block-based programming experience, and game-engine programming](item-level-familiarity-gaps-ml-blocks-game-engines.md) — related
 - [Exploratory regression models showed both technical dimensions were significantly associated with active-learning perceptions, while only active learning was significantly associated with self-reported knowledge of programming and machine learning](exploratory-regression-dimension-associations.md) — related
+- [Prior familiarity with modeling and simulation games correlated with learning gains in the lab experiment](vera-familiarity-correlations-learning-gains.md) — related

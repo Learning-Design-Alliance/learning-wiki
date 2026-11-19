@@ -63,6 +63,7 @@ The evidence base is narrower than the popular "learning styles" framing suggest
 - [Annotating](../principles/annotating.md) — a text-based way to add a visual-organizational channel to reading
 - [Teach L2 comprehension through a multiliteracies curriculum with video-based visualizing and verbalizing activities](multiliteracies-video-comprehension-activities.md)
 - [Integrate mixed-reality visualization with physical interaction rather than relying on a single modality](integrate-mr-visualization-physical-interaction.md)
+- [Use a multi-modal, multi-sensory approach combining sound, touch and visual elements when designing astronomy education and outreach resources](multimodal-astronomy-resources-strategy.md)
 
 ## Examples
 - **Orton-Gillingham literacy instruction** (https://www.orton-gillingham.com) — phonics taught simultaneously through visual (letter shape), auditory (sound), and kinesthetic (tracing in sand) channels; the classic multi-sensory application for dyslexic learners.

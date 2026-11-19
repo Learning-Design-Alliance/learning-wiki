@@ -57,3 +57,4 @@ Time-trend estimates from the same linear mixed-effects models; interest was the
 - [Pre-service teachers' opinions of how interesting and important physics and astronomy are, and how much is left to discover, rise non-significantly from a high baseline](niaq-opinion-gains-not-significant.md) — related
 - [Students' interest in physics increased significantly in both the fully in-person fall and the partially remote spring semesters, rising slightly less in spring](claim-physics-interest-increased-remote-semester.md) — related
 - [Self-reported understanding of astronomy content shows a positive trend across all three cohorts, while interest gains are more varied but positive in each cycle](sattaa-interest-understanding-trends.md) — reports the opposite
+- [Students' physics interest and general science interest both decrease significantly over a semester of Modeling Instruction](mi-course-interest-decreases.md) — a narrower finding that bears on this claim

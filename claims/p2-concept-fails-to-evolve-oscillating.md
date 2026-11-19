@@ -50,3 +50,4 @@ DEAF analysis applied to a single question probing graphical interpretation of v
 - [DEAF analysis of tutorial-based active instruction with 20 engineering students did not show the tutorial methodology as the most effective, falsifying the working hypothesis](tutorial-methodology-hypothesis-falsified-deaf.md) — related
 - [Performance curves across 10 consecutive test applications were generally flat, with scores improving slightly then decaying and oscillating between sessions](flat-performance-curves-ten-applications.md) — related
 - [ENEM 2012_Q60 shows completers still confuse position with velocity and struggle to represent motion graphically](enem-position-velocity-confusion-2012-q60.md) — related
+- [In one uncontrolled pre-post study, gain curves for learning about falling bodies through PI showed a more or less linear evolution over ten measurement points, without peaks, dips or interference usually reported](linear-learning-curve-no-peaks-pi.md) — related

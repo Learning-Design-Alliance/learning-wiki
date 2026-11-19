@@ -71,3 +71,4 @@ The same follow-up interviews surfaced challenges: "it could be difficult to cho
 - [Students in a pilot computational-essay project reported that open-ended programming offered creative freedom at both a micro level (varied approaches to sub-tasks) and a macro level (choice of topics and projects)](computational-essays-creative-freedom-micro-macro.md) — related
 - [Students described the computational essay as more creative and authentic to physics practice than standard assignments, valuing open-ended problems with multiple solution paths](essays-felt-creative-and-authentic.md) — related
 - [Six of 25 pilot-section students pursued independent projects with the WinterLab board outside the course](winterlab-six-of-25-independent-projects.md) — related
+- [AI projects are argued to form a classroom context highly conducive to creativity because they offer many degrees of design freedom and task-appropriate applications](ai-projects-foster-creativity.md) — related

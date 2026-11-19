@@ -46,6 +46,7 @@ A pilot study is "a first attempt at executing the experimental design with a li
 - [Develop and refine the programme further, including targeted oral language support, before subjecting it to a full trial](talk-for-writing-refine-before-full-trial-strategy.md)
 - [Conduct a small pilot study to assess early evidence of success before full validation](small-pilot-study-for-early-evidence-of-success.md)
 - [Conduct a smaller sequence of rapid-cycle studies that build on one another instead of planning a single large confirmatory study](sequence-of-smaller-rapid-cycle-dlp-studies.md)
+- [Compare an AR experimental group with a non-AR control group using a non-AR version of BIMxAR](bimxar-non-ar-control-test-case.md)
 
 ## Examples
 -

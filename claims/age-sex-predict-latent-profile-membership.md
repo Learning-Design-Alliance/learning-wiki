@@ -69,3 +69,4 @@ Same multinomial regression; sex significantly predicted Profile 3 membership (R
 - [Gender predicted SRL profile membership, with male students more likely in lower SRL profiles; major, prior experience, and time commitment did not predict membership](gender-predicts-srl-profile-membership.md) — related
 - [Latent profile analysis of Chilean university students' grit, self-control, belonging, and college motives supports a four-profile solution differentiated mainly by self-control and motives rather than grit or belonging](four-latent-psychosocial-profiles-chilean-university-students.md) — related
 - [Age and sex do not significantly predict academic self-efficacy or CGPA in the conditional process models](age-sex-nonsignificant-ase-cgpa.md) — related
+- [Students' gender, race, maternal education level, and social-economic ranking predicted latent profile membership](demographics-predict-noncognitive-profiles.md) — related

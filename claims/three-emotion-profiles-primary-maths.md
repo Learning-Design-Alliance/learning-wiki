@@ -51,3 +51,4 @@ Latent profile analysis of T2 self-reports from 883 year-5 students in 23 Englis
 - [Girls were more likely than boys to belong to the Mixed or Negative profile relative to the Positive profile](girls-more-likely-mixed-negative-profiles.md) — related
 - [Hong Kong fourth graders' OMR self-efficacy and emotions form three distinct motivational-emotional profiles: positive, moderate, and ambivalent](three-omr-motivational-emotional-profiles-grade4.md) — related
 - [In the HghLBO profile, boredom and enjoyment lose nearly all predictive power for persistence, though they predict persistence in full-sample and multigroup analyses](boredom-enjoyment-prediction-lost-in-hghlbo.md) — related
+- [Non-cognitive profiles significantly predicted 9th-grade mathematics and science achievement but not English](profiles-predict-grade9-math-science.md) — related

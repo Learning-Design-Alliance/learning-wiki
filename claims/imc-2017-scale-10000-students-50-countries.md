@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-19
 recheck_by: 2020
 sources:
   - id: k-cecire-2017
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: local conditions change quickly
+> **Currency** · newest study 2017 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2020**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` In the 2017 IMC season (March 1 through April 11) there were 314 masterclasses at 116 institutions for over 10,000 students in 50 countries. [→ K. Cecire 2017](#k-cecire-2017)
@@ -49,3 +50,4 @@ Program-level participation report for the 2017 IMC season, as stated by the IMC
 - [International Masterclasses grew to 213 masterclasses in 75 countries for some 13,000 students by 2016, up from 72 masterclasses in 18 countries for some 3,000 students in 2005](masterclasses-growth-2005-2016.md) — related
 - [By 2019 International Masterclasses involved over 10,000 high school students in 332 masterclasses at 239 institutions measuring authentic data from six experiments](imc-2019-scale-10000-students-332-masterclasses.md) — related
 - [A total of 568 students have participated in the astrophysics Masterclasses since 2008, with rising applications](568-students-astrophysics-masterclasses.md) — related
+- [International Masterclasses reach over 10,000 high school students per year with authentic experiment data and international videoconferences](imc-reaches-10000-students-yearly.md) — related

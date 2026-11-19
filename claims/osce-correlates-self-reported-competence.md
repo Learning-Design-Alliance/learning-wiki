@@ -60,3 +60,4 @@ Pearson correlation analysis among 97 Tehran Emergency Center personnel; the art
 - [Self-esteem, empathy and self-assessed OSCE success showed no significant intergroup differences and did not correlate with OSCE success](null-self-esteem-empathy-self-assessment.md) — reports the opposite
 - [Practical and theoretical OSCE scores correlate strongly across experience groups (Pearson's r = 0.755)](osce-tus-practical-theoretical-correlation.md) — related
 - [Self-assessed clinical skills confidence correlates only weakly with objectively assessed performance, though it predicts OSCE performance better than year group or examiner allocation](self-assessed-confidence-weakly-correlates-osce-performance.md) — reports the opposite
+- [Pre-existing knowledge correlates weakly and positively with exam performance (r = 0.38)](weak-positive-correlation-pek-exam.md) — related

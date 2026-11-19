@@ -51,3 +51,4 @@ Binary logistic regression on the 1193-student sample controlling for demographi
 - [Interest and value were the dominant topics in leavers' explanations, especially among students leaving due to attraction](interest-value-dominant-topic-in-attrition-explanations.md) — related
 - [College students' attributions of motivation problems to lack of value and interest strongly predict lower intention to take additional classes in the field](value-interest-attributions-predict-attrition-intention.md) — related
 - [Course grade in the introductory biology course strongly predicted both enrollment in the second course and biomedical major two years later](gateway-grade-predicts-biomedical-persistence.md) — related
+- [Serendipity — finding the right people or resources at critical moments — is the greatest difference between STEM students who stay and those who leave](happenstance-stayer-leaver-difference.md) — related

@@ -50,3 +50,4 @@ Gender subsample comparison in the matched pre/post study: male normalized gain 
 - [Normalized gain g overestimates gender inequities in student learning compared to Cohen's d](normalized-gain-overestimates-gender-inequities.md) — related
 - [Male students showed a larger descriptive effect size (ES = +0.36) than female students (ES = +0.22), but the difference was not statistically significant](air-reading-gender-difference-not-significant.md) — related
 - [Gender was not a determining factor in FACT efficacy, although only males showed a significant pre-to-post gain](gender-not-determining-factor-facts.md) — related
+- [Across 309 students, median normalized gain was 0.42 overall, with a female–male difference (0.38 vs 0.45) that was not statistically significant](normalized-gain-letter-grade-sex-fig2.md) — reports the opposite

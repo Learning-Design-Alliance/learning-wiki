@@ -52,3 +52,4 @@ Retention test with the same 25-item achievement test applied four weeks after t
 - [The SQ4R group's reading comprehension advantage persisted on a permanence test administered four weeks after the post-test](sq4r-reading-comprehension-permanence.md) — related
 - [Active learning-based education shows a more permanent effect on achievement than traditional methods four weeks after instruction](active-learning-permanence-effect-my-town-unit.md) — related
 - [Animation-supported 5E instruction produced significantly higher retention scores than the current programme five weeks after implementation](animation-5e-higher-retention-scores.md) — related
+- [IoT applications in teaching include smart posters, smart boards, interactive learning materials, mobile sensors and classroom environment sensors](iot-teaching-applications.md) — a broader claim this one bears on

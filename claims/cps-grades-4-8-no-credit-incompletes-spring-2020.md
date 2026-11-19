@@ -52,3 +52,4 @@ Descriptive analysis of no-credit grades (Fs or Incompletes) among 223,096 stude
 - [No-credit rates during the pandemic varied considerably across elementary schools, including among schools serving similar student populations](cps-school-level-variation-nocredit-rates.md) — related
 - [In an AI-permitted course with research-shaped homework, most students remained engaged throughout, with 33 of 42 earning credit on at least eight of ten sheets](kt1-sustained-engagement-research-homework.md) — related
 - [High school course grades improved in spring 2020 and remained higher than pre-pandemic levels through spring 2021, with a slight rise in Fs](cps-high-school-grades-improved-remote-learning.md) — related
+- [Pandemic-era collaboration density remained similar to pre-pandemic levels in two of three courses, with students giving or receiving help from more than one other student per assignment](pandemic-collaboration-density-similar-to-pre-pandemic.md) — related

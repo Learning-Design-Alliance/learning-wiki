@@ -28,3 +28,4 @@ An open-source low-cost planar lipid-bilayer amplifier and associated design fil
 
 ## Key Sources
 - Vadim Shlyonsky, Freddy Dupuis & David Gall. (2014). The OpenPicoAmp: an open-source planar lipid bilayer amplifier for hands-on learning of neuroscience. arXiv. https://arxiv.org/abs/1403.7439
+- Vadim Shlyonsky, Bertrand de Prelle, Florian Bodranghien, Don Patrick Bischop, and David Gall (2020). Exam problems that link physical concepts with electrical phenomena in living cells. https://eric.ed.gov/?id=ED607305

@@ -76,3 +76,5 @@ Randomised controlled study with 66 medical students (33 per group) comparing a 
 - [3D reconstructed images improved PGY1 surgical residents' imaging-reasoning accuracy versus 2D CT in a randomized controlled trial](3d-images-improve-pgy1-imaging-reasoning.md) — related
 - [A randomized controlled trial cited by the article found webinar-based and participative self-study learning produced significant and similar knowledge and ability gains](joshi-rct-webinar-vs-participative-learning.md) — related
 - [Students report significantly higher enjoyment and perceived helpfulness for the VR treatment than for video and static image treatments](student-preference-for-vr-enjoyment-helpfulness.md) — related
+- [No significant difference in knowledge gain between VR and 2D-drawing groups among participants with professional background](no-vr-gain-for-professionals.md) — related
+- [VR-based learning of a construction detail yields significantly better knowledge gain than 2D drawings for participants with little pre-existing knowledge](vr-better-knowledge-gain-low-prior-knowledge.md) — related

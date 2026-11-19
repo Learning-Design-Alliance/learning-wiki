@@ -56,3 +56,4 @@ Variance equality was tested across all tasks using Levene's test. In the infant
 - [No gender × question-type interaction and no gender main effect on TEMA-3 formal vs. informal math items](no-gender-question-type-interaction-formal-informal-math.md) — related
 - [In one small right posterior parietal region, girls showed greater neural variance than boys at equal mean activation](girls-greater-variance-right-posterior-parietal.md) — related
 - [Math ability on the TEMA-3 is statistically equivalent between girls and boys, with no gender difference in mean, variance, or age-related growth](tema3-math-ability-gender-equivalence.md) — related
+- [Participants are equally divided between boys and girls, but 65% of ASIMOV Prize winners are female](asimov-prize-female-winners-65-percent.md) — related

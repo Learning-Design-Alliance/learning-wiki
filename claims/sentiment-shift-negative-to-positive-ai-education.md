@@ -50,3 +50,4 @@ Sentiment analysis of participant responses in the ten-educator online PD study.
 - [Professional learning experiences shift teachers' beliefs away from traditional views toward practice-based science and increase implementation confidence, with gains leveling off after initial workshops](openscied-pd-shifts-teacher-beliefs-confidence.md) — related
 - [An online PD program using unplugged explainable machine-learning activities increased K–12 educators' AI self-efficacy from below-moderate to above-moderate levels](unplugged-ml-pd-raises-teacher-ai-self-efficacy.md) — related
 - [Teachers who engaged with EducaSim generally viewed it as a positive experience](educasim-positive-teacher-sentiment-254-sessions.md) — related
+- [Messages in a blended collaborative course with team assignment were more positive than MOOC forum messages, a positive-to-negative ratio of 4 against 0.4](teamwork-shifts-sentiment-positive.md) — related

@@ -66,3 +66,4 @@ Survey question on how students honed their teaching skills; descriptive percent
 ## Related Claims
 - [Without formal training, peer teachers develop their teaching role through informal strategies, which give unequal opportunities across students](informal-strategies-support-teaching-role.md) — a broader claim this one bears on
 - [Students report substantial gains in self-reported confidence and understanding of the upper limb musculoskeletal examination after a near-peer tutorial](near-peer-tutorial-confidence-gains.md) — related
+- [Professional skills are primarily conveyed through ad-hoc self-training or peer mentorship, with under 20% of skill experience gained via university courses](professional-skills-self-taught-not-formal.md) — related

@@ -57,3 +57,4 @@ Qualitative finding from the UChicago Consortium's six focus groups with Chicago
 - [Digital flexibility and hybrid teaching environments are identified as necessary to meet allied health students' varied learning needs and circumstances](digital-flexibility-inclusive-nbsp-learning-environments.md) — related
 - [Mentees appreciated the remote REU format for flexibility and developing as independent learners](remote-format-independence-benefits.md) — related
 - [Remote collaboration tools enabled a successful hybrid camp edition and new teaching and mentoring opportunities](remote-tools-hybrid-camp-success.md) — related
+- [Regularly scheduled meetings were a productive norm in remote REU labs, with most mentees meeting their mentors more than once a week](remote-reu-meeting-frequency-norms.md) — related

@@ -48,3 +48,4 @@ Chi-squared analysis of mystery completion rates across SRL groups. "the percent
 - [High and Medium SRL students show significantly better learning gains than Low SRL students](high-medium-srl-better-learning-gains.md) — related
 - [Problem solving accuracy showed age-related declines but no significant main effect of feedback; a marginal Age × Feedback interaction reflected age differences only within the high-PFB group](problem-solving-accuracy-age-declines-no-feedback-effect.md) — related
 - [Girls showed more SRL strategic behaviours than boys but did not outperform boys on task performance; child age correlated with metacognitive, motivational behaviours and performance](gender-age-differences-kindergarten-srl.md) — related
+- [Mystery boxes are reported to be effective for teaching NoS across a wide age range and to boost understanding of models and modelling](mystery-boxes-effective-nos-wide-age-range.md) — related

@@ -56,3 +56,4 @@ Qualitative inference from the PAD content analysis of experimental-class report
 - [Constant algorithm changes to Google Trends and Google Correlate prevent replication of results, and search-behaviour correlations carry causation and sampling caveats](google-correlate-replicability-caveats.md) — related
 - [Multiple-hypothesis strategies improve performance only when simulation complexity is low](multiple-hypothesis-strategy-low-complexity.md) — related
 - [KLI complexity-matching hypothesis: instructional principles of a given complexity are effective for knowledge components of equal or greater complexity but not less complex ones](kli-complexity-matching-hypothesis.md) — related
+- [In the lab experiment, hypothesis generation correlated with model complexity, and complexity and creativity related differently to learning gains](vera-model-complexity-creativity-learning.md) — related

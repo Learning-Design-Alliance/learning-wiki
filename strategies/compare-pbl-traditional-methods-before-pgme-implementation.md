@@ -62,6 +62,7 @@ The review's future-directions recommendations call for comparative and better-p
 - [RCT researchers should collect qualitative data on context alongside implementation and impact](rct-researchers-collect-context-data.md)
 - [Evaluate microlearning effectiveness with an RCT adding objective outcomes to self-report measures](planned-rct-microlearning-evaluation-strategy.md)
 - [Future flipped classroom research should use larger multi-site samples, standardized facilitator training, and mixed-methods data collection](flipped-classroom-future-research-recommendations.md)
+- [Compare an AR experimental group with a non-AR control group using a non-AR version of BIMxAR](bimxar-non-ar-control-test-case.md)
 
 ## Examples
 -

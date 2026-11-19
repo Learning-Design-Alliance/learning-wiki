@@ -51,3 +51,5 @@ Repeated administration of the Marshman et al. six-question Likert self-efficacy
 - [Women reported lower self-efficacy and higher test anxiety than men in an active-learning introductory physics course](women-lower-self-efficacy-higher-test-anxiety.md) — related
 - [Female students' fascination with physics decreased significantly more than males' after calculus-based Physics 1, widening the gender gap](female-fascination-declines-calculus-physics-1.md) — related
 - [Women showed larger normalized gains than men on the calculus transfer questions despite lower self-efficacy](women-larger-calculus-transfer-gains.md) — related
+- [Students' physics interest and general science interest both decrease significantly over a semester of Modeling Instruction](mi-course-interest-decreases.md) — related
+- [Students' physics self-efficacy decreases significantly over a semester of Modeling Instruction introductory physics](mi-course-physics-self-efficacy-decrease.md) — reports the opposite

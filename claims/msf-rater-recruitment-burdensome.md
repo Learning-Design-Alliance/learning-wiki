@@ -56,3 +56,4 @@ Feasibility findings from the pilot's post-evaluation survey (Table 3), where st
 - [Most Annenberg partners found the Challenge's twice-yearly written reporting requirements burdensome and detrimental to their work with schools](annenberg-reporting-requirements-onerous.md) — related
 - [The two-factor MSF structure supports graphical feedback reports that guide reflection on global domains rather than single items](msf-factor-based-feedback-reports.md) — related
 - [A communication skills training integrating 360° behavior-orientated feedback achieves high acceptance among first-clinical-year medical students](cst-360-feedback-high-acceptance.md) — related
+- [Students report the observing night as the most stressful part of the process, yet feel very rewarded once they obtain their own data](observing-night-stressful-but-rewarding.md) — related

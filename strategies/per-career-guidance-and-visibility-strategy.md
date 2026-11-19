@@ -48,7 +48,8 @@ The article's concluding recommendations target three needs: making PER visible 
 - [Physics-department PER graduate students report much higher uncertainty about where they expect to work than education students](../claims/physics-dept-higher-career-uncertainty.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Present undergraduates a realistic view of particle physics career paths](undergrad-realistic-career-paths.md)
 
 ## Examples
 -

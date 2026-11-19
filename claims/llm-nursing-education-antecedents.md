@@ -48,3 +48,4 @@ From the antecedents analysis of included articles plus 5 supplemental sources, 
 - [Leaders report negative perceptions of technology centring on poor interoperability, data availability problems, and resource limitations](negative-perceptions-interoperability-data-availability.md) — related
 - [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
 - [AI integration is associated with improvements in teaching, learning, and administrative efficiency in higher education when supported by adequate infrastructure](ai-integration-improves-teaching-learning-admin-efficiency.md) — related
+- [No reviewed framework directly addresses the six main barriers to adoption of immersive technologies in education identified by the State of XR Report](frameworks-do-not-address-adoption-barriers.md) — related

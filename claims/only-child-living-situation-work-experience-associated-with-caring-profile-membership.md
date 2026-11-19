@@ -52,3 +52,4 @@ Multinomial logistic regression on 421 newly graduated nurses (model χ²(30) = 
 - [Demographic predictors of engagement profile membership differed across language groups, with employment the only significant predictor for English-speaking parents](demographic-predictors-differ-by-language-group.md)
 - [Kindergarten SEB profile membership is differentially associated with gender, age, language background, SES, and learning disability status](seb-profile-socioeducational-associations.md)
 - [Learning agility, digital literacy, future work self salience, and perceived university digital support prospectively differentiate AI-attitude profile membership, especially separating Low-Perception Detached from engaged profiles](resources-prospectively-differentiate-ai-profile-membership.md)
+- [Students' gender, race, maternal education level, and social-economic ranking predicted latent profile membership](demographics-predict-noncognitive-profiles.md) — related

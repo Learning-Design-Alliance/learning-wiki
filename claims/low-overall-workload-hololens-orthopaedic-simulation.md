@@ -47,3 +47,4 @@ Qualitative study of twenty subjects (engineers and medical personnel) who perfo
 ## Related Claims
 - [Workload ratings do not differ significantly by profession, prior AR experience, or prior HoloLens experience](workload-independent-of-background-and-ar-experience.md) — related
 - [The Bloom classification UI shows low perceived workload and high usability in a 50-participant user study](bloom-ui-low-workload-high-usability.md) — related
+- [Participants rated overall workload as low while using BIMxAR on the NASA TLX](bimxar-low-nasa-tlx-workload.md) — related

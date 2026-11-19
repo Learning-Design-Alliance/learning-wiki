@@ -50,3 +50,4 @@ Analysis of cooperating teacher and employer surveys (2018–19 to 2020–21) co
 - [Ninety percent of responding completers rated their preparation program effective or very effective and felt at least adequately prepared across all teaching performance expectation domains](completers-rate-preparation-highly-90-percent.md) — related
 - [Residency graduates report strongly positive perceptions of their preparation, and principals tend to perceive them as more effective than other novice teachers](residency-graduates-perceived-effective.md) — related
 - [Graduates rate the Alder residency highly, with 97% rating it effective or very effective on the 2022–23 CTC completer survey](alder-completer-survey-satisfaction.md) — related
+- [Respondents rated their graduate preparation for industry and K-12 teaching careers significantly lower than for academia or laboratory careers](preparedness-lower-industry-k12-than-academia-lab.md) — related

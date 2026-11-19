@@ -56,3 +56,4 @@ Focus-group thematic analysis identified institutional requirements (e.g., a "ve
 - [Barriers to seamless GenAI integration include limited accessibility, insufficient bias mitigation, and tool availability prioritized over curriculum alignment](genai-integration-barriers-accessibility-bias-alignment.md) — related
 - [Mobile devices make education more accessible anytime and anywhere, but this attractiveness comes with limitations for adoption and usage](mobile-access-anytime-anywhere-with-adoption-limits.md) — related
 - [Patients are more concerned about AI tool accuracy and data privacy than about tool explainability](patients-prioritize-accuracy-privacy-over-explainability.md) — related
+- [No reviewed framework directly addresses the six main barriers to adoption of immersive technologies in education identified by the State of XR Report](frameworks-do-not-address-adoption-barriers.md) — related

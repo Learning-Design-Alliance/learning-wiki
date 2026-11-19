@@ -20,7 +20,7 @@ grain_size: lesson
 # Peer Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 31 claims (17 for, 14 mixed) · 35 studies (14 causal, 5 quant-synthesis, 5 review, 5 associational, 4 theoretical, 2 qualitative), `q1`–`q4` · 9 of 35 report an effect size · 25 claims rest on one study
+> **Evidence** · 33 claims (18 for, 15 mixed) · 36 studies (15 causal, 5 quant-synthesis, 5 review, 5 associational, 4 theoretical, 2 qualitative), `q1`–`q4` · 9 of 36 report an effect size · 27 claims rest on one study
 
 ## Description and scope
 
@@ -104,6 +104,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [The biasing effect of seeing the bar graph is stronger for two-choice (true/false) questions (38%) than for four-choice multiple-choice questions (28%)](../claims/bar-graph-bias-stronger-true-false-than-multiple-choice.md) [~M] — attached 2026-11-10 from Perez Kathryn E. et al. (2010), which proposed "Show the class-response bar graph during clicker peer instruction judiciously, and withhold it before discussion when the goal is content-based peer discussion".
 - [Concept tests prompted active peer discussion in which students eager to resolve discrepancies between their answers and the correct view](../claims/concept-tests-spur-active-peer-discussion.md) [+W] — attached 2026-11-17 from Chandralekha Singh et al. (2010), which proposed "Award credit for concept-test participation even when students select incorrect answers".
 - [In an upper-level QM course, student performance on clicker questions rose significantly from ICT to GCT in one single-group pre-post study](../claims/qm-clicker-gct-improvement-over-ict.md) [+W] — attached 2026-11-17 from Ryan Sayer et al. (2016), which proposed "Peer instruction sequence: individual clicker response, 1-2 minute peer discussion in groups of two or three, individual re-response, then whole-class discussion".
+- [Rotating student groups at each interaction partly solved the influence of advanced students on average students in PI](../claims/group-rotation-reduces-advanced-student-influence.md) [+W] — attached 2026-11-19 from Paco H. Talero L (2022), which proposed "PI cycle with hands-on experiments and rotating groups of 2–4 students answering individually then by group".
+- [In one uncontrolled pre-post study, gain curves for learning about falling bodies through PI showed a more or less linear evolution over ten measurement points, without peaks, dips or interference usually reported](../claims/linear-learning-curve-no-peaks-pi.md) [~W] — attached 2026-11-19 from Paco H. Talero L (2022), which proposed "PI cycle with hands-on experiments and rotating groups of 2–4 students answering individually then by group".
 
 ## Illustrative design instance and observation record
 

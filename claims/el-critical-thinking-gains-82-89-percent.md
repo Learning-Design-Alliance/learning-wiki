@@ -57,3 +57,4 @@ Results of three critical-thinking and problem-solving Likert prompts from the c
 - [Interviewed masterclass participants reported increased confidence and broader application of skills in novel work situations, indicating adaptive expertise](masterclass-interviews-adaptive-expertise.md) — related
 - [The protocol writing model helped students apply theories or concepts to new situations by designing their own study](protocol-writing-applying-concepts-new-situations.md) — a narrower finding that bears on this claim
 - [Two-thirds of surveyed students appreciated that the data analysis exercises gave them insight into actual research](data-analysis-exercises-insight-actual-research.md) — related
+- [The authors report that reviewing popular science books gave students a new perception of scientific literature and developed critical judgment](asimov-prize-student-perception-scientific-literature.md) — related

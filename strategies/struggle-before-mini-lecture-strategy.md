@@ -48,6 +48,8 @@ The strategy reverses the traditional explain-then-practice order: first give st
 - [Use multiple-choice review questions constructed to guarantee every student engages with a known durable misconception](multiple-choice-misconception-exposure-strategy.md)
 - [Learning Cycles](learning-cycles.md)
 - [Productive Struggle](productive_struggle.md)
+- [Two-session preparation-for-future-learning introduction to an active-learning course](pfl-two-session-active-learning-introduction.md)
+- [Team projects in which students discover quantum concepts (teleportation presentation and engaging Grover-algorithm video)](team-discovery-projects-teleportation-grover.md)
 
 ## Examples
 -

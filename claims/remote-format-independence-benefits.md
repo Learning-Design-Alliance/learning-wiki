@@ -48,3 +48,6 @@ Grace's interview quote, reported in the discussion's remote-vs-in-person compar
 - [Students valued flexibility and self-directed learning but desired more in-person interaction and better lecture recordings in the hybrid flipped course](student-themes-flexibility-interaction-recordings.md) — related
 - [Remote flipped classrooms give pharmacy students time flexibility to engage with recorded lectures and revisit content at their convenience](remote-flipped-flexibility-recorded-lectures.md) — related
 - [Virtual meeting options gave parents more flexible scheduling opportunities to communicate with educators during remote schooling](virtual-meetings-flexible-parent-communication.md) — related
+- [Working from home in remote REUs created digital distraction and blurred work-life boundaries, which some mentees managed by establishing designated workspaces](home-workspace-distraction-remote-research.md) — related
+- [Regularly scheduled meetings were a productive norm in remote REU labs, with most mentees meeting their mentors more than once a week](remote-reu-meeting-frequency-norms.md) — related
+- [Remote REU mentees reported the experience was highly beneficial and the remote format did not open a gap between their objectives and outcomes](remote-reu-mentees-reported-highly-beneficial-outcomes.md) — related

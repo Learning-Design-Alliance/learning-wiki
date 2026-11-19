@@ -47,3 +47,4 @@ Case-study analysis of one student's Section 1 worksheet drawings and his interv
 ## Related Claims
 - [In her first comic-strip narrative, a student mentioned no electricity ideas at all](no-electricity-ideas-in-first-narrative.md) — related
 - [Students express that opposite charges attract and like charges repel across multiple activity sections](opposite-attract-like-repel-student-idea.md) — a broader claim this one bears on
+- [Rehearsal narrative collisions around the concept of force catalyzed the physicist-performer to rethink processes of teaching and learning](narrative-collisions-rethink-teaching-force-concept.md) — related

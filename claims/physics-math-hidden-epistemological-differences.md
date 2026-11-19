@@ -55,3 +55,4 @@ Illustrative examples from a calculus final exam and standard texts: a trout-den
 - [Students who succeeded in calculus can still be unable to approach multi-parameter physics equations](multi-parameter-equations-difficulty.md) — a narrower finding that bears on this claim
 - [Students' characteristic equation errors (e.g., replacing an average by a difference) signal an epistemological rather than knowledge failure](equation-errors-epistemological-not-knowledge.md) — a narrower finding that bears on this claim
 - [The author argues that words, pictures, experiments, argument and discussion matter as much as equations and written exams in physics education](words-pictures-experiments-matter-as-much-as-equations.md) — related
+- [PER-based textbooks (Matter and Interactions, Six Ideas) present Maxwell's equations as correlations, not cause-effect relationships](per-based-textbooks-correlation-not-causation.md) — related

@@ -59,3 +59,5 @@ T-test comparison of pre and post survey scores by gender in a calculus-based in
 - [Both genders showed equal interest and enthusiasm in learning science, with no gender influence observed](equal-gender-interest-lower-primary-science.md) — related
 - [Physics self-efficacy of both men and women decreased over the semester, with a smaller decrease for women](physics-self-efficacy-decrease-semester.md) — related
 - [A short beginning-of-semester social-psychological intervention closed the gender gap in performance in an introductory calculus-based physics course](short-belonging-intervention-closed-gender-gap-physics.md) — related
+- [Incoming physics and general science interest predict end-of-course physics self-efficacy, not the reverse, in active-learning physics courses](interest-drives-self-efficacy-directionality.md) — related
+- [Students' physics self-efficacy decreases significantly over a semester of Modeling Instruction introductory physics](mi-course-physics-self-efficacy-decrease.md) — related

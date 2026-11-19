@@ -55,6 +55,7 @@ A classroom strategy in which instructors bring media into lessons and have lear
 - [Supplement task-based lessons with explicit noticing, corpus examples, and production practice of formulaic sequences](explicit-fs-noticing-and-production-strategy.md)
 - [Design explicit FS instruction around noticing, retrieving, and generating psychological conditions with in-class presentation, practice, and after-class reinforcement.](noticing-retrieving-generating-fs-instruction-design.md)
 - [Watch, write, and talk about movies as a structured sequence for raising multicultural awareness in teacher education](watch-write-talk-movie-strategy.md)
+- [Use familiar media (zombie films and games) to connect model parameters to physical attributes](familiar-media-parameter-attribute-connection-strategy.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Chi-square comparison of answer categories from the survey's previous-training s
 - [Nurses more often received oxygen therapy training before starting duty than resident physicians](nurses-more-pre-duty-ot-training-than-residents.md) — related
 - [Both professions reported high training needs for basic procedures and emergency algorithms, with physicians rating needs higher than nurses on most items](high-training-needs-basic-procedures-algorithms-physicians-higher.md) — related
 - [Teamwork and communication were the major issues arising from previous pediatric emergencies, but physicians and nurses perceived the sources of insecurity differently](teamwork-communication-emergency-insecurity-profession-differences.md) — related
+- [The self-taught training mode is broadly disfavored by respondents, while university and external courses are rated highly when used](self-taught-mode-disfavored-courses-rated-high.md) — related

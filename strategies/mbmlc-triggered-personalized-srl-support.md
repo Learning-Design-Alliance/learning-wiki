@@ -43,6 +43,7 @@ The article proposes that moment-by-moment learning curves "could potentially be
 ## Related Strategies
 
 - [Pedagogical nudges triggered by WBA analytics to encourage engagement](wba-analytics-pedagogical-nudges.md)
+- [Use early content-area assessments as triggers for supplemental instruction](early-assessment-trigger-supplemental-instruction.md)
 
 ## Examples
 -

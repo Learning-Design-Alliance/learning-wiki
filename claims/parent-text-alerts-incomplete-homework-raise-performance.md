@@ -57,3 +57,4 @@ The review reports, citing Bergman (2014), a randomly selected treatment in whic
 - [Assigning K–2 nonresponders to gamification plus parent text messages, rather than gamification alone, raised one fall reading-comprehension subscore; the overall MAP gain was marginal](gamification-plus-texting-beats-gamification-only.md) — related
 - [Teacher-to-parent communication did not affect teachers' assessments of student effort or in-class behavior](no-effect-teacher-effort-behavior-ratings.md) — reports the opposite
 - [Implementation of assigned communication was incomplete but high for weekly messages](communication-implementation-fidelity.md) — related
+- [Email reminder messages increase average homework performance by about 4 percentage points](email-reminders-increase-homework-performance.md) — a narrower finding that bears on this claim

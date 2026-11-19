@@ -180,3 +180,6 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [83% of students preferred simulation-driven classroom teaching over non-simulation-driven teaching](students-prefer-simulation-driven-teaching.md) — related
 - [Game-based learning proved the best of the three tested teaching approaches in online Microcontrollers laboratories](game-based-learning-best-in-eeg-monitored-microcontroller-labs.md) — related
 - [LH students engaged with the programming module despite low attendance through remote use of Codio lessons](lh-group-engaged-despite-low-attendance-remote-codio.md) — related
+- [The article claims masterclasses help students see data as scientists see data through interaction with physicists during data analysis](masterclass-physicist-interaction-goal.md) — related
+- [Students report that interactive visualizations in class were motivating and aided understanding of core concepts](student-survey-interactive-visualizations-motivating.md) — related
+- [Students in the first session liked working in groups but were unhappy that ideas were introduced before concepts were explained](students-like-group-work-dislike-ideas-before-explanation.md) — related

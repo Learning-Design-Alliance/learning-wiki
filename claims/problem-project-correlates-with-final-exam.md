@@ -53,3 +53,4 @@ Correlational analysis across the same 245-student cohort comparing Problem Proj
 - [Teacher support, basic psychological needs, learning motivation, and psychological well-being differ significantly across demographic subgroups](demographic-differences-embodied-tai-chi.md) — related
 - [The exam playbook intervention showed no statistically significant treatment-effect differences by gender, race, class standing, or prior performance](exam-playbook-no-subgroup-treatment-differences.md) — related
 - [Demographic moderators (child gender, parent gender, ethnicity, sample type, socio-economic status) show limited moderating effects on the self-efficacy–partnership association](limited-demographic-moderators.md) — related
+- [Learned student embeddings are organized and sometimes well-clustered by demographic subgroup](subgroup-clustered-embeddings.md) — related

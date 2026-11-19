@@ -42,6 +42,7 @@ A concrete student procedure: students measure the difference in time of flight 
 
 - [Plot vf squared versus release distance d to verify the prediction equation over a range of inputs](plot-vf-squared-versus-release-distance.md)
 - [Pencil-lead line-drawing procedure for estimating molecule size in class](pencil-lead-line-drawing-classroom-strategy.md)
+- [Engage students in measuring instantaneous speed with the speedometer, timing the motion by video analysis or by the sound of bells](speedometer-classroom-measurement-activity.md)
 
 ## Examples
 -

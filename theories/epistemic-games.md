@@ -17,7 +17,7 @@ sources:
 # Epistemic Games
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 4 studies (3 qualitative, 1 associational), `q1`–`q2` · 0 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 5 studies (4 qualitative, 1 associational), `q1`–`q2` · 0 of 5 report an effect size · 6 claims rest on one study
 
 ## Description
 Epistemic games (Collins & Ferguson, 1993; Morrison & Collins, 1995) are "generative patterns of inquiry that underpin knowledgeable actions" (Markauskaite & Goodyear, 2017) — recognizable, rule-like sets of moves, constraints, and strategies organized around constructing a particular kind of knowledge (an explanation, a design, a problem statement). Each game has entry conditions, constraints on who can play and how, a target *epistemic form* (the kind of knowledge structure being built), and exit conditions; games can nest inside one another and a group can transfer out of one game into another and back. Earlier work on epistemic games focused mainly on the discourse moves involved. Arthars et al. (2024) extend the framework with an **ecological analytical perspective** (Goodwin; Hutchins), arguing that a game's moves are inseparably multimodal — language, gesture, gaze, body positioning, and shared artifacts (a whiteboard, a sketch) jointly constitute the "move," not language alone.
@@ -46,6 +46,7 @@ Studying interdisciplinary teams constructing a shared problem statement, Arthar
 - [Transliteration to Mathematics game frequency differed significantly between the S14 semester and the S15 and F15 semesters](../claims/tm-game-frequency-semester-difference.md) [+W] — attached 2026-11-17 from Andrew J. Mason et al. (2015), which proposed "Epistemic games as structures of knowledge and strategy in physics problem solving".
 - [The F15 semester had significantly higher overall epistemic games per minute than S14 and borderline higher than S15](../claims/f15-higher-overall-games-per-minute.md) [+W] — attached 2026-11-17 from Andrew J. Mason et al. (2015), which proposed "Epistemic games as structures of knowledge and strategy in physics problem solving".
 - [Students appeared to play different epistemic games when finding an expression for the electric field and when plotting the field](../claims/different-epistemic-games-expression-versus-plot.md) [+W] — attached 2026-11-18 from Maries et al. (2016), which proposed "Epistemic games framework: Mapping Meaning to Mathematics and Physical Mechanism games".
+- [Priming on the 'given' information from a problem statement constitutes students' engagement with their mental models, aligning mental modeling with Stage 0 of the Sensemaking Epistemic Game](../claims/priming-given-information-constitutes-mental-model-engagement.md) [+W] — attached 2026-11-19 from Amogh Sirnoorkar et al. (2023), which proposed "Sensemaking Epistemic Game: a four-stage framework describing how sensemaking begins, proceeds, and concludes".
 
 ## Related Theories
 

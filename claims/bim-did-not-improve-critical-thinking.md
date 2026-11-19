@@ -48,3 +48,4 @@ In the quasi-experiment critical thinking differed non-significantly (t = 0.75, 
 - [Multiple BIM sessions improved summarization, self-directed learning, and objective evaluation beyond what a single session achieved](multiple-bim-sessions-improve-complex-competences.md) — related
 - [A single BIM session produced higher information literacy, expressive communication, and teamwork scores than lecture-based learning in public health students](single-bim-session-improves-three-competences.md) — related
 - [Competence scores in six dimensions showed an upward trend as the number of BIM interventions increased](bim-dose-response-trend-six-dimensions.md) — related
+- [Meta competences partly substituted for missing domain competences in the BIM practice task](meta-competences-partly-substitute-domain-competences.md) — related

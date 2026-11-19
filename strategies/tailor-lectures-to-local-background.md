@@ -45,6 +45,7 @@ Because the visited institutions varied widely in prior exposure to the course t
 - [Tailor infectious-disease training programs to trainees' sex, education level, professional background, and prior experience](tailor-training-to-trainee-characteristics.md)
 - [Adapt and tailor the triage simulation across program stages, modalities, and cohort needs](adapt-tailor-triage-simulation-blueprint.md)
 - [Differentiate one shared article to each student's reading level rather than assigning varied texts](differentiate-single-article-to-reading-level.md)
+- [Open the course with a two-week C programming crash course on a shared HPC system to level differing backgrounds](two-week-c-crash-course-hpc-strategy.md)
 
 ## Examples
 -

@@ -44,6 +44,7 @@ The authors avoid bias toward any single quantum computing approach by teaching 
 
 - [Run student oral talks on announced topic lists to extend the curriculum and relieve prior-knowledge discrepancies in multidisciplinary courses](oral-talk-topics-multidisciplinary-strategy.md)
 - [Teach quantum computing through reproducible code boxes that students run locally and on real quantum hardware](reproducible-code-boxes-quantum-teaching-strategy.md)
+- [Team projects in which students discover quantum concepts (teleportation presentation and engaging Grover-algorithm video)](team-discovery-projects-teleportation-grover.md)
 
 ## Examples
 -

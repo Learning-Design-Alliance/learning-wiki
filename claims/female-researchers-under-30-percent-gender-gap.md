@@ -49,3 +49,4 @@ The article reports, citing the 2019 UNESCO 'Women in Science' fact sheet, that 
 - [Both women and men nominated female classmates at proportions below women's actual success rates, with men underestimating women most consistently](peers-undervalue-outperforming-women-stem.md) — related
 - [Athena participants' GR is much higher than for physics studies at university level in Geneva (GR = 0.32) but still below the maturité-level ratio (GR = 1.4)](athena-gr-exceeds-physics-study-choice.md) — related
 - [Role-model interactions between girls and women scientists reached almost 1000 girls in Ethiopia](role-model-interactions-almost-1000-girls-ethiopia.md) — related
+- [The ACU and IOP identified five key areas for intervention to strengthen physics training, research, infrastructure and collaboration in nine Sub-Saharan African countries.](acu-iop-five-intervention-areas.md) — related

@@ -44,6 +44,7 @@ The article recommends that educators proactively address discomfort around over
 ## Related Strategies
 
 - [Build a collaborative online discourse community for peer review in learning cycles to develop integrated reading/writing skills](build-collaborative-online-discourse-community.md)
+- [Design remote research programs with structured communication, explicit norms, shipped equipment, and dedicated workspaces to expand access to research experiences](remote-reu-design-strategy.md)
 
 ## Examples
 -

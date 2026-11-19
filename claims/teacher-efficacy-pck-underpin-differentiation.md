@@ -53,3 +53,4 @@ Narrative review attribution: the article reports Dixon et al.'s (2014) argument
 - [The 16-item CT–PCK Survey measures CT pedagogical content knowledge for math as a single overall construct](ct-pck-16-item-single-construct.md) — related
 - [Pre-service primary teachers' science teaching self-efficacy beliefs correlate weakly but positively with their ability to determine suitable taxonomy, strategy, and method-techniques](self-efficacy-weakly-correlates-objective-aligned-instructional-planning.md) — a narrower finding that bears on this claim
 - [Student teachers showed weak mathematics PCK at entry but substantial development across all MPCK areas after a pedagogy course](pedagogy-course-improved-mpck-student-teachers.md) — related
+- [Pairing peer teaching practice with known PCKs for inclusive design, 16/17 (94%) of faculty reached the pedagogic-content-knowledge learning outcome](pck-element-preparation-outcome.md) — related

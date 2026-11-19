@@ -17,7 +17,7 @@ sources:
 # Purposefully stimulate interactions between student groups to mitigate social-structural effects on efficacy beliefs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (2 associational), `q2`–`q3` · 2 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 A discussion-level recommendation for shaping classroom social structure: the authors suggest mitigating effects of the course's social structure on efficacy beliefs "through the purposeful stimulation of interactions between certain groups of students," so that altering participation "in a way that gives all an equitable chance" becomes partly a matter of how students recognize the value of their peers.

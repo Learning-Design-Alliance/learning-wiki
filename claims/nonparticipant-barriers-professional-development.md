@@ -63,3 +63,4 @@ Following the non-participant study, the Partnership added general-topic offerin
 - [One year after the workshops, more than 90% of respondents attribute high importance of participation to their work in student assessment](one-year-late-effects-high-importance-assessment.md) — related
 - [Undergraduate participation in ECOSCOPE data science workshops rose from 0% to 8.8% to 23% of total registrants after partnership with EDUCE](educe-workshop-undergraduate-participation-increase.md) — related
 - [K-12 teachers who attended the NiCE workshop reported large increases in both their knowledge of network concepts and their likelihood of using them in the classroom](nice-workshop-teacher-knowledge-use-increase.md) — related
+- [85% of German physics teachers participated in at least one professional development program within two years, but non-participants report organizational barriers and disappointing experiences](german-pd-participation-and-barriers.md) — related

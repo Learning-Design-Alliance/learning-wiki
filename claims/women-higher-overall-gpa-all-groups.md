@@ -51,3 +51,4 @@ Observational analysis of institutional records plotted by gender within each de
 - [The gender gap in STEM GPA is much smaller than in overall GPA and vanishes for most groups except the most privileged students](stem-gpa-gender-gap-vanishes-except-privileged.md) — related
 - [Gender differences in ninth-grade math grades were similar across racial/ethnic groups, with young men earning fewer points in every group](gender-grade-gap-similar-across-race-ethnicity-ninth-grade-math.md) — related
 - [Undergraduate women earned slightly but significantly higher course grades than men in both life and physical science STEM courses](women-higher-course-grades-stem-courses.md) — related
+- [Among students who persisted and earned STEM degrees, women earned only slightly higher grades than men, with small effect sizes.](persisting-women-only-slightly-higher-grades-than-men.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-11-19
 sources:
   - id: balasubramanian-2021
     resource: "https://doi.org/10.48550/arXiv.2111.13776"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 22 women degree recipients from 2013–21, only 2 (less than 10%) were in careers not related to STEM advancement one year after graduation, and all 20 in STEM advancement persisted up to eight years. [→ Balasubramanian 2021](#balasubramanian-2021)

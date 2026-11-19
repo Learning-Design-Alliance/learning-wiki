@@ -47,3 +47,4 @@ Author's interpretive assertion (type e) in the section on common features of ma
 ## Related Claims
 - [Students fail to coordinate the multiple, ontologically conflicting descriptions embedded in physicists' language, which may produce patterns interpreted as misconceptions](students-fail-to-coordinate-conflicting-descriptions.md) — related
 - [Students overextend and misapply metaphorical systems in physicists' language, and some QM difficulties can be explained as difficulties with language](students-overextend-physics-metaphors.md) — related
+- [The article claims masterclasses help students see data as scientists see data through interaction with physicists during data analysis](masterclass-physicist-interaction-goal.md) — related

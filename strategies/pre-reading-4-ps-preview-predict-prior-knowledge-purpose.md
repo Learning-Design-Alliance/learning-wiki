@@ -63,6 +63,7 @@ Pre-reading activities work because comprehension depends on connecting new text
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — extends pre-reading strategies into during-reading dialogue
 - [Anticipation Guides](anticipation-guides.md) — a formalized predict-and-verify variant
 - [Use the Preview and Predict strategy: students preview title and pictures, predict from prior knowledge, then read and verify predictions](preview-and-predict-strategy.md)
+- [Use a set of critical-reading questions to skim and evaluate literature efficiently](critical-reading-questions-astronomy.md)
 
 ## Examples
 - **History class**: before a chapter on the causes of World War I, students preview section headings, predict the main causes the text will name, list what they already know from prior units, and set the purpose "identify two causes the text emphasizes."

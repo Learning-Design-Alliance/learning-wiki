@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 175 claims (113 show a difference, 39 mixed, 23 no difference) · 84 studies (48 associational, 15 review, 13 causal, 5 quant-synthesis, 3 theoretical), `q1`–`q4` · 27 of 84 report an effect size · 175 claims rest on one study
+> **Evidence** · 177 claims (114 show a difference, 40 mixed, 23 no difference) · 85 studies (49 associational, 15 review, 13 causal, 5 quant-synthesis, 3 theoretical), `q1`–`q4` · 27 of 85 report an effect size · 177 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -210,6 +210,8 @@ Personality traits are relatively stable individual differences, most often meas
 - [Exam length cannot be set fairly by treatment or opportunity: a short test penalizes conscientious students and a long exam penalizes fast ones](../claims/exam-length-tradeoff-speed-conscientiousness.md) [~W] — an instructional effect differs with it
 - [No relationship between students' personality traits and their grades was unveiled, except a marginal negative agreeableness correlation in the first study](../claims/personality-traits-no-grade-relationship.md) [~M] — learners who differ on it differ in outcomes
 - [Conscientiousness moderates the effect of explanations on learning gains: low-Conscientiousness users tended to learn better with explanations](../claims/conscientiousness-moderates-explanation-learning-gains.md) [~M] — an instructional effect differs with it
+- [Low-grit students improved substantially in math and English by 12th grade, challenging grit's expected advantage](../claims/low-grit-students-improved-grade12.md) [~M] — learners who differ on it differ in outcomes
+- [Profiles predicted 12th-grade science and English scores, with low grit significantly correlated with both](../claims/profiles-predict-grade12-science-english.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

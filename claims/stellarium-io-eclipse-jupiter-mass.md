@@ -65,3 +65,4 @@ Substituting the measured period and orbital radius into the Kepler/Newton relat
 
 ## Related Claims
 - [Students remain confused when changes of referential are needed to understand astronomical phenomena such as moon phases, seasons, eclipses and orbital motion around a common centre of mass](referential-change-difficulty-astronomy-students.md) — related
+- [From Kepler's third law with the student-derived orbit, students estimated the HAT-P-7b stellar mass as 1.4823±0.4107 solar masses](students-estimate-star-mass-keplers-third-law.md) — a narrower finding that bears on this claim

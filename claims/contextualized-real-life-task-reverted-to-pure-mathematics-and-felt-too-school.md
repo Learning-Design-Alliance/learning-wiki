@@ -73,3 +73,4 @@ Reflection stage of the same narrative inquiry. Both designers "were not very sa
 - Narrative inquiry uses research puzzles rather than research problems because it is a searching again rather than a problem with a clear solution — related
 - [Students responded most positively to projects that felt authentic and were organized in a clear sequence with manageable milestones](student-engagement-authenticity-clear-sequence.md) — related
 - [Learning-stories research indicates meaningful learning involves felt ownership of knowledge, emotional integration, generativity, real-life context, interaction with others' learning, and transformed self-perceptions](learning-stories-meaningful-learning-dimensions.md) — related
+- [Working with mathematical modeling can motivate students and teachers and make statistics content meaningful and concrete](modeling-motivates-and-concretizes-statistics-content.md) — related

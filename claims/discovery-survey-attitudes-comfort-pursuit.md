@@ -64,3 +64,4 @@ Pre/post survey administration by teachers across the five terms (217 responses 
 - [A post-competition survey found that GeCAA made a positive impact on participants' views of astronomy and astrophysics](gecaa-2020-survey-positive-impact-views.md) — related
 - [Participation in informal science education activities is correlated with increased science interest, science identity development, and career intentions](isea-participation-science-identity-career-intentions.md) — a broader claim this one bears on
 - [Developing multiple pathways for laboratory investigation expands the learning of all participants in a physics lab program](multiple-pathways-expand-lab-learning.md) — related
+- [Student participants reported that the online reading group left them more academically prepared for future careers and brought them closer to their classmates](phasrs-interviews-preparedness-closeness.md) — related

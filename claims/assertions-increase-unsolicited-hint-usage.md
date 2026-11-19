@@ -51,3 +51,4 @@ Controlled study in the Deep Thought logic tutor with 100 students (57 Assertion
 - [For low prior proficiency students, unsolicited hint usage rates correlate negatively with posttest solution length, while hint frequency does not correlate](hint-needed-rate-correlates-shorter-proofs-low-proficiency.md) — related
 - [No aptitude-treatment interaction: prior proficiency did not interact with hint type](no-ati-hint-type-proficiency.md) — related
 - [Waypoint hints show lower justification and adoption rates than Next-Step hints](waypoints-lower-justification-adoption.md) — related
+- [HNU Adaptive students received significantly more total hints than Control, with no difference in on-demand hints or overall hint justification rate](hnu-adaptive-hint-counts-and-justification.md) — related

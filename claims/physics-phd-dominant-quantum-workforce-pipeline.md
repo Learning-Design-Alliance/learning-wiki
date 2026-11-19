@@ -57,3 +57,4 @@ Interview data on degree-subject routes (Fig. 3) show "The majority of companies
 - [Many quantum-industry jobs require no important quantum skills, and non-quantum skills remain important for all jobs](many-quantum-jobs-need-no-quantum-skills.md) — related
 - [The linear PhD-only path will not be the only route to quantum careers; multiple entry points are needed](multiple-entry-points-quantum-careers.md) — related
 - [Preferred degree level depends strongly on the quantum job role, with PhDs for quantum-specific roles and more consensus about skills than about degrees](quantum-degree-requirements-vary-by-role.md) — related
+- [Skills gained by physicists during formal education are often mismatched with skills required for a successful career in physics](physics-education-career-skills-mismatch.md) — related

@@ -58,3 +58,4 @@ Simulation measurement of effect sizes from MAB-collected data for normally dist
 - [A multi-armed bandit controller achieves scoring accuracy comparable to exhaustive grid search while reducing LLM calls by 78.4% and token consumption by 72.8%](mab-prompt-selection-reduces-aes-costs.md) — related
 - [Prognostic errors are direction-dependent: survival is overestimated for patients surviving under 9 months and underestimated for those surviving longer](overestimation-under-9-months-underestimation-beyond.md) — related
 - [An Algorithm-Induced Test controls FPR at 5% but greatly reduces Power to 17%](algorithm-induced-test-controls-fpr-reduces-power.md) — related
+- [In a randomized controlled trial, students assigned exercises by the LinUCB bandit model had substantially higher completion rates and lower skip rates than students under an adaptive heuristic policy in both free-user and customer cohorts](linucb-rct-higher-completion-lower-skip.md) — related

@@ -67,3 +67,4 @@ Table 2 simulation results for Bayes factor analysis (cutoff 3.0) across TS, UR,
 - [An Algorithm-Induced Test controls FPR at 5% but greatly reduces Power to 17%](algorithm-induced-test-controls-fpr-reduces-power.md) — related
 - [Even when two arms have equal reward, Thompson Sampling can misleadingly allocate many participants to one arm](ts-misallocates-participants-equal-reward.md) — related
 - [In a real classroom deployment, Thompson Sampling allocated over 88% of students to a single arm in Experiment 2 despite no statistically significant difference between arms](classroom-ts-deployment-uneven-allocation.md) — related
+- [Thompson Sampling and TS† exploit a single arm even when no significant difference exists among arm means](bandit-exploitation-without-significant-arm-difference.md) — related

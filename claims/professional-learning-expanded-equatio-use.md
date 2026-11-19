@@ -49,3 +49,4 @@ Qualitative cross-case analysis of nine grade 4-12 teacher partners' written com
 - [Most Equatio-using teachers were not using the tool to support UDL-based practices, with only about 22% reporting use of a given UDL affordance on average](equatio-udl-practice-low-baseline-usage.md) — related
 - [When all of a teacher's students had access to Equatio, teachers leveraged it in more robust workflows such as assessments, digital submissions, and timely feedback](universal-student-access-enables-robust-equatio-use.md) — related
 - [Lasting pedagogical change is more likely when teachers try out strategies, receive feedback, and iteratively improve across multiple workshops](iterative-follow-up-supports-lasting-change.md) — a broader claim this one bears on
+- [Reading PERbites rarely led readers to try new instructional strategies or research techniques](perbites-limited-practice-change.md) — related

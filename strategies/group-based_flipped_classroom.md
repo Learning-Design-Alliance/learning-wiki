@@ -68,6 +68,7 @@ The model combines two well-supported mechanisms: shifting passive content deliv
 - [Use flipped classroom with pre-reading multimedia materials and in-class team-based article appraisal practice for EBN training](flipped-classroom-multimedia-prereading-team-appraisal.md)
 - [Assign empirically tested animation-based learning modules as out-of-class preparation to free class time for active learning](assign-animation-modules-as-preclass-preparation.md)
 - [SOLE sessions structure self-organized collaborative inquiry in fixed 60-minute blocks](sole-60-minute-session-structure-strategy.md)
+- [Provide pre-class materials (videos, slides, modules, worksheets) with assessment, then use class time for interactive individual and group activities with the teacher as facilitator](fcp-preclass-materials-inclass-interactive-activities.md)
 
 ## Examples
 - **Process-Oriented Guided Inquiry Learning (POGIL)** — [https://pogil.org](https://pogil.org) — students complete pre-class preparation, then work in role-assigned teams on guided-inquiry worksheets; widely used in undergraduate chemistry

@@ -54,3 +54,4 @@ Qualitative analysis of responses to the open question asking which difficulties
 - [Female Ph.D. students bear main responsibility for childcare and household chores far more often than male students, and no woman reported a spouse as main caregiver](childcare-chores-burden-female-phd-students.md) — related
 - [Most female physics Ph.D. students (67%) report experiencing discrimination during their studies, versus 19% of men, mainly on grounds of gender and pregnancy/parenthood](gender-discrimination-israeli-physics-phd.md) — related
 - [Women give more weight to their spouse's career and employment prospects when deciding on a postdoc abroad](women-weigh-spouse-career-more-in-postdoc-decision.md) — related
+- [Pandemic-era economic, family, health and insecurity factors are said to have shifted educational preferences, and physics reportedly lost enrollment](pandemic-factors-shifted-preferences-physics-enrollment-loss.md) — related

@@ -76,3 +76,4 @@ Executive-summary analysis of the same score dataset reports that lowest-band st
 - [In one uncontrolled pre-post study, developers' largest score increases from pre-test to post-test were on Inclusion of Constraints, Error Handling, and Context Awareness, the dimensions developers scored lowest on at baseline](prompt-coach-largest-gains-on-baseline-blind-spots.md) — a narrower finding that bears on this claim
 - [Scattering varies with intelligence-age level: smallest at the lowest mental ages and possibly largest in the middle range, with age-level differences exceeding diagnostic-category differences](scattering-varies-with-mental-age-level.md) — related
 - [VA strategy significantly improves teacher candidates' argumentation skills with large effect sizes](va-strategy-improves-argumentation-skills.md) — related
+- [Learning gains are higher for students' first attempts than across all attempts](first-attempt-gains-exceed-all-attempt-gains.md) — related

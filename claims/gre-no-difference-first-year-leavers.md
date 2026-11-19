@@ -52,3 +52,4 @@ Two-way ANOVA comparing first-year leavers with completers in the 1805-student c
 - [Women enrolled in STEM PhD programs had GRE Q scores averaging about 40 points lower than men at each institution while completing at similar rates](gre-q-gender-gap-similar-completion.md) — related
 - [Time to degree does not vary by GRE V or GRE Q quartile for men or women](gre-quartile-no-time-to-degree-effect.md) — related
 - [GRE Physics Subject Test scores are not associated with physics PhD completion in any model studied](gre-physics-no-completion-prediction.md) — related
+- [Serendipity — finding the right people or resources at critical moments — is the greatest difference between STEM students who stay and those who leave](happenstance-stayer-leaver-difference.md) — related

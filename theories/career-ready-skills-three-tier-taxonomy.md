@@ -46,6 +46,7 @@ Drawing on a Career Readiness Paper from ACTE (source URL printed on the slide),
 ## Examples
 
 - [Student presentations plus instructor-peer-reviewed term papers to build technical writing, reviewing skills, and academic-honesty awareness](../strategies/student-presentation-peer-reviewed-term-paper-strategy.md)
+- [Embed employability skills and career awareness across the physics curriculum through a coordinated employer-engagement programme](../strategies/embed-employability-across-physics-curriculum-strategy.md)
 
 ## Key Sources
 - April Williamson. (2024). Challenge-Based Learning for Global Competence and Employability. Digital Promise, ISTELive Global Collaboration Playground. https://www.acteonline.org/wp-content/uploads/2022/05/Career_Readiness_Paper_COLOR.pdf

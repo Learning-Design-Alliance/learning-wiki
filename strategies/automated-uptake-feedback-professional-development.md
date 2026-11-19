@@ -50,7 +50,8 @@ The authors propose their uptake measure as "an automated tool to give feedback 
 - [Word-overlap measures outperform sentence-level similarity measures, including neural ones, at measuring uptake](../claims/token-overlap-outperforms-sentence-similarity-uptake.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use automated funneling/focusing measures in teacher feedback and professional development tools](automated-feedback-funneling-focusing-tool-strategy.md)
 
 ## Examples
 -

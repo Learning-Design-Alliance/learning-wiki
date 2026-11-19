@@ -85,3 +85,4 @@ FCI administered as pre-test at the start of CLASP A and post-test at the end of
 - [Introductory physics and astronomy students achieve comparable FCI conceptual gains on force concepts, despite differing attitudes](fci-conceptual-gains-comparable.md) — related
 - [The online introductory mechanics course achieved an FCI learning gain of 0.55 (d = 1.3) using matched data in Spring 2019.](iolab-online-mechanics-fci-gain-0-55.md) — related
 - [A forced mid-semester transition to online teaching produced no appreciable drop in FCI normalized gain (G = 0.24) for first-year mechanics students](forced-online-transition-no-gain-loss-fci.md) — related
+- [Median normalized gains across repeatedly taught courses generally exceeded 0.25, with one course improving between its first and third implementation](longitudinal-median-gains-exceed-025-fig1.md) — related

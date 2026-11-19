@@ -56,4 +56,4 @@ The course replaced standard textbook problems with authentic real-world problem
 -
 
 ## Key Sources
-- Burkholder, E., Salehi, S., Sackeyfio, S., Mohamed-Hinds, N., & Wieman, C. (2021). An equitable and effective approach to introductory mechanics. https://arxiv.org/abs/2111.12504
+- Burkholder, E., Salehi, S., Sackeyfio, S., Mohamed-Hinds, N., & Wieman, C. (2021). An equitable and effective approach to introductory mechanics. https://arxiv.org/abs/2111.12504. [doi:10.48550/arxiv.2111.12504](https://doi.org/10.48550/arxiv.2111.12504)

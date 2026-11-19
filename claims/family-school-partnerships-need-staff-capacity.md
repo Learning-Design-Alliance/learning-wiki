@@ -79,3 +79,4 @@ The guide argues that barriers to partnership include "the assumptions, beliefs,
 - [Schools adopting a whole child approach are reported to see improved attendance, engagement, health, and academic performance](whole-child-approach-improved-outcomes.md) — related
 - [School designs supporting caring, continuous student-teacher relationships better address trauma and strengthen achievement than traditional factory-model schools](relationship-centered-designs-beat-factory-model.md) — related
 - [Case study districts show potential underinvestment in family support and engagement, with most reporting no English Learner family/community liaisons](underinvestment-in-el-family-engagement-liaisons.md) — related
+- [The authors argue the 'two cultures' divide can be addressed with cultural and social tools such as science popularisation books and school-research collaboration](asimov-prize-two-cultures-addressed.md) — related

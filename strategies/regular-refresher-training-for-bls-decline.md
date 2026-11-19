@@ -72,6 +72,7 @@ The article states that the observed decline in knowledge and skills at 3 months
 - [Counter skill decay with repeated training and periodic formative assessments](repeated-training-formative-assessments-skill-retention.md)
 - [Non-routine practitioners of advanced procedural skills should receive periodic reinforcement or retraining after initial simulator training](periodic-retraining-rarely-used-procedural-skills.md)
 - [Use web-based learning as an on-demand reinforcing agent to maintain newly acquired ECG skills](wbl-on-demand-reinforcement-strategy.md)
+- [Produce and maintain free, on-demand targeted MOOCs at the undergraduate level for AS&E education and recruiting](targeted-asande-moocs-strategy.md)
 
 ## Examples
 -

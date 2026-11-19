@@ -49,3 +49,4 @@ Anonymous Likert-scale survey (items 8 and 9) of students from two groups who ex
 - [More than 90% of respondents agreed or strongly agreed that JIT simulation participation would impact their future clinical practice](jit-simulation-perceived-impact-future-practice.md) — related
 - [Students report that the active lab methodology supports content fixation, creativity and protagonism](survey-positive-perceptions-fixation-creativity-protagonism.md) — related
 - [Students hold mixed views on whether the project's high degree of freedom facilitates failures such as lack of responsibility](survey-freedom-risk-mixed-perception.md) — related
+- [AI projects are argued to form a classroom context highly conducive to creativity because they offer many degrees of design freedom and task-appropriate applications](ai-projects-foster-creativity.md) — related

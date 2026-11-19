@@ -49,3 +49,4 @@ Secondary t-test comparison in Table 2 between 51 inexperienced and 35 experienc
 - [Prior real-life emergency encounters strongly predict good BLS/CPR knowledge among dentists (aOR = 12.97)](emergency-encounter-predicts-bls-knowledge.md) — related
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — a broader claim this one bears on
 - [Ten months after training, most follow-up respondents reported real emergency involvement and perceived benefits from the training in emergencies and in daily routines](follow-up-perceived-benefits-emergencies-and-routines.md) — related
+- [Students who experienced the CTF exercise rated team-process learning, confidence, team-effort appreciation, and course applicability higher than students without CTF](ctf-exercise-higher-team-collaboration-ratings.md) — related

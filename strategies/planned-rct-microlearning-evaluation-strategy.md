@@ -53,6 +53,7 @@ The authors recommend that future work evaluate educational effectiveness throug
 - [Design future Serious Game versus traditional teaching trials as randomised studies with pre-tests and learning-time data](randomised-pretest-design-for-serious-game-trials.md)
 - [Evaluate teaching skills programs with valid, reliable, objective outcome measures and report results using the Kirkpatrick model](validated-outcome-measures-kirkpatrick-reporting.md)
 - [Evaluate curriculum reform with long-term follow-up surveys after graduation, not student evaluations](long-term-followup-curriculum-evaluation.md)
+- [Compare an AR experimental group with a non-AR control group using a non-AR version of BIMxAR](bimxar-non-ar-control-test-case.md)
 
 ## Examples
 -

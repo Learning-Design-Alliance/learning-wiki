@@ -63,6 +63,7 @@ Skimming and scanning depend on efficient eye-movement control and on text featu
 - [Annotating](../principles/annotating.md) — captures scan results so they need not be re-found
 - [Question Generation](question-generation.md) — self-questions give skimming a concrete target
 - [Systematic drill in skimming for children who have mastered the mechanics of reading](skimming-drill-after-mechanics-mastered.md)
+- [Use a set of critical-reading questions to skim and evaluate literature efficiently](critical-reading-questions-astronomy.md)
 
 ## Examples
 - **IELTS/TOEFL preparation** — timed scanning tasks (locating names, dates, figures in passages) are a core tested skill; official practice materials from [IELTS](https://ielts.org) train it directly.

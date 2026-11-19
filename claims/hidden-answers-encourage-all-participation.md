@@ -48,3 +48,4 @@ Descriptive results from the 61-webinar residency program. The digital platform 
 - [A webinar format combining clinical cases, individual questioning with hidden answers, and immediate feedback enabled residents to participate actively, reflect, correct conceptual errors, and exercise critical thinking](webinar-case-question-feedback-active-participation.md) — related
 - [Residents want active participation only within a safe environment, while faculty report difficulty eliciting resident interaction](safe-environment-resident-participation.md) — related
 - [Students report a far higher likelihood of answering questions in class when handsets are used than when responding by raising hands or verbally](evs-raises-participation-likelihood-vs-hands-verbal.md) — related
+- [Hiding task solutions by default is argued to promote active learning in interactive notebooks](hidden-solutions-promote-active-learning.md) — related

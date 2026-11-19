@@ -47,3 +47,4 @@ Comparison of ISLE and NEXUS ratings of importance to student and success of the
 ## Related Claims
 - [NEXUS/Physics labs showed student success ratings comparable to ISLE labs on shared learning goals](nexus-labs-comparable-success-to-isle.md) — related
 - [Pilot IPLS students shifted toward perceiving the reformed physics labs as valuable for their future careers](nexus-physics-labs-career-perception-shift.md) — related
+- [Student participants reported that the online reading group left them more academically prepared for future careers and brought them closer to their classmates](phasrs-interviews-preparedness-closeness.md) — related

@@ -46,6 +46,7 @@ The instructor presented four non-interacting quantum field theories and asked w
 - [Concrete Examples](concrete-examples.md)
 - [Word Study](word-study.md)
 - [Use multiple-choice review questions constructed to guarantee every student engages with a known durable misconception](multiple-choice-misconception-exposure-strategy.md)
+- [Team projects in which students discover quantum concepts (teleportation presentation and engaging Grover-algorithm video)](team-discovery-projects-teleportation-grover.md)
 
 ## Examples
 -

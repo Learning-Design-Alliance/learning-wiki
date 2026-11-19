@@ -48,3 +48,4 @@ Descriptive account of the LSSDS program format in Section 2, a program report r
 - [LSSDS projects with typically four students are purposely designed to maximise diversity among students.](lssds-four-student-diverse-project-groups.md) — related
 - [The LSSDS program shows high demand (oversubscription factor 5-8) and positive testimony from alumni and faculty.](lssds-oversubscription-factor-5-8-testimony.md) — related
 - [Some LSSDS group projects have resulted in successful observing proposals, continued collaboration, and student-led replications of parts of the school.](lssds-project-outcomes-proposals-collaborations.md) — related
+- [Students reported that hour-long presentations, though initially intimidating, built presentation and discussion-leadership skills, with faculty mentor pairing credited for their success](phasrs-hour-talks-skill-development.md) — related

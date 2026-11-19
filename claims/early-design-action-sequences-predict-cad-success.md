@@ -49,3 +49,4 @@ Modeling study of JSON action logs from 128 students in the Fall 2020 ENGT 18000
 - [Logistic regression on tallied design action counts predicts success with accuracy consistently above 50% and mostly above 65%](logistic-tallied-counts-above-chance.md) — related
 - [A final net energy range of -10,000 to +10,000 kWh was adopted as the criterion for a successful zero net energy design](zero-net-energy-success-range-10000-kwh.md) — related
 - [Linear regression on tallied design actions cannot accurately predict final net energy values](linear-regression-tallied-actions-inaccurate.md) — related
+- [A logistic regression model using topic success and topic skip features predicts next-exercise success with 80% accuracy](logistic-regression-predicts-next-exercise-success-80-percent.md) — related

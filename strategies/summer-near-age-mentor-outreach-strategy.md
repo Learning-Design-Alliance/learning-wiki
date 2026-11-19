@@ -51,6 +51,7 @@ The authors recommend that "Extending support services to students over the summ
 - [Provide mentorship and outreach support after program entry to sustain persistence in alternative STEM programs](post-entry-mentorship-support-alternative-stem-programs.md)
 - [Proactive summer outreach via advisors or personalized text messages to college-intending graduates](proactive-summer-outreach-advisors-or-text.md)
 - [Course-based near-peer mentorship as a scalable alternative to faculty mentorship in large-enrollment STEM programs](scalable-course-based-near-peer-mentorship.md)
+- [Recruit course completers as teaching assistants for a summer school to consolidate and extend their learning](course-completers-as-summer-school-tas.md)
 
 ## Examples
 -

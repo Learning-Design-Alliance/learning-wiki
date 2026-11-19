@@ -61,3 +61,4 @@ Conceptual synthesis in the technical foundation section of the review, arguing 
 - [Recurring features across XR-simulation in dentistry are stereoscopic vision, immersion, interaction, modification and haptic feedback](xr-recurring-features-dental-simulation.md) — related
 - [Realism of technology is a prominent enabler of critical thinking development in technologically supported SBL, mapped to the information quality dimension of the D&M IS Success Model](realism-enabler-critical-thinking-sbl.md) — related
 - [The authors report that game-based activities develop students' visual thinking and visualization skills in physics](games-develop-visual-thinking-skills.md) — related
+- [Primary studies show no consensus on the definition of immersive learning, splitting between pedagogical/subjective and technological viewpoints](no-consensus-immersive-learning-definition.md) — related

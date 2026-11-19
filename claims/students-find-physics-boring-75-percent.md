@@ -47,3 +47,4 @@ The review reports, citing Saleh (2014), a study of Malaysian students' motivati
 
 ## Related Claims
 - [In open-ended responses to a national survey, about three-quarters of the feelings US high school students reported about school were negative, with tired, stressed, and bored the most frequent](high-school-open-ended-feelings-mostly-negative.md) — a broader claim this one bears on
+- [The general public perceives physics as boring and unyielding, an attitude fed by unfruitful high-school encounters with the discipline](public-negativity-toward-physics-from-school-encounters.md) — a broader claim this one bears on

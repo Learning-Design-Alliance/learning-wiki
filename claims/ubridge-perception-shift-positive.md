@@ -52,3 +52,4 @@ Pre/post survey of the ten-participant cohort (Table 12). The synthesis section 
 - [Paired pre/post AI readiness scores rose descriptively from 82.5% to 89.9% (mean gain 7.4 percentage points) among seven co-creation clients, treated as descriptive context only](paired-readiness-gain-descriptive-n7.md) — related
 - [Sentiment toward AI in education shifted from negative to positive, with negative descriptors falling from 30% of participants to 0% after the intervention](sentiment-shift-negative-to-positive-ai-education.md) — related
 - [GPT4-coded sentiment of students' open-ended general feedback about the intervention was overwhelmingly positive](positive-sentiment-open-ended-feedback.md) — related
+- [Messages in a blended collaborative course with team assignment were more positive than MOOC forum messages, a positive-to-negative ratio of 4 against 0.4](teamwork-shifts-sentiment-positive.md) — related

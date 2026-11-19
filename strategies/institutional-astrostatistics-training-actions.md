@@ -51,6 +51,7 @@ A set of implementable departmental actions proposed by the authors: adding or c
 - [National-level actions: create astrostatistics chapters and working groups, partner with CANSSI, set conference guidelines, and build a national Centre of Excellence](national-astrostatistics-training-actions.md)
 - [Structured cross-disciplinary faculty training, leadership resource allocation, and dedicated administrative support to overcome interdisciplinary implementation barriers](faculty-training-resources-admin-support-interdisciplinary.md)
 - [International-level actions: collaborate with international astrostatistics organizations, develop statistical standards and a standard graduate curriculum, and recruit internationally trained astrostatisticians](international-astrostatistics-training-actions.md)
+- [Graduate programs should provide formal training modes for skills where self-teaching is inadequate, including a standard undergraduate statistics course and industry partnerships](formal-skills-training-recommendations-snowmass.md)
 
 ## Examples
 -

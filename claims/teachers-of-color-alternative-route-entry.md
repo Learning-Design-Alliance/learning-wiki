@@ -50,3 +50,4 @@ Descriptive analysis of 2020–21 National Teacher and Principal Survey data on 
 - [Alternative and traditionally certified teachers were similar on academic credentials but differed in race, education major, concurrent coursework, and first-year mentoring](teacher-characteristics-differ-by-certification-route.md) — related
 - [Alternative certification programs grew to account for about one-third of all new teachers certified annually in the United States](alternative-certification-one-third-new-teachers.md) — related
 - Alternative-route teacher certification enrollment has grown rapidly nationally and in Michigan, where just over 40% of candidates were in alternative programs by 2023 — related
+- [Nearly half of new German physics teachers entered via alternative pathways between 2002 and 2008, and roughly 6.5% of teachers teach physics out of field](german-alternative-entry-and-out-of-field-teaching.md) — related

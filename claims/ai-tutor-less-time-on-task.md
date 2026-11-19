@@ -63,3 +63,4 @@ Platform usage tracking in the crossover RCT measured AI-group time on task, sho
 - [Participants spent less time on an e-learning module (mean 88.1 minutes) than on all written course material (mean 162.9 minutes)](elearning-preparation-time-shorter.md) — related
 - [A 10% increase in group work time correlates with a 0.30 increase in effect size (about 3% performance improvement)](ten-percent-group-work-time-effect-size-gain.md) — related
 - [Platform B participants spent 2.23 times more time on active learning activities (solving exercises) than Platform A participants](platform-b-more-active-learning-time.md) — related
+- [Participants spent more time learning in the VR environment than the control group spent studying the paper drawing](more-time-in-vre-than-paper.md) — related

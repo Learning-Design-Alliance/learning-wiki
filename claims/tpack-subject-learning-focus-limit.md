@@ -51,3 +51,4 @@ Literature-based evaluation of the TPACK model in the article's framework-review
 - [Netherlands case: design-based TPACK interventions improved student teachers' TPACK and were sustained, but scaling was delayed by leadership decision structures](netherlands-tpack-interventions-sustained-scaling-delayed.md) — related
 - [Virtual exchange participation develops student teachers' digital-pedagogical competence (TPACK)](virtual-exchange-develops-tpack-student-teachers.md) — related
 - [Existing digital competence frameworks for psychotherapists are not specifically conceptualized for BCP](existing-frameworks-not-bcp-specific.md) — related
+- [Most immersive learning frameworks are theoretical models of causal relationships between factors influencing learning outcomes, while practical frameworks are limited and context-specific](il-frameworks-mostly-theoretical-causal-models.md) — related

@@ -89,3 +89,4 @@ Qualitative Delphi data from the South African panel; the article reports this l
 - [Young new farmers show high acceptance and proficiency with digital technologies and platforms.](young-new-farmers-digital-technology-acceptance.md) — related
 - [Student participants report that one-on-one immersion in South African daily life deepened learning beyond their home courses](immersion-deeper-than-home-courses.md) — related
 - [The most common instructor-reported motivation for the shift from group work to individual work in remote labs was equity concerns](equity-concerns-drove-individual-work.md) — related
+- [No reviewed framework directly addresses the six main barriers to adoption of immersive technologies in education identified by the State of XR Report](frameworks-do-not-address-adoption-barriers.md) — related

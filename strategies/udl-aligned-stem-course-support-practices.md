@@ -49,6 +49,7 @@ The authors recommend instructors implement Universal Design for Learning practi
 
 - [Design physics courses with UDL by examining the why, what, and how of teaching to find student barriers, then adding supports and options](why-what-how-udl-course-examination-strategy.md)
 - [Support faculty UDL uptake through shared resources, discussion forums, responsive accessibility services, and recognition of accessible design work](institutional-support-for-faculty-udl.md)
+- [Provide individualized academic advising and train faculty to accommodate students' emotional and mental health needs](individualized-advising-and-mental-health-preparedness.md)
 
 ## Examples
 -

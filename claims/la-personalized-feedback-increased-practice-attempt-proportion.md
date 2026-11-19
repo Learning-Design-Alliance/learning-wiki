@@ -49,3 +49,4 @@ Randomized experiment in a large introductory chemistry course (783 consenting s
 - [Personalized feedback did not increase the number of practice problems attempted among students who engaged, in either phase](no-increase-practice-problem-count.md) — related
 - [Students receiving personalized feedback began homework earlier than the control group during the intervention phase (about half a day earlier)](la-personalized-feedback-earlier-homework-start.md) — related
 - [Intervention class students submit a greater proportion of interactive homework assignments than control class students](outreach-increases-homework-submissions.md) — related
+- [Email reminder messages increase average homework performance by about 4 percentage points](email-reminders-increase-homework-performance.md) — related

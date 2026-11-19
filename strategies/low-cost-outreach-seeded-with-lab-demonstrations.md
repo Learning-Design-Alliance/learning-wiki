@@ -45,6 +45,7 @@ The authors recommend that the design principles on which these programs rest ca
 ## Related Strategies
 
 - [Keep the outreach experiment scientist-operated rather than automated so visitors can ask questions and meet a living experimenter](scientist-operated-outreach-demonstration.md)
+- [Recommendations for K-12 particle physics outreach programs](k12-particle-physics-outreach-recommendations.md)
 
 ## Examples
 -

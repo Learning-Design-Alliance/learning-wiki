@@ -50,6 +50,7 @@ To accommodate visually impaired students in the AHaH labs, the team provided an
 - [Screen Readers](screen_readers.md)
 - [Replace visual node identification with audible signals so blind students can actively perform physics-lab measurements](audible-signal-replaces-visual-node-identification-strategy.md)
 - [Use image sonification and screen-reader-compatible interfaces to make robotic-telescope image analysis accessible to blind and visually impaired students](image-sonification-bvi-astronomy-access.md)
+- [Provide sonification of astronomical data with sufficient context, since sounds without context are hard to interpret](sonification-with-context-strategy.md)
 
 ## Examples
 -

@@ -46,6 +46,7 @@ A specific implementable activity: place the ball a known distance D from a wall
 ## Related Strategies
 
 - [Use a stereo sound card pulse-delay experiment as a quick classroom demonstration or full laboratory determination of sound speed](stereo-sound-card-demonstration-strategy.md)
+- [Engage students in measuring instantaneous speed with the speedometer, timing the motion by video analysis or by the sound of bells](speedometer-classroom-measurement-activity.md)
 
 ## Examples
 -

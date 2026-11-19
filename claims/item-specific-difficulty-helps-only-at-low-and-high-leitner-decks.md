@@ -58,3 +58,4 @@ Observational study of Mnemosyne flashcard log data, comparing memory models by 
 - [Item difficulty was best predicted using signal from the item stem](difficulty-best-predicted-from-item-stem.md) — related
 - [All models predict performance worst for students of intermediate overall ability, with best performance for high and low performing students](mid-ability-students-hardest-to-predict.md) — related
 - [Within the FCI-metric, questions 1 and 6 are the easiest and 25 and 26 the hardest, while questions 5, 13 and 18 discriminate best and question 29's item characteristic curve is almost flat](fci-item-difficulty-and-discrimination-extremes.md) — related
+- [Augmenting item response theory with a behavior term learned from process data improves question-level performance prediction over base IRT, though the gain shrinks when incomplete questions are excluded](behavior-enhanced-irt-improvement.md) — related

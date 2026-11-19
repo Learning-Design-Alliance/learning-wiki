@@ -47,3 +47,4 @@ Theoretical argument in the Introduction, motivated by cited literature on diffi
 ## Related Claims
 - [None of the evaluated textbooks discusses the oscillatory temporal behaviour of the measured quantities or the need to assume plane sound waves inside the tube](textbooks-omit-oscillation-and-plane-wave-assumption.md) — related
 - [Maps based on relations between observables make explicit the eigenstate and commutation knowledge that textbooks underemphasize and students struggle to acquire](observable-relation-maps-eigenstate-difficulties.md) — related
+- [Textbook writers often fail to provide prompts for explicit reflection on NoS despite the explicit-reflective approach being essential](nos-textbooks-lack-explicit-reflection-prompts.md) — related

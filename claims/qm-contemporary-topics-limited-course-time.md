@@ -70,3 +70,4 @@ One instructor called the Bell inequality experiments "a major breakthrough that
 - [Physics teaching is described as stuck in outdated pre-20th-century content, and barriers to including Modern and Contemporary Physics are multiple and interacting](mcp-teaching-outdated-content-barriers.md) — related
 - [Student discomfort with physical concepts increases over the semester, peaking during the quantum computing and entanglement units where the physics category dominates](physics-discomfort-peaks-quantum-computing-entanglement.md) — related
 - [Introductory physics textbooks typically omit quantum entanglement despite its centrality to quantum information science](intro-textbooks-omit-entanglement.md) — related
+- [Introductory physics classes essentially ignore modern physics, and textbooks contain mostly 18th- and 19th-century concepts](introductory-physics-classes-ignore-modern-physics.md) — related

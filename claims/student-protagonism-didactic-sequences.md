@@ -51,3 +51,4 @@ Authors' interpretive conclusion (type e) drawn in the Conclusion section from t
 - [Students report that the active lab methodology supports content fixation, creativity and protagonism](survey-positive-perceptions-fixation-creativity-protagonism.md) — related
 - [Teachers observed that cooperative learning boosted participation, confidence, and motivation, including among weak and shy students](cooperative-learning-teacher-observations-participation-confidence.md) — related
 - [Student participation in scientific exhibitions shifts teachers from knowledge transmitters to mediators and makes students protagonists of teaching-learning](exhibition-student-protagonism-mediation.md) — related
+- [Students showed a correct attitude toward the modeling-based methodological strategies used in the basic statistics course](positive-attitude-modeling-strategies-statistics-course.md) — related

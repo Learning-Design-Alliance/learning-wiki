@@ -54,3 +54,4 @@ Interview data from teachers in six randomly selected CPS schools. One teacher r
 - [When district administration encourages a culture of coaching, teachers feel more comfortable participating in coaching and taking ownership of change](coaching-culture-increases-teacher-participation.md) — related
 - [The complexity of coaching responsibilities may fragment the coaching process and reduce its impact](coaching-complexity-may-fragment-impact.md) — related
 - [Two embedded attributes of educational leadership programs—diverse open participation and a dual growth-and-spotlight role—undermine rigorous outcome assessment](le-program-attributes-undermine-assessment-rigor.md) — related
+- [Directly showing student risk scores to students, teachers, or administrators can worsen student outcomes](risk-score-disclosure-harms-students.md) — related

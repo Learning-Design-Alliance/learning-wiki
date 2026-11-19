@@ -48,3 +48,4 @@ Training-environment section of the post-task questionnaire completed by all 25 
 - [Surgeons judged registrars and fellows the trainee level that would benefit most from the VR hip arthroscopy simulator](registrars-fellows-benefit-most-vr-simulator.md) — related
 - [A VR hip arthroscopy simulator achieves acceptable realism ratings in all assessed domains except soft-tissue tactile feedback](vr-hip-arthroscopy-simulator-face-validity-realism.md) — related
 - [Six post-16 work experience students rated their placement positively on a Likert scale, judging it an ideal introduction to the university learning environment](work-experience-student-likert-evaluation.md) — related
+- [Participants rate the VR learning experience as enjoyable, with more than 75% agreeing or strongly agreeing](vr-enjoyment-high-ratings.md) — possibly the same claim (merge candidate)

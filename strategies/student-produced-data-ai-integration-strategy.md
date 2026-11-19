@@ -49,6 +49,7 @@ This strategy treats educational activities as data sources for AI systems, so t
 - [Use student reflection on subject-related datasets and AI model behavior to address both common core standards and AI competencies](reflection-prompts-ai-integration.md)
 - [Integrate AI literacy across grades and subject-area learning rather than confining it to electives](integrate-ai-literacy-across-subject-areas.md)
 - [Embed AI literacy across disciplines by identifying intersections with existing content and using case studies, interdisciplinary modules, and collaborative projects](embed-ai-literacy-across-disciplines.md)
+- [Integrate hands-on AI project modules directly into core subjects as an intermediate approach between informal and formal AI education](integrate-ai-modules-into-core-subjects.md)
 
 ## Examples
 -

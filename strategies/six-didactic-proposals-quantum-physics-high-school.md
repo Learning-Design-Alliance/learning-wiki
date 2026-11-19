@@ -48,6 +48,7 @@ The article distils its experience into six recommendations, stating that "the h
 - [Start from science-fiction enthusiasm and move gradually to correction through find-the-mistake exercises](gradual-sci-fi-enthusiasm-to-correction-strategy.md)
 - [Use computer simulations and software visualizations extensively to build students' visualization of quantum mechanics concepts](computer-simulations-visualize-quantum-concepts.md)
 - [Connect quantum physics learning to everyday life, citizenship and human relationships rather than applications alone](connect-quantum-learning-to-everyday-life-and-citizenship.md)
+- [Gradually introduce basic concepts of modern physics into high school physics curricula](gradually-introduce-modern-physics-high-school-curricula.md)
 
 ## Examples
 -

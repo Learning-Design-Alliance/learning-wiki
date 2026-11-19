@@ -50,3 +50,4 @@ This is the article's own summary of prior literature (citing reference 3), not 
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
 - [Optimizing pedagogical parameters on proxy measures risks trading learning for engagement, and simulated students carry their own accuracy limits](proxy-optimization-engagement-trap.md) — related
+- [Prior research on data physicalization in learning is limited to adults, with one child-specific physicalization game](physicalization-research-limited-to-adults.md) — related

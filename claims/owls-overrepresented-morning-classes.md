@@ -47,3 +47,4 @@ Kruskal-Wallis comparison of class start time enrollment across chronotype categ
 ## Related Claims
 - [Owls (late chronotypes) show a significant academic performance deficit compared to larks and finches at all class times of day](owls-academic-deficit-all-class-times.md) — related
 - [All chronotypes exhibit significant academic improvement in later classes, with evening class grades at least 0.27 points higher than morning class grades](grades-improve-later-class-times.md) — related
+- [Hourly LMS login patterns cluster into three chronotype groups among computing undergraduates](lms-hourly-login-three-chronotype-clusters.md) — related

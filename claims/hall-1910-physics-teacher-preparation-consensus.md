@@ -48,3 +48,4 @@ Review report of Hall's questionnaire consensus among sixty college and high-sch
 - [Secondary-school physics teachers show general agreement but little enthusiasm for greater prominence of lecture-demonstrations](hall-1910-lecture-demonstrations-little-enthusiasm.md) — related
 - [Only two of sixty surveyed physics teachers advise including professional study of educational problems in physics-teacher preparation](hall-1910-two-of-sixty-education-study.md) — related
 - [The author's earlier study of 57 nuclear physics textbooks found nuclear weapons almost wholly avoided, constant over a sixty-year span](nuclear-weapons-avoided-in-57-textbooks.md) — related
+- [US physics teacher preparation lacks a coherent system, with over 90% of physics teachers graduating from programs without specialized physics teaching instruction](us-incoherent-physics-teacher-preparation.md) — related

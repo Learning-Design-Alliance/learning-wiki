@@ -50,3 +50,5 @@ Retention outcomes reported in the Outcomes section for two established programs
 - [The APS Bridge Program has placed over 150 students into Bridge or graduate physics programs, with placements comprising 93% URM and 23% female students](aps-bridge-program-placement-outcomes-93-urm.md) — related
 - [In one NVCC summer bridge cohort, 100 percent of students continued to the next semester, described as much higher than normal retention rates](nvcc-bridge-program-full-retention.md) — related
 - [The Fisk-Vanderbilt master's-to-PhD bridge program, using a 30-minute interview instead of a GRE cutoff, achieved over 80% retention of women and minorities toward the PhD](fisk-vanderbilt-bridge-program-retention.md) — related
+- [Fisk–Vanderbilt bridge students show high PhD retention and completion rates](fisk-vanderbilt-bridge-retention-completion.md) — related
+- [The article reports that the Fisk–Vanderbilt bridge program grants 10 times the national average of URM PhDs in astronomy and 5 times the national average in physics](fisk-vanderbilt-urm-phd-yield-claim.md) — related

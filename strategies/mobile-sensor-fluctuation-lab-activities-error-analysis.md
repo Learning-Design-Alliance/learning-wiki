@@ -49,6 +49,7 @@ Laboratory activities in which students record the statistical fluctuations of m
 ## Related Strategies
 
 - [Use built-in mobile-device sensors for science experiments across unconventional settings such as amusement parks, gyms, parks and means of transport](st-smartphone-sensor-experiments-unconventional-settings.md)
+- [Use mobile-device sensor experiments to promote active learning and a fundamental role for the student](mobile-sensors-active-learning-strategy.md)
 
 ## Examples
 -

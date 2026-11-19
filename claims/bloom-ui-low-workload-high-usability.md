@@ -76,3 +76,4 @@ Usability study (RQ3) with N=50 Prolific participants who used the UI for 10 min
 - [Perceived overall workload of the HoloLens-based hip arthroplasty simulation session is low](low-overall-workload-hololens-orthopaedic-simulation.md) — related
 - [The mobile game prototype received a high subjective usability score on the System Usability Scale](mobile-game-high-sus-usability-score.md) — related
 - [Students perceived KLM-FA as good to excellent in usability, with a mean SUS score of 82.0](klm-fa-perceived-usability-sus.md) — related
+- [Participants rated overall workload as low while using BIMxAR on the NASA TLX](bimxar-low-nasa-tlx-workload.md) — related

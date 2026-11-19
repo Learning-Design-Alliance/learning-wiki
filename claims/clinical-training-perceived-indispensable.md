@@ -47,3 +47,4 @@ Discussion-section interpretation of the 'practicing nursing care' theme from th
 ## Related Claims
 - [Placement experiences with limited mental health exposure represent a missed opportunity to build confidence in personality disorder care.](limited-clinical-placement-exposure-to-pd.md) — related
 - [Trainee Advanced Nurse Practitioners report that formal ANP training offered little to no structured content on personality disorder or trauma-informed care, undermining professional confidence.](anp-training-lacks-personality-disorder-content.md) — related
+- [Interns initially undervalued software training but came to see it as indispensable for their projects](interns-initially-undervalued-software-training.md) — related

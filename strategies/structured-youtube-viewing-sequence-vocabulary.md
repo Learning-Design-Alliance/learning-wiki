@@ -51,6 +51,7 @@ The article's administration procedure, following Berk (2009), gives an implemen
 - [Video Based Instruction](video-based-instruction.md)
 - [Combine video viewing with post-viewing activities to test comprehension and encourage productive use of technical vocabulary](video-plus-post-viewing-activities-esp.md)
 - [Structure role-play lessons as sequenced generalization, formulation, correction and appreciation stages with intergroup corrective feedback](gfca-staged-role-play-strategy.md)
+- [Three-activity somatic pedagogy: watch, identify, and bodily replicate a digitized performance](three-activity-somatic-video-pedagogy.md)
 
 ## Examples
 -

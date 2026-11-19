@@ -54,6 +54,7 @@ For introducing new students to electric and magnetic fields, the article recomm
 - [Introduce concept mapping through direct training, attend to computer ability, and start with familiar topics](concept-mapping-implementation-recommendations-efl.md)
 - [Progression of three experiments — CPT observation, magnetometry, and atomic clock locking — on one shared apparatus](cpt-three-experiment-progression-strategy.md)
 - [Present Maxwell's equations as enunciative sentences instead of mathematical expressions](maxwell-equations-sentence-form-strategy.md)
+- [Teach Maxwell's equations as simultaneous relationships with emphasis on field sources, using examples, coupled-equation checks and unified-field tutorials](teach-maxwell-simultaneous-relationships-strategy.md)
 
 ## Examples
 -

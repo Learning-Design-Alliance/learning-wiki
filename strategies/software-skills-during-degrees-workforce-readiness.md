@@ -49,6 +49,7 @@ The article argues that because individual universities do not uniformly provide
 
 - [Build a voluntary mentor community in which participants become mentors and feedback into the training system](hep-participants-become-mentors-community.md)
 - [Offer open certification for passing qualifying examinations as a low-overhead credential that can credit generalist preparation outside degree programs.](open-certification-qualifying-examinations.md)
+- [Present undergraduates a realistic view of particle physics career paths](undergrad-realistic-career-paths.md)
 
 ## Examples
 -

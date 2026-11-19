@@ -59,3 +59,4 @@ Null check before hypothesis testing in the 100-student study. The ART ANOVA on 
 - [Girls made significantly fewer hint requests, fewer attempts per problem, and fewer bottom-out hint requests than boys while doing online homework](girls-fewer-hint-requests-attempts-assistments.md) — related
 - [Dialog analysis suggests dyads remediated errors collaboratively and jointly interpreted top-level hints instead of requesting bottom-out hints](dyads-remediate-errors-in-dialog.md) — related
 - [Dyads requested nearly half as many total on-demand hints as individual self-explainers while solving Andes physics problems](joint-explanation-fewer-on-demand-hints.md) — reports the opposite
+- [HNU Adaptive students received significantly more total hints than Control, with no difference in on-demand hints or overall hint justification rate](hnu-adaptive-hint-counts-and-justification.md) — related

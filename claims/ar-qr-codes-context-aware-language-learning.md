@@ -81,3 +81,4 @@ The review reports Leonidis et al.'s (2012) claim that the SESIL ambient-intelli
 - [The article discusses advantages and disadvantages of using QR codes and their application in the learning process, based on summarizing existing research](qr-code-advantages-disadvantages-table.md) — related
 - [The authors conclude that mobile learning is accessible to pupils and students and that QR-code technologies have sufficient potential in physics teaching](qr-codes-sufficient-potential-physics-learning.md) — related
 - [The article argues that a mobile information and educational environment of a HEI yields institutional advantages and gives every student free, time- and place-independent access to discipline materials](mobile-ios-advantages.md) — related
+- [IoT applications in teaching include smart posters, smart boards, interactive learning materials, mobile sensors and classroom environment sensors](iot-teaching-applications.md) — related

@@ -88,3 +88,4 @@ The review reports this controlled finding in the retention section, alongside e
 - [Teachers of color are more likely than White teachers to intend to leave teaching and to actually leave the profession](teachers-of-color-higher-attrition-intent.md) — related
 - [Effective, supportive principals retain teachers, with the largest effects in high-need schools](supportive-principals-retain-teachers.md) — related
 - [Alternative certification programs grew to account for about one-third of all new teachers certified annually in the United States](alternative-certification-one-third-new-teachers.md) — related
+- [Nearly half of new German physics teachers entered via alternative pathways between 2002 and 2008, and roughly 6.5% of teachers teach physics out of field](german-alternative-entry-and-out-of-field-teaching.md) — related

@@ -55,3 +55,4 @@ One-way ANOVA, t-tests, and Scheffé post-hoc tests on the 518-student survey. T
 - [GenAI function, intervention duration, publication year, and gender were not significant moderators of GenAI's motivational effect](genai-motivation-null-moderators-function-duration-year-gender.md) — related
 - [ANOVA by demographic subgroups (sex, residence, year of study, monthly allowance, ethnicity, location) indicated significant group differences at post-test and follow-up](ree-stress-effects-across-demographic-subgroups.md) — related
 - [Problem Project scores show moderate positive correlations with final exam scores across all demographic subgroups](problem-project-correlates-with-final-exam.md) — related
+- [Learned student embeddings are organized and sometimes well-clustered by demographic subgroup](subgroup-clustered-embeddings.md) — related

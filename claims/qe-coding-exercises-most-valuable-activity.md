@@ -49,3 +49,4 @@ Course-feedback reports by the developers of Fundamentals of Quantum Engineering
 - [Students found the visualisation of numerical PDE solutions the most well-received aspect of the course](pde-visualisation-most-valued-by-students.md) — reports the opposite
 - [Students preferred structured consolidation tasks over open-ended exploration of the exercise scripts](students-prefer-structured-tasks-over-open-exploration.md) — related
 - [Software environment set-up remained a significant pain point for students despite careful course design](environment-setup-pain-point-introductory-coding-course.md) — related
+- [Students valued structuring code as the course's most valuable skill and identified the balloon-payload software development as its most useful part](structuring-code-most-valued-balloon-software-most-useful.md) — related

@@ -85,3 +85,4 @@ Another student comment in the same theme, noting the virtual lab hastened learn
 - [A single Sage worksheet resource can combine theoretical information with interactive examples of its practical application](sage-worksheet-theory-plus-interactive-examples.md) — related
 - [Inquiry-based Real-Time Physics labs promoted peer discussion of physics concepts, but students struggled with troubleshooting and independent investigation](rtp-labs-promoted-peer-concept-discussion.md) — related
 - [Students independently characterize sources after guided work on the first source, reaching the day's research objective](guided-to-independent-source-characterization.md) — related
+- [A step-by-step remote-lab manual made students faster but produced more basic mistakes from unreasoned copying of example code](step-by-step-manual-speed-but-more-mistakes.md) — related

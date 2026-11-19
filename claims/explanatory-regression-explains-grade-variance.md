@@ -50,3 +50,4 @@ Explanatory stepwise backward multivariable linear regression (RQ2, Table 5) con
 - [Group cohesion and interactivity parameters (clustering coefficient, density, average degree) correlate positively with performance, while group size correlates negatively](group-cohesion-density-correlate-with-performance.md) — related
 - [The final regression model predicting exam points included non-biology GPA, ethnicity/nationality, and treatment, explaining roughly 44% of adjusted variance](regression-model-exam-points-gpa-ethnicity-treatment.md) — related
 - [Tutor interaction parameters show mixed or statistically insignificant correlations with performance, and small cohesive groups with limited tutor role tended to perform better](tutor-interaction-parameters-mixed-correlation.md) — related
+- [Structural models including the PageRank centrality variable explain significantly more variance than otherwise similar models without it](centrality-improves-model-fit.md) — related

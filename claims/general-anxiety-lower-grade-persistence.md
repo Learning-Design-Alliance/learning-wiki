@@ -67,3 +67,4 @@ Two-tailed t-test comparing general anxiety of 129 biology majors by persistence
 - [A subset (16%) of introductory biology students report moderately high general classroom anxiety, and anxiety levels differ among the three classes](intro-biology-16-percent-high-class-anxiety.md) — related
 - [Leavers reported lower end-of-semester interest, lower prior achievement, and lower biology grades than stayers, with no differences in FG status, gender, or baseline interest](leavers-lower-interest-achievement-grades-than-stayers.md) — related
 - [Course grade in the introductory biology course strongly predicted both enrollment in the second course and biomedical major two years later](gateway-grade-predicts-biomedical-persistence.md) — related
+- [Serendipity — finding the right people or resources at critical moments — is the greatest difference between STEM students who stay and those who leave](happenstance-stayer-leaver-difference.md) — related

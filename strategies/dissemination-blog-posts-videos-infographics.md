@@ -43,6 +43,7 @@ As one of its outputs, the LEAD Partnership plans to "Develop dissemination reso
 - [Disseminate partnership information through blog posts, videos, and infographics to support acceptability and feasibility](stir-dissemination-resources.md)
 - [Develop dissemination resources to support acceptability and feasibility of the toolkit approach](tft-dissemination-resources-strategy.md)
 - [Build organizational partnerships to disseminate educator development strategies](organizational-partnerships-for-educator-development-dissemination.md)
+- [Use alternative dissemination formats (blogs, plain-language summaries, graphical and video abstracts) to connect education research with practitioners](alternative-dber-dissemination-formats.md)
 
 ## Examples
 -

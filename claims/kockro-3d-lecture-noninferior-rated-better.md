@@ -117,3 +117,7 @@ Randomised study of 169 second-year medical students comparing 3D VR and 2D lect
 - [Students using stereoscopic VR did not significantly outperform students using WebGL simulations or static 2D images on 3D magnetostatics items](vr-no-outperform-webgl-images-magnetostatics.md) — related
 - [The benefit of preliminary VR training was limited to questions posed in VR, with no improvement on 2D computer-based posttest questions](vr-training-benefit-limited-to-vr-posed-questions.md) — related
 - [Engineering students using AR showed better academic outcomes and higher motivation than classmates using conventional notes](ar-engineering-graphic-outcomes-motivation.md) — related
+- [HMD participants reported better interaction with the guide than Desktop-mode and YouTube participants, though small subgroup numbers prevent a definitive conclusion](hmd-users-better-guide-interaction.md) — related
+- [No significant difference in knowledge gain between VR and 2D-drawing groups among participants with professional background](no-vr-gain-for-professionals.md) — related
+- [VR-based learning of a construction detail yields significantly better knowledge gain than 2D drawings for participants with little pre-existing knowledge](vr-better-knowledge-gain-low-prior-knowledge.md) — related
+- [Free-text responses highlighted realistic physical sensations from the 3D space and psychological closeness to the lecturer as key differences from face-to-face and conventional online events](vrchat-realism-and-closeness-themes.md) — related

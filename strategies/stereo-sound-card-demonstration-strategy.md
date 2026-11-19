@@ -45,6 +45,7 @@ The article recommends deploying the two-microphone stereo sound card setup eith
 ## Related Strategies
 
 - [Measure soccer ball kick speed by recording the sounds of kick and wall impact with a sound card and computing V = D/T](sound-card-soccer-ball-speed-strategy.md)
+- [Engage students in measuring instantaneous speed with the speedometer, timing the motion by video analysis or by the sound of bells](speedometer-classroom-measurement-activity.md)
 
 ## Examples
 -

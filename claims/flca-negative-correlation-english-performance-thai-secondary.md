@@ -77,3 +77,4 @@ Pearson product-moment correlation within the immersion group (n = 37) comparing
 - [Cooperative learning significantly reduces foreign language writing anxiety compared with solitary writing](cooperative-writing-reduces-efl-writing-anxiety.md) — related
 - [Final-exam achievement was higher than semester achievement for Latvian and foreign language but lower for mathematics](semester-versus-exam-achievement-shift.md) — related
 - [Anxiety weakly positively correlated with semester achievement in all subjects, but at the state exam only for Latvian language](weak-positive-anxiety-semester-correlation.md) — reports the opposite
+- [Pre-existing knowledge correlates weakly and positively with exam performance (r = 0.38)](weak-positive-correlation-pek-exam.md) — related

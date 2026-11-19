@@ -8,20 +8,19 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: weak
-newest_evidence: 2024
-source_checked: 2026-11-05
+newest_evidence: 2022
 sources:
-  - id: yurt-2024
-    resource: "https://eric.ed.gov/?id=ED673212"
-    title: "Yurt, E. (2024). Theoretical Examination of Teachers' Motivations for Using Artificial Intelligence Applications in Education: Expectancy-Value Theory Perspective. In M. S. Ozturk, A. Kaban, & M. Unal (Eds.), Proceedings of ICSES 2024-- International Conference on Studies in Education and Social Sciences (pp. 149-158), Istanbul, Turkiye. ISTES. https://eric.ed.gov/?id=ED673212"
+  - id: yurt-2022
+    resource: "https://doi.org/10.48550/arXiv.2206.03217"
+    title: "Yurt, E. (2022). Theoretical Examination of Teachers' Motivations for Using Artificial Intelligence Applications in Education: Expectancy-Value Theory Perspective. In M. S. Ozturk, A. Kaban, & M. Unal (Eds.), Proceedings of ICSES 2024-- International Conference on Studies in Education and Social Sciences (pp. 149-158), Istanbul, Turkiye. ISTES. [doi:10.48550/arXiv.2206.03217](https://doi.org/10.48550/arXiv.2206.03217)"
     author: Yurt, E.
     q: 1
     i: "?"
     kind: theoretical
     rigour: 2
-  - id: yurt-2024-2
-    resource: "https://eric.ed.gov/?id=ED673212"
-    title: "Yurt, E. (2024). Theoretical Examination of Teachers' Motivations for Using Artificial Intelligence Applications in Education: Expectancy-Value Theory Perspective. In M. S. Ozturk, A. Kaban, & M. Unal (Eds.), Proceedings of ICSES 2024-- International Conference on Studies in Education and Social Sciences (pp. 149-158), Istanbul, Turkiye. ISTES. https://eric.ed.gov/?id=ED673212"
+  - id: yurt-2022-2
+    resource: "https://doi.org/10.48550/arXiv.2206.03217"
+    title: "Yurt, E. (2022). Theoretical Examination of Teachers' Motivations for Using Artificial Intelligence Applications in Education: Expectancy-Value Theory Perspective. In M. S. Ozturk, A. Kaban, & M. Unal (Eds.), Proceedings of ICSES 2024-- International Conference on Studies in Education and Social Sciences (pp. 149-158), Istanbul, Turkiye. ISTES. [doi:10.48550/arXiv.2206.03217](https://doi.org/10.48550/arXiv.2206.03217)"
     author: Yurt, E.
     q: 1
     i: "?"
@@ -33,18 +32,18 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
-> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
-`q1 i?` The paper argues that teachers' beliefs in their ability to successfully integrate AI technologies shape their attitudes and intentions toward those technologies, making expectancy a critical factor in motivation to use AI. [→ Yurt 2024](#yurt-2024)
-`q1 i?` The paper argues that past experiences, technology knowledge and skills, professional development opportunities and a supportive school environment can shape teachers' expectations about using AI. [→ Yurt 2024 (2)](#yurt-2024-2)
+`q1 i?` The paper argues that teachers' beliefs in their ability to successfully integrate AI technologies shape their attitudes and intentions toward those technologies, making expectancy a critical factor in motivation to use AI. [→ Yurt 2022](#yurt-2022)
+`q1 i?` The paper argues that past experiences, technology knowledge and skills, professional development opportunities and a supportive school environment can shape teachers' expectations about using AI. [→ Yurt 2022 (2)](#yurt-2022-2)
 
 ## Evidence
 
-### Yurt 2024
+### Yurt 2022
 
-Yurt, E. (2024). Theoretical Examination of Teachers' Motivations for Using Artificial Intelligence Applications in Education: Expectancy-Value Theory Perspective. In M. S. Ozturk, A. Kaban, & M. Unal (Eds.), Proceedings of ICSES 2024-- International Conference on Studies in Education and Social Sciences (pp. 149-158), Istanbul, Turkiye. ISTES. https://eric.ed.gov/?id=ED673212
+Yurt, E. (2022). Theoretical Examination of Teachers' Motivations for Using Artificial Intelligence Applications in Education: Expectancy-Value Theory Perspective. In M. S. Ozturk, A. Kaban, & M. Unal (Eds.), Proceedings of ICSES 2024-- International Conference on Studies in Education and Social Sciences (pp. 149-158), Istanbul, Turkiye. ISTES. [doi:10.48550/arXiv.2206.03217](https://doi.org/10.48550/arXiv.2206.03217)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -52,9 +51,9 @@ Theoretical argument in the paper's expectancy section, supported by citation of
 
 > "Expectancy is a critical factor directly influencing teachers' motivation to use AI applications. Teachers' beliefs in their ability to successfully integrate AI technologies shape their attitudes and intentions towards these technologies (Ranellucci et al., 2020)."
 
-### Yurt 2024 (2)
+### Yurt 2022 (2)
 
-Yurt, E. (2024). Theoretical Examination of Teachers' Motivations for Using Artificial Intelligence Applications in Education: Expectancy-Value Theory Perspective. In M. S. Ozturk, A. Kaban, & M. Unal (Eds.), Proceedings of ICSES 2024-- International Conference on Studies in Education and Social Sciences (pp. 149-158), Istanbul, Turkiye. ISTES. https://eric.ed.gov/?id=ED673212
+Yurt, E. (2022). Theoretical Examination of Teachers' Motivations for Using Artificial Intelligence Applications in Education: Expectancy-Value Theory Perspective. In M. S. Ozturk, A. Kaban, & M. Unal (Eds.), Proceedings of ICSES 2024-- International Conference on Studies in Education and Social Sciences (pp. 149-158), Istanbul, Turkiye. ISTES. [doi:10.48550/arXiv.2206.03217](https://doi.org/10.48550/arXiv.2206.03217)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -118,3 +117,4 @@ Theoretical argument in the same section, offered as an example with no data: th
 - [Self-handicapping thoughts were the largest inhibitor of science teachers' ICT use, explaining about 38.2% of lack of utilization](self-handicapping-largest-ict-inhibitor.md) — related
 - [Interventions giving teachers opportunities to practice teaching are likely to be effective for developing self‐efficacy beliefs](practice-opportunities-develop-teacher-self-efficacy.md) — related
 - [Student buy-in matters for PER-based pedagogies: explicitly discussing that struggling is integral to learning, and improving students' attitudes and beliefs about physics, supports motivation and learning](student-buy-in-struggle-physics-beliefs.md) — related
+- [Most immersive learning frameworks are theoretical models of causal relationships between factors influencing learning outcomes, while practical frameworks are limited and context-specific](il-frameworks-mostly-theoretical-causal-models.md) — related

@@ -48,3 +48,4 @@ Chi-squared analysis of survey career items (Table III, Fig. 5). In physics depa
 ## Related Claims
 - [PER graduate students expect nontenure track university positions at higher rates than they desire them](nontenure-expectations-exceed-desires.md) — related
 - [Physics-department PER graduate students report much higher uncertainty about where they expect to work than education students](physics-dept-higher-career-uncertainty.md) — related
+- [Skills gained by physicists during formal education are often mismatched with skills required for a successful career in physics](physics-education-career-skills-mismatch.md) — related

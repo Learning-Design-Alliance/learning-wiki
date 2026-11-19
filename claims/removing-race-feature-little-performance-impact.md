@@ -72,3 +72,4 @@ Fairness comparison after removing race showed "no significant differences are o
 - [Evidence is mixed on whether including demographic variables as predictors improves model performance in educational prediction](mixed-evidence-demographic-predictor-performance.md) — a broader claim this one bears on
 - [Stage 1 (after the first unit review assignment) is the optimal point for identifying at-risk students, balancing timeliness, accuracy, and fairness](stage1-optimal-early-at-risk-identification.md) — related
 - [Calibrated Equalized Odds Post-processing showed lower balanced accuracy and higher EOD than the preprocessing techniques DIR and RW in student performance prediction](cpp-postprocessing-accuracy-fairness-tradeoff.md) — related
+- [Including race as a prediction input requires weighing broader normative implications beyond nominal predictive accuracy gains](race-input-feature-normative-implications.md) — related

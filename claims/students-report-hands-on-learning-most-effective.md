@@ -83,3 +83,4 @@ Qualitative synthesis of collaborative small focus groups with approximately 70 
 - [Students most frequently preferred the highest-agency Project Lab unit, with freedom the most common stated reason](project-lab-most-preferred-freedom-reason.md) — a narrower finding that bears on this claim
 - [Over 40% of responses to a personal writing prompt connected course content to students' life files](writing-prompt-life-file-connections-over-40-percent.md) — related
 - [Students hold mixed views on whether the project's high degree of freedom facilitates failures such as lack of responsibility](survey-freedom-risk-mixed-perception.md) — related
+- [The article claims masterclasses help students see data as scientists see data through interaction with physicists during data analysis](masterclass-physicist-interaction-goal.md) — related

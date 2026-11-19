@@ -60,3 +60,4 @@ Cluster analysis of proportion vectors of SEDA-adapted dialogue codes from 173 s
 - [Collaboration aids learning of mathematical elaboration skills but not procedural skills](collaboration-aids-elaboration-not-procedural-skills.md) — related
 - [Epistemic network analysis showed Type 1 concentrating on behaviour-related code connections, Type 2 on both communication- and behaviour-related connections, and Type 3 on communication-related connections](ena-structural-profiles-pattern-types.md) — related
 - [Student-AI interaction in a multi-agent learning environment is organized into two significant engagement patterns: co-construction of knowledge and co-regulation](multi-agent-two-engagement-patterns-co-construction-co-regulation.md) — related
+- [Latent representations cluster into interpretable behavior types at question level, with less distinguishable task-switching clusters at student level](process-bert-representations-cluster-behavior-types.md) — related

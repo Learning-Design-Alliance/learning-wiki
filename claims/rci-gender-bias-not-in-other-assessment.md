@@ -53,3 +53,4 @@ Gender comparison in the ANU Physics 2 class (18 females, 45 males on the post-t
 - [Instruction produced statistically significant normalized gains on the RCI in an introductory relativity class](rci-significant-normalized-gain.md) — related
 - [A significant post-test gender difference favoring males also appears in the honors calculus-based introductory physics course](mcs-posttest-gender-difference-honors.md) — related
 - [In physics courses, gendered performance differences arise from timed exam scores, while female students modestly outperform males on homework and in-class response credit](exam-performance-source-of-gpd.md) — related
+- [Across 309 students, median normalized gain was 0.42 overall, with a female–male difference (0.38 vs 0.45) that was not statistically significant](normalized-gain-letter-grade-sex-fig2.md) — related

@@ -50,3 +50,4 @@ Quasi-experimental comparison group study of 40 volunteer second-year pre-servic
 - [Embedded design quiz performance exceeded the 80% mastery threshold on all three quizzes while applied experience quiz scores ranged from 34-80%](embedded-design-mastery-quiz-threshold.md) — related
 - [The EmMa continuous professional development course significantly improved early childhood teachers' mathematical pedagogical content knowledge](emma-improves-mpck-early-childhood-teachers.md) — a narrower finding that bears on this claim
 - [Student teachers showed weak mathematics PCK at entry but substantial development across all MPCK areas after a pedagogy course](pedagogy-course-improved-mpck-student-teachers.md) — related
+- [Pairing peer teaching practice with known PCKs for inclusive design, 16/17 (94%) of faculty reached the pedagogic-content-knowledge learning outcome](pck-element-preparation-outcome.md) — related

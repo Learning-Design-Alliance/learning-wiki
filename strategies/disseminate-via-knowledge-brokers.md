@@ -46,6 +46,7 @@ Because classroom teachers rarely seek out research, the report recommends reach
 - [Use professional societies, advocacy programs, and social media to disseminate cardio-obstetrics knowledge and training](society-advocacy-social-media-cardio-obstetrics-strategy.md)
 - [Build a misconceptions inventory from expert-rated written questions and disseminate it among tutors](misconceptions-inventory-for-tutors.md)
 - [Disseminate MGI education and research capabilities through scientific societies and electronic media to enable inclusive participation](society-electronic-media-dissemination-strategy.md)
+- [Use alternative dissemination formats (blogs, plain-language summaries, graphical and video abstracts) to connect education research with practitioners](alternative-dber-dissemination-formats.md)
 
 ## Examples
 -

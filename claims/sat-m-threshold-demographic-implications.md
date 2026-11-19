@@ -53,3 +53,4 @@ Secondary analysis citing College Board percentile-equivalent data by gender and
 - [Binomial upper-bound analysis: probability of graduate-school-level success is negligible at 95% confidence for SAT-M below 600](binomial-upper-bound-success-negligible-below-600.md) — related
 - [Mean racial group differences on cognitive tests, roughly 1.0 SD for African-Americans and 0.70 SD for Hispanics, explain minority underrepresentation in medical education](cognitive-test-group-differences-explain-underrepresentation.md) — related
 - [A 50 percent or greater chance of graduate-school-level success in Physics or Mathematics requires SAT-M well above 700](sat-m-above-700-fifty-percent-success-chance.md) — related
+- [The ratio of physics graduates among STEM graduates stayed below 2.5 percent over ten years of APS data](physics-stem-graduate-ratio-below-2p5.md) — related

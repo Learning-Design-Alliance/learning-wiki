@@ -51,6 +51,7 @@ In the proposal seminar stage, the student "must present the necessary materials
 ## Related Strategies
 
 - [Structure a short team experimental project within a lab course, with vetted proposals replicating published experiments](six-week-vetted-team-lab-project-strategy.md)
+- [Combine dialogued expository classes, laboratory practicals, guided discussion groups, seminars and debates in the Statistics discipline](statistics-discipline-methodology-mix.md)
 
 ## Examples
 -

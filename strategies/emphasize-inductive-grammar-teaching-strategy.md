@@ -46,7 +46,8 @@ The article recommends that EFL teachers vary their teaching techniques accordin
 - [All student groups preferred explicit over implicit grammar instruction](../claims/efl-students-prefer-explicit-over-implicit-grammar-instruction.md) [-W]
 
 ## Related Strategies
-- 
+
+- [Combine CST with case study, deductive-inductive lecturing, and frame teaching to raise engagement](cst-synergistic-teaching-methods-strategy.md)
 
 ## Examples
 -

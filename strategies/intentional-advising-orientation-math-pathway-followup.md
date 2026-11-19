@@ -49,6 +49,7 @@ Instead of randomly assigning students to a faculty advisor, faculty with specif
 
 - [Combine personalized planning materials, student text messaging, and advisor training webinars to enhance college advising](combine-planning-materials-texts-advisor-webinars-college-advising.md)
 - [Treat Precision Education as organizational transformation: add advising capacity, response protocols, and financial supports around the model](organizational-readiness-preventive-student-success.md)
+- [Provide individualized academic advising and train faculty to accommodate students' emotional and mental health needs](individualized-advising-and-mental-health-preparedness.md)
 
 ## Examples
 -

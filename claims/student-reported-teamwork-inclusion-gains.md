@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-11-19
 sources:
   - id: m-a-m-souza-2021
     resource: "https://doi.org/10.48550/arXiv.2109.10748"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Student reports indicated the game's dynamics favored teamwork, inclusion and interpretation-focused discussion, and helped consolidate classroom learning. [→ M. A. M. Souza 2021](#m-a-m-souza-2021)

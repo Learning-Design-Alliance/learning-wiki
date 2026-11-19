@@ -63,6 +63,7 @@ Complex, ill-structured domains (medicine, history, literary interpretation, man
 - [Flipped Classroom](../principles/flipped-learning.md) — one way to free class time for cross-case comparison work
 - [Design implications for web-enhanced case-based activity environments](web-enhanced-cba-design-implications.md)
 - [Design concept test sequences that vary representation and difficulty level](concept-test-sequence-design-strategy.md)
+- [Split advanced topics into a sequence of self-contained, single-concept notebooks](sequence-self-contained-single-concept-notebooks.md)
 
 ## Examples
 - **Spiro's "Kane, Krampe, and Britannica" hypertexts** — the original Cognitive Flexibility Theory environments, in which learners studied complex biographical/historical material via a concept-indexed case library and showed superior transfer on ill-structured assessment tasks.

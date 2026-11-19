@@ -64,6 +64,7 @@ Strengths-based goal framing aligns with self-determination research: when learn
 - Self-Determined Learning Model of Instruction (SDLMI) — a structured teaching model in which students set, act on, and evaluate their own learning goals; the instructional engine behind strengths-based goal-setting
 - Asset-Based Framing — the broader classroom-level mindset of which strengths-based IEPs are the special-education case
 - [Interview the student one-on-one about strengths, interests, and growth areas before writing the IEP](student-interview-strengths-interests-growth-areas.md)
+- [Provide individualized academic advising and train faculty to accommodate students' emotional and mental health needs](individualized-advising-and-mental-health-preparedness.md)
 
 ## Related Elements
 - [Accommodations](../elements/accommodations.md) — strengths and preferences should drive which accommodations are selected, not just the deficit profile

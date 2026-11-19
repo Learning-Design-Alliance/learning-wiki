@@ -47,3 +47,4 @@ Time-on-activity estimates from the comparative study (Table 1): Platform A part
 
 ## Related Claims
 - [AI-tutored students spend less time on task than the 60-minute in-class lesson, with no correlation between time and scores](ai-tutor-less-time-on-task.md) — related
+- [Students under the LinUCB policy spent more study time on the platform in the free cohort (174 vs 109 minutes), but slightly less in the customer cohort (258 vs 265 minutes)](linucb-study-time-free-cohort-only.md) — related

@@ -47,6 +47,7 @@ The final course step was getting the document into publishable form, which the 
 
 - [Digital Publishing](digital_publishing.md)
 - [Collaborative Writing](collaborative-writing.md)
+- [Choose a journal by scope, readership and impact, and follow its author instructions through peer review](journal-choice-and-publishing-process.md)
 
 ## Examples
 -

@@ -43,6 +43,7 @@ The article's findings point to program features that helped working ECE provide
 
 - [Provide mentorship and outreach support after program entry to sustain persistence in alternative STEM programs](post-entry-mentorship-support-alternative-stem-programs.md)
 - [Fund stipends and laptops to remove financial barriers to participation](srmp-stipends-laptops-strategy.md)
+- [Provide sufficient financial support — stipend, tuition, scholarships and health benefits — to remove financial barriers to PhD entry and retention](financial-support-bridge-retention-strategy.md)
 
 ## Examples
 -

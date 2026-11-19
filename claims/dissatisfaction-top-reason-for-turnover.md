@@ -57,3 +57,4 @@ Analysis of TFS 2012–13 leaver and mover reason reports (Figures 4–5, Table 
 - [Teachers of color report more workplace stress and dissatisfaction than White teachers](teachers-of-color-workplace-stress-dissatisfaction.md) — related
 - [Teachers of color are more likely than White teachers to intend to leave teaching and to actually leave the profession](teachers-of-color-higher-attrition-intent.md) — related
 - [Piecemeal educator policymaking overburdens educators and can drive talented educators out of the profession](piecemeal-educator-policymaking-drains-talent.md) — a broader claim this one bears on
+- [Serendipity — finding the right people or resources at critical moments — is the greatest difference between STEM students who stay and those who leave](happenstance-stayer-leaver-difference.md) — related

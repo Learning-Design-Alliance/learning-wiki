@@ -54,3 +54,4 @@ Latent profile analysis of 1,046 Greek secondary students (Mage = 13.97) on six 
 - [Three distinct racial-mathematical identity profiles emerge among Black adolescents and are robust across two time points one year apart](three-racial-mathematical-identity-profiles-lpa.md) — related
 - [Higher SES and speaking Greek at home predict lower odds of membership in the minimal profile only](ses-home-language-protect-minimal-profile.md) — a narrower finding that bears on this claim
 - [Hong Kong fourth graders' OMR self-efficacy and emotions form three distinct motivational-emotional profiles: positive, moderate, and ambivalent](three-omr-motivational-emotional-profiles-grade4.md) — related
+- [Four latent profiles of students emerged from non-cognitive measures: high grit, moderate, high intrinsic motivation, and low grit](four-latent-profiles-noncognitive-high-school.md) — related

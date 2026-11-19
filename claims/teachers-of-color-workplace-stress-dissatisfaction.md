@@ -56,3 +56,4 @@ Descriptive analysis of teacher satisfaction indicators by race/ethnicity from t
 - [Teachers of color leave schools or the profession at higher annual rates than White teachers, driven largely by school moving](teachers-of-color-higher-turnover-mover-rates.md) — related
 - [Black teachers were more likely than other teachers to have borrowed for their education and to report high stress from student loan debt](black-teachers-student-loan-burden.md) — related
 - [Teachers' job satisfaction is negatively associated with turnover intentions (pooled r = −0.46)](job-satisfaction-negative-turnover-intentions.md) — related
+- [The pet-to-threat dilemma: minoritized women welcomed for wrong reasons face tokenism and mistreatment, then hostility when they outgrow the pet role](pet-to-threat-dilemma.md) — related

@@ -53,3 +53,4 @@ The review describes an "invisible tax" of extra, unrecognized, and uncompensate
 - [Minority teachers are disproportionately employed in high-poverty, high-minority, urban public schools](minority-teachers-disproportionately-in-hard-to-staff-schools.md) — related
 - [Underprepared teachers are two to three times more likely to leave than prepared teachers, driving a revolving door in high-poverty schools](underprepared-teachers-leave-two-to-three-times-more.md) — related
 - [Hiding one's LGBT+ identity imposes extra emotional effort that saps energy and impacts productivity, according to the Guide's account of isolation and invisibility](identity-concealment-emotional-toll-productivity.md) — related
+- [The pet-to-threat dilemma: minoritized women welcomed for wrong reasons face tokenism and mistreatment, then hostility when they outgrow the pet role](pet-to-threat-dilemma.md) — related

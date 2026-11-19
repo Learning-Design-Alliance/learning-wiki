@@ -53,6 +53,7 @@ Based on observations during the school, the authors recommend extending experim
 - [Differentiate transition curricula by prior experience level, offering abbreviated foundational modules and extended advanced sessions for experienced practitioners](experience-differentiated-transition-pathways.md)
 - [Encourage other university-supervised groups to establish similar robotics activities and extend programming logic to all projects in future iterations](strategy-scale-robotics-programming-future.md)
 - [Recommend dedicated weekly programming lab time and explicit prerequisites in future quantum programming courses](recommend-lab-time-and-prerequisites-quantum-course.md)
+- [Establish an International Particle Physics Summer School for Teachers with international partners](international-physics-summer-school-teachers.md)
 
 ## Examples
 -

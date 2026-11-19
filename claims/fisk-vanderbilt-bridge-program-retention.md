@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: weak
 newest_evidence: 2018
+source_checked: 2026-11-19
 sources:
   - id: ruxandra-bondarescu-2018
     resource: "https://doi.org/10.31235/osf.io/uz2h6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The Fisk-Vanderbilt program offers a master's degree as a bridge to the PhD, employs a 30-minute interview instead of a GRE cutoff, and has a high retention rate of women and minorities of over 80% toward the PhD. [→ Ruxandra Bondarescu 2018](#ruxandra-bondarescu-2018)
@@ -52,3 +53,7 @@ The article reports, citing Miller & Stassun (2014), that the Fisk-Vanderbilt br
 - [GRE V and GRE Q scores do not predict STEM PhD completion for women](gre-scores-no-prediction-women-stem-phd.md) — related
 - [Women enrolled in STEM PhD programs had GRE Q scores averaging about 40 points lower than men at each institution while completing at similar rates](gre-q-gender-gap-similar-completion.md) — related
 - [GRE score gaps by race, gender, and citizenship, combined with cutoff use, select against underrepresented groups in physics admissions](gre-cutoffs-select-against-underrepresented-groups.md) — related
+- [Of 127 scholars who applied to PhD programs since the program's 2014 inception, 72% were accepted to a PhD program and another 18% enrolled in MS programs planning to continue to a PhD](cal-bridge-phd-application-success-rate.md) — related
+- [Cal-Bridge scholars show high PhD matriculation in the programme's first four years](cal-bridge-scholars-phd-matriculation.md) — related
+- [Fisk–Vanderbilt bridge students show high PhD retention and completion rates](fisk-vanderbilt-bridge-retention-completion.md) — related
+- [The article reports that the Fisk–Vanderbilt bridge program grants 10 times the national average of URM PhDs in astronomy and 5 times the national average in physics](fisk-vanderbilt-urm-phd-yield-claim.md) — related

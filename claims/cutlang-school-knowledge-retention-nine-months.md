@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-11-19
 sources:
   - id: a-adıgüzel-2021
     resource: "https://doi.org/10.1088/1361-6404/abdf67"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the 9-month web questionnaire, three quarters of responding students indicated comfort with particle jets, about half with pseudorapidity and branching fraction, and 87% agreed they could prepare a simple CutLang ADL file alone or with peers using school materials. [→ A. Adıgüzel 2021](#a-adguzel-2021)
@@ -48,3 +49,4 @@ Retention test via the 9-month web questionnaire reported in the Conclusions. Th
 - [Three of 23 web-questionnaire responders had joined a research group using skills acquired at the school](cutlang-school-participants-joined-research-groups.md) — related
 - [Student teams in the 2020 school reproduced assigned ATLAS and CMS analyses with CutLang, with 5 of 8 teams producing final discriminant histograms and 2 performing fits](cutlang-school-teams-reproduce-lhc-analyses.md) — related
 - [Elementary school students can perform video analysis of Brownian motion with little stress when a pre-compiled analysis file is prepared for them](elementary-students-video-analysis-brownian-motion-feasible.md) — related
+- [Students with no coding or analysis experience performed LHC analyses after ADL/CutLang training at two dedicated schools](adl-cutlang-student-analysis-training-outcomes.md) — related

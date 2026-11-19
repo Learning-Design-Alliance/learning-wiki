@@ -53,6 +53,7 @@ Confront small groups with a description of natural phenomena and ask them to pr
 ## Related Strategies
 
 - [Use small-group discussion of a phenomenon-describing problem before text study to bridge prior knowledge and new information](small-group-problem-discussion-before-text.md)
+- [Use didactic challenge questions that demand explanation rather than regurgitation of theory or equations](didactic-challenge-explanation-questions.md)
 
 ## Examples
 -

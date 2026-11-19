@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 203 claims (160 show a difference, 30 mixed, 13 no difference) · 177 studies (66 causal, 30 review, 28 qualitative, 19 design, 16 associational, 12 quant-synthesis, 6 theoretical), `q1`–`q3` · 16 of 177 report an effect size · 203 claims rest on one study
+> **Evidence** · 205 claims (162 show a difference, 30 mixed, 13 no difference) · 178 studies (66 causal, 30 review, 28 qualitative, 19 design, 17 associational, 12 quant-synthesis, 6 theoretical), `q1`–`q3` · 16 of 178 report an effect size · 205 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -245,6 +245,8 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Interviewed students frequently reported that outreach developed communication skills, with leadership and teamwork mentioned by nearly 50% and 35% of interviews respectively](../claims/outreach-interview-communication-teamwork-skills.md) [+M] — measured as an outcome of the instruction studied
 - [Chi-square analysis rejected the null hypothesis for teamwork-skill improvement across all, male and female student responses](../claims/chi-square-teamwork-skills-rejected-null.md) [+M] — measured as an outcome of the instruction studied
 - [Students reported that the game favored teamwork, inclusion, interpretation discussions, and consolidation of classroom learning](../claims/student-reported-teamwork-inclusion-gains.md) [+M] — measured as an outcome of the instruction studied
+- [Students on programming courses discuss programming tasks more with peers than with the teacher, in both MOOCs and a blended collaborative course](../claims/programming-discussed-more-with-peers-than-teacher.md) [+M] — measured as an outcome of the instruction studied
+- [Messages in a blended collaborative course with team assignment were more positive than MOOC forum messages, a positive-to-negative ratio of 4 against 0.4](../claims/teamwork-shifts-sentiment-positive.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

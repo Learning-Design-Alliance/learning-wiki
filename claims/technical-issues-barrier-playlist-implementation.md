@@ -126,3 +126,4 @@ Observational and interview study of four after-school sites; educators reported
 - [Requiring computer-based data analysis after smartphone experiments poses extraneous cognitive load that may hinder physics learning](smartphone-experiment-data-analysis-extraneous-load.md) — related
 - [Students with disabilities report that STEM course practices create barriers to effectively engaging with class content](stem-course-barriers-engaging-content-disabilities.md) — related
 - [Students reported negative DGE experiences: technical issues, difficulty typing mathematical equations, and gaps in prerequisite knowledge](negative-dge-experiences-technical-prerequisite.md) — related
+- [No reviewed framework directly addresses the six main barriers to adoption of immersive technologies in education identified by the State of XR Report](frameworks-do-not-address-adoption-barriers.md) — related

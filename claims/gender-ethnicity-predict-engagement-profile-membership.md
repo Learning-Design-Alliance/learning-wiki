@@ -88,3 +88,4 @@ In the same regression, "There were no age nor perceived economic differences be
 - [Lower academic self-efficacy is associated with membership of three less engaged momentary-engagement profiles and lower peer support with two, while educational goals and family support do not differ across the four profiles tested](self-efficacy-peer-support-predict-profile-membership.md) — related
 - [Seven profiles of momentary (dis)engagement emerge among adolescents completing the same ten-minute literacy task](seven-momentary-engagement-profiles-single-task.md) — a broader claim this one bears on
 - [Cluster membership is significantly associated with grade level but not gender](cluster-membership-grade-association.md) — related
+- [Students' gender, race, maternal education level, and social-economic ranking predicted latent profile membership](demographics-predict-noncognitive-profiles.md) — related

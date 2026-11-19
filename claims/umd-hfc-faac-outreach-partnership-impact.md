@@ -51,3 +51,4 @@ Descriptive report from the Background section of the whitepaper on the Detroit-
 - [In its first six months of operation the UW mobile planetarium gave shows to over 1500 people, and 150 high school students created and presented their own astronomy projects in the dome at their school](uw-mobile-planetarium-six-month-reach.md) — related
 - [After the courses, host sites sustained the project by running their own outreach, forming a data-sharing collaboration, and replicating the detector design](post-course-sites-sustain-escaramujo-network.md) — related
 - [A mobile inflatable planetarium outreach program attracted nearly 1,800 participants across 21 schools in three weeks in two Brazilian cities](mobile-planetarium-outreach-reaches-1796-participants.md) — related
+- [Festival outreach reaches tens of thousands of people who would not normally seek out science](festival-outreach-reaches-non-science-seeking-audiences.md) — related

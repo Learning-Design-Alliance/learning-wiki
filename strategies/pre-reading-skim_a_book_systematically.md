@@ -64,6 +64,7 @@ Pre-reading works because it activates prior knowledge and establishes an advanc
 - [Annotating](../principles/annotating.md) — recording skim findings on the contents page converts a transient survey into a persistent organizer
 - [Offer a structured advance organizer before the full article for readers who benefit from one](structured-advance-organizer-appendix-strategy.md)
 - [Systematic drill in skimming for children who have mastered the mechanics of reading](skimming-drill-after-mechanics-mastered.md)
+- [Use a set of critical-reading questions to skim and evaluate literature efficiently](critical-reading-questions-astronomy.md)
 
 ## Related Elements
 - [Advance Organizers](../elements/advance-organizers.md) — the skim produces exactly the kind of introductory structure this element describes

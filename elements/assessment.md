@@ -18,7 +18,7 @@ sources:
 # Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 45 claims (20 for, 22 mixed, 3 against) · 41 studies (12 causal, 8 review, 8 design, 6 quant-synthesis, 3 associational, 3 qualitative, 1 theoretical), `q1`–`q4` · 6 of 41 report an effect size · 43 claims rest on one study
+> **Evidence** · 46 claims (20 for, 23 mixed, 3 against) · 42 studies (12 causal, 8 review, 8 design, 6 quant-synthesis, 4 associational, 3 qualitative, 1 theoretical), `q1`–`q4` · 6 of 42 report an effect size · 44 claims rest on one study
 
 ## Description
 Assessment is the structured collection of evidence about learner understanding, performance, or progress for the purposes of feedback, decision making, grading, or revision.
@@ -96,6 +96,7 @@ Assessment is the structured collection of evidence about learner understanding,
 - [A purpose-built first-class diagnostic test showed the Calculus III science students were weakly prepared, with scores far below the course's readiness thresholds](../claims/diagnostic-test-reveals-weak-calculus-iii-preparation.md) [+W] — attached 2026-11-17 from Radoslav M. Dimitrić (2013), which proposed "Course-specific diagnostic test administered at the first class meeting".
 - [A student's strategy, evaluated via CWW, is taken together with the numeric score as a measure of learning outcome used to identify students needing help](../claims/strategy-evaluation-as-learning-outcome-measure.md) [+W] — attached 2026-11-18 from Gupta et al. (2019), which proposed "Four-parameter linguistic model of student strategy (time taken, subject's knowledge, liking towards subject, perceived preparation level)".
 - [Students' novelty judgments of assessment questions differ sharply by module, with classical dynamics questions judged novel by most students](../claims/question-novelty-judgments-vary-by-module.md) [~W] — attached 2026-11-19 from Qingyong Meng (2021), which proposed "15-question assessment protocol with dependent measures and a 3-point rubric".
+- [Incoming Stanford students intending calculus-based physics showed no statistically significant change in diagnostic scores between 2019 and 2021](../claims/calculus-based-physics-diagnostic-no-change-2019-2021.md) [~W] — attached 2026-11-19 from Eric W. Burkholder (2022), which proposed "Stanford validated physics diagnostic exam for introductory course placement".
 
 ## The evidence by question
 - *Does using assessment evidence during instruction raise achievement compared with the usual teaching?* [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+S]

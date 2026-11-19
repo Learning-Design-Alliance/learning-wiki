@@ -14,7 +14,7 @@ generated:
 # Rubrics
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 53 claims (25 for, 23 mixed, 5 against) · 46 studies (19 causal, 10 design, 7 review, 5 associational, 3 quant-synthesis, 2 qualitative), `q1`–`q3` · 7 of 46 report an effect size · 50 claims rest on one study
+> **Evidence** · 54 claims (26 for, 23 mixed, 5 against) · 47 studies (19 causal, 11 design, 7 review, 5 associational, 3 quant-synthesis, 2 qualitative), `q1`–`q3` · 7 of 47 report an effect size · 51 claims rest on one study
 
 ## Description
 Rubrics are the element in which criteria and performance levels are made explicit to guide quality work and evaluation.
@@ -83,6 +83,7 @@ Rubrics are the element in which criteria and performance levels are made explic
 - [Physics TAs using a CA-inspired rubric scored an elaborated solution similarly to their pre-rubric score and did not match expert rubric scores, particularly for a brief solution](../claims/tas-rubric-scores-differ-from-expert-scores.md) [-W] — attached 2026-11-17 from Edit Yerushalmi et al. (2016), which proposed "CA-inspired grading rubric with five problem-solving categories".
 - [TAs saw the CA-inspired rubric as promoting good problem-solving practices and fair grading, but over half found it too constraining](../claims/tas-stated-pros-cons-of-ca-rubric.md) [~W] — attached 2026-11-17 from Edit Yerushalmi et al. (2016), which proposed "CA-inspired grading rubric with five problem-solving categories".
 - [TAs applied the grading rubric consistently across isomorphic problems with different surface features](../claims/tas-applied-rubric-consistently-across-isomorphic-problems.md) [+W] — attached 2026-11-19 from Marshman et al. (2018), which proposed "Process-weighting grading rubric with five categories (problem description, explication and justification, conceptual understanding, mathematical procedures, problem evaluation)".
+- [Qualitative observation of the current cohort suggests students took on the rubric's emphasis on professionalism in their code development](../claims/qualitative-observation-professionalism-emphasis-uptake.md) [+W] — attached 2026-11-19 from Jeffrey et al. (2022), which proposed "Three-criteria assessment rubric for code submissions (functionality, structure, style)".
 
 ## The evidence by question
 - *Does giving learners the criteria, and having them apply them to their own or peers' work, improve the work?* [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](../claims/rubrics-improve-student-work.md) [+M]

@@ -41,6 +41,8 @@ The article enumerates a repertoire of sensor-based activities spanning astronom
 
 - [Use low-cost tablets with camera, sensors and connectivity for collaborative, contextualised maths activities indoors and outdoors](mobile-collaborative-contextualised-maths-activities.md)
 - [Laboratory activities based on mobile-device sensor fluctuations to teach error analysis and uncertainties](mobile-sensor-fluctuation-lab-activities-error-analysis.md)
+- [Use mobile-device sensor experiments to promote active learning and a fundamental role for the student](mobile-sensors-active-learning-strategy.md)
+- [Use the smartphone microphone as an accurate stopwatch for time-interval measurements in mechanics and waves experiments](smartphone-microphone-stopwatch.md)
 
 ## Examples
 -

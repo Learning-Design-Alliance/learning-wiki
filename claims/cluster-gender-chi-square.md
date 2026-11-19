@@ -55,3 +55,4 @@ Chi-square analysis of cluster membership against the two demographic variables 
 - [Demographic characteristics of young new farmers show significant distribution differences across gender, age, and education level.](young-new-farmers-demographic-distribution.md) — related
 - [No significant relationship between student gender and teachers' WCF strategy use](no-gender-bias-in-wcf-strategies.md) — related
 - [Inferential analysis found no significant differences in knowledge across the demographic variables examined](no-significant-differences-demographic-variables.md) — related
+- [Student ethnicity, enrollment type, and undergraduate year relate to chronotype cluster membership](lms-chronotype-demographics-associations.md) — related

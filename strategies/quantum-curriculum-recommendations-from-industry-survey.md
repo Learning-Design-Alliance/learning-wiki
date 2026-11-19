@@ -52,6 +52,7 @@ The authors derive three recommendations from their survey data for universities
 - [Offer a sophomore-year mathematical physics course preparing students for the mathematics of quantum physics](sophomore-math-physics-prerequisite-for-qp.md)
 - [Offer a concepts-focused, prerequisite-free Quantum 101 course as an entry point and recruiting tool](quantum-101-concepts-first-entry-course.md)
 - [Leverage QISE program development to promote diversity, equity, and inclusion in engineering](qise-dei-program-recommendations.md)
+- [Normalize graduate training for a broad range of STEM careers with formal courses](graduate-broad-career-training-courses.md)
 
 ## Examples
 -

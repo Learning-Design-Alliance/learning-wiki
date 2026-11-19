@@ -50,3 +50,4 @@ Observational participation record of the 2015 outreach program. The article rep
 - [The UM-D, HFC and FAAC partnership delivers large-scale annual K-12 and public astronomy outreach, with of order a thousand schoolchildren per year at the planetarium](umd-hfc-faac-outreach-partnership-impact.md) — related
 - [Before-and-after Astronomy Questionnaire responses showed almost all students left with heightened scientific curiosity and desire to learn more](pre-post-questionnaire-curiosity-gains.md) — related
 - [Pairing accurate scientific explanations with astonishing astronomical images is validated as an effective outreach and educational tool](astrophotography-explanations-with-images-effective.md) — related
+- [Festival outreach reaches tens of thousands of people who would not normally seek out science](festival-outreach-reaches-non-science-seeking-audiences.md) — related

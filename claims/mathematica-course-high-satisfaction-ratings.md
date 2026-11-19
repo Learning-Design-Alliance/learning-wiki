@@ -49,3 +49,4 @@ Single-course trial offering (Spring 2007, 23 students: 12 juniors and 11 senior
 - [Learners rated the combined simulation experience positively and supported future sessions despite non-significant knowledge gains](combined-simulation-positive-learner-perceptions.md) — related
 - [Students reported uniformly positive reactions to using IF-AT scratch-off cards in group review](ifat-student-comments-positive.md) — related
 - [Students in the blended model reported uniformly high satisfaction across course content, teaching effectiveness, and course application dimensions](high-satisfaction-blended-surgical-model.md) — related
+- [Students reacted positively to ALPaCA objective-based grading in end-of-semester free-response surveys](alpaca-positive-student-survey-comments.md) — related

@@ -50,3 +50,4 @@ In the same between-subjects experiment, the ANOVA on confirmation-bias in-conte
 - [An interactive game training context provided no immersion or bias-mitigation advantage over a text script with identical content](game-context-no-advantage-over-text.md) — related
 - [Training in critical-reflective thinking produced no change on the Cognitive Reflection Test](no-crt-effect-of-training.md) — related
 - [A significant group x measurement point interaction confirms the training effect in the main evaluation (F(1,6) = 21.55, p < .01)](mzz-group-by-time-interaction-significant.md) — reports the opposite
+- [Faculty perceptions of reduced student preparation after COVID may reflect confirmation bias rather than measured learning loss](faculty-perceptions-covid-confirmation-bias.md) — related

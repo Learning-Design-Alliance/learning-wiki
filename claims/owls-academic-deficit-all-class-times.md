@@ -52,3 +52,4 @@ N-way ANOVA and Kruskal-Wallis post-hoc comparisons of class grades by chronotyp
 - [Adolescents with an evening chronotype report significantly lower GPA than those with a morning chronotype](evening-chronotype-lower-gpa-than-morning.md) — related
 - [Owls disproportionately enroll in morning classes, taking the highest percentage of morning classes among the three chronotype categories](owls-overrepresented-morning-classes.md) — related
 - [Greater social jet lag between class and non-class days correlates with decreased academic performance for both phase advances and delays](sjl-phase-shift-correlates-lower-gpa.md) — related
+- [Hourly LMS login patterns cluster into three chronotype groups among computing undergraduates](lms-hourly-login-three-chronotype-clusters.md) — related

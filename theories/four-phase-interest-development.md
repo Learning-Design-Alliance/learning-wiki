@@ -93,6 +93,7 @@ The model is widely cited but only partially validated: it has received limited 
 - [Support reading motivation through interesting goals, autonomy, interesting texts, and social interaction](../strategies/four-features-reading-motivation.md)
 - [Present problems before explanatory texts to arouse curiosity and situational interest in learners lacking prior knowledge](../strategies/problem-first-then-explanation.md)
 - [Use instructional technology to manage situational interest by matching learning styles, leveraging difficulty, segmenting goals, and arousing curiosity](../strategies/technology-manage-situational-interest-four-factors.md)
+- [Invite a domain expert and use real-life context to trigger and maintain situational interest](../strategies/expert-presentation-real-life-situational-interest.md)
 
 ## Key Sources
 - Hidi, S. (2001). Interest, reading, and learning: Theoretical and practical considerations. *Educational Psychology Review, 13*(3), 191-209.

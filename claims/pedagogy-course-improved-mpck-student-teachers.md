@@ -48,3 +48,4 @@ Pre- and post-testing study (Lim-Teo et al., 2007) in which an MPCK instrument w
 - [Pre-service teachers in an embedded-design inclusive education course recorded significantly higher pedagogical content knowledge posttest scores than peers in an applied-experience condition](embedded-design-higher-pck-posttest.md) — related
 - [The EmMa continuous professional development course significantly improved early childhood teachers' mathematical pedagogical content knowledge](emma-improves-mpck-early-childhood-teachers.md) — related
 - [Teacher efficacy underpins the ability to differentiate instruction effectively, with efficacy dependent on pedagogical content knowledge](teacher-efficacy-pck-underpin-differentiation.md) — related
+- [Pairing peer teaching practice with known PCKs for inclusive design, 16/17 (94%) of faculty reached the pedagogic-content-knowledge learning outcome](pck-element-preparation-outcome.md) — related

@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 283 claims (136 for, 128 mixed, 19 against) · 211 studies (92 causal, 36 review, 28 quant-synthesis, 20 associational, 15 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 51 of 211 report an effect size · 259 claims rest on one study
+> **Evidence** · 285 claims (138 for, 128 mixed, 19 against) · 212 studies (93 causal, 36 review, 28 quant-synthesis, 20 associational, 15 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 51 of 212 report an effect size · 261 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -331,6 +331,8 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Student self-ratings of communication competence significantly improved in nine of ten VAS items after the 360° feedback CST, with a global pre-post effect size of ES = 0.74](../claims/self-rated-competence-gains-360-feedback-cst.md) [+W] — attached 2026-11-09 from Engerer Cosima et al. (2016), which proposed "360° behavior-orientated feedback communication skills training concept with feed-forward documentation".
 - [Comparative feedback — perceiving online feedback as better than traditional feedback — strongly predicts perceived usefulness and enjoyment](../claims/comparative-feedback-predicts-usefulness-enjoyment.md) [+W] — attached 2026-11-17 from Acosta-Gonzaga et al. (2014), which proposed "Stack-within-Moodle mathematical e-assessment with malrule-based detailed feedback".
 - [Received feedback quality influences enjoyment but not perceived usefulness, and contributes little to attitude and usage intention](../claims/received-feedback-enjoyment-not-usefulness.md) [~W] — attached 2026-11-17 from Acosta-Gonzaga et al. (2014), which proposed "Stack-within-Moodle mathematical e-assessment with malrule-based detailed feedback".
+- [Personalized question-based feedback yields higher student learning gains than minimal and human-personalized feedback baselines in a real dialogue-based ITS](../claims/question-based-personalized-feedback-higher-learning-gains.md) [+W] — attached 2026-11-19 from Devang Kulshreshtha et al. (2022), which proposed "Cause-effect personalized feedback generation system in Korbit ITS"; tests this page's relationship.
+- [Asking questions about missing or incorrect answer components improves learning gains beyond merely revealing correct and incorrect parts](../claims/asking-questions-key-to-improving-answers.md) [+W] — attached 2026-11-19 from Devang Kulshreshtha et al. (2022), which proposed "Cause-effect personalized feedback generation system in Korbit ITS"; tests this page's relationship.
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

@@ -49,3 +49,4 @@ The review reports, citing a conference paper by Miller, Streveler, Nelson, Geis
 - [Students maintain multiple contradictory ideas about thermal equilibrium for extended periods, sustained by experientially supported ideas](contradictory-thermal-ideas-persist-over-time.md) — related
 - [The two-state paramagnet model forces students to abandon the notion that temperature is merely a measure of average energy](paramagnet-negative-temperature-pedagogy.md) — related
 - [Students in computer-based inquiry environments still held misconceptions about force and energy after instruction](persistent-misconceptions-computer-based-ibl.md) — related
+- [A design-and-test insulation-box project enabled grade-seven students to apply thermodynamics concepts and scientific and engineering practices](insulation-box-project-applies-thermodynamics-concepts.md) — related

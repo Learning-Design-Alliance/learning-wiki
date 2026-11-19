@@ -52,3 +52,4 @@ Analysis of instructor predictions versus actual post-test response fractions on
 - [Physics instructors and graduate TAs perform better than random guessing at identifying introductory students' most common incorrect FCI answers, but both average only about two-thirds of the maximum possible PCK score](instructors-tas-above-chance-fci-pck.md) — related
 - [Normalised gains on the six force-identification FCI questions are low, ranging from 13% to 30%](low-gain-force-identification-questions.md) — related
 - [Physics TAs often expected incorrect answer choices to be common among introductory students when those choices were in fact not common](tas-misidentify-common-incorrect-answers-csem.md) — related
+- [Instructors predict the better email condition but overestimate the magnitude of its effect on student behaviour](instructors-overestimate-email-effectiveness.md) — related

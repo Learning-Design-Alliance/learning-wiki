@@ -47,3 +47,4 @@ Authors' retrospective interpretation (type e) from the concluding section of th
 ## Related Claims
 - [Daily Slack contact plus regular Zoom mentoring sustains school research activities independently of region](tan-q-online-mentoring-sustainability.md) — related
 - [Long program timescale lets students get stuck and teaches patience and perseverance, and supports mentor development](srmp-long-timescale-benefit.md) — related
+- [Repeat visitation year after year is treated by the authors as evidence of sustained audience engagement](repeat-visitors-evidence-of-engagement.md) — related

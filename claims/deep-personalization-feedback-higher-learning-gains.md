@@ -49,3 +49,5 @@ Platform experiment on Korbit with 796 annotated student–system interactions f
 - [Students receiving adaptive tutorial dialogues in EER-Tutor outperformed peers receiving non-adaptive dialogues, with effect size 0.69 on learning gains](adaptive-tutorial-dialogues-effect-size-069.md) — a broader claim this one bears on
 - [Wikipedia-based explanation success rates (17.65%) are far lower than personalized hints (60.47%), with no significant difference between extracted and generated types](wikipedia-explanations-low-success-rate.md) — related
 - [Expert-ranked feedback quality of the full discourse-based model substantially exceeds cluster-based and minimal feedback baselines](discourse-feedback-ranked-best-expert-comparison.md) — related
+- [Learning gains are higher for students' first attempts than across all attempts](first-attempt-gains-exceed-all-attempt-gains.md) — related
+- [Personalized question-based feedback yields higher student learning gains than minimal and human-personalized feedback baselines in a real dialogue-based ITS](question-based-personalized-feedback-higher-learning-gains.md) — related

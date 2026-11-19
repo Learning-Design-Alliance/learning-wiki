@@ -47,7 +47,8 @@ This strategy restructures weekly homework so that students "must team up with 3
 - [Having group representatives present their answers in front of the class embarrassed students and backfired, and the strategy was immediately abandoned.](../claims/group-representative-presentations-backfired.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Avoid plagiarism by paraphrasing in your own words and citing generously](avoid-plagiarism-paraphrase-cite.md)
 
 ## Examples
 -

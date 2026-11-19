@@ -85,3 +85,4 @@ The synthesis reports that collaboration toward a common goal, rather than split
 - [Belonging is a prerequisite for effective collaborative learning, not merely a positive outcome](belonging-prerequisite-for-collaborative-learning.md) — related
 - [Students at the Melbourne Islamic schools describe the school as a safe haven whose religious security supports their learning](islamic-school-safe-haven-supports-learning.md) — a narrower finding that bears on this claim
 - [Surveyed former Compass students reported feeling supported as whole people, with most citing community, friendship, or meeting people](compass-survey-whole-person-support.md) — a narrower finding that bears on this claim
+- [Student well-being and self-worth are linked to academic achievement and engagement](well-being-linked-achievement.md) — related

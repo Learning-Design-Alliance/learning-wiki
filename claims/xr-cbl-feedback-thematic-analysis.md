@@ -68,3 +68,4 @@ Qualitative thematic analysis of open-ended survey responses from both cohorts t
 - [Participants perceived video as well-suited to displaying clinical procedures, though this was not tested by the intervention](vp-pbl-video-suited-procedures-perception.md) — related
 - [Students requested more open-ended inquiry activities and more diverse simulation options](students-requested-open-ended-inquiry-and-options.md) — related
 - [Open-ended feedback: students found KLM-FA usable, quick and accurate, and educationally valuable, but requested improvements](klm-fa-open-ended-feedback-themes.md) — related
+- [Students report that interactive visualizations in class were motivating and aided understanding of core concepts](student-survey-interactive-visualizations-motivating.md) — related

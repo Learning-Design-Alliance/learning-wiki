@@ -44,6 +44,7 @@ The article recommends continuing education and on-the-job training as pathways 
 ## Related Strategies
 
 - [Use targeted educational interventions — continuing education, dissection courses, generative retrieval and integrated anatomy training — to sustain basic science retention](targeted-interventions-sustain-basic-science-retention.md)
+- [Assign courses to faculty based on training and expertise, with active researchers teaching graduate courses](course-assignment-by-faculty-training.md)
 
 ## Examples
 -

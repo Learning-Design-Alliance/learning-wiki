@@ -50,3 +50,4 @@ Liu Yi-chia, Lee Yi-chen, Huang Pai-chuan, Lee I-Hui, Lin Keh-chung. (2023). Per
 - [Subjectivity is the main disadvantage of DOPS, cited by more than 75% of respondents](dops-subjectivity-main-disadvantage.md) — related
 - [Completing one DOPS typically requires at least 11 minutes of direct observation and feedback follows in most assessments, with no teacher-trainee differences in time](dops-time-observation-feedback-feasible.md) — related
 - [Ratings of easiness of DOPS items do not differ significantly between trainees and teachers](dops-easiness-rating-no-group-differences.md) — related
+- [Students report the observing night as the most stressful part of the process, yet feel very rewarded once they obtain their own data](observing-night-stressful-but-rewarding.md) — related

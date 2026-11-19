@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-19
 sources:
   - id: majid-haghverdi-and-lynda-r-wiest-2016
     resource: "https://eric.ed.gov/?id=EJ1110640"
@@ -40,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-19 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Each of the three rewording types produced significantly less problem-solving error than the control group (p <0.001). [→ Majid Haghverdi and Lynda R. Wiest 2016](#majid-haghverdi-and-lynda-r-wiest-2016)

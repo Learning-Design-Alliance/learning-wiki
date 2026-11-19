@@ -48,3 +48,4 @@ The authors' faculty interviews in departments that had received SEI funding fou
 - [Project leaders reported catalyzed changes in practice but concerns about rushed timelines and sustainability](team-lead-reflections-first-year.md) — related
 - [Fidelity of RBIS use appears largely maintained after SES support ends, with caveats of limited data, end-of-term syllabus pressure, and short follow-up duration](rbis-fidelity-maintained-after-support-ends.md) — related
 - [With CWSEI support, only 1 of 70 UBC science faculty RBIS adopters subsequently quit using the strategies, far below the one-third quitting rate found for US physics faculty](cwsei-one-of-seventy-adopters-quit-rbis.md) — related
+- [The SEPnet collaboration became fully sustained by member department contributions after external funding reduced across its phases](sepnet-fully-sustained-by-member-contributions.md) — reports the opposite

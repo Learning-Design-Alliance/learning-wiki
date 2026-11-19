@@ -71,6 +71,7 @@ Technology unfamiliarity imposes extraneous [cognitive load](../principles/cogni
 - [Promote the flipped classroom in low-resource settings using free digital tools, peer instruction, and group discussions.](flipped-classroom-low-resource-settings-strategy.md)
 - [Add user instructions or interactive tips to the homepage for first-time users of an integrated learning system](add-user-instructions-first-time-users.md)
 - [Support less digitally savvy learners with targeted digital scaffolding and add collaborative activities to AI-enhanced microlearning](digital-scaffolding-and-peer-interaction-microlearning.md)
+- [Open the course with a two-week C programming crash course on a shared HPC system to level differing backgrounds](two-week-c-crash-course-hpc-strategy.md)
 
 ## Examples
 - **Open University (UK)** — provides structured "Skills for OU Study" resources including optional digital-skills modules before distance learners encounter the virtual learning environment (https://www.open.ac.uk/skillsforstudy).

@@ -52,3 +52,4 @@ Attributional finding from the casebook's cross-site synthesis: "Teachers common
 - [Large majorities of ILC workshop participants report their ILC experiences influenced curriculum, instruction, assessment, engagement, and learning to a great extent](ilc-participants-report-practice-influence.md) — related
 - [Teachers reported providing deep-engagement opportunities at levels similar to or greater than student reports, and about 8 in 10 attributed instruction changes to the network](teacher-reported-engagement-opportunities-increased.md) — related
 - [Teamwork communication pedagogy through electronic networking sites increased student interest in learning](teamwork-electronic-networking-increased-interest.md) — a narrower finding that bears on this claim
+- [Studies commonly report affective outcomes of increased interest, motivation, and engagement from SBC use](sbc-affective-outcomes-motivation-engagement.md) — related

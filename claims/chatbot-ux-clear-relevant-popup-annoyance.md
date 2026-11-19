@@ -80,3 +80,4 @@ Reflexive thematic analysis of non-user open-ended comments (Fig. 5): "Usability
 - [Both end-user groups considered the proof-of-concept easy to use](proof-of-concept-ease-of-use.md) — related
 - [Healthcare professionals rated the e-learning resource as useful, easy to use and relevant to practice, and about one-third reported applying it in clinical practice at 4 weeks](elearning-usefulness-usability-ratings.md) — related
 - [Too-small image size was the most frequent dislike in open-ended online responses, followed by resolution and colour complaints](image-size-and-resolution-top-mobile-dislikes.md) — related
+- [Students report mostly positive responses to reminder emails, but some experience stress, annoyance, or feeling targeted](student-perceptions-of-reminder-emails-mixed.md) — related

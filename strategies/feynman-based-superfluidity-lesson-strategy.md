@@ -46,7 +46,8 @@ The article proposes replacing the textbook treatment — which mentions BEC in 
 
 
 ## Related Strategies
-- 
+
+- [Use the self-contained text directly as a learning tool for early undergraduates and as teacher material](tensor-text-direct-learning-tool-early-undergraduates.md)
 
 ## Examples
 -

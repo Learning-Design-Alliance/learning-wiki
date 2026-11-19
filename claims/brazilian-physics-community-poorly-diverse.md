@@ -50,3 +50,4 @@ Anonymous volunteer survey of SBF members (1695 valid responses of 3875 members,
 - [Socioeconomic vulnerability is the main obstacle reported along physics studies and careers in Brazil](socioeconomic-vulnerability-main-career-obstacle.md) — related
 - [Harassment is high in the Brazilian physics community and more pronounced among women](harassment-high-more-pronounced-among-women.md) — related
 - [Moral and sexual harassment incidence is higher in subgroups differing from the cisgender-heterosexual majority profile](higher-harassment-non-cisgender-non-heterosexual.md) — related
+- [In a 2020 survey, the vast majority of white male US STEM faculty classified diversity efforts as beneficial and accepted personal responsibility to address inequity.](white-male-stem-faculty-support-diversity-survey.md) — related

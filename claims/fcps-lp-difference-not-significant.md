@@ -49,3 +49,4 @@ Null comparison from the three-condition study of 109 seventh-grade students: th
 - [Productive failure students significantly outperformed lecture-practice and facilitated complex problem solving students on well-structured and higher-order application post-test problems](pf-outperformed-lp-fcps-post-test-problems.md) — related
 - [Productive failure students demonstrated greater representation flexibility in working with graphical representations than students in the other two conditions](pf-greater-representation-flexibility-graphical.md) — related
 - [Guidance during initial problem solving does not translate into better learning from subsequent instruction](initial-guidance-does-not-improve-learning-from-instruction.md) — related
+- [FCP produced significantly higher post-test scores than CTM for rational expressions, while CTM produced significantly higher scores for factorization](fcp-beats-ctm-rational-expressions-loses-factorization.md) — related

@@ -57,9 +57,11 @@ Written feedback is one of the most powerful — and most variable — influence
 5. Build in class time for revision and resubmission, so feedback is a midpoint, not an endpoint ([Action-Oriented Feedback](action-oriented-feedback.md))
 
 ## Related Strategies
+
 - [Action-Oriented Feedback](action-oriented-feedback.md) — the framing principle: every comment should specify what to do next
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — the oral counterpart; written and conferenced feedback are often alternated in writing instruction
 - [3-2-1 Reflection](3-2-1_reflection.md) — a lightweight structure for learners to process and respond to feedback received
+- [Add a self-reflection section to weekly reports to counter corrective-feedback-only marking](self-reflection-weekly-reports-capstone.md)
 
 ## Examples
 - **Writing instruction with revision cycles** — Draft–comment–revise sequences in which the teacher's margin comments drive a mandatory second draft; the revision, not the comment, produces the gain.

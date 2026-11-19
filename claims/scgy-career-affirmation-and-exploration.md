@@ -70,3 +70,4 @@ Thematic analysis of open-ended responses; 17 (49%) perceived a positive overall
 - [Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training](exposure-programs-increase-tech-pursuit.md) — a broader claim this one bears on
 - [scGY participants who matriculated into professional school self-report feeling more or much more prepared than peers who did not complete a gap year](scgy-self-reported-preparedness-vs-peers.md) — related
 - [UAT alumni report increased research interest and self-knowledge, and 91% of alumni with known status pursue STEM careers](uat-alumni-outcomes-interest-and-stem-retention.md) — related
+- [Student participants reported that the online reading group left them more academically prepared for future careers and brought them closer to their classmates](phasrs-interviews-preparedness-closeness.md) — related

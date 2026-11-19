@@ -48,3 +48,4 @@ Cross-sectional MCQ evaluation comparing the three attempts (no-feedback first a
 - [In a two-lecture user study, linear mixed models find no statistically significant effect of GPT-generated output on student MCQ performance, with a tendency toward a group-by-attempt interaction for IVDA](no-significant-lmm-effect-of-gpt-output-on-student-scores.md) — related
 - [ChatGPT-4o achieves higher final-attempt accuracy than Gemini 1.5 Pro on ophthalmology MCQs, significantly in English but not in Turkish](chatgpt4o-outperforms-gemini-ophthalmology-mcq-final-attempt.md) — related
 - [LEEP scores improved over five attempts on both simulators, but only the in-house simulator retained statistically significant pairwise gains after correction](leep-learning-progression-in-house-only-significant-pairwise.md) — related
+- [Learning gains are higher for students' first attempts than across all attempts](first-attempt-gains-exceed-all-attempt-gains.md) — related

@@ -47,4 +47,4 @@ For instructors who want to foster project ownership, the article argues that te
 -
 
 ## Key Sources
-- Lassen, I. C., Arielle-Evans, A. A., Ríos, L., Lewandowski, H. J., & Dounas-Frazer, D. R. (2021). Student ownership and understanding of multi-week final projects. https://arxiv.org/abs/2108.00111
+- Lassen, I. C., Arielle-Evans, A. A., Ríos, L., Lewandowski, H. J., & Dounas-Frazer, D. R. (2021). Student ownership and understanding of multi-week final projects. https://arxiv.org/abs/2108.00111. [doi:10.1119/perc.2021.pr.lassen](https://doi.org/10.1119/perc.2021.pr.lassen)

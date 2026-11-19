@@ -82,3 +82,4 @@ Experiential-learning theme from the same interviews: AI simulations let learner
 - [Curricula predominantly featured interactive and experiential teaching methods such as simulation and project-based learning](mlm-curricula-interactive-experiential-methods.md) — related
 - [Students perceive personalised simulation with adaptive scenario complexity and targeted role allocation as supporting professional confidence and role development](personalised-simulation-confidence-role-development.md) — related
 - [Group workbench activities raise specific facilitation challenges around participation and assumptions](workbench-group-facilitation-challenges.md) — related
+- [Learning AI is argued to motivate students in STEM subjects by letting them meaningfully explore real-world applications of what they study](ai-learning-motivates-stem-students.md) — related

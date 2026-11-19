@@ -70,3 +70,4 @@ Outcomes section breakdown of the 93% URM participation: 'the representation of 
 - [The APS Bridge Program aims, within a decade, to raise the URM share of physics PhDs to match the bachelor's degree share, a gap of roughly 30 more doctoral degrees](aps-bridge-goal-close-bs-phd-gap.md) — related
 - [Bridge programs report high retention: 88% for the APS Bridge Program versus a 60% national average, with Fisk-Vanderbilt at 80% and Michigan's Imes-Moore program at 90%](bridge-program-retention-rates-88-percent.md) — related
 - [URM students earn a small share of physics degrees, with physics near the lowest fraction of the physical sciences for bachelor's degrees earned by Black/African-American and Hispanic Americans](urm-degree-representation-physics-lowest-physical-sciences.md) — related
+- [Bridge students earn competitive national fellowships at over twice the rate of traditional PhD-track students](bridge-students-fellowship-rate-double.md) — related

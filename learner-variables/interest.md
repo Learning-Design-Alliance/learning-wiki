@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 305 claims (222 show a difference, 47 mixed, 36 no difference) · 211 studies (88 causal, 59 associational, 23 review, 19 design, 9 qualitative, 7 quant-synthesis, 6 theoretical), `q1`–`q4` · 53 of 211 report an effect size · 299 claims rest on one study
+> **Evidence** · 306 claims (223 show a difference, 47 mixed, 36 no difference) · 212 studies (88 causal, 59 associational, 23 review, 20 design, 9 qualitative, 7 quant-synthesis, 6 theoretical), `q1`–`q4` · 53 of 212 report an effect size · 300 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -340,6 +340,7 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [The contemplative practice awakened intrinsic motivation and curiosity about electromagnetic theory in many students](../claims/em-practice-curiosity-motivation.md) [+M] — measured as an outcome of the instruction studied
 - [DHH and hearing students reported statistically indistinguishable enjoyment of the AstroDance performance](../claims/equivalent-enjoyment-dhh-hearing.md) [-W] — measured as an outcome of the instruction studied
 - [Participants report VR lessons significantly more enjoyable than PC lessons](../claims/vr-more-enjoyable-than-pc.md) [+M] — measured as an outcome of the instruction studied
+- [Participants in a virtual ALMA tour reported increased interest in astronomy, both those already interested and those with little prior interest](../claims/tour-increased-astronomy-interest.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

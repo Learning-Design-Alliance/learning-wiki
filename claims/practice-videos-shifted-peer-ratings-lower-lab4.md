@@ -68,3 +68,4 @@ Figure 2 caption states the significance criterion used for the summer-fall dist
 - [Fall students picked up instructor norms on severe, obvious flaws but not on nuanced flaws in physics discussion](peer-evaluators-pick-up-severe-not-nuanced-flaws.md) — possibly the same claim (merge candidate)
 - [With only a single early intervention, Summer 2013 MOOC students had more lenient peer-evaluation norms than instructors](summer-mooc-peer-evaluators-more-lenient-than-instructors.md) — related
 - [After the practice-video intervention, students adopted more rigorous evaluative norms for introductions and for identification of physics principles](practice-videos-rigorous-norms-introduction-physics-principles.md) — a narrower finding that bears on this claim
+- [No shift was observed at the lower end of the diagnostic score distribution, where students from under-resourced schools typically score](no-lower-end-distribution-shift-2021.md) — related

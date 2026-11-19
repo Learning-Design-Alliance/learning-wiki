@@ -55,3 +55,4 @@ Student attitude survey data reported in the article alongside the experimental 
 - [Almost all participants (97%) reported they would want to use the cognitive aid during a real medical crisis](high-acceptance-of-resuscitation-cognitive-aid.md) — related
 - [100% of participants found the clinical assessment tools useful and 90% would use them again](assessment-tools-useful-would-reuse.md) — related
 - [The eBook was downloaded more than 200 times in its first months and includes reader questionnaires for ongoing evaluation](ebook-downloads-and-reader-questionnaires.md) — related
+- [Students report that interactive visualizations in class were motivating and aided understanding of core concepts](student-survey-interactive-visualizations-motivating.md) — related

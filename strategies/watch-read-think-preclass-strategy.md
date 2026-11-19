@@ -48,6 +48,7 @@ The WRT strategy structures pre-class online self-learning as "action video watc
 - [Flipped Learning](flipped-learning.md)
 - [Standard Inverted Classroom](standard_inverted_classroom.md)
 - [Video Based Modeling](video-based-modeling.md)
+- [Three-activity somatic pedagogy: watch, identify, and bodily replicate a digitized performance](three-activity-somatic-video-pedagogy.md)
 
 ## Examples
 -

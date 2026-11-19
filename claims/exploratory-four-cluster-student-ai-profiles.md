@@ -92,3 +92,4 @@ Exploratory K-means clustering among students only (n = 961, nine features, fixe
 - [Latent class analysis of introductory biology students' resource use identifies four distinct profiles: High Overall Frequency, Low Overall Frequency, Moderate Guided Users, and Independent Navigator.](four-latent-resource-use-profiles-intro-biology.md) — related
 - [K-means clustering identifies three distinct ability profiles among young new farmers, with varying overlap across competency dimensions.](kmeans-clustering-ability-profiles.md) — related
 - [Physicians could not be grouped into distinct learner clusters by motivation, self-assessment, and risk perception in the POCUS context](pocus-no-learner-clusters.md) — related
+- [Latent representations cluster into interpretable behavior types at question level, with less distinguishable task-switching clusters at student level](process-bert-representations-cluster-behavior-types.md) — related

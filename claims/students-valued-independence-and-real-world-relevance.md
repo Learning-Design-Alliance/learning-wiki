@@ -64,3 +64,4 @@ Qualitative findings from 32 student focus groups. Students cited independence, 
 - [Focus group study found students appreciated, engaged with, and learned from VGS and wanted more experiences](focus-group-students-engaged-learned-vgs.md) — related
 - [Pilot students appreciated the creative freedom of computational essays but found the openness and notebook non-linearity challenging](student-experiences-creative-freedom-and-challenges.md) — a narrower finding that bears on this claim
 - [Students valued the open-ended generative task for connecting physics to real contexts but reported unfamiliarity with making assumptions](student-perceptions-of-generative-task.md) — a narrower finding that bears on this claim
+- [Dialogic inquiry course showed very low to null drop rates and student appreciation of group discussion](low-drop-rates-student-appreciation-inquiry-course.md) — related

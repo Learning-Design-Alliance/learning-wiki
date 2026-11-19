@@ -12,9 +12,9 @@ evidence_strength: weak
 newest_evidence: 2014
 recheck_by: 2019
 sources:
-  - id: edward-f-redish-and-ayush-gupta-2009
+  - id: edward-f-redish-and-ayush-gupta-2010
     resource: "https://doi.org/10.48550/arXiv.1002.0472"
-    title: "Edward F. Redish and Ayush Gupta. (2009). Making Meaning with Math in Physics: A Semantic Analysis. Department of Physics, University of Maryland, College Park. [doi:10.48550/arXiv.1002.0472](https://doi.org/10.48550/arXiv.1002.0472)"
+    title: "Edward F. Redish and Ayush Gupta. (2010). Making Meaning with Math in Physics: A Semantic Analysis. Department of Physics, University of Maryland, College Park. Originally published 2009. [doi:10.48550/arXiv.1002.0472](https://doi.org/10.48550/arXiv.1002.0472)"
     author: Edward F. Redish and Ayush Gupta
     q: 1
     i: "?"
@@ -38,15 +38,15 @@ sources:
 
 ## Subclaims
 
-`q1 i?` Faced with rewriting T(x,y) = k(x2 + y2) in polar coordinates, physicists tend to treat T as a physical function of the point in space and answer T(r,theta) = kr2, while mathematicians treat it as a mathematical functional dependence and answer k(r2 + theta2). [→ Edward F. Redish and Ayush Gupta 2009](#edward-f-redish-and-ayush-gupta-2009)
+`q1 i?` Faced with rewriting T(x,y) = k(x2 + y2) in polar coordinates, physicists tend to treat T as a physical function of the point in space and answer T(r,theta) = kr2, while mathematicians treat it as a mathematical functional dependence and answer k(r2 + theta2). [→ Edward F. Redish and Ayush Gupta 2010](#edward-f-redish-and-ayush-gupta-2010)
 
 `q1 i?` On a coordinate-transformation problem, physicists tend to treat T as a physical function representing temperature at a point in space while mathematicians tend to treat it as an abstract functional dependence. [→ Edward F. Redish and Eric Kuo 2014](#edward-f-redish-and-eric-kuo-2014)
 
 ## Evidence
 
-### Edward F. Redish and Ayush Gupta 2009
+### Edward F. Redish and Ayush Gupta 2010
 
-Edward F. Redish and Ayush Gupta. (2009). Making Meaning with Math in Physics: A Semantic Analysis. Department of Physics, University of Maryland, College Park. [doi:10.48550/arXiv.1002.0472](https://doi.org/10.48550/arXiv.1002.0472)
+Edward F. Redish and Ayush Gupta. (2010). Making Meaning with Math in Physics: A Semantic Analysis. Department of Physics, University of Maryland, College Park. Originally published 2009. [doi:10.48550/arXiv.1002.0472](https://doi.org/10.48550/arXiv.1002.0472)
 
 `q1 · i?` · `theoretical · r3`
 
@@ -76,3 +76,4 @@ Analytical illustration from the essay (Corinne's Shibboleth): the authors descr
 - [Different disciplinary groups interpret the notation for partial derivatives differently, with physicists focusing on internal mechanics and mathematicians expecting subscript to indicate differentiation](disciplinary-notation-interpretation-differences.md) — a narrower finding that bears on this claim
 - [Experts across disciplines differ in the prominence of Zandieh's function layer when reasoning about partial derivatives](function-layer-prominence-disciplinary-differences.md) — a narrower finding that bears on this claim
 - [Physicists and engineers readily approximate partial derivatives numerically while mathematicians resist numerical approximation and seek symbolic functional forms](disciplinary-differences-partial-derivative-approximation.md) — related
+- [Students tend to perform at the same level of blended Math-Sci sensemaking across disciplinary contexts, suggesting a context-independent cognitive construct](math-sci-sensemaking-context-independent-construct.md) — related

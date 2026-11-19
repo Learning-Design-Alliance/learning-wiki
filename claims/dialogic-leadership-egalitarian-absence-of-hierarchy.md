@@ -50,3 +50,4 @@ Thematic synthesis of 27 peer-reviewed articles in this systematic review; the r
 - [Schooling disrupts hunter-gatherer values, languages, and traditional knowledge, contributing to language loss and erosion of traditional knowledge transmission](schooling-disrupts-hunter-gatherer-values-language-knowledge.md) — related
 - The evidence base on dialogic leadership is entirely qualitative, with the majority (n = 17, 63%) of studies being case studies — related
 - [Supportive, adaptive leadership that balances traditional hierarchies with participatory practices eases resistance to change in Balkan healthcare settings](leadership-balances-hierarchy-participation-change.md) — related
+- [In team-based collaborative courses, one or two team leaders mediate communication with the teacher, reducing teacher overload](team-leaders-mediate-teacher-communication.md) — related

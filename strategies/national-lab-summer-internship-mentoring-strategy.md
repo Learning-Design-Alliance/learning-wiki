@@ -45,6 +45,8 @@ Because relatively few universities operate accelerator research facilities, the
 - [Fund large-scale, long-duration PUI-focused research collaborations that train faculty alongside students](pui-focused-research-collaborations-strategy.md)
 - [Partner with companies and national laboratories to provide students internships, networking, and research experiences](academia-industry-qist-internship-partnerships.md)
 - [Reward top national-exam students with summer internships at research labs or tech companies, allocated per district to foster equal opportunities](district-allocated-summer-internships-strategy.md)
+- [Create HEPA-run industry internships and mentor training so early career scientists can experience industry settings without diluting core research](hepa-industry-internship-strategy.md)
+- [Establish an International Particle Physics Summer School for Teachers with international partners](international-physics-summer-school-teachers.md)
 
 ## Examples
 -

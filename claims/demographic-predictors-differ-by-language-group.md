@@ -55,3 +55,4 @@ Multinomial logistic regression covariate analyses within the LPA for the Englis
 - [ELL parents generally place a high value on their children's education](ell-parents-value-education.md) — related
 - [High parent program participation was predicted by advantaged baseline characteristics: older, more educated, married, working parents with higher-skill children](parent-participation-selection-advantage-baseline.md) — related
 - [Only-child status, living situation and work experience were associated with caring perception profile membership](only-child-living-situation-work-experience-associated-with-caring-profile-membership.md)
+- [Students' gender, race, maternal education level, and social-economic ranking predicted latent profile membership](demographics-predict-noncognitive-profiles.md) — related

@@ -50,3 +50,4 @@ The commentary reports, citing Matuk et al. (this issue), a study in which U.S. 
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
 - [Working with statistically messy authentic data in citizen science gave middle school students a window into scientists' world and intense experience with scientific reasoning](messy-radon-data-window-into-scientists-world.md) — related
 - [Open inquiry improves students' conceptual understanding of science, supported by seven reviewed studies](open-inquiry-improves-conceptual-understanding.md) — related
+- [After the writing-focused science course, students added ethics, morals, and communication to the skills of a good scientist](sciwri-added-ethics-communication-scientist-qualities.md) — related

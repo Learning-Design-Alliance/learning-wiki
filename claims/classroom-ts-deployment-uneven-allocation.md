@@ -50,3 +50,6 @@ Real classroom deployment of TS in a university course with three arms (Answer O
 - [Even when two arms have equal reward, Thompson Sampling can misleadingly allocate many participants to one arm](ts-misallocates-participants-equal-reward.md) — a broader claim this one bears on
 - [The multi-step grading recipe with calibration examples achieves the highest scoring accuracy and receives the majority of bandit arm pulls](multi-step-examples-highest-aes-accuracy.md) — related
 - [Instructors valued adaptive experiments using Thompson Sampling for rapidly directing students to better interventions but were concerned about generalizable conclusions](instructors-value-adaptive-experiments-but-worry-about-inference.md) — related
+- [Thompson Sampling and TS† exploit a single arm even when no significant difference exists among arm means](bandit-exploitation-without-significant-arm-difference.md) — related
+- [No statistically significant difference exists among the three email subject-line arms' mean open rates under any of the three allocation policies](no-significant-difference-email-subject-line-arm-means.md) — related
+- [Thompson Sampling drastically shifted assignment toward a favoured arm with minimal exploration room, but the favoured arm varied across weeks](ts-drastic-shift-inconsistent-favoured-arm.md) — related

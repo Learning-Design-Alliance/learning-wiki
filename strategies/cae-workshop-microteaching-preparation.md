@@ -46,6 +46,7 @@ Both faculty instructors attended NASA Center for Astronomy Education two-day wo
 - [Apprenticeship-style co-teaching sequence for sustaining reforms: secondary role first, then lead, then refinement](secondary-then-lead-coteaching-handoff.md)
 - [Train peer instructors in advance with expert faculty oversight and written facilitator guides before deploying student-led skills teaching](peer-instructor-training-expert-review.md)
 - [Operationalize the faculty standards through structured professional learning pathways with modules, microcredentials, and peer review](professional-learning-pathways-standards-operationalization.md)
+- [Three-hour paired-development Python workshop introducing the rubric through peer review and pair-programming sprints](pair-programming-python-workshop-fizzbuzz-sprints.md)
 
 ## Examples
 -

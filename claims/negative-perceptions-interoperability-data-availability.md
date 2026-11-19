@@ -53,3 +53,4 @@ Content analysis of qualitative studies in the review, drawing on Wong et al.; l
 - [Insufficient technical support, infrastructure, and resources negatively impacted uptake and learning outcomes of educational technologies in PBL](insufficient-support-infrastructure-negative-uptake.md) — related
 - [LMS and firewall restrictions prevent academic integrity content from being available to students before the first day of classes](lms-firewall-barriers-prearrival-ai-content.md) — related
 - [Six antecedents must precede LLM use in nursing education, including technological infrastructure and AI acceptance](llm-nursing-education-antecedents.md) — related
+- [No reviewed framework directly addresses the six main barriers to adoption of immersive technologies in education identified by the State of XR Report](frameworks-do-not-address-adoption-barriers.md) — related

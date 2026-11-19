@@ -62,3 +62,4 @@ The introduction's summary of the Tu, Danish, Humburg, Zhou, Mathayas, Enyedy, a
 - [Children as young as 7 can grasp the idea of unseen small things such as quarks, acknowledging and imagining them by second grade](young-children-grasp-unseen-quarks.md) — related
 - [Microgenetic case studies show learners translating across complementary inscriptions develop progressively refined explanations linking computational actions and physics concepts](microgenetic-complementary-inscriptions-refined-explanations.md) — related
 - [A student solving a complex physics problem builds compound representations by linking semiotic resources across multiple modes](compound-representations-built-by-coordinating-resources.md) — related
+- [Bodily activation with gestures and poses deepened student teachers' understanding of physics concepts conveyed in a digitized dance-physics performance](bodily-activation-deepened-physics-understanding-digital-performance.md) — related

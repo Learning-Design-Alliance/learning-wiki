@@ -45,6 +45,7 @@ The activity is set up as a step-by-step instruction to analyse real satellite d
 ## Related Strategies
 
 - [Scaffolded Questioning](scaffolded-questioning.md)
+- [Use real-event media — videos, satellite maps and audio recordings — as data sources students acquire themselves in physics problems](real-event-media-data-acquisition-strategy.md)
 
 ## Examples
 -

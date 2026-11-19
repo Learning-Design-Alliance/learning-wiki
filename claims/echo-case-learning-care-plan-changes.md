@@ -69,3 +69,4 @@ Same post-session survey study of ECHO case presentations. The review also notes
 - [Project ECHO participation is associated with increased self-reported knowledge and self-efficacy for treating opioid use disorder](echo-oud-self-reported-knowledge-self-efficacy-gains.md) — related
 - [CCUS examinations performed by trained fellows change patient care plans in the majority of documented cases, suggesting learning transfer](ccus-exams-change-patient-care-plans.md) — related
 - [After deep explanation of recoil, 18 students reported learning something new and benefiting from the discussion](post-instruction-students-receptive-recoil-discussion.md) — related
+- [Reading PERbites rarely led readers to try new instructional strategies or research techniques](perbites-limited-practice-change.md) — related

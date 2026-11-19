@@ -72,3 +72,4 @@ Participant interview quote from the lab study (P6) on the effect of removing th
 - [An LLM-generated flowchart linking semantic feature descriptions to code across HTML, CSS, and JS files supports novice creative coders' orientation, navigation, and code understanding](flowchart-supports-code-orientation-navigation.md) — related
 - [E-learning platforms allow self-paced navigation, enabling focus on areas of difficulty](e-learning-self-paced-navigation.md) — related
 - [Students perceived they achieved better under the demonstration method because they could see and hear the teacher's step-by-step explanations and were encouraged to ask questions](students-perceive-better-achievement-see-hear-ask-questions.md) — related
+- [A step-by-step remote-lab manual made students faster but produced more basic mistakes from unreasoned copying of example code](step-by-step-manual-speed-but-more-mistakes.md) — related

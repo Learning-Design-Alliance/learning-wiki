@@ -73,3 +73,4 @@ Chi-square post hoc tests comparing enrollment strategy distributions across rac
 - [At-risk identification is demographically patterned, with Black, Hispanic, and male students more likely to be identified](at-risk-identification-demographic-patterns.md) — related
 - [Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates](cps-senior-year-coursework-racial-gaps.md) — related
 - [Spring first-time college enrollees differ from fall enrollees in race/ethnicity, gender, and high school GPA, but the impact on group enrollment rates is small](spring-enrollees-demographic-gpa-differences.md) — related
+- [Student ethnicity, enrollment type, and undergraduate year relate to chronotype cluster membership](lms-chronotype-demographics-associations.md) — related

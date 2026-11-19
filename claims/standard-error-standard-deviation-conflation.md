@@ -51,3 +51,4 @@ Authors' interpretation in the Discussion of their interview data, in keeping wi
 - [Across both classical and quantum contexts, no interviewed advanced student expected an expert's measurement to yield a delta-function distribution with zero uncertainty](no-delta-function-expectation-any-context.md) — related
 - [In the quantum single-slit context, advanced students' expectations for more data concentrate on no change and more accurate outcomes, with very few expecting narrowing](quantum-more-data-no-change-or-accurate.md) — related
 - [Accelerometer fluctuations of a mobile device laid on a table or hand-held follow a normal distribution](sensor-fluctuations-normal-distribution-table-handheld.md) — related
+- [Mobile sensors let students take hundreds or thousands of repeated measurements in seconds, transforming error-analysis teaching](sensors-enable-mass-repeated-measurements-error-analysis.md) — related

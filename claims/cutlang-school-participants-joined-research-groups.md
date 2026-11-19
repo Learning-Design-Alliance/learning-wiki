@@ -46,3 +46,4 @@ Self-reported career outcome from the 9-month web questionnaire, reported in the
 
 ## Related Claims
 - [Nine months after the school, most responding students reported comfort with key concepts and 87% agreed they could prepare a simple CutLang ADL file](cutlang-school-knowledge-retention-nine-months.md) — related
+- [Students with no coding or analysis experience performed LHC analyses after ADL/CutLang training at two dedicated schools](adl-cutlang-student-analysis-training-outcomes.md) — related

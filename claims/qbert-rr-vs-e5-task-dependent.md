@@ -69,3 +69,4 @@ Accuracy@K retrieval evaluation on WikiQA shown in Fig. 4, with a 26k-sentence c
 - [General-purpose embedding yields better retrieval while domain-specific embedding yields higher answer completeness and relevance](embedding-model-tradeoff-retrieval-vs-completeness.md) — related
 - [QBERT-RR finds high-confidence one-sentence Wikipedia answers for 463 WTC questions](wtc-463-questions-answered-wikipedia.md) — related
 - [Graph community detection over QBERT-RR embeddings yields 5,930 question communities, with 5,337 questions having no similar group](wtc-5930-question-communities.md) — a narrower finding that bears on this claim
+- [A re-ranker combining SBERT embeddings with linguistic features improves the usefulness of generated questions from 3.42 to 4.01](linguistic-sbert-reranker-improves-question-usefulness.md) — related

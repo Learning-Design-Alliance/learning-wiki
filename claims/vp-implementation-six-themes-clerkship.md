@@ -47,3 +47,4 @@ Focus-group study in a paediatric clerkship in which at least ten VPs were integ
 ## Related Claims
 - [Students identify ten design principles for Virtual Patients that foster learning of clinical reasoning, and perceive well-designed VPs as preparing them better than any previously experienced method](vp-ten-design-principles-student-focus-groups.md) — related
 - [Core barriers to VP training implementation were limited physical examination fidelity, a restrictive documentation interface, transfer difficulty, and variable workshop effectiveness](vp-training-implementation-barriers.md) — related
+- [Teacher interviews identified six classroom insights that shaped the activity's design requirements](teacher-interview-insights-design-requirements.md) — related

@@ -47,7 +47,8 @@ From comparing the 60 degree maps, the authors distill five recommendations depa
 - [Blocking factors of CS 1 and CS 2 differ significantly across women-representation groups, with lower-blocking programs having higher representation of women](../claims/cs1-cs2-blocking-factor-differs-by-women-representation.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Recommendations for undergraduate particle physics education](undergraduate-particle-physics-education-recommendations.md)
 
 ## Examples
 -

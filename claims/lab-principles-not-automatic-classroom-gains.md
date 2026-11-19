@@ -50,3 +50,4 @@ Authors' interpretation (type e) from the Discussion, drawing on their two exper
 - [Lab findings on reflection may not transfer to authentic classroom environments](lab-class-transfer-caution-reflection-quizzing.md) — a narrower finding that bears on this claim
 - [Real-world translation was the most frequently endorsed strength, with 92% of users saying content and examples are translatable to daily clinical work](real-world-translation-top-strength.md) — related
 - [Instructional gains in special small-group programs may not generalize to real-world teaching conditions](special-program-gains-not-real-world.md) — possibly the same claim (merge candidate)
+- [Improvements in prediction accuracy do not automatically translate into improved student outcomes, a gap surfaced in 12 of 15 interviews](prediction-accuracy-outcome-gap-ml4ed.md) — a narrower finding that bears on this claim

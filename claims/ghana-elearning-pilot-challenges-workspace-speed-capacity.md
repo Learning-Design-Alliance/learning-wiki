@@ -55,3 +55,4 @@ Descriptive results from the same cross-sectional survey of 363 trainees on perc
 - [Students reported technical difficulties with Edmodo more than financial ones, with the small mobile screen and slow internet the top challenges](edmodo-technical-and-financial-challenges.md) — related
 - [High connectivity cost was a potential implementation threat despite high smartphone utilization among Ghanaian health trainees](high-connectivity-cost-threat-e-learning-pilot-ghana.md) — related
 - [Low bandwidth and lack of seamless internet connectivity constrained health trainees' use of e-learning opportunities in Ghana](low-bandwidth-poor-connectivity-constrain-e-learning-ghana-trainees.md) — related
+- [Physics capacity development in Africa is constrained by lack of research facilities, low doctoral enrolment and graduates, low publication output, and few research institutes and industry opportunities.](african-physics-capacity-challenges.md) — related

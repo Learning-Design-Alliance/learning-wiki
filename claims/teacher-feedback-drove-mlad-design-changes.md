@@ -68,3 +68,4 @@ In the same thematic analysis of teacher feedback, a teacher's navigation compla
 - [SAGLET's real-time learning analytics provided alerts that enabled the teacher to monitor groups and give appropriate feedback](saglet-alerts-teacher-monitoring-feedback.md) — related
 - [Correctness overviews alone seldom lead to real insights into how to improve learning; dashboards must present teacher-actionable information supporting goal-setting, monitoring, and planning](dashboards-need-actionable-information-beyond-correctness.md) — related
 - [A post-practice feedback pop-up board with three-star scoring was developed after players spontaneously requested feedback](feedback-pop-up-board-three-stars.md) — related
+- [Directly showing student risk scores to students, teachers, or administrators can worsen student outcomes](risk-score-disclosure-harms-students.md) — related

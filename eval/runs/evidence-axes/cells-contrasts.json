@@ -123930,5 +123930,581 @@
  "worked-examples\tengineered quantum systems as worked examples\ttraditional quantum-mechanics instruction": {
   "label": "worked examples vs traditional instruction",
   "treatment_is_a": true
+ },
+ "active-learning\tPI cycle with peer discussion, experiments, and rotating groups\tpre-instruction baseline": {
+  "label": "Peer instruction with active-learning cycle vs pre-cycle baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tPI with rotating peer groups\tPI studies in which student groups were not rotated": {
+  "label": "Rotating peer groups vs non-rotating peer groups",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer Instruction with rotating peer groups and experiments\tinitial measurement before the learning cycle": {
+  "label": "Peer instruction with active-learning cycle vs pre-cycle baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive experience with physical materials\tlecturing": {
+  "label": "Hands-on active experience vs lecturing",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive learning with a short lecture and practice problems\ttraditional lectures": {
+  "label": "Active learning with practice vs traditional lecturing",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive reading, reviewing and voting on popular-science books\ttraditional separation of scientific and humanistic cultures": {
+  "label": "Active interdisciplinary reading and discussion vs traditional separated study",
+  "treatment_is_a": true
+ },
+ "active-learning\tarticle presentations, peer discussion, and observation of faculty and student reasoning\tusual curriculum-based studying and classroom learning alone": {
+  "label": "Peer discussion and reasoning-focused learning vs usual individual classroom study",
+  "treatment_is_a": true
+ },
+ "active-learning\tcode rubric with peer review and pair programming\tprior code-development practice": {
+  "label": "Rubric-supported peer-reviewed pair programming vs prior programming practice",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative blended course\tMOOC courses": {
+  "label": "Collaborative blended course vs MOOC",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative blended course with online teamwork\tMOOCs with limited peer communication": {
+  "label": "Collaborative blended course with online teamwork vs MOOC with limited peer communication",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative blended course with online teamwork and peer communication\ttraditional instructor-paced MOOCs with limited peer communication": {
+  "label": "Collaborative blended course with online teamwork and peer communication vs traditional instructor-paced MOOC",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative blended course with team-based peer support\ttraditional MOOCs": {
+  "label": "Collaborative blended course with team-based peer support vs traditional MOOC",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative peer teamwork\ttraditional MOOC peer interaction": {
+  "label": "Collaborative peer teamwork vs traditional MOOC peer interaction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative project teams using peer communication\ttraditional xMOOC instructional design": {
+  "label": "Collaborative project teams with peer communication vs traditional xMOOC design",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative team assignment and peer instruction\ttraditional xMOOC study with limited peer communication": {
+  "label": "Collaborative team assignment and peer instruction vs traditional xMOOC with limited peer communication",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative team communication across Discord, GitHub and Trello\tMOOC forum communication": {
+  "label": "Collaborative team communication across dedicated tools vs MOOC forum communication",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative team project with online peer communication\ttraditional MOOCs with limited peer communication": {
+  "label": "Collaborative team project with online peer communication vs traditional MOOC with limited peer communication",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative team project with peer communication\ttraditional instructor-paced MOOC": {
+  "label": "Collaborative team project with peer communication vs traditional instructor-paced MOOC",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative team project with team leaders\ttraditional instructor-paced MOOC": {
+  "label": "Collaborative team project with team leaders vs traditional instructor-paced MOOC",
+  "treatment_is_a": true
+ },
+ "active-learning\tconventional teaching method\tflipped classroom pedagogy": {
+  "label": "Flipped classroom vs conventional teaching",
+  "treatment_is_a": false
+ },
+ "active-learning\tcourses using significant active-learning strategies\ttraditional lecture-based courses": {
+  "label": "Active-learning strategies vs traditional lecture-based teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tdialogic inquiry with facilitator guidance\tfrontal lecture-based instruction": {
+  "label": "Dialogic inquiry with facilitator guidance vs frontal lecturing",
+  "treatment_is_a": true
+ },
+ "active-learning\tend of MI course\tbeginning of MI course": {
+  "label": "Post-course state vs pre-course state",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom pedagogy\tconventional teaching method": {
+  "label": "Flipped classroom vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom pedagogy with pre-class materials and interactive in-class activities\tconventional teacher-centered teaching with lectures and homework": {
+  "label": "Flipped classroom with interactive in-class activities vs conventional teacher-centered teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on multilayer device assembly and testing\tpre-activity assessment": {
+  "label": "Hands-on multilayer device assembly and testing vs pre-activity assessment",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on multilayer device construction activity\tpre-activity baseline": {
+  "label": "Hands-on multilayer device construction vs pre-activity baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on multilayer device construction and testing\tpre-assessment baseline": {
+  "label": "Hands-on multilayer device construction and testing vs pre-assessment baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on sticker microfluidics activity\tpre-activity baseline": {
+  "label": "Hands-on sticker microfluidics activity vs pre-activity baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on sticker microfluidics activity\tpre-assessment baseline": {
+  "label": "Hands-on sticker microfluidics activity vs pre-assessment baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on sticker microfluidics construction and testing\tpre-activity assessment": {
+  "label": "Hands-on sticker microfluidics construction and testing vs pre-activity assessment",
+  "treatment_is_a": true
+ },
+ "active-learning\tinquiry-based course with active participation\ttraditional lecture-based instruction": {
+  "label": "Inquiry-based active participation vs traditional lecturing",
+  "treatment_is_a": true
+ },
+ "active-learning\tinquiry-based course with dialogic, student-centered activities\tfrontal lecture-based instruction": {
+  "label": "Inquiry-based dialogic student-centered learning vs frontal lecturing",
+  "treatment_is_a": true
+ },
+ "active-learning\tinquiry-based insulation-box design activity\tno comparison condition reported": {
+  "label": "Inquiry-based design activity vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "active-learning\titerative engineering design, testing, and modification\tno comparison condition reported": {
+  "label": "Iterative engineering design with testing and modification vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "active-learning\tlecture plus two-hour active-learning GenderMag evaluation of Canvas\tnone reported": {
+  "label": "Active-learning workshop with lecture and practice vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "active-learning\tpausing the video and explaining physics-relevant moments with bodily gestures and poses\tpassive viewing without bodily explanation": {
+  "label": "Video pausing with bodily explanation vs passive viewing",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer practice teaching with PCK instruction and feedback\tnot reported": {
+  "label": "Peer practice teaching with PCK instruction and feedback vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "active-learning\tpost-MI-course physics interest\tpre-MI-course physics interest": {
+  "label": "Post-course state vs pre-course state",
+  "treatment_is_a": true
+ },
+ "active-learning\tproject-based fair-game electromagnetism project\tnot reported": {
+  "label": "Project-based fair-game electromagnetism project vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "active-learning\tproject-based fair-game prototype project\tno comparison reported": {
+  "label": "Project-based fair-game prototype project vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "active-learning\trubric-supported collaborative programming with peer discussion and code-planning activities\tearlier course practice before the intervention": {
+  "label": "Rubric-supported collaborative programming with peer discussion vs prior programming practice",
+  "treatment_is_a": true
+ },
+ "active-learning\tsticker microfluidics activity\tpre-activity assessment": {
+  "label": "Sticker microfluidics activity vs pre-activity assessment",
+  "treatment_is_a": true
+ },
+ "active-learning\tsticker microfluidics activity\tpre-activity confusion": {
+  "label": "Sticker microfluidics activity vs pre-activity confusion",
+  "treatment_is_a": true
+ },
+ "active-learning\tsticker microfluidics activity\tunderstanding before the activity": {
+  "label": "Sticker microfluidics activity vs pre-activity understanding",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent-student interaction\tstudent-teacher interaction": {
+  "label": "Student-student interaction vs student-teacher interaction",
+  "treatment_is_a": true
+ },
+ "active-learning\tteam assignment and collaborative project work\ttraditional xMOOCs with limited peer communication": {
+  "label": "Team assignment and collaborative project work vs traditional xMOOC with limited peer communication",
+  "treatment_is_a": true
+ },
+ "active-learning\tteam assignment and collaborative project work\ttraditional xMOOCs with teacher-centred communication": {
+  "label": "Team assignment and collaborative project work vs traditional xMOOC with teacher-centered communication",
+  "treatment_is_a": true
+ },
+ "active-learning\tteam-based collaborative blended course\ttraditional xMOOCs": {
+  "label": "Team-based collaborative blended course vs traditional xMOOC",
+  "treatment_is_a": true
+ },
+ "active-learning\tteam-based collaborative blended course\ttraditional xMOOCs with limited peer communication": {
+  "label": "Team-based collaborative blended course vs traditional xMOOC with limited peer communication",
+  "treatment_is_a": true
+ },
+ "active-learning\tteam-based collaborative blended course with team leaders communicating with the tutor\tMOOCs in which communication communities were built around teachers": {
+  "label": "Team-based collaborative blended course with team leaders communicating with the tutor vs teacher-centered MOOC communication",
+  "treatment_is_a": true
+ },
+ "active-learning\tteam-based collaborative project with hierarchical team communication\ttraditional MOOCs with communities built around teachers": {
+  "label": "Team-based collaborative project with hierarchical team communication vs teacher-centered traditional MOOC",
+  "treatment_is_a": true
+ },
+ "active-learning\tteam-based collaborative project with peer communication\ttraditional instructor-paced MOOCs with limited peer communication": {
+  "label": "Team-based collaborative project with peer communication vs traditional instructor-paced MOOC with limited peer communication",
+  "treatment_is_a": true
+ },
+ "active-learning\tteam-based collaborative project with team leaders communicating with the teacher\ttraditional MOOCs with student-teacher communication centered on teachers": {
+  "label": "Team-based collaborative project with team leaders communicating with the teacher vs teacher-centered MOOC communication",
+  "treatment_is_a": true
+ },
+ "active-learning\tteam-based collaborative project work\tMOOC forum participation without organized teamwork": {
+  "label": "Team-based collaborative project work vs unstructured MOOC forum participation",
+  "treatment_is_a": true
+ },
+ "active-learning\tteam-based collaborative project work\ttraditional instructor-paced MOOCs": {
+  "label": "Team-based collaborative project work vs traditional instructor-paced MOOC",
+  "treatment_is_a": true
+ },
+ "active-learning\tteam-based collaborative project work\ttraditional instructor-paced MOOCs with limited peer communication": {
+  "label": "Team-based collaborative project work vs traditional instructor-paced MOOC with limited peer communication",
+  "treatment_is_a": true
+ },
+ "active-learning\tteam-based collaborative project work with team leaders\ttraditional MOOCs in which communication communities were built around teachers": {
+  "label": "Team-based collaborative project work with team leaders vs teacher-centered MOOC communication",
+  "treatment_is_a": true
+ },
+ "active-learning\tteamwork with leaders relaying information to the teacher\ttraditional MOOC communication centered on teachers": {
+  "label": "Teamwork with leaders relaying information to the teacher vs teacher-centered MOOC communication",
+  "treatment_is_a": true
+ },
+ "active-learning\ttwo-day hands-on sticker microfluidics activity\tpre-activity assessment": {
+  "label": "Two-day hands-on sticker microfluidics activity vs pre-activity assessment",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tCT-informed choice and structured active learning\tearlier course delivery with less structured choice": {
+  "label": "structured choice and active learning vs less structured choice and earlier delivery",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tchoice-based structured capstone project\tless choice and unstructured research expectations": {
+  "label": "structured choice in capstone projects vs less choice and unstructured research expectations",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tchoose-your-own-adventure topic selection with structured choices\tsupervisor-proposed or supervisor-defined topics": {
+  "label": "learner-selected topics vs supervisor-defined topics",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tLinUCB adaptive exercise selection\tadaptive Heuristic exercise selection": {
+  "label": "LinUCB vs adaptive heuristic exercise selection",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tLinUCB exercise-selection policy\tHeuristic exercise-selection policy": {
+  "label": "LinUCB vs heuristic exercise-selection policy",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tLinUCB exercise-selection policy\tRandom exercise-selection policy": {
+  "label": "LinUCB vs random exercise-selection policy",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tLinUCB exercise-selection policy\tadaptive Heuristic policy": {
+  "label": "LinUCB vs adaptive heuristic exercise-selection policy",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tLinUCB exercise-selection policy\trandom and heuristic exercise-selection policies": {
+  "label": "LinUCB vs random and heuristic exercise-selection policies",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tconceptual teaching focused on physical insight\tapplying equations and crunching numbers": {
+  "label": "conceptual instruction vs equation-focused instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinitial hands-on software training\tno initial software training": {
+  "label": "initial hands-on software training vs no initial software training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\twriting-intensive popular science course with guided research-article reading and translation assignments\tpre-course baseline": {
+  "label": "writing-intensive instruction with guided reading and translation vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "feedback-type\tHint-assisted QA\tVanilla-QA": {
+  "label": "Hint-assisted QA vs vanilla QA",
+  "treatment_is_a": true
+ },
+ "feedback-type\tHint-assisted QA with entailment consistency\tHint-assisted QA without entailment consistency": {
+  "label": "Entailment-consistent hint-assisted QA vs non-entailment-consistent hint-assisted QA",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpersonalized non-question feedback\tminimal feedback": {
+  "label": "Personalized non-question feedback vs minimal feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpersonalized question-based feedback\tminimal feedback": {
+  "label": "Personalized question-based feedback vs minimal feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpersonalized question-based feedback\tpersonalized human feedback": {
+  "label": "Personalized question-based feedback vs personalized human feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpersonalized question-based feedback\tpersonalized non-question feedback": {
+  "label": "Personalized question-based feedback vs personalized non-question feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tcode rubric used to guide feedback\tprevious assessment practice": {
+  "label": "rubric-guided feedback vs previous assessment practice",
+  "treatment_is_a": true
+ },
+ "gamification\t2021 course with CTF-based team assembly and initial role assignment\t2020 course without CTF": {
+  "label": "CTF-based team formation and role assignment vs non-CTF team formation and role assignment",
+  "treatment_is_a": true
+ },
+ "gamification\tBioBlox2D or BioBlox2.5D introduced in class\tnot reported": {
+  "label": "BioBlox gamification vs no reported BioBlox gamification",
+  "treatment_is_a": true
+ },
+ "gamification\tCTF-based computer-human process for expertise recognition and role assignment\tteam discussion without CTF": {
+  "label": "CTF-based expertise recognition and role assignment vs discussion-based expertise recognition and role assignment",
+  "treatment_is_a": true
+ },
+ "gamification\tCTF-based initial role assignment followed by team discussion\tfinal role assignment after team discussion": {
+  "label": "Initial role assignment before team discussion vs final role assignment after team discussion",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided inquiry into ICM X-ray emission and Bremsstrahlung\tlecture-based instruction": {
+  "label": "guided discovery vs lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "learner-difference\t%ELL included as a predictor in the %Hispanic model\t%ELL not associated with physics offerings": {
+  "label": "ELL association included in the Hispanic model vs no ELL association in the Hispanic model",
+  "treatment_is_a": true
+ },
+ "learner-difference\t%ELL included as a predictor in the %SED model\t%ELL not associated with physics offerings": {
+  "label": "ELL association included in the SED model vs no ELL association in the SED model",
+  "treatment_is_a": true
+ },
+ "learner-difference\t0-1 brief initial attempts\t2-3 or 4 brief initial attempts": {
+  "label": "More brief initial attempts vs fewer brief initial attempts",
+  "treatment_is_a": false
+ },
+ "learner-difference\t0–1 Brief Attempts\t2–3 or 4 Brief Attempts": {
+  "label": "More brief initial attempts vs fewer brief initial attempts",
+  "treatment_is_a": false
+ },
+ "learner-difference\t0–1 Brief Attempts group\t2–3 or 4 Brief Attempts groups": {
+  "label": "More brief-attempt groups vs fewer brief-attempt groups",
+  "treatment_is_a": false
+ },
+ "learner-difference\t2016 class\t2015 class": {
+  "label": "2016 cohort vs 2015 cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2017 MOSCE participants\t2017 non-participants": {
+  "label": "MOSCE participants vs non-participants",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2017 and 2018 cohorts\t2019 cohort": {
+  "label": "Earlier cohorts (2017–2018) vs later cohort (2019)",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2017 cohort\t2016 cohort": {
+  "label": "2017 cohort vs 2016 cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2017 cohort\t2018 and 2019 cohorts": {
+  "label": "2017 cohort vs later cohorts (2018–2019)",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2018 AM Pass On-Ramp Post cohort\tpropensity-score-matched 2017 AM cohort": {
+  "label": "2018 AM Pass On-Ramp Post cohort vs matched 2017 AM cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2018 AM Pass On-Ramp Pre cohort\tpropensity-score-matched 2017 AM cohort": {
+  "label": "2018 AM Pass On-Ramp Pre cohort vs matched 2017 AM cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2019 cohort\t2017 and 2018 cohorts": {
+  "label": "2019 cohort vs earlier cohorts (2017–2018)",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tALPaCA competency-based grading\tpre-ALPaCA grading": {
+  "label": "competency-based grading vs traditional grading",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tALPaCA competency-based grading\ttraditional grading": {
+  "label": "competency-based grading vs traditional grading",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tobjective-based ALPaCA grading\ttraditional course grading": {
+  "label": "competency-based grading vs traditional grading",
+  "treatment_is_a": true
+ },
+ "media-design\tHello Quantum World! pictorial, concepts-first approach\tsenior-level quantum information and computation course": {
+  "label": "Pictorial, concepts-first approach vs prerequisite-heavy, advanced mathematical approach",
+  "treatment_is_a": true
+ },
+ "media-design\tSubject Line 1\tSubject Line 2": {
+  "label": "Subject Line 1 vs Subject Line 2",
+  "treatment_is_a": true
+ },
+ "media-design\tSubject Line 1\tSubject Line 3": {
+  "label": "Subject Line 1 vs Subject Line 3",
+  "treatment_is_a": true
+ },
+ "media-design\tfour script types varying snark and humor\tother script types": {
+  "label": "Snarky/humorous scripts vs other scripts",
+  "treatment_is_a": true
+ },
+ "media-design\tpictorial qubit-and-circuit representation with IBM Quantum Composer\ttraditional prerequisite-heavy mathematical and quantum-mechanics approach": {
+  "label": "Pictorial, concepts-first approach vs prerequisite-heavy, advanced mathematical approach",
+  "treatment_is_a": true
+ },
+ "other\t%-IN-T token overlap measure\tGLOVE [ALIGNED] word-embedding similarity measure": {
+  "label": "token overlap vs word-embedding similarity",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore time spent preparing\tless time spent preparing": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "problem-first\tStudents conduct the experiment before being taught the oscillator theory\tLecturer derives theory and confirms it with an experiment on stage": {
+  "label": "problem-first vs theory-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tpreparation for future learning\tactive learning with a short lecture and practice problems": {
+  "label": "preparation for future learning vs active learning",
+  "treatment_is_a": true
+ },
+ "problem-first\tpreparation-for-future-learning introduction to active learning\texplanation of the reasons and values of active learning": {
+  "label": "preparation-for-future-learning introduction vs explanation of active-learning rationale",
+  "treatment_is_a": true
+ },
+ "prompts\tExplicit prompting and a stepwise Hilbert-space scaling walkthrough\tInitial unprompted explanation": {
+  "label": "Explicit prompting and walkthrough vs unprompted explanation",
+  "treatment_is_a": true
+ },
+ "prompts\tReceived an email reminder\tNo-reminder condition": {
+  "label": "Email reminder vs no reminder",
+  "treatment_is_a": true
+ },
+ "prompts\tadvice email showing the prompt\tno-reminder control": {
+  "label": "Prompted reminder vs no reminder",
+  "treatment_is_a": true
+ },
+ "prompts\tanalog classical computer thought experiment\tinitial unaided response": {
+  "label": "Analogical thought-experiment prompt vs unaided response",
+  "treatment_is_a": true
+ },
+ "prompts\temail homework reminder\tno-reminder condition": {
+  "label": "Email reminder vs no reminder",
+  "treatment_is_a": true
+ },
+ "prompts\temail reminder message\tno-reminder condition": {
+  "label": "Email reminder vs no reminder",
+  "treatment_is_a": true
+ },
+ "prompts\temail reminder message\tno-reminder message": {
+  "label": "Email reminder vs no reminder",
+  "treatment_is_a": true
+ },
+ "prompts\temail reminder messages\tno-reminder condition (not reported for this outcome)": {
+  "label": "Email reminder vs no reminder",
+  "treatment_is_a": true
+ },
+ "prompts\texplicit-reflective approach with reflection prompts\tteaching without explicit reflection prompts": {
+  "label": "Reflection prompts vs no reflection prompts",
+  "treatment_is_a": true
+ },
+ "prompts\trecommendation email showing the prompt\tno-reminder control": {
+  "label": "Prompted reminder vs no reminder",
+  "treatment_is_a": true
+ },
+ "prompts\trecommendation email without the prompt\tno-reminder control": {
+  "label": "Unprompted reminder vs no reminder",
+  "treatment_is_a": true
+ },
+ "prompts\treminder with a recommendation to spend five minutes on the homework\treminder with no recommendation prompt": {
+  "label": "Recommendation prompt in a reminder vs no recommendation prompt in a reminder",
+  "treatment_is_a": true
+ },
+ "prompts\treminder with no advice prompt\tno-reminder control": {
+  "label": "Unprompted reminder vs no reminder",
+  "treatment_is_a": true
+ },
+ "scaffolding\tAdaptive proactive hints\tControl without proactive interventions": {
+  "label": "adaptive proactive hints vs no proactive interventions",
+  "treatment_is_a": true
+ },
+ "scaffolding\tCT decision-support system for decomposing and sequencing research decisions\tdirect one-on-one supervision and unguided research decisions": {
+  "label": "CT decision-support for research decisions vs direct supervision and unguided decisions",
+  "treatment_is_a": true
+ },
+ "scaffolding\tCT-inspired structured, systematic capstone process\tless structured project process with direct one-on-one supervision": {
+  "label": "structured/systematic CT-inspired project process vs less-structured project process",
+  "treatment_is_a": true
+ },
+ "scaffolding\tHNU Adaptive condition with proactive adaptive hints\tHNU Control without proactive interventions": {
+  "label": "adaptive proactive hints vs no proactive interventions",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadaptive proactive hints\tcontrol without proactive interventions": {
+  "label": "adaptive proactive hints vs no proactive interventions",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadaptive proactive hints\tno proactive interventions": {
+  "label": "adaptive proactive hints vs no proactive interventions",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadaptive proactive hints based on HelpNeed predictions\tcontrol without proactive interventions": {
+  "label": "adaptive proactive hints vs no proactive interventions",
+  "treatment_is_a": true
+ },
+ "scaffolding\tanalog classical computer thought experiment\tinitial continuous-state explanation without the thought experiment": {
+  "label": "analog classical-computer thought experiment vs initial continuous-state explanation without the thought experiment",
+  "treatment_is_a": true
+ },
+ "scaffolding\teducate-the-educators curriculum with scaffolding, resources, collaboration, and feedback\tnot stated": {
+  "label": "scaffolded educator curriculum with resources, collaboration, and feedback vs no stated scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\texpected beginner question variants\tcontrol original questions": {
+  "label": "expected beginner question variants vs original questions",
+  "treatment_is_a": true
+ },
+ "scaffolding\texpected level-matched question variant\tnon-expected mismatched question variant": {
+  "label": "expected level-matched question variants vs non-expected mismatched variants",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplicit prompt about entanglement followed by Hilbert-space scaling walkthrough\tstudent's initial continuous-state or analog-digital explanation": {
+  "label": "explicit entanglement prompt with Hilbert-space walkthrough vs initial continuous-state or analog-digital explanation",
+  "treatment_is_a": true
+ },
+ "scaffolding\thour-long student presentations paired with faculty mentors\tusual 10–15 minute student talks without this reading-group mentoring structure": {
+  "label": "faculty-mentored extended presentations vs usual short unmentored talks",
+  "treatment_is_a": true
+ },
+ "scaffolding\tindependent objective marking with collective presentation marking\tsupervisor-involved marking": {
+  "label": "independent objective and collective presentation marking vs supervisor-involved marking",
+  "treatment_is_a": true
+ },
+ "scaffolding\tproactive adaptive hints based on HNU HelpNeed predictions\tno proactive interventions": {
+  "label": "adaptive proactive hints vs no proactive interventions",
+  "treatment_is_a": true
+ },
+ "scaffolding\tproactive adaptive hints based on HNU predictions\tno proactive interventions": {
+  "label": "adaptive proactive hints vs no proactive interventions",
+  "treatment_is_a": true
+ },
+ "scaffolding\tproactive adaptive hints based on HelpNeed and hint usage\tcontrol without proactive interventions": {
+  "label": "adaptive proactive hints vs no proactive interventions",
+  "treatment_is_a": true
+ },
+ "scaffolding\tproactive adaptive hints based on HelpNeed predictions\tno proactive interventions": {
+  "label": "adaptive proactive hints vs no proactive interventions",
+  "treatment_is_a": true
+ },
+ "scaffolding\tstructured CT-inspired capstone research process\toriginal less-structured project process": {
+  "label": "structured/systematic CT-inspired project process vs less-structured project process",
+  "treatment_is_a": true
+ },
+ "scaffolding\tstructured systematic computational-thinking process\toriginal project flow with student-selected objectives and methodology": {
+  "label": "structured/systematic CT-inspired project process vs less-structured project process",
+  "treatment_is_a": true
+ },
+ "scaffolding\tstudent presentation paired with a faculty mentor\tstudent presentation without faculty-mentor pairing": {
+  "label": "faculty-mentored presentations vs unmentored presentations",
+  "treatment_is_a": true
+ },
+ "simulation\tmin-max uncertainty measure\tstandard deviation": {
+  "label": "min-max uncertainty measure vs standard deviation",
+  "treatment_is_a": true
  }
 }

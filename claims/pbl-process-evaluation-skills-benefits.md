@@ -56,3 +56,4 @@ Qualitative process evaluation based on classroom observations, interviews and f
 - [Student designers reported gaining soft skills such as teamwork, text comprehension and map reading from the game-design project](designers-reported-soft-skills-gains.md) — related
 - [Step-by-step teaching improves work attitude, team spirit and analytical ability, but not expression or communication skills, in postgraduate reproductive ultrasound trainees](sbs-mixed-effects-clinical-competence-subdomains.md) — related
 - [PBL group work on the module exhibited development of leadership, communication, and independent learning skills](pbl-groupwork-develops-leadership-communication-independent-learning.md) — related
+- [Project/problem-based learning in an introductory electromagnetism course has students take an active role in constructing their own knowledge while developing soft and social skills](pbl-active-role-electromagnetism-course.md) — related

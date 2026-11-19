@@ -52,6 +52,7 @@ The article's discussion offers concrete implementation recommendations: upload 
 - [Collect student feedback via online surveys and act on it: prioritize live video-lectures over posted presentations, manageable task loads, and extended thesis deadlines](strategy-student-suggestions-improve-e-learning.md)
 - [Adopt low-cost online reading quizzes as a course-structure intervention in community college STEM courses](low-cost-reading-quiz-intervention-strategy.md)
 - [Embed a relativity simulation in laboratory sessions with pre-work, collaborative exploration and assessed visual log books](rtr-laboratory-implementation-strategy.md)
+- [Provide pre-class materials (videos, slides, modules, worksheets) with assessment, then use class time for interactive individual and group activities with the teacher as facilitator](fcp-preclass-materials-inclass-interactive-activities.md)
 
 ## Examples
 -

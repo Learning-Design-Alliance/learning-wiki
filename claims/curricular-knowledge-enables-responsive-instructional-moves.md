@@ -66,3 +66,4 @@ This is a single-institution, single-curriculum case study without a control gro
 - [Course feedback was consistently positive, and instructors made small iterative adjustments in response to each cohort's feedback](srss-course-feedback-iterative-adjustment.md) — related
 - [Teachers with the most interactive and engaging classrooms most commonly address weak preparation through embedded review, individual instruction and adjusting the curriculum](embedded-review-top-practice-interactive-classrooms.md) — related
 - [Tutorial-based thought-experiment instruction helps confront student conceptions about simultaneity and improves ability to resolve classic SRT paradoxes](srt-tutorials-confront-conceptions.md) — related
+- [Qualitative observation of the current cohort suggests students took on the rubric's emphasis on professionalism in their code development](qualitative-observation-professionalism-emphasis-uptake.md) — related

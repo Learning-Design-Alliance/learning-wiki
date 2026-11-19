@@ -51,3 +51,4 @@ Treatment-measure robustness analysis re-estimating the preferred grade specific
 - [GenAI availability produced no significant differential effect on final grades in more GenAI-susceptible courses relative to less susceptible ones](genai-availability-no-significant-grade-effect-susceptible-courses.md) — related
 - [Grade effects of GenAI availability do not differ across terciles of students' prior academic preparation, robust across multiple ability proxies](null-grade-effects-across-prior-performance-terciles.md) — related
 - [Placebo tests and specification checks support the mathematics finding: only the 2022 departure from trend is substantial, and results are robust to controls, quadratic trends, and weighting](placebo-tests-robust-math-loss.md) — related
+- [Faculty perceptions of reduced student preparation after COVID may reflect confirmation bias rather than measured learning loss](faculty-perceptions-covid-confirmation-bias.md) — related
