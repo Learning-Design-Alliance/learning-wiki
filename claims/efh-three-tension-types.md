@@ -50,3 +50,4 @@ Case study of one class of 36 ninth-graders; the author marked disturbances in c
 - [No disturbances specifically related to the subject element (students' views of themselves as learners) were found in the Electric Field Hockey activity](efh-no-subject-element-tensions.md) — related
 - [Social tensions were frequent and heated on Day 1 and decreased on Days 2 and 3, with students shifting toward exploring phenomena more broadly](efh-social-tensions-decreased-over-days.md) — related
 - [Tool tensions around the simulation's representations persisted through Days 1 and 2, and by Day 3 students showed signs of a consensus that the field-line representations were helpful](efh-tool-tensions-representations-consensus.md) — a narrower finding that bears on this claim
+- [Guided inquiry with electric field simulations significantly improves AP physics students' electric field content performance](guided-inquiry-simulation-electric-fields-gain.md) — related

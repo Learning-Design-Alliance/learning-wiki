@@ -51,3 +51,4 @@ Quasi-experimental pretest/posttest comparison of the Fall 2006 (no laboratories
 - [Learning gains vary by Moon phases topic but do not differ significantly across conditions](moon-phases-topic-gains-vary-no-condition-differences.md) — related
 - [In an observational night with a portable telescope, students found Venus's phases and Jupiter's moons the most interesting sights](observational-night-venus-phases-jupiter-moons.md) — related
 - [Overall pre/post-test scores rose from 61% to 80% for the full sample after a three-phase astronomy dataset activity, in one uncontrolled pre-post study](astronomy-dataset-activity-overall-learning-gains.md) — related
+- [Students judged activity difficulty as balanced overall, but a minority found the topics hard and interest gains were higher for high-energy astrophysics than for solar system work](ssdc-outreach-difficulty-and-interest-patterns.md) — related

@@ -50,3 +50,4 @@ One-way ANOVA comparing APSS scores of engineering (N = 55) and non-engineering 
 - [Wait-list control participants scored significantly higher on both APSS questions after their own exposure to CareerWISE](careerwise-wlc-pre-post-gains.md) — related
 - [In an RCT, CareerWISE treatment participants showed a statistically better ability to apply interpersonal problem solving knowledge to an open-ended scenario than wait-list controls](careerwise-rct-scenario-application.md) — related
 - [The three groups were equivalent on EPT pre-test scores before the intervention](equivalent-pretest-scores-three-electricity-groups.md) — related
+- [No significant difference in gain scores between participants from different STEM-related educational backgrounds](no-background-difference-quantum-gain-scores.md) — related

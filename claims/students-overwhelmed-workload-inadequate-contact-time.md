@@ -50,3 +50,4 @@ Thematic analysis theme of feeling overwhelmed: students reported too much learn
 - [Learning alongside peers in a group-based simulation assessment reduced assessment-related anxiety for most students, though some still felt overwhelmed](peer-support-reduced-assessment-anxiety-mixed.md) — related
 - [The intern role is demanding and varied, with long hours and high workload causing some interns to become overwhelmed](intern-role-demanding-overwhelm-wellbeing.md) — related
 - [Anticipated contact with other international students, senior students' recommendations and heavy workload were the main reported motives for joining the course](peer-exam-prep-participation-motives.md) — related
+- [The workload and topic coverage of the first course offering were too ambitious for the average CS student, and the programming competition added undue pressure](course-workload-too-ambitious-first-offering.md) — related

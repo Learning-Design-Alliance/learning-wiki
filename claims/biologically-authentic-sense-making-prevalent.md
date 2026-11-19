@@ -78,3 +78,4 @@ Analysis of a Fick-equation exam question about ventilatory and circulatory pump
 - [Biology and physics faculty tend to hold dramatically different epistemological views of introductory knowledge, with biology favoring realistic systems and physics favoring idealized toy models.](physics-biology-epistemological-style-differences.md) — related
 - [Physics instructors and biology students have different go-to epistemological resources, creating instructional conflict](instructor-student-epistemological-stance-mismatch.md) — related
 - [Students new to physics attribute underlying mechanisms of phenomena to physics and strengthen connections as they experience more of the discipline](novice-students-attribute-mechanisms-to-physics.md) — related
+- [A student who had not made the physics/math blend valued mathematical functional dependence once it was connected to a concrete authentic example](student-valued-math-when-explained-scaling.md) — related

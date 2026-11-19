@@ -87,3 +87,4 @@ Meta-analysis of 54 experimental/quasi-experimental studies (k=141 effect sizes)
 - [Rubrics and training were the most frequently implemented presentation modes of online peer feedback](rubrics-and-training-most-frequent-presentation-modes.md) — related
 - [Instructor feedback using a structured HAPA form outperformed unstructured feedback on write-up scores](structured-hapa-feedback-form-outperforms-unstructured.md) — related
 - [Video-feedback interventions that structure annotations with an observation form show larger effects on communication skills than unstructured formats, according to a cited meta-analysis](observation-form-structures-video-annotation-effects.md) — related
+- [Peer reviewers inflate grades when they recognize the grade they are giving as final, so rubric-based training is needed for peer review to serve as assessment](peer-grade-inflation-final-assessment-video-project.md) — related

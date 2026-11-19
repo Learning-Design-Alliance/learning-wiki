@@ -41,6 +41,7 @@ The authors recommend that platform communication, reminders, and learning nudge
 
 - [Sustain tutoring participation, schedule it close to testing windows, and align content with classroom instruction to preserve gains](sustain-timing-alignment-tutoring-implementation.md)
 - [Address AI-use miscalibration through belief-level interventions rather than mere exposure or surface-level nudges](belief-level-interventions-ai-use-calibration.md)
+- [Use ESQ as an oracle to recommend nudges by optimizing state changes for a desired score improvement](esq-oracle-nudge-optimization-strategy.md)
 
 ## Examples
 -

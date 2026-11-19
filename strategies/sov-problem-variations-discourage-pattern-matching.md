@@ -47,6 +47,7 @@ The authors recommend directly targeting the separated form of the potential and
 
 - [Vary physical contexts and practice reflection skills when teaching boundary conditions](vary-contexts-and-practice-reflection-for-bcs.md)
 - [Use unmixed partial derivatives in quantum mechanics to probe students' separation of variables structure](unmixed-partial-derivatives-probe-strategy.md)
+- [Motivate the infinite-sheet-of-charge toy model with a conceptual derivation showing why the field is constant and when the model applies](conceptual-derivation-infinite-sheet-charge.md)
 
 ## Examples
 -

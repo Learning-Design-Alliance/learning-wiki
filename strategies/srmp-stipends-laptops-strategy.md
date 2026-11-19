@@ -48,6 +48,7 @@ The author recommends paying student stipends of $1,000–1,500, based on roughl
 - [Consolidate non-Pell federal aid into a new state education grant tied to five state policy commitments and student responsibility requirements](state-education-grant-debt-free-guarantee.md)
 - [Sustain broadband and device access beyond grant funds by inserting permanent upgrade clauses in ISP contracts and adopting 'device as service' procurement models at state scale](sustain-access-isp-clauses-device-as-service.md)
 - [Recruit students with essays instead of transcripts and recommendation letters to avoid biased measures](srmp-essay-recruitment-strategy.md)
+- [Offer dependent-care grants funded by a mini-grant to remove family-care barriers to meeting attendance](dependent-care-grants-meeting-attendance.md)
 
 ## Examples
 -

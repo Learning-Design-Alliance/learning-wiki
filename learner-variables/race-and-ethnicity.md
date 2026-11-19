@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 263 claims (201 show a difference, 43 mixed, 19 no difference) · 199 studies (109 associational, 38 causal, 29 review, 9 theoretical, 7 qualitative, 5 design, 2 quant-synthesis), `q1`–`q4` · 10 of 199 report an effect size · 261 claims rest on one study
+> **Evidence** · 266 claims (204 show a difference, 43 mixed, 19 no difference) · 201 studies (110 associational, 38 causal, 30 review, 9 theoretical, 7 qualitative, 5 design, 2 quant-synthesis), `q1`–`q4` · 10 of 201 report an effect size · 264 claims rest on one study
 
 ## How to read this page
 
@@ -300,6 +300,9 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [URM students earn a small share of physics degrees, with physics near the lowest fraction of the physical sciences for bachelor's degrees earned by Black/African-American and Hispanic Americans](../claims/urm-degree-representation-physics-lowest-physical-sciences.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [GRE score gaps by race, gender, and citizenship, combined with cutoff use, select against underrepresented groups in physics admissions](../claims/gre-cutoffs-select-against-underrepresented-groups.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Enrollment strategy distributions differ by gender and race/ethnicity](../claims/enrollment-strategy-differs-by-gender-and-ethnicity.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No Northern California public non-charter high school more than 70% Hispanic offered more than one type of AP physics course](../claims/no-multiple-ap-above-70-hispanic.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Number of students and %Hispanic are statistically significant predictors of physics offerings (p<0.001), with a non-significant interaction term](../claims/regression-hispanic-enrollment-predict-offerings.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Women and minority students are underrepresented in quantum-related Bachelor's disciplines, motivating early introductory QISE courses as gateways](../claims/qise-underrepresentation-early-gateway-courses.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

@@ -77,3 +77,5 @@ Qualitative interviews with experimental-group participants. Student C said "The
 - [Out-of-school science learning offers show consistently high enjoyment and appreciation across countries, ages and disciplines](out-of-school-science-offers-high-enjoyment.md) — related
 - [Most students in a redesigned project-based physics lab reported satisfaction with their team's project achievements](project-lab-majority-satisfaction.md) — related
 - [Students evaluated the CPS experience positively, most appreciating group discussion and knowledge sharing](students-evaluate-cps-positively.md) — related
+- [Student-proposed course projects turn out to be the most successful projects](student-proposed-projects-most-successful.md) — related
+- [83% of students preferred simulation-driven classroom teaching over non-simulation-driven teaching](students-prefer-simulation-driven-teaching.md) — related

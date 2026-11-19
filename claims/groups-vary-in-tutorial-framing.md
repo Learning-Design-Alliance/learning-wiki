@@ -48,3 +48,4 @@ Comparison of time spent in frames (Table 3) for two groups working on different
 - [Shifts from the blue to the green behavioral cluster correspond to shifts from framing the activity as completing the worksheet to discussing ideas](blue-green-shift-marks-framing-shift.md) — related
 - [The majority of mechanistic reasoning during tutorials occurs in the animated discussion frame](mechanistic-reasoning-majority-discussion-frame.md) — related
 - [COPUS observation documented distinct pedagogical profiles: the case-study instructor used clicker-question discussion heavily while the worksheet instructor used worksheet exercises and board writing](copus-pedagogical-profiles-two-instructors.md) — related
+- [Student COPUS profiles looked nearly the same for Tutorials, ISLE recitations, and Context-Rich Problems discussion sections, suggesting the need for a more detailed observation instrument](calep-copus-profiles-indistinguishable-need-detail.md) — related

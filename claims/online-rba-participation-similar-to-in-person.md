@@ -50,3 +50,4 @@ Comparison of participation rates across three quarters of a large-enrollment ca
 - [Online administration of upper-division RBAs raised participation rates, with 94% overall participation versus historical rates never higher than 80%](online-rba-participation-rate-increase-upper-division.md) — related
 - [Participation is higher on pretests than posttests in both administration modes](pretest-participation-exceeds-posttest-both-modes.md) — related
 - [Online LASSO-administered assessments produce participation rates and scores equivalent to in-class paper assessments when instructors use four recommended practices](lasso-online-assessments-equivalent-participation-performance.md) — a broader claim this one bears on
+- [Online, unproctored administration of the PIQL yields performance at roughly the same level as in-person administration, with small but significant differences on MCMR items](piql-online-unproctored-administration.md) — related

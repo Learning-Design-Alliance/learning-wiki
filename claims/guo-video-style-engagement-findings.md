@@ -78,3 +78,4 @@ Narrative review attributing these findings to Guo, Kim, and Rubin (2014), descr
 - [Students preferred flexible recorded online sessions over face-to-face teaching after completing SATMAS](satmas-online-preference.md) — related
 - [Students preferentially accessed lecture slides and practical videos over other repository resource types, with video uptake rising and slide uptake falling between 2009 and 2010](lecture-slides-videos-most-accessed.md) — related
 - [Guo et al. identified six basic video production styles and found engagement differences among them (as reported by the review)](guo-six-video-styles-engagement-findings.md) — possibly the same claim (merge candidate)
+- [More than 75% of remote-learning students wanted continued access to recorded lectures, review sessions, and online course materials after classes return to face-to-face format](students-want-recorded-lectures-kept.md) — related

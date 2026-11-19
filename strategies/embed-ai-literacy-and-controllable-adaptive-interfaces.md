@@ -49,6 +49,7 @@ Based on the finding that AI literacy buffers negative emotional effects, the ar
 - [Design AI learning systems for inspectable, contestable use: provenance, represented uncertainty, user control and epistemic plurality](design-contestable-ai-provenance-plurality.md)
 - [Mitigation strategy: AI-literacy curricula with fact-checking modules, comprehensive educator training, and transparent documentation of AI use](ai-literacy-fact-checking-mitigation-strategy.md)
 - [Use beneficiary framing and algorithm transparency interventions to shape educators' trust and behavioral intentions toward AI systems](beneficiary-framing-algorithm-transparency-interventions.md)
+- [Recommendations for developers and users of assistive technologies](ast-development-and-selection-recommendations.md)
 
 ## Examples
 -

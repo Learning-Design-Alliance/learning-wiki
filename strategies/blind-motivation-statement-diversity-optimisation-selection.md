@@ -42,6 +42,7 @@ To cope with oversubscription (179 applicants for 64 places in 2019) while maint
 ## Related Strategies
 
 - [Use a biographical structured interview scoring multiple dimensions including communication skills and coping with uncertainty as a selection component](biographical-structured-interview-selection-strategy.md)
+- [Diversity-conscious student selection balancing majors, institutions, gender and nationality](lssds-diversity-conscious-selection.md)
 
 ## Examples
 -

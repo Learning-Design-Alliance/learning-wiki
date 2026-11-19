@@ -48,3 +48,4 @@ Feature-importance analysis of a conditional inference random forest trained on 
 - [Institutional and departmental characteristics of applicants' undergraduate institutions were not meaningful to the admissions model](institutional-characteristics-not-meaningful-admissions-model.md) — related
 - [A two-factor model using only undergraduate GPA and physics GRE matches the full model's predictive performance](two-factor-gpa-physics-gre-model-matches-full-model.md) — possibly the same claim (merge candidate)
 - [Admissions predictions show a rough physics GRE cutoff around 700 that high GPA can partially compensate below](rough-physics-gre-cutoff-700-gpa-compensation.md) — related
+- [The physics GRE score mediates the relationship between undergraduate institution size and admission fully, and between selectivity and admission partially, while GPA mediates neither](pgre-mediates-institution-admission-relationship.md) — related

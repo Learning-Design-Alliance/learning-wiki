@@ -58,3 +58,4 @@ In one discussion section, while analyzing a mesh circuit problem, Michael reaso
 - [Sighted classmates appreciated the additional tactile, 3D graphical and oral-explanation accommodations made for a blind student](sighted-students-appreciated-tactile-aids.md) — related
 - [Students struggled to match correct physical intuition to equations in the springs-in-series problem despite extreme case reasoning](springs-series-intuition-equation-mismatch.md) — related
 - [Standard PER assessment paradigms do not capture coherence-seeking, leaving mathematical sensemaking outcomes undetected](standard-per-assessments-miss-coherence-seeking.md) — related
+- [Even unresolved sensemaking is valuable because students emerge with greater understanding of themselves and their intuitions](unresolved-sensemaking-still-valuable.md) — related

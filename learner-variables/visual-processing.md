@@ -13,7 +13,7 @@ generated:
 # Visual Processing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 79 claims (50 show a difference, 17 mixed, 12 no difference) · 49 studies (21 causal, 11 associational, 9 review, 4 quant-synthesis, 2 qualitative, 2 design), `q2`–`q4` · 9 of 49 report an effect size · 79 claims rest on one study
+> **Evidence** · 80 claims (51 show a difference, 17 mixed, 12 no difference) · 50 studies (22 causal, 11 associational, 9 review, 4 quant-synthesis, 2 qualitative, 2 design), `q2`–`q4` · 10 of 50 report an effect size · 80 claims rest on one study
 
 ## Description
 Visual processing is what the brain does with the input that comes through vision: recognising, ordering and interpreting visual information. It lets learners recognise letters, numbers and symbols, read quickly and accurately, copy and solve problems correctly, and work with diagrams, drawings and geometric shapes; visual-motor integration, the coordination of hand and eye, is part of it and supports handwriting. Learners with dyslexia or dyscalculia may process words and numbers visually in different ways, which the LVN traces in many cases to phonological difficulties that disrupt visual attention during reading. It is measured with visual discrimination and matching tasks, figure-copying and design-copying tests, block design and mental rotation tasks, and computer-based tasks that use non-linguistic symbols so language skills do not affect scores. It overlaps closely with [spatial ability](spatial-ability.md), and is distinct from eyesight itself, which [access](access.md) covers.
@@ -115,6 +115,7 @@ Visual processing is what the brain does with the input that comes through visio
 - [Integration between motor, cognitive and visual modules decreases with practice time at specific frequency bands during RAS skill acquisition](../claims/module-integration-decreases-practice-time.md) [+M] — measured as an outcome of the instruction studied
 - [Longer practice gaps reduce recruitment of motor and visual modules, so RAS learning gains deteriorate with irregular practice](../claims/practice-gap-reduces-module-recruitment.md) [+M] — measured as an outcome of the instruction studied
 - [Adding visual aids such as a best-fit line or lowess smooth increases the probability a relationship is called significant regardless of its actual significance](../claims/visual-aids-shift-significance-perception.md) [+M] — measured as an outcome of the instruction studied
+- [Higher joint visual attention during a collaborative anatomy activity is positively associated with team post-test scores](../claims/jva-ratio-positively-associated-team-post-test-scores.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **NAB Visual Discrimination Task** (Stern & White, 2003): a match-to-sample task measuring adults' visual perception and visual-spatial skill.

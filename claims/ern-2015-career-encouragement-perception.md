@@ -51,3 +51,4 @@ Finding from the 927 questionnaires (304 ex-ante and 623 ex-post) collected for 
 - [Students saw technology and STEM careers as creating concrete possibilities for their own agency](stem-careers-possibilities-agency.md) — related
 - [Water Module interviewees shifted toward viewing engineering as requiring broader knowledge and people skills, with one considering engineering as a career](water-module-interview-perception-shifts.md) — related
 - [The European Researchers' Night was judged positively by about 85% of participants, with about 98% willing to participate again](ern-high-satisfaction-repeat-intent.md) — related
+- [AHaH outreach pilots showed a qualitative increase in public participation, especially among young people](ahah-outreach-participation-increase.md) — related

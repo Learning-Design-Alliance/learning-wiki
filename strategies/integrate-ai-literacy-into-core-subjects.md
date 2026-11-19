@@ -45,6 +45,7 @@ The review recommends leveraging AI literacy to enhance learning of disciplinary
 - [Integrate computational thinking into PreK-8 core subject matter rather than relying on stand-alone clubs and classes](prek-8-ct-integration-over-stand-alone.md)
 - [Embed computational thinking across existing K-12 subject areas using everyday and data-based activities](embed-ct-across-subject-areas.md)
 - [Integrate collaborative videomaking (DST) into STEM-A and CLIL courses as an authentic, student-centred literacy activity](dst-videomaking-integration-stem-clil.md)
+- [Use student reflection on subject-related datasets and AI model behavior to address both common core standards and AI competencies](reflection-prompts-ai-integration.md)
 
 ## Examples
 -

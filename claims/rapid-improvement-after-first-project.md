@@ -49,3 +49,4 @@ Post-course grading study: 24 submissions from a possible total of 49 were regra
 - [Instructor-confirmed grading errors occurred at roughly 0.02–0.04% of rubric line items across the term](lata-instructor-confirmed-error-rate.md) — related
 - [Testing and Numerical Analysis posed the greatest difficulty, while abstract competencies were inconsistently acquired](testing-and-numerical-analysis-hardest-competencies.md) — related
 - [A computer-based cognitive representation approach significantly improved medical students' overall dual-mapping performance from the first to the last case (d = 1.17)](cognitive-representation-improves-dual-mapping-performance.md) — related
+- [Video quality improves from the first to the second submission, suggesting an iterative process with peer review contributes to learning](iterative-peer-review-improves-video-quality.md) — a narrower finding that bears on this claim

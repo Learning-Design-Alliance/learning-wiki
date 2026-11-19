@@ -65,3 +65,4 @@ Post-simulation evaluation questionnaire with 5-point Likert items and comment b
 - [Medical students highly view blueprinted feedback reports, rating feedback as valuable](high-viewing-rates-blueprinted-feedback.md) — related
 - [Students rated the simulations highly useful for their learning (average 4.0 of 5), and 80% of volunteered survey comments about the simulations were positive](student-perceptions-simulation-usefulness.md) — related
 - [Students rated the lidyef2018 program highly on a 5-point evaluation survey, with an overall score of 4.09±0.77](lidyef2018-evaluation-survey-4-09.md) — related
+- [Students rated the ML-enhanced simulation tool highly, with a mean survey rating of 4.26 out of 5](survey-mean-rating-4-26.md) — related

@@ -46,4 +46,4 @@ A web-based survey conducted in 2009 by the European TIARA consortium quantified
 
 
 ## Related Claims
--
+- [Eighteen surveyed post-secondary QISE programs span the US and Europe and could collectively educate about 500 students per year once operating](eighteen-qise-programs-snapshot.md) — related

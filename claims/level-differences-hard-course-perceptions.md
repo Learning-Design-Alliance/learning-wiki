@@ -53,3 +53,4 @@ Open-ended survey coding of hard-course attributions from 100-level (n = 155) an
 - [Students report learning the most in courses with high faculty support, interest and applicability, and unfamiliar material, with no level difference in these patterns](learned-most-faculty-support-interest.md) — related
 - [The authors propose a learning progression in which students increasingly distinguish cognitive challenge from workload as they mature through college](rigor-perception-learning-progression.md) — possibly the same claim (merge candidate)
 - [Upper-division biology lab students overwhelmingly identify the abstract or discussion as the most important part of a scientific paper](students-rate-abstract-discussion-most-important.md) — related
+- [Students characterize rigor differently by course level: workload for introductory courses, cognitive demand for upper-level courses](student-rigor-views-workload-versus-cognitive-demand.md) — related

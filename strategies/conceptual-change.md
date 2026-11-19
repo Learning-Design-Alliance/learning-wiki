@@ -65,6 +65,7 @@ Learners do not enter instruction as blank slates; intuitive misconceptions (e.g
 - [Implementing the predict-observation-explain (POE) sequence inside a virtual laboratory](poe-sequence-in-virtual-laboratory.md)
 - [Elicit student misconceptions, create situations that challenge them, and emphasize conceptual frameworks rather than isolated facts](elicit-and-challenge-misconceptions-strategy.md)
 - [Use the three steps of conceptual change as teaching starting points: confront misconceptions, provide concrete analogies, and practice testing hypotheses](mayer-conceptual-change-teaching-steps.md)
+- [Resolve intuitive inconsistencies by connecting the phenomenon to broader intuitions via analogies, blends, microscopic mechanisms, causal stories, reframing, and multiple perspectives](multiple-angles-for-intuitive-resolution.md)
 
 ## Examples
 - **Physics education research curricula** such as *Tutorials in Introductory Physics* (University of Washington) and *Physics by Inquiry* (McDermott et al.) — built entirely on eliciting common misconceptions, confronting them with experiments, and guided reconstruction.

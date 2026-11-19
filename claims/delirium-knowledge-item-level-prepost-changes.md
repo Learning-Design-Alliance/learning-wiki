@@ -50,3 +50,4 @@ Descriptive item-level analysis of the 46-item questionnaire in the same pilot s
 - [Nurses' largest knowledge gaps concern the non-punitive reporting principle and event classification rather than procedural reporting requirements](ane-knowledge-gaps-reporting-principle.md) — related
 - [Knowledge test performance rose significantly from pre- to post-VR training (46.7% to 86.7%) in one uncontrolled pre-post study](vr-chest-tube-knowledge-gains-significant.md) — related
 - [Over-reliance on trigger words drove erroneous pattern recognition on the thumb pain question, answered incorrectly by 39.5% of students](error-over-reliance-trigger-words.md) — related
+- [After the didactic sequence, correct questionnaire answers rose from 4% to 51% of total questions, while blank answers fell from 29% to 3%](final-questionnaire-gains-newton-sequence.md) — a narrower finding that bears on this claim

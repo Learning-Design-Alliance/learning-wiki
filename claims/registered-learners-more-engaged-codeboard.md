@@ -49,3 +49,4 @@ Observational log analysis of 2,126 accesses and 5,110 actions collected from a 
 - [Registered learners perform more actions and spend more time per Codeboard working session than anonymous learners](registered-learners-longer-sessions.md) — related
 - [Registered learners modify the teacher-provided base code more than anonymous learners, both in share of sessions and in Levenshtein distance](registered-learners-more-code-changes.md) — related
 - [When comparing only sessions in which the base code was actually modified, there are no significant differences between anonymous and registered learners in actions or time per session](no-difference-modifying-sessions.md) — related
+- [Asking students to solve tasks without compiling or running code counters brute-force programming and forces understanding](no-compile-tasks-counter-brute-force.md) — related

@@ -47,3 +47,4 @@ Interview problem 2 asked students why the water jet's diameter decreases as it 
 
 ## Related Claims
 - [Under a realistic estimator, remaining error originates upstream rather than from the distillation step](estimator-loss-dominates-llm-distillation-error.md) — related
+- [About half of students failed to recognize that pressure throughout a free-falling unconfined water jet equals atmospheric pressure](half-students-miss-atmospheric-pressure-free-jet.md) — related

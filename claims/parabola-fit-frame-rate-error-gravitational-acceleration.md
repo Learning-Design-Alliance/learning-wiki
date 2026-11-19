@@ -48,3 +48,4 @@ Worked example of mathematical thinking in Tracker's DataTool: a parabola fit of
 - [Student video analysis of vertical jumps yields a free-fall acceleration estimate close to the local value of g](video-jump-analysis-estimates-g-near-local-value.md) — related
 - [Tracker video analysis lets students infer kinematics quantities from real video, yielding values consistent with gravitational acceleration](tracker-video-analysis-infers-kinematics-values.md) — a broader claim this one bears on
 - [Tracker-based computer laboratory lessons produce large within-group learning gains on toss-up and free fall kinematics for secondary students](tracker-lessons-large-kinematics-gains.md) — related
+- [Not explicitly defining the system boundary leads to double-counting errors such as erroneously deriving v = √(4gh) for a falling apple](undefined-system-boundary-double-counting-error.md) — related

@@ -58,3 +58,4 @@ From the same multilevel regression model (Model 1, N = 2,225 after exclusions, 
 - [Gender, prior digital experience, training and related factors influence digital competence](digital-competence-influencing-factors.md) — related
 - [Gender and age did not affect pre-service teachers' ICT competence for educational practice](gender-age-no-effect-ict-competence.md) — related
 - [Professional well-being and pedagogical competence differ by age and teaching experience, but not by gender or training participation](demographic-differences-teacher-wellbeing-competence.md) — related
+- [Teachers adopting the first e-textbooks were experienced practice teachers, not teacher specialists](experienced-practice-teachers-adopted-first-e-textbooks.md) — related

@@ -107,6 +107,7 @@ Student voice practices work because they support learners' basic psychological 
 - [Action Planning](action_planning.md) — converts voiced needs into student-owned next steps
 - [Engage student voice through safe sharing spaces, assumption removal, active listening, co-creation, and co-designed action plans](promising-practices-engaging-student-voice.md)
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — voice routines surface the prior knowledge that activation strategies then build on
+- [Protect panelist safety when students or vulnerable-population members speak, using moderator relationships, norms statements, and anonymized questions](panelist-safety-norms-anonymized-questions.md)
 
 ## Examples
 - **Daily check-ins**: students share a feeling and a goal at the start of class; the teacher adjusts pacing or grouping based on patterns across responses.

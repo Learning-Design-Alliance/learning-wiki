@@ -71,3 +71,4 @@ Multi-group SEM moderation analysis comparing female and male students with like
 - [Gender differences in physics 2 grade and self-efficacy are mediated by perceived recognition rather than predicted directly by gender](recognition-mediates-gender-differences-physics2.md) — related
 - [End-of-physics-2 self-efficacy is directly predicted by prior self-efficacy (b = 0.41), belonging (b = 0.35), peer interaction (b = 0.21) and perceived recognition (b = 0.16)](self-efficacy-predicted-belonging-peer-interaction-recognition.md) — related
 - [Perceived recognition, peer interaction, and belonging each predict end-of-course physics self-efficacy and interest after controlling for pre-course self-efficacy and interest](learning-environment-predicts-post-motivational-beliefs.md) — related
+- [No significant gender difference in students' feelings of inclusion in any of the four introductory physics courses](no-gender-difference-inclusion-perception.md) — related

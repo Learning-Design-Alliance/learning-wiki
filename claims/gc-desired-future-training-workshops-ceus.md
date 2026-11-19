@@ -47,3 +47,4 @@ Descriptive survey item on desired future training resources among the 118-parti
 ## Related Claims
 - [Genetic counselors most commonly develop teaching skills through informal resources and rarely have formal degree-based education training](gc-teaching-training-informal-dominates.md) — related
 - [Lecturing in genetics didactic courses is the most common classroom teaching activity genetic counselors report across all student populations](gc-lecturing-most-common-classroom-activity.md) — related
+- [Most teachers reported the workshops made understanding and teaching AI seem more feasible and wanted to bring the course into their classrooms](teachers-found-teaching-ai-more-feasible.md) — related

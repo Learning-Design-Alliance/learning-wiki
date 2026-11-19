@@ -56,3 +56,4 @@ The author's descriptive analysis of ETS QGRE score distributions by race/ethnic
 - [Women rejected by an employer are 1.5 times less likely than men to apply to another job opening by the same employer](women-rejection-reapplication-gap.md) — related
 - [GRE score gaps by race, gender, and citizenship, combined with cutoff use, select against underrepresented groups in physics admissions](gre-cutoffs-select-against-underrepresented-groups.md) — related
 - [Admissions predictions show a rough physics GRE cutoff around 700 that high GPA can partially compensate below](rough-physics-gre-cutoff-700-gpa-compensation.md) — related
+- [Women and B/L/M/N applicants are admitted at higher or equal rates than male and white/Asian applicants with similar physics GRE scores, but this cannot be attributed to standing out via the test](women-blmn-higher-admission-rates-similar-scores.md) — related

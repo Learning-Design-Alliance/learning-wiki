@@ -50,3 +50,4 @@ Log analysis of clickstream data from two OLM sequences (rotational kinematics a
 - [A 35-second duration cutoff, estimated via mixture-model fitting of first-attempt durations, separates Brief from Normal attempts](brief-attempt-35-second-cutoff-mixture-model.md) — related
 - [Students with 0-1 brief attempts significantly outperformed the 2-3 and 4 brief-attempt groups on Pre-stage attempts of the Example 1 module in both sequences](zero-one-ba-outperformed-example1-pre.md) — related
 - [The on-ramp module's transfer benefit comes mainly from students who passed it before studying, supporting a reminder mechanism rather than skill development](on-ramp-reminder-mechanism.md) — related
+- [The proportion of Short First Attempts (under 15 seconds) on each OLM increased significantly more rapidly after campus closure in Spring 2020, but a similar, lesser trend appeared in Fall 2019](short-first-attempts-slope-increase-post-closure.md) — related

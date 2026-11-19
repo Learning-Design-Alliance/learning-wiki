@@ -50,3 +50,4 @@ Qualitative analysis of saved sample constellations created during the activity 
 - [A role-play constellation activity dramatically reduced the misconception that the Pole Star is the brightest star in the sky](constellation-activity-reduces-pole-star-brightness-misconception.md) — related
 - [The activity shifted pupils' justifications for why constellation stories change toward cultural change rather than star locations](constellation-activity-shifts-cultural-justification-q6.md) — related
 - [The activity failed to convey the three-dimensional structure of constellations and created a new misunderstanding about the distance over which constellation shapes change](constellation-activity-fails-3d-structure.md) — related
+- [Uncritically centering Greek and Arabic constellations in planetariums disconnects audiences from their local night sky](eurocentric-constellations-disconnect-audiences.md) — related

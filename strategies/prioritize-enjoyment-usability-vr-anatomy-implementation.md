@@ -55,6 +55,7 @@ The authors recommend that educators emphasize enjoyment and ease of use when in
 - [Provide VR user support, adjustable display settings, and built-in breaks when running virtual TBL sessions](vr-tbl-training-support-breaks.md)
 - [Integrate VR simulation design with prebriefing, intuitive interfaces, adaptive difficulty, scenario variability, ergonomic hardware, and structured debriefing](vr-design-balance-usability-load-debriefing-strategy.md)
 - [Address technical infrastructure and user comfort (Wi-Fi reliability, cybersickness) when implementing holographic simulation education](holopatient-implementation-technical-infrastructure-comfort.md)
+- [Pre-semester training sessions plus continuous on-demand technical support throughout the semester](training-and-continuous-technical-support-blended-teaching.md)
 
 ## Examples
 -

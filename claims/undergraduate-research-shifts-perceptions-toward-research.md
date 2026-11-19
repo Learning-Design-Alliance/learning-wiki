@@ -51,3 +51,4 @@ Longitudinal case analysis of three physics majors who undertook undergraduate r
 - [Students' perceptions of physicists relate to their goal orientation (mastery versus performance)](physicist-perceptions-goal-orientation-relationship.md) — related
 - [Students' perceptions of being a physicist cluster around research, mindset differences, and exclusivity of accomplishments](three-themes-research-mindset-exclusivity.md) — a broader claim this one bears on
 - [Students' perceptions of physicists differ in the importance they place on doing research as defining a physicist](research-importance-varies-perceptions-physicist.md) — related
+- [The real shift toward identifying as a legitimate theoretical physicist appears at PhD and postdoctoral level, marked by strengthening social relations](phd-postdoc-social-relations-strengthening.md) — related

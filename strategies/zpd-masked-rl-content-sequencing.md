@@ -40,6 +40,7 @@ The adaptive training component treats content sequencing as a sequential decisi
 
 - [Scaffolded Difficulty Progression](scaffolded-difficulty-progression.md)
 - [Scaffolded Questioning](scaffolded-questioning.md)
+- [Use ESQ as an oracle to recommend nudges by optimizing state changes for a desired score improvement](esq-oracle-nudge-optimization-strategy.md)
 
 ## Examples
 -

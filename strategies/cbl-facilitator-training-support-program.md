@@ -56,6 +56,7 @@ Before implementation, facilitators underwent a two-week training program coveri
 - [Provide continuous tutor training in PBL case facilitation, assessment, and evaluation](continuous-pbl-tutor-training-strategy.md)
 - [Specialized facilitator training for implementing RCDP-based simulation](rcdp-facilitator-training-strategy.md)
 - [Enhance systematic guiding and training of students throughout the PBL course, with attention to critical thinking dispositions](systematic-guiding-training-pbl-course.md)
+- [Pre-semester training sessions plus continuous on-demand technical support throughout the semester](training-and-continuous-technical-support-blended-teaching.md)
 
 ## Examples
 -

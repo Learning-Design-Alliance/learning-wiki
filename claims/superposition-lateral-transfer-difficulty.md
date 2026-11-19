@@ -74,3 +74,4 @@ On a written infinite-square-well question about whether all allowed wave functi
 - [Student understanding of wave-particle duality falls into three clusters ranging from classical to quasiquantum description](three-clusters-wave-particle-duality-understanding.md) — related
 - [Students misapply object-based resources such as part-for-whole and dying away when reasoning about wave propagation and superposition](object-resources-misapplied-to-waves.md) — related
 - [Students attributed Time Evolution to Physical Systems themselves rather than to states, and only one student evidenced the role of initial conditions in both Classical and Quantum Mechanics](time-evolution-attributed-to-system.md) — related
+- [Highlighting the differences between the classical wave equation and the Schrödinger equation helps students grasp the meaning of the quantum wavefunction](classical-quantum-wave-differences-wavefunction-meaning.md) — related

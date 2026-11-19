@@ -52,3 +52,4 @@ First-ever district-wide application-rate analysis enabled by centralized GoCPS 
 - [Demand for RSF-supported schools was generally strong, with most Cohort 1 and 2 schools oversubscribed by 2007-08](rsf-schools-oversubscribed-strong-demand.md) — related
 - [CTE programs of study vary across CPS high schools and are more common on the south and west sides](cte-programs-vary-and-cluster-south-west-sides.md) — related
 - [CPS concentrated CCL resources in a subset of schools with numerous CTE programs of study](ccl-resources-concentrated-in-strong-cte-schools.md) — related
+- [The LSSDS program shows high demand (oversubscription factor 5-8) and positive testimony from alumni and faculty.](lssds-oversubscription-factor-5-8-testimony.md) — related

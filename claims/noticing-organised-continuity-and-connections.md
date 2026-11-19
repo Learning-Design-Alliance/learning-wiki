@@ -49,3 +49,4 @@ Qualitative coding and transition tabulation of 304 noticing statements from 17 
 - [The dominant within-dimension noticing transition varied by week: attending in Week 1, interpreting in Week 2, and shaping in Week 3](dominant-transitions-vary-by-week.md) — a narrower finding that bears on this claim
 - [Preservice teachers' interpreting and shaping dimensions show the strongest co-occurrence across all three weeks of AI-based simulation interactions](interpreting-shaping-strongest-co-occurrence-ai-simulations.md) — a narrower finding that bears on this claim
 - [Progress in evidence-based solution development is not always linear; evidence determines phase movement](evidence-determines-nonlinear-phase-movement.md) — related
+- [Teachers made connections between AI and core subjects in three main ways: relating AI to the subject, relating subject content to AI, and noticing overlapping concepts](three-ways-connecting-ai-core-subjects.md) — related

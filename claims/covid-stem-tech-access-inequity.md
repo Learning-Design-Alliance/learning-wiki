@@ -111,3 +111,5 @@ Same national student survey (n = 1,008, weighted sample 23% Hispanic, 15% Black
 - [LIC-LMIC participants had substantially less access to prior ultrasound training than HIC-UMIC participants (37.5% vs 62.1% course attendance, p = 0.002)](ultrasound-training-access-gap-income.md) — related
 - [Radio broadcasts have tremendous penetration among general publics without access to the internet in Latin America and other developing regions](radio-penetration-reaches-audiences-without-internet.md) — related
 - [Free or low-cost robotic telescope access equalises instrumentation access across socioeconomic and physical barriers](robotic-telescope-equity-access.md) — related
+- [First-generation students reported every listed pandemic stress cause more often than non-first-generation students except quality of education, and were less likely to have a private study space (52% vs 74%)](first-generation-students-remote-stress-and-space.md) — related
+- [Home computer availability in the U.S. scales with household income while smartphone access is nearly uniform across demographic groups](smartphone-access-uniform-home-computers-income-scaled.md) — related

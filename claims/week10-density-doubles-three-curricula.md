@@ -48,3 +48,6 @@ Descriptive statistics (Table II) for the four class networks at weeks 1 and 10,
 - [Link reciprocity increases from early to late semester in all four curricula, with ISLE rising from 50% to 90%](reciprocity-increases-early-to-late-semester.md) — related
 - [Only one large lecture section showed a statistically significant pre-post increase in network density, with connections nearly doubling](section-a-significant-density-increase.md) — related
 - [Classroom interaction networks shift over the semester from numerous seatmate ties to fewer, more selective cross-group connections](network-selection-effect-over-semester.md) — related
+- [Student COPUS profiles looked nearly the same for Tutorials, ISLE recitations, and Context-Rich Problems discussion sections, suggesting the need for a more detailed observation instrument](calep-copus-profiles-indistinguishable-need-detail.md) — related
+- [Modeling Instruction classroom network density more than doubled over the ten-week term](calep-modeling-instruction-network-density-doubled.md) — related
+- [Modeling Instruction and SCALE-UP developed distinct network structures reflecting their curricula](calep-modeling-scaleup-distinct-network-structures.md) — related

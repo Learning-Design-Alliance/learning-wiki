@@ -74,3 +74,4 @@ In the same video analysis demonstration, the parabolic fit parameter for the y 
 - [Graph-recall and gradient-interpretation items (Q1-6) improved substantially after Tracker lessons, with gains of 16 to 33 percentage points](tracker-q1-6-positive-gains.md) — related
 - [Constructing timelike geodesics on a spacetime sector model shows that free-fall geodesics produce the expected up-and-down motion in space](sector-model-timelike-geodesics-free-fall.md) — related
 - [In-app automated data analysis shifts an experiment's instructional focus, e.g. from teaching data analysis to teaching basic kinematics](in-app-analysis-shifts-experiment-focus.md) — related
+- [Smartphone experiments may improve students' understanding of acceleration more than traditional cookbook and real-time experiments, especially for critical deductive thinking](smartphone-experiments-improve-acceleration-understanding.md) — related

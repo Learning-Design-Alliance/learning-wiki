@@ -59,3 +59,4 @@ Application of the MCSA pipeline (optimal matching plus Ward's clustering) to 24
 - [Unsupervised clustering of individual learning curves identifies seven distinct learner profiles whose proportions shift with target geometry](seven-learner-profiles-soft-dtw-clustering.md) — related
 - [Module analysis of FCI responses identified 13 student subgroups, with three normative groups differing in accuracy (77%, 73%, 53%) and in conceptual coherence](module-analysis-13-student-groups-fci.md) — related
 - [A Simulated Student architecture detects and avoids three situations that decrease the benefits of learning in collaboration](simulated-student-detects-negative-collaboration-situations.md) — related
+- [K-means cluster analysis of 66 research-based physics activities from eleven curricula yields three design clusters](three-clusters-physics-activities-kmeans.md) — related

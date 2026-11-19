@@ -88,3 +88,4 @@ The report's introduction describes district graduation trends: "from 2011 to 20
 - [CPS high school graduation rates rose from 57 percent to 74 percent between 2006 and 2016](cps-hs-graduation-rose-57-to-74.md) — related
 - [CPS's four-year high school graduation rate reached a record 85.0% in 2023, up about one percentage point from 84.1% in 2022](cps-2023-graduation-rate-record-85.md) — related
 - [Chicago graduation rates improved 17 percentage points (57 to 74 percent) between 2006 and 2015 while the ACT average rose from 17.6 to 18.5](cps-graduation-rate-57-to-74-act-rose.md) — related
+- [After a decade of inclusive practices, women's share of section meeting attendees rose from 17% to 33%](women-attendee-share-17-to-33-percent-ncnaapt.md) — related

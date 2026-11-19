@@ -70,3 +70,4 @@ Between-subject experiment (N = 36) on Earth's time zones, reusing data from Seu
 - [The imagination effect (cognitive rehearsal of example procedures) enhances learning only for learners with prior knowledge](imagination-effect-expertise-reversal.md) — related
 - [Imagining worked examples benefits learners with adequate prior knowledge but harms performance for low-knowledge learners](imagined-worked-examples-prior-knowledge.md) — related
 - [Practitioner inquiry fostered learning about how to learn from practice](practitioner-inquiry-learning-to-learn.md) — related
+- [Germane cognitive load did not differ significantly between the exploRNN and text groups](no-gcl-difference-explornn-text.md) — related

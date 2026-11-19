@@ -40,6 +40,7 @@ The chapter opens with a familiar object, a soccer ball made of pentagons and he
 
 - [Anchor spherical-geometry calculations in real-world cases such as the New York–Paris flight path and the Bermuda Triangle](real-world-spherical-geometry-anchor-strategy.md)
 - [Close a geometry lesson by having the learner apply the new formula back to the object that opened it](return-to-opening-object-closure-strategy.md)
+- [Introduce integral calculus through a practical everyday problem — fairly slicing a watermelon — to motivate students and counter dropout from scientific curricula](everyday-practical-problem-introduction-calculus.md)
 
 ## Examples
 -

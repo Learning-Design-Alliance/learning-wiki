@@ -80,3 +80,4 @@ Thematic analysis of 11 interview transcripts under the ITEM immersion domain. P
 - [Participants experienced the virtual patient as supporting learner-centered education, with emotional engagement (eustress) and divided reactions to game-like elements](vp-mooc-learner-centered-eustress-game.md) — related
 - [Students found the real-patient ward setting highly realistic, with filming itself only a minor behavioural confounder](ward-setting-realism-video-supervision.md) — related
 - [Students accept virtual experiments for hands-on activities when the interfaces approximate real instruments, the data are genuinely messy, differences from realistic portrayal are clarified, and the tool is flagged as training](ve-acceptance-messy-data.md) — related
+- [Realistic virtual environments advance motivational and attitudinal objectives but have not yet proven to enhance conceptual understanding of SRT](realistic-virtual-environments-motivational.md) — related

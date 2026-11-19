@@ -56,6 +56,7 @@ The article recommends that educators using VR resources on sensitive topics pre
 - [Implement VR in clinical education as a complement with robust infrastructure, faculty training, and short adaptive sessions](vr-complementary-implementation-strategy-clinical-education.md)
 - [Prioritize enjoyment and usability when selecting and implementing VR anatomy software, including pre-session practice and technical support](prioritize-enjoyment-usability-vr-anatomy-implementation.md)
 - [Ensure participant familiarity with VR before deploying it for instruction](ensure-vr-familiarity-before-instruction.md)
+- [Pre-semester training sessions plus continuous on-demand technical support throughout the semester](training-and-continuous-technical-support-blended-teaching.md)
 
 ## Examples
 -

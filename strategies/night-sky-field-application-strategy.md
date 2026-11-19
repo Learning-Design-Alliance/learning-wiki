@@ -38,7 +38,8 @@ A supplemental wrap-up activity in which students, at home or as a class event, 
 - identifying constellations and circumpolar ranges in the actual night sky
 
 ## Related Strategies
-- 
+
+- [Embodied orientation lessons that mark compass directions in the room and align internal and external compasses](which-way-is-north-embodied-orientation.md)
 
 ## Examples
 -

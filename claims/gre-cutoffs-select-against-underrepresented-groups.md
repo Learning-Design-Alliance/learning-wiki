@@ -56,3 +56,4 @@ Descriptive analysis of ETS test-taker data (test years 2009-2015) showing demog
 - [The Fisk-Vanderbilt master's-to-PhD bridge program, using a 30-minute interview instead of a GRE cutoff, achieved over 80% retention of women and minorities toward the PhD](fisk-vanderbilt-bridge-program-retention.md) — related
 - [Traditional graduate admissions measures, particularly the GRE and Physics GRE, disproportionately exclude underrepresented groups and are poor predictors of PhD completion](gre-pgre-exclude-urm-poor-predictors.md) — possibly the same claim (merge candidate)
 - [GRE V and GRE Q scores do not predict STEM PhD completion for women](gre-scores-no-prediction-women-stem-phd.md) — related
+- [Women and B/L/M/N applicants are admitted at higher or equal rates than male and white/Asian applicants with similar physics GRE scores, but this cannot be attributed to standing out via the test](women-blmn-higher-admission-rates-similar-scores.md) — related

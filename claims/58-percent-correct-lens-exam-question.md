@@ -47,3 +47,4 @@ Summative assessment: a conceptual question on the course final exam asked what 
 ## Related Claims
 - [Despite school ray-optics training, most students misconceive lens image formation, imagining the lens as a valve letting light through](lens-image-formation-valve-misconception.md) — related
 - [The Lens Inquiry activity was successful in emphasizing communication skills and giving students opportunities to engage in the process of science](lens-inquiry-built-communication-skills.md) — related
+- [A converging-lens simulation activity produced no improvement in optics content performance, likely because the task did not match the assessment](optics-simulation-no-improvement-mismatch.md) — related

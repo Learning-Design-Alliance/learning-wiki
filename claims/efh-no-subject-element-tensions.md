@@ -52,3 +52,4 @@ Null finding from the case-study disturbance analysis: the author states "I did 
 - [Tool tensions around the simulation's representations persisted through Days 1 and 2, and by Day 3 students showed signs of a consensus that the field-line representations were helpful](efh-tool-tensions-representations-consensus.md) — related
 - [Students engaging with elearning behave as passive recipients, with completion of sections not equating to active learning](elearning-passivity-theme-medical-students.md) — related
 - [Effective online teaching requires viewing learners as active, capable, and independent individuals rather than passive recipients](independent-learners-online-teaching-perspective.md) — related
+- [Guided inquiry with electric field simulations significantly improves AP physics students' electric field content performance](guided-inquiry-simulation-electric-fields-gain.md) — related

@@ -51,3 +51,4 @@ Thematic analysis of interviews with 23 prenatal clinicians found that "particip
 - [Forums were perceived as serial monologues with mandatory participation and were rarely a preferred tool](forums-serial-monologues-mandatory-participation.md) — related
 - [Prenatal clinicians identify lack of protected time and competing priorities as barriers to TIC training](tic-training-barriers-time-prenatal.md) — related
 - [Prenatal clinicians recommend system-wide TIC training targeting the whole workforce including leadership](tic-system-wide-training-recommendation.md) — related
+- [Students prefer working together live on exercise sheets over handouts of solutions, and perceive forums as ineffective for recitations](live-problem-solving-preferred-over-handouts.md) — related

@@ -47,3 +47,5 @@ Interview problem 3 presented a fast vertical flow with strongly curved streamli
 
 ## Related Claims
 - [Many students treat the pressure of a moving fluid as equal to the hydrostatic pressure of a fluid at rest](moving-fluid-pressure-equals-hydrostatic.md) — related
+- [Four of five students failed to recognize that pressure must increase with distance from an obstacle to provide the net centripetal force on a fluid element](four-fifths-miss-pressure-increase-away-obstacle.md) — reports the opposite
+- [An important set of students maintains the everyday prior idea that greater fluid velocity implies greater pressure, which competes with the taught inverse relation](students-maintain-higher-pressure-higher-velocity-prior-idea.md) — related

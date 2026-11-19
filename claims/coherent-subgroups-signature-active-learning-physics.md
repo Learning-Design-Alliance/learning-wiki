@@ -48,3 +48,4 @@ CONCOR positional analysis of week-1 and week-10 network surveys in four introdu
 - [Late-semester SCALE-UP and ISLE blockmodels exactly match the cohesive subgroups ideal type, while most other networks only approximate it](cohesive-subgroups-ideal-type-scaleup-isle.md) — a narrower finding that bears on this claim
 - [Classroom interaction networks shift over the semester from numerous seatmate ties to fewer, more selective cross-group connections](network-selection-effect-over-semester.md) — related
 - [Link reciprocity increases from early to late semester in all four curricula, with ISLE rising from 50% to 90%](reciprocity-increases-early-to-late-semester.md) — related
+- [ISLE lab networks were dominated by assigned lab groups with little cross-group interaction](calep-isle-lab-group-network-dominance.md) — a narrower finding that bears on this claim

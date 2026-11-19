@@ -54,3 +54,4 @@ Qualitative analysis of written exam responses to the ATP reconciliation essay (
 - [In the first year of the course, around half of the analyzed students met or exceeded expectations on the ATP reconciliation essay question.](half-students-met-expectations-atp-essay-rubric.md) — related
 - [Interviewed students spontaneously sought interdisciplinary coherence beyond course prompts, using physics to reconcile contradictions between chemistry and biology.](interview-students-spontaneous-interdisciplinary-coherence.md) — a broader claim this one bears on
 - [Usova held that interdisciplinary teaching influences scientific concept formation](interdisciplinary-teaching-influences-concept-formation.md) — related
+- [Threading estimation throughout a physics course leads a significant fraction of students to report it as valuable beyond the class](estimation-thread-significant-fraction-long-term-value.md) — related

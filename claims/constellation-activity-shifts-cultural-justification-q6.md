@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-16
 evidence_strength: moderate
-newest_evidence: 2009
+newest_evidence: 2010
 sources:
-  - id: brown-2009
+  - id: brown-2010
     resource: "https://doi.org/10.48550/arXiv.1009.5289"
-    title: "Brown, D. and Neale, N. (2009). A Global Citizen of the Skies. [doi:10.48550/arXiv.1009.5289](https://doi.org/10.48550/arXiv.1009.5289)"
+    title: "Brown, D. and Neale, N. (2010). A Global Citizen of the Skies. Originally published 2009. [doi:10.48550/arXiv.1009.5289](https://doi.org/10.48550/arXiv.1009.5289)"
     author: Brown, D. and Neale, N.
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` After the activity, the frequency of the response justifying changed constellation stories by a change in culture (answer 4) increased to 38%, though the most frequent answer (43%) remained that stories stay the same because stars do not move. [→ Brown 2009](#brown-2009)
+`q2 i?` After the activity, the frequency of the response justifying changed constellation stories by a change in culture (answer 4) increased to 38%, though the most frequent answer (43%) remained that stories stay the same because stars do not move. [→ Brown 2010](#brown-2010)
 
 ## Evidence
 
-### Brown 2009
+### Brown 2010
 
-Brown, D. and Neale, N. (2009). A Global Citizen of the Skies. [doi:10.48550/arXiv.1009.5289](https://doi.org/10.48550/arXiv.1009.5289)
+Brown, D. and Neale, N. (2010). A Global Citizen of the Skies. Originally published 2009. [doi:10.48550/arXiv.1009.5289](https://doi.org/10.48550/arXiv.1009.5289)
 
 `q2 · i?` · `design · r2`
 
@@ -50,3 +50,4 @@ Pre/post questionnaire distributions for Q6 shown in Fig. 5 for the same partici
 - [A role-play constellation activity dramatically reduced the misconception that the Pole Star is the brightest star in the sky](constellation-activity-reduces-pole-star-brightness-misconception.md) — related
 - [Role-play cultural perspectives produced visibly different constellations from the same stars, showing cultural background shapes constellation design](role-play-constellations-reflect-cultural-background.md) — related
 - [Teachers proactively made pedagogical and cultural adjustments to the CAL curriculum, which the authors link to a shift toward a proactive, confident position](teacher-curriculum-adjustments-foster-ownership.md) — related
+- [Uncritically centering Greek and Arabic constellations in planetariums disconnects audiences from their local night sky](eurocentric-constellations-disconnect-audiences.md) — related

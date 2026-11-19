@@ -52,3 +52,4 @@ Controlled experiment in which 27 student dyads (N=54) interacted with a Tangibl
 - [Collaboration quality relates to the ratio of group to individual activity in gaze-supported dyads](collaboration-quality-ratio-group-individual-activity.md) — related
 - [Unbalanced participation in dyads is negatively correlated with learning gains](unbalanced-participation-negative-learning-gains.md) — related
 - [Proactive feedback produces significant post-intervention increases in Joint Mental Effort of dyads](propact-feedback-increases-jme-post-intervention.md) — related
+- [Higher joint visual attention during a collaborative anatomy activity is positively associated with team post-test scores](jva-ratio-positively-associated-team-post-test-scores.md) — possibly the same claim (merge candidate)

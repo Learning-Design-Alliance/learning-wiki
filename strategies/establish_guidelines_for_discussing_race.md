@@ -62,6 +62,7 @@ Race talk triggers identity threat and emotional arousal that can shut down prod
 - [Address Biases in the Use of Language and Symbols](address_biases_in_the_use_of_language_and_symbols.md) — a content-level complement to the procedural norms
 - [Integrate race throughout educational psychology courses rather than treating diversity as an afterthought](integrate-race-throughout-edpsych-courses.md)
 - [Four facilitation strategies for safe intergroup discussions](facilitation-strategies-intergroup-discussions.md)
+- [Protect panelist safety when students or vulnerable-population members speak, using moderator relationships, norms statements, and anonymized questions](panelist-safety-norms-anonymized-questions.md)
 
 ## Examples
 - **Courageous Conversations About Race (Singleton)** — a widely used professional development framework whose four agreements and six conditions structure race dialogue in school districts across the US ([Pacific Educational Group](https://www.pacificeducationalgroup.com)).

@@ -8,12 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
-newest_evidence: 2025
-recheck_by: 2028
+newest_evidence: 2026
+recheck_by: 2029
 sources:
-  - id: parker-2025
+  - id: parker-2026
     resource: "https://doi.org/10.48550/arxiv.2605.00294"
-    title: "Parker, M. J., & Zavala-Cerna, M. G. (2025). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2605.00294 [doi:10.48550/arxiv.2605.00294](https://doi.org/10.48550/arxiv.2605.00294)"
+    title: "Parker, M. J., & Zavala-Cerna, M. G. (2026). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2605.00294 Originally published 2025. [doi:10.48550/arxiv.2605.00294](https://doi.org/10.48550/arxiv.2605.00294)"
     author: "Parker, M. J., & Zavala-Cerna, M. G."
     q: 2
     i: "?"
@@ -25,16 +25,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
-`q2 i?` GPT-4 analysis combining quiz questions, most common incorrect answers, and lecture transcripts produces misconception hypotheses linked to how material was taught. [→ Parker 2025](#parker-2025)
+`q2 i?` GPT-4 analysis combining quiz questions, most common incorrect answers, and lecture transcripts produces misconception hypotheses linked to how material was taught. [→ Parker 2026](#parker-2026)
 
 ## Evidence
 
-### Parker 2025
+### Parker 2026
 
-Parker, M. J., & Zavala-Cerna, M. G. (2025). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2605.00294 [doi:10.48550/arxiv.2605.00294](https://doi.org/10.48550/arxiv.2605.00294)
+Parker, M. J., & Zavala-Cerna, M. G. (2026). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2605.00294 Originally published 2025. [doi:10.48550/arxiv.2605.00294](https://doi.org/10.48550/arxiv.2605.00294)
 
 `q2 · i?` · `design · r2`
 
@@ -56,3 +56,4 @@ Qualitative demonstration using an Immunology checkpoint blockade example and a 
 - [Error patterns in VR trace data associated with misconceptions and confusion are identified via visualization with human expert aid](trace-error-patterns-misconceptions-confusion-vrts.md) — related
 - [Students in all three instructional groups hold the misconception that no ions pass through the salt bridge to maintain load balance in a working electrochemical cell](salt-bridge-ion-passage-misconception-all-groups.md) — related
 - [GBC gives instructors a quantitative report of common student errors, revealing class-wide misconceptions beyond per-problem averages](gbc-quantitative-error-report.md) — a narrower finding that bears on this claim
+- [Rapid ML surrogate experiments let students observe that increasing salt concentration accumulates ions near the interface](salt-concentration-increases-interface-ion-accumulation.md) — related

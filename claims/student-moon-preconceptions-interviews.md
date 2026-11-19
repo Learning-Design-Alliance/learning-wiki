@@ -48,3 +48,4 @@ Development-phase qualitative analysis of prior-to-instruction semi-structured o
 ## Related Claims
 - [Students commonly misplace stars within the solar system and misinterpret parallax and stellar distances, including trainee science teachers](stars-placed-within-solar-system-misconception.md) — related
 - [Working with real data helps students understand the evidence behind scientific world views and discard mistaken preconceptions](real-data-helps-discarding-preconceptions.md) — related
+- [Astronomy misconceptions are numerous and persistent, yet student preconceptions can serve as resources for cognitive growth](astronomy-misconceptions-persistent-yet-productive.md) — a broader claim this one bears on

@@ -76,3 +76,4 @@ Narrative account of the Klepsch et al. (2017) validation using informed and na�
 - [Currently available multidimensional cognitive load questionnaires show psychometric limitations, including missing manipulation-check experiments and too few items per factor](psychometric-limitations-existing-clt-questionnaires.md) — a broader claim this one bears on
 - [Subjective difficulty ratings differentiate high- from low-germane-load students but not redundant from non-redundant conditions](difficulty-rating-sensitive-to-germane-load.md) — related
 - [No group differences in intrinsic or germane cognitive load between video-analysis and traditional conditions](no-group-differences-icl-gcl.md) — related
+- [Germane cognitive load did not differ significantly between the exploRNN and text groups](no-gcl-difference-explornn-text.md) — related

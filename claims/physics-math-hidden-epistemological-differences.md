@@ -53,3 +53,4 @@ Illustrative examples from a calculus final exam and standard texts: a trout-den
 - [A changed meaning of equation correctness and derivation method is discussed and its effect on tutor effectiveness evaluated](changed-correctness-method-evaluated.md) — related
 - [Standard textbook presentation of SHM as a differential equation is alien to most first-course students](shm-differential-equation-alien-to-introductory-students.md) — a narrower finding that bears on this claim
 - [Students who succeeded in calculus can still be unable to approach multi-parameter physics equations](multi-parameter-equations-difficulty.md) — a narrower finding that bears on this claim
+- [Students' characteristic equation errors (e.g., replacing an average by a difference) signal an epistemological rather than knowledge failure](equation-errors-epistemological-not-knowledge.md) — a narrower finding that bears on this claim

@@ -53,3 +53,4 @@ ANOVA (SPSS 26.0) comparing non-anxiety (N = 144) and anxiety (N = 368) groups o
 - [Older adults rate the blended LMS workshop positively on ease of use, perceived usefulness, attitude toward using, and intention to use](tam-validation-blended-workshop-older-adults.md) — related
 - [General anxiety reinforces PU-related effects and attenuates PEOU-related effects on e-learning intention](anxiety-reinforces-pu-attenuates-peou.md) — related
 - [The TAM model explains e-learning continuance intention among students with general anxiety, with all hypotheses supported](tam-applicable-anxiety-group.md) — related
+- [Students' attitudes towards online learning are negatively correlated with their perceived learning achievement during COVID-19](attitudes-toward-online-learning-negatively-correlated-achievement.md) — related

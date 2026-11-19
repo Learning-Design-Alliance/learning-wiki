@@ -47,3 +47,4 @@ Online randomized four-group experiment with 114 dental students assigned via Zo
 ## Related Claims
 - [Effect of instructor intervention depends on pre-discussion activity: worksheet helped lecture groups but was associated with lower scores in self-study groups](intervention-effect-depends-on-pre-activity.md) — reports the opposite
 - [Self-study-discussion outperforms lecture-discussion in both online and offline settings, with no significant online-offline differences within matched conditions](self-study-discussion-beats-lecture-online-and-offline.md) — related
+- [Discussion-based active learning produced significantly higher transfer-question performance than lecture-based passive learning](discussion-beats-lecture-transfer-items.md) — related

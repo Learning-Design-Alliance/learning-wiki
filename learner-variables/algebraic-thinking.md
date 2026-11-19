@@ -13,7 +13,7 @@ generated:
 # Algebraic Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 113 claims (70 show a difference, 27 mixed, 16 no difference) · 75 studies (44 causal, 9 associational, 9 qualitative, 5 review, 5 theoretical, 2 design, 1 quant-synthesis), `q1`–`q4` · 15 of 75 report an effect size · 109 claims rest on one study
+> **Evidence** · 114 claims (71 show a difference, 27 mixed, 16 no difference) · 76 studies (44 causal, 9 associational, 9 qualitative, 6 theoretical, 5 review, 2 design, 1 quant-synthesis), `q1`–`q4` · 15 of 76 report an effect size · 110 claims rest on one study
 
 ## Description
 Algebraic thinking is the ability to generalise, represent, justify and reason with abstract mathematical structures and relationships: noticing that a pattern holds for all numbers, writing it with symbols, and arguing why it holds. The Learner Variability Navigator stresses that it is not only a secondary-school subject: in the primary grades it deepens understanding of arithmetic, for example by making the properties of operations explicit, and it helps students connect separate parts of their early mathematics. It is assessed with written early-algebra assessments and with researcher-designed measures that separate conceptual knowledge, procedural knowledge and flexibility in solving equations.
@@ -150,6 +150,7 @@ LVN follows it from grade 3 to grade 10. It links forward to [geometric reasonin
 - [Many introductory students find symbolic problems more difficult than numerical ones and prefer plugging in numbers early rather than solving symbolically first](../claims/intro-students-symbolic-difficulty-early-numbers.md) [~M] — learners who differ on it differ in outcomes
 - [Both case-study students distinguished sign meanings and had sound algebra, so their struggles stemmed from the physical meaning embodied in signs rather than missing mathematical tools](../claims/struggles-not-from-missing-math-tools.md) [-M] — learners who differ on it differ in outcomes
 - [Reasoning with quantities represented as general variables destabilizes student reasoning, while invariant reasoning remains a productive resource](../claims/general-variables-destabilize-reasoning-invariant-resource.md) [~W] — learners who differ on it differ in outcomes
+- [Students unfamiliar with many-symbol equations may freeze and try to reduce symbols to numbers rather than parse them as physical quantities](../claims/students-freeze-with-many-symbol-equations.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Early algebra assessment** (Blanton et al., 2015): Written assessment to measure students' understanding of core algebraic concepts and practices.

@@ -47,3 +47,4 @@ The commentary's methodological argument, illustrated with the LeTUS program eva
 ## Related Claims
 - [Inquiry environments are hard to scale because they are ambitious learning activity systems requiring changes in roles, participation, and system coherence](inquiry-environments-ambitious-systems-hard-to-scale.md) — related
 - [Coherence is theorized to assist teacher effectiveness through coordinated professional development and collaborative work on clear goals](coherence-theory-teacher-effectiveness.md) — related
+- [Best-evidence syntheses find inquiry-oriented approaches with teacher professional development most effective in primary science, and professional development, technology and support most effective in secondary science](best-evidence-synthesis-effective-school-science-programs.md) — related

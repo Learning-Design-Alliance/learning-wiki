@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: weak
-newest_evidence: 2015
+newest_evidence: 2014
 sources:
-  - id: sissi-l-li-2015
+  - id: sissi-l-li-2014
     resource: "https://doi.org/10.48550/arXiv.1411.5738"
-    title: "Sissi L. Li, Gabriela Serna, Jocelyn S. Read, Joshua R. Smith, Heather Chilton, Michael E. Loverude. (2015). A collaboration to support novice instructors in research-based astronomy teaching. [doi:10.48550/arXiv.1411.5738](https://doi.org/10.48550/arXiv.1411.5738)"
+    title: "Sissi L. Li, Gabriela Serna, Jocelyn S. Read, Joshua R. Smith, Heather Chilton, Michael E. Loverude. (2014). A collaboration to support novice instructors in research-based astronomy teaching. [doi:10.48550/arXiv.1411.5738](https://doi.org/10.48550/arXiv.1411.5738)"
     author: Sissi L. Li, Gabriela Serna, Jocelyn S. Read, Joshua R. Smith, Heather Chilton, Michael E. Loverude
     q: 1
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q1 i?` About a third of university faculty who tried implementing RBIS stopped after one attempt, per research the article cites. [→ Sissi L. Li 2015](#sissi-l-li-2015)
+`q1 i?` About a third of university faculty who tried implementing RBIS stopped after one attempt, per research the article cites. [→ Sissi L. Li 2014](#sissi-l-li-2014)
 
 ## Evidence
 
-### Sissi L. Li 2015
+### Sissi L. Li 2014
 
-Sissi L. Li, Gabriela Serna, Jocelyn S. Read, Joshua R. Smith, Heather Chilton, Michael E. Loverude. (2015). A collaboration to support novice instructors in research-based astronomy teaching. [doi:10.48550/arXiv.1411.5738](https://doi.org/10.48550/arXiv.1411.5738)
+Sissi L. Li, Gabriela Serna, Jocelyn S. Read, Joshua R. Smith, Heather Chilton, Michael E. Loverude. (2014). A collaboration to support novice instructors in research-based astronomy teaching. [doi:10.48550/arXiv.1411.5738](https://doi.org/10.48550/arXiv.1411.5738)
 
 `q1 · i?` · `design · r2`
 
@@ -50,3 +50,4 @@ The article reports, citing prior work (ref 7), that "about a third of these fac
 - [The fraction of faculty refusing to use RBIS because they did not believe in them decreased noticeably over time in every CWSEI-supported department](rbis-skepticism-declines-with-department-involvement.md) — related
 - [Fidelity of RBIS use appears largely maintained after SES support ends, with caveats of limited data, end-of-term syllabus pressure, and short follow-up duration](rbis-fidelity-maintained-after-support-ends.md) — related
 - [Physics faculty are more likely to be aware of and experiment with research-based instructional strategies after attending the New Faculty Workshop, but many find it difficult to persist in using them](nfw-attendance-rbis-awareness-but-poor-persistence.md) — a broader claim this one bears on
+- [Misalignment between assessment and instruction leads faculty to discontinue 3DL material, while successful alignment supports continued use](assessment-instruction-alignment-drives-uptake.md) — related

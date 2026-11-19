@@ -51,6 +51,7 @@ Beyond individual specialist support, the article identifies a departmental envi
 - [Speculative recommendations for units adopting paired teaching to disseminate RBIS](paired-teaching-implementation-recommendations.md)
 - [Use peer observation, reflection, clear examples, and departmental support to develop TA interactivity](ta-peer-observation-reflection-strategy.md)
 - [Target individual faculty rather than departments when promoting integration of computation into physics courses](individual-level-efforts-computation-integration.md)
+- [Support faculty adoption of active learning with peer communities, framing, incentives, and iterative refinement](faculty-support-for-ebae-implementation.md)
 
 ## Examples
 -

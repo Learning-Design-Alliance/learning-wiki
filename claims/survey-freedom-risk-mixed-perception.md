@@ -50,3 +50,4 @@ Anonymous Likert-scale survey of students who experienced the methodology. The s
 - [Most experimental-group pre-service teachers viewed the project-based HNOS course positively and recommended carrying it out through project activities](participants-endorse-pbhnos.md) — related
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](students-report-hands-on-learning-most-effective.md) — related
 - [Students report the activities as highly motivating and time management as essential to project success](survey-motivation-and-time-management.md) — related
+- [Student-proposed course projects turn out to be the most successful projects](student-proposed-projects-most-successful.md) — related

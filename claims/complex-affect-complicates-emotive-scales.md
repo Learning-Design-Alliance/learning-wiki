@@ -54,3 +54,4 @@ Authors' interpretation of coded reflection excerpts, including one student desc
 - [Positive emotive scales of the POS show neutral responses and lower agreement than research-based biology courses, conflicting with items 1-10](pos-emotive-scales-neutral-conflicting.md) — related
 - [Students in an upper-division physics lab course with self-chosen group final projects show high levels of project ownership on POS items 1-10](pos-items-1-10-high-ownership-lasers-course.md) — related
 - [Student ownership is characterized by a wide range of emotions that fluctuate as students alternate between extended struggle and moments of success](ownership-emotions-fluctuate-struggle-success.md) — related
+- [Timely responses to learner confusion are crucial for constructive-struggle strategies, and failing to respond in time causes frustration or stops participation](timely-confusion-response-crucial.md) — related

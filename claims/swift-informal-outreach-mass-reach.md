@@ -69,3 +69,4 @@ Program-reported attendance figures for the Supernova! toolkit developed with th
 - [The Black Holes: The Other Side of Infinity planetarium show has reached over two million viewers worldwide](black-holes-planetarium-show-reach.md) — possibly the same claim (merge candidate)
 - [The Supernova! toolkit for amateur astronomy clubs reached over 138,000 attendees, including large numbers of women/girls and minorities](supernova-toolkit-reach-138000.md) — possibly the same claim (merge candidate)
 - [Free-response survey answers described a unique blending of art and science and reported learning about black holes, supernovae, and gravitational waves](free-response-art-science-blending-learning.md) — related
+- [AHaH outreach pilots showed a qualitative increase in public participation, especially among young people](ahah-outreach-participation-increase.md) — related

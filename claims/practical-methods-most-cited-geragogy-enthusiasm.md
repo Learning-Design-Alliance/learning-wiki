@@ -49,3 +49,4 @@ Qualitative coding of open-ended responses from an e-learning course for trainer
 - [Trainers' preferred methods align with constructivist, humanistic, and andragogical didactic paradigms](geragogy-methods-align-constructivist-humanistic-paradigms.md) — related
 - [Trainers view empathy-based teaching as helping older adults overcome fear of technology and build self-confidence](empathy-based-teaching-overcomes-tech-fear.md) — related
 - [Individual teaching and video tutorials are valued for personalised pacing in older adults' digital learning](individual-teaching-video-tutorials-personalised-pacing.md) — related
+- [Teachers rated students as highly engaged in the workshops, with hands-on coding tutorials and group activities the most frequently stated reason](hands-on-coding-drove-workshop-engagement.md) — related

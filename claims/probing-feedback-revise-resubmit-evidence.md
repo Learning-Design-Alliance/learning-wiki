@@ -100,3 +100,4 @@ Both entries are one qualitative case analysis (Janis et al. 2025) of individual
 - [Descriptively, monitoring interventions with teacher feedback on entries and direct revision opportunities showed higher effects](teacher-feedback-and-revision-descriptive-advantage.md) — related
 - [Formative assessment probes indicate improved density understanding after the submarine project](density-understanding-gains-submarine-project.md) — related
 - [Both instructors reported that short, vague student reflections made it difficult to write good feedback, and structure feedback sometimes failed to change this](short-reflections-hinder-grf-feedback.md) — related
+- [Video quality improves from the first to the second submission, suggesting an iterative process with peer review contributes to learning](iterative-peer-review-improves-video-quality.md) — a narrower finding that bears on this claim

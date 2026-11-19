@@ -49,3 +49,4 @@ Case-study analysis of Day 3 level-3 play; the author reports the unprompted box
 - [Social tensions were frequent and heated on Day 1 and decreased on Days 2 and 3, with students shifting toward exploring phenomena more broadly](efh-social-tensions-decreased-over-days.md) — related
 - [High school students exploring the Electric Field Hockey simulation without instruction encountered and dealt with three types of tensions: strategic, social, and tool tensions](efh-three-tension-types.md) — a broader claim this one bears on
 - [Disturbances were frequent and illustrated all three tension types when the new tool was introduced, then reduced over time without disappearing](efh-disturbances-frequent-at-onset.md) — a broader claim this one bears on
+- [Guided inquiry with electric field simulations significantly improves AP physics students' electric field content performance](guided-inquiry-simulation-electric-fields-gain.md) — related

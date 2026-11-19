@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 155 claims (91 show a difference, 44 mixed, 20 no difference) · 64 studies (29 associational, 20 causal, 8 review, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 21 of 64 report an effect size · 153 claims rest on one study
+> **Evidence** · 156 claims (91 show a difference, 45 mixed, 20 no difference) · 66 studies (31 associational, 20 causal, 8 review, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 23 of 66 report an effect size · 153 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -190,6 +190,7 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Mastery goal orientation is negatively associated with low frustration tolerance among medical students](../claims/mastery-goals-negatively-associated-with-low-frustration-tolerance.md) [+M] — learners who differ on it differ in outcomes
 - [Mastery goal orientation is positively associated with perceived psychosocial abilities among first-year medical students](../claims/mastery-goals-associated-with-perceived-psychosocial-abilities.md) [+M] — learners who differ on it differ in outcomes
 - [Performance-approach goal orientation predicts low frustration tolerance among medical students, while performance-avoidance adds little](../claims/performance-approach-goals-predict-low-frustration-tolerance.md) [~M] — learners who differ on it differ in outcomes
+- [Perceived relevance particularly matters for Performance-oriented students' CLASS attitudinal shifts, with a large significant effect on gains, but not for Framework- or Vague-oriented students](../claims/performance-orientation-relevance-novice-shift.md) [~M] — an instructional effect differs with it
 
 ## Related Learner Variables
 

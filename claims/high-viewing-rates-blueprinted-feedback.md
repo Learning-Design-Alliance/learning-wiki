@@ -52,3 +52,4 @@ Behaviour-based online survey of medical students in years 1 and 2 (samples of 1
 - [Participants rated the NoTSUS course and full immersion simulation highly, with a mean Likert score of 4.5 out of 5 across survey parameters](notsus-course-positive-educational-value.md) — related
 - [Residents reported very high satisfaction with the team-based simulation course (96.3 ± 3.7 of 100)](high-resident-satisfaction-simulation.md) — related
 - [Only 39% of learners used blueprinted feedback to direct further learning, and usefulness ratings declined through the course](low-use-declining-usefulness-blueprinted-feedback.md) — reports the opposite
+- [Students rated the ML-enhanced simulation tool highly, with a mean survey rating of 4.26 out of 5](survey-mean-rating-4-26.md) — related

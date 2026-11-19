@@ -48,3 +48,5 @@ Authors' cross-group interpretation from the discussion, linking observed partic
 - [Group One showed concentrated inchargeness and incivility, making it inequitable and silencing](group-one-concentrated-inchargeness-inequitable.md) — related
 - [Group Two's inchargeness was distributed between two members — more equitable than Group One but still inequitable, with similar incivility](group-two-two-person-inchargeness-still-inequitable.md) — related
 - [Qualitative measures of equity (inchargeness and civility) judged two quantitatively dissimilar groups as alike in their inequity, validating the authors' intuition](qualitative-measures-validate-intuition-inequity.md) — a broader claim this one bears on
+- [Lower relative on-task expertise is associated with reduced inchargeness in a collaborative physics lab group](lower-on-task-expertise-reduced-inchargeness.md) — related
+- [A comparison group with similar on-task expertise showed more evenly distributed inchargeness](similar-expertise-more-even-inchargeness.md) — a narrower finding that bears on this claim

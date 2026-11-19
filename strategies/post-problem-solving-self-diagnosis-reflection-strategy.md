@@ -50,6 +50,7 @@ After lab groups complete a context-rich problem and the instructor outlines the
 - [Provide minimal external support (final answer plus notes/textbook) when the target problem is conventional and textbook-similar, to foster meaningful self-diagnosis](minimal-scaffolding-for-conventional-problem-self-diagnosis.md)
 - [Use week-to-week written reflection rubrics and major-tailored context-rich problems to refine attitudinal categorization](week-to-week-rubric-analysis-strategy.md)
 - [Limit support during self-diagnosis (final answer only, with notes and textbooks) before providing the detailed solution, to promote productive struggle](struggle-first-self-diagnosis-final-answer-only.md)
+- [Weekly pre-lab context-rich problem-solving exercise with metacognitive self-diagnosis rubric](weekly-prelab-context-rich-self-diagnosis-strategy.md)
 
 ## Examples
 -

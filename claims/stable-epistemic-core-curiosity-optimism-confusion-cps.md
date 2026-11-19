@@ -72,3 +72,4 @@ ONA of retrospective cued-recall affect reports from 9 groups completing a situa
 - [Mixing ATLAS and CMS masterclass institutes in the same videoconference confused students, who did not understand the other experiment's terminology and could lose interest](mixing-atlas-cms-institutes-videoconference-confusion.md) — related
 - [Individual and distributed/situated cognition accounts are theoretically continuous, differing in the scale of dynamics of interest](cognition-accounts-continuous-across-scales.md) — related
 - [Student ownership is characterized by a wide range of emotions that fluctuate as students alternate between extended struggle and moments of success](ownership-emotions-fluctuate-struggle-success.md) — related
+- [Timely responses to learner confusion are crucial for constructive-struggle strategies, and failing to respond in time causes frustration or stops participation](timely-confusion-response-crucial.md) — related

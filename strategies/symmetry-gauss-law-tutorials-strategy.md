@@ -54,7 +54,8 @@ The authors are implementing and refining tutorials in which students learn to "
 - [Students have difficulty with the principle of superposition, failing to distinguish the field due to individual charges from the net electric field](../claims/superposition-principle-difficulty.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Motivate the infinite-sheet-of-charge toy model with a conceptual derivation showing why the field is constant and when the model applies](conceptual-derivation-infinite-sheet-charge.md)
 
 ## Examples
 -

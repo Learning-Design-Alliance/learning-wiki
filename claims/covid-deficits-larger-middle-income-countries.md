@@ -57,3 +57,4 @@ Bivariate comparison grouping estimates from Brazil, Colombia, Mexico and South 
 - Estimated Covid-19 learning deficits are more pronounced in studies using experimental/quasi-experimental designs than in descriptive or correlational studies — related
 - [Estimated learning deficits are smaller in European studies than in studies from the rest of the world](covid-deficit-smaller-europe-than-rest-of-world.md) — related
 - [Concept-mapping effects are larger in low- and middle-income countries (g = 1.053) than high-income countries (g = 0.626)](concept-map-effects-larger-low-middle-income-countries.md) — related
+- [Only 5-15% of people who require assistive technologies in low- and middle-income countries have access to them, per the WHO](who-5-15-percent-ast-access-low-middle-income-countries.md) — related

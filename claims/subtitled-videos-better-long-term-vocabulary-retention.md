@@ -54,3 +54,4 @@ Independent t test on delayed post-test scores of the same 18-per-group sample; 
 - [Most individual control-group learners' vocabulary scores declined from post-test to delayed post-test](control-group-individual-sharp-decline-delayed-posttest.md) — related
 - [Multimedia glosses improve EFL students' vocabulary retention two weeks after treatment relative to no glosses](multimedia-glosses-improve-efl-vocabulary-retention.md) — a broader claim this one bears on
 - [Two students found the sitcom characters' speech too fast and some suggested showing short episodes, which the authors read as support for short subtitled video segments to avoid overload](short-video-segments-avoid-cognitive-overload.md) — related
+- [Undergraduates using an exploratory wave simulation outperformed a traditional-laboratory control group on retention of the medium-speed relationship eleven weeks later](exploratory-simulation-retention-outperforms-traditional-lab.md) — related

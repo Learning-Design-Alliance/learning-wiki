@@ -52,3 +52,4 @@ Same survey item on grounds of discrimination; ethnic origin, religion and socia
 - [Four or more major challenges were more prevalent among women, Hispanic and minoritized students, and lower-income students](major-challenges-more-prevalent-women-minoritized-low-income.md) — related
 - [Giving birth translates into a substantial delay in Ph.D. progress for mothers relative to male colleagues, reflected in parental-leave patterns](maternal-leave-phd-delay-gap.md) — related
 - [Physics Ph.D. students report three main areas of difficulty: professional, economic and personal](physics-phd-three-difficulty-areas.md) — related
+- [Female physics Ph.D. students report far more gender-based discrimination and sexual harassment than their male peers](women-phd-physics-report-more-discrimination-harassment.md) — a broader claim this one bears on

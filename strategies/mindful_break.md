@@ -60,8 +60,10 @@ Mindful breaks target the attentional and emotional conditions for learning rath
 6. Periodically debrief: ask students when the breaks helped and adjust timing and frequency ([Check-Ins](../principles/check-ins.md)).
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — like a mindful break, an opening routine that prepares attention before new content
 - [Achievable Micro-Goals](../strategies/achievable_micro-goals.md) — pairing short attention intervals with brief resets structures sustained effort
+- [Mitigate instructor cognitive load in online teaching with dual monitors, more breaks, and a second instructor](mitigate-online-instructor-cognitive-load.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the breathing routine is itself a skill that improves only with repeated practice

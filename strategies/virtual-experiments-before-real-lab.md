@@ -49,6 +49,7 @@ In the electrical engineering technology module, students build a circuit at a c
 - [Hands-On Laboratory Procedures](hands-on_laboratory_procedures.md)
 - [Scale up simple school-based experiments to realistic monument dimensions, turning the outdoor classroom into a mathematics laboratory](scale-up-experiments-monument-mathematics-laboratory.md)
 - [Alternate pen-and-paper predictions with IBM Q runs so students test their own circuit calculations](predict-then-test-pen-paper-ibm-q.md)
+- [Assign a pre-experiment spreadsheet calculation comparing instrument readouts under ideal versus real internal impedance.](pre-experiment-ideal-vs-real-instrument-assignment.md)
 
 ## Examples
 -

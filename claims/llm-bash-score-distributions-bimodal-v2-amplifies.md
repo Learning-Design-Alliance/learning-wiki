@@ -54,3 +54,4 @@ Descriptive distribution analysis of the four LLMs' grades under both prompt var
 - [Frontier LLMs produced near-perfect solutions to CS1 labs, with mean hidden-instructor-test scores of 98.93–99.99% across model–year combinations](llm-near-perfect-cs1-lab-solutions.md) — related
 - [Average H-scores rose from near-zero in pre-LLM offerings to 11.9 in Spring 2026, with maximum scores reaching 81](h-score-distributions-rose-over-time.md) — related
 - [All four LLMs passed both JNME exams under official scoring, with near-perfect scores in essential sections](llms-pass-jnme-official-scoring.md) — related
+- [In this cohort, 47% of students achieved a perfect CRT score with a mean of 2.1/3, higher than a large cross-study reference population](crt-score-distribution-skewed-high.md) — related

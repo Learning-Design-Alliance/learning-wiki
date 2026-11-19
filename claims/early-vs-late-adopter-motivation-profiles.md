@@ -62,3 +62,4 @@ Subgroup comparisons from the survey between teachers classified as potential ea
 - [Student-teachers are most motivated by helping others and skill development, with resource design, organisation and teaching skills the most cited transferable skills](student-teacher-motivations-and-skills.md) — related
 - [Intrinsic motivation was associated with full participation (χ21=4.03; P=.045)](intrinsic-motivation-full-participation.md) — related
 - [Students become peer teachers for intrinsic and extrinsic reasons, with time, logistics and lack of confidence as common barriers](peer-teacher-motivators-and-barriers.md) — related
+- [Teachers adopting the first e-textbooks were experienced practice teachers, not teacher specialists](experienced-practice-teachers-adopted-first-e-textbooks.md) — reports the opposite

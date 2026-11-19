@@ -52,3 +52,4 @@ Systematic review of 133 K-12 ML activities analyzing the learning contexts in w
 - [Ethical reflection is often addressed separately from technical and creative AI activities, showing weak co-occurrence with Social Reasoning (42%), Using AI (41%) and Creating with AI (55%)](ethics-weakly-integrated-with-technical-creative-ai-activities.md) — related
 - [Algorithmic and technical-mechanism concepts are marginal in students' AI networks: machine learning was produced by a single participant across 436 respondents](algorithmic-concepts-marginal-machine-learning-single-response.md) — related
 - AIEd research is weakly connected to theoretical pedagogical perspectives — related
+- [Students struggled most with machine learning generalization (Competency 12) and with recognizing negative ethical implications of AI (Competencies 12 and 16)](ml-generalization-and-ethics-difficult-competencies.md) — related

@@ -54,3 +54,4 @@ In the same ANOVA on cognitive-load sub-scales (N=262), the ICL comparison was n
 - [Correlations among cognitive load types partially contradict theory-based assumptions of the additivity hypothesis](load-type-correlations-partially-contradict-clt.md) — related
 - [Prior knowledge correlates negatively with delayed ICL and ECL and positively with delayed GCL, consistent with meta-analytic findings](prior-knowledge-correlates-with-load-types.md) — related
 - [Mean fixation duration is uniquely predicted by extraneous load, and additionally by germane load and working memory capacity](mean-fixation-duration-predicted-by-ecl-and-gcl.md) — related
+- [Germane cognitive load did not differ significantly between the exploRNN and text groups](no-gcl-difference-explornn-text.md) — related

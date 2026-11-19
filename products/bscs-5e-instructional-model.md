@@ -13,7 +13,7 @@ generated:
 # BSCS 5E Instructional Model
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 15 claims (14 for, 1 mixed) · 11 studies (8 causal, 3 quant-synthesis), `q2`–`q3` · 2 of 11 report an effect size · 15 claims rest on one study
+> **Evidence** · 16 claims (15 for, 1 mixed) · 12 studies (8 causal, 3 quant-synthesis, 1 review), `q2`–`q3` · 2 of 12 report an effect size · 16 claims rest on one study
 
 ## Description
 A Biological Science Curriculum Study framework for sequencing instruction through engagement, exploration, explanation, elaboration, and evaluation.
@@ -33,6 +33,7 @@ A Biological Science Curriculum Study framework for sequencing instruction throu
 - **5E learning model as a five-stage constructivist instructional sequence**: The article describes the 5E learning model as a classroom adaptation of constructivism comprising five sequential stages: engaging, exploring, explaining, elaborating and evaluating. In the engaging stage the teacher attracts attention and reveals pre-understandings; in exploring, students seek solutions from their own experience; in explaining, students share findings; in elaborating, they apply new concepts to new situations; and in evaluating, students "assess how much they learn new concepts and skills". The study operationalised this model with Flash animations across six weeks of grammar teaching. (Mehmet Fatih Özcan (2017))
 - **5-E learning cycle (engage, explore, explain, elaborate, evaluate)**: The 5-E learning cycle is a constructivist instructional model with five phases: "Engage serves to interest the students in the material and engage them in the process of learning"; Explore lets students construct understanding before terminology; Explain introduces terms; Elaborate applies concepts to novel situations; Evaluate assesses formatively and summatively. The first three phases serve content attainment and elaborate serves concept application. The study used it in both flipped and nonflipped conditions. (Jensen Jamie L. et al. (2015))
 - **5E lesson design framework for inquiry-based lessons with computer models**: The article uses the 5E lesson design framework, described as "commonly used in the public schools", to structure inquiry-based lessons with computer models. Its phases are Engage (e.g. the 2013 Chelyabinsk meteorite event), Explore (worksheets detailing planning, experimenting and measuring), Explain (student collaboration and evidence-based discussion), Elaborate (teacher questioning), and Evaluate (student presentations). (Loo Kang WEE et al. (2013))
+- **5E learning cycle instructional model (Engage, Explore, Explain, Elaborate, Evaluate)**: The 5E model is a learning-cycle instructional approach extending Karplus's exploration, concept introduction, and concept application phases into the categories of “Engage, Explore, Explain, Elaborate, and Evaluate”. Engagement elicits prior knowledge and curiosity; exploration provides a common base facilitating conceptual change; explanation focuses attention and introduces concepts; elaboration extends understanding; evaluation assesses progress toward objectives. (Stephen M. Pompea et al. (2019))
 
 ### Claims
 - [The 5E instructional model shows a large, significant pooled effect on academic achievement versus traditional teaching methods in Turkish studies (2008-2014)](../claims/5e-model-large-effect-academic-achievement.md) [+M]
@@ -50,6 +51,7 @@ A Biological Science Curriculum Study framework for sequencing instruction throu
 - [The three intact classes were equivalent in prior achievement and scientific attitudes before the light-unit intervention](../claims/pretest-equivalence-three-5e-groups.md) [+M]
 - [Animation-supported 5E instruction produced significantly higher post-test grammar success than the current teaching programme in 7th grade Turkish](../claims/animation-5e-higher-posttest-grammar-success.md) [+M]
 - [Animation-supported 5E instruction produced significantly higher retention scores than the current programme five weeks after implementation](../claims/animation-5e-higher-retention-scores.md) [+M]
+- [Best-evidence syntheses find inquiry-oriented approaches with teacher professional development most effective in primary science, and professional development, technology and support most effective in secondary science](../claims/best-evidence-synthesis-effective-school-science-programs.md) [+W]
 
 ## Related Products and Programmes
 
@@ -69,3 +71,4 @@ A Biological Science Curriculum Study framework for sequencing instruction throu
 - Mehmet Fatih Özcan, Latife Kirbaşoğlu Kiliç. (2017). The Effects of Animation Supported 5E Model on Teaching 'Indicative and Subjunctive Moods' in 7th Grade Turkish Lesson. Universal Journal of Educational Research. https://doi.org/10.13189/ujer.2017.051407
 - Jensen Jamie L., Kummer Tyler A., Godoy Patricia D. d. M. (2015). Improvements from a Flipped Classroom May Simply Be the Fruits of Active Learning. CBE—Life Sciences Education. https://doi.org/10.1187/cbe.14-08-0129
 - Loo Kang WEE, Giam Hwee GOH, Ee-Peow LIM. (2013). Easy Java Simulation, Innovative Tool for Teachers as Designers of Gravity-Physics Computer Models. MPTL18, Madrid. http://weelookang.blogspot.sg/2013/04/mptl18-easy-java-simulation-innovative.html
+- Stephen M. Pompea and Pedro Russo (2019). The Roles of Astronomers in the Astronomy Education Ecosystem: A Research-Based Perspective. https://scholar.google.com/scholar?q=The+Roles+of+Astronomers+in+the+Astronomy+Education+Ecosystem

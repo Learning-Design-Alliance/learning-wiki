@@ -68,3 +68,4 @@ Instructor observations across course offerings on parallax (d = 1/p) and Kepler
 - [Bidimensional textbook schemes of the lunar phases hinder understanding of the three-dimensional phenomenon and blur the distinction between phases and eclipses](bidimensional-schemes-hinder-phase-learning.md) — related
 - [Students commonly misplace stars within the solar system and misinterpret parallax and stellar distances, including trainee science teachers](stars-placed-within-solar-system-misconception.md) — related
 - [Lack of prior knowledge about the astronomy topics worked in the course was the most-cited difficulty, reported by 44% of participants](lack-prior-astronomy-knowledge-main-difficulty.md) — related
+- [Students judged activity difficulty as balanced overall, but a minority found the topics hard and interest gains were higher for high-energy astrophysics than for solar system work](ssdc-outreach-difficulty-and-interest-patterns.md) — related

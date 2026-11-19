@@ -48,6 +48,7 @@ In response to student disappointment at not using the planetarium, the team dev
 - [Replace low-relevance take-home artifacts with telescope viewing in astronomy museum programs](replace-low-relevance-activity-telescope-viewing-strategy.md)
 - [Partner with an Indigenous programs academic unit to develop local Indigenous astronomy content](unsw-partnership-local-indigenous-content-strategy.md)
 - [Incorporating non-Western cosmologies into ngVLA education through indigenous talks, STEAM projects, and Star Parties](non-western-cosmologies-ngvla-education.md)
+- [Teach astronomy through dual-perspective storytelling (indigenous and Western science stories woven together)](dual-perspective-astronomy-storytelling.md)
 
 ## Examples
 -

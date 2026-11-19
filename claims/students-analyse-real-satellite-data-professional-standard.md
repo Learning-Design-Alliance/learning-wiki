@@ -47,3 +47,4 @@ The article's conclusion reports the intended outcome of the activity: students 
 ## Related Claims
 - [Efficacy of colour imaging as an astronomy engagement gateway remains largely unvalidated](colour-imaging-efficacy-unvalidated.md) — related
 - [Practical work with aerospace images yields specific measurable geographic knowledge types, from morphometry to spectral indicators](practical-work-rsd-knowledge-types.md) — related
+- [Students completed real research-data tasks successfully: all produced colour-magnitude plots of the M13 cluster within hours, and most programmed a Forward Euler solver with assistance.](thaipass-research-data-task-attainment.md) — related

@@ -72,3 +72,4 @@ Post-test performance in the time-zones study (N = 36), a 17-question test worth
 - [Neither disfluency nor distinctiveness affected memory across three experiments with alien-list stimuli](disfluency-distinctiveness-null-rummer.md) — related
 - [Imagining worked examples benefits learners with adequate prior knowledge but harms performance for low-knowledge learners](imagined-worked-examples-prior-knowledge.md) — related
 - [Explicit pairwise behavioral similarity ratings of the stimuli failed to track quiz performance or show a learning trajectory, and were not analyzed further](behavioral-similarity-ratings-null-result.md) — related
+- [Germane cognitive load did not differ significantly between the exploRNN and text groups](no-gcl-difference-explornn-text.md) — related

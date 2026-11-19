@@ -9,7 +9,6 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2025
-source_checked: 2026-10-20
 recheck_by: 2030
 sources:
   - id: babineau-2025
@@ -42,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · qualitative `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 3 of 3 entries) · not reviewed by a person · recheck by 2030: baselines and conditions change
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Sharp inequities in access to STEM professions persist along lines of race, gender, and socioeconomic status in San Diego and nationally. [→ Babineau 2025](#babineau-2025)
@@ -101,3 +100,4 @@ The report's context section, referencing Figure 2 (annual income by gender and 
 - The reviewed literature shows limited engagement with specialist diversity concepts such as gender or race and little attention to teacher educators' own knowledge — related
 - [Free or low-cost robotic telescope access equalises instrumentation access across socioeconomic and physical barriers](robotic-telescope-equity-access.md) — related
 - [In the Pipeline to Technology study, minority and women undergraduates demonstrated technical skill mastery but lacked STEM self-efficacy, pointing to low workforce access as a causal influence on low participation](pipeline-to-technology-mastery-without-self-efficacy.md) — related
+- [Home computer availability in the U.S. scales with household income while smartphone access is nearly uniform across demographic groups](smartphone-access-uniform-home-computers-income-scaled.md) — related

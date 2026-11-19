@@ -41,6 +41,7 @@ The proposed approval method replaces generic assessment with "trabajos finales 
 
 - [Institutional insertion strategy: network-based academic projects, municipal working groups, national diagnosis, training courses, databases and normative work for light pollution](institutional-insertion-light-pollution-strategy.md)
 - [Sustain computational instruction with flipped homework while replacing the faculty-intensive final project with peer review or student videos](sustaining-computational-instruction-strategy.md)
+- [Introduce integral calculus through a practical everyday problem — fairly slicing a watermelon — to motivate students and counter dropout from scientific curricula](everyday-practical-problem-introduction-calculus.md)
 
 ## Examples
 -

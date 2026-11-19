@@ -60,3 +60,4 @@ Qualitative content analysis of interviews with experimental-group students, cod
 - [Reported benefits of educational augmented reality include motivation, attention, understanding, memorization, and safe experimentation](ar-reported-benefits-motivation-memorization.md) — a broader claim this one bears on
 - [Students reported learning ways of thinking, learning by doing projects, and requirements for success from the experimental project](project-lab-described-learning.md) — related
 - [Students held positive attitudes toward the DGE, rating it helpful for learning limit concepts (3.73/5) and interesting (4.4/5)](positive-student-attitudes-toward-dge-limit-activities.md) — related
+- [Students responded very positively to the augmented-reality comic methodology: 100% wanted more such activities and 94% found the methodology easy to understand](student-acceptance-ar-comic-methodology.md) — related

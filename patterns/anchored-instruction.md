@@ -152,6 +152,7 @@ This pattern is scoped to lessons and units built around one shared scenario, wi
 - Business simulations built around a crisis or client objective.
 - Public-sector or military training built around mission execution with constrained information.
 - [Use a vernacular-language anchor character to state objectives and guide learners](../strategies/vernacular-anchor-objectives-strategy.md)
+- [Anchor each virtual experiment in a named OER simulation with a linked lesson video for data collection and spreadsheet analysis](../strategies/oer-simulation-with-lesson-video-strategy.md)
 
 ## Key Sources
 - Bransford, J. D., Sherwood, R. D., Hasselbring, T. S., Kinzer, C. K., & Williams, S. M. (1990). Anchored instruction: Why we need it and how technology can help. In D. Nix & R. Spiro (Eds.), *Cognition, education, and multimedia* (pp. 115-141). Erlbaum.

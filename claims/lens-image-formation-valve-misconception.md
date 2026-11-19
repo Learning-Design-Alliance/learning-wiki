@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: moderate
 newest_evidence: 2010
+source_checked: 2026-11-19
 recheck_by: 2015
 sources:
   - id: m-risch-2010
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
+> **Currency** · newest study 2010 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` When asked what happens when half of the lens is covered, 65.7% of students answered the image becomes half. [→ M. Risch 2010](#m-risch-2010)
@@ -51,3 +52,4 @@ Optics questions 6a-c on image formation by a converging lens, answered by 941 s
 - [Only 9% of surveyed students reported sufficient prior knowledge of the image-formation topics covered by the exhibit](holographic-exhibit-low-prior-knowledge-9-percent.md) — related
 - [Fourier-optics simulations combined with geometric and physical optics convey principles and real-world applications in classroom teaching](fourier-optics-classroom-simulations.md) — related
 - [The lab session corrected student misconceptions about optical phase and optical versus electrical spectra, with positive feedback over four years](lab-session-misconception-correction-feedback.md) — related
+- [A converging-lens simulation activity produced no improvement in optics content performance, likely because the task did not match the assessment](optics-simulation-no-improvement-mismatch.md) — related

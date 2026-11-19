@@ -68,3 +68,4 @@ Same survey's gender comparison of adaptation strategies after parenthood; the a
 - [Family variables relate to academic achievement, with parents' attitudes and behaviors (ES = .873) and parental expectations (ES = .865) showing large effects, and father's education level relating more strongly than mother's](family-variables-effects-academic-achievement-meta-review.md) — related
 - [Father-headed households showed significantly higher odds of good academic performance compared with mother-headed households](father-head-household-academic-performance-ethiopia.md) — related
 - [Relatives connected through mothers are more strongly correlated on school performance than relatives connected through fathers](maternal-relatives-more-correlated-than-paternal.md) — related
+- [Women physics Ph.D. students carry a greater burden of childcare and family work than their male colleagues](women-phd-physics-greater-childcare-family-burden.md) — related

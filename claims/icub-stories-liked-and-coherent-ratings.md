@@ -51,3 +51,4 @@ During-interaction ad-hoc questionnaire (two items, 1-10 scale) completed at the
 - [The iCub storytelling system achieved 88% trial success and 86% VLM sticker-description agreement, with the LLM adding to human contributions in 8% of trials and never correcting them](icub-storytelling-system-success-rates.md) — related
 - [AI-generated interactive-fiction learning scenarios are perceived as narratively clear and of appropriate length by STEM higher-education participants](ai-generated-if-narrative-clarity-length-accepted.md) — related
 - [Students' writing and storytelling developed substantially, with the majority group publishing 23 school-level stories in Cycle 1 and 38 in Cycle 2 before a school cap limited publications](tprs-mtss-storytelling-publication-growth.md) — related
+- [Participants rated exploRNN significantly more likable, more recommendable, and better designed than the learning text](explornn-higher-likability-design-ratings.md) — related

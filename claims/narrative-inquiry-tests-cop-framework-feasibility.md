@@ -46,3 +46,4 @@ Qualitative narrative-inquiry study of university educators in two informal phys
 
 ## Related Claims
 - [The Physics Can be Awesome afterschool program can be characterized as a community of practice with identifiable domain, community, and practice](pca-afterschool-program-functions-as-cop.md) — related
+- [Diverse informal physics programs, from demonstration shows to physics-music collaborations, can satisfy the three defining elements of a community of practice (domain, community, and practices).](informal-physics-programs-as-communities-of-practice.md) — related

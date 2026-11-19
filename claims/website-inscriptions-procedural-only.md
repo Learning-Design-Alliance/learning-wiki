@@ -71,3 +71,4 @@ From the analysis of Extract 2: the authors claim "the 3D model comes with certa
 - [Teacher and peer explanations of the scientific concepts during problem solving were at times scientifically misleading or wrong](teacher-scientific-concepts-misleading.md) — related
 - [The field moved toward step-based problem solving and increased support for collaboration, while focusing on domain-level knowledge](aied-step-based-domain-focus-collaboration-growth.md) — related
 - [CSCL designers tend to leave gaps between the technical and social design of learning environments](cscl-designers-gaps-technical-social-design.md) — a broader claim this one bears on
+- [In the studied group, the lower-expertise student's reduced inchargeness manifested differently across two concurrent storylines, catching up and moving forward](catching-up-moving-forward-storylines-inchargeness.md) — related

@@ -20,6 +20,7 @@ A three-pronged coding framework grounded in social semiotics for systematically
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Curriculum characterization framework: coding curriculum by modes of representation, intellectual tasks, and question complexity**: A three-pronged coding framework grounded in social semiotics for systematically characterizing any curricular material. "Our curriculum characterization framework is designed to meaningfully code the information contained in the multiple-choice questions using a three-pronged approach": the types and number of modes of representation used, the types and number of intellectual tasks the learner engages in, and the robustness of discourse via a modified Question Complexity Rubric (QCR codes 1–4). It comprises coding schemata for modes (Table I) and tasks (Table II) plus the QCR, finalized iteratively with calibration questions and trained coders. (Rica Sirbaugh French et al. (2020))
+- **Two-level course categorisation by Content (Theory, Methods, Applications) and Focus (Management, Analytics, Domains, Related Fields)**: Courses in the ecosystem are classified on two non-exclusive axes. The article writes: "We describe DS-related courses using a two-level categorisation, where categories ( Content and Focus) and subcategories are not necessarily mutually exclusive." The Content axis covers Theory, Methods and Applications courses; the Focus axis covers Data Management, Data Analytics, Application Domains and Related Fields. Table I tags each course against both axes. (Felipe Tobar et al. (2021))
 
 ### Claims
 - [Only 15.9% of 353 faculty-produced Think-Pair-Share questions reach the highest complexity level (QCR = 4)](../claims/faculty-tps-questions-few-qcr4.md) [+M]
@@ -30,3 +31,4 @@ A three-pronged coding framework grounded in social semiotics for systematically
 
 ## Key Sources
 - Rica Sirbaugh French and Edward E. Prather. (2020). From A Systematic Investigation of Faculty-Produced Think-Pair-Share Questions to Frameworks for Characterizing and Developing Fluency-Inspiring Activities. https://arxiv.org/abs/2007.02477
+- Felipe Tobar, Felipe Bravo-Marquez, Jocelyn Dunstan, Joaquín Fontbona, Alejandro Maass, Daniel Remenik, Jorge F. Silva. (2021). Data Science for Engineers: A Teaching Ecosystem. https://arxiv.org/abs/2101.06119

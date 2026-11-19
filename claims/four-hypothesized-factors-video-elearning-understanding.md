@@ -50,3 +50,4 @@ Authors' interpretation offered without direct tests of the individual factors; 
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
 - [Students perceived flipped learning as having a distinct set of affordances (flexible video access, preparation, interaction) and constraints (video length, lack of guidance while watching)](flipped-learning-affordances-constraints-perceptions.md) — related
 - [Smartphone e-learning video materials produce significantly larger pre-to-post examination score gains than no learning material in dental hygiene students](smartphone-elearning-dental-treatment-videos-outperform-no-material.md) — related
+- [The authors expect the immersive interactive learning setting to significantly improve learning outcomes, pending rigorous user studies](immersive-qc-learning-outcome-expectation.md) — related

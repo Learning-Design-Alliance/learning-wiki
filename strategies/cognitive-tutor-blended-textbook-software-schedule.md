@@ -42,6 +42,7 @@ The curriculum's blended implementation splits weekly instruction between collab
 
 - [Lab Rotation](lab-rotation.md)
 - [Implement Math 180 as a blended rotation model with 1:1 computer use during rotation and roughly half the class on software at a time](math-180-blended-rotation-implementation.md)
+- [Two blended-teaching methods combining computer-based and classroom work within Smart Kids technology](smart-kids-blended-teaching-methods.md)
 
 ## Examples
 -

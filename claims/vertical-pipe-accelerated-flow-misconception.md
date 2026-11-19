@@ -50,3 +50,4 @@ Think-aloud interviews with 16 students who had passed a general physics course 
 - [About two-thirds of interviewed students claimed containers with and without a vertical draining pipe drain in the same time](equal-draining-time-misconception.md) — related
 - [Students analyze forces on a fluid element as exerted only by the upstream fluid, neglecting the fluid below](force-only-from-upstream-fluid.md) — related
 - [Students can hold contradictory patterns of association simultaneously when no motivation, logic, or experimental evidence forces a choice](contradictory-patterns-held-simultaneously.md) — related
+- [After completing General Physics courses, many university students fail to recognize how a fluid element interacts with its environment, distinguishing poorly between confined and unconfined fluid](fluid-element-interaction-difficulties-post-instruction.md) — related

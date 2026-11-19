@@ -12,7 +12,7 @@ generated:
 # Expectancy-Value Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 62 claims (37 for, 24 mixed, 1 against) · 47 studies (21 causal, 12 associational, 6 review, 3 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q3` · 13 of 47 report an effect size · 61 claims rest on one study
+> **Evidence** · 63 claims (38 for, 24 mixed, 1 against) · 48 studies (21 causal, 13 associational, 6 review, 3 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q3` · 14 of 48 report an effect size · 62 claims rest on one study
 
 ## Description
 Expectancy-Value Theory (Wigfield & Eccles, 2000) proposes that achievement behavior is most immediately predicted by two beliefs: **expectancy for success** (whether the learner believes they will do well on an upcoming task) and **task value** (why the learner believes the task is worth doing). Expectancy for success is conceptually distinct from present-tense **ability beliefs** — expectancy is about future potential, ability belief is about current competence — though the two are closely related in practice.
@@ -121,6 +121,7 @@ The theory is explicitly integrative — it is often used as the organizing fram
 - [Students who did not consult formative PT feedback more often considered the test unimportant, and students who did not prepare cited unimportance far more often in the formative group than the summative group (27% vs 1%)](../claims/perceived-unimportance-drives-non-use-formative-pt.md) [+W] — attached 2026-11-07 from van Wijk et al. (2024), which proposed "Expectancy-Value Theory as a framework for test-taking motivation and feedback use".
 - [TSRQ is positively associated with control and value appraisals in EFL learning](../claims/tsrq-positively-associated-with-control-value-appraisals.md) [+W] — attached 2026-11-07 from Wu Qiong (2026), which proposed "Control-value theory extended with TSRQ as a distal social-contextual antecedent of achievement emotions".
 - [Positive-profile students outperformed Mixed-profile students on the T3 mathematics test even after controlling for prior achievement, but did not significantly outperform Negative-profile students](../claims/positive-profile-higher-t3-maths-than-mixed.md) [~W] — attached 2026-11-10 from Symes et al. (2025), which proposed "Control-value theory profiles of appraisals and achievement emotions in mathematics lessons".
+- [Perceived relevance produced a statistically significant moderate difference in overall CLASS normalized gains, with a slight expert-like shift for relevant-perceiving and slight novice-like shift for irrelevant-perceiving students](../claims/class-gain-shift-by-perceived-relevance.md) [+W] — attached 2026-11-19 from Andrew J. Mason (2019), which proposed "Perceived irrelevance of a course to one's major as a mindset variable alongside learning goal orientations".
 
 ## Related Theories
 

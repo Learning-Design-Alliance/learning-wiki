@@ -64,3 +64,5 @@ Same 50-questionnaire Likert survey; the statement was "My interest in science h
 - [The programme modestly improved self-reported engagement with science, with 32% more likely to talk to teachers and 34% more likely to consider studying science at university](sustained-outreach-improved-engagement-science.md) — related
 - [Outreach participants reported increased interest in networks and mathematics, per surveys and discussions](outreach-increased-student-interest.md) — related
 - [The Einstein-First programme improved students' interest in physics, with female students' interest rising from 50% to nearly match males' initial 80%](einstein-first-female-interest-increase.md) — related
+- [Of 62 physics students surveyed, 29 reported increased confidence in choosing physics as a major after participating in outreach](outreach-increased-major-confidence-29-of-62.md) — related
+- [Over 80% of surveyed students reported positive impact of outreach on recognizing connections between physics topics and overall understanding, and 85% on teamwork and networking](outreach-survey-understanding-teamwork-impacts.md) — related

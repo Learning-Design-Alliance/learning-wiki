@@ -63,6 +63,8 @@ Misconceptions are resistant to simple transmission of correct information; lear
 - [Refutation Texts](refutation-texts.md) — a written-instruction variant of the same mechanism
 - [Predict-Observe-Explain](predict-observe-explain.md) — a structured elicitation-confrontation cycle for demonstrations
 - [Elicit student misconceptions, create situations that challenge them, and emphasize conceptual frameworks rather than isolated facts](elicit-and-challenge-misconceptions-strategy.md)
+- [Resolve intuitive inconsistencies by connecting the phenomenon to broader intuitions via analogies, blends, microscopic mechanisms, causal stories, reframing, and multiple perspectives](multiple-angles-for-intuitive-resolution.md)
+- [Use challenging, low-cost Predict–Observe–Explain experiments that put students' alternative conceptions about fluid pressure into play](poe-fluid-misconception-experiments.md)
 
 ## Examples
 - **Physics education research curricula** such as *Tutorials in Introductory Physics* (University of Washington) and *RealTime Physics* use pre-tutorial predictions, discrepant experiments, and guided reconciliation to repair force-and-motion misconceptions. [https://www.phys.washington.edu/groups/peg/](https://www.phys.washington.edu/groups/peg/)

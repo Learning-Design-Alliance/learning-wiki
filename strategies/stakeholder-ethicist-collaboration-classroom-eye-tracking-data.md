@@ -46,6 +46,7 @@ To prevent researchers from withdrawing from classroom eye-tracking and retreati
 ## Related Strategies
 
 - [Expand research methodologies to monitor learning processes during multimedia instruction](expand-methodologies-monitor-multimedia-learning-processes.md)
+- [Use camera-based joint visual attention measurement to evaluate collaboration quality without eye-trackers or one-time self-reports](camera-based-jva-collaboration-evaluation-strategy.md)
 
 ## Examples
 -

@@ -74,3 +74,4 @@ ANCOVA controlling for years of education confirmed the results "did not differ 
 - [Remote asynchronous feedback through Lapp produces no significant differences in competency levels compared with in-person synchronous feedback](lapp-remote-asynchronous-feedback-no-competency-difference.md) — a narrower finding that bears on this claim
 - [Overall teaching quality is equivalent across online and face-to-face formats, and delegates show no preference shift between formats](overall-teaching-quality-equivalent-formats.md) — related
 - [Approximately 50% of surveyed instructors would structure synchronous versus asynchronous course time differently if teaching remotely again](restructure-sync-async-remote-lab-time.md) — related
+- [Students in emergency remote introductory physics courses preferred synchronous over asynchronous lecture and believed they would have benefited more from face-to-face instruction](remote-physics-students-prefer-synchronous.md) — related

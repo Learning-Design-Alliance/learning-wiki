@@ -48,3 +48,4 @@ Anonymous Likert-scale survey items 5 and 11. Item 5 concerned the methodology b
 - [Most surveyed students were satisfied with interprofessional OFST and supported extending it to other colleges or disciplines](ofst-satisfaction-and-extension-support.md) — related
 - [Most pre-service teachers report Jupyter helped their understanding, improved their digital skills, and has transfer potential to other subjects](jupyter-positive-personal-reflections-pre-service.md) — related
 - [Students report that the active lab methodology supports content fixation, creativity and protagonism](survey-positive-perceptions-fixation-creativity-protagonism.md) — related
+- [The video project's grade distribution closely resembles the first midterm's distribution, supporting its use in place of a midterm assessment](video-project-grade-distribution-resembles-midterm.md) — related

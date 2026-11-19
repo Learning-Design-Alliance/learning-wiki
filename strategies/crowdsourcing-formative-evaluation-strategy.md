@@ -41,6 +41,7 @@ Crowdsourcing, fuelled by platforms such as Amazon's Mechanical Turk, can draw o
 ## Related Strategies
 
 - [Use simulated learners to scale up formative evaluation and component validation, without replacing summative studies](simulated-learners-evaluation-strategy.md)
+- [Crowdsourced study pipeline with quality control for investigating pedagogies at scale](turker-learning-study-pipeline.md)
 
 ## Examples
 -

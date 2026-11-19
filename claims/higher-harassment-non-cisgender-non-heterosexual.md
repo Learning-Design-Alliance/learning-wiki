@@ -51,3 +51,4 @@ Table V reports harassment by sex, gender identity and sexual orientation, showi
 - [Transgender, gay/lesbian, bisexual, and 'something else' students report significantly poorer outcomes than non-transgender and straight peers on all 14 measures](lgbtq-subgroups-poorer-all-14-measures.md) — a broader claim this one bears on
 - [Transgender students in every race/ethnicity group report harassment at least twice the rate of non-transgender peers (60%+ vs. 32% or less)](transgender-students-double-harassment-rates.md) — a narrower finding that bears on this claim
 - [One in five female physics Ph.D. students (21%) reported experiencing sexual harassment during their studies, versus 2% of men](sexual-harassment-female-physics-phd-israel.md) — related
+- [Female physics Ph.D. students report far more gender-based discrimination and sexual harassment than their male peers](women-phd-physics-report-more-discrimination-harassment.md) — related

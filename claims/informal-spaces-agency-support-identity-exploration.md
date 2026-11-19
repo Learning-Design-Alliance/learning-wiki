@@ -53,3 +53,4 @@ Theoretical argument in the introduction: informal physics spaces allow voluntar
 - [The paper reports that culturally responsive pedagogies are associated with more student engagement, agency, and responsibility for seeking information](crse-pedagogies-engagement-agency-claim.md) — related
 - [Opting out can improve thinking efficiency by cutting wasted effort on doomed attempts](opting-out-improves-thinking-efficiency.md) — related
 - [Allowing opt-out options improves output-bound accuracy in adults, primary-school children, and preschoolers](opting-out-improves-output-bound-accuracy.md) — related
+- [Diverse informal physics programs, from demonstration shows to physics-music collaborations, can satisfy the three defining elements of a community of practice (domain, community, and practices).](informal-physics-programs-as-communities-of-practice.md) — related

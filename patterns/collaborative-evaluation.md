@@ -157,10 +157,12 @@ This pattern is scoped to learners judging the quality of objects against criter
 - [Formative Assessment](formative-assessment.md) — the teacher-side loop of reading evidence and choosing a next action
 
 ## Examples
+
 - Teams comparing possible sources for a research project against credibility criteria.
 - Learners evaluating project proposals for feasibility and impact.
 - Small groups scoring sample responses against a shared rubric and discussing differences.
 - [Calibrated Peer Review](../strategies/calibrated_peer_review.md) — learners rate calibration samples of known quality before rating peers' work.
+- [Interview-based teacher-preparation activity: compare several explanations of one phenomenon via a criteria grid before choosing](../strategies/multi-explanation-criteria-comparison-strategy.md)
 
 ## Key Sources
 - McAndrew, P., Goodyear, P., & Dalziel, J. (2006). Patterns, designs and activities: Unifying descriptions of learning structures. *International Journal of Learning Technology, 2*(2-3), 216-242. [https://doi.org/10.1504/IJLT.2006.010632](https://doi.org/10.1504/IJLT.2006.010632)

@@ -53,3 +53,4 @@ Regression step 1 (Table 7) entered the five demographic/socioeconomic variables
 - [About two-thirds of surveyed parents resist educational smartphone use in schools, and more than half of them actively resist](two-thirds-parents-resist-school-smartphone-use.md) — related
 - [Parenting style is associated with resistance level: authoritarian parents show the highest active resistance while most authoritative and permissive parents do not resist](parenting-style-associated-resistance-level.md) — related
 - [EFL students using smartphones initiate classroom activities significantly faster than peers doing identical paper-based activities](smartphone-activities-faster-task-initiation.md) — related
+- [Home computer availability in the U.S. scales with household income while smartphone access is nearly uniform across demographic groups](smartphone-access-uniform-home-computers-income-scaled.md) — related

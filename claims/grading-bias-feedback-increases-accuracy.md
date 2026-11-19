@@ -51,3 +51,4 @@ One of three experiments run in the online class to improve grading accuracy. Th
 - [Generating peer feedback prior to internal feedback does not improve the quality of assessors' subsequent internal feedback](peer-feedback-first-no-effect-internal-feedback.md) — related
 - [Giving feedback that identifies problems in peers' work is a significant predictor of assessors' own project performance](giving-problem-identification-feedback-predicts-assessor-performance.md) — related
 - [Overconfidence (bias) decreased from pretest to posttest across all groups including control, with no group differences](bias-decreased-across-groups-no-feedback-effect.md) — related
+- [Peer reviewers inflate grades when they recognize the grade they are giving as final, so rubric-based training is needed for peer review to serve as assessment](peer-grade-inflation-final-assessment-video-project.md) — related

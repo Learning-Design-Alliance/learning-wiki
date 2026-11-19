@@ -48,3 +48,4 @@ Narrative review assessment of the evidence base for colour imaging, described a
 - [Robotic telescope technology has outpaced widespread inquiry-based classroom implementation](robotic-telescope-implementation-gap.md) — a broader claim this one bears on
 - [Too-small image size was the most frequent dislike in open-ended online responses, followed by resolution and colour complaints](image-size-and-resolution-top-mobile-dislikes.md) — related
 - [Students using LEO Works analyse real satellite data at a close to professional standard and produce colour images and spectral-index maps](students-analyse-real-satellite-data-professional-standard.md) — related
+- [Students completed real research-data tasks successfully: all produced colour-magnitude plots of the M13 cluster within hours, and most programmed a Forward Euler solver with assistance.](thaipass-research-data-task-attainment.md) — related

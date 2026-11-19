@@ -51,3 +51,4 @@ CGT analysis using the TUGlab Matlab toolbox, with coalition gains assumed propo
 - [Individual contribution does not significantly predict the individual's learning outcome](contribution-does-not-predict-learning-outcome.md) — related
 - [Coalitions modeled from teammates' opinions were mostly unstable, explaining negative collaboration scores](unstable-coalitions-explain-negative-collaboration-scores.md) — related
 - [Contribution does not significantly predict group output, while average pre-session score negatively predicts group work grade](pre-session-score-negatively-predicts-group-grade.md) — related
+- [Individualized Shapley values decompose a learner's predicted score into actionable per-feature contributions](individualized-shapley-score-breakup.md) — related

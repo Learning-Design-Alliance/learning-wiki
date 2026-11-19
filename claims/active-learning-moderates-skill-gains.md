@@ -50,3 +50,4 @@ Moderator analysis within the meta-analysis of intervention studies on skills (F
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — related
 - [Effective skill training combines theory presentation, demonstration, practice with feedback, and coaching for transfer (review attribution)](skill-training-effective-techniques.md) — a broader claim this one bears on
 - [Professional development produces moderate improvements in teachers' skills for implementing inclusive education (g = 0.49)](pd-moderate-effect-teacher-inclusive-skills.md) — related
+- [Extended professional development of 50 or more hours is needed before teachers substantially change their practice](fifty-hour-professional-development-practice-change.md) — related

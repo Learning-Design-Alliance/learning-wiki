@@ -73,3 +73,5 @@ Post-semester interviews conducted by a co-author with no course association; in
 - [Students valued the open-ended generative task for connecting physics to real contexts but reported unfamiliarity with making assumptions](student-perceptions-of-generative-task.md) — related
 - [A pilot study in the author's courses indicates improvement in confidence, interest and performance among a majority of students](pilot-improvement-confidence-interest-performance.md) — related
 - [Requirements (MCAT, prerequisites, graduate-program expectations) drive enrollment in the non-major physics course, with informal requirements from faculty recommendations](requirements-drive-non-major-physics-enrollment.md) — related
+- [Most students reported the open-ended thermal inversion experiment helped them better understand damped harmonic oscillation](open-ended-experiment-improves-understanding-dho.md) — related
+- [About 23% of life science majors in introductory algebra-based physics explicitly perceive no relevance of the course to their majors](23-percent-introductory-physics-irrelevant-to-major.md) — reports the opposite

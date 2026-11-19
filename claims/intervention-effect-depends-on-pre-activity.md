@@ -50,3 +50,4 @@ Authors' interpretation of the online experiment's group means: among lecture gr
 - [CAI-taught LD students significantly outperform lecture-taught LD students on the post-test](cai-outperforms-lecture-ld-posttest.md) — related
 - [Control-group LD students taught by traditional lecture show no significant pre-test to post-test difference](lecture-no-significant-gain-ld-students.md) — related
 - [Instructor worksheet intervention during discussion shows no significant main effect on learning outcomes](no-main-effect-instructor-intervention.md) — related
+- [Discussion-based active learning produced significantly higher transfer-question performance than lecture-based passive learning](discussion-beats-lecture-transfer-items.md) — related

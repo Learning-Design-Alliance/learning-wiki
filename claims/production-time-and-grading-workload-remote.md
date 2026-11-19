@@ -68,3 +68,4 @@ Authors' interpretation of where the increased preparation time arose after the 
 - [Students reported the VR headset added little over the 360-video viewed on a phone, citing setup effort and cost as barriers.](headset-added-little-over-360-video.md) — related
 - [Producing one inverted-classroom video in the pilot took roughly one hour of work, plus about 30 minutes per recording session for system setup by the lecturer](icm-video-production-effort.md) — related
 - [Students invested time and careful planning in producing their videos rather than choosing quick production](students-invest-careful-planning-in-videos.md) — related
+- [Software environment set-up remained a significant pain point for students despite careful course design](environment-setup-pain-point-introductory-coding-course.md) — related

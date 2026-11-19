@@ -50,6 +50,8 @@ PDEODE is a six-step variant of the Predict-Observe-Explain technique proposed b
 - [Prediction Observation Explanation](prediction-observation-explanation.md)
 - [Implementing the predict-observation-explain (POE) sequence inside a virtual laboratory](poe-sequence-in-virtual-laboratory.md)
 - [Correlate-then-explain: students search freely for correlations, then seek scientific causes and present seminars](correlate-then-explain-seminar-sequence.md)
+- [Use challenging, low-cost Predict–Observe–Explain experiments that put students' alternative conceptions about fluid pressure into play](poe-fluid-misconception-experiments.md)
+- [Adapt the POE (predict-observe-explain) method to smartphone-based physics experiments](poe-smartphone-experiments-strategy.md)
 
 ## Examples
 -

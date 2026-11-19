@@ -49,3 +49,4 @@ Interview observation: ten of twelve students critically evaluated questions and
 - [Prior physics content knowledge need is minimal for the PLIC, though some exposure to physics is necessary](plic-minimal-prior-physics-knowledge.md) — related
 - [Selecting all available options on a multiple-response assessment does not represent critical thinking, but limiting selections forces prioritization](selecting-all-options-not-critical-thinking.md) — reports the opposite
 - [Think-aloud interviews reveal three patterns of student response behavior on a multiple-response critical thinking assessment](three-response-patterns-multiple-response-assessment.md) — a broader claim this one bears on
+- [Even after interviewer-led critical analysis, STs initially overlooked missing forces and accepted a physically unjustified localized tangential force](initial-critical-analysis-limitations.md) — related

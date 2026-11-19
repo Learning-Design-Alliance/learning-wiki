@@ -55,3 +55,4 @@ The statement assembles published figures from UNICEF, UNESCO, and others to cha
 - [Computing education has historically excluded marginalized student populations, and large inequities in access persist](computing-education-historic-exclusion-inequity.md) — related
 - Country GDP strongly correlates with the number of ITS research papers a country produces (r=0.88, p<0.001) — related
 - [AIED has reached substantial commercial scale while attracting criticism for poor pedagogy, datafication and surveillance](aied-commercialisation-and-critique-conundrum.md) — related
+- [Only 5-15% of people who require assistive technologies in low- and middle-income countries have access to them, per the WHO](who-5-15-percent-ast-access-low-middle-income-countries.md) — related

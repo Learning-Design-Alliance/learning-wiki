@@ -47,6 +47,7 @@ The article recommends that when emotion regulation is necessary for skill perfo
 - [Use the Three Step Question to link case conceptualization to a concrete intervention goal before rehearsal](three-step-question-decision-making.md)
 - [Sequence microaggression curricula from foundational naming skills toward more complex debriefing skills](foundational-to-complex-microaggression-sequencing.md)
 - [Use peer observation of random differences for history-taking training and predesigned DPs for procedural skills](peer-observation-random-dps-strategy.md)
+- [Sequence learning tasks from simple structure relaxation to substitution reactions in an interactive quantum chemistry setting](interactive-qc-task-sequence-strategy.md)
 
 ## Examples
 -

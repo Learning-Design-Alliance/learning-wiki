@@ -45,6 +45,7 @@ The article recommends concrete supports for the linguistic demands of SBL: pre-
 ## Related Strategies
 
 - [Allocate simulation groups so CALD students receive peer support while interacting with domestic students](group-allocation-supporting-cald-peers-sbl.md)
+- [Provide a pre-arrival Starter Pack to mitigate the language barrier and prepare students in English-language Python terminology](pre-arrival-starter-pack-language-mitigation.md)
 
 ## Examples
 -

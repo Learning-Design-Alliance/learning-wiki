@@ -52,6 +52,7 @@ The article recommends deploying automatic reflection-level classifiers as assis
 - [Deploy automated reflection analytics for immediate, scalable feedback on reflective writing](automated-reflection-analytics-immediate-scalable.md)
 - [Suggest targeted exercises from weak essay categories based on relative student performance](targeted-exercises-weak-essay-categories.md)
 - [Use the predictive model as a screening aid complementing existing academic monitoring, not as a deterministic evaluation tool](predictive-model-as-screening-aid-not-deterministic-tool.md)
+- [Show solution statistics from automatic assessment tools as indirect gamification](solution-statistics-indirect-gamification.md)
 
 ## Examples
 -

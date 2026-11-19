@@ -53,6 +53,7 @@ The article recommends having a human operate the demonstration during public ev
 - [Pair a science culture venue with an active research programme so mediators are trained directly on live research data](scientist-sponsorship-trains-mediators-live-data.md)
 - [Design outreach experiments to be easily repeatable so teachers can incorporate them into their own lessons, and keep teachers central to the activities](repeatable-experiments-teachers-central-outreach.md)
 - [Facilitator role of inviting visitors to hack the live code and pointing to easily altered parameters](facilitator-invites-hacking-of-live-code.md)
+- [Departments can start informal outreach programs without significant budget or curriculum changes by seeding them with existing laboratory demonstrations](low-cost-outreach-seeded-with-lab-demonstrations.md)
 
 ## Examples
 -

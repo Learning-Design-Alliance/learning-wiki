@@ -78,3 +78,4 @@ The report cites survey statistics on teacher training and technology reliance i
 - [Teachers need tailored technical support and time to understand how to use Ecree and integrate it with their instruction](teachers-need-tailored-support-time-ecree-integration.md) — related
 - [Teachers tended to adopt district-provided tools, and single-application step-by-step training supported uptake of Forms](district-provided-tools-single-tool-training.md) — related
 - [Gender, prior digital experience, training and related factors influence digital competence](digital-competence-influencing-factors.md) — a broader claim this one bears on
+- [Extended professional development of 50 or more hours is needed before teachers substantially change their practice](fifty-hour-professional-development-practice-change.md) — related

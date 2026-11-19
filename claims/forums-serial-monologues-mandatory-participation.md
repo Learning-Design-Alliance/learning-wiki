@@ -50,3 +50,4 @@ Survey and interview data on tool preferences. The authors report forum use is "
 - [Prenatal clinicians prefer live, dynamic sessions over online video-based training modules](tic-live-sessions-preference-prenatal.md) — related
 - [Survey respondents rated top tips (76%), case studies (72%), videos (56%), additional resources (55%), and forums/discussion groups (48%) as extremely useful learning formats](learning-preferences-top-tips-case-studies-videos.md) — reports the opposite
 - [The STAR web forum was dismissed by many participants as irrelevant and a format they could not or would not engage with](star-web-forum-dismissed-irrelevant.md) — related
+- [Students prefer working together live on exercise sheets over handouts of solutions, and perceive forums as ineffective for recitations](live-problem-solving-preferred-over-handouts.md) — related

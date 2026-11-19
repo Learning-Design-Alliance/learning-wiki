@@ -41,7 +41,8 @@ The article recommends that "More research effort should be dedicated to the ada
 - [Timing of support poses the assistance dilemma, and no empirically validated principles yet exist for when and how much support to give collaborating students](../claims/assistance-dilemma-timing-no-validated-principles.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Recommendations for developers and users of assistive technologies](ast-development-and-selection-recommendations.md)
 
 ## Examples
 -

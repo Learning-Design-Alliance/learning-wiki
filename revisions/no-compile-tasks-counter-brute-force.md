@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/no-compile-tasks-counter-brute-force.md
+---
+
+# Revision history: [claims/no-compile-tasks-counter-brute-force](../claims/no-compile-tasks-counter-brute-force.md)
+
+### 2026-11-19 · ingest · process:wiki-ingest
+Ingested from arxiv-2006.14476 (On the Nature of Programming Exercises) via eval_harness.py + ingest_extractions.py

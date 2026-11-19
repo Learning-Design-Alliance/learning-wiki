@@ -57,6 +57,7 @@ The report recommends that educators 'integrate AI literacy within the topics th
 - [Offer MLM training as elective modules or student-selected components to ease curriculum overcrowding](mlm-elective-modules-curb-saturation.md)
 - [Embed new curricular content by replacing an existing clerkship activity rather than adding instructional time](replace-existing-clerkship-activity-strategy.md)
 - [Integrate CT into existing subjects such as sciences, maths and English when a standalone CS course is not feasible](integrate-ct-into-existing-subjects.md)
+- [Integrate AI into core curricula by using data that students already produce in subject activities to teach data-related AI competencies](student-produced-data-ai-integration-strategy.md)
 
 ## Examples
 -

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2011
+source_checked: 2026-11-19
 sources:
   - id: viennot-l-de-hosson-c-2011
     resource: "https://doi.org/10.1080/09500693.2012.679034"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The first allusion to the intensity of the beam occurred for a red paper illuminated by the red laser, where 5/8 students seemed freer to envisage 'more or less' diffused red light. [→ Viennot L. & de Hosson C 2011](#viennot-l-de-hosson-c-2011)

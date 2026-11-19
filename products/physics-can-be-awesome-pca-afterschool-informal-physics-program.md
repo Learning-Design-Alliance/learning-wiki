@@ -28,4 +28,4 @@ A physics outreach programme funded through a physics frontier center at a large
 -
 
 ## Key Sources
-- Fracchiolla, C., Prefontaine, B., and Hinko, K. (2020). Community of Practice: A framework for understanding identity development within informal physics programs. https://scholar.google.com/scholar?q=Community+of+Practice+framework+identity+development+informal+physics+programs+Fracchiolla+Prefontaine+Hinko
+- Fracchiolla, C., Prefontaine, B., and Hinko, K. (2020). Community of Practice: A framework for understanding identity development within informal physics programs. https://scholar.google.com/scholar?q=Community+of+Practice+framework+identity+development+informal+physics+programs+Fracchiolla+Prefontaine+Hinko. [doi:10.1103/physrevphyseducres.16.020115](https://doi.org/10.1103/physrevphyseducres.16.020115)

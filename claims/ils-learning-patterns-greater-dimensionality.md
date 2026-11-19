@@ -54,3 +54,4 @@ The commentary reports that Vermunt and Donche (2017) focused on 23 studies cond
 - [Studies since 2004 confirm strong interrelations among processing strategies, regulation strategies, conceptions, and motivations of learning patterns](learning-pattern-components-interrelated.md) — related
 - [The learning patterns model differs from SRL models by being multi-dimensional, non-normative, and including external regulation and lack of regulation](learning-patterns-versus-srl-models.md) — related
 - [Learning patterns relate to contextual factors including teaching strategies, perceptions of the learning environment, and discipline](learning-patterns-contextual-factors.md) — related
+- [Rigor is a continuum and multi-dimensional rather than a binary measure](rigor-continuum-multidimensional-not-binary.md) — related

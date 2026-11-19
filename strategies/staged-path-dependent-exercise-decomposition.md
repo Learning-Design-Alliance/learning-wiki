@@ -42,6 +42,7 @@ To digitalize open-ended statistics exercises without revealing the solution str
 
 - [Structured/Segmented Instruction](structured-segmented-instruction.md)
 - [IDEAL Problem-Solving Model](ideal-problem-solving-model.md)
+- [Provide structured end-of-exercise tasks with model solutions in introductory coding courses](structured-end-of-exercise-tasks-strategy.md)
 
 ## Examples
 -

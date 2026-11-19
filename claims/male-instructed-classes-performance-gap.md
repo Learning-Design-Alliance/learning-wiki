@@ -59,3 +59,4 @@ Registrar final course grades for 31 classes (1949 students), ACT-adjusted via t
 - [Gateway first-year STEM lecture courses show grade penalties averaging -0.41 and gendered performance differences averaging -0.18, roughly 10% of course point totals](gateway-stem-gpd-ten-percent.md) — related
 - [Sample 1 female students earned somewhat higher course grades than male students despite lower FCI scores](fci-female-course-grades-higher.md) — reports the opposite
 - [Female students had higher high school GPA but lower physics 1 and 2 grades than male students, with small effect sizes](gender-grade-patterns-intro-physics-hs-gpa.md) — related
+- [In algebra-based E&M, the only significant gender difference was on the first exam, with male students averaging higher and a weak effect size](algebra-em-first-exam-male-higher.md) — related

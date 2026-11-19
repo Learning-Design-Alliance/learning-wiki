@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: weak
 newest_evidence: 2020
+source_checked: 2026-11-19
 sources:
   - id: danny-doucette-and-chandralekha-singh-2020
     resource: "https://doi.org/10.1119/1.5145518"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Paulette reported that condescending responses from male physics professors made her fear they judged her ability because she was a woman, which made her not want to ask questions and lowered her sense of belonging. [→ Danny Doucette and Chandralekha Singh 2020](#danny-doucette-and-chandralekha-singh-2020)

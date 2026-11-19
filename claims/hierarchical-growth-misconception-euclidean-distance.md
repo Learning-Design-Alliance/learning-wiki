@@ -47,3 +47,4 @@ Numerical analysis using SPSS and the Euclidean Distance Formula on the pretest 
 ## Related Claims
 - [Longer inter-item response times follow larger semantic distances in children's semantic search paths](semantic-distance-predicts-longer-response-times.md) — related
 - [B.Sc. students hold widespread misconceptions about ATP generation by mitochondrial oxidative phosphorylation, rooted in preconceptions from everyday experience](widespread-misconceptions-atp-generation-preconceptions.md) — related
+- [Astronomy misconceptions are numerous and persistent, yet student preconceptions can serve as resources for cognitive growth](astronomy-misconceptions-persistent-yet-productive.md) — related

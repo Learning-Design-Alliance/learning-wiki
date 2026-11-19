@@ -63,6 +63,7 @@ The strategy works through social modeling: when a credible, valued adult visibl
 - [Independent Reading Time](independent-reading-time.md) — the practice context where modeled enthusiasm becomes personal reading behavior
 - [Classroom Library Curation](classroom-library-curation.md) — the infrastructure that makes shared recommendations actionable
 - [Nurture the perceived value of creativity through joyful practice, task relevance, varied tasks, and enthusiastic teacher modeling](nurture-perceived-value-of-creativity-strategies.md)
+- [Use the first day of class to set tone, share enthusiasm, involve students in discussions and boost motivation through relatable contexts](first-day-of-class-tone-and-motivation-strategy.md)
 
 ## Examples
 - A middle-school teacher maintains a "Ms. Rivera Is Reading" whiteboard updated weekly with the book she is currently reading and one honest sentence about it, alongside a student-run recommendation shelf; students add sticky-note reviews and borrow from both sources.

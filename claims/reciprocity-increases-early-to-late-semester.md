@@ -50,3 +50,5 @@ Reciprocity statistics from Table II of the network descriptive results. ISLE re
 - [Network connectivity rose across four weeks in 3D VR co-creation while 2D digital co-creation connectivity declined after week 2](vr-network-connectivity-rises-2d-declines.md) — related
 - [Classroom interaction networks shift over the semester from numerous seatmate ties to fewer, more selective cross-group connections](network-selection-effect-over-semester.md) — related
 - [Late-semester SCALE-UP and ISLE blockmodels exactly match the cohesive subgroups ideal type, while most other networks only approximate it](cohesive-subgroups-ideal-type-scaleup-isle.md) — related
+- [ISLE lab networks were dominated by assigned lab groups with little cross-group interaction](calep-isle-lab-group-network-dominance.md) — related
+- [Modeling Instruction and SCALE-UP developed distinct network structures reflecting their curricula](calep-modeling-scaleup-distinct-network-structures.md) — related

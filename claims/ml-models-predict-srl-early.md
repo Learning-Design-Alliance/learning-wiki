@@ -49,3 +49,4 @@ Sabourin, J. L., Shores, L. R., Mott, B. W., & Lester, J. C. (2013). Understandi
 - [An LSTM-based strategy temporal analytics framework outperforms random forest, SVM, and majority-class baselines for stealth assessment predictive accuracy](lstm-strategy-temporal-analytics-outperforms-baselines.md) — related
 - [All three trained classifiers outperformed the zero-rule baseline (28.4% accuracy) for classifying cognitive engagement in discussion posts](classifiers-beat-zero-rule-baseline-engagement.md) — related
 - [Machine-learning classifiers predict full student response to teacher communication in autism classrooms above random and major-class baselines.](ml-predicts-student-response-autism-communication.md) — related
+- [80% of student responses identified the ML prediction feature as the most useful aspect of the tool](students-favor-ml-prediction-feature.md) — related

@@ -85,6 +85,7 @@ Concrete examples reduce the working-memory and knowledge demands of abstraction
 - [Teach each topic with Glynn's step-by-step Teaching-With-Analogy (TWA) model using multiple concrete analogies](twa-step-by-step-analogy-teaching-strategy.md)
 - [Introduce each geoscience topic through a real-world applied context before presenting supporting science](applied-context-first-geoscience-teaching.md)
 - [Four constructivist pedagogic practices: multiple representations, interconnecting knowledge, extended context, and comparisons/contrasts](constructivist-pedagogic-practices-gerace.md)
+- [Use carefully selected contrasting cases to have students discover general rules rather than explaining the rules first](contrasting-cases-discover-rules-strategy.md)
 
 ## Examples
 - **Kaminski, Sloutsky & Heckler's math learning studies (2008)** — demonstrated that novices learning an abstract mathematical group structure from a concrete "mixing liquids" cover story transferred less well than those learning from abstract symbols, a caution about unexamined concreteness.

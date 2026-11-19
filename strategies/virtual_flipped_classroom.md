@@ -92,6 +92,7 @@ The flipped model's advantage comes from spending scarce synchronous time on act
 - [Improve the teaching quality of online content delivery and use video strategies such as interactive elements and cognitive-load management](improve-recorded-lecture-quality-and-video-strategies.md)
 - [Couple a flipped-classroom didactic rotation with a practice-based FMEA project and ongoing incident learning participation](flipped-didactic-plus-fmea-project-strategy.md)
 - [Use short screencasts plus flipped-classroom homework to deliver computational tool instruction without lecture time](screencasts-flipped-homework-computation-strategy.md)
+- [Redesign in-person peer tutoring for lockdown conditions by combining synchronous tutor-led sessions with asynchronous questionnaires, exercises and recordings](online-peer-tutoring-redesign-strategy.md)
 
 ## Examples
 - **Michigan State University's fully online flipped calculus courses** — students watch short videos and complete online checks before live problem-solving sessions; published studies report improved pass rates over lecture-based online sections.

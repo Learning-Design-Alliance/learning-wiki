@@ -27,4 +27,4 @@ Aiken et al.'s longitudinal registrar dataset contains semester-level demographi
 -
 
 ## Key Sources
-- Aiken, J. M., De Bin, R., Hjorth-Jensen, M., Caballero, M. D. (2020). Predicting time to graduation at a large enrollment American university. arXiv. https://arxiv.org/abs/2005.05104
+- Aiken, J. M., De Bin, R., Hjorth-Jensen, M., Caballero, M. D. (2020). Predicting time to graduation at a large enrollment American university. arXiv. https://arxiv.org/abs/2005.05104. [doi:10.1371/journal.pone.0242334](https://doi.org/10.1371/journal.pone.0242334)

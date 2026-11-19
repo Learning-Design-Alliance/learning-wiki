@@ -49,3 +49,4 @@ Frequency analysis of the procedural (open-ended) interview part across both spe
 - [Nonverbal communication is described significantly more often in psychiatric than surgical ward round interviews](nonverbal-communication-psychiatry-higher.md) — related
 - [Ten literature-based competences are described by over 70% of interviewees in both surgery and psychiatry](ward-round-ten-common-competences.md) — reports the opposite
 - [Ward round competences are distributed by role: teaching to senior doctors, organization to residents](ward-round-role-distribution-teaching-organization.md) — related
+- [Interviewed students frequently reported that outreach developed communication skills, with leadership and teamwork mentioned by nearly 50% and 35% of interviews respectively](outreach-interview-communication-teamwork-skills.md) — related

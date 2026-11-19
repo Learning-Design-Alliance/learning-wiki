@@ -56,3 +56,4 @@ Design-narrative observation of middle school students from an urban Boston scho
 - [Team leadership in the game emerged as shared and shifting, distributed to whoever held the needed information or first solved the task](shared-shifting-team-leadership-game.md) — related
 - [Team members' technical aptitude shaped role adoption, with less game-experienced members taking passive roles and power asymmetries limiting exploration](technical-aptitude-shapes-team-roles.md) — related
 - [Students strongly oppose preassigned teams and value autonomy in review game participation](review-game-team-autonomy.md) — related
+- [When opposing groups exchange raw position data, each team's data reproduces the other team's initial results, showing the discrepancy is in the calculation, not the data](peer-data-exchange-reveals-calculation-error.md) — related

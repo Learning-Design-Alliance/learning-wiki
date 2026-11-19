@@ -47,3 +47,4 @@ The authors' interpretation of their cross-sectional survey data, offered as a p
 
 ## Related Claims
 - [Introductory and upper-level biology students differ in what they say makes a course hard, with 100-level students emphasizing stressors and 300-level students emphasizing cognitive demand](level-differences-hard-course-perceptions.md) — possibly the same claim (merge candidate)
+- [Students characterize rigor differently by course level: workload for introductory courses, cognitive demand for upper-level courses](student-rigor-views-workload-versus-cognitive-demand.md) — a narrower finding that bears on this claim

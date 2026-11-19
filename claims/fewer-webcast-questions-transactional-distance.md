@@ -48,3 +48,4 @@ Archived chat record analysis from stage two of the study. The counts of instruc
 - [No significant differences in exam performance or overall instruction and technology ratings across videoconference/webcast and co-located/dispersed conditions](no-exam-rating-differences-four-distance-conditions.md) — related
 - [Student participation in polls and question-asking stayed similar to face-to-face levels, but problem-set submission and voting behaviour shifted under remote formats](participation-patterns-remote-lecture-formats.md) — related
 - [Webcast students rated the instructor significantly higher than videoconference students on encouraging further learning and motivating follow-up](webcast-higher-instructor-encouragement-ratings.md) — related
+- [Online chat and polls encouraged students, including shy students, to express misconceptions without fear of disrupting the class](chat-and-polls-encourage-misconception-expression.md) — reports the opposite

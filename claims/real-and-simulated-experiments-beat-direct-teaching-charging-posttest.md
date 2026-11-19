@@ -52,3 +52,5 @@ Quasi-experimental posttest comparison among three groups (Real n=86, Sim n=81, 
 - [Seventh-graders taught the 'Systems of the Human Body' unit with the simulation method scored significantly higher on the post-test than peers taught by traditional lecture](simulation-method-higher-posttest-human-body-unit.md) — related
 - [Learning the Solar System with PhET simulation produced significantly higher normalized-gain improvement in conceptual understanding than learning with PowerPoint slides](phet-solar-system-higher-understanding-gain.md) — related
 - [Student satisfaction was higher after simulator-based teaching than after traditional teaching](simulator-teaching-higher-student-satisfaction.md) — related
+- [AP physics students' electrostatics content performance scores rose from pre-test to post-test after guided inquiry with PhET simulations, in one uncontrolled pre-post study](guided-inquiry-simulation-electrostatics-gain.md) — related
+- [Students overwhelmingly report that the simulations influenced their post-test answer choices](student-feedback-simulations-influenced-answers.md) — related

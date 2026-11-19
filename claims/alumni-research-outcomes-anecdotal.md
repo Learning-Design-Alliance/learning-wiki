@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-10
 evidence_strength: weak
-newest_evidence: 2007
+newest_evidence: 2008
 sources:
-  - id: dexin-lu-2007
+  - id: dexin-lu-2008
     resource: "https://doi.org/10.48550/arXiv.0801.2042"
-    title: "Dexin Lu, Dong Ruan, Wang Xu, Nianle Wu, Minwen Xiao, Yu An. (2007). An Experiment of Research-Oriented Teaching/Learning. [doi:10.48550/arXiv.0801.2042](https://doi.org/10.48550/arXiv.0801.2042)"
+    title: "Dexin Lu, Dong Ruan, Wang Xu, Nianle Wu, Minwen Xiao, Yu An. (2008). An Experiment of Research-Oriented Teaching/Learning. Originally published 2007. [doi:10.48550/arXiv.0801.2042](https://doi.org/10.48550/arXiv.0801.2042)"
     author: Dexin Lu, Dong Ruan, Wang Xu, Nianle Wu, Minwen Xiao, Yu An
     q: 1
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q1 i?` The authors report that former students published papers in Nature, Science, and Cell during graduate study, and that students often said their research consciousness initiated in those introductory courses. [→ Dexin Lu 2007](#dexin-lu-2007)
+`q1 i?` The authors report that former students published papers in Nature, Science, and Cell during graduate study, and that students often said their research consciousness initiated in those introductory courses. [→ Dexin Lu 2008](#dexin-lu-2008)
 
 ## Evidence
 
-### Dexin Lu 2007
+### Dexin Lu 2008
 
-Dexin Lu, Dong Ruan, Wang Xu, Nianle Wu, Minwen Xiao, Yu An. (2007). An Experiment of Research-Oriented Teaching/Learning. [doi:10.48550/arXiv.0801.2042](https://doi.org/10.48550/arXiv.0801.2042)
+Dexin Lu, Dong Ruan, Wang Xu, Nianle Wu, Minwen Xiao, Yu An. (2008). An Experiment of Research-Oriented Teaching/Learning. Originally published 2007. [doi:10.48550/arXiv.0801.2042](https://doi.org/10.48550/arXiv.0801.2042)
 
 `q1 · i?` · `design · r1`
 
@@ -46,3 +46,4 @@ Anecdotal outcome report citing individual alumni publications (e.g., a 2005 Nat
 
 ## Related Claims
 - [Biology majors and minors enrolled in postcollege degree programs at higher rates than college alumni overall, with no URM or program differences](postgrad-enrollment-bio-majors-higher-no-urm-difference.md) — related
+- [The LSSDS program shows high demand (oversubscription factor 5-8) and positive testimony from alumni and faculty.](lssds-oversubscription-factor-5-8-testimony.md) — related

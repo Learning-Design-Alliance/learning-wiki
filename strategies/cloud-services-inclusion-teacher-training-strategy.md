@@ -47,6 +47,8 @@ The article recommends that future teachers' training include components of the 
 ## Related Strategies
 
 - [Supervise students' online assessment habits and equip schools with wireless broadband before scaling cloud learning](supervise-online-assessment-habits-and-wireless-budgets.md)
+- [Areas of adaptive cloud-based system use in teacher training](adaptive-cloud-systems-teacher-training-areas.md)
+- [Use CoCalc in science and mathematics teacher training for communication, real-time collaboration, and educational data processing](cocalc-uses-teacher-training-strategy.md)
 
 ## Examples
 -

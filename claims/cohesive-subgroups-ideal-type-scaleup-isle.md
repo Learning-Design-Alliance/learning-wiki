@@ -48,3 +48,5 @@ Discussion-section comparison of image matrices against ideal blockmodel types (
 - [Late-semester active learning classroom networks tend toward coherent subgroups that communicate within positions but have few inter-position links](coherent-subgroups-signature-active-learning-physics.md) — a broader claim this one bears on
 - [Classroom interaction networks shift over the semester from numerous seatmate ties to fewer, more selective cross-group connections](network-selection-effect-over-semester.md) — related
 - [Link reciprocity increases from early to late semester in all four curricula, with ISLE rising from 50% to 90%](reciprocity-increases-early-to-late-semester.md) — related
+- [ISLE lab networks were dominated by assigned lab groups with little cross-group interaction](calep-isle-lab-group-network-dominance.md) — related
+- [Modeling Instruction and SCALE-UP developed distinct network structures reflecting their curricula](calep-modeling-scaleup-distinct-network-structures.md) — related

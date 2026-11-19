@@ -60,3 +60,4 @@ Narrative review citing multiple meta-analytic studies of school-based SEL: the 
 - [Universal school-based SEL programs produce statistically significant positive effects on social-emotional and related outcomes, per two comprehensive meta-analyses](sel-meta-analyses-significant-positive-effects.md) — a broader claim this one bears on
 - [Universal school intervention programs typically show small average effect sizes, with median effects between d = 0.07 and d = 0.16 per a cited review of 74 meta-analyses](universal-interventions-median-effect-sizes-small.md) — related
 - [Implementation fidelity in SEL programs is closely linked to positive program outcomes for teachers and students](sel-fidelity-linked-outcomes.md) — related
+- [Culture-based education positively impacts student social-emotional well-being and math and reading test scores](culture-based-education-wellbeing-and-scores.md) — a narrower finding that bears on this claim

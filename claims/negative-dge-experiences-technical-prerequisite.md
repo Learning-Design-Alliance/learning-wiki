@@ -50,3 +50,4 @@ Qualitative analysis of open questionnaire answers in the exploratory study; stu
 - [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — related
 - [Technical difficulties were the most frequently reported implementation limitation, mentioned in ten of the thirteen studies](pepper-technical-difficulties-most-reported-limitation.md) — related
 - [The study school faced contextual barriers to game-based learning: teacher shortage, low teacher pedagogic profile, minimal ICT infrastructure, remoteness, and overcrowding](rural-school-barriers-game-based-learning.md) — related
+- [Unequal access to stylus-enabled writing devices within a group slowed online collaborative discussions](device-inequality-slows-online-group-discussions.md) — possibly the same claim (merge candidate)

@@ -49,3 +49,4 @@ Interview findings on student resistance in the computation context: instructors
 - [Students generally resisted learning topics on their own outside the classroom and preferred instructor-led learning in class](fc-student-resistance-self-learning.md) — related
 - [Life science students accept and engage enthusiastically with physics and mathematical modeling when applications are perceived as biologically authentic, and resist when they perceive them as irrelevant to biology.](authentic-relevance-drives-life-science-student-engagement.md) — related
 - [Some students hold robust expectations about learning biology that impede the implementation of even well-orchestrated reforms](sticky-expectations-impede-reform.md) — related
+- [Students often resist using equations to think with, yet delight when math explains something they already knew](student-resistance-and-delight-with-math-in-science.md) — related

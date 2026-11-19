@@ -21,6 +21,7 @@ Jupyter Notebook is an open-source interactive computational notebook environmen
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Jupyter notebooks as a free environment for authoring computational essays**: Notebooks are programming environments consisting of inputs into which users can enter code and text, as well as typeset equations, images, and videos. The article notes that "Jupyter notebooks are free to download and use, and are increasingly used by professional data scientists, engineers, and physicists to present their work." Code inputs can be run in any order or multiple times, letting authors test small-scale changes without re-running an entire script. (Tor Ole B. Odden et al. (2019))
+- **Jupyter notebooks for live demonstrations and student-run examples**: Jupyter notebooks are used for in-class demonstrations and are distributed to students for personal study across courses taught in Python, R, MATLAB and C++. The article notes: "the Jupyter notebook (JN) has revolutionised the way we programme [27], with a clear impact when teaching and prototyping: it is free, open-source, interactive, intuitive, and supported by a strong online community." Lecturers produce and run examples on the fly in class. (Felipe Tobar et al. (2021))
 
 ### Claims
 
@@ -29,3 +30,4 @@ Jupyter Notebook is an open-source interactive computational notebook environmen
 
 ## Key Sources
 - Tor Ole B. Odden and John Burk. (2019). Computational Essays in the Physics Classroom. https://uio-ccse.github.io/computational-essay-showroom/
+- Felipe Tobar, Felipe Bravo-Marquez, Jocelyn Dunstan, Joaquín Fontbona, Alejandro Maass, Daniel Remenik, Jorge F. Silva. (2021). Data Science for Engineers: A Teaching Ecosystem. https://arxiv.org/abs/2101.06119

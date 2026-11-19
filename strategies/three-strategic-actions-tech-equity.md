@@ -44,6 +44,7 @@ The scan's executive summary distills its findings into three actions for techno
 
 - [Co-designed recommendations for employers: equitable hiring practices, inclusive work culture, and continued upskilling support](employer-codesigned-tech-pathway-supports.md)
 - [Six recommendations for moving toward a data-driven, worker-centered learning ecosystem](six-recommendations-worker-centered-data-ecosystem.md)
+- [Six program-building actions: gathering subject-matter experts, institutional commitment, industry relationships, laboratory resources, assessment mechanisms, and faculty cluster hires](six-actions-building-qise-programs.md)
 
 ## Examples
 -

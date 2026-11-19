@@ -56,6 +56,7 @@ The article describes a concrete implementation sequence for research topic–dr
 - [Structured individual research-project sequence with faculty mentorship and formative feedback](prbl-structured-research-project-sequence.md)
 - [Structure mentorship with clear expectations, regular feedback, and a supportive environment](mentorship-practices-undergraduate-research-training.md)
 - [Apprenticeship-style co-teaching sequence for sustaining reforms: secondary role first, then lead, then refinement](secondary-then-lead-coteaching-handoff.md)
+- [Sequence a project course as a theoretical-analysis phase, an experimental phase, a written report and an oral presentation](theory-then-experiment-report-and-disputatio-sequence.md)
 
 ## Examples
 -

@@ -72,3 +72,4 @@ Written free-response explanations and think-aloud individual interviews, includ
 - [Most student teachers misidentify the poles of a temporary magnet formed by frictional magnetization, with the misconception more frequent in the control group](frictional-magnetization-pole-misconception.md) — related
 - [Participants commonly view a magnetic pole as located at the ends, a view associated with upper-lower or internal-external surfaces for a ring magnet.](poles-viewed-as-located-at-ends.md) — related
 - [With a sphere magnet, both upper-lower and internal-external surfaces have lost their functions, and the inquiry begins with the question of how to find the poles of a magnet.](sphere-magnet-creates-cognitive-engagement.md) — related
+- [Guided inquiry with electric field simulations significantly improves AP physics students' electric field content performance](guided-inquiry-simulation-electric-fields-gain.md) — related

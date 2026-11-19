@@ -55,3 +55,4 @@ Frequency: Attended supplemental instruction sessions 0.05 0.01 ***"
 - [Regardless of resource-use profile, students reported more frequent use of near-peer social resources (e.g., classmates) than non-peer supports such as instructors or tutoring centers.](near-peer-social-resource-preference.md) — related
 - [Students who reported frequent use of both social and material resources earned significantly lower grades than students in other resource-use profiles.](high-frequency-resource-use-lower-grades.md) — reports the opposite
 - [Students perceived flipped learning as increasing learning independence, including resource-seeking and time management](fl-increased-learning-independence-nursing.md) — related
+- [Students who attended online tutoring scored higher on the preliminary multiple-choice exam test than all students, with p < 0.001 in all three exam sessions](online-tutoring-higher-preliminary-exam-marks.md) — related

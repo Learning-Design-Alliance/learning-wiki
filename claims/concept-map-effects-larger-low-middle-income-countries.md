@@ -47,3 +47,4 @@ Moderator analysis of country economic level (World Bank classification) across 
 ## Related Claims
 - [Learning deficits are appreciably larger in middle-income countries than in high-income countries, with no evidence available from low-income countries](covid-deficits-larger-middle-income-countries.md) — related
 - [Estimated learning deficits are smaller in European studies than in studies from the rest of the world](covid-deficit-smaller-europe-than-rest-of-world.md) — related
+- [Only 5-15% of people who require assistive technologies in low- and middle-income countries have access to them, per the WHO](who-5-15-percent-ast-access-low-middle-income-countries.md) — related

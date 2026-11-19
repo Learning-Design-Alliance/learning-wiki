@@ -56,3 +56,4 @@ Comparison of belonging by sub-discipline (biology vs physical sciences) among w
 - [Cisgender men speak more during small-group or whole-class discussions, reinforcing perceptions of greater competence in STEM.](men-speak-more-discussions-competence-perceptions.md) — related
 - [Chemistry students are significantly less willing to work with women in their groups compared with men; biology shows no such gender bias](chemistry-gender-bias-willingness.md) — related
 - [Women of color in physics employ fragmentation and passing strategies as survival mechanisms in response to microaggressions](women-of-color-fragmentation-survival-strategies.md) — related
+- [Female students experienced distinctive outreach benefits: external recognition was more impactful for them, and their sense of belonging was linked to representation and peer interactions](outreach-female-students-recognition-belonging.md) — related

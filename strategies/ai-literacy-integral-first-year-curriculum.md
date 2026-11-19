@@ -51,6 +51,7 @@ The article recommends that AI literacy education be built into first-year curri
 - [Embed AIL across disciplines by adding modules to existing Digital Literacy courses and offering interdisciplinary AI ethics and legal seminars](embed-ail-modules-and-interdisciplinary-seminars.md)
 - [Mitigation strategy: AI-literacy curricula with fact-checking modules, comprehensive educator training, and transparent documentation of AI use](ai-literacy-fact-checking-mitigation-strategy.md)
 - [Embed resilience and coherence-strengthening interventions into existing curricular structures rather than standalone courses](embed-soc-interventions-existing-frameworks.md)
+- [Use student reflection on subject-related datasets and AI model behavior to address both common core standards and AI competencies](reflection-prompts-ai-integration.md)
 
 ## Examples
 -

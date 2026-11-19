@@ -50,3 +50,4 @@ Case-study analysis across three activity days; the author reports "During the s
 - [No disturbances specifically related to the subject element (students' views of themselves as learners) were found in the Electric Field Hockey activity](efh-no-subject-element-tensions.md) — related
 - [High school students exploring the Electric Field Hockey simulation without instruction encountered and dealt with three types of tensions: strategic, social, and tool tensions](efh-three-tension-types.md) — related
 - [Tool tensions around the simulation's representations persisted through Days 1 and 2, and by Day 3 students showed signs of a consensus that the field-line representations were helpful](efh-tool-tensions-representations-consensus.md) — related
+- [Guided inquiry with electric field simulations significantly improves AP physics students' electric field content performance](guided-inquiry-simulation-electric-fields-gain.md) — related

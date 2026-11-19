@@ -46,3 +46,4 @@ Thematic coding of open-ended post-test feedback from D2 students. The article r
 
 ## Related Claims
 - [Students rated the active demonstration as helpful, engaging, and effective for visualising space management.](active-demonstration-perceptions-dental.md) — a broader claim this one bears on
+- [Students found the visualisation of numerical PDE solutions the most well-received aspect of the course](pde-visualisation-most-valued-by-students.md) — related

@@ -52,3 +52,4 @@ Comparison of CSEM performance of calculus-based female students grouped by ster
 - [Asking introductory physics students to indicate their gender before taking the CSEM does not change their pre-test or post-test performance](gender-inquiry-no-csem-performance-effect.md) — related
 - [Belief that men generally perform better in physics than women is uncommon among introductory physics students (7%–13% agreement)](gender-stereotype-belief-prevalence-7-13-percent.md) — related
 - [Male students' FCI performance shows no difference by stereotype agreement in calculus-based physics](male-performance-unrelated-to-stereotype-agreement.md) — related
+- [No significant gender difference in students' feelings of inclusion in any of the four introductory physics courses](no-gender-difference-inclusion-perception.md) — related

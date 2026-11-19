@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-19
 sources:
   - id: maiiav-popel-2018
     resource: "https://doi.org/10.33407/itlt.v68i6.2404"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The use of the CoCalc cloud service in pre-service mathematics teacher training affects primarily the formation of special professional competencies. [→ MaiiaV. Popel 2018](#maiiav-popel-2018)
@@ -48,3 +49,4 @@ Summarising conclusion reported by the authors in the conclusions section of the
 - [Cocalc Method Significant Competency Gains](cocalc-method-significant-competency-gains.md)
 - [Students entering the experiment showed low informational-technological and subject-pedagogical competency formation alongside sufficient mathematical competencies](cocalc-ascertaining-low-initial-competencies.md) — related
 - [A method of using Microsoft Office 365 (Microsoft Teams) services in adaptive cloud-based teacher training was followed by a statistically significant increase in ICT-competence and student performance](office365-teams-method-ict-competence-increase.md) — related
+- [A CoCalc-based method increased professional competency levels of pre-service mathematics teachers relative to traditional instruction in a 2017 pedagogical experiment](cocalc-method-raises-math-teacher-competency-levels.md) — related

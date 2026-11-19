@@ -51,3 +51,4 @@ Pre- and postsurvey (five-point Likert) in a course of 38 third-year analytical 
 - [Six of eight student groups successfully completed experiments according to their AI-assisted lab manuals](six-of-eight-groups-completed-experiments.md) — related
 - [Large group size (4-5 members) limited individual participation and may have inflated self-assessed confidence](large-group-size-limited-participation-confidence.md) — related
 - [Students found AI effective for ideation and formatting but unreliable for practical experimental details](ai-effective-ideation-unreliable-practical-details.md) — related
+- [Of 62 physics students surveyed, 29 reported increased confidence in choosing physics as a major after participating in outreach](outreach-increased-major-confidence-29-of-62.md) — related

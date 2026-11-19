@@ -66,3 +66,4 @@ External evaluation by WestEd of survey data from more than 1500 responses acros
 
 ## Related Claims
 - [The Educator Ambassador program has directly trained tens of thousands of teachers and students across North America](educator-ambassadors-trained-57000.md) — related
+- [The dual Native Skywatchers educator workshops have been offered annually since 2012 with about 30 participants each](annual-workshops-30-participants.md) — related

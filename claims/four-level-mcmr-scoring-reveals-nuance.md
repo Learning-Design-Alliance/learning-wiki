@@ -50,3 +50,4 @@ Four-level scoring (Completely Correct, Some Correct, Both Correct and Incorrect
 - [At least 75% of students choose at least one correct response on MRM questions, motivating analysis beyond the correct/incorrect dichotomy](mrm-partial-correctness-evidence.md) — possibly the same claim (merge candidate)
 - [Dichotomously scored PIQL results indicate only a very modest improvement in students' quantitative reasoning from introductory physics instruction](piql-dichotomous-scoring-modest-improvement.md) — related
 - [Module analysis (MAMCR) of correct PIQL responses identifies modules that differ across course stages and mix all three PQL constructs](mamcr-modules-differ-across-course-stages.md) — related
+- [Four-level MCMR scoring reveals that at least 60% of students provide at least one correct response to each MCMR item, often coupled with an incorrect response](mcmr-four-level-scoring-nuance.md) — possibly the same claim (merge candidate)

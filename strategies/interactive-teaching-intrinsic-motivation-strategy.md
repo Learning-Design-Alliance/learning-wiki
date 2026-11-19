@@ -52,6 +52,7 @@ The article recommends "fostering a positive learning environment that requires 
 - [Strategies for utilizing emotions to promote learning: spark curiosity via knowledge gaps, foster mastery orientation, transmit enthusiasm, and time emotional events within lessons](utilizing-emotions-to-promote-learning-strategies.md)
 - [Foster supportive classroom environments and monitor academic emotions to improve English learning outcomes](supportive-classroom-emotion-monitoring-strategy.md)
 - [Lecturers should use interactive, student-oriented teaching and foster students' self-regulating learning skills](interactive-teaching-self-regulation-skills-medical-students.md)
+- [Use the first day of class to set tone, share enthusiasm, involve students in discussions and boost motivation through relatable contexts](first-day-of-class-tone-and-motivation-strategy.md)
 
 ## Examples
 -

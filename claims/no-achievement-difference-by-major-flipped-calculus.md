@@ -50,3 +50,4 @@ One-way ANCOVA on the same 92-student quasi-experiment tested the students‟ ma
 - [Flipped classroom instruction produced significantly higher calculus achievement than traditional instruction in a quasi-experiment at University of Tabuk](flipped-classroom-significant-achievement-gain-tabuk-calculus.md) — related
 - [Flipped classrooms benefit students in STEM subjects such as chemistry, engineering, mathematics, and physics less than students in other subjects](flipped-classroom-smaller-effects-stem-subjects.md) — related
 - [First-semester engineering students entering universities of applied sciences show widespread mathematics and physics misconceptions on easy science problems](first-semester-engineering-students-widespread-science-misconceptions.md) — related
+- [No significant difference in gain scores between participants from different STEM-related educational backgrounds](no-background-difference-quantum-gain-scores.md) — related

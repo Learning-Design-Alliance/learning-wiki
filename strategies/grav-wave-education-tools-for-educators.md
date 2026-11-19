@@ -42,6 +42,7 @@ The article points educators to a set of existing tools for teaching gravitation
 - [Use a frontier science facility's detector search as a platform for multi-audience outreach programs](ligo-observatory-outreach-programs.md)
 - [Donate the functional detector built during the course to the host institution for future training and research](donate-functional-detector-to-host-institution.md)
 - [Introduce gravitational waves in high school through debates, hands-on experimentation, and prior optics and gravitation topics as an entry door](gw-via-debates-experiments-optics-entry.md)
+- [Strategies for sharing complex technical topics with young audiences](spot-complex-topic-sharing-strategies.md)
 
 ## Examples
 -

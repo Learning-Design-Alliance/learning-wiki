@@ -47,3 +47,4 @@ The authors analyze the limitation of SHAP and LIME local explanations using the
 
 ## Related Claims
 - [SHAP and LIME agree on which factors are influential in individual predictions and on their direction of effect.](shap-lime-agree-on-local-explanations.md) — reports the opposite
+- [Individualized Shapley values decompose a learner's predicted score into actionable per-feature contributions](individualized-shapley-score-breakup.md) — reports the opposite

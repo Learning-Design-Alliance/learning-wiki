@@ -51,3 +51,4 @@ Graphical evaluation of the joint normality assumption using Q-Q plots, CDF curv
 - [The multivariate normality assumption of the true score model was judged reasonable for all domains and grades](spanish-foundational-skills-normality-assumption-met.md) — possibly the same claim (merge candidate)
 - [Normality assumptions of the true score model appeared reasonable for the course-specific tests](normality-assumption-reasonable-course-specific.md) — possibly the same claim (merge candidate)
 - The outcome data met t-test assumptions: Lilliefors normality (Lo < Lt for both classes) and variance homogeneity (F count 0.579 < F table 1.84) — related
+- [Accelerometer fluctuations of a mobile device laid on a table or hand-held follow a normal distribution](sensor-fluctuations-normal-distribution-table-handheld.md) — related

@@ -70,3 +70,4 @@ On the same student survey, "the majority (75.6%) of students reported not facin
 - [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — related
 - [Maintaining motivation was the most prevalent non-technology challenge students faced learning at a distance](motivation-most-prevalent-remote-challenge.md) — related
 - [Skill-based pharmacy learning (compounding, device counselling, OSCEs) faced validation, access, and transferability challenges when delivered remotely](remote-skill-based-learning-challenges-pharmacy.md) — related
+- [Students' reported motivation to work on course assignments declined strikingly after the shift to remote learning](remote-learning-motivation-decline.md) — related

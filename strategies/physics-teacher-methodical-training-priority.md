@@ -42,7 +42,8 @@ The article's concluding recommendation is that "for informatization of educatio
 - [Applying information technologies to teaching Physics is claimed to optimize teaching, support independent learning, motivation and mobility](../claims/ict-physics-teaching-benefits.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Collaborate across subjects with physics teachers to cover the quantum information teacher-training gap](physics-teacher-collaboration-qip.md)
 
 ## Examples
 -

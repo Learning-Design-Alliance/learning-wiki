@@ -117,3 +117,4 @@ Thematic analysis of open-ended greatest-challenge responses found motivation, m
 - [Making the remote class as similar to the in-person version as possible was the most common challenge instructors reported](instructor-challenges-remote-similarity.md) — related
 - [Student engagement and satisfaction were maintained in the remote kit-based labs: no tuning out was observed and a majority felt the remote labs were equal to in-person labs](remote-kit-labs-engagement-and-satisfaction-maintained.md) — related
 - [Students' most common remote-lab challenges were not doing experiments with physical materials and not having a partner/group](student-challenges-remote-lab-materials-partners.md) — related
+- [Online undergraduate introductory physics courses show higher withdrawal rates than in-person courses](online-intro-physics-higher-withdrawal.md) — related
