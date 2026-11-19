@@ -121778,5 +121778,589 @@
  "simulation\tkinesthetic game in which students act as qubits and scientists\tnot stated": {
   "label": "simulation vs no simulation",
   "treatment_is_a": true
+ },
+ "active-learning\tCQS with peer instruction\ttraditional lecture-based instruction": {
+  "label": "active learning vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tCQS with peer instruction after lecture\ttraditional lecture-based instruction before CQS": {
+  "label": "active learning vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tCQS with peer instruction after lecture\ttraditional lecture-based instruction before the CQS": {
+  "label": "active learning vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tResearch-based active learning with collaborative problem solving and peer discussion\tTraditional lecture instruction": {
+  "label": "active learning vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tResearch-based active learning with collaborative quantitative problem solving and recitations\tTraditional lecture instruction": {
+  "label": "active learning vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tSemester-long active-learning course reform\tTraditional lecture course": {
+  "label": "active learning vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive learning with collaborative problem solving and weekly recitations\ttraditional lecture instruction": {
+  "label": "active learning vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive teaching methods using computer modeling systems\tpassive teaching methods": {
+  "label": "active learning vs passive teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive-learning instruction with collaborative problem solving and recitations\ttraditional lecture instruction": {
+  "label": "active learning vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tclicker multiple-choice sequence with peer discussion\ttraditional lecture-based instruction": {
+  "label": "active learning vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tclicker question sequence with peer instruction\ttraditional lecture-based instruction": {
+  "label": "active learning vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tclicker question sequence with peer interaction\ttraditional lecture-based instruction": {
+  "label": "active learning vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tclicker-based SGE multiple-choice sequence with peer discussion\ttraditional lecture-based instruction": {
+  "label": "active learning vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tclicker-question sequence integrating conceptual and quantitative knowledge\ttraditional lecture-based instruction": {
+  "label": "active learning vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tclicker-question sequence with peer instruction\ttraditional lecture-based instruction": {
+  "label": "active learning vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tclicker-question sequence with peer interaction\ttraditional lecture-based instruction": {
+  "label": "active learning vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative quantitative problem solving driven by Think-Pair-Share questions\ttraditional lecture instruction": {
+  "label": "active learning vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcomputer modeling integrated with cognitive tasks and active learning methods\tpassive learning methods": {
+  "label": "active learning vs passive learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tconcept tests, group discussion, and QuILTs\tother undergraduate instruction without research-based learning tools": {
+  "label": "research-based learning tools vs no research-based learning tools",
+  "treatment_is_a": true
+ },
+ "active-learning\tconcept tests, group discussion, and Quantum Interactive Learning Tutorials (QuILTs)\tno research-based learning tools": {
+  "label": "research-based learning tools vs no research-based learning tools",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive or active-learning methods\tpassive or non-interactive methods": {
+  "label": "active or interactive learning vs passive or non-interactive learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer-delivered outreach visit\tteacher lecture": {
+  "label": "peer-delivered instruction vs teacher lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tproposed active laboratory methodology\tnot stated": {
+  "label": "active laboratory methodology vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tproposed active methodology\tno comparison; single-group survey": {
+  "label": "active methodology vs no comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tquantum computing course module\tbefore the course": {
+  "label": "course instruction vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tquantum computing course with active-learning activities\tbefore the course": {
+  "label": "active-learning course vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tquantum computing course with lectures, group activities, discussions, and simulation-based activities\tbefore taking the course": {
+  "label": "active-learning course instruction vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\treformed course using active learning and weekly recitations\ttraditional lecture section": {
+  "label": "active learning vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\treformed instruction using active learning\ttraditional instruction using lecture": {
+  "label": "active learning vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tresearch-based active learning with collaborative problem solving and TPS\ttraditional lecture": {
+  "label": "active learning vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tresearch-based active learning with collaborative quantitative problem solving and TPS\ttraditional lecture": {
+  "label": "active learning vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tresearch-based active learning with collaborative quantitative problem solving and recitations\ttraditional lecture": {
+  "label": "active learning vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tresearch-based active learning with peer discussion and collaborative problem solving\ttraditional lecture": {
+  "label": "active learning vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tresearch-based active learning with peer discussion and collaborative problem solving\ttraditional lecture instruction": {
+  "label": "active learning vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tresearch-based learning tools, concept tests, group discussion, and QuILTs\tno research-based learning tools": {
+  "label": "research-based learning tools vs no research-based learning tools",
+  "treatment_is_a": true
+ },
+ "active-learning\tresearch-validated MQS with clicker peer discussion\tpretest after traditional lecture-based instruction": {
+  "label": "active learning vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tresearch-validated multiple-choice question sequence with clickers and peer discussion\ttraditional lecture-based instruction": {
+  "label": "active learning vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent-designed experimental project\tusual laboratory methodology using a predetermined script": {
+  "label": "student-designed experimental project vs scripted laboratory",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent-led experimental design and presentation\tusual methodologies that use the application of a pre-determined script": {
+  "label": "student-led experimental design and presentation vs scripted laboratory",
+  "treatment_is_a": true
+ },
+ "active-learning\ttraditional educator-centered lecture\tactive-learning, trust-building approach": {
+  "label": "active learning vs traditional lecture instruction",
+  "treatment_is_a": false
+ },
+ "active-learning\ttransformational-learning teaching approach\tnot stated": {
+  "label": "transformational-learning teaching approach vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tProject Lab\tLab 1": {
+  "label": "project lab vs other lab units",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tProject Lab\tLab 2": {
+  "label": "project lab vs other lab units",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tProject Lab\tLab 3": {
+  "label": "project lab vs other lab units",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tProject Lab\tother lab units": {
+  "label": "project lab vs other lab units",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tProject Lab with highest student agency\tearlier lab units with less student agency": {
+  "label": "high-agency project lab vs lower-agency earlier lab units",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tactive methodology with high freedom to design the project\tusual methodology with a predetermined script": {
+  "label": "student-designed open project vs predetermined scripted lab",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tfully open-inquiry projects\ttraditional confirmation, structured-inquiry, or cookbook labs": {
+  "label": "open-inquiry lab vs confirmation, structured-inquiry, or cookbook lab",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tinformal physics spaces with voluntary engagement and agency\ttraditional academic settings with greater constraints": {
+  "label": "autonomy-supportive informal learning vs constrained traditional academic setting",
+  "treatment_is_a": true
+ },
+ "autonomy-support\topen-ended labs at post-test\tlabs at pre-test": {
+  "label": "post-test vs pre-test",
+  "treatment_is_a": true
+ },
+ "autonomy-support\topen-ended physics labs at end of semester\topen-ended physics labs at start of semester": {
+  "label": "end-of-semester vs start-of-semester",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tremote labs\tin-person labs": {
+  "label": "remote lab vs in-person lab",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent proposes the materials, procedures, and experimental design\tusual laboratory methodology using a predefined script": {
+  "label": "student-designed experiment vs predefined scripted lab",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent-defined project experiment\trecorded experiment": {
+  "label": "student-defined project experiment vs recorded experiment",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent-defined three-week project experiment\trecorded and instructor-defined virtual experiments": {
+  "label": "student-defined project experiment vs recorded instructor-defined virtual experiment",
+  "treatment_is_a": true
+ },
+ "autonomy-support\ttransformed inquiry laboratory with student choice\tcookbook laboratory with prescribed activities": {
+  "label": "student-choice inquiry lab vs prescribed cookbook lab",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tvideo project with student-selected topics\tpre-video assessment": {
+  "label": "student-selected-topic video project vs pre-video assessment",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tvoluntary, agency- and autonomy-supportive informal participation\ttraditional academic settings with greater constraints": {
+  "label": "autonomy-supportive informal learning vs constrained traditional academic setting",
+  "treatment_is_a": true
+ },
+ "case-comparison\tcomparison of datasets with and without repeated values\tsingle dataset with a repeated value": {
+  "label": "Multiple/varied datasets vs a single repeated-value dataset",
+  "treatment_is_a": true
+ },
+ "case-comparison\tcontrasting Doppler-shift cases with student-generated representations\tnot stated": {
+  "label": "Student-generated representations vs not stated",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\toptimal time-varying word distribution\tuniform, frequency-weighted, and optimized fixed-distribution sampling": {
+  "label": "time-varying (dynamic) sequencing vs stationary (fixed) sequencing",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\toptimized time-varying word distribution (P*, Q*)\toptimized stationary distribution (P̄*) and frequency/uniform baseline distributions": {
+  "label": "time-varying (dynamic) sequencing vs stationary (fixed) sequencing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t12-hour conceptual quantum-mechanics intervention\tpre-intervention prior knowledge": {
+  "label": "conceptual instruction vs prior knowledge",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t12-hour conceptual quantum-mechanics intervention\tpre-test and prior conceptualization": {
+  "label": "conceptual instruction vs prior knowledge",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tDSE polarizer questions after the MZI tutorial\tisomorphic MZI polarizer questions before the MZI tutorial": {
+  "label": "post-instruction assessment vs pre-instruction assessment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tMZI tutorial before DSE questions\tMZI polarizer pretest before instruction": {
+  "label": "post-instruction assessment vs pre-instruction assessment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tMZI tutorial before DSE questions\tMZI pretest before tutorial": {
+  "label": "post-instruction assessment vs pre-instruction assessment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tMZI tutorial before the DSE pretest\tNo MZI tutorial before the DSE pretest": {
+  "label": "MZI tutorial vs no MZI tutorial",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tMZI tutorial before the DSE pretest\tno MZI tutorial before the DSE pretest": {
+  "label": "MZI tutorial vs no MZI tutorial",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tMZI tutorial on which-path information\tgraduate students answering DSE questions without the tutorial": {
+  "label": "MZI tutorial vs no MZI tutorial",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tMZI tutorial on which-path information\tno MZI tutorial": {
+  "label": "MZI tutorial vs no MZI tutorial",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tMZI tutorial on which-path information\tno MZI tutorial before the DSE pretest": {
+  "label": "MZI tutorial vs no MZI tutorial",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tMZI tutorial on which-path information\tpre-tutorial MZI questions without WPI instruction": {
+  "label": "MZI tutorial vs no MZI tutorial",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tMZI tutorial teaching WPI reasoning\tDSE-only cohort without the MZI tutorial": {
+  "label": "MZI tutorial vs no MZI tutorial",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tWorked on the MZI tutorial\tDid not work on the MZI tutorial": {
+  "label": "MZI tutorial vs no MZI tutorial",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tconceptual quantum-mechanics didactical intervention\tstudents' prior understanding": {
+  "label": "conceptual instruction vs prior knowledge",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tconceptual quantum-mechanics instruction emphasizing classical–quantum differences\tstudent’s prior classical interpretation": {
+  "label": "conceptual instruction vs prior knowledge",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tconceptual quantum-mechanics intervention\tstudents’ prior knowledge": {
+  "label": "conceptual instruction vs prior knowledge",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction to draw a diagram\tno diagram or instruction regarding diagrams": {
+  "label": "prompt to draw a diagram vs no diagram support",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tgraduate students who worked on the MZI tutorial\tgraduate students who did not work on the MZI tutorial": {
+  "label": "MZI tutorial vs no MZI tutorial",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstruction stressing the distinction between measurement and being in an eigenstate\tstudents’ prior conceptualization": {
+  "label": "conceptual instruction vs prior knowledge",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tless structured inquiry labs\thighly structured traditional labs": {
+  "label": "highly structured traditional labs vs less-structured inquiry labs",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tless-structured inquiry labs\thighly structured traditional labs": {
+  "label": "highly structured traditional labs vs less-structured inquiry labs",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tless-structured inquiry labs\thighly-structured traditional labs": {
+  "label": "highly structured traditional labs vs less-structured inquiry labs",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tprompt to draw a diagram\tinstructor-provided diagram": {
+  "label": "instructor-provided diagram vs prompt to draw a diagram",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tprompt to draw a diagram\tno diagram support": {
+  "label": "prompt to draw a diagram vs no diagram support",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tprompted to draw a diagram\tno diagram support": {
+  "label": "prompt to draw a diagram vs no diagram support",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfeedback after a first open-inquiry project followed by a second project\tfirst open-inquiry project before that feedback and experience": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tdeep personalization model\tbaseline model without personalization": {
+  "label": "deeply personalized model vs non-personalized model",
+  "treatment_is_a": true
+ },
+ "feedback-type\tdeep personalized hints and explanations\tbaseline hints and explanations without personalization": {
+  "label": "deeply personalized hints and explanations vs non-personalized hints and explanations",
+  "treatment_is_a": true
+ },
+ "feedback-type\tdeeply personalized hints and explanations\tbaseline non-personalized hints and explanations": {
+  "label": "deeply personalized hints and explanations vs non-personalized hints and explanations",
+  "treatment_is_a": true
+ },
+ "feedback-type\tshallow personalization model\tbaseline model without personalization": {
+  "label": "shallowly personalized model vs non-personalized model",
+  "treatment_is_a": true
+ },
+ "feedback-type\tshallow personalized hints and explanations\tbaseline hints and explanations without personalization": {
+  "label": "shallowly personalized hints and explanations vs non-personalized hints and explanations",
+  "treatment_is_a": true
+ },
+ "feedback-type\tshallowly personalized hints and explanations\tbaseline non-personalized hints and explanations": {
+  "label": "shallowly personalized hints and explanations vs non-personalized hints and explanations",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tpeer assessment used to individualise team marks\tsingle team mark without individual contribution assessment": {
+  "label": "individualized team marks vs single team mark",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tpeer assessment with individualised team marks\tsingle team mark without individual contribution assessment": {
+  "label": "individualized team marks vs single team mark",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tpeer assessment with individualized team marks\tsingle team mark without peer assessment": {
+  "label": "individualized team marks vs single team mark",
+  "treatment_is_a": true
+ },
+ "gamification\tframing an activity as a game\tusing game mechanics": {
+  "label": "game framing vs game mechanics",
+  "treatment_is_a": true
+ },
+ "gamification\tgamification\tcomparison conditions": {
+  "label": "gamification vs no gamification",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tDSE QuILT before DSE post-test\tDSE pretest before DSE QuILT": {
+  "label": "learning activity before assessment vs assessment before learning activity",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tDSE QuILT using guided inquiry and interactive simulations\tDSE pretest before the DSE QuILT": {
+  "label": "guided inquiry with interactive simulation vs no guided-inquiry activity",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tDSE QuILT with guided inquiry and interactive simulation\tbefore working on the DSE QuILT": {
+  "label": "guided inquiry with interactive simulation vs no guided-inquiry activity",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tDSE interactive tutorial\tbefore the DSE tutorial": {
+  "label": "interactive tutorial vs no tutorial",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tMZI QuILT before DSE questions\tDSE questions before MZI QuILT": {
+  "label": "learning activity before questions vs questions before learning activity",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tMZI QuILT using guided inquiry and interactive simulations\tDSE→MZI cohort without prior MZI QuILT": {
+  "label": "guided inquiry with interactive simulation vs no prior guided-inquiry activity",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided inquiry\topen inquiry": {
+  "label": "guided inquiry vs open inquiry",
+  "treatment_is_a": true
+ },
+ "guided-discovery\topen-inquiry experiment\tguided-inquiry experiment": {
+  "label": "guided inquiry vs open inquiry",
+  "treatment_is_a": false
+ },
+ "media-design\tConcepts 1, 2, and 5\tConcepts 3, 4, and Others": {
+  "label": "Concepts 1, 2, and 5 vs Concepts 3, 4, and Others",
+  "treatment_is_a": true
+ },
+ "media-design\tInstructor-provided diagram\tNo diagram or instruction about diagrams": {
+  "label": "Instructor-provided diagram vs no diagram",
+  "treatment_is_a": true
+ },
+ "media-design\tInstructor-provided diagram\tPrompt to draw a diagram": {
+  "label": "Instructor-provided diagram vs student-prompted diagram",
+  "treatment_is_a": true
+ },
+ "media-design\tProblems provided with diagrams\tProblem without a provided diagram": {
+  "label": "Problem with a provided diagram vs problem without a provided diagram",
+  "treatment_is_a": true
+ },
+ "media-design\tdiagram provided\tno diagram provided": {
+  "label": "Instructor-provided diagram vs no diagram",
+  "treatment_is_a": true
+ },
+ "media-design\tdiagram provided by instructor\tno diagram or instruction regarding diagrams": {
+  "label": "Instructor-provided diagram vs no diagram",
+  "treatment_is_a": true
+ },
+ "media-design\tdiagram provided by instructor\tstudents prompted to draw a diagram": {
+  "label": "Instructor-provided diagram vs student-prompted diagram",
+  "treatment_is_a": true
+ },
+ "media-design\tinstructor-provided diagram\tno diagram provided": {
+  "label": "Instructor-provided diagram vs no diagram",
+  "treatment_is_a": true
+ },
+ "media-design\tinstructor-provided diagram\tprompted to draw a diagram": {
+  "label": "Instructor-provided diagram vs student-prompted diagram",
+  "treatment_is_a": true
+ },
+ "media-design\tprovided an instructor-drawn diagram\tgiven no diagram or instruction about diagrams": {
+  "label": "Instructor-provided diagram vs no diagram",
+  "treatment_is_a": true
+ },
+ "media-design\tprovided an instructor-drawn diagram\tprompted to draw a diagram": {
+  "label": "Instructor-provided diagram vs student-prompted diagram",
+  "treatment_is_a": true
+ },
+ "media-design\tprovided an instructor-drawn diagram (DO)\tgiven no diagram or instruction (NS)": {
+  "label": "Instructor-provided diagram vs no diagram",
+  "treatment_is_a": true
+ },
+ "media-design\tprovided an instructor-drawn diagram (DO)\tprompted to draw a diagram (PO)": {
+  "label": "Instructor-provided diagram vs student-prompted diagram",
+  "treatment_is_a": true
+ },
+ "prompts\tRequest Feedback or answering teachers’ questions with a dedicated response moment\tno dedicated response moment": {
+  "label": "dedicated response moment vs no dedicated response moment",
+  "treatment_is_a": true
+ },
+ "prompts\tlife-file connection responses\tscientific responses": {
+  "label": "life-related connections vs scientific responses",
+  "treatment_is_a": true
+ },
+ "prompts\tprompted to draw a diagram\tgiven no diagram or instruction": {
+  "label": "prompted diagram drawing vs no diagram prompt",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tonline administration with explicit participation credit\thistorical norms": {
+  "label": "participation credit vs no participation credit",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tparticipation-only clicker grade\tcorrectness-only clicker grade": {
+  "label": "participation-based rewards vs correctness-based rewards",
+  "treatment_is_a": true
+ },
+ "scaffolding\t2018 sequence with an added on-ramp module\t2017 sequence without an on-ramp module": {
+  "label": "on-ramp module vs no on-ramp module",
+  "treatment_is_a": true
+ },
+ "scaffolding\tQuantum Interactive Learning Tutorial with scaffolding\tpretest before working through the QuILT": {
+  "label": "scaffolded QuILT vs pretest before QuILT",
+  "treatment_is_a": true
+ },
+ "scaffolding\tclimate topics introduced in disconnected chunks\tholistic visual scaffolding revisited across the course": {
+  "label": "holistic visual scaffolding revisited across the course vs disconnected topic chunks",
+  "treatment_is_a": false
+ },
+ "scaffolding\tcomputational essays with modeling, writing, examples, seed simulations, help sessions, and peer presentations\tstudents' pre-project understanding and prior coursework": {
+  "label": "scaffolded computational essays vs pre-project understanding and prior coursework",
+  "treatment_is_a": true
+ },
+ "scaffolding\tmore extensive scaffolding\tless extensive scaffolding": {
+  "label": "more extensive scaffolding vs less extensive scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tnumber-line representation for modeling the median\tworking with discrete data elements without a number-line representation": {
+  "label": "number-line representation vs no number-line representation",
+  "treatment_is_a": true
+ },
+ "scaffolding\ton-ramp module\tpropensity-score-matched prior-semester population without the on-ramp": {
+  "label": "on-ramp module vs no on-ramp module",
+  "treatment_is_a": true
+ },
+ "scaffolding\ton-ramp module for students who accessed its instruction after failing the initial attempt\tpropensity-score-matched students from the previous semester without the on-ramp": {
+  "label": "on-ramp module vs no on-ramp module",
+  "treatment_is_a": true
+ },
+ "scaffolding\ton-ramp module for students who passed before accessing its instruction\tpropensity-score-matched students from the previous semester without the on-ramp": {
+  "label": "on-ramp module vs no on-ramp module",
+  "treatment_is_a": true
+ },
+ "scaffolding\ton-ramp students who passed before accessing the instructional component\tmatched prior-semester students": {
+  "label": "on-ramp module vs no on-ramp module",
+  "treatment_is_a": true
+ },
+ "scaffolding\tprovided instructor-drawn diagram\tno diagram support": {
+  "label": "instructor-drawn diagram vs no diagram support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolded computational-essay assignment\tno comparison condition reported": {
+  "label": "scaffolded computational-essay assignment vs no comparison condition reported",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolded computational-essay investigation\tstandard physics assignments": {
+  "label": "scaffolded computational-essay investigation vs standard physics assignments",
+  "treatment_is_a": true
+ },
+ "scaffolding\tsecond-level scaffolding (SL2)\tfirst-level scaffolding (SL1)": {
+  "label": "second-level scaffolding vs first-level scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tsecond-level scaffolding (SL2)\tno scaffolding (SL0)": {
+  "label": "second-level scaffolding vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\ttwo increasing levels of scaffolding for plotting the electric field\tno scaffolding support": {
+  "label": "increasing levels of scaffolding vs no scaffolding support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tusing a number-line representation to model and find the median\toperating on discrete data elements without the number-line representation": {
+  "label": "number-line representation vs no number-line representation",
+  "treatment_is_a": true
+ },
+ "scaffolding\tvalidated six-question CQS\tno direct comparison reported": {
+  "label": "validated six-question CQS vs no direct comparison reported",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation lab\thands-on lab": {
+  "label": "simulation vs hands-on lab",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation lab\tremote lab": {
+  "label": "simulation vs remote lab",
+  "treatment_is_a": true
+ },
+ "test-format\tonline unproctored administration\tin-person proctored administration": {
+  "label": "online unproctored vs in-person proctored",
+  "treatment_is_a": true
  }
 }

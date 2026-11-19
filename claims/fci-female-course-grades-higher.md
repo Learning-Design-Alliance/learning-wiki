@@ -51,3 +51,4 @@ Observational comparison of course letter grades for about two-thirds of Sample 
 - [Female physiotherapy students achieve higher GPAs than male students](female-students-higher-gpa-physiotherapy.md) — related
 - [Preliminary course data showed a higher proportion of female students earning A+ grades than male students](preliminary-a-plus-proportion-sex-gap.md) — related
 - [Male-instructed classes show a small performance gender gap in favor of males (0.20 SD), while female-instructed classes show no significant gap](male-instructed-classes-performance-gap.md) — reports the opposite
+- [Female students had higher high school GPA but lower physics 1 and 2 grades than male students, with small effect sizes](gender-grade-patterns-intro-physics-hs-gpa.md) — reports the opposite

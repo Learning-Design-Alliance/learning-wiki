@@ -16,6 +16,8 @@ sources:
     author: Rollinde, E.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: rollinde-2019-2
     resource: "https://doi.org/10.48550/arXiv.1910.09403"
     title: "Rollinde, E. (2019). Enacting Planets to Understand Occultation Phenomena. [doi:10.48550/arXiv.1910.09403](https://doi.org/10.48550/arXiv.1910.09403)"
@@ -42,7 +44,7 @@ sources:
 
 Rollinde, E. (2019). Enacting Planets to Understand Occultation Phenomena. [doi:10.48550/arXiv.1910.09403](https://doi.org/10.48550/arXiv.1910.09403)
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Authors' analysis of the model's failed prediction: the Orrery's 2D geometry cannot represent that Venus's orbital plane is not aligned with Earth's, so transits occur only where the two planes intersect. Real transits occur in pairs separated by 8 years with a periodicity of about 120 years, versus the model's 575 days.
 

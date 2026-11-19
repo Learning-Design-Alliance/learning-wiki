@@ -16,12 +16,14 @@ sources:
     author: Amy Lisa Graves, Adam Light
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Matching code versions to the data they produced is a skill valued by most respondents but learned primarily on the job during research
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Amy Lisa Graves, Adam Light. (2020). Hitting the ground running: Computational physics education to prepare students for computational physics research. Originally published 2019. [doi:10.1109/mcse.2019.2963670](https://doi.org/10.1109/mcse.2019.2963670)
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Survey result for skill E4 (recording the version of code used to produce a data set), discussed alongside the Figure 2 pie charts. The article reports the skill was "valued	by	93%	of	respondents" yet "learned	primarily	on	the	job".
 

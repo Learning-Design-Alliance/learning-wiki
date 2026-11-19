@@ -107,3 +107,4 @@ On the same survey question 2(a), 9% of the 202 students wrote responses with no
 - [Students fail to transfer the superposition principle from classical contexts to particle waves and treat stationary states as the only allowed wave functions](superposition-lateral-transfer-difficulty.md) — related
 - [Teaching of complex quantum behavior — time dependence, superposition, and the measurement problem — is barely investigated at the secondary and lower undergraduate level](complex-quantum-behavior-barely-investigated.md) — related
 - [Many non-specialist physicists incorrectly believe special relativity cannot model time dilation due to acceleration](physicists-misconception-sr-cannot-handle-acceleration.md) — related
+- [Students attributed Time Evolution to Physical Systems themselves rather than to states, and only one student evidenced the role of initial conditions in both Classical and Quantum Mechanics](time-evolution-attributed-to-system.md) — related

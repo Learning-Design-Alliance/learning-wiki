@@ -69,3 +69,4 @@ Survey data reported via Fig. 4 indicate the continuous evaluation test model is
 - [Students report medium-to-high dissatisfaction with tutor and consultant support at the UOC](dissatisfaction-tutor-consultant-support.md) — related
 - [Students across all knowledge areas report gaining new technological competences from studying online at the UOC](uoc-online-study-gains-digital-competences.md) — related
 - [Flexible time allocation and repeatability were the main reasons students chose the online format](flexibility-repeatability-drive-online-choice.md) — related
+- [Physics Ph.D. students report three main areas of difficulty: professional, economic and personal](physics-phd-three-difficulty-areas.md) — related

@@ -52,3 +52,7 @@ Network-level descriptive analysis across the five collections found reported ti
 - [Closeness at the start of the second semester is predicted by prior participation in MI and by closeness at the end of the first semester](closeness-persists-across-semesters.md) — related
 - [The relationship between classroom engagement and future academic performance does not emerge until the second half of the semester](engagement-performance-link-emerges-late.md) — related
 - [Out-of-class networks are basically fully developed by midsemester, with about 95% of eventual members already present by week 8](out-of-class-networks-developed-by-midsemester.md) — related
+- [Late-semester active learning classroom networks tend toward coherent subgroups that communicate within positions but have few inter-position links](coherent-subgroups-signature-active-learning-physics.md) — related
+- [Link reciprocity increases from early to late semester in all four curricula, with ISLE rising from 50% to 90%](reciprocity-increases-early-to-late-semester.md) — related
+- [Network density roughly doubles from week 1 to week 10 in three of the four curricula, with Peer Instruction showing only a marginal increase](week10-density-doubles-three-curricula.md) — related
+- [Late-semester SCALE-UP and ISLE blockmodels exactly match the cohesive subgroups ideal type, while most other networks only approximate it](cohesive-subgroups-ideal-type-scaleup-isle.md) — related

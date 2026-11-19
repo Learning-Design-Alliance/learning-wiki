@@ -48,3 +48,6 @@ Observational study of 37 mixed-gender pairs in a first-year honours physics lab
 - [The distribution of within-pair equipment use departs from flat sharing, hinting that one partner — more often the male — takes over the apparatus, an effect marginal at 37 pairs](one-partner-takes-over-equipment-marginal.md) — reports the opposite
 - [Averaged code fractions corroborate the cluster result: men handle equipment more and women use laptops more in inquiry labs](inquiry-lab-code-fractions-corroborate-clusters.md) — reports the opposite
 - [In inquiry-based physics labs, women's profiles cluster in laptop use and men's in equipment use, indicating gendered task division](gendered-task-division-inquiry-labs.md) — reports the opposite
+- [Whether lab groups share or divide tasks does not seem to depend on single- versus mixed-gender composition](lab-task-sharing-independent-of-group-composition.md) — related
+- [In mixed-gender lab groups, men spent more time on the equipment while women spent more time on paper](mixed-gender-lab-groups-men-equipment-women-paper.md) — related
+- [In mixed-gender inquiry-lab groups, women spent about twice as much time as men analyzing data on laptops (14±7% vs 6±3% of the lab period)](women-twice-laptop-analysis-time.md) — related

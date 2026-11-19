@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 324 claims (208 show a difference, 63 mixed, 53 no difference) · 203 studies (77 associational, 69 causal, 28 review, 10 quant-synthesis, 7 qualitative, 7 theoretical, 5 design), `q1`–`q4` · 49 of 203 report an effect size · 316 claims rest on one study
+> **Evidence** · 327 claims (210 show a difference, 63 mixed, 54 no difference) · 205 studies (79 associational, 69 causal, 28 review, 10 quant-synthesis, 7 qualitative, 7 theoretical, 5 design), `q1`–`q4` · 50 of 205 report an effect size · 319 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -360,6 +360,9 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Group work with manipulatives transforms mathematical problem solving into a social activity, decreasing student anxiety and increasing engagement](../claims/manipulative-group-work-reduces-anxiety-increases-engagement.md) [+M] — measured as an outcome of the instruction studied
 - [Traditional exams behave like implicit tiered assessment but retain workload, anxiety and grade-inflation problems](../claims/traditional-exams-pass-at-fifty-percent-dilutes-competence-evidence.md) [+W] — measured as an outcome of the instruction studied
 - [STEM courses increased the frequency and intensity of anxiety episodes for students with anxiety-related diagnoses, and testing accommodations reduced test anxiety](../claims/stem-course-anxiety-testing-accommodations.md) [+M] — measured as an outcome of the instruction studied
+- [Self-efficacy correlated positively and test anxiety negatively with FCI post-test and exam scores](../claims/self-efficacy-test-anxiety-correlate-with-scores.md) [+M] — learners who differ on it differ in outcomes
+- [Students framed \"simulation\" as exams and quizzes eliciting test anxiety, with no association to data or computer experiments](../claims/students-simulation-exam-frame-no-data-link.md) [+M] — measured as an outcome of the instruction studied
+- [Test anxiety was not a significant predictor of assessment scores despite women reporting higher anxiety](../claims/test-anxiety-not-significant-predictor.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

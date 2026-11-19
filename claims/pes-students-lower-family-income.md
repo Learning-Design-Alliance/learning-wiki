@@ -17,12 +17,14 @@ sources:
     author: Shahab Boumi, Adan Vela
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # PES students come from families with lower income levels compared to FES and MES students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Shahab Boumi, Adan Vela. (2020). Quantifying the relationship between student enrollment patterns and student performance. [doi:10.48550/arXiv.2003.10874](https://doi.org/10.48550/arXiv.2003.10874)
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Kruskal-Wallis H test comparing annual family income distributions (FAFSA-reported) across FES, MES, and PES students at UCF, illustrated in Figure 3 with percentile plots. The article concludes PES students come from families with lower income levels and need more financial support.
 

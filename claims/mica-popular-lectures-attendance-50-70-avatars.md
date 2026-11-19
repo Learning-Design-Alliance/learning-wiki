@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: moderate
-newest_evidence: 2012
+newest_evidence: 2013
 sources:
-  - id: s-g-djorgovski-2012
+  - id: s-g-djorgovski-2013
     resource: "https://doi.org/10.48550/arXiv.1301.6808"
-    title: "S. G. Djorgovski, Piet Hut, Rob Knop, Giuseppe Longo, Steve McMillan, Enrico Vesperini, Ciro Donalek, Matthew Graham, Asish Mahabal, Franz Sauer, Charles White, Crista Lopes. (2012). The MICA Experiment: Astrophysics in Virtual Worlds. ref. proc. SLACTIONS 2012 International Research Conference on Virtual Worlds. [doi:10.48550/arXiv.1301.6808](https://doi.org/10.48550/arXiv.1301.6808)"
+    title: "S. G. Djorgovski, Piet Hut, Rob Knop, Giuseppe Longo, Steve McMillan, Enrico Vesperini, Ciro Donalek, Matthew Graham, Asish Mahabal, Franz Sauer, Charles White, Crista Lopes. (2013). The MICA Experiment: Astrophysics in Virtual Worlds. ref. proc. SLACTIONS 2012 International Research Conference on Virtual Worlds. Originally published 2012. [doi:10.48550/arXiv.1301.6808](https://doi.org/10.48550/arXiv.1301.6808)"
     author: S. G. Djorgovski, Piet Hut, Rob Knop, Giuseppe Longo, Steve McMillan, Enrico Vesperini, Ciro Donalek, Matthew Graham, Asish Mahabal, Franz Sauer, Charles White, Crista Lopes
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` The MICA public lecture program, held weekly during academic terms, was very popular with typical attendance of ~50-70 avatars. [→ S. G. Djorgovski 2012](#s-g-djorgovski-2012)
+`q2 i?` The MICA public lecture program, held weekly during academic terms, was very popular with typical attendance of ~50-70 avatars. [→ S. G. Djorgovski 2013](#s-g-djorgovski-2013)
 
 ## Evidence
 
-### S. G. Djorgovski 2012
+### S. G. Djorgovski 2013
 
-S. G. Djorgovski, Piet Hut, Rob Knop, Giuseppe Longo, Steve McMillan, Enrico Vesperini, Ciro Donalek, Matthew Graham, Asish Mahabal, Franz Sauer, Charles White, Crista Lopes. (2012). The MICA Experiment: Astrophysics in Virtual Worlds. ref. proc. SLACTIONS 2012 International Research Conference on Virtual Worlds. [doi:10.48550/arXiv.1301.6808](https://doi.org/10.48550/arXiv.1301.6808)
+S. G. Djorgovski, Piet Hut, Rob Knop, Giuseppe Longo, Steve McMillan, Enrico Vesperini, Ciro Donalek, Matthew Graham, Asish Mahabal, Franz Sauer, Charles White, Crista Lopes. (2013). The MICA Experiment: Astrophysics in Virtual Worlds. ref. proc. SLACTIONS 2012 International Research Conference on Virtual Worlds. Originally published 2012. [doi:10.48550/arXiv.1301.6808](https://doi.org/10.48550/arXiv.1301.6808)
 
 `q2 · i?` · `design · r1`
 
@@ -50,3 +50,5 @@ Program description from the Education and Public Outreach section: public lectu
 - [The program's first teleconferenced academic conference drew 30 attendees, and a straw poll showed residents and faculty were happy with the format and interested in continuing remotely](first-teleconference-30-attendees-straw-poll-positive.md) — related
 - [Polled MICA members who discontinued VW use most often cited lack of time, with avatar stigma and user-experience quality as additional factors](academic-non-uptake-of-vws-reasons.md) — related
 - [Residents who prepared and gave supervised video lectures all reported learning a lot from it, and most advisors valued teaching a colleague](resident-presentation-preparation-benefits.md) — related
+- [Virtual seminars enable faster dissemination of new research than in-person visits](virtual-seminars-faster-dissemination.md) — related
+- [Virtual seminars reach global audiences comparable in size to medium-sized conferences](virtual-seminars-global-audience-scale.md) — related

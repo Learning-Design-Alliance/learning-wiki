@@ -65,6 +65,7 @@ Culturally responsive texts raise engagement and comprehension by connecting new
 - [Year-round integration of Black history, culture, and contributions across curriculum, environment, and programming](year-round-black-history-culture-integration.md)
 - [Generate multiple concise LLM perspectives for learners to select from, and explore relevance-driven diversity aligned with learner interests](multiple-concise-llm-perspectives-learner-selection.md)
 - [Schools lacking ethnic diversity with small Latino representation should implement programs recognizing and empowering Latino culture and identity](latino-culture-identity-programs-low-diversity-schools.md)
+- [Open the course with a local Indigenous cultural perspective lecture and reinforce diverse voices with scientist life stories](indigenous-guest-lecture-diverse-voices-norms-strategy.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the instructional vehicle for core texts

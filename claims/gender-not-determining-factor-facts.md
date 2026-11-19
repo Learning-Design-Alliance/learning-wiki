@@ -74,3 +74,5 @@ Paired t-tests within the experimental group by gender: males' mean paired diffe
 - [No statistically significant interaction effects by gender or socioeconomic status in improvement of geospatial skills or atmospheric science knowledge](no-gender-ses-interaction-gst-learning-gains.md) — related
 - [Knowledge improvement after the SDL package does not differ significantly by gender](no-gender-difference-sdl-ecg-knowledge-gain.md) — related
 - [Gender and its interaction with prior fit correction skill did not significantly predict FCST post-test scores](gender-not-significant-fcst-improvement.md) — related
+- [Male participants showed significantly larger normalized gains than female participants in the dataset activity](gender-gap-dataset-activity-gains.md) — related
+- [Two-way ANOVA found no statistically significant interaction between gender and undergraduate/science educator status](no-gender-status-interaction-effect.md) — related

@@ -50,3 +50,4 @@ Whole-test analysis of the protoPIQL administered to 1,076 introductory physics 
 - [CCMI Cronbach's alpha of 0.77 falls just below the 0.80 low-stakes cutoff, but is argued to underestimate true internal consistency](ccmi-cronbach-alpha-internal-consistency.md) — related
 - [Cronbach's alpha values for OSCE scores vary widely across studies, ranging from 0.43 to 0.93, with most studies not reaching good internal consistency](osce-cronbach-alpha-wide-variability.md) — related
 - [The ten-item interferometry test showed acceptable reliability: average α = 0.675 with post-test discriminations within accepted limits except item 10 in fall 2016](interferometry-test-alpha-0-675-reliability.md) — related
+- [CTT parameters on the protoPIQL identified weak items (too easy or low discrimination), driving item removal and addition across versions](protopiql-ctt-weak-items-removed.md) — related

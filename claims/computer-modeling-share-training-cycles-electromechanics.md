@@ -51,3 +51,4 @@ The article states, citing reference [1] (the Ministry of Education branch progr
 - [Within the general scientific group applied mathematics competencies lead (38.3%), and within the common professional group critical thinking leads (28.2%)](applied-mathematics-and-critical-thinking-lead-groups.md) — related
 - [Experts judge competencies in modeling of electromechanical systems the most weighty specific professional competency (24.7%) versus an average 18.8% for related competencies](modeling-electromechanical-systems-top-specific-competency.md) — related
 - [Xcos on Web in its current preliminary stage leaves CLR and GAIN blocks unconfigurable, preventing simulation via the Simulate button](xcos-on-web-unconfigurable-blocks-limit-simulate.md) — related
+- [Lack of methodical support and low teacher awareness of computer modeling hinder students' competence formation](low-teacher-awareness-cmods-hinders-competence.md) — related

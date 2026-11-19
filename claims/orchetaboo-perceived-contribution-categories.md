@@ -51,3 +51,4 @@ Content analysis of the interview question about what contributions the game mad
 - [Students' main difficulties during OrCheTaboo were associating concepts and giving scientific descriptions, with lack of knowledge and forbidden terms also cited](orchetaboo-student-difficulties-describing.md) — related
 - [Students' views on the animated 5E activities clustered around active learning, motivation and enjoyment, with time demands as the main disadvantage](student-views-animated-5e-advantages.md) — related
 - [A large majority of students perceived the gamified review activities as useful, motivating, and enjoyable](students-perceive-gamification-useful-motivating-enjoyable.md) — related
+- [Students reported the Korbit dialogue chat was at least as fun as learning alone and often helped them learn](korbit-chat-fun-and-learning-help-questionnaire.md) — related

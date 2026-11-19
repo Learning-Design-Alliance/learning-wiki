@@ -109,3 +109,4 @@ Key findings of an evaluation of a community college CBE consortium under the Ha
 - [The study examines student participation mix, program issues, and certification and other outcomes](it-certification-participants-issues-outcomes.md) — a broader claim this one bears on
 - [Career coaching participants showed increased employment rates and earnings after participating in coaching activities](coaching-associated-employment-earnings-gains.md) — related
 - [The review reports, citing Meyer et al., that stacking micro-credentials increases employment by four percent and quarterly wages by seven percent](stacking-microcredentials-increases-employment-wages.md) — related
+- [Across its first three editions Athena enrolled on average 70–80 pupils per year, with 80–90% obtaining participation certificates and withdrawal around 15–20%](athena-participation-completion-rates.md) — related

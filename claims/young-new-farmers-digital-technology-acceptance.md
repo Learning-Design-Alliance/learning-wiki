@@ -53,3 +53,4 @@ Chi-square tests on digital technology acceptance and platform proficiency among
 - [K-means clustering identifies three distinct ability profiles among young new farmers, with varying overlap across competency dimensions.](kmeans-clustering-ability-profiles.md) — related
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — related
 - [Young new farmers in Guangdong Province exhibit strong professional identity and positive career expectations.](young-new-farmers-strong-professional-identity.md) — related
+- [Most respondents lack understanding of blockchain technology and have never used it or digital wallets](low-blockchain-and-digital-wallet-knowledge.md) — related

@@ -65,6 +65,10 @@ Iterative learning is the element in which learners improve through repeated cyc
 
 - *Does working through cycles of attempt, feedback and revision improve the quality of learners' work?* [Students' argumentative essay quality improves substantially from initial to revised drafts regardless of feedback source](../claims/essay-quality-improves-from-initial-to-revised.md) [+M]
 
+## Examples
+
+- [Add peer review and revision cycles to computational essay courses to supply feedback and correctness checking](../strategies/peer-review-revision-for-computational-essays.md)
+
 ## Related Elements
 - [Revision](revision.md)
 - [Feedback](feedback.md)

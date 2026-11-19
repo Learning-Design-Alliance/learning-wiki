@@ -52,6 +52,7 @@ The article recommends that teachers alter contexts to facilitate students' sens
 - [Build growth-mindset classroom cultures through teacher practices that convey all students can learn and improve](growth-mindset-classroom-culture-practices.md)
 - [Align peer mindset interventions with teacher practices and broader classroom context rather than isolating them](align-peer-interventions-with-classroom-context.md)
 - [Improve equity and inclusion in introductory physics, including interventions to boost self-efficacy, growth mindset and sense of belonging](equity-inclusion-interventions-introductory-physics.md)
+- [Use brief social-psychological classroom interventions (e.g., belonging and mindset interventions) to raise women's belonging, self-efficacy, confidence and interest in physics](brief-belonging-mindset-interventions-physics.md)
 
 ## Examples
 -

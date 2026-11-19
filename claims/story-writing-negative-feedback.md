@@ -73,3 +73,4 @@ Second iteration in spring 2013 after the author increased rubric emphasis on sc
 - [An early-semester presentation on fluency and feeling of learning improved students' attitudes toward active learning](early-fluency-intervention-improved-attitudes.md) — related
 - [Anonymous student comments exposed a general feeling of unfairness with random assessment](rpbl-student-perceived-unfairness.md) — related
 - [Student feedback on the open-ended term projects raised concerns about time demands and scope](student-feedback-am-course-scope-concerns.md) — related
+- [All student comments on the course's design elements were positive in final-exam reflections and course evaluations](positive-student-reflections-course-design-elements.md) — related

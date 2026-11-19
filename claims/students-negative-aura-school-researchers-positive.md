@@ -51,3 +51,5 @@ Network analysis of the students' forma mentis network (159 Italian final-year h
 - [Students' anxiety associations centre on testing and assessment rather than on physics or maths, suggesting distinct types of anxiety](test-anxiety-assessment-not-stem-subjects.md) — related
 - [Students perceive scientists positively and mostly non-stereotypically, though a mad-scientist association with crazy persists](students-positive-non-stereotypical-scientist-perception.md) — related
 - [LLM digital shadows reproduce the human pattern of positive science perceptions anchored in negative mathematics associations](llm-shadows-reproduce-negative-math-semantic-bias.md) — related
+- [Students' mindsets around logic reasoning showed positive associations, as in experts, but contrasted with negative mathematical jargon](logic-reasoning-positive-mindset-both-groups.md) — related
+- [Students perceived \"data\" negatively as statistics-linked while \"code\" and \"computer science\" were distinctly perceived as neutral](students-data-negative-code-computer-science-neutral.md) — related

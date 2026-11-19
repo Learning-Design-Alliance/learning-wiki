@@ -49,3 +49,4 @@ The review's third identified development is that the real-life-tasks perspectiv
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — related
 - [AI chatbots enable flexible personalized learning by adapting teaching strategies to individual student needs](chatbot-flexible-personalized-learning.md) — related
 - [Confronting learners with ill-structured, non-routine tasks and self-directed discovery is a key task/training characteristic for adaptive expertise](ill-structured-tasks-discovery-adaptive-expertise.md) — related
+- [A reviewed study identified 17 user characteristics considered sources of adaptation for adaptive learning systems](seventeen-user-characteristics-adaptation-sources.md) — related

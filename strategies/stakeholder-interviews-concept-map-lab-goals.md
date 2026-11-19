@@ -45,6 +45,7 @@ The article outlines a concrete procedure for deriving a course's learning goals
 
 - [Teach concept mapping through explicit steps: identify key concepts, select a focal concept, arrange and link hierarchically, and label connecting lines](novak-gowin-concept-mapping-steps-strategy.md)
 - [Use Wright maps and knowledge graph centrality to allocate teaching time, in-class assessment, and review priorities to specific knowledge points](wright-map-kg-teaching-prioritization-strategy.md)
+- [Consult students, physics faculty, and non-physics faculty through interviews to identify learning goals in interdisciplinary course reform](stakeholder-interviews-for-interdisciplinary-course-reform.md)
 
 ## Examples
 -

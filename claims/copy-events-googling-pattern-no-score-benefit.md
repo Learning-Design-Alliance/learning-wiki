@@ -67,3 +67,6 @@ Score comparison in the only two courses with more than one copy-event student. 
 - [Loss of browser focus was the most common online behavior, but most focus-loss periods were brief and did not correlate with scores](browser-focus-loss-common-brief-no-score-correlation.md) — related
 - [Copying occurs on average about 12% of initial submissions nearly independent of ability, while low-ability students guess more than high-ability students](copying-12-percent-guessing-ability-dependent.md) — related
 - [The greatest security threat to online RBAs may be the authors' own open-access publications containing assessment rubrics, not student behavior](open-access-publications-rba-security-threat.md) — related
+- [Only about 10% of students showed direct evidence of copying question text during online RBAs, with no significant impact on course averages](online-rba-copying-behavior-minimal.md) — possibly the same claim (merge candidate)
+- [Browser focus data show most distraction events during online RBAs are brief and do not correlate with scores](online-rba-distraction-no-score-impact.md) — related
+- [Very few students (less than 1-2%) attempted to save online RBAs, but assessment security concerns grow as solutions become available online](online-rba-security-few-save-attempts.md) — related

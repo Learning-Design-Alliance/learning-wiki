@@ -51,3 +51,4 @@ Qualitative discourse and conversation analysis of the videotaped interactions, 
 - [Qualitative interviews revealed gender-specific change pathways: males shifted from luck-based attributions and improved behavioral regulation, while females overcame ability-related doubt and strengthened emotional regulation](gender-specific-qualitative-change-pathways.md) — related
 - [Dominant behaviour and criticism negatively influence group interaction but can act as triggers for learning](dominance-criticism-negative-interaction-trigger-learning.md) — related
 - [Group workbench activities raise specific facilitation challenges around participation and assumptions](workbench-group-facilitation-challenges.md) — related
+- [Males dominated computer control in mixed-gender groups, and female undergraduates were never observed controlling the computer](male-computer-domination-mixed-gender-groups.md) — related

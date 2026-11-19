@@ -49,3 +49,5 @@ Correlational analysis of start-to-submit duration versus score for 200 responde
 - [CBT condition was not meaningfully related to RBA posttest scores, with the largest predicted effect (E&M, 2.2 points) not statistically reliable](cbt-condition-nonsignificant-posttest-hlm.md) — related
 - [Completion rates for online out-of-class RBA administration were substantially lower than for in-class paper administration](cbt-completion-rates-lower-than-ppt.md) — related
 - [CBT condition was a truly nonsignificant predictor of RBA pretest scores in hierarchical linear models](cbt-condition-nonsignificant-pretest-hlm.md) — related
+- [Browser focus data show most distraction events during online RBAs are brief and do not correlate with scores](online-rba-distraction-no-score-impact.md) — related
+- [Most students taking the RBA online appear to take it seriously, though a small fraction completed it in ten minutes or less](online-rba-time-on-task-buy-in.md) — related

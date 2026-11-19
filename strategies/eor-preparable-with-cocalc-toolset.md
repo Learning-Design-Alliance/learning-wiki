@@ -17,7 +17,7 @@ sources:
 # Preparing electronic educational resources with the CoCalc toolset
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Citing K. I. Slovak, the monograph states that with cloud services such as CoCalc their role in the teaching process "значно зростає", and lists electronic educational resources preparable with the service's toolset: "опорні конспекти лекцій", outlines of practical works, a lecture course, systems of independent and individual tasks, and "електронні книги з динамічними прикладами".

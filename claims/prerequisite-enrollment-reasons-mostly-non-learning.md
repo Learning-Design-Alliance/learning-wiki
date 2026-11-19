@@ -49,3 +49,4 @@ Semistructured interviews with 29 of 47 volunteering MLab students, coded by two
 - [Students perceive prerequisites, core course requirements, and master schedule constraints as barriers to accessing courses that interest them](students-report-prerequisites-block-course-access.md) — related
 - [Students with busy schedules are wary of mandatory services such as orientation and student success courses, but want high quality if services are mandatory](students-wary-of-mandatory-services.md) — related
 - [Students overwhelmingly came to believe the lecture prerequisite did not benefit MLab performance, regardless of whether they had taken it](students-believe-mlec-not-beneficial-mab-perception.md) — related
+- [Requirements (MCAT, prerequisites, graduate-program expectations) drive enrollment in the non-major physics course, with informal requirements from faculty recommendations](requirements-drive-non-major-physics-enrollment.md) — related

@@ -16,12 +16,14 @@ sources:
     author: Kyle M. Whitcomb and Chandralekha Singh
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Among physics majors, men earn higher grades than women only in introductory physics courses, with small-to-medium effect sizes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kyle M. Whitcomb and Chandralekha Singh. (2020). In a physics curriculum only introductory physics course grades show gender differences but do not predict future course performance for physics majors. arXiv preprint. Originally published 2019. [doi:10.1088/1361-6404/ab9f1d](https://doi.org/10.1088/1361-6404/ab9f1d)
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 MANOVA on three clusters of courses (introductory physics, advanced physics, mathematics) with listwise deletion. The introductory physics cluster showed the only significant pattern; the authors note the result is "only marginally signiﬁcant".
 

@@ -73,3 +73,4 @@ Same theme, OSCE subtheme: students reported increased confidence remotely, but 
 - [Roughly 30% of U.S. k-12 students lacked high-speed internet or adequate devices for digital learning at home before the pandemic, with disparities by income and race](thirty-percent-students-lacked-internet-or-devices-2018.md) — related
 - [Internet connectivity problems hindered remote learning and compounded student anxiety during high-stakes assessments](connectivity-problems-assessment-anxiety-remote.md) — related
 - [Student anxiety under remote proctoring is mixed: some students report reduced anxiety from home comfort and no travel, while others face anxiety from connectivity issues and fear of wrongful accusations](mixed-anxiety-remote-proctored-exams.md) — related
+- [Students' most common remote-lab challenges were not doing experiments with physical materials and not having a partner/group](student-challenges-remote-lab-materials-partners.md) — related

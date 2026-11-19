@@ -49,3 +49,4 @@ Moderator analysis of the meta-analytic dataset by STEM discipline, reported for
 - [Class size, course level, and discipline did not explain significant variation in how achievement gaps changed under active learning](class-size-level-discipline-not-significant-moderators.md) — related
 - [Active learning benefits students in all class sizes, with the greatest effects in classes of 50 or fewer students](active-learning-strongest-small-classes.md) — related
 - [The active-learning advantage is robust to publication bias and to variation in methodological rigor of the included studies](active-learning-effect-robust-bias-and-rigor.md) — related
+- [A meta-analysis of over 200 studies found active learning techniques appear generally effective across all STEM disciplines and class sizes (as reported by the chapter, citing Freeman et al. 2014)](active-learning-effective-across-stem-freeman-2014.md) — a broader claim this one bears on

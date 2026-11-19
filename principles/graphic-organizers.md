@@ -35,7 +35,7 @@ sources:
 # Graphic Organizers
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 57 claims (35 for, 19 mixed, 3 against) · 62 studies (35 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 15 of 62 report an effect size · 46 claims rest on one study
+> **Evidence** · 58 claims (36 for, 19 mixed, 3 against) · 63 studies (36 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 16 of 63 report an effect size · 47 claims rest on one study
 
 ## Conditional relationship
 
@@ -154,6 +154,7 @@ Claims on neighbouring questions, found while rewriting this page. Each is cited
 - [Students given a partial diagram (empty tube) scored significantly worse on the standing-wave quiz than students prompted to draw a diagram or given no support](../claims/partial-diagram-intervention-worse-quiz-performance.md) [+W] — attached 2026-11-17 from Alexandru Maries et al. (2013), which proposed "Prompt students to draw their own diagrams rather than providing a partial diagram as a hint"; tests this page's relationship.
 - [Students prompted to draw a diagram were more likely to draw productive diagrams than the diagram-only and no-support groups](../claims/prompt-increases-productive-diagrams.md) [+W] — attached 2026-11-17 from Alexandru Maries et al. (2013), which proposed "Prompt students to draw their own diagrams rather than providing a partial diagram as a hint".
 - [Prompting students to draw a diagram makes them statistically more likely to draw expert-like diagrams than giving no instruction, while providing a pre-drawn diagram leaves many students using an unmodified basic diagram](../claims/prompting-diagrams-expert-like-diagram-use.md) [+W] — attached 2026-11-17 from Alexandru Maries et al. (2010), which proposed "Prompt students to draw their own diagrams rather than providing a basic diagram, and build this prompting into quiz and midterm problems"; tests this page's relationship.
+- [A higher level of relevant detail in a student's diagram corresponds to better problem-solving performance, but the detail gradient differs between the one-dimensional and two-dimensional problems](../claims/relevant-diagram-detail-corresponds-to-better-performance.md) [+W] — attached 2026-11-18 from Alexandru Maries et al. (2018), which proposed "Prompt students to draw their own diagrams rather than providing diagrams, and guide them to include relevant detail".
 
 ## Objective and learner-valued goal
 

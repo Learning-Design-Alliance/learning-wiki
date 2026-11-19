@@ -55,3 +55,4 @@ Pre- and postsurvey Likert data from the same cohort. Median for troubleshooting
 - [88% of AI-assisted students reported increased self-efficacy and confidence during independent practicals](ai-feedback-88-percent-self-efficacy-increase.md) — related
 - [Large group size (4-5 members) limited individual participation and may have inflated self-assessed confidence](large-group-size-limited-participation-confidence.md) — related
 - [Self-reported confidence progressively increased across the four training steps, from median 2 after the video to median 4 after final evaluation](sbml-probing-confidence-progression.md) — related
+- [Free-response survey responses: 14 of 23 students reported improved troubleshooting of experimental setups and 9 reported enjoyment of the hands-on experience](kit-free-response-benefits-troubleshooting-enjoyment.md) — related

@@ -48,6 +48,7 @@ The article recommends, based on graduate students' own remarks, that identifyin
 ## Related Strategies
 
 - [Incorporate individual and group activities about introductory student difficulties using conceptual assessments like the TUG-K into TA training and professional development](pck-tugk-activities-ta-training-strategy.md)
+- [Use a predict-the-most-common-incorrect-answer task with a standardized concept survey in TA professional development to engender discussion of student difficulties](csem-pck-task-ta-professional-development.md)
 
 ## Examples
 -

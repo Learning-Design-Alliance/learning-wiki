@@ -52,3 +52,4 @@ Task 3 behavioural forma mentis network analysis of semantic associations and va
 - [Human-shadow prompting generates broad psychometric variance while AI-assistant responses are uniform](human-shadow-prompting-generates-psychometric-variance.md) — related
 - [Both students' and researchers' forma mentis networks show a small-world structure distributing connectivity mainly through hubs rather than clustering](fmn-small-world-hub-structure.md) — related
 - [Italian high school students perceive school as a negative concept surrounded by a mostly negative emotional aura, while researchers perceive school positively](students-negative-aura-school-researchers-positive.md) — related
+- [Students' mindsets around logic reasoning showed positive associations, as in experts, but contrasted with negative mathematical jargon](logic-reasoning-positive-mindset-both-groups.md) — a narrower finding that bears on this claim

@@ -13,7 +13,7 @@ generated:
 # Survey of computational physicists on skill timing (before vs. during research)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A faculty survey developed by Amy Lisa Graves that asks computational-physics research supervisors to rate which undergraduate research skills should be acquired beforehand, trained explicitly, learned during research, or considered unnecessary.

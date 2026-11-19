@@ -1,0 +1,54 @@
+---
+type: claim
+title: Female students report significantly lower physics self-efficacy and interest than male students at the start and end of introductory physics, with gaps widening over the semester
+description: Female students report significantly lower physics self-efficacy and interest than male students at the start and end of introductory physics, with gaps widening over the semester
+id: gender-gaps-self-efficacy-interest-widen-intro-physics
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-18
+evidence_strength: moderate
+newest_evidence: 2020
+sources:
+  - id: yangqiuting-li-2020
+    resource: "https://doi.org/10.1119/perc.2020.pr.li"
+    title: "Yangqiuting Li, Kyle Whitcomb, and Chandralekha Singh. (2020). How learning environment predicts male and female students' physics motivational beliefs in introductory physics courses. Department of Physics and Astronomy, University of Pittsburgh. [doi:10.1119/perc.2020.pr.li](https://doi.org/10.1119/perc.2020.pr.li)"
+    author: Yangqiuting Li, Kyle Whitcomb, and Chandralekha Singh
+    q: 3
+    i: 2
+    kind: associational
+    rigour: 3
+---
+
+# Female students report significantly lower physics self-efficacy and interest than male students at the start and end of introductory physics, with gaps widening over the semester
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i2` Female students had significantly lower average interest and self-efficacy scores than male students in both the pre- and post-survey, and these gender gaps increased by the end of the semester (Cohen's d for interest increased from 0.54 to 0.60; for self-efficacy from 0.32 to 0.53). [→ Yangqiuting Li 2020](#yangqiuting-li-2020)
+
+## Evidence
+
+### Yangqiuting Li 2020
+
+Yangqiuting Li, Kyle Whitcomb, and Chandralekha Singh. (2020). How learning environment predicts male and female students' physics motivational beliefs in introductory physics courses. Department of Physics and Astronomy, University of Pittsburgh. [doi:10.1119/perc.2020.pr.li](https://doi.org/10.1119/perc.2020.pr.li)
+
+`q3 · i2` · `associational · r3`
+
+T-test comparison of pre and post survey scores by gender in a calculus-based introductory physics course (1203 students, 35% women). The article reports the printed effect sizes "Cohen's d [60] for gender difference in physics interest increased from 0.54 to 0.60" and for self-efficacy "from the 0.32 to the 0.53" (d = 0.60 and d = 0.53 at post), with p values <0.001.
+
+> "The effect size given by Cohen's d [60] for gender difference in physics interest increased from 0.54 to 0.60, and the effect size of gender difference in self-efficacy increased from the 0.32 to the 0.53."
+
+## Discussion
+
+
+## Related Claims
+- [Male and female students' motivational beliefs differ significantly in favor of men at the end of algebra-based introductory physics, even though women are the majority (63%) in these courses](gender-gap-motivational-beliefs-algebra-based-physics.md) — related
+- [Significant gender gaps in physics self-efficacy favoring male students persist at the end of both physics 1 and physics 2, with moderate effect sizes](gender-gap-physics-self-efficacy-intro-sequence.md) — related
+- [The gender gap in self-efficacy and interest remains stable from physics 1 to physics 2 in algebra-based courses, unlike calculus-based courses where it grows](gender-gap-stable-physics1-physics2-algebra-based.md) — related
+- [Both male and female students' physics self-efficacy and interest declined from the beginning to the end of the course, with female students declining more](self-efficacy-interest-decline-pre-post-females-more.md) — related
+- [In the SEM model, gender has no direct effects on end-of-physics-2 self-efficacy, interest or identity; gender directly predicts only physics 1 self-efficacy (b = 0.28) and interest (b = 0.36)](sem-no-direct-gender-effects-physics2-outcomes.md) — related
+- [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — a broader claim this one bears on
+- [Women reported lower self-efficacy and higher test anxiety than men in an active-learning introductory physics course](women-lower-self-efficacy-higher-test-anxiety.md) — related

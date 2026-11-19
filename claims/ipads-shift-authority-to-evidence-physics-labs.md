@@ -65,3 +65,4 @@ The authors generalize from observed lab exemplars: "There were many situations 
 ## Related Claims
 - [Screencast activities shifted responsibility for determining solution steps from teacher to student, increasing student agency](screencasts-increase-student-agency-physics.md) — related
 - [Introducing iPads and screencasting into an urban high school physics class was followed by increased student social status, opportunities for play, and a sense of agency](ipad-inclusion-social-status-play-agency.md) — related
+- [Students nearly unanimously reported that finding an interesting and tractable research question was the most difficult part of the computational essay process](research-question-finding-hardest-part.md) — related

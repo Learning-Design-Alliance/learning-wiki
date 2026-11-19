@@ -54,3 +54,5 @@ Qualitative coding of open-question answers from the 45 students, coded inductiv
 - [Opinions about quantum science change more after the visit than interests do](opinions-change-more-than-interests-after-visit.md) — related
 - [In the transformed ENG-INT course, 98% of students reported interest in quantum physics after instruction, and no student gave a negative response.](eng-int-nearly-unanimous-post-instruction-interest.md) — related
 - [CLASS Personal Interest and Real World Connection clusters typically show negative shifts, though some instructional approaches produce positive shifts](class-relevance-clusters-typically-negative-shifts.md) — related
+- [After the module, students' perceived societal importance of quantum computing shifted toward appreciating that the technology is in its infancy, with median importance unchanged at 4](qc-module-importance-perception-shift.md) — related
+- [Median student interest in further quantum computing learning remained at 4 before and after the module, with distribution changes showing some students wished to study QC further](qc-module-further-learning-interest.md) — related

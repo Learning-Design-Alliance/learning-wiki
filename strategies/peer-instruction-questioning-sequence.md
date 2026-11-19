@@ -49,6 +49,8 @@ Peer Instruction restructures lecture so short presentations on key points are e
 - [Use a vote–discuss–revote sequence with classroom response systems so students reach more accurate understanding through peer discussion alone](clicker-vote-discuss-revote.md)
 - [Use concept tests with peer instruction: poll challenging multiple-choice questions, then have students discuss and repoll](concept-tests-peer-instruction-improve-conceptual-understanding.md)
 - [Restructure the adaptive-course classroom as a discussion-based setting with broad multidisciplinary problems](discussion-based-classroom-broad-multidisciplinary-problems.md)
+- [Practical in-class routine for clicker polling: clusters of 3–5 questions, 45–60 second polls, and follow-up discussion when many answers are wrong](clicker-polling-classroom-routine.md)
+- [Implement multiple-choice question sequences as clicker questions with individual commitment, peer discussion, and instructor-led whole-class discussion at checkpoints](clicker-mqs-peer-discussion-implementation.md)
 
 ## Examples
 -

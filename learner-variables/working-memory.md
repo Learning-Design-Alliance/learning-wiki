@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 168 claims (95 show a difference, 48 mixed, 25 no difference) · 135 studies (54 causal, 35 associational, 23 review, 12 quant-synthesis, 8 theoretical, 3 qualitative), `q1`–`q4` · 25 of 135 report an effect size · 159 claims rest on one study
+> **Evidence** · 169 claims (96 show a difference, 48 mixed, 25 no difference) · 136 studies (54 causal, 35 associational, 23 review, 12 quant-synthesis, 8 theoretical, 3 qualitative, 1 design), `q1`–`q4` · 25 of 136 report an effect size · 160 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -211,6 +211,7 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Working memory did not reliably correlate with grammar learning in any of the three experiments](../claims/working-memory-no-correlation-grammar-learning.md) [-M] — learners who differ on it differ in outcomes
 - [ONTRAC training improves response inhibition and Stroop interference relative to control, while sustained attention and short-term memory show nonsignificant improvement trends](../claims/ontrac-cognitive-gains-inhibition-stroop.md) [~M] — measured as an outcome of the instruction studied
 - [Experts show superior recall of realistic circuit diagrams, but the advantage diminishes or disappears with randomly arranged elements (chunking)](../claims/expert-chunking-realistic-circuits.md) [~M] — learners who differ on it differ in outcomes
+- [The article reports, citing prior work, that asynchronous forums and discussion boards can cause too much interaction, student overload, dissatisfaction, and backwardness](../claims/asynchronous-forums-overload-dissatisfaction.md) [+W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

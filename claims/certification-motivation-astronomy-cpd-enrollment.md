@@ -24,12 +24,14 @@ sources:
     author: Adriano Mesquita Oliveira, Cibele kemeicik da silva machado, Augusto Cézar Tiradentes Monteiro, Rafael Cerqueira do Nascimento, Pollyana dos Santos
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # Enrollment in the astronomy continuing-education course was driven partly by certification needs, cited by about 50% of one municipal network's teachers and 20% of the other's
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r?` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r1` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -51,7 +53,7 @@ Frequency analysis of the course participants' experience reports (diagnostic qu
 
 Adriano Mesquita Oliveira, Cibele kemeicik da silva machado, Augusto Cézar Tiradentes Monteiro, Rafael Cerqueira do Nascimento, Pollyana dos Santos. (2020). Formação continuada: uma proposta de solução para problemas no ensino de Astronomia. ISSN 2359-4799. [doi:10.48550/arXiv.2002.05444](https://doi.org/10.48550/arXiv.2002.05444)
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r1`
 
 Same question-1 analysis of the experience reports: 'cerca de 50% dos professores da PML citaram' certification as an enrollment motive, falling to 20% for PMG and about 30% of the total public.
 

@@ -58,9 +58,11 @@ Commitment devices work because a stated intention becomes part of the learner's
 5. Close the loop with reflection on follow-through, treating shortfalls as data for recalibration rather than failure
 
 ## Related Strategies
+
 - [Goal-Setting](../elements/goal-setting.md) — public commitment is a goal-setting variant that adds a social accountability layer
 - [Accountability Partners](accountability-partners.md) — a dyadic, lower-risk form of the same mechanism
 - [3-2-1 Reflection](3-2-1_reflection.md) — a lightweight structure for the follow-up step
+- [Institute an early topic-registration deadline and announced milestones to counter procrastination on long projects](topic-deadline-milestones-video-project.md)
 
 ## Examples
 - **Writing workshops** where authors post weekly word-count goals in a shared channel and report progress at each session — a standard practice in programs like [National Novel Writing Month (NaNoWriMo)](https://nanowrimo.org), which combines public declaration with community accountability

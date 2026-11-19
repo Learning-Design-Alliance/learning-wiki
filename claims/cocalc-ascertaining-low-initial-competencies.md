@@ -48,3 +48,4 @@ Confirmatory (ascertaining) stage of the pedagogical experiment, using diagnosti
 - [CoCalc use in pre-service mathematics teacher training affects first of all the formation of special professional competencies](cocalc-affects-special-professional-competencies.md) — related
 - [Initial formation levels are predominantly low and medium in both experimental and control groups, with the high level absent in the experimental group](predominantly-low-medium-initial-formation-levels.md) — related
 - [Using the developed CoCalc method produced statistically significant differences in professional competency formation levels between experimental and control groups of pre-service mathematics teachers after the forming stage](cocalc-method-significant-competency-gains.md) — related
+- [Lack of methodical support and low teacher awareness of computer modeling hinder students' competence formation](low-teacher-awareness-cmods-hinders-competence.md) — related

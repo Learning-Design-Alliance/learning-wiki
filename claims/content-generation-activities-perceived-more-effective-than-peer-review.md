@@ -50,3 +50,4 @@ Comparison of six rated SGC activities by 301 students using Friedman test (χ²
 - [Students report high awareness of the impact of ICT on Sustainable Development Goals after completing the SGC project series.](high-ict-sdg-awareness-after-sgc-projects.md) — related
 - [Completing a series of student-generated content projects significantly increases students' subjective knowledge of Sustainable Development Goals.](sgc-projects-increase-subjective-sdg-knowledge.md) — related
 - [A K-means clustering of students based on pre- and post-project SDG knowledge identifies three distinct learning profiles, with the largest cluster showing the greatest knowledge gain.](k-means-three-sgc-learning-clusters.md) — related
+- [After the video project, more students preferred group work and more conducted astronomy-related web searches](post-video-assessment-group-and-search-shifts.md) — related

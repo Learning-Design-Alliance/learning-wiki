@@ -46,6 +46,7 @@ Students convert a twenty-sided die roll into a quantum measurement outcome by c
 
 - [Use active-learning techniques throughout — dice-rolling, think–pair–share, and role-playing — to elicit and combat probability misconceptions](dice-rolling-think-pair-share-roleplay-strategy.md)
 - [Use a dice roll in the advanced game so a candidate Higgs combination may be only a background event](higgs-dice-background-event-strategy.md)
+- [Analog dice-based creation of Erdős-Rényi random graphs as a playful bridge to computational graph generation](dice-random-graph-module-strategy.md)
 
 ## Examples
 -

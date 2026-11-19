@@ -71,3 +71,4 @@ In the same conclusion the author argues that "the rich immersive 3D  massively 
 - [The authors argue SL simulation via video conference is a flexible debriefer-training model adaptable across expertise levels and professions, enabling deliberate hands-on practice regardless of distance or time](sl-simulation-flexible-distance-independent-training.md) — related
 - [Second Life role-play yields higher cultural awareness and diversity understanding than face-to-face role-play](sl-higher-cultural-awareness.md) — related
 - [Second Life role-play yields higher multicultural acceptance and cultural enrichment than face-to-face role-play](sl-higher-multicultural-acceptance.md) — related
+- [Microworld-type pedagogical software can give significant pedagogical effect despite minimal teaching-management functions](activity-oriented-software-develops-intellect.md) — related

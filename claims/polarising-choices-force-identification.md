@@ -71,3 +71,4 @@ Figure 3 analysis of the same six-question item data shows the wide gap between 
 - [Most movement toward the correct answer among wrong-choice respondents is a direct migration from the fictitious-force choice X to the correct choice](wrong-choice-migration-x-to-correct-choice.md) — related
 - [The ranking of incorrect FCI answer choices comes from item response curves relating answer choice selection to total score as a proxy for understanding](irc-ranking-of-incorrect-answers.md) — related
 - [Transition rates to the correct FCI answer can be higher from a worse incorrect answer than a better one, as shown by answer choice E on Question 18](transition-rate-worse-answer-can-exceed-better.md) — related
+- [Instructors overestimate introductory students' failure to identify contact forces and other forces on FCI force-identification items](instructors-overestimate-students-missing-contact-forces.md) — related

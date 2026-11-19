@@ -68,6 +68,7 @@ Extension projects work because they convert mastery into meaningful application
 - Tiered assignments — a whole-class variant where all learners work on related tasks at different complexity levels
 - Independent study — the individual version when no team is available
 - [Cultivate curiosity and lower psychological barriers by opening each project with real-world motivation cases and simple accessible AI examples](curiosity-cases-and-simple-examples-lower-barriers.md)
+- [Remote group project built on individual extensions of standard kit experiments with cross-group peer review](remote-individual-extension-group-project.md)
 
 ## Examples
 - **[Renzulli's Schoolwide Enrichment Model](https://www.gifted.uconn.edu/sem/)** — the most researched framework for this strategy; Type III enrichment has individual and small-group learners investigate real problems and produce authentic products for real audiences.

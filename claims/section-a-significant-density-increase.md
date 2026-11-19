@@ -49,3 +49,4 @@ Bootstrap t-test comparison of matched pre- and post-course network densities in
 - [In small interactive-engagement sections, network density and community counts stayed effectively constant over the semester](small-sections-constant-density-communities.md) — related
 - [Section A more than halved its number of detected communities over the semester, indicating fewer students working in isolation](section-a-community-count-halved.md) — related
 - [Classroom interaction networks shift over the semester from numerous seatmate ties to fewer, more selective cross-group connections](network-selection-effect-over-semester.md) — reports the opposite
+- [Network density roughly doubles from week 1 to week 10 in three of the four curricula, with Peer Instruction showing only a marginal increase](week10-density-doubles-three-curricula.md) — related

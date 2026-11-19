@@ -56,3 +56,4 @@ Framework-method analysis of 27 interviews identified "time constraints, the lac
 - [Competing priorities for instructional time (environmental context) was the most salient barrier to teachers' implementation of a supplemental language curriculum](competing-time-priorities-dominant-barrier-language-curriculum.md) — related
 - [Money, time and space limitations hindered implementation of addiction medicine fellowships](money-time-space-limitations-hindered-implementation.md) — related
 - [GPs identify patient-related, communication and organisational barriers to youth suicide prevention in primary care](gp-barriers-youth-suicide-prevention-primary-care.md) — related
+- [Lack of methodical support and low teacher awareness of computer modeling hinder students' competence formation](low-teacher-awareness-cmods-hinders-competence.md) — related

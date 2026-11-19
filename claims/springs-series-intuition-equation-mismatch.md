@@ -51,3 +51,4 @@ In the springs-in-series problem, students Lizzie, Lelia, and Myra correctly con
 - [Students believe a physical quantity should have only one formula and treat intrinsic properties as depending on the variables in definitional equations](one-formula-belief-intrinsic-property-confusion.md) — related
 - [Students spontaneously used special case reasoning on the ellipse problem but needed prompting for extreme cases](ellipse-special-case-spontaneous-extreme-prompted.md) — related
 - [A student checked his algebraic results against physical expectations and explicitly connected coordinate system, equation, and physical situation.](student-checks-math-against-physical-intuition.md) — related
+- [A student’s belief that intuition need not be reconciled with mathematical formalism may have prevented her from checking representational consistency](epistemological-beliefs-block-consistency-check.md) — related

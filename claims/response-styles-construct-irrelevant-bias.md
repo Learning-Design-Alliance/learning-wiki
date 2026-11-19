@@ -72,3 +72,4 @@ Background assertion stated in the abstract, attributed to prior research rather
 - [Computer-based test advantages can be used to manage the effects of disengagement as a construct-irrelevant factor](cbt-manages-disengagement-construct-irrelevance.md) — related
 - [Rapid-guessing behavior can distort test scores and adversely affect measurement](rapid-guessing-distorts-test-scores-and-measurement.md) — related
 - [Test disengagement could undermine inferences drawn from observed achievement scores](disengagement-undermines-score-inferences.md) — related
+- [OLM-based assessment can detect diverse student strategies that distort measurement, an advantage over conventional paper-and-pencil tests](olm-strategy-detection-advantage.md) — a narrower finding that bears on this claim

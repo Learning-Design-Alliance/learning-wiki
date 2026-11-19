@@ -58,6 +58,7 @@ The article recommends that nurse managers and innovation mentors treat post-cou
 - [Structure mentorship with clear expectations, regular feedback, and a supportive environment](mentorship-practices-undergraduate-research-training.md)
 - [Pair EBP lectures and practice with facilitator mentorship and consultation](facilitator-mentorship-in-ebp-training.md)
 - [Post-course refreshers, support and mentorship, plus preparing placement sites and educating nurses, families and policy makers about palliative care](palliative-transfer-support-strategy.md)
+- [Structured preparation and coaching of teaching assistants before delivering inquiry laboratories](teaching-assistant-preparation-for-inquiry-labs.md)
 
 ## Examples
 -

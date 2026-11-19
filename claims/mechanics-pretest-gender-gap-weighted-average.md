@@ -60,3 +60,4 @@ The review's synthesis of published FCI and FMCE pretest studies across institut
 - [Revising FCI question contexts to stereotypically feminine settings narrowed the gender gap because men scored significantly worse, not because women improved](rfci-context-change-narrowed-gap-via-men.md) — related
 - [Intersectional demographic differences predict physics pretest scores, with White male students highest and Black female students lowest, and gender gaps 2.62 percentage points smaller on the FMCE than the FCI](intersectional-pretest-differences-college-physics.md) — related
 - [The FCI gender gap narrowed following instruction in these blended sections](fci-gender-gap-narrowed-blended-sections.md) — related
+- [Men scored higher than women on FCI pretest, FCI post-test, and solo-phase exam in introductory physics](fci-exam-gender-gaps-favor-men.md) — a narrower finding that bears on this claim

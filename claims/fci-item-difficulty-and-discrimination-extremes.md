@@ -55,3 +55,4 @@ Results from the fitted item characteristic functions plotted in the FCI-metric 
 - [In Mnemosyne log data, item-specific difficulty parameters outperform a global difficulty for lower and higher Leitner decks, while global difficulty performs better for intermediate decks.](item-specific-difficulty-helps-only-at-low-and-high-leitner-decks.md) — related
 - [FCI questions 6, 16, 19 and 29 are problematic in high-achieving groups, combining high difficulty index with low discrimination and correlation](fci-items-6-16-19-29-problematic.md) — related
 - [In a test-retest situation with no learning, nearly 18% of FCI answers change at a true score of 50% because item characteristic curves overlap](fci-answer-change-test-retest.md) — related
+- [AKT's learned Rasch difficulty parameters order questions within a concept and match intuitive difficulty levels](akt-learned-difficulty-parameters-match-intuition.md) — related

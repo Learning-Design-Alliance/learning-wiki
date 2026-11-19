@@ -57,3 +57,4 @@ Qualitative analysis of three GPT-4o chat logs from one student. The article rep
 - [Undergraduate students debugging analog circuits under exam pressure preferentially used images to capture the physical circuit and the exam assignment when conversing with LLMs](students-use-images-capturing-circuits-chat-debugging.md) — related
 - [LLM-assisted hardware debugging requires consistent human feedback because the LLM's understanding of the circuit drifts](llm-debugging-requires-consistent-human-feedback.md) — related
 - [State-of-the-art multimodal LLMs cannot reliably interpret circuit diagrams and therefore cannot independently solve circuit analysis problems](vlm-cannot-interpret-circuit-diagrams.md) — related
+- [A four-part outreach program lets high-school and early undergraduate students perform meaningful hands-on quantum circuit calculations without advanced mathematics](qist-outreach-without-advanced-math.md) — related

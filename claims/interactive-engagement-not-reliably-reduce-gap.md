@@ -67,3 +67,5 @@ The review recounts the failed replications: Pollock et al. found 'no statistica
 - [The flipped classroom significantly reduced, but did not eliminate, the gender gap in introductory physics performance](flipped-classroom-reduced-gender-gap.md) — related
 - [Active-learning meta-analyses compare broadly defined active learning with traditional lecture and do not show that named teaching methods are more effective](active-learning-meta-analyses-broad-definition-aggregate.md) — related
 - [Physics majors in blended interactive-engagement sections showed large, statistically significant FCI gains for both men and women](large-fci-gains-blended-physics-major-sections.md) — related
+- [Men scored higher than women on FCI pretest, FCI post-test, and solo-phase exam in introductory physics](fci-exam-gender-gaps-favor-men.md) — related
+- [Large gender differences on FCI and CSEM appear on both pretest and post-test in introductory physics courses, with FCI gaps of 10%–20%](gender-gap-fci-csem-pre-post.md) — related

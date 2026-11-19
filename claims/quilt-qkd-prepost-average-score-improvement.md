@@ -51,3 +51,5 @@ One-group in-class pre/post evaluation in three upper-level QM courses: pretest 
 - [Upper-level undergraduates improved dramatically from pre- to post-test after working through the double-slit QuILT, with a normalized gain of 0.94](quilt-dse-undergraduate-normalized-gain-0-94.md) — related
 - [Undergraduate pre- to post-test performance rose significantly from pre-test to post-test after working through the QuILT on addition of angular momentum, in one single-group pre-post study](quilt-angular-momentum-pre-post-gains.md) — related
 - [The DPT QuILT significantly improved pretest-to-posttest performance for both undergraduates and graduate students](quilt-improves-dpt-prepost-scores.md) — related
+- [The DSE QuILT was effective in helping upper-level undergraduate and graduate students develop a more robust understanding of foundational quantum mechanics concepts in the double-slit experiment context](quilt-effective-dse-foundational-concepts.md) — related
+- [Undergraduates taught with research-based learning tools scored significantly higher on the QMFPS than those who were not](research-based-learning-tools-higher-qmfps-scores.md) — related

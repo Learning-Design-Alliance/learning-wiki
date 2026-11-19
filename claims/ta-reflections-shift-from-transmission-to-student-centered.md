@@ -16,6 +16,8 @@ sources:
     author: Danny Doucette, Russell Clark, and Chandralekha Singh
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: danny-doucette-2020-2
     resource: "https://doi.org/10.1119/perc.2019.pr.doucette"
     title: "Danny Doucette, Russell Clark, and Chandralekha Singh (2020). All aboard! Challenges and successes in professional development for physics lab TAs. Originally published 2019. [doi:10.1119/perc.2019.pr.doucette](https://doi.org/10.1119/perc.2019.pr.doucette)"
@@ -29,7 +31,7 @@ sources:
 # Lab TAs' written reflections shifted from a traditional transmission model of education toward a student-centered view of learning across the professional development program
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -42,7 +44,7 @@ sources:
 
 Danny Doucette, Russell Clark, and Chandralekha Singh (2020). All aboard! Challenges and successes in professional development for physics lab TAs. Originally published 2019. [doi:10.1119/perc.2019.pr.doucette](https://doi.org/10.1119/perc.2019.pr.doucette)
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Qualitative analysis of lab TAs' written responses to variations on the question of how they would help students have effective learning experiences, collected at the start of the fall and spring programs: "most of the TAs described their role in terms of a traditional transmission model of education".
 

@@ -81,3 +81,4 @@ Questionnaire with five-point Likert scales and open-text feedback in both user-
 - [85% of students used LLMs for post-class case generation practice but raised concerns about content accuracy and difficulty calibration](post-class-llm-practice-student-concerns.md) — related
 - [Student trust concerns about ChatGPT's accuracy present before the standardized-patient interaction disappeared after it, with no hallucinations observed by faculty](trust-theme-disappeared-postinteraction.md) — related
 - [GPT-4o sometimes selects correct answers with flawed reasoning and answers inaccuracies in an authoritative tone, risking user overconfidence](llm-flawed-reasoning-authoritative-tone.md) — related
+- [Interviews identify CV creation and review challenges: structure confusion, over-describing of skills, inaccuracies and trust issues](interview-cv-creation-review-challenges.md) — related

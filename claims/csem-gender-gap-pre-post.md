@@ -47,3 +47,4 @@ Analysis of CSEM pre- and post-test scores in the same randomized study; the art
 ## Related Claims
 - [Asking test takers to indicate their gender before the CSEM does not deteriorate physics conceptual test performance compared with not asking](gender-inquiry-no-csem-performance-effect.md) — related
 - [After traditional instruction, female students in regular calculus-based courses score significantly lower than male students on the MCS post-test](mcs-posttest-gender-difference-calculus-based.md) — related
+- [Asking the gender stereotype question before vs. after the FCI produced qualitatively similar trends in calculus-based students](stereotype-question-timing-qualitatively-similar.md) — related

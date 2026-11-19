@@ -16,12 +16,14 @@ sources:
     author: Hannah S. Dalgleish, Joshua L. Veitch-Michaelis
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # A majority of surveyed minority-group members, and about a third of those with impostor syndrome, felt the camp helped them reach their goals
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hannah S. Dalgleish, Joshua L. Veitch-Michaelis. (2019). Assessing the influence of one astronomy camp over 50 years. [doi:10.1038/s41550-019-0965-y](https://doi.org/10.1038/s41550-019-0965-y)
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Personal-impact questions in the retrospective survey of former participants; the article reports that among the "33.9%" identifying as minority group members, 53.8% (35.6% maybe) felt helped, and among the "44.0%" reporting impostor syndrome, 33.3% (41.5% maybe) felt helped.
 

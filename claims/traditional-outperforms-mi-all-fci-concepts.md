@@ -90,3 +90,4 @@ Item analysis of FCI results from twenty-two traditional and six M&I sections at
 - [Normalised gains on the six force-identification FCI questions are low, ranging from 13% to 30%](low-gain-force-identification-questions.md) — related
 - [On six FCI force-identification questions, student answers cluster on a pair of dominant answers containing the correct choice and a superset wrong choice](polarising-choices-force-identification.md) — related
 - [A majority of students do not develop a Newtonian view of force and motion after traditional instruction](majority-no-newtonian-view-traditional-instruction.md) — related
+- [The two sections performed roughly the same on the first midterm, which covered topics many students study in high school](no-advantage-first-midterm-kinematics-newtons-laws.md) — reports the opposite

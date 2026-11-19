@@ -42,6 +42,7 @@ This strategy turns the mix of student abilities into a learning resource: stron
 - [Reciprocal Peer Tutoring](reciprocal-peer-tutoring.md)
 - [Form tutoring pairs by ranking students by reading achievement and pairing across halves of the ranked list](rank-and-split-pairing-for-tutoring-pairs.md)
 - [Assign small mixed-ability groups and manage group functioning and rotation for collaborative feedback tasks](small-mixed-ability-groups-for-cfts.md)
+- [Use surveys of student familiarity to form mixed-ability groups and tailor topic emphasis](qc-module-survey-based-grouping.md)
 
 ## Examples
 -

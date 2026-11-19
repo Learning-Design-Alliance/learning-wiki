@@ -49,3 +49,4 @@ Mixed-effects model selection on lab report grades from the fall semester of the
 - [Group formation method did not impact students' overall lab grades in either course](no-difference-heterogeneous-vs-random-biology-lab.md) — related
 - [In the spring semester only, maximally heterogeneous group assignment eliminated a racial disparity in lab report grades present under random assignment, but this result was not robust](spring-heterogeneous-groups-eliminated-urm-report-grade-gap.md) — related
 - [Students with minoritized identities earned lower overall lab grades regardless of group formation: women lower than men, URM students lower than non-URM, and first-generation students lower than continuing-generation](demographic-disparities-overall-lab-grades.md) — related
+- [Course scores showed no differences across gender or culture/ethnicity in the inclusivity-driven astronomy course](no-score-differences-gender-ethnicity-inclusive-astronomy.md) — related

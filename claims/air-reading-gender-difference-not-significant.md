@@ -58,3 +58,4 @@ Subgroup analysis by gender within the main RCT model with interaction terms; th
 - [Quizzical participation showed no gender difference even though males outperformed females on course exams in both cohorts](no-gender-difference-quizzical-participation.md) — related
 - [Treatment effects on evaluations of female instructors appear concentrated among male students, though the male-versus-female difference is not statistically significant](student-sex-moderation-female-instructor-ratings.md) — related
 - [Normalized gain g overestimates gender inequities in student learning compared to Cohen's d](normalized-gain-overestimates-gender-inequities.md) — related
+- [Male participants showed significantly larger normalized gains than female participants in the dataset activity](gender-gap-dataset-activity-gains.md) — related

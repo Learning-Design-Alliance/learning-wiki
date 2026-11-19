@@ -45,6 +45,7 @@ The article suggests an exercise in which students 'create their own models in m
 
 - [Use a simple computational exercise that can be 'tweaked' with a few lines of code to solve a different, equally intensive problem almost for free](notebook-tweak-almost-for-free-strategy.md)
 - [Per-solver student exploration exercises that modify or extend the solver to build deeper method understanding](pyro-student-exploration-extensions.md)
+- [Free students from routine programming work when using computer modelling in physics](free-students-from-routine-programming.md)
 
 ## Examples
 -

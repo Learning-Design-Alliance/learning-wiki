@@ -52,3 +52,4 @@ Spring 2003 split-task FCI administered to ~200 students entering second semeste
 - [Correct responses to Newton's Third Law questions rose while forces were taught, peaked at the end of that instruction and fell back toward chance by the end of the quarter](instruction-positive-effect-peaks-then-diminishes.md) — related
 - [Traditional curriculum students outperformed M&I students on every FCI concept category.](traditional-outperforms-mi-all-fci-concepts.md) — related
 - [Interactive sections significantly outperformed traditional sections on the four FCI Newton's Third Law questions (Cohen's D = 0.583), while the entire-FCI normalized gain difference was not statistically significant](ils-fci-newtons-third-law-gain-french-mechanics.md) — related
+- [The two sections performed roughly the same on the first midterm, which covered topics many students study in high school](no-advantage-first-midterm-kinematics-newtons-laws.md) — related

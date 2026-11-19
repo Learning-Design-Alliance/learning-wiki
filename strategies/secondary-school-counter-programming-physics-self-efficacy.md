@@ -55,4 +55,4 @@ The article recommends intervening before students arrive at university, because
 -
 
 ## Key Sources
-- Whitcomb, K. M., Kalender, Z. Y., Nokes-Malach, T. J., Schunn, C. D., and Singh, C. (2020). A mismatch between self-efficacy and performance: Undergraduate women in engineering tend to have lower self-efficacy despite earning higher grades than men. https://arxiv.org/abs/2003.06006
+- Whitcomb, K. M., Kalender, Z. Y., Nokes-Malach, T. J., Schunn, C. D., and Singh, C. (2020). A mismatch between self-efficacy and performance: Undergraduate women in engineering tend to have lower self-efficacy despite earning higher grades than men. https://arxiv.org/abs/2003.06006. [doi:10.48550/arxiv.2003.06006](https://doi.org/10.48550/arxiv.2003.06006)

@@ -44,6 +44,7 @@ Because graduate TAs lead over 90% of CLASP DL sections, the program runs a sign
 - [Apprenticeship-style co-teaching sequence for sustaining reforms: secondary role first, then lead, then refinement](secondary-then-lead-coteaching-handoff.md)
 - [Lecture-course adaptation using a pre-lab website and TA-supported discussion sections](lecture-course-adaptation-prelab-website-ta-sections.md)
 - [Use peer observation, reflection, clear examples, and departmental support to develop TA interactivity](ta-peer-observation-reflection-strategy.md)
+- [Weekly TA/LA training meetings using situated apprenticeship: modelling authentic student difficulties and practicing Socratic-style questioning](situated-apprenticeship-weekly-ta-la-training.md)
 
 ## Examples
 -

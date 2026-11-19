@@ -57,3 +57,6 @@ The benchmark compares models from the deep learning family only; it does not in
 ## Related Claims
 - [The survey states that deep learning knowledge tracing models exhibit superior performance to Bayesian and logistic models but have significant room for improvement in interpretability.](deep-learning-knowledge-tracing-outperforms-but-lacks-interpretability.md) — qualifies it
 - [Simple IRT-based models do as well or significantly better than DKT across all three evaluated datasets on online response prediction](irt-models-match-or-beat-dkt-online-prediction.md) — related
+- [Context-aware question and response representations improve AKT's prediction over raw embeddings](akt-context-aware-representations-improve-prediction.md) — related
+- [AKT's monotonic attention mechanism outperforms positional-encoding attention variants by about 1% to 6% AUC](akt-monotonic-attention-beats-positional-encoding.md) — related
+- [AKT outperforms existing knowledge tracing methods on benchmark datasets in predicting future learner responses](akt-outperforms-kt-baselines-auc-benchmarks.md) — possibly the same claim (merge candidate)

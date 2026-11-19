@@ -53,3 +53,4 @@ Content analysis of semi-structured interviews with the 18 experimental-group st
 - [Students reported learning to construct arguments and design experiments during the activities](students-learned-arguments-experiment-design.md) — related
 - [Students’ emotional experience of SGLM was mixed: most found it enjoyable while about half reported initial stress and tension](sglm-mixed-enjoyment-and-stress.md) — related
 - [Users predominantly accepted the VI positively, with 79% reporting enhanced knowledge and themes of entertaining, engaging, and fun, though some reported technical loading issues](vi-user-acceptance-positive-with-technical-issues.md) — related
+- [Freedom was the most frequently written word in students' explanations of why they liked a lab unit, written by 25% of students](freedom-most-frequent-word-favorite-lab.md) — related

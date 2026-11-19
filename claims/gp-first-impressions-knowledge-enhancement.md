@@ -47,3 +47,4 @@ Open-ended question responses from 195 students (Table 2), grouped into seven ra
 ## Related Claims
 - [Students rated the wheelchair-to-dental-chair transfer station most useful and the clinical nutrition station least useful for their future professional life](transfer-station-most-useful-nutrition-least.md) — related
 - [Future research should test efficacy of the embodied activities with knowledge tests rather than self-reported impressions](future-research-knowledge-tests-for-embodied-activities.md) — related
+- [The video concepts that impressed audiences most were self-assembly into designed structures, academic values, and rich career opportunities (Concepts 1, 2, and 5)](top-impressed-concepts-self-assembly-academic-career.md) — related

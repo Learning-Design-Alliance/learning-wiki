@@ -89,3 +89,4 @@ Same survey's technology-access items; 96% of students used home internet access
 - [Educators found AR presented more challenges than benefits for anatomy education, citing hardware instability and inadequate anatomical detail compared to cadaveric specimens](ar-more-challenges-than-benefits-anatomy.md) — related
 - [Internet connectivity and electricity problems were the most frequently reported technical barrier, affecting 82% of first-time online learners](connectivity-electricity-top-barrier-82-percent.md) — related
 - [Distance-learning challenges were mainly external (unstable internet, internet-quota cost) plus internal factors, and 35.2% of students experienced stress](distance-learning-challenges-connectivity-stress.md) — related
+- [Making the remote class as similar to the in-person version as possible was the most common challenge instructors reported](instructor-challenges-remote-similarity.md) — related

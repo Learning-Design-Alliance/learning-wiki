@@ -52,3 +52,4 @@ Self-reported evaluation questionnaire from 68 voluntary respondents after compl
 - [Correct rates on fundamental physiology questions increased significantly from Quiz 1 to Quiz 2 during interprofessional OFST](ofst-quiz-fundamental-correct-rate-increase.md) — related
 - [92.60% of students were satisfied with the A-SPIRE model and 96.3% believed their science communication ability improved](a-spire-high-satisfaction-self-assessed-improvement.md) — related
 - [Students report positive interprofessional attitudes after the TBL session, with majorities agreeing that viewpoints were respected and shared learning helps teamwork](ip-tbl-students-value-interprofessional-learning.md) — related
+- [Students mostly agree the methodology resembles job-market challenges and could extend to other disciplines, with reservations](survey-job-market-and-transferability-perceptions.md) — related

@@ -50,3 +50,4 @@ Classical test theory analysis of each protoPIQL question's difficulty and discr
 - [After removing poorly performing questions, physical specimens showed higher point biserial discriminatory capacity than VR, though both exceeded the accepted threshold](point-biserial-physical-higher-than-vr.md) — related
 - [TOSLS shows acceptable psychometric properties: reliability 0.731–0.748, average item difficulty 0.59–0.68, and average item discrimination 0.26–0.27](tosls-psychometric-properties.md) — related
 - [The ten-item interferometry test showed acceptable reliability: average α = 0.675 with post-test discriminations within accepted limits except item 10 in fall 2016](interferometry-test-alpha-0-675-reliability.md) — related
+- [CTT parameters on the protoPIQL identified weak items (too easy or low discrimination), driving item removal and addition across versions](protopiql-ctt-weak-items-removed.md) — reports the opposite

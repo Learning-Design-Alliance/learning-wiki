@@ -69,3 +69,4 @@ Pre-/posttest evaluation in which students worked through the QuILT in class and
 - [First-year physics graduate students improved less than undergraduates (pre 44% to post 73%, normalized gain 0.52), possibly due to lack of grade incentives](quilt-dse-graduate-lower-gain-0-52.md) — related
 - [Upper-level undergraduates improved dramatically from pre- to post-test after working through the double-slit QuILT, with a normalized gain of 0.94](quilt-dse-undergraduate-normalized-gain-0-94.md) — related
 - [Students rated QuILTs highly effective and 10 of 12 preferred completing them in class rather than as homework](quilt-student-survey-effectiveness.md) — related
+- [The DSE QuILT was effective in helping upper-level undergraduate and graduate students develop a more robust understanding of foundational quantum mechanics concepts in the double-slit experiment context](quilt-effective-dse-foundational-concepts.md) — related

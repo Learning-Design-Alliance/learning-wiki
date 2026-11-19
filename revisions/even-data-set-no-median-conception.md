@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/even-data-set-no-median-conception.md
+---
+
+# Revision history: [claims/even-data-set-no-median-conception](../claims/even-data-set-no-median-conception.md)
+
+### 2026-11-18 · ingest · process:wiki-ingest
+Ingested from arxiv-2004.10302 (Exploring students' understanding of median) via eval_harness.py + ingest_extractions.py

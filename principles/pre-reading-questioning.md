@@ -168,6 +168,7 @@ The present evidence establishes no number of questions, no length of attempt, n
 - **Source anticipation**: Before reading a document, learners predict what perspective, evidence, or problem the text might contain.
 - Concrete forms in the wiki: [prequestions](../strategies/prequestions.md), [pretesting](../strategies/pretesting.md), [anticipation guide](../strategies/anticipation-guide.md), [KWL](../strategies/kwl.md), [generating questions before reading](../strategies/pre-reading-generating_questions.md), and the [pre-reading questioning element](../elements/pre-reading-questioning.md).
 - [Pre-questioning: teacher and students generate questions and inferences about a passage summary before reading](../strategies/pre-questioning-strategy-recipe.md)
+- [Progressively answer three questions while reading: what problem, how addressed, what was found](../strategies/three-question-paper-reading-scaffold.md)
 
 ## Key Sources
 - Ajideh, P. (2003). Schema theory-based pre-reading tasks: A neglected essential in the ESL reading class. *The Reading Matrix, 3*(1).

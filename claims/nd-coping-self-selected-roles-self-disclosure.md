@@ -78,3 +78,4 @@ Same interview study: participants with strong expectations for how work is done
 - [The authors suggest incorporating scholarship on the challenges of active learning into courses may help students reflect on their own discomfort and resistance](explicit-engagement-with-al-challenges-scholarship-suggestion.md) — related
 - [Coping with technical failures, equipment operation, and computer use are the most valued technician skills](top-skills-simulation-technician-poland.md) — related
 - [Postsecondary students must self-disclose disability status to access supports, and disability disclosure may make students vulnerable to stigmatization](postsecondary-disability-self-disclosure-stigmatization-risk.md) — related
+- [Roles in inquiry-lab groups were not explicitly assigned: video analysis found no instances of explicit role allocation by peers or instructors](no-explicit-role-assignment.md) — related

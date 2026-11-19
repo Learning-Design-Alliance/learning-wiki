@@ -109,6 +109,7 @@ Enactment leverages the self-performed, embodied encoding of content: motor enga
 **[Vocabulary enactment (Total Physical Response)](https://en.wikipedia.org/wiki/Total_physical_response)** — Language learners perform actions matching new vocabulary; the motor trace supports word recall.
 
 **[Forum Theatre (Theatre of the Oppressed)](https://theatreoftheoppressed.org)** — Audiences watch a dramatized problem, then step in to re-enact it with interventions, rehearsing alternative social responses.
+- [Embodied carbon-cycle bathtub activity to teach steady state versus non-steady state](../strategies/carbon-cycle-embodied-bathtub-activity.md)
 
 ## Key Sources
 - Piaget, J. (1952). *The origins of intelligence in children*. International Universities Press.

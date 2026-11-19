@@ -53,3 +53,4 @@ Written multiple-choice question administered to 10 students in a junior-senior 
 - [More than one-third of upper-level students incorrectly state that the Time-Independent Schrödinger Equation holds for all possible wavefunctions, not only energy eigenstates](qm-tise-holds-for-all-wavefunctions-difficulty.md) — related
 - [Students confuse stationary states with superpositions and expect non-stationary states to evolve into stationary states](stationary-state-and-time-evolution-misconceptions.md) — related
 - [Teaching of complex quantum behavior — time dependence, superposition, and the measurement problem — is barely investigated at the secondary and lower undergraduate level](complex-quantum-behavior-barely-investigated.md) — related
+- [Question 5 remained the most difficult after the CQS, with Class A averaging below 50% even after implementation](cqs-larmor-question-5-difficulty-persists.md) — related

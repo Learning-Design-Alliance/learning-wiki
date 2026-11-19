@@ -56,3 +56,4 @@ Theoretical argument applying philosophy of language: the article quotes Chalmer
 - [A single representation can be abstract along one dimension and concrete along another, and concrete for one learner but abstract for another](representation-abstract-one-dimension-concrete-another.md) — related
 - [Concreteness, imagery, and verbal associative processes play major roles across multiple educational domains](concreteness-imagery-associative-roles-educational-domains.md) — related
 - [Concreteness fading may not be as broadly generalizable across mathematics and natural science domains as has been suggested](concreteness-fading-limited-domain-generalizability.md) — related
+- [Students gave varying linguistic interpretations of the same precise numeric rating, illustrating word uncertainty](varying-linguistic-interpretations-of-numeric-rating.md) — a narrower finding that bears on this claim

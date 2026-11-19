@@ -76,3 +76,4 @@ Open-ended question Q6 asked 62 UG and 68 G students to write ⟨x|Q̂|Ψ⟩ wit
 - [Only 29% of upper-level undergraduates and 52% of graduate students obtained a correct expectation value expression for a discrete eigenvalue spectrum](low-correct-discrete-expectation-value-q2.md) — related
 - [Students displayed procedural difficulties including incorrect expansions of the generic state, incorrect expectation value expressions with mismatched bra and ket states, and getting lost after inserting the identity operator](procedural-difficulties-expansion-identity-operator.md) — related
 - [Students taught classical physics with the state-and-operator approach report perceiving deeper understanding of physics](state-operator-approach-deeper-understanding-perception.md) — related
+- [Mathematics functions as a barrier to entry that excludes non-specialists from quantum computing knowledge](mathematics-barrier-quantum-entry.md) — related

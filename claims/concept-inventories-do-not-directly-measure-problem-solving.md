@@ -49,3 +49,4 @@ The article's own assessment of the measurement literature, reviewing concept in
 - [Active student engagement during class significantly improves conceptual understanding and problem solving over traditional passive lectures](active-engagement-beats-passive-lecture-hake.md) — related
 - [Students in college physics courses perform poorly on conceptual questions while sometimes solving difficult multiple-step quantitative problems better](conceptual-questions-poor-quantitative-better.md) — related
 - [Students learn what they are tested on, so physics instruction needs well-defined, measurable learning goals and assessment tools commensurate with those goals](well-defined-learning-goals-physics-assessment.md) — related
+- [Typical textbook and course problems fail to capture authentic problem solving because they involve no decisions based on limited information](textbook-problems-lack-limited-information-decisions.md) — related

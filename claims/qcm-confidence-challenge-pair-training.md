@@ -55,3 +55,4 @@ Questionnaire on Current Motivation (QCM) comparison between groups before and a
 - [Within pairs, the second-performing participant outperformed their partner and solo-trained participants on some BOSATS comparisons](second-participant-bosats-advantage.md) — related
 - [Pair training favored the intervention group on instrument movements and instrument pathway only during the fourth MIS RYGB, with no difference in performance time](pair-training-no-time-difference-instrument-metrics.md) — related
 - [The advantage of pair training on reaching proficiency was strongest at the fourth repetition and diminished by the fifth in ITT analysis](itt-pair-training-effect-fourth-repetition.md) — related
+- [Pairs of students produced higher-quality videos than students working alone, with a few exceptions](pairs-produce-higher-quality-videos.md) — related

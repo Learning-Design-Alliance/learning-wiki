@@ -49,3 +49,4 @@ Final questionnaire item, shown in Figura 19, asked after the initial Arduino co
 - [Students produced ten self-chosen particle-physics projects, which the authors read as evidence of acquired basic knowhow for designing and developing products](lidyef2018-ten-student-projects.md) — related
 - [In a five-day Arduino open-project lab, all eleven student pairs produced a working experimental setup and physical measurements](arduino-open-projects-all-pairs-produced-working-setups.md) — related
 - [A handful of students in each pilot produced remarkable results and later applied Arduino or Labview skills beyond the course](arduino-lab-anecdotal-student-outcomes.md) — related
+- [The authors identify three course-design factors as vital to pandemic resilience: fully open inquiry, Arduinos as measurement tools, and flipped instruction](three-factors-pandemic-resilience-lab-course.md) — related

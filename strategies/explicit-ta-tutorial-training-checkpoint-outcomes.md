@@ -42,6 +42,7 @@ The authors propose reforming weekly one-hour tutorial training, in which teachi
 - [Use trained TA-led small-group support sessions with worked and faded worked examples](ta-led-worked-example-support-sessions-strategy.md)
 - [Use measured student expectations of TAs to tailor TA professional development and faculty supervision](student-expectation-surveys-inform-ta-professional-development.md)
 - [Use peer observation, reflection, clear examples, and departmental support to develop TA interactivity](ta-peer-observation-reflection-strategy.md)
+- [Weekly TA/LA training meetings using situated apprenticeship: modelling authentic student difficulties and practicing Socratic-style questioning](situated-apprenticeship-weekly-ta-la-training.md)
 
 ## Examples
 -

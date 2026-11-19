@@ -48,3 +48,4 @@ Comparison of pre-/post-test results across the test items shows gains on all it
 - [Student knowledge of energy and momentum is fragmented and context-dependent, triggered by surface features rather than underlying concepts](fragmented-context-dependent-energy-momentum-knowledge.md) — related
 - [Most introductory students have difficulty qualitatively interpreting basic energy and momentum principles and applying them in physical situations](students-difficulty-qualitative-energy-momentum.md) — a broader claim this one bears on
 - [Upper-quartile students show significantly higher normalized gains than lower-quartile students on the energy and momentum test](upper-quartile-higher-normalized-gains.md) — related
+- [The redesigned ballistic-trajectory measuring g experiment let the instructor reliably get within 5% of the actual value of g and gave students three methods of measuring g to compare](ballistic-g-experiment-within-5-percent-three-methods.md) — related

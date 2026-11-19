@@ -50,3 +50,4 @@ Authors' own statement of study scope: the 16-subject evaluation covered usabili
 - [In 2D mode, RiNeo MR received UEQ user experience scores above 1 (range -3 to +3) on all six scales from both controls and paediatric residents](rineo-2d-ueq-positive-user-experience.md) — related
 - [Students reported usability and technological limitations including headaches, visual fatigue, gesture misinterpretation and restricted field of view](hololens-usability-limitations-cybersickness-gestures.md) — related
 - [Sense of presence in the 3D mode was moderate (involvement, realism, and spatial presence below 5 out of 7) with no differences between groups, attributed to a static virtual world](rineo-3d-presence-moderate-static-world.md) — related
+- [The authors claim no evaluation of SEAL yet: experiments to test effectiveness and experience are future work](seal-effectiveness-testing-future-work.md) — related

@@ -165,3 +165,5 @@ The core interpretive point is that "is lecture effective?" is the wrong questio
 - [Limiting each EWAPS presentation to about three minutes followed by a twelve-minute discussion reduced the lecture-centred approach and promoted dialogue and critical reflection](short-presentation-long-discussion-cme-format.md) — related
 - [The article argues that traditional teacher-centered lecturing fails to provide interaction and that active engagement is measurably more effective for understanding](traditional-lecture-fails-interaction-active-engagement-more-effective.md) — related
 - [Open play time with an interactive simulation supports the teacher in leading student-centered, inquiry-based classroom discourse](open-play-sim-time-supports-inquiry.md) — related
+- [The author observes that student audiences pay more attention to peer-delivered astronomy talks than to the same topic in a teacher's lecture](peer-delivered-astronomy-talks-higher-attention.md) — related
+- [Using CMODS is argued to shift teaching from passive to active methods and activate students' learning activity](cmods-passive-to-active-shift.md) — related

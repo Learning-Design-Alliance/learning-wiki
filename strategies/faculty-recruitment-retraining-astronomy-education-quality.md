@@ -45,4 +45,4 @@ The article's concluding recommendation identifies faculty as the critical lever
 -
 
 ## Key Sources
-- Guido, R. M. D. (2019). The Progress of Astronomy Program in the Rizal Technological University Philippines. https://arxiv.org/abs/1911.06656
+- Guido, R. M. D. (2019). The Progress of Astronomy Program in the Rizal Technological University Philippines. https://arxiv.org/abs/1911.06656. [doi:10.48550/arxiv.1911.06656](https://doi.org/10.48550/arxiv.1911.06656)

@@ -51,3 +51,4 @@ Raw pre/post overall E-CLASS scores (Table III, Fig. 1) for the aggregate data s
 - [Guided-lab-only courses show a small significant negative shift in E-CLASS scores over a semester](guided-labs-negative-shift.md) — related
 - [All three lab courses show negative or neutral pre-to-post E-CLASS shifts, with no positive shifts](negative-neutral-pre-post-eclass-shifts.md) — reports the opposite
 - [Students in Traditional first-year physics labs show a significant negative shift in E-CLASS scores, while students in Transformed courses do not shift significantly](traditional-labs-negative-eclass-shift-transformed-none.md) — related
+- [Many instructors shifted remote lab learning goals toward reinforcing physics concepts, while skills-focused courses largely maintained their goals](shift-to-concept-focused-remote-lab-goals.md) — related

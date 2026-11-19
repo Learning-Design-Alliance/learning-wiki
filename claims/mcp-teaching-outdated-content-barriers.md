@@ -17,6 +17,8 @@ sources:
     author: Brendon S. M. Barros and Emanuel V. de Souza
     q: 1
     i: "?"
+    kind: design
+    rigour: "?"
   - id: brendon-s-m-barros-and-emanuel-v-de-souza-2020-2
     resource: "https://doi.org/10.48550/arXiv.2003.08543"
     title: "Brendon S. M. Barros and Emanuel V. de Souza. (2020). Estudo das ondas gravitacionais no ensino médio: uma abordagem teórica e experimental. [doi:10.48550/arXiv.2003.08543](https://doi.org/10.48550/arXiv.2003.08543)"
@@ -30,7 +32,7 @@ sources:
 # Physics teaching is described as stuck in outdated pre-20th-century content, and barriers to including Modern and Contemporary Physics are multiple and interacting
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r?` · `q1`
+> **Evidence** · 1 study (2 entries) · design `r?` · `q1`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
@@ -43,7 +45,7 @@ sources:
 
 Brendon S. M. Barros and Emanuel V. de Souza. (2020). Estudo das ondas gravitacionais no ensino médio: uma abordagem teórica e experimental. [doi:10.48550/arXiv.2003.08543](https://doi.org/10.48550/arXiv.2003.08543)
 
-`q1 · i?`
+`q1 · i?` · `design · r?`
 
 The article quotes Moreira to characterize the problem motivating the work: "o ensino da Física estimula a aprendizagem mecânica de conteúdos desatualizados". This is an attributed diagnosis of the teaching deficit, not a tested result in this article.
 

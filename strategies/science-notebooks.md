@@ -68,6 +68,7 @@ Science notebooks operationalize the "writing to learn" tradition: transforming 
 - [Learning Journals](../strategies/learning-journals.md) — the general-purpose analogue outside science contexts
 - [Laboratory Reports](../strategies/laboratory-reports.md) — the formal, end-product genre the notebook feeds into
 - [Evaluate notebooks holistically on interpretability rather than format, using peer feedback, oral quizzes, or a reproduction practicum](authentic-notebook-evaluation-methods.md)
+- [Online Data Retrieval Test plus Traffic Light Feedback activities for formative feedback on notebook keeping in pass-fail laboratories](online-drt-tlf-notebook-feedback-strategy.md)
 
 ## Examples
 - **[FOSS (Full Option Science System)](https://www.fossweb.com)** — embeds student science notebooks as a core component of every module, with grade-banded entry formats.

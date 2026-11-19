@@ -17,7 +17,7 @@ sources:
 # Add structured role assignments to inquiry-lab group work while preserving student decision-making agency
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The authors' forward-looking recommendation for inquiry labs: keep collaborative, student-directed experimental design and data analysis, but add deliberate structure to role assignments within groups, drawing on concepts from cooperative grouping. The aim is to test whether the observed gendered task division persists when roles are explicitly structured rather than left for groups to divide on their own. The article plans to compare behaviour in such structured-role labs with the labs studied here.
@@ -49,6 +49,8 @@ The authors' forward-looking recommendation for inquiry labs: keep collaborative
 - [Normalise collaborative decision making and meaning making across upper secondary, undergraduate and postgraduate learning](normalise-collaborative-decision-making-across-levels.md)
 - [Leave knowledge-generating activities such as making predictions in the hands of learners rather than demonstrating or deciding for them](leave-learning-activities-in-hands-of-learners.md)
 - [Structure and incentivize equitable collaboration in lab groups: rotating roles, regular re-grouping, individual tinkering time, and scaffolded task division with TA buy-in](equitable-collaboration-structuring-strategy.md)
+- [Future lab studies should analyze student positioning and body language to reveal how roles are assigned or assumed](positioning-body-language-lab-role-assignment-strategy.md)
+- [Assign and make deliberate explicit group roles such as group PI, reviewer, or science communicator in lab curricula](explicit-group-roles-lab-curricula.md)
 
 ## Examples
 -

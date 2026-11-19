@@ -49,3 +49,6 @@ Observational cluster analysis of student profiles: traditional labs used paper 
 - [Averaged code fractions corroborate the cluster result: men handle equipment more and women use laptops more in inquiry labs](inquiry-lab-code-fractions-corroborate-clusters.md) — related
 - [In traditional guided-verification physics labs, no gender difference appears in the distribution of behaviour profiles](no-gender-difference-traditional-labs.md) — related
 - [Student behaviour profiles vary week to week rather than representing stable semester-long behaviour types](student-profiles-vary-week-to-week.md) — related
+- [Inquiry labs showed substantially greater task division within groups than traditional labs, with comparable division across group gender compositions](inquiry-labs-greater-task-division.md) — related
+- [In mixed-gender inquiry-lab groups, women spent about twice as much time as men analyzing data on laptops (14±7% vs 6±3% of the lab period)](women-twice-laptop-analysis-time.md) — related
+- [In mixed-gender lab groups, men spent more time on the equipment while women spent more time on paper](mixed-gender-lab-groups-men-equipment-women-paper.md) — related

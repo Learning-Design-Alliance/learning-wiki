@@ -54,3 +54,4 @@ The article reports this second-hand, citing studies by Hoellwarth et al., Lea, 
 - [Physics education research shows active teaching and problem-solving methodologies strengthen quantitative problem solving and conceptual understanding](per-active-strategies-strengthen-problem-solving.md) — reports the opposite
 - [Explicit teaching of problem-solving practices in a cooperative group format helped students perform better on qualitative exam questions than traditionally-taught students](cooperative-group-problem-solving-qualitative-exam-gains.md) — related
 - [Graduate students perceive the physics core courses as focused exclusively on quantitative problem solving with little focus on concepts](grads-perceive-core-courses-exclusively-quantitative.md) — related
+- [The reformed section's exam advantage held for both conceptual and quantitative questions](active-learning-advantage-both-conceptual-and-quantitative-questions.md) — reports the opposite

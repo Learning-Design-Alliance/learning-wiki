@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 728 claims (394 show a difference, 172 mixed, 162 no difference) · 506 studies (267 associational, 173 causal, 21 review, 18 quant-synthesis, 13 design, 8 theoretical, 6 qualitative), `q1`–`q4` · 72 of 506 report an effect size · 720 claims rest on one study
+> **Evidence** · 736 claims (395 show a difference, 178 mixed, 163 no difference) · 512 studies (272 associational, 174 causal, 21 review, 18 quant-synthesis, 13 design, 8 theoretical, 6 qualitative), `q1`–`q4` · 75 of 512 report an effect size · 728 claims rest on one study
 
 ## How to read this page
 
@@ -767,6 +767,14 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Women earn roughly 0.2 grade points higher overall GPA than men across all demographic groups](../claims/women-higher-overall-gpa-all-groups.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Women who drop STEM majors earn statistically significantly higher STEM GPAs than men who drop the same majors](../claims/women-drop-stem-majors-higher-gpa-than-men-who-drop.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Women who drop the first cluster of STEM majors earn significantly lower grades than men who persist, while women who drop the second cluster earn the same grades as men who persist](../claims/women-drop-cluster1-grades-midway-men-drop-persist.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Both male and female students' physics self-efficacy and interest declined from the beginning to the end of the course, with female students declining more](../claims/self-efficacy-interest-decline-pre-post-females-more.md) [+M] — an instructional effect differs by group
+- [Female undergraduates were the only subsample without statistically significant overall improvement](../claims/female-undergraduates-no-significant-gain.md) [-M] — an instructional effect differs by group
+- [Gender differences in physics 2 grade and self-efficacy are mediated by perceived recognition rather than predicted directly by gender](../claims/recognition-mediates-gender-differences-physics2.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Gender differences in post-course self-efficacy, interest, and identity are mediated by the learning environment, with gender directly predicting only pre-course beliefs and environment perceptions](../claims/learning-environment-mediate-gender-differences-motivation.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Men behaved differently depending on group gender composition: men in single-gender groups were more often high Equipment users, while men in mixed-gender groups were more often high Other users](../claims/men-behavior-group-composition.md) [~M] — an instructional effect differs by group
+- [The authors interpret that lab tasks are not inherently gendered and that mixed-gender role divisions reflect students enacting gender](../claims/lab-tasks-not-inherently-gendered-interpretation.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The gender gap on the FCI is largest between male and female students who agree with the gender stereotype](../claims/gender-gap-largest-among-stereotype-agreeers.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Women in single-gender groups were dominant across all lab activity roles, while women in mixed-gender groups were dominant only on computer, paper, or group discussion](../claims/single-gender-women-dominant-across-all-lab-roles.md) [~M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

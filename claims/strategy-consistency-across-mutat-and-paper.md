@@ -50,3 +50,4 @@ Qualitative case analysis of three students (Lucas, Julia, Mark) comparing paper
 - [Students' performance scores on the MuTAT touch-based assessment tool are comparable to paper-and-pencil test scores](mutat-performance-comparable-to-paper-tests.md) — related
 - [MuTAT trace data can detect relative time efficiency of arithmetic strategies, with place-value faster on three of five questions](mutat-detects-strategy-efficiency-differences.md) — related
 - [The study's evaluation system was limited: paper-and-pencil memory-focused tests could capture only a small part of the difference between groups](paper-pencil-assessment-limits-radiology-study.md) — related
+- [OLM-based assessment can detect diverse student strategies that distort measurement, an advantage over conventional paper-and-pencil tests](olm-strategy-detection-advantage.md) — related

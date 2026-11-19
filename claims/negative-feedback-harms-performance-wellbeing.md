@@ -49,3 +49,4 @@ In the framework analysis of 15 narrative interviews, all trainees reported expe
 - [Negative feedback in the operating theatre took more varied forms than positive feedback, ranging from criticism and condescending remarks to swearing and physical abuse](varied-negative-feedback-forms-theatre.md) — related
 - [Negative feedback was easier for trainees to recall than positive feedback, which they described as a rare occurrence](negative-feedback-easier-recall.md) — related
 - [Positive trainer feedback in the operating theatre helped surgical trainees relax and reportedly enhanced their operative performance and willingness to learn](positive-feedback-relaxes-trainees-enhances-performance.md) — related
+- [Interviewed women reported belittling instructor comments, unequal praise of men, and contemplating leaving their majors because of negative physics course experiences](interviews-women-belittling-comments-unequal-praise.md) — related

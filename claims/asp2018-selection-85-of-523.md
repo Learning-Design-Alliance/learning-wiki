@@ -17,12 +17,14 @@ sources:
     author: Kétévi Adiklè Assamagan, Mounia Laassiri
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # ASP2018 selected 85 students from 523 applicants, with most participants at MSc level and a peak age around 26–27
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: local conditions change quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Kétévi Adiklè Assamagan, Mounia Laassiri. (2019). The African School of Fundamental Physics and Applications (ASP). [doi:10.48550/arXiv.1909.06309](https://doi.org/10.48550/arXiv.1909.06309)
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Figures 1–4 report the ASP2018 selection: "There were 523 applicants from whom 85 were selected", with 30 on the waiting list; the academic-level figure shows students mostly at MSc level and the age distribution peaks around 26–27 years.
 

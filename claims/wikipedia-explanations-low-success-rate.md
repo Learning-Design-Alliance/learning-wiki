@@ -48,3 +48,5 @@ Same pilot experiment on the Korbit platform: success was measured by whether th
 ## Related Claims
 - [Personalized hints raise student success at solving exercises: 60.47% success before second attempt with the discourse model versus 37.93% baseline (p = 0.03)](personalized-hints-improve-success-rate-pilot.md) — related
 - [Students rate pairs of extracted and generated Wikipedia-based explanations as helpful 83.33% of the time, more than either type alone](wikipedia-explanations-both-types-preferred.md) — related
+- [Automatically generated Wikipedia-based explanations produce learning gains comparable to personalized hints and are rated helpful by students](wikipedia-based-explanations-comparable-gains.md) — reports the opposite
+- [Deep personalization feedback selection yields higher student learning gains than a non-personalized baseline in a dialogue-based ITS](deep-personalization-feedback-higher-learning-gains.md) — related

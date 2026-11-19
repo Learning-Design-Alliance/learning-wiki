@@ -74,3 +74,4 @@ Bootstrap mediation in the Study 3 experiment: "the indirect effect of gender on
 - [The detrimental effect of numerus clausus on learning was significant among female students but not among male students (Study 3)](numerus-clausus-learning-gender-interaction.md) — related
 - [Presenting an evaluative test as having numerus clausus reduces short-term learning compared with presenting it as criterion-based, mediated by self-efficacy (Study 3)](numerus-clausus-manipulation-reduces-learning-study3.md) — related
 - [Medical students who perceive a numerus clausus policy in their department report lower mastery goals than those who do not, mediated by self-efficacy (Study 2)](perceived-numerus-clausus-medical-students-mastery-goals.md) — related
+- [Women reported lower self-efficacy and higher test anxiety than men in an active-learning introductory physics course](women-lower-self-efficacy-higher-test-anxiety.md) — related

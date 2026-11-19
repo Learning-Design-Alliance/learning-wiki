@@ -49,3 +49,4 @@ Observational analysis of clickstream sequences from 778 students in two offerin
 - [The highest-rated skip-gram visualization of Habitable Worlds used a window size of five and vector size of twelve, with low vector sizes yielding overly sequential plots](skip-gram-hyperparameter-tuning-results.md) — related
 - [A forward linear review strategy predicted lower cognitive load regardless of modality, while scanning and slowing predicted higher cognitive load](linear-strategy-lower-cognitive-load.md) — related
 - [Failing students delay engagement with the course project until the end of the term while passing students access it throughout](project-access-timing-passing-failing.md) — related
+- [No hierarchical or hub-and-spoke position structure appeared in the data, suggesting active learning classes have a flatter social structure than the 'work with the smart student' expectation](no-hierarchy-active-learning-networks.md) — related

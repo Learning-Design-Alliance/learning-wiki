@@ -52,3 +52,4 @@ Survey of subject-level AI use across the DiKoLAN areas (nsubject = 115 data set
 - [Perceived institutional AI regulation differs significantly across STEM subjects, with mathematics and natural sciences perceived as prohibitive and computer science as permissive](subject-specific-ai-regulation-perceptions.md) — related
 - [Language learning was the most common subject domain for AIEd in higher education, at 17%](language-learning-top-subject-domain-ai-ed-he.md) — related
 - [Ghanaian pre-service science teachers use AI mainly for research and content delivery rather than assessment or student engagement](ai-used-for-research-not-assessment-pre-service-teachers.md) — related
+- [A common subject-agnostic engagement model can be assumed across knowledge areas, since subject-specific training does not improve accuracy](common-engagement-model-across-knowledge-areas.md) — related

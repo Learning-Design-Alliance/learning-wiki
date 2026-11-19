@@ -48,4 +48,4 @@ The paper reports three observed ways teachers implemented the smartphone experi
 -
 
 ## Key Sources
-- Leong, T. K., Wee, L. K., García-Clemente, F. J., & Esquembre, F. (2019). Promoting the Joy of Learning by Turning a Smartphone into Scientific Equipment. GIREP-ICPE-EPEC-MPTL conference, Budapest. https://www.um.es/fem/EjsWiki/
+- Leong, T. K., Wee, L. K., García-Clemente, F. J., & Esquembre, F. (2019). Promoting the Joy of Learning by Turning a Smartphone into Scientific Equipment. GIREP-ICPE-EPEC-MPTL conference, Budapest. https://www.um.es/fem/EjsWiki/. [doi:10.48550/arxiv.1911.06655](https://doi.org/10.48550/arxiv.1911.06655)

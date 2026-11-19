@@ -16,6 +16,8 @@ sources:
     author: Zhongzhou Chen and Matthew Guthrie
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: zhongzhou-chen-and-matthew-guthrie-2019-2
     resource: "https://doi.org/10.48550/arXiv.1903.08003"
     title: "Zhongzhou Chen and Matthew Guthrie. (2019). Measuring the Effectiveness of Learning Resources Via Student Interaction with Online Learning Modules. Originally published 2017. [doi:10.48550/arXiv.1903.08003](https://doi.org/10.48550/arXiv.1903.08003)"
@@ -42,7 +44,7 @@ sources:
 
 Zhongzhou Chen and Matthew Guthrie. (2019). Measuring the Effectiveness of Learning Resources Via Student Interaction with Online Learning Modules. Originally published 2017. [doi:10.48550/arXiv.1903.08003](https://doi.org/10.48550/arXiv.1903.08003)
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Fisher's exact tests (Table 4, row 2) correlating the four engagement modes with passing on post-learning attempts found that "On modules 1, 2, and 4, the “NB” modes are significantly correlated with lower AAL passing percentages", with BB modes removed for low student numbers (modes with fewer than 5 students were neglected).
 

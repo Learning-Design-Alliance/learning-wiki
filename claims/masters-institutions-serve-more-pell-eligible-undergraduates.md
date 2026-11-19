@@ -50,3 +50,4 @@ Analysis combining AIP department rosters (190 Ph.D.-highest and 55 MS-highest s
 - [Students in master's programs are more likely to attend part-time than students in Ph.D. programs, and master's institutions serve more part-time undergraduates](masters-programs-more-part-time-students.md) — related
 - [PUIs and other non-Ph.D.-granting institutions host the majority of US post-secondary educational opportunity](puis-majority-postsecondary-opportunity.md) — a broader claim this one bears on
 - [Students who complete a master's degree at a different institution before a Ph.D. take about 2 years longer in graduate school than students entering a Ph.D. program directly](terminal-masters-different-school-two-years-longer-to-phd.md) — related
+- [Students from higher-income high school communities take longer to graduate](higher-income-high-school-longer-graduation.md) — related

@@ -68,3 +68,4 @@ Same perception ANOVA follow-up: "There was no signi ﬁcant difference in perce
 - [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — related
 - [Students report rarely reading their physics textbooks, with half claiming never to have used it in an entire semester](students-rarely-read-textbook.md) — related
 - [Students perceive LOCS and HOCS clicker questions as equally helpful, despite exam performance differences](students-perceive-clicker-levels-equally-helpful.md) — related
+- [Most students in a large numerical analysis class reported that clicker questions helped them better understand lecture material](clickers-improve-perceived-understanding-numerical-analysis.md) — related

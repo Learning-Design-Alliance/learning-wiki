@@ -50,3 +50,4 @@ Network analysis of the students' and researchers' forma mentis networks against
 - [Students perceive scientists positively and mostly non-stereotypically, though a mad-scientist association with crazy persists](students-positive-non-stereotypical-scientist-perception.md) — related
 - [Students hold a mixed stance toward teachers, combining appreciation of mentoring and knowledge transmission with negative associations around testing and grading](students-mixed-teacher-stance-testing-grading.md) — related
 - [LLM digital shadows reproduce the human pattern of positive science perceptions anchored in negative mathematics associations](llm-shadows-reproduce-negative-math-semantic-bias.md) — related
+- [Students' mindsets around logic reasoning showed positive associations, as in experts, but contrasted with negative mathematical jargon](logic-reasoning-positive-mindset-both-groups.md) — related

@@ -51,3 +51,4 @@ Rasch analysis (Winsteps, Version 3.90.2) of the combined CPS (1,153 teachers) a
 - [All nine Cultivate learning condition measures show strong Rasch person reliability (0.82-0.87) in CPS administrations](cultivate-learning-condition-measures-strong-reliability.md) — related
 - [Recalibrated 5Essentials measures based on 2014–19 data maintained acceptable Rasch reliability and school-level variance](recalibrated-5essentials-measures-reliability.md) — related
 - [Reliability of classroom means for most instructional variables falls below the .70 threshold](classroom-mean-reliability-below-threshold.md) — related
+- [Iterative revision produced a 20-item PIQL whose final version meets reliability and item-quality thresholds (Cronbach's α = 0.80 on v2.2)](piql-final-version-reliable-alpha-080.md) — related

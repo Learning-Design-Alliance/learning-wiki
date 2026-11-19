@@ -46,6 +46,7 @@ To increase the curriculum's relationship with the sector, the article recommend
 - [Use direct-experience formats — simulation games, extracurricular activities, action learning, peer teaching — to pursue relational-domain objectives](experiential-formats-relational-objectives.md)
 - [Use extracurricular activities and inclusion-oriented clubs to build cross-group connections, while removing access barriers](extracurricular-shared-goals-cross-group-connections.md)
 - [Add technology-trend courses to the curriculum through project-based learning](trend-courses-project-based-learning.md)
+- [Offer a one- or two-semester quantum awareness course for engineers and computer scientists, in hardware and software tracks](quantum-awareness-course-strategy.md)
 
 ## Examples
 -

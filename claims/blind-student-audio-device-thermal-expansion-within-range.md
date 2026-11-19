@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: weak
 newest_evidence: 2020
+source_checked: 2026-11-18
 sources:
   - id: o-negrete-2020
     resource: "https://doi.org/10.1088/1361-6404/ab7c6b"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A blind student performing the measurements himself obtained a linear expansion coeﬃcient for aluminum of about 22.86×10−6 1/°C, within the expected range. [→ O. Negrete 2020](#o-negrete-2020)

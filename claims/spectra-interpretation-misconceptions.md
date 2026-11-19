@@ -69,3 +69,4 @@ Survey 1 item on four hypothetical galaxy spectra (Figure 6): students rejecting
 - [Galaxy and spectra misconceptions persist after instruction, with similar patterns across two different classes](misconceptions-persist-after-instruction.md) — related
 - [Students commonly misplace stars within the solar system and misinterpret parallax and stellar distances, including trainee science teachers](stars-placed-within-solar-system-misconception.md) — related
 - [College students commonly misconstrue radio images of the Milky Way as depictions of sound rather than light](radio-image-sound-misconception.md) — related
+- [The Doppler shift Student Representation Task sequences representation creation to confront known reasoning difficulties, culminating in QCR = 4 graphing](doppler-shift-srt-confronts-difficulties.md) — related

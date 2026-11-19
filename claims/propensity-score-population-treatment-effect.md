@@ -74,3 +74,4 @@ Analysis of propensity score logit distributions (Figure 3) shows the remaining 
 - [One year of Utah Compose exposure raised students' SAGE ELA scale scores by 9.14 points (ES = 0.12) versus no exposure](uc-one-year-ela-ate-9-points.md) — related
 - [Experimental-group post-test descriptive scores on conceptual understanding exceeded control-group scores](bbl-polyhedron-descriptive-means-higher.md) — related
 - [Propensity score matching on respondent characteristics shows significantly different mean outcomes between trained and untrained groups, mitigating selection bias](psm-mitigates-selection-bias.md) — related
+- [Restricting analysis to students without performance-avoidance behavior shows earlier studies underestimated the population's transfer ability](earlier-studies-underestimated-transfer-ability.md) — related

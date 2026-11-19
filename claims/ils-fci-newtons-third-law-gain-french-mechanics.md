@@ -71,3 +71,4 @@ T-test on entire-FCI normalized gain for interactive (N=60, <g>=0.119) versus no
 - [On Newton's Third Law questions specifically, Just-in-Time Teaching students gained 50.8%±4.1% while traditional lecture students gained only 6.6%±5.2%](jitt-newtons-third-law-question-gains.md) — related
 - [Students from the reformed mechanics class showed both higher accuracy and greater intuitive reconciliation of Newton's third law answers than traditionally taught peers](split-task-reformed-vs-traditional-reconciliation.md) — related
 - [CSEM learning gains in the Lecture/Studio-format second-semester IPLS course were strikingly larger than any gains measured in the course's traditional format](csem-gains-lecture-studio-larger.md) — related
+- [The two sections performed roughly the same on the first midterm, which covered topics many students study in high school](no-advantage-first-midterm-kinematics-newtons-laws.md) — reports the opposite

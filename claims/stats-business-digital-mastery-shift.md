@@ -68,3 +68,4 @@ The case study describes applying approximations of practice (Grossman et al., 2
 - [GenAI can provide personalised feedback in group work, but the depth of personalisation is contested](genai-personalised-feedback-contested-depth.md) — related
 - [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — a broader claim this one bears on
 - [Integrating cognitive scores with non-cognitive learner attributes enables the system to dynamically adapt AI-generated explanations in tone, depth and instructional strategy to individual learner performance](cognitive-noncognitive-integration-adapts-ai-explanations.md) — related
+- [Students rated remote labs better for working at their own pace but the same or worse for procedure design and tool-choice agency](remote-labs-own-pace-agency.md) — related

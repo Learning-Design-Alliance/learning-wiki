@@ -53,3 +53,5 @@ Secondary analysis of the questionnaire data: the sample was divided into studen
 - [Among students wanting a scientific career, more female than male students are attracted by the idea of traveling (about 37% vs 23%)](masterclass-travel-motivation-gender-gap.md) — related
 - [Most surveyed students say they are interested in science although most do not intend to become a scientist](interested-in-science-not-scientist-career.md) — related
 - [No strong differences between aspiring scientists and other students on perceived usefulness and future importance of the lesson](no-difference-scientist-aspirants-lesson-impact.md) — related
+- [Female alumni reported a more positive impact of SSUK on higher education, careers and skills than male alumni](ssuk-greater-impact-female-alumni.md) — related
+- [SSUK added value to higher education choices regardless of school background, with non-selectively schooled alumni reporting slightly higher benefit](ssuk-adds-value-regardless-school-background.md) — related

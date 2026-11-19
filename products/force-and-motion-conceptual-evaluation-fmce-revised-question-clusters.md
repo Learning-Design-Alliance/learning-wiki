@@ -21,6 +21,7 @@ A physics conceptual-understanding assessment developed by Trevor I. Smith and c
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Revised FMCE question clusters separating context and representation**: The article replaces the original Force (Newton I & II) cluster with finer-grained clusters: Force Sled, Reversing Direction, Force Graphs, Acceleration Graphs, plus retained Newton III, Velocity Graphs (renamed from Velocity), and Energy clusters. The authors state these clusters "increase the information that can be taken from an analysis of the FMCE by highlighting and isolating content areas, types of representations, and specific situations with which students may struggle". Cluster definitions are given in Table II by question number. (Trevor I. Smith et al. (2008))
+- **Force and Motion Conceptual Evaluation (FMCE)**: The FMCE is a widely used mechanics conceptual inventory measuring student understanding of force and motion; "The instrument consists of 43 items examining student understanding of Newton's laws of motion." Items are presented in blocked groups sharing common stems (all but item 39), each with at least six possible responses, some representing common misconceptions. The instrument is available at PhysPort and its blocked structure has been used to provide a compact description of the instrument in terms of item-block features. (James Wells et al. (2020))
 
 ### Claims
 
@@ -29,3 +30,4 @@ A physics conceptual-understanding assessment developed by Trevor I. Smith and c
 
 ## Key Sources
 - Trevor I. Smith and Michael C. Wittmann. (2008). Applying a resources framework to analysis of the Force and Motion Conceptual Evaluation. arXiv preprint. https://arxiv.org/abs/0711.1838
+- James Wells, Rachel Henderson, Adrienne Traxler, Paul Miller, and John Stewart. (2020). Exploring the Structure of Misconceptions in the Force and Motion Conceptual Evaluation with Modified Module Analysis. https://arxiv.org/abs/2001.00967

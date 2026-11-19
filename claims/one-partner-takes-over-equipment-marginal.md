@@ -47,3 +47,4 @@ Histogram of the fraction of time the female partner used the equipment (Fig. 1)
 ## Related Claims
 - [In mixed-gender pairs in an introductory physics lab, female students on average handle the equipment no more or less than an equal share of the time (40±6%, not statistically different from 50%)](female-equipment-use-not-different-from-equal.md) — reports the opposite
 - [In individual dialogue patterns, the dominant speaker learns more than the listening partner, potentially explaining null collaboration findings](individual-dialogue-dominant-speaker-learns-more.md) — related
+- [Female Ph.D. students bear main responsibility for childcare and household chores far more often than male students, and no woman reported a spouse as main caregiver](childcare-chores-burden-female-phd-students.md) — related

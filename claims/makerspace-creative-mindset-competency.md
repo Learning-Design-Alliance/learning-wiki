@@ -51,3 +51,4 @@ Thematic analysis finding: educators contrasted a creative mindset with a knowle
 - [Balanced SEL frameworks cover intrapersonal, interpersonal, and cognitive competencies and mix skills, knowledge, and attitudes](balance-criterion-intrapersonal-interpersonal-cognitive-competencies.md) — related
 - [Curious, optimistic, and confused are the most frequently reported affective states, and self-caught reports are more evenly distributed than probe-caught reports](affect-frequency-distributions-reporting-methods.md) — related
 - [Educators in makerspaces prioritize technical skills that go beyond tool knowledge to include solution design and development](makerspace-educators-prioritize-technical-skills.md) — related
+- [Serious games support playful learning situations for disciplinary areas and 21st century skills](serious-games-disciplinary-21st-century-skills.md) — related

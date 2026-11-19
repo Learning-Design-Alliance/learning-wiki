@@ -49,6 +49,7 @@ In the discussion, the authors recommend that future studies combine explicit st
 - [Awareness of Implicit Biases](awareness_of_implicit_biases.md)
 - [Triangulate implicit gaze-proportion measures of teacher priority with established explicit self-report measures in future research](triangulate-gaze-proportions-explicit-priority-measures.md)
 - [Checking Your Blind Spot](checking_your_blind_spot.md)
+- [Avoid labeling student questions or problems as easy, trivial or obvious, and address observed bias or microaggression rather than staying silent](avoid-trivial-labels-address-bias-physics.md)
 
 ## Examples
 -

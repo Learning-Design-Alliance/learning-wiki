@@ -13,7 +13,7 @@ generated:
 # Quantum Interactive Learning Tutorial (QuILT) on quantum measurement
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A guided-inquiry quantum-mechanics tutorial developed by Guangtian Zhu and colleagues, using structured exercises and Open Source Physics simulations to teach conceptual and formal aspects of quantum measurement.

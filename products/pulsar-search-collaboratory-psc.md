@@ -13,7 +13,7 @@ generated:
 # Pulsar Search Collaboratory (PSC)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 design), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 A GBO-WVU programme that gives middle- and high-school students and teachers authentic pulsar-search research experiences using student-accessible Green Bank Telescope data, online training, mentoring, and related activities.

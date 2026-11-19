@@ -56,6 +56,7 @@ The article distills participants' recommendations for making flipped-classroom 
 - [Design flipped pre-class materials with limited video length, varied learning formats, and post-video assessment](fc-preclass-material-design-strategy.md)
 - [Deliver pre-procedure patient education via an anytime-reviewable smartphone multimedia program](smartphone-multimedia-preprocedure-education-strategy.md)
 - [Align online video design and incentives with the concrete content students perceive as needed for assignment completion](align-online-videos-with-assignment-perceived-value.md)
+- [Use two-way communication feedback from online meetings to adjust lecture speed, teaching strategy, and course material, as instructors do in classrooms](tele-instruction-feedback-driven-course-adjustment.md)
 
 ## Examples
 -

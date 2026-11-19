@@ -16,12 +16,14 @@ sources:
     author: Paul A. Bartlett, K. Dunnett
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Precisely scripted demonstration laboratories offer little learning value and may foster less-expert beliefs, while inquiry elements promote expert-like beliefs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Paul A. Bartlett, K. Dunnett. (2019). Secret objectives: promoting inquiry and tackling preconceptions in teaching laboratories. [doi:10.48550/arXiv.1905.07267](https://doi.org/10.48550/arXiv.1905.07267)
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 Background literature cited in the introduction, attributed to prior work (Wilcox and Lewandowski; Holmes et al.): the article reports these conclusions from cited studies of laboratory styles and beliefs, without presenting new data of its own.
 

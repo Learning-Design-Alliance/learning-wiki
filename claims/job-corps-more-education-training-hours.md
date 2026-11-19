@@ -54,3 +54,4 @@ Comparison-condition description from the randomized controlled trial's study-ch
 - [The JOBSTART and control groups showed no statistically significant baseline differences on compared characteristics](jobstart-rct-baseline-balance.md) — related
 - [Career Academies have potentially positive effects on completing school: about 96% of academy students earned a diploma or GED within 8 years of expected graduation versus about 94% of comparison students (effect size 0.27, not statistically significant but substantively important).](career-academies-potentially-positive-completing-school.md) — related
 - Longitudinal program evaluation strategies were described in only three studies — related
+- [Full Korbit ITS increased time spent learning relative to an xMOOC-like reduced ITS in a randomized A/B test](korbit-full-its-time-on-task-vs-xmooc-its.md) — related

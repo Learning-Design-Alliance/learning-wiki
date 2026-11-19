@@ -51,3 +51,5 @@ Ethnographic observation finding across the twelve observed lab sections. The au
 - [In the Hermione-Slacker mode, a student (typically female) shoulders a disproportionate share of managerial lab work for unprepared partners, stunting identity growth](hermione-slacker-managerial-role-women.md) — related
 - [In mixed-gender introductory physics lab groups, the Tinkerer role tends to be taken by men and the Secretary (note-taking/data) role by women](secretary-tinkerer-gendered-task-division.md) — related
 - [Both Secretary and Hermione roles are associated with stunted physics and science identity development for the women occupying them](gendered-roles-stunt-identity-growth.md) — related
+- [Whether lab groups share or divide tasks does not seem to depend on single- versus mixed-gender composition](lab-task-sharing-independent-of-group-composition.md) — reports the opposite
+- [The authors interpret that lab tasks are not inherently gendered and that mixed-gender role divisions reflect students enacting gender](lab-tasks-not-inherently-gendered-interpretation.md) — a narrower finding that bears on this claim

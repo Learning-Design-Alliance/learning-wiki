@@ -99,3 +99,5 @@ The same analysis reports the gender pattern is instrument-dependent: on the BEM
 - [The FCI gender gap narrowed following instruction in these blended sections](fci-gender-gap-narrowed-blended-sections.md) — related
 - [Post-test misconception scores differ significantly between men and women on every FMCE community, but all effect sizes are small or negligible](fmce-misconception-score-gender-small-effects.md) — related
 - [Physics majors in blended interactive-engagement sections showed large, statistically significant FCI gains for both men and women](large-fci-gains-blended-physics-major-sections.md) — related
+- [Men scored higher than women on FCI pretest, FCI post-test, and solo-phase exam in introductory physics](fci-exam-gender-gaps-favor-men.md) — a narrower finding that bears on this claim
+- [Large gender differences on FCI and CSEM appear on both pretest and post-test in introductory physics courses, with FCI gaps of 10%–20%](gender-gap-fci-csem-pre-post.md) — a narrower finding that bears on this claim

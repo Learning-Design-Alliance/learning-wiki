@@ -49,3 +49,4 @@ The review reports, citing Ackerman (2014), that in problem-solving contexts "al
 - [Opting out of tasks can indicate effective effort regulation, not merely low motivation (Sidi & Ackerman, 2024 review)](opting-out-effective-effort-regulation.md) — related
 - [Allowing opt-out options improves output-bound accuracy in adults, primary-school children, and preschoolers](opting-out-improves-output-bound-accuracy.md) — related
 - [The opt-out and curiosity–accuracy findings replicate in a larger UK sample (Experiment 3A)](opt-out-curiosity-findings-replicate-uk-sample.md) — related
+- [Informal physics spaces, characterized by learner agency and voluntary engagement, allow physics identity to form outside traditional academic constraints](informal-spaces-agency-support-identity-exploration.md) — related

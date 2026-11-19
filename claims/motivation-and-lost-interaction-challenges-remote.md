@@ -114,3 +114,6 @@ Thematic analysis of open-ended greatest-challenge responses found motivation, m
 - [The interactive mirror experiment (42%) and the holograms (38%) were what most motivated students, ahead of other experiments (20%) and stereoscopic images (18%)](holographic-exhibit-most-motivating-elements.md) — related
 - [Mentors and mentees in remote STEM mentoring perceived different sets of challenges: mentees time management and logistics, mentors STEM content delivery and social challenges](remote-mentoring-divergent-challenges-by-role.md) — related
 - [Students perceived peer instruction and group discussion as motivating and helpful in the flipped statistics class](flipped-peer-instruction-group-discussion-perceived-positive.md) — related
+- [Making the remote class as similar to the in-person version as possible was the most common challenge instructors reported](instructor-challenges-remote-similarity.md) — related
+- [Student engagement and satisfaction were maintained in the remote kit-based labs: no tuning out was observed and a majority felt the remote labs were equal to in-person labs](remote-kit-labs-engagement-and-satisfaction-maintained.md) — related
+- [Students' most common remote-lab challenges were not doing experiments with physical materials and not having a partner/group](student-challenges-remote-lab-materials-partners.md) — related

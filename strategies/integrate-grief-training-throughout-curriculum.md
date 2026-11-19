@@ -68,6 +68,7 @@ The review recommends moving grief training out of isolated voluntary workshops 
 - [Integrate interprofessional simulation-based CRM workshops into longitudinal curricula early, frequently, and across rotations](longitudinal-curricular-integration-crm-simulation-strategy.md)
 - [Implement consultation communication training longitudinally across the undergraduate medical education span](longitudinal-consultation-curriculum-strategy.md)
 - [Permanently integrate simulation laboratory sessions into the curriculum of all students of health disciplines](integrate-simulation-laboratory-training-curriculum.md)
+- [Integrate support practices such as tutoring, learning communities, supplemental instruction, experiential learning, and early intervention into the introductory astronomy curriculum](integrate-support-practices-into-astro101-curriculum.md)
 
 ## Examples
 -

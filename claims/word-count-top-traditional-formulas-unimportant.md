@@ -93,3 +93,4 @@ Variable importance comparison within the same random forest: Custom Magnitude 2
 - [Readability formulas measure stylistic qualities and miss content readability, so they cannot substitute for editorial judgment](readability-formulas-miss-content-readability.md) — related
 - [ChatGPT-5.1 generates EUS answers with significantly lower linguistic complexity (GFI, SMOG) than DeepSeek-R1 and Gemini 2.5 Flash](chatgpt-lower-gfi-smog-readability.md) — related
 - [All EUS-generated LLM texts show low Flesch Reading Ease scores, indicating substantial reading difficulty](low-fre-llm-pharmacy-texts.md) — related
+- [Lecture length features are the most influential predictors of engagement, and the top five features span all quality verticals](shap-length-features-most-influential.md) — related

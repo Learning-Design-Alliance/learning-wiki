@@ -67,3 +67,4 @@ Descriptive item-endorsement pattern reported in the Discussion for the same 49-
 - [DialogPR total scores were negatively correlated with household income (p < 0.05) but not with child gender or maternal education, which the authors speculate may reflect SES-related reporting bias](dialogpr-negative-income-correlation-reporting-bias.md) — related
 - [Items ranked from easiest to most difficult are identical under CTT and MFRM](identical-item-difficulty-ranking-ctt-mfrm.md) — related
 - [CTT and MFRM yield a positive, perfect correlation between item difficulty indices for open-ended items under a crossed design](ctt-mfrm-difficulty-indices-perfect-correlation-open-ended.md) — related
+- [AKT's learned Rasch difficulty parameters order questions within a concept and match intuitive difficulty levels](akt-learned-difficulty-parameters-match-intuition.md) — related

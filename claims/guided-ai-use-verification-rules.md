@@ -57,3 +57,4 @@ Design description of the 2025 AI-enhanced cohort's guidance. Students used Deep
 - [The AI-enhanced flipped classroom improves comprehensive assessment and pre-class preparation/PPT quality over the flipped classroom, but not in-class presentation performance or professional knowledge mastery](ai-flipped-boundary-deep-mastery.md) — related
 - [Classroom verification norm is predicted to show threshold behavior and hysteresis rather than a smooth response to teacher-set requirements](verification-norm-threshold-hysteresis-prediction.md) — related
 - [Students used ChatGPT mainly for summarizing information, literature research, and clarifying concepts](chatgpt-used-for-summarizing-research-clarifying.md) — related
+- [Stakeholders verify CV data mainly by requiring original certificates, and validation takes on average 12 days](cv-validation-methods-and-12-day-delay.md) — related

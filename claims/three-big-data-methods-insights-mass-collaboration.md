@@ -58,3 +58,4 @@ The editorial reports that Holtz et al. describe three prototypical big data met
 - [Reviewed CSCL systems are further characterized by interaction data type, derivation processes, and feedback type](cscl-systems-characterized-data-processes-feedback.md) — related
 - [Portal users can be classified into four types (new, light, medium, heavy) based on observed usage parameters](four-portal-user-types-new-light-medium-heavy.md) — related
 - [Galaxy Zoo demonstrates that large numbers of non-specialist volunteers can perform scientifically valuable galaxy-classification work at scale](galaxy-zoo-citizen-science-scale.md) — related
+- [Position-level tie ratios classify most week-10 positions as Primary or Isolate types, with no Advice-Seeker positions in any network](primary-isolate-position-types-no-advice-seekers.md) — related

@@ -50,6 +50,7 @@ Based on participants' free-text evaluation, the authors recommend that future i
 - [Evaluate digital decision-support in novice providers and optimize interface design to minimize cognitive overhead](future-research-novice-providers-interface-optimization.md)
 - [Design and implement VS teaching with simplified interfaces, multimodal feedback, multilingual diverse case libraries, pre-training, and controlled VR session lengths](vs-design-recommendations-strategy.md)
 - [Recommendations for implementing digital health interventions in clinical services](dhi-implementation-recommendations-impart.md)
+- [Design a blockchain-based trusted achievement record with a friendly user interface to hide blockchain complexity](friendly-ui-blockchain-achievement-record-strategy.md)
 
 ## Examples
 -

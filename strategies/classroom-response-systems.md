@@ -76,6 +76,8 @@ CRS operationalize [Active Learning](../principles/active-learning.md) at scale:
 - [Use clicker questions with student-student discussion during lecture to build qualitative understanding of basic concepts](clicker-peer-discussion-qualitative-lecture-strategy.md)
 - [Embed low-stakes formative assessment activities throughout the course, such as think-pair-share, clicker questions, tutorials with pre- and post-tests, collaborative problem solving, minute papers, and concept maps](embedded-low-stakes-formative-assessment-activities.md)
 - [Use 50/50 and Fill-in-the-Blank interactive lecturing questions with whole-class choral responses for real-time formative feedback](50-50-fill-in-blank-interactive-lecturing.md)
+- [Implement multiple-choice question sequences as clicker questions with individual commitment, peer discussion, and instructor-led whole-class discussion at checkpoints](clicker-mqs-peer-discussion-implementation.md)
+- [Add a peer instruction (think–pair–share) component after the initial clicker poll to build student connection](peer-instruction-after-clicker-poll.md)
 
 ## Examples
 - **Peer Instruction at Harvard** — Eric Mazur's physics course: ConcepTests polled via clickers, with peer discussion between votes; the model has been adopted across thousands of STEM courses ([Peer Instruction](https://peerinstruction4cs.org) resources).

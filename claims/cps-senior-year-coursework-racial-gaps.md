@@ -66,3 +66,4 @@ Descriptive transcript analysis of 2003-09 CPS graduates (N=90,041) excluding sp
 - [Hispanic students graduated at far lower rates than white and Asian ELL students despite similar course performance patterns](hispanic-lower-graduation-than-white-asian.md) — related
 - [AP and IB programs in neighborhood high schools serve students with higher-than-average but below selective-enrollment achievement](ap-ib-fill-gap-for-mid-high-achievers.md) — related
 - [Enrollment strategy distributions differ by gender and race/ethnicity](enrollment-strategy-differs-by-gender-and-ethnicity.md) — related
+- [Enrollment patterns differ by race/ethnicity mainly in that Asian students more often choose biological sciences, economics, and other STEM, while URM and White students choose similar major distributions](enrollment-patterns-by-race-ethnicity.md) — related

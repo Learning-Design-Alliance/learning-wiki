@@ -50,3 +50,8 @@ Descriptive averages of code fractions in inquiry labs, broken down by gender (T
 - [In traditional guided-verification physics labs, no gender difference appears in the distribution of behaviour profiles](no-gender-difference-traditional-labs.md) — related
 - [In mixed-gender pairs in an introductory physics lab, female students on average handle the equipment no more or less than an equal share of the time (40±6%, not statistically different from 50%)](female-equipment-use-not-different-from-equal.md) — reports the opposite
 - [In mixed-gender introductory physics lab groups, the Tinkerer role tends to be taken by men and the Secretary (note-taking/data) role by women](secretary-tinkerer-gendered-task-division.md) — related
+- [Inquiry labs showed substantially greater task division within groups than traditional labs, with comparable division across group gender compositions](inquiry-labs-greater-task-division.md) — related
+- [The authors interpret that lab tasks are not inherently gendered and that mixed-gender role divisions reflect students enacting gender](lab-tasks-not-inherently-gendered-interpretation.md) — related
+- [In mixed-gender lab groups, men spent more time on the equipment while women spent more time on paper](mixed-gender-lab-groups-men-equipment-women-paper.md) — related
+- [Removing pedagogical structure in labs opened a wider range of available roles, with only 14% of inquiry-lab groups having all members in the same cluster versus 43% in traditional labs](reduced-structure-wider-roles.md) — related
+- [In mixed-gender inquiry-lab groups, women spent about twice as much time as men analyzing data on laptops (14±7% vs 6±3% of the lab period)](women-twice-laptop-analysis-time.md) — related

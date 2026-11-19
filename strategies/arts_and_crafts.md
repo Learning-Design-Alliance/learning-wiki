@@ -66,6 +66,7 @@ Hands-on making converts abstract content into a tangible product, which support
 - [Journals and Learning Logs](journals_and_learning_logs.md) — reflective writing can pair with artifact-making to consolidate learning
 - [Acting-Role-Play](acting-role-play.md) — a parallel embodied/expressive mode for engaging content
 - [Use plasticized-clay creative art activities as a medium for developing preschoolers' basic mathematics skills](plasticized-clay-art-activities-math-strategy.md)
+- [Split project work into hands-on and digital subgroups so participants follow their own interests](hands-on-digital-subgroup-split.md)
 
 ## Examples
 - **Reggio Emilia approach** — preschool programs where artifact-making ("the hundred languages of children") is a primary mode of concept exploration and documentation (https://www.reggiochildren.it)

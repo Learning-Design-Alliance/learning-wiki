@@ -67,3 +67,4 @@ Baseline evaluation of LR and XGBoost on OULAD using 10-fold nested cross-valida
 - [Simulation tests resemble EUNACOM well, correlating with overall exam scores and detecting students at risk of failing](eunacom-simulation-tests-valid.md) — related
 - [STEM attrition is predictable from first-year registrar transcript data, with four ML models reaching AUROCs between 0.87 and 0.89 and logistic regression performing slightly better](first-year-transcript-data-predicts-stem-attrition.md) — related
 - [The STEM-affinity graphical model's final-quarter intention classification matches actual STEM graduation with accuracy 0.896, recall 0.999, and precision 0.670](stem-affinity-model-final-quarter-validation.md) — related
+- [Gradient boosted trees (xgboost) outperform maximum-likelihood logistic regression at predicting graduating semester by out-of-sample F1-score, except in semesters 15-16](xgboost-outperforms-mle-time-to-graduation.md) — related

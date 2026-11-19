@@ -49,6 +49,7 @@ The article recommends that plugged pedagogical devices be designed for accessib
 - [Design MALL tasks to be user friendly, socially and culturally sensitive, engaging, and short](mall-task-design-guidelines.md)
 - [Use computer-based simulations to teach chemistry topics that are difficult to demonstrate, as a gender-friendly bridge of the achievement gap](cbs-gender-friendly-chemistry-strategy.md)
 - [Select theme-set resources that appeal cross-culturally and present content on students' terms](cross-cultural-theme-set-resource-selection.md)
+- [Design a blockchain-based trusted achievement record with a friendly user interface to hide blockchain complexity](friendly-ui-blockchain-achievement-record-strategy.md)
 
 ## Examples
 -

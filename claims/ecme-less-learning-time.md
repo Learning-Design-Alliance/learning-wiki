@@ -51,3 +51,4 @@ Reported study-time comparison between the lecture-based control group and the s
 - [Math gains from the CAL program occur in classrooms with at least an average of 35 minutes of practice per week](cal-gains-require-35-minutes-weekly-practice.md) — related
 - [Physicians learning CPR via IBL required substantially less time than the six-hour traditional lecture](ibl-time-savings-cpr-cme.md) — possibly the same claim (merge candidate)
 - [Interactive video learning saves face-to-face laboratory time compared with traditional demonstration](interactive-video-saves-laboratory-time.md) — related
+- [Open-inquiry groups took slightly longer on average to complete the experiment than guided-inquiry groups, with both finishing within the three-hour period](open-inquiry-longer-completion-time.md) — related

@@ -78,6 +78,7 @@ The article recommends weaving EI training into existing courses with objectives
 - [Follow experiential learning opportunities with open discussions focusing on emotional intelligence](open-discussions-emotional-intelligence.md)
 - [Use simulated patients actively in debriefing and assessment, and role play for empathetic perspective-taking](simulated-patient-debriefing-role-play-empathy-strategy.md)
 - [Use role play in science teaching to develop empathy and problem-solving while conveying global citizenship](role-play-astronomy-global-citizenship-strategy.md)
+- [Integrate support practices such as tutoring, learning communities, supplemental instruction, experiential learning, and early intervention into the introductory astronomy curriculum](integrate-support-practices-into-astro101-curriculum.md)
 
 ## Examples
 -

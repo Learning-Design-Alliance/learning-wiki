@@ -50,3 +50,4 @@ Tentative psychological analysis, offered in advance of experimentation. Freeman
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
 - [Synced auditory and visual information in narrated presentations produces better learning than single-channel or out-of-sync presentation](synced-audio-visual-presentation-better-learning.md) — related
 - [In Mead's lectures, meanings grow out of social intercourse and the child constructs meanings only in social process](meanings-grow-out-of-social-intercourse.md) — related
+- [Visual puzzle-based representation can convey the Hong-Ou-Mandel effect without mathematical formalism](hom-effect-visual-explanation.md) — reports the opposite

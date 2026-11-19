@@ -46,3 +46,4 @@ Pendulum Doppler measurement (ℓ = 2.32 ± 0.01 m, R = 48 kHz, N = 2^14) in whi
 
 ## Related Claims
 - [Students measuring a freely falling Doppler source obtain the gravitational acceleration g within 10% accuracy from a linear fit of Doppler-shifted frequencies](free-fall-doppler-g-within-10-percent.md) — related
+- [The redesigned ballistic-trajectory measuring g experiment let the instructor reliably get within 5% of the actual value of g and gave students three methods of measuring g to compare](ballistic-g-experiment-within-5-percent-three-methods.md) — related

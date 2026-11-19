@@ -16,12 +16,14 @@ sources:
     author: Luis Ortegano, Esmitt Ramírez
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Children sustained wide attention on the educational games, engaging with the tasks indirectly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Luis Ortegano, Esmitt Ramírez. (2019). Serious Educational Reinforcement Game in Preschool. Originally published 2018. [doi:10.48550/arXiv.1909.10337](https://doi.org/10.48550/arXiv.1909.10337)
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Authors' overall interpretation of the child testing phase with 11 preschool children using the two pilot games. The article states "la atención de los niños es amplia", meaning the games kept children engaged while they performed exercises benefiting their skills without direct instruction; no learning-gain measure was taken.
 

@@ -16,12 +16,14 @@ sources:
     author: Brokk Toggerson, Samyukta Krishnamurthy, Emily E. Hansen, and Chasya Church
     q: 3
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # A pre/post self-efficacy shift is a stronger predictor of earning at least a B on individual assessments than pronoun identification
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r2` · `q3`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Brokk Toggerson, Samyukta Krishnamurthy, Emily E. Hansen, and Chasya Church. (2020). Positive Impacts on Student Self-Efficacy from an Introductory Physics for Life Science Course Using the Team-Based Learning Pedagogy. [doi:10.48550/arXiv.2001.07277](https://doi.org/10.48550/arXiv.2001.07277)
 
-`q3 · i?`
+`q3 · i?` · `design · r2`
 
 Logistic regression on data from 131 students in the TBL IPLS course, modeling odds of earning at least a B (78%) on the individual assessment average. The most predictive model by log-likelihood p-value (LLR p-value = 2.7 × 10−6) uses the shift in self-efficacy, for which "the bk for the shift in self-eﬃcacy is +1 .9 ± 0.5."
 

@@ -67,3 +67,5 @@ Analysis of graduate student response patterns in Table V shows the same misconc
 - [Students who used the tutorials significantly outperformed Honors students and upper-level undergraduates, but not first-year graduate students, on a cumulative test](tutorial-group-outperforms-honors-upperlevel-not-grads.md) — related
 - [First-year physics graduate students improved less than undergraduates (pre 44% to post 73%, normalized gain 0.52), possibly due to lack of grade incentives](quilt-dse-graduate-lower-gain-0-52.md) — related
 - [Upper-level E&M students do not perform significantly better than introductory students on the symmetry and Gauss's law concept test](upper-level-em-no-significant-gain.md) — related
+- [Graduate students scored significantly higher than undergraduates on the QMFPS, but both groups struggled](graduate-students-outperform-undergraduates-qmfps.md) — related
+- [Upper-level undergraduates outperformed physics graduate students on the posttest, possibly due to grade incentive differences between courses](undergraduates-outperformed-graduates-posttest-grade-incentive.md) — reports the opposite

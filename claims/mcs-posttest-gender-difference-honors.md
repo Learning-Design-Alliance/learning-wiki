@@ -51,3 +51,4 @@ ANOVA of MCS post-test scores for 95 honors calculus-based students (75 males, 2
 - [No significant gender difference on the MCS pre-test in either algebra-based or regular calculus-based introductory physics courses](mcs-no-pretest-gender-difference.md) — related
 - [The RCI shows a gender bias absent from the same course's homework, exam, and ATAR measures](rci-gender-bias-not-in-other-assessment.md) — related
 - [Students in calculus-based introductory physics improved from 28% pre-test to 50% post-test on a 30-item magnetism diagnostic but still struggled after instruction](magnetism-diagnostic-pre-post-gains.md) — related
+- [Large gender differences on FCI and CSEM appear on both pretest and post-test in introductory physics courses, with FCI gaps of 10%–20%](gender-gap-fci-csem-pre-post.md) — a broader claim this one bears on

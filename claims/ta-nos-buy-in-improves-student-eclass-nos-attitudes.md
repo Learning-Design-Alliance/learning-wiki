@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-11-18
 sources:
   - id: danny-doucette-2020
     resource: "https://doi.org/10.1119/perc.2019.pr.doucette"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-18 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The comparison included 74 students whose TAs delivered the NoS treatment and 207 students whose TAs did not. [→ Danny Doucette 2020](#danny-doucette-2020)

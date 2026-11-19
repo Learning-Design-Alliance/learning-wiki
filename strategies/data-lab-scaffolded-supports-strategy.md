@@ -43,7 +43,8 @@ DATA Lab scaffolds its open-ended experiments with a stack of supports: three DL
 - [Students in the wave-physics learning path were adept with devices and simple measurements but showed difficulty handling open-ended experimental situations and home tasks](../claims/open-situations-difficulty-wave-lab-students.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Adopt a scaffolded series of At Home Physics labs and incorporate virtual experiments into the class portion of the course](strategy-scaffolded-ahp-labs-plus-virtual-experiments.md)
 
 ## Examples
 -

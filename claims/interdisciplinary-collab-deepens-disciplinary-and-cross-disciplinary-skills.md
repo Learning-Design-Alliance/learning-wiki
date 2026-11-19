@@ -57,3 +57,5 @@ Interview and survey findings across studio courses: students reported that "stu
 - [Students in the group-work class reported that group work deepened their understanding of integration and developed their critical and analytical thinking skills](group-work-positive-student-perceptions-mathematics.md) — related
 - [Before the experiment, most students lacked sufficient knowledge for cross-disciplinary integration and were unfamiliar with the target equipment](baseline-low-technological-preparation.md) — related
 - [Involving apprentices in handmaking the simulators deepened knowledge and taught extracurricular skills, an innovation the authors report finding in no similar literature](apprentice-involvement-in-simulator-making.md) — related
+- [Gamified and puzzle-based approaches to teaching quantum mechanics show motivation and learning benefits in prior studies](gamified-quantum-teaching-benefits.md) — related
+- [Serious games support playful learning situations for disciplinary areas and 21st century skills](serious-games-disciplinary-21st-century-skills.md) — related

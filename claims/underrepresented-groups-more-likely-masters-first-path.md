@@ -51,3 +51,4 @@ The white paper reports, citing Lange (2006) and Clune et al. (2001), that under
 - [Students who complete a master's degree at a different institution before a Ph.D. take about 2 years longer in graduate school than students entering a Ph.D. program directly](terminal-masters-different-school-two-years-longer-to-phd.md) — related
 - [Underrepresented minority status predicted lower grades and lower probability of Ph.D. completion but higher likelihood of obtaining grants or fellowships](urm-status-mixed-graduate-outcomes.md) — related
 - [Students in master's programs are more likely to attend part-time than students in Ph.D. programs, and master's institutions serve more part-time undergraduates](masters-programs-more-part-time-students.md) — related
+- [Women Ph.D. students report difficulty meeting professional expectations more often than men, with health-related problems cited far more often](women-phd-health-related-difficulty-gap.md) — related

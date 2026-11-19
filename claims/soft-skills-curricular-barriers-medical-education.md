@@ -90,3 +90,4 @@ The review's second barrier category states institutions "may lack the necessary
 - [It is difficult to change what science teachers do in their classrooms; multiple barriers impede adoption of HPS in science teaching](barriers-to-teacher-adoption-of-hps.md) — related
 - [Voluntary outreach provision faces three obstacles: time and personnel pressure, lack of time for innovation, and vulnerability when effort is not mission-centric](voluntary-outreach-three-obstacles.md) — related
 - [Time and content knowledge were the primary barriers to engaging in cognitive tasks during UREs](time-and-content-knowledge-barriers-ure.md) — related
+- [The author identifies five barriers to teaching climate change: knowledge pollution, inter/transdisciplinarity, psychological barriers, onto-epistemological barriers, and faculty/institutional barriers](five-barriers-climate-pedagogy.md) — related

@@ -124,6 +124,7 @@ KWL charts function as a lightweight [Advance Organizers](../elements/advance-or
 - Exit tickets — a compressed, post-only alternative to the L phase
 - [Integrate metacognitive strategy instruction across content areas and across before, during, and after phases of teaching](integrate-metacognition-before-during-after-lesson.md)
 - [Use the K-W-L strategy (What I know, What I want to learn, What I learned) to activate prior knowledge before reading](kwl-prior-knowledge-activation-strategy.md)
+- [Progressively answer three questions while reading: what problem, how addressed, what was found](three-question-paper-reading-scaffold.md)
 
 ## Examples
 - Before a unit on rainforests, students fill the K column with facts ("it rains a lot," "there are monkeys") and W questions ("why are there so many species?"), then complete L after the unit — the classic Ogle (1986) classroom implementation.

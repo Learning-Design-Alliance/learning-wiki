@@ -16,12 +16,14 @@ sources:
     author: Alma Robinson, John H. Simonetti, Kasey Richardson, and Megan Wawro
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Men showed a significant negative CLASS shift in the sense making or effort category
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Alma Robinson, John H. Simonetti, Kasey Richardson, and Megan Wawro. (2021). Positive attitudinal shifts and a narrowing gender gap: Do expertlike attitudes correlate to higher learning gains for women in the physics classroom? Physical Review Physics Education Research 17, 010101. https://doi.org/10.1103/PhysRevPhysEducRes.17.010101
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 From the CLASS category analysis of 130 men; Table IV reports the men's sense making or effort shift as −4.3 ± 1.7. No effect size is printed for this category shift, and the authors state they are not sure why it is an outlier.
 

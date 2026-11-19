@@ -55,3 +55,4 @@ Interview finding across the 19 students: most were unfamiliar with the word det
 - [Central quantum concepts are teachable with high-school mathematics on a single qubit](qubit-concepts-high-school-mathematics.md) — related
 - [A student builds a hybrid classical-quantum argument, using a classical definite-position assumption as input to the uncertainty principle to argue zero energy is impossible](hybrid-classical-quantum-zero-energy-argument.md) — related
 - [Students believe successive measurements of continuous variables produce somewhat deterministic outcomes while successive measurements of discrete variables can produce very different outcomes](continuous-discrete-measurement-determinism-belief.md) — related
+- [Across both classical and quantum contexts, no interviewed advanced student expected an expert's measurement to yield a delta-function distribution with zero uncertainty](no-delta-function-expectation-any-context.md) — related

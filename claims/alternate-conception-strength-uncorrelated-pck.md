@@ -47,3 +47,5 @@ Examination of normalized PCK scores in Table A2 for the 24 FCI questions contai
 ## Related Claims
 - [Student alternate conceptions related to Newton's third law — and instructors' and TAs' ability to identify them — are context dependent on the FCI](newtons-third-law-pck-context-dependent.md) — related
 - [Physics instructors and graduate TAs perform better than random guessing at identifying introductory students' most common incorrect FCI answers, but both average only about two-thirds of the maximum possible PCK score](instructors-tas-above-chance-fci-pck.md) — related
+- [Introductory students hold alternate conceptions related to Newton's third law and force identification more strongly in some contexts than others](student-alternate-conceptions-context-dependent-fci.md) — related
+- [Recent teaching experience in introductory mechanics does not correlate with instructors' ability to identify students' alternate conceptions on the FCI](teaching-experience-not-correlated-fci-pck.md) — related

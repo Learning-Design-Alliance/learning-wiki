@@ -79,3 +79,4 @@ Study 2 reliability and validity analysis. "AVE values ranged from .60 to .66, s
 - [Internal consistency of the OCTQ five-factor solution exceeded 0.70, though Factors 4 and 5 were moderate](octq-internal-consistency-above-070.md) — related
 - [The German-language DTI shows good total-score reliability but meagre subscale reliability in this sample](german-dti-reliability-total-good-subscale-meagre.md) — related
 - [The virtual case-based assessment scale has high internal consistency (Cronbach's alpha 0.848)](virtual-case-tool-alpha-0848.md) — related
+- [Iterative revision produced a 20-item PIQL whose final version meets reliability and item-quality thresholds (Cronbach's α = 0.80 on v2.2)](piql-final-version-reliable-alpha-080.md) — related

@@ -53,3 +53,4 @@ Question 21 (single choice) asked which module was most helpful. Text story rank
 - [Media-rich videos combining text, pictures and voiceovers are rated more engaging than text-only videos](media-rich-videos-more-engaging-than-text-only.md) — reports the opposite
 - [Videos were the most preferred Osmosis feature among treatment-group students](osmosis-videos-most-preferred-feature.md) — related
 - [After the intervention, students rated visual stimuli higher than audio stimuli for DRM factual learning and knowledge retention (PS +1.05 to +1.27 versus +0.77 to +0.83), in one pre-post study with no comparison group](visual-over-audio-stimuli-video-learning.md) — related
+- [The video concepts that impressed audiences most were self-assembly into designed structures, academic values, and rich career opportunities (Concepts 1, 2, and 5)](top-impressed-concepts-self-assembly-academic-career.md) — related

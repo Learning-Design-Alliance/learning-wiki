@@ -51,3 +51,4 @@ Descriptive report from students' routine end-of-semester lecture-course evaluat
 - [The examination advantage of the multiple-choice group varied across semesters, with no significant difference in the 2014 summer term](mcq-effect-varied-by-semester-null-2014-summer.md) — related
 - [Engineering students struggle with end-of-semester exam load, attributed by lecturers to a lack of semester-accompanying learning and of systematic preparation of and follow-up on courses](student-preparation-deficits-prerequisite-for-icm.md) — related
 - [Student feedback on the story-writing activity was overwhelmingly negative in both semesters despite high effort](story-writing-negative-feedback.md) — related
+- [All student comments on the course's design elements were positive in final-exam reflections and course evaluations](positive-student-reflections-course-design-elements.md) — related

@@ -57,9 +57,11 @@ Teaching is a highly generative activity: explaining requires retrieving knowled
 5. Verify learning with an individual assessment so accountability does not rest on the tutoring interaction alone.
 
 ## Related Strategies
+
 - [Peer Tutoring](peer-tutoring.md) — the reciprocal, program-level version of the same mechanism
 - [Self-Explanation](../elements/self-explanation.md) — teaching is self-explanation directed at an audience
 - [Jigsaw Classroom](jigsaw-classroom.md) — cooperative structure built entirely on learning-by-teaching roles
+- [Structured preparation and coaching of teaching assistants before delivering inquiry laboratories](teaching-assistant-preparation-for-inquiry-labs.md)
 
 ## Examples
 - **Peer-Assisted Learning Strategies (PALS)** — widely researched reciprocal tutoring program for reading and math in K–12 classrooms ([https://ies.ed.gov/ncee/edlabs/regions/southeast/plc/PALS.asp](https://ies.ed.gov/ncee/edlabs/regions/southeast/plc/PALS.asp)).

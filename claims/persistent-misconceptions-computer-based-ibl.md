@@ -58,3 +58,4 @@ Qualitative content analysis of one-on-one interviews with 30 students (five per
 - [Students continue to have difficulty differentiating heat energy and temperature even after studying thermochemistry](heat-temperature-differentiation-persists-after-instruction.md) — a narrower finding that bears on this claim
 - [The Thermal and Transport Concept Inventory reveals robust engineering-student misconceptions about energy versus temperature and equilibrium versus steady state](ttci-robust-misconceptions-energy-temperature-equilibrium.md) — related
 - [Students perceive the simulator as contributing to learning of energy concepts](energy-skate-park-perceived-learning-contribution.md) — related
+- [Students using simulations achieve conceptual understanding similar to students in hands-on labs when both can manipulate variables](simulation-similar-conceptual-understanding-zacharia.md) — related

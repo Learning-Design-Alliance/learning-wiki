@@ -46,6 +46,7 @@ The article's forward-looking design recommendations channel generative-AI use t
 - [Discourage mental offloading to AI by balancing guidance depth and frequency with application opportunities](discourage-mental-offloading-balance-guidance-application.md)
 - [Design GenAI tools with modular offloading control and meta-cognition support for learning contexts](modular-offloading-control-and-meta-cognition-support-genai.md)
 - [Use AI as a tool for critique and refinement rather than a substitute for student work](ai-as-critique-and-refinement-tool.md)
+- [Balance structure and open-endedness by scaffolding agency with modeling, coaching, and fading support](scaffold-agency-modeling-coaching-fading.md)
 
 ## Examples
 -

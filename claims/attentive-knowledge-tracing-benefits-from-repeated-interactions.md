@@ -50,3 +50,5 @@ Narrative review attributing this to Pu and Becker: attentive knowledge tracing 
 - Replacing concept/skill tags with question identifiers significantly degrades DKT and DKVMN performance, while DynEmb tracks knowledge using pretrained question embeddings instead of tags — related
 - [The survey reports, citing Jung et al., that students' language proficiency as side information was effective in promoting several KT models, including DKT, DKVMN and SAKT.](language-proficiency-side-information-improves-kt-models.md) — related
 - [The survey reports, citing Mongkhonvanit et al., that DKT achieved better performance when binarized MOOC video-engagement covariates were incorporated.](engagement-covariates-improve-deep-knowledge-tracing.md) — related
+- [AKT's learned attention weights are interpretable, operating at multiple time scales and focusing on past practices of the same concept](akt-attention-weights-interpretable-same-concept-focus.md) — related
+- [AKT's monotonic attention mechanism outperforms positional-encoding attention variants by about 1% to 6% AUC](akt-monotonic-attention-beats-positional-encoding.md) — related

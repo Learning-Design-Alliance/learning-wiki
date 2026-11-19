@@ -51,3 +51,4 @@ Findings from teaching-staff interviews and the abstract's summary of implementa
 - [A multidisciplinary e-learning team allowed 22 lecturers to teach 933 students, roughly half the staff a face-to-face approach would require](e-learning-team-halves-lecturer-workload-large-class.md) — related
 - [Lack of time and heavy workload are organizational barriers to team-based professional development in higher education](time-workload-barriers-team-pd.md) — a broader claim this one bears on
 - [Tutor implementation variability was the most common barrier to the blended learning approach, and didactic teaching was perceived as promoting only superficial learning](tutor-implementation-barrier-bl-ebm.md) — related
+- [Participants rate course achievability as acceptable (between 4 and 5) and tutor support very positively, though for many the workload is perceived as very heavy](athena-workload-tutor-support-perceptions.md) — related

@@ -74,3 +74,4 @@ Systematic review of meta-analyses, family findings comparing parental education
 - [The general home math environment factor positively predicts parent report of child math skills](general-hme-positive-predictor-parent-report.md) — related
 - [Father's education raises student math ability but contributes less than class type](father-education-effect-inferior-to-class-type.md) — a narrower finding that bears on this claim
 - [Mother's and father's education levels each significantly predict eighth-grade mathematics achievement in Taiwan](parent-education-predicts-math-achievement-taiwan.md) — related
+- [Parenthood affects the studying of most student-mothers and student-fathers, with women reporting more schedule flexibility and efficiency gains](parenthood-affects-phd-studying-gendered.md) — related

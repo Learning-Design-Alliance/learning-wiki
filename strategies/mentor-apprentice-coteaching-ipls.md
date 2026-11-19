@@ -43,6 +43,7 @@ Each first-time instructor (the apprentice) is paired with an experienced co-ins
 
 - [Apprenticeship-style co-teaching sequence for sustaining reforms: secondary role first, then lead, then refinement](secondary-then-lead-coteaching-handoff.md)
 - [Implement a systematic faculty development program combining interdisciplinary team formation, structured training, peer observation, and weekly collaborative lesson preparation.](pbl-bridge-faculty-development-program.md)
+- [Weekly TA/LA training meetings using situated apprenticeship: modelling authentic student difficulties and practicing Socratic-style questioning](situated-apprenticeship-weekly-ta-la-training.md)
 
 ## Examples
 -

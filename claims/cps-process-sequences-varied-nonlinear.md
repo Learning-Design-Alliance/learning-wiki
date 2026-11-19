@@ -48,3 +48,4 @@ Descriptive analysis of the 13 coded think-aloud protocols from Study 1. The dat
 - [Every think-aloud student showed creative problem solving behaviors belonging to each of the four CPS model elements](all-four-cps-elements-observed-in-think-aloud.md) — a broader claim this one bears on
 - [Object formation in the meeting was iterative and non-linear: the proposed germ cell of 'making a choice' was encapsulated, not elaborated and expanded](object-formation-iterative-germ-cell-encapsulated.md) — related
 - [No think-aloud student showed 'appraising tasks' utterances, though all showed 'designing process' utterances within planning your approach](appraising-tasks-absent-designing-process-present.md) — related
+- [Expert problem-solving follows no consistent order of decisions: sequences vary, with flexible connections and repeated iterations between decisions](no-consistent-order-expert-decisions.md) — related

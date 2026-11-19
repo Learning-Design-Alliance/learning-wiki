@@ -51,3 +51,4 @@ End-of-workshop student feedback collected during the pilot implementation phase
 - [Informal student feedback was positive, with pupils reporting increased interest in astronomy and feeling like real astronomers](positive-informal-student-feedback-pilot.md) — related
 - [In a small school focus group, 100% agreed the Planeterrella presentation was interesting and science affects everyday life, and 75% wanted to learn more about science careers](planeterrella-focus-group-interest-careers.md) — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
+- [Art-inclined participants reported growing interest and ability in solving mathematical problems after the course](art-inclined-students-gained-math-confidence.md) — related

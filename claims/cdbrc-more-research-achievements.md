@@ -48,3 +48,4 @@ Documental data on research achievements collected from student administration r
 - [Students completing the flexible compulsory dental basic research course had higher second-year GPA than elective-course students](cdbrc-higher-gpa-than-elective.md) — related
 - [Following the retraining program, nurses show significant improvements in professional engagement indicators including publications, consultations, lectures, and leadership activities.](retraining-improves-professional-engagement-indicators.md) — related
 - [The flexible compulsory course did not add significant academic burden, psychological stress, or examination stress compared with the elective course](cdbrc-no-added-course-pressure.md) — related
+- [Respondents want trusted achievement records to store a diversity of documents, with educational certificates seen as essential](achievement-record-essential-contents.md) — related

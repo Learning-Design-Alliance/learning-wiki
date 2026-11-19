@@ -50,3 +50,4 @@ Qualitative analysis (Appendix B.5, Figure 10) extracting last-layer attention w
 - Replacing Rasch embeddings with mean set embeddings under AKT's attention improves AUC on AS2009, evidence against the expanded representation — related
 - [Injecting MBP-KT's global collaborative information consistently improves KT models across RNN, memory-network, Transformer and state-based backbones](mbp-kt-consistently-improves-kt-backbones.md) — related
 - [MBP-KT yields significantly greater improvements for learners with fewer interaction records than for learners with more records](mbp-kt-greater-gains-sparse-learners.md) — related
+- [AKT's learned attention weights are interpretable, operating at multiple time scales and focusing on past practices of the same concept](akt-attention-weights-interpretable-same-concept-focus.md) — related

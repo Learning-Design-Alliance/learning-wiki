@@ -48,3 +48,4 @@ The authors presented the three interventions for the two problems to seven phys
 - [On problem 2, comparison-group students who did not draw a diagram outperformed students given a diagram (p = 0.004)](no-diagram-outperformed-given-diagram-problem2.md) — related
 - [Students given an instructor-drawn diagram scored significantly worse on two physics problems involving initial and final conditions, with averages lower by roughly 20% than other groups](given-diagram-worse-initial-final-conditions-problems.md) — related
 - [A significantly larger percentage of diagram-given students scored below 5 out of 10 on the two problems than in the other groups](diagram-group-more-very-poor-performers.md) — related
+- [Instructors nearly always predicted that providing diagrams would help, contrary to the measured outcomes](instructors-mispredict-diagram-provision-benefit.md) — related

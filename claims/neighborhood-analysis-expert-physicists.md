@@ -66,3 +66,4 @@ Qualitative transcript analysis across the three tasks; examples include using t
 - [The authors speculate physics experts' reasoning modes reduce cognitive load](covariation-mode-cognitive-load-speculation.md) — related
 - [The two identified physicist behaviors appear distinct from the covariational reasoning modes Hobson and Moore (2017) articulated for mathematics graduate students](physicist-behaviors-distinct-from-mathematicians.md) — related
 - [Physics experts approach covariational graphing problems with behaviors distinct from those of mathematics experts](physics-experts-covariation-differs-from-math-experts.md) — a broader claim this one bears on
+- [Interviewed students show strong compiled relationships with Pythagorean triangles and, when stuck, use plugging in physically significant points, a strategy identified as expert-like in previous studies](ferris-wheel-interview-resources-point-testing.md) — related

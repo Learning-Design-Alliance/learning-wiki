@@ -74,3 +74,4 @@ Perceptual fluency is one of the reward-related techniques the review places und
 - [In Studies 2-6, the perceptual richness of visualizations had no effect on undergraduates' generalization](no-visualization-effect-studies-2-6.md) — a narrower finding that bears on this claim
 - [Gamification elements significantly affected students' achievements](gamification-elements-significantly-affected-achievements.md) — a narrower finding that bears on this claim
 - [Reward contingency significantly moderates gamification's effect on intrinsic motivation, with 'each unit solved' contingencies showing larger effects](reward-contingency-moderates-gamification-effect.md) — related
+- [Gamification shows mixed results for learning performance, especially when based on scores and leaderboards](gamification-mixed-learning-results-leaderboards.md) — reports the opposite

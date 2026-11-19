@@ -17,7 +17,7 @@ sources:
 # Collecting demographic information such as gender before standardized physics tests need not be avoided for fear of stereotype threat
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 3 studies (3 causal), `q2`–`q3` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Based on the null effect of gender inquiry on CSEM performance, the authors suggest that "the common practice of asking for demographic information before the test is not detrimental to groups which are stereotypically perceived as underachieving on these tests". This strategy applies to test administration design where demographic data are collected on the test's front page before students begin.

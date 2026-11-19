@@ -39,6 +39,7 @@ The paper recommends engaging students as active partners in directing their own
 ## Related Strategies
 
 - [Student Voice In Curriculum Planning](student-voice-in-curriculum-planning.md)
+- [Involve students and alumni directly in campus activities, curriculum development and dialogue to build experience value](involve-students-curriculum-dialogue.md)
 
 ## Examples
 -

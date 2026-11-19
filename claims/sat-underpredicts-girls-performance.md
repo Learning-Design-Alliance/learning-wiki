@@ -103,3 +103,4 @@ Testimony of Phyllis Rosser, a consultant on sex bias in testing, at the April 2
 - [Standardized admission tests introduced since the 1940s were found to be better predictors of gender and color than of professional success, keeping women and minorities out of top schools](standardized-tests-predict-demographics-not-success.md) — a broader claim this one bears on
 - [Timed physics exams lower scores for women and girls disproportionately more than for men and boys](timed-exams-disproportionately-lower-womens-scores.md) — related
 - [A gender gap in individual exam performance narrows but persists from Exam I to Exam III](pronoun-gap-individual-exams-narrows-persists.md) — related
+- [Female students had higher high school GPA but lower physics 1 and 2 grades than male students, with small effect sizes](gender-grade-patterns-intro-physics-hs-gpa.md) — related

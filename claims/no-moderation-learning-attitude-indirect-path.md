@@ -48,3 +48,4 @@ Moderated mediation Model 5 in the PROCESS macro on the 824-student CEPS sample.
 - [Parent-child relationship moderates the indirect effect of video game playing on achievement via self-educational expectation, which is stronger at high relationship quality](parent-child-relationship-moderates-expectation-indirect-path.md) — related
 - [Learning attitude partially mediates the negative link between video game playing and academic achievement](learning-attitude-mediation-video-games-achievement.md) — related
 - [Video game playing is negatively related to Chinese adolescents' academic achievement](video-game-playing-negative-academic-achievement-chinese-adolescents.md) — related
+- [Parental control does not appear linked to adolescents' use of games](parental-control-not-linked-game-use.md) — related

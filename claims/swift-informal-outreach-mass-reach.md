@@ -68,3 +68,4 @@ Program-reported attendance figures for the Supernova! toolkit developed with th
 - [Swift-supported after-school programs brought STEM activities and tutoring to under-represented, primarily Hispanic students in partnership with local schools and community organizations](swift-after-school-underrepresented-stem.md) — related
 - [The Black Holes: The Other Side of Infinity planetarium show has reached over two million viewers worldwide](black-holes-planetarium-show-reach.md) — possibly the same claim (merge candidate)
 - [The Supernova! toolkit for amateur astronomy clubs reached over 138,000 attendees, including large numbers of women/girls and minorities](supernova-toolkit-reach-138000.md) — possibly the same claim (merge candidate)
+- [Free-response survey answers described a unique blending of art and science and reported learning about black holes, supernovae, and gravitational waves](free-response-art-science-blending-learning.md) — related

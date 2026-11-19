@@ -16,12 +16,14 @@ sources:
     author: Shahab Boumi, Adan Vela
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Switching from MES to FES is associated with increased GPA for both FTIC and transfer students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Shahab Boumi, Adan Vela. (2020). Quantifying the relationship between student enrollment patterns and student performance. [doi:10.48550/arXiv.2003.10874](https://doi.org/10.48550/arXiv.2003.10874)
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Comparative GPA-trend analysis of FTIC students who switch from MES to FES after three semesters versus students who stay MES, matched by college and GPA. Hypothesis t-tests show the differences are statistically significant, and two-way ANOVA identifies the switching variable as the only factor affecting GPA.
 

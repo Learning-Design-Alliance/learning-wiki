@@ -61,3 +61,4 @@ Analysts built a nine-point scale summing major problems plus points for frequen
 - [Over 90% of students reported satisfaction with online learning resources and completion of online assignments in the blended PET course](high-online-self-learning-satisfaction-blended-pet.md) — related
 - [Student satisfaction with a hybrid chest physiotherapy seminar was similar across face-to-face and remote groups, with 80% satisfied overall](hybrid-seminar-student-satisfaction-similar-80-percent.md) — related
 - [Most blended learning participants were satisfied with online materials, but few interacted with other students' online postings](bl-satisfaction-high-online-interaction-low.md) — related
+- [Making the remote class as similar to the in-person version as possible was the most common challenge instructors reported](instructor-challenges-remote-similarity.md) — related

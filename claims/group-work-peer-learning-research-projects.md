@@ -49,3 +49,4 @@ Student questionnaire group-work section (n = 214) and staff questionnaire (n = 
 - [Students and staff perceived poster presentations as an effective and fair way to assess students’ ability to collect, analyse, interpret and present data](posters-effective-fair-assessment-research-ability.md) — related
 - [Students perceived group work on the poster as helping them learn more than working alone (89%) and encouraging interaction (93%)](poster-group-work-perceived-learning-benefit.md) — possibly the same claim (merge candidate)
 - [First-year medical students perceived poster preparation as helping them select important material for presentation (92% agreement)](poster-preparation-helped-select-important-material.md) — related
+- [A gallery feedback activity significantly improved participants' course projects](gallery-poster-feedback-improved-projects.md) — related

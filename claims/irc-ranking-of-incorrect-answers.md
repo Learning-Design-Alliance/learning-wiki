@@ -52,3 +52,4 @@ Item response curves for Question 18 computed using data from ~500 Rice student 
 - [Most movement toward the correct answer among wrong-choice respondents is a direct migration from the fictitious-force choice X to the correct choice](wrong-choice-migration-x-to-correct-choice.md) — related
 - [On six FCI force-identification questions, student answers cluster on a pair of dominant answers containing the correct choice and a superset wrong choice](polarising-choices-force-identification.md) — related
 - [Students with above-average latent understanding (theta > 0) are more likely to choose both the correct response and the highest-ranked incorrect response on FMCE questions 14, 18, and 19](high-theta-students-choose-better-incorrect-responses.md) — related
+- [Item Response Curves expose per-item response patterns beyond dichotomous scoring, including persistent distractor choice and mixed responding](item-response-curves-reveal-patterns.md) — related

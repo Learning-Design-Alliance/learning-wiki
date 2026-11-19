@@ -48,3 +48,4 @@ Observational pacing analysis from the same four-week usage-log study: in-lab vi
 - [Adopting the virtual microscope saved 210 hours of faculty precepting time per year and allowed laboratory sessions to be reduced from three hours to two hours without reducing slides taught](vm-saved-faculty-time-reduced-lab-hours.md) — related
 - [Intensity of learner control use relates to retention gains but not to transfer performance](interactive-behavior-relates-to-retention-not-transfer.md) — related
 - [Viewing lecture slides during class is positively correlated with exam scores, predicting 6.0% of variance beyond standardized test scores](slide-viewing-positive-exam-correlation.md) — related
+- [Open-inquiry groups took slightly longer on average to complete the experiment than guided-inquiry groups, with both finishing within the three-hour period](open-inquiry-longer-completion-time.md) — related

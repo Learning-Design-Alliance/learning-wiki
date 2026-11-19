@@ -49,3 +49,5 @@ Comparison of performance on analogous polarizer/interference questions in two c
 - [MZI post-test averages were near 90%, while DSE transfer question averages were around 70%, in a single-group pre-post study](transfer-imperfect-mzi-ceiling-dse-70.md) — related
 - [After the MZI tutorial, students often used WPI reasoning to answer the DSE transfer questions, and a majority used it correctly](wpi-reasoning-use-dse-transfer.md) — related
 - [Only 58% of students using WPI reasoning answered DSE transfer question 2 correctly, the hardest transfer question for both groups](dse-question-two-only-58-percent-wpi-correct.md) — a narrower finding that bears on this claim
+- [Among advanced undergraduate and graduate students, correct-answer rates rose from the MZI pre-test to the isomorphic DSE post-test after the tutorial, except for Q2; the change was measured within the MZI→DSE cohort.](mzi-tutorial-improves-dse-polarizer-performance.md) — possibly the same claim (merge candidate)
+- [MZI posttest scores were near ceiling (~90%) while DSE polarizer-question averages after the tutorial were around 70% for both groups](mzi-to-dse-transfer-imperfect.md) — related

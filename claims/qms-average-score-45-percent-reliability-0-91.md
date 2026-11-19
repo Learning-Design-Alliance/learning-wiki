@@ -67,3 +67,4 @@ Psychometric analysis of the 226-student survey administration. The article repo
 - [Most QMS items have difficulty below 0.5 and item discrimination (PBD) from about 0.2 to 0.6](qms-item-difficulty-discrimination-statistics.md) — related
 - [The final 25-item test shows good reliability and item discrimination, with post-test item difficulty ranging from 0.2 to 0.8 and point biserial discrimination from 0.21 to 0.48](test-psychometrics-difficulty-discrimination.md) — related
 - [Advanced students' QMS scores are far higher in a class that used concept tests and QuILTs than in classes that did not use these research-based learning tools](qilt-concept-tests-associated-higher-qms-scores.md) — related
+- [The QMFPS is reliable and shows good item discrimination for low-stakes assessment](qmfps-reliable-kr20-item-discrimination.md) — related

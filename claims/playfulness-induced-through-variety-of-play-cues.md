@@ -48,3 +48,4 @@ Authors' interpretation of their field experiment, in which four different play 
 - [Play cues in workplace meetings significantly increase experienced meeting creativity climate with a small effect size](play-cues-increase-meeting-creativity-climate.md) — a narrower finding that bears on this claim
 - [Play cues significantly increase state playfulness in workplace meetings with a moderate effect size](play-cues-increase-state-playfulness.md) — a narrower finding that bears on this claim
 - [Playful embodied robot sessions sustained young children's attention well beyond the planned session length, and children voluntarily invited peers into one-on-one play](robot-extended-attention-voluntary-collaboration.md) — related
+- [Framing an activity as a game can induce engagement similar to using game mechanics](framing-as-game-similar-engagement.md) — related

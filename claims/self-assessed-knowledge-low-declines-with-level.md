@@ -17,12 +17,14 @@ sources:
     author: "A.I. Morales | P. Tuzón"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Students' self-assessed knowledge of radioactivity is low and declines with formal training, with lower-level students possibly overestimating their knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
@@ -35,7 +37,7 @@ sources:
 
 A.I. Morales | P. Tuzón. (2020). Misconceptions, knowledge, and attitudes of secondary school students towards the phenomenon of radioactivity. [doi:10.48550/arXiv.2001.07746](https://doi.org/10.48550/arXiv.2001.07746)
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Item 3 self-perception response frequencies by educational level in the 191-student sample. The quote reports the printed percentages, including that "the option ‘deep’ is not selected at all".
 

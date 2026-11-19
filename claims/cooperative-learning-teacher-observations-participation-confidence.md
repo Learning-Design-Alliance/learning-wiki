@@ -50,3 +50,4 @@ Qualitative teacher observation reported after teaching both groups during the 4
 - [Students in the TPSR leadership program reported gains in self-confidence, taking responsibility, cooperation, and leading behaviors in post-program interviews](student-interviews-report-leadership-gains.md) — related
 - [7th-grade students exhibited resistance behaviors including not participating, not being interested, not taking care of friends, seeking attention, not respecting the teacher, and providing suggestions to the teacher](seventh-grade-resistance-behavior-types.md) — related
 - [Teachers observed additional social skill gains from cooperative group work beyond pattern recognition](cooperative-group-work-develops-social-skills-preschoolers.md) — related
+- [The authors report that using the didactic sequences fostered student protagonism, with visible growth in students' confidence and ability to lead interventions](student-protagonism-didactic-sequences.md) — related

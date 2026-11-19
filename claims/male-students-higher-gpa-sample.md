@@ -52,3 +52,4 @@ Descriptive comparison within the 276-student cross-sectional sample, where "Mal
 - [SOC is the strongest independent predictor of GPA in simultaneous regression, with female gender and nursing major also significant](soc-strongest-regression-predictor-gpa.md) — reports the opposite
 - [In this study, male dental students scored slightly higher on the academic motivation scale than female students](male-higher-motivation-dental-jigsaw.md) — related
 - [Female physiotherapy students achieve higher GPAs than male students](female-students-higher-gpa-physiotherapy.md) — reports the opposite
+- [Female students answered correctly less often than males, with statistically significant differences on questions A3, A5, B1 and B2](gender-gap-radiation-knowledge-greek-students.md) — related

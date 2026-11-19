@@ -71,3 +71,5 @@ Post-semester interviews conducted by a co-author with no course association; in
 - [Students may make real-world physics connections without valuing or labeling them as physics, adding complexity to interpreting attitude measures](connections-without-labeling-as-physics.md) — related
 - [Connection to personal interests shaped a participant's engagement with STEM course content in both negative and positive directions](personal-interest-relevance-engagement-autism.md) — related
 - [Students valued the open-ended generative task for connecting physics to real contexts but reported unfamiliarity with making assumptions](student-perceptions-of-generative-task.md) — related
+- [A pilot study in the author's courses indicates improvement in confidence, interest and performance among a majority of students](pilot-improvement-confidence-interest-performance.md) — related
+- [Requirements (MCAT, prerequisites, graduate-program expectations) drive enrollment in the non-major physics course, with informal requirements from faculty recommendations](requirements-drive-non-major-physics-enrollment.md) — related

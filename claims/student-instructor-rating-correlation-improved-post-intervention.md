@@ -66,3 +66,4 @@ Regression of single self-evaluation scores against instructor scores on Stateme
 ## Related Claims
 - [After an active-learning intervention, students' peer evaluations aligned more closely with the instructor's on graph/table statements (LO1), with significant convergence for Statements 1 and 3](cpr-intervention-improved-peer-evaluation-alignment-lo1.md) — related
 - [Instructor-rated poster performance improved significantly after the intervention for graph/table statements (1–3) and for interpretation statements 6 and 8](instructor-rated-performance-improved-lo1-and-partial-lo2.md) — related
+- [A gallery feedback activity significantly improved participants' course projects](gallery-poster-feedback-improved-projects.md) — related

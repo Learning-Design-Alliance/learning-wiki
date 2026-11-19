@@ -60,9 +60,11 @@ Random calling converts a whole-class question from an optional invitation into 
 6. Periodically debrief the norm with the class: random calling is about fair airtime, not catching people out.
 
 ## Related Strategies
+
 - Cold Calling (verbal variant without cards) — same accountability mechanism; cards add visible fairness and reduce teacher bias in selection
 - Equity of Voice structures — random calling is one tool among several for distributing participation
 - No Hands Up — the whole-class norm within which random calling operates
+- [Assign a random pair member as reporter in think-pair-share to broaden verbal participation](random-reporter-think-pair-share-strategy.md)
 
 ## Examples
 - **Doug Lemov's "Cold Call" technique** (*Teach Like a Champion*, Jossey-Bass) — name-based random selection with warm-up (question first, then name), widely used in Uncommon Schools charter classrooms.

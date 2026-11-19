@@ -50,3 +50,4 @@ The review reports, citing multiple studies, that adults, primary school childre
 - [Adults opt out of answering more on trials they later answer incorrectly, and curiosity is higher on opted-out trials (metacognitive control)](opt-out-more-on-incorrect-trials-curiosity-higher.md) — related
 - [Opting out can improve thinking efficiency by cutting wasted effort on doomed attempts](opting-out-improves-thinking-efficiency.md) — related
 - [People underuse opt-out options, and explicit presentation substantially increases their use](opting-out-underuse-explicit-presentation-increases-use.md) — related
+- [Informal physics spaces, characterized by learner agency and voluntary engagement, allow physics identity to form outside traditional academic constraints](informal-spaces-agency-support-identity-exploration.md) — related

@@ -56,3 +56,4 @@ Descriptive analysis of the 2016 NFTE alumni online survey (2,117 respondents). 
 - [Justice-oriented youth maker programs support redefinition of entrepreneurialism and resistance to structural misrecognition](justice-oriented-youth-maker-programs-support-critical-identity-and-resistance.md) — related
 - [Review reports Bolashak scholarship alumni had above-95% employment but very few became entrepreneurs despite desire to start businesses](bolashak-employment-few-entrepreneurs.md) — related
 - [The course contributed to greater student interest in environmental and occupational health despite initially low interest in the field](flipped-course-increased-eoh-interest.md) — related
+- [Alumni most commonly reported gains in knowledge and understanding of space (87%), social confidence (83%) and teamwork (71%), with networking the most-cited career benefit](ssuk-skills-knowledge-social-confidence-teamwork.md) — related

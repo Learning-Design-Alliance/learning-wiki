@@ -52,6 +52,7 @@ The article recommends a faculty-development pathway modeled on co-teaching: an 
 - [Combine conceptual curriculum reform, mixed-format testing, hands-on demonstrations, semester projects, and university research involvement in high school physics](hs-physics-engagement-strategy-package.md)
 - [CAE two-day workshops with microteaching to prepare instructors in active-learning strategies](cae-workshop-microteaching-preparation.md)
 - [Mentor-apprentice co-teaching with weekly full-team studio preparation to sustain active-learning implementation](mentor-apprentice-coteaching-ipls.md)
+- [Weekly TA/LA training meetings using situated apprenticeship: modelling authentic student difficulties and practicing Socratic-style questioning](situated-apprenticeship-weekly-ta-la-training.md)
 
 ## Examples
 -

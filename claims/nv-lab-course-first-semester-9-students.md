@@ -17,12 +17,14 @@ sources:
     author: Vikas K. Sewani, Hyma H. Vallabhapurapu, Yang Yang, Hannes R. Firgau, Chris Adambukulam, Brett C. Johnson, Jarryd J. Pla, and Arne Laucht
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # First course delivery at UNSW Sydney: 9 students in groups of 2-3 successfully performed all experiments and demonstrated the learning outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: local conditions change quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Vikas K. Sewani, Hyma H. Vallabhapurapu, Yang Yang, Hannes R. Firgau, Chris Adambukulam, Brett C. Johnson, Jarryd J. Pla, and Arne Laucht. (2020). Coherent control of NV − centers in diamond in a quantum teaching lab. [doi:10.1119/10.0001905](https://doi.org/10.1119/10.0001905)
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 This is a case description of the first course offering (Section II): 9 students in groups of 2-3, with 2 hours per week of lab time for 4 weeks total. The article reports successful completion but prints no assessment statistics.
 

@@ -49,3 +49,4 @@ Observational analysis of the fall 2000 CPS cohort by credits earned, reported w
 - More than 95 percent of Chicago freshmen with a B average or better graduate within four years — related
 - [Three freshman warning indicators—off-track status, any course failure, and attendance below 85 percent—identify 70 percent of eventual non-graduates](freshman-warning-indicators-identify-70-percent-nongraduates.md) — related
 - [Ninth-grade on-track status (at least five credits and no more than one semester F) makes students almost four times more likely to graduate](on-track-freshman-courses-predict-graduation.md) — related
+- [Cumulative credit hours near 120 are the strongest predictor of on-time graduation (semesters 8-10)](cumulative-credit-hours-predict-on-time-graduation.md) — related

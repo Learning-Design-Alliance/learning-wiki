@@ -52,3 +52,4 @@ Delphi content validation with 13 experts in the final round, using a minimum ac
 - [The clinical simulation scenario reached 100% expert agreement on all items after a second Delphi round in which four modified items improved their Content Validity Index](simulation-scenario-cvi-improvement-second-round.md) — related
 - [A high-fidelity PACU pain-control simulation scenario reached adequate content validity after two expert review stages (S-CVI/UA 85; S-CVI/Ave 0.98)](pacu-pain-scenario-content-validated.md) — related
 - [Expert review establishes excellent content validity for TAILS (S-CVI/Ave = 0.98; I-CVI 0.86–1.00)](tails-content-validity-cvi.md) — related
+- [Iterative revision produced a 20-item PIQL whose final version meets reliability and item-quality thresholds (Cronbach's α = 0.80 on v2.2)](piql-final-version-reliable-alpha-080.md) — related

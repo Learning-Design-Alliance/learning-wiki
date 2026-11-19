@@ -54,3 +54,4 @@ Content analysis of two focus group interviews with 10 students, coded by three 
 - [Interview participants identified unsuitable teaching approaches, low engagement, and boredom as the main weaknesses of virtual education](virtual-education-weakness-engagement-boredom.md) — related
 - [Focus group interviews found the e-learning material's effectiveness was influenced by its story and characters and by consistency with interviewees' daily interests](ebm-elearning-effectiveness-story-characters-daily-interests.md) — related
 - [Instructors identified clarity of verbal instruction, loss of non-verbal cues and student motivation as key moderators of virtual skills teaching](instructor-themes-clarity-motivation-virtual-teaching.md) — related
+- [Working with ready-made computer models aids clarity and motivation but is largely reproductive](ready-made-models-reproductive-limitation.md) — related

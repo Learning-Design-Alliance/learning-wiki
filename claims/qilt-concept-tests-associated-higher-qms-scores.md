@@ -50,3 +50,4 @@ Quasi-experimental comparison across classes in the survey administration: the c
 - [Junior-senior level QM classes using concept tests as peer instruction tools significantly outperform a traditionally taught comparison class on a conceptual quiz](qm-concept-tests-outperform-traditional-instruction.md) — related
 - [Advanced undergraduate and graduate students average only 45% on the QMS, with good reliability and item discrimination](qms-average-score-45-percent-reliability-0-91.md) — related
 - [Students using research-based learning tools (QuILT and concept tests) performed significantly better on quantum measurement assessments than students in traditionally taught comparison classes](quilt-concept-tests-improve-quantum-measurement-performance.md) — related
+- [Undergraduates taught with research-based learning tools scored significantly higher on the QMFPS than those who were not](research-based-learning-tools-higher-qmfps-scores.md) — related

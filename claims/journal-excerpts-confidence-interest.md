@@ -48,3 +48,4 @@ Qualitative evidence: the authors cite student journal excerpts (e.g., "At first
 - [In Pilot District 4, student-led Small Writing Groups showed growing attendance and increased writing confidence among participating students, per Core Team reflections](small-writing-groups-attendance-confidence-growth.md) — related
 - [Interns observed extremely high enthusiasm for ASL vocabulary learning, including home practice and increased self-confidence](asl-sight-word-instruction-high-enthusiasm-qualitative.md) — related
 - [Teachers reported increased confidence reading aloud and willingness to choose more difficult books as proxy indicators of improved reading](reading-behaviour-proxy-indicators-confidence-vocabulary.md) — related
+- [A pilot study in the author's courses indicates improvement in confidence, interest and performance among a majority of students](pilot-improvement-confidence-interest-performance.md) — possibly the same claim (merge candidate)

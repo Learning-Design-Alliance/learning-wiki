@@ -51,6 +51,8 @@ The article recommends deploying LAs in inquiry-based group work so that groups 
 - [Design chatbots that begin with guided inquiry and progressively provide explicit guidance when students remain stuck](chatbots-guided-inquiry-then-explicit-guidance.md)
 - [Use asynchronous AI tutoring for students' first engagement with challenging material, reserving class time for higher-order skills](ai-tutor-first-exposure-flipped-strategy.md)
 - [Deploy learning assistants in environments conducive to small-group collaborative work, such as labs and recitations](deploy-las-in-labs-and-recitations.md)
+- [Use two-way communication feedback from online meetings to adjust lecture speed, teaching strategy, and course material, as instructors do in classrooms](tele-instruction-feedback-driven-course-adjustment.md)
+- [Weekly TA/LA training meetings using situated apprenticeship: modelling authentic student difficulties and practicing Socratic-style questioning](situated-apprenticeship-weekly-ta-la-training.md)
 
 ## Examples
 -

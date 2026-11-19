@@ -69,3 +69,4 @@ Feature importance analysis of the random forest classifier using mean decrease 
 - [Attribution analysis identifies interpretable input features for BERT's classification decisions, including subjunctive verbs in alternatives and appraisal words in evaluation](attribution-analysis-identifies-bert-classification-features.md) — related
 - [Surface readability measures are weak predictors of question difficulty, per reviewed studies](readability-weak-difficulty-predictors.md) — related
 - [Model results are robust to varying training fraction and number of trees, but the highest-physics-degree factor is only marginally meaningful](hyperparameter-robustness-variable-importance.md) — related
+- [Lecture length features are the most influential predictors of engagement, and the top five features span all quality verticals](shap-length-features-most-influential.md) — related

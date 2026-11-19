@@ -47,6 +47,7 @@ The authors restructured a first-year graduate quantum mechanics syllabus to add
 ## Related Strategies
 
 - [Offer a sophomore-year mathematical physics course preparing students for the mathematics of quantum physics](sophomore-math-physics-prerequisite-for-qp.md)
+- [Prioritise course design elements (fieldwork, up-to-date resources, clear aims, syllabus adherence) when seeking to raise student satisfaction](course-design-elements-drive-satisfaction-strategy.md)
 
 ## Examples
 -

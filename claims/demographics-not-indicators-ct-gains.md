@@ -51,3 +51,4 @@ Secondary analyses of the PLTL leader group controlling demographic co-variables
 - [The exam playbook intervention showed no statistically significant treatment-effect differences by gender, race, class standing, or prior performance](exam-playbook-no-subgroup-treatment-differences.md) — related
 - [Gender, ethnicity, and introductory course type do not improve prediction of centrality in the PLC network](gender-ethnicity-not-predictors-of-plc-centrality.md) — related
 - [Participation in the PLC learning community is equitably distributed across gender and ethnicity](plc-participation-equitably-distributed.md) — related
+- [Two-way ANOVA found no statistically significant interaction between gender and undergraduate/science educator status](no-gender-status-interaction-effect.md) — related

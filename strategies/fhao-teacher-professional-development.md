@@ -56,6 +56,7 @@ The program's professional development model combines an intensive Summer Instit
 - [Two-day teacher professional learning workshop before simulation-supported inquiry implementation](isia-teacher-training-workshop-strategy.md)
 - [Provide professional development workshops for teachers implementing an emergence theory-based curriculum](pdw-for-emergence-curriculum-implementation.md)
 - [Five-day teacher workshop for WRD curriculum framework training](five-day-wrd-teacher-workshop.md)
+- [Support teacher adoption through compensated training workshops and focusing on one course stream initially](qc-module-teacher-training-workshop-strategy.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Predictive modeling study of 346 first-year UAE health sciences students, five s
 - [Baseline LR and XGBoost models achieve comparable predictive performance on OULAD, with XGBoost slightly higher AUC-ROC](baseline-model-performance-oulad-lr-xgboost.md) — related
 - [Decision trees achieve competitive accuracy with black-box models (LR, RF, SVM), which performed slightly better but lack interpretability](dt-competitive-with-black-box-classifiers.md) — related
 - [STEM attrition is predictable from first-year registrar transcript data, with four ML models reaching AUROCs between 0.87 and 0.89 and logistic regression performing slightly better](first-year-transcript-data-predicts-stem-attrition.md) — related
+- [Gradient boosted trees (xgboost) outperform maximum-likelihood logistic regression at predicting graduating semester by out-of-sample F1-score, except in semesters 15-16](xgboost-outperforms-mle-time-to-graduation.md) — related

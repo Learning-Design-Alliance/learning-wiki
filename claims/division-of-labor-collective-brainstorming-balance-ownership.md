@@ -51,3 +51,4 @@ Cross-case thematic analysis of three selected project groups in Optics/Lasers, 
 - [Students in an upper-division physics lab course with self-chosen group final projects show high levels of project ownership on POS items 1-10](pos-items-1-10-high-ownership-lasers-course.md) — related
 - [Initial student interest in a project topic is not a necessary condition for ownership; interest and perceived value can increase over time](initial-interest-not-necessary-ownership-grows.md) — related
 - [85% of students described at least three instances of peer interaction in their project reflections](85-percent-peer-interaction-reflections.md) — related
+- [Roles in inquiry-lab groups were not explicitly assigned: video analysis found no instances of explicit role allocation by peers or instructors](no-explicit-role-assignment.md) — related

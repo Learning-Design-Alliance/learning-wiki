@@ -65,3 +65,4 @@ Analytical description of Astus's hint generation mechanism in the Model Tracing
 
 ## Related Claims
 - [Astus diagnoses many learner errors without erroneous knowledge units by interpolating incorrect executions of procedures in the episodic tree](astus-error-diagnosis-interpolation.md) — related
+- [Automatically generated mathematical hints are judged useful in over 90% of cases by independent domain-expert analysis](mathematical-hints-rated-useful-experts.md) — related

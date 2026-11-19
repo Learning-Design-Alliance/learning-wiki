@@ -54,3 +54,4 @@ In the four-facet Rasch model, asynchronous lessons scored M = −0.19 (SE = 0.0
 - [The free, self-paced micro-courses showed an 82% completion retention rate, and most participants found the online, asynchronous format appealing](micro-courses-high-retention-and-format-appeal.md) — related
 - [Asynchronous courses scored higher than synchronous on system quality, self-efficacy, and continuance intention, while synchronous scored higher on teaching presence](asyn-vs-syn-latent-mean-differences.md) — related
 - [The authors interpret the OLM's advantages as stemming primarily from learner autonomy and asynchronicity rather than online delivery per se](autonomy-asynchronicity-interpretation-olm-advantage.md) — related
+- [Approximately 50% of surveyed instructors would structure synchronous versus asynchronous course time differently if teaching remotely again](restructure-sync-async-remote-lab-time.md) — related

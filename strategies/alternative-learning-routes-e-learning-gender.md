@@ -47,7 +47,8 @@ The authors recommend that those responsible for e-learning "introduce different
 - [Tutor contribution is important for female students' global satisfaction but irrelevant for male students](../claims/tutor-contribution-female-satisfaction.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Prioritise course design elements (fieldwork, up-to-date resources, clear aims, syllabus adherence) when seeking to raise student satisfaction](course-design-elements-drive-satisfaction-strategy.md)
 
 ## Examples
 -

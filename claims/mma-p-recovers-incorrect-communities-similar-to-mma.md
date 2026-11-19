@@ -17,12 +17,14 @@ sources:
     author: Jie Yang, James Wells, Rachel Henderson, Elaine Christman, Gay Stewart, and John Stewart
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # MMA-P recovers incorrect communities similar to MMA while also identifying correct and mixed communities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Jie Yang, James Wells, Rachel Henderson, Elaine Christman, Gay Stewart, and John Stewart. (2020). Extending Modiﬁed Module Analysis to Include Correct Responses: An Analysis of the Force Concept Inventory. [doi:10.1103/physrevphyseducres.16.010124](https://doi.org/10.1103/physrevphyseducres.16.010124)
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Bootstrap-based community detection on FCI partial correlation matrices (r > 0.2, C > 80% over 1000 replications) compared MMA-P communities to Study 1 MMA communities. The article reports "24 were identiﬁed in both studies" out of 38, with 11 unique to Study 1 and 3 unique to this study.
 

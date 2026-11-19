@@ -52,3 +52,4 @@ Reliability analysis of the two mock bellringer exams using Kuder–Richardson F
 - [Students strongly preferred physical specimens over VR and 2D, but modality preference did not affect exam performance](modality-preference-no-performance-effect.md) — related
 - [Pairwise sub-score correlations across physical, 2D, and VR modalities provide evidence of convergent validity for bellringer testing](convergent-validity-across-br-modalities.md) — related
 - [Physics graduate students benchmark an average MCS score of 83% with KR-20 of 0.87](mcs-graduate-student-benchmark.md) — related
+- [The QMFPS is reliable and shows good item discrimination for low-stakes assessment](qmfps-reliable-kr20-item-discrimination.md) — related

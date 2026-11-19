@@ -54,3 +54,6 @@ Quiz comparison of three intervention groups (PO N=50, DO N=39, NS N=29) in an a
 - [Drawing support increased rather than decreased perceived difficulty, which the authors read as a hint of cognitive overload](drawing-support-increased-perceived-difficulty.md) — related
 - [Visualizing support—provided diagrams or learner-generated drawings—facilitates higher-quality explanations and better comprehension than explaining text alone](visualizing-support-facilitates-explaining.md) — reports the opposite
 - [Drawing provided no benefit for lower-order recognition knowledge, and the local support condition scored significantly lower than control](drawing-no-recognition-benefit-local-worse.md) — related
+- [Students prompted to draw a diagram performed comparably to students given no support on both electrostatics problems](prompted-drawing-comparable-to-no-support.md) — possibly the same claim (merge candidate)
+- [Across ten quiz problems in a semester, providing a diagram never improved performance and was detrimental on three](providing-diagrams-never-beneficial.md) — related
+- [Students provided with diagrams performed significantly worse than prompted and no-support students on two electrostatics quiz problems, with large effect sizes](provided-diagrams-worse-electrostatics-quizzes.md) — related

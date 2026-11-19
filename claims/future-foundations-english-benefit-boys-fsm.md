@@ -52,3 +52,4 @@ Subgroup gain-score analyses of the randomised trial: Table 15 prints boys-only 
 - [The intervention showed no evidence of differentially benefiting pupils eligible for free school meals, despite a marginal group-by-FSM interaction](grammar-for-writing-fsm-subgroup-no-differential-benefit.md) — related
 - [Subgroup effects for FSM-eligible pupils were small and positive for mathematics (+0.09) and near zero for English (−0.03), with no security rating awarded](tutor-trust-fsm-subgroup-effects.md) — related
 - [FSM-eligible pupils appeared to gain in English (+0.16) but go backwards in maths (-0.12)](future-foundations-fsm-english-gain-maths-loss.md) — related
+- [A two-week network science summer course for high-school pupils was overall successful and positively received](network-science-summer-course-high-school-successful.md) — related

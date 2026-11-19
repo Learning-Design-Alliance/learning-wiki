@@ -67,6 +67,7 @@ Working out loud externalizes the learning process, converting private struggle 
 - [Use the DOT Framework's Empathize and Test/Feedback stages as practical checklists, and build professional learning communities around shared prompting and critique practices](dot-empathize-test-checklist-plc-strategy.md)
 - [Solicit and formally review unsolicited scholarly responses when publishing a controversial position](solicit-reviewed-responses-to-controversial-positions.md)
 - [Shared online reflective journals for the instructional team](shared-reflective-journaling-strategy.md)
+- [Make student process visible in online science courses through discussion forums and process-sharing assignments](process-visibility-discussion-forums-strategy.md)
 
 ## Examples
 - **Stepper's Working Out Loud circles** ([workingoutloud.com](https://workingoutloud.com)) — peer groups meeting weekly for 12 weeks, each member working toward a goal while sharing progress and making contributions to others.

@@ -50,3 +50,4 @@ Descriptive trend analysis of high school out-mobility components in Chapter 1 (
 - [Elementary student mobility in CPS is predominantly a within-district phenomenon, with CPS-to-CPS transfers accounting for 50-60 percent of school-year transfers and two-thirds of summer transfers](elementary-mobility-within-district.md) — related
 - [The rise in diploma earning came from declining dropout rates, which fell from 35 to 11 percent, not from declines in other outcomes](dropout-decline-drove-diploma-gains.md) — related
 - Residential mobility is closely associated with elementary school transfers in CPS, with nearly 80 percent of mid-year within-district transfers accompanied by a residential move — related
+- [Arizona State University's use of Knewton since 2011 was accompanied by dropout falling from 13% to 6% and completion rising from 66% to 75%](knewton-asu-dropout-completion-change.md) — related

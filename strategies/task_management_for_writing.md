@@ -60,9 +60,11 @@ Writing is a long-duration, multi-component task that imposes heavy demands on w
 7. Fade the scaffolds — shift from teacher-generated plans to student-generated plans with lighter check-ins [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - [Achievable micro-goals](achievable_micro-goals.md) — the goal-setting mechanism that makes each writing session tractable
 - [Action planning](action_planning.md) — the general planning routine this strategy applies to writing
 - [5-minute writing conferences](5-minute_writing_conferences.md) — a lightweight coaching format for milestone check-ins
+- [Institute an early topic-registration deadline and announced milestones to counter procrastination on long projects](topic-deadline-milestones-video-project.md)
 
 ## Examples
 - **SRSD (Self-Regulated Strategy Development)** — Graham and Harris's widely validated writing framework explicitly teaches goal-setting, self-monitoring, and self-instruction alongside genre strategies; students graph their own progress across drafts ([What Works Clearinghouse practice guide](https://ies.ed.gov/ncee/wwc/PracticeGuide/3)).

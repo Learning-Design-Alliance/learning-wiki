@@ -52,3 +52,4 @@ Analysis of the collected computational essays found "All students in the presen
 - [In a qualitative case study of two student pairs, creating computational literature was associated with computational literacy development even when code modification was minor](creating-computational-literature-develops-computational-literacy.md) — related
 - [Students implemented abstraction, pattern recognition and automation in new data- and system-related forms not captured by programming-centred CT frameworks](new-forms-ct-practices-simulation-game.md) — related
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — related
+- [The collected essay corpus (69 essays) showed varied coding approaches and near-universal use of plots, with most essays following a lab-report narrative structure](essay-corpus-coding-and-narrative-features.md) — related

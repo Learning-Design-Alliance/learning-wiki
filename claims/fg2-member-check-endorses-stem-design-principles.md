@@ -47,3 +47,4 @@ Member-check survey using a gamified Kahoot tool during focus group 2 sessions i
 ## Related Claims
 - [A university-wide Deliberative Democracy process enabled higher education stakeholders to integrate situated knowledge through structured dialogue to co-produce AAI-EdTech ethical principles](dd-co-production-situated-knowledge.md) — related
 - [Stakeholders viewed the co-produced principles as distinct across organisational, sectoral and policy levels](principles-distinct-across-levels.md) — related
+- [Stakeholders strongly endorse a trusted achievement record: 93.64% agreed or strongly agreed it is beneficial](stakeholders-endorse-trusted-achievement-record.md) — related

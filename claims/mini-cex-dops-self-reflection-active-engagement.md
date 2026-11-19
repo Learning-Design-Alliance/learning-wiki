@@ -49,3 +49,4 @@ Interview finding from the novice nurse growth theme; one novice reported a habi
 - [Students report that GenAI's immediate feedback enabled iterative learning and low-stakes practice, the dominant qualitative themes of the intervention](iterative-feedback-low-stakes-practice-themes.md) — related
 - [A structured feedback-and-reflection cycle (pre-lesson plan review, immediate verbal comments, written feedback, take-up time, and open-ended questioning) supported the mentee's reflective development](structured-feedback-reflection-cycle-mentoring.md) — related
 - [GenAI's immediate answers reduce engineering students' teacher-student interactions for generalizable tasks, while teachers remain preferred for complex problem-solving](genai-immediacy-reduces-teacher-interactions.md) — related
+- [Using CMODS is argued to shift teaching from passive to active methods and activate students' learning activity](cmods-passive-to-active-shift.md) — related

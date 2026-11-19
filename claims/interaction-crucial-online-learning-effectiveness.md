@@ -47,3 +47,4 @@ The narrative review attributes this finding to its reference 20 (Swan's work on
 ## Related Claims
 - [Prior research suggests student-student interaction treatments affect online learning more than student-teacher interactions, while oral versus text presentation of information shows no difference](interaction-type-and-presentation-background-claims.md) — related
 - [Learner-instructor and learner-content engagement strategies are negatively associated with digital distraction in online courses](instructor-content-engagement-associated-lower-distraction.md) — related
+- [The article reports, citing prior studies, that absence of face-to-face interaction between students and instructors negatively affects student performance in online learning](no-face-to-face-interaction-hurts-online-performance.md) — a narrower finding that bears on this claim

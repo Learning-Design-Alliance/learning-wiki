@@ -50,3 +50,4 @@ Multiple-choice survey of upper-level undergraduates (N = 210) after traditional
 - [Students answer analogous measurement-probability questions consistently but mostly incorrectly](students-consistent-but-incorrect-analogous-quantum-questions.md) — related
 - [Students incorrectly assume the probability density for measuring position is time-independent, and this error is context-dependent](students-assume-position-probability-density-time-independent.md) — related
 - [Many students mistake the expectation value of energy for a possible measurement outcome and cannot distinguish individual measurements from expectation values](expectation-value-confused-with-measurement-outcome.md) — related
+- [Students confuse the density of states with particle number density or the distribution function](density-of-states-confused-with-particle-number.md) — related

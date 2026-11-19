@@ -16,12 +16,14 @@ sources:
     author: Y D Kristanto, M M Melissa, and A H Panuluh
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Students held positive attitudes toward the DGE, rating it helpful for learning limit concepts (3.73/5) and interesting (4.4/5)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Y D Kristanto, M M Melissa, and A H Panuluh. (2019). Discovering the formal definition of limit through exploration in dynamic geometry environments. IOP Conf. Series: Journal of Physics: Conf. Series 1180. https://doi.org/10.1088/1742-6596/1180/1/012004
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Online questionnaire responses from the 48 participants in the exploratory study; the article reports descriptive means only, e.g. "the DGE help them to learn limit concept (3.73 out of 5)", with no inferential test or effect size.
 

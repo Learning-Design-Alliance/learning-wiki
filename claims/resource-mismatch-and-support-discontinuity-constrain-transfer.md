@@ -185,3 +185,5 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [It is difficult to change what science teachers do in their classrooms; multiple barriers impede adoption of HPS in science teaching](barriers-to-teacher-adoption-of-hps.md) — related
 - [Environmental barriers and supports across policy, practice, attitude, and knowledge/skill domains affect communicative competence](environmental-barriers-supports-aac-competence.md) — related
 - [In the Runes Department, faculty professed beliefs supporting active learning were not matched by their reported teaching practices](runes-belief-practice-discontinuity.md) — related
+- [The author identifies five barriers to teaching climate change: knowledge pollution, inter/transdisciplinarity, psychological barriers, onto-epistemological barriers, and faculty/institutional barriers](five-barriers-climate-pedagogy.md) — related
+- [Lack of methodical support and low teacher awareness of computer modeling hinder students' competence formation](low-teacher-awareness-cmods-hinders-competence.md) — related

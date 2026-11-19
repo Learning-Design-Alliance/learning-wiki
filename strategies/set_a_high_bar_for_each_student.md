@@ -63,6 +63,7 @@ High expectations only raise achievement when students believe the expectations 
 - Mastery-oriented feedback practices — the delivery mechanism for high-expectation messages
 - [Pair increased academic demand with increased teacher support when raising instructional rigor](pair-demand-with-support-when-raising-rigor.md)
 - [Instructor practices that foster belongingness and a growth-mindset classroom culture to support gender equity](belongingness-instructor-practices-gender-equity.md)
+- [Use brief social-psychological classroom interventions (e.g., belonging and mindset interventions) to raise women's belonging, self-efficacy, confidence and interest in physics](brief-belonging-mindset-interventions-physics.md)
 
 ## Examples
 - **Yeager et al. (2019) national study**: a short online growth-mindset module embedded in core curriculum raised GPA among lower-achieving high school students across the U.S.

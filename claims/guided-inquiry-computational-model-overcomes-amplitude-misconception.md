@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: moderate
 newest_evidence: 2011
+source_checked: 2026-11-18
 sources:
   - id: farr-2011
     resource: "https://doi.org/10.48550/arxiv.1109.3720"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Over 80% of students were able to predict and explain why the frequency of the gravitational wave increases with time during inspiral, while only about half deduced that the amplitude also increases. [→ Farr 2011](#farr-2011)

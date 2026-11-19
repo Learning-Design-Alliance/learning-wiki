@@ -16,12 +16,14 @@ sources:
     author: Jessica R. Hoehn and H. J. Lewandowski
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # External face validity check led to refinements of framework goal labels and descriptions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r3` · `q1`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Jessica R. Hoehn and H. J. Lewandowski. (2020). Framework of goals for writing in physics lab classes. [doi:10.1103/physrevphyseducres.16.010125](https://doi.org/10.1103/physrevphyseducres.16.010125)
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r3`
 
 Framework development section (type e, authors' report of a validity check). After creating and reﬁning the framework using the codebook plus literature corroboration, the authors 'conducted a general face validity check with physics education researchers and lab instructors external to the project.'
 

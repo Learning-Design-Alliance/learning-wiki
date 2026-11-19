@@ -96,3 +96,4 @@ Category-level comparison of graduate students' student-perspective categorizati
 - [Graduate students in a TA training course widely resisted categorizing problems from an introductory student's perspective](ta-resistance-to-novice-perspective-task.md) — related
 - [Graduate students in a TA training course widely resisted categorizing problems from an introductory student's perspective, viewing the task as useless](ta-resistance-to-student-perspective-task.md) — related
 - [Introductory students in this study chose expert-like categories far more often, and surface-feature categories like ramps and pulleys far less often, than the novices in the Chi study](intro-students-expert-categories-vs-chi.md) — related
+- [TAs' narrow predicted-difficulty range (45%-65% for all but five questions) indicates they lacked a sense of question difficulty from students' perspective](tas-narrow-predicted-difficulty-range.md) — related

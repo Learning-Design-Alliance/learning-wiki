@@ -57,3 +57,4 @@ Decomposition of graduation-rate trends against ninth-grade behavioral measures.
 - [Ninth-grade on-track status (at least five credits and no more than one semester F) makes students almost four times more likely to graduate](on-track-freshman-courses-predict-graduation.md) — related
 - [Bronxdale students outperformed comparison-group, borough, and city high schools on graduation rates and on-track credit indicators in 2017–18](bronxdale-outperformed-comparisons-graduation-on-track.md) — related
 - [A pilot ethnic studies program in San Francisco high schools led to gains in attendance, grades, and credit accumulation](ethnic-studies-pilot-gains-attendance-grades.md) — related
+- [Students from higher-income high school communities take longer to graduate](higher-income-high-school-longer-graduation.md) — related

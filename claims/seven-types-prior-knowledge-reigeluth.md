@@ -47,3 +47,4 @@ Narrative literature review attributing this taxonomy to Reigeluth [11]. The art
 ## Related Claims
 - [Ten-year-old readers predominantly underline subordinate passage details rather than superordinate conceptual material, even when conceptual postquestions focus attention on topic sentences](children-underline-subordinate-details-not-superordinate-material.md) — related
 - [Chunking via prior knowledge can massively increase the information processed in working memory](chunking-increases-effective-working-memory.md) — related
+- [Conceptual superordination of Dynamical Variables was accomplished, with students assimilating the time-varying feature, mostly implicitly, and relating incompatibility to destruction of prior information in sequential measurement](dynamical-variables-superordination-accomplished.md) — a narrower finding that bears on this claim

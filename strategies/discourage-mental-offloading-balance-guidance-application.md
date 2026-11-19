@@ -48,6 +48,7 @@ Under Scaffold Creativity, the framework recommends encouraging creativity throu
 - [Tailor feedback strategies by question type: discourage MCQ trial-and-error and scaffold open-ended revision](tailor-feedback-strategy-by-question-type.md)
 - [Design AI feedback and task scope to leave room for open-ended creative exploration](open-ended-exploration-ai-feedback-design.md)
 - [Seven-question scaffold with AI problem solving, game-based learning, and systems thinking to support proactive decision making](seven-question-scaffold-proactive-decision-pedagogies.md)
+- [Balance structure and open-endedness by scaffolding agency with modeling, coaching, and fading support](scaffold-agency-modeling-coaching-fading.md)
 
 ## Examples
 -

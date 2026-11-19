@@ -91,3 +91,4 @@ The survey reports, citing Mackness and Bell (2015) via Gonçalves and Osório (
 - [In one extreme case, two sixth-graders with a choice-rich, ungraded STEAM infrastructure extended a game-design challenge into a year-long self-directed project well beyond its designed scope](choice-rich-infrastructure-supports-productive-deviation-and-learning.md) — related
 - [Moderate learner agency in game-based learning yields better outcomes than no agency or high agency](moderate-agency-better-learning-outcomes.md) — a broader claim this one bears on
 - [Compatibility with learning preferences affected adoption: some students found Learning Moment's brief, disconnected pearls incompatible with how they learn](lm-pearl-brevity-learning-preference-mismatch.md) — related
+- [Students rated remote labs better for working at their own pace but the same or worse for procedure design and tool-choice agency](remote-labs-own-pace-agency.md) — related

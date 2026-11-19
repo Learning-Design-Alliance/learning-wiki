@@ -46,6 +46,7 @@ Because UCL encourages students to deviate from the laboratory script and create
 ## Related Strategies
 
 - [Pair the end-of-term DRT with twice-per-term one-to-one oral notebook assessments for in-flight corrections](drt-mini-orals-in-flight-feedback.md)
+- [Online Data Retrieval Test plus Traffic Light Feedback activities for formative feedback on notebook keeping in pass-fail laboratories](online-drt-tlf-notebook-feedback-strategy.md)
 
 ## Examples
 -

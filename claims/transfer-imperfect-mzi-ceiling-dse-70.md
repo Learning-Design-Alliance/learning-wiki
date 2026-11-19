@@ -49,3 +49,4 @@ The authors' quantitative comparison of MZI post-test averages and DSE transfer 
 - [On DSE transfer question 5, 82% of students using WPI reasoning answered correctly, and a minority explicitly mentioned the term learned in the MZI context or drew the parallel](quantum-eraser-dse-transfer-correct.md) — related
 - [Students performed significantly better on the DSE transfer questions than on the analogous MZI pre-test questions in a single-group pre-test/post-test comparison](transfer-mzi-to-dse-significantly-better.md) — related
 - [After the MZI tutorial, students often used WPI reasoning to answer the DSE transfer questions, and a majority used it correctly](wpi-reasoning-use-dse-transfer.md) — related
+- [MZI posttest scores were near ceiling (~90%) while DSE polarizer-question averages after the tutorial were around 70% for both groups](mzi-to-dse-transfer-imperfect.md) — possibly the same claim (merge candidate)

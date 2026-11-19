@@ -46,6 +46,7 @@ Because extraction errors in equations, figures, tables, and graphs can generate
 - [Three-stage hybrid workflow: API batch review, identification of doubtful cases, focused conversational teacher review](three-stage-hybrid-ai-assessment-workflow.md)
 - [Strategy-detail-verify educator review of generated representation variants](strategy-detail-verify-card-review.md)
 - [Mitigate transcription failures through image-quality supports: quality review before submission, preview transcriptions, and multiple submission modes](image-quality-mitigations-handwritten-grading.md)
+- [Walk through plots slowly: axes first, then legend, then scientific meaning, privileging the paper's own dataset](plot-walkthrough-axes-legend-meaning-strategy.md)
 
 ## Examples
 -

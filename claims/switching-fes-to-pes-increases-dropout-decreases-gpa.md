@@ -24,6 +24,8 @@ sources:
     author: Shahab Boumi, Adan Vela
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Switching from FES to PES is associated with increased dropout probability and decreased GPA
@@ -52,7 +54,7 @@ Comparative analysis of enrollment persistence between students who switch from 
 
 Shahab Boumi, Adan Vela. (2020). Quantifying the relationship between student enrollment patterns and student performance. [doi:10.48550/arXiv.2003.10874](https://doi.org/10.48550/arXiv.2003.10874)
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 GPA trend comparison between switchers and non-switchers matched by college and GPA. Two-way ANOVA shows the switching variable (p-value close to 0) is the only factor impacting students' GPA, regardless of enrollment college.
 

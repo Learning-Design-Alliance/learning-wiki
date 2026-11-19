@@ -51,3 +51,4 @@ Qualitative coding of think-aloud interviews: troubleshooting was coded when stu
 - [Students developed AI understanding by reasoning about how physical setup and environmental conditions affect sensor perception and machine learning data quality](physical-setup-reasoning-builds-ai-understanding.md) — related
 - [Students engage in model-based reasoning throughout the troubleshooting process, with EMF phases interacting within a troubleshooting cycle](students-model-based-reasoning-throughout-troubleshooting.md) — related
 - [Think-aloud interviews validate the framework's focus on measurement system models](think-aloud-validation-measurement-system-models.md) — related
+- [Free-response survey responses: 14 of 23 students reported improved troubleshooting of experimental setups and 9 reported enjoyment of the hands-on experience](kit-free-response-benefits-troubleshooting-enjoyment.md) — related

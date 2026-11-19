@@ -51,3 +51,5 @@ Bootstrap-based random forest modeling of 7184 Physics 1 students' institutional
 - [Model sensitivity for predicting CDF physics outcomes is about 10% higher for men than for women](gender-sensitivity-gap-cdf-prediction.md) — related
 - [Classification accuracy of the optimized physics-grade model varies across demographic subgroups](subgroup-variation-physics-grade-classification.md) — related
 - [Model performance metrics stabilize once the minority outcome training sample reaches roughly 100 students](minority-sample-size-100-threshold-physics-prediction.md) — related
+- [Default random forest settings classify only 16% of DFW students correctly in Sample 1, and tuning the decision threshold raises DFW accuracy to 43%](default-rf-poor-dfw-tuning-raises-43-percent.md) — related
+- [Demographic variables (gender, URM, first-generation, SES) were of low importance in the DFW classification models, and subgroup classification accuracy was approximately equal to the overall model](demographic-variables-low-importance-dfw-models.md) — related

@@ -135,3 +135,4 @@ The article's abstract states the consequence of the opt-out conceptualization: 
 - [Consequences for not participating are associated with higher odds of serious test-taking behavior in a low-stakes assessment](participation-consequences-serious-test-taking.md) — related
 - [The Easy Questions Test identifies 3%–4.6% of real test takers as non-serious versus 41%–51% of simulated random guessers](eqt-flags-3-to-4-6-percent-nonserious.md) — related
 - [The Uncommon Answers Test identifies slightly more than 2% of real test takers as non-serious versus large fractions of simulated random guessers](uat-flags-slightly-over-2-percent-nonserious.md) — related
+- [OLM-based assessment can detect diverse student strategies that distort measurement, an advantage over conventional paper-and-pencil tests](olm-strategy-detection-advantage.md) — a narrower finding that bears on this claim

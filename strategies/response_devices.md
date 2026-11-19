@@ -67,6 +67,8 @@ Response devices convert passive audiences into active respondents and give inst
 - [Use an anonymous audience response system to activate students who hesitate to answer questions publicly](anonymous-ars-activate-hesitant-students.md)
 - [Replace board-work by a few selected students with device-based submission of all students' problem solutions for whole-class real-time feedback](whole-class-digital-ink-solution-submission-strategy.md)
 - [Use 50/50 and Fill-in-the-Blank interactive lecturing questions with whole-class choral responses for real-time formative feedback](50-50-fill-in-blank-interactive-lecturing.md)
+- [Implement multiple-choice question sequences as clicker questions with individual commitment, peer discussion, and instructor-led whole-class discussion at checkpoints](clicker-mqs-peer-discussion-implementation.md)
+- [Add a peer instruction (think–pair–share) component after the initial clicker poll to build student connection](peer-instruction-after-clicker-poll.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — each question is a retrieval practice opportunity

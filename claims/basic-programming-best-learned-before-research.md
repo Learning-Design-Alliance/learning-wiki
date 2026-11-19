@@ -16,12 +16,14 @@ sources:
     author: Amy Lisa Graves, Adam Light
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Basic programming skill is the clearest example of a skill students should acquire before starting computational physics research
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Amy Lisa Graves, Adam Light. (2020). Hitting the ground running: Computational physics education to prepare students for computational physics research. Originally published 2019. [doi:10.1109/mcse.2019.2963670](https://doi.org/10.1109/mcse.2019.2963670)
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Survey analysis of skill C1 (programming at a hello-world level), reported in the results discussion of Figure 1. The authors state "98% of respondents found it necessary" and that few believed it develops naturally during research; an accompanying figure reports 80% emphasizing prior experience.
 

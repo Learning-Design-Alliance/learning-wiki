@@ -55,4 +55,4 @@ The occultation sequence is based on modelling principles (Halloun & Hestenes, 1
 -
 
 ## Key Sources
-- Rollinde, E. (2019). Enacting Planets to Understand Occultation Phenomena. https://arxiv.org/abs/1910.09403
+- Rollinde, E. (2019). Enacting Planets to Understand Occultation Phenomena. https://arxiv.org/abs/1910.09403. [doi:10.48550/arxiv.1910.09403](https://doi.org/10.48550/arxiv.1910.09403)

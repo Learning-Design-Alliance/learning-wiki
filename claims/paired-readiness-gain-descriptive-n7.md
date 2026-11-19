@@ -53,3 +53,4 @@ Descriptive pre/post comparison in the Customized Co-Creation Layer using six sc
 - [Retrospective pre/post confidence rose on all four course learning objectives with large rank-biserial effects (N=159)](retrospective-confidence-gains-me373.md) — related
 - [Participants in the Essential Searching Skills course showed increased pre-test to post-test confidence and knowledge on skills covered in the course](srss-course-pre-post-knowledge-gains.md) — related
 - [An objective pre/post knowledge quiz showed improvement, but the sample remains too small for formal analysis](objective-knowledge-quiz-improvement-small-sample.md) — related
+- [Co-creation has a strong positive effect on student experience value in higher education (path 0.90, significant at the 5% level).](co-creation-builds-experience-value.md) — related

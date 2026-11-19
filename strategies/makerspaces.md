@@ -72,6 +72,7 @@ Makerspaces enact constructionist claims that learning is deepest when learners 
 - [Provide open-ended, making-focused environments with space to experiment and invent as a route to powerful mathematical discoveries](open-ended-making-environments-math-discoveries.md)
 - [Broaden the design space of educational technologies for makerspaces beyond technical skill support](makerspace-edtech-design-directions-strategy.md)
 - [Wooden-dowel physical model for making the shower front plane tangible](wooden-dowel-shower-front-model-strategy.md)
+- [Split project work into hands-on and digital subgroups so participants follow their own interests](hands-on-digital-subgroup-split.md)
 
 ## Examples
 - **[Maker Ed](https://makered.org)** — supports school and library makerspace programs with guidance on facilitation and equitable implementation.

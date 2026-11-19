@@ -44,6 +44,7 @@ This strategy combines the memo's two implementable moves: at the beginning of t
 - [Mastery Based Retesting](mastery-based-retesting.md)
 - [Require Retakes](require_retakes.md)
 - [Retakes And Revisions](retakes-and-revisions.md)
+- [Require a team contract at semester start to safeguard against group-work failures in ILB projects](team-contract-group-harmonization-strategy.md)
 
 ## Examples
 -

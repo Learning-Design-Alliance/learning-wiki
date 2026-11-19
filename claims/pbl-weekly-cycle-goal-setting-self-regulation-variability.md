@@ -76,3 +76,4 @@ Participant quote from focus groups capturing the tension some students felt bet
 - [Students felt overwhelmed by the course workload and found contact time with lecturers inadequate](students-overwhelmed-workload-inadequate-contact-time.md) — related
 - [Students reported losing focus during PBL and found technology use challenging, making tutor guidance essential](pbl-focus-loss-and-technology-difficulties.md) — related
 - [Anticipated contact with other international students, senior students' recommendations and heavy workload were the main reported motives for joining the course](peer-exam-prep-participation-motives.md) — related
+- [Participants rate course achievability as acceptable (between 4 and 5) and tutor support very positively, though for many the workload is perceived as very heavy](athena-workload-tutor-support-perceptions.md) — related

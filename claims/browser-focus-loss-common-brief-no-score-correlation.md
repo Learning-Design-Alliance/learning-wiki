@@ -67,3 +67,6 @@ Correlational analysis of hidden-browser time versus RBA score. The article repo
 - [Copy events occurred for about 9% of students, roughly half were followed by sustained browser switches consistent with Googling, but copying students' scores were not significantly higher](copy-events-googling-pattern-no-score-benefit.md) — related
 - [Total time to completion of the online RBA showed no significant relationship with scores](online-rba-completion-time-no-score-relationship.md) — related
 - [Phone-use behavior under hidden notifications is highly heterogeneous: about half of NH students abstained entirely, and most NR checks were brief glances](heterogeneous-phone-use-under-hidden-notifications.md) — related
+- [Browser focus data show most distraction events during online RBAs are brief and do not correlate with scores](online-rba-distraction-no-score-impact.md) — possibly the same claim (merge candidate)
+- [Most students taking the RBA online appear to take it seriously, though a small fraction completed it in ten minutes or less](online-rba-time-on-task-buy-in.md) — related
+- [Very few students (less than 1-2%) attempted to save online RBAs, but assessment security concerns grow as solutions become available online](online-rba-security-few-save-attempts.md) — related

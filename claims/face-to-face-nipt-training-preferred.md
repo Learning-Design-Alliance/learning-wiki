@@ -71,3 +71,4 @@ Post-training questionnaire item on e-learning; 287 (82%) respondents viewed an 
 - [Participants unanimously perceived the PBL-VR module as a supplement to, not a replacement for, traditional in-person instruction](participants-perceive-pbl-vr-as-supplement-not-replacement.md) — a broader claim this one bears on
 - [Residents strongly prefer VR as an adjunct to conventional training rather than a replacement (89% support adjunct use; only 3.4% prefer VR alone)](residents-prefer-vr-as-adjunct.md) — a broader claim this one bears on
 - [Students endorsed e-learning as an adjunct to face-to-face DRM teaching (PS +1.12) but disagreed that it should replace F2F sessions (PS −0.36)](e-learning-adjunct-not-replacement-drm.md) — a broader claim this one bears on
+- [Respondents want trusted achievement records to store a diversity of documents, with educational certificates seen as essential](achievement-record-essential-contents.md) — related

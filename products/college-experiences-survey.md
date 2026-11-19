@@ -26,6 +26,7 @@ A survey instrument used in a larger evaluation of college persistence to collec
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **CSEQ-based student experience value instrument (lecture activities, lecture environment, profits)**: The article measures student experience value with an instrument adopted from Indiana University's College Student Experiences Questionnaire. It reports that "There are 3 (three) aspects or dimensions that are measured for the value of student experience adopted from Indiana University's CSEQ (The College Student Experiences Questionnaire), namely lecture activities, lecture environment and profits." The instrument uses fourteen indicators (EV1–EV14) on a seven-category Likert scale and showed a construct reliability of 0.96 and AVE of 0.62 in the confirmatory factor analysis. (Muji Gunarto (2020))
 
 ### Claims
 
@@ -35,8 +36,8 @@ A survey instrument used in a larger evaluation of college persistence to collec
 
 ## Key Sources
 - David DesRoches, John Hall, Betsy Santos. (2009). College Experiences Survey: Methodological Summary. Princeton, NJ: Mathematica Policy Research. https://www.mathematica.org/publications/college-experiences-survey-methodological-summary
-
 <!-- merged 2026-10-10 from elements/college-experiences-survey ("College Experiences Survey"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Muji Gunarto, Ratih Hurriyati. (2020). CREATING EXPERIENCE VALUE TO BUILD STUDENT SATISFACTION IN HIGHER EDUCATION. Dinasti International Journal of Education Management and Social Science, 1(3). https://dinastipub.org/DIJEMSS
 
 # College Experiences Survey
 

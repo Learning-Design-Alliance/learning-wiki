@@ -103,3 +103,5 @@ Course-level comparison of FCI results across years of the Harvard calculus-base
 - [Calculus Concept Inventory questions appear trivial to experts but students in lecture courses score poorly, mirroring the Force Concept Inventory](cci-modeled-after-fci-lecture-students-score-poorly.md) — related
 - [Introductory physics and astronomy students achieve comparable FCI conceptual gains on force concepts, despite differing attitudes](fci-conceptual-gains-comparable.md) — related
 - [Active-learning meta-analyses compare broadly defined active learning with traditional lecture and do not show that named teaching methods are more effective](active-learning-meta-analyses-broad-definition-aggregate.md) — related
+- [The online introductory mechanics course achieved an FCI learning gain of 0.55 (d = 1.3) using matched data in Spring 2019.](iolab-online-mechanics-fci-gain-0-55.md) — related
+- [Students in the reformed active-learning section outperformed students in the traditional lecture section on common exam items, even after removing items flagged as biased toward the reformed section](reformed-section-outperformed-traditional-on-common-exam-items.md) — related

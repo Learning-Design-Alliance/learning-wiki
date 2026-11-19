@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: moderate
 newest_evidence: 2011
+source_checked: 2026-11-18
 recheck_by: 2016
 sources:
   - id: mirofora-pilakouta-2011
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
+> **Currency** · newest study 2011 · checked against its sources 2026-11-18 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` An average of 73% of students reported receiving information about radioactivity from mass media (56% internet, 17% radio-TV), while only 14% indicated school as their source. [→ Mirofora Pilakouta 2011](#mirofora-pilakouta-2011)
@@ -55,3 +56,4 @@ Survey item on main information source about radioactivity among the 131 respond
 - [TV, specialized press, internet and astronomy museums are the most used channels for seeking astronomy information, with internet dominant among students](astronomy-information-sources-tv-internet.md) — related
 - [Radio broadcasts have tremendous penetration among general publics without access to the internet in Latin America and other developing regions](radio-penetration-reaches-audiences-without-internet.md) — related
 - [Internet, TV and school are the main reported sources of radioactivity knowledge, with school peaking in 3rd ESO and the master group](main-information-sources-internet-tv-school.md) — related
+- [Students rely mainly on informal sources for radiation information and show highly positive attitudes toward general-interest seminars](students-informal-sources-seminar-attitudes.md) — possibly the same claim (merge candidate)

@@ -51,3 +51,4 @@ Stated pedagogical goal in the preface of a Master's/PhD lecture manual; the aut
 - [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — a broader claim this one bears on
 - [Sensorimotor action supports learning when it makes concept-relevant relations easier to process](action-helps-when-concept-relevant-relations-easier.md) — related
 - [Lack of mathematical facility hinders conceptual learning in quantum mechanics, and alternative conceptions can induce mathematical errors](math-facility-hinders-quantum-conceptual-learning.md) — related
+- [After taking the quantum computing module, students significantly improved their quantum mechanics and quantum computing concept knowledge](qc-module-improved-qm-qc-concept-knowledge.md) — related

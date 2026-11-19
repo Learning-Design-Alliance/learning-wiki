@@ -48,6 +48,7 @@ The article's forward-looking recommendations address two barriers to cloud-base
 - [Sustain broadband and device access beyond grant funds by inserting permanent upgrade clauses in ISP contracts and adopting 'device as service' procurement models at state scale](sustain-access-isp-clauses-device-as-service.md)
 - [Improve UI consistency and network system before scaling VR classroom use](improve-ui-consistency-vr-classroom.md)
 - [Set clear recording goals, budget for equipment, and plan technical support and consent before classroom video recording](video-recording-planning-goals-support-consent.md)
+- [Include corporate and public cloud components, open-science cloud services and scientific-educational networks in future teachers' training](cloud-services-inclusion-teacher-training-strategy.md)
 
 ## Examples
 -

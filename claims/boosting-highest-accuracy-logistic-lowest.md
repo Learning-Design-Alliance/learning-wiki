@@ -54,3 +54,4 @@ Hyperparameter search results (Fig. 3) comparing four model types: multinomial l
 - [Machine learning models predict MOOC certificate purchasing with accuracies of 0.82–0.91 using only time spent on each course step](ml-predicts-mooc-purchase-time-spent.md) — related
 - [XGBoost and Logistic Regression achieve the highest F1-scores (0.84) among five ML models predicting at-risk status from first-term midterm grades, with all models exceeding AUC 0.91](xgboost-logreg-highest-f1-midterm-risk-prediction.md) — reports the opposite
 - [The βEND model outperforms logistic regression in predicting certificate-rate patterns in the FUN dataset](bend-outperforms-logistic-regression-mooc.md) — related
+- [Gradient boosted trees (xgboost) outperform maximum-likelihood logistic regression at predicting graduating semester by out-of-sample F1-score, except in semesters 15-16](xgboost-outperforms-mle-time-to-graduation.md) — a narrower finding that bears on this claim

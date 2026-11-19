@@ -65,3 +65,4 @@ The essay reports, citing Mayer and Moreno (2003), Guo et al. (2014), and Thomso
 - [Redundancy effect: auditory content redundant to visual material deteriorates learning performance, especially with high complexity](redundancy-effect-two-modalities.md) — related
 - [After the intervention, students rated visual stimuli higher than audio stimuli for DRM factual learning and knowledge retention (PS +1.05 to +1.27 versus +0.77 to +0.83), in one pre-post study with no comparison group](visual-over-audio-stimuli-video-learning.md) — related
 - [Multisensory facilitation of unisensory learning occurs and is more pronounced in the congruent condition](multisensory-facilitation-congruent-condition.md) — a narrower finding that bears on this claim
+- [Visual puzzle-based representation can convey the Hong-Ou-Mandel effect without mathematical formalism](hom-effect-visual-explanation.md) — a narrower finding that bears on this claim

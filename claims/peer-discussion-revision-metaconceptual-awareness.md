@@ -50,3 +50,4 @@ Findings section on republic-related metaconceptual processes: interview exchang
 - [Participants' pre-teaching conceptions of the republic conflated it with democracy or associated it with Atatürk](pre-teaching-republic-alternative-conceptions.md) — related
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — related
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — a broader claim this one bears on
+- [A gallery feedback activity significantly improved participants' course projects](gallery-poster-feedback-improved-projects.md) — related

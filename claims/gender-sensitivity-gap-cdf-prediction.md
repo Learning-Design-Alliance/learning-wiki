@@ -50,3 +50,4 @@ Bootstrap random forest analysis comparing models including and excluding the ge
 - [Downsampling improved minority-outcome sensitivity but was not adopted by the optimized classifier, and upsampling was ineffective](resampling-effects-physics-grade-classifier.md) — related
 - [Low importance of demographic variables in physics grade prediction was not caused by sample imbalance](demographic-variable-importance-not-sample-imbalance.md) — related
 - [An optimized random forest classifier for physics grades used a 50% test-train split, no downsampling, and tuned decision thresholds](optimized-rf-classifier-physics-grades.md) — related
+- [Demographic variables (gender, URM, first-generation, SES) were of low importance in the DFW classification models, and subgroup classification accuracy was approximately equal to the overall model](demographic-variables-low-importance-dfw-models.md) — reports the opposite

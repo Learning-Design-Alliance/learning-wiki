@@ -55,3 +55,6 @@ National undergraduate survey (n = 1,008) listing six potential non-technology c
 - [Personal instructor messages and reflective assignments showed the largest individual associations with online course satisfaction, and personal messages with fewer motivation problems](personal-messages-largest-satisfaction-effect.md) — related
 - [Obligation to attend at a fixed time and place produced higher commitment to face-to-face courses](fixed-time-place-commitment-face-to-face.md) — related
 - [The interactive mirror experiment (42%) and the holograms (38%) were what most motivated students, ahead of other experiments (20%) and stereoscopic images (18%)](holographic-exhibit-most-motivating-elements.md) — related
+- [Making the remote class as similar to the in-person version as possible was the most common challenge instructors reported](instructor-challenges-remote-similarity.md) — related
+- [Students' most common remote-lab challenges were not doing experiments with physical materials and not having a partner/group](student-challenges-remote-lab-materials-partners.md) — related
+- [Student engagement and satisfaction were maintained in the remote kit-based labs: no tuning out was observed and a majority felt the remote labs were equal to in-person labs](remote-kit-labs-engagement-and-satisfaction-maintained.md) — reports the opposite

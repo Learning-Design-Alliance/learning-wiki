@@ -76,3 +76,4 @@ Survey analysis compared the prevalence of motivation as a major problem across 
 - [Student satisfaction with a hybrid chest physiotherapy seminar was similar across face-to-face and remote groups, with 80% satisfied overall](hybrid-seminar-student-satisfaction-similar-80-percent.md) — related
 - [During COVID-19 online medical education, students rated instructors highly responsible but found platform support insufficient, with moderate overall satisfaction](perceptions-instructors-platforms-satisfaction-descriptives.md) — related
 - [Most blended learning participants were satisfied with online materials, but few interacted with other students' online postings](bl-satisfaction-high-online-interaction-low.md) — related
+- [Making the remote class as similar to the in-person version as possible was the most common challenge instructors reported](instructor-challenges-remote-similarity.md) — related

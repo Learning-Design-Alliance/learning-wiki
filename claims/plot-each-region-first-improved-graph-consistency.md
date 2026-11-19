@@ -51,3 +51,4 @@ Quasi-experimental analysis of consistency across all graphed regions among the 
 - [Evaluating the electric field at beginning, mid and end points of each region adversely affected students' graphing performance despite being intended to help](explicit-point-evaluation-scaffold-adverse-effect.md) — related
 - [A majority of introductory physics students drew electric-field graphs inconsistent with their own mathematical expressions in all regions in preliminary research](preliminary-majority-graphs-inconsistent-with-expressions.md) — related
 - [Consistency plots of the two groups were similar and no consistency pattern is necessarily more equitable than another](consistency-plots-no-equity-pattern.md) — related
+- [Without scaffolding, only about a quarter of introductory physics students plot the electric field consistently with their mathematical expressions in all regions](quarter-plot-electric-field-consistently-unscaffolded.md) — related

@@ -56,3 +56,5 @@ Preliminary in-class evaluation: 18 upper-level undergraduates in a first-semest
 - [Upper-level undergraduate and Ph.D. student performance rose from pretest to posttest after the MZI QuILT, with average normalized gain of 0.78, in one single-group pre-post study](quilt-mzi-normalized-gain-0-78.md) — related
 - [Students rated QuILTs highly effective and 10 of 12 preferred completing them in class rather than as homework](quilt-student-survey-effectiveness.md) — related
 - [The DPT QuILT significantly improved pretest-to-posttest performance for both undergraduates and graduate students](quilt-improves-dpt-prepost-scores.md) — related
+- [The DSE QuILT was effective in helping upper-level undergraduate and graduate students develop a more robust understanding of foundational quantum mechanics concepts in the double-slit experiment context](quilt-effective-dse-foundational-concepts.md) — related
+- [Undergraduates taught with research-based learning tools scored significantly higher on the QMFPS than those who were not](research-based-learning-tools-higher-qmfps-scores.md) — related

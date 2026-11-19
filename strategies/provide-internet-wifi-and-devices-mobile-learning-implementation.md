@@ -57,6 +57,7 @@ Based on the technical problems students encountered and the small device count,
 - [Address technical infrastructure and user comfort (Wi-Fi reliability, cybersickness) when implementing holographic simulation education](holopatient-implementation-technical-infrastructure-comfort.md)
 - [Implement mobile learning in high technical institutions by securing free Internet access, device spread, supporting systems, a mixed learning model, and mobile-based methods](mobile-learning-conditions-technical-universities.md)
 - [Transition electromechanics modeling instruction to mobile Internet devices once Xcos on Web implements full Scilab Xcos functionality](transition-modeling-instruction-mobile-devices-xcos-on-web.md)
+- [Treat equity and student access to technology and materials as a primary constraint in remote and hybrid lab course design](equity-first-remote-lab-design.md)
 
 ## Examples
 -

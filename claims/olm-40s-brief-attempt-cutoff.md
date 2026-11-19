@@ -69,3 +69,5 @@ Histogram analysis of log-transformed post-learning attempt durations per module
 - [Bottom-third students followed a corridor of guessing-related states (LS, NS, BSP-B, ASF-B) from module 8 to 10, while top-third students concentrated on normal passing states](bottom-cohort-guessing-corridor-m8-m10.md) — related
 - [A 35-second duration cutoff, estimated via mixture-model fitting of first-attempt durations, separates Brief from Normal attempts](brief-attempt-35-second-cutoff-mixture-model.md) — related
 - [Engagement modes correlated with post-learning passing: the NB mode passed less on modules 1, 2, and 4, and on module 10 the BN and BB modes passed less than the NN mode](engagement-modes-correlate-aal-passing.md) — related
+- [Roughly half of students made few brief first attempts, while 10-15% made brief attempts on all of the first four modules, consistent with a performance-avoidance strategy](brief-attempts-performance-avoidance-strategy.md) — related
+- [The on-ramp module's transfer benefit comes mainly from students who passed it before studying, supporting a reminder mechanism rather than skill development](on-ramp-reminder-mechanism.md) — related

@@ -125,3 +125,4 @@ Undergraduates studying heat and temperature were assigned to physical manipulat
 - [Table-top VSRT interferometer labs give undergraduates hands-on, intuitive understanding of aperture synthesis without Fourier-transform mathematics](vsrt-labs-intuitive-aperture-synthesis-undergraduates.md) — a narrower finding that bears on this claim
 - [Class-set experiment kits enable small-group hands-on experimentation in ordinary science classes](class-set-kits-enable-small-group-hands-on-experiments.md) — a narrower finding that bears on this claim
 - [Undergraduate physics students using a visuo-haptic Coriolis simulation scored 15% higher on a quiz than a reading-and-video group](visuo-haptic-coriolis-15-percent-quiz-gain.md) — related
+- [Students using simulations achieve conceptual understanding similar to students in hands-on labs when both can manipulate variables](simulation-similar-conceptual-understanding-zacharia.md) — related

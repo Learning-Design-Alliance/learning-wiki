@@ -47,3 +47,4 @@ Summarising conclusion reported by the authors in the conclusions section of the
 ## Related Claims
 - [Cocalc Method Significant Competency Gains](cocalc-method-significant-competency-gains.md)
 - [Students entering the experiment showed low informational-technological and subject-pedagogical competency formation alongside sufficient mathematical competencies](cocalc-ascertaining-low-initial-competencies.md) — related
+- [A method of using Microsoft Office 365 (Microsoft Teams) services in adaptive cloud-based teacher training was followed by a statistically significant increase in ICT-competence and student performance](office365-teams-method-ict-competence-increase.md) — related

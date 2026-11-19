@@ -51,3 +51,4 @@ A 2005 UChicago CCSR analysis of 10 years of longitudinal district records acros
 - [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — related
 - [Students on track in ninth grade were four times more likely than off-track peers to graduate high school](ninth-grade-on-track-four-times-graduation.md) — related
 - [Graduation rates rise with freshman credits earned, with a large gap above six credits](credits-earned-freshman-year-graduation-gradient.md) — related
+- [Cumulative credit hours near 120 are the strongest predictor of on-time graduation (semesters 8-10)](cumulative-credit-hours-predict-on-time-graduation.md) — related

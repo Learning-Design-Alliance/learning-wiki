@@ -16,12 +16,14 @@ sources:
     author: Ben Van Dusen and Jayson Nissen
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # LA-supported courses reduced but did not eliminate demographic inequities in DFW rates, so equality of outcomes was not achieved
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Ben Van Dusen and Jayson Nissen. (2020). Associations between learning assistants, passing introductory physics, and equity: A quantitative critical race theory investigation. Physical Review Physics Education Research 16, 010117. https://doi.org/10.1103/PhysRevPhysEducRes.16.010117
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 The equity model's predicted DFW probabilities by demographic group (Table III) showed meaningful differences across groups in both course types. The article reports "25% of FG men of color" versus "12% of CG White women" in LA-supported courses; no standardized effect size was printed.
 

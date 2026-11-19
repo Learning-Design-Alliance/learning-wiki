@@ -53,3 +53,4 @@ Gender-comparison t-tests in the same 618-student cohort. Table 3 prints, for ex
 - [Female students report higher job finding anxiety, AI anxiety, and negative AI attitudes than male students](female-students-higher-ai-and-job-anxiety.md) — reports the opposite
 - [Gender differences in anxiety and satisfaction: female students scored higher on satisfaction (significant only in the intervention group) and male students higher on state anxiety](gender-differences-anxiety-satisfaction-simulation.md) — related
 - [Learning strategies relate to test anxiety: persistence positively, environmental structuring negatively, time management not significantly, and women report higher test anxiety](learning-strategies-test-anxiety-effects.md) — related
+- [Test anxiety was not a significant predictor of assessment scores despite women reporting higher anxiety](test-anxiety-not-significant-predictor.md) — reports the opposite

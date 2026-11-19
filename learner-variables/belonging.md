@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 150 claims (104 show a difference, 33 mixed, 13 no difference) · 107 studies (27 review, 24 associational, 19 causal, 17 qualitative, 9 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 9 of 107 report an effect size · 145 claims rest on one study
+> **Evidence** · 153 claims (107 show a difference, 33 mixed, 13 no difference) · 109 studies (27 review, 25 associational, 19 causal, 18 qualitative, 9 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 9 of 109 report an effect size · 148 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -187,6 +187,9 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Faculty PD workshops typically fall into the prescriptive, individually-focused dissemination category of change efforts, which the authors argue can limit faculty's sense that their experiences matter](../claims/faculty-pd-workshops-prescriptive-dissemination-category.md) [+W] — measured as an outcome of the instruction studied
 - [Being strongly connected early in the laboratory course does not predict later participation](../claims/early-connectedness-not-predict-later-participation.md) [-M] — learners who differ on it differ in outcomes
 - [The 2019 BPDM workshop was followed by increases in participants' sense of identity, belonging, and team community](../claims/bpdm-2019-identity-belonging-team-increase.md) [+M] — measured as an outcome of the instruction studied
+- [Perceived condescension from male professors activated stereotype threat for a woman physics major, reducing her sense of belonging and discouraging her from asking questions](../claims/condescension-stereotype-threat-disengagement.md) [+W] — measured as an outcome of the instruction studied
+- [In one woman's interview account, recognition from a peer teaching assistant and from the students she later taught as a peer teacher improved her sense of belonging and self-efficacy in physics-adjacent courses](../claims/recognition-boosts-belonging-self-efficacy-women-physics.md) [+W] — measured as an outcome of the instruction studied
+- [Sense of belonging is the largest predictor of post-course physics self-efficacy, and belonging uniquely explains substantial variance in self-efficacy](../claims/belonging-largest-predictor-post-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

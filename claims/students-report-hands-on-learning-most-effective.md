@@ -80,3 +80,6 @@ Qualitative synthesis of collaborative small focus groups with approximately 70 
 - [Hands-on activities are the school science activities meeting the highest degree of learner interest](hands-on-activities-highest-science-interest.md) — related
 - [A single Sage worksheet resource can combine theoretical information with interactive examples of its practical application](sage-worksheet-theory-plus-interactive-examples.md) — related
 - [Inquiry-based Real-Time Physics labs promoted peer discussion of physics concepts, but students struggled with troubleshooting and independent investigation](rtp-labs-promoted-peer-concept-discussion.md) — related
+- [Students most frequently preferred the highest-agency Project Lab unit, with freedom the most common stated reason](project-lab-most-preferred-freedom-reason.md) — a narrower finding that bears on this claim
+- [Over 40% of responses to a personal writing prompt connected course content to students' life files](writing-prompt-life-file-connections-over-40-percent.md) — related
+- [Students hold mixed views on whether the project's high degree of freedom facilitates failures such as lack of responsibility](survey-freedom-risk-mixed-perception.md) — related

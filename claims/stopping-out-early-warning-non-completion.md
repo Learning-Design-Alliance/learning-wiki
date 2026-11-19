@@ -56,3 +56,4 @@ Observational analysis of stop-out behavior among CPS graduates in the classes o
 - [A record high 7,368 students from the CPS class of 2018 graduated from college with a degree or certificate](cps-2018-record-college-graduates.md) — related
 - [High drop-out: 54% of the in-person group and 70% of the Lapp group did not complete the training course](lapp-high-drop-out-rates.md) — related
 - [A hurdle mentality of focusing learning elsewhere once a module is assessed is the main barrier to using feedback](hurdle-mentality-feedback-barrier.md) — related
+- [Across its first three editions Athena enrolled on average 70–80 pupils per year, with 80–90% obtaining participation certificates and withdrawal around 15–20%](athena-participation-completion-rates.md) — related

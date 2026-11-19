@@ -47,3 +47,4 @@ Mixture-model fitting (package mixsmsn) of first AC attempt durations aggregated
 
 ## Related Claims
 - [A 40-second cutoff separates Brief (low test-taking effort) from Normal assessment attempts in OLM log data, with under-40s post-learning answers on modules 2 and 6 attributed to quick resubmission rather than guessing](olm-40s-brief-attempt-cutoff.md) — related
+- [Roughly half of students made few brief first attempts, while 10-15% made brief attempts on all of the first four modules, consistent with a performance-avoidance strategy](brief-attempts-performance-avoidance-strategy.md) — related

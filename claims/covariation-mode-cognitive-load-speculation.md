@@ -16,12 +16,14 @@ sources:
     author: Charlotte Zimmerman, Alexis Olsho, Suzanne White Brahmia, Michael Loverude, Andrew Boudreaux, and Trevor Smith
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # The authors speculate physics experts' reasoning modes reduce cognitive load
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Charlotte Zimmerman, Alexis Olsho, Suzanne White Brahmia, Michael Loverude, Andrew Boudreaux, and Trevor Smith. (2020). Towards understanding and characterizing expert covariational reasoning in physics. arXiv:1911.01598v1 [physics.ed-ph]. Originally published 2019. [doi:10.1119/perc.2019.pr.zimmerman](https://doi.org/10.1119/perc.2019.pr.zimmerman)
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Authors' interpretation offered in the results discussion of the interview study; the article presents no independent measure of cognitive load, and the authors explicitly frame this as speculation.
 

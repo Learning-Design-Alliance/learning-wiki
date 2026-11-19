@@ -51,3 +51,4 @@ All database questions were coded on a 4-point depth-of-inquiry scale (inter-rat
 - [The portfolio-principles class produced more high-level explanations and deeper explanations than the other two Knowledge Forum classes](portfolio-principles-deeper-explanations.md) — related
 - [Ninth graders using Knowledge Forum with portfolios and knowledge-building principles showed higher database inquiry participation than the Knowledge Forum-only class](kf-portfolio-principles-higher-atk-inquiry.md) — related
 - [Knowledge-building portfolio scores correlated with database participation, explanation quality, and conceptual understanding](portfolio-scores-correlate-participation-understanding.md) — related
+- [Guided-inquiry students asked more questions than open-inquiry students (227 vs 133 code references)](guided-inquiry-more-questions.md) — related

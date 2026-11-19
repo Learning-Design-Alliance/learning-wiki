@@ -49,4 +49,4 @@ A four-year undergraduate degree combining pure astronomical science with engine
 -
 
 ## Key Sources
-- Guido, R. M. D. (2019). The Progress of Astronomy Program in the Rizal Technological University Philippines. https://www.rtu.edu.ph
+- Guido, R. M. D. (2019). The Progress of Astronomy Program in the Rizal Technological University Philippines. https://www.rtu.edu.ph. [doi:10.48550/arxiv.1911.06656](https://doi.org/10.48550/arxiv.1911.06656)

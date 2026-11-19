@@ -47,3 +47,4 @@ Classroom videos taken three times during the PI semester were reviewed to count
 ## Related Claims
 - [Conceptual survey pre/post gains were highest in the Traditional Lecture semester (0.74) compared with Socratic Dialog (0.62) and Peer Interaction (0.64) in upper-division mechanics](conceptual-survey-gains-highest-traditional-lecture-upper-division-mechanics.md) — related
 - [Differences in pedagogy and testing incentives cannot explain the FCI performance gap between traditional and M&I curricula.](pedagogy-incentives-cannot-explain-fci-gap.md) — related
+- [Clicker polling coincided with increased attendance, after-class questions, and online discussion postings compared with prior course offerings](clickers-anecdotal-engagement-increases.md) — related

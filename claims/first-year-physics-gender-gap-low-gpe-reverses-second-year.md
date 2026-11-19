@@ -54,3 +54,4 @@ Linear models visualized in Figure 4 predicting course grade from GPE as a funct
 - [Female students earn lower grades than equivalently prepared male counterparts in most courses studied (β −0.021 to −0.133; up to 0.303 grade points lower)](gender-gap-upper-level-life-science-courses.md) — related
 - [Sample 1 female students earned somewhat higher course grades than male students despite lower FCI scores](fci-female-course-grades-higher.md) — related
 - [Low-achieving female AP1 students are less likely than male counterparts to progress to AP2, with no significant gender differences for middle and top achievers](low-achieving-female-ap1-attrition.md) — related
+- [Female students had higher high school GPA but lower physics 1 and 2 grades than male students, with small effect sizes](gender-grade-patterns-intro-physics-hs-gpa.md) — related
