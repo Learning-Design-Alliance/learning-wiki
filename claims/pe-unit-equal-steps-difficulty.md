@@ -50,3 +50,4 @@ Definitional statement in the section on the probability curve: the P.E. represe
 - [Question E was answered by all 27 high-school pupils, establishing a zero-difficulty reference 2.191 units below the median](question-e-zero-difficulty-anchor.md) — related
 - [The zero point of the scale is located from the zero-scoring pupils, giving a weighted average distance O-MIII of 1.654 P.E.](zero-location-from-zero-scorers.md) — a narrower finding that bears on this claim
 - [Analytical derivation sets the desirable score distribution to a normal distribution with mean 70 and standard deviation 15 to achieve excellent distinguishability](desirable-score-distribution-mean-70-sd-15.md) — related
+- [Grade-based difficulty index is computed by converting class average to a 5-point scale and subtracting from 5](grade-average-difficulty-index-formula.md) — related

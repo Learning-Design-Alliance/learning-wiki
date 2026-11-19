@@ -49,6 +49,7 @@ The article proposes options to address the equity concern that preparatory acti
 - [Equity-leveling admissions interview with lesson delivery, feedback, and revision](feedback-revision-admissions-interview.md)
 - [Establish parent-staffed Parent Information Centers to equalize access to the choice process](parent-information-centers-for-choice-equity.md)
 - [Adopt longitudinal equity support spanning pre-application through graduation, with multidimensional disadvantage measures](longitudinal-equity-support-medical-education.md)
+- [Involve students in selecting the courses offered at an enrichment camp through a double-blind ranking process](student-involved-course-selection-strategy.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Correlational study at the University of Colorado in a reformed calculus-based c
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — related
 - [A physics course focused on epistemological learning can attain strong conceptual gains comparable to active-engagement reforms](epistemological-focus-preserves-conceptual-gains.md) — related
 - [The reformed modern physics course using simulations extensively showed high conceptual learning gains and no negative belief shift, in contrast to low gains and large negative belief shift in comparable unreformed courses](reformed-course-gains-beliefs.md) — related
+- [Quiz grades in the redesigned course showed no significant correlation with incoming physics preparation measures, in stark contrast to the standard physics 1 course](quiz-grade-independent-of-incoming-preparation.md) — related

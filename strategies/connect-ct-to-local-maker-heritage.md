@@ -51,6 +51,7 @@ The project's guiding hypothesis is that computational thinking should be taught
 - [Makerspaces](makerspaces.md)
 - [Use peer-led, project-based professional development led by teachers in similar contexts](peer-led-project-based-ct-teacher-training.md)
 - [Panel protocol: open with community cultural resources, then moderated discussion connecting community assets to computing education](community-cultural-resources-panel-protocol.md)
+- [Connect dark-sky observation to local cultural heritage and history to deepen engagement](dark-sky-cultural-heritage-connection.md)
 
 ## Examples
 -

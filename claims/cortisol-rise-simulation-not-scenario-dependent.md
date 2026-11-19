@@ -55,3 +55,4 @@ Objective stress measurement in the Lizotte 2017 parallel-group randomised trial
 - [Sympathetic stress parameters parallel self-reported test anxiety, with salivary cortisol rising before both exams](sympathetic-parameters-parallel-self-reported-test-anxiety.md) — related
 - [Stress responses during simulation (salivary cortisol, STAI, cognitive appraisal) do not differ between in situ and off-site settings, though simulation itself raised cortisol and STAI in both](iss-oss-stress-no-difference.md) — related
 - [Perceived stress/overload rises significantly during the resuscitation period compared with periods before and after](stress-overload-peaks-during-resuscitation.md) — related
+- [Stress values stayed below the threshold of 50 throughout the monitored teaching period](stress-below-threshold-50-during-teaching.md) — related

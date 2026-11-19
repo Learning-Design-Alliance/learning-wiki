@@ -67,3 +67,4 @@ A survey of 42 participants from various study programs completed the ten-item S
 - [Despite high overall usability, only 46% of surveyed students reported they would frequently use the Learning Moment website](sus-frequent-use-only-46-percent.md) — related
 - [Students perceived KLM-FA as good to excellent in usability, with a mean SUS score of 82.0](klm-fa-perceived-usability-sus.md) — related
 - [Participants rate course achievability as acceptable (between 4 and 5) and tutor support very positively, though for many the workload is perceived as very heavy](athena-workload-tutor-support-perceptions.md) — related
+- [First-version MR application scores 83.60% on the system usability scale and all participants report its visualizations helpful](mr-application-sus-83-6-visualizations-helpful.md) — related

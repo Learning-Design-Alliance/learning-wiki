@@ -62,3 +62,5 @@ Attitudinal Likert questionnaire (AQ 1 and AQ 4) administered pre and post to 10
 - [School students (N=20) at the public outreach workshop showed strong support for learning Einsteinian physics, with 100% strongly agreeing they wish they could do such experiments at school](pow-students-support-einsteinian-curriculum.md) — related
 - [A sustained five-session outreach programme stimulated self-reported interest in science among 54–64% of sixth-form participants](sustained-outreach-stimulated-interest-science.md) — related
 - [Fast 30% of minor-subject students reported having had no interest in physics before beginning their studies](minor-subject-students-no-physics-interest.md) — related
+- [Both genders showed equal interest and enthusiasm in learning science, with no gender influence observed](equal-gender-interest-lower-primary-science.md) — related
+- [Female students were less confident in their choice of major than male students before participating in informal physics programs, and this difference disappeared after participation](female-confidence-choice-major-gap-closed-by-outreach.md) — related

@@ -61,3 +61,4 @@ Individual interviews with the five facilitators of the SIMMed training cycle. F
 - [Debriefing effects on learning remain highly dependent on the individual instructor even when a structuring cognitive aid is used](debriefing-effects-dependent-on-instructor.md) — related
 - [Instructors identified debriefing as critical to training success but felt anxious about their debriefing expertise, especially across hierarchies](instructor-debriefing-anxiety-hierarchy.md) — related
 - [Trainees accept Peyton's approach well: Peyton-group students felt they learned more and control-group women preferred the Peyton group](peyton-approach-acceptance-evaluation.md) — related
+- [Facilitator authenticity and credibility are extremely important for students to trust and benefit from social-psychological activities](facilitator-authenticity-credibility-intervention.md) — related

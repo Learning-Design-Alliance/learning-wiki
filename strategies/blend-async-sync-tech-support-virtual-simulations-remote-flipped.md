@@ -63,6 +63,7 @@ The article recommends that institutions delivering remote education mix asynchr
 - [Couple a flipped-classroom didactic rotation with a practice-based FMEA project and ongoing incident learning participation](flipped-didactic-plus-fmea-project-strategy.md)
 - [Use a blended e-learning plus face-to-face approach as a cost-effective way to deliver continuing medical education to clinicians](blended-elearning-facetoface-cost-effective-cme.md)
 - [Deliver the remote lab course through asynchronous Slack lectures plus Zoom Q&A sessions with individual student interviews](slack-zoom-remote-lab-course-delivery.md)
+- [Provide remote students with sample data, video lecture, and virtual walkthrough when in-person access is impossible](remote-lab-sample-data-substitute-strategy.md)
 
 ## Examples
 -

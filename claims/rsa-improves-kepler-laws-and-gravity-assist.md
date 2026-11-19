@@ -90,3 +90,5 @@ Item on how space probes travel (Figure 8). Before the activity 55% answered inc
 - [In a 10-student graduate class, 70% of students repeated the qualitative 'equal areas equal times' answer on a post-test three weeks after the historical-method instruction](post-test-70-percent-repeat-qualitative-answer.md) — related
 - [The RSA activity raises correct understanding of space-time and its deformation, with most students shifting to 'any mass' as the cause of deformation](rsa-improves-spacetime-deformation-answers.md) — related
 - [The RSA activity reduces the misconception that gravity points downward, but does not fully solve the misconception that only big masses deform space-time](rsa-reduces-downward-gravity-misconception-not-big-mass.md) — related
+- [Readers of the manual rated it highly and most planned to realize the activities, preferring Kepler's laws and black holes](manual-reader-questionnaire-ratings.md) — related
+- [The RSA activity helps high school students visualize, comprehend and remember Newtonian gravity and GR topics better than a traditional treatment](rsa-activity-improves-gravity-comprehension.md) — a broader claim this one bears on

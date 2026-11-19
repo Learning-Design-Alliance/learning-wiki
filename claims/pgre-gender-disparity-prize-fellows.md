@@ -48,3 +48,4 @@ Survey of 149 respondents with reported PGRE scores (75 male, 53 female, 21 othe
 - [A 60th-percentile PGRE cutoff would have eliminated 43.6% of prize fellows overall and 60.4% of female fellows](pgre-cutoff-eliminates-fellows-disproportionately-women.md) — related
 - [Prize postdoctoral fellows in astronomy report Physics GRE scores spanning the full percentile range, with about 30% below the 50th percentile](prize-fellows-pgre-scores-span-full-range.md) — a broader claim this one bears on
 - [PGRE score shows no statistically significant correlation with first-author papers published during or exiting graduate school among prize fellows](pgre-no-correlation-graduate-publications.md) — related
+- [Males tended to score higher on the physics GRE rubric construct while females tended to score higher on community contributions and diversity contributions](rubric-sex-differences-three-constructs.md) — related

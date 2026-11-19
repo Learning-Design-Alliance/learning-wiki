@@ -48,3 +48,4 @@ IRT model fits (ltm package in R) to quiz responses from the four item banks, wi
 - [Student ability distribution lies far to the right of easy-item difficulty, so item design must give even the best students difficult items on their personalized scale](ability-distribution-right-of-item-difficulty.md) — related
 - [Classical IRT models without learning terms do not fit tutor-web drill data; a logistic model with numseen and attempt terms is needed](irt-models-fail-learning-environment-fitted-logistic-model.md) — related
 - [ExamGAN can reveal when an exam question bank needs updating: on assistments1213 it was hard to generate scripts with difficulty above 0.5](examgan-question-bank-update-verification.md) — related
+- [Item difficulty in classroom tests is skewed towards easy items, with nearly 15% of items having over 90% of students answering correctly, yet this does not degrade psychometric functionality.](classroom-mct-item-difficulty-skew.md) — related

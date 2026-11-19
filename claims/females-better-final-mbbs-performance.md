@@ -55,3 +55,4 @@ Chi-square comparison of final MBBS results categories (second-class upper divis
 - [Female medical laboratory sciences students earn significantly higher average final grades than male students in the same courses](female-medical-lab-sciences-students-higher-grades.md) — related
 - [Age and gender significantly predict M1 grade, with better grades for male and younger medical students](age-gender-predict-m1-grade.md) — related
 - [The same student cohorts show no statistically significant gender gap in end-of-course examination performance](no-exam-gender-gap-same-cohorts.md) — reports the opposite
+- [Female students outperformed males at Activity 1 but underperformed in semester 2 activities](gender-grade-pattern-flips-across-semesters.md) — related

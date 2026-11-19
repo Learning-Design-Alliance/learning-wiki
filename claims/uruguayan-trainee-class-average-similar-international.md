@@ -51,3 +51,4 @@ Comparison of the article's own teacher-training sample with published CLASS ave
 - [Uruguayan physics teachers show higher expert agreement on CLASS than teacher-training students, with less dispersion across categories](uruguayan-physics-teachers-higher-class-expert-agreement-than-trainees.md) — related
 - [No significant difference between Uruguayan teachers and teacher-training students in Confidence in problem solving](no-teacher-trainee-difference-problem-solving-confidence.md) — related
 - [Largest teacher–trainee CLASS gaps fall in Applied conceptual understanding and Sophistication in problem solving, while top-agreement categories coincide](largest-teacher-trainee-class-gaps-acu-pss.md) — related
+- [First-year life-science students enter university with epistemological attitudes about science farther from expert agreement than physical-science students, despite similar high-school physics training](life-sciences-students-class-expert-gap.md) — related

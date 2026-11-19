@@ -1,0 +1,31 @@
+---
+type: product
+id: hsfiris-hep-training-curriculum
+title: HSF/IRIS-HEP training curriculum
+description: An open-source modular software-training curriculum created by the HEP Software Foundation and IRIS-HEP for particle-physics newcomers and scientists needing skills in scientific computing and software engineering.
+product_kind: curriculum
+status: review
+generated:
+  by: "process:settle-candidates"
+  at: 2026-11-19
+---
+
+# HSF/IRIS-HEP training curriculum
+
+> **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
+
+## Description
+An open-source modular software-training curriculum created by the HEP Software Foundation and IRIS-HEP for particle-physics newcomers and scientists needing skills in scientific computing and software engineering.
+
+## Components
+<!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Independent open-source training modules as a curriculum architecture for software training**: The HSF/IRIS-HEP training curriculum consists of independent modules so that "students should be able to prioritize certain skills before others", reflecting that learners often must jump-start directly towards scientific results with minimal time for acquiring software knowledge or best practices. The module spectrum runs from a basic skill set (Unix, Shell, Python, Git) for newcomers, through software engineering topics such as Continuous Integration and HEP-specific data analysis, to advanced topics like Parallel Programming and Machine Learning. All modules are open-source, which the authors tie to their view of Open Science. (Michel H. Villanueva et al. (2022))
+
+### Claims
+
+## Related Products and Programmes
+-
+
+## Key Sources
+- Michel H. Villanueva, Sudhir Malik, Meirin Oan Evans. (2022). Software Training in High Energy Physics. https://arxiv.org/abs/2203.04775

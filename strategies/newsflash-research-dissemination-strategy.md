@@ -44,6 +44,7 @@ The guide recommends the newsflash as a dissemination vehicle: "A successful new
 - [Disseminate research to practitioners through knowledge brokers and accessible formats such as short videos and social media threads](disseminate-via-knowledge-brokers.md)
 - [Dissemination planning and accurate, accessible data visualization](dissemination-plan-and-visualization-tips.md)
 - [Disseminate evidence on effective peer tutoring types to practitioners in further and higher education](disseminate-effective-peer-tutoring-types.md)
+- [Disseminate MGI education and research capabilities through scientific societies and electronic media to enable inclusive participation](society-electronic-media-dissemination-strategy.md)
 
 ## Examples
 -

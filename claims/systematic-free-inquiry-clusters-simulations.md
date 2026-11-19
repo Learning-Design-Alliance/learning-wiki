@@ -54,3 +54,4 @@ Cluster analysis (variable, relationship, and focus paradigms) of log data from 
 - [Systematic inquiry behavior is associated with gaining quantitative understanding of simulation variables, while free exploration is associated with only qualitative understanding](systematic-strategy-quantitative-understanding.md) — related
 - [The choice of normalization technique influences clustering outcomes, so multiple normalization approaches should be tested in cluster analysis](normalization-choice-influences-clustering-outcomes.md) — related
 - [Ordered, mostly same-group clusters show qualitatively similar but steeper simulated gains than random clusters](ordered-clusters-larger-simulated-gains.md) — related
+- [A larger percentage of remote courses with concept-focused learning goals used PhET simulations (47.5%) than courses focused on lab skills (20.5%)](phet-use-higher-concept-focused-courses.md) — related

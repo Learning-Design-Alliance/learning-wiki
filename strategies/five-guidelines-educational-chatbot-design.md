@@ -41,6 +41,7 @@ Drawing on their interaction-pathway findings, the authors recommend that future
 - [Design hybrid instructional chatbot systems that balance breadth and depth via multi-agent architectures or adaptive interaction modes](hybrid-instructional-chatbot-design-strategy.md)
 - [Design chatbots for differentiated engagement across proficiency levels, beyond simple error correction](differentiated-chatbot-design-beyond-error-correction.md)
 - [Chatbot support should reinforce that learning ability develops through effort, strategy use, feedback, and reflection](chatbot-support-reinforces-effort-and-strategy.md)
+- [Deliver writing-assignment feedback via a conversational chatbot to emulate mentoring at scale](chatbot-conversational-mentoring-strategy.md)
 
 ## Examples
 -

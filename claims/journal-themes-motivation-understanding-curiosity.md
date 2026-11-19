@@ -47,3 +47,4 @@ Content analysis of reflective student journals kept by experimental-group parti
 ## Related Claims
 - [Gamification-supported teaching has a substantive effect on pre-service teachers' concept images of curriculum elements, with large effect sizes for content (d = 1.59) and total score (d = 2.04)](gamification-effect-concept-images-curriculum-elements.md) — related
 - [Focus group interviews identify motivation (fun, attractiveness, clarity) and knowledge transfer (real life, speaking) as student themes about UbD](ubd-student-views-motivation-knowledge-transfer.md) — related
+- [Real-time image display on portable devices maintained student interest and public excitement](real-time-images-engagement.md) — related

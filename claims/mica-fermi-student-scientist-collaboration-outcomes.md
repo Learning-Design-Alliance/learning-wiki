@@ -49,3 +49,4 @@ Educational outcomes section of this case report of a spring 2014 MICA advanced 
 - [The collaboration revealed that some art students held a misconception of science as a body of knowledge rather than a process](students-science-as-process-misconception.md) — related
 - [Working with statistically messy authentic data in citizen science gave middle school students a window into scientists' world and intense experience with scientific reasoning](messy-radon-data-window-into-scientists-world.md) — related
 - [Surveys and interviews show little evidence that art students affected the actual scientific research, though the collaboration pushed scientists to clarify their communication to non-specialists](astro-animation-little-art-impact-on-research-scientists-clarify.md) — related
+- [Animation students reported the class as an effective way to learn science and to connect their art practice with astronomy](astro-animation-student-science-learning.md) — related

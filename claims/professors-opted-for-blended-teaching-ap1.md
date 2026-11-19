@@ -48,3 +48,4 @@ Ex ante questionnaire AP1 sent to all professors in June 2020, receiving n = 68 
 - [Only 18% of the 1011 students chose to follow lectures exclusively online in the binding ex ante survey AS2](eighteen-percent-students-chose-exclusively-online-as2.md) — related
 - [Students expressed a clear preference for traditional blackboard lectures and most did not want to attend lectures only online (AS1)](students-preferred-blackboard-lectures-not-online-only-as1.md) — related
 - [Most nurses are willing to attend frailty training and prefer blended online-offline formats, short sessions, and practice-oriented content](nurses-frailty-training-preferences.md) — related
+- [The GeCAA online-participation model was adopted by the IOAA, which approved online participation as a regular feature of all future editions](gecaa-model-adopted-ioaa-online-rules.md) — related

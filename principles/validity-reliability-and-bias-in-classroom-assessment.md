@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 480 claims (244 for, 208 mixed, 28 against) · 362 studies (113 associational, 89 design, 63 causal, 48 review, 30 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 33 of 362 report an effect size · 472 claims rest on one study
+> **Evidence** · 484 claims (247 for, 209 mixed, 28 against) · 364 studies (115 associational, 89 design, 63 causal, 48 review, 30 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 33 of 364 report an effect size · 476 claims rest on one study
 
 ## Conditional relationship
 
@@ -324,6 +324,10 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Students may make real-world physics connections without valuing or labeling them as physics, adding complexity to interpreting attitude measures](../claims/connections-without-labeling-as-physics.md) [+W] — attached 2026-11-18 from Abhilash Nair et al. (2018), which proposed "Measures of students' connections between physics and the real world should be nuanced or expanded to reflect students' rich disciplinary experiences".
 - [A mastery-based grading rubric produces consistent scores when used by untrained graders, with Cohen's kappa of 0.95](../claims/ccmi-grading-rubric-untrained-grader-reliability.md) [+W] — attached 2026-11-18 from Leanne Doughty et al. (2014), which proposed "Separate the scoring and difficulty-diagnosis roles of open-ended assessment into two distinct rubrics"; tests this page's relationship.
 - [Raters using the rubric agree on at least 80% of grading decisions, with consistent reliability across about 200 students](../claims/rubric-inter-rater-reliability-above-80-percent.md) [+W] — attached 2026-11-19 from A. Mason et al. (2007), which proposed "Keep general rubric subcategories fixed across problems and change only the problem-specific criteria"; tests this page's relationship.
+- [The percent grade scale amplifies the racial/ethnic grade gap by over 30% beyond the 4-point-scale base level.](../claims/percent-scale-amplifies-grade-gap.md) [+W] — attached 2026-11-19 from Cassandra A. Paul et al. (2022), which proposed "Switching from percent-scale grading to a 4-point grade scale (or similar) could reduce equity gaps by 20-25% without any other course changes."; tests this page's relationship.
+- [Low F-grades on exam problems are the primary source of the percent-scale-dependent extra grade penalty for underrepresented students.](../claims/low-f-grades-source-of-extra-penalty.md) [+W] — attached 2026-11-19 from Cassandra A. Paul et al. (2022), which proposed "Switching from percent-scale grading to a 4-point grade scale (or similar) could reduce equity gaps by 20-25% without any other course changes."; tests this page's relationship.
+- [Students from underrepresented groups are 83% more likely than their peers to be shifted from a passing grade under 4-point grading to a failing grade under percent grading.](../claims/urm-disproportionate-failing-under-percent.md) [+W] — attached 2026-11-19 from Cassandra A. Paul et al. (2022), which proposed "Switching from percent-scale grading to a 4-point grade scale (or similar) could reduce equity gaps by 20-25% without any other course changes."; tests this page's relationship.
+- [Classroom multiple-choice tests average 62 items with a mean test score of 65% and a length-adjusted reliability of 0.77, establishing a baseline for as-deployed classroom MCT psychometrics.](../claims/classroom-mct-baseline-psychometrics.md) [~W] — attached 2026-11-19 from Slepkov et al. (2020), which proposed "Use item-excluded correlations and length-normalized reliability, with empirically updated category ranges, when assessing classroom multiple-choice test quality.".
 
 ## Objective and learner-valued goal
 

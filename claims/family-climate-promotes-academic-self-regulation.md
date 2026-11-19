@@ -49,3 +49,4 @@ In the four-wave cross-lag model, family climate predicted ASR increases in all 
 - [Family climate and school attachment exert reciprocal positive influences on each other over the middle school years](family-climate-school-attachment-reciprocal-influences.md) — related
 - [School attachment unidirectionally predicts increases in academic self-regulation over the middle school years](school-attachment-promotes-academic-self-regulation.md) — related
 - [Academic self-regulation in 8th grade robustly predicts both GPA and school adjustment in 9th grade](asr-predicts-gpa-and-school-adjustment.md) — related
+- [Reciprocal collaborative ties bring higher performance returns in elementary education, while unidirectional ties are negatively related to grades](reciprocal-ties-higher-performance-elementary.md) — related

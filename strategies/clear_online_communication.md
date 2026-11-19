@@ -67,6 +67,7 @@ Ambiguity about where and when to communicate imposes extraneous load and erodes
 - [Offer a private messaging function inside asynchronous online courses to support community formation and interactivity](private-messaging-within-asynchronous-courses.md)
 - [Add tutor interaction channels (virtual forum and optional in-person sessions) and strengthen statistical explanations in online critical appraisal courses](tutor-forum-and-statistics-support-strategy.md)
 - [Make student process visible in online science courses through discussion forums and process-sharing assignments](process-visibility-discussion-forums-strategy.md)
+- [Establish TA-instructor and TA-student communication channels at the start of the semester](ta-semester-start-communication-strategy.md)
 
 ## Examples
 - **Piazza** (https://piazza.com) — Q&A platform built for courses; students can post anonymously, peers answer first, and instructors endorse correct answers, scaling responsiveness in large enrollments.

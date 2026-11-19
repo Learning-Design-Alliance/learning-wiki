@@ -94,3 +94,4 @@ Under the effort-outcome alignment theme, students reported disconnects between 
 - [Instructors identified clarity of verbal instruction, loss of non-verbal cues and student motivation as key moderators of virtual skills teaching](instructor-themes-clarity-motivation-virtual-teaching.md) — related
 - [Adequate preparation, including setting clear expectations, priming the learner, and seeking patient permission, is crucial to successful clinical teaching (Level 2b, Grade B)](preparation-crucial-clinical-teaching.md) — related
 - [In the 2016 course evaluation, most students reported clear grade attainability and perceived learning benefits, while 45% reported increased stress from frequent checks](achievement-system-student-feedback-2016.md) — related
+- [Students preferred frequent, low-stakes assessments in online courses, citing feedback, low anxiety, and flexibility](frequent-low-stakes-assessments-preferred.md) — related

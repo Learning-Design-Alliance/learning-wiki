@@ -50,3 +50,4 @@ Correlation analysis across the five evaluation criteria (ET, AC, EO, TT, TR) co
 - [The VR camera navigation test shows high internal consistency (Cronbach's α = 0.88) and test–retest reliability (r = 0.84)](camera-navigation-test-high-reliability.md) — related
 - [Pairwise sub-score correlations across physical, 2D, and VR modalities provide evidence of convergent validity for bellringer testing](convergent-validity-across-br-modalities.md) — related
 - [The AIxSuture dataset shows strong inter-rater agreement (average pairwise Pearson correlation of 0.8) with systematic individual rater biases](open-suturing-rater-agreement-and-bias.md) — related
+- [In RUI VR, mean Ramp-Up performance correlates significantly with subsequent improvement for completion time and rotation accuracy but not for position accuracy](ramp-up-performance-correlates-with-improvement.md) — related

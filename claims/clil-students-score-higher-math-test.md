@@ -53,3 +53,4 @@ Quasi-experimental comparison of a CLIL group (11 students) and a control group 
 - [CLIL applications helped an initially disadvantaged experimental group become statistically similar to the control group in English test scores](clil-experimental-group-levels-with-control-posttest.md) — related
 - [CLIL instruction significantly improved aviation English posttest performance compared to traditional instruction](clil-improved-aviation-english-posttest-performance.md) — related
 - [CLIL students scored high marks on teacher continuous assessment integrating language and mathematics elements](clil-teacher-continuous-assessment-high-marks.md) — related
+- [A pilot AR application for plotting quadratic equations was viewed by students as enhancing the teaching-learning process](ar-quadratic-pilot-positive-reaction.md) — related

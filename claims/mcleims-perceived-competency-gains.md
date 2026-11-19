@@ -66,3 +66,4 @@ Multiple-response competency item completed by the 107 questionnaire respondents
 - [Training improves self-rated empathy alongside other communication skills items](cst-empathy-item-improvement.md) — related
 - [Health students and professionals perceive communication skill development as the standout gain from clinical simulation with dramatization](communication-standout-gain-dramatization-simulation.md) — related
 - [Both ISS and OSS participants reported improved interprofessional communication, collaboration and teamwork skills and new understanding of other team members' roles](iss-oss-improve-teamwork-and-role-understanding.md) — related
+- [Post-course, NE290 students reported gains toward the ethical-responsibility and new-knowledge ABET outcomes but rated the teamwork outcome lowest](ne290-abet-outcomes-survey-results.md) — related

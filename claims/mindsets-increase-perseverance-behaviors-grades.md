@@ -79,3 +79,4 @@ Review synthesis in Chapter 2 of psychological evidence on mindsets. The review 
 - [Students' fixed mindsets in math positively predict test anxiety and negatively predict self-efficacy, persistence and achievement](student-fixed-mindset-predicts-math-motivation-outcomes.md) — a narrower finding that bears on this claim
 - [Basic psychological needs positively predict college students' academic self-efficacy](bpn-predict-academic-self-efficacy.md) — related
 - [K-12 report card grades are multidimensional measures of cognitive and noncognitive factors, not solely achievement](grades-multidimensional-cognitive-noncognitive-factors.md) — related
+- [Short classroom activities at the beginning of a course can improve students' sense of belonging and intelligence mindset, especially for those who need it most](short-start-of-course-activities-improve-belonging-mindset.md) — a narrower finding that bears on this claim

@@ -47,4 +47,4 @@ The modeling platform is Microsoft Excel (or compatible spreadsheet programs), c
 -
 
 ## Key Sources
-- Nelson, P. H. (2021). Introductory models of COVID-19 in the United States. Department of Physics, Fisk University. https://scholar.google.com/scholar?q=Introductory+models+of+COVID-19+in+the+United+States
+- Nelson, P. H. (2021). Introductory models of COVID-19 in the United States. Department of Physics, Fisk University. https://scholar.google.com/scholar?q=Introductory+models+of+COVID-19+in+the+United+States. [doi:10.35459/tbp.2021.000200](https://doi.org/10.35459/tbp.2021.000200)

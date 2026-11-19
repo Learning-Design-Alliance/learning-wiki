@@ -49,6 +49,7 @@ The article's PR recitation format had randomly generated teams of three to six 
 ## Related Strategies
 
 - [American Idol style recitation competition in which student teams select and defend the best homework solution and a TA/UTA panel critiques finalist solutions](american-idol-recitation-competition-strategy.md)
+- [Run a half-recitation social-psychological activity combining concern writing, peer quotes, small-group discussion, and a letter to a future student](half-recitation-social-psychological-activity-recipe.md)
 
 ## Examples
 -

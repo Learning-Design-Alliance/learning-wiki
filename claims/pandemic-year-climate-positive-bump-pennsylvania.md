@@ -55,3 +55,4 @@ Analysis of PDE school climate survey scores from a pre-pandemic year (2018/19) 
 - [Students reported stronger relationships with teachers and peers during the remote/hybrid year, especially high school students, but these gains did not persist after returning in person](stronger-teacher-peer-relationships-remote-year.md) — related
 - [Students' perceptions of their classes and schools matter more for attendance in post-pandemic years than before the pandemic](student-perceptions-attendance-post-pandemic.md) — related
 - Local leaders supported student learning in similar and different ways across in-person, hybrid, and remote instructional modalities — related
+- [Some learners found aspects of remote and hybrid instruction during the COVID-19 pandemic more inclusive and accessible than traditional in-person modes](remote-hybrid-more-accessible-some-learners.md) — related

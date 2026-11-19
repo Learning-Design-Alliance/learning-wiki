@@ -48,3 +48,4 @@ Post-camp follow-up evidence reported in the Highlights of Outcomes section, bas
 ## Related Claims
 - [AstroCamp selected 118 students (67 girls, 51 boys) from 14 countries across its first 9 editions](astrocamp-118-students-2012-2020.md) — related
 - [Work from AstroCamp computational projects has been included in several peer-reviewed publications](astrocamp-projects-in-peer-reviewed-publications.md) — related
+- [Camp students follow relativity conceptual aspects well while difficulties pertain mainly to their mathematical background](astrocamp-students-concepts-ok-math-gap.md) — related

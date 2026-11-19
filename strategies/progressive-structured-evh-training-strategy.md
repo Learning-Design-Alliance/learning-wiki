@@ -49,6 +49,7 @@ The review recommends a procedure-based progressive surgical skills curriculum t
 - [Progressively integrate haptic simulators from basic skills to complex surgical tasks across the curriculum](progressive-haptic-simulator-curricular-integration.md)
 - [Staged supervised introduction for surgeons learning LASPME: experienced-center observation, cadaver course, then supervised performance with periodic video review](staged-supervised-laspme-adoption-pathway.md)
 - [Incorporate stepwise, low-fidelity simulation training and assessment early in ophthalmology residency, with safe transition to live surgical teaching](stepwise-low-fidelity-simulation-early-residency-strategy.md)
+- [Structure astronomy training around progressive hands-on telescope operation with decreasing supervision](progressive-telescope-operation-training.md)
 
 ## Examples
 -

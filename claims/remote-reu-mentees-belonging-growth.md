@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-11-19
 sources:
   - id: dina-zohrabi-alaee-2021
     resource: "https://doi.org/10.48550/arXiv.2108.07620"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` By interview nine, almost all mentees reported a higher-level sense of belonging to their lab community than they felt at the start of the remote REU program. [→ Dina Zohrabi Alaee 2021](#dina-zohrabi-alaee-2021)

@@ -75,3 +75,4 @@ Review synthesis of the unaltered-performance category; negative correlations ar
 - [Salivary cortisol fold increase was significantly higher after high-fidelity simulation (1.46) than after procedural simulation (1.22)](cortisol-fold-increase-higher-hf-than-ps.md) — related
 - [A five-person audience significantly increases trainee heart rate over baseline during simulated neonatal intubation](audience-increases-trainee-heart-rate.md) — related
 - [Sympathetic stress parameters parallel self-reported test anxiety, with salivary cortisol rising before both exams](sympathetic-parameters-parallel-self-reported-test-anxiety.md) — related
+- [Stress values stayed below the threshold of 50 throughout the monitored teaching period](stress-below-threshold-50-during-teaching.md) — related

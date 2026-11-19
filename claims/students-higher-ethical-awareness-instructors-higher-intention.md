@@ -57,3 +57,4 @@ Questionnaire study of students (n = 226) and instructors (n = 256) in European 
 - [Teachers' attitudes toward GenAI tools significantly predict their behavioural intention to integrate them](attitude-predicts-intention-genai.md) — related
 - [Social norms, peer behaviors, family attitudes, insufficient sanctions, teacher attitude, high expectations, and adverse conditions positively predict AI-assisted dishonesty, while ethical and moral education negatively predicts it](social-contextual-predictors-ai-assisted-dishonesty.md) — related
 - [Students express willingness to integrate GenAI in learning and future careers, and willingness correlates with knowledge and frequency of use](students-willing-to-use-genai-correlates.md) — related
+- [Post-course, NE290 students reported gains toward the ethical-responsibility and new-knowledge ABET outcomes but rated the teamwork outcome lowest](ne290-abet-outcomes-survey-results.md) — related

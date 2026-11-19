@@ -55,6 +55,7 @@ The learning design places an individually-oriented VR medium inside a three-par
 
 - [Design VR lessons with structured pre-, during-, and post-experience tasks](structured-pre-during-post-vr-tasks.md)
 - [Design lessons around all four ELT stages and ask application-oriented reflection questions](elt-four-stage-lesson-design-strategy.md)
+- [Deploy VR lab activities through a buddy system and reserve time for unscripted exploration](vr-buddy-system-and-unscripted-exploration-strategy.md)
 
 ## Examples
 -

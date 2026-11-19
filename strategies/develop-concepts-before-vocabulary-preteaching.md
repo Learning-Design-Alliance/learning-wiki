@@ -40,6 +40,7 @@ The brief recommends that teachers stop frontloading vocabulary and instead let 
 
 - [Front Loading Vocabulary](front-loading-vocabulary.md)
 - [Frayer Model](frayer-model.md)
+- [Frontload experimentation and data analysis with real or virtual optical experiments before introducing mathematical formalism](experiments-before-mathematics-quantum-course-strategy.md)
 
 ## Examples
 -

@@ -46,3 +46,4 @@ Comparison of calculus course data: 2012 old system (fixed taper of length 8, no
 
 ## Related Claims
 - [The tutor-web grade strongly predicts the probability of passing the final exam, with the same pattern across status-exam performance strata](tutor-web-grade-predicts-final-exam-passing.md) — related
+- [Tutor-web drill-mode final exam produced strong grade outcomes for students who took it](tutor-web-drill-mode-final-exam-outcomes.md) — related

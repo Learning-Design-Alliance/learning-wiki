@@ -50,3 +50,4 @@ The authors describe their outreach program as presented in settings including V
 - [An LLM debugging assistant correctly interprets brief, informal natural-language prompts describing circuits](llm-handles-natural-language-circuit-prompts.md) — related
 - [LLM factual errors during collaborative circuit debugging occurred almost exclusively after image inputs, attributed to limited 3D spatial reasoning from breadboard or PCB photos](llm-factual-errors-after-image-inputs-3d-reasoning.md) — related
 - [A rigorous quantum information formalism exists that requires only basic arithmetic, enabling math-light Quantum 101 courses without sacrificing rigor](arithmetic-only-qis-formalism.md) — related
+- [Hands-on QIST approaches are associated with deeper understanding and more rapid uptake of quantum concepts, based on self-reported skill gains at a 2020 remote global summer school](hands-on-qist-self-reported-skill-gains-summer-school.md) — related

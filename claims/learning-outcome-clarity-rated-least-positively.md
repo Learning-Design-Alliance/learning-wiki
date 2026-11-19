@@ -51,3 +51,4 @@ Descriptive survey of the Winter Term 2014/15 course participants. Both sub-samp
 - [More than 90% of participating second-year medical students endorsed each objective on the post-simulation Likert survey](pidd-simulation-likert-90-percent-endorsement.md) — related
 - [No indication of systematic differences between medical and nursing students in their perceptions of the inter-professional course, apart from slightly divergent judgements on some aspects](no-systematic-group-differences-perceptions.md) — a broader claim this one bears on
 - [A small survey of users judged the system's semantic and Bloom similarity results useful for deciding between real learning objectives](lo-similarity-user-survey-usefulness.md) — related
+- [95% of surveyed students agreed the module's technical ILOs were met, while project-planning ILOs needed further attention](tdps-ilo-attainment-survey.md) — related

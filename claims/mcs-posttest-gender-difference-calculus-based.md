@@ -55,3 +55,4 @@ ANOVA of MCS post-test scores in eight regular calculus-based classes (403 males
 - [Conceptual survey posttest scores correlate moderately with final exam scores in introductory physics](conceptual-survey-final-exam-moderate-correlation.md) — related
 - [Gendered performance differences appear under instructors of both genders, with fewer significant differences observed for female instructors](instructor-gender-fewer-differences-female-instructors.md) — a broader claim this one bears on
 - [Male students rated their performance perception significantly higher than female students in three of four courses, but rated it equal in algebra-based mechanics](performance-perception-male-higher-three-courses.md) — related
+- [The gender gap in scores between female and male students is significantly reduced on a student-created problem assessment compared to traditional exams](problem-project-reduces-gender-score-gap.md) — related

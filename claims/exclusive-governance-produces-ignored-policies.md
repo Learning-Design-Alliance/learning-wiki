@@ -55,3 +55,4 @@ Focus group finding: faculty and frontline staff were often only vaguely aware o
 - [Government regulations and policy incentives are crucial external enablers of institutional AI adoption readiness](government-regulation-external-enabler-ai-adoption.md) — related
 - [Empowering and distributive leadership styles are associated with greater faculty engagement and willingness to adopt AI in higher education, per the reviewed studies](empowering-distributive-leadership-ai-adoption.md) — related
 - [Libraries with formal shared decision-making report better alignment and more proactive resource management than libraries excluded from governance](shared-governance-linked-to-proactive-library-management.md) — related
+- [Students are typically excluded from LMS implementation decision-making despite being major stakeholders](students-excluded-lms-decision-making.md) — a narrower finding that bears on this claim

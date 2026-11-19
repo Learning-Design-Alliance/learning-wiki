@@ -78,6 +78,7 @@ The review's forward-looking recommendations for VS teaching design: future devi
 - [Adapt GOSCE case scenarios to the specific sensory, cultural, and individual challenges of the target recruitment population](gosce-case-adaptation-strategy.md)
 - [Use immersive VR to give scrub nurses a safe, low-pressure environment for repetitive practice of complex operations](ivr-safe-practice-environment-scrub-nurses.md)
 - [Future direction: more dynamic adaptation of virtual patients to contextual factors for a diverse, adaptable learning experience](dynamic-vp-contextual-adaptation-future-direction.md)
+- [Simplify novel-technique controls and support teachers when deploying role-play and immersive tools in lectures](simplify-role-play-controls-support-teachers-immersive-lecturing.md)
 
 ## Examples
 -

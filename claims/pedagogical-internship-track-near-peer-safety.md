@@ -77,3 +77,4 @@ Interview quote from Respondent 4 in the 'Developing a culture of peer teaching 
 - [Students experienced PAL as a comfortable, safe learning environment that lowered stress and made it easier to ask questions and make mistakes](pal-safe-comfortable-learning-environment.md) — related
 - [Learning in the peer assessment program was facilitated by psychological safety and the quality of feedback](psychological-safety-and-feedback-quality-facilitate-pa-learning.md) — related
 - [Residents want active participation only within a safe environment, while faculty report difficulty eliciting resident interaction](safe-environment-resident-participation.md) — related
+- [Facilitator authenticity and credibility are extremely important for students to trust and benefit from social-psychological activities](facilitator-authenticity-credibility-intervention.md) — related

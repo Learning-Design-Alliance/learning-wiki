@@ -60,3 +60,4 @@ Narrative synthesis of the review's 23 included studies on validity and reliabil
 - [Empathy is highly correlated with practical examination scores when the rubric explicitly assesses interpersonal behaviors](empathy-correlates-practical-examination-scores.md) — related
 - [Inter-rater scoring of the writing tests showed good correlation-coefficient reliability](inter-rater-reliability-writing-scores.md) — related
 - [Over the course, students proposed more comprehensive and practical solutions to increasingly complex scenarios, as rated by four examiners](scenario-solutions-improved-over-time.md) — related
+- [Faculty rarely used the low rubric level for research, noncognitive, and fit constructs while using all three levels for academic preparation and test scores](rubric-low-level-rarely-used-qualitative-constructs.md) — related

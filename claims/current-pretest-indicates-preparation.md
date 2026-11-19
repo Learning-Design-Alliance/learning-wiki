@@ -49,3 +49,4 @@ Correlational analysis of the optional 3-question pre-test (average 54.3% ±0.3%
 - [Pre-instruction LCTSR scores correlate with normalized learning gains, most strongly for theoretical content (TUG-K r=0.59) and more weakly for descriptive content (DIRECT r=0.50)](lctsr-prescore-correlates-content-gains-theoretical-strongest.md) — related
 - [Non-STEM majors in conceptual physics and astronomy courses score significantly lower pre-instruction on the LCTSR than STEM majors](non-stem-lower-lctsr-pre-scores-than-stem.md) — related
 - [FCI performance differences between traditional and M&I curricula persist after accounting for pre-instruction FCI scores, GPA, and SAT scores.](fci-differences-persist-after-controls.md) — related
+- [Quiz grades in the redesigned course showed no significant correlation with incoming physics preparation measures, in stark contrast to the standard physics 1 course](quiz-grade-independent-of-incoming-preparation.md) — reports the opposite

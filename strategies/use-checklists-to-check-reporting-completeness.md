@@ -39,6 +39,7 @@ Beyond listing what to report, the brief models a concrete activity: applying th
 ## Related Strategies
 
 - [Checklists](checklists.md)
+- [Use a seven-point checklist to broaden the discussion section back to wide context](seven-point-discussion-checklist-strategy.md)
 
 ## Examples
 -

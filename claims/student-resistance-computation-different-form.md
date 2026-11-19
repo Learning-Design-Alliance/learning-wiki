@@ -50,3 +50,5 @@ Interview findings on student resistance in the computation context: instructors
 - [Life science students accept and engage enthusiastically with physics and mathematical modeling when applications are perceived as biologically authentic, and resist when they perceive them as irrelevant to biology.](authentic-relevance-drives-life-science-student-engagement.md) — related
 - [Some students hold robust expectations about learning biology that impede the implementation of even well-orchestrated reforms](sticky-expectations-impede-reform.md) — related
 - [Students often resist using equations to think with, yet delight when math explains something they already knew](student-resistance-and-delight-with-math-in-science.md) — related
+- [Computational activities added stress that students perceived as uncalled for, prompting some to disengage by copying others' solutions](computation-uncalled-stress-disengagement.md) — related
+- [Instructors grounded computational integration in professional authenticity, career readiness, and their own research practices](instructors-ground-computation-in-authenticity.md) — related

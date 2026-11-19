@@ -22,7 +22,7 @@ sources:
 # Engagement
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 42 claims (21 for, 20 mixed, 1 against) · 60 studies (24 causal, 10 review, 9 quant-synthesis, 8 associational, 5 theoretical, 3 qualitative, 1 design), `q1`–`q4` · 8 of 60 report an effect size · 31 claims rest on one study
+> **Evidence** · 43 claims (22 for, 20 mixed, 1 against) · 61 studies (24 causal, 10 review, 9 quant-synthesis, 8 associational, 5 theoretical, 4 qualitative, 1 design), `q1`–`q4` · 8 of 61 report an effect size · 32 claims rest on one study
 
 ## Conditional relationship
 
@@ -138,6 +138,7 @@ Claims that bear on the relationship but are not part of the model above.
 - [In-class engagement (responses to periodic prompts) independently predicted higher final scores (B=4.79 per response, β=0.70, P<.001)](../claims/in-class-engagement-predicts-final-scores.md) [+W] — attached 2026-11-05 from Alicia S et al. (2025), which proposed "Design voluntary online courses to encourage autonomous behaviors through clear expectation setting, periodic interactive prompts, and structured review opportunities".
 - [Academic engagement and study processes each have a statistically significant positive effect on the GPA of physical education and sport university students](../claims/engagement-and-study-process-predict-gpa-pes-students.md) [+W] — attached 2026-11-07 from Tannoubi Amayra et al. (2023), which proposed "Prioritize student engagement as a determinant of academic outcomes when reforming physical education and sport curriculum modules".
 - [Live teaching produced the highest levels of concentration, anticipation, liking and desire to reuse compared with Live-stream, Vodcast and Podcast](../claims/live-teaching-highest-promoting-factors.md) [+W] — attached 2026-11-07 from Tolonen M et al. (2024), which proposed "Design teaching to support students’ ability to concentrate, using different delivery modalities and their special features".
+- [Computational activities added stress that students perceived as uncalled for, prompting some to disengage by copying others' solutions](../claims/computation-uncalled-stress-disengagement.md) [+W] — attached 2026-11-19 from Hamerski et al. (2022), which proposed "Attend to student affect when integrating computation into science class, because affective responses shape whether students engage".
 
 ## Objective and learner-valued goal
 

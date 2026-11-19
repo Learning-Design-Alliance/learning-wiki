@@ -49,6 +49,7 @@ Based on a procedural approach to the elementary school teacher's work, the arti
 
 - [Two blended-teaching methods combining computer-based and classroom work within Smart Kids technology](smart-kids-blended-teaching-methods.md)
 - [Teacher training directions for Smart Kids technology in pre-service elementary teacher education](smart-kids-teacher-training-directions.md)
+- [Adopt AR-based activities as a supplementary tool within a blended learning approach when transitioning schools toward a SMART campus](ar-supplementary-blended-learning-strategy.md)
 
 ## Examples
 -

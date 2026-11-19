@@ -70,6 +70,7 @@ Text chat functions as a low-threshold participation and feedback channel, which
 - [Work out SMS delivery schedules with students and plan ahead for delivery conflicts and missed messages](sms-delivery-schedule-planning-strategy.md)
 - [Use Facebook applications to deliver Islamic Studies content with student choice of access](facebook-applications-deliver-content-student-choice-access.md)
 - [Integrate social media channels to build community and provide timely feedback in virtual physics courses](social-media-community-feedback-physics-elearning.md)
+- [Support remote student collaboration with student-managed chat platforms such as Discord servers for sharing code and links](student-discord-servers-remote-collaboration-strategy.md)
 
 ## Examples
 - **[Remind](../products/remind.md) (https://www.remind.com)** — school-safe SMS/announcement platforms used for assignment reminders, quick pulse questions, and parent communication.

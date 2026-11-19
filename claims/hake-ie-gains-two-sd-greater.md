@@ -105,3 +105,4 @@ The article reports (Introduction) Hake's large multi-course survey as backgroun
 - [No meaningful correlation was found between FCI prescore and CLASS shift, or between FCI gain and FCI pretest score](no-correlation-fci-pretest-class-shift.md) — a narrower finding that bears on this claim
 - [EBAE instruction benefits students at all pretest performance levels, with higher gains in every pretest third](ebae-benefits-all-pretest-levels.md) — related
 - [Introductory students show low post-instruction scores and small normalized gains after traditional lecture-based instruction](stpfasl-low-posttest-gains-traditional-instruction.md) — a narrower finding that bears on this claim
+- [Students' basic physics content knowledge improved substantially, with diagnostic scores rising 20% on average (d = 1.1)](diagnostic-gain-20-percent-d-1-1.md) — a narrower finding that bears on this claim

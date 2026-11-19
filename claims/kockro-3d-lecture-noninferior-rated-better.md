@@ -116,3 +116,4 @@ Randomised study of 169 second-year medical students comparing 3D VR and 2D lect
 - [The review reports, citing Salzman et al., that students using the MaxwellWorld immersive VR system developed significantly better understanding of electrostatic concepts than students using a 2-D application](maxwellworld-vr-better-electrostatic-understanding-than-emfield.md) — related
 - [Students using stereoscopic VR did not significantly outperform students using WebGL simulations or static 2D images on 3D magnetostatics items](vr-no-outperform-webgl-images-magnetostatics.md) — related
 - [The benefit of preliminary VR training was limited to questions posed in VR, with no improvement on 2D computer-based posttest questions](vr-training-benefit-limited-to-vr-posed-questions.md) — related
+- [Engineering students using AR showed better academic outcomes and higher motivation than classmates using conventional notes](ar-engineering-graphic-outcomes-motivation.md) — related

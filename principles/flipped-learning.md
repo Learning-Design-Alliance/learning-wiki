@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 198 claims (121 for, 72 mixed, 5 against) · 128 studies (76 causal, 19 quant-synthesis, 13 review, 10 design, 5 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 37 of 128 report an effect size · 190 claims rest on one study
+> **Evidence** · 199 claims (121 for, 73 mixed, 5 against) · 129 studies (76 causal, 19 quant-synthesis, 13 review, 11 design, 5 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 37 of 129 report an effect size · 191 claims rest on one study
 
 ## Conditional relationship
 
@@ -239,6 +239,7 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [A previous direct-lesson introduction of Audacity produced weak engagement and no materials, while the flipped-classroom format produced engagement and educational materials](../claims/direct-lesson-vs-flipped-engagement-contrast.md) [+W] — attached 2026-11-17 from Vera Montalbano (2015), which proposed "Use a flipped classroom in pre-service teacher education so teachers experience the methodology directly while producing ready-to-use multimedia materials"; tests this page's relationship.
 - [Students in large-enrollment flipped introductory physics classes performed significantly better than students in traditional classes by the same instructors on identical quiz and final-exam questions](../claims/flipped-identical-questions-significant-gains.md) [+W] — attached 2026-11-18 from Chad T. Kishimoto et al. (2018), which proposed "Large-lecture flipped cycle: learning goals as roadmap with pre-class preparation, mini-lectures, activity worksheets, clicker questions, and minute papers"; tests this page's relationship.
 - [The flipped classroom significantly reduced, but did not eliminate, the gender gap in introductory physics performance](../claims/flipped-classroom-reduced-gender-gap.md) [+W] — attached 2026-11-18 from Chad T. Kishimoto et al. (2018), which proposed "Large-lecture flipped cycle: learning goals as roadmap with pre-class preparation, mini-lectures, activity worksheets, clicker questions, and minute papers".
+- [Students valued the flipped classroom positively (6.2) and the follow-up sessions (6.4) but preferred traditional teaching](../claims/student-satisfaction-flipped-physics.md) [~W] — attached 2026-11-19 from Ruiz-Galende et al. (2021), which proposed "Use the flipped classroom for online Physics teaching by pairing short pre-class videos with quizzes and follow-up problem-solving sessions".
 
 ## Objective and learner-valued goal
 

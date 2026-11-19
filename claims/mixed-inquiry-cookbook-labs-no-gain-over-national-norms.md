@@ -68,3 +68,4 @@ The authors state the impact of the six inquiry-based Real-Time Physics labs cou
 - [First-year students in skills-focused lab courses had higher postinstruction overall E-CLASS scores than students in concepts-focused courses](skills-focused-labs-higher-post-eclas-scores.md) — related
 - [Average E-CLASS self-efficacy score decreased from 0.86 to 0.77 over the course](self-efficacy-e-class-decrease-086-077.md) — related
 - [First-year physics students arrive with substantial prior experience of making decisions about experimental work, exceeding what cookbook labs assume](first-years-prior-experience-exceeds-cookbook-assumptions.md) — related
+- [RealTime Physics inquiry-based labs without reflection questions did not significantly change post E-CLASS scores relative to traditional labs](rtp-inquiry-lab-no-e-class-difference.md) — related

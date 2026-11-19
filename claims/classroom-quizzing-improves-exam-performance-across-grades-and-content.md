@@ -173,3 +173,4 @@ The chapter reports Lindsey et al. (2014), whose personalized review system impl
 - [Students working mostly from home and primarily taking quizzes (cluster C5) do not show improved performance](home-quiz-use-no-performance-gain.md) — reports the opposite
 - [The clicker question bank also works well as a source of quiz and test questions, revealed by the pandemic shift online](clicker-bank-repurposed-for-online-quizzes.md) — related
 - [Students preferred a participation-only clicker grade over grades crediting correctness](participation-only-clicker-grading-preferred.md) — related
+- [Short-time chapter-based mid-semester assessments are associated with significantly higher mid-exam pass rates than long-time unit-based assessments](chapter-based-short-time-mid-exams-higher-pass-rate.md) — related

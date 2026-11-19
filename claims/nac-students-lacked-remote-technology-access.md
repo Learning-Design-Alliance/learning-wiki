@@ -49,3 +49,4 @@ Survey item from the NAC Alumni Survey on technological barriers. The article re
 - [Immediately after closure, New York charter students lacked adequate devices (44.4% on average) more often than adequate internet access (27.0%), while teachers were almost universally equipped](device-access-gap-internet.md) — related
 - [During spring 2020 remote instruction, internet connectivity and hardware/software problems interfered with course participation for large shares of undergraduates](remote-covid-technology-access-problems-widespread.md) — related
 - [The COVID-19 pandemic changed summer research participation for about a third of surveyed NAC alumni, with internships either cancelled or moved online](pandemic-changed-nac-summer-research-participation.md) — related
+- [Remote collaboration tools enabled a successful hybrid camp edition and new teaching and mentoring opportunities](remote-tools-hybrid-camp-success.md) — related

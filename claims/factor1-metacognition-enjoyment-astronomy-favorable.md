@@ -68,3 +68,4 @@ Unnormalized percentages for AAPS Question 27 on enjoying physics/astronomy prob
 - [Physics students give more favorable responses than astronomy students only on the Factor 2 questions about drawing diagrams and scratchwork, likely because astronomy problems are harder to depict](factor2-drawings-scratchwork-physics-favorable.md) — related
 - [Astronomy students show more favorable problem-solving confidence than physics students (Factor 6), persisting rather than giving up when problems are difficult](factor6-problem-solving-confidence-astronomy-favorable.md) — related
 - [Astronomy students show more favorable sensemaking responses than physics students (Factor 8)](factor8-sensemaking-astronomy-favorable.md) — related
+- [Personal Interest in physics differs sharply by degree area, with 20% of life-science versus 79% of physical-science students agreeing they enjoy solving physics problems](personal-interest-enjoyment-gap-statement25.md) — related

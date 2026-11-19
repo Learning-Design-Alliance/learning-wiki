@@ -52,3 +52,4 @@ Joint UHCA and PCA of the 15 comprehension and 11 expressive items (Figure 4). T
 - [Hierarchical clustering of 15 language comprehension abilities in verbal individuals with language deficits yields three distinct ability clusters: command, modifier, and syntactic](three-language-comprehension-mechanism-clusters.md) — related
 - [Principal component analysis finds the E-CLASS does not exhibit strong factors, consistent with its design targeting many distinct learning goals](eclass-pca-no-strong-factors.md) — related
 - [Subjects are addressed in distinct, separate modules: segregation Z-values are very high across implementations](bsc-high-subject-segregation.md) — related
+- [NALS clusters closely resemble PCA components (F-measure 0.75) but reveal differences, such as component I dividing into two clusters](nals-pca-comparison-f-measure-075.md) — related

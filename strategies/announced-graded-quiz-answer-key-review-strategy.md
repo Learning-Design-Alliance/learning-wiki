@@ -48,6 +48,7 @@ The article's concrete quiz recipe: quizzes were announced in the syllabus and r
 - [Low Stakes Quizzing](low-stakes-quizzing.md)
 - [Two Stage Quizzes](two-stage-quizzes.md)
 - [Pre Reading Quizzes](pre-reading-quizzes.md)
+- [Announce assessment results with privacy protection and a bounded inquiry period](assessment-result-announcement-inquiry-strategy.md)
 
 ## Examples
 -

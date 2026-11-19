@@ -53,3 +53,4 @@ Transcribed audiovisual data of 14 lab groups solving a context-rich rotational 
 - [Overall epistemic game frequency showed only a small effect of learning orientation or group dynamic in the F15 class](small-effect-orientation-dynamic-game-frequency.md) — related
 - [Transliteration to Mathematics game frequency differed significantly between the S14 semester and the S15 and F15 semesters](tm-game-frequency-semester-difference.md) — related
 - [Vague-dominated and framework-dominated groups tended to favor collaboration in the F15 class](vague-framework-groups-favor-collaboration.md) — related
+- [A significant percentage of life-science students predominantly use the novice 'Plug and Chug' problem-solving strategy in physics](plug-and-chug-predominates-life-sciences.md) — related

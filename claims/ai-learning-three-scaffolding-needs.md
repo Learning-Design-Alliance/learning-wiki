@@ -54,3 +54,4 @@ The authors' prior cognitive interview study at a STEM-focused private high scho
 - [Identical representational designs produced wide individual variation in what felt helpful versus overwhelming (representational fit)](representational-fit-individual-variation.md) — related
 - [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — a broader claim this one bears on
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — a broader claim this one bears on
+- [A multi-disciplinary curriculum with strong connection between fundamental concepts and applied sciences would improve student retention in STEM fields](multidisciplinary-curriculum-stem-retention.md) — related

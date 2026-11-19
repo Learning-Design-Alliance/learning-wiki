@@ -59,3 +59,4 @@ Qualitative arm of the mixed-methods sequential explanatory design: semi-structu
 - [Participating international medical students reported benefiting from technical and didactic as well as social learning experiences in the peer-guided course](peerguided-course-qualitative-benefits-international-students.md) — related
 - [Over the reform, instructors expanded their definitions of active learning to include student interaction and knowledge construction](instructor-definitions-of-active-learning-broadened.md) — related
 - [Participants identified fidelity limitations of the simulation: the prompted pain experience lacked credibility and interns' prior medical knowledge may have colored the experience](simulation-fidelity-limitations-pain-prior-knowledge.md) — related
+- [Students identify diverse reasons why representation in STEM matters, spanning nine common themes](notecard-activity-representation-themes.md) — related

@@ -49,3 +49,4 @@ Weekly activity plots from the non-pandemic cohort's usage logs (Figure 1B–C).
 - [Class rhythm heatmaps revealed evening-peaked, deadline-driven temporal engagement patterns in the cohort](class-rhythm-heatmap-temporal-patterns.md) — related
 - [Counting questions students procrastinate, practicing little until late in the semester, while counting days spreads practice across the term](counting-questions-procrastination-pattern.md) — related
 - [The games and sketches increased online visibility, with growing downloads, views and webpage visits during 2011](gw-games-growing-online-engagement-2011.md) — related
+- [The IBM-HBCU Quantum Center engaged 441 unique faculty, students, and researchers by March 2021](center-441-unique-participants-2021.md) — related

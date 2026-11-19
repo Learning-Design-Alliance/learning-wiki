@@ -50,3 +50,4 @@ From the same CPS-based observational analysis using statewide unemployment vari
 - Statewide unemployment-rate variation can proxy business cycle conditions in studies of graduate enrollment decisions — related
 - [Poor labor market conditions lead to substitution from full-time to part-time graduate enrollment for both genders](poor-labor-markets-shift-full-time-to-part-time-graduate-enrollment.md) — related
 - [College-specific barriers related to resources, time, and local labor market conditions limited implementation of the statewide E-HLTH career studies certificate](college-specific-barriers-limited-ehlth-certificate-implementation.md) — related
+- [Students with similar characteristics select programs closer in the HES, and closer programs share similar socio-economic outcomes and demand variation](hes-assortment-similar-students-similar-programs.md) — related

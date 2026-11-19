@@ -57,3 +57,4 @@ Summative usability study (Phase 3) with seven UAE-based special-education pract
 - [The experimental group rated AVDS usability as excellent while the control group rated it as good](sus-usability-excellent-experimental-good-control.md) — related
 - [Adapted SUS scores indicated above-average usability, with the round 2 median of 77.5 exceeding the industry average of 68](sus-median-77-5-above-average-usability.md) — related
 - [The DCBL platform achieved marginal-to-average usability (mean SUS 62.4) with moderate cognitive workload](dcbl-platform-usability-sus-workload.md) — related
+- [First-version MR application scores 83.60% on the system usability scale and all participants report its visualizations helpful](mr-application-sus-83-6-visualizations-helpful.md) — related

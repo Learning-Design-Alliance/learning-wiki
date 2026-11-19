@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 744 claims (399 show a difference, 180 mixed, 165 no difference) · 518 studies (275 associational, 176 causal, 21 review, 18 quant-synthesis, 13 design, 9 theoretical, 6 qualitative), `q1`–`q4` · 76 of 518 report an effect size · 736 claims rest on one study
+> **Evidence** · 749 claims (402 show a difference, 181 mixed, 166 no difference) · 522 studies (275 associational, 177 causal, 21 review, 18 quant-synthesis, 15 design, 10 theoretical, 6 qualitative), `q1`–`q4` · 76 of 522 report an effect size · 741 claims rest on one study
 
 ## How to read this page
 
@@ -783,6 +783,11 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [In the multiple regression, female students earn significantly higher graduate grades than male students with the same admissions scores (β = 0.13, p = .04)](../claims/female-higher-ggpa-holding-scores-constant.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Mastery CLASP classes with at most one quiz per lecture show no gender grade gap, unlike usual CLASP classes where female students' grades are about a quarter standard deviation lower](../claims/mastery-one-quiz-gender-gap-zeroed.md) [~M] — an instructional effect differs by group
 - [Offering lectures online in a flipped format with usual grading did not by itself diminish the gender grade gap](../claims/flipped-format-alone-does-not-remove-gender-gap.md) [-M] — an instructional effect differs by group
+- [About 90% of women physics graduates (20 of 22) entered and persisted in STEM-advancement careers up to eight years post-graduation](../claims/women-graduates-90-percent-stem-advancement-careers.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Both genders showed equal interest and enthusiasm in learning science, with no gender influence observed](../claims/equal-gender-interest-lower-primary-science.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Societal stereotypes, strongest in physics, contribute to lower sense of belonging for women and ERM students in physics](../claims/stereotypes-lower-belonging-women-erm-physics.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The gender gap in scores between female and male students is significantly reduced on a student-created problem assessment compared to traditional exams](../claims/problem-project-reduces-gender-score-gap.md) [+M] — an instructional effect differs by group
+- [Women were retained in the physics major at a higher percentage than men in all years except 2015](../claims/women-retained-higher-than-men-physics-major.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

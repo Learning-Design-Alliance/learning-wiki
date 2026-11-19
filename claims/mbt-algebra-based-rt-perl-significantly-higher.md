@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: moderate
-newest_evidence: 2012
+newest_evidence: 2013
 sources:
-  - id: beth-thacker-2012
+  - id: beth-thacker-2013
     resource: "https://doi.org/10.48550/arXiv.1312.6000"
-    title: "Beth Thacker, Hani Dulli, Dave Pattillo, and Keith West. (2012). Lessons from a Large-Scale Assessment: Results from Conceptual Inventories. Physics Department, Texas Tech University. [doi:10.48550/arXiv.1312.6000](https://doi.org/10.48550/arXiv.1312.6000)"
+    title: "Beth Thacker, Hani Dulli, Dave Pattillo, and Keith West. (2013). Lessons from a Large-Scale Assessment: Results from Conceptual Inventories. Physics Department, Texas Tech University. Originally published 2012. [doi:10.48550/arXiv.1312.6000](https://doi.org/10.48550/arXiv.1312.6000)"
     author: Beth Thacker, Hani Dulli, Dave Pattillo, and Keith West
     q: 2
     i: "?"
@@ -24,17 +24,17 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 > **Design limits** · Beth Thacker 2012: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-17)
 
 ## Subclaims
-`q2 i?` For in-class algebra-based MBT post-tests, RT/PERL classes scored in the high forties versus low forties for RT/TL, with significant differences at p < 0.003 (vs RT/TL) and p < 0.002 (vs INQ). [→ Beth Thacker 2012](#beth-thacker-2012)
+`q2 i?` For in-class algebra-based MBT post-tests, RT/PERL classes scored in the high forties versus low forties for RT/TL, with significant differences at p < 0.003 (vs RT/TL) and p < 0.002 (vs INQ). [→ Beth Thacker 2013](#beth-thacker-2013)
 
 ## Evidence
 
-### Beth Thacker 2012
+### Beth Thacker 2013
 
-Beth Thacker, Hani Dulli, Dave Pattillo, and Keith West. (2012). Lessons from a Large-Scale Assessment: Results from Conceptual Inventories. Physics Department, Texas Tech University. [doi:10.48550/arXiv.1312.6000](https://doi.org/10.48550/arXiv.1312.6000)
+Beth Thacker, Hani Dulli, Dave Pattillo, and Keith West. (2013). Lessons from a Large-Scale Assessment: Results from Conceptual Inventories. Physics Department, Texas Tech University. Originally published 2012. [doi:10.48550/arXiv.1312.6000](https://doi.org/10.48550/arXiv.1312.6000)
 
 `q2 · i?` · `causal · r1`
 
@@ -53,3 +53,4 @@ Post-test MBT administration in algebra-based large lecture sections, with onlin
 - [Inquiry-based algebra-based students outperform all other introductory classes, including honors, on free-response pre- and post-tests in electricity and magnetism](inquiry-outperforms-on-free-response-testing.md) — related
 - [Replacing traditional labs with Real Time Physics labs plus recitations doubled algebra-based FCI normalized gain even under traditional lecture, but gains stayed below the interactive-engagement region](rt-labs-double-fci-gain-traditional-lecture.md) — related
 - [Students in Arduino-based lab sections scored unremarkably on standard physics pre/post inventories](arduino-lab-standard-inventory-scores-unremarkable.md) — related
+- [All three cohorts show high normalized FCI gains (46%, 61%, 47%), with MBT post-scores trailing FCI post-scores by 15, 21, and 19 percentage points](fci-gains-mbt-gap.md) — related

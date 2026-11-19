@@ -45,6 +45,7 @@ The comment recommends formative assessment as the practical alternative to judg
 
 - [Interpolate metacognitive judgments or covert retrieval attempts during extended study sessions](interpolate-jols-covert-retrieval-during-study.md)
 - [Four teacher roles for regulating the transfer of learning functions: diagnostician, challenger, model learner, activator](four-teacher-roles-regulation-transfer.md)
+- [Use online platforms for frequent, covert assessment of learners and define productive-engagement metrics for education A/B tests](continuous-covert-assessment-productive-engagement.md)
 
 ## Examples
 -

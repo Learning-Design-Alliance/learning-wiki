@@ -50,3 +50,4 @@ The review reports this as an indicative finding from its synthesis, hedged with
 - [Social capital among teachers has been associated with five categories of outcomes, including teacher professional development and improved student achievement](teacher-social-capital-five-outcome-categories.md) — related
 - [Online environments function as virtual youth centres and hubs for bonding and bridging social capital](online-relatedness-virtual-youth-centres-social-capital.md) — a narrower finding that bears on this claim
 - [Dense networks with similar others and strong bonds foster perceived learning in online networks.](dense-networks-foster-perceived-learning.md) — related
+- [Peer interaction network structure differed between face-to-face and virtual contexts, with bridge nodes emerging only in the virtual network](peer-network-bridges-virtual-context.md) — related

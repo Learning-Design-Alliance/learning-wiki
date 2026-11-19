@@ -51,3 +51,4 @@ Analytical mapping of six published assessment instruments onto continuum stages
 - [GLAT scores predicted performance on GenAI-supported tasks better than perceived ChatGPT proficiency](glat-predicts-task-performance-better-than-self-report.md) — related
 - [Post-2024 instrument development expanded objective AI-literacy measurement, which had been dominated by self-report scales](objective-ai-literacy-measures-expanded-post-2024.md) — related
 - [Agentic AI invalidates the three assumptions (evaluation, reversibility, control) on which existing AI literacy frameworks rest](agentic-ai-invalidates-three-ai-literacy-assumptions.md) — related
+- [Mapping the pilot course onto the 3P Framework revealed a large gap in Physics content, filled by Fall 2019](curriculum-mapping-revealed-physics-gap.md) — related

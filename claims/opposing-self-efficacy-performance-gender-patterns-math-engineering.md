@@ -54,3 +54,4 @@ Combined analysis plotting effect sizes of gender differences in self-efficacy a
 - [First-year engineering women show significant self-efficacy gaps favoring men in mathematics, engineering, and physics but not chemistry, and all gaps close by the fourth year except physics](self-efficacy-gender-gaps-close-by-year-four-except-physics.md) — related
 - [Chemistry shows direct correspondence between self-efficacy and performance gender differences, with women higher on both](chemistry-self-efficacy-performance-alignment.md) — related
 - [Physics shows the most extreme self-efficacy/performance mismatch: men's self-efficacy advantage is much larger than their small grade advantage](physics-largest-self-efficacy-performance-mismatch.md) — related
+- [Women exhibited lower physics self-efficacy than men in all grade cohorts, and the gender imbalance increased with course grade](self-efficacy-gender-gap-increases-with-grade.md) — related

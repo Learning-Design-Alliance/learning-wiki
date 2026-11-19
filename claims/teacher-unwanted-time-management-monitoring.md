@@ -68,3 +68,4 @@ Study 1 finding on insufficient monitoring time: while working one-on-one, teach
 - [Co-design sessions with seven teachers reveal four distinct aspects of how teachers want to spend, invest, avoid, and lack time for orchestration of social transitions](teacher-time-four-aspects-orchestration.md) — a broader claim this one bears on
 - [Teachers want to spend orchestration time on one-on-one support and planning, and are willing to invest up-front time in routines and collaboration skills](teachers-prefer-one-on-one-support-time.md) — a narrower finding that bears on this claim
 - [Non-instructional time averages 23 percent in observed Chicago elementary classrooms, with half of teachers at 14 percent and half at 30 percent](non-instructional-time-23-percent-teacher-split.md) — related
+- [Surveyed teachers generally do not want to participate in chat groups with students, preferring small course-only groups](teachers-avoid-student-chat-groups.md) — related

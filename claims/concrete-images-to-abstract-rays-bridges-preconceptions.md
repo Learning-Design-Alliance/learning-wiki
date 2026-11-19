@@ -50,3 +50,4 @@ Author's interpretive conclusion (Section 7) summarizing the instructional seque
 - [Concreteness fading enables learners to build a store of memorable images usable when abstract symbols lose meaning](fading-builds-memorable-images.md) — related
 - [A cube-tower instructional sequence instantiated concreteness fading in an elaborated form for two preservice teachers' combinatorial reasoning](cube-tower-sequence-elaborated-cf-instantiation.md) — related
 - [Concreteness fading may not be as broadly generalizable across mathematics and natural science domains as has been suggested](concreteness-fading-limited-domain-generalizability.md) — related
+- [A multi-disciplinary curriculum with strong connection between fundamental concepts and applied sciences would improve student retention in STEM fields](multidisciplinary-curriculum-stem-retention.md) — related

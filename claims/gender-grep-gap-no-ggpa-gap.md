@@ -51,3 +51,4 @@ Point-biserial comparisons among US students in the dataset, shown in Figure 3(b
 - [Quantitative GRE percentiles negatively correlate with PhD time to degree for all students, females, and international students](gre-quant-percentiles-correlated-ttd.md) — related
 - [Female students earn lower grades than equivalently prepared male counterparts in most courses studied (β −0.021 to −0.133; up to 0.303 grade points lower)](gender-gap-upper-level-life-science-courses.md) — related
 - [Female physiotherapy students achieve higher GPAs than male students](female-students-higher-gpa-physiotherapy.md) — related
+- [Males tended to score higher on the physics GRE rubric construct while females tended to score higher on community contributions and diversity contributions](rubric-sex-differences-three-constructs.md) — related

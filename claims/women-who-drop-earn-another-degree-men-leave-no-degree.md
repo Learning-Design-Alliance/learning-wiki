@@ -71,3 +71,4 @@ Gendered trajectories after dropping a major (Figs. 6a and 6c): "among students 
 - [Women who drop STEM majors earn statistically significantly higher STEM GPAs than men who drop the same majors](women-drop-stem-majors-higher-gpa-than-men-who-drop.md) — related
 - [Women who drop the first cluster of STEM majors earn significantly lower grades than men who persist, while women who drop the second cluster earn the same grades as men who persist](women-drop-cluster1-grades-midway-men-drop-persist.md) — related
 - [Students who drop a major have lower GPAs than those who earn a degree in it, with gaps of roughly 0.6 grade points in the first STEM cluster and 0.2 in the second, widening over time in non-STEM](droppers-lower-gpa-than-degree-earners-gap-varies-by-cluster.md) — related
+- [Women were retained in the physics major at a higher percentage than men in all years except 2015](women-retained-higher-than-men-physics-major.md) — related

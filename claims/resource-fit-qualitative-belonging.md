@@ -54,3 +54,4 @@ The review reports qualitative work with working-class university students (G. M
 - [Prominent quantitative measures of belonging focus overwhelmingly on social connectedness and general fit, with only 1 of 70 items assessing resource fit](belonging-measures-focus-social-fit-content-analysis.md) — related
 - [Racially marginalized students are less likely to report a sense of belonging in STEM education](marginalized-students-lower-stem-belonging.md) — related
 - [Across nearly all race/ethnicity groups, transgender high school students report fewer school supports, lower safety, lower motivation, and lower connectedness than non-transgender peers](transgender-students-report-fewer-school-supports-lower-safety.md) — related
+- [TEAM-UP attributes success or failure of Black students in physics to belonging, physics identity, academic support, financial support, and leadership and structures](team-up-factors-black-student-success-physics.md) — related

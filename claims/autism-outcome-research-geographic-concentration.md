@@ -52,3 +52,4 @@ Geographic coding of the 112 included items. The review reports that "most were 
 - Educational outcome research for autistic students has predominantly focused on academic achievement, with few items investigating disciplinary or attendance outcomes — related
 - All eight included studies were cross-sectional, conducted in Asia, and most lacked a comparator — related
 - [Most homeschooling research settings are concentrated in the United States](homeschooling-research-us-dominance.md) — a narrower finding that bears on this claim
+- [QURECA identified 40 universities worldwide offering quantum-focused master's degrees, concentrated in North America and Europe](40-universities-quantum-masters-programs.md) — related

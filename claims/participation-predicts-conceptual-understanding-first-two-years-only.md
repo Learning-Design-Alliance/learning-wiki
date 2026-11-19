@@ -51,3 +51,4 @@ Linear and Bayesian regressions predicting performance on the two end-of-semeste
 - [During the intervention, linear algebra exam performance rose distinctly above overall first-year performance, a pattern the authors interpret as intervention impact beyond cohort differences](linear-algebra-performance-above-overall-first-year-trend.md) — related
 - [Measured amount of self-testing significantly predicts final course score alongside prior knowledge in each semester](measured-self-testing-predicts-course-score.md) — related
 - [Proficiency at solving end-of-chapter exercises does not promote proficiency at solving conceptual problems](exercise-proficiency-does-not-promote-conceptual-problem-solving.md) — reports the opposite
+- [Short-time chapter-based mid-semester assessments are associated with significantly higher mid-exam pass rates than long-time unit-based assessments](chapter-based-short-time-mid-exams-higher-pass-rate.md) — related

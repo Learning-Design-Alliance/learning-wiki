@@ -76,3 +76,4 @@ Between-condition comparison of post-test scores in a randomized pre-post study 
 - [All three conditions showed statistically significant pre-to-post gains on the Moon phases test](moon-phases-significant-prepost-gains-all-conditions.md) — related
 - [Learning gains vary by Moon phases topic but do not differ significantly across conditions](moon-phases-topic-gains-vary-no-condition-differences.md) — possibly the same claim (merge candidate)
 - [In a pilot ASTRO 101 study, a VR activity on Moon phases and eclipses was at least as effective as supplemental lecture or hands-on activities on multiple-choice quiz gains](vr-moon-phases-at-least-as-effective-pilot.md) — related
+- [A VR Moon-phase activity performed at least as well as traditional teaching methods for introductory astronomy students](vr-moon-phase-performs-comparably-to-traditional.md) — a narrower finding that bears on this claim

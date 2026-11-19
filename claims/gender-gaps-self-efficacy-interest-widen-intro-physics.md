@@ -56,3 +56,6 @@ T-test comparison of pre and post survey scores by gender in a calculus-based in
 - [Female students' fascination and value associated with physics decreased significantly more than males' after calculus-based Physics 2](female-fascination-value-decline-physics-2.md) — related
 - [At the beginning of Physics 1, male students report significantly higher self-efficacy, fascination, value and physics intelligence mindset than female students in both calculus-based and algebra-based courses](gender-gaps-motivation-beginning-physics-1.md) — related
 - [Grit is the only motivational factor on which female students report averages equal to or higher than male students throughout introductory physics](grit-females-equal-or-higher-physics.md) — related
+- [Both genders showed equal interest and enthusiasm in learning science, with no gender influence observed](equal-gender-interest-lower-primary-science.md) — related
+- [Physics self-efficacy of both men and women decreased over the semester, with a smaller decrease for women](physics-self-efficacy-decrease-semester.md) — related
+- [A short beginning-of-semester social-psychological intervention closed the gender gap in performance in an introductory calculus-based physics course](short-belonging-intervention-closed-gender-gap-physics.md) — related

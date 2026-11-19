@@ -69,3 +69,4 @@ Same institutional-data analysis, second STEM major cluster (Figs. 9c and 9d). T
 - [URM students have the lowest mean overall and STEM GPAs, lower even than non-URM students with one disadvantage](urm-students-lowest-gpa-all-groups.md) — related
 - [URM students drop the physics major at roughly twice the rate of White students (65% vs 34%) at the studied university](urm-physics-attrition-65-vs-34-percent.md) — related
 - [Only 47% of URM declared physics majors earn a physics degree compared to 68% of White physics majors](urm-physics-degree-earning-47-percent.md) — related
+- [Students from underrepresented racial/ethnic groups receive a course grade penalty of 0.225 grade points under 4-point grading compared to their peers.](urm-grade-penalty-clasp4.md) — related

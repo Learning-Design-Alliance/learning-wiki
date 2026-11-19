@@ -69,3 +69,4 @@ Review discussion of implementation challenges, attributed to the reviewed liter
 - [The most common challenges to integrating EBHC in clinical settings are lack of space, misconceptions about EBHC, staff resistance, tutor confidence, time and negative role modelling](challenges-integrating-ebhc-clinical-settings.md) — related
 - [The article argues IPE should be introduced from the start of professional education to prevent formation of negative interprofessional attitudes that later resist change](ipe-early-introduction-argument.md) — related
 - [Faculty engagement in the change process was sustained despite challenges, through facilitator and faculty mitigation](faculty-engagement-sustained-through-mitigation.md) — related
+- [Personal barriers to ESR in QIS courses stem from faculty's views of their role, perceived lack of expertise, and perceived lack of facilitation skills](personal-barriers-role-expertise-facilitation-qis-esr.md) — related

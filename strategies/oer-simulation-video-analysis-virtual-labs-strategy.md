@@ -48,6 +48,8 @@ The manual's core strategy is to replace physical lab equipment with open educat
 - [Use game-like simulation challenges as post-lab application tasks](simulation-game-post-lab-challenges.md)
 - [Anchor each virtual experiment in a named OER simulation with a linked lesson video for data collection and spreadsheet analysis](oer-simulation-with-lesson-video-strategy.md)
 - [Pair student-collected video datasets from physical home-buildable apparatus with PhET and/or oPhysics simulations in online labs](video-dataset-labs-plus-simulations-online-em.md)
+- [Use simulations, provided or student-directed data collection, and open-ended projects to preserve lab learning goals when hands-on equipment is unavailable](remote-lab-adaptation-strategies-simulations-data-projects.md)
+- [Scaffolded simulation-based hypothesis testing in virtual astronomy labs](scaffolded-simulation-hypothesis-testing-strategy.md)
 
 ## Examples
 -

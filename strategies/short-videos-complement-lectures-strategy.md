@@ -47,6 +47,7 @@ Rather than recording entire lectures, the authors recommend short videos that s
 
 - [Pre-recorded Instructional Video](pre-recorded_instructional_video.md)
 - [Keep flipped-classroom videos concise, ideally no longer than about 10 minutes, splitting longer videos into shorter segments](keep-flipped-videos-concise-strategy.md)
+- [Provide remote students with sample data, video lecture, and virtual walkthrough when in-person access is impossible](remote-lab-sample-data-substitute-strategy.md)
 
 ## Examples
 -

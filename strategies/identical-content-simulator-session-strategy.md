@@ -55,6 +55,7 @@ The article's design pairs a 30-min traditional course with a 30-min simulator-b
 - [Integrate virtual and augmented reality as supplementary tools rather than full replacements for traditional learning methods](integrate-vr-ar-as-supplementary-tools.md)
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
 - [Alternate short instructions with guided gameplay sessions replacing lectures in a university physics course](alternating-instruction-gameplay-sessions.md)
+- [Pair traditional quantum computation lecture topics with hands-on activities on real quantum systems](pair-lectures-with-hands-on-quantum-activities.md)
 
 ## Examples
 -

@@ -62,3 +62,4 @@ The review's synthesis of qualitative studies (e.g., Faircloth 2009 with ethnica
 - [Female STEM majors report significantly lower sense of belonging than male majors](female-majors-report-less-belonging-than-male-majors.md) — related
 - [Strength-based learning groups support educators to create equitable learning environments for economically marginalized students](strength-based-learning-groups-equitable-environments.md) — related
 - [No significant difference between flipped and classroom-only groups in belonging or usability ratings](duda-flipped-classroom-no-difference.md) — related
+- [TEAM-UP attributes success or failure of Black students in physics to belonging, physics identity, academic support, financial support, and leadership and structures](team-up-factors-black-student-success-physics.md) — related

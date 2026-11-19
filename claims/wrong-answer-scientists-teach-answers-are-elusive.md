@@ -52,3 +52,4 @@ The author's theoretical argument opening the essay: students rarely encounter s
 - [The collaboration revealed that some art students held a misconception of science as a body of knowledge rather than a process](students-science-as-process-misconception.md) — related
 - [The authors argue that open access to published scientific work may be insufficient to bridge the epistemological divide between scientists and the public](open-access-insufficient-for-public-engagement-with-science.md) — related
 - [Teaching the process of science rather than factual knowledge better prepares undergraduates for diverse careers (author's argued position)](process-over-facts-science-curriculum.md) — related
+- [The book's stated aim is to awaken the scientist that every child carries inside, positioning science learning as universal rather than elite](scientist-in-every-child-positioning.md) — related

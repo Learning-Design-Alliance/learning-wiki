@@ -77,3 +77,4 @@ Narrative review citing a middle-school study of cooperative learning. The revie
 - [Cooperative learning significantly reduced perceived stress among marginalized middle school students](cooperative-learning-reduces-perceived-stress-marginalized.md) — a narrower finding that bears on this claim
 - [Cooperative learning significantly reduced victimization among marginalized middle school students](cooperative-learning-reduces-victimization-marginalized.md) — a narrower finding that bears on this claim
 - [Perceived acceptance in the group and stress-management strategies are proposed mechanisms for play therapy reducing insecure attachment](group-acceptance-mechanism-insecure-attachment.md) — related
+- [Peer cooperation follows social hierarchy, with friendship eliminating rank-based differences in sent tokens](hierarchy-cooperation-friendship-moderator.md) — related

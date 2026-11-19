@@ -61,3 +61,4 @@ Achievement was measured with the authors' own [Quadratic Equation Achievement T
 - [AI-supported inquiry-based learning significantly improved secondary students' creative mathematical performance compared with traditional instruction](ai-ibi-improves-creative-mathematical-performance.md) — related
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — related
 - [CLIL students scored higher than non-CLIL students on a mathematics test of quadratic equations](clil-students-score-higher-math-test.md) — related
+- [A pilot AR application for plotting quadratic equations was viewed by students as enhancing the teaching-learning process](ar-quadratic-pilot-positive-reaction.md) — related

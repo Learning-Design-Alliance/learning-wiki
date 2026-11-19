@@ -50,3 +50,4 @@ The editorial summarizes Kazemitabar, Lajoie and Li's qualitative theory-driven 
 - [Constructive conflict positively predicts the development of a shared mental model of the task in teams](constructive-conflict-builds-shared-mental-models.md) — related
 - [Co-construction alone does not contribute to shared mental model development and shows a negative unique effect](co-construction-alone-hinders-shared-mental-models.md) — related
 - [Team spirit motivated slower teams to persist, and the co-located classroom setting revealed the physical, face-to-face nature of teamwork](team-spirit-and-face-to-face-benefits.md) — a narrower finding that bears on this claim
+- [In an online cybersecurity course, students attribute learning benefits, teamwork support, and maintained participation and interest to a series of integrated online hackathon interventions](hackathon-interventions-perceived-learning-teamwork.md) — related

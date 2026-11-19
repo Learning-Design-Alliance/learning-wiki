@@ -50,6 +50,7 @@ Because online, out-of-class assessments suffer lower completion, the authors re
 - [Use four recommended practices — multiple email reminders, multiple in-class announcements, and participation credit for pretest and posttest — to maximize online assessment participation](four-recommended-practices-online-assessment-participation.md)
 - [When administering pre/post assessments online, use in-class reminders, email reminders, and credit for participation to reach paper-equivalent participation rates](recommended-practices-raise-online-assessment-participation.md)
 - [Security and motivation measures for online unproctored RBA administration](online-unproctored-rba-security-measures.md)
+- [Allocate in-class time for survey completion to raise participation rates](in-class-time-for-survey-completion.md)
 
 ## Examples
 -

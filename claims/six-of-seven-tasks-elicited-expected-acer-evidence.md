@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-11-19
 sources:
   - id: amali-priyanka-jambuge-and-james-t-laverty-2021
     resource: "https://doi.org/10.48550/arXiv.2106.13028"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Six of the seven designed tasks elicited student reasoning capturing evidence for each ACER component, indicating the intended cognitive processes were tapped. [→ Amali Priyanka Jambuge and James T. Laverty 2021](#amali-priyanka-jambuge-and-james-t-laverty-2021)

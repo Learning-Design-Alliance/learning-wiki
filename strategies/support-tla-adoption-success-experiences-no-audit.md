@@ -41,7 +41,8 @@ To promote adoption of analytics-informed teacher inquiry, the article recommend
 - [Teachers would engage in analytics-informed inquiry if they saw direct benefits for student outcomes and the process were a regular part of their work](../claims/teacher-inquiry-incentives-direct-benefits-routine.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Adopt a mobile-based gradebook with outcomes analytics to support feedback and academic planning](mobile-gradebook-outcomes-analytics-strategy.md)
 
 ## Examples
 -

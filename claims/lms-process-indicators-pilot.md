@@ -58,3 +58,4 @@ Descriptive log analysis of the experimental group (N = 15) over eight weeks, ag
 - [Students in the non-adaptive condition reached significantly higher average mastery probabilities than students in the adaptive condition](non-adaptive-condition-higher-mastery-probabilities.md) — related
 - [Log analysis shows adaptive condition concentrates practice on unmastered concepts while random condition over-practices easy ones](bkt-adaptivity-log-practice-allocation.md) — related
 - [Implementing the pedagogical interaction model's improvement conditions shifted experimental-group students toward higher interaction levels](interaction-levels-improve-experimental-group.md) — related
+- [LMS implementation success is determined by the level of adoption and use by faculty and students](lms-success-determined-by-end-user-adoption.md) — related

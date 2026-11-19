@@ -49,3 +49,4 @@ Comparison analysis (Table 5, Nstudents = 79): linear regression of final grade 
 - [Monitoring learning activities in a student's personal workspace via a configured virtual appliance is feasible in a real course](virtual-appliance-workspace-monitoring-feasible.md) — related
 - [In-class chat engagement significantly predicts higher test scores in MAIC courses](chat-engagement-predicts-test-scores.md) — related
 - [Counts of specific tool-use events (WorkTime, Command, Compile, Editor, Profiler, IDE) correlate positively and significantly with final course grade](tool-use-events-correlate-with-final-grade.md) — related
+- [Node degree correlates positively and significantly with forum features, individual LMS activity, and previous and current academic performance, validating it as a proxy for collective intelligence exposure](node-degree-validates-collective-intelligence-proxy.md) — related

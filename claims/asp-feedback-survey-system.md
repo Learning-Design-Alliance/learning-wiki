@@ -47,3 +47,4 @@ Descriptive account of the program's evaluation design: end-of-edition feedback 
 ## Related Claims
 - [Most ASP alumni stay in Africa: only 20% go outside for higher education and research](asp-alumni-20-percent-leave-africa.md) — related
 - [Co-designed alumni surveys move districts from hunches about alumni experiences to concrete empirical evidence validating programs or pinpointing preparation gaps](co-designed-alumni-surveys-hunches-to-evidence.md) — related
+- [Nine ASP alumni completed 3-6 month short-term research visits at Brookhaven National Laboratory in 2019, with reported outcomes including completed PhDs and a published paper](asp-short-term-research-visits-bnl-2019.md) — related

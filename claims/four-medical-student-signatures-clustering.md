@@ -53,3 +53,4 @@ Analysis of the training group (90% of 946 records with 23 selected features) us
 - [K-means clustering of K–8 students' platform trace data yields seven distinct engagement profiles](seven-engagement-profiles-k8-elearning.md) — related
 - [K-means clustering of standardized prior knowledge and final grades yields four performance profiles: Consistent Achievers, Growing Achievers, Declining Performers, and Struggling Performers](four-kmeans-achievement-trajectory-profiles.md) — related
 - [Hierarchical clustering of CDM attainment probabilities identifies five learner groups with distinct patterns of professional standards attainment](five-learner-profiles-standards-attainment.md) — related
+- [Two-step cluster analysis of feature preferences yields two teacher clusters, with pluggability the most important predictor](two-cluster-feature-preferences-pluggability.md) — related

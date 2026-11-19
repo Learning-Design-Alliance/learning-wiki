@@ -47,6 +47,7 @@ Based on the finding that acknowledging technological applications is not enough
 ## Related Strategies
 
 - [Use analogies to everyday phenomena when teaching advanced physics concepts to high school students](everyday-analogies-for-advanced-physics.md)
+- [Six didactic proposals for high-school Quantum Physics teaching](six-didactic-proposals-quantum-physics-high-school.md)
 
 ## Examples
 -

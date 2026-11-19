@@ -64,6 +64,7 @@ Selection quality directly shapes cognitive load: poorly chosen or redundant mat
 - [Scaffolded Questioning](scaffolded-questioning.md) — curated materials give the questioning sequence something reliable to build on
 - [Text Set Construction](text-set-construction.md) — a specific form of curation focused on multiple perspectives on one topic
 - [Class-sourcing: students curate and share resources, reviewed by faculty and peers](class-sourcing-student-curated-resources.md)
+- [Selecting making materials with wide property ranges that avoid textbook representations](craft-materials-wide-properties-avoid-textbook-representations.md)
 
 ## Examples
 - **[MERLOT](https://www.merlot.org)** — peer-reviewed repository of online teaching materials with user ratings and review metadata, institutionalizing curation criteria.

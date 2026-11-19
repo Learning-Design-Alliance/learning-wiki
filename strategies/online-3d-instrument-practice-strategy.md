@@ -47,6 +47,7 @@ The authors recommend breaking through the traditional lab-operation practice mo
 - [Integrate virtual and augmented reality as supplementary tools rather than full replacements for traditional learning methods](integrate-vr-ar-as-supplementary-tools.md)
 - [Use virtual simulation games as a preliminary or complementary method to face-to-face simulation and clinical practice](vsg-as-preliminary-or-complementary-simulation.md)
 - [Use risk-free high-fidelity VR simulation to complement physical training for hazardous clinical procedures](risk-free-vr-pretraining-for-hazardous-procedures.md)
+- [For online lab courses, use interactive virtual labs, simulations, and reflective assignments based on pedagogical journal articles](virtual-labs-simulations-journal-article-reflection-labs.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ A second growth model added condition × ability interaction terms (LA vs. AA an
 
 ## Related Claims
 - [Students with a learning disability started about one standard deviation lower in reading comprehension and did not catch up to typically developing peers by fourth grade, which the authors interpret as a developmental deficit](ld-reading-comprehension-developmental-deficit.md) — related
+- [Interaction with teachers increased in virtual context for AA and LA groups but remained unchanged for HA students](teacher-interaction-increased-aa-la.md) — related

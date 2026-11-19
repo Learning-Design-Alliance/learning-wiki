@@ -65,3 +65,4 @@ Pre/post results for the question on which orientations of velocity, magnetic fi
 
 ## Related Claims
 - [Lecture Demo Prediction Gut Feeling](lecture-demo-prediction-gut-feeling.md)
+- [AR movement-sensing software enhanced physics learners' learning attitude and learning result in magnetic field instruction](ar-magnetic-field-learning-attitude-result.md) — related

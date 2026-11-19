@@ -52,6 +52,7 @@ Based on the meta-analysis's moderator findings, the authors propose a formula o
 
 - [Use computer-delivered practice to free teacher time for explicit instruction and enable smaller instructional groupings](computer-delivered-practice-frees-teacher-explicit-instruction.md)
 - [Deliver specialist GP education on youth suicide risk as small face-to-face group training supplemented by online resources, with young people involved in delivery](gp-youth-suicide-training-strategy.md)
+- [Supplement large active-learning modules with breakout/tutorial sessions, interactive online activities and peer assessment](supplement-active-learning-breakouts-peer-assessment.md)
 
 ## Examples
 -

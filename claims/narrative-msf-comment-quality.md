@@ -73,3 +73,4 @@ Authors' interpretation in the Discussion of the low amount of negative and cons
 - [No specific number of respondents needed for reliable narrative MSF could be defined; feedback detail matters more than assessor count](narrative-msf-respondents-needed-undefined.md) — related
 - [Feedback perceived as strongly negative can evoke emotional responses including anger and discouragement, and may have detrimental consequences such as decreased motivation and reduced performance](negative-feedback-emotional-responses-detrimental-consequences.md) — related
 - [Negative feedback was easier for trainees to recall than positive feedback, which they described as a rare occurrence](negative-feedback-easier-recall.md) — reports the opposite
+- [Students' feedback on embedding wxMaxima and other CAS in Calculus courses was predominantly negative](student-feedback-negative-toward-cas-embedding.md) — related

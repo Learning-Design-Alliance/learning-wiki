@@ -48,6 +48,7 @@ Before introducing CCD content, students inspect familiar airplane models (die c
 - [Use open-ended non-routine problems as lesson starters](open-problems-as-lesson-starters.md)
 - [Introduce concept mapping through direct training, attend to computer ability, and start with familiar topics](concept-mapping-implementation-recommendations-efl.md)
 - [Games + Structured Activity](games-structured-activity.md)
+- [Introduce quantum topics through analogies with familiar classical engineering content, from classical control theory to Fourier filter design.](classical-first-analogies-quantum-engineering-teaching.md)
 
 ## Examples
 -

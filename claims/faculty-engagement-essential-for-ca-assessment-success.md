@@ -57,3 +57,4 @@ Cross-case qualitative finding (RQ2-3) from documents, interviews, and cognitive
 - [Faculty organized EdTech integration decisions in ways aligned with the principles](dexter-2023-faculty-decisions-aligned-principles.md) — related
 - [Participants identify skilled facilitation, curriculum integration, institutional support, and simulation's safe learning environment as enablers of sim-IPE](sim-ipe-implementation-enablers.md) — related
 - [Institutional investment in and recognition of faculty contribution to CBL supports improved student knowledge outcomes and engagement](cbl-faculty-investment-recognition-improves-outcomes.md) — related
+- [The article argues that teaching assistants' contribution and cooperation are essential to a smooth and successful teaching process](ta-contribution-essential-to-smooth-teaching.md) — related

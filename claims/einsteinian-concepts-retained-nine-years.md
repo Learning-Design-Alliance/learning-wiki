@@ -67,3 +67,4 @@ Long-term follow-up questionnaire and phone interviews with 11 of the original 2
 - [Students retained Einsteinian physics concepts one and three years after the programme, with 76% explaining the space-gravity relation after one year and 67% after three years](einstein-first-delayed-retention.md) — related
 - [Nine of eleven follow-up participants said the primary Einsteinian physics intervention prepared them for future science learning](intervention-prepared-future-science-learning.md) — related
 - [All follow-up participants remembered at least one hands-on activity, most often from the Gravity Discovery Centre excursion](hands-on-activities-remembered-long-term.md) — related
+- [More than half of pupils' post-intervention explanations invoke modern-physics concepts (spacetime curvature or black holes)](majority-modern-physics-explanations-post-intervention.md) — related

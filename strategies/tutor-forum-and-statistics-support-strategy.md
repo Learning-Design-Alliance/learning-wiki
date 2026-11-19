@@ -49,6 +49,7 @@ Based on participant feedback and the authors' discussion of this course evaluat
 - [Clear Online Communication](clear_online_communication.md)
 - [Future e-learning developments should add practical exercises, an interactive forum, and more practical examples based on learner feedback](add-practical-exercises-forum-and-examples-to-e-learning.md)
 - [Iteratively refine hybrid genomics courses using student feedback: add synchronous video sessions, moderate discussion boards, and add a genomics policy advocacy assignment](iterative-refinement-hybrid-genomics-courses-strategy.md)
+- [Supplement large active-learning modules with breakout/tutorial sessions, interactive online activities and peer assessment](supplement-active-learning-breakouts-peer-assessment.md)
 
 ## Examples
 -

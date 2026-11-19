@@ -51,3 +51,4 @@ Pre-course free-response gravitation question answered by 79 students and post-c
 - [Lynn's substance-based reasoning mapped gravity onto force per unit mass, the correct definition of gravitational field](substance-gravity-mapped-to-gravitational-field.md) — related
 - [Most preservice teachers believe the Moon does not rotate on its axis, and none correctly explained the Moon's same-face motion or a lunar eclipse](moon-motion-misconceptions-preservice-teachers.md) — related
 - [The review reports that primary-school children commonly lack a spherical-Earth gravity model and associate gravity with the presence of air](children-gravity-air-alternative-conceptions-reported.md) — related
+- [Prior to intervention, pupils showed poor understanding of gravity as interaction but good grasp of Euclidean geometry basics](prior-knowledge-gravity-effects-euclidean-basics.md) — related

@@ -89,3 +89,4 @@ Item 'What is a black hole?' (Figure 11). Before, 57% did not feel confident to 
 - [The RSA activity improves mastery of Kepler's laws, with the largest gain on the second law, and improves understanding of gravity assist](rsa-improves-kepler-laws-and-gravity-assist.md) — related
 - [The RSA activity raises correct understanding of space-time and its deformation, with most students shifting to 'any mass' as the cause of deformation](rsa-improves-spacetime-deformation-answers.md) — related
 - [The RSA activity reduces the misconception that gravity points downward, but does not fully solve the misconception that only big masses deform space-time](rsa-reduces-downward-gravity-misconception-not-big-mass.md) — related
+- [The RSA activity helps high school students visualize, comprehend and remember Newtonian gravity and GR topics better than a traditional treatment](rsa-activity-improves-gravity-comprehension.md) — a broader claim this one bears on

@@ -63,3 +63,4 @@ Daily activity analysis in the within-class experiment, shown in Fig. 2 with the
 - [In the flipped course, video-lecture access correlates positively with exam scores and with GPA, and higher-GPA students spread viewing more evenly across weeks](video-access-correlates-with-exam-scores-and-gpa.md) — related
 - [Students accessed laboratory videos most just before lab due dates, but showed little spike around homework due dates and rarely revisited old videos before exams](video-access-timing-tied-to-assignments.md) — related
 - [Failing students delay engagement with the course project until the end of the term while passing students access it throughout](project-access-timing-passing-failing.md) — related
+- [Without grade incentives, students stopped completing in-class collaborative activities and out-of-class work in flipped and asynchronous online classes](grade-incentives-needed-online-activities.md) — related

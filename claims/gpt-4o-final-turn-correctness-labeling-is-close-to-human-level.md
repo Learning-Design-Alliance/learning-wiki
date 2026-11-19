@@ -66,3 +66,4 @@ Final-turn accuracy against CoMTA's ground-truth labels in the human evaluation:
 - [GPT-4o-mini natural language feedback was overwhelmingly helpful and never harmful in quality annotation](nl-feedback-quality-92-percent-helpful.md) — related
 - [Some VLMs perform near chance on binary judgments of student correctness, and error-assessment behavior is idiosyncratic across models](binary-correctness-judgments-near-chance.md) — related
 - [A GPT-4 few-shot binary classifier effectively identifies correct/incorrect trainee responses across three tutor-training lessons, with average F1 of 0.84 and AUC of 0.85](gpt4-few-shot-classifies-trainee-responses.md) — related
+- [Weak supervision combined with model-assisted labeling cut expert annotators' labeling time by 70% while maintaining accuracy comparable to traditional labeling](weak-supervision-model-assisted-labeling-reduces-annotation-time.md) — related

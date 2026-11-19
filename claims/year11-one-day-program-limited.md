@@ -50,3 +50,4 @@ Pre/post conceptual questionnaire study of 27 Year 11 National Youth Science For
 - [The authors judge insufficient instructional intensity (dosage) as the primary factor behind the null result of learning strategies instruction in adult education](insufficient-dosage-primary-factor-null-strategy-outcome.md) — related
 - [Students show improved conceptual understanding of Einsteinian concepts after the Einstein-First program](einstein-first-improved-conceptual-understanding.md) — related
 - [Conceptual scores differed significantly from pre-test to post-test across Years 7-10 after a one-day Einsteinian physics intervention, in one uncontrolled pre-post study](one-day-einsteinian-intervention-conceptual-gains.md) — related
+- [Reinforcement learning through in-class revision and an excursion benefited Class 1, indicating longer programs are needed for consolidation](reinforcement-learning-consolidates-einsteinian-concepts.md) — related

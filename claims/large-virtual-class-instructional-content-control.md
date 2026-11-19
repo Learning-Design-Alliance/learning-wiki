@@ -64,3 +64,5 @@ Interview theme on managing instructional delivery, illustrated by individual pa
 - [Having group representatives present their answers in front of the class embarrassed students and backfired, and the strategy was immediately abandoned.](group-representative-presentations-backfired.md) — related
 - [In Implementation 3, Teacher C lectured centrally about all aspects of science while Teacher D questioned students about Biology as a discipline](bsc-teacher-c-versus-d-implementation-3.md) — related
 - [Breakout rooms with a shared whiteboard can productively replicate collaborative case-problem solving online, albeit at a slower pace](breakout-rooms-replicate-collaborative-case-problem-solving-online.md) — related
+- [Breakout rooms succeeded when structured, incentivized, and supported, but failed when group members did not participate](breakout-room-structure-incentive-support.md) — related
+- [Remote collaboration tools enabled a successful hybrid camp edition and new teaching and mentoring opportunities](remote-tools-hybrid-camp-success.md) — related

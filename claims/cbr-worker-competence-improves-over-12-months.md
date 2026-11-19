@@ -51,3 +51,4 @@ Descriptive ENACT-E observational analysis of 30 role-play and 55 CBR session as
 - [Initial stigma and fear towards people with schizophrenia among CBR workers was reduced through direct contact during field work, not through training alone](contact-reduces-lay-worker-stigma-schizophrenia.md) — related
 - [Multi-modal training combining role-plays with immediate feedback, field practice and participatory teaching contributed to early competence development](multimodal-training-role-plays-feedback-field-practice.md) — a broader claim this one bears on
 - [Within-group improvements in mental health knowledge, attitudes, and clinical competence occurred in both RESHAPE and control groups](reshape-knowledge-competence-within-group-gains.md) — related
+- [Students' template-scored problem-solving skills improved over the term, with overall scores rising from 45% to 55%](problem-solving-scores-improved-45-to-55.md) — related

@@ -45,4 +45,4 @@ The article uses Brousseau's Theory of Didactical Situations (TDS), a design and
 -
 
 ## Key Sources
-- Bruun, J. and Christiansen, F. V. (2014). Kinesthetic activities in physics instruction: Image schematic justification and design based on didactic situations.
+- Bruun, J. and Christiansen, F. V. (2014). Kinesthetic activities in physics instruction: Image schematic justification and design based on didactic situations. [doi:10.48550/arxiv.1410.4602](https://doi.org/10.48550/arxiv.1410.4602)

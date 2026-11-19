@@ -46,6 +46,7 @@ The article recommends giving the survey as a pre-test in the first week of the 
 - [Use pre/post attitude surveys with detailed instructor feedback reports as formative assessment for lab course transformation](formative-attitude-survey-feedback-reports-lab-courses.md)
 - [Use a four-quadrant attitudes survey to give instructors actionable evidence for lab course transformation](four-quadrant-survey-for-lab-transformation-feedback.md)
 - [Match beliefs and self-efficacy survey choice to purpose: CLASS for quick broad measurement, SOSEC-P for detailed self-efficacy, PSEQ for short combined use](match-beliefs-self-efficacy-survey-to-purpose.md)
+- [Allocate in-class time for survey completion to raise participation rates](in-class-time-for-survey-completion.md)
 
 ## Examples
 -

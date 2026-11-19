@@ -70,3 +70,4 @@ Same combined teacher attitudinal questionnaire (Table 4); question 4(d) on fund
 - [Year 6 students find Einsteinian concepts interesting and do not consider themselves too young to learn them](einstein-first-year6-attitudes.md) — related
 - [Student perception of being too young to understand Einsteinian physics varied by age, with 56% of 5-9 year olds agreeing and 56% of 10-14 year olds disagreeing](age-dependence-too-young-perception.md) — related
 - [Teachers support interdisciplinary curriculum integration but identify resource limitations, not curricular constraints, as the main barrier](e-textile-steam-integration-attitudes-barriers.md) — related
+- [High school teachers reacted positively to the RSA training and expressed willingness to include the activity in their teaching](teachers-positive-reaction-rsa-training.md) — related

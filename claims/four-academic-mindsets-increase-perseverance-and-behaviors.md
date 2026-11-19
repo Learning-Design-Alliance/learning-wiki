@@ -92,3 +92,4 @@ The review's synthesis of psychological research on belonging, implicit theories
 - [Basic psychological needs positively predict college students' academic self-efficacy](bpn-predict-academic-self-efficacy.md) — related
 - [A \"never quit\" award and reflexive questions created concrete opportunities for preschool children to persevere and develop participation and effort](never-quit-award-preschool-effort.md) — a narrower finding that bears on this claim
 - [In the landscape of college physics challenges, mindset beliefs cannot always be considered the dominant factor in how students respond to challenge](mindset-beliefs-not-always-dominant.md) — a narrower finding that bears on this claim
+- [Short classroom activities at the beginning of a course can improve students' sense of belonging and intelligence mindset, especially for those who need it most](short-start-of-course-activities-improve-belonging-mindset.md) — a narrower finding that bears on this claim

@@ -47,6 +47,7 @@ The authors recommend, invoking cognitive load theory, that "instructors should 
 - [Sequence virtual simulation before authentic video across skill-development stages in teacher observation training](sequence-vs-then-av-teacher-training.md)
 - [Design and implement VS teaching with simplified interfaces, multimodal feedback, multilingual diverse case libraries, pre-training, and controlled VR session lengths](vs-design-recommendations-strategy.md)
 - [Ensure participant familiarity with VR before deploying it for instruction](ensure-vr-familiarity-before-instruction.md)
+- [Simplify novel-technique controls and support teachers when deploying role-play and immersive tools in lectures](simplify-role-play-controls-support-teachers-immersive-lecturing.md)
 
 ## Examples
 -

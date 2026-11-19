@@ -85,3 +85,4 @@ Distribution of TA grades (Fig. 4) at both time points; the article reports 'the
 - [TAs' grading practices did not change significantly after the 15-week professional development course with rubric activities](tas-grading-practices-unchanged-after-pd-course.md) — related
 - [TAs scored elaborated and brief student solutions similarly on average before rubric use, with most TAs split between favoring either solution](tas-initial-scores-elaborated-vs-brief-solutions.md) — reports the opposite
 - [First-year physics TAs initially grade mainly on correct application of physics and final answer rather than on explication of the problem-solving process](tas-initially-grade-on-final-answer-not-explication.md) — related
+- [The correlation between TA-assigned scores and template problem-solving scores increased substantially over the term, from r = 0.286 to r = 0.689](ta-grading-template-correlation-increased.md) — related

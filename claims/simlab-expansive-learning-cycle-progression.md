@@ -72,3 +72,4 @@ Qualitative case-study analysis of 157 minutes of audio-recorded group discussio
 - [The tele-education intervention prompted structural and process-of-care changes, with the vast majority evaluated as fully implemented](tele-education-structural-process-changes-icu.md) — related
 - [Reported outcomes of clinical leadership interventions span personal development, leadership knowledge and skills, clinical skills, teamwork, patient care and service delivery](clinical-leadership-intervention-outcomes-range.md) — related
 - [In-situ simulation with real teams in their standard environment introduces the social and cultural context needed for effective team training](in-situ-simulation-introduces-cultural-context.md) — a broader claim this one bears on
+- [Reinforcement learning through in-class revision and an excursion benefited Class 1, indicating longer programs are needed for consolidation](reinforcement-learning-consolidates-einsteinian-concepts.md) — related

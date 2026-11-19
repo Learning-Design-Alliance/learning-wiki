@@ -67,3 +67,4 @@ Between-cohort comparison of percent-correct on the 3 factual/topographic items 
 - [Item-level GEE analyses corroborate a significant cohort × item-type interaction favoring VR on spatial items](gee-cohort-item-type-interaction-favoring-vr.md) — possibly the same claim (merge candidate)
 - [Metaverse-based interactive VR instruction is associated with higher overall anatomy test performance than a conventional 2D online lecture](metaverse-vr-higher-overall-anatomy-test-performance.md) — a broader claim this one bears on
 - [The within-student spatial–factual difference score shifts from negative in the Conventional cohort to positive in the VR cohort](within-student-spatial-factual-delta-shift.md) — related
+- [In Luddy VR, experiment-cohort users scored higher on a mid-questionnaire about the virtual building's topology than control users](luddy-vr-reflective-phase-higher-mid-questionnaire-score.md) — related

@@ -44,6 +44,7 @@ The review recommends combining Internet of Things sensing and biometric verific
 
 - [Mitigation strategies pairing each AI-DSS challenge with a targeted countermeasure](ai-dss-challenge-mitigation-strategies.md)
 - [Layer multiple safeguards to protect academic integrity in online examinations](online-exam-integrity-safeguards.md)
+- [Live-proctor virtual assessments via video conference to address academic integrity in physics problem-solving exams](live-video-proctoring-physics-assessments.md)
 
 ## Examples
 -

@@ -55,3 +55,5 @@ Correlational field study at a large four-year university measured the mindset b
 - [The growth-mindset performance advantage is driven by non-major courses, with no significant relationship for major courses](growth-mindset-effect-driven-by-non-major-courses.md) — related
 - [Final grade, but not commitment to active learning, varies by race/ethnicity in this course](race-ethnicity-grade-difference-active-learning.md) — related
 - [White students earned higher final course grades than underrepresented minority students in this course](racial-grade-gap-active-learning-course.md) — related
+- [The article reports, citing a study of 150 STEM instructors, that instructors with fixed mindsets about students' ability had larger achievement and motivation gaps for racial and ethnic minority students](instructor-fixed-mindset-larger-achievement-gaps.md) — possibly the same claim (merge candidate)
+- [Students from underrepresented racial/ethnic groups receive a course grade penalty of 0.225 grade points under 4-point grading compared to their peers.](urm-grade-penalty-clasp4.md) — related

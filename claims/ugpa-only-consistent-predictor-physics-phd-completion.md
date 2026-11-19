@@ -52,3 +52,5 @@ Multivariate logistic regression of 3962 physics PhD matriculants across four an
 - [Undergraduate GPA is a stronger predictor of graduate outcomes than GRE scores](undergrad-gpa-stronger-predictor-than-gre.md) — related
 - [Graduate GPA is the admissions-related measure most strongly correlated with PhD completion (rpb = 0.43)](ggpa-strongest-correlate-phd-completion.md) — related
 - [UGPA is the only tested admissions metric that significantly predicts PhD completion, and its effect is entirely indirect through graduate GPA (total effect 6.0% for a 25th-to-75th percentile change)](ugpa-only-significant-predictor-completion-indirect.md) — possibly the same claim (merge candidate)
+- [Collider stratification on graduate admission substantially changes estimated predictive effect sizes of admissions metrics for graduation](collider-stratification-inflates-admissions-effect-estimates.md) — related
+- [Dropping both GREs from physics graduate admissions would substantially reduce graduation predictive power, while dropping only GRE-P would lose substantially less](dropping-both-gres-loses-graduation-predictive-power.md) — related

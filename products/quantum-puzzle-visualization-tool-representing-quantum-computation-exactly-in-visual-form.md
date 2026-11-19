@@ -32,4 +32,4 @@ A Quarks Interactive educational software tool in which learners construct quant
 ## Key Sources
 - Nita, L., Mazzoli Smith, L., Chancellor, N. and Cramman, H. (2020). The challenge and opportunities of quantum literacy for future education and transdisciplinary problem-solving. https://www.un.org/sustainabledevelopment/education/
 - Wootton, J. R., Harkins, F., Bronn, N. T., Carrera Vazquez, A., Phan, A., & Asfaw, A. T. (2020). Teaching quantum computing with an interactive textbook. https://arxiv.org/abs/2012.09629
-- Nita, L., Chancellor, N., Mazzoli Smith, L., Cramman, H. & Dost, G. (2021). Inclusive learning for quantum computing: supporting the aims of quantum literacy using the puzzle game Quantum Odyssey. https://quarksinteractive.com
+- Nita, L., Chancellor, N., Mazzoli Smith, L., Cramman, H. & Dost, G. (2021). Inclusive learning for quantum computing: supporting the aims of quantum literacy using the puzzle game Quantum Odyssey. https://quarksinteractive.com. [doi:10.48550/arxiv.2106.07077](https://doi.org/10.48550/arxiv.2106.07077)

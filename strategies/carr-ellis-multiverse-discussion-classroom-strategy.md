@@ -38,7 +38,8 @@ The chapter recommends the recent multiverse controversy as teaching material be
 - Critical and rational thinking about borderline scientific questions
 
 ## Related Strategies
-- 
+
+- [Use history and philosophy of science cases, such as the falsifiability of the geocentric model, to teach what makes a theory scientific](demarcation-cases-teach-scientific-reasoning.md)
 
 ## Examples
 -

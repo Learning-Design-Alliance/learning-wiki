@@ -67,3 +67,4 @@ Descriptive statistics from the same classification of 78 studies. The review re
 - [The pedagogical agent cue reduced physical presence compared to no cueing and self-presence compared to both other conditions](pedagogical-agent-cue-reduces-presence.md) — related
 - [3D VR co-creation forms a more connected, centralized, and reciprocal aggregate social network with fewer cliques than 2D digital co-creation](vr-cocreation-denser-more-centralized-networks.md) — related
 - [Students characterized their VR experience through a feeling of taking part in conversations, showing co-presence with the people in the film during collaborative reflection](feeling-of-taking-part-in-vr-conversations.md) — related
+- [The relation between classroom centrality and performance depends on the nature of the task and learning environment](task-type-moderates-centrality-performance.md) — related

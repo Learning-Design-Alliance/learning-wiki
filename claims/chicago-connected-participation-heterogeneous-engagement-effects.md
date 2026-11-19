@@ -65,3 +65,4 @@ OLS multivariate models on 77,056 CPS students in grades 5-8 predicted a three-c
 - [Chicago Connected participation was associated with higher fall 2020 and spring 2021 GPAs for high pre-pandemic GPA students and lower GPAs for low pre-pandemic GPA students](chicago-connected-participation-heterogeneous-gpa-effects.md) — related
 - [Chicago Connected eligibility was associated with a slightly lower fall 2020 GPA in the full analytic sample, with no variation by pre-pandemic academic performance](chicago-connected-eligibility-lower-gpa-full-sample.md) — related
 - [Group heterogeneity decreases average participation overall but increases participation of the highest-scoring students](heterogeneity-participation-leadership-shift.md) — related
+- [LH students engaged with the programming module despite low attendance through remote use of Codio lessons](lh-group-engaged-despite-low-attendance-remote-codio.md) — related

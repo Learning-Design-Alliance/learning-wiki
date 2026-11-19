@@ -69,3 +69,4 @@ Instructor action following the dead zone finding in the same pilot. The article
 - [An agentic AI instructor sustained and deepened student engagement across successive course modules in a field deployment](agentic-instructor-sustained-engagement-iisc.md) — related
 - [Low-performing students tended to procrastinate more on graded problem-solving exercises and on video watching with formative MCQs](low-performers-procrastinated-exercises-and-videos.md) — related
 - [Viewing of the personalized AI videos declined sharply across the quarter, with views of the first week-9 video set suggesting fewer than 10% of the course population was watching voluntarily by the end of the course](video-views-declined-across-quarter.md) — related
+- [Weekly video views and scores diverged: a week of low video views preceded a fourfold surge in views with underperforming scores, then higher scores with less video attention](video-views-score-divergence-circuit-course.md) — related

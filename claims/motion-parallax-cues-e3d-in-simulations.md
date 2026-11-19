@@ -49,3 +49,4 @@ Findings from the author's prior qualitative study of discernment of dimensional
 - [Students commonly misplace stars within the solar system and misinterpret parallax and stellar distances, including trainee science teachers](stars-placed-within-solar-system-misconception.md) — related
 - [An alarming 43% of first-year astronomy undergraduates focused on non-disciplinary things in presented representations](first-year-non-disciplinary-discernment-43-percent.md) — related
 - [What is possible for students to perceive or discern in a laboratory depends on the measurement technology used, even when the object of learning is the same](technology-determines-discernible-critical-features-labs.md) — a broader claim this one bears on
+- [Students in the VR parallax activity measured parallactic motion in VR and derived quantitative star distances, with the vast majority performing well on the tasks](vr-parallax-quantitative-worksheet-performance.md) — related

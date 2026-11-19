@@ -45,6 +45,7 @@ Based on open-ended student feedback, the authors recommend course reforms: stud
 - [Post pre-class online review materials for forgotten prerequisite knowledge (e.g., neuroanatomy) to free class time](preclass-online-review-of-prerequisite-knowledge.md)
 - [Optimize teaching structure and expand case resources when integrating an academic HIS into case simulation](optimize-structure-and-resources-academic-his-simulation.md)
 - [Refine hybrid BOPPPS structures by stressing course interconnections, clearer online instructions, and students-led summary while reducing self-learning burden](hboppps-refinement-strategy.md)
+- [Reallocate course hours based on evaluation results: reduce classical dynamics, expand BOA, add state-to-state reaction content](hour-reallocation-based-on-evaluation-results.md)
 
 ## Examples
 -

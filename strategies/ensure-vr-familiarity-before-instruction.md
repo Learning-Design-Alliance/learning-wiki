@@ -46,6 +46,7 @@ The article recommends that, because unfamiliarity with VR controls and novelty 
 - [Sequence a basics lecture before simulation practice to manage cognitive load](basics-lecture-before-simulation-cognitive-load.md)
 - [Deliver 360-video/VR orientation resources before first clinical exposure, timed to the pre-clinical years and in concise, accessible formats](timed-preclinical-360-video-delivery-strategy.md)
 - [Prepare teachers and infrastructure before implementing VR-based learning on sensitive topics](teacher-preparation-technical-support-vr-implementation.md)
+- [Simplify novel-technique controls and support teachers when deploying role-play and immersive tools in lectures](simplify-role-play-controls-support-teachers-immersive-lecturing.md)
 
 ## Examples
 -

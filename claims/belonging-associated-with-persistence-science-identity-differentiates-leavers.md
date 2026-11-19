@@ -54,3 +54,5 @@ Comparison of coded belonging reasons between majors and leavers in the intervie
 - [Representation in the sub-discipline relates to belonging: women of color in pSTEM report belonging less frequently than white men](field-representation-relates-to-womens-belonging.md) — related
 - [Cisgender men speak more during small-group or whole-class discussions, reinforcing perceptions of greater competence in STEM.](men-speak-more-discussions-competence-perceptions.md) — related
 - [Attrition rates differ widely across majors, with physics and mathematics students the most likely to drop and computer science, non-STEM, and psychology students the least likely](physics-mathematics-highest-attrition-among-declared-majors.md) — related
+- [Students identify diverse reasons why representation in STEM matters, spanning nine common themes](notecard-activity-representation-themes.md) — related
+- [Societal stereotypes, strongest in physics, contribute to lower sense of belonging for women and ERM students in physics](stereotypes-lower-belonging-women-erm-physics.md) — related

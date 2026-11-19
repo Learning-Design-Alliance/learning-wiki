@@ -70,3 +70,4 @@ Same approach-split 3-way ANCOVAs of the matched E-CLASS data. In Transformed co
 - [In the aggregate national E-CLASS data, women score significantly lower than men on overall scores both pre- and postinstruction, with a moderate effect size](eclass-aggregate-gender-gap-women-lower.md) — related
 - [Post-instruction E-CLASS scores are significantly higher in Transformed than Traditional courses, with no significant pre-instruction difference](transformed-higher-post-eclass-overall.md) — related
 - [Transformed DATA Lab courses produced higher expert-like attitudes about experimental physics than traditional lab courses after controlling for incoming E-CLASS scores](data-lab-e-class-gains-over-traditional-labs.md) — related
+- [Men scored higher than women on post E-CLASS scores, controlling for pre E-CLASS, high school GPA, and lab factors](men-higher-post-e-class-than-women.md) — related

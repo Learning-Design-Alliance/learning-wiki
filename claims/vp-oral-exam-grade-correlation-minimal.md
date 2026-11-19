@@ -51,3 +51,4 @@ Correlational analysis of individual final grades of 586 students who took both 
 - [Oral exam scores correlate only modestly with written exams and OSCEs (r = 0.10–0.74), suggesting oral exams assess distinct skills](oral-exam-distinct-validity-correlations.md) — a broader claim this one bears on
 - [Student performance with virtual patients correlates only weakly and non-significantly with performance with human standardized patients](vp-concurrent-validity-weak-correlation.md) — related
 - [Scores across assessment modalities (spotters, mid-term, final) showed significant positive zero-order correlations](assessment-modality-correlations-significant-positive.md) — related
+- [All P1–P6 exam question scores correlated positively and relatively strongly with the overall CSR exercise grade](pearson-correlations-question-exercise-grade.md) — related

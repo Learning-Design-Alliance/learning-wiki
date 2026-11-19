@@ -68,3 +68,5 @@ Attendance observation from the same experiential account of virtual training ev
 - [The series reached nearly 1,200 registrations across four events, drawing experienced educators from 22 countries](edcamp-dfl-reach-and-audience.md) — related
 - [Healthcare MOOCs reach massive, multinational audiences but suffer very high dropout rates, several exceeding 90%](mooc-healthcare-massive-audience-high-dropout.md) — related
 - [Only 23.1% of registrants attended all four sessions, with a 26.6% dropout rate](low-completion-voluntary-course.md) — related
+- [The fully virtual ASP2021 school in July 2021 attracted over 200 registrations with up to 70 daily online connections and an average of 56](asp2021-virtual-event-participation-numbers.md) — a narrower finding that bears on this claim
+- [Rough estimates put the HEP community needing software training at about 10K people per year, and training is fully voluntary for mentors and participants](hep-training-scale-10k-annual-voluntary.md) — related

@@ -46,9 +46,11 @@ The website operationalizes a learning sequence in which students first read on-
 - [In one qualitative interview study, science teachers report that AI tools let students experience risky or inaccessible phenomena and practise virtually before real lab work](../claims/ai-enables-authentic-contextualized-science-experiences.md) [+M]
 
 ## Related Strategies
+
 - Interferometry Educational Website Four Panes
 - Openfoam Optical Image Simulation Portal
 - Remote Mach Zehnder Interferometer Website Portal
+- [Frontload experimentation and data analysis with real or virtual optical experiments before introducing mathematical formalism](experiments-before-mathematics-quantum-course-strategy.md)
 
 ## Examples
 -

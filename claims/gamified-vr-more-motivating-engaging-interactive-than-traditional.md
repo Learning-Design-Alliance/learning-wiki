@@ -49,3 +49,4 @@ The review's synthesis of the included studies reports this comparative finding 
 - [Integrating virtual reality and gamification increased students' learning outcomes, motivation, engagement, and self-efficacy](gamified-vr-increased-learning-outcomes-motivation-engagement-self-efficacy.md) — related
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — a broader claim this one bears on
 - [Immersive lessons show a small effect size advantage over less immersive technology, but increased presence does not necessarily lead to more learning](immersive-lessons-small-advantage-presence-not-sufficient.md) — related
+- [The authors hypothesize, without reported evidence, that VR techniques significantly increase students' level of understanding of mathematics](vr-hypothesis-increases-math-understanding.md) — related

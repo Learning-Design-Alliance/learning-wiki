@@ -85,6 +85,7 @@ Cumulative review works because each retrieval strengthens memory and slows forg
 - Interleaving — the scheduling cousin: mixing problem types within a session complements mixing topics across sessions
 - [Include a small block of problems of a new skill at the start of an assignment, then interleave the rest](small-initial-block-then-interleave.md)
 - [Reserve a large enough block of problem-solving practice (about four weeks rather than two) at the end of a concepts-first course](four-week-problem-solving-block-strategy.md)
+- [Position computational activities as ungraded, end-of-unit reinforcement of already-learned concepts](end-of-unit-ungraded-computational-reinforcement.md)
 
 ## Examples
 - A middle-school mathematics teacher opens each class with two problems drawn from material taught in prior weeks, then moves to new content; unit tests include 30% cumulative items.

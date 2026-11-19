@@ -40,7 +40,8 @@ The Lee Teng Undergraduate Internships, instituted in FY 2008 by Argonne, Fermil
 - preparation for graduate study
 
 ## Related Strategies
-- 
+
+- [Organize a two-day accelerator workshop in which student groups take over distinct parts of an ongoing beam experiment with researcher and undergraduate mentors](accel-kitchen-two-day-mentor-supported-experiment-strategy.md)
 
 ## Examples
 -

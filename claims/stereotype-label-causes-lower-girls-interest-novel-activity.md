@@ -53,3 +53,4 @@ Preregistered within-subjects laboratory experiment with 50 8-year-old girls; de
 - [Girls started with lower interest in science than boys but gained significantly more, resulting in equal post-intervention interest](girls-lower-initial-interest-higher-gain.md) — related
 - [Gender-interest stereotypes favoring boys in computer science and engineering are endorsed across grades 1–12 and across racial/ethnic groups in a diverse sample](gender-interest-stereotypes-diverse-sample-grades-1-12.md) — related
 - [The intervention affected girls' intrinsic motivation but not boys'; girls reported significantly lower interest with computer-aided consolidation (CALC) than with teacher-assisted consolidation (CALT).](girls-intrinsic-motivation-affected-by-treatment.md) — related
+- [Both genders showed equal interest and enthusiasm in learning science, with no gender influence observed](equal-gender-interest-lower-primary-science.md) — related

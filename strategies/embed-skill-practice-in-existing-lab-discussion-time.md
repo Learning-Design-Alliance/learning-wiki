@@ -55,6 +55,7 @@ The authors designed their assignments "to require little additional class time 
 - [Embed new solutions into existing operations and procedures to sustain and scale them](embed-solutions-existing-operations.md)
 - [Instructors facing low FCI scores in a reformed curriculum may add homework problems and lab activities more aligned with the assessment's scope.](add-aligned-homework-labs-to-improve-fci.md)
 - [Address troubleshooting in lectures and lab manuals by highlighting common pitfalls for each lab activity](highlight-common-pitfalls-lectures-lab-manuals.md)
+- [Embed VR lessons in pre-VR lecture and post-VR peer activity using gradually released instruction](gradual-release-embedding-vr-lessons.md)
 
 ## Examples
 -

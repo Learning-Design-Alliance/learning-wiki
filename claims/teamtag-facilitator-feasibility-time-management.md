@@ -68,3 +68,4 @@ Facilitator time ratings in section 3.4: intervention facilitators reported enou
 - [TeamTAG focuses debriefing content: its six CRM principles are discussed more consistently, and topic repetition is more frequent without the aid](teamtag-focuses-content-reduces-repetition.md) — related
 - [Using the TeamTAG cognitive aid does not change the number of teamwork principles discussed in debriefings compared with roughly structured GAS debriefings](teamtag-no-difference-number-principles-discussed.md) — related
 - [Implementing VAD raised facilitator cognitive demand, debriefing time, and attention competition with the video, with segment-search time greater in lower-tech VAD](vad-implementation-costs-facilitator-cognitive-load.md) — related
+- [Instructor and student feedback indicated the experiment was turn-key, stable, and a rare undergraduate exposure to ultrafast spectroscopy](turn-key-stable-experiment-positive-feedback.md) — related

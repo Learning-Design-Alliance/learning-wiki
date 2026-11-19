@@ -49,3 +49,4 @@ Descriptive participation statistics reported in the paper's Structure and logis
 - [AstroCamp attracts more applications from girls than from boys, and in recent years about half of applicants have been foreign](astrocamp-applicant-gender-and-foreign-balance.md) — related
 - [Five of the ten students from the 2012 AstroCamp edition were doing science PhDs at the time of writing](astrocamp-2012-alumni-phd-outcomes.md) — related
 - [Work from AstroCamp computational projects has been included in several peer-reviewed publications](astrocamp-projects-in-peer-reviewed-publications.md) — related
+- [A total of 568 students have participated in the astrophysics Masterclasses since 2008, with rising applications](568-students-astrophysics-masterclasses.md) — related

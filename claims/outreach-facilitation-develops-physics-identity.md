@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-11-19
 sources:
   - id: callie-rethman-2021
     resource: "https://doi.org/10.1103/physrevphyseducres.17.020110"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students who facilitated informal physics programs reported positive development of their physics identity, sense of belonging to the physics community, and 21st century career skills. [→ Callie Rethman 2021](#callie-rethman-2021)
@@ -55,3 +56,4 @@ Mixed methods study combining a survey (117 responses) and interviews (35) with 
 - [PISEC facilitators showed a distinct membership profile: Accountability to the Enterprise dominated at 53% of Community Dimension codes, Mutuality of Engagement was higher than in the other programs (25%), and Negotiability of the Repertoire was least frequent (22%).](pisec-accountability-dominant-dimension-profile.md) — a narrower finding that bears on this claim
 - [The review reports that role-playing exercises significantly enhanced students' 21st-century skills including communication, collaboration, and critical thinking](role-play-enhances-21st-century-skills.md) — related
 - [Quavers to Quadratics facilitators showed more insider and inbound membership subcodes across all Community Dimension categories than Science Theatre facilitators, who had higher percentages of neutral codes.](quavers-more-insider-inbound-than-science-theatre.md) — a narrower finding that bears on this claim
+- [Undergraduate students who facilitate informal physics programs report gains in communication, teamwork, networking, and design skills](facilitating-informal-physics-benefits-undergrads.md) — possibly the same claim (merge candidate)

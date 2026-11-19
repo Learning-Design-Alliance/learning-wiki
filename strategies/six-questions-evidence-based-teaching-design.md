@@ -50,6 +50,7 @@ The article recommends that before implementing evidence-based teaching, instruc
 
 - [Develop OSCE preparatory curricula via Kern's six-step approach with a Delphi-defined goal and objectives stage](kern-six-step-microlearning-curriculum-strategy.md)
 - [Embed low-stakes formative assessment activities throughout the course, such as think-pair-share, clicker questions, tutorials with pre- and post-tests, collaborative problem solving, minute papers, and concept maps](embedded-low-stakes-formative-assessment-activities.md)
+- [Assess students' epistemological beliefs at course entry and design classroom actions aimed at improving them, avoiding practices that reinforce equation-plugging](assess-epistemological-beliefs-design-improving-activities.md)
 
 ## Examples
 -

@@ -95,3 +95,4 @@ Interview finding from the restricted-access sub-theme; however, the article rep
 - [Restricted clinical simulation laboratory operating hours limit student nurses' access to self-directed simulation learning in their free time](restricted-lab-hours-limit-ssl-access.md) — related
 - [Students identified SBL weaknesses of insufficient resources and facilities (68%), lack of trained staff (66%), and lack of accessibility (58%)](sbl-weaknesses-resources-staff-accessibility.md) — related
 - [Time and content knowledge were the primary barriers to engaging in cognitive tasks during UREs](time-and-content-knowledge-barriers-ure.md) — a narrower finding that bears on this claim
+- [Structural barriers to ESR in QIS courses include limited class time for technical content and politicization of contentious issues](structural-barriers-time-politicization-qis-esr.md) — related

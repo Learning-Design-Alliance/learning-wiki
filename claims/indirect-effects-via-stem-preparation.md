@@ -48,3 +48,4 @@ Mediation analysis within the longitudinal SEM tested total indirect effects of 
 - [High-school mathematics and science course-taking significantly predicted all measured posthigh-school STEM career pursuit outcomes](high-school-course-taking-predicts-career-pursuit.md) — related
 - [The intervention showed no significant direct effects on posthigh-school STEM career pursuit variables](no-direct-effects-posthigh-school-career-pursuit.md) — related
 - [Short series of STEM interventions show some impacts but limited evidence of lasting aspiration change](short-series-interventions-limited-aspiration-evidence.md) — related
+- [Participation in the North Carolina Science Olympiad significantly influenced high school students' college, major, and STEM career choices](nc-science-olympiad-influenced-stem-choice.md) — related

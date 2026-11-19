@@ -52,3 +52,4 @@ Post-session interviews with 4 students (one per group), 15-20 minutes each, tra
 - [Students may make real-world physics connections without valuing or labeling them as physics, adding complexity to interpreting attitude measures](connections-without-labeling-as-physics.md) — related
 - [Students valued the independence, real-world relevance, hands-on work, and collaboration in challenge based lessons](students-valued-independence-and-real-world-relevance.md) — a broader claim this one bears on
 - [Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application](students-want-curricular-relevance-and-life-skills.md) — related
+- [Computation in high school physics is a double-edged sword: it makes learning more authentic for familiar students but generates frustration and aversion for unfamiliar ones](computation-double-edged-sword-high-school-physics.md) — related

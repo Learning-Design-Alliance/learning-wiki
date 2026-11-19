@@ -54,3 +54,4 @@ Logistic and propensity-matched models in Table 7 for science club: odds ratios 
 - [Attending an inclusive STEM high school is not associated with declaring a STEM major at a two-year college](ishs-no-two-year-stem-major-effect.md)
 - [Preliminary estimates suggest UBMS participation increases the odds of majoring in math or science](ubms-increases-odds-math-science-major.md) — related
 - [The ISHS advantage in STEM career interest at the end of high school remains significant after controlling for prior middle school STEM interest and activity](ishs-impact-robust-to-prior-stem-interest-controls.md) — related
+- [Participation in the North Carolina Science Olympiad significantly influenced high school students' college, major, and STEM career choices](nc-science-olympiad-influenced-stem-choice.md) — related

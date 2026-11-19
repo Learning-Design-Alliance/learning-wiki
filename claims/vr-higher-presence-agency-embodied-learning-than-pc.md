@@ -52,3 +52,4 @@ In the 2x2 between-subjects experiment, 177 high school students learned a pipet
 - [High-immersion VR produced a significantly higher sense of presence than video instruction, with a large effect size](vr-higher-presence-than-video.md) — related
 - [VR can replicate fieldwork in the physical sciences but loses embodied presence in Geography, and Geography teachers need discipline-specific capabilities in GIS, remote sensing and UAVs](geography-vr-fieldwork-limits.md) — reports the opposite
 - [Participants experienced a good sense of presence in the virtual classroom, stable across the three sessions](good-sense-of-presence-virtual-classroom.md) — related
+- [Undergraduates' content-learning scores rose from pre-test to post-test after UW Virtual Brain lessons on both VR and PC devices, in single-group pre-post studies](uw-virtual-brain-learning-gains-both-devices.md) — related

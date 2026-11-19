@@ -76,3 +76,4 @@ Meta-regression and subgroup analyses on M1 tested child gender, parent gender, 
 - [The session's effectiveness in knowledge and attitude does not vary by socio-demographic characteristics, though baseline knowledge differs by education, occupation, income and household-head status](effectiveness-uniform-across-socio-demographics.md) — a narrower finding that bears on this claim
 - [Participation in the PLC learning community is equitably distributed across gender and ethnicity](plc-participation-equitably-distributed.md) — related
 - [No gender, ethnicity, or major differences emerged in pre-post self-efficacy scores in the MI courses](no-gender-ethnicity-major-self-efficacy-differences.md) — related
+- [Problem Project scores show moderate positive correlations with final exam scores across all demographic subgroups](problem-project-correlates-with-final-exam.md) — related

@@ -47,3 +47,4 @@ ENA difference graph for cognitive effects (Fig. 7): the review reports LE studi
 ## Related Claims
 - [Combining authentic assessment with collaborative learning activities characterizes high-effectiveness cognitive studies and is absent from low-effectiveness studies](authentic-assessment-collaboration-high-effectiveness.md) — related
 - [Most reviewed studies pursued real-life-experience authenticity, and no study combined all four intentions of authenticity](intentions-of-authenticity-implemented-studies.md) — related
+- [Computation in high school physics is a double-edged sword: it makes learning more authentic for familiar students but generates frustration and aversion for unfamiliar ones](computation-double-edged-sword-high-school-physics.md) — a narrower finding that bears on this claim

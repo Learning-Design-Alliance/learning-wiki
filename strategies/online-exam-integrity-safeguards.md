@@ -44,6 +44,7 @@ To reduce cheating as a confounder in online examinations, the study layered sev
 
 - [Integrate IoT and biometric technologies to augment the security, scalability, and operational efficiency of online proctoring systems](integrate-iot-biometric-proctoring.md)
 - [Manage ethical risks of AI-driven TEFL tools through data protection policies, fairness audits, human oversight, and balanced-use design](ethical-safeguards-ai-tefl-tools-strategy.md)
+- [Live-proctor virtual assessments via video conference to address academic integrity in physics problem-solving exams](live-video-proctoring-physics-assessments.md)
 
 ## Examples
 -

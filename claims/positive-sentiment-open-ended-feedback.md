@@ -72,3 +72,4 @@ Sentiment analysis of open-ended survey responses conducted by ChatGPT4, which t
 - [Residents' unprompted comments about the rapid feedback intervention were almost entirely positive (11 of 12)](resident-comments-on-rapid-feedback-mostly-positive.md) — related
 - [Student feedback on the story-writing activity was overwhelmingly negative in both semesters despite high effort](story-writing-negative-feedback.md) — related
 - [Most players reached the neutral ending rather than the promotion ending, and student feedback drove design revisions](ethics-game-ending-distribution-and-revisions.md) — related
+- [Students' feedback on embedding wxMaxima and other CAS in Calculus courses was predominantly negative](student-feedback-negative-toward-cas-embedding.md) — related

@@ -78,3 +78,4 @@ Year 10 program results at School 1. The article reports "the girls performed lo
 - [Girls' interest in physics increased significantly more than boys' during the Year 9 Einsteinian physics program, moving from 50% to 80%](girls-attitude-gains-exceed-boys-year9.md) — possibly the same claim (merge candidate)
 - [A four-lesson Year 10 program on Einsteinian concepts underlying gold synthesis improved conceptual understanding, with girls' improvement exceeding boys'](year10-gold-program-gains-gender.md) — related
 - [Attitudinal scores rose modestly from pre-test to post-test after the intervention, in one uncontrolled pre-post study, despite ceiling effects; girls' conceptual scores rose more than boys'](attitude-gender-improvement-einsteinian-intervention.md) — related
+- [The IAYC's participant gender gap trended towards parity and was closed around 2012, continuing towards increasing female share](iayc-gender-parity-trend.md) — related

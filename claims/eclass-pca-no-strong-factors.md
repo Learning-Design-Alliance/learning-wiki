@@ -52,3 +52,4 @@ PCA on matched pre- and post-instruction responses using R; the Guttman-Kaiser c
 - [Principal component analysis of PORTAAL practices identifies a learner-centered set (volunteer/random-call answers, prompting logic, positive feedback) opposed to an instruction-centered set](portaal-pca-two-teaching-modes.md) — related
 - [Joint clustering of receptive and expressive items yields six distinct clusters, supporting independent receptive and expressive dimensions](six-clusters-joint-receptive-expressive.md) — related
 - [PLIC is not a single-construct assessment: PCA requires six components and Cronbach's α is low](plic-multidimensional-structure.md) — related
+- [NALS clusters closely resemble PCA components (F-measure 0.75) but reveal differences, such as component I dividing into two clusters](nals-pca-comparison-f-measure-075.md) — related

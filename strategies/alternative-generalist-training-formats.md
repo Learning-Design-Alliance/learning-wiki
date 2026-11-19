@@ -39,6 +39,7 @@ Beyond the qualifying-examination program, the article outlines alternatives. Ca
 ## Related Strategies
 
 - [Offer open certification for passing qualifying examinations as a low-overhead credential that can credit generalist preparation outside degree programs.](open-certification-qualifying-examinations.md)
+- [Run student oral talks on announced topic lists to extend the curriculum and relieve prior-knowledge discrepancies in multidisciplinary courses](oral-talk-topics-multidisciplinary-strategy.md)
 
 ## Examples
 -

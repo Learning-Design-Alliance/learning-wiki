@@ -97,3 +97,5 @@ Coefficients from Model 5a on the CPS grade dataset show these differences exist
 - [Additional aptitude measures (HS GPA, standardized test scores) narrow but do not eliminate gendered performance differences](covariates-do-not-explain-gpd.md) — related
 - [Controlling for pretest scores, underserved students score lower on posttests, and students underserved by both gender and race/ethnicity score 7.6% lower](hlm-predicted-gaps-controlling-pretest.md) — related
 - [Equality of Learning was not achieved in either lecture-based or collaborative courses: every marginalized group's gains trailed equally prepared White male peers, and gaps were the same across course types](equality-of-learning-not-achieved-physics.md) — related
+- [The percent grade scale amplifies the racial/ethnic grade gap by over 30% beyond the 4-point-scale base level.](percent-scale-amplifies-grade-gap.md) — related
+- [Students from underrepresented racial/ethnic groups receive a course grade penalty of 0.225 grade points under 4-point grading compared to their peers.](urm-grade-penalty-clasp4.md) — related

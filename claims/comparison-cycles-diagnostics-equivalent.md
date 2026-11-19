@@ -49,3 +49,4 @@ Cohort equivalence check in the supplementary participant analysis: groups were 
 - [FCI performance differences between traditional and M&I curricula persist after accounting for pre-instruction FCI scores, GPA, and SAT scores.](fci-differences-persist-after-controls.md) — related
 - [Students in Arduino-based lab sections scored unremarkably on standard physics pre/post inventories](arduino-lab-standard-inventory-scores-unremarkable.md) — related
 - [Traditional curriculum students significantly outperform Matter & Interactions students on the FCI post-test in introductory mechanics.](traditional-curriculum-higher-fci-posttest-than-mi.md) — reports the opposite
+- [Students in RealTime Physics inquiry-based labs were predicted to have higher post FCI scores than students in traditional labs](rtp-lab-higher-post-fci-scores.md) — related

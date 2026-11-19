@@ -50,3 +50,5 @@ Design proposal (type d/e) describing the core game: the class splits into qubit
 - [Central quantum concepts are teachable with high-school mathematics on a single qubit](qubit-concepts-high-school-mathematics.md) — related
 - [Students report high enjoyment and perceived usefulness of the quantum mechanics game after a class test](entangle-game-high-acceptance-survey.md) — related
 - [The game builds on the qubit-based card game Q|Cards⟩ by extending it to high-dimensional quantum states and new game modes](endless-fun-extends-qcards.md) — related
+- [Game-based learning with visual clues helps address quantum literacy by engaging learners and building analytical skills](games-quantum-literacy-engagement.md) — related
+- [Hands-on QIST approaches are associated with deeper understanding and more rapid uptake of quantum concepts, based on self-reported skill gains at a 2020 remote global summer school](hands-on-qist-self-reported-skill-gains-summer-school.md) — related

@@ -52,3 +52,4 @@ Qualitative framework analysis of semi-structured interviews with 17 Nurse Mento
 - [All but one Nurse Mentor Supervisor agreed Super Divya videos would be useful for Nurse Mentors to learn how to facilitate simulations](super-divya-useful-for-nurse-mentors.md) — related
 - [Nurse Mentor Supervisors cited visual learning and the ability to re-watch video modules as beneficial for memory and recall compared with one-time live lectures](rewatchable-video-modules-beneficial-recall.md) — related
 - [Multimedia design was a frequently reported facilitator, and one study found e-modules with more sophisticated visual and interactive features led to stronger learning outcomes](multimedia-design-facilitator-sophisticated-features.md) — related
+- [Real-time image display on portable devices maintained student interest and public excitement](real-time-images-engagement.md) — related

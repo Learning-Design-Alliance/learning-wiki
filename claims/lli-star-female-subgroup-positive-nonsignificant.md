@@ -58,3 +58,4 @@ Supplemental subgroup analysis from the 2013 Denver RCT; only four grade-by-demo
 - Teachers in the Gallagher (2010) evaluation responded positively to LLI, though some found the lesson design too fast-paced — related
 - [The impact of FAST did not differ significantly by student subgroups or school characteristics in the RCT](fast-no-subgroup-differential-impact.md) — related
 - [In a 2010 RCT in Georgia and New York, LLI produced a statistically significant positive effect on general reading achievement (effect size 0.35, improvement index +14)](lli-2010-rct-positive-general-reading-achievement.md) — related
+- [Problem Project scores show moderate positive correlations with final exam scores across all demographic subgroups](problem-project-correlates-with-final-exam.md) — related

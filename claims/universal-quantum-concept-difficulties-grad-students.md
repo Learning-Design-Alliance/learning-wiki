@@ -55,3 +55,4 @@ Written survey of 202 first-year graduate students at seven universities plus th
 - [Many students mistake the expectation value of energy for a possible measurement outcome and cannot distinguish individual measurements from expectation values](expectation-value-confused-with-measurement-outcome.md) — related
 - [Some instructors recall struggling to make conceptual sense of QM as undergraduates despite being facile at calculations and getting good grades](qm-instructors-own-learning-struggles.md) — related
 - [Graduate students scored significantly higher than undergraduates on the QMFPS, but both groups struggled](graduate-students-outperform-undergraduates-qmfps.md) — related
+- [The UNSW Quantum Communications course grew from some 20 students in its first year to a maximum of 120, and the authors attribute an enormous boost to the 2016 Micius satellite launch.](quantum-communications-enrolment-growth-micius.md) — related

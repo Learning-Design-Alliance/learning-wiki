@@ -74,3 +74,4 @@ Guessing trait estimates from the reduced 2P3TL model (χj ≡ 0) of first-attem
 - [Copying was sensitive to described demonstrator ability: participants copied choices of Best demonstrators more than Worst demonstrators](copying-sensitive-to-described-ability.md) — reports the opposite
 - [Adding a copying trait to IRT improves the predictive power of first-attempt homework ability relative to exam-derived ability](copying-trait-improves-homework-ability-prediction.md) — related
 - [Copy events occurred for about 9% of students, roughly half were followed by sustained browser switches consistent with Googling, but copying students' scores were not significantly higher](copy-events-googling-pattern-no-score-benefit.md) — related
+- [Most students began the semester with productive strategies but a significant fraction shifted to less productive guessing or copying strategies as the course progressed](strategy-shift-to-copying-by-semester-end.md) — related

@@ -51,7 +51,8 @@ A concrete marking recipe: after each team assessment task, every team member ra
 - [Students rated the fairness of their own marking and the benefit of peer assessment highly while reporting difficulty and moderate pressure in assessing peers' works](../claims/peer-assessment-perception-ratings-statistical-methods-course.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Mark assessments with visible symbols, identity checks, and integer scores](ta-marking-assessment-symbols-strategy.md)
 
 ## Examples
 -

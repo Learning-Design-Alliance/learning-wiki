@@ -50,3 +50,4 @@ Descriptive psychometrics of the 7 BAQ tests of 50 items each (Table 1), from fi
 - [Distractor efficiency of 50% or higher, not 100%, is the optimum for Best Answer Questions](fifty-percent-de-optimum.md) — related
 - [Items with 100% distractor efficiency are not the best-quality items by discrimination index standards](hundred-percent-de-not-best-items.md) — related
 - [Distractor efficiency does not correlate in a consistent pattern with the discrimination index of Best Answer Questions](de-inconsistent-with-discrimination-index.md) — related
+- [Item difficulty in classroom tests is skewed towards easy items, with nearly 15% of items having over 90% of students answering correctly, yet this does not degrade psychometric functionality.](classroom-mct-item-difficulty-skew.md) — related

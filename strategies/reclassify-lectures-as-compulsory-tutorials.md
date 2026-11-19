@@ -47,6 +47,7 @@ Because lectures were not compulsory at the University of Aberdeen while all oth
 ## Related Strategies
 
 - [Case-study-focused PBL unit design combining weekly in-person tutorials, case-based practicals and H5P interactive activities for large cohorts](case-study-pbl-unit-design-strategy.md)
+- [Supplement large active-learning modules with breakout/tutorial sessions, interactive online activities and peer assessment](supplement-active-learning-breakouts-peer-assessment.md)
 
 ## Examples
 -

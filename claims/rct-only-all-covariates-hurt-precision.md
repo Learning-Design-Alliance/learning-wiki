@@ -48,3 +48,4 @@ Trial-only comparison for the 44 Texas CTAI schools: the all-covariates random f
 - [Random forest imputation of missing predictor values did not meaningfully improve auxiliary model performance over simple mean imputation](mean-imputation-sufficient-auxiliary-model.md) — related
 - [In auxiliary Texas school data, a random forest with all predictors predicts math TAKS passing rates better than OLS with the pretest alone](rf-all-predictors-beats-pretest-auxiliary.md) — related
 - [Random forest models consistently outperform neural networks for predicting math TAKS passing rates in the auxiliary data](random-forests-outperform-neural-nets-auxiliary.md) — related
+- [Imputing missing predictor values without conditioning on the outcome variable biases estimates toward zero even when data are missing completely at random](imputation-omitting-outcome-biases-toward-zero.md) — related

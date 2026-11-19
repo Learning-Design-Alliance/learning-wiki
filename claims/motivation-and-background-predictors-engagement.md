@@ -54,3 +54,4 @@ Frequency: Felt collaboration among other students in this course 0.09 0.01 *"
 - [Viewing STEM courses as competitive was associated with impostorship and, in turn, lower engagement and grades, especially for first-generation students](competitive-stem-courses-impostorship.md) — reports the opposite
 - [School environment is positively associated with educational aspiration among Indian secondary students (r = .346), motivating participation in school activities](school-environment-educational-aspiration-correlation.md) — related
 - [Classmates were perceived as both a positive and a negative influence on international medical students' learning](classmate-influence-dual-valence.md) — related
+- [The personalized learning phase of the third laboratory reached the highest interest (80) and engagement (75) values](personalized-phase-third-lab-highest-interest-engagement.md) — related

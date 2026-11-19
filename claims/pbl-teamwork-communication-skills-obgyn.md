@@ -56,3 +56,4 @@ Synthesis of other-skill outcomes; the review reports that "PBL has generated be
 - [Systematic review finds PBL superior for consolidating information in OB/GYN undergraduate education](pbl-superior-knowledge-consolidation-obgyn.md) — related
 - [First-year medical students in the single first-year-focused study reported high engagement (97%) and perceived improved teamwork (87%) with PBL](first-year-students-high-engagement-teamwork-pbl.md) — related
 - [Immersive VR simulation is noninferior to live simulation for developing teamwork and communication skills](vr-noninferior-to-live-simulation-teamwork-communication.md) — related
+- [Students reported that the game favored teamwork, inclusion, interpretation discussions, and consolidation of classroom learning](student-reported-teamwork-inclusion-gains.md) — related

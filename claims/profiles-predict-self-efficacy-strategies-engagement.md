@@ -88,3 +88,4 @@ Follow-up univariate tests and Tukey HSD comparisons (Table 3): self-efficacy F 
 - [General self-efficacy is positively associated with membership of the moderate- and high-level competency profiles, with a particularly strong association for the high-level profile](self-efficacy-high-level-competency-profile-membership.md) — related
 - [Associations between programme engagement and self-efficacy/mindset do not permit causal inference, and effects on academic outcomes were not measured](at-evaluation-no-causal-inference.md) — related
 - [K-means clustering identifies adaptive, average, and non-adaptive motivation–burnout–performance profiles](cluster-profiles-motivation-burnout-performance.md) — related
+- [S-cluster membership was significantly associated with proctored quiz performance across all three OLM sequences](s-cluster-membership-quiz-performance-association.md) — a narrower finding that bears on this claim

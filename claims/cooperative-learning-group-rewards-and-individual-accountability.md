@@ -185,3 +185,4 @@ The standard remedy in the cooperative learning literature is **individual accou
 - [Peer pressure within project groups was often more motivational than faculty guidance, and allowing group splits rescued motivated members](peer-pressure-group-splits-motivation.md) — related
 - [Distributing control of one computational agent across two sensors and two students fostered positive interdependence among elementary dyads](claim-distributed-control-positive-interdependence.md) — related
 - [Individualising team marks via peer assessment reduced student complaints about free riding and marking fairness from 26% to 7% of feedback](peer-assessment-individualisation-free-riding-complaints-decrease.md) — a narrower finding that bears on this claim
+- [Breakout rooms succeeded when structured, incentivized, and supported, but failed when group members did not participate](breakout-room-structure-incentive-support.md) — a narrower finding that bears on this claim

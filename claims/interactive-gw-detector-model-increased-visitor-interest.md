@@ -50,3 +50,4 @@ Survey of 171 visitors to the RSSE exhibit using electronic and paper questionna
 - [Informal student feedback was positive, with pupils reporting increased interest in astronomy and feeling like real astronomers](positive-informal-student-feedback-pilot.md) — related
 - [High-school students are reported to be able to assimilate modern physics concepts such as gravitational waves and relate them to their daily lives](students-assimilate-modern-physics-concepts.md) — related
 - [NEA-funded evaluation finds presenting astronomy via animation highly attractive to audiences, but specific science learning benefits from an additional scientific presentation alongside the screening](astro-animation-screening-attractive-science-learning-needs-support.md) — related
+- [Screening animations alone may raise scientific awareness, but additional context is essential for science learning](animation-alone-insufficient-context-needed.md) — related

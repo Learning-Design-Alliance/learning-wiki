@@ -49,3 +49,4 @@ Focus-group ease-of-use comments (VR n = 18, PC n = 10) mostly identified diffic
 - [Focus-group comments portrayed the VR version as enjoyable while the PC version was described as tedious and frustrating](vr-enjoyment-pc-tedium-theme.md) — related
 - [Students unanimously preferred the VR simulation to the PC simulation after completing both, regardless of which version they used first](unanimous-preference-vr-over-pc.md) — related
 - [Both systems were usable with no significant differences in technical difficulties, practicality, or reading of messages](anchored-vs-forum-usability-comparable.md) — related
+- [VR lessons rated easier to use than PC, but only in the larger-sample experiments](vr-ease-of-use-mixed-across-experiments.md) — related

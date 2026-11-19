@@ -59,3 +59,4 @@ Ablation study on the SAT Math dataset with all other settings fixed, comparing 
 - [All three assertion sources (word, corpus-derived, construct-derived) contribute to predictive accuracy](all-assertion-sources-contribute-predictive-accuracy.md) — a narrower finding that bears on this claim
 - [In reviewed studies, word embeddings and linguistic features were the strongest difficulty predictors, with combined features giving the best results (RMSE 22.45 vs ZeroR 23.65)](embeddings-linguistic-features-strongest-predictors.md) — related
 - [Combined assessment-centered and student-centered features yield the best classifier performance](combined-features-best-classifier-performance.md) — related
+- [Combining unigram and bigram features gives better classification accuracy than either n-gram length alone for all classifiers.](unigram-bigram-combination-beats-single-grams.md) — related

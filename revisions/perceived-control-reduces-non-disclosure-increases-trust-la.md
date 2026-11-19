@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/perceived-control-reduces-non-disclosure-increases-trust-la.md
+---
+
+# Revision history: [claims/perceived-control-reduces-non-disclosure-increases-trust-la](../claims/perceived-control-reduces-non-disclosure-increases-trust-la.md)
+
+### 2026-11-19 · ingest · process:wiki-ingest
+Ingested from arxiv-2109.00068 (Students' Information Privacy Concerns in Learning Analytics: Towards a Model Development) via eval_harness.py + ingest_extractions.py

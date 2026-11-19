@@ -48,3 +48,4 @@ Self-report survey of former camp participants; the footnote states the IAYC sur
 ## Related Claims
 - [A majority of surveyed minority-group members, and about a third of those with impostor syndrome, felt the camp helped them reach their goals](iayc-minority-impostor-syndrome-support.md) — related
 - [A cost feedback loop risks making IAYC leadership and participation exclusive to high-GNI nationalities](iayc-cost-feedback-loop-exclusivity.md) — related
+- [Black and minority ethnic participants are lacking at the IAYC: 84.7% of survey respondents were white and not a single respondent was Black](iayc-black-ethnic-minorities-lacking.md) — possibly the same claim (merge candidate)

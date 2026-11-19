@@ -102,3 +102,4 @@ Spearman correlation analysis of continuous factors in the survey. Training dura
 - [Absolute score changes did not differ significantly by most participant characteristics or e-learning use parameters, though two subgroup differences were significant.](mali-elearning-subgroup-changes-mixed.md) — related
 - [ANOVA by demographic subgroups (sex, residence, year of study, monthly allowance, ethnicity, location) indicated significant group differences at post-test and follow-up](ree-stress-effects-across-demographic-subgroups.md) — related
 - [Participants' prior ICT skills did not significantly correlate with e-learning experience or with blended learning score increment](prior-ict-skills-not-correlated-with-bl-outcomes.md) — related
+- [Problem Project scores show moderate positive correlations with final exam scores across all demographic subgroups](problem-project-correlates-with-final-exam.md) — related

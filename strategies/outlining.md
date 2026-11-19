@@ -64,6 +64,7 @@ Outlining reduces the attentional overload of juggling ideation, organization, a
 - [Concept Mapping](../elements/concept-mapping.md) — the non-hierarchical alternative when relationships are cross-cutting rather than tree-like
 - [Summarization](summarizing.md) — outlining and summarizing both force selection of main ideas; outlining preserves structure, summarizing compresses it
 - [Combine depicting and outlining in sequence: depict first to trigger ideas, then outline to organize them](depict-then-outline-combination-strategy.md)
+- [Structure paragraphs around an explicit topic sentence, with three to seven sentences each](topic-sentence-paragraph-structure-strategy.md)
 
 ## Examples
 - **SRSD (Self-Regulated Strategy Development) writing instruction** — explicitly teaches students to plan essays with outlining/brainstorming before drafting; strong evidence base for improving writing quality (see [De La Paz & Graham, 1997](https://doi.org/10.1037/0022-0663.89.1.170)).

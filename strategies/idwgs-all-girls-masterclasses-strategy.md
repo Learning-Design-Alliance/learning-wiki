@@ -48,6 +48,7 @@ IMC piloted special masterclasses for the International Day of Women and Girls i
 
 - [Masterclass workshops in developing countries through collaboration with the African School of Fundamental Physics](asp-africa-masterclass-outreach-workshops.md)
 - [World Wide Data Day: a short, single-day masterclass experience in schools with authentic LHC data](world-wide-data-day-w2d2-strategy.md)
+- [Run a one-day astrophysics masterclass in which high school students analyze real research data in a university research setting](astrophysics-masterclass-one-day-real-data.md)
 
 ## Examples
 -

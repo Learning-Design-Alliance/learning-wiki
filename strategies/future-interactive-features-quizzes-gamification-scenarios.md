@@ -48,6 +48,7 @@ The authors' forward-looking design recommendation is that "Future versions of t
 - [Increase challenge and interactivity in future versions of the Ethics Quarter](increase-eq-challenge-and-interactivity-strategy.md)
 - [Design e-learning with user-friendly responsive software, concise modules, and interactive clinical-vignette assessment throughout](elearning-design-recommendations-imagine.md)
 - [Require audio use and note taking and add engagement mechanisms when running a hybrid lecture course](hybrid-course-audio-notes-engagement-strategy.md)
+- [Roll out scenario-based teaching modules built on the Climate App](climate-app-example-teaching-modules.md)
 
 ## Examples
 -

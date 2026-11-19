@@ -48,3 +48,4 @@ Phase two semi-structured Zoom interviews with 13 of 35 survey respondents, Apri
 - [Governance structures that exclude faculty and support staff responsible for implementation produce policies that do not stick](exclusive-governance-produces-ignored-policies.md) — related
 - [Clear role assignment, training resources, and advisory support facilitated CA-supported continuous improvement and reduced faculty workload perceptions](clear-roles-and-training-support-ca-implementation.md) — related
 - [Knowledge alone did not ensure meaningful participation; it became influential when clearly communicated and built into programming](knowledge-communication-participation.md) — related
+- [Students are typically excluded from LMS implementation decision-making despite being major stakeholders](students-excluded-lms-decision-making.md) — related

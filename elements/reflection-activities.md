@@ -13,7 +13,7 @@ generated:
 # Reflection Activities
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 5 studies (3 qualitative, 2 causal), `q1`–`q3` · 0 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 6 studies (3 causal, 3 qualitative), `q1`–`q3` · 0 of 6 report an effect size · 6 claims rest on one study
 
 ## Description
 Reflection activities are structured tasks that ask learners to examine what they did, understood, or would change next. They are useful when reflection needs to be made visible and actionable rather than left implicit.
@@ -43,6 +43,7 @@ Reflection activities are structured tasks that ask learners to examine what the
 - [In interviews with 25 engineering students at one Swedish university, students described GenAI as acceptable when it stimulates reflection and directly copying its outputs as cheating, and one used its fallibility as a prompt to double-check](../claims/genai-ethics-reflection-versus-copying-boundaries.md) [+W]
 - [73.56% of experimental-group students gave positive comments on journal entry practice in reflective compositions](../claims/majority-positive-feedback-journal-entry-practice.md) [+W]
 - [Type of reflection-in-action (verbal vs. written) did not significantly affect preservice teachers' content knowledge scores](../claims/reflection-type-no-effect-content-knowledge.md) [~W]
+- [Adding reflection questions to a conceptual inquiry-based physics lab was associated with a statistically significant increase in post E-CLASS attitude scores](../claims/reflection-questions-e-class-post-score-increase.md) [+W] — attached 2026-11-19 from Danny Doucette et al. (2022), which proposed "RealTime Physics + Reflections: a conceptual inquiry-based introductory physics lab curriculum with added reflection questions"; tests this page's relationship.
 
 ## Related Elements
 - [Individual Reflection](individual-reflection.md)

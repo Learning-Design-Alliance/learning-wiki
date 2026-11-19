@@ -51,3 +51,4 @@ Authors' experiential finding from the 13-week online course, concerning the pla
 - [Most students in a hybrid PA programme agreed that live online classes, questions, and breakout rooms encouraged engagement, but only half felt connected to other class members](hybrid-pa-survey-connection-engagement.md) — related
 - [Group work and discussion in the flipped classroom provided immediate feedback and supported shy students' participation, per the authors' observations](group-work-immediate-feedback-shy-students.md) — related
 - [Students strongly preferred anonymous clicker polling and valued it as a positive break, with over 80% agreement on the first three Likert statements](clicker-anonymity-and-break-likert-results.md) — related
+- [Two of three high-attendance, medium-achievement students would not ask the tutor for help because they were shy](hm-group-shyness-avoided-tutor-help.md) — related

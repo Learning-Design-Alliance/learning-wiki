@@ -49,3 +49,4 @@ Step 6 and discussion: where combined scores masked divergent criterion scores, 
 - [Recognizing both common and atypical symptom presentations emerged as a core competency, with IWLC emphasizing being believed and not having symptoms dismissed](symptom-recognition-validation-core-competency.md) — related
 - [Survey of 132 recent Scottish UKFP graduates (16.2% response) rated perceived usefulness of further training in the 18 competency areas](graduate-survey-usefulness-ratings.md) — related
 - [A six-step stakeholder prioritisation process narrowed 370 UKFP competencies to 12 competency areas for a national simulation curriculum](six-step-prioritisation-370-to-12-competencies.md) — a broader claim this one bears on
+- [Positioning students as stakeholders who decide content and provide technology feedback is claimed to lead to increased consumer acceptance](student-stakeholders-increase-consumer-acceptance.md) — related

@@ -49,3 +49,4 @@ Observational analysis of Current Population Survey graduate enrollment data lin
 - [Poor labor market conditions lead to substitution from full-time to part-time graduate enrollment for both genders](poor-labor-markets-shift-full-time-to-part-time-graduate-enrollment.md) — related
 - [Business cycle fluctuations have non-linear impacts on female graduate school enrollment](nonlinear-unemployment-effects-female-graduate-enrollment.md) — related
 - Statewide unemployment-rate variation can proxy business cycle conditions in studies of graduate enrollment decisions — related
+- [Students with similar characteristics select programs closer in the HES, and closer programs share similar socio-economic outcomes and demand variation](hes-assortment-similar-students-similar-programs.md) — related

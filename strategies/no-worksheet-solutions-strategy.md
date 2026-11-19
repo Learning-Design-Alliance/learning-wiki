@@ -42,6 +42,7 @@ An implementable course-policy recipe from the authors' lessons learned: because
 - [Have learners develop their own problem-solving templates instead of replicating instructor templates](learner-generated-problem-solving-templates.md)
 - [Design AI tutoring behaviors that withhold solutions, prompt recall, and ask critical questions](withhold-answers-prompt-recall-ask-questions.md)
 - [Build student buy-in deliberately: explain the method on day one and connect early quizzes to worksheets](student-buy-in-flipped-large-lecture.md)
+- [Microteaching on introductory physics problems with multi-source feedback](microteaching-physics-problems-feedback-strategy.md)
 
 ## Examples
 -

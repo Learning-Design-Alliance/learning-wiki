@@ -59,3 +59,4 @@ Interpretability analysis of the 4-class Random Forest (feature importances) and
 - [VR-trained group shows higher beta and low-gamma EEG power than controls during simulator tasks](dvss-vr-training-higher-beta-low-gamma-psd.md) — related
 - [Machine-learning SHAP analysis identifies age and extraversion as the most important single predictors for students, and learning-based memory and motor response capabilities for physicians](shap-single-variable-importance-students-physicians.md) — related
 - [The most discriminative EEG features for classroom design lie in theta and alpha band power over centro-parietal and frontal regions, with altered centro-parietal-to-frontal information transfer](theta-alpha-centroparietal-frontal-eeg-design-features.md) — related
+- [The authors treat the alpha signal as the attention signal and other signals as noise](alpha-signal-as-attention-signal.md) — related

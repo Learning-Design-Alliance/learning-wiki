@@ -59,3 +59,4 @@ Observational SNA analysis across the 12 PBL courses comparing multigraph, weigh
 - [Students' SNA centrality measures (participation, information exchange, connectedness, social capital) correlate moderately to strongly with grades in online PBL](sna-centrality-correlates-with-pbl-performance.md) — related
 - [In-degree centrality, but not degree or out-degree, is moderately correlated with final grade in online clinical case discussions](in-degree-centrality-moderately-correlated-final-grade.md) — related
 - [In a Modeling Instruction physics course, classroom network centrality predicts final course grade over and above prior GPA for three of four centrality measures tested](centrality-predicts-grade-beyond-gpa.md) — related
+- [During remote teaching, overall collaboration degree centrality positively predicts high-school physics grades](collaboration-centrality-positive-remote-physics-grades.md) — related

@@ -50,3 +50,4 @@ Descriptive preference counts from the second page of an extra-credit waves acti
 - [Unguarded answer-giving AI harmed unaided exam performance while a guarded version of the same model erased the harm (Bastani et al., 2025, as reported)](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [No statistically significant EBAPS differences were observed for Axes 1–3 or between guided-inquiry and answer-oriented chatbot preferrers](no-ebaps-differences-axes-1-3-or-inquiry-vs-answer.md) — related
 - [Combination-preferring students scored higher than answer-preferring students on evolving-knowledge (Axis 4) and source-of-ability (Axis 5) EBAPS dimensions](combination-preferrers-higher-axis4-axis5-scores.md) — related
+- [Teachers rate agenda facilitation and FAQ answering as the most useful chatbot use cases, and the two preferences are significantly associated](agenda-faq-top-chatbot-use-cases.md) — related

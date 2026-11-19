@@ -69,3 +69,4 @@ Instructor feedback; some students considered obtaining data enough to complete 
 - [Open-project students more often mentioned interactions with teachers despite equal teacher time in both lab formats](open-project-students-mention-teacher-interactions-more.md) — related
 - [Students selected open-inquiry experiments more frequently than other experiments when choosing a culminating report topic](students-prefer-open-inquiry-experiments.md) — related
 - [Students in the Maker Lab completed two successive open-inquiry projects under pandemic restrictions, with the second round observed to run more smoothly than the first](maker-lab-two-round-projects-second-round-smoother.md) — related
+- [Some instructors found remote-era practices so successful—including open-ended project-based labs and simulations—that they planned to retain them after returning to in-person instruction](instructors-retain-remote-practices-post-pandemic.md) — related

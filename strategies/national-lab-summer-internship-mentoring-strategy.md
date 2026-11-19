@@ -43,6 +43,8 @@ Because relatively few universities operate accelerator research facilities, the
 ## Related Strategies
 
 - [Fund large-scale, long-duration PUI-focused research collaborations that train faculty alongside students](pui-focused-research-collaborations-strategy.md)
+- [Partner with companies and national laboratories to provide students internships, networking, and research experiences](academia-industry-qist-internship-partnerships.md)
+- [Reward top national-exam students with summer internships at research labs or tech companies, allocated per district to foster equal opportunities](district-allocated-summer-internships-strategy.md)
 
 ## Examples
 -

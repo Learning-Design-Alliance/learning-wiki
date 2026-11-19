@@ -53,3 +53,4 @@ Limitations section of the PRISMA-ScR scoping review of 42 studies; the authors 
 - No included study established a relationship between anatomy educators' profiles and their teaching or evaluation strategies, or between content taught and pedagogical approaches — related
 - [The vast majority of academic global surgery programs are based in the Region of the Americas (North America), particularly in high-income countries](ags-programs-concentrated-in-north-america.md) — a narrower finding that bears on this claim
 - Research on digital technologies in intercultural competence teaching is concentrated in the Americas and Europe (78%), led by Mexico (15%) — related
+- [QURECA identified 40 universities worldwide offering quantum-focused master's degrees, concentrated in North America and Europe](40-universities-quantum-masters-programs.md) — related

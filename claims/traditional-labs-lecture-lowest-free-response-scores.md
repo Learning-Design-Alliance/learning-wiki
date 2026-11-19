@@ -49,3 +49,4 @@ Results section, Problem 1 electrostatics, comparing post-test and gain plots (F
 - [In calculus-based FCI data, RT labs with traditional lecture significantly outperformed T, IL and RT-T labs with traditional lecture (p < 0.0001), a lab-style difference not seen under PERL lecture](calc-fci-rt-labs-beat-other-lab-styles-tl.md) — related
 - [Students completing multimedia learning modules score between 8 and 9% higher on mid-term examinations covering electrostatics and electromagnetism than non-MLM students](mlm-preparation-higher-exam-scores.md) — related
 - [Transformed electrostatics courses score significantly higher on the CUE post-test than traditional lecture-based courses](cue-transformed-courses-higher-posttest.md) — related
+- [Students in RealTime Physics inquiry-based labs were predicted to have higher post FCI scores than students in traditional labs](rtp-lab-higher-post-fci-scores.md) — related

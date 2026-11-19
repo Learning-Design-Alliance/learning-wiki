@@ -74,3 +74,4 @@ Qualitative open-ended responses from 28 honours students (56% return rate) were
 - [Emergency medical care students generally perceive the simulation debriefing environment as psychologically safe and built on a shared understanding of why debriefing occurs](debriefing-psychological-safety-perceived-hei-students.md) — related
 - [Critical reflection during debriefing requires facilitators and peers because individual reflection is biased by prior conceptualisation](facilitated-group-debriefing-critical-reflection.md) — related
 - [Interactions inside the Fellowship support material design through sharing ideas and feedback, while interactions outside the Fellowship can hinder implementation of new ideas](social-interactions-inside-outside-flc.md) — related
+- [Facilitator authenticity and credibility are extremely important for students to trust and benefit from social-psychological activities](facilitator-authenticity-credibility-intervention.md) — related

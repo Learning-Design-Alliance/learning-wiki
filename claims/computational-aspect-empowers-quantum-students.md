@@ -52,3 +52,4 @@ A stated benefit asserted by the authors with no supporting data; it is one of t
 - [One adult educator's first-person reflection reports that facilitated class discussions left her feeling empowered as an individual contributor](facilitated-self-directed-learning-empowers-adults.md) — related
 - [Students found the visualisation of numerical PDE solutions the most well-received aspect of the course](pde-visualisation-most-valued-by-students.md) — related
 - [Qiskit-based exercises agree with theoretical predictions and support introducing quantum computing to undergraduates](qiskit-agrees-with-theory-classroom-effectiveness.md) — related
+- [Student feedback consistently rated the coding exercises as the most valuable and effective learning activity in Fundamentals of Quantum Engineering.](qe-coding-exercises-most-valuable-activity.md) — a narrower finding that bears on this claim

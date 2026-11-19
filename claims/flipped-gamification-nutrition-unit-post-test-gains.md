@@ -52,3 +52,4 @@ Descriptive statistics (Table 4) from the pre-experimental pre-test/post-test st
 - [Flipped classroom combined with gamification improves academic performance and autonomy](flipped-classroom-gamification-improves-performance-autonomy.md) — a broader claim this one bears on
 - [The review finds flipped learning, PBL, gamification, and collaborative learning adapted to digital environments produced positive effects on motivation, participation, and transversal competences](flipped-pbl-gamification-collaborative-digital-effects.md) — a broader claim this one bears on
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — a broader claim this one bears on
+- [A digital game-based AR marine education program for primary learners produced confidence, goal attainment, and efficiency gains](ar-game-based-marine-education-outcomes.md) — related

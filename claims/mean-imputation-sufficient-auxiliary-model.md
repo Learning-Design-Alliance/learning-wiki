@@ -49,3 +49,4 @@ Missing-data handling comparison during auxiliary model development, evaluating 
 - [Fitting an imputation model with all covariates using only the small trial sample reduces precision relative to pretest-only adjustment](rct-only-all-covariates-hurt-precision.md) — related
 - [In auxiliary Texas school data, a random forest with all predictors predicts math TAKS passing rates better than OLS with the pretest alone](rf-all-predictors-beats-pretest-auxiliary.md) — related
 - [Random forest models consistently outperform neural networks for predicting math TAKS passing rates in the auxiliary data](random-forests-outperform-neural-nets-auxiliary.md) — related
+- [Imputing missing predictor values without conditioning on the outcome variable biases estimates toward zero even when data are missing completely at random](imputation-omitting-outcome-biases-toward-zero.md) — related

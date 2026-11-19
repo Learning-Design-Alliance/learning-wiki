@@ -79,3 +79,4 @@ Difference-in-differences analysis of biannual national test scores (n ≈ 350,0
 - [The COVID-19 school closures in the Netherlands produced declines in learning gains in reading, spelling and math for almost 300,000 primary students](covid-dutch-primary-learning-gain-declines-three-domains.md) — related
 - [COVID-19 learning losses in Dutch primary education were larger for students from disadvantaged backgrounds than for their fellow students](covid-learning-loss-unequally-distributed-disadvantaged.md) — related
 - [Students retained over 80% of learned E&M content after ~10 months without instruction, losing 9.7±2.4% (17.3±4.2% relative) between CUE midtests](cue-midtest-knowledge-decay-ten-months.md) — related
+- [COVID-19 impact on cognitive and social skills was visible in the 2021 edition, with lower average grades and the first exam failures in ten editions](covid-impact-lower-grades-first-failures.md) — a narrower finding that bears on this claim

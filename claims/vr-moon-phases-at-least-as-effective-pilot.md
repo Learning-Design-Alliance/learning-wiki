@@ -49,3 +49,4 @@ Quasi-experimental pilot: an ASTRO 101 class at San Diego State University was d
 - [All three conditions showed statistically significant pre-to-post gains on the Moon phases test](moon-phases-significant-prepost-gains-all-conditions.md) — a broader claim this one bears on
 - [Learning advantages of VR over hands-on and desktop conditions did not persist on a delayed post-test four months later](delayed-post-test-no-condition-differences-moon-phases.md) — related
 - [Learning gains vary by Moon phases topic but do not differ significantly across conditions](moon-phases-topic-gains-vary-no-condition-differences.md) — a narrower finding that bears on this claim
+- [A VR Moon-phase activity performed at least as well as traditional teaching methods for introductory astronomy students](vr-moon-phase-performs-comparably-to-traditional.md) — possibly the same claim (merge candidate)

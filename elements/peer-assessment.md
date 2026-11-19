@@ -18,7 +18,7 @@ sources:
 # Peer Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 24 claims (11 for, 12 mixed, 1 against) · 23 studies (9 causal, 6 associational, 3 quant-synthesis, 2 design, 1 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 23 report an effect size · 20 claims rest on one study
+> **Evidence** · 25 claims (12 for, 12 mixed, 1 against) · 24 studies (9 causal, 6 associational, 3 quant-synthesis, 2 qualitative, 2 design, 1 review, 1 theoretical), `q1`–`q4` · 6 of 24 report an effect size · 21 claims rest on one study
 
 ## Description
 Peer assessment is the element in which learners evaluate the work or reasoning of peers against shared criteria. It is useful when the goal is both better feedback for the work and stronger learner judgment about quality.
@@ -65,6 +65,7 @@ Peer assessment is the element in which learners evaluate the work or reasoning 
 - [Correlation between student and instructor overall poster ratings improved after the intervention (peer r = 0.51 to 0.68; self r = 0.18 to 0.37)](../claims/student-instructor-rating-correlation-improved-post-intervention.md) [+W] — attached 2026-11-09 from Saterbak Ann et al. (2018), which proposed "Calibrated Peer Review™ (CPR) as a formative-assessment and diagnostics tool for poster assignments"; tests this page's relationship.
 - [After the practice-video intervention, student rating distributions shifted significantly toward the lower end on most Lab 4 rubric items](../claims/practice-videos-shifted-peer-ratings-lower-lab4.md) [~W] — attached 2026-11-17 from Shih-Yin Lin et al. (2014), which proposed "Practice-video calibration intervention in the Fall 2013 MOOC offering".
 - [Students rated the fairness of their own marking and the benefit of peer assessment highly while reporting difficulty and moderate pressure in assessing peers' works](../claims/peer-assessment-perception-ratings-statistical-methods-course.md) [~W] — attached 2026-11-18 from Kristanto (2018), which proposed "Exelsa Moodle workshop module for technology-enhanced pre-instructional peer assessment".
+- [Anonymous peer review supports perceived competence: students perceived improved work quality, critical thinking and workplace skills, with noted difficulties](../claims/anonymous-peer-review-perceived-competence.md) [+W] — attached 2026-11-19 from Petersen et al. (2021), which proposed "Anonymous peer review assessment option on the open-source Sakai platform".
 
 ## The evidence by question
 

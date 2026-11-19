@@ -48,3 +48,4 @@ Randomized comparative study: 25 participants completed the course on Platform A
 ## Related Claims
 - [AI-tutor pedagogical interventions (hints) correlate negatively with learning gains, more strongly for participants with higher pre-quiz scores](hints-negatively-correlate-gains-moderated-by-prior-knowledge.md) — related
 - [AI access raises immediate unaided test scores by 7.2 percentage points (0.28 SD) after a timed learning phase](genai-access-raises-immediate-test-scores.md) — related
+- [Korbit (full) with personalized feedback produced higher raw and normalized learning gains than a lecture-and-quiz MOOC platform](korbit-full-higher-learning-gains-than-mooc.md) — related

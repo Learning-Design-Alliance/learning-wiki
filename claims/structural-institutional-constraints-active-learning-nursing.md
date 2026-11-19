@@ -55,3 +55,4 @@ Educator focus group data (Theme 3, Subtheme 3.2.2). One educator noted the tens
 - [Opportunities to strengthen interprofessional socialisation include enhanced institutional support, opportunities for socialisation and more collaboration](opportunities-to-strengthen-interprofessional-socialisation.md) — related
 - [Educators experienced unrecognised workload and institutional pressure when designing digital teaching resources, undermining maintenance of high standards](educator-workload-unrecognised-digital-resource-design.md) — related
 - [Time and content knowledge were the primary barriers to engaging in cognitive tasks during UREs](time-and-content-knowledge-barriers-ure.md) — a narrower finding that bears on this claim
+- [Educational science students named large reading loads and hard-to-recognise content structure as obstacles to learning](tap-survey-reading-load-and-structure-obstacles.md) — related

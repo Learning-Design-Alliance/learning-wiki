@@ -45,6 +45,7 @@ This strategy addresses the interface element: designing learners' feelings, att
 
 - [Support affective cohesion through positive atmosphere and empathy formation in chatbot dialogue](chatbot-affective-cohesion-positive-atmosphere-empathy.md)
 - [Support group cohesion by cultivating belongingness and interdependence through the chatbot](chatbot-group-cohesion-belongingness-interdependence.md)
+- [Deliver writing-assignment feedback via a conversational chatbot to emulate mentoring at scale](chatbot-conversational-mentoring-strategy.md)
 
 ## Examples
 -

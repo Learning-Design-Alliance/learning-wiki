@@ -42,7 +42,8 @@ The article structures its entire treatment as a sequence of numbered code boxes
 - [Optional IBM Quantum hardware execution supplied extra evidence but did not remove substantial AI assistance, as ChatGPT generated the code and could interpret returned noisy data](../claims/hardware-execution-did-not-eliminate-llm-assistance.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Teach multiple quantum algorithms on the same QUBO task so students learn to select a proper algorithm for a given computing task](same-qubo-multiple-algorithms-strategy.md)
 
 ## Examples
 -

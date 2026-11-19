@@ -53,3 +53,4 @@ Comparison of 917 UC calculus-based students who answered the stereotype questio
 - [Male students' FCI performance shows no difference by stereotype agreement in calculus-based physics](male-performance-unrelated-to-stereotype-agreement.md) — related
 - [Males outperformed females on the CSEM both as pre-test and post-test regardless of gender-question condition](csem-gender-gap-pre-post.md) — related
 - [Instructors can incorporate the history of women's exclusion from physics into classrooms in varied ways, but should avoid teaching it immediately before an exam to avoid activating stereotype threat](teaching-womens-history-physics-classroom-strategy.md) — related
+- [Women showed larger normalized gains than men on the calculus transfer questions despite lower self-efficacy](women-larger-calculus-transfer-gains.md) — related

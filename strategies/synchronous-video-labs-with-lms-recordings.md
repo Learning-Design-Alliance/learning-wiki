@@ -48,6 +48,7 @@ A delivery strategy in which the lab class is fully web-enhanced through a learn
 - [Offer lectures both live (synchronously) and as posted recordings so students with connectivity, work, or time-zone constraints are not disadvantaged](offer-synchronous-and-recorded-lecture-options.md)
 - [Increase Synchronous Teacher Presence](increase_synchronous_teacher_presence.md)
 - [Deliver the remote lab course through asynchronous Slack lectures plus Zoom Q&A sessions with individual student interviews](slack-zoom-remote-lab-course-delivery.md)
+- [Offer calculus-based physics in a virtual synchronous format for community college students with time commitments](synchronous-virtual-format-community-college-physics.md)
 
 ## Examples
 -

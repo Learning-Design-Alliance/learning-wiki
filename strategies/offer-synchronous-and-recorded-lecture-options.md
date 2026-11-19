@@ -47,6 +47,9 @@ During the spring 2020 shift, case study institutions commonly built in options 
 - [Blend asynchronous and synchronous sessions with technical support and virtual simulations when delivering flipped classrooms remotely](blend-async-sync-tech-support-virtual-simulations-remote-flipped.md)
 - [Deliver virtual labs synchronously via live video conference and post recordings to the LMS](synchronous-video-labs-with-lms-recordings.md)
 - [Record online sessions and add subtitles so participants can attend asynchronously and across languages](record-sessions-and-enable-subtitles.md)
+- [For online lectures, decide between synchronous streaming and asynchronous delivery, and always post recordings for equity](online-lecture-synchronous-asynchronous-recordings-equity.md)
+- [Provide remote students with sample data, video lecture, and virtual walkthrough when in-person access is impossible](remote-lab-sample-data-substitute-strategy.md)
+- [Offer calculus-based physics in a virtual synchronous format for community college students with time commitments](synchronous-virtual-format-community-college-physics.md)
 
 ## Examples
 -

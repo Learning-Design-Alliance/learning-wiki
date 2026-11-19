@@ -54,6 +54,7 @@ The article recommends adding a computational component to introductory quantum 
 - [Teaching sequence: discretize the evolution equations, implement the recurrences in a spreadsheet, and compare classical, stochastic and quantum solutions](spreadsheet-recurrence-teaching-sequence.md)
 - [Pairing the simulator's visual plot with terminal readouts of intermediate vector quantities to make electric-field computation visible](plot-plus-terminal-intermediate-quantities-strategy.md)
 - [Have players compare expected with software-computed outcomes to reflect on and retrace quantum-operation misunderstandings](expected-vs-computed-outcome-reflection.md)
+- [Pair traditional quantum computation lecture topics with hands-on activities on real quantum systems](pair-lectures-with-hands-on-quantum-activities.md)
 
 ## Examples
 -

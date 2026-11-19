@@ -47,7 +47,8 @@ The article describes making daily assessments available on the faculty member's
 - [Daily assessments were associated with slightly lower student evaluations of faculty](../claims/daily-assessments-lower-student-evaluations.md) [-W]
 
 ## Related Strategies
-- 
+
+- [Change assessment approaches under emergency online conditions: low-stakes assessments, group projects, honor-code exams, and equitable grading accommodations](flexible-online-assessment-low-stakes-group-projects-equity.md)
 
 ## Examples
 -

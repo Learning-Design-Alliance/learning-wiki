@@ -49,6 +49,7 @@ The review identifies specific tools for increasing interactivity in remote teac
 - [Use Internet-based tools to underpin the development of Open Teaching as an educational practice](internet-tools-open-teaching-practice.md)
 - [Use small-group online breakout-room teaching with remote supervision on identical models as an appropriate method for early-years surgical skills training](small-group-online-skills-teaching-strategy.md)
 - [Use a gamified audience response system in the synchronous online phase to activate students](gamified-ars-activation-synchronous-online.md)
+- [Supplement large active-learning modules with breakout/tutorial sessions, interactive online activities and peer assessment](supplement-active-learning-breakouts-peer-assessment.md)
 
 ## Examples
 -

@@ -89,3 +89,4 @@ Among survey respondents who went on to work in the space sector, 44% 'identifie
 - [Learners reported valuing teamwork, confidence, and a safe learning space, while requesting improved debriefing content and more procedural skills training](simulation-survey-themes-nepal.md) — related
 - [SSUK strongly encouraged alumni to pursue physics-related degrees, with 61% of respondents studying physics-related subjects versus 4.1% of UK students nationally](ssuk-strongly-encouraged-physics-degrees.md) — related
 - [Over 80% of surveyed students reported positive impact of outreach on recognizing connections between physics topics and overall understanding, and 85% on teamwork and networking](outreach-survey-understanding-teamwork-impacts.md) — related
+- [Undergraduate students who facilitate informal physics programs report gains in communication, teamwork, networking, and design skills](facilitating-informal-physics-benefits-undergrads.md) — related

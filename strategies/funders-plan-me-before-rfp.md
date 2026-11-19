@@ -42,6 +42,7 @@ The brief recommends that, before releasing a request for proposals and awarding
 - [Measure usability, usefulness, and utilization during development and early implementation](measure-3us-during-development-and-early-implementation.md)
 - [Offer implications for funders and program implementers engaged in systems change](implications-for-funders-and-implementers-systems-change.md)
 - [Philanthropies jointly develop evaluation practice for basic science investments through a cross-organization working group](philanthropy-working-group-shared-evaluation-practice.md)
+- [Describe each laboratory course comprehensively in course catalogs and communicate expectations before registration so students can plan accommodations in advance](comprehensive-course-catalog-descriptions.md)
 
 ## Examples
 -

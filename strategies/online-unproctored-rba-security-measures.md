@@ -50,6 +50,7 @@ The article describes a set of implementable measures for administering a resear
 
 - [Use announcements, email reminders, and completion credit to achieve online RBA participation rates similar to in-class testing](motivation-practices-online-assessment-participation.md)
 - [Use four recommended practices — multiple email reminders, multiple in-class announcements, and participation credit for pretest and posttest — to maximize online assessment participation](four-recommended-practices-online-assessment-participation.md)
+- [Allocate in-class time for survey completion to raise participation rates](in-class-time-for-survey-completion.md)
 
 ## Examples
 -

@@ -49,6 +49,7 @@ In response to student disappointment at not using the planetarium, the team dev
 - [Partner with an Indigenous programs academic unit to develop local Indigenous astronomy content](unsw-partnership-local-indigenous-content-strategy.md)
 - [Incorporating non-Western cosmologies into ngVLA education through indigenous talks, STEAM projects, and Star Parties](non-western-cosmologies-ngvla-education.md)
 - [Teach astronomy through dual-perspective storytelling (indigenous and Western science stories woven together)](dual-perspective-astronomy-storytelling.md)
+- [Connect dark-sky observation to local cultural heritage and history to deepen engagement](dark-sky-cultural-heritage-connection.md)
 
 ## Examples
 -

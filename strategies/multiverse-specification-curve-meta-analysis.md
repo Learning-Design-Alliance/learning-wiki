@@ -49,6 +49,7 @@ For Analysis Reproducibility (Level 3), the article recommends adopting the mult
 ## Related Strategies
 
 - [Adopt open science practices—data and code sharing, pre-registration, and Registered Reports—to improve reproducibility and replicability](open-science-preregistration-reproducibility.md)
+- [Preregister study protocols so methods are refereed before data are gathered](preregister-protocols-per-studies.md)
 
 ## Examples
 -

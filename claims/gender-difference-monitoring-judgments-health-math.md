@@ -61,3 +61,4 @@ Regression on pretest monitoring judgments in the 1,177-participant sample: accu
 - [Women had higher qualification rates than men in scenario-simulation COVID-19 clinical skills training, with a 27% lower unqualified rate after adjustment](women-higher-qualification-rate-covid-simulation-training.md) — related
 - [Male students reported higher self-efficacy than female students in both Studies 2 and 3, and self-efficacy mediated the gender effect on learning in Study 3](gender-self-efficacy-difference-mediation.md) — related
 - [Self-rated self-efficacy scores rose from pre-test to post-test after SBTT in one uncontrolled pre-post study, with a larger rise among men than women](sbtt-self-efficacy-sex-difference.md) — related
+- [Women showed larger normalized gains than men on the calculus transfer questions despite lower self-efficacy](women-larger-calculus-transfer-gains.md) — related

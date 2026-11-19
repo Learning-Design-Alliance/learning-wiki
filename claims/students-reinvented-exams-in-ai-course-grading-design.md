@@ -51,3 +51,4 @@ In-class group exercise (the AI Grading Paradox, week 4; 36 present, seven submi
 - [AI-assisted software engineering courses assess primarily through participation, project work, and coding assignments rather than exams](ai-se-assessment-project-based-not-exams.md) — related
 - [Students report that tests dominate assessment, carry too much weight, and create stress, while extended performance-based assessments offer better opportunities to learn and showcase learning](students-report-tests-dominate-and-overweight-grades.md) — related
 - [Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — related
+- [The course grades a 3-credit teaching course through three weighted components: homework and in-class performance, oral talk, and final exam.](quantum-course-three-part-grading-30-35-35.md) — related

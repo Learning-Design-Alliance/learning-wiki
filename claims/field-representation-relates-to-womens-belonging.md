@@ -57,3 +57,6 @@ Comparison of belonging by sub-discipline (biology vs physical sciences) among w
 - [Chemistry students are significantly less willing to work with women in their groups compared with men; biology shows no such gender bias](chemistry-gender-bias-willingness.md) — related
 - [Women of color in physics employ fragmentation and passing strategies as survival mechanisms in response to microaggressions](women-of-color-fragmentation-survival-strategies.md) — related
 - [Female students experienced distinctive outreach benefits: external recognition was more impactful for them, and their sense of belonging was linked to representation and peer interactions](outreach-female-students-recognition-belonging.md) — related
+- [Software-matched students from underrepresented gender and racial groups reported group experiences comparable to majority-group students](comparable-group-experiences-across-demographics.md) — related
+- [Societal stereotypes, strongest in physics, contribute to lower sense of belonging for women and ERM students in physics](stereotypes-lower-belonging-women-erm-physics.md) — a narrower finding that bears on this claim
+- [Underrepresented students in a large remote CS course were more likely to request software-matched study groups than majority-group peers](underrepresented-students-request-software-matched-groups-more.md) — related

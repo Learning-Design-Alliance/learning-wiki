@@ -51,3 +51,4 @@ A quasi-experimental comparison of grade distributions between an experimental g
 - [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — a broader claim this one bears on
 - [PBL students out-performed non-PBL students in final course grades in Financial Accounting Principles, with 14% versus 6% scoring A/A- and 3% versus 9% failing](pbl-outperformed-non-pbl-accounting-grades.md) — related
 - [Daily assessments increased withdrawal rates compared to daily homework](daily-assessments-increased-withdrawal-rates.md) — related
+- [The course grades a 3-credit teaching course through three weighted components: homework and in-class performance, oral talk, and final exam.](quantum-course-three-part-grading-30-35-35.md) — related

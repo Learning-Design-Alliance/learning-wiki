@@ -58,3 +58,4 @@ The study compares prediction accuracy only; it does not test whether a more acc
 - [Expert-designed knowledge-component models add little to the accuracy of logistic-regression learner models on most tutoring datasets](expert-kc-models-add-little-to-performance-prediction.md) — the same study
 - [The survey reports, citing Pavlik et al., that no single knowledge tracing model was always the best, and that a better model must consider multiple student features and the learning context.](no-single-knowledge-tracing-model-is-always-best.md) — related
 - [No single learner model was best across the six datasets, justifying a broad multi-model approach](no-single-learner-model-best-across-datasets.md) — related
+- [Model error varies by more than two orders of magnitude with network size, small datasets induce overlearning, and training time depends quasi-linearly on dataset size](nn-dataset-size-fresnel.md) — related

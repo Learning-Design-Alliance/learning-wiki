@@ -48,3 +48,4 @@ Observational analysis of online homework logs from four semesters of a large en
 - [In the unlimited-tries (99) scenario, unlimited attempts do not reduce the rate of giving up but hurt the per-attempt success rate](unlimited-tries-hurt-success-rate-not-giving-up.md) — a narrower finding that bears on this claim
 - [The per-attempt solving decay constant decreases with increasing maximum allowed tries, while the giving-up decay constant shows no clear dependency](solving-decay-constant-decreases-with-allowed-tries.md) — related
 - [Automatically graded online exercises with unlimited attempts were frequently used by students, saving instructor grading time](automatic-grading-unlimited-exercise-attempts.md) — related
+- [Perceived programming learning success was rated highest in the year Artemis was introduced](artemis-introduction-highest-perceived-learning-success.md) — related

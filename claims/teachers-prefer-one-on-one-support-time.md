@@ -67,3 +67,4 @@ Study 1 finding on teachers' willingness to invest time: teachers described fron
 - [Co-design sessions with seven teachers reveal four distinct aspects of how teachers want to spend, invest, avoid, and lack time for orchestration of social transitions](teacher-time-four-aspects-orchestration.md) — a broader claim this one bears on
 - [Teachers do not want to spend time on management communication and transition approvals, and lack sufficient time to monitor all students](teacher-unwanted-time-management-monitoring.md) — a broader claim this one bears on
 - [Pre-study survey found most art teachers spend 1-3 hours daily planning and struggle to integrate and assess teaching resources across platforms](art-teachers-resource-integration-challenges-prestudy.md) — related
+- [Surveyed teachers generally do not want to participate in chat groups with students, preferring small course-only groups](teachers-avoid-student-chat-groups.md) — related

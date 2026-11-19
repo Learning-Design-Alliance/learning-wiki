@@ -77,3 +77,4 @@ Post-intervention survey item on usefulness (Fig. 3) shows near-identical agreem
 - [Combining student feedback with teacher self-assessment provides more useful clinical teaching feedback than either alone](combined-student-feedback-self-assessment-more-effective.md) — related
 - [Students reported lower peer and teacher interaction in online classes, with lower ratings accumulating over the semester, yet preferred online learning](reduced-interaction-but-online-preference.md) — related
 - [After experiencing exclusive e-learning, a majority of Croatian health sciences students preferred a future combination of classroom and e-learning over either alone](students-prefer-blended-future.md) — related
+- [Most surveyed students preferred adding peer assessment to the module's assessment mechanisms](tdps-peer-assessment-preference.md) — related

@@ -47,3 +47,4 @@ Cross-sectional analysis of pilot results (n=469) by academic year, shown in Fig
 ## Related Claims
 - [The percentage of questions answered correctly increased from 46.6% pre-intervention to 60% post-intervention (p=0.02)](correct-answer-percentage-46-6-to-60-percent.md) — related
 - [CPS graduation rates increased by 22.4 percentage points over 16 years, from 52.4 percent among students who turned 19 in 1998 to 74.8 percent in 2014](cps-graduation-rates-rose-22-points-1998-2014.md) — related
+- [Students' template-scored problem-solving skills improved over the term, with overall scores rising from 45% to 55%](problem-solving-scores-improved-45-to-55.md) — related

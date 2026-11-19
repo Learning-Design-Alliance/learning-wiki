@@ -188,3 +188,4 @@ Open questions: how much guidance is optimal (over-guidance may trigger its own 
 - [Elementary students' internal thinking in geometry involves two types of abstraction: process and product](abstraction-process-product-types.md) — related
 - [The author argues that combining simulations with experiments helps students see the connection between them and understand their limitations](simulation-experiment-combination-builds-connection-awareness.md) — a narrower finding that bears on this claim
 - [The author argues that words, pictures, experiments, argument and discussion matter as much as equations and written exams in physics education](words-pictures-experiments-matter-as-much-as-equations.md) — related
+- [A multi-disciplinary curriculum with strong connection between fundamental concepts and applied sciences would improve student retention in STEM fields](multidisciplinary-curriculum-stem-retention.md) — a narrower finding that bears on this claim

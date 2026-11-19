@@ -48,4 +48,4 @@ A curriculum pattern in which an introductory physics course for life-science ma
 -
 
 ## Key Sources
-- Redish, E. F., Sawtelle, V., & Turpen, C. (2014). The role physics can play in a multi-disciplinary curriculum for non-physics scientists and engineers. Proceedings of the Frontiers in Mathematics and Science Education Research Conference, Famagusta, North Cyprus. http://nexusphysics.umd.edu
+- Redish, E. F., Sawtelle, V., & Turpen, C. (2014). The role physics can play in a multi-disciplinary curriculum for non-physics scientists and engineers. Proceedings of the Frontiers in Mathematics and Science Education Research Conference, Famagusta, North Cyprus. http://nexusphysics.umd.edu. [doi:10.30935/scimath/9621](https://doi.org/10.30935/scimath/9621)

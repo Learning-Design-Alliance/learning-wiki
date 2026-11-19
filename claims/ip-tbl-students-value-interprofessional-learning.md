@@ -50,3 +50,4 @@ Questionnaire completed by 117/311 (38%) of participants immediately after the s
 - [Most surveyed students were satisfied with interprofessional OFST and supported extending it to other colleges or disciplines](ofst-satisfaction-and-extension-support.md) — related
 - [Students evaluated the Learning Assistant role positively, with 88% agreeing LAs were valuable team members and 92% understanding and appreciating the role](positive-student-evaluations-of-las.md) — related
 - [With-OnLabs students responded positively on an ARCS-based satisfaction questionnaire, with nearly all endorsing the Skype session and a majority wanting it before every lab exercise](onlabs-skype-satisfaction-arcs-positive.md) — related
+- [Students on the hybrid module reported that teamwork helped them solve the design problem and developed awareness of team roles](tdps-teamwork-outcomes-survey.md) — related

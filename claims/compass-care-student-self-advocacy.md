@@ -53,3 +53,4 @@ Qualitative self-report from students, caregivers, and school staff interviewed 
 - [Interpersonal agency in instructional design centers on collegial engagement, learner advocacy and trust building with faculty clients](interpersonal-agency-instructional-design.md) — related
 - [Students reported coaching improved six academic skills, including self-advocacy, grades and GPA, writing, persistence, study skills, and on-time assignment submission](coaching-improves-academic-skills-six-ways.md) — related
 - [Most participants who implemented their training reported increased self-value, empowerment and self-confidence](rvt-implementers-empowerment-confidence.md) — related
+- [Two of three high-attendance, medium-achievement students would not ask the tutor for help because they were shy](hm-group-shyness-avoided-tutor-help.md) — related

@@ -53,3 +53,4 @@ Qualitative finding from staff reflections across Collaborative Innovation proje
 - [Governance structures that exclude faculty and support staff responsible for implementation produce policies that do not stick](exclusive-governance-produces-ignored-policies.md) — related
 - [Partners in participatory evaluation demonstrated capacities in data engagement, contextual and pedagogical knowledge, and openness and improvement-oriented dispositions](partner-capacities-skills-knowledge-dispositions.md) — related
 - [Libraries with formal shared decision-making report better alignment and more proactive resource management than libraries excluded from governance](shared-governance-linked-to-proactive-library-management.md) — related
+- [Students are typically excluded from LMS implementation decision-making despite being major stakeholders](students-excluded-lms-decision-making.md) — related

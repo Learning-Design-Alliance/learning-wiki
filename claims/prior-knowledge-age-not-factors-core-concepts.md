@@ -49,3 +49,4 @@ Correlational analysis of pre and post conceptual scores across the four year le
 - [Understanding of derived concepts rose from pre-test to post-test across age groups, with the highest reported improvement factor of 5.1 in Year 10 in one single-group pre-post study](derived-concepts-age-dependence.md) — reports the opposite
 - [Similar models and analogies were effective for teaching Einsteinian physics across ages 11 to 16, with all classes showing substantially improved conceptual understanding](models-analogies-effective-ages-11-16.md) — a broader claim this one bears on
 - [Multi-week Einsteinian interventions produce substantially larger conceptual gains than one-day interventions](longer-interventions-more-effective.md) — related
+- [Year 3 students (ages 7-8) demonstrated substantial uptake of Einsteinian physics concepts after a nine-lesson intervention](year-3-students-learn-einsteinian-concepts.md) — related

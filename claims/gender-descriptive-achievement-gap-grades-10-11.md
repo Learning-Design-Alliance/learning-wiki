@@ -60,3 +60,4 @@ Descriptive comparison of teacher-made test scores (Fig 2, N = 351) reported gra
 - [Male gender is associated with a significant reduction in both literacy and mathematics achievement-test scores](male-gender-lower-achievement-scores.md) — reports the opposite
 - [Middle school students' astronomy ranking-task performance is significantly stratified by gender, with female students scoring 15–20% lower on average](niaq-gender-stratification-astronomy.md) — related
 - [Course grades stratify by orientation in favor of framework orientation, but the difference is statistically significant in S14 only and the trend is tentative across semesters](framework-orientation-higher-course-grades-tentative.md) — related
+- [Prior-year grades predict course grades in both subjects, School 2 outperformed School 1 in physics, and female students scored higher in mathematics](control-variable-effects-prior-grades-school-gender.md) — reports the opposite

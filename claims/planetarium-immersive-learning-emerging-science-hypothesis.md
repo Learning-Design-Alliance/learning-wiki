@@ -48,3 +48,4 @@ Theoretical argument stated by the authors in the introduction: digital planetar
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — a broader claim this one bears on
 - [The authors speculate that the fulldome's large screen size interacting with peripheral visual motion increased audience arousal and attention, explaining the retention advantage](peripheral-motion-arousal-attention-speculation.md) — related
 - [The authors report that visitors to public computation spaces, many strangers to science, can engage creatively and authentically with scientific work](public-computation-visitors-engage-creatively-and-authentically.md) — related
+- [The authors hypothesize, without reported evidence, that VR techniques significantly increase students' level of understanding of mathematics](vr-hypothesis-increases-math-understanding.md) — related

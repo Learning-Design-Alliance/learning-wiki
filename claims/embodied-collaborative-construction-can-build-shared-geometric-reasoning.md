@@ -86,3 +86,4 @@ This is a single case study of four graduate students already trained in embodie
 - [Students' basic geometry skills on curved-solid objects improved after learning with the media](before-after-basic-geometry-skills-improved.md) — related
 - [Micro:bit calculator tasks help students recognize when computing by machine or by hand is more efficient](microbit-calculator-efficiency-recognition.md) — related
 - [Participants immediately engage with the chart construction, generating wide-ranging nuclear physics questions, with over 1,000 visitors building the chart at one open day](participants-engage-generate-questions.md) — related
+- [Interacting with geometric abstract concepts during VR precedent exploration was associated with faster assemblage and higher reported understanding and motivation than building geometry alone](abstract-concepts-vr-precedent-faster-assemblage.md) — related

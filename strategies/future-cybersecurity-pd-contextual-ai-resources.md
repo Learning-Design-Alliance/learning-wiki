@@ -47,6 +47,7 @@ Based on interview and survey findings about challenges and needs, the authors r
 ## Related Strategies
 
 - [Embed ethics in AI capacity building using hands-on approaches, case studies, and role reversal](hands-on-case-study-ai-ethics-training.md)
+- [Develop modular ethics case-study resources with facilitation guidance and curated readings for QIS faculty](modular-ethics-case-study-resources-qis.md)
 
 ## Examples
 -

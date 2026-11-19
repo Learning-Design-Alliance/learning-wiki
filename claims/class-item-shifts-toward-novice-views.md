@@ -48,3 +48,4 @@ Descriptive pre/post response percentages from the article's CLASS appendix for 
 - [Three E-CLASS items related to the transformation goals showed statistically significant favorable post-test shifts after the course transformation](three-eclass-items-significant-favorable-shift.md) — related
 - [Personal Interest and Real-World Connections CLASS clusters show the strongest differences for perceived relevance](relevance-strongest-personal-interest-real-world-clusters.md) — related
 - [Before treatment, pre-service science teachers' open-ended SUSSI responses were mostly Not Classifiable or Naïve, with few Transitional and no Informed Views](pretest-views-mostly-nc-nv.md) — related
+- [A significant percentage of life-science students predominantly use the novice 'Plug and Chug' problem-solving strategy in physics](plug-and-chug-predominates-life-sciences.md) — related

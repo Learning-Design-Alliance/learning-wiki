@@ -77,3 +77,4 @@ Difficulty-range classification against thresholds P≤.25, .25<P<.75, and P≥.
 - [Item difficulty and discrimination indices do not differ significantly by school of origin in a Brazilian cross-institutional progress test](no-psychometric-index-differences-by-item-origin-school.md) — related
 - [AI-generated questions showed significantly lower discrimination indices than traditional board examination questions despite similar difficulty](ai-exam-lower-discrimination.md) — related
 - [After the international histology project, significantly more histology image-based examination questions were rated 'average' and significantly fewer were rated 'difficult'.](fewer-difficult-more-average-histology-image-questions.md) — related
+- [Item difficulty in classroom tests is skewed towards easy items, with nearly 15% of items having over 90% of students answering correctly, yet this does not degrade psychometric functionality.](classroom-mct-item-difficulty-skew.md) — related

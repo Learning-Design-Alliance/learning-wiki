@@ -57,3 +57,4 @@ In the same quasi-experiment, self-efficacy was measured with the SQEIAIGRASQ qu
 - [Academic self-efficacy is associated with high school graduation rates and mathematics achievement](self-efficacy-associated-graduation-and-math.md) — a broader claim this one bears on
 - [The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills](ai-ibi-mainly-supports-creativity-and-affect.md) — related
 - [AI-supported inquiry-based learning significantly improved secondary students' attitudes toward mathematics compared with traditional instruction](ai-ibi-improves-attitudes-toward-mathematics.md) — related
+- [A pilot AR application for plotting quadratic equations was viewed by students as enhancing the teaching-learning process](ar-quadratic-pilot-positive-reaction.md) — related

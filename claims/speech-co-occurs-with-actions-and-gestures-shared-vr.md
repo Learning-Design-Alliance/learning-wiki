@@ -57,3 +57,4 @@ Multimodal analysis of 108 episodes of video from three groups of in-service tea
 - [In shared holographic AR, scale, positioning of the representation, and body positioning emerged as important design considerations](shar-scale-body-positioning-design.md) — related
 - [In the motion capture game The Hidden Village, pose creation spurred gesturally embodied argumentation expressed more in gesture than in precise mathematical speech](thv-gesturally-embodied-argumentation.md) — related
 - [In shared VR, teacher-learners showed a recurring multimodal sequence of discussion before embodied action on virtual objects](vr-discussion-before-embodied-action.md) — related
+- [Interacting with geometric abstract concepts during VR precedent exploration was associated with faster assemblage and higher reported understanding and motivation than building geometry alone](abstract-concepts-vr-precedent-faster-assemblage.md) — related

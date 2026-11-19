@@ -48,3 +48,4 @@ Descriptive comparison of institutional academic management system records betwe
 - [Innovation and entrepreneurship projects increased from 40 to 150 during the implementation period](innovation-entrepreneurship-projects-increase.md) — related
 - [The COVID-19 pandemic influenced U.S. science achievement, as shown by trends in science test scores across seven school years from 2019 through 2024](covid-influenced-science-achievement-seven-school-years.md) — related
 - [ICCSD implemented PLTW computing curricula at a growing set of schools, with COVID-19 slowing progress in Years 2 and 3](pltw-implementation-iccsd-covid-slowdown.md) — related
+- [On-campus experiential learning participation rose from 69% to 90% over the implementation period](eel-participation-increased-on-and-off-campus.md) — related

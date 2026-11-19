@@ -99,6 +99,8 @@ Video is a delivery medium, not a pedagogy — its effectiveness depends entirel
 - [Use short screencasts plus flipped-classroom homework to deliver computational tool instruction without lecture time](screencasts-flipped-homework-computation-strategy.md)
 - [Deliver virtual labs synchronously via live video conference and post recordings to the LMS](synchronous-video-labs-with-lms-recordings.md)
 - [Record online sessions and add subtitles so participants can attend asynchronously and across languages](record-sessions-and-enable-subtitles.md)
+- [For online lectures, decide between synchronous streaming and asynchronous delivery, and always post recordings for equity](online-lecture-synchronous-asynchronous-recordings-equity.md)
+- [Use pre-recorded sub-lectures of roughly 10 minutes with interspersed graded assessments, and use synchronous time for active engagement](short-prerecorded-sublectures-interspersed-assessments.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — short narrated screencasts with worked examples, followed by practice exercises; a canonical application of the short-video-plus-practice model

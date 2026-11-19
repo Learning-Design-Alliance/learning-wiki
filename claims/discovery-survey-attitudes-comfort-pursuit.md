@@ -61,3 +61,6 @@ Pre/post survey administration by teachers across the five terms (217 responses 
 - [Post-video soft matter interest and its growth differed by major: chemical and bio-engineering students were most interested, physical engineering students showed the largest improvement](soft-matter-interest-gains-vary-by-major.md) — related
 - [Every surveyed NAC student reported that peer support made them feel more comfortable in STEM despite rarely encountering career scientists of similar race or ethnicity](nac-peer-support-comfort-in-stem.md) — related
 - [Most mentees left the remote REU with clearer career goals and better understanding of research work](remote-reu-career-clarity-gains.md) — related
+- [A post-competition survey found that GeCAA made a positive impact on participants' views of astronomy and astrophysics](gecaa-2020-survey-positive-impact-views.md) — related
+- [Participation in informal science education activities is correlated with increased science interest, science identity development, and career intentions](isea-participation-science-identity-career-intentions.md) — a broader claim this one bears on
+- [Developing multiple pathways for laboratory investigation expands the learning of all participants in a physics lab program](multiple-pathways-expand-lab-learning.md) — related

@@ -48,3 +48,4 @@ Mixed-model 2 (class type) × 5 (week) ANCOVA of online homework attempts binned
 ## Related Claims
 - [Lower-GPA students show greater improvement than higher-GPA students in the flipped format on homework attempts, accuracy, and exam scores](lower-gpa-students-gain-more-in-flipped-format.md) — related
 - [Flipped-format students answer online homework more accurately, and this accuracy partially mediates the relationship between class type and exam scores](homework-accuracy-partially-mediates-flipped-exam-gain.md) — related
+- [Without grade incentives, students stopped completing in-class collaborative activities and out-of-class work in flipped and asynchronous online classes](grade-incentives-needed-online-activities.md) — related

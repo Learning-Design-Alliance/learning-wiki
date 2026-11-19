@@ -50,3 +50,4 @@ Evaluation of the PSC program comparing student participants to a control group 
 - [STARS undergraduate research experiences produced statistically significant growth in astrophysics understanding and confidence, with effects amplified for URM and female students](stars-undergrad-research-gains.md) — related
 - [The problem posing model had a significant positive effect on each measured motivation aspect: interest, diligence, identity, collaboration, and self-control](pp-model-positive-all-motivation-aspects.md) — related
 - [Participation in PSC II significantly increased high school teachers' competency in teaching science and the research process (d = 0.53)](psc-teacher-teaching-competency-increase.md) — related
+- [Participation in informal science education activities is correlated with increased science interest, science identity development, and career intentions](isea-participation-science-identity-career-intentions.md) — a broader claim this one bears on

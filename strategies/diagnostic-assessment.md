@@ -90,6 +90,7 @@ Diagnostic assessment is the evidence-gathering half of [Assessment for Learning
 - [Triangulate curriculum impact with multiple instruments plus longitudinal tracking](assessment-triangulation-longitudinal-tracking-strategy.md)
 - [Use the TOSLS as a pre/post or diagnostic assessment to reveal skill gaps and guide instructional planning](tosls-diagnostic-use-strategy.md)
 - [Train teachers to diagnose intuitive conceptions and misconceptions with concept tests in their own classrooms](concept-tests-misconception-diagnosis-strategy.md)
+- [Adjust teaching and learning to reinforce concepts flagged by pre-test misconception data](adjust-teaching-from-pretest-misconception-data.md)
 
 ## Examples
 - **Force Concept Inventory (FCI)** — the canonical physics concept inventory; its distractors encode specific Newtonian misconceptions, letting instructors diagnose *which* intuitive model a student holds rather than just whether they are wrong.

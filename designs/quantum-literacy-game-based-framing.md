@@ -48,4 +48,4 @@ The article frames quantum literacy as "developed to formalize this need as an e
 -
 
 ## Key Sources
-- Nita, L., Chancellor, N., Mazzoli Smith, L., Cramman, H. & Dost, G. (2021). Inclusive learning for quantum computing: supporting the aims of quantum literacy using the puzzle game Quantum Odyssey. https://quarksinteractive.com
+- Nita, L., Chancellor, N., Mazzoli Smith, L., Cramman, H. & Dost, G. (2021). Inclusive learning for quantum computing: supporting the aims of quantum literacy using the puzzle game Quantum Odyssey. https://quarksinteractive.com. [doi:10.48550/arxiv.2106.07077](https://doi.org/10.48550/arxiv.2106.07077)

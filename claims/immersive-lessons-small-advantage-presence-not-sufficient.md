@@ -89,3 +89,4 @@ The review reports, citing multiple studies, that using XR without considering i
 - [Immersion in VR increases learner presence and minimizes distractions but can create extraneous cognitive load that detracts from learning objectives](vr-immersion-balance-extraneous-load.md) — a narrower finding that bears on this claim
 - [iVR training has been reported as 34 times more cost-effective than a traditional course format](ivr-34x-more-cost-effective-than-traditional-course.md) — related
 - [Piloting does not necessarily lead to the intended perception or increase of knowledge, since students follow directives without discussing meaning](piloting-not-necessarily-knowledge-gain.md) — related
+- [The authors hypothesize, without reported evidence, that VR techniques significantly increase students' level of understanding of mathematics](vr-hypothesis-increases-math-understanding.md) — a narrower finding that bears on this claim

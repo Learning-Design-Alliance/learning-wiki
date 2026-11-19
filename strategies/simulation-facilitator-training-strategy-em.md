@@ -49,6 +49,7 @@ The article recommends building facilitation capacity alongside simulation resou
 - [Redesign ISBTT programs with explicit interprofessional learning goals, power-focused debriefing, matched facilitators, and longitudinal formats](isbtt-redesign-strategy.md)
 - [Use faculty development programs to provide structured training in teaching skills and support the transition from teacher to facilitator](faculty-development-teaching-style-transition-strategy.md)
 - [Implement structured clinical debriefing programs supported by faculty development and interdisciplinary prompting, with a less active team member as facilitator](interdisciplinary-prompted-clinical-debriefing-strategy.md)
+- [Develop modular ethics case-study resources with facilitation guidance and curated readings for QIS faculty](modular-ethics-case-study-resources-qis.md)
 
 ## Examples
 -

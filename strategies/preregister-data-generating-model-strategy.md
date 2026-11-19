@@ -44,7 +44,8 @@ The article recommends that researchers, before analyzing two-occasion nonrandom
 - [For the DESI example, both approaches would show negative bias under the assumed data-generating model, so the observed positive coefficients make a positive true effect of teacher support likely, though its exact size remains inestimable](../claims/desi-revisited-positive-true-effect-likely-bias-negative.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Preregister study protocols so methods are refereed before data are gathered](preregister-protocols-per-studies.md)
 
 ## Examples
 -

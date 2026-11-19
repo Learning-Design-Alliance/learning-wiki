@@ -48,3 +48,4 @@ Numerical computation combining the 25 observers' difficulty frequencies with th
 ## Related Claims
 - [Most elisions of the test were judged of average difficulty (83.2%), with 9.3% more-than-average and 7.5% very difficult, yielding frequency-based weights of .048, .427, and .533.](elision-difficulty-frequency-weights.md) — related
 - [The reported difficulty values are based on scholastically advanced adults, and whether the proportions would hold for less mature subjects remains an open question.](completion-test-values-adult-scope-limit.md) — related
+- [Grade-based difficulty index is computed by converting class average to a 5-point scale and subtracting from 5](grade-average-difficulty-index-formula.md) — related

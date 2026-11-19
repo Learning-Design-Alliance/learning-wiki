@@ -48,6 +48,7 @@ This strategy embeds an AI chatbot into writing courses so that learners receive
 - [Integrate AI feedback as a supportive resource within process-oriented drafting cycles, with explicit guidance on critical evaluation](ai-feedback-process-writing-integration-strategy.md)
 - [Revision Cycles](revision-cycles.md)
 - [Embed AI in guided accept/reject/justify workflows, teach digital critical thinking explicitly, and integrate institutional authorship standards](embed-ai-guided-workflows-explicit-dct-instruction.md)
+- [Deliver writing-assignment feedback via a conversational chatbot to emulate mentoring at scale](chatbot-conversational-mentoring-strategy.md)
 
 ## Examples
 -

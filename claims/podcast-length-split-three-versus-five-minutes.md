@@ -54,3 +54,4 @@ Closed-ended questionnaire item (Part B) administered to students who used 3MTLs
 - [Reported medical education podcasts typically run 10 to 20 minutes with a mean of 18 minutes](podcast-length-mean-18-minutes.md) — related
 - [Viewers prefer educational videos longer than 15 minutes and want learning objectives at the start with quiz questions at the end](viewers-prefer-longer-videos-with-objectives-and-quiz.md) — related
 - [First-year medical students perceived 3-minute podcasts mainly as a supplementary revision and assessment-preparation tool](short-podcasts-perceived-revision-tool.md) — related
+- [Video duration and questionnaire time limits had no significant influence on quiz scores](video-duration-quiz-time-no-influence.md) — related

@@ -45,6 +45,7 @@ The article describes a historical teaching method that "helps the students find
 
 - [Include aspects of the history of physics when teaching the force concept](history-of-physics-force-teaching-strategy.md)
 - [Adopt guided discovery and other student-centred strategies for teaching physics concepts](adopt-guided-discovery-student-centred-physics.md)
+- [Use history and philosophy of science cases, such as the falsifiability of the geocentric model, to teach what makes a theory scientific](demarcation-cases-teach-scientific-reasoning.md)
 
 ## Examples
 -

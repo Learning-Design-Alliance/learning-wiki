@@ -68,6 +68,7 @@ Interaction quality matters more than quantity: contacts that convey personal in
 - [Establish an inter-institutional, society-level mentorship registry providing continuous support from undergraduate entry through faculty appointment](inter-institutional-society-mentorship-registry.md)
 - [Keep in continual contact with distance students to reduce disappearing, isolation, and anxiety](continual-contact-reduce-isolation-anxiety.md)
 - [Instructor trust-building strategies for active-learning courses](trust-building-strategies-active-learning.md)
+- [Establish TA-instructor and TA-student communication channels at the start of the semester](ta-semester-start-communication-strategy.md)
 
 ## Examples
 - **First-year seminars** (e.g., the [AAC&U High-Impact Practices](https://www.aacu.org/trending-topics/high-impact) framework) — small classes with intensive faculty interaction are among the best-documented retention interventions.

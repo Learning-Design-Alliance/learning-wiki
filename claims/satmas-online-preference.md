@@ -55,3 +55,4 @@ Pre/post-course feedback from students who completed all seven sessions, analyse
 - [Overall teaching quality is equivalent across online and face-to-face formats, and delegates show no preference shift between formats](overall-teaching-quality-equivalent-formats.md) — reports the opposite
 - [Obligation to attend at a fixed time and place produced higher commitment to face-to-face courses](fixed-time-place-commitment-face-to-face.md) — reports the opposite
 - [Course satisfaction was high (mean 7.8 on a 10-point scale), and 74% of parents considered the online intervention a better way to receive professional help than face-to-face](koppouders-high-course-satisfaction.md) — related
+- [All teams rated the feedback intervention above average, and students preferred real-time online feedback sessions over written feedback](feedback-intervention-online-sessions-preferred.md) — related

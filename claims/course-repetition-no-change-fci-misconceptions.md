@@ -49,3 +49,4 @@ Observational pre-test analysis of 600 engineering students in three consecutive
 - [Mean FCI scores are similar across attempts within each course, with only a slight increase across the three course levels](fci-mean-scores-similar-across-attempts.md) — related
 - [Average FCI scores in all three courses fall below the 60% entry threshold to Newtonian physics, even though 96.8% of participants had at least one prior attempt](fci-scores-below-entry-threshold.md) — related
 - [Impetus misconceptions are the most dominant incorrect answers, with impetus-supplied-by-hit (I1) chosen by more than 70% of students answering incorrectly across attempts](impetus-misconceptions-most-dominant-fci.md) — related
+- [Newtonian mechanics misconceptions persist despite extensive training in third-semester extended-programme students](newtonian-misconceptions-persistent-despite-training.md) — related

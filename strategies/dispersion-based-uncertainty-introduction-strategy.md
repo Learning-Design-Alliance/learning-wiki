@@ -41,6 +41,7 @@ A two-hour session at the beginning of the course introduces uncertainties throu
 
 - [Enrich practical sessions with ray-tracing software and 2D CCD cameras, and tutorials with a problem-solving approach](ccd-ray-tracing-problem-solving-future-improvements.md)
 - [Conclude the lab with a whole-class graph comparison to launch discussion of systematic errors and experimental design](class-graph-discussion-systematic-errors-strategy.md)
+- [Use the drawable-conductor exercises to teach measurement uncertainty through device errors, repeated-measurement agreement, sample preparation and error propagation](uncertainty-learning-through-drawn-conductor-exercises.md)
 
 ## Examples
 -

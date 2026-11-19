@@ -51,3 +51,4 @@ The study's reported finding, as stated in the article's abstract, is that "stud
 - [The effect of mobile game-based learning on learners' engagement and achievement is still to be documented in research](mgb-engagement-achievement-undocumented.md) — a broader claim this one bears on
 - [Students in the Bidirectional QR-code SLE receive significantly higher completeness scores than students in the Traditional SLE](bidirectional-sle-higher-completeness.md)
 - [Augmented reality can be implemented in education via three methods: marker position, geolocation, and QR-code](ar-three-implementation-methods-marker-geolocation-qr.md) — a broader claim this one bears on
+- [An AR and QR code integration approach raised undergraduate computer-course achievement relative to conventional lecture](ar-qr-code-hardware-course-higher-achievement.md) — possibly the same claim (merge candidate)

@@ -55,3 +55,4 @@ Quasi-experimental comparison of two naturally occurring groups of 38 second-yea
 - [Most students taught with detailed analogies evaluated the technique positively, though some misinterpreted analogies](students-view-detailed-analogies-positively.md) — related
 - [Online algorithm visualization treatment produced higher achievement-test scores than traditional instruction in an introduction to programming course](oav-higher-achievement-than-traditional.md) — related
 - [The analogy group's distribution of correct answers differed radically from the traditional group's, suggesting student-centered methodologies may favor academic performance in Higher Education.](analogy-group-radically-different-curve-performance.md) — related
+- [Students' template-scored problem-solving skills improved over the term, with overall scores rising from 45% to 55%](problem-solving-scores-improved-45-to-55.md) — related

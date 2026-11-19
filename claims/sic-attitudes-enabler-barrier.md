@@ -50,3 +50,4 @@ Thematic synthesis finding under intrapersonal capabilities: constraining attitu
 - [Interpersonal capabilities — building connectedness and seeking permission — foster trust and psychosocial safety in serious illness conversations](sic-interpersonal-connectedness-permission.md) — related
 - [Effective use of the Serious Illness Conversation Guide is itself a competence requiring balance between structure and flexibility](sicg-use-structure-flexibility-competence.md) — related
 - [Barriers to soft skills integration: time constraints, systemic obstacles, learner emotional strain, and adapting to new modalities](soft-skills-curricular-barriers-medical-education.md) — related
+- [Conversation alone, via empathetic listening and reflective questioning, shifted faculty attitudes markedly toward openness to ESR in the QIS classroom](conversation-alone-shifted-faculty-attitudes-esr.md) — a narrower finding that bears on this claim

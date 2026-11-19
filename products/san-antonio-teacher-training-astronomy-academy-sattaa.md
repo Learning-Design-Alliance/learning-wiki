@@ -29,4 +29,4 @@ SATTAA is a zero-cost, two-week astronomy professional-development programme run
 -
 
 ## Key Sources
-- Fies, C., & Packham, C. (2021). Interdisciplinary Teams for Teacher Professional Development. ASP Conference Series. https://aspbooks.org
+- Fies, C., & Packham, C. (2021). Interdisciplinary Teams for Teacher Professional Development. ASP Conference Series. https://aspbooks.org. [doi:10.48550/arxiv.2108.04878](https://doi.org/10.48550/arxiv.2108.04878)

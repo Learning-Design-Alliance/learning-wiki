@@ -68,3 +68,4 @@ Interview evidence of the second manifestation: a coding-capable instructor need
 - [Instructor time remains a barrier to computation integration, compounded because instructors may need to design entirely new computational materials rather than reuse existing ones](instructor-time-barrier-computation.md) — related
 - [The five systemic forces limiting research-informed teaching reform identified by Dancy and Henderson replicate when the reform is integrating computation into undergraduate physics](systemic-forces-replicate-computation-integration.md) — related
 - [ITS adoption is limited by instructors' lack of programming skills and high outsourcing costs](its-barriers-programming-skills-and-cost.md) — related
+- [Instructors identified students' lack of programming background as a barrier to learning with computation](programming-background-barrier.md) — related

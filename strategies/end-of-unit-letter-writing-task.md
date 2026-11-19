@@ -53,7 +53,8 @@ A concrete implementable activity: after completing a science unit, students sum
 - [Writing to younger students produced better mixture understanding than writing to the teacher, while younger-student and peer audiences did not differ](../claims/younger-audience-beats-teacher-audience-posttest.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Run a half-recitation social-psychological activity combining concern writing, peer quotes, small-group discussion, and a letter to a future student](half-recitation-social-psychological-activity-recipe.md)
 
 ## Examples
 

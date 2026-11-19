@@ -47,3 +47,4 @@ Welch's ANOVA on the full sample compared average usage of nine function types a
 ## Related Claims
 - [Three distinct learner profiles emerge from function art activities: Repetitivists, Simplists, and Multifunctionists](function-art-three-learner-profiles.md) — related
 - [Repetitivist group included significantly more lower-grade students while Multifunctionist group included more upper-grade students](repetitivist-lower-grade-multifunctionist-upper-grade.md) — related
+- [Two-dimensional functions are rendered as a tube (with depth fixed at 0.05f) so students can observe them while moving around](2d-functions-rendered-as-tube-in-vr.md) — related

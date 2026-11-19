@@ -41,6 +41,7 @@ The author's promising approach is to start with a literature review, find paper
 - [Emphasize physics-specific content: literature searching, domain-knowledge-driven feature engineering, comparison of ML with inference-based solutions, and uncertainty estimation.](physics-specific-ml-teaching-emphases.md)
 - [Use a two-step open-ended final project — a common data-cleaning and modeling goal followed by student-chosen group tracks — and encourage posting portfolio items on GitHub.](two-step-tracked-final-project-portfolio.md)
 - [Teach students systematic ways to find their own research paper topics rather than assigning topics](topic-finding-condition-removal-strategy.md)
+- [Use a known physics problem with a well-known analytical solution as a testbed for a short supervised research project introducing machine learning to students without prior ML background](three-day-ml-optics-research-project.md)
 
 ## Examples
 -

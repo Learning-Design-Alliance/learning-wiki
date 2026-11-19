@@ -48,3 +48,4 @@ Descriptive usage accounting for the running ELM-ART system, not an experimental
 ## Related Claims
 - [Students performed better in final programming tasks after learning with ELM-ART than with ELM-PE, especially students with lower levels of previous programming knowledge](elm-art-outperformed-elm-pe-final-tasks.md) — related
 - [Being Web-based contributed to ELM-ART's educational effectiveness: it surpassed its locally available predecessor ELM-PE despite a smaller episodic learner model](web-based-access-boosted-elm-art-effectiveness.md) — related
+- [More than 1000 students used the MyOpenMath astronomy assessments over four years, and the associated Zero Textbook Cost course saved students an estimated combined total of 100,000 USD over three years](myopenmath-astronomy-1000-students-100k-savings.md) — related

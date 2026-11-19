@@ -66,3 +66,4 @@ Prospective educational intervention at a national residency training base: 30 r
 - [Participants' NoTSUS scores improved significantly across the four simulation scenarios in each session, with the largest gain between sessions 1 and 3](notsus-improvement-across-scenarios.md) — related
 - [Across repeated simulation sessions, residents showed a slight increase in skills assessment score and a decline in operative time](repeated-simulation-sessions-slight-score-increase-time-decline.md) — related
 - [A five-level scale of progression of skill and proficiency in suture video surgery classified trainees by task completion time, showing residents and young surgeons need additional training time](scale-progression-skill-proficiency-baraitric-suture.md) — related
+- [Students gained independent telescope operation skills through repeated practice over two weeks](students-independent-evscope-operation.md) — related

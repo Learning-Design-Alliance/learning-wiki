@@ -50,3 +50,4 @@ Post-hoc analysis pooling the no-resit and unconditional-resit conditions of Exp
 - [Restricting access to a resit exam attenuates the reduction in first-attempt study-time investment](restricted-resit-access-attenuates-resit-effect.md) — related
 - [The resit effect on study-time investment is stronger for participants with higher Cognitive Reflection Test scores](resit-effect-stronger-higher-crt.md) — related
 - [Simulated forgetting between attempts reduces the predicted resit effect](forgetting-reduces-resit-effect-in-model.md) — related
+- [Students overwhelmingly studied immediately after their first failed attempt, consistent with reflection or planned learning rather than failure-driven study](study-immediately-after-first-attempt.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-19
 sources:
   - id: emily-alicea-muñoz-2018
     resource: "https://doi.org/10.1119/perc.2017.pr.003"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Microteaching topped the most-useful lists in 2013–2014 and received the highest Likert usefulness ratings in 2015 (M = 4.38, SD = 1.07) and 2016 (M = 4.32, SD = 0.72). [→ Emily Alicea-Muñoz 2018](#emily-alicea-munoz-2018)
@@ -47,3 +48,4 @@ Final Survey Likert usefulness ratings in 2015 and 2016 plus top-3 free-response
 ## Related Claims
 - [GTAs consistently rate the Orientation as useful and valuable and prefer its interactive activities over lecturing](gtas-rate-orientation-useful-interactive.md) — a broader claim this one bears on
 - [Student ratings change over the semester: GTAs gain on positive descriptors while faculty decline, with confident, engaging, respect, and uncertain moving in opposite directions for the two instructor types](semester-change-opposite-directions.md) — related
+- [Pilot reflections showed GTAs preferred practical, directly applicable topics over theoretical or career-irrelevant ones](gtas-prefer-practical-preparation-topics.md) — related

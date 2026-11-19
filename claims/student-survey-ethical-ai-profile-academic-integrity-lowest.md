@@ -54,3 +54,4 @@ Descriptive statistics from the student survey. The article reports the highest 
 - [Experts rated the initial curriculum highest on AI/robotics integration and teamwork (both M=4.60) and lowest on communication (M=3.40) and assessment (M=3.60)](expert-ratings-initial-curriculum-integration-teamwork-highest.md) — related
 - [University students report a generally good understanding of GenAI technologies, with highest self-rated knowledge of limitations and lowest for emotional-intelligence limits](students-good-understanding-genai-limitations.md) — related
 - [Students rate the virtual campus positively overall, with communication tools scoring lowest](virtual-campus-positive-communication-lowest.md) — related
+- [Post-course, NE290 students reported gains toward the ethical-responsibility and new-knowledge ABET outcomes but rated the teamwork outcome lowest](ne290-abet-outcomes-survey-results.md) — related

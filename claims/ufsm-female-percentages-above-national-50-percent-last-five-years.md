@@ -70,3 +70,4 @@ Table 3 reports female graduate percentages for the last 5 years: 50% for daytim
 - [UFSM undergraduate physics graduation rates are roughly constant at 7.6, 7.3 and 6.5 graduates per year, and fewer than 30% of entrants complete the degree](ufsm-physics-graduation-rates-below-30-percent-completion.md) — related
 - [In the licenciatura (physics teaching) course at UFSC, success rates are 17,7% for women and 19% for men (23% after excluding recent incomers).](ufsc-licenciatura-success-rates-women-men.md) — related
 - [In the bacharelado (bachelor in physics) course at UFSC, success rates are 13,4% for women and 16,8% for men (19,6% and 21,4% after correction).](ufsc-bacharelado-success-rates-women-men.md) — related
+- [Women physics degree recipients increased 200%, from a yearly average of 0.75 to 2.4, reaching about 30% of graduates](women-physics-graduates-200-percent-increase.md) — related

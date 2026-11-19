@@ -50,3 +50,4 @@ Authors' interpretation (type e) of structural constraints: camp houses must bed
 - [The 2019 camp fee rose to 850 EUR after five years at 690 EUR, driven by costly camp-house requirements](iayc-fee-raise-850-eur-2019.md) — related
 - [The majority of IAYC participants have come from high-GNI countries in 54 of 55 camps](iayc-majority-high-gni-54-of-55-camps.md) — related
 - [IAYC survey respondents were 84.7% white, indicating limited ethnic diversity](iayc-survey-84-7-percent-white.md) — related
+- [Unique nationalities represented at the IAYC steadily and significantly increased, adding roughly five nationalities per decade without increasing total participants](iayc-nationalities-increasing-trend.md) — related

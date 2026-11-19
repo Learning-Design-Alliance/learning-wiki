@@ -48,6 +48,7 @@ The article recommends four instructor practices for motivating students to comp
 - [Use four recommended practices — multiple email reminders, multiple in-class announcements, and participation credit for pretest and posttest — to maximize online assessment participation](four-recommended-practices-online-assessment-participation.md)
 - [Use announcements, email reminders, and completion credit to achieve online RBA participation rates similar to in-class testing](motivation-practices-online-assessment-participation.md)
 - [When administering pre/post assessments online, use in-class reminders, email reminders, and credit for participation to reach paper-equivalent participation rates](recommended-practices-raise-online-assessment-participation.md)
+- [Allocate in-class time for survey completion to raise participation rates](in-class-time-for-survey-completion.md)
 
 ## Examples
 -
