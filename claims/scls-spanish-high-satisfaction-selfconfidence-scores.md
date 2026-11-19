@@ -47,3 +47,4 @@ Descriptive analysis of SCLS scores from 489 nursing students after clinical sim
 ## Related Claims
 - [The Spanish SCLS shows high internal consistency, with Cronbach's alpha of .885 for the total questionnaire and above .81 for both dimensions](scls-spanish-high-internal-consistency.md) — related
 - [Nursing students evaluated the flipped classroom positively, with the highest scores for lecturer performance and materials/organisation and the lowest for comparison with traditional methodology](flas-dimension-means-positive-evaluation.md) — related
+- [Students rate the lecture component satisfactorily but with high variability](lecture-ratings-variable-3-7.md) — related

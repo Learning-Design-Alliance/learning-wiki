@@ -48,3 +48,6 @@ Authors' report of the December 8 masterclass in which each of four students ana
 - [In a survey of 590 Slovak masterclass participants, 72% expressed interest in pursuing a career in natural sciences (including informatics) or engineering](slovak-survey-career-interest.md) — related
 - [28% of Slovak masterclass participants reported at the end of the day that masterclasses influenced their choice of future studies](masterclass-influence-study-choice.md) — related
 - [About ten ASP students gained hands-on experience assembling and taking data with a QuarkNet cosmic ray detector and trying Cosmic Watch detectors](asp2022-cosmic-ray-workshop-hands-on.md) — related
+- [Among fans, influence of IMC on career decision shows a hint of anti-correlation with pre-existing ambition, with ambivalent respondents nudged towards particle physics](imc-anticorrelation-ambition-influence-fans.md) — related
+- [Career plans stated after Masterclasses roughly align with current professions, with pronounced peaks in IT and physics and some respondents converging into physics or IT from other plans](imc-career-plans-diagonal-it-physics-peaks.md) — related
+- [Most surveyed young HEP practitioners report being influenced by Masterclasses towards particle physics, including six who had no prior ambition](imc-practitioners-influenced-toward-particle-physics.md) — related

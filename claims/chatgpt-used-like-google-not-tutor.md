@@ -51,3 +51,4 @@ Qualitative ethnographic finding from field notes and focus groups in the same s
 - [Chatbot engagement was highly uneven: 8 of 15 voluntary users interacted continuously while 7 interacted superficially](chatbot-engagement-bimodal-continuous-versus-superficial-users.md) — related
 - [Group collaborative culture shapes ChatGPT use: weaker collaborative cultures use it sooner and more passively, stronger cultures use it less and more critically](collaborative-culture-moderates-chatgpt-use.md) — related
 - [No significant differences between Google and HON search engines in contents, quality and legibility of retrieved oral cancer screening websites](no-search-engine-differences-website-quality.md) — related
+- [Perceived accuracy and quality of ChatGPT answers did not differ significantly from perceived search engine answer accuracy and quality](no-significant-difference-perceived-answer-quality.md) — related

@@ -48,3 +48,4 @@ Classroom observation of twelve recorded small-group sessions with six teachers 
 - [Experienced teachers challenge students' language use, and pressing groups on fundamental terms elicits admissions of not knowing and rapid resolution of confusion](challenging-language-exposes-misunderstanding.md) — related
 - [Metacognitive time-outs attending to process occur multiple times in experienced teachers' classrooms but almost never with inexperienced teachers](metacognitive-time-outs-experienced-teachers.md) — related
 - [Experienced reviewers spend more time reading review criteria than novice reviewers](experienced-reviewers-read-criteria-longer.md) — related
+- [Teachers explore FlippED in an ordered way and rely on the Profiles page for diagnosis](flipped-dashboard-usability-rq1.md) — related

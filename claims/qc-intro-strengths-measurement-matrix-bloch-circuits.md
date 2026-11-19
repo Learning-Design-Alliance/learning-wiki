@@ -48,3 +48,4 @@ Qualitative case study: thematic analysis of two one-hour semi-structured interv
 ## Related Claims
 - [Students prefer matrix methods over Dirac notation, with fewer than 40% confident working with Dirac notation after the introductory course](dirac-notation-low-confidence-prefer-matrix.md) — related
 - [More than 60% of interviewed students could not tell how rotation operators and the Toffoli gate manipulate qubit states](rotation-toffoli-gates-difficulty.md) — related
+- [A core set of QISE topics — including qubits, entanglement, superposition, quantum gates, key algorithms, measurement, circuit diagrams, teleportation, the Bloch sphere, and foundational math — is covered in at least 80% of surveyed introductory QISE courses](core-qise-topics-covered-in-80-percent-of-intro-courses.md) — related

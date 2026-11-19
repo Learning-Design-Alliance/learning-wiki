@@ -58,3 +58,4 @@ Post-intervention seven-item questionnaire completed only by the experimental gr
 - [Students reported high satisfaction and increased motivation to learn from the gamified histology course](kahoot-satisfaction-motivation-histology.md) — related
 - [Students in the game group reported significantly more positive attitudes toward the learning experience than the script group on all three questionnaire items](gbel-more-positive-attitudes-fun-confidence.md) — related
 - [Students surveyed reported highly positive attitudes toward the MCQ-authoring method and perceived benefits for understanding and problem-solving](survey-positive-attitudes-mcq-authoring.md) — related
+- [Participants reported similar engagement and motivation ratings for the game and video conditions, with no significant effects found](similar-engagement-ratings-game-video.md) — related

@@ -41,7 +41,8 @@ The article proposes modifying the video submission process on sites such as You
 - [Downloading and editing online video to a local file is presented as the optimum route, solving reliability, cropping, display and portability problems, but it violates most sites' terms of use and likely copyright unless the owner grants permission](../claims/download-edit-video-optimum-but-legally-limited.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use the proposed decision tree in teacher education to systematize YouTube video selection](decision-tree-teacher-education-strategy.md)
 
 ## Examples
 -

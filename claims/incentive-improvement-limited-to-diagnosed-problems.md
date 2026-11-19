@@ -52,3 +52,4 @@ A secondary analysis on four non-repeated final exam problems found no statistic
 ## Related Claims
 - [Students given explicit grade incentives to correct midterm exam mistakes significantly outperform comparison students on identical problems repeated on the final exam](grade-incentives-to-correct-mistakes-improve-final-exam-performance.md) — related
 - [The incentivized group showed no statistically significant advantage on four other final exam problems whose midterm mistakes they had not diagnosed](no-transfer-to-undiagnosed-final-problems.md) — possibly the same claim (merge candidate)
+- [The review reports that incentivizing students to self-diagnose and correct their mistakes before receiving solutions best helped them learn from mistakes](incentivized-self-diagnosis-mistakes-review.md) — related

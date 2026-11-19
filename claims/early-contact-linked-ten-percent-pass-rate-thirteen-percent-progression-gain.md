@@ -50,3 +50,4 @@ Institutional before-and-after comparison in the Results/Summary section. The au
 - [Most RSF-supported Cohort 1 schools increased the percentage of students meeting or exceeding ISAT standards from year 1 to year 2](rsf-cohort1-increased-standards-passing-rates.md) — related
 - [Student course ratings showed no large change from the laboratories: progress on relevant objectives rose slightly while the excellent-course rating decreased](idea-ratings-mixed-lab-impact.md) — related
 - [Non-progression from level 1 to level 2 physics in the 2006-2007 cohort split into five printed categories, dominated by students who never intended to continue (20.2%) or could not progress without level 1 maths (13.3%).](level1-physics-nonprogression-category-breakdown.md) — related
+- [Most students pass the course exam, with dispersed grades reflecting unfamiliarity with Fermi-question reasoning](exam-pass-rate-fermi-difficulty.md) — related

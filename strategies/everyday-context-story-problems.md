@@ -58,4 +58,4 @@ Following context-based science education, teachers base instruction in everyday
 -
 
 ## Key Sources
-- Darmendrail, L., Gasparini, A., & Müller, A. (2023). Mobile devices as experimental tools in physics education: some historical and educational background. https://eric.ed.gov/?id=EDPLACEHOLDER
+- Darmendrail, L., Gasparini, A., & Müller, A. (2023). Mobile devices as experimental tools in physics education: some historical and educational background. https://eric.ed.gov/?id=EDPLACEHOLDER. [doi:10.48550/arxiv.2303.07294](https://doi.org/10.48550/arxiv.2303.07294)

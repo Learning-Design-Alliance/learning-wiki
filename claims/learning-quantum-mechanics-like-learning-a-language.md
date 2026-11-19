@@ -53,3 +53,4 @@ Theoretical argument from the author's preface, offered as personal expert exper
 - [Academics attribute student difficulties chiefly to lack of work, insufficient mastery of mathematical tools, difficulty giving physical meaning to knowledge, and lack of curiosity](student-difficulties-perceived-by-physics-academics.md) — related
 - [Teachers reported the game's intuitive, tangible approach to quantum physics encouraged weaker students to participate more actively](eqm-tangible-approach-weaker-students.md) — related
 - [Scaffolded play in Quantum Odyssey enables learners to intuitively work with established QIS topics without prior mathematics or physics exposure](visual-intuition-without-mathematics-quantum-concepts.md) — related
+- [The depth and timing of theory understanding students needed to observe quantum effects varied across students](varied-theory-depth-timing-quantum-effects.md) — related

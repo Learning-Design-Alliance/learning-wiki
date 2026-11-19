@@ -81,3 +81,4 @@ This conceptual policy paper, drawing on contemporary literature and internation
 - [Significant barriers to AI implementation include algorithmic bias, lack of transparency, data privacy concerns, unregulated use, and system limitations](ai-implementation-barriers-medical-education.md) — related
 - [Human–AI feedback loops can compound historical biases: simulated predictive policing reinforced bias against Black people at twice the rate of white people](human-ai-feedback-loops-compound-bias.md) — related
 - [Machine learning algorithms optimizing overall accuracy are inherently biased against minority groups when group data amounts vary, even absent historical bias](ml-accuracy-optimization-biased-against-minority-groups.md) — a narrower finding that bears on this claim
+- [AI use in classrooms carries confabulation, bias, privacy, and instructional risks that require active management](four-classroom-ai-risks.md) — a broader claim this one bears on

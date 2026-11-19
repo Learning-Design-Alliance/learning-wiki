@@ -50,3 +50,6 @@ Benchmarking study of ten davinci-003 submissions on the Physics in Society exam
 - [Very top-performing students outscored the AI essays, while the majority of the cohort performed comparably or worse](cohort-distribution-versus-ai-scores.md) — related
 - [LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks](llm-grading-mixed-against-human-raters.md) — related
 - [LLM-based scoring of Spanish argumentative writing achieves 60–80% per-item accuracy, slightly below human inter-rater agreement](llm-scoring-spanish-writing-60-80-accuracy-below-human-agreement.md) — related
+- [GPT-4 outperforms GPT-3.5 on real university physics exams, averaging 49.4% versus 38.6%](gpt4-outperforms-gpt35-physics-exams.md) — related
+- [LLM marking agrees with human markers on only about half of graded Physics answers, and assigns higher, less variable normalized scores than humans](llm-marking-concordance-with-humans-about-half.md) — related
+- [Non-invigilated Physics essays and coding assessments are highly vulnerable to automated LLM completion, while university-level Physics question answering is not substantially threatened](non-invigilated-essays-coding-vulnerable-to-llms.md) — a broader claim this one bears on

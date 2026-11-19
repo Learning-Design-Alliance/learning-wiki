@@ -50,3 +50,4 @@ Individual interviews with nine volunteers who had completed an introductory qua
 - [Different colors in the two superposition components led five of nine students to interpret Visualization IV as two half-energy photons](distinct-colors-suggest-half-energy-photons.md) — related
 - [Revising the simulation to display each input particle's state helped students distinguish mixed states from superposition states](iterative-revision-mixed-state-display.md) — related
 - [The class using the revised visualization (2014) showed a significantly different, lower frequency of incorrect superposition ideas than the 2013 class](revised-visualization-lower-incorrect-ideas-inclass.md) — related
+- [Eleven of fourteen students reported making a math–experiment connection through the single-photon experiments](math-experiment-connection-single-photon.md) — related

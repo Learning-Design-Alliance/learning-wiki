@@ -50,6 +50,7 @@ In the mathematical sensemaking large lecture, the instructors use peer-instruct
 
 - [Clicker Questions](clicker-questions.md)
 - [Use clicker questions with student-student discussion during lecture to build qualitative understanding of basic concepts](clicker-peer-discussion-qualitative-lecture-strategy.md)
+- [Elby paired questions: reconcile spontaneous stories with physics-accurate ones](elby-paired-questions-reconcile-stories.md)
 
 ## Examples
 -

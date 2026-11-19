@@ -57,3 +57,4 @@ Interview study of 15 CALD occupational therapy students in high-fidelity SBL. P
 - [CALD students showed significantly greater confidence and skill gains from SBL than domestic students in comparative studies](sbl-greater-gains-cald-than-domestic-students.md) — related
 - [CALD students negotiate cultural differences in Australian simulation norms while drawing on cultural background as a strength](cald-cultural-identity-negotiation-sbl.md) — related
 - [Language barriers impose internal translation, delayed responses and hesitation to speak for CALD students in simulation-based learning](language-barriers-delayed-translation-sbl.md) — related
+- [Sense of belonging experiences, such as encouragement and exclusion, shape students' interest in a method](sense-of-belonging-shapes-method-interest.md) — related

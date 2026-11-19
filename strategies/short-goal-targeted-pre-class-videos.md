@@ -64,6 +64,7 @@ For the pre-class preparation topic, the article recommends that teachers produc
 - [Use flipped classroom pre-class materials to offset PBL's preparation burden and small-group PBL discussion to add structure to flipped classrooms](flip-pbl-complementary-design-strategy.md)
 - [Adopt low-cost online reading quizzes as a course-structure intervention in community college STEM courses](low-cost-reading-quiz-intervention-strategy.md)
 - [Maximize engagement by keeping videos brief, using conversational enthusiastic narration, and packaging videos for the specific course](video-engagement-style-strategies.md)
+- [Use flipped classrooms with pre-class reading and in-class group problem-solving for building-design topics](flipped-classroom-fermi-building-design.md)
 
 ## Examples
 -

@@ -111,3 +111,5 @@ Within the same interview study, the two error-making students then solved the n
 - [Reasoning with quantities represented as general variables destabilizes student reasoning, while invariant reasoning remains a productive resource](general-variables-destabilize-reasoning-invariant-resource.md) — related
 - [Students unfamiliar with many-symbol equations may freeze and try to reduce symbols to numbers rather than parse them as physical quantities](students-freeze-with-many-symbol-equations.md) — related
 - [The assessment task using symbolic variables (Ferris wheel) failed to elicit the expected evidence, unlike the six tasks with numerical quantities](symbolic-variables-task-failed-to-elicited-evidence.md) — related
+- [Fewer than half of introductory students could solve two equations symbolically for wavelength in the physics context, though most could solve an isomorphic purely mathematical system](poor-symbolic-manipulation-transfer-to-physics.md) — related
+- [Declaring unknown physical quantities as symbolic variables in Sage promotes development of metacognitive skills](sage-symbolic-variables-metacognition.md) — related

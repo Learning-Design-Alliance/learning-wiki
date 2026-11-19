@@ -58,4 +58,4 @@ The article proposes presenting students with ChatGPT responses alongside masked
 -
 
 ## Key Sources
-- Dahlkemper, M. N., Lahme, S. Z., & Klein, P. (2023). How do physics students evaluate artificial intelligence responses on comprehension questions? A study on the perceived scientific accuracy and linguistic quality. https://arxiv.org/abs/2304.05906
+- Dahlkemper, M. N., Lahme, S. Z., & Klein, P. (2023). How do physics students evaluate artificial intelligence responses on comprehension questions? A study on the perceived scientific accuracy and linguistic quality. https://arxiv.org/abs/2304.05906. [doi:10.1103/physrevphyseducres.19.010142](https://doi.org/10.1103/physrevphyseducres.19.010142)

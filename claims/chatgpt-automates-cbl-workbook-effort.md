@@ -53,3 +53,5 @@ Focused ethnography of 45 students across seven CBL sessions, using field notes,
 - [GenAI's immediate answers reduce engineering students' teacher-student interactions for generalizable tasks, while teachers remain preferred for complex problem-solving](genai-immediacy-reduces-teacher-interactions.md) — related
 - [Preclinical medical students reported significantly higher overall ChatGPT usage than clinical students](preclinical-students-higher-chatgpt-usage-than-clinical.md) — related
 - [Student-generated annotated e-workbooks were rated the most valuable resource for examination preparation.](student-generated-eworkbooks-best-revision-resource.md) — related
+- [Copy & paste was the most used interaction strategy with ChatGPT, and 62% of final answers were extracted directly from ChatGPT](copy-paste-dominant-chatgpt-strategy.md) — related
+- [Search engine users favoured preprocessing strategies while copy & paste was rare (3 uses)](search-engine-users-preprocessing-dominant.md) — related

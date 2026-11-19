@@ -51,3 +51,4 @@ Five-semester observational study of an introductory astronomy course at an urba
 - [Students perceived their understanding of metabolism as significantly improved over the semester](storytelling-improved-perceived-understanding.md) — related
 - [Periodic in-class surveys showed improved self-confidence in all identified skills, with lab and class activities cited far more often than the blog](in-class-surveys-confidence-improved-lab-and-activities-cited.md) — related
 - [A CLASS-based computer lab comparing ΛCDM with exotic cosmological models enabled students to grasp the impact of cosmological parameters on CMB observables](class-exotic-models-cmb-lab-student-understanding.md) — a narrower finding that bears on this claim
+- [Pilot post-tests of the Powers of the Universe module show 78% of students preferred powers of ten notation and 98% expanded their understanding of the scale of the Universe](meu-extreme-numbers-module-post-test.md) — related

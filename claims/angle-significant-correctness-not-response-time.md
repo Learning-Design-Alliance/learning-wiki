@@ -48,3 +48,4 @@ ANOVA F test and likelihood ratio chi-squared test on N = 723 working forward no
 - [Physical awkwardness and plane of vectors each significantly impact correctness and response time on right-hand rule problems](orientation-comfort-plane-significant-impact.md) — related
 - [Backward reasoning problems are significantly more difficult than forward reasoning problems on cross product direction questions](backward-reasoning-harder-than-forward-cross-product.md) — related
 - [Sign of the charge and representation of the magnetic field significantly impact correctness but not response time](charge-field-significant-correctness-not-response-time.md) — related
+- [Post-tests of the Maths of Arrows module show nearly 100% of students understood vectors and vector addition, and nearly 90% correctly used the right-hand rule for spin vectors](meu-vectors-phasors-post-test.md) — related

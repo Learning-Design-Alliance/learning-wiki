@@ -48,3 +48,4 @@ The article reports, citing Wilkinson and Gentner & Gentner, that 'children had 
 - [The water-flow analogy fails to support the current–energy (voltage) distinction because students confuse the pump's pressure with the rate of water flow](water-flow-analogy-fails-voltage-distinction.md) — a narrower finding that bears on this claim
 - [The water-flow model is the most popular analogy used by teachers for electric circuits, but few reduce the analogies to hardware](water-flow-model-popular-but-rarely-hardware.md) — related
 - [Combining analogy-based simulation with laboratory activities produces significantly higher corrected post-test achievement in simple electricity than either environment alone](combined-simulation-laboratory-beats-either-alone-electricity.md) — related
+- [Creating dynamic visual analogies posed challenges in devising suitable transitions or motions](dynamic-analogy-motion-challenges.md) — related

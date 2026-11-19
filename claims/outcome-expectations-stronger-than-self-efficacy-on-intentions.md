@@ -52,3 +52,4 @@ Path analysis results (Fig. 2) in the 144-participant sample: self-efficacy infl
 - [Learning interest significantly influences social science learning outcomes of elementary students](learning-interest-influences-social-science-outcomes.md) — related
 - [Supportive coaching had no direct impact on technology integration strategies due to standardized testing](coaching-no-direct-impact-tech-integration.md) — related
 - [In the SEM model, learning strategies had the greatest direct effect on CGPA among the three SCCT variables](sem-learning-strategies-greatest-effect-cgpa.md) — related
+- [Negative outcome expectations influence low interest more than other SCCT factors such as self-efficacy](negative-outcome-expectations-dominate-low-interest.md) — related

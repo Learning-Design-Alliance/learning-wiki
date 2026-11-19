@@ -53,3 +53,4 @@ In the same quasi-experimental study, the captioned group's overall post-MET per
 - [Keyword captions significantly improved EFL learners' general listening comprehension from pre-test to post-test](keyword-captions-improve-listening-comprehension.md) — related
 - [Captioning mode significantly affected listening comprehension, with full captions outperforming keyword captions and both outperforming no captions](caption-mode-anova-full-beats-keyword-beats-none.md) — related
 - [EFL learners perceive captioned instructional videos as helpful for vocabulary acquisition but not as a distraction to comprehension.](captions-perceived-as-vocabulary-aid-not-distraction.md) — related
+- [Most caption users activate captions for comprehension, and only a few intentionally use them for language learning](captions-used-for-comprehension-not-learning-survey.md) — related

@@ -49,3 +49,4 @@ ANOVA of flight control scores in the same 2×8 randomized design (n = 40). The 
 - [Cadets trained with the memory-replay multimodal-feedback system improved takeoff performance more rapidly than cadets in traditional training](etg-faster-takeoff-improvement-than-ttg.md) — related
 - [The traditional training group plateaued on carrier landing while the efficient training group continued to improve significantly](carrier-landing-ttg-plateau-etg-improves.md) — related
 - [On the landing task the efficient training group outperformed the traditional group overall, but the two groups improved at statistically similar rates](landing-main-effect-no-interaction.md) — related
+- [Detection accuracy improved more rapidly across the four training sessions in the feedback group (session effect p = 0.0001)](feedback-accelerates-accuracy-gain-across-sessions.md) — related

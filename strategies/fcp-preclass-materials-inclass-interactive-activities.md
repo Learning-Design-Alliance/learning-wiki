@@ -50,6 +50,7 @@ The article's implementation of the FCP provided the experimental group with a l
 - [Group-Based Flipped Classroom](group-based_flipped_classroom.md)
 - [Use asynchronous instructional videos as preparatory scaffolding before simulation-based workshops to enable more efficient use of supervised training time.](asynchronous-videos-as-preparatory-scaffolding.md)
 - [Micro Flipped Classroom](micro_flipped_classroom.md)
+- [Use flipped classrooms with pre-class reading and in-class group problem-solving for building-design topics](flipped-classroom-fermi-building-design.md)
 
 ## Examples
 -

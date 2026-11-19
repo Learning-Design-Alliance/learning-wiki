@@ -44,6 +44,7 @@ In Phy Ex, after project selection, students spend the first phase on theoretica
 - [Student research project: topic selection, scaffolded reading of related Astrobites articles, and a paper or presentation](method2-student-research-project-astrobites.md)
 - [Mentor-supported implementation sequence: pre-course orientation workshops, one-on-one topic selection and individualized learning contracts](mentor-supported-topic-selection-implementation-sequence.md)
 - [Five-slides-in-five-minutes early presentation to assess and build intern understanding](five-slides-in-five-minutes-early-presentation.md)
+- [Structure undergraduate courses so students autonomously carry out smartphone-based experimental research projects on everyday phenomena, with an introductory lesson, feedback, and graded presentations.](mdet-student-research-project-strategy.md)
 
 ## Examples
 -

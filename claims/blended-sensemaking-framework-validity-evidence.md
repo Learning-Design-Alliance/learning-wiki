@@ -66,3 +66,5 @@ Interview study of "25 undergraduate science and non-science majors with a wide 
 ## Related Claims
 - [Students tend to perform at the same level of blended Math-Sci sensemaking across disciplinary contexts, suggesting a context-independent cognitive construct](math-sci-sensemaking-context-independent-construct.md) — related
 - [The framework shows high scoring consistency, with 79% agreement and 81% inter-rater reliability on physics questions](framework-scoring-high-consistency-physics.md) — related
+- [Students show consistent sub-level MSS assignments across Physics and Chemistry disciplinary scenarios, supporting MSS as a discipline-independent construct](mss-consistent-across-disciplinary-contexts.md) — related
+- [The cognitive framework for blended math-science sensemaking effectively characterizes engagement by undergraduates from diverse and underrepresented backgrounds](mss-framework-effective-diverse-populations.md) — related

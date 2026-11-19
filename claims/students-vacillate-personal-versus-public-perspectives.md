@@ -54,3 +54,4 @@ Finding from analysis of 19 post-instruction interviews. The authors underscore 
 - [The author argues that learning quantum mechanics is difficult and counter-intuitive and is much like learning a new language requiring solid mastery before fluency](learning-quantum-mechanics-like-learning-a-language.md) — related
 - [Students completing the standard single-answer format of the CLASS answer based on their own personal beliefs, though they know what a physicist would say](class-personal-beliefs-single-answer-format.md) — related
 - [Articulating what does not make sense is a major part of resolving intuitive inconsistencies in physics](articulating-inconsistency-half-of-sensemaking.md) — related
+- [Students' belief that they only need to get answers in a science class often blocks building an appropriate story](answer-focus-blocks-story-building.md) — related

@@ -48,3 +48,4 @@ Phenomenographic analysis of conference field notes and interviews found a 'recu
 ## Related Claims
 - [All interviewed participants developed their computational physics expertise outside the physics curriculum, and participants judged such self-teaching insufficient for future physicists](self-taught-computational-expertise-outside-curriculum.md) — related
 - [Computational practices (planning, modeling, programming, debugging, analysis, and visualization) are valued for modern science work but often lacking from the undergraduate experience](computational-practices-lacking-undergraduate-physics.md) — related
+- [Physicists describe limiting factors for teaching computation in introductory physics, including curricular overhaul, lack of space, and student rejection](limitations-teaching-computation-intro-physics.md) — related

@@ -91,3 +91,5 @@ Within the Follow-Up Inquiry macro-category (26.4%, n = 746), the most common be
 - [Sixth graders' pre-inquiries about 'Acid and Base' were mostly information-type questions, and 24 of 52 were selected as meaningful pre-inquiries](pre-inquiry-type-distribution-acid-base.md) — related
 - [Students interacted with ChatGPT mostly by entering worksheet questions as keywords; some requested shortened answers, role-plays, or follow-up detail](chatgpt-interaction-keyword-entry-role-play.md) — related
 - [Preclinical medical students use ChatGPT during case-based learning to automate answering workbook questions, bypassing retrieval, elaboration and group problem-solving](chatgpt-automates-cbl-workbook-effort.md) — a broader claim this one bears on
+- [Copy & paste was the most used interaction strategy with ChatGPT, and 62% of final answers were extracted directly from ChatGPT](copy-paste-dominant-chatgpt-strategy.md) — related
+- [Search engine users favoured preprocessing strategies while copy & paste was rare (3 uses)](search-engine-users-preprocessing-dominant.md) — related

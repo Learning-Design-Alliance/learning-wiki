@@ -64,3 +64,4 @@ A conceptual, normative and design-oriented paper that states it does not report
 - [GenAI cognitive offloading of lower-order tasks frees cognitive resources but risks reduced human evaluation skills](genai-cognitive-offloading-benefits-and-risks.md) — related
 - [LLM use as an educational resource showed mixed effects on student learning outcomes compared with conventional methods](llm-educational-resource-mixed-learning-effects.md) — related
 - [Epistemic overtrust is a key risk: learners may accept AI outputs because they appear authoritative even when reasoning is incomplete, biased, or unsupported](epistemic-overtrust-ai-feedback-risk.md) — related
+- [Inquiry level should match the learning goal: closed structured inquiry fosters conceptual understanding, open inquiry fosters scientific thinking skills](inquiry-level-matches-learning-goal.md) — related

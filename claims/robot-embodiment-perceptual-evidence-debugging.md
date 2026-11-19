@@ -72,3 +72,4 @@ In the AI-Only condition, learners verified programs through on-screen inspectio
 - [Scaffolded task progression shifts novice reasoning from local completion toward diagnosis and systematic debugging as task demands increase](scaffolded-task-progression-diagnostic-shift.md) — related
 - [A language-based AI facilitator has access only to verbal traces of embodied inquiry and steers inquiry toward what can be put into words](language-facilitator-verbal-channel-limit.md) — related
 - [Allowing procedural constructs (branches, rules, loops, recursion) in an authoring tool dramatically raises authoring complexity and demands debugging support](procedural-authoring-constructs-raise-complexity.md) — related
+- [The authors observed a qualitative shift toward self-driven, on-the-spot data analysis during experimentation after introducing computation](on-the-spot-data-analysis-engagement.md) — related

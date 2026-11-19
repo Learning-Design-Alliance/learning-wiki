@@ -49,3 +49,5 @@ Error analysis of ChatGPT's FCI answer pattern (specifically answers 8A, 9B, 21B
 - [The 'motion implies force' preconception — confusion between velocity and net force — is pervasive among students even after instruction](motion-implies-force-preconception.md) — related
 - [A majority of students do not develop a Newtonian view of force and motion after traditional instruction](majority-no-newtonian-view-traditional-instruction.md) — related
 - [Impetus misconceptions are the most dominant incorrect answers, with impetus-supplied-by-hit (I1) chosen by more than 70% of students answering incorrectly across attempts](impetus-misconceptions-most-dominant-fci.md) — related
+- [ChatGPT correctly reasons within two validated preconceptions (centrifugal force and impetus) when prompted to respond as-if a student held them](chatgpt-reasons-within-preconceptions.md) — related
+- [Prompting ChatGPT with specific physics preconceptions introduces much response variance that approximates real student FCI distributions](preconception-prompting-yields-variance.md) — related

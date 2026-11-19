@@ -49,3 +49,4 @@ Self-report item from the same 590-questionnaire Slovak survey, administered at 
 - [Among students wanting a scientific career, more male than female students think they have a talent for science (about 40% vs 20%)](masterclass-talent-self-perception-gender-gap.md) — related
 - [Slovak participants rated lectures and LHC data evaluation highest among masterclass programme parts, while 63 of 590 flagged the video-conference as needing further attention](programme-part-ratings-slovakia.md) — related
 - [In a streamlined ATLAS Z-path masterclass, three of four ASP students became newly interested in pursuing particle physics in graduate school after analyzing ATLAS data](asp2022-atlas-masterclass-career-interest.md) — related
+- [Most surveyed young HEP practitioners report being influenced by Masterclasses towards particle physics, including six who had no prior ambition](imc-practitioners-influenced-toward-particle-physics.md) — related

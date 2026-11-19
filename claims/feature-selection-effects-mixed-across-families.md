@@ -52,3 +52,4 @@ Secondary sensitivity analysis refitting each fixed family with fold-local top-2
 - [Supplying learners' own engagement-definition codes as context raised exploratory prediction from 64.6% to 71.5% balanced 1-off accuracy in an eighteen-participant cohort](definition-codes-improve-engagement-calibration.md)
 - [The two-fold training process suffers from overfitting due to the small labeled training set relative to feature dimensionality.](overfitting-from-small-labeled-set-and-high-dimensionality.md) — related
 - [SHAP-based feature selection improved LightGBM gender classification accuracy from 65.5% to 70.8% using the top 24 eye movement features.](shap-feature-selection-improves-gender-classification.md) — related
+- [Best hedge-detection performance (F1 79.0) came from LightGBM using nearly all feature groups](lightgbm-all-features-best-f1-79.md) — related

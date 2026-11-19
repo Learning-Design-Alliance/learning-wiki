@@ -51,3 +51,4 @@ The survey reports Nadeem et al. (2019)'s finding in the context of hybrid neura
 - [Concatenating hand-crafted linguistic features with neural essay representations significantly increases essay scoring performance](hybrid-features-boost-essay-scoring.md) — related
 - [A fine-tuned SBERT Transformer SAG model for German approximates but does not beat hand-crafted feature-based models in unseen-question evaluation](german-transformer-sag-approximates-feature-models.md) — related
 - [Almost all neural network models benefit from adding handcrafted wLDA and online dialogue features](handcrafted-features-improve-neural-argument-classifiers.md) — a narrower finding that bears on this claim
+- [Adding n-gram features significantly improved the hedge classifier, but tutoring moves and nonverbal features did not](ngrams-help-tutoring-moves-nonverbal-do-not.md) — a narrower finding that bears on this claim

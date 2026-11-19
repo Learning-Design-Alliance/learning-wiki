@@ -57,3 +57,4 @@ Descriptive and regression analysis of Δ pass rate over valid submission transi
 - [Effects of AI-generated test case feedback depend critically on feedback validity](test-case-feedback-effects-depend-on-validity.md) — related
 - [Baseline-to-final performance change was centered near zero with a mean of −1.83](baseline-final-change-near-zero.md) — related
 - [Positive Feedback for APT engagement does not positively impact learning in collaborative discussions](apt-positive-feedback-no-learning-impact.md) — related
+- [On tasks with GPT hints enabled, the experimental group scored higher on successful submissions averaged across attempts, with statistically parallel improvement slopes](gpt-hints-higher-successful-submissions.md) — related

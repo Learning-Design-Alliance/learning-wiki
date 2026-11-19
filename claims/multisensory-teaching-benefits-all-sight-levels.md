@@ -48,3 +48,4 @@ Interviewee CFH reports, from her conversations with students, that "they say th
 - [Improving accessibility of astronomy tools and methods benefits people with full sensory capacity as well as BVI persons](accessibility-benefits-everyone-astronomy.md) — related
 - [Sighted classmates appreciated the additional tactile, 3D graphical and oral-explanation accommodations made for a blind student](sighted-students-appreciated-tactile-aids.md) — related
 - [The argument that education should appeal chiefly to sight because most sensory experience is visual is contrary to accepted psychological principles](visual-sensation-argument-unsound.md) — related
+- [First-round interviews found most students believed technology could help BVI people access science mainly by curing blindness or special glasses, with only a minority suggesting other senses.](edukoi-interviews-bvi-accessibility-ideas.md) — related

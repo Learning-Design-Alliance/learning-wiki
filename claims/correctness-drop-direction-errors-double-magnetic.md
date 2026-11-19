@@ -47,3 +47,4 @@ Correctness coding (Table III: 46 of 76 correct on Quiz 1; 29 of 70 on Quiz 2) o
 ## Related Claims
 - [The interference dip disappears once instruction returns to vector-based topics such as magnetic fields](interference-disappears-when-vector-instruction-resumes.md) — related
 - [Students' reasoning about electric fields is variable and context-sensitive rather than fixed](student-reasoning-variability-context-sensitive.md) — related
+- [Students commonly analyze magnetic fields with electric-like mental models, and traditional vector instruction is associated with confusion about both fields (author reports cited literature)](electric-like-mental-models-magnetic-fields.md) — related

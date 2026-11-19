@@ -50,3 +50,4 @@ Main effect of question type in the ANOVA with pairwise t-tests; the article rep
 - [GPT-3.5 performed worst on open one-point exam questions, while GPT-4 improved mainly on multiple-choice items](gpt35-weak-open-one-point-questions.md) — related
 - [LLMs underperformed on image-based dental examination questions compared with text-based questions](llms-underperform-image-based-questions.md) — related
 - [Question type significantly affects LLM accuracy on Chinese medical licensing exam questions, with Type A basic-knowledge items answered better than Type B and Type C items](question-type-effect-llm-chinese-medical-licensing.md) — a narrower finding that bears on this claim
+- [LLM performance differs significantly across question types at GCSE and A-Level, but which type is best is inconsistent between levels](question-type-affects-llm-physics-accuracy-inconsistently.md) — related

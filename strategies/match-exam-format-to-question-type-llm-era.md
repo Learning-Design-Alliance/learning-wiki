@@ -51,6 +51,7 @@ The review recommends differentiating exam delivery by question style in the LLM
 
 - [Use a combined assessment approach: allow AI and internet access for an initial information-gathering phase, then shift to closed-book for independent synthesis](combined-open-then-closed-assessment-approach.md)
 - [Follow a timed invigilation protocol before, during, and after examinations](bsm-exam-invigilation-timeline-strategy.md)
+- [Provisional assessment-defence strategies: question styles AI struggles with, pre-approval open-book exams, and routine AI-capability monitoring](provisional-ai-assessment-defence-strategies.md)
 
 ## Examples
 -

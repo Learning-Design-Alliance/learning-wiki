@@ -47,3 +47,4 @@ IRT ranking analysis of the combined FMCE data set for question 19, where the co
 ## Related Claims
 - [Students with above-average latent understanding (theta > 0) are more likely to choose both the correct response and the highest-ranked incorrect response on FMCE questions 14, 18, and 19](high-theta-students-choose-better-incorrect-responses.md) — related
 - [A 2PL-NRM nested logit IRT model applied to over 7,000 students' FMCE responses yields a unique ak parameter for every incorrect response, enabling a quantitative ranking of incorrect answers](irt-nested-logit-ranks-incorrect-responses.md) — related
+- [Players increasingly choose the physically correct force setting (F=0N) as they progress through the game's key levels](newtons-race-gameplay-shift-toward-correct-setting.md) — related

@@ -44,3 +44,4 @@ The review's synthesis of Tetris studies reports that Pilegard and Mayer [2018] 
 ## Related Claims
 - [Five hours of Tetris play improved some mental rotation measures but not most spatial skill measures](tetris-play-selective-mental-rotation-gains.md) — related
 - [Spatial Skills Improve Through Block Building](spatial-skills-improve-through-block-building.md) — related
+- [Knowledge gained in Newton's Race transfers only to situations closely resembling the game environment, not to different situations](newtons-race-transfer-limited-to-game-like-situations.md) — a narrower finding that bears on this claim

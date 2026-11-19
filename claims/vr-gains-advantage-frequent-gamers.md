@@ -52,3 +52,4 @@ Secondary analysis of the randomized electric field study separating students by
 - [Students reporting heavy 3D videogame play showed significantly higher gains than low players in all three treatments, not only in VR](3d-videogame-play-gains-all-treatments.md) — related
 - [Gaming experience correlates with higher scores on 3D electrostatics assessments, including on the pretest given before instruction](gaming-experience-correlates-electrostatics-scores.md) — related
 - [The interaction between preliminary VR training and prior gaming experience was not statistically significant, and untrained gamers showed negative gains](gaming-training-interaction-not-significant.md) — related
+- [Students playing the updated PING-integrated Gridlock showed greater pre-test to post-test improvement than students playing the prior PING-integrated version](updated-gridlock-greater-gains-than-prior-version.md) — related

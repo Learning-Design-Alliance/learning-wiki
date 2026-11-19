@@ -46,7 +46,8 @@ The review recommends that educators craft prompts carefully when generating MCQ
 - [Prompt quality and detailed scoring rubrics significantly influence the accuracy and consistency of LLM-generated grades](../claims/prompt-rubric-quality-drives-llm-grading.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Optimize LLM hint quality through prompt engineering, model fine-tuning, and correlation mining of hint properties](optimize-llm-hints-prompt-engineering-finetuning.md)
 
 ## Examples
 -

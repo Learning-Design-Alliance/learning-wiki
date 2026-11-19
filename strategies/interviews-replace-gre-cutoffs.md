@@ -56,6 +56,7 @@ The article recommends moving away from GRE cutoffs in graduate admissions, citi
 - [Rank applicants with a coarse-grained admissions rubric combining GPA, recommendations, personal statement, and undergraduate institution](coarse-grained-admissions-rubric.md)
 - [Community-level challenges: reform program admissions practices, reward appropriate practices, and remove the GRE from program rankings](community-challenges-gre-reform.md)
 - [Encourage Ph.D. programs to accept transferred master's course credits and develop graduate-program improvement guides to shorten time-to-Ph.D.](accept-transferred-masters-credits-strategy.md)
+- [Pair admissions of lower-scoring students with compensating changes to other admissions criteria or program structure to maintain graduation rates](compensating-changes-for-low-scorer-admissions.md)
 
 ## Examples
 -

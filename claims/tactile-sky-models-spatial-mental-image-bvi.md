@@ -48,3 +48,4 @@ The article's project-experience account (type e) states that hemisphere models 
 - [Students have great difficulty extrapolating three dimensions from one- and two-dimensional astronomical representations](difficulty-extrapolating-3d-from-2d-astronomy-representations.md) — related
 - [The activity failed to convey the three-dimensional structure of constellations and created a new misunderstanding about the distance over which constellation shapes change](constellation-activity-fails-3d-structure.md) — related
 - [The tactile sky models were well accepted by sighted students and teachers in outreach activities](tactile-models-accepted-sighted-students-teachers.md) — related
+- [A BVI student found it very difficult to locate sonified areas because no spatial reference showed where the camera and screen were.](edukoi-bvi-student-spatial-reference-difficulty.md) — related

@@ -51,3 +51,4 @@ Authors' interpretation in the conclusion of the interview study. They note part
 ## Related Claims
 - [When interpreting data distributions, students draw on more varied uncertainty sources than for generic questions, softening the classical-quantum polarization](data-context-broader-uncertainty-sources.md) — a narrower finding that bears on this claim
 - [Advanced physics students attribute generic measurement uncertainty in quantum mechanics almost entirely to physical principles, while in classical mechanics most attribute it to measurement limitations](generic-uncertainty-classical-quantum-attribution.md) — related
+- [Upper-level students' generic thinking about measurement uncertainty splits by physics paradigm: limitations dominate classical responses while principles dominate quantum responses](generic-uncertainty-split-classical-limitations-quantum-principles.md) — a narrower finding that bears on this claim

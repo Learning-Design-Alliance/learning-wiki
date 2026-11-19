@@ -52,6 +52,7 @@ The article recommends developing scalable simulation tools for psychotherapy tr
 - [Deploy LLM-driven virtual patients for scalable, standardized deliberate practice of psychiatric interviews](llm-virtual-patients-scalable-deliberate-practice.md)
 - [Use synthetic LLM-generated error datasets for AI tutors, teachable agents, and teacher professional development](synthetic-error-datasets-for-tutors-teachable-agents-teacher-pd.md)
 - [Use multiagent virtual patient frameworks as scalable, customizable alternatives to standardized patients in clinical communication training](multiagent-vp-alternative-to-standardized-patients.md)
+- [Use theory-guided preconception prompting of ChatGPT to generate synthetic field-testing data for concept inventories](llm-preconception-prompting-pilot-testing.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ EEG analysis (dDTF) of participants in the LLM, Search Engine, and Brain-only gr
 - [Intensive LLM use in educational contexts may lead to an accumulation of cognitive debt that weakens critical thinking and epistemic ownership](llm-cognitive-debt-weakens-critical-thinking.md) — a broader claim this one bears on
 - [Acute exercise increases cortical delta, theta, alpha, and beta EEG power, with a moderately large effect size of 0.38 to 0.75 standard deviations](acute-exercise-increases-eeg-band-power.md) — related
 - [Over four months and four sessions, LLM-group participants performed worse than Brain-only participants at neural, linguistic, and scoring levels](llm-group-worse-neural-linguistic-scoring-four-sessions.md) — related
+- [Students using ChatGPT scored significantly worse on physics exercises than students using a search engine](chatgpt-condition-lower-physics-scores-than-search-engine.md) — related

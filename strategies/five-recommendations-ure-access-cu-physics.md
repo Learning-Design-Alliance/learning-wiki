@@ -49,7 +49,8 @@ Responding to survey-identified areas for improvement, the authors crafted five 
 - [About half of faculty mentor 1–2 students per year, and majorities of both students and faculty prefer UREs lasting at least a year, limiting departmental URE capacity](../claims/faculty-mentoring-capacity-limits-ure-selection.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use departmental assessment tools to identify factors that most positively and negatively shape students' interest in physics methods](departmental-assessment-tools-interest-factors.md)
 
 ## Examples
 -

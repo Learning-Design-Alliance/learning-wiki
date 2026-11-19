@@ -52,6 +52,7 @@ Based on the finding that the Target-Task group significantly outperformed the l
 - [Adopt active learning as the default in regular undergraduate STEM classrooms and shift research away from lecturing controls](prefer-active-learning-over-lecturing-stem.md)
 - [Adopt Polya problem-solving teaching in senior secondary physics and train teachers in it](adopt-polya-model-physics-teaching-strategy.md)
 - [Adopt guided discovery and other student-centred strategies for teaching physics concepts](adopt-guided-discovery-student-centred-physics.md)
+- [Adopt inclusive, non-lecture pedagogical practices and group-based problem solving in undergraduate physics](inclusive-non-lecture-physics-pedagogy-strategy.md)
 
 ## Examples
 -

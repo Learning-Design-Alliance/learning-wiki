@@ -49,3 +49,4 @@ Anecdotal instructor observations comparing the January–April 2020 clicker sem
 - [Students strongly preferred anonymous clicker polling and valued it as a positive break, with over 80% agreement on the first three Likert statements](clicker-anonymity-and-break-likert-results.md) — related
 - [Over 90% of upper-division physics majors visibly interacted with one another during clicker questions, compared with 50-70% in introductory courses using similar methods](upper-division-students-interact-more-during-clickers-than-introductory.md) — related
 - [Online chat and polls encouraged students, including shy students, to express misconceptions without fear of disrupting the class](chat-and-polls-encourage-misconception-expression.md) — related
+- [QEP's debut Perimeter Institute workshop produced anecdotal evidence of student engagement and takeaways about quantum ethics](qep-workshop-anecdotal-engagement.md) — related

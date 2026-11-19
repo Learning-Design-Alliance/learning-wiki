@@ -46,3 +46,4 @@ Video data of two physics-major students in an upper-division electricity and ma
 
 ## Related Claims
 - [Procedural math fluency is often not the primary barrier; upper-division students struggle to interpret and generate mathematical expressions in physics](interpretation-not-procedural-fluency-barrier.md) — a broader claim this one bears on
+- [A student with a correct principle-based story may fail to value it and defer to a peer's calculation](students-fail-to-value-stories.md) — possibly the same claim (merge candidate)

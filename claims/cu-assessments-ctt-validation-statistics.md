@@ -58,3 +58,4 @@ Summary of CTT validation statistics for CU's assessments (excluding QMAT): "Ove
 - [The CURrENT shows substantial discriminatory power (Ferguson's δ=0.99) and acceptable item-test correlations](current-discrimination-delta-0-99.md) — a narrower finding that bears on this claim
 - [PLIC scores are unrelated to completion time and the instrument discriminates students well](plic-time-and-discrimination.md) — related
 - [PIQL v2.2 meets Classical Test Theory expectations, with Cronbach's alpha of 0.80 and all 20 items above the discrimination threshold](piql-final-version-reliable-alpha-080.md) — related
+- [Classical test theory validation of SPRUCE showed evidence of validity and reliability at the couplet, AO, and whole-assessment levels](spruce-ctt-validation-couplet-ao-assessment-levels.md) — a narrower finding that bears on this claim

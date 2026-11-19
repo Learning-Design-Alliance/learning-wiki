@@ -53,3 +53,4 @@ Automated multi-turn evaluations (Fig. 7) of fine-tuned Gemini 2.5 Flash and GPT
 - [Education-oriented instruction tuning consistently improves curriculum grounding, K-12 problem solving, and pedagogical tutoring at every evaluated model scale](omniedu-tuning-improves-all-three-educational-capability-groups.md) — related
 - [Off-the-shelf LLM tutors are more verbose than human tutors, leaving students only 5-15% of talk time versus close to 30% in human tutoring](off-the-shelf-llms-verbose-low-student-talk-time.md) — related
 - [Extended multi-turn dialogue does not produce effective tutoring: learning gains remain uniformly low and misconception reduction peaks around 24-25%](multi-turn-learning-gains-remain-low.md) — related
+- [Participating teams found that smaller fine-tuned models can be competitive and that DialogRPT tends to prefer complete answers over pedagogically scaffolded ones.](team-observations-model-size-and-metric-bias.md) — related

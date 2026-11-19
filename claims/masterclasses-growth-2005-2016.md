@@ -50,3 +50,4 @@ The article's history section reports programme scale as compiled statistics: "2
 - [In a survey of 590 Slovak masterclass participants, 72% expressed interest in pursuing a career in natural sciences (including informatics) or engineering](slovak-survey-career-interest.md) — related
 - [By 2019 International Masterclasses involved over 10,000 high school students in 332 masterclasses at 239 institutions measuring authentic data from six experiments](imc-2019-scale-10000-students-332-masterclasses.md) — related
 - [International Masterclasses reach over 10,000 high school students per year with authentic experiment data and international videoconferences](imc-reaches-10000-students-yearly.md) — related
+- [International Masterclasses let students worldwide analyze real ATLAS particle collision data, attracting around 13,000 students from around 60 countries annually](masterclasses-real-atlas-data-13000-students.md) — a broader claim this one bears on

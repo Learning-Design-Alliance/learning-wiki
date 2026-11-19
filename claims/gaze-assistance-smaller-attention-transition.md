@@ -56,3 +56,4 @@ Temporal analysis (Figure 8) normalizing each assistance instance into five bins
 - [Follow-up fixation rate on the primary AOI did not differ significantly between gaze-based and baseline assistance](primary-aoi-followup-rate-no-difference.md) — related
 - [GazeTutor successfully reoriented learners' attentional patterns towards the interface](gazetutor-reoriented-attention.md) — related
 - [Students did not perceive teacher support as more adaptive when teachers saw a live gaze display](gaze-display-no-perceived-adaptivity-effect.md) — related
+- [Screen-gaze time during AR exploration dropped from 88.5% in the 2017 proof-of-concept to 69.2%-73.3% in the current system](screen-gaze-ratio-improved-since-2017-proof-of-concept.md) — related

@@ -70,3 +70,4 @@ Continuation of the same qualitative analysis: five responses were nearly correc
 - [ChatGPT3.5 answers 15 of 23 modified FCI questions correctly, scoring near or above the median end-of-semester student](chatgpt35-fci-15-of-23-near-median-student.md) — related
 - [ChatGPT4 gives no completely confused FCI free responses, with 20 of 23 assessed exactly correct](chatgpt4-fci-free-responses-exactly-correct.md) — related
 - [The author judges 26 of GPT-4's free-response explanations entirely correct at the expert level, while GPT-3.5's wrong-answer explanations erred randomly or self-inconsistently](gpt4-free-responses-expert-level.md) — related
+- [ChatGPT based on GPT-4 solves the FCI accurately, scoring on average 83% correct](chatgpt-gpt4-solves-fci-accurately.md) — related

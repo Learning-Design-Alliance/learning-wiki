@@ -44,6 +44,7 @@ Beyond in-house research experiences and capstone courses, the article recommend
 - [Passion-based seminar program culminating in senior internships](passion-based-seminar-program-senior-internships.md)
 - [International practicum placements at partner astronomical research institutions for astronomy undergraduates](international-practicum-astronomy-research-institutes.md)
 - [Create HEPA-run industry internships and mentor training so early career scientists can experience industry settings without diluting core research](hepa-industry-internship-strategy.md)
+- [Embed research-community engagement: internships, guest lectures, and conference participation in a master's program](research-community-embedded-masters-program.md)
 
 ## Examples
 -

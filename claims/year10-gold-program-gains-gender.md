@@ -52,3 +52,4 @@ Pre/post conceptual questionnaire study of Year 10 academically talented student
 - [Female students show greater increases in interest and performance than male students, closing initial gender gaps](einstein-first-gender-equity-gains.md) — related
 - [Attitudinal scores rose modestly from pre-test to post-test after the intervention, in one uncontrolled pre-post study, despite ceiling effects; girls' conceptual scores rose more than boys'](attitude-gender-improvement-einsteinian-intervention.md) — possibly the same claim (merge candidate)
 - [Conceptual scores differed significantly from pre-test to post-test across Years 7-10 after a one-day Einsteinian physics intervention, in one uncontrolled pre-post study](one-day-einsteinian-intervention-conceptual-gains.md) — related
+- [Teacher-delivered Einstein-First modules across Years 3–10 produced substantial knowledge gains in pre/post tests](einstein-first-trials-substantial-knowledge-gains.md) — related

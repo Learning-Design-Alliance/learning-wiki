@@ -50,6 +50,7 @@ IMC collaborates with the African School of Fundamental Physics and Applications
 - [Organize a policy forum during the school to engage African policymakers on capacity development and retention](asp-capacity-development-forum-strategy.md)
 - [Recommendations for K-12 particle physics outreach programs](k12-particle-physics-outreach-recommendations.md)
 - [Special masterclasses for the International Day of Women and Girls in Science with female scientists as role models](women-in-science-masterclasses.md)
+- [Engage students in hands-on analysis of real research data from a frontline science experiment](hands-on-real-research-data-analysis.md)
 
 ## Examples
 -

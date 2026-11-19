@@ -54,3 +54,4 @@ LIME interpretability analysis of the retrained BERT model across the three data
 - [Feature-based ML Bloom classifiers trained on IID data degrade sharply on out-of-distribution AI-assisted questions](ml-bloom-classifiers-degrade-ood-aeq.md) — related
 - [LLMs show robust zero- and few-shot Bloom classification of OOD AI-assisted questions compared with ML and BERT models](llms-robust-ood-bloom-classification.md) — related
 - [Attribution analysis identifies interpretable input features for BERT's classification decisions, including subjunctive verbs in alternatives and appraisal words in evaluation](attribution-analysis-identifies-bert-classification-features.md) — related
+- [Most frequent mis-classifications by the BERT + Action method involve ambiguous or overlapping error classes, suggesting an upper limit on dataset performance](misclassification-ambiguous-error-classes.md) — related

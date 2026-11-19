@@ -52,3 +52,4 @@ Fine-grained affect incidence analysis of 9696 retrospective affect judgments fr
 - [Five of six predicted affect transitions were significant and aligned with the affect dynamics model, but boredom transitioned to engagement rather than to frustration](affect-transitions-model-test-programming.md) — related
 - [Interaction-based affect detectors outperformed posture-based detectors, with boredom detected best and posture detectors near chance](interaction-detectors-outperform-posture-detectors-tc3sim.md) — related
 - [Frustration during the design process was related to unexpected events, with more unexpected events yielding greater frustration and worse perceived performance](frustration-related-to-unexpected-design-events.md) — related
+- [GPT hint availability did not significantly change the frequency of students' self-reported affective states during programming practice](gpt-hints-no-affect-impact.md) — related

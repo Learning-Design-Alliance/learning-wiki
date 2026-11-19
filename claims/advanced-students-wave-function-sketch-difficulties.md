@@ -52,3 +52,4 @@ Survey and interview investigation of students enrolled in quantum mechanics cou
 - [Students overgeneralize nonzero probability in the classically forbidden region and reject a valid finite-square-well wave function](qm-finite-square-well-overgeneralization.md) — a narrower finding that bears on this claim
 - [Students hold misconceptions that an energy eigenfunction can be simultaneously a bound and a scattering state and that certain potentials allow both](bound-scattering-state-misconceptions.md) — related
 - [In a class of 18, student accuracy dropped across a concept-test sequence from mostly correct on a verbal question to only 33% correct on the harder graphical version](concept-test-sequence-accuracy-drop-ct2-ct3.md) — related
+- [Think-aloud interviews reveal students modifying the problem to fit their diagram and failing to use knowledge they possessed when drawing diagrams of standing waves](diagram-difficulties-standing-waves-interviews.md) — related

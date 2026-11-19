@@ -89,3 +89,4 @@ Observation from the WBA transcripts (e.g. a developmental psychology question i
 - [LLMs provide more detailed explanations for incorrect answers than correct ones in dental licensing examinations](llms-more-detailed-explanations-incorrect-answers-dental.md) — related
 - [Chatbot explanations achieved acceptable content validity (average CVI ≥0.92) despite occasional hallucinated or fabricated references](chatbot-explanations-acceptable-cvi-despite-hallucinated-references.md) — related
 - [ChatGPT produced incorrect singular values in its own SVD example, with errors of approximately 16% for the second and third singular values](chatgpt-svd-incorrect-singular-values.md) — a narrower finding that bears on this claim
+- [Confabulation risk is highest for AI tutoring and lowest for AI-as-student use](confabulation-risk-varies-by-ai-use-case.md) — related

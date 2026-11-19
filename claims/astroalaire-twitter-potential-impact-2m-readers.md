@@ -46,3 +46,4 @@ Twitonomy analytics snapshot (Oct/11/2015) of the @AstroAlAire account, shown in
 
 ## Related Claims
 - [Audiences in Venezuela, Colombia, Ecuador, Peru, Bolivia and Chile retweet and favourite @AstroAlAire more frequently](andean-countries-retweet-favourite-more.md) — related
+- [Top-mentioned Twitter users were mostly verified tech-industry accounts, while top-retweeted users were mostly non-verified individual influencers from education and tech](chatgpt-top-users-verification-account-type.md) — related

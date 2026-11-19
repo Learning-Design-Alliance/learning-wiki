@@ -86,3 +86,4 @@ Anonymous learning-management-system survey on preferred lecture format for spri
 - [Students expressed a clear preference for traditional blackboard lectures and most did not want to attend lectures only online (AS1)](students-preferred-blackboard-lectures-not-online-only-as1.md) — related
 - [Students at DICAM preferred synchronous online lectures with recordings available afterwards, expressed in the ex ante survey AS1](students-preferred-synchronous-lectures-with-recordings-as1.md) — related
 - [More than 75% of remote-learning students wanted continued access to recorded lectures, review sessions, and online course materials after classes return to face-to-face format](students-want-recorded-lectures-kept.md) — related
+- [More than 90% of surveyed students prefer the class taught online and more than 95% report the class structure and hours are effectively used](student-survey-preference-online-structure.md) — related

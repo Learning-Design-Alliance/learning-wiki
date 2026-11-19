@@ -46,3 +46,4 @@ This is the authors' own commentary from the Comments section, not a systematic 
 
 
 ## Related Claims
+- [Post-survey: the large majority of students found the Python introduction feasible or easy, and none chose 'Very difficult'](python-introduction-feasibility-post-survey.md) — related

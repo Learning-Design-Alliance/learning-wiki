@@ -50,6 +50,7 @@ Based on the observed limits of trial-and-error prompting, the authors recommend
 - [Support self-reflection through scaffolding, explicit instruction, simplified language, customization, and gamification](scaffold-self-reflection-makerspace-self-assessment.md)
 - [Teach prompt engineering before programming concepts, with scaffolded guidance for novices and exploratory approaches for advanced students](prompt-engineering-curriculum-integration-strategy.md)
 - [Include specific training for physics teachers in education programs on designing prompts for effective use of large language models](prompt-design-training-physics-teachers-strategy.md)
+- [Teachers should diagnose students' prompting purposes and provide tailored, scaffolded prompt-engineering instruction](tailored-prompt-engineering-instruction.md)
 
 ## Examples
 -

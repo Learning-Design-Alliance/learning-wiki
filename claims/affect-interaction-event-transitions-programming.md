@@ -72,3 +72,4 @@ Same scaffolded-phase event-affect transition analysis; the article reports curi
 - [During novices' first programming lesson, engagement, confusion, frustration, boredom, and curiosity are the dominant affective states, collectively accounting for approximately 73% of affect judgments](novice-programming-affect-incidence-five-dominant-states.md) — related
 - [In the hidden-wizard WOZ II study, students' reactions to the wizard's Slack hints were mostly positive, though some hints were read without discussion](woz2-hidden-wizard-hints-mostly-positive.md) — related
 - [Frustration during the design process was related to unexpected events, with more unexpected events yielding greater frustration and worse perceived performance](frustration-related-to-unexpected-design-events.md) — related
+- [GPT hint availability did not significantly change the frequency of students' self-reported affective states during programming practice](gpt-hints-no-affect-impact.md) — related

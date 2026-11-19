@@ -52,3 +52,5 @@ Thematic analysis of semi-structured interviews with 13 instructional designers 
 - [IDs perceived GenAI as most useful for analysis, design, and development tasks but most frequently used it for writing performance objectives and modifying instructional content](genai-usefulness-analysis-design-development-vs-reported-use.md) — related
 - [Intervention students poorly utilized brainstorming and need more training in it, while underlining the main idea was a planning technique they found helpful](poor-brainstorming-use-underlining-planning-efl-writers.md) — related
 - [Theorists use analogies to generate new project ideas and to overcome conceptual challenges](theorists-analogies-generate-ideas-overcome-challenges.md) — related
+- [Eight students' common purpose for prompting was overcoming writer's block or generating new ideas when stuck](overcoming-writers-block-theme.md) — related
+- [EFL students prompt generative-AI tools for three main purposes during story writing: unawareness of rules, overcoming writer's block, and developing, expanding and improving the story](three-themes-efl-prompting-purposes.md) — related

@@ -77,3 +77,4 @@ Pre/post administration of the Woozles item, in which students convert a verbal 
 - [Novice students often treat physics equations as mathematical grammar rather than integrating them with physical meaning, leading to predictable errors](novices-reason-from-mathematical-grammar.md) — related
 - [Concreteness fading enables learners to build a store of memorable images usable when abstract symbols lose meaning](fading-builds-memorable-images.md) — related
 - [Algebra I students showed no significant accuracy difference between proportion equations and proportion word problems, bounding the verbal advantage to other problem types](proportions-verbal-advantage-null.md) — related
+- [Fewer than half of introductory students could solve two equations symbolically for wavelength in the physics context, though most could solve an isomorphic purely mathematical system](poor-symbolic-manipulation-transfer-to-physics.md) — a narrower finding that bears on this claim

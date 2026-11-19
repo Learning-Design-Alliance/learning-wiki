@@ -50,3 +50,4 @@ Comparison of faculty rubric ratings by applicant sex (the application system re
 - [PGRE score distributions differ notably by gender among prize fellows, with about 42% of female fellows below the 50th percentile](pgre-gender-disparity-prize-fellows.md) — related
 - [Women and B/L/M/N applicants are admitted at higher or equal rates than male and white/Asian applicants with similar physics GRE scores, but this cannot be attributed to standing out via the test](women-blmn-higher-admission-rates-similar-scores.md) — related
 - [Rubric-based holistic review that considers more than test scores and GPA increased the demographic diversity of admitted graduate students at the University of Michigan](rubric-holistic-review-diversity-gains.md) — related
+- [Kolmogorov-Smirnov tests on whole distributions of UGPA and GRE scores did not detect a change in the admitted applicant populations](ks-test-missed-admissions-distribution-change.md) — related

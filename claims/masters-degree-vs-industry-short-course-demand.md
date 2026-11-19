@@ -77,3 +77,4 @@ For retraining existing employees, "Companies report a desire for on-demand shor
 - [High school curricula are disconnected from contemporary quantum physics and quantum technologies, risking exclusion of new generations from society's technological construction](high-school-curricula-disconnected-second-quantum-revolution.md) — related
 - [Skills gained by physicists during formal education are often mismatched with skills required for a successful career in physics](physics-education-career-skills-mismatch.md) — related
 - [Expert-collected competences for the future quantum workforce fall into a three-part structure: theoretical background, practical background, and applications](three-part-structure-qt-workforce-competences.md) — related
+- [The article argues a master's-level industry-focused quantum curriculum is more economical than hiring PhDs to resolve the quantum talent shortage](masters-level-quantum-curriculum-addresses-talent-shortage.md) — related

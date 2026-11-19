@@ -47,3 +47,4 @@ Eye-tracking analysis of 7 experts' fixations on four AOIs (Toolbox, Workspace, 
 ## Related Claims
 - [Novices skipped more classroom areas than experts in all four videos, missing areas that experts continually monitored](novices-skip-more-classroom-areas.md) — related
 - [Experts revisited (monitored) more classroom areas showing student interaction, while novices revisited areas lacking classroom activity](experts-monitor-interaction-areas-novices-salient-areas.md) — related
+- [No statistically significant differences in mean fixation duration across areas of interest, despite large differences in total fixation duration](no-mean-fixation-duration-differences-aois.md) — related

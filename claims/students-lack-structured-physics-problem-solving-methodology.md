@@ -51,3 +51,4 @@ This is the article's review of published PER interview analyses, reported in it
 - [Interviewed students responded positively to the EDI learning structure and the emphasis on diagrams](edi-student-interview-response.md) — related
 - [Learners' interview responses indicated schema construction linking novel problems to worked-out examples](interview-responses-indicate-schema-construction.md) — related
 - [Commonly recommended physics textbooks do not use a consistent, clear problem-solving methodology in worked examples](textbooks-lack-consistent-problem-solving-methodology.md) — related
+- [The four-step worked-example approach was implemented across multiple theoretical physics courses with active student participation and most students solving the final problem](four-step-worked-examples-feasible-upper-division-physics.md) — related

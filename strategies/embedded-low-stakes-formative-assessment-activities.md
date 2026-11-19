@@ -55,6 +55,7 @@ This strategy operationalizes formative assessment by integrating specific low-s
 - [Encourage Active Learning](encourage_active_learning.md)
 - [Before implementing evidence-based teaching, compile students' initial knowledge, define measurable goals, and design aligned instruction and assessment by working through six guiding questions](six-questions-evidence-based-teaching-design.md)
 - [Use low-stakes introductory seminar activities (asking about figures, news stories, prepared questions) before reading full papers](low-stakes-introductory-seminar-activities.md)
+- [Use the superposition tutorial flexibly as in-class/recitation work, think-pair-share or clicker questions, or homework after prior instruction](superposition-tutorial-flexible-deployment-strategy.md)
 
 ## Examples
 -

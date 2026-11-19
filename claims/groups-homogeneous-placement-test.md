@@ -77,3 +77,4 @@ Homogeneity check using the Oxford/Cambridge placement test before instruction; 
 - [Viewing instructional videos improves EFL learners' language proficiency regardless of whether captions are present.](video-viewing-improves-proficiency-regardless-captions.md) — related
 - [The three correction groups did not differ in general proficiency before treatment](correction-groups-homogeneous-proficiency-pet.md) — related
 - [Baseline academic achievement was homogeneous between the flipped and semi-traditional groups before the experiment](baseline-gpa-homogeneous-groups.md) — related
+- [Caption type produced no differences in vocabulary recall scores, with clear ceiling effects in the tested vocabulary](no-vocabulary-recall-differences-ceiling-effects.md) — related

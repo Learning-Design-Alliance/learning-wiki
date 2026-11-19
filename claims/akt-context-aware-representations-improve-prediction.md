@@ -46,3 +46,4 @@ First ablation experiment comparing AKT-R and AKT-NR, which pass embeddings thro
 - [Under one standardised evaluation, most deep knowledge-tracing models published after the original DKT do not beat it, and a common KC-level evaluation shortcut inflates reported accuracy](newer-deep-kt-models-rarely-beat-dkt-standard-protocol.md) — related
 - [AKT outperforms existing knowledge tracing methods on benchmark datasets in predicting future learner responses](akt-outperforms-kt-baselines-auc-benchmarks.md) — a broader claim this one bears on
 - [Among deep learning KT models, simpler DKT performs comparably to complex architectures under limited dialogue data](dkt-comparable-to-complex-kt-architectures.md) — related
+- [DKT-based environments converge faster in training, but DKT struggles to estimate higher knowledge levels, unlike the more comprehensive AKT assessments](dkt-faster-convergence-but-poor-high-level-estimates.md) — related

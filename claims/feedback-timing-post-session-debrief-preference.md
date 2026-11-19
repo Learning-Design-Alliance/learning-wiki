@@ -74,3 +74,4 @@ Formative interview finding on feedback timing: a participant stated "Do not int
 - [The CCD modeling activity met its primary content and process goals as evaluated by formative assessment and post-activity evaluation forms](ccd-modeling-activity-goals-met.md) — related
 - [Frequent formative assessment used throughout a course can greatly improve student learning by giving students repeated opportunities to reflect and giving instructors real-time feedback](frequent-formative-assessment-improves-learning.md) — related
 - [Students preferred structured consolidation tasks over open-ended exploration of the exercise scripts](students-prefer-structured-tasks-over-open-exploration.md) — related
+- [Frequent, timely, actionable feedback improves learning, and AI mentors can help provide it under oversight](ai-mentor-frequent-feedback-improves-learning.md) — related

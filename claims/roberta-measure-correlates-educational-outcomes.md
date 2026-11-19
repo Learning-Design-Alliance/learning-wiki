@@ -48,3 +48,4 @@ OLS regressions of transcript-aggregated model outputs on MQI observation scores
 ## Related Claims
 - [Observation scores are modestly positively associated with individual value-added (adjusted correlation 0.349) but only weakly associated with performance tasks (0.108) and school-wide literacy value-added (0.119)](reach-observation-value-added-correlation-0349.md) — related
 - [All seven dimensions of instructional practice with quantitative data are modestly but significantly related to teachers' value-added scores](observation-dimensions-modestly-significantly-related-to-value-added.md) — related
+- [All classifier-predicted discourse features correlate significantly with classroom observation scores measuring instruction quality and classroom climate](discourse-features-correlate-observation-scores.md) — related

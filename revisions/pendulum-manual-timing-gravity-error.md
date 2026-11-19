@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/pendulum-manual-timing-gravity-error.md
+---
+
+# Revision history: [claims/pendulum-manual-timing-gravity-error](../claims/pendulum-manual-timing-gravity-error.md)
+
+### 2026-11-19 · ingest · process:wiki-ingest
+Ingested from arxiv-2306.06352 (Use of Tracker software for teaching distance physics laboratories: Demonstration of error reduction in the simple pendulum) via eval_harness.py + ingest_extractions.py

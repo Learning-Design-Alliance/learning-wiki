@@ -61,3 +61,4 @@ Cross-cutting finding reported in the abstract and RQ2 findings: learners direct
 - [Each successive AI scenario demands higher AI literacy levels, from Informed to Active participant](ai-scenarios-require-rising-literacy-levels.md) — related
 - [Most students expected AI to serve as personal tutor, creative partner, and critical thinking partner rather than merely a content generator.](students-expect-collaborative-ai-roles-beyond-content-generation.md) — related
 - [Peer tutors reported that tutoring developed their problem-solving, critical thinking, communication and patience skills, and some expressed interest in education roles](tutor-skill-development-peer-tutoring-nursing.md) — related
+- [All four GenAIbots could function as agents-to-think-with, fostering critical thinking, problem-solving, concept comprehension, personalised learning, and displaying subject-matter knowledge.](genaibots-function-as-agents-to-think-with.md) — related

@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 125 claims (72 for, 50 mixed, 3 against) · 96 studies (44 causal, 19 quant-synthesis, 18 review, 7 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 25 of 96 report an effect size · 119 claims rest on one study
+> **Evidence** · 127 claims (73 for, 51 mixed, 3 against) · 97 studies (44 causal, 19 quant-synthesis, 18 review, 8 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 26 of 97 report an effect size · 121 claims rest on one study
 
 ## Conditional relationship
 
@@ -188,6 +188,8 @@ Claims read against this model that do not change it. Each says what it is and w
 - [University students' software engineering ethics knowledge scores rose from pre-test to post-test after playing the Ethics Game, in one uncontrolled pre-post study](../claims/ethics-game-improves-se-ethics-knowledge.md) [+W] — attached 2026-11-18 from Michalis Xenos (2018), which proposed "Branching narrative with consequence-driven alternative endings as the game's instructional design"; tests this page's relationship.
 - [Playtesting showed Quantum 3 players learned baryon composition passively, predicting how to form baryons they had not previously seen](../claims/quantum3-passive-baryon-learning-playtests.md) [+W] — attached 2026-11-19 from Özkan et al. (2019), which proposed "Design educational games for consistency so players learn the target system intuitively without heavy-handed teaching".
 - [Informal distribution of the game without instructions yielded low uptake, preventing a post-test of learning gains](../claims/informal-distribution-low-uptake-no-posttest.md) [~W] — attached 2026-11-19 from P. Klein et al. (2020), which proposed "Tiered feedback and score-based penalties to steer deliberate rather than trial-and-error play".
+- [Embedding the intrinsically integrated game Newton's Race in a lesson produced a large significant learning gain on game-related force and motion questions](../claims/embedded-newtons-race-lesson-large-learning-gain.md) [+W] — attached 2026-11-19 from Anne van der Linden et al. (2022), which proposed "Embed an educational game in a lesson with a debriefing session, a generalization assignment, and a transfer assignment to foster learning and transfer"; tests this page's relationship.
+- [After the embedded-game lesson, students applied force and motion knowledge to transfer situations as successfully as to game-related situations](../claims/embedded-game-lesson-transfer-matches-game-related-performance.md) [~W] — attached 2026-11-19 from Anne van der Linden et al. (2022), which proposed "Embed an educational game in a lesson with a debriefing session, a generalization assignment, and a transfer assignment to foster learning and transfer"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

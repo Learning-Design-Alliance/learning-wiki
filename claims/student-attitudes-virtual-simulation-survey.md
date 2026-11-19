@@ -79,3 +79,4 @@ Descriptive results from the attitude items (A1–A5) of the cross-sectional que
 - [Problem-based learning with a virtual patient was the section rated most attractive and interesting by participants](virtual-patient-section-most-attractive.md) — related
 - [Medical students report willingness to adopt ALERT STUDENT as a reference study tool](alert-student-adoption-willingness.md) — related
 - [Most students who completed the RTR lab found it interesting and wanted more simulations in their studies](rtr-student-attitudes-interest.md) — a narrower finding that bears on this claim
+- [End-of-course surveys showed most students favored the method, but a minority reported no change or worse results](smartphone-app-method-survey-perceptions.md) — related

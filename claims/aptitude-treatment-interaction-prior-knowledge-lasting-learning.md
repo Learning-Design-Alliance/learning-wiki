@@ -69,3 +69,4 @@ The commentary reports an interaction between instructional approach and prior k
 - [Learners with high prior knowledge benefit more from segmenting in retention performance than learners with no or low prior knowledge](prior-knowledge-moderates-segmenting-retention.md) — related
 - [In replication analyses, the variety conditions were particularly beneficial for students with low prior GPAs, while the same-type-only conditions had negligible effect sizes](uv-variety-benefits-low-prior-gpa.md) — related
 - [The effect of practice schedules on learning outcomes depends on students' prior knowledge.](schedule-effect-depends-prior-knowledge.md) — reports the opposite
+- [Year 4 students with low pre-knowledge improved substantially while high pre-knowledge students showed negligible improvement](year-4-forces-module-preknowledge-gradient.md) — reports the opposite

@@ -64,3 +64,4 @@ Post-intervention qualitative survey of providers at both hospitals; 25 of 28 sp
 - [Participants rate the multidisciplinary neurology simulation course very positively and report high confidence in identifying and managing acute neurological scenarios](sbme-neurology-high-satisfaction-confidence.md) — related
 - [Intervention completers' mental health knowledge scores rose from baseline to post-course on the embedded course quiz in one uncontrolled pre-post study](mhfa-elearning-improves-course-quiz-knowledge.md) — related
 - [Mental Health First Aid training increases high school teachers' mental health knowledge, with gains sustained at 6 months](mhfa-training-increases-teacher-mental-health-knowledge.md) — related
+- [Pre- and post-exercise surveys of two six-student teams gauged shifts in students' awareness of open-source science and open hardware](student-teams-osh-awareness-surveys.md) — related

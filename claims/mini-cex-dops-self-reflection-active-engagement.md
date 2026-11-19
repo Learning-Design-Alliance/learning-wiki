@@ -50,3 +50,4 @@ Interview finding from the novice nurse growth theme; one novice reported a habi
 - [A structured feedback-and-reflection cycle (pre-lesson plan review, immediate verbal comments, written feedback, take-up time, and open-ended questioning) supported the mentee's reflective development](structured-feedback-reflection-cycle-mentoring.md) — related
 - [GenAI's immediate answers reduce engineering students' teacher-student interactions for generalizable tasks, while teachers remain preferred for complex problem-solving](genai-immediacy-reduces-teacher-interactions.md) — related
 - [Using CMODS is argued to shift teaching from passive to active methods and activate students' learning activity](cmods-passive-to-active-shift.md) — related
+- [The authors observed a qualitative shift toward self-driven, on-the-spot data analysis during experimentation after introducing computation](on-the-spot-data-analysis-engagement.md) — related

@@ -46,3 +46,4 @@ Pooled label distribution from the production run of the HERO-QA pipeline with a
 
 ## Related Claims
 - [In pairwise WD analyses, learner trajectory similarity dominates variation in percentage-overlap values (57.90% of variation) while remaining design factors are essentially zero](trajectory-similarity-dominates-wd-pair-overlap.md) — related
+- [ChatGPT-3.5's answer to the teddy bear problem was self-contradictory, recognising zero acceleration at the apex while asserting the bear experiences no net force.](chatgpt35-contradictory-teddy-bear-answer.md) — a narrower finding that bears on this claim

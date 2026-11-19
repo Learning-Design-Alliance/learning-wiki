@@ -53,3 +53,4 @@ Methodological critique of earlier test construction, citing Buckingham's publis
 - [Element-difficulty analysis shows the Spelling Test too easy and Arithmetic problems falling into two difficulty groups for this sample](element-difficulty-distributions-five-tests.md) — related
 - [Buckingham found information-question scores predict thought ability far better than thought-question scores predict information](buckingham-information-thought-regression-asymmetry.md) — related
 - [A word list used for measuring school attainments becomes unreliable once children become accustomed to spelling the particular words of the scale](spelling-list-unreliable-when-children-accustomed.md) — related
+- [The test's validity evidence is limited to eighth-grade students in Hamburg; suitability for other grades or substantially different school systems is not established](german-timss-physics-test-hamburg-scope-limit.md) — related

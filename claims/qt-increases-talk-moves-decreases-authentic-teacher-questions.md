@@ -68,3 +68,4 @@ Bayesian hurdle-gamma model of authentic teacher questions. The intervention inc
 - [A QT-based literary intervention reduced teachers' monologic practices (teacher turns, turn allocation, test questions, evaluation) in small-group discussions](qt-intervention-reduces-monologic-teacher-practices.md) — related
 - [Individual trajectories varied: 9 of 14 teachers increased dialogic noticing per episode, while two teachers slightly decreased, which the authors attribute to limits of the nondirective intervention](individual-noticing-trajectories-vary.md) — related
 - [Clair did not significantly increase deepening of reasoning (Goal 3), with the What-if talk move rarely triggered](clair-no-effect-deepening-reasoning.md) — related
+- [Dialogic discourse moves (uptake, focusing questions, student reasoning) correlate positively with teachers' value-added scores](dialogic-moves-correlate-value-added.md) — related

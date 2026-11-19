@@ -76,6 +76,7 @@ The model aligns with [Active Learning](../principles/active-learning.md): class
 - [Use flipped classroom with pre-reading multimedia materials and in-class team-based article appraisal practice for EBN training](flipped-classroom-multimedia-prereading-team-appraisal.md)
 - [Six motivations for adding online video to lectures: impractical demonstrations, controlling time, visualisations, question setters, back-up for live demonstrations, and humour and interest](six-motivations-online-video-lectures.md)
 - [Assign pre-class draft answers with attempt credit to ensure preparation for in-class problem solving](attempt-credit-flipped-classroom-preparation.md)
+- [Use flipped classrooms with pre-class reading and in-class group problem-solving for building-design topics](flipped-classroom-fermi-building-design.md)
 
 ## Examples
 - **[Flipped Learning](../principles/flipped-learning.md)** — the general pattern this strategy instantiates; see also [Flipped Classroom](../principles/flipped-learning.md).

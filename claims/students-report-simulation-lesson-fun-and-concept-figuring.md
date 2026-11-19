@@ -186,3 +186,6 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [About half of students said the lab let them explore physics phenomena studied at school, and two thirds rated its capacity to engage students as good](lab-helped-explore-school-physics.md) — related
 - [Research indicates typical physics lab courses do not reach desired learning goals](typical-lab-courses-do-not-reach-goals.md) — related
 - [Teachers judged the VR activity effective in helping students understand and visualise particle physics and inspiring interest in science and physicists' work](vr-lab-visit-understanding-and-interest-outcomes.md) — related
+- [Asking questions, doing experiments, and making observations were positively associated with feeling like a scientist, while asking questions and having fun were positively associated with interest in the day's topic](dsbk-activity-associations-scientist-feelings-topic-interest.md) — related
+- [More than 90 percent of MEU students agreed that learning with activities is fun, and 73 percent agreed they like doing activities to learn about numbers](meu-positive-attitude-activities-likert.md) — related
+- [Students reported that hands-on quantum programming labs improved hands-on skills and understanding of the rationale behind experiments](positive-student-feedback-quantum-labs.md) — related

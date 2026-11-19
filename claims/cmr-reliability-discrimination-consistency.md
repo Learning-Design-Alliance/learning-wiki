@@ -56,3 +56,4 @@ Classical Test Theory reliability analysis of the split-class samples. Item-test
 - [The majority of student responses to coupled CMR CUE subparts are internally consistent even when incorrect, supporting the validity of the multiple-response format](cmr-cue-responses-internally-consistent-even-when-incorrect.md) — related
 - [The E-CLASS shows strong whole-test discrimination, adequate item discrimination, and acceptable internal consistency](eclass-discrimination-internal-consistency.md) — related
 - [PLIC scores are unrelated to completion time and the instrument discriminates students well](plic-time-and-discrimination.md) — related
+- [Classical test theory validation of SPRUCE showed evidence of validity and reliability at the couplet, AO, and whole-assessment levels](spruce-ctt-validation-couplet-ao-assessment-levels.md) — related

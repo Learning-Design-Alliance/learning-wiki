@@ -78,3 +78,4 @@ A one-day program with Year 11 National Youth Science Forum participants selecte
 - [After a one-day Year 11 program, mean test scores rose by a factor of 2.1 from pre-test to post-test in one group with no comparison group, but the authors judge a single day insufficient for consolidating conceptual understanding](year11-one-day-program-limited.md) — related
 - [Conceptual scores differed significantly from pre-test to post-test across Years 7-10 after a one-day Einsteinian physics intervention, in one uncontrolled pre-post study](one-day-einsteinian-intervention-conceptual-gains.md) — related
 - [The Italian results replicate Australian Einstein First findings with no socio-cultural or education-system effects](italian-replication-australian-einstein-first.md) — related
+- [Teacher-delivered Einstein-First modules across Years 3–10 produced substantial knowledge gains in pre/post tests](einstein-first-trials-substantial-knowledge-gains.md) — related

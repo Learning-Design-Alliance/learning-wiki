@@ -50,3 +50,4 @@ Survey of 32 DHH postsecondary students using asynchronous chemistry tutorials. 
 - [DHH students report using redundant multimedia features for support, conflicting with the CTML redundancy principle](dhh-redundant-support-conflicts-ctml-redundancy.md) — related
 - [Presentation slide visuals were the feature most cited by DHH students for facilitating learning](dhh-presentation-visuals-facilitate-learning.md) — related
 - [DHH students' feedback suggests the coherence principle is important to reduce visual distraction](dhh-coherence-principle-visual-distraction.md) — related
+- [Most caption users activate captions for comprehension, and only a few intentionally use them for language learning](captions-used-for-comprehension-not-learning-survey.md) — related

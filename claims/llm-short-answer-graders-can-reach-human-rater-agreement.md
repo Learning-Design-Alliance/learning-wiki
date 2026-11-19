@@ -68,3 +68,6 @@ A shipped LLM grading prompt scored public, teacher-graded corpora, and its agre
 - [Out-of-the-box LLMs agree with human essay grades far less than human raters agree with each other](llm-essay-scoring-weak-human-agreement.md) — a narrower finding that bears on this claim
 - [The LLM observation function's per-answer mastery evidence correlates with true mastery at r = 0.68 pooled, but only r ≈ 0.15 within the weak tier, making it least reliable for low-ability learners](collearn-observation-function-within-tier-reliability.md) — related
 - [Human-perceived item difficulty (human-human QWK) does not reliably predict LLM scoring difficulty on the same items](human-difficulty-does-not-predict-llm-difficulty.md) — related
+- [Held-out grading criteria create an informational asymmetry between the LLM evaluator and the student](freetext-held-out-criteria-informational-asymmetry.md) — related
+- [LLMs are useful but fallible graders, with final assessments remaining with human instructors](llm-grading-fallible-instructor-final-assessment.md) — related
+- [The human teacher's reference responses were ranked lower than the top three AI systems, contradicting the earlier AI Teacher Test result, possibly because raters from education found the teacher's non-standard chatroom language less professional.](teacher-reference-ranked-below-top-ai-systems.md) — related

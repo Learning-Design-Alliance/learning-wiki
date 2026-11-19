@@ -49,3 +49,4 @@ Same negative binomial GLM time-series analysis of SGExams question counts. The 
 - [During exam uncertainty, child question types became dependent on parent question types, with preliminary evidence of possibility-thinking transmission](uncertainty-question-type-trajectory-dependence.md) — related
 - [Seasonal educational phases with structured, domain-relevant uncertainty are linked to increased collective question-posing across all discussion topics](seasonal-exam-uncertainty-increases-question-posing.md) — related
 - [Exam-period uncertainty is linked to faster first replies to questions, but mainly when academic stakes are high](exam-uncertainty-faster-first-replies.md) — related
+- [Students' science fair topic choices are responsive to their context, as shown by time- and region-linked topics such as dengue disease and Covid-19](student-topic-choice-responsive-to-context.md) — related

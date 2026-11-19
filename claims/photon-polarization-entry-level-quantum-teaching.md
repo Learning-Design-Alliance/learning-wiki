@@ -51,3 +51,4 @@ Theoretical argument in the section on locating photonics in QT outreach and edu
 - [Some interviewed students incorrectly claimed a single photon is absorbed by a polarizer only when its polarization is orthogonal to the polarizer axis](single-photon-polarizer-probabilistic-difficulty.md) — related
 - [Simultaneous use of a smartphone's ambient-light and orientation sensors verifies Malus's law in a way that is very accessible for students](cl-001-malus-law-smartphone-dual-sensors.md) — related
 - [A multidisciplinary art-physics laboratory on light polarization is reported by the author to make students more engaged and the learning of the physics concepts more effective](art-physics-polarization-lab-engagement.md) — related
+- [Only 23% of Year 5 students could explain that photons carry momentum allowing light to push things](year-5-photon-momentum-low-score.md) — related

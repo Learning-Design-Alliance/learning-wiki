@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-19
 evidence_strength: moderate
+source_checked: 2026-11-19
 sources:
   - id: antonio-badillo-perez-2023
     resource: "https://doi.org/10.48550/arXiv.2303.03956"
@@ -22,7 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
+> **Currency** · no dated study recorded · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a pilot workshop in a Mexican town, 10 of 14 invited children aged 6-9 (mean age 8) attended a four-lesson AI and Robotics curriculum delivered by four instructors with varying teaching experience. [→ Antonio Badillo-Perez 2023](#antonio-badillo-perez-2023)

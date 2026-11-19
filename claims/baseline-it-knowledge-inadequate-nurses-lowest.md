@@ -54,3 +54,5 @@ Descriptive baseline findings from the multicenter intervention study reported i
 - [Most professionals prefer reviewing inhalation technique over changing the device when patients report difficulties](review-technique-before-changing-device-preference.md) — related
 - [Many Spanish health professionals cannot identify the critical steps for correct inhalation with pMDI and DPI devices](copd-inhaler-critical-steps-knowledge-gaps-survey.md) — related
 - [Professionals rank previous experience, severity and patient preference as the main criteria for choosing a COPD inhaler](inhaler-selection-criteria-experience-severity-preference.md) — related
+- [Incorrect inhalation technique is related to uncontrolled asthma symptoms, and most healthcare professionals cannot educate patients in correct technique](incorrect-inhalation-uncontrolled-symptoms.md) — related
+- [The planned study measures symptom control, quality of life, and inhalation-technique execution at baseline and 3-month follow-up](planned-outcome-measures-inhalation-adherence.md) — related

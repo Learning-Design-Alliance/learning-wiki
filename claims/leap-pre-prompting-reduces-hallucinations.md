@@ -51,3 +51,4 @@ Authors' interpretation in the discussion of LEAP's design, contrasting it with 
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks](students-view-llms-useful-but-requiring-critical-use.md) — related
 - [The most frequently cited ethical concerns about GenAI in research were hallucinated facts, fabricated references, and misleading content](hallucinated-facts-fabricated-references-top-concerns.md) — related
+- [GPT-3.5's numerical result for the PhO problem was two orders of magnitude off, and none of the tested chatbots corrected numerical errors even after multiple prompts](chatbots-failed-math-correction-multiple-prompts.md) — related

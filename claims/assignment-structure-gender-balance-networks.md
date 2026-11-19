@@ -66,3 +66,5 @@ In the remaining three lecture networks, where students completed work in small 
 - [Gender differences in lecture network connections depend on course composition: women have fewer connections than men in gender-balanced M-Eng but more connections in majority-men M-Phys and EM-Phys](gender-connections-vary-by-course-composition.md) — related
 - [Students tend to interact with same-gender peers in the mechanics courses but not in the subsequent electromagnetism courses](gender-homophily-mechanics-only.md) — related
 - [Higher final course grades relate to more lecture interaction connections in all four remote courses, but lab connections are mostly unrelated to grades except in EM-Eng](grades-lecture-not-lab-connections.md) — related
+- [In three of four courses, men disproportionately keep more of their interaction ties with men than with women as recognition nominations](men-keep-male-interaction-ties-in-recognition.md) — related
+- [Women and men respondents produce significantly different ASES network partitions, with the men network most similar and the women network least similar to the full network](women-men-ases-partition-differences.md) — related

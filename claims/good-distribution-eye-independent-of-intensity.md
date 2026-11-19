@@ -52,3 +52,4 @@ Laboratory testing program comparing actual lighting installations in common use
 - [The loss of efficiency sustained by the eye in an unfavorable lighting situation is muscular, not retinal](lighting-efficiency-loss-muscular-not-retinal.md) — related
 - [Normal sense organs possess surplus discriminative efficiency beyond ordinary practical demands](sense-organs-surplus-efficiency.md) — related
 - [High room illumination is detrimental to learning from rear-projected film, mainly when learners sit at extreme angles to or distances from the screen](high-room-illumination-detrimental-film-learning.md) — related
+- [Smartphone DNI measurements under either calibration are acceptable for an instructional laboratory across a wide range of the day, but fail at very low illuminance near sunrise and sunset](smartphone-dni-instructional-lab-accuracy.md) — related

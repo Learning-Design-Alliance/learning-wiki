@@ -53,6 +53,7 @@ Following the mixed survey response to feeling connected to classmates, the auth
 - [Cold Call To Sample Pair Responses](cold_call_to_sample_pair_responses.md)
 - [Break synthesis clicker questions into separate sub-questions before combining them into one question](break-synthesis-clickers-into-sub-problems.md)
 - [Response Devices](response_devices.md)
+- [Use the superposition tutorial flexibly as in-class/recitation work, think-pair-share or clicker questions, or homework after prior instruction](superposition-tutorial-flexible-deployment-strategy.md)
 
 ## Examples
 -

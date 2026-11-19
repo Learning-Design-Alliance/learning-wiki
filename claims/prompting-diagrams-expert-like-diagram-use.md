@@ -68,3 +68,4 @@ Same recitation-quiz intervention study, contrasting the diagram-only group with
 - [Students prompted to draw a diagram were more likely to draw productive diagrams than the diagram-only and no-support groups](prompt-increases-productive-diagrams.md) — possibly the same claim (merge candidate)
 - [During the game students often draw graphs and diagrams, a physics skill they are often not motivated to practice](game-motivates-drawing-graphs-and-diagrams.md) — related
 - [Explicitly prompting students to draw a diagram significantly increased the percentage who drew a productive diagram on the one-dimensional electrostatics problem, while providing a diagram did not](prompting-increases-productive-diagram-drawing-1d-problem.md) — related
+- [Providing students a diagram (DO group) led to significantly worse quiz performance than prompting them to draw one or giving no diagram support](partial-diagram-intervention-worse-quiz-performance.md) — related

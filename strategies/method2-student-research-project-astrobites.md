@@ -56,6 +56,7 @@ Method 2 asks students to "select a research topic and then identify and read se
 - [Incorporate Astrobites into astronomy coursework using the collaboration's lesson plans and grading rubrics](astrobites-classroom-lesson-plans-strategy.md)
 - [Research-ethics certification and referencing software as required scaffolding for undergraduate original-research papers](ethics-certification-referencing-software-strategy.md)
 - [Sequence a project course as a theoretical-analysis phase, an experimental phase, a written report and an oral presentation](theory-then-experiment-report-and-disputatio-sequence.md)
+- [Structure undergraduate courses so students autonomously carry out smartphone-based experimental research projects on everyday phenomena, with an introductory lesson, feedback, and graded presentations.](mdet-student-research-project-strategy.md)
 
 ## Examples
 -

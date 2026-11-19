@@ -43,6 +43,8 @@ The article's proposition for students is to actively engage with the course lit
 ## Related Strategies
 
 - [Generative prompting: using AI as a thinking partner through iterative dialogue rather than an answer machine](generative-prompting-ai-thinking-partner.md)
+- [Critically evaluate advertised green building solutions to develop students' critical thinking](critical-review-greenwashing-solutions.md)
+- [Use a Socratic-type prompting script that asks the AI to provoke reflection rather than deliver ready-made answers](socratic-agent-to-think-with-prompting-strategy.md)
 
 ## Examples
 -

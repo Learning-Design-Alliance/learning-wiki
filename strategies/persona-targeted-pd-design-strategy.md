@@ -52,6 +52,7 @@ The article recommends designing different aspects of professional development r
 - [Differentiate AI-integration support by learner profile rather than applying a uniform approach](profile-differentiated-ai-integration-strategies.md)
 - [Tailor GenAI chatbot onboarding, training, and support to identified adoption personas](persona-tailored-chatbot-onboarding-support.md)
 - [Select PD applicants by fit to maximize gain per invested resource, using a brief finalist interview](pd-applicant-selection-four-types-strategy.md)
+- [Design professional development resources mapped to practitioner motivations rather than career stages](motivation-mapped-resource-design.md)
 
 ## Examples
 -

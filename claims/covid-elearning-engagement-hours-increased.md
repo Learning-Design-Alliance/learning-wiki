@@ -47,3 +47,4 @@ Single cross-sectional study of 2,721 medical students (Dost et al.) narrated by
 ## Related Claims
 - [Behavioral grit measured from pre-pandemic platform effort responses to setbacks predicts platform scores in math and science, especially after Covid commenced](behavioral-grit-predicts-platform-scores.md) — related
 - [The COVID-19 switch to remote schooling was accompanied by significant declines in math and science scores on a UAE digital learning platform](covid-remote-learning-score-declines-uae-platform.md) — related
+- [The Covid-19 pandemic significantly increased regular use of smartphones/tablets, simulations, digital exams, and communication tools, with use remaining above pre-pandemic levels afterward](pandemic-boosted-digital-tool-use-in-labs.md) — related

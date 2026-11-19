@@ -46,6 +46,8 @@ The article frames new QISE programs as an opportunity to address equity: "QISE 
 - [Three strategic actions: build awareness of underrepresentation, invest in accessible pathways, and prioritize retention strategies](three-strategic-actions-tech-equity.md)
 - [Offer a concepts-focused, prerequisite-free Quantum 101 course as an entry point and recruiting tool](quantum-101-concepts-first-entry-course.md)
 - [Balance quantum-specific and general STEM content in new quantum programs, offer broad quantum courses for non-specialist roles, and engage business education](quantum-curriculum-recommendations-from-industry-survey.md)
+- [Advocate equal opportunities, inclusion, and diversity when developing a cutting-edge quantum curriculum](inclusion-diversity-in-quantum-curriculum-development.md)
+- [Direct QIS education investment toward primarily-undergraduate, low-income-serving, and rural institutions and support grassroots diversity initiatives](invest-qis-education-underrepresented-institutions.md)
 
 ## Examples
 -

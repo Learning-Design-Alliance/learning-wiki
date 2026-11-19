@@ -71,3 +71,4 @@ Local neighborhood analysis identifying, for every program, its single nearest n
 - [Visualization analysis indicates the learned graph topology recovers interpretable relational structures such as modular node clusters and directed dependency hierarchies](adaptive-g-ukt-learned-topology-interpretable.md) — related
 - [Vibe-coded websites built for 73 distinct businesses converge into roughly a dozen recurring visual designs despite an explicit originality incentive](vibe-coding-cohort-visual-concentration.md) — related
 - [Latent representations cluster into interpretable behavior types at question level, with less distinguishable task-switching clusters at student level](process-bert-representations-cluster-behavior-types.md) — related
+- [A GNN-based RL recommender learns to recover corpus structure and substantially outperforms a uniform random policy in the small-data regime on simulated learners](gnn-rl-policy-beats-random-small-data.md) — related

@@ -51,6 +51,7 @@ The review calls for future studies to "adopt better methodologies and validated
 - [Use cluster randomized clinical trials and blinded simulation-based behavior assessment to strengthen NTS training evidence](cluster-rct-blinded-simulation-assessment-nts.md)
 - [Future research should use standardized validated outcome measures, longitudinal follow-up designs, and methods linking learner gains to patient-relevant outcomes](vp-communication-future-research-validated-longitudinal.md)
 - [Extend study duration and add a delayed post-test to measure vocabulary retention](delayed-post-test-for-retention-research.md)
+- [Use departmental assessment tools to identify factors that most positively and negatively shape students' interest in physics methods](departmental-assessment-tools-interest-factors.md)
 
 ## Examples
 -

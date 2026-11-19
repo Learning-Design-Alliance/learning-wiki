@@ -40,7 +40,9 @@ The review proposes a staged assessment design as a way of advancing assessment 
 - Articulating understanding without AI assistance
 
 ## Related Strategies
+
 - [Match Exam Format To Question Type Llm Era](match-exam-format-to-question-type-llm-era.md)
+- [Provisional assessment-defence strategies: question styles AI struggles with, pre-approval open-book exams, and routine AI-capability monitoring](provisional-ai-assessment-defence-strategies.md)
 
 ## Examples
 -

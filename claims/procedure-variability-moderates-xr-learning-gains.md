@@ -49,3 +49,4 @@ Review synthesis comparing longitudinal UP gains across procedure types: ventric
 - [Repeated training substantially reduces the proportion of biased responders and increases improved and correct responders at the individual level](individual-level-improved-responders-after-repeated-training.md) — related
 - [The active group improved faster during training, reaching a capacity plateau after six days, while the sham group rose more slowly](tdcs-accelerates-early-training-gains-plateau.md) — related
 - [No significant performance improvement was detected at the midterm assessment after two training sessions, suggesting a threshold of repeated exposure precedes measurable gains](no-midterm-gain-exposure-threshold.md) — related
+- [Detection accuracy improved more rapidly across the four training sessions in the feedback group (session effect p = 0.0001)](feedback-accelerates-accuracy-gain-across-sessions.md) — related

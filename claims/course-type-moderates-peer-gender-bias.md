@@ -54,3 +54,5 @@ Course-type main effects from the same four multilevel peer-nomination models of
 - [Cisgender men speak more during small-group or whole-class discussions, reinforcing perceptions of greater competence in STEM.](men-speak-more-discussions-competence-perceptions.md) — related
 - [Male students verbally participate more than female students in life sciences courses, with 32% of males versus 22% of females participating at least once per class](males-participate-more-than-females-life-sciences.md) — related
 - [Gender bias in peer recognition across introductory STEM studies is consistently associated with course level, not gender composition, discipline, instructional style, or class size](course-level-associated-with-gender-bias-peer-recognition.md) — related
+- [Median female proportion increased significantly in almost all senior STEM courses, with widely varying effect sizes across disciplines](median-female-proportion-increase-varies-by-course.md) — related
+- [In three of four courses, men disproportionately keep more of their interaction ties with men than with women as recognition nominations](men-keep-male-interaction-ties-in-recognition.md) — related

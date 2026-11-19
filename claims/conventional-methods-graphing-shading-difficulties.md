@@ -47,3 +47,4 @@ Descriptive comparison of skill-component mean scores by group shown in Table 5.
 ## Related Claims
 - [Students taught with the origin test and extreme points technique acquired linear programming skills significantly better than students taught with conventional methods](pbl-origin-test-extreme-points-skill-acquisition.md) — related
 - [Linear programming is hardly taught in Kenyan secondary schools, with only 10 of 352 KCSE examination questions testing it between 2002 and 2010](linear-programming-hardly-taught-kenya.md) — related
+- [The GPT-4 contextualization system fails on geometry problems involving graphs, tables, or diagrammatic components](gpt4-contextualization-geometry-visual-limitation.md) — related

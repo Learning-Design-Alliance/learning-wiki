@@ -48,3 +48,4 @@ ERGM homophily variables across all six networks. The authors conclude students 
 - [Discussion forum contributions predict receiving lecture-context nominations but not lab-context nominations](forum-contributions-predict-lecture-not-lab-nominations.md) — related
 - [Lecture perception networks concentrate nominations around a few celebrities while lab perception networks do not](lecture-networks-centralized-lab-networks-diffuse.md) — related
 - [Section enrollment relates differently to lecture and lab interaction networks: lecture interactions occur with both lab and discussion section peers, lab interactions only with lab section peers](section-enrollment-lecture-lab-networks.md) — possibly the same claim (merge candidate)
+- [The gender bias in peer recognition persists after controlling for lab group composition and other interaction patterns](gender-bias-persists-after-interaction-controls.md) — related

@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: weak
-newest_evidence: 2015
+newest_evidence: 2016
 sources:
-  - id: vera-montalbano-2015
+  - id: vera-montalbano-2016
     resource: "https://doi.org/10.48550/arXiv.1601.01328"
-    title: "Vera Montalbano. (2015). Promoting Multimedia in Physics Teaching Through the Flipped Classroom in Pre-Service Education. University of Siena. [doi:10.48550/arXiv.1601.01328](https://doi.org/10.48550/arXiv.1601.01328)"
+    title: "Vera Montalbano. (2016). Promoting Multimedia in Physics Teaching Through the Flipped Classroom in Pre-Service Education. University of Siena. Originally published 2015. [doi:10.48550/arXiv.1601.01328](https://doi.org/10.48550/arXiv.1601.01328)"
     author: Vera Montalbano
     q: 1
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q1 i?` A participating teacher found Algodoo could not introduce a variable field of force, blocking celestial-mechanics or charge-motion simulations, and judged Step too buggy for direct school use while Algodoo was fully ready. [→ Vera Montalbano 2015](#vera-montalbano-2015)
+`q1 i?` A participating teacher found Algodoo could not introduce a variable field of force, blocking celestial-mechanics or charge-motion simulations, and judged Step too buggy for direct school use while Algodoo was fully ready. [→ Vera Montalbano 2016](#vera-montalbano-2016)
 
 ## Evidence
 
-### Vera Montalbano 2015
+### Vera Montalbano 2016
 
-Vera Montalbano. (2015). Promoting Multimedia in Physics Teaching Through the Flipped Classroom in Pre-Service Education. University of Siena. [doi:10.48550/arXiv.1601.01328](https://doi.org/10.48550/arXiv.1601.01328)
+Vera Montalbano. (2016). Promoting Multimedia in Physics Teaching Through the Flipped Classroom in Pre-Service Education. University of Siena. Originally published 2015. [doi:10.48550/arXiv.1601.01328](https://doi.org/10.48550/arXiv.1601.01328)
 
 `q1 · i?` · `design · r2`
 
@@ -46,3 +46,4 @@ Teacher evaluation reported in section 4.2: the limit "was outlined in the lack 
 
 ## Related Claims
 - [A flipped-classroom pilot in pre-service physics teacher education led all four participating teachers to independently learn a multimedia tool and produce a shareable physics laboratory learning path](flipped-classroom-pilot-produces-four-mm-learning-paths.md) — related
+- [Algodoo impulse applications show internal consistency between impulse, momentum change, and graph-read values within small deviation](algodoo-impulse-momentum-change-consistency.md) — related

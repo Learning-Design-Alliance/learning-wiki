@@ -51,3 +51,4 @@ Post-program teacher surveys (grades 2-8) from the pilot assessment study. Descr
 - [Over half of surveyed students would tell friends they enjoyed the program, and 46% would mention specific program content](students-would-share-enjoyment-with-friends.md) — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [Teachers of the involved classes reported student enjoyment and stated they would reuse the course materials and Kahoot! with their pupils](teachers-reuse-intent-kahoot-materials.md) — related
+- [More than 90 percent of MEU students agreed that learning with activities is fun, and 73 percent agreed they like doing activities to learn about numbers](meu-positive-attitude-activities-likert.md) — related

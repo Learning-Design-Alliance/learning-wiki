@@ -53,3 +53,5 @@ Descriptive length comparison of real versus GPT-4o-generated submissions across
 - [Baseline LLM reflective responses were highly detectable, and persona and typo prompts progressively reduced separability from real student responses](reflection-prompt-reduces-detectability.md) — related
 - [A graded likelihood detector prompt produced more consistent separation than a binary yes/no detector prompt](likelihood-prompt-beats-binary-detection.md) — related
 - [Longer APSS responses received higher scores, particularly for the scenario-application question (r = 0.70)](response-length-score-correlation-apss.md) — related
+- [AI-generated code examples are shorter than student-generated code, while AI explanations are longer than student explanations](ai-code-shorter-explanations-longer-than-students.md) — a narrower finding that bears on this claim
+- [Confirmatory Check prompting produces the most concise LLM answers, though refinement sometimes reduced quality](confirmatory-check-most-concise-answers.md) — related

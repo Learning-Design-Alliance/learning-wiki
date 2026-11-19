@@ -45,4 +45,4 @@ Classroom demonstration in which students memorize a 24-word list and free-recal
 
 
 ## Related Claims
--
+- [Recalled stories are reconstructed from knowledge bits and story lines rather than recorded, and a stably recalled story can be inaccurate](stories-reconstructed-not-recorded.md) — a narrower finding that bears on this claim

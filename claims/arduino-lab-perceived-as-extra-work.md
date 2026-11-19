@@ -48,3 +48,4 @@ Instructor reflection from the Results and Conclusions section on the two pilot 
 - [A handful of students in each pilot produced remarkable results and later applied Arduino or Labview skills beyond the course](arduino-lab-anecdotal-student-outcomes.md) — related
 - [Approximately two-thirds of pilot students affirmed learning biology-relevant lab skills, with negative responses disappearing by spring](nexus-labs-biology-relevant-skills-perception.md) — related
 - [Pilot IPLS students shifted toward perceiving the reformed physics labs as valuable for their future careers](nexus-physics-labs-career-perception-shift.md) — reports the opposite
+- [Instructors perceive open forms of labwork and specific digital technologies (e.g., microcontrollers for experimental skills) as useful for reaching their learning objectives](open-labwork-and-specific-technologies-useful-for-objectives.md) — related

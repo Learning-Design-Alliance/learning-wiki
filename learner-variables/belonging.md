@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 163 claims (115 show a difference, 35 mixed, 13 no difference) · 116 studies (27 review, 26 associational, 21 qualitative, 20 causal, 10 design, 7 theoretical, 5 quant-synthesis), `q1`–`q4` · 9 of 116 report an effect size · 158 claims rest on one study
+> **Evidence** · 164 claims (115 show a difference, 35 mixed, 14 no difference) · 117 studies (27 review, 26 associational, 21 qualitative, 20 causal, 11 design, 7 theoretical, 5 quant-synthesis), `q1`–`q4` · 9 of 117 report an effect size · 159 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -200,6 +200,7 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Remote REU mentees reported growth in psychosocial attributes including sense of belonging, self-efficacy, and physics identity](../claims/remote-reu-psychosocial-growth.md) [+M] — measured as an outcome of the instruction studied
 - [Self-efficacy of physics majors is predicted by perceived recognition and sense of belonging, with belonging becoming the best predictor in years 3 and 4](../claims/self-efficacy-predicted-by-belonging-recognition.md) [~M] — learners who differ on it differ in outcomes
 - [Sense of belonging is best predicted by self-efficacy in every model except year 2 majors, with peer interaction the next best predictor except in year 4](../claims/belonging-best-predicted-by-self-efficacy.md) [~M] — measured as an outcome of the instruction studied
+- [No evidence of change in students' perceived science communication ability or sense of belonging in astronomy](../claims/astrobites-reading-no-change-communication-belonging.md) [-M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

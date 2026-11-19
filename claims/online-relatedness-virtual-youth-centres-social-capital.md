@@ -72,3 +72,4 @@ Subtheme on social capital: adolescents described strengthening existing relatio
 - [Forums fostered feelings of relatedness through positive peer connections and shared struggles](forums-fostered-relatedness-peer-connections.md) — related
 - [The open discussion space clarified students' confusion about receiving dissimilar feedback from different clinicians and fostered social bonding](open-discussion-clarifies-varied-feedback-and-bonds-group.md) — related
 - [Peer interaction network structure differed between face-to-face and virtual contexts, with bridge nodes emerging only in the virtual network](peer-network-bridges-virtual-context.md) — related
+- [The sparking interest and understanding facilitator persona needs community building to bridge gaps between physicists and science communication professionals](rory-community-building-needs.md) — a narrower finding that bears on this claim

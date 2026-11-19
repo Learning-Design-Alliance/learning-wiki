@@ -59,9 +59,11 @@ Stations let an instructor differentiate: different groups can work on different
 5. Close with a whole-class debrief or per-station product check ([Assessment](../elements/assessment.md), [Check-In](../elements/check-in.md)).
 
 ## Related Strategies
+
 - [Choice Boards](../elements/choice-boards.md) — a self-paced variant where learners select rather than rotate through tasks
 - [3-2-1 Reflection](3-2-1_reflection.md) — a lightweight per-station accountability product
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — a common warm-up station before the rotation begins
+- [Perusall group-study station within a station-rotation blended learning session](perusall-station-rotation-group-study-strategy.md)
 
 ## Examples
 - **Guided reading rotations (elementary ELA)** — a staple of balanced literacy: stations for independent reading, word work, writing, and teacher-led small-group instruction (see Fountas & Pinnell's *Guided Reading* framework).

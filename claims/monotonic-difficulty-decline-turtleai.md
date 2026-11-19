@@ -58,3 +58,4 @@ Fine-grained analysis of symbolic success rates across the three labeled difficu
 - [Expert hints raised GPT-4V's accuracy and flattened its performance across question difficulty levels, while medical students' performance declined with difficulty](expert-hints-raise-gpt4v-accuracy-plateau-difficulty.md) — a narrower finding that bears on this claim
 - [Success rates on the three activities were above 80%, 70%, and 60% respectively, indicating progressively challenging tasks](phylogeny-activity-success-rates.md) — a narrower finding that bears on this claim
 - [Simulated graduation rates decrease monotonically as curricular structural complexity increases](simulation-graduation-rates-decrease-with-structural-complexity.md) — a narrower finding that bears on this claim
+- [AI performance shows no clear trend across degree levels despite increasing question complexity](no-clear-trend-ai-performance-exam-level.md) — reports the opposite

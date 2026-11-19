@@ -48,6 +48,7 @@ The authors propose extending the low-cost Arduino approach beyond the project l
 ## Related Strategies
 
 - [Align course assessment with modified labs by modifying semester exams and explicitly framing the long-term value of design work](align-exams-and-framing-with-modified-labs.md)
+- [Adapt the forest physics exercise to other settings and disciplines by preserving its salient points](adapt-forest-physics-exercise-local-context.md)
 
 ## Examples
 -

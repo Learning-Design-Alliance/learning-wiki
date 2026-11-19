@@ -67,6 +67,7 @@ Anchors give knowledge a context of use, supporting transfer and making abstract
 - [Expose learners to real-world problems embedded in complex systems with multiple interactive components](expose-learners-to-complex-system-problems.md)
 - [Situate learners in problematic situations with not-quite-defined questions across 15 technological, cognitive and ethical activities](problematic-situations-15-activities-strategy.md)
 - [Use context-rich problems that place the student in a realistic scenario with missing or excess data to promote transfer](context-rich-problems-promote-transfer.md)
+- [Teach realistically with just-in-time concepts, live coding, and progressively less scaffolded projects](just-in-time-live-coding-scaffolded-projects.md)
 
 ## Examples
 - **[Jasper Woodbury Problem Solving Series](https://peabody.vanderbilt.edu/departments/teachandlearning/research/jasperproject/)** — Vanderbilt's video adventures (e.g., "Journey to Cedar Creek") in which students plan boat trips requiring distance-rate-time reasoning; the canonical anchored instruction curriculum

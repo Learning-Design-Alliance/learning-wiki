@@ -48,3 +48,4 @@ Student self-reported survey data illustrated in Figure 4 (n = 44) on the value 
 - [Students using existing accelerometer apps with a minimally adapted traditional curriculum could not describe how the smartphone accelerometer works](existing-apps-students-cannot-explain-accelerometer.md) — related
 - [After using the MyTech app and its curriculum, students gave more accurate, more detailed explanations of how the smartphone accelerometer works](mytech-improves-accelerometer-explanations.md) — related
 - [Teachers and students gave positive feedback on smartphone physics experiments](positive-feedback-smartphone-physics-experiments.md) — related
+- [Students consistently report interest in the smartphone-accelerometer DFT task and find it a good demonstration of the DFT method](dft-smartphone-task-student-interest.md) — related

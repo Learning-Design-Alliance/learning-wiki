@@ -49,6 +49,7 @@ The authors modified a previously tried flipped radiology course based on studen
 
 - [Flipped Classroom](flipped-classroom.md)
 - [Assign pre-class draft answers with attempt credit to ensure preparation for in-class problem solving](attempt-credit-flipped-classroom-preparation.md)
+- [Use flipped classrooms with pre-class reading and in-class group problem-solving for building-design topics](flipped-classroom-fermi-building-design.md)
 
 ## Examples
 -

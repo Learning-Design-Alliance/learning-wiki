@@ -69,3 +69,4 @@ Based on the fitted linear slopes across states (Results). The article reports t
 - [Less affluent U.S. states show steeper income-performance increases: states with above-average rates of change have lower median household incomes](less-affluent-states-steeper-income-performance-slope.md) — related
 - [In states where a saturating function fits, the score improvement per $10,000 of income is higher for low-income districts than high-income districts](saturating-states-larger-gains-low-income-districts.md) — related
 - [School test score averages are strongly related to the income of the families a school serves](school-test-scores-strongly-related-to-family-income.md) — related
+- [A higher proportion of children in low-income households predicts higher physics continuation rates, even adjusting for median family income](low-income-household-share-higher-physics-continuation.md) — related

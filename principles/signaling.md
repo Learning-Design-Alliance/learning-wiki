@@ -66,7 +66,7 @@ sources:
 # Signaling Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 40 claims (22 for, 17 mixed, 1 against) · 34 studies (16 causal, 11 review, 5 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 10 of 34 report an effect size · 36 claims rest on one study
+> **Evidence** · 41 claims (23 for, 17 mixed, 1 against) · 35 studies (17 causal, 11 review, 5 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 10 of 35 report an effect size · 37 claims rest on one study
 
 ## Conditional relationship
 
@@ -180,6 +180,7 @@ Each question below links a general claim that gathers the studies behind it int
 - [Fading the signaling elements after the fourth video preserved a significant performance advantage in the second half of training](../claims/fading-signaling-preserves-second-half-advantage.md) [+M] — attached 2026-10-29 from Neslihan Yondemir Çalişkan (2025), which proposed "Backward fading of expert guidance signals as novices gain expertise"; tests this page's relationship.
 - [Bolding target words produced higher L2 vocabulary scores than underlining and capitalizing, and the bolding-versus-capitalizing difference was statistically significant](../claims/bolding-outperforms-other-enhancements.md) [+W] — attached 2026-11-01 from Motlagh et al. (2015), which proposed "Bold target vocabulary words in meaning-oriented texts to foster L2 vocabulary learning"; tests this page's relationship.
 - [Audio input enhancement produces a significant short-term advantage over conventional instruction in EFL learners' knowledge of English intensifiers](../claims/audio-input-enhancement-improves-intensifier-posttest.md) [+W] — attached 2026-11-01 from Negari et al. (2018), which proposed "Use audio input enhancement to draw EFL learners' attention to target grammatical structures, but pair it with deeper processing for long-term retention"; tests this page's relationship.
+- [Standard captions were top-ranked for comprehension and entertainment, while timed keyword highlights were top-ranked only for learning](../claims/standard-captions-top-ranked-comprehension-entertainment.md) [+W] — attached 2026-11-19 from Fiona Draxler et al. (2023), which proposed "Select caption keywords conservatively and keep full captions so that unhighlighted unknown words remain visible"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

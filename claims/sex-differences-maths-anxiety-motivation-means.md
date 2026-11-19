@@ -83,3 +83,4 @@ Univariate ANOVAs across TEDS continuous variables; the article reports sex expl
 - [Female students were less confident in their choice of major than male students before participating in informal physics programs, and this difference disappeared after participation](female-confidence-choice-major-gap-closed-by-outreach.md) — related
 - [Female students report significantly less science confidence and enjoyment and more science anxiety than male peers, and higher prior math achievement predicts better attitudes](gender-and-sat-predict-science-attitudes.md) — related
 - [Integrated-gradient analysis found pretest score and math anxiety were the most influential features on the learned policy's pedagogical choices](integrated-gradient-policy-feature-importance.md) — related
+- [Female students express significantly less interest in physics than male students, regardless of introductory course format](female-students-less-physics-interest.md) — related

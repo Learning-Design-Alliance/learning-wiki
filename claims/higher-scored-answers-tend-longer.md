@@ -51,3 +51,4 @@ Dataset analysis of answer length in characters across the six datasets, plotted
 - [Part of the crosslingual performance drop is attributable to differences between learner populations and datasets, not only language](dataset-population-differences-drive-scoring-drop.md) — possibly the same claim (merge candidate)
 - [Shorter codebooks and shorter data excerpts yield higher initial LLM coding accuracy, and a smaller specialization gap between codebook and excerpt helps](claim-llm-coding-accuracy-shorter-codebooks.md) — related
 - [Machine translation of training and test data does not degrade monolingual content scoring performance and can normalize learner errors](mt-normalizes-learner-errors-scoring.md) — related
+- [AI-generated code examples are shorter than student-generated code, while AI explanations are longer than student explanations](ai-code-shorter-explanations-longer-than-students.md) — related

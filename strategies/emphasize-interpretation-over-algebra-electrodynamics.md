@@ -50,6 +50,7 @@ The authors recommend that traditional electrodynamics instruction, which heavil
 
 - Cognitive Load Management
 - [Teach Maxwell's equations as simultaneous relationships with emphasis on field sources, using examples, coupled-equation checks and unified-field tutorials](teach-maxwell-simultaneous-relationships-strategy.md)
+- [Delegate the mathematical manipulation of Lagrange equations to Sage so students focus on physical modeling](delegate-lagrange-manipulation-to-sage.md)
 
 ## Examples
 -

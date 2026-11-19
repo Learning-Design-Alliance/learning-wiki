@@ -51,3 +51,4 @@ Qualitative error analysis of model rationales on a texture-based wind map item 
 - [On animation items, GPT via frame extraction matches human-level accuracy while Claude scores lowest of all models and humans at 59.3%](animation-items-gpt-matches-human-claude-lowest.md) — related
 - [MLLMs show recurring failures in fine-grained quantitative estimation, often identifying the encoding and measurement strategy but misestimating precise values](mllm-fine-grained-quantitative-misestimation-scivis.md) — related
 - [GPT-3.5 struggled specifically with FCI problems requiring reasoning about directions and spatial relationships](gpt35-spatial-directional-reasoning-errors.md) — related
+- [Creating dynamic visual analogies posed challenges in devising suitable transitions or motions](dynamic-analogy-motion-challenges.md) — related

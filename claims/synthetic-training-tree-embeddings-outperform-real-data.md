@@ -51,3 +51,4 @@ Numerical experiment (Section 5.4.3, Table 4) training on 7,000 synthetic steps 
 - [Tree embedding-based encoding with a classifier achieves the highest math operation classification accuracy on the CogTutor OK subset and remains effective on incorrect steps](tree-embedding-classifier-best-operation-classification.md) — related
 - [Tree embedding-based encoding outperforms GRU-based encoding when generalizing across question difficulty levels in equation solving](tree-embeddings-outperform-gru-across-difficulty-levels.md) — related
 - [Tree embedding-based encoding with a classifier performs best at classifying feedback types for incorrect steps, reaching 78.71% accuracy across 24 feedback types](tree-embedding-best-feedback-type-classification.md) — related
+- [A fine-tuned BERT outperforms the leading tree-embedding baseline (TE+C) on algebra error classification without needing syntax trees](bert-outperforms-tree-embedding-error-classification.md) — related

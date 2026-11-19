@@ -75,3 +75,4 @@ The authors state the study was designed for preliminary insights into feasibili
 - [Five of seven pilot participants found MHW-based TBL more engaging than traditional TBL for learning complex pharmacology concepts](mhw-tbl-more-engaging-than-traditional.md) — related
 - [Volumetric video supports translational movement through the surgical scene, unlike fixed-point 360-degree video](cl-volumetric-video-vs-360-degree-video.md) — related
 - [Medical students perceive an interactive case-based eModule as more enjoyable, engaging, recommendable and useful than a Wikipedia-like webpage with matching content](emodule-more-engaging-enjoyable-useful-than-wiki.md) — a narrower finding that bears on this claim
+- [In a small pilot, SPORT-C participants and their instructor reported engagement higher than the norm during the activity](sport-c-pilot-higher-engagement.md) — related

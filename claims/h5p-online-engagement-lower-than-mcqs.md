@@ -67,3 +67,4 @@ Moodle Activity completion reports for the 22/23 cohort comparing newly introduc
 - [A blended learning course combining H5P online modules with face-to-face standardized patient training was feasible and acceptable for medical students](blended-learning-communication-course-feasibility-pilot.md) — related
 - [Lay health care workers report high engagement with and satisfaction toward blended digital training in low-resource settings](digital-training-high-engagement-satisfaction.md) — related
 - [Attendance at case study tutorial sessions increased by 20% in 2022/23 compared with 2021/22](tutorial-attendance-increase-2223.md) — related
+- [Choice-based problem-solving attendance shows no considerable effect on overall student performance compared to mandatory attendance](choice-based-attendance-no-performance-effect.md) — related

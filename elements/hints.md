@@ -22,7 +22,7 @@ sources:
 # Hints
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 34 claims (14 for, 18 mixed, 2 against) · 23 studies (9 causal, 6 design, 2 review, 2 associational, 2 qualitative, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 4 of 23 report an effect size · 33 claims rest on one study
+> **Evidence** · 36 claims (16 for, 18 mixed, 2 against) · 24 studies (10 causal, 6 design, 2 review, 2 associational, 2 qualitative, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 4 of 24 report an effect size · 35 claims rest on one study
 
 ## Description
 Hints are partial prompts or cues that help learners continue a task without fully giving away the answer. They are useful when the design goal is to preserve productive struggle while reducing the chance of stuckness, confusion, or abandonment.
@@ -84,6 +84,8 @@ Hints are partial prompts or cues that help learners continue a task without ful
 - [Teachers and students expect PAs to scaffold self-regulated learning by providing hints and questions rather than directly giving solutions](../claims/pa-scaffolding-hints-not-solutions.md) [+W]
 - [On-demand ITS features (worked-out examples, on-demand hints) show significant effects, suggesting student choice enhances learning](../claims/its-on-demand-features-significant-effects.md) [+W]
 - [Students gave positive feedback on DPP and rated guided problem solving highly, but hints, chat, and participation-rate display were rated less useful](../claims/student-feedback-dpp-sceppsys.md) [-W]
+- [University students rated GPT-generated programming hints positively, though a minority found them not useful](../claims/gpt-hints-rated-useful-programming.md) [+W] — attached 2026-11-19 from Maciej Pankiewicz et al. (2023), which proposed "RunCode automated assessment platform extended with GPT-3.5 hint generation via API".
+- [On tasks with GPT hints enabled, the experimental group scored higher on successful submissions averaged across attempts, with statistically parallel improvement slopes](../claims/gpt-hints-higher-successful-submissions.md) [+W] — attached 2026-11-19 from Maciej Pankiewicz et al. (2023), which proposed "RunCode automated assessment platform extended with GPT-3.5 hint generation via API"; tests this page's relationship.
 
 ## The evidence by question
 
@@ -106,6 +108,7 @@ Hints are partial prompts or cues that help learners continue a task without ful
 - [Provide subgoal hints alongside step hints in proof construction](../strategies/subgoal-hints-in-proof-tutoring.md)
 - [Sequence lightly scaffolded hints before heavily scaffolded hints so scaffolding fades](../strategies/light-then-heavy-scaffolded-hints.md)
 - [Provide visual cues or hints for self-exploration before direct instruction to promote transfer in online tutorials](../strategies/cues-before-direct-instruction-online-tutorials.md)
+- [Use AI tutor prompts that push students to generate their own answers rather than receive solutions](../strategies/ai-tutor-generate-answers-strategy.md)
 
 ## Key Sources
 - Koedinger, K. R., & Aleven, V. (2007). Exploring the assistance dilemma in experiments with cognitive tutors. *Educational Psychology Review, 19*(3), 239-264. [https://doi.org/10.1007/s10648-007-9049-0](https://doi.org/10.1007/s10648-007-9049-0)

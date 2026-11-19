@@ -69,3 +69,4 @@ On the perception questionnaire, "28 (62.2%) participants disagreed" that readin
 - [Viewing captioned instructional videos significantly improves EFL learners' vocabulary acquisition compared to viewing without captions.](captions-improve-vocabulary-acquisition-efl.md) — related
 - [Captioning second-language videos produces large benefits for comprehension and vocabulary acquisition](captioning-second-language-videos-large-benefits.md) — related
 - [Viewing captioned instructional videos does not significantly improve EFL learners' content comprehension compared to viewing without captions.](captions-no-effect-content-comprehension-efl.md) — related
+- [Most caption users activate captions for comprehension, and only a few intentionally use them for language learning](captions-used-for-comprehension-not-learning-survey.md) — related

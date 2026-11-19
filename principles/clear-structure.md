@@ -154,6 +154,7 @@ A gain on an immediate test, a change in what is recalled, delayed retention, tr
 - [Increase access to digital learning so materials are organized and accessible online](../strategies/digital-learning-access-organized-materials.md)
 - [Use a three-part process-understanding-product rubric for formative and summative maker assessment](../strategies/three-part-rubric-maker-assessment.md)
 - [Use student-owned portfolios with digital and non-digital documentation to assess maker growth over time](../strategies/student-owned-portfolios-maker-assessment.md)
+- [Keep lessons simple and be flexibly prescriptive: narrow objectives, chunked code, one way first](../strategies/keep-it-simple-flexibly-prescriptive.md)
 
 ### Illustrative
 

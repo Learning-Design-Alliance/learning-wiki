@@ -57,3 +57,4 @@ Figure 4 reports average UEQ-S ratings (normalized -3 to +3) per task from the i
 - [On the UEQ-S, HFS was rated more supportive, easy, efficient, and clear than VR, while both modalities scored above 5 on all usability items](ueq-s-usability-group-differences.md) — related
 - [Nursing students rated the ESNPNSD positively on all six UEQ dimensions](esnpnsd-positive-ueq-scores-all-dimensions.md) — related
 - [The PediAppRREST app received positive usability evaluations across all six UEQ scales in a simulation pilot with pediatric residents](pediaprrrest-positive-usability-ueq-pilot.md) — related
+- [Keyword-highlight caption variants were rated higher on hedonic quality than standard captions in a within-subject user study](keyword-highlights-higher-hedonic-quality.md) — related

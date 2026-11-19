@@ -64,6 +64,7 @@ Error normalization works by reducing the threat response that otherwise causes 
 - [Activating prior knowledge](activating-prior-knowledge.md) — surfaces preconceptions, which often include the errors to be normalized
 - [Check-in](../elements/check-in.md) — low-stakes routines that surface confusion early
 - [Immediate computer-graded feedback with multiple attempts at full credit to promote growth mindset](immediate-feedback-multiple-attempts-growth-mindset.md)
+- [Normalize mistakes by instructors modeling error, saying I don't know, and inviting questions](normalize-mistakes-model-error.md)
 
 ## Examples
 - **My Favorite Mistake routine (mathematics classrooms):** the teacher selects an anonymized student error, and the class analyzes why it is reasonable and where the reasoning breaks — positioning the error as a shared object of study.

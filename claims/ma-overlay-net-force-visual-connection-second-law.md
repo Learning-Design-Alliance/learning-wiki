@@ -50,3 +50,4 @@ Figure 3 overlays the student's mass times the video-derived vertical accelerati
 - [Two-force-plate recording revealed individual left-right impulse asymmetries in student jumps while total takeoff and landing impulses remained comparable](two-force-plate-impulse-asymmetry-student-project.md) — related
 - [The authors report that the kinesthetic experience enhances student understanding and that a student project provides evidence of the approach's effectiveness](kinesthetic-experience-enhances-understanding-physics-of-dance.md) — related
 - [The authors report a clear advantage of automatic timing in onsite labs (photogate) over home kit timing for the measuring g and Newton's 2nd Law experiments](onsite-photogate-timing-accuracy-advantage.md) — related
+- [Algodoo impulse applications show internal consistency between impulse, momentum change, and graph-read values within small deviation](algodoo-impulse-momentum-change-consistency.md) — related

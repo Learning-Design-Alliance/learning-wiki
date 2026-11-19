@@ -64,3 +64,4 @@ PLS-SEM structural model with the three psychological needs, measured after the 
 - [Competence is the only SDT need that ChatGPT learning activities satisfy across all three SRL phases; relatedness and autonomy are not adequately satisfied at every phase.](competence-only-need-satisfied-all-srl-phases.md) — related
 - [A three-round Delphi process with 36 Hong Kong school teachers reached consensus on 20 ChatGPT-based learning activities that satisfy SDT needs and foster SRL phases.](delphi-consensus-20-chatgpt-learning-activities.md) — related
 - [Basic psychological needs positively predict college students' academic self-efficacy](bpn-predict-academic-self-efficacy.md) — related
+- [Self-determination theory needs of competence, relatedness, and autonomy drive participants' motivation to engage in DBER](sdt-needs-drive-dber-motivation.md) — related

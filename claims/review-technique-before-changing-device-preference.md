@@ -54,3 +54,4 @@ Patient preferences and satisfaction section of the survey (Table 3, N = 554): "
 - [Baseline inhaler technique knowledge among Northern Greek health care providers was inadequate, with nurses scoring lowest](baseline-it-knowledge-inadequate-nurses-lowest.md) — related
 - [Compared with a decade earlier, pMDI knowledge declined slightly while DPI knowledge improved and routine technique assessment increased](inhaler-knowledge-change-over-decade-spain.md) — related
 - [GPs frequently choose incorrect corticosteroid treatment for COPD, omitting oral steroids in exacerbations and over-selecting ICS in maintenance therapy](gp-incorrect-corticosteroid-choices-copd.md) — related
+- [Incorrect inhalation technique is related to uncontrolled asthma symptoms, and most healthcare professionals cannot educate patients in correct technique](incorrect-inhalation-uncontrolled-symptoms.md) — related

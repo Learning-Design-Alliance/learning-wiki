@@ -57,3 +57,4 @@ Linear models visualized in Figure 4 predicting course grade from GPE as a funct
 - [Female students had higher high school GPA but lower physics 1 and 2 grades than male students, with small effect sizes](gender-grade-patterns-intro-physics-hs-gpa.md) — related
 - [First-year students rate perceived learning achievement lowest, and first-year students rate lab experimental skills lower than second-year students](first-year-students-rate-perceived-achievement-lowest-covid.md) — related
 - [Female students outperformed males at Activity 1 but underperformed in semester 2 activities](gender-grade-pattern-flips-across-semesters.md) — related
+- [Female students achieved slightly but not significantly higher average grades than male students in all three physics courses](female-students-slightly-higher-physics-grades.md) — related

@@ -70,3 +70,4 @@ Post-questionnaire item on the source of space-time deformation. The authors sta
 - [The RSA activity improves mastery of Kepler's laws, with the largest gain on the second law, and improves understanding of gravity assist](rsa-improves-kepler-laws-and-gravity-assist.md) — related
 - [Explicitly addressing the rubber sheet's downward-gravity misconception was effective: only 3% of students chose the 'force that points downward' distractor after the activity](explicit-misconception-addressing-3-percent-distractor.md) — related
 - [The RSA activity helps high school students visualize, comprehend and remember Newtonian gravity and GR topics better than a traditional treatment](rsa-activity-improves-gravity-comprehension.md) — a broader claim this one bears on
+- [Year 7 Einsteinian gravity instruction conflicted with concurrent Euclidean geometry teaching, producing persistent confusion](year-7-euclidean-geometry-conflict-curved-space.md) — related

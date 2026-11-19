@@ -47,6 +47,7 @@ The article recommends strategies to sustain EBAE implementation: addressing stu
 - [Pair individual implementation support with a departmental commitment to transformed teaching, including incentives, TA training, and shared RBIS expectations](supportive-departmental-environment-for-rbis-retention.md)
 - [Implement sustained educator development programs including needs assessment, coaching, communities of practice, and experiential learning](educator-ai-development-support-programs.md)
 - [Build an inclusive classroom environment first, then adopt an EDI approach suited to local context and iterate on student resistance](inclusive-environment-first-then-iterate.md)
+- [Adopt inclusive, non-lecture pedagogical practices and group-based problem solving in undergraduate physics](inclusive-non-lecture-physics-pedagogy-strategy.md)
 
 ## Examples
 -

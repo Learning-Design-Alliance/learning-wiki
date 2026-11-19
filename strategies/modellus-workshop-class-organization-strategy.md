@@ -48,6 +48,7 @@ In the implementation described, students in the computational modelling classes
 
 - [Pre-class case distribution plus in-class group reporting within a flipped classroom](pre-class-case-distribution-group-reporting-strategy.md)
 - [Videos](videos.md)
+- [Organize the Landau-Zener project as team-based comparison of alternative computational approaches](team-based-comparison-landau-zener-project.md)
 
 ## Examples
 -

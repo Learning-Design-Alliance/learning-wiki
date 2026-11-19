@@ -53,6 +53,7 @@ Instead of the standard end-of-chapter kinematic formula list, the author uses o
 
 - [Write 'Reading the content in…' readings that unpack the conceptual knowledge coded in anchor equations, and require the full annotated form of Newton's second law](reading-the-content-in-anchor-equations.md)
 - [Have students organize review notes around a few core ideas or anchor equations to transform how they view course knowledge](organize-review-around-anchor-equations.md)
+- [Problem triples: qualitative, symbolic, and computational versions of one situation](problem-triples-qualitative-symbolic-computational.md)
 
 ## Examples
 -

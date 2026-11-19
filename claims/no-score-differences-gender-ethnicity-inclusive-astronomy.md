@@ -49,3 +49,4 @@ Analysis of average cumulative course scores for the 20 students who responded t
 - [URM students underperformed relative to non-URM students on introductory biology exams at inclusive and selective 4-year institutions, but not at community colleges](urm-performance-gaps-vary-by-institution-type.md) — related
 - [URM students leave a larger fraction of exam answers blank than non-URM and white students in introductory physics courses](urm-students-leave-more-blank-answers.md) — related
 - [In the fall semester course, group formation strategy (maximally heterogeneous vs. random) had no detectable effect on students' lab report grades](fall-lab-report-grade-null-group-formation.md) — related
+- [Male students and non-white students reported higher 'good at science' responses before the astronomy club, but no significant difference remained after it](dsbk-good-at-science-gender-race-gaps-closed.md) — related

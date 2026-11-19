@@ -50,3 +50,4 @@ Analysis of ranking-task responses from the middle school NIAQ administration (5
 - [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](pisa-sex-differences-math-small-reading-three-times-larger.md) — related
 - [Male-instructed classes show a small performance gender gap in favor of males (0.20 SD), while female-instructed classes show no significant gap](male-instructed-classes-performance-gap.md) — related
 - [Middle school students show a striking lack of improvement on astronomy content questions from year 8 to year 10](niaq-middle-school-no-improvement.md) — related
+- [Male students and non-white students reported higher 'good at science' responses before the astronomy club, but no significant difference remained after it](dsbk-good-at-science-gender-race-gaps-closed.md) — related

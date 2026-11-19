@@ -51,3 +51,4 @@ Interview thematic analysis found the time-structure force replicates because se
 - [Replacing a point-and-click environment with Jupyter notebooks plus continual advising led Ph.D. candidates to full acceptance of data science tools and creative analysis](jupyter-intervention-full-acceptance-creativity.md) — related
 - [A one-semester course in data science tools is not enough for Ph.D. PER candidates to adopt them as main research tools](one-semester-course-insufficient-data-science-tools.md) — related
 - [Most students found the course contained more programming than they expected, and found the amount of new material and the steep learning curve challenging](students-surprised-programming-level-steep-learning-curve.md) — related
+- [Most student groups voluntarily adopted Python and Jupyter Notebooks for data analysis in their first-semester lab experiments, rising from 83% to 100%](python-jn-group-adoption-first-semester.md) — related

@@ -13,7 +13,7 @@ generated:
 # Contextualization
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 against) · 5 studies (4 causal, 1 quant-synthesis), `q2`–`q3` · 0 of 5 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 against) · 6 studies (4 causal, 1 quant-synthesis, 1 design), `q1`–`q3` · 0 of 6 report an effect size · 7 claims rest on one study
 
 ## Description
 Contextualization is the element in which new ideas, texts, or tasks are framed within a meaningful situation, purpose, domain, or prior experience. It is useful when learners need to understand why something matters before they can engage with it deeply.
@@ -43,6 +43,7 @@ Contextualization is the element in which new ideas, texts, or tasks are framed 
 - [Science-contextualized drill practices produce higher gains in computational fluency than traditional context-free drill practices for middle and high school students](../claims/scp-higher-computational-fluency-gains-than-traditional-drill.md) [+W] — attached 2026-11-02 from Corlu et al. (2011), which proposed "Two-intervention experiment model with exponentials unit, pre-/post-test instrumentation, and SCP vs. TP homework assignments"; tests this page's relationship.
 - [Contextual vocabulary teaching produced statistically significant pretest-to-posttest vocabulary gains in Iranian intermediate EFL learners](../claims/contextual-vocabulary-teaching-significant-gains-iranian-efl.md) [+W] — attached 2026-11-02 from Omid Rezaei (2011), which proposed "Favored/disfavored context treatment materials: eight topic passages with ten underlined target words each"; tests this page's relationship.
 - [Students taught with the structural method of vocabulary teaching scored significantly higher than students taught with the contextual method on the posttest](../claims/structural-method-outperforms-contextual-posttest-vocabulary.md) [-W]
+- [Iterative prompt engineering of GPT-4 achieved meaningful contextualization of algebra problems that preserved difficulty and original intent](../claims/gpt4-prompt-engineering-contextualization-preserves-intent.md) [+W] — attached 2026-11-19 from Gautam Yadav et al. (2023), which proposed "CTAT 'Contextualize by Interest' feature using GPT-4 for teacher-controlled problem contextualization".
 
 ## Related Elements
 - [Prior Knowledge Activation](prior-knowledge-activation.md)

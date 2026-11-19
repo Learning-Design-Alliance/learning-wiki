@@ -49,3 +49,4 @@ Post-workshop questionnaire of 26 respondents from the distance-education worksh
 - [Motivated elementary students rated the workshop difficult but interesting: over half found it difficult while all respondents found it interesting](difficult-but-interesting-workshop-ratings.md) — related
 - [Nine months after the school, most responding students reported comfort with key concepts and 87% agreed they could prepare a simple CutLang ADL file](cutlang-school-knowledge-retention-nine-months.md) — related
 - [Student performance-task artifacts (research reports and Tracker *.TRZ files) suggest students behaved like scientists in classroom context](tracker-artifacts-indicate-scientist-like-behaviour.md) — related
+- [Post-survey: the large majority of students found the Python introduction feasible or easy, and none chose 'Very difficult'](python-introduction-feasibility-post-survey.md) — related

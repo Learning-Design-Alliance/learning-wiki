@@ -95,3 +95,4 @@ Authors' interpretation in the section on games as a culture medium: game enviro
 - [Students' self-reported competence, autonomy, and relatedness showed a statistically significant link to both class grades and interest in learning physics](affective-experiences-linked-grades-interest.md) — related
 - [Game based learning activities meet four player-activity requirements—students' goals, autonomy, competence, and relatedness—to foster autonomous motivation](four-requirements-autonomous-motivation-dgbl.md) — related
 - [Combining collaborative, game-based and mobile activities is argued to create synergies that make learning more effective than each activity type alone](jscm-synergy-argument.md) — related
+- [Game-based learning can increase student engagement and motivation, and cited studies link it to improved learning outcomes](game-based-learning-engagement-motivation-outcomes.md) — related

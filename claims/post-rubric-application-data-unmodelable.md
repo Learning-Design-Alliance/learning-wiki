@@ -53,3 +53,4 @@ Conditional inference forest analysis of 511 domestic applications to enroll 201
 - [A conditional inference random forest model predicts physics PhD admissions decisions on held-out data with 75.8% average accuracy](random-forest-predicts-physics-phd-admissions-75-8-percent.md) — related
 - [The authors interpret their modeling results as evidence that rubric-based holistic review could make physics graduate admissions more equitable](rubric-holistic-review-could-increase-equity.md) — related
 - [Rubric-based holistic review that considers more than test scores and GPA increased the demographic diversity of admitted graduate students at the University of Michigan](rubric-holistic-review-diversity-gains.md) — related
+- [Random forest models of the rubric-based admissions decisions were only weakly predictive, with the full-rubric model's AUC (0.67) below the old-system model's (0.76)](rubric-model-auc-below-old-system-model.md) — related

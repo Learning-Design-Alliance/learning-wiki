@@ -62,3 +62,4 @@ Conceptual argument citing fairness and AI-literature (e.g., Barocas et al., 202
 - [Pessimistic Evaluators' foremost concern is misleading, inaccurate, or biased ChatGPT-generated information](pessimistic-evaluators-misleading-information-concern.md) — related
 - [IDs expressed quality concerns over GenAI-generated content, including bias, inaccuracy, hallucinations, and lack of authenticity](genai-quality-concerns-bias-hallucination.md) — related
 - [AI tools can reinforce confirmation bias, leading therapists to misinterpret adaptive outputs as objective truths](ai-tools-reinforce-confirmation-bias-cmft.md) — related
+- [Automated LLM feedback may reduce instructor unconscious bias by evaluating responses equally without identification](llm-feedback-reduce-instructor-unconscious-bias.md) — related

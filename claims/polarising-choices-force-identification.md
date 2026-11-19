@@ -74,3 +74,4 @@ Figure 3 analysis of the same six-question item data shows the wide gap between 
 - [Instructors overestimate introductory students' failure to identify contact forces and other forces on FCI force-identification items](instructors-overestimate-students-missing-contact-forces.md) — related
 - [The six PFI questions polarize student responses between two choices and rank among the most challenging FCI items, with five of six in the top-10 hardest](pfi-questions-polarize-and-are-hardest.md) — possibly the same claim (merge candidate)
 - [FCI questions 5, 11, 13, 18, 29 and 30 showed polarisation between the correct answer and one dominant incorrect answer at UJ, consistent with prior studies](fci-polarising-questions-dominant-incorrect-answers-uj.md) — related
+- [Players who completed their last level with an incorrect force setting learned as much as players who used the correct setting](newtons-race-no-learning-difference-incorrect-setting.md) — related

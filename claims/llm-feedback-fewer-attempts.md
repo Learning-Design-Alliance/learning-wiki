@@ -53,3 +53,4 @@ Negative binomial generalized linear mixed-effects model (NB-GLMM) on attempts t
 - [Feedback effects on time to solution did not differ significantly between novice and advanced students, though predicted trends suggest feedback was more beneficial for advanced students](no-significant-feedback-expertise-interaction.md) — related
 - [Natural language AI feedback is associated with faster convergence to correct solutions](nl-feedback-faster-convergence-correctness.md) — related
 - [Feedback type did not affect whether students solved assignments; solution rates were very similar across all conditions](feedback-type-no-effect-solution-rates.md) — related
+- [In a 235-student statics lecture, 143 students completed all three individual exercise assignments, with hundreds of (re-)submissions per assignment](assignment-participation-statics-lecture.md) — related

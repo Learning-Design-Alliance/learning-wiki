@@ -71,3 +71,4 @@ Student focus group data (Theme 3, Subtheme 3.1.3). Participants reported fear o
 - [Perceived condescension from male professors activated stereotype threat for a woman physics major, reducing her sense of belonging and discouraging her from asking questions](condescension-stereotype-threat-disengagement.md) — related
 - [Material adaptations are a recognized challenge for including blind students in conventional academic activities](material-adaptations-challenge-blind-student-inclusion.md) — related
 - [Teacher-mediated interaction in the online laboratory did not encourage constant active student participation, with students fearing teacher judgement](teacher-mediated-interaction-limited-participation.md) — related
+- [Sense of belonging experiences, such as encouragement and exclusion, shape students' interest in a method](sense-of-belonging-shapes-method-interest.md) — related

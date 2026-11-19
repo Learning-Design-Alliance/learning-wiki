@@ -74,3 +74,4 @@ Authors' interpretive argument in the Discussion: because women outperformed men
 - [Female researchers are on average under 30% worldwide and below 25% in most African countries](female-researchers-under-30-percent-gender-gap.md) — related
 - [Men significantly under-nominate women as strong in lecture material in first-year physics courses, while women proportionately nominate both genders](men-under-nominate-women-first-year-physics-lecture.md) — related
 - [Women nominated women significantly more than men nominated men in Course C's lecture perception network only](women-over-nominate-women-course-c-lecture.md) — related
+- [Men disproportionately under-nominate women as strong in the course material in both offerings of both distinct lab and lecture physics courses](men-under-nominate-women-peer-recognition-physics.md) — related

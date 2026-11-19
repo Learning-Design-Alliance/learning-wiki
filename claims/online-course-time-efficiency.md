@@ -50,3 +50,4 @@ Exact time-on-task data were collected for the online course, which the authors 
 - [Online course and role-playing seminar produce no statistically significant difference in overall OSCE counselling performance for smoking cessation](osce-overall-no-difference-online-vs-roleplay.md) — related
 - [Standardised patients rate the counselling of role-playing seminar students significantly better than that of online-course students](sp-rating-seminar-advantage.md) — related
 - [Role-playing seminar students outperform online-course students on the Assist section of the 5A counselling model in the OSCE](assist-section-seminar-advantage-osce.md) — related
+- [The Lagrangian mechanics four-step example was tested in a 90-minute online seminar with satisfying student performance](lagrangian-example-90min-seminar-test.md) — related

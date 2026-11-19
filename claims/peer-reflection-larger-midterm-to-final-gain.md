@@ -48,3 +48,4 @@ Observational comparison of exam averages across course sections: the previous y
 - [Course outcomes between the daytime and evening sections showed a significant midterm difference only in the peer-reflection year, with no significant final-exam difference in either year](pr-versus-traditional-section-exam-outcomes-mixed.md) — related
 - [Across both groups, students who drew more diagrams or did more scratch work performed better on the final exam and improved more from midterm to final](diagram-scratch-work-correlates-with-exam-performance.md) — related
 - [Replacing weekly recitation quizzes with peer reflection activities did not adversely affect the PR group's exam performance](peer-reflection-without-quizzes-not-harmful.md) — related
+- [The authors observed that Perusall use led to more concentrated student work, more time for higher-cognitive tasks, and improved engagement and achievement](perusall-observed-improved-engagement-achievement.md) — related

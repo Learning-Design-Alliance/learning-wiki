@@ -56,3 +56,4 @@ Same randomized experiment and hierarchical logistic regression model. Personali
 - [Students receiving personalized problems gamed the tutoring system less during the personalized unit, with no difference in a later unit](personalization-reduces-gaming-behavior.md) — related
 - [Students are significantly worse at translating two-step algebra story problems than matched one-step problems, implicating a hidden integrative knowledge component](integrative-kc-two-step-algebra-translation.md) — related
 - [Adjusting algebra problem contexts to students' out-of-school interests was beneficial](personalizing-algebra-context-to-interests-beneficial.md) — a broader claim this one bears on
+- [Prior research found context personalization to student interests associated with improved engagement, performance, and learning outcomes in algebra](walkington-interest-contextualization-engagement-performance.md) — a broader claim this one bears on

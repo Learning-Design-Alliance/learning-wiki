@@ -71,3 +71,5 @@ On the last day of the program, the team recorded a video asking students questi
 - [88% of students said hands-on activities helped them understand Einsteinian concepts, and 70% wanted to learn more Einsteinian physics](hands-on-activities-helped-clarity-einsteinian-concepts.md) — related
 - [Prior knowledge and age are not significant factors in understanding core Einsteinian concepts](prior-knowledge-age-not-factors-core-concepts.md) — related
 - [Year 9 students showed a statistically significant improvement in Einsteinian physics conceptual knowledge after the 20-lesson Einstein-First programme in both 2013 and 2014](einstein-first-significant-conceptual-gains.md) — related
+- [Teacher-delivered Einstein-First modules across Years 3–10 produced substantial knowledge gains in pre/post tests](einstein-first-trials-substantial-knowledge-gains.md) — a broader claim this one bears on
+- [Observations across MEU trials show all ages engaged enthusiastically with toys and games, while younger students forgot more quickly after a few weeks](meu-observations-engagement-retention-age.md) — related

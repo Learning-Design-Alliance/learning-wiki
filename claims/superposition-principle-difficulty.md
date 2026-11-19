@@ -54,3 +54,4 @@ Findings from Problems 2–4, which require the superposition principle to compa
 - [Completing an E&M course improves performance on negative electric field and potential questions but not on the negative net-charge question](em-course-completion-differential-item-effects.md) — related
 - [Interpretations of the term net charge may underlie the persistent difficulty of the charge-transfer question](net-charge-interpretation-difficulty.md) — related
 - [Upper-division students struggled with an introductory-level electrostatics sign problem; none succeeded in the first few tries](upper-division-students-struggle-sign-problem.md) — a narrower finding that bears on this claim
+- [A common student difficulty is adding the magnitudes of electric field contributions without considering direction when combining Gauss's law with superposition](adding-magnitudes-ignoring-direction-difficulty.md) — related

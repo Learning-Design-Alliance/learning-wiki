@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 206 claims (162 show a difference, 31 mixed, 13 no difference) · 179 studies (66 causal, 30 review, 28 qualitative, 19 design, 17 associational, 12 quant-synthesis, 7 theoretical), `q1`–`q3` · 16 of 179 report an effect size · 206 claims rest on one study
+> **Evidence** · 209 claims (164 show a difference, 31 mixed, 14 no difference) · 181 studies (67 causal, 30 review, 28 qualitative, 20 design, 17 associational, 12 quant-synthesis, 7 theoretical), `q1`–`q3` · 17 of 181 report an effect size · 209 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -248,6 +248,9 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Students on programming courses discuss programming tasks more with peers than with the teacher, in both MOOCs and a blended collaborative course](../claims/programming-discussed-more-with-peers-than-teacher.md) [+M] — measured as an outcome of the instruction studied
 - [Messages in a blended collaborative course with team assignment were more positive than MOOC forum messages, a positive-to-negative ratio of 4 against 0.4](../claims/teamwork-shifts-sentiment-positive.md) [+M] — measured as an outcome of the instruction studied
 - [The diverse perspectives of others profoundly enrich the problem-solving process, while collaboration poses its own challenges](../claims/diverse-perspectives-enrich-problem-solving.md) [~W] — learners who differ on it differ in outcomes
+- [ChatGPT condition had no main effect on collaborative interdisciplinary problem-solving or engagement](../claims/chatgpt-condition-no-main-effect.md) [-M] — measured as an outcome of the instruction studied
+- [Learning topic affects collaborative interdisciplinary problem-solving and engagement, with higher scores for the AI & Internet topic than Blockchain](../claims/chatgpt-study-topic-main-effect-engagement.md) [+M] — measured as an outcome of the instruction studied
+- [Second-semester exercises showed satisfactory retention: 83% of group work was rated good or excellent and none unsatisfying](../claims/second-semester-python-skill-retention.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

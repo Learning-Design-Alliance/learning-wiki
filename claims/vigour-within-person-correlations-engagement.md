@@ -50,3 +50,4 @@ Descriptive within-person correlation analysis (between-person variation removed
 - [Exercise during class does not significantly affect depression, interest, sleep frequency, or mind-wandering](classroom-exercise-no-cognitive-engagement-effect.md) — related
 - [Mind wandering episodes during incubation are correlated with individuals' ability to solve creative problems](mind-wandering-incubation-correlated-creative-problem-solving.md) — related
 - [Trait mind wandering predicts verbal creativity over fluid intelligence, reading difficulties, and declarative knowledge of metacognitive strategies in tertiary-level students](trait-mind-wandering-predicts-verbal-creativity-tertiary-students.md) — related
+- [Changing one's mind was negatively associated with students' interest in the day's topic, with students half as likely to be interested on days they changed their minds](dsbk-changing-mind-negative-interest-association.md) — related

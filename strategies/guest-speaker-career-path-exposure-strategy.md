@@ -43,7 +43,8 @@ In the IceCube AfterSchool program, eight speakers gave guest lectures on their 
 - [In the 2016 ICD, PhD students from ATLAS and IceCube presented their atmospheric muon zenith-angle data, and comparison with student measurements produced a fruitful discussion](../claims/icd-2016-atlas-icecube-muon-comparison.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Embed research-community engagement: internships, guest lectures, and conference participation in a master's program](research-community-embedded-masters-program.md)
 
 ## Examples
 -

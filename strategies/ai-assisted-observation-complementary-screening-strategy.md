@@ -59,6 +59,7 @@ The article recommends positioning AI-assisted observation as a complement to, n
 - [Use customised LLM coding as a scalable first-pass for classroom dialogue analysis, with human review of low-reliability codes](llm-first-pass-dialogue-coding-with-human-review.md)
 - [Use ChatGPT-4.0 as an adjunct practice tool for medical applicants preparing for the AAMC SJT, with human judgment retained](chatgpt-4-adjunct-sjt-preparation-tool.md)
 - [Use the predictive model as a screening aid complementing existing academic monitoring, not as a deterministic evaluation tool](predictive-model-as-screening-aid-not-deterministic-tool.md)
+- [Use LLMs as learning supports offering immediate feedback and individualized learning experiences, not as replacements for human instruction](llms-immediate-feedback-individualized-support-physics.md)
 
 ## Examples
 -

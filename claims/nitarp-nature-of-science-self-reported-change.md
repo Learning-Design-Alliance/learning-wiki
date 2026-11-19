@@ -54,3 +54,4 @@ Self-report survey analysis of 74 NITARP educators (2010-2017 classes) at up to 
 - [About 40% of NITARP educators report that the experience changed their approach to learning, reflecting growing comfort with complex new concepts](nitarp-comfort-with-unknown.md) — related
 - [Teamwork and collaboration emerge as a powerful, previously unanticipated outcome of the NITARP research experience](nitarp-teamwork-powerful-motivator.md) — related
 - [NITARP educators report feeling more comfortable talking with scientists and speaking the language of science because of the experience](nitarp-educators-comfortable-with-scientists.md) — related
+- [Nature-of-science perceptions showed no statistically significant change after the astronomy program, but the majority of students' beliefs aligned with NOS tenets throughout](dsbk-nos-perceptions-unchanged-yet-aligned.md) — related

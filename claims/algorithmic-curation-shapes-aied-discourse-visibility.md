@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
-newest_evidence: 2025
+newest_evidence: 2026
 sources:
-  - id: bagale-2025
+  - id: bagale-2026
     resource: "https://doi.org/10.48550/arxiv.2607.12295"
-    title: "Bagale, A.; Mehjabin, N.; Ünlü, A.; Johri, A. (2025). A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data. https://arxiv.org/abs/2607.12295 [doi:10.48550/arxiv.2607.12295](https://doi.org/10.48550/arxiv.2607.12295)"
+    title: "Bagale, A.; Mehjabin, N.; Ünlü, A.; Johri, A. (2026). A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data. https://arxiv.org/abs/2607.12295 Originally published 2025. [doi:10.48550/arxiv.2607.12295](https://doi.org/10.48550/arxiv.2607.12295)"
     author: Bagale, A.; Mehjabin, N.; Ünlü, A.; Johri, A.
     q: 1
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q1 i?` The dominance of pedagogy and technical topics, and the small share of practical implementation concerns, may reflect algorithmic amplification and de-prioritization shaping who participates in AI education governance discussions. [→ Bagale 2025](#bagale-2025)
+`q1 i?` The dominance of pedagogy and technical topics, and the small share of practical implementation concerns, may reflect algorithmic amplification and de-prioritization shaping who participates in AI education governance discussions. [→ Bagale 2026](#bagale-2026)
 
 ## Evidence
 
-### Bagale 2025
+### Bagale 2026
 
-Bagale, A.; Mehjabin, N.; Ünlü, A.; Johri, A. (2025). A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data. https://arxiv.org/abs/2607.12295 [doi:10.48550/arxiv.2607.12295](https://doi.org/10.48550/arxiv.2607.12295)
+Bagale, A.; Mehjabin, N.; Ünlü, A.; Johri, A. (2026). A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data. https://arxiv.org/abs/2607.12295 Originally published 2025. [doi:10.48550/arxiv.2607.12295](https://doi.org/10.48550/arxiv.2607.12295)
 
 `q1 · i?` · `associational · r1`
 
@@ -60,3 +60,4 @@ The authors' interpretive discussion (not a tested result) linking topic distrib
 - [The AIED community shows two blind spots: disengagement from responsible AI debates and persistent focus on dominant learners under a deficit model.](aied-blind-spots-responsible-ai-dominant-learners.md) — related
 - [Optimistic Advocates view ChatGPT as a time-saving tool for storyboarding, content editing, and differentiating learning experiences](optimistic-advocates-time-saving-storyboarding-editing.md) — related
 - [Assessment tools may disproportionately favour technical skills because they are easier to measure, contributing to underrepresentation of relational competencies](assessment-tools-favour-measurable-technical-skills.md) — related
+- [Twitter users' concerns about ChatGPT in education converge on five frequently discussed categories: academic integrity, impact on learning outcomes and skill development, limitation of capabilities, policy and social concerns, and workforce challenges](chatgpt-education-five-concern-categories.md) — related

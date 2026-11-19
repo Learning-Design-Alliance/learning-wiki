@@ -71,3 +71,4 @@ ANCOVA on coded justification quality (number of relevant aspects mentioned; int
 - [ChatGPT biased information access toward solution-oriented artifacts over principle-oriented information](chatgpt-artifact-over-principle-bias.md) — related
 - [LLM-supported socio-scientific inquiry lowered cognitive load but produced lower-quality reasoning and argumentation than conventional search](llm-inquiry-lower-load-lower-reasoning.md) — a broader claim this one bears on
 - [ChatGPT and Google groups produced the most additional correct information beyond the sample solution; paper and video groups produced less](chatgpt-google-most-additional-information.md) — related
+- [Search engine users favoured preprocessing strategies while copy & paste was rare (3 uses)](search-engine-users-preprocessing-dominant.md) — related

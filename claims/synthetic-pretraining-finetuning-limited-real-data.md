@@ -49,3 +49,4 @@ Numerical experiment (Section 5.4.4, Figure 7) comparing TE+C fine-tuned from sy
 - [Fine-tuning VLMs on synthetic data from TURTLEAI-Datagen improves performance on TURTLEAI, raising symbolic success rates by over 10% over base counterparts](fine-tuning-synthetic-data-improves-turtleai.md) — related
 - [Fine-tuning on clean synthetic data yields limited gains on hand-drawn tasks, indicating limited robustness to out-of-distribution hand-drawn inputs](fine-tuning-limited-gains-hand-drawn-tasks.md) — related
 - [Fine-tuning primarily improves alignment between code generation and visual reasoning rather than visual understanding or spatial reasoning](fine-tuning-improves-code-reasoning-alignment.md) — related
+- [A fine-tuned BERT outperforms the leading tree-embedding baseline (TE+C) on algebra error classification without needing syntax trees](bert-outperforms-tree-embedding-error-classification.md) — related

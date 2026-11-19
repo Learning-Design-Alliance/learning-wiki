@@ -78,3 +78,5 @@ Same end-of-term survey (176 respondents). The article contrasts the two DP2 sub
 - [Students rated online learning quality positively, with Quality of Online Resources and Perceived Importance of Online Resources the highest Q-OLQ components](qolq-online-resources-quality-rated-highest.md) — related
 - [Students rated near-peer lectures and small-group seminars highly on relevance, delivery and tutor knowledge](near-peer-lecture-seminar-feedback-ratings.md) — related
 - [Students consider open-ended assignment grading fair but many find open-ended questions hard to answer](open-ended-assignments-fair-but-challenging.md) — related
+- [Students in a large statics lecture rated the individual exercise assignments positively, with perceived usefulness and usability above the scale mean](individual-exercise-assignments-positive-acceptance.md) — related
+- [Students rate the lecture component satisfactorily but with high variability](lecture-ratings-variable-3-7.md) — related

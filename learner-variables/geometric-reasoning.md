@@ -13,7 +13,7 @@ generated:
 # Geometric Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 56 claims (39 show a difference, 10 mixed, 7 no difference) · 36 studies (21 causal, 6 qualitative, 3 associational, 2 quant-synthesis, 2 theoretical, 1 review, 1 design), `q1`–`q3` · 5 of 36 report an effect size · 56 claims rest on one study
+> **Evidence** · 57 claims (40 show a difference, 10 mixed, 7 no difference) · 37 studies (21 causal, 6 qualitative, 3 associational, 2 quant-synthesis, 2 design, 2 theoretical, 1 review), `q1`–`q3` · 5 of 37 report an effect size · 57 claims rest on one study
 
 ## Description
 Geometric reasoning is the abstract thinking used to define shapes, analyse their properties and relationships, and argue about them; in the secondary grades it extends to formalising those arguments as written proofs. The Learner Variability Navigator notes that geometric knowledge gives concrete representations and models for abstract mathematical ideas, which can serve as an entry point to higher-order mathematical thinking. It is assessed with short geometry tasks that ask learners to explain their reasoning in writing or diagrams, which also reveal misconceptions, and with the geometry subtests of diagnostic batteries.
@@ -93,6 +93,7 @@ LVN follows it from grade 3 to grade 10. It is distinct from, but draws on, [spa
 - [BeeBot polygon activities support geometry learning through decomposition, embodied turn-taking, and mediating artifacts](../claims/beebot-polygon-activity-geometry-decomposition.md) [+W] — measured as an outcome of the instruction studied
 - [Algebra and geometry explain an additional 15% of variance in secondary-school mathematics achievement beyond arithmetic-based skills](../claims/algebra-geometry-add-15-percent-variance-math-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Most pupils correctly explain that parallel lines meet and triangle angles differ from 180 degrees on curved surfaces after the intervention](../claims/curved-surfaces-70-percent-correct-answers.md) [+M] — measured as an outcome of the instruction studied
+- [Year 7 Einsteinian gravity instruction conflicted with concurrent Euclidean geometry teaching, producing persistent confusion](../claims/year-7-euclidean-geometry-conflict-curved-space.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Geometry Tasks with Explanation** (e.g., Carroll, 1998): Short geometry tasks that elicit reasoning and argumentation through writing, diagrams, and other representations can be used to assess students' understanding and misconceptions of basic geometric properties while giving insight into students' thinking.

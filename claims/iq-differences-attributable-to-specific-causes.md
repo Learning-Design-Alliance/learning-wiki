@@ -71,3 +71,4 @@ Case analysis of Number 24, whose first IQ of 114 with wide scatter and a Doll S
 - [Moral factors were judged roughly four times as often as intellectual incapacity as the cause of laggards' failure](moral-over-intellectual-causes-of-failure.md) — related
 - [The question of the constancy of IQ is not settled; further studies with regular intervals and repeated tests of the same cases over a number of years are needed](iq-constancy-question-not-settled.md) — related
 - [Assessment records indicated some level 1 physics failures stemmed from non-submission of continuous assessment rather than intellectual capability, often because students were unaware deadlines existed.](continuous-assessment-nonsubmission-deadline-unawareness.md) — related
+- [Lack of knowledge and experience is often the main reason first-year students' self-efficacy is low](lack-knowledge-experience-lowers-self-efficacy.md) — related

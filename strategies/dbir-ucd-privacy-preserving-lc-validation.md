@@ -41,6 +41,7 @@ The article's application, testing, and validation strategy is to bring stakehol
 - [Secure enclaves for privacy-protecting researcher access to student-level data](secure-enclave-kinetic-data-access.md)
 - [Involve key stakeholders directly in defining privacy and designing LA systems](stakeholder-involvement-defining-privacy-la.md)
 - [Co-create contextualized AI literacy policies via multi-stakeholder task forces with phased roadmaps](co-create-ai-literacy-policies-task-forces.md)
+- [Use modern open data science tools, increasingly accessible via generative AI, to simplify handling of educational data in blended learning](open-data-science-tools-for-bl-data-management.md)
 
 ## Examples
 -

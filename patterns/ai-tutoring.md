@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 434 claims (191 for, 186 mixed, 57 against) · 298 studies (116 causal, 61 review, 39 design, 28 theoretical, 22 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 63 of 298 report an effect size · 418 claims rest on one study
+> **Evidence** · 436 claims (193 for, 186 mixed, 57 against) · 299 studies (117 causal, 61 review, 39 design, 28 theoretical, 22 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 63 of 299 report an effect size · 420 claims rest on one study
 
 ## Description and scope
 
@@ -306,6 +306,8 @@ Claims linked to this pattern that the model above does not use. All were read a
 - [ChatGPT assistance disproportionately benefits dental students with low spatial ability; high spatial ability learners show no significant difference between modes](../claims/chatgpt-benefits-low-spatial-ability-learners-most.md) [~W] — attached 2026-11-06 from Qiao J et al. (2025), which proposed "Integrate ChatGPT as a supplementary instructor into clinical skills teaching, with attention to answer accuracy and version choice".
 - [Korbit (full) showed higher course completion rates than both Korbit (no feedback) and the MOOC platform](../claims/korbit-full-higher-completion-rates.md) [+W] — attached 2026-11-19 from A New Era: Intelligent Tutoring Systems Will Transform Online Learning for Millions, which proposed "Combine problem-solving exercises with personalized feedback in online learning platforms to improve learning outcomes and engagement".
 - [Korbit (full) learning gains were around 92% higher than Korbit (no feedback) on raw gains, while the normalized-gain difference was smaller and not statistically significant](../claims/korbit-full-vs-no-feedback-raw-gains.md) [~W] — attached 2026-11-19 from A New Era: Intelligent Tutoring Systems Will Transform Online Learning for Millions, which proposed "Combine problem-solving exercises with personalized feedback in online learning platforms to improve learning outcomes and engagement"; tests this page's relationship.
+- [Students in the ChatGPT condition mistakenly assumed incorrect ChatGPT answers were correct (false positive rate 57%)](../claims/chatgpt-answer-overtrust-fpr-57-percent.md) [+W] — attached 2026-11-19 from Lars Krupp et al. (2023), which proposed "LLM-based educational support should inform students of model uncertainty and moderate interaction to encourage critical thinking"; tests this page's relationship.
+- [Copy & paste was the most used interaction strategy with ChatGPT, and 62% of final answers were extracted directly from ChatGPT](../claims/copy-paste-dominant-chatgpt-strategy.md) [+W] — attached 2026-11-19 from Lars Krupp et al. (2023), which proposed "LLM-based educational support should inform students of model uncertainty and moderate interaction to encourage critical thinking"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

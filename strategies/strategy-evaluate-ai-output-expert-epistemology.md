@@ -50,6 +50,7 @@ Faced with an AI that can pass an introductory physics course, the article recom
 
 - [Teach epistemology explicitly and use biologically authentic examples in physics for life-science students](teach-epistemology-explicitly-interdisciplinary.md)
 - [Assess students' epistemological beliefs at course entry and design classroom actions aimed at improving them, avoiding practices that reinforce equation-plugging](assess-epistemological-beliefs-design-improving-activities.md)
+- [Explicitly integrate ChatGPT into take-home assessments rather than banning or detecting it](explicitly-integrate-chatgpt-in-take-home-assessment.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Benchmark evaluation on GeoVAD-Bench comparing final-answer accuracy under three
 - [Step-linked visual grounding externalizes spatial reasoning: synchronized diagrams that reveal auxiliary lines step by step reduce split-attention effort](step-linked-visualization-externalizes-reasoning.md) — related
 - [Correct final answers are associated with stronger performance on all four process-level metrics, with reasoning-process correctness showing the clearest separation](process-metrics-separate-correct-incorrect-solutions.md) — related
 - [Viewpoint-aware spatial reasoning is a persistent bottleneck with poor calibration of spatial uncertainty](viewpoint-aware-spatial-reasoning-bottleneck.md) — related
+- [The GPT-4 contextualization system fails on geometry problems involving graphs, tables, or diagrammatic components](gpt4-contextualization-geometry-visual-limitation.md) — related

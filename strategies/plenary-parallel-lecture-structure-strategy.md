@@ -51,4 +51,4 @@ The report describes designing the ASP2022 program with plenary lectures for top
 -
 
 ## Key Sources
-- Assamagan, K. A., Acharya, B., Cecire, K., Darve, C., Ferroni, F., Gray, J. A., & Muronga, A. (2023). Activity Report on the Seventh African School of Fundamental Physics and Applications (ASP2022). arXiv. https://arxiv.org/abs/2302.13940
+- Assamagan, K. A., Acharya, B., Cecire, K., Darve, C., Ferroni, F., Gray, J. A., & Muronga, A. (2023). Activity Report on the Seventh African School of Fundamental Physics and Applications (ASP2022). arXiv. https://arxiv.org/abs/2302.13940. [doi:10.48550/arxiv.2302.13940](https://doi.org/10.48550/arxiv.2302.13940)

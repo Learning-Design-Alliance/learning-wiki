@@ -48,3 +48,4 @@ In the evaluation phase, 50 internship students were divided into two groups of 
 - [Fourth-year medical students taught with combined CBL and clinical pathway scored significantly higher on post-internship theoretical and skill tests than students taught traditionally](cbl-clinical-pathway-higher-postinternship-scores-gynecology.md) — related
 - [Mid-stake end-of-block assessment scores were significantly higher in the Kahoot!-gamified cardiovascular module than in the non-gamified respiratory module (median paired difference 4.89%, r = 0.31)](kahoot-gamified-module-higher-assessment-scores.md) — related
 - [Simulation training improves cardiac auscultation skills but shows no effect on respiratory auscultation skills](sbme-cardiac-not-respiratory-auscultation.md) — related
+- [No student failed in the three courses taught with the smartphone-app method](smartphone-app-method-no-failures.md) — related

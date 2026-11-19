@@ -49,3 +49,4 @@ Importance-performance map analysis with transformative learning experience as t
 - [U-shaped dynamics: partnership-vigilance and offloading-transformation relationships are convex, with benefits accelerating only beyond a threshold of engagement](u-shaped-thresholds-vigilance-offloading.md) — related
 - [Importance-performance mapping identifies behavioural intention as the strategic priority for raising teachers' GenAI digital competence](ipma-bi-strategic-priority-genai-competence.md) — related
 - [Design factors moderating AI's effect on learning matter only through whether they engage the learner's evaluation](design-factors-work-through-vigilance.md) — related
+- [IPMA total effects on learning outcomes range from -0.128 to 0.567, with technological integration the significant positive influence](negative-total-effects-learning-outcomes-ipma.md) — related

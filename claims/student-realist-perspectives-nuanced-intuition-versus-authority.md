@@ -53,3 +53,4 @@ Post-instruction interview study with nineteen students from modern physics cour
 - [Teachers' tendency to seek coherence between their intuitions and known correct answers was a key epistemological resource enabling their progress](coherence-seeking-epistemological-resource.md) — related
 - [Most students hold mixed rather than consistent quantum or realist perspectives on measurement and uncertainty across multiple contexts.](mixed-quantum-realist-perspectives-majority.md) — related
 - [The author argues that learning quantum mechanics is difficult and counter-intuitive and is much like learning a new language requiring solid mastery before fluency](learning-quantum-mechanics-like-learning-a-language.md) — related
+- [Students reported mixed effects on familiarity: five found quantum less weird or mysterious, others unchanged or more mysterious](familiarity-weirdness-mixed-outcomes.md) — related

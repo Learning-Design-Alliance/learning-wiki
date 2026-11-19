@@ -43,6 +43,7 @@ The resource letter closes each topic section with concrete recommendations for 
 - [Researchers should weigh goals and resources when choosing between GAIQ and individual interviews](choose-data-collection-by-goals-and-resources.md)
 - [When selecting mathematics assessments, choose one of the overlapping tests matched to your population and never mix tests across pre- and post-testing](choose-one-math-assessment-no-mix-and-match.md)
 - [Match beliefs and self-efficacy survey choice to purpose: CLASS for quick broad measurement, SOSEC-P for detailed self-efficacy, PSEQ for short combined use](match-beliefs-self-efficacy-survey-to-purpose.md)
+- [Mix and match assessment activities and forms for better coverage of students' understanding of computation](multiple-assessment-methods-computation.md)
 
 ## Examples
 -

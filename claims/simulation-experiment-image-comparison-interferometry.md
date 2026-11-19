@@ -47,3 +47,4 @@ Authors' report in the conclusions of a design-and-development paper: hand-on ex
 ## Related Claims
 - [The authors report the feasibility and potential of a remotely available educational website on laser interferometry for heat transfer experiments](remote-interferometry-website-feasibility.md) — related
 - [The simulator's automatic plane rating shows a high false-rejection rate: 268 obtained images required expert reevaluation, of which only 32 were clinically insufficient](simulator-rating-discrepancy-268-reevaluated.md) — related
+- [VisualPDE results were validated against published results and the authors' own finite difference, spectral, and finite element implementations, including equations with analytical solutions](visualpde-validation-against-analytical-solutions.md) — related

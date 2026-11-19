@@ -64,3 +64,4 @@ The primer reports this as a theoretical account attributed to Leenknecht et al.
 - [The article attributes Sim + LBL's effectiveness to cognitive and motivational processes consistent with Self-Determination Theory](sdt-explanation-sim-lbl-effectiveness.md) — related
 - [Game based learning activities meet four player-activity requirements—students' goals, autonomy, competence, and relatedness—to foster autonomous motivation](four-requirements-autonomous-motivation-dgbl.md) — related
 - [Interview data from research-participating physics students contained three distinct motivations for doing research, aligned with SDT's autonomy, competence, and relatedness dimensions](three-research-motivations-sdt-alignment.md) — related
+- [Self-determination theory needs of competence, relatedness, and autonomy drive participants' motivation to engage in DBER](sdt-needs-drive-dber-motivation.md) — related

@@ -64,3 +64,4 @@ Document analysis of IT and security unit guidance across the 50-institution cor
 - [Multi-platform comparison without exchanging data addresses privacy and data security concerns](multi-platform-comparison-avoids-data-exchange-privacy.md) — a narrower finding that bears on this claim
 - [Patients are more concerned about AI tool accuracy and data privacy than about tool explainability](patients-prioritize-accuracy-privacy-over-explainability.md) — related
 - [Patient privacy is at risk in the WeChat–PBL model and requires explicit protective measures](wechat-pbl-patient-privacy-risk.md) — related
+- [AI use in classrooms carries confabulation, bias, privacy, and instructional risks that require active management](four-classroom-ai-risks.md) — related

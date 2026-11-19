@@ -54,3 +54,4 @@ The review reports, citing Swidan et al. (2019), a dual effect of real-time aler
 - [Learning analytics interventions for study success include alerts enabling teachers to give more individual attention, peer-to-peer communication facilitation, and recommendations for adaptive learning materials](la-interventions-alerts-peer-adaptive.md) — related
 - [The review reports that a real-time reading analytics system helped teachers adapt their teaching to students' needs](real-time-analytics-helped-teachers-adapt.md) — related
 - [Feedback devices improved pediatric resuscitation quality but increased subjective workload and shifted visual attention away from the patient](feedback-devices-increase-workload-shift-attention.md) — related
+- [Focus group participants identified attention switches and cognitive overload from caption designs as key disruptions, with needs depending on situation and learner](focus-group-caption-disruption-requirements.md) — related

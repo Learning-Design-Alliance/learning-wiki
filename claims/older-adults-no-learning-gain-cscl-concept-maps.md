@@ -71,3 +71,4 @@ Within-group analysis in the Findings section: younger adults' medians rose from
 - [Older adults produce fewer specific responses than younger adults in the generation task across both experiments](aging-fewer-specific-responses-generation.md) — related
 - [Concept-map generation requires age-appropriate instructional support: younger learners profit from high-coherence, pre-structured maps](concept-mapping-support-age-interaction.md) — related
 - [Older age is associated with lower knowledge revision scores, with each additional year predicting a 0.04-unit reduction](age-negative-predictor-knowledge-revision.md) — related
+- [Older players show higher posttest and transfer scores, suggesting the game fosters learning more for older students](newtons-race-age-positive-correlation-posttest.md) — reports the opposite

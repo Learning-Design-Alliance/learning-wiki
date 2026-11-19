@@ -188,3 +188,4 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [The author identifies five barriers to teaching climate change: knowledge pollution, inter/transdisciplinarity, psychological barriers, onto-epistemological barriers, and faculty/institutional barriers](five-barriers-climate-pedagogy.md) — related
 - [Lack of methodical support and low teacher awareness of computer modeling hinder students' competence formation](low-teacher-awareness-cmods-hinders-competence.md) — related
 - [85% of German physics teachers participated in at least one professional development program within two years, but non-participants report organizational barriers and disappointing experiences](german-pd-participation-and-barriers.md) — related
+- [The representation matters facilitator persona needs autonomy support: funding, institutional buy-in, and infrastructure for informal physics](tracy-representation-matters-needs.md) — related

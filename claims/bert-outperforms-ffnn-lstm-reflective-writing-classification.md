@@ -95,3 +95,5 @@ The full fine-tuned BERT model was fit to held-out test data (20% of the dataset
 - [BERT-FYBIO, which uses post text plus annotated reading context, significantly outperforms a Bi-LSTM baseline for emoji prediction](bert-fybio-outperforms-bilstm.md) — a narrower finding that bears on this claim
 - [Fine-tuning the discourse classifier on RST-DT-style segments reconciles the PDTB–RST framework mismatch and raises accuracy from 65.7% to 81.1%](rst-style-finetuning-raises-relation-accuracy.md) — related
 - [A BERT-representation logistic regression entity recognizer reached precision 0.84, recall 0.82 and F1 0.83 on the mathematical questioning dataset](bert-logistic-regression-entity-recognition-performance.md) — related
+- [A BERT-based model grades reflective level in English and German essays with a quadratic weighted kappa of 0.71](papagai-bert-reflective-level-qwk-071.md) — related
+- [Fine-tuned ELECTRA classifies Gibbs cycle phases in reflective sentences, with top-3 predictions reaching up to 98% F1](papagai-electra-gibbs-cycle-top3-f1-098.md) — related

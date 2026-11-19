@@ -40,6 +40,7 @@ The paper recommends that researcher-practitioner collaboration proceed by "coll
 
 - [Use psychology findings to select engagement metrics and intervention versions for a target course outcome such as retention](psychology-informed-intervention-selection-strategy.md)
 - [Run PDSA cycles in which researcher-practitioner teams test modified assignments against as-is versions across multiple classrooms](pdsa-assignment-modification-testing-strategy.md)
+- [Organize the Landau-Zener project as team-based comparison of alternative computational approaches](team-based-comparison-landau-zener-project.md)
 
 ## Examples
 -

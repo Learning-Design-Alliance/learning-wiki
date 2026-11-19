@@ -52,6 +52,8 @@ The article recommends that physics departments direct equity and inclusion effo
 - [Promote a Growth Mindset](promote_a_growth_mindset.md)
 - [Use brief social-psychological classroom interventions (e.g., belonging and mindset interventions) to raise women's belonging, self-efficacy, confidence and interest in physics](brief-belonging-mindset-interventions-physics.md)
 - [Frame physics as a science that benefits society to boost female students' engagement](frame-physics-as-benefiting-society-strategy.md)
+- [Boost learner confidence with growth mindset framing, early wins, and partially completed code](confidence-growth-mindset-madlibs-code.md)
+- [Adopt inclusive, non-lecture pedagogical practices and group-based problem solving in undergraduate physics](inclusive-non-lecture-physics-pedagogy-strategy.md)
 
 ## Examples
 -

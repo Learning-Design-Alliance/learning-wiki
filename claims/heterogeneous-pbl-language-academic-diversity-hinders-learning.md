@@ -71,3 +71,4 @@ Facilitator focus group (11 facilitators, second round cancelled): stronger stud
 - [Mixed PBL tutorial groups enhance students' interaction across diverse boundaries](heterogeneous-pbl-groups-enhance-cross-boundary-interaction.md) — related
 - [Unequal social status in heterogeneous PBL groups disempowers students and hinders participation and productivity](heterogeneous-pbl-status-inequality-hinders-participation.md) — possibly the same claim (merge candidate)
 - [Heterogeneous PBL group learning serves as a transformative academic development tool, including for ESL students](heterogeneous-pbl-transformative-academic-development.md) — reports the opposite
+- [Most physics majors believed professors' pedagogical choices hindered their learning](pedagogical-choices-hinder-physics-learning.md) — related

@@ -56,3 +56,4 @@ Exploratory cross-tabulation (visualized as a heatmap in Fig. 1) of regulatory a
 - [Factor 1 student teachers were confident self-reliant GenAI users who showed limited ethical awareness and reflective practices](f1-self-reliant-limited-ethical-awareness.md) — related
 - [Post-test ethical-dimension results are non-uniform: 47% on respecting users in the network, 40% on privacy protection and 30% on knowledge of differences](dca-post-ethical-dimension-profile.md) — related
 - [Awareness of pre-notification policies is strongly associated with consistent pre-notification behaviour](pre-notification-policy-awareness-behaviour-link.md) — related
+- [Four students prompted NLG tools without a clear understanding of when or why to do so (unawareness of rules theme)](unawareness-of-rules-theme.md) — related

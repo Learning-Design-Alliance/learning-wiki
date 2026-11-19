@@ -67,3 +67,4 @@ Mann-Whitney U inter-model comparison of explanation length for the same corpus,
 ## Related Claims
 - [ChatGPT-4o achieves higher final-attempt accuracy than Gemini 1.5 Pro on ophthalmology MCQs, significantly in English but not in Turkish](chatgpt4o-outperforms-gemini-ophthalmology-mcq-final-attempt.md) — related
 - [No statistically significant interlingual variation for either chatbot answering the same questions in Turkish versus English](no-interlingual-variation-chatbot-ophthalmology-mcq.md) — related
+- [AI-generated code examples are shorter than student-generated code, while AI explanations are longer than student explanations](ai-code-shorter-explanations-longer-than-students.md) — related

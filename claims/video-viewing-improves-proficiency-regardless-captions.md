@@ -53,3 +53,4 @@ The study found that "positive effects of viewing the instructional videos were 
 - [Full captions significantly improved EFL learners' general listening comprehension from pre-test to post-test](full-captions-improve-listening-comprehension.md) — related
 - [Keyword captions significantly improved EFL learners' general listening comprehension from pre-test to post-test](keyword-captions-improve-listening-comprehension.md) — related
 - [The four groups were homogeneous in general English proficiency before treatment (placement-test ANOVA sig .881)](groups-homogeneous-placement-test.md) — related
+- [Caption type produced no differences in vocabulary recall scores, with clear ceiling effects in the tested vocabulary](no-vocabulary-recall-differences-ceiling-effects.md) — related

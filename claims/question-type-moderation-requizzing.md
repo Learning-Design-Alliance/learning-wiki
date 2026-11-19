@@ -69,3 +69,4 @@ Post hoc regression predicting the free-response subscore (63/100 points) of the
 - [Preparation-by-re-quizzing interactions do not significantly improve the posttest model](no-posttest-preparation-interaction.md) — related
 - [Delayed re-quizzing benefits final exam performance more for students who previously struggled in General Chemistry I](requizzing-benefit-lower-chemistry-students.md) — related
 - [Students who did not prepare specifically for the exam scored significantly lower than prepared students (d=0.27)](unprepared-students-score-lower-osce-d-027.md) — related
+- [Higher prior preparation raises accuracy overall but does not disproportionately help students on CMC questions](prior-preparation-no-disproportionate-cmc-benefit.md) — related

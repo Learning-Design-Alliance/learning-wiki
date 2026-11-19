@@ -51,3 +51,4 @@ Think-aloud study with a pre- and post-test, 20 participants each taking part fo
 - [In a prior comparative evaluation, gamified phishing-detection modules produced better learning effects than Mimecast training](gamified-modules-beat-mimecast-phishing.md) — related
 - [The mobile game is somewhat effective in enhancing the user's phishing awareness](mobile-game-somewhat-effective-phishing-awareness.md) — a broader claim this one bears on
 - [Usually 56.04 percent of phishing attacks contain some form of target name in the URL, so end-user phishing URL awareness should be considered to combat phishing threats](phishing-urls-contain-target-name.md) — related
+- [Students playing the updated PING-integrated Gridlock showed greater pre-test to post-test improvement than students playing the prior PING-integrated version](updated-gridlock-greater-gains-than-prior-version.md) — related

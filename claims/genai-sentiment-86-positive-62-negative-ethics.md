@@ -54,3 +54,4 @@ Sentiment analysis component of the mixed-methods study of 112 student reflectio
 - [Both writing-based and AI-based alternative-ending activities motivated students, though with distinct concerns in each group](alternative-ending-tasks-motivated-both-groups.md) — related
 - [Open feedback on Ethics Quarter content is overwhelmingly positive (99% of 71 responses)](ethics-quarter-open-feedback-99-percent-positive.md) — related
 - [Sentiment analysis of open-ended SALG responses showed positive sentiments more abundant than negative in all years, with a higher positive proportion in the latter two years](ibis-sentiment-positive-trigrams-increased.md) — related
+- [STEM and non-STEM students did not differ in sentiment toward using ChatGPT in collaborative interdisciplinary learning](chatgpt-sentiment-no-discipline-difference.md) — related

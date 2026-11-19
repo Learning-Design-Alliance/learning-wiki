@@ -54,3 +54,4 @@ The review reports, citing Foster (2000), that students taught with context-rich
 - [Emphasizing scientific modeling as a shared practice helps students achieve an integrated understanding across physics and biology](modeling-shared-practice-bridges-physics-biology.md) — related
 - [Active engagement is linked to better outcomes in undergraduate STEM classrooms and to improved K-12 teacher practice in professional development](active-engagement-linked-to-learning-outcomes.md) — related
 - [Teaching the process of science rather than factual knowledge better prepares undergraduates for diverse careers (author's argued position)](process-over-facts-science-curriculum.md) — related
+- [Scaffolding improves student performance across many contexts, including quantum physics and cooperative settings](scaffolding-improves-performance-qist.md) — a broader claim this one bears on

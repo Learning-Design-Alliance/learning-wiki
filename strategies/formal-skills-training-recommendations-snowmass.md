@@ -53,6 +53,7 @@ The article recommends that physics programs replace inadequate informal skill a
 - [Institutional-level actions to improve astronomers' statistical training: add applied statistics courses, create cross-disciplinary venues, make joint hires, and reward interdisciplinary work](institutional-astrostatistics-training-actions.md)
 - [Present undergraduates a realistic view of particle physics career paths](undergrad-realistic-career-paths.md)
 - [Educators should expose students to accurate depictions of physics careers and underemphasized skills such as interdisciplinary communication and computational problem-solving](accurate-career-depictions-career-decision-strategy.md)
+- [Embed research-community engagement: internships, guest lectures, and conference participation in a master's program](research-community-embedded-masters-program.md)
 
 ## Examples
 -

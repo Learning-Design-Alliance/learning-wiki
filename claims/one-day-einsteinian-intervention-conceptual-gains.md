@@ -55,3 +55,4 @@ Pre/post comparison of 103 gifted and talented students from Years 7-10 after a 
 - [A four-lesson Year 10 program on Einsteinian concepts underlying gold synthesis improved conceptual understanding, with girls' improvement exceeding boys'](year10-gold-program-gains-gender.md) — related
 - [A ten-week Einsteinian physics program dramatically improved Year 9 students' conceptual understanding, with average class scores rising from 23% to 91%](year9-einsteinian-program-conceptual-gains.md) — related
 - [Year 3 students (ages 7-8) demonstrated substantial uptake of Einsteinian physics concepts after a nine-lesson intervention](year-3-students-learn-einsteinian-concepts.md) — related
+- [Teacher-delivered Einstein-First modules across Years 3–10 produced substantial knowledge gains in pre/post tests](einstein-first-trials-substantial-knowledge-gains.md) — related

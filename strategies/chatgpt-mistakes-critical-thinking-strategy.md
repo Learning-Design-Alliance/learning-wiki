@@ -49,6 +49,7 @@ The article recommends integrating ChatGPT into teaching and learning instead of
 - [Train teachers in prompt engineering, evaluating AI-generated responses, ethical and privacy considerations, and integrating AI outputs into pedagogical decision-making](teacher-training-ai-tools-prompt-evaluation-ethics.md)
 - [Integrate AI literacy and critical appraisal skills into dental curricula alongside discipline-specific AI validation](ai-literacy-critical-appraisal-dental-curricula-strategy.md)
 - [Embed AI as a learning partner and redesign assessments for AI-rich contexts](ai-learning-partner-assessment-redesign-strategies.md)
+- [Explicitly integrate ChatGPT into take-home assessments rather than banning or detecting it](explicitly-integrate-chatgpt-in-take-home-assessment.md)
 
 ## Examples
 -

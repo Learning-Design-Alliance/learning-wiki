@@ -50,3 +50,5 @@ Matched pre-/post-test data from three calculus-based introductory physics class
 - [Student-designed tutorials produced large normalized learning gains in introductory physics students](student-tutorials-hake-gain-0-8.md) — related
 - [Students in calculus-based introductory physics improved from 28% pre-test to 50% post-test on a 30-item magnetism diagnostic but still struggled after instruction](magnetism-diagnostic-pre-post-gains.md) — related
 - [In introductory physics, PER disproportionately relies on students in the calculus-based course](per-overrelies-on-calculus-based-course.md) — related
+- [Most physics students transitioned from level 1 to level 3 of the cognitive framework after the Coulomb's law activity](physics-students-progress-level-1-to-level-3-coulomb.md) — related
+- [Students who used a guided-inquiry tutorial on superposition with Gauss's law significantly outperformed comparison students on post-test questions (p < 0.001)](superposition-gauss-law-tutorial-improves-post-test.md) — a narrower finding that bears on this claim

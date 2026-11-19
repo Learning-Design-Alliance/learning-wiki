@@ -19,7 +19,7 @@ sources:
 # NCTE Transcript dataset
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 associational, 1 design), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 A publicly available dataset of U.S. fourth- and fifth-grade elementary mathematics classroom transcripts aligned with 7.5-minute segments and linked to Mathematical Quality of Instruction observation scores.
@@ -29,10 +29,12 @@ A publicly available dataset of U.S. fourth- and fifth-grade elementary mathemat
 - **NCTE Transcript dataset of elementary mathematics classrooms linked with MQI observation scores**: The NCTE dataset is described as "the largest publicly available dataset of U.S. classroom transcripts linked with classroom observation scores." It consists of 1,660 fourth- and fifth-grade elementary mathematics observations collected between 2010-2013 from 317 teachers across 4 school districts serving largely historically marginalized students. The authors aligned whole-class transcripts with 7.5-minute MQI observation segments, yielding 9,886 segments each rated on 11 MQI variables across four dimensions of math instruction quality. (Paiheng Xu et al. (2024))
 - **NCTE Main Study dataset of classroom observations with expert ratings and value-added measures**: The National Center for Teacher Effectiveness (NCTE) Main Study dataset provides the study's core data. The article states it "comprises ob- servations of roughly 350 4th and 5th-grade math- ematics teachers across four U.S. school districts." It is described as one of only two educational datasets containing measures of teaching practice, authentic classroom artifacts, and student learning outcomes at scale (VAMs). The study used anonymized transcripts of video-recorded lessons from its test set, rated by 63 MQI raters and 19 CLASS raters with rigorous certification and continual calibration. (Michael Hardy (2026))
 - **Expert-annotated dataset of 2246 student-teacher exchanges for uptake**: A publicly released dataset of 2246 student-teacher utterance pairs sampled from 55k pairs extracted from 4th and 5th grade elementary math classroom transcripts collected by the NCTE between 2010-2013, each labeled low/mid/high for uptake by three domain-expert raters. The authors report that "Inter-rater agreement for uptake is Spearmanρ=.474 (Fleiss κ=.2864)", which they note is comparable to widely-used classroom observation protocols such as MQI and CLASS. Code and annotated data are released on GitHub. (Dorottya Demszky et al. (2021))
+- **NCTE transcript dataset of elementary math classroom observations with linked outcome variables**: A publicly released dataset of "1,660 45-60 minute long 4th and 5th grade elementary mathematics observations" collected by the National Center for Teacher Effectiveness between 2010-2013, anonymized and covering 317 teachers across 4 school districts serving largely historically marginalized students. It is linked to turn-level discourse annotations, CLASS and MQI observation scores, teacher and student questionnaires, administrative data and value-added scores. The dataset is available at the article's GitHub repository. (Dorottya Demszky et al. (2022))
 
 ### Claims
-
 - [Fine-tuned PLMs outperform prompted LLMs in rubric-based teaching quality scoring accuracy, while LLMs better preserve score variability](../claims/plms-outperform-llms-qof-scoring-accuracy.md) [+W]
+- [All classifier-predicted discourse features correlate significantly with classroom observation scores measuring instruction quality and classroom climate](../claims/discourse-features-correlate-observation-scores.md) [+M]
+- [Dialogic discourse moves (uptake, focusing questions, student reasoning) correlate positively with teachers' value-added scores](../claims/dialogic-moves-correlate-value-added.md) [+M]
 
 ## Related Products and Programmes
 
@@ -48,6 +50,7 @@ A publicly available dataset of U.S. fourth- and fifth-grade elementary mathemat
 <!-- merged 2026-10-10 from elements/ncte-transcript-dataset-mqi ("NCTE Transcript dataset of elementary mathematics classrooms linked with MQI observation scores"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Michael Hardy, Yunsung Kim. (2026). Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact. arXiv. https://arxiv.org/abs/2603.00883
 - Dorottya Demszky, Jing Liu, Zid Mancenido, Julie Cohen, Heather Hill, Dan Jurafsky, Tatsunori Hashimoto. (2021). Measuring Conversational Uptake: A Case Study on Student-Teacher Interactions. https://arxiv.org/abs/2106.03873
+- Dorottya Demszky and Heather Hill. (2022). The NCTE Transcripts: A Dataset of Elementary Math Classroom Transcripts. https://arxiv.org/abs/2211.11772
 
 # NCTE Transcript dataset of elementary mathematics classrooms linked with MQI observation scores
 

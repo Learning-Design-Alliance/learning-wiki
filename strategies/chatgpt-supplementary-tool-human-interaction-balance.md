@@ -44,6 +44,7 @@ The article recommends integrating ChatGPT into the classroom as a supplementary
 - [Train teachers in prompt engineering, evaluating AI-generated responses, ethical and privacy considerations, and integrating AI outputs into pedagogical decision-making](teacher-training-ai-tools-prompt-evaluation-ethics.md)
 - [Scaffolded AI integration with teacher training and reflective tasks to reduce over-reliance](scaffolded-ai-integration-teacher-training-reflective-tasks.md)
 - [Implement AI-peer integrated feedback as a standardized two-phase revision cycle with rubric-aligned prompting and instructor monitoring](ai-peer-integrated-feedback-cycle-strategy.md)
+- [Rather than prohibiting ChatGPT, educators can allow classroom use and facilitate dialogue about its benefits and drawbacks](chatgpt-classroom-dialogue-not-prohibition.md)
 
 ## Examples
 -

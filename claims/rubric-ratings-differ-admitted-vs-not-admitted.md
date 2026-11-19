@@ -49,3 +49,4 @@ Observational analysis of faculty rubric ratings for 321 domestic applicants to 
 - [The authors interpret their modeling results as evidence that rubric-based holistic review could make physics graduate admissions more equitable](rubric-holistic-review-could-increase-equity.md) — related
 - [Models built from faculty rubric ratings also failed to reach acceptable predictive performance, with physics GRE score and quality of work the meaningful features](rubric-rating-data-unmodelable.md) — related
 - [Faculty rarely used the low rubric level for research, noncognitive, and fit constructs while using all three levels for academic preparation and test scores](rubric-low-level-rarely-used-qualitative-constructs.md) — related
+- [Kolmogorov-Smirnov tests on whole distributions of UGPA and GRE scores did not detect a change in the admitted applicant populations](ks-test-missed-admissions-distribution-change.md) — related

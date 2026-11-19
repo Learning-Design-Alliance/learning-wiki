@@ -70,3 +70,5 @@ The review attributes to Rainey et al. (2018) the finding that "racially margina
 - [Students identify diverse reasons why representation in STEM matters, spanning nine common themes](notecard-activity-representation-themes.md) — related
 - [Societal stereotypes, strongest in physics, contribute to lower sense of belonging for women and ERM students in physics](stereotypes-lower-belonging-women-erm-physics.md) — a narrower finding that bears on this claim
 - [TEAM-UP attributes success or failure of Black students in physics to belonging, physics identity, academic support, financial support, and leadership and structures](team-up-factors-black-student-success-physics.md) — related
+- [Living at the intersection of multiple underrepresented identities compounded physics majors' lack of belonging](intersectional-uris-compound-lack-of-belonging.md) — a narrower finding that bears on this claim
+- [Sense of belonging experiences, such as encouragement and exclusion, shape students' interest in a method](sense-of-belonging-shapes-method-interest.md) — related

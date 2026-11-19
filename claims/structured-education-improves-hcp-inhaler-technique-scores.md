@@ -53,3 +53,5 @@ Wilcoxon tests comparing questionnaire scores at 0 and 12 months across all 20 p
 - [Inhaler technique with a mouthpiece improved significantly in all health care professional groups, including nurses](mouthpiece-technique-improved-all-hcp-groups.md) — related
 - [Most professionals prefer reviewing inhalation technique over changing the device when patients report difficulties](review-technique-before-changing-device-preference.md) — related
 - [Professionals rank previous experience, severity and patient preference as the main criteria for choosing a COPD inhaler](inhaler-selection-criteria-experience-severity-preference.md) — related
+- [Incorrect inhalation technique is related to uncontrolled asthma symptoms, and most healthcare professionals cannot educate patients in correct technique](incorrect-inhalation-uncontrolled-symptoms.md) — related
+- [The planned study measures symptom control, quality of life, and inhalation-technique execution at baseline and 3-month follow-up](planned-outcome-measures-inhalation-adherence.md) — related

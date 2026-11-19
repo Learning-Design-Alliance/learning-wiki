@@ -49,3 +49,4 @@ Logistic and log-linear regression analyses of 2119 problems found both features
 - [Angle between vectors significantly impacts correctness but not response time on non-physics forward reasoning problems](angle-significant-correctness-not-response-time.md) — related
 - [Parallel transport features (Tails and Separation) have little impact on cross product problems unlike vector addition and subtraction](parallel-transport-little-impact-cross-products.md) — related
 - [Backward reasoning problems are significantly more difficult than forward reasoning problems on cross product direction questions](backward-reasoning-harder-than-forward-cross-product.md) — related
+- [Post-tests of the Maths of Arrows module show nearly 100% of students understood vectors and vector addition, and nearly 90% correctly used the right-hand rule for spin vectors](meu-vectors-phasors-post-test.md) — related

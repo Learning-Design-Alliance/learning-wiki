@@ -66,3 +66,4 @@ Analysis of self-reported reading skill against enjoyment of the game in the sam
 ## Related Claims
 - [Player perceptions of the game show statistically significant but very small positive associations with the highest game level reached (ρ = 0.08 for enjoyment; ρ = 0.05 for humor and for liking Jo)](small-correlations-attitudes-max-level.md) — related
 - [Players who completed the game reported enjoying the game more and finding it more humorous, but completion was not significantly associated with liking Jo](completion-associated-with-enjoyment-and-humor.md) — related
+- [Players increasingly choose the physically correct force setting (F=0N) as they progress through the game's key levels](newtons-race-gameplay-shift-toward-correct-setting.md) — related

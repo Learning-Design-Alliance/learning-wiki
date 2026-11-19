@@ -68,3 +68,4 @@ Three brief informal-prompt tests, e.g. a toddler's toy trucks pushed off a tabl
 - [GPT-4o sometimes selects correct answers with flawed reasoning and answers inaccuracies in an authoritative tone, risking user overconfidence](llm-flawed-reasoning-authoritative-tone.md) — related
 - [Student explanations of projectile motion questions can reflect valid causal pathways in the canonical network even when the reasoning is not generally correct](lower-angle-less-time-valid-causal-pathway.md) — related
 - [Introductory students overlooked the similarity between isomorphic friction and tension problems: 28% correct on the friction problem versus 72% on the tension problem](isomorphic-friction-tension-overlooked-similarity.md) — related
+- [Question keywords correlate with GPT-4 scores: mathematical terms with lower scores, 'explain' with higher, and 'sketch' showing the strongest negative correlation](keyword-correlations-gpt4-physics-scores.md) — related

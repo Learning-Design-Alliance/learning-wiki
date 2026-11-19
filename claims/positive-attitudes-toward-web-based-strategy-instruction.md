@@ -54,3 +54,4 @@ Open-ended attitude questionnaire (adopted from Soonthornmanne, 2002, and slight
 - [Experimental participants report positive attitudes toward timed reading, citing better concentration, confidence, and motivation to read more](timed-reading-positive-attitudes.md) — related
 - [Participants in the experimental group held positive attitudes toward contemplative and transformative L2 instruction](positive-attitudes-contemplative-instruction.md) — related
 - [VSG students reported predominantly positive views of the game, with technical glitches the most common criticism](vsg-student-opinions-positive-with-technical-glitches.md) — a narrower finding that bears on this claim
+- [Students held uniformly positive attitudes toward learning programming early, and these views persisted or improved after instruction](positive-attitudes-programming-persist.md) — related

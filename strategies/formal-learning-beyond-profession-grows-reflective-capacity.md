@@ -42,7 +42,8 @@ Given faculty scores near the center of the epistemic scale and a gap relative t
 - [Rjm Seven Stage Epistemic Framework](../theories/rjm-seven-stage-epistemic-framework.md)
 
 ## Related Strategies
-- 
+
+- [Propose a liberal arts course on mathematical modeling for sustainability for students from diverse academic backgrounds](liberal-arts-course-modeling-sustainability.md)
 
 ## Examples
 -

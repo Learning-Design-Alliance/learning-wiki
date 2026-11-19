@@ -69,6 +69,7 @@ The model combines two well-supported mechanisms: shifting passive content deliv
 - [Assign empirically tested animation-based learning modules as out-of-class preparation to free class time for active learning](assign-animation-modules-as-preclass-preparation.md)
 - [SOLE sessions structure self-organized collaborative inquiry in fixed 60-minute blocks](sole-60-minute-session-structure-strategy.md)
 - [Provide pre-class materials (videos, slides, modules, worksheets) with assessment, then use class time for interactive individual and group activities with the teacher as facilitator](fcp-preclass-materials-inclass-interactive-activities.md)
+- [Use a wide range of instructional techniques—lectures, animations, readings, problem solving, discussion, and essays—over a multi-week online program](multi-technique-quantum-teacher-program-strategy.md)
 
 ## Examples
 - **Process-Oriented Guided Inquiry Learning (POGIL)** — [https://pogil.org](https://pogil.org) — students complete pre-class preparation, then work in role-assigned teams on guided-inquiry worksheets; widely used in undergraduate chemistry

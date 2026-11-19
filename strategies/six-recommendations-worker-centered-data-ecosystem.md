@@ -47,6 +47,7 @@ The report's Next Steps section lists six actions to 'move toward a more data-dr
 - [Four ecosystem recommendations: experiment with currency forms, protect time for inquiry, include everyone in team learning, and invest in adaptive platforms](four-micro-credential-ecosystem-recommendations.md)
 - [Three strategic actions: build awareness of underrepresentation, invest in accessible pathways, and prioritize retention strategies](three-strategic-actions-tech-equity.md)
 - [Next-step implementation plan: collaboration, accountability with metrics, and bold steps sourcing ideas from lived experience](toc-implementation-collaboration-accountability.md)
+- [Advocate equal opportunities, inclusion, and diversity when developing a cutting-edge quantum curriculum](inclusion-diversity-in-quantum-curriculum-development.md)
 
 ## Examples
 -

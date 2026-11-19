@@ -55,3 +55,4 @@ Authors' theoretical interpretation, drawing on self-determination theory, of wh
 - [Instructional approach operates indirectly through autonomy and competence, while task type operates primarily through autonomy](differentiated-mediation-autonomy-competence.md) — related
 - [Formative assessment is theorized to foster motivation by supporting autonomy, competence, and relatedness](formative-assessment-fosters-motivation-autonomy-competence-relatedness.md) — related
 - [Experts agreed that literacy motivation and engagement are fostered through offering children choices in reading and writing](experts-agree-choice-fosters-motivation-engagement.md) — related
+- [Self-determination theory needs of competence, relatedness, and autonomy drive participants' motivation to engage in DBER](sdt-needs-drive-dber-motivation.md) — related

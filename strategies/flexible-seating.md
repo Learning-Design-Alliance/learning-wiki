@@ -81,6 +81,7 @@ Flexible seating is an environmental expression of learner autonomy: it delegate
 - [Active Learning](../principles/active-learning.md) — flexible seating removes the physical barrier that fixed rows impose on interaction
 - [Check-Ins](../elements/check-in.md) — the reflection routine that converts seating choice into a self-regulation lesson
 - [Use standing desks for at least 1 hour per school day with teacher reminders and direct-feedback self-monitoring](standing-desk-daily-hour-strategy.md)
+- [Remove normative social demands: flexible attendance, autonomy, and no forced disclosure](asociality-flexible-classroom-structures-strategy.md)
 
 ## Examples
 - **Edutopia's flexible classroom profiles** ([edutopia.org](https://www.edutopia.org)) document K–12 implementations where teachers report increased participation and learners articulating which environments support which tasks.

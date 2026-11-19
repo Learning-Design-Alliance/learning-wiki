@@ -91,3 +91,4 @@ This is a single-case ethnography; every finding here describes one student's tr
 - [Both IPLS and non-IPLS students struggled to articulate mechanistic explanations for the negative pressure in tree xylem](both-groups-struggle-negative-pressure-explanation.md) — related
 - [Students independently characterize sources after guided work on the first source, reaching the day's research objective](guided-to-independent-source-characterization.md) — related
 - [Tasks that together cue real-world contexts, mechanistic explanation, multiple representations, and physical interpretation of mathematics increase the likelihood of student sensemaking in physics](task-features-increase-likelihood-sensemaking-physics.md) — related
+- [Engaging in level 2 quantitative Pattern sensemaking appears critical for transitioning to level 3](level-2-pattern-engagement-critical-for-level-3-transition.md) — related

@@ -48,3 +48,4 @@ Matched pre-/post-test scores partitioned into three pre-test performance ranges
 - [Research-based tutorials on Coulomb's law, superposition, symmetry and Gauss's law improve pre-/post-test performance in calculus-based introductory physics courses](electrostatics-tutorials-pre-post-gains.md) — a broader claim this one bears on
 - [Student-designed tutorials produced large normalized learning gains in introductory physics students](student-tutorials-hake-gain-0-8.md) — related
 - [In a preliminary class evaluation, average post-test performance after the SGE QuILT (92%) improved over pre-test performance (53%) among 22 undergraduates with traditional instruction](sge-quilt-preliminary-gains.md) — related
+- [Students who used a guided-inquiry tutorial on superposition with Gauss's law significantly outperformed comparison students on post-test questions (p < 0.001)](superposition-gauss-law-tutorial-improves-post-test.md) — related

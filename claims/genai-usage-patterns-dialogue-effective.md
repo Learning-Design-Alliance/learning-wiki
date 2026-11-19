@@ -72,3 +72,4 @@ The authors' interpretive statement drawn from the usage-log analysis in the Gen
 - [Learner-chatbot EFL writing interaction follows two dominant behavioural loops: a Revision Loop and a Chat Loop](penny-revision-and-chat-loops.md) — related
 - [Student-AI exchanges in an undergraduate research methods course are empirically classifiable into three interaction paths, with Passive Review most frequent (46%) and Strategic Dialogue 36%](three-paths-empirically-distinguishable-pilot.md) — related
 - [Students report that GenAI's immediate feedback enabled iterative learning and low-stakes practice, the dominant qualitative themes of the intervention](iterative-feedback-low-stakes-practice-themes.md) — related
+- [In the roller coaster loop dialogue, ChatGPT excelled at providing clear explanations, addressing misconceptions, and promoting active learning through Socratic questioning.](chatgpt-socratic-roller-coaster-active-learning.md) — related

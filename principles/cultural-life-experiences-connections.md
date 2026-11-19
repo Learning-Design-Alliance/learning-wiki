@@ -71,7 +71,7 @@ sources:
 # Cultural & Life Experiences Connections
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 60 claims (49 for, 11 mixed) · 56 studies (15 qualitative, 14 causal, 10 design, 6 review, 5 theoretical, 4 quant-synthesis, 2 associational), `q1`–`q4` · 3 of 56 report an effect size · 54 claims rest on one study
+> **Evidence** · 61 claims (50 for, 11 mixed) · 57 studies (15 causal, 15 qualitative, 10 design, 6 review, 5 theoretical, 4 quant-synthesis, 2 associational), `q1`–`q4` · 3 of 57 report an effect size · 55 claims rest on one study
 
 ## Conditional relationship
 
@@ -203,6 +203,7 @@ Read 2026-10-19 and moved into the model above: the gateway-mathematics, story-p
 - [Android-based learning media with local cultural content produced a statistically significant difference in the increase of learners' diagrammatic and argumentative representation competence between experimental and control classes](../claims/android-local-culture-media-improves-representation-competence.md) [+W] — attached 2026-11-01 from Liliarti et al. (2018), which proposed "Use local cultural artifacts familiar to students as the context for physics learning media"; tests this page's relationship.
 - [Student teachers' local-wisdom-based assessment development reaches the Good category while remedial development reaches only Sufficient](../claims/assessment-good-remedial-sufficient-local-wisdom.md) [~W] — attached 2026-11-02 from Uus Toharudin (2017), which proposed "Use local wisdom values as a basis for developing assessment and remedial in biology education".
 - [A successor vocational-school path connecting physics measures to a professional instrument fully achieved its aim of increasing students' attention on physics](../claims/professional-instrument-connection-raised-vocational-students-attention.md) [+M] — attached 2026-11-17 from Vera Montalbano et al. (2013), which proposed "Connect physics examples to vocational students' future professional world to favour learning"; tests this page's relationship.
+- [Participants made connections to the learning material quicker because the basketball scenario was familiar and relevant](../claims/sport-c-relevancy-quicker-connections.md) [+W] — attached 2026-11-19 from Jeffrey Basoah et al. (2022), which proposed "Use sports as a bridge to increase URG students' participation and interest in STEM".
 
 ## Objective and learner-valued goal
 

@@ -50,3 +50,4 @@ Anonymous surveys at the end of the 2013–2014 course editions, with 30 questio
 - [Participants rated the one-day workshop highly, with overall satisfaction averaging 4.78 out of 5](pa-workshop-satisfaction-478-of-5.md) — related
 - [Students were highly satisfied with the FC-EBM course, rating every surveyed aspect above 4 on a 5-point scale](fc-ebm-student-satisfaction-above-four.md) — related
 - [Most students in a redesigned project-based physics lab reported satisfaction with their team's project achievements](project-lab-majority-satisfaction.md) — related
+- [Students rate the project component of the sustainable physics course very positively](high-student-ratings-project-component.md) — related

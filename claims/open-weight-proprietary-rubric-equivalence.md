@@ -71,3 +71,4 @@ Summary of the cross-family comparison (Section 3.4). Grade agreement by quadrat
 - [Equivalence failures under human evaluators were confined to five assignment-by-question-type cells, four of them on code questions](five-cells-exceeded-equivalence-margin.md) — related
 - [Cohort members predominantly used off-the-shelf multimodal LLMs, mostly OpenAI's GPT, and nearly all combined closed and open source models](cohort-model-use-off-the-shelf-gpt.md)
 - [Under LLM evaluators, structured rubrics produced larger negative deviations from the human baseline than free-form rubrics, the opposite direction of the human-evaluator pattern](structured-free-form-llm-deviation-contrast.md) — related
+- [Held-out grading criteria create an informational asymmetry between the LLM evaluator and the student](freetext-held-out-criteria-informational-asymmetry.md) — related

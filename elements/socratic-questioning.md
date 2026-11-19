@@ -79,6 +79,7 @@ Socratic questioning is the element in which prompts are used to probe assumptio
 - Probing a proposed solution with follow-up questions about assumptions and consequences.
 - [Hybrid Socratic-to-sub-question tutoring with EEG-triggered fallback and progressively concrete hints](../strategies/eeg-triggered-socratic-fallback-hybrid-tutoring.md)
 - [Replace teacher-centred delivery with Socratic questioning: student-led discussion built on topic questions](../strategies/socratic-questioning-student-led-discussion-strategy.md)
+- [Use a Socratic-type prompting script that asks the AI to provoke reflection rather than deliver ready-made answers](../strategies/socratic-agent-to-think-with-prompting-strategy.md)
 
 ## Key Sources
 - Paul, R., & Elder, L. (2006). *The art of Socratic questioning*. Foundation for Critical Thinking.

@@ -67,6 +67,7 @@ Case-based learning improves exam performance and higher-order reasoning compare
 - [Role Play](../strategies/acting-role-play.md) — learners enact case participants, adding perspective-taking and affective engagement
 - [Debate](../patterns/debate.md) — structured argumentation over competing case resolutions
 - [Assess with new situations and start from real-life problems rather than repeating lecture tasks](new-situations-assessment-strategy.md)
+- [Anchor a first product footprint in an item students know well, with a published study to draw on, and break the product into staged categories](first-footprint-familiar-item-strategy.md)
 
 ## Examples
 - **Harvard Business School case method** — MBA students analyze ~500 cases over two years in 80-minute discussion sections; the instructor cold-calls to require public commitment to a position before peer discussion. See [Case-Based Learning (Harvard Method)](../patterns/case-based-learning.md).

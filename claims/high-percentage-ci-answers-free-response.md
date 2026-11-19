@@ -61,3 +61,4 @@ Results section, Problem 1 part (c), where students chose the correct answer but
 - [Fewer than half of participants answered even the most standard EMI questions correctly with sufficient explanations, with correct-plus-explained rates falling to 4–6% on non-standard questions](emi-low-correct-explanation-percentages.md) — related
 - [Students sometimes used Composer incorrectly, which could lead to wrong answers and incorrect reasoning](composer-incorrect-use-yields-wrong-answers.md) — related
 - [Student explanations of the tautochrone property revealed numerous misconceptions, including constant-acceleration beliefs and velocity-acceleration confusion](tautochrone-question-misconceptions.md) — related
+- [Students in the ChatGPT condition mistakenly assumed incorrect ChatGPT answers were correct (false positive rate 57%)](chatgpt-answer-overtrust-fpr-57-percent.md) — related

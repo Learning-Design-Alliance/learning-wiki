@@ -70,3 +70,5 @@ Scheffé post hoc multiple range test on post-test scores. The full-text group e
 - [The no-captions control group also improved significantly in listening comprehension over the treatment period](control-group-listening-gains-without-captions.md) — related
 - [The four groups were homogeneous in general English proficiency before treatment (placement-test ANOVA sig .881)](groups-homogeneous-placement-test.md) — related
 - [Viewing captioned instructional videos significantly improves EFL learners' overall language proficiency compared to viewing without captions.](captions-improve-language-proficiency-efl.md) — related
+- [Most caption users activate captions for comprehension, and only a few intentionally use them for language learning](captions-used-for-comprehension-not-learning-survey.md) — related
+- [Caption type produced no differences in vocabulary recall scores, with clear ceiling effects in the tested vocabulary](no-vocabulary-recall-differences-ceiling-effects.md) — related

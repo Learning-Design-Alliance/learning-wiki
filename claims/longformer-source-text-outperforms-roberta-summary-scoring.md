@@ -50,3 +50,4 @@ Comparison of four finetuned encoder-only LLMs on a held-out test set of 702 sum
 - [Domain adaptation through unsupervised pretraining gave mixed results: it slightly improved RoBERTa but degraded the Longformer for both Content and Wording](domain-adaptation-mixed-roberta-helped-longformer-hurt.md) — related
 - [SVM with RoBERTa sentence embeddings was the most accurate automatic scoring method (κ = .82) among the four tested combinations](roberta-svm-most-accurate-scoring-pisa.md) — related
 - A principal component analysis distills the seven-criterion summary rubric into two components, Content and Wording, explaining approximately 73% of shared variance — related
+- [Adding ITS-recorded student action context to the input significantly improves MLM-based error classifiers, though GPT-2 declines slightly](action-context-improves-error-classification.md) — a narrower finding that bears on this claim
