@@ -49,6 +49,7 @@ The article describes adapting another group's published outreach material for a
 - [Researchers should run school outreach in their specialty and share adaptable lesson materials](researcher-outreach-with-shared-materials.md)
 - [Reuse and adapt existing scenarios to make repeated TTX delivery sustainable](scenario-reuse-for-sustainable-ttx-delivery.md)
 - [Design outreach experiments to be easily repeatable so teachers can incorporate them into their own lessons, and keep teachers central to the activities](repeatable-experiments-teachers-central-outreach.md)
+- [Use attributed borrowed videos and quizzes in outreach sections to attract younger students and support assimilation](quizzes-and-attributed-video-for-assimilation.md)
 
 ## Examples
 -

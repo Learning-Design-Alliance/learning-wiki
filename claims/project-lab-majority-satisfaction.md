@@ -50,3 +50,4 @@ Qualitative thematic coding (open, axial, selective) of 55 student reflection es
 - [Students in project-based lab teams most often described functional team dynamics, though self-formed friend teams were not always functional](project-team-dynamics-functional.md) — related
 - [Residents reported very high satisfaction with the team-based simulation course (96.3 ± 3.7 of 100)](high-resident-satisfaction-simulation.md) — related
 - [Students found learning with the computer models fun, interesting and extending beyond the syllabus, and expressed appreciation](ejs-simulations-fun-beyond-syllabus-appreciation.md) — related
+- [Student-proposed course projects turn out to be the most successful projects](student-proposed-projects-most-successful.md) — related

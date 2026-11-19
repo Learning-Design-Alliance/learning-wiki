@@ -53,6 +53,7 @@ The authors foresee computers helping students analyze measurements: a ray traci
 - [Let students discover telescope drift-scan imaging by switching tracking off](drift-scan-student-discovery-strategy.md)
 - [Mix concept introductions, general discussion and hands-on software tutorials with close support to maximise pupil interaction](mixed-concept-discussion-hands-on-session-design.md)
 - [Use representative optical system simulations alongside geometric and physical optics to teach Fourier optics](representative-optical-simulations-teaching-strategy.md)
+- [Let students simulate light source, lens and observer configurations in the Ray Optics Simulation](ray-optics-simulation-observer-configurations.md)
 
 ## Examples
 -

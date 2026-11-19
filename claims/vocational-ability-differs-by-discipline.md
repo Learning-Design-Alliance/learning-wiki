@@ -89,3 +89,4 @@ Humanities background farmers scored lowest in practical innovation ability (2.4
 - [K-means clustering identifies three distinct ability profiles among young new farmers, with varying overlap across competency dimensions.](kmeans-clustering-ability-profiles.md) — related
 - [Young new farmers in Guangdong Province exhibit strong professional identity and positive career expectations.](young-new-farmers-strong-professional-identity.md) — related
 - [Skill acquisition in the experimental group did not differ significantly by sex, academic year, or university major](no-demographic-differences-skill-acquisition.md) — related
+- [No significant difference in gain scores between participants from different STEM-related educational backgrounds](no-background-difference-quantum-gain-scores.md) — reports the opposite

@@ -56,3 +56,4 @@ Theoretical assertion made in the paper's discussion of quadrant-one instruction
 - [Introducing more challenging work without sufficient supports or attention to students' emotions and learning strategies can lead to frustration, withdrawal, disruption, and less learning](unsupported-challenge-backfires.md) — a narrower finding that bears on this claim
 - [Pursuing unrealistic goals can lead to discouragement and frustration, so goals should balance rigor with realism](unrealistic-goals-lead-discouragement.md) — a narrower finding that bears on this claim
 - [Initial PF activities were too frustrating and were refined with moderate metacognitive support so students struggled without giving up](pf-moderate-support-refinement.md) — a narrower finding that bears on this claim
+- [Starting novices with code-from-scratch exercises produces a blank-page problem that can frustrate and demotivate students](code-from-scratch-blank-page-novices.md) — related

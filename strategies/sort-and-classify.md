@@ -84,6 +84,7 @@ Sorting forces comparison: to decide whether two items belong together, learners
 - [Comparing Cases](../elements/comparing-cases.md) — sorting is comparison made cumulative across a whole item set
 - [Card Sorting](card-sorting.md) — the physical/digital modality most often used to implement sorts
 - [Limit the number of instructions and tasks in dialogic activities, since too many impair dialogue](too-many-instructions-impair-dialogue.md)
+- [Use carefully selected contrasting cases to have students discover general rules rather than explaining the rules first](contrasting-cases-discover-rules-strategy.md)
 
 ## Examples
 - **CGI math classrooms** — students sort word problems by whether the unknown is a result, change, or start quantity, building the problem-type schemas underlying [Cognitively Guided Instruction](../principles/responsive-teaching.md).

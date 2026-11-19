@@ -46,6 +46,7 @@ Because little has been published on Aboriginal astronomy in the Sydney region, 
 ## Related Strategies
 
 - [Use a planetarium set to historical sky conditions to let students learn by experience](planetarium-historical-sky-conditions-strategy.md)
+- [Hire and train Indigenous educators and deliver programs in the relevant Indigenous language](hire-indigenous-educators-deliver-in-language.md)
 
 ## Examples
 -

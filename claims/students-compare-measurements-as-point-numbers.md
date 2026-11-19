@@ -51,3 +51,4 @@ Interview observations in the gamma-attenuation experiment, illustrated by a cas
 - [Measuring background and very weak radioactive sources over extended periods creates the need for many measurements and uncertainty evaluation, prompting students to recall their statistics knowledge](weak-source-measurements-motivate-statistics.md) — related
 - [Vocational students showed uneven mastery after the lab path: most used units correctly but very few handled calorimetry or error propagation](vocational-lab-uneven-measurement-skill-outcomes.md) — related
 - [Prior secondary school type (General vs Vocational Lyceum) showed almost no significant difference in radiation knowledge](lyceum-type-no-significant-knowledge-difference.md) — related
+- [The module works for students across a wide range of prior technical backgrounds, as shown by the differing CrabSat and DiscoSat approaches](tuppersat-works-across-technical-backgrounds.md) — related

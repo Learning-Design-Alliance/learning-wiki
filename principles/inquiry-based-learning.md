@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 105 claims (60 for, 35 mixed, 10 against) · 106 studies (41 causal, 20 quant-synthesis, 12 review, 12 theoretical, 10 design, 7 qualitative, 4 associational), `q1`–`q4` · 26 of 106 report an effect size · 91 claims rest on one study
+> **Evidence** · 108 claims (63 for, 35 mixed, 10 against) · 107 studies (42 causal, 20 quant-synthesis, 12 review, 12 theoretical, 10 design, 7 qualitative, 4 associational), `q1`–`q4` · 27 of 107 report an effect size · 94 claims rest on one study
 
 ## Conditional relationship
 
@@ -178,6 +178,9 @@ The heading is kept because tools look for it; new links land here unread. Re-re
 - [Pilot school-based use suggests students can enact investigative learning like scientists with the gravity models](../claims/pilot-investigative-learning-gravity-models.md) [+W] — attached 2026-11-17 from Loo Kang WEE et al. (2013), which proposed "Use computer models with strong teacher guidance for inquiry-based physics learning".
 - [SQI-lab students improve on all but one PLIC question while traditional-lab students improve on only 4 of 10](../claims/sqi-gains-across-plic-questions.md) [+W] — attached 2026-11-18 from Cole Walsh et al. (2018), which proposed "Structured Quantitative Inquiry (SQI) labs"; tests this page's relationship.
 - [In the first run of the transformed inquiry lab, students engaged with the work and identified known experimental nuances during initial data collection](../claims/inquiry-lab-first-run-students-found-nuances.md) [~W] — attached 2026-11-18 from K. Dunnett et al. (2020), which proposed "Two-session inquiry structure: set experiment with student method decisions first, open investigation second".
+- [AP physics students' electrostatics content performance scores rose from pre-test to post-test after guided inquiry with PhET simulations, in one uncontrolled pre-post study](../claims/guided-inquiry-simulation-electrostatics-gain.md) [+W] — attached 2026-11-19 from Espinoza (2020), which proposed "Use guided inquiry simulations that give learners pace control and variable control when teaching relationships between physical variables"; tests this page's relationship.
+- [Guided inquiry with electric field simulations significantly improves AP physics students' electric field content performance](../claims/guided-inquiry-simulation-electric-fields-gain.md) [+W] — attached 2026-11-19 from Espinoza (2020), which proposed "Use guided inquiry simulations that give learners pace control and variable control when teaching relationships between physical variables"; tests this page's relationship.
+- [Guided inquiry with wave simulations significantly improves AP physics students' wave characteristics content performance](../claims/guided-inquiry-simulation-wave-characteristics-gain.md) [+W] — attached 2026-11-19 from Espinoza (2020), which proposed "Use guided inquiry simulations that give learners pace control and variable control when teaching relationships between physical variables"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -54,3 +54,4 @@ Overall finding from the 525-student pre/post PMQ dataset in the pre-transformed
 - [In one single-group pre-post study, PMQ signals were significant and sensitive to the range of student understanding in a large introductory lab course at CU](pmq-significant-signals-large-lab-course.md) — related
 - [Students whose overall paradigm does not change show no significant pre-post difference in individual set-like responses](pmq-unchanged-paradigms-no-significant-s-shift.md) — related
 - [Students enter the traditional lab course already using predominantly set-like reasoning for data analysis (UR probe), leaving the UR probe with little room to measure change](ur-probe-high-set-reasoning-at-entry.md) — related
+- [Students in both the original and transformed introductory lab course shifted predominantly from mixed to set-like reasoning about measurement uncertainty from pre-test to post-test](pre-post-shift-mixed-to-set-paradigm-both-semesters.md) — related

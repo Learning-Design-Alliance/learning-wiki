@@ -50,3 +50,4 @@ Post-camp instructor assessment of the 9-student cohort on the project-managemen
 - [A short-term Lego Mindstorms EV3 summer camp improved elementary students' computational thinking and programming skills, with 6 of 9 students showing substantial improvement](ev3-camp-improves-ct-programming-skills.md) — related
 - [Formative peer evaluation cycles improve student performance on final project components and course grades compared to summative-only peer evaluation.](formative-peer-evaluation-improves-performance.md) — related
 - [The camp team qualified for the World Robot Olympiad India national championship from a fiercely competitive 23-team regional round](ev3-camp-team-wro-qualification.md) — related
+- [Work from AstroCamp computational projects has been included in several peer-reviewed publications](astrocamp-projects-in-peer-reviewed-publications.md) — related

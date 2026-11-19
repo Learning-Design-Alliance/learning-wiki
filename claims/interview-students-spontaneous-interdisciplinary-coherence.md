@@ -53,3 +53,4 @@ One of 48 semi-structured interviews with 23 students across the first two years
 - [Life-science students enter IPLS courses with salient ideas about energy grounded in chemical bonds and ATP from their biology and chemistry coursework.](ipls-students-incoming-atp-bond-energy-ideas.md) — related
 - [Emphasizing scientific modeling as a shared practice helps students achieve an integrated understanding across physics and biology](modeling-shared-practice-bridges-physics-biology.md) — related
 - [The practice led about half of students to identify interdisciplinary connections between electrodynamics and biological and chemical systems](em-practice-interdisciplinary-connections.md) — related
+- [Threading estimation throughout a physics course leads a significant fraction of students to report it as valuable beyond the class](estimation-thread-significant-fraction-long-term-value.md) — related

@@ -52,3 +52,4 @@ Qualitative rating of Group Two (Brock, Herb, Jakob, Justin) building an atmosph
 - [Concentrated inchargeness negatively impacted members without it, who spoke and engaged less](inchargeness-concentration-reduces-engagement.md) — related
 - [In the first analyzed group, speaking-time distribution was rated semi-equitable with three instances of one member speaking at least twice as much as a group mate](group1-semiequitable-speaking-time.md) — related
 - [The second analyzed group was rated inequitable in total speaking time, with the largest difference over nine times larger](group2-inequitable-speaking-time.md) — related
+- [A comparison group with similar on-task expertise showed more evenly distributed inchargeness](similar-expertise-more-even-inchargeness.md) — related

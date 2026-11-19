@@ -49,3 +49,4 @@ Descriptive demographic reporting on the 88 students in Compass summer programs 
 - [Women earn substantial shares of bachelor's degrees in most math and science fields but remain underrepresented in computer sciences, physics, and engineering](women-underrepresented-physics-engineering-computer-science-degrees.md) — related
 - [Early Compass participants completed science or engineering degrees at a higher rate than the national rate, but causality is not established](compass-retention-58-percent-not-causal.md) — related
 - [US bachelor’s degrees in physics, chemistry, and the physical sciences and engineering declined as a percentage of all degrees awarded between 1984 and 2011](us-physical-science-degrees-declined-1984-2011.md) — related
+- [Women and minority students are underrepresented in quantum-related Bachelor's disciplines, motivating early introductory QISE courses as gateways](qise-underrepresentation-early-gateway-courses.md) — related

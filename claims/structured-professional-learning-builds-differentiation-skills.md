@@ -70,3 +70,4 @@ Narrative review attribution: the article reports the Valiandes and Neophytou (2
 - [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](fifty-hours-content-specific-pd.md) — related
 - [Passive dissemination approaches are generally ineffective and unlikely to result in professional behavior change](passive-dissemination-ineffective-provider-behavior.md) — related
 - [Professional development programs improve teachers' classroom assessment practices and skills](pdp-improves-teacher-assessment-practices.md) — related
+- [Extended professional development of 50 or more hours is needed before teachers substantially change their practice](fifty-hour-professional-development-practice-change.md) — related

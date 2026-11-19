@@ -56,3 +56,4 @@ Textual analysis of voluntary written withdrawal requests coded by student servi
 - [Differential attrition may explain the reported reduction in achievement gaps under daily online testing](differential-attrition-may-explain-gap-reduction.md) — related
 - [Disappearing students complicated maintaining constructivist groups in the online course](disappearing-students-online-group-work.md) — related
 - [The online courses have a larger withdrawal rate than residential courses, which may bias interpretation of the FCI gain.](iolab-online-withdrawal-rate-fci-caveat.md) — related
+- [Nearly 20 students dropped the course in its first week, which the authors attribute in part to the missing prerequisite listing](prerequisite-listing-error-first-week-dropout.md) — related

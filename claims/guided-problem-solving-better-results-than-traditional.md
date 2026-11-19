@@ -49,3 +49,4 @@ The author's conclusion section asserts, without reported data, measures or comp
 - [PBL and traditional teaching have different effects on pre-service teachers’ perceptions of problem-solving ability, with PBL more influential](pbl-difference-problem-solving-perception.md) — related
 - [Teachers with ownership adapted the VCL easily while teachers lacking ownership reduced the problem to a cookbook approach](vcl-ownership-versus-cookbook-approach.md) — related
 - [A multidisciplinary art-physics laboratory on light polarization is reported by the author to make students more engaged and the learning of the physics concepts more effective](art-physics-polarization-lab-engagement.md) — related
+- [Smartphone experiments may improve students' understanding of acceleration more than traditional cookbook and real-time experiments, especially for critical deductive thinking](smartphone-experiments-improve-acceleration-understanding.md) — related

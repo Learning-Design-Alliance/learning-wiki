@@ -83,3 +83,4 @@ Course evaluation survey using a researcher-designed five-point Likert scale adm
 - [Participants whose goals matched EBM content rated course relevance higher (80% vs 65%), and relevance was only weakly correlated with teaching-quality ratings](course-relevance-learning-goal-match.md) — related
 - [Residents rated the EBM workshop very positively and reported perceived knowledge gains, but these perceptions were not associated with measured skill increases](workshop-satisfaction-not-linked-to-gains.md) — related
 - [Students rated pre-class videos as useful to their learning (mean 4.034 on a 5-point scale)](flipped-preclass-videos-perceived-useful.md) — related
+- [Participants report high satisfaction with the workshop, with all statement means above 4.5 except workload adequacy](quantum-workshop-high-satisfaction-ratings.md) — related

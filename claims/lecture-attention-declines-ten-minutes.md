@@ -51,3 +51,4 @@ Narrative review, citing Hartley and Cameron, on deficits of traditional higher 
 - [Lecturer visibility has a positive effect on reported attention in weblectures when watching lasts more than 15 minutes](lecturer-visibility-positive-effect-reported-attention-weblectures-over-15-minutes.md) — related
 - [Analyzing fluctuation of engagement over time rather than averaging on-task and off-task instances across a lecture provides novel insights into student behavior](engagement-fluctuation-over-averaging.md) — related
 - [A 10-minute run break midway through a lecture improves objectively measured visual attention in university students](cmb-run-improves-visual-attention.md) — related
+- [Students' concentration reportedly fades after 15-20 minutes during a traditional lecture](concentration-fades-15-20-minutes-traditional-lecture.md) — possibly the same claim (merge candidate)

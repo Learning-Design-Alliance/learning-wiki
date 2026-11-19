@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: weak
 newest_evidence: 2020
+source_checked: 2026-11-19
 sources:
   - id: florian-klimm-and-benjamin-f-maier-2020
     resource: "https://doi.org/10.48550/arXiv.2005.02487"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The authors report being overall content with the course, the pupils' involvement, and their progress in a two-week network science course for high-school pupils. [→ Florian Klimm and Benjamin F. Maier 2020](#florian-klimm-and-benjamin-f-maier-2020)

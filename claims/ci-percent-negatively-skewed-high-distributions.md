@@ -49,3 +49,4 @@ Descriptive analysis of CI % distributions shown in Figure 1 and Table 1 for 3 c
 - [The Conscientiousness Index is stable between years 1 and 2 of medical school, and its first decile differs from all other deciles](ci-stable-across-years-first-decile-distinct.md) — related
 - [Conscientiousness Index % scores show no significant change from year 1 to year 2 of medical school in combined cohorts](ci-percent-no-change-year1-to-year2.md) — related
 - [CI % scores in year 1 correlate significantly with CI % scores in year 2 (R = 0.54 for combined cohorts)](ci-percent-year1-year2-correlation.md) — related
+- [In this cohort, 47% of students achieved a perfect CRT score with a mean of 2.1/3, higher than a large cross-study reference population](crt-score-distribution-skewed-high.md) — related

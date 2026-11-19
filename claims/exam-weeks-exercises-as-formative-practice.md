@@ -60,3 +60,4 @@ Weekly epistemic networks for Weeks 6 and 13 (Figure 5) from the same trace-data
 - [Students and faculty prefer multiple smaller exams over one final exam, and students wish for more self-guided study time](students-faculty-prefer-frequent-smaller-exams.md) — related
 - [PR usage spiked immediately before scheduled exams, with activity peaking at 800 problems served per hour on exam day, and no formal course credit was attached to use.](pr-usage-spikes-before-exams.md) — related
 - [Students accessed laboratory videos most just before lab due dates, but showed little spike around homework due dates and rarely revisited old videos before exams](video-access-timing-tied-to-assignments.md) — related
+- [Campus closure showed no detectable impact on early module completion, module passing rates before or after studying, or module revisiting, including exam-period reviewing](no-detectable-impact-on-completion-passing-revisiting.md) — related

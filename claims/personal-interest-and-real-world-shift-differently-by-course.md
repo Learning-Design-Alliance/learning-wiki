@@ -52,3 +52,4 @@ The comment's own Table I prints shifts in percent favorable responses: Overall 
 - [CLASS Personal Interest and Real World Connection clusters typically show negative shifts, though some instructional approaches produce positive shifts](class-relevance-clusters-typically-negative-shifts.md) — related
 - [Two-category distinctions between describing the real world and caring about everyday physics are insufficient for life-science students' connections](two-category-distinction-insufficient.md) — related
 - [On the CLASS, women score less expertlike on real world connections, personal interest, problem solving confidence, and problem solving sophistication, and more expertlike on sense-making/effort](class-gender-category-differences.md) — related
+- [Personal Interest and Real-World Connections CLASS clusters show the strongest differences for perceived relevance](relevance-strongest-personal-interest-real-world-clusters.md) — related

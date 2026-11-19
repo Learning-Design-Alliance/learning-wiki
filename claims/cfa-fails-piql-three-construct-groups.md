@@ -50,3 +50,5 @@ Confirmatory factor analysis of PIQL pretest responses from three calculus-based
 - [Module analysis (MAMCR) of correct PIQL responses identifies modules that differ across course stages and mix all three PQL constructs](mamcr-modules-differ-across-course-stages.md) — related
 - [Dichotomously scored PIQL results indicate only a very modest improvement in students' quantitative reasoning from introductory physics instruction](piql-dichotomous-scoring-modest-improvement.md) — related
 - [Recent PIQL versions are unidimensional, and the authors interpret the single construct as Physics Quantitative Literacy, suggesting the three facets may develop simultaneously](piql-unidimensional-single-construct.md) — related
+- [Student response patterns on the PIQL fit a unidimensional model rather than the expert-proposed three-facet factor structure](piql-unidimensional-not-three-facet.md) — possibly the same claim (merge candidate)
+- [PQL develops only slightly during introductory physics instruction, with effect sizes d = 0.3 (PreMech to PostMech) and d = 0.1 (PostMech to PostEM)](pql-develops-little-during-intro-physics.md) — related

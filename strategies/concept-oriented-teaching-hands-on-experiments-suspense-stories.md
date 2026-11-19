@@ -58,6 +58,7 @@ The article recommends that, since misconceptions are seemingly founded on false
 - [Confront students directly with their alternative conceptions using student-centred, hands-on experiences or concept cartoons in real-world contexts](confront-alternative-conceptions-hands-on-concept-cartoons.md)
 - [Use historic experiments on movement, repeated hands-on by students, to induce conceptual change](historic-experiments-hands-on-concept-change.md)
 - [Combine conceptual curriculum reform, mixed-format testing, hands-on demonstrations, semester projects, and university research involvement in high school physics](hs-physics-engagement-strategy-package.md)
+- [Use challenging, low-cost Predict–Observe–Explain experiments that put students' alternative conceptions about fluid pressure into play](poe-fluid-misconception-experiments.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Graphical normality examination (Figures 3.1–3.4 and Appendix A) of RIT scores
 - [The multivariate normality assumption of the norming model was judged met for all domains and grades, despite some tail deviations in Q-Q plots](normality-assumption-met-foundational-skills-norming.md) — related
 - [Normality assumptions of the true score model appeared reasonable for the course-specific tests](normality-assumption-reasonable-course-specific.md) — possibly the same claim (merge candidate)
 - The outcome data met t-test assumptions: Lilliefors normality (Lo < Lt for both classes) and variance homogeneity (F count 0.579 < F table 1.84) — related
+- [Accelerometer fluctuations of a mobile device laid on a table or hand-held follow a normal distribution](sensor-fluctuations-normal-distribution-table-handheld.md) — related

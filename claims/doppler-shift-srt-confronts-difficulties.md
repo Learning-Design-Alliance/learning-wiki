@@ -49,3 +49,4 @@ Design description of the Doppler shift Student Representation Task, in which th
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — a broader claim this one bears on
 - [Students misinterpret what spectra indicate, including temperature, composition, and distance information](spectra-interpretation-misconceptions.md) — related
 - [Faculty-produced questions on some topics lack diversity in representations and intellectual tasks](faculty-tps-topic-representation-narrowness.md) — related
+- [Preconceptions about motion serve learners well in the relativistic explosion interpretation for redshift, out-of-flow galaxies, bound systems, and one kind of cosmological horizon](motion-preconceptions-anchor-relativistic-explosion.md) — related

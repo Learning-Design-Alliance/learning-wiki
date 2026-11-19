@@ -57,3 +57,4 @@ Summary of CTT validation statistics for CU's assessments (excluding QMAT): "Ove
 - [Class-average Δθ correlates strongly with ⟨g⟩ (r = 0.99), and an IAS of 25% is necessary but not sufficient for average Δθ > 1](class-average-delta-theta-ias-25-percent.md) — related
 - [The CURrENT shows substantial discriminatory power (Ferguson's δ=0.99) and acceptable item-test correlations](current-discrimination-delta-0-99.md) — a narrower finding that bears on this claim
 - [PLIC scores are unrelated to completion time and the instrument discriminates students well](plic-time-and-discrimination.md) — related
+- [PIQL v2.2 meets Classical Test Theory expectations, with Cronbach's alpha of 0.80 and all 20 items above the discrimination threshold](piql-final-version-reliable-alpha-080.md) — related

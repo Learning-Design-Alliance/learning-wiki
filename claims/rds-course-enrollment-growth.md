@@ -47,3 +47,4 @@ Descriptive enrollment report from the authors' account of teaching the RDS cour
 
 ## Related Claims
 - [A Spring 2020 pre-course survey of 48 RDS students found mostly masters-level technical majors, about half with little to no prior knowledge of legal studies or social science, and a majority holding that data science and AI should reflect ethical principles](rds-precourse-survey-background.md) — related
+- [Enrolment in the flagship data science courses increased over the last three years](ds-flagship-course-enrolment-growth.md) — a broader claim this one bears on

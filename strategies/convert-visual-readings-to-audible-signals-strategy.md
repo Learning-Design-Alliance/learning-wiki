@@ -42,7 +42,9 @@ The article's core intervention strategy is to keep the blind student inside the
 - [Using the adapted device, a blind student participated fully in laboratory measurement for the first time and reported satisfaction](../claims/blind-student-first-full-measurement-participation.md) [+W]
 
 ## Related Strategies
+
 - Arduino Photogate Audio Dial Indicator
+- [Provide a sonified HUDF alternative for visually impaired students alongside the visualization](hudf-sonification-visually-impaired-accommodation.md)
 
 ## Examples
 -

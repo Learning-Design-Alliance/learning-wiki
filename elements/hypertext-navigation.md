@@ -13,7 +13,7 @@ generated:
 # Hypertext Navigation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (3 for, 6 mixed, 3 against) · 22 studies (12 causal, 6 review, 2 associational, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 22 report an effect size · 9 claims rest on one study
+> **Evidence** · 13 claims (4 for, 6 mixed, 3 against) · 23 studies (13 causal, 6 review, 2 associational, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 23 report an effect size · 10 claims rest on one study
 
 ## Description
 Hypertext navigation presents content as a network of linked nodes — pages, sections, or media objects — that learners traverse in an order they choose, rather than as a fixed linear sequence. The learner controls both the path and the pace, constructing their own route through the material.
@@ -62,6 +62,7 @@ Hypertext supports flexible, non-linear exploration and can help learners build 
 - [Greater use of the navigation map is associated with less relevant searching in a hypermedia learning task](../claims/map-use-negative-search-correlation.md) [~W]
 - [Seventh graders taught technical education with a hypertext didactic text scored higher on a final didactic test than pupils taught by traditional methods](../claims/hypertext-didactic-text-higher-didactic-test-scores-grade-7.md) [+W] — attached 2026-11-02 from Žáčok (2010), which proposed "Hypertext didactic text for 7th-grade technical education".
 - [Most Cohort 3 students found VOLTA easy to use and navigate, but feature endorsement varied](../claims/volta-usability-ease-of-use-83-percent.md) [+W]
+- [The thesis reports that learners, especially novices, find desired course information faster without sacrificing accuracy and retain concepts more readily with the manually linked interface than with conventional presentation](../claims/content-linking-interface-faster-search-retention.md) [+W] — attached 2026-11-19 from Shang-Wen Li (2021), which proposed "Linked-content interface presenting materials and linking simultaneously"; tests this page's relationship.
 
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — provide the structural overview that prevents disorientation in a hypertext network

@@ -54,3 +54,4 @@ Qualitative thematic analysis of artefacts from three co-design workshops with e
 - [The taxonomy organises LLM-supported journalistic tasks into four stages: newsgathering, sensemaking, editing, and publication/distribution](four-stage-news-workflow-organisation.md) — related
 - [Collectively mourning extinct or near-extinct more-than-human entities facilitates recognition of the more-than-human as co-participants in shared reality](species-eulogy-fosters-more-than-human-recognition.md) — related
 - [Participants envisioned switchable AI roles — strategic advisor, cross-domain translator, and perspective challenger — whose expansion destabilized perceived neutrality and raised authority and accountability concerns](switchable-ai-roles-neutrality-authority-tension.md) — related
+- [In the remote workshop, presentations were rated most helpful and the card sorting activity least helpful](remote-activity-helpfulness-rankings.md) — related

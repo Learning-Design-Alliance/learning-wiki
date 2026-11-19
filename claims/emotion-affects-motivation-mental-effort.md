@@ -61,3 +61,4 @@ Theoretical argument from the article's abstract, the fourth perspective. It pro
 - [Blended learning designs pay most affective-climate attention to motivating and mental-effort tasks while neglecting appraising and dealing with emotions](affective-climate-neglected-blended-designs.md) — related
 - [In-between learning activities increased invested mental effort in reading the second text unit (Experiment 2)](in-between-activities-raise-mental-effort-second-text-unit.md) — a narrower finding that bears on this claim
 - [Learners report paying more attention during learning with a positive instructor than with a negative instructor.](positive-instructors-attention-video.md) — a narrower finding that bears on this claim
+- [Culture-based education positively impacts student social-emotional well-being and math and reading test scores](culture-based-education-wellbeing-and-scores.md) — related

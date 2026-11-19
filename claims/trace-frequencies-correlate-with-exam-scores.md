@@ -52,3 +52,4 @@ Bivariate correlational analysis of 482 students' trace frequencies and first-un
 - [Low-performing students access solutions more often than higher-performing students, while hint access does not differ across quartiles](solution-access-differs-hints-do-not.md) — related
 - [Students' help-seeking error frequencies correlate strongly across different Cognitive Tutor units and cohorts (r = 0.89)](help-seeking-errors-stable-across-units.md) — related
 - [Most learners (85%) prefer to work through error correction on their own, with proficiency moderating help use](learners-prefer-own-error-correction-85-percent.md) — related
+- [Students who submitted their own solutions for rating and feedback rated recitation effectiveness significantly higher than students who did not](graded-feedback-own-solutions-recitations.md) — related

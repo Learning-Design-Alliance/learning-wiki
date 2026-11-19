@@ -48,6 +48,7 @@ The authors recommend instructors administer the TOSLS at the start of a course 
 - Tosls Instrument
 - [Diagnostic Assessment](diagnostic-assessment.md)
 - [Use QMFPS responses as formative assessment to identify difficulties and guide instructional design](qmfps-formative-assessment-strategy.md)
+- [Use the PIQL pre/post in introductory physics courses to raise instructor awareness of whether quantitative-literacy goals are being met](piql-pre-post-instructor-awareness.md)
 
 ## Examples
 -

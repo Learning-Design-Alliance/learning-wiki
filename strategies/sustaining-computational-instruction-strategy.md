@@ -47,6 +47,7 @@ The authors report that faculty teaching both semesters of classical mechanics a
 - [Approve the course through integrative final projects applied to concrete engineering problems of the local specialty and region](regional-applied-final-projects.md)
 - [Use short screencasts plus flipped-classroom homework to deliver computational tool instruction without lecture time](screencasts-flipped-homework-computation-strategy.md)
 - [Adopt the flipped classroom gradually: start small, front-load video preparation, gather student feedback, and scale up as comfort grows](gradual-flipped-classroom-adoption-strategy.md)
+- [Replace the final exam with a capstone-style programming project with code, report, and presentation components](capstone-final-project-replaces-final-exam.md)
 
 ## Examples
 -

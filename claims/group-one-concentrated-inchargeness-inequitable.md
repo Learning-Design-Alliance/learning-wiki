@@ -48,3 +48,4 @@ Segment-by-segment qualitative rating of Group One (Brittany, Jessica, Justin, P
 - [Group Two's inchargeness was distributed between two members — more equitable than Group One but still inequitable, with similar incivility](group-two-two-person-inchargeness-still-inequitable.md) — related
 - [Qualitative measures of equity (inchargeness and civility) judged two quantitatively dissimilar groups as alike in their inequity, validating the authors' intuition](qualitative-measures-validate-intuition-inequity.md) — a broader claim this one bears on
 - [Concentrated inchargeness negatively impacted members without it, who spoke and engaged less](inchargeness-concentration-reduces-engagement.md) — related
+- [A comparison group with similar on-task expertise showed more evenly distributed inchargeness](similar-expertise-more-even-inchargeness.md) — related

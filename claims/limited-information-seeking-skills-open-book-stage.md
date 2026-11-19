@@ -50,3 +50,4 @@ Observational evaluation of documented search processes during the open-book sta
 - [Teachers on Instagram predominantly engage in low-cost collaboration (information seeking) and rarely in high-cost collaboration (co-creating)](instagram-low-cost-collaboration-predominates.md) — related
 - [Palestinian medical students rely heavily on medical books and general search engines while rarely using specialized evidence-based databases, with usage differing by EBM training](textbook-reliance-limited-specialized-database-use.md) — related
 - [Students with some prior database use hold perceptions of reputable science resources closer to those of professional scientists than novices do](experienced-students-perceptions-closer-to-scientists.md) — related
+- [Students in open-ended physics experiments seek external information sources, favoring videos and websites over scientific literature](students-seek-external-sources-videos-websites.md) — related

@@ -54,3 +54,4 @@ Interview study with three teachers and twelve students: "The interviews reveale
 - [Students find reflective prompts accompanied by visual elements more actionable and easier to interpret than plain-text prompts](visual-prompts-more-actionable-than-plain-text.md) — related
 - [Students preferred charts and props over visual media because they found them more practical and more helpful for understanding](students-prefer-charts-props-over-visual.md) — related
 - [Radar charts after feedback helped novice nurses identify strengths, weaknesses and track progress across clinical domains](mini-cex-dops-radar-charts-progress-tracking.md) — related
+- [Adding a radar chart to the diagnostic page design A improves all four measured engagement factors in an A/B test on Santa users](radar-chart-improves-engagement-santa.md) — related

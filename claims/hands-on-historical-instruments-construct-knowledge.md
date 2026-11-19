@@ -52,3 +52,4 @@ Authors' interpretive claim (type e) from the Discussion, with no printed measur
 - [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — a broader claim this one bears on
 - [Students presented historical instruments and their stage activities to museum visitors at the end of the stage](students-present-instruments-museum-visitors.md) — related
 - [The author argues that combining simulations with experiments helps students see the connection between them and understand their limitations](simulation-experiment-combination-builds-connection-awareness.md) — related
+- [Students who gathered their own data in online physics laboratories rated acquisition of experimental skills and reinforcement of content higher than students working with simulated or handed-out data](gathering-own-data-labs-higher-effectiveness.md) — related

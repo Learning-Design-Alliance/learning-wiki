@@ -70,3 +70,4 @@ Same Session 1 composite analysis: final deliberate accuracy increased +44.2 poi
 - [A second training session two days later further increases reasoning accuracy beyond the first session, though less strongly](second-training-session-further-boosts-accuracy.md) — related
 - [Repeated training substantially reduces the proportion of biased responders and increases improved and correct responders at the individual level](individual-level-improved-responders-after-repeated-training.md) — related
 - [Training shows small trends toward better conflict detection on bat-and-ball and base-rate tasks but the opposite trend on the conjunction fallacy task](conflict-detection-trends-task-specific.md) — related
+- [Intuitive (System 1) answers account for the majority of wrong CRT answers, and scratch-work evidence supports raw CRT score as a measure of cognitive reflection](intuitive-answers-dominate-crt-errors.md) — related

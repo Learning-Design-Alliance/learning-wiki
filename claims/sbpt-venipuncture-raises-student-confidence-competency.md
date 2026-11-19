@@ -73,3 +73,4 @@ Delayed assessment one year after training, in the clinical setting. Table 1 rep
 - [Self-reported perceived competence scores among paramedic students were significantly higher after simulation-based education than before it across all assessed skill areas, in one uncontrolled pre-post study](simulation-training-increased-perceived-competence.md) — related
 - [Standardized patients rate student venipuncture communication skills lower than real patients do](sp-patients-rate-communication-differently.md) — related
 - [Both cohorts showed increased median perceived confidence from pre- to post-intervention, with cohort 2 rising from 61.4 to 89.3](both-cohorts-median-confidence-increase.md) — related
+- [Teachers increased self-rated AI familiarity from 4.8 to 5.8 out of 7 during the workshop and rated confidence about integrating AI at 5.6 out of 7](familiarity-confidence-gains-remote-ai-codesign.md) — a narrower finding that bears on this claim

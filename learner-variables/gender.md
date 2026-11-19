@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 736 claims (395 show a difference, 178 mixed, 163 no difference) · 512 studies (272 associational, 174 causal, 21 review, 18 quant-synthesis, 13 design, 8 theoretical, 6 qualitative), `q1`–`q4` · 75 of 512 report an effect size · 728 claims rest on one study
+> **Evidence** · 738 claims (396 show a difference, 179 mixed, 163 no difference) · 514 studies (273 associational, 174 causal, 21 review, 18 quant-synthesis, 13 design, 9 theoretical, 6 qualitative), `q1`–`q4` · 76 of 514 report an effect size · 730 claims rest on one study
 
 ## How to read this page
 
@@ -775,6 +775,8 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [The authors interpret that lab tasks are not inherently gendered and that mixed-gender role divisions reflect students enacting gender](../claims/lab-tasks-not-inherently-gendered-interpretation.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The gender gap on the FCI is largest between male and female students who agree with the gender stereotype](../claims/gender-gap-largest-among-stereotype-agreeers.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Women in single-gender groups were dominant across all lab activity roles, while women in mixed-gender groups were dominant only on computer, paper, or group discussion](../claims/single-gender-women-dominant-across-all-lab-roles.md) [~M] — an instructional effect differs by group
+- [Because males and females largely attend the same schools, the HSWCU-style results provide strong evidence that preparation in the ordinary sense does not account for male/female differences in precollege and college physics exams](../claims/preparation-not-ordinary-sense-accounts-male-female-gaps.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Gendered performance differences appear under instructors of both genders, with fewer significant differences observed for female instructors](../claims/instructor-gender-fewer-differences-female-instructors.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

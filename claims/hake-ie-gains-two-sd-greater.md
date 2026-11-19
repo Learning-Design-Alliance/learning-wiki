@@ -103,3 +103,4 @@ The article reports (Introduction) Hake's large multi-course survey as backgroun
 - [The largest single-item gain appeared on HTCE Item 16, where the treatment group rose from 0.5 to 0.75 (Hake's normalized gain 0.5)](item16-largest-gain-realtime-feedback.md) — related
 - [Initial performance affected post-test scores, but low and high initial performers gained equally in normalized learning gain](klm-fa-learning-gain-initial-performance.md) — related
 - [No meaningful correlation was found between FCI prescore and CLASS shift, or between FCI gain and FCI pretest score](no-correlation-fci-pretest-class-shift.md) — a narrower finding that bears on this claim
+- [EBAE instruction benefits students at all pretest performance levels, with higher gains in every pretest third](ebae-benefits-all-pretest-levels.md) — related

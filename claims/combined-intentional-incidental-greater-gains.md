@@ -70,3 +70,4 @@ The design is known here only through the review's one-paragraph account, and th
 - [Intentional learning enabled learning of collocations not learned after first exposure](intentional-learning-new-collocations.md) — related
 - [Intentional learning produced lasting retention of collocations at delayed posttest with moderate effect size 0.7](intentional-learning-retention-collocations.md) — related
 - [Adding sentence context to explicit teaching of formulaic sequences does not improve learning gains compared to explicit teaching without context for low-proficiency learners.](no-context-benefit-explicit-fs-low-proficiency.md) — related
+- [Small-group discussion combined with a subsequent mini-lecture is reported to be substantially more effective than either alone, with group work benefiting weaker and stronger students alike](group-discussion-plus-mini-lecture-more-effective.md) — a narrower finding that bears on this claim

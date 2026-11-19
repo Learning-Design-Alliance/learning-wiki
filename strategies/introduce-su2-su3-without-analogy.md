@@ -43,7 +43,9 @@ The article recommends that once the connection between symmetry and force has b
 - [Popular descriptions of particle physics are largely flawed and often simply wrong, and the inaccuracies extend through high school into university-level physics books](../claims/popular-particle-physics-accounts-largely-flawed.md) [+W]
 
 ## Related Strategies
+
 - [Timezone Analogy U1 Gauge Theory](timezone-analogy-u1-gauge-theory.md)
+- [Teach gauge theory to first-year students using mathematically minimal analogue models](minimal-math-gauge-theory-first-year-strategy.md)
 
 ## Examples
 -

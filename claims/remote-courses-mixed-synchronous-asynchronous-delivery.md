@@ -56,3 +56,4 @@ Table 1 of the national student survey (n = 1,008) reports delivery mechanisms: 
 - [Students in a large analytical chemistry course preferred synchronous videoconference lectures over pre-recorded asynchronous lectures](students-prefer-synchronous-lectures-large-course.md) — related
 - [Students preferentially accessed lecture slides and practical videos over other repository resource types, with video uptake rising and slide uptake falling between 2009 and 2010](lecture-slides-videos-most-accessed.md) — related
 - [Approximately 50% of surveyed instructors would structure synchronous versus asynchronous course time differently if teaching remotely again](restructure-sync-async-remote-lab-time.md) — related
+- [Asynchronous use of the tutoring platform far exceeded synchronous attendance, with about 9000 registered Moodle users versus 385 average weekly session attendees](asynchronous-engagement-exceeded-synchronous.md) — related

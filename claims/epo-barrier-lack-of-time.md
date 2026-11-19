@@ -68,3 +68,4 @@ Survey item Q17 on factors encouraging increased participation, reported in Sect
 - [Temporary-position researchers are more likely than permanent-position researchers to engage in EPO only during free time](epo-free-time-temporary-position.md) — related
 - [The most cited barriers to adult learning are situational, but adults also face internal barriers such as low confidence in their ability to learn](adult-learner-barriers-situational-and-internal.md) — a broader claim this one bears on
 - [The dominant motivation for EPO engagement among DES researchers is a desire to educate the general public, followed by personal enjoyment](epo-motivation-educate-public.md) — related
+- [Most astronomers worldwide engage in education and public engagement activities of some type](astronomers-widespread-epe-participation.md) — related

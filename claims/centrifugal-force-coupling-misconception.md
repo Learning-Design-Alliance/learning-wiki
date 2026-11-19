@@ -47,3 +47,5 @@ Student interviews on two posttest questions (airplane over a rotating disc; wat
 
 ## Related Claims
 - [About one quarter of physics students treat inertial forces as having the same effects on objects as real forces](inertial-forces-treated-as-real-misconception.md) — related
+- [Freshman students find rotating-system problems analyzed from an inertial frame without fictitious forces difficult, for four identifiable reasons](inertial-frame-rotation-problems-student-difficulty.md) — related
+- [The author reports that a clear understanding of the rotating-rod system helps students better grasp similar rotation problems such as the centrifuge and sliding with friction on a rotating table](rotating-rod-understanding-transfers-to-similar-problems.md) — related

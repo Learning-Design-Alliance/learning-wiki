@@ -50,3 +50,4 @@ Authors' summary of multiple surveys administered in two small IPLS test classes
 - [Approximately two-thirds of pilot students affirmed learning biology-relevant lab skills, with negative responses disappearing by spring](nexus-labs-biology-relevant-skills-perception.md) — related
 - [Post-program surveys show most students felt more likely to pursue STEM, more comfortable in university labs, and found the program appropriately challenging](discovery-survey-attitudes-comfort-pursuit.md) — related
 - [Students sometimes perceived the Arduino lab work as extra work tangential to the course syllabus and their careers](arduino-lab-perceived-as-extra-work.md) — reports the opposite
+- [Students in the author's course come to name DA as an important thing learned and pre-meds report it valuable for the MCAT](students-report-da-valuable-mcat.md) — related

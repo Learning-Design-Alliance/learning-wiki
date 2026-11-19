@@ -64,3 +64,4 @@ Randomised controlled trial (Niedermeier et al., n = 51) of a 10 min run at 13�
 - [Leisure-time physical activity, but not PA breaks, is associated with fewer self-reported attention difficulties during home studying](ltpa-reduces-daily-attention-difficulties.md) — related
 - [A 12-week classroom-based physical activity break program significantly improves objective study-test performance (comprehension and memorization) in adolescents](active-breaks-improve-objective-study-tests.md) — related
 - [Student attention in traditional lectures declines after about ten minutes and is almost fully lost after 15 to 20 minutes (as reported by the review)](lecture-attention-declines-ten-minutes.md) — related
+- [Students' concentration reportedly fades after 15-20 minutes during a traditional lecture](concentration-fades-15-20-minutes-traditional-lecture.md) — related

@@ -63,6 +63,7 @@ The core evidence comes from productive failure studies: learners who explore co
 - [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md) — the theoretical mechanism struggle is designed to induce
 - [When implementing PS-I, include contrasting cases or build the instruction phase on student solutions](include-contrasting-cases-or-build-instruction-on-student-solutions.md)
 - [Use group-based generation and exploration followed by teacher-led consolidation and comparison of student-generated and canonical solutions](group-generation-then-consolidation-strategy.md)
+- [Design in-class activities so students struggle with a problem before the mini-lecture that shows how an expert organizes it](struggle-before-mini-lecture-strategy.md)
 
 ## Examples
 - **Kapur's productive failure units (Singapore mathematics classrooms)** — students explore novel problems on topics like variance or average speed in small groups before teacher-led canonical instruction; exploration-first classes outperformed instruct-first classes on conceptual and transfer items.

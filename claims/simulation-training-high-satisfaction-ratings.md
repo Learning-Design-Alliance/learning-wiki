@@ -53,3 +53,4 @@ Satisfaction survey completed by rescuers and attending professionals in the sam
 - [Participants rated the EBP course highly on materials, methods, relevance, clarity and applicability, with course duration rated lowest](ebp-course-high-satisfaction-ratings.md) — related
 - [Students rated the 2-day mCLEIMS course very highly, with global satisfaction of 4.93 on a 5-point scale and item scores from 4.79 to 4.96](mcleims-high-satisfaction-ratings.md) — related
 - [Attendees rate the streamlined train-the-trainer workshop highly satisfactory](ft-workshop-satisfaction-ratings.md) — related
+- [Students rated the ML-enhanced simulation tool highly, with a mean survey rating of 4.26 out of 5](survey-mean-rating-4-26.md) — related

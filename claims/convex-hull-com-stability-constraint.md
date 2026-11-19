@@ -52,3 +52,4 @@ Analytical stability formalization (Section 5): the solver aggregates loads and 
 - [Material arrangement of artifacts (strips centered and ordered by length, worksheets held close) affords and stabilizes the initial pattern of activity; later decentralization enables new patterns](material-arrangement-affords-stability.md) — related
 - [Cell affordances determine agent movement: ramps trigger automatic diagonal transitions during path traversal](ramp-affordances-trigger-diagonal-moves.md)
 - [The hybrid qualitative-COM solver solves arbitrary Camelot Jr. configuration challenges within the game's problem space](camelot-jr-solver-solves-arbitrary-configurations.md)
+- [Later editions of Halliday-Resnick restructured the energy treatment toward energy conservation, moving energy chapters later and adding internal energy and center-of-mass energy sections](halliday-resnick-energy-treatment-restructuring.md) — related

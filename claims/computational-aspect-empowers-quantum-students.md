@@ -50,3 +50,4 @@ A stated benefit asserted by the authors with no supporting data; it is one of t
 - [Comparing their own analyses with LLM outputs empowered students' sense of competence and reduced concerns about LLMs replacing human expertise](llm-comparison-empowers-competence.md) — related
 - [Teachers commonly attribute increased student engagement—active involvement, multiple solution approaches, perseverance, and confidence—to ILC-influenced instruction](ilc-attributed-increases-student-engagement.md) — related
 - [One adult educator's first-person reflection reports that facilitated class discussions left her feeling empowered as an individual contributor](facilitated-self-directed-learning-empowers-adults.md) — related
+- [Students found the visualisation of numerical PDE solutions the most well-received aspect of the course](pde-visualisation-most-valued-by-students.md) — related

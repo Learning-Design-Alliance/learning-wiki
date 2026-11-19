@@ -46,3 +46,6 @@ The figure list documents individual prior-knowledge questionnaire responses (Fi
 
 ## Related Claims
 - [A comic-book and augmented-reality didactic sequence for Newton's laws shows good acceptance among adolescents and favors advances in concept learning and application to everyday events](comics-ar-newton-laws-acceptance-learning.md) — related
+- [In group dynamics with Gif-based questions, 6 of 7 groups reached satisfactory answers on the first law and group responses became progressively more scientific across the sequence](group-responses-increasingly-scientific-across-sequence.md) — related
+- [Gains on the final questionnaire occurred for each Newton's law individually, with the second law showing the best result (77% correct answers)](per-law-gains-second-law-best-result.md) — related
+- [Students entering the didactic sequence had almost no prior scientific knowledge of Newton's Laws, with 67% of initial questionnaire responses showing no prior knowledge](prior-knowledge-newton-laws-lacking-first-year-high-school.md) — related

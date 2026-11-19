@@ -79,11 +79,13 @@ Word study operationalizes [Active Learning](../principles/active-learning.md) f
 6. **Extend and transfer.** Assign a word hunt in authentic text and a writing sort with new, untaught words to assess whether the pattern transferred.
 
 ## Related Strategies
+
 - **Word Sorting** — the core activity of word study; sorting by sound, pattern, and meaning features drives the comparison work
 - **Word Hunts** — transfer activity connecting the studied pattern to authentic reading and writing
 - **Dictation and Writing Sorts** — assessment variants that test pattern application rather than list recall
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — sorts work by contrasting new patterns against known words
 - [Spaced Repetition](../elements/spaced-repetition.md) — cycling features across weeks rather than testing-and-dropping lists
+- [Use carefully selected contrasting cases to have students discover general rules rather than explaining the rules first](contrasting-cases-discover-rules-strategy.md)
 
 ## Examples
 - **Words Their Way** (Bear, Invernizzi, Templeton, & Johnston) — the most widely implemented word study program; developmental stages, spelling inventories, and hundreds of ready-made sort sets ([pearson.com](https://www.pearson.com))

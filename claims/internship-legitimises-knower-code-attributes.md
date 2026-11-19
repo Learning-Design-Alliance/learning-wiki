@@ -50,3 +50,5 @@ Focused ethnography (participant observation, shadowing, informal conversations 
 - [A mismatch exists between the competencies rewarded by undergraduate assessment and those valued in internship](curriculum-internship-competency-mismatch.md) — possibly the same claim (merge candidate)
 - [PBL-CBL outperforms LBL on subjective comprehensive competencies including self-learning, interest, efficiency, clinical thinking, teamwork, and communication](pbl-cbl-subjective-competencies-orthopedics.md) — related
 - [Interns' perceived readiness for internship came from self-directed learning rather than the undergraduate curriculum](readiness-through-self-directed-learning.md) — related
+- [Knower attributes were acknowledged as important at the undergraduate stage despite knowledge-code dominance, which the authors found somewhat unexpected](knower-attributes-acknowledged-early.md) — related
+- [Specialisation-plane analysis shows knowledge-code dominance in theoretical physics with a distinct code shift from undergraduate student to expert](knowledge-code-dominance-code-shift.md) — related

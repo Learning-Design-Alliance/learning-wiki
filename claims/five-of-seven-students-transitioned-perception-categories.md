@@ -52,3 +52,4 @@ Longitudinal phenomenographic reinterviews of 7 male students from the original 
 - [Experiencing authentic research shifts the perceived threshold from doing research to doing independent research](authentic-research-shifts-threshold-to-independent-research.md) — related
 - [Students' perceptions of physicists differ in the importance they place on doing research as defining a physicist](research-importance-varies-perceptions-physicist.md) — related
 - [Students' perceptions of physicists relate to their goal orientation (mastery versus performance)](physicist-perceptions-goal-orientation-relationship.md) — related
+- [The real shift toward identifying as a legitimate theoretical physicist appears at PhD and postdoctoral level, marked by strengthening social relations](phd-postdoc-social-relations-strengthening.md) — related

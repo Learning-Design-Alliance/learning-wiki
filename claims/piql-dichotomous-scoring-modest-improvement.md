@@ -50,3 +50,4 @@ Administration of the PIQL in large-enrollment calculus-based courses, scored di
 - [Overall PIQL scores increase across the introductory sequence (mean scores of 50%, 56%, and 58%)](piql-scores-increase-across-sequence.md) — a broader claim this one bears on
 - [Item Response Curves expose per-item response patterns beyond dichotomous scoring, including persistent distractor choice and mixed responding](item-response-curves-reveal-patterns.md) — related
 - [A four-level scoring scheme for multiple-choice/multiple-response items reveals response nuance that dichotomous scoring hides](four-level-mcmr-scoring-reveals-nuance.md) — related
+- [PQL develops only slightly during introductory physics instruction, with effect sizes d = 0.3 (PreMech to PostMech) and d = 0.1 (PostMech to PostEM)](pql-develops-little-during-intro-physics.md) — possibly the same claim (merge candidate)

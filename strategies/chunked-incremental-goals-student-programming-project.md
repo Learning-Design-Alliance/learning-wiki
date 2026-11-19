@@ -50,6 +50,7 @@ One intern reports managing frustration during the internship by setting small g
 - [Micro-Goal Setting](micro-goal_setting.md)
 - [Adjust Time Frames](adjust_time_frames.md)
 - [Sequence a galaxy-simulation project from 2D elementary examples toward 3D replication of real interacting galaxies](sequenced-2d-to-3d-galaxy-simulation-project.md)
+- [Guided enquiry-based programming tasks that signpost the physics and leave the programming method to the student](signposted-physics-open-programming-enquiry-task.md)
 
 ## Examples
 -

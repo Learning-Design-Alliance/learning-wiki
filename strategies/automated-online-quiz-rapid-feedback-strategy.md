@@ -47,6 +47,7 @@ The article describes replacing TA-led discussion sections with an on-line quiz 
 - [Use ungraded pre-class quizzes to unlock module content and focus learning, paired with graded post-quizzes with feedback](pre-quiz-unlocks-module-post-quiz-feedback.md)
 - [Two Stage Quizzes](two-stage-quizzes.md)
 - [Lecture-course adaptation using a pre-lab website and TA-supported discussion sections](lecture-course-adaptation-prelab-website-ta-sections.md)
+- [Show solution statistics from automatic assessment tools as indirect gamification](solution-statistics-indirect-gamification.md)
 
 ## Examples
 -

@@ -105,6 +105,7 @@ Sequencing from simple to complex manages intrinsic cognitive load by ensuring t
 - [Introduce a tiered structure in UGR programs to separate well-prepared students from those needing foundational reinforcement](../strategies/tiered-ugr-program-structure.md)
 - [Sequence introductory QFT instruction in two stages: classical and quantum foundations first, then the emergence and implications of field theory](../strategies/two-stage-qft-intro-sequence.md)
 - [Sketch the skeleton of a field for background-free learners to enable faster later progress](../strategies/skeleton-sketch-for-faster-progress.md)
+- [Sequence learning tasks from simple structure relaxation to substitution reactions in an interactive quantum chemistry setting](../strategies/interactive-qc-task-sequence-strategy.md)
 
 ## Key Sources
 - Posner, G. J., & Strike, K. A. (1976). A categorization scheme for principles of sequencing content. *Educational Psychologist, 12*(1), 77–86. [doi:10.2307/1169945](https://doi.org/10.2307/1169945)

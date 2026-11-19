@@ -40,7 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · design `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Overall voting participation was on par with previous face-to-face sessions for both asynchronous and synchronous lectures, and questions remained sparse. [→ Schwarz G 2022](#schwarz-g-2022)
@@ -91,3 +91,5 @@ Observational note from the synchronous spring 2021 semester: classroom response
 - [Most live-CCD students favour routine curriculum implementation, far fewer video or paper students do](ccd-curriculum-implementation-preferences.md) — related
 - [Direct interaction with the lecturer was a key decision criterion for choosing the face-to-face format](lecturer-interaction-drives-face-to-face-choice.md) — related
 - [Fewer questions were asked of the instructor in webcast conditions, suggesting greater transactional distance for webcast and chat media](fewer-webcast-questions-transactional-distance.md) — related
+- [Online chat and polls encouraged students, including shy students, to express misconceptions without fear of disrupting the class](chat-and-polls-encourage-misconception-expression.md) — reports the opposite
+- [Students in emergency remote physics courses rarely felt connected or engaged with classmates, and over half reported far fewer social connections than in face-to-face classes](remote-physics-reduced-social-connection.md) — related

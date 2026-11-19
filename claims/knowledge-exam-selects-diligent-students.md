@@ -50,3 +50,4 @@ Survey of 311 first-year medical students at the University of Geneva; profiles 
 - [Neuroticism is positively associated with emotion-focused coping (especially emotional venting and isolation) while conscientiousness is positively associated with problem-focused coping](personality-coping-strategy-profiles.md) — related
 - [Big Five factors relate to achievement emotions stably across class, study and testing situations, with neuroticism linked to negative emotions and conscientiousness to positive emotions](big-five-achievement-emotions-three-situations.md) — related
 - [Big Five factors are positively associated with undergraduate self-regulation except neuroticism, which is negatively associated](big-five-self-regulation-associations-undergraduates.md) — related
+- [The authors attribute the exam improvement only partly to tutoring, citing possible self-selection of more diligent students and time-on-task](self-selection-time-on-task-caveat.md) — related

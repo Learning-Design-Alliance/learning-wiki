@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
-newest_evidence: 2025
+newest_evidence: 2026
 sources:
-  - id: bagale-2025
+  - id: bagale-2026
     resource: "https://doi.org/10.48550/arxiv.2607.12295"
-    title: "Bagale, A.; Mehjabin, N.; Ünlü, A.; Johri, A. (2025). A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data. https://arxiv.org/abs/2607.12295 [doi:10.48550/arxiv.2607.12295](https://doi.org/10.48550/arxiv.2607.12295)"
+    title: "Bagale, A.; Mehjabin, N.; Ünlü, A.; Johri, A. (2026). A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data. https://arxiv.org/abs/2607.12295 Originally published 2025. [doi:10.48550/arxiv.2607.12295](https://doi.org/10.48550/arxiv.2607.12295)"
     author: Bagale, A.; Mehjabin, N.; Ünlü, A.; Johri, A.
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` After outlier reassignment and topic reduction, the top four topics covered most of the corpus, with Topic 1 at 39.43%, Topic 2 at 21.33%, Topic 3 at 20.83%, and Topic 4 at 7.12%. [→ Bagale 2025](#bagale-2025)
+`q2 i?` After outlier reassignment and topic reduction, the top four topics covered most of the corpus, with Topic 1 at 39.43%, Topic 2 at 21.33%, Topic 3 at 20.83%, and Topic 4 at 7.12%. [→ Bagale 2026](#bagale-2026)
 
 ## Evidence
 
-### Bagale 2025
+### Bagale 2026
 
-Bagale, A.; Mehjabin, N.; Ünlü, A.; Johri, A. (2025). A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data. https://arxiv.org/abs/2607.12295 [doi:10.48550/arxiv.2607.12295](https://doi.org/10.48550/arxiv.2607.12295)
+Bagale, A.; Mehjabin, N.; Ünlü, A.; Johri, A. (2026). A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data. https://arxiv.org/abs/2607.12295 Originally published 2025. [doi:10.48550/arxiv.2607.12295](https://doi.org/10.48550/arxiv.2607.12295)
 
 `q2 · i?` · `associational · r1`
 
@@ -72,3 +72,4 @@ BERTopic analysis of the tweet corpus after c-TF-IDF outlier reassignment (outli
 - [BERTopic clustering of medical documents produced highly distinct topics rated highly by medical experts](bertopic-clustering-high-quality-topics.md) — related
 - [BERTopic topic modeling of 24 NMLE sessions identified 25 topics, of which 10 increased in prominence, including non-organ-specific topics such as accountability and community health care](nmle-topic-modeling-ten-increasing-topics.md) — related
 - [Simulated personalized feedback generation covered 1,401 test participants with topic counts ranging from 34 to 243 depending on student cluster](ptm-feedback-simulation-1401-participants.md) — related
+- [Students struggled most with machine learning generalization (Competency 12) and with recognizing negative ethical implications of AI (Competencies 12 and 16)](ml-generalization-and-ethics-difficult-competencies.md) — related

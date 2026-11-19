@@ -73,3 +73,4 @@ Observational finding from the same qualitative study: after iPad implementation
 - [Students found working with the interactive simulation more enjoyable than the same activity with printed screenshots](simulation-more-enjoyable-than-screenshots.md) — related
 - [How learning is framed influences the strategies students use, their enjoyment, and what they transfer](learning-framing-influences-strategies-and-transfer.md) — related
 - [53% of surveyed second-year high-school students had never visited a physics laboratory, indicating little experimental activity in their schools](53-percent-students-never-visited-physics-lab-picos.md) — related
+- [83% of students preferred simulation-driven classroom teaching over non-simulation-driven teaching](students-prefer-simulation-driven-teaching.md) — related

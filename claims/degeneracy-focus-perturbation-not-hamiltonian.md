@@ -54,3 +54,4 @@ Written and interview data; in step 2 of the strong-field case students were giv
 - [Students determining a good basis often focus only on diagonalizing H0 and do not consider the perturbation H′](good-basis-ignoring-perturbation-hprime.md) — related
 - [Many students do not realize degenerate perturbation theory should be used, and memorization of which basis is good masks lack of deep understanding of DPT](memorization-masks-lack-dpt-understanding.md) — related
 - [Students wrongly judge a basis good from completeness of eigenstates of H0 alone, or by examining only H0 or only H′](students-misjudge-good-basis-from-eigenstates-alone.md) — related
+- [Think-aloud interviews indicate QM experts consider whether operators are diagonal in a representation before choosing a basis, while students generally do not perform this metacognitive check](experts-check-diagonality-before-choosing-basis-students-do-not.md) — related

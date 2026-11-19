@@ -50,3 +50,6 @@ Huber regression (Table 1) of normalized empirical forgetting rate on review tim
 - [Algorithm-selected learners remember content over ~69% longer, with median half-life increases of ~92% vs random and ~40% vs difficulty groups](select-group-longer-retention-half-life.md) — related
 - [Number of retrieval exposures moderates the expanding-versus-uniform schedule benefit: more tests favour the expanding schedule](exposures-moderate-expanding-schedule-benefit.md) — related
 - [The classroom testing effect increases with the number of test repetitions on the same content.](test-repetitions-positive-relationship-classroom.md) — a broader claim this one bears on
+- [Select-optimized learners are about 50% more likely to return to the app within 4–7 days than random-group learners](select-increases-app-engagement-50-percent.md) — related
+- [Select reduces median empirical forgetting rate 48% below random selection and 40% below difficulty-based selection, with significant differences in 75% of comparisons](select-lower-forgetting-rate-than-difficulty-and-random.md) — related
+- [ML-optimized item selection helps learners retain content 67% longer than a difficulty-based selection heuristic after controlling for study length and frequency](select-ml-item-selection-67-percent-longer-retention.md) — related

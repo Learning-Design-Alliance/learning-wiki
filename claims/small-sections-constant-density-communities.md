@@ -50,3 +50,5 @@ Pre-post network analysis of the two small sections (N ≤ 30, high interactive 
 - [Introductory physics students show substantial pre-course collaborative connections even in large lecture sections, contrasting with earlier findings of isolated starting networks](pre-course-connections-large-lecture-sections.md) — related
 - [Evidence that classroom network structure relates to course outcomes under interactive pedagogies is mixed](mixed-evidence-network-density-course-outcomes.md) — related
 - [Classroom interaction networks shift over the semester from numerous seatmate ties to fewer, more selective cross-group connections](network-selection-effect-over-semester.md) — reports the opposite
+- [Modeling Instruction classroom network density more than doubled over the ten-week term](calep-modeling-instruction-network-density-doubled.md) — reports the opposite
+- [Tutorials in Introductory Physics networks clustered by tutorial section, with students working mainly with their tutorial group](calep-tutorials-network-clustering-by-section.md) — related

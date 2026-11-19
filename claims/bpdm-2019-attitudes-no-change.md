@@ -50,3 +50,4 @@ Pre/post survey of attitudes toward computer science among 2019 BPDM participant
 - [Neither PD approach changed teacher perceptions of teaching or attitudes towards teaching](pd-no-change-teacher-perceptions.md) — related
 - [Self-reported attitudes towards mental disorders did not change significantly from before to after the full curriculum in one uncontrolled pre-post study.](mali-elearning-attitudes-unchanged.md) — related
 - [The playlist intervention showed no significant difference in post-implementation science attitudes on the Emerging STEM Learning Activation Survey](hero-elementary-playlists-no-significant-science-attitude-effect.md) — related
+- [Participants' basic knowledge of quantum computing concepts rose significantly from pre-test to post-test after a computer science-oriented quantum computing workshop, in one uncontrolled pre-post study](cs-oriented-quantum-workshop-significant-knowledge-gain.md) — related

@@ -78,3 +78,4 @@ Descriptive survey data from DLP coached teachers on coaching dosage: "more than
 - [In five scaled early learning coaching systems, coach-to-site ratios averaged about 1 coach per 22 sites, dosage varied widely, and participants perceived benefits in educator satisfaction, practice, and program quality](scaled-coaching-systems-case-study-findings.md) — related
 - [Full Algebra Toolkit implementation requires roughly 14–22 hours of educator time across PD sessions, preparation, and classroom implementation](algebra-toolkit-educator-time-requirements.md) — related
 - [Developing professional learning communities appears to hold considerable promise for capacity building for sustainable improvement](plcs-hold-promise-for-capacity-building.md) — related
+- [Extended professional development of 50 or more hours is needed before teachers substantially change their practice](fifty-hour-professional-development-practice-change.md) — related

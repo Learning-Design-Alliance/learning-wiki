@@ -57,3 +57,4 @@ Delayed posttest: the same success test was reapplied three weeks after instruct
 - [Animation-supported 5E instruction produced significantly higher retention scores than the current programme five weeks after implementation](animation-5e-higher-retention-scores.md) — related
 - [The virtual material did not significantly improve knowledge permanency three weeks after the unit, while the control group's scores declined significantly](virtual-material-no-permanency-advantage.md) — related
 - [Simulation-based teaching produced significantly higher retention scores in DNA replication than conventional lecture teaching](simulation-teaching-higher-dna-retention.md) — related
+- [Undergraduates using an exploratory wave simulation outperformed a traditional-laboratory control group on retention of the medium-speed relationship eleven weeks later](exploratory-simulation-retention-outperforms-traditional-lab.md) — related

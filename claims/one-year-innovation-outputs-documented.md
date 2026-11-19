@@ -48,3 +48,4 @@ Descriptive 1-year follow-up tracking with outputs counted only when documentary
 - [Among newly recruited nurses, creativity scores rose from before to after a BOPPPS-PBL nursing innovation course in one uncontrolled pre-post study](boppps-pbl-course-creativity-increase.md) — related
 - [Group innovation project presentations scored a mean of 80.57 ± 11.29 out of 100, with teamwork the highest-rated dimension](innovation-demonstration-scores-descriptive.md) — related
 - [Innovation and entrepreneurship projects increased from 40 to 150 during the implementation period](innovation-entrepreneurship-projects-increase.md) — related
+- [Student-proposed course projects turn out to be the most successful projects](student-proposed-projects-most-successful.md) — related

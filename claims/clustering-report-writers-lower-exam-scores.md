@@ -53,3 +53,4 @@ K-means clustering (k=4, chosen by elbow method and silhouette analysis) of norm
 - [Academic performance was highly consistent across the four repeatedly taught groups, with no significant ANOVA difference and a negligible effect size](pre-session-planning-consistent-academic-performance.md) — related
 - [Normalized change in exam scores was higher for focal students than control students across all pairs of exams in both semesters](normalized-change-higher-focal-students.md) — related
 - [Final project performance was on par with homework and exam grades, with students strongest on physics, model, and working code and weakest on evaluating outcomes and synthesis](final-project-rubric-performance-pattern.md) — related
+- [K-means cluster analysis of 66 research-based physics activities from eleven curricula yields three design clusters](three-clusters-physics-activities-kmeans.md) — related

@@ -49,3 +49,4 @@ Weekly survey data collected during Spring 2012 from the 21 upper-division Physi
 - [In a pilot study of student-centered guest lecturing, most online graduate students reported positive satisfaction and perceived engagement with the approach](pilot-positive-perceptions-student-centered-guest-lecturing.md) — related
 - [Non-physics-major students enjoyed the cycloid experiment](non-physics-majors-enjoyed-cycloid-experiment.md) — related
 - [Most students were satisfied with the air:bit project and found the online materials helpful](airbit-student-satisfaction-online-materials.md) — related
+- [83% of students preferred simulation-driven classroom teaching over non-simulation-driven teaching](students-prefer-simulation-driven-teaching.md) — related

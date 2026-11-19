@@ -49,6 +49,7 @@ Because interdisciplinary approaches are not commonplace and subject-based unive
 ## Related Strategies
 
 - [Embed personal-ethical and personal-professional competencies across subjects, planned experiences and incidental teachable moments](tdc-integration-across-subjects-strategy.md)
+- [Collaborate across subjects with physics teachers to cover the quantum information teacher-training gap](physics-teacher-collaboration-qip.md)
 
 ## Examples
 -

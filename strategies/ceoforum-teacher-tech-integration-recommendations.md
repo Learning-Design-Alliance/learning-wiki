@@ -60,6 +60,7 @@ The report issues a set of dated recommendations directed at educators, administ
 - [Provide in-service training, workshops, seminars and conferences on ICT utilization for teachers](in-service-ict-training-for-teachers.md)
 - [Use SWBL as an alternative learning environment to equip pre-service teachers with technology-application knowledge and skills](swbl-alternative-environment-teacher-ict-training.md)
 - [Train teachers to prepare and use computerized educational packages and establish supervised Arabic educational websites](teacher-training-computerized-packages-strategy.md)
+- [Teacher training directions for Smart Kids technology in pre-service elementary teacher education](smart-kids-teacher-training-directions.md)
 
 ## Examples
 -

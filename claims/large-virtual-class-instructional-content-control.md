@@ -63,3 +63,4 @@ Interview theme on managing instructional delivery, illustrated by individual pa
 - [Synchronous online discussions led by Makerere University were the central learning technique and enabled peer-to-peer learning across three countries](synchronous-online-discussions-central-peer-learning.md) — related
 - [Having group representatives present their answers in front of the class embarrassed students and backfired, and the strategy was immediately abandoned.](group-representative-presentations-backfired.md) — related
 - [In Implementation 3, Teacher C lectured centrally about all aspects of science while Teacher D questioned students about Biology as a discipline](bsc-teacher-c-versus-d-implementation-3.md) — related
+- [Breakout rooms with a shared whiteboard can productively replicate collaborative case-problem solving online, albeit at a slower pace](breakout-rooms-replicate-collaborative-case-problem-solving-online.md) — related

@@ -45,3 +45,4 @@ The author's argument in section 5.4: the popular form "E = mc 2" without the su
 
 
 ## Related Claims
+- [Teachers hold documented wrong concepts about special relativity, including treating E=mc2 as a mere unit-conversion formula and equating reference frame, coordinate system and observer](teacher-wrong-concepts-relativity-aleman.md) — related

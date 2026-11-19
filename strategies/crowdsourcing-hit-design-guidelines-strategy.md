@@ -46,7 +46,8 @@ The paper's HIT design asked workers to watch example videos of what a good expl
 - [Path analysis of 17 explanations of one problem found all solution paths unique, varying in strategy, sequence, and granularity](../claims/unique-solution-paths-path-analysis.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Crowdsourced study pipeline with quality control for investigating pedagogies at scale](turker-learning-study-pipeline.md)
 
 ## Examples
 -

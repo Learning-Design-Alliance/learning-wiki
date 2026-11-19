@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 90 claims (55 for, 30 mixed, 5 against) · 52 studies (32 causal, 12 quant-synthesis, 4 design, 3 review, 1 associational), `q1`–`q4` · 16 of 52 report an effect size · 88 claims rest on one study
+> **Evidence** · 91 claims (56 for, 30 mixed, 5 against) · 53 studies (33 causal, 12 quant-synthesis, 4 design, 3 review, 1 associational), `q1`–`q4` · 16 of 53 report an effect size · 89 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -114,6 +114,7 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [Flipped-classroom EBM training produced significantly higher Fresno test scores than traditional lecture-based EBM training in medical technology interns](../claims/fresno-test-higher-flipped-ebm-medical-technology.md) [+M] — attached 2026-11-08 from Huang Hsien-Li et al. (2020), which proposed "Tailor-made flipped-classroom EBM course for medical technology interns (FC-EBM)"; tests this page's relationship.
 - [All students appreciated the inverted classroom approach because it freed seminar time for interactive, practice-based learning](../claims/inverted-classroom-appreciated-interactive-time.md) [+M] — attached 2026-11-09 from Bösner S et al. (2015), which proposed "K-Med-hosted inverted classroom seminar structure for differential diagnosis in primary care".
 - [Students in an inverted-classroom differential diagnosis seminar showed a significant overall absolute gain in skills and knowledge of 33% (p < 0.01)](../claims/inverted-classroom-33-percent-gain-differential-diagnosis.md) [+M] — attached 2026-11-09 from Bösner S et al. (2015), which proposed "K-Med-hosted inverted classroom seminar structure for differential diagnosis in primary care".
+- [Normalized gains on conceptual surveys are largest in EBAE courses compared with lecture-based courses of the same type](../claims/normalized-gain-largest-ebae-courses.md) [+W] — attached 2026-11-19 from Nafis I. Karim et al. (2017), which proposed "Flipped introductory physics course structure with pre-class videos, concept questions, and in-class active engagement"; tests this page's relationship.
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

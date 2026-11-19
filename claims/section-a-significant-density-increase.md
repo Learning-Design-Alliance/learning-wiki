@@ -50,3 +50,6 @@ Bootstrap t-test comparison of matched pre- and post-course network densities in
 - [Section A more than halved its number of detected communities over the semester, indicating fewer students working in isolation](section-a-community-count-halved.md) — related
 - [Classroom interaction networks shift over the semester from numerous seatmate ties to fewer, more selective cross-group connections](network-selection-effect-over-semester.md) — reports the opposite
 - [Network density roughly doubles from week 1 to week 10 in three of the four curricula, with Peer Instruction showing only a marginal increase](week10-density-doubles-three-curricula.md) — related
+- [Modeling Instruction classroom network density more than doubled over the ten-week term](calep-modeling-instruction-network-density-doubled.md) — related
+- [Peer Instruction networks showed string-like seating structures with many isolates and only slightly larger connectivity by term's end](calep-peer-instruction-string-networks-isolates.md) — related
+- [Tutorials in Introductory Physics networks clustered by tutorial section, with students working mainly with their tutorial group](calep-tutorials-network-clustering-by-section.md) — related

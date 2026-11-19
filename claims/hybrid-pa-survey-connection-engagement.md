@@ -54,3 +54,6 @@ Survey of all first-year hybrid students (n = 15 eligible, 80% response rate) ad
 - [Only 62.5% of students felt free to pose questions in the WeChat-PBL group, the lowest-agreement item in the overall evaluation](wechat-pbl-low-question-posing.md) — related
 - [Students evaluated the Learning Assistant role positively, with 88% agreeing LAs were valuable team members and 92% understanding and appreciating the role](positive-student-evaluations-of-las.md) — related
 - [Students perceive teamwork as valuable but far fewer actually collaborate out of class, even when teamwork is expected or required](attitude-practice-discrepancy-collaboration.md) — related
+- [Breakout rooms with a shared whiteboard can productively replicate collaborative case-problem solving online, albeit at a slower pace](breakout-rooms-replicate-collaborative-case-problem-solving-online.md) — related
+- [Online chat and polls encouraged students, including shy students, to express misconceptions without fear of disrupting the class](chat-and-polls-encourage-misconception-expression.md) — related
+- [Students in emergency remote physics courses rarely felt connected or engaged with classmates, and over half reported far fewer social connections than in face-to-face classes](remote-physics-reduced-social-connection.md) — related

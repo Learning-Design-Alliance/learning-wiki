@@ -76,3 +76,4 @@ MANOVA across the five retained profiles on the seven SRL sub-constructs, report
 - [Students in the blended engineering course approached inquiry and online learning technologies while collaborating both in class and online.](inquiry-and-online-technology-approaches-in-collaboration.md) — related
 - [The competency profiles differ by overall level, with all seven CIRN dimensions increasing synchronously, rather than by divergent strength-and-weakness combinations](synchronous-dimension-increases-across-profiles.md) — related
 - [Latent class analysis of introductory biology students' resource use identifies four distinct profiles: High Overall Frequency, Low Overall Frequency, Moderate Guided Users, and Independent Navigator.](four-latent-resource-use-profiles-intro-biology.md) — related
+- [Online undergraduate introductory physics courses show higher withdrawal rates than in-person courses](online-intro-physics-higher-withdrawal.md) — related

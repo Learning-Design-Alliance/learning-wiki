@@ -49,3 +49,4 @@ Internal-grade analysis of the physics courses studied, where 25-30% of credit i
 - [Quizzical participation showed no gender difference even though males outperformed females on course exams in both cohorts](no-gender-difference-quizzical-participation.md) — related
 - [The flipped format alleviates the gender disparity in exam scores: female students underperform males in the standard class but do not differ significantly on two of three exams in the flipped class](flipped-format-alleviates-gender-disparity-exam-scores.md) — related
 - [The same student cohorts show no statistically significant gender gap in end-of-course examination performance](no-exam-gender-gap-same-cohorts.md) — reports the opposite
+- [In algebra-based mechanics, female students outperformed male students on the third and fourth midterm exams with weak effect sizes](algebra-mechanics-exams-female-higher.md) — a narrower finding that bears on this claim

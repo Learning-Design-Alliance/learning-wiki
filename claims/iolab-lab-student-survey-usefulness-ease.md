@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-11-19
 sources:
   - id: louis-leblond-and-melissa-hicks-2021
     resource: "https://doi.org/10.1119/10.0004886"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 66 of 71 surveyed students (93%) agreed the iOLab-based lab was useful to their learning. [→ Louis Leblond and Melissa Hicks 2021](#louis-leblond-and-melissa-hicks-2021)

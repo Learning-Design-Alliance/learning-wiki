@@ -69,3 +69,4 @@ Descriptive survey results for the student-student interactions subscale. The ar
 - [A quarter of first-year students reported their academic work was often or very often adversely affected by time spent on Facebook.](facebook-time-detriment-academic-work.md) — related
 - [Quality of Facebook-mediated interactions and relationships is positively correlated with student grades](facebook-interaction-quality-correlated-with-grades.md) — related
 - [Peer-to-peer meetings between hybrid and on-campus students and twice-monthly on-campus days fostered students' sense of integration and inclusion](peer-to-peer-meetings-foster-integration.md) — related
+- [Students in emergency remote physics courses rarely felt connected or engaged with classmates, and over half reported far fewer social connections than in face-to-face classes](remote-physics-reduced-social-connection.md) — reports the opposite

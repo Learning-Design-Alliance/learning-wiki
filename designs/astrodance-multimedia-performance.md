@@ -50,4 +50,4 @@ AstroDance is an original dance and theatrical multimedia performance communicat
 -
 
 ## Key Sources
-- Nordhaus, J., Campanelli, M., Bochner, J., Warfield, T., Bischof, H.-P., & Noel-Storr, J. (2020). AstroDance: Engaging Deaf and Hard-of-Hearing Students in Astrophysics via Multimedia Performances. https://arxiv.org/abs/2006.10543
+- Nordhaus, J., Campanelli, M., Bochner, J., Warfield, T., Bischof, H.-P., & Noel-Storr, J. (2020). AstroDance: Engaging Deaf and Hard-of-Hearing Students in Astrophysics via Multimedia Performances. https://arxiv.org/abs/2006.10543. [doi:10.48550/arxiv.2006.10543](https://doi.org/10.48550/arxiv.2006.10543)

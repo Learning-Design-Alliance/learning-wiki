@@ -51,3 +51,4 @@ Subjective feedback from the single simulation event: audience comments included
 - [Students rated video and audio transmission quality, connection stability, case comprehensibility and interaction options consistently good to very good](e-visite-technical-quality-ratings.md) — related
 - [Showing online video live in the lecture via a web interface enables in-class introduction and discussion but carries risks of technical failure, slow streaming, poor visibility, distraction and awkward seeking](web-interface-video-in-lecture-risks.md) — related
 - [Recorded video demonstrations offer classroom advantages over live demonstrations, including slow motion, annotations, visible detail and easier logistics](recorded-demonstration-advantages-over-live.md) — related
+- [Audio-dependent demonstrations lose their intended learning outcome online because of microphone and speaker limitations](audio-dependent-demonstrations-limited-online.md) — related

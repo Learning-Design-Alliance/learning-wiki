@@ -70,3 +70,4 @@ Instructor-reported comparison in the same empirical-fit section between student
 - [Students find magnetopause crossings well in magnetic field data but have more difficulty with particle data, and some data sets contain no crossings at all](magnetopause-lab-crossing-search-field-versus-particle-data.md) — related
 - [Using a stair-step pattern of solar wind input conditions in the simulation portion of the lab led to much better student results than linearly varying conditions](stair-step-solar-wind-inputs-improve-lab-results.md) — related
 - [No included study reported worse results for simulation education: all 42 studies reported good or better results for simulation](no-study-worse-for-simulation.md) — related
+- [When opposing groups exchange raw position data, each team's data reproduces the other team's initial results, showing the discrepancy is in the calculation, not the data](peer-data-exchange-reveals-calculation-error.md) — related

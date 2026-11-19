@@ -67,3 +67,4 @@ The claim is strongest for novices. Once learners already possess the underlying
 - [Studying worked examples is more effective and more efficient than problem solving for novice learners (the worked example effect)](worked-example-effect-novices-review.md) — a broader claim this one bears on
 - [Worked examples result in better performance than conventional problem solving with no guidance, per prior work cited in the thesis](worked-examples-better-than-problem-solving-cited.md) — related
 - [Learners' interview responses indicated schema construction linking novel problems to worked-out examples](interview-responses-indicate-schema-construction.md) — related
+- [The thesis reports that learners, especially novices, find desired course information faster without sacrificing accuracy and retain concepts more readily with the manually linked interface than with conventional presentation](content-linking-interface-faster-search-retention.md) — related

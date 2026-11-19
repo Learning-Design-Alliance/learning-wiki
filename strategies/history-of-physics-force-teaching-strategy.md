@@ -40,6 +40,7 @@ The article recommends drawing on the history of physics to support learning of 
 ## Related Strategies
 
 - [Use historic experiments on movement, repeated hands-on by students, to induce conceptual change](historic-experiments-hands-on-concept-change.md)
+- [Teach physics concepts through a historical approach showing discovery and evolution over time](historical-approach-physics-concepts-strategy.md)
 
 ## Examples
 -

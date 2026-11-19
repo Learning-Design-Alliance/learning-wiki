@@ -73,3 +73,4 @@ Formative interview finding on feedback timing: a participant stated "Do not int
 - [Intervening, in which the teacher interrupts and takes over the situation, could impair students' learning process and the teacher-student relationship](intervening-can-impair-learning.md) — related
 - [The CCD modeling activity met its primary content and process goals as evaluated by formative assessment and post-activity evaluation forms](ccd-modeling-activity-goals-met.md) — related
 - [Frequent formative assessment used throughout a course can greatly improve student learning by giving students repeated opportunities to reflect and giving instructors real-time feedback](frequent-formative-assessment-improves-learning.md) — related
+- [Students preferred structured consolidation tasks over open-ended exploration of the exercise scripts](students-prefer-structured-tasks-over-open-exploration.md) — related

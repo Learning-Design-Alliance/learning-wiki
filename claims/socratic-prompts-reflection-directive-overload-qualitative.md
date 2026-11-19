@@ -9,7 +9,7 @@ generated:
   at: 2026-10-12
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-20
+source_checked: 2026-11-19
 sources:
   - id: han-xue-2026
     resource: "https://doi.org/10.3390/bs16071069"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-19 (automated, 2 of 2 entries) · not reviewed by a person
 > **Design limits** · Han Xue 2026: the intervention came bundled with another change · Han Xue 2026 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims

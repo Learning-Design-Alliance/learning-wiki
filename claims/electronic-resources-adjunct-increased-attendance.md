@@ -55,3 +55,4 @@ Review's interpretation of three studies (Alamer and Alharbi; Nast et al; Popovi
 - [Systematic review finds no consistent longitudinal change in medical student attendance at in-person teaching sessions](no-consistent-change-medical-student-attendance.md) — related
 - [Students were initially hesitant about student-led interactive sessions, with tutorial attendance 5% lower than traditional lecture delivery before engagement rose](initial-student-hesitancy-pbl-sessions.md) — related
 - [After introducing flipped classroom seminars, students showed higher activity, engagement and attendance and evaluated the seminars as very good learning activities](flipped-seminars-higher-engagement-dental.md) — related
+- [Asynchronous use of the tutoring platform far exceeded synchronous attendance, with about 9000 registered Moodle users versus 385 average weekly session attendees](asynchronous-engagement-exceeded-synchronous.md) — related

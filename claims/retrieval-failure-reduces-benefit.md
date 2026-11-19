@@ -109,3 +109,4 @@ This meta-analysis pooled 159 effect sizes from 61 published and unpublished stu
 - [Conditionalized on initial retrieval success, testing beats restudy at 24 hours, but a second test adds no reliable benefit](testing-effect-conditional-on-retrieval-success.md) — related
 - Unsuccessful retrieval attempts accompanied by feedback enhance subsequent learning as much as studying the answer directly with more than double the time — related
 - [High- and low-achieving students differ in initial-attempt success but make similar use of later tries, suggesting self-regulation plays a minor role](high-low-achievers-similar-later-try-use.md) — related
+- [Adaptive assessment services adjust task difficulty based on the learner's response to the previous task](adaptive-assessment-adjusts-difficulty-to-previous-response.md) — related

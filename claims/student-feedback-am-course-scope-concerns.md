@@ -47,3 +47,4 @@ Authors' report of student feedback in the Spring 2014 on-campus course, in whic
 ## Related Claims
 - [Student feedback on the story-writing activity was overwhelmingly negative in both semesters despite high effort](story-writing-negative-feedback.md) — related
 - [Project-based learning improves achievement](project-based-learning-improves-achievement.md) — a broader claim this one bears on
+- [Student evaluations of the active-learning graduate course improved from 3.7/5 in the first year to 5/5 in the last year, with 95% attendance despite an 8:30 am start](qft-active-learning-evaluations-improved-to-5-of-5.md) — related

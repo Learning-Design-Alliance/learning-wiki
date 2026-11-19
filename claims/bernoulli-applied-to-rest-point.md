@@ -48,3 +48,4 @@ Error categorization of written exam solutions from the May 2015 midterm, where 
 ## Related Claims
 - [Half of interviewed students claimed a fluid element descending a uniform vertical pipe accelerates](vertical-pipe-accelerated-flow-misconception.md) — related
 - [Many students treat the pressure of a moving fluid as equal to the hydrostatic pressure of a fluid at rest](moving-fluid-pressure-equals-hydrostatic.md) — a narrower finding that bears on this claim
+- [After completing General Physics courses, many university students fail to recognize how a fluid element interacts with its environment, distinguishing poorly between confined and unconfined fluid](fluid-element-interaction-difficulties-post-instruction.md) — related

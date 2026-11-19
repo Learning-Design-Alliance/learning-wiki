@@ -50,6 +50,7 @@ The article concludes that WhatsApp use in the education process should be encou
 - [Adopt mobile messaging applications, especially WhatsApp, across English-language teaching](adopt-whatsapp-mobile-apps-elt-strategy.md)
 - [Use SMS as a low-requirement support tool in learning processes](sms-as-support-tool-strategy.md)
 - [Integrate mobile messaging applications such as WhatsApp into the L2 curriculum to promote regular-participation learning communities](integrate-whatsapp-into-l2-curriculum-strategy.md)
+- [Integrate social media channels to build community and provide timely feedback in virtual physics courses](social-media-community-feedback-physics-elearning.md)
 
 ## Examples
 -

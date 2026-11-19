@@ -75,3 +75,4 @@ Pre/post concept-based multi-choice tests with randomly assigned question sets g
 - [Learning through RTR was predominantly active and hands-on, equivalent to other laboratory activities](rtr-predominantly-active-hands-on-learning.md) — related
 - [An asymmetry misconception in time dilation was present pre-instruction and reduced after instruction](time-dilation-asymmetry-misconception.md) — related
 - [Pre/post survey shows significant knowledge gain after the bilayer lab session](bilayer-lab-significant-knowledge-gain.md) — related
+- [Pre-service and future physics teachers show considerable difficulties with special relativity concepts such as proper time, time dilation, reference frames and events](teacher-alternative-conceptions-special-relativity.md) — related

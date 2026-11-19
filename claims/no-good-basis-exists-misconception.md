@@ -53,3 +53,4 @@ Think-aloud interview responses. One student said, "I don't know what a linear c
 - [Students determining a good basis often focus only on diagonalizing H0 and do not consider the perturbation H′](good-basis-ignoring-perturbation-hprime.md) — related
 - [Roughly half of students diagonalize the entire H′ matrix instead of only its degenerate subspace when finding a good basis](students-diagonalize-entire-h-prime-matrix.md) — related
 - [Many upper-level undergraduate and graduate students struggle to identify a good basis for finding the corrections to the energy spectrum due to the strong and weak field Zeeman effects](students-struggle-good-basis-zeeman-dpt.md) — related
+- [Think-aloud interviews indicate QM experts consider whether operators are diagonal in a representation before choosing a basis, while students generally do not perform this metacognitive check](experts-check-diagonality-before-choosing-basis-students-do-not.md) — related

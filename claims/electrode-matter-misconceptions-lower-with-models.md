@@ -49,3 +49,4 @@ Content analysis of incorrect answers to Task 7 of the EcAT post-test, which ask
 - [The three study groups differed significantly in prior knowledge of electrochemical cells before instruction, with the CLMG group starting highest](pretest-differences-electrochemical-groups.md) — related
 - [Students in all three instructional groups hold the misconception that no ions pass through the salt bridge to maintain load balance in a working electrochemical cell](salt-bridge-ion-passage-misconception-all-groups.md) — related
 - [Teaching electrochemical cells via STAD cooperative learning combined with models raises undergraduate achievement more than STAD alone or traditional teaching](stad-with-models-beats-stad-and-traditional-electrochemical-cells.md) — related
+- [Rapid ML surrogate experiments let students observe that increasing salt concentration accumulates ions near the interface](salt-concentration-increases-interface-ion-accumulation.md) — related

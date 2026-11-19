@@ -48,3 +48,4 @@ Comparison of FMCE normalized gains across eight first-semester courses (Table 1
 - [A semester using the textbook's workbook materials with similar group-work practices produced gains comparable to Tutorials](workbook-gains-comparable-to-tutorials.md) — related
 - [Shifting away from traditional IRE recitation toward student participation in discussion improves student learning](ire-shift-toward-discussion-improves-learning.md) — a broader claim this one bears on
 - [Student-designed tutorials produced high normalized learning gains (Hake gain 0.8) in tutored introductory physics students](student-tutorials-hake-gain-0-8.md) — related
+- [A non-flipped EBAE course using active learning in class and reformed recitations produced performance comparable to a flipped course](non-flipped-ebae-comparable-to-flipped.md) — related

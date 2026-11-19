@@ -73,3 +73,5 @@ Interview coding of heatmap rationales: most teachers reported finding the heatm
 - [Teachers perceived OUA as useful and easy to use, with positive cognitive evaluations suggesting low academic resistance](teachers-perceive-oua-useful-easy.md) — related
 - [Teachers used student performance and progress data at individual, class, and school levels, often presented via color-coded dashboard visualizations](digital-data-types-teachers-use.md) — related
 - [Students reported that maximal simplicity and usability drove adoption of Learning Moment, while extraneous entry steps felt burdensome](lm-simplicity-maximal-usability-theme.md) — related
+- [Three of seven beginning teachers chose an explanation they had just deemed inconsistent and broadly incomplete for university students, citing simplicity and mnemonic value](inconsistent-explanation-chosen-for-students.md) — related
+- [Most elementary school teachers chose an e-textbook because of familiarity with its printed version or authors](teachers-choose-familiar-printed-textbook-content.md) — related

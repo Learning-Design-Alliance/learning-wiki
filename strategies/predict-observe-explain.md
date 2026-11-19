@@ -88,6 +88,7 @@ POE works because committing to a prediction activates prior knowledge and expos
 - [Select fiction by conceptual fit rather than popularity, and use it as discrepant events and small-group critique prompts](select-fiction-by-conceptual-fit-strategy.md)
 - [Postactivity discussion resolves conflicting evidence across data types and connects student phylograms to scientific consensus](postactivity-discussion-multiple-evidence.md)
 - [Correlate-then-explain: students search freely for correlations, then seek scientific causes and present seminars](correlate-then-explain-seminar-sequence.md)
+- [Adapt the POE (predict-observe-explain) method to smartphone-based physics experiments](poe-smartphone-experiments-strategy.md)
 
 ## Examples
 - **Physics lecture (Mazur's Peer Instruction lineage)**: Students predict whether a heavy and a light ball dropped together land simultaneously, vote with clickers, discuss, then observe the drop — the same predict-commit-discuss cycle Crouch and Mazur documented at Harvard.

@@ -50,6 +50,7 @@ The article presents Crook's (1994) account that "peer collaboration offers thre
 
 - [Peer Discussion](../elements/peer-discussion.md)
 - [Peer Interaction](../elements/peer-interaction.md)
+- [Resolve intuitive inconsistencies by connecting the phenomenon to broader intuitions via analogies, blends, microscopic mechanisms, causal stories, reframing, and multiple perspectives](../strategies/multiple-angles-for-intuitive-resolution.md)
 
 ## Key Sources
 - Tao, Ping-Kee; Gunstone, Richard F. (1997). Conceptual Change in Science through Collaborative Learning at the Computer. Paper presented at the Annual Meeting of the National Association for Research in Science Teaching (70th, Oak Brook, IL, March 21-24, 1997). https://eric.ed.gov/?id=ED406151

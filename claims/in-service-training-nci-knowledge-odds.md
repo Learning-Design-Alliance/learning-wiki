@@ -50,3 +50,4 @@ Adjusted analysis (Table 3) of the cross-sectional survey of 237 nurses, compari
 - [Using specialist medical literature and participating in specialist courses each raise the odds of sufficient nosocomial-infection knowledge about 1.6-fold](literature-and-specialist-courses-predict-sufficient-knowledge.md) — related
 - [Attendance at a BLS/CPR workshop within the last 5 years predicts good knowledge among dentists (aOR = 4.91)](recent-bls-workshop-predicts-knowledge.md) — related
 - [Younger nurses (<20 years) had significantly higher odds of NCI-prevention knowledge than nurses aged 20–40 and 41–60, contrary to prior literature](younger-nurses-higher-nci-knowledge-odds.md) — related
+- [The dual Native Skywatchers educator workshops have been offered annually since 2012 with about 30 participants each](annual-workshops-30-participants.md) — a narrower finding that bears on this claim

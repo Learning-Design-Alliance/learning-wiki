@@ -69,6 +69,7 @@ Trust is not a soft prerequisite; it changes what learners are willing to do cog
 - [Build identity safety through empathy-building, connection tools, and values affirmation routines](identity-safety-relationship-building-strategies.md)
 - [Three design components to make Knowledge Building accessible to low-achieving students](three-design-components-accessible-kb.md)
 - [Instructor trust-building strategies for active-learning courses](trust-building-strategies-active-learning.md)
+- [Protect panelist safety when students or vulnerable-population members speak, using moderator relationships, norms statements, and anonymized questions](panelist-safety-norms-anonymized-questions.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the activity most dependent on established trust

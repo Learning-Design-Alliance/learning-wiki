@@ -50,3 +50,4 @@ A 2 (Test Moment) x 2 (Context) x 2 (Training) mixed ANOVA on proportion correct
 - [Contrasting examples, correct examples, erroneous examples, and practice problems produced no differences in learning gains or transfer of unbiased-reasoning skills](no-condition-differences-ct-practice-formats.md) — related
 - [Training did not reduce confirmation bias on in-context measurements embedded in the second murder case](no-cb-reduction-in-context.md) — related
 - [The monitoring and reflection intervention had no significant effect on post-intervention academic performance](no-academic-performance-effect.md) — related
+- [Intuitive (System 1) answers account for the majority of wrong CRT answers, and scratch-work evidence supports raw CRT score as a measure of cognitive reflection](intuitive-answers-dominate-crt-errors.md) — related

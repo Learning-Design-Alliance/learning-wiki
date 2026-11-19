@@ -65,6 +65,7 @@ Open classroom climate is one of the most consistently documented school-level p
 - [Protect teachers from social and political backlash by communicating CRSE's value and providing norms and probing questions for sociopolitical discussions](protect-teachers-sociopolitical-backlash-crse.md)
 - [Engage student voice through safe sharing spaces, assumption removal, active listening, co-creation, and co-designed action plans](promising-practices-engaging-student-voice.md)
 - [Establish anonymous feedback channels and psychologically safe classrooms to support critical expression](anonymous-feedback-psychologically-safe-classroom-strategy.md)
+- [Protect panelist safety when students or vulnerable-population members speak, using moderator relationships, norms statements, and anonymized questions](panelist-safety-norms-anonymized-questions.md)
 
 ## Examples
 - **The Political Classroom (Hess & McAvoy, 2015)** — a multi-year study of social studies teachers who used "best practice" discussion of contested issues; classrooms where teachers maintained impartiality sustained the highest-quality deliberation.

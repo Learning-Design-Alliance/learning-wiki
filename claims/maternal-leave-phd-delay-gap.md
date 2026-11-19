@@ -49,3 +49,4 @@ Survey question on parental leave among Israeli physics Ph.D. students. The auth
 - [Parenthood affects the studying of most student-mothers and student-fathers, with women reporting more schedule flexibility and efficiency gains](parenthood-affects-phd-studying-gendered.md) — related
 - [Paid parental leave is associated with maternal recovery, workforce retention, earnings, and longer nursing duration](paid-leave-benefits-mothers-infants.md) — related
 - [Most female physics Ph.D. students (67%) report experiencing discrimination during their studies, versus 19% of men, mainly on grounds of gender and pregnancy/parenthood](gender-discrimination-israeli-physics-phd.md) — related
+- [Women physics Ph.D. students carry a greater burden of childcare and family work than their male colleagues](women-phd-physics-greater-childcare-family-burden.md) — related

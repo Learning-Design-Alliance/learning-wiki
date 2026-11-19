@@ -52,6 +52,7 @@ The report's discussion offers eight recommendations for education decision-make
 - [Use SWBL as an alternative learning environment to equip pre-service teachers with technology-application knowledge and skills](swbl-alternative-environment-teacher-ict-training.md)
 - [Design ICT-integration teacher training that is subject-oriented and workshop-based over a long period](subject-oriented-workshop-ict-teacher-training.md)
 - [Use blended learning approaches for teachers' professional development in ICT integration](blended-approach-teacher-pd-strategy.md)
+- [Teacher training directions for Smart Kids technology in pre-service elementary teacher education](smart-kids-teacher-training-directions.md)
 
 ## Examples
 -

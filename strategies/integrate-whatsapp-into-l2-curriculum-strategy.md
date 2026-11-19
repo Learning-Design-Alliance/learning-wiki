@@ -48,6 +48,7 @@ The authors recommend that, to support L2 learners who cannot meet their languag
 - [Use WhatsApp as a supportive technology alongside traditional instruction, with careful attention to message timing](whatsapp-as-supportive-technology-strategy.md)
 - [Use WhatsApp mobile learning activities only within a blended course strategy that integrates face-to-face and mobile learning](whatsapp-only-in-blended-course-strategy.md)
 - [Use Facebook applications to deliver Islamic Studies content with student choice of access](facebook-applications-deliver-content-student-choice-access.md)
+- [Integrate social media channels to build community and provide timely feedback in virtual physics courses](social-media-community-feedback-physics-elearning.md)
 
 ## Examples
 -

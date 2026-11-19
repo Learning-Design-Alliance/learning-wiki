@@ -72,3 +72,4 @@ Technical-level item from the same evaluation: median 4 with IQR 0 on the six-po
 - [Extracurricular fluorescence modules left students enthusiastic but were experienced as difficult to follow](fluorescence-module-engaging-but-difficult.md) — related
 - [Most PHYS 170 students judge the course's mathematics and calculus level appropriate for their ability](phys170-math-level-judged-appropriate.md) — related
 - [Students evaluated the CPS experience positively, most appreciating group discussion and knowledge sharing](students-evaluate-cps-positively.md) — related
+- [Students judged activity difficulty as balanced overall, but a minority found the topics hard and interest gains were higher for high-energy astrophysics than for solar system work](ssdc-outreach-difficulty-and-interest-patterns.md) — related

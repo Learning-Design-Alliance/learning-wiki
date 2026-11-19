@@ -53,3 +53,4 @@ National anonymous online survey of all registered Irish pre-hospital practition
 - [Irish paramedics and advanced paramedics support linking continuous professional competence to registration, with 74% agreeing evidence of CPC should be a condition of registration](irish-paramedics-support-cpc-registration-link.md) — a narrower finding that bears on this claim
 - [A majority (77%) of Irish paramedics and APs favour a mixed mandatory/voluntary CPC model with minimum standards including evidence of patient care](mixed-mandatory-voluntary-cpc-model-supported.md) — related
 - [A majority of respondents support organisational input into CPC composition and audit, with 79% wanting employer input](organisational-input-and-audit-of-cpc-supported.md) — related
+- [Nearly 60% of registrants at the most recent meeting registered with preferred pronouns once the optional practice was introduced](optional-pronoun-registration-uptake-ncnaapt.md) — related

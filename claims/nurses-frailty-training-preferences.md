@@ -58,3 +58,4 @@ Descriptive analysis of an 11-item educational-needs questionnaire among the 558
 - [Blended-teaching students reported positive perceptions, with a majority preferring it to traditional offline teaching and willing to adopt it in other courses](blended-teaching-positive-student-perceptions.md) — related
 - [Students preferred face-to-face tutoring and online answering as guidance methods in the blended course](students-prefer-face-to-face-and-online-guidance-mix.md) — related
 - [Physiotherapy students prefer a combination of online e-learning and lecture-style learning formats for chronic disease management](physiotherapy-students-prefer-blended-e-learning-lecture-formats.md) — related
+- [69% of professors opted for blended teaching and 91% agreed with the staggered timetable (AP1)](professors-opted-for-blended-teaching-ap1.md) — related

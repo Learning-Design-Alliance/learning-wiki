@@ -54,3 +54,4 @@ Same survey (N = 2520) on future preferences after experiencing e-learning. "the
 - [First-year EAP students prefer a hybrid feedback model combining AI-generated comments with instructor feedback over either source alone](students-prefer-hybrid-ai-instructor-feedback.md) — related
 - [Students overwhelmingly favored a hybrid approach combining VDTs with cadaveric dissection over full replacement](students-favor-hybrid-vdt-cadaver-approach.md) — related
 - [Among students who had defined a final/diploma thesis topic, a majority feared pandemic disruptions would prevent completing the thesis within the planned time](thesis-completion-delay-fear-pandemic.md) — related
+- [Only 18% of the 1011 students chose to follow lectures exclusively online in the binding ex ante survey AS2](eighteen-percent-students-chose-exclusively-online-as2.md) — related

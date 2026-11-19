@@ -48,3 +48,4 @@ Hard-attribution responses from students in the active-learning course (100-leve
 - [Students attribute the ease of active-learning courses primarily to high faculty support and course design, with level differences in which ease factors are named](active-learning-ease-faculty-support.md) — related
 - [Introductory and upper-level biology students differ in what they say makes a course hard, with 100-level students emphasizing stressors and 300-level students emphasizing cognitive demand](level-differences-hard-course-perceptions.md) — related
 - [Forced-choice attributions for hard and easy courses differ between 100-level and 300-level students](forced-choice-hard-easy-level-differences.md) — related
+- [Students characterize rigor differently by course level: workload for introductory courses, cognitive demand for upper-level courses](student-rigor-views-workload-versus-cognitive-demand.md) — related

@@ -54,6 +54,8 @@ Method 2 asks students to "select a research topic and then identify and read se
 - [Four suggested classroom applications of Astrobites: reading assignments, written summaries, in-class presentations, and a website discussion forum](astrobites-classroom-integration-strategies.md)
 - [Structured individual research-project sequence with faculty mentorship and formative feedback](prbl-structured-research-project-sequence.md)
 - [Incorporate Astrobites into astronomy coursework using the collaboration's lesson plans and grading rubrics](astrobites-classroom-lesson-plans-strategy.md)
+- [Research-ethics certification and referencing software as required scaffolding for undergraduate original-research papers](ethics-certification-referencing-software-strategy.md)
+- [Sequence a project course as a theoretical-analysis phase, an experimental phase, a written report and an oral presentation](theory-then-experiment-report-and-disputatio-sequence.md)
 
 ## Examples
 -

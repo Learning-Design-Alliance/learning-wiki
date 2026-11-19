@@ -47,3 +47,4 @@ Error analysis of 600 written midterm and final exam responses from Physics 2 st
 ## Related Claims
 - [All interviewed students judged pressures equal at same-height, equal-velocity points on curved streamlines, ignoring curvature-related pressure gradients](curved-streamlines-equal-pressure-error.md) — related
 - [Students commonly apply Bernoulli's equation between points where one point is in a fluid at rest](bernoulli-applied-to-rest-point.md) — a broader claim this one bears on
+- [After instruction on ideal-fluid dynamics, many students extrapolate the idea that higher speed implies lower pressure to contexts where it is not valid](students-extrapolate-higher-speed-lower-pressure.md) — related

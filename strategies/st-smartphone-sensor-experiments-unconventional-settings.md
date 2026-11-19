@@ -40,6 +40,7 @@ The article enumerates a repertoire of sensor-based activities spanning astronom
 ## Related Strategies
 
 - [Use low-cost tablets with camera, sensors and connectivity for collaborative, contextualised maths activities indoors and outdoors](mobile-collaborative-contextualised-maths-activities.md)
+- [Laboratory activities based on mobile-device sensor fluctuations to teach error analysis and uncertainties](mobile-sensor-fluctuation-lab-activities-error-analysis.md)
 
 ## Examples
 -

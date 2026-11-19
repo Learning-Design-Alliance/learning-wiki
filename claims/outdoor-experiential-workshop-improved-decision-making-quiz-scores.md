@@ -57,3 +57,5 @@ Quasi-experimental pre/post study of 41 first-year medical students who complete
 - [Awareness of biases in combining assessment information could improve the robustness of student progression decisions](awareness-of-biases-improves-progression-decisions.md) — related
 - [Both learning groups showed a significant pre-to-post increase in global health knowledge quiz scores](global-health-knowledge-quiz-pre-post-gain.md) — related
 - [Across all study groups, combined raw test scores rose from 31% at pre-test to 48% at post-test (Cohen's d = 1.1), based on a pre-test to post-test comparison.](overall-prepost-gain-large.md) — related
+- [Participants' basic knowledge of quantum computing concepts rose significantly from pre-test to post-test after a computer science-oriented quantum computing workshop, in one uncontrolled pre-post study](cs-oriented-quantum-workshop-significant-knowledge-gain.md) — related
+- [K-12 students showed significant pre-to-post workshop gains in citing the Big AI Ideas when explaining understanding of AI (Competency 2) and decision-making (Competency 8)](workshop-gains-big-ai-ideas-competency-2-8.md) — related

@@ -51,6 +51,7 @@ The article proposes that post-pandemic technology adoption in practical teachin
 - [Phased implementation of AI in nursing education: simulation for emergency care, adaptive platforms for at-risk learners, automated formative feedback, and multi-site pilots](phased-ai-implementation-nursing-education-strategy.md)
 - [Adopt a staged, LMIC-sensitive pathway linking simulation-based preparation to authentic supervised bedside practice, with competency-based progression and EPAs](staged-simulation-to-bedside-pathway-lmic.md)
 - [Institutions should pilot low-stakes, prespecify evaluation indicators, and scale only after governance, faculty capacity, and equity safeguards are in place](phased-low-stakes-pilot-implementation.md)
+- [Introduce integral calculus through a practical everyday problem — fairly slicing a watermelon — to motivate students and counter dropout from scientific curricula](everyday-practical-problem-introduction-calculus.md)
 
 ## Examples
 -

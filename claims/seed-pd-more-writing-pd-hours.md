@@ -50,3 +50,4 @@ Teacher survey data from 138 program and 164 control teachers showed program tea
 - [SEED PD increased the minutes students spent writing per week](seed-pd-increased-student-writing-time.md) — related
 - [SEED PD did not change time spent teaching writing or length of writing assignments](seed-pd-no-change-writing-time-or-length.md) — related
 - [SEED PD had no impact on student writing quality](seed-pd-no-impact-student-writing-quality.md) — related
+- [Extended professional development of 50 or more hours is needed before teachers substantially change their practice](fifty-hour-professional-development-practice-change.md) — related

@@ -26,7 +26,7 @@ sources:
 # Structured Questioning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (10 for, 1 mixed, 1 against) · 22 studies (8 causal, 5 quant-synthesis, 5 review, 2 qualitative, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 22 report an effect size · 5 claims rest on one study
+> **Evidence** · 13 claims (10 for, 2 mixed, 1 against) · 23 studies (8 causal, 5 quant-synthesis, 5 review, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q2`–`q4` · 3 of 23 report an effect size · 6 claims rest on one study
 
 ## Description
 Structured questioning is an instructional element in which the instructor sequences purposeful questions — moving from factual retrieval toward explanation, application, and evaluation — to guide learners through inquiry without giving answers directly. The questions function as scaffolds: each one directs attention, elicits reasoning, and prompts learners to construct and articulate understanding themselves.
@@ -70,6 +70,7 @@ Structured questioning promotes deeper processing by requiring learners to gener
 - [Teacher guidance integrating argumentative scripts produces deeper whole-class collaborative argumentation than minimal teacher guidance in middle level science classrooms](../claims/argumentative-scripts-teacher-guidance-deepen-collaborative-argumentation.md) [+W] — attached 2026-11-01 from Hsu et al. (2015), which proposed "Ten-question argumentative-script teacher guide for whole-class collaborative argumentation"; tests this page's relationship.
 - [Treatment teachers more often evaluated student understanding via leveled questions, while control teachers more often monitored student performance](../claims/treatment-leveled-questions-vs-control-monitoring.md) [+W]
 - [Upper-level undergraduates' scores on deriving the density of states and total electronic energy rose from below 10% after traditional instruction to approximately 50% after the CQS, in one single-group pre-post study with no comparison group](../claims/cqs-improves-derivation-scores-free-electron-gas.md) [+W] — attached 2026-11-18 from Paul Justice et al. (2019), which proposed "Validated clicker question sequence (CQS) on the free electron gas integrating conceptual and quantitative knowledge".
+- [Upper-level QM students engaging with the addition-of-angular-momentum CQS achieved posttest scores on constructing basis states (question (a)) and on matrix elements of the magnetic field-spin Hamiltonian (question (c)) similar to students who engaged with the QuILT](../claims/cqs-posttest-similar-to-quilt-on-basis-states-and-diagonal-operator.md) [~M] — attached 2026-11-19 from Paul Justice et al. (2016), which proposed "Addition-of-angular-momentum clicker question sequence (CQS): 11 questions in three sections".
 
 ## The evidence by question
 - *Do teacher questions that press learners past a first answer, for explanation, justification or higher-level thinking, improve learning?* [Questioning Strategies Improve Learning](../claims/questioning-strategies-improve-learning.md) [+S]

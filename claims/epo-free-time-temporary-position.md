@@ -47,3 +47,4 @@ Chi-squared test on survey item Q8 (when respondents engage in EPO), with respon
 ## Related Claims
 - [Lack of time is the most cited barrier to EPO engagement, and allocated work-week time and explicit job-description recognition are the most requested enablers](epo-barrier-lack-of-time.md) — related
 - [The dominant motivation for EPO engagement among DES researchers is a desire to educate the general public, followed by personal enjoyment](epo-motivation-educate-public.md) — related
+- [Most astronomers worldwide engage in education and public engagement activities of some type](astronomers-widespread-epe-participation.md) — related

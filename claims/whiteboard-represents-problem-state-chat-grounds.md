@@ -48,3 +48,4 @@ Exploratory study of grounding and problem solving in multimodal computer-mediat
 
 - [The acknowledgment rate — how often partners give feedback of having perceived, understood, and accepted contributions — varies according to the medium and the content of interactions](acknowledgment-rate-varies-media-and-content.md)
 - [More persistent information is exchanged through the more persistent medium: the whiteboard acts as a shared memory rather than a grounding tool](persistence-more-persistent-info-more-persistent-medium.md) — related
+- [Breakout rooms with a shared whiteboard can productively replicate collaborative case-problem solving online, albeit at a slower pace](breakout-rooms-replicate-collaborative-case-problem-solving-online.md) — related

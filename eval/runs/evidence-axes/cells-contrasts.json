@@ -122362,5 +122362,581 @@
  "test-format\tonline unproctored administration\tin-person proctored administration": {
   "label": "online unproctored vs in-person proctored",
   "treatment_is_a": true
+ },
+ "active-learning\tDiscussing estimation answers in groups of three to four\tAnswering the estimation question individually": {
+  "label": "Group discussion vs individual work",
+  "treatment_is_a": true
+ },
+ "active-learning\tEBAE flipped course\tlecture-based courses, different instructors pooled": {
+  "label": "Flipped evidence-based active-learning course vs lecture-based course",
+  "treatment_is_a": true
+ },
+ "active-learning\tEBAE flipped course, same instructor\tlecture-based course, same instructor": {
+  "label": "Flipped evidence-based active-learning course vs lecture-based course",
+  "treatment_is_a": true
+ },
+ "active-learning\tEBAE strategies\tprimarily lecture-based instruction": {
+  "label": "Evidence-based active-learning instruction vs primarily lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tModeling Instruction\tSCALE-UP": {
+  "label": "Modeling Instruction vs SCALE-UP",
+  "treatment_is_a": true
+ },
+ "active-learning\tModeling Instruction\tother studied curricula": {
+  "label": "Modeling Instruction vs other curricula",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer exchange and discussion of opposing raw-data analyses\tStudents' initial independent analyses before peer exchange": {
+  "label": "Peer exchange and discussion vs independent analysis",
+  "treatment_is_a": true
+ },
+ "active-learning\tSCALE-UP\tModeling Instruction": {
+  "label": "Modeling Instruction vs SCALE-UP",
+  "treatment_is_a": false
+ },
+ "active-learning\tactive learning lecture\ttraditional lecture": {
+  "label": "Active-learning lecture vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive-learning course interactions\tone-on-one discussions with advanced graduate students": {
+  "label": "Active-learning course interactions vs one-on-one expert discussions",
+  "treatment_is_a": true
+ },
+ "active-learning\talgebra-based flipped EBAE course\talgebra-based lecture-based course": {
+  "label": "Flipped evidence-based active-learning course vs lecture-based course",
+  "treatment_is_a": true
+ },
+ "active-learning\talgebra-based flipped EBAE course\tcalculus-based lecture-based course": {
+  "label": "Flipped evidence-based active-learning course vs lecture-based course",
+  "treatment_is_a": true
+ },
+ "active-learning\tcalculus-based EBAE course taught by the same instructor\tcalculus-based lecture-based course taught by the same instructor": {
+  "label": "Flipped evidence-based active-learning course vs lecture-based course",
+  "treatment_is_a": true
+ },
+ "active-learning\tcalculus-based EBAE course, combining flipped and interactive non-flipped instruction\talgebra-based lecture-based course": {
+  "label": "Flipped evidence-based active-learning course vs lecture-based course",
+  "treatment_is_a": true
+ },
+ "active-learning\tcalculus-based EBAE course, combining flipped and interactive non-flipped instruction\tcalculus-based lecture-based course": {
+  "label": "Flipped evidence-based active-learning course vs lecture-based course",
+  "treatment_is_a": true
+ },
+ "active-learning\tclicker-question sequence with peer discussion\ttraditional lecture-based instruction": {
+  "label": "Clicker questions with peer discussion vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tclicker-question sequence with peer discussion\ttraditional lecture-based instruction and pretest": {
+  "label": "Clicker questions with peer discussion vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tdiscussion-based case-study lessons\tnot stated": {
+  "label": "Discussion-based case-study lessons vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tend-of-term network\tbeginning-of-term network": {
+  "label": "End-of-term network vs beginning-of-term network",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped evidence-based active-engagement course\tsame-instructor lecture-based course": {
+  "label": "Flipped evidence-based active-learning course vs lecture-based course",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup discussion\tlecture": {
+  "label": "Group discussion vs lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup discussion after individual study\tlecture video and individual study": {
+  "label": "Group discussion vs lecture video",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup work observing a GIF and writing a review\tresponses to the initial questionnaire": {
+  "label": "Group activity vs initial questionnaire",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on coding activities\tastronomy lectures": {
+  "label": "Hands-on coding activities vs lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on coding tutorials and group activities\tnot reported": {
+  "label": "Hands-on coding tutorials and group activities vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on programming sections\tlecture-based theoretical material": {
+  "label": "Hands-on programming vs lecture-based theoretical instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on quantum programming\tlecture-based theoretical learning": {
+  "label": "Hands-on programming vs lecture-based theoretical instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive rubber-sheet educational activity\tpre-activity knowledge": {
+  "label": "Interactive educational activity vs pre-activity knowledge",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive rubber-sheet educational activity\tpre-activity questionnaire": {
+  "label": "Interactive educational activity vs pre-activity questionnaire",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive rubber-sheet exhibit\tother outreach stands": {
+  "label": "Interactive exhibit vs other outreach activities",
+  "treatment_is_a": true
+ },
+ "active-learning\tparticipation in instructional practices\tless participation in instructional practices": {
+  "label": "More participation in instructional practices vs less participation",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer discussion in groups of 3–4\tindividual estimation before discussion": {
+  "label": "Group discussion vs individual work",
+  "treatment_is_a": true
+ },
+ "active-learning\tplayful, interactive rubber-sheet exhibit\tother outreach activities": {
+  "label": "Interactive exhibit vs other outreach activities",
+  "treatment_is_a": true
+ },
+ "active-learning\tpooled calculus-based EBAE courses\tpooled calculus-based lecture-based courses": {
+  "label": "Flipped evidence-based active-learning course vs lecture-based course",
+  "treatment_is_a": true
+ },
+ "active-learning\tprogramming assignments\twritten assignments": {
+  "label": "Programming assignments vs written assignments",
+  "treatment_is_a": true
+ },
+ "active-learning\tprogramming exercises and final programming-driven project\twritten assignments": {
+  "label": "Programming assignments and project vs written assignments",
+  "treatment_is_a": true
+ },
+ "active-learning\tprogramming exercises and final project\twritten assignments": {
+  "label": "Programming assignments and project vs written assignments",
+  "treatment_is_a": true
+ },
+ "active-learning\tquestion students' force and motion intuitions and work through the equations\trelying on prior Aristotelian or coaching-based intuitions": {
+  "label": "Explicit conceptual challenge and equation-based reasoning vs reliance on prior intuitions",
+  "treatment_is_a": true
+ },
+ "active-learning\tsmall-group discussion followed by a mini-lecture\tsmall-group discussion alone or mini-lecture alone": {
+  "label": "Combined small-group discussion and mini-lecture vs single-mode instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tsmall-group peer discussion of problems\tinstructor lecturing": {
+  "label": "Group discussion vs lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent-created educational video with peer review\ttraditional lectures or exams": {
+  "label": "Student-created video with peer review vs traditional instruction and assessment",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudents attending at least one synchronous tutoring session\tall students": {
+  "label": "Synchronous tutoring participation vs no or unspecified tutoring participation",
+  "treatment_is_a": true
+ },
+ "active-learning\tworking together live on exercise sheets\thandouts of solutions": {
+  "label": "Live collaborative exercise work vs solution handouts",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent-driven learning\t?": {
+  "label": "student-driven learning vs teacher-directed learning",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudents choosing from a subset of diverse methods\tstudents inventing their own method in a completely open question": {
+  "label": "open-ended choice vs constrained choice",
+  "treatment_is_a": false
+ },
+ "autonomy-support\tstudents propose project themes motivated by their own interests\tgeneric assignments or topics provided from past courses, industrial projects, or research": {
+  "label": "self-selected project themes vs assigned project themes",
+  "treatment_is_a": true
+ },
+ "case-comparison\tCOVID-19 curve with intervention\tCOVID-19 curve without intervention": {
+  "label": "intervention vs no intervention",
+  "treatment_is_a": true
+ },
+ "case-comparison\tExplanation 2 of the tensiometer\tExplanations 1 and 3 of the tensiometer": {
+  "label": "consistent and complete explanation vs inconsistent and/or incomplete explanation",
+  "treatment_is_a": false
+ },
+ "case-comparison\tExplanations 1 and 3, valued for consistency and relative completeness\tExplanation 2, valued for simplicity and mnemonic value": {
+  "label": "consistent and complete explanation vs inconsistent and/or incomplete explanation",
+  "treatment_is_a": true
+ },
+ "case-comparison\tGroup Two forward-difference velocity using rows n and n+1\tGroup One backward-difference velocity using rows n-1 and n": {
+  "label": "forward-difference velocity vs backward-difference velocity",
+  "treatment_is_a": true
+ },
+ "case-comparison\tchoosing an explanation for university students after multi-criteria analysis\tchoosing an explanation for oneself": {
+  "label": "selecting an explanation for others using multi-criteria analysis vs choosing an explanation for oneself",
+  "treatment_is_a": true
+ },
+ "case-comparison\tcompare fixed bead on a rotating string with sliding bead on a rotating rod\tconsidering the sliding-bead problem alone": {
+  "label": "comparing related cases vs considering a single case",
+  "treatment_is_a": true
+ },
+ "case-comparison\tcomparison of three explanations with a critical-analysis grid\tusing a single explanation without comparison": {
+  "label": "comparing multiple explanations vs using a single explanation",
+  "treatment_is_a": true
+ },
+ "case-comparison\texplicitly defined system boundary, with the interaction represented either as external work or internal potential energy\tundefined or diffuse system boundary that counts the interaction as both work and potential energy": {
+  "label": "explicit system boundary vs undefined or diffuse system boundary",
+  "treatment_is_a": true
+ },
+ "case-comparison\tfunctional-dependence examples tied to authentic biological applications\tdecontextualized symbolic presentation of the diffusion equation": {
+  "label": "authentic contextualized examples vs decontextualized symbolic presentation",
+  "treatment_is_a": true
+ },
+ "case-comparison\tinconsistent and/or incomplete explanation\tconsistent and complete explanation": {
+  "label": "consistent and complete explanation vs inconsistent and/or incomplete explanation",
+  "treatment_is_a": false
+ },
+ "case-comparison\tinterviewer-led critical analysis of three candidate explanations using criteria\tinitial spontaneous analysis before interviewer-led critique": {
+  "label": "interviewer-guided critical analysis vs spontaneous unguided analysis",
+  "treatment_is_a": true
+ },
+ "case-comparison\tmethods with small error bars encompassing the building height\tmethods with gigantic error bars and unreasonable precision requirements": {
+  "label": "reasonable error bars vs excessive error bars",
+  "treatment_is_a": true
+ },
+ "case-comparison\tmodeling deformable solids and applying conservation of energy to include internal-energy change\tapplying the particle work-energy theorem to objects whose internal energy changes": {
+  "label": "system energy accounting including internal-energy change vs particle work-energy theorem",
+  "treatment_is_a": true
+ },
+ "case-comparison\tmulti-criteria analysis of three candidate explanations using a critical-analysis grid\tno specified comparison approach": {
+  "label": "structured multi-criteria comparison vs unspecified comparison approach",
+  "treatment_is_a": true
+ },
+ "debriefing\tCross-group discussion and exchange of raw position-time data\tGroups examining and writing up their isolated initial results": {
+  "label": "collective debriefing vs no collective debriefing",
+  "treatment_is_a": true
+ },
+ "debriefing\torganised collective comparison and debriefing after measurements\tmeasurement activity without the reported key debriefing component": {
+  "label": "collective debriefing vs no collective debriefing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tEstimation taught explicitly as a thread throughout the class\tEstimation assigned occasionally on an exam": {
+  "label": "Explicit instruction vs incidental/occasional assignment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcalculate the fixed-direction force impulse over one revolution\taccepting radial motion as caused by a mysterious centrifugal force": {
+  "label": "Inertial-frame force analysis vs mysterious centrifugal-force explanation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tconceptual anchor-equation instruction\tmemorizing and selecting calculational equations": {
+  "label": "Conceptual anchor equations vs memorized calculational equations",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tenergy-principle approach emphasizing system, environment, transfer, and transformation\ttraditional work-energy and mechanical-energy approach": {
+  "label": "Energy-system/transfer framing vs traditional work-energy framing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tengineering tutorial\tno engineering tutorial": {
+  "label": "Engineering tutorial vs no engineering tutorial",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texperiment plus extra professor explanation of theory\texperiment without extra professor explanation": {
+  "label": "Experiment plus explicit explanation vs experiment alone",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplain centrifugal force as frame-dependent\tstudents' belief that centrifugal force is real": {
+  "label": "Explicit frame-dependent explanation vs belief in real centrifugal force",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicitly explain and motivate the use and limits of toy models\ttreat toy models as natural and obvious without explanation": {
+  "label": "Explicit explanation of toy models vs tacit treatment of toy models",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicitly teach and assess dimensional analysis\tnot stated": {
+  "label": "Explicit dimensional-analysis instruction vs unstated dimensional analysis",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicitly teach functional dependence and call attention to the reasoning tools\ttacitly assume students can read functional dependence from equations": {
+  "label": "Explicit instruction in functional dependence and reasoning tools vs tacit assumption",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfocused instruction\tnot stated": {
+  "label": "Focused instruction vs unspecified instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinertial-frame solution with force-projection consistency check\tinvoking centrifugal force or retaining the no-radial-force intuition": {
+  "label": "Inertial-frame solution with force-projection check vs centrifugal-force/no-radial-force reasoning",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\torganizing learning around anchor equations\treviewing long lists of facts and equations": {
+  "label": "Anchor-equation organization vs lists of facts and equations",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstep-by-step AI workshop curriculum\tteachers’ views before the workshop": {
+  "label": "Step-by-step AI workshop curriculum vs pre-workshop teacher views",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteaching gauge theory and spontaneous symmetry breaking\tstudents' understanding before the teaching": {
+  "label": "Teaching gauge theory and spontaneous symmetry breaking vs pre-instruction understanding",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tvoluntary tutorial emphasizing engineering aspects of heat engines\ttraditional instruction without the engineering tutorial": {
+  "label": "Engineering tutorial vs no engineering tutorial",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tvoluntary tutorial emphasizing engineering knowledge of heat engines\tclasses without the engineering tutorial": {
+  "label": "Engineering tutorial vs no engineering tutorial",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tvoluntary tutorial emphasizing engineering knowledge of heat engines\tno engineering tutorial": {
+  "label": "Engineering tutorial vs no engineering tutorial",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tsecond video submission after peer feedback\tfirst video submission before peer feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tsecond video submission after peer feedback and revision\tfirst video submission": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tsubmitted own solutions for feedback\tdid not submit own solutions": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "gamification\tSRT educational game\tnone reported": {
+  "label": "gamified/game-based learning vs non-gamified instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tVector Field Game practice\ttraditional instruction without the game": {
+  "label": "gamified/game-based learning vs non-gamified instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tcompetition and gamification\t?": {
+  "label": "competitive gamification vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tformal structured tasks with correct solutions\tindependent exploration by modifying exercise scripts": {
+  "label": "guided discovery vs unguided discovery",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided inquiry with PhET simulations\tpre-assessment": {
+  "label": "guided inquiry vs pre-assessment",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided inquiry with a wave simulation\tpre-assessment before the simulation activity": {
+  "label": "guided inquiry vs pre-assessment",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided inquiry with an online electric-field simulation\tpre-assessment before the simulation activity": {
+  "label": "guided inquiry vs pre-assessment",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided inquiry with electric-field simulations\tpre-assessment": {
+  "label": "guided inquiry vs pre-assessment",
+  "treatment_is_a": true
+ },
+ "media-design\tPage design A with radar chart\tPage design A without radar chart": {
+  "label": "Radar chart vs no radar chart",
+  "treatment_is_a": true
+ },
+ "media-design\tPage design B with more informative and explainable AI-driven diagnostic feedback\tPage design A": {
+  "label": "More informative and explainable AI-driven diagnostic feedback vs Page design A",
+  "treatment_is_a": true
+ },
+ "media-design\tmedia style not specified\tmedia style specified": {
+  "label": "Media style specified vs media style not specified",
+  "treatment_is_a": false
+ },
+ "practice-amount\tEstimation practiced throughout the class, in every homework and exam\tEstimation requested only occasionally on an exam": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "prompts\tarticulating what does not make sense and diagnosing one’s thinking\trelying on equations or formal proof alone": {
+  "label": "Metacognitive/explanatory prompts vs formal-solution-only prompts",
+  "treatment_is_a": true
+ },
+ "prompts\task students to consider and evaluate modeling assumptions and discuss the value of models\tproblems focused mainly on mathematical processing": {
+  "label": "Modeling-assumption and model-evaluation prompts vs mathematical-processing-only prompts",
+  "treatment_is_a": true
+ },
+ "prompts\thard questions about real-world AI applications\t?": {
+  "label": "Hard real-world-application questions vs easier or less challenging questions",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tpost-tutoring questionnaire\tpre-tutoring questionnaire": {
+  "label": "post-tutoring questionnaire vs pre-tutoring questionnaire",
+  "treatment_is_a": true
+ },
+ "scaffolding\tco-design workshop with AI presentations and curriculum scaffolding\tbefore the workshop": {
+  "label": "scaffolding vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcode skeleton that provides program structure\tcode from scratch": {
+  "label": "code skeleton vs code from scratch",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcode skeleton with blanks or a provided structure\tcode from scratch with a blank sheet": {
+  "label": "code skeleton vs code from scratch",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcode skeleton with structure and blanks\tcode from scratch with a blank starting point": {
+  "label": "code skeleton vs code from scratch",
+  "treatment_is_a": true
+ },
+ "scaffolding\texamining and discussing the problem from multiple conceptual angles\tusing only a single mathematical derivation or proof": {
+  "label": "multiple conceptual perspectives vs single conceptual approach",
+  "treatment_is_a": true
+ },
+ "scaffolding\tgroup constants, rename them, and simplify the equations\tunsupported work on the multi-symbol equations": {
+  "label": "guided equation simplification vs unsupported equation work",
+  "treatment_is_a": true
+ },
+ "scaffolding\tlistening, explaining, and helping the student diagnose their thinking\timmediately reiterating the counterintuitive phenomenon through a mathematical proof or derivation": {
+  "label": "dialogic diagnostic scaffolding vs directive proof-based explanation",
+  "treatment_is_a": true
+ },
+ "simulation\tML-predicted ionic profiles across salt concentrations\tprofiles at lower salt concentration": {
+  "label": "ML-predicted ionic profiles across salt concentrations vs profiles at lower salt concentration",
+  "treatment_is_a": true
+ },
+ "simulation\tOER virtual experiments\tin-person physical lab experiments": {
+  "label": "virtual OER experiments vs in-person physical lab experiments",
+  "treatment_is_a": true
+ },
+ "simulation\tOER virtual experiments with computational data analysis\tin-person physical lab experiments": {
+  "label": "virtual OER experiments with computational data analysis vs in-person physical lab experiments",
+  "treatment_is_a": true
+ },
+ "simulation\tOER-based virtual experiments\tnot stated": {
+  "label": "virtual OER-based experiments vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "simulation\texploratory computer simulation\ttraditional vibrating-string laboratory experiment": {
+  "label": "exploratory computer simulation vs traditional vibrating-string laboratory experiment",
+  "treatment_is_a": true
+ },
+ "simulation\texploratory computer simulation\ttraditional vibrating-strings laboratory": {
+  "label": "exploratory computer simulation vs traditional vibrating-string laboratory experiment",
+  "treatment_is_a": true
+ },
+ "simulation\texploratory simulation task\ttraditional vibrating-string laboratory experiment": {
+  "label": "exploratory computer simulation vs traditional vibrating-string laboratory experiment",
+  "treatment_is_a": true
+ },
+ "simulation\tguided inquiry converging-lens simulation\tpre-assessment before the simulation": {
+  "label": "guided inquiry simulation vs pre-assessment-only condition",
+  "treatment_is_a": true
+ },
+ "simulation\tguided inquiry simulation on wave characteristics\tpre-assessment before the simulation": {
+  "label": "guided inquiry simulation vs pre-assessment-only condition",
+  "treatment_is_a": true
+ },
+ "simulation\tguided inquiry simulations on electricity and wave properties\tpre-assessment before the simulation activities": {
+  "label": "guided inquiry simulation vs pre-assessment-only condition",
+  "treatment_is_a": true
+ },
+ "simulation\tpost-experiment Proteus ISIS circuit simulation across frequencies and component configurations\tphysical laboratory exercise alone": {
+  "label": "post-experiment circuit simulation vs physical laboratory exercise alone",
+  "treatment_is_a": true
+ },
+ "simulation\trubber-sheet educational activity on gravity\tpre-activity questionnaire": {
+  "label": "rubber-sheet educational activity vs pre-activity questionnaire",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-driven classroom teaching\tnon-simulation-driven classroom teaching": {
+  "label": "simulation-driven teaching vs non-simulation-driven teaching",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-driven teaching\tnon-simulation-driven teaching": {
+  "label": "simulation-driven teaching vs non-simulation-driven teaching",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual OER-based experiments\tin-person physical lab experiments": {
+  "label": "virtual OER-based experiments vs in-person physical lab experiments",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual OER-based experiments with computational data analysis\tin-person physical lab experiments": {
+  "label": "virtual OER-based experiments with computational data analysis vs in-person physical lab experiments",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual experiments using video analysis and simulations\tno comparison reported": {
+  "label": "virtual experiments using video analysis and simulations vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2017-18 SST with computer-graded multiple-choice homework\tPrevious three cohorts without optional additional homework": {
+  "label": "computer-graded homework vs no additional homework",
+  "treatment_is_a": true
+ },
+ "technology-tool\t22 kHz waveform-capable WinterLab design\tinitial prototype limited to below 3 kHz": {
+  "label": "22 kHz-capable waveform design vs below-3 kHz prototype",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2D Human Orrery modelling activity\ttheoretical calculation and real transit observations": {
+  "label": "interactive 2D modelling activity vs theoretical calculation and real observations",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2D representations of the solar system\t3D representations of the solar system": {
+  "label": "2D representations vs 3D representations",
+  "treatment_is_a": false
+ },
+ "technology-tool\t3-D immersive MaxwellWorld system\t2-D EM Field application": {
+  "label": "3D immersive system vs 2D application",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D printed models\tnot stated": {
+  "label": "3D-printed models vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D virtual reality\tcurrent widely employed technology": {
+  "label": "3D virtual reality vs conventional technology",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D virtual reality\tcurrently widely employed technology": {
+  "label": "3D virtual reality vs conventional technology",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printed height models based on the gravitational analogy\tpre-test before the intervention": {
+  "label": "3D-printed gravitational-analogy models vs pre-test",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printed height models with gravitational analogy\tpre-test before the intervention": {
+  "label": "3D-printed gravitational-analogy models vs pre-test",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printed height-model intervention\tpost-test attitude report without a pre-intervention attitude comparison": {
+  "label": "3D-printed height-model intervention vs post-test-only attitude report",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printed height-model intervention\tpre-test before intervention": {
+  "label": "3D-printed height-model intervention vs pre-test",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printed height-model intervention\tpre-test before the intervention": {
+  "label": "3D-printed height-model intervention vs pre-test",
+  "treatment_is_a": true
+ },
+ "technology-tool\t7.5-minute homemade soft matter video\tpre-video ratings": {
+  "label": "video intervention vs pre-video ratings",
+  "treatment_is_a": true
+ },
+ "technology-tool\tACSP adaptive hints with explanations\tACSP adaptive hints without explanations": {
+  "label": "adaptive hints with explanations vs adaptive hints without explanations",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAHaH activities\tstandard lab exercises": {
+  "label": "interactive AHaH activities vs standard lab exercises",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAHaH interactive cosmology visualization\tno comparison reported": {
+  "label": "interactive cosmology visualization vs no comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAHaH interactive outreach activities\tno comparison reported": {
+  "label": "interactive outreach activities vs no comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAHaH-related labs\tstandard lab exercises": {
+  "label": "AHaH-related labs vs standard lab exercises",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced digital tutor with knowledge graph\tblended and traditional teaching": {
+  "label": "AI-enhanced digital tutor with knowledge graph vs blended and traditional teaching",
+  "treatment_is_a": true
+ },
+ "test-format\tStudents answering the unconfined-jet pressure question\tScientifically correct atmospheric-pressure answer": {
+  "label": "Misconception-based answer vs scientifically correct answer",
+  "treatment_is_a": true
  }
 }

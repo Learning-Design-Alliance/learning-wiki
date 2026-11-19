@@ -47,3 +47,4 @@ Cross-data-set comparison of MAMCR heatmaps: the large PostEM module contains re
 ## Related Claims
 - [Module analysis (MAMCR) of correct PIQL responses identifies modules that differ across course stages and mix all three PQL constructs](mamcr-modules-differ-across-course-stages.md) — a narrower finding that bears on this claim
 - [Overall PIQL scores increase across the introductory sequence (mean scores of 50%, 56%, and 58%)](piql-scores-increase-across-sequence.md) — related
+- [PQL develops only slightly during introductory physics instruction, with effect sizes d = 0.3 (PreMech to PostMech) and d = 0.1 (PostMech to PostEM)](pql-develops-little-during-intro-physics.md) — related

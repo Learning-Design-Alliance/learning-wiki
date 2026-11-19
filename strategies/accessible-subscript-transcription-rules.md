@@ -44,6 +44,7 @@ The v6m system instructions encode subscript elements semantically: bare numbers
 ## Related Strategies
 
 - [Inject LaTeX transcriptions of pointed-to math in place of ambiguous verbal references](inject-pointed-to-math-into-verbal-flow.md)
+- [Write multi-qubit states stacked above one another to avoid tensor notation](stacked-qubit-state-notation.md)
 
 ## Examples
 -

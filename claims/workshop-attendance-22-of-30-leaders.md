@@ -51,3 +51,4 @@ Descriptive attendance analysis of the six Diversity Workshops, excluding the th
 
 ## Related Claims
 - [Retreat placement and newcomer catch-up framing were associated with the two highest-attendance workshops](retreat-and-catch-up-framing-high-attendance.md) — related
+- [The dual Native Skywatchers educator workshops have been offered annually since 2012 with about 30 participants each](annual-workshops-30-participants.md) — related

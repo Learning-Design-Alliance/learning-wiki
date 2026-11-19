@@ -78,3 +78,4 @@ shown to be unrelated.
 
 - [The orientation statistic read from learner records is a difficulty sort.](observation-orients-edges-only-where-prerequisites-gate.md) — why a direction read from records is not evidence for an edge
 - [The greedy cycle-break algorithm functions as a safety mechanism: none of the five evaluation topics required prerequisite-edge removal](cycle-break-safety-mechanism-concept-graphs.md) — related
+- [Nearly 20 students dropped the course in its first week, which the authors attribute in part to the missing prerequisite listing](prerequisite-listing-error-first-week-dropout.md) — related

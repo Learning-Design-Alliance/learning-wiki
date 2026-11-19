@@ -55,3 +55,4 @@ Single-group pre-post evaluation of a 3-day workshop with 39 matched participant
 - [Knowledge scores rose significantly from pre-training to post-training after a short pulmonary rehabilitation training program among primary care physiotherapists and AEPs, in a single-group pre-post study](pr-training-improves-knowledge-primary-care-clinicians.md) — related
 - [Students' familiarity with medical resources and databases rose from pre-test to post-test after training, in one uncontrolled pre-post study](training-improves-familiarity-medical-databases.md) — related
 - [e-Learning studies show knowledge gains, with one study finding greater knowledge than a two-day workshop](elearning-knowledge-gains.md) — related
+- [Teachers increased self-rated AI familiarity from 4.8 to 5.8 out of 7 during the workshop and rated confidence about integrating AI at 5.6 out of 7](familiarity-confidence-gains-remote-ai-codesign.md) — a narrower finding that bears on this claim

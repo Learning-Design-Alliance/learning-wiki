@@ -51,6 +51,7 @@ The authors' forward-looking recommendation for university educators: because wo
 
 - [Address Biases in the Use of Language and Symbols](address_biases_in_the_use_of_language_and_symbols.md)
 - [Promoting Belonging Through Cues and Representations](promoting_belonging_through_cues_and_representations.md)
+- [Recruit female instructors and explicitly request female nominations to improve gender balance in outreach](female-instructors-role-models-outreach-gender-balance.md)
 
 ## Examples
 -

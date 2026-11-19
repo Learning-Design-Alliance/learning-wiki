@@ -49,3 +49,4 @@ Program director's descriptive report of the first two cohorts' engagement, supp
 ## Related Claims
 - [Long program timescale lets students get stuck and teaches patience and perseverance, and supports mentor development](srmp-long-timescale-benefit.md) — related
 - [Selection criteria produced cohorts reflecting the district's diversity, with room for improvement in African-American recruitment](srmp-diverse-cohort-outcome.md) — related
+- [In the 2018/19 cohort students rated project goals as fulfilled and knowledge enriched, but rated alignment with school work lowest](ssdc-outreach-2018-19-questionnaire-ratings.md) — a narrower finding that bears on this claim

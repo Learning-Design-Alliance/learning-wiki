@@ -48,3 +48,4 @@ Network analysis of pre- and post-course surveys in four sections at Wright Stat
 ## Related Claims
 - [Only one large lecture section showed a statistically significant pre-post increase in network density, with connections nearly doubling](section-a-significant-density-increase.md) — related
 - [In small interactive-engagement sections, network density and community counts stayed effectively constant over the semester](small-sections-constant-density-communities.md) — related
+- [Tutorials in Introductory Physics networks clustered by tutorial section, with students working mainly with their tutorial group](calep-tutorials-network-clustering-by-section.md) — related

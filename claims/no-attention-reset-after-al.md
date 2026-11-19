@@ -54,3 +54,4 @@ Authors' overall conclusion from the 42-class HR dataset: HR rises during AL but
 - [Questions interpolated between video lecture segments improve subsequent test performance and reduce mind wandering](interpolated-questions-improve-video-learning.md) — related
 - [Analyzing fluctuation of engagement over time rather than averaging on-task and off-task instances across a lecture provides novel insights into student behavior](engagement-fluctuation-over-averaging.md) — related
 - [Student attention in traditional lectures declines after about ten minutes and is almost fully lost after 15 to 20 minutes (as reported by the review)](lecture-attention-declines-ten-minutes.md) — related
+- [Students' concentration reportedly fades after 15-20 minutes during a traditional lecture](concentration-fades-15-20-minutes-traditional-lecture.md) — related

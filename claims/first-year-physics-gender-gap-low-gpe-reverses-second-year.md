@@ -55,3 +55,4 @@ Linear models visualized in Figure 4 predicting course grade from GPE as a funct
 - [Sample 1 female students earned somewhat higher course grades than male students despite lower FCI scores](fci-female-course-grades-higher.md) — related
 - [Low-achieving female AP1 students are less likely than male counterparts to progress to AP2, with no significant gender differences for middle and top achievers](low-achieving-female-ap1-attrition.md) — related
 - [Female students had higher high school GPA but lower physics 1 and 2 grades than male students, with small effect sizes](gender-grade-patterns-intro-physics-hs-gpa.md) — related
+- [First-year students rate perceived learning achievement lowest, and first-year students rate lab experimental skills lower than second-year students](first-year-students-rate-perceived-achievement-lowest-covid.md) — related

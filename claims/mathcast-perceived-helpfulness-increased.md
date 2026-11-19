@@ -49,3 +49,4 @@ An anonymous survey attached to five of the post-video assignments assessed stud
 - [Student performance on math-to-physics assignments increased from pre- to post-video for five of six instructional videos in an E&M course](mathcast-pre-post-performance-gains.md) — related
 - [Students perceived flipped learning as having a distinct set of affordances (flexible video access, preparation, interaction) and constraints (video length, lack of guidance while watching)](flipped-learning-affordances-constraints-perceptions.md) — related
 - [Computing students rate short AI-generated Markdown videos favorably across quality, comprehension, and accuracy dimensions](students-rate-ai-markdown-videos-favorably.md) — related
+- [Study methods rated helpful at a semester's start tend to stay helpful, except review questions, whose helpfulness shifted across semesters](review-questions-helpfulness-shifted.md) — related

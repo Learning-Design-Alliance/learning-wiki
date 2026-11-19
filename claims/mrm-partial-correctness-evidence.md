@@ -50,3 +50,4 @@ Four-tiered correctness analysis (All Correct, Some Correct, Both, Only Incorrec
 - [Students with above-average latent understanding (theta > 0) are more likely to choose both the correct response and the highest-ranked incorrect response on FMCE questions 14, 18, and 19](high-theta-students-choose-better-incorrect-responses.md) — related
 - [Online format changes increased the percentage of students choosing multiple responses on all MCMR items](mcmr-multiple-response-selection-increased-online.md) — related
 - [A four-level scoring scheme for multiple-choice/multiple-response items reveals response nuance that dichotomous scoring hides](four-level-mcmr-scoring-reveals-nuance.md) — possibly the same claim (merge candidate)
+- [Four-level MCMR scoring reveals that at least 60% of students provide at least one correct response to each MCMR item, often coupled with an incorrect response](mcmr-four-level-scoring-nuance.md) — related

@@ -44,6 +44,7 @@ Because many CTE programs hire industry experts who lack teaching experience, th
 - [Preparing preservice teachers to implement AI-powered personalized learning in special education through professional development in technical and pedagogical expertise](preservice-teacher-ai-ppl-professional-development.md)
 - [Provide professional development to equip educators with gamification implementation skills](professional-development-for-gamification-implementation.md)
 - [Provide prolonged, sustained professional development so in-service teachers can deliver digital game-based learning effectively](sustained-professional-development-for-dgbl-teachers.md)
+- [Six program-building actions: gathering subject-matter experts, institutional commitment, industry relationships, laboratory resources, assessment mechanisms, and faculty cluster hires](six-actions-building-qise-programs.md)
 
 ## Examples
 -

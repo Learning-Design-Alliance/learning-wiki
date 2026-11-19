@@ -62,3 +62,4 @@ Same questionnaire; 58% reported no change in likelihood of considering studying
 ## Related Claims
 - [A sustained five-session outreach programme stimulated self-reported interest in science among 54–64% of sixth-form participants](sustained-outreach-stimulated-interest-science.md) — related
 - [Specific engagement items improved significantly in mentees post-intervention, including enjoyment of school, talking about learned matters outside school, and proactive help-seeking](specific-engagement-items-improved-mentees.md) — related
+- [Of 62 physics students surveyed, 29 reported increased confidence in choosing physics as a major after participating in outreach](outreach-increased-major-confidence-29-of-62.md) — related

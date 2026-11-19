@@ -49,3 +49,4 @@ Historical comparison in the Extended Analytical Physics course at Rutgers: matc
 - [In Harvard's introductory physics course, average FCI posttest scores and normalized gain rose sharply in the year it switched from traditional lectures to Peer Instruction](fci-gain-increased-peer-instruction-harvard.md) — related
 - [CLASP students achieved an average normalized FCI gain of 0.39, above the traditional-course range and in the middle of the interactive-engagement range, despite only about a third of one quarter on mechanics](clasp-fci-normalized-gain.md) — related
 - [The online introductory mechanics course achieved an FCI learning gain of 0.55 (d = 1.3) using matched data in Spring 2019.](iolab-online-mechanics-fci-gain-0-55.md) — related
+- [Adding a brief introduction to basic calculus before the Forward Euler task in 2019 was followed by a significant increase in student attainment and engagement.](thaipass-calculus-intro-increased-attainment.md) — related

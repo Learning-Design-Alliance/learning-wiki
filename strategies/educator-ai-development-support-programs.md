@@ -61,6 +61,7 @@ The brief recommends educator support programs addressing immediate and long-ter
 - [Involve attending physicians in simulation-based training and conduct frequent needs analyses to fit training to local context](involve-attendings-sbt-needs-analyses.md)
 - [Support curriculum change through faculty preparation courses, regular meetings and early-adopter mentors](early-adopter-mentors-curriculum-change-strategy.md)
 - [Use awareness of mentoring positions to identify mentors' learning needs and tailor faculty development](position-awareness-for-tailored-mentor-development.md)
+- [Support faculty adoption of active learning with peer communities, framing, incentives, and iterative refinement](faculty-support-for-ebae-implementation.md)
 
 ## Examples
 -

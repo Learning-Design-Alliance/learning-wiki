@@ -44,7 +44,8 @@ This teaching strategy has students compute CMB and matter power spectra themsel
 - [Student understanding of cosmology increases over a semester with relevant and engaging exercises, but lecture alone was not seen to improve it significantly](../claims/lecture-alone-insufficient-cosmology-understanding.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Explore extreme cosmologies by varying energy-density parameters in the visualization](extreme-cosmology-parameter-exploration-strategy.md)
 
 ## Examples
 -

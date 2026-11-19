@@ -48,6 +48,7 @@ Drawing on Expectancy Violation Theory, the article recommends that instructors 
 - [Explicate, Validate, and Address Negative Emotions](explicate-validate-and-address-negative-emotions.md)
 - [Build students' intrinsic motivation and share learning sciences principles with students to support buy-in and ownership](intrinsic-motivation-share-science-with-students.md)
 - [Build student buy-in deliberately: explain the method on day one and connect early quizzes to worksheets](student-buy-in-flipped-large-lecture.md)
+- [Use the first day of class to set tone, share enthusiasm, involve students in discussions and boost motivation through relatable contexts](first-day-of-class-tone-and-motivation-strategy.md)
 
 ## Examples
 -

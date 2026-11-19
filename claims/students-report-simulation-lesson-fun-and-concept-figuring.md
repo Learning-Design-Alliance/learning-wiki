@@ -173,3 +173,8 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Student engagement and satisfaction were maintained in the remote kit-based labs: no tuning out was observed and a majority felt the remote labs were equal to in-person labs](remote-kit-labs-engagement-and-satisfaction-maintained.md) — related
 - [Students rated remote labs better for working at their own pace but the same or worse for procedure design and tool-choice agency](remote-labs-own-pace-agency.md) — related
 - [Student evaluation of the transformed lab was positive on the freedom of the second session but split on the logbook (20 of 50 surveyed)](student-feedback-split-on-logbook-positive-on-freedom.md) — related
+- [Students and teaching assistants qualitatively reported preference for AHaH activities over standard lab exercises](ahah-qualitative-preference-ta-feedback.md) — related
+- [Students reported that hands-on programming exercises and the final project contributed most to their learning in an undergraduate quantum computing course](programming-exercises-final-project-most-contributed-learning-quantum-course.md) — related
+- [Programs partnering scientists with classrooms improve student motivation, questioning, content knowledge and attitudes toward science](scientist-classroom-partnership-benefits.md) — related
+- [High-school students report strongly positive engagement after hands-on SSDC space-data activities in the 2017/18 program](ssdc-outreach-2017-18-positive-student-attitudes.md) — related
+- [83% of students preferred simulation-driven classroom teaching over non-simulation-driven teaching](students-prefer-simulation-driven-teaching.md) — related

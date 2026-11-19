@@ -50,3 +50,4 @@ The thesis's abstract summarizes the overall outcome of the case study of the di
 - [Augmented reality tabletop exercises enhanced immersion and engagement but showed limited usability](ar-tabletop-exercises-enhanced-engagement-limited-usability.md) — related
 - [Attracting augmented reality for educators requires developing new methodologies, didactic materials and updating the curriculum](ar-requires-new-methodologies-and-materials.md) — related
 - [Newton's laws, conservation of energy, and geometrical optics are the three physics concepts that are simultaneously pivotal, present in all four examined state standards, and particularly difficult to learn](three-pivotal-physics-concepts-standards.md) — related
+- [Students responded very positively to the augmented-reality comic methodology: 100% wanted more such activities and 94% found the methodology easy to understand](student-acceptance-ar-comic-methodology.md) — possibly the same claim (merge candidate)

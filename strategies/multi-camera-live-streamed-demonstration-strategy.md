@@ -47,6 +47,7 @@ The article recommends using remotely controlled cameras with adjustable setting
 
 - [Provide remote real-time guidance during student practice, allowing the teacher to observe operations and correct technique from a distance](remote-real-time-practice-guidance-strategy.md)
 - [Improve audiovisual quality, connectivity, and standardized recordings before deploying live-streamed procedural teaching](improve-av-connectivity-before-ls-teaching.md)
+- [Curate tabletop, visually driven demonstrations with non-intuitive outcomes for online physics lessons](curate-tabletop-visual-non-intuitive-demonstrations-online.md)
 
 ## Examples
 -

@@ -49,4 +49,4 @@ A four-month, six-ECTS lab course cross-listed between physics and information s
 -
 
 ## Key Sources
-- Bradbury, F. R., & Pols, C. F. J. (2020). A Pandemic-Resilient Open-Inquiry Physical Science Lab Course Which Leverages the Maker Movement. Electronic Journal for Research in Science & Mathematics Education, 24(3), 60-67. https://ejrsme.icrsme.com/article/view/20416
+- Bradbury, F. R., & Pols, C. F. J. (2020). A Pandemic-Resilient Open-Inquiry Physical Science Lab Course Which Leverages the Maker Movement. Electronic Journal for Research in Science & Mathematics Education, 24(3), 60-67. https://ejrsme.icrsme.com/article/view/20416. [doi:10.48550/arxiv.2006.06881](https://doi.org/10.48550/arxiv.2006.06881)

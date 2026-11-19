@@ -68,6 +68,7 @@ Norms function as procedural scaffolding: they reduce the cognitive and social u
 - [Establish group norms and procedural roles, delegate authority, and monitor group dynamics to foster student accountability.](group-roles-norms-accountability.md)
 - [Co-construct definitions of active learning with students and train staff in practices that reduce anxiety and disengagement](co-construct-active-learning-with-students.md)
 - [Establish team ground rules—such as listening to others' opinions and controlling tone—to encourage discussion and team functioning](team-ground-rules-discussion-strategy.md)
+- [Use the first day of class to set tone, share enthusiasm, involve students in discussions and boost motivation through relatable contexts](first-day-of-class-tone-and-motivation-strategy.md)
 
 ## Examples
 - **Intensive Summer institutes (e.g., HILT/Harvard Bok Center teaching consultations)** recommend posting 3–5 discussion norms and rehearsing them with a first-day pair-share before the first graded discussion.

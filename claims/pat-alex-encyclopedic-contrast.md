@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2010
+source_checked: 2026-11-19
 sources:
   - id: edward-f-redish-and-ayush-gupta-2010
     resource: "https://doi.org/10.48550/arXiv.1002.0472"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In clinical interviews about v = v0 + at, Alex treated the equation mainly as a calculation tool, while Pat connected it to units, dimensional consistency, and acceleration as a process changing initial velocity, and later used the equation expert-like without plugging in numbers. [→ Edward F. Redish and Ayush Gupta 2010](#edward-f-redish-and-ayush-gupta-2010)

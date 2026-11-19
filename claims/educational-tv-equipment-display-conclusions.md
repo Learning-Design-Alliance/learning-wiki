@@ -49,3 +49,4 @@ The abstracts page reports comparative conclusions from the army TV research: "B
 ## Related Claims
 - [Most simulation participants preferred high-tech video-assisted debriefing over lower-tech VAD and verbal debriefing, mainly for its better audio/video quality and focused review](participants-prefer-high-tech-vad-debriefing.md) — related
 - [The Black Holes: The Other Side of Infinity planetarium show has reached over two million viewers worldwide](black-holes-planetarium-show-reach.md) — related
+- [Audio-dependent demonstrations lose their intended learning outcome online because of microphone and speaker limitations](audio-dependent-demonstrations-limited-online.md) — related

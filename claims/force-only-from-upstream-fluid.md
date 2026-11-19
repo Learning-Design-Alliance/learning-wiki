@@ -48,3 +48,6 @@ Interview problem 2, question C asked students to describe forces on confined an
 ## Related Claims
 - [Half of interviewed students claimed a fluid element descending a uniform vertical pipe accelerates](vertical-pipe-accelerated-flow-misconception.md) — related
 - [On ENEM 2010_Q81 on buoyancy, misconceptions about weight reduction and force balance were present in nearly half of respondents](enem-buoyancy-misconceptions-2010-q81.md) — related
+- [After completing General Physics courses, many university students fail to recognize how a fluid element interacts with its environment, distinguishing poorly between confined and unconfined fluid](fluid-element-interaction-difficulties-post-instruction.md) — possibly the same claim (merge candidate)
+- [Four of five students failed to recognize that pressure must increase with distance from an obstacle to provide the net centripetal force on a fluid element](four-fifths-miss-pressure-increase-away-obstacle.md) — related
+- [About half of students failed to recognize that pressure throughout a free-falling unconfined water jet equals atmospheric pressure](half-students-miss-atmospheric-pressure-free-jet.md) — related

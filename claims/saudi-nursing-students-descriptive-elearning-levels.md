@@ -51,3 +51,4 @@ Descriptive statistics from the cross-sectional survey of N = 139 nursing studen
 - [Most dental students were satisfied with and showed a positive attitude toward technology-based learning during the COVID-19 lockdown](dental-students-satisfied-positive-attitude-tbl.md) — related
 - [Undergraduate course satisfaction dropped sharply after courses moved fully online during COVID-19, with very satisfied students falling from 51 percent to 19 percent](satisfaction-drop-sudden-online-covid.md) — related
 - [Technology access shows a moderate positive correlation with nursing students' satisfaction with e-learning](tech-access-correlates-satisfaction-nursing.md) — related
+- [Students' attitudes towards online learning are negatively correlated with their perceived learning achievement during COVID-19](attitudes-toward-online-learning-negatively-correlated-achievement.md) — related

@@ -51,3 +51,4 @@ Retention test applied to both groups on May 6th, 2016, 21 days after the six-we
 - [The experimental group's academic achievement rose significantly from pre-test to post-test under activity-based poster teaching](poster-group-significant-pre-post-gain.md) — related
 - [The experimental group's average achievement enhancement (28.14 points) exceeded the control group's (19.27 points) despite a lower pre-test mean](cta-module-greater-score-enhancement.md) — related
 - [Narrative theory instruction improved students' image creativity scores for poster design](narrative-theory-improved-image-creativity-scores.md) — related
+- [Teams using 3-D tablet or AR tools achieved better knowledge retention than textbook control teams](experimental-groups-better-knowledge-retention-than-control.md) — related

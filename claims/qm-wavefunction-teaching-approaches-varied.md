@@ -86,3 +86,4 @@ Two faculty "stressed in terms of the state of the system being a vector in the 
 - [Instructors agree that the primary goals of an upper-division QM course are learning the postulates and formalism and applying the formalism to solve diverse problems](qm-course-goals-postulates-formalism-problem-solving.md) — related
 - [Instructors varied on emphasizing connections between classical mechanics and QM, with several focusing mainly on the differences](qm-cm-connections-emphasis-varied.md) — related
 - [Instructor interaction types during small group time vary widely, from explaining to student-shared dialogue](small-group-interaction-type-variation.md) — related
+- [Highlighting the differences between the classical wave equation and the Schrödinger equation helps students grasp the meaning of the quantum wavefunction](classical-quantum-wave-differences-wavefunction-meaning.md) — related

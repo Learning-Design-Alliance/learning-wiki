@@ -51,4 +51,4 @@ The article recommends including Wikipedia-based explanations among the pedagogi
 -
 
 ## Key Sources
-- Kochmar, E., Vu, D.D., Belfer, R., Gupta, V., Serban, I.V., Pineau, J. (2020). Automated Personalized Feedback Improves Learning Gains in an Intelligent Tutoring System. arXiv preprint. https://arxiv.org/abs/2005.02431
+- Kochmar, E., Vu, D.D., Belfer, R., Gupta, V., Serban, I.V., Pineau, J. (2020). Automated Personalized Feedback Improves Learning Gains in an Intelligent Tutoring System. arXiv preprint. https://arxiv.org/abs/2005.02431. [doi:10.1007/978-3-030-52240-7_26](https://doi.org/10.1007/978-3-030-52240-7_26)

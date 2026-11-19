@@ -45,4 +45,4 @@ The chapter recommends that future empirical studies of digital game-based learn
 -
 
 ## Key Sources
-- Romero, M. (2019). Computers in Secondary Schools: Educational Games. In Encyclopedia of Education and Information Technologies. Springer. https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-60013-0_31-1
+- Romero, M. (2019). Computers in Secondary Schools: Educational Games. In Encyclopedia of Education and Information Technologies. Springer. https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-60013-0_31-1. [doi:10.1007/978-3-319-60013-0_31-1](https://doi.org/10.1007/978-3-319-60013-0_31-1)

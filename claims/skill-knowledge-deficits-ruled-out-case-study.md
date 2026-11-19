@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: moderate
-newest_evidence: 2011
+newest_evidence: 2010
 sources:
-  - id: gupta-2011
+  - id: gupta-2010
     resource: "https://doi.org/10.48550/arXiv.1003.4288"
-    title: "Gupta, A., & Elby, A. (2011). Beyond deficit-based models of learners' cognition: Interpreting engineering students' difficulties with sense-making in terms of fine-grained epistemological and conceptual dynamics. Submitted to Journal of Engineering Education. [doi:10.48550/arXiv.1003.4288](https://doi.org/10.48550/arXiv.1003.4288)"
+    title: "Gupta, A., & Elby, A. (2010). Beyond deficit-based models of learners' cognition: Interpreting engineering students' difficulties with sense-making in terms of fine-grained epistemological and conceptual dynamics. Submitted to Journal of Engineering Education. [doi:10.48550/arXiv.1003.4288](https://doi.org/10.48550/arXiv.1003.4288)"
     author: "Gupta, A., & Elby, A."
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Jim's incorrect conclusion was not caused by misconceptions about coordinate systems, insufficient understanding of pressure, weak mathematical skills, inability to connect math and physics, or unwillingness to revise answers. [→ Gupta 2011](#gupta-2011)
+`q2 i?` Jim's incorrect conclusion was not caused by misconceptions about coordinate systems, insufficient understanding of pressure, weak mathematical skills, inability to connect math and physics, or unwillingness to revise answers. [→ Gupta 2010](#gupta-2010)
 
 ## Evidence
 
-### Gupta 2011
+### Gupta 2010
 
-Gupta, A., & Elby, A. (2011). Beyond deficit-based models of learners' cognition: Interpreting engineering students' difficulties with sense-making in terms of fine-grained epistemological and conceptual dynamics. Submitted to Journal of Engineering Education. [doi:10.48550/arXiv.1003.4288](https://doi.org/10.48550/arXiv.1003.4288)
+Gupta, A., & Elby, A. (2010). Beyond deficit-based models of learners' cognition: Interpreting engineering students' difficulties with sense-making in terms of fine-grained epistemological and conceptual dynamics. Submitted to Journal of Engineering Education. [doi:10.48550/arXiv.1003.4288](https://doi.org/10.48550/arXiv.1003.4288)
 
 `q2 · i?` · `qualitative · r3`
 
@@ -51,3 +51,4 @@ Analysis of interview segments rules out deficit explanations one by one: Jim "q
 - [Jim's seemingly stubborn epistemological stance shifted in response to a contextual cue: a prompt about the sign of g unstuck him quickly and eagerly](epistemological-stance-shifts-with-contextual-cues.md) — a narrower finding that bears on this claim
 - [A student's persistent problem-solving impasse can be stabilized by an epistemological stance rather than by a conceptual or skill deficit](impasse-stabilized-by-epistemological-stance.md) — possibly the same claim (merge candidate)
 - [A student's epistemological stance can shift subtly in the moment toward expecting mathematical formalism to mesh with everyday experience, triggered by a conceptual cue](epistemological-stance-shifts-with-conceptual-cue.md) — related
+- [Students' characteristic equation errors (e.g., replacing an average by a difference) signal an epistemological rather than knowledge failure](equation-errors-epistemological-not-knowledge.md) — a broader claim this one bears on

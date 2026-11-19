@@ -47,6 +47,7 @@ The article recommends structuring activities as multisensory (audio-visual) gam
 - [Brain-Based Learning Activities](brain-based_learning_activities.md)
 - [Use multisensory exposure and training as targets for remediation of sensory-based developmental and cognitive impairments](multisensory-training-remediation-strategy.md)
 - [Deliver remedial instruction through blackboard work, group work, visual explanations and hands-on experiences](multimodal-remedial-instruction-dyscalculics.md)
+- [Provide a sonified HUDF alternative for visually impaired students alongside the visualization](hudf-sonification-visually-impaired-accommodation.md)
 
 ## Examples
 -

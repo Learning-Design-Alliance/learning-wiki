@@ -52,4 +52,4 @@ The article describes three structured didactic sequences — Jupiter's mass fro
 -
 
 ## Key Sources
-- Oliveira, A.M., Kemeicik, C., Monteiro, A.C.T., Benincá, T.S., Mattos, C.D.S., Schmidt, G.L. (2020). Sequências didáticas para o ensino de Astronomia utilizando o Stellarium. Cadernos de Astronomia. https://arxiv.org/abs/2008.01157
+- Oliveira, A.M., Kemeicik, C., Monteiro, A.C.T., Benincá, T.S., Mattos, C.D.S., Schmidt, G.L. (2020). Sequências didáticas para o ensino de Astronomia utilizando o Stellarium. Cadernos de Astronomia. https://arxiv.org/abs/2008.01157. [doi:10.48550/arxiv.2008.01157](https://doi.org/10.48550/arxiv.2008.01157)

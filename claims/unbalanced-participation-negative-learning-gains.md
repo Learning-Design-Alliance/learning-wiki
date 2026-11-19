@@ -52,3 +52,4 @@ Sample-wide analysis generalizing the two-dyad qualitative finding; the study "f
 - [Dialogue acts can distinguish balanced, supportive collaborative learning groups from unbalanced, unsupportive ones](dialogue-acts-distinguish-group-types.md) — related
 - [Blackboard-based instruction is associated with more balanced participation than face-to-face discussion, where one or two participants tend to dominate](blackboard-more-balanced-participation-than-face-to-face.md) — related
 - [Running PD PL over several sessions lets students counter free riders by negotiating or changing teammates](pd-pl-free-rider-prevention-via-session-iteration.md) — related
+- [Higher joint visual attention during a collaborative anatomy activity is positively associated with team post-test scores](jva-ratio-positively-associated-team-post-test-scores.md) — related

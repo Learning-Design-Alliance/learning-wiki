@@ -52,3 +52,6 @@ ANOVA of MCS post-test scores in eight regular calculus-based classes (403 males
 - [Students in calculus-based introductory physics improved from 28% pre-test to 50% post-test on a 30-item magnetism diagnostic but still struggled after instruction](magnetism-diagnostic-pre-post-gains.md) — related
 - [Large gender differences on FCI and CSEM appear on both pretest and post-test in introductory physics courses, with FCI gaps of 10%–20%](gender-gap-fci-csem-pre-post.md) — a broader claim this one bears on
 - [Asking introductory physics students to indicate their gender before taking the CSEM does not change their pre-test or post-test performance](gender-inquiry-no-csem-performance-effect.md) — related
+- [Conceptual survey posttest scores correlate moderately with final exam scores in introductory physics](conceptual-survey-final-exam-moderate-correlation.md) — related
+- [Gendered performance differences appear under instructors of both genders, with fewer significant differences observed for female instructors](instructor-gender-fewer-differences-female-instructors.md) — a broader claim this one bears on
+- [Male students rated their performance perception significantly higher than female students in three of four courses, but rated it equal in algebra-based mechanics](performance-perception-male-higher-three-courses.md) — related

@@ -52,3 +52,4 @@ Regression analyses of subjective cognitive load ratings (Cognitive Load Questio
 - [Mediation hypotheses via extraneous cognitive load and mental effort are unsupported](humour-mediation-cognitive-load-unsupported.md) — related
 - [Transitions between text and animation areas of interest are uniquely predicted by intrinsic load (sentence complexity)](text-animation-transitions-predicted-by-intrinsic-load.md) — related
 - [No group differences in intrinsic or germane cognitive load between video-analysis and traditional conditions](no-group-differences-icl-gcl.md) — related
+- [Germane cognitive load did not differ significantly between the exploRNN and text groups](no-gcl-difference-explornn-text.md) — related

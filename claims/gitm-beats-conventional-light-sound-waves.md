@@ -80,3 +80,4 @@ Descriptive results in Table 2 from the quasi-experiment: experimental group pos
 - [The inquiry-based integrated thematic model was implemented at a very good level (mean RPP implementation score 92) versus good (83) for thematic instruction](implementation-fidelity-inquiry-thematic-model.md) — related
 - [Reflective inquiry instructional technique produces significantly higher achievement in Electronic Works trade than conventional teaching method](reflective-inquiry-beats-conventional-electronic-works.md) — related
 - [Student-centred approaches (problem-based learning, guided inquiry, cooperative learning) outperformed teacher-centred methods in the reviewed studies](student-centred-methods-outperform-teacher-centred.md) — a broader claim this one bears on
+- [Guided inquiry with wave simulations significantly improves AP physics students' wave characteristics content performance](guided-inquiry-simulation-wave-characteristics-gain.md) — related

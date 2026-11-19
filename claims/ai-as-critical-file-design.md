@@ -51,3 +51,4 @@ A design argument stated in the related-work section of this position paper, not
 - [Automatically updating the flowchart and injecting generated code into editors drew participants away from explanations and toward direct code editing](auto-updates-drew-users-from-explanations.md) — related
 - [In an exploratory pilot, a soft barrier shifted participants from direct copying toward editing, understanding, and iterative resubmission without preventing task completion](soft-barrier-shifts-users-toward-editing.md) — a narrower finding that bears on this claim
 - [Students enact agency toward the self by maintaining motivation through embracing uncertainty and learning from mistakes, and by taking time for reflection and serendipity](agency-toward-self-actions.md) — related
+- [Asking students to solve tasks without compiling or running code counters brute-force programming and forces understanding](no-compile-tasks-counter-brute-force.md) — related

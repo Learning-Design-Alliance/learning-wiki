@@ -52,3 +52,6 @@ ANOVA of MCS post-test scores for 95 honors calculus-based students (75 males, 2
 - [The RCI shows a gender bias absent from the same course's homework, exam, and ATAR measures](rci-gender-bias-not-in-other-assessment.md) — related
 - [Students in calculus-based introductory physics improved from 28% pre-test to 50% post-test on a 30-item magnetism diagnostic but still struggled after instruction](magnetism-diagnostic-pre-post-gains.md) — related
 - [Large gender differences on FCI and CSEM appear on both pretest and post-test in introductory physics courses, with FCI gaps of 10%–20%](gender-gap-fci-csem-pre-post.md) — a broader claim this one bears on
+- [Calculus-based E&M shows no significant gender differences on any exam or in final letter grades](calc-em-no-gender-differences.md) — related
+- [Conceptual survey posttest scores correlate moderately with final exam scores in introductory physics](conceptual-survey-final-exam-moderate-correlation.md) — related
+- [Gendered performance differences appear under instructors of both genders, with fewer significant differences observed for female instructors](instructor-gender-fewer-differences-female-instructors.md) — a broader claim this one bears on

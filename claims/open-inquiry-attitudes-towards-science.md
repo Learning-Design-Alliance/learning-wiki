@@ -74,3 +74,4 @@ The review reports, citing Buck et al. (2014) and Moebius-Clune et al. (2011), t
 - [Positive attitude increases satisfaction, and satisfaction increases course recommendation](attitude-satisfaction-recommendation-chain.md) — related
 - [The article reports that the REACT strategy affects learners' learning motivation and attitudes and contributes to a more positive learning environment](react-affects-motivation-attitudes.md) — related
 - [Direct experience with the attitude object changes attitudes more effectively than secondary information](direct-experience-changes-attitudes.md) — related
+- [Programs partnering scientists with classrooms improve student motivation, questioning, content knowledge and attitudes toward science](scientist-classroom-partnership-benefits.md) — related

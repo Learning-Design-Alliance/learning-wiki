@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 138 claims (96 show a difference, 32 mixed, 10 no difference) · 119 studies (29 qualitative, 27 causal, 20 review, 20 design, 11 associational, 7 theoretical, 5 quant-synthesis), `q1`–`q4` · 15 of 119 report an effect size · 134 claims rest on one study
+> **Evidence** · 144 claims (100 show a difference, 33 mixed, 11 no difference) · 122 studies (29 qualitative, 27 causal, 20 review, 20 design, 13 associational, 8 theoretical, 5 quant-synthesis), `q1`–`q4` · 17 of 122 report an effect size · 139 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -179,6 +179,12 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [CLASS Personal Interest and Real World Connection clusters typically show negative shifts, though some instructional approaches produce positive shifts](../claims/class-relevance-clusters-typically-negative-shifts.md) [~W] — measured as an outcome of the instruction studied
 - [Course design and participatory structures can impact a student's sense of relevance with lasting effects after the course](../claims/course-design-participatory-structures-impact-relevance-nicole.md) [+M] — measured as an outcome of the instruction studied
 - [Graduate students rate the Problem Finding course as relevant, worthwhile and useful for their future and career (M = 4.58)](../claims/pf-course-rated-relevant-worthwhile-useful.md) [+M] — measured as an outcome of the instruction studied
+- [A student who had not made the physics/math blend valued mathematical functional dependence once it was connected to a concrete authentic example](../claims/student-valued-math-when-explained-scaling.md) [+W] — measured as an outcome of the instruction studied
+- [Perceived relevance produced a statistically significant moderate difference in overall CLASS normalized gains, with a slight expert-like shift for relevant-perceiving and slight novice-like shift for irrelevant-perceiving students](../claims/class-gain-shift-by-perceived-relevance.md) [+M] — learners who differ on it differ in outcomes
+- [Perceived relevance relates to expert-like CLASS gains for biology majors but not statistically for health science majors](../claims/relevance-gains-biology-not-health-majors.md) [~M] — an instructional effect differs with it
+- [Perceived relevance vs. irrelevance shows no statistically significant differences on FCI pretest, posttest, or normalized gains](../claims/perceived-relevance-no-fci-differences.md) [-M] — learners who differ on it differ in outcomes
+- [Personal Interest and Real-World Connections CLASS clusters show the strongest differences for perceived relevance](../claims/relevance-strongest-personal-interest-real-world-clusters.md) [+M] — learners who differ on it differ in outcomes
+- [Students who perceive relevance of physics to their majors show more expert-like CLASS attitudinal shifts than students who perceive none](../claims/relevance-expert-like-class-shifts.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

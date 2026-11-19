@@ -53,3 +53,4 @@ Pre-/posttest quasi-experimental study of coaching and pretest effects on the PI
 - [Chicago students gain most in achievement when strong academic press and strong social support occur together, and learn less when either is strong and the other weak](press-plus-support-combined-gains.md) — related
 - [Personalism and academic press each had only small influences on engagement, but their combination elevated student academic engagement substantially](personalism-press-combined-engagement.md) — related
 - Assessment does not have to be high-stakes to motivate students to perform — related
+- [Small-group discussion combined with a subsequent mini-lecture is reported to be substantially more effective than either alone, with group work benefiting weaker and stronger students alike](group-discussion-plus-mini-lecture-more-effective.md) — a narrower finding that bears on this claim

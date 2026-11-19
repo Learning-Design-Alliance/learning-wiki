@@ -48,3 +48,4 @@ Attendance data were collected through the classroom-activity answer papers acro
 ## Related Claims
 - [Mean exam grades of Completers differ only slightly (but often statistically significantly) across education levels, and mean grades drift lower across successive exams; Drops tend to stop after earning a low grade](802x-exam-performance-education-levels-drops.md) — related
 - [Voluntary use of StudentResearcher was retained well as the exam approached, with weekly badge counts dropping only 30% from week one to the last week](studentresearcher-badge-retention-high.md) — related
+- [Student evaluations of the active-learning graduate course improved from 3.7/5 in the first year to 5/5 in the last year, with 95% attendance despite an 8:30 am start](qft-active-learning-evaluations-improved-to-5-of-5.md) — related

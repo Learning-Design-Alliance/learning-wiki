@@ -43,7 +43,8 @@ Based on the finding that data collection showed the lowest set-like reasoning a
 - [Among students in a traditional large introductory lab course, overall paradigm distributions differed from pre-test to post-test, with more set-like and fewer point-like and mixed students, in one group with no comparison group.](../claims/pmq-paradigm-distribution-shift-toward-set-like.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Design lab activities and lectures around measurement uncertainty: non-verification measurements, peer data comparison, and dedicated uncertainty lectures](uncertainty-focused-lab-design-strategy.md)
 
 ## Examples
 -

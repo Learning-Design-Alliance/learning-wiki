@@ -52,3 +52,4 @@ Study 2 thematic analysis produced Student Global Theme 2, "Applying knowledge g
 - [Participants reported professional growth through networking and collaboration within the RPIP](pab-networking-professional-growth.md) — related
 - [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](students-interaction-empathy-perspective-taking.md) — related
 - [Instructors perceive that experiential learning cultivates enjoyment, satisfaction, and self-confidence through peer and community engagement (beauty)](instructors-enjoyment-peer-community-engagement.md) — related
+- [Students reported majority-positive experiences with the peer review process and perceived experiential learning in the video project](positive-peer-review-experience-experiential-learning.md) — a narrower finding that bears on this claim

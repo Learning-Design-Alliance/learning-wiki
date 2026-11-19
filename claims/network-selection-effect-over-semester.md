@@ -56,3 +56,5 @@ Network-level descriptive analysis across the five collections found reported ti
 - [Link reciprocity increases from early to late semester in all four curricula, with ISLE rising from 50% to 90%](reciprocity-increases-early-to-late-semester.md) — related
 - [Network density roughly doubles from week 1 to week 10 in three of the four curricula, with Peer Instruction showing only a marginal increase](week10-density-doubles-three-curricula.md) — related
 - [Late-semester SCALE-UP and ISLE blockmodels exactly match the cohesive subgroups ideal type, while most other networks only approximate it](cohesive-subgroups-ideal-type-scaleup-isle.md) — related
+- [Modeling Instruction and SCALE-UP developed distinct network structures reflecting their curricula](calep-modeling-scaleup-distinct-network-structures.md) — related
+- [Peer Instruction networks showed string-like seating structures with many isolates and only slightly larger connectivity by term's end](calep-peer-instruction-string-networks-isolates.md) — related

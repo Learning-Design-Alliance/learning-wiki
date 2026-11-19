@@ -47,3 +47,4 @@ Program evaluation of the Space Public Outreach Team, in which 42 NANOGrav membe
 ## Related Claims
 - [Authentic research experiences through the Global Telescope Network increased high school interns' interest in science and science careers](gtn-interns-interest-grew.md) — related
 - [The interactive gravitational-wave detector model exhibit increased self-reported visitor interest in physics and awareness of gravitational waves at the Royal Society Summer Science Exhibition.](interactive-gw-detector-model-increased-visitor-interest.md) — related
+- [NANOGrav SPOT ambassador evaluations of 151 visits (2015-2019) indicate K-12 students were engaged and presentations were geared at the appropriate age level](nanograv-ambassador-evaluations-engagement-appropriate-level.md) — related

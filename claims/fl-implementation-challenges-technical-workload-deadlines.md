@@ -53,3 +53,4 @@ Content analysis of the eight interviews; Table 1 reports all three implementati
 - [Saudi nursing students perceived pre-class assignments in flipped learning as deepening their understanding of course content](fl-preclass-assignments-deepened-understanding-nursing.md) — related
 - [Qualitative theme: minor technical issues (echo, login difficulties) reported by two participants formed a distinct barrier theme in the MHW TBL session](mhw-tbl-technical-challenges-theme.md) — related
 - [Challenges in the transition included connectivity problems, clinical skills training limits, preparation workload, and doubts about student self-directed learning](challenges-e-learning-transition-optometry.md) — related
+- [The workload and topic coverage of the first course offering were too ambitious for the average CS student, and the programming competition added undue pressure](course-workload-too-ambitious-first-offering.md) — related

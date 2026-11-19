@@ -70,3 +70,4 @@ Follow-up items on frequency and identity of harassers among the women reporting
 - [Harassment is high in the Brazilian physics community and more pronounced among women](harassment-high-more-pronounced-among-women.md) — related
 - [Moral and sexual harassment incidence is higher in subgroups differing from the cisgender-heterosexual majority profile](higher-harassment-non-cisgender-non-heterosexual.md) — related
 - [Women Ph.D. students report difficulty meeting professional expectations more often than men, with health-related problems cited far more often](women-phd-health-related-difficulty-gap.md) — related
+- [Female physics Ph.D. students report far more gender-based discrimination and sexual harassment than their male peers](women-phd-physics-report-more-discrimination-harassment.md) — a broader claim this one bears on

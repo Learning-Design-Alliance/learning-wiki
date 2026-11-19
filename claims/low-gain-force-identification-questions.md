@@ -55,3 +55,5 @@ Figure 1 reports per-question normalised gains for the six force-identification 
 - [Students show a statistically significant pre-to-post gain on the FCI as a whole, with a low normalised gain of 0.20](fci-significant-prepost-gain-low-normalised-gain.md) — related
 - [Most movement toward the correct answer among wrong-choice respondents is a direct migration from the fictitious-force choice X to the correct choice](wrong-choice-migration-x-to-correct-choice.md) — related
 - [Instructors overestimate introductory students' failure to identify contact forces and other forces on FCI force-identification items](instructors-overestimate-students-missing-contact-forces.md) — related
+- [Weekly pre/post questionnaire gains after tutoring sessions were low on the Hake scale despite an improvement](low-hake-gain-weekly-questionnaires.md) — related
+- [The six PFI questions polarize student responses between two choices and rank among the most challenging FCI items, with five of six in the top-10 hardest](pfi-questions-polarize-and-are-hardest.md) — related

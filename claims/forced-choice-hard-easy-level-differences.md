@@ -49,3 +49,4 @@ Forced-choice survey administered to 90 additional 100-level and 20 additional 3
 - [Students who find active-learning courses hard attribute this mainly to cognitive demand, with pace and unclear importance named only by 100-level students](active-learning-hard-cognitive-demand.md) — related
 - [100-level and 300-level biology students define easy courses similarly, both citing manageable workload, logical content, preparation, and high faculty support](easy-course-perceptions-similar-levels.md) — related
 - [Introductory and upper-level biology students differ in what they say makes a course hard, with 100-level students emphasizing stressors and 300-level students emphasizing cognitive demand](level-differences-hard-course-perceptions.md) — related
+- [Students characterize rigor differently by course level: workload for introductory courses, cognitive demand for upper-level courses](student-rigor-views-workload-versus-cognitive-demand.md) — related

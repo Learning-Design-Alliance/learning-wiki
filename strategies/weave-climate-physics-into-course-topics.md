@@ -56,4 +56,4 @@ Rather than a separate course, climate change is introduced through intersection
 -
 
 ## Key Sources
-- Singh, V. (2020). Toward an Effective Pedagogy of Climate Change: Lessons from a Physics Classroom. https://arxiv.org/abs/2008.00281
+- Singh, V. (2020). Toward an Effective Pedagogy of Climate Change: Lessons from a Physics Classroom. https://arxiv.org/abs/2008.00281. [doi:10.48550/arxiv.2008.00281](https://doi.org/10.48550/arxiv.2008.00281)

@@ -52,3 +52,4 @@ Anonymous post-term Canvas survey of N=159 students (~80% response rate) using a
 - [The between-cohort exam gain is attributable only to a composite intervention (autograding plus corrections plus expanded office hours), not to LaTA alone](composite-intervention-exam-confound.md) — related
 - [Students' Domain interest increased largely across a short introductory teaching course (Cohen's d = 2.07).](domain-interest-large-increase-short-course.md) — related
 - [Train-the-trainer workshops for research mentor training produce significant retrospective gains in facilitator confidence](train-the-trainer-confidence-gains-rmt.md) — related
+- [A short FiPy-based course improved students' self-efficacy related to PDEs, with the greatest boost among students with the least initial confidence](fipy-short-course-improved-pde-self-efficacy.md) — related

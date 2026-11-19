@@ -49,3 +49,4 @@ Item Response Curves for three PIQL v2.2 items (Fig. 3) show fraction choosing e
 - [A four-level scoring scheme for multiple-choice/multiple-response items reveals response nuance that dichotomous scoring hides](four-level-mcmr-scoring-reveals-nuance.md) — a broader claim this one bears on
 - [The ranking of incorrect FCI answer choices comes from item response curves relating answer choice selection to total score as a proxy for understanding](irc-ranking-of-incorrect-answers.md) — related
 - [Dichotomously scored PIQL results indicate only a very modest improvement in students' quantitative reasoning from introductory physics instruction](piql-dichotomous-scoring-modest-improvement.md) — related
+- [Four-level MCMR scoring reveals that at least 60% of students provide at least one correct response to each MCMR item, often coupled with an incorrect response](mcmr-four-level-scoring-nuance.md) — related

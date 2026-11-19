@@ -48,3 +48,4 @@ Qualitative case study of one test-set dialogue in QATD2k (Table 2): difficulty 
 - [Separating ability estimation from correctness prediction yields smoother, more stable learning trajectories than probability-based mastery estimation](ability-difficulty-separation-stable-learning-trajectories.md) — related
 - [An IRT-based difficulty-aware conversational KT framework improves AUC over the LLMKT baseline on both QATD2k and MathDial](irt-difficulty-aware-kt-beats-llmkt-auc.md) — related
 - [In a qualitative case study, LLMKT adjusts KC mastery estimates using the dialogue's textual content, such as the difficulty of the tutor's question, rather than only prior correctness labels.](llmkt-uses-dialogue-text-to-adjust-kc-mastery-estimates.md) — related
+- [Adaptive assessment services adjust task difficulty based on the learner's response to the previous task](adaptive-assessment-adjusts-difficulty-to-previous-response.md) — related

@@ -54,3 +54,4 @@ Pre/post CLASS administered to the spring 2011 Aviation Physics cohort (N = 7 pe
 - [CLASS Personal Interest and Real World Connection clusters typically show negative shifts, though some instructional approaches produce positive shifts](class-relevance-clusters-typically-negative-shifts.md) — reports the opposite
 - [Students' interest in physics increased significantly in both the fully in-person fall and the partially remote spring semesters, rising slightly less in spring](claim-physics-interest-increased-remote-semester.md) — related
 - [A pilot study in the author's courses indicates improvement in confidence, interest and performance among a majority of students](pilot-improvement-confidence-interest-performance.md) — related
+- [Personal Interest and Real-World Connections CLASS clusters show the strongest differences for perceived relevance](relevance-strongest-personal-interest-real-world-clusters.md) — related

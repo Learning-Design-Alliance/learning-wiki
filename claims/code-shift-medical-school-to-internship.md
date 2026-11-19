@@ -47,3 +47,5 @@ Thematic codes were plotted on the LCT Specialisation Plane (Figure 1), a Cartes
 ## Related Claims
 - [In one South African hospital's obstetrics and paediatrics internship, knower-code attributes (teamwork, organisation, efficiency, communication) outweighed specialised knowledge as the basis of legitimacy](internship-legitimises-knower-code-attributes.md) — a narrower finding that bears on this claim
 - [A mismatch exists between the competencies rewarded by undergraduate assessment and those valued in internship](curriculum-internship-competency-mismatch.md) — a narrower finding that bears on this claim
+- [Knower attributes were acknowledged as important at the undergraduate stage despite knowledge-code dominance, which the authors found somewhat unexpected](knower-attributes-acknowledged-early.md) — related
+- [Specialisation-plane analysis shows knowledge-code dominance in theoretical physics with a distinct code shift from undergraduate student to expert](knowledge-code-dominance-code-shift.md) — related

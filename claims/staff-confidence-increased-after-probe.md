@@ -46,3 +46,4 @@ Repeated electronic questionnaire of PROBE attenders; Table 6 prints yes respons
 
 ## Related Claims
 - [A majority of respondents (19 of 31) reported being able to solve a clinical problem after the simulator course, with midwives and residents citing real hemorrhage, dystocia, and perineal repair cases](simulator-training-reported-real-world-problem-solving.md) — related
+- [Of 62 physics students surveyed, 29 reported increased confidence in choosing physics as a major after participating in outreach](outreach-increased-major-confidence-29-of-62.md) — related

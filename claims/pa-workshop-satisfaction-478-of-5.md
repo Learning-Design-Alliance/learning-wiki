@@ -57,3 +57,4 @@ End-of-workshop self-reported satisfaction survey administered across the 41 wor
 - [Participants were highly satisfied with the online oncogenetics module, with satisfaction item scores of at least 4.1 and a global score of 7.9](high-satisfaction-online-genetics-cpd-module.md) — related
 - [Students rated the redesigned introductory physics course very positively, with increased interest in studying physics](intro-physics-survey-high-ratings-increased-interest.md) — related
 - [Students rated the lidyef2018 program highly on a 5-point evaluation survey, with an overall score of 4.09±0.77](lidyef2018-evaluation-survey-4-09.md) — related
+- [Participants report high satisfaction with the workshop, with all statement means above 4.5 except workload adequacy](quantum-workshop-high-satisfaction-ratings.md) — related

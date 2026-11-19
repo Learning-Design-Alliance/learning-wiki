@@ -77,3 +77,4 @@ The review reports, citing Shute and Ke (2012) and Wouters et al. (2013), that f
 - [Medical students valued debriefing sessions after VR training as key opportunities for reflection and consolidating learning](debriefing-valued-reflection-consolidation-vr.md) — related
 - [Debriefing is a critical component of learning in simulation-based education, consistent with prior randomized trials of observer versus active roles](debriefing-critical-component-simulation-learning.md) — a narrower finding that bears on this claim
 - [Participants recommend embedding simulation in curricula with structured goals, protected time and tailored facilitator feedback](simulation-curriculum-integration-protected-time-feedback.md) — related
+- [Students preferred structured consolidation tasks over open-ended exploration of the exercise scripts](students-prefer-structured-tasks-over-open-exploration.md) — a narrower finding that bears on this claim

@@ -51,3 +51,4 @@ Percentage result from the same survey of 51 students at two participating schoo
 - [Despite school ray-optics training, most students misconceive lens image formation, imagining the lens as a valve letting light through](lens-image-formation-valve-misconception.md) — related
 - [Students' prior knowledge about a topic impacts their understanding of text as they read](prior-knowledge-impacts-text-understanding.md) — a broader claim this one bears on
 - [A topic-matched online TBL session before the test improved topic-specific domain knowledge test scores](online-tbl-improves-topic-specific-dktest.md) — related
+- [A converging-lens simulation activity produced no improvement in optics content performance, likely because the task did not match the assessment](optics-simulation-no-improvement-mismatch.md) — related

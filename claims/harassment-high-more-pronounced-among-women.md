@@ -69,3 +69,4 @@ Table III (sexual harassment) and Table IV (moral harassment) break responses do
 - [Moral and sexual harassment incidence is higher in subgroups differing from the cisgender-heterosexual majority profile](higher-harassment-non-cisgender-non-heterosexual.md) — related
 - [Diversity decreases with career progression: proportions of women and black+parda people are higher among undergraduates than at the PhD level](diversity-decreases-with-career-progression-scissors-effect.md) — related
 - [One in five female physics Ph.D. students (21%) reported experiencing sexual harassment during their studies, versus 2% of men](sexual-harassment-female-physics-phd-israel.md) — related
+- [Female physics Ph.D. students report far more gender-based discrimination and sexual harassment than their male peers](women-phd-physics-report-more-discrimination-harassment.md) — related

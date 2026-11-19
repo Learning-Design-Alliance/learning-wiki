@@ -49,3 +49,4 @@ The review's analysis of questionnaires and instruments in the 74 articles (Tabl
 - [Teaching of complex quantum behavior — time dependence, superposition, and the measurement problem — is barely investigated at the secondary and lower undergraduate level](complex-quantum-behavior-barely-investigated.md) — related
 - [Students using research-based learning tools (QuILT and concept tests) performed significantly better on quantum measurement assessments than students in traditionally taught comparison classes](quilt-concept-tests-improve-quantum-measurement-performance.md) — related
 - [Modern textbooks covering all four periods of quantum mechanics improved students' ability to develop quantum mechanics skills in an overall context](modern-texts-improve-overall-skills.md) — related
+- [A teaching unit on quantum information processing was implemented in upper-secondary informatics with twelve students](quantum-information-unit-upper-secondary-feasible.md) — related

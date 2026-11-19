@@ -59,3 +59,4 @@ Same interview data set: despite reported interest gains from videos, most stude
 - [Table-top VSRT interferometer labs give undergraduates hands-on, intuitive understanding of aperture synthesis without Fourier-transform mathematics](vsrt-labs-intuitive-aperture-synthesis-undergraduates.md) — related
 - [Students most frequently preferred the highest-agency Project Lab unit, with freedom the most common stated reason](project-lab-most-preferred-freedom-reason.md) — related
 - [Freedom was the most frequently written word in students' explanations of why they liked a lab unit, written by 25% of students](freedom-most-frequent-word-favorite-lab.md) — related
+- [Teachers rated students as highly engaged in the workshops, with hands-on coding tutorials and group activities the most frequently stated reason](hands-on-coding-drove-workshop-engagement.md) — related

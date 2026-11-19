@@ -46,4 +46,4 @@ The article proposes that an effective climate pedagogy operates along four dime
 -
 
 ## Key Sources
-- Singh, V. (2020). Toward an Effective Pedagogy of Climate Change: Lessons from a Physics Classroom. https://tropicsu.org/
+- Singh, V. (2020). Toward an Effective Pedagogy of Climate Change: Lessons from a Physics Classroom. https://tropicsu.org/. [doi:10.48550/arxiv.2008.00281](https://doi.org/10.48550/arxiv.2008.00281)

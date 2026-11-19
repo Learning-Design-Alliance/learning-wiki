@@ -44,6 +44,7 @@ The article proposes a presentation in which students examine the dark matter pr
 ## Related Strategies
 
 - [Pair a science culture venue with an active research programme so mediators are trained directly on live research data](scientist-sponsorship-trains-mediators-live-data.md)
+- [Guided enquiry-based programming tasks that signpost the physics and leave the programming method to the student](signposted-physics-open-programming-enquiry-task.md)
 
 ## Examples
 -

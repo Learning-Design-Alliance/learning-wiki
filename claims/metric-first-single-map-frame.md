@@ -46,3 +46,4 @@ Qualitative pedagogical argument (Section III) that all variables in the metric 
 
 ## Related Claims
 - [Purely kinematic presentation of special relativity leaves student understanding deficient, while including the constructive approach enriches it](constructive-approach-enriches-str-understanding.md) — related
+- [Students consider time dilation and length contraction unilateral phenomena occurring only in the moving frame of reference](time-dilation-length-contraction-unilateral-conception.md) — related

@@ -50,3 +50,4 @@ Analysis of overall CLASS pre/post scores and normalized gains by learning orien
 - [Framework-oriented students experienced positive expert-like CLASS attitude gains while Performance- and Vague-oriented students slightly declined](framework-oriented-students-positive-class-gains.md) — related
 - [The attitudinal-gain advantage of Framework-oriented students was prominent only within Health Science majors, not Biology or other Natural Science majors](orientation-gain-effect-limited-to-health-majors.md) — related
 - [Performance-oriented IPLS students show negative CLASS attitude gains across all item clusters (-0.09 to -0.32) while framework-oriented students show positive gains](performance-oriented-negative-class-gains.md) — related
+- [Students perceiving irrelevance scored significantly less expert-like on the CLASS posttest overall and within almost every item cluster, with moderate effect sizes](class-posttest-significant-relevance-differences.md) — related

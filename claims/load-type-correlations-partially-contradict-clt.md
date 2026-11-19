@@ -54,3 +54,4 @@ Construct validity part of the meta-analysis: correlations between ICL, ECL, and
 - In the new questionnaire, ICL and ECL correlate positively while both correlate negatively with GCL — a narrower finding that bears on this claim
 - [Design guidelines from motivational and complex-skill theories (4C/ID, ARCS, CLT) contradict multimedia learning guidelines (CTML), producing seven specific design dilemmas](seven-design-dilemmas-multimedia-vs-complex-skill-guidelines.md) — related
 - [No group differences in intrinsic or germane cognitive load between video-analysis and traditional conditions](no-group-differences-icl-gcl.md) — related
+- [Germane cognitive load did not differ significantly between the exploRNN and text groups](no-gcl-difference-explornn-text.md) — related

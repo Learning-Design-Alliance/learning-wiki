@@ -47,3 +47,4 @@ Post-test correlation analysis of the ANU Physics 2 class. The article reports "
 ## Related Claims
 - [Concept-test scores rose significantly from pre-test to post-test on time dilation and the relativity of simultaneity after the RTR lab, in one single-group pre-post study with no comparison group](rtr-concept-test-gains.md) — related
 - [In one uncontrolled pre-post study, participant use of misconceptions associated with the magnetic pole fell from pre-test to post-test, and concepts used were oriented towards the basic concepts of magnetism after sequential inquiry-based science activities with challenging questions](sequential-inquiry-reduces-magnetic-pole-misconceptions.md) — related
+- [Pre-service and future physics teachers show considerable difficulties with special relativity concepts such as proper time, time dilation, reference frames and events](teacher-alternative-conceptions-special-relativity.md) — related

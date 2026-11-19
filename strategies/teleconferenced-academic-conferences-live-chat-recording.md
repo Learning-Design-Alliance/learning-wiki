@@ -54,6 +54,7 @@ The article recommends replacing in-person weekday academic conferences with vid
 - [Increase Synchronous Teacher Presence](increase_synchronous_teacher_presence.md)
 - [Use telephone video-conferencing for interim monitoring of structured surgical training programs](video-conferencing-interim-curriculum-monitoring.md)
 - [Extend e-learning platforms with video-conferencing attendance verification and student payment integration](citadel-further-work-attendance-and-payment.md)
+- [Run a parallel video-conferencing session with chat and anonymous polls alongside physical classes](parallel-online-session-during-physical-classes.md)
 
 ## Examples
 -

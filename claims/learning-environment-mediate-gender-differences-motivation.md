@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-11-19
 sources:
   - id: yangqiuting-li-2020
     resource: "https://doi.org/10.1119/perc.2020.pr.li"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Gender mediation analysis shows gender only directly predicts pre-self-efficacy, pre-interest, and perception of the learning environment; post-course gender differences were mediated by the learning environment components. [→ Yangqiuting Li 2020](#yangqiuting-li-2020)

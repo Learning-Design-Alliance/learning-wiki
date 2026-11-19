@@ -47,3 +47,4 @@ Discussion-section observation comparing the grade distribution of course partic
 ## Related Claims
 - [Undergraduate students in a project-based outreach course rated the course very positively, averaging 4.5(0.6) on a 1–5 appreciation scale, and 96% said they would not have preferred another elective](outreach-course-high-student-appreciation.md) — related
 - [Placement participation was elective and self-selected, attracting students more comfortable with teaching's interpersonal demands](anatomy-ems-self-selection-bias.md) — related
+- [The video project's grade distribution closely resembles the first midterm's distribution, supporting its use in place of a midterm assessment](video-project-grade-distribution-resembles-midterm.md) — related

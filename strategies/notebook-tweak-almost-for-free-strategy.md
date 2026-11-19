@@ -47,6 +47,7 @@ The course paired a heavily commented sample program solving a familiar problem 
 - [Mandatory offline pass/fail coding exam as an artificial obstacle forcing independent programming](offline-coding-exam-obstacle-strategy.md)
 - [Have students build and explore their own multi-dimensional wire configurations (solenoids, Helmholtz coils, toroidal systems) with the superposition routine before lengthy theoretical derivations](student-built-3d-magnetic-field-models-strategy.md)
 - [Free students from routine programming work when using computer modelling in physics](free-students-from-routine-programming.md)
+- [Task-based quantum programming notebooks that withhold support libraries so participants compute matrix operations by hand](task-based-quantum-programming-notebooks.md)
 
 ## Examples
 -

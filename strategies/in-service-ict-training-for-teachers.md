@@ -55,6 +55,7 @@ The article recommends ongoing professional development so teachers can handle I
 - [Train chemistry teachers to use computer simulations through seminars, workshops and conferences organised by professional bodies](professional-bodies-train-teachers-simulations.md)
 - [Organize rational and emotive-oriented conferences and orientations for schoolteachers before introducing them to online teaching](rebt-oriented-conferences-for-teachers-strategy.md)
 - [Support teacher adoption through compensated training workshops and focusing on one course stream initially](qc-module-teacher-training-workshop-strategy.md)
+- [Teacher training directions for Smart Kids technology in pre-service elementary teacher education](smart-kids-teacher-training-directions.md)
 
 ## Examples
 -
