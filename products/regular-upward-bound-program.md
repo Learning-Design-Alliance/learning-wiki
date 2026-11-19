@@ -26,6 +26,7 @@ A federally funded U.S. Department of Education pre-college programme that provi
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **UWRF Upward Bound residential summer science enrichment program**: Since 2006, IceCube has run a 2-week residential summer science enrichment program for students in grades 9-12 through the University of Wisconsin-River Falls Upward Bound program, which serves low-income students and those whose parents lack college degrees. Enrollment "varies from year to year, ranging from 30 to 80". Each summer a new program teaches science in a manner not possible in a traditional high school classroom, relying on PolarTREC/TEA educators to produce a meaningful, motivating educational experience. (The IceCube Collaboration (2021))
 
 ### Claims
 - [This report provides the first estimates of Upward Bound's effects on postsecondary completion and updates earlier estimates for enrollment and financial aid](../claims/upward-bound-first-postsecondary-completion-estimates.md) [+W]
@@ -38,8 +39,8 @@ A federally funded U.S. Department of Education pre-college programme that provi
 
 ## Key Sources
 - Neil S. Seftor, Arif Mamun, Allen Schirm. (2009). The Impacts of Regular Upward Bound on Postsecondary Outcomes 7-9 Years After Scheduled High School Graduation. Princeton, NJ: Mathematica Policy Research. http://www.ed.gov/about/offices/list/opepd/ppss/reports.html#upward-2009
-
 <!-- merged 2026-10-10 from elements/regular-upward-bound-program ("Regular Upward Bound program"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- The IceCube Collaboration. (2021). Neutrino Education, Outreach, and Communications Activities: Captivating Examples from IceCube. 37th International Cosmic Ray Conference (ICRC 2021). https://arxiv.org/abs/2107.12176
 
 # Regular Upward Bound program
 

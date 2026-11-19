@@ -48,3 +48,4 @@ Personal-impact questions in the retrospective survey of former participants; th
 - [Former IAYC participants report long-term friendships, with most remaining in contact monthly or more often](iayc-long-term-friendships.md) — related
 - [Collaboration skills improved for 7 of 9 camp students, but 2 students remained ineffective group members](ev3-camp-collaboration-gains-mixed.md) — related
 - [A majority of surveyed former IAYC participants report that the camp influenced their career choice in some way](iayc-survey-career-choice-influence.md) — related
+- [IAYC survey respondents were 84.7% white, indicating limited ethnic diversity](iayc-survey-84-7-percent-white.md) — related

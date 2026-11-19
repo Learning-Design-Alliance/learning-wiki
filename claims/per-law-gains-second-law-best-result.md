@@ -67,3 +67,4 @@ Same comparative analysis: first law correct-plus-incomplete answers totaled "55
 - [After the didactic sequence, correct questionnaire answers rose from 4% to 51% of total questions, while blank answers fell from 29% to 3%](final-questionnaire-gains-newton-sequence.md) — a broader claim this one bears on
 - [Prior-knowledge and final questionnaires bracket the sequence, with student responses documented per student and per group](questionnaire-brackets-student-responses-documented.md) — related
 - [Students entering the didactic sequence had almost no prior scientific knowledge of Newton's Laws, with 67% of initial questionnaire responses showing no prior knowledge](prior-knowledge-newton-laws-lacking-first-year-high-school.md) — related
+- [The RSA activity improves mastery of Kepler's laws, with the largest gain on the second law, and improves understanding of gravity assist](rsa-improves-kepler-laws-and-gravity-assist.md) — related

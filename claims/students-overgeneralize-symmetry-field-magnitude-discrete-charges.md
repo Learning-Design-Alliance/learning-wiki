@@ -49,3 +49,4 @@ Analysis of written responses and think-aloud interviews on a multiple-choice it
 ## Related Claims
 - [Students incorrectly transfer the symmetry of an object to its charge distribution, e.g., assuming spherical symmetry for six discrete charges on a sphere](object-versus-charge-distribution-symmetry.md) — a broader claim this one bears on
 - [Many introductory physics students incorrectly believe the electric field is zero everywhere inside any sphere with charges on its surface, invoking electrical shielding even for insulators](students-claim-zero-field-inside-insulating-charged-sphere.md) — related
+- [The validated survey reveals persistent difficulties reasoning with multiple quantities, applying process constraints, and overgeneralizing the second law](stpfasl-difficulties-multiple-quantities-constraints.md) — related

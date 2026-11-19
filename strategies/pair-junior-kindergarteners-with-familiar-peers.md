@@ -43,6 +43,7 @@ Based on the finding that senior kindergarteners engaged and collaborated more t
 ## Related Strategies
 
 - [Organize schools into educational clusters where older students teach younger ones to break the linearity of the system](educational-clusters-older-teach-younger.md)
+- [Organize students into collaborative clusters where peers copy better-performing partners](collaborative-cluster-peer-copying-strategy.md)
 
 ## Examples
 -

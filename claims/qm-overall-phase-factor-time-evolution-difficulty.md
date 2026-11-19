@@ -62,3 +62,4 @@ Study reviewed from seven universities (Ref. [24]): students were given the init
 - [Teaching of complex quantum behavior — time dependence, superposition, and the measurement problem — is barely investigated at the secondary and lower undergraduate level](complex-quantum-behavior-barely-investigated.md) — related
 - [Documented student difficulties in upper-level quantum mechanics are dominated by measurement and time evolution and related procedures](qm-difficulty-review-measurement-time-evolution.md) — a broader claim this one bears on
 - [Students attributed Time Evolution to Physical Systems themselves rather than to states, and only one student evidenced the role of initial conditions in both Classical and Quantum Mechanics](time-evolution-attributed-to-system.md) — related
+- [Upper-undergraduate students hold naïve ideas of revival and decay for quantum time evolution after measurement](naive-revival-decay-ideas-quantum-time-evolution.md) — related

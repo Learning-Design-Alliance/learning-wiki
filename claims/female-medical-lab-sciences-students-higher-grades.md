@@ -71,3 +71,4 @@ Replication of the grade comparison in a separate third-year Bacteriology course
 - [Young women outperformed young men in every grading category family in unweighted points, with the largest gap in assignments and smallest in assessments; weighting reversed this ordering](gender-gap-varies-by-grading-category-family.md) — a broader claim this one bears on
 - [Female medical undergraduates performed better than males at the final MBBS examination](females-better-final-mbbs-performance.md) — related
 - [First-year gender differences in physics grades favored male students among low-GPE students, but were reduced or reversed in second-year courses](first-year-physics-gender-gap-low-gpe-reverses-second-year.md) — related
+- [In the multiple regression, female students earn significantly higher graduate grades than male students with the same admissions scores (β = 0.13, p = .04)](female-higher-ggpa-holding-scores-constant.md) — related

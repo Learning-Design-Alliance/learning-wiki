@@ -48,6 +48,7 @@ The article describes replacing TA-led discussion sections with an on-line quiz 
 - [Two Stage Quizzes](two-stage-quizzes.md)
 - [Lecture-course adaptation using a pre-lab website and TA-supported discussion sections](lecture-course-adaptation-prelab-website-ta-sections.md)
 - [Show solution statistics from automatic assessment tools as indirect gamification](solution-statistics-indirect-gamification.md)
+- [Supplement or replace homework assessment with in-class low-stakes quizzes and whiteboard group problem-solving when online solutions undermine the homework model](in-class-quizzes-whiteboard-problem-solving-replacing-homework.md)
 
 ## Examples
 -

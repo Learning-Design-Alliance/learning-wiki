@@ -48,3 +48,4 @@ Focus group study with 12 astrophysicist and 11 non-expert participants who view
 - [Online survey respondents significantly preferred the question and answer label format over the fun fact label as more interesting/engaging](question-answer-label-more-engaging-than-fun-fact.md) — related
 - [Online survey respondents significantly preferred the question and answer label over the fun fact label as best conveying information about the image](question-answer-label-conveys-information-best.md) — related
 - [Online survey respondents significantly preferred the question and answer label over the fun fact label as more likely to stick in memory](question-answer-label-more-likely-to-stick.md) — related
+- [Pairing accurate scientific explanations with astonishing astronomical images is validated as an effective outreach and educational tool](astrophotography-explanations-with-images-effective.md) — related

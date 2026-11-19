@@ -54,3 +54,5 @@ Bootstrapped correlation-matrix community detection applied to incorrect FCI res
 - [Item blocking in the FCI generates spurious response communities not grounded in shared reasoning](fci-item-blocking-generates-spurious-communities.md) — related
 - [MMA identifies fewer but substantially larger misconception communities on the FMCE than on the FCI, while the FCI covers a broader set of misconceptions](fmce-versus-fci-community-comparison.md) — related
 - [MMA-P recovers incorrect communities similar to MMA while also identifying correct and mixed communities](mma-p-recovers-incorrect-communities-similar-to-mma.md) — related
+- [All 30 FCI taxonomy misconceptions appear as dominant incorrect answers, with 17 present in Phys. 1 and 15 in Phys. 2 and Phys. 3](all-fci-misconceptions-present-dominant-answers.md) — related
+- [Impetus misconceptions are the most dominant incorrect answers, with impetus-supplied-by-hit (I1) chosen by more than 70% of students answering incorrectly across attempts](impetus-misconceptions-most-dominant-fci.md) — related

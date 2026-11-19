@@ -47,3 +47,4 @@ Second part of the critical phase, in which students tested their predictions wi
 ## Related Claims
 - [Students more readily envisage 'more or less' diffused light when the common rules predict no absorption (red laser on red paper)](intensity-allusion-red-on-red-case.md) — related
 - [By the end of the teaching interview, all students articulated a conceptual progression from a presence/absence perspective to a 'more or less' approach and expressed intellectual satisfaction](conceptual-progression-and-intellectual-satisfaction.md) — related
+- [An RGB 3D-printed projector lets students explore additive colour synthesis, colour filters, and RGB colour composition verified with a mobile app](3d-rgb-projector-colour-synthesis-activity.md) — related

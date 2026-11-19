@@ -73,3 +73,4 @@ Second interview set (five students) explicitly targeting Reflection with a thre
 - [Students rarely reflect on results: they struggle to check units and physical limits of reflection and transmission coefficients](weak-reflection-skills-rt-coefficients.md) — a narrower finding that bears on this claim
 - [Most students can perform reflective checks when prompted, with 72% correctly articulating the 1/r fall-off of the potential in the large-r limit](prompted-reflection-mostly-successful.md) — related
 - [Very few students spontaneously reflect on their solutions, with only 20 of 329 students making explicit reflective checks on exams](spontaneous-reflection-rare-across-contexts.md) — a broader claim this one bears on
+- [Students' written solutions mirrored their elicited reasoning in 28 of 36 instances, with the reflection component most often missing from written work](written-solutions-mirrored-reasoning-28-of-36.md) — related

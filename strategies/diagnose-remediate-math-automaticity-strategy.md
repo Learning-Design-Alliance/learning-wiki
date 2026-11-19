@@ -53,6 +53,7 @@ The article recommends that instructors give “a brief quiz” to a sample of s
 
 - [Low Stakes Quizzing](low-stakes-quizzing.md)
 - [Use start-of-class quizzes on pre-class video content as a regular part of flipped in-class sessions](start-of-class-quiz-strategy-flipped-classroom.md)
+- [Achieve automaticity through spaced overlearning via retrieval practice](spaced-overlearning-retrieval-practice.md)
 
 ## Examples
 -

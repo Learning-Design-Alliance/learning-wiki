@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 479 claims (243 for, 208 mixed, 28 against) · 361 studies (113 associational, 88 design, 63 causal, 48 review, 30 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 33 of 361 report an effect size · 471 claims rest on one study
+> **Evidence** · 480 claims (244 for, 208 mixed, 28 against) · 362 studies (113 associational, 89 design, 63 causal, 48 review, 30 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 33 of 362 report an effect size · 472 claims rest on one study
 
 ## Conditional relationship
 
@@ -323,6 +323,7 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Cronbach's alpha for FASCI scores (FA 0.62, SCI 0.51) falls well below the 0.80 target for an open-ended scenario-based instrument](../claims/fasci-cronbach-alpha-below-target.md) [+W] — attached 2026-11-17 from Talbot et al. (2014), which proposed "Scrutinize score reliability with a multi-faceted approach rather than defaulting to a single conventional coefficient".
 - [Students may make real-world physics connections without valuing or labeling them as physics, adding complexity to interpreting attitude measures](../claims/connections-without-labeling-as-physics.md) [+W] — attached 2026-11-18 from Abhilash Nair et al. (2018), which proposed "Measures of students' connections between physics and the real world should be nuanced or expanded to reflect students' rich disciplinary experiences".
 - [A mastery-based grading rubric produces consistent scores when used by untrained graders, with Cohen's kappa of 0.95](../claims/ccmi-grading-rubric-untrained-grader-reliability.md) [+W] — attached 2026-11-18 from Leanne Doughty et al. (2014), which proposed "Separate the scoring and difficulty-diagnosis roles of open-ended assessment into two distinct rubrics"; tests this page's relationship.
+- [Raters using the rubric agree on at least 80% of grading decisions, with consistent reliability across about 200 students](../claims/rubric-inter-rater-reliability-above-80-percent.md) [+W] — attached 2026-11-19 from A. Mason et al. (2007), which proposed "Keep general rubric subcategories fixed across problems and change only the problem-specific criteria"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

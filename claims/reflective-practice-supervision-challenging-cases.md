@@ -71,3 +71,4 @@ Results-section finding on group supervision. Interviewees described peer intera
 - [High-quality case handbooks with clear learning outcomes and role-play facilitator training were highly valued supports for CBL facilitation](cbl-handbooks-and-role-play-training-valued.md) — related
 - [Group supervision is valued because aquatic physiotherapy is a specialised area practised infrequently, leaving little other dedicated reflection time](specialised-infrequent-practice-drives-supervision-value.md) — related
 - [Physiotherapists perceive supervisor-led group clinical supervision as an effective model for developing aquatic physiotherapy skills through reflective practice](group-supervision-perceived-effective-aquatic-skill-development.md) — related
+- [Increased context expertise facilitated both case study subjects' professional development trajectories](context-expertise-facilitates-faculty-growth.md) — related

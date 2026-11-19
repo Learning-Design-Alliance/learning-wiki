@@ -48,3 +48,4 @@ Randomized controlled educational intervention with 46 final-year medical studen
 - [Introspection (SRIS-IN) improved across all participants by rotation's end regardless of mentoring style](introspection-improved-regardless-mentoring.md) — related
 - [Passive-mentored students rarely initiated mentor contact despite assigned availability](passive-mentoring-students-rarely-seek-contact.md) — related
 - [A nine-week cross-age peer mentoring program did not produce statistically significant increases in global school connectedness among rural middle school mentees, though mean scores rose in both groups](camp-nine-week-global-connectedness-non-significant.md) — related
+- [Daily Slack contact plus regular Zoom mentoring sustains school research activities independently of region](tan-q-online-mentoring-sustainability.md) — related

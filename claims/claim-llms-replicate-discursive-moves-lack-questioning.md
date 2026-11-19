@@ -79,3 +79,4 @@ Qualitative comparison of AI-agent and human discursive moves. The authors find 
 - [Students engaged deeply with LLM feedback, with coded evidence of reflection, rebuttal, and acceptance in the large majority of responses](deep-engagement-llm-feedback-reflection-rebuttal-acceptance.md) — related
 - [LLM-based virtual patients predominantly lack emotional depth or expressions of concern, lowering Personal dimension ratings](lack-emotional-depth-lowers-personal-ratings.md) — related
 - [LLM-based virtual patients never ask for clarification of ambiguous questions, tending to provide overly detailed responses](never-ask-clarification-overly-detailed-responses.md) — related
+- [Ontic and discursive relations progressively weaken from first year to Honours and postgraduate assessment](progressive-weakening-ontic-discursive-relations.md) — related

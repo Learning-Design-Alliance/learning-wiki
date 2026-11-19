@@ -50,3 +50,4 @@ Cross-level interaction analyses between country-level moderators (HDI, Educatio
 
 ## Related Claims
 - [The effect of student achievement on enjoyment is largely consistently positive across 37 countries, while the size of the negative class-average effect varies from country to country](hflpe-cross-national-generalizability-enjoyment.md) — related
+- [The importance of achievement predictors varies with national development in four distinct patterns, with subjective factors most variable](four-patterns-global-variation-achievement-factors.md) — related

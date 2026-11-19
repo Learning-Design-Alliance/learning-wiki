@@ -54,6 +54,7 @@ A classroom strategy in which a small portion of weekly class time is used for s
 - [Cumulative Review Quizzes](cumulative-review-quizzes.md)
 - [Cumulative Quizzing](cumulative-quizzing.md)
 - [Timed Retrieval Practice](timed-retrieval-practice.md)
+- [Educator experiments: pre-lecture fundamentals quizzes, mental math, and prerequisite mathematics assessment](educator-experiments-lecture-preparation.md)
 
 ## Examples
 -

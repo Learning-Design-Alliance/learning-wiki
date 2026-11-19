@@ -71,3 +71,4 @@ Authors' interpretive argument in the Discussion: because women outperformed men
 - [Bias against female classmates was stronger in physical science courses: participants in life science courses selected higher proportions of women in all four nomination categories](course-type-moderates-peer-gender-bias.md) — related
 - [Cisgender men speak more during small-group or whole-class discussions, reinforcing perceptions of greater competence in STEM.](men-speak-more-discussions-competence-perceptions.md) — related
 - [Athena participants' GR is much higher than for physics studies at university level in Geneva (GR = 0.32) but still below the maturité-level ratio (GR = 1.4)](athena-gr-exceeds-physics-study-choice.md) — related
+- [Female researchers are on average under 30% worldwide and below 25% in most African countries](female-researchers-under-30-percent-gender-gap.md) — related

@@ -49,3 +49,4 @@ Observational participation record of the 2015 outreach program. The article rep
 - [Before the mobile project, no Seattle Public High School reserved UW planetarium shows even though the program served on average 1,000 students a year and every SPHS lay within 10 miles of the planetarium](sphs-planetarium-reservation-gap.md) — related
 - [The UM-D, HFC and FAAC partnership delivers large-scale annual K-12 and public astronomy outreach, with of order a thousand schoolchildren per year at the planetarium](umd-hfc-faac-outreach-partnership-impact.md) — related
 - [Before-and-after Astronomy Questionnaire responses showed almost all students left with heightened scientific curiosity and desire to learn more](pre-post-questionnaire-curiosity-gains.md) — related
+- [Pairing accurate scientific explanations with astonishing astronomical images is validated as an effective outreach and educational tool](astrophotography-explanations-with-images-effective.md) — related

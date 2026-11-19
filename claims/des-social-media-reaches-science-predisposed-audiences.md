@@ -68,3 +68,4 @@ Twitter analytics on DES follower interests. According to Twitter metrics, most 
 - [DES Facebook and Twitter followings grew roughly linearly (about 5 new followers per day), and daily original content alone did not build the following exponentially](des-social-media-following-linear-growth.md) — related
 - [The popularity of individual DES social media posts was unpredictable, with the most popular posts featuring science-art and popular-culture intersections and observatory photographs](des-post-popularity-unpredictable-science-art-popular-culture.md) — related
 - [Social-media close-up picture game posts reached on average 1400 people, with a maximum of 43301](closer-look-social-media-reach.md) — related
+- [Online platforms can reach the public as effectively as traditional astronomy outreach activities](online-platforms-effective-astronomy-outreach.md) — reports the opposite

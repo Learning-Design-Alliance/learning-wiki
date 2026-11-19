@@ -52,3 +52,4 @@ Theoretical argument from the author's preface, offered as personal expert exper
 - [Students most often vacillate in interpretive responses when intuitive sense conflicts with what they consider a correct response](students-vacillate-personal-versus-public-perspectives.md) — related
 - [Academics attribute student difficulties chiefly to lack of work, insufficient mastery of mathematical tools, difficulty giving physical meaning to knowledge, and lack of curiosity](student-difficulties-perceived-by-physics-academics.md) — related
 - [Teachers reported the game's intuitive, tangible approach to quantum physics encouraged weaker students to participate more actively](eqm-tangible-approach-weaker-students.md) — related
+- [Scaffolded play in Quantum Odyssey enables learners to intuitively work with established QIS topics without prior mathematics or physics exposure](visual-intuition-without-mathematics-quantum-concepts.md) — related

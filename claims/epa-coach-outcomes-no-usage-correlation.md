@@ -57,3 +57,4 @@ Spearman correlations of knowledge, skill and ITU mean differences with total us
 - [Higher completion time correlates with poorer RAS task performance across most FSRS metrics](completion-time-correlates-fsrs-metrics.md) — related
 - [Post-patient encounter form completion correlates with assessment scores, so PPEF scores were not compared between groups](ppef-completion-correlates-with-proficiency.md) — a narrower finding that bears on this claim
 - [Completion rate (percentage of screen cards viewed) correlated with post-test score, but usage time and formative scores did not](completion-rate-correlates-posttest.md) — related
+- [On Platform B, exercise performance and completion correlate with learning gains and post-quiz scores](exercise-behavior-correlates-with-gains.md) — reports the opposite

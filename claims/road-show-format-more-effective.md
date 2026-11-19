@@ -47,3 +47,4 @@ Comparative reflection on the program's two event formats (Section II): hosting 
 ## Related Claims
 - [The incongruence between stationary schools and mobile hunter-gatherer lifestyles, including distant, poorly maintained schools and abusive hostels, blocks school access](infrastructural-barriers-mobile-hunter-gatherer-schooling.md) — related
 - [Geographic distance and insufficient internet bandwidth can derail rural schools' plans for cross-school professional learning communities](rural-distance-and-bandwidth-derail-plans-for-cross-school-plcs.md) — related
+- [Cost and distance barriers limit Namibian school access to H.E.S.S. site visits](hess-school-visit-access-barriers.md) — a narrower finding that bears on this claim

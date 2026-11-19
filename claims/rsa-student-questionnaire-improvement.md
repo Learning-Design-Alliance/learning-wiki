@@ -46,3 +46,5 @@ Pre/post questionnaire study with more than 200 high school students in class gr
 
 ## Related Claims
 - [Teachers trained in the RSA activity built the DIY structure in their own schools before the eBook was published](teachers-built-diy-structures-after-course.md) — related
+- [Italian high school students' knowledge of gravity and General Relativity topics rose significantly from pre-test to post-test after a rubber sheet analogy activity, in one uncontrolled pre-post study](rsa-activity-improves-gravity-knowledge.md) — a broader claim this one bears on
+- [The RSA activity produces large gains on General Relativity topics not treated in school: gravitational lensing, gravitational waves and black holes](rsa-improves-gr-topics-lensing-waves-black-holes.md) — a narrower finding that bears on this claim

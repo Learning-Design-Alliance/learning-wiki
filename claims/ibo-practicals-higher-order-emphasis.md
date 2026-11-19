@@ -104,3 +104,4 @@ Null finding from the item coding: no practical or theoretical items explicitly 
 - [IBO theoretical exam items shifted from pure reproduction of conceptual knowledge toward analyzing as the main cognitive process across the competition's history](ibo-theory-items-shift-reproduction-to-analysis.md) — related
 - [The scientific practice Analyzing and Using Data became the most widespread practice in IBO items and approximately tripled among theory items from the 1990s to 2017](ibo-analyzing-data-practice-tripled.md) — related
 - [Collected exam questions required no cognitive processes above apply and no originality in analysis or high-level interdependence](exam-questions-capped-at-apply-and-standardized-analysis.md) — related
+- [Assessments at all levels emphasize epistemic relations over social relations (knowledge code)](physics-assessments-knowledge-code-dominance.md) — related

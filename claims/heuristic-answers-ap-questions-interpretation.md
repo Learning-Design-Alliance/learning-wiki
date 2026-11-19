@@ -50,3 +50,4 @@ The author's interpretation of quiz answer patterns, offered as a possible expla
 - [GR students gave the common incorrect magnitude answer half as often as CC students, who matched surface features of the positive-charge case](cc-surface-feature-incorrect-magnitude-responses.md) — related
 - [Post-lab quiz scores showed no statistically significant difference between Maximally Scaffolded and Reduced Scaffolding groups in an undergraduate electronics lab](no-significant-difference-ms-rs-postlab-quiz.md) — related
 - [Reading the question before the answer options invites confirmation bias, the framing effect, the recency heuristic, and the curse of knowledge; reading answer choices first narrows the frame](answer-options-first-reduces-cognitive-biases.md) — related
+- [Students taking static tests often memorize answer numbers instead of studying the subject matter](static-tests-memorize-answer-numbers.md) — related

@@ -75,6 +75,7 @@ JiTT operationalizes formative assessment: pre-class responses give the instruct
 - [Provide pre-essay in-class activities, practice quizzes and worked examples before essay deadlines to prepare students for conceptual essay questions](pre-essay-activities-and-guidance-strategy.md)
 - [Use clickers in tutorial sessions to activate students before or after exercises](clickers-in-optics-tutorials-strategy.md)
 - [Use QMFPS responses as formative assessment to identify difficulties and guide instructional design](qmfps-formative-assessment-strategy.md)
+- [Use short variable tests as a pre-lecture attentiveness and attendance check](short-pre-lecture-attentiveness-attendance-test.md)
 
 ## Examples
 - **IUPUI introductory physics (Novak et al.)** — the original implementation: web-based warm-ups due at 6 a.m., with the 9:30 a.m. lecture rebuilt around student answers; materials published in *Just-in-Time Teaching: Blending Active Learning with Web Technology* (1999).

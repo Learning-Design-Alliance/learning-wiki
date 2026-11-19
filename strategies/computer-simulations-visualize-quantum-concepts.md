@@ -47,6 +47,7 @@ Faculty recommendations and the reviewed literature support extensive use of int
 - [Avoid classical-physics framing and the Bohr atom model when introducing quantum concepts such as electron orbits](avoid-bohr-model-and-classical-references-in-qp.md)
 - [Equip classrooms with visualization software such as CAS and DGS so students construct their own knowledge of hard concepts](cas-visualization-classrooms-for-hard-concepts.md)
 - [Use visual, computation-based introduction to atoms and molecules to introduce nanotechnology concepts to high-school students](visual-nano-introduction-strategy.md)
+- [Have players compare expected with software-computed outcomes to reflect on and retrace quantum-operation misunderstandings](expected-vs-computed-outcome-reflection.md)
 
 ## Examples
 -

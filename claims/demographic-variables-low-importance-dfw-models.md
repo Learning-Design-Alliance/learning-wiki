@@ -72,3 +72,4 @@ Variable importance analysis (mean decrease in DFW accuracy, precision, and over
 - [A random forest restricted to the variable set available for Sample 3 performed more weakly, with DFW accuracy reduced by 7%, indicating richer institutional data improves classification](restricted-variable-set-reduces-dfw-accuracy-7-percent.md) — related
 - [An optimized random forest classifier for physics grades used a 50% test-train split, no downsampling, and tuned decision thresholds](optimized-rf-classifier-physics-grades.md) — related
 - [Downsampling improved minority-outcome sensitivity but was not adopted by the optimized classifier, and upsampling was ineffective](resampling-effects-physics-grade-classifier.md) — related
+- [Machine learning algorithms optimizing overall accuracy are inherently biased against minority groups when group data amounts vary, even absent historical bias](ml-accuracy-optimization-biased-against-minority-groups.md) — reports the opposite

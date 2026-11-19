@@ -69,3 +69,4 @@ Same interview study, generic quantum uncertainty question. The article reports 
 - [When interpreting data distributions, students draw on more varied uncertainty sources than for generic questions, softening the classical-quantum polarization](data-context-broader-uncertainty-sources.md) — related
 - [Student uncertainty reasoning in the spectrum experiment did not match either the classical or single-slit pattern, drawing on all four source categories](spectrum-experiment-mixed-uncertainty-sources.md) — related
 - [Student thinking about measurement uncertainty may be sensitive to cueing from questions, with more polarized ideas for generic than data-based questions](uncertainty-reasoning-sensitive-to-cueing.md) — related
+- [Most second-year students misinterpret quantum uncertainty as measurement error rather than an intrinsic property](quantum-uncertainty-misread-as-measurement-error.md) — related

@@ -46,6 +46,7 @@ The article recommends planning before recording, ranging from a basic outline o
 ## Related Strategies
 
 - [Validate educational videos with both expert judges and the target audience](validate-videos-with-experts-and-target-audience.md)
+- [Produce microlearning videos via a three-step scripted workflow — scripting, separate audio and video recording, then editing — accepting that scripting one 15-minute video can take up to a day](scripted-microlearning-video-production-workflow.md)
 
 ## Examples
 -

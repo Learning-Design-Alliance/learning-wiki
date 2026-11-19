@@ -50,3 +50,5 @@ Multivariate logistic regression of 3962 physics PhD matriculants across four an
 - [QGRE correlates only weakly with graduate GPA in the author's program, where undergraduate GPA is a better predictor of graduate GPA and correlates with all three GRE sections](qgre-weak-predictor-ugpa-better.md) — related
 - [GRE Verbal is the only GRE subtest to predict graduate GPA after controlling for other admissions variables](gre-verbal-weakly-predicts-graduate-gpa.md) — related
 - [Undergraduate GPA is a stronger predictor of graduate outcomes than GRE scores](undergrad-gpa-stronger-predictor-than-gre.md) — related
+- [Graduate GPA is the admissions-related measure most strongly correlated with PhD completion (rpb = 0.43)](ggpa-strongest-correlate-phd-completion.md) — related
+- [UGPA is the only tested admissions metric that significantly predicts PhD completion, and its effect is entirely indirect through graduate GPA (total effect 6.0% for a 25th-to-75th percentile change)](ugpa-only-significant-predictor-completion-indirect.md) — possibly the same claim (merge candidate)

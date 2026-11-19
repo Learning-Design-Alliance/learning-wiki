@@ -54,3 +54,4 @@ The author's interpretation of the September-to-May program design, contrasted w
 - [Novice and journeyman physics students can get stuck in an epistemological framing that blocks use of knowledge they know well and that would reveal their error](getting-stuck-in-epistemological-frame.md) — related
 - [Productive problem solving can occur in any epistemological frame provided students transition appropriately between frames](productive-solving-any-frame-with-appropriate-transitions.md) — related
 - [SRMP participation enriched students and built coding skills across the first two cohorts](srmp-student-testimonials-enrichment.md) — related
+- [Tan-Q students progress to university study and return as mentors, which the authors cite as evidence of the program's educational success](tan-q-students-return-as-mentors.md) — related

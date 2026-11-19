@@ -50,3 +50,4 @@ Secondary exploratory evidence from earlier QPE, QFT, and Deutsch–Jozsa notebo
 - [Personalized ChatGPT-supported feedback in an augmented-reality quantum physics laboratory improved learning outcomes and directed visual attention](chatgpt-ar-lab-feedback-improves-outcomes.md) — related
 - [In archived sessions, no operator code changes or quantum-logic corrections were needed; eight of nine notebook executions only required one permitted fix of a missing visualization dependency](archived-qiskit-sessions-needed-only-environment-fixes.md) — related
 - [Module 3 code execution success dropped to approximately 60% before a missing-dependency infrastructure fix, recovering to match the 86–87% rates of Modules 1 and 2](itas-module3-success-rate-infrastructure-fix.md) — related
+- [Qiskit-based exercises agree with theoretical predictions and support introducing quantum computing to undergraduates](qiskit-agrees-with-theory-classroom-effectiveness.md) — related

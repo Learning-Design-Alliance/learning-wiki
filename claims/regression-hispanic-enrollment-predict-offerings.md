@@ -71,3 +71,4 @@ Printed coefficients and odds ratios from the same revised regression model: "0.
 - [No Northern California public non-charter high school more than 70% Hispanic offered more than one type of AP physics course](no-multiple-ap-above-70-hispanic.md) — a narrower finding that bears on this claim
 - [Schools with higher %Hispanic and %SED offer less physics access: 73.8% of lower-left-quadrant schools offered at least one AP course versus 39% of upper-right-quadrant schools](quadrant-ap-access-gap.md) — related
 - [%SED similarly predicts physics offerings (p<0.001), while %ELL is not a significant predictor](regression-sed-significant-ell-not.md) — related
+- [School size is effectively uncorrelated with the demographic categories of interest, suggesting offering disparities are not school size artifacts](school-size-uncorrelated-with-demographics-not-artifact.md) — related

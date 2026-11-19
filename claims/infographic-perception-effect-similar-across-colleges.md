@@ -49,3 +49,4 @@ Kruskal-Wallis test on the perception variable comparing the two colleges; the c
 - [The impact of instructional infographics on classroom interaction differs between scientific-college (IT) and humanistic-college (Business) students](infographic-interaction-effect-differs-by-college.md) — related
 - [Regression shows a significant relationship between quiz marks and students' perception in both colleges, though far stronger in the IT College (R-square 0.919) than the Business College (R-square 0.226)](infographic-quiz-marks-predict-perception.md) — related
 - [Students taught with infographic materials scored higher on chapter quizzes than students taught the same chapters conventionally in both colleges](infographic-lectures-higher-quiz-marks.md)
+- [Reordering answer choices has no statistically significant effect on STPFaSL scores (p = 0.994)](stpfasl-distractor-ordering-no-effect.md) — related

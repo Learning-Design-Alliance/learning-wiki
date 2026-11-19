@@ -47,6 +47,7 @@ The article describes a four-step process for pairing art students with scientis
 ## Related Strategies
 
 - [Blend art and science in public exhibits and events to reach unconventional audiences](art-science-blended-outreach-events.md)
+- [Scientific Method of Animation: a five-step intentional process for animation as inquiry in a scientific research setting](scientific-method-of-animation-five-steps.md)
 
 ## Examples
 -

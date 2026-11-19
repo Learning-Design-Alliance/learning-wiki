@@ -20,6 +20,7 @@ The sequential multiple assignment randomized trial is a design in which "partic
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **SMART design as a method for developing adaptive interventions with sequential randomization**: The sequential multiple assignment randomized trial is a design in which "participants are randomly assigned to intervention components at multiple stages of the intervention," with assignments determined by decision rules based on proximal outcomes. Participants meeting a benchmark are deemed responders and continue unchanged; nonresponders receive preassigned modifications. Head-to-head comparisons across the multistage randomization yield "embedded interventions" whose most promising version can proceed to future research. The article uses it to compare two context-personalization approaches and two nonresponder supports. (James S. Kim et al. (2019))
+- **SMART design for education: sequential randomization across stages of interventions**: The article proposes a Sequentially Multiple Assignment Randomized Trial for education, "another type of experimental design that consists of randomization at each stage." Students are first randomized to solving problems, talking to the TA, or talking to a counselor; after about five weeks responders continue and non-responders are re-randomized to augmented treatments or higher-intensity versions, continuing until a mastery level is achieved or the study ends. (Manie Tadayon (2021))
 
 ### Claims
 - [K–2 children receiving conceptually coherent texts performed similarly to children receiving leveled texts on standardized reading comprehension outcomes](../claims/cct-versus-lt-similar-reading-comprehension.md) [+M]
@@ -30,3 +31,4 @@ The sequential multiple assignment randomized trial is a design in which "partic
 
 ## Key Sources
 - James S. Kim, Catherine A. Asher, Mary Burkhauser, Laura Mesite, & Diana Leyva. (2019). Using a Sequential Multiple Assignment Randomized Trial (SMART) to Develop an Adaptive K–2 Literacy Intervention With Personalized Print Texts and App-Based Digital Activities. AERA Open. https://doi.org/10.1177/2332858419872701
+- Manie Tadayon, Greg Pottie. (2021). Causal Inference in Educational Systems: A Graphical Modeling Approach. arXiv. https://arxiv.org/abs/2108.00654

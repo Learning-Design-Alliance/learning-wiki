@@ -53,4 +53,4 @@ The authors' implementation strategy for adopting student-created video assessme
 -
 
 ## Key Sources
-- Graul, B., Rollins, M. L., Powers, N., & Della Corte, D. (2020). Student created video content for assessment, experiential learning, and service. https://www.youtube.com/watch?v=jODOMgydj2I&list=PL6oBCjihmcBmAsb_4rkKz5FKEUSJD4M4I&index=268&t=0s
+- Graul, B., Rollins, M. L., Powers, N., & Della Corte, D. (2020). Student created video content for assessment, experiential learning, and service. https://www.youtube.com/watch?v=jODOMgydj2I&list=PL6oBCjihmcBmAsb_4rkKz5FKEUSJD4M4I&index=268&t=0s. [doi:10.48550/arxiv.2010.14632](https://doi.org/10.48550/arxiv.2010.14632)

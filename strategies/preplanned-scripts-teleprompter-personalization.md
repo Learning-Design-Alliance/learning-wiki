@@ -43,6 +43,7 @@ A production strategy for implementing the personalization, signaling, and embod
 ## Related Strategies
 
 - [Audio Commentary](audio_commentary.md)
+- [Produce microlearning videos via a three-step scripted workflow — scripting, separate audio and video recording, then editing — accepting that scripting one 15-minute video can take up to a day](scripted-microlearning-video-production-workflow.md)
 
 ## Examples
 -

@@ -53,4 +53,4 @@ After teaching Kepler's 2nd law through the historical development culminating i
 -
 
 ## Key Sources
-- Lyra, W. (2020). A Historical Method Approach to Teaching Kepler's 2nd law. New Mexico State University. https://www.google.com/search?q=%22A+Historical+Method+Approach+to+Teaching+Kepler%27s+2nd+law%22+Lyra
+- Lyra, W. (2020). A Historical Method Approach to Teaching Kepler's 2nd law. New Mexico State University. https://www.google.com/search?q=%22A+Historical+Method+Approach+to+Teaching+Kepler%27s+2nd+law%22+Lyra. [doi:10.35542/osf.io/a5bqn](https://doi.org/10.35542/osf.io/a5bqn)

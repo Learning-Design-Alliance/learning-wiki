@@ -55,6 +55,7 @@ The authors recommend that decisions between asynchronous and synchronous delive
 - [Space blended course sessions over time and deepen asynchronous platform use to increase time on task and flexibility](space-sessions-and-asynchronous-activities-strategy.md)
 - [Fully web-enhanced lab delivery through an LMS with recorded sessions in synchronous and asynchronous modes](lms-recorded-synchronous-asynchronous-lab-delivery.md)
 - [Redesign in-person peer tutoring for lockdown conditions by combining synchronous tutor-led sessions with asynchronous questionnaires, exercises and recordings](online-peer-tutoring-redesign-strategy.md)
+- [Run neutron-star spreadsheet activities flexibly online or in demonstrator-led sessions with supporting multimedia](flexible-online-or-led-neutron-star-activities.md)
 
 ## Examples
 -

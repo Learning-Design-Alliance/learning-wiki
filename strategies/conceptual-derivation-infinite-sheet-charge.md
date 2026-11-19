@@ -47,6 +47,7 @@ Rather than offering only dimensional analysis, the author describes showing how
 - [Vary canonical SoV problems and have students derive the need for the infinite sum to discourage pattern matching](sov-problem-variations-discourage-pattern-matching.md)
 - [Have students build and explore their own multi-dimensional wire configurations (solenoids, Helmholtz coils, toroidal systems) with the superposition routine before lengthy theoretical derivations](student-built-3d-magnetic-field-models-strategy.md)
 - [Use tutorials that teach discerning charge-distribution symmetry, judging when Gauss' law is easily applicable, and distinguishing field from flux, with separate pre/post-tests](symmetry-gauss-law-tutorials-strategy.md)
+- [Compare the field of a finite line of charge analytically or numerically with the fields of an infinite line and a point charge to develop intuition about idealizations](compare-finite-line-field-with-ideal-limits.md)
 
 ## Examples
 -

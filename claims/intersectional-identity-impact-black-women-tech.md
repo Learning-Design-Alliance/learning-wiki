@@ -64,3 +64,4 @@ Qualitative thematic analysis of participant responses on identity. Participants
 - [Shallow multiculturalism undermines Latinx students' belonging by reinforcing intersectional invisibility](shallow-multiculturalism-undermines-latinx-belonging.md) — related
 - [Many commercial recorded simulations feature young, pale, well‐built actors, limiting diverse representation](commercial-simulations-lack-diverse-representation.md) — related
 - [Candidates unintentionally overlooked average and invisible middle students](invisible-middle-students-overlooked.md) — related
+- [A reported 93% of NAC students indicated they struggle with imposter syndrome, which the authors argue is rarely discussed openly](nac-students-imposter-syndrome-prevalence.md) — related

@@ -53,3 +53,4 @@ Paired t-test on the 168 students who completed pre-test, post-test, and all 11 
 - [Students learned chemistry content from the game-based learning session, with significant pretest-to-posttest gains](learning-occurred-cosmiclean-session.md) — possibly the same claim (merge candidate)
 - [Pre-to-post gains in cooperative science learning occur for listing cell organelles (d = 0.70) but not for describing their functions](structure-gains-not-function-gains.md) — related
 - [Group circuit diagrams triangulated the individual gains: three pairs moved from incorrect to correct designs, seven pairs were correct at both tests, and one pair produced a flawed post-test circuit](group-circuit-diagrams-triangulate-gains.md) — related
+- [Paired-samples t-test shows a statistically highly significant learning gain from pretest to posttest, with an effect size of 1.24](sattaa-content-knowledge-gain.md) — related

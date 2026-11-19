@@ -58,3 +58,4 @@ Descriptive post-test survey of 170 computing students at two U.S. institutions 
 - [Over 98% of students in the video feedback group were satisfied with the smartphone-based video feedback teaching method](high-student-satisfaction-smartphone-video-feedback.md) — related
 - [Students strongly accept instructional videos as supplementary learning material and desire more of them](high-acceptance-instructional-videos-medical-students.md) — related
 - [Students perceived the mathcast videos as more understandable and helpful as the semester progressed](mathcast-perceived-helpfulness-increased.md) — related
+- [Students rated the microlearning videos, Moodle exercise format, and online availability of material positively, with all mean ratings above 3.8 on a 1-to-5 scale and online material availability highest at 4.47](student-feedback-positive-online-physics-materials.md) — related

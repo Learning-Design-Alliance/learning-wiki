@@ -45,7 +45,8 @@ The paper's implications-for-practice section recommends "risk-stratified deploy
 - [Correct-answer-trap cases concentrate in specific question types where common flawed reasoning happens to produce the correct numerical answer, with the top two question types accounting for 71% of all TM cases](../claims/cat-failures-concentrate-in-two-question-types.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Ask students to justify each FCI answer in writing when deploying conceptual tests online](fci-written-justifications-strategy.md)
 
 ## Examples
 -

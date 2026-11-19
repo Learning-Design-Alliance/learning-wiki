@@ -67,3 +67,4 @@ The omnibus mixed ANOVA on recognition A-primes (Figure 4) revealed the interact
 - [Adults show greater visual search accuracy than young children](adults-greater-visual-search-accuracy.md) — related
 - [In a change detection task, adults outperform 4-to-5-year-olds on cued shapes while children outperform adults on uncued shapes](developmental-reversal-change-detection-cued-uncued.md) — related
 - [Distraction during maintenance impairs working memory, with distractor processing inversely related to recognition accuracy](distraction-during-maintenance-impairs-wm.md) — related
+- [Students focused mainly on the relevant visualization features of the Composer flowscene](composer-students-focus-relevant-features.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-11-19
 sources:
   - id: benjamin-pollard-2020
     resource: "https://doi.org/10.1103/physrevphyseducres.16.020160"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` At the student-paradigm level, both semesters showed significant pre-to-post differences in mixed and set-like responses, with students shifting predominantly from mixed to set-like. [→ Benjamin Pollard 2020](#benjamin-pollard-2020)

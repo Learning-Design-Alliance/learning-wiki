@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 704 claims (490 for, 186 mixed, 28 against) · 450 studies (202 causal, 89 design, 80 review, 38 quant-synthesis, 20 associational, 18 qualitative, 3 theoretical), `q1`–`q4` · 60 of 450 report an effect size · 693 claims rest on one study
+> **Evidence** · 705 claims (490 for, 187 mixed, 28 against) · 451 studies (202 causal, 90 design, 80 review, 38 quant-synthesis, 20 associational, 18 qualitative, 3 theoretical), `q1`–`q4` · 60 of 451 report an effect size · 694 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -763,6 +763,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [A visual-only simulation without haptic feedback produced a 10% quiz-score increase over the reading-and-video group](../claims/visual-only-simulation-10-percent-quiz-gain.md) [+W] — attached 2026-11-18 from Felix G. Hamza-Lup (2012), which proposed "Visuo-haptic Coriolis effect simulation (ball and glider demos)"; tests this page's relationship.
 - [Davisson-Germer simulation study with over 50 UTEP students showed improved post-exam performance on basic knowledge of the experiment](../claims/davisson-germer-simulation-pre-post-improvement.md) [+W] — attached 2026-11-18 from J. A. López et al. (2018), which proposed "Set of computer simulations of fundamental modern physics experiments with introductions, activity guides, and assessment instruments"; tests this page's relationship.
 - [Pre- to post-exam gains of 30% to 50% were obtained across the simulations tested at UTEP and UWO](../claims/simulation-pre-post-gains-30-50-percent.md) [+W] — attached 2026-11-18 from J. A. López et al. (2018), which proposed "Set of computer simulations of fundamental modern physics experiments with introductions, activity guides, and assessment instruments"; tests this page's relationship.
+- [The gamified 2D-random-walk dice experiment was rated easy by more than half of elementary participants, but goal-setting caused data loss at large trial numbers](../claims/dice-random-walk-experiment-easy-but-goal-causes-data-loss.md) [~M] — attached 2026-11-19 from Makito Miyazaki et al. (2022), which proposed "Dice game sheet for simulating 2D random walk".
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

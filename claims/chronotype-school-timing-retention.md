@@ -74,3 +74,4 @@ Odds ratios from the retention model for two students with math grades of 5.15 d
 - [Adolescents with an evening chronotype report significantly lower GPA than those with a morning chronotype](evening-chronotype-lower-gpa-than-morning.md) — related
 - [Course grades are marginally higher for afternoon-only courses than morning-only courses, a difference the authors consider probably not meaningful](afternoon-course-grades-marginally-higher.md) — related
 - [All chronotypes exhibit significant academic improvement in later classes, with evening class grades at least 0.27 points higher than morning class grades](grades-improve-later-class-times.md) — related
+- [Unsupervised clustering of CS1 keystroke data yields four chronotypes matching those reported for general populations](cs1-keystroke-clustering-four-chronotypes.md) — related

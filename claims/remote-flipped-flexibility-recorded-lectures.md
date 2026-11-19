@@ -56,3 +56,4 @@ Focus group study of 20 Bachelor of Pharmacy students in 8 groups over 2 rounds;
 - [A 2012 video-based flipped classroom in which students watched recorded lectures left students feeling unsupported and produced lower satisfaction despite better marks than 2010](video-flipped-classroom-unsupported-students.md) — related
 - [Students perceived peer instruction and group discussion as motivating and helpful in the flipped statistics class](flipped-peer-instruction-group-discussion-perceived-positive.md) — related
 - [More than 75% of remote-learning students wanted continued access to recorded lectures, review sessions, and online course materials after classes return to face-to-face format](students-want-recorded-lectures-kept.md) — related
+- [Mentees appreciated the remote REU format for flexibility and developing as independent learners](remote-format-independence-benefits.md) — related

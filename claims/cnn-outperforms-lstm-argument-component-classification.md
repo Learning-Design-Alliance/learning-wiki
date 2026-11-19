@@ -48,3 +48,4 @@ Comparison of CNN and LSTM models across character/word-level and single/multi-t
 ## Related Claims
 - [Multi-task learning with specificity prediction as a secondary task almost always improves argument component classification, and yields the only model with warrant f-score above 0.3](multi-task-specificity-improves-argument-classification.md) — related
 - [Almost all neural network models benefit from adding handcrafted wLDA and online dialogue features](handcrafted-features-improve-neural-argument-classifiers.md) — related
+- [Attention-based neural classifiers outperformed vanilla neural models on Bloom's taxonomy question classification](attention-models-beat-vanilla-neural-baselines.md) — related

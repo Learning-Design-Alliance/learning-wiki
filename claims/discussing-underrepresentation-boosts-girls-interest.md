@@ -57,3 +57,4 @@ The review reports follow-up work by Hazari's group surveying only high-school g
 - [Girls dissociate their gender from cleverness by age 6, and by age 10-11 STEM loses the interest of girls who already believe a science career is not for them](girls-dissociate-cleverness-age-six.md) — related
 - [Students oriented toward STEM careers show more positive science attitudes, with non-STEM-intending students least positively impacted and astronomy/physics-career students most](astro-attitude-correlates-stem-career-orientation.md) — related
 - [Intentional recruitment produced a diverse invited-speaker slate: twelve of twenty-five speakers over eight years were women](intentional-speaker-recruitment-diversity-ncnaapt.md) — related
+- [A voluntary questionnaire showed a tendency of up to 70% of girls toward care-type professions](girls-questionnaire-care-type-professions-tendency.md) — related

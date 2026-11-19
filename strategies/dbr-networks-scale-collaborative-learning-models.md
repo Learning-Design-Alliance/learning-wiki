@@ -49,6 +49,7 @@ The editorial argues that isolated CSCL advances must be consolidated into large
 - [Use consensus processes, editorial strategies, and institutional policies to make theory integration impactful](consensus-processes-editorial-institutional-support-integration.md)
 - [Synthesize cross-disciplinary evidence on education to guide policy-making beyond the 2030 education agenda](cross-disciplinary-evidence-synthesis-for-education-policy.md)
 - [Journals should actively solicit replication studies, meta-analyses, and large-scale impact reports](journal-call-for-replications-and-impact-reports.md)
+- [Package labs in an auto-graded online manual with a cost-return sustainability model to support scaling and long-term operations](auto-graded-online-manual-sustainability-model.md)
 
 ## Examples
 -

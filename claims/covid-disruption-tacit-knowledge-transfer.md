@@ -51,3 +51,4 @@ Discussion of findings from focus group discussions (n = 25) in the ACoRD projec
 - [State apprenticeship administrators leveraged technology to pivot work online, streamline processes, and expand reach and responsiveness during the pandemic](technology-pivot-expanded-apprenticeship-agency-reach.md) — related
 - [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](rpp-adaptive-practices-sustain-partnerships-during-disruption.md) — a broader claim this one bears on
 - [Attending to affect in co-design supports community formation and cross-scale transfer](attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer.md) — related
+- [Sustained partnerships with PolarTREC educators allow IceCube to produce outreach materials reaching varied audiences, including during the pandemic](icercube-polartrec-partnership-outreach-outputs.md) — related

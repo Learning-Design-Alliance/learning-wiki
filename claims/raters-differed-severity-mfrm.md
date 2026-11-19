@@ -79,3 +79,4 @@ MFRM analysis (FACETS) of the crossed-design rating data; Table 2 reports a rate
 - [D-studies indicate three raters suffice in a crossed design, while a nested design reaches Phi 0.83 with two raters and ten items](d-study-raters-items-phi-acls.md) — related
 - [In the G-study, the student (person) facet accounts for 20.33% of total score variance in the ACLS rubric](g-study-student-variance-20-percent.md) — related
 - [The provisional instrument achieved a person separation reliability of 0.95, discriminating at least four levels of educator feedback proficiency](fqi-person-separation-reliability-095.md) — related
+- [Human annotators converge on a similarity threshold above 7 of 10 before offering transfer credit](annotators-require-similarity-above-7-for-credit.md) — related

@@ -56,3 +56,4 @@ Moderator analysis of pictorial components: without images (g = 0.45) or animati
 - [The animation advantage is largest when instruction includes no accompanying text](animation-advantage-largest-without-accompanying-text.md) — related
 - [Redundant speech-gesture cooperation improves recall and social perception more than complementarity](speech-gesture-redundancy-better.md) — related
 - [Redundancy effect: when one source of information is intelligible in isolation, physically integrating it with another source fails to help and eliminating the redundant source facilitates learning](redundancy-effect-elimination-of-redundant-text.md) — related
+- [NEA-funded evaluation finds presenting astronomy via animation highly attractive to audiences, but specific science learning benefits from an additional scientific presentation alongside the screening](astro-animation-screening-attractive-science-learning-needs-support.md) — related

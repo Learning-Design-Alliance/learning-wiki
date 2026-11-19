@@ -47,3 +47,4 @@ Exponential fit to the first 20 attempts of the 99-tries semester (Fig. 4). The 
 ## Related Claims
 - [In an introductory calculus-based physics course, the percentage of correctly solved online homework problems is highest in the semester with the lowest number of allowed tries (10) and lowest with essentially unlimited tries (99)](more-allowed-tries-lower-homework-completion.md) — a broader claim this one bears on
 - [The per-attempt solving decay constant decreases with increasing maximum allowed tries, while the giving-up decay constant shows no clear dependency](solving-decay-constant-decreases-with-allowed-tries.md) — related
+- [Automatically graded online exercises with unlimited attempts were frequently used by students, saving instructor grading time](automatic-grading-unlimited-exercise-attempts.md) — related

@@ -57,3 +57,4 @@ Theme 1 (expression of excitement) in the results: participants without prior VR
 - [A non-negligible proportion of students experienced technical difficulties with online access to the virtual reality platform](technical-difficulties-online-vr-access.md) — related
 - [Students found anatomy teaching by ultrasound innovative, exciting and engaging, and autonomous exercise improved self-criticism](student-engagement-ultrasound-anatomy.md) — related
 - [Users predominantly accepted the VI positively, with 79% reporting enhanced knowledge and themes of entertaining, engaging, and fun, though some reported technical loading issues](vi-user-acceptance-positive-with-technical-issues.md) — related
+- [Students most frequently describe PRiSE experiences as interesting, challenging, exciting, inspiring and fun](prise-experience-adjectives.md) — related

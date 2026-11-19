@@ -75,3 +75,4 @@ Regression analyses testing group differences on the psychological variables. UR
 - [Gateway students have higher attrition and are more likely to repeat a year than SEMED students](gateway-higher-attrition-repeat-year.md) — related
 - [Biology majors and minors enrolled in postcollege degree programs at higher rates than college alumni overall, with no URM or program differences](postgrad-enrollment-bio-majors-higher-no-urm-difference.md) — related
 - [URM students who persisted as biology majors still had significantly lower subsequent biology and NSE GPAs than non-URM peers](urm-subsequent-gpa-still-lower.md) — related
+- [In FA20, URM students had significantly lower quiz, exam, and overall course scores than non-URM students, and transfer students had lower quiz scores; similar URM and transfer differences were also observed in the F2F FA19 semester.](urm-transfer-lower-summative-scores-both-modes.md) — related

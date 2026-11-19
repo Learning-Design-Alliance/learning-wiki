@@ -67,3 +67,4 @@ The same log-data study found raw frequency of on-demand help use correlated neg
 - [Time spent with bottom-out hints correlates positively with learning, consistent with spontaneous self-explanation](bottom-out-hint-time-positive-learning-relation.md) — reports the opposite
 - [Feedback on help seeking produced a lasting improvement in how deliberately students used on-demand help, even after feedback was removed](help-tutor-feedback-lasting-help-seeking-improvement.md) — related
 - [On-demand ITS features (worked-out examples, on-demand hints) show significant effects, suggesting student choice enhances learning](its-on-demand-features-significant-effects.md) — reports the opposite
+- [AI-tutor pedagogical interventions (hints) correlate negatively with learning gains, more strongly for participants with higher pre-quiz scores](hints-negatively-correlate-gains-moderated-by-prior-knowledge.md) — related

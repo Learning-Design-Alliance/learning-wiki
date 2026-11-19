@@ -54,3 +54,4 @@ Out-of-sample evaluation of discrete-time hazard models on registrar data, with 
 - [Enrollment factors predict time-to-graduation about twice as strongly as preparation factors](enrollment-factors-outweigh-preparation-graduation-timing.md) — related
 - [CatBoost achieved the best classification performance among tested algorithms for predicting course completion risk (F-measure .77, accuracy 78%, AUC .87)](catboost-best-performing-risk-classifier.md) — related
 - [Decision trees achieve competitive accuracy with black-box models (LR, RF, SVM), which performed slightly better but lack interpretability](dt-competitive-with-black-box-classifiers.md) — related
+- [Statistical model choice affects both predictability and understanding of educational systems when sub-population data are unequal, per prior gradient-boosted time-to-graduation work](model-choice-subpopulation-understanding.md) — possibly the same claim (merge candidate)

@@ -94,6 +94,7 @@ Debriefing operationalizes the reflection stage of experiential learning: experi
 - [Include video debriefing and reflective writing in the description and analysis stages of simulation debriefing](video-debriefing-reflective-writing-in-protocol.md)
 - [Run the feedback session with teacher-led recommendations: clear introduction, explain the feedback dilemma, encourage open discussion, avoid the word 'feedback' for student roles, and end with a debrief](holistic-feedback-session-recommendations.md)
 - [Run video-feedback sessions in which a supervisor guides analysis of the player's own successful and unsuccessful decisions through open questioning](video-feedback-questioning-session-structure-strategy.md)
+- [Collect pre- and post-surveys plus educator post-mortem sessions to evaluate and improve each training event](pre-post-surveys-and-educator-post-mortem-strategy.md)
 
 ## Examples
 - **Simulation-based healthcare education** — Post-scenario debriefing is considered the pedagogical heart of simulation; programs following Fanning & Gaba's framework treat the scenario as merely the stimulus for the debrief.

@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: weak
-newest_evidence: 2013
+newest_evidence: 2014
 sources:
-  - id: vashti-sawtelle-chandra-turpen-2013
+  - id: vashti-sawtelle-chandra-turpen-2014
     resource: "https://doi.org/10.48550/arXiv.1409.5471"
-    title: "Vashti Sawtelle & Chandra Turpen. (2013). Leveraging a Relationship with Biology to Expand a Relationship with Physics. [doi:10.48550/arXiv.1409.5471](https://doi.org/10.48550/arXiv.1409.5471)"
+    title: "Vashti Sawtelle & Chandra Turpen. (2014). Leveraging a Relationship with Biology to Expand a Relationship with Physics. Originally published 2013. [doi:10.48550/arXiv.1409.5471](https://doi.org/10.48550/arXiv.1409.5471)"
     author: "Vashti Sawtelle & Chandra Turpen"
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` In Interview 3, Violet described pursuing the physical meaning of the Gibbs free energy equation and connecting it to enzyme function in biology, while still reporting frustration with symbols having many meanings. [→ Vashti Sawtelle & Chandra Turpen 2013](#vashti-sawtelle-chandra-turpen-2013)
+`q2 i?` In Interview 3, Violet described pursuing the physical meaning of the Gibbs free energy equation and connecting it to enzyme function in biology, while still reporting frustration with symbols having many meanings. [→ Vashti Sawtelle & Chandra Turpen 2014](#vashti-sawtelle-chandra-turpen-2014)
 
 ## Evidence
 
-### Vashti Sawtelle & Chandra Turpen 2013
+### Vashti Sawtelle & Chandra Turpen 2014
 
-Vashti Sawtelle & Chandra Turpen. (2013). Leveraging a Relationship with Biology to Expand a Relationship with Physics. [doi:10.48550/arXiv.1409.5471](https://doi.org/10.48550/arXiv.1409.5471)
+Vashti Sawtelle & Chandra Turpen. (2014). Leveraging a Relationship with Biology to Expand a Relationship with Physics. Originally published 2013. [doi:10.48550/arXiv.1409.5471](https://doi.org/10.48550/arXiv.1409.5471)
 
 `q2 · i?` · `qualitative · r3`
 
@@ -49,3 +49,4 @@ Interview data (Clip 7, two-thirds through the year) in which Violet recounts ma
 - [In NEXUS/Physics test classes, biology students bring sophisticated reasoning from other courses and reconcile previously unnoticed inconsistencies in their knowledge.](nexus-physics-students-reconcile-inconsistencies.md) — a broader claim this one bears on
 - [A biology major's relationship with physics shifted over a year-long interdisciplinary physics course, from hatred and avoidance toward identification, mixed affect, and more expert-like ways of knowing](violet-expanding-relationship-with-physics.md) — related
 - [Students' epistemologies about math-physics-biology connections can shift through biologically authentic instruction, though many introductory biology students initially see no connection](student-epistemology-shifts-interdisciplinary-biology.md) — related
+- [Leveraging students' outside disciplinary expertise can productively change their affective stance toward physics (Violet case study)](leveraging-outside-expertise-changes-affect-violet.md) — a broader claim this one bears on

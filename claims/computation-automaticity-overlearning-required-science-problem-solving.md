@@ -97,3 +97,4 @@ The article reports, citing Wagner, Sasser, and DiBiase (2002), that “the most
 - [Different domain-general factors uniquely account for variation in different arithmetic skills](domain-general-factors-skill-specific.md) — related
 - [Domain-general factors account for more variance in written arithmetic and word problems than in basic calculation fluency](domain-general-variance-varies-by-skill.md) — related
 - [Numerical cognition assessed at end of first grade statistically mediates associations between early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior and later calculations, word-problem solving, and reading](numerical-cognition-mediation-academic-outcomes.md) — related
+- [Students cannot reliably solve complex well-structured problems by reasoning without applying memorized algorithms](algorithms-required-complex-problems.md) — related

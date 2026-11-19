@@ -76,3 +76,4 @@ Qualitative case studies of 28 STEM courses at nine institutions; interviews and
 - [Some students remained passive in pandemic e-learning, giving up and taking no effective action to support their learning](passive-surrender-elearning-challenges.md) — reports the opposite
 - [Focus groups identified interaction, small class size, active in-class activities, and pre-class online engagement as factors in positive learning experiences, with students unsure the model would work in larger classes](flipped-focus-group-positive-experience-factors.md) — related
 - [Students' reported motivation to work on course assignments declined strikingly after the shift to remote learning](remote-learning-motivation-decline.md) — related
+- [Engineering students reported high rates of focus, engagement, motivation and private-space challenges during Spring 2020 online instruction](student-online-learning-challenges-prevalence.md) — related

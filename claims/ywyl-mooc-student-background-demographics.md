@@ -47,3 +47,4 @@ Self-report demographic survey of YWYL registrants during the course's first wee
 ## Related Claims
 - [The openness of a free MOOC does not guarantee equitable access: YWYL enrollment skewed toward developed countries because unrestricted high-speed internet is a necessity](mooc-openness-does-not-guarantee-equitable-access.md) — related
 - [The UDMOOC reaches a learner demographic unlike typical MOOC cohorts, with a 42% completion rate](udmooc-reaches-underserved-demographics-42-percent-completion.md) — related
+- [Open access does not equalize benefit: MOOCs are disproportionately used by high-SES students, but social-belonging and value-affirmation interventions increased persistence and completion for students from less developed countries](mooc-ses-gap-belonging-intervention.md) — related

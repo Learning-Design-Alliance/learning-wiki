@@ -48,6 +48,7 @@ The article’s conclusion proposes four practical recommendations for implement
 ## Related Strategies
 
 - [Implement Photovoice with team-based learning as a two-stage activity: individual photo documentation with SHOWeD reflection, then group discussion and class presentation](photovoice-tbl-two-stage-activity-strategy.md)
+- [Sequence the activity from student-captured first-quarter Moon photographs through proportionality, geodesics, and spherical triangles, challenging teams of learners over one or two 60-minute classes per topic](moon-photo-curved-geometry-activity-sequence.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Descriptive comparison of mean exam scores across semesters against the historic
 
 ## Related Claims
 - [Examination results in the digital-teaching semester were significantly worse than in prior face-to-face semesters, though the authors attribute part of the difference to normal fluctuation and pandemic conditions](e-visite-semester-exam-results-worse.md) — reports the opposite
+- [Remote online exam grade distributions did not deviate significantly from preceding traditional on-site exams, showing neither excessive best grades indicative of cheating nor excess failures](online-exam-distribution-comparable-to-traditional.md) — related

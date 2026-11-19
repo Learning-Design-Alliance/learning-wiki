@@ -49,3 +49,4 @@ Ordinal logistic regression analysis among 249 newly graduated nurses. Willingne
 - [No predictors reached conventional statistical significance for academic referral status in the multivariable logistic regression](no-significant-predictors-referral-status-ghana-nursing.md) — related
 - [Age, gender, class level and voluntary programme choice do not significantly predict job search anxiety in the adjusted model](demographics-null-predictors-job-search-anxiety.md) — related
 - [Demographic covariates (gender, age, birthplace, student cadre status, voluntary career choice) show no significant association with theoretical, practical, SRSSDL or CTDI-CV outcomes](demographics-not-associated-with-ltc-training-outcomes.md) — related
+- [A voluntary questionnaire showed a tendency of up to 70% of girls toward care-type professions](girls-questionnaire-care-type-professions-tendency.md) — related

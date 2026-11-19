@@ -46,6 +46,7 @@ This strategy delivers a hands-on psychomotor workshop fully remotely. During th
 - [Structure simulation training in four sequential phases: video instruction, expert demonstration, supervised practice, and formative feedback](four-phase-ldsrs-simulation-training-protocol.md)
 - [Use multiple camera angles, key points, enlargements, and replays to depict essential examination aspects](multi-angle-keypoints-video-production-strategy.md)
 - [Visual-axis interactive instructional guidance via wireless AR/MR video-conferencing with educator-inserted 3D visual cues](visual-axis-interactive-instructional-guidance-strategy.md)
+- [Deliver hands-on teacher PD remotely by mailing equipment kits and streaming demonstrations synchronously](mail-home-kits-synchronous-zoom-pd.md)
 
 ## Examples
 -

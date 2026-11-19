@@ -50,3 +50,4 @@ The field note's synthesis of evaluation methods characterizes standardized benc
 - [Existing KT methods fail to beat a majority-class baseline on the small CoMTA dialogue dataset but perform significantly better on the larger MathDial dataset.](existing-kt-methods-fail-on-small-comta-but-improve-with-more-data-on-mathdial.md) — related
 - [DKT-Sem, a DKT variant using semantic text embeddings, performs better than existing KT methods on tutoring dialogues, with a smaller margin on the larger MathDial dataset.](dkt-sem-outperforms-existing-kt-methods-most-with-little-training-data.md) — related
 - [MUSE tasks form coherent but non-redundant capability groups, with Jigsaw Puzzle a distinct compositional capability](muse-tasks-non-redundant-capability-groups.md) — related
+- [Learning outcomes are more complex sentences than those in existing STS and SICK benchmark datasets](learning-outcomes-more-complex-than-sts-benchmarks.md) — related

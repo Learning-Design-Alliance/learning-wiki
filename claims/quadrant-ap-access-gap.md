@@ -70,3 +70,8 @@ The same quadrant analysis reports the full distribution of physics access level
 - [Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates](cps-senior-year-coursework-racial-gaps.md) — related
 - [%SED similarly predicts physics offerings (p<0.001), while %ELL is not a significant predictor](regression-sed-significant-ell-not.md) — related
 - [Number of students and %Hispanic are statistically significant predictors of physics offerings (p<0.001), with a non-significant interaction term](regression-hispanic-enrollment-predict-offerings.md) — related
+- [Course-offering parity between demographic cohorts declines with the popularity of the AP STEM exam, from near parity for Calculus AB to 50% and below for second-year AP courses](ap-stem-parity-declines-with-exam-popularity.md) — related
+- [Roughly one-in-two Cohort 1 schools versus about one-in-eight Cohort 2 schools offer Calculus BC, AP Biology, AP Chemistry, and at least one AP Physics](full-ap-stem-combination-one-in-two-versus-one-in-eight.md) — related
+- [The percentage of Hispanic students and the percentage of SED students at Northern California public high schools are highly correlated (r2 = 0.60)](hispanic-sed-percentage-correlation-norcal.md) — related
+- [School size is effectively uncorrelated with the demographic categories of interest, suggesting offering disparities are not school size artifacts](school-size-uncorrelated-with-demographics-not-artifact.md) — related
+- [Second-year AP physics courses show wide parity gaps of 30% and lower between cohorts; total physics parity drops to 52%](second-year-ap-physics-parity-gaps-30-percent-lower.md) — related

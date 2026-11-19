@@ -47,3 +47,4 @@ Decay constants extracted from the exponential fits of Fig. 2 and plotted agains
 ## Related Claims
 - [In the unlimited-tries (99) scenario, unlimited attempts do not reduce the rate of giving up but hurt the per-attempt success rate](unlimited-tries-hurt-success-rate-not-giving-up.md) — related
 - [In an introductory calculus-based physics course, the percentage of correctly solved online homework problems is highest in the semester with the lowest number of allowed tries (10) and lowest with essentially unlimited tries (99)](more-allowed-tries-lower-homework-completion.md) — related
+- [Automatically graded online exercises with unlimited attempts were frequently used by students, saving instructor grading time](automatic-grading-unlimited-exercise-attempts.md) — related

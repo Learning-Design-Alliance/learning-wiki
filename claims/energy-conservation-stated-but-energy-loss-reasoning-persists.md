@@ -70,3 +70,4 @@ Observations and interviews in the transformed courses showed students who had a
 - [Students struggle to relate potential energy graphs to physical systems even with physical context, but explicit model-building instruction produces correct explanations by course end](potential-energy-graph-understanding-instruction.md) — related
 - [Energy conservation plus the identity a = (1/2)d(v²)/dx yields the falling rope's velocity and acceleration in a form suitable for beginning students](rope-energy-method-beginning-students.md) — related
 - [Upper-level quantum mechanics students incorrectly claim a particle loses energy when it tunnels through a rectangular potential barrier, transferring classical reasoning](qm-tunneling-classical-energy-loss-difficulty.md) — related
+- [Most introductory students report first- and second-law-like ideas before college instruction, but few connect heat to energy conservation](stpfasl-prior-knowledge-first-second-law.md) — related

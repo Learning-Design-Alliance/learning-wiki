@@ -50,3 +50,4 @@ The authors' interpretation of segment III, where Sophia proposes running a rand
 - [The sensemaking idea that drew most heavily on computational knowledge proved the most fruitful](computational-knowledge-most-fruitful-sensemaking.md) — possibly the same claim (merge candidate)
 - [Teachers' tendency to seek coherence between their intuitions and known correct answers was a key epistemological resource enabling their progress](coherence-seeking-epistemological-resource.md) — related
 - [Even unresolved sensemaking is valuable because students emerge with greater understanding of themselves and their intuitions](unresolved-sensemaking-still-valuable.md) — related
+- [In-class video of high school student interactions serves as existence proofs of the framework's computational thinking practices](video-existence-proofs-ct-practices.md) — related

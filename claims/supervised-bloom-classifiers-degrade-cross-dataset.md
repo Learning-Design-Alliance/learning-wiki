@@ -89,3 +89,4 @@ Same cross-dataset evaluation protocol (RQ1); the fine-tuned BERT reference mode
 - [SAG model prediction performance varies widely across corpora even with the same architecture, so benchmark results cannot predict performance on new data sets](sag-performance-varies-across-corpora.md) — a narrower finding that bears on this claim
 - [Few-shot LLM approaches outperform standalone supervised ML approaches, yet hand-crafted rules remain relevant](few-shot-llm-outperforms-ml-hcr-relevant.md) — related
 - [Classification accuracy declines near the median score threshold due to overlap between low‐ and high‐skill feature distributions](accuracy-declines-near-median-threshold.md) — related
+- [All pretrained transformer models showed a significant performance drop of about 20% between IID and OOD data, and OOD performance correlated linearly with IID performance](pretrained-transformers-twenty-percent-ood-drop.md) — a narrower finding that bears on this claim

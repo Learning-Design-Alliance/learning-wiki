@@ -45,6 +45,7 @@ Based on participants' experiences, the authors propose concrete improvements fo
 ## Related Strategies
 
 - [Incorporate case-based learning and interactive components into asynchronous virtual care CPD modules](strategy-case-based-learning-virtual-care-cpd.md)
+- [Inclusive virtual course delivery: record everything, subtitle videos, schedule around participants' calendars, monitor participation, and diversify speakers](inclusive-virtual-astronomy-course-delivery-strategy.md)
 
 ## Examples
 -

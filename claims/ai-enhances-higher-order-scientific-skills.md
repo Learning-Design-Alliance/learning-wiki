@@ -63,3 +63,4 @@ Thematic finding from the RQ1 section of the teacher interview/questionnaire stu
 - [AWE is more effective for surface-level writing skills than for higher-order skills such as argumentation and coherence](awe-surface-level-stronger-than-higher-order.md) — reports the opposite
 - [The VCL's open infrastructure leaves all variables to students' experimental design](vcl-open-infrastructure-student-design.md) — related
 - [Word cloud analysis prompted qualitative changes in student thinking including objective analysis and purposeful reflection](word-clouds-prompt-changes-in-thinking.md) — related
+- [Dusty plasma experiments serve as a learning tool for undergraduate and post-graduate physics students, per the author's perspective argument](dusty-plasma-experiments-learning-tool-physics-students.md) — related

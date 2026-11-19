@@ -49,3 +49,4 @@ Survey of administrative framework with data from 33 faculties. The article repo
 - [Tutor basic training scope varies widely across faculties, most frequently 10–20 hours but ranging from about 3 to 50 hours](tutor-basic-training-hours-variation.md) — related
 - [Peer-assisted learning by trained student tutors is equivalent to faculty-led skills lab training and is used in about 90% of surveyed German skills labs](peer-assisted-learning-equivalent-faculty.md) — related
 - [German Skills-Lab PAL programs differ considerably between faculties in size, facilities and content focus](pal-program-variation-across-faculties.md) — related
+- [Community managers contributed 23% of conversation on average but their share varied widely across communities, from nearly all posts in C++ to 4% in Java, and managers reported heavy administrative workload.](community-manager-contribution-varies-and-workload-heavy.md) — related

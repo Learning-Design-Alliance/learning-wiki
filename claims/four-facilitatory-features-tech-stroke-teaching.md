@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-19
 sources:
   - id: bower-k-2026
     resource: "https://doi.org/10.1186/s12909-026-08709-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Inductive content analysis across all 48 studies identified facilitating features relating to online versus blended delivery, multimedia, clinical experience or practice, and interaction with peers or educators. [→ Bower K 2026](#bower-k-2026)

@@ -54,6 +54,7 @@ The article recommends that institutions sequence AI and online expansion so tha
 - [Phased implementation of AI assessment starting with root opportunities in low-stakes settings](phased-ai-assessment-implementation-roadmap.md)
 - [Develop statutory e-Learning guidelines through multi-stakeholder policy dialogues and build staff capacity in e-Learning content development before scaling up](statutory-elearning-guidelines-policy-dialogue-strategy.md)
 - [Train faculty in a blended learning format and build a multidisciplinary development team](faculty-blended-training-team-strategy.md)
+- [Multi-level intervention strategies for institutions, faculty and students to improve online engineering instruction](online-engineering-instruction-intervention-strategies.md)
 
 ## Examples
 -

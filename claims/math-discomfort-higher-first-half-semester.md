@@ -50,3 +50,4 @@ Coding of weekly survey explanations at University A found math discomfort conce
 - [Math is the most common coded source of student discomfort in spins-first QM, followed by physics, math-physics connection, and notation](math-most-common-qm-discomfort-category.md) — related
 - [Class-wide average self-reported discomfort in a spins-first QM course stays effectively constant near 4/10 across the semester, with no net trend as topics change](qm-class-wide-discomfort-constant-semester.md) — related
 - [Student discomfort with physical concepts increases over the semester, peaking during the quantum computing and entanglement units where the physics category dominates](physics-discomfort-peaks-quantum-computing-entanglement.md) — related
+- [The article reports that a spin-first, discrete-variable approach gives students more opportunities to understand quantum concepts independently of heavy mathematics](spin-first-approach-aids-conceptual-understanding.md) — related

@@ -49,6 +49,7 @@ The article recommends building classroom materials and climates that signal all
 ## Related Strategies
 
 - [Transform the culture of physics so it signals to female students that they belong, alongside boosting science capital and utility value](transform-physics-culture-signal-belonging.md)
+- [Use women scientists as role models sharing life stories with girls](women-scientists-role-model-life-story-interactions.md)
 
 ## Examples
 -

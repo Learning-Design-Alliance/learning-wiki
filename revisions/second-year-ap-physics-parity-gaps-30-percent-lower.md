@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/second-year-ap-physics-parity-gaps-30-percent-lower.md
+---
+
+# Revision history: [claims/second-year-ap-physics-parity-gaps-30-percent-lower](../claims/second-year-ap-physics-parity-gaps-30-percent-lower.md)
+
+### 2026-11-19 · ingest · process:wiki-ingest
+Ingested from arxiv-2106.05456 (It's good to be popular in high school: A look at disparities in STEM AP offerings in Northern California public high schools) via eval_harness.py + ingest_extractions.py

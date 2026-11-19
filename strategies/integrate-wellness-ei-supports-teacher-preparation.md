@@ -54,6 +54,7 @@ The article recommends that "Universities or teacher preparation institutions sh
 - [Provide counselling services and an academically supportive environment for LGBTQ+ college students](counselling-and-academic-support-lgbtq-students.md)
 - [Institutional wellness and support measures: diet, activity, sleep, task management, counseling, peer mentoring, flexible scheduling, and participatory teaching](wellness-support-measures-nursing-students-strategy.md)
 - [Provide workshops, training, and counseling sessions to help students overcome communication apprehension, and train instructors to handle stress and CA during educational activities](workshops-counseling-overcome-communication-apprehension-strategy.md)
+- [Emphasize emotional support alongside professional support by discussing imposter syndrome frequently and providing access to counselling](emotional-support-imposter-syndrome-discussions-counselling.md)
 
 ## Examples
 -

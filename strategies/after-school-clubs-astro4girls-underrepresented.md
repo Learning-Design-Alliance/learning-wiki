@@ -44,6 +44,7 @@ From 2004-2011, Fermi, Swift and XMM-Newton E/PO programs sponsored four after-s
 ## Related Strategies
 
 - [Teachers sponsor student industrial arts clubs to build leadership, attitudes, and public relations](teacher-sponsorship-of-industrial-arts-clubs.md)
+- [Run workshops for teachers on why it is important to bring more girls into STEM](teacher-workshop-bring-girls-into-stem.md)
 
 ## Examples
 -

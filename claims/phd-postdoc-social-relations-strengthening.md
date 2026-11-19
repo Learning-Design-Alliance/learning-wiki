@@ -51,3 +51,4 @@ The author's account of his own developmental journey, analysed on the specialis
 - [Students who gained undergraduate research experience shifted toward research-centered perceptions of being a physicist](undergraduate-research-shifts-perceptions-toward-research.md) — related
 - [Students' perceptions of being a physicist cluster around research, mindset differences, and exclusivity of accomplishments](three-themes-research-mindset-exclusivity.md) — related
 - [Most reinterviewed students shifted their perception category over three to six semesters](five-of-seven-students-transitioned-perception-categories.md) — related
+- [Purist insights dominate physics assessments at all levels except PhD, where a situational shift appears](purist-dominance-shift-situational-phd.md) — related

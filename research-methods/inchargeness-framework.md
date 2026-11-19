@@ -20,6 +20,7 @@ The inchargeness framework characterizes a participant's authority in driving co
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Inchargeness framework: authority to drive group activity, inferred from behavioral markers within storylines**: The inchargeness framework characterizes a participant's authority in driving collaborative activity, rooted in Positioning Theory. An individual with high inchargeness is positioned so their acts are more likely to include successful bids to steer an activity. Analysts infer a group's inchargeness distribution by attending to "behavioral markers (who sets and limits the group activity; who asks and answers questions to direct that activity; types of discourse; whether communication acts are overlapped or sequential; and to whom the acts are done)". The distribution changes dynamically over interactions but within a storyline individual inchargeness tends to shift within a small range. (Huynh et al. (2018))
+- **A bid-and-inchargeness methodology for characterizing the equity of physics lab groups**: The article develops a methodology that characterizes lab groups by tallying each student's bids to each other student and whether those bids were acknowledged, alongside moments when a student explains the group's progress to the TA. Inchargeness is defined as "the degree to which a person controls the conversation", and an equitable group is "one in which every student's bids are heard and acknowledged". The methodology was developed by transcribing and coding videos of lab groups and representing bid ratios in diagrams. (Sophia Jeon et al. (2018))
 
 ### Claims
 - [Lower relative on-task expertise is associated with reduced inchargeness in a collaborative physics lab group](../claims/lower-on-task-expertise-reduced-inchargeness.md) [+W]
@@ -29,3 +30,4 @@ The inchargeness framework characterizes a participant's authority in driving co
 
 ## Key Sources
 - Huynh, T., Jambuge, A. P., Khong, H., Laverty, J. T., & Sayre, E. C. (2018). Positioning in groups: The roles of expertise and being in charge. Department of Physics, Kansas State University. https://www.isls.org
+- Sophia Jeon, Eleanor Sayre, N.G. Holmes. (2018). What do equitable physics lab groups look like in light of inchargeness? https://scholar.google.com/scholar?q=What+do+equitable+physics+lab+groups+look+like+in+light+of+inchargeness

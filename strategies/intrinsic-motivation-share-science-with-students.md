@@ -43,6 +43,7 @@ The report highlights research on the importance of building students' intrinsic
 - [Address student expectations of passive instruction early in the semester to promote buy-in](address-passive-expectations-early-buy-in-strategy.md)
 - [Reward and celebrate student science accomplishments liberally with positive feedback](liberal-rewards-science-accomplishments.md)
 - [Build student buy-in deliberately: explain the method on day one and connect early quizzes to worksheets](student-buy-in-flipped-large-lecture.md)
+- [Explain the incremental knowledge-building journey and make assessment rules of the game explicit to students](make-assessment-rules-of-game-explicit.md)
 
 ## Examples
 -

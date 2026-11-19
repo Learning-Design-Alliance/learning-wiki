@@ -51,3 +51,4 @@ Case-study interview evidence: Paulette's counterfactual about peer partnership 
 - [Early research involvement integrated a former student into the physics community and supported her path to a research career](fp-vignette-community-and-career-integration.md) — related
 - [Mentoring relationships in undergraduate research are highly influential in students' campus connection, retention in their major, and persistence to graduation](ur-mentoring-retention-persistence.md) — a broader claim this one bears on
 - [In one woman's interview account, recognition from a peer teaching assistant and from the students she later taught as a peer teacher improved her sense of belonging and self-efficacy in physics-adjacent courses](recognition-boosts-belonging-self-efficacy-women-physics.md) — related
+- [Mentees' sense of belonging grew out of community and social interactions and from scientific contribution](belonging-from-interaction-and-contribution.md) — related

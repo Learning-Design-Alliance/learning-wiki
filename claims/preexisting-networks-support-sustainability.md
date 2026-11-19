@@ -58,3 +58,4 @@ Observation from the Year Three cross-state evaluation of AD interviews and coll
 - [Involvement of stakeholders nationally enhanced programme acceptance, clinician buy-in and funding sustainability](stakeholder-involvement-buy-in-sustainability.md) — related
 - [An experienced bottom-up manager with communication and structuring skills improved acceptance and early successes in curriculum mapping](bottom-up-manager-acceptance.md) — related
 - [Project-based funding for OER risks the resource becoming obsolete when the funding duration runs out](oer-project-funding-obsolescence.md) — possibly the same claim (merge candidate)
+- [The exhibition acted as a connection bridge between astronomy outreach entities that had not previously met](exhibition-bridge-between-astronomy-entities.md) — related

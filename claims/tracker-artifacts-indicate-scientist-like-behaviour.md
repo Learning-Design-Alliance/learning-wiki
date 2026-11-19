@@ -50,3 +50,4 @@ Qualitative artifact analysis in Section 4.2: three student projects (roller-bla
 - [Tracker video modeling lets students incrementally and iteratively improve self-proposed models of real motion using evidence from video analysis](tracker-video-modeling-iterative-self-invented-models.md) — related
 - [Among 273 Secondary Three students doing the Tracker performance task, only the best class registered a significant positive pre-post change in affective perceptions of physics](tracker-pt-survey-only-best-class-significant-affective-change.md) — related
 - [Initial findings suggest video modeling pedagogy is suitable for active and deep learning through predicting, observing and explaining](video-modeling-suits-active-deep-learning.md) — related
+- [Elementary school students can perform video analysis of Brownian motion with little stress when a pre-compiled analysis file is prepared for them](elementary-students-video-analysis-brownian-motion-feasible.md) — related

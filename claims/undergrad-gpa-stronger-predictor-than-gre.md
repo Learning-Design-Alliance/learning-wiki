@@ -57,3 +57,6 @@ Authors' synthesis of the regression results across Tables 2–4: in the graduat
 - [PGRE score shows no statistically significant correlation with first-author papers published during or exiting graduate school among prize fellows](pgre-no-correlation-graduate-publications.md) — related
 - [Students' CT performance correlates with their overall GPA, suggesting CT as a predictor of academic success](ct-performance-correlates-with-gpa.md) — a narrower finding that bears on this claim
 - [Undergraduate GPA is the only admissions metric statistically significantly associated with physics PhD completion across all models studied](ugpa-only-consistent-predictor-physics-phd-completion.md) — related
+- [Graduate GPA is the admissions-related measure most strongly correlated with PhD completion (rpb = 0.43)](ggpa-strongest-correlate-phd-completion.md) — related
+- [UGPA and GRE-P are weak but statistically significant predictors of graduate GPA, while GRE-Q and GRE-V are not, in a multiple regression on 1,955 US physics PhD students](ugpa-grep-significant-weak-predictors-ggpa.md) — related
+- [UGPA is the only tested admissions metric that significantly predicts PhD completion, and its effect is entirely indirect through graduate GPA (total effect 6.0% for a 25th-to-75th percentile change)](ugpa-only-significant-predictor-completion-indirect.md) — related

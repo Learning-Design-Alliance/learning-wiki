@@ -167,3 +167,5 @@ Structured-response survey item on hardware/software problem frequency; ten perc
 - [A non-negligible proportion of students experienced technical difficulties with online access to the virtual reality platform](technical-difficulties-online-vr-access.md) — related
 - [Students reported negative experiences when the flipped classroom lacked adequate infrastructure such as internet connection](flipped-classroom-internet-infrastructure-difficulty.md) — related
 - [Students reported negative DGE experiences: technical issues, difficulty typing mathematical equations, and gaps in prerequisite knowledge](negative-dge-experiences-technical-prerequisite.md) — related
+- [Substantial minorities of faculty and students lacked access to hardware, software and reliable internet during the Spring 2020 online transition](logistical-access-challenges-online-transition.md) — possibly the same claim (merge candidate)
+- [About a quarter of surveyed NAC students lacked the technology needed for study or school-related work during 2020, prompting laptop shipping and coding boot camps](nac-students-lacked-remote-technology-access.md) — related

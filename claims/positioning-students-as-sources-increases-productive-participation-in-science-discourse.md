@@ -67,3 +67,4 @@ The authors are explicit that the co-variation between student-resource invocati
 - [Prior research indicates argumentative scripts improve argumentation skill development but not participation and interactivity](argumentative-scripts-improve-skills-not-participation.md) — related
 - [Only a third of observed teachers showed an alternative construction of the learning process with a creative approach](third-teachers-alternative-learning-process.md) — related
 - [Co-construction of answers was common in team discourse, particularly in response to higher-level questions](co-construction-common-with-higher-level-questions.md) — related
+- [Students show greater interest in participating when the teacher demonstrates care for their needs, hopes and dreams](teacher-care-participation-interest.md) — related

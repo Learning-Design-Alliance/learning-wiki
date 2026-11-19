@@ -71,6 +71,7 @@ Pre questioning works through two complementary mechanisms: it functions as a [p
 - [Design teaching material to embody content, arouse interest, sustain attention, activate students, and feel game-like](material-design-qualities-teacher-questionnaire.md)
 - [Embed non-topic filler questions in pre-tests to minimize priming and expectancy bias](filler-questions-reduce-priming.md)
 - [Open each learning chapter with challenging questions before presenting key material to stimulate curiosity](chapter-opening-questions-stimulate-curiosity.md)
+- [Use short variable tests as a pre-lecture attentiveness and attendance check](short-pre-lecture-attentiveness-attendance-test.md)
 
 ## Examples
 - **Prelecture quizzes in large STEM courses** — instructors assign 3–5 multiple-choice prequestions before each lecture (common in flipped and peer-instruction courses); lecture time then resolves the questions.

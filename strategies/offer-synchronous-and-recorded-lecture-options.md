@@ -46,6 +46,7 @@ During the spring 2020 shift, case study institutions commonly built in options 
 - [Provide recorded live virtual classroom sessions that students can access at any time](provide-recorded-live-virtual-classroom-access.md)
 - [Blend asynchronous and synchronous sessions with technical support and virtual simulations when delivering flipped classrooms remotely](blend-async-sync-tech-support-virtual-simulations-remote-flipped.md)
 - [Deliver virtual labs synchronously via live video conference and post recordings to the LMS](synchronous-video-labs-with-lms-recordings.md)
+- [Record online sessions and add subtitles so participants can attend asynchronously and across languages](record-sessions-and-enable-subtitles.md)
 
 ## Examples
 -

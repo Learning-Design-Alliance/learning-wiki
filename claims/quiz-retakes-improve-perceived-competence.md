@@ -50,3 +50,4 @@ Semistructured interviews with 18 undergraduates (13 statistics, 5 neurobiology)
 - [Most students participated in in-class quiz retakes and most retakers improved their quiz scores across five course offerings](retake-participation-and-improvement-quantitative.md) — related
 - [Students report overwhelmingly positive perceptions of the oral retest intervention, including fairness, pride, and improved retention](positive-student-perceptions-oral-retest.md) — related
 - [Students overwhelmingly liked optional exam retakes and perceived them as helping their learning, with most retakers reporting substantial study effort](retakes-popular-perceived-learning-benefit.md) — related
+- [Students accepted acceptable/unacceptable quiz grading only when retake exams were offered](students-accept-coarse-grading-only-with-retakes.md) — related

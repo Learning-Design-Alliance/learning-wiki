@@ -57,3 +57,4 @@ Two authors independently coded free-text feedback into four categories by conse
 - [Criticism and recommendations in free-text comments decreased after consultation, with quality of explanations and learning atmosphere most praised](criticism-decreased-after-consultation.md) — related
 - [The quality of educational content matters most to online learners, more than interactivity or website design](content-quality-matters-most-to-learners.md) — related
 - [Students' unprompted free-response comments strongly praised clicker use while criticizing the substitute lecturer's clarity of explanations](free-response-comments-praise-clickers-criticize-substitute-clarity.md) — related
+- [Pilot participants recommended revising the lecture-heavy session format and revisiting content to remove redundancies across sessions](sattaa-pilot-feedback-redesign.md) — related

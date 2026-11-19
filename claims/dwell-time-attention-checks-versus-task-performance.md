@@ -55,3 +55,4 @@ Spearman correlation of session-level aggregates from the 55-student Clover lab 
 - [Higher tab accept rates are strongly associated with failing attention checks among CS1 students using an AI code completion tool](tab-accept-rate-strongly-associated-failed-attention-checks.md) — related
 - [In offline validation, the HMM timing model detected children's attention moments more accurately than fixed-interval and dwell-time triggers](hmm-timing-outperforms-fixed-and-dwell-triggers.md)
 - [Log analysis reveals novel post-acceptance behaviors (slow tab accept, slow accept then modify) that show suggestion acceptance is a multi-step process](novel-post-acceptance-behavioral-metrics.md) — related
+- [Spending longer on puzzle 11 predicts successful completion of puzzle 17](longer-time-puzzle-11-predicts-puzzle-17-completion.md) — related

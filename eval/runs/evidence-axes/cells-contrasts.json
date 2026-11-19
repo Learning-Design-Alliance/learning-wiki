@@ -122938,5 +122938,353 @@
  "test-format\tStudents answering the unconfined-jet pressure question\tScientifically correct atmospheric-pressure answer": {
   "label": "Misconception-based answer vs scientifically correct answer",
   "treatment_is_a": true
+ },
+ "active-learning\t20 minutes of dialogued reflection on the worked solution\tnot stated": {
+  "label": "Active learning vs no active-learning comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\t90-minute interactive rubber-sheet activity with hands-on participation\tpre-activity questionnaire": {
+  "label": "Interactive hands-on activity vs pre-activity baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tEinsteinian physics intervention\tno comparison group": {
+  "label": "Active-learning intervention vs no comparison group",
+  "treatment_is_a": true
+ },
+ "active-learning\tEinsteinian physics intervention\tparticipants reporting no preparation for later learning": {
+  "label": "Active-learning intervention vs no preparation",
+  "treatment_is_a": true
+ },
+ "active-learning\tEinsteinian physics intervention\tpre-intervention assessment": {
+  "label": "Active-learning intervention vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tEinsteinian physics intervention\tpre-intervention performance": {
+  "label": "Active-learning intervention vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tPlatform B personalized active-learning course\tPlatform A traditional video, reading, and quiz course": {
+  "label": "Problem-solving active-learning course vs traditional video-reading-quiz course",
+  "treatment_is_a": true
+ },
+ "active-learning\tPlatform B problem-solving exercises\tPlatform A multiple-choice quizzes": {
+  "label": "Problem-solving exercises vs multiple-choice quizzes",
+  "treatment_is_a": true
+ },
+ "active-learning\tPlatform B with interactive problem-solving exercises\tPlatform A with videos, reading, and multiple-choice quizzes": {
+  "label": "Interactive problem-solving course vs traditional video-reading-quiz course",
+  "treatment_is_a": true
+ },
+ "active-learning\tSphinx’s student-centered conception and practice\tSphinx’s perception that his conception disagrees with research on student-centered teaching": {
+  "label": "Student-centered teaching conception and practice vs perceived disagreement with research",
+  "treatment_is_a": true
+ },
+ "active-learning\tembodying polymer concepts through movement\ttextbook descriptions, pictures, and traditional study": {
+  "label": "Embodied movement-based learning vs passive textbook-based study",
+  "treatment_is_a": true
+ },
+ "active-learning\tembodying polymer concepts through movement\ttextbook descriptions, pictures, equations, and traditional study": {
+  "label": "Embodied movement-based learning vs passive textbook-based study",
+  "treatment_is_a": true
+ },
+ "active-learning\tembodying scientific concepts through movement\tpassively receiving information through descriptions, pictures, textbooks, and traditional lectures": {
+  "label": "Embodied movement-based learning vs passive information reception",
+  "treatment_is_a": true
+ },
+ "active-learning\tembodying scientific concepts through movement and collaborative choreography\ttraditional lecture, textbook, pictures, equations, and passive study": {
+  "label": "Embodied collaborative learning vs traditional passive instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\texplicit discussion of rubber-sheet limitations combined with the activity\tpre-activity questionnaire": {
+  "label": "Interactive hands-on activity vs pre-activity baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped format with online lectures and usual GRC grading\tusual CLASP classes": {
+  "label": "Flipped class vs traditional class",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup task leveraging biology and chemistry expertise\tinitial expectation that physics would be aversive": {
+  "label": "Collaborative expertise-leveraging task vs expectation of aversive learning",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on Einsteinian physics activities and GDC excursion\tnot stated": {
+  "label": "Hands-on active-learning intervention vs no active-learning comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on activities and excursions\treading play": {
+  "label": "Hands-on activities and excursions vs reading play",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on activities and reading play\treading play versus hands-on activities within the intervention": {
+  "label": "Hands-on activities followed by reading play vs reading play followed by hands-on activities",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive lecture-like profile\tother profile": {
+  "label": "Interactive lecture-like profile vs other profiles",
+  "treatment_is_a": true
+ },
+ "active-learning\tlecture components and SCALE-UP observations\tother four-profile observation groups": {
+  "label": "Interactive lecture-like profile vs other profiles",
+  "treatment_is_a": true
+ },
+ "active-learning\tother profile\tinteractive lecture-like profile": {
+  "label": "Interactive lecture-like profile vs other profiles",
+  "treatment_is_a": false
+ },
+ "active-learning\tproject-based IceCube science, design, coding, and computational-thinking activities\ttraditional high school classroom": {
+  "label": "Project-based active learning vs traditional classroom instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\trubber sheet analogy activity\tbefore the activity": {
+  "label": "Interactive hands-on activity vs pre-activity baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\trubber-sheet activity addressing space-time and gravity\tknowledge before the activity": {
+  "label": "Interactive hands-on activity vs pre-activity baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\trubber-sheet activity introducing gravitational lensing\tknowledge before the activity": {
+  "label": "Interactive hands-on activity vs pre-activity baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\trubber-sheet activity with interactive demonstrations\tknowledge before the activity": {
+  "label": "Interactive hands-on activity vs pre-activity baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\trubber-sheet visualization and active participation\tpre-activity questionnaire": {
+  "label": "Interactive hands-on activity vs pre-activity baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tsix-week Einsteinian physics intervention with lessons, hands-on activities, excursions, and a reading play\tpre-intervention assessment": {
+  "label": "Active-learning intervention vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\ttraditional coursework combined with hands-on programming\ttraditional coursework elements without hands-on programming": {
+  "label": "Hands-on programming vs traditional coursework without programming",
+  "treatment_is_a": true
+ },
+ "case-comparison\tbrief solution SSE for Problem 1\tanalogous brief solution SSG for Problem 2": {
+  "label": "Problem 1 case vs Problem 2 case",
+  "treatment_is_a": true
+ },
+ "case-comparison\tdebugging and improving a deliberately flawed solution\tbeing shown a solution without deliberately introduced poor choices": {
+  "label": "Flawed solution for debugging vs correct solution",
+  "treatment_is_a": true
+ },
+ "case-comparison\telaborated solution SSD for Problem 1\tanalogous elaborated solution SSF for Problem 2": {
+  "label": "Problem 1 case vs Problem 2 case",
+  "treatment_is_a": true
+ },
+ "case-comparison\tone explanation of flotation\tanother explanation of flotation": {
+  "label": "One explanation vs another explanation",
+  "treatment_is_a": true
+ },
+ "case-comparison\tsolution with explication of the problem-solving process\tbrief solution with no explication of reasoning": {
+  "label": "Process-explicated solution vs brief solution without reasoning",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tMIPEP participation followed by later assessment\tpre-program baseline": {
+  "label": "MIPEP participation vs pre-program baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstruction emphasizing force as an interaction\ttraditional action-reaction-focused instruction": {
+  "label": "force-as-interaction instruction vs action-reaction-focused instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstructured instruction for secondary learning\tautomatic, effortless primary learning": {
+  "label": "structured instruction vs automatic, effortless learning",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttoy model explicitly framed in terms of its purpose and limits\ttoy model presented while suppressing the underlying physical picture": {
+  "label": "explicitly framed toy model vs toy model with the underlying physical picture suppressed",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional lecture-based instruction\tbefore instruction": {
+  "label": "traditional lecture-based instruction vs before instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional lecture-based instruction in relevant thermodynamics concepts\tbefore instruction": {
+  "label": "traditional lecture-based instruction vs before instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttwo-week MIPEP professional development\tpre-program baseline": {
+  "label": "MIPEP participation vs pre-program baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\twell-memorized facts and algorithms applied during problem solving\tconcepts and big ideas without well-memorized fundamentals": {
+  "label": "well-memorized facts and algorithms vs concepts and big ideas without well-memorized fundamentals",
+  "treatment_is_a": true
+ },
+ "feedback-presence\trevision of the DC1 report after extensive feedback\toriginal DC1 report": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFull Feedback\tCluster-Based Feedback": {
+  "label": "Full feedback vs cluster-based feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFull Feedback\tMinimal Feedback": {
+  "label": "Full feedback vs minimal feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\texpert feedback\tAfter-Session Tasks": {
+  "label": "Expert feedback vs after-session tasks",
+  "treatment_is_a": true
+ },
+ "gamification\t2D random-walk dice experiment with goal points\tno comparison condition reported": {
+  "label": "gamification vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "gamification\tEndless Fun card game\tnot stated": {
+  "label": "gamification vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "gamification\tEndless Fun card game\tperformance before the trial games": {
+  "label": "post-gamification vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "gamification\tEndless Fun card game\tunderstanding before the trial games": {
+  "label": "post-gamification vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "gamification\tplaying the Endless Fun card game\tnot stated": {
+  "label": "gamification vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided-inquiry active-learning case study\tno comparison reported": {
+  "label": "guided-discovery vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tM1Q mastery classes with retake quizzes\tusual classes without retake quizzes": {
+  "label": "mastery learning with retakes vs conventional instruction without retakes",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tM1Q mastery classes with retake quizzes and categorical grading\tusual classes with canonical GRC grading": {
+  "label": "mastery learning with retakes vs conventional instruction without retakes",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tM1Q mastery regime with retake quizzes\tusual grading regime without retake quizzes": {
+  "label": "mastery learning with retakes vs conventional grading without retakes",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tM2Q mastery class with frequent paired quizzes and retakes\tusual classes with canonical GRC grading": {
+  "label": "mastery learning with frequent quizzes and retakes vs conventional grading",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tM2Q mastery class with two quizzes in most lecture times and retakes\tusual CLASP classes with standard assessment and grading": {
+  "label": "mastery learning with frequent quizzes and retakes vs conventional assessment and grading",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tM2Q mastery regime with frequent quiz and retake pairs\tusual grading regime without retake quizzes": {
+  "label": "mastery learning with frequent quizzes and retakes vs conventional grading without retakes",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tacceptable/unacceptable grading with retake exams\tacceptable/unacceptable grading without retake exams": {
+  "label": "retake exams vs no retake exams",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tone-quiz-per-lecture mastery assessment with retake quizzes and categorical grading\tusual CLASP assessment with GRC grading and no retake quizzes": {
+  "label": "mastery learning with retakes vs conventional assessment and grading without retakes",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tone-quiz-per-lecture mastery classes with retake quizzes\tusual classes with canonical grading and no retake quizzes": {
+  "label": "mastery learning with retakes vs conventional grading without retakes",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tretake-quiz mastery classes\tusual classes with canonical grading and no retake quizzes": {
+  "label": "mastery learning with retakes vs conventional grading without retakes",
+  "treatment_is_a": true
+ },
+ "mastery-learning\ttwo-quizzes-in-most-lectures mastery class with retakes\tusual classes with canonical grading and no retake quizzes": {
+  "label": "mastery learning with retakes vs conventional grading without retakes",
+  "treatment_is_a": true
+ },
+ "media-design\tanimation screening plus additional scientific presentation\tanimation screening alone": {
+  "label": "animation plus additional scientific presentation vs animation alone",
+  "treatment_is_a": true
+ },
+ "media-design\tanimation screening with additional scientific presentation\tanimation screening alone": {
+  "label": "animation plus additional scientific presentation vs animation alone",
+  "treatment_is_a": true
+ },
+ "media-design\tastrophotography exhibition\tno comparison reported": {
+  "label": "astrophotography exhibition vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "media-design\tastrophotography exhibition with scientific explanations\tno comparison condition reported": {
+  "label": "astrophotography exhibition with scientific explanations vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "media-design\tastrophotography exhibition with scientific explanations\tno comparison reported": {
+  "label": "astrophotography exhibition with scientific explanations vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "media-design\teducational animations\tinspirational pieces": {
+  "label": "educational animations vs inspirational pieces",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual representations of scientific concepts\tdisciplinary verbal language and abstract formulas": {
+  "label": "visual representations of scientific concepts vs disciplinary verbal language and abstract formulas",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore time spent solving exercises\tless time spent solving exercises": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\toverlearning fundamentals beyond mastery\tmoderate proficiency without overlearning": {
+  "label": "overlearning vs moderate proficiency without overlearning",
+  "treatment_is_a": true
+ },
+ "practice-amount\tthoroughly mastered and over-learned fundamentals\tfundamentals learned to a moderate degree of proficiency": {
+  "label": "overlearning vs moderate proficiency without overlearning",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\ttesting or self-testing\thighlighting or re-reading": {
+  "label": "retrieval practice vs highlighting or re-reading",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tSunday conference sessions with meal gift cards\tother conference sessions": {
+  "label": "meal gift cards vs no meal gift cards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tSunday sessions with meal gift cards\tother conference sessions without meal gift cards": {
+  "label": "meal gift cards vs no meal gift cards",
+  "treatment_is_a": true
+ },
+ "scaffolding\t15-week professional development course with grading-rubric activities and discussions\tWeek-1 grading activity before rubric introduction": {
+  "label": "ongoing scaffolding vs front-loaded scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tintensive support across PRiSE\tdifferent PRiSE support elements": {
+  "label": "integrated intensive scaffolding vs separate support elements",
+  "treatment_is_a": true
+ },
+ "scaffolding\tpreformatted Excel spreadsheets with parameters introduced step by step\tno comparison reported": {
+  "label": "step-by-step scaffolding vs no reported comparison",
+  "treatment_is_a": true
+ },
+ "spacing\tsolving similar problems several times over several days\tnot solving similar problems several times over several days": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "test-format\tMCMR items grouped at the end\tMCMR items interspersed with single-response items": {
+  "label": "Grouped MCMR items vs interspersed MCMR and single-response items",
+  "treatment_is_a": true
+ },
+ "test-format\tlater group taking a static test\tprevious group taking the static test": {
+  "label": "Later vs earlier test administration",
+  "treatment_is_a": true
+ },
+ "test-format\tone answer-choice order\tanother answer-choice order": {
+  "label": "One answer-choice order vs another answer-choice order",
+  "treatment_is_a": true
+ },
+ "test-format\tonline MCMR administration\tpaper MCMR administration": {
+  "label": "Online vs paper administration",
+  "treatment_is_a": true
+ },
+ "test-format\tonline administration\ton-paper administration": {
+  "label": "Online vs paper administration",
+  "treatment_is_a": true
  }
 }

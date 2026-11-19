@@ -50,3 +50,4 @@ Results-section evaluation using the article's proposed agreement-under-discreti
 - [Discrimination parameter recovery is weak (Pearson 0.31 for Qwen3.5-9B, below MathBERT's 0.35), with slope information partially lost through ability discretization](weak-discrimination-parameter-recovery.md) — related
 - [The simulated-respondent approach recovers the guessing parameter c at correlation 0.48, far above regression baselines, suggesting it captures genuine response behavior](simulated-respondents-recover-guessing-parameter-048.md) — related
 - [Fine-tuning LLMs and MLMs with cross-entropy loss using soft targets outperforms standard discretization and regression-head approaches on vocabulary difficulty prediction](soft-target-finetuning-beats-standard-loss-vocabulary-difficulty.md) — related
+- [MathBERT outperforms the best prior methods on three mathematics-education NLP tasks by 1.18% to 22.01% across metrics](mathbert-outperforms-prior-best-methods.md) — related

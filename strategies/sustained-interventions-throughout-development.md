@@ -51,6 +51,7 @@ The article recommends that "in place of employing short-term interventions in t
 - [Assign take-home copies of modelling videos for periodic review over two months](take-home-modelling-video-homework.md)
 - [Sustain engagement across the programme with system-level reforms, collaborative and experiential activities, and stimulating environments](sustain-engagement-system-level-strategies.md)
 - [Long-term continuous observations and public engagement activities as motivators for developing research skills](long-term-observation-and-public-engagement-motivation.md)
+- [Scale training sustainably through geographic spread, online delivery, community growth and a supported core team](sustainable-scaling-of-community-training-program.md)
 
 ## Examples
 -

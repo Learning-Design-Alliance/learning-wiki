@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2020
+source_checked: 2026-11-19
 recheck_by: 2023
 sources:
   - id: andreas-j-c-woitzik-2020
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: local conditions change quickly
+> **Currency** · newest study 2020 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2023**: local conditions change quickly
 
 ## Subclaims
 `q1 i?` A teaching unit on quantum information processing was developed for a four-period informatics course and taught in 2018 at a German Gymnasium to a class of twelve students. [→ Andreas J. C. Woitzik 2020](#andreas-j-c-woitzik-2020)

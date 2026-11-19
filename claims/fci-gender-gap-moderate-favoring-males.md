@@ -61,3 +61,5 @@ Random effects meta-analysis of 38 PER studies reporting mean FCI scores by gend
 - [At pretest, males show a significantly higher degree of polarisation than females on the six FCI questions](pretest-polarisation-gender-difference-males-higher.md) — related
 - [Significant gender differences in FCI scores appear in every application of the test, with small to medium effect sizes](fci-gender-differences-all-applications.md) — a narrower finding that bears on this claim
 - [The gender gap on the FCI is largest between male and female students who agree with the gender stereotype](gender-gap-largest-among-stereotype-agreeers.md) — a narrower finding that bears on this claim
+- [Female students showed significantly higher FCI gains than male students in the paired 2020 data, despite males' higher pre-test mean](fci-gender-gain-advantage-females-uj-2020.md) — related
+- [Pre- and post-test FCI scores showed a moderate positive correlation (r = 0.504) overall, with a stronger correlation for male than female students](fci-pre-post-moderate-positive-correlation-uj.md) — related

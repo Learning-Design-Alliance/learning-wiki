@@ -59,3 +59,4 @@ Fine-grained interaction analysis of Sequence 1, a poster-making group work epis
 - [Students are not blank slates: naive conceptions from everyday experience can interfere with physics learning, so instructors should assess initial knowledge and build on it](prior-knowledge-naive-conceptions-physics.md) — related
 - [Drawing physical terms helps students develop deeper understanding of the concepts behind the terms](drawing-terms-deepens-physics-concept-understanding.md) — related
 - [Once students communicate concepts pictorially, they move beyond definitions and use everyday examples to convey terms to their group](pictorial-communication-prompts-everyday-examples.md) — related
+- [Students show greater interest in participating when the teacher demonstrates care for their needs, hopes and dreams](teacher-care-participation-interest.md) — related

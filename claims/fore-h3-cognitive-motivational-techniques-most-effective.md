@@ -50,3 +50,4 @@ This is the model's third hypothesis, a theoretical postulation rather than a te
 - [Techniques raising both focus support and reward simultaneously are predicted to foster learning best; content-irrelevant humor is predicted not to](direction-of-change-condition.md) — possibly the same claim (merge candidate)
 - [Effective instruction requires both focus support and reward: high focus support with low reward, or reward without focus support, yields poor learning](fore-h1-both-focus-support-and-reward-needed.md) — a broader claim this one bears on
 - [Reward techniques show positive meta-analytic effects for gamification and personalization, but perceptual fluency did not directly affect learning outcomes](reward-techniques-meta-analytic-effects-mixed.md) — related
+- [Postulated theory of change: an increased confidence level will increase student retention in astronomy and related STEM fields](sattaa-confidence-retention-theory-of-change.md) — related

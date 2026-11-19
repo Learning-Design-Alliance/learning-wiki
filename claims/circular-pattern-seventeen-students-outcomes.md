@@ -68,3 +68,4 @@ Same Quiz 2 coding: "most of the students (11 out of 17) who drew the overall pa
 - [The most common and persistent student error is automatically associating positive divergence with locations where field lines or vectors spread apart, persisting despite explicit instruction](spreading-field-lines-associated-with-nonzero-divergence.md) — related
 - [Among students using a primarily mathematical approach, those who also drew a productive diagram scored better than those who did not, in both quiz and midterm](productive-diagram-helps-math-approach.md) — related
 - [Shape of the current-carrying wire has no significant effect on correctness or response time](wire-shape-no-significant-effect.md) — related
+- [E-Field students with sign errors did not depict directions on their diagrams, while most students without sign errors did](sign-errors-lack-directional-labels-e-field.md) — related

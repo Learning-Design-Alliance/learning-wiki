@@ -109,3 +109,4 @@ One-group pre-test/post-test study of 106 preregistration pharmacist trainees us
 - [Clinical performance gains after virtual patient simulation decayed significantly at 2.5 months, while mannequin-based simulation gains were sustained](virtual-simulation-gain-decay-2-5-months.md) — related
 - [Among community males, self-rated attitude scores rose from pre-test to post-test after the MCH session and fell toward baseline by three-month follow-up in one uncontrolled pre-post study](male-attitude-gain-not-sustained-three-months.md) — related
 - [Knowledge gains from the liquid crystals module faded between the immediate post-test and an exam four weeks later](lc-knowledge-gains-fade-by-delayed-test.md) — related
+- [Knowledge and confidence gains persisted above pre-program levels at the fall 2018 subsequent assessment](mipep-gains-persist-subsequent-assessment.md) — related

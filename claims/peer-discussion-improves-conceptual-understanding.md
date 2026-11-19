@@ -147,3 +147,4 @@ An open question is how much of the benefit comes from the discussion itself ver
 - [Building Understanding towards an Answer Mode: consonant, elaborative discussion of abstract physics concepts prior to answering](building-understanding-mode-elaborative-abstract.md) — related
 - [Students who scored below average on the ICT showed greater increases in performance from ICT to GCT after peer interaction, though some students' performance did not increase, in one uncontrolled pre-post study](qm-clicker-low-ict-students-benefited-most.md) — a narrower finding that bears on this claim
 - [Pairs of students produced higher-quality videos than students working alone, with a few exceptions](pairs-produce-higher-quality-videos.md) — a narrower finding that bears on this claim
+- [Reading-play recollection was split: just over half of participants recalled the play or a concept while the rest recalled nothing](reading-play-recollection-split.md) — related

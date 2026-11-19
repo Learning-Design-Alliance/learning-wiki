@@ -50,3 +50,6 @@ Observational analysis of California Department of Education SARC demographic da
 - [%SED similarly predicts physics offerings (p<0.001), while %ELL is not a significant predictor](regression-sed-significant-ell-not.md) — related
 - [Number of students and %Hispanic are statistically significant predictors of physics offerings (p<0.001), with a non-significant interaction term](regression-hispanic-enrollment-predict-offerings.md) — related
 - [No Northern California public non-charter high school more than 70% Hispanic offered more than one type of AP physics course](no-multiple-ap-above-70-hispanic.md) — related
+- [Course-offering parity between demographic cohorts declines with the popularity of the AP STEM exam, from near parity for Calculus AB to 50% and below for second-year AP courses](ap-stem-parity-declines-with-exam-popularity.md) — related
+- [The percentage of Hispanic students and the percentage of SED students at Northern California public high schools are highly correlated (r2 = 0.60)](hispanic-sed-percentage-correlation-norcal.md) — possibly the same claim (merge candidate)
+- [School size is effectively uncorrelated with the demographic categories of interest, suggesting offering disparities are not school size artifacts](school-size-uncorrelated-with-demographics-not-artifact.md) — related

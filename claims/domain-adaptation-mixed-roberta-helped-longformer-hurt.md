@@ -49,3 +49,4 @@ Results section comparison of pretrained versus domain-adapted (on 93,484 unlabe
 ## Related Claims
 - [Including the textbook source text in the model input improves automated summary scoring accuracy, with Longformer explaining 82% of Content and 70% of Wording score variance versus 67% and 41% for summary-only RoBERTa](longformer-source-text-outperforms-roberta-summary-scoring.md) — related
 - [Monolingual English BERT shows only a slight advantage over multilingual BERT for English content scoring](monolingual-bert-slight-advantage-over-mbert.md) — related
+- [Supervised models outperform the unsupervised uptake measures by less than .08 correlation, indicating their competitiveness](supervised-models-competitiveness-uptake.md) — related

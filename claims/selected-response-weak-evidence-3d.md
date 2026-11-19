@@ -50,3 +50,4 @@ Design decision reported during protocol development: separate criteria were cre
 - [A traditional selected-response physics item gives no explicit evidence of how a student arrived at an answer, according to the authors' 3D-LAP analysis](traditional-item-lacks-reasoning-evidence.md) — a narrower finding that bears on this claim
 - [The revised three-question cluster is claimed to be more capable of assessing engagement with a scientific practice, crosscutting concept, and core idea than the traditional item](revised-cluster-more-capable-three-dimensional-assessment.md) — related
 - [Concept inventories elicit core ideas much more often than scientific practices or crosscutting concepts](concept-inventories-bias-toward-core-ideas.md) — related
+- [Six of seven ECD/3D-LAP-designed assessment tasks elicited evidence of all four ACER components from a majority of introductory physics students](six-of-seven-tasks-elicited-expected-acer-evidence.md) — related

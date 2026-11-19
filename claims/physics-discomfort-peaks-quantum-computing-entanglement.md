@@ -51,3 +51,4 @@ Weekly distribution of coded discomfort explanations (Fig. 3) at University A sh
 - [Discomfort category shows minimal correlation with reported discomfort level in spins-first QM surveys](discomfort-category-level-minimal-correlation.md) — related
 - [More students reported math discomfort in the first half of the spins-first QM semester despite the second half requiring more computationally intensive mathematics](math-discomfort-higher-first-half-semester.md) — related
 - [Class-wide average self-reported discomfort in a spins-first QM course stays effectively constant near 4/10 across the semester, with no net trend as topics change](qm-class-wide-discomfort-constant-semester.md) — related
+- [The article reports that a spin-first, discrete-variable approach gives students more opportunities to understand quantum concepts independently of heavy mathematics](spin-first-approach-aids-conceptual-understanding.md) — related

@@ -116,6 +116,7 @@ SRL instruction works best when strategy teaching is embedded in authentic subje
 - [SRL cycle design strategies: goal setting, strategic planning across four strategy types, accessible self-control prompts, and self-monitoring records](srl-cycle-design-strategies-fc.md)
 - [Support SRL in the clinical context with a dual approach: improve individuals' goal setting, reflection skills and SRL confidence while creating a learning environment that lets students use their skills](dual-approach-srl-clinical-context.md)
 - [Integrating intervention training on indirect metacognitive strategies (self-planning, self-monitoring, self-evaluating) into English lessons to manage vocabulary learning.](metacognitive-strategy-intervention-training-lessons.md)
+- [Scaffold reflection prompts in assessment tasks early, then remove the scaffolding to promote autonomy](scaffold-reflection-prompts-assessment-tasks.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — small groups rotate the roles of summarizer, questioner, clarifier, and predictor while reading; the teacher models then fades, transferring regulation to students over ~20 sessions.

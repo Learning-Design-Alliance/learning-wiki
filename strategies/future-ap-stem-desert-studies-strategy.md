@@ -53,7 +53,8 @@ The authors propose future investigations building on their physics findings: si
 - [Technology use in high school physics classrooms is similar across rural, suburban and urban schools and increases with teacher experience and engagement indices](../claims/technology-use-similar-across-school-types.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Educator and leadership actions to address inequitable AP STEM offerings: advocacy, recruitment, dual enrollment, and funded leadership review](educator-actions-ap-stem-equity-strategy.md)
 
 ## Examples
 -

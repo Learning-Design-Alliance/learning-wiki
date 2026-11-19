@@ -71,6 +71,7 @@ Explicit criteria support learning because they enable self-regulation: learners
 - [Formative Feedback Loops](formative-feedback-loops.md) — criteria make feedback actionable by tying it to a shared standard
 - [Clarify assessment purpose, define skill expectations with rubrics and progressions, and calibrate on student work](clarify-purpose-norm-expectations-calibrate-pog.md)
 - [Use cognitive taxonomies such as SOLO as reliable processes for constructing learning objectives that are epistemic aims](solo-taxonomy-reliable-process-learning-objectives.md)
+- [Stepwise process for creating learning outcomes using SOLO taxonomy verbs and rubric scales](solo-verb-lo-creation-process.md)
 
 ## Examples
 - **Marzano proficiency scales** — a 4-point scale ("1 = with help, partial success … 4 = in-depth inferences and applications") published for thousands of K–12 standards; teachers post the scale so students know what "meeting the standard" means before instruction.

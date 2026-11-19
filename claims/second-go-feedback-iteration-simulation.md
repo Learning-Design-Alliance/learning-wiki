@@ -50,3 +50,4 @@ Review synthesis in the Results outcomes section. Yuksel and Unver held three si
 - [Face-to-face learning enabled direct educator feedback and skill practice, and one online clinical tool showed less value in clinical placement than classroom use](face-to-face-benefits-placement-integration.md) — related
 - [Graduate SLP students perceive the learning mode of computer-based simulation as highly beneficial because it allows unlimited attempts without grade penalty](simucase-learning-mode-perceived-beneficial.md) — related
 - [Reviewed studies report experiential learning benefits for engagement, skills, confidence and outcomes in human services education](experiential-learning-engagement-skills-ethical-reasoning.md) — a broader claim this one bears on
+- [Automatically graded online exercises with unlimited attempts were frequently used by students, saving instructor grading time](automatic-grading-unlimited-exercise-attempts.md) — related

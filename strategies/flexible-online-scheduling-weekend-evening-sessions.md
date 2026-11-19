@@ -47,6 +47,7 @@ The article recommends flexible, online-based scheduling to enable students to p
 - [Extend clinical simulation laboratory operating hours, including after-hours and weekend opening, to improve student access for SSL](extend-simulation-lab-operating-hours.md)
 - [Platform-based flexible practice scheduling with logged attendance](platform-appointment-practice-logging-strategy.md)
 - [Extend e-learning platforms with video-conferencing attendance verification and student payment integration](citadel-further-work-attendance-and-payment.md)
+- [Schedule online events on weekends, evenings or holidays to avoid clashes with participants' own online sessions](schedule-online-events-weekends-evenings-holidays.md)
 
 ## Examples
 -

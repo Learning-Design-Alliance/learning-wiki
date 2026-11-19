@@ -71,3 +71,4 @@ Subset regression (N = 712) including both Lecture Helpfulness Index and Instruc
 - [Perceived helpfulness of Skynet-based telescope labs is positively correlated with science attitudes, while other lab components show no significant impact](skynet-lab-helpfulness-correlated-attitude.md) — related
 - [Lecture attendance is associated with higher knowledge, attitude and practice scores across all three dimensions](lecture-attendance-higher-kap-scores.md) — related
 - [Students' positive expert-like attitudes correlate only weakly with physics performance scores](weak-attitude-performance-correlation.md) — related
+- [In a preliminary exploratory study across ten institutions, Skynet-based observing experiences were one of only two course components that led to a statistically significant improvement in STEM attitudes once expected grade and career plans were controlled for](skynet-observing-significant-stem-attitude-improvement.md) — related

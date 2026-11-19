@@ -28,4 +28,4 @@ An open-source, microcontroller-based electronics experimentation platform devel
 -
 
 ## Key Sources
-- Rouble, M., Dobbs, M., & Gilbert, A. (2023). WinterLab: Developing a low-cost, portable experiment platform to encourage engagement in the electronics lab. International Journal of Designs for Learning. https://arxiv.org/abs/2010.01426
+- Rouble, M., Dobbs, M., & Gilbert, A. (2023). WinterLab: Developing a low-cost, portable experiment platform to encourage engagement in the electronics lab. International Journal of Designs for Learning. https://arxiv.org/abs/2010.01426. [doi:10.14434/ijdl.v14i1.33406](https://doi.org/10.14434/ijdl.v14i1.33406)

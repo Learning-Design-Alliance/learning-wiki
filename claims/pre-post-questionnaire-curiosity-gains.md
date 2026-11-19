@@ -48,3 +48,4 @@ Pre/post questionnaire comparison using an Astronomy Questionnaire developed by 
 - [High-school students reported the planetarium helped them understand astronomical concepts, while younger students experienced it as somewhere between a TV show and magic](planetarium-age-group-differences-in-experience.md) — related
 - [A mobile inflatable planetarium outreach program attracted nearly 1,800 participants across 21 schools in three weeks in two Brazilian cities](mobile-planetarium-outreach-reaches-1796-participants.md) — related
 - [Curiosity about AI shifted between pre- and post-survey, from 71% to 50%, which the authors interpret as a move from diffuse curiosity to concrete critical engagement](curiosity-shifted-diffuse-to-critical.md) — related
+- [Pairing accurate scientific explanations with astonishing astronomical images is validated as an effective outreach and educational tool](astrophotography-explanations-with-images-effective.md) — related

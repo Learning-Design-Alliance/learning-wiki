@@ -50,3 +50,4 @@ This is a narrative review statement in which the article attributes the finding
 - [Puzzle-based teaching improves all four IMTS motivation sub-dimensions (attention, appropriateness, confidence, satisfaction)](puzzle-teaching-improves-imts-subdimensions.md) — a broader claim this one bears on
 - [In EERs, autonomy, competence, and relatedness are each supported by specific design features per self-determination theory](eer-sdt-needs-design-features.md) — related
 - [Interdisciplinary studio collaboration deepened students' disciplinary skills while exposing them to cross-disciplinary skills](interdisciplinary-collab-deepens-disciplinary-and-cross-disciplinary-skills.md) — related
+- [Students with no prior quantum computing background can solve entry-level quantum compilation puzzles using Quantum Odyssey's visual puzzle interface](quantum-odyssey-untrained-students-solve-quantum-puzzles.md) — a narrower finding that bears on this claim

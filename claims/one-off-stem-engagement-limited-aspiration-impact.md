@@ -49,3 +49,4 @@ The article's landscape review of aspiration research (citing L. Archer & DeWitt
 - [Short series of STEM interventions show some impacts but limited evidence of lasting aspiration change](short-series-interventions-limited-aspiration-evidence.md) — related
 - [PRiSE students show lasting STEM confidence and skills effects and greater physics and STEM uptake at university three years later](prise-lasting-longitudinal-impacts.md) — reports the opposite
 - [Interventions lasting one to two months show the largest effect, and effects do not increase consistently with longer duration](ai-effect-duration-one-to-two-months-peak.md) — reports the opposite
+- [PRiSE participation moderately increases physics aspirations and confirms or maintains already-high STEM aspirations, with 80 ± 8% of students reporting positive influence](prise-aspirations-physics-stem.md) — related

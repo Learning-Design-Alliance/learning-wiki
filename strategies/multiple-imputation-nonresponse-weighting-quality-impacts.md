@@ -41,7 +41,8 @@ As a methodological next step, the authors propose using multiple imputation and
 - [The original Head Start Impact Study threshold-variable method conflates low quality with missing data and discards continuous variance](../claims/threshold-variable-conflates-missing-and-low-quality.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Impute missing data and add missingness indicator columns, then explicitly report the missing-data treatment](imputation-with-missingness-indicators.md)
 
 ## Examples
 -

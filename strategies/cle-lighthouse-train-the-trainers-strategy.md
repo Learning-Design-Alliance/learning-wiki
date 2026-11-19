@@ -50,6 +50,7 @@ The lighthouse strategy spreads CLE literacy programs by training key personnel 
 - [Provide comprehensive professional development and ongoing coaching when implementing a structured literacy program](spellread-professional-development-support.md)
 - [Train local prospective trainers with assessments to build local training capacity](train-the-trainers-with-qualification-assessments.md)
 - [Deliver a three-day in-service critical care training using existing hospital structures, local facilitators, and supervised skill practice with return demonstrations](three-day-in-service-critical-care-training-strategy.md)
+- [Teacher in-service seminars built around the four reasoning tools, sequenced by participant requests](milq-teacher-seminar-sequence-trieste.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Qualitative rating of Group Two (Brock, Herb, Jakob, Justin) building an atmosph
 - [In the first analyzed group, speaking-time distribution was rated semi-equitable with three instances of one member speaking at least twice as much as a group mate](group1-semiequitable-speaking-time.md) — related
 - [The second analyzed group was rated inequitable in total speaking time, with the largest difference over nine times larger](group2-inequitable-speaking-time.md) — related
 - [A comparison group with similar on-task expertise showed more evenly distributed inchargeness](similar-expertise-more-even-inchargeness.md) — related
+- [In an equitable trio, the highest-inchargeness student uses her inchargeness to acknowledge her partners' bids](equitable-trio-janelle-acknowledges-bids.md) — related

@@ -53,3 +53,4 @@ Inductive thematic analysis (following Maguire & Delahunt and Braun & Clarke) of
 - [PBL group work on the module exhibited development of leadership, communication, and independent learning skills](pbl-groupwork-develops-leadership-communication-independent-learning.md) — related
 - [Thematic analysis of student comments identified 'experience' as the primary theme in student feedback on SBE](sbe-feedback-experience-primary-theme.md) — related
 - [Learners commenting on an online curriculum comment most on overall module quality (32.7% of comments), followed by module content (16.0%), with few comments on questions, length, or website function](learners-comment-most-on-quality-then-content.md) — related
+- [Students report learning a lot, finding the content interesting, and enjoying working like researchers](prise-qualitative-experience-themes.md) — related

@@ -66,3 +66,4 @@ Device-access items from the same questionnaire. The article reports all respond
 
 ## Related Claims
 - [ICT resources such as computers, internet facilities and printers are not adequately available in Ekiti State secondary schools](ict-resources-inadequate-ekiti-schools.md) — related
+- [Nearly half of students lacked or felt uncomfortable using cameras/microphones, raising privacy and equity concerns for proctored online exams](camera-proctoring-privacy-equity-concerns.md) — related

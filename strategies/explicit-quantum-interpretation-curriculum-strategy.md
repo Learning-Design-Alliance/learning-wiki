@@ -57,6 +57,7 @@ The authors developed a modern physics curriculum whose aims are to "make the ph
 ## Related Strategies
 
 - [Scaffold students toward meta-reasoning about when classical intuitions apply to quantum systems, building on what some students do spontaneously](scaffold-meta-reasoning-classical-quantum-boundary.md)
+- [Pattern-dependent strategies that revise classical concepts and leverage prior intuition according to the regularity pattern involved](pattern-dependent-strategies-leveraging-prior-intuition.md)
 
 ## Examples
 -

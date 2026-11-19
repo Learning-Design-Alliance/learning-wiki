@@ -51,3 +51,4 @@ Summary of Weinstein's plenary paper 'Critical Thinking Across the Disciplines' 
 - [Principles of reason assessment are both subject-neutral and subject-specific](reason-assessment-principles-both-neutral-and-specific.md) — a broader claim this one bears on
 - In the fully regulative context, critique proceeds by methodological correctness or paradigmatic positioning — related
 - [Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams](epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams.md) — related
+- [The universality of a single computational thinking framework is problematic when applying it to a different context](ct-framework-universality-problematic-across-contexts.md) — related

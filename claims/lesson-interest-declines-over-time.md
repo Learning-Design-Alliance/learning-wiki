@@ -56,3 +56,4 @@ Time-trend estimates from the same linear mixed-effects models; interest was the
 - [In the EinsteinMobil travelling exhibition, most or all participating students showed much interest regardless of age, gender, or general interest in physics](einsteinmobil-student-interest.md) — related
 - [Pre-service teachers' opinions of how interesting and important physics and astronomy are, and how much is left to discover, rise non-significantly from a high baseline](niaq-opinion-gains-not-significant.md) — related
 - [Students' interest in physics increased significantly in both the fully in-person fall and the partially remote spring semesters, rising slightly less in spring](claim-physics-interest-increased-remote-semester.md) — related
+- [Self-reported understanding of astronomy content shows a positive trend across all three cohorts, while interest gains are more varied but positive in each cycle](sattaa-interest-understanding-trends.md) — reports the opposite

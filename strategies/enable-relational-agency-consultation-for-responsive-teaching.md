@@ -51,6 +51,7 @@ The article recommends that those fostering responsive instruction shift from tr
 
 - [System-level strategies to build enabling conditions for Powerful Learning](system-level-strategies-powerful-learning-conditions.md)
 - [Address teacher agency development in computer science teacher education programmes](considerations-cs-teacher-education-agency.md)
+- [Experienced faculty can gain agency in restrictive contexts by mentoring newer instructors within the same local context](experienced-faculty-mentor-new-instructors-restrictive-context.md)
 
 ## Examples
 -

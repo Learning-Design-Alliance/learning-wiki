@@ -13,7 +13,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 137 claims (98 show a difference, 28 mixed, 11 no difference) · 107 studies (41 associational, 19 causal, 16 review, 12 design, 9 qualitative, 7 theoretical, 3 quant-synthesis), `q1`–`q4` · 8 of 107 report an effect size · 132 claims rest on one study
+> **Evidence** · 138 claims (99 show a difference, 28 mixed, 11 no difference) · 108 studies (41 associational, 19 causal, 16 review, 12 design, 9 qualitative, 8 theoretical, 3 quant-synthesis), `q1`–`q4` · 8 of 108 report an effect size · 133 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -181,6 +181,7 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [Students reported negative experiences when the flipped classroom lacked adequate infrastructure such as internet connection](../claims/flipped-classroom-internet-infrastructure-difficulty.md) [+M] — an instructional effect differs with it
 - [Using the adapted device, a blind student participated fully in laboratory measurement for the first time and reported satisfaction](../claims/blind-student-first-full-measurement-participation.md) [+W] — learners who differ on it differ in outcomes
 - [Unequal access to stylus-enabled writing devices within a group slowed online collaborative discussions](../claims/device-inequality-slows-online-group-discussions.md) [+W] — learners who differ on it differ in outcomes
+- [Under-connectivity limits educational internet use: children with mobile-only access use the internet for interest-driven learning less than those with desktop or laptop access](../claims/under-connectivity-limits-interest-driven-learning.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

@@ -52,3 +52,4 @@ Secondary qualitative finding from the gateway math faculty and student study. T
 - Qualitative interviews identify prior coding interest, time resources, course pacing, and financial constraints as key experiential factors shaping LC101 persistence — related
 - [Students with busy schedules are wary of mandatory services such as orientation and student success courses, but want high quality if services are mandatory](students-wary-of-mandatory-services.md) — related
 - [The main challenge of Wikipedia assignments is the MediaWiki learning curve, making them time-consuming](wikipedia-assignment-mediawiki-learning-curve-challenge.md) — related
+- [Faculty most wanted training on advanced LMS features and automatic grading tools for online instruction](faculty-online-teaching-skill-gaps.md) — related

@@ -53,3 +53,4 @@ Theoretical argument attributed to prior work (citing Redish, Hammer, and others
 - [Student buy-in matters for PER-based pedagogies: explicitly discussing that struggling is integral to learning, and improving students' attitudes and beliefs about physics, supports motivation and learning](student-buy-in-struggle-physics-beliefs.md) — related
 - [What students believe about physics can influence the way they approach learning in their physics course](beliefs-influence-learning-approach.md) — a broader claim this one bears on
 - [About one quarter of physics students treat inertial forces as having the same effects on objects as real forces](inertial-forces-treated-as-real-misconception.md) — related
+- [Students misapply an equal-and-opposite rule, treating any equal and opposite forces as an interaction pair](equal-and-opposite-rule-misidentification.md) — related

@@ -57,3 +57,4 @@ Observational bootstrapped multiple regression analysis of five survey-collected
 - [In Semester 2, no centrality/grade correlations were statistically significant](semester2-no-centrality-grade-correlations.md) — related
 - [Closeness centrality predicts anxiety shift before but not after false-discovery-rate correction, while outdegree remains significant](closeness-significance-false-discovery.md) — related
 - [Gatekeeper brokerage positively predicted problem elaboration but negatively predicted physics grades](gatekeeper-brokerage-elaboration-grades-contrast.md) — related
+- [Survey-based Knowledge Acquisition model correlates with students' final grades (r=0.7) in a Physics II engineering course](ka-model-final-grade-correlation.md) — related

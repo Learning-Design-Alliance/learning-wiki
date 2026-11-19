@@ -67,6 +67,7 @@ Pre questions exploit the pretesting effect: unsuccessful retrieval attempts enh
 - [Instructors can implement QBI by embedding targeted quizzes at strategic lecture points without new technology](qbi-instructor-implementation-strategy.md)
 - [Pre-questioning: teacher and students generate questions and inferences about a passage summary before reading](pre-questioning-strategy-recipe.md)
 - [Use a task-based pre-assessment questionnaire to stream learners by prior experience](pre-assessment-task-questionnaire-streaming.md)
+- [Use short variable tests as a pre-lecture attentiveness and attendance check](short-pre-lecture-attentiveness-attendance-test.md)
 
 ## Examples
 - **Pre-lecture quizzes in large STEM courses** — Instructors using tools like [Perusall](https://www.perusall.com) or LMS quizzes pose questions on assigned reading *before* the lecture covering it; students answer, then the lecture resolves the gaps.

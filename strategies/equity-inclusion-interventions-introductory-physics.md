@@ -51,6 +51,7 @@ The article recommends that physics departments direct equity and inclusion effo
 - [Design classroom contexts that align activity goals and practices with student goals to promote belonging](align-context-goals-practices-belonging.md)
 - [Promote a Growth Mindset](promote_a_growth_mindset.md)
 - [Use brief social-psychological classroom interventions (e.g., belonging and mindset interventions) to raise women's belonging, self-efficacy, confidence and interest in physics](brief-belonging-mindset-interventions-physics.md)
+- [Frame physics as a science that benefits society to boost female students' engagement](frame-physics-as-benefiting-society-strategy.md)
 
 ## Examples
 -

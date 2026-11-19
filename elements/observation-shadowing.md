@@ -81,6 +81,7 @@ Shadowing converts passive observation into an active reproduction attempt, whic
 
 **Coding "follow-along" tutorials (e.g., [freeCodeCamp](https://www.freecodecamp.org))** — Learners watch or read an expert build a program step by step and reproduce each step in their own editor before extending it independently.
 - [Use hands-on practice and immediate feedback in bibliographic instruction for ESL students](../strategies/hands-on-instruction-esl-students.md)
+- [Organize students into collaborative clusters where peers copy better-performing partners](../strategies/collaborative-cluster-peer-copying-strategy.md)
 
 ## Key Sources
 - Bandura, A. (1977). Social learning theory. *Englewood Cliffs, NJ: Prentice Hall.*

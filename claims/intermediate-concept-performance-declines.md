@@ -71,3 +71,4 @@ Repeated measures ANOVA on first law cluster scores across test times in the LBD
 - [LBD middle school physics students show large Newtonian concept gains while a matched comparison class shows gains consistent with zero](lbd-large-newtonian-gains-vs-comparison.md) — related
 - [Neither overgeneralization nor increased cognitive load explanations account for the observed U-shaped declines in Newtonian reasoning](overgeneralization-load-explanations-rejected.md) — related
 - [Students using SURGE NextG's graphing tool show greater pre-post gains on Newtonian relationships than students without it](surge-nextg-grapher-greater-gains-newtonian.md) — related
+- [The validated survey reveals persistent difficulties reasoning with multiple quantities, applying process constraints, and overgeneralizing the second law](stpfasl-difficulties-multiple-quantities-constraints.md) — related

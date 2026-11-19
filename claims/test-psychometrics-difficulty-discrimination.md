@@ -52,3 +52,4 @@ Item analysis of the Fall 2000 post-test for 1170 calculus-based students (α sl
 - [Spanish Math items show well-balanced difficulty and stable strong discrimination across 2024–2025 terms](spanish-math-item-difficulty-discrimination-stable.md) — related
 - [CTT item selection dropped five low-discrimination items, retaining 20 items of moderate difficulty](glat-item-selection-discrimination.md) — related
 - [The QMFPS is reliable and shows good item discrimination for low-stakes assessment](qmfps-reliable-kr20-item-discrimination.md) — related
+- [Point biserial coefficient exceeds the 0.2 criterion for 32 of the 33 STPFaSL items](stpfasl-point-biserial-32-of-33-items.md) — related

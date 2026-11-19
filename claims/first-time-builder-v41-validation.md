@@ -69,3 +69,4 @@ Study 2 qualitative debriefs with the seven first-time builders. The article not
 - [DfA/DfD-informed mechanical redesign of the RSC chassis raised developers' perceived usability from Poor (SUS 59.4) to Excellent (SUS 89.4)](dfa-dfd-redesign-raises-sus-developers.md) — related
 - [The v4.1 redesign achieved tool-free serviceability, with disassembly workload reduction consistent across all measures and disassembly rated near-perfectly easy](tool-free-serviceability-disassembly-ease.md) — related
 - [EVS usability scores above 'good' benchmark but students become more critical of usability when encountering staff competency or testing problems](evs-usability-context-dependent.md) — a broader claim this one bears on
+- [Student assembly of 3D-printed apparatus at the start of the activity fosters a playful, participatory learning process](student-assembly-3d-kits-playful-learning.md) — related

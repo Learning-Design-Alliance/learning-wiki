@@ -48,3 +48,4 @@ This is a definitional/descriptive statement from the article's abstract about h
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](chunking-reduces-working-memory-load.md) — related
 - [For a fixed quantity of information, the mere pace of information presentation can affect learning performance](presentation-pace-affects-learning-performance.md) — related
 - [Two subsets of rational-number CCS items demand working memory capacities of 4 or 5 units respectively](rational-number-item-subsets-capacity-demands.md) — related
+- [Working memory holds only about 3-5 novel data chunks for roughly 30 seconds or less during problem solving](working-memory-3-5-slots-30-seconds.md) — a narrower finding that bears on this claim

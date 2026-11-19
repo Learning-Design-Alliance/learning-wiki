@@ -72,3 +72,4 @@ Argument from the section on instincts: the foundation of education is the equip
 - [Very general skills may be biologically primary and therefore unteachable; claimed general-skills training should be tested with far transfer](general-skills-possibly-primary-unteachable.md) — related
 - [Instinctive tendencies, particularly those evinced in play, already provide efficient machinery for children's acquaintance with the world](instinctive-play-suffices-sensory-acquaintance.md) — a narrower finding that bears on this claim
 - [A positive novice-expert relationship may be a necessary condition for positive paired-teaching outcomes](positive-relationship-necessary-paired-teaching.md) — a narrower finding that bears on this claim
+- [Learning mathematics and physical science is secondary learning that requires effort, unlike instinctive primary learning](primary-versus-secondary-learning.md) — a narrower finding that bears on this claim

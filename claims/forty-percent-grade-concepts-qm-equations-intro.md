@@ -51,3 +51,4 @@ Category from the open-coded written responses on grading considerations: "40% o
 - [TAs' correctness-focused grading views are anchored in their former experiences of being graded on correctness alone](tas-grading-views-anchored-in-prior-experiences.md) — related
 - [TAs who judged the intro physics problems easy often inferred correct understanding in the brief intro solution even when the solution showed no evidence of it](tas-inferred-understanding-brief-intro-solution-without-evidence.md) — related
 - [TAs' grading approaches indicate a subtractive scheme, weighing domain knowledge and correctness in the detailed solution but rarely docking the brief solution for missing justifications](tas-subtractive-grading-scheme.md) — related
+- [First-year physics TAs initially grade mainly on correct application of physics and final answer rather than on explication of the problem-solving process](tas-initially-grade-on-final-answer-not-explication.md) — related

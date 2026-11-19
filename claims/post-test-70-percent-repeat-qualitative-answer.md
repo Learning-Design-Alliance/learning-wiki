@@ -46,3 +46,4 @@ Pre-and-post test in the 2019 graduate class of 10 students (Table 1), administe
 
 ## Related Claims
 - [Graduate quantum mechanics instruction does not improve students' undergraduate-level conceptual understanding as measured by the QMCS](qmcs-no-gain-graduate-course.md) — a broader claim this one bears on
+- [The RSA activity improves mastery of Kepler's laws, with the largest gain on the second law, and improves understanding of gravity assist](rsa-improves-kepler-laws-and-gravity-assist.md) — related

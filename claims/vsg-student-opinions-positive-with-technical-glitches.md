@@ -51,3 +51,4 @@ Secondary outcome: VSG-group students (n = 38) completed an evaluation form afte
 - [Students and teachers expressed predominantly positive opinions about the guides and activities, with time pressure the main teacher criticism](positive-student-teacher-opinions-design.md) — related
 - [Interviewed experimental students overwhelmingly reported liking formative evaluation and improved learning, and no longer feared tests](interviews-students-favor-formative-evaluation.md) — related
 - [All three teachers expressed positive opinions about the CLE and reciprocal peer teaching treatment](cle-peer-teaching-positive-teacher-opinions.md) — related
+- [Trial games with voluntary physics students showed considerably improved understanding of quantum operations and positive feedback](endless-fun-trial-games-improved-understanding.md) — related

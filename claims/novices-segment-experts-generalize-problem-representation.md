@@ -84,3 +84,4 @@ Qualitative analysis of verbatim transcriptions of the novices' blood cell discu
 - [Upper-level quantum mechanics students often categorize problems by surface features rather than solution similarity](qm-students-poor-problem-categorization.md) — related
 - [Analogy functions as a problem-solving process in students' cube-net representation](analogy-problem-solving-cube-nets.md) — related
 - [Students new to physics attribute underlying mechanisms of phenomena to physics and strengthen connections as they experience more of the discipline](novice-students-attribute-mechanisms-to-physics.md) — related
+- [Analogies are double-edged: they can elicit alternative conceptions because students interpret the analog through prior knowledge and preferences](analogies-double-edged-alternative-conceptions.md) — related

@@ -51,3 +51,4 @@ Machine-learning classification experiment on a 2GB in-domain Wikipedia-crawled 
 - [Decision trees achieve competitive accuracy with black-box models (LR, RF, SVM), which performed slightly better but lack interpretability](dt-competitive-with-black-box-classifiers.md) — related
 - [Decision tree classifiers trained on slide interaction features predict end-of-module outcomes with high accuracy across four K-12 programming courses](dt-slide-interaction-features-predict-module-outcomes.md) — related
 - [Students rate pairs of extracted and generated Wikipedia-based explanations as helpful 83.33% of the time, more than either type alone](wikipedia-explanations-both-types-preferred.md) — related
+- [TF-IDF encoded text with a random forest classifier outperformed several strong baselines including LSTM, HAN, CNN and RCNN](tfidf-random-forest-beats-strong-baselines.md) — related

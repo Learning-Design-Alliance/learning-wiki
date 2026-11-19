@@ -49,3 +49,4 @@ Design proposal (type d/e) describing the core game: the class splits into qubit
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [Central quantum concepts are teachable with high-school mathematics on a single qubit](qubit-concepts-high-school-mathematics.md) — related
 - [Students report high enjoyment and perceived usefulness of the quantum mechanics game after a class test](entangle-game-high-acceptance-survey.md) — related
+- [The game builds on the qubit-based card game Q|Cards⟩ by extending it to high-dimensional quantum states and new game modes](endless-fun-extends-qcards.md) — related

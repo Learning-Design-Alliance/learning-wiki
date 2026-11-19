@@ -69,3 +69,4 @@ The authors' interpretation drawn from one year of classroom use at WPI; no meas
 - [Conventional Gibbs vector calculus hinders students' intuitive understanding of physics because vectors do not integrate with basic algebraic operations](gibbs-vectors-limit-student-intuition.md) — related
 - [Undergraduate students learning electromagnetism created their own Maple routines for vector-calculus operators and explored the meaning of the operators by applying them to fields](undergraduates-create-maple-routines-vector-operators.md) — related
 - [Central quantum concepts are teachable with high-school mathematics on a single qubit](qubit-concepts-high-school-mathematics.md) — related
+- [Composer used alongside mathematical expressions helped students reason about the imaginary part of wavefunctions](composer-and-math-support-imaginary-part-reasoning.md) — related

@@ -44,6 +44,7 @@ The article recommends illustrating Fourier optics instruction with computer sim
 
 - [Assign optical correlation mini projects using Vander Lugt and joint-transform correlation](optical-correlation-mini-projects-strategy.md)
 - [Enrich practical sessions with ray-tracing software and 2D CCD cameras, and tutorials with a problem-solving approach](ccd-ray-tracing-problem-solving-future-improvements.md)
+- [Use real-world application examples with Matlab/Simulink simulations to teach transformer behavior](real-world-examples-simulink-transformer-teaching-strategy.md)
 
 ## Examples
 -

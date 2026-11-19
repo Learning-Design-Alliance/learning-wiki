@@ -54,3 +54,4 @@ Within the comparison group on problem 2, self-selected diagram-drawers outscore
 - [Neither prompting nor providing a diagram significantly affected performance on the two-dimensional electric force problem](no-intervention-effect-two-dimensional-problem.md) — related
 - [Within the no-support group, students who drew a diagram and those who did not performed similarly on problem 2](ns-group-drawing-null-difference.md) — related
 - [Students who drew productive diagrams significantly outperformed students who did not on both electrostatics problems, with large effect sizes](productive-diagram-drawers-outperform.md) — reports the opposite
+- [Unprompted diagram detail was not strongly correlated with selecting the correct answer on the Blocks problem, except non-given forces on the block in question](diagram-detail-not-strongly-correlated-correctness.md) — related

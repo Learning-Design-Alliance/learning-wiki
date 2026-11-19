@@ -52,3 +52,4 @@ Exam-level comparison for exam 1: the sections "performed roughly the same on th
 - [The EJS PbI treatment produced no significant advantage over traditional instruction on Newton's 3rd Law post-test items](ejs-pbi-no-significant-newtons-third-law-gain.md) — related
 - [Students from the reformed mechanics class showed both higher accuracy and greater intuitive reconciliation of Newton's third law answers than traditionally taught peers](split-task-reformed-vs-traditional-reconciliation.md) — related
 - [On Newton's Third Law questions specifically, Just-in-Time Teaching students gained 50.8%±4.1% while traditional lecture students gained only 6.6%±5.2%](jitt-newtons-third-law-question-gains.md) — related
+- [Several FCI questions on projectile motion, kinematics and Newton's second law showed negative or negligible gains, indicating poorer post-test performance on unfamiliar scenarios](negative-gains-projectile-kinematics-fci-questions.md) — related

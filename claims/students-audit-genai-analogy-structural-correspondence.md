@@ -50,3 +50,4 @@ Reflexive thematic analysis of think-aloud and interview data from ten CS2-compl
 - [Trust in personalized analogies moved in no single direction, while critical scrutiny tracked domain expertise more consistently than personal interest](trust-mixed-scrutiny-tracks-expertise.md) — related
 - [Educators identify a risk of pedagogical mismatch when generated animations fail to preserve key constraints of the target concept](anvil-pedagogical-mismatch-risk.md) — related
 - [Concrete, outcome-oriented eco-feedback visualizations with real-world analogies are rated more favorably than abstract metrics](concrete-eco-feedback-visualizations-preferred-over-abstract.md) — related
+- [Educational animations carry greater risk of misrepresenting scientific facts, while inspirational pieces are more open to interpretation](astro-animation-educational-animations-misrepresentation-risk.md) — related

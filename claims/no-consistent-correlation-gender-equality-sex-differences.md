@@ -56,3 +56,4 @@ Correlational analysis (Table 3) of sex differences in mathematics and reading a
 - [Sex differences in mathematics tend to be somewhat larger in more gender-equal countries (GGGI coefficient B = 0.921, p = .051), controlling for region](gender-equality-paradox-mathematics-meta-analysis.md) — reports the opposite
 - [Country-level gender inequality is significantly negatively correlated with academic achievement across three PISA cycles, regardless of gender and subject](gii-negative-correlation-country-level.md) — related
 - [Countries whose languages are gendered show larger average gender gaps in mathematics achievement than genderless or gender-neutral language countries](gendered-languages-pisa-maths-gap-correlation.md) — related
+- [The importance of achievement predictors varies with national development in four distinct patterns, with subjective factors most variable](four-patterns-global-variation-achievement-factors.md) — related

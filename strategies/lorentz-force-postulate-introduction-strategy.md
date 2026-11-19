@@ -40,6 +40,7 @@ The article describes the usual introductory treatment: "in an introductory cour
 
 - [Sequence basic field experiments with each Maxwell equation, using the GA master equation as an overview mind map](ga-experiment-sequence-master-equation-mind-map.md)
 - [Teach the integral form of Maxwell's equations as describing field correlations before introducing the differential form](integral-form-as-field-correlations-first.md)
+- [Present Maxwell's equations as enunciative sentences instead of mathematical expressions](maxwell-equations-sentence-form-strategy.md)
 
 ## Examples
 -

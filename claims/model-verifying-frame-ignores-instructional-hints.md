@@ -52,3 +52,4 @@ In-lab video analysis of instructor-student interactions with Ali and Ben during
 - [Six months after the activity, students reflected on shifted framing: Ali learned to explore unexpected data, and Ben learned to base conclusions on the data itself](interview-reflections-shifted-framing.md) — related
 - [48% of graduate students incorrectly claimed Ĥψ=Eψ is the most fundamental equation of QM and resisted verifying it explicitly for superposition states](schrodinger-equation-overgeneralization-graduates.md) — related
 - [Novice AI users showed a Trust-but-Can't-Verify pattern: accepting unfamiliar constructs they could not assess, then symptom-level debugging](trust-but-cant-verify-novices.md) — related
+- [Most lab groups ignored the TA's data-collection instructions, which the authors read as evidence of agency that two non-problematizing groups did not take up](data-collection-agency-ignored-ta-instructions.md) — related

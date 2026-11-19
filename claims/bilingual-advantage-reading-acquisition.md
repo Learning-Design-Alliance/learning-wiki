@@ -56,3 +56,4 @@ The review reports Bialystok et al. (2005)'s finding that bilingual children lea
 - [DLL preschoolers may show a metalinguistic advantage over monolingual peers in grammatical awareness as their language abilities develop](dll-metalinguistic-advantage.md) — related
 - [Phonological awareness and fluency show the largest effect-size relations with reading comprehension among Spanish-speaking children's essential reading components.](pa-fluency-largest-relations-comprehension-spanish.md) — related
 - Most studies of Spanish-speaking children's reading have focused on phonological awareness or alphabetic principle in relation to reading comprehension. — related
+- [Knowledge of two cultures and languages may provide bicultural and bilingual students with more problem-solving strategies, interpersonal skills and self-confidence](biculturalism-problem-solving-benefits-becirovic-2018.md) — related

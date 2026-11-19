@@ -57,3 +57,4 @@ Table II comparisons of FCI performance between female and male students who agr
 - [Mean FCI scores differ significantly between male and female students at a moderate magnitude favoring male students (g = 0.61) across international PER studies](fci-gender-gap-moderate-favoring-males.md) — a broader claim this one bears on
 - [Belief that men generally perform better in physics than women is uncommon among introductory physics students (7%–13% agreement)](gender-stereotype-belief-prevalence-7-13-percent.md) — related
 - [Asking the gender stereotype question before vs. after the FCI produced qualitatively similar trends in calculus-based students](stereotype-question-timing-qualitatively-similar.md) — related
+- [Pre- and post-test FCI scores showed a moderate positive correlation (r = 0.504) overall, with a stronger correlation for male than female students](fci-pre-post-moderate-positive-correlation-uj.md) — related

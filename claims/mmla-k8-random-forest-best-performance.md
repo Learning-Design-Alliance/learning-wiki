@@ -84,3 +84,5 @@ The review reports that Shin et al. (2020) compared logistic regression, support
 - [Ensemble learning models (XGB, RF, Stacking) achieve higher cross-validated accuracy than individual learners (SVM, DT, LR, LDA) in predicting primary school students' academic achievement](ensemble-outperforms-individual-learners-training-accuracy.md) — related
 - [Model results are robust to varying training fraction and number of trees, but the highest-physics-degree factor is only marginally meaningful](hyperparameter-robustness-variable-importance.md) — related
 - [Random forest and support vector machine models also failed to beat chance when predicting laboratory performance, supporting the null result](rf-svm-also-fail-beat-chance-lab-performance.md) — related
+- [TF-IDF encoded text with a random forest classifier outperformed several strong baselines including LSTM, HAN, CNN and RCNN](tfidf-random-forest-beats-strong-baselines.md) — a narrower finding that bears on this claim
+- [A random forest model trained on U.S. PISA data identifies top-decile U.S. science achievers with 71.6% accuracy](us-trained-model-71-6-accuracy-top-decile.md) — related

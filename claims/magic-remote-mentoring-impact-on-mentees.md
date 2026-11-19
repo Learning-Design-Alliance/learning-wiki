@@ -69,3 +69,4 @@ In the same retrospective study, the impact section reports career-awareness out
 - [Skype and Google Hangout were the most popular communication tools for remote mentor-mentee pairs, used by 39% and 21% of pairs respectively](skype-hangout-popular-remote-mentoring-tools.md) — related
 - [Remote-mentored girls completed tangible STEM projects distributed across computation (44%), game/animation/web (36%), and non-programming (20%) categories](remote-mentoring-project-type-distribution.md) — related
 - [Over 20 years the author supervised 65 undergraduates and 44 high school students in variable-star research projects, roughly evenly split by gender and about half visible minorities](percy-65-undergrads-44-high-school-students.md) — related
+- [Mentees' physics and researcher identity shifted from low-level to higher-level over the remote REU program](remote-reu-identity-growth.md) — related

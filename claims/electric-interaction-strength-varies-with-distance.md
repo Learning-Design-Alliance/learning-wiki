@@ -51,3 +51,4 @@ Guanhua's case study showed he reasoned that attraction and repulsion were stron
 - [Students connect magnetic field line knowledge to reason about electric field lines](magnetic-to-electric-field-line-transfer.md) — related
 - [Students express that opposite charges attract and like charges repel across multiple activity sections](opposite-attract-like-repel-student-idea.md) — related
 - [Guanhua developed his understanding of superposition of electric forces during the interview, showing forces act simultaneously](superposition-understanding-developed-in-interview.md) — related
+- [Students systematically overestimated the distance at which a finite line's field resembles an infinite line's and underestimated the distance at which it resembles a point charge's, by up to two orders of magnitude](students-misestimate-line-charge-distances-by-two-orders-of-magnitude.md) — related

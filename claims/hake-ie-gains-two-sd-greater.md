@@ -104,3 +104,4 @@ The article reports (Introduction) Hake's large multi-course survey as backgroun
 - [Initial performance affected post-test scores, but low and high initial performers gained equally in normalized learning gain](klm-fa-learning-gain-initial-performance.md) — related
 - [No meaningful correlation was found between FCI prescore and CLASS shift, or between FCI gain and FCI pretest score](no-correlation-fci-pretest-class-shift.md) — a narrower finding that bears on this claim
 - [EBAE instruction benefits students at all pretest performance levels, with higher gains in every pretest third](ebae-benefits-all-pretest-levels.md) — related
+- [Introductory students show low post-instruction scores and small normalized gains after traditional lecture-based instruction](stpfasl-low-posttest-gains-traditional-instruction.md) — a narrower finding that bears on this claim

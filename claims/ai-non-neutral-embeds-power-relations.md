@@ -85,3 +85,4 @@ Theoretical assertion in the discussion, attributed by the article to Coeckelber
 - DAGs differ from SEMs in that they are non-parametric and make causal assumptions explicit — related
 - [Gender bias in LLM outputs is an emerging ethical concern for nursing education](llm-gender-bias-nursing-education-concern.md) — a narrower finding that bears on this claim
 - [Comparing CALD students to a non-CALD reference group on a scale developed in that reference population raises fundamental validity issues under a critical lens](cald-reference-population-validity-issue.md) — a narrower finding that bears on this claim
+- [Human–AI feedback loops can compound historical biases: simulated predictive policing reinforced bias against Black people at twice the rate of white people](human-ai-feedback-loops-compound-bias.md) — a narrower finding that bears on this claim

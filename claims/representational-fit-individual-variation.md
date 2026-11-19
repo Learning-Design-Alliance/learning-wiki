@@ -63,3 +63,4 @@ Qualitative theme from interview accounts in the same study: some students found
 - [Finding the right visual metaphors was key to students interpreting scientific concepts accurately without being too literal](metaphor-finding-key-art-science-interpretation.md) — related
 - [Productive reflective discussion about teaching is anchored in specific observed practices and in connections between concrete examples and general principles of teaching and learning](contextual-and-conceptual-anchors-productive-reflection.md) — related
 - [Elementary students' internal thinking in geometry involves two types of abstraction: process and product](abstraction-process-product-types.md) — related
+- [Science and dance students lacked a common disciplinary language but successfully bridged the gap using visuals](visuals-bridged-disciplinary-language-gap.md) — related

@@ -84,3 +84,4 @@ Comparison reported in the Results section across the same four-course module-le
 - [The factor-based M5P decision tree is the most computationally efficient classifier in build time among the four evaluated student performance models](factor-based-m5p-most-computationally-efficient.md) — related
 - [A decision tree trained on Sample 2 week-2 data identifies a homework average of 62% as the highest-level threshold for classifying students at risk of a DFW outcome](decision-tree-homework-62-percent-threshold-dfw.md) — related
 - [Gradient boosted trees (xgboost) outperform maximum-likelihood logistic regression at predicting graduating semester by out-of-sample F1-score, except in semesters 15-16](xgboost-outperforms-mle-time-to-graduation.md) — related
+- [A random forest model trained on U.S. PISA data identifies top-decile U.S. science achievers with 71.6% accuracy](us-trained-model-71-6-accuracy-top-decile.md) — related

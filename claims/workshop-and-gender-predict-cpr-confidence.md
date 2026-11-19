@@ -77,3 +77,4 @@ Same regression model predicting CPR confidence; gender was entered with female 
 - [Prior BLS course attendance, prior healthcare certification, and real-life CPR provision are associated with better CPR performance, but observing CPR is not](prior-cpr-experience-associated-performance.md) — related
 - [Training is associated with increased odds of provider confidence, perceived resource availability and perceived support in making sepsis decisions](training-associated-enabling-environment-perceptions.md) — related
 - [Male medical students report higher confidence in anatomy knowledge than female students](male-gender-anatomy-confidence.md) — related
+- [Workshop attendance was predominantly male: 131 male and 34 female attendees, with women 21% of attendance](astrobvi-attendance-gender-21-percent-female.md) — related

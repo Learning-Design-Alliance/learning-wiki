@@ -50,6 +50,7 @@ The authors' forward-looking recommendation for research on online corrective fe
 - [Future research recommendations for Facebook-based writing education studies](facebook-writing-education-future-research-strategy.md)
 - [Integrate online corrective feedback into the teaching and learning of academic writing](integrate-online-corrective-feedback-strategy.md)
 - [Future work: replicate with larger populations and assess retention time of knowledge gained under the two preparation methods](virtual-lab-replication-and-retention-future-work.md)
+- [Encourage daily student blogging as a feedback channel on lessons](daily-student-blogging-feedback.md)
 
 ## Examples
 -

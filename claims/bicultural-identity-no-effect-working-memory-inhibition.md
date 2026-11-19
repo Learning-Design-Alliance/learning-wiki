@@ -50,3 +50,4 @@ In the same moderation analyses of 225 children, identity measures showed no ind
 - [The identity interaction on mixed-trial accuracy held marginally when controlling for language abilities, which themselves did not predict performance](biculturalism-not-bilingualism-explains-flexibility.md) — related
 - [Dot Task accuracy decreased from congruent to incongruent to mixed trials, with condition accuracies positively correlated](dot-task-accuracy-gradient-congruent-incongruent-mixed.md) — related
 - [The link between Turkish identity and mixed-trial accuracy was negative when German identity was low and marginally positive when German identity was high](johnson-neyman-regions-identity-flexibility.md) — related
+- [Knowledge of two cultures and languages may provide bicultural and bilingual students with more problem-solving strategies, interpersonal skills and self-confidence](biculturalism-problem-solving-benefits-becirovic-2018.md) — related

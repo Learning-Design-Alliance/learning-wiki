@@ -50,6 +50,7 @@ The article recommends intervening at students' entry point into physics educati
 - [Offer a STEM-specific pre-college preparation course emphasizing mathematics and effective learning habits, and expose female high-school students to extra-curricular advanced mathematics](stem-specific-preparation-course-strategy.md)
 - [Run a pre-matriculation summer bridge program with an open-ended inquiry curriculum to build community before freshman year](summer-bridge-open-ended-inquiry-community-strategy.md)
 - [Counter-programming in secondary schools to address physics stereotypes and improve women's physics self-efficacy before engineering coursework](secondary-school-counter-programming-physics-self-efficacy.md)
+- [Offer a concepts-focused, prerequisite-free Quantum 101 course as an entry point and recruiting tool](quantum-101-concepts-first-entry-course.md)
 
 ## Examples
 -

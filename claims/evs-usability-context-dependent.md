@@ -52,3 +52,4 @@ SUS usability scale administered as part of the survey; the modified 10-item SUS
 - [The FACTRIA-aware chatbot received good usability ratings (SUS 70.84) and high usefulness ratings from most of the 11 stakeholders](factria-chatbot-usability-sus-70-84.md) — related
 - [93% of students rated usability and control as important to their learning](usability-and-control-rated-important-by-93-percent.md) — related
 - [OLabX received modest System Usability Scale scores across two independent evaluation events (60.8 at ULAC, 65.83 at AUTH)](olabx-sus-scores-two-workshops.md) — related
+- [Students rate teacher support highly, above outreach benchmarks, but teachers alone could not have sustained the projects](prise-teacher-support-and-external-mentoring.md) — related

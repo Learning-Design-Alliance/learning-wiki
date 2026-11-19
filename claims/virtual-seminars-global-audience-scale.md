@@ -48,3 +48,4 @@ Attendance figure reported from the group's Virtual Seminars on Quantum Gravity 
 - [MICA's weekly popular science lectures in Second Life drew typical audiences of about 50-70 avatars](mica-popular-lectures-attendance-50-70-avatars.md) — related
 - [Virtual seminars enable faster dissemination of new research than in-person visits](virtual-seminars-faster-dissemination.md) — related
 - [The program's first teleconferenced academic conference drew 30 attendees, and a straw poll showed residents and faculty were happy with the format and interested in continuing remotely](first-teleconference-30-attendees-straw-poll-positive.md) — related
+- [Alumni participation was higher at the NAC's first virtual conference (16 registrants) than at the 2019 in-person conference (9 registrants)](virtual-nac-conference-higher-alumni-participation.md) — related

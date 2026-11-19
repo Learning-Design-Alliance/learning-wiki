@@ -48,3 +48,4 @@ Analysis of the same 14-student graph pre-test, comparing each student's three g
 ## Related Claims
 - [Students perceive the downward part of a vertical launch and free fall from rest as different cases, with large decreases in correct models](downward-motion-perceived-different-case.md) — related
 - [Sophomore engineering students can draw a correct free fall acceleration model while drawing incorrect position and velocity models for the same motion](memorized-acceleration-model-wrong-position-velocity-graphs.md) — related
+- [Students at all levels struggled drawing kinematics graphs for the cycloid descent: only 𝑥(𝑡) was drawn well by every group, many treated the accelerations as constant, and the 𝑎𝑦 sign flip was rarely recognized](kinematics-graphing-difficulties-brachistochrone.md) — a narrower finding that bears on this claim

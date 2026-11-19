@@ -60,3 +60,4 @@ Numerical comparison of average normalized gain gN (Hake, 1998) across 2007–20
 - [ACI administration diagnosed low teaching effectiveness for action concepts in 2014, with normalized gain improving after the 2015 course redesign](aci-normalized-gain-2014-2015.md) — related
 - [One case-study student who engaged in self-regulated learning improved from 18-24% below the class average on early tests to 6% below by the fourth test, with an FCI normalized gain of 0.70 versus 0.34 for students with similar scientific reasoning scores.](case-study-self-regulated-learner-exceeded-expectations.md) — related
 - [Weekly pre/post questionnaire gains after tutoring sessions were low on the Hake scale despite an improvement](low-hake-gain-weekly-questionnaires.md) — related
+- [The variable-task generation method was tested in a physics course for engineering students and scales from about 30 to about 150 students](variable-test-generator-tested-physics-course.md) — related

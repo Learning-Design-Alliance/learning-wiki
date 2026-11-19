@@ -46,6 +46,7 @@ To optimize retrieval practice, particularly with VSAQs whose initial retrieval 
 ## Related Strategies
 
 - [Run at least two formative VSAQ occasions rather than lengthening a single occasion, and have teachers review self-marked answers after each session](multiple-occasions-vsaq-formative-strategy.md)
+- [Use Single and Multiple Choice variable tests as a repeated-practice simulator and for individualized review tests](variable-test-simulator-repeated-practice.md)
 
 ## Examples
 -

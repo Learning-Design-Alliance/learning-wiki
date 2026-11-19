@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2014
+source_checked: 2026-11-19
 sources:
   - id: andreas-lieberoth-2014
     resource: "https://doi.org/10.15346/hc.v1i2.11"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` An emerging pattern from over 300,000 play trajectories suggests human optimization is superior to the computer in many problem spaces, and the fraction of players outperforming the computer appears large; whether success comes from fluke, skill, or theoretical understanding remains open. [→ Andreas Lieberoth 2014](#andreas-lieberoth-2014)

@@ -63,3 +63,4 @@ Descriptive analysis of an anonymous Qualtrics survey of 66 students (19 pre-cli
 - [The 2019 BPDM workshop was followed by increases in participants' sense of identity, belonging, and team community](bpdm-2019-identity-belonging-team-increase.md) — related
 - [After the Capstone event, most student participants believed they were part of a community of scientists (93%) and advancing science (97%)](psc-capstone-community-of-scientists-beliefs.md) — related
 - [In one woman's interview account, recognition from a peer teaching assistant and from the students she later taught as a peer teacher improved her sense of belonging and self-efficacy in physics-adjacent courses](recognition-boosts-belonging-self-efficacy-women-physics.md) — related
+- [Nearly all students reported a better sense of which outreach product types suit them personally, though three did not feel confident designing and implementing products](better-sense-of-suitable-outreach-formats.md) — related

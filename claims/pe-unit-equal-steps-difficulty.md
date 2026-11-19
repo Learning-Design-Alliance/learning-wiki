@@ -49,3 +49,4 @@ Definitional statement in the section on the probability curve: the P.E. represe
 - [Intermedian grade distances on the scientific-thinking scale are derived from the per cent of each grade's pupils lying between successive grade medians](intermedian-distances-from-score-distributions.md) — related
 - [Question E was answered by all 27 high-school pupils, establishing a zero-difficulty reference 2.191 units below the median](question-e-zero-difficulty-anchor.md) — related
 - [The zero point of the scale is located from the zero-scoring pupils, giving a weighted average distance O-MIII of 1.654 P.E.](zero-location-from-zero-scorers.md) — a narrower finding that bears on this claim
+- [Analytical derivation sets the desirable score distribution to a normal distribution with mean 70 and standard deviation 15 to achieve excellent distinguishability](desirable-score-distribution-mean-70-sd-15.md) — related

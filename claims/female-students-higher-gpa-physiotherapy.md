@@ -61,3 +61,4 @@ Independent t-test comparison of GPA between female (n = 187) and male (n = 69) 
 - [Female students earn lower grades than equivalently prepared male counterparts in most courses studied (β −0.021 to −0.133; up to 0.303 grade points lower)](gender-gap-upper-level-life-science-courses.md) — related
 - [Overachievers (low SAT, high upper GPA) are disproportionately female (64%) and underachievers disproportionately male (79%)](overachievers-female-underachievers-male.md) — related
 - [Sample 1 female students earned somewhat higher course grades than male students despite lower FCI scores](fci-female-course-grades-higher.md) — related
+- [Male and female students earn statistically indistinguishable graduate GPAs despite a statistically significant 30-point percentile gap in GRE-P scores between genders](gender-grep-gap-no-ggpa-gap.md) — related

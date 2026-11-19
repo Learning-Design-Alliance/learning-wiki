@@ -64,6 +64,7 @@ The report recommends seven "evidence-based approaches for resolving teacher sho
 - [Invest in retention of teachers of color through residencies, affinity groups, and induction/mentoring](retain-teachers-of-color-residencies-affinity-mentoring.md)
 - [Federal policy levers for an equitable pathways system: funding, mandates, certification, research, and data systems](federal-pathways-policy-levers.md)
 - [Institutional, state, and federal actions to increase faculty diversity](institutional-state-federal-faculty-diversity-actions.md)
+- [Educator and leadership actions to address inequitable AP STEM offerings: advocacy, recruitment, dual enrollment, and funded leadership review](educator-actions-ap-stem-equity-strategy.md)
 
 ## Examples
 -

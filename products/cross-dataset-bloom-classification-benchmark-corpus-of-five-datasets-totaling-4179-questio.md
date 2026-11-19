@@ -20,6 +20,7 @@ A benchmark corpus assembled by Abdolali Faraji et al. from five Bloom-taxonomy-
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Two open-domain Bloom's taxonomy question datasets (600 and 141 questions)**: The article evaluates on two open-domain datasets of annotated open-ended questions labelled into six Bloom cognitive levels: a first dataset "which comprises 600 open-ended questions" proposed by Yahya et al. (2012), and a second compiled from websites, publications and prior research containing 141 questions. Questions come from varied fields including chemical, literature, biological, artistic and computer science domains. Dataset1 serves as IID training/evaluation data and Dataset2 as OOD evaluation data. (Abdul Waheed et al. (2021))
 
 ### Claims
 
@@ -32,3 +33,4 @@ A benchmark corpus assembled by Abdolali Faraji et al. from five Bloom-taxonomy-
 
 ## Key Sources
 - Abdolali Faraji, Mohammadreza Molavi, Zohreh Rasoulkhani, Mohammadreza Tavakoli, and Gábor Kismihók. (2026). Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs. https://arxiv.org/abs/2606.13684
+- Abdul Waheed, Muskan Goyal, Nimisha Mittal, Deepak Gupta, Ashish Khanna, Moolchand Sharma. (2021). BloomNet: A Robust Transformer based model for Bloom's Learning Outcome Classification. arXiv. https://arxiv.org/abs/2108.07249

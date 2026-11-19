@@ -70,3 +70,7 @@ The review reports the 3-year longitudinal comparison of PRiSE participants agai
 - [A longitudinal small-group EBM intervention improved medical students' overall attitudes and skills scores across three assessment points over 15 months](longitudinal-small-group-attitudes-skills-gains.md) — related
 - [Synectics workshops significantly increase perceived teamwork skills immediately after training, with gains retained three months later](synectics-improves-teamwork-skills-retained.md) — related
 - [A case-based e-learning course on patient safety significantly increased medical students' technical knowledge, and the gains persisted one year later](elpas-knowledge-gains-retained-one-year.md) — related
+- [PRiSE participation moderately increases physics aspirations and confirms or maintains already-high STEM aspirations, with 80 ± 8% of students reporting positive influence](prise-aspirations-physics-stem.md) — related
+- [Three years after participating, PRiSE students report lasting beneficial experiences they draw upon in subsequent education](prise-lasting-legacy-three-years.md) — a narrower finding that bears on this claim
+- [PRiSE students undertake physics and STEM degrees at significantly higher rates than national statistics for A-Level physics students](prise-physics-stem-degree-destinations.md) — a narrower finding that bears on this claim
+- [After 6-month PRiSE projects, students' confidence in relevant scientific topics and methods substantially and statistically significantly increases](prise-student-confidence-increases.md) — related

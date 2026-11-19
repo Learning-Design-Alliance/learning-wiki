@@ -46,4 +46,4 @@ Authors' interpretation and outlook in the conclusions section, not a tested res
 
 
 ## Related Claims
--
+- [A voluntary questionnaire showed a tendency of up to 70% of girls toward care-type professions](girls-questionnaire-care-type-professions-tendency.md) — related

@@ -50,3 +50,4 @@ Cross-validation comparison of neural network models with and without wLDA and o
 - [Where labelled training data is limited, adding hand-crafted features improves the performance of neural text evaluation models](handcrafted-features-improve-neural-low-resource.md) — a broader claim this one bears on
 - [Retraining a logistic regression classifier on classroom discussions with wLDA features plus online dialogue features achieves the best kappa overall](wlda-plus-online-dialogue-features-best-kappa.md) — related
 - [A pre-trained essay argument mining system (wLDA) performs poorly when applied off-the-shelf to classroom discussions, performing comparably to a majority baseline](pretrained-essay-argument-miner-poor-on-classroom-discussions.md) — related
+- [Attention-based neural classifiers outperformed vanilla neural models on Bloom's taxonomy question classification](attention-models-beat-vanilla-neural-baselines.md) — related

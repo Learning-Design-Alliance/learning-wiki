@@ -45,7 +45,8 @@ Based on the finding that acknowledging technological applications is not enough
 - [Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application](../claims/students-want-curricular-relevance-and-life-skills.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use analogies to everyday phenomena when teaching advanced physics concepts to high school students](everyday-analogies-for-advanced-physics.md)
 
 ## Examples
 -

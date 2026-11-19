@@ -67,3 +67,4 @@ Analysis of a single cohort of 315 undergraduate electrical engineering students
 - [Gendered performance differences are small and variable in STEM lab courses, unlike their closely related lecture courses](gpd-absent-stem-labs.md) — related
 - [MIT mechanical engineering reached near gender parity (49.5% women in 2017) through deliberate structural interventions including recruitment programs, hiring women faculty, and curriculum modernization](mit-mechanical-engineering-gender-parity-interventions.md) — related
 - [Women earn higher grades than men in foundational mathematics, engineering, and chemistry courses, while men earn higher grades only in the two introductory physics courses](grade-gender-differences-vary-by-discipline.md) — reports the opposite
+- [The variable-task generation method was tested in a physics course for engineering students and scales from about 30 to about 150 students](variable-test-generator-tested-physics-course.md) — related

@@ -43,7 +43,8 @@ Table 2 lists the authors' "10 top tips" for course preparation and delivery, in
 - [Virtual surgical skills teaching significantly improved students' perceptions of supervision, view of demonstrations and interaction with instructors](../claims/virtual-skills-teaching-improved-perceptions.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Inclusive virtual course delivery: record everything, subtitle videos, schedule around participants' calendars, monitor participation, and diversify speakers](inclusive-virtual-astronomy-course-delivery-strategy.md)
 
 ## Examples
 -

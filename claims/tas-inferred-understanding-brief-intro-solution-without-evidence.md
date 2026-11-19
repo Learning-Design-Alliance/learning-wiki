@@ -53,3 +53,4 @@ Analysis of written responses, class discussions and interviews: TAs "who though
 - [TAs' stated reasons for grading SSE included inadequate evidence, quiz time limitations, and aesthetics](tas-reasons-for-grading-brief-solution-evidence-time-aesthetics.md) — related
 - [TAs' correctness-focused grading views are anchored in their former experiences of being graded on correctness alone](tas-grading-views-anchored-in-prior-experiences.md) — related
 - [Two-thirds of the TAs stated they would grade QM and intro physics solutions using different criteria](two-thirds-tas-stated-different-criteria-intro-qm.md) — related
+- [First-year physics TAs initially grade mainly on correct application of physics and final answer rather than on explication of the problem-solving process](tas-initially-grade-on-final-answer-not-explication.md) — related

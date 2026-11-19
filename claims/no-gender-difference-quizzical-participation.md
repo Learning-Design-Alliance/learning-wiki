@@ -59,3 +59,4 @@ Comparison of Quizzical participation between male and female students across bo
 - [No gender gap appeared on the multiple-choice final exam, which included both conceptual and quantitative questions on similar topics](no-gender-gap-final-exam.md) — related
 - [In physics courses, gendered performance differences arise from timed exam scores, while female students modestly outperform males on homework and in-class response credit](exam-performance-source-of-gpd.md) — related
 - [Mechanics courses were a partial exception: some identical-question scores were significantly lower in flipped classes and the gender gap was generally not improved there](mechanics-flipped-outlier.md) — related
+- [In FA20, first-generation students had significantly lower overall course scores but not exam or quiz scores, and female students had significantly lower exam scores than male students, neither difference observed in FA19.](first-gen-female-score-gaps-fa20-only.md) — related

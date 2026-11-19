@@ -49,3 +49,4 @@ Figure 2 summarizes survey responses on reasons why faculty members are unwillin
 - [Engineering faculty report reluctant engagement with GenAI, concerns about cognitive offloading, and frustration with uncoordinated institutional policy](faculty-reluctant-engagement-genai.md) — related
 - [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - [Programs cite lack of funding, limited simulation lab or equipment access, and lack of faculty expertise or availability as barriers to simulation implementation](simulation-barriers-funding-faculty-expertise.md) — related
+- [Expert annotation of learning outcome similarity is expensive and learning outcomes are often not publicly available](expert-annotation-of-learning-outcomes-is-expensive.md) — related

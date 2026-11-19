@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2012
+source_checked: 2026-11-19
 recheck_by: 2017
 sources:
   - id: di-renzone-s-2012
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: baselines and conditions change
+> **Currency** · newest study 2012 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2017**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Despite excellent boundary conditions and motivated, talented students, the laboratory instructors encountered learning problems on fundamental topics related to proper data collection and use. [→ Di Renzone S. 2012](#di-renzone-s-2012)
@@ -52,3 +53,4 @@ Qualitative report from the authors' optional extracurricular laboratory with fe
 - [Even districts with consistent curriculum use encountered persistent equity access gaps for multilingual learners and students with learning differences](consistent-hqim-use-does-not-guarantee-equitable-access.md) — related
 - [Students in the wave-physics learning path were adept with devices and simple measurements but showed difficulty handling open-ended experimental situations and home tasks](open-situations-difficulty-wave-lab-students.md) — related
 - [Most students chose to re-analyse existing data rather than collect their own for final projects](students-reanalyse-existing-data-final-projects.md) — related
+- [Through Lab2Go, students learned to run an experiment, collect and analyse data, estimate experimental errors and compile a laboratory report](lab2go-students-experimental-skills.md) — related

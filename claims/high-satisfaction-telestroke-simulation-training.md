@@ -51,3 +51,4 @@ Self-reported satisfaction ratings on a 0-to-5 scale collected from the 225 trai
 - [Participants rated RCDP training positively: 95.7% responded, 97% agreed the theme was important for daily practice, and 78% judged repetition more effective than traditional simulation](positive-learner-reaction-to-rcdp-pediatric-cpr-training.md) — related
 - [Participants approved the simulation-based laparoscopic training program at very high rates, with module ratings of excellent or very good for all respondents](high-satisfaction-simulation-laparoscopic-program.md) — related
 - [Fourth-year medical students rated the interdisciplinary simulation system 'excellent' on a modified SUS (mean 80.77)](sus-80-77-interdisciplinary-simulation-system.md) — related
+- [PhD students in the outreach training programme rated expert feedback as the most useful training phase, and every phase except After-Session Tasks was found useful](expert-feedback-most-useful-training-phase.md) — related

@@ -59,3 +59,5 @@ Pre/post survey administration by teachers across the five terms (217 responses 
 - [UAT alumni report increased research interest and self-knowledge, and 91% of alumni with known status pursue STEM careers](uat-alumni-outcomes-interest-and-stem-retention.md) — related
 - [Students oriented toward STEM careers show more positive science attitudes, with non-STEM-intending students least positively impacted and astronomy/physics-career students most](astro-attitude-correlates-stem-career-orientation.md) — related
 - [Post-video soft matter interest and its growth differed by major: chemical and bio-engineering students were most interested, physical engineering students showed the largest improvement](soft-matter-interest-gains-vary-by-major.md) — related
+- [Every surveyed NAC student reported that peer support made them feel more comfortable in STEM despite rarely encountering career scientists of similar race or ethnicity](nac-peer-support-comfort-in-stem.md) — related
+- [Most mentees left the remote REU with clearer career goals and better understanding of research work](remote-reu-career-clarity-gains.md) — related

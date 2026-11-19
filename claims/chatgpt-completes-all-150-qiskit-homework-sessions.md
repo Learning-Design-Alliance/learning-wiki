@@ -52,3 +52,4 @@ Repeated fixed-instance trial series: for each of three AI-deterrence-modified Q
 - [In the pilot workshop, the LLM unreliably produced fill-in-the-blank snippets, often returning complete code solutions instead](pilot-llm-unreliable-fill-in-blank.md) — related
 - [Assessments requiring novelty and originality were more resilient to AI-generated output](novelty-requiring-assessments-more-resilient-to-genai.md) — related
 - [Visual media assessments (posters, presentations) were not passable because ChatGPT could not produce complete slides or poster content](visual-media-assessments-not-passable-by-chatgpt.md) — related
+- [Qiskit-based exercises agree with theoretical predictions and support introducing quantum computing to undergraduates](qiskit-agrees-with-theory-classroom-effectiveness.md) — related

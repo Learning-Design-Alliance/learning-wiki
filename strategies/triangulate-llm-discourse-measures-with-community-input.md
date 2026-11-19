@@ -45,6 +45,7 @@ The article recommends that scholars using LLM-based discourse measures "triangu
 - [Use LLM persona simulation only for preliminary experimentation, stress testing, and hypothesis generation, with separate validation for consequential applications](persona-simulation-preliminary-use-only.md)
 - [Engage community constituents through multiple input methods as the first step in POG development](community-engagement-first-step-pog.md)
 - [Involve key stakeholders directly in defining privacy and designing LA systems](stakeholder-involvement-defining-privacy-la.md)
+- [Engage both data professionals and teaching professionals, and involve students, in LA data use](engage-data-and-teaching-professionals-involve-students.md)
 
 ## Examples
 -

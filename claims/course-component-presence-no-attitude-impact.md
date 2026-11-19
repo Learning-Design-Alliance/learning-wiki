@@ -66,3 +66,4 @@ Subset regressions for each remaining component on the 749-respondent sample, ad
 ## Related Claims
 - [Perceived helpfulness of Skynet-based telescope labs is positively correlated with science attitudes, while other lab components show no significant impact](skynet-lab-helpfulness-correlated-attitude.md) — related
 - [Perceived helpfulness of in-class lectures is positively correlated with science attitudes, while the instructor-attitude correlation disappears in that subset](lecture-helpfulness-correlated-attitude.md) — related
+- [In a preliminary exploratory study across ten institutions, Skynet-based observing experiences were one of only two course components that led to a statistically significant improvement in STEM attitudes once expected grade and career plans were controlled for](skynet-observing-significant-stem-attitude-improvement.md) — reports the opposite

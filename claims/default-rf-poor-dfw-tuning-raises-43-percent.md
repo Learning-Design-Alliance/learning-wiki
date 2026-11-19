@@ -70,3 +70,4 @@ Threshold-tuned Sample 1 model balancing DFW accuracy and precision. The article
 - [Downsampling improved minority-outcome sensitivity but was not adopted by the optimized classifier, and upsampling was ineffective](resampling-effects-physics-grade-classifier.md) — related
 - [A random forest restricted to the variable set available for Sample 3 performed more weakly, with DFW accuracy reduced by 7%, indicating richer institutional data improves classification](restricted-variable-set-reduces-dfw-accuracy-7-percent.md) — related
 - [Classification accuracy of the optimized physics-grade model varies across demographic subgroups](subgroup-variation-physics-grade-classification.md) — related
+- [A random forest model trained on U.S. PISA data identifies top-decile U.S. science achievers with 71.6% accuracy](us-trained-model-71-6-accuracy-top-decile.md) — related

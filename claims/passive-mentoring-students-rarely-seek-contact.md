@@ -47,3 +47,4 @@ Weekly mentoring logs from the randomized trial of 46 students. "Only one out of
 ## Related Claims
 - [Active mentoring did not significantly increase self-reflection or introspection compared with passive mentoring over an 8-week rotation](active-mentoring-no-effect-self-reflection-fyms.md) — related
 - [Summer support take-up required active outreach; only 2% of informed control students sought help](active-outreach-needed-for-summer-support-takeup.md) — related
+- [Daily Slack contact plus regular Zoom mentoring sustains school research activities independently of region](tan-q-online-mentoring-sustainability.md) — related

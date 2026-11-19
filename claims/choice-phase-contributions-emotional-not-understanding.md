@@ -67,3 +67,5 @@ Coding of the same interview corpus found no choice-phase excerpts coded with ne
 - [During project execution, participants' ownership conceptions spanned all three interaction categories: contributions, new understanding, and emotional responses](execution-phase-all-three-interactions.md) — related
 - [During synthesis, student conceptions of ownership spanned all three interaction categories, whereas instructors' conceptions focused only on the choice and execution phases](synthesis-phase-students-but-not-instructors.md) — related
 - [In interviews at five institutions, every interaction category and every project phase of the ownership model was identified in a majority of participant transcripts](ownership-model-maps-majority-transcripts.md) — related
+- [During the choice phase of multi-week lab projects, students describe developing domain and managerial knowledge about the project](choice-phase-domain-managerial-knowledge.md) — reports the opposite
+- [Students' sense of ownership can entail their own new knowledge about the nature of science](ownership-entails-nature-of-science-knowledge.md) — related

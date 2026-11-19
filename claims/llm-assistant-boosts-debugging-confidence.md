@@ -57,3 +57,4 @@ Interview data from the single-participant case study. Daniel agreed the assista
 - [Combining AI-generated information with teacher intervention is associated with improved student performance, participation, confidence, and reduced anxiety in K-12 AI-based instruction](ai-plus-teacher-intervention-student-benefits.md) — related
 - [An LLM debugging assistant provides accurate, detailed descriptions of circuit components and their proper connections](llm-provides-accurate-hardware-information.md) — related
 - [LLM-assisted hardware debugging requires consistent human feedback because the LLM's understanding of the circuit drifts](llm-debugging-requires-consistent-human-feedback.md) — related
+- [Subjects estimated that debugging with Eye reduces frustration by 61.43% on average](eye-survey-frustration-reduction.md) — related

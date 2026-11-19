@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 103 claims (62 for, 37 mixed, 4 against) · 82 studies (42 causal, 11 quant-synthesis, 9 review, 8 associational, 6 theoretical, 3 qualitative, 3 design), `q1`–`q4` · 16 of 82 report an effect size · 95 claims rest on one study
+> **Evidence** · 104 claims (62 for, 38 mixed, 4 against) · 83 studies (43 causal, 11 quant-synthesis, 9 review, 8 associational, 6 theoretical, 3 qualitative, 3 design), `q1`–`q4` · 16 of 83 report an effect size · 96 claims rest on one study
 
 ## Conditional relationship
 
@@ -184,6 +184,7 @@ Claims read against the model on 2026-10-19 that do not change it. Each says why
 - [Limiting each EWAPS presentation to about three minutes followed by a twelve-minute discussion reduced the lecture-centred approach and promoted dialogue and critical reflection](../claims/short-presentation-long-discussion-cme-format.md) [+W] — attached 2026-11-10 from Dionyssopoulos A et al. (2014), which proposed "Design CME as small-group, learner-centred events with a supportive friendly context, minimal lecturing, problem-based interaction and hands-on skills workshops"; tests this page's relationship.
 - [Problem-based presentation axes such as Cry for help and My worst experience promote interaction, prior-knowledge recall and creative problem solving](../claims/problem-based-presentation-axes-promote-interaction.md) [+W] — attached 2026-11-10 from Dionyssopoulos A et al. (2014), which proposed "Design CME as small-group, learner-centred events with a supportive friendly context, minimal lecturing, problem-based interaction and hands-on skills workshops".
 - [Algebra-based FCI normalized gain reaches the interactive-engagement region (0.36) only when RT labs plus recitations are combined with PER-informed lecture instruction](../claims/combined-rt-labs-perl-lecture-ie-region-fci.md) [+W] — attached 2026-11-17 from Beth Thacker et al. (2012), which proposed "Reform gains are largest when PER-informed instruction is implemented in the lecture as well as in labs and recitations"; tests this page's relationship.
+- [Participants on the AI-tutored problem-solving platform (Platform B) achieved raw learning gains 70.43% higher than participants on the traditional video-and-quiz platform (Platform A) in a 3-hour linear regression course](../claims/platform-b-higher-raw-learning-gains.md) [~W] — attached 2026-11-19 from Comparative Study of Learning Outcomes for Online Learning Platforms, which proposed "Design online courses so that the majority of study time is spent on active problem-solving rather than passive video watching and reading".
 
 ## Objective and learner-valued goal
 

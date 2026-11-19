@@ -50,3 +50,4 @@ Observational comparison of attempt counts by gender in the 1315-student cohort,
 - [Intubation success rates increase and intubation times decrease across successive attempts for both DL and VL methods](success-rises-times-fall-across-attempts.md) — related
 - [ECG quiz scores and final ECG examination scores do not differ between female and male medical students](no-gender-difference-ecg-quiz-final-scores.md) — related
 - [Time spent on successive assessment tasks decreased sharply within each peer assessment meeting](assessment-phase-time-decreased-across-meetings.md) — related
+- [Spending longer on puzzle 11 predicts successful completion of puzzle 17](longer-time-puzzle-11-predicts-puzzle-17-completion.md) — related

@@ -50,3 +50,5 @@ Item Response Curves for three PIQL v2.2 items (Fig. 3) show fraction choosing e
 - [The ranking of incorrect FCI answer choices comes from item response curves relating answer choice selection to total score as a proxy for understanding](irc-ranking-of-incorrect-answers.md) — related
 - [Dichotomously scored PIQL results indicate only a very modest improvement in students' quantitative reasoning from introductory physics instruction](piql-dichotomous-scoring-modest-improvement.md) — related
 - [Four-level MCMR scoring reveals that at least 60% of students provide at least one correct response to each MCMR item, often coupled with an incorrect response](mcmr-four-level-scoring-nuance.md) — related
+- [Quantitative IRC dot product comparison reveals differences (e.g., item 21, item 38) that qualitative visual comparison missed, revising which items IDW highlighted](dot-product-reveals-non-salient-irc-differences.md) — related
+- [Online-related decreases in MCMR difficulty arise from students choosing incorrect responses in addition to correct ones, not from choosing no correct responses](mcmr-online-decrease-mixed-correct-incorrect-selection.md) — related

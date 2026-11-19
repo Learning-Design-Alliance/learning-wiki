@@ -72,3 +72,4 @@ Same questionnaire, question 2 (element outside the pipe): "aproximadamente dos 
 - [Students commonly apply Bernoulli's equation between points where one point is in a fluid at rest](bernoulli-applied-to-rest-point.md) — related
 - [Students can hold contradictory patterns of association simultaneously when no motivation, logic, or experimental evidence forces a choice](contradictory-patterns-held-simultaneously.md) — related
 - [After instruction on ideal-fluid dynamics, many students extrapolate the idea that higher speed implies lower pressure to contexts where it is not valid](students-extrapolate-higher-speed-lower-pressure.md) — related
+- [The variable-task generation method was tested in a physics course for engineering students and scales from about 30 to about 150 students](variable-test-generator-tested-physics-course.md) — related

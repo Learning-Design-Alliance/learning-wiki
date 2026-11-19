@@ -63,6 +63,7 @@ Formative loops work because they surface misconceptions while they are still co
 - [Action-Oriented Feedback](action-oriented-feedback.md) — the feedback step of the loop must specify next moves to close the gap
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the first loop often serves as a diagnostic for what learners already hold, including misconceptions
 - [Collect early objective and subjective program feedback](collect-early-objective-and-subjective-feedback.md)
+- [Collect pre- and post-surveys plus educator post-mortem sessions to evaluate and improve each training event](pre-post-surveys-and-educator-post-mortem-strategy.md)
 
 ## Examples
 - **Dylan Wiliam's "hinge questions"** — a single multiple-choice question mid-lesson, with each distractor mapped to a specific misconception and a pre-planned reteaching route; the whole class's response set determines the next five minutes.

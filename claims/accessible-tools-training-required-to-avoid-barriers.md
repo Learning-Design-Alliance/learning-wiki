@@ -47,3 +47,4 @@ The authors' argued position in the article's discussion section, not a tested r
 ## Related Claims
 - [Faculty adoption of GenAI is widespread but instructional confidence remains low, so adoption prevalence should not be misread as instructional readiness](ai-adoption-exceeds-faculty-instructional-confidence.md) — related
 - [A didactic pedagogical approach to MECC TtT and MECC training limits accessibility, particularly for participants outside health care settings](didactic-pedagogy-limits-ttt-accessibility.md) — related
+- [The author argues that machine learning foundations should be part of the standard Physics curriculum because they are becoming standard research tools and build transferable career skills.](ml-foundations-standard-physics-curriculum.md) — related

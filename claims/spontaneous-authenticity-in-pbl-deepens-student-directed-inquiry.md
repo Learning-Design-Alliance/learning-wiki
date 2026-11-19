@@ -82,3 +82,4 @@ This is a single, deeply documented case study (Portraiture methodology, which p
 - [Students and teachers reported a need to balance student-directed inquiry with teacher-directed instruction when using the simulation](fgd-balance-student-inquiry-teacher-instruction.md) — related
 - [Major student-driven creative projects are widely used in complex systems coursework and were reported as successful and popular with students](student-led-creative-projects-widespread-successful.md) — related
 - [Students spontaneously applied problem-solving strategies to new scenarios or in new ways after being introduced to them](spontaneous-strategy-transfer-new-scenarios.md) — related
+- [Testimonials collected from teachers and students indicate Lab2Go supported teachers in deepening curriculum topics and introducing others not planned by the school programme](lab2go-testimonials-teacher-support.md) — related

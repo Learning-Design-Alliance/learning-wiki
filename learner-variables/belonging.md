@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 154 claims (108 show a difference, 33 mixed, 13 no difference) · 110 studies (27 review, 25 associational, 19 causal, 19 qualitative, 9 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 9 of 110 report an effect size · 149 claims rest on one study
+> **Evidence** · 157 claims (111 show a difference, 33 mixed, 13 no difference) · 112 studies (27 review, 25 associational, 20 causal, 20 qualitative, 9 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 9 of 112 report an effect size · 152 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -191,6 +191,9 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [In one woman's interview account, recognition from a peer teaching assistant and from the students she later taught as a peer teacher improved her sense of belonging and self-efficacy in physics-adjacent courses](../claims/recognition-boosts-belonging-self-efficacy-women-physics.md) [+W] — measured as an outcome of the instruction studied
 - [Sense of belonging is the largest predictor of post-course physics self-efficacy, and belonging uniquely explains substantial variance in self-efficacy](../claims/belonging-largest-predictor-post-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
 - [Female students experienced distinctive outreach benefits: external recognition was more impactful for them, and their sense of belonging was linked to representation and peer interactions](../claims/outreach-female-students-recognition-belonging.md) [+M] — measured as an outcome of the instruction studied
+- [In a randomized between-subject experiment, MOOC learners using PeerCollab reported significantly higher sense of belonging on all six scale items than learners using the standard MOOC forum.](../claims/peercollab-higher-sense-of-belonging-than-forum.md) [+M] — measured as an outcome of the instruction studied
+- [Mentees' sense of belonging grew out of community and social interactions and from scientific contribution](../claims/belonging-from-interaction-and-contribution.md) [+M] — measured as an outcome of the instruction studied
+- [Remote REU mentees reported higher-level sense of belonging by the end of the program than at the beginning of the summer](../claims/remote-reu-mentees-belonging-growth.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

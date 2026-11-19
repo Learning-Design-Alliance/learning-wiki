@@ -51,3 +51,4 @@ Descriptive comparison of final letter grade distribution across the three secti
 - [No statistically significant differences among the three sections on mid-term exam, online journal entries, or combined totals](no-significant-difference-midterm-journal-combined.md) — related
 - [No significant difference in final examination scores between online and hybrid students](no-significant-difference-final-examination.md) — related
 - [Hybrid-section students earned significantly fewer extra-credit points, and attendance correlated with total points across the cohort](engagement-measures-extra-credit-attendance.md) — related
+- [Students in the MPL and online-assessment semester earned higher letter grades than students in the previous semester of the same course](mpl-online-assessment-higher-grades-covid-semester.md) — related

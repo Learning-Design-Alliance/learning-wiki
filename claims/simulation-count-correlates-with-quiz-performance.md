@@ -50,3 +50,4 @@ Author's interpretation section (§5) drawing on the protocol counts and quiz re
 - [Greater practice-quiz use correlated with better knowledge-test scores, while more summative test attempts correlated with worse scores](practice-quiz-use-correlates-with-knowledge.md) — related
 - [Student engagement (SCEQ) correlated positively with theoretical test scores in both cohorts](sceq-correlates-theoretical-scores-both-cohorts.md) — related
 - [Constant algorithm changes to Google Trends and Google Correlate prevent replication of results, and search-behaviour correlations carry causation and sampling caveats](google-correlate-replicability-caveats.md) — related
+- [On Platform B, exercise performance and completion correlate with learning gains and post-quiz scores](exercise-behavior-correlates-with-gains.md) — related

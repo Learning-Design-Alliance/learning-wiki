@@ -70,3 +70,4 @@ The commentary reports, citing a 2023 Nature Communications study, that brain im
 - [Rapid-guessing behavior can distort test scores and adversely affect measurement](rapid-guessing-distorts-test-scores-and-measurement.md) — related
 - [Rapid guesses on computer-based tests reflect a construct-irrelevant response process rather than the tested knowledge, skills, and abilities](rapid-guessing-construct-irrelevant-response-process.md) — related
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related
+- [Student model misspecification in mastery learning can systematically disadvantage slower learners, even with separate models for fast and slow learners](model-misspecification-disadvantages-slower-learners.md) — related

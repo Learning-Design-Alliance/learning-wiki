@@ -49,3 +49,4 @@ The article reports ROSE (Relevance in Science Education) findings that "astrono
 - [Including astronomy topics improves science literacy and specific competencies, with many effect sizes of 0.8 or larger](astronomy-inclusion-improves-science-literacy.md) — related
 - [Embedding gravitational-wave science across a year-long astronomy curriculum gave coherence to previously disconnected units and motivated students](grav-wave-theme-coheres-curriculum.md) — related
 - [About 50,000 people in Europe saw live Planeterrella demonstrations of auroral formation within five years, via nine Planeterrellas in four countries](planeterrella-50000-viewers-five-years.md) — related
+- [Brazilian students' most-voted science topics include high-energy and particle physics, motivating its inclusion in high school](rose-survey-student-interest-particle-physics.md) — related

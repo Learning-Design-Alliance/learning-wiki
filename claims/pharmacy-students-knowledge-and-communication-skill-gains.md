@@ -52,3 +52,4 @@ Qualitative finding from the Level 2 (Learning) theme of the focus group themati
 - [Bilingual mathematics classes may support acquisition of mathematical knowledge by building technical terms in two language structures](bilingual-math-classes-two-language-term-building.md) — related
 - [Learners perceive the multimodal SimBIE curriculum as positively affecting satisfaction, engagement, knowledge, skills, attitudes, and confidence across Kirkpatrick levels 1-3](simbie-focus-group-kirkpatrick-positive-perceptions.md) — related
 - [Engaging in science communication improves the communicator's own understanding of their research](outreach-improves-communicator-understanding.md) — related
+- [Students found simplifying complex concepts and understanding the audience the most difficult aspects of designing outreach products for non-physicists](simplification-and-audience-difficulties.md) — related

@@ -69,3 +69,4 @@ Student focus group data (Theme 3, Subtheme 3.1.3). Participants reported fear o
 - [Focus group participants reported post-pandemic communication difficulties and psychological impacts, though two reported improved communication](focus-group-post-pandemic-communication-difficulties.md) — related
 - [Performing the physical therapist role was perceived as challenging to threatening, yet its impact on awareness of professional development was not questioned](pt-role-performance-challenging-to-threatening.md) — related
 - [Perceived condescension from male professors activated stereotype threat for a woman physics major, reducing her sense of belonging and discouraging her from asking questions](condescension-stereotype-threat-disengagement.md) — related
+- [Material adaptations are a recognized challenge for including blind students in conventional academic activities](material-adaptations-challenge-blind-student-inclusion.md) — related

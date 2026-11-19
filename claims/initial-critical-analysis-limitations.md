@@ -49,3 +49,4 @@ Phase 1 interview observations with seven STs. The article also reports that "no
 - [Seeing answer options can trigger critical thinking: discerning students changed initial judgments after considering the listed reasons](answer-options-trigger-critical-thinking.md) — related
 - [The 'motion implies force' preconception — confusion between velocity and net force — is pervasive among students even after instruction](motion-implies-force-preconception.md) — related
 - [For themselves, beginning physics teachers unanimously valued consistency and relative completeness of an explanation over its simplicity and mnemonic value](sts-value-consistency-for-themselves.md) — related
+- [Once formulated, a critique of the flawed explanation is rarely retracted, and five of eight beginning teachers themselves characterized mathematical efficiency as an obstacle to critique](critique-stable-once-expressed-mml-self-identified.md) — related

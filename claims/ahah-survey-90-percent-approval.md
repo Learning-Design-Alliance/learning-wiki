@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-11-19
 sources:
   - id: liam-j-nolan-2021
     resource: "https://doi.org/10.32374/aej.2021.1.1.003"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a fall 2020 end-of-semester survey of enhanced introductory astronomy labs, 90% rated AHaH good to excellent for understanding lab materials, 92% for making labs more interesting, and 91% for answering questions. [→ Liam J. Nolan 2021](#liam-j-nolan-2021)

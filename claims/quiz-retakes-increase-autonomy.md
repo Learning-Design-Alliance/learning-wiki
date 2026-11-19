@@ -50,3 +50,4 @@ Qualitative interview study of 18 STEM undergraduates; content analysis coded re
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
 - [Students perceived traditional grading practices as harmful to motivation and well-being](traditional-grading-harms-motivation-wellbeing.md) — related
 - [Most students participated in in-class quiz retakes and most retakers improved their quiz scores across five course offerings](retake-participation-and-improvement-quantitative.md) — related
+- [Students accepted acceptable/unacceptable quiz grading only when retake exams were offered](students-accept-coarse-grading-only-with-retakes.md) — related

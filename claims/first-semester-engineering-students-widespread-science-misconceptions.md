@@ -48,3 +48,4 @@ Cross-sectional questionnaire study of 941 first-week engineering students at fo
 ## Related Claims
 - [LLM teaching effectiveness varies substantially across subject domains, strongest where knowledge points apply directly and weakest in physics and chemistry](llm-teaching-effectiveness-varies-by-domain.md) — related
 - [No statistically significant difference in calculus achievement was found among students by major (medicine, applied medical science, engineering, computer science, science)](no-achievement-difference-by-major-flipped-calculus.md) — related
+- [The variable-task generation method was tested in a physics course for engineering students and scales from about 30 to about 150 students](variable-test-generator-tested-physics-course.md) — related

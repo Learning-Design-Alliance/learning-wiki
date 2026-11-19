@@ -49,3 +49,4 @@ Latent profile analysis of log-file engagement indicators from 235 students usin
 - [Latent profile analysis of 2015 PISA data identifies four collaborative problem-solver profiles among Chinese 15-year-old students](four-collaborative-problem-solver-profiles-pisa.md) — related
 - [Elementary school children show distinct latent profiles of procedural metacognition combining monitoring accuracy, restudy effectiveness, and decision accuracy across tasks](distinct-metacognition-profiles-lpa-children.md) — related
 - [Latent profile analysis of mobile study app log data identifies three distinct student engagement profiles: disengaged, utilitarian, and active](three-engagement-profiles-mobile-retrieval-app.md) — related
+- [BIC favors the five-profile solution, with a sharp drop from three to five profiles and nearly equal BIC for five through seven profiles](bic-favors-five-profile-solution.md) — related

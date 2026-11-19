@@ -48,3 +48,4 @@ Paired t-test across all 450 participants comparing pretest and posttest knowled
 ## Related Claims
 - [Students showed significant content-knowledge gains from pre-test to post-test after the Digital World level](engage-binary-tasks-pretest-posttest-gain.md) — possibly the same claim (merge candidate)
 - [Non-traditional letter writing improved 9th graders' conceptual understanding of a chemistry mixture unit more than traditional writing, with a small effect](non-traditional-writing-beats-traditional-writing-mixture-understanding.md) — related
+- [Paired-samples t-test shows a statistically highly significant learning gain from pretest to posttest, with an effect size of 1.24](sattaa-content-knowledge-gain.md) — related

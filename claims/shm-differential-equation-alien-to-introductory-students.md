@@ -50,3 +50,4 @@ The author's argument in Section 3, citing how textbooks introduce the SHM solut
 - [Some students who fail to write a differential equation can still represent the force descriptions mathematically, indicating difficulty moving from force to differential equation](difficulty-moving-from-force-to-differential-equation.md) — related
 - [Students who succeeded in calculus can still be unable to approach multi-parameter physics equations](multi-parameter-equations-difficulty.md) — related
 - [Instructors rated students' mathematical preparation for QM as average or below average, with special functions rated weakest](qm-student-math-preparation-rated-below-average.md) — related
+- [The author argues that words, pictures, experiments, argument and discussion matter as much as equations and written exams in physics education](words-pictures-experiments-matter-as-much-as-equations.md) — related

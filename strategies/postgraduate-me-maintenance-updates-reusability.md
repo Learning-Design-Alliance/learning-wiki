@@ -47,7 +47,8 @@ The maintenance domain includes steps taken "to avoid the loss of knowledge afte
 - [Teachers identified cost, bulky headsets, Wi-Fi connectivity, and technical issues as key challenges to integrating VR into ML2 teaching](../claims/vr-challenges-cost-headsets-wifi.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Package labs in an auto-graded online manual with a cost-return sustainability model to support scaling and long-term operations](auto-graded-online-manual-sustainability-model.md)
 
 ## Examples
 -

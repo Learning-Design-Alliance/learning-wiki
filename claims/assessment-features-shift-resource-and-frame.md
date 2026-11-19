@@ -51,3 +51,4 @@ Case analysis of two students (Lisa and Jack) on the Ferris Wheel problem, which
 - [Explicitly asking students to show reasoning did not shift students toward a Conceptual Physics frame](explicit-reasoning-prompt-failed-to-shift-frames.md) — related
 - [Epistemological frame shifts occur at the level of a shift in a single epistemological resource](frame-shifts-via-single-resource-shift.md) — a broader claim this one bears on
 - [Novice physics students seldom shift epistemological frames during assessment, with most beginning problems in an Algorithmic Physics frame](students-seldom-shift-frames-assessment.md) — related
+- [The assessment task using symbolic variables (Ferris wheel) failed to elicit the expected evidence, unlike the six tasks with numerical quantities](symbolic-variables-task-failed-to-elicited-evidence.md) — a narrower finding that bears on this claim

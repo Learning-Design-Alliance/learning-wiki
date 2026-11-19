@@ -51,3 +51,4 @@ The review reports, from four student-focused primary studies it synthesises, im
 - [Nine reviewed studies reported LA as reflective tools enhancing knowledge-building outcomes such as individual idea development and collective knowledge advancement](la-reflective-tools-improve-knowledge-building-outcomes.md) — related
 - [Test results confirmed the improvement of knowledge through online active learning.](oal-dental-education-knowledge-improvement.md) — related
 - [LAs' role and skill perceptions centered on communicating disciplinary knowledge and understanding course content](la-role-perceptions-disciplinary-communication.md) — related
+- [Only nine percent of 252 reviewed higher-education LA studies showed that LA improved students' learning outcomes](nine-percent-la-studies-improved-learning-outcomes.md) — related

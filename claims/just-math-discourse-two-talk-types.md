@@ -53,3 +53,4 @@ Discourse analysis of candidate episodes from the homework help session video. T
 - [Just Math differs from the Worksheet e-frame in discourse content and expectations, not behaviors](just-math-distinct-from-worksheet-in-discourse.md) — related
 - [Only about 10 minutes of 9 hours of homework help session video could be definitively categorized as Just Math](just-math-ten-minutes-of-nine-hours-identified.md) — related
 - [In a six-minute homework help session episode, Bill produced 14 instances of BESM talk whose trajectory moved from confusion toward found consistency](bill-episode-14-besm-instances.md) — related
+- [Only the two non-problematizing Groups F and G had off-topic conversations exceeding one minute in the middle of the lab period](off-topic-conversations-timing-non-problematizing.md) — related

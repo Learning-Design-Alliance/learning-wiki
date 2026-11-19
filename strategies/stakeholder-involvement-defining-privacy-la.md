@@ -50,6 +50,8 @@ The article recommends that LA scholars involve students, teachers, parents, and
 - [Build students' understanding of the purposes and benefits of sharing data before implementing learning analytics](build-student-understanding-of-data-sharing.md)
 - [Involve end-users and teachers early in educational game development](involve-end-users-early-game-development.md)
 - [Involve students and alumni directly in campus activities, curriculum development and dialogue to build experience value](involve-students-curriculum-dialogue.md)
+- [Broaden meaningful participation in AIEd system design to equitably serve diverse populations](broaden-participation-aied-design.md)
+- [Engage both data professionals and teaching professionals, and involve students, in LA data use](engage-data-and-teaching-professionals-involve-students.md)
 
 ## Examples
 -

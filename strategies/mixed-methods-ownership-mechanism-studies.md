@@ -50,6 +50,7 @@ The authors' forward-looking research strategy: continue implementing E-CLASS an
 ## Related Strategies
 
 - [Use weekly reflections aligned to ownership hallmarks as formative data alongside a validated survey](weekly-hallmark-aligned-reflections-strategy.md)
+- [Implement causal evaluation in a standard college course via pretest, weekly quizzes, and confounder inquiry at student meetings](college-course-pretest-quiz-confounder-collection-strategy.md)
 
 ## Examples
 -

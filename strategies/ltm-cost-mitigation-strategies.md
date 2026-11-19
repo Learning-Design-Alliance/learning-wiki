@@ -52,6 +52,7 @@ Because "the high cost of LTM equipment limits scalability in low-income areas",
 - [Improve audiovisual quality, connectivity, and standardized recordings before deploying live-streamed procedural teaching](improve-av-connectivity-before-ls-teaching.md)
 - [Implement FLS-style simulation training with low-cost materials in resource-limited settings](low-cost-fls-implementation-resource-limited-settings.md)
 - [Deploy low-cost consumer VR simulation to scale surgical training in low-resource settings](low-cost-vr-scaling-surgical-training-low-resource.md)
+- [Multi-level intervention strategies for institutions, faculty and students to improve online engineering instruction](online-engineering-instruction-intervention-strategies.md)
 
 ## Examples
 -

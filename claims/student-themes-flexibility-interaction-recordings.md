@@ -56,3 +56,4 @@ Inductive thematic analysis of open-ended responses from all 149 students, coded
 - [Participants' qualitative perceptions of blended learning airway management training were mostly positive, with flexibility and re-playability cited as advantages](qualitative-perceptions-of-bl-mostly-positive.md) — related
 - [Students valued the blended design mainly for flexibility of place and time and for affordability, participating without disrupting daily work](blended-flexibility-and-affordability-benefits.md) — related
 - [A previous direct-lesson introduction of Audacity produced weak engagement and no materials, while the flipped-classroom format produced engagement and educational materials](direct-lesson-vs-flipped-engagement-contrast.md) — related
+- [Mentees appreciated the remote REU format for flexibility and developing as independent learners](remote-format-independence-benefits.md) — related

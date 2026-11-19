@@ -77,9 +77,11 @@ Arts integration works largely because it forces generative, multimodal encoding
 6. Assess the science learning directly with a measure independent of the art product.
 
 ## Related Strategies
+
 - [Drawing to Learn](drawing-to-learn.md) — the visual-arts subset, with the strongest direct evidence base
 - [Project-Based Learning](project-based-learning-pbl.md) — arts integration often operates as a project with an authentic creative product
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — art tasks can surface intuitive models that instruction then revises
+- [Structure an interdisciplinary course with a discipline-familiarization first half and a permanent-group artistic-production second half](two-phase-interdisciplinary-familiarization-then-production-strategy.md)
 
 ## Examples
 - **[Hardiman et al. (2014) arts-integration program](https://doi.org/10.1111/mbe.12050)** — Baltimore-area schools taught science units (e.g., environmental science, astronomy) through visual arts, writing, song, and dance; delayed post-tests showed superior retention versus control classrooms.

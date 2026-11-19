@@ -47,3 +47,4 @@ The introduction reports this as a claim from the authors' own experience with e
 ## Related Claims
 - [Quantum cryptography is proposed as a very suitable introductory subject for teaching the fundamental principles of quantum physics](quantum-cryptography-introductory-subject.md) — related
 - [In a preliminary school test using the key-distribution slides, an important percent of students connected quantum entanglement with cryptography](students-connect-entanglement-cryptography.md) — related
+- [A rigorous quantum information formalism exists that requires only basic arithmetic, enabling math-light Quantum 101 courses without sacrificing rigor](arithmetic-only-qis-formalism.md) — related

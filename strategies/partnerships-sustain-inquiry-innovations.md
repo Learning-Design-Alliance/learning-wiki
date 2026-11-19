@@ -39,6 +39,7 @@ The chapter distinguishes scale (spreading a practice) from sustainability (keep
 ## Related Strategies
 
 - [Complement experimental scale-up research with design and improvement methods such as RPPs, DBIR, and Networked Improvement Communities](complementary-design-improvement-methods-scaling.md)
+- [Scale training sustainably through geographic spread, online delivery, community growth and a supported core team](sustainable-scaling-of-community-training-program.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ The authors' finding from extensive biologists-physicists-chemists discussions a
 - [Physics instructors and biology students have different go-to epistemological resources, creating instructional conflict](instructor-student-epistemological-stance-mismatch.md) — related
 - [Life-science students bring epistemological resources ('life is complex'; 'structure determines function') that make them dismissive of toy models, and engineering students may reject them as impractical](disciplinary-epistemological-resistance-to-toy-models.md) — related
 - [Many students hold the epistemological expectation that physics is numerical and exact, hindering their understanding of modeling and approximation](estimation-epistemological-expectation-physics-exact.md) — related
+- [Life-science students resist toy models whose simplification and validity are not made explicit (case-study evidence)](life-science-students-resist-unexplained-toy-models.md) — related

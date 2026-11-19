@@ -50,3 +50,4 @@ The chapter reports, citing Prather, Rudolph, Brissenden, and Schlingman (2009),
 - [Astro 101 students taught with Lecture-Tutorials achieved average LSCI normalized gains of 0.46–0.48, placing the classes in the top 10% nationally](lecture-tutorials-top-decile-normalized-gains.md) — related
 - [Across three spring mega-course offerings, students achieved average normalized LSCI gains of 0.42, 0.48, and 0.43, all within Hake's medium-gain region](mega-course-lsci-gains-three-semesters.md) — related
 - [Two-thirds or more of Astro 101 students report a non-STEM major or area of interest, and up to 40% of introductory science students plan to become licensed teachers](astro101-students-nonstem-majors-future-teachers.md) — related
+- [Introductory STPFaSL scores do not differ significantly across institutions, instructors, or topic duration](stpfasl-scores-invariant-across-institutions.md) — a narrower finding that bears on this claim

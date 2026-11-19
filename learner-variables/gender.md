@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 738 claims (396 show a difference, 179 mixed, 163 no difference) · 514 studies (273 associational, 174 causal, 21 review, 18 quant-synthesis, 13 design, 9 theoretical, 6 qualitative), `q1`–`q4` · 76 of 514 report an effect size · 730 claims rest on one study
+> **Evidence** · 744 claims (399 show a difference, 180 mixed, 165 no difference) · 518 studies (275 associational, 176 causal, 21 review, 18 quant-synthesis, 13 design, 9 theoretical, 6 qualitative), `q1`–`q4` · 76 of 518 report an effect size · 736 claims rest on one study
 
 ## How to read this page
 
@@ -777,6 +777,12 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Women in single-gender groups were dominant across all lab activity roles, while women in mixed-gender groups were dominant only on computer, paper, or group discussion](../claims/single-gender-women-dominant-across-all-lab-roles.md) [~M] — an instructional effect differs by group
 - [Because males and females largely attend the same schools, the HSWCU-style results provide strong evidence that preparation in the ordinary sense does not account for male/female differences in precollege and college physics exams](../claims/preparation-not-ordinary-sense-accounts-male-female-gaps.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Gendered performance differences appear under instructors of both genders, with fewer significant differences observed for female instructors](../claims/instructor-gender-fewer-differences-female-instructors.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [A mastery class offering two quizzes per lecture retained a gender grade gap similar to usual CLASP classes](../claims/two-quizzes-per-lecture-gender-gap-remains.md) [-M] — an instructional effect differs by group
+- [A voluntary questionnaire showed a tendency of up to 70% of girls toward care-type professions](../claims/girls-questionnaire-care-type-professions-tendency.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female students showed significantly higher FCI gains than male students in the paired 2020 data, despite males' higher pre-test mean](../claims/fci-gender-gain-advantage-females-uj-2020.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [In the multiple regression, female students earn significantly higher graduate grades than male students with the same admissions scores (β = 0.13, p = .04)](../claims/female-higher-ggpa-holding-scores-constant.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Mastery CLASP classes with at most one quiz per lecture show no gender grade gap, unlike usual CLASP classes where female students' grades are about a quarter standard deviation lower](../claims/mastery-one-quiz-gender-gap-zeroed.md) [~M] — an instructional effect differs by group
+- [Offering lectures online in a flipped format with usual grading did not by itself diminish the gender grade gap](../claims/flipped-format-alone-does-not-remove-gender-gap.md) [-M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

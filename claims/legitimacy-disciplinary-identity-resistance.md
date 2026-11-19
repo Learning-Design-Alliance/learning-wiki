@@ -54,3 +54,4 @@ Qualitative theme from interview accounts: multiple participants named ego and c
 - [The program fostered professional legitimacy, including influence over the educational environment and perceived career advantage.](pedagogical-internship-track-professional-legitimacy.md) — related
 - [A common lack of respect for the learning activity negatively influences learning even when the group interacts well](lack-respect-learning-activity-harms-learning.md) — related
 - [Finding the right visual metaphors was key to students interpreting scientific concepts accurately without being too literal](metaphor-finding-key-art-science-interpretation.md) — related
+- [Science and dance students lacked a common disciplinary language but successfully bridged the gap using visuals](visuals-bridged-disciplinary-language-gap.md) — related

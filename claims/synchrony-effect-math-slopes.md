@@ -73,3 +73,4 @@ In 1st year, chronotype slopes differ from zero only for morning math (β = −0
 - [Morning chronotype is associated with higher academic performance category among first-year medical students](morning-chronotype-associated-excellent-performance.md) — related
 - [Course grades are marginally higher for afternoon-only courses than morning-only courses, a difference the authors consider probably not meaningful](afternoon-course-grades-marginally-higher.md) — related
 - [All chronotypes exhibit significant academic improvement in later classes, with evening class grades at least 0.27 points higher than morning class grades](grades-improve-later-class-times.md) — related
+- [Unsupervised clustering of CS1 keystroke data yields four chronotypes matching those reported for general populations](cs1-keystroke-clustering-four-chronotypes.md) — related

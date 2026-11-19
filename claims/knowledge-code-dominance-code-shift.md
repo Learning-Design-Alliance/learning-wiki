@@ -50,3 +50,4 @@ Fine-grained analysis of a facilitated autoethnographic interview transcript, wi
 - [The real shift toward identifying as a legitimate theoretical physicist appears at PhD and postdoctoral level, marked by strengthening social relations](phd-postdoc-social-relations-strengthening.md) — related
 - [Knower attributes were acknowledged as important at the undergraduate stage despite knowledge-code dominance, which the authors found somewhat unexpected](knower-attributes-acknowledged-early.md) — related
 - [In one South African hospital's obstetrics and paediatrics internship, knower-code attributes (teamwork, organisation, efficiency, communication) outweighed specialised knowledge as the basis of legitimacy](internship-legitimises-knower-code-attributes.md) — related
+- [Purist insights dominate physics assessments at all levels except PhD, where a situational shift appears](purist-dominance-shift-situational-phd.md) — related

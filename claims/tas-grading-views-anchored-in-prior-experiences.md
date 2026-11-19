@@ -49,3 +49,5 @@ The authors' interpretation, drawing on interviews and class discussions: "Most 
 - [TAs saw the CA-inspired rubric as promoting good problem-solving practices and fair grading, but over half found it too constraining](tas-stated-pros-cons-of-ca-rubric.md) — related
 - [The TAs generally viewed grading as serving only a summative assessment purpose rather than a formative one](tas-view-grading-summative-only-not-formative.md) — related
 - [TAs who judged the intro physics problems easy often inferred correct understanding in the brief intro solution even when the solution showed no evidence of it](tas-inferred-understanding-brief-intro-solution-without-evidence.md) — related
+- [Rubric-based instructional activities were insufficient to change TAs' grading practices, partly due to past educational experiences and departmental context](rubric-activities-insufficient-to-change-ta-grading.md) — a broader claim this one bears on
+- [First-year physics TAs initially grade mainly on correct application of physics and final answer rather than on explication of the problem-solving process](tas-initially-grade-on-final-answer-not-explication.md) — related
