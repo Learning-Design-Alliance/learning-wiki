@@ -54,3 +54,4 @@ The essay reports, citing Kroeper et al. (2025), a multi-campus study of institu
 - [Racially marginalized faculty self-report using inclusive pedagogy at slightly but significantly higher rates than White faculty](marginalized-faculty-self-report-inclusive-pedagogy-higher.md) — related
 - [Exceptionalism as a script of acceptance carries psychological costs for marginalized high-achieving students](exceptionalism-script-psychological-costs.md) — a narrower finding that bears on this claim
 - [First-generation faculty role models increase first-generation students' university belonging](first-gen-faculty-role-models-increase-belonging.md) — related
+- [The pet-to-threat dilemma: minoritized women welcomed for wrong reasons face tokenism and mistreatment, then hostility when they outgrow the pet role](pet-to-threat-dilemma.md) — related

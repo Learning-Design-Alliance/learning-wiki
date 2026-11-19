@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 108 claims (63 for, 35 mixed, 10 against) · 107 studies (42 causal, 20 quant-synthesis, 12 review, 12 theoretical, 10 design, 7 qualitative, 4 associational), `q1`–`q4` · 27 of 107 report an effect size · 94 claims rest on one study
+> **Evidence** · 109 claims (64 for, 35 mixed, 10 against) · 108 studies (42 causal, 20 quant-synthesis, 12 review, 12 theoretical, 11 design, 7 qualitative, 4 associational), `q1`–`q4` · 27 of 108 report an effect size · 95 claims rest on one study
 
 ## Conditional relationship
 
@@ -181,6 +181,7 @@ The heading is kept because tools look for it; new links land here unread. Re-re
 - [AP physics students' electrostatics content performance scores rose from pre-test to post-test after guided inquiry with PhET simulations, in one uncontrolled pre-post study](../claims/guided-inquiry-simulation-electrostatics-gain.md) [+W] — attached 2026-11-19 from Espinoza (2020), which proposed "Use guided inquiry simulations that give learners pace control and variable control when teaching relationships between physical variables"; tests this page's relationship.
 - [Guided inquiry with electric field simulations significantly improves AP physics students' electric field content performance](../claims/guided-inquiry-simulation-electric-fields-gain.md) [+W] — attached 2026-11-19 from Espinoza (2020), which proposed "Use guided inquiry simulations that give learners pace control and variable control when teaching relationships between physical variables"; tests this page's relationship.
 - [Guided inquiry with wave simulations significantly improves AP physics students' wave characteristics content performance](../claims/guided-inquiry-simulation-wave-characteristics-gain.md) [+W] — attached 2026-11-19 from Espinoza (2020), which proposed "Use guided inquiry simulations that give learners pace control and variable control when teaching relationships between physical variables"; tests this page's relationship.
+- [Dialogic inquiry course activities led students to an unexpected dark-matter inference from ICM X-ray temperatures](../claims/unexpected-dark-matter-discovery-icm-activity.md) [+W] — attached 2026-11-19 from Cantalupo (2022), which proposed "Design inquiry activities so students make major discoveries themselves without complicated calculations".
 
 ## Objective and learner-valued goal
 

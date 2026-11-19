@@ -66,6 +66,7 @@ Wiley frames the value of true 5R openness as "permissionless innovation" (Thier
 - [Promote the flipped classroom in low-resource settings using free digital tools, peer instruction, and group discussions.](../strategies/flipped-classroom-low-resource-settings-strategy.md)
 - [Release handmade simulators as open technology under a Creative Commons license to broaden access and encourage reproduction and improvement](../strategies/open-source-release-of-handmade-simulators.md)
 - [Remix workflow: build on expert source code through analyze-then-modify stages](../strategies/ejs-remix-existing-source-code-strategy.md)
+- [Provide open access to notebook source code to enable feedback, adaptation and peer instruction](../strategies/open-source-code-access-peer-instruction.md)
 
 ## Key Sources
 - Wiley, D. (2014). The MOOC misstep and the open education infrastructure. Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/open_educational_resources](https://edtechbooks.org/lidtfoundations/open_educational_resources)

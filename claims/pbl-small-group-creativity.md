@@ -51,3 +51,4 @@ The creativity theme emerged from interviews with six PBL group participants. Th
 - [Groups outperform individuals when devising creative solutions to real-world complex problems](groups-outperform-individuals-complex-problem-creativity.md) — a broader claim this one bears on
 - [Well-defined tasks and accessible materials support shared creative influence in group work](well-defined-tasks-and-accessible-materials-support-shared-creative-influence.md) — related
 - [Major student-driven creative projects are widely used in complex systems coursework and were reported as successful and popular with students](student-led-creative-projects-widespread-successful.md) — related
+- [In a scenario-based task on the Minkowskian metric, students displayed two distinct strategies: creative use of school algebra/geometry versus intuition and imagination grounded in popular myths](two-student-strategies-minkowski-scenario.md) — related

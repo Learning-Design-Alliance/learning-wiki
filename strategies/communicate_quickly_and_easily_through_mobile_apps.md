@@ -71,6 +71,7 @@ Frequent, low-cost communication increases parental awareness of student work an
 - [Add explicit parental interview, data sharing, and weekly progress sharing steps to existing field-based assignments](explicit-parent-interview-data-sharing-steps.md)
 - [Weekly need-based e-mentoring messages via LINE combined with weekly in-class self-evaluations](line-e-mentoring-with-in-class-self-evaluation.md)
 - [Internet-based application for post-discharge adherence reminders and health education](app-based-followup-adherence-support-strategy.md)
+- [Deploy randomized A/B comparisons of email reminders through the LMS as a low-cost embedded experimentation paradigm](ab-comparison-email-reminder-paradigm.md)
 
 ## Related Elements
 - [Check-in](../elements/check-in.md) — the recurring touchpoint the app operationalizes

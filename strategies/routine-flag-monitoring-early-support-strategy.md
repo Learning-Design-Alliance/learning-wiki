@@ -53,6 +53,7 @@ The article recommends that medical schools routinely record and total simple ac
 
 - Struggler Early Warning Toolkit Nottingham
 - [Use a toolkit of academic and non-academic flags for early identification of struggling graduate-entry medicine students](early-identification-flags-toolkit-gem.md)
+- [Use early content-area assessments as triggers for supplemental instruction](early-assessment-trigger-supplemental-instruction.md)
 
 ## Examples
 -

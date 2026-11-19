@@ -35,7 +35,7 @@ sources:
 # Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 65 claims (51 for, 12 mixed, 2 against) · 52 studies (22 causal, 11 review, 9 theoretical, 7 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 7 of 52 report an effect size · 63 claims rest on one study
+> **Evidence** · 66 claims (52 for, 12 mixed, 2 against) · 53 studies (23 causal, 11 review, 9 theoretical, 7 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 7 of 53 report an effect size · 64 claims rest on one study
 
 ## Conditional relationship
 
@@ -161,6 +161,7 @@ Claims the earlier page cited that the model above does not use; each is context
 - [Integrated training (simulation plus critical thinking strategies) yields higher OSCE performance than simulation-only training in nursing students](../claims/integrated-training-higher-osce-performance.md) [+W] — attached 2026-11-09 from Zarifsanaiey N et al. (2016), which proposed "Integrate simulation with critical thinking strategies rather than using simulation alone for clinical skills training"; tests this page's relationship.
 - [Interactive learning yields a higher post-test knowledge gain than reproductive learning for participants with weak prior knowledge, but not for those with strong prior knowledge](../claims/interactive-beats-reproductive-low-prior-knowledge-anatomy.md) [+W] — attached 2026-11-10 from Löffler Sabine et al. (2011), which proposed "Combine interactive and reproductive approaches when designing e-learning materials for non-physician healthcare professionals".
 - [The MMF exercise developed empirical skills in dynamical epidemiologists and systems thinking in classical epidemiologists](../claims/mmf-exercise-cross-tradition-skill-development.md) [+W] — attached 2026-11-10 from Bellan Steve E. et al. (2012), which proposed "Integrate classical and dynamical epidemiology in training rather than teaching the fields separately"; tests this page's relationship.
+- [FCP produced significantly higher post-test scores than CTM for rational expressions, while CTM produced significantly higher scores for factorization](../claims/fcp-beats-ctm-rational-expressions-loses-factorization.md) [+W] — attached 2026-11-19 from Karjanto et al. (2022), which proposed "Marry excellent lecturing with active learning approaches rather than abandoning the conventional teaching method entirely".
 
 ## Objective and learner-valued goal
 

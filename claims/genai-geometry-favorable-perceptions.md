@@ -55,3 +55,4 @@ Descriptive statistics (means and SDs) on the perception subscale, assessed only
 - [EFL learners rated explicit strategy instruction favorably and reported increased confidence and efficiency in learning.](learners-perceive-strategy-instruction-as-useful.md) — related
 - [Students in the VR group reported more positive learning experiences than controls across all 11 feedback items](vr-acupuncture-positive-learning-experience.md) — related
 - [Students using personalized automatic quiz generation corrected previous mistakes more frequently than students with traditional computer-aided question generation](personalized-quiz-generation-improves-mistake-correction.md) — related
+- [Students reported overwhelmingly favorable perceptions of the FCP, with 88–94% agreement across ten inventory items and the highest rating (94%) for promoting positive attitudes toward mathematics](fcp-perception-inventory-favorable.md) — related

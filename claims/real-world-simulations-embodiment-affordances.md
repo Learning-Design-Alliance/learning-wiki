@@ -65,3 +65,4 @@ The review reports, citing Dunleavy et al. (2009) and Klopfer and Squire (2008),
 - [VR communication training faces challenges of scenario realism, lack of clinical urgency in virtual characters, and language barriers](vr-communication-training-challenges-realism-urgency-language.md) — related
 - [VR-based UAV flight training (DroneSim) offers comparable or superior results to real-world building inspection training](dronesim-vr-uav-training-comparable-results.md) — related
 - [An immersive anatomy education EMS placement fostered self-directed, active, experiential learning and enhanced motivation and clinical relevance of anatomy](anatomy-ems-quality-learning-theme.md) — a narrower finding that bears on this claim
+- [Intern feedback indicated a strong in-person component is needed to build community in a virtual internship](in-person-component-needed-for-community.md) — related

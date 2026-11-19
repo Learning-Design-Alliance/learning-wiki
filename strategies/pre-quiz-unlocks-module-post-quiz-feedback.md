@@ -53,6 +53,7 @@ Before class, students complete a short ungraded quiz that gates access to the w
 - [Pair automated online problem-set quizzes with lectures, with rapid scored feedback and immediate posting of solutions](automated-online-quiz-rapid-feedback-strategy.md)
 - [Assign pre-class draft answers with attempt credit to ensure preparation for in-class problem solving](attempt-credit-flipped-classroom-preparation.md)
 - [Use a compulsory but ungraded quiz to verify student familiarity with orientation material](compulsory-ungraded-orientation-quiz.md)
+- [Test-drive draft pre-/post-quizzes with colleagues and former students before first use](test-drive-draft-pre-post-quiz.md)
 
 ## Examples
 -

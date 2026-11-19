@@ -46,6 +46,7 @@ The author's core supervision strategy is to give each student (or pair) a bound
 ## Related Strategies
 
 - [Scale student research to a class by assigning each student a carefully-chosen variable star to solve, then pooling results as a team project](class-wide-variable-star-assignment-pooling.md)
+- [Choose a journal by scope, readership and impact, and follow its author instructions through peer review](journal-choice-and-publishing-process.md)
 
 ## Examples
 -

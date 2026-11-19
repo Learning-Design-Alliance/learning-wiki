@@ -61,3 +61,4 @@ Narrative synthesis of the review's 23 included studies on validity and reliabil
 - [Inter-rater scoring of the writing tests showed good correlation-coefficient reliability](inter-rater-reliability-writing-scores.md) — related
 - [Over the course, students proposed more comprehensive and practical solutions to increasingly complex scenarios, as rated by four examiners](scenario-solutions-improved-over-time.md) — related
 - [Faculty rarely used the low rubric level for research, noncognitive, and fit constructs while using all three levels for academic preparation and test scores](rubric-low-level-rarely-used-qualitative-constructs.md) — related
+- [Most students demonstrated at least proficiency across the assessed science and engineering practices, but only some groups replicated results three times](most-students-proficient-replication-limited.md) — related

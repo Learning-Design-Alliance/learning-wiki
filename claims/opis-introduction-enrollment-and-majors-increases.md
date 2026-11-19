@@ -73,3 +73,4 @@ Institutional before-and-after enrollment counts reported in the project narrati
 - [The Global Telescope Network engaged over 200 diverse high school and college students in authentic research, and the GORT robotic telescope autonomously captured gamma-ray burst afterglows](gtn-students-authentic-grb-research.md) — related
 - [Authentic research experiences through the Global Telescope Network increased high school interns' interest in science and science careers](gtn-interns-interest-grew.md) — related
 - [Most ERIRA participants convert to physics/astronomy or STEM majors and minors after the weeklong radio-astronomy field experience](erira-major-conversion-rates.md) — related
+- [Physics programs are fed by service courses and funded through astronomy and astrophysics offerings despite low enrollment](service-courses-and-astronomy-sustain-physics-programs.md) — related

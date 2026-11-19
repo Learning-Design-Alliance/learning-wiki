@@ -48,3 +48,4 @@ Qualitative coding of open-response survey data; the article states "the most co
 - [Most classes moved from group work to individual work after the switch to remote lab instruction](remote-lab-shift-to-individual-work.md) — related
 - [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related
 - [Technological prerequisites such as internet access and device availability were identified only by the South African panel, with equity of education as a distal outcome](technological-prerequisites-south-african-panel-equity.md) — related
+- [Lack of coding and mathematics preparation can lead to frustration, stress and possibly failure in physics DS/ML courses, with equity concerns about prerequisite enforcement](coding-prerequisite-gaps-cause-frustration-failure.md) — related

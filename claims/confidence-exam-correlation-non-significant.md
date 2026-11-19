@@ -52,3 +52,4 @@ Pearson correlation analysis across the study cohort relating end-of-course conf
 - [Self-assessed knowledge does not correlate with objective TDI-KNOW scores overall, but correlates negatively among sixth-year students](self-assessment-not-reliable-measure-of-knowledge.md) — related
 - [Structural equation modeling in the block group showed course value positively predicted self-assessed statistical ability, which weakly predicted exam achievement](sem-perceptions-predict-biostatistics-achievement.md) — related
 - [Self-assessed clinical skills confidence correlates only weakly with objectively assessed performance, though it predicts OSCE performance better than year group or examiner allocation](self-assessed-confidence-weakly-correlates-osce-performance.md) — related
+- [Pre-existing knowledge correlates weakly and positively with exam performance (r = 0.38)](weak-positive-correlation-pek-exam.md) — related

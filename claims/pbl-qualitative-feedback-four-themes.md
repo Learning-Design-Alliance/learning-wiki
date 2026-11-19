@@ -72,3 +72,4 @@ Example of student feedback quoted under the fourth theme: students lacking acco
 - [Faculty focus groups on the PBL-FDP yielded five themes spanning self-insight, challenges, preparation, feedback, and workshop improvement](pbl-focus-groups-five-themes.md) — related
 - [Students cite research skill development, collaboration skills, active learning, and increased motivation as the most beneficial aspects of the PBL-based CRE](cre-open-ended-benefits.md) — related
 - [Student comments indicate GRAS-DK items lack context and are experienced as too abstract](gras-dk-items-lack-context-abstract.md) — related
+- [Project/problem-based learning in an introductory electromagnetism course has students take an active role in constructing their own knowledge while developing soft and social skills](pbl-active-role-electromagnetism-course.md) — related

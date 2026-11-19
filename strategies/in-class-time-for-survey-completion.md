@@ -52,4 +52,4 @@ Because data-privacy rules barred course credit for survey completion, the autho
 -
 
 ## Key Sources
-- Teichmann, E., Lewandowski, H. J., and Alemani, M. (2022). Investigating students' views of experimental physics in German laboratory classes. arXiv:2201.12145. https://arxiv.org/abs/2201.12145
+- Teichmann, E., Lewandowski, H. J., and Alemani, M. (2022). Investigating students' views of experimental physics in German laboratory classes. arXiv:2201.12145. https://arxiv.org/abs/2201.12145. [doi:10.1103/physrevphyseducres.18.010135](https://doi.org/10.1103/physrevphyseducres.18.010135)

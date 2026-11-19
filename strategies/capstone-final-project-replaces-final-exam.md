@@ -48,6 +48,7 @@ The course replaced a final exam with a capstone project in which teams selected
 
 - [Recommend dedicated weekly programming lab time and explicit prerequisites in future quantum programming courses](recommend-lab-time-and-prerequisites-quantum-course.md)
 - [Sustain computational instruction with flipped homework while replacing the faculty-intensive final project with peer review or student videos](sustaining-computational-instruction-strategy.md)
+- [Team projects in which students discover quantum concepts (teleportation presentation and engaging Grover-algorithm video)](team-discovery-projects-teleportation-grover.md)
 
 ## Examples
 -

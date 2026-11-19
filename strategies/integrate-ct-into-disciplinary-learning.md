@@ -60,6 +60,7 @@ The guide recommends that educators embed computational thinking into topics the
 - [Embed new skill practice in existing course time with in-class group discussion rather than adding class time](embed-skill-practice-in-existing-lab-discussion-time.md)
 - [Integrate CT into existing subjects such as sciences, maths and English when a standalone CS course is not feasible](integrate-ct-into-existing-subjects.md)
 - [Integrate computation in science classes with tasks beyond procedural programming use, and ensure students have sufficiently strong computational foundations](computation-beyond-procedural-use-strategy.md)
+- [Integrate hands-on AI project modules directly into core subjects as an intermediate approach between informal and formal AI education](integrate-ai-modules-into-core-subjects.md)
 
 ## Examples
 -

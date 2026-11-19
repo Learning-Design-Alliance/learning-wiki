@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 278 claims (212 show a difference, 47 mixed, 19 no difference) · 207 studies (111 associational, 39 causal, 30 review, 11 theoretical, 7 qualitative, 7 design, 2 quant-synthesis), `q1`–`q4` · 10 of 207 report an effect size · 276 claims rest on one study
+> **Evidence** · 280 claims (214 show a difference, 47 mixed, 19 no difference) · 208 studies (112 associational, 39 causal, 30 review, 11 theoretical, 7 qualitative, 7 design, 2 quant-synthesis), `q1`–`q4` · 10 of 208 report an effect size · 278 claims rest on one study
 
 ## How to read this page
 
@@ -315,6 +315,8 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [The final exam grade gap for underrepresented students is positive in the concepts-first class (0.18) and does not fall within the 95% confidence intervals of the gaps of the three standard classes](../claims/concepts-first-positive-urm-final-exam-gap.md) [~M] — an instructional effect differs by group
 - [The indigenous education distribution is concentrated in the lower categories, with the median moving from Year 11 or below to Year 12 by 2014](../claims/indigenous-education-distribution-lower-category-concentration.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The level of education of the Australian indigenous population improved between 2001 and 2017, particularly in the two lowest education categories](../claims/indigenous-education-lower-tail-improvement-2001-2017.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Colombian achievement gaps differ substantially across ethnic groups: the White-Afrocolombian gap is 0.59 SD, the White-Indigenous gap 0.52 SD, and the White-Other gap 0.14 SD](../claims/colombia-gaps-differ-across-ethnic-groups.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Within Colombian schools, Afrocolombian, Indigenous and other minority students score 0.09, 0.11 and 0.03 SD lower than White peers, while a ten percentage-point rise in a group's school share is linked to drops of 0.71, 0.67 and 0.17 SD](../claims/colombia-within-school-gaps-and-contextual-effects-by-group.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

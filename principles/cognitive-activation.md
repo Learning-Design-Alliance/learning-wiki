@@ -191,6 +191,7 @@ Immediate understanding, near transfer, delayed retention and use in the setting
 - [Design self-explanation prompts aligned to target outcomes, favoring explanations of correct content](../strategies/align-self-explanation-prompts-with-target-outcomes.md)
 - [Teach learners to initiate and perform learning activities aimed at conceptual change themselves](../strategies/teach-self-initiated-conceptual-change-activities.md)
 - [Shard elevator acceleration task](../designs/shard-elevator-acceleration-ai-task.md) — physics students predict before handing integration to AI, then interpret the result
+- [Use didactic challenge questions that demand explanation rather than regurgitation of theory or equations](../strategies/didactic-challenge-explanation-questions.md)
 
 ### Illustrative
 

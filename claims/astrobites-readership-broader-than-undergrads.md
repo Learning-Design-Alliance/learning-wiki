@@ -49,3 +49,4 @@ Readership statistics from Google Analytics (2014–2019) and regular readership
 - [Educators and students have already used Astrobites in undergraduate classrooms, in blog-modeling and journal-club course formats](astrobites-classroom-use-anecdotes.md) — related
 - [Classroom use of Astrobites constitutes a form of peer-assisted learning because it is written by and for students and involves discussion and peer-teaching](astrobites-use-as-peer-assisted-learning.md) — related
 - [Existing structured entry programs (REUs, bridge programs) reach only a small fraction of undergraduates, leaving a support gap](reu-programs-limited-reach-entry-barrier.md) — related
+- [PERbites has reached a broad online audience, with over 30,000 page views since launch and nearly 66% of views from the United States](perbites-site-reach-30000-views.md) — related

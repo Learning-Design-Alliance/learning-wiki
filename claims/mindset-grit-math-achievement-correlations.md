@@ -65,3 +65,5 @@ Bivariate correlations (Table 2) among the three constructs and math achievement
 - [Grit, sense of belonging, and motives for attending college showed no significant direct associations with academic achievement in this sample](grit-belonging-motives-no-achievement-association.md) — reports the opposite
 - [Challenge state correlates positively with academic self-efficacy, resilience, grit, and growth mindset](challenge-state-correlates-noncognitive.md) — related
 - [Students' fixed mindsets in math positively predict test anxiety and negatively predict self-efficacy, persistence and achievement](student-fixed-mindset-predicts-math-motivation-outcomes.md) — related
+- [Low-grit students improved substantially in math and English by 12th grade, challenging grit's expected advantage](low-grit-students-improved-grade12.md) — related
+- [Profiles predicted 12th-grade science and English scores, with low grit significantly correlated with both](profiles-predict-grade12-science-english.md) — related

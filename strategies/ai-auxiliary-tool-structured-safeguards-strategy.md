@@ -52,6 +52,7 @@ The article recommends that although AI provides scalable educational support, "
 - [Deploy the predictive model as a mid-semester triage tool with capacity-aligned thresholds, recalibration, non-punitive governance, and bias auditing](mid-semester-triage-deployment-strategy.md)
 - [Stratified human oversight and verification safeguards for clinical LLM deployment, scaled to task risk](stratified-human-oversight-clinical-llm-deployment.md)
 - [Use ChatGPT 4.0 as a multilingual auxiliary learning-assistance tool for nursing education, with user quality review and institutional regulation](chatgpt-4-nursing-learning-assistance-strategy.md)
+- [Preserve data integrity through input checks, deduplication, backups and access controls before deploying IoT](data-integrity-practices-iot-education.md)
 
 ## Examples
 -

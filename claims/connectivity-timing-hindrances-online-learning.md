@@ -54,3 +54,4 @@ Survey results on barriers: 33.7% could not focus from home/hostel/room, citing 
 - [Internet connectivity problems hindered remote learning and compounded student anxiety during high-stakes assessments](connectivity-problems-assessment-anxiety-remote.md) — related
 - [Difficulty accessing technology and internet connection issues are barriers to completing MOOCs, especially in developing countries](mooc-technology-access-barrier.md) — possibly the same claim (merge candidate)
 - [Infrastructure inequities — chronic bandwidth limitations, power outages, and device incompatibility — severely disrupt proctored assessments and exacerbate educational disadvantages in low-resource settings](infrastructure-inequities-disrupt-proctored-assessments.md) — related
+- [Student journal feedback on the FCP was mixed but generally positive, with hindrances including lack of immediate help and internet connectivity problems](fcp-journal-feedback-mixed-positive.md) — related

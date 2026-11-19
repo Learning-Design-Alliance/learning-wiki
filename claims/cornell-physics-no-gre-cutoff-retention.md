@@ -49,3 +49,5 @@ The article reports Cornell physics graduated 54 of 74 women PhDs (73%) between 
 - [Women enrolled in STEM PhD programs had GRE Q scores averaging about 40 points lower than men at each institution while completing at similar rates](gre-q-gender-gap-similar-completion.md) — related
 - [The Fisk-Vanderbilt master's-to-PhD bridge program, using a 30-minute interview instead of a GRE cutoff, achieved over 80% retention of women and minorities toward the PhD](fisk-vanderbilt-bridge-program-retention.md) — related
 - [GRE score gaps by race, gender, and citizenship, combined with cutoff use, select against underrepresented groups in physics admissions](gre-cutoffs-select-against-underrepresented-groups.md) — related
+- [APS Bridge Program retention of 92% compares favourably to the national physics average of 59%](aps-bridge-retention-92-percent.md) — related
+- [The Center for Bright Beams trained 20 PhD students and 11 postdocs since 2016, with at least 40 more expected to graduate by its 2026 sunset](cbb-training-outcomes-since-2016.md) — related

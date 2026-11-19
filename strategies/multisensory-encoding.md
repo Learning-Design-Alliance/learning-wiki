@@ -65,6 +65,7 @@ Multisensory presentation works because separate processing channels for visual 
 - [Design intuitive, multisensory, layered visualizations with evolving assessment to reduce cognitive load](layered-multisensory-visualizations-reduce-load.md)
 - [Design auditory-cognitive trainings with natural, relatable speech material and multisensory presentation to target far transfer to real-world listening](naturalistic-multisensory-act-design-strategy.md)
 - [Use multisensory audio-visual games to train transversal skills alongside curricular content](multisensory-audio-visual-games-transversal-skills.md)
+- [Use a multi-modal, multi-sensory approach combining sound, touch and visual elements when designing astronomy education and outreach resources](multimodal-astronomy-resources-strategy.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — narrated, hand-drawn video explanations pair spoken reasoning with evolving visuals, followed by practice.

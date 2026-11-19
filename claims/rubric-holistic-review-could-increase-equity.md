@@ -51,3 +51,4 @@ Authors' interpretation in the abstract, resting on the modeling result that the
 - [Only the general GRE and physics GRE rubric scores differed between applicants from more or less selective undergraduate institutions](rubric-selectivity-differences-gre-only.md) — related
 - [Faculty rubric ratings showed statistically significant differences between applicants who were later admitted and those who were not](rubric-ratings-differ-admitted-vs-not-admitted.md) — related
 - [Males tended to score higher on the physics GRE rubric construct while females tended to score higher on community contributions and diversity contributions](rubric-sex-differences-three-constructs.md) — related
+- [Rubric-based holistic review that considers more than test scores and GPA increased the demographic diversity of admitted graduate students at the University of Michigan](rubric-holistic-review-diversity-gains.md) — related

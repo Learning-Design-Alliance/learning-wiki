@@ -50,3 +50,4 @@ Correlational analysis of questionnaire demographic data against metric and ASSE
 - [Age, gender, previous interest in surgery, and video game exposure were not significantly associated with laparoscopic performance](demographics-not-associated-laparoscopic-performance.md) — related
 - [No significant differences in procedural time or pre- and post-practice rubric scores between participants with and without previous probing experience](sbml-probing-no-experience-difference.md) — related
 - [Men outperformed in the VR condition, with gender and video game experience highly correlated, leaving the responsible variable unclear](gender-video-game-interaction-vr-advantage.md) — related
+- [Prior familiarity with modeling and simulation games correlated with learning gains in the lab experiment](vera-familiarity-correlations-learning-gains.md) — reports the opposite

@@ -54,3 +54,4 @@ Pre-post t-tests reported in Table I of the two-semester survey study. Male self
 - [In single-group pre-post studies of Einsteinian physics interventions, female students had lower self-reported science attitude scores than male students before the programmes and comparable scores afterward](gender-equalising-attitude-effect.md) — related
 - [Female students' fascination with physics decreased significantly more than males' after calculus-based Physics 1, widening the gender gap](female-fascination-declines-calculus-physics-1.md) — related
 - [A short beginning-of-semester social-psychological intervention closed the gender gap in performance in an introductory calculus-based physics course](short-belonging-intervention-closed-gender-gap-physics.md) — related
+- [Incoming physics and general science interest predict end-of-course physics self-efficacy, not the reverse, in active-learning physics courses](interest-drives-self-efficacy-directionality.md) — related

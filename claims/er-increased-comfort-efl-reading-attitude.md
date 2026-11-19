@@ -74,3 +74,4 @@ Table 1 reports Comfort mean scores rising from 2.25 (SD 0.63) at pretest to 2.6
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related
 - [Motivational SRL factors correlate with but do not directly predict Japanese EFL learners' proficiency](motivational-factors-correlate-not-predict-efl-proficiency.md) — related
 - [The effect of extensive reading on reading attitude varied by attitude component, shown by a significant time × attitude interaction (ηp² = .168)](er-time-attitude-interaction-omnibus.md) — a broader claim this one bears on
+- [Student comfort with reading primary scientific research articles improved after the course, with 9 of 15 students reporting improved attitudes](sciwri-improved-reading-research-articles.md) — a narrower finding that bears on this claim

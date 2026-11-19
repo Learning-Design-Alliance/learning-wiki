@@ -86,3 +86,4 @@ Thematic synthesis of 155 studies (2019–2024) retrieved via PRISMA procedures;
 - [Integration of educational technology and digital tools enhances teaching and enables rapid feedback in virtual university environments](educational-technology-integration-enhances-teaching-feedback.md) — a broader claim this one bears on
 - [Student-centered approaches yield enhanced teaching readiness, academic performance, engagement, and self-assessment abilities](student-centered-approach-multiple-advantages.md) — related
 - [Six antecedents must precede LLM use in nursing education, including technological infrastructure and AI acceptance](llm-nursing-education-antecedents.md) — related
+- [Digital assessment offers transparency, security, flexibility and efficiency, but paper exams cannot merely be transferred to digital form](digital-assessment-benefits-and-barriers.md) — related

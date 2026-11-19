@@ -68,3 +68,4 @@ Thematic analysis of the control-group focus group identified perceived excessiv
 - [Most students were satisfied with the SGLM process and wanted it continued, but three reported dissatisfaction tied to time pressure and material difficulties](sglm-satisfaction-continuation-mixed.md) — related
 - [Students request clearer course organization, reminders, and more experiential practice opportunities while affirming overall satisfaction with the wellness courses](student-feedback-course-structure-improvements.md) — related
 - [K-12 teachers designing integrated AI curriculum consider four categories of values: evaluation, engagement, logistics, and collaboration](teachers-values-k12-ai-curriculum.md) — related
+- [Students in the CT-based capstone course reported high satisfaction, with choice, learning, structure, and examples as the best elements](student-feedback-choice-learning-structure.md) — related

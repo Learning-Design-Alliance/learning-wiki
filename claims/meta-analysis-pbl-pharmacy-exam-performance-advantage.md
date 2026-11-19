@@ -52,3 +52,4 @@ The article reports, citing Galvao, Silva, Neiva, Ribeiro & Pereira (2014), a me
 - [PBL produces higher examination scores than LBL in undergraduate pharmacology education (SMD = 2.03)](pbl-higher-examination-scores-pharmacology.md) — related
 - [Analogies taught in small groups did not produce a statistically significant difference in clinical-case exam performance compared with traditional instruction in a wound-healing unit.](analogies-small-groups-no-significant-difference-surgery.md) — related
 - [RFPETM students scored significantly higher than TPETM students on online, midterm, experimental report, final, and composite pharmacology experimental course scores](rfpetm-higher-qelp-scores-than-tpetm.md) — a narrower finding that bears on this claim
+- [Average final exam scores increased after CST replaced script-oriented teaching in 2016-2018](cst-exam-scores-increase.md) — related

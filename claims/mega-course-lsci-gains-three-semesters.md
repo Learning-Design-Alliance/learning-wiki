@@ -51,3 +51,4 @@ Pre/post LSCI data from the spring 2010, 2011, and 2012 UA mega-courses, reporte
 - [The participant group began the course with pre-instruction LSCI scores equivalent to both non-participating classmates and national Astro 101 averages](participant-group-representative-pre-instruction.md) — related
 - [Astro 101 students achieve similar learning gains regardless of institution type, class size, or background (as reported by the chapter, citing Prather et al. 2009)](astro101-similar-gains-regardless-institution-type.md) — related
 - [Overall pre/post-test scores rose from 61% to 80% for the full sample after a three-phase astronomy dataset activity, in one uncontrolled pre-post study](astronomy-dataset-activity-overall-learning-gains.md) — related
+- [A median class normalized gain of 0.25 is adopted as the holistic threshold of an effective course, following Hake (1998)](median-normalized-gain-025-effective-course-threshold.md) — related

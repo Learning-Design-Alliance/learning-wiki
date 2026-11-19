@@ -50,3 +50,4 @@ Qualitative analysis by the first author (with input from the second) of video- 
 - [Epistemic distancing plays a critical role in student groups' construction of a safe space for collaborative sensemaking in physics tutorials](epistemic-distancing-builds-safe-space-sensemaking.md) — related
 - [Recurring questions may help counteract the inherent slipperiness or dynamism of sensemaking frames, keeping students engaged when they otherwise might move on](recurring-questions-stabilize-frame.md) — related
 - [A new group member's heavily distanced bid to discuss shifted the Bronze group's norms toward sharing and evaluating ideas](new-member-distanced-bid-shifted-bronze-norms.md) — related
+- [Priming on the 'given' information from a problem statement constitutes students' engagement with their mental models, aligning mental modeling with Stage 0 of the Sensemaking Epistemic Game](priming-given-information-constitutes-mental-model-engagement.md) — related

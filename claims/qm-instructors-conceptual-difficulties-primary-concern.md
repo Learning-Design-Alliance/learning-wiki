@@ -73,3 +73,4 @@ In individual discussion, one faculty member felt that "the misconceptions in QM
 - [Quantum field theory is rarely taught or even mentioned in introductory physics courses from high school through upper-division undergraduate levels](qft-absent-from-introductory-physics-courses.md) — related
 - [Popular undergraduate modern physics textbooks contain misstatements claiming special relativity applies only to inertial frames](textbook-misstatements-sr-inertial-only.md) — related
 - [Student difficulties with mathematics, especially linear algebra, are the most frequently reported student difficulty in introductory QIS courses](qis-student-math-linear-algebra-difficulties.md) — related
+- [First-year students' conceptual grasp of linear-algebra-related quantum concepts appeared on average stronger than that of senior-level students, per anecdotal instructor observation](pictorial-course-conceptual-grasp-stronger-than-senior-course.md) — related

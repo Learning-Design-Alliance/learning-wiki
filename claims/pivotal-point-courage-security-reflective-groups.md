@@ -50,3 +50,4 @@ Qualitative interview analysis of mentee and mentor accounts. A precondition was
 - [Relational trust built through prior rigorous evaluation was a precondition for introducing participatory approaches](relational-trust-precondition-participatory.md) — a broader claim this one bears on
 - [Relationship-focused PD shifts teacher conceptions of rigor and safety in argumentation instruction](relationship-focused-pd-shifts-teacher-conceptions-of-rigor-and-safety.md) — related
 - [Relational elements — trust, voice and agency, and equity — are preconditions for restorative practices to work](relational-elements-precede-technical-restorative-results.md) — a broader claim this one bears on
+- [Scholars especially value mentors who attend to their well-being as a whole person, and identity-matched mentoring relationships can be especially meaningful or transformative](whole-person-and-identity-matched-mentoring-valued.md) — related

@@ -50,6 +50,7 @@ A communication training activity in which GPs practise listening, asking questi
 ## Related Strategies
 
 - [Implementation-phase recommendations: more improvisation time, systematic integration of the question tool, and training in enduring without solutions](existential-communication-course-implementation-recommendations.md)
+- [Use improv-based science communication training and improv literature as resources for developing instructors' interaction skills](improv-based-training-for-instructors.md)
 
 ## Examples
 -

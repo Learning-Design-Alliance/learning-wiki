@@ -56,3 +56,4 @@ Thematic analysis of semi-structured group interviews with the four GenARch team
 - [GAI tools enriched student ideation, aesthetic development and confidence in architecture and design education, especially for lower-competency learners](gai-tools-ideation-architecture-design-lower-competency.md) — related
 - [GenAI tools proved most valuable in early UX ideation stages, while design and testing require a human touch](genai-most-valuable-early-ux-stages.md) — related
 - [Students used AI for dynamic brainstorming and ideation, progressing from overcoming writer's block to refining style and rhetorical goals](ai-dynamic-brainstorming-ideation.md) — related
+- [Theorists use analogies to generate new project ideas and to overcome conceptual challenges](theorists-analogies-generate-ideas-overcome-challenges.md) — related

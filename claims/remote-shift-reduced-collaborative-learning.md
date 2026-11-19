@@ -59,3 +59,4 @@ Qualitative case studies of courses at 10 institutions that used adaptive course
 - [The COVID-19 shift to online learning in higher education caused panic and discomfort because many instructors lacked skills, resources, and didactic aptitude](pandemic-remote-shift-instructor-unpreparedness.md) — related
 - [Students valued HoloLens for shared, instructor-guided collaborative learning, especially synchronized faculty pointing at structures](hololens-shared-instructor-guided-learning.md) — related
 - [Students' reported motivation to work on course assignments declined strikingly after the shift to remote learning](remote-learning-motivation-decline.md) — related
+- [Dialogic inquiry course showed very low to null drop rates and student appreciation of group discussion](low-drop-rates-student-appreciation-inquiry-course.md) — related

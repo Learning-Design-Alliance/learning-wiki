@@ -69,6 +69,7 @@ Learning in games is driven by cycles of decision, feedback, and adjustment; wel
 - [Activate learners' known material when designing online courses](activate-known-material-online-transition.md)
 - [Support transfer of implicit game-based CT knowledge into explicit, usable knowledge](support-implicit-to-explicit-ct-transfer.md)
 - [Incorporate game elements such as rewards, adaptive difficulty, immersive environments, and clear feedback into digital interventions for ADHD](game-elements-strategy-adhd-digital-interventions.md)
+- [Use a game-based online course to foster meta competences as preparation for domain-specific practice tasks](game-based-meta-competence-course-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the game loop is repeated, feedback-rich practice

@@ -38,7 +38,8 @@ The article recommends building concept questions by first gathering open-ended 
 - formative assessment of conceptual understanding
 
 ## Related Strategies
-- 
+
+- [Opening activity of generating and refining scientific questions from authentic course material](generating-refining-scientific-questions-activity.md)
 
 ## Examples
 -

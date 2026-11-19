@@ -73,3 +73,4 @@ Table 1 of the platform-score analysis reports declines by gender: average chang
 - [Average fall 2021 math scores in Grades 3–8 were .20–.27 SD lower than same-grade peers' fall 2019 scores](covid-math-decline-020-027-sd-grades-3-8.md) — related
 - [Machine learning on pre-pandemic platform click data explains up to 77% of the variance in academic resilience](ml-platform-data-explains-resilience-variance.md) — related
 - [One study found student time on e-learning platforms increased significantly during the COVID-19 pandemic compared with before it](covid-elearning-engagement-hours-increased.md) — related
+- [For Stanford incoming students, two years of COVID-era remote instruction produced no measurable detrimental impact on physics and math preparation](no-covid-detrimental-impact-physics-preparation-stanford.md) — reports the opposite

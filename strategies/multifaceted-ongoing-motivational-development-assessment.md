@@ -53,6 +53,7 @@ The article recommends a "multi-faceted, ongoing assessment strategy" combining 
 - [Mixed-instrument evaluation plan combining efficacy and interest surveys, interviews, and a staged statistical analysis plan](stem-center-evaluation-instrument-plan.md)
 - [Evaluate school research-mentorship programs by collecting objective indicators, with interviews of students, teachers, and mentors](tan-q-interview-based-program-evaluation.md)
 - [Evaluate interdisciplinary course success with triangulated quantitative and qualitative measures, including pre/post tests, rubric-tracked journals, and an in-class ethics conference](pose-triangulated-course-evaluation-plan.md)
+- [Assess competence development with repeated online tests, questionnaires, and interviews across a course sequence](repeated-triangulated-competence-assessment-strategy.md)
 
 ## Examples
 -

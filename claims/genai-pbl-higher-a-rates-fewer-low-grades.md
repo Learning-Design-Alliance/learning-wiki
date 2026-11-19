@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
-newest_evidence: 2026
+newest_evidence: 2025
 sources:
-  - id: micky-c-nnamdi-2026
+  - id: micky-c-nnamdi-2025
     resource: "https://doi.org/10.48550/arxiv.2503.16558"
-    title: "Micky C. Nnamdi, J. Ben Tamo, Benoit Marteau, Wenqi Shi, May D. Wang. (2026). Advancing Problem-Based Learning in Biomedical Engineering in the Era of Generative AI. arXiv. https://arxiv.org/abs/2503.16558 [doi:10.48550/arxiv.2503.16558](https://doi.org/10.48550/arxiv.2503.16558)"
+    title: "Micky C. Nnamdi, J. Ben Tamo, Benoit Marteau, Wenqi Shi, May D. Wang. (2025). Advancing Problem-Based Learning in Biomedical Engineering in the Era of Generative AI. arXiv. https://arxiv.org/abs/2503.16558 [doi:10.48550/arxiv.2503.16558](https://doi.org/10.48550/arxiv.2503.16558)"
     author: Micky C. Nnamdi, J. Ben Tamo, Benoit Marteau, Wenqi Shi, May D. Wang
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Intervention-period offerings (2021–2023) had a higher proportion of A grades (66.4% vs 39.1%) and fewer low grades (6.1% vs 22.4%) than control offerings (2016–2017, 2020). [→ Micky C. Nnamdi 2026](#micky-c-nnamdi-2026)
+`q2 i?` Intervention-period offerings (2021–2023) had a higher proportion of A grades (66.4% vs 39.1%) and fewer low grades (6.1% vs 22.4%) than control offerings (2016–2017, 2020). [→ Micky C. Nnamdi 2025](#micky-c-nnamdi-2025)
 
 ## Evidence
 
-### Micky C. Nnamdi 2026
+### Micky C. Nnamdi 2025
 
-Micky C. Nnamdi, J. Ben Tamo, Benoit Marteau, Wenqi Shi, May D. Wang. (2026). Advancing Problem-Based Learning in Biomedical Engineering in the Era of Generative AI. arXiv. https://arxiv.org/abs/2503.16558 [doi:10.48550/arxiv.2503.16558](https://doi.org/10.48550/arxiv.2503.16558)
+Micky C. Nnamdi, J. Ben Tamo, Benoit Marteau, Wenqi Shi, May D. Wang. (2025). Advancing Problem-Based Learning in Biomedical Engineering in the Era of Generative AI. arXiv. https://arxiv.org/abs/2503.16558 [doi:10.48550/arxiv.2503.16558](https://doi.org/10.48550/arxiv.2503.16558)
 
 `q2 · i?` · `causal · r1`
 
@@ -52,3 +52,4 @@ Historical cohort comparison of grade distributions before (2016–2017, 2020) v
 - [Low achievers experienced larger initial pandemic impacts and less improvement during 2021-22](low-achievers-larger-impacts-less-improvement.md) — related
 - [By the end of the course the experimental group's final grade distribution was markedly skewed toward higher grades and poor project presenters fell from 22% to 5%, versus 28% in the control group](cl-final-grades-poor-presenters.md) — related
 - [Hands-on model practice shifted the distribution of performance grades, with more excellent and fewer poor scores than video-and-literature training alone](model-practice-performance-grade-distribution.md) — related
+- [No shift was observed at the lower end of the diagnostic score distribution, where students from under-resourced schools typically score](no-lower-end-distribution-shift-2021.md) — related

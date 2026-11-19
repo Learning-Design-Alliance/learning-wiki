@@ -60,3 +60,4 @@ Manual three-step BCH multinomial logistic regression of latent class membership
 - [Demographic factors other than final grade showed no impact on persistence in the logistic regression models](demographics-null-persistence-mi.md) — related
 - [Demographic, departmental, and institutional factors are less useful predictors of faculty experience teaching computation](demographic-departmental-factors-less-predictive.md) — related
 - [Enrollment strategy distributions differ by gender and race/ethnicity](enrollment-strategy-differs-by-gender-and-ethnicity.md) — reports the opposite
+- [Students' gender, race, maternal education level, and social-economic ranking predicted latent profile membership](demographics-predict-noncognitive-profiles.md) — reports the opposite

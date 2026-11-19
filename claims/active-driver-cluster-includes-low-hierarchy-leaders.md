@@ -49,3 +49,4 @@ The editors describe the surprising cluster-analysis result of the Rhem et al. s
 - [Teachers' post-workshop platform engagement fell into three behavioral profiles, with most teachers showing minimal creation and browsing](three-behavioral-engagement-profiles-ai-agent-creation.md) — related
 - [Mastery in a quasi-community is dynamically and relatively distributed rather than structured as stable core-periphery hierarchy](quasi-community-distributed-mastery.md) — related
 - [Student engagement in iHelp was not uniform: many lurkers read without contributing while a small minority sought helper status](ihelp-engagement-nonuniform-lurkers-helpers.md) — related
+- [In team-based collaborative courses, one or two team leaders mediate communication with the teacher, reducing teacher overload](team-leaders-mediate-teacher-communication.md) — related

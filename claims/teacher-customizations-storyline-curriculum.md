@@ -59,3 +59,4 @@ The review reports, citing McNeill, Fine, et al. (2023), an online survey with f
 - [Teacher interviews indicate the intervention may work partly through improved classroom management, efficient lesson planning, and PLC-supported collaborative discussion](interview-mechanisms-management-planning-plc.md) — related
 - [Teachers' most frequent needs were understanding students' cognitive deficits, further instruction in the emergence theory-based curriculum, and opportunities to plan lessons together](teacher-needs-themes-qualitative.md) — related
 - [Teachers with the most interactive and engaging classrooms most commonly address weak preparation through embedded review, individual instruction and adjusting the curriculum](embedded-review-top-practice-interactive-classrooms.md) — related
+- [Teacher interviews identified six classroom insights that shaped the activity's design requirements](teacher-interview-insights-design-requirements.md) — related

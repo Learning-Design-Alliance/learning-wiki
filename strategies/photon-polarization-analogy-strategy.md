@@ -43,7 +43,8 @@ To help students understand that a |↑⟩z state can be converted to the orthog
 - [Some upper-level students claimed photon polarization states cannot serve as basis vectors for a two state system because a photon can have any polarization](../claims/photon-polarization-basis-state-difficulty.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Use a flashlight, three linear polarizers and a translucent screen to let students experimentally swap the order of two polarizers and observe that the order of factors alters the product](polarizer-order-swap-classroom-activity.md)
 
 ## Examples
 -

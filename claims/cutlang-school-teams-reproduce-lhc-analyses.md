@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-11-19
 sources:
   - id: a-adıgüzel-2021
     resource: "https://doi.org/10.1088/1361-6404/abdf67"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After 1.5 days of independent study, all 8 student teams obtained object histograms, 5 produced final discriminant histograms, and 2 fit those histograms with ROOT, though none extracted limits because not all backgrounds were available. [→ A. Adıgüzel 2021](#a-adguzel-2021)
@@ -47,3 +48,4 @@ Team exercise outcomes reported in Section 2.6 (Student Presentations): 8 teams 
 ## Related Claims
 - [Instructors' oral evaluations at final presentations indicated junior and senior undergraduates could access HEP data analysis](cutlang-school-oral-evaluations-accessibility.md) — related
 - [Nine months after the school, most responding students reported comfort with key concepts and 87% agreed they could prepare a simple CutLang ADL file](cutlang-school-knowledge-retention-nine-months.md) — related
+- [Students with no coding or analysis experience performed LHC analyses after ADL/CutLang training at two dedicated schools](adl-cutlang-student-analysis-training-outcomes.md) — related

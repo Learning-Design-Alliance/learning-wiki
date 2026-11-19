@@ -52,6 +52,7 @@ Based on the Delphi findings and persona reflections, the article recommends act
 - [Role-specific pilot actions for shifting to an open knowledge system](stakeholder-open-knowledge-pilot-actions.md)
 - [Engage the AI in Education community actively with the public and key stakeholders to mitigate the in-credible AI effect](aied-public-engagement-strategy.md)
 - [Multi-stakeholder strategies for managing children's screen time](screen-time-management-strategies-children.md)
+- [Validate predictions within an intervention pipeline and include downstream policy recommendations](validate-predictions-intervention-pipeline.md)
 
 ## Examples
 -

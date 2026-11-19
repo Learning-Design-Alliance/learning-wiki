@@ -83,3 +83,4 @@ Chi-square test of independence examining gender distribution across the three c
 - [Self-reported competence was significantly associated with campus and year of study, but not with age or gender.](namibia-competence-campus-year-association.md) — related
 - [Cluster membership is not associated with teacher sex, department, work experience, or hospital level](cluster-membership-no-demographic-association.md) — related
 - [Inferential analysis found no significant differences in knowledge across the demographic variables examined](no-significant-differences-demographic-variables.md) — related
+- [Student ethnicity, enrollment type, and undergraduate year relate to chronotype cluster membership](lms-chronotype-demographics-associations.md) — related

@@ -49,3 +49,4 @@ Correlational analysis of 2017 simulation outcome measures against the Reproduct
 - [Sepsis knowledge correlates only weakly with self-rated confidence (r = .213)](weak-knowledge-confidence-correlation-sepsis.md) — related
 - [Medical and nursing students showed no significant differences in IUD insertion, cervical examination, or contraception quiz scores in 2017](no-proficiency-difference-medical-nursing-students.md) — related
 - [Post-course ML self-efficacy was moderately correlated with performance on an objective ML knowledge exam](self-efficacy-correlated-with-knowledge-exam.md) — related
+- [Pre-existing knowledge correlates weakly and positively with exam performance (r = 0.38)](weak-positive-correlation-pek-exam.md) — related

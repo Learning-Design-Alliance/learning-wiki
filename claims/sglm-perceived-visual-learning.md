@@ -52,3 +52,4 @@ Qualitative sub-theme from written reflections of 26 midwifery students; the vis
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related
 - [Repetitive delivery of similar teaching sessions consolidated peer teachers' anatomical knowledge](anatomy-ems-repetition-consolidates-knowledge.md) — related
 - [Attendees perceived that Anatomy Club workshops improved their understanding of anatomy and medical pathologies and increased their anatomical knowledge](anatomy-club-perceived-understanding-knowledge-gains.md) — related
+- [Students report that interactive visualizations in class were motivating and aided understanding of core concepts](student-survey-interactive-visualizations-motivating.md) — related

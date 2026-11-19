@@ -71,3 +71,4 @@ Thematic analysis of open-ended responses from 97 students (response rate 89.8%)
 - [Students found the real-patient ward setting highly realistic, with filming itself only a minor behavioural confounder](ward-setting-realism-video-supervision.md) — related
 - [All pedagogical strategies cited by respondents in free text could be classified within Calvani's taxonomy, supporting its validity for nursing education](calvani-taxonomy-valid-for-nursing.md) — related
 - [Thematic analysis of open-ended responses identifies communication, leadership and teamwork as the most valued learning outcomes, especially in IP courses](simulation-debrief-themes-communication-leadership-teamwork.md) — related
+- [Free-text responses highlighted realistic physical sensations from the 3D space and psychological closeness to the lecturer as key differences from face-to-face and conventional online events](vrchat-realism-and-closeness-themes.md) — related

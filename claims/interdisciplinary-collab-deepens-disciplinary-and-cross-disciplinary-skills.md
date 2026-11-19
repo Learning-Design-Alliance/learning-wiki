@@ -59,3 +59,4 @@ Interview and survey findings across studio courses: students reported that "stu
 - [Involving apprentices in handmaking the simulators deepened knowledge and taught extracurricular skills, an innovation the authors report finding in no similar literature](apprentice-involvement-in-simulator-making.md) — related
 - [Gamified and puzzle-based approaches to teaching quantum mechanics show motivation and learning benefits in prior studies](gamified-quantum-teaching-benefits.md) — related
 - [Serious games support playful learning situations for disciplinary areas and 21st century skills](serious-games-disciplinary-21st-century-skills.md) — related
+- [Students reported that writing about science deepened their comprehension of material and bridged STEM content with their humanities interests](sciwri-writing-deepened-comprehension-bridged-humanities.md) — related

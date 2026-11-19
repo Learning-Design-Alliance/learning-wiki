@@ -55,3 +55,4 @@ School-reported perceptions of individual student losses (Figure 9), a descripti
 - [COVID-19 learning deficits arose early in the pandemic and have neither closed nor substantially widened since then](covid-learning-deficits-early-onset-persistence.md) — related
 - [Most New York charter schools reported decreases in learning time across subjects during closure, with low prior reading proficiency associated with larger ELA/Reading time losses](learning-time-decreases-proficiency-moderation.md) — related
 - [Covid-19 school closures depressed student achievement on average by about 0.19 standard deviations](covid-closures-average-learning-deficit-0-19-sd.md) — related
+- [For Stanford incoming students, two years of COVID-era remote instruction produced no measurable detrimental impact on physics and math preparation](no-covid-detrimental-impact-physics-preparation-stanford.md) — reports the opposite

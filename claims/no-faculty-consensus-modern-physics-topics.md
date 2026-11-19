@@ -75,3 +75,4 @@ Some faculty listed measurement as among the most important concepts while sever
 - [Physics education worldwide lacks a deep course in probability and randomness, which the author argues causes misunderstandings of quantum theory](physics-curricula-lack-deep-probability-course.md) — related
 - [Instructors most often named quantum information, entanglement, the EPR paradox and Bell inequality as contemporary topics, but reported limited course time](qm-contemporary-topics-limited-course-time.md) — related
 - [Physics teaching is described as stuck in outdated pre-20th-century content, and barriers to including Modern and Contemporary Physics are multiple and interacting](mcp-teaching-outdated-content-barriers.md) — related
+- [Introductory physics classes essentially ignore modern physics, and textbooks contain mostly 18th- and 19th-century concepts](introductory-physics-classes-ignore-modern-physics.md) — related

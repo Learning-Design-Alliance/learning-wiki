@@ -59,3 +59,4 @@ Reflective editorial section reporting the authors' collective structured writin
 - [GenAI lowers the barrier to advanced tasks, letting less-experienced practitioners achieve outcomes once requiring formal training or mentorship](genai-lowers-barrier-to-advanced-it-tasks.md) — related
 - [Students in three consortium districts reported positive experiences with the cross-grade mentorship program and with campus social workers](west-kern-student-climate-survey-outcomes.md) — related
 - [Mentors from marginalised groups are asked to perform disproportionally more mentoring than scholars from privileged backgrounds](minority-mentors-disproportionate-mentoring-load.md) — related
+- [Advice-based networks have a consistent, direct, negative impact on scholarly productivity, disadvantaging BIPOC scientists whose networks are advice-rich rather than resource-based](advice-networks-negative-productivity.md) — related

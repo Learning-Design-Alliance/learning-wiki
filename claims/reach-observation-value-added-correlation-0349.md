@@ -74,3 +74,4 @@ Same correlational analysis (Table 1) printing weak correlations of 0.108 and 0.
 - [Across 201 observed K–8 math lessons, the majority (108, or 54 percent) did not receive a High/Expert rating on any of the eight observation dimensions](majority-lessons-no-high-expert-rating.md) — related
 - [Value-added and observation-based teacher measures correlate only weakly, while inquiry-oriented instruction positively predicts student achievement](weak-value-added-observation-correlation-inquiry-predicts-achievement.md) — a broader claim this one bears on
 - [Perceived educational value and anticipation of anaphylaxis correlate weakly but significantly with objective VR performance](perceived-value-anticipation-correlate-performance.md) — related
+- [RoBERTa model outputs correlate significantly with math instruction quality scores and with teacher value-added scores](roberta-measure-correlates-educational-outcomes.md) — related

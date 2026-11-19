@@ -50,6 +50,7 @@ Because newly acquired ECG interpretation skills are rapidly lost without repeti
 - [Add post-training support measures and competency-refresh strategies to sustain effects and enable real-world implementation of change-agent actions](post-training-support-measures-ca-role.md)
 - [Use e-learning as a low-dose, high-frequency skill maintenance tool after an initial blended learning course to counter skill decay](e-learning-low-dose-high-frequency-maintenance-strategy.md)
 - [Schedule deliberate practice with repetitive reinforcement sessions to sustain NTS knowledge and behaviors over time](deliberate-practice-reinforcement-nts-retention.md)
+- [Produce and maintain free, on-demand targeted MOOCs at the undergraduate level for AS&E education and recruiting](targeted-asande-moocs-strategy.md)
 
 ## Examples
 -

@@ -73,3 +73,4 @@ Feature-importance analysis of the same pre-rubric admissions model. A three-fea
 - [Admissions predictions show a rough physics GRE cutoff around 700 that high GPA can partially compensate below](rough-physics-gre-cutoff-700-gpa-compensation.md) — related
 - [The authors interpret their modeling results as evidence that rubric-based holistic review could make physics graduate admissions more equitable](rubric-holistic-review-could-increase-equity.md) — related
 - [Removing Tomek Links improved model metrics for all three data sets, but post-rubric models remained below acceptable performance](tomek-links-improve-metrics-insufficiently.md) — related
+- [Rubric-based holistic review that considers more than test scores and GPA increased the demographic diversity of admitted graduate students at the University of Michigan](rubric-holistic-review-diversity-gains.md) — related

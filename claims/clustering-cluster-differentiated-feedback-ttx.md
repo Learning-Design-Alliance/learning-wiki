@@ -59,3 +59,4 @@ Qualitative analysis (RQ2) of clustering outputs from the EXF exercise's 13 team
 - [Clustering n-gram flip sequences per task yields three distinct problem-solving strategy groups across the binary challenges](three-strategy-clusters-from-ngram-flip-sequences.md)
 - [Milestone logic lets designers adapt TTX pacing to each team instead of delivering injects at predefined times.](milestones-adapt-exercise-pace-per-team.md) — related
 - [Instructor feedback based on writing subtask sequence patterns becomes problematic as the number of learners increases](manual-sequence-analysis-unscalable.md) — related
+- [Latent representations cluster into interpretable behavior types at question level, with less distinguishable task-switching clusters at student level](process-bert-representations-cluster-behavior-types.md) — related

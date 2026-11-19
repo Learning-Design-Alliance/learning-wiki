@@ -47,3 +47,4 @@ Post-study Likert-scale and free-text survey of housestaff from the study period
 ## Related Claims
 - [Email-based spaced education reinforcement did not significantly improve quiz performance among internal medicine housestaff overall](spaced-education-no-overall-benefit-housestaff.md) — related
 - [Each quiz included both intervention and control questions, which the authors state substantially minimized bias from the low 20% response rate](self-matched-quiz-design-minimizes-low-response-bias.md) — related
+- [Most students find reminder emails motivating, with evidence about early starts and instructor recommendations each rated helpful by 63%](students-rate-reminder-content-motivating-likert.md) — related

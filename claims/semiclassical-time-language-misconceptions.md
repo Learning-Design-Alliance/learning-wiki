@@ -47,3 +47,4 @@ The article's analysis of difficulties with time-development argues students who
 ## Related Claims
 - [Advanced undergraduate and graduate students have common difficulties with the time dependence of expectation values in quantum mechanics](advanced-students-time-dependence-expectation-values-difficulties.md) — related
 - [Beginning graduate students show pervasive difficulties with time-development of the wavefunction: 31% wrote a common phase factor for a superposition state and 9% believed the wavefunction has no time dependence](grad-qm-time-development-difficulties.md) — related
+- [Over-emphasis on classical physics concepts can give students misconceptions and an incorrect image of science](classical-emphasis-leads-to-misconceptions-incorrect-image.md) — a broader claim this one bears on

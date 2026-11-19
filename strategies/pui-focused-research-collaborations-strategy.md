@@ -46,6 +46,7 @@ Because undergraduate research projects are short (a semester or summer) and stu
 - [Create dedicated funding mechanisms for UAT-like research-engagement components in large scientific projects](funding-mechanisms-for-uat-like-programs.md)
 - [Summer internships at national laboratories and industrial affiliates provide hands-on training and mentoring that enrich on-campus coursework](national-lab-summer-internship-mentoring-strategy.md)
 - [Develop and financially support regional astronomy associations and regularly held regional meetings](support-regional-astronomy-meetings-strategy.md)
+- [Build collaborative bridges between R1 institutions and R2/PUI/CC faculty](r1-r2-pui-cc-collaborative-bridges.md)
 
 ## Examples
 -

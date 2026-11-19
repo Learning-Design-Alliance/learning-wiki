@@ -47,3 +47,4 @@ The introduction states this as the authors' hypothesis motivating the simulatio
 ## Related Claims
 - [Popular free resonance simulations show approximate or static amplitude curves requiring students to make implicit links between world view and graph](existing-resonance-simulations-approximate-static-curves.md) — related
 - [Second Life scripts can represent physical quantities in real time and set initial position, velocity, and mass, satisfying key teaching-oriented simulator criteria](sl-real-time-representation-and-initial-parameters-feasible.md) — related
+- [Glowscript's dynamic plotting gives students immediate visual feedback while a simulation runs](glowscript-dynamic-plotting-immediate-feedback.md) — related

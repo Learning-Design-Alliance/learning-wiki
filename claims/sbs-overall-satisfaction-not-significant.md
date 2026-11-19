@@ -51,3 +51,4 @@ Satisfaction questionnaire in the randomized study; the SBS group showed "a sign
 - [Student satisfaction with teaching is higher after scenario-based simulation than after video-based training](sbs-higher-student-satisfaction-than-vbt.md) — related
 - [Students taught with step-by-step teaching rate their instructors' teaching ability and teaching methods significantly higher than traditionally taught students do](sbs-students-rate-teaching-ability-methods-higher.md) — related
 - Training satisfaction was 96.30% in the simulated teaching group versus 58.49% in the traditional group — related
+- [The self-taught training mode is broadly disfavored by respondents, while university and external courses are rated highly when used](self-taught-mode-disfavored-courses-rated-high.md) — related

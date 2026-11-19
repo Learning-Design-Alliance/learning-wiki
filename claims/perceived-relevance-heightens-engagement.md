@@ -52,3 +52,4 @@ Theme 4 of the thematic analysis of postcourse open-ended survey responses; stud
 - [AI exploration assignments helped students connect physics content to their personal lives and interests](ai-exploration-personal-connections.md) — related
 - [Students report that daily-life WebQuest tasks made learning fun and that group work strengthened solutions and motivation](student-opinions-webquest-daily-life-groupwork.md) — related
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](students-report-hands-on-learning-most-effective.md) — related
+- [Learning AI is argued to motivate students in STEM subjects by letting them meaningfully explore real-world applications of what they study](ai-learning-motivates-stem-students.md) — related

@@ -53,3 +53,5 @@ Stated pedagogical goal in the preface of a Master's/PhD lecture manual; the aut
 - [Lack of mathematical facility hinders conceptual learning in quantum mechanics, and alternative conceptions can induce mathematical errors](math-facility-hinders-quantum-conceptual-learning.md) — related
 - [After taking the quantum computing module, students significantly improved their quantum mechanics and quantum computing concept knowledge](qc-module-improved-qm-qc-concept-knowledge.md) — related
 - [Teaching science theory intimately connected to techniques and applications would facilitate students' persistence in grappling with difficult concepts such as quantum mechanical principles](theory-technique-connection-persistence.md) — related
+- [Working with mathematical modeling can motivate students and teachers and make statistics content meaningful and concrete](modeling-motivates-and-concretizes-statistics-content.md) — related
+- [Developing PCK dimensions helped teachers address critical issues in teaching quantum physics such as mathematical formalism and use of representations](pck-dimensions-address-quantum-teaching-critical-issues.md) — related

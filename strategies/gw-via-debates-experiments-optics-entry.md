@@ -52,6 +52,7 @@ A teaching strategy in which gravitational waves are brought into the classroom 
 - [Mcp Teaching Outdated Content Barriers](../claims/mcp-teaching-outdated-content-barriers.md)
 - [Use freely available gravitational-wave education tools and resources, including Black Hole Hunter and Einstein's Messengers](grav-wave-education-tools-for-educators.md)
 - [Extend the curriculum with student-built interferometer projects and a Bayesian parameter-estimation unit](future-extensions-interferometer-and-bayesian-unit.md)
+- [Gradually introduce basic concepts of modern physics into high school physics curricula](gradually-introduce-modern-physics-high-school-curricula.md)
 
 ## Examples
 -

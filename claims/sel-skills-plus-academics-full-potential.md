@@ -81,3 +81,4 @@ The consensus statement enumerates social, emotional, and academic capacities to
 - [The review proposes that embodied language learning engages learners holistically while promoting language skills and adding emotional and motivational benefits](embodied-language-learning-holistic-engagement-emotional-benefits.md) — a narrower finding that bears on this claim
 - [Goal-setting interventions with action plans and public commitment improved academic performance (review-reported)](goal-setting-intervention-academic-performance-gains.md) — a narrower finding that bears on this claim
 - [All five academic identity dimensions significantly predict academic performance, led by academic commitment (β = 0.648)](identity-dimensions-predict-performance-jiroft.md) — related
+- [Student well-being and self-worth are linked to academic achievement and engagement](well-being-linked-achievement.md) — related

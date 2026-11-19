@@ -54,3 +54,4 @@ Unsupervised k-means clustering (k=4, chosen by elbow method) of keystroke-perce
 - [Chronotype predicts grade retention through its interaction with school timing (synchrony effect), not through a main chronotype effect: morning-attending late chronotypes with low math grades show higher retention odds than their evening peers](chronotype-school-timing-retention.md) — related
 - [CS1 students mostly work during daylight hours, contradicting the night-owl programmer stereotype](cs1-students-not-night-owls.md) — related
 - [Time series clustering of screened mathematics achievement data groups students into the same four interpretable trend clusters in two independent cohorts](time-series-clustering-four-interpretable-math-trend-clusters.md) — related
+- [Hourly LMS login patterns cluster into three chronotype groups among computing undergraduates](lms-hourly-login-three-chronotype-clusters.md) — related

@@ -87,3 +87,4 @@ This is a single case study of four graduate students already trained in embodie
 - [Micro:bit calculator tasks help students recognize when computing by machine or by hand is more efficient](microbit-calculator-efficiency-recognition.md) — related
 - [Participants immediately engage with the chart construction, generating wide-ranging nuclear physics questions, with over 1,000 visitors building the chart at one open day](participants-engage-generate-questions.md) — related
 - [Interacting with geometric abstract concepts during VR precedent exploration was associated with faster assemblage and higher reported understanding and motivation than building geometry alone](abstract-concepts-vr-precedent-faster-assemblage.md) — related
+- [Two boys in the experiment appeared to perceive the concept of metric as an additional structure on the underlying two-dimensional space](metric-as-additional-structure-conception.md) — related

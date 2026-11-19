@@ -59,3 +59,4 @@ A hierarchical agglomerative clustering of CDM attainment probabilities for the 
 - [Three distinct learner profiles emerge from function art activities: Repetitivists, Simplists, and Multifunctionists](function-art-three-learner-profiles.md) — related
 - [A K-means clustering of students based on pre- and post-project SDG knowledge identifies three distinct learning profiles, with the largest cluster showing the greatest knowledge gain.](k-means-three-sgc-learning-clusters.md) — related
 - [K-means clustering of admissions data yields four student signatures distinguished mainly by uGPA level and trajectory](four-medical-student-signatures-clustering.md) — related
+- [Latent representations cluster into interpretable behavior types at question level, with less distinguishable task-switching clusters at student level](process-bert-representations-cluster-behavior-types.md) — related

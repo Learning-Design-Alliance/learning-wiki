@@ -47,3 +47,4 @@ The authors report this finding from their own mentorship research program: thre
 ## Related Claims
 - [Perceived costs of mentorship exceeding benefits may reduce the available mentor pool and mentorship quality](mentorship-cost-benefit-affects-mentor-pool.md) — related
 - [Mentorship was important to apprentices, but mentor quality and time with mentors varied across programs](rtap-mentorship-value-and-variability.md) — related
+- [Needs-based mentoring, which first identifies a mentee's specific needs, is more helpful than broad person-based mentorship](needs-based-mentoring-physics.md) — related

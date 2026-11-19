@@ -53,3 +53,4 @@ The article quotes Professor Sobel's published response arguing that favorable o
 - [Students and faculty value real-world examples in gateway math, but limited resources and training often lead to procedural instruction](real-world-relevance-gateway-math-procedural-instruction.md) — related
 - [Self-taught mindfulness training may be a useful option for teachers who cannot access or commit to an instructor-led program, provided they engage with mindfulness practice](self-taught-mt-fallback-when-access-limited.md) — related
 - [Real-world translation was the most frequently endorsed strength, with 92% of users saying content and examples are translatable to daily clinical work](real-world-translation-top-strength.md) — related
+- [Improvements in prediction accuracy do not automatically translate into improved student outcomes, a gap surfaced in 12 of 15 interviews](prediction-accuracy-outcome-gap-ml4ed.md) — a narrower finding that bears on this claim

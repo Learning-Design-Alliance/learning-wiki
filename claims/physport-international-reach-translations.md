@@ -49,3 +49,4 @@ Google Analytics and Verified Educator demographic analysis. The article adds th
 - [The Assessments section receives the most page views on PhysPort, with the Force Concept Inventory the most popular assessment](physport-assessments-section-most-viewed.md) — related
 - [PhysPort reaches about 20% of U.S. college physics faculty, 7% of U.S. high school physics teachers, and 20% of AAPT members as Verified Educators](physport-reaches-20-percent-college-faculty.md) — related
 - [Users spend substantial time on PhysPort Expert Recommendations, with the most popular recommendation averaging nine minutes on page](physport-recommendations-dwell-time.md) — related
+- [PERbites has reached a broad online audience, with over 30,000 page views since launch and nearly 66% of views from the United States](perbites-site-reach-30000-views.md) — related

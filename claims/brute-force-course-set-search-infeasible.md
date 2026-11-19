@@ -48,3 +48,4 @@ Timing measurement on a Python implementation (Intel Core i7-10810U, 32 GB RAM) 
 ## Related Claims
 - [Across all score functions and aggregation types, recommended course sets have on average higher fitness than the courses students actually took](recommendations-higher-fitness-than-actual-courses.md) — related
 - [Recommended course sets satisfy significantly more soft skill targets than the courses students actually took](recommendations-satisfy-more-soft-skill-targets.md) — related
+- [The polynomial-time Hungarian algorithm maximized aggregate team score for role assignment, and the team-assembly approach stayed close to the balanced case](hungarian-assignment-maximizes-team-score.md) — related

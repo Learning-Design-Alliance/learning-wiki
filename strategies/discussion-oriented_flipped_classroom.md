@@ -67,6 +67,7 @@ Pre-class exposure frees class time for the interactive, generative processing t
 - [Use third-party video resources as preassignment work for flipped classrooms to lessen faculty burden](third-party-preassignment-strategy.md)
 - [Flipped classroom: pre-class self-paced preparation followed by interactive problem-solving sessions](flipped-classroom-icu-overload-limiting.md)
 - [Flipped-classroom histology session structure: pre-class electronic content followed by in-person group problem-based microscopy with the instructor as facilitator](flipped-histology-session-structure-strategy.md)
+- [Combine dialogued expository classes, laboratory practicals, guided discussion groups, seminars and debates in the Statistics discipline](statistics-discipline-methodology-mix.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — an alternative or supplement to video for first exposure

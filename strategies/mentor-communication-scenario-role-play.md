@@ -48,6 +48,7 @@ The Communicating with Mentors session prepares students for workplace communica
 - [Adopt practical training scenario simulation teaching in teaching-hospital internships while managing preparation burden via standardized case templates or digital platforms](adopt-scenario-simulation-manage-preparation-burden.md)
 - [Acting/Role Play](acting-role-play.md)
 - [Role Play](role-play.md)
+- [Five-slides-in-five-minutes early presentation to assess and build intern understanding](five-slides-in-five-minutes-early-presentation.md)
 
 ## Examples
 -

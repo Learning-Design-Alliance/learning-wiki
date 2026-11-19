@@ -69,3 +69,4 @@ The article's introduction lists its research initiatives, including "obtaining 
 - [Logistic regression performs poorly (mean accuracy 0.4243) and SVM moderately (0.7374) on physiological exam-outcome prediction](logistic-regression-poor-svm-moderate-physiological-exam-prediction.md) — related
 - [Random forest achieves the highest mean test accuracy (0.9590) of all models compared for predicting exam grade categories from physiological signals](random-forest-highest-accuracy-physiological-exam-prediction.md) — related
 - [Deep learning models (LSTM, GRU, transformer) achieve high and comparable accuracy (0.90–0.93) on physiological exam-outcome prediction](deep-learning-models-comparable-accuracy-physiological-exam-prediction.md) — related
+- [A logistic regression model using topic success and topic skip features predicts next-exercise success with 80% accuracy](logistic-regression-predicts-next-exercise-success-80-percent.md) — related

@@ -51,3 +51,4 @@ This is an author interpretation based on a single participant's reaction, not a
 - [AI voice cloning produces equivalent knowledge acquisition and application scores to traditional audio recording in prerecorded medical courses](ai-voice-cloning-equivalent-knowledge-outcomes.md) — related
 - [AI voice cloning reduces audio production time by approximately one-third compared to traditional recording](ai-voice-cloning-reduces-production-time.md) — related
 - [Student satisfaction is similarly high for AI voice cloning and traditional audio recording](ai-voice-cloning-similar-satisfaction.md) — related
+- [Faculty perceptions of reduced student preparation after COVID may reflect confirmation bias rather than measured learning loss](faculty-perceptions-covid-confirmation-bias.md) — related

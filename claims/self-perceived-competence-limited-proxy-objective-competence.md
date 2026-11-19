@@ -58,3 +58,4 @@ Authors' interpretive limitation statement in the Discussion, citing prior studi
 - [The DTI measures self-assessment of clinical reasoning, not actual diagnostic ability, limiting cross-faculty calibration](dti-measures-self-assessment-not-actual-ability.md) — a narrower finding that bears on this claim
 - [Program graduates perceive themselves as more competent both as teachers and as learners compared with non-participants](graduates-perceive-competence-gains-teacher-learner.md) — related
 - [Measuring teaching outcomes cautiously is urged because measurements could create illusions about what students actually learn](measuring-teaching-outcomes-illusion-risk.md) — related
+- [Faculty perceptions of reduced student preparation after COVID may reflect confirmation bias rather than measured learning loss](faculty-perceptions-covid-confirmation-bias.md) — a narrower finding that bears on this claim

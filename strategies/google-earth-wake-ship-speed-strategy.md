@@ -47,6 +47,7 @@ The article proposes a classroom activity in which students analyze Google Earth
 
 - [Have students measure wavelength with the Google Earth distance tool and calculate wave speed from the gravity-wave formulas](google-earth-distance-measurement-wave-speed-strategy.md)
 - [Students search out their own wave-phenomenon examples on Google Earth and compare them with textbook images](student-google-earth-wave-search-strategy.md)
+- [Use real-event media — videos, satellite maps and audio recordings — as data sources students acquire themselves in physics problems](real-event-media-data-acquisition-strategy.md)
 
 ## Examples
 -

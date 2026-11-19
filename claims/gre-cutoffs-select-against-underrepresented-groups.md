@@ -57,3 +57,4 @@ Descriptive analysis of ETS test-taker data (test years 2009-2015) showing demog
 - [Traditional graduate admissions measures, particularly the GRE and Physics GRE, disproportionately exclude underrepresented groups and are poor predictors of PhD completion](gre-pgre-exclude-urm-poor-predictors.md) — possibly the same claim (merge candidate)
 - [GRE V and GRE Q scores do not predict STEM PhD completion for women](gre-scores-no-prediction-women-stem-phd.md) — related
 - [Women and B/L/M/N applicants are admitted at higher or equal rates than male and white/Asian applicants with similar physics GRE scores, but this cannot be attributed to standing out via the test](women-blmn-higher-admission-rates-similar-scores.md) — related
+- [The Center for Bright Beams trained 20 PhD students and 11 postdocs since 2016, with at least 40 more expected to graduate by its 2026 sunset](cbb-training-outcomes-since-2016.md) — related

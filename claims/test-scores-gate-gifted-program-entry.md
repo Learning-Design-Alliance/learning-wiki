@@ -62,3 +62,4 @@ The evidence is one witness's written testimony reporting invitation counts for 
 - [PSAT-based National Merit scholarship selection distributes awards disproportionately to boys, with girls receiving 36 percent of scholarships](psat-national-merit-awards-skew-male.md) — related
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related
 - [Testimony at a 1987 congressional hearing reported 1985 SAT averages in which Black women scored 43 points below Black men and 264 points below white men, which the witness called a double penalty for minority females](minority-females-doubly-penalized-on-tests.md) — related
+- [Participants are equally divided between boys and girls, but 65% of ASIMOV Prize winners are female](asimov-prize-female-winners-65-percent.md) — reports the opposite

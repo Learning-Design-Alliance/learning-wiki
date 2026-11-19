@@ -58,3 +58,4 @@ Thematic analysis of 300-word written reflections from 151 participants, coded i
 - [Collaborative practice develops students' interprofessional communication competency, including conflict resolution and adapting language to patients](ipe-develops-communication-competency.md) — related
 - [The training program was designed in collaboration with medical school faculty and emphasizes experiential, practice-based learning over didactic presentations](experiential-practice-based-communication-training-medical-physicists.md) — related
 - [Participants' self-reported learning experience favours the Virtual Patient format in engagement, stimulation, general opinion and expectations, though group discrepancies were generally small](vp-higher-learning-experience-appraisals.md) — related
+- [Intern feedback indicated a strong in-person component is needed to build community in a virtual internship](in-person-component-needed-for-community.md) — related

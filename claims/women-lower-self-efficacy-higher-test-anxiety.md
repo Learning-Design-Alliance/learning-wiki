@@ -70,3 +70,4 @@ Table I comparison of standardized test anxiety factor scores between female (N=
 - [Female students report significantly higher trait anxiety than male students](female-students-higher-trait-anxiety.md) — related
 - [Female students report significantly lower physics self-efficacy and interest than male students at the start and end of introductory physics, with gaps widening over the semester](gender-gaps-self-efficacy-interest-widen-intro-physics.md) — related
 - [Physics self-efficacy of both men and women decreased over the semester, with a smaller decrease for women](physics-self-efficacy-decrease-semester.md) — related
+- [Students' physics self-efficacy decreases significantly over a semester of Modeling Instruction introductory physics](mi-course-physics-self-efficacy-decrease.md) — related

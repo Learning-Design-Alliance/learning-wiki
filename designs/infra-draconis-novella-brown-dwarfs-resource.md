@@ -48,4 +48,4 @@ Georgi Gurevich's 1958 novella Infra Draconis follows a space flight to an ultra
 -
 
 ## Key Sources
-- Ivanov, V. D. (2021). Boosting the public engagement with astronomy through arts. https://arxiv.org/abs/2112.14702
+- Ivanov, V. D. (2021). Boosting the public engagement with astronomy through arts. https://arxiv.org/abs/2112.14702. [doi:10.48550/arxiv.2112.14702](https://doi.org/10.48550/arxiv.2112.14702)

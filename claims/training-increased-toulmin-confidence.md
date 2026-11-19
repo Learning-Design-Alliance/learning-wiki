@@ -53,3 +53,4 @@ Paired-samples t-test in the experimental group (n = 24) comparing posttest conf
 - [Students’ prompt self-efficacy increased significantly after the scaffolded GenAI course (t = 3.729, p < .001)](prompt-self-efficacy-significant-increase.md) — related
 - [Writing self-efficacy typically improves over a single academic term but fluctuates and drops when students enter new writing contexts](writing-self-efficacy-change-over-time.md) — related
 - [An editorial describes a study of peer-to-peer prompts on collaborative argumentation, consensus and perceived efficacy as having promising results, without reporting its effects](peer-prompts-argumentation-consensus-efficacy.md) — related
+- [Student confidence in writing about a new scientific discovery increased, with 9 students feeling more confident post-course](sciwri-increased-confidence-writing-discovery.md) — related

@@ -62,3 +62,4 @@ Numerical comparison of average normalized gain gN (Hake, 1998) across 2007–20
 - [Weekly pre/post questionnaire gains after tutoring sessions were low on the Hake scale despite an improvement](low-hake-gain-weekly-questionnaires.md) — related
 - [The variable-task generation method was tested in a physics course for engineering students and scales from about 30 to about 150 students](variable-test-generator-tested-physics-course.md) — related
 - [Teacher's instruction yields about twice the normalized gain of peer instruction for a highly challenging pair of similar Lenz's law questions in the authors' protocol](ti-higher-normalized-gain-than-pi-similar-lenz-questions.md) — related
+- [A median class normalized gain of 0.25 is adopted as the holistic threshold of an effective course, following Hake (1998)](median-normalized-gain-025-effective-course-threshold.md) — related

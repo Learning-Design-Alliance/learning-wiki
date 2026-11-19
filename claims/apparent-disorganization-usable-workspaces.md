@@ -66,3 +66,4 @@ Participants indicated relationships by pointing, arrows or proximity but "the n
 ## Related Claims
 - [A shared organizing principle can be established by one member and followed by others, becoming stronger with each application](principle-initiated-by-one-member-reified.md) — related
 - [Working with statistically messy authentic data in citizen science gave middle school students a window into scientists' world and intense experience with scientific reasoning](messy-radon-data-window-into-scientists-world.md) — related
+- [Rapid DS/ML development makes some course tools and approaches obsolete within years or between semesters, so undergraduate curriculum should focus on reasonably established applications](rapid-ml-development-obsoletes-course-tools.md) — related

@@ -67,3 +67,6 @@ Reported outcome of the remote REU interviews: the article states these gains ar
 - [Post-program surveys show most students felt more likely to pursue STEM, more comfortable in university labs, and found the program appropriately challenging](discovery-survey-attitudes-comfort-pursuit.md) — related
 - [Mentees' physics and researcher identity shifted from low-level to higher-level over the remote REU program](remote-reu-identity-growth.md) — related
 - [Remote REU mentees reported higher-level sense of belonging by the end of the program than at the beginning of the summer](remote-reu-mentees-belonging-growth.md) — related
+- [Student participants reported that the online reading group left them more academically prepared for future careers and brought them closer to their classmates](phasrs-interviews-preparedness-closeness.md) — related
+- [Remote REU mentees reported the experience was highly beneficial and the remote format did not open a gap between their objectives and outcomes](remote-reu-mentees-reported-highly-beneficial-outcomes.md) — a broader claim this one bears on
+- [Remote REU mentees' objectives fell into three categories: gaining research experience and career clarity, learning about physics subfields, and making connections with a broader community](three-mentee-objective-categories-remote-reu.md) — related

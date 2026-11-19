@@ -46,6 +46,7 @@ Claremont compensates candidates to make a yearlong coteaching model accessible 
 - [Strategic staffing partnership model funds resident stipends while meeting LEA paraeducator and substitute staffing needs](strategic-staffing-partnership-model.md)
 - [Fund stipends and laptops to remove financial barriers to participation](srmp-stipends-laptops-strategy.md)
 - [Offer dependent-care grants funded by a mini-grant to remove family-care barriers to meeting attendance](dependent-care-grants-meeting-attendance.md)
+- [Provide sufficient financial support — stipend, tuition, scholarships and health benefits — to remove financial barriers to PhD entry and retention](financial-support-bridge-retention-strategy.md)
 
 ## Examples
 -

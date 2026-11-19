@@ -11,9 +11,9 @@ evidence_strength: moderate
 newest_evidence: 2026
 recheck_by: 2029
 sources:
-  - id: yoonsu-kim-2026
+  - id: yoonsu-kim-2025
     resource: "https://doi.org/10.48550/arxiv.2504.00843"
-    title: "Yoonsu Kim, Hyoungwook Jin, Hayeon Doh, Eunhye Kim, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, and Juho Kim. (2026). Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work. arXiv. https://arxiv.org/abs/2504.00843 [doi:10.48550/arxiv.2504.00843](https://doi.org/10.48550/arxiv.2504.00843)"
+    title: "Yoonsu Kim, Hyoungwook Jin, Hayeon Doh, Eunhye Kim, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, and Juho Kim. (2025). Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work. arXiv. https://arxiv.org/abs/2504.00843 [doi:10.48550/arxiv.2504.00843](https://doi.org/10.48550/arxiv.2504.00843)"
     author: Yoonsu Kim, Hyoungwook Jin, Hayeon Doh, Eunhye Kim, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, and Juho Kim
     q: 2
     i: "?"
@@ -32,18 +32,18 @@ sources:
 # Qualitative error analysis yields five recurring error types, with over-inference most prevalent (33.5%), followed by evidence misidentification (23.4%) and hallucination (19.8%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 1 qualitative `r3`, 1 design `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
-`q2 i?` Three authors coded 372 sampled error cases (13.2% of 2,816) into five error types with substantial inter-rater reliability (Fleiss' κ= 0.74). [→ Yoonsu Kim 2026](#yoonsu-kim-2026)
+`q2 i?` Three authors coded 372 sampled error cases (13.2% of 2,816) into five error types with substantial inter-rater reliability (Fleiss' κ= 0.74). [→ Yoonsu Kim 2025](#yoonsu-kim-2025)
 `q2 i?` Smaller models showed a higher proportion of hallucination errors (48.78%), while reasoning-oriented models committed over-inference more frequently (46.61%). [→ Yoonsu Kim 2026 (2)](#yoonsu-kim-2026-2)
 
 ## Evidence
 
-### Yoonsu Kim 2026
+### Yoonsu Kim 2025
 
-Yoonsu Kim, Hyoungwook Jin, Hayeon Doh, Eunhye Kim, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, and Juho Kim. (2026). Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work. arXiv. https://arxiv.org/abs/2504.00843 [doi:10.48550/arxiv.2504.00843](https://doi.org/10.48550/arxiv.2504.00843)
+Yoonsu Kim, Hyoungwook Jin, Hayeon Doh, Eunhye Kim, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, and Juho Kim. (2025). Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work. arXiv. https://arxiv.org/abs/2504.00843 [doi:10.48550/arxiv.2504.00843](https://doi.org/10.48550/arxiv.2504.00843)
 
 `q2 · i?` · `qualitative · r3`
 
@@ -89,3 +89,4 @@ Distribution of the five error types across model categories (Table 4, Figure 5)
 - [Expert raters' coded comments cluster into five themes led by poor image generation and interpretation (22%)](pocus-rater-comment-five-themes.md) — related
 - [Four recurring error types were identified across multiple VSA questions and judged usable to inform teaching and learning](four-error-types-vsa-inform-teaching.md) — related
 - [A slight change in coordinate system on the 2007 final caused severe setup errors whose hierarchical coding hid the prevalence of boundary condition errors](coordinate-change-hides-error-prevalence.md) — related
+- [Student errors on cause-effect exercises are most frequently incorrect-cause-incorrect-effect, followed by missing-cause-correct-effect](error-distribution-cause-effect-exercises.md) — related

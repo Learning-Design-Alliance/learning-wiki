@@ -52,3 +52,4 @@ Time series clustering step of evaluation experiment 1 on [Org. A] 5 M., 7 M., a
 - [Multivariate logistic regression identifies interpreting text information and making supplementary statements as a candidate national-language factor keeping mathematics scores high](text-interpretation-factor-keeping-mathematics-scores-high.md) — related
 - [K-Means++ clustering of self-reported behavioral proxies yields six distinct, stable learner profiles (k = 6, Silhouette = 0.62)](six-behavioral-learner-profiles-kmeans-plus.md) — related
 - [Unsupervised clustering of CS1 keystroke data yields four chronotypes matching those reported for general populations](cs1-keystroke-clustering-four-chronotypes.md) — related
+- [Latent representations cluster into interpretable behavior types at question level, with less distinguishable task-switching clusters at student level](process-bert-representations-cluster-behavior-types.md) — related

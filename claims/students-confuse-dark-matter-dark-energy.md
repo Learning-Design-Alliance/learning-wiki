@@ -67,3 +67,4 @@ The authors' own observation, based on numerous informal discussions with studen
 ## Related Claims
 - [After the AST1000F course, students' free associations with 'astronomy' shifted toward more technical concepts taught in the course](free-association-shift-toward-technical-astronomy-concepts.md) — related
 - [Expert physicists apply matter-based predicates to non-material concepts in professional discourse](experts-use-matter-predicates-for-nonmaterial-concepts.md) — related
+- [Dialogic inquiry course activities led students to an unexpected dark-matter inference from ICM X-ray temperatures](unexpected-dark-matter-discovery-icm-activity.md) — related

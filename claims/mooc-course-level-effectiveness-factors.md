@@ -52,3 +52,5 @@ Narrative synthesis of facilitators and barriers extracted from the 36 primary s
 - [Instructor participation in MOOC forums shows no statistically significant impact on dropout, participation, or satisfaction](instructor-participation-no-significant-impact.md) — reports the opposite
 - [Forum reputation system increases speed and volume of responses but does not improve grades, retention, or sense of community](reputation-system-responses-not-grades.md) — related
 - [In a randomized between-subject experiment, MOOC learners using PeerCollab reported significantly higher sense of belonging on all six scale items than learners using the standard MOOC forum.](peercollab-higher-sense-of-belonging-than-forum.md) — a narrower finding that bears on this claim
+- [In xMOOC forums, student communities form around teachers with intensive student-teacher communication and very low intercommunity interaction](mooc-communities-built-around-teachers.md) — related
+- [Students on programming courses discuss programming tasks more with peers than with the teacher, in both MOOCs and a blended collaborative course](programming-discussed-more-with-peers-than-teacher.md) — related

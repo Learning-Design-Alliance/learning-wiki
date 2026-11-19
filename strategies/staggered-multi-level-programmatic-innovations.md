@@ -54,4 +54,4 @@ The program implemented innovations along two compartments (curricular and co-cu
 -
 
 ## Key Sources
-- Balasubramanian, R., Findley-Van Nostrand, D., & Fleenor, M. C. (2021). Programmatic Innovations that Accord with the Retention of Women in STEM Careers. arXiv preprint. https://arxiv.org/abs/2111.13776
+- Balasubramanian, R., Findley-Van Nostrand, D., & Fleenor, M. C. (2021). Programmatic Innovations that Accord with the Retention of Women in STEM Careers. arXiv preprint. https://arxiv.org/abs/2111.13776. [doi:10.48550/arxiv.2111.13776](https://doi.org/10.48550/arxiv.2111.13776)

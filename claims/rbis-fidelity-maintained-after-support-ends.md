@@ -50,3 +50,4 @@ SES-reported assessment of teaching fidelity using a criteria set supplied by th
 - [The fraction of faculty refusing to use RBIS because they did not believe in them decreased noticeably over time in every CWSEI-supported department](rbis-skepticism-declines-with-department-involvement.md) — related
 - [Many faculty who try research-based instructional strategies discontinue use after a single attempt due to lack of success and support](rbis-discontinuance-lack-of-support.md) — related
 - [Faculty interviews provided evidence of slippage in departments where SEI reforms were made after funding ended](sei-reform-slippage-after-funding.md) — related
+- [The SEPnet collaboration became fully sustained by member department contributions after external funding reduced across its phases](sepnet-fully-sustained-by-member-contributions.md) — related

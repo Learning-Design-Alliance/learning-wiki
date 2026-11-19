@@ -50,3 +50,5 @@ Survey item asked students to rate confidence in majoring in physics before and 
 - [The programme modestly improved self-reported engagement with science, with 32% more likely to talk to teachers and 34% more likely to consider studying science at university](sustained-outreach-improved-engagement-science.md) — related
 - [The majority of trained staff (48-62%) reported feeling more confident managing shoulder dystocia after PROBE training](staff-confidence-increased-after-probe.md) — related
 - [AI-supported lab manual design increased students' confidence in experimental design in an upper-division analytical chemistry laboratory course](ai-lab-manual-design-increased-confidence-experimental-design.md) — related
+- [MSc space-science students arrived with prior programming experience but few were confident programmers, and all respondents reported increased confidence after the course](msst-students-prior-programming-experience-and-confidence-shift.md) — related
+- [Outreach mediated by teachers engages students more deeply than physicists' single outreach events](teacher-mediated-outreach-deeper-engagement.md) — related

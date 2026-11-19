@@ -55,3 +55,4 @@ Meta-analysis of questionnaire-survey outcomes from 3–6 studies per outcome (4
 - [More flipped classroom residents self-reported improved communication, problem-solving, information-retrieval and teamwork abilities than lecture-based residents](fc-residents-self-reported-learning-ability-gains.md) — related
 - [In Chinese neurology education, TBL alone or combined with other methods is associated with improved self-study ability, communication skills, and teamwork ability versus LBL](tbl-improves-self-study-communication-teamwork.md) — related
 - [PBL-CBL outperforms LBL on subjective comprehensive competencies including self-learning, interest, efficiency, clinical thinking, teamwork, and communication](pbl-cbl-subjective-competencies-orthopedics.md) — related
+- [Students credited CST with improving information synthesis, logical thinking and independent problem-solving](cst-thinking-abilities-survey.md) — a narrower finding that bears on this claim

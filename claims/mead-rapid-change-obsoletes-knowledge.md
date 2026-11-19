@@ -50,3 +50,4 @@ The report's summary of Mead's 1950 Inglis Lecture at Harvard, in which she argu
 - [Mead argued education functions as a mechanism of social and cultural change, not only cultural transmission](mead-education-as-mechanism-of-social-change.md) — a broader claim this one bears on
 - [Mead holds that a method of thought cannot be transferred but must be gained through the learner's own abstractions](method-of-thought-cannot-be-transferred.md) — related
 - [Mead argued that treating the mother tongue as inferior impedes movement between home and school language structures](mead-mother-tongue-status-affects-bilingual-learning.md) — related
+- [Rapid DS/ML development makes some course tools and approaches obsolete within years or between semesters, so undergraduate curriculum should focus on reasonably established applications](rapid-ml-development-obsoletes-course-tools.md) — a narrower finding that bears on this claim

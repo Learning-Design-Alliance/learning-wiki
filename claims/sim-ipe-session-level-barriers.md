@@ -90,3 +90,4 @@ Thematic analysis found perceived hierarchies between medical and nursing studen
 - [Uneven team ratios and late integration of physiotherapy students into established medical teams hindered interprofessional contributions](uneven-team-ratio-hindered-physio-contribution.md) — a narrower finding that bears on this claim
 - [Lower simulation fidelity led to discovery of system-level gaps in practice in some instances](lower-fidelity-reveals-practice-gaps.md) — related
 - [Physiotherapy students report knowledge gaps in practical application of interdisciplinary approaches and in developing physiotherapy management plans for chronic conditions](physiotherapy-students-interdisciplinary-practice-knowledge-gaps.md) — related
+- [In team-based collaborative courses, one or two team leaders mediate communication with the teacher, reducing teacher overload](team-leaders-mediate-teacher-communication.md) — related

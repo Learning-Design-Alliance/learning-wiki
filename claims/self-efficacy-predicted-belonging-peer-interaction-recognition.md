@@ -56,3 +56,4 @@ Gender-mediation SEM (Fig. 1) on matched survey data from 544 students; the prin
 - [Sense of belonging is the largest predictor of post-course physics self-efficacy, and belonging uniquely explains substantial variance in self-efficacy](belonging-largest-predictor-post-self-efficacy.md) — related
 - [In the SEM model, gender has no direct effects on end-of-physics-2 self-efficacy, interest or identity; gender directly predicts only physics 1 self-efficacy (b = 0.28) and interest (b = 0.36)](sem-no-direct-gender-effects-physics2-outcomes.md) — related
 - [Perceived recognition is the largest predictor of physics identity among self-efficacy, interest, and the environmental factors](perceived-recognition-largest-predictor-physics-identity.md) — related
+- [Incoming physics and general science interest predict end-of-course physics self-efficacy, not the reverse, in active-learning physics courses](interest-drives-self-efficacy-directionality.md) — related

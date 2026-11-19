@@ -61,3 +61,4 @@ Rosser's testimony on the National Merit Scholarship Corporation, which awards o
 - [The EPIC evaluation baseline report compares student characteristics across the program's three partners and compares award-determination data with data on all students in the awarded schools](epic-baseline-compares-partner-student-characteristics-and-award-data.md) — related
 - [Girls score lower than boys on timed standardized math and science tests at the same course level, and SAT math scores underpredict women's college math performance](timed-test-gender-gap-underpredicts-college-performance.md) — related
 - [Overachievers (low SAT, high upper GPA) are disproportionately female (64%) and underachievers disproportionately male (79%)](overachievers-female-underachievers-male.md) — related
+- [Participants are equally divided between boys and girls, but 65% of ASIMOV Prize winners are female](asimov-prize-female-winners-65-percent.md) — reports the opposite

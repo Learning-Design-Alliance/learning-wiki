@@ -74,3 +74,4 @@ Follow-up Spearman correlations between follow-up anxiety and state-exam marks; 
 - [Girls scored significantly higher than boys in Latvian language and mathematics, but not in foreign language](gender-differences-latvian-mathematics-marks.md) — related
 - [Foreign language classroom anxiety correlates negatively with English exam performance among Thai secondary students](flca-negative-correlation-english-performance-thai-secondary.md) — reports the opposite
 - [Total last-semester average correlated significantly with IV catheterization score](last-semester-average-correlates-iv-catheterization.md) — related
+- [Pre-existing knowledge correlates weakly and positively with exam performance (r = 0.38)](weak-positive-correlation-pek-exam.md) — related

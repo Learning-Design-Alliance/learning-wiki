@@ -83,3 +83,4 @@ Quasi-experimental comparison of 222 students in introductory physics courses ta
 - [A forced mid-semester transition to online teaching produced no appreciable drop in FCI normalized gain (G = 0.24) for first-year mechanics students](forced-online-transition-no-gain-loss-fci.md) — related
 - [Introductory students show low post-instruction scores and small normalized gains after traditional lecture-based instruction](stpfasl-low-posttest-gains-traditional-instruction.md) — related
 - [Teacher's instruction yields about twice the normalized gain of peer instruction for a highly challenging pair of similar Lenz's law questions in the authors' protocol](ti-higher-normalized-gain-than-pi-similar-lenz-questions.md) — related
+- [Median normalized gains across repeatedly taught courses generally exceeded 0.25, with one course improving between its first and third implementation](longitudinal-median-gains-exceed-025-fig1.md) — related

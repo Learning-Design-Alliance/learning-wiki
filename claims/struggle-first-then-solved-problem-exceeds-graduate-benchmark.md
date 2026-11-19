@@ -53,3 +53,4 @@ Within-group pre/post comparison of calculus-based intervention 2 students (n=34
 - [In calculus-based introductory physics, providing a solved isomorphic two-step problem with scaffolding does not significantly improve performance on a three-step isomorphic quiz problem](scaffolding-two-to-three-step-transfer-null-calculus.md) — related
 - [First-year physics graduate students largely succeed on the three-step putty problem without scaffolding, providing an upper-limit benchmark of 9.2 out of 10](graduate-benchmark-putty-problem.md) — related
 - [Intervention 2 (solve the target problem first, then learn from the analogical solved problem) was among the most effective scaffolds in both courses, while intervention 1 was among the least effective](intervention-2-most-effective-scaffold.md) — related
+- [Learning gains are higher for students' first attempts than across all attempts](first-attempt-gains-exceed-all-attempt-gains.md) — related

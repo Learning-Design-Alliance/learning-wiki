@@ -50,6 +50,8 @@ The article recommends an introductory "Quantum 101" course with minimal math co
 - [Leverage QISE program development to promote diversity, equity, and inclusion in engineering](qise-dei-program-recommendations.md)
 - [Support female students' self-efficacy at their entry point into physics education in high school or college](support-female-self-efficacy-physics-entry-point.md)
 - [Balance quantum-specific and general STEM content in new quantum programs, offer broad quantum courses for non-specialist roles, and engage business education](quantum-curriculum-recommendations-from-industry-survey.md)
+- [Schedule a yearly national junior-level undergraduate survey course to recruit students into AS&E and traineeship programs](junior-level-undergraduate-survey-course.md)
+- [Produce and maintain free, on-demand targeted MOOCs at the undergraduate level for AS&E education and recruiting](targeted-asande-moocs-strategy.md)
 
 ## Examples
 -

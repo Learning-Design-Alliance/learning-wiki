@@ -47,3 +47,4 @@ Subset analysis of students who answered question 3 incorrectly on the pre-test 
 ## Related Claims
 - [Students' calculus transfer proficiency in introductory physics improved over the semester on a prototype assessment](calculus-transfer-gains-over-semester.md) — related
 - [Women showed larger normalized gains than men on the calculus transfer questions despite lower self-efficacy](women-larger-calculus-transfer-gains.md) — related
+- [Students' physics self-efficacy decreases significantly over a semester of Modeling Instruction introductory physics](mi-course-physics-self-efficacy-decrease.md) — related

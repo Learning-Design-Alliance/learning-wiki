@@ -52,3 +52,4 @@ Descriptive survey of the Winter Term 2014/15 course participants. Both sub-samp
 - [No indication of systematic differences between medical and nursing students in their perceptions of the inter-professional course, apart from slightly divergent judgements on some aspects](no-systematic-group-differences-perceptions.md) — a broader claim this one bears on
 - [A small survey of users judged the system's semantic and Bloom similarity results useful for deciding between real learning objectives](lo-similarity-user-survey-usefulness.md) — related
 - [95% of surveyed students agreed the module's technical ILOs were met, while project-planning ILOs needed further attention](tdps-ilo-attainment-survey.md) — related
+- [Among the ten faculty who taught revised courses in Fall 2021, 91% of reported outcomes went as well as or better than expected](fall-2021-outcomes-met-or-exceeded-expectations.md) — related

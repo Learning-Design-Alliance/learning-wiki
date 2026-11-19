@@ -69,3 +69,4 @@ Same questionnaire ratings: subjects 'were less positive about the chat session 
 - [Students rated the image decoding, poster sharing, and synthesis lecture components of a digital-images inquiry highest on a five-point feedback scale](digital-images-inquiry-student-feedback-ratings.md) — related
 - [Student-written experiment reports scored an average of 4.2 out of 5, which the authors took as positive evidence of experimental competence](lidyef2018-experiment-reports-4-2.md) — related
 - [Students evaluated the CPS experience positively, most appreciating group discussion and knowledge sharing](students-evaluate-cps-positively.md) — related
+- [Dialogic inquiry course showed very low to null drop rates and student appreciation of group discussion](low-drop-rates-student-appreciation-inquiry-course.md) — related

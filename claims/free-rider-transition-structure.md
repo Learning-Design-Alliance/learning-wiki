@@ -70,3 +70,4 @@ Sequence and transition analysis of the two active trajectories. Social-interact
 - [High joint visual attention can hide a free-rider effect in collaborative dyads](high-jva-hides-free-rider-effect.md) — related
 - [In informal social scenes, AgentSchool generates plausible traces of peripheral participation, clique formation, aggressor-induced cohesion, and opinion-leader emergence consistent with classroom social theories](informal-social-scenes-emergent-traces.md) — related
 - [Running PD PL over several sessions lets students counter free riders by negotiating or changing teammates](pd-pl-free-rider-prevention-via-session-iteration.md) — related
+- [In team-based collaborative courses, one or two team leaders mediate communication with the teacher, reducing teacher overload](team-leaders-mediate-teacher-communication.md) — related

@@ -68,3 +68,4 @@ The review reports, citing Rahmat and Chanunan (2018), that open inquiry was "pa
 - [VR/AR implementation challenges fall on three fronts: learner distraction and discomfort, teacher classroom-management and design burdens, and school cost and infrastructure limits](vr-ar-challenges-learners-teachers-schools.md) — related
 - [Antecedent-focused emotion regulation strategies are linked to higher-quality teacher-student interactions and better classroom management](antecedent-emotion-regulation-better-interactions.md) — related
 - [Teachers' limited skills in facilitating conversations and managing classrooms was the second most salient implementation barrier](skill-barriers-conversation-facilitation-classroom-management.md) — related
+- [Dialogic inquiry teaching requires a high facilitator-to-student ratio, limiting scalability in large universities](facilitator-ratio-limits-dialogic-inquiry.md) — related

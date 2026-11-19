@@ -53,6 +53,7 @@ The article recommends that physics communities reevaluate admissions criteria s
 - [Departments should implement evidence-based, systematic, holistic approaches to graduate admissions and partner with programs producing large numbers of underrepresented graduates](holistic-admissions-partner-msi-strategy.md)
 - [Establish standard definitions and mission-aligned competencies for admissions](standardize-admissions-definitions-mission-aligned-competencies.md)
 - [Transform the culture of physics so it signals to female students that they belong, alongside boosting science capital and utility value](transform-physics-culture-signal-belonging.md)
+- [Recommendations for undergraduate particle physics education](undergraduate-particle-physics-education-recommendations.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Descriptive attendance reporting from the project-impact section of the 2019 Per
 ## Related Claims
 - [Most workshop attendees were under 20 years old, with 122 of 165 participants under 20](astrobvi-attendees-mostly-under-20.md) — related
 - [Workshop attendance was predominantly male: 131 male and 34 female attendees, with women 21% of attendance](astrobvi-attendance-gender-21-percent-female.md) — related
+- [Traditional astronomy research, education and outreach relies heavily on visual presentation, which is a barrier to participation by blind and visually impaired persons](visual-reliance-barrier-bvi-astronomy.md) — related

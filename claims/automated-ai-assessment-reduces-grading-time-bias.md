@@ -52,3 +52,4 @@ In the review's Assessment and Feedback theme, it reports that AI assessment too
 - [Automated grading systems may produce systematically inequitable outcomes for international and non-Western students](automated-grading-bias-non-native-english.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [The authors report that digital objective evaluation systems reduced teachers' subjective evaluation bias and enabled students' critical self-assessment](digital-objective-evaluation-systems-reduced-subjective-bias.md) — a narrower finding that bears on this claim
+- [Marking by an objective independent third party eliminated supervisor bias in capstone assessment](independent-marker-eliminates-supervisor-bias.md) — related

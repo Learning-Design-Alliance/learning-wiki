@@ -51,3 +51,4 @@ A Pearson correlation matrix (Table 1, N = 846) examined bivariate correlations 
 - [The arousal-versus-control difference persists with no nesting effects by class, semester, or year across eight consecutive semesters](no-nesting-effects-arousal-difference-persists.md) — related
 - [Belief in combining learning modalities shows a weak positive correlation with exam scores](multimodal-belief-weak-positive-exam-correlation.md) — related
 - [Sepsis knowledge correlates only weakly with self-rated confidence (r = .213)](weak-knowledge-confidence-correlation-sepsis.md) — related
+- [Pre-existing knowledge correlates weakly and positively with exam performance (r = 0.38)](weak-positive-correlation-pek-exam.md) — related

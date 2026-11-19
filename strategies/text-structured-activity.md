@@ -67,6 +67,7 @@ Structured activities convert reading from passive reception into generative pro
 - [Assigned Readings](../strategies/assigned_readings.md) — the unstructured baseline this strategy improves on by adding the activity component
 - [Scaffold learners with a preassessment resource-evaluation poll plus source-evaluation videos before a written assignment requiring cited resources](scaffolded-preassessment-resource-evaluation-sequence.md)
 - [Use attributed borrowed videos and quizzes in outreach sections to attract younger students and support assimilation](quizzes-and-attributed-video-for-assimilation.md)
+- [Use the self-contained text directly as a learning tool for early undergraduates and as teacher material](tensor-text-direct-learning-tool-early-undergraduates.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the text component

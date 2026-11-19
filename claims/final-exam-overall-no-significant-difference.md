@@ -52,3 +52,4 @@ Comparison of unscaled cumulative final exam scores between pre-story years (201
 - [Students perceived their understanding of metabolism as significantly improved over the semester](storytelling-improved-perceived-understanding.md) — related
 - [A compressed 6.5-week integrated anatomy course maintained final course grades and was associated with higher USMLE Step 1 anatomy sub-scores relative to the prior 16-week course](compressed-anatomy-course-maintained-outcomes.md) — related
 - [CUE diagnostic scores showed no evidence that the story-writing activity adversely affected student learning relative to comparable courses](cue-scores-no-learning-harm.md) — related
+- [Average final exam scores increased after CST replaced script-oriented teaching in 2016-2018](cst-exam-scores-increase.md) — related

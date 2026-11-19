@@ -49,3 +49,4 @@ Comparison of faculty rubric ratings by applicant sex (the application system re
 - [Male and female students earn statistically indistinguishable graduate GPAs despite a statistically significant 30-point percentile gap in GRE-P scores between genders](gender-grep-gap-no-ggpa-gap.md) — related
 - [PGRE score distributions differ notably by gender among prize fellows, with about 42% of female fellows below the 50th percentile](pgre-gender-disparity-prize-fellows.md) — related
 - [Women and B/L/M/N applicants are admitted at higher or equal rates than male and white/Asian applicants with similar physics GRE scores, but this cannot be attributed to standing out via the test](women-blmn-higher-admission-rates-similar-scores.md) — related
+- [Rubric-based holistic review that considers more than test scores and GPA increased the demographic diversity of admitted graduate students at the University of Michigan](rubric-holistic-review-diversity-gains.md) — related

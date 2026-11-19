@@ -49,3 +49,5 @@ Experimental analysis of accelerometer time series with the device laid on a tab
 - [The multivariate normality assumption of the true score model was judged reasonable for all domains and grades](spanish-foundational-skills-normality-assumption-met.md) — related
 - [Q-Q plots, CDF curves, and residual checks support the joint normality assumption underlying the multivariate true score model for the course-specific tests.](course-specific-norms-normality-supported.md) — related
 - [Some advanced students conflate reduction of standard error with reduction of standard deviation, expecting more data to narrow the histogram's spread](standard-error-standard-deviation-conflation.md) — related
+- [Mobile sensors let students take hundreds or thousands of repeated measurements in seconds, transforming error-analysis teaching](sensors-enable-mass-repeated-measurements-error-analysis.md) — a broader claim this one bears on
+- [Smartphone sensor fluctuations, rather than mean values alone, can be used to teach fundamental error-analysis concepts](smartphone-sensor-fluctuations-error-analysis.md) — a broader claim this one bears on

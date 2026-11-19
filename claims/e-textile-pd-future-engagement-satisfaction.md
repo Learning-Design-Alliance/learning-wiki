@@ -77,3 +77,4 @@ Enjoyment/satisfaction survey (N = 31). Negatively framed items showed minimal n
 - [Student satisfaction with the online deliberate practice modules was high, with 97% rating them effective, 97% efficient, and 92% enjoyable](high-student-satisfaction-online-ecg-practice-modules.md) — related
 - [Students showed high satisfaction with and acceptance of the blended learning concept and NESTOR](high-student-acceptance-blended-learning-nestor.md) — related
 - [Participants report universally positive experiences and strong intentions to return to future SK Day events](sk-day-universally-positive-survey-replies.md) — related
+- [Participants rate the VR learning experience as enjoyable, with more than 75% agreeing or strongly agreeing](vr-enjoyment-high-ratings.md) — related

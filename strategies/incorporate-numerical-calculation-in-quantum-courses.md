@@ -55,6 +55,7 @@ The article recommends adding a computational component to introductory quantum 
 - [Pairing the simulator's visual plot with terminal readouts of intermediate vector quantities to make electric-field computation visible](plot-plus-terminal-intermediate-quantities-strategy.md)
 - [Have players compare expected with software-computed outcomes to reflect on and retrace quantum-operation misunderstandings](expected-vs-computed-outcome-reflection.md)
 - [Pair traditional quantum computation lecture topics with hands-on activities on real quantum systems](pair-lectures-with-hands-on-quantum-activities.md)
+- [Use the analog classical computer thought experiment with explicit floating-point discussion to teach the quantum-classical distinction](analog-classical-computer-thought-experiment-strategy.md)
 
 ## Examples
 -

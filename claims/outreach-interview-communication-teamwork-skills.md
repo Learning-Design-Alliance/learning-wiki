@@ -52,3 +52,4 @@ Qualitative coding of 35 interviews using 64 codes in MAXQDA, with code frequenc
 - [Ten literature-based competences are described by over 70% of interviewees in both surgery and psychiatry](ward-round-ten-common-competences.md) — related
 - [Experts spontaneously mention only a subset of competences when describing the ward round process, suggesting limited awareness of others](spontaneous-competence-focus-awareness-gap.md) — related
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
+- [Students most frequently named collaboration as the competence required for the practice task](collaboration-most-named-required-competence.md) — related

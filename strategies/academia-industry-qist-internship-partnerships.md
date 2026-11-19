@@ -43,6 +43,7 @@ Beyond in-house research experiences and capstone courses, the article recommend
 - [Support a long-term community engagement program whose form best matches the partner institution, such as guest speaker programs, outreach seminar courses, internships, or joint events](long-term-engagement-program-forms.md)
 - [Passion-based seminar program culminating in senior internships](passion-based-seminar-program-senior-internships.md)
 - [International practicum placements at partner astronomical research institutions for astronomy undergraduates](international-practicum-astronomy-research-institutes.md)
+- [Create HEPA-run industry internships and mentor training so early career scientists can experience industry settings without diluting core research](hepa-industry-internship-strategy.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ The review's synthesis of multiple short-term pre-post intervention studies in w
 - [Sustained interventions with regular reinforcement show more substantial improvements than short-term CPD programs](sustained-cpd-reinforcement-superior-outcomes.md) — related
 - [Training duration may moderate durability of role-playing empathy gains: a 40-minute workshop's gains were not persistent, unlike 12- and 20-hour programs](training-duration-moderates-empathy-gain-durability.md) — related
 - [Effects of the brief gatekeeper training were measured only immediately after the intervention; durability is unknown](gatekeeper-training-durability-unknown.md) — related
+- [Improvements in prediction accuracy do not automatically translate into improved student outcomes, a gap surfaced in 12 of 15 interviews](prediction-accuracy-outcome-gap-ml4ed.md) — possibly the same claim (merge candidate)

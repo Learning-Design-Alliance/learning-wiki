@@ -75,3 +75,4 @@ Authors' acknowledgment in the results and discussion of the course-performance 
 - [First-year engineering women show significant self-efficacy gaps favoring men in mathematics, engineering, and physics but not chemistry, and all gaps close by the fourth year except physics](self-efficacy-gender-gaps-close-by-year-four-except-physics.md) — related
 - [Women who drop STEM majors earn statistically significantly higher STEM GPAs than men who drop the same majors](women-drop-stem-majors-higher-gpa-than-men-who-drop.md) — related
 - [A woman student can perform comparably to peers in introductory physics yet report low physics self-efficacy while feeling confident in a closely related field](low-physics-self-efficacy-despite-comparable-performance.md) — related
+- [Women who dropped STEM majors earned significantly higher STEM GPAs than men who dropped the same majors, with small-to-medium effect sizes.](women-dropping-stem-higher-gpa-than-men-dropping.md) — related

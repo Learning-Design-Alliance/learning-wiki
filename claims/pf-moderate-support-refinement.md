@@ -52,3 +52,4 @@ Instructor-reported design refinement in the Methods description of the Activity
 - [Introducing more challenging work without sufficient supports or attention to students' emotions and learning strategies can lead to frustration, withdrawal, disruption, and less learning](unsupported-challenge-backfires.md) — a broader claim this one bears on
 - [Learning pitched at the edge of students' current abilities — the ZPD — is more effective than learning that is too easy or too frustrating](zpd-edge-learning-english-learners.md) — a broader claim this one bears on
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
+- [Lack of coding and mathematics preparation can lead to frustration, stress and possibly failure in physics DS/ML courses, with equity concerns about prerequisite enforcement](coding-prerequisite-gaps-cause-frustration-failure.md) — related

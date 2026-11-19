@@ -71,3 +71,4 @@ Same survey's engagement category: the prize-focus item was the lowest-rated, at
 - [Students most highly rated gamified TP games for practicing application of theoretical knowledge to clinical scenarios, prioritizing review concepts, and connecting complex concepts.](tp-games-foster-application-prioritization-connections.md) — related
 - [Internal medicine residents identified the leaderboard as the single most important motivator of participation in a gamified knowledge competition.](leaderboard-top-motivator-residents-kaizen-im.md) — related
 - [Students rate ARS use in lectures as motivating and report more active participation](ars-motivation-active-participation-ratings.md) — related
+- [Participants rate the VR learning experience as enjoyable, with more than 75% agreeing or strongly agreeing](vr-enjoyment-high-ratings.md) — related

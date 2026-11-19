@@ -21,7 +21,7 @@ sources:
 # Cultural-Historical Activity Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 17 claims (12 for, 5 mixed) · 13 studies (8 qualitative, 2 review, 2 theoretical, 1 design), `q1`–`q2` · 0 of 13 report an effect size · 17 claims rest on one study
+> **Evidence** · 18 claims (13 for, 5 mixed) · 14 studies (9 qualitative, 2 review, 2 theoretical, 1 design), `q1`–`q2` · 0 of 14 report an effect size · 18 claims rest on one study
 
 ## Description
 Cultural-historical activity theory (CHAT) holds that human thinking and learning cannot be separated from the culturally mediated activity in which they occur. Building on Vygotsky's insight that action is mediated rather than a direct stimulus-response link, CHAT analyzes learning through activity systems: a subject pursuing an object (a motive) using tools, within a community governed by rules and a division of labor. Object formation is treated as a joint, evolving achievement of participants rather than a fixed target defined in advance — the same activity can shift meaning as different groups (e.g., students, teachers, outside partners) bring different histories and interests to it. Two concepts extend the framework for settings that cross institutional boundaries: a **boundary object** is something plastic enough to adapt to each group's local needs yet stable enough to hold a shared identity across groups, and **dialogicality** describes how meaning is made by encounters between old (there-and-then) and new (here-and-now) meanings carried into the activity by different participants.
@@ -59,6 +59,7 @@ Cultural-historical activity theory (CHAT) holds that human thinking and learnin
 - [Early realization of a shared object/motive bonds adult course participants into a quasi-community](../claims/quasi-community-shared-object-motive.md) [+W]
 - [LLMs redistributed educational labor while family and institutional rules left parents and professionals responsible for interpreting outputs and deciding how they entered practice](../claims/llm-redistributed-labor-rules-leave-interpretation-responsibility.md) [~W]
 - [Children's tool use progresses from unspecific manual use to specific instrumental use governed by the tool's culturally established mode of acting](../claims/galperin-tool-use-developmental-study.md) [+W]
+- [Mentees in remote REUs used four main categories of mediating tools: home lab environments, research tools, professional development resources, and communication tools](../claims/four-tool-categories-remote-reu.md) [+W] — attached 2026-11-19 from Dina Zohrabi Alaee et al. (2022), which proposed "Cultural-Historical Activity Theory (CHAT) as a framework for analyzing remote research experiences".
 
 ## The evidence by question
 - *Does introducing a new tool, space or programme change practice on its own, or does lasting change need the activity's rules, roles and community redesigned with it?* [An innovation foreign to the rest of its system may be rejected; lasting change needs a coordinated bundle of innovations.](../claims/isolated-innovations-are-rejected-by-the-system-they-enter.md) [+M]

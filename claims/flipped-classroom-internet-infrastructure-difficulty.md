@@ -53,3 +53,4 @@ Coded open-question responses: the Internet Connection category occurred 7 times
 - [Internet connectivity problems hindered remote learning and compounded student anxiety during high-stakes assessments](connectivity-problems-assessment-anxiety-remote.md) — related
 - [During spring 2020 remote instruction, internet connectivity and hardware/software problems interfered with course participation for large shares of undergraduates](remote-covid-technology-access-problems-widespread.md) — related
 - [Immediately after closure, New York charter students lacked adequate devices (44.4% on average) more often than adequate internet access (27.0%), while teachers were almost universally equipped](device-access-gap-internet.md) — related
+- [Student journal feedback on the FCP was mixed but generally positive, with hindrances including lack of immediate help and internet connectivity problems](fcp-journal-feedback-mixed-positive.md) — related

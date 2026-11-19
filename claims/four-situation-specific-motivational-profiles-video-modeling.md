@@ -68,3 +68,4 @@ Profile description from the LPA results with class assignment probabilities abo
 - [Students with good-quality or moderately positive motivational profiles scored higher on the problem-solving posttest than students with poor-quality or moderately negative profiles](motivational-profile-problem-solving-posttest.md) — related
 - [Motivational profiles were associated with mental effort while studying the video modeling examples, but not with posttest mental effort](motivational-profile-mental-effort.md) — related
 - [Adult learners' motivation clusters into four profiles combining autonomous and controlled regulation, replicating the structure expected from SDT research with younger students](four-motivational-profiles-adult-learners.md) — related
+- [Four latent profiles of students emerged from non-cognitive measures: high grit, moderate, high intrinsic motivation, and low grit](four-latent-profiles-noncognitive-high-school.md) — related

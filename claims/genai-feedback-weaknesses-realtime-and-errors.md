@@ -84,3 +84,4 @@ Same qualitative dataset; the discussion also notes ChatGPT's wrong string name 
 - [Automated note feedback system had occasional phrase recognition errors and false positives](automated-feedback-phrase-recognition-limitations.md) — related
 - [Students rated asynchronous and rigid online methodologies (uploaded documents, chat-only, homework) as sub-standard, citing limited learning and lack of feedback](asynchronous-methodologies-rated-substandard.md) — related
 - [Students lacking prior technological skills had difficulty using the learning platform, making platform uptake an ongoing challenge](platform-skills-deficit-challenge.md) — related
+- [Student journal feedback on the FCP was mixed but generally positive, with hindrances including lack of immediate help and internet connectivity problems](fcp-journal-feedback-mixed-positive.md) — related

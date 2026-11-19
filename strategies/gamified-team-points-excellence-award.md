@@ -41,6 +41,7 @@ The article reports a "low-tech and transparent" gamified incentive: student tea
 
 - [Leaderboards](leaderboards.md)
 - [Gamification](gamification.md)
+- [Use school credit, apprenticeship-hour recognition and material awards to incentivize student and teacher participation in a reading program](asimov-prize-incentives-pcto-credits-awards.md)
 
 ## Examples
 -

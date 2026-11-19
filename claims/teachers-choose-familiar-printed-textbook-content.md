@@ -46,3 +46,4 @@ Blitz survey of elementary school teachers after textbook selection in the EBSE 
 
 ## Related Claims
 - [Perceived ease-of-use based on simplicity and familiarity with common chart types heavily influenced teachers' visualization preferences](simplicity-familiarity-drive-dashboard-preference.md) — related
+- [Over 90% of students reported choosing the course section because of its time of day, not the instructor's active-learning reputation](section-choice-time-of-day-confound-check.md) — related

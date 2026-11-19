@@ -82,3 +82,4 @@ Same multinomial logistic regression analysis. The three non-gender predictors w
 - [Few students report groupmates limiting their participation, and lower biology competency, not gender or race/ethnicity, predicts such reports](low-exclusion-reports-competency-predicts.md) — related
 - [Socio-demographic characteristics and A-level qualifications did not distinguish course-completers from non-completers among identified struggling students](demographics-alevels-not-distinguish-strugglers.md) — related
 - [A reviewed study identified 17 user characteristics considered sources of adaptation for adaptive learning systems](seventeen-user-characteristics-adaptation-sources.md) — related
+- [Students' gender, race, maternal education level, and social-economic ranking predicted latent profile membership](demographics-predict-noncognitive-profiles.md) — related

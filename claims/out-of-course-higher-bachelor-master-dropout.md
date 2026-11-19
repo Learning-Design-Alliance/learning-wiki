@@ -51,3 +51,4 @@ Bayesian BQR analysis of administrative data on 2655 Bachelor graduates in Econo
 - [Experiencing the MD 270/04 academic regulations is associated with lower Bachelor-Master non-continuation, an effect significant at lower quantiles that logistic regression does not detect](md27004-regulations-lower-noncontinuation-quantiles.md) — related
 - [Undergraduates with a household economic indicator (ISEE) of at least 30000 euro have a significantly higher drop-out probability, while the first three ISEE classes do not differ](high-isee-higher-dropout.md) — related
 - [The weighted average mark of passed exams predicts Bachelor-Master drop-out positively for regular students but not for out-of-course students](wam-effect-regular-vs-out-of-course-students.md) — related
+- [87% of the 40 students who visited La Palma are now involved in astrophysics studies across multiple levels in academia](87-percent-la-palma-participants-in-astrophysics.md) — related

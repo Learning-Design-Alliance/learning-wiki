@@ -54,6 +54,7 @@ The article proposes two linked data-analysis learning opportunities from one de
 - [Use diffraction of dust-acoustic waves around a cylindrical object as a model system for learning diffraction of sound waves](dust-acoustic-wave-diffraction-sound-learning.md)
 - [Use vortex and rigid rotational motion of dust grains, induced by a charged probe or an external magnetic field, to teach vortex flow and rotational motion of many-body systems](dusty-plasma-vortex-rotational-motion-learning.md)
 - [Use real-world application examples with Matlab/Simulink simulations to teach transformer behavior](real-world-examples-simulink-transformer-teaching-strategy.md)
+- [Use real-event media — videos, satellite maps and audio recordings — as data sources students acquire themselves in physics problems](real-event-media-data-acquisition-strategy.md)
 
 ## Examples
 -

@@ -72,6 +72,7 @@ Frequency and specificity of communication drive effects: personalized messages 
 - [Embed counting practice in varied classroom activities and inform parents about advanced counting activities at home](embed-counting-classroom-and-home-activities.md)
 - [Deliver low-intensity parental engagement support via short, actionable school text messages rather than apps or face-to-face sessions](school-text-messages-parental-engagement-strategy.md)
 - [Work out SMS delivery schedules with students and plan ahead for delivery conflicts and missed messages](sms-delivery-schedule-planning-strategy.md)
+- [Deploy randomized A/B comparisons of email reminders through the LMS as a low-cost embedded experimentation paradigm](ab-comparison-email-reminder-paradigm.md)
 
 ## Examples
 - **[ClassDojo](https://www.classdojo.com)** — class story feeds, private message translation into 35+ languages, and student portfolio sharing; widely used in elementary settings.

@@ -74,3 +74,4 @@ Multinomial logistic regression covariate analysis of the four-profile solution.
 - [Most adolescents (83%) experience moderate-to-high culturally relevant school support, with few experiencing very low or very high levels](majority-in-mid-level-support-profiles.md) — related
 - [The four support profiles are characterized by distinct relative levels: one profile is low on all dimensions, and one profile is high on all three dimensions](low-and-high-support-profile-characteristics.md) — related
 - [Lower academic self-efficacy is associated with membership of three less engaged momentary-engagement profiles and lower peer support with two, while educational goals and family support do not differ across the four profiles tested](self-efficacy-peer-support-predict-profile-membership.md) — related
+- [Students' gender, race, maternal education level, and social-economic ranking predicted latent profile membership](demographics-predict-noncognitive-profiles.md) — related

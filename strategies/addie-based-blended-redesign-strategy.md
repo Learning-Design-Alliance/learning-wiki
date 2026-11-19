@@ -50,6 +50,7 @@ An implementable redesign recipe: form an interdisciplinary team of lecturers, d
 ## Related Strategies
 
 - [Blended Learning](blended_learning.md)
+- [Use the ADDIE model to develop RBL-STEM learning materials](addie-development-rbl-stem-materials.md)
 
 ## Examples
 -

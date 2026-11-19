@@ -50,4 +50,4 @@ A video game implementing a modified Prisoner's Dilemma for mapping social relat
 -
 
 ## Key Sources
-- Candia, C., Pulgar, J., Pinheiro, L. (2022). Interconnectedness in Education Systems. In: T. Yasseri (Ed.), Handbook of Computational Social Science. Edward Elgar Publishing Ltd. https://arxiv.org/abs/2203.05624
+- Candia, C., Pulgar, J., Pinheiro, L. (2022). Interconnectedness in Education Systems. In: T. Yasseri (Ed.), Handbook of Computational Social Science. Edward Elgar Publishing Ltd. https://arxiv.org/abs/2203.05624. [doi:10.48550/arxiv.2203.05624](https://doi.org/10.48550/arxiv.2203.05624)

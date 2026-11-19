@@ -54,3 +54,4 @@ Zero-shot evaluation on most- and least-common distractor prediction tasks over 
 - [LLMs show discoverability bias: they accurately identify only high-quality open-ended biology responses and miss nuanced misconceptions](llm-discoverability-bias-open-ended-biology-assessment.md) — related
 - [Rarely chosen distractors can carry clinically important information about unsafe practices, so removing them loses diagnostic information](rarely-chosen-unsafe-distractors-informative.md) — related
 - [Neural-network predictions agree with the analytical solution within the training domain and can extrapolate when the wavelength-distance product falls within the support of the training distribution, but fail when it does not](nn-extrapolation-lambda-z-support.md) — related
+- [Student errors on cause-effect exercises are most frequently incorrect-cause-incorrect-effect, followed by missing-cause-correct-effect](error-distribution-cause-effect-exercises.md) — related

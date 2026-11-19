@@ -54,3 +54,4 @@ Orthogonal contrast-code regression comparing stayers to all leavers, with a Bon
 - [Interest and value were the dominant topics in leavers' explanations, especially among students leaving due to attraction](interest-value-dominant-topic-in-attrition-explanations.md) — related
 - [URM students left biomedical fields at higher rates than majority students, an effect explained in part by their lower biology course grades](urm-higher-biomedical-attrition-mediated-by-grades.md) — related
 - [Higher general class anxiety is associated with lower self-reported course grade and intention to leave the biology major](general-anxiety-lower-grade-persistence.md) — related
+- [Serendipity — finding the right people or resources at critical moments — is the greatest difference between STEM students who stay and those who leave](happenstance-stayer-leaver-difference.md) — related

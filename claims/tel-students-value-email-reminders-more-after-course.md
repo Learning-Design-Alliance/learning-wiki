@@ -48,3 +48,4 @@ Within-group comparison on the attitude questionnaire (Question 29, 1–6 scale)
 - [Students rated regular announcements/e-mail reminders and grading rubrics for all assignments as the most beneficial learner-to-instructor strategies](announcements-rubrics-top-learner-instructor-strategies.md) — related
 - [Online students value learner-to-instructor engagement strategies most among the three interaction categories](learner-to-instructor-strategies-most-valued-online.md) — related
 - [Students' ratings of the importance of simulation training and human factors training rose significantly from pre-test to post-test after the module, in one uncontrolled pre-post study](simulation-module-improved-simulation-human-factors-ratings.md) — related
+- [Most students find reminder emails motivating, with evidence about early starts and instructor recommendations each rated helpful by 63%](students-rate-reminder-content-motivating-likert.md) — related

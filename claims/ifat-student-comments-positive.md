@@ -52,3 +52,4 @@ Qualitative collection of written comments from end-of-semester course evaluatio
 - [In the first course offering, students rated overall course quality 6.05/7.00 and instructor quality 6.89/7.00, and all open-ended comments were positive](mathematica-course-high-satisfaction-ratings.md) — related
 - [Student feedback on the story-writing activity was overwhelmingly negative in both semesters despite high effort](story-writing-negative-feedback.md) — related
 - [All student comments on the course's design elements were positive in final-exam reflections and course evaluations](positive-student-reflections-course-design-elements.md) — a broader claim this one bears on
+- [Students reacted positively to ALPaCA objective-based grading in end-of-semester free-response surveys](alpaca-positive-student-survey-comments.md) — related

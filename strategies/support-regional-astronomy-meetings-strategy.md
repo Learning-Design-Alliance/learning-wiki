@@ -46,6 +46,7 @@ The paper recommends building regional astronomy groups and regular regional mee
 ## Related Strategies
 
 - [Fund large-scale, long-duration PUI-focused research collaborations that train faculty alongside students](pui-focused-research-collaborations-strategy.md)
+- [Build collaborative bridges between R1 institutions and R2/PUI/CC faculty](r1-r2-pui-cc-collaborative-bridges.md)
 
 ## Examples
 -

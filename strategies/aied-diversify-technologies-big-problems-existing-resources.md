@@ -48,6 +48,7 @@ As concrete revolutionary moves, the article recommends broadening beyond deskto
 - [Use data mining in education research in a principled, goal-driven way informed by domain knowledge](principled-data-mining-use-strategy.md)
 - [Move AIED beyond its modeling comfort zone into ill-defined domains](aied-beyond-comfort-zone-ill-defined-domains.md)
 - [Integrate increasing and varied information sources, including wearables and ambient intelligence devices, into learner models](integrate-varied-sources-into-learner-models.md)
+- [Use mobile-device sensor experiments to promote active learning and a fundamental role for the student](mobile-sensors-active-learning-strategy.md)
 
 ## Examples
 -

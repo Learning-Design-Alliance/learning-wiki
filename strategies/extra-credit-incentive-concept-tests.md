@@ -44,6 +44,7 @@ Because some students quickly mark down answers on concept-inventory pre- and po
 - [Allocate scores for extensive reading as motivation rather than penalty](scores-as-extensive-reading-incentive.md)
 - [Award participation marks for attempting at least 10 quiz questions per lecture within 14 days and scoring at least 60%](participation-mark-incentive-strategy.md)
 - [Use a compulsory but ungraded quiz to verify student familiarity with orientation material](compulsory-ungraded-orientation-quiz.md)
+- [Use school credit, apprenticeship-hour recognition and material awards to incentivize student and teacher participation in a reading program](asimov-prize-incentives-pcto-credits-awards.md)
 
 ## Examples
 -

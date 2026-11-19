@@ -52,3 +52,4 @@ Narrative summary from the review's Motivation section: two studies analyzing cu
 - [Instruments show great heterogeneity in measurement quality, with validity or reliability information lacking in many cases](heterogeneous-measurement-quality-teacher-competence-instruments.md) — related
 - No instruments were found measuring teachers' self-regulation in relation to inclusive teaching of autistic children, a gap the review flags for future research — related
 - [Teachers' self-efficacy is connected to the effectiveness of inclusion implementation, with self-efficacy for inclusive curricula mattering more than self-efficacy for cooperation](teacher-self-efficacy-inclusion-implementation.md) — related
+- [In German physics education, low to no correlations were found between teachers' professional knowledge, instruction quality, and student achievement](german-theory-practice-gap-physics.md) — related

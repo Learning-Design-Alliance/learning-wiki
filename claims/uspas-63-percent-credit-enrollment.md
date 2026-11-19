@@ -47,3 +47,4 @@ Descriptive enrollment statistics reported for the U.S. Particle Accelerator Sch
 
 ## Related Claims
 - [The John Adams Institute has enrolled an average of five PhD students per year since 2005, with eleven graduates since 2008 mostly employed in accelerator physics](jai-enrollment-five-per-year-eleven-graduates.md) — related
+- [The USPAS serves 300 to 350 students per year with 20 to 26 specialized graduate-level courses delivered in two intensive two-week in-person sessions annually](uspas-annual-scale-and-format.md) — related

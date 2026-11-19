@@ -52,3 +52,5 @@ Change-score analysis from the beginning of Physics 1 to the beginning of Physic
 - [Both male and female students' physics self-efficacy and interest declined from the beginning to the end of the course, with female students declining more](self-efficacy-interest-decline-pre-post-females-more.md) — related
 - [Physics self-efficacy of both men and women decreased over the semester, with a smaller decrease for women](physics-self-efficacy-decrease-semester.md) — related
 - [A short beginning-of-semester social-psychological intervention closed the gender gap in performance in an introductory calculus-based physics course](short-belonging-intervention-closed-gender-gap-physics.md) — related
+- [Students' physics interest and general science interest both decrease significantly over a semester of Modeling Instruction](mi-course-interest-decreases.md) — related
+- [Students' physics self-efficacy decreases significantly over a semester of Modeling Instruction introductory physics](mi-course-physics-self-efficacy-decrease.md) — related

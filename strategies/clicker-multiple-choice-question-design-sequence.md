@@ -46,6 +46,7 @@ The article's integration strategy recasts warm-up, homework, and review questio
 - [Retrieval Practice Warm Ups](retrieval-practice-warm-ups.md)
 - [Low Stakes Quizzing](low-stakes-quizzing.md)
 - [Pair clicker questions with at-home follow-up reflections asking students to explain each statement](pair-clickers-with-at-home-reflection-explanations.md)
+- [Optional age-calibrated multiple-choice quizzes with explanations at the end of each game level](optional-age-calibrated-quiz-strategy.md)
 
 ## Examples
 -

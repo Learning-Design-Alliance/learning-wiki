@@ -54,3 +54,4 @@ Embedded case study of eight Grade 5-6 rural teachers completing ten AI-guided m
 - [Teachers' knowledge of SRL is partial and unevenly developed across all three dimensions](teachers-srl-knowledge-partial-uneven.md) — related
 - [AI systems perform poorly at identifying Shulman CK, PCK and GPK categories in line-by-line coding](ai-poor-shulman-coding-accuracy.md) — related
 - [Curriculum and subject content knowledge gained prominence from Week 3, while student diversity remained consistent throughout](pck-element-prominence-shifts-week-3.md) — related
+- [Developing PCK dimensions helped teachers address critical issues in teaching quantum physics such as mathematical formalism and use of representations](pck-dimensions-address-quantum-teaching-critical-issues.md) — related

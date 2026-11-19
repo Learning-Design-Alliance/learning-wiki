@@ -47,6 +47,7 @@ The strategy is a follow-on award used by MAES 2018: the fifteen finalists recei
 
 - [Provide scholarships to talented disadvantaged undergraduates to encourage biomedical research careers](scholarships-disadvantaged-undergraduates-research-careers.md)
 - [Fund school visits, a local visit coordinator, teacher training and artist-in-residence to boost H.E.S.S. outreach](hess-outreach-boost-recommendations.md)
+- [Provide need-based scholarships conditioned on limiting outside work to fewer than 10 hours per week](cal-bridge-need-based-scholarship-work-limit-strategy.md)
 
 ## Examples
 -

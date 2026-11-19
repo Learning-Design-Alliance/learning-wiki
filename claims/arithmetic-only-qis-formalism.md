@@ -47,3 +47,4 @@ The article addresses, in its Quantum 101 section, the concern that a course wit
 ## Related Claims
 - [A four-part outreach program lets high-school and early undergraduate students perform meaningful hands-on quantum circuit calculations without advanced mathematics](qist-outreach-without-advanced-math.md) — related
 - [The authors report that quantum cryptography can basically be explained to high school students within half an hour](quantum-cryptography-half-hour-high-school-explanation.md) — related
+- [Students with only high-school-level math can learn rigorous fundamentals of quantum information and computation through a pictorial formalism](high-school-math-sufficient-quantum-information-fundamentals.md) — related

@@ -53,3 +53,4 @@ The article's own assertion in its introduction, citing prior literature (Kane 1
 - [Six cases are required for formative assessment (reliability > 0.7) and 10 cases for summative assessment (reliability > 0.8)](foi-test-case-requirements-formative-summative.md) — related
 - [Published evidence suggests LLM scoring can outperform standardized patient scoring on rubric-scored written notes, but generalizability remains open](llm-scoring-lower-incorrect-rate-than-sp.md) — related
 - [The intervention group showed statistically significant greater improvement in 11 of 16 procedure-based assessment domains compared with controls](scs-improves-11-of-16-pba-domains.md) — related
+- [Most students demonstrated at least proficiency across the assessed science and engineering practices, but only some groups replicated results three times](most-students-proficient-replication-limited.md) — related

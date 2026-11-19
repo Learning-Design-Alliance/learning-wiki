@@ -49,6 +49,7 @@ The authors recommend that student support programs keep a virtual option open e
 
 - [Run academic conferences by teleconference with live-chat question submission and recorded sessions stored for later review](teleconferenced-academic-conferences-live-chat-recording.md)
 - [Structure virtual conferences as recurring short evening sessions with public general sessions and private cohort-building sessions](split-session-virtual-conference-structure.md)
+- [Design remote research programs with structured communication, explicit norms, shipped equipment, and dedicated workspaces to expand access to research experiences](remote-reu-design-strategy.md)
 
 ## Examples
 -

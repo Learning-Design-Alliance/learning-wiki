@@ -48,3 +48,4 @@ Authors' interpretation of a graduate student's self-reported analogy: like intr
 ## Related Claims
 - [Graduate students categorize introductory mechanics problems more expert-like than introductory students but below physics faculty from their own perspective](grad-students-categorize-between-novices-and-faculty.md) — related
 - [For individual problems, physics faculty produced the most expert-like principle-based categorizations, followed by graduate students and then introductory students](faculty-most-expert-like-per-problem-categorization.md) — related
+- [Experts use general patterns and broad categorizations when solving physics problems, but novices do not make this leap as readily](experts-categorize-novices-do-not-physics-problems.md) — related

@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 118 claims (66 for, 42 mixed, 10 against) · 118 studies (34 review, 30 causal, 13 theoretical, 12 qualitative, 11 associational, 9 quant-synthesis, 9 design), `q1`–`q4` · 10 of 118 report an effect size · 113 claims rest on one study
+> **Evidence** · 120 claims (68 for, 42 mixed, 10 against) · 120 studies (34 review, 31 causal, 13 theoretical, 12 qualitative, 11 associational, 10 design, 9 quant-synthesis), `q1`–`q4` · 10 of 120 report an effect size · 115 claims rest on one study
 
 ## Conditional relationship
 
@@ -184,6 +184,8 @@ Claims this page cited that were re-read against the model (on 2026-10-15, and a
 - [The direction of the training-order advantage differed by career length: under 24 months favoured lecture-then-simulation, 24 months or more favoured simulation-then-lecture](../claims/nrp-training-order-advantage-moderated-by-career.md) [+W] — attached 2026-11-07 from Choi Seoheui et al. (2023), which proposed "Tailor the order of lecture and simulation in NRP training to each trainee's degree of experience"; tests this page's relationship.
 - [Perceived ideal training methods differ by learner level: novices benefit from supervision, role modeling, simulation, and didactics, while senior learners benefit from hands-on practice, feedback, and autonomy](../claims/learner-level-adaptation-trauma-leadership.md) [+W] — attached 2026-11-08 from Quon S et al. (2022), which proposed "Trauma leadership training programs should use a variety of methods, adapt to the learner's level of training, and incorporate multidisciplinary and interprofessional training".
 - [The tailored e-module significantly and durably changed experienced GPs’ perceptions of patients with sleep problems](../claims/elearning-durable-change-gp-patient-perceptions.md) [+W] — attached 2026-11-08 from Creupelandt Hanne et al. (2019), which proposed "Tailor e-interventions to target-group characteristics to promote durable behavior change in experienced clinicians"; tests this page's relationship.
+- [The personalized method outperforms the data-quality-weighted FedIRT baseline by at least 5% in most cases](../claims/meta-learning-beats-fedirt-by-5pt.md) [+W] — attached 2026-11-19 from Yun-Wei Chu et al. (2018), which proposed "Do not down-weight underrepresented student subgroups when aggregating student models".
+- [Beginner-level students benefit most from matched question variants, with a 19% relative reduction in ultimate failure rate and a 30% relative reduction in skip rate versus control](../claims/beginners-benefit-most-from-matched-question-variants.md) [+W] — attached 2026-11-19 from Elkins et al. (2022), which proposed "Personalize the linguistic phrasing of tutor questions to student proficiency level"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

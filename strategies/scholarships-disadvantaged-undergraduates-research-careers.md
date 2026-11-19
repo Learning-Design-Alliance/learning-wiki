@@ -44,6 +44,7 @@ The strategy is to award competitive scholarships to highly talented undergradua
 ## Related Strategies
 
 - [Immersing awarded students in a year-long scholarship program with monthly meetings, observatory visits and community outreach](maes-icj-scholarship-immersion-strategy.md)
+- [Provide need-based scholarships conditioned on limiting outside work to fewer than 10 hours per week](cal-bridge-need-based-scholarship-work-limit-strategy.md)
 
 ## Examples
 -

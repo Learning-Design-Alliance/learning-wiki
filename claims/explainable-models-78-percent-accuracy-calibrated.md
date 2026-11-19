@@ -77,3 +77,4 @@ Calibration analysis comparing assigned probabilities to observed pass rates in 
 - [Current-submission evidence and prior traces predict near-term persistent failure with moderate discrimination under student-disjoint evaluation](persistent-failure-moderate-discrimination-student-disjoint.md) — related
 - [The scheduling model fit the experimental data well, correlating strongly with actual final-test performance (r = 0.775) with AUC = 0.871](model-fit-recall-prediction-accuracy.md) — related
 - Reporting of the validity source consequences is largely absent from identified assessment studies — related
+- [A logistic regression exercise affinity model predicted exercise outcomes with 66% cross-validated accuracy, above a 60% majority-class baseline, and was used to simulate unattempted exercises for bandit pre-training](exercise-affinity-model-66-percent-accuracy.md) — related

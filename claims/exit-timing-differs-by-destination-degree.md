@@ -49,3 +49,4 @@ Authors' reading of the FIG. 2 bubble diagram of enrollment timelines: exit timi
 - [Most (87%) students who declare a physics major and graduate earn a degree in some STEM field](87-percent-physics-declarers-graduate-stem.md) — related
 - [Students who leave the physics major take required introductory courses later than the recommended schedule, while physics degree earners take them earlier](course-timing-differentiates-physics-degree-earners.md) — related
 - [Z-score-normalized introductory math and physics grades differentiate physics degree earners (above average) from physics declarers who leave (below average)](normalized-grades-differentiate-physics-graduates.md) — related
+- [Serendipity — finding the right people or resources at critical moments — is the greatest difference between STEM students who stay and those who leave](happenstance-stayer-leaver-difference.md) — related

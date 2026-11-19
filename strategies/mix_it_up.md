@@ -63,6 +63,7 @@ The strategy operationalizes the [intergroup contact](../theories/situated-learn
 - [Check-ins](../elements/check-in.md) — a low-stakes structured format that can serve as the mixing prompt itself
 - [Jigsaw](../patterns/collaborative-learning.md) — a task structure that makes cross-group interdependence unavoidable
 - [Facilitate online social interaction through small, non-obligatory discussion groups and support teachers to adapt their teaching style](small-non-obligatory-discussion-groups-blended-support.md)
+- [Lower participation barriers with presenter slide sets, discussion questions, and opening personal check-ins](phasrs-barrier-lowering-session-design.md)
 
 ## Examples
 - **[Mix It Up at Lunch Day](https://www.learningforjustice.org/professional-development/mix-it-up-at-lunch-day)** (Learning for Justice, formerly Teaching Tolerance) — schools assign lunch-table groupings and provide conversation starter cards to break up cafeteria cliques.

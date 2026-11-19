@@ -44,6 +44,7 @@ Because multi-year degree redesign is slow, the paper recommends agile strategie
 - [During adoption, determine professional learning needs and secure sustainable funding for training before proceeding](adoption-stage-professional-learning-funding.md)
 - [Support first-year adopters of a comprehensive curriculum with quick-start overviews, editable materials, and curated course plans](support-first-year-curriculum-adopters-quick-start.md)
 - [Provide differentiated scaffolding matched to teachers' behavioral-cognitive profiles when supporting multi-agent AI workflow design](differentiated-scaffolding-teacher-ai-design-profiles.md)
+- [Curate and coordinate DS/ML physics-education materials and share teaching experiences through community forums](curation-coordination-dsml-physics-education-materials.md)
 
 ## Examples
 -

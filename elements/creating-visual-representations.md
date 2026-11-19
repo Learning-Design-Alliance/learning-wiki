@@ -13,7 +13,7 @@ generated:
 # Creating Visual Representations
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 5 studies (3 causal, 1 review, 1 theoretical), `q2`–`q3` · 1 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 7 claims (5 for, 2 mixed) · 6 studies (3 causal, 1 review, 1 design, 1 theoretical), `q1`–`q3` · 1 of 6 report an effect size · 6 claims rest on one study
 
 ## Description
 Creating visual representations is the element in which learners externalize understanding through diagrams, sketches, models, or other visuals.
@@ -31,6 +31,7 @@ Creating visual representations is the element in which learners externalize und
 - [In a pre-registered experiment, visualization type significantly affected education practitioners' accuracy in interpreting meta-analytic evidence, with the MARC plot outperforming bar plots, forest plots, and rainforest plots](../claims/marc-plot-improves-practitioner-interpretation-accuracy.md) [+W] — attached 2026-10-31 from Kaitlyn G. Fitzgerald et al. (2022), which proposed "Meta-Analytic Rain Cloud (MARC) Plot"; tests this page's relationship.
 - [The MARC plot's direct y-axis encoding of study weight enabled 95% of practitioners to identify the most-weighted study, versus fewer than 6 in 10 for the other three visualizations](../claims/marc-y-axis-weight-encoding-identification.md) [+W] — attached 2026-10-31 from Kaitlyn G. Fitzgerald et al. (2022), which proposed "Meta-Analytic Rain Cloud (MARC) Plot"; tests this page's relationship.
 - [The MARC plot offered no advantage over existing visualizations for judging statistical significance of the summary effect or recognizing the summary effect as the best estimate of the true SMD](../claims/marc-no-advantage-significance-summary-estimate.md) [~W] — attached 2026-10-31 from Kaitlyn G. Fitzgerald et al. (2022), which proposed "Meta-Analytic Rain Cloud (MARC) Plot"; tests this page's relationship.
+- [Students with only high-school-level math can learn rigorous fundamentals of quantum information and computation through a pictorial formalism](../claims/high-school-math-sufficient-quantum-information-fundamentals.md) [+W] — attached 2026-11-19 from Sophia E. Economou et al. (2022), which proposed "Pictorial 'mist' notation with distinct shapes per qubit for teaching quantum states and gates".
 
 ## Related Elements
 - [Graphic Organizers](graphic-organizers.md)

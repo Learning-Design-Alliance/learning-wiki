@@ -50,3 +50,4 @@ From the thematic analysis of five faculty interviews, participants reflected on
 - [Relationship building between home and host individuals is an ongoing interpersonal investment whose timing determines when adaptation proposals succeed.](relationship-building-timing-adaptation.md) — related
 - [Psychological safety, including awareness of host-context hierarchy and norms around mistakes, emerged as a theme supporting open participation in transborder adaptation.](psychological-safety-transborder-adaptation.md) — related
 - [Student reflections at the clinic consistently show assumptions challenged and replaced with cultural awareness](refugee-clinic-reflections-cultural-awareness.md) — related
+- [Theoretical physicists make and refine assumptions throughout the research process rather than in a single step](theorists-assumptions-ongoing-throughout-project.md) — related

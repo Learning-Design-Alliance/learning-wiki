@@ -72,3 +72,4 @@ The scan's key idea following its compilation of exposure and exploration resour
 - [At least 12% of NITARP educators report substantially changing career paths in part due to the program, and 14% call the experience life changing](nitarp-career-change-life-changing.md) — a narrower finding that bears on this claim
 - [Early research involvement integrated a former student into the physics community and supported her path to a research career](fp-vignette-community-and-career-integration.md) — a narrower finding that bears on this claim
 - [Tracer study finds RTU astronomy graduates employed within six months, with research and computational skills most valued and oral communication flagged for improvement](rtu-astronomy-tracer-study-employment-skills.md) — related
+- [Interns lacked prior software exposure and research opportunities, requiring an initial software training phase](msi-interns-lacked-software-exposure-requiring-initial-training.md) — related

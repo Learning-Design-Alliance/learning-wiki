@@ -50,3 +50,4 @@ Observational analysis of institutional records, GPA trends by race/ethnicity in
 - [GPA differences between degree-earners and major-droppers vary by major cluster, from roughly 0.6 grade points in the first STEM cluster to roughly 0.2 in the second](gpa-gap-earners-vs-droppers-by-cluster.md) — related
 - [Women who drop the first cluster of STEM majors earn significantly lower grades than men who persist, while women who drop the second cluster earn the same grades as men who persist](women-drop-cluster1-grades-midway-men-drop-persist.md) — related
 - [URM students drop the physics major at roughly twice the rate of White students (65% vs 34%) at the studied university](urm-physics-attrition-65-vs-34-percent.md) — related
+- [Students who dropped a STEM major generally had lower overall GPA and STEM GPA than students who earned a degree in that major.](stem-droppers-lower-gpa-than-persisters.md) — related

@@ -71,3 +71,4 @@ Program-reported attendance figures for the Supernova! toolkit developed with th
 - [Free-response survey answers described a unique blending of art and science and reported learning about black holes, supernovae, and gravitational waves](free-response-art-science-blending-learning.md) — related
 - [AHaH outreach pilots showed a qualitative increase in public participation, especially among young people](ahah-outreach-participation-increase.md) — related
 - [Online platforms can reach the public as effectively as traditional astronomy outreach activities](online-platforms-effective-astronomy-outreach.md) — related
+- [Scientific idioms such as black holes and time travel have become popular among non-specialists through internet and social media](modern-physics-idioms-popular-among-non-specialists.md) — related

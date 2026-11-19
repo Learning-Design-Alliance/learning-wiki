@@ -69,3 +69,4 @@ Improvement-ranking items from the same survey (N=18). "11 of 18 for more worked
 - [Students in a 13-week lecture-free course reported accepting the weekly closed-book gate and rated the format as deeper and faster than lectures](tdaa-student-acceptance-weekly-gate.md) — related
 - [Students ranked the self-paced AI-study block and the weekly closed-book test as the components they would miss most, treating tests as useful accountability](weekly-tests-ranked-accountability.md) — related
 - [The weekly closed-book gate was attainable: 80.1% of recorded student-test observations reached the 100-point credit cap](closed-book-gate-attainable-scores.md) — related
+- [A preparation-for-future-learning introduction to active learning was followed by far fewer complaints that students had to teach themselves than an explanation-based introduction](pfl-introduction-reduced-teach-themselves-resistance.md) — related

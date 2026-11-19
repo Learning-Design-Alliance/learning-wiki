@@ -75,3 +75,4 @@ In the case-study example of the cheetah-pronghorn kinematics problem, the biolo
 - [Designing a physics course for life-science majors shifted content selection away from mathematically derivable canonical topics and toward phenomenologically introduced topics such as diffusion.](physics-content-selection-for-life-sciences.md) — related
 - [Physics professors report that inauthentic interdisciplinary content reads as pandering and reduces course credibility and student engagement](inauthentic-interdisciplinary-content-undermines-credibility.md) — related
 - [A student who had not made the physics/math blend valued mathematical functional dependence once it was connected to a concrete authentic example](student-valued-math-when-explained-scaling.md) — a narrower finding that bears on this claim
+- [SIZR zombie apocalypse epidemiology model as an engaging course example](sizr-zombie-epidemiology-course-example.md) — a narrower finding that bears on this claim

@@ -142,6 +142,7 @@ This pattern is scoped to structured adversarial argument on a question that adm
 ## Examples
 
 - [Use the Meeting-House Debate strategy to instruct critical thinking skills in EFL reading classes](../strategies/meeting-house-debate-strategy.md)
+- [Combine dialogued expository classes, laboratory practicals, guided discussion groups, seminars and debates in the Statistics discipline](../strategies/statistics-discipline-methodology-mix.md)
 
 ## Related Patterns
 - [Socratic Seminar](../elements/socratic-seminar.md)

@@ -46,6 +46,7 @@ The authors suggest that when students feel frustrated selecting a research topi
 - [Student Choice](student_choice.md)
 - [Varying Levels of Choice in Assessments](varying_levels_of_choice_in_assessments.md)
 - [Treat the consensus competency and practice list as a menu of options and invest in faculty development while prioritization and evaluation research proceed](competency-list-as-menu-plus-faculty-development.md)
+- [Bounded 'choose your own adventure' topic selection using ten generic topic templates](bounded-choice-topic-templates-capstone.md)
 
 ## Examples
 -

@@ -79,3 +79,4 @@ Narrative mapping across included studies, notably the Wilkinson et al. systemat
 - [Idle simulation equipment is common and is associated with lower faculty training and personnel resources](idle-simulation-equipment-linked-training-personnel.md) — related
 - [Informatization of higher education institution management faces high costs, missing specialists, and missing links between facilities](informatization-management-problems.md) — related
 - [Free or low-cost robotic telescope access equalises instrumentation access across socioeconomic and physical barriers](robotic-telescope-equity-access.md) — related
+- [Physics capacity development in Africa is constrained by lack of research facilities, low doctoral enrolment and graduates, low publication output, and few research institutes and industry opportunities.](african-physics-capacity-challenges.md) — related

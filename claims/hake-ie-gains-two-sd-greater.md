@@ -106,3 +106,4 @@ The article reports (Introduction) Hake's large multi-course survey as backgroun
 - [EBAE instruction benefits students at all pretest performance levels, with higher gains in every pretest third](ebae-benefits-all-pretest-levels.md) — related
 - [Introductory students show low post-instruction scores and small normalized gains after traditional lecture-based instruction](stpfasl-low-posttest-gains-traditional-instruction.md) — a narrower finding that bears on this claim
 - [Students' basic physics content knowledge improved substantially, with diagnostic scores rising 20% on average (d = 1.1)](diagnostic-gain-20-percent-d-1-1.md) — a narrower finding that bears on this claim
+- [A median class normalized gain of 0.25 is adopted as the holistic threshold of an effective course, following Hake (1998)](median-normalized-gain-025-effective-course-threshold.md) — a narrower finding that bears on this claim

@@ -81,3 +81,4 @@ Interview participants in the three content-specific communities, each convened 
 - [Consonant interactions are not necessarily better than dissonant interactions for group work](consonant-not-necessarily-better.md) — related
 - [The decrease in off-task interactions suggests students built successful collaborations, consistent with off-task interaction serving student positioning within groups](off-task-decrease-suggests-collaborations-formed.md) — related
 - [Interactions inside the Fellowship support material design through sharing ideas and feedback, while interactions outside the Fellowship can hinder implementation of new ideas](social-interactions-inside-outside-flc.md) — related
+- [Intern feedback indicated a strong in-person component is needed to build community in a virtual internship](in-person-component-needed-for-community.md) — related

@@ -49,3 +49,4 @@ Pre/post survey at the 2020 IBM Qiskit Global Summer School, the authors report 
 - [After taking the quantum computing module, students significantly improved their quantum mechanics and quantum computing concept knowledge](qc-module-improved-qm-qc-concept-knowledge.md) — related
 - [A four-part outreach program lets high-school and early undergraduate students perform meaningful hands-on quantum circuit calculations without advanced mathematics](qist-outreach-without-advanced-math.md) — related
 - [A kinesthetic game in which students play qubits and scientists lets high-school students experience quantum features and discover underlying rules from experimental data first-hand](kinesthetic-qubit-game-first-hand-experience.md) — related
+- [Students with only high-school-level math can learn rigorous fundamentals of quantum information and computation through a pictorial formalism](high-school-math-sufficient-quantum-information-fundamentals.md) — related

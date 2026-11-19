@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 375 claims (285 show a difference, 49 mixed, 41 no difference) · 295 studies (96 associational, 95 causal, 34 review, 30 qualitative, 21 design, 10 quant-synthesis, 8 theoretical), `q1`–`q4` · 59 of 295 report an effect size · 371 claims rest on one study
+> **Evidence** · 377 claims (287 show a difference, 49 mixed, 41 no difference) · 296 studies (96 associational, 95 causal, 34 review, 31 qualitative, 21 design, 10 quant-synthesis, 8 theoretical), `q1`–`q4` · 59 of 296 report an effect size · 373 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -406,6 +406,8 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [A digital game-based AR marine education program for primary learners produced confidence, goal attainment, and efficiency gains](../claims/ar-game-based-marine-education-outcomes.md) [+M] — measured as an outcome of the instruction studied
 - [Anonymous peer review supports perceived competence: students perceived improved work quality, critical thinking and workplace skills, with noted difficulties](../claims/anonymous-peer-review-perceived-competence.md) [~M] — measured as an outcome of the instruction studied
 - [Female facilitators self-reported positive impacts on interest and motivation (all), and on confidence and self-efficacy, internal and external recognition, and performance and competency beliefs (majority)](../claims/outreach-positive-identity-impacts-female-facilitators.md) [~M] — measured as an outcome of the instruction studied
+- [A writing-intensive introductory GE astronomy course increased non-major students' perceptions of their own ability to engage with STEM across all four measured tasks](../claims/sciwri-ge-course-increased-ability-perceptions.md) [+M] — measured as an outcome of the instruction studied
+- [Student confidence in writing about a new scientific discovery increased, with 9 students feeling more confident post-course](../claims/sciwri-increased-confidence-writing-discovery.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

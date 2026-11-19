@@ -61,3 +61,4 @@ Pearson product-moment correlation in the 355-nurse survey found "a weak yet sta
 - [Perceived barriers and facilitators differ between sepsis recognition and sepsis management](recognition-vs-management-barriers.md) — related
 - [Knowledge scores show no significant correlation with attitude or communication performance in any group](knowledge-no-correlation-attitude-performance.md) — related
 - [NBME exam scores correlated weakly with IUD insertion self-assessment (rho = 0.22)](nbme-iud-self-assessment-weak-correlation.md) — related
+- [Pre-existing knowledge correlates weakly and positively with exam performance (r = 0.38)](weak-positive-correlation-pek-exam.md) — related

@@ -61,3 +61,4 @@ Focus group theme on technological challenges: students worried about "missing i
 - [Poor internet connectivity, timing clashes, and home distractions were the main hindrances to online learning in the developing-country setting](connectivity-timing-hindrances-online-learning.md) — related
 - [Students reported negative experiences when the flipped classroom lacked adequate infrastructure such as internet connection](flipped-classroom-internet-infrastructure-difficulty.md) — related
 - [Resource inequalities disadvantaged low-achieving students during virtual learning](resource-inequalities-la-students.md) — related
+- [Student journal feedback on the FCP was mixed but generally positive, with hindrances including lack of immediate help and internet connectivity problems](fcp-journal-feedback-mixed-positive.md) — related

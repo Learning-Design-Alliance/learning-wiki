@@ -53,3 +53,4 @@ Group-specific correlation analysis presented in Figure 1 for the science expert
 - [Maths anxiety negatively predicts only maths-related grades (Algebra and Geometry) among high-achieving adolescents](maths-anxiety-negatively-predicts-algebra-geometry-only.md) — related
 - [Spatial ability correlates with educational performance across many STEM disciplines and sub-disciplines](spatial-ability-correlates-stem-performance.md) — related
 - [Worry is the only anxiety measure positively linked with school grades after controlling for other anxieties](worry-positively-predicts-grades.md) — related
+- [Female students' difficulties in the experiment stemmed from persistent Euclidean-geometry conceptions and algebraic-tool difficulties, yet they independently generated a compression explanation](girls-euclidean-conceptions-compression-explanation.md) — related

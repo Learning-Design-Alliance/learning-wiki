@@ -46,6 +46,7 @@ The author recommends that future work and implementations attend to game featur
 ## Related Strategies
 
 - [Teachers should structure group work so student communication stays on-task and productive](structure-group-communication-on-task.md)
+- [Use a game-based online course to foster meta competences as preparation for domain-specific practice tasks](game-based-meta-competence-course-strategy.md)
 
 ## Examples
 -

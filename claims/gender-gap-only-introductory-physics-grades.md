@@ -53,3 +53,5 @@ MANOVA on three clusters of courses (introductory physics, advanced physics, mat
 - [Women were marginally about 1.5 times more likely than men to earn a top grade (A or A+), failing to support the variability hypothesis](women-more-likely-top-grades-stem.md) — related
 - [Women who drop STEM majors earn statistically significantly higher STEM GPAs than men who drop the same majors](women-drop-stem-majors-higher-gpa-than-men-who-drop.md) — related
 - [Women who drop the first cluster of STEM majors earn significantly lower grades than men who persist, while women who drop the second cluster earn the same grades as men who persist](women-drop-cluster1-grades-midway-men-drop-persist.md) — related
+- [Among students who persisted and earned STEM degrees, women earned only slightly higher grades than men, with small effect sizes.](persisting-women-only-slightly-higher-grades-than-men.md) — related
+- [Women who dropped STEM majors earned significantly higher STEM GPAs than men who dropped the same majors, with small-to-medium effect sizes.](women-dropping-stem-higher-gpa-than-men-dropping.md) — related

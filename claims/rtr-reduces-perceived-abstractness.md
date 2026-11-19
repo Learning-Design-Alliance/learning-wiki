@@ -51,3 +51,4 @@ Survey of one ANU class in 2008 in which 19 students had completed the RTR lab a
 - [Most students who completed the RTR lab found it interesting and wanted more simulations in their studies](rtr-student-attitudes-interest.md) — related
 - [Learning through RTR was predominantly active and hands-on, equivalent to other laboratory activities](rtr-predominantly-active-hands-on-learning.md) — related
 - [Students in RTP labs report a stronger perceived connection between lab experiment concepts and lecture theory than students in traditional labs](rtp-students-report-lab-lecture-connection.md) — related
+- [Lab experiment showed no gains on modeling and simulation questions, with students viewing models as ground truths rather than abstractions](vera-lab-no-modeling-gains-ground-truths.md) — related

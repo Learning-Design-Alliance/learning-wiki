@@ -17,7 +17,7 @@ sources:
 # Expectancy-Value Framework for Teachers' Motivation to Use AI Applications
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 11 claims (10 for, 1 against) · 7 studies (3 associational, 1 causal, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 0 of 7 report an effect size · 11 claims rest on one study
+> **Evidence** · 11 claims (10 for, 1 against) · 8 studies (3 associational, 2 theoretical, 1 causal, 1 qualitative, 1 design), `q1`–`q3` · 0 of 8 report an effect size · 11 claims rest on one study
 
 ## Description
 A theoretical application of Expectancy-Value Theory to why teachers do or do not adopt AI applications in education. The paper holds that "teachers' motivation to use AI technologies in the classroom is shaped by their beliefs about how successfully they can use these technologies (expectancy)" and by their perceptions of the technologies' significance (value), with value split into attainment, utility, intrinsic/interest value, and cost.

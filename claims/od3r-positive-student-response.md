@@ -54,3 +54,4 @@ Supporting free-response data collected by asking students' opinions about the O
 - [Approximately 80% of voluntary TPS-group students expressed positive opinions of the strategy, citing improved understanding, participation, confidence and attitude](tps-student-opinions-mostly-positive.md) — related
 - [Students found argumentation-based activities fun and instructive, with experimenting the most-liked part](student-views-argumentation-activities-fun-instructive.md) — related
 - [Students responded positively to the transiting-planet inquiry activity, with 90% writing positive post-activity survey responses](transiting-planets-inquiry-90-percent-positive-feedback.md) — related
+- [Students reacted positively to ALPaCA objective-based grading in end-of-semester free-response surveys](alpaca-positive-student-survey-comments.md) — related

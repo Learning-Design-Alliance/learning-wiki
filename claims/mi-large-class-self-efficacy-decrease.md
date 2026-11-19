@@ -70,3 +70,4 @@ The article reports the 3.79% average drop masks wide individual variation: "stu
 - [Team-Based Learning in an IPLS course produces a small positive overall self-efficacy shift for she-identifying students](tbl-ipls-overall-self-efficacy-gain-she-students.md) — reports the opposite
 - [Average E-CLASS self-efficacy score decreased from 0.86 to 0.77 over the course](self-efficacy-e-class-decrease-086-077.md) — related
 - [Vicarious learning shows no significant self-efficacy shift for she-identifying students at the item level](vicarious-learning-no-significant-shift-she-students.md) — related
+- [Students' physics self-efficacy decreases significantly over a semester of Modeling Instruction introductory physics](mi-course-physics-self-efficacy-decrease.md) — possibly the same claim (merge candidate)

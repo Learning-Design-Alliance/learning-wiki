@@ -53,3 +53,4 @@ Descriptive statistics on the attitude subscale among experimental-group student
 - [Positive attitudes toward ChatGPT increased from before to during the practicum](chatgpt-attitudes-increased-during-practicum.md) — related
 - [Irûmi increased second-graders' positive attitudes toward technology by 0.228 SD](irumi-student-technology-attitudes.md) — related
 - [TAME-ChatGPT construct scores indicated a generally positive attitude towards ChatGPT and its use in the study sample](tame-chatgpt-positive-attitude-descriptive.md) — related
+- [Students reported overwhelmingly favorable perceptions of the FCP, with 88–94% agreement across ten inventory items and the highest rating (94%) for promoting positive attitudes toward mathematics](fcp-perception-inventory-favorable.md) — related

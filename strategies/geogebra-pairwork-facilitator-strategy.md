@@ -46,7 +46,8 @@ The article recommends that "teachers be encouraged to use GeoGebra software in 
 - [Year 9 students learning circles with GeoGebra significantly outperformed the control group on the post test](../claims/geogebra-circles-posttest-outperformance.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use online tessellation creator software (drawio, GeoGebra) in the technology stage](online-tessellation-software-strategy.md)
 
 ## Examples
 -

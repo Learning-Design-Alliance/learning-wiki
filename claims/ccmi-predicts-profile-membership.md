@@ -53,3 +53,4 @@ Multinomial logistic regression (R3STEP in Mplus) of auxiliary covariates on pro
 - [Three distinct racial-mathematical identity profiles emerge among Black adolescents and are robust across two time points one year apart](three-racial-mathematical-identity-profiles-lpa.md) — related
 - [Magnet schools show significantly lower cultural and critical mathematics instruction and higher racial stereotyping than neighborhood schools](magnet-schools-lower-ccmi-higher-stereotyping.md) — related
 - [Student perceptions of school racial stereotyping are not directly associated with racial-mathematical profile membership](stereotyping-not-associated-with-profile-membership.md) — related
+- [Non-cognitive profiles significantly predicted 9th-grade mathematics and science achievement but not English](profiles-predict-grade9-math-science.md) — related

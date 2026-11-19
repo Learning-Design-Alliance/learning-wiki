@@ -49,3 +49,4 @@ Program-level descriptive statistics reported by the organizers, covering 1984-2
 ## Related Claims
 - [All students give midterm and final oral presentations and write a technical report, archived in the Fermilab Education Office web archive, with 6 ECTS credits upon passing a University of Pisa final exam](midterm-final-presentations-technical-report-ects.md) — related
 - [The summer school shows growth indicators: school network, participation and applications increased](pigelleto-growth-indicators.md) — related
+- [The Fermilab Italian student training program hosted approximately 550 students from more than 20 Italian universities over 36 years](fermilab-italian-training-550-students.md) — related

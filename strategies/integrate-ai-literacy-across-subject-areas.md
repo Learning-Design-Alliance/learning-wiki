@@ -58,6 +58,7 @@ The report recommends that educators 'integrate AI literacy within the topics th
 - [Embed new curricular content by replacing an existing clerkship activity rather than adding instructional time](replace-existing-clerkship-activity-strategy.md)
 - [Integrate CT into existing subjects such as sciences, maths and English when a standalone CS course is not feasible](integrate-ct-into-existing-subjects.md)
 - [Integrate AI into core curricula by using data that students already produce in subject activities to teach data-related AI competencies](student-produced-data-ai-integration-strategy.md)
+- [Integrate hands-on AI project modules directly into core subjects as an intermediate approach between informal and formal AI education](integrate-ai-modules-into-core-subjects.md)
 
 ## Examples
 -

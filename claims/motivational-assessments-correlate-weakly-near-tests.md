@@ -57,3 +57,4 @@ Pearson correlations between pooled motivational assessments and test/exam resul
 - [Sepsis knowledge correlates only weakly with self-rated confidence (r = .213)](weak-knowledge-confidence-correlation-sepsis.md) — related
 - [Structural equation modeling in the block group showed course value positively predicted self-assessed statistical ability, which weakly predicted exam achievement](sem-perceptions-predict-biostatistics-achievement.md) — related
 - [Student satisfaction with the competitive experience correlates weakly but significantly with academic improvement (r = 0.292)](weak-correlation-satisfaction-improvement-competition.md) — related
+- [Pre-existing knowledge correlates weakly and positively with exam performance (r = 0.38)](weak-positive-correlation-pek-exam.md) — related

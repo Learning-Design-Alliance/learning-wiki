@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 301 claims (166 show a difference, 66 mixed, 69 no difference) · 227 studies (109 associational, 82 causal, 15 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 2 design), `q1`–`q4` · 37 of 227 report an effect size · 300 claims rest on one study
+> **Evidence** · 303 claims (168 show a difference, 66 mixed, 69 no difference) · 228 studies (109 associational, 83 causal, 15 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 2 design), `q1`–`q4` · 37 of 228 report an effect size · 302 claims rest on one study
 
 ## How to read this page
 
@@ -386,6 +386,8 @@ A learner's economic and social position: family income or poverty (often measur
 - [In the remote-learning semester, first-generation students submitted a significantly lower fraction of modules on time than non-first-generation students, a gap not present in the face-to-face SP20 semester.](../claims/first-gen-lower-on-time-remote.md) [+M] — an instructional effect differs by group
 - [Remote learning significantly reduced early submission frequency for first-generation students while increasing it for non-first-generation students.](../claims/first-gen-early-submission-decline-remote.md) [+M] — an instructional effect differs by group
 - [The first-generation student score gap shows a small, statistically non-significant reduction on the student-created problem assessment](../claims/problem-project-first-gen-gap-not-significant.md) [-M] — an instructional effect differs by group
+- [DFW rates decreased for every student cohort after ALPaCA implementation, with the most significant decreases for women and first-generation students](../claims/alpaca-dfw-rates-decreased-cohorts.md) [+M] — an instructional effect differs by group
+- [Implementing ALPaCA competency-based grading increased average course grades in calculus-based introductory physics, with larger improvements for women and first-generation students](../claims/alpaca-grading-largest-gains-women-first-generation.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

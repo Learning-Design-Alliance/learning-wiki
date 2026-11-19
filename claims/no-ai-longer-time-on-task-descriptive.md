@@ -54,3 +54,4 @@ Descriptive analysis of task durations derived from Tobii interval markers (n=28
 - [AI assistance reduces task completion time in both education groups, the only outcome without an equalizing pattern](ai-reduces-completion-time-no-equalizing-pattern.md) — related
 - [AIDA-supported participants spent on average twice as long in the course platform as controls, but the difference in usage time was not statistically significant](aida-usage-time-doubled-not-significant.md) — related
 - [Intensive AI assistance predicts strong task performance even with low engagement, but follow-up performance is substantially higher only when intensive AI use is combined with sustained task engagement](intensive-ai-use-carryover-requires-task-engagement.md) — related
+- [Participants spent more time learning in the VR environment than the control group spent studying the paper drawing](more-time-in-vre-than-paper.md) — related

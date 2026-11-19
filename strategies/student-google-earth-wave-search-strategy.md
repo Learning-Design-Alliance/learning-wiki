@@ -42,6 +42,7 @@ The concluding section recommends that "Students can search out their own exampl
 - [Have students determine ship speeds from Google Earth wake images and check results against known boat speeds](google-earth-wake-ship-speed-strategy.md)
 - [Teachers and students create their own 360-degree VR content using free apps like Google Street View](create-own-360-images-street-view.md)
 - [Use electronic atlas measurement and coordinate tools to shift student attention from routine calculation to geographic reasoning](atlas-measurement-tools-focus-on-geographic-reasoning.md)
+- [Use real-event media — videos, satellite maps and audio recordings — as data sources students acquire themselves in physics problems](real-event-media-data-acquisition-strategy.md)
 
 ## Examples
 -

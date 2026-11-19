@@ -51,3 +51,4 @@ Authors' interpretation of the randomized experiment in which the group solving 
 - [Reducing extraneous load can also remove affordances for germane processes](extraneous-load-reduction-may-remove-germane-affordances.md) — related
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — a broader claim this one bears on
 - [Physics education research consensus: learning with more representations makes students less affected by the representational format of problem statements](multiple-representations-reduce-format-dependence.md) — related
+- [Students' attempts to resolve inconsistencies in understanding involved the use of external representations such as force diagrams](inconsistency-resolution-involves-external-representations.md) — related

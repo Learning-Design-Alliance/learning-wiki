@@ -19,7 +19,7 @@ sources:
 # Colorado Learning Attitudes about Science Survey
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 associational), `q2` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A standardized, Likert-scale survey developed to measure students’ beliefs and attitudes about learning science by comparing responses with expert-response patterns.
@@ -30,9 +30,11 @@ A standardized, Likert-scale survey developed to measure students’ beliefs and
 - **E-CLASS: Colorado Learning Attitudes about Science Survey for Experimental Physics**: The E-CLASS is a 30 item, Likert-style survey of student epistemologies about experimental physics. Students rate each prompt, such as "The primary purpose of doing physics experiments is to conﬁrm previously known results.", from both their personal perspective when doing experiments in class and that of a hypothetical experimental physicist. It was validated through student interviews and expert review and tested for statistical validity and reliability using responses from multiple institutions and course levels. (Bethany R. Wilcox et al. (2016))
 - **Colorado Learning Attitudes About Science Survey (CLASS)**: The Colorado Learning Attitudes About Science Survey is a physics attitude instrument in which "Subjects are presented with thirty statements; they mark if they agree or disagree with the statement", and responses are compared with those of professional physicists. It was built around predetermined latent categories such as Independence, Coherence, Concepts, Math, Effort, and Skepticism. In this study it measured non-science majors' attitudes before and after a robot graphing activity and served as the predictor set for TUG-K score change. (Stanley Sobolewski et al. (2018))
 - **CLASS (Colorado Learning Attitudes about Science Survey): 42-statement Likert instrument with eight expert-referenced categories**: CLASS is an attitudes-and-beliefs questionnaire developed by the PER group at the University of Colorado Boulder (Adams et al., 2006), which the article says has "undergone an exhaustive validation process" including interviews with students and 16 physicists. The instrument "is comprised of 42 statements, each with a five-level Likert scale", organized into "eight non-exclusive categories"; each answer is scored +1 or -1 according to agreement with typical expert responses. The authors administered it electronically to Uruguayan teachers and teacher-training students using a Physport spreadsheet adapted for the purpose. (Álvaro Suárez et al. (2021))
+- **Colorado Learning Attitudes about Science Survey (CLASS), Finnish translation**: CLASS is a widely used attitude instrument measuring how closely students' views resemble those of physics experts. The article administers "the Finnish translation of the CLASS survey" yearly to new physics students as a pre-survey at the start and a post-survey near the end of the spring semester. It consists of 42 statements on a 5-point Likert scale, scored into 8 categories plus an overall expert-like thinking score. (Teemu Hynninen et al. (2022))
 
 ### Claims
 - [CLASS attitude scores are strongly related to change in TUG-K graph-interpretation scores for non-science majors](../claims/class-favorability-explains-tug-k-variance.md) [+M]
+- [CLASS scores predicted course grades only for the fully remote cohort, with R = 0.65 for post-survey overall score](../claims/class-grade-correlation-stronger-remote-cohort.md) [~M]
 
 ## Related Products and Programmes
 
@@ -44,6 +46,7 @@ A standardized, Likert-scale survey developed to measure students’ beliefs and
 - Bethany R. Wilcox and H. J. Lewandowski. (2016). Impact of instructional approach on students' epistemologies about experimental physics. arXiv:1609.05758. https://arxiv.org/abs/1609.05758
 - Stanley Sobolewski, Brandon Vought, Kathryn Hagood. (2018). Effect of Robot-Kinematic Activity on CLASS And TUG-K Scores of Non-Science Majors. https://scholar.google.com/scholar?q=Effect+of+Robot-Kinematic+Activity+on+CLASS+and+TUG-K+Scores+of+Non-Science+Majors
 - Álvaro Suárez, Daniel Baccino, Martín Monteiro, Arturo C. Martí. (2021). What are the attitudes and beliefs about Science of the Physics teachers and future Physics teachers in Uruguay? https://bit.ly/CLASS-profes-UY2020
+- Teemu Hynninen, Henna Pesonen, Olli Lintu, and Petriina Paturi. (2022). Ongoing eﬀects of pandemic-imposed learning disruption on student attitudes. https://arxiv.org/abs/2209.13977
 
 # Colorado Learning Attitudes about Science Survey (CLASS) as the outcome measure
 

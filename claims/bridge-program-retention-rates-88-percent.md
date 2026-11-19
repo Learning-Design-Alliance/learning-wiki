@@ -70,3 +70,5 @@ Individual bridge site retention figures reported in the Summary and outcomes se
 - [The APS Bridge Program has placed over 150 students into Bridge or graduate physics programs, with placements comprising 93% URM and 23% female students](aps-bridge-program-placement-outcomes-93-urm.md) — related
 - [Students placed by the APS Bridge Program are 93% URM and 24% female, with the URM group composed of 64% Hispanic, 24% African American and 5% Native American students](aps-bridge-cohort-93-urm-24-female.md) — related
 - [The Fisk-Vanderbilt master's-to-PhD bridge program, using a 30-minute interview instead of a GRE cutoff, achieved over 80% retention of women and minorities toward the PhD](fisk-vanderbilt-bridge-program-retention.md) — related
+- [APS Bridge Program retention of 92% compares favourably to the national physics average of 59%](aps-bridge-retention-92-percent.md) — related
+- [Fisk–Vanderbilt bridge students show high PhD retention and completion rates](fisk-vanderbilt-bridge-retention-completion.md) — related

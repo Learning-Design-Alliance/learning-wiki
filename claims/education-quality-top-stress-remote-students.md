@@ -48,3 +48,4 @@ Multiple-answer stress item from the questionnaire of 708 summer 2020 remote int
 ## Related Claims
 - [First-generation students reported every listed pandemic stress cause more often than non-first-generation students except quality of education, and were less likely to have a private study space (52% vs 74%)](first-generation-students-remote-stress-and-space.md) — related
 - [Students in emergency remote introductory physics courses preferred synchronous over asynchronous lecture and believed they would have benefited more from face-to-face instruction](remote-physics-students-prefer-synchronous.md) — related
+- [Pandemic-era economic, family, health and insecurity factors are said to have shifted educational preferences, and physics reportedly lost enrollment](pandemic-factors-shifted-preferences-physics-enrollment-loss.md) — related

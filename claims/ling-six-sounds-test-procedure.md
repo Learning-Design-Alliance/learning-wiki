@@ -48,3 +48,4 @@ The article reports that "The Ling Six Sounds Test is used purposely to ascertai
 - [Auditory training involves teaching children to make fine and gross discriminations of sounds.](auditory-training-fine-gross-discrimination.md) — related
 - [DLL infants can discriminate their two languages from early infancy, though within-language contrast discrimination trajectories show mixed findings](dll-infant-speech-discrimination-trajectories.md) — related
 - [Blind and seeing high-school pupils show about the same sensory discrimination thresholds across six touch, hearing, and kinaesthetic measures](blind-seeing-equal-sensory-thresholds-six-tests.md) — related
+- [Human hearing can pick out signals and patterns in noisy data presented as sound that may be harder to see in a noisy plot](hearing-signal-in-noisy-sonified-data.md) — related

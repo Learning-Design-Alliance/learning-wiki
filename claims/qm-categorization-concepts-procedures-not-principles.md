@@ -53,3 +53,4 @@ Theme from individual discussions with faculty participants, not a tested result
 - [Most introductory students have difficulty qualitatively interpreting basic energy and momentum principles and applying them in physical situations](students-difficulty-qualitative-energy-momentum.md) — related
 - [Quantum field theory is rarely taught or even mentioned in introductory physics courses from high school through upper-division undergraduate levels](qft-absent-from-introductory-physics-courses.md) — related
 - [Expert categorization of upper-level quantum mechanics problems is based primarily on the process involved (measurement or time evolution) rather than on fundamental principles](qm-categorization-based-on-process.md) — related
+- [Experts use general patterns and broad categorizations when solving physics problems, but novices do not make this leap as readily](experts-categorize-novices-do-not-physics-problems.md) — related

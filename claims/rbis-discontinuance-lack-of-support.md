@@ -52,3 +52,4 @@ The article reports, citing prior work (ref 7), that "about a third of these fac
 - [Physics faculty are more likely to be aware of and experiment with research-based instructional strategies after attending the New Faculty Workshop, but many find it difficult to persist in using them](nfw-attendance-rbis-awareness-but-poor-persistence.md) — a broader claim this one bears on
 - [Misalignment between assessment and instruction leads faculty to discontinue 3DL material, while successful alignment supports continued use](assessment-instruction-alignment-drives-uptake.md) — related
 - [The New Faculty Workshop for Physics and Astronomy supported both subjects' development of their teaching practices](new-faculty-workshop-supports-teaching-growth.md) — related
+- [Reading PERbites rarely led readers to try new instructional strategies or research techniques](perbites-limited-practice-change.md) — related

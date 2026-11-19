@@ -67,3 +67,4 @@ The author's problem-identification section attributes declining enrollment to t
 ## Related Claims
 - [Student comments collected over a decade indicate the image of the physics degree itself is one cause of lower physics enrollment](physics-degree-image-lowers-enrollment.md) — related
 - [College-specific barriers related to resources, time, and local labor market conditions limited implementation of the statewide E-HLTH career studies certificate](college-specific-barriers-limited-ehlth-certificate-implementation.md) — related
+- [Pandemic-era economic, family, health and insecurity factors are said to have shifted educational preferences, and physics reportedly lost enrollment](pandemic-factors-shifted-preferences-physics-enrollment-loss.md) — related

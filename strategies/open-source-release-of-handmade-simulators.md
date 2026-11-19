@@ -46,6 +46,7 @@ The authors publish how to make the simulators freely and keep them as open tech
 
 - [Share professional development slides openly via short links and a Creative Commons license](open-cc-licensed-pd-slides-strategy.md)
 - [Release the game free and editable so educators adapt categories, language and cultural context, with a mime mode extending inclusion to sign language](adapt-drawing-science-game-free-editable.md)
+- [Provide open access to notebook source code to enable feedback, adaptation and peer instruction](open-source-code-access-peer-instruction.md)
 
 ## Examples
 -

@@ -72,3 +72,4 @@ Self-reported ethnicity from the audience survey: of 971 responses, "866 (89%) s
 - [DHH students reported participating in science-related activities more often than hearing students](dhh-higher-science-participation.md) — related
 - [Only one survey item showed a gender difference: females ranked prioritizing concepts to review more positively than males (97.8% vs 84.4%, p = 0.030).](gender-difference-prioritize-concepts-item.md) — related
 - [Over 20 years the author supervised 65 undergraduates and 44 high school students in variable-star research projects, roughly evenly split by gender and about half visible minorities](percy-65-undergrads-44-high-school-students.md) — related
+- [Audience members reported learning about physics and resilience and described the performance as distressing yet enjoyable](audience-reports-distressing-yet-enjoyed-physics-learning.md) — related

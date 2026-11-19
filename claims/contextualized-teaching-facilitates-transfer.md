@@ -185,3 +185,4 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [Tutors regarded keeping EBM relevant and applicable to students' clinical practice as key to successful learning](tutors-relevance-to-clinical-practice-key.md) — related
 - [Instructional gains in special small-group programs may not generalize to real-world teaching conditions](special-program-gains-not-real-world.md) — related
 - [Authentic, complex level-boss tasks helped students feel prepared for real-world computational work](authentic-level-bosses-real-world-preparation.md) — a narrower finding that bears on this claim
+- [Improvements in prediction accuracy do not automatically translate into improved student outcomes, a gap surfaced in 12 of 15 interviews](prediction-accuracy-outcome-gap-ml4ed.md) — related

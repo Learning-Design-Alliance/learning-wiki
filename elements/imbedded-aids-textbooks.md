@@ -54,6 +54,7 @@ A proposed major modification summarized as "to put a teacher in every textbook 
 ## Examples
 
 - [Embed units of assistance and enrichment into the fabric of textual material so they are unobtrusive yet available for reader use](../strategies/embedded-aids-to-readers.md)
+- [Use the self-contained text directly as a learning tool for early undergraduates and as teacher material](../strategies/tensor-text-direct-learning-tool-early-undergraduates.md)
 
 ## Key Sources
 - Manzo, Anthony V.; Sherk, John K., Jr. (1977). Reading and "Languaging in the Content Areas" A Third Generational Approach. https://eric.ed.gov/?id=ED136190

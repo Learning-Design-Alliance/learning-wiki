@@ -63,6 +63,7 @@ The article recommends that teacher education programs incorporate resilience-bu
 - [Integrate targeted psychosocial support to mitigate anxiety and loneliness within physiotherapy education](psychosocial-support-integration-physiotherapy-education.md)
 - [Organize mindfulness and adaptability courses and workshops for university students, especially new students](mindfulness-adaptability-workshops-strategy.md)
 - [Embed REE stress management content in the religious education curriculum so students acquire stress-management skills for themselves and their future students](embed-ree-stress-content-in-teacher-curriculum.md)
+- [Provide individualized academic advising and train faculty to accommodate students' emotional and mental health needs](individualized-advising-and-mental-health-preparedness.md)
 
 ## Examples
 -

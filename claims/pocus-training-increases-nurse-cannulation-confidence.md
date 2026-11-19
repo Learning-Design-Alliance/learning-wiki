@@ -55,3 +55,4 @@ Prospective pre-test post-test evaluation with 15 nurses at three regional haemo
 - [Confidence in POCUS rose from 1.5 to 3.1 on a 4-point scale after the two-day course and remained unchanged at one year (2.73)](iscan-confidence-increase-maintained.md) — related
 - [Self-reported comfort performing basic obstetric ultrasound increased for all participant groups after the training intervention](ultrasound-training-increases-self-reported-comfort-all-groups.md) — related
 - [Pre/post survey comparisons show participant knowledge shifting toward confident knowledge in Uproot and Git modules after training, though post-training survey uptake is a challenge](hep-training-pre-post-survey-skill-gains-uproot-git.md) — a narrower finding that bears on this claim
+- [Students became more confident explaining science concepts to others after the course, with 9 students increasing in confidence](sciwri-increased-confidence-explaining-science.md) — related

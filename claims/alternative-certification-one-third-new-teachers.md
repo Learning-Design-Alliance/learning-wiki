@@ -58,3 +58,4 @@ The report's introductory section states the scale of alternative certification,
 - [A five-year evaluation is assessing the impact of the Passport to Teaching credential on teacher performance measured by student achievement](passport-to-teaching-evaluation-student-achievement.md) — related
 - [Teachers of color disproportionately enter through alternative certification pathways, which predict higher turnover](alternative-certification-pathway-turnover-teachers-of-color.md) — related
 - [Each year thousands of new teachers pass through hundreds of different teacher preparation programs before being hired to teach in the nation's schools](thousands-of-new-teachers-hundreds-of-preparation-programs.md) — related
+- [Nearly half of new German physics teachers entered via alternative pathways between 2002 and 2008, and roughly 6.5% of teachers teach physics out of field](german-alternative-entry-and-out-of-field-teaching.md) — a narrower finding that bears on this claim

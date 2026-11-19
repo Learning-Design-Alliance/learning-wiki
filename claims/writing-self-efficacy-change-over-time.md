@@ -67,3 +67,4 @@ The review's synthesis of the four longitudinal studies with three or more time 
 ## Related Claims
 - [Argument structure training increased students' self-reported confidence with the Toulmin model](training-increased-toulmin-confidence.md) — related
 - [Individual students' self-efficacy values did not all increase across trials, with some dropping after the first real-time assessment](individual-self-efficacy-values-not-uniform-increase.md) — a narrower finding that bears on this claim
+- [Student confidence in writing about a new scientific discovery increased, with 9 students feeling more confident post-course](sciwri-increased-confidence-writing-discovery.md) — a narrower finding that bears on this claim

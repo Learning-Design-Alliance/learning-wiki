@@ -54,3 +54,4 @@ Longitudinal phenomenographic interview study of ten mentees in remote 2020 phys
 - [Most mentees left the remote REU with clearer career goals and better understanding of research work](remote-reu-career-clarity-gains.md) — related
 - [Mentees' physics and researcher identity shifted from low-level to higher-level over the remote REU program](remote-reu-identity-growth.md) — related
 - [Seven of ten mentees rated project self-efficacy 8-10 by interview six, and mentees reported further self-efficacy improvements by interview nine](remote-reu-self-efficacy-ratings.md) — related
+- [Remote REU mentees reported the experience was highly beneficial and the remote format did not open a gap between their objectives and outcomes](remote-reu-mentees-reported-highly-beneficial-outcomes.md) — related

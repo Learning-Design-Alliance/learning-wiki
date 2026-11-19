@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 159 claims (113 show a difference, 33 mixed, 13 no difference) · 113 studies (27 review, 25 associational, 20 causal, 20 qualitative, 9 design, 7 theoretical, 5 quant-synthesis), `q1`–`q4` · 9 of 113 report an effect size · 154 claims rest on one study
+> **Evidence** · 160 claims (114 show a difference, 33 mixed, 13 no difference) · 114 studies (27 review, 25 associational, 20 causal, 20 qualitative, 10 design, 7 theoretical, 5 quant-synthesis), `q1`–`q4` · 9 of 114 report an effect size · 155 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -196,6 +196,7 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Remote REU mentees reported higher-level sense of belonging by the end of the program than at the beginning of the summer](../claims/remote-reu-mentees-belonging-growth.md) [+M] — measured as an outcome of the instruction studied
 - [Short classroom activities at the beginning of a course can improve students' sense of belonging and intelligence mindset, especially for those who need it most](../claims/short-start-of-course-activities-improve-belonging-mindset.md) [+W] — measured as an outcome of the instruction studied
 - [Societal stereotypes, strongest in physics, contribute to lower sense of belonging for women and ERM students in physics](../claims/stereotypes-lower-belonging-women-erm-physics.md) [+W] — measured as an outcome of the instruction studied
+- [The Peer Mentorship Program increased scholars' sense of community, with 95% of 2020-21 survey respondents reporting connections they could reach out to for help, up from no more than 50% the first year](../claims/peer-mentorship-program-increased-sense-community.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

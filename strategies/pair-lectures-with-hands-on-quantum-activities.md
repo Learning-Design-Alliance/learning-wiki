@@ -49,6 +49,7 @@ The article recommends supplementing traditional quantum computation course topi
 - [Replace or supplement a lecture with a short high-fidelity simulator session of identical content and duration](identical-content-simulator-session-strategy.md)
 - [Incorporate numerical calculation into introductory quantum courses to counteract abstraction-driven misconceptions](incorporate-numerical-calculation-in-quantum-courses.md)
 - [Integrate simulation-based education into traditional lecture-based teaching during the clinical apprenticeship phase of medical imaging courses](integrate-sbe-into-tbe-clinical-apprenticeship-phase.md)
+- [Supplement lectures with hands-on group problem-solving sessions pairing undergraduates with graduate mentors](hands-on-graduate-mentorship-sessions-strategy.md)
 
 ## Examples
 -

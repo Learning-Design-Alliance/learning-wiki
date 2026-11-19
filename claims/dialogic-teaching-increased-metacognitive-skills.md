@@ -47,3 +47,4 @@ The review reports, citing Hajhosseiny (2012), a university study comparing teac
 ## Related Claims
 - [Qualitatively, Socratic prompts supported reflective monitoring while directive feedback was associated with overload and resistance](socratic-prompts-reflection-directive-overload-qualitative.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
+- [Dialogic inquiry teaching requires a high facilitator-to-student ratio, limiting scalability in large universities](facilitator-ratio-limits-dialogic-inquiry.md) — related

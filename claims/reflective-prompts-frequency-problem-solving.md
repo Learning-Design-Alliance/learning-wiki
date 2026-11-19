@@ -58,3 +58,4 @@ The introduction reports, citing Sijmkens et al. (2023), a study with university
 - [Students emphasising rehearsal and memorisation techniques showed lower conceptual understanding and less DLC interaction](rehearsal-negative-concept-dlc-interaction.md) — related
 - [Insufficient prior conceptual understanding (solid angle and steradians) blocked accurate model construction in the LED lab](insufficient-conceptual-knowledge-blocks-model-construction.md) — related
 - [Problem modifiers scored about 90% versus about 58% for the rest of the class on Angular Momentum final-exam problems](angular-momentum-modders-versus-class.md) — related
+- [Textbook writers often fail to provide prompts for explicit reflection on NoS despite the explicit-reflective approach being essential](nos-textbooks-lack-explicit-reflection-prompts.md) — related

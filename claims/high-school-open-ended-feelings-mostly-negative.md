@@ -52,3 +52,4 @@ Online national survey (N = 21,678 US students, grades 9-12, all 50 states) aske
 - [On retrospective rating scales, US high school students reported feeling stressed 79.83% and bored 69.51% of the time, with positive feelings (46.60%) slightly exceeding negative feelings (40.67%)](retrospective-ratings-stressed-bored-highest.md) — related
 - [Students also reported disadvantages of the jigsaw technique, most often that it is time consuming and boring](student-reported-jigsaw-disadvantages-time-consuming.md) — related
 - [About 75% of Malaysian students felt learning physics in school is boring and found instructional methods unable to attract their attention](students-find-physics-boring-75-percent.md) — a narrower finding that bears on this claim
+- [The general public perceives physics as boring and unyielding, an attitude fed by unfruitful high-school encounters with the discipline](public-negativity-toward-physics-from-school-encounters.md) — related

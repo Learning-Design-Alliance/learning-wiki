@@ -91,3 +91,4 @@ Qualitative case analysis of one videotaped interview with a sophomore ecology m
 - [About 23% of life science majors in introductory algebra-based physics explicitly perceive no relevance of the course to their majors](23-percent-introductory-physics-irrelevant-to-major.md) — related
 - [Students often resist using equations to think with, yet delight when math explains something they already knew](student-resistance-and-delight-with-math-in-science.md) — related
 - [A student who had not made the physics/math blend valued mathematical functional dependence once it was connected to a concrete authentic example](student-valued-math-when-explained-scaling.md) — a narrower finding that bears on this claim
+- [Despite curricular intentions for cross-curricular teaching in Greece, everyday school practice implements very little interdisciplinary connection between mathematics and other sciences](greek-school-interdisciplinarity-gap.md) — related

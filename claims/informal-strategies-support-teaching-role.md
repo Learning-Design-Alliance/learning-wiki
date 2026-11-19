@@ -70,3 +70,4 @@ Results section: beyond the formal curriculum, students described informal oppor
 - [Medical students receive little or no formal teacher training before peer teaching assignments in the undergraduate curriculum](no-formal-training-peer-teachers-medical-curriculum.md) — related
 - [Interventions giving teachers opportunities to practice teaching are likely to be effective for developing self‐efficacy beliefs](practice-opportunities-develop-teacher-self-efficacy.md) — related
 - [Most graduating medical students (57%) feel very confident in a teaching role, having mainly developed teaching skills through informal near-peer mentorship](informal-near-peer-development-confidence.md) — a narrower finding that bears on this claim
+- [Professional skills are primarily conveyed through ad-hoc self-training or peer mentorship, with under 20% of skill experience gained via university courses](professional-skills-self-taught-not-formal.md) — related

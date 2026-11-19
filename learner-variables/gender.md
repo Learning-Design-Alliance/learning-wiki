@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 749 claims (402 show a difference, 181 mixed, 166 no difference) · 522 studies (275 associational, 177 causal, 21 review, 18 quant-synthesis, 15 design, 10 theoretical, 6 qualitative), `q1`–`q4` · 76 of 522 report an effect size · 741 claims rest on one study
+> **Evidence** · 752 claims (403 show a difference, 181 mixed, 168 no difference) · 523 studies (276 associational, 177 causal, 21 review, 18 quant-synthesis, 15 design, 10 theoretical, 6 qualitative), `q1`–`q4` · 77 of 523 report an effect size · 744 claims rest on one study
 
 ## How to read this page
 
@@ -788,6 +788,9 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Societal stereotypes, strongest in physics, contribute to lower sense of belonging for women and ERM students in physics](../claims/stereotypes-lower-belonging-women-erm-physics.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The gender gap in scores between female and male students is significantly reduced on a student-created problem assessment compared to traditional exams](../claims/problem-project-reduces-gender-score-gap.md) [+M] — an instructional effect differs by group
 - [Women were retained in the physics major at a higher percentage than men in all years except 2015](../claims/women-retained-higher-than-men-physics-major.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Among students who persisted and earned STEM degrees, women earned only slightly higher grades than men, with small effect sizes.](../claims/persisting-women-only-slightly-higher-grades-than-men.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [By years 3 and 4, women who dropped computer science, engineering, mathematics, and physical science majors earned GPAs nearly the same as men who persisted in those majors.](../claims/dropping-women-gpa-matches-persisting-men.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Women who dropped STEM majors earned significantly higher STEM GPAs than men who dropped the same majors, with small-to-medium effect sizes.](../claims/women-dropping-stem-higher-gpa-than-men-dropping.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

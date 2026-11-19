@@ -50,3 +50,4 @@ The review reports the frequency of each active learning strategy across the 35 
 - [Case-based discussion is the most commonly used learning activity type in interprofessional education for undergraduate healthcare students](cbd-most-common-ipe-activity.md) — related
 - Thirty-five studies on online active learning in undergraduate dental education were included in this scoping review. — related
 - [Undergraduate nursing students report exposure to diverse active learning strategies, with team-based learning, simulation, and case-based learning most frequently experienced](nursing-students-experience-diverse-active-learning-strategies.md) — related
+- [Project-based learning is the most common educational methodology in evaluated SBC case studies, followed by problem-based learning](sbc-case-study-methodologies-pjbl-pbl.md) — related

@@ -49,3 +49,4 @@ Described classroom exercise using a stack of 16 years of ESO VLT images of the 
 - [EJS data-analysis tools support students fitting trends such as T squared proportional to R cubed](ejs-kepler-data-analysis-trend-fitting.md) — related
 - [Introductory students can extract a chirp mass of about 30 solar masses from the GW150914 waveform using simple data-analysis tools.](gw150914-chirp-mass-student-extraction.md) — related
 - [Readers of the manual rated it highly and most planned to realize the activities, preferring Kepler's laws and black holes](manual-reader-questionnaire-ratings.md) — related
+- [From Kepler's third law with the student-derived orbit, students estimated the HAT-P-7b stellar mass as 1.4823±0.4107 solar masses](students-estimate-star-mass-keplers-third-law.md) — a narrower finding that bears on this claim

@@ -76,3 +76,4 @@ Reflexive thematic analysis (Braun & Clarke) of open-response reflections collec
 - [Students reported that iPads helped them learn science by providing resource access for student-directed research and by supporting personal learning needs such as pace and ease of use](ipads-support-student-directed-learning.md) — related
 - [The self-paced design prompted students to reflect on their self-discipline](self-paced-design-self-discipline-reflection.md) — related
 - [Students preferred frequent, low-stakes assessments in online courses, citing feedback, low anxiety, and flexibility](frequent-low-stakes-assessments-preferred.md) — related
+- [Digital assessment offers transparency, security, flexibility and efficiency, but paper exams cannot merely be transferred to digital form](digital-assessment-benefits-and-barriers.md) — related

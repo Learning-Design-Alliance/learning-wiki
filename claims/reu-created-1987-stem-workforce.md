@@ -50,3 +50,5 @@ Descriptive statement from a Mathematica Policy Research fact sheet about the RE
 - [Career coaches strengthened collaboration between colleges and the workforce development system, but sustaining these connections requires additional resources after the grant period](career-coaches-strengthened-college-workforce-collaboration.md) — related
 - [Multiple workforce factors contributed to the growth of alternative teacher certification programs](factors-driving-alternative-certification-growth.md) — related
 - [Existing structured entry programs (REUs, bridge programs) reach only a small fraction of undergraduates, leaving a support gap](reu-programs-limited-reach-entry-barrier.md) — related
+- [The Center for Bright Beams trained 20 PhD students and 11 postdocs since 2016, with at least 40 more expected to graduate by its 2026 sunset](cbb-training-outcomes-since-2016.md) — related
+- [The CERN REU summer program brings 15 U.S. undergraduates to CERN for 9 weeks each summer, with roughly 300 applicants for 15 places](cern-reu-15-us-students-summer.md) — related

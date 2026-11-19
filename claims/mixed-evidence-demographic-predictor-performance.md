@@ -98,3 +98,4 @@ The authors' own synthesis of the conflicting findings: "it is unclear whether i
 - [Prediction algorithms forecast student achievement from small windows of data, more accurately when data are enriched with instructional design and learning-process detail](enriched-data-improve-achievement-prediction.md) — related
 - [Prediction and intervention are different problems: highly predictive features such as prior GPA are often ones an institution cannot change](prediction-versus-causal-intervention-distinction.md) — related
 - [Data source choice affects both accuracy and fairness: institutional features were most accurate-related yet most discriminatory](data-source-fairness-accuracy-effects.md) — related
+- [Including race as a prediction input requires weighing broader normative implications beyond nominal predictive accuracy gains](race-input-feature-normative-implications.md) — related

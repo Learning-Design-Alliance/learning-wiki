@@ -51,7 +51,8 @@ The school used a one-intensive-week format: three days of lectures and exercise
 - [Student teams in the 2020 school reproduced assigned ATLAS and CMS analyses with CutLang, with 5 of 8 teams producing final discriminant histograms and 2 performing fits](../claims/cutlang-school-teams-reproduce-lhc-analyses.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Structure analysis schools as short lectures followed by group implementation of a real ATLAS or CMS analysis](adl-cutlang-school-group-analysis-exercises.md)
 
 ## Examples
 -

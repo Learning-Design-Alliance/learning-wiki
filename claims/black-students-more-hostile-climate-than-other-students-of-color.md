@@ -56,3 +56,4 @@ Comparative synthesis within the review's literature analysis, citing multiple p
 - [Most measured dimensions of school racial climate are significantly correlated with students' school belonging across educational levels](racial-climate-dimensions-significantly-correlated-belonging.md) — related
 - [Teachers of color in focus groups report five workforce challenges: antagonistic culture, feeling undervalued, deprived agency and autonomy, unfavorable working conditions, and high personal costs](five-challenges-teachers-of-color-face.md) — related
 - [Campus symbols such as antebellum architecture signal belonging to White and high-SES students and unwelcomeness to marginalized students](campus-symbols-signal-unwelcomeness-to-marginalized-students.md) — related
+- [The pet-to-threat dilemma: minoritized women welcomed for wrong reasons face tokenism and mistreatment, then hostility when they outgrow the pet role](pet-to-threat-dilemma.md) — related

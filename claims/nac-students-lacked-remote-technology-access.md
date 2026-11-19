@@ -50,3 +50,4 @@ Survey item from the NAC Alumni Survey on technological barriers. The article re
 - [During spring 2020 remote instruction, internet connectivity and hardware/software problems interfered with course participation for large shares of undergraduates](remote-covid-technology-access-problems-widespread.md) — related
 - [The COVID-19 pandemic changed summer research participation for about a third of surveyed NAC alumni, with internships either cancelled or moved online](pandemic-changed-nac-summer-research-participation.md) — related
 - [Remote collaboration tools enabled a successful hybrid camp edition and new teaching and mentoring opportunities](remote-tools-hybrid-camp-success.md) — related
+- [Graduates use computers for data analysis often or all the time, Python almost universally, and want more advanced technical skills](graduates-routine-computation-python-default-advanced-skill-gaps.md) — related

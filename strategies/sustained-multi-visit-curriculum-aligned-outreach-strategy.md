@@ -48,7 +48,8 @@ The article outlines an approach to designing and delivering sustained public en
 - [A sustained five-session outreach programme stimulated self-reported interest in science among 54–64% of sixth-form participants](../claims/sustained-outreach-stimulated-interest-science.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Target under-represented groups in outreach to widen participation in physics from early years to pre-university](sepnet-outreach-underrepresented-groups-strategy.md)
 
 ## Examples
 -
