@@ -50,3 +50,4 @@ Analysis of the Rice University transition matrix for FCI Question 18 (Table 1).
 - [Most movement toward the correct answer among wrong-choice respondents is a direct migration from the fictitious-force choice X to the correct choice](wrong-choice-migration-x-to-correct-choice.md) — related
 - [In a test-retest situation with no learning, nearly 18% of FCI answers change at a true score of 50% because item characteristic curves overlap](fci-answer-change-test-retest.md) — related
 - [On six FCI force-identification questions, student answers cluster on a pair of dominant answers containing the correct choice and a superset wrong choice](polarising-choices-force-identification.md) — related
+- [FCI questions 5, 11, 13, 18, 29 and 30 showed polarisation between the correct answer and one dominant incorrect answer at UJ, consistent with prior studies](fci-polarising-questions-dominant-incorrect-answers-uj.md) — related

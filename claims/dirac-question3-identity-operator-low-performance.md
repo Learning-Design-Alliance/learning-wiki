@@ -51,3 +51,4 @@ Performance on question 3, administered to investigate difficulties with the ide
 - [On the operator question, 54% answered correctly but 41% treated statements (1) and (2) inconsistently despite answering question 1 correctly](dirac-question4-operator-inconsistency.md) — related
 - [Only 51% answered the inner product/Fourier transform question correctly, with responses inconsistent with their correct answers to the preceding question](dirac-question2-inconsistency-inner-product.md) — related
 - [Only 45% of upper-level undergraduate students selected the correct answer on a multiple-choice question about the identity operator and expectation value expression in Dirac notation](only-45-percent-correct-q1-expectation-value.md) — related
+- [Graduate students answered more multiple-choice problems correctly than any other cohort (78.7%)](grad-students-most-correct-diagramming-cohorts.md) — related

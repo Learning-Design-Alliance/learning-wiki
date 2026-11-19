@@ -78,3 +78,4 @@ Same written-work analysis: 15% of symbolic solutions started with a = F/m, repl
 - [In the interview study, it was common for students unable to solve a symbolic problem to find their earlier mistakes and easily reach the correct answer when given the numeric version immediately afterward](symbolic-failure-numeric-success-interviews.md) — related
 - [Many introductory students find symbolic problems more difficult than numerical ones and prefer plugging in numbers early rather than solving symbolically first](intro-students-symbolic-difficulty-early-numbers.md) — related
 - [Students take varied solution paths on a well-structured mechanics problem, differing in starting codes](varied-starting-codes-well-structured-problem.md) — related
+- [The assessment task using symbolic variables (Ferris wheel) failed to elicit the expected evidence, unlike the six tasks with numerical quantities](symbolic-variables-task-failed-to-elicited-evidence.md) — related

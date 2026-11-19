@@ -48,3 +48,4 @@ Cross-sectional regression analysis of 4580 Chilean schoolchildren, with seven m
 - [Hyperactivity–impulsivity predicts achievement only in some subsectors and does not contribute to explaining overall academic achievement in primary school](hyperactivity-selective-achievement-predictor.md) — related
 - [Self-reported attention problems are the only externalizing-symptom predictor present in all regression models of overall and subsector academic achievement in both primary and secondary school](attention-problems-predictor-all-achievement-models.md) — related
 - [Defiant behavior predicts overall academic achievement at both school levels but only some subsector models](defiant-behavior-overall-achievement-predictor.md) — related
+- [A U.S.-trained ridge regression model explains 60.8% of variance in U.S. science achievement and outperforms a forward-selected OLS model](ridge-model-60-8-variance-outperforms-ols.md) — related

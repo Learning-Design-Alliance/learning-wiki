@@ -55,3 +55,4 @@ Same mixed-effects proportional odds analysis of finishers' 3-tiered assessments
 - [Knowledge gains from the CMV eLearning course decline by three months but remain significantly above pre-course levels](cmv-elearning-knowledge-retained-three-months.md) — related
 - [Most individual ABCDE skills are maintained at follow-up, while seven skills decline significantly from post-course but stay above pre-course levels](most-abcde-skills-maintained-seven-decline.md) — related
 - [Provider knowledge declines significantly in the months after SCL-aHIT training](knowledge-loss-after-scl-ahit.md) — related
+- [Knowledge and confidence gains persisted above pre-program levels at the fall 2018 subsequent assessment](mipep-gains-persist-subsequent-assessment.md) — related

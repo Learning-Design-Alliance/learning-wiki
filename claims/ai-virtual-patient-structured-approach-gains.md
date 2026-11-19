@@ -52,3 +52,4 @@ Descriptive pre/post questionnaire comparison (Table 6, Figure 3) showing shifts
 - [Undergraduate dental students perceive that PBL builds self-efficacy, moving from initial uncertainty toward confidence in independent learning](pbl-builds-self-efficacy-from-uncertainty.md) — related
 - [Virtual simulation practice improves efficiency of differential diagnosis in medical students for abdominal pain and loss of consciousness cases](virtual-simulation-improves-diagnostic-efficiency.md) — related
 - [Students judged the virtual patient platform realistic for clinical assessment, diagnostic activity and treatment management](virtual-platform-realism-ratings.md) — related
+- [Self-reported pre/post feedback on a Docker training event showed a perceived improvement in knowledge, but the measure only probes self-reported learning](docker-training-self-reported-knowledge-gain.md) — related

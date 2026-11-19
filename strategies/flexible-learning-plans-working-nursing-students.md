@@ -51,6 +51,7 @@ To support working students, the authors recommend providing a variety of flexib
 - [Use needs assessment, flexible modalities, and protected time to implement palliative care education for clinical nurses](needs-assessment-flexible-modalities-pc-education-strategy.md)
 - [Schedule flexible online learning with weekend and evening sessions to support participation alongside clinical training](flexible-online-scheduling-weekend-evening-sessions.md)
 - [Pace AI workshops to meet all students' needs, providing written extension tutorials for advanced students while keeping a low barrier to entry](pacing-with-extension-opportunities-strategy.md)
+- [Schedule online events on weekends, evenings or holidays to avoid clashes with participants' own online sessions](schedule-online-events-weekends-evenings-holidays.md)
 
 ## Examples
 -

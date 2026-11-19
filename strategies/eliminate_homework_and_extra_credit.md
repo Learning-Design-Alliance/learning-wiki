@@ -67,6 +67,7 @@ Grading homework completion measures compliance, not learning, and creates incen
 - [Replace frequent pass/fail tests with friendly, autonomy-supportive feedback sessions in high-stakes preclinical courses](friendly-feedback-replacing-formal-tests-strategy.md)
 - [Offer extra-credit incentives to encourage full effort on ungraded pre- and post-tests](extra-credit-incentive-concept-tests.md)
 - [Offer instructors grading alternatives that eliminate behavioral zeros](grading-alternatives-to-behavioral-zeros.md)
+- [Supplement or replace homework assessment with in-class low-stakes quizzes and whiteboard group problem-solving when online solutions undermine the homework model](in-class-quizzes-whiteboard-problem-solving-replacing-homework.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — homework becomes ungraded practice rather than a graded product

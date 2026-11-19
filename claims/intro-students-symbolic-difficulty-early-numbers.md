@@ -60,3 +60,4 @@ Survey results for Questions 30 and 31 (Figures 6 and 7) comparing introductory 
 - [Assessment drives learning, and assessment tools that probe only algorithmic plug-and-chug procedures eliminate students' incentives to acquire deep understanding](assessment-drives-learning-algorithmic-tests-undermine-deep-understanding.md) — related
 - [Many students hold the epistemological expectation that physics is numerical and exact, hindering their understanding of modeling and approximation](estimation-epistemological-expectation-physics-exact.md) — related
 - [Students unfamiliar with many-symbol equations may freeze and try to reduce symbols to numbers rather than parse them as physical quantities](students-freeze-with-many-symbol-equations.md) — related
+- [The assessment task using symbolic variables (Ferris wheel) failed to elicit the expected evidence, unlike the six tasks with numerical quantities](symbolic-variables-task-failed-to-elicited-evidence.md) — related

@@ -50,3 +50,4 @@ An observational study of online RBA administration found "very few students (le
 - [Copy events occurred for about 9% of students, roughly half were followed by sustained browser switches consistent with Googling, but copying students' scores were not significantly higher](copy-events-googling-pattern-no-score-benefit.md) — related
 - [Loss of browser focus was the most common online behavior, but most focus-loss periods were brief and did not correlate with scores](browser-focus-loss-common-brief-no-score-correlation.md) — related
 - [Browser focus data show most distraction events during online RBAs are brief and do not correlate with scores](online-rba-distraction-no-score-impact.md) — related
+- [The post-2016 breakdown of the academic main sequence overlaps remarkably with rising web traffic to the online solution vendors chegg.com and coursehero.com](online-solutions-traffic-overlaps-fit-breakdown.md) — related

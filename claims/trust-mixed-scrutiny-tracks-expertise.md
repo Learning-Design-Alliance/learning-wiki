@@ -70,3 +70,4 @@ The article reports that domain expertise, not personal interest, consistently t
 - [Students evaluate GenAI explanations for assumed background and audience, reading unfamiliar cultural references and excessive scaffolding as signals about who the explanation was written for](assumed-background-audience-signals.md) — related
 - [Students described the verification label as a reason to engage with AI-generated material that did not end their own scrutiny of it](verification-label-engagement-scrutiny.md) — related
 - [Open-ended student feedback highlighted relevance and conciseness as benefits of personalized AI videos, alongside concerns about unnaturalness, uncanny-valley discomfort, and trust](student-feedback-benefits-and-concerns-ai-videos.md) — related
+- [Analogies are double-edged: they can elicit alternative conceptions because students interpret the analog through prior knowledge and preferences](analogies-double-edged-alternative-conceptions.md) — related

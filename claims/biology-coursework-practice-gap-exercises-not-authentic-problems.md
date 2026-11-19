@@ -48,3 +48,4 @@ The article's authors argue, citing biology curricula generally, that "the probl
 - [About half of the analyzed questions used mathematics and physics for biologically authentic sense-making of organisms, a use differing from typical physics-course uses of the same tools](biologically-authentic-sense-making-prevalent.md) — related
 - [Traditional answer-oriented problem solving imposes severe cognitive load, predisposing students to means–ends analysis at the expense of pattern noticing](traditional-problems-cognitive-load-means-ends.md) — related
 - [Typical textbook and course problems fail to capture authentic problem solving because they involve no decisions based on limited information](textbook-problems-lack-limited-information-decisions.md) — related
+- [Students cannot reliably solve complex well-structured problems by reasoning without applying memorized algorithms](algorithms-required-complex-problems.md) — related

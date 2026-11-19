@@ -52,3 +52,4 @@ Timing data from the methodology section of the transcript study, in which 8 gro
 - [Open-inquiry laboratory students showed more concentrated, deep-level experiences (112 codes collapsing into 9 categories) than guided-inquiry students (99 codes in 26 categories)](open-inquiry-concentrated-deep-experience.md) — related
 - [Students experienced confusion less frequently on average in the open-inquiry experiment than in the guided-inquiry experiment](open-inquiry-less-confusion.md) — related
 - [The stopping algorithm reduces average assessment duration by about 23.5 minutes](stopping-algorithm-reduces-assessment-duration.md) — related
+- [The vast majority of first-year undergraduate students complete the Stirling Engine experiment within three hours](stirling-engine-experiment-completed-within-three-hours.md) — related

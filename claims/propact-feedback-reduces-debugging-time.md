@@ -53,3 +53,4 @@ Same within-subjects experiment (26 dyads); paired t-test on total time spent in
 - [Proactive feedback produces significant post-intervention increases in Joint Visual Attention of dyads](propact-feedback-increases-jva-post-intervention.md) — related
 - [In a 30-participant user study, proactive paradigms are preferred over user-initiated interaction, with lower workload, fewer window switches, shorter editing time, and higher acceptance](user-study-proactive-paradigms-preferred.md) — related
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
+- [Using Eye for debugging data-structure programs reduces the fraction of debug time spent on a problem, with a marginal p-value of 0.0578](eye-reduces-debug-time-fraction.md) — related

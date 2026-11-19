@@ -81,3 +81,4 @@ Interrater reliability analysis on an out-of-sample comparison dataset of 134 do
 - [Both LLMs showed high interrater reliability on orthopedic MCQs (ChatGPT κ=0.81; DeepSeek κ=0.78)](llm-interrater-reliability-orthopedic-mcqs-kappa.md) — related
 - [An AI algorithm shows almost perfect agreement with expert evaluators in pass/fail assessment of peg transfer laparoscopic simulation videos](ai-almost-perfect-agreement-peg-transfer-assessment.md) — a narrower finding that bears on this claim
 - [A mastery-based grading rubric produces consistent scores when used by untrained graders, with Cohen's kappa of 0.95](ccmi-grading-rubric-untrained-grader-reliability.md) — related
+- [Fine-tuning the discourse classifier on RST-DT-style segments reconciles the PDTB–RST framework mismatch and raises accuracy from 65.7% to 81.1%](rst-style-finetuning-raises-relation-accuracy.md) — related

@@ -80,3 +80,4 @@ Table II reports average normalized gains for students in the authors' courses o
 - [Average Lawson scientific reasoning level of the local student population was significantly lower than reported for USA, China and India](lawson-reasoning-lower-than-cross-cultural-peers.md) — related
 - [Participants' scores on dataset skills and astronomy content questions rose from pre-test to post-test, with larger gains on content, in one single-group pre-post study](dataset-skills-content-simultaneous-gains.md) — related
 - [Overall pre/post-test scores rose from 61% to 80% for the full sample after a three-phase astronomy dataset activity, in one uncontrolled pre-post study](astronomy-dataset-activity-overall-learning-gains.md) — related
+- [CLASS attitude scores are strongly related to change in TUG-K graph-interpretation scores for non-science majors](class-favorability-explains-tug-k-variance.md) — related

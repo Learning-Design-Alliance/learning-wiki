@@ -49,3 +49,4 @@ Item-discrimination analysis of the pilot SJT in the same 303-respondent sample,
 - [Combining difficulty and discrimination thresholds, 33 of the 50 SJT items were identified as valid](sjt-33-items-identified-valid.md) — a narrower finding that bears on this claim
 - [GenAI-assisted items showed weaker corrected point-biserial discrimination and more negative discrimination than educator-crafted items](genai-mcq-weaker-discrimination.md) — related
 - [Situational judgment tests reflect job performance and discriminate average from low performers, suggesting screening use](sjt-screening-discriminates-performers.md) — related
+- [Point biserial coefficient exceeds the 0.2 criterion for 32 of the 33 STPFaSL items](stpfasl-point-biserial-32-of-33-items.md) — related

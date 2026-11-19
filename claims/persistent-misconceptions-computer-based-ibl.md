@@ -59,3 +59,4 @@ Qualitative content analysis of one-on-one interviews with 30 students (five per
 - [The Thermal and Transport Concept Inventory reveals robust engineering-student misconceptions about energy versus temperature and equilibrium versus steady state](ttci-robust-misconceptions-energy-temperature-equilibrium.md) — related
 - [Students perceive the simulator as contributing to learning of energy concepts](energy-skate-park-perceived-learning-contribution.md) — related
 - [Students using simulations achieve conceptual understanding similar to students in hands-on labs when both can manipulate variables](simulation-similar-conceptual-understanding-zacharia.md) — related
+- [Common N3L misconceptions, including the dominance principle, persist after instruction](n3l-misconceptions-persist-after-instruction.md) — a narrower finding that bears on this claim

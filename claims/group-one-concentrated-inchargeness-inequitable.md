@@ -49,3 +49,4 @@ Segment-by-segment qualitative rating of Group One (Brittany, Jessica, Justin, P
 - [Qualitative measures of equity (inchargeness and civility) judged two quantitatively dissimilar groups as alike in their inequity, validating the authors' intuition](qualitative-measures-validate-intuition-inequity.md) — a broader claim this one bears on
 - [Concentrated inchargeness negatively impacted members without it, who spoke and engaged less](inchargeness-concentration-reduces-engagement.md) — related
 - [A comparison group with similar on-task expertise showed more evenly distributed inchargeness](similar-expertise-more-even-inchargeness.md) — related
+- [In an equitable trio, the highest-inchargeness student uses her inchargeness to acknowledge her partners' bids](equitable-trio-janelle-acknowledges-bids.md) — related

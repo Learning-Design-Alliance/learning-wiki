@@ -48,3 +48,4 @@ Process evaluation based on surveys returned by 12 headteachers, 16 mentors, and
 - [Participating staff held positive perceptions of Switch-on, reporting increased pupil confidence, motivation and interest in reading](switch-on-staff-positive-perceptions.md) — related
 - [TDTS teachers reported more positive views of pupils' ability and engagement, and judged the approach beneficial across the ability range including pupils with special educational needs](tdts-teacher-perceptions-pupil-benefit.md) — related
 - [Teachers and pupils reported that P4C benefited wider outcomes such as confidence to speak, listening, and self-esteem](p4c-wider-outcomes-confidence-listening-self-esteem.md) — related
+- [The QED teaching sequence, applied dialogically, produced high engagement and indicators of scientific literacy in a public-school case study](qed-sequence-engagement-literacy-case-study.md) — a narrower finding that bears on this claim

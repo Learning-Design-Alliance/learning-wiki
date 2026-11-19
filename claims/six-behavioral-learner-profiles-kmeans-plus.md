@@ -81,3 +81,4 @@ Stability analysis over 10 independent K-Means++ runs with different random seed
 - [The choice of normalization technique influences clustering outcomes, so multiple normalization approaches should be tested in cluster analysis](normalization-choice-influences-clustering-outcomes.md) — related
 - [K-means clustering on EFA-derived features yields six learner groups with distinct usage patterns of UDL-guided elements](kmeans-six-learner-clusters-udl-elements.md) — related
 - [Hierarchical clustering with weighted average linkage yields a six-cluster partition of the sample under an Inconsistency Coefficient threshold of 1.25, and the Variation Ratio Criterion peaks at six clusters](hierarchical-six-cluster-partition.md) — related
+- [Time series clustering of screened mathematics achievement data groups students into the same four interpretable trend clusters in two independent cohorts](time-series-clustering-four-interpretable-math-trend-clusters.md) — related

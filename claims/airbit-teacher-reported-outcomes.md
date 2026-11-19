@@ -49,3 +49,4 @@ Teacher survey with 8 of 11 participating teachers replying, using multiple choi
 - [Students self-report increased knowledge of programming, electronics and the scientific method after the air:bit project](airbit-student-self-assessed-knowledge-gains.md) — related
 - [Teachers report high satisfaction and willingness to recommend We Have Skills!](whs-high-social-validity-satisfaction.md) — related
 - [In a recent survey, 100 percent of polled Academy graduates said they would recommend participation to a colleague](academy-graduates-recommend-survey.md) — related
+- [The fully online iteration maintained uniformly positive participant feedback and reached teachers who could not have joined an in-person program](sattaa-online-format-reach.md) — related

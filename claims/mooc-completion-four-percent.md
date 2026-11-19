@@ -61,3 +61,4 @@ The paper cites a University of Pennsylvania Graduate School of Education study 
 - [Only 23.1% of registrants attended all four sessions, with a 26.6% dropout rate](low-completion-voluntary-course.md) — a narrower finding that bears on this claim
 - [Software Carpentry's online MOOC-style offerings failed, with only 5-10% of starters finishing and most finishers already knowing the material](software-carpentry-mooc-low-completion.md) — a narrower finding that bears on this claim
 - [MOOC dropout rates are very high, with reported rates of 80-95% at Stanford, MIT and UC Berkeley and only 7% of 50,000 students completing a Coursera-UC Berkeley software engineering course](mooc-dropout-rates-80-95-percent.md) — related
+- [A six-day online astronomy course for school teachers and interested students drew 475 registrations, with certificates awarded to participants scoring above a threshold quiz mark](six-day-online-astronomy-course-475-registrations.md) — related

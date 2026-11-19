@@ -48,6 +48,7 @@ The article assigns the instructor a critical but bounded role in the student-ce
 ## Related Strategies
 
 - [Instructor as Facilitator](instructor_as_facilitator.md)
+- [Use a variety of speakers from students to senior faculty, matching level to the average participant](varied-speakers-matched-level.md)
 
 ## Examples
 -

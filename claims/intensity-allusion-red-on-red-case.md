@@ -47,3 +47,4 @@ Observation from the M/L1 phase of the eight teaching interviews. The article no
 
 ## Related Claims
 - [After testing predictions, all interviewed students distinguished two pigment groups by the brightness of the laser impact, evidencing 'more or less' absorption](brightness-two-pigment-groups-more-or-less-absorption.md) — related
+- [An RGB 3D-printed projector lets students explore additive colour synthesis, colour filters, and RGB colour composition verified with a mobile app](3d-rgb-projector-colour-synthesis-activity.md) — related

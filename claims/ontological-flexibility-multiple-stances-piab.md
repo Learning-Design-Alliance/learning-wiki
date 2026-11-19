@@ -78,3 +78,4 @@ End of the results section. The authors summarize the two episodes as showing 'm
 - [Students spontaneously engage in metacognition, explicitly tagging when their reasoning switches between quantum and classical explanations](spontaneous-metacognitive-tagging-classical-quantum.md) — related
 - [Student understanding of wave-particle duality falls into three clusters ranging from classical to quasiquantum description](three-clusters-wave-particle-duality-understanding.md) — related
 - [Introducing elementary particles as 'smallest particles' or via the microscope metaphor risks the misconception of particles as small pieces of ordinary matter](naive-particle-notion-misconception-risk.md) — related
+- [Secondary students ascribe classical-like features to quantum observables and struggle to accept quantities having no definite value](secondary-students-classical-features-quantum-observables.md) — related

@@ -49,3 +49,4 @@ Theoretical argument in the transfer section, citing transfer literature (e.g., 
 - [Students often possess relevant mathematical knowledge but fail to apply or interpret it in physics problem contexts](math-knowledge-fails-to-transfer-to-physics.md) — related
 - [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) — related
 - [After learning from the solved isomorphic problem, students could invoke the relevant principles but were often unable to apply them correctly when application details changed](invoke-but-not-apply-principles-isomorphic-transfer.md) — related
+- [Cross-field application of disciplinary knowledge is only explicitly emphasised from second year and foregrounded only in higher degrees](cross-field-application-timing-finding.md) — related

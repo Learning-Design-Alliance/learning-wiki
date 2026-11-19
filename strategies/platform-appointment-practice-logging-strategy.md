@@ -46,6 +46,7 @@ An implementable tactic for skills practice: the training base publishes availab
 - [Align tutoring to core instruction and monitor progress throughout the year via school-based Tutoring Leads](tutoring-leads-progress-monitoring-alignment.md)
 - [Integrate SBE mandatorily into neurosurgery curricula with protected time alongside clinical rotations](strategic-sbe-integration-protected-time.md)
 - [Schedule flexible online learning with weekend and evening sessions to support participation alongside clinical training](flexible-online-scheduling-weekend-evening-sessions.md)
+- [Schedule online events on weekends, evenings or holidays to avoid clashes with participants' own online sessions](schedule-online-events-weekends-evenings-holidays.md)
 
 ## Examples
 -

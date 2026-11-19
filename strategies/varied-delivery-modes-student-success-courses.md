@@ -43,6 +43,7 @@ This strategy addresses student criticism that student success courses can feel 
 - [Offer courses in either online or in-class form where equivalent outcomes are acceptable](offer-courses-in-either-form.md)
 - [Provide flexible learning plans and time-management support for working nursing students](flexible-learning-plans-working-nursing-students.md)
 - [Categorize digital medical courses as knowledge-, skill-, or problem-based and match each to its delivery format](three-digital-course-types-delivery-matching.md)
+- [Run neutron-star spreadsheet activities flexibly online or in demonstrator-led sessions with supporting multimedia](flexible-online-or-led-neutron-star-activities.md)
 
 ## Examples
 -

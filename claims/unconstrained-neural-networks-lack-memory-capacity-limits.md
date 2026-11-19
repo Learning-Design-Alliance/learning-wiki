@@ -50,3 +50,4 @@ Narrative review assertion about connectionist models used as virtual learners i
 - [Schweppe and Rummer's rejection of the multicomponent model as a basis for multimedia theories rests on a misinterpretation of the working memory–long-term memory relationship](s-r-misinterpret-multicomponent-model-structural-separation.md) — related
 - [Whether working memory has a single capacity limit or multiple capacity limits from functional specialization is highly relevant for the design of multimedia materials](single-versus-multiple-capacity-limits-multimedia-design.md) — related
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](chunking-reduces-working-memory-load.md) — related
+- [Working memory slots are unlimited for relationships quickly recallable from long-term memory but very limited for other data](wm-unlimited-for-recallable-relationships.md) — related

@@ -54,3 +54,5 @@ Interview-based evaluation by WestEd of four female high school Global Telescope
 - [Robotic telescope technology has outpaced widespread inquiry-based classroom implementation](robotic-telescope-implementation-gap.md) — related
 - [The experiment contest reached over 200 participants in 15 classrooms and drew positive teacher feedback](contest-200-participants-15-classrooms.md) — related
 - [The SPOT program builds undergraduate science-communication skills while increasing K-12 audience understanding of gravitational-wave astronomy and interest in science careers](spot-presenter-and-audience-outcomes.md) — related
+- [Introducing the OPIS! robotic-telescope curriculum at UNC-Chapel Hill coincided with a >100% increase in introductory astronomy enrollment over five years and an ≈300% increase in astronomy-track majors and minors](opis-introduction-enrollment-and-majors-increases.md) — related
+- [Self-reported understanding of astronomy content shows a positive trend across all three cohorts, while interest gains are more varied but positive in each cycle](sattaa-interest-understanding-trends.md) — related

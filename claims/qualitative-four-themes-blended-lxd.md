@@ -54,3 +54,4 @@ Deductive thematic analysis of students' open-ended survey responses collected v
 - [Thematic analysis of 120 free-form comments identified four themes: improved learning experience, engagement, collaborative learning and skill development](cartooning-feedback-four-themes.md) — related
 - [Free-text student feedback on the 2021 OSCE clustered into four themes, including that the longer examination was too tiring and feedback was lacking](2021-osce-free-text-four-themes.md) — related
 - [Free-text feedback on the US-PIVC course clusters around technical skills, improved confidence, clinical utility and future use, with praise for interactivity and repeated practice](us-pivc-course-feedback-themes.md) — related
+- [Students report learning a lot, finding the content interesting, and enjoying working like researchers](prise-qualitative-experience-themes.md) — related

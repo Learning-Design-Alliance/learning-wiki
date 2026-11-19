@@ -52,3 +52,4 @@ Analysis of interview segments rules out deficit explanations one by one: Jim "q
 - [A student's persistent problem-solving impasse can be stabilized by an epistemological stance rather than by a conceptual or skill deficit](impasse-stabilized-by-epistemological-stance.md) — possibly the same claim (merge candidate)
 - [A student's epistemological stance can shift subtly in the moment toward expecting mathematical formalism to mesh with everyday experience, triggered by a conceptual cue](epistemological-stance-shifts-with-conceptual-cue.md) — related
 - [Students' characteristic equation errors (e.g., replacing an average by a difference) signal an epistemological rather than knowledge failure](equation-errors-epistemological-not-knowledge.md) — a broader claim this one bears on
+- [Both IPLS and non-IPLS students struggled to articulate mechanistic explanations for the negative pressure in tree xylem](both-groups-struggle-negative-pressure-explanation.md) — related

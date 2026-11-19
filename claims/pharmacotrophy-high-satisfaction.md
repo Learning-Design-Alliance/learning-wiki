@@ -49,3 +49,4 @@ Anonymous online feedback survey of participants (21 of 27 in 2021; 28 of 36 in 
 - [Participants were highly satisfied with the workshop and all would recommend it to colleagues](bronchoscopy-workshop-high-satisfaction.md) — related
 - [Participant satisfaction with the ECAMM-based training was uniformly high, reaching 100% 'very satisfied' for training content and trainer competence with no negative evaluations recorded](high-satisfaction-ecamm-training-program.md) — related
 - [Participant satisfaction was exceptionally high, with 100% satisfied with course content and all satisfaction means significantly above the neutral midpoint](high-satisfaction-microscope-ergonomics-course.md) — related
+- [The fully online iteration maintained uniformly positive participant feedback and reached teachers who could not have joined an in-person program](sattaa-online-format-reach.md) — related

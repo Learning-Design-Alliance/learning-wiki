@@ -34,4 +34,4 @@ A modular package of WikiBook content, homework and recitation problems, clicker
 - E. F. Redish, C. Bauer, K. L. Carleton, T. J. Cooke, M. Cooper, C. H. Crouch, B. W. Dreyfus, B. Geller, J. Giannini, J. S. Gouvea, M. W. Klymkowsky, W. Losert, K. Moore, J. Presson, V. Sawtelle, K. V. Thompson, C. Turpen, and R. K. P. Zia. (2014). NEXUS/Physics: An interdisciplinary repurposing of physics for biologists. http://nexusphysics.umd.edu
 - Edward F. Redish. (2015). Analysing the Competency of Mathematical Modelling in Physics. https://arxiv.org/abs/physics/0608268
 - Edward F. Redish. (2020). Using math in physics: Overview. Preprint. https://www.livingphysicsportal.org/
-- Redish, E. F. (2020). Using math in physics: 3. Anchor equations. https://www.compadre.org/nexusph/
+- Redish, E. F. (2020). Using math in physics: 3. Anchor equations. https://www.compadre.org/nexusph/. [doi:10.48550/arxiv.2011.12761](https://doi.org/10.48550/arxiv.2011.12761)

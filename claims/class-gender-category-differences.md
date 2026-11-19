@@ -50,3 +50,5 @@ The article reports this second-hand from Adams et al. (reference 3), the CLASS 
 - [Reduced-basis factor analysis on statement subsets split the combined real-world/personal-interest category into two categories matching student interview distinctions](reduced-basis-factor-analysis-split-personal-interest-real-world.md) — related
 - [CLASS Personal Interest and Real World Connection clusters typically show negative shifts, though some instructional approaches produce positive shifts](class-relevance-clusters-typically-negative-shifts.md) — related
 - [Men showed a significant negative CLASS shift in the sense making or effort category](men-negative-shift-sense-making-effort.md) — related
+- [No significant difference between Uruguayan teachers and teacher-training students in Confidence in problem solving](no-teacher-trainee-difference-problem-solving-confidence.md) — related
+- [Problem-solving-general favorability (PSGeneralFav) is the strongest and most significant CLASS predictor of change in TUG-K scores, while real-world connection and sensemaking variables are not significant](psgeneralfav-strongest-predictor-tug-k-change.md) — related

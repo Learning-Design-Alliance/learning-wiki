@@ -63,6 +63,7 @@ Logic puzzles engage learners in sustained, rule-governed deduction, which can s
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — a natural complement: the instructor solves a puzzle aloud to model systematic deduction before learners attempt their own
 - [Spaced Practice](spaced-practice-scheduling.md) — distributing puzzles over time supports retention of the deduction procedures themselves
 - [Adapt the two question-design strategies across disciplines: novel scenarios for logic puzzles, guided reasoning for proofs and critical analyses](cross-disciplinary-adaptation-of-question-strategies.md)
+- [Scaffold puzzle-based learning with hints, on-screen explanations of puzzles, and links to theory and real-world applications](quantum-odyssey-scaffolding-strategy.md)
 
 ## Examples
 - **Bebras Computing Challenge** (https://www.bebras.org) — short computational-thinking puzzles administered internationally to school students, each mapped to a specific concept (algorithms, decomposition, pattern recognition)

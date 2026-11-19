@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2020
+source_checked: 2026-11-19
 sources:
   - id: edward-f-redish-2020
     resource: "https://doi.org/10.48550/arXiv.2012.00794"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In an in-class whiteboard activity, a student confronted with a two-force problem did not know how to begin and suggested looking up the numbers, treating symbols as numbers to find rather than physical quantities. [→ Edward F. Redish 2020](#edward-f-redish-2020)

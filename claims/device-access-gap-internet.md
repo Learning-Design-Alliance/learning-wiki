@@ -75,3 +75,5 @@ Descriptive survey of technology capacities in New York charter schools immediat
 - [Most sampled MA TEFL students had sufficient computer and internet access for online learning](sample-computer-internet-access-sufficient.md) — related
 - [Access to technology and hardware was not seen as a barrier to SBE readiness, with adequate access reported (mean 3.21)](technology-access-not-a-barrier-to-sbe-readiness.md) — related
 - [Students reported negative experiences when the flipped classroom lacked adequate infrastructure such as internet connection](flipped-classroom-internet-infrastructure-difficulty.md) — related
+- [Substantial minorities of faculty and students lacked access to hardware, software and reliable internet during the Spring 2020 online transition](logistical-access-challenges-online-transition.md) — related
+- [About a quarter of surveyed NAC students lacked the technology needed for study or school-related work during 2020, prompting laptop shipping and coding boot camps](nac-students-lacked-remote-technology-access.md) — related

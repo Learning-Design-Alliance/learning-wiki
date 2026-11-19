@@ -64,6 +64,7 @@ Analogies work because they activate relevant prior knowledge and let learners r
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the mechanism analogies exploit
 - [Multiple Representations](../strategies/multiple-representations.md) — an analogy is one representation among several that should ultimately be coordinated
 - [Teach each topic with Glynn's step-by-step Teaching-With-Analogy (TWA) model using multiple concrete analogies](twa-step-by-step-analogy-teaching-strategy.md)
+- [Use analogies to everyday phenomena when teaching advanced physics concepts to high school students](everyday-analogies-for-advanced-physics.md)
 
 ## Related Elements
 - [Analogies and Prior Knowledge Activation](../elements/analogies-and-prior-knowledge-activation.md) — the element form of this strategy

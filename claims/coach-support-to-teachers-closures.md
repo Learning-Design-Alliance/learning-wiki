@@ -54,3 +54,4 @@ Survey of 148 edtech coaches (Figure 9) on areas of teacher support: "82 percent
 - [A field study with 10 faculty across two institutions observed a 25% reduction in administrative load and improved LMS data utilization from agentic teaching-assistant systems](agentic-teaching-assistant-25-percent-admin-load-reduction.md) — related
 - Video-supported collaborative learning research falls into four major categories, with observation and collaborative analysis the most popular and video-supported synchronous collaboration the least utilized — related
 - [Educators delivered online teaching via multi-device video conferencing tools, educational portals and social media apps, modifying learning objectives for online sessions](online-tools-and-modified-objectives-optometry.md) — related
+- [Faculty most wanted training on advanced LMS features and automatic grading tools for online instruction](faculty-online-teaching-skill-gaps.md) — related

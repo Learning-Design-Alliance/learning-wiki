@@ -78,3 +78,4 @@ Same retrospective cohort correlational analysis of admissions statistics agains
 - [Retrospective research supervisor ratings correlated with nearly all outcomes and may measure global course ability](research-supervisor-ratings-global-performance-indicator.md) — related
 - [PGRE score shows no statistically significant correlation with first-author papers published during or exiting graduate school among prize fellows](pgre-no-correlation-graduate-publications.md) — related
 - [Students' CT performance correlates with their overall GPA, suggesting CT as a predictor of academic success](ct-performance-correlates-with-gpa.md) — related
+- [UGPA and GRE-P are weak but statistically significant predictors of graduate GPA, while GRE-Q and GRE-V are not, in a multiple regression on 1,955 US physics PhD students](ugpa-grep-significant-weak-predictors-ggpa.md) — related

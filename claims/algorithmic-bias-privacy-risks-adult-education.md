@@ -79,3 +79,5 @@ This conceptual policy paper, drawing on contemporary literature and internation
 - [AI models trained on MOOC completion data risk bias toward high-performing learners, and machine-learned assessment reflects interaction rather than learning](mooc-ai-bias-toward-completers-and-interaction-not-learning.md) — a narrower finding that bears on this claim
 - [Using AIED poses technical, ethical and trust challenges for teachers](aied-challenges-technical-ethical.md) — related
 - [Significant barriers to AI implementation include algorithmic bias, lack of transparency, data privacy concerns, unregulated use, and system limitations](ai-implementation-barriers-medical-education.md) — related
+- [Human–AI feedback loops can compound historical biases: simulated predictive policing reinforced bias against Black people at twice the rate of white people](human-ai-feedback-loops-compound-bias.md) — related
+- [Machine learning algorithms optimizing overall accuracy are inherently biased against minority groups when group data amounts vary, even absent historical bias](ml-accuracy-optimization-biased-against-minority-groups.md) — a narrower finding that bears on this claim

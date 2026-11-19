@@ -48,3 +48,4 @@ Correlational analysis of VP system usage logs among VP users, using Spearman's 
 - [Knowledge, skill and ITU changes did not correlate significantly with usage time or number of learning units completed](epa-coach-outcomes-no-usage-correlation.md) — related
 - [No significant correlation between total platform usage time and score improvement](cataract-vsim-usage-time-no-correlation.md) — related
 - [Platform usage metrics showed a positive correlation with final grades, with quiz questions answered showing a moderate significant correlation (r = 0.279)](osmosis-usage-correlates-with-grades.md) — related
+- [On Platform B, exercise performance and completion correlate with learning gains and post-quiz scores](exercise-behavior-correlates-with-gains.md) — related

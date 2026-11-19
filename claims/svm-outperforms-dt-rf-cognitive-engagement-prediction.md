@@ -77,3 +77,4 @@ Test-set evaluation of three classifiers trained on 104 Coh-Metrix indicators pl
 - [Comprehensive problem-solving ability improvement differentiates cognitive performance in lower decision tree branches](problem-solving-ability-decision-tree-lower-branches.md) — related
 - [A linear support vector machine using 4 performance metrics classified skilled versus novice participants in a virtual reality brain tumor resection task with 92% accuracy, 100% sensitivity and 82% specificity](svm-classifies-skilled-novice-vr-neurosurgery-92-accuracy.md) — related
 - [Random forest and support vector machine models also failed to beat chance when predicting laboratory performance, supporting the null result](rf-svm-also-fail-beat-chance-lab-performance.md) — related
+- [A random forest model trained on U.S. PISA data identifies top-decile U.S. science achievers with 71.6% accuracy](us-trained-model-71-6-accuracy-top-decile.md) — related

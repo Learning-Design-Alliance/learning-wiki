@@ -51,3 +51,4 @@ Single-case laboratory session: the student with impaired vision took the length
 ## Related Claims
 - [Using the adapted device, a blind student participated fully in laboratory measurement for the first time and reported satisfaction](blind-student-first-full-measurement-participation.md) — related
 - [Students measuring a freely falling Doppler source obtain the gravitational acceleration g within 10% accuracy from a linear fit of Doppler-shifted frequencies](free-fall-doppler-g-within-10-percent.md) — related
+- [A blind student measured standing-wave velocities with fractional errors of 14% and 10% using the audio-based apparatus](blind-student-wave-velocity-measurements-within-expected-error.md) — related

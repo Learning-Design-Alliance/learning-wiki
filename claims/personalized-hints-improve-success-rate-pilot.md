@@ -52,3 +52,4 @@ Remote pilot study on the Korbit platform (January–February 2020) with 796 ann
 - [Hint Factory MDP-generated hints gave correct next-step hints over 80% of the time and a pilot showed students solved more logic proofs with hints](hint-factory-mdp-hints-effective.md) — related
 - [Deep personalization feedback selection yields higher student learning gains than a non-personalized baseline in a dialogue-based ITS](deep-personalization-feedback-higher-learning-gains.md) — possibly the same claim (merge candidate)
 - [Automatically generated Wikipedia-based explanations produce learning gains comparable to personalized hints and are rated helpful by students](wikipedia-based-explanations-comparable-gains.md) — related
+- [Expert-ranked feedback quality of the full discourse-based model substantially exceeds cluster-based and minimal feedback baselines](discourse-feedback-ranked-best-expert-comparison.md) — related

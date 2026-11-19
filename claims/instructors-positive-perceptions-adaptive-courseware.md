@@ -55,3 +55,4 @@ Online survey of instructors at nine of 10 piloting institutions; 39 courseware-
 - [Instructors found the heat map better aligned with sections they believed students found interesting (4.4) than difficult (3.6)](heat-map-alignment-interesting-vs-difficult.md) — related
 - [Most students in the experimental group reported positive perceptions of the examination-aligned blended teaching model](student-satisfaction-blended-exam-aligned.md) — related
 - [Engaged students report positive perceptions of Smartwork quizzes, with about 78% believing the quizzes helped them perform better in class tests](student-feedback-smartwork-quizzes-positive.md) — related
+- [Instructors valued adaptive experiments using Thompson Sampling for rapidly directing students to better interventions but were concerned about generalizable conclusions](instructors-value-adaptive-experiments-but-worry-about-inference.md) — related

@@ -48,6 +48,8 @@ To accommodate visually impaired students in the AHaH labs, the team provided an
 - [Read Aloud with Highlighting](read_aloud_with_highlighting.md)
 - [Text-to-Speech (TTS) Software](text-to-speech-tts-software.md)
 - [Screen Readers](screen_readers.md)
+- [Replace visual node identification with audible signals so blind students can actively perform physics-lab measurements](audible-signal-replaces-visual-node-identification-strategy.md)
+- [Use image sonification and screen-reader-compatible interfaces to make robotic-telescope image analysis accessible to blind and visually impaired students](image-sonification-bvi-astronomy-access.md)
 
 ## Examples
 -

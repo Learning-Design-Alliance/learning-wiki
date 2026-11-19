@@ -51,3 +51,7 @@ Comparison of the percentage of students selecting more than one response on MCM
 - [At least 75% of students choose at least one correct response on MRM questions, motivating analysis beyond the correct/incorrect dichotomy](mrm-partial-correctness-evidence.md) — related
 - [CTT item difficulty was significantly lower online for five of 17 common items, four of them MCMR items](online-item-difficulty-lower-five-items.md) — related
 - [Online, unproctored administration of the PIQL yields performance at roughly the same level as in-person administration, with small but significant differences on MCMR items](piql-online-unproctored-administration.md) — related
+- [The online increase in responses selected is more pronounced for MCMR items whose answer choices include explicit reasoning or interpretation](mcmr-clickiness-stronger-explicit-reasoning-items.md) — related
+- [Online-related decreases in MCMR difficulty arise from students choosing incorrect responses in addition to correct ones, not from choosing no correct responses](mcmr-online-decrease-mixed-correct-incorrect-selection.md) — related
+- [Dichotomously scored performance on single-correct MCMR items decreases with online administration](online-administration-lowers-dichotomous-mcmr-performance.md) — related
+- [Students choose more responses to MCMR items when assessments are administered online rather than on paper](online-administration-more-mcmr-responses.md) — possibly the same claim (merge candidate)

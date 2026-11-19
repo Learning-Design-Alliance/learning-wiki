@@ -48,3 +48,4 @@ Description of the adaptive allocation mechanism of the proposed Bayesian design
 - [Bayesian adaptive design benefits study subjects by allocating them to more effective treatment arms](bayesian-adaptive-benefits-study-subjects.md) — possibly the same claim (merge candidate)
 - Bayesian adaptive design benefits evaluators by allowing smaller and more informative studies — related
 - A Bayesian adaptive design can yield superior inference to a standard design using less than one third the sample size under identified conditions — related
+- [Even when two arms have equal reward, Thompson Sampling can misleadingly allocate many participants to one arm](ts-misallocates-participants-equal-reward.md) — related

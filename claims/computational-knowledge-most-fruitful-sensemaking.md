@@ -49,3 +49,4 @@ Analysis of Sophia's interview transcript against a sensemaking framework identi
 - [Thinking computationally about implementing a better model is the key to resolving the accuracy-realism inconsistency](thinking-computationally-key-resolution.md) — possibly the same claim (merge candidate)
 - [Inspecting and comparing computational outputs of rounding versus no rounding provides an entry point into sensemaking](comparing-computational-outputs-entry-point.md) — related
 - [The explicit assumptions prompt prompted Conceptual Discussion from every group studied and had the highest overall Conceptual Discussion percentage](assumptions-prompt-most-conceptual-discussion.md) — related
+- [In-class video of high school student interactions serves as existence proofs of the framework's computational thinking practices](video-existence-proofs-ct-practices.md) — a broader claim this one bears on

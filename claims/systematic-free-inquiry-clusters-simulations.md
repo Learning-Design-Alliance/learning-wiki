@@ -53,3 +53,4 @@ Cluster analysis (variable, relationship, and focus paradigms) of log data from 
 - [Prior knowledge influences which inquiry strategy learners adopt, with learners holding some knowledge more likely to behave systematically](prior-knowledge-influences-inquiry-strategy.md) — related
 - [Systematic inquiry behavior is associated with gaining quantitative understanding of simulation variables, while free exploration is associated with only qualitative understanding](systematic-strategy-quantitative-understanding.md) — related
 - [The choice of normalization technique influences clustering outcomes, so multiple normalization approaches should be tested in cluster analysis](normalization-choice-influences-clustering-outcomes.md) — related
+- [Ordered, mostly same-group clusters show qualitatively similar but steeper simulated gains than random clusters](ordered-clusters-larger-simulated-gains.md) — related

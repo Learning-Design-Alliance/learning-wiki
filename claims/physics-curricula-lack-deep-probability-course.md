@@ -52,3 +52,4 @@ The author's stated motivation in the abstract for the lecture notes: a worldwid
 - [Physics faculty lack consensus on what topics should be taught in modern physics](no-faculty-consensus-modern-physics-topics.md) — related
 - [Few students recognize that classical uncertainty in a Plinko game is a false analogy for quantum uncertainty, with course-dependent reasoning about the two systems.](plinko-false-analogy-rarely-recognized.md) — related
 - [Experiment-oriented physics students showed very high interest in the mathematical peculiarities of probability and randomness foundations](physics-students-high-interest-probability-foundations.md) — related
+- [Novelty of quantum measurement and probability-distribution tasks may explain fragile, context-dependent reasoning after instruction](novel-quantum-tasks-explain-fragile-context-dependent-reasoning.md) — related

@@ -58,9 +58,11 @@ Prequestions work through two complementary mechanisms: they activate relevant p
 5. Revisit the same questions after instruction as a closing check, converting them into [Retrieval Practice](retrieval-practice-activities.md).
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — prequestions serve double duty as activation when they connect to learners' existing experience
 - [Retrieval Practice](retrieval-practice-activities.md) — the post-instruction counterpart; prequestions are pretesting, retrieval practice is posttesting
 - [Advance Organizers](../elements/advance-organizers.md) — a non-question alternative for orienting learners before instruction
+- [Use short variable tests as a pre-lecture attentiveness and attendance check](short-pre-lecture-attentiveness-attendance-test.md)
 
 ## Examples
 - **Peer Instruction (Eric Mazur, Harvard)** — ConcepTests pose a conceptual physics question before the lecture segment explains it; students vote, discuss with peers, then vote again before instruction resolves the question. [https://www.per-central.org](https://www.per-central.org)

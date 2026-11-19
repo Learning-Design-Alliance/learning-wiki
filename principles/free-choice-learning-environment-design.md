@@ -162,6 +162,7 @@ Dwell time, voluntary return, self-extended projects, explained understanding at
 - [Offer three voluntary multiple-choice questions per lecture on an online platform with feedback, without changing lecture structure](../strategies/voluntary-online-mcqs-per-lecture-strategy.md)
 - [Visitor center interpretation built on the intersection of resource stories, visitor interests, and institutional mission](../designs/three-realms-visitor-center-interpretation.md)
 - [Split project work into hands-on and digital subgroups so participants follow their own interests](../strategies/hands-on-digital-subgroup-split.md)
+- [Guerrilla-STEM: an itinerant astro-animation exhibition with hands-on activities in unexpected public locations to engage audiences not a priori attracted to science](../strategies/guerrilla-stem-itinerant-astro-animation-exhibition.md)
 
 ## Key Sources
 - Ashton, S., Nelson, K. R., & Millward, L. (2018). Careers in museum learning: Making a difference in museums through instructional design. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/careers_in_museum_learning](https://edtechbooks.org/lidtfoundations/careers_in_museum_learning)

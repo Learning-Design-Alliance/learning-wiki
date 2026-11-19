@@ -49,3 +49,4 @@ Quantitative analysis of written answers from three classes (sizes 14 to 54) at 
 - [Most students associate Carnot's theorem only with the Carnot cycle, not with other reversible cycles such as the Stirling cycle](carnot-theorem-tied-to-carnot-cycle-only.md) — related
 - [A class given a preliminary engineering tutorial showed an engineering error ratio about 20% smaller than the two classes without a tutorial](engineering-tutorial-reduces-engineering-errors.md) — related
 - [Misunderstanding the regenerator is the most common error on a Stirling-cycle efficiency test](regenerator-misunderstanding-most-common-error.md) — related
+- [First-year undergraduate students performing the Stirling Engine experiment obtain regression gradients and engine efficiencies of approximately 10% comparable to those obtained by teaching staff](stirling-engine-student-efficiency-results-match-teacher.md) — related

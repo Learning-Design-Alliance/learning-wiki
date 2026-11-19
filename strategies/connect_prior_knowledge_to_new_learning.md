@@ -87,6 +87,7 @@ Prior knowledge is the single strongest predictor of new learning; learners comp
 - [Embed the KWL strategy across inquiry phases to guide question generation and question-quality monitoring](kwl-integrated-inquiry-question-generation.md)
 - [Combine theoretical background and experience-based teaching strategies to develop relational competence](combine-theoretical-and-experience-based-teaching.md)
 - [Use the three steps of conceptual change as teaching starting points: confront misconceptions, provide concrete analogies, and practice testing hypotheses](mayer-conceptual-change-teaching-steps.md)
+- [Use analogies to everyday phenomena when teaching advanced physics concepts to high school students](everyday-analogies-for-advanced-physics.md)
 
 ## Examples
 - **[Anchored Instruction (Jasper Woodbury series)](https://peabody.vanderbilt.edu/projects/funded/jasper/)** — video-based adventures anchor new mathematical reasoning in a rich, familiar story context, requiring students to connect existing knowledge to the problem.

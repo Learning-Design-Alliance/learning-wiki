@@ -48,3 +48,4 @@ Observational report following the annual Modern Physics teacher course in which
 - [The eBook was downloaded more than 200 times in its first months and includes reader questionnaires for ongoing evaluation](ebook-downloads-and-reader-questionnaires.md) — related
 - [The rubber-sheet exhibit attracted sustained engagement and questions about complex gravity topics at a public outreach event](rsa-outreach-event-engagement.md) — related
 - [Pre/post questionnaires with more than 200 high school students showed a remarkable improvement in knowledge of the addressed topics](rsa-student-questionnaire-improvement.md) — related
+- [The RSA activity raises correct understanding of space-time and its deformation, with most students shifting to 'any mass' as the cause of deformation](rsa-improves-spacetime-deformation-answers.md) — related

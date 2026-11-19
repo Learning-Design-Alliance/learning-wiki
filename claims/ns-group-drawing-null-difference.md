@@ -51,3 +51,4 @@ Study 1 secondary analysis of the NS group on problem 2: a null comparison betwe
 - [A higher level of detail in a student's diagram corresponds to a better score on a two-dimensional electric force problem](diagram-detail-correlates-physics-problem-score.md) — related
 - [Students prompted to draw a diagram performed comparably to students given no support on both electrostatics problems](prompted-drawing-comparable-to-no-support.md) — related
 - [Neither prompting nor providing a diagram significantly affected performance on the two-dimensional electric force problem](no-intervention-effect-two-dimensional-problem.md) — related
+- [Unprompted diagram detail was not strongly correlated with selecting the correct answer on the Blocks problem, except non-given forces on the block in question](diagram-detail-not-strongly-correlated-correctness.md) — related

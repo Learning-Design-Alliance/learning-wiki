@@ -47,3 +47,4 @@ Appendix A reports MI-New CLASS data (N = 221) by category; the text states "sig
 ## Related Claims
 - [Modeling Instruction sections show significant positive CLASS attitude shifts across multiple instructors, with an aggregated effect of d = 0.45](modeling-instruction-positive-class-shifts-multi-instructor.md) — possibly the same claim (merge candidate)
 - [Pre-to-post CLASS percent favorable scores rose in every category in the blog semester, with Personal Interest the one statistically significant shift](blog-semester-class-personal-interest-significant-increase.md) — related
+- [Largest teacher–trainee CLASS gaps fall in Applied conceptual understanding and Sophistication in problem solving, while top-agreement categories coincide](largest-teacher-trainee-class-gaps-acu-pss.md) — related

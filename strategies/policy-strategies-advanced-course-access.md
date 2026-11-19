@@ -43,6 +43,7 @@ The report recommends a set of state, federal, and local policy actions to close
 - [Pursue policy, materials, and professional development changes to restore science as a core content area for all students](policy-changes-restore-science-access.md)
 - [Three strategies for closing advanced coursework participation gaps and retaining students](three-strategies-close-advanced-coursework-gaps-retention.md)
 - [Offer a STEM-specific pre-college preparation course emphasizing mathematics and effective learning habits, and expose female high-school students to extra-curricular advanced mathematics](stem-specific-preparation-course-strategy.md)
+- [Educator and leadership actions to address inequitable AP STEM offerings: advocacy, recruitment, dual enrollment, and funded leadership review](educator-actions-ap-stem-equity-strategy.md)
 
 ## Examples
 -

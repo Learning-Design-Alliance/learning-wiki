@@ -55,3 +55,4 @@ Qualitative finding from the UChicago Consortium's six focus groups with Chicago
 - [Online professional development offers potential advantages of reduced travel costs, increased convenience, and community building among participants](online-pd-reduces-travel-supports-community.md) — related
 - [Flexibility was a key benefit for many students: 53% valued not having to travel, 61% found video recordings helpful, and 59% valued assignment deadline extensions](flexibility-benefits-recordings-extensions.md) — related
 - [Digital flexibility and hybrid teaching environments are identified as necessary to meet allied health students' varied learning needs and circumstances](digital-flexibility-inclusive-nbsp-learning-environments.md) — related
+- [Mentees appreciated the remote REU format for flexibility and developing as independent learners](remote-format-independence-benefits.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-19
 sources:
   - id: özlem-salehi-2022
     resource: "https://doi.org/10.1109/te.2021.3078552"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Pre/post-test scores across 22 workshops show a statistically significant increase, with a normalized gain of 0.56 and Cohen's d = 1.68. [→ Özlem Salehi 2022](#ozlem-salehi-2022)

@@ -50,3 +50,5 @@ T-test comparison of mid-semester mean scores between the 2020 online open book 
 - [No evidence of cheating was found in either online open book assessment by Turnitin collusion review, marking for irrelevant answers, or score-pattern analysis](no-cheating-evidence-online-open-book-radiologic-pathology.md) — related
 - [Proctoring effects on exam performance are mixed, and technical difficulties and cheating were reported in open-book online exams](proctoring-technical-cheating-mixed-findings.md) — related
 - [Students prefer open-book exams, citing reduced stress and less intrusive oversight, and OBEs offer institutions logistical advantages](student-preference-and-logistical-advantages-of-obe.md) — related
+- [Second-semester course marks in 2020 were not appreciably different from 2019 despite the online transition, though the exam entrance threshold was lowered](2020-marks-comparable-to-2019-online-transition.md) — related
+- [Perceived cheating was negatively correlated with fully online and open-book exams and positively correlated with semi-online asynchronous exams](assessment-method-perceived-cheating-correlation.md) — related

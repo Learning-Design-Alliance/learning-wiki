@@ -47,3 +47,4 @@ Design argument from the author's second-year computational physics course: stud
 
 ## Related Claims
 - [An inquiry-based dialogue lecture helps undergraduate students understand the rationale behind the use of differential equations in physics.](inquiry-dialogue-lecture-differential-equations-rationale.md) — related
+- [Dusty plasma experiments serve as a learning tool for undergraduate and post-graduate physics students, per the author's perspective argument](dusty-plasma-experiments-learning-tool-physics-students.md) — related

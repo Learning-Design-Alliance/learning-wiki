@@ -59,3 +59,4 @@ Reflexive ethnographic observations of twelve lab sections (more than 100 hours)
 - [Women in single-gender groups were dominant across all lab activity roles, while women in mixed-gender groups were dominant only on computer, paper, or group discussion](single-gender-women-dominant-across-all-lab-roles.md) — related
 - [In mixed-gender inquiry-lab groups, women spent about twice as much time as men analyzing data on laptops (14±7% vs 6±3% of the lab period)](women-twice-laptop-analysis-time.md) — related
 - [Hands-on labs produce earlier and greater group cohesion than remote or simulated labs](hands-on-labs-greater-group-cohesion.md) — related
+- [Preliminary observation: the inequitable trio had two men and one woman while the equitable trio had two women and one man](gender-ratio-preliminary-lab-equity.md) — related

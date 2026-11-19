@@ -72,3 +72,4 @@ T-tests compared the average scores for the two solution pairs in the quiz conte
 - [TAs' grading approaches indicate a subtractive scheme, weighing domain knowledge and correctness in the detailed solution but rarely docking the brief solution for missing justifications](tas-subtractive-grading-scheme.md) — related
 - [Physics TAs using a CA-inspired rubric scored an elaborated solution similarly to their pre-rubric score and did not match expert rubric scores, particularly for a brief solution](tas-rubric-scores-differ-from-expert-scores.md) — related
 - [Grader disagreement was highest for the brief introductory physics solution SSE, with a score standard deviation of 2.71](highest-grading-disagreement-brief-intro-solution-sse.md) — related
+- [TAs scored elaborated and brief student solutions similarly on average before rubric use, with most TAs split between favoring either solution](tas-initial-scores-elaborated-vs-brief-solutions.md) — reports the opposite

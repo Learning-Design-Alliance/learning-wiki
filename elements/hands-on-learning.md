@@ -13,7 +13,7 @@ generated:
 # Hands-on Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 33 claims (28 for, 5 mixed) · 29 studies (12 causal, 8 design, 3 quant-synthesis, 3 review, 2 associational, 1 theoretical), `q1`–`q4` · 2 of 29 report an effect size · 32 claims rest on one study
+> **Evidence** · 34 claims (29 for, 5 mixed) · 30 studies (12 causal, 9 design, 3 quant-synthesis, 3 review, 2 associational, 1 theoretical), `q1`–`q4` · 2 of 30 report an effect size · 33 claims rest on one study
 
 ## Description
 Hands-on learning is the element in which learners manipulate materials, tools, or environments directly while applying ideas in practice. It is useful when understanding depends on doing, making, testing, or experiencing rather than only discussing.
@@ -72,6 +72,7 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 - [Building low-cost robot prototypes let high-school students work on electricity, kinematics, dynamics and modern-physics topics](../claims/cl-prototypes-physics-topics.md) [+W] — attached 2026-11-17 from Marcos A. M. Souza et al. (2015), which proposed "Set of low-cost robot prototypes mapped to physics topics (Table I)".
 - [A multidisciplinary art-physics laboratory on light polarization is reported by the author to make students more engaged and the learning of the physics concepts more effective](../claims/art-physics-polarization-lab-engagement.md) [+W] — attached 2026-11-18 from Fabrizio Logiurato (2008), which proposed "Low-cost polarization laboratory apparatus built from laptop screens, polarizing filters, sugar solutions and recycled plastics".
 - [Custom home experiment kits for remote introductory physics labs met critical learning goals, with students perceiving benefits beyond simulations or instructor-provided data](../claims/home-experiment-kits-met-critical-learning-goals.md) [+W] — attached 2026-11-18 from Daniel Howard et al. (2020), which proposed "Custom low-cost home experiment kit for remote first-semester introductory physics labs"; tests this page's relationship.
+- [During the COVID-19 emergency Lab2Go created Lab2Go@home, promoting experiments with poor materials or low-cost tools such as smartphone apps and Arduino, and continued these activities after the emergency because of school interest](../claims/lab2go-home-covid-low-cost-experiments.md) [+W] — attached 2026-11-19 from Il progetto Lab2Go per la diffusione della pratica laboratoriale nelle Scuole Secondarie d, which proposed "Arduino kits in Lab2Go: low-cost boards for physics experiments repeatable at home and for transversal coding skills".
 
 ## The evidence by question
 - *Does a concrete stage help at all over abstract symbols alone?* [Manipulatives Improve Math Learning](../claims/manipulatives-improve-math-learning.md) [+M]

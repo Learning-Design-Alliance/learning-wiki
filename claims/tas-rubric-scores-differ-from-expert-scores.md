@@ -75,3 +75,6 @@ Within the same PD-course grading activity, comparison of TAs' rubric-assigned a
 - [TAs saw the CA-inspired rubric as promoting good problem-solving practices and fair grading, but over half found it too constraining](tas-stated-pros-cons-of-ca-rubric.md) — related
 - [Grader disagreement was highest for the brief introductory physics solution SSE, with a score standard deviation of 2.71](highest-grading-disagreement-brief-intro-solution-sse.md) — related
 - [Two-thirds of the TAs stated they would grade QM and intro physics solutions using different criteria](two-thirds-tas-stated-different-criteria-intro-qm.md) — related
+- [Rubric-based instructional activities were insufficient to change TAs' grading practices, partly due to past educational experiences and departmental context](rubric-activities-insufficient-to-change-ta-grading.md) — related
+- [TAs' grading practices did not change significantly after the 15-week professional development course with rubric activities](tas-grading-practices-unchanged-after-pd-course.md) — related
+- [TAs scored elaborated and brief student solutions similarly on average before rubric use, with most TAs split between favoring either solution](tas-initial-scores-elaborated-vs-brief-solutions.md) — related

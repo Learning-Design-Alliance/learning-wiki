@@ -49,3 +49,4 @@ The author's survey-style assessment of introductory physics instruction, stated
 - [Faculty categorizations of quantum mechanics problems were diverse, unlike their highly uniform categorizations of introductory physics problems](faculty-qm-categories-diverse-unlike-introductory.md) — related
 - [Students categorizing quantum mechanics problems produced diverse categories and seldom placed a problem in more than one category](students-diverse-single-category-qm-categorization.md) — related
 - [Instructors' major concern is students' conceptual difficulties in QM, which one instructor viewed as avoidable in many situations if inaccurate descriptions are not taught](qm-instructors-conceptual-difficulties-primary-concern.md) — related
+- [Introductory physics textbooks typically omit quantum entanglement despite its centrality to quantum information science](intro-textbooks-omit-entanglement.md) — a narrower finding that bears on this claim

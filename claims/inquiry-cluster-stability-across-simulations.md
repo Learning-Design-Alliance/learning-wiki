@@ -71,3 +71,4 @@ Analysis of cluster transfer between activity 1 and activity 2 (Fig. 8) showed a
 - [Prior knowledge influences which inquiry strategy learners adopt, with learners holding some knowledge more likely to behave systematically](prior-knowledge-influences-inquiry-strategy.md) — related
 - [Systematic inquiry behavior is associated with gaining quantitative understanding of simulation variables, while free exploration is associated with only qualitative understanding](systematic-strategy-quantitative-understanding.md) — related
 - [Student behaviour profiles vary week to week rather than representing stable semester-long behaviour types](student-profiles-vary-week-to-week.md) — related
+- [Ordered, mostly same-group clusters show qualitatively similar but steeper simulated gains than random clusters](ordered-clusters-larger-simulated-gains.md) — related

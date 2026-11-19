@@ -96,3 +96,4 @@ Theme from the same focus group thematic analysis with intervention participants
 - [Participants reported intending to provide better, more communicative end-of-life care and to avoid poor communication after training](teolc-practice-intention-themes.md) — related
 - [Free-text comments in the Japanese SPRAT cluster into seven themes of strengths and weaknesses](japanese-sprat-free-text-seven-themes.md) — related
 - [Interviewed students frequently reported that outreach developed communication skills, with leadership and teamwork mentioned by nearly 50% and 35% of interviews respectively](outreach-interview-communication-teamwork-skills.md) — related
+- [Mixed teams of preservice and inservice teachers were appreciated by all participants, though inservice teachers saw added value in inservice-only grouping](sattaa-mixed-teacher-teams-feedback.md) — a narrower finding that bears on this claim

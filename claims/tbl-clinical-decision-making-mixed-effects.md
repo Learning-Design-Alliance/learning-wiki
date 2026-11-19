@@ -53,3 +53,4 @@ The review reports Ong et al.'s use of a validated Script Concordance Test for n
 - [A supplementary TBL class produced no significant difference in multiple-choice examination scores of factual and conceptual knowledge](supplementary-tbl-no-mcq-knowledge-difference.md) — related
 - [Medical students scored significantly higher on the post-course multiple-choice test than on the pre-test (P<0.001)](abcs3-posttest-higher-than-pretest.md) — related
 - [TBL produces greater immediate knowledge gains than passive learning in undergraduate clinical neurology](tbl-greater-immediate-knowledge-gains-than-passive-learning-neurology.md) — related
+- [After the seminar-based STS sequence, students showed accumulated understanding of the African science and culture topics worked in class](posttest-gained-understanding-african-science.md) — related

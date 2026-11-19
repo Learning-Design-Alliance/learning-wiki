@@ -47,6 +47,7 @@ The authors recommend specific directions for future research: studies "are need
 - [Direct future AR-in-education research toward social sciences and special education, and classify studies by outcome type](ar-research-future-directions-strategy.md)
 - [Use Web 2.0 tools (wikis, blogs, social networks, sharing services) to provide authentic, participatory learning experiences](web2-tools-authentic-participatory-learning-strategy.md)
 - [Future studies should use larger samples and test online social networking sites like Facebook or blogs for academic writing feedback](future-ocf-larger-samples-social-networks.md)
+- [Encourage daily student blogging as a feedback channel on lessons](daily-student-blogging-feedback.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ This is a demonstration within the article, not an empirical study: the authors 
 - [Mathematics functions as a barrier to entry that excludes non-specialists from quantum computing knowledge](mathematics-barrier-quantum-entry.md) — related
 - [Students built food chains more easily from anonymous images of living beings than from their names, suggesting visual aids convey more information than verbal labels](images-beat-verbal-names-food-chains.md) — a broader claim this one bears on
 - [Fourier-optics simulations combined with geometric and physical optics convey principles and real-world applications in classroom teaching](fourier-optics-classroom-simulations.md) — related
+- [Students with no prior quantum computing background can solve entry-level quantum compilation puzzles using Quantum Odyssey's visual puzzle interface](quantum-odyssey-untrained-students-solve-quantum-puzzles.md) — a broader claim this one bears on

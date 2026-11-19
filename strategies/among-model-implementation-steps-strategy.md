@@ -55,4 +55,4 @@ This strategy is the article's own five-step recipe for enforcing teacher work d
 -
 
 ## Key Sources
-- Rusman, Sunarti, & Rahadian. (2020). Application of the "Among" Leadership Model to Improve Teacher Work Discipline. International Journal of Innovative Science and Research Technology. https://arxiv.org/abs/2011.07284
+- Rusman, Sunarti, & Rahadian. (2020). Application of the "Among" Leadership Model to Improve Teacher Work Discipline. International Journal of Innovative Science and Research Technology. https://arxiv.org/abs/2011.07284. [doi:10.48550/arxiv.2011.07284](https://doi.org/10.48550/arxiv.2011.07284)

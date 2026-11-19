@@ -60,9 +60,11 @@ Do Nows serve two functions at once: a classroom-management routine that establi
 6. Vary format across the week (retrieval, quick write, prediction) to sustain engagement.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the activation Do Now is a compact, routine version of this strategy
 - [Exit Tickets](exit-ticket.md) — the bookend strategy; exit ticket results often feed the next day's Do Now, closing the retrieval loop
 - [Spaced Retrieval](spaced-retrieval-practice.md) — Do Nows are the most practical daily vehicle for distributing retrieval across lessons
+- [Use short variable tests as a pre-lecture attentiveness and attendance check](short-pre-lecture-attentiveness-attendance-test.md)
 
 ## Examples
 - **Retrieval Do Now (secondary math)**: Two problems from last week and one from three weeks ago on the board; students solve in notebooks while the teacher takes attendance, then pairs compare solutions.

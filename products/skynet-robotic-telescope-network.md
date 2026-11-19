@@ -13,7 +13,7 @@ generated:
 # Skynet Robotic Telescope Network
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A UNC-Chapel Hill-operated robotic telescope network and web portal that enables students and professional astronomers to control telescopes and collect astronomical data remotely.
@@ -24,9 +24,11 @@ A UNC-Chapel Hill-operated robotic telescope network and web portal that enables
 
 ### Claims
 - [Perceived helpfulness of Skynet-based telescope labs is positively correlated with science attitudes, while other lab components show no significant impact](../claims/skynet-lab-helpfulness-correlated-attitude.md) [+M]
+- [In a preliminary exploratory study across ten institutions, Skynet-based observing experiences were one of only two course components that led to a statistically significant improvement in STEM attitudes once expected grade and career plans were controlled for](../claims/skynet-observing-significant-stem-attitude-improvement.md) [+M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Adam S. Trotter, Daniel E. Reichart, Aaron P. LaCluyzé & Rachel Freed. (2018). Factors Contributing to Attitudinal Gains in Introductory Astronomy Courses. Robotic Telescopes, Student Research and Education (RTSRE) Proceedings, Vol. 1, No. 1. https://arxiv.org/abs/1910.12630
+- Daniel E. Reichart. (2021). Robotic Telescope Labs for Survey-Level Undergraduates. https://arxiv.org/abs/2103.09895

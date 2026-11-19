@@ -18,7 +18,7 @@ sources:
 # Analogies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (5 causal, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 3 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 8 studies (6 causal, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 3 of 8 report an effect size · 3 claims rest on one study
 
 ## Description
 Analogies connect a new idea to a more familiar situation, structure, or experience so learners can reason about the unfamiliar in terms they already understand.
@@ -56,6 +56,7 @@ Analogies connect a new idea to a more familiar situation, structure, or experie
 - [Analogical Reasoning Improves Transfer](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - [Most participants described interest-personalized GenAI analogies as more engaging or memorable than generic technical explanations](../claims/personalized-analogies-more-engaging-memorable.md) [+W]
 - [Students created their own analogies after being introduced to analogies, and in-group activities increased](../claims/students-generate-own-analogies-after-exposure.md) [+W]
+- [Italian high school students' knowledge of gravity and General Relativity topics rose significantly from pre-test to post-test after a rubber sheet analogy activity, in one uncontrolled pre-post study](../claims/rsa-activity-improves-gravity-knowledge.md) [+W] — attached 2026-11-19 from Postiglione A et al. (2021), which proposed "Roma Tre rubber sheet analogy structure and 90-minute interactive gravity activity"; tests this page's relationship.
 
 ## Related Elements
 - [Analogies and Prior Knowledge Activation](analogies-and-prior-knowledge-activation.md)

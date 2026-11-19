@@ -57,3 +57,4 @@ The authors' three-part analysis examined Project 2061 and self-developed concep
 - [Fourier-optics simulations combined with geometric and physical optics convey principles and real-world applications in classroom teaching](fourier-optics-classroom-simulations.md) — related
 - [An advanced historical-reconstruction project on Newton's optics received highly favourable reception from both participating students and public audiences](newton-opticks-project-favourable-reception.md) — related
 - [A comic-book and augmented-reality didactic sequence for Newton's laws shows good acceptance among adolescents and favors advances in concept learning and application to everyday events](comics-ar-newton-laws-acceptance-learning.md) — related
+- [Most introductory students report first- and second-law-like ideas before college instruction, but few connect heat to energy conservation](stpfasl-prior-knowledge-first-second-law.md) — related

@@ -57,3 +57,4 @@ Homework-context grades from the same worksheet study of 43 TAs: '58% of TAs (N=
 - [Physics TAs using a CA-inspired rubric scored an elaborated solution similarly to their pre-rubric score and did not match expert rubric scores, particularly for a brief solution](tas-rubric-scores-differ-from-expert-scores.md) — related
 - [TAs' grading scores on the two solutions did not change significantly after the PD grading activities and one semester of TA experience](tas-grading-unchanged-after-pd-and-semester.md) — related
 - [Two-thirds of the TAs stated they would grade QM and intro physics solutions using different criteria](two-thirds-tas-stated-different-criteria-intro-qm.md) — related
+- [TAs scored elaborated and brief student solutions similarly on average before rubric use, with most TAs split between favoring either solution](tas-initial-scores-elaborated-vs-brief-solutions.md) — reports the opposite

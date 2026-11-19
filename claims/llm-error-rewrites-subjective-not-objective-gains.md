@@ -51,3 +51,4 @@ Main Prolific experiment with 103 valid participants, each assigned one of four 
 - [Both LLM rewrite styles were rated less authoritative than standard interpreter messages](llm-rewrites-rated-less-authoritative.md) — related
 - [Pragmatic and contingent LLM rewrites reduced perceived cognitive load relative to standard interpreter messages](llm-rewrites-lower-perceived-cognitive-load.md) — related
 - [Rewriting MATHia word problems for struggling readers, by human experts or LLMs, sped completion by 30% and improved mastery rate](rewritten-word-problems-faster-completion-mastery.md) — related
+- [Using Eye for debugging data-structure programs reduces the fraction of debug time spent on a problem, with a marginal p-value of 0.0578](eye-reduces-debug-time-fraction.md) — related

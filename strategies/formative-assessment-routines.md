@@ -59,8 +59,10 @@ Formative assessment is among the highest-yield instructional practices availabl
 6. Keep checks ungraded; reserve evaluation for separate [summative assessment](../elements/assessment.md) points.
 
 ## Related Strategies
+
 - [3-2-1 reflection](3-2-1_reflection.md) — a ready-made exit routine structure for surfacing understanding and lingering questions
 - [Check-ins](../principles/check-ins.md) — the affective counterpart; emotional readiness data that contextualizes academic evidence
+- [Supplement or replace homework assessment with in-class low-stakes quizzes and whiteboard group problem-solving when online solutions undermine the homework model](in-class-quizzes-whiteboard-problem-solving-replacing-homework.md)
 
 ## Examples
 - **Dylan Wiliam's "five key strategies" work with UK mathematics teachers** — teacher teams embedded daily all-student response routines (no-hands questioning, mini-whiteboards, exit passes) and documented significant learning gains over two years.

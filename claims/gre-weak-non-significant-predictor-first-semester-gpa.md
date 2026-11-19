@@ -59,3 +59,4 @@ Pearson correlation analysis of 37 IMSD trainees relating first-semester Ph.D. G
 - [Underrepresented minority status predicted lower grades and lower probability of Ph.D. completion but higher likelihood of obtaining grants or fellowships](urm-status-mixed-graduate-outcomes.md) — related
 - [QGRE correlates only weakly with graduate GPA in the author's program, where undergraduate GPA is a better predictor of graduate GPA and correlates with all three GRE sections](qgre-weak-predictor-ugpa-better.md) — related
 - [Traditional graduate admissions measures, particularly the GRE and Physics GRE, disproportionately exclude underrepresented groups and are poor predictors of PhD completion](gre-pgre-exclude-urm-poor-predictors.md) — related
+- [UGPA and GRE-P are weak but statistically significant predictors of graduate GPA, while GRE-Q and GRE-V are not, in a multiple regression on 1,955 US physics PhD students](ugpa-grep-significant-weak-predictors-ggpa.md) — related

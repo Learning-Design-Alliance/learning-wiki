@@ -51,6 +51,7 @@ In the professional development session on potential energy, the facilitator ask
 - [Focus on the Question They Answered Correctly](focus_on_the_question_they_answered_correctly.md)
 - [Actively Listen To What Students Say](actively_listen_to_what_students_say.md)
 - [Instructors should attend to student gestures and inquire about early gesture occurrences rather than interrupt with content prompts](attend-to-student-gestures-inquiry-strategy.md)
+- [Ask students to justify each FCI answer in writing when deploying conceptual tests online](fci-written-justifications-strategy.md)
 
 ## Examples
 -

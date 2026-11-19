@@ -83,6 +83,7 @@ Sequenced practice with fading outperforms both unsupported practice and practic
 - [Manage poor performers by increasing practice and exposure, providing positive rather than negative feedback, and moving students back a step on the teaching continuum to reduce complexity](remediation-strategies-poor-performers-scalpel.md)
 - [Sequence novice educators' challenges in increasing complexity: individual patient education first, then group education, then individual counseling and follow-ups](graduated-complexity-educator-development-sequence.md)
 - [Sequence lightly scaffolded hints before heavily scaffolded hints so scaffolding fades](light-then-heavy-scaffolded-hints.md)
+- [Scaffold reflection prompts in assessment tasks early, then remove the scaffolding to promote autonomy](scaffold-reflection-prompts-assessment-tasks.md)
 
 ## Examples
 - **[4C/ID](../patterns/4cid-four-component-instructional-design.md)** — organizes whole learning tasks into task classes of increasing complexity with systematically fading support; the canonical design model for scaffolded sequences.

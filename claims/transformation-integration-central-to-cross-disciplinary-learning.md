@@ -46,3 +46,4 @@ Theoretical argument drawing on the Interdisciplinary Reasoning and Communicatio
 
 ## Related Claims
 - [Direct transfer often fails across distant contexts, so cross-disciplinary learning foregrounds transformative and integrative processes](far-transfer-failure-motivates-transformation-focus.md) — possibly the same claim (merge candidate)
+- [Cross-field application of disciplinary knowledge is only explicitly emphasised from second year and foregrounded only in higher degrees](cross-field-application-timing-finding.md) — related

@@ -43,7 +43,8 @@ Based on their experience, the authors "decided to expand this existing course i
 - [A no-prerequisite, broad-survey introductory data science course attracted fifty students from many non-computing disciplines in its first semester-long offering](../claims/no-prerequisite-broad-survey-data-science-course-enrollment.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Structure an interdisciplinary course with a discipline-familiarization first half and a permanent-group artistic-production second half](two-phase-interdisciplinary-familiarization-then-production-strategy.md)
 
 ## Examples
 -

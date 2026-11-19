@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 281 claims (194 show a difference, 60 mixed, 27 no difference) · 177 studies (64 associational, 55 causal, 18 review, 16 qualitative, 12 design, 10 theoretical, 2 quant-synthesis), `q1`–`q4` · 39 of 177 report an effect size · 278 claims rest on one study
+> **Evidence** · 282 claims (195 show a difference, 60 mixed, 27 no difference) · 178 studies (64 associational, 55 causal, 18 review, 16 qualitative, 13 design, 10 theoretical, 2 quant-synthesis), `q1`–`q4` · 39 of 178 report an effect size · 279 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -316,6 +316,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [DHH and hearing students reported statistically indistinguishable enjoyment of the AstroDance performance](../claims/equivalent-enjoyment-dhh-hearing.md) [-M] — measured as an outcome of the instruction studied
 - [Students experienced confusion less frequently on average in the open-inquiry experiment than in the guided-inquiry experiment](../claims/open-inquiry-less-confusion.md) [+M] — measured as an outcome of the instruction studied
 - [Timely responses to learner confusion are crucial for constructive-struggle strategies, and failing to respond in time causes frustration or stops participation](../claims/timely-confusion-response-crucial.md) [+W] — measured as an outcome of the instruction studied
+- [Subjects estimated that debugging with Eye reduces frustration by 61.43% on average](../claims/eye-survey-frustration-reduction.md) [+W] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

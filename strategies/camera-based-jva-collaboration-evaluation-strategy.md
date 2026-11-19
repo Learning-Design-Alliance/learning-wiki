@@ -57,4 +57,4 @@ The article recommends that psychologists, learning scientists, and experimental
 -
 
 ## Key Sources
-- Guo, Z., & Barmaki, R. (2020). Deep neural networks for collaborative learning analytics: Evaluating team collaborations using student gaze point prediction. https://www.google.com/search?q=%22Deep+neural+networks+for+collaborative+learning+analytics%22+gaze+point+prediction
+- Guo, Z., & Barmaki, R. (2020). Deep neural networks for collaborative learning analytics: Evaluating team collaborations using student gaze point prediction. https://www.google.com/search?q=%22Deep+neural+networks+for+collaborative+learning+analytics%22+gaze+point+prediction. [doi:10.14742/ajet.6436](https://doi.org/10.14742/ajet.6436)

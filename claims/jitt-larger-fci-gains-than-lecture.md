@@ -80,3 +80,5 @@ Quasi-experimental comparison of 222 students in introductory physics courses ta
 - [Calculus Concept Inventory questions appear trivial to experts but students in lecture courses score poorly, mirroring the Force Concept Inventory](cci-modeled-after-fci-lecture-students-score-poorly.md) — related
 - [Introductory physics and astronomy students achieve comparable FCI conceptual gains on force concepts, despite differing attitudes](fci-conceptual-gains-comparable.md) — related
 - [Active-learning meta-analyses compare broadly defined active learning with traditional lecture and do not show that named teaching methods are more effective](active-learning-meta-analyses-broad-definition-aggregate.md) — related
+- [A forced mid-semester transition to online teaching produced no appreciable drop in FCI normalized gain (G = 0.24) for first-year mechanics students](forced-online-transition-no-gain-loss-fci.md) — related
+- [Introductory students show low post-instruction scores and small normalized gains after traditional lecture-based instruction](stpfasl-low-posttest-gains-traditional-instruction.md) — related

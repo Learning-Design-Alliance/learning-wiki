@@ -70,6 +70,7 @@ Field trips work as learning events when they are integrated into instruction ra
 - [Use local-potential-integrated science videos to replace costly, risky, and inefficient site visits](local-potential-video-replaces-site-visits.md)
 - [Run the dam visit as a multidisciplinary activity in which Physics, History and Geography teachers contextualize the same site around operation, economy and impacts](multidisciplinary-dam-visit-activity.md)
 - [Take students with telescopes to accessible non-formal sites where they observe, plan and transmit what they learned](telescope-outings-students-as-transmitters.md)
+- [Run a school-group contest with a real telescope as the award](school-contest-telescope-award.md)
 
 ## Related Elements
 - [Activation](../elements/activation.md) — pre-visit preparation determines what learners can extract from the experience

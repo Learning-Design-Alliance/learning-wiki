@@ -49,3 +49,4 @@ Qualitative investigation in which 10 of the learners were interviewed and obser
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — related
 - [Thematic analysis of teacher interviews identifies barriers to implementation and factors for success](mast-implementation-barriers-success-factors.md) — related
 - [Students spontaneously applied problem-solving strategies to new scenarios or in new ways after being introduced to them](spontaneous-strategy-transfer-new-scenarios.md) — related
+- [Testimonials collected from teachers and students indicate Lab2Go supported teachers in deepening curriculum topics and introducing others not planned by the school programme](lab2go-testimonials-teacher-support.md) — related

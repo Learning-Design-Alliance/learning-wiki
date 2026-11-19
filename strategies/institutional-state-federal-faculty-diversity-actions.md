@@ -49,6 +49,7 @@ The report recommends a multi-level action set: institutions should develop spec
 - [Underwrite comprehensive preparation, improve teaching conditions, raise compensation, and expand induction to retain teachers of color](retain-teachers-of-color-four-policy-levers.md)
 - [Invest in recruiting and retaining a diverse, EL-qualified educator workforce through bilingual teaching pathways](bilingual-teacher-pathways-diverse-el-workforce.md)
 - [State and federal policy recommendations: recruit and prepare more candidates, retain new teachers through early-career mentoring, and improve working conditions](teacher-shortage-policy-recommendations.md)
+- [Leverage QISE program development to promote diversity, equity, and inclusion in engineering](qise-dei-program-recommendations.md)
 
 ## Examples
 

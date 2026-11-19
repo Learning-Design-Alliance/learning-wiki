@@ -69,3 +69,4 @@ Validation-item correlations in the same survey correlation matrix. The game "wa
 - [Autonomy was very highly correlated with the proportion of correct physics descriptions, r = .61](autonomy-correct-physics-descriptions-correlation.md) — related
 - [Students rate DiffGame as enjoyable and valuable, but intrinsic motivation does not correlate with performance](diffgame-intrinsic-motivation-performance-null.md) — related
 - [Students report high enjoyment and perceived usefulness of the quantum mechanics game after a class test](entangle-game-high-acceptance-survey.md) — related
+- [Playing Quantum Odyssey increases participants' interest in finding out more about quantum computing](quantum-odyssey-increases-quantum-learning-interest.md) — related

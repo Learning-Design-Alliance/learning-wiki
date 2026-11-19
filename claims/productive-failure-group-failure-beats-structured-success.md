@@ -56,3 +56,4 @@ The editorial reports Kapur and Kinzer's confirmation of their earlier productiv
 - [The teacher-conference problem met the sweet spot of complexity: 10th graders generated solution ideas containing the targeted errors without solving the problem canonically](pf-problem-sweet-spot-complexity-pilot-tests.md) — related
 - [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — related
 - [Teams that coordinate, communicate, and document intermediate results solve EER problems more successfully](eer-structured-teams-solve-better.md) — related
+- [Students cannot reliably solve complex well-structured problems by reasoning without applying memorized algorithms](algorithms-required-complex-problems.md) — related

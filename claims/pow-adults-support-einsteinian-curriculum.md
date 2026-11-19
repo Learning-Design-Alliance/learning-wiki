@@ -52,3 +52,4 @@ Attitudinal post-questionnaire (Likert-type scale) from 25 adults attending the 
 - [In a small school focus group, 100% agreed the Planeterrella presentation was interesting and science affects everyday life, and 75% wanted to learn more about science careers](planeterrella-focus-group-interest-careers.md) — related
 - [High-school students are reported to be able to assimilate modern physics concepts such as gravitational waves and relate them to their daily lives](students-assimilate-modern-physics-concepts.md) — related
 - [The rubber-sheet exhibit attracted sustained engagement and questions about complex gravity topics at a public outreach event](rsa-outreach-event-engagement.md) — related
+- [The author argues that machine learning foundations should be part of the standard Physics curriculum because they are becoming standard research tools and build transferable career skills.](ml-foundations-standard-physics-curriculum.md) — related

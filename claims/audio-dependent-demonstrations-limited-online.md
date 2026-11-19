@@ -47,3 +47,4 @@ Practitioner report from the online course's demonstration sessions. The perceiv
 ## Related Claims
 - [Live video streaming engaged a wider audience but poor lighting and audio limited its efficacy](video-streaming-engaged-audience-limited-by-audio-lighting.md) — related
 - [Equipment and display choices affect educational TV quality: black-on-white for fine-line charts, lapel microphone, two cameras, and a 16-inch minimum screen for 20 viewers](educational-tv-equipment-display-conclusions.md) — related
+- [Nearly half of students lacked or felt uncomfortable using cameras/microphones, raising privacy and equity concerns for proctored online exams](camera-proctoring-privacy-equity-concerns.md) — related

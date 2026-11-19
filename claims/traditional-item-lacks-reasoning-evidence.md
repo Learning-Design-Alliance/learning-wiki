@@ -49,3 +49,4 @@ Case-study analysis (author interpretation) of the traditional item in Figure 1,
 - [The 3D-LAP distinguishes exams with potential to elicit three-dimensional learning from those that do not](3d-lap-distinguishes-exams.md) — related
 - [After working through the tutorial, all eight interviewed students drew correct free body diagrams and Newton's second law equations for a near-transfer three-box problem](post-tutorial-near-far-transfer-success.md) — related
 - [Selected-response tasks meeting 3D-LAP criteria do not provide strong evidence of three-dimensional learning](selected-response-weak-evidence-3d.md) — a broader claim this one bears on
+- [Six of seven ECD/3D-LAP-designed assessment tasks elicited evidence of all four ACER components from a majority of introductory physics students](six-of-seven-tasks-elicited-expected-acer-evidence.md) — related

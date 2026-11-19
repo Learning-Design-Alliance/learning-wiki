@@ -69,3 +69,4 @@ The same informal observations describe the strategy progression: students began
 - [The authors hypothesize that understanding gained in Potential Penguin transfers to Quantum Moves performance and quantum understanding](hypothesis-inter-game-transfer-penguin-to-quantum-moves.md) — related
 - [Playtesting showed Quantum 3 players learned baryon composition passively, predicting how to form baryons they had not previously seen](quantum3-passive-baryon-learning-playtests.md) — related
 - [A kinesthetic game in which students play qubits and scientists lets high-school students experience quantum features and discover underlying rules from experimental data first-hand](kinesthetic-qubit-game-first-hand-experience.md) — related
+- [The game builds on the qubit-based card game Q|Cards⟩ by extending it to high-dimensional quantum states and new game modes](endless-fun-extends-qcards.md) — related

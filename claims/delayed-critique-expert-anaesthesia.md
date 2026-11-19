@@ -48,3 +48,4 @@ Background synthesis attributed by the article to Viennot and Décamp (2018), ba
 ## Related Claims
 - [For themselves, beginning physics teachers unanimously valued consistency and relative completeness of an explanation over its simplicity and mnemonic value](sts-value-consistency-for-themselves.md) — related
 - [Even after interviewer-led critical analysis, STs initially overlooked missing forces and accepted a physically unjustified localized tangential force](initial-critical-analysis-limitations.md) — a narrower finding that bears on this claim
+- [Once formulated, a critique of the flawed explanation is rarely retracted, and five of eight beginning teachers themselves characterized mathematical efficiency as an obstacle to critique](critique-stable-once-expressed-mml-self-identified.md) — a narrower finding that bears on this claim

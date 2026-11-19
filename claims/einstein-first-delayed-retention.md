@@ -51,3 +51,4 @@ Delayed retention test of 9 questions administered to the 2013 class after one y
 - [Year 6 students find Einsteinian concepts interesting and do not consider themselves too young to learn them](einstein-first-year6-attitudes.md) — related
 - [Female students show greater increases in interest and performance than male students, closing initial gender gaps](einstein-first-gender-equity-gains.md) — related
 - [88% of students said hands-on activities helped them understand Einsteinian concepts, and 70% wanted to learn more Einsteinian physics](hands-on-activities-helped-clarity-einsteinian-concepts.md) — related
+- [Upper primary students retained Einsteinian physics concepts, most often space-time and curvature, up to nine years after a six-week intervention](einsteinian-concepts-retained-nine-years.md) — related

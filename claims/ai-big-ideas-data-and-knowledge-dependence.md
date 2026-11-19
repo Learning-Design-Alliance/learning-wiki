@@ -50,3 +50,4 @@ Expository claim from the Big Idea #3 section: machine learning is statistical i
 - Prior studies finding nonexperimental estimators biased examined weaker evaluation designs than RCT-benchmark studies — related
 - [Anonymization algorithms preserving result patterns may require sample sizes far larger than typical experiments](anonymization-requires-larger-samples.md) — related
 - [Teachers know far more about their students than an investor knows about a stock, including data not typically in statistical models](teachers-hold-student-data-outside-statistical-models.md) — related
+- [Machine learning algorithms optimizing overall accuracy are inherently biased against minority groups when group data amounts vary, even absent historical bias](ml-accuracy-optimization-biased-against-minority-groups.md) — related

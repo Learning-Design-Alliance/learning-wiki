@@ -67,6 +67,7 @@ Cognitive apprenticeship works because it externalizes the tacit decision-making
 - [Train self-assessment and task-selection with video modeling examples before a self-regulated learning phase](video-modeling-examples-train-self-assessment-task-selection.md)
 - [Video modeling examples with expert narration revealing covert cognitive processing](video-modeling-examples-expert-narration.md)
 - [Make disciplinary norms of thinking explicit for effective reflection](make-disciplinary-norms-of-thinking-explicit.md)
+- [Scaffold reflection prompts in assessment tasks early, then remove the scaffolding to promote autonomy](scaffold-reflection-prompts-assessment-tasks.md)
 
 ## Examples
 - **Reciprocal Teaching of reading** ([Palincsar & Brown, 1984](https://doi.org/10.1207/s1532690xci0102_1)): teachers model predicting, questioning, clarifying, and summarizing, then students rotate the leader role while support fades — produced large comprehension gains in classroom trials.

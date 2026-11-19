@@ -50,3 +50,4 @@ Descriptive case contrast from the LVPCFR group's table: student 14 followed con
 ## Related Claims
 - [Frequent attenders of the live virtual physics classroom scored significantly higher than rare attenders in a distance physics course](lvpcf-frequent-attenders-higher-scores.md) — related
 - [Within the frequent-attender group, the highest content and live-session follower earned the course's highest score while its lowest follower failed](lvpcff-following-contrast-highest-lowest.md) — related
+- [Live-session attendance in the virtual astronomy course dropped as participants' regular classes and examinations overlapped with the course sessions](live-session-attendance-dropped-overlapping-classes.md) — related

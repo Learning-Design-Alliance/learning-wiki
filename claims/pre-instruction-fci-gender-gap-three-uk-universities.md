@@ -55,3 +55,4 @@ Analysis of matched pre-instruction FCI scores for male and female sub-cohorts a
 - [Mean FCI scores differ significantly between male and female students at a moderate magnitude favoring male students (g = 0.61) across international PER studies](fci-gender-gap-moderate-favoring-males.md) — a broader claim this one bears on
 - [Two non-NA studies found female students outperformed male students on the FCI, contrasting the overall pattern](non-na-female-superiority-fci-studies.md) — reports the opposite
 - [Significant gender differences in FCI scores appear in every application of the test, with small to medium effect sizes](fci-gender-differences-all-applications.md) — a broader claim this one bears on
+- [Pre- and post-test FCI scores showed a moderate positive correlation (r = 0.504) overall, with a stronger correlation for male than female students](fci-pre-post-moderate-positive-correlation-uj.md) — related

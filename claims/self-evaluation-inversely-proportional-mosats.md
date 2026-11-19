@@ -48,3 +48,4 @@ Descriptive comparison of pre-event questionnaire self-evaluation ratings with a
 - [Delegates' mOSATS scores for burr-hole skill rose from pre- to post-workshop assessment at a neurosurgical simulation workshop, in one single-group pre-post study](mosats-significant-pre-post-improvement-burr-hole.md) — related
 - [Less surgical experience is associated with overestimation of abilities](less-experience-overestimation.md) — related
 - [Self‐assessed nutritional competencies did not correlate with actual nutritional knowledge, suggesting a mismatch between perceived and actual proficiency](self-assessment-knowledge-no-correlation.md) — related
+- [Self-reported pre/post feedback on a Docker training event showed a perceived improvement in knowledge, but the measure only probes self-reported learning](docker-training-self-reported-knowledge-gain.md) — related

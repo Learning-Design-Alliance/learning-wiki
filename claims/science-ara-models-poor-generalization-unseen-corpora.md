@@ -51,3 +51,4 @@ Automatic evaluation of trained models on three newly compiled test corpora from
 - [SAG model prediction performance varies widely across corpora even with the same architecture, so benchmark results cannot predict performance on new data sets](sag-performance-varies-across-corpora.md) — a broader claim this one bears on
 - [Science readability models classify texts substantially more accurately in a 2-level setup than in the 4-level ESO-grade setup](two-level-readability-easier-than-four-level.md) — related
 - [Multilingual XLM-Longformer fine-tuning fails on Basque and Spanish science corpora while the English Longformer succeeds](xlm-longformer-fails-basque-spanish.md) — related
+- [Learning outcomes are more complex sentences than those in existing STS and SICK benchmark datasets](learning-outcomes-more-complex-than-sts-benchmarks.md) — related

@@ -46,3 +46,4 @@ Introduction section reporting a survey cited by the authors (type c/d evidence,
 
 ## Related Claims
 - [Physics faculty are more likely to be aware of and experiment with research-based instructional strategies after attending the New Faculty Workshop, but many find it difficult to persist in using them](nfw-attendance-rbis-awareness-but-poor-persistence.md) — related
+- [The New Faculty Workshop for Physics and Astronomy supported both subjects' development of their teaching practices](new-faculty-workshop-supports-teaching-growth.md) — related

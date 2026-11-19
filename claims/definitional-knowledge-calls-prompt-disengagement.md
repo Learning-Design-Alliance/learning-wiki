@@ -48,3 +48,4 @@ Video-recorded lab episode (Clip 4) in the first month of the course, analyzed a
 - [A biology major's relationship with physics shifted over a year-long interdisciplinary physics course, from hatred and avoidance toward identification, mixed affect, and more expert-like ways of knowing](violet-expanding-relationship-with-physics.md) — related
 - [Recruiting a student's relationship with biology into physics tasks engaged her in physics reasoning and increased her liking of physics](leveraging-biology-identity-engages-physics.md) — related
 - [Explicitly discussing that feeling stupid is a legitimate part of science reduced educator disengagement in NITARP](nitarp-feeling-stupid-discussion-reduces-disengagement.md) — related
+- [Leveraging students' outside disciplinary expertise can productively change their affective stance toward physics (Violet case study)](leveraging-outside-expertise-changes-affect-violet.md) — related

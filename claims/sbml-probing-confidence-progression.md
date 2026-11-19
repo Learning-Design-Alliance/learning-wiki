@@ -55,3 +55,4 @@ Confidence was rated on a 0–4 Likert scale at each of four training stages (Ta
 - [Both video-based and simulation-based training produce similarly high practical skills post-training with no overall between-group difference](video-and-simulation-similar-practical-skills-post-training.md) — related
 - [Emergency physicians' slit-lamp exam checklist scores increased significantly from pre- to post-SBML curriculum (median 12.0 to 19.0)](sbml-slitalmp-checklist-score-increase.md) — related
 - [Participation in the simulation-based CVC training session significantly increased learner confidence in CVC placement](sim-cvc-training-increased-confidence.md) — related
+- [Self-reported pre/post feedback on a Docker training event showed a perceived improvement in knowledge, but the measure only probes self-reported learning](docker-training-self-reported-knowledge-gain.md) — related

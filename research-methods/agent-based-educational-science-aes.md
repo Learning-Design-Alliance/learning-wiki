@@ -13,7 +13,7 @@ generated:
 # Agent-based educational science (AES)
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies (1 associational, 1 design, 1 theoretical), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 4 studies (2 associational, 1 design, 1 theoretical), `q1`–`q2` · 1 of 4 report an effect size · 6 claims rest on one study
 
 ## Description
 Agent-based educational science (AES) is a research agenda in which educational theories are formalized as interacting agents and environments, enabling in silico experimentation on developmental processes. The authors frame it as "a coordinated invitation to the research community to reorient its priorities, workflows, data infrastructures, and validation practices around theory-constrained, dynamically updateable, and empirically examinable simulations of learner development." It targets developmental processes that are otherwise slow or infeasible to test empirically.
@@ -26,12 +26,15 @@ Agent-based educational science (AES) is a research agenda in which educational 
 - **Student Development Agents: computational agents generating developmental features under counterfactual educational environments**: Student Development Agents are the article's concrete instantiation of AES: "computational agents designed to generate developmental features under counterfactual educational environments." They serve as simulated learners whose developmental trajectories can be examined in silico, allowing educational innovations to be evaluated before large-scale implementation. The article presents them as enabled by recent advances in generative artificial intelligence. (Zhang et al. (2026))
 - **Student development agent framework: learning environment, endowment dimensions, developmental dimensions, actions, behaviors, and history**: The article defines a design framework whose input includes "the learning environment, the endowment dimensions of students, the developmental dimensions of students, the actions defining how student agents can interact with the given learning environment," and whose output is simulated learning behaviors and changes in developmental dimensions. Developmental dimensions serve as "both outcomes for one period and inputs for the next period," enabling iterative simulation, while history records past trajectories. This framework targets prospective evaluation of AIED innovations without exposing real students. (Jianxiao Jiang (2025))
 - **Use LLM-based student development simulation as a risk-free pre-deployment evaluation of AIED innovations to avoid exposing real students to uncertain effects**: The article argues that because educational interventions may carry irreversible effects, novel AIED designs should be prospectively evaluated before exposure to students. Its framework enables "a risk-free simulation process" that "directly avoids exposing actual students to uncertain effects of new teaching approaches, assessment methods, or adaptive feedback mechanisms," so that initial prototyping and experimentation occur without risking learners' academic or psychological well-being. (Jianxiao Jiang (2025))
+- **Knowledge acquisition as a complex dynamical system modeled with agent-based statistical-physics tools**: The article frames the classroom as a complex dynamical system in which "the behavior of a larger systemic constellation cannot be readily reduced to that of its individual members, in other words, the whole is greater than the sum of its parts". It operationalizes this view through agent-based modeling, where "a system is modeled as a collection of autonomous decision-making entities called agents", coupling classroom observations and surveys with stochastic simulations that follow both global behavior and individual learning trajectories over a 16-week semester. (Velásquez-Rojas et al. (2019))
 
 ### Claims
 - [Agent-generated descriptions significantly improve prediction of student dropout in a lesson, outperforming all other measured approaches](../claims/agent-descriptions-improve-dropout-prediction.md) [+M]
 - [In the model, social learning creates consensus in trust without shifting aggregate reliance; connectivity alone does not produce collective overreliance](../claims/social-learning-consensus-not-aggregate-overreliance.md) [+M]
 - [In the model, visible unverified peer use (social proof) suppresses verification and tips the population into collective overreliance, via a smooth crossover with no hysteresis](../claims/social-proof-verification-collapse-cascade.md) [+M]
 - [In the MAIC case study, student development agent predictions (Concept and Scales methods) outperformed the mean baseline across all five non-cognitive dimensions on RMSE and MAE](../claims/agent-beats-mean-baseline-rmse-mae.md) [+M]
+- [Survey-based Knowledge Acquisition model correlates with students' final grades (r=0.7) in a Physics II engineering course](../claims/ka-model-final-grade-correlation.md) [+M]
+- [Simulations predict higher final knowledge when students form clusters than when working individually, with low-achieving students most favored](../claims/cluster-formation-improves-simulated-achievement.md) [+W]
 
 ## Related Research Methods
 
@@ -41,8 +44,8 @@ Agent-based educational science (AES) is a research agenda in which educational 
 - Wang, S., Mitchell, J., Piech, C. (2025). AI Web Agents Can Effectively Guide Lesson Design and Predict Student Outcomes. In: Cristea, A.I., Walker, E., Lu, Y., Santos, O.C., Isotani, S. (eds) Artificial Intelligence in Education. AIED 2025. Lecture Notes in Computer Science, vol 15878. Springer, Cham. https://doi.org/10.1007/978-3-031-98417-4_21
 - Ahana Biswas. (2026). Modeling AI Overreliance as a Complex Adaptive System. arXiv. https://arxiv.org/abs/2608.19616
 - Jianxiao Jiang, Yu Zhang. (2025). Student Development Agent: Risk-free Simulation for Evaluating AIED Innovations. Preprint. https://arxiv.org/abs/2510.09183
-
 <!-- merged 2026-10-17 from research-methods/student-development-agents ("Student Development Agents"), thin research-method page folded into the method it is a variant of (maintainer, 2026-10-17): its body as it stood. Its bullets this page lacked were added above.
+- Velásquez-Rojas, F., & Laguna, M. F. (2019). The knowledge acquisition process from a complex system perspective: observations and models. https://scholar.google.com/scholar?q=%22The+knowledge+acquisition+process+from+a+complex+system+perspective%22
 
 # Student Development Agents
 

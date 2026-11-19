@@ -50,3 +50,4 @@ A qualitative case study of one focal interview (Sophia) among N=5 semi-structur
 - [Thinking computationally about implementing a better model is the key to resolving the accuracy-realism inconsistency](thinking-computationally-key-resolution.md) — related
 - [In a qualitative case study of two student pairs, creating computational literature was associated with computational literacy development even when code modification was minor](creating-computational-literature-develops-computational-literacy.md) — related
 - [Tasks can be designed to create a perceived trade-off between accuracy and realism that requires sensemaking to resolve](accuracy-realism-task-design.md) — a narrower finding that bears on this claim
+- [In-class video of high school student interactions serves as existence proofs of the framework's computational thinking practices](video-existence-proofs-ct-practices.md) — possibly the same claim (merge candidate)

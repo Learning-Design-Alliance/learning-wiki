@@ -48,6 +48,8 @@ To help students feel settled, the brief advises educators to "Create structure 
 - [Use established routines such as course-map and unit-plan review cycles to monitor and sustain instructional work](routines-monitor-course-maps-unit-plans.md)
 - [Reduce workloads and chunk instruction into smaller pieces to support diminished capacity and executive functioning](reduce-workload-chunk-instruction-distance-learning.md)
 - [Screen lessons, texts, activities, and videos in advance to ensure they are not activating for students and families](screen-materials-for-activating-content.md)
+- [Inclusive virtual course delivery: record everything, subtitle videos, schedule around participants' calendars, monitor participation, and diversify speakers](inclusive-virtual-astronomy-course-delivery-strategy.md)
+- [Design assignments as smaller pieces with fixed due dates to encourage earlier student work](small-exercises-fixed-deadlines-earlier-start.md)
 
 ## Examples
 -

@@ -68,3 +68,5 @@ This is exploratory, proof-of-concept research (the authors' own characterizatio
 - [Making human movements tends to be more beneficial for learning than observing them (review's synthesis)](making-movements-more-beneficial-than-observing.md) — related
 - [Student-produced physics videos reveal learning difficulties that formal assessments such as tests and questionnaires do not expose](videos-reveal-difficulties-hidden-from-tests.md) — related
 - [Teaching by telling is not an effective approach to helping students learn physics; PER-based curricula instead build on interactive engagement](teaching-by-telling-ineffective-physics.md) — related
+- [Science students reported that embodying scientific concepts through choreography deepened their understanding of those concepts](embodied-choreography-deepened-science-concept-understanding.md) — related
+- [A minority of science students reported no learning benefit from teaching concepts through physical movement](some-science-students-no-benefit-from-movement.md) — related

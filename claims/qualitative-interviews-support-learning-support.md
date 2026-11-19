@@ -65,3 +65,4 @@ Same 23-interview study. The article reports students found the audience respons
 
 ## Related Claims
 - [Students rated all student-facing design principles positively, with formative assessment and learning content rated highest (above 6 on a 7-point scale)](design-principles-rated-positively-survey.md) — a broader claim this one bears on
+- [A mixed qualitative-quantitative evaluation (teaching experiments N = 8, interviews N = 23, questionnaire N = 60, exam results) indicated grade-13 students were able to deal with the challenging quantum subject matter](milq-mixed-methods-evaluation-students-cope.md) — related

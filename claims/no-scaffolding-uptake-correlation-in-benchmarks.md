@@ -49,3 +49,4 @@ Category-level Spearman analysis in Section 4.2 over the four benchmark datasets
 - [Students in real-world chatbot deployments exhibit lower scaffolding uptake than benchmarks assume, frequently bypassing the chatbot's pedagogical framing](real-world-students-bypass-chatbot-scaffolding.md) — related
 - [Student uptake is only weakly and inconsistently correlated with chatbot scaffolding in real-world deployments](weak-inconsistent-scaffolding-uptake-correlation-real-world.md) — related
 - [The LLM-judge scoring pipeline for the two metrics aligns with human labels and human raters](llm-judge-pipeline-validated-against-human-raters.md) — related
+- [PJSD correlates significantly with educational outcomes across three datasets, while %-IN-T fails in the written one-on-one tutoring setting](pjsd-correlates-educational-outcomes-three-datasets.md) — related

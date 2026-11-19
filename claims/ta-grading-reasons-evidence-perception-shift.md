@@ -71,3 +71,4 @@ Subgroup analysis of the 10 TAs who provided reasons; for the four scoring SSE>S
 - [TAs' perceptions of grading did not change significantly during one semester of teaching experience](tas-grading-perceptions-stable-over-one-semester.md) — reports the opposite
 - [Almost all first-year physics TAs stated that the purpose of grading was formative](tas-state-formative-purpose-of-grading.md) — related
 - [TAs' grading scores on the two solutions did not change significantly after the PD grading activities and one semester of TA experience](tas-grading-unchanged-after-pd-and-semester.md) — related
+- [TAs' grading practices did not change significantly after the 15-week professional development course with rubric activities](tas-grading-practices-unchanged-after-pd-course.md) — related

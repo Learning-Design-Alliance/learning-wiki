@@ -1,0 +1,60 @@
+---
+type: strategy
+id: dust-acoustic-wave-experiments-wave-motion-learning
+title: Use dust-acoustic wave experiments in a dusty plasma device to teach wave motion in gas, liquid, and solid media
+description: Students excite and image very low frequency dust-acoustic waves (DAW) in a dusty plasma device in DC or RF discharge configuration.
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-19
+sources:
+  - id: mangilal-choudhary-2021
+    resource: "https://arxiv.org/abs/2102.03165"
+    title: "Mangilal Choudhary. (2021). Perspective: The dusty plasma experiments a learning tool for physics graduate students. https://arxiv.org/abs/2102.03165"
+    author: Mangilal Choudhary
+---
+
+# Use dust-acoustic wave experiments in a dusty plasma device to teach wave motion in gas, liquid, and solid media
+
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+Students excite and image very low frequency dust-acoustic waves (DAW) in a dusty plasma device in DC or RF discharge configuration. Bright vertical bands are compressed wavefronts and dark regions are rarefactions; intensity plots along the propagation direction yield wavelength, phase velocity, and frequency, and space-time plots characterize the waves. The article states this "novel feature of dusty plasma attracts undergraduate and postgraduate students to understand the wave motion in any medium (gas, liquid, and solid) by performing experiments on dust-acoustic waves in dusty plasma device". Linear and nonlinear waves can both be explored.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Dusty plasma device operated in DC or RF discharge configuration
+- ImageJ, MATLAB or Python-based image processing tools to obtain intensity profiles and space-time plots
+#### Constraints
+- The article notes possible causes for DAW excitation (ion-streaming instability and dust-acoustic instability) are discussed in the cited references rather than derived here
+
+### Target Learners
+- undergraduate physics students
+- postgraduate physics students
+
+### Target Learning Goals
+- understanding longitudinal wave motion and wave parameters (wavelength, phase velocity, frequency)
+- identifying nonlinear wave characteristics via harmonic fitting and frequency spectra
+
+### Affordances
+- [Dusty Plasma Model System Microscopic Phenomena](../designs/dusty-plasma-model-system-microscopic-phenomena.md)
+
+## Claims
+
+- [Dusty plasma experiments serve as a learning tool for undergraduate and post-graduate physics students, per the author's perspective argument](../claims/dusty-plasma-experiments-learning-tool-physics-students.md) [+W]
+
+## Related Strategies
+
+- [Use diffraction of dust-acoustic waves around a cylindrical object as a model system for learning diffraction of sound waves](dust-acoustic-wave-diffraction-sound-learning.md)
+- [Use dusty plasma crystal formation and phase transition experiments, analyzed via the radial pair correlation function, to teach crystalline structure of solids](dusty-plasma-crystal-phase-transition-learning.md)
+- [Use dusty plasma images and DC glow discharge time-series data to teach image processing and time-series data analysis techniques with ImageJ, MATLAB, and Python](dusty-plasma-image-time-series-analysis-learning.md)
+- [Use vortex and rigid rotational motion of dust grains, induced by a charged probe or an external magnetic field, to teach vortex flow and rotational motion of many-body systems](dusty-plasma-vortex-rotational-motion-learning.md)
+
+## Examples
+-
+
+## Key Sources
+- Mangilal Choudhary. (2021). Perspective: The dusty plasma experiments a learning tool for physics graduate students. https://arxiv.org/abs/2102.03165

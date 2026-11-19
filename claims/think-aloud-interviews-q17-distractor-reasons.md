@@ -75,3 +75,5 @@ Interview evidence from MC-Q17: a student choosing between superposition options
 - [Students often draw wave function diagrams from memory or memorized procedures without a qualitative feel for the physics](wave-function-sketches-drawn-from-memory.md) — related
 - [Students misapply object-based resources such as part-for-whole and dying away when reasoning about wave propagation and superposition](object-resources-misapplied-to-waves.md) — related
 - [Students taught classical physics with the state-and-operator approach report perceiving deeper understanding of physics](state-operator-approach-deeper-understanding-perception.md) — related
+- [Learning effectiveness of analogies is assessed mainly with multiple-choice and oral tests, student-created analogies, and verbal reasoning about conceptual change](analogy-learning-assessment-methods.md) — related
+- [Using Quantum Composer, students were able to obtain correct answers to questions about single-well quantum systems](composer-helps-students-obtain-correct-answers.md) — related

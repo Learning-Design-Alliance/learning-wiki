@@ -119,3 +119,4 @@ This has a direct design consequence: chunking imposed from outside only helps w
 - [Cognitive Load Theory has traditionally used slot-based working memory capacity models](clt-traditionally-used-slot-models.md) — related
 - [Standard unconstrained neural networks do not naturally separate working memory from long-term memory or impose human-like capacity limits](unconstrained-neural-networks-lack-memory-capacity-limits.md) — related
 - [Novices' limited attentional capacity makes early implant training unmanageable; simulation-based deliberate practice automates skills and frees attentional resources](attentional-capacity-novice-implant-automation.md) — a narrower finding that bears on this claim
+- [Working memory slots are unlimited for relationships quickly recallable from long-term memory but very limited for other data](wm-unlimited-for-recallable-relationships.md) — related

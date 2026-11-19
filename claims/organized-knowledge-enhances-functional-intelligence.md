@@ -59,3 +59,4 @@ Theoretical argument in the section on enhancing novel problem solving: the arti
 - [Working memory capacity is related to initial analogical reasoning ability in children](wm-related-initial-analogy-ability.md) — related
 - [Learners' interview responses indicated schema construction linking novel problems to worked-out examples](interview-responses-indicate-schema-construction.md) — a narrower finding that bears on this claim
 - [Informal interviews indicated that problem modifiers showed deep understanding and transfer to novel difficult scenarios](problem-modding-transfer-interviews.md) — a narrower finding that bears on this claim
+- [Working memory holds only about 3-5 novel data chunks for roughly 30 seconds or less during problem solving](working-memory-3-5-slots-30-seconds.md) — related

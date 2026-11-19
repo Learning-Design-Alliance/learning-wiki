@@ -50,3 +50,4 @@ Cross-method comparison (Table 5) of κ, accuracy, TPR, FPR, scoring bias D, and
 - [Bias in predicting learning productivity, measured as accuracy differences across gender and parental educational background, was highly dependent on the ML method used](bias-dependent-on-ml-method.md) — related
 - [Both prior performance flags and the machine learning algorithm are less accurate when predicting outcomes for students who are Black](ews-and-algorithm-less-accurate-black-students.md) — related
 - [The most accurate scorer showed no gender disparity but a small significant language-background disparity favoring foreign-language speakers](language-bias-favors-foreign-speakers-roberta-svm.md) — a narrower finding that bears on this claim
+- [Dropout-prediction models showed accuracy disparities between males and females across MOOC datasets even without demographic features](mooc-dropout-accuracy-disparities-without-demographic-features.md) — reports the opposite

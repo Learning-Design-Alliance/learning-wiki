@@ -54,3 +54,4 @@ Numerical experiment applying text splicing (splitting a question on punctuation
 - [BERT and MentalBERT remain resilient under sentence shuffling in ENS-based mental health classification](bert-mentalbert-resilient-sentence-shuffling.md)
 - [Model accuracy on Bloom classification drops with question text length, with LLMs degrading least](bloom-signal-dilution-with-text-length.md) — related
 - [Appending learning objectives to questions improves Bloom classification on the AF dataset](learning-objectives-anchor-bloom-classification.md) — related
+- [BloomNet outperforms all considered baseline models on both IID and OOD classification of Bloom's taxonomy course learning outcomes](bloomnet-outperforms-baselines-bloom-classification.md) — related

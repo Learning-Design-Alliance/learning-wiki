@@ -48,3 +48,4 @@ Systematic review synthesis of three studies combining discussion boards with ot
 - [Discussion boards improve knowledge acquisition, critical and reflective thinking in physiotherapy education](discussion-boards-improve-knowledge-critical-reflective-thinking.md) — related
 - [Nursing students perceived that SBL using technology can enhance critical thinking development through opportunities for meta-cognition and reflection](metacognition-net-benefits-sbl.md) — related
 - [Engagement and motivation, including safe learning environment, immersion, and autonomy, are prominent enablers of critical thinking in technologically supported SBL](engagement-motivation-enablers-sbl.md) — related
+- [Testimonials collected from teachers and students indicate Lab2Go supported teachers in deepening curriculum topics and introducing others not planned by the school programme](lab2go-testimonials-teacher-support.md) — related

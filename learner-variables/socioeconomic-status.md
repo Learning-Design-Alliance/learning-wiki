@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 298 claims (164 show a difference, 66 mixed, 68 no difference) · 225 studies (108 associational, 82 causal, 15 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 37 of 225 report an effect size · 297 claims rest on one study
+> **Evidence** · 300 claims (166 show a difference, 66 mixed, 68 no difference) · 226 studies (109 associational, 82 causal, 15 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 37 of 226 report an effect size · 299 claims rest on one study
 
 ## How to read this page
 
@@ -383,6 +383,8 @@ A learner's economic and social position: family income or poverty (often measur
 - [First-generation students had smaller predicted DFW-rate decreases from LA support than continuing-generation peers](../claims/fg-students-smaller-dfw-decreases.md) [+M] — an instructional effect differs by group
 - [Students from higher-income high school communities take longer to graduate](../claims/higher-income-high-school-longer-graduation.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [First-generation students reported every listed pandemic stress cause more often than non-first-generation students except quality of education, and were less likely to have a private study space (52% vs 74%)](../claims/first-generation-students-remote-stress-and-space.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [In the remote-learning semester, first-generation students submitted a significantly lower fraction of modules on time than non-first-generation students, a gap not present in the face-to-face SP20 semester.](../claims/first-gen-lower-on-time-remote.md) [+M] — an instructional effect differs by group
+- [Remote learning significantly reduced early submission frequency for first-generation students while increasing it for non-first-generation students.](../claims/first-gen-early-submission-decline-remote.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

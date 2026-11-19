@@ -52,3 +52,4 @@ Analysis of pre-test to conceptualized-model transitions (Sankey diagram, Fig. 7
 - [The three feature-abstraction paradigms yield largely overlapping inquiry clusters but capture systematic behavior from different angles, as shown by Rand indices](paradigms-overlapping-but-distinct-perspectives.md) — related
 - [Open inquiry improves students' conceptual understanding of science, supported by seven reviewed studies](open-inquiry-improves-conceptual-understanding.md) — a broader claim this one bears on
 - [Teachers report AI tools enhance students' higher-order scientific skills including experimental design, inquiry, hypothesis testing, and argumentation](ai-enhances-higher-order-scientific-skills.md) — related
+- [Ordered, mostly same-group clusters show qualitatively similar but steeper simulated gains than random clusters](ordered-clusters-larger-simulated-gains.md) — related

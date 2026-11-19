@@ -48,3 +48,4 @@ Covariate balance evaluation comparing IPTW and SIPTW weighting across 16 covari
 - [Before matching, bilingual Spanish and monolingual English kindergarteners differ substantially on covariates related to executive function](pre-matching-covariate-imbalance-bilingual-monolingual.md) — related
 - [Monolingual and bilingual kindergarteners differ in English oral proficiency screening performance even after meeting the same inclusion cutoff](prelas-proficiency-distribution-differs-language-groups.md) — related
 - [The main dropout-contagion findings remained essentially unchanged across five robustness checks including unmatched samples, IPTW, and conditional regression](robustness-checks-support-dropout-contagion-findings.md) — related
+- [Under time-varying treatment-confounder feedback, outcome regression is biased while IPTW yields unbiased estimates](iptw-unbiased-under-treatment-confounder-feedback.md) — related

@@ -51,3 +51,4 @@ Qualitative case study of one upper-division physics lab group in which Abbey mi
 - [In the studied group, the lower-expertise student's reduced inchargeness manifested differently across two concurrent storylines, catching up and moving forward](catching-up-moving-forward-storylines-inchargeness.md) — a narrower finding that bears on this claim
 - [A comparison group with similar on-task expertise showed more evenly distributed inchargeness](similar-expertise-more-even-inchargeness.md) — related
 - [Concentrated inchargeness negatively impacted members without it, who spoke and engaged less](inchargeness-concentration-reduces-engagement.md) — related
+- [In an equitable trio, the highest-inchargeness student uses her inchargeness to acknowledge her partners' bids](equitable-trio-janelle-acknowledges-bids.md) — related

@@ -49,3 +49,4 @@ Correlational analysis of the author's own program's admissions materials and ou
 - [GRE scores and undergraduate GPA showed weak, non-significant associations with first-semester Ph.D. GPA among UR trainees](gre-weak-non-significant-predictor-first-semester-gpa.md) — related
 - [Undergraduate GPA is a stronger predictor of graduate outcomes than GRE scores](undergrad-gpa-stronger-predictor-than-gre.md) — a broader claim this one bears on
 - [Undergraduate GPA is the only admissions metric statistically significantly associated with physics PhD completion across all models studied](ugpa-only-consistent-predictor-physics-phd-completion.md) — related
+- [UGPA and GRE-P are weak but statistically significant predictors of graduate GPA, while GRE-Q and GRE-V are not, in a multiple regression on 1,955 US physics PhD students](ugpa-grep-significant-weak-predictors-ggpa.md) — related

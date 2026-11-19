@@ -49,3 +49,4 @@ Classical test theory item-difficulty comparison for the 17 common items among C
 ## Related Claims
 - [Online format changes increased the percentage of students choosing multiple responses on all MCMR items](mcmr-multiple-response-selection-increased-online.md) — related
 - [Multiple-response multiple-correct (MRM) questions are much harder than single-response questions, with no significant discrimination differences](mrm-questions-much-harder.md) — related
+- [Dichotomously scored performance on single-correct MCMR items decreases with online administration](online-administration-lowers-dichotomous-mcmr-performance.md) — a narrower finding that bears on this claim

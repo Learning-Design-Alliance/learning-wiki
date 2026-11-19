@@ -67,3 +67,4 @@ The review attributes this finding to the NUSTEM primary partnerships evaluation
 - [One-off STEM engagement experiences are unlikely to have a lasting measurable effect on young people's aspirations](one-off-stem-engagement-limited-aspiration-impact.md) — related
 - [Short series of STEM interventions show some impacts but limited evidence of lasting aspiration change](short-series-interventions-limited-aspiration-evidence.md) — related
 - [PRiSE students show lasting STEM confidence and skills effects and greater physics and STEM uptake at university three years later](prise-lasting-longitudinal-impacts.md) — related
+- [PRiSE participation moderately increases physics aspirations and confirms or maintains already-high STEM aspirations, with 80 ± 8% of students reporting positive influence](prise-aspirations-physics-stem.md) — a narrower finding that bears on this claim

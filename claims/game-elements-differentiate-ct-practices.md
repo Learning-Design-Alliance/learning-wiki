@@ -48,3 +48,4 @@ Co-occurrence code analysis of which game elements students interacted with whil
 - [Integrated use of all three ChoiCo affordances (database, map editor, block-based programming) was associated with higher-level CT practices such as optimization and event handling](integrated-affordances-higher-level-ct.md) — related
 - [Students implemented abstraction, pattern recognition and automation in new data- and system-related forms not captured by programming-centred CT frameworks](new-forms-ct-practices-simulation-game.md) — related
 - [Societal values in the simulation game triggered more disagreement, discussion and modification than scientific values, fostering critical CT practices](societal-values-trigger-critical-ct.md) — related
+- [Line graphs are the most common engagement element in the PICUP Collection, followed by three-dimensional graphics](picup-es-engagement-element-line-graphs.md) — related

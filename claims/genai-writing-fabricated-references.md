@@ -59,3 +59,4 @@ The review reports this implementation finding, citing Reddy et al. (2024), and 
 - [Large language models can produce fluent but factually inaccurate or fabricated outputs (AI hallucination), posing risks for uncritical users in science education](llm-hallucination-risk-science-education.md) — a broader claim this one bears on
 - [GPT-3 fabricates plausible-looking but fake references and apparently invents the research studies they cite](gpt3-fabricates-fake-references.md) — related
 - [Hallucination, fabrication and reduced explanation accuracy limit ChatGPT's potential as a medical learning tool](hallucination-and-explanation-accuracy-limit-chatgpt-learning-tool.md) — a broader claim this one bears on
+- [Educational animations carry greater risk of misrepresenting scientific facts, while inspirational pieces are more open to interpretation](astro-animation-educational-animations-misrepresentation-risk.md) — related

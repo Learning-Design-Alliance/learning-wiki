@@ -74,6 +74,7 @@ Family engagement is consistently associated with student achievement, but the m
 - [Home-based summer game play with parent notification and periodic follow-up](home-summer-game-play-parent-followup.md)
 - [Innovative continuing education formats including patients and families, videos, remote classes, interactive games and smart devices](innovative-formats-soft-skill-education.md)
 - [Appointment-based one-to-one tuition open to all level 1 physics and astronomy students](appointment-one-to-one-tuition-level1-physics.md)
+- [Structure virtual conferences as recurring short evening sessions with public general sessions and private cohort-building sessions](split-session-virtual-conference-structure.md)
 
 ## Related Elements
 - [Check-Ins](../principles/check-ins.md) — the opening move that makes each family contact feel personal rather than procedural

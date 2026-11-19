@@ -47,3 +47,4 @@ Analysis of submitted homework from 16 students in a graduate plasma physics sur
 ## Related Claims
 - [Graduate students' explicit awareness that the frequency ω is complex did not determine their success in solving for the roots; access to the compact form did](omega-complex-awareness-did-not-determine-root-success.md) — related
 - [Students with only the expanded form of the dielectric function erred by treating its first and second terms as the real and imaginary parts and equating them individually to zero](expanded-form-terms-treated-as-real-imaginary-parts.md) — related
+- [Dusty plasma experiments serve as a learning tool for undergraduate and post-graduate physics students, per the author's perspective argument](dusty-plasma-experiments-learning-tool-physics-students.md) — related

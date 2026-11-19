@@ -76,3 +76,4 @@ Correlational analysis over two years of conceptual physics courses relating pre
 - [The CURrENT pre-test (54.3%, N=298) is a meaningful indicator of incoming preparation, correlating with CUE post-test scores and prior GPA](current-pretest-indicates-preparation.md) — related
 - [Post-scores are independent of pre-scores while normalized gain is strongly pre-score dependent, and math-test scores predict post-scores better than the pre-test](pre-score-bias-and-math-predictor.md) — reports the opposite
 - [Response accuracy and response confidence are highly correlated on the score level in the TUG-K (r = 0.63)](tug-k-accuracy-confidence-correlated.md) — related
+- [CLASS attitude scores are strongly related to change in TUG-K graph-interpretation scores for non-science majors](class-favorability-explains-tug-k-variance.md) — related

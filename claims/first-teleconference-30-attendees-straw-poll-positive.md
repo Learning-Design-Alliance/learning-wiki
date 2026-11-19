@@ -52,3 +52,4 @@ Single-institution early experience report of the first teleconferenced weekday 
 - [A modified operational schedule and remote curriculum allowed orthopedic residency education and core departmental functions to continue during the COVID-19 pandemic](remote-curriculum-continued-resident-education-covid.md) — a broader claim this one bears on
 - [MICA's weekly popular science lectures in Second Life drew typical audiences of about 50-70 avatars](mica-popular-lectures-attendance-50-70-avatars.md) — related
 - [Virtual seminars reach global audiences comparable in size to medium-sized conferences](virtual-seminars-global-audience-scale.md) — related
+- [Alumni participation was higher at the NAC's first virtual conference (16 registrants) than at the 2019 in-person conference (9 registrants)](virtual-nac-conference-higher-alumni-participation.md) — related

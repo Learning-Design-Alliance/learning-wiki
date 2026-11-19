@@ -69,3 +69,4 @@ The same linguistic-analysis study, as reported in this meeting report: CURE stu
 - [The LCAS discovery and relevance scale differentiates CURE students from traditional lab students with a medium-large effect](lcas-discovery-relevance-differentiates-cures.md) — related
 - [CURE students give higher overall LCAS total ratings than traditional lab students](lcas-total-score-cures-higher.md) — related
 - [Only CURE students showed progress in views of science as creative and process based](cure-only-gains-creative-process-views-nature-of-science.md) — related
+- [Students' sense of ownership can entail their own new knowledge about the nature of science](ownership-entails-nature-of-science-knowledge.md) — related

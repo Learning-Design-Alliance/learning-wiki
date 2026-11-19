@@ -68,3 +68,4 @@ Computational evaluation on behavior trace data from 168 middle school students 
 - [Random forest and support vector machine models also failed to beat chance when predicting laboratory performance, supporting the null result](rf-svm-also-fail-beat-chance-lab-performance.md) — related
 - [Model results are robust to varying training fraction and number of trees, but the highest-physics-degree factor is only marginally meaningful](hyperparameter-robustness-variable-importance.md) — related
 - [Raw LMNET is the most predictable engagement encoding, and Random Forest with kernelised models performs best, indicating non-linearity](raw-lmnet-rf-best-engagement-prediction.md) — related
+- [TF-IDF encoded text with a random forest classifier outperformed several strong baselines including LSTM, HAN, CNN and RCNN](tfidf-random-forest-beats-strong-baselines.md) — related

@@ -48,3 +48,4 @@ Paired-sample t-test of discrimination across the 60 items shared by the fixed-o
 - [Pooled mixed-model ANOVA found no significant effect of offering (five vs four options) on item difficulty or discrimination](mcq-pooled-anova-no-offering-effect.md) — related
 - [Mean item discrimination changes negligibly when reducing SBA options from five to three](item-discrimination-negligible-change-reduced-options-sba.md) — related
 - [Removing the least effective distractor from questions that already had four effective distractors slightly reduced discrimination and negligibly changed difficulty](mcq-four-effective-distractor-subset-effects.md) — related
+- [Reordering answer choices has no statistically significant effect on STPFaSL scores (p = 0.994)](stpfasl-distractor-ordering-no-effect.md) — related

@@ -50,3 +50,4 @@ A posteriori coding of the same nine COPUS videos, tabulating analogies and real
 - [The effectiveness of concrete representations may depend more on how relatable they are than on their real-world existence](concrete-representations-effectiveness-relatability.md) — related
 - [Combining analogy-based simulation with laboratory activities produces significantly higher corrected post-test achievement in simple electricity than either environment alone](combined-simulation-laboratory-beats-either-alone-electricity.md) — related
 - [Support and coaching from a science education specialist appears important for developing novices' attitudes toward in-class activities](ses-support-important-novice-attitudes.md) — related
+- [Analogies in science teaching are implemented through verbal instructions, videos, and images or illustrations, often combined within one analogy](analogy-didactic-resources-verbal-video-images.md) — related

@@ -56,3 +56,4 @@ Qualitative phenomenological pilot: two focus groups with a total of 10 first- a
 - [Two included studies allowed participants to act on feedback from an earlier simulation attempt, enabling a 'second go'](second-go-feedback-iteration-simulation.md) — related
 - [Clinical simulation improved pathophysiology learning with a significant grade shift toward higher marks](clinical-simulation-improves-pathophysiology-grades.md) — related
 - [Clinical students perceived VR-based training as a complementary method that enhances proficiency, confidence, and access](vtracs-perceived-complementary-proficiency-enhancement.md) — related
+- [Automatically graded online exercises with unlimited attempts were frequently used by students, saving instructor grading time](automatic-grading-unlimited-exercise-attempts.md) — related

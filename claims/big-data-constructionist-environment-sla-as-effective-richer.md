@@ -49,3 +49,4 @@ Authors' overall conclusion from a post-test-only experiment with two paired fir
 - [Post-test SLA scores showed no difference between the Google Trends and schoolyard classes except on Science beliefs, where the Big Data class scored significantly lower (a less naive view of Science)](sla-beliefs-lower-experimental-class.md) — related
 - [The Google Trends class exhibited 'hypothesis-perplexity', making no hypotheses throughout their researches, unlike the schoolyard class](gt-hypothesis-perplexity.md) — related
 - [The Google Trends class investigated a greater variety of themes than the schoolyard class, which restricted itself to bryophytes](gt-class-greater-theme-variety.md) — related
+- [The QED teaching sequence, applied dialogically, produced high engagement and indicators of scientific literacy in a public-school case study](qed-sequence-engagement-literacy-case-study.md) — related

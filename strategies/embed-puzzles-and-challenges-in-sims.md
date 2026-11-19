@@ -46,6 +46,7 @@ To sustain engagement after initial exploration, the article recommends designin
 - [Learning Games](learning-games.md)
 - [Integrate crossword puzzles, social media and online resources into EFL teaching to engage passive learners](integrate-crossword-social-media-efl.md)
 - [Adding quiz and crossword-puzzle activities to reduce monotony in the masterclass day](astroparticle-quiz-crossword-variety-strategy.md)
+- [Scaffold puzzle-based learning with hints, on-screen explanations of puzzles, and links to theory and real-world applications](quantum-odyssey-scaffolding-strategy.md)
 
 ## Examples
 -

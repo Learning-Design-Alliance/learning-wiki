@@ -53,3 +53,4 @@ Interview study with 18 undergraduates coded against SDT's relatedness theme. "n
 - [Students perceived traditional grading practices as harmful to motivation and well-being](traditional-grading-harms-motivation-wellbeing.md) — related
 - [Students reported significantly higher perception of instructor Caring on the MUSIC Inventory in Fall 2025 after DURA course updates](dura-updates-higher-music-caring-perception.md) — related
 - [Most students participated in in-class quiz retakes and most retakers improved their quiz scores across five course offerings](retake-participation-and-improvement-quantitative.md) — related
+- [Students accepted acceptable/unacceptable quiz grading only when retake exams were offered](students-accept-coarse-grading-only-with-retakes.md) — related

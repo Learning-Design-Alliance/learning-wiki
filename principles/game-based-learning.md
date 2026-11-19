@@ -269,6 +269,7 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [Set of commercial video educational games used with a linguistic approach over 36 sessions](../designs/linguistic-video-game-set-36-sessions.md)
 - [Provide initial instructions on the adequate sequence of actions before self-training game play](../strategies/initial-instructions-before-serious-game-play.md)
 - [Structure estimation problem instruction around the six e-e-game moves of problematize through evaluation](../strategies/e-e-game-moves-instruction-strategy.md)
+- [Scaffold puzzle-based learning with hints, on-screen explanations of puzzles, and links to theory and real-world applications](../strategies/quantum-odyssey-scaffolding-strategy.md)
 
 ## Key Sources
 - Eseryel, D., Law, V., Ifenthaler, D., Ge, X., & Miller, R. (2014). An investigation of the interrelationships between motivation, engagement, and complex problem solving in game-based learning. *Educational Technology & Society, 17*(1), 42-53.

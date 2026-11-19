@@ -51,3 +51,4 @@ Opinion survey of n = 73 high-school juniors after playing the game; Table I pri
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [In a preliminary school test using the key-distribution slides, an important percent of students connected quantum entanglement with cryptography](students-connect-entanglement-cryptography.md) — related
 - [A kinesthetic game in which students play qubits and scientists lets high-school students experience quantum features and discover underlying rules from experimental data first-hand](kinesthetic-qubit-game-first-hand-experience.md) — related
+- [The game builds on the qubit-based card game Q|Cards⟩ by extending it to high-dimensional quantum states and new game modes](endless-fun-extends-qcards.md) — related

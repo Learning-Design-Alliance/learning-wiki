@@ -55,3 +55,6 @@ Descriptive participation statistics from the results overview of 199 registrant
 - [Healthcare MOOCs reach massive, multinational audiences but suffer very high dropout rates, several exceeding 90%](mooc-healthcare-massive-audience-high-dropout.md) — related
 - [The G-SS program as scheduled was not feasible: student responsiveness reached 23% against an a priori 83% target](gss-responsiveness-below-target-not-feasible.md) — related
 - [Attendance at R@W group sessions was high for sessions 1 to 3 but lower for the final session](raw-group-session-attendance-pattern.md) — related
+- [A six-day online astronomy class with quiz-based certification attracted 475 registrations during Covid times](six-day-online-astronomy-class-475-registrations.md) — reports the opposite
+- [A six-day online astronomy course for school teachers and interested students drew 475 registrations, with certificates awarded to participants scoring above a threshold quiz mark](six-day-online-astronomy-course-475-registrations.md) — related
+- [Virtual training events reach more participants more equitably than in-person events, but attendance is typically only 50% of registrations](virtual-training-broader-reach-lower-attendance.md) — related

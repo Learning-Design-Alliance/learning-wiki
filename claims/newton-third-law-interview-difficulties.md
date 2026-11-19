@@ -50,3 +50,4 @@ Think-aloud interviews with twelve students from different sections about equili
 - [A student who guessed on an exam problem she could solve used free-body diagrams successfully once prompted, then earned straight A's — her error was epistemological framing, not missing knowledge](case-student-reframing-straight-as.md) — related
 - [Think-aloud interviews suggest students drawing productive diagrams were engaged in conceptual sense-making and made fewer mistakes when they used their diagrams](interviews-diagram-sense-making.md) — related
 - [Preliminary evaluations show that a majority of students unable to solve tutorial problems without help can solve similar problems after working through the video tutorial](video-tutorials-enable-solving-similar-problems.md) — related
+- [Action-reaction language for Newton's third law implies causality and can mislead learners](action-reaction-language-implies-causality.md) — related

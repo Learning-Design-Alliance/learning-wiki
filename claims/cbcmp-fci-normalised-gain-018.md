@@ -54,3 +54,4 @@ Pre/post FCI administration to 47 students over three cohorts (2011-2013) in the
 - [Students show a statistically significant pre-to-post gain on the FCI as a whole, with a low normalised gain of 0.20](fci-significant-prepost-gain-low-normalised-gain.md) — related
 - [Introductory physics and astronomy students achieve comparable FCI conceptual gains on force concepts, despite differing attitudes](fci-conceptual-gains-comparable.md) — related
 - [Weekly pre/post questionnaire gains after tutoring sessions were low on the Hake scale despite an improvement](low-hake-gain-weekly-questionnaires.md) — related
+- [A forced mid-semester transition to online teaching produced no appreciable drop in FCI normalized gain (G = 0.24) for first-year mechanics students](forced-online-transition-no-gain-loss-fci.md) — related

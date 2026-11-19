@@ -59,3 +59,4 @@ Findings from prior work cited in this article, reported for the same 39 graduat
 - [A model-verifying frame causes students to ignore instructional hints and resist searching for contradictory evidence](model-verifying-frame-ignores-instructional-hints.md) — related
 - [Many non-specialist physicists incorrectly believe special relativity cannot model time dilation due to acceleration](physicists-misconception-sr-cannot-handle-acceleration.md) — related
 - [Documented student difficulties in upper-level quantum mechanics are dominated by measurement and time evolution and related procedures](qm-difficulty-review-measurement-time-evolution.md) — a broader claim this one bears on
+- [Upper-undergraduate students hold naïve ideas of revival and decay for quantum time evolution after measurement](naive-revival-decay-ideas-quantum-time-evolution.md) — related

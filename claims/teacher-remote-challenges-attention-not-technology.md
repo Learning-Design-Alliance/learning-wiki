@@ -58,3 +58,5 @@ Descriptive survey of teachers' challenges with online instruction during buildi
 - [The transition to OBL delivery may situate many teachers as novice learners needing to focus exclusively on context, curriculum, and students](teachers-as-novice-learners-ob-transition.md) — related
 - [Password-related challenges dominated technology training, driven by required password length and complexity](password-challenges-dominated-training.md) — related
 - [Making the remote class as similar to the in-person version as possible was the most common challenge instructors reported](instructor-challenges-remote-similarity.md) — related
+- [About a quarter of surveyed NAC students lacked the technology needed for study or school-related work during 2020, prompting laptop shipping and coding boot camps](nac-students-lacked-remote-technology-access.md) — related
+- [Engineering students reported high rates of focus, engagement, motivation and private-space challenges during Spring 2020 online instruction](student-online-learning-challenges-prevalence.md) — related

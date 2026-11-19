@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2015
+source_checked: 2026-11-19
 sources:
   - id: laurence-arcadias-robin-corbet-2015
     resource: "https://doi.org/10.1162/leon_a_01123"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Students in the MICA/Fermi collaboration reported appreciation of working with astronomers, better understanding of scientists' working environments, and found scientists approachable and interested in their work. [→ Laurence Arcadias; Robin Corbet 2015](#laurence-arcadias-robin-corbet-2015)
@@ -47,3 +48,4 @@ Educational outcomes section of this case report of a spring 2014 MICA advanced 
 ## Related Claims
 - [The collaboration revealed that some art students held a misconception of science as a body of knowledge rather than a process](students-science-as-process-misconception.md) — related
 - [Working with statistically messy authentic data in citizen science gave middle school students a window into scientists' world and intense experience with scientific reasoning](messy-radon-data-window-into-scientists-world.md) — related
+- [Surveys and interviews show little evidence that art students affected the actual scientific research, though the collaboration pushed scientists to clarify their communication to non-specialists](astro-animation-little-art-impact-on-research-scientists-clarify.md) — related

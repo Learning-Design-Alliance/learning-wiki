@@ -44,6 +44,7 @@ The panel issued seven recommendations: investigate AI designs for an expanded r
 - [Involve teachers as co-designers of AI-based intelligent systems, with agency to train, correct, interpret, and override system recommendations](teacher-co-design-human-centered-ai-systems.md)
 - [Use generative AI to make assessment systems more instructionally relevant, not to reify problematic practices](genai-for-instructionally-relevant-assessment.md)
 - [Cross-stakeholder policy, research, and practice actions for collaborative AI initiatives in education](cross-stakeholder-ai-education-action-recommendations.md)
+- [Broaden meaningful participation in AIEd system design to equitably serve diverse populations](broaden-participation-aied-design.md)
 
 ## Examples
 -

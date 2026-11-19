@@ -44,6 +44,7 @@ To continue and expand the project beyond the pilot's reliance on local astronom
 
 - [Mix concept introductions, general discussion and hands-on software tutorials with close support to maximise pupil interaction](mixed-concept-discussion-hands-on-session-design.md)
 - [Institutional insertion strategy: network-based academic projects, municipal working groups, national diagnosis, training courses, databases and normative work for light pollution](institutional-insertion-light-pollution-strategy.md)
+- [Train local tour guides in astronomical knowledge for sustainable astrotourism](astrotourism-guide-astronomy-training-namibia.md)
 
 ## Examples
 -

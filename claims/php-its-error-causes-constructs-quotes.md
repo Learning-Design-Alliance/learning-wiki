@@ -51,3 +51,4 @@ Investigation of exercises still not analysed correctly by the third version ide
 - [PHP ITS identifies semantically equivalent solutions without bug libraries, ideal solutions or heuristics](php-its-no-bug-libraries-no-heuristics.md) — related
 - [Per-exercise analysis accuracy improved from 15 of 27 exercises above 80% to all 27 above 80% in the third version](php-its-per-exercise-accuracy-improvement.md) — related
 - [PHP ITS handles interleaved PHP and HTML code via a two-step AST walking process](php-its-two-step-html-php-analysis.md) — related
+- [In a strings-and-particles channel task, most graduate students correctly predicted reduced string conformations and a dipped concentration profile via an entropic trade-off](strings-entropic-force-concentration-profile.md) — related

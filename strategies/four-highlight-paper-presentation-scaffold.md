@@ -48,6 +48,7 @@ For presenting a paper, the guide prescribes showing the title and authorship fi
 - [Progressively answer three questions while reading: what problem, how addressed, what was found](three-question-paper-reading-scaffold.md)
 - [Search ADS by first author and year, then filter by field and refereed status to locate a specific paper](ads-author-year-search-filtering-strategy.md)
 - [Four suggested classroom applications of Astrobites: reading assignments, written summaries, in-class presentations, and a website discussion forum](astrobites-classroom-integration-strategies.md)
+- [Run the journal club as a for-credit elective class with required regular presenting to boost commitment](ac-as-credit-elective-class-strategy.md)
 
 ## Examples
 -

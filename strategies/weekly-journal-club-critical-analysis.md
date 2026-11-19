@@ -44,6 +44,7 @@ In the second half of the year, weekly journal club meetings have each student p
 - [Peer assessment of student research presentations to teach assessment criteria](peer-assessment-research-presentations.md)
 - [Implement student-led weekly discussion groups in which rotating leaders choose topics, facilitate discussion, and post summaries, unmediated by teaching staff](student-led-rotating-discussion-leader-groups.md)
 - [Weekly supervisor meetings with fortnightly thesis updates to keep short-duration research on track](weekly-supervisor-meetings-fortnightly-thesis-updates.md)
+- [Run the journal club as a for-credit elective class with required regular presenting to boost commitment](ac-as-credit-elective-class-strategy.md)
 
 ## Examples
 -

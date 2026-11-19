@@ -66,3 +66,4 @@ Same 50-questionnaire Likert survey; the statement was "My interest in science h
 - [The Einstein-First programme improved students' interest in physics, with female students' interest rising from 50% to nearly match males' initial 80%](einstein-first-female-interest-increase.md) — related
 - [Of 62 physics students surveyed, 29 reported increased confidence in choosing physics as a major after participating in outreach](outreach-increased-major-confidence-29-of-62.md) — related
 - [Over 80% of surveyed students reported positive impact of outreach on recognizing connections between physics topics and overall understanding, and 85% on teamwork and networking](outreach-survey-understanding-teamwork-impacts.md) — related
+- [The large majority of senior researchers agreed the outreach portfolio was a good learning experience for students](senior-researchers-endorse-portfolio.md) — related

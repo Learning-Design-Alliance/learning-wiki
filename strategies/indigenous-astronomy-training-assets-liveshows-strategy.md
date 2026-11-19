@@ -46,6 +46,7 @@ The article enumerates the collaboration's concrete deliverables as a replicable
 
 - [Hire and train Indigenous educators and deliver programs in the relevant Indigenous language](hire-indigenous-educators-deliver-in-language.md)
 - [Sustained teacher professional development with coaching and professional learning communities](sustained-pd-coaching-plc-teacher-training.md)
+- [Train local tour guides in astronomical knowledge for sustainable astrotourism](astrotourism-guide-astronomy-training-namibia.md)
 
 ## Examples
 -

@@ -48,6 +48,7 @@ The paper recommends that planetariums without Indigenous presenters make signif
 - [Follow eight consultation guidelines when bringing Indigenous astronomy into planetarium programs](eight-consultation-guidelines-indigenous-planetarium-content.md)
 - [Partner with an Indigenous programs academic unit to develop local Indigenous astronomy content](unsw-partnership-local-indigenous-content-strategy.md)
 - [Deliver Indigenous astronomy integration through educator training, shared assets, and co-presented live programming](indigenous-astronomy-training-assets-liveshows-strategy.md)
+- [Train local tour guides in astronomical knowledge for sustainable astrotourism](astrotourism-guide-astronomy-training-namibia.md)
 
 ## Examples
 -

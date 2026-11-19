@@ -48,3 +48,4 @@ Exploratory quasi-experimental study in which six teachers were randomly assigne
 - [Learning was observed even when teachers engaged in the training alone without mentoring or feedback](antecedent-only-training-produces-learning.md) — reports the opposite
 - [All mentored teachers maintained scores above 80% over a 21-day follow-up, while non-mentored teachers' scores were variable and largely not sustained](mentoring-sustains-performance-21-days.md) — a narrower finding that bears on this claim
 - [A two-hour workshop alone increased learn unit and ROI performance in only half of the participating teachers](workshop-alone-insufficient-half-teachers.md) — related
+- [Daily Slack contact plus regular Zoom mentoring sustains school research activities independently of region](tan-q-online-mentoring-sustainability.md) — related

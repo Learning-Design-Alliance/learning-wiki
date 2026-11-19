@@ -53,6 +53,7 @@ The article recommends a faculty-development pathway modeled on co-teaching: an 
 - [CAE two-day workshops with microteaching to prepare instructors in active-learning strategies](cae-workshop-microteaching-preparation.md)
 - [Mentor-apprentice co-teaching with weekly full-team studio preparation to sustain active-learning implementation](mentor-apprentice-coteaching-ipls.md)
 - [Weekly TA/LA training meetings using situated apprenticeship: modelling authentic student difficulties and practicing Socratic-style questioning](situated-apprenticeship-weekly-ta-la-training.md)
+- [Run weekly Zoom training and feedback sessions with instructor stipends to support adoption of a shared lab curriculum](weekly-zoom-instructor-training-feedback-sessions.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ The design reading is that a simulated learner may be useful for screening which
 ## Related Claims
 - [Apprentice learner models act as a check against expert blind spots because they start without target skills](apprentice-learner-models-check-expert-blind-spots.md) — the same architecture used for tutor authoring
 - [In SimStudent simulations across three math and science domains, interleaved-order curricula yielded as effective or more effective learning than blocked-order curricula](simstudent-interleaved-as-or-more-effective.md) — an earlier simulated-learner test of problem order
+- [Mean-field agent-based model reproduces group-level achievement but underestimates students with low prior knowledge and very low motivation](abm0-mean-field-reproduces-group-achievement.md) — a narrower finding that bears on this claim

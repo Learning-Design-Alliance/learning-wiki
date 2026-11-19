@@ -50,3 +50,4 @@ Ensemble of five ML models (LASSO, kernel ridge, gradient boosting, elastic net,
 - [Incorporating ML-predicted MCAT scores into admissions composites reduces correlations with subsequent medical school performance](predicted-mcat-reduces-performance-correlations.md) — related
 - [An ensemble learner outperforms every individual base learner for predicting final exam score and course grade in a large introductory statistics course](ensemble-outperforms-base-learners-exam-grade.md) — a broader claim this one bears on
 - [Machine learning on pre-pandemic platform click data explains up to 77% of the variance in academic resilience](ml-platform-data-explains-resilience-variance.md) — related
+- [A U.S.-trained ridge regression model explains 60.8% of variance in U.S. science achievement and outperforms a forward-selected OLS model](ridge-model-60-8-variance-outperforms-ols.md) — related

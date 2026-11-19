@@ -41,6 +41,7 @@ Each abstraction in the chapter is immediately instantiated with a concrete geod
 - [Open a lesson on spherical geometry by asking learners to flatten a familiar spherical object such as a soccer ball](soccer-ball-flattening-entry-strategy.md)
 - [Close a geometry lesson by having the learner apply the new formula back to the object that opened it](return-to-opening-object-closure-strategy.md)
 - [Cultivate curiosity and lower psychological barriers by opening each project with real-world motivation cases and simple accessible AI examples](curiosity-cases-and-simple-examples-lower-barriers.md)
+- [Sequence the activity from student-captured first-quarter Moon photographs through proportionality, geodesics, and spherical triangles, challenging teams of learners over one or two 60-minute classes per topic](moon-photo-curved-geometry-activity-sequence.md)
 
 ## Examples
 -

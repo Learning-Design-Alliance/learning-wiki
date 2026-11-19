@@ -48,3 +48,4 @@ Optics demonstration reported in §4.1 and Fig. 3: polarizer film (obtained from
 - [A multidisciplinary art-physics laboratory on light polarization is reported by the author to make students more engaged and the learning of the physics concepts more effective](art-physics-polarization-lab-engagement.md) — related
 - [Students overgeneralize classical optics of light beams to single photons, treating a single photon incident on a polarizer as partly transmitted and partly absorbed](single-photon-polarizer-classical-overgeneralization.md) — related
 - [Some interviewed students incorrectly claimed a single photon is absorbed by a polarizer only when its polarization is orthogonal to the polarizer axis](single-photon-polarizer-probabilistic-difficulty.md) — related
+- [The polarization apparatus lets students observe Malus's law and photoelastic stress patterns with 3D-printed rotating polarizer mounts](3d-polarization-malus-photoelasticity-observations.md) — related

@@ -52,6 +52,7 @@ The article recommends that researchers and instructors gather information about
 
 - [De-emphasize Answers, Emphasize Reasoning](de-emphasize-answers-emphasize-reasoning.md)
 - [Scaffolded Questioning](scaffolded-questioning.md)
+- [Ask students to justify each FCI answer in writing when deploying conceptual tests online](fci-written-justifications-strategy.md)
 
 ## Examples
 -

@@ -62,3 +62,4 @@ A quasi-experimental post-hoc study of 758 faculty, staff and administrators (65
 - [E-learning on patient safety increased medical students' perceived preparedness for safe patient practice, sustained at one year](elpas-preparedness-increase-sustained.md) — related
 - [The proportion of participants achieving the pass mark increased from 18.2% pretraining to 58.7% posttraining](malnutrition-elearning-pass-mark-increase.md) — related
 - [The PR:EPARe game, designed with LM-GM, showed positive outcomes in a cluster-randomized controlled trial of self-reported psychosocial preparedness for avoiding coercion](lm-gm-prerepare-rct-positive-outcomes.md) — related
+- [Self-reported pre/post feedback on a Docker training event showed a perceived improvement in knowledge, but the measure only probes self-reported learning](docker-training-self-reported-knowledge-gain.md) — related

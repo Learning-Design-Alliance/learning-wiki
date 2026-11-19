@@ -84,3 +84,4 @@ Qualitative thematic analysis of open-ended responses independently coded by two
 - [Students identified SBL strengths of practice opportunity (86%), protected learning environment (77%), and knowledge retention (75%)](sbl-strengths-practice-protected-environment-retention.md) — related
 - [Students' perceptions of the simulated learning environment cluster into three positive themes (preparation for professional practice, exposure to different body types, positive challenge) and two negative themes (lack of feedback, stressful situation)](sp-perceptions-five-themes.md) — related
 - [Group-based feedback identified empowerment gains and new counselling concepts, alongside barriers including negative professional reactions](group-feedback-empowerment-barriers.md) — related
+- [Students report learning a lot, finding the content interesting, and enjoying working like researchers](prise-qualitative-experience-themes.md) — related

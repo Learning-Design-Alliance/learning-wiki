@@ -49,3 +49,4 @@ Analysis of the dyad's Task#2 discussion, in which Deca proposed that "Students 
 - [Reflexivity triggered by the North American expert's voice led the dyad to shift position and identify with the teacher's role](reflexivity-position-shift-toward-teacher-identification.md) — related
 - [Metalanguage in the episodic interview worked as a tool to re-contextualise and re-signify meanings at a later moment](metalanguage-recontextualises-meanings-episodic-interview.md) — related
 - [Paired and grouped collaborative activities in blended learning promoted authorial production and reflective meta-analysis in the studied dyad](blended-collaborative-activities-promote-authorial-production.md) — related
+- [The QED teaching sequence, applied dialogically, produced high engagement and indicators of scientific literacy in a public-school case study](qed-sequence-engagement-literacy-case-study.md) — related

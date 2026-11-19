@@ -50,6 +50,7 @@ After the demonstration, students practiced on phantom heads under assistant tea
 - [Deploy senior postgraduates as one-on-one real-time skills mentors during operation practice](postgraduate-one-on-one-skills-mentoring.md)
 - [Remote Support with Augmented Reality (AR)](remote-support-with-augmented-reality-ar.md)
 - [Remotely delivered hands-on suturing workshop using multi-angle streaming and peer review via video conferencing](remote-hands-on-suturing-workshop-strategy.md)
+- [Deliver hands-on teacher PD remotely by mailing equipment kits and streaming demonstrations synchronously](mail-home-kits-synchronous-zoom-pd.md)
 
 ## Examples
 -

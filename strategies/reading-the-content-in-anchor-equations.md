@@ -52,4 +52,4 @@ The author writes readings that 'specified a basic equation and codified the con
 -
 
 ## Key Sources
-- Redish, E. F. (2020). Using math in physics: 3. Anchor equations. https://www.compadre.org/nexusph/
+- Redish, E. F. (2020). Using math in physics: 3. Anchor equations. https://www.compadre.org/nexusph/. [doi:10.48550/arxiv.2011.12761](https://doi.org/10.48550/arxiv.2011.12761)

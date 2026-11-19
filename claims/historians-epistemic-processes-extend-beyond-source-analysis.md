@@ -63,3 +63,4 @@ This is a self-report interview study of one national population (Finnish academ
 - [Empirical studies across diverse learner populations show that people's epistemic aims, ideals, and processes are tailored to the information sources and tasks they engage in](epistemic-thinking-contextualized-tasks-sources.md) — a broader claim this one bears on
 - [Prior epistemic thinking frameworks were insufficient for addressing educational problems because they described epistemic thinking as broad beliefs or perspectives rather than situated practices](prior-epistemic-frameworks-insufficient-situated-practices.md) — related
 - [Teachers' epistemic cognition is related to their teaching approaches, classroom strategies, and expectations for students](teacher-epistemic-cognition-shapes-teaching-practice.md) — related
+- [Assessments at all levels emphasize epistemic relations over social relations (knowledge code)](physics-assessments-knowledge-code-dominance.md) — related

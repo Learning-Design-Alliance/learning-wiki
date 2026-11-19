@@ -57,3 +57,4 @@ Ten 5-point Likert utility statements were rated post-resource use by 61 teacher
 - [Interns evaluate the 5-day intensive curriculum very positively, with most endorsing continuation and expansion](bootcamp-positive-evaluation-feedback.md) — related
 - [Medical students reported positive satisfaction with the competitive learning experience and most would recommend it](positive-satisfaction-competitive-learning-medical-students.md) — related
 - [All participating midwives would recommend the MIOH education program to other Victorian midwives](midwives-recommend-mioh-program.md) — related
+- [The fully online iteration maintained uniformly positive participant feedback and reached teachers who could not have joined an in-person program](sattaa-online-format-reach.md) — related

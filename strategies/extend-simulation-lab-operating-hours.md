@@ -52,6 +52,7 @@ This strategy responds to the finding that restrictive laboratory hours block se
 - [Integrate SSL into the nursing curriculum by blocking out dedicated time slots and attaching credits to its utilisation](integrate-ssl-curriculum-time-slots-credits.md)
 - [Schedule flexible online learning with weekend and evening sessions to support participation alongside clinical training](flexible-online-scheduling-weekend-evening-sessions.md)
 - [Use simulation technologies and skills labs to accelerate learning when operative exposure is reduced](simulation-skills-labs-reduced-operative-exposure.md)
+- [Schedule online events on weekends, evenings or holidays to avoid clashes with participants' own online sessions](schedule-online-events-weekends-evenings-holidays.md)
 
 ## Examples
 -

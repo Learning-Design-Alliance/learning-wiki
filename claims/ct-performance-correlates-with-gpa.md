@@ -54,3 +54,4 @@ The review attributes this to Haddad & Kalaani's study of data from 982 students
 - [Admissions rank and faculty rating were strongly correlated with course average, first-year graduate GPA, exit exam, and oral review performance](admissions-rank-and-faculty-rating-correlated-success-metrics.md) — related
 - [Feature importance analyses rank failed courses first for predicting academic performance, followed by institutional and academic background variables, with some regression-specific differences](feature-importance-failed-courses-institutional-background.md) — related
 - [Lower-division coursework performance is a strong indicator of whether an electrical engineering student graduates](lower-division-performance-indicates-graduation.md) — related
+- [The performance differences between IPLS and non-IPLS students on the diffusion task cannot be attributed to overall academic performance as measured by science course GPA.](ipls-gains-not-gpa-artifact.md) — related

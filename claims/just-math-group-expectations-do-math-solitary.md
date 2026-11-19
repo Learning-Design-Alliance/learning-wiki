@@ -49,3 +49,4 @@ Expectations were inferred from behaviors and discourse before, during, and afte
 - [Just Math discourse falls into two categories: brief narrow-and-serious math check-ins, and expansive-and-silly off-topic comments](just-math-discourse-two-talk-types.md) — related
 - [Just Math differs from the Worksheet e-frame in discourse content and expectations, not behaviors](just-math-distinct-from-worksheet-in-discourse.md) — related
 - [Only about 10 minutes of 9 hours of homework help session video could be definitively categorized as Just Math](just-math-ten-minutes-of-nine-hours-identified.md) — related
+- [Only the two non-problematizing Groups F and G had off-topic conversations exceeding one minute in the middle of the lab period](off-topic-conversations-timing-non-problematizing.md) — related

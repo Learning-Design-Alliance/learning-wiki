@@ -91,3 +91,4 @@ Item analysis of FCI results from twenty-two traditional and six M&I sections at
 - [On six FCI force-identification questions, student answers cluster on a pair of dominant answers containing the correct choice and a superset wrong choice](polarising-choices-force-identification.md) — related
 - [A majority of students do not develop a Newtonian view of force and motion after traditional instruction](majority-no-newtonian-view-traditional-instruction.md) — related
 - [The two sections performed roughly the same on the first midterm, which covered topics many students study in high school](no-advantage-first-midterm-kinematics-newtons-laws.md) — reports the opposite
+- [Several FCI questions on projectile motion, kinematics and Newton's second law showed negative or negligible gains, indicating poorer post-test performance on unfamiliar scenarios](negative-gains-projectile-kinematics-fci-questions.md) — related

@@ -47,3 +47,4 @@ Box plots of raw exam scores and Added Values in the 2016 ODE course (N = 151; p
 ## Related Claims
 - [In 2015, students preferring clickers showed higher Added Values than students preferring handwritten homework, significant at the authors' α = 0.1 by t-test but not by the conservative u-test](clickers-added-value-2015-mixed-significance.md) — related
 - [In a 2015 ordinary differential equations course, students who preferred clickers earned higher raw exam scores than students who preferred handwritten homework, a statistically significant difference](clickers-beat-handwritten-homework-raw-exam-2015.md) — related
+- [Automatically graded online exercises with unlimited attempts were frequently used by students, saving instructor grading time](automatic-grading-unlimited-exercise-attempts.md) — related

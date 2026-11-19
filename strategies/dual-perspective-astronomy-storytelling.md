@@ -54,6 +54,7 @@ This strategy teaches astronomical content by telling both the indigenous cultur
 - [Incorporating non-Western cosmologies into ngVLA education through indigenous talks, STEAM projects, and Star Parties](non-western-cosmologies-ngvla-education.md)
 - [Use a planetarium set to historical sky conditions to let students learn by experience](planetarium-historical-sky-conditions-strategy.md)
 - [Interdisciplinary hands-on art-science-culture workshops (carving, clay, art-making)](nsw-interdisciplinary-art-science-workshops.md)
+- [Train local tour guides in astronomical knowledge for sustainable astrotourism](astrotourism-guide-astronomy-training-namibia.md)
 
 ## Examples
 -

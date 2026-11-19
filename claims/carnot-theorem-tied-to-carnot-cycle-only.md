@@ -49,3 +49,4 @@ Analysis of written answers and post-test interviews (each averaging 10 minutes)
 - [Misunderstanding the regenerator is the most common error on a Stirling-cycle efficiency test](regenerator-misunderstanding-most-common-error.md) — related
 - [Upper-division physics students show high engineering error ratios (above 50%) but low science error ratios (~10%) on a Stirling-cycle efficiency test](stirling-test-high-engineering-error-ratios.md) — related
 - [A class given a preliminary engineering tutorial showed an engineering error ratio about 20% smaller than the two classes without a tutorial](engineering-tutorial-reduces-engineering-errors.md) — related
+- [First-year undergraduate students performing the Stirling Engine experiment obtain regression gradients and engine efficiencies of approximately 10% comparable to those obtained by teaching staff](stirling-engine-student-efficiency-results-match-teacher.md) — related

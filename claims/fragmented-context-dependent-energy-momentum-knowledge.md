@@ -48,3 +48,4 @@ Post-test response comparison between two conceptually similar items showed 10% 
 - [Instruction improved student performance on all test items except the ballistic-pendulum item that required both energy and momentum concepts](multi-concept-item-no-improvement.md) — related
 - [A problem's primary physics concept predicts persistence, with energy can dissipate problems eliciting the most](primary-concept-predicts-persistence.md) — related
 - [Many students hold that the denser the medium, the faster sound propagates, and which density reasoning is triggered depends on question context](denser-medium-faster-sound.md) — related
+- [Novices focus on dominant surface features such as mass or velocity when comparing interaction-force magnitudes](dominant-surface-features-drive-n3l-errors.md) — a narrower finding that bears on this claim

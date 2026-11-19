@@ -97,3 +97,4 @@ Format-acceptance item in the same gender breakdown of the N=50 survey. Female p
 - [Male students and students from rural areas give lower evaluations of and are less satisfied with ongoing online education than female and urban students](gender-area-gaps-online-education-perceptions.md) — related
 - [Students respond positively to using games for education, with gendered prior gaming experience shaping their reactions](student-feedback-future-gaming-education.md) — related
 - [Most students, and significantly more females than males, did not enjoy calculations, while both genders strongly preferred activity-based learning](students-dislike-calculations-prefer-activities.md) — related
+- [Pre-session interest in puzzle games predicts completion of puzzle 17, while the gender difference in completion is not statistically significant](puzzle-game-interest-predicts-quantum-puzzle-success.md) — related

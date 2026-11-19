@@ -53,3 +53,4 @@ Ethnographic observation finding across the twelve observed lab sections. The au
 - [Both Secretary and Hermione roles are associated with stunted physics and science identity development for the women occupying them](gendered-roles-stunt-identity-growth.md) — related
 - [Whether lab groups share or divide tasks does not seem to depend on single- versus mixed-gender composition](lab-task-sharing-independent-of-group-composition.md) — reports the opposite
 - [The authors interpret that lab tasks are not inherently gendered and that mixed-gender role divisions reflect students enacting gender](lab-tasks-not-inherently-gendered-interpretation.md) — a narrower finding that bears on this claim
+- [Preliminary observation: the inequitable trio had two men and one woman while the equitable trio had two women and one man](gender-ratio-preliminary-lab-equity.md) — related

@@ -59,3 +59,4 @@ Analytical derivation under CTT (equations 1.13–1.15) expressing the point-bis
 - [Classical item analysis found the CTCK test relatively difficult and led to exclusion of items 6, 10 and 17](ctck-item-difficulty-discrimination-exclusions.md) — related
 - [Thirteen questions discriminate passing from non-passing students, and moderate-complexity items discriminate better than difficult ones](moderate-complexity-questions-discriminate-best.md) — related
 - [Graph-based items on Wien's law and the luminosity-area-temperature relationship discriminate best between high- and low-ability Astro 101 students](graph-based-wien-items-discriminate.md) — a narrower finding that bears on this claim
+- [Point biserial coefficient exceeds the 0.2 criterion for 32 of the 33 STPFaSL items](stpfasl-point-biserial-32-of-33-items.md) — related

@@ -49,3 +49,4 @@ Qualitative data from an observation sheet applied at the beginning and during t
 - [Students completing smartphone activities show significantly less distraction than students doing identical paper-based activities](smartphone-activities-less-distraction.md) — related
 - [AR-supported learners complete motherboard assembly in shorter time and with less help than print-material learners](ar-shorter-assembly-less-help.md) — related
 - [A companion quasi-experimental study attributed greater performance and lower perceived mental effort to the 4C/ID digital environment, especially on transfer](melo-miranda-2015-efficiency-findings-attributed.md) — related
+- [Student assembly of 3D-printed apparatus at the start of the activity fosters a playful, participatory learning process](student-assembly-3d-kits-playful-learning.md) — related

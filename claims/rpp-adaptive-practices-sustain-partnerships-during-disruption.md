@@ -76,3 +76,4 @@ This is the weakest-evidence claim in this ingest batch: a qualitative synthesis
 - The authors argue researchers should collaborate more closely with teachers, administrators, and other practitioners in tackling educational problems — related
 - [Trust is a key enabler of knowledge sharing in online learning communities](trust-enables-knowledge-sharing-online.md) — related
 - [The COVID-19 pandemic disrupted relational and tacit knowledge transfer in the cross-continental project, though explicit knowledge transfer continued via communication technologies](covid-disruption-tacit-knowledge-transfer.md) — a narrower finding that bears on this claim
+- [Sustained partnerships with PolarTREC educators allow IceCube to produce outreach materials reaching varied audiences, including during the pandemic](icercube-polartrec-partnership-outreach-outputs.md) — a narrower finding that bears on this claim

@@ -69,3 +69,4 @@ Replication with a different sample of 23 students in January 2013. PBC analysis
 - [Cronbach's alpha if-item-deleted analysis identifies constraints that reduce problem consistency](cronbach-alpha-if-deleted-constraint-analysis.md) — possibly the same claim (merge candidate)
 - The three statistical techniques produce consistent diagnoses of constraint quality across two experiments — a broader claim this one bears on
 - [Point-biserial item-total correlation is negatively related to test discriminating value and can be expressed via item and test difficulty and discrimination parameters](point-biserial-negative-test-discrimination-relation.md) — related
+- [Point biserial coefficient exceeds the 0.2 criterion for 32 of the 33 STPFaSL items](stpfasl-point-biserial-32-of-33-items.md) — related

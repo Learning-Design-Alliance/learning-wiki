@@ -52,3 +52,4 @@ Program description from the Education and Public Outreach section: public lectu
 - [Residents who prepared and gave supervised video lectures all reported learning a lot from it, and most advisors valued teaching a colleague](resident-presentation-preparation-benefits.md) — related
 - [Virtual seminars enable faster dissemination of new research than in-person visits](virtual-seminars-faster-dissemination.md) — related
 - [Virtual seminars reach global audiences comparable in size to medium-sized conferences](virtual-seminars-global-audience-scale.md) — related
+- [Online platforms can reach the public as effectively as traditional astronomy outreach activities](online-platforms-effective-astronomy-outreach.md) — related

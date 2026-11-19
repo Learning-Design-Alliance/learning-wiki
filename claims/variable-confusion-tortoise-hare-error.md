@@ -12,9 +12,9 @@ evidence_strength: weak
 newest_evidence: 2015
 recheck_by: 2020
 sources:
-  - id: eugene-t-torigoe-2012
+  - id: eugene-t-torigoe-2011
     resource: "https://doi.org/10.48550/arXiv.1112.3229"
-    title: "Eugene T. Torigoe. (2012). How numbers help students solve physics problems. arXiv. [doi:10.48550/arXiv.1112.3229](https://doi.org/10.48550/arXiv.1112.3229)"
+    title: "Eugene T. Torigoe. (2011). How numbers help students solve physics problems. arXiv. [doi:10.48550/arXiv.1112.3229](https://doi.org/10.48550/arXiv.1112.3229)"
     author: Eugene T. Torigoe
     q: 2
     i: "?"
@@ -46,7 +46,7 @@ sources:
 
 ## Subclaims
 
-`q2 i?` Five students used v (the Tortoise's constant velocity) as if it were the Hare's velocity at the finish line, yielding the incorrect a = v²/(2L); two of them switched their interpretation of v within a minute. [→ Eugene T. Torigoe 2012](#eugene-t-torigoe-2012)
+`q2 i?` Five students used v (the Tortoise's constant velocity) as if it were the Hare's velocity at the finish line, yielding the incorrect a = v²/(2L); two of them switched their interpretation of v within a minute. [→ Eugene T. Torigoe 2011](#eugene-t-torigoe-2011)
 
 `q2 i?` Five students used v2f = v2i + 2a∆x to obtain the incorrect result a = v2/(2L), applying the symbol v to the wrong object in the physical system. [→ Eugene T. Torigoe 2015](#eugene-t-torigoe-2015)
 
@@ -54,9 +54,9 @@ sources:
 
 ## Evidence
 
-### Eugene T. Torigoe 2012
+### Eugene T. Torigoe 2011
 
-Eugene T. Torigoe. (2012). How numbers help students solve physics problems. arXiv. [doi:10.48550/arXiv.1112.3229](https://doi.org/10.48550/arXiv.1112.3229)
+Eugene T. Torigoe. (2011). How numbers help students solve physics problems. arXiv. [doi:10.48550/arXiv.1112.3229](https://doi.org/10.48550/arXiv.1112.3229)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -94,3 +94,4 @@ Follow-up questioning of the five students who made the a = v2/(2L) error: two o
 - [Students who solved a symbolic problem incorrectly using conflicting meanings of the same symbol t solved the numeric version correctly, with plugging in numbers acting as a cue to specify symbol meaning](plugging-in-numbers-cues-symbol-meaning.md) — related
 - [Introductory physics students score significantly higher on numeric versions of physics problems than on analogous symbolic versions](numeric-problems-score-higher-than-symbolic.md) — related
 - [The article argues that symbolic problems are hard because students activate resources and cues appropriate for numeric problem solving, such as treating every equation as a general model and the remaining non-numeric symbol as the unknown](inappropriate-resource-activation-symbolic-errors.md) — related
+- [Student explanations of the tautochrone property revealed numerous misconceptions, including constant-acceleration beliefs and velocity-acceleration confusion](tautochrone-question-misconceptions.md) — related

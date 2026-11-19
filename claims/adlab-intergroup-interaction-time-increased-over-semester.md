@@ -50,3 +50,4 @@ Quantitative observational analysis of three lab groups, coding inter-group inte
 - [Students perceived a jump in accountable disciplinary knowledge in the advanced laboratory, describing more authentic, less prescribed work than in previous labs](adlab-students-perceived-adk-jump-and-authentic-practice.md) — related
 - [Review reports statistically significant growth effects over time in a semester-long graduate humanistic knowledge building community](editorial-kashi-hod-growth-effects-over-time.md) — related
 - [Review reports a multicultural collaborative competence model offering a more vivid image of online intergroup discussion quality than a general model](editorial-mcc-vivid-image-collaboration-sensitive-topics.md) — related
+- [A learning-outcome-oriented programmatic assessment project shows increased student activity, measurable advancement and enhanced team communication](lo-project-increased-activity-and-communication.md) — related

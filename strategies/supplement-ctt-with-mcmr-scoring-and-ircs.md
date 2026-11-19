@@ -45,6 +45,7 @@ The authors recommend supplementing classical test theory with analyses that pre
 ## Related Strategies
 
 - [Formatting changes to signal multiple-response items to students encountering MCMR questions online](mcmr-online-formatting-signaling-strategy.md)
+- [Subject in-person-validated MCMR items to validity checks for online use, including student interviews about how students interact with MCMR items online](validate-mcmr-items-for-online-use-interviews.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Mixed-effects logistic regression of post-lab quiz scores from an undergraduate 
 - [Performance on the altered-procedure quiz question dropped significantly for both treatment groups when results from all five quizzes were averaged](ap-question-dropoff-both-groups.md) — related
 - [Anecdotally, Maximally Scaffolded students finished lab activities much more quickly than Reduced Scaffolding students](ms-group-faster-lab-completion.md) — related
 - [The author interprets common incorrect answers on altered-procedure questions as reflecting remembered rules of thumb rather than sense-making](heuristic-answers-ap-questions-interpretation.md) — related
+- [Using Eye to understand new code did not significantly improve quiz comprehension scores in a fixed time (p = 0.446)](eye-comprehension-quiz-not-significant.md) — related

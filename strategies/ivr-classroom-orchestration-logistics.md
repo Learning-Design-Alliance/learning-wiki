@@ -45,6 +45,7 @@ From their experiences running ten HMDs simultaneously in two time slots, the au
 ## Related Strategies
 
 - [Provide VR user support, adjustable display settings, and built-in breaks when running virtual TBL sessions](vr-tbl-training-support-breaks.md)
+- [Use a simple, non-photorealistic IVR model for layout-knowledge learning experiences](simple-non-photorealistic-ivr-model-strategy.md)
 
 ## Examples
 -

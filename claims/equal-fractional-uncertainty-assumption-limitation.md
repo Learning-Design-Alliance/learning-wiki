@@ -47,3 +47,4 @@ Analytical critique in Sec. III.B of the assumption that fractional uncertainty 
 ## Related Claims
 - [Coordinate-specific uncertainties with model-specific error estimates give a more accurate representation of model-space span than pooled, equal-fractional assumptions, and show greater post-test than pretest uncertainty](coordinate-specific-uncertainties-more-accurate.md) — related
 - [Error bars can be added to model analysis plots by translating eigenvalue uncertainty into coordinate uncertainty, and the article argues they are imperative for interpreting a class's model state](error-bars-on-model-analysis-plots.md) — related
+- [Educational animations carry greater risk of misrepresenting scientific facts, while inspirational pieces are more open to interpretation](astro-animation-educational-animations-misrepresentation-risk.md) — related

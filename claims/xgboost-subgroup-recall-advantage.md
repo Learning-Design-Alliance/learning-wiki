@@ -87,3 +87,4 @@ Sub-population recall comparison (Fig. 6): xgboost handles missing-data cases "b
 - [Models exhibit a recall–precision trade-off: Logistic Regression and Naïve Bayes maximize recall (0.94) with more false positives, while XGBoost balances recall with stronger precision](recall-precision-tradeoff-early-warning-models.md) — related
 - [Enrollment factors predict time-to-graduation about twice as strongly as preparation factors](enrollment-factors-outweigh-preparation-graduation-timing.md) — related
 - [Machine learning methods outperformed logistic regression in classification accuracy across reviewed studies](ml-outperforms-logistic-regression-aied.md) — a broader claim this one bears on
+- [Statistical model choice affects both predictability and understanding of educational systems when sub-population data are unequal, per prior gradient-boosted time-to-graduation work](model-choice-subpopulation-understanding.md) — possibly the same claim (merge candidate)

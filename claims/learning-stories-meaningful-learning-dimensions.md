@@ -62,3 +62,4 @@ Qualitative analysis of so-called learning stories reported by Y. L. Visser and 
 - [Baseline social studies learning in the two Muna elementary schools was non-contextual, with low student interest and very low social attitudes](muna-baseline-noncontextual-low-attitudes.md) — related
 - [Content analysis of students' Best Authentic Self narratives found relationships to be the key theme in authenticity development](relationships-key-authenticity-development.md) — related
 - [Facilitators report no personal identity shift but gains in confidence, teaching skills, and perceptions of themselves as teachers](cbl-facilitator-confidence-gains-no-identity-shift.md) — a narrower finding that bears on this claim
+- [Students' sense of ownership can entail their own new knowledge about the nature of science](ownership-entails-nature-of-science-knowledge.md) — related

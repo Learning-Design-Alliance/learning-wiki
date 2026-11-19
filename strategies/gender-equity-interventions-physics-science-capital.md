@@ -51,6 +51,7 @@ Based on their findings, the authors recommend interventions to make physics a v
 ## Related Strategies
 
 - [Transform the culture of physics so it signals to female students that they belong, alongside boosting science capital and utility value](transform-physics-culture-signal-belonging.md)
+- [Frame physics as a science that benefits society to boost female students' engagement](frame-physics-as-benefiting-society-strategy.md)
 
 ## Examples
 -

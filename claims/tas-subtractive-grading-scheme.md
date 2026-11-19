@@ -56,3 +56,4 @@ Cluster C3 analysis of the same worksheet data: 'Over 70% of all TAs graded on p
 - [Physics TAs using a CA-inspired rubric scored an elaborated solution similarly to their pre-rubric score and did not match expert rubric scores, particularly for a brief solution](tas-rubric-scores-differ-from-expert-scores.md) — related
 - [Forty percent of TAs would grade advanced students on explication of concepts but intro students on correct formulas, mathematical steps and the final answer](forty-percent-grade-concepts-qm-equations-intro.md) — related
 - [Two-thirds of the TAs stated they would grade QM and intro physics solutions using different criteria](two-thirds-tas-stated-different-criteria-intro-qm.md) — related
+- [TAs scored elaborated and brief student solutions similarly on average before rubric use, with most TAs split between favoring either solution](tas-initial-scores-elaborated-vs-brief-solutions.md) — related

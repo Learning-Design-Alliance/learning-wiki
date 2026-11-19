@@ -66,3 +66,4 @@ In its classroom practices section, the digest states that oral drills and memor
 - [The authors tentatively suggest fast-paced reading may potentially improve reading comprehension for adult ESL learners](fast-paced-reading-may-improve-comprehension.md) — related
 - [Individual teaching and video tutorials are valued for personalised pacing in older adults' digital learning](individual-teaching-video-tutorials-personalised-pacing.md) — related
 - [The authors theorize that playback speed matters more for learning multi-step processes than for rote memorization facts](playback-speed-matters-more-for-multistep-processes.md) — related
+- [Student model misspecification in mastery learning can systematically disadvantage slower learners, even with separate models for fast and slow learners](model-misspecification-disadvantages-slower-learners.md) — related

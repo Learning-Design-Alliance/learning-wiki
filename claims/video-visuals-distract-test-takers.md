@@ -51,3 +51,4 @@ Authors' interpretation in the discussion section of the posttest-only control g
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — a broader claim this one bears on
 - [Coherence Principle Irrelevant Material Hurts Learning](coherence-principle-irrelevant-material-hurts-learning.md) — a broader claim this one bears on
 - [Educational social media use carries challenges: cognitive overload, misinformation, distraction, blurred privacy boundaries, and self-esteem effects](social-media-educational-challenges-overload-misinformation-privacy.md) — related
+- [The authors interpret the real-world group's worst performance as evidence that layout learning is highly sensitive to distraction in crowded group field trips](layout-learning-sensitive-to-distraction.md) — a narrower finding that bears on this claim

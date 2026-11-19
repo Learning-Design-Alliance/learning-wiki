@@ -49,3 +49,4 @@ WISE log-file analysis of two students per period (one highest gain, one lowest 
 - [Students who participate in an Opener are significantly more likely to revisit and revise their embedded-assessment work than students with no Opener](openers-increase-revision-of-embedded-assessment-work.md) — related
 - [Stronger self-reported SRL skills manifest in more revisiting of previously completed course materials, especially assessments](srl-manifests-in-revisiting-assessments.md) — related
 - [Time spent online differed significantly across Year 2 groups (p < 0.0001), highest in Group B and lowest in Group D](time-online-varied-across-groups.md) — related
+- [Spending longer on puzzle 11 predicts successful completion of puzzle 17](longer-time-puzzle-11-predicts-puzzle-17-completion.md) — related

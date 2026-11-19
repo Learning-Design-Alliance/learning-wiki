@@ -49,3 +49,4 @@ Theoretical/pedagogical argument in the introduction: comparing qubit states, op
 - [Novice students commonly conflate the wavefunction scalar with the ket column vector](novice-conflate-wavefunction-and-ket.md) — related
 - [Most every interviewed student rejected deterministic ideas in quantum physics, invoking inherent probabilistic behavior or the Uncertainty Principle](students-reject-determinism-uncertainty-principle-tool.md) — related
 - [A kinesthetic game in which students play qubits and scientists lets high-school students experience quantum features and discover underlying rules from experimental data first-hand](kinesthetic-qubit-game-first-hand-experience.md) — related
+- [The game builds on the qubit-based card game Q|Cards⟩ by extending it to high-dimensional quantum states and new game modes](endless-fun-extends-qcards.md) — related

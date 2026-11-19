@@ -49,3 +49,4 @@ Answer-distribution analysis of Question 4 across the four administrations of th
 - [Pass-rates on the neural transmission speed question declined significantly between one and six weeks after the lecture, though they remained above baseline](question2-decline-time2-to-time3.md) — related
 - [Seminar attendance and wiki answer-sharing declined substantially over the course](seminar-attendance-declined-over-time.md) — related
 - [Introducing the night laboratories produced no improvement on assessment questions the laboratories did not address](unaddressed-questions-no-improvement.md) — related
+- [Introducing the OPIS! robotic-telescope curriculum at UNC-Chapel Hill coincided with a >100% increase in introductory astronomy enrollment over five years and an ≈300% increase in astronomy-track majors and minors](opis-introduction-enrollment-and-majors-increases.md) — related

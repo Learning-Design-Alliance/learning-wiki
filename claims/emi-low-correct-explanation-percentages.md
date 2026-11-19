@@ -51,3 +51,4 @@ Section 4.7 reports, for the pooled 49-participant sample, the percentage of stu
 - [Approximately half or fewer of first-year physics graduate students answer conceptual multiple-choice questions about time dependence of expectation values correctly](grad-students-low-scores-time-dependence-expectation-values.md) — related
 - [One third of scientific high school students, but no other group, wrongly tie electromagnetic induction to the angle between current direction and loop velocity](emi-shs-current-velocity-angle-misconception.md) — related
 - [Conceptual understanding of electromagnetic induction remains substantially unchanged from high school students to physics teachers](emi-understanding-unchanged-across-education-levels.md) — related
+- [Student explanations of the tautochrone property revealed numerous misconceptions, including constant-acceleration beliefs and velocity-acceleration confusion](tautochrone-question-misconceptions.md) — related

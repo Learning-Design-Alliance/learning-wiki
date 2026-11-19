@@ -55,3 +55,5 @@ Sensitivity check addressing student attrition: the restricted subsample had sli
 - Robustness checks with fixed-effect and first-difference models reproduce the three-way interaction; continuous-time growth curve modelling does not — related
 - [Mastery learning implementation causes a mastery attrition bias that confounds learning curves, and it cannot be addressed universally](mastery-attrition-bias-confounds-learning-curves.md) — related
 - [Under RCT-YES default (alternative) assumptions, differences from the reference model-based method are slightly larger than under matched assumptions and are limited to clustered designs](alternative-assumptions-differences-limited-to-clustered-designs.md) — related
+- [Mean-field agent-based model reproduces group-level achievement but underestimates students with low prior knowledge and very low motivation](abm0-mean-field-reproduces-group-achievement.md) — related
+- [Ordered, mostly same-group clusters show qualitatively similar but steeper simulated gains than random clusters](ordered-clusters-larger-simulated-gains.md) — related

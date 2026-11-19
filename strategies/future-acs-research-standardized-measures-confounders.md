@@ -51,6 +51,7 @@ The review's forward-looking recommendations for research design. It calls for s
 
 - [Future ACS research should use longitudinal designs and objective, validated measures of active commuting](acs-future-research-longitudinal-objective-measures.md)
 - [Future research on professional reasoning in occupational therapy should target information processing, reasoning modalities, methodological quality assessment, and non-English-speaking contexts](future-research-directions-professional-reasoning.md)
+- [Implement causal evaluation in a standard college course via pretest, weekly quizzes, and confounder inquiry at student meetings](college-course-pretest-quiz-confounder-collection-strategy.md)
 
 ## Examples
 -

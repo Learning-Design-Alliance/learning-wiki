@@ -43,6 +43,7 @@ The article recommends that the focus of mentorship evaluation differ based on t
 ## Related Strategies
 
 - [Use individual development plans with milestone tracking to evaluate career guidance](idp-milestone-tracking-mentorship-evaluation.md)
+- [Evaluate school research-mentorship programs by collecting objective indicators, with interviews of students, teachers, and mentors](tan-q-interview-based-program-evaluation.md)
 
 ## Examples
 -

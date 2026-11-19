@@ -17,7 +17,7 @@ sources:
 # TA professional development unit: grade with and without a CA-inspired rubric, then discuss pros, cons, and the burden-of-proof dilemma
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 11 claims (6 mixed, 5 against) · 4 studies (2 qualitative, 1 causal, 1 associational), `q2` · 0 of 4 report an effect size · 11 claims rest on one study
+> **Evidence** · 11 claims (6 mixed, 5 against) · 5 studies (2 causal, 2 qualitative, 1 associational), `q2` · 0 of 5 report an effect size · 10 claims rest on one study
 
 ## Description
 A short professional development activity embedded in a semester-long TA PD course, following educators' recommendations to provide opportunities to examine collaboratively one's own practice and beliefs. TAs individually graded two student solutions, discussed grading approaches in small groups and as a class, were given the CA-inspired rubric, discussed its pros and cons, and later re-graded the solutions. The instructor highlighted TAs' stated criteria aligned with a CA approach and "the dilemma between placing the burden of proof on the instructor vs. the student".

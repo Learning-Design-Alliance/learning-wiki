@@ -53,6 +53,7 @@ The article recommends adding a computational component to introductory quantum 
 - [Design all introductory computational assignments to be completable in spreadsheets so students without programming background can participate.](spreadsheet-first-computational-assignments-strategy.md)
 - [Teaching sequence: discretize the evolution equations, implement the recurrences in a spreadsheet, and compare classical, stochastic and quantum solutions](spreadsheet-recurrence-teaching-sequence.md)
 - [Pairing the simulator's visual plot with terminal readouts of intermediate vector quantities to make electric-field computation visible](plot-plus-terminal-intermediate-quantities-strategy.md)
+- [Have players compare expected with software-computed outcomes to reflect on and retrace quantum-operation misunderstandings](expected-vs-computed-outcome-reflection.md)
 
 ## Examples
 -

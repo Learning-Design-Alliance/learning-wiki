@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-11-19
 sources:
   - id: s-j-cooper-2021
     resource: "https://doi.org/10.1119/10.0003534"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Survey respondents at the 2017 RSSE reported increased interest in physics and increased awareness of gravitational waves and LIGO after visiting the exhibit. [→ S. J. Cooper 2021](#s-j-cooper-2021)
@@ -48,3 +49,4 @@ Survey of 171 visitors to the RSSE exhibit using electronic and paper questionna
 - [The SPOT program builds undergraduate science-communication skills while increasing K-12 audience understanding of gravitational-wave astronomy and interest in science careers](spot-presenter-and-audience-outcomes.md) — related
 - [Informal student feedback was positive, with pupils reporting increased interest in astronomy and feeling like real astronomers](positive-informal-student-feedback-pilot.md) — related
 - [High-school students are reported to be able to assimilate modern physics concepts such as gravitational waves and relate them to their daily lives](students-assimilate-modern-physics-concepts.md) — related
+- [NEA-funded evaluation finds presenting astronomy via animation highly attractive to audiences, but specific science learning benefits from an additional scientific presentation alongside the screening](astro-animation-screening-attractive-science-learning-needs-support.md) — related

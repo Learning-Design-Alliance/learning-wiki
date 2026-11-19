@@ -39,6 +39,7 @@ Process driven math, developed by researchers in the Logan Project, addresses co
 ## Related Strategies
 
 - [Screen Readers](screen_readers.md)
+- [Use image sonification and screen-reader-compatible interfaces to make robotic-telescope image analysis accessible to blind and visually impaired students](image-sonification-bvi-astronomy-access.md)
 
 ## Examples
 -

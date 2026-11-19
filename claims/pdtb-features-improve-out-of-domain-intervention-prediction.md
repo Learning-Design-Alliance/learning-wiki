@@ -50,3 +50,4 @@ Out-of-domain evaluation using leave-one-out cross-course-validation over the 14
 - [PDTB discourse features boost intervention prediction most when courses have low intervention ratios and fewer positive instances to learn from](pdtb-features-help-low-intervention-ratio-courses.md) — related
 - [With PDTB discourse features added, the combined model outperforms the EDM'15 baseline on average in the in-domain setting across 14 MOOC offerings](pdtb-features-improve-in-domain-intervention-prediction.md) — related
 - [PDTB discourse features are more robust than vocabulary-based features across MOOC domains, gaining 11.6% out-of-domain versus 2.7% for the vocabulary baseline](pdtb-features-robust-to-domain-differences.md) — related
+- [A RoBERTa-based discourse relation classifier achieves strong implicit relation results on PDTB 2.0 while also handling explicit relations](roberta-discourse-classifier-pdtb-implicit-sota.md) — related

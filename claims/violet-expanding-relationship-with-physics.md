@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: moderate
-newest_evidence: 2013
+newest_evidence: 2014
 sources:
-  - id: vashti-sawtelle-chandra-turpen-2013
+  - id: vashti-sawtelle-chandra-turpen-2014
     resource: "https://doi.org/10.48550/arXiv.1409.5471"
-    title: "Vashti Sawtelle & Chandra Turpen. (2013). Leveraging a Relationship with Biology to Expand a Relationship with Physics. [doi:10.48550/arXiv.1409.5471](https://doi.org/10.48550/arXiv.1409.5471)"
+    title: "Vashti Sawtelle & Chandra Turpen. (2014). Leveraging a Relationship with Biology to Expand a Relationship with Physics. Originally published 2013. [doi:10.48550/arXiv.1409.5471](https://doi.org/10.48550/arXiv.1409.5471)"
     author: "Vashti Sawtelle & Chandra Turpen"
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Over the NEXUS/Physics course, Violet moved from expecting to hate physics and positioning herself as 'more of a bio person' to a love-hate relationship, seeing herself as more of a symbols person, and valuing multiple pathways for understanding equations. [→ Vashti Sawtelle & Chandra Turpen 2013](#vashti-sawtelle-chandra-turpen-2013)
+`q2 i?` Over the NEXUS/Physics course, Violet moved from expecting to hate physics and positioning herself as 'more of a bio person' to a love-hate relationship, seeing herself as more of a symbols person, and valuing multiple pathways for understanding equations. [→ Vashti Sawtelle & Chandra Turpen 2014](#vashti-sawtelle-chandra-turpen-2014)
 
 ## Evidence
 
-### Vashti Sawtelle & Chandra Turpen 2013
+### Vashti Sawtelle & Chandra Turpen 2014
 
-Vashti Sawtelle & Chandra Turpen. (2013). Leveraging a Relationship with Biology to Expand a Relationship with Physics. [doi:10.48550/arXiv.1409.5471](https://doi.org/10.48550/arXiv.1409.5471)
+Vashti Sawtelle & Chandra Turpen. (2014). Leveraging a Relationship with Biology to Expand a Relationship with Physics. Originally published 2013. [doi:10.48550/arXiv.1409.5471](https://doi.org/10.48550/arXiv.1409.5471)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -49,3 +49,4 @@ Longitudinal ethnographic case study of one student (participant observations, ~
 - [Recruiting a student's relationship with biology into physics tasks engaged her in physics reasoning and increased her liking of physics](leveraging-biology-identity-engages-physics.md) — related
 - [A student's outgoing epistemological stance toward physics expanded toward seeing physics knowledge as meaningful and consequential for biology and chemistry](outgoing-epistemological-stance-expansion.md) — related
 - [In NEXUS/Physics test classes, biology students bring sophisticated reasoning from other courses and reconcile previously unnoticed inconsistencies in their knowledge.](nexus-physics-students-reconcile-inconsistencies.md) — related
+- [Leveraging students' outside disciplinary expertise can productively change their affective stance toward physics (Violet case study)](leveraging-outside-expertise-changes-affect-violet.md) — possibly the same claim (merge candidate)

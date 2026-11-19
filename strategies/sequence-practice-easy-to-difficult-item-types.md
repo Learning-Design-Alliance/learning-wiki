@@ -41,6 +41,7 @@ This scheduling strategy uses the model's finding that easier items permit more 
 - [Spaced Retrieval Practice](spaced-retrieval-practice.md)
 - [Distributed Practice](distributed-practice.md)
 - [Frequent, Low-Stakes Quizzes](frequent-low-stakes-quizzes.md)
+- [Use Single and Multiple Choice variable tests as a repeated-practice simulator and for individualized review tests](variable-test-simulator-repeated-practice.md)
 
 ## Examples
 -

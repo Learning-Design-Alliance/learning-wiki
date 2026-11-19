@@ -48,3 +48,4 @@ A secondary comparison between the two multiple-correct MCMR items (17 and 18) o
 - [A four-level scoring scheme for multiple-choice/multiple-response items reveals response nuance that dichotomous scoring hides](four-level-mcmr-scoring-reveals-nuance.md) — possibly the same claim (merge candidate)
 - [At least 75% of students choose at least one correct response on MRM questions, motivating analysis beyond the correct/incorrect dichotomy](mrm-partial-correctness-evidence.md) — related
 - [Item Response Curves expose per-item response patterns beyond dichotomous scoring, including persistent distractor choice and mixed responding](item-response-curves-reveal-patterns.md) — related
+- [Online-related decreases in MCMR difficulty arise from students choosing incorrect responses in addition to correct ones, not from choosing no correct responses](mcmr-online-decrease-mixed-correct-incorrect-selection.md) — related

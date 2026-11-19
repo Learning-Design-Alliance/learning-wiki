@@ -81,3 +81,4 @@ RQ3 theme on bridging virtual and real-world practice. Repeated virtual practice
 - [Virtual labs increase confidence but cannot fully replace hands-on experimental learning](virtual-labs-cannot-replace-hands-on-learning.md) — related
 - [Direct and interactive visualization of complex invisible phenomena is reported effective for learning in pilot qualitative experiences](direct-interactive-visualization-effective-pilot.md) — related
 - [Simulations can supplement experiential learning where hands-on activities are absent](simulations-supplement-hands-on-physics.md) — related
+- [Dusty plasma experiments serve as a learning tool for undergraduate and post-graduate physics students, per the author's perspective argument](dusty-plasma-experiments-learning-tool-physics-students.md) — related

@@ -48,3 +48,4 @@ Outreach and demographic reporting in the Series Outreach and Study Methodology 
 - [Participants reported increased familiarity with each Designing for Learning topic after attending the Edcamp sessions](edcamp-dfl-increased-topic-familiarity.md) — related
 - [Educators reported large increases in comfort leveraging their knowledge of the topics to share with peer educators](edcamp-dfl-comfort-sharing-with-peers.md) — related
 - [Serving as panelists or moderators increased educators' reported expertise, peer-support confidence, and leadership confidence](edcamp-dfl-panelist-moderator-leadership-growth.md) — related
+- [Virtual training events reach more participants more equitably than in-person events, but attendance is typically only 50% of registrations](virtual-training-broader-reach-lower-attendance.md) — related

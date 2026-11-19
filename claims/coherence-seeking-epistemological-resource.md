@@ -54,3 +54,4 @@ The authors' interpretive analysis (type e) of the Episode 1 small-group discuss
 - [Substance-based ontological metaphors for gravity served as the source for teachers' generation of a sophisticated argument about equal gravitational acceleration](substance-ontologies-seed-sophisticated-argument.md) — related
 - [Thinking computationally about implementing a better model is the key to resolving the accuracy-realism inconsistency](thinking-computationally-key-resolution.md) — related
 - [Articulating what does not make sense is a major part of resolving intuitive inconsistencies in physics](articulating-inconsistency-half-of-sensemaking.md) — related
+- [Scaffolded play in Quantum Odyssey enables learners to intuitively work with established QIS topics without prior mathematics or physics exposure](visual-intuition-without-mathematics-quantum-concepts.md) — related

@@ -53,3 +53,4 @@ Summary of the neuropsychological test battery administered one day before the E
 - [Interference control declines with increasing age and increasing Stroop task difficulty in speed, consistency and accuracy](interference-control-declines-age-task-difficulty.md) — related
 - [Low working memory span individuals are more affected by Stroop task lapses and report more task-related mind-wandering](low-span-staying-on-task-deficits.md) — related
 - [Common language teaching methods such as oral drills, memorization, and fast-paced competitive activities disadvantage older learners](rote-drills-disadvantage-older-learners.md) — related
+- [EEG classification of classroom design conditions is robust only during short-term memory encoding tasks, strongest in the Visual Memory Test](eeg-design-classification-limited-to-memory-tasks.md) — reports the opposite

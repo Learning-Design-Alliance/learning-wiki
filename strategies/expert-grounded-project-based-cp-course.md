@@ -53,6 +53,7 @@ The article highlights Burke and Atherton's Tufts course, which modified its com
 
 - [Interview graduate student researchers and faculty about lab practices as a first step in setting learning goals for content-specific lab courses](interview-graduate-students-for-lab-learning-goals.md)
 - [Use → Modify → Create scaffolding strategy to navigate tensions between personal and disciplinary authenticity](use-modify-create-scaffolding-strategy.md)
+- [Use a two-step open-ended final project — a common data-cleaning and modeling goal followed by student-chosen group tracks — and encourage posting portfolio items on GitHub.](two-step-tracked-final-project-portfolio.md)
 
 ## Examples
 -

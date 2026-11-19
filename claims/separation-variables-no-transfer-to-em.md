@@ -51,3 +51,4 @@ Authors' interpretation of their CUE findings: OSU students meet separation of v
 - [The overall per-question CUE score pattern is similar across OSU's radically reformed curriculum and CU's curriculum](cue-score-pattern-similar-across-curricula.md) — related
 - [CU students rarely used a potential approach on the CUE superposition question, while OSU students — whose curriculum introduces potential before field — did so more often](potential-approach-osu-vs-cu.md) — related
 - [Separated partial derivative terms in the TDSE cue students to group each side by variable, but not all students know separability is required](tdse-cues-grouping-separability-awareness.md) — related
+- [The author argues that machine learning foundations should be part of the standard Physics curriculum because they are becoming standard research tools and build transferable career skills.](ml-foundations-standard-physics-curriculum.md) — related

@@ -53,6 +53,7 @@ The authors propose four novel curricular applications of Astrobites to suppleme
 - [Student writing assignment: authoring an Astrobites-style summary with peer editing and optional guest-post publication](method3-student-astrobite-writing-assignment.md)
 - [Partner with instructors to run controlled classroom studies of the methods' impacts on literature facility, perceptions, and reading habits](controlled-classroom-study-astrobites-impacts.md)
 - [Present papers in journal club via a four-highlight scaffold centered on physical meaning](four-highlight-paper-presentation-scaffold.md)
+- [Run the journal club as a for-credit elective class with required regular presenting to boost commitment](ac-as-credit-elective-class-strategy.md)
 
 ## Examples
 -

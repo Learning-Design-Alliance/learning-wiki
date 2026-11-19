@@ -47,6 +47,7 @@ The lab class was managed through a learning management system: "Lab class was f
 - [Increase Synchronous Teacher Presence](increase_synchronous_teacher_presence.md)
 - [Choose or blend asynchronous and synchronous e-learning based on skills targeted, student and teacher preferences, and organisational needs rather than performance alone](blend-sync-async-by-needs-and-preferences.md)
 - [Use OER-based simulations and video analysis to simulate in-person physics labs remotely](oer-simulation-video-analysis-virtual-labs-strategy.md)
+- [Deliver the remote lab course through asynchronous Slack lectures plus Zoom Q&A sessions with individual student interviews](slack-zoom-remote-lab-course-delivery.md)
 
 ## Examples
 -

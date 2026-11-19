@@ -54,3 +54,4 @@ Six-item University Lecture perception scale (α = 0.875) administered in the cr
 - [Nursing students score higher on SOC meaningfulness than medical students; male students score higher on meaningfulness than female students](meaningfulness-subscale-group-differences.md) — related
 - [Students in a hybrid flipped medical terminology course rated all positive intrinsic motivation dimensions significantly above the neutral midpoint, with perceived tension significantly below it](positive-imi-hybrid-flipped-medical-terminology.md) — related
 - [Only one survey item showed a gender difference: females ranked prioritizing concepts to review more positively than males (97.8% vs 84.4%, p = 0.030).](gender-difference-prioritize-concepts-item.md) — related
+- [Two-sample t-tests found male and female survey responses significantly different for quiz convenience and video lectures but not for most MPL questions](t-test-gender-differences-survey-responses.md) — related

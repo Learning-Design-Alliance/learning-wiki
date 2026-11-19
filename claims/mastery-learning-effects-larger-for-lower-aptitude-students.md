@@ -74,3 +74,4 @@ Both groups gain, so mastery gating does not trade the stronger students' learni
 - [Female students show stronger academic self-confidence, more positive attitudes, higher achievement, and fewer absences, but this advantage diminishes almost completely under mastery learning](sex-advantage-diminishes-under-mastery-learning.md) — related
 - [Optimal CFLS b and f settings vary by learner aptitude: higher aptitude benefits from larger values](cfls-optimal-bf-vary-by-aptitude.md) — reports the opposite
 - [Out-of-class motivation showed a smaller group difference but greater within-class spread in the flipped class, attributed to client versus translator roles](flipped-translation-out-of-class-motivation-mixed.md) — related
+- [Fitted factor weights differ across achievement groups, with motivation weighted highest for high-achieving and aptitude for average-achieving students](achievement-group-specific-factor-weights.md) — related

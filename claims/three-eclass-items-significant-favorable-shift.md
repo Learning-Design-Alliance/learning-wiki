@@ -51,3 +51,4 @@ Item-by-item Mann-Whitney U analysis of nine E-CLASS items related to transforma
 - [Students' views about measurement uncertainty, distinct from conceptual understanding, shifted favorably after the transformed course](measurement-uncertainty-views-shift-item-5.md) — related
 - [All three lab courses show negative or neutral pre-to-post E-CLASS shifts, with no positive shifts](negative-neutral-pre-post-eclass-shifts.md) — reports the opposite
 - [First-year physics lab students' overall E-CLASS scores decline significantly over one semester of instruction (d = −0.15)](fy-lab-e-class-overall-negative-shift.md) — related
+- [Treatment-group CLASS item responses shifted between pre-test and post-test, with some items moving toward novice-like response classifications](class-item-shifts-toward-novice-views.md) — related

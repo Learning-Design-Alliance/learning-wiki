@@ -56,3 +56,4 @@ RQ1 synthesis of Table 4, summarising 36% of the review's studies, maps technolo
 - [Willis et al. (2016) identify four common ethical issues in internal student data usage across three institutions](four-common-ethical-issues-student-data-usage.md) — related
 - [Using AIED poses technical, ethical and trust challenges for teachers](aied-challenges-technical-ethical.md) — related
 - [Resources, ethics and privacy, buy-in, and capabilities are the most commonly identified barriers to LA adoption](la-barriers-resources-ethics-buy-in-capabilities.md) — related
+- [Material adaptations are a recognized challenge for including blind students in conventional academic activities](material-adaptations-challenge-blind-student-inclusion.md) — related

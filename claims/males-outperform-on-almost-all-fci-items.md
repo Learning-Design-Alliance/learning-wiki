@@ -53,3 +53,4 @@ Item-level analysis plotting the fraction of male versus female students answeri
 - [Two non-NA studies found female students outperformed male students on the FCI, contrasting the overall pattern](non-na-female-superiority-fci-studies.md) — related
 - [Significant gender differences in FCI scores appear in every application of the test, with small to medium effect sizes](fci-gender-differences-all-applications.md) — a broader claim this one bears on
 - [Female students answered correctly less often than males, with statistically significant differences on questions A3, A5, B1 and B2](gender-gap-radiation-knowledge-greek-students.md) — a narrower finding that bears on this claim
+- [Pre- and post-test FCI scores showed a moderate positive correlation (r = 0.504) overall, with a stronger correlation for male than female students](fci-pre-post-moderate-positive-correlation-uj.md) — related

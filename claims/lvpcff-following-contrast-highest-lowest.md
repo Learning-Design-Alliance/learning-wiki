@@ -47,3 +47,4 @@ Descriptive case contrast drawn from the LVPCFF group's per-student table: stude
 ## Related Claims
 - [Frequent attenders of the live virtual physics classroom scored significantly higher than rare attenders in a distance physics course](lvpcf-frequent-attenders-higher-scores.md) — related
 - [Rare attenders with high content-following but near-zero live attendance still failed the course](lvpcfr-high-content-following-failed.md) — related
+- [Live-session attendance in the virtual astronomy course dropped as participants' regular classes and examinations overlapped with the course sessions](live-session-attendance-dropped-overlapping-classes.md) — related

@@ -50,3 +50,4 @@ Descriptive comparison of attendance across the six workshops reported in Table 
 ## Related Claims
 - [Shortening workshops from a week to two days increased attendance and retention, and 80-90% of attendees report they were glad they attended](two-day-workshops-retention-satisfaction.md) — related
 - [Most CU-Prime leaders attended at least one workshop and about a third attended at least three](workshop-attendance-22-of-30-leaders.md) — related
+- [Workshop attendance was predominantly male: 131 male and 34 female attendees, with women 21% of attendance](astrobvi-attendance-gender-21-percent-female.md) — related

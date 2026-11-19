@@ -73,3 +73,4 @@ Analysis of the graded module exam for "Atomare Materialmodellierung": one quest
 - [The interactive elements, especially the computer exercises and the research proposal, raised students' interest in lecture-related research questions and showed how lecture content is applied in research](interactive-elements-raise-research-interest.md) — related
 - [A single Sage worksheet resource can combine theoretical information with interactive examples of its practical application](sage-worksheet-theory-plus-interactive-examples.md) — related
 - [Most students in a large numerical analysis class reported that clicker questions helped them better understand lecture material](clickers-improve-perceived-understanding-numerical-analysis.md) — related
+- [Line graphs are the most common engagement element in the PICUP Collection, followed by three-dimensional graphics](picup-es-engagement-element-line-graphs.md) — related

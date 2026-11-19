@@ -71,3 +71,4 @@ Incorrect-choice analysis of Ferris Wheel across the three-quarter sequence: the
 - [Interviewed students show strong procedural facility with a geometric Pythagorean-theorem approach but lack conceptual understanding of how trigonometry connects to circles as used in physics contexts](trigonometry-procedural-facility-conceptual-gap.md) — related
 - [Expert validation interviews support that PIQL items represent reasoning experts expect students to develop in introductory physics](piql-expert-validation.md) — related
 - [PQL develops only slightly during introductory physics instruction, with effect sizes d = 0.3 (PreMech to PostMech) and d = 0.1 (PostMech to PostEM)](pql-develops-little-during-intro-physics.md) — related
+- [The assessment task using symbolic variables (Ferris wheel) failed to elicit the expected evidence, unlike the six tasks with numerical quantities](symbolic-variables-task-failed-to-elicited-evidence.md) — related

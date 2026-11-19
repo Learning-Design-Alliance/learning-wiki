@@ -57,6 +57,7 @@ The article recommends that boosting the value of and access to capital is neces
 - [Reimagine campus physical spaces as part of institutional diversity, equity, and inclusion commitments](reimagine-campus-physical-spaces-for-inclusion.md)
 - [Reevaluate graduate admissions toward holistic assessment of research potential instead of decontextualized test-score cutoffs](holistic-phd-admissions-reevaluation-strategy.md)
 - [Improve equity and inclusion in introductory physics, including interventions to boost self-efficacy, growth mindset and sense of belonging](equity-inclusion-interventions-introductory-physics.md)
+- [Frame physics as a science that benefits society to boost female students' engagement](frame-physics-as-benefiting-society-strategy.md)
 
 ## Examples
 -

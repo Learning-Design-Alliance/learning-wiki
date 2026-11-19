@@ -71,3 +71,4 @@ Randomized online experiment (N = 274 Mechanical Turk participants) with a 3x4 d
 - [AIfred and ChatGPT produce comparable math scores while assistance is available](aifred-chatgpt-comparable-assisted-math.md) — related
 - [K-12 learners preferred incremental hints and multiple attempts over immediately revealed solutions](learners-prefer-incremental-hints-over-solutions.md) — related
 - [Generative AI-generated hints can be as effective as human-generated hints for mathematics performance, but ensuring accuracy requires validation procedures that discard a substantial share of generated hints](genai-hints-effective-but-require-validation.md) — a broader claim this one bears on
+- [AI-tutor pedagogical interventions (hints) correlate negatively with learning gains, more strongly for participants with higher pre-quiz scores](hints-negatively-correlate-gains-moderated-by-prior-knowledge.md) — reports the opposite

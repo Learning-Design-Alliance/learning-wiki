@@ -44,6 +44,7 @@ Because most students completing the survey for the first time had little or no 
 ## Related Strategies
 
 - [Supplement dichotomous test analysis with four-level MCMR scoring and item response curves when validating inventories with select-all-that-apply items](supplement-ctt-with-mcmr-scoring-and-ircs.md)
+- [Subject in-person-validated MCMR items to validity checks for online use, including student interviews about how students interact with MCMR items online](validate-mcmr-items-for-online-use-interviews.md)
 
 ## Examples
 -

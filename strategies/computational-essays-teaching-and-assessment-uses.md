@@ -50,6 +50,7 @@ The article recommends that in courses already using programming, computational 
 - [Writing Process Portfolios](writing-process-portfolios.md)
 - [Give learners control over how learning is measured via assessment choices and science-fair-type projects](learner-controlled-assessment-science-fair-projects.md)
 - [Add peer review and revision cycles to computational essay courses to supply feedback and correctness checking](peer-review-revision-for-computational-essays.md)
+- [Use a two-step open-ended final project — a common data-cleaning and modeling goal followed by student-chosen group tracks — and encourage posting portfolio items on GitHub.](two-step-tracked-final-project-portfolio.md)
 
 ## Examples
 -

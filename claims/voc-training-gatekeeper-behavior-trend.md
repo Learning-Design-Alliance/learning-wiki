@@ -60,3 +60,4 @@ A paired samples t-test compared the four-item composite behavior score (number 
 - [Self-assessed confidence in managing urgent laryngectomy care improved post-training but the composite gain did not reach statistical significance](confidence-gains-not-significant-post-simulation.md) — related
 - [Primary care physicians' knowledge of when to refer perinatal patients to a psychiatrist rose from mean 1.90 pre-test to 3.13 post-test after training, in one uncontrolled pre-post study.](pmh-training-improves-referral-knowledge.md) — related
 - [Perceived importance of patient empowerment showed a positive but statistically non-significant trend after e-learning](elpas-patient-empowerment-nonsignificant-trend.md) — related
+- [Self-reported pre/post feedback on a Docker training event showed a perceived improvement in knowledge, but the measure only probes self-reported learning](docker-training-self-reported-knowledge-gain.md) — related

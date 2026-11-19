@@ -48,3 +48,4 @@ Machine-learning comparison of scenario 2 (LIWC features plus learning traces su
 ## Related Claims
 - [A multilayer perceptron classifier using German LIWC features classifies cognitive presence phases with accuracy of 0.82 and Cohen's κ of 0.76](german-liwc-mlp-cognitive-presence-classifier-kappa-076.md) — related
 - [SMOTEENN over- and undersampling produced significantly higher classifier accuracy (p < 0.01) than SMOTE-only scenarios, though the authors judge such classifiers not applicable in real time](smoteenn-denoising-higher-accuracy.md) — related
+- [Adding a one-hot exercise index to the triplet classifier significantly improves graph-transition classification accuracy](one-hot-exercise-encoding-improves-triplet-classifier.md) — reports the opposite

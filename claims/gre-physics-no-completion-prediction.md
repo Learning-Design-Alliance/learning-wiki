@@ -56,3 +56,4 @@ Null finding from the multivariate logistic regression across all four analytic 
 - [Men in the lowest GRE Q quartile completed STEM PhDs at a higher rate than men in all three higher quartiles, a pattern seen at each of the four institutions](lowest-gre-q-quartile-men-highest-completion.md) — related
 - [GRE scores do not differ between students who leave STEM PhD programs during the first year and those who complete](gre-no-difference-first-year-leavers.md) — related
 - [Undergraduate GPA is the only admissions metric statistically significantly associated with physics PhD completion across all models studied](ugpa-only-consistent-predictor-physics-phd-completion.md) — related
+- [UGPA is the only tested admissions metric that significantly predicts PhD completion, and its effect is entirely indirect through graduate GPA (total effect 6.0% for a 25th-to-75th percentile change)](ugpa-only-significant-predictor-completion-indirect.md) — related

@@ -47,3 +47,4 @@ Discussion-section synthesis of the interview findings on experiential learning.
 ## Related Claims
 - [Reflective practice, supported by individual and group supervision, helped facilitators learn from rather than be derailed by challenging cases](reflective-practice-supervision-challenging-cases.md) — related
 - [Training provides a foundation for facilitator competence, but subsequent substantially self-directed learning also plays an important part in development](training-foundation-plus-self-directed-learning-facilitators.md) — related
+- [Increased context expertise facilitated both case study subjects' professional development trajectories](context-expertise-facilitates-faculty-growth.md) — related
