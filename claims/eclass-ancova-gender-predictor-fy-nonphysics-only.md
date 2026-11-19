@@ -74,3 +74,4 @@ The initial 4-way ANCOVA including all interaction terms revealed "a signiﬁcan
 - [The postinstruction advantage of skills-focused courses was larger for women, large enough to eliminate or reverse the typical gender gap in adjusted means](skills-focus-advantage-larger-for-women.md) — related
 - [Gender is a significant predictor of post-instruction E-CLASS means in Traditional courses only, with men's adjusted means higher than women's](gender-predictor-traditional-courses-only.md) — related
 - [In an introductory physics laboratory course, participation and strongly connected group membership are strikingly similar across gender, major and year of study](lab-network-demographics-equal-participation.md) — related
+- [Men scored higher than women on post E-CLASS scores, controlling for pre E-CLASS, high school GPA, and lab factors](men-higher-post-e-class-than-women.md) — related

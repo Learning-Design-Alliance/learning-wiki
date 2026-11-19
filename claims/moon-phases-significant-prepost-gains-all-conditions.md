@@ -50,3 +50,4 @@ Pre-post analysis in the randomized three-condition study: pre-test averaged aro
 - [A brief VR Moon-phases activity did not affect students' environmental attitudes compared with desktop and hands-on conditions](vr-no-effect-environmental-attitudes.md) — related
 - [Science majors slightly outperformed non-science majors across all conditions when controlling for pre-test score](science-majors-outperform-non-science-majors-moon-phases.md) — related
 - [In a pilot ASTRO 101 study, a VR activity on Moon phases and eclipses was at least as effective as supplemental lecture or hands-on activities on multiple-choice quiz gains](vr-moon-phases-at-least-as-effective-pilot.md) — a narrower finding that bears on this claim
+- [A VR Moon-phase activity performed at least as well as traditional teaching methods for introductory astronomy students](vr-moon-phase-performs-comparably-to-traditional.md) — related

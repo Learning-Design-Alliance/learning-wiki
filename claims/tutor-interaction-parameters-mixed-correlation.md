@@ -48,3 +48,4 @@ RQ1 Pearson correlation tests of tutor-role parameters against grades (Table 3).
 - [Group cohesion and interactivity parameters (clustering coefficient, density, average degree) correlate positively with performance, while group size correlates negatively](group-cohesion-density-correlate-with-performance.md) — related
 - [An explanatory stepwise regression including student, tutor and group factors explains 75% of grade variance, with interactivity, cohesion and social capital as significant positive predictors](explanatory-regression-explains-grade-variance.md) — related
 - [Engagement with an educational game showed a positive but statistically insignificant correlation with learning performance in a ten-student sample.](engagement-performance-insignificant-correlation.md) — related
+- [Tutor ratings were higher after Artemis was introduced, with tutors perceived increasingly positively](artemis-introduction-higher-tutor-ratings.md) — related

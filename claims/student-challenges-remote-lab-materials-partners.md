@@ -71,3 +71,4 @@ On the same student survey, "the majority (75.6%) of students reported not facin
 - [Maintaining motivation was the most prevalent non-technology challenge students faced learning at a distance](motivation-most-prevalent-remote-challenge.md) — related
 - [Skill-based pharmacy learning (compounding, device counselling, OSCEs) faced validation, access, and transferability challenges when delivered remotely](remote-skill-based-learning-challenges-pharmacy.md) — related
 - [Students' reported motivation to work on course assignments declined strikingly after the shift to remote learning](remote-learning-motivation-decline.md) — related
+- [The most common reported challenge of the remote transition was making the remote class similar to the in-person version, with time and technology constraints also major; student engagement and missing hands-on components were common uncaptured challenges](remote-lab-transition-challenges-similarity-time-technology.md) — related

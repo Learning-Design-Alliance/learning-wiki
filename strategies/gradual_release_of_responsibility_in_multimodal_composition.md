@@ -59,8 +59,10 @@ Multimodal composition imposes high extraneous load on novices, who must simulta
 5. **Assess:** Evaluate both the analysis (can students justify design judgments?) and the composition (do students apply criteria in their own work?), using [Assessment](../elements/assessment.md) rubrics co-developed during the modeling phase.
 
 ## Related Strategies
+
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the narration method that makes the "I do" phase effective
 - [Collaborative Writing](../strategies/collaborative-writing.md) — a variant of the independent phase in which students compose multimodal texts in teams
+- [Embed VR lessons in pre-VR lecture and post-VR peer activity using gradually released instruction](gradual-release-embedding-vr-lessons.md)
 
 ## Examples
 - **Book trailer unit (upper elementary/middle school):** Teacher models analysis of a published book trailer, pairs analyze a second trailer against a criteria chart, groups compare strong and weak trailers, then students storyboard and produce trailers for self-selected books using free tools such as [Canva for Education](https://www.canva.com/education/) or [WeVideo](https://www.wevideo.com/).

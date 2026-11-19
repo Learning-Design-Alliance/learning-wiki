@@ -58,3 +58,4 @@ This is the article's own summary of its case study of three students (Beverly, 
 - [A wound-healing classroom activity that intersected a student's lived experience became a recurring, self-reported touchpoint for physics relevance](wound-healing-activity-lived-experience-relevance.md) — related
 - [A life-science student with initially high physics anxiety can come to report using physics to reason through everyday phenomena, contrasting the common deterioration of relevance beliefs](contrasting-case-student-finds-physics-relevant-in-daily-life.md) — a narrower finding that bears on this claim
 - [Students valued the open-ended generative task for connecting physics to real contexts but reported unfamiliarity with making assumptions](student-perceptions-of-generative-task.md) — related
+- [Life-science and physical-science students do not significantly differ in the Real-World Connection CLASS category](real-world-connection-no-group-difference.md) — related

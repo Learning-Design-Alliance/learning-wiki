@@ -89,3 +89,4 @@ Questionnaire item on tutor support in the three-edition evaluation, rated on th
 - [After design adjustments, the LAD achieved good–excellent usability (SUS M = 4.13, equal to 78.25%)](thermos-lad-sus-good-excellent-usability.md) — related
 - [Implementing the blended course strained a small team that lacked blended-learning competencies and faced a larger-than-expected workload](blended-implementation-competency-and-workload-challenges.md) — related
 - [Across its first three editions Athena enrolled on average 70–80 pupils per year, with 80–90% obtaining participation certificates and withdrawal around 15–20%](athena-participation-completion-rates.md) — related
+- [Tutor ratings were higher after Artemis was introduced, with tutors perceived increasingly positively](artemis-introduction-higher-tutor-ratings.md) — related

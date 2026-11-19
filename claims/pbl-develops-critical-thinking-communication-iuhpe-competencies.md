@@ -60,3 +60,4 @@ Inductive qualitative analysis of five academic staff interviews (20–30 minute
 - [PBL interns report higher self-efficacy, instructional satisfaction, and perceived critical-thinking improvement than lecture-taught interns](pbl-self-evaluated-learning-gains-esophageal.md) — related
 - [Student self-ratings exceeded instructor expectations in four competency domains but fell short in professional knowledge-skills and teamwork](self-ratings-versus-instructor-expectations-gap.md) — related
 - [Students and tutors positively welcomed the blended PBL course and used PBL strategies to resolve implementation issues](positive-reception-pbl-strategies-resolve-issues.md) — related
+- [Anonymous peer review supports perceived competence: students perceived improved work quality, critical thinking and workplace skills, with noted difficulties](anonymous-peer-review-perceived-competence.md) — related

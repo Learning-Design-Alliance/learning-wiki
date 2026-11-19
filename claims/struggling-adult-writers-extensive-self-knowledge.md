@@ -48,3 +48,4 @@ Case study triangulating observation, text analysis, and structured retrospectiv
 ## Related Claims
 - [Struggling adult writers show limited planning and revision in their writing process, similar to younger writers](struggling-adult-writers-limited-planning-revision.md) — related
 - [Combining collaborative-writing observation, text analysis, and retrospective-prospective interviews provides productive tools to assess writing processes and knowledge of struggling adult writers](triangulated-assessment-writing-processes-adults.md) — related
+- [Questionnaire methods showed weaknesses for observing younger students, who struggled to articulate answers in writing](questionnaire-weaknesses-younger-students.md) — related

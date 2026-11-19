@@ -47,6 +47,7 @@ To address the challenging role of the observer in image creation, the authors '
 - [Explicitly address the visibility of laser light beams when using the jelly lens analogy](address-laser-beam-visibility-misconception.md)
 - [Enrich practical sessions with ray-tracing software and 2D CCD cameras, and tutorials with a problem-solving approach](ccd-ray-tracing-problem-solving-future-improvements.md)
 - [Disassemble-and-rebuild consensus task for teaching optical conjugation and relays](ao-rebuild-consensus-design-task.md)
+- [Teaching the Principle of Least Action through three interactive simulations of light behavior](teaching-action-principle-three-optics-simulations.md)
 
 ## Examples
 -

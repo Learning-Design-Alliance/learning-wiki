@@ -68,3 +68,4 @@ Linear regression of student-level fraction of non-zero F's on entering GPA and 
 - [Students graded on a percent scale in introductory physics were over 5 times more likely to receive course grades below C- than students graded on a 4-point scale](percent-scale-five-times-more-low-grades.md) — related
 - [The same instructors gave 4 to 12 times more low course grades under percent grading than under 4-point grading, indicating the grade scale rather than the instructor drives the effect](within-instructor-scale-effect-fail-ratio.md) — related
 - [The final regression model predicting exam points included non-biology GPA, ethnicity/nationality, and treatment, explaining roughly 44% of adjusted variance](regression-model-exam-points-gpa-ethnicity-treatment.md) — related
+- [Low F-grades on exam problems are the primary source of the percent-scale-dependent extra grade penalty for underrepresented students.](low-f-grades-source-of-extra-penalty.md) — related

@@ -68,3 +68,4 @@ Qualitative and quantitative pretest of the plus version with six participants p
 - [Survey respondents rated the initiative to create a national ML framework 7.6/10 (SD 1.37) but the content of version 0.2 lower at 6.8/10 (SD 1.42)](dml-v02-survey-appreciation-content-ratings.md) — related
 - [Efficacy of both versions versus generic nutrition information will be tested in a registered three-group randomized controlled trial with four measurements](three-group-rct-nutrition-tailoring-protocol.md) — related
 - [The first part of the outreach talk was too long for the youngest students, and a shortened version worked better](shortened-lecture-worked-better-youngest.md) — related
+- [Positioning students as stakeholders who decide content and provide technology feedback is claimed to lead to increased consumer acceptance](student-stakeholders-increase-consumer-acceptance.md) — related

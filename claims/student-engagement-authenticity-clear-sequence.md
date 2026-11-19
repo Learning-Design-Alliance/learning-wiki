@@ -71,3 +71,4 @@ Synthesis of post-project student focus group feedback in the Student Feedback s
 - [A two-day professional development training prepared in-service physics teachers to implement PBL with real-life wave problems](two-day-pbl-teacher-training-waves.md) — related
 - [PBL organizes education around a sequence of separate problems, improving short-run performance but isolating education as a separate space from the world at large.](pbl-separate-problems-isolation.md) — related
 - [Authentic, complex level-boss tasks helped students feel prepared for real-world computational work](authentic-level-bosses-real-world-preparation.md) — a narrower finding that bears on this claim
+- [Instructors grounded computational integration in professional authenticity, career readiness, and their own research practices](instructors-ground-computation-in-authenticity.md) — related

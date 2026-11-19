@@ -55,6 +55,8 @@ The article recommends fiction as case material in several variants: a short sto
 - [Fictional Characters to Teach Social Awareness](fictional_characters_to_teach_social_awareness.md)
 - [Use activities and case studies with the nature of science as a recurring theme, rather than a single first-day activity or lecturing about it](nature-of-science-recurring-activities-strategy.md)
 - [Introduce new science topics in students' own language through fictional dialogues that address common misconceptions](student-language-warmup-dialogues-strategy.md)
+- [Start from science-fiction enthusiasm and move gradually to correction through find-the-mistake exercises](gradual-sci-fi-enthusiasm-to-correction-strategy.md)
+- [Use science fiction works in astronomy teaching as introductory points, class discussion bases, or troubleshooting cases](sci-fi-as-intro-discussion-troubleshooting-strategy.md)
 
 ## Examples
 -

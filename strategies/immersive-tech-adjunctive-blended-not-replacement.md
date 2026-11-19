@@ -95,6 +95,7 @@ The review recommends a measured adoption strategy: immersive technologies and v
 - [Use VR simulation as a supplement to, not a replacement for, traditional audiology training](vr-as-supplement-to-traditional-audiology-training.md)
 - [Combine immersive VR simulation with existing traditional teaching resources for venipuncture training](combine-vr-with-traditional-venipuncture-teaching.md)
 - [Blend simulation with traditional training rather than separating them into discrete components](blend-simulation-with-traditional-procedural-training.md)
+- [Adopt AR-based activities as a supplementary tool within a blended learning approach when transitioning schools toward a SMART campus](ar-supplementary-blended-learning-strategy.md)
 
 ## Examples
 -

@@ -79,3 +79,4 @@ Table 1 row for the interest in physics 2 construct prints male mean 2.77, femal
 - [At the beginning of Physics 1, male students report significantly higher self-efficacy, fascination, value and physics intelligence mindset than female students in both calculus-based and algebra-based courses](gender-gaps-motivation-beginning-physics-1.md) — related
 - [Grit is the only motivational factor on which female students report averages equal to or higher than male students throughout introductory physics](grit-females-equal-or-higher-physics.md) — related
 - [The one exception to consistent gendered educational debts was Hispanic women, who had more expertlike attitudes than Hispanic men on average at the end of algebra-based courses](hispanic-women-exception-algebra-based.md) — related
+- [Physics self-efficacy of both men and women decreased over the semester, with a smaller decrease for women](physics-self-efficacy-decrease-semester.md) — related

@@ -48,3 +48,4 @@ Qualitative gaze-pattern analysis of a representative ocular toxoplasmosis image
 - [Attendings fixate a significantly greater percentage of the fundus image area than PGY2 residents, with coverage increasing across experience levels](attendings-greater-image-area-fixated.md) — related
 - [Attending ophthalmologists show significantly shorter fixation durations than PGY2 residents when reading fundus images](attendings-shorter-fixation-durations-fundus-reading.md) — related
 - [Diagnostic accuracy on fundus images increases significantly with ophthalmology training level, from 53.33% in PGY2s to 96.00% in attendings](fundus-diagnostic-accuracy-increases-with-experience.md) — related
+- [Novices fixate the middle capacitor circuit while experts also attend the upper coil circuit; upper-circuit focus correlates weakly, non-significantly with electricity knowledge (r=0.41)](novice-expert-gaze-differences-electric-circuit.md) — related

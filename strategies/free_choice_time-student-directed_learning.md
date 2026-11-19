@@ -65,6 +65,7 @@ Choice taps learners' needs for autonomy, one of the three basic psychological n
 - [Montessori Prepared Environment](montessori_prepared_environment.md) — a fully developed curricular model built around self-chosen work in a designed environment
 - [Genius Hour / 20% Time](genius_hour_20_time.md) — interest-driven open inquiry applied to a fixed weekly time block
 - [Let students choose their own writing topics to build confidence and increase communicative language ability.](student-chosen-writing-topics.md)
+- [Selecting making materials with wide property ranges that avoid textbook representations](craft-materials-wide-properties-avoid-textbook-representations.md)
 
 ## Examples
 - **Responsive Classroom's Academic Choice** ([https://www.responsiveclassroom.org](https://www.responsiveclassroom.org)) — a planning–working–reflecting routine in which K–8 students choose among teacher-designed tasks, used widely in US elementary schools.

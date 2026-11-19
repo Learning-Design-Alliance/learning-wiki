@@ -67,3 +67,4 @@ Pre-test item difficulties in Table 1 varied widely before any instruction on in
 - [Astro 101 students showed high normalized learning gains (<g> = 0.71) on interferometry after lecture, Think-Pair-Share, and the Lecture-Tutorial in both semesters](interferometry-lecture-tutorial-high-normalized-gains.md) — related
 - [The percentage of questions answered correctly increased from 46.6% pre-intervention to 60% post-intervention (p=0.02)](correct-answer-percentage-46-6-to-60-percent.md) — related
 - [Knowledge-question performance rose significantly for every question after the programme, while attitude items showed minimal to no significant change](knowledge-gained-attitudes-unchanged.md) — related
+- [The pair of similar Lenz's law questions qualified as highly challenging, with pre-instruction correct-answer percentages in the lower part of the 35%-70% range](similar-lenz-question-pair-highly-challenging.md) — related

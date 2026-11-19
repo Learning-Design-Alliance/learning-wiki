@@ -56,6 +56,7 @@ The article recommends that resource-limited schools implement guided inquiry la
 - [Checklist for virtual training adoption in low-resource settings](virtual-training-adoption-checklist.md)
 - [Use virtual simulations to enhance cognitive learning while prioritizing in-person laboratory sessions for psychomotor and technical skills](virtual-simulations-cognitive-in-person-psychomotor.md)
 - [Promote the flipped classroom in low-resource settings using free digital tools, peer instruction, and group discussions.](flipped-classroom-low-resource-settings-strategy.md)
+- [For online lab courses, use interactive virtual labs, simulations, and reflective assignments based on pedagogical journal articles](virtual-labs-simulations-journal-article-reflection-labs.md)
 
 ## Examples
 -

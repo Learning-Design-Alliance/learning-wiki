@@ -67,6 +67,7 @@ Concept probing operationalizes the principle that new learning is constructed f
 - [Assess conceptual learning from programming exercises with an animated Force Concept Inventory administered immediately before and after each exercise](animated-fci-pre-post-assessment-strategy.md)
 - [Recast and animate concept-inventory-style assessment questions to match the look and feel of the programming exercises](animated-recast-bema-assessment-strategy.md)
 - [Train teachers to diagnose intuitive conceptions and misconceptions with concept tests in their own classrooms](concept-tests-misconception-diagnosis-strategy.md)
+- [Adjust teaching and learning to reinforce concepts flagged by pre-test misconception data](adjust-teaching-from-pretest-misconception-data.md)
 
 ## Examples
 - **Force Concept Inventory (FCI)** — Hestenes, Wells, & Swackhamer's (1992) diagnostic instrument whose distractors encode common Newtonian misconceptions; widely used to probe and re-probe mechanics understanding in physics courses. [https://www.physport.org/assessments/assessment.cfm?A=FCI](https://www.physport.org/assessments/assessment.cfm?A=FCI)

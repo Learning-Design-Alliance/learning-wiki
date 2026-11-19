@@ -59,3 +59,4 @@ Theoretical argument reviewing expertise research: adaptive experts' knowledge i
 - [New information fitting an existing schema is consolidated into neocortex more rapidly](schema-based-prior-knowledge-rapid-consolidation.md) — related
 - [After deep explanation of recoil, 18 students reported learning something new and benefiting from the discussion](post-instruction-students-receptive-recoil-discussion.md) — a narrower finding that bears on this claim
 - [Informal interviews indicated that problem modifiers showed deep understanding and transfer to novel difficult scenarios](problem-modding-transfer-interviews.md) — a narrower finding that bears on this claim
+- [Teaching science theory intimately connected to techniques and applications would facilitate students' persistence in grappling with difficult concepts such as quantum mechanical principles](theory-technique-connection-persistence.md) — related

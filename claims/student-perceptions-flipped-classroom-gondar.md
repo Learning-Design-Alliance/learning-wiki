@@ -60,3 +60,4 @@ Descriptive survey of the 50 flipped classroom students using a validated 5-poin
 - [Flipped classroom freed class time for guiding students through more advanced and engaging materials](flipped-classroom-time-for-advanced-materials.md) — related
 - [Technology-enhanced pre-instructional peer assessment helps students prepare for new content acquisition in the following lesson, per students' perceptions](pre-instructional-peer-assessment-prepares-content-acquisition.md) — related
 - [Most students in a large numerical analysis class reported that clicker questions helped them better understand lecture material](clickers-improve-perceived-understanding-numerical-analysis.md) — related
+- [Students valued the flipped classroom positively (6.2) and the follow-up sessions (6.4) but preferred traditional teaching](student-satisfaction-flipped-physics.md) — reports the opposite

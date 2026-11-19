@@ -49,3 +49,4 @@ First iteration of the authors' iterative development-and-evaluation cycle: six 
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [After the futures-and-quantum-computing course, upper-secondary students reported a more optimistic or hopeful outlook on the future](course-fostered-optimistic-futures-outlook.md) — related
 - [Most second-year students misinterpret quantum uncertainty as measurement error rather than an intrinsic property](quantum-uncertainty-misread-as-measurement-error.md) — related
+- [The UNSW Quantum Communications course grew from some 20 students in its first year to a maximum of 120, and the authors attribute an enormous boost to the 2016 Micius satellite launch.](quantum-communications-enrolment-growth-micius.md) — related

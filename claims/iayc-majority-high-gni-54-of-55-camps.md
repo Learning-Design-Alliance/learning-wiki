@@ -48,3 +48,4 @@ Historical participation analysis of all 55 IAYC camps using GNI per capita (cut
 - [Low-GNI-country participation is higher when the camp is hosted in a low-GNI country](low-gni-participation-higher-with-low-gni-host.md) — related
 - [A cost feedback loop risks making IAYC leadership and participation exclusive to high-GNI nationalities](iayc-cost-feedback-loop-exclusivity.md) — related
 - [The proportion of IAYC participants from low-GNI countries has trended downward since 2007](low-gni-share-downward-trend-since-2007.md) — related
+- [Unique nationalities represented at the IAYC steadily and significantly increased, adding roughly five nationalities per decade without increasing total participants](iayc-nationalities-increasing-trend.md) — related

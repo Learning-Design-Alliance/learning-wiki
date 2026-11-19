@@ -56,3 +56,4 @@ Qualitative findings from two 1-hour focus groups with youth ages 14-18, facilit
 - Research on childhood screen use falls into three distinct periods: pre-2016 focused on addiction and health, 2016–2020 on educational applications and the role of families, and post-2020 on negative repercussions for identity construction, health, well-being, and behaviour. — related
 - [63.9% of students experienced increased stress or anxiety from pre-class tests](pre-class-tests-increase-stress-anxiety.md) — related
 - [Higher social media use and screen time are significantly associated with poorer mental health among tertiary students in Ghana](social-media-screen-time-poorer-mental-health-ghana-tertiary.md) — related
+- [Students reported decreased focus and motivation as the most significant negative effect of online classes, alongside mental-health concerns](online-focus-motivation-decline.md) — related

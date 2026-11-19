@@ -17,7 +17,7 @@ sources:
 # Run weekly Zoom training and feedback sessions with instructor stipends to support adoption of a shared lab curriculum
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 2 studies (2 design), `q2` · 0 of 2 report an effect size
 
 ## Description
 Each fall the project offers weekly Zoom training sessions for adopting instructors, reviewing one lab per week, with sessions recorded for instructors with time conflicts or adopting off-semester. Each spring, weekly Zoom sessions for instructors who have already implemented OPIS! review curricular and software updates and collect detailed feedback. NSF IUSE funding provides "up to $3,500 for at least 35 adopting instructors to learn and implement the curriculum at their institution", including administering pre/post surveys to their students.

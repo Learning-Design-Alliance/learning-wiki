@@ -71,3 +71,4 @@ The same simulation traced for discrimination (Fig. 7) and learner ability (Fig.
 - [Both item-level and test-level analyses indicate the MAP Growth measurement scales are remaining stable](map-growth-scales-remaining-stable.md) — related
 - [Copying occurs on average about 12% of initial submissions nearly independent of ability, while low-ability students guess more than high-ability students](copying-12-percent-guessing-ability-dependent.md) — related
 - [Introducing the learner traits stabilizes item parameter estimates: difficulty divergence is absorbed and more items show positive discrimination](learner-traits-stabilize-item-parameters.md) — related
+- [System accuracy degrades progressively as noise increases, reaching zero accuracy at 98% noise](bci-accuracy-degrades-to-zero-at-98-percent-noise.md) — related

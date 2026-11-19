@@ -52,3 +52,4 @@ Post-instruction survey in the transformed ENG-INT course (response rate ~90% of
 - [One semester of modern physics instruction significantly shifts student reasoning toward quantum-specific justifications on a measurement statement.](modern-physics-instruction-shifts-quantum-reasoning.md) — related
 - [The demonstration positively impacted students' interest in physics and promoted appreciation of quantum mechanics' role in modern industry, per written evaluations](demo-boosts-interest-physics-quantum-industry-appreciation.md) — related
 - [After the visit, students describe learning quantum physics as more useful, interesting or important, and almost none become more negative](learning-quantum-valued-more-positively-after-visit.md) — related
+- [A two-part unit on representation in STEM in Modern Physics for Engineers elicits largely positive student reactions](representation-unit-positive-reactions.md) — related

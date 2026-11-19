@@ -58,3 +58,4 @@ Questionnaire analysis of about 500 students attending the Pisa Masterclass from
 - [Among students wanting a scientific career, more male than female students think they have a talent for science (about 40% vs 20%)](masterclass-talent-self-perception-gender-gap.md) — related
 - [The Einstein-First programme improved students' interest in physics, with female students' interest rising from 50% to nearly match males' initial 80%](einstein-first-female-interest-increase.md) — related
 - [Most surveyed students say they are interested in science although most do not intend to become a scientist](interested-in-science-not-scientist-career.md) — related
+- [The authors claim some students who attended the astrophysics Masterclass later enrolled in the Physics degree course, as an orientation effect](masterclass-orientation-to-physics-degree.md) — related

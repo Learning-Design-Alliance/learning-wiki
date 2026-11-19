@@ -49,6 +49,7 @@ The authors recommend calibration support tools that "go beyond merely presentin
 - [Develop AI literacy frameworks that build metacognitive awareness distinguishing system-assisted performance from independent competence](metacognitive-ai-literacy-frameworks.md)
 - [Use think-aloud protocols and reflection journals to bridge the gap between perceived and actual success](think-aloud-reflection-journals-success-gap.md)
 - [Incorporate reflective practices, feedback mechanisms, and pre/post ADKS assessment into training to foster accurate self-assessment of dementia knowledge](reflective-practices-accurate-self-assessment-strategy.md)
+- [Provide proactive feedback support for low-achieving student groups rather than waiting for requests](proactive-feedback-support-hl-ll-groups.md)
 
 ## Examples
 -

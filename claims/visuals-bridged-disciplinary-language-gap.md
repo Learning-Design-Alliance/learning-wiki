@@ -50,3 +50,4 @@ Transcript analysis of the three focus groups found science students reasoned th
 - [Finding the right visual metaphors was key to students interpreting scientific concepts accurately without being too literal](metaphor-finding-key-art-science-interpretation.md) — a narrower finding that bears on this claim
 - [Students avoided metaphorical visualizations they perceived as childish or insufficiently rigorous, signaling disciplinary legitimacy concerns even when the tools could help them](legitimacy-disciplinary-identity-resistance.md) — related
 - [Identical representational designs produced wide individual variation in what felt helpful versus overwhelming (representational fit)](representational-fit-individual-variation.md) — related
+- [Students' game drawings expressed abstract scientific concepts and led teammates to guess correctly, including words the students had not seen in class](drawings-express-abstractions-guessed.md) — related

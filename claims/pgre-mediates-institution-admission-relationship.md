@@ -50,3 +50,5 @@ Bootstrapped mediation analysis (5000 bootstrap samples, percentile 95% CIs) wit
 - [The physics GRE partially mediates the relationships between gender and admission and between race and admission, and GPA partially mediates the race–admission relationship but not the gender–admission relationship](pgre-gpa-mediate-demographic-admission.md) — related
 - [Physics GRE score and undergraduate GPA are the only meaningful admissions factors at the studied program](physics-gre-and-gpa-only-meaningful-admissions-factors.md) — related
 - [For physics GRE scores of 900 and above, applicants from the largest or most selective universities are admitted at higher rates than applicants from smaller universities](top-scores-advantage-large-selective-applicants.md) — related
+- [The physics GRE score was the only rubric construct differing by undergraduate program size regardless of how larger programs were defined](rubric-program-size-physics-gre-only-robust.md) — related
+- [Only the general GRE and physics GRE rubric scores differed between applicants from more or less selective undergraduate institutions](rubric-selectivity-differences-gre-only.md) — related

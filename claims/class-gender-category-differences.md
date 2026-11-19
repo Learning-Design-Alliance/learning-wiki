@@ -52,3 +52,4 @@ The article reports this second-hand from Adams et al. (reference 3), the CLASS 
 - [Men showed a significant negative CLASS shift in the sense making or effort category](men-negative-shift-sense-making-effort.md) — related
 - [No significant difference between Uruguayan teachers and teacher-training students in Confidence in problem solving](no-teacher-trainee-difference-problem-solving-confidence.md) — related
 - [Problem-solving-general favorability (PSGeneralFav) is the strongest and most significant CLASS predictor of change in TUG-K scores, while real-world connection and sensemaking variables are not significant](psgeneralfav-strongest-predictor-tug-k-change.md) — related
+- [The Sense Making/Effort category shows a borderline, less noticeable difference between life-science and physical-science students (p=0.02, effect size 0.4)](sense-making-effort-borderline-difference.md) — related

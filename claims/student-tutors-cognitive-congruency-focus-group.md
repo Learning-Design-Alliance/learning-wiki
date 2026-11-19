@@ -52,3 +52,4 @@ Semi-structured focus group interview with randomly selected first-year students
 - [Student tutors are rated as more cognitively congruent than staff tutors in problem-based tutorial groups](student-tutors-more-cognitively-congruent-than-staff.md) — related
 - [Staff-tutored tutorial groups achieve slightly but significantly higher marks than peer-tutored groups in problem-based learning](staff-tutoring-small-achievement-advantage-pbl.md) — related
 - [Students taught by rigorously selected and well trained student tutors show no significant achievement differences from students taught by staff tutors in first-year PBL courses](student-tutors-no-achievement-difference-pbl.md) — related
+- [High-attendance, high-achieving students made good use of tutor feedback to explain automated feedback that was difficult to understand](hh-group-tutor-feedback-explains-automatic-feedback.md) — related

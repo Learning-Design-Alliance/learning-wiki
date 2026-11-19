@@ -67,3 +67,4 @@ Same gender-split 3-way ANCOVAs of the matched E-CLASS data; student major signi
 - [A statistically significant interaction between gender and instructional approach indicates the benefit of Transformed courses was larger for women than men](gender-by-instruction-interaction-women-benefit-more.md) — related
 - [Gender is a significant predictor of post-instruction E-CLASS means in Traditional courses only, with men's adjusted means higher than women's](gender-predictor-traditional-courses-only.md) — related
 - [In the aggregate national E-CLASS data, women score significantly lower than men on overall scores both pre- and postinstruction, with a moderate effect size](eclass-aggregate-gender-gap-women-lower.md) — related
+- [Men scored higher than women on post E-CLASS scores, controlling for pre E-CLASS, high school GPA, and lab factors](men-higher-post-e-class-than-women.md) — related

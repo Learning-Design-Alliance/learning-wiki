@@ -69,3 +69,4 @@ Narrative review attributing this to Nussbaum y colaboradores: primary pupils "n
 - [Misconceptions can lead to other misconceptions as students interpret new concepts](misconceptions-interact-and-lead-to-other-misconceptions.md) — related
 - [Primary students hold characteristic misconceptions about air and air pressure](primary-students-air-pressure-misconceptions.md) — related
 - [Incorrect answers about gravity on the moon remained comparable pre- and post-course (26% vs 24%), a topic not directly assessed in the course](gravity-misconceptions-unchanged-not-assessed.md) — related
+- [Prior to intervention, pupils showed poor understanding of gravity as interaction but good grasp of Euclidean geometry basics](prior-knowledge-gravity-effects-euclidean-basics.md) — related

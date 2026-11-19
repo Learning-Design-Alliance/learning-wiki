@@ -40,6 +40,7 @@ RTU places its astronomy students' practicum at international partner institutio
 ## Related Strategies
 
 - [Support a long-term community engagement program whose form best matches the partner institution, such as guest speaker programs, outreach seminar courses, internships, or joint events](long-term-engagement-program-forms.md)
+- [Partner with companies and national laboratories to provide students internships, networking, and research experiences](academia-industry-qist-internship-partnerships.md)
 
 ## Examples
 -

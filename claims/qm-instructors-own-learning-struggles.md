@@ -89,3 +89,4 @@ Five instructors "mentioned working very hard and relying on teaching themselves
 - [Instructors' major concern is students' conceptual difficulties in QM, which one instructor viewed as avoidable in many situations if inaccurate descriptions are not taught](qm-instructors-conceptual-difficulties-primary-concern.md) — related
 - [First-year graduate students performed poorly on the QMS despite doing well on quantitative graduate exams](graduate-students-lack-qm-conceptual-understanding.md) — related
 - [Graduate students share common difficulties with basic quantum mechanics concepts regardless of university](universal-quantum-concept-difficulties-grad-students.md) — related
+- [Some instructors report that prior quantum mechanics exposure is not a good indicator of student performance in introductory QIS courses](prior-qm-exposure-not-performance-indicator.md) — related

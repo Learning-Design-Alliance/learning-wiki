@@ -54,3 +54,4 @@ The report's narrative synthesis, citing Goupil & Proust and Csikszentmihalyi, s
 - [The relationship between effort and meaning follows an inverted U-shape: moderate friction enhances meaning and motivation while excessive friction overwhelms](effort-meaning-inverted-u-shape.md) — a broader claim this one bears on
 - [Struggle maintained just along the edge of understanding entices learners to strive further, while excessive struggle may demoralize](struggle-edge-of-understanding-balance.md) — related
 - [Practicing qualitative methods is fast and intuitive, boosting learner self-esteem and helping students and professionals navigate information overload](qualitative-methods-build-self-esteem-navigation.md) — related
+- [The article argues that art's appeal to human emotions supports long-term memory and provokes curiosity, motivating its use in astronomy education](art-emotions-long-term-memory-astronomy-education.md) — related

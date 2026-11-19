@@ -64,6 +64,7 @@ Perspective-taking tasks deepen narrative comprehension by requiring learners to
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — pre-reading work on characters' social worlds improves the quality of perspective models
 - [Model social imagination of fictional characters' perspectives using connection stems, character-focused questions, and letters to characters](model-social-imagination-connection-stems.md)
 - [Use fiction-based cases — short stories with correct or deliberately mixed science, dialogues, and novel-versus-movie comparisons — to teach physics and astronomy content](fiction-based-case-strategy.md)
+- [Use science fiction works in astronomy teaching as introductory points, class discussion bases, or troubleshooting cases](sci-fi-as-intro-discussion-troubleshooting-strategy.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — supplies the shared text

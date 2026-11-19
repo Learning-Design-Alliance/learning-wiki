@@ -56,3 +56,5 @@ Five-question views questionnaire given only at the end of the programme (Table 
 - [Adults attending a public outreach workshop showed near-universal support for teaching Einsteinian physics in school, with 100% agreement that everyone should have the chance to know about gravity and light](pow-adults-support-einsteinian-curriculum.md) — related
 - [94% of participating students gave positive comments on the effectiveness of the physics simulation](student-feedback-94-percent-positive.md) — related
 - [Nine of eleven follow-up participants said the primary Einsteinian physics intervention prepared them for future science learning](intervention-prepared-future-science-learning.md) — related
+- [Pupils enjoyed the Einsteinian physics activities, answering the attitude research question positively](pupil-enjoyment-einsteinian-activities.md) — related
+- [Year 3 students (ages 7-8) demonstrated substantial uptake of Einsteinian physics concepts after a nine-lesson intervention](year-3-students-learn-einsteinian-concepts.md) — related

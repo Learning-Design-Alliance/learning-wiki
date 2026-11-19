@@ -50,3 +50,4 @@ Survey of 46 former enquiry-based learning students: 70.3% reported post-course 
 - [Students retrospectively evaluated group processing as time well spent and vividly remembered it years later](group-processing-retrospectively-valued-time-well-spent.md) — related
 - [Participants reported significant improvement in their ability to deliver, receive, and implement feedback between the seminar and the time of survey](group-processing-improves-feedback-delivery-reception-implementation.md) — related
 - [The online seminar with preparatory case processing was rated positively for deepening understanding and enabling active participation](online-seminar-case-preparation-positive-ratings.md) — related
+- [Former students reported the problem-solving template transferred to later engineering courses and that they felt better equipped to tackle complex problems](interviews-template-transfer-confidence.md) — related

@@ -49,3 +49,4 @@ Authors' observational interpretation from the discussion section, not a separat
 - [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — related
 - [Teachers observed that cooperative learning boosted participation, confidence, and motivation, including among weak and shy students](cooperative-learning-teacher-observations-participation-confidence.md) — related
 - [Online chat and polls encouraged students, including shy students, to express misconceptions without fear of disrupting the class](chat-and-polls-encourage-misconception-expression.md) — related
+- [Two of three high-attendance, medium-achievement students would not ask the tutor for help because they were shy](hm-group-shyness-avoided-tutor-help.md) — related

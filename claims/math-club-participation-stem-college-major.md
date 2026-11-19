@@ -56,3 +56,4 @@ Logistic regression and propensity-matched models predicting STEM major selectio
 - [Research participation is significantly positively associated with job competency among public health students after propensity score matching](research-participation-associated-with-job-competency-public-health-students.md) — related
 - [Propensity score matching confirms the negative association of low self-esteem with math achievement across three matching strategies](psm-low-self-esteem-math-robustness.md) — related
 - [KSX participation is associated with substantially higher MOOC completion rates (64.9% vs 6.4%), persisting after propensity score matching](ksx-participation-higher-mooc-completion.md) — related
+- [Participation in the North Carolina Science Olympiad significantly influenced high school students' college, major, and STEM career choices](nc-science-olympiad-influenced-stem-choice.md) — related

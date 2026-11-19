@@ -72,3 +72,5 @@ MANOVA at the beginning of algebra-based Physics 1 on the same six motivational 
 - [The gender gap in self-efficacy and interest remains stable from physics 1 to physics 2 in algebra-based courses, unlike calculus-based courses where it grows](gender-gap-stable-physics1-physics2-algebra-based.md) — related
 - [Male students rated their performance perception significantly higher than female students in three of four courses, but rated it equal in algebra-based mechanics](performance-perception-male-higher-three-courses.md) — related
 - [Grit is the only motivational factor on which female students report averages equal to or higher than male students throughout introductory physics](grit-females-equal-or-higher-physics.md) — related
+- [Physics self-efficacy of both men and women decreased over the semester, with a smaller decrease for women](physics-self-efficacy-decrease-semester.md) — related
+- [A short beginning-of-semester social-psychological intervention closed the gender gap in performance in an introductory calculus-based physics course](short-belonging-intervention-closed-gender-gap-physics.md) — related

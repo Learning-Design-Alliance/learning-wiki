@@ -102,3 +102,4 @@ Single cross-sectional simulation study (Silva et al. 2011) comparing a six-stat
 - [Both clinical reasoning outcome measures showed limited validity: weak construct and poor predictive validity](clinical-reasoning-measures-limited-validity.md) — related
 - [Stratified self-assessment showed no correlation with OSCE scores for either the shoulder (0.02) or the knee (−0.07)](osce-self-assessment-no-correlation.md) — related
 - [Case report marks correlated with academic rather than clinical performance, questioning their validity as clinical indicators](case-reports-correlate-with-academic-not-clinical-performance.md) — related
+- [All P1–P6 exam question scores correlated positively and relatively strongly with the overall CSR exercise grade](pearson-correlations-question-exercise-grade.md) — related

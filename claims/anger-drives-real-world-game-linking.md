@@ -50,3 +50,4 @@ Qualitative episode analysis of Red City's first gameplay episode in the City Se
 - [Groups' anger-talk proportion was inversely related to science-talk proportion across two teams](anger-science-talk-inverse-groups.md) — related
 - [Anger did not preclude high science talk: the most anger-expressing Red City student also had the group's highest science-talk proportion](anger-compatible-with-science-talk.md) — related
 - [Individual anger trajectories rose alongside science talk until an inflection point, after which engagement dropped sharply](individual-anger-inflection-lisa.md) — related
+- [Game-based learning proved the best of the three tested teaching approaches in online Microcontrollers laboratories](game-based-learning-best-in-eeg-monitored-microcontroller-labs.md) — related

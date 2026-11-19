@@ -48,6 +48,7 @@ Every HSF training event is accompanied by a structured feedback loop. Participa
 - [Formative Assessment Loops](formative-assessment-loops.md)
 - [Debriefing](debriefing.md)
 - [Scale training sustainably through geographic spread, online delivery, community growth and a supported core team](sustainable-scaling-of-community-training-program.md)
+- [Build a voluntary mentor community in which participants become mentors and feedback into the training system](hep-participants-become-mentors-community.md)
 
 ## Examples
 -

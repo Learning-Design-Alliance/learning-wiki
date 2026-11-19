@@ -64,6 +64,7 @@ Awareness of one's own biases is a necessary but insufficient first step; meta-a
 - [Structural, school-level approaches to address teachers' explicit immigration attitudes](structural-school-level-attitude-interventions.md)
 - [Future research should measure both explicit stereotypes and implicit bias toward students with learning problems](measure-explicit-and-implicit-teacher-bias.md)
 - [Institutional debiasing: give teachers time to reflect on biases, reduce cognitive load and provide clear evaluation rubrics, and use values affirmation to lower defensiveness](institutional-teacher-debiasing-strategy.md)
+- [Blind identifying and demographic information in application evaluation to reduce implicit bias](blinded-application-evaluation-reduce-bias.md)
 
 ## Examples
 - **[Project Implicit](https://implicit.harvard.edu)** — Harvard-hosted IAT demonstrations used widely as a discussion prompt in educator professional development.

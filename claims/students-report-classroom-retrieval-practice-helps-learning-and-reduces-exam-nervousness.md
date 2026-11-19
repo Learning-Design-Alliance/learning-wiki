@@ -93,3 +93,4 @@ The commentary reports survey data attributed to Agarwal et al. (2014), presente
 - [Students reported positive experience with the tutor-web: 92% said they learned from it, but 82% preferred a mixture of tutor-web and written homework](tutor-web-student-survey-positive-mixed-preference.md) — related
 - [Most surveyed EoL-assignment students reported the frequent assignments helped them keep up, learn, and prepare, with reported gains in confidence and reduced anxiety](eol-assignments-student-feedback-confidence-anxiety.md) — related
 - [Student feedback was positive: 78% found teamwork helpful, 89% found programming the key challenge, and 89% wanted a follow-up camp](ev3-camp-student-feedback.md) — related
+- [Students preferred frequent, low-stakes assessments in online courses, citing feedback, low anxiety, and flexibility](frequent-low-stakes-assessments-preferred.md) — related

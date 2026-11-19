@@ -102,3 +102,4 @@ The article reports eye-tracking research (Wolff et al. 2016) showing novices' s
 - [More experienced professional monitors develop intuition for stream assessment quality, while less experienced monitors interpret protocol language literally](expert-intuition-rbp-assessment.md) — related
 - [The RBP protocol's subjectivity and imprecision compel monitors to rely on background knowledge and personal experience, and its scales can mislead](rbp-protocol-interpretation-challenges.md) — a narrower finding that bears on this claim
 - [Students focused mainly on the relevant visualization features of the Composer flowscene](composer-students-focus-relevant-features.md) — related
+- [Novices fixate the middle capacitor circuit while experts also attend the upper coil circuit; upper-circuit focus correlates weakly, non-significantly with electricity knowledge (r=0.41)](novice-expert-gaze-differences-electric-circuit.md) — a narrower finding that bears on this claim

@@ -13,7 +13,7 @@ generated:
 # Digital Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 98 claims (72 show a difference, 13 mixed, 13 no difference) · 76 studies (24 associational, 16 causal, 10 review, 10 qualitative, 7 design, 5 theoretical, 4 quant-synthesis), `q1`–`q4` · 11 of 76 report an effect size · 96 claims rest on one study
+> **Evidence** · 99 claims (73 show a difference, 13 mixed, 13 no difference) · 77 studies (24 associational, 16 causal, 11 qualitative, 10 review, 7 design, 5 theoretical, 4 quant-synthesis), `q1`–`q4` · 11 of 77 report an effect size · 97 claims rest on one study
 
 ## Description
 Whether a learner can *operate* the interface — distinct from [access](access.md), which is whether they can load it at all. It covers navigation, file handling, knowing what is clickable, and the confidence to explore without fear of breaking something. Every course here is delivered digitally, so this is never out of scope, and it is the dimension most often assumed away: a designer fluent in the interface cannot see it.
@@ -132,6 +132,7 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [Students displayed cognitive computational literacy practices: modeling, visualization of abstract phenomena, and repeated simulation runs across parameter values](../claims/students-cognitive-computational-literacy-practices-visualization-iteration.md) [+M] — measured as an outcome of the instruction studied
 - [Undergraduate physics students in a computational essay project demonstrated material computational literacy practices including debugging, tinkering, and algorithmic thinking](../claims/students-demonstrate-material-computational-literacy-practices.md) [+M] — measured as an outcome of the instruction studied
 - [Most pre-service teachers report Jupyter helped their understanding, improved their digital skills, and has transfer potential to other subjects](../claims/jupyter-positive-personal-reflections-pre-service.md) [+M] — measured as an outcome of the instruction studied
+- [Students without prior experience in the integrated programming language felt behind and disadvantaged in computational activities, even with other computational background](../claims/no-prior-language-experience-feeling-behind.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners who differ in digital literacy differ in learning, engagement and later outcomes?* [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](../claims/digital-literacy-gaps-span-demographics.md) [+M]

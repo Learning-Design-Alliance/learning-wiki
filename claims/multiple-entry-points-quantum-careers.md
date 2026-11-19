@@ -1,0 +1,50 @@
+---
+type: claim
+title: The linear PhD-only path will not be the only route to quantum careers; multiple entry points are needed
+description: The linear PhD-only path will not be the only route to quantum careers; multiple entry points are needed
+id: multiple-entry-points-quantum-careers
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-19
+evidence_strength: weak
+newest_evidence: 2022
+sources:
+  - id: maninder-kaur-2022
+    resource: "https://doi.org/10.1117/1.oe.61.8.081806"
+    title: "Maninder Kaur, Araceli Venegas-Gomez. (2022). Defining the quantum workforce landscape: a review of global quantum education initiatives. [doi:10.1117/1.oe.61.8.081806](https://doi.org/10.1117/1.oe.61.8.081806)"
+    author: Maninder Kaur, Araceli Venegas-Gomez
+    q: 1
+    i: "?"
+    kind: review
+    rigour: 2
+---
+
+# The linear PhD-only path will not be the only route to quantum careers; multiple entry points are needed
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q1 i?` The authors argue the current linear path of earning a specialized PhD will eventually not be the only path, and academic programs should be designed with multiple entry points including pre-college exposure, certificates, and field training. [→ Maninder Kaur 2022](#maninder-kaur-2022)
+
+## Evidence
+
+### Maninder Kaur 2022
+
+Maninder Kaur, Araceli Venegas-Gomez. (2022). Defining the quantum workforce landscape: a review of global quantum education initiatives. [doi:10.1117/1.oe.61.8.081806](https://doi.org/10.1117/1.oe.61.8.081806)
+
+`q1 · i?` · `review · r2`
+
+Authors' interpretive argument about career pathways, presented as Fig. 3 mapping academic graduates' routes to quantum industry employment. The article argues the current "linear learning path" via specialized PhD "will eventually not be the only path" to a quantum-ready workforce.
+
+> "It is imperative to say that the current linear learning path pursued by graduates to ﬁnd a career in quantum-related industries, i.e., earning a PhD with a specialization in QIST and/or research experience gained in a related ﬁeld, will eventually not be the only path to satisfy the requirements of a quantum-ready workforce."
+
+## Discussion
+
+
+## Related Claims
+- [The article argues that undergraduate quantum engineering programs achieve professional formation in half the time compared to a Bachelor of Engineering combined with a PhD, easing quantum companies' difficulty filling entry-level positions.](undergraduate-quantum-engineering-halves-formation-time.md) — a narrower finding that bears on this claim
+- [Deep knowledge of quantum information science theory is not a necessary or sufficient requirement to work in the quantum industry; classical physics and engineering skills are highly valued](classical-skills-valued-over-deep-qis-theory.md) — related
+- [Higher education feeds the quantum industry mainly through physics degrees, with most companies reporting at least one physics Ph.D. employee who often moves into engineering roles](physics-phd-dominant-quantum-workforce-pipeline.md) — related

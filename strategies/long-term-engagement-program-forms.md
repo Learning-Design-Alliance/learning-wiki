@@ -52,6 +52,7 @@ The whitepaper proposes that "Along­termcommunityengagementprogramshouldbesuppo
 - [Passion-based seminar program culminating in senior internships](passion-based-seminar-program-senior-internships.md)
 - [Build a College Promise team spanning internal campus units and external cross-segment and cross-sector partners](cross-segment-cross-sector-promise-team.md)
 - [International practicum placements at partner astronomical research institutions for astronomy undergraduates](international-practicum-astronomy-research-institutes.md)
+- [Partner with companies and national laboratories to provide students internships, networking, and research experiences](academia-industry-qist-internship-partnerships.md)
 
 ## Examples
 -

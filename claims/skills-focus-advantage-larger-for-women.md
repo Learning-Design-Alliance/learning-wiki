@@ -71,3 +71,4 @@ Three separate 3-way ANCOVAs split by course focus; in skills-focused courses "h
 - [First-year students in skills-focused lab courses had higher postinstruction overall E-CLASS scores than students in concepts-focused courses](skills-focused-labs-higher-post-eclas-scores.md) — related
 - [After controlling for preinstruction scores, course level, and major, gender significantly predicts postinstruction E-CLASS scores only for first-year students and only for non-physics majors](eclass-ancova-gender-predictor-fy-nonphysics-only.md) — related
 - [A statistically significant interaction between gender and instructional approach indicates the benefit of Transformed courses was larger for women than men](gender-by-instruction-interaction-women-benefit-more.md) — related
+- [Men scored higher than women on post E-CLASS scores, controlling for pre E-CLASS, high school GPA, and lab factors](men-higher-post-e-class-than-women.md) — related

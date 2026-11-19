@@ -45,7 +45,8 @@ The article recommends displaying a honor code reminder during an unproctored on
 - [Privacy-non-invasive anti-cheating interventions do not significantly affect user experience or emotional experience in unproctored online tests](../claims/interventions-no-ux-emotion-effect.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Change assessment approaches under emergency online conditions: low-stakes assessments, group projects, honor-code exams, and equitable grading accommodations](flexible-online-assessment-low-stakes-group-projects-equity.md)
 
 ## Examples
 -

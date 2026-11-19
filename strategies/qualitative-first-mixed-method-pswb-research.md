@@ -47,6 +47,7 @@ The article recommends future study be pre-empted by qualitative designs to info
 
 - [Future bilingualism research should combine mixed-method designs, multiple data collection tools and analysis methods, and larger samples](bilingualism-future-research-mixed-method-larger-samples.md)
 - [Combine qualitative and quantitative methods with theory-based analysis when evaluating exchange programs](combine-qual-quant-theory-based-exchange-evaluation.md)
+- [Evaluate interdisciplinary course success with triangulated quantitative and qualitative measures, including pre/post tests, rubric-tracked journals, and an in-class ethics conference](pose-triangulated-course-evaluation-plan.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Model comparison of four cross-lagged path models (A–D) using RMSEA, CFI, TLI,
 - [Parental involvement and early adolescents' academic performance are reciprocally associated over one year in China](reciprocal-parental-involvement-academic-performance-china.md) — related
 - [Adding cross-lagged effects significantly improves model fit over autoregressive models for every model tested](cross-lagged-improve-fit-over-autoregressive.md) — a broader claim this one bears on
 - [The reciprocal relations model fits better than unidirectional alternatives, supporting reciprocal causation between emotions and achievement](reciprocal-model-superior-fit.md) — related
+- [Reciprocal collaborative ties bring higher performance returns in elementary education, while unidirectional ties are negatively related to grades](reciprocal-ties-higher-performance-elementary.md) — related

@@ -54,3 +54,4 @@ Distributional analysis of 3,893 student-semester pairs and 42,695 homework subm
 - [All four evaluated LLMs produce strongly bimodal item-level score distributions on bash exams, and rubric-enhanced prompts amplify the near-perfect-score peak](llm-bash-score-distributions-bimodal-v2-amplifies.md) — related
 - [Authorship scores were highly concentrated near the maximum of the rubric scale](authorship-ceiling-concentration.md) — related
 - [Flagged Spring 2026 students scored lower on all three exams than non-flagged peers, with performance declining as flagged assignments increased](flagged-students-lower-exam-scores-dose-response.md) — related
+- [Student written reports averaged 88 ± 9 and oral reports 89 ± 6 out of 100, close to the course average](student-report-scores-88-written-89-oral.md) — related

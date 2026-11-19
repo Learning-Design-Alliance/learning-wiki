@@ -45,6 +45,7 @@ Companies in the study requested that higher education provide "a one or two sem
 ## Related Strategies
 
 - [Support curriculum-industry links with invited industry speakers and extracurricular technology activities](industry-speakers-extracurricular-tech-activities.md)
+- [Industry quantum workforce strategy prioritizing short-, medium-, and long-term activities by quantum awareness level](industry-quantum-workforce-strategy-timeline.md)
 
 ## Examples
 -

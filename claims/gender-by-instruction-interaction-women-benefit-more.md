@@ -70,3 +70,4 @@ Gender-split 3-way ANCOVAs on the N = 3481 matched subsample, controlling for pr
 - [No interaction between lab-activity type and course level, major, or gender on postinstruction E-CLASS scores](no-interaction-open-ended-eclass.md) — reports the opposite
 - [In traditional guided-verification physics labs, no gender difference appears in the distribution of behaviour profiles](no-gender-difference-traditional-labs.md) — reports the opposite
 - [Transformed DATA Lab courses produced higher expert-like attitudes about experimental physics than traditional lab courses after controlling for incoming E-CLASS scores](data-lab-e-class-gains-over-traditional-labs.md) — related
+- [Men scored higher than women on post E-CLASS scores, controlling for pre E-CLASS, high school GPA, and lab factors](men-higher-post-e-class-than-women.md) — related

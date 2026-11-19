@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 313 claims (180 show a difference, 86 mixed, 47 no difference) · 248 studies (89 causal, 46 associational, 38 review, 26 design, 25 theoretical, 13 qualitative, 11 quant-synthesis), `q1`–`q4` · 40 of 248 report an effect size · 295 claims rest on one study
+> **Evidence** · 315 claims (182 show a difference, 86 mixed, 47 no difference) · 250 studies (89 causal, 47 associational, 38 review, 26 design, 25 theoretical, 14 qualitative, 11 quant-synthesis), `q1`–`q4` · 40 of 250 report an effect size · 297 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -361,6 +361,8 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Lower relative on-task expertise is associated with reduced inchargeness in a collaborative physics lab group](../claims/lower-on-task-expertise-reduced-inchargeness.md) [+W] — learners who differ on it differ in outcomes
 - [The module works for students across a wide range of prior technical backgrounds, as shown by the differing CrabSat and DiscoSat approaches](../claims/tuppersat-works-across-technical-backgrounds.md) [-W] — an instructional effect differs with it
 - [Increased context expertise facilitated both case study subjects' professional development trajectories](../claims/context-expertise-facilitates-faculty-growth.md) [+W] — learners who differ on it differ in outcomes
+- [Instructors identified students' lack of programming background as a barrier to learning with computation](../claims/programming-background-barrier.md) [+M] — learners who differ on it differ in outcomes
+- [Student performance in calculus-based physics I correlates with prior conceptual physics background more than with calculus-I proficiency](../claims/conceptual-physics-background-correlates-with-physics-i-performance.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

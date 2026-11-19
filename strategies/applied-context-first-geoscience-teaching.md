@@ -46,6 +46,7 @@ The article describes a teaching approach in which "The real-world example was a
 
 - [Assign student teams to research and present real mining case studies with peer evaluation](student-case-study-presentations-peer-evaluation.md)
 - [Concrete Examples](concrete-examples.md)
+- [Have students apply course techniques to actively investigate a real problem in an application area that appeals to their interests](real-problem-investigation-interest-areas.md)
 
 ## Examples
 -

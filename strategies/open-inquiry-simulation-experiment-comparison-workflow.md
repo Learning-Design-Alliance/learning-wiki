@@ -51,6 +51,7 @@ The article prescribes a recurring student workflow across its modules: "Develop
 - [Remix existing open source simulation models into inquiry learning environments matched to the local syllabus](remix-open-source-simulations-for-inquiry-strategy.md)
 - [Hands-on workshop sequence: study an existing model, modify it, then self-direct a personal customization project](ejs-hands-on-model-modification-workshop-strategy.md)
 - [Advertise the existence of secret objectives and challenge students to find them, then let students direct the investigation](advertise-secret-objectives-challenge-strategy.md)
+- [Use simulations, provided or student-directed data collection, and open-ended projects to preserve lab learning goals when hands-on equipment is unavailable](remote-lab-adaptation-strategies-simulations-data-projects.md)
 
 ## Examples
 -

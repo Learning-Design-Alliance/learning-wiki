@@ -71,6 +71,7 @@ Test anxiety is a situational form of state anxiety that consumes working-memory
 - [Use weekly formative quizzes during EFL listening instruction to support achievement and reduce anxiety](weekly-formative-quizzes-efl-listening-instruction.md)
 - [Offer a brief pre-assessment relaxation, breathing and positive-reinforcement session to reduce student anxiety before high-stakes performance examinations](brief-pre-osce-relaxation-session-strategy.md)
 - [Identify highly anxious adolescent girls and provide graduated coping supports, from lifestyle regulation to psychotherapy](identify-anxious-girls-coping-support-strategy.md)
+- [Change assessment approaches under emergency online conditions: low-stakes assessments, group projects, honor-code exams, and equitable grading accommodations](flexible-online-assessment-low-stakes-group-projects-equity.md)
 
 ## Examples
 - **Ramirez & Beilock (2011)**: Ninth-grade students wrote about their exam worries for 10 minutes before final exams; anxious students' performance improved to match non-anxious peers. [doi:10.1126/science.1199427](https://doi.org/10.1126/science.1199427)

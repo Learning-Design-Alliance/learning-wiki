@@ -52,6 +52,7 @@ The article recommends a "multi-faceted, ongoing assessment strategy" combining 
 - [Combine qualitative and quantitative methods with theory-based analysis when evaluating exchange programs](combine-qual-quant-theory-based-exchange-evaluation.md)
 - [Mixed-instrument evaluation plan combining efficacy and interest surveys, interviews, and a staged statistical analysis plan](stem-center-evaluation-instrument-plan.md)
 - [Evaluate school research-mentorship programs by collecting objective indicators, with interviews of students, teachers, and mentors](tan-q-interview-based-program-evaluation.md)
+- [Evaluate interdisciplinary course success with triangulated quantitative and qualitative measures, including pre/post tests, rubric-tracked journals, and an in-class ethics conference](pose-triangulated-course-evaluation-plan.md)
 
 ## Examples
 -

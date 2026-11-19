@@ -89,3 +89,4 @@ This is a single-case ethnography; every finding here describes one student's tr
 - [Students who complete open-inquiry preparation are reported to perform better during subsequent authentic research, though effectiveness is not yet formally assessed](inquiry-prep-reported-better-research-performance.md) — related
 - [Inquiry-based Real-Time Physics labs promoted peer discussion of physics concepts, but students struggled with troubleshooting and independent investigation](rtp-labs-promoted-peer-concept-discussion.md) — related
 - [Both IPLS and non-IPLS students struggled to articulate mechanistic explanations for the negative pressure in tree xylem](both-groups-struggle-negative-pressure-explanation.md) — related
+- [Students independently characterize sources after guided work on the first source, reaching the day's research objective](guided-to-independent-source-characterization.md) — related

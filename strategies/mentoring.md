@@ -74,6 +74,7 @@ Mentoring works because it combines [Coaching](../elements/coaching.md) with sus
 - [Pair deaf mentees with deaf mentors or mentors familiar with the Deaf community, and provide cultural competency training to mentors](deaf-know-mentor-pairing-strategy.md)
 - [Establish remote STEM mentoring for girls by matching tailored pairs, choosing proven communication tools, and educating both sides on role-specific challenges](remote-mentoring-implementation-lessons.md)
 - [Guide stage-based small groups through a five-year career planning path with senior mentors](five-year-career-planning-small-groups.md)
+- [Teach mentees effective cognitive and metacognitive strategies to scaffold their knowledge and skill development alongside encouragement](teach-effective-cognitive-metacognitive-strategies-mentoring.md)
 
 ## Examples
 - **[Big Brothers Big Sisters of America](https://www.bbbs.org)** — the most-studied youth mentoring program; its randomized evaluations shaped the "evidence-based practices" now standard in program design (training, monitoring, minimum 12-month commitment).

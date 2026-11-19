@@ -169,3 +169,4 @@ Structured-response survey item on hardware/software problem frequency; ten perc
 - [Students reported negative DGE experiences: technical issues, difficulty typing mathematical equations, and gaps in prerequisite knowledge](negative-dge-experiences-technical-prerequisite.md) — related
 - [Substantial minorities of faculty and students lacked access to hardware, software and reliable internet during the Spring 2020 online transition](logistical-access-challenges-online-transition.md) — possibly the same claim (merge candidate)
 - [About a quarter of surveyed NAC students lacked the technology needed for study or school-related work during 2020, prompting laptop shipping and coding boot camps](nac-students-lacked-remote-technology-access.md) — related
+- [Resource inequalities disadvantaged low-achieving students during virtual learning](resource-inequalities-la-students.md) — related

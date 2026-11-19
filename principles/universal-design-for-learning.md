@@ -35,7 +35,7 @@ sources:
 # Universal Design For Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (15 for, 7 mixed) · 35 studies (14 review, 7 causal, 5 quant-synthesis, 3 qualitative, 3 theoretical, 2 design, 1 associational), `q1`–`q4` · 6 of 35 report an effect size · 14 claims rest on one study
+> **Evidence** · 23 claims (16 for, 7 mixed) · 36 studies (14 review, 7 causal, 5 quant-synthesis, 4 theoretical, 3 qualitative, 2 design, 1 associational), `q1`–`q4` · 6 of 36 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,7 @@ Learners, tasks and outcomes differ across these claims (memory experiments, phy
 - [Teachers reported that audio supports promoted inclusivity by letting all students access the same content and discuss it together](../claims/audio-supports-inclusivity-shared-discussion.md) [+W] — attached 2026-10-09 from Tare et al. (2018), which proposed "Design features to the edges of learner variability to support all students".
 - [The package claims minimal technical English limits workplace training through comprehension, confidence and written-form difficulties](../claims/minimal-technical-english-limits-training.md) [+W]
 - [A 16-week universally designed online depth-of-vocabulary intervention improved standardized vocabulary knowledge relative to a control group in fifth graders](../claims/online-depth-vocabulary-intervention-improved-standardized-vocabulary.md) [+W] — attached 2026-10-15 from Proctor et al. (2011), which proposed "Design digital literacy interventions so bilingual learners can access all texts and activities in both of their languages".
+- [Proactive and reactive investment are complementary types of accessibility work, with proactive strategies benefiting all learners](../claims/proactive-reactive-investment-labs.md) [+W] — attached 2026-11-19 from D. R. Dounas-Frazer et al. (2021), which proposed "Incorporate Universal Design for Learning principles into the design and implementation of laboratory courses and activities".
 
 ## Objective and learner-valued goal
 

@@ -46,6 +46,7 @@ Videoconferencing technologies allow simulation scenarios with participants in d
 - [Temporal social distancing with video recording: run participants sequentially, record scenarios, and combine into a shared debrief to build a shared mental model](temporal-social-distancing-video-recording-debrief.md)
 - [Virtual training via computer-based simulation exercises for off-site or at-home team training, with a development-time caveat](virtual-training-computer-based-simulation-covid19.md)
 - [Optimize remote feedback quality by reducing group size and improving audio/video equipment](optimize-remote-feedback-quality-strategy.md)
+- [Recruiting geographically diverse guest lecturers via videoconferencing for a remote course](videoconference-guest-lecturer-recruitment.md)
 
 ## Examples
 -

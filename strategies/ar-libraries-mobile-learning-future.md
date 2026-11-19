@@ -49,6 +49,7 @@ In its future-research outlook, the article recommends "Розробка окр�
 
 - [Use prepared-marker scenes for classroom AR and additional hardware sensors (gyroscopes, GPS, compasses) for unprepared out-of-classroom scenes](prepared-vs-unprepared-ar-scenes-strategy.md)
 - [Strengthen interinstitutional collaboration and investigate emerging technologies (3D printing, augmented reality) in simulation-based medical education research](strengthen-collaboration-emerging-technologies-strategy.md)
+- [Build a dynamic function-generation system so teachers can draw arbitrary 2D or 3D graphs without printing new markers](dynamic-function-generation-teacher-authored-vr-graphs.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Pre-post results from broad epistemological expectation surveys (MPEX, C-LASS, C
 - [CLASP students' expert-like epistemologies (MPEX-II) were statistically unchanged over the quarter, unlike the declines reported for most standard and many reformed physics classes](clasp-mpex-epistemologies-unchanged.md) — related
 - [Attitudes toward science may be less deeply ingrained than attitudes toward learning, which prior studies found tend to decline or remain unchanged](attitudes-toward-science-less-deeply-ingrained.md) — related
 - [MPEX Reality Link scores typically deteriorate over a semester of physics instruction](mpex-reality-link-negative-shift-instruction.md) — a narrower finding that bears on this claim
+- [First-year life-science students enter university with epistemological attitudes about science farther from expert agreement than physical-science students, despite similar high-school physics training](life-sciences-students-class-expert-gap.md) — related

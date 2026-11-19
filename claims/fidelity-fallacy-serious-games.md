@@ -114,3 +114,4 @@ The chapter reports, citing prior systematic reviews, that the assumption that m
 - [Students overwhelmingly preferred the VR condition as their favorite learning method regardless of which condition they studied in](students-overwhelmingly-prefer-vr-moon-phases.md) — related
 - [Low fidelity prototypes support design learning while high fidelity prototypes can hinder fluency](low-fidelity-prototyping-supports-design-learning.md) — a narrower finding that bears on this claim
 - [Realistic virtual environments advance motivational and attitudinal objectives but have not yet proven to enhance conceptual understanding of SRT](realistic-virtual-environments-motivational.md) — a narrower finding that bears on this claim
+- [The authors hypothesize, without reported evidence, that VR techniques significantly increase students' level of understanding of mathematics](vr-hypothesis-increases-math-understanding.md) — reports the opposite

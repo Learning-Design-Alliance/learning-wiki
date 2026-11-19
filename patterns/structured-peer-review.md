@@ -32,7 +32,7 @@ grain_size: lesson
 # Structured Peer Review
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 57 claims (33 for, 24 mixed) · 66 studies (23 causal, 11 quant-synthesis, 10 associational, 8 review, 6 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 15 of 66 report an effect size · 42 claims rest on one study
+> **Evidence** · 58 claims (33 for, 25 mixed) · 67 studies (23 causal, 11 quant-synthesis, 10 associational, 8 review, 6 design, 5 qualitative, 4 theoretical), `q1`–`q4` · 15 of 67 report an effect size · 43 claims rest on one study
 
 ## Description and scope
 
@@ -153,6 +153,7 @@ Claims the earlier page cited, and others that bear on it, not used as core evid
 - [During feedback provision, content-specific support improves feedback provision quality (g = 0.75) but not knowledge, while generic support improves both provision quality (g = 0.70) and subject-matter-related knowledge (g = 0.55)](../claims/generic-provision-support-also-boosts-knowledge.md) [+W] — attached 2026-10-19 from Hornstein et al. (2025), which proposed "Integrate instructional support into peer-feedback scenarios, prioritizing the feedback provision phase".
 - [After peer review plus a 20-day revision period, intervention-group lectures received significantly higher student quality ratings than control-group lectures (86 vs 73; p = 0.001)](../claims/peer-review-higher-post-intervention-lecture-quality.md) [+W] — attached 2026-11-05 from Abbas Uzair et al. (2026), which proposed "Integrate structured peer assessment alongside traditional student evaluations to strengthen faculty development and improve lecture quality and learning outcomes"; tests this page's relationship.
 - [Peer reviewers inflate grades when they recognize the grade they are giving as final, so rubric-based training is needed for peer review to serve as assessment](../claims/peer-grade-inflation-final-assessment-video-project.md) [~W] — attached 2026-11-19 from Graul et al. (2020), which proposed "Student-created video project with iterative peer review as a midterm assessment replacement".
+- [Anonymous peer review supports perceived relatedness: students learned from peers' perspectives, but distrust of peer markers and uneven participation undermined it](../claims/anonymous-peer-review-perceived-relatedness.md) [~W] — attached 2026-11-19 from Petersen et al. (2021), which proposed "Anonymous peer review as a remote feedback design for large, diverse classes".
 
 ## Illustrative design instance and observation record
 

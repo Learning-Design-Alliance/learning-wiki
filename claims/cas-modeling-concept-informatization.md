@@ -46,3 +46,4 @@ This is the article's central theoretical proposal, an authors' interpretive arg
 
 ## Related Claims
 - [Computer-assisted mathematics instruction through a computer algebra system at the transformation level produces higher parabola achievement than traditional teaching with ICT at the replacement level](cami-cas-transformation-beats-replacement-parabola-achievement.md) — related
+- [A multi-disciplinary curriculum with strong connection between fundamental concepts and applied sciences would improve student retention in STEM fields](multidisciplinary-curriculum-stem-retention.md) — related

@@ -56,6 +56,7 @@ Based on student feedback from both groups, the authors recommend reallocating c
 - [Equip instructors with concrete personalization strategies when adopting flipped designs dominated by group activities](personalization-strategies-flipped-designs.md)
 - [Expand contextualised simulation to non-technical skills and co-create future cases with students as partners](expand-simulated-cases-nontechnical-cocreation.md)
 - [Optimize the medical English course by adding application class hours and rehabilitation-specific materials](optimize-medical-english-add-application-practice-hours.md)
+- [Reallocate course hours based on evaluation results: reduce classical dynamics, expand BOA, add state-to-state reaction content](hour-reallocation-based-on-evaluation-results.md)
 
 ## Examples
 -

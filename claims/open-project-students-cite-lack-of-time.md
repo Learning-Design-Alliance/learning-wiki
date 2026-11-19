@@ -8,19 +8,19 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: weak
-newest_evidence: 2015
+newest_evidence: 2016
 sources:
-  - id: f-bouquet-2015
+  - id: f-bouquet-2016
     resource: "https://doi.org/10.48550/arXiv.1601.06659"
-    title: "F. Bouquet, J. Bobroff, M. Fuchs-Gallezot, and L. Maurines. (2015). Project-based physics labs using low-cost open-source hardware. [doi:10.48550/arXiv.1601.06659](https://doi.org/10.48550/arXiv.1601.06659)"
+    title: "F. Bouquet, J. Bobroff, M. Fuchs-Gallezot, and L. Maurines. (2016). Project-based physics labs using low-cost open-source hardware. Originally published 2015. [doi:10.48550/arXiv.1601.06659](https://doi.org/10.48550/arXiv.1601.06659)"
     author: F. Bouquet, J. Bobroff, M. Fuchs-Gallezot, and L. Maurines
     q: 2
     i: "?"
     kind: qualitative
     rigour: 2
-  - id: f-bouquet-2015-2
+  - id: f-bouquet-2016-2
     resource: "https://doi.org/10.48550/arXiv.1601.06659"
-    title: "F. Bouquet, J. Bobroff, M. Fuchs-Gallezot, and L. Maurines. (2015). Project-based physics labs using low-cost open-source hardware. [doi:10.48550/arXiv.1601.06659](https://doi.org/10.48550/arXiv.1601.06659)"
+    title: "F. Bouquet, J. Bobroff, M. Fuchs-Gallezot, and L. Maurines. (2016). Project-based physics labs using low-cost open-source hardware. Originally published 2015. [doi:10.48550/arXiv.1601.06659](https://doi.org/10.48550/arXiv.1601.06659)"
     author: F. Bouquet, J. Bobroff, M. Fuchs-Gallezot, and L. Maurines
     q: 2
     i: "?"
@@ -32,17 +32,17 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Time was cited as lacking by 59% of open-project students versus 38% of focused-lab students. [→ F. Bouquet 2015](#f-bouquet-2015)
-`q2 i?` Better equipment was mentioned similarly by open-project (35%) and focused-lab (24%) students, which the authors found surprising given the focused labs' laboratory-quality equipment. [→ F. Bouquet 2015 (2)](#f-bouquet-2015-2)
+`q2 i?` Time was cited as lacking by 59% of open-project students versus 38% of focused-lab students. [→ F. Bouquet 2016](#f-bouquet-2016)
+`q2 i?` Better equipment was mentioned similarly by open-project (35%) and focused-lab (24%) students, which the authors found surprising given the focused labs' laboratory-quality equipment. [→ F. Bouquet 2016 (2)](#f-bouquet-2016-2)
 
 ## Evidence
 
-### F. Bouquet 2015
+### F. Bouquet 2016
 
-F. Bouquet, J. Bobroff, M. Fuchs-Gallezot, and L. Maurines. (2015). Project-based physics labs using low-cost open-source hardware. [doi:10.48550/arXiv.1601.06659](https://doi.org/10.48550/arXiv.1601.06659)
+F. Bouquet, J. Bobroff, M. Fuchs-Gallezot, and L. Maurines. (2016). Project-based physics labs using low-cost open-source hardware. Originally published 2015. [doi:10.48550/arXiv.1601.06659](https://doi.org/10.48550/arXiv.1601.06659)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -50,9 +50,9 @@ Open-ended survey question about what was lacking in the lab week, with 17 open-
 
 > "time was cited by 59% of the open -project students (compared to 38% for the focused -lab students)"
 
-### F. Bouquet 2015 (2)
+### F. Bouquet 2016 (2)
 
-F. Bouquet, J. Bobroff, M. Fuchs-Gallezot, and L. Maurines. (2015). Project-based physics labs using low-cost open-source hardware. [doi:10.48550/arXiv.1601.06659](https://doi.org/10.48550/arXiv.1601.06659)
+F. Bouquet, J. Bobroff, M. Fuchs-Gallezot, and L. Maurines. (2016). Project-based physics labs using low-cost open-source hardware. Originally published 2015. [doi:10.48550/arXiv.1601.06659](https://doi.org/10.48550/arXiv.1601.06659)
 
 `q2 · i?` · `design · r2`
 
@@ -67,3 +67,4 @@ Same survey question; the authors note this result is surprising since focused-l
 - [Lack of technical support and time constraints are the most frequently reported barriers to active learning in Middle Eastern healthcare colleges](barriers-technical-support-time-constraints-active-learning.md) — related
 - [Key barriers to SBE implementation are lack of knowledge or training, lack of awareness of resources, limited time and resources, and limited institutional support](sbe-barriers-knowledge-time-institutional-support.md) — related
 - [Open-project students more often mentioned interactions with teachers despite equal teacher time in both lab formats](open-project-students-mention-teacher-interactions-more.md) — related
+- [Physics labs give rise to a unique combination of stereotypes, discriminatory behaviors, and mobility or sensory barriers that unfairly prevent full participation for some learners](labs-unique-accessibility-barriers.md) — related

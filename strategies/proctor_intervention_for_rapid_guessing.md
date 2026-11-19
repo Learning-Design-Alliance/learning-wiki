@@ -68,6 +68,7 @@ Rapid guessing is better treated as a motivational signal than as misconduct: di
 - [Use automated disengagement detection with proctor notification during remote low-stakes testing](automated-disengagement-detection-proctor-notification-strategy.md)
 - [Use findings on rapid guessing stability and its psychological correlates to detect rapid guessing and intervene to reduce its effect on observed achievement test scores](detect-and-intervene-on-rapid-guessing-strategy.md)
 - [Notify test proctors when students disengage so students give their best effort on testing day](notify-proctors-when-students-disengage.md)
+- [Live-proctor virtual assessments via video conference to address academic integrity in physics problem-solving exams](live-video-proctoring-physics-assessments.md)
 
 ## Related Elements
 - [Check-Ins](../principles/check-ins.md) — the conversational mechanism of the intervention

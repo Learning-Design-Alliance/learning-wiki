@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-11-19
 sources:
   - id: savino-sandro-2023
     resource: "https://doi.org/10.1007/s00431-023-05254-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Students uniformly requested further efforts to familiarize themselves with the VR hardware and an opportunity to "play around" in the digital VR environment, including with medical equipment and medications, before using them on the "real" patient. [→ Savino Sandro 2023](#savino-sandro-2023)

@@ -49,3 +49,4 @@ OLS multiple regression analysis of 67 students' physics grades on network centr
 - [High problem elaboration improved physics grades only for students with low degree centrality and for students not nominated as good students](elaboration-grades-moderated-by-centrality-and-status.md) — related
 - [Gatekeeper brokerage positively predicted problem elaboration but negatively predicted physics grades](gatekeeper-brokerage-elaboration-grades-contrast.md) — related
 - [Collaboration during problem generation occurred mostly within groups, consistent with interrogation logic, while algebra-based problems motivated information seeking across groups](within-group-interrogation-logic-collaboration.md) — related
+- [During remote teaching, overall collaboration degree centrality positively predicts high-school physics grades](collaboration-centrality-positive-remote-physics-grades.md) — related

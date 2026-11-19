@@ -64,3 +64,4 @@ One-way ANOVA results for these measures: mid-term exam F = .38, p = .68; journa
 - [No significant differences in exam performance or overall instruction and technology ratings across videoconference/webcast and co-located/dispersed conditions](no-exam-rating-differences-four-distance-conditions.md) — related
 - [An ANOVA F test across the four sections finds statistically significant evidence that not all section means are equal (p = 0.002863)](anova-section-means-unequal-it341.md) — reports the opposite
 - [Mid-semester scores differ significantly between some pairs of the four course sections, with section 02 differing significantly from sections 01, 04 and DL](welch-t-test-section-pair-differences-it341.md) — related
+- [Final-exam mean differences between flipped and non-flipped students were not statistically significant, with only three non-flipped students sitting the final](flipped-final-exam-no-significant-difference.md) — related

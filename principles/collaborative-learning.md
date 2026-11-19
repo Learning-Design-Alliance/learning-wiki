@@ -47,7 +47,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 113 claims (51 for, 56 mixed, 6 against) · 110 studies (34 causal, 16 review, 16 theoretical, 14 associational, 13 quant-synthesis, 11 qualitative, 6 design), `q1`–`q4` · 19 of 110 report an effect size · 107 claims rest on one study
+> **Evidence** · 114 claims (52 for, 56 mixed, 6 against) · 111 studies (34 causal, 16 review, 16 theoretical, 14 associational, 13 quant-synthesis, 12 qualitative, 6 design), `q1`–`q4` · 19 of 111 report an effect size · 108 claims rest on one study
 
 ## Conditional relationship
 
@@ -180,6 +180,7 @@ Claims this page cites that do not change the model above. Each was read against
 - [Collaborative learning courses produced gains 3.06 percentage points larger than lecture-based courses for all demographic groups, achieving Equity of Individuality with proportional improvements of 20.1% to 30.8%](../claims/collaborative-learning-equity-of-individuality.md) [+W] — attached 2026-11-18 from Van Dusen et al. (2019), which proposed "Collaborative learning raises gains for all groups but must be paired with addressing student power differentials to achieve equitable outcomes"; tests this page's relationship.
 - [In the first analyzed group, speaking-time distribution was rated semi-equitable with three instances of one member speaking at least twice as much as a group mate](../claims/group1-semiequitable-speaking-time.md) [~W] — attached 2026-11-18 from Ben Archibeque et al. (2017), which proposed "Use a two-times speaking-time threshold to flag potential oppression in small groups".
 - [The second analyzed group was rated inequitable in total speaking time, with the largest difference over nine times larger](../claims/group2-inequitable-speaking-time.md) [~W] — attached 2026-11-18 from Ben Archibeque et al. (2017), which proposed "Use a two-times speaking-time threshold to flag potential oppression in small groups".
+- [In an equitable trio, the highest-inchargeness student uses her inchargeness to acknowledge her partners' bids](../claims/equitable-trio-janelle-acknowledges-bids.md) [+W] — attached 2026-11-19 from Sophia Jeon et al. (2018), which proposed "High-inchargeness students should use their position to acknowledge peers' bids, since inchargeness can make groups more or less equitable".
 
 ## Objective and learner-valued goal
 

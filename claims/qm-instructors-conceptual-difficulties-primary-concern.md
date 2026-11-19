@@ -72,3 +72,4 @@ In individual discussion, one faculty member felt that "the misconceptions in QM
 - [Instructors rated students' mathematical preparation for QM as average or below average, with special functions rated weakest](qm-student-math-preparation-rated-below-average.md) — related
 - [Quantum field theory is rarely taught or even mentioned in introductory physics courses from high school through upper-division undergraduate levels](qft-absent-from-introductory-physics-courses.md) — related
 - [Popular undergraduate modern physics textbooks contain misstatements claiming special relativity applies only to inertial frames](textbook-misstatements-sr-inertial-only.md) — related
+- [Student difficulties with mathematics, especially linear algebra, are the most frequently reported student difficulty in introductory QIS courses](qis-student-math-linear-algebra-difficulties.md) — related

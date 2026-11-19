@@ -79,6 +79,7 @@ Well-specified objectives improve learning primarily by orienting learners' atte
 **[Coursera](https://www.coursera.org)** — Course and module pages lead with "What you'll learn" objective lists, giving prospective and enrolled learners explicit targets before content begins.
 - [Use a skills consensus statement to recommend an order of tutorial participation to students](../strategies/consensus-statement-tutorial-ordering-strategy.md)
 - [Design mathematics e-modules around Bloom's taxonomy so each module supports every cognitive objective from knowledge to evaluation](../strategies/bloom-taxonomy-math-e-modules-strategy.md)
+- [Describe each laboratory course comprehensively in course catalogs and communicate expectations before registration so students can plan accommodations in advance](../strategies/comprehensive-course-catalog-descriptions.md)
 
 ## Key Sources
 - Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). *A taxonomy for learning, teaching, and assessing: A revision of Bloom's taxonomy of educational objectives.* Longman.

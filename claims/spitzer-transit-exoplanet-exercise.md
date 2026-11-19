@@ -48,3 +48,4 @@ Described exercise: students choose a planet-star system, measure light curves o
 - [Students using VLT data and Kepler's third law reproduce the Galactic black hole mass close to 4 million solar masses](kepler-laws-galactic-black-hole-exercise.md) — related
 - [Students responded positively to the transiting-planet inquiry activity, with 90% writing positive post-activity survey responses](transiting-planets-inquiry-90-percent-positive-feedback.md) — related
 - [Students most successfully deduced planetary size effects from light curves, with weaker results for rings, atmospheres, and reflected light](light-curve-deduction-success-varies-by-question-topic.md) — related
+- [Readers of the manual rated it highly and most planned to realize the activities, preferring Kepler's laws and black holes](manual-reader-questionnaire-ratings.md) — related

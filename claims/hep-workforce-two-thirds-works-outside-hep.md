@@ -47,3 +47,4 @@ Authors' assertion in the Community section of this program description paper, o
 ## Related Claims
 - [Coding skills and statistical data-analysis experience are the most widely valued skills across the quantum industry, with laboratory experience, electronics, troubleshooting, materials knowledge, and quantum algorithms also frequently cited](quantum-industry-coding-data-analysis-skills-valued.md) — a broader claim this one bears on
 - [Deep knowledge of quantum information science theory is not a necessary or sufficient requirement to work in the quantum industry; classical physics and engineering skills are highly valued](classical-skills-valued-over-deep-qis-theory.md) — a broader claim this one bears on
+- [Rough estimates put the HEP community needing software training at about 10K people per year, and training is fully voluntary for mentors and participants](hep-training-scale-10k-annual-voluntary.md) — related

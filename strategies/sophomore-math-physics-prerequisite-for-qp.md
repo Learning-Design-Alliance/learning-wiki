@@ -49,6 +49,8 @@ The article recommends that physics departments add a dedicated mathematical phy
 - [Offer basic-skills mathematics enrichment to students below SAT-M 600 before college-level mathematically intensive coursework](math-enrichment-below-sat-m-600-strategy.md)
 - [Offer a STEM-specific pre-college preparation course emphasizing mathematics and effective learning habits, and expose female high-school students to extra-curricular advanced mathematics](stem-specific-preparation-course-strategy.md)
 - [Make mathematization an explicit part of the introductory physics curriculum rather than relying on prerequisite algebra courses](explicit-mathematization-in-introductory-physics-curriculum.md)
+- [Balance quantum-specific and general STEM content in new quantum programs, offer broad quantum courses for non-specialist roles, and engage business education](quantum-curriculum-recommendations-from-industry-survey.md)
+- [Teach probability in three coordinated moments across Chemistry, Mathematics and Physics](three-moment-probability-coordination-strategy.md)
 
 ## Examples
 -

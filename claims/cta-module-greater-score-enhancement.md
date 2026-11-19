@@ -66,3 +66,4 @@ Table 8 comparison of average scores shows the control group began higher (43.91
 - [OSCE scores were below national average scores at pre-test and above national average scores at post-test in one uncontrolled pre-post study](post-osce-scores-exceeded-national-average.md) — related
 - [Clinical reasoning performance scores rose from entry exam to exit and retention tests after repeated computer-based key feature testing, in one uncontrolled pre-post study](repeated-key-feature-testing-large-gains.md) — related
 - [Both intervention groups (interactive and reproductive) outperform a no-intervention control group on the anatomy post-test](intervention-groups-outperform-control-anatomy.md) — related
+- [Class 1 students outperformed Class 2 on post-intervention knowledge tests, a contrast the authors interpret in terms of teacher involvement and motivation](class-1-outperformed-class-2-knowledge-tests.md) — related

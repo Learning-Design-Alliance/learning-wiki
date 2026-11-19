@@ -52,3 +52,4 @@ OLS regression models (Table 1) on information-seeking networks from three class
 - [A participatory teaching strategy combined with ill-structured problems predicts higher classroom network connectivity (betweenness centrality) than a lecture-based strategy with well-structured problems](participatory-strategy-ill-structured-problems-higher-betweenness.md) — related
 - [High problem elaboration improved physics grades only for students with low degree centrality and for students not nominated as good students](elaboration-grades-moderated-by-centrality-and-status.md) — related
 - [Gatekeeper brokerage positively predicted problem elaboration but negatively predicted physics grades](gatekeeper-brokerage-elaboration-grades-contrast.md) — related
+- [During remote teaching, overall collaboration degree centrality positively predicts high-school physics grades](collaboration-centrality-positive-remote-physics-grades.md) — related

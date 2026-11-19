@@ -57,3 +57,4 @@ The introduction's summary of the Huang, Walkington, and Nathan study reports th
 - [In shared holographic AR, scale, positioning of the representation, and body positioning emerged as important design considerations](shar-scale-body-positioning-design.md) — a narrower finding that bears on this claim
 - [In shared VR, teacher-learners showed a recurring multimodal sequence of discussion before embodied action on virtual objects](vr-discussion-before-embodied-action.md) — related
 - [Students' basic geometry skills on curved-solid objects improved after learning with the media](before-after-basic-geometry-skills-improved.md) — related
+- [Interacting with geometric abstract concepts during VR precedent exploration was associated with faster assemblage and higher reported understanding and motivation than building geometry alone](abstract-concepts-vr-precedent-faster-assemblage.md) — related

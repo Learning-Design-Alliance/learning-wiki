@@ -70,3 +70,4 @@ Same Fig. 2b analysis. The article reports the majors chosen by URM and White st
 - [Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates](cps-senior-year-coursework-racial-gaps.md) — related
 - [URM students drop the physics major at roughly twice the rate of White students (65% vs 34%) at the studied university](urm-physics-attrition-65-vs-34-percent.md) — related
 - [Black/African American and Hispanic/Latino students were overrepresented in lower QR placement categories relative to their share of the 2018 CSU entering cohort](eo1110-racial-disproportionality-qr-placement.md) — related
+- [HBCUs are a disproportionate producer of Black physical science and engineering graduates, graduating 28% of Black physical science majors and 17% of Black engineers](hbcu-disproportionate-black-stem-production.md) — related

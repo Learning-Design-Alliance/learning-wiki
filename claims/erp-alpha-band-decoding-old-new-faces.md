@@ -74,3 +74,4 @@ Group-level SVM decoding of high-alpha (10–12 Hz) instantaneous power across 8
 - [Higher eye movement consistency is associated with higher ERP decoding accuracy and faster face recognition responses](consistency-erp-decoding-accuracy-faster-responses.md) — related
 - [Random Forest and SHAP analyses identify Gamma and Beta band power at temporal and frontal channels (T3, P3, F7, T4, T4, F8, F7) as the most critical features for EEG familiarity classification](gamma-beta-temporal-frontal-familiarity-biomarkers.md) — related
 - [SVM weight topography shows central and parietal electrodes contribute most to decoding, with eyes-focused participants showing more right-central contribution](svm-topography-central-parietal-eyes-right-bias.md) — related
+- [The authors treat the alpha signal as the attention signal and other signals as noise](alpha-signal-as-attention-signal.md) — related

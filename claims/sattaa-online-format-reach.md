@@ -49,3 +49,4 @@ Participant feedback from the fully online iteration, which matched the positive
 - [Teachers evaluated the e-learning resource's utility very positively, with 97% reporting they would recommend it to others](elearning-resource-utility-rated-positively.md) — related
 - [Teachers report high satisfaction and willingness to recommend We Have Skills!](whs-high-social-validity-satisfaction.md) — related
 - [Participant satisfaction with the tournament was overwhelmingly high in both editions](pharmacotrophy-high-satisfaction.md) — related
+- [Transitioning SATTAA to fully online delivery diversified the astrophysics facilitation team nationally and internationally](sattaa-online-shift-diversified-facilitation-team.md) — related

@@ -52,3 +52,4 @@ Independent-samples t-tests on recent midterm grades in the cross-sectional high
 - [Stratified teaching positively affects all seven studied subjects, with larger effects in English, physics, and geography than in chemistry, biology, and mathematics](stratified-teaching-subject-effects-english-physics-geography.md) — related
 - [No significant gender difference in performance among undergraduates taught with blended learning](no-gender-difference-blended-learning-performance.md) — reports the opposite
 - [Being female is positively associated with academic achievement in all models except Physical Education](female-gender-positive-achievement-except-pe.md) — reports the opposite
+- [Prior-year grades predict course grades in both subjects, School 2 outperformed School 1 in physics, and female students scored higher in mathematics](control-variable-effects-prior-grades-school-gender.md) — reports the opposite

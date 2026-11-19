@@ -47,6 +47,7 @@ The article recommends introducing nanotechnology through visual representation 
 ## Related Strategies
 
 - [Use computer simulations and software visualizations extensively to build students' visualization of quantum mechanics concepts](computer-simulations-visualize-quantum-concepts.md)
+- [Introduce QIST concepts early through K-12 educator professional development and accessible conceptual materials](k12-early-qist-exposure-teacher-professional-development.md)
 
 ## Examples
 -

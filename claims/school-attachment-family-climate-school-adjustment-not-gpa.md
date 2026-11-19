@@ -49,3 +49,4 @@ In the same cross-lagged model, the family and school domain predictors showed w
 - [Family climate and school attachment exert reciprocal positive influences on each other over the middle school years](family-climate-school-attachment-reciprocal-influences.md) — related
 - [Academic self-regulation in 8th grade robustly predicts both GPA and school adjustment in 9th grade](asr-predicts-gpa-and-school-adjustment.md) — related
 - [School attachment unidirectionally predicts increases in academic self-regulation over the middle school years](school-attachment-promotes-academic-self-regulation.md) — related
+- [Students participating in more reciprocal relationships improved their GPAs faster](reciprocal-relationships-faster-gpa-growth.md) — related

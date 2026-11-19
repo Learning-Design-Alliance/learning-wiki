@@ -43,6 +43,7 @@ For the Preregistered badge, the disclosure form operationalizes preregistration
 ## Related Strategies
 
 - [Publish an alternative note explaining why data or materials cannot be shared when confidentiality prevents it](alternative-note-for-unshareable-data.md)
+- [Preregister study protocols so methods are refereed before data are gathered](preregister-protocols-per-studies.md)
 
 ## Examples
 -

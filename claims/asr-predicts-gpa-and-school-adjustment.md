@@ -57,3 +57,4 @@ In the cross-lagged SEM predicting 9th-grade outcomes from 8th-grade predictors,
 - [School attachment unidirectionally predicts increases in academic self-regulation over the middle school years](school-attachment-promotes-academic-self-regulation.md) — related
 - [Early prosocial behavior predicted later academic achievement more strongly than early academic skills](prosocial-behavior-predicts-achievement.md) — related
 - [Positive family climate consistently predicts increases in adolescent academic self-regulation, with unidirectional effects](family-climate-promotes-academic-self-regulation.md) — related
+- [Students participating in more reciprocal relationships improved their GPAs faster](reciprocal-relationships-faster-gpa-growth.md) — related

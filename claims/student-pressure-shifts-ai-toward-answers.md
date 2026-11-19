@@ -52,3 +52,4 @@ Analysis of AI behavioral adherence under explicit student pressure (e.g., reque
 - [Learning-oriented intentions did not significantly predict enacted in-chat behavior; only selecting final solutions predicted executive and answer-seeking requests](intent-enactment-gap-genai-help-seeking.md) — related
 - [Llama Guard models misclassify subtle, context-dependent unsafe education prompts (e.g., exam-answer and cheating requests) as safe](llama-guard-failure-cases-subtle-education-risks.md) — related
 - [The chatbot often provided more scaffold types than requested, and supplying classified question scope to the chatbot raised scaffold precision above .60](chatbot-over-helping-scaffold-precision.md) — related
+- [Teachers rate agenda facilitation and FAQ answering as the most useful chatbot use cases, and the two preferences are significantly associated](agenda-faq-top-chatbot-use-cases.md) — related

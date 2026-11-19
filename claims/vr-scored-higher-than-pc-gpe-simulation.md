@@ -90,3 +90,4 @@ Written survey results from the 22-student crossover study print comfort average
 - [Students overwhelmingly preferred the VR condition as their favorite learning method regardless of which condition they studied in](students-overwhelmingly-prefer-vr-moon-phases.md) — related
 - [Team-based learning and simulation receive the highest mean preference ratings among preclinical instructional methods](tbl-simulation-highest-rated-preclinical-methods.md) — related
 - [After taking a computer-based exam, half of students prefer paper-based exams and about a quarter prefer computer-based exams](exam-mode-preference-after-first-cbe.md) — related
+- [VR lessons rated easier to use than PC, but only in the larger-sample experiments](vr-ease-of-use-mixed-across-experiments.md) — related

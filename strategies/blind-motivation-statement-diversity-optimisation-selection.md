@@ -43,6 +43,8 @@ To cope with oversubscription (179 applicants for 64 places in 2019) while maint
 
 - [Use a biographical structured interview scoring multiple dimensions including communication skills and coping with uncertainty as a selection component](biographical-structured-interview-selection-strategy.md)
 - [Diversity-conscious student selection balancing majors, institutions, gender and nationality](lssds-diversity-conscious-selection.md)
+- [Blind identifying and demographic information in application evaluation to reduce implicit bias](blinded-application-evaluation-reduce-bias.md)
+- [Involve students in selecting the courses offered at an enrichment camp through a double-blind ranking process](student-involved-course-selection-strategy.md)
 
 ## Examples
 -

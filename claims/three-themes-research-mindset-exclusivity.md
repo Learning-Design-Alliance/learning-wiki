@@ -54,3 +54,4 @@ Phenomenographic analysis of 45-minute semi-structured interviews with 21 upper-
 - [Students who gained undergraduate research experience shifted toward research-centered perceptions of being a physicist](undergraduate-research-shifts-perceptions-toward-research.md) — a narrower finding that bears on this claim
 - [Experiencing authentic research shifts the perceived threshold from doing research to doing independent research](authentic-research-shifts-threshold-to-independent-research.md) — a narrower finding that bears on this claim
 - [The real shift toward identifying as a legitimate theoretical physicist appears at PhD and postdoctoral level, marked by strengthening social relations](phd-postdoc-social-relations-strengthening.md) — related
+- [All interviewed female students reported characteristics indicative of a growth mindset, which appeared as a central theme in the semantic network map](outreach-facilitation-growth-mindset-central.md) — related

@@ -178,3 +178,5 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Programs partnering scientists with classrooms improve student motivation, questioning, content knowledge and attitudes toward science](scientist-classroom-partnership-benefits.md) — related
 - [High-school students report strongly positive engagement after hands-on SSDC space-data activities in the 2017/18 program](ssdc-outreach-2017-18-positive-student-attitudes.md) — related
 - [83% of students preferred simulation-driven classroom teaching over non-simulation-driven teaching](students-prefer-simulation-driven-teaching.md) — related
+- [Game-based learning proved the best of the three tested teaching approaches in online Microcontrollers laboratories](game-based-learning-best-in-eeg-monitored-microcontroller-labs.md) — related
+- [LH students engaged with the programming module despite low attendance through remote use of Codio lessons](lh-group-engaged-despite-low-attendance-remote-codio.md) — related

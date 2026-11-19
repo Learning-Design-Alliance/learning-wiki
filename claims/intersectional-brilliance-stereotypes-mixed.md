@@ -54,3 +54,4 @@ The review reports, citing Storage et al. (2020), evidence in line with the doub
 - [Black women and participants with intersecting identities report being overlooked, facing microaggressions, and experiencing imposter syndrome in tech spaces](intersectional-identity-impact-black-women-tech.md) — related
 - [Shallow multiculturalism undermines Latinx students' belonging by reinforcing intersectional invisibility](shallow-multiculturalism-undermines-latinx-belonging.md) — related
 - [Candidates unintentionally overlooked average and invisible middle students](invisible-middle-students-overlooked.md) — related
+- [Societal stereotypes, strongest in physics, contribute to lower sense of belonging for women and ERM students in physics](stereotypes-lower-belonging-women-erm-physics.md) — related

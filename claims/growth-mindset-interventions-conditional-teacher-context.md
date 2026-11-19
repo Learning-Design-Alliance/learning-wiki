@@ -88,3 +88,4 @@ The review reports that meta-analyses find benefits concentrated among "economic
 - [Growth mindsets associate with higher US mathematics scores but slightly lower Chinese mathematics scores (country × mindset interaction)](mindset-math-association-reversed-china-us.md) — related
 - [Prior fixed mindset was not an important predictor of intervention effectiveness despite the intervention reducing fixed mindset.](prior-mindset-not-a-key-moderator.md) — related
 - [Students from a widening participation background tended to show higher growth mindset than non-WP students, a non-significant trend the authors attribute to pre-course factors](wp-students-higher-mindset-trend.md) — related
+- [The article reports, citing a study of 150 STEM instructors, that instructors with fixed mindsets about students' ability had larger achievement and motivation gaps for racial and ethnic minority students](instructor-fixed-mindset-larger-achievement-gaps.md) — related

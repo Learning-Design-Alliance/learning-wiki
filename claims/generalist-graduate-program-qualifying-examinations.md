@@ -65,3 +65,4 @@ Theoretical rationale for the program design given in the same section; the auth
 
 ## Related Claims
 - [The article argues that generalist training is a career-long trajectory in which program completion is only a first step, and predicts roles for generalists in large collaborations, consulting professorships, venture capital, and institution building.](generalist-career-trajectory-and-roles.md) — related
+- [Writing instruction is often absent from young astronomers' training, and the authors argue graduate programmes should include academic writing courses](writing-courses-recommended-in-graduate-training.md) — related

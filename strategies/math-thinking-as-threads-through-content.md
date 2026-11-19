@@ -42,7 +42,8 @@ The article recommends that instructors teach general scientific thinking skills
 - [Students often resist using equations to think with, yet delight when math explains something they already knew](../claims/student-resistance-and-delight-with-math-in-science.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Keep online course design focused on learning goals and reduce content coverage to central topics](online-transition-focus-learning-goals-reduce-content.md)
 
 ## Examples
 -

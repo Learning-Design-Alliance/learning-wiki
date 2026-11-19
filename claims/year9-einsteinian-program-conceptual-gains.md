@@ -50,3 +50,4 @@ Pre/post questionnaire study of 57 academically talented Year 9 students followi
 - [Year 9 students showed a statistically significant improvement in Einsteinian physics conceptual knowledge after the 20-lesson Einstein-First programme in both 2013 and 2014](einstein-first-significant-conceptual-gains.md) — possibly the same claim (merge candidate)
 - [Conceptual scores differed significantly from pre-test to post-test across Years 7-10 after a one-day Einsteinian physics intervention, in one uncontrolled pre-post study](one-day-einsteinian-intervention-conceptual-gains.md) — related
 - [One-day and 10-week interventions yield comparable core-concept results, but the one-day program scores significantly less on derived concepts](short-versus-long-intervention-comparison.md) — related
+- [Students' basic physics content knowledge improved substantially, with diagnostic scores rising 20% on average (d = 1.1)](diagnostic-gain-20-percent-d-1-1.md) — related

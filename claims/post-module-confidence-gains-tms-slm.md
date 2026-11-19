@@ -46,3 +46,4 @@ Postcurriculum survey of the same 14 residents after SLM completion. "Over 90% o
 
 ## Related Claims
 - [Before completing the TMS self-learning module, most psychiatry residents reported low confidence in meeting the four TMS educational objectives](pre-module-low-confidence-tms-objectives.md) — related
+- [95% of surveyed students agreed the module's technical ILOs were met, while project-planning ILOs needed further attention](tdps-ilo-attainment-survey.md) — related

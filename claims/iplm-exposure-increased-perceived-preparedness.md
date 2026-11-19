@@ -49,3 +49,4 @@ Quasi-experimental survey study with 72 community college IT students across thr
 - [Students responded most positively to projects that felt authentic and were organized in a clear sequence with manageable milestones](student-engagement-authenticity-clear-sequence.md) — related
 - [Instructors exposed to the IPLM rated it significantly more useful for teaching networking problem-solving skills than traditional equipment.](iplm-instructor-perceived-usefulness.md) — related
 - [No significant difference was found between the number of prior networking classes taken and perceived benefits of the CbMW.](prior-classes-no-significant-difference.md) — related
+- [Former students reported the problem-solving template transferred to later engineering courses and that they felt better equipped to tackle complex problems](interviews-template-transfer-confidence.md) — related

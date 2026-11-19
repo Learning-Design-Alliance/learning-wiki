@@ -53,4 +53,4 @@ The article recommends scaffolding visual puzzle play so that trial-and-error do
 -
 
 ## Key Sources
-- Nita, L., Chancellor, N., Mazzoli Smith, L., Cramman, H. & Dost, G. (2021). Inclusive learning for quantum computing: supporting the aims of quantum literacy using the puzzle game Quantum Odyssey. https://arxiv.org/abs/2106.07077
+- Nita, L., Chancellor, N., Mazzoli Smith, L., Cramman, H. & Dost, G. (2021). Inclusive learning for quantum computing: supporting the aims of quantum literacy using the puzzle game Quantum Odyssey. https://arxiv.org/abs/2106.07077. [doi:10.48550/arxiv.2106.07077](https://doi.org/10.48550/arxiv.2106.07077)

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2015
+source_checked: 2026-11-19
 sources:
   - id: maria-krause-2015
     resource: "https://doi.org/10.22323/1.236.0304"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Survey feedback indicated the amount of theory introduced at the start of the activity is sometimes hard to grasp, while students prefer practical experiments and their understanding. [→ Maria Krause 2015](#maria-krause-2015)

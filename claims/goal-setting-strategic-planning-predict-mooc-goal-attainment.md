@@ -58,3 +58,4 @@ Logistic regression on survey and platform data from 4,831 learners across six M
 - [Learning plans helped students as a framework and focus for learning, but effects were limited to setting a wide range of learning objectives and increased focus](learning-plans-effects-limited-goal-setting.md) — related
 - [Certificate-earning MOOC students reported learning-goal rather than performance-goal motivation, with 98% saying the absence of a real degree posed no problem](mooc-learning-goal-motivation-98-percent.md) — related
 - [A pre/post self-efficacy shift is a stronger predictor of earning at least a B on individual assessments than pronoun identification](self-efficacy-shift-predicts-individual-assessment-success.md) — related
+- [Korbit (full) showed higher course completion rates than both Korbit (no feedback) and the MOOC platform](korbit-full-higher-completion-rates.md) — related

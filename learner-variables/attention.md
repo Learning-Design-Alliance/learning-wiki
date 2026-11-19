@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 222 claims (142 show a difference, 47 mixed, 33 no difference) · 167 studies (60 causal, 42 associational, 26 review, 15 quant-synthesis, 10 qualitative, 8 design, 6 theoretical), `q1`–`q4` · 31 of 167 report an effect size · 216 claims rest on one study
+> **Evidence** · 223 claims (143 show a difference, 47 mixed, 33 no difference) · 168 studies (61 causal, 42 associational, 26 review, 15 quant-synthesis, 10 qualitative, 8 design, 6 theoretical), `q1`–`q4` · 31 of 168 report an effect size · 217 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -260,6 +260,7 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Students with ADHD may experience six characteristic difficulties in introductory physics courses, including distraction, detail-focus, and slower processing of content presented via multiple means](../claims/six-adhd-difficulties-introductory-physics.md) [+W] — learners who differ on it differ in outcomes
 - [Children sustained wide attention on the educational games, engaging with the tasks indirectly](../claims/wide-attention-indirect-educational-engagement.md) [+W] — measured as an outcome of the instruction studied
 - [Browser focus data show most distraction events during online RBAs are brief and do not correlate with scores](../claims/online-rba-distraction-no-score-impact.md) [-M] — learners who differ on it differ in outcomes
+- [Instructor-present video lectures improved self-reported attention among honest students relative to instructor-absent lectures](../claims/instructor-present-videos-improved-attention.md) [+W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

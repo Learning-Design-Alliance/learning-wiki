@@ -50,3 +50,4 @@ Descriptive analysis of survey responses (117 completed) from current and former
 - [A sustained five-session outreach programme stimulated self-reported interest in science among 54–64% of sixth-form participants](sustained-outreach-stimulated-interest-science.md) — related
 - [Participants reported enhanced science-related education (68%) and excitement about the topics covered (80%)](outreach-enhanced-education-excitement.md) — related
 - [Outreach participants reported increased interest in networks and mathematics, per surveys and discussions](outreach-increased-student-interest.md) — related
+- [Undergraduate students who facilitate informal physics programs report gains in communication, teamwork, networking, and design skills](facilitating-informal-physics-benefits-undergrads.md) — a broader claim this one bears on

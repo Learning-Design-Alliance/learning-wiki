@@ -70,3 +70,4 @@ In the same case study, the comparison groups' paired-problem performance is rep
 - [In one-on-one think-aloud implementation, introductory physics students averaged above 80% on paired problems for all three tutorials](one-on-one-tutorial-implementation-above-80-paired-problems.md) — related
 - [When assigned as ungraded self-study tools in large courses, only about 60% or less of students reported using the tutorials, and significant paired-problem improvements appeared for only some tutorials](self-study-large-class-low-uptake-mixed-significant-gains.md) — related
 - [A class given a preliminary engineering tutorial showed an engineering error ratio about 20% smaller than the two classes without a tutorial](engineering-tutorial-reduces-engineering-errors.md) — related
+- [Problem-solving strategy maps were unsuccessful with introductory physics students and judged not developmentally appropriate](strategy-maps-unsuccessful-intro-physics.md) — related

@@ -58,3 +58,4 @@ Evaluation against the 499-line human-annotated gold set compared two experiment
 - [Only 11.1% of interactions pair mastery-oriented aims with advanced strategies such as epistemic justification](high-epistemic-engagement-111-percent-mastery-justification.md) — related
 - [The framework generalizes under automatically generated Q-matrices without requiring expert annotation](automatic-qmatrix-extraction-generalization.md) — related
 - [The FastFit classifier slightly outperforms GPT-4 used directly under the same closed-label prompt on the same gold set (0.800 vs. 0.786 accuracy)](fastfit-outperforms-gpt4-direct-classification.md) — related
+- [Weak supervision combined with model-assisted labeling cut expert annotators' labeling time by 70% while maintaining accuracy comparable to traditional labeling](weak-supervision-model-assisted-labeling-reduces-annotation-time.md) — related

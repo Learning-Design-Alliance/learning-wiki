@@ -64,3 +64,4 @@ In the 60-school cluster RCT (1,396 students), subgroup and school-characteristi
 - [Structure-outcome relationships appear largely universal across grade levels](structure-benefits-appear-universal-across-grade-levels.md) — related
 - [Teachers' confidence in their ability to implement the program is the only characteristic significantly and positively associated with student outcomes in the RCT](teacher-confidence-associated-with-value-added.md) — related
 - [Educational impacts of Family Rewards for high school students differed by baseline academic proficiency, with no impacts for unprepared students and strong impacts for better-prepared students](family-rewards-high-school-impacts-by-baseline-proficiency.md) — related
+- [Problem Project scores show moderate positive correlations with final exam scores across all demographic subgroups](problem-project-correlates-with-final-exam.md) — related

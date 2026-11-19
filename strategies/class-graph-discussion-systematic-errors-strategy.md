@@ -48,6 +48,7 @@ During the lab the instructor introduces the standard deviation and standard dev
 
 - [Optional target-hitting extension uses calculated projectile ranges to confirm the accuracy of the height method](target-hitting-range-extension-strategy.md)
 - [Introduce measurement uncertainty through dispersion of repeated measurements plus a one-variable derivative propagation recipe](dispersion-based-uncertainty-introduction-strategy.md)
+- [Use the drawable-conductor exercises to teach measurement uncertainty through device errors, repeated-measurement agreement, sample preparation and error propagation](uncertainty-learning-through-drawn-conductor-exercises.md)
 
 ## Examples
 -

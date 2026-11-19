@@ -68,3 +68,4 @@ Reliability analysis of the repeatedly administered survey quantities; the artic
 - [CURrENT scores correlate highly with students' final exams and course grades in junior E&M](current-scores-correlate-with-final-exams-and-grades.md) — related
 - [In a Modeling Instruction physics course, classroom network centrality predicts final course grade over and above prior GPA for three of four centrality measures tested](centrality-predicts-grade-beyond-gpa.md) — related
 - [Combined grades in the three prerequisite courses are the best available predictor of E&M exam performance at the start of the semester](prerequisite-grades-predict-em-exam-performance.md) — related
+- [Interaction with teachers is the most important factor in the knowledge acquisition process across all groups and contexts](teacher-interaction-highest-weight-kap.md) — related

@@ -53,3 +53,4 @@ Discussion of focus group findings: building and testing equipment took over oth
 - [Organizational issues, limited simulation capacity, and restricted access are major barriers to simulation-based learning reported by Rwandan medical students](organizational-capacity-access-barriers-simulation.md) — a broader claim this one bears on
 - [Barriers to soft skills integration: time constraints, systemic obstacles, learner emotional strain, and adapting to new modalities](soft-skills-curricular-barriers-medical-education.md) — related
 - [URE project goals were provided by research mentors, and students rarely decided whether projects were feasible](ure-goals-provided-by-mentors.md) — related
+- [Structural barriers to ESR in QIS courses include limited class time for technical content and politicization of contentious issues](structural-barriers-time-politicization-qis-esr.md) — related

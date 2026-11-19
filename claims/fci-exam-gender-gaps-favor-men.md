@@ -96,3 +96,4 @@ Table I comparison of solo-phase exam percentages between female (N=521) and mal
 - [Large gender differences on FCI and CSEM appear on both pretest and post-test in introductory physics courses, with FCI gaps of 10%–20%](gender-gap-fci-csem-pre-post.md) — a broader claim this one bears on
 - [Male and female students' motivational beliefs differ significantly in favor of men at the end of algebra-based introductory physics, even though women are the majority (63%) in these courses](gender-gap-motivational-beliefs-algebra-based-physics.md) — related
 - [Female students showed significantly higher FCI gains than male students in the paired 2020 data, despite males' higher pre-test mean](fci-gender-gain-advantage-females-uj-2020.md) — related
+- [Women showed larger normalized gains than men on the calculus transfer questions despite lower self-efficacy](women-larger-calculus-transfer-gains.md) — related

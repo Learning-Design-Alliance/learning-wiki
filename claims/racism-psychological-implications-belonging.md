@@ -55,3 +55,4 @@ Synthesis of racial battle fatigue research within the review's analysis section
 - [Campus symbols such as antebellum architecture signal belonging to White and high-SES students and unwelcomeness to marginalized students](campus-symbols-signal-unwelcomeness-to-marginalized-students.md) — related
 - [Sense of belonging in learning contexts is robustly associated with psychological well-being, academic motivation, and academic performance](belonging-associated-wellbeing-motivation-performance.md) — related
 - [Racism in public schools drives African American families toward homeschooling](racism-drives-african-american-homeschooling.md) — a narrower finding that bears on this claim
+- [TEAM-UP attributes success or failure of Black students in physics to belonging, physics identity, academic support, financial support, and leadership and structures](team-up-factors-black-student-success-physics.md) — related

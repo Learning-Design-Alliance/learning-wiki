@@ -44,6 +44,7 @@ The report describes a strategy that emerged at the case study institutions: "Bu
 - [Design course content with sufficient incentive for both lecture attendance and recording viewing](design-content-incentivise-attendance-and-viewing.md)
 - [Provide recorded live virtual classroom sessions that students can access at any time](provide-recorded-live-virtual-classroom-access.md)
 - [Record discipline-specific writing videos and scholar interviews online so students in unstreamed first-year courses can access writing instruction relevant to their field](recorded-disciplinary-writing-videos-interviews.md)
+- [For online lectures, decide between synchronous streaming and asynchronous delivery, and always post recordings for equity](online-lecture-synchronous-asynchronous-recordings-equity.md)
 
 ## Examples
 -

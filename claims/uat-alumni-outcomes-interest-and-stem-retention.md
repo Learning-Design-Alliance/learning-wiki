@@ -68,3 +68,4 @@ Post-graduation pathway tracking of UAT alumni reported in the outcomes section,
 - [The scGY program affirmed or strengthened most participants' intent to pursue a healthcare career, while helping a few rule the path out](scgy-career-affirmation-and-exploration.md) — related
 - [Post-program surveys show most students felt more likely to pursue STEM, more comfortable in university labs, and found the program appropriately challenging](discovery-survey-attitudes-comfort-pursuit.md) — related
 - [SSUK alumni are well represented in STEM and space careers, and 75% of alumni in STEM said SSUK encouraged them to do outreach](ssuk-alumni-stem-space-careers-outreach.md) — related
+- [Participation in informal science education activities is correlated with increased science interest, science identity development, and career intentions](isea-participation-science-identity-career-intentions.md) — a broader claim this one bears on

@@ -48,3 +48,5 @@ Numerical modeling result from the Results section of a supervised machine learn
 ## Related Claims
 - [A two-factor model using only undergraduate GPA and physics GRE matches the full model's predictive performance](two-factor-gpa-physics-gre-model-matches-full-model.md) — related
 - [A reduced model using only the five meaningful features performs nearly as well as the full 44-feature model](five-feature-model-nearly-full-performance.md) — related
+- [After rubric implementation, admissions decisions from application data could not be acceptably modeled, even with hyperparameter tuning](post-rubric-application-data-unmodelable.md) — related
+- [A conditional inference forest acceptably models pre-rubric physics graduate admissions decisions, with physics GRE score, quantitative GRE score, and undergraduate GPA the only meaningful features](pre-rubric-admissions-model-quantitative-metrics-meaningful.md) — related

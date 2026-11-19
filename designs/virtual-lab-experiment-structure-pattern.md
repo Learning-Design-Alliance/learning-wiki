@@ -47,3 +47,4 @@ Every experiment in the manual follows the same reusable structure: an objective
 
 ## Key Sources
 - Neel Haldolaarachchige and Kalani Hettiarachchilage. (2020). Introductory E & M Lab Manual for Virtual Teaching. https://phet.colorado.edu/en/simulation/coulombs-law
+- Haldolaarachchige, N., & Hettiarachchilage, K. (2020). A Set of Virtual Experiments of Fluids, Waves, Thermodynamics, Optics, and Modern Physics for Virtual Teaching of Introductory Physics. Preprint. https://arxiv.org

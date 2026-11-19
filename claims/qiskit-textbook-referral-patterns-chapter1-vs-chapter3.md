@@ -48,3 +48,4 @@ Observational referral analysis shown in Fig. 3, comparing referral types for Ch
 ## Related Claims
 - [The linear algebra appendix (Section 8.1) receives a notable peak in views, showing many readers use it as a shortcut or for recap](qiskit-textbook-appendix-8-1-high-views.md) — related
 - [Chapter 1 was most viewed in the latter part of 2020, whereas Chapter 3 was most viewed during the Qiskit Global Summer School](qiskit-textbook-chapter1-vs-chapter3-usage-periods.md) — related
+- [Blog-post companions to the Hello Quantum game reached more learners than the app itself, and Hello Qiskit served an integrated role in the Qiskit textbook](hello-quantum-blog-views-outperform-app.md) — related

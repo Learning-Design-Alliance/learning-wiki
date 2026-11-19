@@ -50,3 +50,4 @@ SEM path analysis reports that "SQ had a powerful influence on PE and PEOU as we
 - [Habit has a positive significant effect on perceived usefulness and perceived ease of use of mobile library applications](habit-positive-effect-pu-peou-mla.md) — related
 - [Perceived usefulness and perceived ease of use are direct significant predictors of intention to use mobile library applications](pu-peou-predict-intention-mobile-library-apps.md) — related
 - [Service quality positively influences perceived usefulness but not perceived ease of use of m-learning apps outside the classroom](service-quality-predicts-pu-not-peou.md) — related
+- [Tablet-based mathematics education can be extended into libraries in low-income regions under specific conditions](tablet-education-feasible-in-low-income-libraries.md) — related

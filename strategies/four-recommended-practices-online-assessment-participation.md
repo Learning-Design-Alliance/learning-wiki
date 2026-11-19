@@ -49,6 +49,8 @@ The article identifies four practices instructors can use to motivate students t
 - [Use announcements, email reminders, and completion credit to achieve online RBA participation rates similar to in-class testing](motivation-practices-online-assessment-participation.md)
 - [When administering pre/post assessments online, use in-class reminders, email reminders, and credit for participation to reach paper-equivalent participation rates](recommended-practices-raise-online-assessment-participation.md)
 - [Security and motivation measures for online unproctored RBA administration](online-unproctored-rba-security-measures.md)
+- [Change assessment approaches under emergency online conditions: low-stakes assessments, group projects, honor-code exams, and equitable grading accommodations](flexible-online-assessment-low-stakes-group-projects-equity.md)
+- [Allocate in-class time for survey completion to raise participation rates](in-class-time-for-survey-completion.md)
 
 ## Examples
 -

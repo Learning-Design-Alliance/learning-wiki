@@ -57,3 +57,4 @@ Figure 2 effect-size comparison for the subsample with both grade and self-effic
 - [Being a numerical minority does not explain the physics self-efficacy gap: it remains open only in the major cluster with the highest proportion of women](numerical-minority-not-explaining-physics-efficacy-gap.md) — related
 - [A woman student can perform comparably to peers in introductory physics yet report low physics self-efficacy while feeling confident in a closely related field](low-physics-self-efficacy-despite-comparable-performance.md) — a narrower finding that bears on this claim
 - [No significant gender difference in students' feelings of inclusion in any of the four introductory physics courses](no-gender-difference-inclusion-perception.md) — related
+- [Women exhibited lower physics self-efficacy than men in all grade cohorts, and the gender imbalance increased with course grade](self-efficacy-gender-gap-increases-with-grade.md) — related

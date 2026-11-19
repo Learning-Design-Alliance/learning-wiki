@@ -72,3 +72,4 @@ Replication of the grade comparison in a separate third-year Bacteriology course
 - [Female medical undergraduates performed better than males at the final MBBS examination](females-better-final-mbbs-performance.md) — related
 - [First-year gender differences in physics grades favored male students among low-GPE students, but were reduced or reversed in second-year courses](first-year-physics-gender-gap-low-gpe-reverses-second-year.md) — related
 - [In the multiple regression, female students earn significantly higher graduate grades than male students with the same admissions scores (β = 0.13, p = .04)](female-higher-ggpa-holding-scores-constant.md) — related
+- [Female students outperformed males at Activity 1 but underperformed in semester 2 activities](gender-grade-pattern-flips-across-semesters.md) — related

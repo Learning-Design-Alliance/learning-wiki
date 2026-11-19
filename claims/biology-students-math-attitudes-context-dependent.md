@@ -91,3 +91,4 @@ The authors' interpretation of their student interviews: such disciplinary expec
 - [Student resistance to computation differs from general resistance to research-based methods: students reject learning something new and activities they see as not belonging in physics class](student-resistance-computation-different-form.md) — related
 - [Students often resist using equations to think with, yet delight when math explains something they already knew](student-resistance-and-delight-with-math-in-science.md) — possibly the same claim (merge candidate)
 - [A student who had not made the physics/math blend valued mathematical functional dependence once it was connected to a concrete authentic example](student-valued-math-when-explained-scaling.md) — related
+- [Students demonstrate some expectations for computational proficiency that are misaligned with the physics community](student-proficiency-expectations-misaligned.md) — related

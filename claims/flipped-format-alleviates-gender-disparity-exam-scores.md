@@ -56,3 +56,4 @@ Gross D, Pietri ES, Anderson G, Moyano-Camihort K, Graham MJ. (2015). Increased 
 - [Mechanics courses were a partial exception: some identical-question scores were significantly lower in flipped classes and the gender gap was generally not improved there](mechanics-flipped-outlier.md) — related
 - [In FA20, first-generation students had significantly lower overall course scores but not exam or quiz scores, and female students had significantly lower exam scores than male students, neither difference observed in FA19.](first-gen-female-score-gaps-fa20-only.md) — related
 - [Offering lectures online in a flipped format with usual grading did not by itself diminish the gender grade gap](flipped-format-alone-does-not-remove-gender-gap.md) — related
+- [Female students outperformed males at Activity 1 but underperformed in semester 2 activities](gender-grade-pattern-flips-across-semesters.md) — related

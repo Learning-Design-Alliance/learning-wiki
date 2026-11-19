@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-11-19
 sources:
   - id: mangilal-choudhary-2021
     resource: "https://doi.org/10.1088/1361-6404/abfdfb"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Performing dusty plasma experiments gives physics students opportunities to understand basic physical phenomena and to learn advanced data analysis tools and techniques. [→ Mangilal Choudhary 2021](#mangilal-choudhary-2021)

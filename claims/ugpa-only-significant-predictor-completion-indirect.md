@@ -50,3 +50,5 @@ Counterfactual mediation analysis (potential outcomes framework) for a change fr
 - [Graduate GPA is the admissions-related measure most strongly correlated with PhD completion (rpb = 0.43)](ggpa-strongest-correlate-phd-completion.md) — related
 - [GRE Physics Subject Test scores are not associated with physics PhD completion in any model studied](gre-physics-no-completion-prediction.md) — related
 - [Undergraduate GPA is a stronger predictor of graduate outcomes than GRE scores](undergrad-gpa-stronger-predictor-than-gre.md) — related
+- [Collider stratification on graduate admission substantially changes estimated predictive effect sizes of admissions metrics for graduation](collider-stratification-inflates-admissions-effect-estimates.md) — related
+- [Dropping both GREs from physics graduate admissions would substantially reduce graduation predictive power, while dropping only GRE-P would lose substantially less](dropping-both-gres-loses-graduation-predictive-power.md) — related

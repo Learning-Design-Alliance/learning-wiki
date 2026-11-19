@@ -49,3 +49,4 @@ Delayed post-test administered after a one-month gap to both groups; independent
 - [GSP-taught students retained significantly more geometry learning one month after instruction than traditionally taught students](gsp-dynamic-geometry-higher-retention-one-month.md) — related
 - [Component-level retention shows the same pattern: LTM superior except knowledge, where the traditional method is superior](ltm-component-retention-pattern.md) — related
 - [LTM-taught students achieve significantly higher overall chemistry achievement than traditionally taught students](ltm-higher-overall-chemistry-achievement.md) — related
+- [Undergraduate chemistry students taught the reformed TC course showed significant improvement, with approximately two-thirds learning new knowledge](tc-course-36-students-significant-improvement.md) — related

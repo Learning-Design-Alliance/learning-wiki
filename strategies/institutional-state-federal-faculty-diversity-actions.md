@@ -50,6 +50,7 @@ The report recommends a multi-level action set: institutions should develop spec
 - [Invest in recruiting and retaining a diverse, EL-qualified educator workforce through bilingual teaching pathways](bilingual-teacher-pathways-diverse-el-workforce.md)
 - [State and federal policy recommendations: recruit and prepare more candidates, retain new teachers through early-career mentoring, and improve working conditions](teacher-shortage-policy-recommendations.md)
 - [Leverage QISE program development to promote diversity, equity, and inclusion in engineering](qise-dei-program-recommendations.md)
+- [Recruit and retain underrepresented students in QIST through early outreach, funded research experiences, industry mentorship, and a code of conduct](qist-inclusive-recruitment-retention-strategy.md)
 
 ## Examples
 

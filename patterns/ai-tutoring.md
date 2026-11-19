@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 432 claims (190 for, 185 mixed, 57 against) · 297 studies (115 causal, 61 review, 39 design, 28 theoretical, 22 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 63 of 297 report an effect size · 416 claims rest on one study
+> **Evidence** · 434 claims (191 for, 186 mixed, 57 against) · 298 studies (116 causal, 61 review, 39 design, 28 theoretical, 22 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 63 of 298 report an effect size · 418 claims rest on one study
 
 ## Description and scope
 
@@ -304,6 +304,8 @@ Claims linked to this pattern that the model above does not use. All were read a
 - [Summative academic performance in the AI-supported Reproduction module does not significantly differ from traditionally taught modules](../claims/no-significant-summative-performance-difference-ai-module.md) [~W] — attached 2026-11-04 from Elsamanoudy Ayman; Alhazimi Awdah; Hassanien Mohammed; Almarabheh Amer; Al-Aqidi Sultan; Alwalidi Raghad; Alrefaie Zienab zeinab (2026), which proposed "AI tutors can be safely integrated as supplemental resources in medical education without adversely affecting academic performance"; tests this page's relationship.
 - [Dental students using ChatGPT-3.5 alongside videos achieve higher operational skill test scores than students using videos alone](../claims/chatgpt-supplement-raises-dental-operational-skill-scores.md) [+W] — attached 2026-11-06 from Qiao J et al. (2025), which proposed "Integrate ChatGPT as a supplementary instructor into clinical skills teaching, with attention to answer accuracy and version choice"; tests this page's relationship.
 - [ChatGPT assistance disproportionately benefits dental students with low spatial ability; high spatial ability learners show no significant difference between modes](../claims/chatgpt-benefits-low-spatial-ability-learners-most.md) [~W] — attached 2026-11-06 from Qiao J et al. (2025), which proposed "Integrate ChatGPT as a supplementary instructor into clinical skills teaching, with attention to answer accuracy and version choice".
+- [Korbit (full) showed higher course completion rates than both Korbit (no feedback) and the MOOC platform](../claims/korbit-full-higher-completion-rates.md) [+W] — attached 2026-11-19 from A New Era: Intelligent Tutoring Systems Will Transform Online Learning for Millions, which proposed "Combine problem-solving exercises with personalized feedback in online learning platforms to improve learning outcomes and engagement".
+- [Korbit (full) learning gains were around 92% higher than Korbit (no feedback) on raw gains, while the normalized-gain difference was smaller and not statistically significant](../claims/korbit-full-vs-no-feedback-raw-gains.md) [~W] — attached 2026-11-19 from A New Era: Intelligent Tutoring Systems Will Transform Online Learning for Millions, which proposed "Combine problem-solving exercises with personalized feedback in online learning platforms to improve learning outcomes and engagement"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

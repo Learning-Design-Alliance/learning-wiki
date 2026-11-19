@@ -51,3 +51,4 @@ The article's problem statement, supported by reference to annual analytical rep
 - [Students entering the experiment showed low informational-technological and subject-pedagogical competency formation alongside sufficient mathematical competencies](cocalc-ascertaining-low-initial-competencies.md) — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Time constraints, lack of financial resources and health system organisation were identified as major barriers to guideline implementation](claim-implementation-barriers-time-resources.md) — related
+- [Misalignment between students' perceptions of computation and expert practice can hinder progress along inbound trajectories and transfer](cop-misalignment-hinders-trajectory.md) — related

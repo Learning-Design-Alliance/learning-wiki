@@ -53,3 +53,4 @@ Thematic analysis of open-ended survey responses and informal laboratory feedbac
 - [Students report improved visual pattern recognition of histological structures after using an educational Instagram account](histo-embryo-instagram-improves-visual-pattern-recognition.md) — related
 - [Adult learners perceive AI as supporting consolidation-phase comparison, knowledge reorganization, and transfer](ai-supports-consolidation-comparison-reorganization-transfer.md) — related
 - [Static quiz-based posts dominate engagement on an educational histology Instagram account, indicating a preference for active recall formats](histo-embryo-static-quiz-posts-dominate-engagement.md) — related
+- [Reinforcement learning through in-class revision and an excursion benefited Class 1, indicating longer programs are needed for consolidation](reinforcement-learning-consolidates-einsteinian-concepts.md) — related

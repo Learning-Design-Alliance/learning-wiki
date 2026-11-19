@@ -47,3 +47,5 @@ Score-distribution and admission-fraction analysis by institution size and selec
 ## Related Claims
 - [Applicants from the largest undergraduate programs and from selective institutions are admitted at higher overall rates than applicants from smaller or less selective institutions](large-selective-institutions-higher-admission-rates.md) — related
 - [The physics GRE score mediates the relationship between undergraduate institution size and admission fully, and between selectivity and admission partially, while GPA mediates neither](pgre-mediates-institution-admission-relationship.md) — related
+- [The physics GRE score was the only rubric construct differing by undergraduate program size regardless of how larger programs were defined](rubric-program-size-physics-gre-only-robust.md) — related
+- [Only the general GRE and physics GRE rubric scores differed between applicants from more or less selective undergraduate institutions](rubric-selectivity-differences-gre-only.md) — related

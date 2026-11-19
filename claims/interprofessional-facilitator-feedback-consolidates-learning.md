@@ -49,3 +49,4 @@ Thematic analysis of open-ended responses; each TBL class had facilitators inclu
 - [Participants anticipate professional development and patient-level benefits from interprofessional learning](anticipated-benefits-ipe-pharmacy.md) — related
 - [Facilitator role and quality of structured debriefing are critical determinants of nursing students' satisfaction with simulation-based BLS training](simulation-bls-facilitator-debriefing-quality.md) — related
 - [Peer observation and structured debriefing are perceived by students as key opportunities for reflection and learning during simulation](debriefing-peer-observation-reflection.md) — related
+- [Reinforcement learning through in-class revision and an excursion benefited Class 1, indicating longer programs are needed for consolidation](reinforcement-learning-consolidates-einsteinian-concepts.md) — related

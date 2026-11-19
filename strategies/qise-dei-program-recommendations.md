@@ -45,6 +45,7 @@ The article frames new QISE programs as an opportunity to address equity: "QISE 
 - [Use extracurricular activities and inclusion-oriented clubs to build cross-group connections, while removing access barriers](extracurricular-shared-goals-cross-group-connections.md)
 - [Three strategic actions: build awareness of underrepresentation, invest in accessible pathways, and prioritize retention strategies](three-strategic-actions-tech-equity.md)
 - [Offer a concepts-focused, prerequisite-free Quantum 101 course as an entry point and recruiting tool](quantum-101-concepts-first-entry-course.md)
+- [Balance quantum-specific and general STEM content in new quantum programs, offer broad quantum courses for non-specialist roles, and engage business education](quantum-curriculum-recommendations-from-industry-survey.md)
 
 ## Examples
 -

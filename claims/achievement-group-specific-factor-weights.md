@@ -65,3 +65,5 @@ Fitting for the LA group; the article reports "the best fit is obtained for valu
 
 ## Related Claims
 - [Mastery learning effects are larger for lower-aptitude students, narrowing the spread of achievement in a class](mastery-learning-effects-larger-for-lower-aptitude-students.md) — related
+- [High-achieving students performed better in virtual context while low-achieving students performed worse, with no difference for average achievers](achievement-group-context-divergence.md) — related
+- [Interaction with teachers is the most important factor in the knowledge acquisition process across all groups and contexts](teacher-interaction-highest-weight-kap.md) — reports the opposite

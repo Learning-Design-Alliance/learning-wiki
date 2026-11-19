@@ -78,3 +78,4 @@ Re-analysis of expert interview excerpts from Slotta and Chi's own study shows e
 - [Teachers' language reflected a substance-based, agentive ontology of gravity, treating gravity as an active noun participant capable of pulling](gravity-agent-metaphor-teacher-talk.md) — a narrower finding that bears on this claim
 - [Students conceive electric current as a material substance rather than a process, which creates an ontological obstacle and blocks the voltage concept](current-as-substance-ontological-obstacle.md) — related
 - [Students struggle to distinguish dark matter from dark energy and related mysterious concepts](students-confuse-dark-matter-dark-energy.md) — related
+- [All 18 assessed students obtained accurate antimony a1g phonon frequencies, and 11 of 18 obtained accurate pulse durations](students-accurate-phonon-frequencies-pulse-durations.md) — related

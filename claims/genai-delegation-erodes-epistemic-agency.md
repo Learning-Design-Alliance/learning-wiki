@@ -55,3 +55,4 @@ The paper reports, citing Gerlich (2025), Lee et al. (2025), and Kosmyna et al. 
 - [GenAI cognitive offloading of lower-order tasks frees cognitive resources but risks reduced human evaluation skills](genai-cognitive-offloading-benefits-and-risks.md) — related
 - [AI use is associated with lower critical thinking, with trust strengthening and AI literacy weakening the effect](ai-use-lower-critical-thinking-literacy-buffer.md) — a broader claim this one bears on
 - [Gesturing facilitates thinking by offloading cognition and providing kinesthetic information that can change predictions](gesturing-facilitates-idea-construction.md) — related
+- [Students distributed epistemic agency effort unevenly across dimensions, with some focusing on communication at the expense of computation](uneven-agency-distribution-across-dimensions.md) — related

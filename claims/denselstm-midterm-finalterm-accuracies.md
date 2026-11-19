@@ -49,3 +49,5 @@ Benchmarking evaluation on the two examination datasets. The article reports the
 - [DenseLSTM achieves the highest AUC values of 0.9972 (mid-term) and 0.9760 (final-term) for classifying normal and abnormal behaviour](denselstm-highest-auc-values.md) — related
 - [DenseLSTM achieves the highest overall accuracy of 95.32% for detecting abnormal student behaviour at online examinations, outperforming LSTM, RNN and DNN benchmarks](denselstm-highest-overall-accuracy-95-32.md) — related
 - [The DNN benchmark performs poorly, with 82.74% mid-term and 52.68% final-term accuracy, and its error rates are associated with false prevention from extremely slow answer selection](dnn-benchmark-low-accuracy-false-prevention.md) — related
+- [DenseLSTM exceeded 90% accuracy on the majority of the six test sets, with per-test accuracies of 97.77%, 91.92%, 91.96% and 90.18%](denselstm-above-90-percent-majority-test-sets.md) — related
+- [DenseLSTM achieves the highest classification accuracy of the tested networks, 90.72% overall, outperforming LSTM, RNN and DNN benchmarks on the PT Behavioural Database](denselstm-highest-accuracy-90-72-overall.md) — related

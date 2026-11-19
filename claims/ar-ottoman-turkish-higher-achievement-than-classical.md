@@ -50,3 +50,4 @@ Quasi-experimental study with 30 experimental and 30 control freshman students i
 - [Experimental-group students reported high positive motivation toward the AR-developed Ottoman vocabulary material across the ARCS sub-dimensions](ar-ottoman-material-high-motivation-arcs.md) — related
 - [Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction](mobile-learning-improves-achievement-quasi-experiment.md) — a broader claim this one bears on
 - [Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies](vr-ar-advantages-achievement-motivation-with-null-contrast.md) — a broader claim this one bears on
+- [An AR and QR code integration approach raised undergraduate computer-course achievement relative to conventional lecture](ar-qr-code-hardware-course-higher-achievement.md) — related

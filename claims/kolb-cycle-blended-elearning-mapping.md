@@ -51,3 +51,4 @@ Authors' design interpretation (type e) from the Discussion, describing how the 
 - [Healthcare providers' learning experiences during single-port robotic surgery transition training align with Kolb's four-stage experiential learning cycle](sp-transition-training-aligns-kolb-cycle.md) — related
 - [Thematic analysis of occupational therapy students' interviews yielded four overarching themes mapped onto the four stages of Kolb's experiential learning cycle](dvsim-four-kolb-themes-qualitative.md) — related
 - [School-based constructivist learning frameworks guide robotics learning experiences](school-based-constructivist-robotics-frameworks.md) — related
+- [Mapping the pilot course onto the 3P Framework revealed a large gap in Physics content, filled by Fall 2019](curriculum-mapping-revealed-physics-gap.md) — related

@@ -54,3 +54,4 @@ Analysis of students' end-of-term reflective essays (written by choice of a quan
 - [In the Matter-Wave curriculum's Mach-Zehnder midterm question, nearly 40% of students cited lack of which-path information and 33% cited two paths in predicting wave-like behavior](mach-zehnder-midterm-which-path-responses.md) — related
 - [Instructors most often named quantum information, entanglement, the EPR paradox and Bell inequality as contemporary topics, but reported limited course time](qm-contemporary-topics-limited-course-time.md) — related
 - [Students selected open-inquiry experiments more frequently than other experiments when choosing a culminating report topic](students-prefer-open-inquiry-experiments.md) — related
+- [Pilot reflections showed GTAs preferred practical, directly applicable topics over theoretical or career-irrelevant ones](gtas-prefer-practical-preparation-topics.md) — related

@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 146 claims (101 show a difference, 33 mixed, 12 no difference) · 124 studies (29 causal, 29 qualitative, 20 review, 20 design, 13 associational, 8 theoretical, 5 quant-synthesis), `q1`–`q4` · 17 of 124 report an effect size · 141 claims rest on one study
+> **Evidence** · 147 claims (101 show a difference, 34 mixed, 12 no difference) · 125 studies (30 qualitative, 29 causal, 20 review, 20 design, 13 associational, 8 theoretical, 5 quant-synthesis), `q1`–`q4` · 17 of 125 report an effect size · 142 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -187,6 +187,7 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [Students who perceive relevance of physics to their majors show more expert-like CLASS attitudinal shifts than students who perceive none](../claims/relevance-expert-like-class-shifts.md) [+M] — learners who differ on it differ in outcomes
 - [Problem-solving-general favorability (PSGeneralFav) is the strongest and most significant CLASS predictor of change in TUG-K scores, while real-world connection and sensemaking variables are not significant](../claims/psgeneralfav-strongest-predictor-tug-k-change.md) [-W] — learners who differ on it differ in outcomes
 - [The authors interpret the real-world group's worst performance as evidence that layout learning is highly sensitive to distraction in crowded group field trips](../claims/layout-learning-sensitive-to-distraction.md) [+W] — an instructional effect differs with it
+- [Computation in high school physics is a double-edged sword: it makes learning more authentic for familiar students but generates frustration and aversion for unfamiliar ones](../claims/computation-double-edged-sword-high-school-physics.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

@@ -49,3 +49,4 @@ Nonparametric comparison of midterm papers after Stage 1 familiarization: treatm
 - [Editing target FSs into paragraphs significantly increased treatment-group learners' use of those FSs between midterm and final papers](editing-fs-into-texts-increases-use.md) — related
 - [The treatment-group gain persists when the familiar item for example is excluded from the analysis](fs-gain-persists-excluding-for-example.md) — related
 - [Explicit FS instruction increased learners' spontaneous use of taught FSs in writing, with 60% of taught FSs appearing in participants' writing.](explicit-fs-instruction-increases-spontaneous-fs-use.md) — related
+- [Rubric-score distributions for the metacognitive-intervention treatment group and the no-intervention control group differ significantly but with a small effect size](rubric-score-difference-significant-small.md) — related

@@ -53,3 +53,4 @@ Pre/post questionnaire study of Year 9 classes in 2013 and 2014 (final sample 10
 - [A ten-week Einsteinian physics program dramatically improved Year 9 students' conceptual understanding, with average class scores rising from 23% to 91%](year9-einsteinian-program-conceptual-gains.md) — possibly the same claim (merge candidate)
 - [Conceptual scores differed significantly from pre-test to post-test across Years 7-10 after a one-day Einsteinian physics intervention, in one uncontrolled pre-post study](one-day-einsteinian-intervention-conceptual-gains.md) — related
 - [One-day and 10-week interventions yield comparable core-concept results, but the one-day program scores significantly less on derived concepts](short-versus-long-intervention-comparison.md) — related
+- [Year 3 students (ages 7-8) demonstrated substantial uptake of Einsteinian physics concepts after a nine-lesson intervention](year-3-students-learn-einsteinian-concepts.md) — related

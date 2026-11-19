@@ -67,3 +67,4 @@ Authors' interpretation of the demographic admission-rate results in the Discuss
 - [Applicants from the largest undergraduate programs and from selective institutions are admitted at higher overall rates than applicants from smaller or less selective institutions](large-selective-institutions-higher-admission-rates.md) — related
 - [GRE score gaps by race, gender, and citizenship, combined with cutoff use, select against underrepresented groups in physics admissions](gre-cutoffs-select-against-underrepresented-groups.md) — related
 - [A 700 QGRE cutoff would reject nearly three quarters of Hispanic physical-sciences test takers, more for other minority groups, and filter out women at a higher rate than men](qgre-cutoff-700-diversity-filter.md) — related
+- [Males tended to score higher on the physics GRE rubric construct while females tended to score higher on community contributions and diversity contributions](rubric-sex-differences-three-constructs.md) — related

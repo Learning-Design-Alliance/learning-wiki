@@ -49,6 +49,7 @@ The article's Table 1 and discussion recommend concrete fixes for the problems i
 ## Related Strategies
 
 - [Keep online lecture videos under twenty minutes and segment by topic with speed control](online-lecture-under-twenty-minutes.md)
+- [Run student oral talks on announced topic lists to extend the curriculum and relieve prior-knowledge discrepancies in multidisciplinary courses](oral-talk-topics-multidisciplinary-strategy.md)
 
 ## Examples
 -

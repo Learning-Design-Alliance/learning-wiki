@@ -85,3 +85,4 @@ Concluding sentence of the per-category decomposition: only the oral test's unce
 ## Related Claims
 - [Applying a priori analysis to a laboratory course yields an a priori final-grade uncertainty of ±0.5 points (2.5%) at 90% confidence](apa-course-grade-uncertainty-half-point.md) — related
 - [A fairness criterion on the weight and number of Participation Grades keeps their volatility from affecting the reliability of the final laboratory grade (analytical derivation)](performance-grade-fairness-criterion.md) — related
+- [The course grades a 3-credit teaching course through three weighted components: homework and in-class performance, oral talk, and final exam.](quantum-course-three-part-grading-30-35-35.md) — related

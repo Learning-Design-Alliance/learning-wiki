@@ -47,6 +47,7 @@ In its conclusions the article states that "a solid commitment from administrato
 - [Provide virtual and on-site professional learning on the digital platform and grade-specific curriculum training](twig-science-professional-learning-strategy.md)
 - [Implement classroom videogame interventions with teacher training, curriculum alignment, extended schedules, and administrative support](videogame-classroom-implementation-recommendations.md)
 - [Adopt blended teaching in elementary mathematics and provide the resources and staff to support it](adopt-blended-teaching-elementary-maths-strategy.md)
+- [Adopt AR-based activities as a supplementary tool within a blended learning approach when transitioning schools toward a SMART campus](ar-supplementary-blended-learning-strategy.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Qualitative analysis of 84 student postsession commentaries across both schools 
 ## Related Claims
 - [Year 11 pupils receiving Tutor Trust mathematics tuition achieved slightly higher mathematics GCSE scores than comparison pupils, but this difference cannot be attributed to the tuition](tutor-trust-maths-gcse-slightly-higher-not-attributable.md) — related
 - [Qualitative analysis found predominantly positive perceptions of iVR, with real-time feedback the most valued element and lack of realism the main concern](qualitative-ivr-perceptions-feedback-valued-realism-concern.md) — related
+- [Students' feedback on embedding wxMaxima and other CAS in Calculus courses was predominantly negative](student-feedback-negative-toward-cas-embedding.md) — related

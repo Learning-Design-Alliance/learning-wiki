@@ -47,6 +47,7 @@ The article recommends that professional societies develop jointly endorsed guid
 ## Related Strategies
 
 - [Disseminate research to practitioners through knowledge brokers and accessible formats such as short videos and social media threads](disseminate-via-knowledge-brokers.md)
+- [Disseminate MGI education and research capabilities through scientific societies and electronic media to enable inclusive participation](society-electronic-media-dissemination-strategy.md)
 
 ## Examples
 -

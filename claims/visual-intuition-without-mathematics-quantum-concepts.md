@@ -51,3 +51,6 @@ Focus-group evidence from the pilot shows participants "were able to correctly u
 - [Experts' intuitive steps in derivations are cultural norms learned as one becomes a physicist](intuitive-recognitions-are-cultural-norms.md) — related
 - [Teachers' tendency to seek coherence between their intuitions and known correct answers was a key epistemological resource enabling their progress](coherence-seeking-epistemological-resource.md) — related
 - [The author argues that learning quantum mechanics is difficult and counter-intuitive and is much like learning a new language requiring solid mastery before fluency](learning-quantum-mechanics-like-learning-a-language.md) — related
+- [High school students reported that exploring quantum optical phenomena before mathematical models were introduced helped their understanding and mastery of quantum computing material](experiments-before-mathematics-student-reported-mastery.md) — a narrower finding that bears on this claim
+- [Game-based learning with visual clues helps address quantum literacy by engaging learners and building analytical skills](games-quantum-literacy-engagement.md) — a broader claim this one bears on
+- [Some instructors report that prior quantum mechanics exposure is not a good indicator of student performance in introductory QIS courses](prior-qm-exposure-not-performance-indicator.md) — related

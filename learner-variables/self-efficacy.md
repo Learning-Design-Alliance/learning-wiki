@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 372 claims (284 show a difference, 47 mixed, 41 no difference) · 292 studies (96 associational, 95 causal, 33 review, 28 qualitative, 21 design, 10 quant-synthesis, 8 theoretical), `q1`–`q4` · 59 of 292 report an effect size · 368 claims rest on one study
+> **Evidence** · 375 claims (285 show a difference, 49 mixed, 41 no difference) · 295 studies (96 associational, 95 causal, 34 review, 30 qualitative, 21 design, 10 quant-synthesis, 8 theoretical), `q1`–`q4` · 59 of 295 report an effect size · 371 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -403,6 +403,9 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Perceived recognition, peer interaction, and belonging each predict end-of-course physics self-efficacy and interest after controlling for pre-course self-efficacy and interest](../claims/learning-environment-predicts-post-motivational-beliefs.md) [+M] — measured as an outcome of the instruction studied
 - [Sense of belonging is the largest predictor of post-course physics self-efficacy, and belonging uniquely explains substantial variance in self-efficacy](../claims/belonging-largest-predictor-post-self-efficacy.md) [+M] — measured as an outcome of the instruction studied
 - [The authors report that using the didactic sequences fostered student protagonism, with visible growth in students' confidence and ability to lead interventions](../claims/student-protagonism-didactic-sequences.md) [+W] — measured as an outcome of the instruction studied
+- [A digital game-based AR marine education program for primary learners produced confidence, goal attainment, and efficiency gains](../claims/ar-game-based-marine-education-outcomes.md) [+M] — measured as an outcome of the instruction studied
+- [Anonymous peer review supports perceived competence: students perceived improved work quality, critical thinking and workplace skills, with noted difficulties](../claims/anonymous-peer-review-perceived-competence.md) [~M] — measured as an outcome of the instruction studied
+- [Female facilitators self-reported positive impacts on interest and motivation (all), and on confidence and self-efficacy, internal and external recognition, and performance and competency beliefs (majority)](../claims/outreach-positive-identity-impacts-female-facilitators.md) [~M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

@@ -66,3 +66,4 @@ Review synthesis of Ford et al.'s (2023) UK mixed-methods realist evaluation (n 
 - [Skill-based pharmacy learning (compounding, device counselling, OSCEs) faced validation, access, and transferability challenges when delivered remotely](remote-skill-based-learning-challenges-pharmacy.md) — related
 - [The most commonly reported difficulty with online exams was the limited allocated time for each exam](limited-allocated-time-main-online-exam-difficulty.md) — related
 - [Remote assessment of low-stake skills was viewed as comparable to in-person assessment and able to standardise competency assessment](remote-assessment-standardises-low-stake-competency.md) — related
+- [Students preferred frequent, low-stakes assessments in online courses, citing feedback, low anxiety, and flexibility](frequent-low-stakes-assessments-preferred.md) — related

@@ -50,3 +50,8 @@ NEA grant-supported evaluation using surveys and interviews with scientists, ani
 - [Verbal redundancy does not facilitate learning when materials include images or animation](images-animation-eliminate-redundancy-benefit.md) — related
 - [The interactive gravitational-wave detector model exhibit increased self-reported visitor interest in physics and awareness of gravitational waves at the Royal Society Summer Science Exhibition.](interactive-gw-detector-model-increased-visitor-interest.md) — related
 - [Surveys and interviews show little evidence that art students affected the actual scientific research, though the collaboration pushed scientists to clarify their communication to non-specialists](astro-animation-little-art-impact-on-research-scientists-clarify.md) — related
+- [Screening animations alone may raise scientific awareness, but additional context is essential for science learning](animation-alone-insufficient-context-needed.md) — possibly the same claim (merge candidate)
+- [Animations produced in the astro-animation class received a very positive reception from both specialist and non-specialist audiences](astro-animation-positive-audience-reception.md) — a narrower finding that bears on this claim
+- [Animation students reported the class as an effective way to learn science and to connect their art practice with astronomy](astro-animation-student-science-learning.md) — related
+- [Audiences showed more enthusiasm when animations were presented jointly by animators and scientists](joint-animator-scientist-presentation-enthusiasm.md) — related
+- [MICA astro-animation artwork has been used for science outreach to a greater extent than SAIC art-science coursework](mica-saic-outreach-use-comparison.md) — related

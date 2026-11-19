@@ -48,3 +48,4 @@ Outcome measure from the natural field experiment in three HarvardX courses: the
 - [The content of MOOC students' plans forecasts completion, with time-focused plans predicting lower completion](time-focused-plans-forecast-lower-mooc-completion.md) — related
 - [Goal setting and strategic planning positively predict attainment of personal course goals in MOOCs](goal-setting-strategic-planning-predict-mooc-goal-attainment.md) — related
 - [Help seeking negatively predicts goal attainment in MOOCs](help-seeking-negative-predictor-mooc-goal-attainment.md) — related
+- [Korbit (full) showed higher course completion rates than both Korbit (no feedback) and the MOOC platform](korbit-full-higher-completion-rates.md) — related

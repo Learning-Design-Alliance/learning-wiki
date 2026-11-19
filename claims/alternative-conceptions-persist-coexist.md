@@ -58,3 +58,4 @@ Theoretical argument in the article, attributed to prior behavioral and brain-im
 - [The replacement requirement of elicit-confront-resolve is problematic for interdisciplinary conflicts in which neither conflicting idea is more correct than the other](ecr-replacement-problematic-interdisciplinary.md) — related
 - [Verification-lab predictions derive from authoritative sources rather than students' own ideas, so students may never confront their misconceptions](verification-lab-predictions-authoritative-source.md) — related
 - [Pupils revert to alternative frameworks for their intuitions on slightly novel tasks even after apparently understanding an idea](alternative-frameworks-revert-novel-tasks.md) — a narrower finding that bears on this claim
+- [Newtonian mechanics misconceptions persist despite extensive training in third-semester extended-programme students](newtonian-misconceptions-persistent-despite-training.md) — a narrower finding that bears on this claim

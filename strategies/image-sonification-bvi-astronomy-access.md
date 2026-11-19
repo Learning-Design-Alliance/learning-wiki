@@ -47,6 +47,7 @@ Partnering with accessibility specialists at GLAS, the project developed an imag
 - Afterglow Access Image Analysis Web App
 - [Provide a sonified HUDF alternative for visually impaired students alongside the visualization](hudf-sonification-visually-impaired-accommodation.md)
 - [Use process driven math to break math problems into navigable pieces for students accessing math auditorily](process-driven-math-auditory-bvi.md)
+- [Use scale-visualization imagery to convey astronomical magnitudes](logarithmic-universe-imagery-strategy.md)
 
 ## Examples
 -

@@ -61,3 +61,4 @@ Design-based research cross-case comparison of three cases using the Mad City My
 - [Experience of using augmented reality within cloud-based systems already exists, but its educational success has not yet been proven under natural conditions](ar-in-cloud-systems-unproven-effectiveness.md) — related
 - [The article argues that a mobile information and educational environment of a HEI yields institutional advantages and gives every student free, time- and place-independent access to discipline materials](mobile-ios-advantages.md) — related
 - [Combining collaborative, game-based and mobile activities is argued to create synergies that make learning more effective than each activity type alone](jscm-synergy-argument.md) — related
+- [Game-based learning with visual clues helps address quantum literacy by engaging learners and building analytical skills](games-quantum-literacy-engagement.md) — a narrower finding that bears on this claim

@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/conversation-alone-shifted-faculty-attitudes-esr.md
+---
+
+# Revision history: [claims/conversation-alone-shifted-faculty-attitudes-esr](../claims/conversation-alone-shifted-faculty-attitudes-esr.md)
+
+### 2026-11-19 · ingest · process:wiki-ingest
+Ingested from arxiv-2202.01849 (Ethics education in the quantum information science classroom: Exploring attitudes, barriers, and opportunities) via eval_harness.py + ingest_extractions.py

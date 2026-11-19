@@ -58,3 +58,4 @@ This is a single-case study (n=1) with research questions about appropriation an
 - [Reflexive noticing shifts teacher discourse from stabilization to possibility, while surprises alone often re-stabilize it](reflexive-noticing-shifts-stabilization-to-possibility-discourse.md) — related
 - [Students' appropriation of class interaction practices was mediated by prior sociohistorical educational experiences](prior-practices-mediate-class-interaction-appropriation.md) — related
 - [Restorying supports Black girls' identification of and resistance to dominant narratives in computing](restorying-supports-computing-identity-reconstruction.md) — related
+- [Conversation alone, via empathetic listening and reflective questioning, shifted faculty attitudes markedly toward openness to ESR in the QIS classroom](conversation-alone-shifted-faculty-attitudes-esr.md) — related

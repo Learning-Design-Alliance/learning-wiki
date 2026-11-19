@@ -48,6 +48,7 @@ During implementation, R15CC co-designs all-staff meetings and helps leaders con
 - [Build community-wide foundations before implementation through knowledge exchanges and planning meetings across sites](pre-implementation-community-knowledge-exchanges.md)
 - [Getting-started sequence: build authentic partnerships, assess intervention-context fit, then budget for continuous revision](stakeholder-partnership-first-implementation-strategy.md)
 - [Implement UbD through collaborative teacher design groups with iterative evaluation meetings](ubd-teacher-design-groups-strategy.md)
+- [Adopt a mobile-based gradebook with outcomes analytics to support feedback and academic planning](mobile-gradebook-outcomes-analytics-strategy.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Chi-square test for independence comparing the proportion of reports mentioning 
 - [A statistically significant increase in technology-related advice occurred between 2011 and 2016](significant-increase-technology-advice-2011-2016.md) — reports the opposite
 - [Technology was mentioned in fewer than 28% of the 429 sampled lesson appraisal guides](technology-mentioned-in-fewer-than-28-percent-of-placement-reports.md) — related
 - [No statistically significant difference in technology mentions between second-year and fourth-year students](no-significant-difference-technology-mentions-by-year.md) — related
+- [Technology was highlighted as a key benefit only in the online (2020) iteration, mentioned in 13.7% of benefit statements, versus none in 2019](technology-key-benefit-emerged-online-only.md) — related

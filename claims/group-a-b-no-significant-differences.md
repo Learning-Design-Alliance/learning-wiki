@@ -51,3 +51,4 @@ Independent-sample t-test comparison of the two randomly assigned presentation b
 - [The two training groups did not differ significantly in any flight task at baseline](baseline-equivalence-flight-tasks.md) — related
 - [No significant gender differences on any component of achievement or retention](no-gender-difference-components.md) — related
 - [Students' post-presentation spotter scores were significantly higher than pre-presentation spotter scores in one single-group pre-post study of creative muscle presentations](post-presentation-spotter-scores-significantly-higher.md) — related
+- [Randomly assigned and friendship-based working groups show no significant difference in physics performance](random-versus-friendship-grouping-no-difference.md) — related

@@ -56,3 +56,4 @@ Competitive SEM model comparison in the four-wave longitudinal data showed the r
 - Reciprocal relations models fit better than unidirectional or baseline alternatives for both CLPM and RI-CLPM — related
 - [Development is understood through bidirectional circular causality across levels rather than a unidirectional gene-to-brain-to-behavior path](circular-causality-across-developmental-levels.md) — a broader claim this one bears on
 - [The bidirectional cross-lagged model fits better than unidirectional and autoregressive-only models, supporting reciprocal effects only for girls](bidirectional-model-best-fit.md) — related
+- [Reciprocal collaborative ties bring higher performance returns in elementary education, while unidirectional ties are negatively related to grades](reciprocal-ties-higher-performance-elementary.md) — related

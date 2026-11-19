@@ -71,6 +71,7 @@ Baseline assessment enables instruction to start where learners actually are rat
 - [Assess readiness at the end of each practice session and provide tailored remediation before advancing](readiness-assessment-tailored-remediation-strategy.md)
 - [Craft diagnostic pre-assessments and path-diverse exams carefully for adaptive courses](diagnostic-preassessment-and-path-diverse-exams.md)
 - [Educator experiments: pre-lecture fundamentals quizzes, mental math, and prerequisite mathematics assessment](educator-experiments-lecture-preparation.md)
+- [Adjust teaching and learning to reinforce concepts flagged by pre-test misconception data](adjust-teaching-from-pretest-misconception-data.md)
 
 ## Examples
 - **Force Concept Inventory (FCI)** — a widely used physics diagnostic that identifies Newtonian vs. naive-mechanics reasoning before mechanics instruction; results are used to compare instructional approaches (e.g., interactive engagement vs. lecture).

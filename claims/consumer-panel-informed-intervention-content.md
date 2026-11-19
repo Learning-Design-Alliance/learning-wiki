@@ -47,3 +47,4 @@ Descriptive account of target-group involvement: a "consumer panel consisted of 
 ## Related Claims
 - [Target-group pretests rated both intervention versions positively, leading to text shortening and better integration of environmental information](pretest-appreciation-basic-plus-versions.md) — related
 - [Recruitment of preterm families into home computerized training was low, with screen-time concerns a stated barrier](low-recruitment-screen-time-barrier-computerized-training.md) — related
+- [Positioning students as stakeholders who decide content and provide technology feedback is claimed to lead to increased consumer acceptance](student-stakeholders-increase-consumer-acceptance.md) — related

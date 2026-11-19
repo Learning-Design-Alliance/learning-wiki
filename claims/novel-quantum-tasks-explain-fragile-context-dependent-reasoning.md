@@ -51,3 +51,4 @@ Interpretive analysis of exemplars (Kuhnian concrete exemplary problem solutions
 - [Student responses in upper-level quantum mechanics are context-dependent: a difficulty shown by 5–10% of students in one context likely appears in a higher percentage in another context](qm-context-dependence-of-reasoning-difficulties.md) — related
 - [Physics education worldwide lacks a deep course in probability and randomness, which the author argues causes misunderstandings of quantum theory](physics-curricula-lack-deep-probability-course.md) — related
 - [Students' reasoning about quantum key distribution concepts is inconsistent across nearly identical questions before the QuILT](qkd-student-reasoning-inconsistency-across-questions.md) — related
+- [Students' novelty judgments of assessment questions differ sharply by module, with classical dynamics questions judged novel by most students](question-novelty-judgments-vary-by-module.md) — related

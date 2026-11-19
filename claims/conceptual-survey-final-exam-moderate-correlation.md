@@ -50,3 +50,4 @@ Linear regression analysis (Fig. 1 and Table VIII) of CSEM posttest versus final
 - [A significant post-test gender difference favoring males also appears in the honors calculus-based introductory physics course](mcs-posttest-gender-difference-honors.md) — related
 - [After traditional instruction, female students in regular calculus-based courses score significantly lower than male students on the MCS post-test](mcs-posttest-gender-difference-calculus-based.md) — related
 - [Students in EBAE introductory physics courses outperform students in lecture-based courses on conceptual survey posttests despite no pretest difference](ebae-outperform-lb-conceptual-posttests.md) — related
+- [Student performance in calculus-based physics I correlates with prior conceptual physics background more than with calculus-I proficiency](conceptual-physics-background-correlates-with-physics-i-performance.md) — related

@@ -70,3 +70,5 @@ Post-questionnaire item on what can deform space-time (Figure 4). The printed di
 - [The RSA activity produces large gains on General Relativity topics not treated in school: gravitational lensing, gravitational waves and black holes](rsa-improves-gr-topics-lensing-waves-black-holes.md) — related
 - [The RSA activity improves mastery of Kepler's laws, with the largest gain on the second law, and improves understanding of gravity assist](rsa-improves-kepler-laws-and-gravity-assist.md) — related
 - [Teachers trained in the RSA activity built the DIY structure in their own schools before the eBook was published](teachers-built-diy-structures-after-course.md) — related
+- [In one uncontrolled pre-post study, primary pupils mostly explained gravity as interaction or deformation rather than everyday effects after a spacetime-simulator intervention](einsteinian-gravity-shifts-pupil-explanations.md) — related
+- [The RSA activity helps high school students visualize, comprehend and remember Newtonian gravity and GR topics better than a traditional treatment](rsa-activity-improves-gravity-comprehension.md) — a broader claim this one bears on

@@ -58,3 +58,4 @@ ANCOVA on post-test mock scores in a 16-week quasi-experiment with intact classe
 - [Studies report experiment classes using JAS achieve higher average study results than control classes](jas-experiment-class-higher-than-control.md) — related
 - [Assessment for learning significantly improves pre-medical ESP students' final exam achievement compared with summative assessment](afl-improves-esp-achievement-premedical.md) — related
 - [Daily assessments improved final exam performance on five of eight topics](daily-assessments-improved-final-exam-topics.md) — related
+- [Class 1 students outperformed Class 2 on post-intervention knowledge tests, a contrast the authors interpret in terms of teacher involvement and motivation](class-1-outperformed-class-2-knowledge-tests.md) — related

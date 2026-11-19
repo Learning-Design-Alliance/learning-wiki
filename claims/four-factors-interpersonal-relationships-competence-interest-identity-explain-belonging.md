@@ -51,3 +51,4 @@ Frequency counts of belonging-explanation codes from the interviews, shown in Fi
 - [Belonging measures were typically validated on small, primarily White and middle-class samples without testing factor-structure differences by demographics](belonging-measures-validation-sampling-limits.md) — related
 - [Interpersonal relationships are framed as supports for motivation at school](interpersonal-relationships-support-school-motivation.md) — related
 - [Interest and value were the dominant topics in leavers' explanations, especially among students leaving due to attraction](interest-value-dominant-topic-in-attrition-explanations.md) — related
+- [Students identify diverse reasons why representation in STEM matters, spanning nine common themes](notecard-activity-representation-themes.md) — related

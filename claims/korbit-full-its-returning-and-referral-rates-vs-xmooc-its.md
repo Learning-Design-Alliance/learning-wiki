@@ -66,3 +66,4 @@ Post-use questionnaire in the same A/B study: 54.17% of Full ITS students 'repor
 ## Related Claims
 - [Students reported the Korbit dialogue chat was at least as fun as learning alone and often helped them learn](korbit-chat-fun-and-learning-help-questionnaire.md) — related
 - [Full Korbit ITS increased time spent learning relative to an xMOOC-like reduced ITS in a randomized A/B test](korbit-full-its-time-on-task-vs-xmooc-its.md) — related
+- [Korbit (full) participants spent significantly more study time on the platform than Korbit (no feedback) participants](korbit-full-longer-study-time.md) — related

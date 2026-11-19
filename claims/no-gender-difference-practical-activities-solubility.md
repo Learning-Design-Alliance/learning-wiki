@@ -54,3 +54,4 @@ ANCOVA of the practical-activities group (53 students) classified by gender with
 - [Gender has no influence on performance under video-based individualized or conventional instruction in geometry](no-gender-difference-ivip-cvip.md) — related
 - [Gender did not significantly influence the achievement of Nigerian SS1 students taught the mole concept with mastery learning instructional strategy.](mastery-learning-gender-no-significant-effect-mole-concept.md) — related
 - [No significant difference in achievement between male and female students taught basic science with concept mapping](no-gender-difference-concept-mapping-achievement.md) — related
+- [Both genders showed equal interest and enthusiasm in learning science, with no gender influence observed](equal-gender-interest-lower-primary-science.md) — related

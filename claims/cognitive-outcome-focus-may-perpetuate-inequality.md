@@ -52,3 +52,4 @@ The article's argumentative review of critical studies in its section on empiric
 - [Some personalization methods such as ability tracking may increase achievement gaps, though empirical evidence is mixed](personalization-methods-achievement-inequality-mixed.md) — related
 - [Intelligent learning systems tend to focus more heavily on the cognitive rather than the affective nature of care](intelligent-systems-favour-cognitive-over-affective-care.md) — related
 - [Sustained uncritical imitation of role models may perpetuate undesirable practices and unintended institutional norms](sustained-imitation-perpetuates-undesirable-practices.md) — related
+- [The authors argue that increasing educational inequality is not necessarily bad when accompanied by increases in the level of education](education-level-inequality-tradeoff-argument.md) — related

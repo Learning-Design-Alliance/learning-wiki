@@ -48,3 +48,4 @@ Analysis of data from 200+ students in a 2013 introductory calculus class at the
 ## Related Claims
 - [Revised mobile-web grading (timeout plus longer variable taper) shows a clearer relationship between tutor-web grade and final exam grade than the earlier fixed-taper system in the grade range 6-9](timeout-taper-grading-better-predicts-exam.md) — related
 - [Initial ALEKS knowledge-state scores strongly relate to grade distributions even in calculus courses the assessment does not cover and that have no placement requirements](aleks-score-grades-non-placement-courses.md) — related
+- [Tutor-web drill-mode final exam produced strong grade outcomes for students who took it](tutor-web-drill-mode-final-exam-outcomes.md) — related

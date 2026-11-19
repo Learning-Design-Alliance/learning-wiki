@@ -47,6 +47,7 @@ The article suggests an exercise in which students 'create their own models in m
 - [Per-solver student exploration exercises that modify or extend the solver to build deeper method understanding](pyro-student-exploration-extensions.md)
 - [Free students from routine programming work when using computer modelling in physics](free-students-from-routine-programming.md)
 - [Motivate the infinite-sheet-of-charge toy model with a conceptual derivation showing why the field is constant and when the model applies](conceptual-derivation-infinite-sheet-charge.md)
+- [Build a dynamic function-generation system so teachers can draw arbitrary 2D or 3D graphs without printing new markers](dynamic-function-generation-teacher-authored-vr-graphs.md)
 
 ## Examples
 -

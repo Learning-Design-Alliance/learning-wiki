@@ -52,3 +52,4 @@ Classroom study (Sengupta et al., 2015b) in an 8th grade classroom using ViMAP's
 - [In the same case study, two fifth graders built a coordinated multimodal model of acceleration in which color, dot-gaps, pitch and note duration represented speed and continuous change of motion](multimodal-color-gaps-pitch-duration-acceleration-model.md) — related
 - [In the two-car rate problem, all students produced ViMAP models with appropriate and non-redundant variables, evidencing multiplicative reasoning via repeat and step-size commands](two-car-problem-multiplicative-vimap-models.md) — related
 - [Presenting a code skeleton accelerates the start of exercise resolution and helps students focus on the core problem](code-skeleton-accelerates-resolution.md) — related
+- [Developing multiple pathways for laboratory investigation expands the learning of all participants in a physics lab program](multiple-pathways-expand-lab-learning.md) — related

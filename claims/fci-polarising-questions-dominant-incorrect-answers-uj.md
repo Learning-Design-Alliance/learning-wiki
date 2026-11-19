@@ -49,3 +49,6 @@ Answer-distribution analysis (Figs. 4 and 5) of questions 5, 11, 13, 18, 29 and 
 - [On six FCI force-identification questions, student answers cluster on a pair of dominant answers containing the correct choice and a superset wrong choice](polarising-choices-force-identification.md) — related
 - [The six PFI questions polarize student responses between two choices and rank among the most challenging FCI items, with five of six in the top-10 hardest](pfi-questions-polarize-and-are-hardest.md) — possibly the same claim (merge candidate)
 - [Transition rates to the correct FCI answer can be higher from a worse incorrect answer than a better one, as shown by answer choice E on Question 18](transition-rate-worse-answer-can-exceed-better.md) — related
+- [Polarising effect fairly consistent for FCI questions 18, 29 and 30 but answers far more scattered for questions 5, 11 and 13](fci-polarising-consistency-varies-across-questions.md) — reports the opposite
+- [FCI polarising effect most pronounced in classes where physics comprehension is assumed to be greatest](fci-polarising-pronounced-higher-aptitude.md) — related
+- [On FCI questions 13 and 30 more polarised students favour the misleading answer than the correct one](fci-q13-q30-polarising-overtakes-correct.md) — related

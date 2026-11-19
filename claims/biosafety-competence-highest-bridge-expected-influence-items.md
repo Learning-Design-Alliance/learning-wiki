@@ -49,3 +49,4 @@ Bridge centrality analysis of the same nurse survey network, using bridge expect
 - [The competence network's bridge expected influence indices show acceptable stability, with a CS coefficient of 0.517.](biosafety-competence-network-bei-stability.md) — related
 - [The biosafety incident response competence network contains 250 edges with weights ranging from -0.141 to 0.407, including 166 cross-community edges, indicating complex interconnection patterns.](biosafety-competence-network-edge-structure.md) — related
 - [No recorded incidents of participant harm resulted from structured clinical debriefing, and 37 of 71 teams documented it as useful](clinical-debriefing-no-recorded-harm.md) — related
+- [Peer interaction network structure differed between face-to-face and virtual contexts, with bridge nodes emerging only in the virtual network](peer-network-bridges-virtual-context.md) — related

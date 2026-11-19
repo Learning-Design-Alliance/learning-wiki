@@ -47,3 +47,4 @@ An observational usage analysis of a distance-learning cohort divided by post-se
 ## Related Claims
 - [Voluntary StatBot use was highly uneven and deadline-driven, with about 27% of students never using the chatbot](uneven-zero-inflated-statbot-usage-patterns.md) — related
 - [Low-performing students tended to procrastinate more on graded problem-solving exercises and on video watching with formative MCQs](low-performers-procrastinated-exercises-and-videos.md) — related
+- [Tablet-based mathematics education can be extended into libraries in low-income regions under specific conditions](tablet-education-feasible-in-low-income-libraries.md) — related

@@ -58,3 +58,4 @@ K-Means clustering of LIME coefficients from a Gaussian Naive Bayes model (F1 = 
 - [Machine-learning-based responder selection raises mean group reading-speed gain from 23% to 43%](responder-selection-gain-23-to-43.md) — a broader claim this one bears on
 - [LIME analysis shows the latent features mainly encode information from eye and mouth areas of the face](lime-eye-mouth-areas-in-latent-features.md) — related
 - [Latent class analysis of pretest strategy-use identifies two subgroups of children, analogical and non-analogical reasoners, of roughly equal size](lca-two-strategy-classes-analogical-reasoners.md) — related
+- [Two-step cluster analysis of feature preferences yields two teacher clusters, with pluggability the most important predictor](two-cluster-feature-preferences-pluggability.md) — related

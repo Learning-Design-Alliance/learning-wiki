@@ -44,6 +44,7 @@ The article describes sustainable astrotourism as a human-capacity-building effo
 - [Teach astronomy through dual-perspective storytelling (indigenous and Western science stories woven together)](dual-perspective-astronomy-storytelling.md)
 - [Fund school visits, a local visit coordinator, teacher training and artist-in-residence to boost H.E.S.S. outreach](hess-outreach-boost-recommendations.md)
 - [Organize guided tours along thematic routes selected by the audience](thematic-guided-tours-astrophysics-exhibition.md)
+- [Connect dark-sky observation to local cultural heritage and history to deepen engagement](dark-sky-cultural-heritage-connection.md)
 
 ## Examples
 -

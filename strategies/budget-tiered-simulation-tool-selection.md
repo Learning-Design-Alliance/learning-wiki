@@ -46,6 +46,7 @@ Based on the trial's cost-effectiveness discussion, the authors recommend a tier
 
 - [Prioritize scalable, low-cost simulation solutions and phased implementation so resource-limited settings can adopt the RT competency framework](scalable-low-cost-simulation-phased-implementation-rt.md)
 - [Match training modality emphasis to trainee proficiency level](match-modality-emphasis-to-proficiency-level.md)
+- [Use a VR precedent-study environment with narration and abstract concept models as a low-cost substitute for visiting architectural precedents](vr-precedent-study-travel-substitute.md)
 
 ## Examples
 -

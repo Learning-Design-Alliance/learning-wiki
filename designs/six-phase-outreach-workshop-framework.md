@@ -49,4 +49,4 @@ The programme deployed a repeating six-phase structure in each of its seven two-
 -
 
 ## Key Sources
-- Ahmed, S. Z., Hjorth, A., Rafner, J. F., Weidner, C. A., Kragh, G., Jensen, J. H. M., Bobroff, J., Nielsen, K. H., & Sherson, J. F. (2021). A training programme for early-stage researchers that focuses on developing personal science outreach portfolios. https://www.scienceathome.org/
+- Ahmed, S. Z., Hjorth, A., Rafner, J. F., Weidner, C. A., Kragh, G., Jensen, J. H. M., Bobroff, J., Nielsen, K. H., & Sherson, J. F. (2021). A training programme for early-stage researchers that focuses on developing personal science outreach portfolios. https://www.scienceathome.org/. [doi:10.48550/arxiv.2103.03109](https://doi.org/10.48550/arxiv.2103.03109)

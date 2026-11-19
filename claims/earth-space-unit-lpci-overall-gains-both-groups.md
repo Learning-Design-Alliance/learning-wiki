@@ -72,3 +72,4 @@ Repeated measures ANOVA on the control group's LPCI pre-post scores (N=66), taug
 - [Both experimental and control groups improved significantly on social problem-solving over the school period](both-groups-improved-social-problem-solving.md) — related
 - [Repeated measures ANOVA shows a significant score change in the experimental group from pre-test to post-test](repeated-measures-anova-games-group-change.md) — related
 - [Students in the IBIS curriculum showed significant pre-to-post concept gains each year, with normalized learning gains of 19–75% for concepts and 30–50% for skills](ibis-normalized-learning-gains-19-75-concepts.md) — related
+- [Both groups made significant knowledge gains, but the HoloBoard group's post-test advantage over the normal group was not statistically significant](holoboard-learning-outcomes-gains-not-significant-between-groups.md) — related

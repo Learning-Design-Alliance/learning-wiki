@@ -48,3 +48,4 @@ Program-level participation report for the 2017 IMC season, as stated by the IMC
 ## Related Claims
 - [International Masterclasses grew to 213 masterclasses in 75 countries for some 13,000 students by 2016, up from 72 masterclasses in 18 countries for some 3,000 students in 2005](masterclasses-growth-2005-2016.md) — related
 - [By 2019 International Masterclasses involved over 10,000 high school students in 332 masterclasses at 239 institutions measuring authentic data from six experiments](imc-2019-scale-10000-students-332-masterclasses.md) — related
+- [A total of 568 students have participated in the astrophysics Masterclasses since 2008, with rising applications](568-students-astrophysics-masterclasses.md) — related

@@ -123286,5 +123286,649 @@
  "test-format\tonline administration\ton-paper administration": {
   "label": "Online vs paper administration",
   "treatment_is_a": true
+ },
+ "active-learning\t2020/21 online flipped-classroom implementation\t2019/20 in-person teaching of the same topic": {
+  "label": "flipped classroom vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tAnonymous peer review using Sakai\tNo or less engagement in peer review": {
+  "label": "anonymous peer review vs no or less peer review",
+  "treatment_is_a": true
+ },
+ "active-learning\tCollaborative work included in online labs\tCollaborative work omitted from online labs": {
+  "label": "collaborative online labs vs non-collaborative online labs",
+  "treatment_is_a": true
+ },
+ "active-learning\tHands-on and discussion-based Einsteinian physics activities\tno pre-intervention attitude comparison reported": {
+  "label": "Einsteinian hands-on and discussion-based activities vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tKorbit full personalized active learning with problem-solving and feedback\tMOOC lecture videos and multiple-choice quizzes": {
+  "label": "personalized active learning with problem-solving and feedback vs lecture videos and quizzes",
+  "treatment_is_a": true
+ },
+ "active-learning\tKorbit personalized active learning with problem-solving and feedback\ttraditional MOOC with videos and multiple-choice quizzes": {
+  "label": "personalized active learning with problem-solving and feedback vs lecture videos and quizzes",
+  "treatment_is_a": true
+ },
+ "active-learning\tKorbit problem-solving exercises without personalized feedback\tMOOC lecture videos and multiple-choice quizzes": {
+  "label": "problem-solving exercises without personalized feedback vs lecture videos and quizzes",
+  "treatment_is_a": true
+ },
+ "active-learning\tanonymous peer review\tno anonymous peer review": {
+  "label": "anonymous peer review vs no anonymous peer review",
+  "treatment_is_a": true
+ },
+ "active-learning\tanonymous peer review on Sakai\tno anonymous peer review": {
+  "label": "anonymous peer review vs no anonymous peer review",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom for rigid-body kinematics\ttraditional online teaching for the other Physics topics": {
+  "label": "flipped classroom vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom for rigid-solid kinematics\tstudents who did not use the flipped classroom": {
+  "label": "flipped classroom vs non-flipped instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom for rigid-solid kinematics\tstudents who did not watch the videos": {
+  "label": "flipped classroom vs non-flipped instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom participants\tstudents who did not use the flipped classroom": {
+  "label": "flipped classroom vs non-flipped instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom participants\tstudents who did not watch the videos": {
+  "label": "flipped classroom vs non-flipped instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped-classroom rigid-solid kinematics\ttraditional online teaching in other Physics topics": {
+  "label": "flipped classroom vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tin-class discussion and data interpretation on representation in STEM\tneutral or negative weekly-feedback responses": {
+  "label": "discussion, data interpretation, and reflection on representation in STEM vs neutral or negative feedback",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive rubber sheet analogy activity\ttraditional treatment": {
+  "label": "interactive analogy activity vs traditional treatment",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive rubber-sheet analogy activity\ttraditional treatment": {
+  "label": "interactive analogy activity vs traditional treatment",
+  "treatment_is_a": true
+ },
+ "active-learning\tnine-lesson Einsteinian physics program with role-play and group activities\tpre-intervention baseline": {
+  "label": "Einsteinian physics program with active and collaborative learning vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tnine-lesson Einsteinian physics program with role-play, activities, group learning, and worksheets\tpre-intervention performance": {
+  "label": "Einsteinian physics program with active and collaborative learning vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer discussion between Q1 and Q2\tQ1 before peer discussion": {
+  "label": "peer discussion vs no peer discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\tproject-based learning\tconventional classrooms": {
+  "label": "project-based learning vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tremote lab instruction\tin-person lab instruction": {
+  "label": "remote lab instruction vs in-person lab instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\trigid-solid kinematics instruction in 2019/20\tmovement-relative exercise in the same exams": {
+  "label": "rigid-solid kinematics instruction vs movement-relative exercise",
+  "treatment_is_a": true
+ },
+ "active-learning\tseries of online educational hackathons integrated throughout the course\ttheoretical online instruction without integrated hackathon practice": {
+  "label": "online hackathon-integrated learning vs theoretical online instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tstructured, incentivized, and supported breakout-room work\tunstructured or unsupported breakout-room work": {
+  "label": "structured and supported breakout-room work vs unstructured or unsupported breakout-room work",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent-centered, interactive project-based learning\tstandard teacher-student listen-and-take-notes approach": {
+  "label": "student-centered project-based learning vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent-centered, interactive project-based learning with the eVscope\tstandard teacher-student listen-and-take-notes approach": {
+  "label": "student-centered project-based learning with eVscope vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tsynchronous online classes with collaborative interaction\tcompletely asynchronous instruction with scheduled classes replaced by drop-in office hours": {
+  "label": "synchronous collaborative online classes vs asynchronous instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tteacher’s instruction\tpeer instruction": {
+  "label": "peer instruction vs teacher instruction",
+  "treatment_is_a": false
+ },
+ "active-learning\tteam-based drawing game with written guessing in the inclusive mode\tordinary non-game classroom activity, not actually tested": {
+  "label": "team-based drawing game vs ordinary non-game classroom activity",
+  "treatment_is_a": true
+ },
+ "active-learning\ttechnology-based hybrid project- and team-based learning module\tno comparison reported": {
+  "label": "hybrid project- and team-based learning vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "active-learning\ttechnology-based hybrid team- and project-based learning\ttraditional lecture-based instruction": {
+  "label": "hybrid project- and team-based learning vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\ttwo-day hands-on accelerator workshop\tbefore the workshop": {
+  "label": "hands-on accelerator workshop vs pre-workshop baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\ttwo-day unit with readings, discussion, and reflection on people and representation in science\tstudents' prior view of science before the unit": {
+  "label": "discussion, reflection, and learning about people and representation in science vs prior views of science",
+  "treatment_is_a": true
+ },
+ "active-learning\ttwo-part unit on the role of people and representation in science\tstudents’ prior view of science as equations and diagrams presented as laws": {
+  "label": "discussion, reflection, and learning about people and representation in science vs prior views of science",
+  "treatment_is_a": true
+ },
+ "active-learning\ttwo-part unit with class discussions, data interpretation, and reflection on representation in STEM\tno comparison condition reported": {
+  "label": "discussion, data interpretation, and reflection on representation in STEM vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tpersonalized learning\tinquiry-based learning": {
+  "label": "personalized learning vs inquiry-based learning",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tpersonalized learning phase\tprevious two laboratory trials": {
+  "label": "personalized learning vs previous laboratory trials",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tpersonalized learning with student-designed solutions\tinquiry-based learning": {
+  "label": "personalized learning vs inquiry-based learning",
+  "treatment_is_a": true
+ },
+ "debriefing\tReflective phase with a line graph of Ramp-Up performance data\tNo Reflective phase": {
+  "label": "reflective debriefing vs no debriefing",
+  "treatment_is_a": true
+ },
+ "debriefing\tReflective phase with data visualizations of participants’ task data\tcontrol cohort without the Reflective phase": {
+  "label": "reflective debriefing vs no debriefing",
+  "treatment_is_a": true
+ },
+ "debriefing\tReflective phase with data visualizations of prior performance\tno Reflective phase": {
+  "label": "reflective debriefing vs no debriefing",
+  "treatment_is_a": true
+ },
+ "debriefing\tReflective phase with visualization of own task data\tno Reflective phase": {
+  "label": "reflective debriefing vs no debriefing",
+  "treatment_is_a": true
+ },
+ "debriefing\tReflective phase with visualizations of participants' own Ramp-Up data\tno Reflective phase": {
+  "label": "reflective debriefing vs no debriefing",
+  "treatment_is_a": true
+ },
+ "debriefing\tReflective phase with visualizations of trial-1 data\tno Reflective phase": {
+  "label": "reflective debriefing vs no debriefing",
+  "treatment_is_a": true
+ },
+ "debriefing\tmetacognitive intervention cohorts\tno-intervention cohort": {
+  "label": "metacognitive debriefing vs no debriefing",
+  "treatment_is_a": true
+ },
+ "debriefing\tmetacognitive post-reflection exercises\tno metacognitive intervention": {
+  "label": "metacognitive debriefing vs no debriefing",
+  "treatment_is_a": true
+ },
+ "debriefing\tmetacognitive post-reflection exercises\tno metacognitive intervention, controlling for FCI pre-score": {
+  "label": "metacognitive debriefing vs no debriefing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tanimations with additional explanatory context\tanimations screened on their own": {
+  "label": "animations with explanatory context vs animations alone",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicitly addressing limitations and misconceptions of the rubber-sheet analogy\tnot reported": {
+  "label": "explicitly addressing limitations and misconceptions vs not addressing them",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tlecture intervention with extensive online lecture content\tno lecture intervention": {
+  "label": "extensive online lecture instruction vs no lecture intervention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\treformed theoretical-chemistry course\tbefore the course": {
+  "label": "reformed course vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\treformed theoretical-chemistry course\tknowledge before the course, not otherwise stated": {
+  "label": "reformed course vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\treformed theoretical-chemistry course with lectures, experiences, and examination\tperformance before or without the course, not otherwise stated": {
+  "label": "reformed course vs no-course or pre-course baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteacher’s instruction\tpeer discussion": {
+  "label": "teacher instruction vs peer discussion",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteacher’s instruction between Q1 and Q2\tQ1 before instruction": {
+  "label": "instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "fading\tProgressively reduced supervisor intervention during repeated eVscope operation\tInitial operation with supervisor explanation and intervention": {
+  "label": "Faded supervision vs sustained supervision",
+  "treatment_is_a": true
+ },
+ "fading\tprogressively reduced supervisor intervention while operating the eVscope\tsubstantial supervisor intervention during initial operation": {
+  "label": "Faded supervision vs sustained supervision",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tKorbit full personalized feedback\tKorbit no feedback": {
+  "label": "Feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tKorbit full personalized feedback\tMOOC traditional model": {
+  "label": "Personalized feedback vs traditional MOOC model",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tKorbit full with personalized feedback and explanations\tMOOC with lecture videos and multiple-choice quizzes": {
+  "label": "Personalized feedback vs traditional MOOC model",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tKorbit with personalized feedback\tKorbit with correctness-only feedback": {
+  "label": "Personalized feedback vs correctness-only feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tKorbit with personalized feedback\tKorbit with no personalized feedback": {
+  "label": "Feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tonline instructor feedback sessions and written feedback on hackathon reports\thackathon work without instructor feedback": {
+  "label": "Feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tKorbit full personalized feedback\tKorbit no feedback beyond correct/incorrect": {
+  "label": "Personalized feedback vs correctness-only feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tKorbit full personalized feedback\tKorbit no-feedback variant": {
+  "label": "Personalized feedback vs correctness-only feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tKorbit full personalized feedback\tMOOC traditional videos and quizzes": {
+  "label": "Personalized feedback vs traditional videos and quizzes",
+  "treatment_is_a": true
+ },
+ "feedback-type\tKorbit full personalized feedback and explanations\tKorbit no feedback beyond correct/incorrect": {
+  "label": "Personalized feedback vs correctness-only feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tautomated feedback\ttutor feedback": {
+  "label": "Automated feedback vs human feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tautomated feedback for detailed programming issues\thuman feedback for conceptual or fundamental programming difficulties": {
+  "label": "Automated feedback vs human feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\thuman tutor feedback\tautomated Codio feedback": {
+  "label": "Automated feedback vs human feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\thuman tutor feedback\tautomated feedback": {
+  "label": "Automated feedback vs human feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tonline real-time feedback sessions\twritten feedback on submitted reports": {
+  "label": "Real-time feedback vs written feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tMSU implementation with project proposals, instructor feasibility feedback, and project-update presentations\tUiO implementation without the described proposal and project-update oversight": {
+  "label": "formative assessment and feedback vs no formative assessment and feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\ttutor-web drill-mode final assessment\tno comparison reported": {
+  "label": "drill-mode assessment vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "formative-assessment\ttutor-web drill-mode remote evaluation\tfixed exam-mode or conventional final exam": {
+  "label": "remote drill-mode assessment vs conventional final examination",
+  "treatment_is_a": true
+ },
+ "formative-assessment\ttutor-web remote drilling used instead of a final exam\tconventional in-house final examination": {
+  "label": "remote drill-mode assessment vs conventional final examination",
+  "treatment_is_a": true
+ },
+ "gamification\tDrawing Science didactic board game\tnon-game classroom instruction, not actually tested": {
+  "label": "game-based learning vs non-game-based instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tdrawing an electric-field representation in the science board game\tno comparison condition reported; textbook force-line diagram mentioned only as an alternative representation": {
+  "label": "game-based learning vs no comparison condition reported",
+  "treatment_is_a": true
+ },
+ "gamification\tdrawing-based interdisciplinary science board game\tno comparison condition reported": {
+  "label": "game-based learning vs no comparison condition reported",
+  "treatment_is_a": true
+ },
+ "gamification\tgame-based learning\tinquiry-based learning": {
+  "label": "game-based learning vs inquiry-based learning",
+  "treatment_is_a": true
+ },
+ "gamification\tgame-based learning with Tinkercad\tinquiry-based learning": {
+  "label": "game-based learning vs inquiry-based learning",
+  "treatment_is_a": true
+ },
+ "media-design\t2D function rendered as a shallow tube with depth 0.05f\tflat 2D curve": {
+  "label": "shallow 3D rendering vs flat 2D rendering",
+  "treatment_is_a": true
+ },
+ "media-design\tanimations presented by both animators and scientists\tanimations presented without both animators and scientists": {
+  "label": "animators and scientists presenting vs neither animators nor scientists presenting",
+  "treatment_is_a": true
+ },
+ "media-design\tanimations presented with additional scientific context or by animators and scientists\tanimations screened without additional context": {
+  "label": "additional scientific context or animator-and-scientist presentation vs no additional context",
+  "treatment_is_a": true
+ },
+ "media-design\tanimations presented with animators and scientists or additional context\tanimations screened without additional context": {
+  "label": "additional scientific context or animator-and-scientist presentation vs no additional context",
+  "treatment_is_a": true
+ },
+ "media-design\tinstructor-absent video lectures\tinstructor-present video lectures": {
+  "label": "instructor-present video lectures vs instructor-absent video lectures",
+  "treatment_is_a": false
+ },
+ "media-design\tinstructor-present online lecture videos\tinstructor-absent online lecture videos": {
+  "label": "instructor-present video lectures vs instructor-absent video lectures",
+  "treatment_is_a": true
+ },
+ "media-design\tinstructor-present video lectures\tinstructor-absent video lectures": {
+  "label": "instructor-present video lectures vs instructor-absent video lectures",
+  "treatment_is_a": true
+ },
+ "practice-amount\tClass 1 reinforcement through in-class revision and a science-centre excursion\tClass 2 without the reported reinforcement and excursion": {
+  "label": "reinforcement and enrichment vs no reinforcement and enrichment",
+  "treatment_is_a": true
+ },
+ "practice-amount\tWeek 9 after repeated problem-solving practice\tWeek 1": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater repeated template-based practice\tearlier template-based practice": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\trepeated templated real-world problem-solving practice later in the course\tearlier problem-solving performance": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tteacher-led revision and reinforcement\tno repeated activities or lessons": {
+  "label": "revision and reinforcement vs no repeated practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tthree course-integrated online hackathon events\ta one-off hackathon event at the end of the course": {
+  "label": "multiple practice events vs one practice event",
+  "treatment_is_a": true
+ },
+ "praise\tpositive recognition and encouragement from the mentor\tno praise or encouragement from the mentor": {
+  "label": "praise vs no praise",
+  "treatment_is_a": true
+ },
+ "praise\tpositive recognition from mentor\tlack of positive recognition": {
+  "label": "praise vs no praise",
+  "treatment_is_a": true
+ },
+ "problem-first\texperiments and data analysis before mathematical formalism\tmathematical formalism before experiments": {
+  "label": "problem-first vs formalism-first",
+  "treatment_is_a": true
+ },
+ "prompts\tRealTime Physics plus reflection questions\tRealTime Physics without reflection questions": {
+  "label": "reflection questions vs no reflection questions",
+  "treatment_is_a": true
+ },
+ "prompts\tRealTime Physics plus reflection questions\tpre-course baseline without completed reflection curriculum": {
+  "label": "reflection questions vs pre-course baseline without reflection curriculum",
+  "treatment_is_a": true
+ },
+ "prompts\tRealTime Physics plus reflection questions\ttraditional highly structured curriculum": {
+  "label": "reflection questions vs traditional highly structured curriculum",
+  "treatment_is_a": true
+ },
+ "prompts\tempathetic, nonjudgmental interview discussion about ESR\tfaculty views before the discussion": {
+  "label": "empathetic, nonjudgmental interview discussion vs pre-discussion faculty views",
+  "treatment_is_a": true
+ },
+ "prompts\tmetacognitive post-reflection exercises\tno intervention": {
+  "label": "metacognitive post-reflection exercises vs no metacognitive intervention",
+  "treatment_is_a": true
+ },
+ "prompts\tmetacognitive post-reflection exercises\tno intervention, controlling for FCI pre-score": {
+  "label": "metacognitive post-reflection exercises vs no metacognitive intervention",
+  "treatment_is_a": true
+ },
+ "prompts\tmetacognitive post-reflection exercises\tno metacognitive intervention": {
+  "label": "metacognitive post-reflection exercises vs no metacognitive intervention",
+  "treatment_is_a": true
+ },
+ "prompts\tmetacognitive post-reflection exercises\tno metacognitive intervention, controlling for FCI pre-score": {
+  "label": "metacognitive post-reflection exercises vs no metacognitive intervention",
+  "treatment_is_a": true
+ },
+ "prompts\tweekly EDI reflection essays\tcourse before addition of reflection essays": {
+  "label": "weekly EDI reflection essays vs course before addition of reflection essays",
+  "treatment_is_a": true
+ },
+ "prompts\tweekly EDI reflection essays\tstudents' initial conceptions before completing the essays": {
+  "label": "weekly EDI reflection essays vs initial conceptions before the essay sequence",
+  "treatment_is_a": true
+ },
+ "prompts\tweekly EDI reflection essays\tstudents’ initial conceptions before the essay sequence": {
+  "label": "weekly EDI reflection essays vs initial conceptions before the essay sequence",
+  "treatment_is_a": true
+ },
+ "prompts\tweekly reflection essays on EDI and physics identity\tstudents' initial writings before the essay sequence": {
+  "label": "weekly reflection essays on EDI and physics identity vs initial writings before the essay sequence",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tInternet-enabled library model with SmileyCoin rewards and tablet purchase option\tschool-based offline tablet distribution without cryptocurrency rewards": {
+  "label": "Rewards-enabled internet library/tablet model vs offline tablet distribution without rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tStructured breakout work with graded or required participation and supported preparation\tUnstructured or non-incentivized breakout work": {
+  "label": "Structured, incentivized, instructor-supported breakout work vs unstructured, non-incentivized or unsupported breakout work",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tWeekly assignments and collaborative work graded\tNo grade incentives for weekly assignments or collaborative work": {
+  "label": "Graded/incentivized coursework vs ungraded/non-incentivized coursework",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tWeekly assignments and collaborative work graded\tWeekly assignments and collaborative work ungraded": {
+  "label": "Graded/incentivized coursework vs ungraded/non-incentivized coursework",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tgraded in-class and out-of-class work\twork without associated grade incentives": {
+  "label": "Graded/incentivized coursework vs ungraded/non-incentivized coursework",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tgraded weekly assignments and collaborative work\tungraded weekly assignments and collaborative work": {
+  "label": "Graded/incentivized coursework vs ungraded/non-incentivized coursework",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tgraded weekly assignments and collaborative work\tweekly work without grade incentives": {
+  "label": "Graded/incentivized coursework vs ungraded/non-incentivized coursework",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tstructured, incentivized, and instructor-supported breakout rooms\tunstructured or unsupported breakout-room work": {
+  "label": "Structured, incentivized, instructor-supported breakout work vs unstructured, non-incentivized or unsupported breakout work",
+  "treatment_is_a": true
+ },
+ "scaffolding\tUiO implementation with more example essays, seed programs, and pair-work options\tMSU implementation with fewer examples, a template notebook, and individual projects": {
+  "label": "more vs less scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tlater-course deliberate practice using the problem-solving template\tfirst-week practice using the problem-solving template": {
+  "label": "delayed vs early scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tteam management plan intervention\tteamwork without the team management plan": {
+  "label": "scaffolded vs unscaffolded teamwork",
+  "treatment_is_a": true
+ },
+ "simulation\tCSL with MATLAB® Simulink and tailored videos\texisting and long-term average achievement": {
+  "label": "simulation-based learning vs baseline performance",
+  "treatment_is_a": true
+ },
+ "simulation\tcomputer simulation-based learning with MATLAB Simulink\texisting and long-term average achievement before or without CSL": {
+  "label": "simulation-based learning vs baseline performance",
+  "treatment_is_a": true
+ },
+ "simulation\tcomputer simulation-based learning with MATLAB Simulink\tstudents’ existing and long-term average performance": {
+  "label": "simulation-based learning vs baseline performance",
+  "treatment_is_a": true
+ },
+ "simulation\tonline simulations with student data collection\tvideo-recorded experiments with analysis of provided data": {
+  "label": "simulation-based data collection vs video-recorded experiments with provided data",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based remote lab activities\tin-person lab experience": {
+  "label": "simulation-based remote lab vs in-person lab",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based remote lab activities\tunspecified alternative remote approaches": {
+  "label": "simulation-based remote lab vs other remote lab approaches",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based remote lab instruction\tother or unspecified remote lab approaches": {
+  "label": "simulation-based remote lab vs other remote lab approaches",
+  "treatment_is_a": true
+ },
+ "simulation\tusing simulations in the remote lab\tnot using simulations": {
+  "label": "using simulations vs not using simulations",
+  "treatment_is_a": true
+ },
+ "technology-tool\t10-part bilingual Tiny Ice short-video series\tcancelled in-person outreach events and live interactive activities": {
+  "label": "bilingual short-video series vs cancelled in-person outreach and live interactive activities",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2020 fully online SATTAA\t2019 fully face-to-face SATTAA": {
+  "label": "fully online vs fully face-to-face",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2020 fully online SATTAA with virtual field trips\t2019 fully face-to-face SATTAA with face-to-face field trips": {
+  "label": "fully online with virtual field trips vs fully face-to-face with face-to-face field trips",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2020 online teaching\t2019 teaching": {
+  "label": "online vs unspecified prior teaching",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2020 remote IBM Qiskit Global Summer School with hands-on QIST materials\tself-reported skill level before the summer school": {
+  "label": "remote summer school with hands-on materials vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2020 remote IBM Qiskit Global Summer School with hands-on QIST materials\tself-reported skill level before the summer school among attendees with no prior programming experience": {
+  "label": "remote summer school with hands-on materials vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2020 virtual conference\t2019 in-person conference": {
+  "label": "virtual conference vs in-person conference",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2020 virtual field trips\t2019 face-to-face field trips": {
+  "label": "virtual field trips vs face-to-face field trips",
+  "treatment_is_a": true
+ },
+ "technology-tool\t30 minutes using Quantum Odyssey\tpre-play questionnaire": {
+  "label": "Quantum Odyssey use vs pre-use questionnaire",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D Looking Glass testing display\t2D paper testing": {
+  "label": "3D display vs 2D paper testing",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printed photoelasticity activity with polarizers and a transparent plastic piece\tnot reported": {
+  "label": "3D-printed activity vs no reported comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\t90-minute activity using the rubber sheet analogy\tpre-activity questionnaire": {
+  "label": "rubber-sheet activity vs pre-activity questionnaire",
+  "treatment_is_a": true
+ },
+ "technology-tool\t90-minute interactive rubber-sheet activity modeling planetary motion\tpre-activity questionnaire": {
+  "label": "interactive rubber-sheet activity vs pre-activity questionnaire",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced digital tutor with knowledge graph\tblended teaching": {
+  "label": "AI-enhanced digital tutor vs blended teaching",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced digital tutor with knowledge graph\ttraditional lecture-based teaching": {
+  "label": "AI-enhanced digital tutor vs traditional lecture-based teaching",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced flipped classroom\tstandard flipped classroom": {
+  "label": "AI-enhanced flipped classroom vs standard flipped classroom",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced initial colonoscopy training\tconventional colonoscopy training without CADe": {
+  "label": "AI-enhanced colonoscopy training vs conventional colonoscopy training without CADe",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced initial colonoscopy training with CADe\tconventional initial colonoscopy training without CADe": {
+  "label": "AI-enhanced colonoscopy training with CADe vs conventional initial colonoscopy training without CADe",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced progressive training model\tbefore training": {
+  "label": "AI-enhanced progressive training model vs pre-training",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced progressive training model\tneutral survey midpoint of 3": {
+  "label": "AI-enhanced progressive training model vs neutral survey midpoint",
+  "treatment_is_a": true
+ },
+ "test-format\t3-option items\t4- and 5-option items": {
+  "label": "3-option items vs 4- and 5-option items",
+  "treatment_is_a": true
+ },
+ "test-format\tclassroom multiple-choice tests\tvalidated standardized tests": {
+  "label": "Classroom multiple-choice tests vs validated standardized tests",
+  "treatment_is_a": true
+ },
+ "test-format\textremely easy items\tother classroom test items": {
+  "label": "Extremely easy items vs other classroom test items",
+  "treatment_is_a": true
+ },
+ "test-format\toral report\twritten report": {
+  "label": "Oral report vs written report",
+  "treatment_is_a": true
+ },
+ "test-format\tshort-time chapter-based mid-exams\tlong-time unit-based mid-exams": {
+  "label": "Short, chapter-based mid-exams vs long, unit-based mid-exams",
+  "treatment_is_a": true
+ },
+ "test-format\tshort-time chapter-based mid-exams\tlong-time unit-based mid-exams covering 3–4 chapters": {
+  "label": "Short, chapter-based mid-exams vs long, unit-based mid-exams",
+  "treatment_is_a": true
+ },
+ "test-format\tstudent-created Problem Project assessment\ttraditional midterm and final exams": {
+  "label": "Student-created problem-project assessment vs traditional midterm and final exams",
+  "treatment_is_a": true
+ },
+ "test-format\tthirteen 30-minute chapter-based mid-exams\tthree 2.45-hour unit-based mid-exams covering 3–4 chapters": {
+  "label": "Frequent, short, chapter-based mid-exams vs infrequent, long, unit-based mid-exams",
+  "treatment_is_a": true
+ },
+ "test-format\tvirtual-synchronous class\tin-person traditional class": {
+  "label": "Virtual-synchronous class vs in-person traditional class",
+  "treatment_is_a": true
+ },
+ "worked-examples\tengineered quantum systems as worked examples\ttraditional quantum mechanics instruction": {
+  "label": "worked examples vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "worked-examples\tengineered quantum systems as worked examples\ttraditional quantum-mechanics instruction": {
+  "label": "worked examples vs traditional instruction",
+  "treatment_is_a": true
  }
 }

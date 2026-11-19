@@ -75,3 +75,4 @@ Reflexive thematic analysis (Braun & Clarke) of open-response reflections collec
 - [Tutors and students identified advantages of the fully online format, including participation from across Africa, cost-effectiveness and learning at one's own time and pace](online-ebm-module-advantages-global-access-flexibility.md) — related
 - [Students reported that iPads helped them learn science by providing resource access for student-directed research and by supporting personal learning needs such as pace and ease of use](ipads-support-student-directed-learning.md) — related
 - [The self-paced design prompted students to reflect on their self-discipline](self-paced-design-self-discipline-reflection.md) — related
+- [Students preferred frequent, low-stakes assessments in online courses, citing feedback, low anxiety, and flexibility](frequent-low-stakes-assessments-preferred.md) — related

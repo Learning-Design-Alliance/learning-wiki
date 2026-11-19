@@ -48,3 +48,4 @@ One-group pre-test–post-test study of 103 first-year nursing students in a Cen
 - [First-year nursing students' critical thinking disposition scores rose significantly from pre-test to post-test after an experiential learning program, in one uncontrolled pre-post study](elp-increased-critical-thinking-disposition-nursing-freshmen.md) — related
 - [SRIS behavior and feelings scores rose from pre-test to post-test after the ELP, but thoughts scores did not significantly change in one uncontrolled pre-post study](elp-self-reflection-domain-mixed-results.md) — a narrower finding that bears on this claim
 - [Self-reflection and critical thinking scores were significantly positively correlated in first-year nursing students](self-reflection-critical-thinking-positive-correlation-nursing.md) — related
+- [On-campus experiential learning participation rose from 69% to 90% over the implementation period](eel-participation-increased-on-and-off-campus.md) — related

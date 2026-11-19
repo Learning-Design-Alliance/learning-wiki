@@ -52,3 +52,4 @@ Authors' interpretation from the Discussion section of their UTB course experien
 - [Immersion has a medium-sized effect on physical presence, with user tracking, stereoscopic visuals, and wider fields of view the most important features](immersion-medium-effect-physical-presence.md) — related
 - [Immersive media environments enable higher visual and behavioral realism of pedagogical agents than non-immersive formats](xr-higher-agent-realism-than-non-immersive.md) — related
 - [The authors report that games enabled self-motivated physics learning to continue outside the classroom](games-enable-self-motivated-out-of-class-learning.md) — related
+- [Game-based learning with visual clues helps address quantum literacy by engaging learners and building analytical skills](games-quantum-literacy-engagement.md) — related

@@ -58,3 +58,4 @@ Narrative synthesis of questionnaire results across the included studies; the ar
 - [The process evaluation found PBL developed pupils' oracy, communication, teamwork and research skills](pbl-process-evaluation-skills-benefits.md) — related
 - [In preliminary research, 79.06% of surveyed students reported interest in the multimedia materials and considered them helpful for learning listening skills](preliminary-survey-students-interested-multimedia-materials.md) — related
 - [Step-by-step teaching improves work attitude, team spirit and analytical ability, but not expression or communication skills, in postgraduate reproductive ultrasound trainees](sbs-mixed-effects-clinical-competence-subdomains.md) — related
+- [Students on the hybrid module reported that teamwork helped them solve the design problem and developed awareness of team roles](tdps-teamwork-outcomes-survey.md) — a narrower finding that bears on this claim

@@ -74,3 +74,4 @@ From the same faculty interview analysis, the article reports that only three of
 - [A differentiating group of courses (QP, MA2, MA3, PL) contributes significantly to score variance and separates students](differentiating-courses-qp-ma2-ma3-pl.md) — related
 - [The article reports that a spin-first, discrete-variable approach gives students more opportunities to understand quantum concepts independently of heavy mathematics](spin-first-approach-aids-conceptual-understanding.md) — related
 - [Scaffolded play in Quantum Odyssey enables learners to intuitively work with established QIS topics without prior mathematics or physics exposure](visual-intuition-without-mathematics-quantum-concepts.md) — related
+- [Camp students follow relativity conceptual aspects well while difficulties pertain mainly to their mathematical background](astrocamp-students-concepts-ok-math-gap.md) — related

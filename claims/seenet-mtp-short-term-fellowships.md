@@ -46,3 +46,4 @@ Report of the Network's first fellowship call: 11 regular applications arrived f
 
 ## Related Claims
 - [The SEENET-MTP Network financed about 100 exchanges of researchers and students in six years](seenet-mtp-100-exchanges-mobility.md) — related
+- [Nine ASP alumni completed 3-6 month short-term research visits at Brookhaven National Laboratory in 2019, with reported outcomes including completed PhDs and a published paper](asp-short-term-research-visits-bnl-2019.md) — related

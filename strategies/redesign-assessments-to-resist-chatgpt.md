@@ -56,6 +56,7 @@ The article recommends that university staff design assessments that are harder 
 - [Redesign assessment so AI-generated text cannot substitute for student work: reflective, contextualised and project-based assignments](assessment-redesign-reflective-contextualised-assignments.md)
 - [Design report topics that require creative approaches and resist ready-made online solutions](report-topics-resisting-ready-made-solutions.md)
 - [A multifaceted approach combining incentivized higher-order assessment points, transparent rubric criteria, and facilitated scientific communication to improve ill-defined problem solving](multifaceted-ill-defined-problem-solving-strategy.md)
+- [Live-proctor virtual assessments via video conference to address academic integrity in physics problem-solving exams](live-video-proctoring-physics-assessments.md)
 
 ## Examples
 -

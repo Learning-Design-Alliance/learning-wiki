@@ -94,6 +94,8 @@ The flipped model's advantage comes from spending scarce synchronous time on act
 - [Use short screencasts plus flipped-classroom homework to deliver computational tool instruction without lecture time](screencasts-flipped-homework-computation-strategy.md)
 - [Redesign in-person peer tutoring for lockdown conditions by combining synchronous tutor-led sessions with asynchronous questionnaires, exercises and recordings](online-peer-tutoring-redesign-strategy.md)
 - [Deliver the remote lab course through asynchronous Slack lectures plus Zoom Q&A sessions with individual student interviews](slack-zoom-remote-lab-course-delivery.md)
+- [Offer calculus-based physics in a virtual synchronous format for community college students with time commitments](synchronous-virtual-format-community-college-physics.md)
+- [Offer virtual office hours at varied times plus an asynchronous discussion board and chat option](virtual-office-hours-discussion-board-chat.md)
 
 ## Examples
 - **Michigan State University's fully online flipped calculus courses** — students watch short videos and complete online checks before live problem-solving sessions; published studies report improved pass rates over lecture-based online sections.

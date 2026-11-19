@@ -47,6 +47,7 @@ The editorial recommends that, to support educators in the era of shifting to di
 
 - [Use mobile game-based learning findings to guide practice and pursue smartphone-enabled virtual reality and design-pedagogy-impact research directions](mgb-practice-and-future-directions.md)
 - [Use review-derived criteria to evaluate commercial learning games when educators must select quickly](criteria-evaluating-commercial-learning-games.md)
+- [Categorize quantum games in a maintained repository with evaluation ratings and best practices](quantum-game-repository-evaluation-strategy.md)
 
 ## Examples
 -

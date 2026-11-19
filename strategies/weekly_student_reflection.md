@@ -69,6 +69,7 @@ Weekly reflection operationalizes the self-regulation cycle of forethought, perf
 - [Weekly Thinking Science lesson routine for pre-service teachers: work the lesson as students, then metacognitive discussion, activity design, and written reflection](thinking-science-preservice-weekly-routine.md)
 - [Use weekly reflections aligned to ownership hallmarks as formative data alongside a validated survey](weekly-hallmark-aligned-reflections-strategy.md)
 - [Weekly individualized formative feedback on group work using three criteria](weekly-formative-feedback-group-work-p3.md)
+- [Weekly reading responses with randomized in-class sharing to foster discussion of historical literature](weekly-reading-response-random-sharing.md)
 
 ## Examples
 - **"Muddiest Point" weekly forms** — a classic Classroom Assessment Technique (Angelo & Cross): students name the least-clear idea of the week; the instructor opens the next class by addressing the most common muddles.

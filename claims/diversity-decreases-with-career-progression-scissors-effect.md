@@ -72,3 +72,4 @@ Descriptive analysis of degree attainment by racial/ethnic group (Fig. 3, top pa
 - [The proportion of women among incoming UFSC undergraduate physics students shows a small but non-negligible increasing trend of about 0,5% per year (licenciatura) and 0,8% per year (bacharelado).](ufsc-incoming-women-proportion-increasing-trend.md) — related
 - [Harassment is high in the Brazilian physics community and more pronounced among women](harassment-high-more-pronounced-among-women.md) — related
 - [Most physics PhDs in Brazil are employed, but 12% of physicists hold multiple jobs and many undergraduates lack scholarships](physics-job-market-employment-multiple-jobs.md) — related
+- [About 90% of women physics graduates (20 of 22) entered and persisted in STEM-advancement careers up to eight years post-graduation](women-graduates-90-percent-stem-advancement-careers.md) — related

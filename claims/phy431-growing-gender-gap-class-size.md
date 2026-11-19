@@ -50,3 +50,4 @@ Historical trend analysis of HLM coefficients for PHY 431 (1997–2009, Figure 2
 ## Related Claims
 - [Female students earn lower grades than equivalently prepared male counterparts in most courses studied (β −0.021 to −0.133; up to 0.303 grade points lower)](gender-gap-upper-level-life-science-courses.md) — related
 - [Enrolment in the flagship data science courses increased over the last three years](ds-flagship-course-enrolment-growth.md) — related
+- [The IAYC's participant gender gap trended towards parity and was closed around 2012, continuing towards increasing female share](iayc-gender-parity-trend.md) — related

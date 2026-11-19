@@ -56,4 +56,4 @@ Implement the preprint journal club as an elective class in which enrolled stude
 -
 
 ## Key Sources
-- Santos, D. J. D., Goto, T., Lu, T.-Y., Ho, S. C.-C., Wang, T.-W., On, A. Y. L., Hashimoto, T., & Young, S.-C. (2021). Investigative Study on Preprint Journal Club as an Effective Method of Teaching Latest Knowledge in Astronomy. arXiv:2106.01688. https://arxiv.org/abs/2106.01688
+- Santos, D. J. D., Goto, T., Lu, T.-Y., Ho, S. C.-C., Wang, T.-W., On, A. Y. L., Hashimoto, T., & Young, S.-C. (2021). Investigative Study on Preprint Journal Club as an Effective Method of Teaching Latest Knowledge in Astronomy. arXiv:2106.01688. https://arxiv.org/abs/2106.01688. [doi:10.1103/physrevphyseducres.17.010145](https://doi.org/10.1103/physrevphyseducres.17.010145)

@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 267 claims (205 show a difference, 43 mixed, 19 no difference) · 202 studies (110 associational, 38 causal, 30 review, 10 theoretical, 7 qualitative, 5 design, 2 quant-synthesis), `q1`–`q4` · 10 of 202 report an effect size · 265 claims rest on one study
+> **Evidence** · 278 claims (212 show a difference, 47 mixed, 19 no difference) · 207 studies (111 associational, 39 causal, 30 review, 11 theoretical, 7 qualitative, 7 design, 2 quant-synthesis), `q1`–`q4` · 10 of 207 report an effect size · 276 claims rest on one study
 
 ## How to read this page
 
@@ -304,6 +304,17 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Number of students and %Hispanic are statistically significant predictors of physics offerings (p<0.001), with a non-significant interaction term](../claims/regression-hispanic-enrollment-predict-offerings.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Women and minority students are underrepresented in quantum-related Bachelor's disciplines, motivating early introductory QISE courses as gateways](../claims/qise-underrepresentation-early-gateway-courses.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [African American students showed more scientific reasoning with an avatar speaking African American Vernacular English than with one speaking Mainstream American English](../claims/aave-avatar-improved-scientific-reasoning.md) [+M] — an instructional effect differs by group
+- [Educational inequality is greater within the non-indigenous Australian population than within the indigenous population in every year examined](../claims/nonindigenous-education-inequality-higher.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [HBCUs are a disproportionate producer of Black physical science and engineering graduates, graduating 28% of Black physical science majors and 17% of Black engineers](../claims/hbcu-disproportionate-black-stem-production.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Inequality within the indigenous Australian education distribution increased from 2001 to 2017](../claims/indigenous-education-inequality-increased-2001-2017.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [A mentoring perspective argues mentors should positively recognize and praise student progress, citing literature that lack of recognition harms underrepresented students' entry and retention in physics](../claims/micro-affirmations-recognize-student-progress.md) [~W] — an instructional effect differs by group
+- [Reassignment request rates differed significantly by demographic group, with Hispanic and White students requesting reassignment more often](../claims/reassignment-requests-differ-by-demographic-group.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The article reports, citing a study of 150 STEM instructors, that instructors with fixed mindsets about students' ability had larger achievement and motivation gaps for racial and ethnic minority students](../claims/instructor-fixed-mindset-larger-achievement-gaps.md) [~M] — an instructional effect differs by group
+- [The authors argue that increasing educational inequality is not necessarily bad when accompanied by increases in the level of education](../claims/education-level-inequality-tradeoff-argument.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The education distribution of the non-indigenous Australian population dominates that of the indigenous population, and the gap between them did not narrow from 2001 to 2017](../claims/indigenous-nonindigenous-education-gap-not-narrowed.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The final exam grade gap for underrepresented students is positive in the concepts-first class (0.18) and does not fall within the 95% confidence intervals of the gaps of the three standard classes](../claims/concepts-first-positive-urm-final-exam-gap.md) [~M] — an instructional effect differs by group
+- [The indigenous education distribution is concentrated in the lower categories, with the median moving from Year 11 or below to Year 12 by 2014](../claims/indigenous-education-distribution-lower-category-concentration.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The level of education of the Australian indigenous population improved between 2001 and 2017, particularly in the two lowest education categories](../claims/indigenous-education-lower-tail-improvement-2001-2017.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

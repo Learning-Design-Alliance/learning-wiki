@@ -48,3 +48,5 @@ Longitudinal analysis of participant nationalities per camp year shown in Figure
 - [A cost feedback loop risks making IAYC leadership and participation exclusive to high-GNI nationalities](iayc-cost-feedback-loop-exclusivity.md) — related
 - [The majority of IAYC participants have come from high-GNI countries in 54 of 55 camps](iayc-majority-high-gni-54-of-55-camps.md) — related
 - [Low-GNI-country participation is higher when the camp is hosted in a low-GNI country](low-gni-participation-higher-with-low-gni-host.md) — related
+- [Black and minority ethnic participants are lacking at the IAYC: 84.7% of survey respondents were white and not a single respondent was Black](iayc-black-ethnic-minorities-lacking.md) — related
+- [Unique nationalities represented at the IAYC steadily and significantly increased, adding roughly five nationalities per decade without increasing total participants](iayc-nationalities-increasing-trend.md) — related

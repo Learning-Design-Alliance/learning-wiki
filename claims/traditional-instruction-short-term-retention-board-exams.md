@@ -53,3 +53,4 @@ The contrasting finding of the qualitative meta-synthesis of PBL meta-analyses: 
 - [Direct instruction's advantages do not persist over the longer term](direct-instruction-advantages-vanish-long-term.md) — related
 - [Problem-based learning shows null or negative effects on basic knowledge acquisition but positive effects on conceptual understanding and transfer relative to direct instruction](pbl-null-basic-knowledge-positive-transfer.md) — related
 - [PBL students outperform traditional-curriculum students on long-term retention of core knowledge measured by progress tests](pbl-better-long-term-core-knowledge-retention.md) — reports the opposite
+- [Project-based learning improves learning attitudes, long-term retention, and skill development, often in interdisciplinary environments](pbl-improves-attitudes-retention-skills.md) — reports the opposite

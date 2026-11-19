@@ -51,3 +51,4 @@ This is the authors' interpretive argument (type e) from the abstract, not a tes
 - [Game structures, role playing, and the physical environment are identified as factors shaping students' thinking in AR game play](ar-game-structure-role-environment-shape-thinking.md) — related
 - [Scaffolding in a handheld sensor-based vocabulary game significantly improved low-achieving EFL students' motivation and performance](scaffolding-sensor-vocabulary-game-improves-low-achievers.md) — related
 - [The authors report that game-based activities develop students' visual thinking and visualization skills in physics](games-develop-visual-thinking-skills.md) — related
+- [Game-based learning with visual clues helps address quantum literacy by engaging learners and building analytical skills](games-quantum-literacy-engagement.md) — related

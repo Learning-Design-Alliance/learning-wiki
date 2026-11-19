@@ -69,3 +69,4 @@ The review recounts the failed replications: Pollock et al. found 'no statistica
 - [Physics majors in blended interactive-engagement sections showed large, statistically significant FCI gains for both men and women](large-fci-gains-blended-physics-major-sections.md) — related
 - [Men scored higher than women on FCI pretest, FCI post-test, and solo-phase exam in introductory physics](fci-exam-gender-gaps-favor-men.md) — related
 - [Large gender differences on FCI and CSEM appear on both pretest and post-test in introductory physics courses, with FCI gaps of 10%–20%](gender-gap-fci-csem-pre-post.md) — related
+- [The gender gap in scores between female and male students is significantly reduced on a student-created problem assessment compared to traditional exams](problem-project-reduces-gender-score-gap.md) — related

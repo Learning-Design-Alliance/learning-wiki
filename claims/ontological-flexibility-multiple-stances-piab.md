@@ -79,3 +79,4 @@ End of the results section. The authors summarize the two episodes as showing 'm
 - [Student understanding of wave-particle duality falls into three clusters ranging from classical to quasiquantum description](three-clusters-wave-particle-duality-understanding.md) — related
 - [Introducing elementary particles as 'smallest particles' or via the microscope metaphor risks the misconception of particles as small pieces of ordinary matter](naive-particle-notion-misconception-risk.md) — related
 - [Secondary students ascribe classical-like features to quantum observables and struggle to accept quantities having no definite value](secondary-students-classical-features-quantum-observables.md) — related
+- [Particle in a Box improved undergraduates' conceptual understanding of probability, and Psi and Delta qualitatively showed effective engagement with basic quantum concepts](georgia-tech-quantum-games-evaluations.md) — related

@@ -58,3 +58,4 @@ Objective grades and a subjective perceived-learning item were compared across t
 - [Flipped classroom students rated their theoretical knowledge mastery higher than lecture students (7.9 ± 0.7 vs 7.1 ± 0.8)](flipped-classroom-self-rated-theoretical-knowledge-gain.md) — related
 - [Preventive medicine students taught with case-based learning scored higher on the final exam (77.62) than traditionally taught peers (69.2)](cbl-higher-final-exam-preventive-medicine.md) — related
 - [Flipped-section students average significantly more correct answers on the 50 common comprehensive final exam questions than non-flipped students](flipped-higher-common-final-exam.md) — reports the opposite
+- [Final-exam mean differences between flipped and non-flipped students were not statistically significant, with only three non-flipped students sitting the final](flipped-final-exam-no-significant-difference.md) — a narrower finding that bears on this claim

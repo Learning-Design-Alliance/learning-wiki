@@ -63,3 +63,4 @@ Theoretical argument in the review's identity-threat pathway section. The author
 - [The Metacognition+TM intervention especially increased time management tool use among students from minoritized groups](minoritized-group-moderation-time-tools.md) — related
 - [BME students report masking their identity to fit in and to avoid negative stereotyping](bme-students-identity-masking.md) — related
 - [A hidden-curriculum culture in which difficulties are seen as a sign of weakness makes seeking support and additional training stigmatising, particularly for IMGs and BME UKGs](hidden-curriculum-weakness-stigma-help-seeking.md) — related
+- [Semantic network analysis showed statistically significant interdependencies between positive persistence and growth mindset, important early undergraduate experiences, gender stereotype threat, external recognition, and confidence](persistence-interdependencies-semantic-network.md) — related

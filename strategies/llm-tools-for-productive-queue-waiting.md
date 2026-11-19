@@ -43,6 +43,7 @@ A forward-looking recommendation for addressing long office-hours queues: rather
 ## Related Strategies
 
 - [Use New Student First scheduling for online office hours queues and FCFS for in-person queues](nsf-for-online-office-hours-scheduling.md)
+- [Offer virtual office hours at varied times plus an asynchronous discussion board and chat option](virtual-office-hours-discussion-board-chat.md)
 
 ## Examples
 -

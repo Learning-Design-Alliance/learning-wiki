@@ -61,3 +61,4 @@ Interview evidence from one student, Ashlyn, conducted after the diffusion-equat
 - [A coherence/expectations framework explains the analogy failure: students who do not value consistency in physics resort to memorized formulas and disregard the paired problem.](coherence-expectations-analogy-failure.md) — related
 - [Physics instructors and biology students have different go-to epistemological resources, creating instructional conflict](instructor-student-epistemological-stance-mismatch.md) — related
 - [Students' epistemological expectations shape how they interpret equations, as shown by exam answers favoring a calculational formula over Newton's second law](epistemological-expectations-shape-equation-interpretation.md) — related
+- [Computation made some students question their physics competence, feeling worse at physics when they could not translate known formulas into code](computation-diminishes-perceived-physics-competence.md) — related

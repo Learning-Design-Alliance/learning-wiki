@@ -44,6 +44,7 @@ In the block-pellet-spring problem, part 3 asks: "you must make a number of simp
 ## Related Strategies
 
 - [Motivate the infinite-sheet-of-charge toy model with a conceptual derivation showing why the field is constant and when the model applies](conceptual-derivation-infinite-sheet-charge.md)
+- [Replace textbook problems with authentic real-world problems that require deciding what information is needed and justifying assumptions](authentic-real-world-problems-strategy.md)
 
 ## Examples
 -

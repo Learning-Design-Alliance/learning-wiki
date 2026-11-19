@@ -49,6 +49,7 @@ For long-term sustainability, the article recommends spreading training events a
 - [Collect pre- and post-surveys plus educator post-mortem sessions to evaluate and improve each training event](pre-post-surveys-and-educator-post-mortem-strategy.md)
 - [Sustain inquiry innovations through partnerships with business, universities, thought leadership, or institutional policy adoption](partnerships-sustain-inquiry-innovations.md)
 - [Sustain educational interventions throughout development and evaluate long-term rather than short-term efficacy](sustained-interventions-throughout-development.md)
+- [Build a voluntary mentor community in which participants become mentors and feedback into the training system](hep-participants-become-mentors-community.md)
 
 ## Examples
 -

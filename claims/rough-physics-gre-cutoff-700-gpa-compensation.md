@@ -69,3 +69,4 @@ A second feature of the same plotted decision surface: the article finds "a nega
 - [A 700 QGRE cutoff would reject nearly three quarters of Hispanic physical-sciences test takers, more for other minority groups, and filter out women at a higher rate than men](qgre-cutoff-700-diversity-filter.md) — related
 - [A 60th-percentile PGRE cutoff would have eliminated 43.6% of prize fellows overall and 60.4% of female fellows](pgre-cutoff-eliminates-fellows-disproportionately-women.md) — related
 - [Applicants with a high physics GRE score and low GPA are admitted at nearly the same rate as applicants with a high GPA and low physics GRE score](high-pgre-low-gpa-no-stand-out-advantage.md) — related
+- [A conditional inference forest acceptably models pre-rubric physics graduate admissions decisions, with physics GRE score, quantitative GRE score, and undergraduate GPA the only meaningful features](pre-rubric-admissions-model-quantitative-metrics-meaningful.md) — related

@@ -69,3 +69,5 @@ The article's review of astronomy education research states that E3D from one- o
 - [Students commonly misplace stars within the solar system and misinterpret parallax and stellar distances, including trainee science teachers](stars-placed-within-solar-system-misconception.md) — related
 - [Motion parallax in simulations cues the ability to extrapolate three-dimensionality](motion-parallax-cues-e3d-in-simulations.md) — a broader claim this one bears on
 - [VET teachers use body gestures and pointing to recreate the three-dimensional machine space represented two-dimensionally on the simulator screen.](teacher-gestures-recreate-3d-space-on-2d-screen.md) — related
+- [Neural-network predictions agree with the analytical solution within the training domain and can extrapolate when the wavelength-distance product falls within the support of the training distribution, but fail when it does not](nn-extrapolation-lambda-z-support.md) — related
+- [Students in the VR parallax activity measured parallactic motion in VR and derived quantitative star distances, with the vast majority performing well on the tasks](vr-parallax-quantitative-worksheet-performance.md) — related

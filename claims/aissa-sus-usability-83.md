@@ -64,3 +64,4 @@ Quantitative usability assessment in the UAM pilot: the SUS was administered to 
 - [Despite high overall usability, only 46% of surveyed students reported they would frequently use the Learning Moment website](sus-frequent-use-only-46-percent.md) — related
 - [The mobile game prototype received a high subjective usability score on the System Usability Scale](mobile-game-high-sus-usability-score.md) — related
 - [The Ethics Game received high perceived usability, with a mean SUS score of 83.14 rated Good to Excellent](ethics-game-high-sus-usability.md) — related
+- [First-version MR application scores 83.60% on the system usability scale and all participants report its visualizations helpful](mr-application-sus-83-6-visualizations-helpful.md) — related

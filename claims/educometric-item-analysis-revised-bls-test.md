@@ -73,3 +73,4 @@ Confirmatory Study 2 (N = 611) item analysis of the revised test, with discrimin
 - [Spanish Reading items show gradually increasing mean p values and stable discrimination with no negatively discriminating items](spanish-reading-item-statistics-stable.md) — related
 - [AI-generated examination questions showed significantly lower item discrimination than human-designed ones in two studies (0.35 vs 0.49; 0.28 vs 0.42)](ai-exam-lower-discrimination.md) — related
 - [Faculty-generated SBMCQs showed superior discrimination indices and distractor effectiveness compared with ChatGPT-generated SBMCQs](faculty-sbmcqs-superior-discrimination.md) — related
+- [Negatively discriminating items are relatively common in classroom examinations, with 8% of surveyed items showing r′ below zero, most often due to improper keying.](negative-discrimination-classroom-items.md) — related

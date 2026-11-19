@@ -53,3 +53,4 @@ Theoretical argument in the commentary's integration-versus-differentiation sect
 - [The type and intensity of emotions students experience in feedback situations depend on feedback focus (task vs person) and valence, in interplay with context and student characteristics](feedback-focus-and-valence-shape-emotions.md) — a narrower finding that bears on this claim
 - [Struggle is experienced as a necessary and motivating part of theoretical sensemaking](struggle-necessary-and-motivating.md) — related
 - [Students' negative emotional responses to elearning are interpretable as negative achievement emotions associated with maladaptive, rote learning strategies](negative-achievement-emotions-elearning-rote-strategies.md) — related
+- [Negative thoughts about struggling lead to anxiety and disengagement that occupy limited cognitive resources during problem solving](negative-thoughts-anxiety-detrimental-loop.md) — related

@@ -49,6 +49,7 @@ To establish a norm valuing diverse perspectives, the course opened with a lectu
 - [Selecting Culturally Responsive Texts](selecting_culturally_responsive_texts.md)
 - [Cultivate Multiple Ways of Knowing and Making Meaning](cultivate_multiple_ways_of_knowing_and_making_meaning.md)
 - [Teach astronomy through dual-perspective storytelling (indigenous and Western science stories woven together)](dual-perspective-astronomy-storytelling.md)
+- [Connect dark-sky observation to local cultural heritage and history to deepen engagement](dark-sky-cultural-heritage-connection.md)
 
 ## Examples
 -

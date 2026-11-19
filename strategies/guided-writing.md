@@ -64,6 +64,7 @@ Guided writing works because it reduces the working-memory and self-regulation d
 - [Process Writing](process-writing.md) — the broader workshop structure within which guided writing sits
 - [Sequence summarizing instruction from explicit macrorule modelling on short texts to independent summarizing of curriculum texts](macrorule-training-sequence-strategy.md)
 - [Provide teacher scaffolding throughout all stages of the writing process, giving feedback on drafts and gradually transferring responsibility to learners.](teacher-scaffolding-throughout-writing-process.md)
+- [Embed VR lessons in pre-VR lecture and post-VR peer activity using gradually released instruction](gradual-release-embedding-vr-lessons.md)
 
 ## Examples
 - **[The Writing Revolution](https://www.thewritingrevolution.org)** — Hochman & Wexler's method embeds guided sentence-level and paragraph-level composition within content instruction; teachers model, then guide, then release.

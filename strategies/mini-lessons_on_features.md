@@ -59,9 +59,11 @@ Mini-lessons work because they isolate one skill at a time, keeping working-memo
 5. **Share and revisit:** one or two students read their attempt aloud; the feature reappears in revision checklists and future conferences so instruction is spaced, not one-shot [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+M].
 
 ## Related Strategies
+
 - [Mentor Texts](mentor-texts.md) — the source material mini-lessons draw from; a mini-lesson is often the analysis of a mentor text made explicit
 - [Writing Conferences](writing-conferences.md) — the individualized follow-on where a mini-lesson feature is re-taught one-on-one
 - [Model Texts](model-texts.md) — full exemplars from which features are extracted for mini-lesson treatment
+- [Draft the introduction through a six-step funnel from big picture to study preview](six-step-introduction-funnel-strategy.md)
 
 ## Examples
 - **Units of Study in Opinion, Information, and Narrative Writing (Calkins et al., Teachers College Reading & Writing Project)** — each session opens with a 10-minute mini-lesson on a named craft feature, followed by independent writing with conferring ([Heinemann](https://www.heinemann.com)).

@@ -65,6 +65,7 @@ The routine works because it forces generative processing: learners must select,
 - [Exit Tickets](exit-ticket.md) — the broader family of end-of-class formative checks of which 3-2-1 is one template
 - [Think-Pair-Share](../patterns/think-pair-share.md) — pairs individual written reflection with peer elaboration
 - [Weekly Thinking Science lesson routine for pre-service teachers: work the lesson as students, then metacognitive discussion, activity design, and written reflection](thinking-science-preservice-weekly-routine.md)
+- [Weekly reading responses with randomized in-class sharing to foster discussion of historical literature](weekly-reading-response-random-sharing.md)
 
 ## Examples
 - **Elementary science**: after a unit on the water cycle, students write 3 facts, 2 "wow" details, and 1 question; the teacher sorts the questions into the next day's mini-lesson

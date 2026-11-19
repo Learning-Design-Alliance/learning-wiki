@@ -71,3 +71,4 @@ Subtracted epistemic network (Figure 8) comparing midterm high- and low-performi
 - [More enthusiastic library users completed more problems and shifted their study time toward afternoons before weekly deadlines](geas-enthusiastic-users-study-more.md) — related
 - [Students accessed laboratory videos most just before lab due dates, but showed little spike around homework due dates and rarely revisited old videos before exams](video-access-timing-tied-to-assignments.md) — related
 - [Student video-accessing behaviors showed little correlation with course performance in the blended mechanics course](video-accessing-uncorrelated-with-performance.md) — related
+- [Weekly video views and scores diverged: a week of low video views preceded a fourfold surge in views with underperforming scores, then higher scores with less video attention](video-views-score-divergence-circuit-course.md) — related

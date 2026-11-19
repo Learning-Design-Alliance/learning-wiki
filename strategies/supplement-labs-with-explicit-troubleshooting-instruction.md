@@ -45,6 +45,7 @@ The authors recommend that instructors and education researchers add explicit te
 
 - [Assess troubleshooting with process-based measures of students' troubleshooting strategies rather than outcomes-based measures of circuit completion](process-based-troubleshooting-assessment-strategy.md)
 - [Address troubleshooting in lectures and lab manuals by highlighting common pitfalls for each lab activity](highlight-common-pitfalls-lectures-lab-manuals.md)
+- [Use science fiction works in astronomy teaching as introductory points, class discussion bases, or troubleshooting cases](sci-fi-as-intro-discussion-troubleshooting-strategy.md)
 
 ## Examples
 -

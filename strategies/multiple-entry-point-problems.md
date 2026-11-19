@@ -43,6 +43,7 @@ To encourage varied approaches, "teachers should try to present problems with mu
 - [Visualizing](visualizing.md)
 - [Provide specific instruction on drawing diagrams to increase students' use of diagrams in problem solving](specific-diagram-instruction-strategy.md)
 - [Teacher-as-facilitator discussions driven by stimulating questions, with explicit promotion of proper scientific language](facilitator-question-driven-scientific-language.md)
+- [Microteaching on introductory physics problems with multi-source feedback](microteaching-physics-problems-feedback-strategy.md)
 
 ## Examples
 -

@@ -57,3 +57,4 @@ One-way ANOVA on expert-rated TCP scores (three experts, ICC = 0.89) comparing s
 - [Students rate GenAI's creativity enhancement in programming significantly above neutral](genai-creativity-enhancement-perceptions.md) — related
 - [Treatment-group final products score significantly higher on all three CPAM creativity aspects: uniqueness, practicality and detail](cpam-aspects-all-favour-mobile-cad-integration.md) — related
 - [Students report the course improved their creative thinking skills (M = 4.51) and that team discussion improved understanding and generated creative ideas (M = 4.65)](pf-course-creativity-and-team-discussion-ratings.md) — related
+- [Students' problem-creation submissions showed high engagement and notable creativity, with many reflecting on pedagogical value in expert-like terms](problem-project-engagement-creativity.md) — related

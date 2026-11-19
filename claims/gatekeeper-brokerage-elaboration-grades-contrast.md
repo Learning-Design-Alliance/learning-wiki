@@ -69,3 +69,4 @@ The same OLS grade models show the gatekeeper coefficient was negative and signi
 - [Being nominated as a good physics student positively predicts both directing information seeking toward others and receiving advice-seeking ties](good-student-nominations-predict-seeking.md) — related
 - [In a Modeling Instruction physics course, classroom network centrality predicts final course grade over and above prior GPA for three of four centrality measures tested](centrality-predicts-grade-beyond-gpa.md) — related
 - [Collaboration during problem generation occurred mostly within groups, consistent with interrogation logic, while algebra-based problems motivated information seeking across groups](within-group-interrogation-logic-collaboration.md) — related
+- [Degree centrality in the collaboration network positively predicts physics grades in remote secondary classrooms](collaboration-centrality-positive-remote-physics-grades.md) — related

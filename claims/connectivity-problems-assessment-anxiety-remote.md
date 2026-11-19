@@ -60,3 +60,4 @@ Focus group theme on technological challenges: students worried about "missing i
 - [Poor internet connectivity and device incompatibility limited access to online courses for students in developing countries during COVID-19](poor-connectivity-blocked-online-access-developing-countries.md) — related
 - [Poor internet connectivity, timing clashes, and home distractions were the main hindrances to online learning in the developing-country setting](connectivity-timing-hindrances-online-learning.md) — related
 - [Students reported negative experiences when the flipped classroom lacked adequate infrastructure such as internet connection](flipped-classroom-internet-infrastructure-difficulty.md) — related
+- [Resource inequalities disadvantaged low-achieving students during virtual learning](resource-inequalities-la-students.md) — related

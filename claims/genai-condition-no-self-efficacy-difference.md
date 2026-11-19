@@ -78,3 +78,4 @@ Topic-level analysis of the same survey found Asymptotic Analysis (Comfort media
 - [Intervention group reports higher perceived difficulty, reasoning improvement, engagement, self-efficacy, and course material evaluation](genai-cbl-subjective-experience.md) — reports the opposite
 - [Pre-training knowledge and confidence varied statistically between topic statements, with physical activity knowledge and weight-measurement confidence highest](pre-training-knowledge-confidence-varied.md) — related
 - [Enrollees are significantly more comfortable using VoxCharta than volunteers](enrollees-more-comfortable-voxcharta-than-volunteers.md) — related
+- [B-range students in high-comfort or high-activity software-matched groups had significantly higher final exam scores](b-range-students-high-comfort-groups-higher-exam-scores.md) — related

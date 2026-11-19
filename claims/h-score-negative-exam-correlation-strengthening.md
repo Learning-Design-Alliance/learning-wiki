@@ -52,3 +52,4 @@ Longitudinal observational analysis of six offerings comparing averaged homework
 - [Students who withdrew after Midterm 1 had higher H-scores than course completers, with the gap widening by Spring 2026](withdrawal-associated-with-elevated-h-scores.md) — related
 - [After a semester of computational homework, about 60% of introductory mechanics students successfully modeled a novel central force problem in a proctored individual evaluation](computational-evaluation-majority-success-intro-mechanics.md) — related
 - [Proctored exam scores are normally distributed while proctored-plus-out-of-class scores are not, indicating bias from out-of-class assignments](proctored-scores-normal-out-of-class-not.md) — related
+- [Student written reports averaged 88 ± 9 and oral reports 89 ± 6 out of 100, close to the course average](student-report-scores-88-written-89-oral.md) — related

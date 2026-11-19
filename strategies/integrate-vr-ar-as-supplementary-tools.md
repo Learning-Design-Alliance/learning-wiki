@@ -81,6 +81,7 @@ The review recommends that immersive technologies like VR and AR be used as supp
 - [Replace or supplement a lecture with a short high-fidelity simulator session of identical content and duration](identical-content-simulator-session-strategy.md)
 - [Move instrument practice onto the Internet with 3D simulation and group discussion](online-3d-instrument-practice-strategy.md)
 - [Explore unexplored taxonomy quadrants by combining artificial characters with digital media and augmented reality](explore-artificial-characters-digital-media-quadrants.md)
+- [Pair traditional quantum computation lecture topics with hands-on activities on real quantum systems](pair-lectures-with-hands-on-quantum-activities.md)
 
 ## Examples
 -

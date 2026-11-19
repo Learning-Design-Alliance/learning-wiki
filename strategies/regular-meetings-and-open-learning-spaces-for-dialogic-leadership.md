@@ -45,6 +45,7 @@ The review's organizational-environment theme identifies concrete conditions tha
 
 - [Weekly teacher team meetings to review each student's strengths, progress, and obstacles](barr-weekly-teacher-team-meetings.md)
 - [Creating Space for New Ideas](creating_space_for_new_ideas.md)
+- [Provide active semester-long support to keep study groups active](semester-long-active-study-group-support.md)
 
 ## Examples
 -

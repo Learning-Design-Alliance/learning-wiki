@@ -48,6 +48,7 @@ The article proposes designing AI-featured scaffolding activities that connect l
 - [Connect Writing to Real-World Applications](connect_writing_to_real-world_applications.md)
 - [Reading and Writing for Real-World Math Applications](reading_and_writing_for_real-world_math_applications.md)
 - [Student-Created Magazines](student-created-magazines.md)
+- [Have students apply course techniques to actively investigate a real problem in an application area that appeals to their interests](real-problem-investigation-interest-areas.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Longitudinal survey analysis of engineering students at one US research universi
 - [Physics shows the most extreme self-efficacy/performance mismatch: men's self-efficacy advantage is much larger than their small grade advantage](physics-largest-self-efficacy-performance-mismatch.md) — related
 - [Women earn higher grades than men in foundational mathematics, engineering, and chemistry courses, while men earn higher grades only in the two introductory physics courses](grade-gender-differences-vary-by-discipline.md) — related
 - [A woman student can perform comparably to peers in introductory physics yet report low physics self-efficacy while feeling confident in a closely related field](low-physics-self-efficacy-despite-comparable-performance.md) — related
+- [Women exhibited lower physics self-efficacy than men in all grade cohorts, and the gender imbalance increased with course grade](self-efficacy-gender-gap-increases-with-grade.md) — related

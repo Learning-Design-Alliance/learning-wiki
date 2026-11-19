@@ -63,3 +63,4 @@ Cross-sectional survey of EM residency program directors; barriers reported in t
 - [Funded fellowships secured protected time and enabled accreditation, but were seen as a partial solution to substance use disorders](funding-protected-time-partial-solution.md) — related
 - [Idle simulation equipment is common and is associated with lower faculty training and personnel resources](idle-simulation-equipment-linked-training-personnel.md) — related
 - [Deans cite limited resources, especially faculty expertise, as the major barrier to teaching more evolution, with foundational and patient-care benefits cited as benefits](barriers-benefits-evolution-education-qualitative.md) — related
+- [Physics labs give rise to a unique combination of stereotypes, discriminatory behaviors, and mobility or sensory barriers that unfairly prevent full participation for some learners](labs-unique-accessibility-barriers.md) — related

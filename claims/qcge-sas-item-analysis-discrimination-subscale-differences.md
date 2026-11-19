@@ -73,3 +73,4 @@ Same item analysis of the full item set reported in the Results section: discrim
 - [CTT item selection dropped five low-discrimination items, retaining 20 items of moderate difficulty](glat-item-selection-discrimination.md) — related
 - [The social presence subscale of the CoI survey instrument shows inconsistent dimensionality across validation studies](coi-survey-social-presence-subscale-dimensionality-inconsistent.md) — related
 - [All 12 cases had excellent discriminatory ability (item analysis: 0.31–0.84)](foi-test-all-12-cases-excellent-discrimination.md) — related
+- [Negatively discriminating items are relatively common in classroom examinations, with 8% of surveyed items showing r′ below zero, most often due to improper keying.](negative-discrimination-classroom-items.md) — related

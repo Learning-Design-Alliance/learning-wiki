@@ -69,6 +69,7 @@ For curriculum design, the chapter recommends a transdisciplinary approach in wh
 - [Collaborate across subjects with physics teachers to cover the quantum information teacher-training gap](physics-teacher-collaboration-qip.md)
 - [Use student reflection on subject-related datasets and AI model behavior to address both common core standards and AI competencies](reflection-prompts-ai-integration.md)
 - [Integrate AI into core curricula by using data that students already produce in subject activities to teach data-related AI competencies](student-produced-data-ai-integration-strategy.md)
+- [Design recommendations for art-science collaboration courses](astro-animation-recommendations-strategy.md)
 
 ## Examples
 -

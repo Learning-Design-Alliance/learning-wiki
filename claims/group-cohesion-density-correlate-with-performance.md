@@ -52,3 +52,4 @@ RQ1 Pearson correlation tests of group network parameters against grades (Table 
 - [Multigraph outdegree centrality is the most robust participation indicator, with significant positive correlations in all courses, while weighted outdegree was negatively correlated in two courses](multigraph-outdegree-most-robust-participation.md) — related
 - [SNA parameters predict final grade, with early (midterm) participation more predictive than whole-course data](sna-parameters-predict-grade-early-participation-more-predictive.md) — related
 - [Aggregate classroom network integration measures (density and average path length) show no difference between day 2 and day 7 of the program](no-change-network-integration-impress.md) — related
+- [During remote teaching, overall collaboration degree centrality positively predicts high-school physics grades](collaboration-centrality-positive-remote-physics-grades.md) — related

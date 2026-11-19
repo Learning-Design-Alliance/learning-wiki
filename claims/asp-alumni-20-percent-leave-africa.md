@@ -47,3 +47,4 @@ The article reports this from its alumni survey conducted every four years on al
 
 ## Related Claims
 - [ASP gathers student, teacher, and four-yearly alumni feedback surveys to monitor impact](asp-feedback-survey-system.md) — related
+- [Nine ASP alumni completed 3-6 month short-term research visits at Brookhaven National Laboratory in 2019, with reported outcomes including completed PhDs and a published paper](asp-short-term-research-visits-bnl-2019.md) — related

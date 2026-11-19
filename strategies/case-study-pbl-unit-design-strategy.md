@@ -55,6 +55,7 @@ A unit-design strategy embedding problem based learning throughout a large-enrol
 - [Reclassify lecture sessions as tutorials to make attendance compulsory and increase engagement](reclassify-lectures-as-compulsory-tutorials.md)
 - [Design e-learning with user-friendly responsive software, concise modules, and interactive clinical-vignette assessment throughout](elearning-design-recommendations-imagine.md)
 - [Offer interactive seminars as an option alongside small group tutorials where resources are constrained](interactive-seminars-as-cost-effective-alternative-option.md)
+- [Supplement large active-learning modules with breakout/tutorial sessions, interactive online activities and peer assessment](supplement-active-learning-breakouts-peer-assessment.md)
 
 ## Examples
 -

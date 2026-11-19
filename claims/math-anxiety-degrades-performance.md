@@ -125,3 +125,4 @@ Multilevel meta-analysis of 223 studies from research conducted 1992–2018 (pub
 - [Reduced anxiety redirects attention from task-irrelevant worry to the writing assignment itself](anxiety-reduction-frees-attention-for-writing.md) — related
 - [Test anxiety is negatively correlated with academic performance measures such as USMLE scores and academic grades](test-anxiety-negative-correlation-performance-medical-students.md) — related
 - [Students' anxiety associations centre on testing and assessment rather than on physics or maths, suggesting distinct types of anxiety](test-anxiety-assessment-not-stem-subjects.md) — related
+- [Negative thoughts about struggling lead to anxiety and disengagement that occupy limited cognitive resources during problem solving](negative-thoughts-anxiety-detrimental-loop.md) — related

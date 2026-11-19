@@ -47,3 +47,4 @@ Qualitative finding from interviews with Design Team members across the LEAs. Pa
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
 - [LEA Design Teams came to believe that focusing first on teacher-of-color retention builds conditions that later support recruitment](retention-first-pays-recruitment-dividends.md) — related
 - [More time with coaches was significantly associated with better teaching outcomes and higher teacher self-reported technological proficiency](vils-coach-time-associated-better-teaching-outcomes.md) — related
+- [Breakout rooms succeeded when structured, incentivized, and supported, but failed when group members did not participate](breakout-room-structure-incentive-support.md) — related

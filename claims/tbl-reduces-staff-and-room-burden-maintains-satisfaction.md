@@ -74,3 +74,4 @@ Prospective mixed-methods evaluation of two consecutive Year-1 medical cohorts (
 - [TBL is slightly more cost effective than PBL despite the initial outlay required for technological devices to support room-to-room videoconferencing.](tbl-more-cost-effective-than-pbl.md) — a broader claim this one bears on
 - [Participants reported logistical and administrative burdens associated with orchestrating teaching events.](pedagogical-internship-track-administrative-burden.md) — related
 - [A multidisciplinary e-learning team allowed 22 lecturers to teach 933 students, roughly half the staff a face-to-face approach would require](e-learning-team-halves-lecturer-workload-large-class.md) — related
+- [Online redesign shifted contact-hour distribution toward content learning (63% to 72%) by reducing logistics time (21% to 4%)](online-redesign-contact-hour-distribution-shift.md) — related

@@ -13,7 +13,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 184 claims (140 show a difference, 32 mixed, 12 no difference) · 136 studies (51 associational, 27 qualitative, 19 causal, 17 review, 10 theoretical, 7 quant-synthesis, 5 design), `q1`–`q3` · 17 of 136 report an effect size · 184 claims rest on one study
+> **Evidence** · 185 claims (141 show a difference, 32 mixed, 12 no difference) · 137 studies (52 associational, 27 qualitative, 19 causal, 17 review, 10 theoretical, 7 quant-synthesis, 5 design), `q1`–`q3` · 17 of 137 report an effect size · 185 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -220,6 +220,7 @@ Social supports are the people available to help a learner if needed, and the le
 - [A peer network, especially an engineering friend, supported a life-science student in making physics connections in social and everyday settings](../claims/peer-network-supports-everyday-physics-connections.md) [+M] — learners who differ on it differ in outcomes
 - [Every surveyed NAC student reported that peer support made them feel more comfortable in STEM despite rarely encountering career scientists of similar race or ethnicity](../claims/nac-peer-support-comfort-in-stem.md) [+M] — learners who differ on it differ in outcomes
 - [Students rate teacher support highly, above outreach benchmarks, but teachers alone could not have sustained the projects](../claims/prise-teacher-support-and-external-mentoring.md) [~M] — an instructional effect differs with it
+- [Percentage of isolated students decreased from 37% to 26% with the change to virtual context](../claims/isolated-students-decreased-virtual.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

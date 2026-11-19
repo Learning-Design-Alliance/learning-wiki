@@ -70,3 +70,4 @@ Quasi-experimental pre/post study of 89 fourth-year nursing students in Turkey u
 - [The long-term impact of simulation-based learning on knowledge retention and clinical practice remains uncertain](sbl-long-term-retention-uncertain.md) — related
 - [Post-test means favoured the prior knowledge questions group over the control group](prior-knowledge-questions-posttest-means.md) — a narrower finding that bears on this claim
 - [Pre-training CPR skills were virtually zero and post-training gain was 92.0%, indicating training was highly effective](cpr-training-highly-effective-nigerian-students.md) — a narrower finding that bears on this claim
+- [Students' template-scored problem-solving skills improved over the term, with overall scores rising from 45% to 55%](problem-solving-scores-improved-45-to-55.md) — related

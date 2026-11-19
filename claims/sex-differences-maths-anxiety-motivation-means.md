@@ -80,3 +80,4 @@ Univariate ANOVAs across TEDS continuous variables; the article reports sex expl
 - [The Einstein-First programme improved students' interest in physics, with female students' interest rising from 50% to nearly match males' initial 80%](einstein-first-female-interest-increase.md) — related
 - [Girls dissociate their gender from cleverness by age 6, and by age 10-11 STEM loses the interest of girls who already believe a science career is not for them](girls-dissociate-cleverness-age-six.md) — related
 - [A statistically significant treatment-by-sex interaction emerged in magnetostatics scores, with females not disadvantaged by the VR treatment](treatment-sex-interaction-magnetostatics-vr.md) — related
+- [Female students were less confident in their choice of major than male students before participating in informal physics programs, and this difference disappeared after participation](female-confidence-choice-major-gap-closed-by-outreach.md) — related

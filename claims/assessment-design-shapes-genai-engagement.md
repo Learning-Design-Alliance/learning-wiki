@@ -53,3 +53,4 @@ The article argues, within its literature synthesis, that assessment is more tha
 - [Pedagogically scaffolded generative AI in design thinking education augments rather than replaces human judgment](genai-scaffolded-augments-human-judgment-design-thinking.md) — related
 - [High-achieving students describe selective AI use for clarification, summarisation, and workflow support while verifying outputs and keeping them subordinate to their own judgment](qualitative-selective-verification-intensive-use.md) — related
 - [AI's role in shaping interaction, epistemic agency, and shared regulation in collaborative learning remains under-theorized](ai-role-collaborative-learning-undertheorized.md) — a broader claim this one bears on
+- [Educational contexts, scaffolding, expectations, and student backgrounds constrain how students take up epistemic agency](contexts-constrain-epistemic-agency-uptake.md) — a narrower finding that bears on this claim

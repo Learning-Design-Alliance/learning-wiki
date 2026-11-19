@@ -43,7 +43,8 @@ The strategy is a chronological teaching sequence: the lecturer first reminds st
 - [The chronological approach to introducing the Schrödinger equation differs from most quantum mechanics textbooks but matches Dicke and Wittke, Weinberg, and the original Nuffield A level](../claims/schrodinger-introduction-differs-from-textbooks.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Introduce quantum topics through analogies with familiar classical engineering content, from classical control theory to Fourier filter design.](classical-first-analogies-quantum-engineering-teaching.md)
 
 ## Examples
 -

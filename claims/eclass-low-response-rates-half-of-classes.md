@@ -10,6 +10,7 @@ generated:
   at: 2026-09-26
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-19
 sources:
   - id: zwickl-2013
     resource: "https://doi.org/10.48550/arxiv.1307.5760"
@@ -41,7 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies (3 entries) · 2 design `r2`–`r3` · `q2` · `i1` small
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-19 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 

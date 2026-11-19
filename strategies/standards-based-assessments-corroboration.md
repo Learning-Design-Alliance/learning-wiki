@@ -41,7 +41,8 @@ The article recommends that given the reality of administrative pressures to dem
 - [Teacher-researchers shifted epistemic stances from a positivistic perspective to a more grounded framework](../claims/action-research-epistemic-shift.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Gain institutional support for QIST programs with an employment-data document developed with industry, plus early low-stakes demonstrations of popularity](qist-institutional-support-document-strategy.md)
 
 ## Examples
 -

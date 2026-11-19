@@ -62,3 +62,4 @@ This is a qualitative, single-study, small-sample case analysis (4 focal cases, 
 - [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — related
 - [Exporting individualistic, universalized well-being curricula across contexts can promote deficit discourse and epistemic injustice](universalized-wellbeing-curricula-promote-deficit-discourse.md) — related
 - [Student projects produced original scientific findings, including an estimate that total COVID-19 cases could be up to 50 fold larger than registered cases](student-covid19-findings-50fold-case-estimate.md) — related
+- [Educational contexts, scaffolding, expectations, and student backgrounds constrain how students take up epistemic agency](contexts-constrain-epistemic-agency-uptake.md) — related

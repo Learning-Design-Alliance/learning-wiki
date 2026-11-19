@@ -56,8 +56,11 @@ Transition handouts work because they externalize a structural convention that p
 5. Fade the handout over successive assignments, shifting it to a revision checklist.
 
 ## Related Strategies
+
 - Sentence combining and sentence-frame instruction — adjacent explicit-writing strategies that, like transition handouts, make syntactic conventions visible before independent writing
 - Mentor-text analysis — studying published transitions in authentic texts deepens the function-based understanding the handout introduces
+- [Link sentences old-before-new and use sign-post words to make text flow](sentence-linkage-signpost-words-strategy.md)
+- [Structure paragraphs around an explicit topic sentence, with three to seven sentences each](topic-sentence-paragraph-structure-strategy.md)
 
 ## Examples
 - An undergraduate composition course distributes a function-sorted transition handout, annotates a model argumentative paragraph together, then requires students to revise their own drafts by underlining each transition and verifying the relationship it claims.

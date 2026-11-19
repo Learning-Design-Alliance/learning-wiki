@@ -46,3 +46,4 @@ Moderator analysis of the natural field experiment in three HarvardX courses: th
 - [Open-ended planning prompts at the start of a MOOC increase course completion by 29%](planning-prompts-increase-mooc-completion.md) — related
 - [The content of MOOC students' plans forecasts completion, with time-focused plans predicting lower completion](time-focused-plans-forecast-lower-mooc-completion.md) — related
 - [Platform treatment effects did not vary across demographic subgroups, suggesting equal benefit regardless of racial background](mastery-platform-effects-uniform-across-demographics.md) — related
+- [Korbit (full) showed higher course completion rates than both Korbit (no feedback) and the MOOC platform](korbit-full-higher-completion-rates.md) — related

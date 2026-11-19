@@ -60,3 +60,4 @@ Pearson Product Moment correlations among posttest scores, demographics, and tre
 - [SJT scores showed no significant differences by socio-economic status indicators (high school origin and parental educational background) in either pilot year](sjt-no-ses-score-differences-indonesia-pilot.md) — related
 - [No significant correlation between demographic variables and clinical skills scores](no-demographic-correlation-clinical-skills.md) — related
 - [Socio-economic variables play a major role in exam performance irrespective of ethnic background, giving evidence that genetic factors have little or no effect on group performance](socioeconomic-dominance-over-genetic-group-effects.md) — reports the opposite
+- [Problem Project scores show moderate positive correlations with final exam scores across all demographic subgroups](problem-project-correlates-with-final-exam.md) — related

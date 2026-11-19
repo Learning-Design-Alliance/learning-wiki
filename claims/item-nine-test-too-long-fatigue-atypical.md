@@ -47,3 +47,4 @@ Authors' discussion of item nine's atypical scoring in the perception questionna
 ## Related Claims
 - [Remote AR headset use imposes minimal reported ergonomic burden and no adverse events in neonatal resuscitation simulation](remote-ar-simulation-ergonomics-adverse-events.md) — related
 - [The intern role is demanding and varied, with long hours and high workload causing some interns to become overwhelmed](intern-role-demanding-overwhelm-wellbeing.md) — related
+- [Weighted degree centrality distinguishes essential from redundant survey items, and previously unloaded items X01 and X03 play important network roles](weighted-degree-centrality-essential-items.md) — related

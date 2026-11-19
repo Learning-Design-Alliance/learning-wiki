@@ -56,3 +56,4 @@ Theme from thematic analysis of focus group interviews with six first-year and f
 - [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — related
 - [Longitudinal interviews and surveys indicate Compass students felt supported academically and personally and stayed socially connected](compass-survey-community-support.md) — related
 - [Students in emergency remote physics courses rarely felt connected or engaged with classmates, and over half reported far fewer social connections than in face-to-face classes](remote-physics-reduced-social-connection.md) — possibly the same claim (merge candidate)
+- [First-year students were particularly negatively impacted by online learning, finding it much harder to adapt to college science learning](first-year-students-hit-hardest-online.md) — related

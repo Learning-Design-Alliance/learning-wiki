@@ -13,7 +13,7 @@ generated:
 # Proportional Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 69 claims (47 show a difference, 19 mixed, 3 no difference) · 37 studies (19 causal, 8 associational, 4 design, 2 qualitative, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 12 of 37 report an effect size · 64 claims rest on one study
+> **Evidence** · 70 claims (47 show a difference, 19 mixed, 4 no difference) · 38 studies (19 causal, 9 associational, 4 design, 2 qualitative, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 12 of 38 report an effect size · 65 claims rest on one study
 
 ## Description
 Proportional reasoning is understanding ratio and how ratios relate to one another. The Learner Variability Navigator describes a ratio as a relationship between parts and wholes that can be written as a fraction, a percentage or a rate. It is assessed with tasks that ask learners to rank fractions shown in different forms (shaded shapes, numerals, decimals) by size, and with missing-value problems in which one quantity in a pair of equivalent ratios must be found.
@@ -105,6 +105,7 @@ LVN treats it as an essential part of arithmetic proficiency in primary school a
 - [In the two-car rate problem, all students produced ViMAP models with appropriate and non-redundant variables, evidencing multiplicative reasoning via repeat and step-size commands](../claims/two-car-problem-multiplicative-vimap-models.md) [+M] — measured as an outcome of the instruction studied
 - [Students derived the formula Total Distance = Number of Steps x Approximate Step Size and used it predictively, as illustrated by Angelo's reasoning about winning a bet and verifying his ViMAP model](../claims/total-distance-formula-predictive-reasoning.md) [+M] — measured as an outcome of the instruction studied
 - [Most students show inconsistent (mixed) reasoning across PMQ probes before instruction, and a sizable fraction remain inconsistent after instruction](../claims/pmq-mixed-inconsistent-reasoning-persists.md) [~W] — measured as an outcome of the instruction studied
+- [The extra percent-scale grade penalty for underrepresented students is independent of the students' understanding of physics as proxied by fraction of A-grades.](../claims/extra-penalty-independent-of-understanding.md) [-M] — an instructional effect differs with it
 
 ## Measures
 - **Ranking Proportions Task** (e.g., Mazzocco & Devlin, 2008): Magnitude comparison for fractions and rational numbers where students rank order different representations of fractions including shaded circles, numerical fractions, and decimals.

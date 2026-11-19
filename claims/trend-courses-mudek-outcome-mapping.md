@@ -48,3 +48,4 @@ Curriculum-mapping analysis (Tablo 1, Öğrenme Çıktıları section) relating 
 - [IT Management in Nursing requires the broadest competency coverage, supporting a full study programme rather than a single course](tiger-2026-it-management-broadest-coverage.md) — related
 - [Each nursing role exhibits a distinct competency pattern, with basic computer literacy and data protection common to all five](tiger-2026-role-specific-competency-patterns.md) — related
 - [Included studies show uneven KAS coverage: K1, K3, A2, S2, and S4 attract wide consensus while technical and collaborative dimensions are scarcely addressed](uneven-kas-dimension-consensus.md) — related
+- [Mapping the pilot course onto the 3P Framework revealed a large gap in Physics content, filled by Fall 2019](curriculum-mapping-revealed-physics-gap.md) — related

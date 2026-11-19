@@ -49,6 +49,7 @@ Participants proposed hiring committees that include teachers of color as core m
 - [Fund anti-bias education through a comprehensive diversity plan tied to specific outcomes, student-centered efforts, and redress mechanisms](anti-bias-education-grant-diversity-plan-strategies.md)
 - [Build diverse school leader pipelines through HBCU/HSI preparation partnerships, transparent diversity data, equitable hiring supports, affinity networks, and Grow Your Own teacher pathways](georgia-leader-diversity-pipeline-strategies.md)
 - [Review institutional practices, diversify staff and student populations, and develop guidance on reporting and tackling racism](review-practices-diversify-staff-anti-racism-guidance.md)
+- [Recruit and retain underrepresented students in QIST through early outreach, funded research experiences, industry mentorship, and a code of conduct](qist-inclusive-recruitment-retention-strategy.md)
 
 ## Examples
 -

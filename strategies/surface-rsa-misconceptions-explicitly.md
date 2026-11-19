@@ -44,7 +44,8 @@ The activity opens by introducing the analogy's simplifications: that any mass o
 - [Italian high school students' knowledge of gravity and General Relativity topics rose significantly from pre-test to post-test after a rubber sheet analogy activity, in one uncontrolled pre-post study](../claims/rsa-activity-improves-gravity-knowledge.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Explicitly discuss the rubber sheet analogy's limitations with students to prevent gravity misconceptions](explicitly-address-rsa-limitations.md)
 
 ## Examples
 -

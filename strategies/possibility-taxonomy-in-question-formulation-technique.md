@@ -44,6 +44,7 @@ The authors recommend extending classroom question-posing practices such as the 
 
 - [Question Formulation Technique (QFT)](question-formulation-technique-qft.md)
 - [Question Generation](question-generation.md)
+- [Pose open ethical and epistemological questions about space exploration as inspirational anchors for student reasoning](space-ethics-questions-as-inspirational-anchors.md)
 
 ## Examples
 -

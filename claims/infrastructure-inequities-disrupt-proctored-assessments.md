@@ -75,3 +75,4 @@ Review synthesis of Maboe and Tomas's (2023) qualitative study (n = 17) in South
 - [Poor internet connectivity, timing clashes, and home distractions were the main hindrances to online learning in the developing-country setting](connectivity-timing-hindrances-online-learning.md) — related
 - [E-learning in Nigeria is argued to offer increased access, convenience of time and place, varied resources and individualised learning, but few universities use ICT](e-learning-nigeria-access-benefits-low-adoption.md) — related
 - [Free or low-cost robotic telescope access equalises instrumentation access across socioeconomic and physical barriers](robotic-telescope-equity-access.md) — related
+- [Resource inequalities disadvantaged low-achieving students during virtual learning](resource-inequalities-la-students.md) — related

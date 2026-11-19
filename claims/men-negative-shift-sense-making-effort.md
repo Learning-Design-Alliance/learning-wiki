@@ -48,3 +48,4 @@ From the CLASS category analysis of 130 men; Table IV reports the men's sense ma
 - [Women's CLASS scores correlated meaningfully with normalized FCI gains, but men's did not](gendered-class-fci-gain-correlation.md) — related
 - [On the CLASS, women score less expertlike on real world connections, personal interest, problem solving confidence, and problem solving sophistication, and more expertlike on sense-making/effort](class-gender-category-differences.md) — related
 - [Both men and women showed significant positive expertlike shifts on the CLASS overall score](positive-expertlike-class-shifts-both-genders.md) — related
+- [The Sense Making/Effort category shows a borderline, less noticeable difference between life-science and physical-science students (p=0.02, effect size 0.4)](sense-making-effort-borderline-difference.md) — related

@@ -49,6 +49,7 @@ In the discussion the authors propose interventions to prevent or mitigate impli
 ## Related Strategies
 
 - [Checking Your Blind Spot](checking_your_blind_spot.md)
+- [Blind identifying and demographic information in application evaluation to reduce implicit bias](blinded-application-evaluation-reduce-bias.md)
 
 ## Examples
 -

@@ -48,3 +48,5 @@ Sensitivity and specificity characterisation using ROC and AUC on the mid-term a
 ## Related Claims
 - [DenseLSTM achieves the highest overall accuracy of 95.32% for detecting abnormal student behaviour at online examinations, outperforming LSTM, RNN and DNN benchmarks](denselstm-highest-overall-accuracy-95-32.md) — related
 - [DenseLSTM accuracy exceeds 92% on both mid-term (97.77%) and final-term (92.86%) examinations](denselstm-midterm-finalterm-accuracies.md) — related
+- [DenseLSTM achieves the highest classification accuracy of the tested networks, 90.72% overall, outperforming LSTM, RNN and DNN benchmarks on the PT Behavioural Database](denselstm-highest-accuracy-90-72-overall.md) — related
+- [DenseLSTM achieved the highest AUC values among the tested networks, up to 0.9972, for classifying normal versus suspected candidate behaviour](denselstm-highest-auc-values-up-to-0-9972.md) — possibly the same claim (merge candidate)

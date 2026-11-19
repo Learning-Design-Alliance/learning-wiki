@@ -21,6 +21,7 @@ Qiskit is an open-source software framework from IBM for developing, simulating,
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Qiskit as an open-source toolkit for building and running quantum algorithms in undergraduate teaching**: Qiskit is an open-source computational framework for writing quantum algorithms in a circuit model and executing them on real quantum devices via remote access to IBM QE hardware, or emulating them locally. The article uses it as the central classroom tool, with code boxes throughout so that readers with little scientific computing experience can reproduce the methods. It comprises five essential elements: Terra, Aer, AQUA, Ignis and IBM Q Provider, of which the article uses Terra, Aer and IBM Q Provider. (Gleydson Fernandes de Jesus et al. (2021))
+- **IBM Qiskit ecosystem: open-source SDK, interactive textbook, and cloud-based access to real quantum hardware**: IBM released "an open -source software development suite called Qiskit, which is based on the Python programming language, and an open -source interactive textbook that demonstrates how to use Qiskit to implement quantum algorithms on real quantum systems". Since 2016 IBM has made its superconducting quantum computers available to the public through a free cloud-based interface, enabling a hands-on approach to QIST education. The textbook covers elementary concepts through the state of the art and can be adapted to a wide range of learners. (Singh et al. (2021))
 
 ### Claims
 
@@ -29,3 +30,4 @@ Qiskit is an open-source software framework from IBM for developing, simulating,
 
 ## Key Sources
 - Gleydson Fernandes de Jesus, Maria Helo´ısa Fraga da Silva, Teonas Gonc¸alves Dourado Netto, Lucas Queiroz Galv˜ao, Frankle Gabriel de Oliveira Souza, and Clebson Cruz. (2021). Quantum Computing: an undergraduate approach using Qiskit. https://arxiv.org/abs/2101.11388
+- Singh, C., Asfaw, A., & Levy, J. (2021). Preparing students to be leaders of the quantum information revolution. https://physicstoday.aip.org/

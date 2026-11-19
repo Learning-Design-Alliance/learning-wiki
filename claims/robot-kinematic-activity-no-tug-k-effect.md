@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-11-19
 sources:
   - id: stanley-sobolewski-2020
     resource: "https://doi.org/10.48550/arXiv.2008.05283"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Stanley Sobolewski 2018: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-19)
 
 ## Subclaims

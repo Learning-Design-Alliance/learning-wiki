@@ -50,6 +50,7 @@ A replicable procedure for adapting a validated assessment instrument to a new l
 - [Culturally adapt shared decision-making interventions by attending to language, communication style, relationship-building, fear, and visual design — beyond direct translation](culturally-adapt-sdm-beyond-translation.md)
 - [Translate and culturally adapt an assessment instrument following the ISPOR Task Force process with originator approval](ispor-translation-cultural-adaptation-strategy.md)
 - [Follow a staged cross-cultural adaptation process with translation, synthesis, back-translation, and pilot testing when adapting a scale to a new language](beaton-cross-cultural-adaptation-process.md)
+- [Release the game free and editable so educators adapt categories, language and cultural context, with a mime mode extending inclusion to sign language](adapt-drawing-science-game-free-editable.md)
 
 ## Examples
 -

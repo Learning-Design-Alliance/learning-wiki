@@ -74,3 +74,4 @@ Mediation model (Figure 5) with control of sixth-grade mathematical competence a
 - [Math anxiety partially mediates the relation between attention problems and both math outcomes](math-anxiety-partially-mediates-attention-relation.md) — related
 - [Prior mathematical competence by in-class attention interaction: attention benefits were strongest among students with stronger prior knowledge](prior-competence-by-attention-interaction-math-gains.md) — related
 - [Sixth-grade mathematics anxiety and attitudes do not predict seventh-grade mathematics achievement; the relation is directional from competence to affect, not reciprocal](competence-to-affect-directional-not-reciprocal.md) — related
+- [BCI applications are reported to reduce student anxiety and support achieving intended learning outcomes](bci-reduces-student-anxiety-learning-outcomes.md) — related

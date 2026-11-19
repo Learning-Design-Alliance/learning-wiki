@@ -59,3 +59,4 @@ Retrospective cohort comparison of exam results: 97 FC students (2021–2022) ve
 - [Six months after flipped seminars, students retained more topic knowledge than conventionally taught students](fc-six-month-long-term-retention.md) — related
 - [Flipped classroom students scored significantly higher on the post-test than traditional lecture-based students in a pharmacology module](flipped-classroom-higher-posttest-scores-gondar.md) — related
 - [Pharmacology, theoretical semiology, and pathology scores rose from pre-test to post-test after e-learning in one uncontrolled pre-post study (P < 0.001)](e-learning-significant-theoretical-course-gains.md) — related
+- [Short-time chapter-based mid-semester assessments are associated with significantly higher mid-exam pass rates than long-time unit-based assessments](chapter-based-short-time-mid-exams-higher-pass-rate.md) — related
