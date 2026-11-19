@@ -73,3 +73,4 @@ The article states, as background motivating the study, that "a growing body of 
 - [Within the same summer math programs, low-income students benefited more than higher-income students, a statistically significant difference.](summer-math-income-moderator-within-study.md) — related
 - [Summer math program effects differ by income status, with low-income samples showing d=0.11 and mixed-income samples showing a non-significant d=-0.02.](summer-math-income-moderator-between-study.md) — related
 - [Learning losses varied by parental education and parental income, on top of already existing inequalities](covid-learning-loss-inequality-parental-education-income.md) — related
+- [CMC questions disproportionately harm female, low-income, and domestic students relative to their peers](cmc-questions-disproportionately-harm-marginalized-groups.md) — related

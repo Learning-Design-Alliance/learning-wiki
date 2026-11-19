@@ -42,6 +42,7 @@ To win administrative support, the article recommends demonstrating program bene
 - [Start small and stage QIST program development from individual faculty expertise toward a future standalone major](qist-start-small-staged-development.md)
 - [Incorporate formal standards-based assessments to corroborate action research findings and gain administrative support](standards-based-assessments-corroboration.md)
 - [Build direct employer-listening channels and AI-specific advisory structures for small and mid-sized firms](employer-listening-channels-small-firms.md)
+- [Direct QIS education investment toward primarily-undergraduate, low-income-serving, and rural institutions and support grassroots diversity initiatives](invest-qis-education-underrepresented-institutions.md)
 
 ## Examples
 -

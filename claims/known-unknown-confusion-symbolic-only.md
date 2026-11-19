@@ -59,3 +59,4 @@ Interview analysis: three students solving the symbolic Tortoise and Hare proble
 - [Many introductory students find symbolic problems more difficult than numerical ones and prefer plugging in numbers early rather than solving symbolically first](intro-students-symbolic-difficulty-early-numbers.md) — related
 - [Students unfamiliar with many-symbol equations may freeze and try to reduce symbols to numbers rather than parse them as physical quantities](students-freeze-with-many-symbol-equations.md) — related
 - [The assessment task using symbolic variables (Ferris wheel) failed to elicit the expected evidence, unlike the six tasks with numerical quantities](symbolic-variables-task-failed-to-elicited-evidence.md) — related
+- [Declaring unknown physical quantities as symbolic variables in Sage promotes development of metacognitive skills](sage-symbolic-variables-metacognition.md) — related

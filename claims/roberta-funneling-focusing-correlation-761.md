@@ -49,3 +49,4 @@ Evaluation of supervised models on the authors' annotated NCTE transcript sample
 - [The question words \"why\", \"how do\", and \"what else\" correlate positively with focusing labels while \"when\" correlates negatively on the FILTERED set](question-word-lexical-patterns-focusing.md) — related
 - [The unsupervised forwards-range measure correlates negatively with human labels on the UNFILTERED set (ρ = -.130) and positively on the FILTERED set (ρ = .159)](forwards-range-unsupervised-correlations.md) — related
 - [Supervised models outperform the unsupervised uptake measures by less than .08 correlation, indicating their competitiveness](supervised-models-competitiveness-uptake.md) — related
+- [RoBERTa classifiers detect annotated discourse moves in math classroom transcripts with moderate to high accuracy, best for on vs off task instruction](roberta-classifiers-discourse-moves-moderate-high-accuracy.md) — related

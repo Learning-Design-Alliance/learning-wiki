@@ -49,3 +49,4 @@ Interview data from the same qualitative study; a participant contrasts a known 
 - [Facilitator role and quality of structured debriefing are critical determinants of nursing students' satisfaction with simulation-based BLS training](simulation-bls-facilitator-debriefing-quality.md) — a broader claim this one bears on
 - [Contextual constraints — time pressure, facilitator variability, limited clinical exposure and lack of visual aids — moderate CBL effectiveness in resource-limited settings](cbl-constrained-by-resource-limited-context.md) — related
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
+- [Participants made connections to the learning material quicker because the basketball scenario was familiar and relevant](sport-c-relevancy-quicker-connections.md) — related

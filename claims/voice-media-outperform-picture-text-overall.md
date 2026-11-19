@@ -97,3 +97,4 @@ Hypothesis 5 was supported in the experiment: visual-knowledge means were 10.18 
 - [Animation-enriched virtual patients produce more overall 'competent' PBLS ratings than video instruction, which outperforms static-media VP](animation-enriched-vp-more-competent-ratings-pbls.md) — related
 - [Multisensory facilitation of unisensory learning occurs and is more pronounced in the congruent condition](multisensory-facilitation-congruent-condition.md) — related
 - [Adding redundant onscreen text shifts visual attention from animation to text, and higher-germane-load students dwell longer on the animation](dwell-time-on-animation-sensitive-to-ecl-and-gcl.md) — related
+- [Cognitive Load Theory effects constrain the design of multiple external representations in QIST teaching](clt-effects-constrain-mer-design-qist.md) — related

@@ -51,3 +51,5 @@ Results of the quantum single-slit interviews (N = 19). "There were two common t
 - [Across both classical and quantum contexts, no interviewed advanced student expected an expert's measurement to yield a delta-function distribution with zero uncertainty](no-delta-function-expectation-any-context.md) — related
 - [In the quantum single-slit context, many advanced students expect an expert's better data to leave the histogram unchanged, citing irreducible quantum uncertainty](quantum-better-data-no-change-uncertainty.md) — possibly the same claim (merge candidate)
 - [Some advanced students conflate reduction of standard error with reduction of standard deviation, expecting more data to narrow the histogram's spread](standard-error-standard-deviation-conflation.md) — related
+- [Very few advanced physics students exhibit definitional point-like thinking, predicting a single value from more or better data](few-students-predict-single-value-more-better-data.md) — related
+- [Most students expect a measurement distribution to stay the same when more data are collected under the same conditions](more-data-distribution-stays-same-majority.md) — related

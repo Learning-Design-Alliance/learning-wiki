@@ -55,3 +55,4 @@ Coding of all 19 interviews in both contexts; a fifth delta-function code existe
 - [In accuracy comparisons, student responses were similar across classical and quantum contexts, drawing mainly on measurement and physical limitations](accuracy-comparisons-similar-across-contexts.md) — related
 - [The largest classical-versus-quantum difference in student expectations lies in how many students think better data produces a narrower histogram](classical-quantum-better-data-difference.md) — related
 - [Some advanced students conflate reduction of standard error with reduction of standard deviation, expecting more data to narrow the histogram's spread](standard-error-standard-deviation-conflation.md) — related
+- [Students who expect better data to leave the distribution unchanged justify this with inherent physical or measurement principles, mainly in quantum and distribution scenarios](principles-reasoning-better-data-stays-same.md) — related

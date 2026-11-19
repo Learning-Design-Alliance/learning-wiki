@@ -89,3 +89,4 @@ The identical novice-mimicry metric applied to ChatGPT4: "Its score using the sa
 - [ChatGPT4 answers 22 of 23 modified FCI questions correctly, performing in the uppermost decile of physics students](chatgpt4-fci-22-of-23-uppermost-decile.md) — related
 - [ChatGPT3.5's FCI free responses split between expert-level accuracy and complete incoherence](chatgpt35-fci-free-response-expert-test.md) — related
 - [Relative to end-of-semester students in a Fall '18 introductory course, GPT-3.5 would fall at the 39th percentile and GPT-4 above the 96th percentile on the FCI](gpt4-fci-above-96th-percentile-students.md) — related
+- [ChatGPT based on GPT-4 solves the FCI accurately, scoring on average 83% correct](chatgpt-gpt4-solves-fci-accurately.md) — related

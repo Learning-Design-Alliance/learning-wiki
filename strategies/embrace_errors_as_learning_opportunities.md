@@ -97,6 +97,7 @@ Errors generate learning when they are *explained*, not merely committed: the be
 - [Use paired typical and atypical assessment questions to diagnose knowledge integration levels](typical-atypical-question-assessment-strategy.md)
 - [Start from science-fiction enthusiasm and move gradually to correction through find-the-mistake exercises](gradual-sci-fi-enthusiasm-to-correction-strategy.md)
 - [Immediate computer-graded feedback with multiple attempts at full credit to promote growth mindset](immediate-feedback-multiple-attempts-growth-mindset.md)
+- [Normalize mistakes by instructors modeling error, saying I don't know, and inviting questions](normalize-mistakes-model-error.md)
 
 ## Examples
 - **Youcubed (Stanford)** — Jo Boaler's [mathematical mindset lessons](https://www.youcubed.org) include activities built around discussing mistakes and the brain science of error-based learning.

@@ -54,3 +54,4 @@ Authors' disclosure in the discussion section describing their demonstration of 
 - [GPT-3 fabricates plausible-looking but fake references and apparently invents the research studies they cite](gpt3-fabricates-fake-references.md) — possibly the same claim (merge candidate)
 - [GPT-3 can generate a complete short academic paper, including abstract, introduction, discussion and APA references, in under five minutes](gpt3-generates-full-academic-paper.md) — related
 - [GPT-3 can generate a plausible student essay from a short prompt, including a heading and citation, on its first attempt](gpt3-generates-plausible-student-essay.md) — related
+- [Confabulation risk is highest for AI tutoring and lowest for AI-as-student use](confabulation-risk-varies-by-ai-use-case.md) — related

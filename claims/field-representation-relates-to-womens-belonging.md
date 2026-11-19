@@ -60,3 +60,5 @@ Comparison of belonging by sub-discipline (biology vs physical sciences) among w
 - [Software-matched students from underrepresented gender and racial groups reported group experiences comparable to majority-group students](comparable-group-experiences-across-demographics.md) — related
 - [Societal stereotypes, strongest in physics, contribute to lower sense of belonging for women and ERM students in physics](stereotypes-lower-belonging-women-erm-physics.md) — a narrower finding that bears on this claim
 - [Underrepresented students in a large remote CS course were more likely to request software-matched study groups than majority-group peers](underrepresented-students-request-software-matched-groups-more.md) — related
+- [Living at the intersection of multiple underrepresented identities compounded physics majors' lack of belonging](intersectional-uris-compound-lack-of-belonging.md) — related
+- [Physics majors with a greater number of underrepresented identities encounter more challenges than those with fewer or none](more-uris-more-challenges-physics-majors.md) — related

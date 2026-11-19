@@ -54,3 +54,4 @@ Descriptive aggregation across four course finals at Miguel Hernández Universit
 - [Subgroup analyses show significant between-model differences, with Copilot (75.25%) and ChatGPT-4 (72.97%) achieving the highest pooled accuracies](llm-subgroup-copilot-chatgpt4-highest-accuracy.md) — related
 - [Students in both Intermediate and Advanced Medical Spanish courses achieved high aggregate performance scores at or above 80%, with mean scores differing between the two course levels (p = .0001)](high-aggregate-scores-medical-spanish-assessment.md) — related
 - [Weighted across components, ChatGPT would have earned a 1.5 course grade — passing, but below the graduation threshold](chatgpt-course-grade-1-5-passing-below-graduation.md) — related
+- [GPT-4 outperforms GPT-3.5 on real university physics exams, averaging 49.4% versus 38.6%](gpt4-outperforms-gpt35-physics-exams.md) — related

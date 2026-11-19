@@ -72,3 +72,4 @@ Exploratory examination of the correlation matrix in Table 3 from the same exper
 - [Learning-process and psychological constructs correlate only weakly with aggregate final artistic performance](process-constructs-weakly-correlated-final-performance.md) — related
 - [Solving a creative problem-solving task with ChatGPT is perceived as easier and requires less mental effort, but is not more interesting](chatgpt-lower-perceived-difficulty-effort-no-interest.md) — related
 - [Expert example standards improve university students' judgment accuracy (bias, absolute accuracy, and relative accuracy) when evaluating self-generated examples](expert-example-standards-improve-judgment-accuracy.md) — related
+- [In the ChatGPT condition, main test score correlated with pretest score (τ=.37, p=.02), while in the search engine condition it correlated with self-assessed physics knowledge (τ=.27, p=.03)](score-correlations-differ-by-condition.md) — related

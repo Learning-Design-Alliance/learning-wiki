@@ -63,6 +63,7 @@ Predictable structure reduces extraneous cognitive load: when learners do not ha
 - Activating prior knowledge — predictable openings create a reliable slot for retrieval practice at session start
 - Formative check-ins — routine low-stakes checks work best when their format is stable and expected
 - [Keep the video player user interface consistent when pausing for self-explanation prompts to avoid extraneous reorientation](consistent-ui-when-video-prompts-pause.md)
+- [Keep lessons simple and be flexibly prescriptive: narrow objectives, chunked code, one way first](keep-it-simple-flexibly-prescriptive.md)
 
 ## Examples
 - **Khan Academy** — every exercise uses the same interface, hint ladder, and mastery progression, so learners spend effort on mathematics rather than mechanics (https://www.khanacademy.org)

@@ -50,6 +50,7 @@ The article's method achieves automated problem generation, scoring, and feedbac
 
 - [Automated assessment outputs must retain human monitoring and never serve as official grades or sole decision bases](human-monitoring-automated-assessment.md)
 - [Provide LLM graders with the full human rubric, accepted solutions, and common-mistake penalties in the prompt (rubric-enhanced prompting)](rubric-enhanced-llm-grading-prompt.md)
+- [Optimize LLM hint quality through prompt engineering, model fine-tuning, and correlation mining of hint properties](optimize-llm-hints-prompt-engineering-finetuning.md)
 
 ## Examples
 -

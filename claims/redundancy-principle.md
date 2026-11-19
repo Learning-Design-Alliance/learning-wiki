@@ -175,3 +175,5 @@ The page records one review (Trypke et al. 2023); the classic primary experiment
 - [Children with dyslexia spend more study time on user-paced multimedia lessons with written text than with audio, while typically developing children spend equal time in both conditions](dyslexia-modality-effect-study-time.md) — related
 - [Twenty of 36 reviewed articles tested or recommended Mayer's multimedia learning principles, which the review treats as the foundation of the content domain](mayer-principles-foundation-content-domain-postgraduate-me.md) — related
 - [Adding redundant onscreen text shifts visual attention from animation to text, and higher-germane-load students dwell longer on the animation](dwell-time-on-animation-sensitive-to-ecl-and-gcl.md) — related
+- [Cognitive Load Theory effects constrain the design of multiple external representations in QIST teaching](clt-effects-constrain-mer-design-qist.md) — related
+- [Focus group participants identified attention switches and cognitive overload from caption designs as key disruptions, with needs depending on situation and learner](focus-group-caption-disruption-requirements.md) — related

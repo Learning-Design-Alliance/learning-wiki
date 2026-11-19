@@ -46,3 +46,4 @@ Authors' interpretation of the 2007–2012 series of pre/post results, attributi
 
 ## Related Claims
 - [Task nature modulates brain activation: problem-solving tasks and difficult cases induced higher activation than simple recall or routine cases, and incorrect answers induced higher PFC activation than correct answers](task-difficulty-modulates-brain-activation.md) — related
+- [Students' spoken and written statements about forces and motion during the lesson were 79% scientifically correct, with incorrect motion statements concentrated in the individually filled-out worksheets](student-forces-motion-statements-79-percent-correct.md) — related

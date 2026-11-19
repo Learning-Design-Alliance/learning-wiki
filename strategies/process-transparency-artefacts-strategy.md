@@ -48,6 +48,7 @@ The paper recommends that students submit "process logs, AI prompt records, or o
 - [Use weekly oral code review interviews to incentivize students to understand AI-assisted code](code-review-interviews-ai-mitigation.md)
 - [Establish prompting principles of neutrality, consistency, transparency, and reflexivity in oral assessment](prompting-principles-neutrality-consistency-transparency-reflexivity.md)
 - [Pair the AI chat with a paper worksheet that records what the chat cannot: sketches, agreed group statements and a short reflection](paper-worksheet-records-what-chat-cannot.md)
+- [Provisional assessment-defence strategies: question styles AI struggles with, pre-approval open-book exams, and routine AI-capability monitoring](provisional-ai-assessment-defence-strategies.md)
 
 ## Examples
 -

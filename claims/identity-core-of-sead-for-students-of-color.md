@@ -57,3 +57,4 @@ Focus group participants responded with factors related to racial, ethnic, and c
 - Students and families of color define success as encompassing social-emotional well-being and competence, not just academic or career outcomes — a broader claim this one bears on
 - [Individual-difference themes (academic motivation, emotional stability, gender, race and ethnicity) are associated with school belonging](individual-difference-themes-school-belonging.md) — related
 - [Overreliance on dominant outcomes constrains learning and mathematical identity of students of color](dominant-outcomes-overreliance-constrains-students-of-color.md) — related
+- [Pilot findings on SPORT-C's motivational impact are preliminary and not generalizable, and the racial-identity comparison is inconclusive](sport-c-findings-preliminary-racial-identity-inconclusive.md) — related

@@ -80,6 +80,8 @@ The micro flipped approach combines first exposure outside class with active lea
 - [Assign empirically tested animation-based learning modules as out-of-class preparation to free class time for active learning](assign-animation-modules-as-preclass-preparation.md)
 - [Assign pre-class draft answers with attempt credit to ensure preparation for in-class problem solving](attempt-credit-flipped-classroom-preparation.md)
 - [Provide pre-class materials (videos, slides, modules, worksheets) with assessment, then use class time for interactive individual and group activities with the teacher as facilitator](fcp-preclass-materials-inclass-interactive-activities.md)
+- [Use flipped classrooms with pre-class reading and in-class group problem-solving for building-design topics](flipped-classroom-fermi-building-design.md)
+- [Use a wide range of instructional techniques—lectures, animations, readings, problem solving, discussion, and essays—over a multi-week online program](multi-technique-quantum-teacher-program-strategy.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — short single-concept videos with embedded practice; a ready-made micro-content library teachers assign before class.

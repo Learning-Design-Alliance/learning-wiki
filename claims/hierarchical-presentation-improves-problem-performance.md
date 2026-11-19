@@ -46,3 +46,4 @@ The review reports Eylon and Reif's (1984) study: students learned identical con
 
 ## Related Claims
 - [A hierarchical internal knowledge organization facilitates performance on complex recall and problem-solving tasks more than a single-level organization of the same knowledge](hierarchical-organization-improves-complex-task-performance.md) — possibly the same claim (merge candidate)
+- [The review reports that students taught content with knowledge presented hierarchically performed significantly better on complex tasks than students taught the same content sequentially](hierarchical-organization-complex-task-performance-review.md) — possibly the same claim (merge candidate)

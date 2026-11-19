@@ -48,3 +48,4 @@ Descriptive survey results on academic tasks (Multimedia Appendix 3): summarizat
 - [Ghanaian pre-service science teachers use AI mainly for research and content delivery rather than assessment or student engagement](ai-used-for-research-not-assessment-pre-service-teachers.md) — related
 - [Students used AI mainly for retrieving pharmacological mechanisms, generating PPT outlines, and clarifying concepts under rules requiring verification and student responsibility for AI outputs](guided-ai-use-verification-rules.md) — related
 - [Random assignment to AI access produces a strong first stage: about 70 percent of treated students use AI, most often to explain concepts](genai-first-stage-usage-patterns.md) — related
+- [Most student groups adopted a probing approach when using ChatGPT in the take-home assignment](majority-groups-adopted-probing-approach.md) — related

@@ -69,6 +69,7 @@ Diagnosing errors forces learners to articulate *why* a step is wrong, which eng
 - [Deliberately engineer a systematic error in students' first rough measurements to force discussion of the theory-practice gap](engineered-systematic-error-strategy.md)
 - [Provide a self-diagnosis rubric requiring students to explain specific missing details when reviewing their solutions](self-diagnosis-rubric-specific-details-strategy.md)
 - [Use a trick simulation showing an incorrect phenomenon to prompt unsure learners to reconsider their shadow reasoning](trick-simulation-to-provoke-reconsideration-strategy.md)
+- [Adapt the grading system to rate explanation quality and detected errors, exchanging two unassisted problems for four worked examples](grade-worked-example-explanations-and-error-detection.md)
 
 ## Examples
 - **Incorrect examples in algebra instruction** (Renkl and colleagues' research program): students study a worked probability or algebra problem containing a typical error (e.g., adding fractions by adding numerators and denominators), explain what is wrong, then solve a near-transfer problem.

@@ -67,3 +67,4 @@ The same interview study reports, as a final difficulty category, cases with mul
 - [Interviewed graduate students had great difficulty estimating which frequencies reach the LIA output using the time constant](lia-time-constant-output-frequency-difficulty.md) — related
 - [Students commonly and incorrectly believe a lock-in completely filters out every signal not equal to the reference frequency and produces DC output even when the signal and reference frequencies differ.](lockin-heterodyne-misconception-fs-neq-fr.md) — related
 - [Graduate students with lock-in research experience commonly hold the misconception that the lock-in's output frequency equals the signal frequency, treating the instrument as a black box.](lockin-output-frequency-equals-signal-misconception.md) — related
+- [Concept-frequency ranking surfaces the most significant knowledge concepts across the discipline](knowledge-concept-frequency-ranking.md) — related

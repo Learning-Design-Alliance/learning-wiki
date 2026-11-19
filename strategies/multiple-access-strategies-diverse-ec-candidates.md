@@ -50,6 +50,7 @@ Across the studied programs and pathways, the report identifies common strategie
 - [Reduce institutional barriers through cross-department coordination, low-barrier review models, and faculty-based outreach](coordination-and-faculty-outreach-emergency-aid.md)
 - [Pre-service education programs should recruit diverse inner-city students and validate their cultures and experiences](pre-service-programs-validate-diverse-recruits-cultures.md)
 - [Recruit and retain underrepresented students in QIST through early outreach, funded research experiences, industry mentorship, and a code of conduct](qist-inclusive-recruitment-retention-strategy.md)
+- [Reduce entry barriers for underrepresented learners with cloud computing, payment, and mentorship](reduce-barriers-cloud-computing-payment-mentorship.md)
 
 ## Examples
 -

@@ -61,3 +61,4 @@ The paper, a workshop-informed white paper and curriculum-oriented position arti
 - [KERMIT observes students' actions and adapts to their knowledge and learning abilities](kermit-adapts-to-student-actions.md) — a narrower finding that bears on this claim
 - [VanLehn (2011) found step-based intelligent tutoring systems nearly as effective as average human tutors, and both more effective than no tutoring but less effective than expert human tutors](vanlehn-2011-step-based-its-nearly-average-human-tutors.md) — a narrower finding that bears on this claim
 - [A minimalist approach to intelligence and adaptivity can still achieve practical success at scale in real classrooms](a-little-intelligence-can-go-a-long-way.md) — related
+- [Frequent, timely, actionable feedback improves learning, and AI mentors can help provide it under oversight](ai-mentor-frequent-feedback-improves-learning.md) — a broader claim this one bears on

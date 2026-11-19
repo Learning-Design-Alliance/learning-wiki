@@ -90,3 +90,4 @@ Semi-structured interviews with 10 experimental-group volunteers, analysed by in
 - [Students hold positive attitudes towards e-learning that do not change over the course, yet continue to regard face-to-face lectures as the basis of their education](positive-e-learning-attitudes-lectures-still-basis.md) — related
 - [Pre-service English language teachers report generally positive perceptions of a flipped statistics classroom](flipped-classroom-positive-perceptions-pre-service-english-teachers.md) — related
 - [Students perceived peer instruction and group discussion as motivating and helpful in the flipped statistics class](flipped-peer-instruction-group-discussion-perceived-positive.md) — related
+- [Students held uniformly positive attitudes toward learning programming early, and these views persisted or improved after instruction](positive-attitudes-programming-persist.md) — related

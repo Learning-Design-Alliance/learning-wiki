@@ -87,3 +87,4 @@ Outreach item among survey respondents in STEM: 75% 'said that SSUK encouraged t
 - [Female alumni reported a more positive impact of SSUK on higher education, careers and skills than male alumni](ssuk-greater-impact-female-alumni.md) — related
 - [SSUK alumni rate the programme 4.96 out of 5 when asked whether they would recommend it to young people interested in space](ssuk-alumni-recommend-4-96-out-of-5.md) — related
 - [UAT alumni report increased research interest and self-knowledge, and 91% of alumni with known status pursue STEM careers](uat-alumni-outcomes-interest-and-stem-retention.md) — related
+- [Career plans stated after Masterclasses roughly align with current professions, with pronounced peaks in IT and physics and some respondents converging into physics or IT from other plans](imc-career-plans-diagonal-it-physics-peaks.md) — related

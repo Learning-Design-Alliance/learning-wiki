@@ -50,3 +50,4 @@ Secondary descriptive comparison from the quasi-experimental regression results:
 - [Female medical laboratory sciences students earn significantly higher average final grades than male students in the same courses](female-medical-lab-sciences-students-higher-grades.md) — related
 - [First-year gender differences in physics grades favored male students among low-GPE students, but were reduced or reversed in second-year courses](first-year-physics-gender-gap-low-gpe-reverses-second-year.md) — related
 - [Female medical undergraduates performed better than males at the final MBBS examination](females-better-final-mbbs-performance.md) — related
+- [Female students achieved slightly but not significantly higher average grades than male students in all three physics courses](female-students-slightly-higher-physics-grades.md) — related

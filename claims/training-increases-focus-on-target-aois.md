@@ -49,3 +49,4 @@ Wilcoxon signed-rank pre-post comparison of 28 students. Table 4 also reports in
 - [Students' time to first fixation on targets fell from pre-test to post-test after a 3-month training program, in one uncontrolled pre-post study](training-decreases-time-to-first-fixation-targets.md) — related
 - [High-accuracy cytotechnologists show shorter examination time, less background dwell, and faster HPF cytoplasm detection than low-accuracy peers](high-accuracy-group-faster-search-patterns.md) — related
 - [Shorter total fixation duration on the low-power field main object is the sole independent predictor of high diagnostic accuracy](lpf-fixation-duration-sole-independent-predictor-accuracy.md) — related
+- [No statistically significant differences in mean fixation duration across areas of interest, despite large differences in total fixation duration](no-mean-fixation-duration-differences-aois.md) — related

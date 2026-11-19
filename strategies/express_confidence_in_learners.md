@@ -56,9 +56,11 @@ Expressed confidence works primarily through self-efficacy and expectation effec
 5. Avoid ability-labeled praise; frame confidence around effort, strategy, and improvability.
 
 ## Related Strategies
+
 - [Action-Oriented Feedback](action-oriented-feedback.md) — confidence statements gain credibility when attached to actionable next steps
 - [Achievable Micro-Goals](achievable_micro-goals.md) — small wins supply the evidence that makes expressed confidence believable
 - [Active Listening](active-listening.md) — builds the relationship trust that determines whether confidence statements are accepted
+- [Boost learner confidence with growth mindset framing, early wins, and partially completed code](confidence-growth-mindset-madlibs-code.md)
 
 ## Examples
 - A teacher tells a student who failed the last quiz: "This unit is the hardest one of the year, and you've already shown you can do multi-step problems. I expect you to get this, and here's how we'll get there" — then schedules a [check-in](../elements/check-in.md) after the retake.

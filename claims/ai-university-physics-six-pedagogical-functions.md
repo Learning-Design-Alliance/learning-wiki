@@ -60,3 +60,4 @@ The review's synthesis of 11 included studies (Section 3.3) characterizes the pe
 - [Example-tracing tutors support a variety of pedagogical approaches beyond step-based problem solving, including collaborative learning, educational games, and guided invention activities.](example-tracing-tutors-support-varied-pedagogies.md) — related
 - [Instructional is the most common pedagogical purpose of surveyed conversational agents, with pastoral close behind and cognitive smallest](instructional-most-common-agent-purpose-41-of-92.md) — related
 - [Fourier-optics simulations combined with geometric and physical optics convey principles and real-world applications in classroom teaching](fourier-optics-classroom-simulations.md) — a narrower finding that bears on this claim
+- [Scaffolding improves student performance across many contexts, including quantum physics and cooperative settings](scaffolding-improves-performance-qist.md) — related

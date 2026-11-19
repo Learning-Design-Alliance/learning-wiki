@@ -70,3 +70,4 @@ From a semi-structured think-aloud interview: one student claimed a qualitative 
 - [Think-aloud interviews revealed that students dismissed the ground-state distractor for its low energy and shape rather than because it is a stationary eigenstate, and that students drew on classical wave analogies](think-aloud-interviews-q17-distractor-reasons.md) — related
 - [During the game students often draw graphs and diagrams, a physics skill they are often not motivated to practice](game-motivates-drawing-graphs-and-diagrams.md) — related
 - [Students cannot reliably solve complex well-structured problems by reasoning without applying memorized algorithms](algorithms-required-complex-problems.md) — related
+- [Think-aloud interviews reveal students modifying the problem to fit their diagram and failing to use knowledge they possessed when drawing diagrams of standing waves](diagram-difficulties-standing-waves-interviews.md) — related

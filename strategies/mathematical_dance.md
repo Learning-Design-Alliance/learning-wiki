@@ -65,6 +65,7 @@ Embodied activity is most effective when the movement maps transparently onto th
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — body-based representations work best when anchored to concepts learners have begun to formalize
 - [Conclude with a choreography-and-analysis final project in place of a final exam](choreography-analysis-final-project-culminating.md)
 - [Shadow screen performance in which students choreograph particle physics concepts with their bodies](shadow-screen-particle-performance.md)
+- [Engage physics students through embodied movement and multisensory representations](embodied-multisensory-physics-engagement-strategy.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — the performance functions as a modeled example for the audience

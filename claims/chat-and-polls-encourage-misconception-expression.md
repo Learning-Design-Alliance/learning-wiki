@@ -54,3 +54,4 @@ Authors' experiential finding from the 13-week online course, concerning the pla
 - [Two of three high-attendance, medium-achievement students would not ask the tutor for help because they were shy](hm-group-shyness-avoided-tutor-help.md) — related
 - [Anonymity in online classes allowed shy students, usually female, to interact more](online-anonymity-enabled-shy-female-students.md) — related
 - [Teacher-mediated interaction in the online laboratory did not encourage constant active student participation, with students fearing teacher judgement](teacher-mediated-interaction-limited-participation.md) — related
+- [QEP's debut Perimeter Institute workshop produced anecdotal evidence of student engagement and takeaways about quantum ethics](qep-workshop-anecdotal-engagement.md) — related

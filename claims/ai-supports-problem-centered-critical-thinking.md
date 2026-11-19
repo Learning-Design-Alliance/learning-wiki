@@ -84,3 +84,4 @@ Critical-thinking theme: participants wanted AI to challenge them to ask better 
 - [Teachers perceived the Task-First Approach as providing an authentic assessment opportunity revealing student knowledge without scaffolding](task-first-authentic-assessment.md) — related
 - [Problem-based presentation axes such as Cry for help and My worst experience promote interaction, prior-knowledge recall and creative problem solving](problem-based-presentation-axes-promote-interaction.md) — related
 - [A case-study student solved an estimation problem by breaking it into smaller sub-problems and combining the pieces](ava-breaks-estimation-into-sub-problems.md) — related
+- [All four GenAIbots could function as agents-to-think-with, fostering critical thinking, problem-solving, concept comprehension, personalised learning, and displaying subject-matter knowledge.](genaibots-function-as-agents-to-think-with.md) — related

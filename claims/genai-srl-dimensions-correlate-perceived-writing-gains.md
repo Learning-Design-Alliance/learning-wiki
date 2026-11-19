@@ -52,3 +52,4 @@ Criterion-validity analysis using Pearson correlations between the six GenAI-SRL
 - [All SFAILQ dimensions correlate positively with academic self-efficacy (usage skills strongest) and academic engagement (responsible use strongest)](sfailq-criterion-validity-correlations.md) — related
 - [The GISA shows moderately strong convergent validity with the six RISE subtests (r = .71 to .77)](gisa-convergent-validity-rise-subtests.md) — related
 - [Exploratory correlations showed moderate to strong descriptive associations between selected user experience and cognitive load dimensions](incarne-ux-cognitive-load-correlations.md) — related
+- [Teachers perceive some SRL dimensions as more actionable than others](dimension-usefulness-varies-proactivity-vs-control.md) — related

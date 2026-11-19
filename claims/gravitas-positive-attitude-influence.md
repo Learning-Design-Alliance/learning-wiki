@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2022
+source_checked: 2026-11-19
 sources:
   - id: matteo-tuveri-2022
     resource: "https://doi.org/10.22323/1.414.0392"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students reported a positive influence of the project on their attitudes toward physics, philosophy, and science communication, with physics means higher than the other fields. [→ Matteo Tuveri 2022](#matteo-tuveri-2022)

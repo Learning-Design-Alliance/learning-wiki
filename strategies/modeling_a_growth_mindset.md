@@ -70,6 +70,7 @@ Modeling works through social learning: observers extract behavioral standards a
 - [Build growth-mindset classroom cultures through teacher practices that convey all students can learn and improve](growth-mindset-classroom-culture-practices.md)
 - [Explicitly address educators' theories of intelligence during instructor professional development](address-mindsets-in-faculty-development.md)
 - [Instructor practices that foster belongingness and a growth-mindset classroom culture to support gender equity](belongingness-instructor-practices-gender-equity.md)
+- [Boost learner confidence with growth mindset framing, early wins, and partially completed code](confidence-growth-mindset-madlibs-code.md)
 
 ## Examples
 - A school principal opens each staff meeting by sharing a current professional challenge, what they tried, what failed, and what they are learning — normalizing error analysis at the top of the hierarchy.

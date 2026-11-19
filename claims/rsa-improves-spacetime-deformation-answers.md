@@ -72,3 +72,4 @@ Post-questionnaire item on what can deform space-time (Figure 4). The printed di
 - [Teachers trained in the RSA activity built the DIY structure in their own schools before the eBook was published](teachers-built-diy-structures-after-course.md) — related
 - [In one uncontrolled pre-post study, primary pupils mostly explained gravity as interaction or deformation rather than everyday effects after a spacetime-simulator intervention](einsteinian-gravity-shifts-pupil-explanations.md) — related
 - [The RSA activity helps high school students visualize, comprehend and remember Newtonian gravity and GR topics better than a traditional treatment](rsa-activity-improves-gravity-comprehension.md) — a broader claim this one bears on
+- [Year 7 Einsteinian gravity instruction conflicted with concurrent Euclidean geometry teaching, producing persistent confusion](year-7-euclidean-geometry-conflict-curved-space.md) — related

@@ -51,3 +51,4 @@ Comparison of GPT-4 scores against the distribution of 35,698 students on Exam 1
 - [Bootstrapped self-consistency at temperature 1.0 flags potentially incorrect GPT-4 answers: about half of inconsistent responses were incorrect versus about 5% of consistent ones](bootstrapping-self-consistency-flags-incorrect-answers.md) — related
 - [Exam questions that GPT-4 answered inconsistently or incorrectly were harder for human examinees, who scored about 63–68% on them versus about 75% on the rest](gpt4-inconsistent-questions-harder-for-students.md) — related
 - [GPT-3.5 performed worst on open one-point exam questions, while GPT-4 improved mainly on multiple-choice items](gpt35-weak-open-one-point-questions.md) — related
+- [GPT-4 outperforms GPT-3.5 on real university physics exams, averaging 49.4% versus 38.6%](gpt4-outperforms-gpt35-physics-exams.md) — related

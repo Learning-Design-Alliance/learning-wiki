@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 175 claims (123 show a difference, 37 mixed, 15 no difference) · 96 studies (47 associational, 30 causal, 11 review, 3 qualitative, 2 quant-synthesis, 2 design, 1 theoretical), `q1`–`q4` · 25 of 96 report an effect size · 172 claims rest on one study
+> **Evidence** · 178 claims (126 show a difference, 37 mixed, 15 no difference) · 98 studies (47 associational, 32 causal, 11 review, 3 qualitative, 2 quant-synthesis, 2 design, 1 theoretical), `q1`–`q4` · 25 of 98 report an effect size · 175 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -210,6 +210,9 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [No statistically significant differences emerge across grades 7, 8, and 9 in the experimental group's mathematics self-concept pretest, posttest, or gain scores](../claims/no-grade-differences-math-self-concept.md) [-M] — measured as an outcome of the instruction studied
 - [Same-age reciprocal peer tutoring significantly improves middle school students' mathematics self-concepts, with a medium overall effect size (Hedges' g = 0.48) and an average increment of 13.4%](../claims/peer-tutoring-improves-math-self-concept.md) [+M] — measured as an outcome of the instruction studied
 - [FC-TCLEBL students self-reported improved clinical thinking ability and independent learning ability after class, while LBC students did not](../claims/fc-tclebl-self-evaluated-ability-gains.md) [+M] — measured as an outcome of the instruction studied
+- [In comparison (Music) classes, project completion correlated with lower programming anxiety and higher problem-solving competency beliefs and programming self-concept](../claims/music-completion-anxiety-problem-solving-self-concept.md) [+M] — learners who differ on it differ in outcomes
+- [Perceived conceptual understanding and general ability in astronomy improved, with only moderate and anecdotal evidence respectively](../claims/astrobites-reading-conceptual-ability-gains.md) [+W] — measured as an outcome of the instruction studied
+- [The reading assignment produced the largest perceived gains in students' ability to extract main takeaways of a paper](../claims/astrobites-reading-main-takeaways-largest-gain.md) [+M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

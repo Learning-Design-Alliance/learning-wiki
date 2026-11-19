@@ -50,3 +50,4 @@ Frequency-based co-occurrence analysis of the ten AILEs across the 39 reviewed s
 - [Expert-led curriculum mapping of two programs shows discipline-specific AIL emphasis: technical programs stress TKS and AP, humanities-oriented programs stress EAR and SIU](curriculum-mapping-discipline-specific-ail-profiles.md) — related
 - [Ethical reflection is often addressed separately from technical and creative AI activities, showing weak co-occurrence with Social Reasoning (42%), Using AI (41%) and Creating with AI (55%)](ethics-weakly-integrated-with-technical-creative-ai-activities.md) — related
 - [Creativity comprises six elements: originality, building on existing ideas, usefulness, positive thinking, man-made imagination, and uniqueness](six-elements-of-creativity-expert-consensus.md) — related
+- [Concept-frequency ranking surfaces the most significant knowledge concepts across the discipline](knowledge-concept-frequency-ranking.md) — related

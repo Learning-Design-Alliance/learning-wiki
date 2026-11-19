@@ -49,3 +49,4 @@ Negative binomial GLM on monthly question comment counts from the SGExams corpus
 - [COVID-19 pandemic uncertainty showed minimal and inconsistent statistical effects on student question-posing](covid-uncertainty-minimal-question-posing-effect.md) — related
 - [Exam-period uncertainty is linked to faster first replies to questions, but mainly when academic stakes are high](exam-uncertainty-faster-first-replies.md) — a narrower finding that bears on this claim
 - [During exam uncertainty, child question types became dependent on parent question types, with preliminary evidence of possibility-thinking transmission](uncertainty-question-type-trajectory-dependence.md) — related
+- [Students' science fair topic choices are responsive to their context, as shown by time- and region-linked topics such as dengue disease and Covid-19](student-topic-choice-responsive-to-context.md) — related

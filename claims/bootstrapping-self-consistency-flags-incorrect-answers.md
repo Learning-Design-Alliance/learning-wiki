@@ -62,3 +62,5 @@ Bootstrapping analysis submitting each exam to GPT-4 50 times (API 'n' parameter
 - [ChatGPT 4.0 had the most uniquely correct and fewest uniquely incorrect responses among the three LLMs across both languages](chatgpt-4-most-unique-correct-responses-venn.md) — related
 - [GPT-4 self-agreement between Korean and English versions is 72.6%, with correct answers derived only from English in 14.1% of cases](gpt4-self-agreement-korean-english-72-6-percent.md) — related
 - [ChatGPT scored 47% on the first-semester final exam, with a realistic hand-graded score between 46% and 50%](chatgpt-exam-47-percent-no-dialogue.md) — related
+- [Excluding zero-scoring answers, AI averages rise to 65.6% (GPT-4) and 56.7% (GPT-3.5), suggesting a use case for AI-provided hints](ai-hint-use-case-excluding-zero-scores.md) — related
+- [ChatGPT based on GPT-4 solves the FCI accurately, scoring on average 83% correct](chatgpt-gpt4-solves-fci-accurately.md) — related

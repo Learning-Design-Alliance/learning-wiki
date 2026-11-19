@@ -107,3 +107,4 @@ Neither entry is the meta-analysis itself: both are practitioner digests restati
 - [Prior meta-analysis reported an effect size of 0.76 for academic controversy versus individualistic learning on achievement](johnson-johnson-controversy-meta-analysis-076.md) — a narrower finding that bears on this claim
 - [Controlled e-learning cases promote student satisfaction and are suggested for burnout prevention (second-hand reports)](elearning-cases-satisfaction-burnout-prevention.md) — related
 - [Collaborative student work works well in groups of 2–3, while larger groups develop sidelining power dynamics](srmp-small-group-collaboration.md) — a narrower finding that bears on this claim
+- [Cooperative learning improves outcomes over competition and individualistic effort only when five basic elements are implemented](cooperative-learning-five-elements-qist.md) — possibly the same claim (merge candidate)

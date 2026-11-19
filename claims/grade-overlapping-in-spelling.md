@@ -58,3 +58,4 @@ Analysis of grade distributions from the spelling tests, presented in the curves
 - [The scale differentiates pupil material between schools in neighborhoods of different character](scale-differentiates-schools-pupil-material.md) — related
 - [Median work rises almost uniformly from fourth to eighth grade, but about a quarter of pupils overlap between fourth and eighth grades](grade-differences-with-overlapping-arithmetic.md) — related
 - [Standardized illustrative sentences written in advance were used by all examiners when administering the Springfield spelling list to about 25,000 children in 78 schools](standardized-illustrative-sentences-spelling-administration.md) — related
+- [The test's validity evidence is limited to eighth-grade students in Hamburg; suitability for other grades or substantially different school systems is not established](german-timss-physics-test-hamburg-scope-limit.md) — related

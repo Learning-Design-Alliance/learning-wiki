@@ -47,3 +47,4 @@ KLLR deviation analysis of PHYSICS 140 and 240 students using GPAO as the baseli
 ## Related Claims
 - [Study volume is effectively uncorrelated with pre-college math test score (r = 0.02±0.01), while at fixed GPAO students with lower math scores study more](no-correlation-math-score-study-volume.md) — related
 - [Students with lower baseline performance (below the 50th percentile) showed significantly greater math achievement gains with ASSISTments than matched virtual peers](assistments-low-performers-significant-gains.md) — related
+- [Higher prior preparation raises accuracy overall but does not disproportionately help students on CMC questions](prior-preparation-no-disproportionate-cmc-benefit.md) — related

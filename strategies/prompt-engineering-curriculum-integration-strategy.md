@@ -53,6 +53,7 @@ The review recommends integrating prompt engineering instruction into the progra
 - [Provide explicit prompting instruction and expert scaffolding before or during novice LLM activities](explicit-prompting-instruction-before-llm-tasks.md)
 - [Introduce prompt-engineering training before students use Gen AI for structured self-study techniques](prompt-engineering-training-before-gen-ai-self-study.md)
 - [Guided Inquiry](guided_inquiry.md)
+- [Teachers should diagnose students' prompting purposes and provide tailored, scaffolded prompt-engineering instruction](tailored-prompt-engineering-instruction.md)
 
 ## Examples
 -

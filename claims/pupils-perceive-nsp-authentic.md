@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-19
 sources:
   - id: kuhn-2023
     resource: "https://doi.org/10.48550/arXiv.2304.11149"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Empirical manipulation checks with more than 40 NSPs evaluated on more than 1,600 students show pupils perceive NSPs as authentic and linked to real life. [→ Kuhn 2023](#kuhn-2023)

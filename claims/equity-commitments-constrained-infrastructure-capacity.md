@@ -70,3 +70,4 @@ Focus group finding: virtually every participant stressed equity, but campuses l
 - [Voluntary facilitator recruitment raised concerns about sustainability, fairness, and encroachment on research and promotion time](voluntary-cbl-recruitment-sustainability-concerns.md) — related
 - [No evaluation of use, comprehensibility or effectiveness of RehAmpTT has been conducted in the main target group](rehamptt-no-evaluation-conducted.md) — a narrower finding that bears on this claim
 - [Funded fellowships secured protected time and enabled accreditation, but were seen as a partial solution to substance use disorders](funding-protected-time-partial-solution.md) — related
+- [The representation matters facilitator persona needs autonomy support: funding, institutional buy-in, and infrastructure for informal physics](tracy-representation-matters-needs.md) — related

@@ -49,6 +49,7 @@ Beyond governance and training, the article recommends interdisciplinary collabo
 - [Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating](four-level-ethical-ai-integration-strategy.md)
 - [Define institutional value from the bottom up, incorporating learning outcomes, community engagement, and career readiness beyond earnings thresholds](bottom-up-value-definition-beyond-earnings.md)
 - [Engage the AI in Education community actively with the public and key stakeholders to mitigate the in-credible AI effect](aied-public-engagement-strategy.md)
+- [Foster collaboration among stakeholders to develop strategies for responsible and ethical use of generative AI in education](stakeholder-collaboration-responsible-ai-education.md)
 
 ## Examples
 -

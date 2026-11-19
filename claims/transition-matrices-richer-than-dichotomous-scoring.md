@@ -67,3 +67,4 @@ Same transition-matrix summary analysis of Rice University pre-/post-instruction
 - [The ranking of incorrect FCI answer choices comes from item response curves relating answer choice selection to total score as a proxy for understanding](irc-ranking-of-incorrect-answers.md) — related
 - [Transition rates to the correct FCI answer can be higher from a worse incorrect answer than a better one, as shown by answer choice E on Question 18](transition-rate-worse-answer-can-exceed-better.md) — related
 - [Most movement toward the correct answer among wrong-choice respondents is a direct migration from the fictitious-force choice X to the correct choice](wrong-choice-migration-x-to-correct-choice.md) — related
+- [Applying couplet scoring post development can reveal items that cannot measure a targeted objective: all FCI item 18 options earn a point for principle L4](post-hoc-couplet-scoring-reveals-unmeasurable-objective.md) — related

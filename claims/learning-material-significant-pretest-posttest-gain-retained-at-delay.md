@@ -68,3 +68,4 @@ Stage C delayed post-test one week after Stage B in the same online-platform stu
 - [Neither group showed a significant decline from post-test to retention test on NOS or SK measures](no-significant-posttest-retention-decline-either-group.md) — related
 - [Multiple-choice testing improves later cued recall of prose facts, a benefit that persists though reduced after a one-week delay](mc-testing-prose-cued-recall-benefit.md) — related
 - [No statistically significant difference in learning between students using infographics and students using graphics+text](no-significant-difference-infographics-graphics-plus-text-learning.md) — related
+- [Game-based learning produced descriptively higher knowledge gain than video-based learning, with no statistically significant difference (t=2.02, p=0.07)](gbl-knowledge-gain-higher-not-significant.md) — related

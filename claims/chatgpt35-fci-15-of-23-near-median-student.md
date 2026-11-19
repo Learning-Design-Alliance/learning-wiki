@@ -70,3 +70,5 @@ Comparison against the end-of-semester FCI post-test score distribution from the
 - [ChatGPT3.5's FCI free responses split between expert-level accuracy and complete incoherence](chatgpt35-fci-free-response-expert-test.md) — related
 - [ChatGPT3.5's FCI answers are unstable only where its reasoning is confused, while ChatGPT4 is insensitive to perturbations](chatgpt-response-stability-perturbations.md) — related
 - [Relative to end-of-semester students in a Fall '18 introductory course, GPT-3.5 would fall at the 39th percentile and GPT-4 above the 96th percentile on the FCI](gpt4-fci-above-96th-percentile-students.md) — related
+- [ChatGPT based on GPT-4 solves the FCI accurately, scoring on average 83% correct](chatgpt-gpt4-solves-fci-accurately.md) — related
+- [Figure-to-text transcription of FCI items may cause difficulties for ChatGPT, with eleven items unsolved in every run](figure-transcription-hinders-chatgpt-fci.md) — related

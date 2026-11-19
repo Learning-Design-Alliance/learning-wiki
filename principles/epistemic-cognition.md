@@ -189,6 +189,7 @@ A shift in the reasons learners write, a better verdict on new material, durabil
 - Earth science learners comparing climate explanations against observational data.
 - Physics learners weighing competing motion models using a shared evidence set.
 - Biology learners comparing causal explanations for a phenomenon and revising their reasoning.
+- [Teach students careful reasoning about data, using the flawed causal claims in physics-recruitment materials as an object lesson](../strategies/careful-reasoning-about-data-lessons-strategy.md)
 
 ### Illustrative
 

@@ -52,3 +52,5 @@ Affordance analysis of the probeware (MBL) lab, where a motion sensor displays p
 - [The zero-velocity/zero-acceleration misconception at maximum height was virtually absent in this sample](absence-zero-velocity-acceleration-misconception.md) — related
 - [The misconception that acceleration is zero at the top of toss-up motion persisted despite gains on the highest-point velocity item](zero-acceleration-apex-misconception-persists.md) — related
 - [Constructing timelike geodesics on a spacetime sector model shows that free-fall geodesics produce the expected up-and-down motion in space](sector-model-timelike-geodesics-free-fall.md) — related
+- [Bard gave an incorrect answer to the teddy bear acceleration problem, reproducing the misconception that acceleration is zero at the highest point of a trajectory.](bard-incorrect-zero-acceleration-highest-point.md) — related
+- [ChatGPT-4's teddy bear answer was correct and detailed, addressing the common free-fall misconception and supporting critical thinking.](chatgpt4-correct-detailed-teddy-bear-answer.md) — related

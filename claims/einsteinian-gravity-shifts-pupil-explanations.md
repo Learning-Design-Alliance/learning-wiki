@@ -49,3 +49,4 @@ Questionnaire study of 58 pupils aged 10–11 in three Turin primary classes; pr
 - [Prior to intervention, pupils showed poor understanding of gravity as interaction but good grasp of Euclidean geometry basics](prior-knowledge-gravity-effects-euclidean-basics.md) — related
 - [The RSA activity raises correct understanding of space-time and its deformation, with most students shifting to 'any mass' as the cause of deformation](rsa-improves-spacetime-deformation-answers.md) — related
 - [More than half of pupils' post-intervention explanations invoke modern-physics concepts (spacetime curvature or black holes)](majority-modern-physics-explanations-post-intervention.md) — related
+- [Year 7 Einsteinian gravity instruction conflicted with concurrent Euclidean geometry teaching, producing persistent confusion](year-7-euclidean-geometry-conflict-curved-space.md) — related

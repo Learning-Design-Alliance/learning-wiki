@@ -20,6 +20,7 @@ Because blinding of participants and lecturers is usually not possible in educat
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Use objective outcome variables and blinded assessment to compensate for the impossibility of blinding participants in cluster-randomized educational studies**: Because blinding of participants and lecturers is usually not possible in educational research, the article recommends compensating measures to protect the outcome variable from bias: outcome variables that are as objective as possible and blind assessment, for example evaluation of problem-based learning outcomes by independent people not participating in the study. It also recommends maintaining structural equivalence by creating the same conditions for the groups, such as the same times and seminar rooms for the study arms being compared. (Dreyhaupt Jens et al. (2017))
+- **Future intervention studies should use pre-registered protocols, standardized scripts discouraging demand, and cluster-aware analyses**: The comment prescribes concrete remedies for classroom intervention research. For social-desirability bias it recommends "having a set script for both treatment and control teachers to ask students to respond realistically on the surveys", with explicit instructions not to plead with students. For the statistical issues it recommends cluster confidence intervals computed from per-teacher results, complete-case reporting, and pre-registered protocols for each issue. (M. B. Weissman et al. (2023))
 
 ### Claims
 
@@ -28,3 +29,4 @@ Because blinding of participants and lecturers is usually not possible in educat
 
 ## Key Sources
 - Dreyhaupt Jens, Mayer Benjamin, Keis Oliver, Öchsner Wolfgang, Muche Rainer. (2017). Cluster-randomized Studies in Educational Research: Principles and Methodological Aspects. GMS Journal for Medical Education. https://doi.org/10.3205/zma001103
+- M. B. Weissman and J. M. Robins. (2023). Comment on "Examining the effect of counternarratives about physics on women's physics career intentions". https://journals.aps.org/prper/

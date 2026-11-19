@@ -169,6 +169,10 @@ The authors recommend assigning worked-example type by prior knowledge: "by appl
 - [Worked-example effects in a 3D role-playing game for chemical formulas: significant on knowledge comprehension, marginal on knowledge application](../claims/worked-example-effect-3d-game-chemical-formulas.md) [~W]
 - [Preceding worked-example demonstrations increase instructional efficiency in technology-enhanced learning of sectional anatomy](../claims/worked-example-demonstrations-increase-instructional-efficiency.md) [+W]
 
+## Examples
+
+- [Adapt the grading system to rate explanation quality and detected errors, exchanging two unassisted problems for four worked examples](../strategies/grade-worked-example-explanations-and-error-detection.md)
+
 ## Key Sources
 
 - Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Cognition and Instruction, 2*(1), 59-89. [https://doi.org/10.1207/s1532690xci0201_3](https://doi.org/10.1207/s1532690xci0201_3)

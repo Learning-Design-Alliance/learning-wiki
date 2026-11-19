@@ -46,6 +46,7 @@ The article's design implications section recommends that GenAI-assisted learnin
 - [Design AI mediators with negotiable intervention, participant-controlled synthesis, and transparent role transitions that preserve human ownership of team decisions](negotiable-transparent-ai-mediation-design.md)
 - [Design AI learning assistants to make the implications of AI use visible rather than restricting assistance](make-ai-use-implications-visible-design-strategy.md)
 - [Begin implementation with the curriculum problem rather than the AI tool, specifying learning outcome, learner task, AI contribution, educator role, and required learner action](curriculum-problem-first-implementation-design.md)
+- [Use LLMs as learning supports offering immediate feedback and individualized learning experiences, not as replacements for human instruction](llms-immediate-feedback-individualized-support-physics.md)
 
 ## Examples
 -

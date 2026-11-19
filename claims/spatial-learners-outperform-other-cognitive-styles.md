@@ -55,3 +55,4 @@ Subgroup analysis by thinking style (OSIVQ; n=73 analyzed for Clip Applying) in 
 - [Verbal learners improved significantly only in the VR training group, suggesting VR's structured feedback benefits learners with non-spatial cognitive profiles](verbal-learners-improve-only-in-vr-group.md) — related
 - [Baseline visuospatial ability independently predicted final camera navigation and hand–eye coordination performance](baseline-visuospatial-ability-predicts-laparoscopic-performance.md) — related
 - [High- and low-fidelity simulator groups do not differ significantly in total training-satisfaction scores or in satisfaction with spatial judgment, hand–eye coordination, or camera navigation](no-fidelity-difference-total-satisfaction-arthroscopy-novices.md) — related
+- [Visual objective markers significantly improved navigation of the virtual environment for students less familiar with virtual games](objective-markers-aid-novice-game-navigation.md) — related

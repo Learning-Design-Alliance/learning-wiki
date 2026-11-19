@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 267 claims (173 show a difference, 62 mixed, 32 no difference) · 232 studies (110 causal, 58 associational, 24 review, 15 quant-synthesis, 12 design, 10 qualitative, 3 theoretical), `q1`–`q4` · 44 of 232 report an effect size · 263 claims rest on one study
+> **Evidence** · 268 claims (173 show a difference, 62 mixed, 33 no difference) · 233 studies (111 causal, 58 associational, 24 review, 15 quant-synthesis, 12 design, 10 qualitative, 3 theoretical), `q1`–`q4` · 44 of 233 report an effect size · 264 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -324,6 +324,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Experts outperform novices on Quantum Composer Task 2 (d = 0.76) but not significantly on Task 1, with no significant difference in task completion time](../claims/experts-outperform-novices-composer-task2.md) [-M] — learners who differ on it differ in outcomes
 - [Longer time on task in the RL condition occurred across all pretest groups, so time on task is unlikely to be the primary reason for the low performers' benefit](../claims/time-on-task-not-primary-mechanism.md) [+M] — measured as an outcome of the instruction studied
 - [The relationship between time on task and posttest score differs by condition: essentially uncorrelated for Proof Blocks but moderately correlated for hybrid and written-proof activities](../claims/time-on-task-posttest-correlation-by-condition.md) [~W] — learners who differ on it differ in outcomes
+- [Coverage, search-pattern heterogeneity, interruptions, and review time showed no statistically significant change with feedback](../claims/secondary-search-metrics-no-significant-change.md) [-W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

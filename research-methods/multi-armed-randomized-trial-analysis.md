@@ -52,7 +52,7 @@ The report's guidance is that analysts running studies with several intervention
 - Nye, B. D. (2016). ITS, The End of the World as We Know It: Transitioning AIED into a Service-Oriented Ecosystem. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-016-0098-8
 - Duckworth, A. L., Ko, A., Milkman, K. L., et al. (2025). A national megastudy shows that email nudges to elementary school teachers boost student math achievement, particularly when personalized. Proceedings of the National Academy of Sciences of the United States of America. https://doi.org/10.1073/pnas.2418616122
 - Zavaleta-Bernuy, A., Zheng, Q.Y., Shaikh, H., Nogas, J., Rafferty, A., Petersen, A., & Williams, J.J. (2022). Using Adaptive Experiments to Rapidly Help Students. arXiv preprint. https://arxiv.org/abs/2208.05092
-- Yanez, F. J., Zavaleta-Bernuy, A., Han, Z., Liut, M., Rafferty, A., & Williams, J. J. (2022). Increasing Students’ Engagement to Reminder Emails Through Multi-Armed Bandits. https://arxiv.org/abs/2208.05090
+- Yanez, F. J., Zavaleta-Bernuy, A., Han, Z., Liut, M., Rafferty, A., & Williams, J. J. (2022). Increasing Students’ Engagement to Reminder Emails Through Multi-Armed Bandits. https://arxiv.org/abs/2208.05090. [doi:10.48550/arxiv.2208.05090](https://doi.org/10.48550/arxiv.2208.05090)
 
 # Design-based estimation framework extended from two-group RCTs to multi-armed RCTs
 

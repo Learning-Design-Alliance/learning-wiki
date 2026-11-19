@@ -47,3 +47,4 @@ Post-workshop questionnaire (n' = 26 respondents). The authors report "More than
 ## Related Claims
 - [Motivated elementary students rated the workshop difficult but interesting: over half found it difficult while all respondents found it interesting](difficult-but-interesting-workshop-ratings.md) — related
 - [Elementary school students can perform video analysis of Brownian motion with little stress when a pre-compiled analysis file is prepared for them](elementary-students-video-analysis-brownian-motion-feasible.md) — related
+- [Post-survey: the large majority of students found the Python introduction feasible or easy, and none chose 'Very difficult'](python-introduction-feasibility-post-survey.md) — related

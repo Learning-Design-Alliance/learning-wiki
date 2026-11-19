@@ -69,3 +69,4 @@ Same cross-sectional survey; the article reports a statistically significant inc
 - [More than 90% of VM-experienced students advocated combining traditional and virtual microscopy in histology laboratory sessions](students-prefer-hybrid-lm-vm.md) — related
 - [VM users cited internet access and its cost as the main obstacles to using virtual microscopy](vm-users-internet-cost-obstacles.md) — related
 - [Non-users of VM blamed lack of hardware devices, internet access, technical knowledge, and insufficient promotion by instructional personnel](vm-nonusers-obstacles-devices-promotion.md) — related
+- [The Covid-19 pandemic significantly increased regular use of smartphones/tablets, simulations, digital exams, and communication tools, with use remaining above pre-pandemic levels afterward](pandemic-boosted-digital-tool-use-in-labs.md) — related

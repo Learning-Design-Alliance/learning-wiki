@@ -51,3 +51,4 @@ Descriptive analysis of 2022 survey component scales across 271 schools (figure 
 - [Core Teams identified communication challenges, school and district leadership turnover, and teacher burnout as barriers that influenced solution success](inclusive-innovation-implementation-barriers.md) — related
 - [Interventions targeting students or the classroom have average effects 1.13 standard deviations higher than interventions targeting teachers or the school community](intervention-target-classroom-student-higher.md) — related
 - [Lack of staff time was the most significant barrier to implementing the e-learning and care-planning intervention](staff-time-barrier-implementation.md) — related
+- [Students rate the lecture component satisfactorily but with high variability](lecture-ratings-variable-3-7.md) — related

@@ -54,3 +54,4 @@ Sensitivity analysis accompanying the main chi-square comparison, prompted by 12
 - [Model strengths differ by question type: Gemini 1.5 Pro leads on A1 recall and image-based questions, Claude 3.5 Sonnet on A2 application, and Gemini and GPT-4o on case analysis](llm-strengths-vary-by-srtp-question-type.md) — related
 - [On USMLE imaging-based questions, GPT-4o and GPT-4 did not differ significantly from each other but both outperformed Google Bard](gpt4o-gpt4-outperform-bard-imaging-questions.md) — related
 - [GPT-4o answered image-based USMLE sample items with 89.5% accuracy versus GPT-4's 73.4%, a numerically higher but not statistically significant difference](gpt4o-89-5-percent-image-usmle-accuracy.md) — related
+- [Excluding zero-scoring answers, AI averages rise to 65.6% (GPT-4) and 56.7% (GPT-3.5), suggesting a use case for AI-provided hints](ai-hint-use-case-excluding-zero-scores.md) — related

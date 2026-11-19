@@ -85,3 +85,4 @@ Authors' interpretation in the interactive-use section: dialogue-partner uses of
 - [IDs use GenAI to brainstorm ideas and overcome creative blocks when drafting content](genai-brainstorm-ideas-creative-blocks.md) — a narrower finding that bears on this claim
 - [Students in both sections reported that reviewing with a partner would be more helpful for their learning than studying alone](students-prefer-partner-review.md) — related
 - [Theorists use analogies to generate new project ideas and to overcome conceptual challenges](theorists-analogies-generate-ideas-overcome-challenges.md) — related
+- [Eight students' common purpose for prompting was overcoming writer's block or generating new ideas when stuck](overcoming-writers-block-theme.md) — related

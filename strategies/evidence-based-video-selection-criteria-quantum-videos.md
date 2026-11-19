@@ -45,7 +45,8 @@ The authors' forward-looking recommendation for future educational research on q
 - [The total number of user interactions (likes plus dislikes) correlates significantly with the explaining quality of quantum-topic explanatory videos.](../claims/user-interactions-correlate-with-explaining-quality.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use the proposed decision tree in teacher education to systematize YouTube video selection](decision-tree-teacher-education-strategy.md)
 
 ## Examples
 -

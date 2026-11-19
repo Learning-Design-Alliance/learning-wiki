@@ -68,3 +68,5 @@ Conceptual-goal ratings in the same survey: "Learning about entanglement was the
 - [Learning goals differ by experiment: SPDC emphasizes skills over concepts, and the entanglement goal is tied mainly to Bell's inequality](goals-vary-by-experiment-spdc-bell.md) — related
 - [Setting up and manipulating optics and taking and analyzing data are the most common student actions in single-photon experiment courses](single-photon-experiment-student-actions.md) — related
 - [Single-photon experiments are used mainly in beyond-first-year lab courses and upper-level quantum mechanics courses](single-photon-experiments-course-types-survey.md) — related
+- [At least ten students reported learning about quantum concepts from working with the single-photon experiments](conceptual-learning-self-reported-single-photon.md) — related
+- [Nearly all students were excited by the single-photon experiments, but optical alignment time detracted for some](student-excitement-alignment-detractor.md) — related

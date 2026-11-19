@@ -9,7 +9,7 @@ generated:
   at: 2026-10-08
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-20
+source_checked: 2026-11-19
 sources:
   - id: hilliger-2026
     resource: "https://doi.org/10.18608/jla.2026.9143"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Despite its Socratic design, students in the third cycle mainly used the chatbot to answer questions in line with their individual study habits, including collaborative study sessions and targeted queries about text details. [→ Hilliger 2026](#hilliger-2026)
@@ -54,3 +54,4 @@ Individual cognitive walkthroughs with five of eight active users, analyzed them
 - [Students dynamically switched between Socratic Inquiry and Transactional Delegation as deadlines approached and task novelty changed (the Strategic Dance)](strategic-dance-socratic-transactional-switching.md) — related
 - [LLM-based everyday learning is predominantly an individual activity, with 89% learning alone](llm-learning-predominantly-individual.md) — related
 - [ChatGPT interactions during case-based learning were superficial and short, used like a search engine rather than a dialogic tutor](chatgpt-used-like-google-not-tutor.md) — related
+- [In the roller coaster loop dialogue, ChatGPT excelled at providing clear explanations, addressing misconceptions, and promoting active learning through Socratic questioning.](chatgpt-socratic-roller-coaster-active-learning.md) — reports the opposite

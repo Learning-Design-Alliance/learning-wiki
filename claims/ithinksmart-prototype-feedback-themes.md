@@ -77,3 +77,4 @@ The authors' interpretation of the same feedback themes, stating the prototype "
 - [Free-text feedback was dominated by praise (71.3% of 384 comments), with improvement suggestions including more interactive cases, more algorithms, and less text-heavy content](espe-cme-free-text-feedback-themes.md) — related
 - [Most participants express interest in interacting with other students within the virtual reality simulation](virtual-doc-multiplayer-interest.md) — related
 - [Most Movement Simulation Reality items required revision, and students flagged 18 items overall versus nine for workers](movement-reality-items-require-revision.md) — related
+- [Visual objective markers significantly improved navigation of the virtual environment for students less familiar with virtual games](objective-markers-aid-novice-game-navigation.md) — related

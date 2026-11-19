@@ -54,3 +54,4 @@ In the same study, the content comprehension sub-section of the Content Specific
 - [The no-captions control group also improved significantly in listening comprehension over the treatment period](control-group-listening-gains-without-captions.md) — related
 - [EFL learners perceive captioned instructional videos as helpful for vocabulary acquisition but not as a distraction to comprehension.](captions-perceived-as-vocabulary-aid-not-distraction.md) — related
 - [The preparatory study material provided matters less than the learning instructions, since almost all students prepared regardless of material](instructions-outweigh-material-inverted-classroom.md) — related
+- [Most caption users activate captions for comprehension, and only a few intentionally use them for language learning](captions-used-for-comprehension-not-learning-survey.md) — related

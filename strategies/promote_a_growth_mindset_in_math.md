@@ -67,6 +67,7 @@ Growth mindset interventions have small but reliable average effects on achievem
 - [Growth-mindset-informed math teaching practices: norms, no fixed labels, mixed-ability grouping, process praise, and formative assessment with retakes](growth-mindset-teaching-practices-list.md)
 - [School-based interventions promoting growth math mindset and academic grit](school-based-growth-mindset-grit-interventions.md)
 - [Build growth-mindset classroom cultures through teacher practices that convey all students can learn and improve](growth-mindset-classroom-culture-practices.md)
+- [Boost learner confidence with growth mindset framing, early wins, and partially completed code](confidence-growth-mindset-madlibs-code.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — ongoing process feedback during practice is where mindset messaging becomes credible

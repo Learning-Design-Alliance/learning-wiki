@@ -50,3 +50,4 @@ Prompt-component ablation (Figure 3) under Qwen2.5-3B and Llama-3.1-8B on Detect
 - [EchoPrompt's AUROC rises with text length, from an average of 75.8% in the shortest 1-40 word bin to 98.9% in the 321-360 bin on DetectRL Length](echoprompt-length-robustness.md) — related
 - [EchoPrompt remains robust across attack settings, obtaining the best AUROC and Best-F1 in four out of five attack groups and improving over IRM by 0.24% AUROC on average](echoprompt-robust-across-attacks.md) — related
 - [Students predominantly conceptualize the LLM as an Assistant rather than Peer or Expert, and role distributions differ significantly across assignments](assistant-role-dominates-llm-conceptualization.md) — related
+- [DialogRPT scores were highly sensitive to the presence of a teacher prefix: identical GPT-4 responses scored 0.52 on updown with the prefix but 0.40 without it.](dialogrpt-teacher-prefix-sensitivity.md) — related

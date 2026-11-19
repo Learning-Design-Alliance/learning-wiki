@@ -60,3 +60,4 @@ Welch's t-test comparing post-learning knowledge test scores in an 8-day between
 - [Condition effects on complex learning-task performance appeared for suitability, justification and correctness but not for elaboration, continuity or final answer quality](task-performance-subdimension-effects.md) — related
 - [ChatGPT and Google groups produced the most additional correct information beyond the sample solution; paper and video groups produced less](chatgpt-google-most-additional-information.md) — related
 - [A non-significant trend showed a longer interval from traditional training to block performance in the simulation group than the control group](longer-training-to-block-interval-simulation-group-trend.md) — related
+- [Students using ChatGPT scored significantly worse on physics exercises than students using a search engine](chatgpt-condition-lower-physics-scores-than-search-engine.md) — related

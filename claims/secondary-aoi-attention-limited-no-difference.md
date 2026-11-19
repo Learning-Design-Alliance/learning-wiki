@@ -74,3 +74,5 @@ Same study, latency measure from the onset of the secondary AOI's verbal mention
 - [Large arrays exceed young children's attentional resources, preventing optimal allocation to relevant items](large-arrays-exceed-childrens-attentional-resources.md) — related
 - [In offline validation, combined relevance-based secondary-AOI selection matched children's next attended AOI more often than random or single-distance selection](combined-relevance-selection-aligns-with-next-attention.md) — related
 - [Follow-up fixation rate on the primary AOI did not differ significantly between gaze-based and baseline assistance](primary-aoi-followup-rate-no-difference.md) — related
+- [No statistically significant differences in mean fixation duration across areas of interest, despite large differences in total fixation duration](no-mean-fixation-duration-differences-aois.md) — related
+- [Screen-gaze time during AR exploration dropped from 88.5% in the 2017 proof-of-concept to 69.2%-73.3% in the current system](screen-gaze-ratio-improved-since-2017-proof-of-concept.md) — related

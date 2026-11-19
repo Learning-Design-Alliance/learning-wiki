@@ -48,3 +48,4 @@ Remote user study in August 2025 with 41 higher education instructors (22 facult
 - [Users experienced a trade-off between conversational depth and interaction efficiency between the fine-tuned and baseline chatbots](depth-efficiency-tradeoff-instructional-chatbots.md) — related
 - [Agreement between chatbot preference and perceived learning attribution was low (39%)](low-agreement-preference-learning-attribution-39-percent.md) — possibly the same claim (merge candidate)
 - [Expert raters rate TeachingCoach higher than a GPT-4o baseline on clarity, tone, reflection, and acknowledgment of user input](teachingcoach-outperforms-gpt4o-expert-ratings.md) — related
+- [Participating teams found that smaller fine-tuned models can be competitive and that DialogRPT tends to prefer complete answers over pedagogically scaffolded ones.](team-observations-model-size-and-metric-bias.md) — related

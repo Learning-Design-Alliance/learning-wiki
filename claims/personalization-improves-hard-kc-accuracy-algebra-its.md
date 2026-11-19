@@ -59,3 +59,4 @@ Randomized experiment with 145 ninth-grade Algebra I students in Cognitive Tutor
 - [The personalization effect improves learning, moderated by prior knowledge, content type, pacing, culture, and language](personalization-effect-social-cues.md) — a broader claim this one bears on
 - [Adjusting algebra problem contexts to students' out-of-school interests was beneficial](personalizing-algebra-context-to-interests-beneficial.md) — a broader claim this one bears on
 - [The article asserts that children learn faster and better with computers and that computers increase children's motivation and interest](computers-increase-children-motivation-learning.md) — related
+- [Prior research found context personalization to student interests associated with improved engagement, performance, and learning outcomes in algebra](walkington-interest-contextualization-engagement-performance.md) — a broader claim this one bears on

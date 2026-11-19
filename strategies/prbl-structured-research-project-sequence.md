@@ -51,6 +51,7 @@ This is the concrete PrBL recipe the article implemented: students individually 
 - [Mentor-supported implementation sequence: pre-course orientation workshops, one-on-one topic selection and individualized learning contracts](mentor-supported-topic-selection-implementation-sequence.md)
 - [Student research project: topic selection, scaffolded reading of related Astrobites articles, and a paper or presentation](method2-student-research-project-astrobites.md)
 - [Sequence a project course as a theoretical-analysis phase, an experimental phase, a written report and an oral presentation](theory-then-experiment-report-and-disputatio-sequence.md)
+- [Structure undergraduate courses so students autonomously carry out smartphone-based experimental research projects on everyday phenomena, with an introductory lesson, feedback, and graded presentations.](mdet-student-research-project-strategy.md)
 
 ## Examples
 -

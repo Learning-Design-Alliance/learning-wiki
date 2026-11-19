@@ -54,3 +54,4 @@ Sensitivity analysis (Figure 4) varying N in {2,3,4,5} and K in {10,20,30,40,50,
 - [There is no universal optimal injection position for the collaborative prior; effectiveness is an architecture-sensitive design choice](injection-strategy-architecture-sensitive.md) — related
 - [Meta-behavioral pattern extraction outperforms knowledge-concept-based collaborative extraction, which fails to consistently boost performance due to data sparsity](meta-behavioral-extraction-beats-kc-based-variants.md) — related
 - [A windowed percent-correct analysis shows an optimal window length only in the Knewton dataset, indicating nontrivial temporal structure there](windowed-analysis-temporal-structure.md) — related
+- [Choosing one's own investigation target creates engagement, and common pitfalls are defining signal length N and sample spacing Ts and failing to crop the data window](open-target-engagement-and-data-window-pitfalls.md) — related

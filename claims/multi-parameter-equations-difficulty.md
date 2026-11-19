@@ -49,3 +49,4 @@ Qualitative observation from a "work together" problem in a large lecture for li
 - [Introductory students can reproduce a just-studied solved isomorphic problem yet still fail to transfer that learning to a three-step isomorphic quiz problem](reproduction-does-not-imply-transfer.md) — related
 - [Students videotaped in a UNH cooling lab showed intense engagement and negotiation of meaning while connecting equation parameters to physical quantities](unh-cooling-lab-engagement.md) — related
 - [Standard textbook presentation of SHM as a differential equation is alien to most first-course students](shm-differential-equation-alien-to-introductory-students.md) — related
+- [Fewer than half of introductory students could solve two equations symbolically for wavelength in the physics context, though most could solve an isomorphic purely mathematical system](poor-symbolic-manipulation-transfer-to-physics.md) — related

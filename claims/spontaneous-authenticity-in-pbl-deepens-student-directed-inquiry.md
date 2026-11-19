@@ -83,3 +83,4 @@ This is a single, deeply documented case study (Portraiture methodology, which p
 - [Major student-driven creative projects are widely used in complex systems coursework and were reported as successful and popular with students](student-led-creative-projects-widespread-successful.md) — related
 - [Students spontaneously applied problem-solving strategies to new scenarios or in new ways after being introduced to them](spontaneous-strategy-transfer-new-scenarios.md) — related
 - [Testimonials collected from teachers and students indicate Lab2Go supported teachers in deepening curriculum topics and introducing others not planned by the school programme](lab2go-testimonials-teacher-support.md) — related
+- [Students' science fair topic choices are responsive to their context, as shown by time- and region-linked topics such as dengue disease and Covid-19](student-topic-choice-responsive-to-context.md) — a narrower finding that bears on this claim

@@ -54,3 +54,4 @@ Qualitative thematic analysis conducted over three months by two independent rev
 - [Facilitated post-scenario debrief was the key agent supporting both clinical and non-clinical skill learning in the simulation programme](debrief-key-behaviour-change-agent.md) — related
 - [Thematic analysis of open-ended responses identifies communication, leadership and teamwork as the most valued learning outcomes, especially in IP courses](simulation-debrief-themes-communication-leadership-teamwork.md) — related
 - [Students in project-based lab teams most often described functional team dynamics, though self-formed friend teams were not always functional](project-team-dynamics-functional.md) — related
+- [Students' open-ended feedback centered on teamwork, freedom and autonomy, the link between theory and reality, time constraints, low-cost tools, and the pleasure of being in the forest](student-feedback-themes-forest-physics.md) — related

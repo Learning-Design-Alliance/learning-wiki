@@ -65,3 +65,4 @@ Qualitative thematic analysis of participant responses on identity. Participants
 - [Many commercial recorded simulations feature young, pale, well‐built actors, limiting diverse representation](commercial-simulations-lack-diverse-representation.md) — related
 - [Candidates unintentionally overlooked average and invisible middle students](invisible-middle-students-overlooked.md) — related
 - [A reported 93% of NAC students indicated they struggle with imposter syndrome, which the authors argue is rarely discussed openly](nac-students-imposter-syndrome-prevalence.md) — related
+- [Living at the intersection of multiple underrepresented identities compounded physics majors' lack of belonging](intersectional-uris-compound-lack-of-belonging.md) — related

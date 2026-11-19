@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 285 claims (217 show a difference, 49 mixed, 19 no difference) · 213 studies (116 associational, 39 causal, 30 review, 11 theoretical, 8 design, 7 qualitative, 2 quant-synthesis), `q1`–`q4` · 10 of 213 report an effect size · 283 claims rest on one study
+> **Evidence** · 289 claims (219 show a difference, 50 mixed, 20 no difference) · 216 studies (117 associational, 40 causal, 30 review, 12 theoretical, 8 design, 7 qualitative, 2 quant-synthesis), `q1`–`q4` · 11 of 216 report an effect size · 287 claims rest on one study
 
 ## How to read this page
 
@@ -322,6 +322,10 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Graduation-rate gains associated with Learning Assistant support are larger for underrepresented minority (21 percentage points) and first-generation students (18 percentage points)](../claims/la-support-larger-gains-underrepresented-students.md) [+M] — an instructional effect differs by group
 - [Race/ethnicity is mostly unrelated to interaction network position in remote physics courses, with one exception in EM-Eng lab networks](../claims/race-ethnicity-unrelated-network-position.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Women and racial minorities are underrepresented in the U.S. STEM workforce](../claims/women-urm-underrepresented-stem-workforce.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [A higher proportion of Indigenous residents in a school's community predicts higher physics continuation rates and a smaller male-female gender gap in continuation](../claims/indigenous-community-share-higher-physics-continuation.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Pilot findings on SPORT-C's motivational impact are preliminary and not generalizable, and the racial-identity comparison is inconclusive](../claims/sport-c-findings-preliminary-racial-identity-inconclusive.md) [~M] — an instructional effect differs by group
+- [Racial demographics other than Indigenous identity show no significant effect on the gender gap in physics continuation, including the proportion of Black residents](../claims/racial-demographics-null-gender-gap-effect.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The counternarrative study reported modest treatment-control differences in survey intent, with Cohen d values of 0.23, 0.13, 0.17 and 0.20 across female, non-female, minority and non-minority subgroups](../claims/counternarrative-effect-sizes-subgroups.md) [+W] — an instructional effect differs by group
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

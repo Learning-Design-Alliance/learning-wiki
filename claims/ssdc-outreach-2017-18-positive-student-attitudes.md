@@ -49,3 +49,4 @@ Post-activity online questionnaire of 20 students (12 females, 8 males) from two
 - [In the 2018/19 cohort students rated project goals as fulfilled and knowledge enriched, but rated alignment with school work lowest](ssdc-outreach-2018-19-questionnaire-ratings.md) — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [Students most strongly felt like data scientists during the open-ended final project, supporting disciplinary authenticity](final-project-felt-like-data-scientist.md) — related
+- [More than 90 percent of MEU students agreed that learning with activities is fun, and 73 percent agreed they like doing activities to learn about numbers](meu-positive-attitude-activities-likert.md) — related

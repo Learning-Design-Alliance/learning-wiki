@@ -49,3 +49,4 @@ Likert-scale question Q8 of the mid-semester survey (137 responses) rated ten st
 - [Clicker polling coincided with increased attendance, after-class questions, and online discussion postings compared with prior course offerings](clickers-anecdotal-engagement-increases.md) — related
 - [Online chat and polls encouraged students, including shy students, to express misconceptions without fear of disrupting the class](chat-and-polls-encourage-misconception-expression.md) — related
 - [Anonymity in online classes allowed shy students, usually female, to interact more](online-anonymity-enabled-shy-female-students.md) — related
+- [QEP's debut Perimeter Institute workshop produced anecdotal evidence of student engagement and takeaways about quantum ethics](qep-workshop-anecdotal-engagement.md) — related

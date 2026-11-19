@@ -49,3 +49,4 @@ Feature-trend analysis across the three corpora using MultiAzterTest (125, 141 a
 - [4-level science readability models struggle most with distinguishing adjacent grades 1 and 2](ara-confusion-adjacent-levels-1-2.md) — related
 - [Fine-tuned transformer DL models outperform feature-based SVM models for science readability classification across all three languages and configurations](dl-transformers-beat-svm-science-ara.md) — related
 - [Science readability models classify texts substantially more accurately in a 2-level setup than in the 4-level ESO-grade setup](two-level-readability-easier-than-four-level.md) — related
+- [AI performance shows no clear trend across degree levels despite increasing question complexity](no-clear-trend-ai-performance-exam-level.md) — related

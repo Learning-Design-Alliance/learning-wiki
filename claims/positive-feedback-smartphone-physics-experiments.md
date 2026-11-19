@@ -49,3 +49,4 @@ Observational feedback reported after the experiments were implemented in school
 - [After using the MyTech app and its curriculum, students gave more accurate, more detailed explanations of how the smartphone accelerometer works](mytech-improves-accelerometer-explanations.md) — related
 - [Most students agreed that the spring-model visualization helped them understand how the smartphone accelerometer works](spring-visualization-self-reported-value.md) — related
 - [In a 2012-13 survey of 241 junior-level engineering students, 92% identified as visual learners and 93% owned a smartphone or tablet](survey-visual-learners-device-ownership.md) — related
+- [Students consistently report interest in the smartphone-accelerometer DFT task and find it a good demonstration of the DFT method](dft-smartphone-task-student-interest.md) — a narrower finding that bears on this claim

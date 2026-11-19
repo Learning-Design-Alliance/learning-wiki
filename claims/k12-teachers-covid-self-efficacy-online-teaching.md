@@ -54,3 +54,4 @@ Descriptive analysis of a 10-item Likert-scale feelings survey (Cronbach α of 0
 - [Most teaching staff easily adapted to TBL and preferred blended learning after the pandemic, but few favored TBL for all activities](staff-adapted-tbl-prefer-blended.md) — related
 - [All participants who took pandemic-era online classes preferred traditional face-to-face classes and felt they would have performed better in classrooms](online-vs-face-to-face-preference-mbbs.md) — related
 - [Nursing students during COVID-19 confinement clearly preferred face-to-face teaching over e-learning, while evaluating synchronous videoconferences as the best online methodology](nursing-students-prefer-face-to-face-videoconference-best.md) — related
+- [More than 90% of surveyed students prefer the class taught online and more than 95% report the class structure and hours are effectively used](student-survey-preference-online-structure.md) — related

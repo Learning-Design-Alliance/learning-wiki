@@ -103,6 +103,7 @@ The article recommends that universities move away from rigid, top-down AI polic
 - [Use a community of practice to collaboratively develop university-wide online orientation resources](community-of-practice-collaborative-orientation-development.md)
 - [Enable leadership to nurture adaptive space for LA-related innovations and navigate existing resources to encourage change](enable-leadership-adaptive-space-la-innovation.md)
 - [Launch community-of-practice activities and interprofessional empowerment networks to sustain teacher motivation](community-of-practice-activities-sustain-teacher-motivation.md)
+- [Foster collaboration among stakeholders to develop strategies for responsible and ethical use of generative AI in education](stakeholder-collaboration-responsible-ai-education.md)
 
 ## Examples
 -

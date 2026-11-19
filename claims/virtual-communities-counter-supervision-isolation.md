@@ -75,3 +75,4 @@ Conclusion drawn from the study's consultations and implementation case study; t
 - [Social media heralds a more participatory and collaborative approach to knowledge development and can support virtual communities of practice](social-media-participatory-knowledge-development.md) — related
 - [Many students' first contact with the research literature presents a barrier rather than a facilitator to a career in research, because expert communication conventions presuppose shared context newcomers lack.](literature-jargon-barrier-newcomers.md) — related
 - [Percentage of isolated students decreased from 37% to 26% with the change to virtual context](isolated-students-decreased-virtual.md) — related
+- [The sparking interest and understanding facilitator persona needs community building to bridge gaps between physicists and science communication professionals](rory-community-building-needs.md) — a narrower finding that bears on this claim

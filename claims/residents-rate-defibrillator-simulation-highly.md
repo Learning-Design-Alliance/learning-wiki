@@ -57,3 +57,4 @@ Anonymous standard electronic survey administered after all educational conferen
 - [Residents' self-reported confidence in managing patients with inappropriately firing defibrillators increased after the simulation (Likert mean 2.69 to 4.06)](simulation-increases-confidence-managing-inappropriate-icd-firing.md) — related
 - [Residents rate the prognosis curriculum highly acceptable and relevant (mean 4.5 on a 5-point scale)](prognosis-curriculum-high-acceptability-ratings.md) — related
 - [Students rated the redesigned introductory physics course very positively, with increased interest in studying physics](intro-physics-survey-high-ratings-increased-interest.md) — related
+- [Students rate the project component of the sustainable physics course very positively](high-student-ratings-project-component.md) — related

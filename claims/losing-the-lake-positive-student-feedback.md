@@ -65,3 +65,5 @@ Post-intervention feedback survey administered only to the experimental group (n
 - [Most intervention students cited the new exercises as their most effective preparation for the phylogenetics lab, while 13% wanted more between-tree comparison practice](student-feedback-preparation-survey.md) — related
 - [Students engaged in self-directed learning with the simulation, customizing the roller coaster and addressing their own misconceptions](self-directed-learning-remixed-simulation.md) — related
 - [Students who reported playing the game was fun to a large extent had a significantly lower gain (0.13) than the average student (0.20)](high-fun-students-lower-gain.md) — related
+- [Game-based learning can increase student engagement and motivation, and cited studies link it to improved learning outcomes](game-based-learning-engagement-motivation-outcomes.md) — a broader claim this one bears on
+- [Participants reported similar engagement and motivation ratings for the game and video conditions, with no significant effects found](similar-engagement-ratings-game-video.md) — related

@@ -51,6 +51,7 @@ The article recommends activities outside the classroom as a strategy for foster
 - [Structure out-of-school astronomy like a sports league: easy entry, escalating challenge, and high-level club experiences](gelderman-astronomy-progression-strategy.md)
 - [Support curriculum-industry links with invited industry speakers and extracurricular technology activities](industry-speakers-extracurricular-tech-activities.md)
 - [Leverage QISE program development to promote diversity, equity, and inclusion in engineering](qise-dei-program-recommendations.md)
+- [Advocate equal opportunities, inclusion, and diversity when developing a cutting-edge quantum curriculum](inclusion-diversity-in-quantum-curriculum-development.md)
 
 ## Examples
 -

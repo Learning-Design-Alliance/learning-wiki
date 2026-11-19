@@ -74,3 +74,5 @@ Analysis of the graded module exam for "Atomare Materialmodellierung": one quest
 - [A single Sage worksheet resource can combine theoretical information with interactive examples of its practical application](sage-worksheet-theory-plus-interactive-examples.md) — related
 - [Most students in a large numerical analysis class reported that clicker questions helped them better understand lecture material](clickers-improve-perceived-understanding-numerical-analysis.md) — related
 - [Line graphs are the most common engagement element in the PICUP Collection, followed by three-dimensional graphics](picup-es-engagement-element-line-graphs.md) — related
+- [Students reported that individual exercise assignments helped them plan and monitor their learning but did not necessarily increase learning motivation](assignments-support-self-regulation-not-motivation.md) — related
+- [More than half of students gave satisfactory answers to an essay question on the value of telling the story under exam pressure](essay-question-story-value-satisfactory-answers.md) — related

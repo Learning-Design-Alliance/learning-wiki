@@ -52,3 +52,4 @@ Counterfactual mediation analysis (potential outcomes framework) for a change fr
 - [Undergraduate GPA is a stronger predictor of graduate outcomes than GRE scores](undergrad-gpa-stronger-predictor-than-gre.md) — related
 - [Collider stratification on graduate admission substantially changes estimated predictive effect sizes of admissions metrics for graduation](collider-stratification-inflates-admissions-effect-estimates.md) — related
 - [Dropping both GREs from physics graduate admissions would substantially reduce graduation predictive power, while dropping only GRE-P would lose substantially less](dropping-both-gres-loses-graduation-predictive-power.md) — related
+- [Prior literature does not support the claim that GRE scores and UGPA are non-predictive of physics PhD outcomes; reanalysis found GREs predict graduation odds](gre-predictive-of-phd-completion-reanalysis.md) — reports the opposite

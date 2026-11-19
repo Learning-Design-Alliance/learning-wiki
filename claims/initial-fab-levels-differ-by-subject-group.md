@@ -55,3 +55,4 @@ In the conditional growth model, initial FABs were highest in mathematics‐inte
 - [Teaching quality ratings differ by discipline, with Humanities faculty rated highest and Engineering lowest](discipline-differences-in-set-ratings.md) — related
 - [Physical education obtained the highest grade mean and satisfaction mean, while mathematics obtained the lowest grade mean](pe-highest-grade-and-satisfaction-math-lowest.md) — related
 - [Subject satisfaction correlates positively with school satisfaction in all subjects, highest for mathematics, and with grades for all subjects except PE](subject-satisfaction-correlations-school-satisfaction-grades.md) — related
+- [Median female proportion increased significantly in almost all senior STEM courses, with widely varying effect sizes across disciplines](median-female-proportion-increase-varies-by-course.md) — related

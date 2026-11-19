@@ -73,3 +73,4 @@ Review synthesis of secondary benefit outcomes. The review separately reports th
 - [Contrary to similar research, an asocial robot produced higher learning gains than a more social robot in a tutoring study](asocial-robot-higher-learning-gains.md) — related
 - [Children's vocabulary acquisition benefited from the robot tutor's instruction and knowledge demonstration](robot-tutor-role-vocabulary-gains.md) — related
 - [Teachers reported that students were more active, more motivated, and improved their academic and social skills during differentiation-approach lessons.](teachers-report-student-engagement-and-skill-gains.md) — related
+- [In a small pilot, SPORT-C participants and their instructor reported engagement higher than the norm during the activity](sport-c-pilot-higher-engagement.md) — related

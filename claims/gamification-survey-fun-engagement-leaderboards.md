@@ -54,3 +54,4 @@ All 52 experimental-class students completed a 15-question online survey on a 1-
 - [Players rate the NICU serious game highly on story empathy, knowledge acquisition, and perceived effectiveness of serious games for learning](nicu-serious-game-high-educational-usefulness-ratings.md) — related
 - [Students evaluated the serious game as more engaging but the e-module as easier to use](game-more-engaging-emodule-easier-to-use.md) — related
 - [Gamification shows mixed results for learning performance, especially when based on scores and leaderboards](gamification-mixed-learning-results-leaderboards.md) — related
+- [Participants reported similar engagement and motivation ratings for the game and video conditions, with no significant effects found](similar-engagement-ratings-game-video.md) — related

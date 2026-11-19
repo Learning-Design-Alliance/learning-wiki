@@ -52,3 +52,4 @@ Thematic analysis of think-aloud sessions and observations during the AI Helper 
 - EFL students perceive AI-generated writing feedback as a competent source that improves vocabulary, grammar, structure, coherence, and values its immediacy — related
 - [Students initially perceived GenAI explanation features and dashboard visualizations positively in introductory lab sessions](positive-initial-perceptions-genai-feedback-functionalities.md) — related
 - Students perceived ChatGPT as a valuable learning tool for asking questions, getting explanations, and clarifying understanding — related
+- [In the roller coaster loop dialogue, ChatGPT excelled at providing clear explanations, addressing misconceptions, and promoting active learning through Socratic questioning.](chatgpt-socratic-roller-coaster-active-learning.md) — related

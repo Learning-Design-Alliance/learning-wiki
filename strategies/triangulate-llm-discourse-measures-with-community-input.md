@@ -46,6 +46,7 @@ The article recommends that scholars using LLM-based discourse measures "triangu
 - [Engage community constituents through multiple input methods as the first step in POG development](community-engagement-first-step-pog.md)
 - [Involve key stakeholders directly in defining privacy and designing LA systems](stakeholder-involvement-defining-privacy-la.md)
 - [Engage both data professionals and teaching professionals, and involve students, in LA data use](engage-data-and-teaching-professionals-involve-students.md)
+- [Use transcript-based discourse measures to power automated teacher feedback and professional development improvements](transcript-measures-power-automated-feedback-strategy.md)
 
 ## Examples
 -

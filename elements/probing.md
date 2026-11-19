@@ -92,6 +92,7 @@ Probing converts a surface-level answer into an act of retrieval and elaboration
 - [Recommendations for clinical teachers: use reasoning and follow-up questions to elicit elaboration, closed reproduction questions for knowledge recall, and reduce non-response](../strategies/cbl-questioning-recommendations-clinical-teachers.md)
 - [Ask students to explain the instrument to a layperson (a 12-year-old) to diagnose device understanding](../strategies/explain-to-12-year-old-diagnostic.md)
 - [Ask students to justify each FCI answer in writing when deploying conceptual tests online](../strategies/fci-written-justifications-strategy.md)
+- [Use AI tutor prompts that push students to generate their own answers rather than receive solutions](../strategies/ai-tutor-generate-answers-strategy.md)
 
 ## Key Sources
 - King, A. (1994). Guiding knowledge construction in the classroom: Effects of teaching children how to question and how to explain. *American Educational Research Journal, 31*(2), 338–368. [doi:10.3102/00028312031002338](https://doi.org/10.3102/00028312031002338)

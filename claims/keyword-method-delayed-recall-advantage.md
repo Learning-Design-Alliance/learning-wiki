@@ -53,3 +53,4 @@ Surprise delayed recall posttest given three weeks after the eight-session treat
 - [Spaced recall quizzing improves long-term retention even when immediate feedback is not provided](testing-effect-persists-without-immediate-feedback.md) — related
 - [Senior high school students taught the same new words in semantically-unrelated sets score significantly higher than students taught the words in semantically-related sets on a delayed L2-L1 translation test two weeks later](su-sets-beat-sr-sets-delayed-vocabulary-test.md) — related
 - [Undergraduates using an exploratory wave simulation outperformed a traditional-laboratory control group on retention of the medium-speed relationship eleven weeks later](exploratory-simulation-retention-outperforms-traditional-lab.md) — related
+- [Caption type produced no differences in vocabulary recall scores, with clear ceiling effects in the tested vocabulary](no-vocabulary-recall-differences-ceiling-effects.md) — related

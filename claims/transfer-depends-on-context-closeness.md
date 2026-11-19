@@ -72,3 +72,4 @@ Experiment 1 Batman/boat versus rain/cart momentum pair: Table 1 shows significa
 - [Giving students both isomorphic problems simultaneously did not improve performance or reveal the underlying similarity](ipp-pairing-did-not-add-insight.md) — related
 - [Giving both problems of a car-on-incline isomorphic problem pair did not improve performance on the friction problem](ipp-friction-car-incline-no-transfer.md) — related
 - [Extending learning from a two-step solved problem to a three-step problem is much harder than transferring between two two-step problems](two-to-three-step-transfer-harder.md) — related
+- [Knowledge gained in Newton's Race transfers only to situations closely resembling the game environment, not to different situations](newtons-race-transfer-limited-to-game-like-situations.md) — a narrower finding that bears on this claim

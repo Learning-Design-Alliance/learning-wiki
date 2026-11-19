@@ -76,3 +76,4 @@ Thematic analysis of interview responses on perceived benefits. Three of 10 part
 - [Experimental participants report positive attitudes toward timed reading, citing better concentration, confidence, and motivation to read more](timed-reading-positive-attitudes.md) — related
 - [Participants in the experimental group held positive attitudes toward contemplative and transformative L2 instruction](positive-attitudes-contemplative-instruction.md) — related
 - [ESL learners trained in metacognitive strategies hold more positive views of the strategies' effectiveness than untrained peers](trained-esl-learners-positive-views-metacognitive-strategies.md) — related
+- [Students held uniformly positive attitudes toward learning programming early, and these views persisted or improved after instruction](positive-attitudes-programming-persist.md) — related

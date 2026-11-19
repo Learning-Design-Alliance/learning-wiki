@@ -60,3 +60,5 @@ Individual semi-structured think-aloud interviews with 30 student volunteers (20
 - [Negative perceived recognition from instructors/TAs negatively influenced female students' self-efficacy, interest, and desire to persist in STEM](negative-recognition-harms-efficacy-interest-persistence.md) — possibly the same claim (merge candidate)
 - [Some female physics students reported instructors and advisors underestimating their abilities and potential](underestimated-abilities-potential.md) — related
 - [Female physics students reported the physics learning environment felt unsafe due to condescending or intimidating behavior and cold calling](unsafe-environment-condescending-cold-calling.md) — related
+- [Rejection from potential research groups, perceived as personal failing, undermined belonging and drove consideration of leaving](group-search-rejection-undermined-belonging-attrition-risk.md) — related
+- [Sense of belonging experiences, such as encouragement and exclusion, shape students' interest in a method](sense-of-belonging-shapes-method-interest.md) — a broader claim this one bears on

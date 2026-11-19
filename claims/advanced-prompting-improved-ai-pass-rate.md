@@ -49,3 +49,4 @@ Within the same case study, essay assessments were re-prompted at escalating lev
 - [ChatGPT produced submissions judged of passing quality for 36 of 40 undergraduate psychology assessments (90%)](chatgpt-passable-36-of-40-psychology-assessments.md) — related
 - [Assessments requiring novelty and originality were more resilient to AI-generated output](novelty-requiring-assessments-more-resilient-to-genai.md) — related
 - [Visual media assessments (posters, presentations) were not passable because ChatGPT could not produce complete slides or poster content](visual-media-assessments-not-passable-by-chatgpt.md) — related
+- [Students sharing a prompting theme showed common activity-system qualities: unawareness-theme students came mostly from low-achievement schools and scored low on writing quality, while overcoming-theme students used intermediate/advanced tools and scored normal or high](activity-system-qualities-by-theme.md) — related

@@ -51,3 +51,4 @@ Administration of the Figure 6 question in transformed engineering courses acros
 - [In the pilot, there was no difference in scores between open-ended and multiple-choice versions of the test](pilot-open-ended-mcq-no-difference.md) — reports the opposite
 - [Well-constructed context-rich multiple-choice items can assess five of Bloom's six cognitive levels, so the question's phrasing rather than the response format determines the cognitive level tested](context-rich-mcq-higher-order.md) — related
 - [Upper-level quantum mechanics students incorrectly claim a particle loses energy when it tunnels through a rectangular potential barrier, transferring classical reasoning](qm-tunneling-classical-energy-loss-difficulty.md) — related
+- [More than half of students gave satisfactory answers to an essay question on the value of telling the story under exam pressure](essay-question-story-value-satisfactory-answers.md) — related

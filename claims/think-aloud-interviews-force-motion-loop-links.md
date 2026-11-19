@@ -51,3 +51,4 @@ Think-aloud interviews several weeks after the essay: six students chosen, five 
 - [Students who displayed Force-casual and Iterative views were more likely to be successful on the proctored programming assignment](force-casual-iterative-views-proctored-success.md) — related
 - [Model analysis of the explore all paths concept showed instruction was ineffective in shifting students from the incorrect single path model towards the correct model](model-analysis-explore-all-paths-ineffective.md) — related
 - [Students do not automatically recognize that a computer executes code line-by-line and iteratively](students-miss-line-by-line-iteration.md) — related
+- [In the generalization assignment, 48% of students produced all three correct force-motion relationships and 11% produced none](generalization-assignment-48-percent-complete-relationships.md) — related

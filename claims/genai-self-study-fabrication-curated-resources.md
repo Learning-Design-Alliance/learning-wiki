@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: mixed
 newest_evidence: 2026
-source_checked: 2026-10-20
+source_checked: 2026-11-19
 sources:
   - id: zhao-j-2026
     resource: "https://doi.org/10.3389/feduc.2026.1907589"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` During an initial ChatGPT-3.5 phase only 6 of 23 students correctly learned the Randleman criteria, while all 23 answered correctly in a subsequent internet-search phase, and the model had fabricated a similarly named syndrome. [→ Zhao J 2026](#zhao-j-2026)
@@ -88,3 +88,4 @@ The review reports this comparison among negative and null results showing the r
 - [Chatbot explanations achieved acceptable content validity (average CVI ≥0.92) despite occasional hallucinated or fabricated references](chatbot-explanations-acceptable-cvi-despite-hallucinated-references.md) — related
 - [ChatGPT-4 illness scripts contained specific factual and specificity deficiencies, including an incorrect infection route for varicella and inappropriate treatment for hyperventilation syndrome](chatgpt4-illness-script-specific-deficiencies.md) — related
 - [Students' first choice for resolving learning problems in e-learning was searching the Internet, followed by asking peers and then asking teachers](exploration-internet-first-then-peers-then-teachers.md) — related
+- [Confabulation risk is highest for AI tutoring and lowest for AI-as-student use](confabulation-risk-varies-by-ai-use-case.md) — related

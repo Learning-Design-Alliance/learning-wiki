@@ -49,3 +49,4 @@ One-way ANOVA with post hoc Tukey test comparing per cent improvement across the
 - [Physician assessments showed greater competency improvement in the intervention group, with the A-step again highest](physician-assessment-oscar-greater-improvement.md) — related
 - [OSCAR-based training produced greater improvement in skill-related statements 1–2 than regular framework training](oscar-greater-skill-statement-improvement.md) — related
 - [CST improves GCRS communication domains of initiation, verbal communication, structuring, information provision and aiding understanding, but not building the relationship or incorporating the patient's perspective](cst-gcrs-domain-gains-selective.md) — related
+- [The reading assignment produced the largest perceived gains in students' ability to extract main takeaways of a paper](astrobites-reading-main-takeaways-largest-gain.md) — related

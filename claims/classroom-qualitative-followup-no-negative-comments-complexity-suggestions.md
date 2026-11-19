@@ -48,3 +48,4 @@ Qualitative content analysis of comments from two surgical technology teachers a
 - [First-level participant feedback found the iThinkSmart prototype engaging but flagged movement, navigation, graphics, and device-support issues for improvement](ithinksmart-prototype-feedback-themes.md) — related
 - [Guided tours alone are insufficient for building facility navigation skills, so the authors designed a VR game to add attention, active engagement, feedback and repetition](guided-tours-insufficient-vr-game-adds-engagement.md) — related
 - [One-week reflections: self-identified understanding correlated with device complexity, and no student reported added confusion](one-week-reflections-complexity-no-confusion.md) — related
+- [Visual objective markers significantly improved navigation of the virtual environment for students less familiar with virtual games](objective-markers-aid-novice-game-navigation.md) — related

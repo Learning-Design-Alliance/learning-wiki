@@ -50,6 +50,7 @@ The review recommends that dental students, educators, curriculum administrators
 - [Strengthen institutional policies, ethics education, verification, disclosure, and data protection to support ethical GenAI use](institutional-strategies-ethical-genai-use.md)
 - [Pursue ethical AI feedback use as a collective effort across multiple stakeholders in and beyond higher education](collective-stakeholder-effort-ethical-ai.md)
 - [Develop student AI literacy and institutional GenAI policies, guidelines and safeguards for responsible integration](genai-literacy-and-institutional-policy-strategy.md)
+- [Foster collaboration among stakeholders to develop strategies for responsible and ethical use of generative AI in education](stakeholder-collaboration-responsible-ai-education.md)
 
 ## Examples
 -

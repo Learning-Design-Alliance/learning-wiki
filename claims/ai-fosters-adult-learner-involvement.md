@@ -70,3 +70,4 @@ Thematic analysis of semi-structured interviews with 20 adult learners, prompted
 - [Moderators fostered participation through personalized prompts, affirming language, welcoming tone, and balanced encouragement frequency](moderator-participation-encouragement-techniques.md) — related
 - [Autonomy for exploration sustains teachers' motivation](autonomy-for-exploration-sustains-teacher-motivation.md) — related
 - [Facilitators consider positive feedback crucial for learning and deliberately foster positive aspects of simulation performance](facilitators-foster-positive-feedback.md) — related
+- [Frequent, timely, actionable feedback improves learning, and AI mentors can help provide it under oversight](ai-mentor-frequent-feedback-improves-learning.md) — related

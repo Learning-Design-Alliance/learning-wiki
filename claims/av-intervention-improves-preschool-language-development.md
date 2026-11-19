@@ -55,3 +55,4 @@ Post-test comparison of an experimental group (mean 100.50 on language developme
 - [Video-based listening instruction produced a larger score improvement than audio-based instruction in an Indonesian EFL high-school experiment](video-beats-audio-listening-gain.md) — related
 - [Keyword captions significantly improved EFL learners' general listening comprehension from pre-test to post-test](keyword-captions-improve-listening-comprehension.md) — related
 - [Viewing instructional videos improves EFL learners' language proficiency regardless of whether captions are present.](video-viewing-improves-proficiency-regardless-captions.md) — related
+- [Caption type produced no differences in vocabulary recall scores, with clear ceiling effects in the tested vocabulary](no-vocabulary-recall-differences-ceiling-effects.md) — related

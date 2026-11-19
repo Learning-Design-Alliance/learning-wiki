@@ -55,3 +55,4 @@ Linear mixed-effects final models for the remaining four dependent variables in 
 - [Within a person, vigour correlates positively with interest and negatively with fatigue, depression, sleepiness, and mind-wandering](vigour-within-person-correlations-engagement.md) — related
 - [In adults with ADHD, acute cardio exercise does not improve sustained attention but enhances mood and motivation](acute-exercise-adults-adhd-attention-null-mood-gain.md) — related
 - [Adding construction noise does not significantly affect comprehension accuracy or interest ratings during video learning](noise-no-effect-comprehension-interest.md) — related
+- [Changing one's mind was negatively associated with students' interest in the day's topic, with students half as likely to be interested on days they changed their minds](dsbk-changing-mind-negative-interest-association.md) — related

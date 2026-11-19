@@ -47,6 +47,7 @@ Upload self-created demonstration videos and supplementary materials (instructio
 
 - [Provide accessible caregiver resources and QR-code video lessons to strengthen the school-home literacy connection](family-support-hub-caregiver-literacy-resources.md)
 - [Easy-Access Educational Tools](easy-access_educational_tools.md)
+- [Share and embed interactive simulations via auto-generated URLs, embedded webpage fragments, or forked open-source code for course materials](visualpde-share-simulations-via-url.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Narrative synthesis within the systematic review attributing these findings to t
 ## Related Claims
 - [Casual games show promise for mitigating anxiety, depression, stress, and low mood across the range of mental health issues examined](casual-games-mental-health-promise.md) — related
 - [Pokémon Go play is associated with improved social well-being, belonging, and connection, and reduced anxiety about leaving the house](pokemon-go-social-wellbeing-benefits.md) — related
+- [Game-based learning can increase student engagement and motivation, and cited studies link it to improved learning outcomes](game-based-learning-engagement-motivation-outcomes.md) — related

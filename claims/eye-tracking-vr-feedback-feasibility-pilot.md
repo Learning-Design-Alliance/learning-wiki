@@ -59,3 +59,4 @@ Feasibility outcomes from the pilot trial: 40 interns enrolled, 5 excluded befor
 - [A fully immersive VR trauma simulation is feasible to deploy as an adjunct preparation for the ATLS course, with all completing participants achieving correct patient stabilisation.](vr-trauma-simulation-feasible-atls-adjunct.md) — related
 - [A pilot robotic simulation course adapted from Intuitive Surgical training was successfully implemented with senior medical students](pilot-robotic-course-implemented-senior-students.md) — related
 - [A remote, fully online pilot RCT design for e-learning evaluation is feasible, with 61.4% of randomised participants completing the trial](remote-pilot-rct-feasible-elearning.md) — related
+- [Automated eye-tracking feedback improves resident sensitivity for suspicious pulmonary nodules more than no feedback (38.89% vs 5.56% absolute improvement)](eye-tracking-feedback-improves-nodule-detection-sensitivity.md) — related

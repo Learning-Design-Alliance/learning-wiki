@@ -58,6 +58,8 @@ The article recommends that university staff design assessments that are harder 
 - [A multifaceted approach combining incentivized higher-order assessment points, transparent rubric criteria, and facilitated scientific communication to improve ill-defined problem solving](multifaceted-ill-defined-problem-solving-strategy.md)
 - [Live-proctor virtual assessments via video conference to address academic integrity in physics problem-solving exams](live-video-proctoring-physics-assessments.md)
 - [Use masked ChatGPT responses in spot-the-bot activities to foster students' critical evaluation of scientific accuracy](spot-the-bot-chatgpt-evaluation-activity.md)
+- [Critically evaluate advertised green building solutions to develop students' critical thinking](critical-review-greenwashing-solutions.md)
+- [Provisional assessment-defence strategies: question styles AI struggles with, pre-approval open-book exams, and routine AI-capability monitoring](provisional-ai-assessment-defence-strategies.md)
 
 ## Examples
 -

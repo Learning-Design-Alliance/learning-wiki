@@ -51,3 +51,4 @@ Cross-study comparison in the discussion section, synthesizing the present three
 ## Related Claims
 - [Men significantly under-nominate women as strong in lecture material in first-year physics courses, while women proportionately nominate both genders](men-under-nominate-women-first-year-physics-lecture.md) — a narrower finding that bears on this claim
 - [Bias against female classmates was stronger in physical science courses: participants in life science courses selected higher proportions of women in all four nomination categories](course-type-moderates-peer-gender-bias.md) — related
+- [The gender bias in peer recognition persists after controlling for lab group composition and other interaction patterns](gender-bias-persists-after-interaction-controls.md) — related

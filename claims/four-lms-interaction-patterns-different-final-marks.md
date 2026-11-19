@@ -49,3 +49,4 @@ Observational log analysis of a Moodle 2.0 course with 140 undergraduates; the a
 - [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — related
 - [K-means clustering of K–8 students' platform trace data yields seven distinct engagement profiles](seven-engagement-profiles-k8-elearning.md) — related
 - [Semester control-question results correlated positively (r = 0.5530) with final-test results, supporting the evaluation system's predictive accuracy](control-question-results-correlate-final-test.md) — related
+- [Clustering 292 students' logs yields five SRL profiles differing in proactivity and performance](five-srl-profiles-292-students.md) — related

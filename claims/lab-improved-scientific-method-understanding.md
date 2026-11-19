@@ -73,3 +73,4 @@ Two further vision-of-science items of the satisfaction questionnaire: 67.3% aff
 - [Open-ended lab exercises that rely on students to determine which features are of physical interest provide insight into how experimental research is conducted and build experimental skills like note-taking](open-ended-unguided-analysis-builds-experimental-skills.md) — related
 - [Interviewed ADI students reported engaging in scientific practices such as identifying variables, finding patterns in data, and developing methods, while no comparison-group students did](interviews-adi-scientific-thinking-practices.md) — related
 - [Students rated interactions with researchers as useful and helpful for understanding the remote experiments](researcher-interaction-useful-remote-lab.md) — related
+- [Students reported that hands-on quantum programming labs improved hands-on skills and understanding of the rationale behind experiments](positive-student-feedback-quantum-labs.md) — related

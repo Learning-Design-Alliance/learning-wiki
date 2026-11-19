@@ -48,4 +48,4 @@ Before the training content is delivered, all participants take a pretest: "Selu
 -
 
 ## Key Sources
-- Miftakhi, D.R., & Pramusinto, H. (2023). IMPLEMENTASI PENINGKATAN PROFESIONALISME GURU PAUD MELALUI DIKLAT BERJENJANG. Multidisciplinary Scientific Journal for Innovative Research, Vol. 1, No. 1, February 2023. https://arxiv.org/abs/2303.06043
+- Miftakhi, D.R., & Pramusinto, H. (2023). IMPLEMENTASI PENINGKATAN PROFESIONALISME GURU PAUD MELALUI DIKLAT BERJENJANG. Multidisciplinary Scientific Journal for Innovative Research, Vol. 1, No. 1, February 2023. https://arxiv.org/abs/2303.06043. [doi:10.48550/arxiv.2303.06043](https://doi.org/10.48550/arxiv.2303.06043)

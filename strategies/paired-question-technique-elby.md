@@ -50,6 +50,7 @@ In epistemologized tutorials, instead of opening questions research shows most s
 
 - [Questioning Techniques to Address Errors](questioning_techniques_to_address_errors.md)
 - [Anticipation Guide](anticipation-guide.md)
+- [Elby paired questions: reconcile spontaneous stories with physics-accurate ones](elby-paired-questions-reconcile-stories.md)
 
 ## Examples
 -

@@ -132,3 +132,4 @@ Open questions include how summarization compares with other generative strategi
 - [Coh-Metrix indices predicting college writing quality fail for low-skilled adults, for whom ten other indices are predictive](cohetrix-indices-low-skilled-adults-writing.md) — related
 - [Critical readers underlined and took notes of more critical points (ironies, questions, metaphors) and summarized less than less-critical readers](critical-readers-note-critical-points.md) — related
 - [Practice testing and distributed practice are the learning techniques with strong effect sizes; learner-initiated summarization, highlighting, mnemonics, imagery, and rereading have not been shown to enhance learning](practice-testing-distributed-practice-strong-effects.md) — related
+- [The reading assignment produced the largest perceived gains in students' ability to extract main takeaways of a paper](astrobites-reading-main-takeaways-largest-gain.md) — related

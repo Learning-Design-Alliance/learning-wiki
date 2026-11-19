@@ -71,3 +71,4 @@ Same meta-regression analysis; β = –.13 is a moderator coefficient, no effect
 - [Math age, study design, and sample type did not significantly moderate the RAN–mathematics relationship](ran-math-null-moderators-age-design-sample.md) — related
 - [RAN correlates more strongly with arithmetic calculation tasks than with general math achievement tests](ran-stronger-with-arithmetic-than-achievement.md) — related
 - [RAN stimulus type (numeric vs. non-numeric; alphanumeric vs. non-alphanumeric) largely does not moderate the RAN–mathematics correlation](ran-stimulus-type-weak-moderator.md) — related
+- [LLM mathematical accuracy decreases as the number of digits increases, and varies by operation type](llm-math-accuracy-declines-with-digit-count.md) — related

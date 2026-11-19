@@ -89,3 +89,4 @@ The guide's practice recommendation asserts, without cited studies or effect siz
 - [Adjusting algebra problem contexts to students' out-of-school interests was beneficial](personalizing-algebra-context-to-interests-beneficial.md) — a narrower finding that bears on this claim
 - [The article asserts that children learn faster and better with computers and that computers increase children's motivation and interest](computers-increase-children-motivation-learning.md) — related
 - [A two-day professional development training prepared in-service physics teachers to implement PBL with real-life wave problems](two-day-pbl-teacher-training-waves.md) — related
+- [Prior research found context personalization to student interests associated with improved engagement, performance, and learning outcomes in algebra](walkington-interest-contextualization-engagement-performance.md) — related

@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 216 claims (162 show a difference, 24 mixed, 30 no difference) · 176 studies (95 causal, 21 review, 15 design, 14 associational, 13 qualitative, 12 quant-synthesis, 5 theoretical), `q1`–`q4` · 35 of 176 report an effect size · 210 claims rest on one study
+> **Evidence** · 217 claims (163 show a difference, 24 mixed, 30 no difference) · 177 studies (95 causal, 22 review, 15 design, 14 associational, 13 qualitative, 12 quant-synthesis, 5 theoretical), `q1`–`q4` · 35 of 177 report an effect size · 211 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -254,6 +254,7 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Serious games support playful learning situations for disciplinary areas and 21st century skills](../claims/serious-games-disciplinary-21st-century-skills.md) [+W] — measured as an outcome of the instruction studied
 - [Students cannot reliably solve complex well-structured problems by reasoning without applying memorized algorithms](../claims/algorithms-required-complex-problems.md) [+M] — learners who differ on it differ in outcomes
 - [Students using the Hierarchical Analysis Tool (HAT) showed significant problem-solving performance differences compared with students solving problems traditionally](../claims/hat-tool-improves-problem-solving-behavior.md) [+M] — measured as an outcome of the instruction studied
+- [The review reports that students required to use effective problem-solving strategies performed progressively better than those merely shown the strategies or given none](../claims/required-strategy-use-beats-exposure-review.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

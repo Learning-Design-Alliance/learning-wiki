@@ -51,3 +51,5 @@ Maximum-height portion of the graph pre-test with 14 students. "93% of the class
 - [Sophomore engineering students can draw a correct free fall acceleration model while drawing incorrect position and velocity models for the same motion](memorized-acceleration-model-wrong-position-velocity-graphs.md) — related
 - [Students engaged in self-directed learning with the simulation, customizing the roller coaster and addressing their own misconceptions](self-directed-learning-remixed-simulation.md) — related
 - [The misconception that acceleration is zero at the top of toss-up motion persisted despite gains on the highest-point velocity item](zero-acceleration-apex-misconception-persists.md) — reports the opposite
+- [Bard gave an incorrect answer to the teddy bear acceleration problem, reproducing the misconception that acceleration is zero at the highest point of a trajectory.](bard-incorrect-zero-acceleration-highest-point.md) — related
+- [ChatGPT-4's teddy bear answer was correct and detailed, addressing the common free-fall misconception and supporting critical thinking.](chatgpt4-correct-detailed-teddy-bear-answer.md) — related

@@ -46,3 +46,4 @@ Correlational analysis of log-data from the 18 game-group students with availabl
 
 ## Related Claims
 - [Within the game group, game-time and successful patient-care mission points correlated with higher self-efficacy and lower reported stress during rotation](mission-success-correlates-self-efficacy-stress.md) — related
+- [Older players show higher posttest and transfer scores, suggesting the game fosters learning more for older students](newtons-race-age-positive-correlation-posttest.md) — related

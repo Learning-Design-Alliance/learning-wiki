@@ -60,3 +60,4 @@ Case-study interview evidence: Paulette's account of male professors' condescens
 - [Mentees' sense of belonging grew out of community and social interactions and from scientific contribution](belonging-from-interaction-and-contribution.md) — related
 - [Female physics students reported feeling belittled for their questions or efforts by instructors/TAs, which discouraged them from asking questions](belittled-questions-efforts-discourage-asking.md) — related
 - [Female physics students reported the physics learning environment felt unsafe due to condescending or intimidating behavior and cold calling](unsafe-environment-condescending-cold-calling.md) — related
+- [Exam culture with failing class averages and curving left physics majors feeling discouraged regardless of final grade](failing-exam-averages-discourage-physics-students.md) — related

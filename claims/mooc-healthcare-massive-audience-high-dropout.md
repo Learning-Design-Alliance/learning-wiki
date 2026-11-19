@@ -54,3 +54,4 @@ The review's synthesis of the 36 included studies reports participation "ranged 
 - [Multiple-choice questionnaires are the main assessment tool used to measure MOOC learning outcomes in healthcare education](mooc-assessment-multiple-choice-dominant.md) — related
 - [MOOC dropout rates are very high, with reported rates of 80-95% at Stanford, MIT and UC Berkeley and only 7% of 50,000 students completing a Coursera-UC Berkeley software engineering course](mooc-dropout-rates-80-95-percent.md) — related
 - [Virtual training events reach more participants more equitably than in-person events, but attendance is typically only 50% of registrations](virtual-training-broader-reach-lower-attendance.md) — related
+- [Student retention in the restructured three-component online physics courses ranges from 85% to 99%, exceeding typical in-person retention levels](online-physics-retention-85-99-percent.md) — related

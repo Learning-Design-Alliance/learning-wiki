@@ -47,6 +47,8 @@ The article recommends that rather than presenting a generic explanation repeate
 - [Selecting Culturally Responsive Texts](selecting_culturally_responsive_texts.md)
 - [Prioritize relevance, concision, and learner-interest alignment in scalable AI instructional video, selectively reintroducing human presence](prioritize-relevance-concision-over-human-likeness.md)
 - [Operationalize abstract ethical frameworks as concrete LLM agent personas with demographic cues and value prioritizations](ethical-framework-persona-operationalization.md)
+- [Use AI-generated resources as a supplement or alternative to learnersourced content, with varied exemplars to stimulate diversity](ai-resources-as-supplement-with-varied-exemplars.md)
+- [Use generative AI to produce analogies and visual storyboards for abstract STEM concepts](generative-ai-analogy-storyboard-strategy.md)
 
 ## Examples
 -

@@ -44,6 +44,7 @@ Based on the identified gaps, the review recommends that "researchers must prior
 - [Design MMLA deployments with fair data representation, multilevel data access, cultivated transparency, and continuous measurable informed consent](fate-informed-mmla-design-strategy.md)
 - [Ground AI integration in higher education on core principles of human agency, academic freedom, transparency, ethics, inclusivity, and critical thinking](core-principles-ai-integration-higher-education.md)
 - [Design multimodal biometric sensing deployments to be minimally intrusive and validated against educational outcomes](minimally-intrusive-biometric-sensing-validation.md)
+- [Use modern open data science tools, increasingly accessible via generative AI, to simplify handling of educational data in blended learning](open-data-science-tools-for-bl-data-management.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Survey analysis of skill C1 (programming at a hello-world level), reported in th
 ## Related Claims
 - [A small set of computational skills — algorithmic problem decomposition, flow control, proactive communication, help-seeking, Googling, and data visualization — are judged necessary by every surveyed computational physicist](unanimously-necessary-cpr-skills-survey.md) — related
 - [Roughly 20% of surveyed physicists wish students arrived with prior training in Unix shell scripting, remote-platform access, and compiling, skills outside many courses' technical reach](prior-training-wished-for-shell-remote-compiling.md) — related
+- [Academic and industrial physicists most frequently name reading code as the skill introductory physics students should acquire, limited to code they have seen before](physicists-value-reading-code-in-intro-physics.md) — related

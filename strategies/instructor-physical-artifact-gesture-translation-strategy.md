@@ -49,6 +49,7 @@ During the oral exam the instructor introduces a durable physical artifact (a sh
 - [Gestures](gestures.md)
 - [Manipulatives](manipulatives.md)
 - [Instructors should attend to student gestures and inquire about early gesture occurrences rather than interrupt with content prompts](attend-to-student-gestures-inquiry-strategy.md)
+- [Provide BVI users a tangible physical reference, such as a transparent plexiglass sheet in front of the screen, to support hand tracking during interactive sonification](plexiglass-physical-support-hand-tracking.md)
 
 ## Examples
 -

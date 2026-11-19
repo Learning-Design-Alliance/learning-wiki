@@ -48,4 +48,4 @@ The QSTC's first instructional activity is a Fiat Lux seminar series, Upending t
 -
 
 ## Key Sources
-- Carbajo, S. (2023). Queered Science & Technology Center: Volume 1. https://arxiv.org/abs/2304.12318
+- Carbajo, S. (2023). Queered Science & Technology Center: Volume 1. https://arxiv.org/abs/2304.12318. [doi:10.48550/arxiv.2304.12318](https://doi.org/10.48550/arxiv.2304.12318)

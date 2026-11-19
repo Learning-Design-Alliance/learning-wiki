@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2012
+source_checked: 2026-11-19
 recheck_by: 2017
 sources:
   - id: benjamin-w-dreyfus-2012
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: baselines and conditions change
+> **Currency** · newest study 2012 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2017**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Wylie's quiz responses and interview responses were consistent with holding two pictures simultaneously, and he recognized an unresolved conflict between them. [→ Benjamin W. Dreyfus 2012](#benjamin-w-dreyfus-2012)

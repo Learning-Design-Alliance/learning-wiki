@@ -74,3 +74,4 @@ Synthesis of acceptance evidence from 8 studies using standardized instruments (
 - [The VR trauma simulation is well accepted by medical students, with good usability, moderate immersion, balanced workload, and high satisfaction and technology acceptance.](vr-trauma-simulation-well-accepted.md) — related
 - [The TV-based home telehealth technology was easy to learn and use, with a mean System Usability Scale score of 94.4](high-usability-tv-based-rehab-technology.md) — related
 - [Medical students report willingness to adopt ALERT STUDENT as a reference study tool](alert-student-adoption-willingness.md) — related
+- [The game condition received a descriptively higher System Usability Scale score than the video condition, with no statistically significant difference](gbl-sus-higher-not-significant.md) — related

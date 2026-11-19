@@ -53,3 +53,4 @@ Narrative review of the mathematical cognition literature, citing LeFevre et al.
 - [Students are less confident in direction of effect judgments for multiplication and division than for addition and subtraction, but equally confident regardless of operand size](confidence-lower-multiplication-division-than-addition-subtraction.md) — related
 - [Arithmetic problem difficulty may increase as the square of the number of steps rather than directly with step count](problem-difficulty-square-of-steps.md) — related
 - [Min-counting becomes increasingly maladaptive as addition problem sizes increase](min-counting-maladaptive-larger-problems.md) — a narrower finding that bears on this claim
+- [LLM mathematical accuracy decreases as the number of digits increases, and varies by operation type](llm-math-accuracy-declines-with-digit-count.md) — a narrower finding that bears on this claim

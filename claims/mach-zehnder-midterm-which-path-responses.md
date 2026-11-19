@@ -47,3 +47,4 @@ Midterm exam question during the first implementation of the modern physics curr
 ## Related Claims
 - [Student responses to double-slit interpretation questions align with the specific interpretation taught by their instructor](student-interpretation-responses-align-with-instructor-explicit-teaching.md) — related
 - [In end-of-term reflective essays, the topics students most frequently cited as having influenced their perspectives on quantum physics were the single-quanta experiments with light and matter.](single-quanta-experiments-most-cited-in-reflective-essays.md) — related
+- [Year 9 students used Einsteinian language to describe photons and waves after the Quantum world module](year-9-quantum-world-ep-language-outcomes.md) — related

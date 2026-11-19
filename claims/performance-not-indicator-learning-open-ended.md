@@ -72,3 +72,4 @@ Theoretical framing: the article adopts impasse-driven theories of learning (pro
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related
 - [Students predominantly evaluated team success as fast gameplay, equating efficiency and victory with good teamwork despite prior instructions](students-equate-team-success-with-speed.md) — related
 - [Although the three learning approaches form a hierarchy of abstraction, there is no clear hierarchy in learning outcome as measured by success](abstraction-hierarchy-no-outcome-hierarchy.md) — related
+- [Normative assessment conflates performance with competence and marginalizes neurodivergent physics students](normative-assessment-conflates-performance-competence.md) — related

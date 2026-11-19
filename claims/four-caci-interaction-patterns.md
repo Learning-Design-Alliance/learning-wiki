@@ -49,3 +49,4 @@ K-means cluster analysis over 264 stage-level observations (132 input, 132 outpu
 - [Input-stage, but not output-stage, interaction patterns are significantly associated with interpreting fluency and target language quality, with Intensive Engagers scoring lowest](input-stage-patterns-predict-quality.md) — related
 - [Interaction patterns show no significant differences in information completeness or temporal speech measures at either stage](no-pattern-difference-infocom-temporal.md) — related
 - [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — related
+- [All clusters in the full ASES network are stable at the 50% bootstrap level, with cluster E least stable and cluster D most stable](full-ases-network-cluster-stability.md) — related

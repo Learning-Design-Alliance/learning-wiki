@@ -67,6 +67,7 @@ Narrative context supports engagement and comprehension by giving abstract conte
 - [Allow students to practise storytelling in their preferred language to support creative expression](preferred-language-storytelling-practice.md)
 - [Collect qualitative formative data and map likely conversation paths before developing AI-powered VSP prompts](formative-qualitative-mapping-before-ai-vsp-prompts.md)
 - [Choose-your-own-adventure storytelling templates for training differential diagnosis](cyoa-storytelling-differential-diagnosis-strategy.md)
+- [Use 'maths-free' interactive Visual Stories with guiding narratives to engage general public audiences with complex mathematical models](visual-stories-maths-free-outreach.md)
 
 ## Examples
 - **[Twine](https://twinery.org)** — open-source branching narrative tool widely used in classrooms; students author hypertext stories with no coding required.

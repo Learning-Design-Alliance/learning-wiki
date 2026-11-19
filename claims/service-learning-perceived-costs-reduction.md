@@ -53,3 +53,4 @@ In the same matched pre–post sample (n = 77), repeated-measures ANOVA showed t
 - [Dental students' self-reported norms regarding community service rose slightly from pre-test to post-test after service-learning participation, in one single-group pre-post study](service-learning-norms-increase-small-effect.md) — related
 - [Service-learning participation is associated with a large increase in dental students' empathy toward community service](service-learning-empathy-increase-dental-students.md) — related
 - [Attitudinal changes after service-learning did not differ significantly by sex or prior community service experience](attitude-change-no-sex-or-experience-differences.md) — related
+- [URG students in the intervention group showed a reduction in perceived cost of the STEM activity](sport-c-urg-cost-reduction.md) — related

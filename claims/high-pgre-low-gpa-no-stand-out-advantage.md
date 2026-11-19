@@ -48,3 +48,5 @@ Probability-of-admission analysis of 2537 domestic applicants to five physics de
 - [Admissions predictions show a rough physics GRE cutoff around 700 that high GPA can partially compensate below](rough-physics-gre-cutoff-700-gpa-compensation.md) — related
 - [No moderation effects were found: the physics GRE score does not change the relationship between GPA and admission, and no demographic moderation effects were detected](no-moderation-of-gpa-admission-by-pgre.md) — possibly the same claim (merge candidate)
 - [More applicants could be penalized by a low physics GRE score despite a high GPA than could benefit from a high score despite a low GPA](more-penalized-than-benefit-pgre.md) — related
+- [Kolmogorov-Smirnov tests on whole distributions of UGPA and GRE scores did not detect a change in the admitted applicant populations](ks-test-missed-admissions-distribution-change.md) — related
+- [A rubric-based physics graduate admissions system admitted significantly more applicants with low UGPA and GRE scores than the prior system](rubric-admissions-increased-low-scorer-admits.md) — reports the opposite

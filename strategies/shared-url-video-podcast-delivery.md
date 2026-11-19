@@ -46,6 +46,7 @@ The study used a delivery approach in which video files were uploaded to a websi
 ## Related Strategies
 
 - [Podcast Based Learning](podcast-based-learning.md)
+- [Share and embed interactive simulations via auto-generated URLs, embedded webpage fragments, or forked open-source code for course materials](visualpde-share-simulations-via-url.md)
 
 ## Examples
 -

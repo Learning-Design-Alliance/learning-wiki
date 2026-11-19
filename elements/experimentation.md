@@ -13,7 +13,7 @@ generated:
 # Experimentation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 22 claims (11 for, 9 mixed, 2 against) · 31 studies (14 causal, 9 quant-synthesis, 3 theoretical, 2 review, 2 associational, 1 qualitative), `q1`–`q4` · 11 of 31 report an effect size · 16 claims rest on one study
+> **Evidence** · 23 claims (12 for, 9 mixed, 2 against) · 32 studies (14 causal, 9 quant-synthesis, 3 theoretical, 2 review, 2 associational, 2 qualitative), `q1`–`q4` · 11 of 32 report an effect size · 17 claims rest on one study
 
 ## Description
 Experimentation asks learners to pose a question or prediction, systematically vary conditions, observe outcomes, and revise their understanding based on evidence. It functions as both a learning activity and a model of scientific reasoning: the learner generates a hypothesis, gathers data, and confronts discrepancies between expectation and result.
@@ -68,6 +68,7 @@ Experimentation supports learning by making learners active generators and teste
 - [High prior reasoning students outperform low reasoning students in generating questions, identifying variables, and making hypotheses](../claims/high-reasoning-outperforms-inquiry-steps.md) [~W]
 - [All students improved experimental design knowledge after simulation exposure (main effect of time)](../claims/vct-knowledge-main-effect-of-time.md) [+W]
 - [Students in traditional and experiment conditions outperform tablet condition on transfer questions about fog formation](../claims/transfer-fog-traditional-experiment-outperform-tablet.md) [+W]
+- [At least ten students reported learning about quantum concepts from working with the single-photon experiments](../claims/conceptual-learning-self-reported-single-photon.md) [+W] — attached 2026-11-19 from Borish et al. (2023), which proposed "Single-photon quantum optics experiments used in undergraduate instructional labs".
 
 ## The evidence by question
 - *Does adding guidance to inquiry improve what learners learn, and does the kind of guidance matter?* [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](../claims/guidance-improves-inquiry-learning-outcomes.md) [+M]

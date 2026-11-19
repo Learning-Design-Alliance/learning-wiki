@@ -53,3 +53,4 @@ Qualitative coding of the 38 interviews identified this subtheme in 17 of 38 stu
 - [Interviews with 70 undergraduates suggest that negative perceived recognition from instructors/TAs deteriorated women's physics self-efficacy and interest](instructor-recognition-interviews-self-efficacy-interest.md) — related
 - [Perceived condescension from male professors activated stereotype threat for a woman physics major, reducing her sense of belonging and discouraging her from asking questions](condescension-stereotype-threat-disengagement.md) — related
 - [Some female physics students reported instructors and advisors underestimating their abilities and potential](underestimated-abilities-potential.md) — related
+- [Exam culture with failing class averages and curving left physics majors feeling discouraged regardless of final grade](failing-exam-averages-discourage-physics-students.md) — related

@@ -60,6 +60,7 @@ The brief recommends that districts address AI literacy gaps through comprehensi
 - [Phased implementation roadmap for departments adopting GenAI personalization](phased-genai-adoption-roadmap.md)
 - [Convene a stakeholder task force to use contradictory findings in future program design and implementation](stakeholder-task-force-contradictory-findings.md)
 - [Develop statutory e-Learning guidelines through multi-stakeholder policy dialogues and build staff capacity in e-Learning content development before scaling up](statutory-elearning-guidelines-policy-dialogue-strategy.md)
+- [Foster collaboration among stakeholders to develop strategies for responsible and ethical use of generative AI in education](stakeholder-collaboration-responsible-ai-education.md)
 
 ## Examples
 -

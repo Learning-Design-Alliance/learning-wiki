@@ -65,3 +65,4 @@ Authors' report of participant sentiment in the discussion and conclusions: self
 
 ## Related Claims
 - [Junior and senior computational physicists discussed skill needs differently, with junior interviewees grounding talk in particular projects and not raising computational thinking](generational-divide-computational-skill-perceptions.md) — related
+- [Physicists describe limiting factors for teaching computation in introductory physics, including curricular overhaul, lack of space, and student rejection](limitations-teaching-computation-intro-physics.md) — related

@@ -50,3 +50,4 @@ Attendance for randomly selected tutorial sessions in 21/22 and 22/23 was collec
 - [Introducing case-study-focused PBL unit design improved student feedback ratings, with gains in 2021/22 maintained or further improved in 2022/23](pbl-redesign-improved-blood-science-feedback.md) — a broader claim this one bears on
 - [Redesigned case study tutorials and practical classes received substantially more positive student feedback, including a 25% increase for tutorials and roughly 35% for practicals](case-study-tutorials-practicals-feedback-gains.md) — related
 - [Engagement with interactive H5P online activities was low relative to formative MCQs, with 30% completion of case study activities and 65% of weekly MCQs in 22/23](h5p-online-engagement-lower-than-mcqs.md) — related
+- [Choice-based problem-solving attendance shows no considerable effect on overall student performance compared to mandatory attendance](choice-based-attendance-no-performance-effect.md) — related

@@ -46,6 +46,7 @@ The article's forward-looking plan for the next KT1 course: a written examinatio
 - [Redesign assessment toward supervised, oral, process-based and authentic formats to verify students' own reasoning under GenAI](supervised-oral-process-based-assessment-redesign-genai.md)
 - [Design advanced-physics tutorial activities that focus on concepts, scaffold problem difficulty, and allow generous completion time](advanced-tutorial-design-guidelines.md)
 - [Let students sketch a voluntary research proposal in small groups and present it for bonus exam points](voluntary-research-proposal-sketch-bonus-points.md)
+- [Adapt the grading system to rate explanation quality and detected errors, exchanging two unassisted problems for four worked examples](grade-worked-example-explanations-and-error-detection.md)
 
 ## Examples
 -

@@ -53,6 +53,7 @@ Based on the Delphi findings and persona reflections, the article recommends act
 - [Engage the AI in Education community actively with the public and key stakeholders to mitigate the in-credible AI effect](aied-public-engagement-strategy.md)
 - [Multi-stakeholder strategies for managing children's screen time](screen-time-management-strategies-children.md)
 - [Validate predictions within an intervention pipeline and include downstream policy recommendations](validate-predictions-intervention-pipeline.md)
+- [Foster collaboration among stakeholders to develop strategies for responsible and ethical use of generative AI in education](stakeholder-collaboration-responsible-ai-education.md)
 
 ## Examples
 -

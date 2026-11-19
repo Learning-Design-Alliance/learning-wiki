@@ -96,3 +96,4 @@ Same thematic analysis of open-ended responses: constraints included needing mor
 - [Within videos, students concentrated access and pauses on concrete, assignment-required content (actions, formulas, problem-solving techniques) and engaged less with conceptual or epistemological sections](students-focus-on-concrete-assignment-content-in-videos.md) — related
 - [Students perceived the mathcast videos as more understandable and helpful as the semester progressed](mathcast-perceived-helpfulness-increased.md) — related
 - [Technology-enhanced pre-instructional peer assessment helps students prepare for new content acquisition in the following lesson, per students' perceptions](pre-instructional-peer-assessment-prepares-content-acquisition.md) — related
+- [In an example flipped assignment, four students produced 40 comments, 5 questions, and maximum-score completion over an average reading time of 2.5 hours](mdt-2022-assignment-formative-data-example.md) — related

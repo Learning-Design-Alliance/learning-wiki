@@ -56,3 +56,4 @@ Intersectional comparison of belonging codes among majors by race and gender, an
 - [Women rejected by an employer are 1.5 times less likely than men to apply to another job opening by the same employer](women-rejection-reapplication-gap.md) — related
 - [Software-matched students from underrepresented gender and racial groups reported group experiences comparable to majority-group students](comparable-group-experiences-across-demographics.md) — related
 - [Societal stereotypes, strongest in physics, contribute to lower sense of belonging for women and ERM students in physics](stereotypes-lower-belonging-women-erm-physics.md) — a narrower finding that bears on this claim
+- [Living at the intersection of multiple underrepresented identities compounded physics majors' lack of belonging](intersectional-uris-compound-lack-of-belonging.md) — related

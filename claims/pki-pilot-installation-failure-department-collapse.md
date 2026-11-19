@@ -48,3 +48,4 @@ Observational usage statistics from the live pilot in two departments and the Ex
 ## Related Claims
 - [Half of the pilot's users forgot the password protecting their private key between installation and actual use](half-of-users-forgot-pki-passwords.md) — related
 - [The university's network and email infrastructure was unreliable enough to disrupt a time-critical process, with components unavailable for nearly 3 weeks](network-infrastructure-inadequate-for-time-critical-systems.md) — related
+- [Outdated legacy test firmware forced students to reconstruct an old software environment (Altium 2009 on Windows 7) to complete board testing](legacy-firmware-testing-burden.md) — related

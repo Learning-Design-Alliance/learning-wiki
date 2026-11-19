@@ -49,6 +49,7 @@ The article structures collaboration loosely in two ways: instructions prompting
 
 - [Self Explanation Prompts](self-explanation-prompts.md)
 - [Worked Example Routine](worked_example_routine.md)
+- [Adapt the grading system to rate explanation quality and detected errors, exchanging two unassisted problems for four worked examples](grade-worked-example-explanations-and-error-detection.md)
 
 ## Examples
 -

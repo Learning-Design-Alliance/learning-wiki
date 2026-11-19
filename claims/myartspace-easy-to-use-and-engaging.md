@@ -70,3 +70,4 @@ Focus group reports from students in the final trial. The article notes students
 - [Collecting with Myartspace prompted collaborative and competitive negotiation among students about what to collect](collecting-prompts-negotiation-and-competition.md) — related
 - [Two-dimensioned artistic activities were the most creative and most enjoyed part of the museum education program, letting students express feelings and thoughts](artistic-activities-most-creative-enjoyed.md) — related
 - [Students articulated a strong preference for iPad work over traditional physics work and initiated out-of-class physics activity](ipad-work-preferred-over-traditional-physics-work.md) — related
+- [Post-survey: the large majority of students found the Python introduction feasible or easy, and none chose 'Very difficult'](python-introduction-feasibility-post-survey.md) — related

@@ -56,3 +56,4 @@ Survey of participating teachers (Figure 2 reports n=49) in the five-district Ch
 - [Participants in the e-learning group were more likely to recommend the learning method to a colleague than video-group participants](elearning-higher-recommendation-likelihood.md) — related
 - [Participants rated GBL positively: most would recommend it, found it enjoyable, and believed it improves test interpretation](gbl-positive-perceptions.md) — related
 - [Teachers evaluated the e-learning resource's utility very positively, with 97% reporting they would recommend it to others](elearning-resource-utility-rated-positively.md) — related
+- [The online micro-credential course produced high self-assessed confidence to run Einstein-First activities and modules among its five respondents](mc2-online-course-high-confidence.md) — related

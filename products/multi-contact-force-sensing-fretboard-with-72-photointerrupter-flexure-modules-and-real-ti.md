@@ -27,4 +27,4 @@ A Ren et al. prototype combining an instrumented guitar fretboard with a real-ti
 -
 
 ## Key Sources
-- Ren, Z., Hsu, C.-C., Kocabalkanli, C., Nguyen, K., Iordachita, I. I., Bastepe-Gray, S., Scott, N. (2023). Multi-Contact Force-Sensing Guitar for Training and Therapy. https://arxiv.org/abs/2304.06521
+- Ren, Z., Hsu, C.-C., Kocabalkanli, C., Nguyen, K., Iordachita, I. I., Bastepe-Gray, S., Scott, N. (2023). Multi-Contact Force-Sensing Guitar for Training and Therapy. https://arxiv.org/abs/2304.06521. [doi:10.48550/arxiv.2304.06521](https://doi.org/10.48550/arxiv.2304.06521)

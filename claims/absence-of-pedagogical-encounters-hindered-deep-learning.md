@@ -49,3 +49,4 @@ In the interview analysis, students expressed that knowledge must be formed duri
 - [Students reported that the flipped classroom with clinical scenarios helped them remember material longer and achieve deeper understanding of basic and clinical science concepts](flipped-scenario-deeper-understanding-student-report.md) — related
 - [Teachers attribute students' lack of pronunciation progress mainly to instruction and practice factors rather than learner factors](teachers-blame-instruction-over-learners-for-progress.md) — related
 - [By the end of the teaching interview, all students articulated a conceptual progression from a presence/absence perspective to a 'more or less' approach and expressed intellectual satisfaction](conceptual-progression-and-intellectual-satisfaction.md) — related
+- [Most physics majors believed professors' pedagogical choices hindered their learning](pedagogical-choices-hinder-physics-learning.md) — related

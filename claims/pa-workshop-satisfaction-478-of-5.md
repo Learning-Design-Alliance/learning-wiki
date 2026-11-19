@@ -59,3 +59,5 @@ End-of-workshop self-reported satisfaction survey administered across the 41 wor
 - [Students rated the lidyef2018 program highly on a 5-point evaluation survey, with an overall score of 4.09±0.77](lidyef2018-evaluation-survey-4-09.md) — related
 - [Participants report high satisfaction with the workshop, with all statement means above 4.5 except workload adequacy](quantum-workshop-high-satisfaction-ratings.md) — related
 - [A two-day accelerator workshop in which students join an ongoing francium beam experiment motivated participants' interest in accelerator physics and radiation, by the authors' account and participant feedback](accel-kitchen-motivates-interest-accelerator-physics.md) — related
+- [Students rate the project component of the sustainable physics course very positively](high-student-ratings-project-component.md) — related
+- [Undergraduate students rated the two-day forest physics exercise highly, averaging 6.1 on a 1–7 enjoyment scale](positive-student-feedback-forest-physics-exercise.md) — related

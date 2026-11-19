@@ -54,3 +54,4 @@ Quasi-experimental comparison of final exam grades across five course terms (Ind
 - [Learners in geographically distributed small-group video discussions earn higher assessment scores](geographically-distributed-groups-higher-scores.md) — related
 - [The participant group outperformed the comparison group on final exams by 6–8% and achieved more A and B course grades](participant-group-outperformed-comparison-group.md) — related
 - [Student ARS performance differed across courses: biology students averaged 89.3% correct while engineering students averaged 58.5% on initial responses, with peer instruction raising averages to 80.0%](ars-performance-biology-versus-engineering.md) — related
+- [In the authors' third-year mathematical biology course, initial informal student feedback suggests VisualPDE significantly enhanced students' understanding of course topics](visualpde-informal-feedback-enhanced-understanding.md) — a narrower finding that bears on this claim

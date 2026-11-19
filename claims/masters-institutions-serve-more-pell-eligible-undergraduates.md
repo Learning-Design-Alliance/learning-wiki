@@ -51,3 +51,6 @@ Analysis combining AIP department rosters (190 Ph.D.-highest and 55 MS-highest s
 - [PUIs and other non-Ph.D.-granting institutions host the majority of US post-secondary educational opportunity](puis-majority-postsecondary-opportunity.md) — a broader claim this one bears on
 - [Students who complete a master's degree at a different institution before a Ph.D. take about 2 years longer in graduate school than students entering a Ph.D. program directly](terminal-masters-different-school-two-years-longer-to-phd.md) — related
 - [Students from higher-income high school communities take longer to graduate](higher-income-high-school-longer-graduation.md) — related
+- [Minority-serving status does not significantly predict QIS course availability once other factors are controlled, but correlates strongly with Pell grant share](msi-status-not-significant-predictor-qis-courses.md) — related
+- [Institutions with a high percentage of Pell grant recipients offer significantly fewer QIS courses](pell-grant-institutions-fewer-qis-courses.md) — related
+- [QIS education programs appear rarer in rural states and at institutions serving higher populations of low-income students](qis-programs-rarer-in-rural-states.md) — related

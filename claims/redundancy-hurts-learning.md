@@ -147,3 +147,4 @@ A meta-analysis of 57 independent effect sizes from 33 experimental reports, mos
 - [No modality or redundancy effects on knowledge gain (retention or transfer, short or long term) were found in children with or without dyslexia in a user-paced multimedia environment](no-modality-redundancy-knowledge-gain-dyslexia.md) — a narrower finding that bears on this claim
 - [Adding redundant onscreen text shifts visual attention from animation to text, and higher-germane-load students dwell longer on the animation](dwell-time-on-animation-sensitive-to-ecl-and-gcl.md) — related
 - [Redundant onscreen text (high extraneous load) lengthens secondary-task response time during multimedia learning](redundancy-lengthens-secondary-task-response-time.md) — a narrower finding that bears on this claim
+- [Cognitive Load Theory effects constrain the design of multiple external representations in QIST teaching](clt-effects-constrain-mer-design-qist.md) — reports the opposite

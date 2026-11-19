@@ -46,6 +46,7 @@ To make the inclined shower front tangible, students cut wooden dowels (e.g. sup
 
 - [Equip every student with a hands-on pendulum by building apparatus from low-cost surplus computer mice](low-cost-mouse-pendulum-per-student-equipment-strategy.md)
 - [Makerspaces](makerspaces.md)
+- [Provide BVI users a tangible physical reference, such as a transparent plexiglass sheet in front of the screen, to support hand tracking during interactive sonification](plexiglass-physical-support-hand-tracking.md)
 
 ## Examples
 -

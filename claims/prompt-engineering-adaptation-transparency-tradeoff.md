@@ -55,3 +55,4 @@ Theoretical design argument from the paper's discussion section (§9.2), not an 
 - [Only two EduBehaviors configurations reach macro-F1 comparable to the fine-tuned RoBERTa encoder (0.76) trained on expert-labelled TalkMoves data](edubehaviors-underperforms-finetuned-encoder.md) — related
 - [A 4-bit quantized 27B local Teacher LLM generated knowledge in the required format, suggesting accessible-resource implementations may be feasible](quantized-local-teacher-llm-feasible.md) — a narrower finding that bears on this claim
 - [Delimiting Untrusted Learner Text Largely Blocked Authority-Claim Injection on One Model](delimiting-untrusted-learner-text-defeats-authority-claim-injection.md) — related
+- [The best-scoring prompt-engineered approaches did not match the fine-tuned models on emotion detection and Gibbs cycle tasks](papagai-finetuned-outperforms-gpt3-davinci.md) — related

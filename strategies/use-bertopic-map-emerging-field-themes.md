@@ -44,6 +44,7 @@ The article demonstrates using BERTopic — "a transformer-based topic modeling 
 ## Related Strategies
 
 - [Educational Research Map Visualization](educational_research_map_visualization.md)
+- [Use topic modeling of student project corpora to inform context-specific resources supporting open inquiry](topic-modeling-to-design-open-inquiry-resources.md)
 
 ## Examples
 -

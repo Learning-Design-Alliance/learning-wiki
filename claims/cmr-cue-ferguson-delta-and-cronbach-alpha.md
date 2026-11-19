@@ -69,3 +69,4 @@ Internal-consistency analysis using Cronbach's Alpha as a conservative measure, 
 - [CU's upper-division assessments meet standard Classical Test Theory validation criteria, with overall scores of 45-55% enabling discrimination](cu-assessments-ctt-validation-statistics.md) — a broader claim this one bears on
 - [The E-CLASS shows strong whole-test discrimination, adequate item discrimination, and acceptable internal consistency](eclass-discrimination-internal-consistency.md) — related
 - [PLIC scores are unrelated to completion time and the instrument discriminates students well](plic-time-and-discrimination.md) — related
+- [Classical test theory validation of SPRUCE showed evidence of validity and reliability at the couplet, AO, and whole-assessment levels](spruce-ctt-validation-couplet-ao-assessment-levels.md) — related

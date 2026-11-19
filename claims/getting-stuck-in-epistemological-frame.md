@@ -57,3 +57,4 @@ Recap of three previously reported observational examples: novices using recursi
 - [Even high-performing students may master calculation techniques without knowing what they are for (author's observation)](calculation-skill-without-application-asian-paradox.md) — related
 - [Long program timescale lets students get stuck and teaches patience and perseverance, and supports mentor development](srmp-long-timescale-benefit.md) — related
 - [Novice physics students seldom shift epistemological frames during assessment, with most beginning problems in an Algorithmic Physics frame](students-seldom-shift-frames-assessment.md) — related
+- [Students' belief that they only need to get answers in a science class often blocks building an appropriate story](answer-focus-blocks-story-building.md) — related

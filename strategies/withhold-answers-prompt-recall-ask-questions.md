@@ -52,6 +52,7 @@ A concrete implementable recipe drawn from what students themselves requested an
 - [Transplant ITS insights such as hint timing and solution review into regulative CSCL design](transplant-its-insights-to-cscl.md)
 - [Design for productive struggle: default to solution withholding and laddered hints with reflection between levels](design-for-productive-struggle-genai.md)
 - [Never distribute worked solutions to activity worksheets; offer select answers instead](no-worksheet-solutions-strategy.md)
+- [Use a Socratic-type prompting script that asks the AI to provoke reflection rather than deliver ready-made answers](socratic-agent-to-think-with-prompting-strategy.md)
 
 ## Examples
 -

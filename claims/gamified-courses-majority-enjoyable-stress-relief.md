@@ -74,3 +74,4 @@ Qualitative open-ended survey commentary: students reported the gaming elements 
 - [A large majority of students perceived the gamified review activities as useful, motivating, and enjoyable](students-perceive-gamification-useful-motivating-enjoyable.md) — related
 - [Variety of gamified TP interactions ranked in the top three for both engagement and learning, with 91% finding the variety engaging.](variety-of-tp-interactions-top-rated.md) — related
 - [A large majority of students in both transformed semesters rated the course aspects as useful or very useful for their learning](transformed-em-ii-student-approval.md) — related
+- [During a first middle-school test of Edukoi, classes maintained high attention and reported enjoyment, but found counting stars by sound very difficult.](edukoi-classroom-test-qualitative-feedback.md) — related

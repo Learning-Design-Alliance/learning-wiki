@@ -52,6 +52,7 @@ The article recommends that instructors notice students' spontaneous gestures an
 - [Use kinesthetic explorations and body-intuition prompts to help students develop intuition for acceleration](kinesthetic-explorations-acceleration-intuition.md)
 - [Ask teachers why a student might give an answer rather than what is wrong with it, to focus attention on the student's construction of ideas](ask-why-might-student-give-answer.md)
 - [Instructor-provided physical artifacts plus gesture prompts to help students translate between representations](instructor-physical-artifact-gesture-translation-strategy.md)
+- [Engage physics students through embodied movement and multisensory representations](embodied-multisensory-physics-engagement-strategy.md)
 
 ## Examples
 -

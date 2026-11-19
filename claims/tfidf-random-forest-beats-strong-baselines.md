@@ -55,3 +55,4 @@ Comparative evaluation of baselines on the two question datasets with five-fold 
 - [Random forest algorithms yielded the best classification performance in K–8 MMLA studies comparing multiple machine learning models](mmla-k8-random-forest-best-performance.md) — a broader claim this one bears on
 - [A random forest classified flagged versus non-flagged word problems with the best accuracy of five tested models (AUC = 0.75)](random-forest-best-auc-flagged-problems.md) — related
 - [On the TU/e CS overlap dataset, supervised NLP classifiers (Random Forest, XGBoost) outperform thresholding and zero-shot LLM baselines at detecting course overlap](rf-xgboost-beat-thresholds-and-llms-on-course-overlap.md) — related
+- [A LightGBM model with knowledge-driven rule-based features outperforms fine-tuned BERT and an Attention-CNN baseline for hedge detection in peer-tutoring conversation](lightgbm-knowledge-driven-features-beat-bert-hedge-detection.md) — related

@@ -27,4 +27,4 @@ A five-variable space-training simulator fidelity standard introduced by Kent et
 -
 
 ## Key Sources
-- Kent, Evelyn; Gabriel, Jason; Gunn-Golkin, Anna; Langdon, Charles; Nayak, Michael; Remeta, Emily; Willett, Michelle. (2022). How to Train Your Space Tester, Part 2: Enabling Capabilities.
+- Kent, Evelyn; Gabriel, Jason; Gunn-Golkin, Anna; Langdon, Charles; Nayak, Michael; Remeta, Emily; Willett, Michelle. (2022). How to Train Your Space Tester, Part 2: Enabling Capabilities. [doi:10.48550/arxiv.2211.09976](https://doi.org/10.48550/arxiv.2211.09976)

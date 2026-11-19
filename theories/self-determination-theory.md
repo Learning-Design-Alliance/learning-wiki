@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 158 claims (118 for, 37 mixed, 3 against) · 109 studies (48 associational, 21 causal, 13 review, 9 quant-synthesis, 8 qualitative, 6 theoretical, 4 design), `q1`–`q4` · 28 of 109 report an effect size · 152 claims rest on one study
+> **Evidence** · 160 claims (120 for, 37 mixed, 3 against) · 110 studies (48 associational, 21 causal, 13 review, 9 quant-synthesis, 9 qualitative, 6 theoretical, 4 design), `q1`–`q4` · 28 of 110 report an effect size · 154 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -214,6 +214,8 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Interview data from research-participating physics students contained three distinct motivations for doing research, aligned with SDT's autonomy, competence, and relatedness dimensions](../claims/three-research-motivations-sdt-alignment.md) [+W] — attached 2026-11-18 from Tra Huynh et al. (2019), which proposed "Self-Determination Theory characterizing research motivation along autonomy, competence, and relatedness".
 - [Anonymous peer review supports students' perceived autonomy, including empowerment, own decision-making and reflection on their work](../claims/anonymous-peer-review-perceived-autonomy.md) [+W] — attached 2026-11-19 from Petersen et al. (2021), which proposed "Self-determination theory as a research model for students' engagement in anonymous peer review".
 - [Anonymous peer review supports perceived relatedness: students learned from peers' perspectives, but distrust of peer markers and uneven participation undermined it](../claims/anonymous-peer-review-perceived-relatedness.md) [~W] — attached 2026-11-19 from Petersen et al. (2021), which proposed "Self-determination theory as a research model for students' engagement in anonymous peer review".
+- [The self-reflective facilitator persona needs competence support: a centralized resource hub and science communication training](../claims/kyle-self-reflective-facilitator-needs.md) [+W] — attached 2026-11-19 from Shams El-Adawy et al. (2023), which proposed "Self-Determination Theory applied to informal physics practitioners' motivation".
+- [The sparking interest and understanding facilitator persona needs community building to bridge gaps between physicists and science communication professionals](../claims/rory-community-building-needs.md) [+W] — attached 2026-11-19 from Shams El-Adawy et al. (2023), which proposed "Self-Determination Theory applied to informal physics practitioners' motivation".
 
 ## The evidence by question
 

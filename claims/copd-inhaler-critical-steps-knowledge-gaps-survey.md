@@ -54,3 +54,4 @@ Descriptive cross-sectional survey of 554 Spanish health professionals conducted
 - [Professionals rank previous experience, severity and patient preference as the main criteria for choosing a COPD inhaler](inhaler-selection-criteria-experience-severity-preference.md) — related
 - [Only 28% of IHCPs knew dry cord care is best practice, and 51% would apply antibiotic powder to the umbilical cord](ihcp-cord-care-antibiotic-powder-misconception.md) — related
 - [GPs frequently choose incorrect corticosteroid treatment for COPD, omitting oral steroids in exacerbations and over-selecting ICS in maintenance therapy](gp-incorrect-corticosteroid-choices-copd.md) — related
+- [Incorrect inhalation technique is related to uncontrolled asthma symptoms, and most healthcare professionals cannot educate patients in correct technique](incorrect-inhalation-uncontrolled-symptoms.md) — related

@@ -46,6 +46,7 @@ In the Future Directions section the author recommends refinements informed by t
 
 - [Development strategies targeting AI virtual patient limitations: expert-reviewed content, iterative prompt engineering, behavioral rules, few-shot prompting, and conversational memory](ai-virtual-patient-mitigation-strategies.md)
 - [Use detailed, structured prompts specifying question type, case details, distractors, explanation, source, and difficulty level](structured-nine-component-mcq-prompt.md)
+- [Optimize LLM hint quality through prompt engineering, model fine-tuning, and correlation mining of hint properties](optimize-llm-hints-prompt-engineering-finetuning.md)
 
 ## Examples
 -

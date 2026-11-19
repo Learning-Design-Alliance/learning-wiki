@@ -50,3 +50,4 @@ Descriptive frequency-percentage analysis of pre-test open-ended SUSSI responses
 - [After the story-structured lesson, students' prevention ideas shifted from law enforcement and punishment toward consent and limiting alcohol](story-lesson-shifted-prevention-attitudes-toward-consent-alcohol.md) — related
 - [Pre-service teachers show a marked drop in pedagogical responses and a shift toward authoritative responses from pre- to post-instruction](niaq-preservice-pedagogical-drop.md) — related
 - [Treatment-group CLASS item responses shifted between pre-test and post-test, with some items moving toward novice-like response classifications](class-item-shifts-toward-novice-views.md) — related
+- [Pre- and post-exercise surveys of two six-student teams gauged shifts in students' awareness of open-source science and open hardware](student-teams-osh-awareness-surveys.md) — related

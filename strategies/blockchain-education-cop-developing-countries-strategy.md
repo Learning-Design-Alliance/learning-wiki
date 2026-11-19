@@ -46,4 +46,4 @@ The chapter recommends a community-of-practice model for developing countries, m
 -
 
 ## Key Sources
-- Islam, M. A. (2022). Blockchain Technology: A tool to solve the challenges of education sector in developing countries. Oxford Brookes University. https://arxiv.org/abs/2211.11562
+- Islam, M. A. (2022). Blockchain Technology: A tool to solve the challenges of education sector in developing countries. Oxford Brookes University. https://arxiv.org/abs/2211.11562. [doi:10.48550/arxiv.2211.11562](https://doi.org/10.48550/arxiv.2211.11562)

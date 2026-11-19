@@ -53,6 +53,7 @@ The authors propose an instructional objective "for students to use the appropri
 ## Related Strategies
 
 - [Scaffold students toward meta-reasoning about when classical intuitions apply to quantum systems, building on what some students do spontaneously](scaffold-meta-reasoning-classical-quantum-boundary.md)
+- [Quantum mechanics instruction should explicitly address experimental limitations in quantum measurement as distinct from uncertainty arising from quantum principles](quantum-instruction-limitations-versus-principles-uncertainty.md)
 
 ## Examples
 -

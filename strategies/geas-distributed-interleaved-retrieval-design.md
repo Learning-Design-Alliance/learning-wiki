@@ -51,6 +51,7 @@ The library implements learning-science techniques by distributing rather than m
 - [Spaced Scheduling](spaced-scheduling.md)
 - [Cumulative Review Quizzes](cumulative-review-quizzes.md)
 - [Reserve a large enough block of problem-solving practice (about four weeks rather than two) at the end of a concepts-first course](four-week-problem-solving-block-strategy.md)
+- [Use a wide range of instructional techniques—lectures, animations, readings, problem solving, discussion, and essays—over a multi-week online program](multi-technique-quantum-teacher-program-strategy.md)
 
 ## Examples
 -

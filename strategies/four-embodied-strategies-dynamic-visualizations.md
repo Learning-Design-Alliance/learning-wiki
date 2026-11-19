@@ -56,6 +56,7 @@ The article proposes four strategies for making learning from animations more ef
 - [Gestures](gestures.md)
 - [Use Body Language and Demonstrations](use_body_language_and_demonstrations.md)
 - [Encourage learners to make movements during learning as an instructional implication](encourage-learner-movements-during-learning.md)
+- [Engage physics students through embodied movement and multisensory representations](embodied-multisensory-physics-engagement-strategy.md)
 
 ## Examples
 -

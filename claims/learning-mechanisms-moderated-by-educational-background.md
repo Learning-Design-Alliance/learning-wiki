@@ -71,3 +71,4 @@ Comparing STEM vs. non-STEM students within the expository condition, effect siz
 - [Narrative instruction leads to higher germane cognitive load and self-efficacy, and lower extraneous cognitive load, than expository instruction](narrative-instruction-learning-mechanisms-cognitive-load-self-efficacy.md) — related
 - [Background knowledge has a greater impact on comprehension of expository texts than narrative texts for primary children](knowledge-impact-greater-expository-narrative.md) — related
 - [Text cohesion interacts with background knowledge: low-knowledge readers benefit from high cohesion, high-knowledge readers from low cohesion (reverse cohesion effect)](reverse-cohesion-effect-background-knowledge.md) — related
+- [Disciplinary background moderates ChatGPT effects on engagement: non-STEM students were more engaged without ChatGPT, STEM students showed no difference](chatgpt-discipline-interaction-engagement.md) — related

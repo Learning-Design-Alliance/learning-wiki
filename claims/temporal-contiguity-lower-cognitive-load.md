@@ -65,3 +65,4 @@ Narrative review attribution covering two studies: Chang et al. (2011) on split-
 - [Temporal contiguity of simultaneous visual, spoken, and signed events may be unfavorable for DHH students](dhh-temporal-contiguity-unfavorable.md) — reports the opposite
 - [Students perceived AI as helping their text comprehension in Greek language class](students-perceived-ai-text-comprehension-help.md) — related
 - [Students perceive the greatest benefits of recorded lectures as multi-resource integration and improved understanding, with technology problems as chief drawbacks](perceived-benefits-and-drawbacks-of-recordings.md) — related
+- [Cognitive Load Theory effects constrain the design of multiple external representations in QIST teaching](clt-effects-constrain-mer-design-qist.md) — related

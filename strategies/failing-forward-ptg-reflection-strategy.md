@@ -48,6 +48,7 @@ The article recommends a concrete recipe for building resilience: normalize cons
 - [Building a Supportive Classroom Environment for Mistakes](building_a_supportive_classroom_environment_for_mistakes.md)
 - [Embracing Errors as Learning](embracing_errors_as_learning.md)
 - [Embrace Errors as Learning Opportunities](embrace_errors_as_learning_opportunities.md)
+- [Normalize mistakes by instructors modeling error, saying I don't know, and inviting questions](normalize-mistakes-model-error.md)
 
 ## Examples
 -

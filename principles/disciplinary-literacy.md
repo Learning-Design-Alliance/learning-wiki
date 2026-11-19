@@ -19,7 +19,7 @@ sources:
 # Disciplinary Literacy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (11 for, 9 mixed) · 31 studies (14 causal, 6 review, 5 theoretical, 3 quant-synthesis, 2 qualitative, 1 design), `q1`–`q4` · 6 of 31 report an effect size · 13 claims rest on one study
+> **Evidence** · 21 claims (12 for, 9 mixed) · 32 studies (14 causal, 6 review, 5 theoretical, 3 quant-synthesis, 2 qualitative, 2 design), `q1`–`q4` · 6 of 32 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 
@@ -127,6 +127,7 @@ Claims the earlier page cited that bear only partly on the model:
 - [Use a strategy for imagining the past built on two sets of guiding questions](../strategies/strategy-imagining-past-two-question-sets.md) — a strategy page from the folded imagination page, not a claim; the old page marked it [+M], but it cites no claim. Used as the question card in the default design.
 - [Ninth graders in a five-week symbolism module increased their participation and facility with literary interpretation practices](../claims/symbolism-module-increased-interpretive-participation.md) [+W] — attached 2026-10-18 from Teresa Sosa et al. (2015), which proposed "Treat symbolic interpretation as a starting point, expecting interpretive facility to require effort over longer periods"; tests this page's relationship.
 - [A typical IPLS exam problem can be physically authentic yet not biologically authentic, because it does not require using physics tools for biological ends](../claims/physically-authentic-not-biologically-authentic.md) [+W] — attached 2026-11-16 from Jessica Watkins et al. (2010), which proposed "Use biological authenticity to help students understand disciplinary differences and build bridges between biology and physics, not to replace physics-authentic activities".
+- [Astrobites-based reading assignments significantly improved the perceived ability of undergraduates in astronomy-related courses to parse jargon in research literature](../claims/astrobites-reading-jargon-perception-improved.md) [+W] — attached 2026-11-19 from Improving Undergraduate Astronomy Students' Skills with Research Literature via Accessible, which proposed "Use accessible summaries of current research as scaffolding to bridge students' entry points and the difficulty of reading scientific literature"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

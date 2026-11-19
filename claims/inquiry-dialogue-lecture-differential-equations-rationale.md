@@ -49,3 +49,4 @@ The article is a designed lecture, not an empirical study; it reports no outcome
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related
 - [Upper-division physics undergraduates commonly construct novel equations to model physical situations through intuitive understanding rather than formal derivation, as modeled by Sherin's symbolic forms](symbolic-forms-intuitive-equation-construction.md) — related
 - [Introductory physics students can engage in genuine theoretical inquiry by deriving empirical gas laws from a simple particle model of gases](intro-physics-theoretical-inquiry-gas-laws.md) — related
+- [Students reported that hands-on quantum programming labs improved hands-on skills and understanding of the rationale behind experiments](positive-student-feedback-quantum-labs.md) — related

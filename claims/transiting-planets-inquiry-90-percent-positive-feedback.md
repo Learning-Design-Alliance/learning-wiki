@@ -55,3 +55,4 @@ Instructor-reported evaluation of the Fall 2009 Hartnell Astro 1L implementation
 - [Exoplanet transit exercise uses 20 Spitzer images of HD 189733b for students to measure light curves and derive planet size and distance](spitzer-transit-exoplanet-exercise.md) — related
 - [Students respond positively to the Astroparticle Masterclass, especially to hands-on work with real experimental data](masterclass-positive-student-feedback-auger.md) — related
 - [Students and teaching assistants qualitatively reported preference for AHaH activities over standard lab exercises](ahah-qualitative-preference-ta-feedback.md) — related
+- [More than 90 percent of MEU students agreed that learning with activities is fun, and 73 percent agreed they like doing activities to learn about numbers](meu-positive-attitude-activities-likert.md) — related

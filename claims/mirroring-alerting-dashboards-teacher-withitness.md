@@ -68,3 +68,4 @@ The editorial reports, citing Kasepalu, Chejara, Prieto and Ley, a quasi-experim
 - [Teacher feedback during co-design directly produced four dashboard design changes: predictive alerts, navigation redesign, integrated attendance-performance view, and a Help tab](teacher-feedback-drove-mlad-design-changes.md) — related
 - [Different dashboard designs produce different learning outcome impacts, as predictive and descriptive dashboards diverge](lad-design-type-moderates-outcomes.md) — a narrower finding that bears on this claim
 - [Effort is higher with the app while frustration is higher without it, with no overall workload difference](app-effort-higher-frustration-higher-without.md) — related
+- [Frequent, timely, actionable feedback improves learning, and AI mentors can help provide it under oversight](ai-mentor-frequent-feedback-improves-learning.md) — related

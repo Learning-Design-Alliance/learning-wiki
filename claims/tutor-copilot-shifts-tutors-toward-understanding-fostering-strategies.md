@@ -9,11 +9,10 @@ generated:
   at: 2026-10-12
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-20
 sources:
-  - id: rose-e-wang-2025
+  - id: rose-e-wang-2024
     resource: "https://doi.org/10.48550/arxiv.2410.03017"
-    title: "Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)"
+    title: "Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2024). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)"
     author: Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky
     q: 3
     i: "?"
@@ -32,19 +31,19 @@ sources:
 # Tutors with Tutor CoPilot access use more understanding-fostering strategies (e.g., prompting students to explain) and rely less on giving away answers than control tutors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Evidence** · 2 studies · 2 causal `r3` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 > **Design limits** · Rose E. Wang 2025 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
-`q3 i?` Treatment tutors used strategies fostering student skills and comprehension significantly more; prompting the student to explain and asking questions to guide thinking appeared roughly 2 standard deviations more frequently on a log-odds scale. [→ Rose E. Wang 2025](#rose-e-wang-2025)
+`q3 i?` Treatment tutors used strategies fostering student skills and comprehension significantly more; prompting the student to explain and asking questions to guide thinking appeared roughly 2 standard deviations more frequently on a log-odds scale. [→ Rose E. Wang 2024](#rose-e-wang-2024)
 `q3 i?` Control tutors tended to rely on strategies that directly lead students to the solution or provide passive support, such as giving away the answer or providing the solution strategy. [→ Rose E. Wang 2025 (2)](#rose-e-wang-2025-2)
 
 ## Evidence
 
-### Rose E. Wang 2025
+### Rose E. Wang 2024
 
-Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)
+Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2024). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)
 
 `q3 · i?` · `causal · r3`
 

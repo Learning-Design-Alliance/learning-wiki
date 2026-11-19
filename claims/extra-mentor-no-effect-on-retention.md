@@ -49,3 +49,4 @@ The LSAGS analysis found no effect of having a mentor other than one's advisor o
 - [Gender does not directly impact whether one is working in astronomy but affects persistence indirectly through mediating factors](gender-indirect-effect-attrition.md) — related
 - [A cited longitudinal study found astronomy REU participation had relatively little impact on women's pursuit of astronomy, attributed to prior mentor relationships](reu-limited-long-term-impact-slater-2010.md) — related
 - [HHMI Gilliam Fellowship 2.0 restructured awarding and required advisor mentorship training, with more than 240 advisors completing the course by September 2022](gilliam-fellowship-2-0-advisor-mentorship-training.md) — related
+- [REU participation and prior family familiarity gave Alex access to prospective advisors before matriculation, enabling pre-graduate-school matching](reu-access-enabled-early-advisor-matching.md) — related

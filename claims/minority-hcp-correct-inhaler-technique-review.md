@@ -78,3 +78,4 @@ The review reports, citing its reference 30 (Plaza et al., systematic review), t
 - [Most professionals prefer reviewing inhalation technique over changing the device when patients report difficulties](review-technique-before-changing-device-preference.md) — related
 - [Compared with a decade earlier, pMDI knowledge declined slightly while DPI knowledge improved and routine technique assessment increased](inhaler-knowledge-change-over-decade-spain.md) — related
 - [Professionals rank previous experience, severity and patient preference as the main criteria for choosing a COPD inhaler](inhaler-selection-criteria-experience-severity-preference.md) — related
+- [Incorrect inhalation technique is related to uncontrolled asthma symptoms, and most healthcare professionals cannot educate patients in correct technique](incorrect-inhalation-uncontrolled-symptoms.md) — possibly the same claim (merge candidate)

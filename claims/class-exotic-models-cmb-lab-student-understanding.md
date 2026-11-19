@@ -48,3 +48,4 @@ Classroom study in a winter 2018/19 lecture course at the University of Vienna: 
 - [Student understanding of cosmology increases over a semester with relevant and engaging exercises, but lecture alone was not seen to improve it significantly](lecture-alone-insufficient-cosmology-understanding.md) — a broader claim this one bears on
 - [Working with real data helps students understand the evidence behind scientific world views and discard mistaken preconceptions](real-data-helps-discarding-preconceptions.md) — related
 - [Virtual lab delivery produced learning outcomes the authors report as comparable to in-person physical labs](virtual-labs-effective-as-in-person-physics-labs.md) — related
+- [Pilot post-tests of the Powers of the Universe module show 78% of students preferred powers of ten notation and 98% expanded their understanding of the scale of the Universe](meu-extreme-numbers-module-post-test.md) — related

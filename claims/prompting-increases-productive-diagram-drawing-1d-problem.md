@@ -52,3 +52,4 @@ In-class recitation-quiz intervention study with 120 algebra-based introductory 
 - [On a two-dimensional electric force problem, there were no statistically significant differences between diagram intervention groups in scores or in expert-like diagram drawing](no-intervention-effect-2d-electric-force-problem.md) — related
 - [Students who drew productive diagrams significantly outperformed students who did not on both electrostatics problems, with large effect sizes](productive-diagram-drawers-outperform.md) — related
 - [Students provided with diagrams performed significantly worse than prompted and no-support students on two electrostatics quiz problems, with large effect sizes](provided-diagrams-worse-electrostatics-quizzes.md) — related
+- [Providing students a diagram (DO group) led to significantly worse quiz performance than prompting them to draw one or giving no diagram support](partial-diagram-intervention-worse-quiz-performance.md) — related

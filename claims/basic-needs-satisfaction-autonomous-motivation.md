@@ -70,3 +70,4 @@ Meta-analysis reported in the self-determination theory section "confirmed that 
 - [Perceived competence, intrinsic motivation, external regulation, engagement, and perceived learning rose from pre-test to post-test in one group with no comparison group (path analysis)](sdt-path-engagement-mediation-tbl.md) — related
 - [In a one-group pretest–posttest study of physiotherapy students, self-reported intrinsic motivation, identified regulation, perceived competence, and perceived autonomy support rose from the lecture period to the TBL period](tbl-increases-autonomous-motivation-competence.md) — related
 - [Internalization of an activity occurs when it fulfills competence, autonomy, and relatedness needs](sdt-basic-needs-internalization.md) — related
+- [Self-determination theory needs of competence, relatedness, and autonomy drive participants' motivation to engage in DBER](sdt-needs-drive-dber-motivation.md) — a narrower finding that bears on this claim

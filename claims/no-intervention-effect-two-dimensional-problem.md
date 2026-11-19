@@ -53,3 +53,4 @@ ANOVA on problem 2 scores in the recitation-quiz study (N = 50 PO, 39 DO, 29 NS 
 - [Students provided with diagrams performed significantly worse than prompted and no-support students on two electrostatics quiz problems, with large effect sizes](provided-diagrams-worse-electrostatics-quizzes.md) — related
 - [Within the no-support group, students who drew a diagram and those who did not performed similarly on problem 2](ns-group-drawing-null-difference.md) — related
 - [Across ten quiz problems in a semester, providing a diagram never improved performance and was detrimental on three](providing-diagrams-never-beneficial.md) — related
+- [Providing students a diagram (DO group) led to significantly worse quiz performance than prompting them to draw one or giving no diagram support](partial-diagram-intervention-worse-quiz-performance.md) — related

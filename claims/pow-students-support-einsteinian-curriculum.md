@@ -73,3 +73,4 @@ Same student questionnaire (N=20), statement 2(g) posed negatively; 35% strongly
 - [In 2015, 70% of respondents said the event is useful to promote the researcher's role and 40% said it could encourage young people toward scientific careers](ern-2015-career-encouragement-perception.md) — related
 - [A Quantum Rules! outreach visit increases upper-secondary students' agreement that quantum science is important for society](quantum-rules-visit-increases-perceived-societal-importance.md) — related
 - [Teachers and common visitors scored better than students across all satisfaction categories in quantum outreach events](teachers-score-better-than-students-outreach.md) — related
+- [In the face-to-face micro-credential course, half the participants were unclear about the everyday relevance of Einsteinian physics, prompting added real-world content](mc1-relevance-gap-drove-curriculum-refinement.md) — related

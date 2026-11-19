@@ -56,3 +56,4 @@ The article reports, citing prior educational research (Trumper; Brown & Neale),
 - [Students have great difficulty extrapolating three dimensions from one- and two-dimensional astronomical representations](difficulty-extrapolating-3d-from-2d-astronomy-representations.md) — related
 - [Motion parallax in simulations cues the ability to extrapolate three-dimensionality](motion-parallax-cues-e3d-in-simulations.md) — related
 - [Students in the VR parallax activity measured parallactic motion in VR and derived quantitative star distances, with the vast majority performing well on the tasks](vr-parallax-quantitative-worksheet-performance.md) — related
+- [Widespread ideas opposing the scientific view persist among secondary students across all cohorts, including that there are hundreds of stars in our solar system and that stars are permanent objects](widespread-ideas-opposing-scientific-views-stars.md) — possibly the same claim (merge candidate)

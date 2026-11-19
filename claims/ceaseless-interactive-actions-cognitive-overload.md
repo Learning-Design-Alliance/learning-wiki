@@ -52,3 +52,4 @@ Authors' interpretation based on field notes of classroom observations, offered 
 - [Qualitatively, Socratic prompts supported reflective monitoring while directive feedback was associated with overload and resistance](socratic-prompts-reflection-directive-overload-qualitative.md) — related
 - [The authors interpret the Vitamin-based triangles teaching as more effective because multi-sensory materials raise attention and motivation](multisensory-materials-attention-motivation-interpretation.md) — related
 - [Flipped learning using pre-session video is effective, but students report the pre-session video volume can cause cognitive overload](flipped-learning-video-overload-caution.md) — related
+- [Focus group participants identified attention switches and cognitive overload from caption designs as key disruptions, with needs depending on situation and learner](focus-group-caption-disruption-requirements.md) — related

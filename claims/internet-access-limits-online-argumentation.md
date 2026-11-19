@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2018
-source_checked: 2026-11-03
+source_checked: 2026-11-19
 sources:
   - id: fettahlıoğlu-2018
     resource: "https://doi.org/10.11114/jets.v6i3.2904"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
-> **Currency** · newest study 2018 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Limitations (computer problems, internet problems, time) accounted for about 31% of coded opinions, and candidates supported eliminating internet connection problems. [→ Fettahlıoğlu 2018](#fettahloglu-2018)

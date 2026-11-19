@@ -125026,5 +125026,525 @@
  "worked-examples\tdetailed solution to the problem\town resources, textbook and notes": {
   "label": "worked examples vs unguided problem solving",
   "treatment_is_a": true
+ },
+ "active-learning\tFantastic photons module with class activities\tpre-test before the module": {
+  "label": "active learning vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tface-to-face micro-credential course with activities and discussions\tno comparison condition reported": {
+  "label": "active learning vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "active-learning\tfootprinting activities and climate-change discussions\tno comparison condition reported": {
+  "label": "active learning vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "active-learning\tfootprinting activities and discussions\tbefore the footprinting activities": {
+  "label": "active learning vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tguided process-based footprint calculations and student projects\tbefore students worked independently on footprint calculations": {
+  "label": "guided active learning vs independent work",
+  "treatment_is_a": true
+ },
+ "active-learning\tlecture part of the course\tno comparison reported": {
+  "label": "lecture-based instruction vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "active-learning\tone-day professional development workshop using models, activities, and collaboration\tno comparison reported": {
+  "label": "active learning vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "active-learning\tphysical models and activity-based learning\tabstract theoretical approach": {
+  "label": "activity-based and concrete learning vs abstract theoretical instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tquantum ethics workshop with lecture, case study, discussion, and post-lecture poll\tinitial pre-lecture poll": {
+  "label": "active learning vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent-led footprint calculations, measurements, and discussion\tno comparison condition reported": {
+  "label": "active learning vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudio-based introductory physics\tlecture- or online-based introductory physics": {
+  "label": "studio-based active learning vs lecture- or online-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudio-based introductory physics\tlecture-based introductory physics": {
+  "label": "studio-based active learning vs lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\ttutorial section\tcomparison section with instructor-solved examples": {
+  "label": "active tutorial learning vs instructor-solved examples",
+  "treatment_is_a": true
+ },
+ "active-learning\tvectors-module activity using the right-hand rule\tnot stated": {
+  "label": "active learning vs comparison not stated",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tchoice-based attendance\tmandatory attendance": {
+  "label": "choice-based attendance vs mandatory attendance",
+  "treatment_is_a": true
+ },
+ "autonomy-support\topen-ended projects\tclosed-ended projects": {
+  "label": "open-ended projects vs closed-ended projects",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tsatisfaction of competence, relatedness, and autonomy\tneeds not satisfied": {
+  "label": "psychological-needs satisfaction vs needs not satisfied",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent choice of a personally selected vibration target\tno comparison condition reported": {
+  "label": "student-selected vibration target vs no comparison condition reported",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudents choose their own investigation target\ta more prescribed investigation target": {
+  "label": "student-selected investigation target vs prescribed investigation target",
+  "treatment_is_a": true
+ },
+ "case-comparison\tAlex's advisor-search experience\tBrianna's advisor-search experience": {
+  "label": "Alex's advisor-search experience vs Brianna's advisor-search experience",
+  "treatment_is_a": true
+ },
+ "case-comparison\tPaired, matched questions that expose and reconcile conflicting intuitions\tTraditional elicitation, confrontation, and resolution of an incorrect response": {
+  "label": "Paired, matched conflict-reconciling questions vs traditional elicit-confront-resolve",
+  "treatment_is_a": true
+ },
+ "case-comparison\tpaired, matched questions that create a conflict\tthe traditional elicit-confront-resolve approach": {
+  "label": "Paired, matched conflict-reconciling questions vs traditional elicit-confront-resolve",
+  "treatment_is_a": true
+ },
+ "debriefing\treflection on footprint results and possible climate actions\tno comparison condition reported": {
+  "label": "debriefing vs no debriefing",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tsolve a quantitative problem before the conceptual problem\tsolve only the conceptual problem": {
+  "label": "quantitative-before-conceptual vs conceptual-only",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tExplicitly teach and value storytelling tied to fundamental physics principles\tFocusing only on obtaining answers, memorized facts, or algorithmic steps": {
+  "label": "Conceptual explanations vs answer- or procedure-focused instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdetailed and explicit documentation written for untrained users\tdocumentation written for a tighter circle of familiar users": {
+  "label": "Detailed explicit documentation vs assumed-familiarity documentation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\teffective problem-solving strategies shown\tno information about effective problem-solving strategies": {
+  "label": "Strategy instruction vs no strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicitly asked to draw diagrams\tprovided a diagram or given no diagram instruction": {
+  "label": "Prompted diagram construction vs provided or unprompted diagrams",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tautomated eye-tracking and gaze feedback\tno feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tautomated eye-tracking feedback\tno feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tautomated eye-tracking performance feedback\tno feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tautomated gaze feedback\tsubject's baseline before feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-timing\ttimely, ongoing feedback during learning\tfeedback provided only at the conclusion": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT feedback unavailable\tregular platform feedback only": {
+  "label": "regular platform feedback vs no GPT feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tGPT hints enabled on earlier tasks\tRegular feedback only": {
+  "label": "GPT-generated hints vs regular platform feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-generated hints available\tregular platform feedback only": {
+  "label": "GPT-generated hints vs regular platform feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-generated hints enabled\tRegular platform feedback only": {
+  "label": "GPT-generated hints vs regular platform feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-generated hints enabled\tregular platform feedback only": {
+  "label": "GPT-generated hints vs regular platform feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-generated hints plus regular platform feedback\tregular platform feedback only": {
+  "label": "GPT-generated hints plus regular platform feedback vs regular platform feedback only",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-generated personalized hints\tregular human-developed platform hints": {
+  "label": "GPT-personalized hints vs regular platform hints",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-generated personalized hints\tregular platform feedback": {
+  "label": "GPT-personalized hints vs regular platform feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-generated personalized hints\tregular platform feedback without GPT hints": {
+  "label": "GPT-personalized hints vs regular platform feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tPrior GPT-hint exposure, then GPT hints unavailable\tNo GPT-hint exposure": {
+  "label": "prior GPT-hint exposure vs no prior GPT-hint exposure",
+  "treatment_is_a": true
+ },
+ "feedback-type\tPrior access to GPT-generated hints\tNo prior access to GPT-generated hints": {
+  "label": "prior GPT-hint exposure vs no prior GPT-hint exposure",
+  "treatment_is_a": true
+ },
+ "feedback-type\tprior GPT-generated hints, unavailable on these tasks\tno GPT-generated hints": {
+  "label": "prior GPT-hint exposure vs no prior GPT-hint exposure",
+  "treatment_is_a": true
+ },
+ "gamification\t15 minutes of Newton’s Race gameplay\tpretest baseline": {
+  "label": "gameplay vs pretest baseline",
+  "treatment_is_a": true
+ },
+ "gamification\tPepper robot gamified instruction\tclinician usual care": {
+  "label": "gamified instruction vs usual care",
+  "treatment_is_a": true
+ },
+ "gamification\tgame-based learning\tnot stated": {
+  "label": "game-based learning vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "gamification\tquestions about game situations\tquestions about different situations": {
+  "label": "game-context questions vs non-game-context questions",
+  "treatment_is_a": true
+ },
+ "gamification\tquiz-based serious game\tpre-recorded instructional video": {
+  "label": "quiz-based serious game vs video-based instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tquiz-based serious game\tpre-recorded video": {
+  "label": "quiz-based serious game vs video-based instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tquiz-based serious game\tvideo-based learning": {
+  "label": "quiz-based serious game vs video-based instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tscientifically correct force setting F=0N\tforce setting F>friction": {
+  "label": "correct force setting vs force above friction",
+  "treatment_is_a": true
+ },
+ "gamification\tvideo-based learning\tquiz-based serious game": {
+  "label": "quiz-based serious game vs video-based instruction",
+  "treatment_is_a": false
+ },
+ "guided-discovery\tguided definition, calculation, measurement, and reflection on footprint scope\tno comparison condition reported": {
+  "label": "guided discovery vs no comparison condition reported",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided-inquiry tutorial completed in small groups\tinstructor worked similar problems on the board": {
+  "label": "guided discovery vs worked examples",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided-inquiry tutorial in small groups\tinstructor solved similar problems on the board": {
+  "label": "guided discovery vs worked examples",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided-inquiry tutorial in small groups\tinstructor worked example problems on the board": {
+  "label": "guided discovery vs worked examples",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided-inquiry tutorial in small groups\tinstructor worked out similar problems on the board": {
+  "label": "guided discovery vs worked examples",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided-inquiry tutorial in small groups\tinstructor worked similar problems on the board": {
+  "label": "guided discovery vs worked examples",
+  "treatment_is_a": true
+ },
+ "media-design\tFCI items with figures translated into text\tFCI items without translated figures": {
+  "label": "translated figures vs untranslated figures",
+  "treatment_is_a": true
+ },
+ "media-design\tKeyword Highlights\tStandard Captions": {
+  "label": "keyword highlights vs standard captions",
+  "treatment_is_a": true
+ },
+ "media-design\tStandard Captions\tTimed Keyword Highlights": {
+  "label": "timed keyword highlights vs standard captions",
+  "treatment_is_a": false
+ },
+ "media-design\tStandard Captions\tTimed Keywords": {
+  "label": "timed keywords vs standard captions",
+  "treatment_is_a": false
+ },
+ "media-design\tTimed Keyword Highlights\tStandard Captions": {
+  "label": "timed keyword highlights vs standard captions",
+  "treatment_is_a": true
+ },
+ "media-design\tTimed Keyword Highlights\tTimed Keywords": {
+  "label": "timed keyword highlights vs timed keywords",
+  "treatment_is_a": true
+ },
+ "media-design\tTimed Keywords\tKeyword Highlights": {
+  "label": "keyword highlights vs timed keywords",
+  "treatment_is_a": false
+ },
+ "media-design\tTimed Keywords\tStandard Captions": {
+  "label": "timed keywords vs standard captions",
+  "treatment_is_a": true
+ },
+ "media-design\tTimed Keywords\tTimed Keyword Highlights": {
+  "label": "timed keyword highlights vs timed keywords",
+  "treatment_is_a": false
+ },
+ "media-design\tTimed Keywords\tall other caption conditions": {
+  "label": "timed keywords vs other caption designs",
+  "treatment_is_a": true
+ },
+ "media-design\tTimed Keywords captions\tKeyword Highlights captions": {
+  "label": "keyword highlights vs timed keywords",
+  "treatment_is_a": false
+ },
+ "media-design\tTimed Keywords captions\tStandard Captions": {
+  "label": "timed keywords vs standard captions",
+  "treatment_is_a": true
+ },
+ "media-design\tTimed Keywords captions\tTimed Keyword Highlights captions": {
+  "label": "timed keyword highlights vs timed keywords",
+  "treatment_is_a": false
+ },
+ "media-design\tcaptions with native-language translations\tcaptions without translations": {
+  "label": "translated captions vs untranslated captions",
+  "treatment_is_a": true
+ },
+ "media-design\tenhanced captions with keyword highlights or timed keywords\tstandard full captions": {
+  "label": "enhanced captions vs standard full captions",
+  "treatment_is_a": true
+ },
+ "media-design\tfull captions with time-synchronized keyword highlights\tother caption designs, including standard captions": {
+  "label": "timed keyword highlights vs other caption designs",
+  "treatment_is_a": true
+ },
+ "media-design\tfull captions with time-synchronized keyword highlights\tstandard full captions": {
+  "label": "timed keyword highlights vs standard full captions",
+  "treatment_is_a": true
+ },
+ "media-design\tkeyword captions\tfull captions": {
+  "label": "full captions vs keyword captions",
+  "treatment_is_a": false
+ },
+ "media-design\tprovided a partial diagram\tasked to draw a diagram or given no diagram instruction": {
+  "label": "provided partial diagram vs drawn or no diagram",
+  "treatment_is_a": true
+ },
+ "media-design\tprovided a partial diagram\tprompt to draw a diagram or no diagram instruction": {
+  "label": "provided partial diagram vs drawn or no diagram",
+  "treatment_is_a": true
+ },
+ "media-design\tprovided a partial diagram of the tube\tasked to draw a diagram or given no diagram instruction": {
+  "label": "provided partial diagram vs drawn or no diagram",
+  "treatment_is_a": true
+ },
+ "media-design\tthumbnail AOI\ttitle and channel AOIs": {
+  "label": "thumbnail AOI vs title and channel AOIs",
+  "treatment_is_a": true
+ },
+ "media-design\ttime-synchronized keyword highlights\tstandard full captions": {
+  "label": "timed keyword highlights vs standard full captions",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual and audio information presented simultaneously\twritten words and pictures": {
+  "label": "simultaneous visual and audio information vs written words and pictures",
+  "treatment_is_a": true
+ },
+ "practice-amount\tsecond experiment after additional Python practice\tfirst experiment after the introductory Python sessions": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "prompts\tConfirmatory Check prompting\tZero-shot prompting": {
+  "label": "Confirmatory-check prompting vs zero-shot prompting",
+  "treatment_is_a": true
+ },
+ "prompts\tZero Shot\tIn Context Learning and Confirmatory Check": {
+  "label": "In-context learning and confirmatory-check prompting vs zero-shot prompting",
+  "treatment_is_a": false
+ },
+ "prompts\texplicitly asked to draw a diagram\tno diagram instruction": {
+  "label": "Diagram instruction vs no diagram instruction",
+  "treatment_is_a": true
+ },
+ "prompts\titerative prompting using priming and advanced instructions\tsimple prompt": {
+  "label": "Iterative prompting with priming and advanced instructions vs simple prompting",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\t50% points back for correcting mistakes before seeing solutions\tcorrection without this incentive or solution provision": {
+  "label": "reward incentive vs no reward incentive",
+  "treatment_is_a": true
+ },
+ "scaffolding\tAstrobites accessible-summary reading assignment with guided questions\tpre-intervention survey": {
+  "label": "Guided reading assignment vs pre-intervention survey",
+  "treatment_is_a": true
+ },
+ "scaffolding\tNotebook prompts for identifying sample spacing, signal length, and the analysis window\tInstructor assistance during data analysis": {
+  "label": "Notebook prompts vs instructor assistance",
+  "treatment_is_a": true
+ },
+ "scaffolding\tProblem triples: qualitative, symbolic, and computational versions\tTraditional classes presenting only the computational problem": {
+  "label": "Qualitative-symbolic-computational problem sequence vs computational problem alone",
+  "treatment_is_a": true
+ },
+ "scaffolding\taccess to original designers or engineering experts\tworking without access to project experts": {
+  "label": "Access to project experts vs no access to project experts",
+  "treatment_is_a": true
+ },
+ "scaffolding\tproblem triples: qualitative, symbolic, and computational versions\tcomputational problem alone": {
+  "label": "Qualitative-symbolic-computational problem sequence vs computational problem alone",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolded code writing\tunscaffolded code writing": {
+  "label": "Scaffolded code writing vs unscaffolded code writing",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolding applied\tnot stated": {
+  "label": "Scaffolding vs no scaffolding stated",
+  "treatment_is_a": true
+ },
+ "simulation\tAlgodoo simulation with momentum graph\tcalculated impulse from force and duration": {
+  "label": "simulation vs calculated impulse approach",
+  "treatment_is_a": true
+ },
+ "simulation\tPhET simulation\tnot stated": {
+  "label": "simulation vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "simulation\tPhET simulation-based instructional sequence\tpre-activity baseline": {
+  "label": "simulation-based instruction vs pre-activity baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tPhET-based blended math-science sensemaking sequence\tpre-activity baseline": {
+  "label": "simulation-based blended instruction vs pre-activity baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tcognitive-framework-aligned PhET instructional sequence\tpre-activity baseline": {
+  "label": "cognitive-framework-aligned simulation instruction vs pre-activity baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based quantitative pattern tasks\tMC list support": {
+  "label": "simulation-based quantitative pattern tasks vs multiple-choice list support",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI projects with open-ended design decisions\tworksheets, term papers, and other less open-ended assignments": {
+  "label": "AI-supported open-ended projects vs conventional less-open-ended assignments",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted personalized feedback\tfeedback provision without shifting work to AI": {
+  "label": "AI-assisted feedback vs non-AI feedback",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced progressive training model\tpre-training": {
+  "label": "AI-enhanced progressive training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced progressive training model\tpre-training baseline": {
+  "label": "AI-enhanced progressive training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced progressive training model with AI-assisted case analysis\tpre-training": {
+  "label": "AI-enhanced progressive training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced progressive training model with virtual simulation\tpre-training": {
+  "label": "AI-enhanced progressive training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced real-time guidance\tnon-AI instructor guidance": {
+  "label": "AI-enhanced real-time guidance vs non-AI instructor guidance",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced real-time guidance and quality feedback\tinstructor guidance without AI support": {
+  "label": "AI-enhanced real-time guidance and feedback vs non-AI instructor guidance",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced real-time probe guidance and image-quality feedback\tinstructor guidance without AI": {
+  "label": "AI-enhanced real-time probe guidance and image-quality feedback vs non-AI instructor guidance",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced real-time probe guidance and image-quality feedback\tinstructor guidance without AI support": {
+  "label": "AI-enhanced real-time probe guidance and image-quality feedback vs non-AI instructor guidance",
+  "treatment_is_a": true
+ },
+ "test-format\tCMC conceptual questions\tnon-CMC conceptual questions": {
+  "label": "complex multiple-choice vs non-complex multiple-choice",
+  "treatment_is_a": true
+ },
+ "test-format\tCMC questions\tnon-CMC questions": {
+  "label": "complex multiple-choice vs non-complex multiple-choice",
+  "treatment_is_a": true
+ },
+ "test-format\tCMC questions for domestic students\tCMC questions for international students": {
+  "label": "domestic students vs international students (with complex multiple-choice questions)",
+  "treatment_is_a": true
+ },
+ "test-format\tCMC questions for low-income students\tCMC questions for medium- and high-income students": {
+  "label": "low-income students vs medium- and high-income students (with complex multiple-choice questions)",
+  "treatment_is_a": true
+ },
+ "test-format\tCMC questions for students earning B+ or less in Physics II\tnon-CMC questions for students earning B+ or less in Physics II": {
+  "label": "complex multiple-choice vs non-complex multiple-choice (among students earning B+ or less)",
+  "treatment_is_a": true
+ },
+ "test-format\tCMC questions for students earning an A in Physics II\tnon-CMC questions for students earning an A in Physics II": {
+  "label": "complex multiple-choice vs non-complex multiple-choice (among students earning an A)",
+  "treatment_is_a": true
+ },
+ "test-format\tCMC versus non-CMC questions across GPAO levels\tGPAO-by-question-type interaction": {
+  "label": "complex multiple-choice vs non-complex multiple-choice across GPAO levels vs GPAO-by-question-type interaction",
+  "treatment_is_a": true
+ },
+ "test-format\tcomplex multiple-choice questions\tnon-CMC questions": {
+  "label": "complex multiple-choice vs non-complex multiple-choice",
+  "treatment_is_a": true
+ },
+ "test-format\tcomplex multiple-choice questions\tnon-complex multiple-choice questions": {
+  "label": "complex multiple-choice vs non-complex multiple-choice",
+  "treatment_is_a": true
+ },
+ "test-format\tcomplex multiple-choice questions for B/H/M/N and female students\tnon-complex multiple-choice questions for B/H/M/N and female students": {
+  "label": "complex multiple-choice vs non-complex multiple-choice (among B/H/M/N and female students)",
+  "treatment_is_a": true
+ },
+ "test-format\tcomplex multiple-choice questions for domestic students\tnon-complex multiple-choice questions for domestic students": {
+  "label": "complex multiple-choice vs non-complex multiple-choice (among domestic students)",
+  "treatment_is_a": true
+ },
+ "test-format\tcomplex multiple-choice questions for domestic students\tnon-complex multiple-choice questions for domestic students, relative to the corresponding contrast for international students": {
+  "label": "complex multiple-choice effect among domestic students vs the corresponding effect among international students",
+  "treatment_is_a": true
+ },
+ "test-format\tcomplex multiple-choice questions for low-income students\tnon-complex multiple-choice questions for low-income students": {
+  "label": "complex multiple-choice vs non-complex multiple-choice (among low-income students)",
+  "treatment_is_a": true
+ },
+ "test-format\tcomplex multiple-choice questions for low-income students\tnon-complex multiple-choice questions for low-income students, relative to the corresponding contrast for medium- and high-income students": {
+  "label": "complex multiple-choice effect among low-income students vs the corresponding effect among medium- and high-income students",
+  "treatment_is_a": true
+ },
+ "test-format\tcorrect CMC answer\tcorrect non-CMC answer": {
+  "label": "correct complex multiple-choice answer vs correct non-complex multiple-choice answer",
+  "treatment_is_a": true
+ },
+ "test-format\tthree varied questionnaire formats\tconsistency across questionnaire formats": {
+  "label": "varied questionnaire formats vs consistent questionnaire formats",
+  "treatment_is_a": true
+ },
+ "worked-examples\tfour-step worked-example approach with explanations and error correction\tnot stated": {
+  "label": "worked examples vs no worked examples",
+  "treatment_is_a": true
  }
 }

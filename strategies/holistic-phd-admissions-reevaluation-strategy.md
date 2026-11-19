@@ -54,6 +54,7 @@ The article recommends that physics communities reevaluate admissions criteria s
 - [Establish standard definitions and mission-aligned competencies for admissions](standardize-admissions-definitions-mission-aligned-competencies.md)
 - [Transform the culture of physics so it signals to female students that they belong, alongside boosting science capital and utility value](transform-physics-culture-signal-belonging.md)
 - [Recommendations for undergraduate particle physics education](undergraduate-particle-physics-education-recommendations.md)
+- [Pair admissions of lower-scoring students with compensating changes to other admissions criteria or program structure to maintain graduation rates](compensating-changes-for-low-scorer-admissions.md)
 
 ## Examples
 -

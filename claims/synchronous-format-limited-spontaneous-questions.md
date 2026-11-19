@@ -47,3 +47,4 @@ Qualitative findings from participant observation of synchronous sessions and te
 ## Related Claims
 - [Lecturers found engaging synchronous online students difficult during hybrid teaching, citing delay in student responses and loss of teaching time](lecturer-difficulty-engaging-online-students.md) — related
 - [The time students had to prepare responses before interacting was connected with all three dimensions of online learner engagement across asynchronous, synchronous, and quasi-synchronous debates](time-to-prepare-connected-all-ole-dimensions.md) — related
+- [During a first middle-school test of Edukoi, classes maintained high attention and reported enjoyment, but found counting stars by sound very difficult.](edukoi-classroom-test-qualitative-feedback.md) — related

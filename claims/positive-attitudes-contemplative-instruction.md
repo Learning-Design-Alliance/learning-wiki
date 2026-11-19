@@ -54,3 +54,4 @@ Qualitative interview phase (formal teacher-led and informal interviews) address
 - [Interviewed students held positive attitudes toward syntactic parsing instruction and reported benefits including faster reading and greater confidence with long complex sentences](positive-attitudes-toward-syntactic-parsing-instruction.md) — related
 - [Short stories as classroom tools improved motivation toward L2 reading for most but not all EFL students](short-stories-mixed-motivation-efl-reading.md) — related
 - [Imagining the Ideal L2 self evoked pride and other positive emotions that participants reported as motivating their study of English](magid-2014-pride-ideal-l2-self-motivation.md) — related
+- [Students held uniformly positive attitudes toward learning programming early, and these views persisted or improved after instruction](positive-attitudes-programming-persist.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-19
 sources:
   - id: massimiliano-di-blasi-2023
     resource: "https://doi.org/10.48550/arXiv.2301.06322"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the analysis of a lesson common to all courses, 89 .7% of students (139 out of 155 participants) answered all the Kahoot! questions asked, and 70 .7% of their answers was correct. [→ Massimiliano Di Blasi 2023](#massimiliano-di-blasi-2023)

@@ -72,6 +72,7 @@ Socratic questioning works because generating an answer forces deeper processing
 - [Probe problem solving with a graduated suggestion sequence moving from pure reason to concrete imagery to objective experiment](graduated-suggestion-sequence-probing.md)
 - [Question-answer directions that let children answer as part of the administration](question-answer-directions-young-children.md)
 - [Provide explicit verbal instructions and facilitator prompting to guide students to articulate reasoning during in-class group work](explicit-instructions-prompt-reasoning-strategy.md)
+- [Use a Socratic-type prompting script that asks the AI to provoke reflection rather than deliver ready-made answers](socratic-agent-to-think-with-prompting-strategy.md)
 
 ## Examples
 - **Law school "Socratic method"** (Langdell-era tradition at Harvard Law): instructors interrogate students about court cases, probing the facts, holdings, and reasoning to expose doctrinal assumptions.

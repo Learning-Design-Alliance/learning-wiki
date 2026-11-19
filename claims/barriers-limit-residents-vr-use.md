@@ -57,3 +57,4 @@ Theme 2 of the reflexive thematic analysis of seven interviews with ten first-ye
 - [Protected teaching time and dedicated space are reported barriers, while equipment cost is not for clinical staff](time-space-equipment-barriers-ed-sbt.md) — related
 - [The main barrier to applying the gamified exergaming intervention was the logistics of materials and spaces](gamified-exergaming-logistics-barrier.md) — related
 - [Time constraints and implementation logistics in the emergency department were rated the most challenging factors for initiating palliative care](ed-time-constraints-barrier-palliative-care.md) — related
+- [Physicists describe limiting factors for teaching computation in introductory physics, including curricular overhaul, lack of space, and student rejection](limitations-teaching-computation-intro-physics.md) — related

@@ -52,3 +52,5 @@ Evaluation survey distributed on the last day of the school, using a 5-point Lik
 - [Across all survey items, learners rated the CME modules highly, with median Likert scores of 4 and means above 4.0 for content quality, clarity, motivation, competence, and perceived educational value](espe-cme-high-likert-satisfaction.md) — related
 - [Participants rated the one-day workshop highly, with overall satisfaction averaging 4.78 out of 5](pa-workshop-satisfaction-478-of-5.md) — related
 - [Students reported positive usability and acceptance of MentorChat](mentorchat-positive-usability-acceptance.md) — related
+- [Students rate the project component of the sustainable physics course very positively](high-student-ratings-project-component.md) — related
+- [Undergraduate students rated the two-day forest physics exercise highly, averaging 6.1 on a 1–7 enjoyment scale](positive-student-feedback-forest-physics-exercise.md) — related

@@ -85,3 +85,4 @@ Qualitative thematic analysis of open-ended responses independently coded by two
 - [Students' perceptions of the simulated learning environment cluster into three positive themes (preparation for professional practice, exposure to different body types, positive challenge) and two negative themes (lack of feedback, stressful situation)](sp-perceptions-five-themes.md) — related
 - [Group-based feedback identified empowerment gains and new counselling concepts, alongside barriers including negative professional reactions](group-feedback-empowerment-barriers.md) — related
 - [Students report learning a lot, finding the content interesting, and enjoying working like researchers](prise-qualitative-experience-themes.md) — related
+- [Students' open-ended feedback centered on teamwork, freedom and autonomy, the link between theory and reality, time constraints, low-cost tools, and the pleasure of being in the forest](student-feedback-themes-forest-physics.md) — related

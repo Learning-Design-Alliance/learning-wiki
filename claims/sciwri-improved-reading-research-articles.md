@@ -47,3 +47,4 @@ Coded responses to "How do you feel when reading scientiﬁc research articles?"
 ## Related Claims
 - [A 15-week extensive reading course increased Japanese EFL learners' feelings of comfort with foreign-language reading (r = .54)](er-increased-comfort-efl-reading-attitude.md) — a broader claim this one bears on
 - [Students became more confident explaining science concepts to others after the course, with 9 students increasing in confidence](sciwri-increased-confidence-explaining-science.md) — related
+- [Qualitative responses showed decreased intimidation and unpreparedness and increased confidence about reading research papers](astrobites-reading-qualitative-confidence-gains.md) — related

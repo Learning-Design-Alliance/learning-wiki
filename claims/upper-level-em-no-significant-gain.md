@@ -47,3 +47,4 @@ Pre- and post-test administration of the 25-item test to students in a sophomore
 ## Related Claims
 - [Students who used the tutorials significantly outperformed Honors students and upper-level undergraduates, but not first-year graduate students, on a cumulative test](tutorial-group-outperforms-honors-upperlevel-not-grads.md) — related
 - [Graduate students significantly outperform undergraduates overall on the test but show similar misconceptions on Problems 13 and 17](graduate-students-75-percent-similar-misconceptions.md) — related
+- [Students who used a guided-inquiry tutorial on superposition with Gauss's law significantly outperformed comparison students on post-test questions (p < 0.001)](superposition-gauss-law-tutorial-improves-post-test.md) — related

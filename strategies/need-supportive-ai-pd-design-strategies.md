@@ -42,7 +42,8 @@ The article's implications section gives administrators and designers concrete m
 - [Chat Sdt Diagnostic Framework Tpd](../theories/cultural-historical-activity-theory.md)
 
 ## Related Strategies
-- 
+
+- [Remove normative social demands: flexible attendance, autonomy, and no forced disclosure](asociality-flexible-classroom-structures-strategy.md)
 
 ## Examples
 -

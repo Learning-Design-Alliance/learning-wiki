@@ -32,4 +32,4 @@ A biennial three-week physics capacity-building school run for selected African 
 ## Key Sources
 - Kétévi Adiklè Assamagan, Mounia Laassiri. (2019). The African School of Fundamental Physics and Applications (ASP). https://arxiv.org/abs/1909.06309
 - Kétévi A. Assamagan, Bobby Acharya, Temitope Adenuga, Mohamed Chabab, Kenneth Cecire, Simon H. Connell, Anne E. Dabrowski, Christine Darve, Farida Fassi, Jonathan R. Ellis, Fernando Ferroni, Mounia Laassiri, Steve G. Muanza. (2021). ASP Activity Report, 2019-2021. African School of Physics. https://www.africanschoolofphysics.org/
-- Assamagan, K. A., Acharya, B., Cecire, K., Darve, C., Ferroni, F., Gray, J. A., & Muronga, A. (2023). Activity Report on the Seventh African School of Fundamental Physics and Applications (ASP2022). arXiv. https://arxiv.org/abs/2302.13940
+- Assamagan, K. A., Acharya, B., Cecire, K., Darve, C., Ferroni, F., Gray, J. A., & Muronga, A. (2023). Activity Report on the Seventh African School of Fundamental Physics and Applications (ASP2022). arXiv. https://arxiv.org/abs/2302.13940. [doi:10.48550/arxiv.2302.13940](https://doi.org/10.48550/arxiv.2302.13940)

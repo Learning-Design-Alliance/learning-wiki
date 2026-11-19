@@ -8,12 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
-newest_evidence: 2025
-recheck_by: 2030
+newest_evidence: 2026
+recheck_by: 2031
 sources:
-  - id: bagale-2025
+  - id: bagale-2026
     resource: "https://doi.org/10.48550/arxiv.2607.12295"
-    title: "Bagale, A.; Mehjabin, N.; Ünlü, A.; Johri, A. (2025). A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data. https://arxiv.org/abs/2607.12295 [doi:10.48550/arxiv.2607.12295](https://doi.org/10.48550/arxiv.2607.12295)"
+    title: "Bagale, A.; Mehjabin, N.; Ünlü, A.; Johri, A. (2026). A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data. https://arxiv.org/abs/2607.12295 Originally published 2025. [doi:10.48550/arxiv.2607.12295](https://doi.org/10.48550/arxiv.2607.12295)"
     author: Bagale, A.; Mehjabin, N.; Ünlü, A.; Johri, A.
     q: 2
     i: "?"
@@ -25,16 +25,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
-`q2 i?` Across the 14,201-tweet corpus, positive sentiment accounted for 11,595 classifications (81.65%) and negative for 2,606 (18.35%). [→ Bagale 2025](#bagale-2025)
+`q2 i?` Across the 14,201-tweet corpus, positive sentiment accounted for 11,595 classifications (81.65%) and negative for 2,606 (18.35%). [→ Bagale 2026](#bagale-2026)
 
 ## Evidence
 
-### Bagale 2025
+### Bagale 2026
 
-Bagale, A.; Mehjabin, N.; Ünlü, A.; Johri, A. (2025). A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data. https://arxiv.org/abs/2607.12295 [doi:10.48550/arxiv.2607.12295](https://doi.org/10.48550/arxiv.2607.12295)
+Bagale, A.; Mehjabin, N.; Ünlü, A.; Johri, A. (2026). A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data. https://arxiv.org/abs/2607.12295 Originally published 2025. [doi:10.48550/arxiv.2607.12295](https://doi.org/10.48550/arxiv.2607.12295)
 
 `q2 · i?` · `associational · r1`
 
@@ -58,3 +58,4 @@ Observational sentiment analysis of the full 14,201-tweet corpus using a fine-tu
 - [Topic modelling yielded 16 topics dominated by four: AI in Education & Pedagogy (39.43%), Applied ML & Data Science (21.33%), AI Ethics Risk & Governance (20.83%), and ChatGPT for Teaching, Writing & Coding (7.13%)](four-dominant-bertopic-topics-aied-twitter.md) — related
 - [GPT4-coded sentiment of students' open-ended general feedback about the intervention was overwhelmingly positive](positive-sentiment-open-ended-feedback.md) — related
 - [Sentiment analysis of open-ended SALG responses showed positive sentiments more abundant than negative in all years, with a higher positive proportion in the latter two years](ibis-sentiment-positive-trigrams-increased.md) — related
+- [Twitter sentiment toward ChatGPT in education was generally positive during December 2022 to March 2023](chatgpt-education-positive-sentiment.md) — a narrower finding that bears on this claim

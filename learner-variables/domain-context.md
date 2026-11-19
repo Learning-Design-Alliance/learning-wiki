@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 149 claims (103 show a difference, 34 mixed, 12 no difference) · 127 studies (31 causal, 30 qualitative, 20 review, 20 design, 13 associational, 8 theoretical, 5 quant-synthesis), `q1`–`q4` · 17 of 127 report an effect size · 144 claims rest on one study
+> **Evidence** · 152 claims (104 show a difference, 35 mixed, 13 no difference) · 130 studies (32 causal, 30 qualitative, 22 design, 20 review, 13 associational, 8 theoretical, 5 quant-synthesis), `q1`–`q4` · 18 of 130 report an effect size · 147 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -190,6 +190,9 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [Computation in high school physics is a double-edged sword: it makes learning more authentic for familiar students but generates frustration and aversion for unfamiliar ones](../claims/computation-double-edged-sword-high-school-physics.md) [~M] — an instructional effect differs with it
 - [Preservice teachers in inquiry-based courses slightly but significantly increased their perceptions of the relevance of science](../claims/hos-inquiry-increases-perceived-relevance.md) [+M] — measured as an outcome of the instruction studied
 - [Pupils perceive newspaper story problems as authentic, avoiding merely external contexts](../claims/pupils-perceive-nsp-authentic.md) [+M] — measured as an outcome of the instruction studied
+- [After the embedded-game lesson, students applied force and motion knowledge to transfer situations as successfully as to game-related situations](../claims/embedded-game-lesson-transfer-matches-game-related-performance.md) [-M] — an instructional effect differs with it
+- [Knowledge gained in Newton's Race transfers only to situations closely resembling the game environment, not to different situations](../claims/newtons-race-transfer-limited-to-game-like-situations.md) [~M] — an instructional effect differs with it
+- [Participants made connections to the learning material quicker because the basketball scenario was familiar and relevant](../claims/sport-c-relevancy-quicker-connections.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

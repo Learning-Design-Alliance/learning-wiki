@@ -48,3 +48,4 @@ Repeated-measures ANOVA of takeoff scores in a randomized two-group experiment (
 - [The two training groups did not differ significantly in any flight task at baseline](baseline-equivalence-flight-tasks.md) — related
 - [The traditional training group plateaued on carrier landing while the efficient training group continued to improve significantly](carrier-landing-ttg-plateau-etg-improves.md) — related
 - [The efficient training group achieved rapid flight-control improvement after the first training session, whereas the traditional group improved significantly only after the third](etg-rapid-flight-control-gain-first-session.md) — related
+- [Detection accuracy improved more rapidly across the four training sessions in the feedback group (session effect p = 0.0001)](feedback-accelerates-accuracy-gain-across-sessions.md) — related

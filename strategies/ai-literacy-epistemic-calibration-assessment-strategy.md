@@ -46,6 +46,7 @@ The article's discussion recommends that universities first avoid assuming lower
 - [Target calibrated trust and anxiety alongside AI literacy instruction when supporting existing generative AI users](calibrated-trust-and-anxiety-support-strategy.md)
 - [Treat trust calibration as an explicit educational objective of ML education, pursued through ICE-T's three facets](trust-calibration-as-explicit-educational-objective.md)
 - [Teach students to read AI critically and discuss the difference between fluency and thought](teach-critical-reading-of-ai-outputs.md)
+- [Six recommendations for educators addressing AI in Physics education](educator-recommendations-ai-physics-education.md)
 
 ## Examples
 -

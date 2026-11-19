@@ -48,3 +48,7 @@ ERGM gender tie-type results for six networks, with man→man as base term. In f
 ## Related Claims
 - [Men significantly under-nominate women as strong in lecture material in first-year physics courses, while women proportionately nominate both genders](men-under-nominate-women-first-year-physics-lecture.md) — related
 - [Both women and men nominated female classmates at proportions below women's actual success rates, with men underestimating women most consistently](peers-undervalue-outperforming-women-stem.md) — related
+- [In three of four courses, men disproportionately keep more of their interaction ties with men than with women as recognition nominations](men-keep-male-interaction-ties-in-recognition.md) — related
+- [Men disproportionately under-nominate women as strong in the course material in both offerings of both distinct lab and lecture physics courses](men-under-nominate-women-peer-recognition-physics.md) — related
+- [Women and men respondents produce significantly different ASES network partitions, with the men network most similar and the women network least similar to the full network](women-men-ases-partition-differences.md) — related
+- [Women disproportionately under-nominate men as strong in the spring offering of the lecture course, contrary to prior predictions](women-under-nominate-men-spring-lecture.md) — related

@@ -53,3 +53,4 @@ Qualitative case analysis (§4.2) of refined versions of one signed multiplicati
 - [PPB maintained comparable readability on three of four measures while increasing Flesch-Kincaid toward grade level](ppb-readability-comparable-flesch-kincaid-increased.md) — related
 - [Students frequently reported that personalized problem topics did not match their interests](students-report-topic-mismatch-interests.md) — related
 - [Teachers adjusted problem topics as the most common refinement move](teachers-adjust-problem-topics-refinement.md) — related
+- [Iterative prompt engineering of GPT-4 achieved meaningful contextualization of algebra problems that preserved difficulty and original intent](gpt4-prompt-engineering-contextualization-preserves-intent.md) — related

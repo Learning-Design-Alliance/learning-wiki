@@ -63,3 +63,4 @@ Evaluation of machine learning models trained on a random 80% of labeled sentenc
 - [Both LLMs showed high interrater reliability on orthopedic MCQs (ChatGPT κ=0.81; DeepSeek κ=0.78)](llm-interrater-reliability-orthopedic-mcqs-kappa.md) — related
 - [Student-trainer agreement on yes-no communication behaviours is moderate for five items and good for two items](kappa-agreement-dichotomous-communication-items.md) — related
 - [GPs interpreted FLUS pathology presence with moderate agreement with a specialist reference (78% agreement, kappa 0.56), tending to report more pathology](gp-flus-interpretation-moderate-agreement-kappa-056.md) — related
+- [A BERT-based model grades reflective level in English and German essays with a quadratic weighted kappa of 0.71](papagai-bert-reflective-level-qwk-071.md) — related

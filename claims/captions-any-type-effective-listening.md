@@ -61,3 +61,5 @@ Sorayya Behroozizad, Sudabeh Majidi. (2015). The Effect of Different Modes of En
 - [Viewing captioned instructional videos significantly improves EFL learners' vocabulary acquisition compared to viewing without captions.](captions-improve-vocabulary-acquisition-efl.md) — related
 - [Viewing captioned instructional videos does not significantly improve EFL learners' content comprehension compared to viewing without captions.](captions-no-effect-content-comprehension-efl.md) — related
 - [Viewing instructional videos improves EFL learners' language proficiency regardless of whether captions are present.](video-viewing-improves-proficiency-regardless-captions.md) — related
+- [Most caption users activate captions for comprehension, and only a few intentionally use them for language learning](captions-used-for-comprehension-not-learning-survey.md) — related
+- [Caption type produced no differences in vocabulary recall scores, with clear ceiling effects in the tested vocabulary](no-vocabulary-recall-differences-ceiling-effects.md) — related

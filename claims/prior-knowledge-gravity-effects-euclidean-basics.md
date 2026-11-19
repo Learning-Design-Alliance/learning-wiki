@@ -69,3 +69,4 @@ Pre-intervention Euclidean-geometry items on triangle angle sums and parallel li
 - [In one uncontrolled pre-post study, primary pupils mostly explained gravity as interaction or deformation rather than everyday effects after a spacetime-simulator intervention](einsteinian-gravity-shifts-pupil-explanations.md) — related
 - [The review reports that primary-school children commonly lack a spherical-Earth gravity model and associate gravity with the presence of air](children-gravity-air-alternative-conceptions-reported.md) — related
 - [Incorrect answers about gravity on the moon remained comparable pre- and post-course (26% vs 24%), a topic not directly assessed in the course](gravity-misconceptions-unchanged-not-assessed.md) — related
+- [Year 7 Einsteinian gravity instruction conflicted with concurrent Euclidean geometry teaching, producing persistent confusion](year-7-euclidean-geometry-conflict-curved-space.md) — reports the opposite

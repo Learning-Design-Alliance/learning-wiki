@@ -74,3 +74,4 @@ The authors warn, citing Rosenthal & Jacobson (1968), of "a risk of creating a s
 - [Standard ML models predicting student pass/fail from VLE data exhibit biased true-positive rates across demographic subgroups](baseline-ml-models-biased-tpr-oulad.md) — related
 - [Even with skill-based qualifications, LLM team assignment remains gender-biased: when two teams are equally valid, models favor Core Development for male personas over Interface Design](llm-team-formation-gender-bias-skill-based.md) — related
 - [Teacher expectancy effects: seeded expectations led treated students to outperform peers (as reported by the review)](teacher-expectancy-self-fulfilling-prophecy.md) — related
+- [Automated LLM feedback may reduce instructor unconscious bias by evaluating responses equally without identification](llm-feedback-reduce-instructor-unconscious-bias.md) — related

@@ -52,3 +52,4 @@ Anonymous voluntary 11-item 5-point Likert survey run by the RCSI Quality Enhanc
 - [In an anonymous survey of 63 junior-level physics students, 86% agreed InkSurvey responses gave the instructor a better understanding of their knowledge and 76% said creating responses helped their own metacognition](inksurvey-student-survey-metacognition.md) — related
 - [In class surveys, 93% of students agreed the iOLab-based lab was useful to their learning and 90% indicated the iOLab was easy to use.](iolab-lab-student-survey-usefulness-ease.md) — related
 - [Over two-thirds of about 30 EECS students in the course reported that the interactive tutorials deepened their understanding of color science](colorvis-majority-report-deepened-understanding.md) — related
+- [More than 90% of surveyed students prefer the class taught online and more than 95% report the class structure and hours are effectively used](student-survey-preference-online-structure.md) — related

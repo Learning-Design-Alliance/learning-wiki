@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-11-19
 sources:
   - id: emily-m-stump-2020
     resource: "https://doi.org/10.1119/perc.2020.pr.stump"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For the classical ball-drop data, all participants mentioned measurement limitations and more referenced physical limitations and measurement principles than for the generic question. [→ Emily M. Stump 2020](#emily-m-stump-2020)
@@ -76,3 +77,7 @@ Interview responses about the single-slit histogram. The article reports explana
 - [In the classical ball-drop context, advanced students' expectations for what 100 more data points would do to the histogram spread are almost evenly split among more narrow, more accurate, and no change, with a few expecting a wider distribution](classical-more-data-split-expectations.md) — related
 - [In the quantum single-slit context, many advanced students expect an expert's better data to leave the histogram unchanged, citing irreducible quantum uncertainty](quantum-better-data-no-change-uncertainty.md) — related
 - [The article argues classical simulators are better suited than real quantum hardware for teaching, citing error rates, incomplete measurement output, and limited hardware access.](classical-simulators-preferred-for-teaching-quantum-computing.md) — related
+- [Upper-level students' generic thinking about measurement uncertainty splits by physics paradigm: limitations dominate classical responses while principles dominate quantum responses](generic-uncertainty-split-classical-limitations-quantum-principles.md) — related
+- [Students who expect better data to leave the distribution unchanged justify this with inherent physical or measurement principles, mainly in quantum and distribution scenarios](principles-reasoning-better-data-stays-same.md) — related
+- [Student reasoning about more and better data distinguishes the Projectile Motion scenario from the other three, not classical from quantum mechanics](projectile-motion-distinct-not-classical-quantum-split.md) — related
+- [Added question structure in a survey, compared with a prior unstructured interview format, may make limitations sources more accessible to students in quantum contexts, though access drops without a specific scenario](prompt-structure-affects-uncertainty-source-accessibility.md) — related

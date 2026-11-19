@@ -13,7 +13,7 @@ generated:
 # Particle physics masterclass model
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 3 studies (2 design, 1 associational), `q1`–`q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 4 studies (2 associational, 2 design), `q1`–`q2` · 0 of 4 report an effect size · 6 claims rest on one study
 
 ## Description
 A CERN- and Fermilab-associated outreach programme in which high school students analyze real collider data with physicist mentors and compare findings through an inter-institute videoconference.
@@ -33,12 +33,15 @@ A CERN- and Fermilab-associated outreach programme in which high school students
 - **International Masterclasses: authentic-data particle physics events where students become scientists for a day**: International Masterclasses (IMC) are experimental particle physics education and outreach events for high school students aged 15 to 19 years, hosted at universities and research institutes. In the program, "students become “scientists for a day”": they attend introductory talks on the Standard Model, detectors and accelerators, then analyze authentic data from experiments such as the LHC, Belle II, Fermilab neutrino experiments and GSI particle therapy. The program is coordinated internationally and includes institutes in Egypt, Algeria, Morocco, Sao Tomé and Principe, and South Africa. (Uta Bilowa (2022))
 - **Masterclass day: talks, tour, measurement introduction, data analysis, and international videoconference**: The masterclass day follows a structured sequence: registration and welcome, an introduction to particle physics, a second talk or tour, an introduction to the measurement, lunch with physicists, a two-hour data analysis block, local combination of results and discussion, and an international videoconference. The article prints this as a Sample Agenda, noting that "The masterclass day varies depending on the institute and time zone but generally follows a plan similar to this Sample Agenda". The design moves learners from orientation, to hands-on measurement, to combining and discussing results with peers at other institutes. (Uta Bilowa (2022))
 - **ALICE masterclass program based on analysis of real data, updated into fully web-based formats including strangeness analysis and RAA measurement via python notebooks**: The ALICE particle physics masterclass program has long been based on analysis of real data with a customised ROOT framework. These were updated into web-based formats already in 2019, including "a fully web-basedanalysisofstrangeparticlesin ALICE" and "the measurement of the nuclear modiﬁcation factor via python notebooks". The web formats allow participants over wide areas with high accessibility to take part in masterclasses remotely. (Christian Klein-Bösing (2022))
+- **International Particle Physics Masterclasses: one-day hands-on outreach events at research institutes**: The International Particle Physics Masterclasses are one-day non-formal learning events for upper secondary pupils held at universities or research institutes running active particle physics research. The day includes introductory lectures, a roughly two-hour hands-on analysis of data from a major particle physics experiment, and an international videoconference in which up to five institutes discuss results with moderators from a major laboratory. The article reports that "each year about 13,000 pupils participate in IMC that take place at some 220 institutes from 55 countries", with coordination by IPPOG since 2005. (Júlia Kekeláková et al. (2023))
 
 ### Claims
 - [U.S. masterclass students were generally satisfied in 2011, with some improvement in overall satisfaction over 2010 despite the change from LEP to LHC exercises](../claims/masterclass-student-satisfaction-improved-2010-2011.md) [+M]
 - [Mixing ATLAS and CMS masterclass institutes in the same videoconference confused students, who did not understand the other experiment's terminology and could lose interest](../claims/mixing-atlas-cms-institutes-videoconference-confusion.md) [~W]
 - [International Masterclasses reached over 10,000 students in 50 countries in the 2017 season](../claims/imc-2017-scale-10000-students-50-countries.md) [+M]
 - [28% of Slovak masterclass participants reported at the end of the day that masterclasses influenced their choice of future studies](../claims/masterclass-influence-study-choice.md) [+M]
+- [Former Masterclass participants report a positive shift in their attitude towards science and research](../claims/imc-positive-attitude-shift-science.md) [+M]
+- [The authors conclude Masterclasses have a nudging effect on participants open to a scientific career and function as cultural transfer beyond particle physics](../claims/imc-nudging-effect-and-cultural-transfer.md) [+W]
 
 ## Related Products and Programmes
 
@@ -55,3 +58,4 @@ A CERN- and Fermilab-associated outreach programme in which high school students
 - Bardeen M G, Bitter O M, Glover M, de Jong S J, Lewis T R, Fetsko M, LaMee A, Rosenzweig C, Roudebush D, Santos A D, Wood S, Cecire K, Ruchti R, Fidalgo G, Malik S. (2022). Particle Physics Outreach to K-12 Schools and Opportunities in Undergraduate Education. https://arxiv.org/abs/2203.10953v1
 - Uta Bilowa, Kenneth Cecire. (2022). Physics Masterclasses in Africa and the World. https://arxiv.org/abs/2206.07004
 - Christian Klein-Bösing. (2022). ALICE in Public Outreach and Bricks. 41st International Conference on High Energy Physics - ICHEP2022. https://arxiv.org/abs/2211.13936
+- Júlia Kekeláková and Boris Tomášik. (2023). On the long-term impact of non-formal learning in particle physics. https://arxiv.org/abs/2307.15906

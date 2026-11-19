@@ -53,6 +53,7 @@ An implementable recipe for running the CDIO-CT strategy: "It is feasible to org
 - [Implement a two-stage integrated PBL process: pre-class preparation, in-class group case discussion, self-study, and next-class group reporting](integrated-pbl-session-implementation-strategy.md)
 - [Implement a 2-week CDIO-PBL rotation cycle combining PBL case-based theoretical clinics with a conceive-design-implement-operate skills cycle](cdio-pbl-two-week-rotation-cycle-strategy.md)
 - [Implement an ACS case teaching session combining pre-class self-study, small-group PBL, and simulated MDT role discussion](acs-pbl-mdt-flipped-session-strategy.md)
+- [Organize the Landau-Zener project as team-based comparison of alternative computational approaches](team-based-comparison-landau-zener-project.md)
 
 ## Examples
 -

@@ -46,6 +46,7 @@ The activity is set up as a step-by-step instruction to analyse real satellite d
 
 - [Scaffolded Questioning](scaffolded-questioning.md)
 - [Use real-event media — videos, satellite maps and audio recordings — as data sources students acquire themselves in physics problems](real-event-media-data-acquisition-strategy.md)
+- [Guide students to build and calibrate their own smartphone DNI instruments using tracing paper, a simple collimator tube, and on-site or satellite reference data](student-built-smartphone-solar-calibration.md)
 
 ## Examples
 -

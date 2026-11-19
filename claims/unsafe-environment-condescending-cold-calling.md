@@ -50,3 +50,4 @@ Qualitative coding of the 38 interviews (11 of 38 students). Students described 
 - [Female physics students reported feeling marginalized due to differential gender dynamics in instructor and TA interactions](differential-gender-dynamics-marginalization.md) — related
 - [Perceived condescension from male professors activated stereotype threat for a woman physics major, reducing her sense of belonging and discouraging her from asking questions](condescension-stereotype-threat-disengagement.md) — related
 - [Interviewed women reported belittling instructor comments, unequal praise of men, and contemplating leaving their majors because of negative physics course experiences](interviews-women-belittling-comments-unequal-praise.md) — related
+- [Exam culture with failing class averages and curving left physics majors feeling discouraged regardless of final grade](failing-exam-averages-discourage-physics-students.md) — related

@@ -68,3 +68,4 @@ Same eye-tracking analysis during Observe items (Table V): the visit-duration ef
 - [In one eye-tracking experiment, revising math-relevant visuals changes fixation length on them differently by prior knowledge group, with shorter fixations under the revised visuals for low prior knowledge students](revised-visuals-cognitive-load-math-visuals-interaction.md) — related
 - [Video-based materials produce longer total fixation duration and more visits than other modalities](video-materials-longer-fixation-more-visits.md) — related
 - [High response confidence is associated with shorter visit durations on both item questions and options](high-confidence-shorter-visit-durations.md) — related
+- [No statistically significant differences in mean fixation duration across areas of interest, despite large differences in total fixation duration](no-mean-fixation-duration-differences-aois.md) — related

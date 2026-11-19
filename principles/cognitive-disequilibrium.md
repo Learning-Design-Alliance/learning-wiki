@@ -22,7 +22,7 @@ sources:
 # Cognitive Disequilibrium
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (17 for, 12 mixed, 4 against) · 32 studies (14 causal, 5 quant-synthesis, 5 review, 3 theoretical, 2 qualitative, 2 design, 1 associational), `q1`–`q4` · 8 of 32 report an effect size · 28 claims rest on one study
+> **Evidence** · 35 claims (19 for, 12 mixed, 4 against) · 33 studies (15 causal, 5 quant-synthesis, 5 review, 3 theoretical, 2 qualitative, 2 design, 1 associational), `q1`–`q4` · 9 of 33 report an effect size · 30 claims rest on one study
 
 ## Conditional relationship
 
@@ -115,6 +115,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Students' teleologic explanations and anthropomorphic languages correlate with age and are associated with curricular undertaking](../claims/teleologic-anthropomorphic-language-related-to-age-and-curriculum.md) [+W]
 - [Anthropomorphic explanations appear in older children but less frequently, with only a minority of 14-year-olds' fuse explanations anthropomorphic](../claims/anthropomorphic-explanations-lessen-with-age.md) [+W]
 - [Backward curiosity may be an optimal starting point for promoting student learning](../claims/backward-curiosity-promotes-learning.md) [+W] — attached 2026-10-21 from Shin et al. (2019), which proposed "Design learning environments around an optimal knowledge gap, valued information, and curiosity-reinforcing feedback"; tests this page's relationship.
+- [In year 8, inducing cognitive dissonance outperformed the p-prim approach on the whole post-test, with a medium-to-high effect size](../claims/year8-cognitive-dissonance-outperforms-pprim-whole-test.md) [+M] — attached 2026-11-19 from Athanasopoulos (2022), which proposed "Use cognitive dissonance for topics with deep-rooted misconceptions, but only once students are familiar with the terms and ideas involved"; tests this page's relationship.
+- [In year 9, cognitive dissonance instruction outperformed the p-prim approach on the whole test, and only the cognitive dissonance group showed deep-learning gains](../claims/year9-cognitive-dissonance-outperforms-pprim-and-deep-learning.md) [+W] — attached 2026-11-19 from Athanasopoulos (2022), which proposed "Use cognitive dissonance for topics with deep-rooted misconceptions, but only once students are familiar with the terms and ideas involved"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

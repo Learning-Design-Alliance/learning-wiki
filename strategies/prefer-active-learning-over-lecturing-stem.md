@@ -53,6 +53,7 @@ Based on the meta-analytic evidence, the authors recommend abandoning traditiona
 ## Related Strategies
 
 - [Shift physics teaching from lecture methods to activity-based problem-solving models](shift-from-lecture-to-activity-based-physics-teaching.md)
+- [Adopt inclusive, non-lecture pedagogical practices and group-based problem solving in undergraduate physics](inclusive-non-lecture-physics-pedagogy-strategy.md)
 
 ## Examples
 -

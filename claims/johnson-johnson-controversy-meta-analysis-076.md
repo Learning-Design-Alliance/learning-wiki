@@ -51,3 +51,4 @@ Background literature reported within this article, attributed exactly as the so
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — a broader claim this one bears on
 - [Cooperative concept mapping produces better meaningful learning than individualistic concept mapping](cooperative-concept-mapping-better-than-individual.md) — related
 - [Cooperative learning shows benefits for gifted and high-ability students, though long-term evidence is lacking](cooperative-learning-gifted-students.md) — related
+- [Cooperative learning improves outcomes over competition and individualistic effort only when five basic elements are implemented](cooperative-learning-five-elements-qist.md) — related

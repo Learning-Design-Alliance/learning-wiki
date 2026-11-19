@@ -51,3 +51,4 @@ Analysis of institutional research office data for the 41 fall 2019 pilot course
 - [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](race-gender-grade-differences-persist.md) — related
 - [ASSISTments benefited students of color significantly more than White students, narrowing the ethnic achievement gap](assistments-close-ethnic-achievement-gaps.md) — related
 - [Data dives with disaggregated course success data surfaced equity gaps previously invisible to faculty](disaggregated-data-dives-surface-equity-gaps.md) — related
+- [Student retention in the restructured three-component online physics courses ranges from 85% to 99%, exceeding typical in-person retention levels](online-physics-retention-85-99-percent.md) — related

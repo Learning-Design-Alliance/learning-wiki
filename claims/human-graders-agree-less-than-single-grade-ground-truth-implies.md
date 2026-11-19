@@ -84,3 +84,5 @@ Agreement between human raters computed from public deposits with no model invol
 - [Experts distinguished a strong student submission from a weak one, confirming the rubric separates quality levels](experts-distinguished-strong-weak-submission.md) — related
 - [Peer evaluations of student teaching were reliable and consistent with instructor and TA evaluations, but self-evaluations were not reliable](peer-evaluations-reliable-self-evaluations-not.md) — related
 - [Raters using the rubric agree on at least 80% of grading decisions, with consistent reliability across about 200 students](rubric-inter-rater-reliability-above-80-percent.md) — related
+- [LLMs are useful but fallible graders, with final assessments remaining with human instructors](llm-grading-fallible-instructor-final-assessment.md) — related
+- [LLM marking agrees with human markers on only about half of graded Physics answers, and assigns higher, less variable normalized scores than humans](llm-marking-concordance-with-humans-about-half.md) — related

@@ -52,3 +52,4 @@ Qualitative open-thematic coding of semi-structured interviews with 5 experiment
 - [Almost all interviewed students held positive attitudes toward Web 2.0 tools for vocabulary learning](web2-vocabulary-positive-attitudes-interviews.md) — related
 - [ESL learners trained in metacognitive strategies hold more positive views of the strategies' effectiveness than untrained peers](trained-esl-learners-positive-views-metacognitive-strategies.md) — related
 - [Students hold positive attitudes towards e-learning that do not change over the course, yet continue to regard face-to-face lectures as the basis of their education](positive-e-learning-attitudes-lectures-still-basis.md) — related
+- [Students held uniformly positive attitudes toward learning programming early, and these views persisted or improved after instruction](positive-attitudes-programming-persist.md) — related

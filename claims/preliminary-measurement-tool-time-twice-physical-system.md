@@ -67,3 +67,4 @@ Same preliminary analysis of individual students in the short lab activity, repo
 - [An explicit emphasis on modeling gives labs a natural way to integrate systematic-error analysis through model assumptions, idealizations, and refinement](modeling-integrates-systematic-error-analysis.md) — related
 - [Students in introductory physics labs are almost never engaged in experiment design, so they hold only a theoretical view of setup limitations and how they affect measurement uncertainty](introductory-lab-students-not-engaged-in-design.md) — related
 - [Students in an upper-division physics lab engage in meaningful modeling of measurement tools, not just knob-turning](students-meaningfully-model-measurement-tools.md) — related
+- [Students are generally able to connect amplitude-spectrum peaks to the physical system investigated and draw meaningful conclusions from their data](students-connect-spectrum-peaks-to-physical-system.md) — related

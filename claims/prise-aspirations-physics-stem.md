@@ -73,3 +73,4 @@ Same 2020 questionnaire: 69 ± 9% reported PRiSE made them more likely to contin
 - [Co-produced novel physics research from PRiSE projects powerfully affects student co-authors and students at other schools](prise-co-produced-research-impact.md) — related
 - [Students and teachers overwhelmingly rate their overall PRiSE experience as positive](prise-students-teachers-positive-experience.md) — related
 - [Teachers and schools are positively affected by PRiSE participation across eight areas, including knowledge, confidence, pedagogy, and university relationships](prise-teacher-school-impacts.md) — related
+- [Elementary students' perceived science ability significantly increased after the Dark Skies, Bright Kids astronomy program, while creativity and science aspirations did not change significantly](dsbk-science-confidence-increased.md) — related

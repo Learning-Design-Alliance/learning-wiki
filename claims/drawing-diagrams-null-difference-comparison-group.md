@@ -55,3 +55,4 @@ Within the comparison group on problem 2, self-selected diagram-drawers outscore
 - [Within the no-support group, students who drew a diagram and those who did not performed similarly on problem 2](ns-group-drawing-null-difference.md) — related
 - [Students who drew productive diagrams significantly outperformed students who did not on both electrostatics problems, with large effect sizes](productive-diagram-drawers-outperform.md) — reports the opposite
 - [Unprompted diagram detail was not strongly correlated with selecting the correct answer on the Blocks problem, except non-given forces on the block in question](diagram-detail-not-strongly-correlated-correctness.md) — related
+- [Most physics graduate students spontaneously chose the diagrammatic approach, and graduate students outperformed introductory students on the quiz problem](grad-students-spontaneously-draw-diagrams.md) — related

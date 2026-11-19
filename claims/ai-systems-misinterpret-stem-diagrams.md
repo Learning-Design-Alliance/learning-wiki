@@ -71,3 +71,5 @@ Illustrative failure analysis of network topology interpretation (Figure 1c), de
 - [The pipeline generated grounded questions about complex multimodal diagrams, citing visual evidence](grounded-multimodal-diagram-questions.md) — related
 - [State-of-the-art multimodal LLMs cannot reliably interpret circuit diagrams and therefore cannot independently solve circuit analysis problems](vlm-cannot-interpret-circuit-diagrams.md) — a narrower finding that bears on this claim
 - [Students found diagrams much easier to remember than equations, but omitted non-salient diagram features such as bar widths encoding relative magnitude](diagrams-easier-to-recall-than-equations.md) — related
+- [The GPT-4 contextualization system fails on geometry problems involving graphs, tables, or diagrammatic components](gpt4-contextualization-geometry-visual-limitation.md) — related
+- [Image generation frequently failed to represent all components of multi-component STEM analogies](image-generation-misses-analogy-components.md) — a narrower finding that bears on this claim

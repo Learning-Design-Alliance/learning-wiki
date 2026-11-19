@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/lab-course-nominations-rationale-gender-difference.md
+---
+
+# Revision history: [claims/lab-course-nominations-rationale-gender-difference](../claims/lab-course-nominations-rationale-gender-difference.md)
+
+### 2026-11-19 · ingest · process:wiki-ingest
+Ingested from arxiv-2305.02415 (Who and what gets recognized in peer recognition) via eval_harness.py + ingest_extractions.py

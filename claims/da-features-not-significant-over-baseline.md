@@ -51,3 +51,4 @@ Regression series predicting normalized assessment scores from a prior-score bas
 - [Contextual Questions dialogue acts are negatively correlated with assignment outcomes across both semesters](contextual-questions-negative-assignment-outcomes.md) — a narrower finding that bears on this claim
 - [Adding contextualized emotion features to a worksheet-submission baseline model significantly improved prediction of overall game score](emotion-features-improve-over-baseline-model.md) — related
 - [Self-organization weakly but consistently predicts learning outcomes across both instructional modes](self-organization-weak-consistent-predictor.md) — related
+- [All classifier-predicted discourse features correlate significantly with classroom observation scores measuring instruction quality and classroom climate](discourse-features-correlate-observation-scores.md) — related

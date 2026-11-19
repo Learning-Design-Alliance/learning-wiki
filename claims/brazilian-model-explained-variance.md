@@ -51,3 +51,4 @@ Overall PLS-SEM model fit reported for the 301-response Brazilian survey; the au
 - [The Social Cognitive Model of Technology Integration explains 55% of variation in preservice teachers' technology integration intentions](scmti-explains-55-percent-intention-variance.md) — related
 - [Self-efficacy and attitudes towards technology integration predicted positive experiences in online distance teaching, jointly explaining 52% of variance.](efficacy-attitudes-predict-positive-online-teaching-experiences.md) — related
 - [The model explains substantial variance in emotional engagement and active learning with good predictive relevance](swbcl-model-explained-variance.md) — related
+- [Remote-teaching practices explain substantially more variance in student satisfaction (R2 = 0.747) than in learning outcomes (R2 = 0.480)](satisfaction-variance-explained-more-than-outcomes-remote.md) — a narrower finding that bears on this claim

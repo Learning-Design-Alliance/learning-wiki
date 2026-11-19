@@ -53,6 +53,7 @@ The article recommends deploying automatic reflection-level classifiers as assis
 - [Suggest targeted exercises from weak essay categories based on relative student performance](targeted-exercises-weak-essay-categories.md)
 - [Use the predictive model as a screening aid complementing existing academic monitoring, not as a deterministic evaluation tool](predictive-model-as-screening-aid-not-deterministic-tool.md)
 - [Show solution statistics from automatic assessment tools as indirect gamification](solution-statistics-indirect-gamification.md)
+- [Use LLMs as learning supports offering immediate feedback and individualized learning experiences, not as replacements for human instruction](llms-immediate-feedback-individualized-support-physics.md)
 
 ## Examples
 -

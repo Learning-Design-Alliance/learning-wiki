@@ -65,6 +65,7 @@ Storytelling works because narratives induce *transportation* — absorption int
 - [Build online multimedia lessons with slide-sharing, survey, and video-sharing tools in a three-stage workflow](common-tools-ctml-lesson-workflow.md)
 - [Use narrative story structure to ease student tension and increase relevance when teaching sensitive health topics](narrative-structure-eases-tension-sensitive-health-topics.md)
 - [Produce PBL scenario animations inexpensively with off-the-shelf web-based animation apps](off-the-shelf-animation-scenario-production-strategy.md)
+- [Use generative AI to produce analogies and visual storyboards for abstract STEM concepts](generative-ai-analogy-storyboard-strategy.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — the story can frame a narrated demonstration of the procedure

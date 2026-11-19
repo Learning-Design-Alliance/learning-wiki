@@ -55,3 +55,4 @@ Participatory design study in which two K-12 interns gave daily and weekly feedb
 - [Most ITS participants (95.3%) continued tutorial support after the intervention, and the authors observed improved attitudes toward learning](its-participants-continued-tutorial-support-attitude-change.md) — related
 - [Iterative refinement across ten academic cycles improved scenario fidelity, debriefing structure, and CR alignment](iterative-refinement-ten-academic-cycles.md) — related
 - [Moderator engagement evolved from structured, formal guidance toward informal, personalized, and more complex dialogue over the cycles](moderator-engagement-progression-informal-complex.md) — related
+- [In the roller coaster loop dialogue, ChatGPT excelled at providing clear explanations, addressing misconceptions, and promoting active learning through Socratic questioning.](chatgpt-socratic-roller-coaster-active-learning.md) — related

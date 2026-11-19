@@ -13,7 +13,7 @@ generated:
 # Epistemic Beliefs
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 75 claims (55 show a difference, 14 mixed, 6 no difference) · 50 studies (11 causal, 11 qualitative, 8 design, 7 review, 7 associational, 3 quant-synthesis, 3 theoretical), `q1`–`q3` · 3 of 50 report an effect size · 75 claims rest on one study
+> **Evidence** · 77 claims (56 show a difference, 14 mixed, 7 no difference) · 52 studies (12 causal, 11 qualitative, 8 design, 7 review, 7 associational, 4 theoretical, 3 quant-synthesis), `q1`–`q3` · 3 of 52 report an effect size · 77 claims rest on one study
 
 ## Description
 Epistemic (or epistemological) beliefs are what a learner takes knowledge and knowing to be. Learners who see knowledge as certain, simple and given by authority tend to read conflicting sources less critically and to expect quick answers; learners who see it as tentative and evidence-based integrate sources and argue more. Beliefs are measured by questionnaires and interviews and vary by domain. They predict comprehension of conflicting texts and argumentation, moderate inquiry-based designs, and are an outcome that instruction in the nature of science or in sourcing can change.
@@ -107,6 +107,8 @@ Epistemic (or epistemological) beliefs are what a learner takes knowledge and kn
 - [Students of TAs who adopted nature-of-science instruction showed a sizable increase on NoS-related E-CLASS items, with a statistically significant difference between the two TA groups and the two item categories](../claims/ta-nos-buy-in-improves-student-eclass-nos-attitudes.md) [+M] — measured as an outcome of the instruction studied
 - [Without TA engagement with the nature-of-science module, most TAs did not use the proposed strategies and their students regressed more on NoS-related E-CLASS items than on other items](../claims/without-ta-nos-engagement-students-regress-on-nos-items.md) [-M] — measured as an outcome of the instruction studied
 - [A student’s belief that intuition need not be reconciled with mathematical formalism may have prevented her from checking representational consistency](../claims/epistemological-beliefs-block-consistency-check.md) [+W] — learners who differ on it differ in outcomes
+- [Nature-of-science perceptions showed no statistically significant change after the astronomy program, but the majority of students' beliefs aligned with NOS tenets throughout](../claims/dsbk-nos-perceptions-unchanged-yet-aligned.md) [-M] — measured as an outcome of the instruction studied
+- [Students' belief that they only need to get answers in a science class often blocks building an appropriate story](../claims/answer-focus-blocks-story-building.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Can instruction shift learners' views of how scientific knowledge is made and judged, and do the shifts last?* [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](../claims/both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) [+M]

@@ -74,3 +74,4 @@ Same two-wave descriptive survey of the gamified CMN 450 and ITM 445 courses. "8
 - [A large majority of students perceived the gamified review activities as useful, motivating, and enjoyable](students-perceive-gamification-useful-motivating-enjoyable.md) — related
 - [Self-reported attention, concentration, and involvement did not differ between OLM and IPL students](no-difference-attention-concentration-involvement-olm-ipl.md) — related
 - [A large majority of students in both transformed semesters rated the course aspects as useful or very useful for their learning](transformed-em-ii-student-approval.md) — related
+- [During a first middle-school test of Edukoi, classes maintained high attention and reported enjoyment, but found counting stars by sound very difficult.](edukoi-classroom-test-qualitative-feedback.md) — related

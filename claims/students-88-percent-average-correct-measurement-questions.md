@@ -50,3 +50,4 @@ Classroom pilot study of 70 students answering seven multiple-choice questions o
 
 ## Related Claims
 - [Students scored above 96% on simple vernier caliper reading questions and above 81% on zero-error questions](simple-readings-outperformed-zero-error-questions.md) — a narrower finding that bears on this claim
+- [In the authors' Physics Practical I course, intensive retrieval with interleaved station-rotation practice significantly enhanced students' experimental skills](station-rotation-interleaved-practice-enhanced-experimental-skills.md) — related

@@ -50,3 +50,4 @@ Qualitative survey and informal interviews with the pilot students; this excerpt
 - [Students found learning with the computer models fun, interesting and extending beyond the syllabus, and expressed appreciation](ejs-simulations-fun-beyond-syllabus-appreciation.md) — related
 - [Students reported that Tracker lessons supported fun, self-directed inquiry learning of physics](students-reported-fun-inquiry-tracker-lessons.md) — related
 - [Students reported that pairing hands-on real tools with virtual tools helped them verify and understand both instruments](students-report-real-and-virtual-tools-mutually-supporting.md) — related
+- [In the authors' Physics Practical I course, intensive retrieval with interleaved station-rotation practice significantly enhanced students' experimental skills](station-rotation-interleaved-practice-enhanced-experimental-skills.md) — related

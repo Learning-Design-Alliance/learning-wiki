@@ -52,3 +52,4 @@ Questionnaire survey of BSc Medical Physiology and Therapeutics students, first-
 - [The majority of BSc students said virtual microscope sessions could not be run adequately without staff present.](vm-sessions-need-staff-present.md) — related
 - [Undergraduates reported more difficulty understanding online content and less doubt-clearing than postgraduates and faculty](undergraduates-greater-difficulty-online-content.md) — related
 - [Students' perceived understanding of microscopic morphology rose from before to after annotation activities in one uncontrolled pre-post study, in both junior and senior cohorts](annotation-activities-improve-perceived-understanding.md) — related
+- [Post-survey: the large majority of students found the Python introduction feasible or easy, and none chose 'Very difficult'](python-introduction-feasibility-post-survey.md) — related

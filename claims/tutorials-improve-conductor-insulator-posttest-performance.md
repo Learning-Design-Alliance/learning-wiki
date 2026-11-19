@@ -50,3 +50,4 @@ Controlled pre-/post-test study in equivalent introductory physics courses using
 - [Both jigsaw and traditionally taught groups showed statistically significant pre-test to post-test gains, with a larger gain in the jigsaw group](jigsaw-and-control-both-gain-significantly-pre-to-post.md) — reports the opposite
 - [In Harvard's introductory physics course, average FCI posttest scores and normalized gain rose sharply in the year it switched from traditional lectures to Peer Instruction](fci-gain-increased-peer-instruction-harvard.md) — related
 - [Pupils taught with the IWB and XERTE resource scored no better on post-tests than pupils taught traditionally](iwb-no-significant-score-difference-mauritius.md) — related
+- [Tutorial and comparison groups performed comparably on the pre-test after traditional lecture-based instruction (p = 0.6)](superposition-tutorial-groups-comparable-pretest.md) — related

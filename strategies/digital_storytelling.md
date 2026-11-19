@@ -74,6 +74,7 @@ Digital storytelling is a generative learning activity: transforming content int
 - [Use integrated-skills project work on environmental topics to raise awareness and language skills](integrated-skills-project-work-environmental-topics.md)
 - [Use narrative story structure to ease student tension and increase relevance when teaching sensitive health topics](narrative-structure-eases-tension-sensitive-health-topics.md)
 - [Extend a vaccine education knowledgebase with multimedia, storytelling, cancer-awareness content, and subject matter expert accuracy evaluation](knowledgebase-multimedia-storytelling-expert-feedback-strategy.md)
+- [Use 'maths-free' interactive Visual Stories with guiding narratives to engage general public audiences with complex mathematical models](visual-stories-maths-free-outreach.md)
 
 ## Related Elements
 - [Application](../elements/application.md) — the story is an authentic application of content knowledge

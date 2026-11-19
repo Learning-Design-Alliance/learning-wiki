@@ -99,3 +99,4 @@ The review's synthesis of 42 empirical studies reports the tally of grading comp
 - [AI-assisted grading does not significantly differ from human grading in short-answer score discrimination in the pooled sample](ai-grading-pooled-discrimination-null.md) — related
 - [LLM-generated feedback quality ratings are similar to human ratings, whereas LLM authenticity ratings are higher and presumably inaccurate](llm-zero-shot-rater-feedback-similar-authenticity-inflated.md) — related
 - [AI-generated short-form physics essays marked by five independent markers averaged 71 ± 2%, in strong agreement with the module average of 71 ± 5%](ai-essays-first-class-physics-essay-marks.md) — related
+- [LLM marking agrees with human markers on only about half of graded Physics answers, and assigns higher, less variable normalized scores than humans](llm-marking-concordance-with-humans-about-half.md) — a narrower finding that bears on this claim

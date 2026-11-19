@@ -48,3 +48,4 @@ Network-level statistics (density and indegree centralization with bootstrap sta
 - [Discussion forum contributions predict receiving lecture-context nominations but not lab-context nominations](forum-contributions-predict-lecture-not-lab-nominations.md) — related
 - [Students with higher final course grades receive significantly more peer nominations in every course and context](final-grade-predicts-peer-nominations-all-contexts.md) — related
 - [Lab section enrollment shapes nominations in both contexts, while discussion section enrollment predicts only lecture-context nominations](section-homophily-context-specific-nominations.md) — related
+- [Lab recognition networks show higher transitivity and connectedness than lecture networks, attributed to graded small-group lab work](lab-networks-higher-transitivity-than-lecture.md) — related

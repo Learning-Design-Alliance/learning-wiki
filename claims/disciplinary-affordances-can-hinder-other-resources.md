@@ -70,3 +70,4 @@ Episode 3 analysis: as Larry moved to mathematical formulas to find the field ma
 - [Different semiotic resources in the same mode carry different disciplinary affordances that access different aspects of physics knowledge](semiotic-resources-different-disciplinary-affordances.md) — a broader claim this one bears on
 - [A student can stand fast on a developed durable representation and later translate to a second durable representation (mathematics)](stand-fast-then-translate-to-mathematics.md) — related
 - [Students build new meaning onto durable representations using evanescent representations during problem solving](students-build-meaning-on-durable-representations-with-evanescent.md) — related
+- [Post-tests of the Maths of Arrows module show nearly 100% of students understood vectors and vector addition, and nearly 90% correctly used the right-hand rule for spin vectors](meu-vectors-phasors-post-test.md) — related

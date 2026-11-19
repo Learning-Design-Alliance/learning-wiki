@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-11-19
 sources:
   - id: alberto-sebastián-lombraña-2023
     resource: "https://doi.org/10.1088/1748-0221/18/03/c03026"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Attendee feedback on the hands-on quantum communication workshop was assessed as very positive, and attendees with diverse profiles showed interest in different fundamentals and implications of quantum communication. [→ Alberto Sebastián-Lombraña 2023](#alberto-sebastian-lombrana-2023)
