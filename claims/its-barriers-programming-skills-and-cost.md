@@ -61,3 +61,4 @@ Literature-based analysis in the online personalized learning systems section id
 - [Computation integration requires choosing an accessible, affordable platform, a barrier specific to computation because no universal physics coding language exists](accessible-platform-barrier-computation.md) — related
 - [Instructor time remains a barrier to computation integration, compounded because instructors may need to design entirely new computational materials rather than reuse existing ones](instructor-time-barrier-computation.md) — related
 - [Lack of instructor knowledge is a new systemic force for computation integration, manifesting as lack of coding experience or as lack of activity-design expertise for novice programmers](lack-instructor-knowledge-new-force.md) — related
+- [Adopting blockchain in education faces four stated limitation areas: security, scalability, adoption rate and cost](blockchain-education-limitations-four-areas.md) — related

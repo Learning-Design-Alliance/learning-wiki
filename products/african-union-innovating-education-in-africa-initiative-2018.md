@@ -27,4 +27,4 @@ A programme established and run by the African Union to identify, promote, suppo
 -
 
 ## Key Sources
-- Ramaila, S. (2022). Physics Education for Capacity Development and Research in Africa. Proceedings of the African Conference on Fundamental and Applied Physics, Second Edition (ACP2021), Virtual Event. https://www.africanschoolofphysics.org
+- Ramaila, S. (2022). Physics Education for Capacity Development and Research in Africa. Proceedings of the African Conference on Fundamental and Applied Physics, Second Edition (ACP2021), Virtual Event. https://www.africanschoolofphysics.org. [doi:10.48550/arxiv.2206.03145](https://doi.org/10.48550/arxiv.2206.03145)

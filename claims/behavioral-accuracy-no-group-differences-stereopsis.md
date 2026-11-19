@@ -51,3 +51,4 @@ Module 1 learning-curve analysis of proportion-correct across five blocks: accur
 - [Reward positivity showed no forgetting-curve lapse after ~30 days despite a lapse in behavioral accuracy, indicating retained ability to internally evaluate responses](reward-positivity-no-forgetting-curve-30-days.md) — related
 - [Spatial ability correlated positively with neuroanatomy performance across pretest and both quizzes in a crossover 3D-module study (Allen et al.)](allen-spatial-ability-correlates-neuroanatomy-performance.md) — related
 - [AR and 2D methods boosted knowledge similarly, but the 3D AR method drew greater satisfaction and student preference (Lopez et al.)](lopez-ar-similar-knowledge-higher-satisfaction.md) — related
+- [In preliminary acoustic testing, stereo position was interpreted as 3D rather than 2D, and loudness and pitch differences were hardly quantifiable](acoustic-stereo-3d-misperception-loudness-pitch-hard.md) — related

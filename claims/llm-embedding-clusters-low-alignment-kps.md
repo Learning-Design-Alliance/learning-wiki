@@ -51,3 +51,4 @@ Cluster-analysis study comparing bottom-up clusters from three LLM embedding mod
 - [LLMs show discoverability bias: they accurately identify only high-quality open-ended biology responses and miss nuanced misconceptions](llm-discoverability-bias-open-ended-biology-assessment.md) — related
 - [A small monolingual embedding model (AlephBERT) outperformed larger multilingual models on KP retrieval in both ARI and per-KP F1 analyses](monolingual-small-model-outperforms-multilingual-kp-retrieval.md) — a broader claim this one bears on
 - [HDBSCAN clustering of BERT embeddings yielded fifteen clusters capturing the content and complexity of students' mechanistic reasoning](hdbscan-clusters-capture-reasoning-content-and-complexity.md) — related
+- [Clustering solutions by AI grading scores and similarity-of-approach roughly aligns with manual grading clusters and total scores](ai-clustering-aligns-manual-grading.md) — related

@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 484 claims (247 for, 209 mixed, 28 against) · 364 studies (115 associational, 89 design, 63 causal, 48 review, 30 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 33 of 364 report an effect size · 476 claims rest on one study
+> **Evidence** · 485 claims (248 for, 209 mixed, 28 against) · 365 studies (115 associational, 90 design, 63 causal, 48 review, 30 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 33 of 365 report an effect size · 477 claims rest on one study
 
 ## Conditional relationship
 
@@ -328,6 +328,7 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Low F-grades on exam problems are the primary source of the percent-scale-dependent extra grade penalty for underrepresented students.](../claims/low-f-grades-source-of-extra-penalty.md) [+W] — attached 2026-11-19 from Cassandra A. Paul et al. (2022), which proposed "Switching from percent-scale grading to a 4-point grade scale (or similar) could reduce equity gaps by 20-25% without any other course changes."; tests this page's relationship.
 - [Students from underrepresented groups are 83% more likely than their peers to be shifted from a passing grade under 4-point grading to a failing grade under percent grading.](../claims/urm-disproportionate-failing-under-percent.md) [+W] — attached 2026-11-19 from Cassandra A. Paul et al. (2022), which proposed "Switching from percent-scale grading to a 4-point grade scale (or similar) could reduce equity gaps by 20-25% without any other course changes."; tests this page's relationship.
 - [Classroom multiple-choice tests average 62 items with a mean test score of 65% and a length-adjusted reliability of 0.77, establishing a baseline for as-deployed classroom MCT psychometrics.](../claims/classroom-mct-baseline-psychometrics.md) [~W] — attached 2026-11-19 from Slepkov et al. (2020), which proposed "Use item-excluded correlations and length-normalized reliability, with empirically updated category ranges, when assessing classroom multiple-choice test quality.".
+- [GPT-4 rubric grades of written physics solutions correlate positively with manual grading, with R² ≈ 0.83 for total scores](../claims/gpt4-total-score-correlation-manual-grading.md) [+W] — attached 2026-11-19 from Gerd Kortemeyer (2023), which proposed "Use AI grading only for an initial sorting and flagging round in summative assessment, with human verification before scores are returned"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

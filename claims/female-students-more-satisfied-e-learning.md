@@ -61,3 +61,4 @@ A t-test on global satisfaction ratings from 1,185 students on 27 e-learning cou
 - [Male students and students from rural areas give lower evaluations of and are less satisfied with ongoing online education than female and urban students](gender-area-gaps-online-education-perceptions.md) — related
 - [Nurses rate e-learning as more valuable for their working situation than classroom teaching despite similar content](e-learning-higher-specific-work-value-rating.md) — related
 - [Male students' average effect sizes in LA-supported courses were statistically significantly different from, and higher than, female students'](lasso-gender-effect-size-gap.md) — related
+- [Female students reported significantly higher satisfaction with the course's online resources than male students](gender-gap-online-resource-satisfaction.md) — a narrower finding that bears on this claim

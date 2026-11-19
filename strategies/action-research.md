@@ -90,8 +90,8 @@ Action research operationalizes formative evaluation at the level of one's own t
 - Cochran-Smith, M., & Lytle, S. L. (2009). *Inquiry as stance: Practitioner research for the next generation*. Teachers College Press.
 - John T. Agor. (2014). Language-Learner Strategy Instruction and English Achievement: Voices from Ghana. English Language Teaching, 7(6). http://dx.doi.org/10.5539/elt.v7n6p175
 - Razfar, A. (2011). Action Research in Urban Schools: Empowerment, Transformation, and Challenges. Teacher Education Quarterly, 38(4), 25-44. https://eric.ed.gov/?id=EJ949874
-
 <!-- merged 2026-11-02 from research-methods/action-research ("Action research"), cross-folder collision: same practice (practitioner plan-act-observe-reflect cycles); design side kept: its body as it stood. Its bullets this page lacked were added above.
+- Lahme S Z, Pirinen P, Rončević L, Lehtinen A, Sušac A, Müller A and Klein P. (2023). A framework for designing experimental tasks in contemporary physics lab courses. https://www.jyu.fi/digiphyslab
 
 # Action research
 
@@ -104,6 +104,7 @@ The study adopts action research, defined as a kind of study carried out by a pr
 ## Accounts
 <!- - How each source describes or uses the method - ->
 - **Action research as a framework for practitioner-led pedagogical intervention in language education**: The study adopts action research, defined as a kind of study carried out by a practitioner, usually in collaboration with others, concerned with identification and solution of problems in a specific educational setting. The article identifies three defining characteristics: it is carried out by a practitioner, it is collaborative, and it is aimed at changing things. Nunan's five-stage procedure is described, from initiation by a practitioner through collaboration, objective data collection, dissemination, to an ongoing cycle in which the instructor "reflects on, returns to, and extends the initial enquiry". (John T. Agor (2014))
+- **Action Research provides the iterative plan-act-observe-reflect cycle for implementing and improving experimental tasks**: The article uses Action Research as the second structural basis, describing "an ongoing process of innovation consisting of several linked cycles of four steps: plan, act, observe, and reflect." In the framework, design principles 3 to 5 link to AR: after implementation, reflection can lead either to accepting the task or to modification, whereupon "a new cycle of planning, acting, overserving, and reflecting is performed." (Lahme S Z et al. (2023))
 
 ### Claims
 

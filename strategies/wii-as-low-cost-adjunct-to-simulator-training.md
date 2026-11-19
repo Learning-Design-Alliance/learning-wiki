@@ -49,6 +49,7 @@ The authors recommend adding structured Nintendo Wii training to standard surgic
 
 - [Adapt the progressive laparoscopic program to resource-limited settings by grouping trainees per animal, expanding lower-cost ex vivo practice, and retaining core box trainer and VR modules](resource-adaptive-laparoscopic-training-strategy.md)
 - [Select AVG systems for curriculum implementation by clinical utility, patient-friendly capability, and cost-effectiveness](avg-system-selection-criteria-strategy.md)
+- [Adopt LiDAR Motion as a low-cost motion-graphs option for schools with iPad or personal-device policies and for home learning](lidar-motion-for-low-budget-byod-schools.md)
 
 ## Examples
 -

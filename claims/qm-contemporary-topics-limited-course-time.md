@@ -71,3 +71,6 @@ One instructor called the Bell inequality experiments "a major breakthrough that
 - [Student discomfort with physical concepts increases over the semester, peaking during the quantum computing and entanglement units where the physics category dominates](physics-discomfort-peaks-quantum-computing-entanglement.md) — related
 - [Introductory physics textbooks typically omit quantum entanglement despite its centrality to quantum information science](intro-textbooks-omit-entanglement.md) — related
 - [Introductory physics classes essentially ignore modern physics, and textbooks contain mostly 18th- and 19th-century concepts](introductory-physics-classes-ignore-modern-physics.md) — related
+- [The article proposes a multi-perspective teaching plan for entanglement that pairs each concept's mathematical equations with its quantum circuit, Julia code, and classical simulation result.](entanglement-multi-perspective-teaching-plan.md) — related
+- [Learning goals differ by experiment: SPDC emphasizes skills over concepts, and the entanglement goal is tied mainly to Bell's inequality](goals-vary-by-experiment-spdc-bell.md) — related
+- [Instructors report that popular media hype is a major motivator of student interest and enrollment in quantum computing electives](media-hype-motivates-student-enrollment-quantum-courses.md) — related

@@ -50,3 +50,4 @@ Same FIG. 3a normalized-comparison analysis; the discussion adds that physics de
 - [Engineering-bound leavers exit physics during or after the first E&M course, while other-STEM-bound leavers leave much later](exit-timing-differs-by-destination-degree.md) — related
 - [Grades in introductory physics and calculus, course timing, gender, and ethnicity have negligible effect sizes and much smaller roles in predicting physics versus engineering graduation](grades-demographics-negligible-effect-physics-degree.md) — related
 - [Lower-division coursework performance is a strong indicator of whether an electrical engineering student graduates](lower-division-performance-indicates-graduation.md) — related
+- [Mean grade versus math test score is concave up in introductory physics but concave down in comparison STEM courses, with physics intercepts about 0.7 grade points lower at the physics median test score](physics-grade-penalty-concave-test-score.md) — related

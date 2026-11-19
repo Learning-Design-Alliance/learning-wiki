@@ -55,6 +55,7 @@ The article describes a concrete implementation: Kahoot quizzes of 10–15 quest
 ## Related Strategies
 
 - [Use team-based gamified quizzes at the start and end of teaching sessions to complement traditional histology teaching](team-based-gamified-quiz-strategy.md)
+- [University students design and monitor gamified activities (escape room and Kahoot! quiz) to teach an SDG to secondary students](escape-room-kahoot-sdg-strategy.md)
 
 ## Examples
 -

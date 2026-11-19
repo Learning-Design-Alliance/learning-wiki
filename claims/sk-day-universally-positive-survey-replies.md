@@ -47,3 +47,4 @@ Practitioner report of end-of-day anonymous questionnaires completed by particip
 ## Related Claims
 - [No surveyed student decided against returning to future modules, and 15% offered criticisms and suggestions for improvement](holographic-exhibit-return-intent-and-suggestions.md) — related
 - [Participants report strong future engagement intentions and high enjoyment of the e-textile STEAM PD program](e-textile-pd-future-engagement-satisfaction.md) — related
+- [100% of responses to the participant feedback survey wanted to see more events like this in Spanish](participants-want-more-spanish-quantum-events.md) — related

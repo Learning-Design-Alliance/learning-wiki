@@ -67,6 +67,7 @@ Misconceptions are resistant to simple transmission of correct information; lear
 - [Use challenging, low-cost Predict–Observe–Explain experiments that put students' alternative conceptions about fluid pressure into play](poe-fluid-misconception-experiments.md)
 - [Workshop sequence: elicit prior ideas, simple introductory talk, consolidation with tactile material, then questions and conclusions](astrobvi-elic-talk-tactile-consolidate-sequence.md)
 - [Use group discussions and student presentations to quality-control students' physical intuitions](intuition-quality-control-discussion-presentations.md)
+- [Elicit and critically engage with media-derived claims as a myth-busting approach to media-inflated preconceptions](elicit-confront-media-claims-myth-busting.md)
 
 ## Examples
 - **Physics education research curricula** such as *Tutorials in Introductory Physics* (University of Washington) and *RealTime Physics* use pre-tutorial predictions, discrepant experiments, and guided reconciliation to repair force-and-motion misconceptions. [https://www.phys.washington.edu/groups/peg/](https://www.phys.washington.edu/groups/peg/)

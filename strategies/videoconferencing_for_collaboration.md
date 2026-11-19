@@ -68,6 +68,7 @@ Videoconferencing can support [Collaborative Learning](../principles/collaborati
 - [Invite students to co-facilitate tasks by typing content into the shared whiteboard or chat](student-co-facilitation-via-shared-chat-typing.md)
 - [Provide real-time learning-process support to distant learners during case study solution](real-time-learning-process-support-strategy.md)
 - [Support remote student collaboration with student-managed chat platforms such as Discord servers for sharing code and links](student-discord-servers-remote-collaboration-strategy.md)
+- [Use videoconferencing meeting mode rather than webinar mode so students can activate microphone and webcam](zoom-meeting-mode-student-intervention.md)
 
 ## Examples
 - **Microsoft Teams** (https://www.microsoft.com/education/products/teams) — channels, breakout rooms, and integrated Office co-editing; widely used in K-12 and higher education for project groups.

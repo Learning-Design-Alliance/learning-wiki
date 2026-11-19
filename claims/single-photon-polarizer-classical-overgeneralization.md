@@ -58,3 +58,4 @@ Qualitative finding from semi-structured think-aloud interviews conducted during
 - [Visual puzzle-based representation can convey the Hong-Ou-Mandel effect without mathematical formalism](hom-effect-visual-explanation.md) — related
 - [An optics-based approach using classical light polarization provides a clear and accessible way to represent quantum states and gate operators and facilitates learning and transfer to other STEM skills in a high school quantum computing course](classical-optics-represents-quantum-states-high-school.md) — related
 - [Photon polarization offers an accessible entry-level two-level system for introducing quantum concepts in outreach and education](photon-polarization-entry-level-quantum-teaching.md) — related
+- [Setting up and manipulating optics and taking and analyzing data are the most common student actions in single-photon experiment courses](single-photon-experiment-student-actions.md) — related

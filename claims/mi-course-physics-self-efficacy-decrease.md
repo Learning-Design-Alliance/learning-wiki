@@ -53,3 +53,4 @@ Dependent samples t-tests on SOSESC-P survey responses from three MI courses (N 
 - [Female students' fascination with physics decreased significantly more than males' after calculus-based Physics 1, widening the gender gap](female-fascination-declines-calculus-physics-1.md) — related
 - [Among students who missed a vertical-transfer question on the pre-test, those answering it correctly on the post-test increased in self-efficacy while those still incorrect decreased](q3-improvers-higher-self-efficacy.md) — related
 - [Women showed larger normalized gains than men on the calculus transfer questions despite lower self-efficacy](women-larger-calculus-transfer-gains.md) — related
+- [The class showed positive but not statistically significant self-efficacy change over the semester (normalized change 0.09, Cohen's d = 0.27)](class-positive-nonsignificant-change-0-09.md) — related

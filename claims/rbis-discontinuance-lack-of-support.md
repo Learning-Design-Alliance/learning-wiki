@@ -53,3 +53,4 @@ The article reports, citing prior work (ref 7), that "about a third of these fac
 - [Misalignment between assessment and instruction leads faculty to discontinue 3DL material, while successful alignment supports continued use](assessment-instruction-alignment-drives-uptake.md) — related
 - [The New Faculty Workshop for Physics and Astronomy supported both subjects' development of their teaching practices](new-faculty-workshop-supports-teaching-growth.md) — related
 - [Reading PERbites rarely led readers to try new instructional strategies or research techniques](perbites-limited-practice-change.md) — related
+- [Discontinuation of research-based instructional strategies after trying fell from 32% of triers in 2008 to 5% in 2019](rbis-discontinuation-fell-32-to-5-percent.md) — related

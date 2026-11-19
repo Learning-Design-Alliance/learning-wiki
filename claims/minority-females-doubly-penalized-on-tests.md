@@ -61,3 +61,4 @@ The entry reports one year of score averages for one group (Black test-takers) f
 - [Intersectional brilliance stereotypes show mixed patterns, supporting both intersectional invisibility and double jeopardy accounts](intersectional-brilliance-stereotypes-mixed.md) — related
 - [Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which used SAT scores to decide summer-program invitations, was inviting over 2,500 boys but only 1,081 girls although equal numbers took the test](test-scores-gate-gifted-program-entry.md) — related
 - [Overachievers (low SAT, high upper GPA) are disproportionately female (64%) and underachievers disproportionately male (79%)](overachievers-female-underachievers-male.md) — related
+- [Minorities in brilliance-oriented disciplines experience higher levels of imposterism with negative career consequences](imposterism-in-brilliance-disciplines.md) — related

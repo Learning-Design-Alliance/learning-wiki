@@ -51,3 +51,4 @@ Likert-scale survey item compared across years with chi-square. "a higher percen
 - [Students reported the application increased self-confidence before meeting real patients and supported case-solving ability](mobile-vp-qualitative-confidence-case-solving.md) — related
 - [Participants rated the immersive VR hypothermia training very positively, with realism 8.87/10 and usefulness scores above 4.7/5](vr-als-training-positive-perception-ratings.md) — related
 - [Quarantine increased student collaboration with colleagues, especially among fifth-year students](quarantine-increased-peer-collaboration-fifth-year.md) — related
+- [Most secondary-school participants valued the service-learning collaboration positively: 60% liked collaborating with university students, 65% liked the activities, and 72% considered they had learned interesting things](secondary-students-positive-evaluation-abase-de-pros.md) — related

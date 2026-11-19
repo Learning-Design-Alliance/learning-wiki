@@ -45,7 +45,8 @@ The Histo.Embryo account deliberately aligned posts with the timeline of histolo
 - [Static quiz-based posts dominate engagement on an educational histology Instagram account, indicating a preference for active recall formats](../claims/histo-embryo-static-quiz-posts-dominate-engagement.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Student-produced social-media science-communication posts as a mandatory concluding activity](student-social-media-scicomm-posts-strategy.md)
 
 ## Examples
 -

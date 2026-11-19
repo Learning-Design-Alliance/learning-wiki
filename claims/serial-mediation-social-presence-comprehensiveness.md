@@ -52,3 +52,4 @@ Bootstrapped serial mediation analysis (10,000 simulations, Hayes 2013) with lea
 - [The chat manipulation increased personal references but not rated social presence compared with the other explaining conditions](chat-condition-personal-references-not-presence-ratings.md) — related
 - [Oral explanations contained more concepts and elaborations than chat-based written explanations](oral-explanations-more-concepts-and-elaborations-than-chat.md) — related
 - [Inducing social presence in a chat-based writing condition did not improve comprehension compared with oral, standard written, or retrieval conditions](social-presence-chat-writing-no-comprehension-benefit.md) — related
+- [Experts refer to a significantly higher number of concepts than novices when explaining their answers (d = 1.10)](experts-mention-more-concepts-composer.md) — related

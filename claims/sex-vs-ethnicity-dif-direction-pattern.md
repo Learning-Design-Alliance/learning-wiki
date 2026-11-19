@@ -54,3 +54,4 @@ Detailed breakdown of the eight notable DIF items in Table 2, covering uniform, 
 - [UK female medical graduates had 1.18 times the odds of passing PACES at first attempt compared with male UK graduates](uk-graduates-female-advantage-or-1-18.md) — related
 - [The female advantage in first-attempt PACES pass rates is largest in non-UK graduates not registered with the GMC and smallest in UK graduates](sex-effect-size-varies-by-pmq-group.md) — related
 - [Female non-UK graduates registered with the GMC had nearly one and a half times the odds of passing PACES compared with male counterparts](non-uk-gmc-registered-female-advantage-or-1-47.md) — related
+- [No apparent patterns between gender and control or agreement scores in the preliminary subset](no-gender-pattern-dominance-scores-preliminary.md) — related

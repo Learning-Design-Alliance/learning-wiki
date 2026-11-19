@@ -54,6 +54,7 @@ The review identifies several game elements used across studies: "points, badges
 - [Learning Games](learning-games.md)
 - [Refine digital escape rooms with adaptive difficulty, clear feedback and instructions, and collaborative gameplay](escape-room-design-refinements-strategy.md)
 - [Progressively unlock games to give children a sense of advancing to new challenges](progressive-game-unlocking-sense-of-advancement.md)
+- [Provide more direct instructions and adapt game difficulty and content to the setting and audience](setting-specific-game-instructions-and-difficulty.md)
 
 ## Examples
 -

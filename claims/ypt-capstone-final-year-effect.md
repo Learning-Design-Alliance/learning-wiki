@@ -50,3 +50,5 @@ Linear regression on student survey data with year of final exam as baseline; pr
 - [Students perceived YPT-related activities as significantly more useful than regular physics classes only for debating skills, with no significant differences for other soft skills](ypt-vs-regular-classes-debating-only.md) — related
 - [Students rated other extracurricular activities as more useful than YPT-related activities for all soft skills except presentation and debating skills](extracurricular-vs-ypt-perceived-usefulness.md) — related
 - [Students perceive YPT-related inquiry-based activities as beneficial to soft-skill development, with a median usefulness rating of 4 out of 5](ypt-perceived-useful-soft-skill-development.md) — related
+- [Former YPT participants show a lasting positive bias towards YPT, rating RPC and other Non-YPT activities as less useful](former-ypt-participation-positive-bias.md) — related
+- [Perceived usefulness of YPT activities is lower for students far from their final exam, suggesting YPT builds on existing hard skills](ypt-usefulness-depends-on-years-to-final-exam.md) — possibly the same claim (merge candidate)

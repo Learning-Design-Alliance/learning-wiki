@@ -70,3 +70,4 @@ Reported outcome of the remote REU interviews: the article states these gains ar
 - [Student participants reported that the online reading group left them more academically prepared for future careers and brought them closer to their classmates](phasrs-interviews-preparedness-closeness.md) — related
 - [Remote REU mentees reported the experience was highly beneficial and the remote format did not open a gap between their objectives and outcomes](remote-reu-mentees-reported-highly-beneficial-outcomes.md) — a broader claim this one bears on
 - [Remote REU mentees' objectives fell into three categories: gaining research experience and career clarity, learning about physics subfields, and making connections with a broader community](three-mentee-objective-categories-remote-reu.md) — related
+- [Almost every remote REU mentee described achieving their goals and most intended to apply to graduate programs](remote-reu-goal-attainment-graduate-school-intentions.md) — related

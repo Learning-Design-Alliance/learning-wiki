@@ -47,3 +47,4 @@ Questionnaire asked all 40 participants to vote their first, second and third mo
 ## Related Claims
 - [CBL is the highest-ranked strategy for enhancing medical students' theoretical test scores, with CBL, PBL, SBL and FC each significantly outperforming LBL](cbl-highest-ranked-theoretical-test-scores-nma.md) — related
 - [PBL is the highest-ranked strategy for improving medical students' experimental or practical test scores, significantly outperforming LBL](pbl-highest-ranked-practical-test-scores-nma.md) — related
+- [Eleven students confirmed writing journal articles during their undergraduate studies under supervisor guidance](konkoly-undergraduate-first-author-papers.md) — related

@@ -56,3 +56,4 @@ This is the authors' concluding interpretation from their case study of three in
 - [Two-category distinctions between describing the real world and caring about everyday physics are insufficient for life-science students' connections](two-category-distinction-insufficient.md) — a broader claim this one bears on
 - [A wound-healing classroom activity that intersected a student's lived experience became a recurring, self-reported touchpoint for physics relevance](wound-healing-activity-lived-experience-relevance.md) — related
 - [Students valued the open-ended generative task for connecting physics to real contexts but reported unfamiliarity with making assumptions](student-perceptions-of-generative-task.md) — related
+- [Tasks cuing the presence of a real-world context are more likely to invoke students' everyday and curricular knowledge and to generate and connect diverse ideas](real-world-context-cues-everyday-and-curricular-knowledge.md) — related

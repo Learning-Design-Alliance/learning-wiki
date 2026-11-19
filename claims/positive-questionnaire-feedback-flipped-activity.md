@@ -57,3 +57,4 @@ Descriptive analysis of a revalidated five-point Likert questionnaire (Cronbach'
 - [Students preferred the virtual flipped learning format over the virtual traditional format on all survey items except opportunity to ask questions](students-prefer-vfl-over-vtl-perception.md) — related
 - [Interns in the flipped classroom group report high acceptance of online pre-class videos and offline interactive sessions](fc-questionnaire-high-acceptance-interns.md) — related
 - [Pre-service English language teachers report generally positive perceptions of a flipped statistics classroom](flipped-classroom-positive-perceptions-pre-service-english-teachers.md) — related
+- [Pre-service primary teachers rated the online oriented-globe lesson very positively and almost all planned to replicate the activities in school](pre-service-teachers-positive-evaluation-oriented-globe-lesson.md) — related

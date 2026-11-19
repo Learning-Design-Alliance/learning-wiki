@@ -52,3 +52,4 @@ Preliminary AI-reported descriptive results from the forethought phase of the cl
 - [Limiting verbose Math Agent guidance sharply reduced answer giveaway but decreased cognitive engagement](math-agent-guidance-limit-tradeoff.md) — related
 - [After-school moderated chat sessions enable scaffolded problem-solving discussion beyond classroom hours](after-school-chat-sessions-scaffold-problem-solving.md) — related
 - [The intervention increases students' intention to choose complex tasks and shifts goal orientation toward learning goals](intervention-increases-complex-task-intention-and-learning-goals.md) — related
+- [The prototype offers more comprehensive support to diverse learners than existing AI tutors such as Quizlet's Q-Chat](prototype-more-comprehensive-than-qchat.md) — related

@@ -71,3 +71,5 @@ Questionnaire study with 30 participants, all with prior STEM teaching experienc
 - [Participating veterinarians rated MI skills as highly relevant to their work and reported high satisfaction with the training programme](veterinarians-rate-mi-training-relevant-satisfying.md) — related
 - [Learners rated the circuit-measuring cooperative system positively on a five-point Likert questionnaire](likert-questionnaire-positive-circuit-measuring-system.md) — related
 - [Students reported overall high satisfaction with the application (2.84, S.D. 0.13), with enjoyment rated highest](place-value-app-student-satisfaction-high.md) — related
+- [Prospective teachers rated ChatGPT 3.5 as highly usable but rated its output quality below neutral when creating physics tasks](chatgpt-high-usability-low-output-quality-ratings.md) — related
+- [Beta testers and deployed pilot users gave generally positive recommendation scores, with MR educators rating the games highest](virtual-scanner-games-feedback-scores.md) — related

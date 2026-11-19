@@ -43,6 +43,7 @@ In Round II the AI was asked to grade submissions page by page and record where 
 ## Related Strategies
 
 - [Two-pass LLM validation with solution-key comparison and focused manual review of divergent pages](two-pass-llm-validation-grading-workflow.md)
+- [Use GPT-4 or similar tools for immediate formative feedback on handwritten physics solutions, e.g., via smartphone-based scanning](gpt4-formative-feedback-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,5 @@ Argument from the Further Research section: the authors state the system is tech
 - [The article identifies data protection as the foremost unresolved challenge of a worldwide achievement blockchain](data-protection-foremost-unresolved-challenge.md) — related
 - [Educational smart contracts execute in 21–49 ms with certification the costliest and the only human-approved contract](smart-contract-execution-21-49ms-certification-costliest.md) — related
 - [The article claims scholarship-progress queries and fully automatic graduation as further use cases](scholarship-query-automatic-graduation-use-cases.md) — related
+- [A content-analysis literature review identifies blockchain applications in education including smart contracts for courses, digital certificates and transcripts, streamlined fee payments, and open educational content sharing](blockchain-education-applications-review.md) — related
+- [Blockchain's immutable ledger can support issuing, validating and sharing certificates, reducing certificate fraud and giving students ownership of their academic records](blockchain-immutable-credential-verification.md) — related

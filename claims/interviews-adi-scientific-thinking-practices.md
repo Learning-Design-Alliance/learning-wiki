@@ -61,3 +61,4 @@ Qualitative content analysis of semi-structured interviews with six experimental
 - [ADI-based laboratory instruction improves science process skills more than traditional laboratory instruction](adi-lab-instruction-improves-science-process-skills.md) — related
 - [Argumentation levels of ADI students rise by the end of treatment while control group levels stay unchanged](adi-raises-argumentation-levels-end-of-treatment.md) — related
 - [Scientific argumentation based learning improves students' understanding of the nature of scientific knowledge on five of six dimensions.](argumentation-improves-nature-of-scientific-knowledge.md) — related
+- [Students reported the laboratory helped them understand the scientific method, data analysis and how to carry out research](lab-improved-scientific-method-understanding.md) — related

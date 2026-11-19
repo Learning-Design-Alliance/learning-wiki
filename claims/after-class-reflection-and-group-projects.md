@@ -49,3 +49,4 @@ The after-class component had participants log into an online discussion forum t
 - [Better online learning outcomes in a flipped course tend to produce better in-class readiness, which further leads to better after-class performance and exam grades](spencer-2022-accumulative-fc-achievements.md) — related
 - [A culminating final project with a structured reflection script served as authentic assessment mirroring real-world data science practices](final-project-script-authentic-assessment.md) — related
 - [Beyond cognitive gains, the experience increased girls' interest in computing and confidence, and fostered work ethics, perseverance, social development, digital citizenship, and independent learning](e5c-beyond-cognition-themes.md) — related
+- [Course final projects and co-design of additional tutorials provide further evidence of the tutorials' positive impact on student engagement](tutorials-final-projects-codesign-evidence.md) — related

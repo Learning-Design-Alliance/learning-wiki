@@ -47,3 +47,4 @@ End-of-course feedback from 14 of 35 students who completed the course; the arti
 - [Students most strongly felt like data scientists during the open-ended final project, supporting disciplinary authenticity](final-project-felt-like-data-scientist.md) — related
 - [Many students in beginner-programmer introductory physics classes report that the game-like programming exercise was enjoyable or fun](planetoids-exercise-enjoyment-survey.md) — related
 - [Qiskit-based exercises agree with theoretical predictions and support introducing quantum computing to undergraduates](qiskit-agrees-with-theory-classroom-effectiveness.md) — related
+- [Students named the Quantum Katas as the course component contributing most to their learning](quantum-katas-most-learning-contribution.md) — related

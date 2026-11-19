@@ -13,7 +13,7 @@ generated:
 # Guided Inquiry
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 9 studies (4 review, 2 causal, 2 quant-synthesis, 1 qualitative), `q2`–`q4` · 2 of 9 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 10 studies (4 review, 3 causal, 2 quant-synthesis, 1 qualitative), `q2`–`q4` · 2 of 10 report an effect size · 4 claims rest on one study
 
 ## Description
 Guided inquiry is the element in which learners investigate questions or problems with structured prompts, facilitator support, or staged resources that keep the inquiry productive. It is useful when the goal is inquiry with support rather than direct telling or unguided discovery.
@@ -43,6 +43,7 @@ Guided inquiry is the element in which learners investigate questions or problem
 - [LLM participant agents clarify stage goals, keep discussions on topic, and prompt deeper ethical reflection](../claims/llm-participants-stage-goal-clarification.md) [+W]
 - [Guided inquiry was positively associated with science achievement in all 16 PISA 2015 regions where it was applied](../claims/guided-inquiry-positive-all-regions.md) [+W]
 - [Scaffolded and unscaffolded groups showed few differences in knowledge of flu symptoms, home resources and self-care medicines during the Inquiry Stage](../claims/few-group-differences-inquiry-stage-knowledge.md) [~W]
+- [Science process skills of physics education students rose significantly from after three to after six guided inquiry practicum activities in a one-group pre-post comparison](../claims/guided-inquiry-practicum-improves-science-process-skills.md) [+W] — attached 2026-11-19 from Albertus Hariwangsa Panuluh (2017), which proposed "Guided inquiry electricity and magnetism practicum course for physics teacher candidates".
 
 ## Related Elements
 - [Guided Discovery](guided-discovery.md)

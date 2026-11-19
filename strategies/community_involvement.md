@@ -63,6 +63,7 @@ Community involvement works primarily through motivation and belonging rather th
 - [Connect learners with external collaborators](connect-external-collaborators.md)
 - [Advance community-based lifelong learning through mentoring relationships connecting local expertise with desired learners](mentoring-for-community-lifelong-learning.md)
 - [Engage youth as partners in stewardship rather than as subjects to be taught](youth-as-stewardship-partners.md)
+- [Extend a research program into a complex mentoring program with community events, educational workshops, and collaborative projects](konkoly-mentoring-expansion-strategy.md)
 
 ## Examples
 - **[Edmodo](https://www.edmodo.com) / Google Classroom guardian summaries** — moderated online communities connecting families to ongoing class activity rather than one-off events.

@@ -152,6 +152,7 @@ Group product quality, individual achievement at the end of a unit, delayed rete
 - [Organise probability instruction in small supportive groups of two to four students working toward shared goals](../strategies/small-groups-two-to-four-shared-goals.md)
 - [Use structured online peer evaluation to reduce free-riding in cooperative group work](../strategies/peer-evaluation-reduce-free-riding-strategy.md)
 - [Implement cooperative learning through four named practices and a balance of group and individual grades](../strategies/bioled-cooperative-learning-practices.md)
+- [Use matrix grading on team assignments to penalize free-riding and reward carrying the team](../strategies/matrix-grading-team-assignments.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365-379. [https://doi.org/10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

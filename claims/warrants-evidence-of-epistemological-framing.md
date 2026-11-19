@@ -56,3 +56,4 @@ Methodological claim grounded in the authors' videotaped observations of group p
 - [In a ticker-tape Tutorial, students' confidently wrong answer about segment timing is an epistemological framing error, corrected when later questions shift the context](ticker-tape-framing-error-not-misconception.md) — a narrower finding that bears on this claim
 - [Physics and life-science faculty in one college differed epistemologically over whether scientific theories require ongoing investigation](subculture-epistemological-divide-theories.md) — related
 - [Productive problem solving can occur in any epistemological frame provided students transition appropriately between frames](productive-solving-any-frame-with-appropriate-transitions.md) — related
+- [Student difficulties using graphs in physics are often epistemological framing errors, not just transferred math difficulties](framing-errors-graphs-physics.md) — related

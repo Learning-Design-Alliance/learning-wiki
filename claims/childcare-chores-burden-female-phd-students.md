@@ -71,3 +71,4 @@ Survey question on household chores (Fig. 3), showing a similar pattern to child
 - [Physics Ph.D. students report three main areas of difficulty: professional, economic and personal](physics-phd-three-difficulty-areas.md) — related
 - [Income gaps already favor men among physics Ph.D. students, with most women reporting higher spouse incomes](income-gaps-favor-men-physics-phd-students.md) — related
 - [Women physics Ph.D. students carry a greater burden of childcare and family work than their male colleagues](women-phd-physics-greater-childcare-family-burden.md) — possibly the same claim (merge candidate)
+- [Girls faced disadvantaged access when household phones were shared, and women shouldered a larger household-work burden than men during online teaching](gendered-device-access-and-household-burden.md) — related

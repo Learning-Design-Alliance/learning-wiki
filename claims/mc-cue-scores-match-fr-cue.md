@@ -62,3 +62,4 @@ Quasi-experimental comparison in E&M 1 at CU: half of the class (25 students) to
 - [Free-response performance matches multiple-choice performance for resistance but is better for capacitance and inductance](free-response-better-capacitance-inductance.md) — reports the opposite
 - [The good MC–FR correlations may not generalize when the MC and FR questions differ more in context or representation](mc-fr-correlation-context-dependent-scope.md) — related
 - [Correspondence between free-response and multiple-choice performance across courses is better when partial credit is awarded for both](partial-credit-improves-fr-mc-correspondence.md) — related
+- [Written free-response question responses agreed reasonably with video-coded PCK-Q levels, supporting criterion validity](free-response-questions-criterion-validity.md) — related

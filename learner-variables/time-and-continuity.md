@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 264 claims (172 show a difference, 61 mixed, 31 no difference) · 229 studies (108 causal, 57 associational, 24 review, 15 quant-synthesis, 12 design, 10 qualitative, 3 theoretical), `q1`–`q4` · 42 of 229 report an effect size · 260 claims rest on one study
+> **Evidence** · 267 claims (173 show a difference, 62 mixed, 32 no difference) · 232 studies (110 causal, 58 associational, 24 review, 15 quant-synthesis, 12 design, 10 qualitative, 3 theoretical), `q1`–`q4` · 44 of 232 report an effect size · 263 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -321,6 +321,9 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Most CU-Prime leaders attended at least one workshop and about a third attended at least three](../claims/workshop-attendance-22-of-30-leaders.md) [+M] — measured as an outcome of the instruction studied
 - [Retreat placement and newcomer catch-up framing were associated with the two highest-attendance workshops](../claims/retreat-and-catch-up-framing-high-attendance.md) [~M] — measured as an outcome of the instruction studied
 - [Low attendance with high achievement was the largest category in the module cohort split, followed by high attendance with high achievement](../claims/lh-largest-category-cohort-split.md) [+M] — learners who differ on it differ in outcomes
+- [Experts outperform novices on Quantum Composer Task 2 (d = 0.76) but not significantly on Task 1, with no significant difference in task completion time](../claims/experts-outperform-novices-composer-task2.md) [-M] — learners who differ on it differ in outcomes
+- [Longer time on task in the RL condition occurred across all pretest groups, so time on task is unlikely to be the primary reason for the low performers' benefit](../claims/time-on-task-not-primary-mechanism.md) [+M] — measured as an outcome of the instruction studied
+- [The relationship between time on task and posttest score differs by condition: essentially uncorrelated for Proof Blocks but moderately correlated for hybrid and written-proof activities](../claims/time-on-task-posttest-correlation-by-condition.md) [~W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

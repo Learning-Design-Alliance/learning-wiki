@@ -67,3 +67,4 @@ Same survey: "71.19% of students showed improved literature reading skills", att
 - [In a survey of the reformed course, 94.92% of students agreed with a statement about real-world biochemistry cases (e.g., COVID-19 research ethics) and reflection on public health and ethics](biochem-ethics-cases-stimulate-ethical-reflection.md) — related
 - [Curiosity about AI shifted between pre- and post-survey, from 71% to 50%, which the authors interpret as a move from diffuse curiosity to concrete critical engagement](curiosity-shifted-diffuse-to-critical.md) — related
 - [During the course, curiosity, enjoyment, confusion and anxiety decreased over time, boredom increased, and surprise and frustration remained stationary.](time-trends-epistemic-emotions-decline-course.md) — related
+- [Hands-on activities heighten students' interest in science and enhance science achievement](hands-on-interest-achievement.md) — related

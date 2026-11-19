@@ -51,3 +51,4 @@ Analysis of the impact of the eight removed DIF questions on the 13,694 candidat
 - [Passing PACES at first attempt was associated with being female, white, a UK graduate, GMC-registered, and sitting the examination in the UK](bivariate-pass-rate-associations-paces.md) — related
 - [UK female medical graduates had 1.18 times the odds of passing PACES at first attempt compared with male UK graduates](uk-graduates-female-advantage-or-1-18.md) — related
 - [Female non-UK graduates registered with the GMC had nearly one and a half times the odds of passing PACES compared with male counterparts](non-uk-gmc-registered-female-advantage-or-1-47.md) — related
+- [No apparent patterns between gender and control or agreement scores in the preliminary subset](no-gender-pattern-dominance-scores-preliminary.md) — related

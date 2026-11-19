@@ -56,3 +56,4 @@ Authors' interpretation of the hierarchical regression results for the 99-studen
 - [Reading guides were used similarly across student groups by gender, ethnicity, and aptitude, with demographics contributing to completion in few cases and inconsistently](reading-guide-use-equitable-across-student-groups.md) — related
 - [Demographic characteristics (DHH status and gender) show no apparent impact on students' integration in the classroom interaction network](demographics-no-impact-network-integration.md) — related
 - [Self-formed laboratory groups show demographic homogeneity varying by section: a physics-major section split by gender while a teacher-major section formed heterogeneous groups](lab-group-composition-demographic-variation.md) — related
+- [The authors interpret introductory community college astronomy as a potential equalizer for students of different ethnic and socioeconomic backgrounds](astronomy-equalizer-stem-access-interpretation.md) — related

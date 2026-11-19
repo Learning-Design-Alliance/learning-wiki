@@ -50,3 +50,4 @@ Self-reported outcomes from the authors' decade of mentoring middle-school to co
 - [Science fair mentor networks determine county participation: when individual mentors stop, county competition support collapses](mentor-networks-determine-competition-participation.md) — related
 - [Freshman Projects projects frequently develop into ongoing research with presentations and student-coauthored publications](fp-projects-blossom-into-publications.md) — a broader claim this one bears on
 - [A student meteor-research project presented at the 2019 MAES won first place in the state-school student group category](maes-2019-meteor-project-first-place-state-schools.md) — a narrower finding that bears on this claim
+- [Students won multiple OTDK prizes in 2019 and 2021, with more first places in 2021](konkoly-students-otdk-prizes.md) — a narrower finding that bears on this claim

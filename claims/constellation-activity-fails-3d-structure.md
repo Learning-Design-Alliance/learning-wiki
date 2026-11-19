@@ -71,3 +71,4 @@ Sub-sample analysis of 60 PGCE science primary students on Q4 (Fig. 7): no clear
 - [Role-play cultural perspectives produced visibly different constellations from the same stars, showing cultural background shapes constellation design](role-play-constellations-reflect-cultural-background.md) — related
 - [After the activity, a majority of participants would create a constellation to please a king rather than follow scientific precision](constellation-activity-political-influence-q7.md) — related
 - [Students have great difficulty extrapolating three dimensions from one- and two-dimensional astronomical representations](difficulty-extrapolating-3d-from-2d-astronomy-representations.md) — related
+- [Tactile 3D sky models help BVI users build a spatial mental image of the distribution of sky elements](tactile-sky-models-spatial-mental-image-bvi.md) — related

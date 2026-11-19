@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2022
+source_checked: 2026-11-19
 recheck_by: 2025
 sources:
   - id: tulin-kaman-2022
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: local conditions change quickly
+> **Currency** · newest study 2022 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2025**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` In the first course offering, students rated the course and the instructor as excellent (50%) and good (50%), and no student selected fair, poor, or very poor. [→ Tulin Kaman 2022](#tulin-kaman-2022)

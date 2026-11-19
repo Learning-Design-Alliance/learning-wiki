@@ -59,8 +59,10 @@ Character scrapbooking is a generative, arts-integrated response to literature: 
 5. **Reflect.** A brief written reflection asks: how did the character change across your four events, and what does that suggest about how people handle situations like these?
 
 ## Related Strategies
+
 - [Acting-Role-Play](acting-role-play.md) — another embodied perspective-taking response to literature; scrapbooking externalizes the same inference work visually rather than physically
 - [Literature Circles](literature-circles.md) — scrapbook entries can serve as the "illustrator" role artifact within a roles-based discussion structure
+- [Student-produced social-media science-communication posts as a mandatory concluding activity](student-social-media-scicomm-posts-strategy.md)
 
 ## Examples
 - After reading *The Outsiders*, students scrapbook Ponyboy's perspective across four turning points (the park attack, the church fire, Johnny's death, the rumble), pairing each with a quote and an image; entries are then posted to a private class Instagram as character-voiced posts.

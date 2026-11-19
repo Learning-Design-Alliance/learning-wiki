@@ -21,6 +21,7 @@ OATutor is an open-source adaptive tutoring platform developed by the OATutor Pr
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **OATutor: open-source adaptive tutoring platform with CC-licensed human-authored hints used to deliver the study**: OATutor (Open Adaptive Tutor) is the open-source tutoring system the authors used as "the base platform to deliver the OpenStax derived questions with hints authored by human tutors from the OATutor Project". It logs condition, objective name, anonymized user ID, problem name, correctness, hint request actions, and timestamps, and its human-authored hints were produced by screened UC Berkeley undergraduates with editor quality checks. The study content is released under a Creative Commons license and the system source code on GitHub for full replication. (Pardos ZA (2024))
+- **OATutor (Open Adaptive Tutor) algebra tutoring system with OpenStax-aligned hints and released experiment content**: OATutor is a tutoring system the authors describe as "a soon-to-be released tutoring system, called Open Adaptive Tutor (OATutor)", with pre-made human-authored hints under a CC B-Y license built on OpenStax Elementary and Intermediate Algebra textbooks. In the study it served as the delivery platform and control content source: it logged condition, lesson, anonymized user ID, problem, correctness, hint requests, and timestamps to Firebase. The tutor code and all experiment content were released for reproducibility. (Zachary A. Pardos (2023))
 
 ### Claims
 - [Learners receiving ChatGPT-generated hints showed statistically significant learning gains compared to a no-hint control in an online mathematics tutoring experiment](../claims/chatgpt-hints-significant-gains-versus-control.md) [+M]
@@ -30,3 +31,4 @@ OATutor is an open-source adaptive tutoring platform developed by the OATutor Pr
 
 ## Key Sources
 - Pardos ZA, Bhandari S (2024) ChatGPT-generated help produces learning gains equivalent to human tutor-authored help on mathematics skills. PLoS ONE 19(5): e0304013. https://doi.org/10.1371/journal.pone.0304013
+- Zachary A. Pardos, Shreya Bhandari. (2023). Learning gain differences between ChatGPT and human tutor generated algebra hints. arXiv. https://arxiv.org/abs/2302.06871

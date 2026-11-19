@@ -70,3 +70,4 @@ This is a single-course case study (q1) with two student pairs (n=4) and no comp
 - [Computational essays supported redistribution of epistemic agency across programming, inquiry, modeling, and communication dimensions](computational-essays-support-epistemic-agency.md) — related
 - [High-agency students defined novel questions, built sophisticated multi-step models, and attended to communication and limitations](high-agency-novel-questions-multi-step-models.md) — related
 - [Students without prior experience in the integrated programming language felt behind and disadvantaged in computational activities, even with other computational background](no-prior-language-experience-feeling-behind.md) — related
+- [Student and teacher feedback suggests computational simulation projects can improve the learning experience in a materials science course](micromagnetics-projects-improve-learning-experience.md) — related

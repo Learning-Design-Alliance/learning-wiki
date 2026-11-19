@@ -48,3 +48,4 @@ Authors' report on the How to Train Your Robot online workshop, in which mailed 
 - [Workshop participants converge on the claim that generative AI benefits accrue fastest to students who already understand the material](ai-benefits-accrue-to-stronger-students.md) — related
 - [Students rated regular announcements/e-mail reminders and grading rubrics for all assignments as the most beneficial learner-to-instructor strategies](announcements-rubrics-top-learner-instructor-strategies.md) — related
 - [Scheduled design cycles and peer review most successfully evoked iteration; the resources message and chat sessions were less successful](scheduled-cycles-and-peer-review-evoked-iteration-most.md) — related
+- [A four-lesson AI and Robotics workshop with open-source robots and Montessori-based activities is feasible for children aged 6-9 in a low-resource Mexican town](pilot-ai-robotics-workshop-mexican-town-feasible.md) — related

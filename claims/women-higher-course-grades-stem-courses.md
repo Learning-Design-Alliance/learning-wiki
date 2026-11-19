@@ -59,3 +59,4 @@ Linear multilevel model of 2,866 course grades from nine undergraduate STEM cour
 - [Low importance of demographic variables in physics grade prediction was not caused by sample imbalance](demographic-variable-importance-not-sample-imbalance.md) — related
 - [Among physics majors, men earn higher grades than women only in introductory physics courses, with small-to-medium effect sizes](gender-gap-only-introductory-physics-grades.md) — reports the opposite
 - [Women earn roughly 0.2 grade points higher overall GPA than men across all demographic groups](women-higher-overall-gpa-all-groups.md) — related
+- [Mean grade versus math test score is concave up in introductory physics but concave down in comparison STEM courses, with physics intercepts about 0.7 grade points lower at the physics median test score](physics-grade-penalty-concave-test-score.md) — related

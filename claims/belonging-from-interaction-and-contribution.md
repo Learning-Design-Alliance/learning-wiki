@@ -52,3 +52,6 @@ Authors' summary of the qualitative coding of mentee SoB quotes (N=46 coded segm
 - [Perceived condescension from male professors activated stereotype threat for a woman physics major, reducing her sense of belonging and discouraging her from asking questions](condescension-stereotype-threat-disengagement.md) — related
 - [Female faculty mentors, role models, and supportive peers provided reassurance and comfort that helped a woman physics major persist](female-mentorship-supports-persistence-women-physics.md) — related
 - [Mentees in remote REUs emphasized the importance of a quality mentor-mentee relationship, which developed more gradually without in-person contact](mentor-mentee-relationship-quality-remote-reu.md) — related
+- [Remote REU participants persistently lacked community, and the resulting lack of in-person interaction pushed mentees into substantial independent learning](remote-reu-lack-of-community.md) — related
+- [Remote REU mentees reported growth in psychosocial attributes including sense of belonging, self-efficacy, and physics identity](remote-reu-psychosocial-growth.md) — related
+- [Peer interaction and sense of belonging reach a minimum in year 2, when majors adjust to classes consisting primarily of physics majors](year-2-dip-peer-interaction-belonging.md) — related

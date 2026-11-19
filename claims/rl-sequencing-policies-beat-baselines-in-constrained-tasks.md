@@ -59,3 +59,4 @@ The authors recommend constraining RL with theory (for example searching only ov
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — the broader claim about adaptive systems this bears on
 - [Spaced practice improves retention](spaced-practice-improves-retention.md) — the principle the review credits for RL's success with paired-associate items
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — the principle behind the activity-type cluster
+- [A behavior-cloned policy distilled from online RL data was estimated to outperform the online policy in the majority of offline evaluation splits and was deployed in study 2](behavior-cloned-policy-outperformed-online-policy.md) — related

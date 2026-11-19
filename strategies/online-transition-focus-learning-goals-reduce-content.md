@@ -41,6 +41,7 @@ The article recommends that instructors transitioning online keep the focus on c
 ## Related Strategies
 
 - [Teach math-thinking skills as threads woven through content rather than as added content](math-thinking-as-threads-through-content.md)
+- [Audit which conceptual and mathematical skills should form the desired learning outcomes of physics courses in a future where physicists solve problems through dialog with AI systems](audit-learning-outcomes-for-ai-era-physics.md)
 
 ## Examples
 -

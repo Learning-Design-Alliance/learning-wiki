@@ -50,3 +50,4 @@ Questionnaire item (Study 1) on key content of a trusted achievement record. Res
 - [Students under the flexible compulsory course participated in more research projects and received more research awards than elective-course students](cdbrc-more-research-achievements.md) — related
 - [Midwives valued face-to-face training as essential for learning about NIPT, with e-learning seen as a useful adjunct rather than a replacement](face-to-face-nipt-training-preferred.md) — related
 - [Stakeholders strongly endorse a trusted achievement record: 93.64% agreed or strongly agreed it is beneficial](stakeholders-endorse-trusted-achievement-record.md) — related
+- [Blockchain's immutable ledger can support issuing, validating and sharing certificates, reducing certificate fraud and giving students ownership of their academic records](blockchain-immutable-credential-verification.md) — related

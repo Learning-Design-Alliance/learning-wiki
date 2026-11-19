@@ -121,3 +121,5 @@ Randomised study of 169 second-year medical students comparing 3D VR and 2D lect
 - [No significant difference in knowledge gain between VR and 2D-drawing groups among participants with professional background](no-vr-gain-for-professionals.md) — related
 - [VR-based learning of a construction detail yields significantly better knowledge gain than 2D drawings for participants with little pre-existing knowledge](vr-better-knowledge-gain-low-prior-knowledge.md) — related
 - [Free-text responses highlighted realistic physical sensations from the 3D space and psychological closeness to the lecturer as key differences from face-to-face and conventional online events](vrchat-realism-and-closeness-themes.md) — related
+- [In preliminary acoustic testing, stereo position was interpreted as 3D rather than 2D, and loudness and pitch differences were hardly quantifiable](acoustic-stereo-3d-misperception-loudness-pitch-hard.md) — related
+- [Compared to students in traditional lecture-based courses, HoS students changed in the opposite direction on all four attitude dimensions (significant group × time interactions)](hos-versus-lecture-opposite-attitude-change.md) — related

@@ -61,3 +61,4 @@ Correlational field study of N = 358 senior high school students in regular biol
 - [Within persons, grades negatively predict subsequent anger and hopelessness, and anger, anxiety, boredom, and hopelessness negatively predict subsequent grades](grades-negative-emotions-within-person-effects.md) — related
 - [Positive emotions are associated with higher academic performance while negative emotions are associated with poorer performance](positive-emotions-associated-with-higher-performance.md) — related
 - [Student self-reported anxiety is negatively correlated with perceived instructor support in large introductory biology classes](anxiety-negatively-correlated-perceived-instructor-support.md) — related
+- [Negative sentiment words are significantly greater in low learning outcome groups, and positive sentiment indicators higher in high learning outcome groups](sentiment-indicators-group-learning-outcome.md) — related

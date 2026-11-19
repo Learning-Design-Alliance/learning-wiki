@@ -52,3 +52,4 @@ Within-cohort comparison in the 2022/23 experimental group (151 exam takers): 10
 - [Engagement with online quizzes is associated with higher practical exam scores](quiz-engagement-linked-to-practical-exam.md) — a broader claim this one bears on
 - [Participation in the voluntary gamified quizzes was very high, with 93% of students taking part](high-voluntary-participation-kahoot-quizzes.md) — related
 - [Participants of a voluntary key-feature examination did not differ significantly in course-examination performance from the rest of the cohort](kfp-participants-mcq-performance-comparable-to-cohort.md) — related
+- [Students who played Kahoot! quizzes showed significant positive self-efficacy gains while Non-Players did not, though participation alone did not correspond to greater self-efficacy](kahoot-players-significant-gains-non-players-not.md) — related

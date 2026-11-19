@@ -50,3 +50,4 @@ Self-reported device-use item in the Part B questionnaire, analysed descriptivel
 - [Number of failed subjects differs significantly by connecting device type among LMS-connecting students](device-type-failed-subjects-differences.md) — related
 - [Mobile podcast-based listening practice reduces EFL learners' listening anxiety more than desktop computer-based practice](mobile-podcasts-reduce-listening-anxiety.md) — related
 - [First-year medical students perceived 3-minute podcasts mainly as a supplementary revision and assessment-preparation tool](short-podcasts-perceived-revision-tool.md) — related
+- [DFOT survey found most teachers used laptops or desktops while most students attended on smartphones, with nearly 40% of students disconnected during classes](dfot-survey-device-and-connectivity-divide.md) — related

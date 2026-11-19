@@ -74,3 +74,4 @@ The authors explicitly frame this as an extreme case chosen to illustrate a *pos
 - [Facilitators acted as self-directed learners who independently addressed perceived gaps in knowledge and skills](self-directed-learning-addressing-gaps.md) — related
 - [The authors report that games enabled self-motivated physics learning to continue outside the classroom](games-enable-self-motivated-out-of-class-learning.md) — related
 - [Students produced ten self-chosen particle-physics projects, which the authors read as evidence of acquired basic knowhow for designing and developing products](lidyef2018-ten-student-projects.md) — related
+- [Self-paced problem-solving simulation projects can facilitate in-depth exploration of course contents (authors' experience)](self-paced-simulation-projects-in-depth-exploration.md) — related

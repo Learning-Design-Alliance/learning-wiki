@@ -37,4 +37,4 @@ A curriculum-design framework developed by Grant Wiggins and Jay McTighe that gu
 ## Key Sources
 - Hosseini, H., Chalak, A., & Biria, R. (2019). Impact of Backward Design on Improving Iranian Advanced Learners’ Writing Ability: Teachers’ Practices and Beliefs. International Journal of Instruction, 12(2), 33-50. https://doi.org/10.29333/iji.2019.1223a
 - Yurtseven, N., & Altun, S. (2015). The Investigation of the Impact of Understanding by Design (UbD) on EFL Teaching: Students' Foreign Language Learning Motivation and Views. Journal of Education and Training Studies, 4(3). https://doi.org/10.11114/jets.v4i3.1204
-- Cooksey, K. L. & Jonsson, P. (2022). Using Pre-/Post-Quizzes Intentionally in Curriculum Development and Evaluation. UC Santa Cruz: Institute for Scientist & Engineer Educators. https://escholarship.org/uc/item/6fz0181f
+- Cooksey, K. L. & Jonsson, P. (2022). Using Pre-/Post-Quizzes Intentionally in Curriculum Development and Evaluation. UC Santa Cruz: Institute for Scientist & Engineer Educators. https://escholarship.org/uc/item/6fz0181f. [doi:10.48550/arxiv.2210.01823](https://doi.org/10.48550/arxiv.2210.01823)

@@ -49,3 +49,4 @@ Questionnaire-based self-assessment (170 of 214 participants, 79.4%) compared wi
 - [Both educators' evaluations and students' self-assessments correlate weakly but significantly with first-year OSCE communication scores](weak-osce-correlations-self-and-educator-ratings.md) — related
 - [Self-assessed clinical skills confidence correlates only weakly with objectively assessed performance, though it predicts OSCE performance better than year group or examiner allocation](self-assessed-confidence-weakly-correlates-osce-performance.md) — related
 - [Men estimated higher performance than women on both examinations, yet women outperformed men, particularly on the OSCE](gender-gap-in-estimates-favours-men-women-outperform.md) — related
+- [Men's overestimation of women's representation predicts lower support for gender equality initiatives](overestimation-predicts-lower-equality-support.md) — related

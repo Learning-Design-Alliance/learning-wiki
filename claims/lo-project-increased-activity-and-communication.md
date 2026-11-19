@@ -48,3 +48,4 @@ Authors' observational report on their own second-year BSc Cybersecurity semeste
 - [The quality of inter-group interactions shifted from brief, superficial exchanges to long, detailed, collaborative discussions as community norms were negotiated](adlab-interaction-quality-shifted-from-superficial-to-collaborative.md) — related
 - [Time constraints and intra-group conflicts were the major hindering factors reported in the collaborative writing activity](time-conflicts-hindered-collaborative-protocol-writing.md) — related
 - [Time spent in inter-group interactions increased substantially over the semester in the advanced laboratory course](adlab-intergroup-interaction-time-increased-over-semester.md) — related
+- [Students' science communication improves between the first and second research briefing, with more discussion arising later in the semester](communication-improves-second-research-briefing.md) — related

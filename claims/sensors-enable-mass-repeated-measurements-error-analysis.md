@@ -49,3 +49,5 @@ In the Results and Discussion section the authors describe, citing their 2021 Am
 - [Accelerometer fluctuations of a mobile device laid on a table or hand-held follow a normal distribution](sensor-fluctuations-normal-distribution-table-handheld.md) — a narrower finding that bears on this claim
 - [Smartphone sensor fluctuations, rather than mean values alone, can be used to teach fundamental error-analysis concepts](smartphone-sensor-fluctuations-error-analysis.md) — possibly the same claim (merge candidate)
 - [Some advanced students conflate reduction of standard error with reduction of standard deviation, expecting more data to narrow the histogram's spread](standard-error-standard-deviation-conflation.md) — related
+- [Authors report greater student understanding of, and interest in, statistical tools with the smartphone-sensor home lab than with the traditional laboratory](didactic-advantages-smartphone-uncertainty-home-lab.md) — related
+- [Using mobile devices to take data in experiments gives students a sense of ownership of their measurements](mdet-data-ownership.md) — related

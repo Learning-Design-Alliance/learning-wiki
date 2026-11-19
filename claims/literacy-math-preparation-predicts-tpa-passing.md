@@ -49,3 +49,4 @@ Observational analysis linking program-level completer-survey ratings of opportu
 - [Candidates from programs rated highest on TPA support have 1.7 times higher odds of passing than those from lowest-rated programs](program-tpa-support-rating-predicts-passing.md) — related
 - [Sufficient clinical feedback predicts TPA passing for preservice candidates but not for internship candidates](clinical-feedback-predicts-tpa-passing-preservice-only.md) — related
 - [Preservice candidates pass teaching performance assessments at higher rates than intern candidates](preservice-candidates-outpass-interns-on-tpas.md) — related
+- [Mathematics preparation predicts astronomy outcomes: each math grade point raises pass odds 54%, while repeating math and developmental math enrollment lower them](mathematics-preparation-predicts-astronomy-outcomes.md) — related

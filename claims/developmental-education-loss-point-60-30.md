@@ -51,3 +51,4 @@ This statistic appears in the loss points column of the guide's loss and momentu
 - [Linked learning communities show no overall effect on progress in developmental education, with a statistically significant but non-substantive gender interaction at Houston](linked-learning-communities-developmental-progress-no-effect.md) — related
 - [In an RCT, DCMP significantly increased completion of the developmental math sequence and passing of college-level math](dcmp-rct-rutschow-developmental-outcomes.md) — related
 - [Large majorities of incoming California community college students place into remedial-level mathematics and English](ca-cc-remedial-placement-rates.md) — related
+- [Community college astronomy enrollments are predominantly non-STEM majors with substantial mathematics remediation need](astronomy-enrollment-profile-nonstem-majors-remediation.md) — related

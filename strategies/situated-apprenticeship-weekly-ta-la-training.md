@@ -43,6 +43,7 @@ Before each week's recitations, the first-time instructor trained the graduate t
 - [Multi-component TA professional development program for teaching interactive-engagement discussion/labs](clasp-ta-professional-development.md)
 - [Make teaching assistant tutorial training more explicit: provide checkpoint learning outcomes and suggested checkpoint questions](explicit-ta-tutorial-training-checkpoint-outcomes.md)
 - [Use Learning Assistants to give student groups timely feedback and to surface where students are stuck](la-timely-feedback-and-instructor-communication-strategy.md)
+- [Use the PCK-Q questions for LA assessment or training, administered in a single set or 1-2 per week](pckq-questions-assessment-and-training.md)
 
 ## Examples
 -

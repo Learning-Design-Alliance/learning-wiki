@@ -56,3 +56,4 @@ Analysis of intervention 1 and 2 students' written quiz solutions after learning
 - [Physics and astronomy students solve isomorphic astronomy- and physics-context problems about equally well, but the majority find the astronomy context more interesting](isomorphic-problems-equal-astronomy-context-interesting.md) — related
 - [Direct transfer often fails across distant contexts, so cross-disciplinary learning foregrounds transformative and integrative processes](far-transfer-failure-motivates-transformation-focus.md) — related
 - [Very few students accounted for the changing force orientation and centripetal acceleration when reasoning about the normal force, and most drew n and mg magnitudes inconsistent with their 𝑎𝑦 graphs](normal-force-question-student-difficulties.md) — related
+- [Productive use of assumptions simplifies problem solving and helps determine which principles apply](assumptions-simplify-problem-solving.md) — related

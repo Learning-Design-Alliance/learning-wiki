@@ -58,3 +58,4 @@ Ten 5-point Likert utility statements were rated post-resource use by 61 teacher
 - [Medical students reported positive satisfaction with the competitive learning experience and most would recommend it](positive-satisfaction-competitive-learning-medical-students.md) — related
 - [All participating midwives would recommend the MIOH education program to other Victorian midwives](midwives-recommend-mioh-program.md) — related
 - [The fully online iteration maintained uniformly positive participant feedback and reached teachers who could not have joined an in-person program](sattaa-online-format-reach.md) — related
+- [Pre-service primary teachers rated the online oriented-globe lesson very positively and almost all planned to replicate the activities in school](pre-service-teachers-positive-evaluation-oriented-globe-lesson.md) — related

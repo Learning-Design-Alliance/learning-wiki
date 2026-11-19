@@ -47,6 +47,7 @@ The study reports practical implementation strategies for VR-based simulation se
 
 - [Enhance VR-based simulation debriefing with automated checklists, multiplayer platforms, and hybrid feedback approaches](vr-simulation-feedback-enhancement-strategy.md)
 - [Design and implement VS teaching with simplified interfaces, multimodal feedback, multilingual diverse case libraries, pre-training, and controlled VR session lengths](vs-design-recommendations-strategy.md)
+- [Replicate tool latency and outages in training by limiting or removing tool access so learners practice manual backups](limit-tool-access-practice-manual-backups.md)
 
 ## Examples
 -

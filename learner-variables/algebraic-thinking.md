@@ -13,7 +13,7 @@ generated:
 # Algebraic Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 116 claims (72 show a difference, 28 mixed, 16 no difference) · 78 studies (45 causal, 10 qualitative, 9 associational, 6 theoretical, 5 review, 2 design, 1 quant-synthesis), `q1`–`q4` · 15 of 78 report an effect size · 112 claims rest on one study
+> **Evidence** · 117 claims (72 show a difference, 29 mixed, 16 no difference) · 79 studies (46 causal, 10 qualitative, 9 associational, 6 theoretical, 5 review, 2 design, 1 quant-synthesis), `q1`–`q4` · 15 of 79 report an effect size · 113 claims rest on one study
 
 ## Description
 Algebraic thinking is the ability to generalise, represent, justify and reason with abstract mathematical structures and relationships: noticing that a pattern holds for all numbers, writing it with symbols, and arguing why it holds. The Learner Variability Navigator stresses that it is not only a secondary-school subject: in the primary grades it deepens understanding of arithmetic, for example by making the properties of operations explicit, and it helps students connect separate parts of their early mathematics. It is assessed with written early-algebra assessments and with researcher-designed measures that separate conceptual knowledge, procedural knowledge and flexibility in solving equations.
@@ -153,6 +153,7 @@ LVN follows it from grade 3 to grade 10. It links forward to [geometric reasonin
 - [Students unfamiliar with many-symbol equations may freeze and try to reduce symbols to numbers rather than parse them as physical quantities](../claims/students-freeze-with-many-symbol-equations.md) [+W] — learners who differ on it differ in outcomes
 - [Both FCP and CTM groups improved significantly from pre-test to post-test across all four college algebra topics (p < 0.001)](../claims/fcp-ctm-significant-gains-all-topics.md) [+M] — measured as an outcome of the instruction studied
 - [Female students' difficulties in the experiment stemmed from persistent Euclidean-geometry conceptions and algebraic-tool difficulties, yet they independently generated a compression explanation](../claims/girls-euclidean-conceptions-compression-explanation.md) [~W] — learners who differ on it differ in outcomes
+- [Within-condition pre-to-post differences were statistically significant in the manual-hint conditions, but not in the ChatGPT conditions](../claims/chatgpt-hint-gains-not-significant.md) [~M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Early algebra assessment** (Blanton et al., 2015): Written assessment to measure students' understanding of core algebraic concepts and practices.

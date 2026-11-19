@@ -62,3 +62,4 @@ Self-report satisfaction questionnaire completed by the 60 intervention-group st
 - [Students rated app-based revision as a useful curriculum addition and rated the MAS useful and user-friendly, with post-test catheterisation confidence non-significantly highest in the MAS group](positive-student-ratings-of-mas-revision.md) — related
 - [Students showed high satisfaction with and acceptance of the blended learning concept and NESTOR](high-student-acceptance-blended-learning-nestor.md) — related
 - [All students ranked the multimedia software as the best study method and would recommend or pay for it](students-prefer-multimedia-over-printed-text.md) — related
+- [Participant feedback on ASP2022 was generally positive, with most participants satisfied and willing to recommend ASP to colleagues](asp2022-feedback-generally-positive.md) — related

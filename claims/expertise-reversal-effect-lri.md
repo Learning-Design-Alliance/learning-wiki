@@ -54,3 +54,4 @@ The review reports CLT research, citing Kalyuga and colleagues, on the expertise
 - [Sequenced explicit instruction then guided independent learning: students benefit from explicit instruction early and guided independence as fluency develops](sequenced-explicit-then-independent-learning.md) — related
 - [Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse as expertise increases](expertise-reversal-effect-compound.md) — possibly the same claim (merge candidate)
 - [The reviewed literature indicates mathematically disabled learners' problems can be addressed through appropriate, explicit and early instruction and intervention](early-explicit-intervention-math-disabilities-review.md) — related
+- [Students using explicit strategies in mixed-ability collaborative groups of three with rotating roles benefit more in problem-solving than when working alone](cooperative-groups-three-benefit-more-than-alone.md) — related

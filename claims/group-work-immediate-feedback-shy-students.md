@@ -50,3 +50,4 @@ Authors' observational interpretation from the discussion section, not a separat
 - [Teachers observed that cooperative learning boosted participation, confidence, and motivation, including among weak and shy students](cooperative-learning-teacher-observations-participation-confidence.md) — related
 - [Online chat and polls encouraged students, including shy students, to express misconceptions without fear of disrupting the class](chat-and-polls-encourage-misconception-expression.md) — related
 - [Two of three high-attendance, medium-achievement students would not ask the tutor for help because they were shy](hm-group-shyness-avoided-tutor-help.md) — related
+- [Anonymity in online classes allowed shy students, usually female, to interact more](online-anonymity-enabled-shy-female-students.md) — related

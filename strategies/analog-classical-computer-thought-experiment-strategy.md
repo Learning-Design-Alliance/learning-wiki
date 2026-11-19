@@ -46,6 +46,7 @@ The article recommends that quantum computing educators use the analog classical
 
 - [Undergraduate project assignment investigating exact calculation of numbers beyond floating point precision in Fortran](arbitrary-precision-undergraduate-project-assignment.md)
 - [Incorporate numerical calculation into introductory quantum courses to counteract abstraction-driven misconceptions](incorporate-numerical-calculation-in-quantum-courses.md)
+- [Use the single-electron interference experiment with bistable-image analogy to introduce quantum superposition without classical analogies](speaking-unspeakable-superposition-exhibition-strategy.md)
 
 ## Examples
 -

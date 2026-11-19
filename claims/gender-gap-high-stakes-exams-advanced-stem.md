@@ -70,3 +70,4 @@ Analysis of a single cohort of 315 undergraduate electrical engineering students
 - [The variable-task generation method was tested in a physics course for engineering students and scales from about 30 to about 150 students](variable-test-generator-tested-physics-course.md) — related
 - [High-performing statistics students disproportionately opted out of the final exam despite being able to earn a higher grade](high-interim-grade-students-opted-out-of-final.md) — related
 - [The score gap between URG and non-URG students is significantly reduced on the student-created problem assessment, with near-equal performance between the groups](problem-project-reduces-urg-score-gap.md) — related
+- [Mean grade versus math test score is concave up in introductory physics but concave down in comparison STEM courses, with physics intercepts about 0.7 grade points lower at the physics median test score](physics-grade-penalty-concave-test-score.md) — related

@@ -74,3 +74,4 @@ Log analysis across the author's domains: a "significant portion of rapid guessi
 - [Rapid-guessing behavior occurs on only about 1% of item responses in a commercially available low-stakes assessment](rapid-guessing-one-percent-commercial-low-stakes-assessment.md) — related
 - [Proctor notification after rapid-guessing detection improved test performance and yielded higher convergent validation evidence](proctor-notification-improves-performance-and-validity.md) — related
 - [OLM-based assessment can detect diverse student strategies that distort measurement, an advantage over conventional paper-and-pencil tests](olm-strategy-detection-advantage.md) — related
+- [Detected abuse by non-student users inflated rewards and biases the learning slope estimate downwards](cryptocurrency-reward-abuse-detected.md) — a narrower finding that bears on this claim

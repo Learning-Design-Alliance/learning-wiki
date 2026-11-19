@@ -51,3 +51,4 @@ Meeting report summarizes Rowland and colleagues (2012), who compared student ou
 - [The LCAS discovery and relevance scale differentiates CURE students from traditional lab students with a medium-large effect](lcas-discovery-relevance-differentiates-cures.md) — related
 - [CURE students give higher overall LCAS total ratings than traditional lab students](lcas-total-score-cures-higher.md) — related
 - [Some CURE students experience the discovery nature of CUREs as a struggle that undermines their sense of scientific capability](some-cure-students-struggle-with-discovery-uncertainty.md) — related
+- [Undergraduate research from the CURE fed into peer-reviewed publications from the XENON, CMS, and Zwicky Transient Facility cohorts](cure-student-research-led-to-publications.md) — related

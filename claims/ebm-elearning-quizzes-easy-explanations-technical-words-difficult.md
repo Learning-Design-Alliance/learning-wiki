@@ -57,3 +57,4 @@ Focus group interview category on efficacy: although "the figures and illustrati
 - [Use of the wiki was less widespread than other tools, largely because students found it difficult to use](wiki-use-less-widespread-difficult-to-use.md) — related
 - [Extracurricular fluorescence modules left students enthusiastic but were experienced as difficult to follow](fluorescence-module-engaging-but-difficult.md) — related
 - [Polytechnic lecturers found the CIDOS e-learning system not user friendly, too complex and difficult to use](cidos-elearning-not-user-friendly-lecturers.md) — related
+- [The broadness of subjects taught at ASP2022 made it difficult for some participants to digest lecture materials](asp2022-broad-subjects-difficult-to-digest.md) — related

@@ -57,3 +57,4 @@ Sensitivity check addressing student attrition: the restricted subsample had sli
 - [Under RCT-YES default (alternative) assumptions, differences from the reference model-based method are slightly larger than under matched assumptions and are limited to clustered designs](alternative-assumptions-differences-limited-to-clustered-designs.md) — related
 - [Mean-field agent-based model reproduces group-level achievement but underestimates students with low prior knowledge and very low motivation](abm0-mean-field-reproduces-group-achievement.md) — related
 - [Ordered, mostly same-group clusters show qualitatively similar but steeper simulated gains than random clusters](ordered-clusters-larger-simulated-gains.md) — related
+- [The equal-learning and time results held in robustness and conditional analyses: across familiarity subgroups, across all rubric sections, and across both test questions](proof-blocks-results-robust-across-subgroups-and-rubric-sections.md) — related

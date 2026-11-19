@@ -47,3 +47,4 @@ Between-group comparison on the transfer problem in the challenging-problem sett
 ## Related Claims
 - [Self-diagnosis by consulting own books and notes yielded 46% better follow-up exam performance than being provided a detailed solution](self-diagnosis-books-notes-46-percent-better.md) — possibly the same claim (merge candidate)
 - [On the difficult problem, the notes-and-textbook group outperformed the worked-example group on the transfer (midterm) task despite lower self-diagnosis scores](minimal-support-group-outperformed-worked-example-on-transfer.md) — related
+- [For post-test reflection on mistakes, a meaningful reward with only minimal scaffolding worked best, while students given detailed solutions did less well](minimal-scaffolding-reward-reflection-best.md) — related

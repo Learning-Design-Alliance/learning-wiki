@@ -119,3 +119,4 @@ In the Belonging and Collaboration in Practice section, the primer attributes th
 - [Teaching practices are associated with sense of belonging: higher group work characterizes agreement on most items that differ](group-work-belonging-simplex.md) — related
 - [Among medical students, having role models and the number of role models are positively associated with all three sense of belonging subconstructs, most strongly peer support](role-models-associated-with-sense-of-belonging-medical-students.md) — a narrower finding that bears on this claim
 - [Graduate-entry students showed higher self-efficacy and more positive tutor-relationship responses than school-leavers](graduate-entry-higher-self-efficacy.md) — related
+- [Sense of belonging is best predicted by self-efficacy in every model except year 2 majors, with peer interaction the next best predictor except in year 4](belonging-best-predicted-by-self-efficacy.md) — related

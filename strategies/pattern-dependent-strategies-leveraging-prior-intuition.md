@@ -47,6 +47,7 @@ The article's forward-looking design recommendation is that the dynamic-frame re
 ## Related Strategies
 
 - [Explicitly teach physical interpretation of quantum physics as a course topic while leveraging classical intuitions](explicit-quantum-interpretation-curriculum-strategy.md)
+- [Use dynamic frames and end-of-unit tables with interpretive tasks to discriminate old and new properties of revised notions](dynamic-frames-end-of-unit-tables-strategy.md)
 
 ## Examples
 -

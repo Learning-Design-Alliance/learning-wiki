@@ -44,7 +44,8 @@ Based on the observed trend of differential benefits, the authors recommend that
 - [Interaction between group assignment and baseline scores is not statistically significant, though high-baseline students show a trend of larger gains](../claims/baseline-heterogeneity-nonsignificant-interaction-trend.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Three educational use cases: guided multi-week journeys, instructor demonstrations, and self-directed exploration](three-virtual-scanner-use-cases.md)
 
 ## Examples
 -

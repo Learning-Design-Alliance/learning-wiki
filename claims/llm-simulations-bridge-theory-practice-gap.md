@@ -87,3 +87,4 @@ The review's RQ2 synthesis reports that when mistakes happen, models "can provid
 - [Blended learning has the potential to improve healthcare learners' clinical competencies and bridge the gap between theory and practice](blended-learning-bridges-theory-practice-clinical-competencies.md) — related
 - [Simulation training helps nursing students integrate theory with practice, gain clinical confidence, and discover undeveloped skills through debriefing feedback](simulation-training-benefits-integration-confidence-debriefing.md) — related
 - [Learning AI is argued to motivate students in STEM subjects by letting them meaningfully explore real-world applications of what they study](ai-learning-motivates-stem-students.md) — related
+- [Self-paced problem-solving simulation projects can facilitate in-depth exploration of course contents (authors' experience)](self-paced-simulation-projects-in-depth-exploration.md) — a narrower finding that bears on this claim

@@ -51,3 +51,4 @@ Pre/post survey of students and teachers attending the PSC summer camp at the Gr
 - [A short-term Lego Mindstorms EV3 summer camp improved elementary students' computational thinking and programming skills, with 6 of 9 students showing substantial improvement](ev3-camp-improves-ct-programming-skills.md) — related
 - [Participation in PSC II significantly increased high school teachers' confidence in conducting scientific research (d = 0.63)](psc-teacher-confidence-in-research-increase.md) — related
 - [Participation in PSC II significantly increased high school teachers' competency in teaching science and the research process (d = 0.53)](psc-teacher-teaching-competency-increase.md) — related
+- [The organisers found the ten-week online camp was too long, with participation ebbing and flowing and late-summer attendance depending heavily on participants' holidays](eiayc-2020-event-too-long-participation-ebbed.md) — related

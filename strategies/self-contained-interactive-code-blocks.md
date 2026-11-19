@@ -41,7 +41,8 @@ The textbook runs Qiskit code directly on its website via Thebe, letting readers
 - testing hypotheses about quantum computer behaviour
 
 ## Related Strategies
-- 
+
+- [Use Python quantum code libraries such as Qiskit and Netsquid to deliver simulation-based exercises and support autonomous learning](python-quantum-libraries-simulation-exercises.md)
 
 ## Examples
 -

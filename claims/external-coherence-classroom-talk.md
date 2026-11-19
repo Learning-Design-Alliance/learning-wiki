@@ -59,3 +59,6 @@ In one discussion section, while analyzing a mesh circuit problem, Michael reaso
 - [Students struggled to match correct physical intuition to equations in the springs-in-series problem despite extreme case reasoning](springs-series-intuition-equation-mismatch.md) — related
 - [Standard PER assessment paradigms do not capture coherence-seeking, leaving mathematical sensemaking outcomes undetected](standard-per-assessments-miss-coherence-seeking.md) — related
 - [Even unresolved sensemaking is valuable because students emerge with greater understanding of themselves and their intuitions](unresolved-sensemaking-still-valuable.md) — related
+- [Using graphs effectively in physics requires four general skills](four-skills-graphs-physics.md) — related
+- [Tasks cuing students to extract physical implications from mathematical expressions facilitate generation and connection of ideas and seeking coherence between them](physical-interpretation-of-mathematics-facilitates-sensemaking.md) — related
+- [Tasks that together cue real-world contexts, mechanistic explanation, multiple representations, and physical interpretation of mathematics increase the likelihood of student sensemaking in physics](task-features-increase-likelihood-sensemaking-physics.md) — related

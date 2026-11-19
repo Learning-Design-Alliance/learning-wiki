@@ -48,3 +48,4 @@ The review's synthesis of 54 documents from 21 national contexts reports that "c
 ## Related Claims
 - [Fatalistic narratives such as \"there is no other way out of the neoliberal game\" appear prevalent in how academics narrate careers under marketization](fatalistic-neoliberal-career-narratives-prevalent.md) — related
 - [Narratives of love and happiness for academic work intertwine with normalization of exploitation, producing a \"passion trap\" of pain and fatigue amid unstable contracts](passion-trap-normalizes-academic-exploitation.md) — related
+- [The article argues STEM research and pedagogy are shaped by constructs of property, sovereignty, and personhood through the Academic Industrial Complex](academic-industrial-complex-shapes-stem-pedagogy.md) — related

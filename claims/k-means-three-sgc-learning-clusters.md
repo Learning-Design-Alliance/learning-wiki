@@ -54,3 +54,4 @@ K-means clustering of 301 students using pre- and post-project SDG knowledge rat
 - [The effectiveness of the SGC methodology is consistent across different university contexts, with no significant differences in final SDG awareness, interest, or satisfaction between student groups.](sgc-methodology-consistent-across-contexts.md) — related
 - [Completing a series of student-generated content projects significantly increases students' subjective knowledge of Sustainable Development Goals.](sgc-projects-increase-subjective-sdg-knowledge.md) — related
 - [The largest cluster of learners invests minimally in the platform and shows almost no gain in conceptual knowledge](cluster1-minimal-investment-no-knowledge-gain.md) — reports the opposite
+- [Participation in the A-BASE-DE-PROS service-learning project increased students' knowledge of the SDGs, which before participation was around 50%](aps-sdg-knowledge-increase-abase-de-pros.md) — related

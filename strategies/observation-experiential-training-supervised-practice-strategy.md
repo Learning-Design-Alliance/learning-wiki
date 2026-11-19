@@ -47,6 +47,7 @@ Participants recommended that novices gain secondary experience by observing exp
 - [Sequence novice educators' challenges in increasing complexity: individual patient education first, then group education, then individual counseling and follow-ups](graduated-complexity-educator-development-sequence.md)
 - [Integrate Peyton's structured four-step approach into CPR training programs, particularly for critical procedural skills, and consider combining it with Kolb's experiential cycle](integrate-peyton-structured-approach-in-cpr-training.md)
 - [Staged supervised introduction for surgeons learning LASPME: experienced-center observation, cadaver course, then supervised performance with periodic video review](staged-supervised-laspme-adoption-pathway.md)
+- [Staged sequence for student participation in professional observing: bibliography study, remote attendance at a training observing run, then conducting observations themselves under supervision](staged-professional-observing-sequence-strategy.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Simulation study under 2PL-IRT using known pretest mathematical ability as true 
 - [MCAR item and response missingness in linear tests shows no differential effect on model fit across Designs 1 to 4](mcar-missingness-linear-tests-no-fit-effect.md) — related
 - [Achievement gap estimates are widely used to measure the effectiveness and fairness of the education system, so their accuracy and unbiasedness are necessary for appropriate conclusions](gap-estimates-accuracy-necessary-for-conclusions.md) — related
 - [Sequence-level estimates of latent singing ability vary widely, spanning −3.79 to 3.36 logits across 2,432 practice sequences from 1,074 learners](wide-latent-ability-spread-singing-learners.md) — related
+- [Linear regression trained on simulated student data recovers the injected weight parameters linking five activity inputs to exam performance](regression-recovers-injected-weights-simulated-student-data.md) — related

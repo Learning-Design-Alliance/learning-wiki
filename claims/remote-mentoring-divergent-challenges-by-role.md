@@ -51,3 +51,4 @@ Qualitative coding of narrative data from 23 pairs identified themes reported in
 - [Skype and Google Hangout were the most popular communication tools for remote mentor-mentee pairs, used by 39% and 21% of pairs respectively](skype-hangout-popular-remote-mentoring-tools.md) — related
 - [Instructors judged the open projects a good introduction to experimentation but noted students under-analyzed their data and mentoring difficulty](instructors-report-upsides-and-mentoring-difficulty.md) — related
 - [Mentees in remote REUs emphasized the importance of a quality mentor-mentee relationship, which developed more gradually without in-person contact](mentor-mentee-relationship-quality-remote-reu.md) — related
+- [Barriers in mentor-mentee relationships and differing expectations introduced challenges in remote REU programs](remote-reu-mentor-mentee-barriers.md) — related

@@ -49,3 +49,4 @@ Narrative attribution in the introduction: the article reports prior findings th
 - [One-time workshops raise awareness of evidence-based teaching strategies but are not sufficient for faculty to adopt them](workshops-insufficient-for-adoption-evidence-based-teaching.md) — related
 - [Many faculty who try research-based instructional strategies discontinue use after a single attempt due to lack of success and support](rbis-discontinuance-lack-of-support.md) — a narrower finding that bears on this claim
 - [The New Faculty Workshop for Physics and Astronomy supported both subjects' development of their teaching practices](new-faculty-workshop-supports-teaching-growth.md) — related
+- [Discontinuation of research-based instructional strategies after trying fell from 32% of triers in 2008 to 5% in 2019](rbis-discontinuation-fell-32-to-5-percent.md) — related

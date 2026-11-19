@@ -55,6 +55,7 @@ The article's discussion recommends that web-assisted activities and simulations
 - [Use real-time laboratory visualization rather than computer-based animations or simulations for electromagnetic wave concepts](real-time-lab-visualization-not-simulations.md)
 - [Use historic experiments on movement, repeated hands-on by students, to induce conceptual change](historic-experiments-hands-on-concept-change.md)
 - [Pair traditional quantum computation lecture topics with hands-on activities on real quantum systems](pair-lectures-with-hands-on-quantum-activities.md)
+- [Replace or augment rubber-band demonstrations with alternative materials and historical-music material to teach frequency](alternative-frequency-demonstration-materials.md)
 
 ## Examples
 -

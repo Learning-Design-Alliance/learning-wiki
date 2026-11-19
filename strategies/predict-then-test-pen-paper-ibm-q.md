@@ -45,6 +45,7 @@ In the IBM Q sessions, students work examples by hand using pen and paper or tab
 ## Related Strategies
 
 - [Use computer-based simulated experiments before real-time laboratory experiments](virtual-experiments-before-real-lab.md)
+- [Quantum hardware exploration assignments balancing authentic device access with simulator substitutes](quantum-hardware-exploration-assignments-strategy.md)
 
 ## Examples
 -

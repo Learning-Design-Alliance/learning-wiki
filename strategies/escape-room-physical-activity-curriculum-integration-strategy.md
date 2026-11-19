@@ -50,6 +50,7 @@ This strategy embeds gamified, time-bound escape room challenges combining moder
 ## Related Strategies
 
 - [Physical Activity & Recess](physical-activity-recess.md)
+- [University students design and monitor gamified activities (escape room and Kahoot! quiz) to teach an SDG to secondary students](escape-room-kahoot-sdg-strategy.md)
 
 ## Examples
 -

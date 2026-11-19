@@ -27,7 +27,7 @@ sources:
 # Build productive instructor-learner relationships so adults feel connected and take an active role in learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (20 for, 7 mixed) · 31 studies (8 causal, 8 associational, 4 review, 4 qualitative, 3 theoretical, 2 quant-synthesis, 2 design), `q1`–`q4` · 3 of 31 report an effect size · 23 claims rest on one study
+> **Evidence** · 28 claims (21 for, 7 mixed) · 32 studies (8 causal, 8 associational, 5 qualitative, 4 review, 3 theoretical, 2 quant-synthesis, 2 design), `q1`–`q4` · 3 of 32 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +139,7 @@ Claims bearing on the page that are not part of the model above, each with how f
 - [Relational goals are associated with recognition, grouping, and classroom mutual respect practices](../claims/lao-relational-goals-targets-recognition-grouping-respect.md) [+W] — attached 2026-10-18 from Anongsack Mahavong (2026), which proposed "Foster teachers' relational goals alongside mastery goals to support favorable instructional practices".
 - [Workers Treat Admissions As Sudden Procedural Event](../claims/workers-treat-admissions-as-sudden-procedural-event.md) [+M]
 - [Cmr Model Viewed As Comfortable Transition](../claims/cmr-model-viewed-as-comfortable-transition.md) [+M]
+- [Female physics students reported feeling belittled for their questions or efforts by instructors/TAs, which discouraged them from asking questions](../claims/belittled-questions-efforts-discourage-asking.md) [+W] — attached 2026-11-19 from Yangqiuting Li et al. (2023), which proposed "Instructors and TAs should provide positive recognition and validation and attend to their impact on students rather than their intentions"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

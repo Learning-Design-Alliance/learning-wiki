@@ -47,6 +47,7 @@ The strategy organizes learning around notebooks combining explanations with sma
 ## Related Strategies
 
 - [Use a simple computational exercise that can be 'tweaked' with a few lines of code to solve a different, equally intensive problem almost for free](notebook-tweak-almost-for-free-strategy.md)
+- [Use Python quantum code libraries such as Qiskit and Netsquid to deliver simulation-based exercises and support autonomous learning](python-quantum-libraries-simulation-exercises.md)
 
 ## Examples
 -

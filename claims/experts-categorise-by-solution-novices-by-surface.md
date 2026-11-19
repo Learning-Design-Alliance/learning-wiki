@@ -115,3 +115,5 @@ Same sorting study: the article reports that experts "tend to sort the problems 
 - [Novices focus on dominant surface features such as mass or velocity when comparing interaction-force magnitudes](dominant-surface-features-drive-n3l-errors.md) — a narrower finding that bears on this claim
 - [The problem-sorting exercise replacing strategy maps produced more enthusiastic, higher-level discussions and matched think-aloud videos as students' favorite exercise](problem-sorting-engagement.md) — related
 - [Experts use general patterns and broad categorizations when solving physics problems, but novices do not make this leap as readily](experts-categorize-novices-do-not-physics-problems.md) — possibly the same claim (merge candidate)
+- [Distinguishing fundamental physical principles from surface features is a critical aspect of problem solving](distinguish-principles-from-surface-features.md) — a narrower finding that bears on this claim
+- [Students using the Hierarchical Analysis Tool (HAT) showed significant problem-solving performance differences compared with students solving problems traditionally](hat-tool-improves-problem-solving-behavior.md) — related

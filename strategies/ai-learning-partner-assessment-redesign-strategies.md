@@ -58,6 +58,7 @@ The review's recommendations section advises instructors to proactively incorpor
 - [Redesign assessment so AI-generated text cannot substitute for student work: reflective, contextualised and project-based assignments](assessment-redesign-reflective-contextualised-assignments.md)
 - [Incorporate AI-generated text into teaching: students critique AI essays and write better versions](critique-ai-generated-essays-activity.md)
 - [Use GenAI as a tutor to generate practice MCQs and embed retrieval practice into learning and training](genai-tutor-generated-practice-mcqs-retrieval-practice.md)
+- [Use ChatGPT's mistakes as material for cultivating critical thinking rather than banning the chatbot](chatgpt-mistakes-critical-thinking-strategy.md)
 
 ## Examples
 -

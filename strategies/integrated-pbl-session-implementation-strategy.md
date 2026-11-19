@@ -59,6 +59,7 @@ The article's implementable recipe runs: instructors prepare PowerPoint, cases a
 - [Use web-based preview before simulation practice so students prepare autonomously](web-based-preview-before-simulation-practice.md)
 - [Run online PBL by uploading micro clinical cases 3 days before class, having students present via video conferencing, and quizzing after each class](wechat-pbl-case-upload-and-quiz-strategy.md)
 - [Move factual and preparatory learning to presession work to maximize active, hands-on in-session learning](presession-prep-maximize-hands-on-learning.md)
+- [Organize PPOL teams of 3–4 students per solution method with staged data collection](ppol-team-organization-data-collection-strategy.md)
 
 ## Examples
 -

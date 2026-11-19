@@ -48,6 +48,7 @@ Based on teacher and student feedback, the article recommends developing the nex
 
 - [Iterate serious games by increasing difficulty and gameplay and extend outreach to younger demographics based on player feedback](iterate-serious-game-difficulty-gameplay-younger-outreach.md)
 - [Iteratively add complex clinical content and refine difficulty level before a full trial](add-complex-clinical-content-next-iteration-strategy.md)
+- [Provide more direct instructions and adapt game difficulty and content to the setting and audience](setting-specific-game-instructions-and-difficulty.md)
 
 ## Examples
 -

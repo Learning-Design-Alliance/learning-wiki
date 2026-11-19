@@ -47,3 +47,4 @@ Exploratory usage analysis of 139 first-year undergraduates during four Linux pr
 ## Related Claims
 - [Collaborative features of Lab4CE saw very little use in the exploratory study](lab4ce-collaboration-low-usage.md) — related
 - [Students' activity within Lab4CE correlates positively with their learning achievement (r = 0.41, p = .002)](lab4ce-activity-achievement-correlation.md) — related
+- [A third-year undergraduate with minimal background could install and run deMon2k and complete guided basis-set lessons using only her personal computer](undergraduate-beta-test-lessons-0-1.md) — related

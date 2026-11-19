@@ -51,6 +51,7 @@ The review concludes that "the practical life materials can be usefully introduc
 - [Tactile Toys / Fidgets](tactile-toys-fidgets.md)
 - [Pre-Writing Skills Activities](pre-writing_skills_activities.md)
 - [Familiar, Quiet, and Repetitive Tasks](familiar-quiet-and-repetitive-tasks.md)
+- [Teach AI concepts through everyday-context, unplugged and hands-on activities](everyday-context-unplugged-ai-activities.md)
 
 ## Examples
 -

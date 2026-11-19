@@ -49,3 +49,4 @@ Written evaluations from a preliminary school test that used the post-demonstrat
 - [The authors report that quantum cryptography can basically be explained to high school students within half an hour](quantum-cryptography-half-hour-high-school-explanation.md) — related
 - [Students report high enjoyment and perceived usefulness of the quantum mechanics game after a class test](entangle-game-high-acceptance-survey.md) — related
 - [Written evaluations after the demonstration at two Chilean public high schools showed students had a basic understanding of several quantum-related concepts developed in the activity](written-evaluations-basic-quantum-concept-understanding.md) — related
+- [Quantum algorithms were the area of interest chosen by the most participants, followed by quantum machine learning and quantum cryptography](quantum-algorithms-top-interest-area.md) — related

@@ -54,3 +54,4 @@ Theoretical argument in the article's background and motivation section, reviewi
 - [Automatic analysis of collaboration logs via a fuzzy model was redesigned to use Bayesian reasoning for larger groups because fuzzy modelling of teachers' criteria was not easily scalable](fuzzy-to-bayesian-collaboration-analysis-scalability.md) — related
 - [ITS adoption is limited by instructors' lack of programming skills and high outsourcing costs](its-barriers-programming-skills-and-cost.md) — related
 - [Scalability of the MLADs across municipalities was limited by differing educational data sources, varied LMS platforms, and differing teacher familiarity with data-driven dashboards](mlad-scalability-limited-by-municipal-data-lms-variation.md) — related
+- [Adopting blockchain in education faces four stated limitation areas: security, scalability, adoption rate and cost](blockchain-education-limitations-four-areas.md) — related

@@ -81,3 +81,4 @@ Same mixed-model confirmatory test applied to Paas difficulty ratings. The inter
 - [Intervention group reports higher perceived difficulty, reasoning improvement, engagement, self-efficacy, and course material evaluation](genai-cbl-subjective-experience.md) — related
 - [Perceived cognitive load did not differ significantly across instructional conditions and did not moderate the fading effect](cognitive-load-no-condition-differences.md) — related
 - [ChatGPT-assisted skill learning produces lower cognitive load than video-only learning, measured by change in pupil diameter](chatgpt-assisted-learning-lowers-cognitive-load-pupil-diameter.md) — related
+- [Tasks developed with ChatGPT 3.5 and with a textbook show no significant difference in specificity, correctness, misleadingness, or adequate difficulty, but both groups produced tasks with low specificity](chatgpt-vs-textbook-task-quality-comparable.md) — related

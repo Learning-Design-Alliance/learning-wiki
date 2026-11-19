@@ -60,3 +60,5 @@ Reflexive ethnographic observations of twelve lab sections (more than 100 hours)
 - [In mixed-gender inquiry-lab groups, women spent about twice as much time as men analyzing data on laptops (14±7% vs 6±3% of the lab period)](women-twice-laptop-analysis-time.md) — related
 - [Hands-on labs produce earlier and greater group cohesion than remote or simulated labs](hands-on-labs-greater-group-cohesion.md) — related
 - [Preliminary observation: the inequitable trio had two men and one woman while the equitable trio had two women and one man](gender-ratio-preliminary-lab-equity.md) — related
+- [In Physics I Lab control sections women were responsible for less equipment usage than men, but no gendered difference was observed in Physics II Lab](gendered-equipment-use-physics-i-not-ii.md) — related
+- [Women and men report different lab activity role preferences at semester start, with women preferring notes and managing and men preferring equipment and analysis](gendered-lab-role-preferences-survey.md) — related

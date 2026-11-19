@@ -70,3 +70,4 @@ Student focus group data (Theme 3, Subtheme 3.1.3). Participants reported fear o
 - [Performing the physical therapist role was perceived as challenging to threatening, yet its impact on awareness of professional development was not questioned](pt-role-performance-challenging-to-threatening.md) — related
 - [Perceived condescension from male professors activated stereotype threat for a woman physics major, reducing her sense of belonging and discouraging her from asking questions](condescension-stereotype-threat-disengagement.md) — related
 - [Material adaptations are a recognized challenge for including blind students in conventional academic activities](material-adaptations-challenge-blind-student-inclusion.md) — related
+- [Teacher-mediated interaction in the online laboratory did not encourage constant active student participation, with students fearing teacher judgement](teacher-mediated-interaction-limited-participation.md) — related

@@ -62,3 +62,4 @@ Model comparison on the common student sample using Root-Mean-Square Error (Tabl
 - [Seemingly Unrelated Regression on Fall 2005 sections confirms the one-minute paper as equally effective](one-minute-paper-sur-confirmation.md) — related
 - [Checklist scores significantly predict GRS scores in a high-stakes exit OSCE](checklist-predicts-grs-regression-osce.md) — related
 - [The variable-based linear regression classifier produced the best-performing student performance model, yielding the least MAE, RMSE, RAE and RRSE among the four trained models](variable-based-lrc-best-error-metrics-programming-spm.md) — related
+- [Linear regression trained on simulated student data recovers the injected weight parameters linking five activity inputs to exam performance](regression-recovers-injected-weights-simulated-student-data.md) — related

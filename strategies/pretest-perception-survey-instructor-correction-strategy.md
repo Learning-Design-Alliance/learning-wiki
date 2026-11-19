@@ -44,6 +44,7 @@ The article reports that "the student’s pre-test feedback allowed the instruct
 ## Related Strategies
 
 - [Use clickers in tutorial sessions to activate students before or after exercises](clickers-in-optics-tutorials-strategy.md)
+- [Administer a pretest before training so instructors can tailor methods and materials to participants' prior understanding](pretest-informs-trainer-material-selection.md)
 
 ## Examples
 -

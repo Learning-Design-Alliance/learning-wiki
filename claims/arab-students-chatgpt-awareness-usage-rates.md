@@ -49,3 +49,4 @@ Cross-sectional survey of 2240 university students in five Arab countries recrui
 - [ChatGPT usage scores were higher in Egypt than in Iraq, Jordan, Kuwait, and Lebanon in multivariable analysis](egypt-highest-chatgpt-usage-country-differences.md) — related
 - [TAME-ChatGPT construct scores indicated a generally positive attitude towards ChatGPT and its use in the study sample](tame-chatgpt-positive-attitude-descriptive.md) — related
 - [Fewer than 10% of teaching staff and students in surveyed Arab higher education institutions had received formal AI training](under-10-percent-arab-he-formal-ai-training.md) — related
+- [Most surveyed physics students had heard of ChatGPT and about half had used it, but only a minority had used it for physics questions](student-familiarity-with-chatgpt-survey.md) — related

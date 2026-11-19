@@ -49,3 +49,5 @@ Pre/post survey item on perceived societal importance of quantum computing from 
 - [Students do not express the societal relevance of learning quantum physics for their own citizenship, even after acknowledging its applications](students-miss-citizen-voice-relevance-of-quantum.md) — related
 - [A Quantum Rules! outreach visit increases upper-secondary students' agreement that quantum science is important for society](quantum-rules-visit-increases-perceived-societal-importance.md) — related
 - [After the visit, students describe learning quantum physics as more useful, interesting or important, and almost none become more negative](learning-quantum-valued-more-positively-after-visit.md) — related
+- [Instructors observe that media hype creates distorted preconceptions about quantum technology that they must actively dispel](media-hype-creates-distorted-preconceptions-quantum.md) — related
+- [Instructors report that popular media hype is a major motivator of student interest and enrollment in quantum computing electives](media-hype-motivates-student-enrollment-quantum-courses.md) — related

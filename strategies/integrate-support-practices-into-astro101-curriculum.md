@@ -46,6 +46,7 @@ The chapter recommends that community college astronomy instructors deliberately
 - [Embed supplemental one-on-one tutoring within the school day using existing school support staff](embed-tutoring-in-school-day-with-existing-staff.md)
 - [Integrate EI into health sciences curricula through structured experiential methods such as reflective journaling, simulation, peer mentoring, and structured debriefing](ei-experiential-curriculum-integration-strategy.md)
 - [Integrate grief training throughout the medical curriculum using interdisciplinary collaborations and experiential learning opportunities](integrate-grief-training-throughout-curriculum.md)
+- [Advise community college students to enroll in developmental mathematics in their first semester before continuing astronomy coursework](early-developmental-math-advisement-astronomy-strategy.md)
 
 ## Examples
 -

@@ -49,6 +49,7 @@ Beyond checking the correctness of students' individual answers, the handout pro
 - [Use team-based gamified quizzes at the start and end of teaching sessions to complement traditional histology teaching](team-based-gamified-quiz-strategy.md)
 - [Use a gamified audience response system in the synchronous online phase to activate students](gamified-ars-activation-synchronous-online.md)
 - [Game Based Review](game-based-review.md)
+- [University students design and monitor gamified activities (escape room and Kahoot! quiz) to teach an SDG to secondary students](escape-room-kahoot-sdg-strategy.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Pre- and post-course survey using 25 items from the Thinking About Science Surve
 - [Within the mobile-3G classroom group, self-reported student confidence rose and self-reported anxiety fell from pre-test to post-test over a term of regular use, while self-reported liking and general usefulness showed no significant change](mobile-use-confidence-anxiety-attitude-changes.md) — related
 - [A post-competition survey found that GeCAA made a positive impact on participants' views of astronomy and astrophysics](gecaa-2020-survey-positive-impact-views.md) — related
 - [Quantitative Likert-scale attitude data showed no trends significant at the p<0.05 level using a Wilcoxon signed rank test](sciwri-quantitative-nonsignificant-wilcoxon.md) — related
+- [Pre-to-post change in engineering attitudes was not statistically significant in the pilot workshop](no-significant-prepost-attitude-change-pilot.md) — related

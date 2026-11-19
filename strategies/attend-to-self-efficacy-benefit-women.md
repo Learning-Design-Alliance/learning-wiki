@@ -17,7 +17,7 @@ sources:
 # Attend to student self-efficacy as a possible lever for benefiting women in active-learning physics courses
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 9 claims (9 for) · 5 studies (4 associational, 1 qualitative), `q1`–`q3` · 1 of 5 report an effect size · 9 claims rest on one study
+> **Evidence** · 9 claims (9 for) · 6 studies (5 associational, 1 qualitative), `q1`–`q3` · 1 of 6 report an effect size · 8 claims rest on one study
 
 ## Description
 Because women in the course reported lower self-efficacy on average while self-efficacy emerged as a significant predictor of assessment scores, the authors suggest that 'attending to self-efﬁcacy could speciﬁcally beneﬁt women in the course'. They propose studying 'how changes in self-efﬁcacy relate to assessment results' to understand whether a self-efficacy intervention may work in their context, following prior work in which changes in self-efficacy mediated score improvements for an equity-seeking group.

@@ -50,3 +50,4 @@ Interview data from the NEXUS/Physics course on a task similar to Phillip's. The
 - [An exclusive substance metaphor led a student to incorrectly claim energy is released when bonds are broken; switching to a mixed ontology helped her analyze the situation correctly](substance-metaphor-bond-breaking-misconception.md) — related
 - [Switching to a blended substance/location ontology helped one student correct her understanding of chemical bond energy](blended-ontology-corrects-bond-energy-understanding.md) — related
 - [Haphazard mixing of substance and location predicates leads students to confused reasoning about negative energy](haphazard-ontology-mixing-leads-to-confusion.md) — related
+- [An energy-bar-chart estimation shows burning off a 600 kcal donut requires hiking about 1000 m of elevation given one-third muscle efficiency, surprising students](hiking-burns-off-donut-1000-meters.md) — related

@@ -57,3 +57,4 @@ Descriptive satisfaction results from the pooled feedback of 489 student respons
 - [After the course, 92% of participants said they would recommend it and 98% reported that the course would influence their practice](teolc-high-satisfaction-practice-influence.md) — related
 - [Students rated the course and its feedback highly, and most felt expectations were fulfilled](high-satisfaction-and-constructive-feedback-ratings.md) — related
 - [97.9% of students reported the near-peer revision program positively influenced their OSCE preparation](near-peer-revision-positive-influence-osce-preparation.md) — related
+- [Participant feedback on ASP2022 was generally positive, with most participants satisfied and willing to recommend ASP to colleagues](asp2022-feedback-generally-positive.md) — related

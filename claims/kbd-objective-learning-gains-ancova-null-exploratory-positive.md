@@ -97,3 +97,4 @@ In the same exploratory regressions, "Only learning preference had a significant
 - [No significant improvement in science test performance from the robotics and programming unit](mbot-no-science-improvement.md) — related
 - [Lower pretest exploratory levels predicted greater gains, but the group difference in this relationship was not significant](pretest-levels-predict-gain-not-significant-interaction.md) — related
 - [Several perceived-advantage comparisons between the social robotic and computer-based platforms did not reach statistical significance](social-robotic-vp-nonsignificant-comparisons.md) — related
+- [Group (AR vs non-AR) had no significant impact on math post-test scores when pre-test was the covariate](ancova-group-no-significant-impact-math-posttest.md) — related

@@ -50,3 +50,5 @@ Longitudinal phenomenographic interview study of ten mentees and eight mentors i
 - [Seven of ten mentees rated project self-efficacy 8-10 by interview six, and mentees reported further self-efficacy improvements by interview nine](remote-reu-self-efficacy-ratings.md) — related
 - [Most mentees left the remote REU with clearer career goals and better understanding of research work](remote-reu-career-clarity-gains.md) — a narrower finding that bears on this claim
 - [Remote REU mentees' objectives fell into three categories: gaining research experience and career clarity, learning about physics subfields, and making connections with a broader community](three-mentee-objective-categories-remote-reu.md) — related
+- [Almost every remote REU mentee described achieving their goals and most intended to apply to graduate programs](remote-reu-goal-attainment-graduate-school-intentions.md) — related
+- [Outcomes of remote REU programs were reported as not far from the generally accepted benefits of in-person undergraduate research experiences](remote-reu-outcomes-comparable-to-in-person.md) — a broader claim this one bears on

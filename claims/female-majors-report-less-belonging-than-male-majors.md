@@ -58,3 +58,4 @@ Interview study of 201 college seniors from 16 UNC system campuses; coded belong
 - [Cisgender men speak more during small-group or whole-class discussions, reinforcing perceptions of greater competence in STEM.](men-speak-more-discussions-competence-perceptions.md) — related
 - [Women represent only 12% of US innovators, and the average US-born male is nine times more likely to contribute to an innovation than the average female](us-women-innovators-twelve-percent.md) — related
 - [Societal stereotypes, strongest in physics, contribute to lower sense of belonging for women and ERM students in physics](stereotypes-lower-belonging-women-erm-physics.md) — a narrower finding that bears on this claim
+- [Female physics students reported feeling marginalized due to differential gender dynamics in instructor and TA interactions](differential-gender-dynamics-marginalization.md) — related

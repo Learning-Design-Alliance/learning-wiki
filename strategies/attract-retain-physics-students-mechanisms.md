@@ -43,4 +43,4 @@ The article states that "Attraction and retention of students in Physics can be 
 -
 
 ## Key Sources
-- Ramaila, S. (2022). Physics Education for Capacity Development and Research in Africa. Proceedings of the African Conference on Fundamental and Applied Physics, Second Edition (ACP2021), Virtual Event. https://arxiv.org/abs/2206.03145
+- Ramaila, S. (2022). Physics Education for Capacity Development and Research in Africa. Proceedings of the African Conference on Fundamental and Applied Physics, Second Edition (ACP2021), Virtual Event. https://arxiv.org/abs/2206.03145. [doi:10.48550/arxiv.2206.03145](https://doi.org/10.48550/arxiv.2206.03145)

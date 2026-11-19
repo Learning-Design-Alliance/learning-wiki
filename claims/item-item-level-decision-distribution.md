@@ -54,3 +54,4 @@ Item-level analysis of cognitive interview findings across the 40 ITEM questions
 - [Simulation education experts raised feasibility concerns about question load and learner case experience, leading to modification of the metacognition questions](expert-interviews-protocol-modification.md) — related
 - [Think-aloud student interviews led to wording and spacing changes on CURrENT questions](think-aloud-interviews-improved-current-question-wording.md) — related
 - [Free-response piloting of QuaRCS questions generated distractors from common misconceptions and led to rejection or revision of problematic items](free-response-piloting-vets-quarcs-items.md) — related
+- [Items were revised or removed when student reasoning could not be mapped to responses; same-reasoning-different-answer mismatches drove CMR redesigns](spruce-item-refinement-reasoning-mapping.md) — related

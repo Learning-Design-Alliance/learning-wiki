@@ -48,3 +48,4 @@ ANOVA of NASA-TLX data from the twenty-participant qualitative study examined re
 - [Perceived overall workload of the HoloLens-based hip arthroplasty simulation session is low](low-overall-workload-hololens-orthopaedic-simulation.md) — related
 - [No significant difference in cognitive workload between novices and experienced participants across NASA-TLX domains](no-nasa-tlx-difference-novice-experienced.md) — related
 - [Novices reported higher temporal demand, performance, and frustration on NASA-TLX subscales than experts during peg transfer training](novices-higher-tlx-temporal-demand-performance-frustration.md) — reports the opposite
+- [AR workshop students reported significantly higher physical demand and effort on NASA-TLX than non-AR students](ar-higher-physical-demand-effort-nasa-tlx.md) — related

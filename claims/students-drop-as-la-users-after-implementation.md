@@ -51,3 +51,4 @@ Survey findings (Figure 3, n=45) show "teaching staff and tutors" consistently r
 - [Learning and teaching support units are the most involved and leading stakeholders in LA adoption, with students minimally involved](la-stakeholder-involvement-imbalance.md) — related
 - [Existing components in learning management systems are the most frequently chosen LA tools and software](la-tools-lms-components-most-frequent.md) — related
 - [Top-ranked program choices differed by student background: low-performing students were nearly three times as likely as high-performing students to rank a charter program first, and IB programs were most popular among high-performing students](gocps-preferences-vary-by-student-background.md) — related
+- [Educators and learners are the main stakeholder targets of LA tools, but most tools treat users as passive consumers of visualizations](la-tools-target-educators-learners-passive-users.md) — related

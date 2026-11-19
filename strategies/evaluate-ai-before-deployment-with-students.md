@@ -52,6 +52,7 @@ The article recommends that edtech teams evaluate their AI models and outputs be
 - [Deploy a minimal baseline chatbot to bootstrap its own annotated evaluation corpus and improve incrementally](bootstrapping-baseline-annotated-corpus.md)
 - [Pre-deployment gate and per-epoch helpfulness rollback for vendors shipping LLM tutors to K-12 learners](educlaw-bench-deployment-gates-and-early-stopping.md)
 - [Deploy an educational chatbot to give students instant question-and-answer support outside class when teacher interaction time is limited](chatbot-out-of-class-instant-support.md)
+- [Apply human quality-check supervision before deploying LLM-generated hint content in tutoring systems](human-quality-checks-for-llm-hints.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Editorial synthesis citing Eitel and Kühl (2015) and Rummer et al. (2015, Exp. 
 - [The learning benefits of perceptual disfluency reported by Diemand-Yauman et al. (2011) do not replicate in any general way](disfluency-benefits-do-not-replicate.md) — related
 - [Low to medium disfluency does not harm learning and sometimes descriptively improves it, though the effect is unstable](disfluency-low-levels-not-harm-learning.md) — reports the opposite
 - [Addressing did not enhance transfer performance in study 1](addressing-no-transfer-effect.md) — related
+- [Longer time on task in the RL condition occurred across all pretest groups, so time on task is unlikely to be the primary reason for the low performers' benefit](time-on-task-not-primary-mechanism.md) — related

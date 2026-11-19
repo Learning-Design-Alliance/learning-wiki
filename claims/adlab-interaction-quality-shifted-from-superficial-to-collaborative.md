@@ -56,3 +56,4 @@ Micro-ethnographic episode analysis comparing a first-week "brief me on the expe
 - [Review reports statistically significant growth effects over time in a semester-long graduate humanistic knowledge building community](editorial-kashi-hod-growth-effects-over-time.md) — related
 - [Knowledge-building practices are defined at the community unit of analysis but enacted at the small-group discursive unit](practices-community-level-enacted-small-group.md) — related
 - [A learning-outcome-oriented programmatic assessment project shows increased student activity, measurable advancement and enhanced team communication](lo-project-increased-activity-and-communication.md) — related
+- [Students' science communication improves between the first and second research briefing, with more discussion arising later in the semester](communication-improves-second-research-briefing.md) — related

@@ -53,3 +53,4 @@ Theme 5 of the focus group analysis with 25 healthcare professionals: participan
 - [Positive and negative factors in simulation (practical organisation, cases, reversed hierarchies, involvement, debriefing) were unrelated to the ISS or OSS setting](simulation-factors-unrelated-to-setting.md) — related
 - [Bi-communal astronomy activity days were followed by participant-reported feelings of improved mutual understanding and empathy](columba-hypatia-reported-empathy-after-bicommunal-days.md) — related
 - [After the PSC Summer Camp, 85% of participants reported increased understanding and competency, with 80% feeling part of a team](psc-summer-camp-understanding-gains.md) — related
+- [The diverse perspectives of others profoundly enrich the problem-solving process, while collaboration poses its own challenges](diverse-perspectives-enrich-problem-solving.md) — related

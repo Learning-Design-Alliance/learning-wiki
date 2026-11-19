@@ -51,3 +51,5 @@ Grace's interview quote, reported in the discussion's remote-vs-in-person compar
 - [Working from home in remote REUs created digital distraction and blurred work-life boundaries, which some mentees managed by establishing designated workspaces](home-workspace-distraction-remote-research.md) — related
 - [Regularly scheduled meetings were a productive norm in remote REU labs, with most mentees meeting their mentors more than once a week](remote-reu-meeting-frequency-norms.md) — related
 - [Remote REU mentees reported the experience was highly beneficial and the remote format did not open a gap between their objectives and outcomes](remote-reu-mentees-reported-highly-beneficial-outcomes.md) — related
+- [Remote REU participants persistently lacked community, and the resulting lack of in-person interaction pushed mentees into substantial independent learning](remote-reu-lack-of-community.md) — related
+- [Working from home introduced motivational challenges in remote REU programs](remote-reu-motivational-challenges.md) — related

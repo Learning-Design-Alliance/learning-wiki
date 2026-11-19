@@ -87,3 +87,4 @@ Model comparison in the exam analysis: 'the inclusion of self-efﬁcacy explaine
 - [Men scored higher than women on FCI pretest, FCI post-test, and solo-phase exam in introductory physics](fci-exam-gender-gaps-favor-men.md) — related
 - [Test anxiety was not a significant predictor of assessment scores despite women reporting higher anxiety](test-anxiety-not-significant-predictor.md) — possibly the same claim (merge candidate)
 - [Self-efficacy correlated positively and test anxiety negatively with FCI post-test and exam scores](self-efficacy-test-anxiety-correlate-with-scores.md) — related
+- [Models adding midterm exam and affective attribute give the lowest AIC fit at both two-level (model 5) and three-level (model 6) specifications](best-fit-models-midterm-affective-aic.md) — related

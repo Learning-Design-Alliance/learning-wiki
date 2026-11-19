@@ -59,6 +59,7 @@ Based on the demonstrated consistency gap, the authors recommend that AI systems
 - [Subject AI-generated items to trained human expert review, including a technical review and difficulty refinement](human-expert-review-of-ai-mcqs.md)
 - [Design hybrid learning models that integrate LLMs with critical reflection, and establish secondary validation mechanisms for AI-driven clinical decisions](hybrid-llm-learning-secondary-validation-strategy.md)
 - [Provide expert-written image hints and human oversight when using multimodal LLMs for image-based medical learning or decision support](expert-image-hints-with-human-oversight-strategy.md)
+- [Apply human quality-check supervision before deploying LLM-generated hint content in tutoring systems](human-quality-checks-for-llm-hints.md)
 
 ## Examples
 -

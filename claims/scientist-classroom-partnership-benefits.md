@@ -86,3 +86,4 @@ Research on scientist classroom visits reported in the review found a female sci
 - [Open inquiry positively influences students' attitudes towards science, including satisfaction, collaboration and self-confidence](open-inquiry-attitudes-towards-science.md) — related
 - [Students oriented toward STEM careers show more positive science attitudes, with non-STEM-intending students least positively impacted and astronomy/physics-career students most](astro-attitude-correlates-stem-career-orientation.md) — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
+- [Context-based science education implementations improved students' science content learning with medium effect sizes and motivation with large effect sizes](cbse-learning-motivation-effect-sizes.md) — related

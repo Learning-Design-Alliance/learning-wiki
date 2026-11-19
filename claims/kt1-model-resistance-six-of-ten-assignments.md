@@ -50,3 +50,4 @@ Instructor observation reported without a systematic benchmark: "Codex 5.6-Sol c
 - [The workshop argues AI-resistant assignments are temporary at best, reframing design goals toward tasks whose difficulty survives AI completing part of the work](ai-resistance-shelf-life-reframing.md) — a broader claim this one bears on
 - [AI solutions can automate routine tasks but cannot yet handle the complex tasks of higher learning](ai-limited-to-automatable-tasks-in-higher-learning.md) — related
 - [Three recurring AI failure modes arose in this project-based learning context: plausible-but-incorrect code, missing specialized knowledge, and limited long-term context](three-ai-failure-modes-project-based-learning.md) — related
+- [AI code generator access significantly improves code-authoring correctness, speed, and error rates during training](codex-improves-authoring-performance.md) — related

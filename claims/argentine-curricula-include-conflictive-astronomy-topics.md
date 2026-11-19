@@ -51,3 +51,4 @@ The article's descriptive comparison of the Provincia de Buenos Aires EGB-1/2/3 
 - [Preservice elementary teachers hold robust non-scientific conceptions of basic astronomical notions](preservice-teachers-astronomy-misconceptions.md) — related
 - [Many preservice teachers explain the seasons with the proximity theory](proximity-theory-seasons-preservice-teachers.md) — related
 - [Including astronomy topics improves science literacy and specific competencies, with many effect sizes of 0.8 or larger](astronomy-inclusion-improves-science-literacy.md) — related
+- [Students present serious difficulties and alternative conceptions in learning astronomical subjects, partly linked to traditional teaching distanced from observational and experiential experience](alternative-conceptions-astronomy-traditional-teaching-fragmented-knowledge.md) — related

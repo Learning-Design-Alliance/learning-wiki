@@ -48,3 +48,4 @@ Survey data on stakeholder involvement show "the learning and teaching departmen
 ## Related Claims
 - [Students rank lower as LA users among institutions that already implemented LA than among preparing or interested institutions](students-drop-as-la-users-after-implementation.md) — related
 - [Positioning students as stakeholders who decide content and provide technology feedback is claimed to lead to increased consumer acceptance](student-stakeholders-increase-consumer-acceptance.md) — related
+- [Educators and learners are the main stakeholder targets of LA tools, but most tools treat users as passive consumers of visualizations](la-tools-target-educators-learners-passive-users.md) — related

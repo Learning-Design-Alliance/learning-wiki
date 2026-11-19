@@ -8,12 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: moderate
-newest_evidence: 2012
-source_checked: 2026-11-17
+newest_evidence: 2013
 sources:
-  - id: sarah-garner-2012
+  - id: sarah-garner-2013
     resource: "https://doi.org/10.48550/arXiv.1311.5486"
-    title: "Sarah Garner, Michael J. Tremmel, Sarah J. Schmidt, John P. Wisniewski, Eric Agol. (2012). Evaluation of a College Freshman Diversity Research Program. [doi:10.48550/arXiv.1311.5486](https://doi.org/10.48550/arXiv.1311.5486)"
+    title: "Sarah Garner, Michael J. Tremmel, Sarah J. Schmidt, John P. Wisniewski, Eric Agol. (2013). Evaluation of a College Freshman Diversity Research Program. Originally published 2012. [doi:10.48550/arXiv.1311.5486](https://doi.org/10.48550/arXiv.1311.5486)"
     author: Sarah Garner, Michael J. Tremmel, Sarah J. Schmidt, John P. Wisniewski, Eric Agol
     q: 2
     i: "?"
@@ -25,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2012 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Pre-MAP recruited a higher percentage of URMs and an equal percentage of women compared to the incoming UW class. [→ Sarah Garner 2012](#sarah-garner-2012)
+`q2 i?` Pre-MAP recruited a higher percentage of URMs and an equal percentage of women compared to the incoming UW class. [→ Sarah Garner 2013](#sarah-garner-2013)
 
 ## Evidence
 
-### Sarah Garner 2012
+### Sarah Garner 2013
 
-Sarah Garner, Michael J. Tremmel, Sarah J. Schmidt, John P. Wisniewski, Eric Agol. (2012). Evaluation of a College Freshman Diversity Research Program. [doi:10.48550/arXiv.1311.5486](https://doi.org/10.48550/arXiv.1311.5486)
+Sarah Garner, Michael J. Tremmel, Sarah J. Schmidt, John P. Wisniewski, Eric Agol. (2013). Evaluation of a College Freshman Diversity Research Program. Originally published 2012. [doi:10.48550/arXiv.1311.5486](https://doi.org/10.48550/arXiv.1311.5486)
 
 `q2 · i?` · `associational · r1`
 
@@ -50,3 +49,4 @@ Observational comparison of self-identified ethnicity data from the UW student d
 
 ## Related Claims
 - [Voluntary recruitment enrolled only a minority of the target cohort of underperforming students (16.94% in Fall, 11.30% in Spring)](voluntary-recruitment-reaches-minority-of-target-cohort.md) — related
+- [Women and racial minorities are underrepresented in the U.S. STEM workforce](women-urm-underrepresented-stem-workforce.md) — related

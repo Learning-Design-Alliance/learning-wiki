@@ -52,6 +52,7 @@ The article recommends that physics programs replace inadequate informal skill a
 - [Normalize graduate training for a broad range of STEM careers with formal courses](graduate-broad-career-training-courses.md)
 - [Institutional-level actions to improve astronomers' statistical training: add applied statistics courses, create cross-disciplinary venues, make joint hires, and reward interdisciplinary work](institutional-astrostatistics-training-actions.md)
 - [Present undergraduates a realistic view of particle physics career paths](undergrad-realistic-career-paths.md)
+- [Educators should expose students to accurate depictions of physics careers and underemphasized skills such as interdisciplinary communication and computational problem-solving](accurate-career-depictions-career-decision-strategy.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Post-program teacher surveys (grades 2-8) from the pilot assessment study. Descr
 - [Children as young as 7 can grasp the idea of unseen small things such as quarks, acknowledging and imagining them by second grade](young-children-grasp-unseen-quarks.md) — related
 - [Over half of surveyed students would tell friends they enjoyed the program, and 46% would mention specific program content](students-would-share-enjoyment-with-friends.md) — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
+- [Teachers of the involved classes reported student enjoyment and stated they would reuse the course materials and Kahoot! with their pupils](teachers-reuse-intent-kahoot-materials.md) — related

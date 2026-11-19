@@ -51,3 +51,4 @@ Experiment within a reviewed study (Li et al., described by the review) in a com
 - [Eye-gaze-tracking-based proctoring systems report cheating-detection accuracies around 95–98% in their original studies](eye-gaze-proctoring-detection-accuracy-95-98.md) — related
 - [Head-pose-estimation-based proctoring systems report widely varying accuracies, from 75.6% for cheating detection to 100% for yaw-angle estimation](head-pose-proctoring-accuracy-range.md) — related
 - [Educators raised concerns about virtual communication being unengaging and high cheating possibility in online assessments](educator-concerns-virtual-communication-cheating.md) — related
+- [A roadside litter detector built with a Raspberry Pi, wireless notecard, webcam, and Edge Impulse Studio achieved almost 90% image accuracy in distinguishing trash from no-trash](roadside-litter-detector-almost-90-percent-accuracy.md) — related

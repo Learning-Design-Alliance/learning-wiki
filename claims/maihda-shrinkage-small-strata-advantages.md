@@ -52,3 +52,4 @@ Methodological exposition of the shrinkage factor applied to strata-level residu
 - In the PISA 2018 German illustration, students were assigned to 40 intersectional strata with sample sizes ranging from 3 to 512 — a narrower finding that bears on this claim
 - A systematic review identified 21 publications applying intersectional MAIHDA analysis, primarily in the health sciences — related
 - [The variance partition coefficient from the simple intersectional model quantifies how useful intersectional strata are for predicting educational outcomes](vpc-measures-strata-discriminatory-accuracy.md) — related
+- [Intersectional strata explain around 30% (age 11) and 25% (age 16) of the overall variance in London students' achievement](intersectional-strata-vpc-achievement-london.md) — related

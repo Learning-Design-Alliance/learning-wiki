@@ -50,3 +50,4 @@ Percentages of students who diagnosed their mistakes in the invoking and applyin
 - [The solved example mainly helps students invoke the correct principles (especially conservation of momentum), but invoking principles is not enough—students still fail to apply them correctly across connected sub-problems](invoking-versus-applying-principles.md) — reports the opposite
 - [Mistake type moderated diagnosability: application errors were diagnosable on the conventional problem but invocation errors were not](mistake-type-moderates-self-diagnosability.md) — related
 - [Students diagnose mistakes in which principles they invoked far more readily than mistakes in how principles were applied](invoking-easier-to-diagnose-than-applying.md) — related
+- [Productive use of assumptions simplifies problem solving and helps determine which principles apply](assumptions-simplify-problem-solving.md) — related

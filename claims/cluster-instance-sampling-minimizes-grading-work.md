@@ -68,3 +68,4 @@ Results on sample sizes: larger samples raised classification accuracy but somet
 - [Unsupervised time-series clustering identifies low performers more accurately than SVM or decision-tree classifiers trained on two temporal statistics](unsupervised-clustering-beats-feature-classifiers.md) — related
 - [Clustering and score suggestions each individually reduced average grading time per answer by 69%, and combining them gave the largest reduction of 73%](clustering-plus-score-suggestions-reduce-grading-time.md) — related
 - [Mohler '09 found incorporating the best student answers with the teacher answer to expand vocabulary effective for unsupervised grading](mohler-2009-student-answer-vocabulary-expansion.md) — related
+- [Clustering solutions by AI grading scores and similarity-of-approach roughly aligns with manual grading clusters and total scores](ai-clustering-aligns-manual-grading.md) — related

@@ -53,3 +53,4 @@ Anonymous online questionnaire evaluation of digital SP seminars in the 6th and 
 - [GP-trainees showed high acceptance of the converted digital seminar format, with 99% willing to participate in an online seminar again and 58% satisfied or very satisfied with the implementation.](kwbw-webinar-high-acceptance-gp-trainees.md) — related
 - [Students reported very high satisfaction with the standardised patient interactions, valuing realism, SP feedback and debrief sessions](sp-workshop-high-satisfaction.md) — related
 - [Students rated the dermatology e-learning course highly, with 90.9% rating it very good to excellent](elearning-dermatology-high-satisfaction-90-9.md) — related
+- [Participation in the Gravitas online seminars was substantial, with around 270 visualizations per YouTube video and 80 students on average during live sessions](gravitas-online-seminar-participation.md) — related

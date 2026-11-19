@@ -44,6 +44,7 @@ The authors propose analyzing real-world student learning activities, facial exp
 ## Related Strategies
 
 - [Two-step synchronization procedure aligning brainwave and video data to question-level user records via user id, session time, and submission timestamps](mutla-two-step-multimodal-synchronization-strategy.md)
+- [Integrate affective computing to analyze user emotional state and adapt tutor responses](affective-computing-emotional-valence-extension.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Quantitative comparison (RQ1) of DBSCAN-based consensus clustering outputs again
 - [Behavioral clusters recur across different student groups, which the authors attribute to shared cultural norms](behavioral-clusters-shared-across-groups.md) — related
 - [Milestone logic lets designers adapt TTX pacing to each team instead of delivering injects at predefined times.](milestones-adapt-exercise-pace-per-team.md) — related
 - [Requiring each discipline's contribution from the first assignment improved team cohesion and later collaboration](discipline-interaction-improved-team-cohesion.md) — related
+- [Clustering solutions by AI grading scores and similarity-of-approach roughly aligns with manual grading clusters and total scores](ai-clustering-aligns-manual-grading.md) — related

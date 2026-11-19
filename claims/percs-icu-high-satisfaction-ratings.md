@@ -63,3 +63,4 @@ Post-course evaluation questions on 5-point Likert scales administered to the 69
 - [After the course, 92% of participants said they would recommend it and 98% reported that the course would influence their practice](teolc-high-satisfaction-practice-influence.md) — related
 - [Midwives rated the compact training highly, with 81% rating it excellent and all stating they would recommend it](high-satisfaction-compact-training.md) — related
 - [Students rated the AMSC highly valuable at course end and reported it prepared them for their internships](amsc-student-evaluation-ratings.md) — related
+- [More than 91% of surveyed participants appreciated the online physics courses and would recommend them to a peer](kahoot-courses-91-percent-satisfaction-recommendation.md) — related

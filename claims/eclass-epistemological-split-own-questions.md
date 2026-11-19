@@ -54,3 +54,4 @@ Results from a typical introductory calculus-based lab course at a large public 
 - [65% of codable WoW forum posts display an evaluative epistemology, contrasting with Kuhn's finding that only 15% of interviewed Americans held one](wow-forum-evaluative-epistemology-65-percent.md) — related
 - [Students hold much more expert-like views about research experiments than about classroom experiments](large-personal-professional-epistemology-splits-e-class.md) — possibly the same claim (merge candidate)
 - [Upper-division lab students show more expert-like E-CLASS responses than algebra-based introductory students](upper-division-more-expert-like-e-class-responses.md) — related
+- [Research indicates typical physics lab courses do not reach desired learning goals](typical-lab-courses-do-not-reach-goals.md) — a broader claim this one bears on

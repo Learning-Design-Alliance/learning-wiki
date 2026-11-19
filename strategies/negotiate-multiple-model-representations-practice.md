@@ -50,6 +50,7 @@ The article recommends that instructors align models with their representations 
 ## Related Strategies
 
 - [Give students multiple opportunities to recognize, recall, and generate translations between representations using research-based learning tools](multiple-opportunities-generate-translation-representations.md)
+- [Embed graph problems in authentic life-science and engineering contexts to support perceived relevance](authentic-graph-problems-life-science.md)
 
 ## Examples
 -

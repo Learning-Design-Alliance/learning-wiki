@@ -39,7 +39,8 @@ Teams receive a grayscale astronomy photograph, a science-case goal (e.g., mappi
 - defining a problem and proposing a solution under constraints
 
 ## Related Strategies
-- 
+
+- [Design student software to reach a large fraction of expert output quality with a small fraction of the steps](student-software-quality-per-complexity-target.md)
 
 ## Examples
 -

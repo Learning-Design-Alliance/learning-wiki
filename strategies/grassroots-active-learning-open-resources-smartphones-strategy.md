@@ -53,6 +53,7 @@ A bottom-up implementation recipe in which instructors adopt open educational re
 - [Adapt DL2F to local context by aligning with the national curriculum, using authentic local materials, multilingual approaches, and pragmatic low-bandwidth technology integration](dl2f-philippine-contextual-adaptation-strategy.md)
 - [Tailor m-learning programmes to the cultural and economic realities of the local context](tailor-ml-programmes-cultural-economic-realities.md)
 - [Release the game free and editable so educators adapt categories, language and cultural context, with a mime mode extending inclusion to sign language](adapt-drawing-science-game-free-editable.md)
+- [Adopt blockchain for education in developing countries through a World Bank-style Community of Practice where ministries and organisations run pilots together](blockchain-education-cop-developing-countries-strategy.md)
 
 ## Examples
 -

@@ -87,3 +87,4 @@ Assessment study comparing pre-instruction LCTSR scores of non-science majors in
 - [The CURrENT pre-test (54.3%, N=298) is a meaningful indicator of incoming preparation, correlating with CUE post-test scores and prior GPA](current-pretest-indicates-preparation.md) — related
 - [Average Lawson scientific reasoning level of the local student population was significantly lower than reported for USA, China and India](lawson-reasoning-lower-than-cross-cultural-peers.md) — related
 - [Preinstruction scientific reasoning level is correlated with probability of passing introductory physics](reasoning-level-correlates-with-passing-intro-physics.md) — related
+- [Community college astronomy enrollments are predominantly non-STEM majors with substantial mathematics remediation need](astronomy-enrollment-profile-nonstem-majors-remediation.md) — related

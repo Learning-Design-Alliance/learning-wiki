@@ -53,3 +53,4 @@ Monte Carlo-tested indirect effects (20,000 repetitions) within the multilevel p
 - [Students' perceptions of teacher expectations negatively predict fixed mindset and test anxiety and positively predict self-efficacy and persistence in math](perceived-teacher-expectations-predict-student-outcomes.md) — related
 - [Parental expectations for their child's math success negatively predict students' fixed mindset and test anxiety and positively predict self-efficacy and achievement at the student level](parental-expectations-predict-math-mindset-motivation-achievement.md) — related
 - [Students' fixed mindsets in math positively predict test anxiety and negatively predict self-efficacy, persistence and achievement](student-fixed-mindset-predicts-math-motivation-outcomes.md) — related
+- [Students' belief in their ability to learn material is linked with success in learning it](self-belief-linked-to-learning-success.md) — related

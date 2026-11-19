@@ -57,3 +57,4 @@ Authors' interpretation in the discussion, not a tested result: the review sugge
 - [Physiotherapy students prefer a combination of online e-learning and lecture-style learning formats for chronic disease management](physiotherapy-students-prefer-blended-e-learning-lecture-formats.md) — related
 - [Students believe good physicians cannot be produced by formal education programs alone, attributing professional formation to role models and clinical practice](students-distrust-formal-professionalism-education.md) — related
 - [Interactive, participation-centered CPD formats are reported to be more effective for improving competence than didactic formats and practice guidelines](interactive-cpd-formats-more-effective.md) — related
+- [Compared to students in traditional lecture-based courses, HoS students changed in the opposite direction on all four attitude dimensions (significant group × time interactions)](hos-versus-lecture-opposite-attitude-change.md) — related

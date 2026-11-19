@@ -41,6 +41,7 @@ The authors recommend that CALL implementations become more innovative in their 
 - [Embed situated, context-triggered language learning activities in learners' everyday environments](situated-context-triggered-language-learning.md)
 - [Proactively use mobile devices as functional technology in the daily activities of people with intellectual disabilities across settings](proactively-use-ft-daily-activities-id.md)
 - [Provide reliable Internet/Wi-Fi and sufficient devices when implementing mobile learning](provide-internet-wifi-and-devices-mobile-learning-implementation.md)
+- [Design m-learning experiences as long-term studies targeting high-level skills and exploiting device mobility and context](long-term-mobile-learning-design-strategy.md)
 
 ## Examples
 -

@@ -69,3 +69,4 @@ Same survey on parenthood and study progress: '69% of women take a maternity lea
 - [Female Ph.D. students bear main responsibility for childcare and household chores far more often than male students, and no woman reported a spouse as main caregiver](childcare-chores-burden-female-phd-students.md) — possibly the same claim (merge candidate)
 - [Giving birth translates into a substantial delay in Ph.D. progress for mothers relative to male colleagues, reflected in parental-leave patterns](maternal-leave-phd-delay-gap.md) — related
 - [Parenthood affects the studying of most student-mothers and student-fathers, with women reporting more schedule flexibility and efficiency gains](parenthood-affects-phd-studying-gendered.md) — related
+- [Girls faced disadvantaged access when household phones were shared, and women shouldered a larger household-work burden than men during online teaching](gendered-device-access-and-household-burden.md) — related

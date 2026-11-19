@@ -47,3 +47,4 @@ Analysis of mentee interviews (Fig. 3) identified the four tool categories: "con
 ## Related Claims
 - [Regularly scheduled meetings were a productive norm in remote REU labs, with most mentees meeting their mentors more than once a week](remote-reu-meeting-frequency-norms.md) — related
 - [Working from home in remote REUs created digital distraction and blurred work-life boundaries, which some mentees managed by establishing designated workspaces](home-workspace-distraction-remote-research.md) — related
+- [Remote REU mentees had a hard time accessing the right technologies while working from home](remote-reu-technology-access-challenges.md) — related

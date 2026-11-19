@@ -49,3 +49,4 @@ Test-retest analysis in which faculty independently scored the same eye-tracking
 - [Expert judges rated the SAAAR behavioral marker scale's sufficiency, coherence, importance, and relevance at 3.10 on average, with clarity lower at 2.60](saaar-content-validity-expert-judgment.md) — related
 - [Interrater agreement on the SAAAR behavioral marker format was moderate and statistically significant (Kendall's W = 0.412)](saaar-moderate-interrater-agreement.md) — related
 - [The SAAAR behavioral marker format showed high internal consistency (McDonald's ω = 0.928)](saaar-high-internal-consistency.md) — related
+- [Five independent markers agreed closely with one another (73.0 ± 1.6, 72.6 ± 2.0, 69 ± 2, 70 ± 2, 70.6 ± 1.9), supporting marking validity](independent-marker-agreement-on-ai-essays.md) — related

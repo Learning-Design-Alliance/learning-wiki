@@ -84,3 +84,5 @@ Course evaluation survey using a researcher-designed five-point Likert scale adm
 - [Residents rated the EBM workshop very positively and reported perceived knowledge gains, but these perceptions were not associated with measured skill increases](workshop-satisfaction-not-linked-to-gains.md) — related
 - [Students rated pre-class videos as useful to their learning (mean 4.034 on a 5-point scale)](flipped-preclass-videos-perceived-useful.md) — related
 - [Participants report high satisfaction with the workshop, with all statement means above 4.5 except workload adequacy](quantum-workshop-high-satisfaction-ratings.md) — related
+- [Students rated educational workshops the most desired program development, above higher stipends](konkoly-survey-workshops-most-wanted.md) — related
+- [The learning-style database classroom-management application is rated very feasible on technical and content aspects in beta testing.](learning-style-dbms-app-very-feasible.md) — related

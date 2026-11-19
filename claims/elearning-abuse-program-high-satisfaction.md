@@ -57,3 +57,5 @@ Post-program satisfaction questionnaire (N = 71, five-point scale) covering desi
 - [Participant satisfaction with the short course was high, with all 36 participants willing to recommend it](high-satisfaction-low-cost-laparoscopic-course.md) — related
 - [After training, 85%–92% of nurses self-reported agreeing or strongly agreeing that the VR materials achieved their purpose and that they would recommend them](nurses-positive-responses-vr-materials-85-92-percent.md) — related
 - [After the course, 92% of participants said they would recommend it and 98% reported that the course would influence their practice](teolc-high-satisfaction-practice-influence.md) — related
+- [Participant feedback on ASP2022 was generally positive, with most participants satisfied and willing to recommend ASP to colleagues](asp2022-feedback-generally-positive.md) — related
+- [More than 91% of surveyed participants appreciated the online physics courses and would recommend them to a peer](kahoot-courses-91-percent-satisfaction-recommendation.md) — related

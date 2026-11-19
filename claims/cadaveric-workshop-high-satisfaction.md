@@ -58,3 +58,4 @@ Post-workshop satisfaction survey of the 109 participants using a 5-point Likert
 - [Participating veterinarians rated MI skills as highly relevant to their work and reported high satisfaction with the training programme](veterinarians-rate-mi-training-relevant-satisfying.md) — related
 - [Learners reported high satisfaction, rating the simulation 97% relevant, 97% effective, and 90% high quality](brown-bag-simulation-high-satisfaction.md) — related
 - [Intervention students reported very high satisfaction with the gamified program](high-satisfaction-gamified-program.md) — related
+- [Students rated educational workshops the most desired program development, above higher stipends](konkoly-survey-workshops-most-wanted.md) — related

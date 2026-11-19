@@ -49,3 +49,4 @@ Author's summary statement in the abstract announcing and validating two computa
 ## Related Claims
 - [Diffusion-based centralities elucidate information exchange and uptake in large-scale collaboration, validated against achievement and qualitative analysis, according to the editors' account of Saqr and López-Pernas's study](diffusion-centralities-role-taking-cscl.md) — related
 - [Bakhtinian professional conversations supported teacher educators' sensemaking of discomfort, fostering internally persuasive discourses toward SET data and 'discomfort chronotopes'](bakhtinian-reflexive-inquiry-sensemaking-discomfort.md) — related
+- [Information exchange (number of dialog turns) and context cohesion are correlated with group learning outcome](turns-and-cohesion-group-outcome.md) — related

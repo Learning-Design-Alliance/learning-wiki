@@ -49,3 +49,4 @@ Descriptive reach statistics for the Closer look from the South Pole game, repor
 - [Co-organizing outreach developed the PhD student's proposal writing, media, and social-media communication skills](outreach-personal-skill-development-phd-student.md) — related
 - [In 2016 the average DES EPO social media post reached about 2,500 users, with reach highly variable between posts (258 to 14,450 users)](des-epo-social-media-average-reach-2500-users.md) — related
 - [DES social media primarily reached users already predisposed to science; the article finds no evidence the products inspired new interest in science](des-social-media-reaches-science-predisposed-audiences.md) — related
+- [Students appreciated writing social-media posts and considered the activity useful for better understanding the topics covered in the project](gravitas-posts-appreciation-understanding.md) — related

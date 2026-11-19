@@ -56,4 +56,4 @@ An implementable classroom recipe across two 75-minute sessions: 'On the first d
 -
 
 ## Key Sources
-- Delgado, P., Luna, C. A., Dissanayaka, A., Oshinowo, O., Waggoner, J. J., Schley, S., Fernandez, T., & Myers, D. R. (2022). An economical in-class sticker microfluidic activity develops student expertise in microscale physics and device manufacturing. https://scholar.google.com/scholar?q=An+economical+in-class+sticker+microfluidic+activity
+- Delgado, P., Luna, C. A., Dissanayaka, A., Oshinowo, O., Waggoner, J. J., Schley, S., Fernandez, T., & Myers, D. R. (2022). An economical in-class sticker microfluidic activity develops student expertise in microscale physics and device manufacturing. https://scholar.google.com/scholar?q=An+economical+in-class+sticker+microfluidic+activity. [doi:10.48550/arxiv.2208.10368](https://doi.org/10.48550/arxiv.2208.10368)

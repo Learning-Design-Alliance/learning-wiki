@@ -50,3 +50,4 @@ Analysis of dominant incorrect answers in tables 4-6 identifies Impetus as the m
 - [Dominant incorrect answers correlate positively across attempts in every course, with the highest Pearson correlation r = 0.916 between first and third-or-more attempts in Phys. 3](positive-correlations-dominant-answers-across-attempts.md) — related
 - [Repeating a mechanics course does not change students' most frequent Newtonian-mechanics misconceptions: first-attempt and third-or-more-attempt students show similar dominant incorrect answers](course-repetition-no-change-fci-misconceptions.md) — related
 - [Modified Module Analysis identified 9 groups of incorrect FCI answers on the pretest and 11 on the post-test, in most cases mappable to common misconceptions](mma-identifies-incorrect-answer-groups.md) — related
+- [ChatGPT's FCI errors include impetus-type preconceptions shared with beginning physics students](chatgpt-impetus-preconception-errors.md) — related

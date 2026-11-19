@@ -84,3 +84,4 @@ Under Robotic Control, the review reports expert-novice contrasts: experts show 
 - [Both mental practice groups covered shorter instrument path length than the video-viewing control group](mp-groups-shorter-path-length-than-control.md) — a narrower finding that bears on this claim
 - [Experts complete transgastric NOTES cholecystectomy stages faster and with shorter endoscope path lengths than novices on NOViSE](novise-construct-validity-experts-novices-times-paths.md) — a narrower finding that bears on this claim
 - [Individualized instructor feedback during simulated laparoscopy shortens instrument path length in novices](feedback-shortens-laparoscopic-instrument-path.md) — a narrower finding that bears on this claim
+- [Experts dwell relatively longer on relevant parameters (well spacing, d = 0.87) and shorter on the irrelevant tilt parameter (d = 0.80) than novices in Task 2](expert-novice-gaze-relevant-irrelevant-areas.md) — related

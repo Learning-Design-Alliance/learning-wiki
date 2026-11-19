@@ -84,3 +84,4 @@ Quasi-experimental comparison of 222 students in introductory physics courses ta
 - [Introductory students show low post-instruction scores and small normalized gains after traditional lecture-based instruction](stpfasl-low-posttest-gains-traditional-instruction.md) — related
 - [Teacher's instruction yields about twice the normalized gain of peer instruction for a highly challenging pair of similar Lenz's law questions in the authors' protocol](ti-higher-normalized-gain-than-pi-similar-lenz-questions.md) — related
 - [Median normalized gains across repeatedly taught courses generally exceeded 0.25, with one course improving between its first and third implementation](longitudinal-median-gains-exceed-025-fig1.md) — related
+- [The GPT-3.5-to-GPT-4 score jump corresponds to a hypothetical normalized learning gain of g = 86.7%, more than twice the average effect of an interactive physics course](gpt4-hypothetical-normalized-gain-86-7.md) — related

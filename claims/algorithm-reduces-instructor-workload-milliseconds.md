@@ -49,3 +49,4 @@ Authors' report in the Results and Discussion section on the practical cost of m
 - [Manual assignment achieved the highest average student preference toward assigned projects, with the algorithm competitive and both substantially above random assignment](manual-assignment-highest-preference-satisfaction.md) — related
 - [LLM assistance shifts instructor effort from manual setup toward pedagogical expression](llm-assistance-shifts-effort-toward-pedagogical-expression.md) — related
 - [Former capstone students' team-formation priorities centered on interesting topics, preferred teammates, and skill or career alignment](student-team-formation-priorities-survey.md) — related
+- [Assigning students to research teams of four creates accountability and reduces the mentoring load in a physics CURE](teams-of-four-reduce-mentoring-load-cure.md) — related

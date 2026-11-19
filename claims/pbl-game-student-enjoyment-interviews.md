@@ -79,3 +79,4 @@ Qualitative interviews with experimental-group participants. Student C said "The
 - [Students evaluated the CPS experience positively, most appreciating group discussion and knowledge sharing](students-evaluate-cps-positively.md) — related
 - [Student-proposed course projects turn out to be the most successful projects](student-proposed-projects-most-successful.md) — related
 - [83% of students preferred simulation-driven classroom teaching over non-simulation-driven teaching](students-prefer-simulation-driven-teaching.md) — related
+- [Teachers of the involved classes reported student enjoyment and stated they would reuse the course materials and Kahoot! with their pupils](teachers-reuse-intent-kahoot-materials.md) — related

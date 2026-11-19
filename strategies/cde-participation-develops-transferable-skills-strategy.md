@@ -40,6 +40,7 @@ The article recommends that "Agriculture teachers should consider participation 
 ## Related Strategies
 
 - [Integrate the seven components of a math-enhanced lesson into agricultural teacher preparation as an instructional strategy for contextualized mathematics](integrate-seven-components-math-enhanced-lesson-teacher-prep.md)
+- [Educators should expose students to accurate depictions of physics careers and underemphasized skills such as interdisciplinary communication and computational problem-solving](accurate-career-depictions-career-decision-strategy.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Focus group thematic analysis; participants recalled feeling overwhelmed during 
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Undergraduate dental students perceive institutional structures such as organized learning weeks and skill practice opportunities as supporting agency, while limited access to resources and high-stakes grading create strain](pbl-institutional-support-strain-perceptions.md) — related
 - [Repeated clinical exposure reduces fear and develops professional self-efficacy in nursing students managing delirium](repeated-exposure-builds-delirium-self-efficacy.md) — related
+- [A reflective essay argues that working through initially overwhelming physics problems lets learners begin to develop confidence, within and beyond the physics classroom](physics-problems-build-confidence.md) — related

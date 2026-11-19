@@ -49,3 +49,4 @@ The article reports testing GAME on student programming exercises and assignment
 - [Automated assessment marks show very strong positive correlation with expert tutor marks on search algorithm exercises](automated-assessment-agrees-with-tutors-search-algorithms.md) — related
 - [Kappa agreement with human experts shows a system is neither much worse nor much better than experts, but not that experts are a desirable comparison basis](kappa-expert-agreement-limits.md) — related
 - [Peer marks and grades show acceptably high reliability with teachers' marks in most comparison studies, but a substantial minority report low reliability](peer-assessment-adequate-reliability-most-studies.md) — related
+- [Five independent markers agreed closely with one another (73.0 ± 1.6, 72.6 ± 2.0, 69 ± 2, 70 ± 2, 70.6 ± 1.9), supporting marking validity](independent-marker-agreement-on-ai-essays.md) — related

@@ -47,3 +47,5 @@ Qualitative analysis of Survey 1 open-ended responses found students described t
 
 ## Related Claims
 - [College students commonly misconstrue radio images of the Milky Way as depictions of sound rather than light](radio-image-sound-misconception.md) — related
+- [Most secondary students do not spontaneously conceive gases as able to emit or absorb infrared radiation](secondary-students-gases-not-emit-absorb-radiation.md) — related
+- [Students persist in interpreting infrared-camera images in terms of temperature despite initial clarification](students-interpret-ir-images-as-temperature.md) — related

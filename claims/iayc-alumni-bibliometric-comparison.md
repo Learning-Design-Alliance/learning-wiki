@@ -47,3 +47,4 @@ Bibliometric comparison using ADS data and Kamphuis & van der Kruit, comparing p
 ## Related Claims
 - [A majority of surveyed former IAYC participants report that the camp influenced their career choice in some way](iayc-survey-career-choice-influence.md) — related
 - [A cited longitudinal study found astronomy REU participation had relatively little impact on women's pursuit of astronomy, attributed to prior mentor relationships](reu-limited-long-term-impact-slater-2010.md) — related
+- [Program participants produced 77 articles including 18 first-author papers within five years](konkoly-program-77-student-articles.md) — related

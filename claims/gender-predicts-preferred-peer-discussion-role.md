@@ -50,3 +50,5 @@ Study I multinomial regression with model-averaged coefficients on self-reported
 - [Asian-American, underserved American, and international students are more likely than white American peers to prefer listening roles in peer discussions](race-nationality-predict-listener-preference.md) — related
 - [Cisgender men speak more during small-group or whole-class discussions, reinforcing perceptions of greater competence in STEM.](men-speak-more-discussions-competence-perceptions.md) — a broader claim this one bears on
 - [Female students reported more nervousness but higher gained-competence ratings than male students](gender-differences-nervousness-and-competence-gains.md) — related
+- [Women and men report different lab activity role preferences at semester start, with women preferring notes and managing and men preferring equipment and analysis](gendered-lab-role-preferences-survey.md) — related
+- [Men are more likely than women to report no preference for role distribution, and women more often prefer rotating leadership](gendered-role-distribution-leadership-preferences.md) — related

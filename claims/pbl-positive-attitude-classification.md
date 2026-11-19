@@ -51,3 +51,4 @@ ANOVA on Students' Attitude Questionnaire post-test results (F = 3.94, sig. 0.04
 - [Within the experimental group, POESPBEE produced significant gains in attitudes and behaviors that were maintained at follow-up, with large within-group effect sizes](poespbee-within-group-gains-maintained-followup.md) — related
 - [Experimental-group students showed a significant increase in attitude towards mathematics from pre-test to post-test after multimedia instruction](experimental-group-significant-attitude-gain.md) — related
 - [No significant difference between attitude and motivation scores of the respondents towards learning physics](no-significant-difference-attitude-versus-motivation-guido.md) — related
+- [Questionnaire results show an overall good influence on students' attitudes toward physics, philosophy, and science communication, with higher means in physics](gravitas-positive-attitude-influence.md) — related

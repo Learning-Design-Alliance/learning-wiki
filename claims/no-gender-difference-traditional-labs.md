@@ -81,3 +81,5 @@ Same observational cluster analysis of student behavior profiles, comparing clus
 - [Removing pedagogical structure in labs opened a wider range of available roles, with only 14% of inquiry-lab groups having all members in the same cluster versus 43% in traditional labs](reduced-structure-wider-roles.md) — related
 - [In mixed-gender inquiry-lab groups, women spent about twice as much time as men analyzing data on laptops (14±7% vs 6±3% of the lab period)](women-twice-laptop-analysis-time.md) — related
 - [Whether lab groups share or divide tasks does not seem to depend on single- versus mixed-gender composition](lab-task-sharing-independent-of-group-composition.md) — related
+- [No statistically significant gendered difference in laptop, calculator, and paper use was found in either lab course, and partner agreements showed no significant effect on these activities](no-gender-difference-notekeeping-activities.md) — related
+- [Partner agreements increased women's and decreased men's equipment group fraction in Physics I Lab, with no statistically significant effect in Physics II Lab](partner-agreements-equipment-equity-effect.md) — related

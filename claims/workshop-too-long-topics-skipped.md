@@ -67,3 +67,4 @@ Both presenters independently decided to skip the configuration model in every s
 - [Small workshop groups were manageable but would have worked better with more presenters per group](more-presenters-per-group-better.md) — related
 - [Most workshop topics were well received and attracted the students' attention](most-topics-well-received.md) — related
 - [The first part of the outreach talk was too long for the youngest students, and a shortened version worked better](shortened-lecture-worked-better-youngest.md) — related
+- [The broadness of subjects taught at ASP2022 made it difficult for some participants to digest lecture materials](asp2022-broad-subjects-difficult-to-digest.md) — related

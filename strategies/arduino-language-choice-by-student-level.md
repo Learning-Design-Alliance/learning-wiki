@@ -41,7 +41,8 @@ The article recommends matching the Arduino programming language to students' le
 - [Effect sizes of Arduino-based education are statistically larger for textual than for visual programming language](../claims/arduino-effect-textual-language-larger.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Use DSAScratch as an intermediate block-based means of teaching advanced CS curricula in K-12 before students move to textual languages](dsascratch-intermediate-block-based-advanced-cs.md)
 
 ## Examples
 -

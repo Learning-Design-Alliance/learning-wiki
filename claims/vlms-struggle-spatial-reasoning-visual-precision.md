@@ -75,3 +75,4 @@ Same manual failure analysis on DSReal: models can often replicate the intended 
 - [Fine-tuning on clean synthetic data yields limited gains on hand-drawn tasks, indicating limited robustness to out-of-distribution hand-drawn inputs](fine-tuning-limited-gains-hand-drawn-tasks.md) — related
 - [Generative AI excels at processing digital text but struggles with interpreting text from images](genai-visual-comprehension-gap-images.md) — related
 - [Students shifted from canonical representations toward invented, visually communicative models of acceleration, using co-variation of turtle variables such as pen-width with step-size](invented-communicative-models-covariation.md) — related
+- [GPT-3.5 struggled specifically with FCI problems requiring reasoning about directions and spatial relationships](gpt35-spatial-directional-reasoning-errors.md) — a narrower finding that bears on this claim

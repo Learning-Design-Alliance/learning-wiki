@@ -53,3 +53,4 @@ Multiple regression of standardized OverallMark on the 22 background variables w
 - [Total UKCAT score correlates significantly but weakly with first-year medical school performance](ukcat-total-weakly-correlates-with-outcome.md) — related
 - [Having attended a fee-paying school independently predicts passing MRCS Part B at the first attempt (OR 1.51)](fee-paying-school-independent-predictor-mrcs-part-b.md) — related
 - [A clear attainment gap by ethnic background and qualification region exists in both groups of doctors](ethnic-qualification-region-attainment-gap.md) — related
+- [The authors interpret introductory community college astronomy as a potential equalizer for students of different ethnic and socioeconomic backgrounds](astronomy-equalizer-stem-access-interpretation.md) — reports the opposite

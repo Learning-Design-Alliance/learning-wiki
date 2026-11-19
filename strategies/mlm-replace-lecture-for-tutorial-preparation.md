@@ -46,6 +46,7 @@ The article recommends using on-line MLMs as a replacement for the lecture in an
 
 - [Flip the classroom by assigning pre-recorded multimedia lectures rather than textbook readings as the pre-class material](assign-multimedia-prelectures-when-flipping.md)
 - [Use flipped classroom with pre-reading multimedia materials and in-class team-based article appraisal practice for EBN training](flipped-classroom-multimedia-prereading-team-appraisal.md)
+- [Two-lecture preparation module teaching linear algebra, linear systems, and radiometry before the color science tutorials](two-lecture-math-physics-preparation.md)
 
 ## Examples
 -

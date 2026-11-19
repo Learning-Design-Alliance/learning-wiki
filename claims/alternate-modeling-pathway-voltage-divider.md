@@ -47,3 +47,4 @@ Notebook coding of the voltage divider activity found that despite high scaffold
 ## Related Claims
 - [Students' documented modeling completeness varied across three lab activities with differing degrees of scaffolding, with more scaffolded activities resulting in more thorough engagement with the modeling process](scaffolding-levels-affect-documented-modeling-completeness.md) — related
 - [Explicit prompting in lab guides increases the likelihood that students identify discrepancies between measurement and model in a voltage-divider experiment](explicit-prompting-increases-discrepancy-identification.md) — related
+- [Students accepted the openBIS electronic lab notebook immediately and used it exclusively during the electronics practicum, even though its use was voluntary in the pilot phase.](eln-immediately-accepted-by-physics-students.md) — related

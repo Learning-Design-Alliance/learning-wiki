@@ -47,3 +47,5 @@ Interview analysis of mentees' home working conditions found distraction from si
 ## Related Claims
 - [Mentees in remote REUs used four main categories of mediating tools: home lab environments, research tools, professional development resources, and communication tools](four-tool-categories-remote-reu.md) — related
 - [Mentees appreciated the remote REU format for flexibility and developing as independent learners](remote-format-independence-benefits.md) — related
+- [Working from home introduced motivational challenges in remote REU programs](remote-reu-motivational-challenges.md) — related
+- [Theorists caution students about blurred work-life boundaries, infrequent breakthroughs, and limited research opportunities in popular theory areas](theory-career-cautions-work-life-funding.md) — related

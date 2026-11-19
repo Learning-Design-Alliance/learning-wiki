@@ -42,6 +42,7 @@ The article recommends structuring learning-theory principles as observable peda
 ## Related Strategies
 
 - [Allocate human and AI effort by dimension type: automate explicit-criteria dimensions, retain human review for pedagogical judgment](human-ai-division-of-labor-mcq-generation.md)
+- [Use the framework in four ways: develop new tasks, characterize existing tasks, gain an overview of design principles, and support school-level teaching](framework-four-use-cases.md)
 
 ## Examples
 - [Secant-to-tangent transition applet](../designs/secant-tangent-transition-applet-example.md) — a derivative applet characterised by concept, prior knowledge, representation and level of conceptual construction

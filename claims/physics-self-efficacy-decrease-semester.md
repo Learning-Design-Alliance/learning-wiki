@@ -53,3 +53,4 @@ Repeated administration of the Marshman et al. six-question Likert self-efficacy
 - [Women showed larger normalized gains than men on the calculus transfer questions despite lower self-efficacy](women-larger-calculus-transfer-gains.md) — related
 - [Students' physics interest and general science interest both decrease significantly over a semester of Modeling Instruction](mi-course-interest-decreases.md) — related
 - [Students' physics self-efficacy decreases significantly over a semester of Modeling Instruction introductory physics](mi-course-physics-self-efficacy-decrease.md) — reports the opposite
+- [Female students in calculus-based laboratory sections showed significant positive self-efficacy change, while algebra-based females were the only group with negative normalized change](female-calculus-based-significant-gains.md) — reports the opposite

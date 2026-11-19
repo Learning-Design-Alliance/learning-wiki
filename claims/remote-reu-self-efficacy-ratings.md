@@ -68,3 +68,5 @@ Helen's self-report in the longitudinal remote REU interview study about gaining
 - [Remote REU mentees reported higher-level sense of belonging by the end of the program than at the beginning of the summer](remote-reu-mentees-belonging-growth.md) — related
 - [Mentees' physics and researcher identity shifted from low-level to higher-level over the remote REU program](remote-reu-identity-growth.md) — related
 - [Remote REU mentees reported the experience was highly beneficial and the remote format did not open a gap between their objectives and outcomes](remote-reu-mentees-reported-highly-beneficial-outcomes.md) — related
+- [Almost every remote REU mentee described achieving their goals and most intended to apply to graduate programs](remote-reu-goal-attainment-graduate-school-intentions.md) — related
+- [Remote REU mentees reported growth in psychosocial attributes including sense of belonging, self-efficacy, and physics identity](remote-reu-psychosocial-growth.md) — a broader claim this one bears on

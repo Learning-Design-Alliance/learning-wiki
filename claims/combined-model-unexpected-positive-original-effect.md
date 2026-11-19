@@ -53,3 +53,4 @@ Combined SEM with both measures as predictors of each outcome in the 1537-studen
 - [The ULTrA fixed factor predicts more variance in every studied outcome than the original mindset measure, and adds variance explained above and beyond it](ultra-predicts-more-variance-all-outcomes.md) — related
 - [In science and math undergraduates, the ULTrA fixed-mindset factor correlates significantly with all studied outcomes while the original 3-item mindset measure correlates only with psychosocial outcomes](ultra-fixed-correlates-all-outcomes-original-only-psychosocial.md) — related
 - [The original mindset measure and the ULTrA fixed factor are related but not redundant measures of fixed mindset (r = 0.48)](original-measure-ultra-related-not-redundant.md) — related
+- [Intelligence mindset and average Kahoot! performance became more strongly related at the end of the semester than at the beginning](mindset-kahoot-performance-post-survey-link.md) — related

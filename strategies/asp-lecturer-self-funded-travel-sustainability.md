@@ -43,6 +43,7 @@ A sustainability strategy the article attributes to ASP: "the dedication of the 
 ## Related Strategies
 
 - [Organize a policy forum during the school to engage African policymakers on capacity development and retention](asp-capacity-development-forum-strategy.md)
+- [Organize intensive physics schools in a hybrid format to increase participation when resources and logistics prevent full in-person attendance](hybrid-format-increase-participation-strategy.md)
 
 ## Examples
 -

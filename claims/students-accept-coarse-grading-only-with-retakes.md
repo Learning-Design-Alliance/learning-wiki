@@ -48,3 +48,4 @@ Anonymous post-course survey using a 5-point Likert scale on two statements abou
 - [Quiz retakes and low-stakes assessments increased students' sense of autonomy over grade outcomes and study decisions](quiz-retakes-increase-autonomy.md) — related
 - [In-class quiz retakes improved undergraduate students' perceptions of their competence in STEM course material](quiz-retakes-improve-perceived-competence.md) — related
 - [Alternative grading practices with retakes strengthened students' feelings of relatedness to instructors, while rigid traditional grading harmed them](quiz-retakes-increase-relatedness.md) — related
+- [Offering optional retake exams eliminated the gender gap in course grades in introductory physics for biological science students](retake-exams-eliminate-gender-grade-gap.md) — related

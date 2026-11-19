@@ -47,3 +47,4 @@ Results for item 11 of the first electromagnetism-course assessment, summarized 
 
 ## Related Claims
 - [In a mechanics item, traditional multiple-choice scoring showed 75% correct answers while the enriched three-tier spectrum showed only 39% ideal responses (category 9).](three-tier-spectrum-reveals-fewer-ideal-responses-than-mcq.md) — related
+- [After the ILS implementation, all five questionnaire items moved to higher Bao concentration-score zones, with students shifting from random answering to the correct model](bao-vectors-postest-higher-comprehension-zones.md) — related

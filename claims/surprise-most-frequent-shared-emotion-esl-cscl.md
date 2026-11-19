@@ -54,3 +54,4 @@ FER output aligned across group members showed surprise was the most shared emot
 - [Participants' emotional trajectories shifted progressively from predominantly positive emotions in primary PE to more negative, intense and frequent emotions in secondary PE](negative-emotional-shift-cpe-to-cse.md) — related
 - [Students reported that the greatest difficulty lay in working in groups, while the most frequently shared feeling was enjoyment](student-difficulty-groupwork-enjoyment.md) — related
 - [Students were surprised at how physics and dance came together and valued the plushies, collaboration, and final end product](student-feedback-physics-dance-connection.md) — related
+- [Qualitative observation: app users expressed more frequent and intense emotions during graph matching, while students in both conditions were highly collaborative and on task](app-use-more-intense-emotions-collaboration-both-groups.md) — related

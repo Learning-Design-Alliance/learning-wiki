@@ -52,3 +52,4 @@ Students' feedback questionnaire administered to both experimental groups after 
 - [Teachers and pupils reported positive experiences of the Saturday programme, including improved social skills, relationships and confidence](shine-secondaries-process-evaluation-positive-perceptions.md) — related
 - [Teachers report high satisfaction and willingness to recommend We Have Skills!](whs-high-social-validity-satisfaction.md) — related
 - [Songs and practice opportunities may support skill retention and peer bonding](whs-songs-practice-retention-bonding.md) — related
+- [Teachers of the involved classes reported student enjoyment and stated they would reuse the course materials and Kahoot! with their pupils](teachers-reuse-intent-kahoot-materials.md) — related

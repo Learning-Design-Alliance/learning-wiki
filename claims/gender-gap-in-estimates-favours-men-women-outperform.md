@@ -51,3 +51,4 @@ Gender comparison of estimated and actual scores in the cross-sectional study of
 - [Pre-exam anxiety did not correlate with OSCE score, and women reported higher pre-exam anxiety than men](pre-exam-anxiety-no-score-link-gender-difference.md) — related
 - [Only about a third of students correctly estimated their OSCE performance, and self-assessment correlated only weakly with actual score (r=0.26)](self-assessment-overestimation-osce-r-026.md) — related
 - [Gender-stratified analyses showed only marginal differences: women reported slightly higher significant learning progress only on confidence in approaching new patients (0.8 vs 0.5, p=.032)](gender-differences-marginal-communication-gains.md) — related
+- [Men's overestimation of women's representation predicts lower support for gender equality initiatives](overestimation-predicts-lower-equality-support.md) — related

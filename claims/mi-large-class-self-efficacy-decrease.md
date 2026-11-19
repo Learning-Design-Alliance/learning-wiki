@@ -71,3 +71,4 @@ The article reports the 3.79% average drop masks wide individual variation: "stu
 - [Average E-CLASS self-efficacy score decreased from 0.86 to 0.77 over the course](self-efficacy-e-class-decrease-086-077.md) — related
 - [Vicarious learning shows no significant self-efficacy shift for she-identifying students at the item level](vicarious-learning-no-significant-shift-she-students.md) — related
 - [Students' physics self-efficacy decreases significantly over a semester of Modeling Instruction introductory physics](mi-course-physics-self-efficacy-decrease.md) — possibly the same claim (merge candidate)
+- [The class showed positive but not statistically significant self-efficacy change over the semester (normalized change 0.09, Cohen's d = 0.27)](class-positive-nonsignificant-change-0-09.md) — related

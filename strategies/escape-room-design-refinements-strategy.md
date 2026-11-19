@@ -47,6 +47,7 @@ Based on pilot findings, the authors recommend design refinements for digital es
 
 - [Apply GAP data in educational game design through difficulty tuning, hints, and feedback](apply-gap-data-tuning-hints-feedback.md)
 - [Incorporate game elements such as rewards, adaptive difficulty, immersive environments, and clear feedback into digital interventions for ADHD](game-elements-strategy-adhd-digital-interventions.md)
+- [Provide more direct instructions and adapt game difficulty and content to the setting and audience](setting-specific-game-instructions-and-difficulty.md)
 
 ## Examples
 -

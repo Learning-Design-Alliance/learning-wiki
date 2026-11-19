@@ -50,3 +50,4 @@ Logistic regression on FCI pre/post data comparing the ideas-first section with 
 - [Final-exam benefit of ideas-first sequencing was concentrated above the lowest FCI pretest tertile](treatment-effect-absent-lowest-fci-tertile.md) — related
 - [Introducing physics ideas largely qualitatively for the first six weeks before four weeks of computationally complicated practice raised final-exam scores over a control section organized topic-by-topic](qualitative-first-organization-higher-final-exam-scores.md) — related
 - [Traditional curriculum students outperformed M&I students on every FCI concept category.](traditional-outperforms-mi-all-fci-concepts.md) — related
+- [Students with the lowest pretest scores (0-2) showed larger improvement in the RL narrative condition than control in both studies, significant in study 2 only before multiple-hypothesis correction](rl-tutor-benefits-low-pretest-students.md) — related

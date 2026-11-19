@@ -46,7 +46,8 @@ Based on Sam's case, the authors recommend that future reforms "should leverage 
 - [A peer network, especially an engineering friend, supported a life-science student in making physics connections in social and everyday settings](../claims/peer-network-supports-everyday-physics-connections.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Anchor physics teaching in everyday-life contexts, using newspaper and advertisement story problems](everyday-context-story-problems.md)
 
 ## Examples
 -

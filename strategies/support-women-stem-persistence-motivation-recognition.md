@@ -48,6 +48,7 @@ The article recommends that instructors support persistence of all students, esp
 
 - [Addressing Stereotype Threat](addressing_stereotype_threat.md)
 - [Instructor practices to support women in physics: prevent isolation, recognize students, monitor social dynamics, and advocate for smaller classes and affinity groups](instructor-practices-support-women-physics-courses.md)
+- [Foster positive recognition of physics students throughout the curriculum, especially during year 1 and year 4 transition periods](positive-recognition-throughout-curriculum-strategy.md)
 
 ## Examples
 -

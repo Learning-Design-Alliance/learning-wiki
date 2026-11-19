@@ -49,3 +49,4 @@ Repeated measures ANOVA (4×5) with option category (correct, most popular, popu
 
 ## Related Claims
 - [Incorrect responses are associated with longer visit durations on incorrect options and less time on correct options, with a large interaction effect](accuracy-option-type-interaction-attention.md) — related
+- [After implementation, students still selected the incorrect-popular model and the distractor on questions 2–5 in percentages above 30% and 15% respectively, reflecting weak algebraic and physical prerequisites](residual-incorrect-model-distractor-selection-postest.md) — related

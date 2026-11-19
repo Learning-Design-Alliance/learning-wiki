@@ -52,3 +52,4 @@ Cross-tabulation of correct self-assessment, over- and underestimation by gender
 - [Bounded data (scale limits) naturally lead to overestimation by lower performers and underestimation by higher performers, a statistical constraint on interpreting the Dunning-Kruger effect](bounded-data-scale-limits-over-underestimation.md) — related
 - [Female participants reported worse self-assessments than male participants, and self-assessment–score consistency differed by sex only at one time point](gender-self-assessment-inconsistency.md) — related
 - [Self-assessment is often inaccurate: high performers underestimate and lower performers overestimate their performance](self-assessment-inaccuracy-high-low-performers.md) — related
+- [Men's overestimation of women's representation predicts lower support for gender equality initiatives](overestimation-predicts-lower-equality-support.md) — related

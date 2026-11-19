@@ -32,4 +32,4 @@ A publicly available online ecological modeling tool hosted through the Smithson
 
 ## Key Sources
 - Sungeun An, Jennifer Hammock, Ashok Goel. (2025). How Online Learners Engage in Self-Directed Modeling: A Behavioral Analysis. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-025-00506-5
-- An, S., Bates, R., Rugaber, S., Hammock, J., Weigel, E., & Goel, A. K. (2022). Cognitive Assistance for Inquiry-Based Modeling. arXiv preprint. https://arxiv.org/abs/2209.02576
+- An, S., Bates, R., Rugaber, S., Hammock, J., Weigel, E., & Goel, A. K. (2022). Cognitive Assistance for Inquiry-Based Modeling. arXiv preprint. https://arxiv.org/abs/2209.02576. [doi:10.48550/arxiv.2209.02576](https://doi.org/10.48550/arxiv.2209.02576)

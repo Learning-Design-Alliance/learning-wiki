@@ -93,3 +93,4 @@ Third item of the same questionnaire; 78.03% (f=32) answered Yes. The article co
 - [Most students reported benefiting from the strategy and recommended it for future cohorts](students-report-benefit-and-recommend-strategy.md) — related
 - [Students hold mixed views on whether the project's high degree of freedom facilitates failures such as lack of responsibility](survey-freedom-risk-mixed-perception.md) — related
 - [Student-proposed course projects turn out to be the most successful projects](student-proposed-projects-most-successful.md) — related
+- [Pre-service primary teachers rated the online oriented-globe lesson very positively and almost all planned to replicate the activities in school](pre-service-teachers-positive-evaluation-oriented-globe-lesson.md) — related

@@ -50,3 +50,4 @@ Pretest comparison in the quasi-experiment (experimental n = 52, control n = 42)
 - [Before the intervention, the control and experimental groups were statistically equivalent in geometric thinking](vhpi-groups-equivalent-at-pretest.md) — related
 - [Origami instruction yields statistically significant posttest differences in spatial orientation relative to conventional instruction](origami-spatial-orientation-significant-gain.md) — related
 - [Origami instruction shows no statistically significant posttest advantage over conventional instruction in spatial visualization, despite descriptive gains](origami-spatial-visualization-null-result.md) — related
+- [AR and non-AR groups had equivalent spatial visualization skills before the workshops (PVRT pre-test, p = 0.8)](pvrt-pretest-groups-equivalent-baseline.md) — a narrower finding that bears on this claim

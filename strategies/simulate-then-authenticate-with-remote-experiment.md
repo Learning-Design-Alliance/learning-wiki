@@ -51,6 +51,7 @@ The website operationalizes a learning sequence in which students first read on-
 - Openfoam Optical Image Simulation Portal
 - Remote Mach Zehnder Interferometer Website Portal
 - [Frontload experimentation and data analysis with real or virtual optical experiments before introducing mathematical formalism](experiments-before-mathematics-quantum-course-strategy.md)
+- [Quantum hardware exploration assignments balancing authentic device access with simulator substitutes](quantum-hardware-exploration-assignments-strategy.md)
 
 ## Examples
 -

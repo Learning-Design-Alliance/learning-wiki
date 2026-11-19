@@ -1,0 +1,51 @@
+---
+type: claim
+title: Group (AR vs non-AR) had no significant impact on math post-test scores when pre-test was the covariate
+description: Group (AR vs non-AR) had no significant impact on math post-test scores when pre-test was the covariate
+id: ancova-group-no-significant-impact-math-posttest
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-19
+evidence_strength: moderate
+newest_evidence: 2022
+sources:
+  - id: zohreh-shaghaghian-2022
+    resource: "https://doi.org/10.48550/arXiv.2212.00110"
+    title: "Zohreh Shaghaghian, Heather Burte, Dezhen Song, and Wei Yan. (2022). An Augmented Reality Application and User Study for Understanding and Learning Spatial Transformation Matrices. [doi:10.48550/arXiv.2212.00110](https://doi.org/10.48550/arXiv.2212.00110)"
+    author: Zohreh Shaghaghian, Heather Burte, Dezhen Song, and Wei Yan
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
+---
+
+# Group (AR vs non-AR) had no significant impact on math post-test scores when pre-test was the covariate
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` ANCOVA on math post-test with pre-test as covariate found pre-test significantly correlated with post-test (p < 0.001) but group (AR vs non-AR) not significant (p = 0.46). [→ Zohreh Shaghaghian 2022](#zohreh-shaghaghian-2022)
+
+## Evidence
+
+### Zohreh Shaghaghian 2022
+
+Zohreh Shaghaghian, Heather Burte, Dezhen Song, and Wei Yan. (2022). An Augmented Reality Application and User Study for Understanding and Learning Spatial Transformation Matrices. [doi:10.48550/arXiv.2212.00110](https://doi.org/10.48550/arXiv.2212.00110)
+
+`q2 · i?` · `causal · r1`
+
+ANCOVA on math post-test scores with group as independent variable and pre-test as covariate in the AR vs non-AR user study. The model had an adjusted R-squared of 0.4026. Equivalence between groups was not tested.
+
+> "the math pre -test is significantly correlated with the math post-test (p < 0.001); however, group (AR vs. non -AR) does not have a significant impact (p = 0.46) on the post-test scores considering the pre-test as the covariate"
+
+## Discussion
+
+
+## Related Claims
+- [Pretest scores significantly predicted posttest scores, supporting the pretest as an ANCOVA covariate in this study](pretest-covariate-significant-ancova-games-study.md) — related
+- [Objective learning gains did not differ significantly by condition in the primary ANCOVA, but KBD showed a significant positive effect on learning gains in exploratory regressions accounting for learner covariates](kbd-objective-learning-gains-ancova-null-exploratory-positive.md) — related
+- [Neither group, field of study, nor gender significantly predicted math post-test scores in the extended ANCOVA model](ancova-field-gender-no-significant-impact.md) — related
+- [Students' math scores on transformation matrices rose significantly from pre-test to post-test within both AR and non-AR workshop groups, with a larger observed rise in the AR group](brickxart-math-scores-improve-both-workshops.md) — related

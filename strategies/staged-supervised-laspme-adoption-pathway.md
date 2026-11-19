@@ -60,6 +60,7 @@ In the discussion the authors recommend how surgeons learning this procedure sho
 - [Use progressive, structured EVH training with gradual introduction of case complexity and vein length to reduce learner stress and vein damage](progressive-structured-evh-training-strategy.md)
 - [Develop novice patient educators through observation of experienced educators, experiential training (roleplay and rehearsal), and supervised practice with constructive critical reflection](observation-experiential-training-supervised-practice-strategy.md)
 - [Simulator-based self-practice pathway for laser-naive surgeons adopting a new enucleation technique](simulator-self-practice-new-surgical-technique-pathway.md)
+- [Staged sequence for student participation in professional observing: bibliography study, remote attendance at a training observing run, then conducting observations themselves under supervision](staged-professional-observing-sequence-strategy.md)
 
 ## Examples
 -

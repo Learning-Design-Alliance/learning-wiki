@@ -47,3 +47,4 @@ Descriptive statistics of Likert-scale items from the ASSA instrument administer
 ## Related Claims
 - [Journal writing was associated with a significant positive change in experimental students' attitudes toward science, while control students' attitudes did not change](journal-writing-wtl-positive-science-attitude-change.md) — related
 - [Pre/post survey showed only a small, non-significant positive change in students' views of science](small-nonsignificant-tssi-change-inclusive-astronomy.md) — related
+- [Pre-to-post change in engineering attitudes was not statistically significant in the pilot workshop](no-significant-prepost-attitude-change-pilot.md) — related

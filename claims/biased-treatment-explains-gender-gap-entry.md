@@ -59,3 +59,5 @@ The review reports, citing Hannak, Joseph, Larremore, and Cimpian (2023), an ana
 - [Sociocultural factors including stereotype threat, teacher interactions, and parental perceptions are discussed as likely sources of later-emerging gender differences in math](sociocultural-sources-of-gender-differences-in-math.md) — related
 - [Preservice teachers' FABs decline over four years of university teacher education in five of six subject groups](fab-decline-over-teacher-education.md) — related
 - [Gender predicts initial FAB levels but is unrelated to change over time; prior achievement predicts neither](gender-predicts-initial-fab-not-change.md) — related
+- [Beliefs that physics requires innate brilliance help explain the lack of women in physics](brilliance-beliefs-explain-women-underrepresentation.md) — related
+- [Minorities in brilliance-oriented disciplines experience higher levels of imposterism with negative career consequences](imposterism-in-brilliance-disciplines.md) — related

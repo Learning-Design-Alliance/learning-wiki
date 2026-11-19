@@ -52,3 +52,5 @@ Authors' experiential finding from the 13-week online course, concerning the pla
 - [Group work and discussion in the flipped classroom provided immediate feedback and supported shy students' participation, per the authors' observations](group-work-immediate-feedback-shy-students.md) — related
 - [Students strongly preferred anonymous clicker polling and valued it as a positive break, with over 80% agreement on the first three Likert statements](clicker-anonymity-and-break-likert-results.md) — related
 - [Two of three high-attendance, medium-achievement students would not ask the tutor for help because they were shy](hm-group-shyness-avoided-tutor-help.md) — related
+- [Anonymity in online classes allowed shy students, usually female, to interact more](online-anonymity-enabled-shy-female-students.md) — related
+- [Teacher-mediated interaction in the online laboratory did not encourage constant active student participation, with students fearing teacher judgement](teacher-mediated-interaction-limited-participation.md) — related

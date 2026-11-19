@@ -37,7 +37,8 @@ A forward-looking recommendation from the authors for follow-up experiments with
 - exploring distance dependence of magnetic fields for different source geometries
 
 ## Related Strategies
-- 
+
+- [Extend uncertainty learning to everyday contexts with fluctuation-based challenges and magnetometer experiments](everyday-fluctuation-challenges-extensions.md)
 
 ## Examples
 -

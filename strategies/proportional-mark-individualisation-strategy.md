@@ -53,6 +53,7 @@ A concrete marking recipe: after each team assessment task, every team member ra
 ## Related Strategies
 
 - [Mark assessments with visible symbols, identity checks, and integer scores](ta-marking-assessment-symbols-strategy.md)
+- [Use matrix grading on team assignments to penalize free-riding and reward carrying the team](matrix-grading-team-assignments.md)
 
 ## Examples
 -

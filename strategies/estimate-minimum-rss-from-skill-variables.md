@@ -44,6 +44,7 @@ The paper's proposed approach: rather than finding the parameter values that pro
 ## Related Strategies
 
 - [Match the input-parameter estimation method (managerial estimates vs. time study) to the accuracy the simulation purpose requires](match-input-estimation-method-to-required-accuracy.md)
+- [Grid-pattern iterative search over position and two rotation axes to locate the absolute maximum magnetometer signal](grid-pattern-search-maximize-magnetometer-signal.md)
 
 ## Examples
 -

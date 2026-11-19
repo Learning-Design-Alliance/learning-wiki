@@ -141,3 +141,5 @@ This review addresses the "representation dilemma": students often must learn un
 - [Students displayed cognitive computational literacy practices: modeling, visualization of abstract phenomena, and repeated simulation runs across parameter values](students-cognitive-computational-literacy-practices-visualization-iteration.md) — related
 - [The Doppler shift Student Representation Task sequences representation creation to confront known reasoning difficulties, culminating in QCR = 4 graphing](doppler-shift-srt-confronts-difficulties.md) — a narrower finding that bears on this claim
 - [Students self-reported increased conceptual understanding of the physical systems they modeled, including mechanisms, vector-field intuition, and physically reasonable magnitudes](self-reported-conceptual-gains-from-essays.md) — related
+- [Using graphs effectively in physics requires four general skills](four-skills-graphs-physics.md) — related
+- [Tasks cuing students to engage with multiple representations facilitate generation and connection of ideas and establishing coherence between them](multiple-representations-facilitate-idea-generation-and-coherence.md) — related

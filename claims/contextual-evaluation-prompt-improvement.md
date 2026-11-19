@@ -52,3 +52,4 @@ Modeling phase design iteration: after reference-based prompts underperformed, a
 - [Zero-shot LLM errors follow four recurring patterns: over-interpretation, failure to detect relevant information, hallucination, and failure to generate a response](llm-competency-error-patterns-four-types.md) — related
 - [ChatGPT feedback required doctoral students to validate the procedural accuracy of algorithm-generated outputs, with judgement shaped by prompt quality](chatgpt-feedback-requires-output-validation.md) — related
 - [Domain-specific knowledge, rather than model complexity or general abilities, limits the precision of LLM criterion-based grading](domain-specific-knowledge-limits-llm-grading-precision.md) — related
+- [Davinci-003 API can generate questions of varying difficulty and evaluate student answers from instructions and context](davinci-003-generates-graded-questions-and-evaluates-answers.md) — related

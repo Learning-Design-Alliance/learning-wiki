@@ -69,3 +69,5 @@ Joshua's final-interview quote from the identity analysis; the authors note grow
 - [Remote mentoring of young females in STEM was reported to build mentees' skills, confidence, scientific visibility, and career awareness, with a minority reporting discontent](magic-remote-mentoring-impact-on-mentees.md) — related
 - [Remote REU mentees reported higher-level sense of belonging by the end of the program than at the beginning of the summer](remote-reu-mentees-belonging-growth.md) — related
 - [Seven of ten mentees rated project self-efficacy 8-10 by interview six, and mentees reported further self-efficacy improvements by interview nine](remote-reu-self-efficacy-ratings.md) — related
+- [Almost every remote REU mentee described achieving their goals and most intended to apply to graduate programs](remote-reu-goal-attainment-graduate-school-intentions.md) — related
+- [Remote REU mentees reported growth in psychosocial attributes including sense of belonging, self-efficacy, and physics identity](remote-reu-psychosocial-growth.md) — a broader claim this one bears on

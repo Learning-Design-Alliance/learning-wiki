@@ -13,7 +13,7 @@ generated:
 # Statistical Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 70 claims (48 show a difference, 18 mixed, 4 no difference) · 42 studies (22 causal, 5 qualitative, 5 design, 4 theoretical, 3 review, 2 associational, 1 quant-synthesis), `q1`–`q3` · 4 of 42 report an effect size · 70 claims rest on one study
+> **Evidence** · 71 claims (49 show a difference, 18 mixed, 4 no difference) · 43 studies (22 causal, 6 design, 5 qualitative, 4 theoretical, 3 review, 2 associational, 1 quant-synthesis), `q1`–`q3` · 4 of 43 report an effect size · 71 claims rest on one study
 
 ## Description
 Statistical reasoning is thinking about uncertainty and building mental models of real-world phenomena from data. The Learner Variability Navigator describes it as a cycle: learners pose a question about data, decide what data they need, gather it, organise, analyse and display it, and then describe what it shows and draw inferences to answer the question. It is assessed with questionnaires on understanding of variation (in chance settings such as dice, and in data and graphs) that pair multiple-choice items with written explanations, and with the data-analysis and probability subtests of diagnostic batteries.
@@ -109,6 +109,7 @@ LVN follows it from grade 3 to grade 10. It builds on [measurement](measurement.
 - [A one-session robot real-time graphing activity did not significantly change non-science majors' TUG-K graph-interpretation scores relative to a control lab activity](../claims/robot-kinematic-activity-no-tug-k-effect.md) [-M] — measured as an outcome of the instruction studied
 - [CLASS attitude scores are strongly related to change in TUG-K graph-interpretation scores for non-science majors](../claims/class-favorability-explains-tug-k-variance.md) [+M] — measured as an outcome of the instruction studied
 - [Novelty of quantum measurement and probability-distribution tasks may explain fragile, context-dependent reasoning after instruction](../claims/novel-quantum-tasks-explain-fragile-context-dependent-reasoning.md) [~M] — measured as an outcome of the instruction studied
+- [Students reported the laboratory helped them understand the scientific method, data analysis and how to carry out research](../claims/lab-improved-scientific-method-understanding.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Statistical Variation Measure** (Watson et al., 2003): Questionnaire examining student understanding of statistical variation, including understanding of basic chance measurement and graph reading, variation in a chance setting (e.g., results of throwing a die), and variation in data and graphs. Students respond to multiple choice questions but also have space to explain their responses which allows for a more comprehensive measure of their understanding.

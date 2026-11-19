@@ -84,3 +84,4 @@ Count of report delivery during the first five semesters of centralized E-CLASS 
 
 ## Related Claims
 - [Eclass Report Instructor Feedback Positive](eclass-report-instructor-feedback-positive.md)
+- [Interviewees point to a wide range of evidence that instructional labs are valued, including place in curriculum, student learning outcomes, and interest from colleagues](instructional-labs-valued-through-curriculum-outcomes-colleagues.md) — related

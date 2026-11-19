@@ -75,3 +75,4 @@ Focused regrading of only the OE1 Q2 submissions with large Round I AI–officia
 - [Most AI grading errors (87% for the best model) were attributable to transcription failures rather than rubric misapplication](transcription-failures-dominate-grading-errors.md) — related
 - [Revising the rubric to operationalize pedagogical constructs raises human–machine agreement for openness and depth](rubric-revision-improves-machine-alignment.md) — related
 - [Ambiguous rubric language prevented scoring of 3 tasks in round 1; language revision restored scorability, while testers overlooked telemedicine-specific tasks](rubric-language-revision-restored-scoring.md) — related
+- [GPT-4 rubric grades of written physics solutions correlate positively with manual grading, with R² ≈ 0.83 for total scores](gpt4-total-score-correlation-manual-grading.md) — related

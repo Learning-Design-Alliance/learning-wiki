@@ -51,6 +51,8 @@ Because biology students value resources like life-is-complex and function-impli
 
 - [Co-design interdisciplinary problems with biologists, negotiating realism, modeling, and multiple representations, and explicitly naming what biology is simplified away](negotiated-interdisciplinary-problems.md)
 - [Negotiate interdisciplinary problems jointly, seeking both physical validity and biological authenticity, and make modeling assumptions explicit.](negotiated-problem-design-physical-validity-biological-authenticity.md)
+- [Embed graph problems in authentic life-science and engineering contexts to support perceived relevance](authentic-graph-problems-life-science.md)
+- [Teach students expert-like evaluation skills and epistemology to work with, not defer to, AI](strategy-evaluate-ai-output-expert-epistemology.md)
 
 ## Examples
 -

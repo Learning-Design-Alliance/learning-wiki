@@ -54,3 +54,4 @@ Multiple-choice performance on question 2, which investigated difficulties with 
 - [Upper-level students struggle to write position and momentum eigenstate inner products without Dirac notation, often confusing the Kronecker delta with the Dirac delta function](eigenstate-inner-product-delta-confusion.md) — related
 - [Difficulties with Dirac notation persisted in advanced students, and regression on problem 1 suggests some had memorized procedures rather than mastered the notation](dirac-notation-memorized-procedures.md) — related
 - [Graduate students answered more multiple-choice problems correctly than any other cohort (78.7%)](grad-students-most-correct-diagramming-cohorts.md) — related
+- [Inconsistent notations across various texts and online resources confused students and made it difficult to balance learning from multiple resources](notation-inconsistency-confusion-qc.md) — related

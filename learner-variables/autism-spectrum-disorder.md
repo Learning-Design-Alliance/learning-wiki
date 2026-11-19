@@ -111,6 +111,7 @@ Notes for reading these: the AAC effects rest mainly on one meta-analysis of sin
 - [Self-Monitoring](../principles/self-monitoring.md) — the self-monitoring evidence for students with ASD
 - [Use multisensory exposure and training as targets for remediation of sensory-based developmental and cognitive impairments](../strategies/multisensory-training-remediation-strategy.md)
 - [Calming Proprioceptive Input](../strategies/calming_proprioceptive_input.md)
+- [Tune the tutor to learners across the autism spectrum using ASD-specific design guidelines](../strategies/asd-specific-design-guidelines-tuning.md)
 
 ## Key Sources
 - American Psychiatric Association. (2013). *Diagnostic and statistical manual of mental disorders* (5th ed.). [doi:10.1176/appi.books.9780890425596](https://doi.org/10.1176/appi.books.9780890425596)

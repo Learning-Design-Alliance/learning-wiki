@@ -66,3 +66,4 @@ The same annotation states the cited article "shows how to use smartphone sensor
 - [The article argues smartphone sensors are an accessible innovation but open questions remain about future learning gains](open-questions-mobile-sensor-learning-gains.md) — related
 - [Mobile sensors let students take hundreds or thousands of repeated measurements in seconds, transforming error-analysis teaching](sensors-enable-mass-repeated-measurements-error-analysis.md) — possibly the same claim (merge candidate)
 - [Accelerometer fluctuations of a mobile device laid on a table or hand-held follow a normal distribution](sensor-fluctuations-normal-distribution-table-handheld.md) — a narrower finding that bears on this claim
+- [Authors report greater student understanding of, and interest in, statistical tools with the smartphone-sensor home lab than with the traditional laboratory](didactic-advantages-smartphone-uncertainty-home-lab.md) — related

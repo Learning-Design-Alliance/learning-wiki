@@ -68,3 +68,4 @@ Focus-group report from one three-student group in the pilot course, describing 
 - [Student difficulties with mathematics, especially linear algebra, are the most frequently reported student difficulty in introductory QIS courses](qis-student-math-linear-algebra-difficulties.md) — related
 - [More students reported math discomfort in the first half of the spins-first QM semester despite the second half requiring more computationally intensive mathematics](math-discomfort-higher-first-half-semester.md) — related
 - [In the authors' classroom experience, the polarizer experiment promoted better learning of matrix operations and illustrated how abstract mathematics models the real world](polarizer-activity-classroom-experience-report.md) — related
+- [Participants reported being generally more versed in linear algebra and Python whilst being new to quantum computing](participants-more-versed-python-linear-algebra-than-quantum.md) — related

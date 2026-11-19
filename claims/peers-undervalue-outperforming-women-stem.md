@@ -72,3 +72,5 @@ Authors' interpretive argument in the Discussion: because women outperformed men
 - [Cisgender men speak more during small-group or whole-class discussions, reinforcing perceptions of greater competence in STEM.](men-speak-more-discussions-competence-perceptions.md) — related
 - [Athena participants' GR is much higher than for physics studies at university level in Geneva (GR = 0.32) but still below the maturité-level ratio (GR = 1.4)](athena-gr-exceeds-physics-study-choice.md) — related
 - [Female researchers are on average under 30% worldwide and below 25% in most African countries](female-researchers-under-30-percent-gender-gap.md) — related
+- [Men significantly under-nominate women as strong in lecture material in first-year physics courses, while women proportionately nominate both genders](men-under-nominate-women-first-year-physics-lecture.md) — related
+- [Women nominated women significantly more than men nominated men in Course C's lecture perception network only](women-over-nominate-women-course-c-lecture.md) — related

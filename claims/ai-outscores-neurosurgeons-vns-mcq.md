@@ -67,3 +67,4 @@ Wilcoxon signed-rank test with continuity correction comparing the AI's total sc
 ## Related Claims
 - [AI and surgeons performed similarly on eight MCQ questions; the AI scored higher on anatomical/technical questions and surgeons scored higher on two practical-scenario questions](ai-versus-surgeon-question-level-pattern-vns.md) — related
 - [The AI achieved perfect precision and specificity (1.0), higher true correct and true incorrect rates than surgeons, and no hallucinations were detected](ai-perfect-precision-specificity-no-hallucinations-vns.md) — related
+- [Very top-performing students outscored the AI essays, while the majority of the cohort performed comparably or worse](cohort-distribution-versus-ai-scores.md) — related

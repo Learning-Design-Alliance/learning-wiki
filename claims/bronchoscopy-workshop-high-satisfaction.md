@@ -63,3 +63,4 @@ Post-workshop satisfaction survey of the 53 participants (Table 4). The article 
 - [All surveyed residents would recommend the distance wet lab training to others](resident-satisfaction-distance-wet-lab.md) — a narrower finding that bears on this claim
 - [After the later workshops, 100% of attendees reported feeling more confident assisting in theatre and would recommend the course](unanimous-confidence-and-recommendation-later-workshops.md) — related
 - [Staff reported universally high satisfaction with the tele-education program](high-staff-satisfaction-tele-education.md) — related
+- [Participant feedback on ASP2022 was generally positive, with most participants satisfied and willing to recommend ASP to colleagues](asp2022-feedback-generally-positive.md) — related

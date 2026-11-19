@@ -51,6 +51,7 @@ The article recommends engaging as many sensory modes as possible when presentin
 - [Multi Sensory Learning](multi-sensory-learning.md)
 - [Multiple Ways to Perceive Information](multiple_ways_to_perceive_information.md)
 - [Multisensory Encoding](multisensory-encoding.md)
+- [Combine tactile sky models with sonic resources (sonifications and audio descriptions) in inclusive astronomy activities](combine-tactile-models-with-sonic-resources.md)
 
 ## Examples
 -
