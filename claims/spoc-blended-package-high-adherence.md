@@ -67,3 +67,4 @@ Intervention adherence assessed using platform-generated learning records and in
 - [Every participant engaged with the e-learning before the birth course, with 95 completing it in full](e-learning-engagement-before-birth-course.md) — related
 - [Blended PbL students attend fewer lectures on site but watch more lecture videos than conventional PbL students](bpbl-shifts-lecture-attendance-to-videos.md) — related
 - [Most students in the blended PBL course showed improvements in information searching, reflection before intervening, debating, attendance, and communication](pbl-skills-improvements-blended-course.md) — related
+- [Participation in the Gravitas online seminars was substantial, with around 270 visualizations per YouTube video and 80 students on average during live sessions](gravitas-online-seminar-participation.md) — related

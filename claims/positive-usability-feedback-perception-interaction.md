@@ -47,3 +47,4 @@ Likert questionnaire (14 items, 5-point scale) administered after the HipSim tas
 ## Related Claims
 - [Students using the 3D model reported higher confidence, greater ability to visualize spatial relationships, and greater enjoyment than textbook-image students](3d-model-higher-confidence-visualization-enjoyment.md) — related
 - [Participants rated SOPHIE 2.0 as engaging, easy to use, and clinically relevant in a self-service format](sophie2-high-perceived-usability-and-value.md) — related
+- [Musicians found the force-sensing fretboard's real-time visual feedback constructive to their playing despite slight sound-quality differences](musician-user-testing-positive-reception.md) — related

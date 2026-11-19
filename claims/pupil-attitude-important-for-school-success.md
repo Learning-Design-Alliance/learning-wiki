@@ -47,3 +47,4 @@ The editorial cites second-hand research on retardation and elimination as evide
 ## Related Claims
 - [The motivation movement shifted teacher attention from textbooks and lesson plans to the learning process and pupil attitude](motivation-emphasis-shifts-teacher-attention-to-learning-process.md) — related
 - [Ability acquired in one branch of study appears transferable to another to a considerable extent, or else general intellectual and moral attitude matters more than method](transfer-of-study-methods-mature-age.md) — related
+- [Theorists report perseverance and endurance matter more for success in theoretical physics than innate brilliance](perseverance-over-brilliance-theory-careers.md) — related

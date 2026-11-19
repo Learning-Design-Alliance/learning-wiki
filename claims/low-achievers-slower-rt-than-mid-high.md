@@ -53,3 +53,4 @@ One-way ANOVA over low (N = 101), mid (N = 415) and high achievers (N = 102) fou
 - [Female students had significantly faster reaction times than male students within each academic performance group](gender-rt-difference-within-performance-groups.md) — related
 - [Female students had faster visual reaction times and better academic performance than male students](female-faster-vrt-better-academic-performance.md) — related
 - [Reaction times and gender are the only independent predictors of academic performance, explaining 11% of variance](rt-and-gender-independent-predictors-academic-performance.md) — related
+- [High basic-knowledge scorers also showed significantly slower total reaction times across all fifteen questions than low scorers](high-scorers-slower-total-reaction-times.md) — reports the opposite

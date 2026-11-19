@@ -59,3 +59,4 @@ Qualitative interview study during QuILT development. Common difficulties includ
 - [Students incorrectly claim that removing or inserting beam-splitter BS2 does not change detector probabilities in the MZI](students-incorrect-bs2-role-mzi.md) — related
 - [Students struggle with wave-particle duality of single photons, treating a photon as a point particle or as split into two photons after BS1](students-treat-single-photon-as-point-particle-mzi.md) — related
 - [Student understanding of wave-particle duality falls into three clusters ranging from classical to quasiquantum description](three-clusters-wave-particle-duality-understanding.md) — related
+- [Setting up and manipulating optics and taking and analyzing data are the most common student actions in single-photon experiment courses](single-photon-experiment-student-actions.md) — related

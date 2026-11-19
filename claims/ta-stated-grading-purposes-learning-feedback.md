@@ -54,3 +54,4 @@ Bottom-up coding of open-ended questionnaire responses about the purpose of grad
 - [The TAs generally viewed grading as serving only a summative assessment purpose rather than a formative one](tas-view-grading-summative-only-not-formative.md) — reports the opposite
 - [Frequent formative assessment used throughout a course can greatly improve student learning by giving students repeated opportunities to reflect and giving instructors real-time feedback](frequent-formative-assessment-improves-learning.md) — related
 - [Dusty plasma experiments serve as a learning tool for undergraduate and post-graduate physics students, per the author's perspective argument](dusty-plasma-experiments-learning-tool-physics-students.md) — related
+- [Completed solutions and mistakes offer opportunities for reflection that improve future problem solving](post-solution-reflection-and-mistake-analysis.md) — related

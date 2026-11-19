@@ -48,3 +48,5 @@ Analysis of the community node found mentor-mentee communication "developed grad
 - [Regularly scheduled meetings were a productive norm in remote REU labs, with most mentees meeting their mentors more than once a week](remote-reu-meeting-frequency-norms.md) — related
 - [Mentees' sense of belonging grew out of community and social interactions and from scientific contribution](belonging-from-interaction-and-contribution.md) — related
 - [Mentors and mentees in remote STEM mentoring perceived different sets of challenges: mentees time management and logistics, mentors STEM content delivery and social challenges](remote-mentoring-divergent-challenges-by-role.md) — related
+- [Remote REU participants persistently lacked community, and the resulting lack of in-person interaction pushed mentees into substantial independent learning](remote-reu-lack-of-community.md) — related
+- [Barriers in mentor-mentee relationships and differing expectations introduced challenges in remote REU programs](remote-reu-mentor-mentee-barriers.md) — related

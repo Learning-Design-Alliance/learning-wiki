@@ -48,6 +48,8 @@ The article recommends using social media messaging and group tools — WhatsApp
 - [Integrate mobile messaging applications such as WhatsApp into the L2 curriculum to promote regular-participation learning communities](integrate-whatsapp-into-l2-curriculum-strategy.md)
 - [Use WhatsApp as a supportive technology alongside traditional instruction, with careful attention to message timing](whatsapp-as-supportive-technology-strategy.md)
 - [Use WhatsApp mobile learning activities only within a blended course strategy that integrates face-to-face and mobile learning](whatsapp-only-in-blended-course-strategy.md)
+- [Use layered communication channels (Discord plus weekly emails plus a shared Google calendar) for distributed programme announcements](layered-discord-email-calendar-communication-strategy.md)
+- [Student-produced social-media science-communication posts as a mandatory concluding activity](student-social-media-scicomm-posts-strategy.md)
 
 ## Examples
 -

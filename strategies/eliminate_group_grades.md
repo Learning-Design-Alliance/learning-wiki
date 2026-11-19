@@ -64,6 +64,7 @@ Group grades create a social-loafing problem: when individual contribution is in
 - Peer assessment strategies — provide the contribution-visibility mechanism that replaces the shared grade
 - [Assessment for learning](../principles/assessment-for-learning.md) — reframes group work as feedback-rich practice rather than a grading event
 - [Communication projects as individual summative assessments replacing the lab practical](data-lab-communication-projects-strategy.md)
+- [Use matrix grading on team assignments to penalize free-riding and reward carrying the team](matrix-grading-team-assignments.md)
 
 ## Examples
 - **Johnson & Johnson's cooperative learning model** — specifies "group goals and individual accountability" as defining conditions; teachers assess each member individually on the team's learning material.

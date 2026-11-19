@@ -48,6 +48,7 @@ Sonification — presenting astronomical data as sound — is recommended for ou
 - [Use a multi-modal, multi-sensory approach combining sound, touch and visual elements when designing astronomy education and outreach resources](multimodal-astronomy-resources-strategy.md)
 - [Use image sonification and screen-reader-compatible interfaces to make robotic-telescope image analysis accessible to blind and visually impaired students](image-sonification-bvi-astronomy-access.md)
 - [Provide a sonified HUDF alternative for visually impaired students alongside the visualization](hudf-sonification-visually-impaired-accommodation.md)
+- [Combine tactile sky models with sonic resources (sonifications and audio descriptions) in inclusive astronomy activities](combine-tactile-models-with-sonic-resources.md)
 
 ## Examples
 -

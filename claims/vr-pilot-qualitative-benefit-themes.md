@@ -94,3 +94,4 @@ Braun and Clarke thematic analysis of two post-course focus groups (five and six
 - [Final-semester medical students reported that a primary care virtual patient supported self-directed learning and stimulated reflection](vp-primary-care-supports-self-directed-learning-student-reports.md) — related
 - [Grounded theory analysis identifies a core phenomenon 'learning from the VP' with four categories: VP Construction, External Preconditions, Student–VP Interaction and Consequences](vp-learning-core-phenomenon-four-categories.md) — related
 - [Focus group participants valued decision making as integral to science and none took a positivist position](focus-groups-decision-making-integral.md) — related
+- [Representative simulators are the safest way to gain repetitions in dynamic decision-making and fault response](simulators-safest-repetitions-dynamic-decisions.md) — related

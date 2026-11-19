@@ -72,3 +72,4 @@ Same student questionnaire (N=20), statement 2(g) posed negatively; 35% strongly
 - [The Einstein-First programme improved students' interest in physics, with female students' interest rising from 50% to nearly match males' initial 80%](einstein-first-female-interest-increase.md) — related
 - [In 2015, 70% of respondents said the event is useful to promote the researcher's role and 40% said it could encourage young people toward scientific careers](ern-2015-career-encouragement-perception.md) — related
 - [A Quantum Rules! outreach visit increases upper-secondary students' agreement that quantum science is important for society](quantum-rules-visit-increases-perceived-societal-importance.md) — related
+- [Teachers and common visitors scored better than students across all satisfaction categories in quantum outreach events](teachers-score-better-than-students-outreach.md) — related

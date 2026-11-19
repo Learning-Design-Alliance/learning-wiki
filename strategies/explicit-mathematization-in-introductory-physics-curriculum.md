@@ -48,6 +48,7 @@ The article recommends that instructors and education researchers "explore how t
 
 - [Strengthen prerequisite skills in algebra, analytic geometry and differential calculus before Integral Calculus](strengthen-prerequisite-skills-before-calculus.md)
 - [Offer a sophomore-year mathematical physics course preparing students for the mathematics of quantum physics](sophomore-math-physics-prerequisite-for-qp.md)
+- [Strengthen the ILS strategy with more activities on describing the physical phenomenon and on algebraic procedures from prior courses](strategy-add-phenomenon-description-and-algebra-activities.md)
 
 ## Examples
 -

@@ -51,6 +51,7 @@ An accessibility strategy for virtual teaching: the authors report that "all our
 - [Inclusive virtual course delivery: record everything, subtitle videos, schedule around participants' calendars, monitor participation, and diversify speakers](inclusive-virtual-astronomy-course-delivery-strategy.md)
 - [Offer lectures both live (synchronously) and as posted recordings so students with connectivity, work, or time-zone constraints are not disadvantaged](offer-synchronous-and-recorded-lecture-options.md)
 - [Pre-recorded Instructional Video](pre-recorded_instructional_video.md)
+- [Offer the oriented-globe video as an asynchronous tutorial so pre-service teachers can practice until confident enough to run the activity with pupils](asynchronous-video-tutorial-teacher-confidence.md)
 
 ## Examples
 -

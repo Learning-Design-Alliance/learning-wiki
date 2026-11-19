@@ -72,3 +72,4 @@ Correlation meta-analysis (17 meta-analyses, one per centrality measure) pooling
 - [The relationship between classroom engagement and future academic performance does not emerge until the second half of the semester](engagement-performance-link-emerges-late.md) — a narrower finding that bears on this claim
 - [In Semester 2, no centrality/grade correlations were statistically significant](semester2-no-centrality-grade-correlations.md) — a narrower finding that bears on this claim
 - [During remote teaching, overall collaboration degree centrality positively predicts high-school physics grades](collaboration-centrality-positive-remote-physics-grades.md) — a narrower finding that bears on this claim
+- [Students with higher final course grades receive significantly more peer nominations in every course and context](final-grade-predicts-peer-nominations-all-contexts.md) — related

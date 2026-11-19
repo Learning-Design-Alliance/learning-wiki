@@ -48,6 +48,7 @@ The authors created problems in conversation with biologist colleagues, matching
 - [Re-weight IPLS content: de-emphasize projectile motion, constant-acceleration rotations, gravitation, and heat engines; give new prominence to fluids, optics, energy, and entropy; add scaling, strength of materials, and gradient-driven flows](ipls-content-reweighting.md)
 - [Negotiate interdisciplinary problems jointly, seeking both physical validity and biological authenticity, and make modeling assumptions explicit.](negotiated-problem-design-physical-validity-biological-authenticity.md)
 - [Teach epistemology explicitly and use biologically authentic examples in physics for life-science students](teach-epistemology-explicitly-interdisciplinary.md)
+- [Embed graph problems in authentic life-science and engineering contexts to support perceived relevance](authentic-graph-problems-life-science.md)
 
 ## Examples
 -

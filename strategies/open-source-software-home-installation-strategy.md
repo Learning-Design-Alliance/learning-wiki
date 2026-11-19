@@ -44,6 +44,7 @@ The activity relied on Audacity, "a freely available open-source program, runnin
 ## Related Strategies
 
 - [Let student groups devise their own delay-measurement method and estimate their own uncertainties](student-devised-measurement-methods-strategy.md)
+- [Use free, locally runnable quantum chemistry software to open research opportunities where computational resources are scarce](free-software-local-computing-research-strategy.md)
 
 ## Examples
 -

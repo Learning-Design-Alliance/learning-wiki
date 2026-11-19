@@ -40,6 +40,7 @@ A supplemental wrap-up activity in which students, at home or as a class event, 
 ## Related Strategies
 
 - [Embodied orientation lessons that mark compass directions in the room and align internal and external compasses](which-way-is-north-embodied-orientation.md)
+- [Use a historical ocean-navigation narrative as an entry point for teaching space and time concepts through stellar orientation and the calendar](ocean-navigation-narrative-astronomy-unit.md)
 
 ## Examples
 -

@@ -66,3 +66,4 @@ The article's operational definition of interactive engagement, stated as a theo
 - [Visible interaction rates on an educational Instagram account remain modest relative to total reach, suggesting primarily passive engagement](histo-embryo-passive-engagement-model.md) — related
 - [Students in both sections reported that reviewing with a partner would be more helpful for their learning than studying alone](students-prefer-partner-review.md) — related
 - [Communicative competence is a threshold concept, not mastery of communication](communicative-competence-threshold-concept-aac.md) — related
+- [Student control scores show preliminary support for correlation with agreement scores in student-robot dialogue](control-score-agreement-score-correlation-preliminary.md) — related

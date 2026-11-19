@@ -68,7 +68,7 @@ Theoretical argument in the same section, offered as an example with no data: th
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| Yurt 2024 | q1 · theoretical · r2 | i? | this claim |
+| [Yurt 2022](https://doi.org/10.48550/arxiv.2206.03217) | q1 · theoretical · r2 | i? | this claim |
 | [mmr-model2](https://doi.org/10.1145/3761843.3761881) | q2 · associational · r2 | i? | [Teacher confidence strongly predicts favorable attitudes toward AI adoption, while the dir](confidence-predicts-ai-attitudes-support-direct-effect-null.md) (supports); [Teacher confidence fully mediates the relationship between institutional support and attit](confidence-fully-mediate-support-attitude-relationship.md) (supports); [Institutional support significantly and positively predicts teacher confidence in adopting](institutional-support-predicts-teacher-ai-confidence.md) (qualifies) |
 | [Guillén-Gámez 2026](https://doi.org/10.1007/s11423-026-10647-6) | q2 · associational · r2 | i3 | [Teacher self-efficacy significantly predicts perceived usefulness and perceived ease of us](self-efficacy-predicts-usefulness-ease-genai.md) (supports); [Teacher self-efficacy is most strongly associated with perceived enjoyment of GenAI tools](self-efficacy-drives-perceived-enjoyment-genai.md) (supports) |
 | [Feng 2026](https://doi.org/10.1016/j.chbah.2026.100402) | q2 · associational · r2 | i? | [Pedagogical AI competence is positively associated with teachers' AI use](pedagogical-ai-competence-associated-with-ai-use.md) (supports) |

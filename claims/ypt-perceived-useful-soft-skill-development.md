@@ -53,3 +53,4 @@ Student survey (stage one) with 308 responses from nine countries asked students
 - [Teachers rate YPT-related activities as more useful for soft-skill development than regular physics classes and other extracurricular activities, but a self-selection caveat applies](teachers-rate-ypt-higher-than-other-activities.md) — related
 - [Perceived usefulness of YPT activities is higher for students in their final or last-to-final year, suggesting YPT acts as a capstone building on existing skills](ypt-capstone-final-year-effect.md) — related
 - [Students perceived YPT-related activities as significantly more useful than regular physics classes only for debating skills, with no significant differences for other soft skills](ypt-vs-regular-classes-debating-only.md) — related
+- [YPT-related activities show the most holistic impact on hard skills, with the highest cross-skill correlations of perceived usefulness](ypt-holistic-impact-correlations.md) — related

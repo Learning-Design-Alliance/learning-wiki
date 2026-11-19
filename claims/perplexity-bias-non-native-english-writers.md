@@ -58,3 +58,4 @@ The paper reports, citing Liang et al. (2023), that detectors use perplexity as 
 - [A detector can achieve high aggregate accuracy while producing materially different over-detection rates across author groups](aggregate-accuracy-group-fairness-detectors.md) — related
 - [ChatGPT-generated essays showed high written English and PEEL-framework structure across native and non-native speakers](chatgpt-essays-high-english-structure-peel.md) — related
 - [AI-detection tools can detect raw ChatGPT output but provide a weak standard of evidence, raising false-allegation concerns](ai-detection-tools-weak-evidence-standard.md) — a narrower finding that bears on this claim
+- [The AI text classifier flagged more ChatGPT-group essays as likely AI-generated, but also produced false positives in the control group](ai-classifier-flags-more-gpt-essays-false-positives.md) — a narrower finding that bears on this claim

@@ -47,3 +47,4 @@ The article's Personal impact section is a self-reported account of skills gaine
 ## Related Claims
 - [Coaching provided informational support to URM PhD students, including advice on fellowships, grant writing, and diversity issues unavailable at their home institutions](coaching-informational-support-urm-phd-students.md) — related
 - [Social-media close-up picture game posts reached on average 1400 people, with a maximum of 43301](closer-look-social-media-reach.md) — related
+- [Students appreciated writing social-media posts and considered the activity useful for better understanding the topics covered in the project](gravitas-posts-appreciation-understanding.md) — related

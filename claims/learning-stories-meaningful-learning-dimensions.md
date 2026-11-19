@@ -64,3 +64,4 @@ Qualitative analysis of so-called learning stories reported by Y. L. Visser and 
 - [Facilitators report no personal identity shift but gains in confidence, teaching skills, and perceptions of themselves as teachers](cbl-facilitator-confidence-gains-no-identity-shift.md) — a narrower finding that bears on this claim
 - [Students' sense of ownership can entail their own new knowledge about the nature of science](ownership-entails-nature-of-science-knowledge.md) — related
 - [Working with mathematical modeling can motivate students and teachers and make statistics content meaningful and concrete](modeling-motivates-and-concretizes-statistics-content.md) — related
+- [Using mobile devices to take data in experiments gives students a sense of ownership of their measurements](mdet-data-ownership.md) — a narrower finding that bears on this claim

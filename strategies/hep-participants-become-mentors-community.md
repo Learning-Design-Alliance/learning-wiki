@@ -47,6 +47,7 @@ The HSF/IRIS-HEP training community of mentors is voluntary-based and reflects t
 - [Collect pre- and post-surveys plus educator post-mortem sessions to evaluate and improve each training event](pre-post-surveys-and-educator-post-mortem-strategy.md)
 - [Scale training sustainably through geographic spread, online delivery, community growth and a supported core team](sustainable-scaling-of-community-training-program.md)
 - [Embed software skills training in degree programs so students contribute earlier and gain transferable career skills](software-skills-during-degrees-workforce-readiness.md)
+- [Extend a research program into a complex mentoring program with community events, educational workshops, and collaborative projects](konkoly-mentoring-expansion-strategy.md)
 
 ## Examples
 -

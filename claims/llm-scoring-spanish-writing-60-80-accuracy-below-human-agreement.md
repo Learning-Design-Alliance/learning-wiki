@@ -57,3 +57,4 @@ Analysis of the 2024 calibration phase (50 texts, each scored 10 times by the AI
 - [A minute-by-minute whole-classroom observation protocol achieved 80% or higher inter-rater agreement for student behavior](minute-by-minute-observation-protocol-80-percent-agreement.md) — related
 - [ChatGPT LLM scores showed only moderate agreement with human transcript scores.](llm-moderate-agreement-human-scores.md) — related
 - [Raters using the rubric agree on at least 80% of grading decisions, with consistent reliability across about 200 students](rubric-inter-rater-reliability-above-80-percent.md) — related
+- [AI-generated short-form physics essays marked by five independent markers averaged 71 ± 2%, in strong agreement with the module average of 71 ± 5%](ai-essays-first-class-physics-essay-marks.md) — related

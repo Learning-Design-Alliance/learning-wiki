@@ -44,6 +44,7 @@ The article enumerates four ways instructors can use Composer in an educational 
 - [Three classroom uses of the quantum concept maps: lecturer-led walkthroughs, recitation-section map building, and student homework support](three-classroom-uses-of-qm-concept-maps.md)
 - [Use dynamic software so students visualize, explore and discuss data instead of only computing](dynamic-software-data-exploration-discussion-strategy.md)
 - [Pair simulations with guided-inquiry activities rather than relying on undirected exploration](guide-simulation-exploration-with-activities.md)
+- [Introduce each representation in context and provide visual aids before classroom use of Quantum Composer](composer-classroom-usage-teaching-strategy.md)
 
 ## Examples
 -

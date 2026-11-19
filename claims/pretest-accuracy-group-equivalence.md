@@ -51,3 +51,4 @@ Pretest comparisons: rule-bound t = 0.28, p = .78 (M = 0.42 vs 0.40); non-rule-b
 - [On the non-rule-bound posttest, focused outperformed both unfocused and control groups, and unfocused outperformed control](three-group-non-rule-bound-posttest-ordering.md) — related
 - [On the rule-bound posttest, focused outperformed both unfocused and control groups, and unfocused outperformed control](three-group-rule-bound-posttest-ordering.md) — related
 - [A between-subjects ANOVA on average pretest-posttest scores showed a significant difference between treatment and control groups](between-subjects-anova-treatment-control-difference.md) — related
+- [AR and non-AR groups had equivalent spatial visualization skills before the workshops (PVRT pre-test, p = 0.8)](pvrt-pretest-groups-equivalent-baseline.md) — related

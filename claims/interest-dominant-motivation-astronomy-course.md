@@ -50,3 +50,4 @@ Pre-course open question on reasons for enrolling, answered by all 79 students; 
 - [Substantial content-knowledge gains are achievable for non-science majors in courses built on research-verified, active-engagement curricula](active-engagement-content-gains-non-majors.md) — related
 - [Career choice motivations are dominated by school mathematics and physics affinity and the desire to contribute to science, not financial or social recognition](physics-career-motivations-intrinsic-not-financial.md) — related
 - [Front-loading mathematics and astronomy filtered out students expecting an easy class while courses were well received](math-first-filtering-cultural-astronomy-courses.md) — related
+- [Community college astronomy enrollments are predominantly non-STEM majors with substantial mathematics remediation need](astronomy-enrollment-profile-nonstem-majors-remediation.md) — related

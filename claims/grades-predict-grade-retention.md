@@ -87,3 +87,4 @@ Lower language grades increase retention odds in all timings but "stronger for m
 - [The association between later chronotype and lower math grades is strongest in the morning timing, indicating a synchrony effect that partially counteracts the chronotype effect](synchrony-effect-math-slopes.md) — related
 - [The propensity-for-retention measure discriminates retained from not-retained students, with first-grade log-odds of retention more than three times greater for actually retained students](propensity-measure-discriminates-retained-students.md) — related
 - [Later chronotypes obtain lower academic performance (chronotype effect), moderated by age, school subject and school timing](chronotype-main-effect-grades.md) — related
+- [Mathematics preparation predicts astronomy outcomes: each math grade point raises pass odds 54%, while repeating math and developmental math enrollment lower them](mathematics-preparation-predicts-astronomy-outcomes.md) — related

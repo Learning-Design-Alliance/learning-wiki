@@ -52,3 +52,4 @@ Narrative review attributing this to Parker y Heywood (1998): of 41 prospective 
 - [Many preservice teachers explain the seasons with the proximity theory](proximity-theory-seasons-preservice-teachers.md) — a narrower finding that bears on this claim
 - [Many students cannot link an observation such as the new Moon to an explanation of the lunar phases, offering descriptive instead of explanatory answers](students-descriptive-not-explanatory-new-moon.md) — a narrower finding that bears on this claim
 - [Including astronomy topics improves science literacy and specific competencies, with many effect sizes of 0.8 or larger](astronomy-inclusion-improves-science-literacy.md) — related
+- [A non-negligible share of the general public holds misconceptions about the seasons, the poles, and the Sun's zenith position](general-public-astronomy-misconceptions-kahoot-2020.md) — related

@@ -51,3 +51,4 @@ Interrater analysis of the first evaluation round, in which faculty independentl
 - [The SAAAR behavioral marker format showed high internal consistency (McDonald's ω = 0.928)](saaar-high-internal-consistency.md) — related
 - [In a simulation-based pilot, residents' SAAAR scores improved significantly from pretraining to posttraining across all four domains](saaar-prepost-improvements-all-domains.md) — related
 - [Casper shows satisfactory internal consistency but only moderate interrater agreement and low test-retest reliability in the German pilot](casper-german-pilot-reliability-mixed.md) — related
+- [Five independent markers agreed closely with one another (73.0 ± 1.6, 72.6 ± 2.0, 69 ± 2, 70 ± 2, 70.6 ± 1.9), supporting marking validity](independent-marker-agreement-on-ai-essays.md) — related

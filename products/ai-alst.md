@@ -29,4 +29,4 @@ AI-ALST is an AI-supported pronunciation tutoring system for Moroccan Arabic lea
 -
 
 ## Key Sources
-- Shao, S., Alharir, S., Hariri, S., Satam, P., Shiri, S., & Mbarki, A. (2022). AI-based Arabic Language and Speech Tutor. IEEE conference paper. https://ieeexplore.ieee.org
+- Shao, S., Alharir, S., Hariri, S., Satam, P., Shiri, S., & Mbarki, A. (2022). AI-based Arabic Language and Speech Tutor. IEEE conference paper. https://ieeexplore.ieee.org. [doi:10.1109/aiccsa56895.2022.10017924](https://doi.org/10.1109/aiccsa56895.2022.10017924)

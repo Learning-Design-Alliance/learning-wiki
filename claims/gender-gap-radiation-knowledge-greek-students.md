@@ -50,3 +50,4 @@ Subgroup analysis of the 313-student survey (34% female, 66% male) by gender. Th
 - [Male and female students give very similar answers about the Masterclass activities themselves, differing mainly on interest in physics outside school](masterclass-satisfaction-similar-across-gender.md) — related
 - [Greek technology-oriented undergraduates show low correct-response rates on most radiation and nuclear knowledge questions](greek-students-low-radiation-knowledge.md) — related
 - [Female students had significantly higher electrochemistry retention scores than male students.](females-higher-retention-than-males-electrochemistry.md) — related
+- [Female and male participants scored similarly on quantum outreach satisfaction measures](gender-similar-scores-quantum-outreach.md) — related

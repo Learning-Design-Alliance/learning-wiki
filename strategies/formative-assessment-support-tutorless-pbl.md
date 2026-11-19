@@ -54,6 +54,7 @@ The article recommends that tutorless PBL be accompanied by frequent formative e
 - [Formative Assessment to Gauge Student Progress and Guide Instruction](formative_assessment_to_gauge_student_progress_and_guide_instruction.md)
 - [Formative Evaluation](formative-evaluation.md)
 - [Progress Monitoring](progress_monitoring.md)
+- [Monitor a per-class credit score daily and keep it consistently high to support exam performance](daily-class-credit-score-monitoring.md)
 
 ## Examples
 -

@@ -124506,5 +124506,525 @@
  "simulation\tmin-max uncertainty measure\tstandard deviation": {
   "label": "min-max uncertainty measure vs standard deviation",
   "treatment_is_a": true
+ },
+ "active-learning\t2019 instructional practice\t2008 instructional practice": {
+  "label": "2019 instructional practice vs 2008 instructional practice",
+  "treatment_is_a": true
+ },
+ "active-learning\t2019 survey cohort\t2008 survey cohort": {
+  "label": "2019 survey cohort vs 2008 survey cohort",
+  "treatment_is_a": true
+ },
+ "active-learning\tEmphasizing conceptual understanding through Peer Instruction\tlecture emphasizing less conceptual understanding": {
+  "label": "Peer Instruction emphasizing conceptual understanding vs less-conceptual lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tFour-lesson Montessori-based AI and robotics workshop with collaborative hands-on activities and open-source robots\tEngineering-attitudes pretest in the first lesson": {
+  "label": "Collaborative hands-on workshop vs first-lesson baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tFour-lesson Montessori-based AI and robotics workshop with collaborative hands-on activities and open-source robots\tSelf-reported agreement in the first lesson": {
+  "label": "Collaborative hands-on workshop vs first-lesson baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tHoS inquiry-based science content courses\ttraditional lecture-style science courses": {
+  "label": "Inquiry-based science courses vs traditional lecture-style courses",
+  "treatment_is_a": true
+ },
+ "active-learning\tHoS inquiry-based science courses\tpre-course baseline": {
+  "label": "Inquiry-based science course vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer Instruction with electronic-voting conceptual questions, peer discussion, resubmission, and lecturer explanation\tlecture without this peer-instruction format": {
+  "label": "Peer Instruction with peer discussion and resubmission vs conventional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tRBISs designed to supplement traditional lecture\tRBISs requiring significant departure from traditional lecture": {
+  "label": "RBIS supplementing traditional lecture vs RBIS requiring substantial departure from traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative physics study groups with diverse perspectives\tindividual problem solving": {
+  "label": "Collaborative group problem solving vs individual problem solving",
+  "treatment_is_a": true
+ },
+ "active-learning\tcross-functional networking among operations, test, engineering, and program management\tsiloed communities with limited communication": {
+  "label": "Cross-functional networking vs siloed limited communication",
+  "treatment_is_a": true
+ },
+ "active-learning\texplicit problem-solving strategies in mixed-ability collaborative groups\tworking alone": {
+  "label": "Explicit strategies in collaborative groups vs working alone",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on QuarkNet data activities\tdiscussion-based sessions without equipment": {
+  "label": "Hands-on data activities vs discussion-based sessions without equipment",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on activities\tnot stated": {
+  "label": "Hands-on activities vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on activity\tnot stated": {
+  "label": "Hands-on activity vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on cosmic ray detector workshop\tlecture-oriented ASP instruction": {
+  "label": "Hands-on cosmic-ray detector workshop vs lecture-oriented instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on cosmic-ray detector and ATLAS masterclass activities\tlecture-oriented ASP instruction": {
+  "label": "Hands-on cosmic-ray detector and ATLAS masterclass activities vs lecture-oriented instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on cosmic-ray detector and ATLAS masterclass activities\tthe predominantly lecture-oriented ASP program": {
+  "label": "Hands-on cosmic-ray detector and ATLAS masterclass activities vs predominantly lecture-oriented instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on cosmic-ray detector assembly and ATLAS masterclass\tlecture-oriented ASP instruction": {
+  "label": "Hands-on cosmic-ray detector assembly and ATLAS masterclass vs lecture-oriented instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on software-oriented programming assignments\tteaching quantum computing through a physics-oriented approach": {
+  "label": "Hands-on software-oriented programming assignments vs physics-oriented instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on, data-oriented QuarkNet activities\tdiscussion-based Physical Science sessions": {
+  "label": "Hands-on data-oriented activities vs discussion-based sessions",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on, data-oriented QuarkNet activities\tdiscussion-based physics sessions": {
+  "label": "Hands-on data-oriented activities vs discussion-based sessions",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on, data-oriented activities\tdiscussion-based sessions": {
+  "label": "Hands-on data-oriented activities vs discussion-based sessions",
+  "treatment_is_a": true
+ },
+ "active-learning\thigh active-learning use\ttraditional lecturing": {
+  "label": "High active-learning use vs traditional lecturing",
+  "treatment_is_a": true
+ },
+ "active-learning\tinquiry-based Hands on Science courses\ttraditional lecture-style science courses": {
+  "label": "Inquiry-based Hands-on Science courses vs traditional lecture-style courses",
+  "treatment_is_a": true
+ },
+ "active-learning\tinquiry-based HoS science courses\ttraditional lecture-style science courses": {
+  "label": "Inquiry-based Hands-on Science courses vs traditional lecture-style courses",
+  "treatment_is_a": true
+ },
+ "active-learning\tparticle-physics activities with physicist Q&A\tusual learning without direct access to physicists": {
+  "label": "Particle-physics activities with physicist Q&A vs learning without direct physicist access",
+  "treatment_is_a": true
+ },
+ "active-learning\tsmall-group interactive sessions\tless interactive participation without small-group discussion": {
+  "label": "Small-group interactive sessions vs less-interactive participation without small-group discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudents work together on graph-interpretation homework and course-center problems\tpassive completion of conventional graph-extraction exercises": {
+  "label": "Collaborative graph-interpretation problem solving vs passive conventional exercises",
+  "treatment_is_a": true
+ },
+ "active-learning\tworkshops with direct interaction and Q&A with physicists\tlearners without such direct physicist interaction": {
+  "label": "Direct interaction and Q&A with physicists vs no direct physicist interaction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tcontrol over mastery level\tno control over recommended exercises": {
+  "label": "Control over mastery level vs no control",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tcontrol over mastery level plus impact visualisation\tno control over recommended exercises": {
+  "label": "Control over mastery level vs no control",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tmastery-level control slider\tno control": {
+  "label": "Control over mastery level vs no control",
+  "treatment_is_a": true
+ },
+ "case-comparison\tComplete the SVD by finding missing orthonormal eigenvectors\tStop after obtaining only the nonzero singular-vector components": {
+  "label": "complete SVD vs incomplete/reduced SVD",
+  "treatment_is_a": true
+ },
+ "case-comparison\tFind eigenvalues of AᵀA to obtain singular values\tFind eigenvalues of A and take their square roots": {
+  "label": "eigenvalues of AᵀA for singular values vs eigenvalues of A for singular values",
+  "treatment_is_a": true
+ },
+ "case-comparison\tfind eigenvalues of MᵀM and complete missing orthonormal singular vectors\tfind eigenvalues of M or provide only a reduced/incomplete factorization": {
+  "label": "complete SVD vs incomplete/reduced SVD",
+  "treatment_is_a": true
+ },
+ "case-comparison\tnormalize eigenvectors and apply Gram-Schmidt\tuse unnormalized or non-orthogonal eigenvectors": {
+  "label": "normalized and orthogonalized eigenvectors vs unnormalized/non-orthogonal eigenvectors",
+  "treatment_is_a": true
+ },
+ "case-comparison\tnormalize eigenvectors and apply Gram-Schmidt when needed\tuse unnormalized or nonorthogonal eigenvectors directly": {
+  "label": "normalized and orthogonalized eigenvectors vs unnormalized/non-orthogonal eigenvectors",
+  "treatment_is_a": true
+ },
+ "debriefing\treflection after solving a problem\tno reflection": {
+  "label": "post-problem-solving reflection vs no reflection",
+  "treatment_is_a": true
+ },
+ "debriefing\treflection on affective experience during problem solving\tno reflection on affective experience": {
+  "label": "affective-experience reflection vs no reflection on affective experience",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tconcepts studied before complicated calculations\tchapter-by-chapter instruction with concepts and calculations introduced together": {
+  "label": "concept-first vs integrated concept-and-calculation instruction",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tquantitative/conceptual problem pairs\tconceptual problems only": {
+  "label": "quantitative-and-conceptual problem pairs vs conceptual-only problems",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tsequence tasks from interpreting a single graph, to matching graphs and situations, to using multiple graphs and variables\tpresent complex graph-physics integration without a staged progression": {
+  "label": "staged progression from simple to complex vs unscaffolded complex integration",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tclarification of what the camera directly measures\tnot stated": {
+  "label": "explicit clarification vs no clarification",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmulti-sensory prototype with code declaration\tautonomous exploration before code declaration": {
+  "label": "explicit instruction before exploration vs exploration before explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\trepresentation with code declaration\trepresentation before code declaration": {
+  "label": "code declaration before representation vs representation before code declaration",
+  "treatment_is_a": true
+ },
+ "feedback-timing\tshared automated testing harness providing immediate feedback\tfeedback not provided immediately": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-4 summaries of one-sentence grading feedback\thuman checking of solution correctness": {
+  "label": "AI-generated vs human feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpositive encouragement and recognition\tnegative or discouraging recognition": {
+  "label": "Positive vs negative feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tcorrect response to the zenith question\tincorrect response options": {
+  "label": "correct response vs incorrect response options",
+  "treatment_is_a": true
+ },
+ "gamification\tKahoot! quizzes during online physics and mathematics activities\tno comparison condition reported": {
+  "label": "Kahoot! vs comparison not reported",
+  "treatment_is_a": true
+ },
+ "gamification\tKahoot! quizzes integrated into online physics and mathematics activities\tno comparison condition reported": {
+  "label": "Kahoot! vs comparison not reported",
+  "treatment_is_a": true
+ },
+ "gamification\tOnline lessons with Kahoot! quizzes after each activity block\tNo comparison condition reported": {
+  "label": "Kahoot! vs comparison not reported",
+  "treatment_is_a": true
+ },
+ "gamification\tOnline lessons with Kahoot! quizzes and immediate discussion of answers\tNo comparison condition reported": {
+  "label": "Kahoot! vs comparison not reported",
+  "treatment_is_a": true
+ },
+ "gamification\tOnline physics and mathematics activities using Kahoot! quizzes\tNo comparison condition reported": {
+  "label": "Kahoot! vs comparison not reported",
+  "treatment_is_a": true
+ },
+ "gamification\tonline lesson with Kahoot!\tonline lesson without Kahoot!": {
+  "label": "Kahoot! vs no Kahoot!",
+  "treatment_is_a": true
+ },
+ "gamification\toriented-globe online tour with Kahoot! quiz\tno comparison condition stated": {
+  "label": "Kahoot! vs comparison not reported",
+  "treatment_is_a": true
+ },
+ "gamification\tparticipation in optional Kahoot! quizzes\tnonparticipation in Kahoot! quizzes": {
+  "label": "Kahoot! participation vs nonparticipation",
+  "treatment_is_a": true
+ },
+ "media-design\tcontrol plus visualisation of steering impact\tmastery-level control without impact visualisation": {
+  "label": "control with impact visualisation vs control without impact visualisation",
+  "treatment_is_a": true
+ },
+ "media-design\tcontrol plus visualisation of steering impact\tno control or impact visualisation": {
+  "label": "control with impact visualisation vs no control or impact visualisation",
+  "treatment_is_a": true
+ },
+ "media-design\tequations, circuit diagrams, Julia code, and classical simulation\tnot stated": {
+  "label": "equations, circuit diagrams, code, and classical simulation vs not stated",
+  "treatment_is_a": true
+ },
+ "media-design\tgame with an associated narrative\tprior 360-degree and virtual-reality visualisations without an associated narrative": {
+  "label": "game with an associated narrative vs visualisations without an associated narrative",
+  "treatment_is_a": true
+ },
+ "media-design\tnewspaper story problem format\tconventional textbook problem format": {
+  "label": "newspaper story problem format vs conventional textbook problem format",
+  "treatment_is_a": true
+ },
+ "media-design\tone relief point per object\tcontours or diverse densities of points": {
+  "label": "one relief point per object vs contours or diverse densities of points",
+  "treatment_is_a": true
+ },
+ "other\t10% node-retention threshold\t20% node-retention threshold": {
+  "label": "higher vs lower node-retention threshold",
+  "treatment_is_a": false
+ },
+ "other\t10% node-selection threshold\t20% node-selection threshold": {
+  "label": "higher vs lower node-selection threshold",
+  "treatment_is_a": false
+ },
+ "other\t10-factor MIRT model\t9-factor MIRT model": {
+  "label": "more-factor vs fewer-factor MIRT model",
+  "treatment_is_a": true
+ },
+ "other\t10-percentage-point increase in Afrocolombian student composition\tlower Afrocolombian composition": {
+  "label": "higher vs lower Afrocolombian student composition",
+  "treatment_is_a": true
+ },
+ "other\t10-percentage-point increase in Indigenous student composition\tlower Indigenous composition": {
+  "label": "higher vs lower Indigenous student composition",
+  "treatment_is_a": true
+ },
+ "other\t10-percentage-point increase in other-minority student composition\tlower other-minority composition": {
+  "label": "higher vs lower other-minority student composition",
+  "treatment_is_a": true
+ },
+ "other\t10-unit higher physical fitness, with academic achievement unchanged\treference level of physical fitness, with academic achievement unchanged": {
+  "label": "higher vs reference physical fitness",
+  "treatment_is_a": true
+ },
+ "other\t100 additional measurements\tinitial set of measurements": {
+  "label": "additional measurements vs initial measurements",
+  "treatment_is_a": true
+ },
+ "other\t100 additional measurements\toriginal histogram": {
+  "label": "additional measurements vs original histogram",
+  "treatment_is_a": true
+ },
+ "other\t100 additional photon measurements\toriginal histogram": {
+  "label": "additional photon measurements vs original histogram",
+  "treatment_is_a": true
+ },
+ "practice-amount\thigher PR practice volume\tlower PR practice volume": {
+  "label": "more vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\thigher total PR question volume\tlower total PR question volume": {
+  "label": "more vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\thigher total Problem Roulette practice volume\tlower total Problem Roulette practice volume": {
+  "label": "more vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\thigher total number of Problem Roulette questions encountered\tlower total number of Problem Roulette questions encountered": {
+  "label": "more vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\thighest study volume\tlow study volume": {
+  "label": "more vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater drillset progression with more practice\tearlier drillset performance": {
+  "label": "more vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater drillsets after extended practice\tearlier drillsets before extended practice": {
+  "label": "more vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater ordered drillsets after more practice\tearlier ordered drillsets with less prior practice": {
+  "label": "more vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore PR practice\tless PR practice": {
+  "label": "more vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore PR practice within the highest math-score tercile\tless PR practice within the highest math-score tercile": {
+  "label": "more vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore PR practice within the intermediate math-score tercile\tless PR practice within the intermediate math-score tercile": {
+  "label": "more vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore PR practice within the lowest math-score tercile\tless PR practice within the lowest math-score tercile": {
+  "label": "more vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore PR questions encountered over the term\tfewer PR questions encountered over the term": {
+  "label": "more vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tsix guided inquiry practicums\tthree guided inquiry practicums": {
+  "label": "more vs fewer guided inquiry practicums",
+  "treatment_is_a": true
+ },
+ "practice-amount\tstatus-exam questions seen in later drillsets after more practice\tstatus-exam questions seen in earlier drillsets": {
+  "label": "more vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tstudy volume sampled evenly across log10(NQ,tot)\tremaining grade variance after accounting for math-test-score expectations": {
+  "label": "not a coherent practice-amount contrast",
+  "treatment_is_a": false
+ },
+ "practice-amount\tworking through countless initially overwhelming physics problems\tinitially feeling overwhelmed by physics problems": {
+  "label": "not a coherent practice-amount contrast",
+  "treatment_is_a": false
+ },
+ "problem-first\tcalorimetric food-energy estimation problem\tnot stated": {
+  "label": "problem-first vs not problem-first",
+  "treatment_is_a": true
+ },
+ "prompts\tinformal, noncanonical physics prompt\tcanonical FCI-style prompt": {
+  "label": "canonical vs informal/noncanonical prompts",
+  "treatment_is_a": false
+ },
+ "prompts\tprompts asking GPT-4 to emulate a novice\tGPT-4's original expert-like reasoning": {
+  "label": "novice-emulation vs expert-like reasoning prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tprompts explicitly asking about specific PCK components\tinitial open-ended prompts": {
+  "label": "specific PCK-focused vs open-ended prompts",
+  "treatment_is_a": true
+ },
+ "prompts\treflect on graded feedback, identify error patterns, and create cues or reminders\tdismiss errors without reflection": {
+  "label": "reflective error-processing vs error-dismissal prompts",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tcommunity-library tutor-web program with SmileyCoin rewards\tpre-program baseline with zero participating students": {
+  "label": "Incentivized participation vs no participation",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tlibrary participation with SmileyCoin rewards and tablet-purchase opportunity\tinitial recruitment period before later program uptake": {
+  "label": "Rewards plus purchase opportunity vs no incentive",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tmeaningful reward with minimal scaffolding\tother interventions": {
+  "label": "Meaningful rewards vs other interventions",
+  "treatment_is_a": true
+ },
+ "scaffolding\tProof Blocks activity\thybrid activity": {
+  "label": "Proof Blocks activity vs hybrid activity",
+  "treatment_is_a": true
+ },
+ "scaffolding\tProof Blocks activity\twritten-proof activity": {
+  "label": "Proof Blocks activity vs written-proof activity",
+  "treatment_is_a": true
+ },
+ "scaffolding\tRL narrative AI guide with adaptive pedagogical support\tcontrol mathematics task with no narration or adaptive support": {
+  "label": "Adaptive narrative AI guide vs no narration or adaptive support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tTA reassured Group C that they did not have to succeed\tlab goal of falsification and epistemic agency": {
+  "label": "Reassurance that success is not required vs falsification and epistemic-agency framing",
+  "treatment_is_a": true
+ },
+ "scaffolding\tbegin with simple graph-interpretation problems and increase complexity step by step\tassume students can use graphical skills learned in mathematics without physics-specific scaffolding": {
+  "label": "Stepwise scaffolded graph problems vs unscaffolded transfer of mathematical graph skills",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcarefully designed graph problems scaffolded from simple to complex\ttraditional graph problems that treat graphs as endpoints or ask only for number extraction": {
+  "label": "Stepwise scaffolded graph problems vs traditional or extraction-focused graph problems",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcarefully designed graph problems that begin simply and increase in complexity step by step\tassuming students can apply mathematical graph skills in physics without targeted scaffolding": {
+  "label": "Stepwise scaffolded graph problems vs unscaffolded transfer of mathematical graph skills",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdistilled RL narrative AI guide policy\tcontrol with no narration and no adaptive support": {
+  "label": "Narrative AI guide vs no narration or adaptive support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdistilled RL narrative AI guide policy with adaptive pedagogical support\tcontrol mathematics task with no narration or adaptive support": {
+  "label": "Adaptive narrative AI guide vs no narration or adaptive support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdistilled RL narrative AI guide with adaptive pedagogical support\tcontrol mathematics task with no narration or adaptive support": {
+  "label": "Adaptive narrative AI guide vs no narration or adaptive support",
+  "treatment_is_a": true
+ },
+ "scaffolding\thybrid activity\twritten-proof activity": {
+  "label": "Hybrid activity vs written-proof activity",
+  "treatment_is_a": true
+ },
+ "scaffolding\tonline RL narrative AI guide with adaptive support\tcontrol with no narration and no adaptive support": {
+  "label": "Adaptive narrative AI guide vs no narration or adaptive support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tonline RL narrative AI guide with adaptive support\tcontrol with no narration or adaptive support": {
+  "label": "Adaptive narrative AI guide vs no narration or adaptive support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tonline distilled RL narrative AI guide with adaptive support\tcontrol with no narration or adaptive support": {
+  "label": "Adaptive narrative AI guide vs no narration or adaptive support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tsingle distilled RL narrative AI-guide policy\tcontrol with no narration and no adaptive support": {
+  "label": "Narrative AI guide vs no narration or adaptive support",
+  "treatment_is_a": true
+ },
+ "simulation\trepresentative high-fidelity simulators including GET CLASS variables\tprocedural-currency trainers focused on nominal operations": {
+  "label": "high-fidelity representative simulation vs procedural simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tself-paced numerical simulation project work\ttraditional theory-focused and experimental coursework": {
+  "label": "self-paced simulation project work vs traditional theory-focused coursework",
+  "treatment_is_a": true
+ },
+ "technology-tool\t72 force-sensing modules\tload-cell ground-truth measurements": {
+  "label": "force-sensing modules vs load-cell ground-truth measurements",
+  "treatment_is_a": true
+ },
+ "technology-tool\tACE Physics QBT assigned as homework\tno QBT semester": {
+  "label": "ACE Physics QBT homework vs no QBT",
+  "treatment_is_a": true
+ },
+ "technology-tool\tACE Physics QBT homework tutorial\tno QBT tutorial": {
+  "label": "ACE Physics QBT homework tutorial vs no QBT tutorial",
+  "treatment_is_a": true
+ },
+ "technology-tool\tACE Physics Quantum Basis Tutorial homework\ttutorial pre-test": {
+  "label": "ACE Physics QBT homework vs tutorial pre-test",
+  "treatment_is_a": true
+ },
+ "technology-tool\tACE Physics Quantum Basis Tutorial homework plus subsequent instruction\ttutorial pre-test before the QBT": {
+  "label": "ACE Physics QBT homework plus subsequent instruction vs tutorial pre-test",
+  "treatment_is_a": true
+ },
+ "technology-tool\tACE Physics basis tutorial assigned as homework\tno tutorial in Fall 2018": {
+  "label": "ACE Physics basis tutorial homework vs no tutorial",
+  "treatment_is_a": true
+ },
+ "technology-tool\tACE Physics basis tutorial followed by relevant instruction\ttutorial pre-test before the activity": {
+  "label": "ACE Physics basis tutorial followed by relevant instruction vs tutorial pre-test",
+  "treatment_is_a": true
+ },
+ "technology-tool\tACE Physics online basis tutorial homework\tno tutorial": {
+  "label": "ACE Physics online basis tutorial homework vs no tutorial",
+  "treatment_is_a": true
+ },
+ "technology-tool\tADL/CutLang hands-on analysis exercises\tno comparison reported": {
+  "label": "ADL/CutLang hands-on analysis exercises vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI projects integrated into core STEM coursework\tconventional STEM instruction and classroom examples": {
+  "label": "AI projects integrated into core STEM coursework vs conventional STEM instruction",
+  "treatment_is_a": true
+ },
+ "test-format\tcoupled multiple-response items with answer and supporting reasoning\tmultiple-choice and coupled multiple-choice items": {
+  "label": "open-response vs multiple-choice",
+  "treatment_is_a": true
+ },
+ "test-format\tnumeric open-response format\tplanned multiple-choice format": {
+  "label": "open-response vs multiple-choice",
+  "treatment_is_a": true
+ },
+ "test-format\topen-response beta administration\tplanned multiple-choice distractors": {
+  "label": "open-response vs multiple-choice",
+  "treatment_is_a": true
+ },
+ "worked-examples\tdetailed solution to the problem\town resources, textbook and notes": {
+  "label": "worked examples vs unguided problem solving",
+  "treatment_is_a": true
  }
 }

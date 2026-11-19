@@ -64,3 +64,4 @@ Attitudinal Likert questionnaire (AQ 1 and AQ 4) administered pre and post to 10
 - [Fast 30% of minor-subject students reported having had no interest in physics before beginning their studies](minor-subject-students-no-physics-interest.md) — related
 - [Both genders showed equal interest and enthusiasm in learning science, with no gender influence observed](equal-gender-interest-lower-primary-science.md) — related
 - [Female students were less confident in their choice of major than male students before participating in informal physics programs, and this difference disappeared after participation](female-confidence-choice-major-gap-closed-by-outreach.md) — related
+- [Female students report significantly less science confidence and enjoyment and more science anxiety than male peers, and higher prior math achievement predicts better attitudes](gender-and-sat-predict-science-attitudes.md) — related

@@ -47,3 +47,4 @@ Model-fitting comparison of two polytomous IRT models on the 401-nurse response 
 ## Related Claims
 - [Under a graded response model, all 33 CCDNS-DRN items show discrimination above 0.6, thresholds from −2.837 to 1.396 without reversals, and average information above 0.756](ccdns-drn-irt-grm-item-parameters.md) — related
 - [Partial credit via the Generalized Partial Credit Model adds no information and increases computation time by almost two orders of magnitude](gpcm-partial-credit-no-benefit-high-cost.md) — related
+- [Item response theory analyses show an overall acceptable fit of a generalized partial credit model, with Q14 the most discriminating item and Q2 showing a problematic negative slope](clci-irt-generalized-partial-credit-fit.md) — related

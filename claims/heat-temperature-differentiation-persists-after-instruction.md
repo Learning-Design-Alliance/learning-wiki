@@ -48,3 +48,4 @@ The review reports Niaz's study using the Test of Heat Energy and Temperature, f
 ## Related Claims
 - [Students commonly hold a granular-matter mental model of gases, in which molecules rub and give off heat, and extended consideration of molecular dynamics leads most students to replace it with an energy-conserving model](granular-matter-model-replaced-by-md.md) — related
 - [Students in computer-based inquiry environments still held misconceptions about force and energy after instruction](persistent-misconceptions-computer-based-ibl.md) — a broader claim this one bears on
+- [Students persist in interpreting infrared-camera images in terms of temperature despite initial clarification](students-interpret-ir-images-as-temperature.md) — related

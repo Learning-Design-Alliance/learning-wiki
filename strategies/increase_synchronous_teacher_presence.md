@@ -75,6 +75,7 @@ Teacher presence is one of three legs of the [Community of Inquiry](../principle
 - [Fully web-enhanced lab delivery through an LMS with recorded sessions in synchronous and asynchronous modes](lms-recorded-synchronous-asynchronous-lab-delivery.md)
 - [Deliver virtual labs synchronously via live video conference and post recordings to the LMS](synchronous-video-labs-with-lms-recordings.md)
 - [Offer virtual office hours at varied times plus an asynchronous discussion board and chat option](virtual-office-hours-discussion-board-chat.md)
+- [Interleave a narrated video with live commentary and Kahoot! quizzes to engage online audiences and surface misconceptions](video-parts-live-commentary-kahoot-online-strategy.md)
 
 ## Examples
 - **Zoom-based seminar courses** — instructor opens camera-on, runs a two-minute check-in, alternates mini-lectures with breakout discussions, and closes by naming student contributions.

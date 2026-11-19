@@ -73,3 +73,4 @@ Material experts' judgement with three validators. Scores of 3.16, 3.04 and 3.64
 - [Expert validators rated the Corel VideoStudio Pro X7-based media very valid (97.7% material expert, 76.5% media expert) and a limited trial group rated it 93.06%](corel-videostudio-media-expert-validation-ratings.md) — related
 - [Two-stage expert validation raised the NGSS-oriented lesson plan assessment from 3.65 to 3.82, deeming it feasible](ngss-lesson-plan-two-stage-validation.md) — related
 - [Outside experts judged that learners' knowledge structure integrity improved after participating in the SMM approach](knowledge-structure-integrity-improved.md) — related
+- [The learning-style database classroom-management application is rated very feasible on technical and content aspects in beta testing.](learning-style-dbms-app-very-feasible.md) — related

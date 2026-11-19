@@ -68,3 +68,4 @@ Students who answered correctly dwelled 42.6% (SD 12.8) on the statement vs 38.3
 - [Graphs drew visual attention away from text: proportion of dwell time on input and problem statement was significantly shorter when a graph was present](graph-attention-away-from-statement.md) — related
 - [Frequent eye transitions between graph and problem statement were marginally associated with correct answers](graph-statement-transitions-performance.md) — related
 - [Solving problems with graphs increased mental effort, shown by a higher proportion of silence in think-aloud data](graphs-increase-mental-effort-silence.md) — related
+- [Total dwell time on the graph and on the tilt parameter linearly predict Task 2 score, with dwell time on well spacing moderating the tilt-parameter effect](dwell-time-predicts-task2-score.md) — reports the opposite

@@ -92,3 +92,4 @@ A forward-looking recommendation from the conclusion: introductory foundations c
 - [Compass summer program participants are substantially more diverse than physics degree recipients nationally](compass-participants-more-diverse-than-physics-degrees.md) — related
 - [High school girls and boys take largely similar math and science coursework, with girls more likely to complete biology and chemistry and boys more likely to complete physics and calculus](gender-parity-high-school-math-science-course-taking.md) — related
 - [URM students earn a small share of physics degrees, with physics near the lowest fraction of the physical sciences for bachelor's degrees earned by Black/African-American and Hispanic Americans](urm-degree-representation-physics-lowest-physical-sciences.md) — related
+- [Women and racial minorities are underrepresented in the U.S. STEM workforce](women-urm-underrepresented-stem-workforce.md) — related

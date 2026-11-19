@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-19
 sources:
   - id: alexei-kaltchenko-and-gurnivaj-tiwana-2026
     resource: "https://doi.org/10.48550/arxiv.2608.19707"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In exploratory QPE, QFT, and Deutsch–Jozsa runs on IBM backends, the theoretically expected bitstring remained dominant despite noise, but the workflow stayed LLM-assisted from code generation through interpretation. [→ Alexei Kaltchenko and Gurnivaj Tiwana 2026](#alexei-kaltchenko-and-gurnivaj-tiwana-2026)

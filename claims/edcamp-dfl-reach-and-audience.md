@@ -49,3 +49,4 @@ Outreach and demographic reporting in the Series Outreach and Study Methodology 
 - [Educators reported large increases in comfort leveraging their knowledge of the topics to share with peer educators](edcamp-dfl-comfort-sharing-with-peers.md) — related
 - [Serving as panelists or moderators increased educators' reported expertise, peer-support confidence, and leadership confidence](edcamp-dfl-panelist-moderator-leadership-growth.md) — related
 - [Virtual training events reach more participants more equitably than in-person events, but attendance is typically only 50% of registrations](virtual-training-broader-reach-lower-attendance.md) — related
+- [Mexico was the country with the most participation, and a majority of registrants heard of the event through Facebook](mexico-most-participants-facebook-main-channel.md) — related

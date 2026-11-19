@@ -70,3 +70,4 @@ Same interview study, generic quantum uncertainty question. The article reports 
 - [Student uncertainty reasoning in the spectrum experiment did not match either the classical or single-slit pattern, drawing on all four source categories](spectrum-experiment-mixed-uncertainty-sources.md) — related
 - [Student thinking about measurement uncertainty may be sensitive to cueing from questions, with more polarized ideas for generic than data-based questions](uncertainty-reasoning-sensitive-to-cueing.md) — related
 - [Most second-year students misinterpret quantum uncertainty as measurement error rather than an intrinsic property](quantum-uncertainty-misread-as-measurement-error.md) — related
+- [The article argues classical simulators are better suited than real quantum hardware for teaching, citing error rates, incomplete measurement output, and limited hardware access.](classical-simulators-preferred-for-teaching-quantum-computing.md) — related

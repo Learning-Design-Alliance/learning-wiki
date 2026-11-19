@@ -48,3 +48,4 @@ Conceptual use-case description in the Use Cases section, illustrated by block 1
 - [The article claims scholarship-progress queries and fully automatic graduation as further use cases](scholarship-query-automatic-graduation-use-cases.md) — related
 - [The article argues global agreement and higher-education-policy commitment are necessary preconditions for the blockchain to be meaningful](global-agreement-policy-commitment-precondition.md) — related
 - [Educational smart contracts execute in 21–49 ms with certification the costliest and the only human-approved contract](smart-contract-execution-21-49ms-certification-costliest.md) — related
+- [A content-analysis literature review identifies blockchain applications in education including smart contracts for courses, digital certificates and transcripts, streamlined fee payments, and open educational content sharing](blockchain-education-applications-review.md) — related

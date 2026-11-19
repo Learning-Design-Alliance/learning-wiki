@@ -49,3 +49,4 @@ Pretest question 2 in upper-level undergraduate and Ph.D. quantum mechanics cour
 - [Think-aloud interviews with 15 upper-level undergraduate and graduate students identified common difficulties with single-photon MZI concepts](think-aloud-interviews-mzi-common-difficulties.md) — related
 - [Students hold the incorrect model that BS1 splits a photon into two half-energy photons, and this difficulty was reduced after the QuILT (39% to 17% on Q2)](mzi-quilt-photon-splitting-difficulty-reduced.md) — related
 - [Student understanding of wave-particle duality falls into three clusters ranging from classical to quasiquantum description](three-clusters-wave-particle-duality-understanding.md) — related
+- [Setting up and manipulating optics and taking and analyzing data are the most common student actions in single-photon experiment courses](single-photon-experiment-student-actions.md) — related

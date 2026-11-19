@@ -46,6 +46,7 @@ The authors argue that knowing students' epistemological state is a precondition
 ## Related Strategies
 
 - [Before implementing evidence-based teaching, compile students' initial knowledge, define measurable goals, and design aligned instruction and assessment by working through six guiding questions](six-questions-evidence-based-teaching-design.md)
+- [Teach students expert-like evaluation skills and epistemology to work with, not defer to, AI](strategy-evaluate-ai-output-expert-epistemology.md)
 
 ## Examples
 -

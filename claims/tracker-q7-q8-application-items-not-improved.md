@@ -49,3 +49,4 @@ Item-level analysis of the application items. The article reports Q7 roughly unc
 - [Graph-recall and gradient-interpretation items (Q1-6) improved substantially after Tracker lessons, with gains of 16 to 33 percentage points](tracker-q1-6-positive-gains.md) — related
 - [The misconception that acceleration is zero at the top of toss-up motion persisted despite gains on the highest-point velocity item](zero-acceleration-apex-misconception-persists.md) — related
 - [Constructing timelike geodesics on a spacetime sector model shows that free-fall geodesics produce the expected up-and-down motion in space](sector-model-timelike-geodesics-free-fall.md) — related
+- [LiDAR Motion sections improved more than ultrasonic sections on twelve of the fifteen assessment questions, with the largest gains on constant-velocity single-segment items](lidar-sections-improved-more-on-12-of-15-questions.md) — related

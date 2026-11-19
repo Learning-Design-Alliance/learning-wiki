@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: weak
 newest_evidence: 2020
+source_checked: 2026-11-19
 sources:
   - id: mouhamed-abdulla-2020
     resource: "https://doi.org/10.48550/arXiv.2006.03150"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the first CDIO-ILB implementation, the design course served as the foundational course, programming and physics as supporting courses, and twelve design teams of three students each worked on one of three projects. [→ Mouhamed Abdulla 2020](#mouhamed-abdulla-2020)

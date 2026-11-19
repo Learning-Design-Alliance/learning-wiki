@@ -51,6 +51,7 @@ The guide's overarching pedagogy is discussion-based: embedded (Q) questions sti
 - [See, Think, Wonder](see-think-wonder.md)
 - [Salt-dissolution experiment protocol with groups measuring temperature throughout and free choice of salt quantity](salt-dissolution-protocol-strategy.md)
 - [Racial Equity in PBL - Spark Engagement with Student-Generated Questions](racial_equity_in_pbl_-_spark_engagement_with_student-generated_questions.md)
+- [Hypothesis-raising discussion on nuclear stability where no answer is wrong](nuclear-stability-hypothesis-raising-discussion.md)
 
 ## Examples
 -

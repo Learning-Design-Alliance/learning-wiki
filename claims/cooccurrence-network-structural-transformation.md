@@ -69,3 +69,4 @@ Qualitative structural analysis of the physician-precaution cooccurrence network
 - [Integrated intervention changes the network structure of EF-mathematics relations, increasing interconnectedness relative to control](network-interconnectedness-ef-math-increases-post-intervention.md) — related
 - [Objective AI knowledge scores rose from pretest to posttest among Japanese medical students after a 1-day PBL program on AI ethics, in a single-group pre-post study](pbl-ai-ethics-mcq-knowledge-gain.md) — related
 - [Cluster analyses reveal mixed clusters of scientific and alternative conceptions, indicating fragmented rather than coherent knowledge structures](cluster-analysis-fragmented-knowledge-profiles.md) — related
+- [Pairwise essay similarity was low across the whole sample, with a median Jaccard similarity index of 0.002](low-pairwise-essay-similarity-jaccard.md) — related

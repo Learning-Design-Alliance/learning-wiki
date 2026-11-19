@@ -97,3 +97,4 @@ Benchmark results for Gemini 1.5 Flash across three attempts; answer coincidence
 - [ChatGPT-4o showed higher consistency in correct answer rates than students, with a narrow interquartile range versus wide variability among third-year students](chatgpt-4o-consistency-narrow-iqr-endodontic-accuracy.md) — related
 - [Chatbot answers were largely stable across 5 successive attempts, with all chatbots answering 104 (52%) of the 200 questions correctly in every attempt](chatbot-answer-stability-across-five-attempts.md) — related
 - [The four LLMs' accuracy varied across medical subject categories, with weaknesses in interdisciplinary questions, behavioral health, hematolymphoid topics, neurology and medical ethics](llm-accuracy-varies-by-medical-subject-category.md) — related
+- [ChatGPT solved 55% of 76 homework problems with an average of 1.88 attempts, varying by topic from 36% to 68%](chatgpt-homework-55-percent-topic-variation.md) — related

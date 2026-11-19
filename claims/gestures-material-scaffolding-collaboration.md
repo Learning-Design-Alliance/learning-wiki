@@ -65,3 +65,4 @@ The review attributes, citing Goldin-Meadow and colleagues and Roth's review, th
 - [Teachers describe energy losing usefulness as it disperses into a larger physical space, often accompanied by spreading gestures](teachers-energy-loses-usefulness-dispersal.md) — a narrower finding that bears on this claim
 - [Gestural and metaphorical elements accompany the pulling out resource, evidencing its procedural status](pulling-out-gestural-basis.md) — a narrower finding that bears on this claim
 - [Bodily activation with gestures and poses deepened student teachers' understanding of physics concepts conveyed in a digitized dance-physics performance](bodily-activation-deepened-physics-understanding-digital-performance.md) — related
+- [The diverse perspectives of others profoundly enrich the problem-solving process, while collaboration poses its own challenges](diverse-perspectives-enrich-problem-solving.md) — related

@@ -69,3 +69,5 @@ The authors' stated caveat on the teacher survey: the sample comprised only YPT-
 - [Recent YPT participation increases perceived usefulness of regular classes and other extracurricular activities, but recent participation in other activities shows no such moderating effect](recent-ypt-participation-moderates-usefulness.md) — related
 - [Students perceive YPT-related inquiry-based activities as beneficial to soft-skill development, with a median usefulness rating of 4 out of 5](ypt-perceived-useful-soft-skill-development.md) — related
 - [Students perceived YPT-related activities as significantly more useful than regular physics classes only for debating skills, with no significant differences for other soft skills](ypt-vs-regular-classes-debating-only.md) — related
+- [Teachers rate YPT-related activities as more useful than RPC across all hard-skill types, with a self-selection caveat](teachers-rate-ypt-above-rpc.md) — related
+- [YPT-related activities show the most holistic impact on hard skills, with the highest cross-skill correlations of perceived usefulness](ypt-holistic-impact-correlations.md) — related

@@ -52,6 +52,7 @@ Integrated conceptual and quantitative problems are homework problems in which s
 ## Related Strategies
 
 - [Include a fully solved test case before the graded case in computational homework to support debugging and build confidence](test-case-before-grading-case-homework.md)
+- [Develop multiple-representation learning and homework materials in which students answer one question using several methods](multiple-representation-qc-materials-strategy.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Second-hand finding reported in the review's discussion of plagiarism concerns: 
 - [Evidence types differ systematically in probative value: detection outputs cluster at weak inferential force while admissions, observed exam behaviour and fabricated references carry the strongest profiles](evidence-types-differ-in-probative-value.md) — related
 - [Plagiarism detection software does not detect AI-generated essays because the text is original, not copied](plagiarism-software-fails-on-generated-text.md) — a broader claim this one bears on
 - [AI-detection tools can detect raw ChatGPT output but provide a weak standard of evidence, raising false-allegation concerns](ai-detection-tools-weak-evidence-standard.md) — related
+- [AI essays passed plagiarism detection, scoring 2 ± 1% on Grammarly and 7 ± 2% on TurnitIn](ai-essays-pass-plagiarism-detection.md) — a narrower finding that bears on this claim

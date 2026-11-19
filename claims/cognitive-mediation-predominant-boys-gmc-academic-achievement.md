@@ -53,3 +53,4 @@ Sex-specific serial multiple mediation analysis in a cross-sectional study of 26
 - [In the total sample of children, executive functions partially mediate the positive association between gross motor competence and academic achievement](efs-partially-mediate-gmc-aa-total-sample.md) — reports the opposite
 - [Gross motor competence correlates positively with academic achievement for the total sample, but not for boys' aiming-catching and dynamic balance](gmc-aa-correlations-significant-total-not-all-boys.md) — related
 - [Precision throw is not associated with academic performance in children, in the combined sample or by sex](precision-throw-not-associated-academic-performance.md) — related
+- [Metarepresentational competence mediates the relationship between prior knowledge (pretest) and total task score, with no significant direct effect](metarepresentational-competence-mediation-composer.md) — related

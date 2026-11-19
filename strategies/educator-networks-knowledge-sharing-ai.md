@@ -45,6 +45,7 @@ The review reports, citing Salas-Pilco (2020), a strategy of organising educator
 - [Disseminate research to practitioners through knowledge brokers and accessible formats such as short videos and social media threads](disseminate-via-knowledge-brokers.md)
 - [Join national innovation networks and build internal leadership academies to advance responsible district AI adoption](join-national-innovation-networks-ai-readiness.md)
 - [Involve instructors of each country in training the next country's group to build a multinational cooperation network](sequential-multinational-instructor-collaboration.md)
+- [Adopt blockchain for education in developing countries through a World Bank-style Community of Practice where ministries and organisations run pilots together](blockchain-education-cop-developing-countries-strategy.md)
 
 ## Examples
 -

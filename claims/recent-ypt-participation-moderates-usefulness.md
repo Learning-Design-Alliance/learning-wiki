@@ -51,3 +51,4 @@ Linear regressions on student survey data with no participation as baseline; pri
 - [Students perceive YPT-related inquiry-based activities as beneficial to soft-skill development, with a median usefulness rating of 4 out of 5](ypt-perceived-useful-soft-skill-development.md) — related
 - [Students with more weekly physics classes perceive YPT-related events as more useful, except for presentation and debating skills](physics-course-load-moderates-ypt-usefulness.md) — related
 - [Perceived usefulness of YPT activities is higher for students in their final or last-to-final year, suggesting YPT acts as a capstone building on existing skills](ypt-capstone-final-year-effect.md) — related
+- [Former YPT participants show a lasting positive bias towards YPT, rating RPC and other Non-YPT activities as less useful](former-ypt-participation-positive-bias.md) — reports the opposite

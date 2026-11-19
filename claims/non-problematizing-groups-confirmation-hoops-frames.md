@@ -67,3 +67,6 @@ Transcribed discussion of the Social Group G's beach ball data, which occurred w
 - [Most lab groups ignored the TA's data-collection instructions, which the authors read as evidence of agency that two non-problematizing groups did not take up](data-collection-agency-ignored-ta-instructions.md) — related
 - [TA interactions showed no clear pattern distinguishing lab groups that problematized the designed inconsistency from those that did not](minor-differences-ta-interactions-problematizing.md) — related
 - [Only the two non-problematizing Groups F and G had off-topic conversations exceeding one minute in the middle of the lab period](off-topic-conversations-timing-non-problematizing.md) — related
+- [An instructor's falsification pitch shifted five of seven lab groups into falsification-oriented frames for roughly half the activity](falsification-pitch-shifted-predictions-five-of-seven-groups.md) — related
+- [Instructor cues shifted students' experimental predictions more successfully than their epistemic agency](instructor-cues-shift-predictions-not-agency.md) — related
+- [TA spent roughly 60% of interaction time cuing falsification-oriented frames and never cued confirmation frames, but once cued the Hoops frame](ta-interaction-time-frame-cues-distribution.md) — related

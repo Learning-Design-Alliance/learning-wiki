@@ -76,3 +76,4 @@ Criterion-validity analysis of CM 1 courses at CU Boulder, where each class took
 - [CMR CUE scores correlate highly with aggregate exam scores (r = 0.71) and final course scores (r = 0.64) at CU, establishing criterion validity for that population](cmr-cue-criterion-validity-exam-course-correlations.md) — related
 - [The CCMI is a difficult assessment: mean score 49.0% with first-year graduate students averaging 74.5%](ccmi-difficult-assessment.md) — related
 - [CCMI scores cannot yet be straightforwardly compared across partner institutions due to low enrollment and course-content differences](ccmi-partner-institution-limitations.md) — related
+- [CLCI posttest and follow-up scores correlate more strongly with students' physics grades (r = –.42) than pretest scores (r = –.24)](clci-grades-correlation-criterion-validity.md) — related

@@ -48,3 +48,4 @@ Percentage analysis (Table 4) of students who diagnosed their own mistakes in ea
 - [Mistake type moderated diagnosability: application errors were diagnosable on the conventional problem but invocation errors were not](mistake-type-moderates-self-diagnosability.md) — reports the opposite
 - [The solved example mainly helps students invoke the correct principles (especially conservation of momentum), but invoking principles is not enough—students still fail to apply them correctly across connected sub-problems](invoking-versus-applying-principles.md) — related
 - [More students failed to invoke all correct principles than invoked principles but failed to apply them correctly, reversing the previous study's pattern](invoking-errors-outnumber-applying-errors.md) — related
+- [Productive use of assumptions simplifies problem solving and helps determine which principles apply](assumptions-simplify-problem-solving.md) — related

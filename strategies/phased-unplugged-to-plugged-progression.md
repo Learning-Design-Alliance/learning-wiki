@@ -53,6 +53,7 @@ The article recommends a phased, mixed pedagogical approach for encouraging girl
 - [Provide students access to prevalent digital tools to develop fluency and confidence as an integral part of DL education programs](provide-access-prevalent-tools-dl-fluency.md)
 - [Introduce complex semi-quantitative assessments after trainees establish foundational skills, using targeted image review sessions for challenging parameters](staggered-learning-approach-ius-training.md)
 - [Involve undergraduate and summer students in building small outreach programs as induction projects](student-built-processing-outreach-sketches-strategy.md)
+- [Teach AI concepts through everyday-context, unplugged and hands-on activities](everyday-context-unplugged-ai-activities.md)
 
 ## Examples
 -

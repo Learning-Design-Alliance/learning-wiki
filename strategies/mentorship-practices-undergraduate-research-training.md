@@ -54,6 +54,7 @@ To increase the effectiveness of mentorship, the article recommends that mentors
 - [Multi-component institutional support to encourage specialty trainees' research engagement](multicomponent-support-encourage-trainee-research.md)
 - [Build supportive classroom and home environments and use constructive feedback to strengthen self-efficacy and engagement](supportive-environment-feedback-self-efficacy-strategy.md)
 - [Use reflective journals with mentoring and emotional-support interventions to support students in complex clinical placements](rlj-mentoring-emotional-support-strategy.md)
+- [Extend a research program into a complex mentoring program with community events, educational workshops, and collaborative projects](konkoly-mentoring-expansion-strategy.md)
 
 ## Examples
 -

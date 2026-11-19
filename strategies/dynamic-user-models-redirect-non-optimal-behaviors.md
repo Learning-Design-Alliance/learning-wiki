@@ -49,6 +49,7 @@ The article recommends embedding dynamic user models that monitor students' inte
 - [Recognize high-spendency behavior and prompt students toward less spending and more generative practice](prompt-high-spendency-students-toward-generative-practice.md)
 - [Dynamically update student model thresholds during learning to counter concept drift](dynamic-threshold-updating-concept-drift.md)
 - [Use AI chatbots to provide dynamic, personalized explanations that adapt to a student's specific misunderstandings](llm-dynamic-personalized-explanations-strategy.md)
+- [Integrate affective computing to analyze user emotional state and adapt tutor responses](affective-computing-emotional-valence-extension.md)
 
 ## Examples
 -

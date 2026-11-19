@@ -49,3 +49,4 @@ Scoring analysis of the categorization task, in which four of the 20 problems be
 - [Upper-level quantum mechanics students often categorize problems by surface features rather than solution similarity](qm-students-poor-problem-categorization.md) — a broader claim this one bears on
 - [Physics faculty members' categorizations of quantum mechanics problems were rated higher overall than those of undergraduate students by faculty evaluators](faculty-qm-categorizations-rated-higher-than-students.md) — related
 - [Faculty evaluators found scoring others' quantum mechanics categorizations very challenging and sometimes preferred others' categorizations to their own](faculty-scoring-qm-categorizations-challenging.md) — related
+- [Abstract operator methods produce better student reactions than the series solution of the harmonic oscillator](operator-method-better-student-reactions-than-series-solution.md) — related

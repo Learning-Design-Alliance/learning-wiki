@@ -90,3 +90,4 @@ This is a single-case ethnography; every finding here describes one student's tr
 - [Inquiry-based Real-Time Physics labs promoted peer discussion of physics concepts, but students struggled with troubleshooting and independent investigation](rtp-labs-promoted-peer-concept-discussion.md) — related
 - [Both IPLS and non-IPLS students struggled to articulate mechanistic explanations for the negative pressure in tree xylem](both-groups-struggle-negative-pressure-explanation.md) — related
 - [Students independently characterize sources after guided work on the first source, reaching the day's research objective](guided-to-independent-source-characterization.md) — related
+- [Tasks that together cue real-world contexts, mechanistic explanation, multiple representations, and physical interpretation of mathematics increase the likelihood of student sensemaking in physics](task-features-increase-likelihood-sensemaking-physics.md) — related

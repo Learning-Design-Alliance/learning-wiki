@@ -68,3 +68,4 @@ Controlled study hint justification rate analysis: overall HJR did not differ si
 - [Assertions significantly increase unsolicited hint usage (justification and needed rates) over Messages for students regardless of prior proficiency](assertions-increase-unsolicited-hint-usage.md) — related
 - [Students rarely request on-demand hints in this tutor, with no significant differences between conditions or proficiency groups](on-demand-hint-requests-rare-and-equivalent.md) — related
 - [Training the HNU predictor on the HN Adaptive dataset alone yields an effective, generalizable proactive-hint classifier](hnu-training-dataset-generalizability.md) — related
+- [Participants requested far fewer ChatGPT hints than manual hints, but this yielded no time savings](fewer-chatgpt-hints-no-time-savings.md) — related

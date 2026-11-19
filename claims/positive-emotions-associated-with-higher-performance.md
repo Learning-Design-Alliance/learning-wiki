@@ -56,3 +56,4 @@ The commentary summarizes the Jarrell et al. (2017) study of learners' retrospec
 - [Students also use achievement emotions as cues when making postdictions about their comprehension](emotions-as-cues-postdictions.md) — related
 - [Medical students who fail and experience negative emotions risk loss of confidence and dropping out of medical school (as suggested by Jarrell et al., 2017)](failure-negative-emotions-confidence-dropout-risk.md) — related
 - [Performance outcome is strongly related to learners' emotions, with the highest performing medical students reporting the most positive emotions (as reported by Jarrell et al., 2017)](outcome-emotions-performance-feedback-medical-students.md) — possibly the same claim (merge candidate)
+- [Negative sentiment words are significantly greater in low learning outcome groups, and positive sentiment indicators higher in high learning outcome groups](sentiment-indicators-group-learning-outcome.md) — related

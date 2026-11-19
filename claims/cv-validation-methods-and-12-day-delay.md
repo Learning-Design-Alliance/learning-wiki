@@ -65,3 +65,4 @@ Questionnaire item asking "How long does the validation process take?" drew 131 
 
 ## Related Claims
 - [Students used AI mainly for retrieving pharmacological mechanisms, generating PPT outlines, and clarifying concepts under rules requiring verification and student responsibility for AI outputs](guided-ai-use-verification-rules.md) — related
+- [Blockchain's immutable ledger can support issuing, validating and sharing certificates, reducing certificate fraud and giving students ownership of their academic records](blockchain-immutable-credential-verification.md) — related

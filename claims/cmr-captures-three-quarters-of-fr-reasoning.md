@@ -53,3 +53,4 @@ Qualitative coding of FR responses to the seven Method/Reasoning questions (Q1�
 - [The CMR CUE yields an overall average score of 52.6 ± 0.9% (by student) across 15 courses at 9 institutions, with a slightly non-normal, positively skewed score distribution](cmr-cue-overall-average-52-6-percent.md) — related
 - [On CMR CUE Q5, 42% of students selected Gauss's Law, and most of those (89%) selected reasoning elements indicating they misapplied Gauss's law by ignoring the cavity's asymmetry](students-misapply-gausss-law-off-center-cavity-q5.md) — related
 - [Multiple-response multiple-correct (MRM) questions are much harder than single-response questions, with no significant discrimination differences](mrm-questions-much-harder.md) — related
+- [Items were revised or removed when student reasoning could not be mapped to responses; same-reasoning-different-answer mismatches drove CMR redesigns](spruce-item-refinement-reasoning-mapping.md) — related

@@ -56,3 +56,4 @@ Robustness SEM with control variables in the same 547-student sample; the model 
 - [CVT structural relations are largely stable across gender and prior-education groupings, supporting relative universalism under variable-centered tests](cvt-invariant-across-demographic-groupings.md) — related
 - [In the PLS inner model, maternal judgement has the largest significant path coefficient to interaction, and all six paths are significant](pls-inner-model-significant-paths-judgement-strongest.md) — related
 - [The mediation pattern from online class-related enjoyment to achievement is moderated by gender but not by major or grade](gender-moderates-enjoyment-mediation-pattern.md) — related
+- [In the reproduced model, no direct gender effects appear on variables downstream of the first six, so the data do not show the college learning environment adding to gender imbalances predictable from prior traits](no-downstream-direct-gender-effects.md) — related

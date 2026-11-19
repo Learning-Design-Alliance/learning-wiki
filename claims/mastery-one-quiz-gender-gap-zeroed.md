@@ -51,3 +51,4 @@ HLM analysis of 67 CLASP classes (Winter 2013–Winter 2016, 17,205 grades), com
 - [Offering lectures online in a flipped format with usual grading did not by itself diminish the gender grade gap](flipped-format-alone-does-not-remove-gender-gap.md) — related
 - [Female URM students face an intersectional grade gap larger than either group's alone, which was smaller in one-quiz mastery classes](intersectional-female-urm-grade-gap.md) — related
 - [A mastery class offering two quizzes per lecture retained a gender grade gap similar to usual CLASP classes](two-quizzes-per-lecture-gender-gap-remains.md) — related
+- [Each structural change benefited one demographic group only: concepts-first did not change the gender gap and retakes did not change the URM gap](course-structure-changes-group-specific-effects.md) — related

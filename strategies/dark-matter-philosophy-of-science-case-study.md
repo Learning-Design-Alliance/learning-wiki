@@ -46,6 +46,7 @@ The article proposes a presentation in which students examine the dark matter pr
 - [Pair a science culture venue with an active research programme so mediators are trained directly on live research data](scientist-sponsorship-trains-mediators-live-data.md)
 - [Guided enquiry-based programming tasks that signpost the physics and leave the programming method to the student](signposted-physics-open-programming-enquiry-task.md)
 - [Use history and philosophy of science cases, such as the falsifiability of the geocentric model, to teach what makes a theory scientific](demarcation-cases-teach-scientific-reasoning.md)
+- [Nature-of-science debate after the Rutherford experiment: theory-experiment dialectic and the role of mathematics](nature-of-science-debate-rutherford-sequence.md)
 
 ## Examples
 -

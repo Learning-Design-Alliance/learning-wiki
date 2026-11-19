@@ -72,3 +72,5 @@ Synthesis of post-project student focus group feedback in the Student Feedback s
 - [PBL organizes education around a sequence of separate problems, improving short-run performance but isolating education as a separate space from the world at large.](pbl-separate-problems-isolation.md) — related
 - [Authentic, complex level-boss tasks helped students feel prepared for real-world computational work](authentic-level-bosses-real-world-preparation.md) — a narrower finding that bears on this claim
 - [Instructors grounded computational integration in professional authenticity, career readiness, and their own research practices](instructors-ground-computation-in-authenticity.md) — related
+- [Student and teacher feedback suggests computational simulation projects can improve the learning experience in a materials science course](micromagnetics-projects-improve-learning-experience.md) — related
+- [Pupils perceive newspaper story problems as authentic, avoiding merely external contexts](pupils-perceive-nsp-authentic.md) — related

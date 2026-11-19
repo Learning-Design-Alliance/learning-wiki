@@ -183,3 +183,6 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [The article claims masterclasses help students see data as scientists see data through interaction with physicists during data analysis](masterclass-physicist-interaction-goal.md) — related
 - [Students report that interactive visualizations in class were motivating and aided understanding of core concepts](student-survey-interactive-visualizations-motivating.md) — related
 - [Students in the first session liked working in groups but were unhappy that ideas were introduced before concepts were explained](students-like-group-work-dislike-ideas-before-explanation.md) — related
+- [About half of students said the lab let them explore physics phenomena studied at school, and two thirds rated its capacity to engage students as good](lab-helped-explore-school-physics.md) — related
+- [Research indicates typical physics lab courses do not reach desired learning goals](typical-lab-courses-do-not-reach-goals.md) — related
+- [Teachers judged the VR activity effective in helping students understand and visualise particle physics and inspiring interest in science and physicists' work](vr-lab-visit-understanding-and-interest-outcomes.md) — related

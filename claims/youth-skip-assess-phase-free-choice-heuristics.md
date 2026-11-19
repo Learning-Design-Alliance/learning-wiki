@@ -54,3 +54,4 @@ Authors' interpretation of the focus group narratives: youth relied on trial and
 - [General problem-solving heuristics used in controlled conscious problem solving are biologically secondary skills requiring explicit learning](secondary-heuristics-require-explicit-learning.md) — related
 - [High school students used Google page rank as a first-order heuristic for relevance](google-page-rank-first-order-relevance-heuristic.md) — related
 - [Students exposed to the heuristic approach developed invented strategies and extended knowledge to unfamiliar situations, per the author's interpretation](heuristic-students-invented-strategies-transfer-interpretation.md) — related
+- [Problem solvers rely on experience-built heuristics, including some that engage the unconscious mind](problem-solving-heuristics-experience-built.md) — a broader claim this one bears on

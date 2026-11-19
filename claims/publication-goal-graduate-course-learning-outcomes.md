@@ -48,3 +48,5 @@ Instructor's reflective analysis of a one-semester 2011 graduate physics course 
 ## Related Claims
 - [The instructor reports spectacular learning outcomes in student confidence on the topic, attributed to extensive in-class and online discussion and boosted by journal acceptance](student-confidence-gain-from-publication-course.md) — related
 - [Peer review in the course served a dual role: improving writing and acting as a method for learning and understanding the material](peer-review-dual-role-writing-and-understanding.md) — related
+- [Placing a mandatory data-processing practicum early in the physics bachelor's curriculum led the authors to observe students acting as driving forces toward modern research data management in their working groups.](early-data-competence-drives-modern-rdm.md) — related
+- [The Workbook served as a gateway to published peer-reviewed research on singlet oxygen performed with only limited local computational resources in Cameroon](workbook-gateway-cameroon-research.md) — a narrower finding that bears on this claim

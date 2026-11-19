@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-11-19
 recheck_by: 2024
 sources:
   - id: zavaleta-bernuy-2021
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
+> **Currency** · newest study 2021 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` In the epsilon[0.5]-TS weeks, the algorithm drastically shifted to the arm with the highest previous-batch reward and left minimal room for exploration in batch 3, while the seemingly favoured arm varied across weeks and was not consistent. [→ Zavaleta-Bernuy 2021](#zavaleta-bernuy-2021)

@@ -70,3 +70,4 @@ Same quasi-experiment's t-tests on the remaining three subscales found "no stati
 - [AI-enabled personalized teaching improved several CTDI-CV subdimensions but not critical thinking self-confidence or cognitive maturity](ctdi-cv-subdimension-effects-mixed.md) — related
 - [Critical thinking gains favour TA+CBL rounds on six of seven dimensions, with no significant difference on cognitive maturity](ta-cbl-critical-thinking-dimensions-cognitive-maturity-null.md) — related
 - [The PBL step-by-step process from problem to solution is credited by the authors with improving learners' systematicity and self-confidence](pbl-stepwise-process-systematicity-self-confidence.md) — related
+- [AI code generator access reduces stress and increases eagerness to continue learning programming](codex-reduces-stress-increases-eagerness.md) — related

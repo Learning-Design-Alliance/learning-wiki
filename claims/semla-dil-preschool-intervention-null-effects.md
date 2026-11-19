@@ -51,3 +51,4 @@ Planned univariate mixed regression analysis of the cluster-randomized trial (43
 - [The Tips by Text intervention did not produce significant improvements in children's early reading-related skills (YARC) relative to control](tips-by-text-no-reading-improvement.md) — related
 - [Executive function measures predict early mathematics achievement over and above reading ability and IQ](executive-functions-predict-early-math-over-iq.md) — related
 - [Preschool executive functions robustly predict mathematical skills during preschool and later in development](preschool-ef-predicts-mathematics.md) — related
+- [Neither group, field of study, nor gender significantly predicted math post-test scores in the extended ANCOVA model](ancova-field-gender-no-significant-impact.md) — related

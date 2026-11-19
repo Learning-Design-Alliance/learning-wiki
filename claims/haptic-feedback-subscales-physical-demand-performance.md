@@ -68,3 +68,4 @@ ANCOVA of NASA-TLX subscales across all 76 live OR cases (Haptic: n = 45, Contro
 - [Simulation training with haptic feedback lowers residents' overall NASA-TLX workload during subsequent live robot-assisted sleeve gastrectomies performed without haptic feedback](haptic-training-lowers-live-or-workload.md) — a narrower finding that bears on this claim
 - [PGY-3 residents report about 10% higher overall workload than PGY-7 residents in both simulated and live robotic bariatric surgery](pgy7-lower-workload-than-pgy3.md) — related
 - [No significant workload benefit of haptic-feedback training appears in the first three live OR procedures](no-haptic-benefit-first-three-or-cases.md) — related
+- [AR workshop students reported significantly higher physical demand and effort on NASA-TLX than non-AR students](ar-higher-physical-demand-effort-nasa-tlx.md) — related

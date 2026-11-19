@@ -55,3 +55,4 @@ Qualitative descriptive study of 24 purposively sampled undergraduate health sci
 - [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md) — related
 - [Over nine in ten fresh health sciences undergraduates score above-average emotional intelligence, with the lowest dimension being regulation of emotion](fresh-health-sciences-undergraduates-high-ei-prevalence.md) — related
 - [Mentoring positions are dynamic and context-specific rather than stable innate traits, and mentors may draw on multiple positions](mentoring-positions-dynamic-context-specific.md) — related
+- [Theorists report perseverance and endurance matter more for success in theoretical physics than innate brilliance](perseverance-over-brilliance-theory-careers.md) — related

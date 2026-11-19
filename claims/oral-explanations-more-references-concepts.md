@@ -52,3 +52,4 @@ Exploratory independent t-tests comparing features of explanations generated in 
 - [Text difficulty moderates the effect of explaining modality: oral explaining outperforms written explaining on inference-based questions only for the high-difficult text](text-difficulty-moderates-explaining-modality-effect.md) — related
 - [The chat manipulation increased personal references but not rated social presence compared with the other explaining conditions](chat-condition-personal-references-not-presence-ratings.md) — related
 - [Oral explanations contained more concepts and elaborations than chat-based written explanations](oral-explanations-more-concepts-and-elaborations-than-chat.md) — related
+- [Experts refer to a significantly higher number of concepts than novices when explaining their answers (d = 1.10)](experts-mention-more-concepts-composer.md) — related

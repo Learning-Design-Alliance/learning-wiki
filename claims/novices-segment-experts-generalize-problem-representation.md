@@ -86,3 +86,4 @@ Qualitative analysis of verbatim transcriptions of the novices' blood cell discu
 - [Students new to physics attribute underlying mechanisms of phenomena to physics and strengthen connections as they experience more of the discipline](novice-students-attribute-mechanisms-to-physics.md) — related
 - [Analogies are double-edged: they can elicit alternative conceptions because students interpret the analog through prior knowledge and preferences](analogies-double-edged-alternative-conceptions.md) — related
 - [Experts use general patterns and broad categorizations when solving physics problems, but novices do not make this leap as readily](experts-categorize-novices-do-not-physics-problems.md) — possibly the same claim (merge candidate)
+- [Distinguishing fundamental physical principles from surface features is a critical aspect of problem solving](distinguish-principles-from-surface-features.md) — a narrower finding that bears on this claim

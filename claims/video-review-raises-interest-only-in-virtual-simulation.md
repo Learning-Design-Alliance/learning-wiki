@@ -73,3 +73,4 @@ Pairwise contrast from the same ANCOVA showing the video-review interest benefit
 - [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](vp-vs-other-digital-no-difference.md) — related
 - [The review reports that real-world experiential simulations offer affordances beyond virtual-only formats, including heightened presence through embodiment, place, and face-to-face social immersion](real-world-simulations-embodiment-affordances.md) — related
 - [Hands-on experiments promote epistemic and value-related situational interest more than computer simulations, while emotional situational interest does not differ](experiments-promote-epistemic-value-interest.md) — related
+- [Hands-on activities heighten students' interest in science and enhance science achievement](hands-on-interest-achievement.md) — related

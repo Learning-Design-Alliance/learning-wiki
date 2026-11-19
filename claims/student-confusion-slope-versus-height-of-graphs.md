@@ -47,3 +47,4 @@ Classroom observation during the revision lesson: while explaining why velocity 
 ## Related Claims
 - [A concept probing displacement from the velocity vs time graph showed full evolution to maximum but then regressed to earlier states, indicating no definitive learning](p3-full-evolution-then-regression.md) — related
 - [Students tend to treat potential energy vs. position graphs as position vs. time graphs, reading velocity from the slope](students-treat-ped-as-position-time-graph.md) — related
+- [Documented student errors with graph interpretation include treating graphs as pictures, confusing slope and height, confusing interval and point, and misreading signed areas](graph-interpretation-student-errors.md) — a broader claim this one bears on

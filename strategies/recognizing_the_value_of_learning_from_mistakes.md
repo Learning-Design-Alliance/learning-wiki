@@ -65,6 +65,7 @@ Errors are cognitively valuable: being corrected after committing an error produ
 - [Use low-stakes, multiple-entry warm-ups like \"Which One Doesn't Belong?\" to reduce fear of wrong answers](which-one-doesnt-belong-low-stakes-warmup.md)
 - [Explain the rationale for prediction activities and reframe failure to sustain student engagement with desirable difficulties](explain-rationale-and-reframe-failure-for-prediction-activities.md)
 - [Focus computational-modeling instruction on debugging practice, including qualitative analysis, not only correcting procedural mistakes](teach-debugging-and-qualitative-habits-of-mind.md)
+- [Immediate computer-graded feedback with multiple attempts at full credit to promote growth mindset](immediate-feedback-multiple-attempts-growth-mindset.md)
 
 ## Examples
 - **Revision-based grading**: a writing course where essays receive feedback-only first drafts, and the final grade weights the revision; students must annotate what they changed and why.

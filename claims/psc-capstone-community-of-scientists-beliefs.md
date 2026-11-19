@@ -48,3 +48,4 @@ Reflective pre/post survey of high school students at the end of Capstone events
 - [Medical students who attend a student-led peer teaching society report improved knowledge, confidence, motivation and sense of community](meded-attendance-reported-academic-and-community-benefits.md) — related
 - [Research staff rate the recruitment GOSCE as highly acceptable, with nearly all reporting it taught them something new and provided valuable feedback](gosce-recruitment-training-acceptable-to-research-staff.md) — related
 - [After the PSC Summer Camp, 85% of participants reported increased understanding and competency, with 80% feeling part of a team](psc-summer-camp-understanding-gains.md) — related
+- [The organisers found the ten-week online camp was too long, with participation ebbing and flowing and late-summer attendance depending heavily on participants' holidays](eiayc-2020-event-too-long-participation-ebbed.md) — related

@@ -37,7 +37,8 @@ Students enter their latitude and a chosen star elevation (10 degrees is suggest
 - using rising and setting positions of stars to determine cardinal directions and maintain a ship's course
 
 ## Related Strategies
-- 
+
+- [Use a historical ocean-navigation narrative as an entry point for teaching space and time concepts through stellar orientation and the calendar](ocean-navigation-narrative-astronomy-unit.md)
 
 ## Examples
 -

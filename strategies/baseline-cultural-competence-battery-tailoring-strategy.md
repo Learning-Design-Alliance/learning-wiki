@@ -52,6 +52,7 @@ The article recommends collecting baseline self-report data on cultural competen
 - [Use the GenAI-RP Scale as a diagnostic tool to identify institutional resource, training, and support needs for GenAI adoption](genai-rp-diagnostic-use-strategy.md)
 - [Use the validated KAP questionnaire to guide targeted educational interventions and programs for EVD care](evd-kap-questionnaire-guides-targeted-education.md)
 - [Use baseline questionnaires prior to educational interventions to identify problem areas for targeted CME](baseline-questionnaires-before-cme-strategy.md)
+- [Administer a pretest before training so instructors can tailor methods and materials to participants' prior understanding](pretest-informs-trainer-material-selection.md)
 
 ## Examples
 -

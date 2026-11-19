@@ -50,3 +50,4 @@ Survey item on required prerequisites, coded by discipline and typical undergrad
 - [Some instructors report that prior quantum mechanics exposure is not a good indicator of student performance in introductory QIS courses](prior-qm-exposure-not-performance-indicator.md) — related
 - [Students in introductory QIS courses vary substantially in disciplinary background within and across courses, with 25% of surveyed courses cross-listed in two or more departments](qis-intro-student-background-heterogeneity.md) — related
 - [Introductory QIS education has expanded to the undergraduate level: 16 of 28 surveyed courses are undergraduate-listed, 7 hybrid, and 5 graduate-only](qis-undergraduate-course-expansion.md) — related
+- [Participants reported being generally more versed in linear algebra and Python whilst being new to quantum computing](participants-more-versed-python-linear-algebra-than-quantum.md) — related

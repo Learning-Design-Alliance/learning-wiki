@@ -46,7 +46,8 @@ The article recommends that, given observed force levels exceeding safety thresh
 - [Novice surgeons using force feedback apply significantly less force to tissue during robotic-assisted suturing tasks](../claims/ffb-reduces-applied-force-robotic-suturing.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Provide real-time visual warnings when grip force exceeds a threshold during instrument practice](real-time-grip-force-warning-strategy.md)
 
 ## Examples
 -

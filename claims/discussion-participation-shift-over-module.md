@@ -71,3 +71,4 @@ Participation analysis of the Day 12 discussion, where Eve and Cal advanced conf
 - [Ninth graders in a five-week symbolism module increased their participation and facility with literary interpretation practices](symbolism-module-increased-interpretive-participation.md) — related
 - [DLGs create egalitarian spaces for dialogue and exchange in which pupils contribute most of the talk](dlg-spaces-dialogue-exchange-pupil-talk.md) — related
 - [Peer facilitators show two distinct talk-turn patterns: behaving like students or like a classroom authority figure](peer-facilitator-two-talk-turn-patterns.md) — related
+- [In Year 1, 26 participating educators developed and began trialing MWU! curriculum modules 2 and 4 while developing modules 3 and 7 of the seven-module curriculum.](mwu-year1-module-development-progress.md) — related

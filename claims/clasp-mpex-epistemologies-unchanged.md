@@ -68,3 +68,4 @@ MPEX-II survey administered in Fall 2008 to about 600 students in two CLASP A co
 - [Pre/post E-CLASS scores showed a small decrease in expert-like responses and no statistically significant pre-post differences in a partially reformed lab course](e-class-pre-post-no-significant-change-mixed-labs.md) — related
 - [Average nature-of-science E-CLASS score decreased slightly from 0.66 to 0.63 despite the course aiming to teach the role of experimentation](nature-of-science-e-class-decrease-066-063.md) — related
 - [Full contact teaching had little effect on expert-like thinking, with effect sizes at most |d| = 0.26](full-contact-teaching-little-attitude-effect.md) — related
+- [The class showed positive but not statistically significant self-efficacy change over the semester (normalized change 0.09, Cohen's d = 0.27)](class-positive-nonsignificant-change-0-09.md) — related

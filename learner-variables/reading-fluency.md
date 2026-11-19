@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 135 claims (87 show a difference, 26 mixed, 22 no difference) · 86 studies (41 causal, 18 associational, 13 review, 9 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 20 of 86 report an effect size · 134 claims rest on one study
+> **Evidence** · 136 claims (88 show a difference, 26 mixed, 22 no difference) · 87 studies (41 causal, 19 associational, 13 review, 9 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 20 of 87 report an effect size · 135 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -175,6 +175,7 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [Kenya's Tusome program sharply reduced grade 2 nonreaders in English and Kiswahili, with targeted-skill effect sizes of 0.4 to 2.57 SD](../claims/tusome-nonreader-reduction-effect-sizes.md) [+M] — measured as an outcome of the instruction studied
 - [Liberia's LTTP II cohort 1 improved oral reading fluency from 4.8 to 14.2 correct words per minute (0.3 SD), but gains were not sustained](../claims/lttp2-oral-reading-fluency-gains-not-sustained.md) [~W] — measured as an outcome of the instruction studied
 - [Uganda's SHRP produced oral reading fluency effect sizes ranging from 0.17 to 1.12 SD across eight local languages](../claims/uganda-shrp-fluency-effect-sizes-by-language.md) [+M] — measured as an outcome of the instruction studied
+- [Lower accuracy and near-identical reaction-time variances in the high group argue against careful reading as the explanation for their slower responses](../claims/reading-habit-explanation-rejected.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

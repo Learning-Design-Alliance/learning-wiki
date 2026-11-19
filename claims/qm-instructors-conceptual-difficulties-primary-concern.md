@@ -74,3 +74,4 @@ In individual discussion, one faculty member felt that "the misconceptions in QM
 - [Popular undergraduate modern physics textbooks contain misstatements claiming special relativity applies only to inertial frames](textbook-misstatements-sr-inertial-only.md) — related
 - [Student difficulties with mathematics, especially linear algebra, are the most frequently reported student difficulty in introductory QIS courses](qis-student-math-linear-algebra-difficulties.md) — related
 - [First-year students' conceptual grasp of linear-algebra-related quantum concepts appeared on average stronger than that of senior-level students, per anecdotal instructor observation](pictorial-course-conceptual-grasp-stronger-than-senior-course.md) — related
+- [Single-photon experiments are used mainly in beyond-first-year lab courses and upper-level quantum mechanics courses](single-photon-experiments-course-types-survey.md) — related

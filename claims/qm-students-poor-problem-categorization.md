@@ -62,3 +62,5 @@ Investigation by Lin and Singh in which professors and students from two junior/
 - [Faculty categorizations of quantum mechanics problems were rated higher overall than student categorizations by blind faculty evaluators](qm-faculty-categorizations-rated-higher-than-students.md) — possibly the same claim (merge candidate)
 - [Introductory students, unlike faculty and Ph.D. students, create surface-feature categories such as ramps, pulleys, and categories named for requested quantities like speed](students-surface-feature-categories-ramps-pulleys.md) — related
 - [Expert categorization of upper-level quantum mechanics problems is based primarily on the process involved (measurement or time evolution) rather than on fundamental principles](qm-categorization-based-on-process.md) — related
+- [Distinguishing fundamental physical principles from surface features is a critical aspect of problem solving](distinguish-principles-from-surface-features.md) — related
+- [Abstract operator methods produce better student reactions than the series solution of the harmonic oscillator](operator-method-better-student-reactions-than-series-solution.md) — related

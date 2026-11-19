@@ -74,3 +74,4 @@ Analysis of students' written work shows that even after successfully applying C
 - [Students' descriptions of the similarities between the solved and quiz problems did not correlate with their ability to solve the quiz problem](stated-similarities-no-correlation-with-solving.md) — related
 - [Most introductory students have difficulty qualitatively interpreting basic energy and momentum principles and applying them in physical situations](students-difficulty-qualitative-energy-momentum.md) — related
 - [Content-area difficulty is non-uniform: students perform better on energy-based mechanics than force-based mechanics and struggle most with momentum](content-area-difficulty-momentum-hardest.md) — related
+- [Productive use of assumptions simplifies problem solving and helps determine which principles apply](assumptions-simplify-problem-solving.md) — related

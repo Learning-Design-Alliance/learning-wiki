@@ -51,3 +51,4 @@ Focus group themes on interpersonal and social factors. One participant said "My
 - [Fear of appearing incompetent acts as both a barrier and a facilitator to physicians' engagement in feedback-related SDL](fear-of-incompetence-dual-role-sdl-feedback.md) — related
 - [Teamwork, collaborative work, interactivity, and networking are the most frequently reported physician facilitators of SDL, while medicine's on-the-job learning culture is the most cited social-influences barrier](social-influences-teamwork-facilitates-sdl.md) — related
 - [Entrepreneurs' intentions towards mentoring are influenced by peers and superiors, while family influence is marginal](peer-and-superior-influence-mentoring-intentions.md) — related
+- [10Academy's near-peer industry mentoring achieved 90% job placement among 105 trainees with salaries 5x peer levels](10academy-90-percent-job-placement.md) — related

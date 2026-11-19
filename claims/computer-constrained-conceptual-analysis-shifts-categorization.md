@@ -50,3 +50,4 @@ Study by the author's group in which novices were constrained by a computer-base
 - [Novices and experts differ in problem representation: novices segment the problem and use surface analogies, while experts apply general underlying principles](novices-segment-experts-generalize-problem-representation.md) — related
 - [Upper-level quantum mechanics students often categorize problems by surface features rather than solution similarity](qm-students-poor-problem-categorization.md) — related
 - [Experts use general patterns and broad categorizations when solving physics problems, but novices do not make this leap as readily](experts-categorize-novices-do-not-physics-problems.md) — related
+- [Students using the Hierarchical Analysis Tool (HAT) showed significant problem-solving performance differences compared with students solving problems traditionally](hat-tool-improves-problem-solving-behavior.md) — a broader claim this one bears on

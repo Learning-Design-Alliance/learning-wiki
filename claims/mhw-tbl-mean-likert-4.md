@@ -64,3 +64,4 @@ Descriptive statistical analysis of the pilot's 5-point Likert questionnaire (1 
 - [Learners rated the circuit-measuring cooperative system positively on a five-point Likert questionnaire](likert-questionnaire-positive-circuit-measuring-system.md) — related
 - [Students rated the first-year nanoengineering seminar favorably across instruction effectiveness, understanding, organization, and instructional methods in two offerings](favorable-student-ratings-nano-seminar.md) — related
 - [Graduate students rate the Problem Finding course as relevant, worthwhile and useful for their future and career (M = 4.58)](pf-course-rated-relevant-worthwhile-useful.md) — related
+- [Beta testers and deployed pilot users gave generally positive recommendation scores, with MR educators rating the games highest](virtual-scanner-games-feedback-scores.md) — related

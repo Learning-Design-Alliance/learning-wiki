@@ -48,3 +48,5 @@ Early observational data from the Kenyan library tablet project one month after 
 ## Related Claims
 - [Acing the full KCSE drill collection requires sustained effort well beyond minimal correct answers](acing-kcse-drill-collection-requires-sustained-effort.md) — related
 - [Tablet-based mathematics education can be extended into libraries in low-income regions under specific conditions](tablet-education-feasible-in-low-income-libraries.md) — a broader claim this one bears on
+- [Voluntary participation in the library-model program reached 11 libraries and 1301 students in 2021, with 450 students earning enough SMLY to purchase a tablet](kenya-library-model-participation-1301-students.md) — related
+- [Adoption of the library program was initially slow and then increased dramatically through 2020 into 2021](library-model-adoption-slow-then-dramatic.md) — related

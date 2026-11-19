@@ -53,3 +53,4 @@ Thematic analysis of qualitative feedback questionnaires from trainees; the arti
 - [Participants rated the immersive VR hypothermia training very positively, with realism 8.87/10 and usefulness scores above 4.7/5](vr-als-training-positive-perception-ratings.md) — related
 - [Students valued online group discussions positively, with fifth-year students valuing them most](online-group-discussions-positive-value-fifth-year.md) — related
 - [Stop-and-go debriefing shows no significant difference from post-scenario debriefing in skill acquisition at four weeks in medical simulation training](stop-and-go-debriefing-no-skill-acquisition-difference.md) — related
+- [Community building was the most valued aspect of the 2021 Piszkéstető week, above instrumentation and observing content](konkoly-community-building-most-valued.md) — related

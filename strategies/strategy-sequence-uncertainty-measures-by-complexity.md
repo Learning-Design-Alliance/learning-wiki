@@ -46,7 +46,8 @@ The article recommends introducing measurement uncertainties with the simplest m
 - [Middle school mathematics curricula in the USA, Germany, and the Netherlands introduce the operations underlying simpler spread measures years before the standard deviation](../claims/curricula-sequence-math-operations-before-standard-deviation.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use statistical standard deviations alongside physical uncertainties to interrogate data sets for outliers](combine-statistical-and-physical-uncertainty-metrics.md)
 
 ## Examples
 -

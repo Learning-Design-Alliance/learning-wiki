@@ -56,3 +56,4 @@ Authors' interpretation of the dominant-role distributions, offered without stat
 - [In the Hermione-Slacker mode, a student (typically female) shoulders a disproportionate share of managerial lab work for unprepared partners, stunting identity growth](hermione-slacker-managerial-role-women.md) — related
 - [Averaged code fractions corroborate the cluster result: men handle equipment more and women use laptops more in inquiry labs](inquiry-lab-code-fractions-corroborate-clusters.md) — related
 - [In traditional guided-verification physics labs, no gender difference appears in the distribution of behaviour profiles](no-gender-difference-traditional-labs.md) — related
+- [No statistically significant gendered difference in laptop, calculator, and paper use was found in either lab course, and partner agreements showed no significant effect on these activities](no-gender-difference-notekeeping-activities.md) — related

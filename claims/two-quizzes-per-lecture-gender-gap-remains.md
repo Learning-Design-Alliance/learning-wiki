@@ -51,3 +51,6 @@ HLM analysis of the single M2Q mastery class (N = 321 grades) shows a gender gap
 - [Offering lectures online in a flipped format with usual grading did not by itself diminish the gender grade gap](flipped-format-alone-does-not-remove-gender-gap.md) — related
 - [Female URM students face an intersectional grade gap larger than either group's alone, which was smaller in one-quiz mastery classes](intersectional-female-urm-grade-gap.md) — related
 - [Mastery CLASP classes with at most one quiz per lecture show no gender grade gap, unlike usual CLASP classes where female students' grades are about a quarter standard deviation lower](mastery-one-quiz-gender-gap-zeroed.md) — related
+- [Each structural change benefited one demographic group only: concepts-first did not change the gender gap and retakes did not change the URM gap](course-structure-changes-group-specific-effects.md) — related
+- [Controlling for incoming GPA does not significantly change the gender gap in either retake or non-retake classes](gpa-control-does-not-explain-gender-gap.md) — related
+- [Offering optional retake exams eliminated the gender gap in course grades in introductory physics for biological science students](retake-exams-eliminate-gender-grade-gap.md) — related

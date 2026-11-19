@@ -47,3 +47,4 @@ Attendance report from the project's own abstract and conclusion describing the 
 
 ## Related Claims
 - [Pairing accurate scientific explanations with astonishing astronomical images is validated as an effective outreach and educational tool](astrophotography-explanations-with-images-effective.md) — a broader claim this one bears on
+- [In-person quantum outreach activities scored higher than online conferences in visitor satisfaction ratings](in-person-outreach-scored-better-than-online.md) — related

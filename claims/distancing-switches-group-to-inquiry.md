@@ -50,3 +50,4 @@ The author's concluding interpretation of the case study: students offered ideas
 - [Epistemic distancing plays a critical role in student groups' construction of a safe space for collaborative sensemaking in physics tutorials](epistemic-distancing-builds-safe-space-sensemaking.md) — a broader claim this one bears on
 - [After the instructor left, the group sustained mechanistic sensemaking discussion of the graph discrepancy on its own](group-sustains-sensemaking-after-instructor-leaves.md) — related
 - [Excessive epistemic distancing led one tutorial group to avoid discussing its ideas in its first tutorial discussion](excessive-distancing-avoids-discussion.md) — related
+- [Instructor cues shifted students' experimental predictions more successfully than their epistemic agency](instructor-cues-shift-predictions-not-agency.md) — related

@@ -52,3 +52,4 @@ HLM analysis of N = 16,621 students in 73 classes fits equation 2 and reports an
 - [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](race-gender-grade-differences-persist.md) — related
 - [In STEM courses taught by instructors with more fixed mindsets, underrepresented minority students' grade gaps are larger than in growth-mindset instructors' courses](fixed-mindset-instructors-larger-racial-grade-gaps.md) — related
 - [URM students consistently earn lower GPAs than non-URM peers, roughly 0.3 grade points lower among chemistry, computer science, engineering, mathematics, and physics majors](urm-lower-gpa-across-majors.md) — related
+- [URM students receive more peer nominations than non-URM peers in some introductory physics networks, contrary to stereotype-based expectations](urm-students-over-nominated-peer-recognition.md) — related

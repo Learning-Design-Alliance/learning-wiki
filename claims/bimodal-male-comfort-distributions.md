@@ -51,3 +51,4 @@ Graphical analysis (box and whisker and density plots in R) of gender-stratified
 ## Related Claims
 - [Males report significantly higher median comfort than females for upper-level, gender, and religion related interactions](males-higher-comfort-upper-level-gender-religion.md) — related
 - [Third-year medical students report lower comfort navigating diversity-related challenging scenarios with peers and superiors than with patients (p < 0.0001)](students-lower-comfort-peer-superior-than-patient-scenarios.md) — related
+- [No apparent patterns between gender and control or agreement scores in the preliminary subset](no-gender-pattern-dominance-scores-preliminary.md) — related

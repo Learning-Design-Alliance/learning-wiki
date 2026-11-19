@@ -46,6 +46,7 @@ The paper proposes that AI in education should follow three principles. First, e
 ## Related Strategies
 
 - [Four design principles for educational AI that empowers epistemic agency rather than passive offloading](four-design-principles-epistemic-agency-ai.md)
+- [Integrate affective computing to analyze user emotional state and adapt tutor responses](affective-computing-emotional-valence-extension.md)
 
 ## Examples
 -

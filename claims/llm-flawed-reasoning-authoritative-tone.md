@@ -52,3 +52,4 @@ Authors' qualitative observation from analyzing model responses in this evaluati
 - [Validator false-negative cases reveal structural reasoning weaknesses, including answer-schema misinterpretation and internal inconsistency](code-gen-validator-fn-reasoning-weaknesses.md) — related
 - [Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks](students-view-llms-useful-but-requiring-critical-use.md) — related
 - [General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources](llm-accuracy-hallucination-coaching-risk.md) — a broader claim this one bears on
+- [GPT-4 could not reproduce novice reasoning when prompted, and failed on physics questions not phrased in canonical physics tone and nomenclature](gpt4-limitations-novice-emulation-informal-prompts.md) — related

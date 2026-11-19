@@ -57,3 +57,4 @@ Self-report questionnaire from a focus group of school pupils at one school, rep
 - [A Quantum Rules! outreach visit increases upper-secondary students' agreement that quantum science is important for society](quantum-rules-visit-increases-perceived-societal-importance.md) — related
 - [Space and life in outer space are the most interesting science topics for learners, and learning about astronomical objects promotes abstract thought](astronomy-most-interesting-science-topic.md) — related
 - [About half of the students had not previously considered outreach skills to be generally applicable to their careers](outreach-skills-transferability-unexpected-learning.md) — related
+- [Teachers and common visitors scored better than students across all satisfaction categories in quantum outreach events](teachers-score-better-than-students-outreach.md) — related

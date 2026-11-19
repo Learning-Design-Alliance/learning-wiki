@@ -46,6 +46,7 @@ The strategy is to implement "perguntas 'disparadoras' que convidem os alunos a 
 ## Related Strategies
 
 - [Center the sequence on naked-eye observation and registration of the Moon and Sun, using ephemeris tables and free sky simulators when direct observation is not possible](observation-registration-moon-sun.md)
+- [Use Cultural Astronomy questions and naked-eye sky experiences as strategic entry doors for astronomy teaching](cultural-astronomy-entry-doors-teaching-strategy.md)
 
 ## Examples
 -

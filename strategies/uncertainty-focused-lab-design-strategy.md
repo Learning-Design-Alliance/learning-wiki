@@ -49,6 +49,7 @@ The transformed course replaced verification labs with activities where students
 ## Related Strategies
 
 - [Highlight measurement-uncertainty concepts in data collection through justified data-collection decisions](highlight-uncertainty-in-data-collection-strategy.md)
+- [Use SPRUCE pre-post feedback to identify and address challenging measurement uncertainty concepts at the classroom level](spruce-pre-post-instructor-feedback-strategy.md)
 
 ## Examples
 -

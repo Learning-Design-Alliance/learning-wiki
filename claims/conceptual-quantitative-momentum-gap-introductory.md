@@ -50,3 +50,6 @@ Three groups of introductory students received multiple-choice questions: 138 st
 - [Students perform better on conceptual questions of an IPP when the paired quantitative question is also given, for at least three of five pairs](conceptual-questions-better-when-paired-with-quantitative.md) — related
 - [Pairing a conceptual question with a quantitative question does not significantly improve quantitative performance (H1 not supported)](quantitative-performance-not-improved-by-pairing.md) — related
 - [Students seldom convert conceptual questions into quantitative ones, even when explicitly encouraged by an interviewer](students-avoid-conceptual-to-quantitative-conversion.md) — related
+- [ChatGPT solved 10 of 12 clicker questions, corresponding to a 93% clicker score under the course's credit scheme](chatgpt-clicker-93-percent.md) — related
+- [Peer Instruction improved student performance on conceptual problems significantly, and slightly improved quantitative performance when quantitative problems counted toward the grade](peer-instruction-improves-conceptual-performance.md) — related
+- [In a controlled study, students posed quantitative-conceptual problem pairs answered conceptual problems correctly at a much larger rate than students posed only the qualitative problem](quantitative-conceptual-pairs-improve-conceptual-performance.md) — related

@@ -73,3 +73,4 @@ Same anonymous Likert survey, retrospective self-report item: "69.6% strongly ag
 - [First-year medical students reported broad interest in monthly, workshop-style anatomy review sessions using MCQ-format questions](student-interest-monthly-workshop-mcq-format.md) — related
 - [After the workshop, most participants strongly agreed they were interested in surgery as a profession, with no neutral or disagreeing responses](post-workshop-sentiment-strongly-favored-surgery.md) — related
 - [K-12 teachers who attended the NiCE workshop reported large increases in both their knowledge of network concepts and their likelihood of using them in the classroom](nice-workshop-teacher-knowledge-use-increase.md) — related
+- [Student feedback on the Quantum Communications Lab workshop was assessed as very positive, with attendees of diverse profiles showing interest in different fundamentals of quantum communication](quantum-comm-lab-positive-student-feedback.md) — related

@@ -66,3 +66,4 @@ Theme from the same four structured pilot interviews on medical studies' role in
 ## Related Claims
 - [Academic behaviors have the most immediate effect on course grades; directly targeting grit is not an evidenced lever](academic-behaviors-most-immediate-effect-grades.md) — reports the opposite
 - [Stable Dispositions such as conscientiousness predict academic success partly through effort, with some independence from cognitive ability](stable-dispositions-predict-academic-success-through-effort.md) — related
+- [Theorists report perseverance and endurance matter more for success in theoretical physics than innate brilliance](perseverance-over-brilliance-theory-careers.md) — related

@@ -48,6 +48,7 @@ The article recommends PSOT as a tool for faculty at smaller institutions where 
 - Psot Observation Tool
 - [Use three continuous improvement mechanisms: annual Advisory Council meetings, program surveys, and weekly leadership meetings](three-mechanisms-residency-continuous-improvement.md)
 - [Peer Coaching](peer_coaching.md)
+- [Use the PCK-Q questions for LA assessment or training, administered in a single set or 1-2 per week](pckq-questions-assessment-and-training.md)
 
 ## Examples
 -

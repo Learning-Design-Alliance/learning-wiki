@@ -53,3 +53,4 @@ Instructional-log analysis showed Treatment teachers' spring modifications to GC
 - [Nearly all teachers implemented the TEC Summer Learning Program as planned despite wide variation in program conditions](tec-summer-high-fidelity-despite-variation.md) — related
 - [Teachers reported increased motivation and confidence leading groups and new instructional strategies from using the TEC curriculum](tec-summer-teacher-outcome-gains.md) — related
 - [Teachers' most frequent needs were understanding students' cognitive deficits, further instruction in the emergence theory-based curriculum, and opportunities to plan lessons together](teacher-needs-themes-qualitative.md) — related
+- [New graphing/analysis/modeling interfaces were developed in Year 1 in response to educator feedback, including Gaia cross-matching to remove field stars and a sonification feature.](year1-interfaces-developed-from-educator-feedback.md) — related

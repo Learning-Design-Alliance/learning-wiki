@@ -114,6 +114,7 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [Use family recognition and weekly ranked scoring to incentivize intern motivation](../strategies/family-recognition-incentive-mechanism.md)
 - [Gamified case-based discussion with peer-to-peer competition and teamwork as an active-methodology comparator](../strategies/gamified-cbd-competition-teamwork-strategy.md)
 - [Use a gamified quiz platform (Kahoot!) as a playful learning check after the calculation tasks](../strategies/kahoot-quiz-learning-check-strategy.md)
+- [University students design and monitor gamified activities (escape room and Kahoot! quiz) to teach an SDG to secondary students](../strategies/escape-room-kahoot-sdg-strategy.md)
 
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)

@@ -46,6 +46,7 @@ Because the FCI is administered before instruction, its question-level results c
 - [Concept Probing](concept-probing.md)
 - [Diagnostic Assessment](diagnostic-assessment.md)
 - [Baseline Assessment](baseline-assessment.md)
+- [Administer a pretest before training so instructors can tailor methods and materials to participants' prior understanding](pretest-informs-trainer-material-selection.md)
 
 ## Examples
 -

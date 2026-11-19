@@ -18,7 +18,7 @@ sources:
 # Multi-armed randomized trial analysis
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies (2 causal, 1 theoretical), `q1`–`q3` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 4 studies (3 causal, 1 theoretical), `q1`–`q3` · 0 of 4 report an effect size · 5 claims rest on one study
 
 ## Description
 The report's guidance is that analysts running studies with several intervention arms should not simply reuse two-group methods: estimators "need to be modified for the multi-armed design," hypothesis tests across pairwise contrasts require multiple comparison adjustments, and CACE estimation demands attention to its complex identifying assumptions. The principle directs evaluation design and analysis choices in multi-armed education studies.
@@ -31,12 +31,14 @@ The report's guidance is that analysts running studies with several intervention
 - **AI-controlled experimental sampling: multi-armed bandit and adaptive design optimization methods for running education experiments at scale**: The article frames the experimental process itself as an efficient search problem that AI can play a major role in. It notes that educational data mining research "has already started looking at dynamically assigning subjects to different learning conditions based on multi-armed bandit models," that cognitive model-comparison experiments have used adaptive design optimization, and that adaptive sampling is common in medical research. In the long term, automated experimentation may compare the effectiveness of different services or content modules by randomly selecting them from open repositories, allowing direct comparison of theories and exploration of interactions between theoretically-grounded constructs. (Nye (2016))
 - **The megastudy paradigm: a large field experiment simultaneously testing many interventions in the same sample with the same preregistered outcome**: A megastudy is defined by the article as "a large field experiment that simultaneously tests a variety of interventions developed by different scientific teams targeting theoretically distinct mechanisms, providing an apples-to-apples comparison of efficacy by doing so in the same sample and with the same preregistered outcome". In this article, 156 behavioral scientists submitted nudge ideas that were screened, developed collaboratively, and tested in 16 randomized conditions. The paradigm had previously been applied to vaccination, physical exercise, and democratic attitudes, and the authors argue it reduces the marginal cost of field research for individual teams. (Duckworth et al. (2025))
 - **Thompson Sampling as a Bayesian probability-matching multi-armed bandit algorithm for adaptive assignment**: The article describes Thompson Sampling as a probability-matching algorithm for the stochastic multi-armed bandit problem, in which "the probability of assignment is proportional to the probability that the arm is optimal". It is "a Bayesian algorithm that maintains a posterior distribution over each reward" using a Beta prior with parameters alpha_k and beta_k; arms are chosen by sampling from the posteriors and picking the highest sample, with posteriors updated from observed rewards. The study used a uniform prior (alpha_k = beta_k = 1) and applied TS to adaptively assign students to email versions. (Zavaleta-Bernuy et al. (2022))
+- **Prefer uniform random allocation when arm means are not significantly different, to preserve statistical power in adaptive experiments**: When adaptive bandit experiments show no significant difference between conditions, the article recommends keeping uniform random allocation rather than letting the bandit exploit: "these algorithms lose statistical power compared to uniform random (i.e. traditional A/B testing) by favouring one arm over others." This preserves balanced data and instructors' ability to make beneficial choices based on experimental results. (Yanez et al. (2022))
 
 ### Claims
 - [Variance terms in multi-armed RCT estimators need slight adjustment under the finite-population framework, which can reduce precision](../claims/variance-adjustment-reduces-precision-multi-armed.md) [+W]
 - [Weekly behaviorally informed email nudges to elementary school teachers slightly improve students' math progress (1.89% increase) over a 4-week intervention](../claims/email-nudges-teachers-boost-math-progress.md) [+M]
 - [The most effective intervention, Nudging Weekly Logins, increased students' math progress by 5.06% (3.30% after winner's-curse adjustment) and was the only intervention significant after multiple-comparison correction](../claims/weekly-login-nudge-best-intervention.md) [+M]
 - [Thompson Sampling drastically shifted assignment toward a favoured arm with minimal exploration room, but the favoured arm varied across weeks](../claims/ts-drastic-shift-inconsistent-favoured-arm.md) [+W]
+- [Thompson Sampling and TS† exploit a single arm even when no significant difference exists among arm means](../claims/bandit-exploitation-without-significant-arm-difference.md) [+M]
 
 ## Related Research Methods
 
@@ -50,6 +52,7 @@ The report's guidance is that analysts running studies with several intervention
 - Nye, B. D. (2016). ITS, The End of the World as We Know It: Transitioning AIED into a Service-Oriented Ecosystem. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-016-0098-8
 - Duckworth, A. L., Ko, A., Milkman, K. L., et al. (2025). A national megastudy shows that email nudges to elementary school teachers boost student math achievement, particularly when personalized. Proceedings of the National Academy of Sciences of the United States of America. https://doi.org/10.1073/pnas.2418616122
 - Zavaleta-Bernuy, A., Zheng, Q.Y., Shaikh, H., Nogas, J., Rafferty, A., Petersen, A., & Williams, J.J. (2022). Using Adaptive Experiments to Rapidly Help Students. arXiv preprint. https://arxiv.org/abs/2208.05092
+- Yanez, F. J., Zavaleta-Bernuy, A., Han, Z., Liut, M., Rafferty, A., & Williams, J. J. (2022). Increasing Students’ Engagement to Reminder Emails Through Multi-Armed Bandits. https://arxiv.org/abs/2208.05090
 
 # Design-based estimation framework extended from two-group RCTs to multi-armed RCTs
 

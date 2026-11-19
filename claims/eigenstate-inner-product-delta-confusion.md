@@ -57,3 +57,4 @@ Open-ended question administered to 46 upper-level undergraduates after traditio
 - [Undergraduates struggled with a generic operator acting on a generic quantum state: 35% identified the correct position-representation form on a multiple-choice question and only 6% wrote it on the open-ended question](ug-generic-operator-generic-state-difficulty.md) — related
 - [Only 27% of undergraduates correctly wrote ⟨p|p̂|p′⟩, and 8% invoked an incorrect normalization condition, often confusing the Kronecker delta with the Dirac delta function](ug-incorrect-normalization-kronecker-dirac-confusion.md) — related
 - [Mathematics functions as a barrier to entry that excludes non-specialists from quantum computing knowledge](mathematics-barrier-quantum-entry.md) — related
+- [Inconsistent notations across various texts and online resources confused students and made it difficult to balance learning from multiple resources](notation-inconsistency-confusion-qc.md) — related

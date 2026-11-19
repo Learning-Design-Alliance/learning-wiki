@@ -53,3 +53,4 @@ Interview transcript segment at 28:20–29:15 in which Jim explains choosing the
 - [Students videotaped in a UNH cooling lab showed intense engagement and negotiation of meaning while connecting equation parameters to physical quantities](unh-cooling-lab-engagement.md) — related
 - [One student gave a computational-tool explanation of the velocity equation but explained an isomorphic money equation via base+change, with the epistemological difference that he viewed physics equations as memorization and math equations as understanding why they work](devon-epistemology-shift-isomorphic-equations.md) — related
 - [Students in open-ended experiments treat the professor as the primary epistemological authority](professor-as-epistemological-authority-open-ended.md) — related
+- [Student difficulties using graphs in physics are often epistemological framing errors, not just transferred math difficulties](framing-errors-graphs-physics.md) — related

@@ -53,3 +53,4 @@ Questionnaire survey of the 13 teachers using a 5-point Likert scale on ChatGPT'
 - [ChatGPT-generated art lesson plans pose challenges of impracticality, overlooked safety issues, and required teacher revision time](chatgpt-lesson-plan-challenges-practicality-safety.md) — reports the opposite
 - [Teachers rated ChatGPT as effective for interdisciplinary integration, with 61% giving ratings of 4 or above](chatgpt-supports-interdisciplinary-integration-ratings.md) — related
 - [Teachers adopted three distinct methods for AI-assisted lesson planning, with most (60%) preferring to outline a framework first and then use ChatGPT to refine it](three-teacher-methods-chatgpt-lesson-planning.md) — related
+- [Teachers rate the application as useful for lesson planning and class management, with a usefulness score of 4.40.](teacher-usefulness-score-440.md) — related

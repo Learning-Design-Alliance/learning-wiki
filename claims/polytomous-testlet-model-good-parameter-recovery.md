@@ -51,3 +51,4 @@ Simulation study mimicking the real test structure (3 passages, 14 items each, l
 - [A multidimensional IRT model with simple structure fits testlet-based reading data better than both the general polytomous testlet model and the standard 2PL/GPCM](mirt-ss-fits-testlet-data-better.md) — related
 - [The GPE model's parameters are recoverable via Bayesian estimation in simulation](gpe-model-parameter-recovery-simulation.md) — possibly the same claim (merge candidate)
 - [Simulated-data study shows difficulty and skill are estimated from few data, while discrimination and variance require far more (at least 30 solvers; 50 problems and 150 students)](simulation-data-requirements-parameter-estimation.md) — related
+- [Linear regression trained on simulated student data recovers the injected weight parameters linking five activity inputs to exam performance](regression-recovers-injected-weights-simulated-student-data.md) — a narrower finding that bears on this claim

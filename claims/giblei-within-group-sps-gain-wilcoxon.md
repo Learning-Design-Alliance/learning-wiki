@@ -54,3 +54,4 @@ Wilcoxon signed-rank test within the experimental group (N=46), applied because 
 - [Science process skills scores fell from pretest to posttest within the control group under traditional laboratory instruction, without a significant change](traditional-lab-instruction-no-sps-improvement.md) — related
 - [Inquiry-based biology laboratory courses produce significantly higher learning gains than non-inquiry laboratory courses, with a mean effect size of 0.73 in controlled studies](inquiry-labs-significantly-higher-learning-gains.md) — related
 - [Pre-test to post-test scores rose significantly on all three topics after pre-class assignments, in one single-group pre-post study](preclass-assignment-learning-gains.md) — related
+- [Science process skills of physics education students rose significantly from after three to after six guided inquiry practicum activities in a one-group pre-post comparison](guided-inquiry-practicum-improves-science-process-skills.md) — related

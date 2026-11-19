@@ -52,3 +52,4 @@ Survey reactions to the use of virtual worlds on a 5-point Likert scale (Table 1
 - [Telecollaboration with peers across borders had an additional motivational effect on pupils beyond appreciation of the virtual-world tasks themselves](tila-telecollaboration-additional-motivational-effect.md) — related
 - [PBL students experienced the dynamic interplay of lecture and group work as providing security and comfort, and highlighted realistic project tasks as motivating](pbl-lecture-groupwork-security.md) — related
 - [Most pilot participants preferred virtual delivery of the microaggression workshops despite the authors' initial expectation that in-person formats would build community best](virtual-delivery-preferred-for-dei-workshops.md) — related
+- [Combining in-person tactile activities with virtual sound-only activities is the article's recommended post-pandemic modality](combined-in-person-tactile-and-virtual-sonic-activities.md) — related

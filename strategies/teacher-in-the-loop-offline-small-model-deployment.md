@@ -43,6 +43,7 @@ The article recommends deploying the adapted, quantized 4B model as an offline b
 - [Deploy fine-tuned compact local 8B LLMs as free classroom and home story generators with adult human oversight and safety filtering](local-compact-llm-story-generation-with-oversight.md)
 - [Disclose quantization trade-offs, audit bias, and establish data governance before live deployment of quantized educational AI](quantized-edtech-governance-deployment-strategy.md)
 - [Integrate AI-formative tools state-wide and deploy offline-capable Edge AI servers](statewide-ai-formative-integration-edge-servers.md)
+- [Local deployment via PyPI installation or flash-drive distribution for regions with limited internet](local-deployment-flash-drive-pypi-distribution.md)
 
 ## Examples
 -

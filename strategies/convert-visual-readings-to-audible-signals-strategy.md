@@ -47,6 +47,7 @@ The article's core intervention strategy is to keep the blind student inside the
 - [Provide a sonified HUDF alternative for visually impaired students alongside the visualization](hudf-sonification-visually-impaired-accommodation.md)
 - [Replace visual node identification with audible signals so blind students can actively perform physics-lab measurements](audible-signal-replaces-visual-node-identification-strategy.md)
 - [Leave some apparatus readings unadapted to promote collaborative work between blind and sighted students](unadapted-readings-promote-collaborative-work-strategy.md)
+- [Run the inertia lab through a tactile operation protocol: disk selection, touch-positioning, rope winding, and button-pressed audio readout](strategy-tactile-operation-protocol-inertia-lab.md)
 
 ## Examples
 -

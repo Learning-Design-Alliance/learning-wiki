@@ -55,3 +55,4 @@ The editorial reports, from a special-issue study of LLM-based formative assessm
 - [Clusters computed from pre-trained LLM embeddings show low overall alignment with theory-driven Knowledge Profiles of student biology responses](llm-embedding-clusters-low-alignment-kps.md) — related
 - [The Anna Karenina effect: the lower the quality of a Knowledge Profile, the less similar its responses are to each other in LLM embedding space](anna-karenina-within-kp-similarity-decreases.md) — related
 - [The most common student misconception of the big bang is an explosion of pre-existing matter into empty space](big-bang-explosion-into-empty-space-misconception.md) — related
+- [Clustering solutions by AI grading scores and similarity-of-approach roughly aligns with manual grading clusters and total scores](ai-clustering-aligns-manual-grading.md) — related

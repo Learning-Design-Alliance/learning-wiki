@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-19
 sources:
   - id: servais-elliot-l-2025
     resource: "https://doi.org/10.1007/s00464-024-11472-9"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Mean force applied across all exercises combined was significantly reduced with force feedback (1.96 N vs 2.53 N, p = 0.005). [→ Servais Elliot L. 2025](#servais-elliot-l-2025)

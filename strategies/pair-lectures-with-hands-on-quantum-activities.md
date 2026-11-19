@@ -50,6 +50,7 @@ The article recommends supplementing traditional quantum computation course topi
 - [Incorporate numerical calculation into introductory quantum courses to counteract abstraction-driven misconceptions](incorporate-numerical-calculation-in-quantum-courses.md)
 - [Integrate simulation-based education into traditional lecture-based teaching during the clinical apprenticeship phase of medical imaging courses](integrate-sbe-into-tbe-clinical-apprenticeship-phase.md)
 - [Supplement lectures with hands-on group problem-solving sessions pairing undergraduates with graduate mentors](hands-on-graduate-mentorship-sessions-strategy.md)
+- [Use Python quantum code libraries such as Qiskit and Netsquid to deliver simulation-based exercises and support autonomous learning](python-quantum-libraries-simulation-exercises.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Episode 3 case analysis of the oral exam: Larry realized unprompted that he need
 ## Related Claims
 - [A student solving a complex physics problem builds compound representations by linking semiotic resources across multiple modes](compound-representations-built-by-coordinating-resources.md) — related
 - [The disciplinary affordance of one semiotic resource can hinder the use of another during problem solving](disciplinary-affordances-can-hinder-other-resources.md) — related
+- [Productive use of assumptions simplifies problem solving and helps determine which principles apply](assumptions-simplify-problem-solving.md) — related

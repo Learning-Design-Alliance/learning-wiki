@@ -41,6 +41,7 @@ The review's implications for practice recommend that teachers "think carefully 
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
 - [Enrich blended courses with varied authentic online resources and mobile-device access, per learner recommendations](enrich-blended-courses-resources-mobile-access.md)
 - [Integrate a Google Sites platform as a central learning support complementing tutorial sessions and portfolio monitoring](google-sites-central-complementary-learning-support.md)
+- [Design m-learning experiences as long-term studies targeting high-level skills and exploiting device mobility and context](long-term-mobile-learning-design-strategy.md)
 
 ## Examples
 -

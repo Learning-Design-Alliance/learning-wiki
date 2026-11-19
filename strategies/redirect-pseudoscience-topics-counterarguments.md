@@ -47,6 +47,7 @@ When students propose topics already covered in class or promoting pseudo-scienc
 
 - [Student Voice In Curriculum Planning](student-voice-in-curriculum-planning.md)
 - [Institute an early topic-registration deadline and announced milestones to counter procrastination on long projects](topic-deadline-milestones-video-project.md)
+- [Reflective question set for instructors teaching topics garnering significant media attention](reflective-questions-teaching-hyped-topics.md)
 
 ## Examples
 -

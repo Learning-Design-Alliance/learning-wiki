@@ -49,3 +49,4 @@ Phenomenographic analysis of lab norms found "Weekly check-ins were vital to sup
 - [Mentees in remote REUs emphasized the importance of a quality mentor-mentee relationship, which developed more gradually without in-person contact](mentor-mentee-relationship-quality-remote-reu.md) — related
 - [Virtual meeting options gave parents more flexible scheduling opportunities to communicate with educators during remote schooling](virtual-meetings-flexible-parent-communication.md) — related
 - [Mentees appreciated the remote REU format for flexibility and developing as independent learners](remote-format-independence-benefits.md) — related
+- [Working from home introduced motivational challenges in remote REU programs](remote-reu-motivational-challenges.md) — related

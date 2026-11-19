@@ -50,3 +50,4 @@ Authors' report of a single real laboratory session with one student blind from 
 ## Related Claims
 - [A blind student using an audio-converting measurement device obtained a linear thermal expansion coeﬃcient for aluminum within the expected range](blind-student-audio-device-thermal-expansion-within-range.md) — related
 - [A well-tested introductory physics laboratory path adapted to a vocational school produced learning not comparable to that in other upper secondary schools](vocational-school-physics-lab-pilot-unsatisfactory-results.md) — related
+- [A blind engineering student autonomously measured the moment of inertia of an acrylic disk in a standard mechanics lab, obtaining a value 3.0% different from the ultrasonic-sensor calibration](cl-blind-student-autonomous-inertia-measurement.md) — related

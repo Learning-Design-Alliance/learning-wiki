@@ -65,6 +65,7 @@ Calendars work as external memory aids that offload scheduling information, free
 - Family communication routines — calendars are one channel within a broader communication strategy
 - [ESP teachers themselves furnish materials with pictorial context when textbooks lack face validity](teachers-furnish-esp-materials-with-pictures.md)
 - [Design assignments as smaller pieces with fixed due dates to encourage earlier student work](small-exercises-fixed-deadlines-earlier-start.md)
+- [Use layered communication channels (Discord plus weekly emails plus a shared Google calendar) for distributed programme announcements](layered-discord-email-calendar-communication-strategy.md)
 
 ## Examples
 - **Classroom focus calendars** — elementary teachers posting a monthly calendar where each week carries an image representing the instructional focus (e.g., a butterfly for the life-science unit), giving young learners a pictorial preview of what comes next.

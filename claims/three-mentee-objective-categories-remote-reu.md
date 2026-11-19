@@ -48,3 +48,4 @@ Phenomenographic analysis of mentee interviews across the REU program identified
 ## Related Claims
 - [Remote REU mentees reported the experience was highly beneficial and the remote format did not open a gap between their objectives and outcomes](remote-reu-mentees-reported-highly-beneficial-outcomes.md) — related
 - [Most mentees left the remote REU with clearer career goals and better understanding of research work](remote-reu-career-clarity-gains.md) — related
+- [Almost every remote REU mentee described achieving their goals and most intended to apply to graduate programs](remote-reu-goal-attainment-graduate-school-intentions.md) — related

@@ -53,3 +53,4 @@ Retrospective AI grading of 10,364 scanned pages from 520 handwritten submission
 - [AI grading recovered the same five-student International Physics Olympiad team as official human grading in both rounds, though with a different internal ranking](ai-recovers-same-olympiad-team.md) — related
 - [AI-assigned total scores on a handwritten chemistry exam align strongly with TA-assigned totals (R2 = 0.91), while per-problem agreement is lower (R2 = 0.61–0.85)](ai-total-scores-align-with-ta-grades-chemistry-exam.md) — related
 - [Round two NAF scores correlated very strongly (r = 0.97) with the final round-three KOL consensus rankings](strong-correlation-naf-scores-final-consensus.md) — a narrower finding that bears on this claim
+- [GPT-4 rubric grades of written physics solutions correlate positively with manual grading, with R² ≈ 0.83 for total scores](gpt4-total-score-correlation-manual-grading.md) — related

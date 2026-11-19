@@ -51,3 +51,4 @@ Secondary outcome measured with a three-question questionnaire on a 4-point Like
 - [Students using real programmable robots enjoyed learning more and found the material less difficult than control students](robot-learning-enjoyment-difficulty.md) — related
 - [Experimental-group students reported enjoying learning Newton's Laws through game-based projects and wanted the method used in other lessons](pbl-game-student-enjoyment-interviews.md) — related
 - [Game-based and PowerPoint instruction produced no significant difference in students' attitudes toward the nutrition course](no-attitude-difference-game-versus-powerpoint.md) — related
+- [Teachers of the involved classes reported student enjoyment and stated they would reuse the course materials and Kahoot! with their pupils](teachers-reuse-intent-kahoot-materials.md) — related

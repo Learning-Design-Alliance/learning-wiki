@@ -57,3 +57,4 @@ Internal validation through model usability tests with the instructional design 
 - [Iterative testing with 120 participants across about 10 versions drove major redesigns, especially of onboarding](iterative-testing-120-testers-onboarding.md) — related
 - [Heuristic evaluation by a human factors engineer identified no critical usability issues but several major or moderate issues, which were addressed through simulator refinement](dka-simulator-usability-testing.md) — related
 - [Pilot participants recommended revising the lecture-heavy session format and revisiting content to remove redundancies across sessions](sattaa-pilot-feedback-redesign.md) — related
+- [Refinement cycles show course activities effective at addressing knowledge revision, organization, and epistemological challenges at a local level](refinement-cycles-local-effectiveness-quantum-course.md) — related

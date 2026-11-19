@@ -55,6 +55,7 @@ Based on the survey findings, "the authors propose steps (Fig. 3) to implement t
 - [Three-stage instructional sequence: theoretical instruction, virtual simulation training, then phantom-head practice](three-stage-vs-irrigation-instructional-framework.md)
 - [Adopt a staged, LMIC-sensitive pathway linking simulation-based preparation to authentic supervised bedside practice, with competency-based progression and EPAs](staged-simulation-to-bedside-pathway-lmic.md)
 - [Multi-source funding model to remove trainee financial barriers to robotic training](deanery-industry-funded-robotic-training-access-strategy.md)
+- [Offer VR-based virtual research-laboratory visits as an equitable, low-cost substitute for on-site visits in school curricula](vr-virtual-visit-equitable-research-lab-access-strategy.md)
 
 ## Examples
 -

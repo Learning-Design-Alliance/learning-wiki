@@ -54,4 +54,4 @@ The report distils its findings into thirteen guidelines for developing soft ski
 -
 
 ## Key Sources
-- Aneva, B., Faletič, S., Hömöstrei, M., Jenei, P., Kundracik, F., Kyuldjiev, A., Lindner, T., Němec, H., Puhr, H., & Plesch, M. (2022). Development of Soft Skills via IYPT. Wirtschaftsuniversität Wien. http://dibali.sav.sk/wp-content/uploads/2022/05/IO2.pdf
+- Aneva, B., Faletič, S., Hömöstrei, M., Jenei, P., Kundracik, F., Kyuldjiev, A., Lindner, T., Němec, H., Puhr, H., & Plesch, M. (2022). Development of Soft Skills via IYPT. Wirtschaftsuniversität Wien. http://dibali.sav.sk/wp-content/uploads/2022/05/IO2.pdf. [doi:10.48550/arxiv.2210.09648](https://doi.org/10.48550/arxiv.2210.09648)

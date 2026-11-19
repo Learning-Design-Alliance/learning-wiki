@@ -72,6 +72,7 @@ Text chat functions as a low-threshold participation and feedback channel, which
 - [Integrate social media channels to build community and provide timely feedback in virtual physics courses](social-media-community-feedback-physics-elearning.md)
 - [Support remote student collaboration with student-managed chat platforms such as Discord servers for sharing code and links](student-discord-servers-remote-collaboration-strategy.md)
 - [Deploy randomized A/B comparisons of email reminders through the LMS as a low-cost embedded experimentation paradigm](ab-comparison-email-reminder-paradigm.md)
+- [Use layered communication channels (Discord plus weekly emails plus a shared Google calendar) for distributed programme announcements](layered-discord-email-calendar-communication-strategy.md)
 
 ## Examples
 - **[Remind](../products/remind.md) (https://www.remind.com)** — school-safe SMS/announcement platforms used for assignment reminders, quick pulse questions, and parent communication.

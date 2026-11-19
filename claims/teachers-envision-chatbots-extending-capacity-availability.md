@@ -60,3 +60,4 @@ Focus-group thematic analysis identified two complementary ways teachers envisio
 - [Computer-based learning systems need to adapt to learners' needs to provide effective personalised instruction](adaptation-needed-for-personalised-instruction.md) — related
 - [Teachers and students envision PAs providing practical learning support such as reminders, task organization, and repetition-based practice in math and languages](pa-practical-learning-support-reminders-repetition.md) — related
 - [AI models could forecast student outcomes, supporting personalised learning strategies and early intervention](ai-models-forecast-student-outcomes-personalised-learning.md) — related
+- [Automatic grading of quantum programming assignments reduces instructor workload and gives students immediate feedback](auto-grading-reduces-instructor-workload.md) — related

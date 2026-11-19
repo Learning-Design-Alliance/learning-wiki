@@ -50,6 +50,7 @@ Because discussing student-generated solutions with hundreds of students is not 
 
 - [Invented Strategies Before Instruction](invented-strategies-before-instruction.md)
 - [Just In Time Teaching](just-in-time-teaching.md)
+- [Two-lecture preparation module teaching linear algebra, linear systems, and radiometry before the color science tutorials](two-lecture-math-physics-preparation.md)
 
 ## Examples
 -

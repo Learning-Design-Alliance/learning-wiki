@@ -53,3 +53,4 @@ End-of-course feedback reported in the Conclusion: sighted classmates "emphasize
 - [Auditory math access works best when the technology is familiar: Math Speak aided expression identification, and BVI students performed similarly to or slightly better than traditional methods with familiar apps](auditory-access-familiar-technology-bvi-math.md) — related
 - [Michael's epistemological stance leads him to seek physically and mathematically convincing explanations while many classmates seek the \"right answer\"](sense-maker-different-warrants-peers.md) — related
 - [Multi-sensory teaching benefits students of all levels of sight, according to interviewed BVI researchers](multisensory-teaching-benefits-all-sight-levels.md) — related
+- [The tactile sky models were well accepted by sighted students and teachers in outreach activities](tactile-models-accepted-sighted-students-teachers.md) — related

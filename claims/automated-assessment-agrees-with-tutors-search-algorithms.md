@@ -74,3 +74,4 @@ Linear regression on the same 400-answer corpus with automated marker scores as 
 - [Automated video metrics correlate with validated expert-based assessment tools](automated-video-metrics-correlate-with-validated-tools.md) — related
 - [Round two NAF scores correlated very strongly (r = 0.97) with the final round-three KOL consensus rankings](strong-correlation-naf-scores-final-consensus.md) — a narrower finding that bears on this claim
 - [Dr Scratch's CT assessment correlates positively and significantly with classic software complexity metrics](dr-scratch-validated-against-complexity-metrics.md) — related
+- [Five independent markers agreed closely with one another (73.0 ± 1.6, 72.6 ± 2.0, 69 ± 2, 70 ± 2, 70.6 ± 1.9), supporting marking validity](independent-marker-agreement-on-ai-essays.md) — related

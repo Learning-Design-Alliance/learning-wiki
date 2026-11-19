@@ -76,3 +76,4 @@ Wilcoxon Signed-Rank subgroup tests in the same one-group study. Significant inc
 - [Both male and female students gained from games-based instruction, though the gain was higher for males](both-sexes-gain-from-games-males-more.md) — related
 - [Male students scored significantly higher than female students in spatial and intrapersonal intelligence](gender-differences-spatial-intrapersonal.md) — related
 - [Female students showed significantly higher learning gain, usability adjective ratings and educational experience than male students, but the SUS difference was not significant](ethics-game-gender-differences-favor-females.md) — related
+- [Male Podium Players showed larger average self-efficacy change than female Podium Players, contradicting the vicarious-experience hypothesis](podium-players-gender-change-contradicts-hypothesis.md) — related

@@ -52,3 +52,4 @@ The chapter reports, citing Rideout and Katz (2016), a survey of low- and modera
 - [Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ](equity-gaps-online-transition-challenges.md) — related
 - [Roughly 30 percent of U.S. students (15 to 16 million) lacked adequate internet or device access in late 2020, with rural, Native American, Black, and Latino students disproportionately affected](homework-gap-scale-2020.md) — related
 - [Resource inequalities disadvantaged low-achieving students during virtual learning](resource-inequalities-la-students.md) — related
+- [DFOT survey found most teachers used laptops or desktops while most students attended on smartphones, with nearly 40% of students disconnected during classes](dfot-survey-device-and-connectivity-divide.md) — related

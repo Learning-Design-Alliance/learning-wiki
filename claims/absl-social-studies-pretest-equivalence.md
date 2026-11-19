@@ -61,3 +61,4 @@ Pre-test equivalence check on the same 94-student quasi-experiment. Pre-test mea
 - [Experimental and control groups showed no significant difference in English achievement before the intervention.](eclectic-approach-groups-equivalent-pretest.md) — related
 - [Experimental and control groups of pre-school children did not differ in pattern recognition skills at pre-test](preschool-pattern-groups-equivalent-at-pretest.md) — related
 - [Baseline academic achievement was homogeneous between the flipped and semi-traditional groups before the experiment](baseline-gpa-homogeneous-groups.md) — related
+- [AR and non-AR groups had equivalent spatial visualization skills before the workshops (PVRT pre-test, p = 0.8)](pvrt-pretest-groups-equivalent-baseline.md) — related

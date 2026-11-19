@@ -50,3 +50,4 @@ Theoretical argument attributed to the assessment literature (Black and Wiliam a
 - [Formative participants preferred post-session debriefing over in-session interruption, with timing treated as contingent on error severity](feedback-timing-post-session-debrief-preference.md) — related
 - [Peer review helped students notice their own mistakes through reviewing others' work](peer-review-reveals-own-mistakes.md) — related
 - [Physics TAs state that grading serves as a learning opportunity for the student and feedback for the instructor, and these stated purposes are stable across a semester](ta-stated-grading-purposes-learning-feedback.md) — related
+- [Completed solutions and mistakes offer opportunities for reflection that improve future problem solving](post-solution-reflection-and-mistake-analysis.md) — a narrower finding that bears on this claim

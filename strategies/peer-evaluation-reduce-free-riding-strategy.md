@@ -51,6 +51,7 @@ In the MBCL platform, every student scores each teammate's individual contributi
 ## Related Strategies
 
 - [Mitigate the free-rider phenomenon in TBL through peer assessment and individual accountability](tbl-free-rider-mitigation-peer-assessment.md)
+- [Use matrix grading on team assignments to penalize free-riding and reward carrying the team](matrix-grading-team-assignments.md)
 
 ## Examples
 -

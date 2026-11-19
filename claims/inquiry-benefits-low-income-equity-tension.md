@@ -51,3 +51,4 @@ The chapter reports, citing Ben-David & Zohar (2009), a benefit of inquiry activ
 - [Some students found the guided-inquiry worksheet activities insufficiently thought-provoking and the data exchange troublesome](students-criticize-inquiry-worksheets-low-thinking.md) — related
 - [Florida shows more equitable advanced course offerings between high- and low-poverty schools, attributed by others to statewide opportunity efforts begun in the early 2000s](florida-equitable-advanced-course-offerings.md) — related
 - [Low-income US schools focus most on testing and have the fewest resources for interest-driven activities](low-income-schools-test-prep-crowds-out-interest-activities.md) — related
+- [Research-based pedagogical methods such as active learning and inquiry-based learning can enable inequitable outcomes absent proactive instructor efforts](constructivist-pedagogies-enable-inequities.md) — related

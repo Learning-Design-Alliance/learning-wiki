@@ -63,6 +63,7 @@ Explicit, well-structured online instruction reduces unguided search and working
 - [Explicit Teaching](../patterns/direct-instruction.md) — the face-to-face counterpart; same instructional logic
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — extends direct instruction with modeling, coaching, and fading
 - [Develop and evaluate asynchronous online teacher mental health programs to reduce time and resource demands and improve feasibility at scale](online-asynchronous-teacher-wellbeing-programs.md)
+- [Interleave a narrated video with live commentary and Kahoot! quizzes to engage online audiences and surface misconceptions](video-parts-live-commentary-kahoot-online-strategy.md)
 
 ## Related Elements
 - [Direct Instruction](../elements/direct-instruction.md) — the core element this strategy operationalizes online

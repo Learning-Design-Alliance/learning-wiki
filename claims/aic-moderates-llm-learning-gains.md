@@ -85,3 +85,5 @@ Three-way interaction analysis including Treatment, pre-intervention exam score,
 - [Higher pre-test scores were associated with lower knowledge gain from pre-test to post-test after an escape room, in one single-group pre-post study](escape-room-lower-prior-knowledge-greater-gain.md) — related
 - [ChatGPT assistance disproportionately benefits dental students with low spatial ability; high spatial ability learners show no significant difference between modes](chatgpt-benefits-low-spatial-ability-learners-most.md) — related
 - [Baseline self-efficacy and knowledge differed by university type and GPA, and gain patterns differed: public students started higher while private students and low-GPA students gained more](demographic-moderators-of-training-gains.md) — related
+- [Among students with higher GPAs, control-group students achieved higher essay scores than ChatGPT-assisted students](higher-gpa-control-outperformed-gpt-group.md) — related
+- [Learners with higher prior programming competency benefit more from AI code generators on retention](prior-competency-moderates-codex-benefit.md) — a narrower finding that bears on this claim

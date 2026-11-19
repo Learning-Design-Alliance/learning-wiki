@@ -48,3 +48,4 @@ Activity-report account of the two-week fully virtual ASP2021 event (July 19-30,
 ## Related Claims
 - [A survey of 94 participants of the online ASP2021 event collected feedback on satisfaction and impactful aspects](asp2021-survey-94-participants-feedback.md) — related
 - [Virtual training events reach more participants more equitably than in-person events, but attendance is typically only 50% of registrations](virtual-training-broader-reach-lower-attendance.md) — a broader claim this one bears on
+- [ASP2022 was the largest ASP event to date, with 231 high school pupils, 76 high school teachers, and 191 university students attending](asp2022-largest-asp-event-participation.md) — related

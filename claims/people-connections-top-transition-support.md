@@ -50,3 +50,4 @@ Thematic analysis of interviews (n=31) and co-design workshops (n=27-28) with HS
 - [Students in three consortium districts reported positive experiences with the cross-grade mentorship program and with campus social workers](west-kern-student-climate-survey-outcomes.md) — related
 - [Mentoring relationships in undergraduate research are highly influential in students' campus connection, retention in their major, and persistence to graduation](ur-mentoring-retention-persistence.md) — related
 - [Networking and co-workers were the most important resource HEPA alumni used to obtain industry jobs](networking-most-important-resource-industry-jobs-hepa-alumni.md) — related
+- [10Academy's near-peer industry mentoring achieved 90% job placement among 105 trainees with salaries 5x peer levels](10academy-90-percent-job-placement.md) — related

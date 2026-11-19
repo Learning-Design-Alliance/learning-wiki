@@ -52,3 +52,4 @@ The author's first-hand teaching observation, offered in the Reactions to the re
 - [Novice and journeyman physics students can get stuck in an epistemological framing that blocks use of knowledge they know well and that would reveal their error](getting-stuck-in-epistemological-frame.md) — related
 - [Addressing the real/ideal gulf directly without addressing affect failed to shift Judy's view that conceptual reasoning is unimportant](epistemology-targeting-without-affect-fails.md) — related
 - [Students may make real-world physics connections without valuing or labeling them as physics, adding complexity to interpreting attitude measures](connections-without-labeling-as-physics.md) — related
+- [Students learning astronomy topics fail to relate theoretical information with what they experience in the world around them](astronomy-students-fail-relate-theory-to-experience.md) — a narrower finding that bears on this claim

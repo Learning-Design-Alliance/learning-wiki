@@ -55,4 +55,4 @@ A 3-hour introductory workshop supporting the rubric, built on "a series of pair
 -
 
 ## Key Sources
-- Jeffrey, R., Lundy, M., Coffey, D., McBreen, S., Martin-Carrillo, A., & Hanlon, L. (2022). Teaching computational thinking to space science students. 4th Symposium on Space Educational Activities, Barcelona. https://earth.esa.int/eogateway/events/4th-symposium-on-space-educational-activities
+- Jeffrey, R., Lundy, M., Coffey, D., McBreen, S., Martin-Carrillo, A., & Hanlon, L. (2022). Teaching computational thinking to space science students. 4th Symposium on Space Educational Activities, Barcelona. https://earth.esa.int/eogateway/events/4th-symposium-on-space-educational-activities. [doi:10.5821/conference-9788419184405.121](https://doi.org/10.5821/conference-9788419184405.121)

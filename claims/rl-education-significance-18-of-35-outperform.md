@@ -51,3 +51,4 @@ Systematic review of 89 papers (PRISMA, three databases, 2000–2024) categorizi
 - RL-based educational evaluations split across live evaluation (n = 41), real interaction data (n = 23), and simulated users (n = 24) — related
 - [Students with lower baseline performance (below the 50th percentile) showed significantly greater math achievement gains with ASSISTments than matched virtual peers](assistments-low-performers-significant-gains.md) — related
 - Within-family designs can afford greater statistical power than classroom-based studies for testing aptitude–treatment match effects — related
+- [A behavior-cloned policy distilled from online RL data was estimated to outperform the online policy in the majority of offline evaluation splits and was deployed in study 2](behavior-cloned-policy-outperformed-online-policy.md) — related

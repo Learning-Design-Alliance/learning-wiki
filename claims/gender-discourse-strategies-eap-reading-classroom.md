@@ -52,3 +52,4 @@ Qualitative discourse and conversation analysis of the videotaped interactions, 
 - [Dominant behaviour and criticism negatively influence group interaction but can act as triggers for learning](dominance-criticism-negative-interaction-trigger-learning.md) — related
 - [Group workbench activities raise specific facilitation challenges around participation and assumptions](workbench-group-facilitation-challenges.md) — related
 - [Males dominated computer control in mixed-gender groups, and female undergraduates were never observed controlling the computer](male-computer-domination-mixed-gender-groups.md) — related
+- [Students tend to assert dominance over a teachable robot positioned in a low-power role](students-assert-dominance-over-teachable-robot.md) — related

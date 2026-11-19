@@ -81,6 +81,7 @@ The article's training protocol provides a replicable sequence for simulation-ba
 - [Deliver procedural education through spaced simulation with deliberate practice: assisted step-by-step practice, an unassisted evaluation, and return sessions at 3–6 months](spaced-deliberate-practice-procedure-curriculum.md)
 - [Structure a four-week ultrasound course with weekly theory plus supervised simulation-based hands-on practice covering FAST, E-FAST, RUSH and CLUE protocols](four-week-simulation-ultrasound-course-structure.md)
 - [Structure astronomy training around progressive hands-on telescope operation with decreasing supervision](progressive-telescope-operation-training.md)
+- [Staged sequence for student participation in professional observing: bibliography study, remote attendance at a training observing run, then conducting observations themselves under supervision](staged-professional-observing-sequence-strategy.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Descriptive gender comparison within the eight-week experiment, reported in Resu
 - [Pre-service clinical teachers who viewed videotapes of their teaching with guided feedback provided more total feedback to students than teachers in a seminar-only group and a control group across eight teaching episodes](video-review-guided-feedback-increases-clinical-teacher-feedback.md) — related
 - [Female students previewed significantly fewer vodcasts than male students before lectures.](gender-difference-in-vodcast-previewing.md) — related
 - [Male students outperform female students across all four competence domains in self-rated emergency response competence](sex-difference-competence-males-higher.md) — related
+- [No apparent patterns between gender and control or agreement scores in the preliminary subset](no-gender-pattern-dominance-scores-preliminary.md) — related

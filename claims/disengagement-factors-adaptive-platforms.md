@@ -75,3 +75,4 @@ The review reports, citing included studies, that W-Pal lesson activity "decreas
 - [Students were fully engaged and having fun during the robot exercise, which the authors attribute to the robot being a non-standard teaching tool](robot-exercise-engagement-fun-attributed-to-nonstandard-tool.md) — a narrower finding that bears on this claim
 - [Learner disengagement is widespread in developed countries' school systems](learner-disengagement-developed-countries-survey-data.md) — related
 - [Students with disabilities report that STEM course practices create barriers to effectively engaging with class content](stem-course-barriers-engaging-content-disabilities.md) — related
+- [The review attributes challenges of the traditional education system to weak learning-outcome orientation, uneven learner preparation, lack of skill-based education and teacher quality problems](traditional-education-challenges-review.md) — related

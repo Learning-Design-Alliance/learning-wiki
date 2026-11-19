@@ -30,7 +30,7 @@ sources:
 # Cognitive Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 41 claims (23 for, 16 mixed, 2 against) · 47 studies (22 causal, 6 qualitative, 5 review, 4 quant-synthesis, 4 associational, 4 theoretical, 2 design), `q1`–`q4` · 11 of 47 report an effect size · 33 claims rest on one study
+> **Evidence** · 42 claims (24 for, 16 mixed, 2 against) · 48 studies (22 causal, 6 qualitative, 5 review, 5 theoretical, 4 quant-synthesis, 4 associational, 2 design), `q1`–`q4` · 11 of 48 report an effect size · 34 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,7 @@ Re-read 2026-10-19: every claim listed here before that date was read against th
 - [When prompted, most students reflect on derived expressions superficially and fail to connect terms to the relevant physics](../claims/superficial-reflection-on-derived-expressions.md) [~W] — attached 2026-11-17 from Caballero et al. (2012), which proposed "Instruction should teach students to gain confidence in derived expressions by connecting them to the physics, not just checking units".
 - [In the biology course ARS questions were intended mainly to check in and elicit immediate recall, while the engineering course used ARS questions to prompt conceptual and quantitative reasoning on new scenarios](../claims/ars-check-in-versus-conceptual-reasoning-across-courses.md) [+W] — attached 2026-11-18 from Koretsky et al. (2018), which proposed "Design and evaluate active learning tools by foregrounding the intended student thinking and sense-making processes, not only performance gains relative to controls".
 - [Despite different implementations, both courses' ARS and GIW tools were intended to engage students in conceptual reasoning and quantitative reasoning around key disciplinary topics](../claims/shared-sense-making-targets-across-tools.md) [+W] — attached 2026-11-18 from Koretsky et al. (2018), which proposed "Design and evaluate active learning tools by foregrounding the intended student thinking and sense-making processes, not only performance gains relative to controls".
+- [Tasks that together cue real-world contexts, mechanistic explanation, multiple representations, and physical interpretation of mathematics increase the likelihood of student sensemaking in physics](../claims/task-features-increase-likelihood-sensemaking-physics.md) [+W] — attached 2026-11-19 from Amogh Sirnoorkar et al. (2023), which proposed "Frame task-design arguments in agent-based cuing vocabulary rather than task-feature prescriptions"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

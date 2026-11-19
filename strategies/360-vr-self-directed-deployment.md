@@ -48,6 +48,7 @@ The article suggests organizations use 360° VR videos where traditional instruc
 ## Related Strategies
 
 - [Use immersive VR headset training as a feasible, accessible option for robotic set-up training in resource-limited settings](ivr-resource-limited-robotic-setup-training-strategy.md)
+- [Three educational use cases: guided multi-week journeys, instructor demonstrations, and self-directed exploration](three-virtual-scanner-use-cases.md)
 
 ## Examples
 -

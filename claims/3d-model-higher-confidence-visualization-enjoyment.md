@@ -73,3 +73,4 @@ Post-studying Likert reflection in the pilot trial. Visualization agreement was 
 - [Participants give positive feedback on AR visual and audio perception and on gesture and voice interaction](positive-usability-feedback-perception-interaction.md) — related
 - [Students reported that the 3D simulation improved their visualization and understanding of satellite motion](ejs-3d-simulation-improved-student-visualization.md) — related
 - [Students were highly engaged with the 3D-printed height models and largely accepted them as a helpful learning tool](student-acceptance-3d-height-models.md) — related
+- [The tactile sky models were well accepted by sighted students and teachers in outreach activities](tactile-models-accepted-sighted-students-teachers.md) — related

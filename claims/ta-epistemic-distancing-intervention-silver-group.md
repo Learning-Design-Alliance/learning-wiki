@@ -72,3 +72,4 @@ Post-intervention discussion transcript shows the group ran a second trial and k
 - [Excessive epistemic distancing led one tutorial group to avoid discussing its ideas in its first tutorial discussion](excessive-distancing-avoids-discussion.md) — related
 - [After the instructor left, the group sustained mechanistic sensemaking discussion of the graph discrepancy on its own](group-sustains-sensemaking-after-instructor-leaves.md) — a narrower finding that bears on this claim
 - [An instructor's hedged, eye-level rephrasing of a student question opened space for a dismissive tutorial group to offer tentative ideas](hedged-rephrasing-opens-discussion-space.md) — possibly the same claim (merge candidate)
+- [Instructor cues shifted students' experimental predictions more successfully than their epistemic agency](instructor-cues-shift-predictions-not-agency.md) — related

@@ -50,3 +50,4 @@ Regression covariates in the 99,559-student survey with institution fixed effect
 - [After gamified security training, female students gave more positive confidence and format-preference ratings than male students (descriptive survey percentages, no inferential test)](gender-differences-gamified-security-training.md) — related
 - [Female students assign significantly higher ratings than male students to specific e-learning aspects, including planning, presential sessions, content, self-evaluation, tutor contribution and illustrations](female-higher-ratings-specific-aspects.md) — related
 - [Cluster analysis identified two student phenotypes differing in satisfaction, modality, gender and age](two-student-phenotypes-pbl-satisfaction.md) — related
+- [Female students reported significantly higher satisfaction with the course's online resources than male students](gender-gap-online-resource-satisfaction.md) — a narrower finding that bears on this claim

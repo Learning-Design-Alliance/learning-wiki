@@ -51,3 +51,4 @@ Descriptive attendance analysis from TA session records collected by the project
 - [Only 57% of intervention parents attended the five or more sessions judged necessary to count as programme completers](spokes-low-parent-attendance-57-percent.md) — related
 - [Attendance patterns indicate students were substantially more engaged in Discovery sessions than in regular classes](discovery-attendance-exceeds-class-attendance.md) — related
 - [Higher attendance at the 20-minute daily coaching sessions was associated with a positive impact on reading comprehension, significant only for secondary-school sessions](textnow-attendance-dosage-effect.md) — related
+- [Participation in the Gravitas online seminars was substantial, with around 270 visualizations per YouTube video and 80 students on average during live sessions](gravitas-online-seminar-participation.md) — related

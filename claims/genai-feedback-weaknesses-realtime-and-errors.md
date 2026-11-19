@@ -85,3 +85,4 @@ Same qualitative dataset; the discussion also notes ChatGPT's wrong string name 
 - [Students rated asynchronous and rigid online methodologies (uploaded documents, chat-only, homework) as sub-standard, citing limited learning and lack of feedback](asynchronous-methodologies-rated-substandard.md) — related
 - [Students lacking prior technological skills had difficulty using the learning platform, making platform uptake an ongoing challenge](platform-skills-deficit-challenge.md) — related
 - [Student journal feedback on the FCP was mixed but generally positive, with hindrances including lack of immediate help and internet connectivity problems](fcp-journal-feedback-mixed-positive.md) — related
+- [The article argues classical simulators are better suited than real quantum hardware for teaching, citing error rates, incomplete measurement output, and limited hardware access.](classical-simulators-preferred-for-teaching-quantum-computing.md) — related

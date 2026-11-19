@@ -70,3 +70,4 @@ When prompted to reflect on predictions and compare to known results, several pa
 - [Clinically interviewed students recognize the Taylor series as a relevant physics tool but lack criteria for when to use it and how many terms to keep](students-lack-truncation-criteria-taylor-series.md) — related
 - [Students judge expansion quality by a variable being \"small compared to 1\" regardless of the expression or natural comparative scale](small-compared-to-one-approximation-criterion.md) — related
 - [Students rarely spontaneously checked units or limiting behavior of their solutions, though they endorsed such checks when prompted](reflection-checks-rarely-spontaneous.md) — related
+- [Abstract operator methods produce better student reactions than the series solution of the harmonic oscillator](operator-method-better-student-reactions-than-series-solution.md) — related

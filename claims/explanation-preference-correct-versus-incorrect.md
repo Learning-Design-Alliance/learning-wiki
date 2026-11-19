@@ -51,3 +51,4 @@ Blinded preference evaluation by three health care professionals over explanatio
 - [General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources](llm-accuracy-hallucination-coaching-risk.md) — a broader claim this one bears on
 - [With expert hints describing the image, 40% (22/55) of GPT-4V's incorrect responses switched to the correct answer](image-hints-corrected-40-percent-errors.md) — related
 - [In a simulated curbside consultation, GPT-4V required multiple specific physician-guided prompts to interpret complex case data accurately](curbside-consultation-required-multiple-prompts.md) — related
+- [The author judges 26 of GPT-4's free-response explanations entirely correct at the expert level, while GPT-3.5's wrong-answer explanations erred randomly or self-inconsistently](gpt4-free-responses-expert-level.md) — related

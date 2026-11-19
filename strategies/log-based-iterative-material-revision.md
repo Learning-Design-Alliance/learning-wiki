@@ -44,6 +44,7 @@ The article recommends using the LMS logging capability and the evaluation syste
 
 - [Use log-file data and stakeholder-access research to refine learning-analytics feedback](logfile-and-access-research-strategy.md)
 - [Process-based evaluation strategies: desirable difficulties, think-aloud protocols, annotated drafts, and iterative revision logs that render reasoning legible](process-based-evaluation-desirable-difficulties.md)
+- [Iteratively refine non-visual data mappings through user testing, preferring identifiable timbres and non-volume parameters for distance](iterative-user-tested-sensory-mapping-recommendations.md)
 
 ## Examples
 -

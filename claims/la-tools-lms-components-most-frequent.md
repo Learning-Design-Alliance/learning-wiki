@@ -48,3 +48,4 @@ Survey data on LA tools and software show "existingcomponentsinlearningmanagemen
 ## Related Claims
 - VLE/LMS, assessment scores, Student Information Systems, and student surveys are the most frequently chosen data sources for LA — related
 - [Students rank lower as LA users among institutions that already implemented LA than among preparing or interested institutions](students-drop-as-la-users-after-implementation.md) — related
+- [Formal learning environments such as LMS and VLE are the most common data source for learning analytics tools, used by 82 of 137 reviewed tools](formal-environments-dominant-la-data-source.md) — related

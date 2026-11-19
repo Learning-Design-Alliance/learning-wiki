@@ -50,3 +50,5 @@ Authors' overall conclusion from the Kenyan library implementation, the first ti
 - [The extended TAM model explains 42.3% of the variance in intention to use mobile library applications](extended-tam-explains-42-percent-variance-mla-intention.md) — related
 - [More enthusiastic library users completed more problems and shifted their study time toward afternoons before weekly deadlines](geas-enthusiastic-users-study-more.md) — related
 - [System quality has a positive significant effect on perceived usefulness and perceived ease of use of mobile library applications](system-quality-positive-effect-pu-peou-mla.md) — related
+- [Voluntary participation in the library-model program reached 11 libraries and 1301 students in 2021, with 450 students earning enough SMLY to purchase a tablet](kenya-library-model-participation-1301-students.md) — a narrower finding that bears on this claim
+- [Adoption of the library program was initially slow and then increased dramatically through 2020 into 2021](library-model-adoption-slow-then-dramatic.md) — related

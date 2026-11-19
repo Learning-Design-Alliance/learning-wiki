@@ -65,3 +65,5 @@ Pre/post survey administration by teachers across the five terms (217 responses 
 - [Participation in informal science education activities is correlated with increased science interest, science identity development, and career intentions](isea-participation-science-identity-career-intentions.md) — a broader claim this one bears on
 - [Developing multiple pathways for laboratory investigation expands the learning of all participants in a physics lab program](multiple-pathways-expand-lab-learning.md) — related
 - [Student participants reported that the online reading group left them more academically prepared for future careers and brought them closer to their classmates](phasrs-interviews-preparedness-closeness.md) — related
+- [Most secondary-school participants valued the service-learning collaboration positively: 60% liked collaborating with university students, 65% liked the activities, and 72% considered they had learned interesting things](secondary-students-positive-evaluation-abase-de-pros.md) — related
+- [Research indicates typical physics lab courses do not reach desired learning goals](typical-lab-courses-do-not-reach-goals.md) — related

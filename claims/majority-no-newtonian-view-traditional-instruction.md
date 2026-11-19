@@ -52,3 +52,5 @@ This is the authors' synthesis of multiple studies using the Force Concept Inven
 - [Traditional curriculum students outperformed M&I students on every FCI concept category.](traditional-outperforms-mi-all-fci-concepts.md) — related
 - [The 'motion implies force' preconception — confusion between velocity and net force — is pervasive among students even after instruction](motion-implies-force-preconception.md) — a broader claim this one bears on
 - [The Assessments section receives the most page views on PhysPort, with the Force Concept Inventory the most popular assessment](physport-assessments-section-most-viewed.md) — related
+- [ChatGPT scored 60% on the Force Concept Inventory, at the suggested entry threshold for Newtonian physics](chatgpt-fci-score-60-percent-entry-threshold.md) — related
+- [ChatGPT's FCI errors include impetus-type preconceptions shared with beginning physics students](chatgpt-impetus-preconception-errors.md) — related

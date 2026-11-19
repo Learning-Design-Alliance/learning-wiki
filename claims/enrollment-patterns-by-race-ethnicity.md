@@ -71,3 +71,4 @@ Same Fig. 2b analysis. The article reports the majors chosen by URM and White st
 - [URM students drop the physics major at roughly twice the rate of White students (65% vs 34%) at the studied university](urm-physics-attrition-65-vs-34-percent.md) — related
 - [Black/African American and Hispanic/Latino students were overrepresented in lower QR placement categories relative to their share of the 2018 CSU entering cohort](eo1110-racial-disproportionality-qr-placement.md) — related
 - [HBCUs are a disproportionate producer of Black physical science and engineering graduates, graduating 28% of Black physical science majors and 17% of Black engineers](hbcu-disproportionate-black-stem-production.md) — related
+- [Women and racial minorities are underrepresented in the U.S. STEM workforce](women-urm-underrepresented-stem-workforce.md) — related

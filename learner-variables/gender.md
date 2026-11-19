@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 752 claims (403 show a difference, 181 mixed, 168 no difference) · 523 studies (276 associational, 177 causal, 21 review, 18 quant-synthesis, 15 design, 10 theoretical, 6 qualitative), `q1`–`q4` · 77 of 523 report an effect size · 744 claims rest on one study
+> **Evidence** · 760 claims (407 show a difference, 184 mixed, 169 no difference) · 530 studies (279 associational, 178 causal, 21 review, 18 quant-synthesis, 16 design, 11 theoretical, 7 qualitative), `q1`–`q4` · 77 of 530 report an effect size · 752 claims rest on one study
 
 ## How to read this page
 
@@ -791,6 +791,14 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Among students who persisted and earned STEM degrees, women earned only slightly higher grades than men, with small effect sizes.](../claims/persisting-women-only-slightly-higher-grades-than-men.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [By years 3 and 4, women who dropped computer science, engineering, mathematics, and physical science majors earned GPAs nearly the same as men who persisted in those majors.](../claims/dropping-women-gpa-matches-persisting-men.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Women who dropped STEM majors earned significantly higher STEM GPAs than men who dropped the same majors, with small-to-medium effect sizes.](../claims/women-dropping-stem-higher-gpa-than-men-dropping.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Controlling for incoming GPA does not significantly change the gender gap in either retake or non-retake classes](../claims/gpa-control-does-not-explain-gender-gap.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female students in calculus-based laboratory sections showed significant positive self-efficacy change, while algebra-based females were the only group with negative normalized change](../claims/female-calculus-based-significant-gains.md) [~M] — an instructional effect differs by group
+- [Gender bias in peer recognition across introductory STEM studies is consistently associated with course level, not gender composition, discipline, instructional style, or class size](../claims/course-level-associated-with-gender-bias-peer-recognition.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Gender differences in lecture network connections depend on course composition: women have fewer connections than men in gender-balanced M-Eng but more connections in majority-men M-Phys and EM-Phys](../claims/gender-connections-vary-by-course-composition.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [In the reproduced model, no direct gender effects appear on variables downstream of the first six, so the data do not show the college learning environment adding to gender imbalances predictable from prior traits](../claims/no-downstream-direct-gender-effects.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Negative perceived recognition from instructors/TAs negatively influenced female students' self-efficacy, interest, and desire to persist in STEM](../claims/negative-recognition-harms-efficacy-interest-persistence.md) [+M] — an instructional effect differs by group
+- [Offering optional retake exams eliminated the gender gap in course grades in introductory physics for biological science students](../claims/retake-exams-eliminate-gender-grade-gap.md) [+M] — an instructional effect differs by group
+- [Women and racial minorities are underrepresented in the U.S. STEM workforce](../claims/women-urm-underrepresented-stem-workforce.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

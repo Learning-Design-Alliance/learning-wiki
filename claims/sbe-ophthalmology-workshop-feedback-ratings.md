@@ -61,3 +61,4 @@ Immediate post-workshop Likert feedback survey (Kirkpatrick level 1) in the pilo
 - [Learners reported high satisfaction, rating the simulation 97% relevant, 97% effective, and 90% high quality](brown-bag-simulation-high-satisfaction.md) — related
 - [Pilot participants rated the CAI highly usable and effective for nutritional assessment learning](cai-pilot-high-usability-effectiveness-ratings.md) — related
 - [Attendees rate the streamlined train-the-trainer workshop highly satisfactory](ft-workshop-satisfaction-ratings.md) — related
+- [Students rated educational workshops the most desired program development, above higher stipends](konkoly-survey-workshops-most-wanted.md) — related

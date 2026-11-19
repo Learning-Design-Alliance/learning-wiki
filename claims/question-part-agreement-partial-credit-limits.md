@@ -71,3 +71,4 @@ Subset analysis of the 1834 human-partial question parts in RII (Fig. 4). The ar
 - [The revised Round II grading workflow reduced AI over-awarding and total-score MAD, most clearly for OE1 (7.1% to 4.8%) and QM (9.4% to 3.8%)](revised-workflow-reduces-overawarding-mad.md) — related
 - [AI-assigned total scores on a handwritten chemistry exam align strongly with TA-assigned totals (R2 = 0.91), while per-problem agreement is lower (R2 = 0.61–0.85)](ai-total-scores-align-with-ta-grades-chemistry-exam.md) — related
 - [Human and agent framework revisions concentrate on the mid-level engagement categories (Levels 3–5), indicating greater ambiguity there than at scale endpoints](mid-level-icap-categories-most-ambiguous.md) — related
+- [GPT-4 rubric grades of written physics solutions correlate positively with manual grading, with R² ≈ 0.83 for total scores](gpt4-total-score-correlation-manual-grading.md) — related

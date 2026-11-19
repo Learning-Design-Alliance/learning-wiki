@@ -44,7 +44,8 @@ The author proposes a concrete reuse of the diagnostic findings: "The misconcept
 - [Sophomore engineering students can draw a correct free fall acceleration model while drawing incorrect position and velocity models for the same motion](../claims/memorized-acceleration-model-wrong-position-velocity-graphs.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use autograded graph problems with None-of-these options and student-generated graphs, grading for consistency](graph-problem-instructional-suggestions.md)
 
 ## Examples
 -

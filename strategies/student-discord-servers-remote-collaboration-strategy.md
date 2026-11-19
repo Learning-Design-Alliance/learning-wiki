@@ -41,6 +41,7 @@ The authors recommend facilitating student Discord servers in future course iter
 
 - [Text Chats in Instruction](text_chats_in_instruction.md)
 - [Videoconferencing for Collaboration](videoconferencing_for_collaboration.md)
+- [Use layered communication channels (Discord plus weekly emails plus a shared Google calendar) for distributed programme announcements](layered-discord-email-calendar-communication-strategy.md)
 
 ## Examples
 -

@@ -43,6 +43,7 @@ The article enumerates a repertoire of sensor-based activities spanning astronom
 - [Laboratory activities based on mobile-device sensor fluctuations to teach error analysis and uncertainties](mobile-sensor-fluctuation-lab-activities-error-analysis.md)
 - [Use mobile-device sensor experiments to promote active learning and a fundamental role for the student](mobile-sensors-active-learning-strategy.md)
 - [Use the smartphone microphone as an accurate stopwatch for time-interval measurements in mechanics and waves experiments](smartphone-microphone-stopwatch.md)
+- [Extend uncertainty learning to everyday contexts with fluctuation-based challenges and magnetometer experiments](everyday-fluctuation-challenges-extensions.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Quantitative CSEM-related PCK task with TAs in the professional development cour
 - [Think-aloud interviews show TAs were reflective and often had reasonable ideas about student reasoning but were sometimes distracted by uncommon answer choices](ta-interviews-reflective-but-distracted.md) — related
 - [TAs typically underestimated the difficulty of CSEM questions, over-predicting student performance by 15% on average](tas-underestimate-csem-item-difficulty.md) — related
 - [Physics TAs struggle to identify many common alternate conceptions of introductory students that persist after traditional instruction on the CSEM](tas-struggle-identify-persistent-alternate-conceptions-csem.md) — a broader claim this one bears on
+- [Open-response beta piloting confirmed that planned multiple-choice distractors covered the most frequent incorrect student answers](spruce-distractor-validation-betas.md) — related

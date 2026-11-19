@@ -49,3 +49,4 @@ Anecdotal qualitative data collected at the 2019 BPDM workshop. Participants rep
 - [Mentors of color were especially valuable to apprentices of color, who wanted more intentional mentor matching](rtap-mentors-of-color-especially-valuable.md) — related
 - [Coaching support was not always perceived as needed or accessible: some students relied on supportive mentors, and others could not engage due to time constraints and infrequent group meetings](coaching-support-not-always-accessible.md) — related
 - [Scholars especially value mentors who attend to their well-being as a whole person, and identity-matched mentoring relationships can be especially meaningful or transformative](whole-person-and-identity-matched-mentoring-valued.md) — related
+- [Participant feedback indicated the online Vigyan Vidushi summer school was highly successful, with career-discussion interactions especially appreciated](vigyan-vidushi-participant-feedback-career-mentoring.md) — related

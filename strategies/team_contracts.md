@@ -69,6 +69,7 @@ Team contracts address the two most common failure modes of [Collaborative Learn
 - [Build conflict-resolution and communication skills into multidisciplinary team projects](conflict-resolution-modules-multidisciplinary-teams.md)
 - [Milestone structure for team innovation projects with early team formation and provisional patent filing](am-project-milestone-structure.md)
 - [Require a team contract at semester start to safeguard against group-work failures in ILB projects](team-contract-group-harmonization-strategy.md)
+- [Use a three-part partner agreements intervention of individual reflections, partner agreement forms, and partner reflection forms to scaffold equitable group dynamics](partner-agreements-intervention-strategy.md)
 
 ## Examples
 - **Project-based courses (e.g., PBLWorks exemplar projects)** — teams draft a "group contract" in week one covering roles, meeting schedules, and conflict resolution; PBLWorks publishes [contract templates](https://www.pblworks.org) used across K–12 project-based learning.

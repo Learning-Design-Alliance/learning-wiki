@@ -70,3 +70,4 @@ Intent-to-treat estimate from a proctored, in-person randomized experiment (211 
 - [In math problem solving, a tutor LLM alone significantly improved unassisted test accuracy over no-agent control, while peer-like error agents alone did not reach significance](tutor-alone-significant-peers-alone-not-math.md) — related
 - [Students learn more with a research-based AI tutor than with in-class active learning on identical content (post-test scores)](ai-tutor-beats-active-learning-post-test.md) — related
 - [Participants on the AI-tutored problem-solving platform (Platform B) achieved raw learning gains 70.43% higher than participants on the traditional video-and-quiz platform (Platform A) in a 3-hour linear regression course](platform-b-higher-raw-learning-gains.md) — related
+- [Codex and Baseline groups perform similarly on immediate post-test without AI access](codex-similar-immediate-posttest.md) — reports the opposite

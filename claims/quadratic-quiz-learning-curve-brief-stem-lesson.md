@@ -53,3 +53,4 @@ Results analysis of two written fact-retrieval quizzes (linear forces and moment
 - [Experimental-group quiz scores rose significantly from before to after each PA-PBL session](pa-pbl-quiz-gains-pre-post.md) — related
 - [Knowledge scores decline significantly between an immediate quiz and an eight-week quiz after both eModule and Wikipedia-like learning activities](significant-knowledge-decline-after-both-cal-activities.md) — related
 - [Performance declined from posttest to delayed posttest in all groups, but the decline was greater for the lecturing group, whose instructional efficiency fell while PBL groups' rose](time-by-strategy-interaction-retention.md) — related
+- [Mean final course grade rises quadratically with the logarithm of term-aggregated practice-study volume, with an overall gain of 0.77±0.12 grade points between 1 and 1000 questions](log-quadratic-grade-gain-practice-volume.md) — related

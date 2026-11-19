@@ -79,3 +79,4 @@ Format main effect on accuracy in the same ANOVA: symbolic numbers were responde
 - [Defective children respond more slowly and more irregularly on the word-association test than normal children](defectives-slower-irregular-association-response-times.md) — related
 - [Children with dyscalculia show consistent impairments in symbolic number processing, suggesting symbolic measures as diagnostic markers](dyscalculia-symbolic-processing-diagnostic-markers.md) — related
 - [In a math proofreading task, Montessori-schooled children respond faster than traditionally-schooled children despite similar accuracy](montessori-faster-response-math-fmri.md) — related
+- [Lower accuracy and near-identical reaction-time variances in the high group argue against careful reading as the explanation for their slower responses](reading-habit-explanation-rejected.md) — related

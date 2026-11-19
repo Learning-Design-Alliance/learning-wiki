@@ -54,4 +54,4 @@ Because students' prior courses give assumptions pre-made or implicit, the cours
 -
 
 ## Key Sources
-- Cantalupo, S. (2022). Rediscovering Practice and Inquiry in Academic Education: Experiences in a European University Environment. In S. Seagroves, A. Barnes, A.J. Metevier, J. Porter, & L. Hunter (Eds.), Leaders in effective and inclusive STEM: Twenty years of the Institute for Scientist & Engineer Educators. UC Santa Cruz: Institute for Scientist & Engineer Educators. https://escholarship.org/uc/item/32p685gq
+- Cantalupo, S. (2022). Rediscovering Practice and Inquiry in Academic Education: Experiences in a European University Environment. In S. Seagroves, A. Barnes, A.J. Metevier, J. Porter, & L. Hunter (Eds.), Leaders in effective and inclusive STEM: Twenty years of the Institute for Scientist & Engineer Educators. UC Santa Cruz: Institute for Scientist & Engineer Educators. https://escholarship.org/uc/item/32p685gq. [doi:10.48550/arxiv.2210.10393](https://doi.org/10.48550/arxiv.2210.10393)

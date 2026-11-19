@@ -49,3 +49,4 @@ Pre/post self-report of intentions among the 61 intervention students, measured 
 - [Interacting with an eco-feedback LLM interface surfaces gaps in students' understanding of digital sustainability and supports learning about the environmental impact of everyday LLM use](eco-feedback-interface-supports-sustainability-learning.md) — related
 - [After the program, 88.5% of students stated they would go to a doctor upon discovering a breast problem, a highly statistically significant change](bse-education-improved-referral-intention.md) — related
 - [Self-reported preventive behaviors regarding EDCs improved by a mean 2.13 points on a 5-point scale (P<.001)](edc-elearning-behavior-gains.md) — related
+- [The final questionnaire indicated changes in student habits and behaviours producing small savings of water and electricity, and high motivation with the activities](habit-change-and-motivation-abase-de-pros.md) — related

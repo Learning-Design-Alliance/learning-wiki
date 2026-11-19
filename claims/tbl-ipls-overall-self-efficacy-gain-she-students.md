@@ -53,3 +53,4 @@ Pre/post SOSESC-P survey data from 131 students (91 she-identifying) in three TB
 - [Large, diverse, long-lasting TBL teams are posited as drivers of verbal-persuasion self-efficacy gains in she-identifying students](tbl-team-structure-verbal-persuasion-source.md) — related
 - [A gender gap in individual exam performance narrows but persists from Exam I to Exam III](pronoun-gap-individual-exams-narrows-persists.md) — related
 - [A pre/post self-efficacy shift is a stronger predictor of earning at least a B on individual assessments than pronoun identification](self-efficacy-shift-predicts-individual-assessment-success.md) — related
+- [The class showed positive but not statistically significant self-efficacy change over the semester (normalized change 0.09, Cohen's d = 0.27)](class-positive-nonsignificant-change-0-09.md) — related

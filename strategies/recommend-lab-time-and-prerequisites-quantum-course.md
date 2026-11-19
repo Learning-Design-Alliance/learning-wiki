@@ -49,6 +49,7 @@ From their lessons learned, the authors "highly recommend a required weekly 90 o
 
 - [Replace the final exam with a capstone-style programming project with code, report, and presentation components](capstone-final-project-replaces-final-exam.md)
 - [Extend hands-on and computer-application session durations and provide replication guidelines when organizing similar frontier-physics schools](lidyef2018-session-duration-and-replication-strategy.md)
+- [Schedule intermediate student-instructor meetings halfway through extended computational projects](intermediate-project-discussion-meetings-strategy.md)
 
 ## Examples
 -

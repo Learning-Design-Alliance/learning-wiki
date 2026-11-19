@@ -52,3 +52,4 @@ Program-level census by the science education specialists of adopters in six CWS
 - [One-time workshops raise awareness of evidence-based teaching strategies but are not sufficient for faculty to adopt them](workshops-insufficient-for-adoption-evidence-based-teaching.md) — related
 - [Many faculty who try research-based instructional strategies discontinue use after a single attempt due to lack of success and support](rbis-discontinuance-lack-of-support.md) — related
 - [Faculty interviews provided evidence of slippage in departments where SEI reforms were made after funding ended](sei-reform-slippage-after-funding.md) — related
+- [Discontinuation of research-based instructional strategies after trying fell from 32% of triers in 2008 to 5% in 2019](rbis-discontinuation-fell-32-to-5-percent.md) — related

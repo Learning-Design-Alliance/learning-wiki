@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 280 claims (214 show a difference, 47 mixed, 19 no difference) · 208 studies (112 associational, 39 causal, 30 review, 11 theoretical, 7 qualitative, 7 design, 2 quant-synthesis), `q1`–`q4` · 10 of 208 report an effect size · 278 claims rest on one study
+> **Evidence** · 285 claims (217 show a difference, 49 mixed, 19 no difference) · 213 studies (116 associational, 39 causal, 30 review, 11 theoretical, 8 design, 7 qualitative, 2 quant-synthesis), `q1`–`q4` · 10 of 213 report an effect size · 283 claims rest on one study
 
 ## How to read this page
 
@@ -317,6 +317,11 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [The level of education of the Australian indigenous population improved between 2001 and 2017, particularly in the two lowest education categories](../claims/indigenous-education-lower-tail-improvement-2001-2017.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Colombian achievement gaps differ substantially across ethnic groups: the White-Afrocolombian gap is 0.59 SD, the White-Indigenous gap 0.52 SD, and the White-Other gap 0.14 SD](../claims/colombia-gaps-differ-across-ethnic-groups.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Within Colombian schools, Afrocolombian, Indigenous and other minority students score 0.09, 0.11 and 0.03 SD lower than White peers, while a ten percentage-point rise in a group's school share is linked to drops of 0.71, 0.67 and 0.17 SD](../claims/colombia-within-school-gaps-and-contextual-effects-by-group.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [A model of final grade using math test score and study volume accounts for most demographic stratification, but first-generation students (−0.27±0.04 grade points) and underrepresented-minority students (−0.14±0.04) fall significantly below expectations](../claims/demographic-grade-deficits-first-gen-urm-physics.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Black FSM students show more positive stratum interaction effects than Black non-FSM students, and the ethnicity-by-FSM interaction becomes more important by age 16](../claims/ethnicity-fsm-interaction-achievement-london.md) [~M] — an instructional effect differs by group
+- [Graduation-rate gains associated with Learning Assistant support are larger for underrepresented minority (21 percentage points) and first-generation students (18 percentage points)](../claims/la-support-larger-gains-underrepresented-students.md) [+M] — an instructional effect differs by group
+- [Race/ethnicity is mostly unrelated to interaction network position in remote physics courses, with one exception in EM-Eng lab networks](../claims/race-ethnicity-unrelated-network-position.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Women and racial minorities are underrepresented in the U.S. STEM workforce](../claims/women-urm-underrepresented-stem-workforce.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

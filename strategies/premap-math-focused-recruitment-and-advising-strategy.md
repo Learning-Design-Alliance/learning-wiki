@@ -46,7 +46,8 @@ The authors' program recommendations: focus recruitment on underrepresented stud
 - [Pre-MAP recruits a higher percentage of underrepresented minorities and an equal percentage of women compared to the incoming UW class (2005-2011)](../claims/premap-recruits-higher-urm-percentage.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Advise community college students to enroll in developmental mathematics in their first semester before continuing astronomy coursework](early-developmental-math-advisement-astronomy-strategy.md)
 
 ## Examples
 -

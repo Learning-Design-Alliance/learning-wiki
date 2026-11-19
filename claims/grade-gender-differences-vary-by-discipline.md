@@ -76,3 +76,4 @@ Authors' acknowledgment in the results and discussion of the course-performance 
 - [Women who drop STEM majors earn statistically significantly higher STEM GPAs than men who drop the same majors](women-drop-stem-majors-higher-gpa-than-men-who-drop.md) — related
 - [A woman student can perform comparably to peers in introductory physics yet report low physics self-efficacy while feeling confident in a closely related field](low-physics-self-efficacy-despite-comparable-performance.md) — related
 - [Women who dropped STEM majors earned significantly higher STEM GPAs than men who dropped the same majors, with small-to-medium effect sizes.](women-dropping-stem-higher-gpa-than-men-dropping.md) — related
+- [Mean grade versus math test score is concave up in introductory physics but concave down in comparison STEM courses, with physics intercepts about 0.7 grade points lower at the physics median test score](physics-grade-penalty-concave-test-score.md) — related

@@ -51,3 +51,4 @@ ANOVA (Value ~ Country) on student and teacher survey responses; printed student
 - [Students rated other extracurricular activities as more useful than YPT-related activities for all soft skills except presentation and debating skills](extracurricular-vs-ypt-perceived-usefulness.md) — related
 - [Students perceived YPT-related activities as significantly more useful than regular physics classes only for debating skills, with no significant differences for other soft skills](ypt-vs-regular-classes-debating-only.md) — related
 - [Students with more weekly physics classes perceive YPT-related events as more useful, except for presentation and debating skills](physics-course-load-moderates-ypt-usefulness.md) — related
+- [Perceived usefulness of YPT activities differs by students' home country for all ten hard skills](country-differences-in-ypt-usefulness.md) — related

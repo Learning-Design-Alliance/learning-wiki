@@ -69,3 +69,4 @@ Null finding on the path-length measure from the same observational intergroup a
 - [Expert robotic surgeons show significantly lower (better) RULA ergonomic scores than novices during real-life robotic pulmonary vessel dissection](experts-lower-rula-scores-than-novices-robust.md) — related
 - [Non-dominant camera path length differs significantly across experience groups, with novices travelling furthest](nd-camera-path-length-group-difference.md) — related
 - [Experienced operators travelled a much shorter probe path than novices during the biometry task](shorter-probe-path-experienced-ultrasound-operators.md) — related
+- [Experts dwell relatively longer on relevant parameters (well spacing, d = 0.87) and shorter on the irrelevant tilt parameter (d = 0.80) than novices in Task 2](expert-novice-gaze-relevant-irrelevant-areas.md) — related

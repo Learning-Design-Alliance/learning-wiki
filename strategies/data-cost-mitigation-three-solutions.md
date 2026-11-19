@@ -40,6 +40,7 @@ The article identifies three main literature-derived solutions to data costs, wh
 
 - [Three-stage hybrid workflow: API batch review, identification of doubtful cases, focused conversational teacher review](three-stage-hybrid-ai-assessment-workflow.md)
 - [Deployment priorities for classroom AI feedback tools: latency ceiling, adaptive onboarding, and verifier transparency](classroom-ai-feedback-deployment-priorities.md)
+- [Local deployment via PyPI installation or flash-drive distribution for regions with limited internet](local-deployment-flash-drive-pypi-distribution.md)
 
 ## Examples
 -

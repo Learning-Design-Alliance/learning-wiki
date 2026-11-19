@@ -49,3 +49,4 @@ Numerical illustration using a hypothetical logistic true-score test (Fig. 7); t
 ## Related Claims
 - [Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02](hake-ie-gains-two-sd-greater.md) — related
 - [FCI normalized gains at KU are strongly modulated by English language proficiency, converging on Hake's averages only at high IELTS scores](fci-gain-modulated-by-language-proficiency.md) — related
+- [The GPT-3.5-to-GPT-4 score jump corresponds to a hypothetical normalized learning gain of g = 86.7%, more than twice the average effect of an interactive physics course](gpt4-hypothetical-normalized-gain-86-7.md) — related

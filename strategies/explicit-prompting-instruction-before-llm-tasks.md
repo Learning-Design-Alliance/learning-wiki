@@ -49,6 +49,7 @@ Based on the observed limits of trial-and-error prompting, the authors recommend
 - [Scaffold hypothesis formation before testing and provide tools for explicit hypothesis statements in games](scaffold-hypothesis-formation-before-testing.md)
 - [Support self-reflection through scaffolding, explicit instruction, simplified language, customization, and gamification](scaffold-self-reflection-makerspace-self-assessment.md)
 - [Teach prompt engineering before programming concepts, with scaffolded guidance for novices and exploratory approaches for advanced students](prompt-engineering-curriculum-integration-strategy.md)
+- [Include specific training for physics teachers in education programs on designing prompts for effective use of large language models](prompt-design-training-physics-teachers-strategy.md)
 
 ## Examples
 -

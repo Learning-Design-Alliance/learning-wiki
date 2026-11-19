@@ -43,6 +43,7 @@ To give the science content its social, political, economic and historical conte
 ## Related Strategies
 
 - [Run the dam visit as a multidisciplinary activity in which Physics, History and Geography teachers contextualize the same site around operation, economy and impacts](multidisciplinary-dam-visit-activity.md)
+- [Two-researcher cross-disciplinary dialogue format with moderator and live audience interaction](cross-disciplinary-dialogue-seminar-format.md)
 
 ## Examples
 -

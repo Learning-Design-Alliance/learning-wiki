@@ -69,3 +69,5 @@ Social validity data collected at posttest from intervention teachers using a si
 - [All surveyed teachers reported significant or very significant student learning outcomes and would recommend the project](airbit-teacher-reported-outcomes.md) — related
 - [Teachers rated the CPS approach and its components positively after a professional-development course](teachers-rate-cps-positively.md) — related
 - [The fully online iteration maintained uniformly positive participant feedback and reached teachers who could not have joined an in-person program](sattaa-online-format-reach.md) — related
+- [Participant feedback on ASP2022 was generally positive, with most participants satisfied and willing to recommend ASP to colleagues](asp2022-feedback-generally-positive.md) — related
+- [Teachers judged the VR activity most suitable for the final months of the fourth or fifth year of Italian high school, and all said they would recommend it to other classes](vr-lab-visit-suitability-and-recommendation.md) — related

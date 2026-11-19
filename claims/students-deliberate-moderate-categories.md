@@ -55,3 +55,5 @@ Think-aloud interviews with four introductory students plus a few graduate stude
 - [Introductory-level students did not perceive the quiz and midterm problems as similar, suggesting the midterm was a far rather than near transfer problem that may explain the poor overall performance](students-perceive-isomorphic-problems-as-different.md) — related
 - [The problem-sorting exercise replacing strategy maps produced more enthusiastic, higher-level discussions and matched think-aloud videos as students' favorite exercise](problem-sorting-engagement.md) — related
 - [Experts use general patterns and broad categorizations when solving physics problems, but novices do not make this leap as readily](experts-categorize-novices-do-not-physics-problems.md) — related
+- [Distinguishing fundamental physical principles from surface features is a critical aspect of problem solving](distinguish-principles-from-surface-features.md) — related
+- [The developers chose peer-reviewed simulations of specific named discs over generic models to maximise outreach value](peer-reviewed-specific-disc-data-design-choice.md) — related

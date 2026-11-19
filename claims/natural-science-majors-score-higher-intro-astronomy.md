@@ -58,3 +58,4 @@ Comparative analysis of ASTR122 total scores by major category across the four-t
 - [ASTR122 total scores correlate with combined SAT score (R=0.49) and with overall college GPA (Pearson r = 0.65)](astronomy-course-score-correlates-sat-and-gpa.md) — related
 - [LCQ achievements differ statistically between students of natural sciences or technology and students of social sciences or humanities](lcq-field-of-study-difference.md) — related
 - [General education science students enter courses with a wide distribution of quantitative ability and a low average score (mean 13.8 of 25, 55%)](wide-low-distribution-quarcs-pre-semester-scores.md) — related
+- [Community college astronomy enrollments are predominantly non-STEM majors with substantial mathematics remediation need](astronomy-enrollment-profile-nonstem-majors-remediation.md) — related

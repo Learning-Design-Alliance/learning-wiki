@@ -48,3 +48,4 @@ Yes/No self-report survey item administered to the 9 experimental-group students
 - [High school students using the Every Circuit virtual module scored higher on the post-quiz than the paper-based control group after starting with nearly identical pre-quiz scores](every-circuit-post-quiz-outperformed-control.md) — related
 - [Experimental-group students rated the Every Circuit system highly enjoyable, with all nine responses between 7 and 9 on a 1-10 scale](every-circuit-enjoyment-ratings.md) — related
 - [Both the experimental and control groups improved on the series-circuit drawing question, with the control group reaching 100.00%](series-circuit-drawing-improvement-both-groups.md) — related
+- [Students rated interactions with researchers as useful and helpful for understanding the remote experiments](researcher-interaction-useful-remote-lab.md) — related

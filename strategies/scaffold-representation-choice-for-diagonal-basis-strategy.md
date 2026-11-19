@@ -44,7 +44,8 @@ Based on the in-class evaluation, the authors plan revisions so students learn t
 - [CQS students improved from pretest to posttest on all four pre/posttest questions, with normalized gains from 0.31 to 0.88 (N=16)](../claims/cqs-pre-post-normalized-gains-all-questions.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Develop multiple-representation learning and homework materials in which students answer one question using several methods](multiple-representation-qc-materials-strategy.md)
 
 ## Examples
 -

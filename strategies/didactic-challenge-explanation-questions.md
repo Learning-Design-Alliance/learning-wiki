@@ -41,6 +41,7 @@ The article proposes confronting learners with questions whose required skill is
 ## Related Strategies
 
 - [Present a problem for small-group explanation discussion before assigning the relevant expository text](pre-text-small-group-explanation-discussion.md)
+- [Audit which conceptual and mathematical skills should form the desired learning outcomes of physics courses in a future where physicists solve problems through dialog with AI systems](audit-learning-outcomes-for-ai-era-physics.md)
 
 ## Examples
 -

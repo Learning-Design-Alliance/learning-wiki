@@ -66,3 +66,4 @@ Paired within-subject comparison of semester versus exam-period usage frequency 
 ## Related Claims
 - [Wilcoxon pairwise comparisons showed Claude rated significantly higher than ChatGPT, Gemini, and DeepSeek in overall student ratings](wilcoxon-claude-beats-other-models.md) — related
 - [Test-takers rate LLM-generated feedback as persuasive and useful as human instructor feedback (Wilcoxon signed-rank tests show no significant difference)](llm-feedback-rated-equal-to-human-feedback.md) — related
+- [Most surveyed physics students had heard of ChatGPT and about half had used it, but only a minority had used it for physics questions](student-familiarity-with-chatgpt-survey.md) — related

@@ -54,3 +54,4 @@ Thematic analysis of reflective essays and both focus group interviews in the ca
 - [GenAI novices develop prompting strategies through trial and error, starting from zero-shot prompts and refining them after unsatisfactory outputs](novices-refine-prompts-trial-and-error.md) — related
 - [When refined prompts failed, novices overgeneralized and concluded LLMs could not detect anaphors, attributing failure to the model rather than to their prompting](novice-overgeneralization-llm-incapability.md) — related
 - [Positive attitudes toward ChatGPT increased from before to during the practicum](chatgpt-attitudes-increased-during-practicum.md) — related
+- [Early question prompts elicited LA responses too vague to reflect video-observed PCK until prompts explicitly asked about specific PCK components](explicit-pck-component-prompts-elicit-pckq.md) — related

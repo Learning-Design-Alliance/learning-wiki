@@ -50,3 +50,4 @@ Author's first-person report of the outcome of the school's participation in the
 - [The 2018 MAES received 89 registered projects, 65.2% from federal institutes and 34.8% from state schools, with no private-school participation](maes-2018-registration-composition.md) — related
 - [The authors' mentored projects show high competition placement rates and frequent publication](mentored-science-project-outcome-rates.md) — a broader claim this one bears on
 - [MAES 2019 broadened eligibility to 9th-grade and private-school students, diversifying school types among participants](maes-2019-eligibility-broadening.md) — related
+- [Students won multiple OTDK prizes in 2019 and 2021, with more first places in 2021](konkoly-students-otdk-prizes.md) — related

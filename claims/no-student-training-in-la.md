@@ -46,3 +46,4 @@ Interview data show "none of the most experienced institutions have offered trai
 
 ## Related Claims
 - [European HE institutions perceive LA primarily as a tool to enhance teaching and institutional management, with teaching and support staff as main users](la-perceived-teaching-management-tool.md) — related
+- [Educators and learners are the main stakeholder targets of LA tools, but most tools treat users as passive consumers of visualizations](la-tools-target-educators-learners-passive-users.md) — related

@@ -48,3 +48,4 @@ Qualitative round-table feedback from the pilot workshops. The article additiona
 - [Students reported learning what is inside the atom and that particles can be created or disappear through interactions](particle-dance-atom-learning-outcomes.md) — related
 - [Students reported that the greatest difficulty lay in working in groups, while the most frequently shared feeling was enjoyment](student-difficulty-groupwork-enjoyment.md) — related
 - [Surprise is the most frequently shared emotion among learners in synchronous online collaborative English discussion tasks](surprise-most-frequent-shared-emotion-esl-cscl.md) — related
+- [Teachers judged the VR activity effective in helping students understand and visualise particle physics and inspiring interest in science and physicists' work](vr-lab-visit-understanding-and-interest-outcomes.md) — related

@@ -44,7 +44,8 @@ The article recommends that test developers replace complex multiple-choice resp
 - [Most physics concept inventories do not directly measure problem solving, and the Mechanics Baseline Test cannot evaluate authentic scientific practice skills because of its multiple-choice format](../claims/concept-inventories-do-not-directly-measure-problem-solving.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use autograded graph problems with None-of-these options and student-generated graphs, grading for consistency](graph-problem-instructional-suggestions.md)
 
 ## Examples
 -

@@ -49,6 +49,7 @@ Partnering with accessibility specialists at GLAS, the project developed an imag
 - [Use process driven math to break math problems into navigable pieces for students accessing math auditorily](process-driven-math-auditory-bvi.md)
 - [Use scale-visualization imagery to convey astronomical magnitudes](logarithmic-universe-imagery-strategy.md)
 - [Provide sonification of astronomical data with sufficient context, since sounds without context are hard to interpret](sonification-with-context-strategy.md)
+- [Combine tactile sky models with sonic resources (sonifications and audio descriptions) in inclusive astronomy activities](combine-tactile-models-with-sonic-resources.md)
 
 ## Examples
 -

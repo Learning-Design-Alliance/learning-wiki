@@ -38,7 +38,9 @@ Because students struggled to arrange meetings around course loads, work and fam
 - teamwork and collaboration skills
 
 ## Related Strategies
+
 - Semester Long Collaborative Project Design
+- [Schedule intermediate student-instructor meetings halfway through extended computational projects](intermediate-project-discussion-meetings-strategy.md)
 
 ## Examples
 -

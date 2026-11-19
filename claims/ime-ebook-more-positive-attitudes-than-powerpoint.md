@@ -47,3 +47,4 @@ Five-question five-point Likert feedback questionnaire administered at the end o
 ## Related Claims
 - [Interns learning blood cell morphology with an interactive multimedia eBook achieved significantly better post-test scores than interns learning with a traditional PowerPoint atlas](ime-ebook-better-posttest-than-powerpoint.md) — related
 - [The eBook and PowerPoint groups did not differ in pre-test cell identification scores](no-pretest-difference-ime-tpp.md) — related
+- [Compared to students in traditional lecture-based courses, HoS students changed in the opposite direction on all four attitude dimensions (significant group × time interactions)](hos-versus-lecture-opposite-attitude-change.md) — related

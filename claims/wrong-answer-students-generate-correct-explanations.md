@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-11-19
 sources:
   - id: nolan-k-weinlader-2019
     resource: "https://doi.org/10.48550/arXiv.1909.01455"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On Two Boats Q1, 11 of the 13 students who believed strongly in the incorrect answer provided a valid explanation for the correct answer when prompted. [→ Nolan K. Weinlader 2019](#nolan-k-weinlader-2019)

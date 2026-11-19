@@ -55,6 +55,7 @@ Given the models' limitations on image-based and interpretative questions, the a
 - [Use LLMs in medical education as support tools requiring human review, not as independent decision-makers or authoritative instructors](llms-as-support-tools-medical-education.md)
 - [Provide expert-written image hints and human oversight when using multimodal LLMs for image-based medical learning or decision support](expert-image-hints-with-human-oversight-strategy.md)
 - [Equip future AI exam-preparation models with consistently updated clinical resources such as UpToDate instead of static textbooks](updated-clinical-resources-for-ai-exam-training.md)
+- [Apply human quality-check supervision before deploying LLM-generated hint content in tutoring systems](human-quality-checks-for-llm-hints.md)
 
 ## Examples
 -

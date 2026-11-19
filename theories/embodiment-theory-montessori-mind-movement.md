@@ -56,6 +56,7 @@ The theory of embodiment sees meaning and cognition as deeply rooted in physical
 - [Use four embodied strategies — gestures, manipulation, body metaphors, and reconstructive eye movements — to ground animation movements in learners' bodies](../strategies/four-embodied-strategies-dynamic-visualizations.md)
 - [Use foam-projectile embodied metaphors to teach four key concepts of neural communication](../strategies/foam-projectile-embodied-neural-communication-activities.md)
 - [Embodied metaphor: whole-body engagement with a metaphor supports learning of abstract science concepts beyond passive engagement](../designs/embodied-metaphor-whole-body-engagement.md)
+- [Teach AI concepts through everyday-context, unplugged and hands-on activities](../strategies/everyday-context-unplugged-ai-activities.md)
 
 ## Key Sources
 - Ahlquist, E.-M. T., & Gynther, P. (2020). Teaching in the Montessori Classroom: Investigating Variation Theory and Embodiment as a Foundation of Teachers' Development. Journal of Montessori Research, 6(1). https://journals.ku.dk/jmr. [doi:10.17161/jomr.v6i1.12051](https://doi.org/10.17161/jomr.v6i1.12051)

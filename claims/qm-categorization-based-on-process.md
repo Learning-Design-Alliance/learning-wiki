@@ -51,3 +51,4 @@ Secondary analysis of the Lin and Singh categorization study, in which 22 physic
 - [Physics faculty members' categorizations of quantum mechanics problems were rated higher overall than those of undergraduate students by faculty evaluators](faculty-qm-categorizations-rated-higher-than-students.md) — related
 - [Experts categorise problems by solution principles while novices categorise by surface features](experts-categorise-by-solution-novices-by-surface.md) — a broader claim this one bears on
 - [Documented student difficulties in upper-level quantum mechanics are dominated by measurement and time evolution and related procedures](qm-difficulty-review-measurement-time-evolution.md) — related
+- [Distinguishing fundamental physical principles from surface features is a critical aspect of problem solving](distinguish-principles-from-surface-features.md) — related

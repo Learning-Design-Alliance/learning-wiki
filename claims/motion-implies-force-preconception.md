@@ -54,3 +54,4 @@ Clement (1983) asked first-year pre-engineering college students to draw a force
 - [Beyond expanding-substrate models, expanding-space preconceptions are more likely to hinder than aid understanding of peculiar velocities, out-of-flow galaxies, and bound systems](expanding-space-preconceptions-hinder-beyond-models.md) — related
 - [Even after interviewer-led critical analysis, STs initially overlooked missing forces and accepted a physically unjustified localized tangential force](initial-critical-analysis-limitations.md) — related
 - [An important set of students maintains the everyday prior idea that greater fluid velocity implies greater pressure, which competes with the taught inverse relation](students-maintain-higher-pressure-higher-velocity-prior-idea.md) — a narrower finding that bears on this claim
+- [ChatGPT's FCI errors include impetus-type preconceptions shared with beginning physics students](chatgpt-impetus-preconception-errors.md) — related

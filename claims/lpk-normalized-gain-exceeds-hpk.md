@@ -59,3 +59,4 @@ Generalized mixed model with normalized learning gain as response, agency group 
 - [Students with low prior knowledge show significantly higher proportional learning gains than students with high prior knowledge when learning with MetaTutor](lpk-higher-proportional-learning-gain-metatutor.md) — related
 - [In Experiment 2, low prior knowledge students improved more from worked-example assignments than higher prior knowledge peers](prior-knowledge-moderates-worked-example-benefit.md) — related
 - [Animation-based teaching benefits high prior knowledge learners (weighted mean effect size 0.49) but not low prior knowledge learners (-0.16)](animations-effective-only-high-prior-knowledge.md) — related
+- [Normalized learning gains showed no significant RL-versus-control difference in either study, though low pretest students again showed larger NLG in the RL condition](nlg-no-significant-difference.md) — related

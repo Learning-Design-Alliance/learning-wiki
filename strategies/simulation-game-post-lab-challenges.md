@@ -45,6 +45,7 @@ Post-lab questions extend the experiment with open-ended application tasks in th
 ## Related Strategies
 
 - [Use OER-based simulations and video analysis to simulate in-person physics labs remotely](oer-simulation-video-analysis-virtual-labs-strategy.md)
+- [Extend uncertainty learning to everyday contexts with fluctuation-based challenges and magnetometer experiments](everyday-fluctuation-challenges-extensions.md)
 
 ## Examples
 -

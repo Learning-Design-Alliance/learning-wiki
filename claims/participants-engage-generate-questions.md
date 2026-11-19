@@ -87,3 +87,4 @@ The authors report that at teacher training events the participating teachers ge
 - [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) — related
 - [Workshop engagement reaches an inflection point at the first shareback of newly generated text, after which participant questions about LLMs become more incisive](shareback-inflection-point-engagement.md) — related
 - [AI-mediated feedback in hands-on exhibits improves learning and engagement](ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement.md) — related
+- [The nuclear-physics sequence was evaluated for scientific-literacy and engagement indicators during interventions in a Brazilian public school](nuclear-sequence-literacy-engagement-evaluation.md) — related

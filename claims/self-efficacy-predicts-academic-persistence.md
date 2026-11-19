@@ -232,3 +232,5 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [When self-efficacy is low, repeated negative or diminishing peer-comparison feedback may worsen self-efficacy and lead toward goal abandonment](negative-feedback-may-worsen-low-self-efficacy.md) — related
 - [Self-confidence and self-efficacy are reported as the most significant and powerful influences on persistence with a subject](affect-self-efficacy-persistence.md) — a narrower finding that bears on this claim
 - [In the landscape of college physics challenges, mindset beliefs cannot always be considered the dominant factor in how students respond to challenge](mindset-beliefs-not-always-dominant.md) — related
+- [A reflective essay argues that working through initially overwhelming physics problems lets learners begin to develop confidence, within and beyond the physics classroom](physics-problems-build-confidence.md) — related
+- [Students' belief in their ability to learn material is linked with success in learning it](self-belief-linked-to-learning-success.md) — a narrower finding that bears on this claim

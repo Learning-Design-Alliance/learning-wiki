@@ -53,3 +53,4 @@ Observational comparison of course letter grades for about two-thirds of Sample 
 - [Male-instructed classes show a small performance gender gap in favor of males (0.20 SD), while female-instructed classes show no significant gap](male-instructed-classes-performance-gap.md) — reports the opposite
 - [Female students had higher high school GPA but lower physics 1 and 2 grades than male students, with small effect sizes](gender-grade-patterns-intro-physics-hs-gpa.md) — reports the opposite
 - [Male and female students earn statistically indistinguishable graduate GPAs despite a statistically significant 30-point percentile gap in GRE-P scores between genders](gender-grep-gap-no-ggpa-gap.md) — related
+- [No apparent patterns between gender and control or agreement scores in the preliminary subset](no-gender-pattern-dominance-scores-preliminary.md) — related

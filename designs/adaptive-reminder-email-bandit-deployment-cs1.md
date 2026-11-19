@@ -48,4 +48,4 @@ A 13-week field deployment in a first-year CS1 course, where weekly reminder ema
 -
 
 ## Key Sources
-- Yanez, F. J., Zavaleta-Bernuy, A., Han, Z., Liut, M., Rafferty, A., & Williams, J. J. (2022). Increasing Students’ Engagement to Reminder Emails Through Multi-Armed Bandits. https://arxiv.org/abs/2208.05090
+- Yanez, F. J., Zavaleta-Bernuy, A., Han, Z., Liut, M., Rafferty, A., & Williams, J. J. (2022). Increasing Students’ Engagement to Reminder Emails Through Multi-Armed Bandits. https://arxiv.org/abs/2208.05090. [doi:10.48550/arxiv.2208.05090](https://doi.org/10.48550/arxiv.2208.05090)

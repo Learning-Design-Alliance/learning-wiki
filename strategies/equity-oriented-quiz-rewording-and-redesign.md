@@ -52,4 +52,4 @@ The article notes phrasing matters for equity and inclusion, citing McCullough &
 -
 
 ## Key Sources
-- Cooksey, K. L. & Jonsson, P. (2022). Using Pre-/Post-Quizzes Intentionally in Curriculum Development and Evaluation. UC Santa Cruz: Institute for Scientist & Engineer Educators. https://escholarship.org/uc/item/6fz0181f
+- Cooksey, K. L. & Jonsson, P. (2022). Using Pre-/Post-Quizzes Intentionally in Curriculum Development and Evaluation. UC Santa Cruz: Institute for Scientist & Engineer Educators. https://escholarship.org/uc/item/6fz0181f. [doi:10.48550/arxiv.2210.01823](https://doi.org/10.48550/arxiv.2210.01823)

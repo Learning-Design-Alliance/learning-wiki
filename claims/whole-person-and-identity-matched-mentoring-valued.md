@@ -50,3 +50,5 @@ Semi-structured interviews with 30 scholars across 2018-2020 (14 in 2018, 9 in 2
 - [Mentors of color were especially valuable to apprentices of color, who wanted more intentional mentor matching](rtap-mentors-of-color-especially-valuable.md) — related
 - [Mentorship was important to apprentices, but mentor quality and time with mentors varied across programs](rtap-mentorship-value-and-variability.md) — related
 - [A mentoring group begins meaningful reflective discourse when a member dares to address a personally challenging topic, and an atmosphere of security and interest is a precondition for this pivotal point](pivotal-point-courage-security-reflective-groups.md) — related
+- [Lack of culturally responsive mentoring can produce identity interference with psychological and academic costs for underrepresented mentees](identity-interference-without-culturally-responsive-mentoring.md) — related
+- [Penn State UCEM scholars achieved a 95% completion rate over 22 years with multi-level mentoring support](ucem-95-percent-completion-rate.md) — related

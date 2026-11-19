@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-11-19
 sources:
   - id: yangqiuting-li-2020
     resource: "https://doi.org/10.1119/10.0002067"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the SEM with gender mediation, gender did not directly predict physics 2 grade or post self-efficacy; the gender differences at the end of physics 2 were mediated by perceived recognition in physics 2 plus physics 1 grade and self-efficacy. [→ Yangqiuting Li 2020](#yangqiuting-li-2020)
@@ -52,3 +53,4 @@ Structural equation modeling with gender mediation on matched students (233 fema
 - [Gender differences in post-course self-efficacy, interest, and identity are mediated by the learning environment, with gender directly predicting only pre-course beliefs and environment perceptions](learning-environment-mediate-gender-differences-motivation.md) — possibly the same claim (merge candidate)
 - [Physics identity at the end of physics 2 is directly influenced by perceived recognition (largest effect, b = 0.71) and self-efficacy, with a small direct effect from interest](physics-identity-predicted-recognition-largest.md) — related
 - [In the SEM model, gender has no direct effects on end-of-physics-2 self-efficacy, interest or identity; gender directly predicts only physics 1 self-efficacy (b = 0.28) and interest (b = 0.36)](sem-no-direct-gender-effects-physics2-outcomes.md) — related
+- [Omitting early mediating variables (Interest, Self efficacy 1, SAT Math, high school GPA) can create spurious direct gender effects on downstream variables, inflating the apparent role of the college learning environment](omitted-early-mediators-spurious-gender-effects.md) — related

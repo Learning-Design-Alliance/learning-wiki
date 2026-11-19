@@ -81,3 +81,4 @@ Experiment 1 agreement analysis (Table 4): 9-ChatGPT agreement on the ChatGPT-ge
 - [LLM data extraction accuracy varies by data type, with high precision but lower recall across tasks](llm-extraction-high-precision-lower-recall.md) — related
 - [All four LLMs completed the 240-question assessment in under 3 minutes, far faster than the human time allocation](llms-complete-frcs-urol-under-three-minutes.md) — related
 - [Generative AI, when used under precise conditions, reduces the cost and time of producing high-quality MCQs without compromising quality](genai-reduces-mcq-cost-and-time.md) — related
+- [Davinci-003 API can generate questions of varying difficulty and evaluate student answers from instructions and context](davinci-003-generates-graded-questions-and-evaluates-answers.md) — related

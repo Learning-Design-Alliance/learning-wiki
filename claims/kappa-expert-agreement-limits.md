@@ -53,3 +53,4 @@ The authors' methodological argument (type e) about kappa-based criterion evalua
 - [The rule-based recipe annotation system reaches near-perfect inter-annotator agreement (Cohen's Kappa 0.85) and average accuracy 0.95 in a validation on sampled recipe segments.](relex-annotation-validation-kappa-accuracy.md) — related
 - [Human Graders of Open-Ended Work Agree With Each Other Less Than Treating One Grade as Ground Truth Implies](human-graders-agree-less-than-single-grade-ground-truth-implies.md) — related
 - [GAME's marks agree with a human marker's marks on student programming exercises and assignments](game-marks-agree-with-human-marker.md) — related
+- [Five independent markers agreed closely with one another (73.0 ± 1.6, 72.6 ± 2.0, 69 ± 2, 70 ± 2, 70.6 ± 1.9), supporting marking validity](independent-marker-agreement-on-ai-essays.md) — related

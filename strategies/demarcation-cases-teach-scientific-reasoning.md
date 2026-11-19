@@ -44,6 +44,7 @@ The course teaches demarcation criteria through historical astronomy cases. Stud
 - [Teach the philosophy of science through the dark matter problem and galaxy rotation curves in mechanics courses](dark-matter-philosophy-of-science-case-study.md)
 - [Teach physics concepts through a historical approach showing discovery and evolution over time](historical-approach-physics-concepts-strategy.md)
 - [Pose open ethical and epistemological questions about space exploration as inspirational anchors for student reasoning](space-ethics-questions-as-inspirational-anchors.md)
+- [Nature-of-science debate after the Rutherford experiment: theory-experiment dialectic and the role of mathematics](nature-of-science-debate-rutherford-sequence.md)
 
 ## Examples
 -

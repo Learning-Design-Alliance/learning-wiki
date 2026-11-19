@@ -109,3 +109,4 @@ On the same survey question 2(a), 9% of the 202 students wrote responses with no
 - [Many non-specialist physicists incorrectly believe special relativity cannot model time dilation due to acceleration](physicists-misconception-sr-cannot-handle-acceleration.md) — related
 - [Students attributed Time Evolution to Physical Systems themselves rather than to states, and only one student evidenced the role of initial conditions in both Classical and Quantum Mechanics](time-evolution-attributed-to-system.md) — related
 - [Upper-undergraduate students hold naïve ideas of revival and decay for quantum time evolution after measurement](naive-revival-decay-ideas-quantum-time-evolution.md) — related
+- [Phase kickback was a major difficulty common to almost all interviewed students after the introductory quantum computing course](phase-kickback-major-difficulty.md) — related

@@ -50,3 +50,4 @@ Pairwise post-hoc comparisons in the same randomized 3x4 experiment (N = 274). T
 - [Generative AI-generated hints can be as effective as human-generated hints for mathematics performance, but ensuring accuracy requires validation procedures that discard a substantial share of generated hints](genai-hints-effective-but-require-validation.md) — a broader claim this one bears on
 - [ChatGPT 3.5 produced low-quality hints for 32% of problems, reducible to near 0% for algebra and 13% for statistics via the self-consistency technique](chatgpt-hint-error-rate-self-consistency.md) — related
 - [AI multimodal feedback produces post-test learning gains equivalent to educator feedback after controlling for pre-test performance](ai-multimodal-feedback-equivalent-learning-gains.md) — related
+- [Within-condition pre-to-post differences were statistically significant in the manual-hint conditions, but not in the ChatGPT conditions](chatgpt-hint-gains-not-significant.md) — related

@@ -48,3 +48,4 @@ Case-study evidence drawn from Pollock's memoir as quoted in the article. Decade
 - [A mentoring perspective argues mentors should positively recognize and praise student progress, citing literature that lack of recognition harms underrepresented students' entry and retention in physics](micro-affirmations-recognize-student-progress.md) — a broader claim this one bears on
 - [Female faculty mentors, role models, and supportive peers provided reassurance and comfort that helped a woman physics major persist](female-mentorship-supports-persistence-women-physics.md) — related
 - [Interviewed women reported belittling instructor comments, unequal praise of men, and contemplating leaving their majors because of negative physics course experiences](interviews-women-belittling-comments-unequal-praise.md) — related
+- [Some female physics students reported instructors and advisors underestimating their abilities and potential](underestimated-abilities-potential.md) — related

@@ -54,3 +54,4 @@ Pre/post survey question across the CCS iterations on whether tasks came from ou
 - [Working with statistically messy authentic data in citizen science gave middle school students a window into scientists' world and intense experience with scientific reasoning](messy-radon-data-window-into-scientists-world.md) — related
 - [Students most strongly felt like data scientists during the open-ended final project, supporting disciplinary authenticity](final-project-felt-like-data-scientist.md) — related
 - [The MobiLAP intervention significantly increased ninth-graders' attitudes and perceptions of self as citizen scientists (Ideas about Citizen Science subscale)](mobilap-increased-citizen-science-identity.md) — related
+- [Tasks cuing the presence of a real-world context are more likely to invoke students' everyday and curricular knowledge and to generate and connect diverse ideas](real-world-context-cues-everyday-and-curricular-knowledge.md) — related
