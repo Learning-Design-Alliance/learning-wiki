@@ -71,3 +71,4 @@ Mixed-design ANOVA on pre/post English achievement tests (grammar, vocabulary, r
 - [Seven weeks of Smartboard instruction produced significantly higher post-treatment motivation than traditional whiteboard instruction in Saudi preparatory-year EFL learners](smartboard-raises-efl-motivation-saudi-pyp.md) — related
 - [AI-mediated active learning produces significantly larger EFL writing gains than traditional teacher-centered instruction in a 15-week quasi-experiment](ai-mediated-active-learning-writing-gains.md) — related
 - [AI-mediated active learning advantages in EFL writing emerge after roughly 6-8 weeks of partnership development](cognitive-partnership-6-8-week-maturation.md) — related
+- [GPT-4 interactive homework improved grammar learning gains for third-year students but not fifth-year students](gpt4-homework-tutor-learning-gains.md) — a narrower finding that bears on this claim

@@ -53,3 +53,4 @@ Same randomized two-group SafeCracker experiment with 72 students. The worked ex
 - [Quality of self-generated examples correlated with knowledge transfer and perceived learning control but not with knowledge retention](example-quality-correlates-transfer-control.md) — related
 - [Worked examples improved the exchange of relevant information in the CDR process, driven by the initial-situation step](worked-examples-improve-information-exchange-process.md) — related
 - [Worked-example gains in a puzzle game remained small relative to expert performance, with the worked example group learning only 2.7% of experts' knowledge-map knowledge](worked-example-gains-in-a-puzzle-game-remain-small-relative-to-expert-knowledge-maps.md) — related
+- [Participants with theoretical knowledge outperformed on knowledge questions but lagged on advanced game levels](gamedevdojo-theoretical-vs-advanced-levels.md) — related

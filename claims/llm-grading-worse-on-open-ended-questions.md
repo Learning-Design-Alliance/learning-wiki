@@ -73,3 +73,4 @@ Course-specific results for the history and philosophy MOOC (Table 1/Table 2); i
 - [LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks](llm-grading-mixed-against-human-raters.md) — related
 - [Published evidence suggests LLM scoring can outperform standardized patient scoring on rubric-scored written notes, but generalizability remains open](llm-scoring-lower-incorrect-rate-than-sp.md) — related
 - [AI assistance enabled grading of 88% of 3,080 short-answer answers across 271 students in four courses](ai-assisted-grading-scale-3080-saq-answers.md) — related
+- [GPT-4 tends to excel on questions where students also perform well, but struggles on some mathematical-derivation problems students handle well](gpt4-excells-where-students-excel.md) — related

@@ -47,6 +47,7 @@ In the E91 activity, entangled qubit pairs in the Bell state |ψ−⟩ are measu
 - [Mermin-style Bell-test alternative requiring less mathematical background but more measurements](mermin-bell-test-low-math-alternative.md)
 - [Follow the demonstration with a qualitative discussion encoding a shared encryption key in measurement outcomes and detecting an eavesdropper via Bell test failure](post-demo-qkd-encryption-discussion.md)
 - [Teach quantum entanglement via principle explanation in analogy to the standard special relativity introduction](principle-explanation-entanglement-strategy.md)
+- [Use action-based, unplugged activities to introduce quantum information and quantum key distribution](action-based-quantum-informatics-introduction.md)
 
 ## Examples
 -

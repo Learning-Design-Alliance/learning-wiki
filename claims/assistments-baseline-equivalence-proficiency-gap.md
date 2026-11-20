@@ -67,3 +67,4 @@ Baseline equivalency test of grade 6 EOG math scores between randomized groups. 
 - [Baseline equivalence checks show treatment and control groups did not differ in prior grades or gender distribution](baseline-equivalence-checks-fa-experiment.md) — related
 - [Baseline demographic balance held except computer gaming history, where the control group had a significantly greater proportion with a gaming history](baseline-balance-gaming-history-imbalance.md) — related
 - [Hedges' g thresholds classify ak parameter comparisons: g < 0.5 means responses are equally correct, g ≥ 1.3 means they represent different levels of understanding, and values between are inconclusive](hedges-g-thresholds-ak-comparisons.md) — related
+- [Treatment and control groups were statistically equivalent at baseline on math scores, gender, and age](rori-study-baseline-equivalence.md) — related

@@ -54,6 +54,7 @@ The article presents four common Cooperative Learning activities as concrete str
 - [Kagan Cooperative Learning Strategies](kagan_cooperative_learning_strategies.md)
 - [Modified Jigsaw Activities](modified_jigsaw_activities.md)
 - [Structured Peer Discussion Roles](structured-peer-discussion-roles.md)
+- [Use structured active learning techniques — think-pair-share, brainstorming, demonstration, and group work — in IPLS teaching](active-learning-techniques-tps-brainstorm-demonstration-groupwork.md)
 
 ## Examples
 -

@@ -45,6 +45,7 @@ The article's design recommendation is that integrating GenAI in higher educatio
 - [Adopt a differentiated integration strategy for GenAI in undergraduate medical education rather than uniform adoption](differentiated-genai-integration-strategy.md)
 - [Differentiate AI-integration support by learner profile rather than applying a uniform approach](profile-differentiated-ai-integration-strategies.md)
 - [Tailor professional development to demographic subgroups of teachers (gender, education level, school level)](demographic-tailored-pd-programs.md)
+- [Differentiate AI integration guidance by educational level (primary, secondary, undergraduate, graduate)](caiaf-educational-level-differentiation.md)
 
 ## Examples
 -

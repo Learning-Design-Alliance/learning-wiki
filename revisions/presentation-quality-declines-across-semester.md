@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/presentation-quality-declines-across-semester.md
+---
+
+# Revision history: [claims/presentation-quality-declines-across-semester](../claims/presentation-quality-declines-across-semester.md)
+
+### 2026-11-20 · ingest · process:wiki-ingest
+Ingested from arxiv-2409.09145 (Reflecting to learn in a physics multimedia communication course) via eval_harness.py + ingest_extractions.py

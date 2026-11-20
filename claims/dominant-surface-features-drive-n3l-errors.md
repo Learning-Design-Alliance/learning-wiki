@@ -49,3 +49,4 @@ Framework-based analysis of documented student reasoning in the article. The inc
 - [Common N3L misconceptions, including the dominance principle, persist after instruction](n3l-misconceptions-persist-after-instruction.md) — a broader claim this one bears on
 - [Experts categorise problems by solution principles while novices categorise by surface features](experts-categorise-by-solution-novices-by-surface.md) — a broader claim this one bears on
 - [Student knowledge of energy and momentum is fragmented and context-dependent, triggered by surface features rather than underlying concepts](fragmented-context-dependent-energy-momentum-knowledge.md) — a broader claim this one bears on
+- [Dominant misconceptions persisted from pre-test to post-test, concentrated in questions on Newton's second and third laws, zero vector-sum of forces, and circular motion](persistent-dms-newton-laws-vector-circular.md) — related

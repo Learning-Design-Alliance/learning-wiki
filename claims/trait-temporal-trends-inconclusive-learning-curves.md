@@ -59,3 +59,4 @@ Temporal analysis plotting mean scores of the significant traits (Table 2) over 
 - [Learning curves across repeated training sessions show no constant trend among participants](learning-curves-repeated-training-no-constant-trend.md) — related
 - [Performance curves across 10 consecutive test applications were generally flat, with scores improving slightly then decaying and oscillating between sessions](flat-performance-curves-ten-applications.md) — related
 - [Percentage of on-topic ties over time revealed distinct group behaviors, with Group 2 declining toward off-topic and Group 3 staying on-topic](on-topic-percentage-group-differences.md) — related
+- [Presentation quality stays roughly constant with a slight decline across each semester, and correlates weakly negatively with number of peer evaluations completed](presentation-quality-declines-across-semester.md) — related

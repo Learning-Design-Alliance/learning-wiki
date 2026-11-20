@@ -61,3 +61,4 @@ The review reports this implementation finding, citing Reddy et al. (2024), and 
 - [Hallucination, fabrication and reduced explanation accuracy limit ChatGPT's potential as a medical learning tool](hallucination-and-explanation-accuracy-limit-chatgpt-learning-tool.md) — a broader claim this one bears on
 - [Educational animations carry greater risk of misrepresenting scientific facts, while inspirational pieces are more open to interpretation](astro-animation-educational-animations-misrepresentation-risk.md) — related
 - [Confabulation risk is highest for AI tutoring and lowest for AI-as-student use](confabulation-risk-varies-by-ai-use-case.md) — related
+- [Manual inspection finds LLM-generated leveled texts risk introducing misinformation and show inconsistent edit distribution](generated-leveled-texts-misinformation-and-uneven-edits.md) — a narrower finding that bears on this claim

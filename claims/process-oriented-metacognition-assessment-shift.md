@@ -71,3 +71,4 @@ The editor's observational assessment of methodological trends over the last dec
 - [Students' impressions of what improves their learning may not align with actual learning outcomes](student-perceptions-misalign-with-actual-learning.md) — related
 - [Self-reported perceptions of regulatory activities often differ from learners' actual regulatory behaviour](self-reports-differ-actual-regulation-behaviour.md) — related
 - [Behavioral marker systems offer greater objectivity than self-report but are more resource intensive](behavioral-marker-systems-objective-but-costly.md) — related
+- [Multimodal integration of eye tracking, video, and physiological data enhances precision and robustness of aware and unaware mind-wandering detection and outperforms unimodal approaches](multimodal-outperforms-unimodal-mind-wandering-detection.md) — related

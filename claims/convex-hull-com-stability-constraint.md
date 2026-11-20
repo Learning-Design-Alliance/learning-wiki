@@ -53,3 +53,4 @@ Analytical stability formalization (Section 5): the solver aggregates loads and 
 - [Cell affordances determine agent movement: ramps trigger automatic diagonal transitions during path traversal](ramp-affordances-trigger-diagonal-moves.md)
 - [The hybrid qualitative-COM solver solves arbitrary Camelot Jr. configuration challenges within the game's problem space](camelot-jr-solver-solves-arbitrary-configurations.md)
 - [Later editions of Halliday-Resnick restructured the energy treatment toward energy conservation, moving energy chapters later and adding internal energy and center-of-mass energy sections](halliday-resnick-energy-treatment-restructuring.md) — related
+- [Of four planned detector lab activities, only the center-of-mass Jenga cantilever exercise was performed because equipment did not arrive in time](jenga-cantilever-center-of-mass-activity.md) — related

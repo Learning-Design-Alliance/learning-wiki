@@ -43,6 +43,7 @@ The article recommends varying the forms of students' work, noting that "enginee
 - [Brainstorming](brainstorming.md)
 - [Pair students to alternate presenting work and critically commenting on a partner's work to support each CRITO stage](paired-alternating-presentation-and-critique.md)
 - [Form project groups so each student works with at least one friend](group-formation-with-at-least-one-friend.md)
+- [Use structured active learning techniques — think-pair-share, brainstorming, demonstration, and group work — in IPLS teaching](active-learning-techniques-tps-brainstorm-demonstration-groupwork.md)
 
 ## Examples
 -

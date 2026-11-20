@@ -48,3 +48,5 @@ Data from 98 learners reading a 57-page scientific text on surface tension, trac
 ## Related Claims
 - D'Mello proposes attention tracking and management as a new AIED research direction — a broader claim this one bears on
 - [Lab-trained mind wandering detectors generalize to in-the-wild lecture viewing across task, setting, and cultural group, with BiLSTM on latent features reaching F1 = 0.352](cross-dataset-generalization-mind-wandering-detection.md) — related
+- [Aware and unaware mind wandering, previously conflated in detection research, can be distinguished using predictive modeling based on gaze data](gaze-based-aware-unaware-mind-wandering-differentiation.md) — related
+- [Multimodal integration of eye tracking, video, and physiological data enhances precision and robustness of aware and unaware mind-wandering detection and outperforms unimodal approaches](multimodal-outperforms-unimodal-mind-wandering-detection.md) — related

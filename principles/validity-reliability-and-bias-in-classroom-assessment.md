@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 487 claims (250 for, 209 mixed, 28 against) · 366 studies (115 associational, 91 design, 63 causal, 48 review, 30 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 33 of 366 report an effect size · 479 claims rest on one study
+> **Evidence** · 488 claims (251 for, 209 mixed, 28 against) · 367 studies (115 associational, 92 design, 63 causal, 48 review, 30 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 33 of 367 report an effect size · 480 claims rest on one study
 
 ## Conditional relationship
 
@@ -331,6 +331,7 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [GPT-4 rubric grades of written physics solutions correlate positively with manual grading, with R² ≈ 0.83 for total scores](../claims/gpt4-total-score-correlation-manual-grading.md) [+W] — attached 2026-11-19 from Gerd Kortemeyer (2023), which proposed "Use AI grading only for an initial sorting and flagging round in summative assessment, with human verification before scores are returned"; tests this page's relationship.
 - [A trivial baseline generating \"Hello\" for every prompt achieved the best BERTScore precision and DialogRPT updown scores, exposing construct-irrelevant sensitivity in the automated metrics.](../claims/hello-baseline-best-automated-metrics.md) [+W] — attached 2026-11-20 from Anaïs Tack et al. (2023), which proposed "Shared tasks on AI teacher response generation should develop or adopt domain-specific automated metrics that reward pedagogical ability rather than relying on general dialogue metrics.".
 - [DialogRPT scores were highly sensitive to the presence of a teacher prefix: identical GPT-4 responses scored 0.52 on updown with the prefix but 0.40 without it.](../claims/dialogrpt-teacher-prefix-sensitivity.md) [+W] — attached 2026-11-20 from Anaïs Tack et al. (2023), which proposed "Shared tasks on AI teacher response generation should develop or adopt domain-specific automated metrics that reward pedagogical ability rather than relying on general dialogue metrics.".
+- [Interviews with 23 lab instructors from 22 countries provided evidence of face, construct, and content validity of the survey](../claims/lab-taxonomy-survey-interview-validation-22-countries.md) [+W] — attached 2026-11-20 from Gayle Geschwind et al. (2024), which proposed "Use an aspirational Likert scale point to separate desired-but-unused goals and activities from actual course practice".
 
 ## Objective and learner-valued goal
 

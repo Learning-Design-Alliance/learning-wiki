@@ -43,6 +43,7 @@ The article proposes designing teacher professional development that accounts fo
 - [Differentiate AI-integration support by learner profile rather than applying a uniform approach](profile-differentiated-ai-integration-strategies.md)
 - [Prioritize autonomous motivation and scaffold concept-focused AI support tailored to learner trajectories rather than providing uniform access alone](prioritize-autonomous-motivation-concept-focused-ai-support.md)
 - [Integrate mindfulness training into professional development programs for PE teachers](mindfulness-training-in-teacher-pd.md)
+- [Differentiate AI integration guidance by educational level (primary, secondary, undergraduate, graduate)](caiaf-educational-level-differentiation.md)
 
 ## Examples
 -

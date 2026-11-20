@@ -55,3 +55,4 @@ Multivariate logistic regression of UKMED first-attempt outcomes for all candida
 - [Prior academic attainment predicts success at postgraduate medical written and clinical examinations](prior-attainment-predicts-postgraduate-exam-success.md) — related
 - [Being male is an independent predictor of passing MRCS Part A at the first attempt after adjusting for prior academic attainment and all sociodemographic factors (OR 2.34)](male-independent-predictor-mrcs-part-a.md) — related
 - [Female doctors are more likely than male doctors to pass PACES at first attempt after adjusting for ethnicity](female-doctors-more-likely-pass-paces-first-attempt.md) — a narrower finding that bears on this claim
+- [The gender gap reverses by model choice: males lead univariately but females have higher odds of a first-class degree in the multivariate hierarchical model](gender-gap-reverses-hierarchical-model.md) — related

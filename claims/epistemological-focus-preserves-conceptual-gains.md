@@ -52,3 +52,4 @@ Pre-post conceptual testing across four offerings of the reformed first-semester
 - [Students in Arduino-based lab sections scored unremarkably on standard physics pre/post inventories](arduino-lab-standard-inventory-scores-unremarkable.md) — related
 - [P3 students earn FMCE normalized gains of 0.60, above the 0.10-0.35 range of traditional lecture-based instruction at MSU and comparable to other transformed interactive engagement classrooms.](p3-fmce-normalized-gain-060.md) — related
 - [Students in the reformed Lecture/Studio IPLS course perform at least at the same level on the FCI as interactive-engagement classes teaching traditional content, so the biological focus did not reduce fundamental physics understanding](ipls-biological-focus-no-fci-decrease.md) — related
+- [Modern physics courses are predominantly lecture-based (74.9%) with low adoption of interactive pedagogical approaches](modern-physics-pedagogy-lecture-dominant-low-interactivity.md) — related

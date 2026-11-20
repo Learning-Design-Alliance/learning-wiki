@@ -48,6 +48,7 @@ The article recommends deploying preference-optimized open-source LLMs instead o
 ## Related Strategies
 
 - [Use mismatched gold feedback for other incorrect answers to the same question as hard negatives when constructing feedback preference pairs](mismatched-feedback-hard-negatives-strategy.md)
+- [Use text-based LLM analysis instead of visual or physiological data collection to preserve privacy and scale emotion analysis](text-based-llm-analysis-privacy-preserving-strategy.md)
 
 ## Examples
 -

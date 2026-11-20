@@ -11,9 +11,9 @@ generated:
 evidence_strength: strong
 newest_evidence: 2026
 sources:
-  - id: rose-e-wang-2025
+  - id: rose-e-wang-2024
     resource: "https://doi.org/10.48550/arxiv.2410.03017"
-    title: "Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)"
+    title: "Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2024). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)"
     author: Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky
     q: 4
     i: "?"
@@ -56,13 +56,13 @@ sources:
 # Students whose tutors have access to Tutor CoPilot are 4 percentage points more likely to master lesson topics (pass exit tickets) in live K-12 math tutoring
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies (5 entries) · 2 causal `r2`–`r3`, 1 review `r2` · `q2`–`q4`
-> **Currency** · newest study 2026 · 2 of 5 entries checked against their sources (automated) · not reviewed by a person
+> **Evidence** · 4 studies (5 entries) · 3 causal `r2`–`r3`, 1 review `r2` · `q2`–`q4`
+> **Currency** · newest study 2026 · 1 of 5 entries checked against their sources (automated) · not reviewed by a person
 > **Design limits** · Rose E. Wang 2025 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 
-`q4 i?` In a preregistered intent-to-treat analysis of the RCT, students working with treatment tutors were 4 p.p. more likely to pass exit tickets (62%→66%, p<0.01). [→ Rose E. Wang 2025](#rose-e-wang-2025)
+`q4 i?` In a preregistered intent-to-treat analysis of the RCT, students working with treatment tutors were 4 p.p. more likely to pass exit tickets (62%→66%, p<0.01). [→ Rose E. Wang 2024](#rose-e-wang-2024)
 `q4 i?` Conditional on attempting, students were 3 p.p. more likely to pass the exit ticket (p<0.05); they were also 2 p.p. more likely to attempt it, a result not significant after the multiple-hypothesis correction. [→ Rose E. Wang 2025 (2)](#rose-e-wang-2025-2)
 `q4 i?` In a 2SLS analysis of tutors who actually used the tool, students were 14 p.p. more likely to pass exit tickets (p<0.01). [→ Rose E. Wang 2025 (3)](#rose-e-wang-2025-3)
 
@@ -72,9 +72,9 @@ sources:
 
 ## Evidence
 
-### Rose E. Wang 2025
+### Rose E. Wang 2024
 
-Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)
+Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2024). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)
 
 `q4 · i?` · `causal · r2`
 
@@ -138,3 +138,4 @@ The chapter reports, citing Wang et al., a randomised controlled trial of a huma
 - [Human oversight remained necessary alongside AI-based tutoring, especially for misconceptions and advanced topics](human-oversight-necessary-alongside-ai-tutoring.md) — related
 - [GPT-generated feedback passes simulated-student helpfulness evaluations only about 35% of the time on real student data](gpt-feedback-passes-automated-helpfulness-35-percent.md) — related
 - [The red/green sticky-note system for in-class support requests and exit-ticket feedback was popular and coincided with a rise in the Feedback criterion score from 0.47 to 1.32](sticky-note-formative-feedback-system.md) — related
+- [Students given weekly access to the Rori AI math tutor showed substantially higher math growth scores than control students (d = 0.36, p < 0.001)](rori-ai-tutor-math-growth-gains.md) — related

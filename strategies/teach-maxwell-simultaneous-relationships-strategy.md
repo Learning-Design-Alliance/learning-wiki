@@ -52,6 +52,7 @@ The article recommends teaching-learning sequences in which students learn that 
 - [Introduce the Lorentz force as a postulated experimental equation to define E and B before Maxwell's equations](lorentz-force-postulate-introduction-strategy.md)
 - [Present Maxwell's equations as enunciative sentences instead of mathematical expressions](maxwell-equations-sentence-form-strategy.md)
 - [Shift electrodynamics instruction toward interpretation of equations and graphical, qualitative exercises at the expense of algebraic manipulation](emphasize-interpretation-over-algebra-electrodynamics.md)
+- [Teach Ampère-Maxwell law with unconventional curves, inverse problems, multiple surfaces, and sense-making tasks](unconventional-curves-inverse-problems-ampere-maxwell-teaching.md)
 
 ## Examples
 -

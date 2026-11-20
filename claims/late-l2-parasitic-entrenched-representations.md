@@ -47,3 +47,4 @@ The review reports computational models of bilingual lexical development that sy
 ## Related Claims
 - [After controlling for nonlanguage factors, L1 predicts L2 and L2 predicts L3, but L1 does not predict L3](regression-language-associations-nonlanguage-controls.md) — related
 - [Structural equation modeling supports the LCH path structure over adding an L1–L3 path](sem-supports-lch-over-lcdh-path.md) — related
+- [Language models showed substantial L1 loss from before to after longer L1 training to convergence, in one group with no comparison group](convergence-training-no-entrenchment.md) — related

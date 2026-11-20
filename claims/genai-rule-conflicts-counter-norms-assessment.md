@@ -72,3 +72,4 @@ Student suggestion quoted in the teacher-role theme, manifesting a contradiction
 - [Undifferentiated GenAI integrity rules convert linguistic disadvantage into integrity risk for EAL students](undifferentiated-genai-rules-convert-language-disadvantage-into-integrity-risk.md) — related
 - [Student reflections revealed tensions between efficiency and academic integrity, and uncertainty about institutional expectations of GenAI use](tensions-efficiency-integrity-uncertain-expectations.md) — related
 - [Neither ecological theory nor CHAT alone fully captures ethical AI use in education](neither-framework-alone-captures-ethical-ai-use.md) — related
+- [Students have submitted wrong or conflicting GenAI-generated information in assignments (authors' own experience)](genai-hallucination-wrong-student-submissions.md) — related

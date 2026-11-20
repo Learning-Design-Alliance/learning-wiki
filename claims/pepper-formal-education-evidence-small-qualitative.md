@@ -62,3 +62,4 @@ Scoping review synthesis of 13 peer-reviewed empirical studies on Pepper in form
 - ITS authoring tool research is concentrated in academic settings, and 45.45% of included papers conducted empirical studies while illustrative scenarios were the most common method — related
 - [Contrary to similar research, an asocial robot produced higher learning gains than a more social robot in a tutoring study](asocial-robot-higher-learning-gains.md) — related
 - Most empirical studies adopted a quantitative research approach — related
+- [Pedagogical-agent research is dominated by higher-education learners, with few studies of children or adults](pa-research-dominated-by-higher-education.md) — related

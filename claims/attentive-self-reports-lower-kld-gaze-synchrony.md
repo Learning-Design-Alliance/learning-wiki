@@ -46,3 +46,4 @@ Probe-level linear mixed-effects analysis of KLD between gaze density maps compu
 - [Learners who self-report as attentive show significantly higher inter-subject correlation of gaze position and pupil diameter during video lecture viewing](attentive-self-reports-higher-isc-video-lecture.md) — related
 - [Attentive self-reports predict higher MultiMatch scanpath similarity, strongest for fixation-position similarity, but not for saccade length similarity](attentive-self-reports-higher-multimatch-similarity.md) — related
 - [Gaze synchrony measures (KLD and MultiMatch similarity) do not significantly predict learning outcomes, failing to replicate prior findings](gaze-synchrony-does-not-predict-learning-outcomes.md) — related
+- [Attentive learners show significantly greater gaze synchronization than less attentive learners during video lecture watching](gaze-synchrony-greater-among-attentive-learners.md) — related

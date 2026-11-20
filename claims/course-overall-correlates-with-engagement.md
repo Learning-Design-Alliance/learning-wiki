@@ -67,3 +67,4 @@ Null and weak findings from the independence tests on the pooled survey data, re
 - [Reported amount learned correlated with attendance, assignment completion, math preparation, homework timing, and interest, but appeared independent of GPA and of material and exam difficulty](amount-learned-correlates-with-behaviors.md) — related
 - [Students finding exams too difficult (7.3% of respondents) tended to also find the material too difficult and feel less encouraged to ask questions](exam-difficulty-correlates-with-material-difficulty.md) — related
 - [Subjective effort ratings are affected by invalid cues and only weakly valid as cues to judged learning outcomes](effort-ratings-invalid-cues-weak-validity.md) — related
+- [GPT-4 homework sessions increased student engagement ratings of interestingness and perceived resource level](gpt4-tutor-engagement-ratings.md) — related

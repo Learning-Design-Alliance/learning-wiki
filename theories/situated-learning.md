@@ -18,7 +18,7 @@ moved_from: [principle/situated-learning]
 # Situated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 28 claims (21 for, 5 mixed, 2 against) · 28 studies (9 qualitative, 8 causal, 5 review, 2 design, 2 theoretical, 1 quant-synthesis, 1 associational), `q1`–`q4` · 3 of 28 report an effect size · 26 claims rest on one study
+> **Evidence** · 29 claims (22 for, 5 mixed, 2 against) · 29 studies (10 qualitative, 8 causal, 5 review, 2 design, 2 theoretical, 1 quant-synthesis, 1 associational), `q1`–`q4` · 3 of 29 report an effect size · 27 claims rest on one study
 
 ## Description
 Situated learning holds that knowledge is inseparable from the social, material, and cultural contexts in which it is used. Learning is strengthened when it happens through participation in authentic practices rather than only through abstract decontextualized instruction.
@@ -59,6 +59,7 @@ Situated learning holds that knowledge is inseparable from the social, material,
 - [Practice-based group-learning with familiar colleagues fostered a supportive environment and a shared base of observational competence in primary healthcare](../claims/shared-competence-base-group-learning-clinobsmunicipality.md) [+W] — attached 2026-11-07 from Alfstad E et al. (2025), which proposed "Situated learning and communities of practice as the explanatory frame for group-based competence development".
 - [A peer network, especially an engineering friend, supported a life-science student in making physics connections in social and everyday settings](../claims/peer-network-supports-everyday-physics-connections.md) [+W] — attached 2026-11-18 from Abhilash Nair et al. (2018), which proposed "Relevance operationalized as a conduit between settings, emerging situationally through systems of relationships, roles, and settings".
 - [Students described the computational essay as more creative and authentic to physics practice than standard assignments, valuing open-ended problems with multiple solution paths](../claims/essays-felt-creative-and-authentic.md) [+W] — attached 2026-11-18 from Tor Ole Odden et al. (2019), which proposed "Practice perspective of learning".
+- [In engineering maker-based inquiry in physics, only participation in the legitimate form of an engineer contributed to students' learning of the related physics, while participation solely as a technician did not](../claims/embii-engineer-vs-technician-participation-learning.md) [+W] — attached 2026-11-20 from J Guisasola et al. (2022), which proposed "Figured worlds framework applied to engineering maker-based inquiry (EMBI) in physics"; tests this page's relationship.
 
 ## The evidence by question
 - *Does instruction built around authentic tasks and contexts produce better learning and transfer than abstract, decontextualized instruction?* [Chicago classrooms with high-quality authentic intellectual assignments showed greater one-year ITBS gains than classrooms with low-quality assignments](../claims/authentic-assignments-greater-itbs-gains.md) [+M]

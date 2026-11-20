@@ -51,3 +51,4 @@ Longitudinal analysis of matched pre/post E-CLASS responses across three require
 - [Longitudinal students' E-CLASS scores in higher-level courses are statistically indistinguishable from the general population of those courses](longitudinal-students-indistinguishable-higher-level.md) — a narrower finding that bears on this claim
 - [Students who self-selected into the optional lab course scored higher on the overall physics 2 final exam than students who did not](lab-takers-higher-overall-exam-self-selection.md) — related
 - [Preliminary comparison suggests longitudinal E-CLASS trends are similar for physics majors and non-physics majors](longitudinal-trends-similar-across-majors.md) — related
+- [Presentation quality stays roughly constant with a slight decline across each semester, and correlates weakly negatively with number of peer evaluations completed](presentation-quality-declines-across-semester.md) — related

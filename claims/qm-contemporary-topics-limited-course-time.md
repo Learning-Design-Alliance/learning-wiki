@@ -74,3 +74,4 @@ One instructor called the Bell inequality experiments "a major breakthrough that
 - [The article proposes a multi-perspective teaching plan for entanglement that pairs each concept's mathematical equations with its quantum circuit, Julia code, and classical simulation result.](entanglement-multi-perspective-teaching-plan.md) — related
 - [Learning goals differ by experiment: SPDC emphasizes skills over concepts, and the entanglement goal is tied mainly to Bell's inequality](goals-vary-by-experiment-spdc-bell.md) — related
 - [Instructors report that popular media hype is a major motivator of student interest and enrollment in quantum computing electives](media-hype-motivates-student-enrollment-quantum-courses.md) — related
+- [Research-intensive programs have largely converged on a set of modern physics topics without a community conversation or consensus](modern-physics-curricular-variability-no-consensus.md) — related

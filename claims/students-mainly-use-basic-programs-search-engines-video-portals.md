@@ -50,3 +50,4 @@ Descriptive survey analysis of REATIC responses from 2117 University of Salamanc
 - [Use and consideration of ICT differ significantly across the five areas of knowledge, with Health Sciences students showing the highest preference level in use](ict-use-differs-by-area-health-sciences-highest.md) — related
 - Four factors of ICT use explain 57.4% of the total variance in university students' types of ICT use — related
 - [Students value ICT positively as a help and importance in their learning process](students-value-ict-positively-learning-process.md) — related
+- [Indian students rely mainly on online resources, especially YouTube, for astronomy learning beyond textbooks, and curricula do not teach evaluation of online credibility](india-students-youtube-primary-astronomy-resource.md) — a narrower finding that bears on this claim

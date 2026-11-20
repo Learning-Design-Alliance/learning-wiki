@@ -126746,5 +126746,737 @@
  "worked-examples\tworked-example intervention\tconventional tasks with the same content, lesson plan, and teacher": {
   "label": "worked examples vs conventional tasks",
   "treatment_is_a": true
+ },
+ "active-learning\tCLASP active-learning course\tNonCLASP traditional course": {
+  "label": "active learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tCLASP active-learning course\ttraditional NonCLASP course": {
+  "label": "active learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tCLASP active-learning course\ttraditional course CLASP replaced": {
+  "label": "active learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tCLASP active-learning curriculum\ttraditional NonCLASP course it replaced": {
+  "label": "active learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tCLASP active-learning curriculum\ttraditional course CLASP replaced": {
+  "label": "active learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tCLASP course\tcourses that CLASP replaced": {
+  "label": "active learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tCLASP course\ttraditional courses that CLASP replaced": {
+  "label": "active learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tCLASP curriculum\ttraditional NonCLASP course": {
+  "label": "active learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tCLASP curriculum\ttraditional course CLASP replaced": {
+  "label": "active learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tCLASP introductory physics course\ttraditional NonCLASP course": {
+  "label": "active learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tCLASP introductory physics course\ttraditional NonCLASP course it replaced": {
+  "label": "active learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tCLASP introductory physics course\ttraditional course CLASP replaced": {
+  "label": "active learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tCQS with instructor discussion and peer interaction\tlecture-based instruction": {
+  "label": "interactive active learning vs lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tCQS with sequenced questions, discussion, and feedback\ttraditional lecture-based instruction before the CQS": {
+  "label": "interactive active learning vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tClicker Question Sequence with polling, feedback, and peer discussion\ttraditional lecture-based instruction": {
+  "label": "interactive active learning vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tLEGO Serious Play activity\tpre-intervention baseline": {
+  "label": "active learning intervention vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tLEGO Serious Play activity\tpre-test baseline before the intervention": {
+  "label": "active learning intervention vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tSCALE-UP active-learning environment\ttraditional instruction": {
+  "label": "active learning environment vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tSCALE-UP active-learning environment\ttraditional separate lectures and seminars/labs": {
+  "label": "active learning environment vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive and constructive learning\tpassive learning": {
+  "label": "active and constructive learning vs passive learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive group discussion\tinactive group": {
+  "label": "active group discussion vs inactive group",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive group discussion\tinactive groups with no message exchanges": {
+  "label": "active group discussion vs inactive group",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive groups with message exchanges\tinactive groups with no message exchanges": {
+  "label": "active group discussion with message exchange vs inactive group",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive, constructive, and interactive learning\tpassive learning": {
+  "label": "active and constructive learning vs passive learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive, studio, or flipped classroom\tlecture-based instruction": {
+  "label": "active, studio, or flipped learning vs lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcard-based Q&A\tnot stated": {
+  "label": "active learning activity vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tculturally relevant skateboarding tutorial in groups\tnot reported": {
+  "label": "active group-based learning vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tculturally relevant skateboarding tutorial using ECR and group work\tno comparison condition": {
+  "label": "active group-based learning vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "active-learning\thigher engagement mode\tlower engagement mode": {
+  "label": "higher engagement mode vs lower engagement mode",
+  "treatment_is_a": true
+ },
+ "active-learning\timmersive flipped course with collaborative academic-skills activities\tstudents' pre-course academic-skills experience": {
+  "label": "flipped collaborative academic-skills learning vs pre-course academic-skills experience",
+  "treatment_is_a": true
+ },
+ "active-learning\timmersive flipped course with remote group activities\tstudents' pre-course collaboration experience": {
+  "label": "flipped remote group learning vs pre-course collaboration experience",
+  "treatment_is_a": true
+ },
+ "active-learning\tin-person CQS with peer discussion and instructor feedback\ttraditional lecture-based instruction": {
+  "label": "interactive active learning vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tin-person quantum-measurement Clicker Question Sequence with peer discussion\ttraditional lecture-based instruction before the CQS": {
+  "label": "interactive active learning vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive RAI workshop using case studies\tpre-workshop baseline": {
+  "label": "interactive workshop vs pre-workshop baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive RAI workshop using case studies\tpre-workshop self-assessment": {
+  "label": "interactive workshop vs pre-workshop baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive learning\tconstructive, active, or passive learning": {
+  "label": "interactive learning vs constructive, active, or passive learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive learning\tpassive learning": {
+  "label": "interactive learning vs passive learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive, constructive, or active engagement\tthe next lower engagement mode": {
+  "label": "higher engagement mode vs next lower engagement mode",
+  "treatment_is_a": true
+ },
+ "active-learning\tjournal clubs, hackathons, learning camps, assignments, and quantum games\tlecture-style training": {
+  "label": "active-learning activities vs lecture-style training",
+  "treatment_is_a": true
+ },
+ "active-learning\tlectures followed by activities\tlectures without follow-up activities": {
+  "label": "lectures with follow-up activities vs lectures without follow-up activities",
+  "treatment_is_a": true
+ },
+ "active-learning\tmandatory in-class group work\tindividualized homework": {
+  "label": "in-class group work vs individual homework",
+  "treatment_is_a": true
+ },
+ "active-learning\tmandatory in-class groupwork\tindividual homework assignments": {
+  "label": "in-class group work vs individual homework",
+  "treatment_is_a": true
+ },
+ "active-learning\tmandatory synchronous group work\tindividual homework assignments": {
+  "label": "synchronous group work vs individual homework",
+  "treatment_is_a": true
+ },
+ "active-learning\tmandatory synchronous group work during class\tindividual homework assignments": {
+  "label": "synchronous group work vs individual homework",
+  "treatment_is_a": true
+ },
+ "active-learning\tonline CQS with mostly individual polling\tin-person CQS with peer discussion": {
+  "label": "in-person peer discussion vs mostly individual polling",
+  "treatment_is_a": false
+ },
+ "active-learning\tonline quantum-measurement Clicker Question Sequence\ttraditional lecture-based instruction before the CQS": {
+  "label": "interactive active learning vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tpassive learning\tactive or constructive learning": {
+  "label": "active or constructive learning vs passive learning",
+  "treatment_is_a": false
+ },
+ "active-learning\tpassive learning\tactive, constructive, or interactive learning": {
+  "label": "active, constructive, or interactive learning vs passive learning",
+  "treatment_is_a": false
+ },
+ "active-learning\trelevant coding discussion\tirrelevant discussion": {
+  "label": "relevant discussion vs irrelevant discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\trelevant coding discussions\tirrelevant discussions": {
+  "label": "relevant discussion vs irrelevant discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\tsmall-group peer learning with peer tutoring\tnot stated": {
+  "label": "peer learning and tutoring vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudents sharing work and giving each other feedback\tno peer sharing or feedback": {
+  "label": "peer sharing and feedback vs no peer sharing or feedback",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tpersonal choice of topic and dataset\tprovided list of topics and datasets": {
+  "label": "personal choice of topics and datasets vs provided list",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudents choose personally meaningful topics and datasets\tstudents choose from a provided list of topics and datasets": {
+  "label": "personal choice of topics and datasets vs provided list",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudents formulate hypotheses, design experiments, control variables, interpret results, and revise plans\tprotocols that specify the problem, variables, apparatus, procedure, data tables, and conclusions": {
+  "label": "student-designed inquiry vs scripted inquiry protocols",
+  "treatment_is_a": true
+ },
+ "case-comparison\tBella's case: shared gender but different emotional responses\tPM's case: emotions were not a necessary intermediary": {
+  "label": "shared gender with different emotional responses vs emotions not a necessary intermediary",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfour weeks of presentation-skills and CTML-related instruction\tno corresponding instruction": {
+  "label": "explicit instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpost-instruction introductory students\tpre-instruction introductory students": {
+  "label": "explicit instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpost-test after traditional instruction\tpre-test before instruction": {
+  "label": "explicit instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tresearcher points out single-photon interference\tstudents reason without researcher intervention": {
+  "label": "explicit instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional college physics instruction\tbefore instruction": {
+  "label": "explicit instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional lecture\tpretest baseline": {
+  "label": "explicit instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tupper-level traditional lecture-based EM instruction\tupper-level pre-instruction baseline": {
+  "label": "explicit instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "fading\tfaded from blocked to interleaved practice\tblocked practice": {
+  "label": "faded from blocked to interleaved practice vs blocked practice",
+  "treatment_is_a": true
+ },
+ "fading\tfaded from blocked to interleaved practice\tinterleaved practice": {
+  "label": "faded from blocked to interleaved practice vs interleaved practice",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tCQS followed by posted post-test solutions\tpost-test performance before solutions were posted": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tSensEmo emotional feedback\ttraditional learning without student emotional feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\treal-time SensEmo feedback\tno real-time SensEmo feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tAdaptive empathetic feedback\tFixed empathetic feedback": {
+  "label": "Adaptive empathetic feedback vs fixed empathetic feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tAdaptive empathetic feedback\tNo empathetic feedback": {
+  "label": "Adaptive empathetic feedback vs no empathetic feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tadaptive empathetic feedback\tfixed empathetic feedback": {
+  "label": "Adaptive empathetic feedback vs fixed empathetic feedback",
+  "treatment_is_a": true
+ },
+ "gamification\tGameDevDojo educational game\ttraditional written learning": {
+  "label": "Game-based learning vs traditional written learning",
+  "treatment_is_a": true
+ },
+ "gamification\tGameDevDojo game-based learning\ttheoretical text-based learning": {
+  "label": "Game-based learning vs theoretical text-based learning",
+  "treatment_is_a": true
+ },
+ "gamification\tGameDevDojo game-based learning\ttheoretical written learning": {
+  "label": "Game-based learning vs theoretical written learning",
+  "treatment_is_a": true
+ },
+ "gamification\tGameDevDojo game-based learning\twritten theoretical description": {
+  "label": "Game-based learning vs written theoretical learning",
+  "treatment_is_a": true
+ },
+ "gamification\tGameDevDojo game-based learning application\ttraditional written theoretical learning": {
+  "label": "Game-based learning vs traditional written theoretical learning",
+  "treatment_is_a": true
+ },
+ "gamification\teEERP completed before posttest\tpretest before eEERP": {
+  "label": "Post-intervention assessment after eEERP vs pre-intervention assessment before eEERP",
+  "treatment_is_a": true
+ },
+ "gamification\teducational Eurogame escape room with mandatory physics puzzles, optional Eurogame puzzles, and victory points\tindividual physics pretest before the escape room": {
+  "label": "Educational escape room vs pretest baseline",
+  "treatment_is_a": true
+ },
+ "gamification\teducational Eurogame escape room with physics puzzles and knowledge-transfer cards\tpretest before completing the eEERP": {
+  "label": "Educational escape room vs pretest baseline",
+  "treatment_is_a": true
+ },
+ "gamification\teducational Eurogame escape room with sequential physics puzzles, knowledge-transfer cards, and victory points\tindividual physics pretest before the escape room": {
+  "label": "Educational escape room vs pretest baseline",
+  "treatment_is_a": true
+ },
+ "gamification\teducational escape room\tpretest baseline": {
+  "label": "Educational escape room vs pretest baseline",
+  "treatment_is_a": true
+ },
+ "gamification\teducational escape room\ttraditional lecture": {
+  "label": "Educational escape room vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "gamification\teducational physics escape room with Eurogame elements\tpretest before the escape room": {
+  "label": "Educational escape room vs pretest baseline",
+  "treatment_is_a": true
+ },
+ "gamification\tfinal puzzle involving application development\tearlier query-based puzzles": {
+  "label": "Application-development puzzle vs query-based puzzles",
+  "treatment_is_a": true
+ },
+ "gamification\tgame-based learning\ttheoretical text": {
+  "label": "Game-based learning vs theoretical text-based learning",
+  "treatment_is_a": true
+ },
+ "gamification\tgame-based or gamified education\tcontrol or no-game education": {
+  "label": "Game-based or gamified education vs standard or non-game education",
+  "treatment_is_a": true
+ },
+ "gamification\tgames or game elements in education\tstandard or non-game education": {
+  "label": "Game-based or gamified education vs standard or non-game education",
+  "treatment_is_a": true
+ },
+ "gamification\tleaderboard available\tleaderboard unavailable": {
+  "label": "Leaderboard available vs leaderboard unavailable",
+  "treatment_is_a": true
+ },
+ "gamification\tleaderboard available\tno leaderboard": {
+  "label": "Leaderboard available vs no leaderboard",
+  "treatment_is_a": true
+ },
+ "gamification\tremote educational database escape room\tpre-activity test": {
+  "label": "Educational escape room vs pretest baseline",
+  "treatment_is_a": true
+ },
+ "gamification\tremote educational database escape room\tpre-test baseline": {
+  "label": "Educational escape room vs pretest baseline",
+  "treatment_is_a": true
+ },
+ "gamification\tremote educational escape room\tcomputer lab session": {
+  "label": "Remote educational escape room vs computer lab session",
+  "treatment_is_a": true
+ },
+ "gamification\tteacher-authored educational video game\tpre-test before the game": {
+  "label": "Teacher-authored educational video game vs pretest baseline",
+  "treatment_is_a": true
+ },
+ "gamification\tteacher-authored educational video game in online format\tteacher-authored educational video game in face-to-face format": {
+  "label": "Online game-based learning vs face-to-face game-based learning",
+  "treatment_is_a": true
+ },
+ "gamification\tvirtual educational escape room\ttraditional lecture": {
+  "label": "Educational escape room vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided inquiry-based Quantum Interactive Learning Tutorial\ttraditional lecture-based instruction": {
+  "label": "guided inquiry/discovery vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided inquiry-based quantum-computing tutorial with scaffolding\ttraditional lecture-based instruction": {
+  "label": "guided inquiry/discovery vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided-inquiry quantum-computing tutorial\ttraditional lecture-based instruction": {
+  "label": "guided inquiry/discovery vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided-inquiry quantum-computing tutorial with scaffolding\ttraditional lecture-based instruction": {
+  "label": "guided inquiry/discovery vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tlaboratory activities as open practical problems or small investigations\trigid laboratory protocols": {
+  "label": "open-ended laboratory investigations vs rigid laboratory protocols",
+  "treatment_is_a": true
+ },
+ "guided-discovery\topen, contextualized laboratory investigations connected with science, technology, society, and environment\tdecontextualized, recipe-like protocol activities": {
+  "label": "open-ended, contextualized laboratory investigations vs decontextualized, recipe-like protocols",
+  "treatment_is_a": true
+ },
+ "interleaving\tINTERLEAVED training schedule\tSEQUENTIAL training schedule": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tblocked practice\tinterleaved practice": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": false
+ },
+ "interleaving\tblocked training\tinterleaved training": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": false
+ },
+ "interleaving\tinterleaved training\tblocked training": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tlarger block sizes, more blocked practice\tsmaller block sizes, more interleaved practice": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": false
+ },
+ "interleaving\tsmaller block size, including full interleaving\tlarger block size, including full blocking": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tsmaller block size, with more interleaving\tlarger block size, with more blocking": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tsmaller block sizes, more interleaved practice\tlarger block sizes, more blocked practice": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tsmaller blocks, more interleaved training\tlarger blocks, more blocked training": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "media-design\tdynamic video assembly instructions\tstatic diagram assembly instructions": {
+  "label": "dynamic/video assembly instructions vs static diagram assembly instructions",
+  "treatment_is_a": true
+ },
+ "media-design\tdynamic video assembly instructions\tstatic diagram instructions": {
+  "label": "dynamic/video assembly instructions vs static diagram assembly instructions",
+  "treatment_is_a": true
+ },
+ "media-design\titem 2P representation\titem 2M representation": {
+  "label": "2P representation vs 2M representation",
+  "treatment_is_a": true
+ },
+ "media-design\titem 2P representation\titem 3P representation": {
+  "label": "2P representation vs 3P representation",
+  "treatment_is_a": true
+ },
+ "media-design\tpassive immersive VR instructions\tstatic diagrams": {
+  "label": "passive immersive VR instructions vs static diagrams",
+  "treatment_is_a": true
+ },
+ "media-design\tpresentation adherence to CTML principles\tpresentation non-adherence to CTML principles": {
+  "label": "CTML-adherent presentation vs non-adherent presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tpresentations adhering to the Coherence principle\tpresentations not adhering to the Coherence principle": {
+  "label": "Coherence-adherent presentation vs non-adherent presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tpresentations adhering to the Modality principle\tpresentations not adhering to the Modality principle": {
+  "label": "Modality-adherent presentation vs non-adherent presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tpresentations adhering to the Personalization principle\tpresentations not adhering to the Personalization principle": {
+  "label": "Personalization-adherent presentation vs non-adherent presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tpresentations adhering to the Redundancy principle\tpresentations not adhering to the Redundancy principle": {
+  "label": "Redundancy-adherent presentation vs non-adherent presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tpresentations adhering to the Signaling principle\tpresentations not adhering to the Signaling principle": {
+  "label": "Signaling-adherent presentation vs non-adherent presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tpresentations adhering to the Spatial Contiguity principle\tpresentations not adhering to the Spatial Contiguity principle": {
+  "label": "Spatial Contiguity-adherent presentation vs non-adherent presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tpresentations following more CTML principles\tpresentations following fewer CTML principles": {
+  "label": "more CTML principles vs fewer CTML principles",
+  "treatment_is_a": true
+ },
+ "media-design\tvideo and passive immersive VR instructions\tstatic diagram instructions": {
+  "label": "video plus passive immersive VR instructions vs static diagram instructions",
+  "treatment_is_a": true
+ },
+ "media-design\tvideo assembly instructions\tstatic diagrams": {
+  "label": "dynamic/video assembly instructions vs static diagram assembly instructions",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore control peer-evaluation forms completed\tfewer control peer-evaluation forms completed": {
+  "label": "more vs fewer peer-evaluation forms completed",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore treatment peer-evaluation forms completed\tfewer treatment peer-evaluation forms completed": {
+  "label": "more vs fewer peer-evaluation forms completed",
+  "treatment_is_a": true
+ },
+ "praise\trecognition and praise from peers or mentors\tno other-recognition reported": {
+  "label": "praise/recognition vs no praise/recognition",
+  "treatment_is_a": true
+ },
+ "prompts\tLevel 4 prompting\tLevel 1 prompting": {
+  "label": "More intensive prompting vs less intensive prompting",
+  "treatment_is_a": true
+ },
+ "prompts\tScaffolded COT grading prompt\tDetailed-rubric COT grading prompt": {
+  "label": "Scaffolded COT grading prompt vs detailed-rubric COT grading prompt",
+  "treatment_is_a": true
+ },
+ "prompts\tScaffolded COT grading prompt\tHuman rater 1": {
+  "label": "Scaffolded COT grading prompt vs human rating",
+  "treatment_is_a": true
+ },
+ "prompts\tScaffolded COT grading prompt\tNaïve COT grading prompt": {
+  "label": "Scaffolded COT grading prompt vs naïve COT grading prompt",
+  "treatment_is_a": true
+ },
+ "prompts\tScaffolded COT grading prompt\tNaïve and Detailed-rubric COT prompts": {
+  "label": "Scaffolded COT grading prompt vs naïve and detailed-rubric COT prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tTELeR Level 2 prompting\tTELeR Level 3 prompting": {
+  "label": "TELeR Level 3 prompting vs TELeR Level 2 prompting",
+  "treatment_is_a": false
+ },
+ "prompts\tTELeR Level 3 prompting\tTELeR Level 2 prompting": {
+  "label": "TELeR Level 3 prompting vs TELeR Level 2 prompting",
+  "treatment_is_a": true
+ },
+ "prompts\tcritical-reflection peer-evaluation form\tcontrol peer-evaluation form without content reflection": {
+  "label": "Critical-reflection peer-evaluation form vs non-reflective control form",
+  "treatment_is_a": true
+ },
+ "prompts\tcritical-reflection peer-evaluation form\tnon-reflective control peer-evaluation form": {
+  "label": "Critical-reflection peer-evaluation form vs non-reflective control form",
+  "treatment_is_a": true
+ },
+ "prompts\tfinal response prompt containing a negative label\tnot stated": {
+  "label": "Negative label in the final-response prompt vs no label",
+  "treatment_is_a": true
+ },
+ "prompts\tproposed tailored multi-round prompts\tbase model without specific prompts": {
+  "label": "Tailored iterative or multi-round prompts vs base model without specific prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tproposed tailored, iterative prompt method\tbase model without specific prompts": {
+  "label": "Tailored iterative or multi-round prompts vs base model without specific prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tproposed tailored, iterative prompt method\tchain-of-thought prompting": {
+  "label": "Tailored iterative prompt method vs chain-of-thought prompting",
+  "treatment_is_a": true
+ },
+ "prompts\ttailored prompt-based method\tbase model": {
+  "label": "Tailored prompt-based method vs base model",
+  "treatment_is_a": true
+ },
+ "prompts\ttailored prompt-based method\tchain-of-thought prompting": {
+  "label": "Tailored prompt-based method vs chain-of-thought prompting",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tremote educational escape room\tpre-activity baseline": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "scaffolding\tFive Design-Sheet method\tunstructured design process": {
+  "label": "structured design-sheet scaffolding vs unstructured design process",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcatapult-focused scaffold\topenness to alternative solution approaches": {
+  "label": "focused or constrained scaffolding vs openness to alternative solution approaches",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdata storytelling\tpre-, during-, and post-intervention phases": {
+  "label": "data storytelling vs pre-, during-, and post-intervention phases",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdata storytelling\tpre-intervention without data storytelling": {
+  "label": "data storytelling vs no data storytelling",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdata storytelling during intervention\tpre-intervention baseline": {
+  "label": "data storytelling during intervention vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "scaffolding\textra help after a beginning-of-semester concept test\tno extra support after the concept test": {
+  "label": "extra support after concept testing vs no extra support",
+  "treatment_is_a": true
+ },
+ "scaffolding\thands-on and virtual lab scaffolds\tno comparison condition reported": {
+  "label": "hands-on and virtual lab scaffolds vs no comparison condition reported",
+  "treatment_is_a": true
+ },
+ "scaffolding\thands-on mentor training\tlittle direction or dismissed difficulties": {
+  "label": "intensive hands-on mentor training and direction vs limited or dismissive mentoring",
+  "treatment_is_a": true
+ },
+ "scaffolding\tmentor adjusted project and training to the student's background and development\tmentor assigned poorly matched or insufficiently supported work": {
+  "label": "tailored and developmentally matched mentoring vs poorly matched or insufficiently supported work",
+  "treatment_is_a": true
+ },
+ "scaffolding\tmentor prioritized professional development and hands-on training\tmentor provided little direction or was difficult for the student to approach": {
+  "label": "intensive hands-on mentor training and direction vs limited or inaccessible mentoring",
+  "treatment_is_a": true
+ },
+ "scaffolding\tpost-intervention after data storytelling\tdata storytelling intervention phase": {
+  "label": "post-intervention after data storytelling vs data-storytelling intervention phase",
+  "treatment_is_a": true
+ },
+ "scaffolding\tpost-intervention after data storytelling\tpre-intervention baseline": {
+  "label": "post-intervention after data storytelling vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolded learning with successive support steps\tnot stated": {
+  "label": "successive-step scaffolding vs support not stated",
+  "treatment_is_a": true
+ },
+ "simulation\thuman synchrotron role-play\tnot stated": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "spacing\tAFM with base4\tAFM without spacing feature": {
+  "label": "spaced vs unspaced",
+  "treatment_is_a": true
+ },
+ "spacing\tAFM with ppe\tAFM without spacing feature": {
+  "label": "spaced vs unspaced",
+  "treatment_is_a": true
+ },
+ "spacing\tAFM with ppe spacing\tAFM without spacing": {
+  "label": "spaced vs unspaced",
+  "treatment_is_a": true
+ },
+ "spacing\tAFM with ppe spacing feature\tAFM without a spacing feature": {
+  "label": "spaced vs unspaced",
+  "treatment_is_a": true
+ },
+ "spacing\tAFM with recency\tAFM without spacing feature": {
+  "label": "spaced vs unspaced",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2019 Han students using Mathematica-assisted QM\t2018 Han students in traditional QM": {
+  "label": "Mathematica-assisted QM vs traditional QM",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2019 Tibetan students using Mathematica-assisted QM\t2018 Han students in traditional QM": {
+  "label": "Mathematica-assisted QM vs traditional QM",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2022 desktop application\trevised version used afterwards": {
+  "label": "desktop application vs revised application",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2023 in-person internship\t2022 fully online internship": {
+  "label": "in-person internship vs fully online internship",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2023 in-person internship\t2022 fully online pilot": {
+  "label": "in-person internship vs fully online internship",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2023 in-person internship cohort\t2022 online internship cohort": {
+  "label": "in-person internship vs online internship",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D VR video\t2D unmodified video": {
+  "label": "3D VR video vs 2D video",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D stereoscopic VR video\t2D unmodified video": {
+  "label": "3D stereoscopic VR video vs 2D video",
+  "treatment_is_a": true
+ },
+ "technology-tool\t9:1 giant Arduino replica with magnetic components\tsmall standard electronic components": {
+  "label": "large physical components vs small standard components",
+  "treatment_is_a": true
+ },
+ "technology-tool\tA2C learner trained with an attached virtual teacher\tA2C learner trained without an attached virtual teacher": {
+  "label": "virtual teacher attached vs no virtual teacher",
+  "treatment_is_a": true
+ },
+ "test-format\tconceptual quiz performance within five attempts\tconceptual quiz performance within fewer attempts": {
+  "label": "more attempts vs fewer attempts",
+  "treatment_is_a": true
+ },
+ "test-format\tfive-attempt asynchronous quiz\tsingle-attempt synchronous exam": {
+  "label": "multi-attempt asynchronous quiz vs single-attempt synchronous exam",
+  "treatment_is_a": true
+ },
+ "test-format\tmore than one attempt on the asynchronous quiz\tsingle attempt on the synchronous exam": {
+  "label": "multi-attempt asynchronous quiz vs single-attempt synchronous exam",
+  "treatment_is_a": true
+ },
+ "test-format\tmulti-attempt asynchronous quiz\tsingle-attempt synchronous exam": {
+  "label": "multi-attempt asynchronous quiz vs single-attempt synchronous exam",
+  "treatment_is_a": true
+ },
+ "test-format\tmulti-attempt asynchronous quiz\tsingle-attempt synchronous transfer exam": {
+  "label": "multi-attempt asynchronous quiz vs single-attempt synchronous transfer exam",
+  "treatment_is_a": true
+ },
+ "test-format\tmulti-attempt asynchronous quiz performance\tsingle-attempt synchronous exam performance": {
+  "label": "multi-attempt asynchronous quiz vs single-attempt synchronous exam",
+  "treatment_is_a": true
+ },
+ "test-format\tnumerical quiz performance within two attempts\tnumerical quiz performance after more than two attempts": {
+  "label": "more attempts vs fewer attempts",
+  "treatment_is_a": false
+ },
+ "test-format\tquiz correctness within the first two attempts\tquiz correctness within more than two attempts": {
+  "label": "more attempts vs fewer attempts",
+  "treatment_is_a": false
+ },
+ "test-format\tquiz performance within two attempts\tquiz performance after three or more attempts": {
+  "label": "more attempts vs fewer attempts",
+  "treatment_is_a": false
+ },
+ "test-format\ttwo-attempt asynchronous quiz\tsingle-attempt synchronous exam": {
+  "label": "multi-attempt asynchronous quiz vs single-attempt synchronous exam",
+  "treatment_is_a": true
  }
 }

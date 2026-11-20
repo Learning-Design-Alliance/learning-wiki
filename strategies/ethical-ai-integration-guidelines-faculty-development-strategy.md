@@ -46,6 +46,8 @@ The article recommends that educators adopting AI-supported feedback establish c
 - [Strengthen institutional policies, ethics education, verification, disclosure, and data protection to support ethical GenAI use](institutional-strategies-ethical-genai-use.md)
 - [Prepare teachers to use AI expeditiously and provide AI-text detectors for evaluation, alongside updated academic-integrity rules](teacher-ai-preparedness-and-detectors-strategy.md)
 - [Accrediting bodies and professional organizations should provide AI policy frameworks integrating academic integrity, data ethics, and equitable access, and programs should invest in faculty development](accreditor-ai-policy-frameworks-faculty-development.md)
+- [Develop clear ethical AI guidelines specifying appropriate uses, framing AI as supplementary, limiting direct output copying, and promoting transparency](ethical-ai-guidelines-to-mitigate-ai-guilt.md)
+- [Enable phase: update ethics, privacy and academic integrity guidelines, upskill staff and students, and make evaluation GenAI-friendly](genai-enable-phase-guidelines-and-upskilling.md)
 
 ## Examples
 -

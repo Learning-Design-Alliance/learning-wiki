@@ -54,3 +54,4 @@ The overview authors prepared plain language summaries for 37 teaching strategie
 - [Matching modality by conveying complementary information through auditory and visual channels increases retention, transfer, and engagement](modality-matching-complementary-channels-video.md) — related
 - [Mimicking tracing and pointing gestures on a touchscreen during timed multimedia worked examples hindered adolescent learners' geometry learning](touchscreen-tracing-hinders-timed-worked-examples.md) — reports the opposite
 - [A 2024 vendor white paper cites research that avatars provide social presence and that realistic avatars in intelligent tutoring systems can increase student-tutor engagement](avatar-social-presence-increases-tutor-engagement.md) — related
+- [Existing reviews and meta-studies of pedagogical agents provide neither a comprehensive design framework nor a consistent picture of contested design aspects](pa-reviews-lack-design-guidance.md) — related

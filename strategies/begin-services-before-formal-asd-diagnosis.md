@@ -51,6 +51,7 @@ The article recommends that children whose behavioral problems prompt referral f
 - [Use nonresponse to generic tier-two preschool behavioral intervention as a trigger for formal ADHD diagnostic referral and more intensive tier-three intervention](nonresponse-triggers-adhd-diagnostic-referral-strategy.md)
 - [Response To Intervention](response-to-intervention.md)
 - [Multi-Tiered System of Supports (MTSS)](multi-tiered-system-of-supports-mtss.md)
+- [Design interactive educational systems to exhibit human-like behavior patterns: conversation, questioning, answering, volunteering information, and responding to emotional changes](human-like-interaction-design-for-children.md)
 
 ## Examples
 -

@@ -36,7 +36,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 91 claims (48 for, 39 mixed, 4 against) · 85 studies (28 causal, 20 review, 14 design, 9 quant-synthesis, 6 associational, 6 theoretical, 2 qualitative), `q1`–`q4` · 14 of 85 report an effect size · 84 claims rest on one study
+> **Evidence** · 92 claims (49 for, 39 mixed, 4 against) · 87 studies (30 causal, 20 review, 14 design, 9 quant-synthesis, 6 associational, 6 theoretical, 2 qualitative), `q1`–`q4` · 14 of 87 report an effect size · 84 claims rest on one study
 
 ## Conditional relationship
 
@@ -142,6 +142,7 @@ Re-read 2026-10-15: the claims below were read against the model above and do no
 - [Expert-designed knowledge-component models add little to the accuracy of logistic-regression learner models on most tutoring datasets](../claims/expert-kc-models-add-little-to-performance-prediction.md) [~M] — added 2026-11-05 from Gervet et al. (2020); prediction accuracy only; not yet read against the model above.
 - [Under one standardised evaluation, most deep knowledge-tracing models published after the original DKT do not beat it, and a common KC-level evaluation shortcut inflates reported accuracy](../claims/newer-deep-kt-models-rarely-beat-dkt-standard-protocol.md) [~M] — added 2026-11-05 from Liu et al. (2022): bears on the row on vendor-reported accuracy (check the evaluation protocol, not only the AUC); prediction accuracy only, no learner outcome; not yet read against the model above.
 - [The proposed system adapts content, presentation method and learner level dynamically during training based on learner feedback](../claims/dynamic-adaptation-during-training-feedback.md) [+W] — attached 2026-11-17 from Hossein Movafegh Ghadirli et al. (2012), which proposed "Adapt lesson sequence, speed and presentation style to the learner's aptitude, characteristics and mood, as an expert tutor does".
+- [An adaptive experiment served the self-explanation prompt condition to 82.6% of its students, a more than 30% reallocation toward the better outcome](../claims/adaptive-bandit-reallocates-majority-to-better-condition.md) [+W] — attached 2026-11-20 from Opportunities for Adaptive Experiments to Enable Continuous Improvement in Computer Scienc, which proposed "Use a proximal outcome observed immediately after the intervention as the adaptive experiment's reward".
 
 ## Objective and learner-valued goal
 

@@ -53,6 +53,7 @@ The article recommends using the three empirically identified CT profiles to tai
 - [Differentiate e-module design by achievement level: add spaced repetition and adaptive quizzes for low achievers and advanced case-based challenges for high achievers](differentiated-e-module-design-by-achievement-level.md)
 - [Offer adaptive learning pathways tailored to learners' prior ultrasound experience level](adaptive-pathways-by-prior-experience.md)
 - [Adapt journal club activities to student academic level and provide structured support for junior students](adapt-journal-club-to-student-level.md)
+- [Differentiate AI integration guidance by educational level (primary, secondary, undergraduate, graduate)](caiaf-educational-level-differentiation.md)
 
 ## Examples
 -

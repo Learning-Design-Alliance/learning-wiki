@@ -61,6 +61,7 @@ The article recommends that institutions use machine learning predictions of wit
 - [Predict and warn students at risk to assist teacher management and prevent selective ignoring](achievement-prediction-early-warning-strategy.md)
 - [Establish an early, preventive support system for low-achieving students, using high inter-course score correlations to predict at-risk students](early-preventive-support-system-low-achievers.md)
 - [Collect social network survey data at midsemester to identify at-risk students while intervention is still possible](midsemester-network-survey-early-identification.md)
+- [Use GCN on clickstream and assessment data for early identification of at-risk students in online courses](gcn-clickstream-at-risk-identification-strategy.md)
 
 ## Examples
 -

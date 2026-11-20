@@ -90,3 +90,4 @@ The authors' argued interpretation, not a tested result: they contend that "high
 - [Dissemination and policy change efforts fail in isolation because they omit beliefs, culture, and incentives](dissemination-policy-efforts-fail-in-isolation.md) — related
 - [K-12 teacher PD evidence supports a causal link between teachers experiencing instructional strategies in workshops and later shifting their own instruction, but no comparable evidence exists in higher education PD](simulating-strategies-causal-link-teacher-pd.md) — related
 - [One-time workshops raise awareness of evidence-based teaching strategies but are not sufficient for faculty to adopt them](workshops-insufficient-for-adoption-evidence-based-teaching.md) — related
+- [Henderson et al.'s review of 190 papers finds researchers do not provide strong evidence of success of tested STEM strategies](henderson-2011-weak-evidence-stem-strategies.md) — related

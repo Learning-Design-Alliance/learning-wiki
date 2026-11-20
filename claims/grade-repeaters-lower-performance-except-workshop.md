@@ -53,3 +53,4 @@ Authors' interpretation of the age-by-group predicted performance results (Figur
 - [Children aged 7–10 years had significantly higher odds of good academic performance than children aged 11–14 years in northern Ethiopian urban primary schools](younger-age-better-academic-performance-ethiopia.md) — related
 - [School-based PE interventions (doubling PE, teacher workshop, or both) did not improve overall academic performance in first-year high school students](pe-interventions-null-overall-academic-performance.md) — related
 - [Repeaters had more than double the odds of being selected compared with freshmen](repeaters-double-selection-odds.md) — related
+- [SciFabLab delivered 172 hands-on STEM workshops for primary school years 1–5 during the 2023/24 academic year, spanning ages 6 to 11](scifablab-172-primary-workshops-2023-24.md) — related

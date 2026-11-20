@@ -55,3 +55,4 @@ Quasi-experimental pretest–posttest study (Hsiao et al. 2024, Northern Taiwan)
 - [An operational exercise empowerment program increased nurses' disaster response competence across all domains, with a significant group-by-time interaction](operational-exercise-program-increased-disaster-competence.md) — related
 - [VR-based disaster simulation education increases learning immersion more than written case simulation](vr-simulation-learning-immersion-gain.md) — related
 - [A web-based PFA simulation program raised nurses' self-reported disaster response competence more than e-book self-learning (medium effect)](web-pfa-sim-raises-disaster-competencies.md) — related
+- [Students' averaged number of correct physics answers was statistically significantly higher at posttest than pretest after completing the Eurogame escape room in physics, in one uncontrolled pre-post study](eerp-significant-knowledge-increase.md) — related

@@ -174,3 +174,5 @@ The chapter reports Lindsey et al. (2014), whose personalized review system impl
 - [The clicker question bank also works well as a source of quiz and test questions, revealed by the pandemic shift online](clicker-bank-repurposed-for-online-quizzes.md) — related
 - [Students preferred a participation-only clicker grade over grades crediting correctness](participation-only-clicker-grading-preferred.md) — related
 - [Short-time chapter-based mid-semester assessments are associated with significantly higher mid-exam pass rates than long-time unit-based assessments](chapter-based-short-time-mid-exams-higher-pass-rate.md) — related
+- [Critical reflection during peer evaluation of peer presentations does not significantly improve quiz performance in a physics senior seminar](critical-reflection-peer-evaluation-no-quiz-gain.md) — related
+- [In an online learning experiment, students using SensEmo scored 40.0% higher on comprehension quizzes than students without it](sensemoo-online-quiz-40-percent-higher.md) — related

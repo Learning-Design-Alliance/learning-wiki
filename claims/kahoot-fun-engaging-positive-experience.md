@@ -62,3 +62,4 @@ Questionnaire administered only to the experimental group (n=24 responses), anal
 - [Using the online ICM with interactive Kahoot! components kept student interaction at the same high level as the classroom format](kahoot-interaction-maintained-online.md) — related
 - [The online ICM version of the seminar produced evaluation results at least as good as the previous face-to-face course, with students especially emphasizing Kahoot!](online-icm-evaluation-not-worse-than-face-to-face.md) — related
 - [Students reported the Korbit dialogue chat was at least as fun as learning alone and often helped them learn](korbit-chat-fun-and-learning-help-questionnaire.md) — related
+- [Students perceive some aspects of game-based learning (overall opinion, learning effectiveness, fun, future use, preference) more favorably in face-to-face than online format](face-to-face-more-favorable-perceptions-gbl.md) — related

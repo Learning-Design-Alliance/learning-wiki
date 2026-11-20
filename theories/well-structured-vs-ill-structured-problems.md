@@ -13,7 +13,7 @@ generated:
 # Well-Structured vs. Ill-Structured Problems
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (2 mixed, 1 against) · 4 studies (1 causal, 1 review, 1 associational, 1 theoretical), `q1`–`q3` · 1 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (1 for, 2 mixed, 1 against) · 5 studies (2 theoretical, 1 causal, 1 review, 1 associational), `q1`–`q3` · 1 of 5 report an effect size · 3 claims rest on one study
 
 ## Description
 Problems vary along two related dimensions: how much of the information needed for a solution is actually given, and how many (and how clear) the rules or procedures for reaching a solution are. A **well-structured problem** provides most of the needed information and can, in principle, be solved with relatively few clearly understood rules — the word problems common in math classes are a classic example, since everything needed is contained in the stated problem and the solution procedure is relatively clear and precise. An **ill-structured problem** has the opposite qualities: the needed information is not necessarily contained in the problem itself, many different procedures are potentially applicable, and multiple different solutions are plausible (Voss, 2006) — extreme examples include "How can the world achieve lasting peace?" or "How can teachers ensure that students learn?"
@@ -41,6 +41,7 @@ Beyond recognizing structure, several general strategies help regardless of a pr
 
 - [Verification strategy type varies by assignment context: testing is more common in structured tasks (Algorithms 87.8%) while web search is more common in open-ended tasks (HCI 56.0%)](../claims/verification-type-varies-by-assignment-context.md) [~W]
 - [Learning patterns in ill-structured tasks are less strategic than in well-structured tasks, and on-track students apply learning strategies in later phases than off-track students](../claims/ill-structured-tasks-less-strategic-patterns.md) [~W]
+- [Incorporating new technology into educational organizations is an ill-structured problem with conflicting definitions of success, and imposed solutions often fail](../claims/edtech-implementation-ill-structured-problem.md) [+W] — attached 2026-11-20 from Scott Allen et al. (2023), which proposed "Well-structured versus ill-structured problems (Simon, 1973) as the organizing distinction for edtech implementation".
 
 ## Related Theories
 

@@ -48,3 +48,4 @@ Pilot study with nine university students using an instrumented hint dialogue of
 - [Explanation usage was high but highly variable: users initiated explanations for about 3/4 of hints and mainly accessed why pages](acsp-explanation-usage-patterns.md) — related
 - [The ACSP's rule-based user model classified users into high and low learner clusters with 84.04% accuracy, and adaptive hints improved AC-3 learning in an earlier evaluation](acsp-user-model-accuracy-and-hint-effectiveness.md) — related
 - [A general-purpose LLM used as a tutor without pedagogical prompting overwhelmingly provides high assistance, with more than 95% of responses classified as Explaining or Solving](default-llm-tutoring-high-assistance-concentration.md) — related
+- [Complementary LLM use (asking for explanations) increases topic understanding but not overall learning outcomes](explanations-increase-topic-understanding.md) — related

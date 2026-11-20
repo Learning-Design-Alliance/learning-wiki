@@ -50,3 +50,4 @@ CATE analysis on the summary test-score measure (960 observations, controls and 
 - [COVID-19 widened the socio-economic performance gap on average, deteriorating more among disadvantaged students, significantly in mathematics and science](covid-widened-socio-economic-performance-gap.md) — reports the opposite
 - [Nudges prevented 24.2% of learning losses in Portuguese and 7.5% in math at school level, though imprecisely estimated](nudges-prevented-school-level-learning-losses.md) — related
 - [SMS nudges targeting socio-emotional skills increased student-level standardized test scores during remote learning, by 0.21 s.d. in Portuguese and 0.19 s.d. on the summary measure](sms-nudges-raise-student-test-scores-remote-learning.md) — related
+- [LLM access widens the gap between students with low and high prior knowledge, increasing inequality in education](llms-widen-prior-knowledge-gap.md) — related

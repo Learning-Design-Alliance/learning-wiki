@@ -56,6 +56,7 @@ The authors' six-step recommendation set for teachers or administrators wishing 
 - [Implementation recommendations: a full-time dedicated lead, progressive deployment starting from a single course level, and free open-source tools commonly used in the discipline](educe-implementation-recommendations-strategy.md)
 - [Assign empirically tested animation-based learning modules as out-of-class preparation to free class time for active learning](assign-animation-modules-as-preclass-preparation.md)
 - [Sustain computational instruction with flipped homework while replacing the faculty-intensive final project with peer review or student videos](sustaining-computational-instruction-strategy.md)
+- [Use small-scale, low-stakes incremental testing with both confirmatory and exploratory measures, scaling up progressively](incremental-testing-confirmatory-exploratory.md)
 
 ## Examples
 -

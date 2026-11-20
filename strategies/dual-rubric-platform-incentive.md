@@ -47,6 +47,7 @@ To cater for students' self-selection while still incentivizing engagement, the 
 - [Separate Product, Process, and Progress Criteria](separate-product-process-and-progress-criteria.md)
 - [Rethinking Accountability](rethinking_accountability.md)
 - [Pair convenient platform analytics with transparent, education-specific evaluation criteria rather than trusting either alone](pair-platform-analytics-with-transparent-criteria.md)
+- [Grade incentives and mandatory in-class activities to ensure peer-customer participation](peer-customer-participation-incentives.md)
 
 ## Examples
 -

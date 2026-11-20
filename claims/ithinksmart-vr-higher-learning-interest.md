@@ -49,3 +49,4 @@ Post-questionnaire comparison of learning interest (instrument adapted from Hwan
 - [Students who played iThinkSmart VR mini games gained higher CT cognitive benefits than students learning through the traditional lecture method](ithinksmart-vr-higher-cognitive-benefits.md) — related
 - [Students who played iThinkSmart mini games showed a significantly higher CT learning attitude than those who did not play the mini games](ithinksmart-vr-higher-learning-attitude.md) — related
 - [First-level participant feedback found the iThinkSmart prototype engaging but flagged movement, navigation, graphics, and device-support issues for improvement](ithinksmart-prototype-feedback-themes.md) — related
+- [Game-based learning group showed higher motivation and interest in game development](gamedevdojo-higher-motivation-interest.md) — related

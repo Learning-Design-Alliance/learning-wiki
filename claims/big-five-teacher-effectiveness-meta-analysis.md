@@ -61,3 +61,4 @@ Random-effects meta-analysis of 25 studies (total N = 6294) pooling Pearson r co
 - [Agreeableness predicts a better professional attitude but worse learning climate and evaluation of residents](agreeableness-mixed-teaching-effects.md) — related
 - [Emotional stability shows no relation with overall or domain-specific teaching performance of attending physicians](emotional-stability-no-teaching-performance-relation.md) — reports the opposite
 - [Extraversion is positively associated with specific teaching domains: learning climate, communication of learning goals, feedback, and evaluation of residents](extraversion-positive-specific-teaching-domains.md) — a narrower finding that bears on this claim
+- [Perceived positive personality factors correlate positively with learning outcomes, strongest for conscientiousness and the dialogue-only model](trait-learning-correlations-dialogue-only-strongest.md) — related

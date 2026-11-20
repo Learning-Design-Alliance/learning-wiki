@@ -51,3 +51,4 @@ Interview study of 19 computing students: in the results on hiding behaviors and
 - [AI use threatens students' computing identities as competent, hardworking, and ethical, with students identifying as cheaters, lazy, or incompetent even where AI is permitted](ai-use-threatens-computing-identity.md) — related
 - [AI guilt correlates with avoidance and concealment behaviours, most strongly with limiting use due to uneasiness](ai-guilt-correlates-with-avoidance-behaviours.md) — related
 - [Students fear that declaring AI use will lead to lower marks even when permitted, creating a 'Disclosure Trap' that drives AI use underground](disclosure-trap-penalty-for-transparency.md) — a broader claim this one bears on
+- [AI guilt among secondary students arises from three dimensions: perceived laziness/inauthenticity, fear of judgment, and identity/self-efficacy concerns](three-dimensions-ai-guilt-secondary-students.md) — related

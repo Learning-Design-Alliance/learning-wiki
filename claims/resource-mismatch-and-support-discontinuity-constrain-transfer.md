@@ -189,3 +189,4 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Lack of methodical support and low teacher awareness of computer modeling hinder students' competence formation](low-teacher-awareness-cmods-hinders-competence.md) — related
 - [85% of German physics teachers participated in at least one professional development program within two years, but non-participants report organizational barriers and disappointing experiences](german-pd-participation-and-barriers.md) — related
 - [The representation matters facilitator persona needs autonomy support: funding, institutional buy-in, and infrastructure for informal physics](tracy-representation-matters-needs.md) — related
+- [In-service teachers implementing STEAM face challenges including lack of planning time, inadequate school structure, and difficulty assessing STEAM achievements](shernoff-2017-steam-teacher-challenges.md) — related

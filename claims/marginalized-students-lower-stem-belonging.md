@@ -73,3 +73,4 @@ The review attributes to Rainey et al. (2018) the finding that "racially margina
 - [Living at the intersection of multiple underrepresented identities compounded physics majors' lack of belonging](intersectional-uris-compound-lack-of-belonging.md) — a narrower finding that bears on this claim
 - [Sense of belonging experiences, such as encouragement and exclusion, shape students' interest in a method](sense-of-belonging-shapes-method-interest.md) — related
 - [Intersectional identities shaped negative experiences: one participant attributed negative peer experiences to both her race and her gender](intersectionality-race-gender-negative-experiences.md) — related
+- [In the medium-sized department (Study 3), a woman of color reported feeling judged as not up to par by both male and female White peers due to her racial background, leading to isolation](study3-woman-of-color-intersectional-isolation.md) — a narrower finding that bears on this claim

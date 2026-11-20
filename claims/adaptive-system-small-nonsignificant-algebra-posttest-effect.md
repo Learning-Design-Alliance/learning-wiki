@@ -54,3 +54,4 @@ Updated analysis of post-semester MDTP post-test scores from the multi-site clus
 - [The WATS efficacy estimate is qualified by high instructor attrition, and replication with a second cohort is underway](wats-study-instructor-attrition-limit.md) — related
 - [Learning with intelligent tutoring systems yields a moderate, statistically significant overall advantage in achievement over non-ITS modes of instruction](its-meta-analysis-overall-effect-0-41.md) — a broader claim this one bears on
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — a broader claim this one bears on
+- [In two laboratory experiments, LLM access during learning shows no statistically significant effect on overall learning outcomes in Python coding](llm-access-no-significant-effect-lab-learning.md) — related

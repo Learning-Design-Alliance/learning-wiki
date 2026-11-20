@@ -57,3 +57,4 @@ Quantitative study in which 81 first-year graduate TAs in a mandatory pedagogy c
 - [TAs often selected partially correct answer choices as the most common student difficulty, which frequently misled them](partially-correct-answer-choices-mislead-tas.md) — a narrower finding that bears on this claim
 - [TAs' narrow predicted-difficulty range (45%-65% for all but five questions) indicates they lacked a sense of question difficulty from students' perspective](tas-narrow-predicted-difficulty-range.md) — related
 - [TAs sometimes expected answer choices to be the most common incorrect answers when those choices were selected by very few students](tas-predict-rare-distractors-as-mci.md) — a narrower finding that bears on this claim
+- [Most common incorrect answer choices on the CSEM are the same for introductory and upper-level students, with lower percentages among upper-level students](same-alternate-conceptions-intro-upper-level.md) — related

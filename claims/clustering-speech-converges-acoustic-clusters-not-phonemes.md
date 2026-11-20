@@ -49,3 +49,4 @@ Numerical result reported by the article from unsupervised clustering run on con
 - [Word segmentation algorithms that succeed on phoneme transcriptions fail on speech signals](word-segmentation-fails-on-speech-signals.md) — related
 - [Unsupervised clustering of individual learning curves identifies seven distinct learner profiles whose proportions shift with target geometry](seven-learner-profiles-soft-dtw-clustering.md) — related
 - [Type 2 groups showed a communication–behaviour-synergistic transition, Type 1 a behaviour-oriented, and Type 3 a communication-oriented transition in hidden Markov models](hmm-transitional-regularities-pattern-types.md) — related
+- [Bottom-up models trained on context-free acoustic input do not distinguish phonemes from allophones](allophony-not-captured-bottom-up.md) — related

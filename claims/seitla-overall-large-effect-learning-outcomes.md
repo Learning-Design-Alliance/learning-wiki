@@ -53,3 +53,4 @@ Random-effects meta-analysis of 33 experimental and quasi-experimental studies o
 - [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](ai-instruction-stem-moderate-positive-effect.md) — related
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
 - [The constructivist learning approach has a strong positive overall effect on students' academic achievement compared to traditional teaching methods (ES = 1.156).](constructivist-approach-overall-effect-achievement.md) — related
+- [Hartzler's meta-analysis of 30 studies provides evidence that integrated instruction enhances student achievement](hartzler-2000-meta-analysis-integrated-instruction-achievement.md) — related

@@ -48,3 +48,4 @@ Overall qualitative finding of the single-case study, based on analysis of exten
 - [ChatGPT-4 outperformed Bing Chat in response quality, context understanding, subject comprehension, and overall performance in Physics problem dialogues.](chatgpt4-outperformed-bing-chat-physics-responses.md) — related
 - [Adult learners expect AI to support problem-centered learning by activating background knowledge, generating diagnostic insights, and strengthening critical thinking](ai-supports-problem-centered-critical-thinking.md) — related
 - [Adult learners view AI as a collaborative learning agent for solving complex problems, sharing knowledge, and honing higher-order thinking](ai-as-collaborative-learning-agent.md) — related
+- [Personalized feedback from anthropomorphized agents can enhance understanding and retention of information](anthropomorphic-personalized-feedback-retention.md) — related

@@ -59,3 +59,4 @@ The article reports, citing an international study, that growth mindset beliefs 
 - [The growth mindset intervention successfully fostered mindset beliefs but this did not transfer to learning outcomes](mindset-belief-fostered-without-outcome-change.md) — related
 - [Academic risk status does not significantly moderate the mind-set–achievement correlation](academic-risk-not-moderator-mindset-correlation.md) — reports the opposite
 - [Students with stronger growth mindsets show better overall academic performance at university](growth-mindset-better-overall-performance.md) — a narrower finding that bears on this claim
+- [Postsurvey growth-mindset beliefs are only weakly correlated with final course grades (ρ = 0.2)](mindset-beliefs-weakly-correlated-final-grades-astronomy.md) — reports the opposite

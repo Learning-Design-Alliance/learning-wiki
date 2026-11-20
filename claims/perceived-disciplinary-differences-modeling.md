@@ -47,3 +47,4 @@ Analytical argument (Section III) identifying four perceived differences between
 ## Related Claims
 - [Given appropriate supports, a substantial portion of the class reconciled the differing disciplinary perspectives on ATP bond energy, even if they might not have done so spontaneously](reconciliation-with-appropriate-supports-capstone.md) — related
 - [Students' epistemologies about math-physics-biology connections can shift through biologically authentic instruction, though many introductory biology students initially see no connection](student-epistemology-shifts-interdisciplinary-biology.md) — related
+- [Disciplinary egocentrism hinders student-centric approaches in undergraduate education](disciplinary-egocentrism-undergraduate-barrier.md) — related

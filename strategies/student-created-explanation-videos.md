@@ -41,6 +41,7 @@ A teaching activity in which teachers mentor students to produce their own video
 
 - [Role-Reversal 2.0 (Flipping the Teacher)](role-reversal-20-flipping-the-teacher.md)
 - [Class Book](class_book.md)
+- [Culminate RAI training by having practitioners create and peer-review their own case studies](practitioners-as-case-study-creators-strategy.md)
 
 ## Examples
 -

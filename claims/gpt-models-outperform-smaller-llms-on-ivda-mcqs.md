@@ -66,3 +66,4 @@ Benchmark evaluation of four chatbots on 70 IVDA MCQs across 12 prompt variants 
 - [GPT-4.1 achieved the highest accuracy among GPT-4.1, GPT-4o and GPT-4 on Taiwan plastic surgery board questions, but no model reached accuracy sufficient for independent clinical education use](gpt41-highest-accuracy-but-below-clinical-education-threshold.md) — related
 - [Asking \"Are you sure?\" reduced correct answers for both models; ChatGPT-3.5 Turbo's answer changes approached but did not reach significance](are-you-sure-prompt-reduced-correct-answers.md) — related
 - [The open-source Mistral-7B model achieves much lower comparative difficulty-ranking correlation (17.5%) than ChatGPT](mistral-7b-weaker-comparative-ranking.md) — related
+- [GPT-4 answers 65.8% of university assessment questions correctly by majority vote and can produce correct answers for 85.1% of questions with at least one prompting strategy](gpt4-answers-65-8-percent-majority-vote.md) — related

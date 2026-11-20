@@ -49,3 +49,4 @@ End-of-semester final grade analysis across three semesters, where below 70% inc
 - [Short-time chapter-based mid-semester assessments are associated with significantly higher mid-exam pass rates than long-time unit-based assessments](chapter-based-short-time-mid-exams-higher-pass-rate.md) — related
 - [Virtual-synchronous and in-person class modalities show no significant difference in student performance in introductory calculus-based physics I](virtual-synchronous-modality-no-effect-physics-i-performance.md) — related
 - [No direct correlation is found between calculus-I proficiency and student performance in calculus-based physics I](no-correlation-calculus-proficiency-physics-i-performance.md) — related
+- [Grade distributions stay similar across semesters, but students in the 70-92 range improve and missing assignments drop significantly under group work](group-work-grade-distribution-and-missing-assignments.md) — related

@@ -1,0 +1,51 @@
+---
+type: claim
+title: For original conceptual problems, quiz performance within five attempts is most similar to exam performance, with the two assessments balanced at five or more attempts
+description: For original conceptual problems, quiz performance within five attempts is most similar to exam performance, with the two assessments balanced at five or more attempts
+id: five-attempt-conceptual-quiz-matches-exam
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-20
+evidence_strength: moderate
+newest_evidence: 2024
+sources:
+  - id: emily-frederick-and-zhongzhou-chen-2024
+    resource: "https://doi.org/10.1119/perc.2024.pr.frederick"
+    title: "Emily Frederick and Zhongzhou Chen. (2024). Comparing student performance on a multi-attempt asynchronous assessment to a single-attempt synchronous assessment in introductory level physics. arXiv:2407.15257 [physics.ed-ph]. [doi:10.1119/perc.2024.pr.frederick](https://doi.org/10.1119/perc.2024.pr.frederick)"
+    author: Emily Frederick and Zhongzhou Chen
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 1
+---
+
+# For original conceptual problems, quiz performance within five attempts is most similar to exam performance, with the two assessments balanced at five or more attempts
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` For the original conceptual question, the phi coefficient between quiz and exam performance increases as more attempts are considered up until five attempts, and the McNemar test is not significant beyond three attempts, indicating similar difficulty at five or more attempts. [→ Emily Frederick and Zhongzhou Chen 2024](#emily-frederick-and-zhongzhou-chen-2024)
+
+## Evidence
+
+### Emily Frederick and Zhongzhou Chen 2024
+
+Emily Frederick and Zhongzhou Chen. (2024). Comparing student performance on a multi-attempt asynchronous assessment to a single-attempt synchronous assessment in introductory level physics. arXiv:2407.15257 [physics.ed-ph]. [doi:10.1119/perc.2024.pr.frederick](https://doi.org/10.1119/perc.2024.pr.frederick)
+
+`q2 · i?` · `associational · r1`
+
+Correlational analysis of paired quiz-exam performance matrices in a Fall 2023 calculus-based physics course (263 enrolled). The phi coefficient "increases as more attempts are considered on the quiz up until five attempts", and the McNemar test is not significant beyond three attempts.
+
+> "For the original conceptual question, the phi coefficient increases as more attempts are considered on the quiz up until five attempts. The McNemar's test statistic also reaches a minimum at five attempts and the test results are not significant beyond three attempts."
+
+## Discussion
+
+
+## Related Claims
+- [For numerical problems, quiz-exam association is maximized when only the first two quiz attempts are considered, weakening beyond two attempts](numerical-quiz-association-peaks-two-attempts.md) — related
+- [For transfer conceptual problems, quiz-exam association is weak (phi around 0.2) and quiz performance is better than exam performance](transfer-conceptual-weak-association-quiz-better.md) — related
+- [When more than one quiz attempt is allowed, the numerical question is easier to answer correctly on the quiz than on the exam](numerical-quiz-easier-than-exam-beyond-one-attempt.md) — related
+- [In a Fall 2023 physics course, 49% of quiz attempters passed within seven attempts, over 90% of passers did so within five attempts, and exam accuracy ranged from 30% to 61% across problem types](quiz-pass-and-exam-accuracy-descriptives.md) — a broader claim this one bears on

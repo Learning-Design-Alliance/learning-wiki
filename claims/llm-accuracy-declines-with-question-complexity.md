@@ -58,3 +58,4 @@ Difficulty–accuracy analysis (Fig. 5) of the 30-iteration accuracy data across
 - [GPT-4V outperformed medical students on the most difficult AMBOSS questions, by 60% with hints and 26.7% without hints](gpt4v-outperforms-medical-students-difficult-questions.md) — related
 - [Success rates on the three activities were above 80%, 70%, and 60% respectively, indicating progressively challenging tasks](phylogeny-activity-success-rates.md) — related
 - [AI performance shows no clear trend across degree levels despite increasing question complexity](no-clear-trend-ai-performance-exam-level.md) — reports the opposite
+- [GPT-4 performance degrades on harder and cognitively more complex questions](gpt4-performance-degrades-on-harder-questions.md) — a narrower finding that bears on this claim

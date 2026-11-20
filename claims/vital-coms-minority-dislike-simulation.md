@@ -51,3 +51,4 @@ Descriptive feasibility questionnaire results: while a majority (74%, 95% CI 59%
 - [Students' disliked features of the digital stories clustered on scenario quality, voicing, and level suitability](students-disliked-story-scenario-and-voicing-features.md) — related
 - [Most students wanted more laboratory time and to try other modalities, with cross-modality preferences favoring the alternative they had not experienced](students-want-more-lab-time-and-other-modalities.md) — related
 - [A majority of students preferred online virtual patient training over online formal teaching given in the same period](preference-vr-over-formal-online-teaching.md) — related
+- [A small minority of participants (about 5%) explicitly disliked AI-generated content, raising ethical design concerns](minority-dislike-ai-generated-content.md) — related

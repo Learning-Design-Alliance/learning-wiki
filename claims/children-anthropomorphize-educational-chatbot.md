@@ -59,3 +59,5 @@ Thematic analysis of student dialog transcripts identified three themes, includi
 - [Most students posed one to three questions to the chatbot, with a minority showing substantially higher engagement](ama-engagement-question-counts.md) — related
 - [A guided posthumanist writing experiment showed a student internalizing a posthumanist ontology, yet her evaluative criteria remained human-centric](asuka-posthumanist-experiment-human-centric-evaluation.md) — related
 - [Human relationships are primary means of education, and knowledge of humans' unlearned tendencies is necessary to efficient planning for education in general.](instincts-and-people-as-educational-means-foundation.md) — related
+- [Personalized feedback from anthropomorphized agents can enhance understanding and retention of information](anthropomorphic-personalized-feedback-retention.md) — related
+- [Anthropomorphizing chatbots has both positive effects on engagement and motivation and negative effects through unrealistic expectations and frustration](anthropomorphism-dual-engagement-frustration-effects.md) — related

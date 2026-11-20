@@ -47,3 +47,4 @@ Reported in the abstract and supported by the motivational consequences question
 ## Related Claims
 - [Virtual case-based learning sessions significantly increase medical students' motivation to learn basic sciences](virtual-cbl-increases-basic-science-motivation.md) — related
 - [Students perceive case-based learning in preclinical physiology as more engaging and motivating than traditional didactic lectures in a resource-limited setting](cbl-perceived-more-engaging-than-lectures.md) — related
+- [GPT-4 homework sessions increased student engagement ratings of interestingness and perceived resource level](gpt4-tutor-engagement-ratings.md) — related

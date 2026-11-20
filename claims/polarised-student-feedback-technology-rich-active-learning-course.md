@@ -71,3 +71,4 @@ Snapshot from the ALPP sharing session comparing the team's feedback with other 
 - [Online-heavy models (flipped, flex, online-practicing) pose challenges for first-year programming students](online-heavy-models-first-year-challenge.md) — related
 - [Iterative redesign between flipped sessions, informed by questionnaire feedback, shifted student perceptions toward a more supportive teacher role and higher participation](dt-iteration-between-sessions-improved-student-feedback.md) — related
 - [Flipped learning using pre-session video is effective, but students report the pre-session video volume can cause cognitive overload](flipped-learning-video-overload-caution.md) — related
+- [A small minority of participants (about 5%) explicitly disliked AI-generated content, raising ethical design concerns](minority-dislike-ai-generated-content.md) — related

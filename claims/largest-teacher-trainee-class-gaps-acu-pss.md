@@ -71,3 +71,4 @@ Category-level comparison of teacher and teacher-training student favorable resp
 - [Uruguayan and Thai physics teachers' CLASS responses differ significantly on only two of 42 questions, where Uruguayan teachers agree more with experts](uruguay-thailand-teachers-differ-only-questions-8-22.md) — related
 - [Uruguayan physics teacher-training students' CLASS average (63.5%) is similar to thirteen university groups in Canada, the US and the UK (64.1%)](uruguayan-trainee-class-average-similar-international.md) — related
 - [Problem Solving - Sophistication shows the largest CLASS gap between life-science and physical-science students (effect size 1.1)](ps-sophistication-largest-class-gap.md) — related
+- [Uruguayan physics teachers show more expert-like CLASS responses than future physics teachers (80% vs 67% average agreement with experts)](class-teachers-versus-future-teachers-uruguay.md) — possibly the same claim (merge candidate)

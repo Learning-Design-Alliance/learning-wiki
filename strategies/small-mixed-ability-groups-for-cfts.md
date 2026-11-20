@@ -54,6 +54,7 @@ For CFTs, the article recommends assigning students to small groups of two or th
 - [Compose heterogeneous PBL groups by the 'right mix' of academic ability and match facilitator expertise to group needs](right-mix-group-composition-strategy.md)
 - [Assign facilitators to fixed teams with periodic check-ins rather than rotating between groups](fixed-facilitator-assignment-checkins.md)
 - [Engage stronger students as informal tutors of weaker peers within a mixed-ability cohort](informal-tutoring-mixed-ability-strategy.md)
+- [Structure class time around interactive group work with rotating group assignments to break down barriers between students of different backgrounds](rotating-group-work-class-structure-strategy.md)
 
 ## Examples
 -

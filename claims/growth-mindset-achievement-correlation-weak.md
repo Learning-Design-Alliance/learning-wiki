@@ -94,3 +94,4 @@ Random-effects meta-analysis of 273 effect sizes from 162 independent samples (N
 - [Students' fixed mindsets in math positively predict test anxiety and negatively predict self-efficacy, persistence and achievement](student-fixed-mindset-predicts-math-motivation-outcomes.md) — related
 - [Self-efficacy shows the highest correlation with achievement (r = 0.555) among the measured beliefs, with performance goals ahead of learning goals](self-efficacy-highest-belief-correlation-grades.md) — related
 - [Growth mindset relates weakly to commitment and engagement and is nonsignificant for course outcomes once trust is modeled](growth-mindset-weak-predictor-active-learning.md) — related
+- [Postsurvey growth-mindset beliefs are only weakly correlated with final course grades (ρ = 0.2)](mindset-beliefs-weakly-correlated-final-grades-astronomy.md) — a narrower finding that bears on this claim

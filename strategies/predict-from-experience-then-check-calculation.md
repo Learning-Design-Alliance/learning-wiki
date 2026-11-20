@@ -40,6 +40,7 @@ The lecture recommends that when a physics problem describes a situation learner
 
 - [Estimation Activities](estimation-activities.md)
 - [Predicting](predicting.md)
+- [Teach order-of-magnitude estimation through timescale calculations to build students' timescale intuition](order-of-magnitude-timescale-estimation-strategy.md)
 
 ## Examples
 -

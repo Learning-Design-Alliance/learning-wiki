@@ -48,3 +48,4 @@ Interrupted time-series study of 606 participants with paired pre- and postasses
 - [Knowledge was retained at 6 months, and retention was higher among participants who applied their knowledge in clinical practice (66% vs 39%)](malnutrition-elearning-knowledge-retention-application.md) — related
 - [Awareness of WHO SAM management guidelines was low before training (36.73% overall; 26.3% among in-service professionals)](malnutrition-elearning-low-baseline-awareness.md) — related
 - [After adjusting for age, endline knowledge and skills scores exceed baseline by large adjusted mean differences (AβC = 11.7 and 13.9 of 22)](adjusted-regression-pph-knowledge-skills-gains.md) — related
+- [For participants aged 28–37, the control group achieved higher knowledge gains than the SAM test group](sam-reversed-trend-28-37.md) — related

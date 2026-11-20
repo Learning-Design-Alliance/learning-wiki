@@ -59,3 +59,5 @@ The article's central hypothesis, derived conceptually from the taxonomy and its
 - [In the Menekse et al. studies cited as strong ICAP tests, the interactive and constructive modes did not differ significantly in learning](menekse-studies-weak-icap-support.md) — a narrower finding that bears on this claim
 - [No systematic evaluation exists of the ICAP hypothesis that engagement modes are ordered I > C > A > P in effectiveness](no-systematic-evaluation-icap-hierarchy.md) — related
 - [Student engagement profiles are significantly related to final grades (p = 0.012), with passive profiles showing 40% fails and constructive profiles the only 'excellent' ratings](wsla-engagement-profile-related-to-final-grades.md) — a narrower finding that bears on this claim
+- [In Procedural ABICAP simulations, the ICAP ordering (interactive > constructive > active > passive) holds after enough steps](icap-holds-after-step-35.md) — a narrower finding that bears on this claim
+- [For rationale-free procedural knowledge components with no graph edges, Procedural ABICAP predicts passive learning is best](passive-best-for-rationale-free-kcs.md) — reports the opposite

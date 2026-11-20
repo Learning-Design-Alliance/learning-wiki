@@ -54,3 +54,4 @@ Cross-sectional benchmarking of GPT-4 against two licensed TCM resident doctors 
 - [GPT-4 accuracy did not significantly correlate with most question characteristics, though TCM internal medicine, dermatology, and acupuncture showed significantly better performance](gpt4-accuracy-question-characteristics-no-significant-correlation.md) — related
 - [GPT-4 achieves the highest pooled accuracy among LLMs (81%), significantly outperforming GPT-3.5 (60%)](gpt4-highest-accuracy-81-outperforms-gpt35.md) — a broader claim this one bears on
 - [ChatGPT-4.0 outperforms ChatGPT-3.5 in medical licensing exams, achieving a pooled accuracy of 81.8% versus 60.8%](chatgpt-4-pooled-accuracy-818-percent-licensing-exams.md) — a broader claim this one bears on
+- [GPT-4 reaches a 50% passing threshold in 89% of MCQ-based courses and 77% of open-answer courses](gpt4-passes-majority-of-courses.md) — reports the opposite

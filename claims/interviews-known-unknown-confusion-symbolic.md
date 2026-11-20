@@ -51,3 +51,4 @@ Speak-aloud problem-solving interviews with thirteen introductory physics studen
 - [In the case-study pre-questionnaire, a majority of students across all groups disagreed that they plan before solving physics problems, and half agreed that problem solving is matching quantities to formulas.](students-lack-planning-view-problem-solving.md) — related
 - [Declaring unknown physical quantities as symbolic variables in Sage promotes development of metacognitive skills](sage-symbolic-variables-metacognition.md) — related
 - [The LSRC paradigm addressed learning but not practice or reinforcement, leaving students unable to apply concepts, especially in reasoning-heavy subjects](lsrc-learning-without-practice-gap.md) — related
+- [Students experience confusing mathematical practices in physics classes, which the authors categorize as physics \"tricks\" of two types: techniques and approximations](physics-tricks-techniques-approximations.md) — related

@@ -48,3 +48,4 @@ Segmented observational analysis of the Quantum Computing Report jobs database, 
 ## Related Claims
 - [Over 750 commercial quantum job vacancies were analyzed, of which 62 percent require a PhD degree](62-percent-quantum-vacancies-demand-phd.md) — related
 - [QURECA identified 40 universities worldwide offering quantum-focused master's degrees, concentrated in North America and Europe](40-universities-quantum-masters-programs.md) — related
+- [Students doubted they could get a quantum-industry job with a bachelor's degree because they perceived advanced degrees as required](bachelors-degree-confidence-quantum-jobs.md) — related

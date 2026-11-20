@@ -66,6 +66,7 @@ The paper proposes a concrete process-oriented assessment model in which "Studen
 - [Prevent AI-assisted plagiarism through student education, signed declarations, draft submissions, clear guidelines, and close monitoring](educate-and-monitor-to-prevent-ai-plagiarism.md)
 - [Mitigation strategies for GenAI challenges in PBL (validation, AI-free periods, equity monitoring)](genai-pbl-challenge-mitigation-strategies.md)
 - [Assess the process: grade design rationales, prompt logs, and oral defenses, avoiding reliance on AI detectors](assess-process-evidence-genai.md)
+- [Create transparency through detailed electronic logging of work and learning processes rather than repairing the deficiencies of graded theses](log-work-learning-processes-portfolio.md)
 
 ## Examples
 -

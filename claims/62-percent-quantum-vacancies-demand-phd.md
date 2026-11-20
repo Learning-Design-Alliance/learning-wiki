@@ -47,3 +47,4 @@ Observational analysis of the Quantum Computing Report jobs database, excluding 
 ## Related Claims
 - [Bachelor's-degree job demand is stronger in US/Canada, with regional divergence in degree requirements](bachelors-demand-stronger-us-canada-quantum-jobs.md) — related
 - [Preferred degree level depends strongly on the quantum job role, with PhDs for quantum-specific roles and more consensus about skills than about degrees](quantum-degree-requirements-vary-by-role.md) — related
+- [Students doubted they could get a quantum-industry job with a bachelor's degree because they perceived advanced degrees as required](bachelors-degree-confidence-quantum-jobs.md) — related

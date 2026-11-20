@@ -59,3 +59,4 @@ Narrative synthesis in the student-advantages section of the systematic review. 
 - [Students primarily benefit from AI chatbots in three key areas: homework and study assistance, personalized learning, and skills development](ai-chatbots-three-student-benefit-areas.md) — a broader claim this one bears on
 - [Learning analytics tools can provide personalized feedback on students' academic writing by identifying mistakes and offering constructive suggestions (e.g., AcaWriter)](acawriter-personalized-writing-feedback.md) — related
 - [High-affordance feedback tools supported accurate self-assessment while low-affordance tools hindered self-reflection](feedback-affordance-self-assessment.md) — related
+- [A review of 220 articles on personalized language learning identifies seven AI-supported benefits, including multimodal feedback, chatbot speaking practice, and real-time personalized feedback](seven-ai-benefits-personalized-language-learning.md) — related

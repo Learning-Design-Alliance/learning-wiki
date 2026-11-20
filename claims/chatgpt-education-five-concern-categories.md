@@ -54,3 +54,4 @@ Discourse analysis of 16,011 original negative-sentiment tweets, clustered by BE
 - [Topic modelling yielded 16 topics dominated by four: AI in Education & Pedagogy (39.43%), Applied ML & Data Science (21.33%), AI Ethics Risk & Governance (20.83%), and ChatGPT for Teaching, Writing & Coding (7.13%)](four-dominant-bertopic-topics-aied-twitter.md) — related
 - [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — related
 - [Twitter sentiment toward ChatGPT in education was generally positive during December 2022 to March 2023](chatgpt-education-positive-sentiment.md) — related
+- [NLP topic modeling (BERTopic) cross-validates human coding of syllabi but misses rare topics, creating an equity-relevant bias](bertopic-cross-validation-human-coding-syllabi-bias-rare-topics.md) — related

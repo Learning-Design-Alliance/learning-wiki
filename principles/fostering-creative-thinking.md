@@ -194,6 +194,7 @@ Output during an activity, originality judged by raters, interest afterwards, un
 - [Top scoring: students self-select their top three ideas for a fluency-independent creativity rating](../strategies/top-scoring-self-selected-top-three.md)
 - [Invite learners to create their own games with the same free tools the designers used](../strategies/diy-escape-room-learner-creation.md)
 - [Complete a full design journey with divergent-then-convergent tools to build creative confidence](../strategies/full-design-journey-creative-confidence.md)
+- [Twenty-second sketch-and-share group divergence strategy](../strategies/twenty-second-sketch-share-divergence-strategy.md)
 
 ## Key Sources
 - Gardner, H. (1993). *Creating minds: An anatomy of creativity seen through the lives of Freud, Einstein, Picasso, Stravinsky, Eliot, Graham, and Gandhi*. Basic Books.

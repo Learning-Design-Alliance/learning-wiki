@@ -55,3 +55,4 @@ Cross-dataset prediction (Table 3): models trained on the full lab reading datas
 - [Carelessness detectors trained on Philippine students generalize to USA students without re-fitting](carelessness-detector-cross-country-generalizability.md) — related
 - [SVM-based mind wandering detector achieved 69% precision and 67% recall generalizing to new learners](mind-wandering-detector-precision-recall.md) — related
 - [Review-reported model comparisons: a BiLSTM-based model significantly outperformed all baselines (Qiu et al.), and BERT outperformed a semantic-similarity baseline (Yeung et al.)](neural-models-outperform-baselines-review.md) — related
+- [Fine-tuned transfer learning is used to examine the generalizability of webcam-based mind-wandering detection across tasks, settings, and target groups and to address low-quality in-the-wild data](transfer-learning-webcam-mind-wandering-generalizability.md) — a broader claim this one bears on

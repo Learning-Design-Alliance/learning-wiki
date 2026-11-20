@@ -66,3 +66,4 @@ Same 17-item usability survey (n = 60 per Table 2): the difficulty item ("It was
 ## Related Claims
 - [Qualitative responses indicated all participants had positive experiences, perceiving the simulation as realistic, and several reported feeling present in the scenario.](360-video-realism-presence-qualitative.md) — related
 - [Users reported technical difficulties — low resolution (n = 17), irregular audio (n = 9), and dizziness after use — that qualify the simulation's usability.](360-vr-technical-difficulties-dizziness.md) — related
+- [Both VR conditions were positively viewed, moderately easy to use, and produced virtually no simulator sickness](vr-nrp-both-conditions-positive-usability.md) — related

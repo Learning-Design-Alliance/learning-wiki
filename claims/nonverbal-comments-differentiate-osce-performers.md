@@ -48,3 +48,4 @@ Joint display mixed methods integration arraying qualitative themes by OSCE tert
 ## Related Claims
 - [Qualitative reflections indicate MPathic-VR students valued immediate feedback, nonverbal skill teaching, and preparation for emotion-charged encounters, while CBL students reported lack of interactivity and information overload](mpathic-vr-qualitative-experience-themes.md) — related
 - [Verisimilitude limitations—absent visual, tonal, and nonverbal cues and lack of rapport—persisted as a limiting factor for all students using ChatGPT as a standardized patient](verisimilitude-limits-chatgpt-sp.md) — related
+- [Qualitative themes indicate high-trait motivational language and embodied expression both benefited the learning experience](qualitative-embodiment-and-motivational-language-benefits.md) — related

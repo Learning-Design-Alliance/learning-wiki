@@ -43,6 +43,7 @@ The article recommends pedagogical strategies against outsourced thinking: "We b
 
 - [Build educator AI literacy and pedagogical competence alongside student critical engagement with AI-generated content](educator-ai-literacy-and-critical-engagement.md)
 - [Strategies for integrating GenAI in STEAM teaching: outcome-anchored lesson planning, differentiation, inquiry and project variants, assessment redesign, and integrity as pedagogy](genai-steam-integration-strategies.md)
+- [Connor et al.'s guidelines for integrating arts-based pedagogies in undergraduate engineering courses](connor-2015-steam-undergraduate-guidelines.md)
 
 ## Examples
 -

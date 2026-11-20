@@ -59,3 +59,4 @@ The review reports, citing Baars, Wijnia, de Bruin, and Paas, a meta-analysis fi
 - [Perceived mental effort has a negative indirect association with learning outcomes, mediated by monitoring judgments (β = -0.05)](mental-effort-indirect-negative-effect-on-outcomes-via-monitoring.md) — related
 - [Perceived mental effort is negatively associated with monitoring judgments (β = -0.19) in a meta-analytic structural equation model](mental-effort-negatively-related-to-monitoring-judgments-masem.md) — related
 - [Students' subjective appraisals of the remote inquiry lesson are comparable across conditions, and perceived cognitive demands correlate negatively with test scores](subjective-appraisals-comparable-demands-negatively-correlated.md) — related
+- [Engagement (words typed) correlates with learning gains and may mediate the treatment effect](engagement-mediation-learning-gains.md) — related

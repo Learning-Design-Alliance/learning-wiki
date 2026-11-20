@@ -70,3 +70,4 @@ In the combined regression the gender coefficient was insignificant; the authors
 - [Passing rate is significantly positively correlated with advising, GPA, and gender among at-risk students](passing-correlations-advising-gpa-gender.md) — possibly the same claim (merge candidate)
 - [Female pharmacy students show better antifungal stewardship practice adherence than male students](female-students-better-practice-adherence-antifungal.md) — related
 - [Sex differences in OSCE outcome appear in univariate analysis but are not significant in the path model, and SSC mitigates them](ssc-mitigates-sex-differences-osce.md) — related
+- [The gender gap reverses by model choice: males lead univariately but females have higher odds of a first-class degree in the multivariate hierarchical model](gender-gap-reverses-hierarchical-model.md) — related

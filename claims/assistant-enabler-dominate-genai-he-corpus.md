@@ -49,3 +49,4 @@ Structured rapid review (PRISMA-ScR-guided) of Scopus records: 5762 initial reco
 - [Collaborative testing shows the taxonomy enables comparison between similar GenAI activities while inevitably falling short of portraying all entangled aspects](taxonomy-testing-reveals-limits-and-comparison.md) — related
 - AIHEd evidence synthesis is dominated by systematic reviews conducted in mostly domestic-only teams, with 66 higher-education reviews included in the corpus — related
 - [The reviewed corpus mostly targets introductory learners in short-term studies, with supervision level structurally tied to deployment context](corpus-introductory-short-term-supervision-environment-association.md) — related
+- [Pedagogical-agent research is dominated by higher-education learners, with few studies of children or adults](pa-research-dominated-by-higher-education.md) — related

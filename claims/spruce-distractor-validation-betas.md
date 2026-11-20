@@ -69,3 +69,4 @@ Beta 1 collected responses from students in eight courses at eight different ins
 - [Providing the correct solution in the prompt improves LLM alignment with human-authored distractors, confirming correct-solution recovery as a primary bottleneck](correct-solution-in-prompt-bottleneck.md) — related
 - [TAs sometimes expected answer choices to be the most common incorrect answers when those choices were selected by very few students](tas-predict-rare-distractors-as-mci.md) — related
 - [Pilot testing across six versions (39 interviews, ~2000 beta participants) established evidentiary arguments linking student reasoning to item responses](spruce-piloting-evidentiary-arguments.md) — related
+- [First-year students answer parallel items on derivatives differently in mathematics and physics contexts, with many more choosing the space-over-time distractor in physics](tcvmp-parallel-items-context-differences.md) — related

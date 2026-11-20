@@ -46,6 +46,7 @@ As a forward-looking design recommendation, the article suggests that the observ
 
 - [Tailor feedback strategies by question type: discourage MCQ trial-and-error and scaffold open-ended revision](tailor-feedback-strategy-by-question-type.md)
 - [Pose condenser design as an open-ended problem with multiple correct solutions that students find by trial and error](open-ended-condenser-design-strategy.md)
+- [Require students who fail by the fifth attempt to study related content before additional attempts, and grade numerical problems on written solutions with partial credit](study-before-retry-and-written-solution-grading.md)
 
 ## Examples
 -

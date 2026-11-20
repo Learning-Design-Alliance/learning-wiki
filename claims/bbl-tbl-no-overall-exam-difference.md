@@ -52,3 +52,4 @@ Posttest control group quasi-experiment: Experimental Group 1 (App Inventor, n=5
 - [Effect sizes of Arduino-based education are statistically larger for textual than for visual programming language](arduino-effect-textual-language-larger.md) — related
 - [Co-constructing visual-textual representations without timeline integration did not significantly raise post-test scores over textual representations](visual-textual-no-significant-gain-over-text.md) — related
 - [Prospective ICT teachers largely prefer text-based languages for micro-teaching, and App Inventor preference drops among those educated with it](microteaching-text-language-preference.md) — related
+- [Group A (textual code) showed larger pre-to-post knowledge test gains (+5 vs +3.3) while group B (visual metaphors) scored slightly higher post-intervention (7 vs 6.7)](text-objects-larger-knowledge-gain-visual-metaphors-higher-post-score.md) — related

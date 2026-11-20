@@ -51,3 +51,4 @@ Main Model random forest trained on 70% of 1422 MSU physics-major records and te
 - [Model results are robust to varying training fraction and number of trees, but the highest-physics-degree factor is only marginally meaningful](hyperparameter-robustness-variable-importance.md) — related
 - [Recursive feature elimination finds the optimum predictive model uses only two features — taking modern physics and taking an engineering course as a physics major](rfe-two-feature-optimum-model.md) — related
 - [High school GPA and MSU math placement scores add no predictive power to models of physics versus engineering graduation](prior-preparation-features-no-predictive-gain.md) — related
+- [Modern physics is students' first introduction to quantum concepts, with 70.7% of courses being a graduation requirement for physics majors](modern-physics-first-quantum-introduction-gateway.md) — related

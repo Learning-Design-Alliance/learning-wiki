@@ -42,6 +42,7 @@ A staged growth strategy for PUIs: begin with one faculty member developing expe
 - [Gain institutional support for QIST programs with an employment-data document developed with industry, plus early low-stakes demonstrations of popularity](qist-institutional-support-document-strategy.md)
 - [In resource-limited settings, begin simulation training with standardized patients and part-task simulators, progressing to high-fidelity simulation centers as funding becomes available](staged-sbme-implementation-low-resource.md)
 - [Recruit and retain underrepresented students in QIST through early outreach, funded research experiences, industry mentorship, and a code of conduct](qist-inclusive-recruitment-retention-strategy.md)
+- [Quantum program enhancements: nationally funded projects that augment existing study programs with shared quantum content](quantum-program-enhancements-strategy.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Qualitative exit-survey and field-note data from 49 K-12 teachers in six quantum
 - [Teachers' most common concern about teaching quantum was uncertainty about alignment to content standards, often accompanied by concerns about time](standards-alignment-barrier-quantum.md) — related
 - [About half of participating teachers identified explicit curriculum connections to quantum, most often in science and mathematics and rarely in computing](curricular-connections-quantum.md) — related
 - [Most quantum outreach initiatives target the upper range of K12, leaving audiences below age 12 under-served](under-12-quantum-audiences-underserved.md) — related
+- [Students perceived the quantum industry as exciting but also associated it with negative emotions such as frustration](student-emotions-about-quantum-industry.md) — related

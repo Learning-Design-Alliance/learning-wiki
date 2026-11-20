@@ -41,7 +41,8 @@ The article's implementation guidance for managing the workload of a gamified co
 - [ILS reuse and edition as a proxy for knowledge appropriation relates to about four times higher adoption (19.77% vs 4.51%)](../claims/ils-reuse-appropriation-proxy-higher-adoption.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Reuse a well-designed remote escape room across courses and successive course editions to amortize its high creation effort](escape-room-reuse-across-editions.md)
 
 ## Examples
 -

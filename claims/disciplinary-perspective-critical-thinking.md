@@ -52,3 +52,4 @@ Summary of Weinstein's plenary paper 'Critical Thinking Across the Disciplines' 
 - In the fully regulative context, critique proceeds by methodological correctness or paradigmatic positioning — related
 - [Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams](epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams.md) — related
 - [The universality of a single computational thinking framework is problematic when applying it to a different context](ct-framework-universality-problematic-across-contexts.md) — related
+- [Disciplinary egocentrism hinders student-centric approaches in undergraduate education](disciplinary-egocentrism-undergraduate-barrier.md) — related

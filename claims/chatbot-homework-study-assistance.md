@@ -57,3 +57,4 @@ Narrative synthesis within the systematic review, drawing on cited studies of Ch
 - [Andes produces learning gains by making graded homework feasible and by encouraging semantically well-formed problem solving with step-based feedback](andes-learning-gains-mechanisms.md) — related
 - [Self-diagnosis by consulting own books and notes yielded 46% better follow-up exam performance than being provided a detailed solution](self-diagnosis-books-notes-46-percent-better.md) — related
 - [JACK provides both evaluative and descriptive feedback, with descriptive feedback referring to the student's input and reusing previous values](jack-evaluative-descriptive-feedback.md) — related
+- [A review of 220 articles on personalized language learning identifies seven AI-supported benefits, including multimodal feedback, chatbot speaking practice, and real-time personalized feedback](seven-ai-benefits-personalized-language-learning.md) — related

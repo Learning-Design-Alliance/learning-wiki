@@ -39,6 +39,7 @@ The authors' design recommendations for future AI-audio tools, drawn from the qu
 ## Related Strategies
 
 - [Reflection](reflection.md)
+- [Add visual elements, improve audio quality, and explore multimodal generative lessons when designing AI-generated educational content](ai-podcast-multimodal-design-strategy.md)
 
 ## Examples
 -

@@ -75,3 +75,4 @@ The synthesis reports, citing the Digital Education Council Global AI Faculty Su
 - [Educator- and institutional-level challenges include curricular misalignment, need for teacher mediation, unequal access, privacy concerns, academic integrity risks, and algorithmic bias](chatgpt-steam-ibl-educator-institutional-challenges.md) — related
 - [A 2024 global survey found 86% of students use AI tools while 80% report institutional policies are unclear or inadequate](survey-86-percent-students-use-ai-80-percent-policies-unclear.md) — related
 - [Student generative AI use rose sharply while institutional support lagged, per a 2025 survey the article cites](student-genai-use-92-percent-institutional-support-lag.md) — related
+- [Many Hong Kong schools lack specific AI-use guidelines, leaving students uncertain whether AI use is permitted and to what extent](hk-schools-lack-ai-guidelines-student-uncertainty.md) — related

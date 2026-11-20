@@ -56,3 +56,4 @@ Thematic analysis of open-text survey responses from commencing university stude
 - [Engineering students develop implicit rules for using GenAI as a self-directed, efficient learning tool when traditional educational tools fall short](genai-implicit-rules-self-directed-efficient-learning.md) — related
 - [AI-augmented instructional design creates tensions between generative affordances and student agency, identity, and academic integrity](genai-instructional-design-tensions-agency-authorship.md) — related
 - [Reduced engagement with GenAI feedback functionalities was attributed to a mismatch between GenAI outputs and student expectations](mismatch-genai-outputs-student-expectations-reduced-engagement.md) — related
+- [A literature survey indicates limited or no adoption of GenAI by universities, reflecting stakeholder uncertainty](genai-literature-limited-university-adoption.md) — related

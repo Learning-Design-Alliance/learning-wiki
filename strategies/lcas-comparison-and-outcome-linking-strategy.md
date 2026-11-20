@@ -46,7 +46,8 @@ The authors recommend instructors and researchers deploy the LCAS for assessment
 - [Students and instructors show high agreement in designating courses as CUREs or traditional labs, supporting the LCAS as a measure of course design](../claims/student-instructor-agreement-course-designation.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Assessment of a computational CURE using research-validated surveys, coursework analysis, and instructor observation](cure-assessment-surveys-strategy.md)
 
 ## Examples
 -

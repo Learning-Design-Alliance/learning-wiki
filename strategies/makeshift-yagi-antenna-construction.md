@@ -41,6 +41,7 @@ To strengthen reception of the CanSat's 433.35 MHz signal, students built a rudi
 
 - [Select parachutes by measured drop tests comparing descent speed and stability before flight](measured-drop-test-parachute-selection.md)
 - [Heat Transfer Investigations](heat_transfer_investigations.md)
+- [Parachute design challenge in a DIY wind tube following the engineering design process](parachute-challenge-wind-tube-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,5 @@ Interview coding of excitement and motivation (Table III: 13 of 14 found at leas
 - [Eleven of fourteen students reported making a math–experiment connection through the single-photon experiments](math-experiment-connection-single-photon.md) — related
 - [Instructors rank student excitement about physics and 'seeing' quantum mechanics in real life as the top goals for the single-photon experiments](instructor-goals-excitement-see-quantum.md) — related
 - [Setting up and manipulating optics and taking and analyzing data are the most common student actions in single-photon experiment courses](single-photon-experiment-student-actions.md) — related
+- [Setting up and observing an alignment laser before single-photon measurements helped students internalize wave behavior and translate it to single photons](alignment-laser-scaffold-single-photon-understanding.md) — related
+- [Students perceived the quantum industry as exciting but also associated it with negative emotions such as frustration](student-emotions-about-quantum-industry.md) — related

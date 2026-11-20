@@ -52,3 +52,4 @@ The essay's Lesson Three argument, supported by the first author's self-reported
 - [Recording the loop's direction as an arrow, not merely gesturing or drawing the loop, enabled Larry to simplify the Ampere's law integral](arrow-as-vector-loop-direction-enables-integral.md) — related
 - [Students diagnose mistakes in which principles they invoked far more readily than mistakes in how principles were applied](invoking-easier-to-diagnose-than-applying.md) — related
 - [With the solved analog provided, students typically invoke the correct principles but often fail to apply them correctly, e.g., using the same centripetal-acceleration sign as in the analog](invoke-principles-but-application-errors.md) — related
+- [Students apply basis-change knowledge nearly perfectly when explicitly asked but often fail to recognize its applicability when it is an implicit step in another problem](basis-change-explicit-versus-implicit-application.md) — related

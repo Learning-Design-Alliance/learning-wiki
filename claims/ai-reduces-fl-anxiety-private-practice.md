@@ -120,3 +120,4 @@ Thematic synthesis codes 31 studies to self-efficacy and self-confidence enhance
 - [Pair interaction reportedly reduces anxiety and increases confidence and motivation](pair-interaction-reduces-anxiety-increases-motivation.md) — related
 - [Students' lack of confidence in problem-solving skills reduces active participation in PBL](student-confidence-problem-solving-pbl-participation.md) — related
 - [English anxiety is negatively related to self-efficacy](english-anxiety-negatively-related-to-self-efficacy.md) — related
+- [A review of 220 articles on personalized language learning identifies seven AI-supported benefits, including multimodal feedback, chatbot speaking practice, and real-time personalized feedback](seven-ai-benefits-personalized-language-learning.md) — related

@@ -51,3 +51,4 @@ Post-busuu survey of the research group on usage behaviour. The article reports 
 - [Students found busuu easy and useful especially for vocabulary and writing, but 73.3% thought it helps without being the ultimate tool, and language learning apps were largely unknown to them](busuu-user-satisfaction-limited-help.md) — related
 - [Weekly reflections were barely used while learning goals and daily reflections dominated actual app use](weekly-reflections-barely-used-goals-daily-dominant.md) — related
 - [Only half of the facultative-group participants chose to use the app, and the authors attribute actual use to differences in familiarization](half-facultative-used-app-familiarization.md) — related
+- [Average user engagement time in a learning app rose by around 68% from leaderboard off to leaderboard on in a one-group pre-post study of 10 students with no comparison group](leaderboard-increased-engagement-time-upsc-pre.md) — related

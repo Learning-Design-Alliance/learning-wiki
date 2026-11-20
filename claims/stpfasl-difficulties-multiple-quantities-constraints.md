@@ -48,3 +48,4 @@ Summary of difficulty patterns from large-scale administration of the validated 
 ## Related Claims
 - [Newtonian concept performance declines significantly at intermediate points during an iteratively structured unit, with declines timed differently across concepts](intermediate-concept-performance-declines.md) — related
 - [Many introductory physics students incorrectly assume the electric field magnitude is the same at all points outside a sphere with discretely placed charges, overgeneralizing symmetry](students-overgeneralize-symmetry-field-magnitude-discrete-charges.md) — related
+- [Students at all levels fail to correctly apply ΔS = δQrev/T in reversible adiabatic and isothermal processes](misapplication-delta-s-qrev-over-t.md) — a narrower finding that bears on this claim

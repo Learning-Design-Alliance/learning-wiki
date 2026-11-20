@@ -51,3 +51,4 @@ Null comparison reported in the final comments synthesis of the CLASS survey. Th
 - [On the CLASS, women score less expertlike on real world connections, personal interest, problem solving confidence, and problem solving sophistication, and more expertlike on sense-making/effort](class-gender-category-differences.md) — related
 - [Uruguayan and Thai physics teachers' CLASS responses differ significantly on only two of 42 questions, where Uruguayan teachers agree more with experts](uruguay-thailand-teachers-differ-only-questions-8-22.md) — related
 - [Uruguayan physics teacher-training students' CLASS average (63.5%) is similar to thirteen university groups in Canada, the US and the UK (64.1%)](uruguayan-trainee-class-average-similar-international.md) — related
+- [Uruguayan physics teachers show more expert-like CLASS responses than future physics teachers (80% vs 67% average agreement with experts)](class-teachers-versus-future-teachers-uruguay.md) — related

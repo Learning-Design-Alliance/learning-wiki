@@ -52,3 +52,4 @@ Observation of student teams during the uniform circular motion modelling activi
 - [Real-time correspondence between Modellus animations and model mathematics helped students resolve cognitive conflicts and difficulties in key concepts](modellus-real-time-correspondence-resolved-difficulties.md) — a broader claim this one bears on
 - [Students reacted positively to the Modellus workshops and preferred team work with guidance, and Modellus enabled students to act as authors of models](modellus-workshops-positive-student-reactions.md) — related
 - [Students generally have difficulty distinguishing the concepts of velocity and acceleration](students-difficulty-velocity-acceleration-discrimination.md) — related
+- [Hands-on accelerator construction activities engaged learners with energy transfer, forces, and acceleration concepts](hands-on-accelerator-activities-asp2024.md) — related

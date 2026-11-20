@@ -27,4 +27,4 @@ An exploratory observational inventory developed by Morales-Navarro et al. for c
 -
 
 ## Key Sources
-- Morales-Navarro, L., Fields, D. A., & Kafai, Y. B. (2024). Understanding Growth Mindset Practices in an Introductory Physical Computing Classroom: High School Students' Engagement with Debugging by Design Activities. Computer Science Education.
+- Morales-Navarro, L., Fields, D. A., & Kafai, Y. B. (2024). Understanding Growth Mindset Practices in an Introductory Physical Computing Classroom: High School Students' Engagement with Debugging by Design Activities. Computer Science Education. [doi:10.1080/08993408.2024.2317080](https://doi.org/10.1080/08993408.2024.2317080)

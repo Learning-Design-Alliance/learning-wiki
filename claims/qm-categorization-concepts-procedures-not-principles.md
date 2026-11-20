@@ -55,3 +55,4 @@ Theme from individual discussions with faculty participants, not a tested result
 - [Expert categorization of upper-level quantum mechanics problems is based primarily on the process involved (measurement or time evolution) rather than on fundamental principles](qm-categorization-based-on-process.md) — related
 - [Experts use general patterns and broad categorizations when solving physics problems, but novices do not make this leap as readily](experts-categorize-novices-do-not-physics-problems.md) — related
 - [Distinguishing fundamental physical principles from surface features is a critical aspect of problem solving](distinguish-principles-from-surface-features.md) — related
+- [Quantum informatics concepts can be categorized within the Great Principles framework with almost no need for re-categorization](quantum-informatics-fits-great-principles-windows.md) — related

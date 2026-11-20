@@ -48,3 +48,4 @@ Survey analysis of items 22, 49, and 71 involving irreversible spontaneous proce
 ## Related Claims
 - [Graduate students struggled most with the Expansions question, frequently claiming zero entropy change for the free expansion and rarely recognizing the state-function basis for equal entropy changes](free-expansion-entropy-sign-difficulty-graduate.md) — related
 - [Algebra-based students performed significantly worse than calculus-based students on questions related to heat transfer and work](algebra-based-worse-than-calculus-based-q-w.md) — related
+- [Many introductory students are unaware that total entropy must increase in irreversible processes such as free expansion and gas mixing, while upper-level students succeed](unaware-total-entropy-increases-irreversible.md) — related

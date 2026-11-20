@@ -52,3 +52,4 @@ GLMM analysis of reprimand frequencies in the randomized trial. Treatment teache
 - [CW-FIT improves general classroom management practices from about 50% to 84%](cw-fit-improves-classroom-management-practices.md) — related
 - [CW-FIT group contingency intervention significantly increases class-wide on-task behavior in elementary classrooms](cw-fit-increases-class-wide-on-task-behavior.md) — related
 - [CW-FIT significantly increases teacher praise and attention to appropriate behaviors](cw-fit-increases-teacher-praise.md) — related
+- [Faculty disciplinary intervention in student-student interactions differs starkly across the three departments: active reprimanding in Study 1, severe lack in Study 2, and unawareness with only temporary effects in Study 3](disciplinary-domain-faculty-intervention-differences.md) — related

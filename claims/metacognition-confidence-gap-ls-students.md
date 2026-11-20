@@ -50,3 +50,4 @@ Statement-level CLASS percentages (Table III): statement 5 (77% LS vs 42% PhS ag
 - [Personal Interest in physics differs sharply by degree area, with 20% of life-science versus 79% of physical-science students agreeing they enjoy solving physics problems](personal-interest-enjoyment-gap-statement25.md) — related
 - [A significant percentage of life-science students predominantly use the novice 'Plug and Chug' problem-solving strategy in physics](plug-and-chug-predominates-life-sciences.md) — related
 - [Problem Solving - Sophistication shows the largest CLASS gap between life-science and physical-science students (effect size 1.1)](ps-sophistication-largest-class-gap.md) — related
+- [A higher percentage of life-sciences than physical-sciences first-year students adopt novice-type problem-solving behaviour such as plug-and-chug on the CLASS test](class-life-sciences-novice-problem-solving.md) — related

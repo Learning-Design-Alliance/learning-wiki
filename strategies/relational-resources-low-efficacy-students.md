@@ -51,6 +51,7 @@ Based on the moderated mediation findings, the authors recommend that schools su
 - [Embed structured self-regulation and time management supports in higher education instruction, advising, and first-year curricula](embed-sr-tm-supports-higher-education.md)
 - [Design educational strategies that foster self-regulation and self-efficacy to support academic success](foster-self-regulation-and-self-efficacy-strategies.md)
 - [Fostering students' academic self-efficacy through feedback, encouragement and peer-success modeling](foster-academic-self-efficacy-feedback-peers.md)
+- [Build community within the course through activities that help students learn about their classmates, supporting self-efficacy, identity, and belonging.](clasp-community-building-activities.md)
 
 ## Examples
 -

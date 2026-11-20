@@ -47,3 +47,4 @@ This is the authors' position-paper assessment of prior taxonomies (e.g. Diziol 
 ## Related Claims
 - [ACLS has shown benefits compared to individual work, unsupported collaboration, and non-adaptive support](acls-benefits-over-individual-and-non-adaptive.md) — related
 - [Marzano's taxonomy chosen over Bloom's because it accommodates three knowledge types and positions metacognition and ethics](marzano-over-bloom-rationale-genai-literacy.md) — related
+- [Existing reviews and meta-studies of pedagogical agents provide neither a comprehensive design framework nor a consistent picture of contested design aspects](pa-reviews-lack-design-guidance.md) — related

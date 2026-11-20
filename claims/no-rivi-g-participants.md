@@ -47,3 +47,4 @@ Survey result from Table 5 (R-I-Vi-G: 0 students, 0%) and the discussion's infer
 ## Related Claims
 - [Among 307 Indonesian middle-school students, the predominant Felder-Silverman learning-style combination is Active-Sensitive-Visual-Sequential (A-S-Vi-Se)](middle-school-predominant-asvi-se-style.md) — related
 - [Preferred strategies and media differ across Felder-Silverman learning-style combinations, with A-S-Vi-Se students favouring games and simulations plus visual media](style-combination-strategy-media-mapping.md) — related
+- [The fuzzy learning style recognition system's outputs correlate strongly with Felder-Silverman questionnaire results (84% overall)](fuzzy-style-system-correlates-with-questionnaire.md) — related

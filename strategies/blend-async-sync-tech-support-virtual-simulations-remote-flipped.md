@@ -66,6 +66,7 @@ The article recommends that institutions delivering remote education mix asynchr
 - [Provide remote students with sample data, video lecture, and virtual walkthrough when in-person access is impossible](remote-lab-sample-data-substitute-strategy.md)
 - [Support blind students' real-time code learning with flipped-classroom pacing, differentiated audio streams, and pre-course technical onboarding](flipped-onboarding-differentiated-audio-strategy.md)
 - [Offer teacher continuing education remotely, with distributed dates and times and recorded sessions, to widen participation and scientist contact](online-format-recorded-sessions-teacher-outreach.md)
+- [Design recommendations for immersive flipped learning courses](immersive-flipped-design-recommendations.md)
 
 ## Examples
 -

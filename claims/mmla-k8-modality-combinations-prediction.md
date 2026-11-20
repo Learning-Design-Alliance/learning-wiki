@@ -58,3 +58,4 @@ The review's discussion reports this as a key finding from the included studies:
 - [Chest-worn ECG provides the strongest cardiac-sensing performance for attention-difficulty prediction, and fusing all cardiac streams does not improve upon chest ECG alone](chest-ecg-strongest-cardiac-engagement-signal.md) — related
 - [Combining eye tracking with other process measures such as machine vision features provides useful information about student engagement](multimodal-engagement-measurement.md) — related
 - [Subject-wise standardization of eye-tracking features marginally improved the fit of performance and learning rate models](subject-wise-standardization-improves-model-fit.md) — related
+- [Multimodal integration of eye tracking, video, and physiological data enhances precision and robustness of aware and unaware mind-wandering detection and outperforms unimodal approaches](multimodal-outperforms-unimodal-mind-wandering-detection.md) — related

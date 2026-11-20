@@ -74,3 +74,4 @@ Two further vision-of-science items of the satisfaction questionnaire: 67.3% aff
 - [Interviewed ADI students reported engaging in scientific practices such as identifying variables, finding patterns in data, and developing methods, while no comparison-group students did](interviews-adi-scientific-thinking-practices.md) — related
 - [Students rated interactions with researchers as useful and helpful for understanding the remote experiments](researcher-interaction-useful-remote-lab.md) — related
 - [Students reported that hands-on quantum programming labs improved hands-on skills and understanding of the rationale behind experiments](positive-student-feedback-quantum-labs.md) — related
+- [SciFabLab delivered 172 hands-on STEM workshops for primary school years 1–5 during the 2023/24 academic year, spanning ages 6 to 11](scifablab-172-primary-workshops-2023-24.md) — related

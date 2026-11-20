@@ -59,3 +59,4 @@ Analytical discussion in the reliability section of the paper, drawing on classi
 - The study was powered to detect effect sizes from d = 0.34 to 0.65 across the five tasks, so smaller effects would not have been reliably detected — related
 - [The one-minute paper significantly enhances students' statistics knowledge in an OLS controlled-vs-experimental comparison](one-minute-paper-ols-significant-knowledge-gain.md) — related
 - [At least 7–10 SETs per teacher are needed for reliable ratings, making SET feedback in small programs infrequent and unreliable](seven-to-ten-sets-needed-reliable-ratings.md) — related
+- [Further simulations suggest the mean-of-cases estimator may be reliable in low-pretest-mean settings, and bias shrinks when score variance is reduced](appendix-simulations-low-pretest-reliable-mean-of-cases.md) — related

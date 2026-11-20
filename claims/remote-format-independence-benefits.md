@@ -53,3 +53,4 @@ Grace's interview quote, reported in the discussion's remote-vs-in-person compar
 - [Remote REU mentees reported the experience was highly beneficial and the remote format did not open a gap between their objectives and outcomes](remote-reu-mentees-reported-highly-beneficial-outcomes.md) — related
 - [Remote REU participants persistently lacked community, and the resulting lack of in-person interaction pushed mentees into substantial independent learning](remote-reu-lack-of-community.md) — related
 - [Working from home introduced motivational challenges in remote REU programs](remote-reu-motivational-challenges.md) — related
+- [Students preferred in-person REUs and treated remote REUs as a last resort, valuing laboratory and social engagement opportunities](reu-in-person-preference-remote-last-resort.md) — reports the opposite

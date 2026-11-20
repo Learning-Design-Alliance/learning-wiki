@@ -52,6 +52,7 @@ The article closes with practical tips for implementing ICM instruction, based o
 - [Design VM-enriched PBL projects aligned with the curriculum, avoiding repetitive activities, tailoring project duration, ensuring adequate VM quality and quantity, and providing well-designed technological infrastructure](designing-vm-enriched-pbl-projects-strategy.md)
 - [Implement CBL successfully by ensuring pre-class preparation, authentic progressive cases, dual-competence facilitators, adequate time, and process-plus-outcome assessment](cbl-implementation-success-conditions.md)
 - [Schedule laparoscopic skills training during working hours with motivational structures such as competitions, rewards and mandatory requirements](train-during-working-hours-with-incentives-strategy.md)
+- [Grade incentives and mandatory in-class activities to ensure peer-customer participation](peer-customer-participation-incentives.md)
 
 ## Examples
 -

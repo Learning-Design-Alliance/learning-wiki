@@ -48,4 +48,4 @@ The article recommends embedding open check-in prompts into regular coursework a
 -
 
 ## Key Sources
-- Hamdan, A., Bista, A., Newman, D., & Franklin, S. (2024). Exploring Faculty Identity Sharing: A Pathway to Empathy in Physics Faculty. https://arxiv.org/abs/2404.01408
+- Hamdan, A., Bista, A., Newman, D., & Franklin, S. (2024). Exploring Faculty Identity Sharing: A Pathway to Empathy in Physics Faculty. https://arxiv.org/abs/2404.01408. [doi:10.48550/arxiv.2404.01408](https://doi.org/10.48550/arxiv.2404.01408)

@@ -58,3 +58,4 @@ The article reports, citing the Yerkes and Wood article's Table III, that a "coe
 - [Per cent solved is a variable, not a constant unit of difficulty, and is not comparable across groups](percent-variable-unit-not-constant.md) — a broader claim this one bears on
 - [Scaling is a sine qua non for experimental use of tests, and unscaled tests interpreted as scaled do harm](scaling-sine-qua-non-experimental-use.md) — a broader claim this one bears on
 - [Kuhlmann argued the difference between mental age and chronological age does not represent the true degree of deficiency](kuhlmann-rate-of-mental-progress-over-age-difference.md) — related
+- [The article argues that relative learning progress, measured against a student's starting position, is a more meaningful indicator of individual learning success than absolute attainment](relative-learning-progress-individual-success.md) — related

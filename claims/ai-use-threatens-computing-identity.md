@@ -54,3 +54,4 @@ Results on shaping identity: in the interview study, "Students described feeling
 - [Students shame themselves, peers, and in one case a faculty member for using AI](shaming-self-peers-faculty-ai-use.md) — related
 - [Shame and guilt coexist with continued AI use, creating self-reinforcing cycles of reliance, concealment, and self-critique rather than behavior change](shame-guilt-cycles-continued-ai-use.md) — related
 - [AI feedback positioned as more objective than human judgment threatens professional identity and power dynamics in supervisory relationships](ai-feedback-professional-identity-power-risk.md) — related
+- [AI guilt among secondary students arises from three dimensions: perceived laziness/inauthenticity, fear of judgment, and identity/self-efficacy concerns](three-dimensions-ai-guilt-secondary-students.md) — related

@@ -50,3 +50,4 @@ Weekly survey data collected during Spring 2012 from the 21 upper-division Physi
 - [Non-physics-major students enjoyed the cycloid experiment](non-physics-majors-enjoyed-cycloid-experiment.md) — related
 - [Most students were satisfied with the air:bit project and found the online materials helpful](airbit-student-satisfaction-online-materials.md) — related
 - [83% of students preferred simulation-driven classroom teaching over non-simulation-driven teaching](students-prefer-simulation-driven-teaching.md) — related
+- [Ethel's course-specific chatbot was deployed to over 1500 students across six courses, and a survey found the majority of students found it helpful or very helpful](ethel-chatbot-deployment-helpfulness.md) — related

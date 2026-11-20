@@ -58,3 +58,4 @@ The review attributes this finding to Barron (2003) as the rationale for assessi
 - [Purely peer groups working purposefully out-of-reach problems did not fully succeed but still made significant progress, internalizable by individual members](peer-groups-did-not-fully-succeed-out-of-reach-problems.md) — related
 - [The Delegated Reasoning group significantly outperformed the Concerted Interpretation group on collaborative problem-solving task performance](dr-outperforms-ci-task-performance.md) — related
 - [A conceptually productive group does not ensure equitable discourse](conceptual-productivity-not-sufficient-for-equity.md) — related
+- [Incorporating new technology into educational organizations is an ill-structured problem with conflicting definitions of success, and imposed solutions often fail](edtech-implementation-ill-structured-problem.md) — related

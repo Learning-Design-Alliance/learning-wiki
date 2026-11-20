@@ -45,6 +45,7 @@ El recuadro del artículo propone un método de orientación sin brújula: se di
 
 - [Secuencia de cinco actividades que va del problema cotidiano a la construcción de un instrumento de medición](../designs/five-activity-shadow-to-sundial-sequence.md): la secuencia de actividades sobre sombras de la que forma parte
 - [Maqueta de esferas de telgopor, alambres y linterna para representar los arcos solares diurnos en tres momentos del año](../elements/solar-arc-maqueta-foam-wire-flashlight.md): la maqueta del arco solar del mismo artículo
+- [Secuencia de actividades previas con imanes y brújula para introducir el uso de la brújula como sensor de campo magnético antes de la práctica del conductor recto](estrategia-brujula-imanes-introduccion-campo.md)
 
 ## Examples
 -

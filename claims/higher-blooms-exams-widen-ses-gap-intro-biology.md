@@ -52,3 +52,4 @@ Same multilevel model of 4810 students' exam scores, with EOP eligibility as an 
 - [Increasing the percentage of constructed-response questions on introductory biology exams benefits middle/high-SES students more than low-SES students of equal prior academic ability](constructed-response-questions-favor-high-ses-students.md) — related
 - [For middle/high-SES male students, increasing an exam's weighted Bloom's level predicts decreased exam performance after controlling for prior GPA and exam difficulty](higher-blooms-level-lowers-overall-exam-performance.md) — related
 - [No reduction in the EOP/non-EOP score gap is observed on the student-created problem assessment](problem-project-no-eop-gap-reduction.md) — related
+- [LLM access widens the gap between students with low and high prior knowledge, increasing inequality in education](llms-widen-prior-knowledge-gap.md) — related

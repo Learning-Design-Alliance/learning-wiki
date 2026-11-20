@@ -52,3 +52,4 @@ Pre-post evaluation of an interactive forum organized in six 120-minute sessions
 - [An elective EBM course for pharmacy students improved pre-post course scores from 8.6/15 to 13.7/15, with preceptors and students reporting improved literature critique and interpretation confidence](pharmacy-elective-course-gains-and-preceptor-views.md) — related
 - [Dosage of SM interventions varied extensively, with median session length 45 minutes, six sessions, across twelve weeks](sm-intervention-dosage-variability.md) — related
 - [A 100-minute mobile e-learning course produces significant gains in knowledge (median 50%) and competence (median 13%) in novice undergraduate medical students](mtel-knowledge-competence-gains-orl.md) — related
+- [Participant attrition between workshop sessions remained a persistent challenge across both workshop iterations](rai-workshop-attrition-challenge.md) — related

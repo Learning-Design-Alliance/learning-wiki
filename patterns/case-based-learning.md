@@ -37,7 +37,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 100 claims (57 for, 41 mixed, 2 against) · 75 studies (41 causal, 14 quant-synthesis, 10 review, 4 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 22 of 75 report an effect size · 95 claims rest on one study
+> **Evidence** · 101 claims (58 for, 41 mixed, 2 against) · 76 studies (41 causal, 14 quant-synthesis, 10 review, 5 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 22 of 76 report an effect size · 96 claims rest on one study
 
 ## Description and scope
 
@@ -168,6 +168,7 @@ Claims this page cited before it was rewritten as a conditional model. Both clai
 - [Two weeks after the course, live and video CCD formats no longer differ but both outperform printed cases on clinical reasoning](../claims/delayed-post-test-live-video-beat-paper.md) [+M] — attached 2026-11-08 from Weidenbusch M et al. (2019), which proposed "Clinical case discussion (CCD) session structure: admission, interactive discussion, summary"; tests this page's relationship.
 - [Weekly case-based tele-education was associated with reduced ICU and hospital mortality, shorter length of stay, and cost savings in a limited-resource MICU](../claims/tele-education-reduced-icu-mortality-limited-resource.md) [+W] — attached 2026-11-09 from Kovacevic Pedja et al. (2019), which proposed "Weekly 45-min case-based tele-education rounds in three phases".
 - [For complex problem-solving, eBook learning produced significantly smaller knowledge gains than both eCase learning and case-based classroom teaching, which performed comparably](../claims/ebook-inferior-for-complex-problem-solving.md) [+W] — attached 2026-11-10 from Bjarne Skjødt Worm (2013), which proposed "Match the learning method to content complexity: case-based formats (eCases or classroom) for complex problem-solving, any method for simple recall"; tests this page's relationship.
+- [Participants reported the case study format and small-group interaction were effective and engaging for learning RAI concepts](../claims/case-study-format-engagement-effectiveness.md) [+W] — attached 2026-11-20 from Julia Stoyanovich et al. (2025), which proposed "Stakeholder-first RAI workshop pattern: moderated case-study breakouts with dual-sentiment handouts and co-created stakeholder matrices".
 
 ## Illustrative design instance and observation record
 

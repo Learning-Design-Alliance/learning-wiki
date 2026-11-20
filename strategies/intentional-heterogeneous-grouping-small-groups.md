@@ -54,6 +54,7 @@ The essay recommends instructor-assigned heterogeneous grouping using beginning-
 
 - [Build collaborative LO components for producing, testing and comparing arguments, and form heterogeneous groups of about three](collaborative-lo-argument-components-heterogeneous-groups.md)
 - [Standard-Based Regrouping](standard-based_regrouping.md)
+- [Divide the class into four groups, with teachers forming balanced groups for primary pupils](four-group-division-hands-on-stem.md)
 
 ## Examples
 -

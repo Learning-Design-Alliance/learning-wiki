@@ -51,3 +51,4 @@ Ethnographic observation of test-review sessions, e.g. Dan reciting masthead-lig
 - [Question prompts improve learning](question-prompts-improve-learning.md) — related
 - [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
 - [Children give more disempowering help (right answers) to peers portrayed as incompetent and more empowering help (hints) to competent peers](children-disempowering-help-incompetent-peers.md) — related
+- [Giving every student a different dataset enabled peer helping and feedback between classmates](different-datasets-enable-peer-feedback.md) — a narrower finding that bears on this claim

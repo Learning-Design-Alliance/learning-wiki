@@ -51,3 +51,6 @@ Comparative analysis of the same eight-chatbot DUS benchmark (Table 2): word cou
 - [Overconfidence rates differ significantly among LLMs, with Gemini highest and Claude showing none](llm-overconfidence-rates-differ-endodontic-questions.md) — related
 - [Wilcoxon pairwise comparisons showed Claude rated significantly higher than ChatGPT, Gemini, and DeepSeek in overall student ratings](wilcoxon-claude-beats-other-models.md) — related
 - [Response length and speed show no significant relationship with accuracy on DUS restorative dentistry questions](response-length-time-no-accuracy-correlation.md) — related
+- [ChatGPT4.0 and Gemini-1.5-flash showed the most consistent response lengths, while ChatGPT3.5 was the most variable across repeated prompts](llm-response-consistency-cv.md) — related
+- [Six LLMs differed substantially in response length and structure when explaining conservation of momentum, with Gemini-1.5-pro longest and ChatGPT3.5 shortest](llm-response-length-variability-momentum.md) — related
+- [SAM's chatbot achieved a 97.6% response accuracy rate](sam-chatbot-97-6-accuracy.md) — related

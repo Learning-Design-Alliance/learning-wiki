@@ -49,3 +49,4 @@ Quasi-experimental study of 41 students randomly divided into blended and tradit
 - [Using a module containing critical thinking aspects produces significantly higher academic achievement than the commonly used school module in 8th-grade human circulatory system learning](cta-module-higher-academic-achievement-circulatory.md) — related
 - [Blended learning raises fifth graders' achievement in My Beautiful Language Textbook more than traditional instruction](blended-learning-improves-arabic-textbook-achievement-grade5.md) — related
 - [Blended problem-based learning produced significantly higher posttest academic achievement than PBL and traditional lecture instruction](bpbl-higher-academic-achievement-than-pbl-and-lecture.md) — related
+- [Learning-style-based homogeneous grouping with tailored content raises academic success in an e-learning course (17.65 vs 12.60 out of 20)](learning-style-grouping-raises-academic-success.md) — related

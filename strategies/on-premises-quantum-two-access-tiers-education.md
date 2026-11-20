@@ -43,7 +43,8 @@ The article sorts educational applications into two access tiers: "(1) experimen
 - [The article argues classical simulators are better suited than real quantum hardware for teaching, citing error rates, incomplete measurement output, and limited hardware access.](../claims/classical-simulators-preferred-for-teaching-quantum-computing.md) [-W]
 
 ## Related Strategies
-- 
+
+- [Use cloud-accessible quantum computing platforms so students run circuits on real quantum hardware](cloud-quantum-platforms-school-use.md)
 
 ## Examples
 -

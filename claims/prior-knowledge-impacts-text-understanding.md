@@ -57,3 +57,4 @@ The article asserts, citing prior literature (Richardson, Morgan, & Fleener; Sou
 - [Focusing students' attention on the meaning of a text before reading, such as introducing the topic and encouraging predictions, is among the practices most consistently related to student growth](pre-reading-meaning-focus-related-to-growth.md) — related
 - [Prior knowledge of AMOLED displays was low and did not differ between the video and text/image groups before instruction](prior-knowledge-amoled-no-group-differences.md) — related
 - [Only 9% of surveyed students reported sufficient prior knowledge of the image-formation topics covered by the exhibit](holographic-exhibit-low-prior-knowledge-9-percent.md) — a narrower finding that bears on this claim
+- [Participants with intermediate prior knowledge asked more questions than those with basic knowledge](sam-intermediate-knowledge-more-questions.md) — a narrower finding that bears on this claim

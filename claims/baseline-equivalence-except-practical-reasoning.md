@@ -57,3 +57,4 @@ Student's t tests on pre-treatment PENCRISAL scores for the 166-student sample (
 - [Baseline EMQ scores did not differ between GGR and SNAPPS groups, ensuring equivalent starting clinical reasoning skills](ggr-snapps-equivalent-baseline.md) — related
 - [No significant baseline differences in gender, age, or experimental technical background between the TETM and RFETM groups](no-baseline-differences-tetm-rfetm-groups.md) — related
 - [Control and implementation groups were largely equivalent at pre-test on ethical reasoning, with one exception](cl-pretest-equivalence-control-implementation-groups.md) — related
+- [Treatment and control groups were statistically equivalent at baseline on math scores, gender, and age](rori-study-baseline-equivalence.md) — related

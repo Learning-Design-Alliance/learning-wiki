@@ -53,3 +53,4 @@ Independent samples t test of emotional engagement (questionnaire adopted from B
 - [Emotional engagement improved across all three storytelling modalities but none of the improvements was statistically significant](emotional-engagement-gains-not-significant-all-modalities.md) — related
 - [Participants identified children under 10 as the intended target group for the storytelling robot, significantly more than all other age groups](icub-storytelling-target-under-10-children.md) — related
 - [One-third of hospital medication errors occur during configuration and administration phases dominated by nursing activities](one-third-medication-errors-nursing-phases.md) — related
+- [In the data storytelling condition, correct scores for VLA comprehension improved significantly from pre-intervention to both the intervention and post-intervention phases, with large effects](data-storytelling-vla-score-gains-persist-post-intervention.md) — related

@@ -89,3 +89,4 @@ Moderation analysis across 16 pooled effects found the design principle itself e
 - [The learning benefit of increasing integration is substantially larger for high element interactivity (complex) materials than for low element interactivity materials](element-interactivity-moderates-contiguity-effect.md) — a narrower finding that bears on this claim
 - [Clear Structure Improves Learning](clear-structure-improves-learning.md) — a narrower finding that bears on this claim
 - [Learning with multimedia pedagogical agents is more effective than learning without these agents, with a small overall effect (g+ = 0.20)](pedagogical-agents-small-overall-learning-benefit.md) — a narrower finding that bears on this claim
+- [CTML multimedia design principles show much smaller effects on quiz performance in an authentic physics classroom than in Mayer's laboratory studies](ctml-principles-muted-effects-physics-classroom.md) — a narrower finding that bears on this claim

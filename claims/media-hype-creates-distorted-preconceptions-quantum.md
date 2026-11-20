@@ -47,3 +47,4 @@ Qualitative interview finding: instructors Albert, Carl, and Edwin explicitly de
 ## Related Claims
 - [Instructors report that popular media hype is a major motivator of student interest and enrollment in quantum computing electives](media-hype-motivates-student-enrollment-quantum-courses.md) — related
 - [After the module, students' perceived societal importance of quantum computing shifted toward appreciating that the technology is in its infancy, with median importance unchanged at 4](qc-module-importance-perception-shift.md) — related
+- [Most grassroots quantum organizations were founded in and after 2019, with a peak in 2021 coinciding with quantum computing hype and the COVID-19 shift to online education](grassroots-quantum-founding-timing.md) — related

@@ -70,3 +70,4 @@ Quantitative analysis of the categorization matrix from the study in which 22 un
 - [Instructors agree that the primary goals of an upper-division QM course are learning the postulates and formalism and applying the formalism to solve diverse problems](qm-course-goals-postulates-formalism-problem-solving.md) — related
 - [Quantum field theory is rarely taught or even mentioned in introductory physics courses from high school through upper-division undergraduate levels](qft-absent-from-introductory-physics-courses.md) — related
 - [Expert categorization of upper-level quantum mechanics problems is based primarily on the process involved (measurement or time evolution) rather than on fundamental principles](qm-categorization-based-on-process.md) — related
+- [Quantum informatics concepts can be categorized within the Great Principles framework with almost no need for re-categorization](quantum-informatics-fits-great-principles-windows.md) — related

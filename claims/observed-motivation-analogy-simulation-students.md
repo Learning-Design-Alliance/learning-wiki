@@ -52,3 +52,4 @@ Authors' informal classroom observation during the teaching implementations, rep
 - [Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses](widespread-remote-stem-challenges-motivation-connectivity.md) — related
 - [Collaborative learning did not appear to sustain trainees' motivation in the online programme](collaborative-learning-did-not-sustain-motivation.md) — related
 - [Learners using TMM showed positive engagement, motivated by the software's scoring feature](tmm-scoring-feature-drove-learner-engagement.md) — related
+- [The authors report that students appeared motivated and engaged during the skateboarding tutorial, based on informal classroom observation](skateboarding-tutorial-informal-engagement-observation.md) — related

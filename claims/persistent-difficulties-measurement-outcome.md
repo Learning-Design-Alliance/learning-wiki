@@ -46,3 +46,4 @@ Across both years, some students stated on both pre- and post-test that measurin
 
 ## Related Claims
 - [Many students incorrectly claim that an operator acting on a generic state yields an eigenstate or eigenvalue, or arbitrarily replace the generic state with an eigenstate, when finding expectation values](operator-on-generic-state-measurement-confusion.md) — related
+- [Among students, the proportion confusing the action of an operator on a quantum state with measurement fell from pre-test to post-test after the CQS but remained around 40%, so the confusion remained a persistent student difficulty](operator-action-confused-with-measurement-persistent-difficulty.md) — related

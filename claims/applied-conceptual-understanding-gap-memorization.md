@@ -67,3 +67,4 @@ Statement-level response percentages (Table III) for the memorization statement,
 - [Problem Solving - Sophistication shows the largest CLASS gap between life-science and physical-science students (effect size 1.1)](ps-sophistication-largest-class-gap.md) — related
 - [Life-science students show markedly lower confidence and metacognitive awareness in problem solving than physical-science students](metacognition-confidence-gap-ls-students.md) — related
 - [Personal Interest in physics differs sharply by degree area, with 20% of life-science versus 79% of physical-science students agreeing they enjoy solving physics problems](personal-interest-enjoyment-gap-statement25.md) — related
+- [A higher percentage of life-sciences than physical-sciences first-year students adopt novice-type problem-solving behaviour such as plug-and-chug on the CLASS test](class-life-sciences-novice-problem-solving.md) — a broader claim this one bears on

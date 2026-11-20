@@ -73,3 +73,4 @@ The same 18-participant Likert-scale usability study reports "The overall recomm
 - [Trainees reported high satisfaction with the AI-enabled personalized teaching model](high-satisfaction-ai-personalized-teaching.md) — related
 - [Mean Likert ratings across engagement, collaboration, conceptual understanding, and satisfaction criteria were approximately 4.00 on the 5-point scale](mhw-tbl-mean-likert-4.md) — related
 - [Students reported overall high satisfaction with the application (2.84, S.D. 0.13), with enjoyment rated highest](place-value-app-student-satisfaction-high.md) — related
+- [Users rated SAM positively on satisfaction, response quality, and trust in accuracy](sam-positive-usability-ratings.md) — related

@@ -47,6 +47,7 @@ The essay proposes design and policy measures to counter placebo and ghostwriter
 
 - [Strengthen institutional policies, ethics education, verification, disclosure, and data protection to support ethical GenAI use](institutional-strategies-ethical-genai-use.md)
 - [Evaluate GenAI declaration frameworks empirically and pair them with institutional guidance on which tools are in scope](evaluate-genai-declarations-and-scope-guidance.md)
+- [Develop clear ethical AI guidelines specifying appropriate uses, framing AI as supplementary, limiting direct output copying, and promoting transparency](ethical-ai-guidelines-to-mitigate-ai-guilt.md)
 
 ## Examples
 -

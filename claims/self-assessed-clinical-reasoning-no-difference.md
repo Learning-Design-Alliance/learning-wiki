@@ -47,3 +47,4 @@ Secondary outcome using a modified Koivisto questionnaire with two Liou-based de
 ## Related Claims
 - [Clinical reasoning scores were higher after training than before training in every clinical domain assessed, in one single-group pre-post study with no comparison group](ofc-gains-across-all-clinical-domains.md) — related
 - [Nursing students report significantly greater satisfaction and motivation after serious-game simulation than after traditional teaching](sg-greater-satisfaction-motivation.md) — related
+- [Game-based learning significantly increased knowledge outcomes for both groups](gamedevdojo-significant-knowledge-gains.md) — related

@@ -48,6 +48,7 @@ For VR simulations that can be used repeatedly, the authors recommend adding gam
 - [Integrate VR simulator sessions into the medical curriculum to build IR proficiency and spark career interest](vr-simulator-sessions-medical-curriculum-strategy.md)
 - [Incorporate instant score feedback and richer communication interactivity into VR simulations to motivate repeated, self-directed use](vr-instant-score-feedback-repeated-use-strategy.md)
 - [Game-based simulation training with repeated sessions for surgical instrument recognition](game-based-repeated-simulation-training-strategy.md)
+- [Integrate chatbot interactions deeply into the gaming narrative to blend entertainment with learning](chatbot-integrated-game-progression-strategy.md)
 
 ## Examples
 -

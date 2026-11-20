@@ -46,7 +46,8 @@ The review concludes that despite advantages of AI-based technologies, "Successf
 - [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](../claims/integrity-equity-concerns-span-all-units.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Future directions for equitable AI-driven education: privacy, digital divide, and adoption through training and support](equitable-aied-future-directions-strategy.md)
 
 ## Examples
 -

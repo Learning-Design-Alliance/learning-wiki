@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` During informal classroom observations, students moved from simple state-elimination strategies to more skeptical, statistically-aware play, showing more accurate and more aggressive guessing and better scores. [→ Theodore A. Corcovilos 2018](#theodore-a-corcovilos-2018)
@@ -70,3 +70,4 @@ The same informal observations describe the strategy progression: students began
 - [Playtesting showed Quantum 3 players learned baryon composition passively, predicting how to form baryons they had not previously seen](quantum3-passive-baryon-learning-playtests.md) — related
 - [A kinesthetic game in which students play qubits and scientists lets high-school students experience quantum features and discover underlying rules from experimental data first-hand](kinesthetic-qubit-game-first-hand-experience.md) — related
 - [The game builds on the qubit-based card game Q|Cards⟩ by extending it to high-dimensional quantum states and new game modes](endless-fun-extends-qcards.md) — related
+- [The authors report that students appeared motivated and engaged during the skateboarding tutorial, based on informal classroom observation](skateboarding-tutorial-informal-engagement-observation.md) — related

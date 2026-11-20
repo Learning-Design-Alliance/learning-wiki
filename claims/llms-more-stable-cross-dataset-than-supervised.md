@@ -76,3 +76,4 @@ RQ2 model-level comparison across all prompting strategies and datasets (Table 3
 - [Multiagent framework demonstrated stable cross-specialty scalability with lower variability than single-LLM baseline](multiagent-stable-cross-specialty-scalability.md) — a narrower finding that bears on this claim
 - [Fine-tuned MacBERT outperformed fine-tuned LLMs on medical entity extraction while requiring far fewer computational resources](macbert-beats-llms-medical-entity-extraction.md) — related
 - [Fine-tuned GPT-3.5 surpassed fine-tuned BERT in automatic scoring of science written responses, with a statistically significant 9.1% average accuracy increase](finetuned-gpt35-surpasses-bert-science-scoring.md) — related
+- [The prompt-based method maintains high accuracy and contextual understanding across diverse educational contexts and interaction types](prompt-method-robust-across-contexts.md) — related

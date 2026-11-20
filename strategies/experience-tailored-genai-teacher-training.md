@@ -57,6 +57,7 @@ The article recommends differentiating professional training by teachers' existi
 - [Tailor ATLS pre-course preparation and extend course duration for less experienced and at-risk participants](tailored-atls-precourse-preparation-strategy.md)
 - [Tailor infectious-disease training programs to trainees' sex, education level, professional background, and prior experience](tailor-training-to-trainee-characteristics.md)
 - [Adapt AGREE II instruction to learners' prior knowledge: offer e-learning to true novices, streamlined materials to experienced learners](adapt-instruction-to-prior-knowledge-agree2.md)
+- [Tailor AI literacy instructional modalities to each audience: interactive K-12 activities, discipline-specific higher-ed applications, and workflow-focused workforce workshops](tailor-ai-literacy-modalities-by-audience.md)
 
 ## Examples
 -

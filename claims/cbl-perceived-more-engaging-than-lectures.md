@@ -58,3 +58,4 @@ Thematic analysis of four focus group discussions with 30 second-year MBBS stude
 - [Virtual case-based learning sessions significantly increase medical students' motivation to learn basic sciences](virtual-cbl-increases-basic-science-motivation.md) — related
 - [Perceived quality of case-based e-learning correlated significantly with motivation to complete cases and interest in otorhinolaryngology](elearning-quality-correlates-motivation-interest.md) — related
 - [First-year students' critical discourse identifies decontextualized knowledge, poor pedagogy, lack of critical thinking, and isolation from faculty in a traditional preclinical curriculum](critical-discourse-four-lines-reasoning.md) — related
+- [GPT-4 homework sessions increased student engagement ratings of interestingness and perceived resource level](gpt4-tutor-engagement-ratings.md) — related

@@ -58,3 +58,7 @@ Interview data on degree-subject routes (Fig. 3) show "The majority of companies
 - [The linear PhD-only path will not be the only route to quantum careers; multiple entry points are needed](multiple-entry-points-quantum-careers.md) — related
 - [Preferred degree level depends strongly on the quantum job role, with PhDs for quantum-specific roles and more consensus about skills than about degrees](quantum-degree-requirements-vary-by-role.md) — related
 - [Skills gained by physicists during formal education are often mismatched with skills required for a successful career in physics](physics-education-career-skills-mismatch.md) — related
+- [Company visits helped students learn what quantum companies exist, but most students still did not learn about specific job roles](company-visits-build-industry-familiarity.md) — related
+- [Quantum companies are shifting from requiring PhD-level expertise toward hiring masters-level and engineering staff with QT awareness](qt-phd-to-masters-shift.md) — related
+- [Coded profession discussion shows engineering dominates (46%) with software engineers most frequent, and start-ups discuss more roles than other company types](qt-professions-coding-distribution.md) — related
+- [Quantum technology systems engineering is a major industrial readiness gap with almost no university programs offering the skill set](qt-systems-engineering-gap.md) — related

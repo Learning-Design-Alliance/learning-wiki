@@ -49,3 +49,4 @@ Instructor reflection from the Results and Conclusions section on the two pilot 
 - [Approximately two-thirds of pilot students affirmed learning biology-relevant lab skills, with negative responses disappearing by spring](nexus-labs-biology-relevant-skills-perception.md) — related
 - [Pilot IPLS students shifted toward perceiving the reformed physics labs as valuable for their future careers](nexus-physics-labs-career-perception-shift.md) — reports the opposite
 - [Instructors perceive open forms of labwork and specific digital technologies (e.g., microcontrollers for experimental skills) as useful for reaching their learning objectives](open-labwork-and-specific-technologies-useful-for-objectives.md) — related
+- [A giant 9:1 Arduino Uno replica with magnetic components lets students with visual impairments or motor skill difficulties participate actively in lectures](giant-arduino-replica-inclusive-handling.md) — related

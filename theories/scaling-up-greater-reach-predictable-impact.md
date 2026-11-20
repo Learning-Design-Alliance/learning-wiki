@@ -48,6 +48,7 @@ The chapter defines scaling up, building on McDonald et al. (2006), as "achievin
 ## Examples
 
 - [Complement experimental scale-up research with design and improvement methods such as RPPs, DBIR, and Networked Improvement Communities](../strategies/complementary-design-improvement-methods-scaling.md)
+- [Use small-scale, low-stakes incremental testing with both confirmatory and exploratory measures, scaling up progressively](../strategies/incremental-testing-confirmatory-exploratory.md)
 
 ## Key Sources
 - Roschelle, J., Mazziotti, C. & Means, B. (2021). Scaling Up Design of Inquiry Environments. In C. Chinn & R.G. Duncan et al (Eds.), International Handbook on Learning and Inquiry. Routledge. ISBN 9781138922600. https://isbnsearch.org/isbn/9781138922600. [doi:10.4324/9781315685779-7](https://doi.org/10.4324/9781315685779-7)

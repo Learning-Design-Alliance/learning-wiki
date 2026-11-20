@@ -81,3 +81,5 @@ Reflexive thematic analysis of non-user open-ended comments (Fig. 5): "Usability
 - [Healthcare professionals rated the e-learning resource as useful, easy to use and relevant to practice, and about one-third reported applying it in clinical practice at 4 weeks](elearning-usefulness-usability-ratings.md) — related
 - [Too-small image size was the most frequent dislike in open-ended online responses, followed by resolution and colour complaints](image-size-and-resolution-top-mobile-dislikes.md) — related
 - [Students report mostly positive responses to reminder emails, but some experience stress, annoyance, or feeling targeted](student-perceptions-of-reminder-emails-mixed.md) — related
+- [LLM-based chatbots receive significantly higher usability ratings than predefined chatbots in a VR cultural heritage game](llm-chatbot-higher-usability-vr-heritage.md) — related
+- [SAM's chatbot achieved a 97.6% response accuracy rate](sam-chatbot-97-6-accuracy.md) — related

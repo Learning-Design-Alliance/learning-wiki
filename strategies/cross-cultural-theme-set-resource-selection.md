@@ -53,6 +53,7 @@ The article recommends choosing supplemental resources that students can relate 
 - [Design plugged CT experiences to be accessible and appealing to girls, and address technology-related anxiety through supportive, culturally relevant designs](girl-accessible-plugged-ct-design.md)
 - [Use a life-relevant theme (smart city) as the STEM practice curriculum with staged 18-week activities](smart-city-themed-staged-stem-strategy.md)
 - [Use free, text- and vocabulary-centered tools (MEM, WOW) as supplemental resources in resource-limited settings](free-open-source-tools-resource-limited-settings.md)
+- [Select case studies aligned with practitioners' daily activities, rich in complexity and stakeholder diversity](case-study-selection-for-practitioners-strategy.md)
 
 ## Examples
 -

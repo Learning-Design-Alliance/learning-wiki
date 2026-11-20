@@ -49,3 +49,4 @@ This is the reviewer's theoretical objection (type e), posed as questions rather
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
 - [Watkins reports first-year pupils executing printed commands without hesitation before year's end](first-graders-execute-printed-commands.md) — related
 - [First-year action physics students showed no evidence the material was too sophisticated, and exam performance was comparable to the exam overall](action-physics-accessible-first-year-no-sophistication-evidence.md) — related
+- [Interactive symbol-card Q&A sessions were used to foster active participation in accelerator physics lectures](symbol-card-qa-accelerator-lectures.md) — related

@@ -59,3 +59,4 @@ The Perspective reports, citing prior empirical work, that the prompt–response
 - [Students rarely cross-check ChatGPT outputs, and use it most on topics where they have least knowledge, increasing risk of absorbing errors](students-rarely-cross-check-chatgpt-errors.md) — related
 - [Custom prompt engineering did not measurably improve ChatGPT-4/CI problem-solving performance on the tested problems](custom-prompts-no-measurable-gain.md) — related
 - [Through sequenced DFT long prompts, a majority of students produced a working discrete Fourier transform after the first prompt and all students after the second](lbcg-dft-prompt-learning-outcomes.md) — related
+- [Prompt customization introduces at least three types of prompting bias: majority label, recency, and common token bias](prompting-bias-three-types.md) — related

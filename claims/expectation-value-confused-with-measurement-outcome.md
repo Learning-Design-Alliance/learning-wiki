@@ -74,3 +74,4 @@ Survey question administered to 202 graduate students from seven universities on
 - [Graduate students share common difficulties with basic quantum mechanics concepts regardless of university](universal-quantum-concept-difficulties-grad-students.md) — related
 - [Only 22% of upper-level undergraduates and 53% of graduate students correctly obtained the expectation value for a continuous eigenvalue spectrum](low-correct-continuous-expectation-value-q3.md) — related
 - [Only 29% of upper-level undergraduates and 52% of graduate students obtained a correct expectation value expression for a discrete eigenvalue spectrum](low-correct-discrete-expectation-value-q2.md) — related
+- [Students perform well (85%+) after lecture alone on basic Born rule probability calculations and identifying possible states, suggesting lecture is sufficient for some foundational concepts](lecture-sufficient-for-some-quantum-basics.md) — related

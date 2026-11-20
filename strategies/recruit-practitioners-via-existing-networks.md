@@ -39,6 +39,7 @@ The report found that both open recruitment (via Digital Promise's League of Inn
 ## Related Strategies
 
 - [Join national innovation networks and build internal leadership academies to advance responsible district AI adoption](join-national-innovation-networks-ai-readiness.md)
+- [Recruit through locally connected educational entities and train via multilingual volunteer-led sessions](locally-connected-entities-multilingual-volunteer-training.md)
 
 ## Examples
 -

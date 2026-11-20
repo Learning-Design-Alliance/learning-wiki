@@ -95,3 +95,5 @@ Observation from the WBA transcripts (e.g. a developmental psychology question i
 - [A minority of surveyed students reported that ChatGPT reduced their critical or independent thinking or provided inaccurate physics information](minority-students-report-reduced-critical-thinking.md) — related
 - [In a small proof-of-concept study, AI analysis of graduate students' explanations of BCI answers was rapid, informative, and provided actionable feedback on student thinking.](ai-analyzed-explanations-proof-of-concept.md) — related
 - [The review reports, citing Ray (2023), that ChatGPT can provide rapid responses and feedback on student work, aiding error correction](chatgpt-instant-feedback-error-correction.md) — related
+- [Deployed LLM-based systems risk overreliance because users may anthropomorphize conversational agents](anthropomorphization-overreliance-deployed-llms.md) — related
+- [Manual inspection finds LLM-generated leveled texts risk introducing misinformation and show inconsistent edit distribution](generated-leveled-texts-misinformation-and-uneven-edits.md) — a narrower finding that bears on this claim

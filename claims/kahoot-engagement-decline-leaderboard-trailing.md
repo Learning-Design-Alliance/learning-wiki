@@ -56,3 +56,4 @@ Instructor observation during the gamified year, reported in the discussion sect
 - [Internal medicine residents identified the leaderboard as the single most important motivator of participation in a gamified knowledge competition.](leaderboard-top-motivator-residents-kaizen-im.md) — related
 - [Students were fully engaged and having fun during the robot exercise, which the authors attribute to the robot being a non-standard teaching tool](robot-exercise-engagement-fun-attributed-to-nonstandard-tool.md) — related
 - [Teachers of the involved classes reported student enjoyment and stated they would reuse the course materials and Kahoot! with their pupils](teachers-reuse-intent-kahoot-materials.md) — related
+- [Participation rose from before to after leaderboard introduction, while answer quality did not decrease, in one single-group pre-post study with no comparison group, per the authors' report](leaderboard-participation-without-quality-reduction.md) — related

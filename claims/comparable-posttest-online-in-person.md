@@ -47,3 +47,4 @@ Cross-year comparison of post-test scores for questions unchanged between years 
 ## Related Claims
 - [Online apprenticeship learning offers greater flexibility than in-person learning despite implementation challenges for hybrid or remote options](online-apprenticeship-learning-flexibility-tradeoffs.md) — related
 - [In the online implementation, post-test performance on the outer-product question did not improve appreciably while other questions were comparable to the in-person class with the same instructor](online-outer-product-question-did-not-improve.md) — related
+- [Online students outperformed the same instructor's in-person class on the post-test, but the authors caution the online scores may be inflated](online-posttest-outperformed-in-person-with-inflation-caution.md) — reports the opposite

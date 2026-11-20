@@ -47,3 +47,4 @@ Authors' informal evaluation of the December 5 cosmic ray class, in which studen
 
 ## Related Claims
 - [In a streamlined ATLAS Z-path masterclass, three of four ASP students became newly interested in pursuing particle physics in graduate school after analyzing ATLAS data](asp2022-atlas-masterclass-career-interest.md) — related
+- [Learners measured real cosmic-ray muons with a portable detector and reenacted a particle collision](muon-detector-measurement-activity.md) — related

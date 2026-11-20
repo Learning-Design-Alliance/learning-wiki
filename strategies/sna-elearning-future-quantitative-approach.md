@@ -40,6 +40,7 @@ The review recommends a methodological shift toward quantitative analysis in fut
 
 - [Advance the use of structural-configurational methods such as SNA and ENA toward empirically testable models](structural-configurational-methods-toward-testable-models.md)
 - [Future SNA e-learning studies should examine two-mode networks and additional communication channels such as chat rooms, wikis, blogs and microblogs](sna-elearning-future-two-mode-networks-channels.md)
+- [Use configuration-model ensembles to statistically contextualize whole-network SNA metrics](configuration-model-ensemble-sna-baseline.md)
 
 ## Examples
 -

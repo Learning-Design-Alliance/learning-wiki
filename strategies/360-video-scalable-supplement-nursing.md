@@ -58,6 +58,7 @@ The authors recommend that "screen-based 360° contextual simulation videos may 
 - [Deliver a portion of clinical nursing skills instruction through mobile-based video learning that students can replay anytime](mobile-video-learning-for-clinical-skills-strategy.md)
 - [Deliver emergency simulation training at scale using 360-degree VR blended with in-person clinical placements](vr-simulation-scalable-blended-emergency-training.md)
 - [Use accessible and scalable desktop VR as an alternative to face-to-face simulation for interprofessional team training when face-to-face training is not feasible](desktop-vr-scalable-alternative-team-training-strategy.md)
+- [Sequence 360-degree NRP video first as a refresher, then the VR simulation, and offer both as adjuncts to in-person NRP training](sequence-360-video-then-vr-simulation-nrp.md)
 
 ## Examples
 -

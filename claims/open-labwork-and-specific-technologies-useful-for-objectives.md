@@ -50,3 +50,4 @@ Instructors judged eight forms of labwork — three degrees of openness (guided,
 - [Instructors show a generally positive attitude toward digital technologies in physics lab courses, measured with a psychometrically strong single-factor scale](positive-instructor-attitudes-digital-technologies.md) — related
 - [Instructors judged the open projects a good introduction to experimentation but noted students under-analyzed their data and mentoring difficulty](instructors-report-upsides-and-mentoring-difficulty.md) — related
 - [Students sometimes perceived the Arduino lab work as extra work tangential to the course syllabus and their careers](arduino-lab-perceived-as-extra-work.md) — related
+- [A giant 9:1 Arduino Uno replica with magnetic components lets students with visual impairments or motor skill difficulties participate actively in lectures](giant-arduino-replica-inclusive-handling.md) — related

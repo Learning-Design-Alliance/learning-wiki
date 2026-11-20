@@ -48,3 +48,4 @@ Spearman rank correlation analysis in the randomized experiment relating self-re
 ## Related Claims
 - [Self-perceived reading level is significantly associated with how many levels players reached and with enjoyment of the game](reading-level-associated-with-progress-and-enjoyment.md) — related
 - [Players who completed the game reported enjoying the game more and finding it more humorous, but completion was not significantly associated with liking Jo](completion-associated-with-enjoyment-and-humor.md) — related
+- [PXI results indicate moderately high player experience with audiovisual appeal highest](gamedevdojo-pxi-audiovisual-appeal.md) — related

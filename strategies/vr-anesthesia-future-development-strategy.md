@@ -53,6 +53,7 @@ The review's forward-looking recommendation is that anesthesia simulation progra
 - [Strengthen interinstitutional collaboration and investigate emerging technologies (3D printing, augmented reality) in simulation-based medical education research](strengthen-collaboration-emerging-technologies-strategy.md)
 - [Add virtual simulation to the online platform of blended clinical skills courses](virtual-simulation-in-blended-skills-platform.md)
 - [Form a multidisciplinary, faculty-led student team in a Makerspace to develop needed educational software](multidisciplinary-student-team-makerspace-edtech-development.md)
+- [Future VR-NRP development: add tactile feedback, target rural access, and adapt the environment to CPR and ACLS training](vr-nrp-future-directions-tactile-rural-cpr-acls.md)
 
 ## Examples
 -

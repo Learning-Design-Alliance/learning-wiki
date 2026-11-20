@@ -48,3 +48,4 @@ Multiple regression (571 observations, class fixed effects) comparing open- vers
 - [Chronic exposure to open-note testing produces a significant open/closed difference on Bloom's 1–2 questions and shifts student beliefs about which format is advantageous](chronic-open-note-exposure-alters-performance-and-beliefs.md) — related
 - [Random assignment to open- versus closed-note conditions produces no significant difference in overall paper quiz performance in large-enrollment biology lab courses](open-note-no-overall-performance-difference.md) — related
 - [Self-reported confidence in understanding the tested paper does not differ between open- and closed-note conditions](open-note-confidence-no-difference.md) — related
+- [Students with self-identified prior exposure to presentation topics outperform those with none on retention and transfer quiz questions](prior-exposure-predicts-presentation-quiz-performance.md) — related

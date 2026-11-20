@@ -61,3 +61,4 @@ Behavior-outcome comparison within the randomized controlled trial of 318 univer
 - [Students use standard GPT-4 access as a crutch—copying answers rather than engaging with the material—which explains the harm to learning](gpt-base-crutch-mechanism.md) — related
 - [Accounting for learning behavior attenuates profile-related exam score differences, eliminating significance in Python](learning-behavior-attenuates-profile-score-differences.md) — related
 - [Students do not perceive the learning harm from copying GPT solutions and overestimate their exam performance](students-unaware-of-ai-learning-harm.md) — related
+- [Students who adopted GPT-4 showed an estimated positive exam-score benefit (LATE ∆=6.86pp, ES=0.40), not significant after correction](gpt4-adopters-exam-score-late.md) — related

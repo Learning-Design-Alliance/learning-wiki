@@ -90,6 +90,7 @@ Learning journals work because writing forces elaboration and externalization: t
 - [Two-column reflective writings with guiding questions in the reflective learning group](two-column-reflective-writings-strategy.md)
 - [Implement guided reflective diary writing with weekly entries and individualized teacher feedback](guided-reflective-diary-writing-strategy-nursing.md)
 - [Weekly formative assignments: application cards after the first session and short written reflections after the second](hi-stem-weekly-application-cards-reflections.md)
+- [Lab guides with metacognitive scaffolding prompting paired reflection on experimental results](lab-guides-metacognitive-scaffolding-reflection.md)
 
 ## Examples
 - **Clinical/nursing education**: reflective practice journals are standard in nursing and medical placement programs, typically structured by Gibbs' (1988) reflective cycle, with preceptor responses each week.

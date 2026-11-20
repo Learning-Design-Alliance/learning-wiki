@@ -59,3 +59,4 @@ End-of-semester survey of students in the gamified course. "Seventy-two percent 
 - [Students rated the exhibit's activities highly, with the initial lecture lowest at 78% of scores between 8 and 10](holographic-exhibit-quality-ratings-8-to-10.md) — a narrower finding that bears on this claim
 - [Students report high enjoyment and perceived usefulness of the quantum mechanics game after a class test](entangle-game-high-acceptance-survey.md) — a narrower finding that bears on this claim
 - [Gamifying the overtaking task engaged almost all learners, including those initially uninterested](gamification-overtaking-engagement.md) — a narrower finding that bears on this claim
+- [Students perceive some aspects of game-based learning (overall opinion, learning effectiveness, fun, future use, preference) more favorably in face-to-face than online format](face-to-face-more-favorable-perceptions-gbl.md) — related

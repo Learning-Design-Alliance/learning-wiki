@@ -72,3 +72,4 @@ Second retention comparison in the same 4-week follow-up: "Didactic lecture 6.31
 - [Four weeks post-intervention, midwifery students taught childbirth-protocol topics via gamification showed significantly higher knowledge scores than students taught the same topics by lecture](gamification-higher-childbirth-knowledge-four-weeks.md) — related
 - [Understanding and knowledge retention is the same for basic-science topics taught by PBL and by lectures among Nepalese medical students](pbl-lecture-equal-retention-basic-science-nepal.md) — reports the opposite
 - [Skills taught with hands-on simulator practice are retained better at 4 weeks, and lecture-only teaching shows the greatest learning decay](simulator-practice-better-four-week-retention.md) — related
+- [Lectures followed by direct activities worked well, enabling students to try skills immediately after the lecture](lectures-followed-by-activities-worked.md) — related

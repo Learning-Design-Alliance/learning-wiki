@@ -71,6 +71,7 @@ The review recommends that future research adopt more rigorous methodologies, in
 - [Future RCDP research should assess long-term effects, dose-response across sessions, and standardized protocols with larger randomized samples](rcdp-future-research-recommendations.md)
 - [Future simulation evaluations should use rigorous designs, reduce attrition, and add booster practice, team dynamics, and distraction](future-simulation-evaluation-design-recommendations.md)
 - [Design future Serious Game versus traditional teaching trials as randomised studies with pre-tests and learning-time data](randomised-pretest-design-for-serious-game-trials.md)
+- [Report control-condition context fully and adapt comparative methods to information completeness](report-control-context-recommendations.md)
 
 ## Examples
 -

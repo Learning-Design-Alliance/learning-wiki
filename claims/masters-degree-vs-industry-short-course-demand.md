@@ -80,3 +80,7 @@ For retraining existing employees, "Companies report a desire for on-demand shor
 - [Expert-collected competences for the future quantum workforce fall into a three-part structure: theoretical background, practical background, and applications](three-part-structure-qt-workforce-competences.md) — related
 - [The article argues a master's-level industry-focused quantum curriculum is more economical than hiring PhDs to resolve the quantum talent shortage](masters-level-quantum-curriculum-addresses-talent-shortage.md) — related
 - [No existing quantum educational resources clearly rely on programmed instructions](no-quantum-resources-use-pi.md) — related
+- [Quantum industry representatives widely report talent scarcity as a major workforce development challenge](qt-industry-talent-scarcity.md) — related
+- [Program organisers intend QT master's graduates predominantly for industry careers: 82.3% of indicated career outcomes refer to industry versus 17.6% to academic paths](qt-masters-career-outcomes-industry-82-percent.md) — related
+- [An increasing trend toward industry internships in QT master's programs: none offered industry internships before 2019, while greater than 50% of newly launched programs did so as of 2020](qt-masters-industry-internship-trend.md) — related
+- [Quantum companies are shifting from requiring PhD-level expertise toward hiring masters-level and engineering staff with QT awareness](qt-phd-to-masters-shift.md) — related

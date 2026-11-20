@@ -73,3 +73,4 @@ Post-program interviews; most mentees (N=9) "were sure that they would like to a
 - [Seven of ten mentees rated project self-efficacy 8-10 by interview six, and mentees reported further self-efficacy improvements by interview nine](remote-reu-self-efficacy-ratings.md) — related
 - [Remote REU mentees reported the experience was highly beneficial and the remote format did not open a gap between their objectives and outcomes](remote-reu-mentees-reported-highly-beneficial-outcomes.md) — related
 - [Outcomes of remote REU programs were reported as not far from the generally accepted benefits of in-person undergraduate research experiences](remote-reu-outcomes-comparable-to-in-person.md) — a broader claim this one bears on
+- [REU attendees report exposure to academia beyond their home institution as a benefit, including demystifying graduate school](reu-exposure-to-academia-demystifying.md) — related

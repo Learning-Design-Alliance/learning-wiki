@@ -47,3 +47,4 @@ Two-sided Pearson correlational analysis of demographic variables in the 45-stud
 ## Related Claims
 - [Escape room-based teaching produces significant knowledge gain (Cohen's d = 1.29) among undergraduate medical students on a pre-post assessment](escape-room-knowledge-gain-medical.md) — related
 - [Higher pre-test scores were associated with lower knowledge gain from pre-test to post-test after an escape room, in one single-group pre-post study](escape-room-lower-prior-knowledge-greater-gain.md) — related
+- [Prior escape room research lacks robust effectiveness evidence, with very few controlled or pre-post designs](escape-room-evidence-gap-few-controlled-studies.md) — related

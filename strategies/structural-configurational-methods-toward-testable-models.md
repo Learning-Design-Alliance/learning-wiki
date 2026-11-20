@@ -47,6 +47,7 @@ The article recommends that CSCL researchers employ social, temporal, and spatia
 - [Future SNA e-learning studies should include a quantitative approach exploiting the statistical power of SNA to explain complex systems](sna-elearning-future-quantitative-approach.md)
 - [Design XRCL applications by building on fundamental CSCL pedagogy research, viewed through the lens of TICOL](design-xrcl-building-on-cscl-pedagogy.md)
 - [Multimedia-based tutoring strategies exploiting spatial and temporal relationships](multimedia-tutoring-strategies-spatial-temporal.md)
+- [Use configuration-model ensembles to statistically contextualize whole-network SNA metrics](configuration-model-ensemble-sna-baseline.md)
 
 ## Examples
 -

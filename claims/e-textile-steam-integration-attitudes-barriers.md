@@ -73,3 +73,4 @@ Same attitude questionnaire (N = 36). Participants showed low reform skepticism 
 - [Waste-material instructional resources enabled teachers to teach weaving lessons they had previously omitted for lack of skills and materials](waste-resources-enable-previously-omitted-weaving-lessons.md) — related
 - [Faculty overwhelmingly value active learning but report structural barriers to implementing it.](active-learning-valued-but-barriers-exist.md) — related
 - [Teachers exposed to a professional development workshop overwhelmingly supported early teaching of Einsteinian physics (94%), with most (88%) requesting extra training](pdw-teachers-support-with-training-need.md) — related
+- [In-service teachers implementing STEAM face challenges including lack of planning time, inadequate school structure, and difficulty assessing STEAM achievements](shernoff-2017-steam-teacher-challenges.md) — related

@@ -50,3 +50,4 @@ Authors' retrospective interpretation of their single case study. Recruitment us
 - [Teachers' participation and leadership in the professional community increased over time, shown in email volume, thread origination, and agenda setting](teacher-participation-leadership-increased.md) — related
 - [In the 6-week field study, participants created five rapid communities generating 286 threads and averaging 2.4 hours of use per member, with engagement concentrated in the Creative Problem solving community (44% of discussion).](field-study-five-communities-uneven-engagement.md) — related
 - [In the controlled experiment, PeerCollab participants produced far more peer interaction (92 threads) than control participants, of whom only 2 reported posting a forum comment.](peercollab-92-threads-vs-2-control-posters.md) — related
+- [Few PICUP Slack users are active across multiple channels](picup-slack-few-cross-channel-users.md) — related

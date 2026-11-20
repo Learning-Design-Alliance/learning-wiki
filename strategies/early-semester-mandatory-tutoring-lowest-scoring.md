@@ -50,6 +50,7 @@ The strategy is to administer a short prerequisite-skills survey on the first da
 
 - [Mastery Based Progression](mastery-based-progression.md)
 - [Give feedback against final-standard learning outcomes from day one, supported by a workshop to interpret early failing grades](day-one-final-standard-feedback.md)
+- [Administer concept tests at the beginning of the semester to identify students weak in mathematics and provide early intervention](concept-test-early-intervention-ipls.md)
 
 ## Examples
 -

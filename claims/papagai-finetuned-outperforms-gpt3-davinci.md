@@ -86,3 +86,4 @@ Few-shot condition of the same comparison: the article reports that three exampl
 - [Fine-tuned ELECTRA classifies Gibbs cycle phases in reflective sentences, with top-3 predictions reaching up to 98% F1](papagai-electra-gibbs-cycle-top3-f1-098.md) — possibly the same claim (merge candidate)
 - [Adaptation through prompt injection avoids fine-tuning, so the system works with any OpenAI-compatible LLM and its logic is transparent to educators](prompt-engineering-adaptation-transparency-tradeoff.md) — related
 - [Fine-tuned RoBERTa detects sentence-level emotions in reflective essays with a micro F1 of 0.70](papagai-roberta-emotion-detection-f1-070.md) — related
+- [Prompt customization introduces at least three types of prompting bias: majority label, recency, and common token bias](prompting-bias-three-types.md) — related

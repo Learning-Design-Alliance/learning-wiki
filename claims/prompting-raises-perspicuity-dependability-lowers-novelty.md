@@ -75,3 +75,4 @@ UEQ hedonic dimensions in the same experiment. The article reports Novelty "decl
 - [Users rated the pediatric endocrinology e-learning tool positively across all six UEQ categories, with attractiveness and stimulation highest and dependability lowest](ueq-positive-evaluation-pediatric-elearning.md) — related
 - [The simulation model demonstrated high usability across all six UEQ domains, with attractiveness rated highest and excellent internal consistency (Cronbach's alpha = 0.91)](sbml-probing-simulator-ueq-usability.md) — related
 - [User Experience Questionnaire evaluations did not differ significantly between the EyelearnMR and control groups](no-ueq-difference-between-arms.md) — related
+- [Students rated the predefined prompt tool significantly more positive than the ad-hoc prompt tool in five of six UEQ user experience categories](students-prefer-predefined-prompt-tool-ux.md) — related

@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 83 claims (59 for, 21 mixed, 3 against) · 47 studies (27 causal, 8 review, 6 quant-synthesis, 3 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 11 of 47 report an effect size · 82 claims rest on one study
+> **Evidence** · 86 claims (62 for, 21 mixed, 3 against) · 49 studies (29 causal, 8 review, 6 quant-synthesis, 3 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 12 of 49 report an effect size · 85 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -107,6 +107,9 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [Students using the gamified interactive multimedia module report significantly higher satisfaction than those using the PowerPoint show module](../claims/im-module-higher-satisfaction.md) [+W] — attached 2026-11-09 from Lee Li-Ang et al. (2018), which proposed "Gamified interactive multimedia (IM) module for emergent ORL-HNS mobile e-learning".
 - [Internal medicine residents identified the leaderboard as the single most important motivator of participation in a gamified knowledge competition.](../claims/leaderboard-top-motivator-residents-kaizen-im.md) [+M] — attached 2026-11-10 from Nevin Christa R et al. (2014), which proposed "Kaizen-Internal Medicine: gamified web-based medical knowledge competition software"; tests this page's relationship.
 - [Residents answered a gamified medical knowledge competition heavily outside scheduled hours, with 28.8% of questions completed on weekends and 53.1% between 17:00 and 08:00.](../claims/kaizen-im-off-hours-engagement.md) [+M] — attached 2026-11-10 from Nevin Christa R et al. (2014), which proposed "Kaizen-Internal Medicine: gamified web-based medical knowledge competition software".
+- [Average user engagement time in a learning app rose by around 68% from leaderboard off to leaderboard on in a one-group pre-post study of 10 students with no comparison group](../claims/leaderboard-increased-engagement-time-upsc-pre.md) [+W] — attached 2026-11-20 from Venkata Sai Bhargav Bathini et al. (2024), which proposed "UPSC Pre app with integrated real-time leaderboard achievement system"; tests this page's relationship.
+- [Students learning software modeling through an educational escape room outperform students taught by traditional lecture in knowledge acquisition (ANCOVA-adjusted post-test, r = 0.25)](../claims/escape-room-outperforms-lecture-software-modeling.md) [+M] — attached 2026-11-20 from Aldo Gordillo et al. (2024), which proposed "Virtual educational escape room for teaching UML software modeling via the Escapp platform".
+- [Software engineering students hold overwhelmingly positive perceptions of the educational escape room and prefer it over traditional lectures](../claims/positive-student-perceptions-escape-room.md) [+M] — attached 2026-11-20 from Aldo Gordillo et al. (2024), which proposed "Virtual educational escape room for teaching UML software modeling via the Escapp platform".
 
 ## Examples
 

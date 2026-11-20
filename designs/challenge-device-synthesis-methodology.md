@@ -47,4 +47,4 @@ CDS is a pedagogical methodology for developing critical views on the social imp
 -
 
 ## Key Sources
-- Bilkis, M., Moya Kohler, J., Vilariño, F. (2024). Challenge-Device-Synthesis: A Multi-Disciplinary Approach for the Development of Social Innovation Competences for Students of Artificial Intelligence.
+- Bilkis, M., Moya Kohler, J., Vilariño, F. (2024). Challenge-Device-Synthesis: A Multi-Disciplinary Approach for the Development of Social Innovation Competences for Students of Artificial Intelligence. [doi:10.21125/edulearn.2024.1501](https://doi.org/10.21125/edulearn.2024.1501)

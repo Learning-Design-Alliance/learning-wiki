@@ -49,3 +49,4 @@ Discussion-section contrast of the two groups' T1-to-T2 results: "statistically 
 - [Full-immersion EMI students show no statistically significant gains in any measured language domain over one year, despite descriptive improvement trends](full-immersion-emi-no-significant-gains.md) — a narrower finding that bears on this claim
 - [Listening comprehension does not improve after one year of EMI in either group, with slightly lower scores at post-test](emi-listening-no-improvement.md) — a narrower finding that bears on this claim
 - [The authors interpret that adult linguistic gains through EMI require some focus on form and language guidance, making ICLHE more effective than content-only EMI](focus-on-form-needed-adult-emi-gains.md) — related
+- [Despite an English-medium design, most group-work conversations in the immersive flipped course took place in Japanese](immersive-flipped-l2-use-challenge.md) — related

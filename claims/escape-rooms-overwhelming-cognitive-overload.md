@@ -49,3 +49,5 @@ Focus group interview and video data from the Round 1 pilot (n = 34) showed the 
 - [Medical students found curriculum-aligned digital escape rooms exciting, engaging, and motivating in a pilot implementation](escape-rooms-exciting-medical-students.md) — reports the opposite
 - [Pilot students were unaware of the scoring system and hint point-deductions, and requested transparent scoring and immediate feedback](escape-room-scoring-opacity-frustration.md) — related
 - [In gamers' interview reports, sustained gaming engagement appeared closely related to controlling an optimal level of challenge: games too hard were often abandoned and games too easy lost their interest](optimal-challenge-sustains-gaming-engagement.md) — a broader claim this one bears on
+- [Prior escape room research lacks robust effectiveness evidence, with very few controlled or pre-post designs](escape-room-evidence-gap-few-controlled-studies.md) — related
+- [About half of teams (89 of 185) completed the escape room within the time limit, with a mean completion time of 93.4 minutes, and the last puzzle was the hardest](escape-room-team-performance-completion.md) — related

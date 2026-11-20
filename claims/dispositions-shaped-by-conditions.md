@@ -78,3 +78,4 @@ Qualitative finding from the dispositions analysis: dispositions "should not be 
 - [Learner behaviour is self-organised and emergent, so learning paths are nonlinear and individual](self-organisation-emergent-clinical-learning.md) — related
 - [Effective online teaching requires viewing learners as active, capable, and independent individuals rather than passive recipients](independent-learners-online-teaching-perspective.md) — related
 - [Evaluating professionalism by behaviour alone risks the fundamental attribution error, because most observed behaviour is shaped by the situation](behaviour-only-evaluation-attribution-error.md) — a narrower finding that bears on this claim
+- [Empathy is co-constructed through communication, a reciprocal dynamic the individual-faculty model does not capture](empathy-co-constructed-dynamic.md) — related

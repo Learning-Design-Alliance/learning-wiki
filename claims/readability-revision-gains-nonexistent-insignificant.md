@@ -58,3 +58,4 @@ The review reports, citing Duffy and Kabance (1982) among others, that a readabl
 - [Film narration type (expository vs. personalized-dramatic) and listenability level effects on factual learning compared across fifth and eighth grade](film-narration-type-listenability-grade-levels.md) — related
 - [The Dale-Chall and Flesch readability formulas appear most efficient at discriminating less from more readable materials](dale-chall-flesch-most-efficient-formulas.md) — related
 - [LA-driven GenAI feedback was significantly more readable than tutor feedback in an online statistics course](genai-feedback-more-readable-than-tutor.md) — related
+- [LLM-generated leveled texts skew more complex than the intended Lexile level regardless of model or prompting approach](generated-texts-skew-more-complex-than-intended.md) — related

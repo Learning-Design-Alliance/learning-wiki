@@ -74,3 +74,4 @@ Descriptive contrast between the two most common duration types in Table 3 (60 m
 - [An interactive forum organized in six 120-minute sessions produced a median pre-post overall score difference of 13% (P<0.001) among medical students](interactive-forum-score-improvement.md) — related
 - [The e-learning module took longer to complete than the video, but paramedics judged its duration more adequate](elearning-longer-completion-adequate-duration.md) — related
 - [Simulated consultation duration did not differ across time-points in one group with no comparison group](competency-gain-not-due-to-longer-consultations.md) — related
+- [Participant attrition between workshop sessions remained a persistent challenge across both workshop iterations](rai-workshop-attrition-challenge.md) — related

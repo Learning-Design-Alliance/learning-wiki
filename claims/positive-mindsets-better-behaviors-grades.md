@@ -64,3 +64,5 @@ The review reports, citing Farrington et al. (2012), a consistent correlational 
 - [Within-student differences in noncognitive factors are associated with differences in course grades across the same student's classes](within-student-noncognitive-factors-relate-to-grades.md) — a narrower finding that bears on this claim
 - [Specific observable mindset-signaling behaviors have been identified that convey peers' implicit beliefs about ability](mindset-signaling-behaviors-identified.md) — related
 - [Participant-level factors affecting MOOC completion include learners' motivation and engagement, background knowledge and skills, and time-management skills](mooc-participant-level-effectiveness-factors.md) — related
+- [Postsurvey growth-mindset beliefs are only weakly correlated with final course grades (ρ = 0.2)](mindset-beliefs-weakly-correlated-final-grades-astronomy.md) — reports the opposite
+- [Nuanced mindset questions about classroom behaviors, interpretations, and self-assessment show significantly lower growth-mindset alignment than standard mindset belief statements](stated-beliefs-diverge-from-mindset-behaviors.md) — related

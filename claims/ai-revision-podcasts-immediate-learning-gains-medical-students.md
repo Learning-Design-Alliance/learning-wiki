@@ -55,3 +55,4 @@ Paired within-participant t-tests among linked completers (Centre 1 n = 154, Cen
 - [Students show large immediate pre-to-post knowledge gains within a single LLM-supported learning session](large-immediate-gains-llm-supported-session.md) — related
 - [Students improved significantly from pre- to post-test in both topics, with a medium effect in experimental design and a small effect in graphing](pre-post-gains-inquiry-competencies.md) — related
 - [Experimental-group quiz scores rose significantly from before to after each PA-PBL session](pa-pbl-quiz-gains-pre-post.md) — related
+- [AI-generated podcasts, both personalized and generalized, received significantly higher Attractiveness ratings than textbook reading](ai-podcasts-more-attractive-than-textbook.md) — related

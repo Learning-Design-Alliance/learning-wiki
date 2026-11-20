@@ -52,3 +52,4 @@ Authors' interpretation of statement-level CLASS data (Table III): 80% of LS stu
 - [Performance-oriented lab groups heavily use the Recursive Plug and Chug and Mapping Math to Meaning epistemic games, typifying a novice-like problem-solving approach](performance-groups-recursive-plug-and-chug-games.md) — related
 - [Treatment-group CLASS item responses shifted between pre-test and post-test, with some items moving toward novice-like response classifications](class-item-shifts-toward-novice-views.md) — related
 - [Very few advanced students reason conceptually about expectation values, and many prefer plug-and-chug methods over conceptual approaches](few-students-reason-conceptually-expectation-value.md) — related
+- [A higher percentage of life-sciences than physical-sciences first-year students adopt novice-type problem-solving behaviour such as plug-and-chug on the CLASS test](class-life-sciences-novice-problem-solving.md) — a broader claim this one bears on

@@ -55,3 +55,4 @@ Survey of the same 30 gamer-group students; the statements compared the game for
 - [First-year medical students largely perceived gamified TurningPoint ARS games as engaging and as an effective learning tool in medical microbiology lectures.](gamified-ars-games-engaging-learning-medical-students.md) — related
 - [A majority of students reported better learning, a better learning climate, and preferred PBL 2.0 over the old format](pbl2-0-majority-preferred-new-format.md) — related
 - [Typical engineering assessment practices reward regurgitation and speed and designate conceptual reasoning as peripheral \"extra credit,\" in Michael's experience](engineering-assessment-rewards-regurgitation.md) — related
+- [Students perceive some aspects of game-based learning (overall opinion, learning effectiveness, fun, future use, preference) more favorably in face-to-face than online format](face-to-face-more-favorable-perceptions-gbl.md) — related

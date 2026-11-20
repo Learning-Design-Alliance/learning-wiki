@@ -66,6 +66,7 @@ Relevance connections work best when they are made by learners themselves or tie
 - [Emphasizing clinical relevance during theoretical teaching to support motivation and perceived value of lecture attendance](clinical-relevance-emphasis-lecture-motivation.md)
 - [Have students write a complete scientific paper (Introduction, Method, Results, Conclusion)](write-full-scientific-paper-student-project.md)
 - [Invite a domain expert and use real-life context to trigger and maintain situational interest](expert-presentation-real-life-situational-interest.md)
+- [Select case studies aligned with practitioners' daily activities, rich in complexity and stakeholder diversity](case-study-selection-for-practitioners-strategy.md)
 
 ## Examples
 - A science instructor invites a working researcher to walk through a published paper and a rejected draft, showing how revision and clarity affect publication outcomes.

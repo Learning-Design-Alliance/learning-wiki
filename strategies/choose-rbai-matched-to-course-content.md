@@ -44,6 +44,7 @@ The resource letter closes each topic section with concrete recommendations for 
 - [When selecting mathematics assessments, choose one of the overlapping tests matched to your population and never mix tests across pre- and post-testing](choose-one-math-assessment-no-mix-and-match.md)
 - [Match beliefs and self-efficacy survey choice to purpose: CLASS for quick broad measurement, SOSEC-P for detailed self-efficacy, PSEQ for short combined use](match-beliefs-self-efficacy-survey-to-purpose.md)
 - [Mix and match assessment activities and forms for better coverage of students' understanding of computation](multiple-assessment-methods-computation.md)
+- [Cross-match course goals with student activities and graded items to assess goal-activity alignment](goal-activity-grading-alignment-matching.md)
 
 ## Examples
 -

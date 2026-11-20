@@ -54,6 +54,7 @@ The article recommends tailoring AI-integration support to the four latent learn
 - [Tailor professional development to demographic subgroups of teachers (gender, education level, school level)](demographic-tailored-pd-programs.md)
 - [Tailor university ChatGPT adoption policies to local context, including student age and academic performance](tailor-chatgpt-policies-age-gpa-context.md)
 - [Design differentiated professional development resources targeting prioritized personas rather than one-size-fits-all materials](persona-targeted-pd-design-strategy.md)
+- [Differentiate AI integration guidance by educational level (primary, secondary, undergraduate, graduate)](caiaf-educational-level-differentiation.md)
 
 ## Examples
 -

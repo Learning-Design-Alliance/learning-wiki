@@ -73,3 +73,4 @@ Hierarchical linear regression of step duration in Unit 10. Students previously 
 - [Simpler knowledge components are executed faster: correct application times rise from about 3-6 seconds for constant-constant KCs to 10-14 seconds for variable-variable KCs](kc-complexity-predicts-application-time.md) — related
 - [Students are significantly worse at translating two-step algebra story problems than matched one-step problems, implicating a hidden integrative knowledge component](integrative-kc-two-step-algebra-translation.md) — related
 - [Prior research found context personalization to student interests associated with improved engagement, performance, and learning outcomes in algebra](walkington-interest-contextualization-engagement-performance.md) — a broader claim this one bears on
+- [Participants with theoretical knowledge outperformed on knowledge questions but lagged on advanced game levels](gamedevdojo-theoretical-vs-advanced-levels.md) — related

@@ -57,3 +57,4 @@ Theoretical argument in a conceptual paper: the author analyzes how agentic syst
 - [No existing AI literacy framework explicitly names prompt construction as a competency](prompt-literacy-left-unnamed.md) — related
 - [Many agentic multi-agent implementations remain at prototype or conceptual stage with limited large-scale deployment and empirical validation](agentic-multi-agent-systems-lack-empirical-validation.md) — related
 - [Existing AI literacy assessment instruments poorly cover Stages 0–1 and Stage 4 of the continuum](assessment-instruments-gap-stages-0-1-4.md) — related
+- [Existing AI literacy frameworks predate public Gen-AI tools, leaving a gap the socio-technical curriculum addresses](ai-literacy-frameworks-predate-genai-gap.md) — related

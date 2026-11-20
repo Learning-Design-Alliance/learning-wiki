@@ -50,6 +50,7 @@ The article recommends that education systems move beyond single-issue spotlight
 - [Design AI-powered support for international students that integrates with university systems and helps sustain community for long-term use](long-term-ai-support-integrated-university-systems.md)
 - [Bridge the AI intention-practice gap through digital infrastructure, professional development, and supportive institutional policies](infrastructure-pd-policy-bridge-ai-intention-practice-gap.md)
 - [Implement AI-supported STEM instruction through sustained, system-level integration of one to two months or more rather than isolated short interventions](sustained-system-level-ai-integration-stem.md)
+- [Future directions for equitable AI-driven education: privacy, digital divide, and adoption through training and support](equitable-aied-future-directions-strategy.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Observational comparison of upper-division GPA (intro-physics grades removed) fo
 - [CLASP students' expert-like epistemologies (MPEX-II) were statistically unchanged over the quarter, unlike the declines reported for most standard and many reformed physics classes](clasp-mpex-epistemologies-unchanged.md) — related
 - [Tutorial-cohort students earn marginally but not significantly higher upper-division course grades than non-Tutorial peers](tutorial-cohort-upper-division-grades.md) — related
 - [Grades in the calculus-based physics course correlate 0.75 with upper-division Physics GPA, with slightly higher grades in 25X](phys-25x-upper-division-correlation-075.md) — related
+- [CLASP students perform as well as NonCLASP students in the subsequent unreformed physics course and in upper-division coursework, despite CLASP sending more historically marginalized students onward.](clasp-students-as-prepared-for-later-coursework.md) — related

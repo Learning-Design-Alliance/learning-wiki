@@ -70,3 +70,4 @@ Same case study's engagement outcome: "Engagement metrics, including task comple
 - [Over eight weeks, university learners receiving reinforcement learning-optimized oral practice sequencing attained normalized learning gains approximately 2.2 times higher than learners following fixed curricula](rl-sequencing-beats-fixed-oral-curriculum.md) — related
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — a broader claim this one bears on
 - [EEG-driven adaptive video review sequences improve recall and learning gains](eeg-adaptive-video-review-improves-recall.md) — a narrower finding that bears on this claim
+- [Learning-style-based homogeneous grouping with tailored content raises academic success in an e-learning course (17.65 vs 12.60 out of 20)](learning-style-grouping-raises-academic-success.md) — related

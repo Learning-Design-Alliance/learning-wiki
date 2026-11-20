@@ -44,6 +44,7 @@ The authors recommend several concrete next steps for educational LLM benchmarki
 - [Establish standardized misconception benchmarks using isomorphic items, paraphrases, and multi-turn curricula](standardized-misconception-benchmarks-ess.md)
 - [Improve LLM grading alignment through LLM-optimized guidelines, calibration examples, and median-of-parallels grading](llm-grading-alignment-optimization-strategies.md)
 - [Add human-in-the-loop capabilities so practitioners can edit or choose among LLM-generated tutoring script components](human-in-the-loop-cts-authoring-strategy.md)
+- [Three future research directions: education-focused benchmarks, a taxonomy of educational LLM harms, and multi-turn human feedback](three-recommendations-llm-education-research.md)
 
 ## Examples
 -

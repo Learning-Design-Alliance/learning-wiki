@@ -250,6 +250,7 @@ The article's central design recommendation is that practice should be built int
 ## Examples
 
 - [Reduce discrete learning objectives and replace multiple-choice tests with rubric-based assessments in introductory computer courses](../strategies/reduce-objectives-rubric-assessment-strategy.md)
+- [Cross-match course goals with student activities and graded items to assess goal-activity alignment](../strategies/goal-activity-grading-alignment-matching.md)
 
 ## Key Sources
 - Martin, F., Klein, J., & Sullivan, H. (2003). Effects of Instructional Events in Computer-Based Instruction. https://eric.ed.gov/?id=ED484984

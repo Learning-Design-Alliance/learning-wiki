@@ -81,3 +81,4 @@ The review reports the single included disability study found significantly lowe
 - [UK overseas graduates were more likely than other graduate groups to receive a less satisfactory ARCP outcome in postgraduate training](uk-og-less-satisfactory-arcp-outcomes.md) — related
 - [Non-professional socioeconomic background is a strong independent predictor of declaring depression during undergraduate medical education](non-professional-background-independent-predictor-depression.md) — related
 - [The PA–academic performance relationship varied by school socioeconomic decile: moderate and significant for low-decile schools in Model 1, non-significant for mid-decile schools](pa-academic-relationship-ses-decile-subgroup.md) — related
+- [Univariate analysis shows significant first-class degree gaps by ethnicity, gender, disability, SES, parental education, school type and duration](univariate-awarding-gaps-first-class.md) — related

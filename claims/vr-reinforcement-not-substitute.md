@@ -107,3 +107,4 @@ Discussion-level interpretation (attributed by the review to Hamilton et al., 20
 - [Simulations can supplement experiential learning where hands-on activities are absent](simulations-supplement-hands-on-physics.md) — related
 - [Virtual reality and 3D environments have first-class educational applications for teaching history, but the author does not believe they outperform current widely used technology for initiating the notion of historical time](vr-applications-limited-for-historical-time-initiation.md) — related
 - [The authors hypothesize, without reported evidence, that VR techniques significantly increase students' level of understanding of mathematics](vr-hypothesis-increases-math-understanding.md) — related
+- [Immersive VR assembly training produced significantly higher delayed post-test scores than desktop virtual and physical assembly training among novices](vr-assembly-training-higher-posttest.md) — related

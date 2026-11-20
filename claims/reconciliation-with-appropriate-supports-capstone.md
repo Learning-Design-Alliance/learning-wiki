@@ -55,3 +55,4 @@ Briefly reported finding from a capstone essay question on an exam, whose full a
 - [In the first year of the course, around half of the analyzed students met or exceeded expectations on the ATP reconciliation essay question.](half-students-met-expectations-atp-essay-rubric.md) — a narrower finding that bears on this claim
 - [Interviewed students spontaneously sought interdisciplinary coherence beyond course prompts, using physics to reconcile contradictions between chemistry and biology.](interview-students-spontaneous-interdisciplinary-coherence.md) — related
 - [Four perceived differences between physics and biology (systems, system behavior, measurements, role of mathematics) are reconcilable through modeling](perceived-disciplinary-differences-modeling.md) — related
+- [Disciplinary egocentrism hinders student-centric approaches in undergraduate education](disciplinary-egocentrism-undergraduate-barrier.md) — related

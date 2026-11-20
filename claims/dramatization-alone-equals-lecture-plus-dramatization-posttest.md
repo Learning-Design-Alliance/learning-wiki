@@ -48,3 +48,4 @@ Controlled crossover study of 42 first-year medical students randomly divided in
 - [Both groups retained cardiac cycle knowledge equally well at the six-month follow-up assessment](dramatization-six-month-retention-equal-groups.md) — related
 - [Self-reported confidence in knowledge increased in both groups after dramatization](dramatization-increases-student-confidence.md) — related
 - [Pretest scores did not differ significantly between the dramatization-first and lecture-first groups](dramatization-pretest-no-group-difference.md) — related
+- [Lectures followed by direct activities worked well, enabling students to try skills immediately after the lecture](lectures-followed-by-activities-worked.md) — related

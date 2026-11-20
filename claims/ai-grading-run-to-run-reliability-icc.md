@@ -83,3 +83,4 @@ Same five-run reliability analysis computed at the rubric-cell (item×student) l
 - [CAR 1.0 achieved good to excellent inter-rater reliability across all five key components (α = 0.836 to 0.973)](car-1-0-cronbach-alpha-reliability.md) — related
 - [Inter-run reliability of LLM performance on the EBHS examination was consistently high, with an overall mean Cohen's κ of 0.821 and no model falling below moderate agreement.](llm-ebhs-inter-run-reliability-high-kappa-0821.md) — related
 - [Assessment scoring standards remained stable across the four-year study period, with no significant inter-year score differences in either group](inter-year-score-stability-ebers-ish-assessment.md) — related
+- [AI-assisted grading achieves high precision for identifying passing exams but low recall, meaning failing grades still require human grading](high-precision-low-recall-ai-pass-fail.md) — related

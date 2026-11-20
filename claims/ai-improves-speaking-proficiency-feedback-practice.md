@@ -55,3 +55,4 @@ Thematic synthesis of the communicative capacity pathway codes 28 studies to spe
 - [Immediate task repetition benefits oral performance, including fluency, self-correction and reduced anxiety](immediate-repetition-benefits-oral-performance.md) — related
 - [Automatization of L2 skills requires extensive practice in a consistent environment, not repetition of grammar rules as in traditional exercises](automatization-requires-practice-consistent-environment.md) — a broader claim this one bears on
 - [Virtual simulation teaching enhances learning outcomes and deepens professional cognition through repeated practice, trial-and-error, and error-correction feedback](vs-advantages-learning-outcomes.md) — related
+- [A review of 220 articles on personalized language learning identifies seven AI-supported benefits, including multimodal feedback, chatbot speaking practice, and real-time personalized feedback](seven-ai-benefits-personalized-language-learning.md) — related

@@ -47,3 +47,4 @@ Exploratory semistructured interview study of five physics majors conducted 2-3 
 ## Related Claims
 - [Students in computationally integrated physics courses struggle with confidence regarding computation](students-struggle-computation-confidence.md) — related
 - [Instructors grounded computational integration in professional authenticity, career readiness, and their own research practices](instructors-ground-computation-in-authenticity.md) — related
+- [The author reports that more experienced students tutor others in the Scientific Computing with Python course, building confidence among less computationally-prepared students](peer-tutoring-mixed-computational-preparation.md) — related

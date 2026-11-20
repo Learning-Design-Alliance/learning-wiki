@@ -56,3 +56,4 @@ The appendix page states the brief's two research questions verbatim: comparing 
 - [Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math](fall-2021-achievement-lagged-pre-pandemic-norms-especially-math.md) — related
 - [Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms](pandemic-gains-fall-2019-fall-2021-below-norms.md) — related
 - [The brief investigated the degree to which students' reading and math test scores became more variable as a result of the COVID-19 pandemic](covid-score-variability-research-question.md) — related
+- [Odds of a first-class STEM degree rose from 2015/16 and peaked in 2020/21 during COVID-19, while mean Tariff scores declined, suggesting possible grade inflation](first-class-odds-rose-peak-2020-21-grade-inflation.md) — related

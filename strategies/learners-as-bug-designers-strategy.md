@@ -54,4 +54,4 @@ The article's DbD approach positions learners as creators of intentional bugs fo
 -
 
 ## Key Sources
-- Morales-Navarro, L., Fields, D. A., & Kafai, Y. B. (2024). Understanding Growth Mindset Practices in an Introductory Physical Computing Classroom: High School Students' Engagement with Debugging by Design Activities. Computer Science Education. https://arxiv.org/abs/2402.01885
+- Morales-Navarro, L., Fields, D. A., & Kafai, Y. B. (2024). Understanding Growth Mindset Practices in an Introductory Physical Computing Classroom: High School Students' Engagement with Debugging by Design Activities. Computer Science Education. https://arxiv.org/abs/2402.01885. [doi:10.1080/08993408.2024.2317080](https://doi.org/10.1080/08993408.2024.2317080)

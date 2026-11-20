@@ -64,3 +64,4 @@ Bootstrapping analysis submitting each exam to GPT-4 50 times (API 'n' parameter
 - [ChatGPT scored 47% on the first-semester final exam, with a realistic hand-graded score between 46% and 50%](chatgpt-exam-47-percent-no-dialogue.md) — related
 - [Excluding zero-scoring answers, AI averages rise to 65.6% (GPT-4) and 56.7% (GPT-3.5), suggesting a use case for AI-provided hints](ai-hint-use-case-excluding-zero-scores.md) — related
 - [ChatGPT based on GPT-4 solves the FCI accurately, scoring on average 83% correct](chatgpt-gpt4-solves-fci-accurately.md) — related
+- [GPT-4 answers 65.8% of university assessment questions correctly by majority vote and can produce correct answers for 85.1% of questions with at least one prompting strategy](gpt4-answers-65-8-percent-majority-vote.md) — related

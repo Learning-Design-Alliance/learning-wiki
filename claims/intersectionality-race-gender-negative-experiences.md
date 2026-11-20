@@ -51,3 +51,4 @@ In the findings on negative interactions with college peers, the authors single 
 - [Women of color are the least likely, and white men the most likely, to report a sense of belonging in STEM majors](intersectional-belonging-women-of-color-lowest-white-men-highest.md) — related
 - [Racially marginalized students are less likely to report a sense of belonging in STEM education](marginalized-students-lower-stem-belonging.md) — related
 - [Eight of nine participants with underrepresented identities reported challenges specifically tied to one or more of their URIs](uri-specific-challenges-physics-majors.md) — a broader claim this one bears on
+- [In the medium-sized department (Study 3), a woman of color reported feeling judged as not up to par by both male and female White peers due to her racial background, leading to isolation](study3-woman-of-color-intersectional-isolation.md) — possibly the same claim (merge candidate)

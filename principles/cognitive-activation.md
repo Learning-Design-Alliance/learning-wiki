@@ -194,6 +194,7 @@ Immediate understanding, near transfer, delayed retention and use in the setting
 - [Shard elevator acceleration task](../designs/shard-elevator-acceleration-ai-task.md) — physics students predict before handing integration to AI, then interpret the result
 - [Use didactic challenge questions that demand explanation rather than regurgitation of theory or equations](../strategies/didactic-challenge-explanation-questions.md)
 - [Use AI tutor prompts that push students to generate their own answers rather than receive solutions](../strategies/ai-tutor-generate-answers-strategy.md)
+- [Use students' comparison of explanations from different AI models as an activity to build critical evaluation of AI-generated content](../strategies/compare-llm-explanations-critical-thinking.md)
 
 ### Illustrative
 

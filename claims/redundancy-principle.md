@@ -177,3 +177,4 @@ The page records one review (Trypke et al. 2023); the classic primary experiment
 - [Adding redundant onscreen text shifts visual attention from animation to text, and higher-germane-load students dwell longer on the animation](dwell-time-on-animation-sensitive-to-ecl-and-gcl.md) — related
 - [Cognitive Load Theory effects constrain the design of multiple external representations in QIST teaching](clt-effects-constrain-mer-design-qist.md) — related
 - [Focus group participants identified attention switches and cognitive overload from caption designs as key disruptions, with needs depending on situation and learner](focus-group-caption-disruption-requirements.md) — related
+- [Adherence to the Redundancy and Spatial Contiguity principles shows small negative effects on quiz performance in this physics seminar context](redundancy-spatial-contiguity-negative-effects.md) — related

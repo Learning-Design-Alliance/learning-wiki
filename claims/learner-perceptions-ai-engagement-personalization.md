@@ -57,3 +57,4 @@ Qualitative thematic analysis of semi-structured interviews with 14 purposively 
 - [Qualitative findings indicate SVVR immersion enhanced engagement, concentration, perceived realism, patient assessment, clinical decision-making, and interdisciplinary collaboration](qualitative-immersion-enhanced-engagement-realism.md) — related
 - [Qualitative analysis identifies realism, usability, technical performance, social presence, and engagement as key experience themes with the VP system](qualitative-vp-experience-themes.md) — related
 - [Students linked the group simulation assessment to self-awareness, personal accountability and lifelong learning](autonomous-learning-self-awareness-lifelong-growth.md) — related
+- [Students perceived improvements in academic reading, writing, presentation, collaboration, and digital literacy skills after the immersive flipped course](immersive-flipped-perceived-learning-outcomes.md) — related

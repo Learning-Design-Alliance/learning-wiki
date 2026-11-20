@@ -48,3 +48,4 @@ Secondary analysis of responses reported in Table 1 of Rimoldini and Singh's tes
 - [Honor-class students averaged 71 percent correct on rotational-inertia questions versus 56 percent for the non-honor class](honor-71-percent-versus-non-honor-56-percent-rotational-inertia.md) — related
 - [Honor-class students answered fewer rotational-inertia questions correctly than expected despite the computations being fairly easy](honor-class-underperform-rotational-inertia-questions.md) — related
 - [Students often fail to use the concept of rotational inertia correctly, which the article attributes to limited exposure to computing moments of inertia](limited-rotational-inertia-computation-hurts-reasoning.md) — related
+- [Only about a third of first-year engineering students correctly compute moment of inertia in a two-ball system, and around a quarter give reductionist single-variable explanations](moment-of-inertia-first-year-categories.md) — related

@@ -50,3 +50,4 @@ Cross-sectional pre/post analysis of EMCS post-test response distributions in a 
 - [Q22, on ranking projectile speeds, is the most difficult EMCS question, answered correctly by only 29% of upper-level students, identical to the introductory percentage](emcs-q22-most-difficult-29-percent-both-levels.md) — related
 - [Q3 is the only EMCS question with a large pre-to-post decrease for upper-level students (65% to 48%), and the only question on which upper-level students scored lower than introductory students](emcs-q3-only-significant-decrease-upper-below-intro.md) — related
 - [Upper-level students' overall normalized gain on the EMCS after a traditional classical mechanics course was 14%, rising from 63% to 68%](emcs-upper-level-overall-gain-14-percent.md) — related
+- [On all CSEM questions where introductory students score below 50% after instruction, upper-level students score below two-thirds after instruction](intro-below-50-upper-below-two-thirds.md) — related

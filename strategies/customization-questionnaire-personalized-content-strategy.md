@@ -45,6 +45,7 @@ The article's implementation strategy is to ask learners, at entry to the applic
 ## Related Strategies
 
 - [Make dementia education relevant to participants' role and experience and involve active face-to-face participation](role-relevant-active-face-to-face-dementia-education.md)
+- [Customize the timescale course along audience level, hours, and historical content](timescale-course-customization-strategy.md)
 
 ## Examples
 -

@@ -57,3 +57,5 @@ MANCOVA in the same randomized experiment (N = 91) using five enjoyment items fr
 - [In a randomized controlled trial, dental hygiene students using the 3D object-based VR tool (3DOVR-DR) rated overall user experience significantly higher than students using a 360° VR video](3dovr-dr-higher-user-experience-than-360-video-rct.md) — a narrower finding that bears on this claim
 - [Viewing 360° scenarios through a head-mounted display generated high presence that elicited emotional awareness and engagement perceived as supporting learning](vr-hmd-presence-elicits-emotional-awareness-learning.md) — related
 - [Overall satisfaction with the virtual tour did not differ significantly by participation medium (HMD, Desktop mode, or YouTube)](no-satisfaction-difference-by-medium.md) — related
+- [Passive immersive VR viewing produces no advantage over video instructions in judgments of learning or memory (Experiment 2)](immersive-vr-no-advantage-exp2.md) — related
+- [The VR simulation produced a significantly increased feeling of presence compared with 360-degree NRP video](vr-nrp-higher-presence-than-360-video.md) — related

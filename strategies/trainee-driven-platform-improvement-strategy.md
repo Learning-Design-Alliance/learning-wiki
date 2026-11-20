@@ -51,6 +51,7 @@ The article distills trainee feedback into concrete platform upgrades. Students 
 - [Enhance digital training platforms with interactivity, supervision, and expanded content coverage](optimize-digital-platforms-engagement-supervision-content.md)
 - [Extend VDT learning with longer sessions, more oral/maxillofacial cases, remote access and SECTRA interface improvements, per student feedback](student-requested-vdt-improvements.md)
 - [Incorporate instant score feedback and richer communication interactivity into VR simulations to motivate repeated, self-directed use](vr-instant-score-feedback-repeated-use-strategy.md)
+- [Future VR-NRP development: add tactile feedback, target rural access, and adapt the environment to CPR and ACLS training](vr-nrp-future-directions-tactile-rural-cpr-acls.md)
 
 ## Examples
 -

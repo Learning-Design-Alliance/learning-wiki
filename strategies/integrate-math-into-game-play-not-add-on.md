@@ -41,6 +41,7 @@ Drawing on the study's qualitative findings that students consistently enjoyed t
 
 - [Incorporate game elements that promote interest and enjoyment to support autonomous, sustainable mobile language learning](add-enjoyment-elements-to-gamified-language-apps.md)
 - [How Close to 100?](how_close_to_100.md)
+- [Integrate chatbot interactions deeply into the gaming narrative to blend entertainment with learning](chatbot-integrated-game-progression-strategy.md)
 
 ## Examples
 -

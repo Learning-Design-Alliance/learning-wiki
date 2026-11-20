@@ -46,6 +46,7 @@ Because carelessness is concentrated among highly engaged, generally successful 
 ## Related Strategies
 
 - [Use error rates from simple-rule tests such as the Stroop Test to identify students' conscientiousness and concentration weaknesses and address them through tailored teaching](stroop-error-insights-tailored-teaching.md)
+- [Generate adaptive empathetic feedback tailored to the learner's recent utterances](adaptive-empathetic-feedback-generation-strategy.md)
 
 ## Examples
 -

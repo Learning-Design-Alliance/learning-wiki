@@ -47,3 +47,4 @@ Mixed-methods study across three teacher education courses embedding GenAI in as
 ## Related Claims
 - [AI use threatens students' computing identities as competent, hardworking, and ethical, with students identifying as cheaters, lazy, or incompetent even where AI is permitted](ai-use-threatens-computing-identity.md) — related
 - [Across three physics assessments, students who declared GenAI use scored slightly higher than non-users, but none of the differences were statistically significant](genai-users-slightly-higher-scores-not-significant-physics.md) — related
+- [Only 14.2% of students offered the course GPT-4 interface chose to use it](low-gpt4-adoption-rate-14-percent.md) — related

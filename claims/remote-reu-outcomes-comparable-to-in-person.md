@@ -49,3 +49,4 @@ Discussion-section synthesis (Table II) comparing this study's remote REU findin
 - [Remote REU mentees reported growth in psychosocial attributes including sense of belonging, self-efficacy, and physics identity](remote-reu-psychosocial-growth.md) — a narrower finding that bears on this claim
 - [Almost every remote REU mentee described achieving their goals and most intended to apply to graduate programs](remote-reu-goal-attainment-graduate-school-intentions.md) — a narrower finding that bears on this claim
 - [A cited longitudinal study found astronomy REU participation had relatively little impact on women's pursuit of astronomy, attributed to prior mentor relationships](reu-limited-long-term-impact-slater-2010.md) — related
+- [REU attendees report exposure to academia beyond their home institution as a benefit, including demystifying graduate school](reu-exposure-to-academia-demystifying.md) — related

@@ -29,4 +29,4 @@ Dewey is a CustomGPT.ai retrieval-augmented chatbot developed by Klymkowsky and 
 -
 
 ## Key Sources
-- Klymkowsky, M.W. & Cooper, M.M. (2024). The end of multiple choice tests: using AI to enhance assessment. Living preprint. https://www.authorea.com
+- Klymkowsky, M.W. & Cooper, M.M. (2024). The end of multiple choice tests: using AI to enhance assessment. Living preprint. https://www.authorea.com. [doi:10.48550/arxiv.2406.07481](https://doi.org/10.48550/arxiv.2406.07481)
