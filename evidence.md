@@ -6,10 +6,10 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 ## In short
 
-The wiki holds **18,312 distinct studies** behind 81,367 claims. What they add up to (the sections below have the detail):
+The wiki holds **18,313 distinct studies** behind 81,370 claims. What they add up to (the sections below have the detail):
 
 - **Few studies can show a cause.** 31% are experiments or systematic reviews (`q3` or `q4`); only 1% are pre-registered trials or well-powered meta-analyses (`q4`). 59% are quasi-experiments, observational studies or narrative reviews, and 10% are case studies, opinion or theory.
-- **Few print an effect size.** 4,414 of 18,312 studies (24%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
+- **Few print an effect size.** 4,414 of 18,313 studies (24%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
 - **Strong work is not only trials.** 1,962 studies are rated `r3`, done well for their kind; 1,349 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
 - **Most findings stand alone.** 99% of claims rest on one study; a finding reported once, in one setting, has not been shown to hold elsewhere.
 - **Not all research reaches design.** 79% of studies, and 52% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
@@ -21,18 +21,18 @@ These figures describe two things at once: what education research has produced,
 
 | | |
 |---|---|
-| Claims | 81,367 |
-| Evidence entries | 95,803 |
-| Distinct studies | 18,312 |
-| Claims resting on one study | 80,618 (99%) |
+| Claims | 81,370 |
+| Evidence entries | 95,806 |
+| Distinct studies | 18,313 |
+| Claims resting on one study | 80,621 (99%) |
 | Claims with no coded evidence | 3 |
-| Studies reporting an effect size | 4,414 of 18,312 (24%) |
+| Studies reporting an effect size | 4,414 of 18,313 (24%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 169 | 3,183 | 2,521 | 432 | 6,305 |
+| causal | 169 | 3,183 | 2,521 | 433 | 6,306 |
 | quant-synthesis | 206 | 387 | 88 | 135 | 816 |
 | review | 340 | 1,049 | 167 | 156 | 1,712 |
 | associational | 238 | 2,395 | 1,344 | 319 | 4,296 |
@@ -45,9 +45,9 @@ These figures describe two things at once: what education research has produced,
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 1,760 (10%) | 10,864 (59%) | 5,490 (30%) | 198 (1%) |
+| 1,760 (10%) | 10,865 (59%) | 5,490 (30%) | 198 (1%) |
 
-**Studies per claim:** 0: 3, 1: 80,618, 2: 650, 3: 74, 4 or more: 22.
+**Studies per claim:** 0: 3, 1: 80,621, 2: 650, 3: 74, 4 or more: 22.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -161,5 +161,5 @@ Each page that cites claims carries its own profile under its title. Summarised 
 
 ## Toward pooled estimates
 
-A pooled effect size needs effect sizes with their uncertainty, on one scale, for comparable contrasts and outcomes. Those are recorded in `observations/`, which holds **27 study records**: 2 report a standardised mean difference directly and 6 more report a statistic convertible to one (a correlation, an odds ratio, a partial η²). Fewer than three studies are on that scale at all, so **no pooled estimate is reported**. The wiki's `i` codes are not a substitute: they are bins, and averaging them would state a precision nobody measured.
+A pooled effect size needs effect sizes with their uncertainty, on one scale, for comparable contrasts and outcomes. Those are recorded in `observations/`, which holds **28 study records**: 2 report a standardised mean difference directly and 6 more report a statistic convertible to one (a correlation, an odds ratio, a partial η²). Fewer than three studies are on that scale at all, so **no pooled estimate is reported**. The wiki's `i` codes are not a substitute: they are bins, and averaging them would state a precision nobody measured.
 
