@@ -49,3 +49,5 @@ Blinded rubric marking of AI reflective submissions versus student submissions i
 - [The advanced o1 Preview model did not consistently outperform GPT-4, underperforming V3 on descriptive tasks](o1-preview-no-consistent-advantage.md) — related
 - [Rubric-enhanced prompting (Variant 2) raises LLM assigned scores relative to the no-rubric baseline, with model-specific gaps at particular taxonomy levels](rubric-prompting-raises-llm-assigned-scores.md) — a broader claim this one bears on
 - [Very top-performing students outscored the AI essays, while the majority of the cohort performed comparably or worse](cohort-distribution-versus-ai-scores.md) — reports the opposite
+- [Participants who used ChatGPT V4 consistently reported higher post-session ratings than those who used V3.5 across enjoyment, comfort, clarity, quality, and classroom-integration preferences.](gpt4-users-rate-experience-higher-than-gpt35.md) — related
+- [A randomly chosen GPT-4 essay from the study's prompts would achieve a First or Upper Second-Class grade 81.43% of the time, potentially advantaging weaker students](random-ai-essay-first-or-2-1-81-percent.md) — related

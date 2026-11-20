@@ -48,3 +48,4 @@ The article states that "a key aspect of distractors is their similarity to the 
 - [LLMs' generation probabilities for multiple-choice distractors correlate moderately with how often students choose them](llm-distractor-likelihood-moderately-tracks-student-choices.md) — related
 - [Providing the correct solution in the prompt improves LLM alignment with human-authored distractors, confirming correct-solution recovery as a primary bottleneck](correct-solution-in-prompt-bottleneck.md) — related
 - [LLM-generated distractors for math multiple-choice questions are judged mathematically valid more often than plausible to students, and rarely reproduce the full set of human-written distractors](llm-math-distractors-more-valid-than-plausible.md) — related
+- [Multiple-choice tests are intrinsically limited: unreflective distractors can be ignored and choosing the correct answer does not guarantee understanding.](multiple-choice-intrinsic-limits.md) — related

@@ -41,6 +41,7 @@ Because students found full openness challenging, the article's pilot paired the
 
 - [Implement computational essays via an open investigation challenge with pre-built simplified simulations, example essays, drop-in sessions, and peer presentations](scaffolded-computational-essay-pilot-strategy.md)
 - [Scaffold open-ended computational projects with seed simulations, an example essay, and staffed helpdesk hours](seed-simulations-helpdesk-scaffolding-strategy.md)
+- [Scaffold open-ended computational projects with professional-practice guidelines, rubrics, seed simulations, example essays, and TA drop-in sessions](computational-essay-scaffolding-strategy.md)
 
 ## Examples
 -

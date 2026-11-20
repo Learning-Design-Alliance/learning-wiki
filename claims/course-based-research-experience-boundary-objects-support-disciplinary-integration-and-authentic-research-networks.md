@@ -65,3 +65,4 @@ This is a methodologically solid, well-triangulated qualitative case study (q2-q
 - [Multivoiced boundary crossing supports holistic nature connection and ethical reflection](multivoiced-boundary-crossing-supports-holistic-nature-connection-and-ethical-reflection.md) — related
 - Journal papers function as resources traversing planes of community knowledge building — related
 - Current learning-community research rarely mixes methods and shows a rampant positive bias — related
+- [SPT undergraduates co-authored 79 Scopus-indexed papers during 2016-2020](spt-undergraduates-79-scopus-papers.md) — related

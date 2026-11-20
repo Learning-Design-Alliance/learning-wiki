@@ -88,3 +88,4 @@ The authors report that at teacher training events the participating teachers ge
 - [Workshop engagement reaches an inflection point at the first shareback of newly generated text, after which participant questions about LLMs become more incisive](shareback-inflection-point-engagement.md) — related
 - [AI-mediated feedback in hands-on exhibits improves learning and engagement](ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement.md) — related
 - [The nuclear-physics sequence was evaluated for scientific-literacy and engagement indicators during interventions in a Brazilian public school](nuclear-sequence-literacy-engagement-evaluation.md) — related
+- [The Wide Area Classroom delivered 106 events to just over 24,000 students at 90 different sites over ten years](wac-106-events-24000-students-90-sites.md) — related

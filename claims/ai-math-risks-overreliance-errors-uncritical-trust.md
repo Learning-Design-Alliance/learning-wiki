@@ -228,3 +228,4 @@ Review synthesis on uncritical trust in AI outputs. The authors conclude that "u
 - [Frequent, timely, actionable feedback improves learning, and AI mentors can help provide it under oversight](ai-mentor-frequent-feedback-improves-learning.md) — related
 - [Novice learners may struggle to identify ChatGPT errors or provide the prompt detail needed for high-quality output](novice-learners-struggle-to-spot-chatgpt-errors.md) — a narrower finding that bears on this claim
 - [Self-rated trust in LLM responses declined significantly from pre-test to post-test after learners completed a problem-solving task with the LLM, in one group with no comparison group](trust-in-llm-declines-after-task.md) — related
+- [The article argues that fading scaffolding and non-expert constraints mitigate the risk that AI assistance erodes critical thinking](scaffolding-fade-mitigates-ai-dependence-risk.md) — related

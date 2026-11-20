@@ -43,7 +43,8 @@ The authors' forward-looking recommendation is to continue designing interfaces 
 - [Santa measures student engagement through conversion rate, ARPU, total profit, and free questions consumed](../claims/santa-engagement-measures-four-factors.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Design recommendations for tutor-authoring systems using interactive AI agents](atb-design-recommendations-interactive-agent-authoring.md)
 
 ## Examples
 -

@@ -46,3 +46,4 @@ Software section of the Year 1 report describing iterative co-development. Chang
 
 ## Related Claims
 - [Delayed Treatment teachers more frequently simplified GC/CoV-lean lessons in ways that removed opportunities for figuring out, while Treatment teachers added graphing-skill opportunities](lesson-modifications-differed-by-group.md) — related
+- [Participants preferred instrumental sonifications over synthesized sounds](preference-instrumental-over-synthetic-sonifications.md) — related

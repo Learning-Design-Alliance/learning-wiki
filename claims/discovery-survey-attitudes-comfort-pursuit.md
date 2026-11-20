@@ -69,3 +69,4 @@ Pre/post survey administration by teachers across the five terms (217 responses 
 - [Research indicates typical physics lab courses do not reach desired learning goals](typical-lab-courses-do-not-reach-goals.md) — related
 - [Interns reported enhanced skills toward a STEM career and a majority wanted to pursue particle physics research after their undergraduate degree](internship-enhanced-stem-skills-particle-physics-intent.md) — related
 - [A significant majority of interns expressed willingness to share their research experience with prospective interns during future informational webinars](interns-willing-share-experience-webinars.md) — related
+- [Annual student feedback reports at least 70% felt more confident and enthusiastic about pursuing a STEM career](p4p-70-percent-confidence-enthusiasm.md) — related

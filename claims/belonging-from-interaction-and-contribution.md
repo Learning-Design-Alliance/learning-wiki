@@ -55,3 +55,5 @@ Authors' summary of the qualitative coding of mentee SoB quotes (N=46 coded segm
 - [Remote REU participants persistently lacked community, and the resulting lack of in-person interaction pushed mentees into substantial independent learning](remote-reu-lack-of-community.md) — related
 - [Remote REU mentees reported growth in psychosocial attributes including sense of belonging, self-efficacy, and physics identity](remote-reu-psychosocial-growth.md) — related
 - [Peer interaction and sense of belonging reach a minimum in year 2, when majors adjust to classes consisting primarily of physics majors](year-2-dip-peer-interaction-belonging.md) — related
+- [Mentoring relationships improve mentees' sense of belonging, with peer mentors having a profound impact](mentoring-improves-sense-of-belonging.md) — related
+- [Peer mentorship helps women in physics engage with their physics community and fosters a sense of belonging](peer-mentorship-belonging-physics-community.md) — related

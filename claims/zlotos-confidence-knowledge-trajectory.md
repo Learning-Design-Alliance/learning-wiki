@@ -110,3 +110,4 @@ One-group pre-test/post-test study of 106 preregistration pharmacist trainees us
 - [Among community males, self-rated attitude scores rose from pre-test to post-test after the MCH session and fell toward baseline by three-month follow-up in one uncontrolled pre-post study](male-attitude-gain-not-sustained-three-months.md) — related
 - [Knowledge gains from the liquid crystals module faded between the immediate post-test and an exam four weeks later](lc-knowledge-gains-fade-by-delayed-test.md) — related
 - [Knowledge and confidence gains persisted above pre-program levels at the fall 2018 subsequent assessment](mipep-gains-persist-subsequent-assessment.md) — related
+- [Python data-analysis skills acquired in the first semester were largely retained after a three-month interruption, though retention varied across groups](python-skill-retention-three-month-break.md) — related

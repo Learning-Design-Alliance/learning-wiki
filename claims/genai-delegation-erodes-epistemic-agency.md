@@ -56,3 +56,5 @@ The paper reports, citing Gerlich (2025), Lee et al. (2025), and Kosmyna et al. 
 - [AI use is associated with lower critical thinking, with trust strengthening and AI literacy weakening the effect](ai-use-lower-critical-thinking-literacy-buffer.md) — a broader claim this one bears on
 - [Gesturing facilitates thinking by offloading cognition and providing kinesthetic information that can change predictions](gesturing-facilitates-idea-construction.md) — related
 - [Students distributed epistemic agency effort unevenly across dimensions, with some focusing on communication at the expense of computation](uneven-agency-distribution-across-dimensions.md) — related
+- [GenAI was less fruitful in the definition stage of design, where students reflected it did not support critical thinking and risked shallow learning](genai-definition-stage-shallow-learning-risk.md) — a narrower finding that bears on this claim
+- [The article argues that fading scaffolding and non-expert constraints mitigate the risk that AI assistance erodes critical thinking](scaffolding-fade-mitigates-ai-dependence-risk.md) — related

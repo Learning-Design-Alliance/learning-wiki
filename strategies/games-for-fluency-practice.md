@@ -65,6 +65,7 @@ Fluency — fast, accurate, effortless execution — frees working memory for hi
 - [Timed Practice With Progress Monitoring](timed-practice-with-progress-monitoring.md) — the measurement backbone; games without rate tracking rarely produce durable fluency gains
 - [Peer Tutoring With Structured Materials](peer-tutoring-with-structured-materials.md) — a common delivery format for card-based fluency games
 - [Select games that maximize participation and match proficiency, and use games as complementary activities](select-games-participation-proficiency-complementary.md)
+- [Progress game difficulty systematically across repeated sessions (Easy, then Medium, then Difficult) over a multi-week intervention](week-by-week-difficulty-progression-games.md)
 
 ## Examples
 - **[Reflex Math](https://www.explorelearning.com/reflex/)** — adaptive game-based math fact fluency system; the game mechanics require fast fact retrieval, with pacing that holds success rates high while increasing speed.

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-20
 sources:
   - id: juan-rafael-álvarez-2023
     resource: "https://doi.org/10.1117/12.2666765"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students attending the lab in person recovered the Wigner function for a vacuum state and for a coherent state produced by a laser of approximately 0.5 mW power. [→ Juan Rafael Álvarez 2023](#juan-rafael-alvarez-2023)

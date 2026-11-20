@@ -40,6 +40,7 @@ The article recommends engineering better data access through secure enclaves: t
 - [Co-design and validate context-aware AI through DBIR blended with user-centered design in privacy-preserving enclaves](dbir-ucd-privacy-preserving-lc-validation.md)
 - [Privacy-preserving deployment measures for an ITS under GDPR and EU AI Act](gdpr-compliant-its-deployment-measures.md)
 - [Use modern open data science tools, increasingly accessible via generative AI, to simplify handling of educational data in blended learning](open-data-science-tools-for-bl-data-management.md)
+- [Use equity dashboards and free online tools to automate data collection and equity analyses for departmental transformation](equity-dashboards-for-departmental-transformation.md)
 
 ## Examples
 -

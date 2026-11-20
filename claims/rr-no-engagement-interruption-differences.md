@@ -73,3 +73,4 @@ Null result from the same survey: the authors expected R&R to be rated as more i
 - [Ruffle&Riley, teacher QA and LLM QA chatbots and reading show no significant post-test differences in a between-subject online study](rr-no-posttest-difference-four-conditions.md) — related
 - [Ruffle&Riley rated significantly more helpful than QA chatbots for understanding, remembering and support](rr-rated-more-helpful-than-qa-chatbots.md) — related
 - [Non-expert participants often fail to notice empathy differences between chatbot versions, so self-reported perceived empathy alone is an unreliable assessment method](nonexpert-perceived-empathy-unreliable.md) — related
+- [Ruffle&Riley users rated their perceived pre- and post-activity knowledge significantly higher than reading participants](rr-higher-perceived-knowledge-than-reading.md) — related

@@ -50,3 +50,4 @@ Theme 2 of the thematic analysis; students showed "metacognitive awareness of th
 - [IDs use GenAI to brainstorm ideas and overcome creative blocks when drafting content](genai-brainstorm-ideas-creative-blocks.md) — related
 - [Students used AI for dynamic brainstorming and ideation, progressing from overcoming writer's block to refining style and rhetorical goals](ai-dynamic-brainstorming-ideation.md) — related
 - [Using generative AI as a dialogic partner for brainstorming, feedback, and co-construction can support constructive and interactive learning](ai-dialogic-partner-constructive-interactive-learning.md) — related
+- [Students used GenAI brainstorming output as a creativity baseline that raised the bar for what counts as a new idea](genai-brainstorm-baseline-raise-bar.md) — related

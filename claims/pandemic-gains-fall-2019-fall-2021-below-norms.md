@@ -70,3 +70,4 @@ The brief's stated analysis compares gains across fall 2019 to fall 2021 with pr
 - [The brief investigated the degree to which students' reading and math test scores became more variable as a result of the COVID-19 pandemic](covid-score-variability-research-question.md) — related
 - [Effect sizes for within-grade reading and math growth declined as students progressed from Grade 1 to Grade 5](growth-effect-sizes-decline-grades-1-5.md) — related
 - [More than half of teachers reported students performed below grade expectations during 2020–2021, with drops reported more frequently in lower-SES classrooms](teachers-report-performance-decline-ses-gradient.md) — related
+- [Georgia K-12 Math and English achievement rates declined significantly from 2019 to 2021 with a partial recovery in 2022 and a contraction of the score distribution](georgia-pandemic-achievement-rate-decline-2021.md) — related

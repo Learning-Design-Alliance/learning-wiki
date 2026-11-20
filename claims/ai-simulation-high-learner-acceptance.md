@@ -75,3 +75,4 @@ Synthesis of acceptance evidence from 8 studies using standardized instruments (
 - [The TV-based home telehealth technology was easy to learn and use, with a mean System Usability Scale score of 94.4](high-usability-tv-based-rehab-technology.md) — related
 - [Medical students report willingness to adopt ALERT STUDENT as a reference study tool](alert-student-adoption-willingness.md) — related
 - [The game condition received a descriptively higher System Usability Scale score than the video condition, with no statistically significant difference](gbl-sus-higher-not-significant.md) — related
+- [Metabook enables novice users to create 3D books with high usability, and usability and time satisfaction are uncorrelated with education level and waiting time](metabook-high-usability-novice-creation.md) — a narrower finding that bears on this claim

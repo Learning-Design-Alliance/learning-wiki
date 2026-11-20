@@ -47,3 +47,4 @@ Separate analysis of rubric item No. 6 across sites (ULS n = 9, HS n = 10). ULS 
 ## Related Claims
 - [Preschool children's vocabulary use in retellings grew significantly after multiple book exposures in both control and experimental groups, with no significant difference between conditions](ebook-vocabulary-growth-both-groups-no-treatment-difference.md) — related
 - [No significant differences between groups were found on story-telling complexity (rubric item No. 9), contrary to the authors' hypothesis](no-group-difference-story-complexity.md) — related
+- [AR 3D books significantly improve children's memory retention of stories compared with paper books](ar-3d-books-improve-story-retention.md) — related

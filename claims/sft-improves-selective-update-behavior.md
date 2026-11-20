@@ -54,3 +54,5 @@ Post-training experiment on Qwen3-4B and Llama3.1-8B-Instruct across Malrule and
 - [Taxonomy-guided post-training raises TACTutor's TACT_Overall on TACTBench from 0.629 (backbone) to 0.832, the highest among evaluated models](tactutor-raises-tactbench-overall-0-629-to-0-832.md) — a narrower finding that bears on this claim
 - [Post-training alignment methods may induce sycophancy that deteriorates GenAI models' ability to disagree and push back](sycophancy-limits-genai-pushback.md) — related
 - [General-purpose LLMs show sycophancy: AI responses affirmed users substantially more than human responses, increasing trust and reducing willingness to take responsibility](llm-sycophancy-affirmation-trust-risk.md) — related
+- [DPO training on GPT-4 rubric annotations with mismatched feedback significantly improves the correctness and alignment of Llama 2-generated math feedback compared to zero-shot and SFT baselines.](dpo-score-mismatch-improves-math-feedback.md) — reports the opposite
+- [Hallucination tokens substantially improve performance across benchmarks but do not fully restore baseline performance](hallucination-tokens-partial-recovery.md) — related

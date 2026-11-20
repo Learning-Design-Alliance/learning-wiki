@@ -68,3 +68,6 @@ Same learning-experience survey. The article reports "R&R participants expressed
 - [No significant differences among chatbot conditions in engagement or perceived interruption](rr-no-engagement-interruption-differences.md) — related
 - [Log analysis: R&R learners used different teaching strategies, requested little help, and conversational learning took longer than reading](rr-log-analysis-strategies-help-time.md) — related
 - [Ruffle&Riley, teacher QA and LLM QA chatbots and reading show no significant post-test differences in a between-subject online study](rr-no-posttest-difference-four-conditions.md) — related
+- [Conversation-log analysis found the system hosted coherent EMT-based dialogues but was lenient toward partial explanations and sometimes repeated requests](conversation-analysis-coherent-but-lenient.md) — related
+- [In Evaluation 2, Ruffle&Riley showed no significant learning gains over reading despite requiring much more learning time](rr-eval2-no-gain-advantage-over-reading.md) — related
+- [Ruffle&Riley was rated significantly more helpful for understanding, remembering, and support, and more enjoyable and coherent, than the QA chatbot conditions](rr-higher-learning-experience-ratings-than-qa-chatbots.md) — related

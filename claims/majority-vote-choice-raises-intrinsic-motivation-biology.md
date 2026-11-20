@@ -53,3 +53,4 @@ Quasi-experimental comparison of five intact fifth-grade classes (N=118) in a ch
 - [Students whose vote did not select the winning topic report the same intrinsic motivation as students whose choice was received](non-received-choice-no-motivation-deficit.md) — related
 - [The voting process itself, rather than topic-congruence with individual interests, appears responsible for the motivation benefit](voting-process-itself-fosters-motivation.md) — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — a broader claim this one bears on
+- [Votes for the most surprising minicourse meeting were evenly distributed, with the three most-voted meetings tied to current Astrobiology research topics and to the scientists' own everyday experience](balanced-votes-top-three-astrobiology-meetings.md) — related

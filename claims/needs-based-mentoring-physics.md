@@ -48,3 +48,4 @@ The paper's synthesis of mentoring literature (citing Rockquemore 2011 and Stray
 - [Assigned mentors can produce superficial mentoring relationships; mentees should instead choose from a list of potential mentors](assigned-mentors-superficial-relationship.md) — related
 - [Teachers without mentors reached the impact level more often than mentored teachers, raising the question that mentoring may inhibit development](mentors-may-inhibit-concern-development.md) — reports the opposite
 - [Coaching support was not always perceived as needed or accessible: some students relied on supportive mentors, and others could not engage due to time constraints and infrequent group meetings](coaching-support-not-always-accessible.md) — related
+- [Mentoring relationships improve mentees' sense of belonging, with peer mentors having a profound impact](mentoring-improves-sense-of-belonging.md) — related

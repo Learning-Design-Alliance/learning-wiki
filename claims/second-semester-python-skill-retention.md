@@ -50,3 +50,4 @@ Analysis of student group work on two second-semester exercises (methane annual 
 
 ## Related Claims
 - [The authors interpret the experimental group's score increase as larger than the control group's, suggesting a possible but unsatisfied effect of error correction](experimental-gain-larger-than-control-interpretation.md) — related
+- [Python data-analysis skills acquired in the first semester were largely retained after a three-month interruption, though retention varied across groups](python-skill-retention-three-month-break.md) — possibly the same claim (merge candidate)

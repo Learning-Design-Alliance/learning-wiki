@@ -54,6 +54,7 @@ The authors use computation in two main ways: live demonstrations of computer so
 - [Design all introductory computational assignments to be completable in spreadsheets so students without programming background can participate.](spreadsheet-first-computational-assignments-strategy.md)
 - [Reuse algorithms across physics courses by scaling equations into shared dimensionless forms](reuse-scaled-algorithms-across-physics-courses.md)
 - [Workshop-based mini-research project walking students through the full research cycle](composer-mini-research-workshop-strategy.md)
+- [Provide nearly completed code with only a few pieces to finish, plus full solutions for self-checking](nearly-completed-code-scaffolding-strategy.md)
 
 ## Examples
 -

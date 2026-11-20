@@ -48,6 +48,7 @@ In its review of Clark and Mayer's e-learning guidance, the article recommends i
 - [Integrate simulation as a complementary learning tool across oncology curricula, continuing education, and recertification programs](integrate-simulation-complementary-tool-oncology-curricula.md)
 - [Revise maternity simulation to include independent problem-solving, real-life scenario variables, and personalized instructor feedback](revise-simulation-independent-problem-solving-personalized-feedback.md)
 - [Situate critical AI literacy curricula in AI as it appears in students' social worlds rather than abstract bias examples](situate-critical-ai-literacy-in-local-social-worlds.md)
+- [Incorporate quantum spin into existing curriculum through magnetism and real-world applications like MRI](quantum-spin-curriculum-integration-mri-magnetism.md)
 
 ## Examples
 -

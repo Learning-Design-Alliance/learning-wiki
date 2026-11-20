@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 763 claims (409 show a difference, 185 mixed, 169 no difference) · 533 studies (281 associational, 178 causal, 21 review, 18 quant-synthesis, 16 design, 12 theoretical, 7 qualitative), `q1`–`q4` · 78 of 533 report an effect size · 755 claims rest on one study
+> **Evidence** · 767 claims (411 show a difference, 187 mixed, 169 no difference) · 535 studies (282 associational, 178 causal, 22 review, 18 quant-synthesis, 16 design, 12 theoretical, 7 qualitative), `q1`–`q4` · 78 of 535 report an effect size · 759 claims rest on one study
 
 ## How to read this page
 
@@ -802,6 +802,10 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Female students' continuation rates into senior STEM courses grew faster than male students' in almost all Ontario STEM courses from 2007 to 2018](../claims/female-scr-growth-outpacing-males-ontario-stem.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The counternarrative study reported modest treatment-control differences in survey intent, with Cohen d values of 0.23, 0.13, 0.17 and 0.20 across female, non-female, minority and non-minority subgroups](../claims/counternarrative-effect-sizes-subgroups.md) [~M] — an instructional effect differs by group
 - [Female participation in CzAO is around 40–50% in school rounds (54–55% in the last two years) but averages only 20–40% in national finals, with younger categories showing higher percentages of female finalists](../claims/czao-female-participation-balance.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Active learning and studio physics show mixed effects on gender gaps, depending on course design and implementation details](../claims/active-learning-gender-gap-effects-mixed.md) [~M] — an instructional effect differs by group
+- [Gender-based differences in lab participation are institution-specific: two institutions show no significant difference while one shows a significant difference](../claims/institution-specific-gender-participation-physics-labs.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Gendered task division arises in mixed-gender lab groups, with men more likely to handle equipment, and is most pronounced in less-structured inquiry labs](../claims/gendered-task-division-mixed-gender-lab-groups.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Skills-based lab curricula reduce or reverse gender gaps in ECLASS scores, and benefit students of all genders relative to concepts-focused labs](../claims/skills-based-labs-reduce-gender-gaps-eclass.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

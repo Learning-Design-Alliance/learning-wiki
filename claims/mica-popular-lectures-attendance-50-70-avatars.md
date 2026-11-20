@@ -53,3 +53,4 @@ Program description from the Education and Public Outreach section: public lectu
 - [Virtual seminars enable faster dissemination of new research than in-person visits](virtual-seminars-faster-dissemination.md) — related
 - [Virtual seminars reach global audiences comparable in size to medium-sized conferences](virtual-seminars-global-audience-scale.md) — related
 - [Online platforms can reach the public as effectively as traditional astronomy outreach activities](online-platforms-effective-astronomy-outreach.md) — related
+- [The outreach pipeline reached about 130 people in a messaging group, 36 live attendees at the preparatory remote class, and over 95 later video views](outreach-reach-messaging-group-remote-class.md) — related

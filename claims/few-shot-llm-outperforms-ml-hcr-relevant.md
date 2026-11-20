@@ -56,3 +56,4 @@ Whole-dataset comparison (Table 3): GPT-3.5-turbo 5-shot CoT reached F1 0.4302 a
 - [Supervised ML/DL Bloom question classifiers trained on one dataset drop substantially in weighted F1 when tested on unseen datasets](supervised-bloom-classifiers-degrade-cross-dataset.md) — related
 - [Curricular chain-of-thought prompting improves competency-classification accuracy over zero-shot, with gains concentrated in larger models, while definition-based prompting does not improve performance](curricular-cot-improves-accuracy-larger-models.md) — related
 - [CoT + few-shot prompting delivers high accuracy with minimal computational overhead, offering an efficient alternative to multi-agent frameworks](cot-few-shot-efficient-alternative.md) — related
+- [Supervised ML is the most frequently used approach for automatic scoring of science assessments due to its high accuracy](supervised-ml-most-used-scoring-approach.md) — reports the opposite

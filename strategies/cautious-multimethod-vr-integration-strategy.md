@@ -55,6 +55,7 @@ Based on findings that NIVR matched conventional training on knowledge and drill
 - [Prioritize rigorous VR training studies with larger samples, validated outcome measures, immersive designs, and LLM integration in mental health education research](future-vr-mental-health-research-recommendations.md)
 - [Deliver short-term, intensive, simulation-based infectious disease emergency training with frequent drills](short-term-simulation-drill-training-strategy.md)
 - [Design future Serious Game versus traditional teaching trials as randomised studies with pre-tests and learning-time data](randomised-pretest-design-for-serious-game-trials.md)
+- [Run larger randomized controlled trials and involve multiple stakeholders before setting LLM education policy](larger-rcts-multistakeholder-llm-adoption.md)
 
 ## Examples
 -

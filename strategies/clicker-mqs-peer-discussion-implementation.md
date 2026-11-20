@@ -58,6 +58,8 @@ The article recommends implementing an MQS the way Mazur's Peer Instruction does
 - [Peer Instruction structured questioning sequence: individual answers, convince-your-neighbors discussion, revote, and instructor feedback](peer-instruction-questioning-sequence.md)
 - [Ask students to solve derivation problems individually immediately after the peer clicker sequence, announced in advance as a quiz, to consolidate learning and build self-reliance](immediate-individual-reflection-quiz-after-cqs.md)
 - [Use the superposition tutorial flexibly as in-class/recitation work, think-pair-share or clicker questions, or homework after prior instruction](superposition-tutorial-flexible-deployment-strategy.md)
+- [Use clicker question sequences with peer discussion and instructor checkpoints to scaffold difficult quantum concepts within limited class time](cqs-peer-discussion-checkpoints-strategy.md)
+- [Ask clicker questions even on concepts students already perform well on, as warm-ups building to harder questions](cqs-warmup-questions-on-easy-concepts.md)
 
 ## Examples
 -

@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants' conceptions of simple aspects of the underlying space plasma physics changed from before to after listening to the sounds, in one single-group pre-post study, before researcher dialogue. [→ Martin O. Archer 2021](#martin-o-archer-2021)
@@ -68,3 +68,4 @@ Log-linear reliability check on a subset coded by three coders showed the expect
 - [The proportion of responses expressing space as empty dramatically reduced after the soundscape, challenging the empty-space misconception](emptiness-misconception-reduced-after-soundscape.md) — related
 - [Integrating graffiti walls both before and after a drop-in activity yields much higher response rates than typical post-only graffiti walls](graffiti-walls-before-and-after-high-response-rates.md) — related
 - [Inquiry-based physics discussion supported peer co-construction of mechanistic explanations, distributing authority of knowledge and language among students](third-space-distributes-authority-among-students.md) — related
+- [Participants preferred instrumental sonifications over synthesized sounds](preference-instrumental-over-synthetic-sonifications.md) — related

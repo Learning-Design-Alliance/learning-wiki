@@ -51,3 +51,4 @@ Null finding from the Study 2 regression models (N = 184) testing H3a and H3b, i
 - [Higher self-reported critical reflection predicts higher perceived microaggression in classroom vignettes (Study 2)](critical-reflection-predicts-microaggression-noticing.md) — related
 - [Implicit prejudice is negatively related to attending microaggressions in Study 1 but does not replicate in Study 2](implicit-prejudice-noticing-association-not-replicated.md) — related
 - [Subtle prejudice is unexpectedly positively related to perceiving microaggressions in normative scenarios (Study 1)](subtle-prejudice-positively-related-perceiving-microaggressions.md) — related
+- [Contextual information mediates between attention/noticing and cognitive empathy in faculty experiences of empathizing with students](contextual-information-mediates-noticing-cognitive-empathy.md) — related

@@ -48,6 +48,7 @@ The authors plan, in future implementations, to have students respond to the two
 - [Use concept tests with peer instruction: poll challenging multiple-choice questions, then have students discuss and repoll](concept-tests-peer-instruction-improve-conceptual-understanding.md)
 - [Add a later scaffolded-weaning question to the CQS targeting the stationary-state learning goal](cqs-larmor-add-question-second-learning-goal.md)
 - [Implement multiple-choice question sequences as clicker questions with individual commitment, peer discussion, and instructor-led whole-class discussion at checkpoints](clicker-mqs-peer-discussion-implementation.md)
+- [Ask clicker questions even on concepts students already perform well on, as warm-ups building to harder questions](cqs-warmup-questions-on-easy-concepts.md)
 
 ## Examples
 -

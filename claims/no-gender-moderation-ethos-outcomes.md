@@ -51,3 +51,4 @@ Cross-level interaction tests in the final ML-SEM model (n = 9776). The article 
 - [None of the cross-lagged withdrawal–achievement effects was significant in girls, and gender differences were significant for specific paths](no-crosslagged-effects-girls.md) — related
 - [SEL competency associations with reading are invariant by sex, but associations of Self-Awareness and Self-Management with numeracy are significantly stronger for boys than girls](sel-numeracy-associations-stronger-boys.md) — related
 - [Stronger teacher-rated school ethos is associated with higher average academic achievement at the school level, beyond student- and school-level sociodemographic controls](school-ethos-higher-average-achievement.md) — related
+- [Gender does not significantly moderate the relationship between self-management and academic achievement](gender-no-moderation-self-management-achievement.md) — related

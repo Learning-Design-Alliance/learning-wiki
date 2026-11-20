@@ -50,3 +50,4 @@ The editorial describes the Mercier, Higgins and da Costa analysis of student gr
 - [A student's animated off-worksheet statements can function as bids for a frame change that the group may accept or ignore](behavioral-bids-for-frame-change.md) — related
 - [A collaboration kit with joint and private multi-touch table spaces outperformed comparison groups, showing less biased communication and more collaborative processes.](multi-touch-collaboration-kit-reduced-discussion-bias.md) — related
 - [A joint workspace scaffold on a multi-touch table improved discussion intensity, mutual understanding, and decision performance in hidden profile tasks](joint-workspace-multitouch-hidden-profile.md) — related
+- [A student's bid for the data reflecting a physical phenomenon contributed to an expectation that explanations are accountable to the data](data-accountability-bid-shapes-group-epistemics.md) — a narrower finding that bears on this claim

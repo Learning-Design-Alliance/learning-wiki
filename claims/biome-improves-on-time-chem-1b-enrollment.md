@@ -68,3 +68,4 @@ Propensity score–matched logistic regression of on-time CHEM 1B course taking 
 - [BIOME's association with CHEM 1A grades and on-time CHEM 1B enrollment does not differ significantly by student ethnicity](biome-no-differential-ethnicity-benefit.md) — related
 - [Academic habit complexity is positively related to General Chemistry 1A grades after controlling for prior achievement and BIOME enrollment](habit-complexity-predicts-chem-grades.md) — related
 - [Enrollment in the BIOME near-peer mentorship course is associated with higher academic habit complexity among first-year biology students](biome-increases-academic-habit-complexity.md) — related
+- [RPS students had higher odds of persisting in engineering after controlling for semester, an association attenuated and non-significant when controlling for final grade](rps-persistence-odds-logistic-regression.md) — related

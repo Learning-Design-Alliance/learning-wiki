@@ -51,3 +51,4 @@ Head-to-head comparison of six augmentation methods (self plus five LLM/temperat
 - [Augmentation levels below 20x produce unreliable classification performance in small educational datasets](low-augmentation-levels-unreliable.md) — related
 - [Higher LLM temperature settings yield the best English augmentation performance, with Llama temperature 2 the top generator overall](temperature-affects-augmentation-performance.md) — related
 - [Datasets with entropy below 0.5 are difficult to augment enough to beat majority-label guessing](low-entropy-datasets-resist-augmentation.md) — related
+- [GPT-4 consistency checking retains 72% of synthetically generated invalid questions, discarding 27% classified as good and 1% as incorrect](consistency-checking-retains-72-percent-invalid-questions.md) — related

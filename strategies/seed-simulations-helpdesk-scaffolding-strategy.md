@@ -49,6 +49,7 @@ In the studied implementation, open-ended computational essay projects were scaf
 
 - [Scaffold open-ended computational projects with example essays, starter simulations, and peer presentations](scaffold-open-ended-computational-essays-strategy.md)
 - [Implement computational essays via an open investigation challenge with pre-built simplified simulations, example essays, drop-in sessions, and peer presentations](scaffolded-computational-essay-pilot-strategy.md)
+- [Scaffold open-ended computational projects with professional-practice guidelines, rubrics, seed simulations, example essays, and TA drop-in sessions](computational-essay-scaffolding-strategy.md)
 
 ## Examples
 -

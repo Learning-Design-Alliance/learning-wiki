@@ -54,3 +54,5 @@ ML models trained on 361 randomly selected responses per item using an ensemble 
 - [No significant differences in ML model performance across the three science item contexts](no-context-difference-ml-performance.md) — related
 - [No correlation between evenness of response score distribution and ML model performance](no-correlation-evenness-ml-performance.md) — related
 - [Two-phase machine learning approach detects causal relations and chains in student essays](machine-learning-detects-causal-relations-essays.md) — related
+- [Cross-validation yielded higher machine-human agreement than self- and split-validation approaches in ML-based science assessment](cross-validation-yields-higher-mha.md) — related
+- [Zero-shot MeNSP scored science written responses without training data at Cohen's Kappa 0.30–0.57, improvable to 0.38 at the lower end with few-shot samples](mensp-zero-shot-scoring-kappa-range.md) — related

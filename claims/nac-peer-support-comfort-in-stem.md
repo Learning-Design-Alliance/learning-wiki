@@ -50,3 +50,4 @@ Item responses from the NAC Alumni Survey on cohort-building and peer support. T
 ## Related Claims
 - [Post-program surveys show most students felt more likely to pursue STEM, more comfortable in university labs, and found the program appropriately challenging](discovery-survey-attitudes-comfort-pursuit.md) — related
 - [A reported 93% of NAC students indicated they struggle with imposter syndrome, which the authors argue is rarely discussed openly](nac-students-imposter-syndrome-prevalence.md) — related
+- [Annual student feedback reports at least 70% felt more confident and enthusiastic about pursuing a STEM career](p4p-70-percent-confidence-enthusiasm.md) — related

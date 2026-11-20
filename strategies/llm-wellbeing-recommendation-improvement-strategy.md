@@ -46,6 +46,7 @@ The authors recommend a staged improvement path for LLM-based personalized stude
 - [Refine LLM feedback prompts and adopt RAG to reduce verbosity and align feedback with course content](refine-llm-prompts-rag-reduce-verbosity.md)
 - [Practise prompt engineering through simulations, prompt-a-thons and scenario exercises to obtain accurate LLM outputs](prompt-engineering-practice-simulations-prompt-a-thons.md)
 - [Co-create micro-intervention repertoires with generative AI through a seed-request-refine prompt sequence, with the instructor curating output](ai-co-creation-of-emotional-micro-interventions.md)
+- [Run larger randomized controlled trials and involve multiple stakeholders before setting LLM education policy](larger-rcts-multistakeholder-llm-adoption.md)
 
 ## Examples
 -

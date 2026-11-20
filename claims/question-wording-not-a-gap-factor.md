@@ -58,3 +58,4 @@ McCullough and Meltzer's rewording study and DIF analyses by Dietz et al. and Po
 - [The FCI gender gap narrowed following instruction in these blended sections](fci-gender-gap-narrowed-blended-sections.md) — related
 - [Post-test misconception scores differ significantly between men and women on every FMCE community, but all effect sizes are small or negligible](fmce-misconception-score-gender-small-effects.md) — related
 - [Men scored higher than women on FCI pretest, FCI post-test, and solo-phase exam in introductory physics](fci-exam-gender-gaps-favor-men.md) — related
+- [The LLM-generated style feedback showed no differential feedback by gender in sentiment analysis and manual checks, and no inappropriate or demographically biased content was found](llm-style-feedback-no-gender-bias.md) — related

@@ -46,3 +46,4 @@ Descriptive medians and interquartile ranges from the same 120-student survey, s
 
 ## Related Claims
 - [Males report significantly higher median comfort than females for upper-level, gender, and religion related interactions](males-higher-comfort-upper-level-gender-religion.md) — related
+- [The first Canada-wide intersectional survey of physics demographics collected detailed identity data from 2532 physics students and professionals](canadian-physics-counts-first-national-survey.md) — a broader claim this one bears on

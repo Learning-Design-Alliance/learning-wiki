@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 269 claims (173 show a difference, 62 mixed, 34 no difference) · 234 studies (112 causal, 58 associational, 24 review, 15 quant-synthesis, 12 design, 10 qualitative, 3 theoretical), `q1`–`q4` · 44 of 234 report an effect size · 265 claims rest on one study
+> **Evidence** · 270 claims (173 show a difference, 63 mixed, 34 no difference) · 235 studies (112 causal, 58 associational, 24 review, 15 quant-synthesis, 13 design, 10 qualitative, 3 theoretical), `q1`–`q4` · 44 of 235 report an effect size · 266 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -326,6 +326,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [The relationship between time on task and posttest score differs by condition: essentially uncorrelated for Proof Blocks but moderately correlated for hybrid and written-proof activities](../claims/time-on-task-posttest-correlation-by-condition.md) [~W] — learners who differ on it differ in outcomes
 - [Coverage, search-pattern heterogeneity, interruptions, and review time showed no statistically significant change with feedback](../claims/secondary-search-metrics-no-significant-change.md) [-W] — measured as an outcome of the instruction studied
 - [No significant differences among chatbot conditions in engagement or perceived interruption](../claims/rr-no-engagement-interruption-differences.md) [-W] — measured as an outcome of the instruction studied
+- [Python data-analysis skills acquired in the first semester were largely retained after a three-month interruption, though retention varied across groups](../claims/python-skill-retention-three-month-break.md) [~M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

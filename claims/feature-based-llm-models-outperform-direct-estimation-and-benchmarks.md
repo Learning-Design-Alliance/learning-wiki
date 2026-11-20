@@ -77,3 +77,4 @@ Reading holdout results: the random forest beat the direct approach, dummy regre
 - [The variable-based linear regression classifier produced the best-performing student performance model, yielding the least MAE, RMSE, RAE and RRSE among the four trained models](variable-based-lrc-best-error-metrics-programming-spm.md) — related
 - [A Random Forest regressor with question_only text encoding performed best for estimating both IRT latent traits in cross-validated model choice](r2de-random-forest-question-only-best.md) — related
 - [TF-IDF encoded text with a random forest classifier outperformed several strong baselines including LSTM, HAN, CNN and RCNN](tfidf-random-forest-beats-strong-baselines.md) — related
+- [Random Forest and Stacking Regressor explained about 69% of variability in Georgia math achievement rates, with deep learning models reaching R2 of 0.796](georgia-ml-models-predict-achievement-rates.md) — related

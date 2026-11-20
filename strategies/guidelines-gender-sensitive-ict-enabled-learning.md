@@ -50,7 +50,8 @@ The review proposes four guidelines mapped to the GAF dimensions: implement ICT-
 - [Fewer reviewed studies align with the policy dimension, and policies ignoring gender differences may deter girls' participation](../claims/policies-accommodate-inclusiveness.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Adapt the game for inclusivity and accessibility across mobility, sensory sensitivity, and perception differences](qec-game-inclusive-adaptations.md)
 
 ## Examples
 -

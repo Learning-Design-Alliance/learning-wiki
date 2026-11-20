@@ -48,3 +48,4 @@ t-test comparing tutorial and comparison sections on the pre-test administered a
 ## Related Claims
 - [In a controlled study, introductory students taught with tutorials performed significantly better on post-tests than traditionally taught students, who showed no significant improvement from pre-test to post-test](tutorials-improve-conductor-insulator-posttest-performance.md) — related
 - [After traditional lecture-based instruction, upper-level undergraduate QM students performed poorly on all pretest questions about the free electron gas](poor-pretest-performance-free-electron-gas-traditional-instruction.md) — related
+- [Tutorial-based active instruction on URM graphical interpretation left performance low and unchanged across 10 sections with high heterogeneity](tug-urm-tutorial-low-unchanged-performance.md) — related

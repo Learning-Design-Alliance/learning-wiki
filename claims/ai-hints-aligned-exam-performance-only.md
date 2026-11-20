@@ -52,3 +52,4 @@ The review reports this non-randomized study of 382 students in two sections of 
 - [A scaffolded AI Study Coach produced no assignment-performance or concept-inventory advantage over unrestricted AI use in a master's programming course pilot](scaffolded-coach-no-assignment-performance-advantage.md) — related
 - [Persistence and performance costs concentrate among participants who used the AI to obtain direct solutions, while hint-users resemble controls](persistence-costs-concentrated-among-direct-solution-users.md) — related
 - [A guardrailed GPT-4 tutor with teacher-designed hints improves assisted practice performance more than a standard GPT-4 interface](gpt-tutor-improves-practice-more-than-gpt-base.md) — related
+- [Successful students showed significantly higher engagement action counts in in-unit assignments, while struggling students requested more hints, answers and explanations.](struggling-students-request-more-hints-answers-explanations.md) — related

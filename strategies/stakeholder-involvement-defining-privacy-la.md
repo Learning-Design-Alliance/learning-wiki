@@ -52,6 +52,7 @@ The article recommends that LA scholars involve students, teachers, parents, and
 - [Involve students and alumni directly in campus activities, curriculum development and dialogue to build experience value](involve-students-curriculum-dialogue.md)
 - [Broaden meaningful participation in AIEd system design to equitably serve diverse populations](broaden-participation-aied-design.md)
 - [Engage both data professionals and teaching professionals, and involve students, in LA data use](engage-data-and-teaching-professionals-involve-students.md)
+- [Run larger randomized controlled trials and involve multiple stakeholders before setting LLM education policy](larger-rcts-multistakeholder-llm-adoption.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ The review's theoretical argument about generative AI and externalization: "Just
 - [Over-reliance on AI dialogue systems reduces students' critical and analytical thinking skills, especially when they become overly dependent on AI-generated content](overreliance-ai-dialogue-reduces-critical-analytical-thinking.md) — related
 - [Low-fidelity models are non-inferior to high-fidelity ones, which may induce overconfidence, per literature cited in the review](low-fidelity-non-inferiority-overconfidence.md) — related
 - [Overconfidence in situational awareness under stress increases risk-taking, and perceived team engagement reduces this overconfidence](team-engagement-reduces-sa-overconfidence-risk-taking.md) — related
+- [The article argues that fading scaffolding and non-expert constraints mitigate the risk that AI assistance erodes critical thinking](scaffolding-fade-mitigates-ai-dependence-risk.md) — related

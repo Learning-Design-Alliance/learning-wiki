@@ -54,3 +54,4 @@ Student t-tests and Wilcoxon–Mann–Whitney tests comparing 25 men and 93 wome
 - [Among low-performing medical undergraduates (lower GPA quartile), low optimism, low resilience and high perceived stress predict poor academic performance](low-optimism-low-resilience-high-stress-predict-poor-gpa-medical-students.md) — related
 - [Perceived PBL group effectiveness does not differ by prior PBL experience or gender](no-difference-pbl-experience-gender-tgei.md) — related
 - [Male students reported higher self-efficacy than female students in both Studies 2 and 3, and self-efficacy mediated the gender effect on learning in Study 3](gender-self-efficacy-difference-mediation.md) — reports the opposite
+- [Students with the lowest high school graduation grades report significantly higher initial perceived stress than the best-graded quartile, while male and female students do not differ](prior-grades-gender-initial-stress.md) — related

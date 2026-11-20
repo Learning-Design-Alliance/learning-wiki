@@ -56,3 +56,4 @@ The authors' interpretive report (type e) from their year-long implementation in
 - [Including astronomy topics improves science literacy and specific competencies, with many effect sizes of 0.8 or larger](astronomy-inclusion-improves-science-literacy.md) — related
 - [Astronomy topics are among the most interesting science topics for young people](astronomy-topics-high-young-people-interest.md) — related
 - [High-school students are reported to be able to assimilate modern physics concepts such as gravitational waves and relate them to their daily lives](students-assimilate-modern-physics-concepts.md) — related
+- [Students showed limited motivation to pursue a physics career but wanted to learn more about gravitational-wave physics](motivation-topics-vs-career-pursuit-divergence.md) — related

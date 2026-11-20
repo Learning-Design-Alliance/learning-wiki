@@ -46,3 +46,4 @@ Instructor-reported observation from repeated implementations of the lunar imagi
 
 ## Related Claims
 - [Native speakers in theme-set courses tend to ignore the primary text while engaging supplemental multimodal materials](native-speakers-skip-primary-text-with-theme-sets.md) — related
+- [Hands-on telescope observation of the Moon increased students' observational skills and familiarity with lunar geological features](telescope-observation-increases-student-observational-skills.md) — related

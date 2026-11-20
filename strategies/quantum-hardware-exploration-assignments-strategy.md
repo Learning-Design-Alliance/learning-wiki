@@ -49,6 +49,7 @@ Hardware exploration assignments let students run programs on real quantum devic
 - [Teach quantum computing through reproducible code boxes that students run locally and on real quantum hardware](reproducible-code-boxes-quantum-teaching-strategy.md)
 - [Sequence learning from literature, through simulation, to authentication via real remote experiments](simulate-then-authenticate-with-remote-experiment.md)
 - [Resource estimation assignments comparing the resources of alternative quantum algorithm implementations](resource-estimation-assignments-strategy.md)
+- [Use real-hardware experiment results that deviate from theory to motivate a discussion of quantum error correction](real-hardware-error-observation-strategy.md)
 
 ## Examples
 -

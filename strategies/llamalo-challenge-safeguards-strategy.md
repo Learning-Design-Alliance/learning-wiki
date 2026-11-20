@@ -45,6 +45,7 @@ The article recommends addressing the chatbot's challenges both computationallal
 ## Related Strategies
 
 - [Use LLM chatbots as interactive tutors for mechanics concepts while verifying reliability and addressing ethics and bias](llm-chatbot-tutors-mechanics-with-verification-caveats.md)
+- [Safeguard LLM feedback for students by stripping identity information, limiting interaction rounds, and forcing validated JSON output](llm-feedback-safety-safeguards-strategy.md)
 
 ## Examples
 -

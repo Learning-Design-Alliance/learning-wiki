@@ -49,3 +49,4 @@ Analysis of student performance data on linear equations in the author's environ
 - [When SRL is measured at a fine grain size (specific strategies), self-reports show low calibration with behavioral measures](fine-grained-srl-self-reports-low-calibration.md) — related
 - [DINA models fit FCI and EMCS posttest data well but fit FMCE data only marginally](dina-fit-fci-emcs-good-fmce-marginal.md) — related
 - Educational data mining and learning analytics on fine-grained learner data is the most actively growing area in evaluation of learning environments — related
+- [Teachers integrating intelligent tutors lacked access to fine-grained interaction data and needed support summarizing engagement, diagnosing step-level difficulties, and comparing performance over time](teachers-lack-access-fine-grained-tutor-data.md) — related

@@ -62,3 +62,4 @@ Multivariate linear regression on the matched sample (n=80) adjusting for baseli
 - [The simulation-first advantage on OSATS was not robust in sensitivity and multivariate analyses adjusting for baseline robotic experience](simulation-first-advantage-not-robust-sensitivity.md) — related
 - [The e-learning advantage is robust to prior NIHSS knowledge, prior NIHSS courses, ward experience, and multi-day completion, but only immediate retention was tested](e-learning-nihss-advantage-robust-sensitivity-immediate-only.md) — related
 - [Effects of LP-based personalization are robust to individual characteristics such as school satisfaction, technology experience, gender and age](personalization-effects-robust-to-individual-characteristics.md) — related
+- [Students with no prior LLM-tool experience gained significantly more in final scores than prior users within the experimental group](no-prior-llm-experience-greater-gain.md) — related

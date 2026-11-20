@@ -72,3 +72,4 @@ Same Question 1 analysis; the author judges the relatively common answer about p
 - [EJSS dashboard data can reveal students' specific misconceptions, e.g. confusing an angle with its complement in vector problems](ejss-dashboard-reveals-vector-angle-misconception.md) — related
 - [Students show mixed misconceptions about length contraction, including viewing length as inherent and attributing contraction to high speed](length-contraction-misconceptions-students.md) — related
 - [Students substitute the easier question about speed for the target question about velocity, omitting direction](attribute-substitution-velocity-speed.md) — related
+- [Dewey's analysis of the second BCI question revealed misconceptions about gene dosage, dominance in homozygous organisms, and the functional roles of genes.](dewey-gene-deletion-analysis.md) — related

@@ -51,6 +51,7 @@ The authors' forward-looking recommendation for inquiry labs: keep collaborative
 - [Structure and incentivize equitable collaboration in lab groups: rotating roles, regular re-grouping, individual tinkering time, and scaffolded task division with TA buy-in](equitable-collaboration-structuring-strategy.md)
 - [Future lab studies should analyze student positioning and body language to reveal how roles are assigned or assumed](positioning-body-language-lab-role-assignment-strategy.md)
 - [Assign and make deliberate explicit group roles such as group PI, reviewer, or science communicator in lab curricula](explicit-group-roles-lab-curricula.md)
+- [Explicitly assign and rotate lab group roles, with reflection on role participation](assign-rotate-lab-group-roles.md)
 
 ## Examples
 -

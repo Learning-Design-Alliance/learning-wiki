@@ -39,6 +39,7 @@ The authors outline extensions to CourseGraph in the discussion. They state that
 ## Related Strategies
 
 - [Extend the alignment framework to machine translation evaluation and cross-lingual summarization, with recalibrated λ](extend-alignment-to-mt-and-cross-lingual-evaluation.md)
+- [Future extensions: link lessons via summarization transformers, connect outcomes through Bloom taxonomy levels, and infer prerequisites from assessment performance](future-extensions-bloom-prerequisites-lessons.md)
 
 ## Examples
 -

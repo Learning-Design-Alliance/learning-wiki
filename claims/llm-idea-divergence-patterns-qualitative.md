@@ -70,3 +70,4 @@ Table 2 reports divergence-theme percentages across LLMs (n = 294 clusters): bro
 - [GPT responses reliably incorporated broad ideas from instructions but resisted precise control](gpt-broad-ideas-incorporated-precise-control-lacking.md) — related
 - [LLM-simulated student ideas moderately overlap with teacher- and student-generated lesson ideas (mean cosine similarity 0.52), with larger LLMs slightly outperforming Mistral-7B](llm-simulated-ideas-moderate-overlap-lesson-ideas.md) — related
 - [LLM misconception analysis that ties student errors to instructional content reveals insights not apparent from performance data alone](llm-misconception-analysis-reveals-insights-beyond-performance-data.md) — related
+- [Analogies generated with a student-specified topic are longer on average (235.5 words) than analogies where the LLM selects the topic (179.2 words)](student-specified-topics-yield-longer-analogies.md) — related

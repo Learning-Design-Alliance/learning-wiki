@@ -54,3 +54,4 @@ Qualitative coding of the 38 interviews identified this subtheme in 17 of 38 stu
 - [Perceived condescension from male professors activated stereotype threat for a woman physics major, reducing her sense of belonging and discouraging her from asking questions](condescension-stereotype-threat-disengagement.md) — related
 - [Some female physics students reported instructors and advisors underestimating their abilities and potential](underestimated-abilities-potential.md) — related
 - [Exam culture with failing class averages and curving left physics majors feeling discouraged regardless of final grade](failing-exam-averages-discourage-physics-students.md) — related
+- [All seven undergraduate women physics majors interviewed recalled negative experiences with their male peers during college](women-physics-majors-negative-male-peer-interactions.md) — related

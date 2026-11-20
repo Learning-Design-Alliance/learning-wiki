@@ -60,3 +60,4 @@ Descriptive comparison in a seven-week pilot with 33 master's students randomly 
 - [Live feedback shifts the router's strategy from the Feynman prompt favored in simulation to the scaffolding Coach prompt, with superior live performance](sim-to-real-strategy-shift-feynman-to-coach.md) — related
 - [Learning-by-teaching an LLM improved assignment and project performance versus historical cohorts, but not exam performance, in an undergraduate CS course](learning-by-teaching-llm-improves-assignments-projects.md) — related
 - [The scaffolding word-learning advantage disappears in remote (online) learning sessions](scaffolding-advantage-disappears-remote.md) — related
+- [LLM-guided self-reflection after an assignment did not significantly improve exam scores two weeks later compared to no reflection (Study 1)](llm-reflection-exam-no-significant-gain-study1.md) — related

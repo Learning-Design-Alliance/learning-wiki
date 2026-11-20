@@ -51,3 +51,4 @@ Secondary ANOVA analysis in the Maine study examining instructional duration (Mo
 - [CLASP students achieved an average normalized FCI gain of 0.39, above the traditional-course range and in the middle of the interactive-engagement range, despite only about a third of one quarter on mechanics](clasp-fci-normalized-gain.md) — possibly the same claim (merge candidate)
 - [Active student engagement during class significantly improves conceptual understanding and problem solving over traditional passive lectures](active-engagement-beats-passive-lecture-hake.md) — a broader claim this one bears on
 - [The learning activity may be a stronger factor for student learning than the modality of instruction](activity-stronger-factor-than-modality.md) — related
+- [Learning gains differ significantly across instructional methods (lecture-only, PFLT, in-person PFOLT, asynchronous PFOLT)](anova-learning-gains-instructional-methods-planet-formation.md) — related

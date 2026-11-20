@@ -47,3 +47,4 @@ The review reports an interdisciplinary study by Monteyne, Gonzalez, and Loverud
 ## Related Claims
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
 - [A student uses macroscopic physics phenomena (magnets, springs) as productive analogies for microscopic biological energy storage in ATP](macroscopic-analogies-for-microscopic-biological-energy.md) — related
+- [Introductory students’ grasp of the proportionality between internal energy and temperature for an ideal gas is weak and strongly context-dependent](weak-context-dependent-e-t-proportionality.md) — related

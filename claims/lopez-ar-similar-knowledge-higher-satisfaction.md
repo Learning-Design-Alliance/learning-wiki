@@ -79,3 +79,4 @@ Study of 67 neuropsychology students comparing a mobile AR application for brain
 - [Students using stereoscopic VR did not significantly outperform students using WebGL simulations or static 2D images on 3D magnetostatics items](vr-no-outperform-webgl-images-magnetostatics.md) — related
 - [No significant difference in knowledge gain between VR and 2D-drawing groups among participants with professional background](no-vr-gain-for-professionals.md) — related
 - [VR-based learning of a construction detail yields significantly better knowledge gain than 2D drawings for participants with little pre-existing knowledge](vr-better-knowledge-gain-low-prior-knowledge.md) — related
+- [Oral placement therapists viewing unmodified 2D lecture video scored higher on a knowledge test than those viewing modified stereoscopic 3D VR video (92.00% vs 77.80% average)](vr-video-lower-knowledge-test-than-2d-lecture.md) — related

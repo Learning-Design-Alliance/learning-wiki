@@ -51,3 +51,5 @@ The review's synthesis of Richland et al. (2009) reports that untested-informati
 - [Transfer of test-enhanced learning is weakest to rearranged stimulus-response items, to untested materials seen during initial study, and to problems involving worked examples](transfer-weakest-rearranged-untested-materials-worked-examples.md) — related
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — related
 - [Social skills are positively related only to evidence elicitation quality, with inconsistent support across studies](social-skills-relate-evidence-elicitation-only.md) — related
+- [Prequestioning at the end of lecture sessions enhances subsequent test performance on prequestioned versus non-prequestioned concepts in an undergraduate chemistry course (overall d = 2.04)](prequestioning-effect-environmental-chemistry.md) — related
+- [Prequestioning showed no significant benefit for the Climate Change topic](prequestioning-null-climate-change-topic.md) — related

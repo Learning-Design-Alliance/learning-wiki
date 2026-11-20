@@ -69,3 +69,4 @@ Null pairwise comparisons among the three lower-performing models in the same pa
 - [GPT-4 and Tongyi Qianwen exceeded the 70% passing threshold set to align with Canadian Royal College examination standards, while the other three models did not](gpt4-tongyi-exceed-70-percent-passing-threshold.md) — related
 - [Claude and Bard showed a drop in accuracy on higher-order thinking questions (56.7% and 52.9%) relative to lower-order questions, while GPT-4 maintained similar accuracy across both question types](higher-order-question-performance-drop-claude-bard.md) — related
 - [GPT-4 achieves the highest pooled accuracy among LLMs (81%), significantly outperforming GPT-3.5 (60%)](gpt4-highest-accuracy-81-outperforms-gpt35.md) — related
+- [GPT-4 improves gaze and question-answering simulation relative to GPT-3.5, while Gemini Pro and Llama 2 70B drop on those measures](foundation-model-comparison-student-simulation.md) — related

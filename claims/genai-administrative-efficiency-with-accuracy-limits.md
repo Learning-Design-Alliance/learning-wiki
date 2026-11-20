@@ -72,3 +72,4 @@ The review reports Danahy et al.'s (2024) mixed-methods study of AI-supported ve
 - [Large language models can produce fluent but factually inaccurate or fabricated outputs (AI hallucination), posing risks for uncritical users in science education](llm-hallucination-risk-science-education.md) — a broader claim this one bears on
 - [Foxglove Elementary distributes leadership across staff roles but has few mechanisms to coordinate the work](foxglove-decentralized-leadership-weak-coordination.md) — related
 - [IDs reported that GenAI enhanced collaboration with team members and stakeholders such as SMEs](genai-collaboration-smes.md) — related
+- [Adoption varied across teams: some integrated GenAI as a team collaborator, others restricted it to isolated use cases, and one group discontinued it](genai-team-adoption-variation.md) — related

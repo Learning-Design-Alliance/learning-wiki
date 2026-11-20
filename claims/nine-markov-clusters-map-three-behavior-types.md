@@ -53,3 +53,4 @@ Markov chain analysis of state sequences from 822 models, clustered via Jensen-S
 - [A Hidden Markov Model over knowledge states identifies Analytical Thinking (A5) as the learning bottleneck with the lowest forward transition probability](hmm-identifies-a5-bottleneck.md) — related
 - [Pairs managed mutual awareness through spatial and temporal affordances and developed attention-getting protocols finer-grained than turn-taking](awareness-attention-management-shared-workspaces.md) — related
 - [Behavioral patterns evolve over time: Construction dominates learners' first models while Exploration becomes more frequent in later models](modeling-behavior-patterns-evolve-over-time.md) — related
+- [SOM clustering of logged Stateful paths identifies three major student behavioural groups A, B, and C covering 76% of the student population](som-clustering-three-stateful-student-groups.md) — related

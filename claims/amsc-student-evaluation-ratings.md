@@ -72,3 +72,4 @@ Survey at the end of the eight-week Akamai program (11 respondents), seven weeks
 - [Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue](osce-high-acceptance-interns-valuable-continue.md) — related
 - [Residents rated PERCS-ICU as very useful and high-quality, rated the case scenario as very realistic, and all would recommend the course](percs-icu-high-satisfaction-ratings.md) — related
 - [Students responded very positively to the course's content arrangement, with progression as the guiding design principle](progression-principle-well-received.md) — related
+- [In the CDS pilot, 85% of surveyed students (17/20) found the subject valuable or very valuable](cds-pilot-85-percent-subject-value.md) — related

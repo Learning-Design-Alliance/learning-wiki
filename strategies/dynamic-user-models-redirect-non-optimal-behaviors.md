@@ -50,6 +50,7 @@ The article recommends embedding dynamic user models that monitor students' inte
 - [Dynamically update student model thresholds during learning to counter concept drift](dynamic-threshold-updating-concept-drift.md)
 - [Use AI chatbots to provide dynamic, personalized explanations that adapt to a student's specific misunderstandings](llm-dynamic-personalized-explanations-strategy.md)
 - [Integrate affective computing to analyze user emotional state and adapt tutor responses](affective-computing-emotional-valence-extension.md)
+- [Nudge learners toward active practice and mitigate gaming behavior in LLM-based conversational tutoring](nudge-active-practice-mitigate-gaming.md)
 
 ## Examples
 -

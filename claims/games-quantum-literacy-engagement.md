@@ -51,3 +51,4 @@ Authors' interpretive claim about game-based learning for quantum principles, de
 - [A kinesthetic game in which students play qubits and scientists lets high-school students experience quantum features and discover underlying rules from experimental data first-hand](kinesthetic-qubit-game-first-hand-experience.md) — related
 - [Specific game features scaffold scientific thinking in ways the authors claim are non-existent in most inquiry-based learning environments](ar-game-features-scaffold-argumentation.md) — related
 - [The worksheet is designed to address documented naive conceptions in quantum physics and to let students demonstrate understanding at higher Bloom's taxonomy levels](worksheet-addresses-naive-conceptions-bloom-levels.md) — related
+- [The article argues that early exposure to quantum information concepts helps young learners build stronger appetence for the field](early-quantum-exposure-builds-appetence.md) — related

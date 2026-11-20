@@ -73,3 +73,4 @@ Same combined teacher attitudinal questionnaire (Table 4); question 4(d) on fund
 - [High school teachers reacted positively to the RSA training and expressed willingness to include the activity in their teaching](teachers-positive-reaction-rsa-training.md) — related
 - [Three professional development formats enabled teachers with little prior Einsteinian physics knowledge to gain content knowledge and confidence to teach it from Year 3 to Year 10](three-pd-formats-upskill-teachers-einsteinian-physics.md) — related
 - [77.1% of participants want to learn more about gravity and general relativity and 82.5% say Einsteinian physics should be in the curriculum](students-favour-gr-in-curriculum.md) — related
+- [Teachers' sense of readiness to teach quantum differed by professional development format: 83% of extended in-person workshop participants expressed confidence versus 54% of online workshop participants](pd-format-readiness-quantum.md) — related

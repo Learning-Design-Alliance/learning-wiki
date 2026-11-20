@@ -54,3 +54,4 @@ Discussion of results from an evaluation using authentic student submissions fro
 - [Baseline LLM reflective responses were highly detectable, and persona and typo prompts progressively reduced separability from real student responses](reflection-prompt-reduces-detectability.md) — related
 - [A graded likelihood detector prompt produced more consistent separation than a binary yes/no detector prompt](likelihood-prompt-beats-binary-detection.md) — related
 - [Non-invigilated Physics essays and coding assessments are highly vulnerable to automated LLM completion, while university-level Physics question answering is not substantially threatened](non-invigilated-essays-coding-vulnerable-to-llms.md) — related
+- [AI-authored essays showed significantly richer vocabulary and longer average word length than human essays, but this did not yield higher scores](ai-essays-lexical-differences-no-score-advantage.md) — related

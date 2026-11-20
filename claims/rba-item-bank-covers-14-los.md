@@ -69,3 +69,4 @@ Item-complexity tally across the 101 combined items shows "38 items (38%) assess
 - [Expert Q-matrix coding closely matched DINA-recovered structure, with only 2.7% of item-LO codings changed during validation](qmatrix-validation-low-change-rate.md) — related
 - [Classification accuracy met or exceeded benchmarks for 19 of 22 LO-assessment combinations, with three EMCS energy LOs below the acceptable range](classification-accuracy-22-lo-combinations.md) — related
 - [Misspecification of theoretical diagnostic classification models and inaccurate Q-matrices impact classification accuracy](tdcm-qmatrix-misspecification-hurts-classification.md) — related
+- [Item coverage of skills is inconsistent across content areas, with very few items assessing apply vectors or visualizations for energy and momentum](skill-content-coverage-gaps-energy-momentum.md) — related

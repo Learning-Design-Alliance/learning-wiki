@@ -51,3 +51,4 @@ Model evaluation reported in Table I: MMLU, Hellaswag, and GPT-4-turbo-judged st
 - On question answering and commonsense reasoning the model outperforms previous best results by up to 8.9% on Story Cloze and 5.7% overall on RACE — related
 - [No significant differences emerged between GPT-3.5 Turbo and Claude 3 Opus on affective, collaborative, or performance measures](no-difference-gpt35-turbo-claude3-opus.md) — related
 - [Fine-tuned 8B LLMs generate K-2 stories with difficulty-related metric scores statistically significantly different from (mostly better than) zero-shot GPT-4o and Llama 3.3 70B](finetuned-8b-llms-beat-zero-shot-large-models-on-difficulty-metrics.md) — related
+- [Performance on MMLU, HellaSwag, and Winogrande remains relatively stable regardless of student or tutor response training](mmlu-hellaswag-winogrande-stable.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-20
 recheck_by: 2026
 sources:
   - id: tanuj-kumar-and-mikhail-a-kats-2023
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
+> **Currency** · newest study 2023 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` ChatGPT-4/CI gave correct answers more consistently than ChatGPT-4 because the Code Interpreter performed the arithmetic and symbolic operations. [→ Tanuj Kumar and Mikhail A. Kats 2023](#tanuj-kumar-and-mikhail-a-kats-2023)

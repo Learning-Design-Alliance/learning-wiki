@@ -59,3 +59,4 @@ System Usability Scale ratings in the 42-student experiment: Mindful M=55.56 (D 
 - [Both systems were usable with no significant differences in technical difficulties, practicality, or reading of messages](anchored-vs-forum-usability-comparable.md) — related
 - [Students gave positive feedback on DPP and rated guided problem solving highly, but hints, chat, and participation-rate display were rated less useful](student-feedback-dpp-sceppsys.md) — related
 - [Learning gain, educational experience and adjective ratings did not differ by year of study; only SUS usability was significantly higher for current-year students](ethics-game-no-year-of-study-differences-except-sus.md) — related
+- [Students who engaged in LLM-guided reflection reported higher willingness to interact with the LLM tutor again (Study 1)](llm-reflection-willingness-interact-again.md) — related

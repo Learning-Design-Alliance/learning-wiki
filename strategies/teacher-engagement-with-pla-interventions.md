@@ -58,6 +58,7 @@ The article's central recommendation is that teachers be engaged with predictive
 - [Pedagogical nudges triggered by WBA analytics to encourage engagement](wba-analytics-pedagogical-nudges.md)
 - [Use early cheating-risk predictions only for low-stakes support with human review, never for disciplinary decisions](support-oriented-use-of-cheating-risk-predictions.md)
 - [Predict and warn students at risk to assist teacher management and prevent selective ignoring](achievement-prediction-early-warning-strategy.md)
+- [Use learning analytics from VLE logs rather than student feedback alone to detect low engagement with pre-class work](learning-analytics-detect-hidden-disengagement.md)
 
 ## Examples
 -

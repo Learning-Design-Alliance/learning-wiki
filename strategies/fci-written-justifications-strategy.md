@@ -41,6 +41,7 @@ The authors recommend extending FCI deployment so that "students justify each of
 - [Use varied research question types, including asking students about answers they would not naturally choose, to access knowledge not revealed by select-and-justify tasks](varied-question-types-research-strategy.md)
 - [Deploy AI misconception screening in a risk-stratified way: revise vulnerable question values at authoring time, pair AI screening with mark-scheme-style reference reasoning, and use follow-up probing questions rather than binary classification](risk-stratified-ai-misconception-screening.md)
 - [Ask teachers why a student might give an answer rather than what is wrong with it, to focus attention on the student's construction of ideas](ask-why-might-student-give-answer.md)
+- [Ask students to explain why wrong multiple-choice answers are wrong and why they chose their answer, then have an AI bot analyze the explanations](ai-analyzed-explanation-strategy.md)
 
 ## Examples
 -

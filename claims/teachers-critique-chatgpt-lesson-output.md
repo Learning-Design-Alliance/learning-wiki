@@ -70,3 +70,4 @@ Reflexive thematic analysis of the same 11 teachers' written responses (Table 2 
 - [The mathematics teacher viewed digital storytelling positively as attention-grabbing but found story preparation difficult and time-consuming](teacher-positive-but-preparation-time-consuming.md) — related
 - [Teachers assessed the co-designed academic content as better suited to mathematics than French and too difficult for students with special needs, proposing fewer topics with more repetition](pal-content-assessment-math-over-french-accessibility.md) — related
 - [Time was the most pervasive resource barrier, identified by two-thirds of studies](time-barrier-two-thirds-pal-studies.md) — related
+- [Lesson plans contained both appropriate and inappropriate ChatGPT use cases, including reliance on non-existent video links and visual tasks unsuited to text-based ChatGPT](appropriate-inappropriate-chatgpt-use-cases.md) — related

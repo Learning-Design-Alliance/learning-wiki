@@ -57,3 +57,4 @@ Longitudinal phenomenographic interview study of ten mentees in remote 2020 phys
 - [Remote REU mentees reported the experience was highly beneficial and the remote format did not open a gap between their objectives and outcomes](remote-reu-mentees-reported-highly-beneficial-outcomes.md) — related
 - [Almost every remote REU mentee described achieving their goals and most intended to apply to graduate programs](remote-reu-goal-attainment-graduate-school-intentions.md) — related
 - [Remote REU mentees reported growth in psychosocial attributes including sense of belonging, self-efficacy, and physics identity](remote-reu-psychosocial-growth.md) — a broader claim this one bears on
+- [Online CURE students reported strong sense of belonging to the field and community of astronomy](online-cure-sense-of-belonging.md) — related

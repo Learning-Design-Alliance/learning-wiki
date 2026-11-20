@@ -47,3 +47,4 @@ Five-topic ablation (n=5 topics, one run each) comparing the full pipeline to a 
 ## Related Claims
 - [Engagement removal lowers the adaptive score, indicating the engagement generator realizes persona-conditioned style choices in narration](engagement-realizes-adaptive-style-in-narration.md) — related
 - [Within-judge variance of the repeated LLM-judge rubric is negligible, but cross-model-family agreement remains untested](within-judge-stability-llm-rubric.md) — related
+- [Analogies generated with a student-specified topic are longer on average (235.5 words) than analogies where the LLM selects the topic (179.2 words)](student-specified-topics-yield-longer-analogies.md) — related

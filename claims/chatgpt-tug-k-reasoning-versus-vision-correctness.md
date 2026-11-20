@@ -57,3 +57,4 @@ Qualitative binary coding of 780 ChatGPT responses (first 30 of 60 surveys) by b
 - [All four multimodal LLMs show a marked decrease in correct response rates on visually-based versus text-only JNEOT questions](llm-visual-question-decline-jneot.md) — a broader claim this one bears on
 - [ChatGPT performed 34.4 percentage points lower than students on objective 1 (determining velocity from a position graph)](chatgpt-tug-k-objective-1-gap.md) — related
 - [LLM accuracy drops from 96% on text-only to 74% on multimodal physics problems, with significant differences emerging among models](multimodal-physics-accuracy-drops-to-74-percent.md) — a broader claim this one bears on
+- [TUG-K performance among Bogotá Physics I students fits a two-group model with proportions 0.6 and 0.4](tug-k-two-group-fit-bogota.md) — related

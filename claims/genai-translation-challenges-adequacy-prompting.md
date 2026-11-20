@@ -89,3 +89,4 @@ In the qualitative dataset, 18 of 63 participants voiced concerns that "the over
 - [GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation](genai-hidden-verification-labor-invisible.md)
 - [Participants' prompting was often limited, with poorly formulated prompts leading to vague or unhelpful outputs](poorly-formulated-prompts-vague-outputs.md)
 - [AI-assisted outputs are more similar to each other than purely human-authored ones, indicating a homogenization risk](ai-assisted-outputs-homogenization-risk.md) — related
+- [Prompting was a more profound challenge than participants anticipated: only two mentioned it as a concern before exposure, while 21 found phrasing prompts challenging afterwards.](prompting-underestimated-challenge-chatgpt-learning.md) — related

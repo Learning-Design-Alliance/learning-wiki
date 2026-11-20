@@ -48,9 +48,10 @@ The article argues the field's status quo promotes an unhealthy, extremely compe
 - [Invest in retention of teachers of color through residencies, affinity groups, and induction/mentoring](retain-teachers-of-color-residencies-affinity-mentoring.md)
 - [Avoid labeling student questions or problems as easy, trivial or obvious, and address observed bias or microaggression rather than staying silent](avoid-trivial-labels-address-bias-physics.md)
 - [Actively address status hierarchies through the multiple abilities intervention and the assigning competence intervention.](status-interventions-multiple-abilities-assigning-competence.md)
+- [Implement structured group roles, open communication, and bias-awareness training to promote inclusivity in physics labs](structured-roles-bias-training-inclusive-physics-labs.md)
 
 ## Examples
 -
 
 ## Key Sources
-- Cann, J. M., Martinez, A. O., Barnes, A., Doan, S., Ilesanmi, F., Lazzarini, M., Monsue, T., Pinedo, C., Cabrera Salazar, N., & Steele, A. (2023). Early Career Perspectives: For the NASA SMD Bridge Program Leads. NASA SMD Bridge Program Workshop white paper. https://arxiv.org/abs/2310.15287
+- Cann, J. M., Martinez, A. O., Barnes, A., Doan, S., Ilesanmi, F., Lazzarini, M., Monsue, T., Pinedo, C., Cabrera Salazar, N., & Steele, A. (2023). Early Career Perspectives: For the NASA SMD Bridge Program Leads. NASA SMD Bridge Program Workshop white paper. https://arxiv.org/abs/2310.15287. [doi:10.48550/arxiv.2310.15287](https://doi.org/10.48550/arxiv.2310.15287)

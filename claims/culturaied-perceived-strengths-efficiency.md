@@ -51,3 +51,4 @@ Qualitative-dominant mixed-methods pilot (N = 4) using thematic analysis of inte
 - [Educators broadly view AI-generated text customization to student interests and reading levels as a desirable opportunity, particularly for ELs](genai-text-customization-desirable-opportunity.md) — related
 - [SWOT analysis concluded blended learning is the ideal future teaching concept and e-Learning implementation creates new cooperation opportunities without saving time](swot-blended-learning-ideal-concept.md) — reports the opposite
 - [Trainees and trainers hold mixed views on AI-generated heat maps for postoperative coaching](mixed-trainee-trainer-views-ai-heat-maps.md) — related
+- [Teachers in the study saw value in ATB, citing time savings and quick agent training, and expressed willingness to integrate it into their classrooms.](atb-teachers-see-value-willing-to-adopt.md) — related

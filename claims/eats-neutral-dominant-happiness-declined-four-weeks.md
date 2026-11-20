@@ -47,3 +47,4 @@ Descriptive analysis of EATS log data collected at 10-s intervals from 40 studen
 ## Related Claims
 - [Tiredness rose steadily across the four weeks of live online lectures, from 4.93% to 8.24% of recorded time](eats-tiredness-upward-trend-four-weeks.md) — related
 - [EATS showed high agreement with expert observation for happiness, surprise, sadness, and fear (92.5–97.5%) and for attention (97.5%)](eats-bland-altman-high-agreement-emotions-attention.md) — related
+- [Photo-based emotion analysis showed the holographic group expressed more happiness and surprise and less neutral and sadness than the other groups during sessions](holographic-group-more-happiness-surprise-emotion-analysis.md) — related

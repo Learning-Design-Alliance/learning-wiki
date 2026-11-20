@@ -51,6 +51,7 @@ The article recommends analyzing time-stamped video-player interaction logs (pla
 ## Related Strategies
 
 - [Model student performance on complex activities starting from in-class engagement measures rather than video clickstream features](model-complex-performance-from-in-class-engagement.md)
+- [Use learning analytics from VLE logs rather than student feedback alone to detect low engagement with pre-class work](learning-analytics-detect-hidden-disengagement.md)
 
 ## Examples
 -

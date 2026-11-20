@@ -48,3 +48,4 @@ Observational SCORM usage data across 29 modules for 264 students. The first mod
 - [Most students completed the online modules and passed the embedded review quizzes](high-module-completion-blended-pathology.md) — related
 - [In examination weeks, students revisited prior topics and used exercises, whose deadlines had passed, as formative practice for the exams](exam-weeks-exercises-as-formative-practice.md) — related
 - [Usage of the online cases rose sharply when a summative component was added, even for purely optional cases](summative-component-increases-optional-case-usage.md) — related
+- [Before gamification, engagement with pre-lecture quizzes in the flipped statistics course was extremely low and declined across the semester](low-baseline-pre-lecture-quiz-engagement.md) — related

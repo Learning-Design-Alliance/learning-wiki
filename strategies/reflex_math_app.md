@@ -61,9 +61,11 @@ Reflex operationalizes the research consensus that fluency with basic facts free
 - [Children who began the school year behind national norms gained closer to five additional months of math learning from the intervention](../claims/emc-pd-largest-gains-behind-norms-children.md) [+W]
 
 ## Related Strategies
+
 - [Timed Retrieval Practice](../strategies/timed-retrieval-practice.md) — the core mechanism Reflex automates
 - [Mastery-Based Progression](../strategies/mastery-based-progression.md) — Reflex advances students only after demonstrated fluency per fact
 - [Gamified Practice](../strategies/gamified-practice.md) — the reward and game layer that sustains engagement across repeated sessions
+- [Progress game difficulty systematically across repeated sessions (Easy, then Medium, then Difficult) over a multi-week intervention](week-by-week-difficulty-progression-games.md)
 
 ## Examples
 - **Reflex Math (ExploreLearning)** — [https://www.explorelearning.com/reflex/](https://www.explorelearning.com/reflex/); used district-wide as a grades 2–6 fluency intervention, with educator dashboards tracking "fluency growth" per student.

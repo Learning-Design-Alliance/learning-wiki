@@ -69,3 +69,4 @@ Authors' analysis of item mapping found the energy LOs' item overlap "reflects t
 - [Misspecification of theoretical diagnostic classification models and inaccurate Q-matrices impact classification accuracy](tdcm-qmatrix-misspecification-hurts-classification.md) — a broader claim this one bears on
 - [The combined FCI, FMCE, and EMCS item bank covers all 14 learning objectives with at least six items each, mostly single- or two-LO items](rba-item-bank-covers-14-los.md) — related
 - [DINA models fit FCI and EMCS posttest data well but fit FMCE data only marginally](dina-fit-fci-emcs-good-fmce-marginal.md) — related
+- [Classification accuracy is high (over 0.9) for most measured skills but low for FCI visualizations (0.79) and EMCS algebra (0.63)](skill-classification-accuracy-three-mechanics-rbas.md) — related

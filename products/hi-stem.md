@@ -28,4 +28,4 @@ HI-STEM is a humanities- and social-sciences-informed curriculum framework creat
 -
 
 ## Key Sources
-- Lee, E., Hart, A. N., Searles, T. A., Levis-Fitzgerald, M., Barthelemy, R. S., Shaked, S., Marks, V., & Carbajo, S. (2023). Education for a Future in Crisis: Developing a Humanities-Informed STEM Curriculum. https://scholar.google.com/scholar?q=Education+for+a+Future+in+Crisis+Developing+a+Humanities-Informed+STEM+Curriculum
+- Lee, E., Hart, A. N., Searles, T. A., Levis-Fitzgerald, M., Barthelemy, R. S., Shaked, S., Marks, V., & Carbajo, S. (2023). Education for a Future in Crisis: Developing a Humanities-Informed STEM Curriculum. https://scholar.google.com/scholar?q=Education+for+a+Future+in+Crisis+Developing+a+Humanities-Informed+STEM+Curriculum. [doi:10.48550/arxiv.2311.06674](https://doi.org/10.48550/arxiv.2311.06674)

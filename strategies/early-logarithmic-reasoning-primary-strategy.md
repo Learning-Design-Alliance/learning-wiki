@@ -54,4 +54,4 @@ The article recommends teaching powers of ten early, using child-friendly langua
 -
 
 ## Key Sources
-- Lonshakova, A., Blair, D. G., Treagust, D. F., & Zadnik, M. (2023). Powers of the Universe: Empowering primary school students with the powers of ten notation. https://arxiv.org/abs/2311.18192
+- Lonshakova, A., Blair, D. G., Treagust, D. F., & Zadnik, M. (2023). Powers of the Universe: Empowering primary school students with the powers of ten notation. https://arxiv.org/abs/2311.18192. [doi:10.48550/arxiv.2311.18192](https://doi.org/10.48550/arxiv.2311.18192)

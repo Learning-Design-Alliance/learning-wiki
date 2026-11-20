@@ -55,3 +55,5 @@ Semi-structured empathetic interviews with 38 female undergraduate and first-yea
 - [In one woman's interview account, recognition from a peer teaching assistant and from the students she later taught as a peer teacher improved her sense of belonging and self-efficacy in physics-adjacent courses](recognition-boosts-belonging-self-efficacy-women-physics.md) — related
 - [Some female physics students reported instructors and advisors underestimating their abilities and potential](underestimated-abilities-potential.md) — a narrower finding that bears on this claim
 - [Sense of belonging experiences, such as encouragement and exclusion, shape students' interest in a method](sense-of-belonging-shapes-method-interest.md) — a broader claim this one bears on
+- [Faculty perceptions separating academic-bound from industry-bound students affect women's recognition, competence, and belonging in physics](career-path-perceptions-recognition-competence-belonging.md) — related
+- [All seven undergraduate women physics majors interviewed recalled negative experiences with their male peers during college](women-physics-majors-negative-male-peer-interactions.md) — related

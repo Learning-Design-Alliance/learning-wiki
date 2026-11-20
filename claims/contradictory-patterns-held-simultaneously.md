@@ -52,3 +52,4 @@ Re-analysis of a pre-interview with a student in an introductory algebra-based p
 - [About two-thirds of interviewed students claimed containers with and without a vertical draining pipe drain in the same time](equal-draining-time-misconception.md) — a narrower finding that bears on this claim
 - [Half of interviewed students claimed a fluid element descending a uniform vertical pipe accelerates](vertical-pipe-accelerated-flow-misconception.md) — related
 - [After completing General Physics courses, many university students fail to recognize how a fluid element interacts with its environment, distinguishing poorly between confined and unconfined fluid](fluid-element-interaction-difficulties-post-instruction.md) — related
+- [Exposure to an explainer video containing misconceptions increases students' misconceptions without raising perceived understanding](misconception-video-increases-misconceptions.md) — related

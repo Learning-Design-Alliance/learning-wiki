@@ -45,6 +45,7 @@ The coding exam is the only guaranteed individual marking: students solve relati
 
 - [Use a simple computational exercise that can be 'tweaked' with a few lines of code to solve a different, equally intensive problem almost for free](notebook-tweak-almost-for-free-strategy.md)
 - [Free students from routine programming work when using computer modelling in physics](free-students-from-routine-programming.md)
+- [Provide nearly completed code with only a few pieces to finish, plus full solutions for self-checking](nearly-completed-code-scaffolding-strategy.md)
 
 ## Examples
 -

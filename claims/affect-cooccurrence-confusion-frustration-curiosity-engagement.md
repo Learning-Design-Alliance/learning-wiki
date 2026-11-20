@@ -70,3 +70,4 @@ Paired-samples t-tests comparing confidence values for both orderings of the two
 - [Curious, optimistic, and confused are the most frequently reported affective states, and self-caught reports are more evenly distributed than probe-caught reports](affect-frequency-distributions-reporting-methods.md) — related
 - [Probe-caught affect reports show stronger self-loops among core epistemic states, while self-caught reports show more distributed transitions involving higher-arousal states](reporting-method-shapes-affective-network-structure.md) — related
 - [Instructors' interaction distributions during small group time are independent of their distributions during whole class time](sg-wcd-distributions-independent.md) — related
+- [Frustration sometimes preceded persistence and sometimes co-occurred with it during debugging](frustration-precedes-cooccurs-persistence.md) — related

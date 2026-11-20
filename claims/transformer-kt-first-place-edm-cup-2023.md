@@ -53,3 +53,4 @@ Contest evaluation on the held-out private ASSISTments evaluation set, with pred
 - [Rank-averaged ensembling stabilized predictions but did not outperform the single base model](ensemble-stabilizes-but-not-better-than-model1.md) — related
 - Replacing the transformer with a single-layer 2048-unit LSTM drops the average score by 5.6, with the LSTM winning only on MRPC — related
 - [Ablation study: removing any component lowers evaluation AUC, and removing all additional features yields the lowest public and private AUCs](ablation-all-features-maximize-auc.md) — related
+- [The ClickTree method achieved an AUC of 0.78844 on test data and ranked second in the EDM Cup 2023.](clicktree-auc-078844-ranked-second-edmcup2023.md) — reports the opposite

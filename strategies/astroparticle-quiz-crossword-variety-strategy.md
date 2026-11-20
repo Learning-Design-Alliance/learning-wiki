@@ -48,6 +48,7 @@ Based on participant feedback, the authors report that "New activities are curre
 - [Embed puzzles and challenges in simulations for continued engagement and self-assessment](embed-puzzles-and-challenges-in-sims.md)
 - [Integrate crossword puzzles, social media and online resources into EFL teaching to engage passive learners](integrate-crossword-social-media-efl.md)
 - [Integrate peer-to-peer Puzzle activities into the regular academic schedule to maximize participation](integrate-puzzle-regular-academic-schedule.md)
+- [Maximize humor, drama, and visualization in projects using current events and popular topics](humor-drama-visualization-project-strategy.md)
 
 ## Examples
 -

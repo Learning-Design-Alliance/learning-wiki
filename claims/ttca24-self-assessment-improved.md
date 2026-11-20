@@ -55,3 +55,4 @@ Pre/post self-assessment of the 25 learners using the TTCA-24 domains (team flow
 - [In-situ team simulation surfaced emergent leadership from any team member and strengthened team identity among ward colleagues](insitu-simulation-emergent-leadership-team-identity.md) — related
 - [Students' self-reported confidence after simulation cases is independent of the role they took during the simulation](simulation-confidence-independent-of-role.md) — related
 - [Self-reported pre/post feedback on a Docker training event showed a perceived improvement in knowledge, but the measure only probes self-reported learning](docker-training-self-reported-knowledge-gain.md) — related
+- [Twelfth-grade students' self-assessed scientific abilities improved significantly after ISLE-iOLab modules, with Cohen's d from 0.59 to 1.24](isle-iolab-self-assessed-scientific-abilities-gains.md) — related

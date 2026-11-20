@@ -45,6 +45,7 @@ The strategy is a chronological teaching sequence: the lecturer first reminds st
 ## Related Strategies
 
 - [Introduce quantum topics through analogies with familiar classical engineering content, from classical control theory to Fourier filter design.](classical-first-analogies-quantum-engineering-teaching.md)
+- [Introduce mathematical and physical formalism only after intuitive understanding based on applications has been aroused.](applications-before-formalism-quantum-moocs.md)
 
 ## Examples
 -

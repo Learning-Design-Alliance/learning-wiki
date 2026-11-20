@@ -44,6 +44,7 @@ The review recommends introducing metacognitive interventions into educational p
 - [Use metacognitive interventions to promote adaptive use of cognitive tools](metacognitive-interventions-adaptive-offloading.md)
 - [Incorporate biofeedback-assisted mindfulness into school educational policies and continue psychophysiological monitoring of at-risk students](school-policy-biofeedback-assisted-mindfulness-strategy.md)
 - [Use explicit formative-assessment interventions to help advanced physics students develop learning and self-monitoring habits of mind](explicit-formative-assessment-advanced-courses.md)
+- [Incorporate reflection mechanisms into LLM tutors to make them engaging and support metacognition](incorporate-reflection-into-llm-tutors.md)
 
 ## Examples
 -

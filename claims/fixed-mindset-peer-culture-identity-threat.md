@@ -64,3 +64,4 @@ Theoretical argument in the review's identity-threat pathway section. The author
 - [BME students report masking their identity to fit in and to avoid negative stereotyping](bme-students-identity-masking.md) — related
 - [A hidden-curriculum culture in which difficulties are seen as a sign of weakness makes seeking support and additional training stigmatising, particularly for IMGs and BME UKGs](hidden-curriculum-weakness-stigma-help-seeking.md) — related
 - [Semantic network analysis showed statistically significant interdependencies between positive persistence and growth mindset, important early undergraduate experiences, gender stereotype threat, external recognition, and confidence](persistence-interdependencies-semantic-network.md) — related
+- [Culturally responsive mentoring combats the effects of stereotype threat on HMGs](culturally-responsive-mentoring-combats-stereotype-threat.md) — related

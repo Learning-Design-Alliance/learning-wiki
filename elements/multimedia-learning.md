@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 66 claims (46 for, 20 mixed) · 60 studies (35 causal, 7 review, 6 quant-synthesis, 5 associational, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 15 of 60 report an effect size · 61 claims rest on one study
+> **Evidence** · 68 claims (46 for, 22 mixed) · 61 studies (36 causal, 7 review, 6 quant-synthesis, 5 associational, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 15 of 61 report an effect size · 63 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -102,6 +102,8 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [Interns using the interactive multimedia eBook reported more positive attitudes, enjoyment, perceived skill support, intuitiveness and confidence than PowerPoint users](../claims/ime-ebook-more-positive-attitudes-than-powerpoint.md) [+W] — attached 2026-11-09 from Hsiao Chih-Cheng et al. (2016), which proposed "SimMAGIC interactive multimedia eBook atlas of blood cell morphology".
 - [Interactive gravity simulations with student-proposed models helped fifteen grade 11 students understand that a mass creates the gravitational field and potential, which paper representations had not made clear](../claims/gravity-simulation-shows-mass-creates-field-grade11.md) [+W] — attached 2026-11-17 from Loo Kang Wee (2020), which proposed "Epub3 electronic book-chapter prototypes on Simple Harmonic Motion and Gravity for the Singapore-Cambridge A-level"; tests this page's relationship.
 - [Sighted classmates appreciated the additional tactile, 3D graphical and oral-explanation accommodations made for a blind student](../claims/sighted-students-appreciated-tactile-aids.md) [+W] — attached 2026-11-18 from Holt et al. (2018), which proposed "Sonification of scientific data and detector signals using LoggerPro, MATLAB, and Mathematica".
+- [Oral placement therapists viewing unmodified 2D lecture video scored higher on a knowledge test than those viewing modified stereoscopic 3D VR video (92.00% vs 77.80% average)](../claims/vr-video-lower-knowledge-test-than-2d-lecture.md) [~M] — attached 2026-11-20 from Killough (2018), which proposed "Researcher-built stereoscopic 3D VR anatomy video overlaid on a TalkTools lecture, produced with 3D Organon VR, Oculus Rift, and Final Cut Pro X"; tests this page's relationship.
+- [Participant reception of VR-modified video was polarized: 2D viewers reported higher average enjoyment, knowledge gained, and engagement, while exactly half of 3D viewers preferred VR to traditional lecture](../claims/polarized-reception-vr-vs-2d-video.md) [~M] — attached 2026-11-20 from Killough (2018), which proposed "Researcher-built stereoscopic 3D VR anatomy video overlaid on a TalkTools lecture, produced with 3D Organon VR, Oculus Rift, and Final Cut Pro X".
 
 ## The evidence by question
 

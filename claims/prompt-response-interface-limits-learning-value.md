@@ -58,3 +58,4 @@ The Perspective reports, citing prior empirical work, that the prompt–response
 - [Prompt engineering quality predicts LLM output quality and is a required skill for goal-directed GenAI use](prompt-engineering-predicts-llm-output-quality.md) — related
 - [Students rarely cross-check ChatGPT outputs, and use it most on topics where they have least knowledge, increasing risk of absorbing errors](students-rarely-cross-check-chatgpt-errors.md) — related
 - [Custom prompt engineering did not measurably improve ChatGPT-4/CI problem-solving performance on the tested problems](custom-prompts-no-measurable-gain.md) — related
+- [Through sequenced DFT long prompts, a majority of students produced a working discrete Fourier transform after the first prompt and all students after the second](lbcg-dft-prompt-learning-outcomes.md) — related

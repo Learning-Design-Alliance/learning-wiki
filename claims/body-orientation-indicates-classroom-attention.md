@@ -68,3 +68,4 @@ Case analysis of continuous course visualization (Figure 10, case B, minutes 14�
 - [Machine learning analysis of regular video recordings can support conclusions on learners' visual perception in lectures](machine-learning-video-learners-visual-perception.md) — a broader claim this one bears on
 - [Hard-sample filtering threshold τ = 0.2 and orientation loss weight λ = 0.05 yield the best detection–orientation balance](tau-lambda-ablation-optimal-settings.md) — related
 - [A decoupled prediction head improves orientation estimation over a coupled head across YOLOv5 and YOLOv11 backbones](decoupled-head-improves-orientation-estimation.md) — related
+- [GPT-4V characterizes learners' small-group engagement from seating orientation and suggests improvements](gpt4v-analyzes-learner-engagement.md) — a narrower finding that bears on this claim

@@ -56,3 +56,4 @@ In vivo classroom experiment comparing an Explanation Condition of the Geometry 
 - [Galperin-based geometry instruction enabled poorly performing sixth graders to identify geometric items correctly, with 93% giving conceptual explanations](galperin-geometry-concept-teaching-experiment.md) — related
 - [Classroom homework materials rarely include worked examples or explanation requests](homework-items-rarely-worked-examples.md) — related
 - [RelLab's frame-switching simulation supports student reasoning beyond static event diagrams and improved concept-question performance](rellab-frame-switching-supports-reasoning.md) — related
+- [A worked-example intervention in regular high-school science classrooms yields significant and practically relevant gains in procedural and conceptual knowledge of USS and OMR, including near and far transfer, relative to a conventional-task control group](worked-examples-improve-uss-omr-knowledge.md) — related

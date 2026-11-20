@@ -49,3 +49,4 @@ Supplementary post-training satisfaction questions completed by the 32 attending
 - [Participants rated the VOC training highly on means efficacy, usefulness, and satisfaction, suggesting strong perceived value of the tool.](voc-training-high-means-efficacy-satisfaction.md) — related
 - [Participants approved the simulation-based laparoscopic training program at very high rates, with module ratings of excellent or very good for all respondents](high-satisfaction-simulation-laparoscopic-program.md) — related
 - [Residents rated PERCS-ICU as very useful and high-quality, rated the case scenario as very realistic, and all would recommend the course](percs-icu-high-satisfaction-ratings.md) — related
+- [Overall feedback on the storytelling activity was very positive, with 86.8% of students willing to participate again](positive-overall-feedback-willingness-participate-again.md) — related

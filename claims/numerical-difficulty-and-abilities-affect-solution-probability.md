@@ -47,3 +47,4 @@ Descriptive/logistic results on solution rates from the same eye-tracking experi
 ## Related Claims
 - [Numerical problem difficulty and lower mathematical abilities increase attention on numbers during the second solution phase](numerical-difficulty-second-phase-number-attention.md) — related
 - [Linguistic problem difficulty and lower linguistic abilities increase attention on situational text during the first solution phase of word-problem solving](linguistic-difficulty-first-phase-text-attention.md) — related
+- [OMR difficulty is compounded because its conceptual and mathematical prerequisites are strongly interrelated, making total task solution probability the product of the component probabilities](omr-interrelated-prerequisite-complexity.md) — related

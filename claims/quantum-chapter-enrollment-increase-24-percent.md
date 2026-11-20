@@ -49,3 +49,4 @@ Observational enrollment counts across two editions of the elective TCS course a
 - [Instructors report that popular media hype is a major motivator of student interest and enrollment in quantum computing electives](media-hype-motivates-student-enrollment-quantum-courses.md) — related
 - [Voluntary enrollment in the IAVSE course rose from 20 students in 2017 to 30 students in 2018, attributed by the authors to peer recommendation](iavse-enrollment-growth-cohorts.md) — related
 - [Students in the two editions achieved around 90% approval, an average grade of 15.5 out of 20, and gave the course the maximum student rating](quantum-chapter-approval-grades-ratings.md) — related
+- [About 35% of enrolled students dropped out of the first course iteration, in line with the TU Wien average for elective classes](35-percent-dropout-hybrid-quantum-course.md) — related

@@ -89,3 +89,5 @@ Inter-rater reliability from the same human evaluation, using exact overlap and 
 - [State-of-the-art conversational agents (Blender and GPT-3) replied adequately to students but were well behind human performance in helping the student (reported from a dialogue study)](conversational-agents-behind-human-helping-students.md) — related
 - [Inter-rater reliability between human experts and AI coding is very low](low-irr-experts-vs-ai-coding.md) — related
 - [An expert evaluator rated all GPT-4-generated tests as helpful and comprehensive but noted questions were too easy for specialists](expert-rated-tests-very-helpful.md) — related
+- [GPT-4 achieves moderate-to-high agreement with human annotations when applying the five-aspect math feedback rubric, with 76% average label accuracy and a 0.56 average correlation of rubric scores.](gpt4-rubric-agreement-math-feedback.md) — related
+- [Students rate human teachers higher than ChatGPT on problem-solving proficiency and prefer dialogues with human teachers](students-prefer-human-teacher-dialogue.md) — related

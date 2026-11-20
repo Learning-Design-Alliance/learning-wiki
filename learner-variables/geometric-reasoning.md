@@ -13,7 +13,7 @@ generated:
 # Geometric Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 58 claims (41 show a difference, 10 mixed, 7 no difference) · 38 studies (22 causal, 6 qualitative, 3 associational, 2 quant-synthesis, 2 design, 2 theoretical, 1 review), `q1`–`q3` · 5 of 38 report an effect size · 58 claims rest on one study
+> **Evidence** · 59 claims (41 show a difference, 10 mixed, 8 no difference) · 39 studies (23 causal, 6 qualitative, 3 associational, 2 quant-synthesis, 2 design, 2 theoretical, 1 review), `q1`–`q3` · 5 of 39 report an effect size · 59 claims rest on one study
 
 ## Description
 Geometric reasoning is the abstract thinking used to define shapes, analyse their properties and relationships, and argue about them; in the secondary grades it extends to formalising those arguments as written proofs. The Learner Variability Navigator notes that geometric knowledge gives concrete representations and models for abstract mathematical ideas, which can serve as an entry point to higher-order mathematical thinking. It is assessed with short geometry tasks that ask learners to explain their reasoning in writing or diagrams, which also reveal misconceptions, and with the geometry subtests of diagnostic batteries.
@@ -95,6 +95,7 @@ LVN follows it from grade 3 to grade 10. It is distinct from, but draws on, [spa
 - [Most pupils correctly explain that parallel lines meet and triangle angles differ from 180 degrees on curved surfaces after the intervention](../claims/curved-surfaces-70-percent-correct-answers.md) [+M] — measured as an outcome of the instruction studied
 - [Year 7 Einsteinian gravity instruction conflicted with concurrent Euclidean geometry teaching, producing persistent confusion](../claims/year-7-euclidean-geometry-conflict-curved-space.md) [+M] — measured as an outcome of the instruction studied
 - [Belief that space has no shape falls from 58.2% to 42.4%, with 9.2% post-intervention noting space is curved around masses but flat otherwise](../claims/space-shape-misconception-partially-shifts.md) [+M] — measured as an outcome of the instruction studied
+- [Learners judge field strength by the number of vectors drawn per spatial area, and this density misconception persists after instruction explicitly addressing it](../claims/density-misconception-persists-post-test.md) [-M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Geometry Tasks with Explanation** (e.g., Carroll, 1998): Short geometry tasks that elicit reasoning and argumentation through writing, diagrams, and other representations can be used to assess students' understanding and misconceptions of basic geometric properties while giving insight into students' thinking.

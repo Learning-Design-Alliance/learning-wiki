@@ -48,3 +48,4 @@ Latent class analysis of baseline teacher knowledge of ADHD, knowledge of behavi
 ## Related Claims
 - [Teachers with low baseline knowledge, intervention-supportive beliefs, and low baseline skills showed greater improvement under multi-component consultation than comparison consultation](multicomponent-consultation-benefits-barrier-teachers.md) — related
 - [Latent profile analysis of primary teachers' SRL competence yields two quantitative profiles (low vs. high competence) rather than three qualitatively distinct situative, cognitive, or mixed profiles](two-srl-teacher-competence-profiles-low-high.md) — related
+- [Latent class analysis identifies seven qualitatively different answer patterns, and most students change class between pretest and posttest](lca-seven-classes-class-shifts.md) — related

@@ -47,3 +47,4 @@ Authors' stated limitation in the Discussion: two interpretations of the expert-
 ## Related Claims
 - [No evidence that children of either age group acquired an abstract understanding of containment from the video](containment-abstraction-null-result.md) — related
 - [Mead holds that a method of thought cannot be transferred but must be gained through the learner's own abstractions](method-of-thought-cannot-be-transferred.md) — related
+- [Exposure to an explainer video containing misconceptions increases students' misconceptions without raising perceived understanding](misconception-video-increases-misconceptions.md) — related

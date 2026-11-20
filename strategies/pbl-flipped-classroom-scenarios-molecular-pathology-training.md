@@ -58,6 +58,7 @@ A concrete implementation recipe the article tested: combine problem-based learn
 - Problem Learning Objective Validation Triad
 - [Implement PBL as five-to-six-member student groups researching real-life wave problems and presenting solutions](pbl-group-problem-presentation-strategy.md)
 - [Design simulation scenarios around foreseeable crisis problems so participants practice troubleshooting skills](crisis-scenario-design-for-troubleshooting-practice.md)
+- [Support blind students' real-time code learning with flipped-classroom pacing, differentiated audio streams, and pre-course technical onboarding](flipped-onboarding-differentiated-audio-strategy.md)
 
 ## Examples
 -

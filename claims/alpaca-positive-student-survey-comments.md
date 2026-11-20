@@ -50,3 +50,4 @@ Analysis of free-response sections of institutional course surveys: 56 students 
 - [Students reported uniformly positive reactions to using IF-AT scratch-off cards in group review](ifat-student-comments-positive.md) — related
 - [In the first course offering, students rated overall course quality 6.05/7.00 and instructor quality 6.89/7.00, and all open-ended comments were positive](mathematica-course-high-satisfaction-ratings.md) — related
 - [Students respond positively to the OD3R method, reporting the course becomes more fun and laboratory reports easier to prepare](od3r-positive-student-response.md) — related
+- [Students who responded to end-of-semester questionnaires commented favorably on the LBCG scheme, with no critical comments on it in either iteration](lbcg-positive-student-feedback.md) — related

@@ -62,3 +62,4 @@ In this RCT, baseline MRT and anatomical knowledge tests showed no significant c
 - [Visual-spatial ability (MRT) shows no correlation with suturing skill improvement in this novice cohort](mrt-no-correlation-suturing-improvement.md) — related
 - [Mental rotation ability moderated elective-course gains: Theory-group students with high MRT scores improved significantly more than low-MRT peers, while Magic Mirror improvement was independent of MRT score.](mrt-moderates-anatomy-radiology-gains.md) — related
 - [Mental rotation accuracy and response time do not predict science achievement in this age range, unlike mental folding](mental-rotation-not-predicting-children-science.md) — related
+- [Metabook enables novice users to create 3D books with high usability, and usability and time satisfaction are uncorrelated with education level and waiting time](metabook-high-usability-novice-creation.md) — related

@@ -73,3 +73,4 @@ Sentiment analysis of open-ended survey responses conducted by ChatGPT4, which t
 - [Student feedback on the story-writing activity was overwhelmingly negative in both semesters despite high effort](story-writing-negative-feedback.md) — related
 - [Most players reached the neutral ending rather than the promotion ending, and student feedback drove design revisions](ethics-game-ending-distribution-and-revisions.md) — related
 - [Students' feedback on embedding wxMaxima and other CAS in Calculus courses was predominantly negative](student-feedback-negative-toward-cas-embedding.md) — related
+- [First-year computing students were overwhelmingly positive about generating recursion analogies with ChatGPT, with only 5.3% of coded reflections purely or partly negative](students-positive-sentiment-llm-analogy-activity.md) — related

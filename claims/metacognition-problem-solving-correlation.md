@@ -88,3 +88,4 @@ Correlational analysis of Qualtrics trace data and task scores. The article repo
 - [Girls showed more SRL strategic behaviours than boys but did not outperform boys on task performance; child age correlated with metacognitive, motivational behaviours and performance](gender-age-differences-kindergarten-srl.md) — related
 - [Critical thinking skills and problem solving skills are highly positively and significantly correlated in preservice elementary teachers](cts-pss-high-positive-correlation-preservice-teachers.md) — related
 - [Academic stress negatively predicts motivation, metacognitive strategies, critical thinking and academic performance](academic-stress-negatively-predicts-motivation-strategies-thinking-performance.md) — related
+- [Stateful behavioural classification predicts success in other parts of the course, with the fitted metric applicable to groups A and B but not group C](stateful-classification-predicts-course-success.md) — related

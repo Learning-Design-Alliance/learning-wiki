@@ -60,3 +60,4 @@ The authors read the result as a challenge to accounts of large individual diffe
 - [Individualizing the initial knowledge parameter reliably improves prediction of real-world data](individualizing-initial-knowledge-improves-prediction.md) — related
 - [Split-half stability analysis shows fitted learning-rate parameters are meaningful, with Spearman correlations between 0.5 and 0.7 across independent data halves](split-half-learning-rate-stability.md) — related
 - [Opportunity gaps in incoming chemistry content knowledge are present: prequiz scores varied widely and were predicted by coursework, PEER/first-generation status, and gender](prequiz-opportunity-gaps-chemistry-knowledge.md) — related
+- [Counting practice opportunities only after quiz feedback yields a better-fitting KC model than counting all practice attempts](quiz-adjusted-opportunity-model-better-fit.md) — related

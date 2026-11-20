@@ -51,3 +51,4 @@ A theoretical analysis in the general discussion estimated the independent-encod
 - [A rehearsal-based deficient-processing account cannot explain the developmental emergence of the spacing effect](rehearsal-account-inconsistent-with-developmental-spacing-pattern.md) — related
 - [The TTST advantage persists when no further presentations follow the retrieval manipulation, ruling out encoding-effort strategies (Experiment 3)](ttst-advantage-not-encoding-strategy.md) — related
 - [Repeated exposure to the same question shows clear evidence of learning, while many attempts predict lower grades consistent with guessing](repeated-exposure-learning-guessing-at-high-attempts.md) — related
+- [Students perform better on repeated questions than unique ones, yet frequent repetition correlates with lower quiz scores](repetition-boosts-performance-but-correlates-lower-scores.md) — related

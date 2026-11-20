@@ -24,7 +24,7 @@ sources:
 # Responsive Teaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (14 for, 11 mixed, 2 against) · 44 studies (12 review, 10 qualitative, 9 quant-synthesis, 8 causal, 2 associational, 2 theoretical, 1 design), `q1`–`q4` · 5 of 44 report an effect size · 18 claims rest on one study
+> **Evidence** · 28 claims (15 for, 11 mixed, 2 against) · 45 studies (12 review, 10 qualitative, 9 quant-synthesis, 8 causal, 3 associational, 2 theoretical, 1 design), `q1`–`q4` · 5 of 45 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -146,6 +146,7 @@ Visible thinking, the teacher's accurate reading of it, a well-chosen move, the 
 - [STEM PLC participation increases teachers' deliberation about students' mathematics or science thinking and shifts instruction toward attention to student reasoning and diverse problem-solving modes](../claims/stem-plc-instructional-practice-shifts.md) [~W]
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [+M]
 - [Teacher responsiveness is uniquely related to substantive quality of first-grade written composition after accounting for child predictors and other instructional quality variables](../claims/teacher-responsiveness-predicts-substantive-quality.md) [+W] — attached 2026-10-17 from Kim et al. (2013), which proposed "Promote teacher responsiveness to students' inquiries and responses as a lever for improving beginning writing quality"; tests this page's relationship.
+- [High tutor use of Revoicing is associated with much higher assessment scores for students with low ITS mastery](../claims/revoicing-predictive-low-mastery-students.md) [+W] — attached 2026-11-20 from Mark Abdelshiheed et al. (2024), which proposed "Align tutor talk moves with student content-mastery level: press for reasoning with high-mastery students, revoice for low-mastery students"; tests this page's relationship.
 
 ## Claims
 

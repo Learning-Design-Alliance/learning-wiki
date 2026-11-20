@@ -60,3 +60,4 @@ Qualitative error taxonomy drawn from the authors' review of GPT-4o responses (T
 - [Tabular summaries suggested solution methods remained static, but the tables cannot show how individual students' solutions changed](tables-hide-individual-response-change.md) — related
 - [Unit tests, homework and conversations with students are the most popular assessment techniques, and teachers use assessment feedback differently by location](unit-tests-hw-conversations-top-assessment.md) — related
 - [GPT-4 grading feedback sounds plausible but frequently contains incorrect or misleading statements](gpt4-feedback-plausible-but-misleading.md) — related
+- [GPT-4 tends to assume feedback is correct when it sounds convincing but incorrectly identifies the student error or provides an invalid suggestion, and has a high false positive rate on the diagnostic label.](gpt4-feedback-evaluation-shortcomings.md) — related

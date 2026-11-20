@@ -66,6 +66,7 @@ Elaborative interrogation is one of the most consistently supported learning tec
 - [Context-prompt reflection assignments in which students elaborate on a concept, apply it to a novel problem, and receive AI feedback](ai-reflection-context-prompt-assignments.md)
 - [Use elaboration, reactivation of prior knowledge, and desirable difficulty during encoding to build connected, detailed memories](encoding-elaboration-reactivation-strategy.md)
 - [Deliver elaborate immediate spoken feedback after ARS questions, covering why the correct answer is right and why alternatives fail](elaborate-spoken-feedback-after-ars-questions.md)
+- [Ask students to explain why wrong multiple-choice answers are wrong and why they chose their answer, then have an AI bot analyze the explanations](ai-analyzed-explanation-strategy.md)
 
 ## Examples
 - **Biology study guide:** after reading "capillaries have thin walls," students answer "Why would thin walls be useful for capillaries' function?" before checking the provided rationale.

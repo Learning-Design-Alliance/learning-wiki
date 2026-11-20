@@ -61,3 +61,4 @@ Theoretical argument in a commentary: the authors argue that action helps when i
 - [Modelling with Modellus helped students distinguish and correctly interpret multiple representations such as trajectories versus coordinate graphs](modellus-multiple-representations-interpretation.md) — a narrower finding that bears on this claim
 - [Transforming quantum-mechanics concepts into concrete computer representations is proposed as a route to deeper understanding than abstract representations allow](computer-representations-deeper-quantum-understanding.md) — related
 - [Using graphs effectively in physics requires four general skills](four-skills-graphs-physics.md) — related
+- [In a 7-student narrative-to-graph study, conceptual actions 4–7 were not achieved and only two students moderately achieved the central action 5](narrative-graphic-actions-not-achieved.md) — related

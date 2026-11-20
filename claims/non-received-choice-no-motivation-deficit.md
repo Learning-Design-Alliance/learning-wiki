@@ -54,3 +54,4 @@ Orthogonal contrast within the choice condition (N=73) between students who rece
 - [The most valued motivational item was autonomy or freedom of choice of the skills to acquire (M = 8.33)](maes-autonomy-choice-main-motivational-stimulus.md) — related
 - [Control group reported higher interest/enjoyment and perceived choice than the camera group](control-group-higher-interest-and-choice.md) — related
 - [Intrinsic motivation one week after training does not differ between in situ and off-site simulation participants](iss-oss-motivation-no-difference.md) — related
+- [Votes for the most surprising minicourse meeting were evenly distributed, with the three most-voted meetings tied to current Astrobiology research topics and to the scientists' own everyday experience](balanced-votes-top-three-astrobiology-meetings.md) — related

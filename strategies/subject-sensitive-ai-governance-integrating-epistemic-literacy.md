@@ -60,6 +60,7 @@ The article recommends moving beyond restrictive governance toward "a framework 
 - [Provide explicit pedagogical guidance on effective and ethical GenAI use within specific assessment contexts, beyond prohibitions](explicit-pedagogical-guidance-genai-assessment-contexts.md)
 - [Build educator AI literacy and pedagogical competence alongside student critical engagement with AI-generated content](educator-ai-literacy-and-critical-engagement.md)
 - [Develop student AI literacy and institutional GenAI policies, guidelines and safeguards for responsible integration](genai-literacy-and-institutional-policy-strategy.md)
+- [Balance GenAI integration by permitting documented use while steering students toward deliberate engagement in user research and feedback analysis](balanced-genai-integration-hci-courses.md)
 
 ## Examples
 -

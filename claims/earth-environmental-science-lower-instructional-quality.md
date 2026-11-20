@@ -48,3 +48,4 @@ Spring 2007 survey of CPS high school students on instructional climate, analyze
 ## Related Claims
 - [The requirement structure decreased the percentage of graduates completing both chemistry and physics, because mandated earth or environmental science pushed the combination into a fourth year](cps-requirement-reduced-chemistry-physics-combination.md) — related
 - Data practice emphasis varies across science disciplines, with environmental science and biology dominating the literature — related
+- [Pre-service teachers integrated ChatGPT into lesson plans spanning five science knowledge domains, with biology most frequent (9/29)](chatgpt-lesson-plans-five-science-domains.md) — related

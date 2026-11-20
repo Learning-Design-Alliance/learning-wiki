@@ -51,6 +51,7 @@ The author assigns computational projects, including the GW150914 analysis, that
 - [Incorporate computation into an existing classical mechanics course through in-class demonstrations followed by student projects that progress from template modification to independent construction](demonstration-template-to-independent-projects.md)
 - [Incorporate numerical calculation into introductory quantum courses to counteract abstraction-driven misconceptions](incorporate-numerical-calculation-in-quantum-courses.md)
 - [Include a fully solved test case before the graded case in computational homework to support debugging and build confidence](test-case-before-grading-case-homework.md)
+- [Embed computational skills into an existing lab course by replacing a preset analysis tool with Python while retaining original lab goals](embed-python-without-altering-course-structure.md)
 
 ## Examples
 -

@@ -47,6 +47,7 @@ The review's future-work section recommends that "Future peer-grading systems sh
 ## Related Strategies
 
 - [Future peer assessment tools should support unlimited reviewing, digital ink annotation, and more thorough evaluation studies](peer-assessment-tools-future-directions.md)
+- [Extend rubric-based feedback generation and evaluation to other domains, scenarios, and student-adaptive tailoring](feedback-framework-future-extensions-strategy.md)
 
 ## Examples
 -

@@ -59,3 +59,4 @@ Thematic synthesis across the reviewed studies; the review attributes the overde
 - [Delegating intellectual work to generative AI risks eroding epistemic agency through reduced critical effort and cognitive offloading](genai-delegation-erodes-epistemic-agency.md) — a broader claim this one bears on
 - [GenAI cognitive offloading of lower-order tasks frees cognitive resources but risks reduced human evaluation skills](genai-cognitive-offloading-benefits-and-risks.md) — related
 - [Attaining higher-order Bloom's skills such as create and plan requires retained lower-order knowledge, so lower skills cannot simply be delegated to lookup tools like ChatGPT](higher-order-bloom-skills-require-lower-order-knowledge.md) — related
+- [The article argues that fading scaffolding and non-expert constraints mitigate the risk that AI assistance erodes critical thinking](scaffolding-fade-mitigates-ai-dependence-risk.md) — related

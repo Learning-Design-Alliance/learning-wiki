@@ -52,3 +52,4 @@ Theoretical argument in a position paper: the authors review science-education l
 - [Argentine primary and secondary minimum-content curricula include the astronomy topics most associated with alternative conceptions](argentine-curricula-include-conflictive-astronomy-topics.md) — related
 - [Students learning astronomy topics fail to relate theoretical information with what they experience in the world around them](astronomy-students-fail-relate-theory-to-experience.md) — possibly the same claim (merge candidate)
 - [A non-negligible share of the general public holds misconceptions about the seasons, the poles, and the Sun's zenith position](general-public-astronomy-misconceptions-kahoot-2020.md) — related
+- [Hands-on telescope observation of the Moon increased students' observational skills and familiarity with lunar geological features](telescope-observation-increases-student-observational-skills.md) — a narrower finding that bears on this claim

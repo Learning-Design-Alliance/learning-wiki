@@ -57,3 +57,4 @@ Mueller and Dweck (1998) conducted six studies with late grade-school children c
 - [Students overwhelmingly categorize specific teaching practices as signaling growth versus fixed instructor mindsets](teaching-practices-signal-mindset-to-students.md) — related
 - [Teachers deliver more inflated praise to low-SES children after success, and observers perceive praised children as less smart](teacher-inflated-praise-low-ses-less-smart.md) — related
 - [Children perceive students receiving inflated praise as less smart than equally performing students receiving modest praise or no praise](children-perceive-inflated-praised-students-less-smart.md) — related
+- [Peer praise and support centered on effort framed setbacks as aspects of learning overcome with persistence](peer-effort-praise-frames-setbacks-as-learning.md) — related

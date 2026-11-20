@@ -73,3 +73,5 @@ Findings of the faculty error review in the Results section. The article also re
 - [The pass/fail standard produced false positives and a false negative, possibly because the simulator recognizes a specific fixed pathway](foi-test-false-positives-fixed-pathway-limitation.md) — related
 - [Automated note feedback system had occasional phrase recognition errors and false positives](automated-feedback-phrase-recognition-limitations.md) — related
 - [Students grading practice exams award significantly more points than a professional grader, about 25% more overall](peer-graders-more-lenient-than-professional.md) — related
+- [GPT-4 tends to assume feedback is correct when it sounds convincing but incorrectly identifies the student error or provides an invalid suggestion, and has a high false positive rate on the diagnostic label.](gpt4-feedback-evaluation-shortcomings.md) — related
+- [Across all feedback generation methods tested, most failures occur because the LLM cannot correctly identify the error in the student's incorrect answer, especially when multiple reasoning steps are required.](llm-failure-identifying-student-error.md) — related

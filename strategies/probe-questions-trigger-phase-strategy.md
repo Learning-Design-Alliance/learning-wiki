@@ -47,6 +47,7 @@ Teachers pose open-ended probe questions during or after free exploration to foc
 ## Related Strategies
 
 - [Guided Play](guided-play.md)
+- [Use guided focus-point questions during play to direct attention to redundancy–noise trade-offs](qec-game-focus-point-questions.md)
 
 ## Examples
 -

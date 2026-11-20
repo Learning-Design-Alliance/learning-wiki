@@ -57,3 +57,4 @@ A theoretical review in cognitive load theory, which reports two studies by othe
 - [Prior studies found pictures superior to video because target words did not require dynamic presentation](prior-picture-superiority-due-to-simple-concepts.md) — related
 - [Animation-enriched VP yields superior procedural quality compared with static-media VP, while video instruction does not differ from either](animation-enriched-vp-procedural-quality-pbls.md) — a narrower finding that bears on this claim
 - [Human Orrery activities with 10 to 16 year old children activate and link cognitive activities about kinematics and dynamics to sensori-motor activities](human-orrery-kinematics-sensorimotor-activation.md) — related
+- [Students' metacognitive reflections recommend instructors use concrete experiments and practical movement situations when teaching graphical representation](instructor-concrete-experiments-recommendation.md) — related

@@ -69,3 +69,4 @@ Model 2 variance partitioning for both London cohorts shows the interaction-effe
 - [Intersectional strata explain around 30% (age 11) and 25% (age 16) of the overall variance in London students' achievement](intersectional-strata-vpc-achievement-london.md) — related
 - [Predicted stratum effects are stable across the age 11 and age 16 cohorts, with correlations around 0.90 unadjusted and around 0.70 adjusted](stratum-effects-stable-across-cohorts.md) — related
 - [Stratum relative standing shifts between the age 11 and age 16 cohorts: the largest negative shift (-0.48 SD) is for summer-born FSM-eligible boys of Unclassified ethnicity without SEN, and the largest positive shift (0.53 SD) for autumn-born Asian girls with SEN not eligible for FSM](stratum-shifts-between-cohorts-london.md) — related
+- [Additive main effects account for 79.6% of between-strata variance, leaving 20.4% attributable to intersectional effects](pcv-strata-variance-main-effects.md) — related

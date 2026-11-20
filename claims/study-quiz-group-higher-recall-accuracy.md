@@ -69,3 +69,4 @@ Repeated-measures ANOVA with group as between-subjects factor and session and fl
 - [Quiz-only testing with open-ended questions produced a modest but statistically significant increase in recall accuracy across spaced sessions](quiz-only-modest-recall-increase.md) — related
 - [Quiz improvement is interpreted by the authors as retention of workshop content, since students received no performance feedback between quizzes](quiz-gain-interpreted-as-content-retention.md) — related
 - [Spaced recall quizzing improves long-term retention even when immediate feedback is not provided](testing-effect-persists-without-immediate-feedback.md) — a broader claim this one bears on
+- [In an online user study, KAR3L+Δ matches FSRS on post-test accuracy while reducing recall time, yielding higher testing throughput](kar3l-delta-policy-higher-testing-throughput.md) — related

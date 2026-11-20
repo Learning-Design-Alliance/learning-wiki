@@ -18,7 +18,7 @@ sources:
 # Analogies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 8 studies (6 causal, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 3 of 8 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 9 studies (6 causal, 2 qualitative, 1 quant-synthesis), `q2`–`q4` · 3 of 9 report an effect size · 5 claims rest on one study
 
 ## Description
 Analogies connect a new idea to a more familiar situation, structure, or experience so learners can reason about the unfamiliar in terms they already understand.
@@ -57,6 +57,8 @@ Analogies connect a new idea to a more familiar situation, structure, or experie
 - [Most participants described interest-personalized GenAI analogies as more engaging or memorable than generic technical explanations](../claims/personalized-analogies-more-engaging-memorable.md) [+W]
 - [Students created their own analogies after being introduced to analogies, and in-group activities increased](../claims/students-generate-own-analogies-after-exposure.md) [+W]
 - [Italian high school students' knowledge of gravity and General Relativity topics rose significantly from pre-test to post-test after a rubber sheet analogy activity, in one uncontrolled pre-post study](../claims/rsa-activity-improves-gravity-knowledge.md) [+W] — attached 2026-11-19 from Postiglione A et al. (2021), which proposed "Roma Tre rubber sheet analogy structure and 90-minute interactive gravity activity"; tests this page's relationship.
+- [First-year computing students were overwhelmingly positive about generating recursion analogies with ChatGPT, with only 5.3% of coded reflections purely or partly negative](../claims/students-positive-sentiment-llm-analogy-activity.md) [+W] — attached 2026-11-20 from Seth Bernstein et al. (2024), which proposed "ChatGPT-based analogy-generation lab exercise with prompt-crafting tips for explaining a recursive function".
+- [Students reported that LLM-generated analogies helped them understand recursion and that personally and culturally relevant analogies were easier to remember](../claims/personally-relevant-analogies-aid-recursion-understanding-recall.md) [+W] — attached 2026-11-20 from Seth Bernstein et al. (2024), which proposed "ChatGPT-based analogy-generation lab exercise with prompt-crafting tips for explaining a recursive function".
 
 ## Related Elements
 - [Analogies and Prior Knowledge Activation](analogies-and-prior-knowledge-activation.md)

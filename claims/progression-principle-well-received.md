@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-11-20
 sources:
   - id: luc-t-paoli-2024
     resource: "https://doi.org/10.1016/j.ece.2024.03.002"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Post-course survey responses indicated the arrangement of content and purpose of each section was very well received, supporting progression as a course-design principle. [→ Luc T. Paoli 2024](#luc-t-paoli-2024)

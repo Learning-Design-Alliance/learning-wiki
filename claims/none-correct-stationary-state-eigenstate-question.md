@@ -54,3 +54,4 @@ Written multiple-choice question administered to 10 students in a junior-senior 
 - [Students confuse stationary states with superpositions and expect non-stationary states to evolve into stationary states](stationary-state-and-time-evolution-misconceptions.md) — related
 - [Teaching of complex quantum behavior — time dependence, superposition, and the measurement problem — is barely investigated at the secondary and lower undergraduate level](complex-quantum-behavior-barely-investigated.md) — related
 - [Question 5 remained the most difficult after the CQS, with Class A averaging below 50% even after implementation](cqs-larmor-question-5-difficulty-persists.md) — related
+- [Students incorrectly treat eigenstates of any operator as stationary states: 23% made this error on CQS 1.1 and a higher 32% identified an Sx eigenstate as a stationary state on CQS 1.2, rising to 35% on re-polling](eigenstate-any-operator-stationary-state-difficulty.md) — related

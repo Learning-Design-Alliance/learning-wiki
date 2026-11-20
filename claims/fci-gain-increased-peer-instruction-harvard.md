@@ -110,3 +110,4 @@ Course-level comparison of FCI results across years of the Harvard calculus-base
 - [Rotating student groups at each interaction partly solved the influence of advanced students on average students in PI](group-rotation-reduces-advanced-student-influence.md) — related
 - [Median normalized gains across repeatedly taught courses generally exceeded 0.25, with one course improving between its first and third implementation](longitudinal-median-gains-exceed-025-fig1.md) — related
 - [Peer Instruction improved student performance on conceptual problems significantly, and slightly improved quantitative performance when quantitative problems counted toward the grade](peer-instruction-improves-conceptual-performance.md) — possibly the same claim (merge candidate)
+- [Peer discussion after individual work and hints increased scientifically correct isobaric-process explanations from 52% to 80%](peer-discussion-isobaric-explanations-52-to-80.md) — related

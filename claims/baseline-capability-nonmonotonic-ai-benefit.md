@@ -56,3 +56,4 @@ The paper cites two field experiments as its empirical grounding: a customer-sup
 - [Sequencing independent task engagement before LLM consultation is associated with stronger student outputs](independent-work-before-llm-stronger-outputs.md) — related
 - [Lower-baseline students show larger OSCE gains after AISP practice, narrowing the performance gap](aisp-cortex-catch-up-effect-low-performers.md) — a narrower finding that bears on this claim
 - [Participants with stronger prior knowledge and writing skill benefit most from AI-assisted active reading, while reading outside one's best field lowers accuracy](prior-knowledge-moderates-ai-learning-benefit.md) — a narrower finding that bears on this claim
+- [The article argues that LLMs constitute promising yet underutilized academic reading companions capable of enhancing learning](llms-promising-academic-reading-companions.md) — related

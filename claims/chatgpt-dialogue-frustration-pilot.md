@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-20
 sources:
   - id: bor-gregorcic-2024
     resource: "https://doi.org/10.1088/1361-6552/ad3d21"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All pilot participants were positive about the activity, but 5 of 17 expressed frustration with their interaction with ChatGPT, and some interrupted when interactions became overly exhausting. [→ Bor Gregorcic 2024](#bor-gregorcic-2024)
@@ -54,3 +55,4 @@ Self-reported reflections from the 17-participant pilot study. "5 of them also e
 - [LLM coders replicate many human discursive moves but lack questioning, adaptive responsiveness, and emotional expressiveness](claim-llms-replicate-discursive-moves-lack-questioning.md) — related
 - [Pre-service teachers successfully guided ChatGPT-3.5 to improve most wrong initial answers in a pilot study](pilot-teachers-guide-chatgpt35-successfully.md) — related
 - [Simulation interventions showed positive usability and feasibility, with technical preparation needs sometimes causing non-completion](usability-feasibility-technical-issues.md) — related
+- [The review reports that ChatGPT's lack of emotional intelligence may leave students frustrated or feeling alienated when their problems are not properly handled](chatgpt-lacks-emotional-intelligence-alienation.md) — related

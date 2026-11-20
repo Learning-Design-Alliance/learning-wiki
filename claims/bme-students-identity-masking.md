@@ -52,3 +52,4 @@ Thematic finding from the focus groups with 24 BME graduate-entry students; part
 - [Social identity threat impairs math performance via increased intrusive thoughts and working memory load (being-cognition disfluency)](social-identity-threat-working-memory-performance.md) — related
 - [Medical school social events centred on alcohol culture left BME students uncomfortable and isolated from peers](bme-students-social-events-alcohol.md) — related
 - [Hiding one's LGBT+ identity imposes extra emotional effort that saps energy and impacts productivity, according to the Guide's account of isolation and invisibility](identity-concealment-emotional-toll-productivity.md) — related
+- [Culturally responsive mentoring combats the effects of stereotype threat on HMGs](culturally-responsive-mentoring-combats-stereotype-threat.md) — related

@@ -47,6 +47,7 @@ The review's implications section sets three priorities for future work: standar
 - [Future online-training trials should follow TIDieR reporting, match comparison arms on duration and content, use Kirkpatrick's outcome hierarchy, and run factorial experiments optimising online features](tidier-reporting-and-factorial-designs-for-online-training-trials.md)
 - [Future research agenda: detailed BCT-coded systematic review, primary qualitative examination of patient experience, and economic analysis within trials](digital-asthma-research-gap-agenda.md)
 - [Future work should evaluate LLM performance on Part B, viva-style and clinical scenario assessments and study effects on trainee learning outcomes](future-llm-evaluation-part-b-viva-learning-outcomes.md)
+- [Prioritize future research on ChatGPT's efficacy in STEM subjects and its support for collaborative learning and mental health](future-chatgpt-research-stem-collaboration-mental-health.md)
 
 ## Examples
 -

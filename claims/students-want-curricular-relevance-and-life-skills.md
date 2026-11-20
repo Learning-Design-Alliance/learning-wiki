@@ -101,3 +101,4 @@ Same overview: students recognize durable skills like time management, collabora
 - [High-school students are reported to be able to assimilate modern physics concepts such as gravitational waves and relate them to their daily lives](students-assimilate-modern-physics-concepts.md) — related
 - [Teaching climate science in isolation can produce helplessness, disempowerment and apathy rather than motivation to act](climate-science-alone-causes-apathy.md) — related
 - [Over 40% of responses to a personal writing prompt connected course content to students' life files](writing-prompt-life-file-connections-over-40-percent.md) — a narrower finding that bears on this claim
+- [Students showed limited motivation to pursue a physics career but wanted to learn more about gravitational-wave physics](motivation-topics-vs-career-pursuit-divergence.md) — related

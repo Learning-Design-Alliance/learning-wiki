@@ -43,6 +43,7 @@ The article recommends the flipped classroom as an overload-limiting format: "Co
 - [Flipped Classroom](flipped-classroom.md)
 - [Discussion-Oriented Flipped Classroom](discussion-oriented_flipped_classroom.md)
 - [Flipped Learning](flipped-learning.md)
+- [Embed an endeavour-based gamification layer on the VLE to raise timely engagement with pre-lecture activities in flipped courses](endeavour-based-vle-gamification-strategy.md)
 
 ## Examples
 -

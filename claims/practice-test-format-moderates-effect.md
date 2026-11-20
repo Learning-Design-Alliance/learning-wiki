@@ -57,3 +57,4 @@ Moderator analysis of practice test format (Table 2): free-recall g = 0.62, cued
 - [Practice testing outperforms no-activity controls and restudy, with format and feedback moderators](practice-testing-superior-to-restudy.md) — reports the opposite
 - [Switching from written short-answer to multiple-choice test format did not substantially change score levels](test-format-written-vs-mcq-little-difference.md) — related
 - [Multiple-choice, short-answer, and hybrid retrieval-practice formats all improve delayed-test performance relative to no retrieval (review-reported)](multiple-formats-retrieval-practice-effective.md) — reports the opposite
+- [In the 2021 in-person implementation, gains were polarized by question format: open-ended questions showed effect sizes of 1.5-2.0 while multiple-choice questions showed 0.30-0.80](inperson-gains-polarized-open-ended-vs-multiple-choice.md) — related

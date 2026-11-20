@@ -58,6 +58,7 @@ The article's central design recommendation is a principled division of labor: a
 - [Use ChatGPT-4.0 as an adjunct practice tool for medical applicants preparing for the AAMC SJT, with human judgment retained](chatgpt-4-adjunct-sjt-preparation-tool.md)
 - [Human-in-the-loop quality control for AI-generated educational content](human-in-the-loop-ai-content-quality-control.md)
 - [Design blended learning environments that allocate AI tools to foundational knowledge and human expertise to conceptually challenging areas](blended-ai-human-allocation-strategy-medical-education.md)
+- [Use LM evaluators as coarse, preliminary evaluators to speed up educational content design, not as replacements for human evaluators or empirical studies](lm-as-coarse-evaluator-augmentor.md)
 
 ## Examples
 -

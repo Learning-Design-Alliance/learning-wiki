@@ -45,3 +45,4 @@ The article recounts the American Physical Society's World Year of Physics proje
 
 
 ## Related Claims
+- [Participant-estimated Earth radii in the collective experiment varied widely, from 0.1% to 42.8% difference from the theoretical value](eratosthenes-participant-radius-error-variation.md) — related

@@ -72,3 +72,4 @@ Table III percentages of students attempting the continuous-eigenvalue question 
 - [More than one-third of upper-level students incorrectly state that the Time-Independent Schrödinger Equation holds for all possible wavefunctions, not only energy eigenstates](qm-tise-holds-for-all-wavefunctions-difficulty.md) — related
 - [Only 29% of students correctly recognized that Hψ = Eψ holds only for stationary states, while 39% asserted it is unconditionally correct](hamiltonian-eigenvalue-statement-difficulty.md) — related
 - [Many graduate students incorrectly describe a stationary state as an eigenstate of any operator corresponding to an observable rather than an eigenstate of the Hamiltonian](stationary-state-misconception-eigenstate-of-any-operator.md) — related
+- [Some student difficulties persisted after the CQS, including multiplying eigenvalue by eigenstate as a measurement outcome](persistent-difficulties-measurement-outcome.md) — related

@@ -54,3 +54,4 @@ Interview excerpt (Nora) illustrating the theme 'Technology and STEM careers cre
 - [NITARP and its Spitzer predecessor reached thousands of students and influenced over 100 students to pursue science careers](nitarp-spitzer-reach-and-career-influence.md) — related
 - [In 2015, 70% of respondents said the event is useful to promote the researcher's role and 40% said it could encourage young people toward scientific careers](ern-2015-career-encouragement-perception.md) — related
 - [Students do not express the societal relevance of learning quantum physics for their own citizenship, even after acknowledging its applications](students-miss-citizen-voice-relevance-of-quantum.md) — related
+- [Students in the workshops reported interest in quantum spin and saw quantum science as relevant to the future of technology](student-interest-quantum-spin-workshops.md) — related

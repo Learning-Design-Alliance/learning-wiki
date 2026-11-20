@@ -59,6 +59,8 @@ The review recommends that deployment of agentic AI in education be governed by 
 - [Extend AI tutor implementation across modules, expand question banks, and establish ethical oversight guidelines](future-directions-ai-tutor-expansion-and-oversight.md)
 - [Stratified human oversight and verification safeguards for clinical LLM deployment, scaled to task risk](stratified-human-oversight-clinical-llm-deployment.md)
 - [Use LLM chatbots as interactive tutors for mechanics concepts while verifying reliability and addressing ethics and bias](llm-chatbot-tutors-mechanics-with-verification-caveats.md)
+- [Establish ethical safeguards and debrief participants when piloting LLM tools with learners](ethical-safeguards-debrief-llm-pilots.md)
+- [Safeguard LLM feedback for students by stripping identity information, limiting interaction rounds, and forcing validated JSON output](llm-feedback-safety-safeguards-strategy.md)
 
 ## Examples
 -

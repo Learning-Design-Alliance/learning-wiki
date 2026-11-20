@@ -53,3 +53,4 @@ One-month follow-up posttest in the same randomized trial (one resident missed t
 - [Knowledge scores decline significantly but slightly between the immediate test and the two-month retention test in both the Virtual Patient and lecture groups](knowledge-decline-over-time-both-formats.md) — related
 - [Medical students and residents show no significant difference in long-term knowledge retention (Test 2, after at least two months) between Virtual Patient training and a video-recorded lecture](vp-vs-lecture-similar-long-term-retention.md) — related
 - [Newly acquired ECG interpretation skills decline significantly between post-test and retention-test at every follow-up interval](ecg-skills-decline-after-tutorial.md) — related
+- [ViPS simulation-with-tutoring improved virtual-only learners from pretest to posttest, with no significant final-gain difference between virtual–physical sequences](vips-virtual-tutoring-prepost-gains.md) — related

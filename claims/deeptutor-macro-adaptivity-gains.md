@@ -47,3 +47,4 @@ Review reports the small-scale DeepTutor evaluation (n=30) of macro-adaptive lea
 ## Related Claims
 - [DeepTutor improves overall first-person interactive tutoring quality by 10.76% over a Naive Tutor baseline on TutorBench](deeptutor-improves-interactive-tutoring-quality-10-76.md) — related
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — a broader claim this one bears on
+- [ViPS simulation-with-tutoring improved virtual-only learners from pretest to posttest, with no significant final-gain difference between virtual–physical sequences](vips-virtual-tutoring-prepost-gains.md) — related

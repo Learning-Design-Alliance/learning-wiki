@@ -57,3 +57,4 @@ Regression-estimated standardized gaps by year and subject using weighted MAP Gr
 - [Kindergarteners in 2017 had moderately lower math and reading skills at school entry than kindergarteners in 2010](kindergarten-entry-skills-lower-2017-than-2010.md) — related
 - [Children's academic achievement at kindergarten entry has declined, per the article's abstract](declining-achievement-kindergarten-entry.md) — related
 - [Self-affirmation eliminated the Hispanic students' reading and mathematics deficit observed in the comparison group](self-affirmation-erased-hispanic-test-score-gap.md) — related
+- [A deep learning model predicted the White-Black racial achievement gap with moderate fit (R2 0.574), and higher student achievement scores were associated with a larger achievement gap](georgia-racial-achievement-gap-model-findings.md) — related

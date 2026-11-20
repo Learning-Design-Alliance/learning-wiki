@@ -47,6 +47,7 @@ The article recommends treating analogies themselves as objects of study: analog
 
 - [Creative Analogies and Comparisons](creative_analogies_and_comparisons.md)
 - [Increase formal training in theory development and treat theories as tools rather than group commitments](formal-training-theory-development-motivation.md)
+- [Relate specific teaching cases to the general theory to counter functional fixedness on standard examples](relate-specific-cases-to-general-theory-electromagnetism.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Simulation with artificial action logs built from the top 100 popular in-unit pr
 - [A wrong response preceding a help request is associated with a higher predicted probability of a correct end-of-unit response than the request alone](wrong-then-request-joint-effect-higher.md) — related
 - [NCA scores of IIU input vectors order action types identically to the main-effects ordering (Spearman's ρ = 1)](nca-scores-align-with-main-effects.md) — related
 - [Single instances of help-seeking actions (answer requested, explanation requested) carry more predictive information than single correct or open responses (ISA)](isa-help-seeking-more-informative-than-correct-response.md) — related
+- [Successful students showed significantly higher engagement action counts in in-unit assignments, while struggling students requested more hints, answers and explanations.](struggling-students-request-more-hints-answers-explanations.md) — related

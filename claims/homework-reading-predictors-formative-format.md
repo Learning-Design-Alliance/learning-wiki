@@ -52,3 +52,4 @@ Linear regression with final exam score as dependent variable across five semest
 - [Library homework scores correlate strongly with midterm and final exam scores for both distance and in-class learners](geas-homework-correlates-with-exams.md) — related
 - [Students who returned the optional multiple-choice homework gained 0.13 points between level test and final grade, while non-participants lost 0.02](sst-homework-participants-gain-013-nonparticipants-002.md) — related
 - [Homework effort correlates with test achievement as a stable linear 'academic main sequence' in introductory physics, at least until about 2016](academic-main-sequence-homework-effort-predicts-test-achievement.md) — related
+- [Course learners' final-exam scores correlated positively with the percentage of course items visited (R² = 0.27 in a linear regression).](openhpi-quantum-mooc-score-correlates-items-visited.md) — related

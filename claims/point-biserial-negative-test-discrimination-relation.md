@@ -62,3 +62,4 @@ Analytical derivation under CTT (equations 1.13–1.15) expressing the point-bis
 - [Point biserial coefficient exceeds the 0.2 criterion for 32 of the 33 STPFaSL items](stpfasl-point-biserial-32-of-33-items.md) — related
 - [Item-total point-biserial correlations inflate item discrimination scores, and item-excluded correlations provide a cleaner measure for classroom tests.](item-excluded-correlation-discrimination.md) — related
 - [Item parameters of homework and online-exam items differ only insignificantly between resource-usage classes, and no performance quartile benefited or was harmed by online resource use](item-parameters-and-quartiles-null-usage-effects.md) — related
+- [Point biserial coefficients exceed the 0.2 criterion for 71 of 78 items in-person, with the below-threshold entropy items showing advanced students performing comparably to introductory students](stpfasllong-pbc-entropy-items-below-threshold.md) — related

@@ -55,3 +55,4 @@ Observational ANOVA of cumulative GPA by visit category for the fall 2007 cohort
 - [Only the 200740F high-use group showed a significantly higher rate of good academic standing compared to non-visitors](tutoring-good-standing-significant-only-one-cohort.md) — related
 - [Cadets who used evening math tutoring improved their placement-to-FSE score gain more than the complete Calculus 1 cohort](evening-tutoring-larger-score-gains-calculus-1.md) — related
 - [Cadets who used the tutoring center had weaker math backgrounds than the cadet wing as a whole](tutoring-users-weaker-backgrounds-placement.md) — related
+- [Top-performing course learners visited significantly more course items on average than the remaining participants, visiting more than 92% of items on average.](openhpi-quantum-mooc-top-performers-visited-more-items.md) — related

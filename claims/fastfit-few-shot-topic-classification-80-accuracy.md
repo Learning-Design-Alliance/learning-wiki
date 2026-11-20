@@ -50,3 +50,4 @@ Evaluation of the FastFit classifier on a 70-question gold set labeled by a cour
 - [The FastFit classifier slightly outperforms GPT-4 used directly under the same closed-label prompt on the same gold set (0.800 vs. 0.786 accuracy)](fastfit-outperforms-gpt4-direct-classification.md) — possibly the same claim (merge candidate)
 - [Student teachers generated 2,181 Cipherbot conversations, dominated by topic inquiries targeting deepening understanding and clarifications](cipherbot-conversation-analytics-2181.md) — related
 - [Weak supervision combined with model-assisted labeling cut expert annotators' labeling time by 70% while maintaining accuracy comparable to traditional labeling](weak-supervision-model-assisted-labeling-reduces-annotation-time.md) — related
+- [Subject-matter experts correctly labeled 400 of 570 learning-outcome pairs (70%), supporting the use of large language models in curriculum mapping.](expert-validation-70-percent-pairs.md) — related

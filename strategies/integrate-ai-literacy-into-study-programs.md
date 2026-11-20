@@ -45,6 +45,7 @@ The authors argue that fostering responsible AI usage extends beyond tool design
 - [Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating](four-level-ethical-ai-integration-strategy.md)
 - [Instructional designers use AI-ARC across analysis, design, development, and evaluation to align outcomes with responsible AI integration](ai-arc-design-heuristic-for-instructional-designers.md)
 - [Outline strategies and technological interventions to alleviate over-reliance and foster responsible use of AI dialogue systems](strategies-interventions-responsible-ai-use.md)
+- [Integrate Generative AI literacy into curricula, including query formulation workshops and critical evaluation exercises](generative-ai-literacy-curriculum-integration.md)
 
 ## Examples
 -

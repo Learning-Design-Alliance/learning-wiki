@@ -51,3 +51,4 @@ Authors' interpretation of their own pilot experience, not a tested comparison. 
 - [88% of students approved the Arduino as a tool for producing physics experiments](88-percent-students-approve-arduino-tool.md) — related
 - [COVID-19 school closures highlighted the need to understand promising remote learning strategies when no classroom alternatives exist](covid-closures-highlight-remote-learning-strategy-need.md) — related
 - [Some instructors found remote-era practices so successful—including open-ended project-based labs and simulations—that they planned to retain them after returning to in-person instruction](instructors-retain-remote-practices-post-pandemic.md) — related
+- [More than 50% of students elected to perform Arduino-based experiments when given a choice](majority-elect-arduino-experiments.md) — related

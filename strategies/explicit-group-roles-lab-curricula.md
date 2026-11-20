@@ -49,6 +49,7 @@ The article proposes building explicit group roles into lab curricula, similar t
 
 - [Establish Group Roles](establish-group-roles.md)
 - [Add structured role assignments to inquiry-lab group work while preserving student decision-making agency](structured-roles-inquiry-lab-group-work.md)
+- [Explicitly assign and rotate lab group roles, with reflection on role participation](assign-rotate-lab-group-roles.md)
 
 ## Examples
 -

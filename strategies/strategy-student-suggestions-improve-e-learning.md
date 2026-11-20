@@ -46,6 +46,7 @@ Thematic analysis of the survey's open-ended responses turned student feedback i
 - [Improve XR-CBL case presentations with labeled structures, step-by-step guidance, focused videos, technical reliability, and embedded assessment](xr-cbl-case-presentation-improvement-strategy.md)
 - [Design flipped pre-class materials with limited video length, varied learning formats, and post-video assessment](fc-preclass-material-design-strategy.md)
 - [Implementation strategies for flipped clinical reasoning courses: manage pre-learning load, simplify quizzes, orient thoroughly, and use reflective journals for assessment](flipped-reasoning-implementation-strategies.md)
+- [In future online CURE iterations, introduce Python coding early, extend course length, and assign individual reports with phased feedback](online-cure-python-early-longer-course-strategy.md)
 
 ## Examples
 -

@@ -56,3 +56,4 @@ Descriptive analysis of state ECE enrollment and eligibility data reported in th
 - [Many U.S. children lack access to early learning programs: only 54% of 3- and 4-year-olds attend any preschool and 35% of eligible children participate in Head Start](ece-access-gaps-preschool-head-start-participation.md) — a broader claim this one bears on
 - [Only about half of eligible children attend NC Pre-K, leaving almost 33,000 eligible children per year unserved](nc-pre-k-half-of-eligible-children-unserved.md) — related
 - [The U.S. lags other industrialized nations in paid parental leave, prenatal care access, and child care cost coverage](us-lags-industrialized-nations-early-family-supports.md) — related
+- [Most quantum outreach initiatives target the upper range of K12, leaving audiences below age 12 under-served](under-12-quantum-audiences-underserved.md) — related

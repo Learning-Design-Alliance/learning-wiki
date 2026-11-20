@@ -51,3 +51,4 @@ The paper summarizes Thomas and colleagues' study of five black women from a lar
 - [Black students experience a more hostile campus racial climate than other students of color in schools](black-students-more-hostile-climate-than-other-students-of-color.md) — related
 - [Minoritized students reported lower belonging where peers endorsed more fixed mindset beliefs, with an asymmetric pattern](minoritized-students-belonging-peer-fixed-mindset.md) — related
 - [Underrepresented racial and first-generation students systematically report fewer institutional belonging opportunities than white and continuing-generation peers](underrepresented-students-fewer-belonging-affordances.md) — related
+- [Physics students largely welcome DEI interventions, with typically 75%–100% of participants responding positively](physics-students-welcome-dei-interventions.md) — related

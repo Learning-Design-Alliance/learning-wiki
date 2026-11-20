@@ -68,3 +68,4 @@ The authors report a contingency table analysis of the survey data finding "no a
 - [A majority of physics departments have faculty reporting experience teaching computation to undergraduates](faculty-experience-teaching-computation-majority.md) — related
 - [Formal computational physics degree programs are absent from most departments](computational-physics-degree-programs-rare.md) — related
 - [Computation is used mostly on homework and projects, rarely with interactive engagement or on exams](computation-homework-projects-common-interactive-exams-rare.md) — related
+- [Most surveyed physics faculty have not taught data science in their courses in the past five years, and few teach it in introductory courses](faculty-survey-data-science-rarely-taught.md) — related

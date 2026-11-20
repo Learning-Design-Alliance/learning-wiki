@@ -74,3 +74,4 @@ RQ2 mixed-effects regression with the male-female SCR gap as outcome. Indigenous
 - [A higher proportion of children in low-income households predicts higher physics continuation rates, even adjusting for median family income](low-income-household-share-higher-physics-continuation.md) — related
 - [The proportion of Black residents in a school's community is the only demographic factor that significantly predicts lower physics continuation rates for both grade 11 and grade 12](black-community-share-lower-physics-continuation-ontario.md) — related
 - [Physics has the greatest attrition of any STEM stream: 66% of male and 81% of female grade 10 science students do not continue to grade 12 physics](physics-greatest-attrition-grade-10-to-12.md) — related
+- [Black and Indigenous people are severely underrepresented among Canadian physics students and professionals](black-indigenous-physicists-severely-underrepresented-canada.md) — related

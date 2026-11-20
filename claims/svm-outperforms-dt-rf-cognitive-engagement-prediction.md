@@ -79,3 +79,5 @@ Test-set evaluation of three classifiers trained on 104 Coh-Metrix indicators pl
 - [Random forest and support vector machine models also failed to beat chance when predicting laboratory performance, supporting the null result](rf-svm-also-fail-beat-chance-lab-performance.md) — related
 - [A random forest model trained on U.S. PISA data identifies top-decile U.S. science achievers with 71.6% accuracy](us-trained-model-71-6-accuracy-top-decile.md) — related
 - [Machine learning on discussion-dialog indicators predicts group learning outcome as High, Mid, or Low with best accuracy of 78.9%](ml-prediction-group-outcome-78-9-percent.md) — related
+- [ClickTree with the CatBoost classifier achieved higher validation AUC than Random Forest, Decision Tree and Logistic Regression on the same features.](catboost-outperformed-rf-dt-lr-validation-auc.md) — related
+- [Extracting a decision tree from a random forest outperformed traditional DT, RFC, and RFR classifiers on this prediction task](dt-from-rfc-outperforms-standard-classifiers.md) — related

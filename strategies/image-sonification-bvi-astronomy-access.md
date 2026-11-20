@@ -50,6 +50,7 @@ Partnering with accessibility specialists at GLAS, the project developed an imag
 - [Use scale-visualization imagery to convey astronomical magnitudes](logarithmic-universe-imagery-strategy.md)
 - [Provide sonification of astronomical data with sufficient context, since sounds without context are hard to interpret](sonification-with-context-strategy.md)
 - [Combine tactile sky models with sonic resources (sonifications and audio descriptions) in inclusive astronomy activities](combine-tactile-models-with-sonic-resources.md)
+- [Support shape exploration in sonification tools with a tactile frame or a tablet implementation](tactile-frame-tablet-edukoi-shape-strategy.md)
 
 ## Examples
 -

@@ -61,3 +61,4 @@ Independent-samples t-tests in the quantitative phase (N = 302) compared percept
 - [Male students score significantly higher than females on Openness to Experience and Extraversion, while age shows no significant correlation with personality](gender-age-personality-differences.md) — related
 - [Students' perceptions of university lectures are significantly below neutral, with female students rating lectures more positively than males](ul-perceptions-below-neutral-females-higher.md) — related
 - [Nursing students score higher on SOC meaningfulness than medical students; male students score higher on meaningfulness than female students](meaningfulness-subscale-group-differences.md) — related
+- [Males reported a significantly higher post-session belief than females that chatbots can improve learning, with a large effect size.](gender-difference-improve-learning-perception.md) — related

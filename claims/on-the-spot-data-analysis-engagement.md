@@ -49,3 +49,4 @@ Qualitative observation from examining student laboratory notebooks during first
 - [GenAI's immediate answers reduce engineering students' teacher-student interactions for generalizable tasks, while teachers remain preferred for complex problem-solving](genai-immediacy-reduces-teacher-interactions.md) — related
 - [Immediate feedback and self-reflection-driven engagement shifted novice nurses from passive to active participation in learning](mini-cex-dops-self-reflection-active-engagement.md) — related
 - [Most student groups voluntarily adopted Python and Jupyter Notebooks for data analysis in their first-semester lab experiments, rising from 83% to 100%](python-jn-group-adoption-first-semester.md) — related
+- [Optional Python and Jupyter Notebook use rose from 83% of groups in the first lab experiment to complete adoption in the second, with skill progression from LAB1 to LAB2](python-adoption-lab1-to-lab2.md) — related

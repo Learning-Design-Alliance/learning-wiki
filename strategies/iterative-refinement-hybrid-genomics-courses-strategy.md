@@ -46,6 +46,7 @@ Based on evaluation findings, the authors recommend specific future modification
 
 - [Refine hybrid BOPPPS structures by stressing course interconnections, clearer online instructions, and students-led summary while reducing self-learning burden](hboppps-refinement-strategy.md)
 - [Add tutor interaction channels (virtual forum and optional in-person sessions) and strengthen statistical explanations in online critical appraisal courses](tutor-forum-and-statistics-support-strategy.md)
+- [Refine assignment-only assessment by adding a written or oral exam and motivating course evaluation participation](add-exam-and-motivate-evaluation-strategy.md)
 
 ## Examples
 -

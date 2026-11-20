@@ -78,3 +78,4 @@ Simple slope tests probing the gender interaction. The association between educa
 - [The negative association between online learning self-efficacy and later worries is significantly stronger for girls than for boys](ose-worries-stronger-for-girls.md) — a narrower finding that bears on this claim
 - [SEL competency associations with reading are invariant by sex, but associations of Self-Awareness and Self-Management with numeracy are significantly stronger for boys than girls](sel-numeracy-associations-stronger-boys.md) — related
 - [Gender moderates only the path from prior academic performance to later behavioral control, which is significant for boys but not girls](gender-moderates-performance-to-control-path.md) — related
+- [Gender does not significantly moderate the relationship between self-management and academic achievement](gender-no-moderation-self-management-achievement.md) — related

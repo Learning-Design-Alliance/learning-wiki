@@ -51,6 +51,7 @@ Based on their findings, the authors recommend enhancing AR use in classrooms by
 - [Provide teachers with training periods on how, when, and where to use language-learning technologies](teacher-training-periods-for-language-technology.md)
 - [Equip secondary classrooms with computers and data show devices and train teachers to implement e-learning](equip-classrooms-computers-data-show-train-teachers.md)
 - [Have students create their own keywords, definitions, and visuals with technology](student-created-keywords-visuals-tablet.md)
+- [Use online coding platforms and ready-made equations to minimize technical setup and math manipulation](minimize-technical-setup-outreach-strategy.md)
 
 ## Examples
 -

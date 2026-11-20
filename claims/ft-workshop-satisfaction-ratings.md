@@ -59,3 +59,4 @@ Post-workshop evaluation surveys from the phase-2 scale-up facilitator training 
 - [Students rated trainers highly, with the highest average values for approachability (4.5) and cooperativeness (4.75)](trainers-rated-high-approachability-cooperativeness.md) — related
 - [Students rated the lidyef2018 program highly on a 5-point evaluation survey, with an overall score of 4.09±0.77](lidyef2018-evaluation-survey-4-09.md) — related
 - [Student feedback on the Quantum Communications Lab workshop was assessed as very positive, with attendees of diverse profiles showing interest in different fundamentals of quantum communication](quantum-comm-lab-positive-student-feedback.md) — related
+- [Post-event evaluations show high satisfaction, with all survey ratings well over 4 out of 5 across the four rotating workshops](wac-evaluations-over-4-of-5.md) — related

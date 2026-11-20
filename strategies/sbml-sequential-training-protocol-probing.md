@@ -82,6 +82,7 @@ The article's training protocol provides a replicable sequence for simulation-ba
 - [Structure a four-week ultrasound course with weekly theory plus supervised simulation-based hands-on practice covering FAST, E-FAST, RUSH and CLUE protocols](four-week-simulation-ultrasound-course-structure.md)
 - [Structure astronomy training around progressive hands-on telescope operation with decreasing supervision](progressive-telescope-operation-training.md)
 - [Staged sequence for student participation in professional observing: bibliography study, remote attendance at a training observing run, then conducting observations themselves under supervision](staged-professional-observing-sequence-strategy.md)
+- [Write laboratory tutorials as detailed step-by-step instructions students follow independently without continual instructor guidance](step-by-step-self-guided-lab-tutorials.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Descriptive statement (type d) about the system's research function: it enables 
 - [Screen reader choice affects time and effort for accessing math: JAWS users completed a quadratic-equation task faster than NVDA users](screen-reader-effort-quadratic-equation-bvi.md) — related
 - [The ITS inner and outer loops are instances of the regulative loop at step and task grain sizes](inner-outer-loops-as-regulative-loops.md) — related
 - [Multi-platform comparison without exchanging data addresses privacy and data security concerns](multi-platform-comparison-avoids-data-exchange-privacy.md) — related
+- [Teachers integrating intelligent tutors lacked access to fine-grained interaction data and needed support summarizing engagement, diagnosing step-level difficulties, and comparing performance over time](teachers-lack-access-fine-grained-tutor-data.md) — related

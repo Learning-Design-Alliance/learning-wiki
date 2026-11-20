@@ -49,3 +49,4 @@ Descriptive classification of chatbot errors using the standardized categorizati
 - [AI chatbots' correct answers on the CINECA test are most frequently justified by logical reasoning rather than internal or external information](chatbot-correct-answers-logical-reasoning-prevalent.md) — related
 - [Zero-shot LLM errors follow four recurring patterns: over-interpretation, failure to detect relevant information, hallucination, and failure to generate a response](llm-competency-error-patterns-four-types.md) — related
 - [When GPT-4V answered incorrectly, its explanations frequently contained image misunderstandings, reasoning errors, and hallucinations](gpt4v-poor-explanations-incorrect-answers.md) — related
+- [Across all feedback generation methods tested, most failures occur because the LLM cannot correctly identify the error in the student's incorrect answer, especially when multiple reasoning steps are required.](llm-failure-identifying-student-error.md) — related

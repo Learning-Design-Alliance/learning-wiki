@@ -69,3 +69,4 @@ Course-level Spearman correlations across the 14 courses show Discussions Time-o
 - [Quizzes are the only LMS activity type negatively correlated with reported time-on-task and perceived difficulty](quizzes-negatively-correlated-workload-difficulty.md) — related
 - [Courses with higher average time-on-task exhibit greater variability in their weekly workload evolution](higher-workload-courses-more-variable.md) — related
 - [Workload peaks and slope variability correlate with perceived learning attainment, with LMS dynamics showing no significant correlations](workload-peaks-correlate-learning-attainment.md) — related
+- [Self-estimated workload rises from about twenty to about fifty hours per week in the first lecture weeks and correlates strongly with perceived stress](workload-trajectory-stress-correlation.md) — related

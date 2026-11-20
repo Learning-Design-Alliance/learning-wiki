@@ -77,6 +77,7 @@ The review recommends that educators integrate simulation-based methods into ort
 - [Use simulation and technology-based teaching to relieve clinical space demand in large cohorts](simulation-relieve-clinical-space-demand-large-cohorts.md)
 - [Introduce global health through e-learning in conjunction with face-to-face small group teaching](e-learning-combined-with-face-to-face-global-health-teaching.md)
 - [Deploy the diagnostic module as a supplement to any instruction strategy, from traditional to highly interactive](diagnostic-module-as-instruction-supplement.md)
+- [Integrate data science as a tool that enhances the existing physics curriculum rather than replacing it](data-science-as-enhancing-tool-not-replacement.md)
 
 ## Examples
 -

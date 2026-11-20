@@ -50,6 +50,7 @@ Participants proposed hiring committees that include teachers of color as core m
 - [Build diverse school leader pipelines through HBCU/HSI preparation partnerships, transparent diversity data, equitable hiring supports, affinity networks, and Grow Your Own teacher pathways](georgia-leader-diversity-pipeline-strategies.md)
 - [Review institutional practices, diversify staff and student populations, and develop guidance on reporting and tackling racism](review-practices-diversify-staff-anti-racism-guidance.md)
 - [Recruit and retain underrepresented students in QIST through early outreach, funded research experiences, industry mentorship, and a code of conduct](qist-inclusive-recruitment-retention-strategy.md)
+- [Partner with minority-serving institutions as equal partners to learn expertise in creating equitable outcomes](partner-with-minority-serving-institutions.md)
 
 ## Examples
 -

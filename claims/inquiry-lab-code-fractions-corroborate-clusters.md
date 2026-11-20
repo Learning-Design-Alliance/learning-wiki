@@ -57,3 +57,4 @@ Descriptive averages of code fractions in inquiry labs, broken down by gender (T
 - [In mixed-gender inquiry-lab groups, women spent about twice as much time as men analyzing data on laptops (14±7% vs 6±3% of the lab period)](women-twice-laptop-analysis-time.md) — related
 - [In Physics I Lab control sections women were responsible for less equipment usage than men, but no gendered difference was observed in Physics II Lab](gendered-equipment-use-physics-i-not-ii.md) — related
 - [Partner agreements increased women's and decreased men's equipment group fraction in Physics I Lab, with no statistically significant effect in Physics II Lab](partner-agreements-equipment-equity-effect.md) — related
+- [Gendered task division arises in mixed-gender lab groups, with men more likely to handle equipment, and is most pronounced in less-structured inquiry labs](gendered-task-division-mixed-gender-lab-groups.md) — possibly the same claim (merge candidate)

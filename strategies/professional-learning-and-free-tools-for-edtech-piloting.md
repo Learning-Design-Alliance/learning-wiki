@@ -43,6 +43,7 @@ The report recommends that organizations support educators' data collection for 
 - [Conduct ed-tech pilots by articulating the instructional need, setting clear product-review criteria, involving educators in planning, supporting educators throughout, gathering data from all users, deciding from data, negotiating purchasing options, and sharing results](rapid-cycle-edtech-pilot-best-practices.md)
 - [Mobilize & Implement: provide professional learning throughout the pilot and use real-time data dashboards to keep usage aligned with dosage requirements](ongoing-professional-learning-dashboards-during-edtech-pilot.md)
 - [Build formal feedback mechanisms and an evaluation plan into ed-tech pilots](formal-feedback-and-evaluation-plan-pilots.md)
+- [Use equity dashboards and free online tools to automate data collection and equity analyses for departmental transformation](equity-dashboards-for-departmental-transformation.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 305 claims (169 show a difference, 66 mixed, 70 no difference) · 230 studies (111 associational, 83 causal, 15 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 2 design), `q1`–`q4` · 38 of 230 report an effect size · 304 claims rest on one study
+> **Evidence** · 307 claims (171 show a difference, 66 mixed, 70 no difference) · 232 studies (113 associational, 83 causal, 15 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 2 design), `q1`–`q4` · 38 of 232 report an effect size · 306 claims rest on one study
 
 ## How to read this page
 
@@ -390,6 +390,8 @@ A learner's economic and social position: family income or poverty (often measur
 - [Implementing ALPaCA competency-based grading increased average course grades in calculus-based introductory physics, with larger improvements for women and first-generation students](../claims/alpaca-grading-largest-gains-women-first-generation.md) [+M] — an instructional effect differs by group
 - [Demographic variables (gender, ethnicity, socioeconomic status, age) are not significant predictors of community college astronomy performance](../claims/demographics-not-predictors-community-college-astronomy-performance.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [A higher proportion of children in low-income households predicts higher physics continuation rates, even adjusting for median family income](../claims/low-income-household-share-higher-physics-continuation.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Across all three disciplines, the largest educational debts after instruction were consistently owed to Black and Hispanic women and first-generation Black men](../claims/largest-debts-owed-to-black-hispanic-women-first-gen-black-men.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [In 2021 Georgia math achievement rates showed marked disparities, with White students and non-disadvantaged students substantially outscoring Black and economically disadvantaged students](../claims/georgia-2021-math-demographic-disparities.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

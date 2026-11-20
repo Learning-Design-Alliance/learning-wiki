@@ -44,6 +44,7 @@ For school groups the organizers prepared a contest in which each class presente
 
 - [Use a mobile inflatable planetarium plus a portable telescope as a first contact with science for students who cannot visit fixed facilities](mobile-planetarium-first-contact-strategy.md)
 - [Field Trips](field_trips.md)
+- [Run a low-cost school lunar research project combining telescope field work with open-source data analysis](low-cost-school-lunar-research-project-strategy.md)
 
 ## Examples
 -

@@ -50,6 +50,7 @@ The brief recommends a set of state and district actions to increase school lead
 - [Develop high-retention pathways — Grow Your Own programs and teacher residencies — to build and diversify local teacher supply](grow-your-own-residency-pathways-strategy.md)
 - [State policy actions across the career continuum: attract, prepare, and develop/support/retain educators](tdf-state-policy-actions-career-continuum.md)
 - [Invest in high-quality, standards-aligned professional development for school leaders, including leaders of color](invest-principal-professional-development.md)
+- [Partner with minority-serving institutions as equal partners to learn expertise in creating equitable outcomes](partner-with-minority-serving-institutions.md)
 
 ## Examples
 -

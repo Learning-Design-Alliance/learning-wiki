@@ -47,3 +47,4 @@ A national survey of student affairs officers at US medical schools found "over 
 
 ## Related Claims
 - [With accommodations such as additional examination time, medical students with SpLDs show no statistically significant difference in MCQ performance (d = 0.045)](mcq-performance-no-difference-accommodated-spld.md) — related
+- [Most disabled respondents had not sought accommodations, and only 5% reported receiving full accommodations](low-accommodation-access-physics.md) — related

@@ -47,3 +47,4 @@ MANOVA with GPA and QPT as dependent variables and school, gender, learning styl
 
 ## Related Claims
 - [Univariate ANOVAs show school significant for both GPA and QPT, gender significant only for GPA, and learning styles significant for both outcomes, while personality types are non-significant](univariate-school-gender-learning-styles-gpa-qpt.md) — related
+- [MANOVA shows a significant school-type difference: humanities students rated the monologue and poems higher, scientific students rated STEM engagement higher](manova-school-type-difference-monologue-poems.md) — related

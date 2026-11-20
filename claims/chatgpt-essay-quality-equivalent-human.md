@@ -71,3 +71,4 @@ The review's summarised finding from cited work on marker discrimination between
 - [In a documented exploratory audit, one human-authored manuscript received materially different classifications from five commercial detectors, spanning 0% human to Human Generated](multi-tool-audit-cross-tool-inconsistency.md) — related
 - [A detector can achieve high aggregate accuracy while producing materially different over-detection rates across author groups](aggregate-accuracy-group-fairness-detectors.md) — related
 - [AI-generated short-form physics essays marked by five independent markers averaged 71 ± 2%, in strong agreement with the module average of 71 ± 5%](ai-essays-first-class-physics-essay-marks.md) — related
+- [Human markers identified AI versus human authorship only marginally better than random chance](human-judgment-ai-authorship-near-chance.md) — related

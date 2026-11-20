@@ -62,3 +62,4 @@ Analysis of MAP Growth reading and mathematics assessment data from 7 million st
 - Statewide assessment participation was uneven after pandemic pauses, ranging from 97% to 30% in 2021 with five states below 90% in 2022 — related
 - [Evidence of academic rebounding in 2021-22 appeared across all school-poverty levels](rebounding-across-all-school-poverty-levels.md) — related
 - [NWEA analysis of 2,000 US school districts examined whether persistently high absenteeism was associated with slower math and reading recovery](chronic-absenteeism-slower-recovery-2000-districts.md) — related
+- [Georgia K-12 Math and English achievement rates declined significantly from 2019 to 2021 with a partial recovery in 2022 and a contraction of the score distribution](georgia-pandemic-achievement-rate-decline-2021.md) — related

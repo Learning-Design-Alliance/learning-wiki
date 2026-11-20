@@ -73,6 +73,7 @@ The article describes a standardized simulation-based training protocol structur
 - [Blended learning package combining an animated e-learning video with structured face-to-face training and supervised real-life practice](blended-bpst-training-package-strategy.md)
 - [Three-phase CPS teacher-updating course: instruction, teacher-as-learner practice, and coached student testing](cps-teacher-updating-course-structure.md)
 - [Structure astronomy training around progressive hands-on telescope operation with decreasing supervision](progressive-telescope-operation-training.md)
+- [Write laboratory tutorials as detailed step-by-step instructions students follow independently without continual instructor guidance](step-by-step-self-guided-lab-tutorials.md)
 
 ## Examples
 -

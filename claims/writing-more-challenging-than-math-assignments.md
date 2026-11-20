@@ -54,3 +54,4 @@ Analysis of scored assignments shown in Figure 11 comparing subjects and grade l
 - [Writing assignments in 1999 showed more intellectual challenge than mathematics, with 48 to 64 percent reaching moderate or extensive challenge depending on grade](writing-assignments-more-challenge-than-math-1999.md) — a narrower finding that bears on this claim
 - [Assignment quality improved between 1997 and 1999, yet math assignment challenge remained very low](assignment-quality-improved-but-math-challenge-low.md) — related
 - [The intellectual quality of classroom assignments in Annenberg Challenge schools improved between 1997 and 1999, though some 1999 averages were lower than 1998](annenberg-assignment-quality-improved-1997-1999.md) — related
+- [Algebra II, Algebra I and Geometry were the most challenging assignment subjects, with Algebra II averaging 0.42.](algebra-ii-most-challenging-subject.md) — related

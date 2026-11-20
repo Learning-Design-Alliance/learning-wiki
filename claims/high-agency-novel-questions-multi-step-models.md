@@ -47,3 +47,4 @@ Case study of two UiO students (materials science and physics) who scored 22 (hi
 ## Related Claims
 - [Computational essays supported redistribution of epistemic agency across programming, inquiry, modeling, and communication dimensions](computational-essays-support-epistemic-agency.md) — a broader claim this one bears on
 - [In a qualitative case study of two student pairs, creating computational literature was associated with computational literacy development even when code modification was minor](creating-computational-literature-develops-computational-literacy.md) — related
+- [Students leveraged existing disciplinary computational literacy to engage with computational literature and began epistemic negotiation when defining projects](case-students-engage-computational-literature-epistemic-negotiation.md) — related

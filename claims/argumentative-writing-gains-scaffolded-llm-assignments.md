@@ -61,3 +61,4 @@ Paired-sample t-tests comparing each student's Assignment 1 and Assignment 5 sco
 - [Prompt engineering quality predicts LLM output quality and is a required skill for goal-directed GenAI use](prompt-engineering-predicts-llm-output-quality.md) — related
 - [Prompt revisions per session rose from 1.8 in Week 2 to 4.6 in Week 11, and references to adaptation, tailoring and personalisation increased 47% across the semester](prompt-revision-engagement-increase.md) — related
 - [Instructor feedback on individual CASP-based RCT assignments significantly improved fifth-year pharmacy students' RCT evaluation scores](feedback-improves-pharmacy-rct-evaluation-scores.md) — a narrower finding that bears on this claim
+- [The article reports a proposed exploratory between-subjects study of Claude.ai predicting improved comprehension and engagement over independent study](claude-ai-exploratory-study-design-predicts-gains.md) — related

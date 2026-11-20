@@ -115,3 +115,4 @@ Inter-rater reliability analysis of the three instructors' independent blind gra
 - [Duplicate scoring of constructed-response exam questions reveals substantial inter-rater bias and random error even with high score correlations](cr-inter-rater-unreliability.md) — reports the opposite
 - [CURrENT scoring rubric achieves high inter-rater reliability](current-rubric-high-inter-rater-reliability.md) — related
 - [Inter-rater agreement for 3D-LAP coding meets a 75% threshold across disciplines and dimensions](3d-lap-inter-rater-agreement.md) — related
+- [The five markers were inconsistent in their grading, with ICC values near zero and a significant ANOVA](marker-grading-inconsistency-icc-near-zero.md) — reports the opposite

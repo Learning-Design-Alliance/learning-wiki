@@ -53,3 +53,4 @@ Thematic analysis of open-ended questions from the 26 autistic students on suppo
 - [Learners saw the diagnostic label as facilitating understanding and access to support, yet autistic self-advocates experienced disclosure as a disability category conflicting with their identity](diagnostic-label-support-versus-identity-conflict.md) — related
 - [Youth with an IEP are more likely than youth without an IEP to struggle academically, yet less likely to receive some forms of school-based support](iep-youth-academic-struggle-less-support.md) — related
 - [Very preterm children receive significantly more school support services than full-term controls, even when educational abilities are age appropriate](very-preterm-more-support-services.md) — related
+- [Most disabled respondents had not sought accommodations, and only 5% reported receiving full accommodations](low-accommodation-access-physics.md) — related

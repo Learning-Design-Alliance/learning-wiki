@@ -73,3 +73,4 @@ Qualitative coding of interviews and surveys for fixed versus growth mindset lan
 - [Fixed mindset peer cultures are theorized to erode belonging via identity threat, especially for minoritized students](fixed-mindset-peer-culture-identity-threat.md) — related
 - [Students in the adaptive equity-oriented pedagogy section earned significantly higher final assessment scores than control students (p<.0001)](equity-pedagogy-higher-final-assessment-scores.md) — related
 - [Semantic network analysis showed statistically significant interdependencies between positive persistence and growth mindset, important early undergraduate experiences, gender stereotype threat, external recognition, and confidence](persistence-interdependencies-semantic-network.md) — related
+- [Culturally responsive mentoring combats the effects of stereotype threat on HMGs](culturally-responsive-mentoring-combats-stereotype-threat.md) — related

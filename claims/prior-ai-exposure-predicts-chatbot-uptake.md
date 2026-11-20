@@ -54,3 +54,4 @@ ANOVA comparing users and non-users on technology and AI items (Fig. 4): "Users 
 - [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related
 - [Students express willingness to integrate GenAI in learning and future careers, and willingness correlates with knowledge and frequency of use](students-willing-to-use-genai-correlates.md) — related
 - [Technological knowledge was associated positively with functional literacy](technological-literacy-associated-functional-literacy.md) — related
+- [Age correlated significantly with prior chatbot experience (both youngest and oldest cohorts showing limited exposure), while gender showed no significant correlation with prior experience.](age-predicts-prior-chatbot-experience-gender-does-not.md) — related

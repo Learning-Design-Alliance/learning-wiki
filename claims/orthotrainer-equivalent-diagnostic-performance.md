@@ -73,3 +73,4 @@ Final analogue module exam taken by all 28 students after training; the article 
 - [CBL produces significantly higher exam scores than LBL in pharmacy education (SMD = 0.58)](cbl-higher-exam-scores-than-lbl-pharmacy.md) — related
 - [Digital and analogue case planning required comparable completion times](orthotrainer-completion-time-comparable.md) — related
 - [Digital case planning via Orthotrainer yielded a significantly higher lateral cephalometric (LCR) landmarking success rate than analogue case planning](orthotrainer-lcr-landmarking-superiority.md) — related
+- [Questionnaire-based and LLM-based reflection produced comparable exam performance, apparently better than slide review, with no significant differences (Study 2)](questionnaire-and-llm-reflection-comparable-study2.md) — related

@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
-newest_evidence: 2025
+newest_evidence: 2026
 sources:
-  - id: la-hadi-2025
+  - id: la-hadi-2026
     resource: "https://doi.org/10.48550/arxiv.2607.26067"
-    title: "La Hadi, A., Alibasa, M. J., Chen, G., & Asyhari, A. T. (2025). The “Easy Trap”: Why LLMs Underestimate Misconception-Driven Difficulty. https://arxiv.org/abs/2607.26067 [doi:10.48550/arxiv.2607.26067](https://doi.org/10.48550/arxiv.2607.26067)"
+    title: "La Hadi, A., Alibasa, M. J., Chen, G., & Asyhari, A. T. (2026). The “Easy Trap”: Why LLMs Underestimate Misconception-Driven Difficulty. https://arxiv.org/abs/2607.26067 Originally published 2025. [doi:10.48550/arxiv.2607.26067](https://doi.org/10.48550/arxiv.2607.26067)"
     author: "La Hadi, A., Alibasa, M. J., Chen, G., & Asyhari, A. T."
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Error analysis shows empirical difficulty of the underestimated fraction items is driven primarily by conceptual misunderstandings such as "division makes smaller" beliefs and whole-number bias. [→ La Hadi 2025](#la-hadi-2025)
+`q2 i?` Error analysis shows empirical difficulty of the underestimated fraction items is driven primarily by conceptual misunderstandings such as "division makes smaller" beliefs and whole-number bias. [→ La Hadi 2026](#la-hadi-2026)
 
 ## Evidence
 
-### La Hadi 2025
+### La Hadi 2026
 
-La Hadi, A., Alibasa, M. J., Chen, G., & Asyhari, A. T. (2025). The “Easy Trap”: Why LLMs Underestimate Misconception-Driven Difficulty. https://arxiv.org/abs/2607.26067 [doi:10.48550/arxiv.2607.26067](https://doi.org/10.48550/arxiv.2607.26067)
+La Hadi, A., Alibasa, M. J., Chen, G., & Asyhari, A. T. (2026). The “Easy Trap”: Why LLMs Underestimate Misconception-Driven Difficulty. https://arxiv.org/abs/2607.26067 Originally published 2025. [doi:10.48550/arxiv.2607.26067](https://doi.org/10.48550/arxiv.2607.26067)
 
 `q2 · i?` · `associational · r2`
 
@@ -52,3 +52,4 @@ Analysis of student response distributions for the five most underestimated frac
 - [Behavioural analytics alone cannot distinguish the cognitive origins of identical learner errors](behaviour-alone-insufficient-cognitive-origins.md) — related
 - [Correct-answer-trap cases concentrate in specific question types where common flawed reasoning happens to produce the correct numerical answer, with the top two question types accounting for 71% of all TM cases](cat-failures-concentrate-in-two-question-types.md) — related
 - [In Save Patch, different error types were associated with different learning outcomes, attributed to Kerr and Chung (2013b)](save-patch-error-types-associated-with-learning-outcomes.md) — related
+- [Instructors report using in-class quizzes with misconception traps, prediction-based discussions, and demonstrations, judging them useful without measured outcomes](instructor-quantum-diagnostic-instructional-practices.md) — related

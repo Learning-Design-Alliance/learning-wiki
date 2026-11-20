@@ -49,6 +49,7 @@ The strategy brings a mobile inflatable planetarium, which the article says allo
 - [Scale UNAWE through language-matched mini-MOOCs for teachers and mobile Astrobus delivery](unawe-scalable-delivery-mini-moocs-astrobus.md)
 - [Replace low-relevance take-home artifacts with telescope viewing in astronomy museum programs](replace-low-relevance-activity-telescope-viewing-strategy.md)
 - [Run a school-group contest with a real telescope as the award](school-contest-telescope-award.md)
+- [Run a low-cost school lunar research project combining telescope field work with open-source data analysis](low-cost-school-lunar-research-project-strategy.md)
 
 ## Examples
 -

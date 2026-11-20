@@ -59,3 +59,4 @@ Prospective controlled study of 3D vs 2D stereoscopic neuroanatomy video (175 ba
 - [The authors state no prior platform has superimposed MRI slices onto a 3D neuroanatomical model within a mobile app](first-mobile-app-mri-superimposition-neuroanatomy.md) — related
 - [Students perceived 3D printed bone models as better than 2D images or a single skeleton and reported deeper learning and increased confidence](3d-printed-models-perceived-deeper-learning.md) — related
 - [Students taught DDH with 3D-printed models plus CBL scored higher on post-course practical skills than students taught with conventional CBL alone](3d-cbl-higher-post-course-practical-skills-ddh.md) — related
+- [Oral placement therapists viewing unmodified 2D lecture video scored higher on a knowledge test than those viewing modified stereoscopic 3D VR video (92.00% vs 77.80% average)](vr-video-lower-knowledge-test-than-2d-lecture.md) — reports the opposite

@@ -76,3 +76,4 @@ Follow-up comparison across the three midterms in the same course dataset. The g
 - [Across three physics assessments, students who declared GenAI use scored slightly higher than non-users, but none of the differences were statistically significant](genai-users-slightly-higher-scores-not-significant-physics.md) — reports the opposite
 - [LLM use as an educational resource showed mixed effects on student learning outcomes compared with conventional methods](llm-educational-resource-mixed-learning-effects.md) — related
 - [Students who engaged with RiPPLE scored significantly higher on the midterm exam than non-users, with a medium effect size after propensity score matching](ripple-midterm-learning-gains-psm.md) — related
+- [LLM-guided self-reflection after an assignment did not significantly improve exam scores two weeks later compared to no reflection (Study 1)](llm-reflection-exam-no-significant-gain-study1.md) — related

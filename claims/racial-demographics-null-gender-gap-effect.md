@@ -52,3 +52,4 @@ RQ2 mixed-effects regression; Table III prints non-significant Black-proportion 
 - [The proportion of Black residents in a school's community is the only demographic factor that significantly predicts lower physics continuation rates for both grade 11 and grade 12](black-community-share-lower-physics-continuation-ontario.md) — related
 - [Community demographics predict the overall physics continuation rate far better than they predict the male-female gender gap in continuation](demographics-predict-scr-better-than-gender-gap.md) — related
 - [A higher proportion of Indigenous residents in a school's community predicts higher physics continuation rates and a smaller male-female gender gap in continuation](indigenous-community-share-higher-physics-continuation.md) — related
+- [Black and Indigenous people are severely underrepresented among Canadian physics students and professionals](black-indigenous-physicists-severely-underrepresented-canada.md) — related

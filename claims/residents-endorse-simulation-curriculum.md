@@ -54,3 +54,4 @@ Posttest questionnaire administered to all 41 participants after the course and 
 - [Acceptability of the newly developed D-UPS skills training program is high among both residents (92%) and program directors (87%)](d-ups-program-high-acceptability.md) — related
 - [Summer Institute participants overwhelmingly value having a trained facilitator for group work](si-participants-value-trained-facilitators.md) — related
 - [With-OnLabs students responded positively on an ARCS-based satisfaction questionnaire, with nearly all endorsing the Skype session and a majority wanting it before every lab exercise](onlabs-skype-satisfaction-arcs-positive.md) — related
+- [Students overwhelmingly expressed gratitude after TeachNow sessions, citing motivation, support, and community connection](teachnow-student-gratitude.md) — related

@@ -42,6 +42,7 @@ The guide recommends that district leaders partnering on ARP-funded plans work w
 - [Assign a compensated navigator to each family to connect English learner households with learning and support services](family-navigators-for-english-learners.md)
 - [Partner with community-based organizations to deliver critical services, since districts and schools alone cannot reduce chronic absenteeism](community-partners-critical-services-english-learner-attendance.md)
 - [Disaggregate engagement and performance data by subgroup and regularly evaluate and adjust support plans](disaggregated-data-monitoring-el-supports.md)
+- [Partner with minority-serving institutions as equal partners to learn expertise in creating equitable outcomes](partner-with-minority-serving-institutions.md)
 
 ## Examples
 -

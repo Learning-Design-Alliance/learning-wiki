@@ -63,6 +63,7 @@ The report's Promising Practices section describes four approaches to building t
 - [Form partnerships with community organizations, higher education, and CTE programs to expand emergency staffing and build the talent pipeline](partnerships-for-staffing-pipeline.md)
 - [Six state-level strategies for increasing the racial diversity of the educator workforce](six-state-strategies-educator-diversity.md)
 - [Strengthen teacher pipelines and remove biased promotion barriers to build the principal pipeline](strengthen-teacher-pipelines-principal-pipeline.md)
+- [Partner with minority-serving institutions as equal partners to learn expertise in creating equitable outcomes](partner-with-minority-serving-institutions.md)
 
 ## Examples
 -

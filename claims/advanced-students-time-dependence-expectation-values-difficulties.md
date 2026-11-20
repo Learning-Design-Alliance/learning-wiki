@@ -73,3 +73,4 @@ Response analysis of QMS Question (23), where a 1D simple harmonic oscillator is
 - [Graduate students share common difficulties with basic quantum mechanics concepts regardless of university](universal-quantum-concept-difficulties-grad-students.md) — related
 - [Secondary and lower undergraduate students have difficulty relating quantum physics to physical reality](students-difficulty-relating-quantum-physics-physical-reality.md) — related
 - [Question 5 remained the most difficult after the CQS, with Class A averaging below 50% even after implementation](cqs-larmor-question-5-difficulty-persists.md) — related
+- [Student difficulty with time-independence of expectation values in stationary states was resistant to CQS instruction: correct selection on CQS 4.2 rose only from 54% to 57% between polling rounds](stationary-state-expectation-values-resistant-difficulty.md) — a narrower finding that bears on this claim

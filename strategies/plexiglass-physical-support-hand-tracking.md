@@ -44,6 +44,7 @@ When interactive sonification requires users to move a hand in the air in front 
 
 - [Instructor-provided physical artifacts plus gesture prompts to help students translate between representations](instructor-physical-artifact-gesture-translation-strategy.md)
 - [Wooden-dowel physical model for making the shower front plane tangible](wooden-dowel-shower-front-model-strategy.md)
+- [Support shape exploration in sonification tools with a tactile frame or a tablet implementation](tactile-frame-tablet-edukoi-shape-strategy.md)
 
 ## Examples
 -

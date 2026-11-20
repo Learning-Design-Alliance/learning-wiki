@@ -46,7 +46,8 @@ The authors recommend that educators and researchers consider integrating DbD pr
 - [Across DbD and comparison activities, project completion correlated with significant increases in CS creative expression and e-textiles coding self-efficacy](../claims/project-completion-cs-creative-expression-coding-self-efficacy.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Position learners as bug designers for peers to increase engagement with bugs](learners-as-bug-designers-strategy.md)
 
 ## Examples
 -

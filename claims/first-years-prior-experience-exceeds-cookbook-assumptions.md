@@ -50,3 +50,4 @@ A survey of first-year students beginning laboratory work in autumn 2018, summar
 - [Post-course E-CLASS scores were indistinguishable from national norms, indicating the cookbook/inquiry admixture had no effect different from cookbook labs](mixed-inquiry-cookbook-labs-no-gain-over-national-norms.md) — related
 - [About 30% of student groups in an experimentation-focused intro physics lab recorded questionable research practices in their lab notes](thirty-percent-groups-questionable-research-practices.md) — related
 - [Student evaluation of the transformed lab was positive on the freedom of the second session but split on the logbook (20 of 50 surveyed)](student-feedback-split-on-logbook-positive-on-freedom.md) — related
+- [Lab task design influences students' on-task discourse styles, with high on-task styles more prevalent when labs require decision-making](lab-task-design-prompts-engagement.md) — related

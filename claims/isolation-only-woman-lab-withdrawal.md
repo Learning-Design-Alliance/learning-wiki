@@ -48,3 +48,4 @@ Case-study interview evidence: Paulette described male students pairing up among
 - [Perceived condescension from male professors activated stereotype threat for a woman physics major, reducing her sense of belonging and discouraging her from asking questions](condescension-stereotype-threat-disengagement.md) — related
 - [Female faculty mentors, role models, and supportive peers provided reassurance and comfort that helped a woman physics major persist](female-mentorship-supports-persistence-women-physics.md) — related
 - [In the Hermione-Slacker mode, a student (typically female) shoulders a disproportionate share of managerial lab work for unprepared partners, stunting identity growth](hermione-slacker-managerial-role-women.md) — related
+- [Students left to work alone in pair-designed labs had negative experiences, particularly underrepresented students](solo-students-negative-experiences.md) — possibly the same claim (merge candidate)

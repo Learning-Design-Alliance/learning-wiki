@@ -46,4 +46,4 @@ A long-term activity in which students create a book representing the entire log
 -
 
 ## Key Sources
-- Lonshakova, A., Blair, D. G., Treagust, D. F., & Zadnik, M. (2023). Powers of the Universe: Empowering primary school students with the powers of ten notation.
+- Lonshakova, A., Blair, D. G., Treagust, D. F., & Zadnik, M. (2023). Powers of the Universe: Empowering primary school students with the powers of ten notation. [doi:10.48550/arxiv.2311.18192](https://doi.org/10.48550/arxiv.2311.18192)

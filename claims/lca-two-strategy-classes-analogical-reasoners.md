@@ -50,3 +50,4 @@ Latent class analysis of pretest solution strategies on AnimaLogica items across
 - [K-Means clustering of LIME feature-importance profiles identifies 2 responder and 4 non-responder subgroups within binary intervention-response classes](lime-clustering-dyslexia-subgroups.md) — related
 - [Gaussian Mixture Modeling identifies two latent clusters of delayed start behavior, outperforming three-cluster and unimodal models](gmm-two-clusters-delayed-start.md) — related
 - [Student-level latent classes showed a qualitative difference in item difficulty profiles, with no overlap in item response curves between classes](qualitative-difference-latent-class-item-profiles.md) — related
+- [Latent class analysis identifies seven qualitatively different answer patterns, and most students change class between pretest and posttest](lca-seven-classes-class-shifts.md) — related

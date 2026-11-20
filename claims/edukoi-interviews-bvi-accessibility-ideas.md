@@ -49,3 +49,4 @@ Qualitative analysis of the first round of structured interviews with the middle
 - [During a first middle-school test of Edukoi, classes maintained high attention and reported enjoyment, but found counting stars by sound very difficult.](edukoi-classroom-test-qualitative-feedback.md) — related
 - [Multi-sensory teaching benefits students of all levels of sight, according to interviewed BVI researchers](multisensory-teaching-benefits-all-sight-levels.md) — related
 - [Improving accessibility of astronomy tools and methods benefits people with full sensory capacity as well as BVI persons](accessibility-benefits-everyone-astronomy.md) — related
+- [Middle-school students recognise colours through Edukoi sonification at near-ceiling accuracy with minimal training](edukoi-colour-recognition-effective.md) — related

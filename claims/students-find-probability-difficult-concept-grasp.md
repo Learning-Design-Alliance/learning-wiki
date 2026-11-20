@@ -50,3 +50,4 @@ Conclusion-section descriptive findings from the study's student responses: "120
 - [Task difficulty (easy vs difficult simultaneous-equation problems) has significant main effects on intrinsic and extraneous cognitive load, but not on germane load](task-difficulty-raises-intrinsic-and-extraneous-but-not-germane-load-in-algebra.md) — related
 - [Task complexity and task difficulty are distinct concepts](task-complexity-distinct-from-difficulty.md) — related
 - [Learning difficulties concentrate in Mathematics and English, compounded by fast, unclear teaching](haor-learning-difficulties-math-english.md) — a broader claim this one bears on
+- [OMR difficulty is compounded because its conceptual and mathematical prerequisites are strongly interrelated, making total task solution probability the product of the component probabilities](omr-interrelated-prerequisite-complexity.md) — related

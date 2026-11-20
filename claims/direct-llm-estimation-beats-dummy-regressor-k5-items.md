@@ -76,3 +76,5 @@ Reading holdout results for the direct approach (GPT-4o 1-100 ratings, standardi
 - [Models with similar rank correlations differ substantially in estimating difficulty magnitude (RMSE and MAE)](llm-difficulty-magnitude-error-varies-across-models.md) — related
 - [Perceived task difficulty ratings show a strong relation to Rasch-estimated relative task difficulty, supporting construct validity of the single-item scale](perceived-task-difficulty-correlates-with-relative-task-difficulty.md) — related
 - [Angoff estimates correlated with observed item difficulty more strongly for LLMs than for faculty judges](llm-angoff-item-difficulty-correlation.md) — related
+- [Zero-shot comparative prompting of instruction-tuned LLMs ranks MC question difficulty more effectively than absolute prompting, with a Spearman's correlation of 40.4%](zero-shot-comparative-difficulty-ranking-outperforms-absolute.md) — related
+- [Zero-shot difficulty-ranking performance plateaus with decreasing variance as the number of samples/comparisons K increases](zero-shot-performance-plateaus-with-k.md) — related

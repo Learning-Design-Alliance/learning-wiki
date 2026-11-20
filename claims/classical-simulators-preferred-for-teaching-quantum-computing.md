@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-11-20
 sources:
   - id: shlomo-kashani-and-david-zaret-2023
     resource: "https://doi.org/10.48550/arXiv.2302.12889"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors give three reasons why a classical simulator is beneficial when teaching graduate students quantum computing. [→ Shlomo Kashani and David Zaret 2023](#shlomo-kashani-and-david-zaret-2023)

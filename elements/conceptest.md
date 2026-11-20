@@ -13,7 +13,7 @@ generated:
 # ConcepTest
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (7 for) · 13 studies (4 quant-synthesis, 3 causal, 2 associational, 2 design, 2 theoretical), `q2`–`q4` · 4 of 13 report an effect size · 4 claims rest on one study
+> **Evidence** · 10 claims (8 for, 1 mixed, 1 against) · 15 studies (5 causal, 4 quant-synthesis, 2 associational, 2 design, 2 theoretical), `q2`–`q4` · 4 of 15 report an effect size · 7 claims rest on one study
 
 ## Description
 A ConcepTest is a short multiple-choice (or short-answer) question focused on a single concept — typically one where learners hold predictable misconceptions — posed to the whole class. Learners commit to an answer individually (often via clicker or show of hands), discuss with neighbors, revote, and then the instructor resolves the result. Developed by Eric Mazur in Harvard's physics course, it is the question engine of [Peer Instruction](../patterns/peer-instruction.md).
@@ -58,6 +58,9 @@ ConcepTests convert lecture time into [active learning](../principles/active-lea
 - [Junior-senior level QM classes using concept tests as peer instruction tools significantly outperform a traditionally taught comparison class on a conceptual quiz](../claims/qm-concept-tests-outperform-traditional-instruction.md) [+W] — attached 2026-11-17 from Chandralekha Singh et al. (2010), which proposed "Bank of about 500 research-based QM concept test questions"; tests this page's relationship.
 - [Students' average scores on quantum measurement questions rise from 26% after traditional instruction to 68% after concept tests and 91% after the measurement QuILT](../claims/quilt-concept-tests-improve-quantum-measurement-scores.md) [+W] — attached 2026-11-17 from Guangtian Zhu et al. (2008), which proposed "Research-based concept tests on quantum measurement as peer instruction tools".
 - [Upper-level QM students show moderate pretest-to-posttest gains on every question after engaging with the Larmor precession clicker question sequence with peer instruction](../claims/cqs-larmor-moderate-gains-all-questions.md) [+W] — attached 2026-11-18 from Paul Justice et al. (2019), which proposed "Larmor precession of spin clicker question sequence (CQS)".
+- [Change of basis was the most difficult content, with common errors of dividing expansion coefficients by the square root of two or keeping coefficients unchanged, and the vast majority answered correctly on the post-test in one single-group pre-post study](../claims/change-of-basis-most-difficult-corrected-by-cqs.md) [+W] — attached 2026-11-20 from Peter Hu et al. (2024), which proposed "Clicker Question Sequence on basics and change of basis for two-state quantum systems"; tests this page's relationship.
+- [Student difficulty with time-independence of expectation values in stationary states was resistant to CQS instruction: correct selection on CQS 4.2 rose only from 54% to 57% between polling rounds](../claims/stationary-state-expectation-values-resistant-difficulty.md) [-W] — attached 2026-11-20 from Peter Hu et al. (2021), which proposed "Research-validated clicker question sequence (CQS) on time-development of two-state quantum systems"; tests this page's relationship.
+- [Post-test performance was comparable between online and in-person implementations despite reduced peer discussion online](../claims/comparable-posttest-online-in-person.md) [~W] — attached 2026-11-20 from Hu et al. (2022), which proposed "Clicker Question Sequence (CQS) on measurement uncertainty for two-state quantum systems".
 
 ## Related Elements
 

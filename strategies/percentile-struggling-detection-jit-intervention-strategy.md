@@ -43,7 +43,8 @@ The article describes an implementable detection-and-intervention strategy for p
 - [RFC just-in-time interventions significantly increase the rate of Requests for Comments by students in a programming MOOC](../claims/rfc-intervention-increases-help-requests-mooc.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Identify struggling students early from in-unit assignment interactions and provide timely personalized support](early-identification-of-struggling-students-from-in-unit-interactions.md)
 
 ## Examples
 -

@@ -57,3 +57,4 @@ In its drawbacks and challenges section, the review states that web-based simula
 - [Students rated video and audio transmission quality, connection stability, case comprehensibility and interaction options consistently good to very good](e-visite-technical-quality-ratings.md) — related
 - [Difficulty accessing technology and internet connection issues are barriers to completing MOOCs, especially in developing countries](mooc-technology-access-barrier.md) — related
 - [Most participants judged telesimulation as offering fewer training opportunities than face-to-face instruction, citing technical difficulties most often](telesimulation-perceived-disadvantages.md) — related
+- [Thematic analysis of participant feedback identified three themes: challenges of audio-based learning, difficulties setting up the software environment, and benefits for data literacy and confidence](blind-learners-qualitative-themes.md) — related

@@ -93,3 +93,5 @@ Observation from the WBA transcripts (e.g. a developmental psychology question i
 - [Using a black-box LLM for feedback generation limits transparency and explainability](black-box-llm-feedback-transparency-limitation.md) — related
 - [Teachers found it difficult to find questions ChatGPT-3.5 answers incorrectly because it is stronger on factual than conceptual questions](chatgpt35-factual-stronger-than-conceptual.md) — related
 - [A minority of surveyed students reported that ChatGPT reduced their critical or independent thinking or provided inaccurate physics information](minority-students-report-reduced-critical-thinking.md) — related
+- [In a small proof-of-concept study, AI analysis of graduate students' explanations of BCI answers was rapid, informative, and provided actionable feedback on student thinking.](ai-analyzed-explanations-proof-of-concept.md) — related
+- [The review reports, citing Ray (2023), that ChatGPT can provide rapid responses and feedback on student work, aiding error correction](chatgpt-instant-feedback-error-correction.md) — related

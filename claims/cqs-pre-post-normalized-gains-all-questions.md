@@ -47,3 +47,4 @@ Table 1 reports pretest means of 59%, 24%, 17% and 14% and posttest means of 95%
 ## Related Claims
 - [Upper-level QM students engaging with the addition-of-angular-momentum CQS achieved posttest scores on constructing basis states (question (a)) and on matrix elements of the magnetic field-spin Hamiltonian (question (c)) similar to students who engaged with the QuILT](cqs-posttest-similar-to-quilt-on-basis-states-and-diagonal-operator.md) — related
 - [Average posttest scores exceeded 70% on all questions (roughly 90% on questions 1-3) after CQS implementation](cqs-larmor-posttest-above-70.md) — related
+- [A research-validated CQS on two-state quantum systems improved post-test performance on every tested concept across online and in-person implementations and two instructors](cqs-two-state-quantum-improves-all-concepts.md) — related

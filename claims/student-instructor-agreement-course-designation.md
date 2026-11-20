@@ -50,3 +50,4 @@ Qualitative content analysis of blind student and instructor descriptions of 16 
 - [The LCAS iteration scale differentiates CURE students from traditional lab students with a medium effect](lcas-iteration-differentiates-cures.md) — related
 - [The LCAS discovery and relevance scale differentiates CURE students from traditional lab students with a medium-large effect](lcas-discovery-relevance-differentiates-cures.md) — related
 - [The LCAS collaboration scale does not differentiate CURE students from traditional lab students](lcas-collaboration-no-group-difference.md) — related
+- [Students perceived that they conducted genuine scientific research in the online CURE](online-cure-perceived-real-research.md) — related

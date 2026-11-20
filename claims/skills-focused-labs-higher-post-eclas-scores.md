@@ -72,3 +72,4 @@ By-item comparison of FY students in skills- vs concepts-focused courses (30 cou
 - [Post-course E-CLASS scores were indistinguishable from national norms, indicating the cookbook/inquiry admixture had no effect different from cookbook labs](mixed-inquiry-cookbook-labs-no-gain-over-national-norms.md) — related
 - [Many instructors shifted remote lab learning goals toward reinforcing physics concepts, while skills-focused courses largely maintained their goals](shift-to-concept-focused-remote-lab-goals.md) — related
 - [A larger percentage of remote courses with concept-focused learning goals used PhET simulations (47.5%) than courses focused on lab skills (20.5%)](phet-use-higher-concept-focused-courses.md) — related
+- [Skills-based lab curricula reduce or reverse gender gaps in ECLASS scores, and benefit students of all genders relative to concepts-focused labs](skills-based-labs-reduce-gender-gaps-eclass.md) — related

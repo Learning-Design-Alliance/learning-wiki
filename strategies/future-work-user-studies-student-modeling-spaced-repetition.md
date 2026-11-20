@@ -56,6 +56,7 @@ The authors recommend a forward-looking agenda for the platform: conduct real-wo
 - [Add interactive features — quizzes, gamified modules, and simulated clinical scenarios — to future versions of skills-training software](future-interactive-features-quizzes-gamification-scenarios.md)
 - [Future development: integrate generative AI and a graphical interactive interface to lower the learning curve](generative-ai-graphical-interface-future-direction.md)
 - [Assessment domain: direct, continuous, personalized assessment and feedback, including self-assessment](postgraduate-me-assessment-continuous-personalized.md)
+- [Future directions for ML-based science assessment: generalizability, unbalanced data handling, user guidelines, and score interpretation supports](ml-science-assessment-future-directions-strategy.md)
 
 ## Examples
 -

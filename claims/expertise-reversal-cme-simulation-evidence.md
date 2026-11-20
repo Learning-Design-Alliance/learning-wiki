@@ -52,3 +52,4 @@ Theoretical argument in the discussion, citing the expertise reversal effect lit
 - [Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse as expertise increases](expertise-reversal-effect-compound.md) — a broader claim this one bears on
 - [Collaboration facilitates learning only under specific knowledge and experience conditions; with advanced learners it can be detrimental via the expertise reversal effect](collaboration-beneficial-conditions-expertise-reversal.md) — related
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — a narrower finding that bears on this claim
+- [LM judgments are internally consistent: SEEs designed to replicate the Variability Effect also replicate the Expertise Reversal Effect](see-judgments-consistent-across-replications.md) — related

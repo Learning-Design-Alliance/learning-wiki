@@ -51,3 +51,4 @@ Fine-grained analysis of symbolic success rates across task categories (Figure 5
 - [Current vision-language models struggle on education-oriented Turtle Graphics tasks, with even top models far below reliable performance on real-world tasks for grades 3-6](vlms-struggle-turtleai-real-world-tasks.md) — related
 - [Task category is the dominant factor in agent performance: cross-category spread (26.3 points) far exceeds cross-model spread (8.8 points)](category-difficulty-dominates-model-differences-academiclaw.md) — a broader claim this one bears on
 - [Word difficulty varies: short familiar-format words are easiest and abstract words hardest](word-difficulty-varies-across-target-words.md) — related
+- [Algebra II, Algebra I and Geometry were the most challenging assignment subjects, with Algebra II averaging 0.42.](algebra-ii-most-challenging-subject.md) — related

@@ -53,3 +53,4 @@ Theoretical argument in Section 4, consistent with the paper's cited broader fin
 - [Habits tend to override intentions primarily under unfavorable conditions such as stress, time pressure, or low self-control](habits-override-intentions-under-stress.md) — related
 - [Dynamic psychology research on habit formation is replacing vague verbal maxims of applied psychology with definite insights, including when practice makes perfect and when it does not.](dynamic-psychology-replaces-vague-maxims.md) — related
 - [Students' overreliance on generative AI can limit development of critical thinking skills when AI replaces rather than scaffolds learner reasoning](generative-ai-overreliance-limits-critical-thinking-development.md) — related
+- [The article argues that fading scaffolding and non-expert constraints mitigate the risk that AI assistance erodes critical thinking](scaffolding-fade-mitigates-ai-dependence-risk.md) — reports the opposite

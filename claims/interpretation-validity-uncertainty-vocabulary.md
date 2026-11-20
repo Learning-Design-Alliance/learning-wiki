@@ -48,3 +48,4 @@ In transcript excerpt 3 from the phase 4 discussion, Eric and Paul highlighted t
 ## Related Claims
 - [A main difficulty for pre-service physics teachers is interconnecting content knowledge with pedagogical content knowledge when diagnosing off-textbook conceptions](ck-pck-interconnection-barrier-off-textbook-diagnosis.md) — related
 - [Pre-service teachers find detecting erroneous student statements manageable but matching them to underlying conceptions difficult](detecting-errors-easier-than-inferring-conceptions.md) — related
+- [Some teachers expressed concern about whether their students were able to learn quantum content, including vocabulary barriers for English Learners and missing background in probabilistic thinking](student-ability-concerns-quantum.md) — related

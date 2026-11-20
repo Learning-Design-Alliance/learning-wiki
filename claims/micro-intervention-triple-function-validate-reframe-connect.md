@@ -54,3 +54,4 @@ Theoretical argument from the article's introduction defining the construct. The
 - [In-situ analysis of challenge episodes reveals a wide range of cognitive, motivational, emotional, and socially oriented micro-level challenges in collaborative learning](challenge-episodes-reveal-micro-level-challenges.md) — a broader claim this one bears on
 - [Student emotion episodes can be analyzed by emotional focus, attributed causes, and value-control appraisals](emotion-episodes-focus-causes-appraisals-analysis.md) — related
 - [Instructor feedback supported one student in reframing struggle as a sign of learning rather than weakness](taylor-feedback-struggle-reframe.md) — a narrower finding that bears on this claim
+- [Faculty in this study displayed cognitive rather than emotional empathy toward struggling students](cognitive-not-emotional-empathy-faculty.md) — related

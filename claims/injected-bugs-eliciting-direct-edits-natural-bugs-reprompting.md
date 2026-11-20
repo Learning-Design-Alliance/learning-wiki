@@ -46,3 +46,4 @@ Classroom log analysis of 2,636 sessions from 917 CS1 students using a prompt-ba
 - [Students make smaller code changes and fewer edit-and-run attempts after injected bugs than after natural bugs](smaller-edits-after-injected-bugs.md) — related
 - [Prompting strategies differ by bug source: natural bugs elicit specification-oriented strategies while injected bugs elicit guidance-oriented strategies](prompting-strategies-differ-by-bug-source.md) — related
 - [Students report code understanding, debugging, and AI-limitation awareness as primary learning benefits of buggy GenAI programming tasks](student-reflections-buggy-genai-learning-benefits.md) — related
+- [Through sequenced DFT long prompts, a majority of students produced a working discrete Fourier transform after the first prompt and all students after the second](lbcg-dft-prompt-learning-outcomes.md) — related

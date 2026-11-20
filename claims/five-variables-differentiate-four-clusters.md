@@ -55,3 +55,4 @@ MANOVA on the five log variables across four clusters; the article reports "73.2
 - [Cluster analysis of prompts per scenario-protocol distinguishes four profiles of instructional need: General, Measuring, Accuracy and Organizing](four-profiles-of-instructional-need.md) — related
 - [The four instructional-need profiles differ in observed training behaviors of self-confidence, openness, and concentration and cooperation](profiles-differ-in-observed-behaviors.md) — related
 - [Cluster analysis identified four medical student subgroups with significantly different final exam scores, ranging from 75.1 to 85.8](four-academic-performance-profiles-medical-students.md) — related
+- [Cluster analysis of lab discourse moves identifies four student discourse styles differing significantly on all five codes with large effects](four-discourse-styles-inquiry-labs.md) — related

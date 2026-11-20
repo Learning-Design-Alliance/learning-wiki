@@ -1,6 +1,8 @@
 # Publishing LDA research
 
-**Nothing is published here yet, and nothing unpublished belongs here at all.**
+**Nothing unpublished belongs here at all.** The first published release, `checklist-grading-2026`
+1.0.1 (DOI 10.5281/zenodo.24023968), lives in learning-research-reports with its governance; the
+wiki cites it as a source (2026-11-20).
 
 learning-wiki is a public repository. Every branch and every pull request is
 visible to anyone from the moment it is pushed, merged or not. So there is no

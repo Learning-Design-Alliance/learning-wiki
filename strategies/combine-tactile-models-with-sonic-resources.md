@@ -49,6 +49,7 @@ The article recommends pairing tactile models with sound-based adaptations of as
 - [Provide sonification of astronomical data with sufficient context, since sounds without context are hard to interpret](sonification-with-context-strategy.md)
 - [Use image sonification and screen-reader-compatible interfaces to make robotic-telescope image analysis accessible to blind and visually impaired students](image-sonification-bvi-astronomy-access.md)
 - [Provide a sonified HUDF alternative for visually impaired students alongside the visualization](hudf-sonification-visually-impaired-accommodation.md)
+- [Support shape exploration in sonification tools with a tactile frame or a tablet implementation](tactile-frame-tablet-edukoi-shape-strategy.md)
 
 ## Examples
 -

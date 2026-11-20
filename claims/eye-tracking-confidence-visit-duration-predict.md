@@ -69,3 +69,4 @@ Same eye-tracking analysis during Observe items (Table V): the visit-duration ef
 - [Video-based materials produce longer total fixation duration and more visits than other modalities](video-materials-longer-fixation-more-visits.md) — related
 - [High response confidence is associated with shorter visit durations on both item questions and options](high-confidence-shorter-visit-durations.md) — related
 - [No statistically significant differences in mean fixation duration across areas of interest, despite large differences in total fixation duration](no-mean-fixation-duration-differences-aois.md) — related
+- [Top-performing course learners visited significantly more course items on average than the remaining participants, visiting more than 92% of items on average.](openhpi-quantum-mooc-top-performers-visited-more-items.md) — related

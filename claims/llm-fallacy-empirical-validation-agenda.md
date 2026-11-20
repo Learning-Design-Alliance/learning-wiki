@@ -54,3 +54,4 @@ Future-work section proposing measurement frameworks for the LLM fallacy, includ
 - [Convenience–learning divergence proposition: satisfaction and adaptation may rise under AI mediation while intercultural engagement and frame revision fall](convenience-learning-divergence-proposition.md) — related
 - Assessment and metrics (82.61%) is the most proposed future research line, including evaluating digital pedagogical strategies in multicultural contexts (21.74%) — related
 - [Critical evidence gaps include longitudinal effects on skill retention, comparative evaluations of guardrail designs, equity impacts at scale, and standardized replication metrics](genai-personalization-evidence-gaps.md) — related
+- [The article reports a proposed exploratory between-subjects study of Claude.ai predicting improved comprehension and engagement over independent study](claude-ai-exploratory-study-design-predicts-gains.md) — a narrower finding that bears on this claim

@@ -81,3 +81,4 @@ Subjective satisfaction evaluation of the prototype using the SUS scoring approa
 - [Students rated the HoloLens 2 above average on the System Usability Scale (mean 79.4)](hololens-sus-79-above-average-usability.md) — related
 - [The Ethics Quarter e-learning intervention achieves good usability among nurse managers (mean SUS 85.40)](ethics-quarter-good-usability-sus-85.md) — related
 - [The Ethics Game received high perceived usability, with a mean SUS score of 83.14 rated Good to Excellent](ethics-game-high-sus-usability.md) — related
+- [Metabook enables novice users to create 3D books with high usability, and usability and time satisfaction are uncorrelated with education level and waiting time](metabook-high-usability-novice-creation.md) — related

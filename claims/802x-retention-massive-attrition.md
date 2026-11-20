@@ -68,3 +68,4 @@ The article's contextual statement about MOOC retention generally, cited to exte
 - [Enrollee age distribution is skewed toward college-aged students with mean 27.5, and US participants are older on average (mean 32.7) than Indian participants (mean 22.7)](802x-age-distribution-us-india-difference.md) — related
 - [Advanced degree holders are retained at nearly a 20% higher rate than participants with Bachelor's degrees or lower, and males show higher retention than females](802x-retention-education-and-gender-gaps.md) — related
 - [Across its first three editions Athena enrolled on average 70–80 pupils per year, with 80–90% obtaining participation certificates and withdrawal around 15–20%](athena-participation-completion-rates.md) — related
+- [38% of course learners successfully completed their quantum MOOC, and over 80% of exam participants passed the final exam.](openhpi-quantum-mooc-completion-and-exam-pass-rates.md) — related

@@ -42,7 +42,8 @@ The authors recommend leveraging the observed grade-exercise relationship by enc
 - [Attempting a new exercise on average increases estimated student ability during formative assessment](../claims/attempting-exercise-increases-estimated-ability.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Grading Stateful exercises: author decisions on parallel paths, review loops, penalties, and gameability, with encouraging continuous feedback](stateful-grading-design-decisions-strategy.md)
 
 ## Examples
 -

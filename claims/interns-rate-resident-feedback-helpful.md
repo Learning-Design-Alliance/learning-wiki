@@ -49,3 +49,4 @@ Intern self-reflection instrument item from the same assessment; the article pri
 - [More than 90% of participants perceived the RFM as helpful, confidence-boosting and valuable for future training](participants-perceive-rfm-helpful-for-training.md) — related
 - [Resident opinion of intern consult ability correlates strongly (r = .65) with how well the consult question used the PICO framework](strong-correlation-resident-rating-pico-quality.md) — related
 - [Third-year medical students call consultations during clerkships but rarely receive feedback or formal instruction](consult-needs-assessment-third-year-feedback-gap.md) — related
+- [90% of surveyed students (18/20) identified the expert and non-expert interviews as helpful or very helpful methodological instruments](cds-90-percent-interviews-helpful.md) — related

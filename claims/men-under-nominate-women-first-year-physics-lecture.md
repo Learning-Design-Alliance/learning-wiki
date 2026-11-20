@@ -57,3 +57,4 @@ ERGM analysis of peer-nomination networks in three remote introductory physics c
 - [On aggregate, men report significantly higher perceived peer recognition than women in both lab and lecture contexts, with small effect sizes](aggregate-gender-gap-perceived-recognition-small-effect.md) — related
 - [Men and women receive proportional recognition in lab contexts, but men receive disproportionately more recognition than expected in lecture contexts](received-recognition-proportional-lab-biased-lecture.md) — related
 - [For students receiving the same amount of peer recognition, women report significantly lower perceived recognition than men in both lab and lecture contexts](women-lower-perceived-recognition-same-received.md) — related
+- [Tool usage was similar for men and women and consistent across prior experience levels, but rose with age and was lower among non-binary students](style-feedback-demographic-usage-patterns.md) — related

@@ -53,6 +53,7 @@ The article recommends that TA training courses include tasks in which teaching 
 - [Sensitize instructors to students' likely conceptual difficulties when teaching first-year graduate quantum mechanics](sensitize-instructors-quantum-conceptual-difficulties.md)
 - [Use a predict-the-most-common-incorrect-answer task with a standardized concept survey in TA professional development to engender discussion of student difficulties](csem-pck-task-ta-professional-development.md)
 - [Run the brachistochrone activity in groups of four with learning assistants, allow fifty minutes, give hints, and provide the correct graphs at the end](brachistochrone-activity-implementation-recommendations.md)
+- [Use identified lab challenges, such as graph-interpretation difficulties, as the basis for deeper exploration in later lectures](lab-challenges-as-lecture-exploration-basis.md)
 
 ## Examples
 -

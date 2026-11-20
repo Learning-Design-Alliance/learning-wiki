@@ -53,3 +53,4 @@ Satisfaction questionnaire on a 3-level rating scale completed by the 400 studen
 - [Students rated online learning quality positively, with Quality of Online Resources and Perceived Importance of Online Resources the highest Q-OLQ components](qolq-online-resources-quality-rated-highest.md) — related
 - [Teachers rate LearnLens positively across usability, relevance, and accuracy, with all nine Likert items averaging at least 4.1/5](learnlens-teacher-satisfaction-4-1-of-5.md) — related
 - [Experimental-group participants rated TibetCPR highly usable (SUS = 84.3, an Excellent rating), with the highest items on voluntary engagement and independent use](tibetcpr-high-usability-sus-84-3.md) — related
+- [Metabook enables novice users to create 3D books with high usability, and usability and time satisfaction are uncorrelated with education level and waiting time](metabook-high-usability-novice-creation.md) — related

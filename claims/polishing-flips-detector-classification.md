@@ -55,3 +55,4 @@ The review reports Wang et al.'s experiment on JAAD International research lette
 - [AI-generated-text detectors are reported as ineffective against current sophisticated language models, and students can alter text to evade detection](ai-text-detectors-ineffective.md) — related
 - [In a paired exploratory comparison, extensive machine rewriting by a commercial humanizer materially degraded the manuscript while changing the detection score only slightly](humanizer-rewriting-small-score-change.md) — related
 - [The AI text classifier flagged more ChatGPT-group essays as likely AI-generated, but also produced false positives in the control group](ai-classifier-flags-more-gpt-essays-false-positives.md) — related
+- [Among five AI-detection tools, ZeroGPT was most accurate at 98% with precision 1.00 on binary classification](zerogpt-best-ai-detector-98-accuracy.md) — related

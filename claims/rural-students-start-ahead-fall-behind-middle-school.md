@@ -52,3 +52,4 @@ Large-scale observational analysis of fall and spring achievement data for 840,0
 - [Rural students' math and reading achievement can be characterized nationally using data from over 2,300 rural schools](rural-schools-achievement-growth-national-analysis.md) — a broader claim this one bears on
 - [Rural students are characterized as a substantially sized but overlooked group, comprising about 20 percent of the national student population](rural-students-forgotten-20-percent-framing.md) — related
 - [Kindergarten test scores from more than 400,000 U.S. students contain patterns that can predict academic success or identify students at risk of falling further behind by third grade](kindergarten-scores-predict-third-grade-trajectories-400000-students.md) — related
+- [Urban Georgia counties held a math achievement advantage over rural counties in 2019, but by 2021 rural counties slightly edged ahead](georgia-urban-rural-achievement-reversal-2021.md) — related

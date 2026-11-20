@@ -58,3 +58,4 @@ The review reports follow-up work by Hazari's group surveying only high-school g
 - [Students oriented toward STEM careers show more positive science attitudes, with non-STEM-intending students least positively impacted and astronomy/physics-career students most](astro-attitude-correlates-stem-career-orientation.md) — related
 - [Intentional recruitment produced a diverse invited-speaker slate: twelve of twenty-five speakers over eight years were women](intentional-speaker-recruitment-diversity-ncnaapt.md) — related
 - [A voluntary questionnaire showed a tendency of up to 70% of girls toward care-type professions](girls-questionnaire-care-type-professions-tendency.md) — related
+- [Men reported greater interest in quantum careers than women across all majors, but this gender difference disappeared among physical science and computer science majors](gender-interest-quantum-careers-major-dependent.md) — related

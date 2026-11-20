@@ -86,6 +86,7 @@ Roles improve the quality of collaboration when they distribute *cognitive* work
 - [Rotate students through experimental roles and run a mid-session mini-conference to build collaboration](../strategies/rotating-experimental-roles-mini-conference.md)
 - [Structure and incentivize equitable collaboration in lab groups: rotating roles, regular re-grouping, individual tinkering time, and scaffolded task division with TA buy-in](../strategies/equitable-collaboration-structuring-strategy.md)
 - [Assign and make deliberate explicit group roles such as group PI, reviewer, or science communicator in lab curricula](../strategies/explicit-group-roles-lab-curricula.md)
+- [Explicitly assign and rotate lab group roles, with reflection on role participation](../strategies/assign-rotate-lab-group-roles.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

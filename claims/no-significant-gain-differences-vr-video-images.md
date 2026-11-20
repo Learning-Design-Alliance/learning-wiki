@@ -56,3 +56,4 @@ Controlled randomized treatment study in calculus-based freshman physics at OSU:
 - [Students using stereoscopic VR did not significantly outperform students using WebGL simulations or static 2D images on 3D magnetostatics items](vr-no-outperform-webgl-images-magnetostatics.md) — related
 - [Students rated the VR electrostatics intervention positively and equally across treatment groups](students-rate-vr-intervention-positively-equally.md) — related
 - [Preliminary VR training on unrelated content leads to a small but statistically significant improvement in electrostatics assessment gains](vr-preliminary-training-improves-electrostatics-gains.md) — related
+- [Oral placement therapists viewing unmodified 2D lecture video scored higher on a knowledge test than those viewing modified stereoscopic 3D VR video (92.00% vs 77.80% average)](vr-video-lower-knowledge-test-than-2d-lecture.md) — reports the opposite

@@ -50,3 +50,5 @@ Observational pre-test analysis of 600 engineering students in three consecutive
 - [Average FCI scores in all three courses fall below the 60% entry threshold to Newtonian physics, even though 96.8% of participants had at least one prior attempt](fci-scores-below-entry-threshold.md) — related
 - [Impetus misconceptions are the most dominant incorrect answers, with impetus-supplied-by-hit (I1) chosen by more than 70% of students answering incorrectly across attempts](impetus-misconceptions-most-dominant-fci.md) — related
 - [Newtonian mechanics misconceptions persist despite extensive training in third-semester extended-programme students](newtonian-misconceptions-persistent-despite-training.md) — related
+- [Bogotá engineering students show predominantly Aristotelian and Galilean conceptions of falling bodies on the FCI](fci-bogota-falling-body-conceptions-distribution.md) — related
+- [Students perform better on repeated questions than unique ones, yet frequent repetition correlates with lower quiz scores](repetition-boosts-performance-but-correlates-lower-scores.md) — related

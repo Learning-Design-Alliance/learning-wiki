@@ -66,3 +66,4 @@ Subgroup analyses of the same preregistered nationally representative experiment
 ## Related Claims
 - [The fixed-versus-growth mindset teacher moderation of the mindset–choice link replicated for comfort with academic risk-taking across all four studies, with slight differences in simple effects in a few cases](mindset-moderation-academic-risk-taking.md) — related
 - [Students' growth mindset beliefs predict learning-oriented assignment choices when a hypothetical teacher provides growth mindset messages and opportunities, but not when the teacher is depicted with fixed mindset practices](teacher-mindset-practices-moderate-mindset-choice-link.md) — related
+- [Developing comfort with failure emerged inductively and extends Campbell et al.'s growth mindset practice framework](comfort-with-failure-extends-campbell-framework.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-20
 sources:
   - id: morales-navarro-2023
     resource: "https://doi.org/10.22318/icls2023.582416"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among students doing the DbD activity, the extent to which they completed their intentionally buggy projects correlated with significant increases in fascination in design (r = .257*) and programming growth mindset (r = .313**). [→ Morales-Navarro 2023](#morales-navarro-2023)
@@ -49,3 +50,4 @@ Correlation analysis within the DbD classes (N=90) in a virtual quasi-experiment
 - [Across DbD and comparison activities, project completion correlated with significant increases in CS creative expression and e-textiles coding self-efficacy](project-completion-cs-creative-expression-coding-self-efficacy.md) — related
 - [No significant difference in project completion between DbD and comparison activities](no-completion-difference-dbd-comparison.md) — related
 - [In comparison (Music) classes, project completion correlated with lower programming anxiety and higher problem-solving competency beliefs and programming self-concept](music-completion-anxiety-problem-solving-self-concept.md) — related
+- [Most growth mindset practice instances occurred while making buggy projects and in peer-to-peer interactions](gmp-context-making-buggy-projects-peer-interactions.md) — related

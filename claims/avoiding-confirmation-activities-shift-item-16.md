@@ -52,3 +52,4 @@ Post-test comparison of Item 16 between Spring 2017 and Spring 2018; Table II pr
 - [Students' views about measurement uncertainty, distinct from conceptual understanding, shifted favorably after the transformed course](measurement-uncertainty-views-shift-item-5.md) — related
 - [Rubric-guided revisions measurably shifted the inquiry-level composition of the three targeted laboratory classes toward higher levels](rubric-guided-revision-shifts-inquiry-proportions.md) — related
 - [In the first run of the transformed inquiry lab, students engaged with the work and identified known experimental nuances during initial data collection](inquiry-lab-first-run-students-found-nuances.md) — related
+- [Confirmation framing can support productive disciplinary engagement, including troubleshooting, when students encounter discrepant data](confirmation-framing-supports-productive-engagement.md) — related

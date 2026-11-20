@@ -49,3 +49,4 @@ One-on-one recorded Zoom interviews conducted by S.L.J. in fall 2021, a year aft
 - [NEXUS/Physics labs showed a closer importance-success match than ISLE labs on preparing students for a future career](nexus-labs-closer-career-importance-success-match.md) — related
 - [The scGY program affirmed or strengthened most participants' intent to pursue a healthcare career, while helping a few rule the path out](scgy-career-affirmation-and-exploration.md) — related
 - [Post-program surveys show most students felt more likely to pursue STEM, more comfortable in university labs, and found the program appropriately challenging](discovery-survey-attitudes-comfort-pursuit.md) — related
+- [Annual student feedback reports at least 70% felt more confident and enthusiastic about pursuing a STEM career](p4p-70-percent-confidence-enthusiasm.md) — related

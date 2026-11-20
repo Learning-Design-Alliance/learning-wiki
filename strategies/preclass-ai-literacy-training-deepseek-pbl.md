@@ -49,6 +49,7 @@ Before the course, the PBL-DeepSeek group completed a 30-minute training session
 - [Use structured reflection tables, learning journals, prompt variation, adversarial queries, and peer debate to cultivate AI intuition](reflection-tables-journals-debates-cultivate-ai-intuition.md)
 - [Graduate AI literacy training should promote purposeful, task-oriented, critically supervised GenAI use rather than targeting overall use levels](critically-supervised-task-oriented-genai-use-strategy.md)
 - [Integrate ChatGPT into hands-on skills training through pre-practice preparation, in-session tablet consultation, and post-practice reflection, capped at about 5 minutes per 30-minute session](chatgpt-capped-integration-skills-training-strategy.md)
+- [Integrate Generative AI literacy into curricula, including query formulation workshops and critical evaluation exercises](generative-ai-literacy-curriculum-integration.md)
 
 ## Examples
 -

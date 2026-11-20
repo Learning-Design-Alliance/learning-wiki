@@ -62,6 +62,8 @@ The article's implications recommend that institutions "avoid positioning AI as 
 - [Use LLM-based feedback on resident reports so trainees can identify weaknesses, track growth, and reduce mentor workload](llm-feedback-resident-report-training-strategy.md)
 - [Communicate that VR assessment complements rather than replaces existing examination formats, and retain manual recording during early implementation](vr-as-complement-communication-strategy.md)
 - [Use LLMs as learning supports offering immediate feedback and individualized learning experiences, not as replacements for human instruction](llms-immediate-feedback-individualized-support-physics.md)
+- [Combine ChatGPT with human teachers in dialogic teaching rather than replacing human teachers](combine-chatgpt-with-human-teachers-strategy.md)
+- [Use LM evaluators as coarse, preliminary evaluators to speed up educational content design, not as replacements for human evaluators or empirical studies](lm-as-coarse-evaluator-augmentor.md)
 
 ## Examples
 -

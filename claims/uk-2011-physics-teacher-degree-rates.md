@@ -50,3 +50,4 @@ The article reports, citing the UK Department of Education (DoE 2012, Table 13),
 - [Non-specialist teaching at Alagoas secondary schools is highly subject specific: maths and biology are taught predominantly by specialists while physics is affected particularly strongly](subject-specific-non-specialist-teaching-alagoas.md) — related
 - [In 2011 more mathematicians than physicists were teaching physics in Alagoas secondary schools](mathematicians-outnumber-physicists-teaching-physics.md) — related
 - [Subjects cluster by specialist availability, and because physicists already focus on teaching their own subject, raising physics' specialist teaching rate requires more physics teachers](physics-specialist-rate-limited-by-teacher-supply.md) — related
+- [Semantic matching reveals high cross-subject overlap, including 76% between Visual Arts and Computing and 34% between Health Science and Biology.](cross-subject-overlap-percentages.md) — related

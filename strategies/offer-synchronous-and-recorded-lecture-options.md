@@ -50,6 +50,7 @@ During the spring 2020 shift, case study institutions commonly built in options 
 - [For online lectures, decide between synchronous streaming and asynchronous delivery, and always post recordings for equity](online-lecture-synchronous-asynchronous-recordings-equity.md)
 - [Provide remote students with sample data, video lecture, and virtual walkthrough when in-person access is impossible](remote-lab-sample-data-substitute-strategy.md)
 - [Offer calculus-based physics in a virtual synchronous format for community college students with time commitments](synchronous-virtual-format-community-college-physics.md)
+- [Offer teacher continuing education remotely, with distributed dates and times and recorded sessions, to widen participation and scientist contact](online-format-recorded-sessions-teacher-outreach.md)
 
 ## Examples
 -

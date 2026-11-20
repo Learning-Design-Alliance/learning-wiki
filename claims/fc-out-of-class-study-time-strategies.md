@@ -55,3 +55,4 @@ Focus-group interview responses on out-of-class study behavior. The article repo
 - [Self-reported out-of-class study time decreased in experiment 3 even though student performance increased](exp3-study-time-decreased.md) — related
 - [Distributing pre-class video links three days versus two weeks in advance produced no significant difference in viewing rates](link-timing-no-significant-viewing-difference.md) — related
 - [The author's teaching experience suggests that providing students hyperlinks to watch online video after class is the easiest but least effective route, with many students not watching the video](post-lecture-hyperlink-video-least-effective.md) — related
+- [Self-estimated workload rises from about twenty to about fifty hours per week in the first lecture weeks and correlates strongly with perceived stress](workload-trajectory-stress-correlation.md) — related

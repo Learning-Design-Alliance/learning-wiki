@@ -56,3 +56,4 @@ Within the Factor 1 (Pessimistic Evaluators) viewpoint, concerns about misleadin
 - [Wary Thinkers share over-reliance and privacy concerns with Pessimists but acknowledge ChatGPT's time-saving benefits](wary-thinkers-overreliance-privacy-time-saving.md) — related
 - [IDs expressed quality concerns over GenAI-generated content, including bias, inaccuracy, hallucinations, and lack of authenticity](genai-quality-concerns-bias-hallucination.md) — related
 - [The sampled practice material contains potentially inaccurate or misleading radiation therapy information, for which the authors propose specific corrections](inaccurate-rt-content-nbme-practice-questions.md) — related
+- [Pre-service teachers expressed concerns about ChatGPT's accuracy (11/29) and students' potential over-dependence (13/29), and proposed remedies of diversified information sources and structured classroom interactions](chatgpt-accuracy-overdependence-concerns-remedies.md) — related

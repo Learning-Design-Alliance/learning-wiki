@@ -51,6 +51,7 @@ The study used a three-stage incremental prompt design: Prompt 1 instructed the 
 - [Provide LLM graders with the full human rubric, accepted solutions, and common-mistake penalties in the prompt (rubric-enhanced prompting)](rubric-enhanced-llm-grading-prompt.md)
 - [Reserve LLM grading for short, well-structured tasks with explicit rubrics or exemplar answers, newer models, and stable API pipelines](reserve-llm-grading-for-structured-rubric-tasks.md)
 - [Use specific, detailed, iterative and explicit prompts when directing ChatGPT Code Interpreter through laboratory tasks](chatgpt-lab-prompting-strategies.md)
+- [Improve LLM feedback quality via JSON-schema prompts with hidden scoring keys and preprocessing code into structured dictionaries](llm-prompt-schema-and-preprocessing-strategy.md)
 
 ## Examples
 -

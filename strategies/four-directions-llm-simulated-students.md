@@ -40,6 +40,7 @@ The article organizes promising applications of LLM-based simulated students int
 
 - [Establish standardized misconception benchmarks using isomorphic items, paraphrases, and multi-turn curricula](standardized-misconception-benchmarks-ess.md)
 - [Use LLM persona simulation only for preliminary experimentation, stress testing, and hypothesis generation, with separate validation for consequential applications](persona-simulation-preliminary-use-only.md)
+- [Use LM evaluators as coarse, preliminary evaluators to speed up educational content design, not as replacements for human evaluators or empirical studies](lm-as-coarse-evaluator-augmentor.md)
 
 ## Examples
 -

@@ -56,6 +56,7 @@ The article's practical-implications section recommends that teachers "create an
 - [Implement teacher training to enhance supportive teaching practices and strengthen students' academic self-efficacy](teacher-training-supportive-practices-self-efficacy.md)
 - [Develop physical activity or sports programs that strengthen peer relationships to improve the academic performance of adolescents experiencing depression](sports-programs-strengthen-peer-relationships-strategy.md)
 - [Teaching for grit: build autonomy-supportive classroom climates with collaboration, low-competition culture, constructive feedback, and challenging long-horizon learning experiences](teaching-for-grit-autonomy-support-strategy.md)
+- [Multi-stakeholder support for students' self-management and self-efficacy (parents, teachers, administrators)](multi-stakeholder-support-self-management-self-efficacy.md)
 
 ## Examples
 -

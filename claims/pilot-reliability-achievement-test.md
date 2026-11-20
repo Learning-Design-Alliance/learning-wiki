@@ -50,3 +50,4 @@ Pilot study with 9 prospective English teachers who had previously taken the sam
 - [The final test variants met reliability criteria: split-half correlations exceeded the critical value and the Brown-Spearman reliability coefficient was 0,8](test-reliability-splithalf-brown-spearman.md) — related
 - [Computer-based and paper-based test versions show a strong positive correlation supporting concurrent validity](strong-correlation-concurrent-validity-cbt-pbt.md) — related
 - [Split-half analysis supports the internal consistency of the Turkish-adapted tool (Spearman–Brown = 0.800, Guttman = 0.796)](turkish-clt-tool-split-half-spearman-brown-0800.md) — related
+- [Split-half administration shows comparable performance on the 22 common items regardless of item order, supporting reliability](stpfasllong-split-half-reliability-common-items.md) — related

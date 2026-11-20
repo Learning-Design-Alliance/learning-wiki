@@ -49,3 +49,4 @@ Qualitative finding from the discussion of a phenomenological case study of 11 p
 - [Living at the intersection of multiple underrepresented identities compounded physics majors' lack of belonging](intersectional-uris-compound-lack-of-belonging.md) — possibly the same claim (merge candidate)
 - [Eight of nine participants with underrepresented identities reported challenges specifically tied to one or more of their URIs](uri-specific-challenges-physics-majors.md) — a narrower finding that bears on this claim
 - [Representation in the sub-discipline relates to belonging: women of color in pSTEM report belonging less frequently than white men](field-representation-relates-to-womens-belonging.md) — related
+- [Intersectional identities shaped negative experiences: one participant attributed negative peer experiences to both her race and her gender](intersectionality-race-gender-negative-experiences.md) — a narrower finding that bears on this claim

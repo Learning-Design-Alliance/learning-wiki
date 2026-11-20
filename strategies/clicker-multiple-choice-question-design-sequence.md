@@ -47,6 +47,7 @@ The article's integration strategy recasts warm-up, homework, and review questio
 - [Low Stakes Quizzing](low-stakes-quizzing.md)
 - [Pair clicker questions with at-home follow-up reflections asking students to explain each statement](pair-clickers-with-at-home-reflection-explanations.md)
 - [Optional age-calibrated multiple-choice quizzes with explanations at the end of each game level](optional-age-calibrated-quiz-strategy.md)
+- [Ask clicker questions even on concepts students already perform well on, as warm-ups building to harder questions](cqs-warmup-questions-on-easy-concepts.md)
 
 ## Examples
 -

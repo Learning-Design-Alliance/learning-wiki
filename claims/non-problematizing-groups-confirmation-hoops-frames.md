@@ -70,3 +70,4 @@ Transcribed discussion of the Social Group G's beach ball data, which occurred w
 - [An instructor's falsification pitch shifted five of seven lab groups into falsification-oriented frames for roughly half the activity](falsification-pitch-shifted-predictions-five-of-seven-groups.md) — related
 - [Instructor cues shifted students' experimental predictions more successfully than their epistemic agency](instructor-cues-shift-predictions-not-agency.md) — related
 - [TA spent roughly 60% of interaction time cuing falsification-oriented frames and never cued confirmation frames, but once cued the Hoops frame](ta-interaction-time-frame-cues-distribution.md) — related
+- [Confirmation framing can support productive disciplinary engagement, including troubleshooting, when students encounter discrepant data](confirmation-framing-supports-productive-engagement.md) — related

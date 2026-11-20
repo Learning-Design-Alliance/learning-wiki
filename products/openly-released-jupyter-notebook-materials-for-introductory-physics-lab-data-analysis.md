@@ -20,6 +20,8 @@ A set of English- and German-language Jupyter Notebooks created by Eugenio Tufin
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Publicly released GitHub repository of Jupyter Notebooks for the lab course**: The authors released the curricular material on GitHub as the "GitHub Repository for Jupyter Notebooks in Lab Course at Uni Potsdam", making the introductory and advanced notebooks available for both collaborative and independent learning. The material was "tailored to be approachable even for students without prior coding experience", supporting reuse by other educators integrating computation into laboratory courses. (E. Tufino et al. (2024))
+- **Three-module Jupyter Notebook curriculum for introductory Python data analysis in physics lab**: A set of eleven Jupyter Notebooks in three modules: an Introduction to Python module (four JNs) covering installation, calculations, plotting, least squares linear regression, correlation and chi-squared; an Application Examples module (five JNs) with exercises such as sunspot moving averages, illuminance vs distance, pendulum period histograms, parabolic motion simulation, and atmospheric CO2 plotting; and an Additional Python Techniques module (two JNs) on data import across Jupyter Lab-Anaconda, Google Colab and online sources. The material is accessible on GitHub and "tailored to be approachable even for students without prior coding experience". (E. Tufino et al. (2024))
 
 ### Claims
 
@@ -28,3 +30,4 @@ A set of English- and German-language Jupyter Notebooks created by Eugenio Tufin
 
 ## Key Sources
 - Eugenio Tufino, Stefano Oss, and Micol Alemani. (2023). Integrating Python data analysis in an existing introductory laboratory course. https://github.com/etufino/Jupyter-Notebooks-in-Lab-Course-Uni-Potsdam
+- E. Tufino, S. Oss, and M. Alemani. (2024). Using Jupyter Notebooks to foster computational skills and professional practice in an introductory physics lab course. https://arxiv.org/abs/2405.16675

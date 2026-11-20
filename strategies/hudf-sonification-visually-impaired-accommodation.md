@@ -53,6 +53,7 @@ To accommodate visually impaired students in the AHaH labs, the team provided an
 - [Provide sonification of astronomical data with sufficient context, since sounds without context are hard to interpret](sonification-with-context-strategy.md)
 - [Combine tactile sky models with sonic resources (sonifications and audio descriptions) in inclusive astronomy activities](combine-tactile-models-with-sonic-resources.md)
 - [Iteratively refine non-visual data mappings through user testing, preferring identifiable timbres and non-volume parameters for distance](iterative-user-tested-sensory-mapping-recommendations.md)
+- [Support shape exploration in sonification tools with a tactile frame or a tablet implementation](tactile-frame-tablet-edukoi-shape-strategy.md)
 
 ## Examples
 -

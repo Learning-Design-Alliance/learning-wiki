@@ -51,3 +51,4 @@ Evaluation of performance across history sizes from 50 to 400 prior interactions
 - A memory-augmented deep learning model improves hint-taking prediction by 12-15 AUC points over a fixed-length history baseline on two datasets — related
 - [Existing KT methods fail to beat a majority-class baseline on the small CoMTA dialogue dataset but perform significantly better on the larger MathDial dataset.](existing-kt-methods-fail-on-small-comta-but-improve-with-more-data-on-mathdial.md) — related
 - [Hybrid approaches combining LLMs with traditional knowledge-tracing algorithms outperform either method alone for learner modelling](hybrid-llm-knowledge-tracing-outperforms-either-alone.md) — related
+- [Performance on MMLU, HellaSwag, and Winogrande remains relatively stable regardless of student or tutor response training](mmlu-hellaswag-winogrande-stable.md) — related

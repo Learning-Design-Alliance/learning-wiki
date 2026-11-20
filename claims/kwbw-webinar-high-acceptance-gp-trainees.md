@@ -51,3 +51,4 @@ Online questionnaire evaluation of five digital seminar days in the KWBW program
 - [Students rate digital simulated-person communication seminars highly, with 63% giving a very good and 37% a good overall grade](digital-sp-seminars-high-student-acceptance.md) — related
 - [About 70% of attendees evaluated the two-day seminar as helpful or very helpful for their practical work and 22.9% attributed new competencies to it](seminar-rated-helpful-by-most-attendees.md) — related
 - [Most students were satisfied with the air:bit project and found the online materials helpful](airbit-student-satisfaction-online-materials.md) — related
+- [Overall feedback on the storytelling activity was very positive, with 86.8% of students willing to participate again](positive-overall-feedback-willingness-participate-again.md) — related

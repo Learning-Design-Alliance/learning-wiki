@@ -67,3 +67,4 @@ Post-hoc feature importance analysis (Table 8, top 20 features per subject) usin
 - [Machine-learning SHAP analysis identifies age and extraversion as the most important single predictors for students, and learning-based memory and motor response capabilities for physicians](shap-single-variable-importance-students-physicians.md) — related
 - [Lecture length features are the most influential predictors of engagement, and the top five features span all quality verticals](shap-length-features-most-influential.md) — reports the opposite
 - [Integrated-gradient analysis found pretest score and math anxiety were the most influential features on the learned policy's pedagogical choices](integrated-gradient-policy-feature-importance.md) — related
+- [The most important feature for the ClickTree model was sequence folder path level 3, representing the subject of the assignment problem.](sequence-folder-path-level-3-most-important-feature.md) — related

@@ -57,3 +57,4 @@ Reflective editorial section identifying psychological factors as an "often unde
 - [Black women and participants with intersecting identities report being overlooked, facing microaggressions, and experiencing imposter syndrome in tech spaces](intersectional-identity-impact-black-women-tech.md) — related
 - [Racially marginalized students are less likely to report a sense of belonging in STEM education](marginalized-students-lower-stem-belonging.md) — a broader claim this one bears on
 - [A reported 93% of NAC students indicated they struggle with imposter syndrome, which the authors argue is rarely discussed openly](nac-students-imposter-syndrome-prevalence.md) — related
+- [Relationships with peers and mentors in academia reduce the prevalence of imposter phenomenon, including among students from HMGs](academic-relationships-reduce-imposter-phenomenon.md) — related

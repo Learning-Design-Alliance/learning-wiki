@@ -88,6 +88,7 @@ Role assignment converts loose cooperation into structured collaboration, which 
 - [Managing a PBL class: heterogeneous small groups, facilitator monitoring, and a closing debriefing to correct misconceptions](pbl-class-management-groups-debriefing.md)
 - [Distribute group tasks as numbered activities assigned randomly so each child participates fairly](numbered-random-task-distribution-group-work.md)
 - [Assign and make deliberate explicit group roles such as group PI, reviewer, or science communicator in lab curricula](explicit-group-roles-lab-curricula.md)
+- [Explicitly assign and rotate lab group roles, with reflection on role participation](assign-rotate-lab-group-roles.md)
 
 ## Examples
 - **[Complex Instruction](complex_instruction.md) (Cohen & Lotan, Stanford)** — role structures (facilitator, recorder/reporter, materials manager, understanding checker) combined with status treatments to equalize participation in heterogeneous classrooms. See https://cgi.stanford.edu/group/pci/cgi-bin/site.cgi

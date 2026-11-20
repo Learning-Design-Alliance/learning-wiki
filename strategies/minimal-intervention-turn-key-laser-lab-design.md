@@ -45,7 +45,9 @@ The article recommends making an advanced laser experiment implementable in a te
 - [Instructor and student feedback indicated the experiment was turn-key, stable, and a rare undergraduate exposure to ultrafast spectroscopy](../claims/turn-key-stable-experiment-positive-feedback.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Begin laboratory training with explicit laser safety protocols before any alignment work](laser-safety-training-first.md)
+- [Teach beam steering with the iterative near-near far-far alignment method using near and far mirror adjustments](near-near-far-far-beam-walking-method.md)
 
 ## Examples
 -

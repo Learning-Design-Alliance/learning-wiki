@@ -51,3 +51,4 @@ The article's tentative DAG analysis of Gašević et al. (2016), a large analysi
 - [Unprincipled inclusion of covariates ('garbage-can regression') can introduce rather than remove bias](garbage-can-regression-fallibility.md) — a broader claim this one bears on
 - [Learning analytics can reliably record certain behaviors but cannot necessarily validate inferences about what learners know or are motivated to learn](trace-data-reliability-vs-validity-inference.md) — related
 - [Measured aspects of students' collaborations helped explain why some students in the blended course were more successful than others.](collaboration-measures-explain-student-success-differences.md) — related
+- [Stateful behavioural classification predicts success in other parts of the course, with the fitted metric applicable to groups A and B but not group C](stateful-classification-predicts-course-success.md) — related

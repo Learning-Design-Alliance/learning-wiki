@@ -52,3 +52,4 @@ Comparison of average scores by final-exam expertise group (1-5) in course A (fr
 - [Correspondence between free-response and multiple-choice performance across courses is better when partial credit is awarded for both](partial-credit-improves-fr-mc-correspondence.md) — related
 - [Free-response answers in course A could be matched to the a priori multiple-choice choices for 84% (Question 1) and 88% (Question 2) of students](fr-answers-match-apriori-mc-choices.md) — related
 - [Multiple-choice, multiple-response question formats tap into more student ideas than free response questions](mcmr-elicits-more-student-ideas.md) — related
+- [In the 2021 in-person implementation, gains were polarized by question format: open-ended questions showed effect sizes of 1.5-2.0 while multiple-choice questions showed 0.30-0.80](inperson-gains-polarized-open-ended-vs-multiple-choice.md) — related

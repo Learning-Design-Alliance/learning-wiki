@@ -46,3 +46,4 @@ Single observational night with a 150 mm telescope, during which the group obser
 
 ## Related Claims
 - [A cloudy-night moon-phase activity produced an eight-sigma improvement on the question testing that the full moon cannot be seen at noon](moon-phase-activity-eight-sigma-gain.md) — related
+- [Hands-on telescope observation of the Moon increased students' observational skills and familiarity with lunar geological features](telescope-observation-increases-student-observational-skills.md) — related
