@@ -8,12 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
-newest_evidence: 2025
-recheck_by: 2028
+newest_evidence: 2026
+recheck_by: 2029
 sources:
-  - id: la-hadi-2025
+  - id: la-hadi-2026
     resource: "https://doi.org/10.48550/arxiv.2607.26067"
-    title: "La Hadi, A., Alibasa, M. J., Chen, G., & Asyhari, A. T. (2025). The “Easy Trap”: Why LLMs Underestimate Misconception-Driven Difficulty. https://arxiv.org/abs/2607.26067 [doi:10.48550/arxiv.2607.26067](https://doi.org/10.48550/arxiv.2607.26067)"
+    title: "La Hadi, A., Alibasa, M. J., Chen, G., & Asyhari, A. T. (2026). The “Easy Trap”: Why LLMs Underestimate Misconception-Driven Difficulty. https://arxiv.org/abs/2607.26067 Originally published 2025. [doi:10.48550/arxiv.2607.26067](https://doi.org/10.48550/arxiv.2607.26067)"
     author: "La Hadi, A., Alibasa, M. J., Chen, G., & Asyhari, A. T."
     q: 2
     i: "?"
@@ -25,16 +25,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
-`q2 i?` RMSE and MAE values vary notably across LLM models, so correlation alone overstates practical predictive accuracy of difficulty magnitude. [→ La Hadi 2025](#la-hadi-2025)
+`q2 i?` RMSE and MAE values vary notably across LLM models, so correlation alone overstates practical predictive accuracy of difficulty magnitude. [→ La Hadi 2026](#la-hadi-2026)
 
 ## Evidence
 
-### La Hadi 2025
+### La Hadi 2026
 
-La Hadi, A., Alibasa, M. J., Chen, G., & Asyhari, A. T. (2025). The “Easy Trap”: Why LLMs Underestimate Misconception-Driven Difficulty. https://arxiv.org/abs/2607.26067 [doi:10.48550/arxiv.2607.26067](https://doi.org/10.48550/arxiv.2607.26067)
+La Hadi, A., Alibasa, M. J., Chen, G., & Asyhari, A. T. (2026). The “Easy Trap”: Why LLMs Underestimate Misconception-Driven Difficulty. https://arxiv.org/abs/2607.26067 Originally published 2025. [doi:10.48550/arxiv.2607.26067](https://doi.org/10.48550/arxiv.2607.26067)
 
 `q2 · i?` · `associational · r2`
 
@@ -60,3 +60,4 @@ Analysis of the same four-model comparison against empirical IRT difficulty repo
 - [LLM-generated scores on multimodal OSPE items correlate strongly with human scores in rank order yet diverge substantially on categorical pass/fail decisions](llm-ospe-rank-agreement-paradox.md) — a narrower finding that bears on this claim
 - [The ML regression model's predicted GOALS scores correlate strongly with expert evaluations (r = 0.86 dissection, r = 0.91 suturing) with small mean absolute errors](mocap-goals-prediction-correlation-mae.md) — related
 - [Participants' and tutors' rankings of medical error types were highly similar, indicating strong agreement between the two perspectives](participant-tutor-ranking-agreement.md) — related
+- [Zero-shot comparative prompting of instruction-tuned LLMs ranks MC question difficulty more effectively than absolute prompting, with a Spearman's correlation of 40.4%](zero-shot-comparative-difficulty-ranking-outperforms-absolute.md) — related

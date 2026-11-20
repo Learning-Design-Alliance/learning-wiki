@@ -50,3 +50,4 @@ Comparison of AI score distribution against a Gaussian reflecting Physics in Soc
 - [A specialized RAG-based LLM outscored all 36 neurosurgeons on a VNS knowledge MCQ, with a total score of 0.75 versus a highest individual surgeon score of 0.68](ai-outscores-neurosurgeons-vns-mcq.md) — related
 - [Rubric-based GPT-4 prompting produced the strongest reflective assessment (80%), surpassing the top student submission (70%), though lacking personalization](chatgpt-reflective-assessment-strong-but-impersonal.md) — reports the opposite
 - [ChatGPT scores rose from V1 to V3 across assessment types in one uncontrolled pre-post study, with V3 achieving the highest average scores](rubric-integration-improves-chatgpt-scores.md) — related
+- [A randomly chosen GPT-4 essay from the study's prompts would achieve a First or Upper Second-Class grade 81.43% of the time, potentially advantaging weaker students](random-ai-essay-first-or-2-1-81-percent.md) — related

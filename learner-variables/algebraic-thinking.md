@@ -13,7 +13,7 @@ generated:
 # Algebraic Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 120 claims (73 show a difference, 31 mixed, 16 no difference) · 82 studies (47 causal, 12 qualitative, 9 associational, 6 theoretical, 5 review, 2 design, 1 quant-synthesis), `q1`–`q4` · 15 of 82 report an effect size · 116 claims rest on one study
+> **Evidence** · 121 claims (74 show a difference, 31 mixed, 16 no difference) · 83 studies (47 causal, 12 qualitative, 10 associational, 6 theoretical, 5 review, 2 design, 1 quant-synthesis), `q1`–`q4` · 15 of 83 report an effect size · 117 claims rest on one study
 
 ## Description
 Algebraic thinking is the ability to generalise, represent, justify and reason with abstract mathematical structures and relationships: noticing that a pattern holds for all numbers, writing it with symbols, and arguing why it holds. The Learner Variability Navigator stresses that it is not only a secondary-school subject: in the primary grades it deepens understanding of arithmetic, for example by making the properties of operations explicit, and it helps students connect separate parts of their early mathematics. It is assessed with written early-algebra assessments and with researcher-designed measures that separate conceptual knowledge, procedural knowledge and flexibility in solving equations.
@@ -157,6 +157,7 @@ LVN follows it from grade 3 to grade 10. It links forward to [geometric reasonin
 - [Fewer than half of introductory students could solve two equations symbolically for wavelength in the physics context, though most could solve an isomorphic purely mathematical system](../claims/poor-symbolic-manipulation-transfer-to-physics.md) [~M] — measured as an outcome of the instruction studied
 - [Physics experts' symbolic reasoning during graphing tasks is grounded in task context about 3/4 of the time, with almost no purely mathematical reasoning observed](../claims/experts-blend-quantity-and-task-context-graphing.md) [~M] — measured as an outcome of the instruction studied
 - [Some students mentally convert between numerical and pictorial representations, and their reasoning can change with representation](../claims/students-switch-representations-when-comparing-measurements.md) [+W] — learners who differ on it differ in outcomes
+- [Algebra-based students performed significantly worse than calculus-based students on questions related to heat transfer and work](../claims/algebra-based-worse-than-calculus-based-q-w.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Early algebra assessment** (Blanton et al., 2015): Written assessment to measure students' understanding of core algebraic concepts and practices.

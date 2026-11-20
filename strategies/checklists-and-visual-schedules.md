@@ -69,6 +69,7 @@ Both tools reduce extraneous cognitive load by removing the need to hold a task 
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — externalizing sequences frees working memory for the task itself
 - [Accommodations](../elements/accommodations.md) — visual schedules are among the most common documented accommodations for autism and ADHD
 - [Sequencing familiar everyday tasks to teach order of instructions](sequencing-everyday-tasks-k2.md)
+- [Write laboratory tutorials as detailed step-by-step instructions students follow independently without continual instructor guidance](step-by-step-self-guided-lab-tutorials.md)
 
 ## Examples
 - **TEACCH structured teaching** ([teacch.com](https://teacch.com)) — individual visual schedules (object, picture, or written) are the centerpiece of the TEACCH approach for learners with autism, with systematic progression from concrete to abstract representations.

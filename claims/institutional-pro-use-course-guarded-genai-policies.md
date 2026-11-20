@@ -64,3 +64,4 @@ Document analysis of 98 computer science syllabi from 54 R1 universities, coded 
 - [Institutions diverge in default GenAI permission stances, ranging from unauthorized-unless-authorized to program-level carve-outs where instructors may not ban AI use](genai-default-permission-stance-divergence.md) — related
 - [Academic publishers permit declared GenAI use and AI-text detection tools show significant limitations, undermining prohibition-and-detection approaches](genai-publishers-permit-declared-use.md) — related
 - [By analogy with mathematics, where computers severely reduced the need for computation, syntax and algorithmic implementation in computing education might shift to AI assistive tools while learners retain design and evaluation](syntax-implementation-shift-to-ai-assistive-tools.md) — related
+- [Scores were significantly higher on course components where CodeTutor was allowed than where it was prohibited](codetutor-allowed-higher-scores.md) — related

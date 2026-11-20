@@ -46,6 +46,7 @@ A practical implementation strategy drawn from the study's questionnaire finding
 - [Support web-based diagnostic trainers with a short tutorial video, an instructional manual, and reliable network access](orthotrainer-implementation-support-strategy.md)
 - [Extend mobile video availability beyond 1 week and support flexible viewing (streaming, closed captioning, technical support)](extend-mobile-video-availability-strategy.md)
 - [Implement mobile learning in high technical institutions by securing free Internet access, device spread, supporting systems, a mixed learning model, and mobile-based methods](mobile-learning-conditions-technical-universities.md)
+- [Provide multiple accessible pathways into quantum education, from short videos to courses to majors, at all institution types](multiple-accessible-pathways-quantum-education.md)
 
 ## Examples
 -

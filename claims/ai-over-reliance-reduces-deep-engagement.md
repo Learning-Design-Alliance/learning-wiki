@@ -61,3 +61,4 @@ The review reports, citing Dehbozorgi & Dindu (2023) and Abid et al. (2024), tha
 - [Unconstrained chat interfaces are recurrently associated with solution dumping, reduced productive struggle, integrity concerns, and over-reliance](unconstrained-chat-negative-patterns.md) — related
 - [Students reported problems in the contemplative teaching setting, including teacher-centeredness and difficulty thinking deeply](problems-in-contemplative-classroom.md) — related
 - [Students and instructors agreed that teacher-student interaction, practicing problem-solving ability, and teacher presence are the most valuable online EFL learning elements](three-shared-valuable-online-efl-elements.md) — related
+- [Basic-level answers appear only in the paper group, possibly indicating a benefit of hands-on work with material artefacts](basic-level-answers-only-paper-group.md) — related

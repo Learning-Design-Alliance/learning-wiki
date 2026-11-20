@@ -50,3 +50,4 @@ Correlational analysis in the same 540-student survey. Self-efficacy was measure
 - [A regression model combining self-regulation, engagement and self-efficacy explains 36% of variance in perceived academic success](three-predictors-explain-36-percent-variance-academic-success.md) — related
 - [Academic achievement correlates positively with all five antecedent conditions in the sample](positive-correlations-five-antecedents-achievement.md) — related
 - [Self-regulation of learning shows the strongest correlation with perceived academic success (r = .55) and the largest standardized regression coefficient (β = 0.294)](self-regulation-strongest-predictor-academic-success.md) — related
+- [Self-efficacy is positively correlated with academic achievement](self-efficacy-positively-correlated-academic-achievement.md) — related

@@ -45,6 +45,7 @@ The strategy places teachers as essential validators in the content pipeline: AI
 - [Center co-design with teachers and students throughout AI tool R&D, using human-in-the-loop workflows as a primary risk mitigation](co-design-human-in-the-loop-ai-edtech-strategy.md)
 - [Position the instructor as human-in-the-loop reviewer of AI-generated difficulty reports before any feedback reaches students](instructor-in-loop-ai-difficulty-reports.md)
 - [Generative-AI-assisted content creation with domain-expert validation for adaptive tutoring systems](genai-assisted-content-creation-expert-validation.md)
+- [Expert-in-the-loop pipeline for generating and refining educational content with LLMs](expert-in-loop-llm-education-pipeline.md)
 
 ## Examples
 -

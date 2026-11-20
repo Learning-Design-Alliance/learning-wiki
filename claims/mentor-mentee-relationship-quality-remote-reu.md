@@ -50,3 +50,4 @@ Analysis of the community node found mentor-mentee communication "developed grad
 - [Mentors and mentees in remote STEM mentoring perceived different sets of challenges: mentees time management and logistics, mentors STEM content delivery and social challenges](remote-mentoring-divergent-challenges-by-role.md) — related
 - [Remote REU participants persistently lacked community, and the resulting lack of in-person interaction pushed mentees into substantial independent learning](remote-reu-lack-of-community.md) — related
 - [Barriers in mentor-mentee relationships and differing expectations introduced challenges in remote REU programs](remote-reu-mentor-mentee-barriers.md) — related
+- [Mentoring relationships improve mentees' sense of belonging, with peer mentors having a profound impact](mentoring-improves-sense-of-belonging.md) — related

@@ -53,3 +53,4 @@ Individual discussions in which the researchers asked some of the graduate stude
 - [Students show severe difficulty interpreting graphical representations of vector fields, succeeding on fewer than a quarter of the harder fields before instruction](students-fail-graphical-vector-field-interpretation.md) — related
 - [A student can stand fast on a developed durable representation and later translate to a second durable representation (mathematics)](stand-fast-then-translate-to-mathematics.md) — related
 - [Even high-performing students may master calculation techniques without knowing what they are for (author's observation)](calculation-skill-without-application-asian-paradox.md) — a broader claim this one bears on
+- [End-of-secondary learners recognize field geometry far more readily from centered unit vector representations than from conventional unit vector representations](centered-unit-vectors-geometry-recognized-better.md) — related

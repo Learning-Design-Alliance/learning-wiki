@@ -89,3 +89,4 @@ The review attributes to Gulley et al. (2017) the statistics that "75% of BVI st
 - [Inclusion of students with disabilities often falls short because efforts start from a place of exclusion, making students guests who must earn access](disability-inclusion-starts-from-exclusion.md) — related
 - [Failure to transition to literacy early triggers a Matthew effect of widening reading and vocabulary gaps](matthew-effect-literacy-transition.md) — related
 - [Students with visual impairments show accelerated reading growth between 9th and 10th grade while the nationally normed group tends to drop](vi-students-accelerated-growth-ninth-tenth-grade.md) — related
+- [Blind professionals form an active community with a declared need to independently visualize their own data to communicate with sighted peers](blind-professionals-visualization-need.md) — related

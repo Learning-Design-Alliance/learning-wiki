@@ -53,3 +53,4 @@ Within-group scatter plots of coded intervals from the same observational study 
 - [Inquiry labs showed substantially greater task division within groups than traditional labs, with comparable division across group gender compositions](inquiry-labs-greater-task-division.md) — possibly the same claim (merge candidate)
 - [In traditional guided-verification physics labs, no gender difference appears in the distribution of behaviour profiles](no-gender-difference-traditional-labs.md) — related
 - [In mixed-gender inquiry-lab groups, women spent about twice as much time as men analyzing data on laptops (14±7% vs 6±3% of the lab period)](women-twice-laptop-analysis-time.md) — related
+- [Gendered task division arises in mixed-gender lab groups, with men more likely to handle equipment, and is most pronounced in less-structured inquiry labs](gendered-task-division-mixed-gender-lab-groups.md) — related

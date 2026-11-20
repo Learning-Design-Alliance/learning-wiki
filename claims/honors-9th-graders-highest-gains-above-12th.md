@@ -48,3 +48,4 @@ Post-test comparison of five sub-groups in the seven-school Maine study (Table I
 - [Non-honors 9th graders with traditional instruction showed no significant pretest-to-post-test gain](non-honors-9th-traditional-no-significant-gain.md) — related
 - [Among honors 9th graders, Modeling and traditional instruction produced no significant difference in normalized gains, while honors outperformed non-honors regardless of instruction type](honors-modeling-vs-traditional-no-significant-difference.md) — related
 - [Modeling Instruction appeared to have a large effect on non-honors 9th graders' post-test performance and normalized gains](modeling-instruction-large-effect-non-honors-9th.md) — related
+- [Outcomes were slightly better in 12th-grade classes that had more instructional hours and whiteboard group activities](more-instructional-hours-better-isle-outcomes.md) — related

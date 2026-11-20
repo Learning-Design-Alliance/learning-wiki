@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-20
 sources:
   - id: christophe-casseau-2023
     resource: "https://doi.org/10.1109/vl-hcc57772.2023.00026"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Completeness (number of distinct cells executed) did not differ significantly between the MOON and control groups. [→ Christophe Casseau 2023](#christophe-casseau-2023)

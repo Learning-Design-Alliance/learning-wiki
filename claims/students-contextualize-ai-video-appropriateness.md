@@ -61,3 +61,4 @@ Inductive thematic analysis of open-ended survey responses from 163 students. Ap
 - [CAI supplements instruction effectively but shows no benefit as a complete replacement for instruction](cai-supplement-effective-replacement-not.md) — a narrower finding that bears on this claim
 - [Students favour video-recorded experiments as a supplementary tool for pre-lab preparation rather than as a replacement for the real exercise](video-favoured-for-prelab-preparation-not-replacement.md) — related
 - [Participants viewed AI assistance as helpful for struggling students but doubted the understandability and correctness of AI-generated code and were neutral about recommending it with proper acknowledgment](student-perspectives-ai-assistance-likert.md) — related
+- [Students reported GenAI was not yet good at purely hardware-related questions and issues](genai-weak-hardware-questions.md) — a narrower finding that bears on this claim

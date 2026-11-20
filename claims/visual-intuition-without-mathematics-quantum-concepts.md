@@ -56,3 +56,4 @@ Focus-group evidence from the pilot shows participants "were able to correctly u
 - [Some instructors report that prior quantum mechanics exposure is not a good indicator of student performance in introductory QIS courses](prior-qm-exposure-not-performance-indicator.md) — related
 - [The authors posit that QP's entirely visual nature enhances understanding of quantum theory by lowering the technical barrier, making it suitable for high-school introduction](qp-visual-approach-lowers-technical-barrier.md) — related
 - [Enhancing information with visual data and stories is associated with a statistically significant difference in engagement levels in quantum computing education](visual-narrative-engagement-significant-difference.md) — related
+- [The article argues that early exposure to quantum information concepts helps young learners build stronger appetence for the field](early-quantum-exposure-builds-appetence.md) — possibly the same claim (merge candidate)

@@ -62,6 +62,7 @@ The brief recommends ongoing, collaborative, subject-specific professional learn
 - [Integrate AI-enabled personalized STEM education with teacher participation, project-based collaboration, and cross-disciplinary task design, matched to students' cognitive developmental level](evidence-based-pedagogically-aligned-ai-stem-integration.md)
 - [Use intentional, scenario‐based curriculum design with AI literacy embedded across subjects](scenario-based-ai-literacy-curriculum-design.md)
 - [Future directions: formalized AI-literacy curricula, collaboration, research, and advocacy for CMFT](future-directions-ai-cmft-training-and-collaboration.md)
+- [Integrate Generative AI literacy into curricula, including query formulation workshops and critical evaluation exercises](generative-ai-literacy-curriculum-integration.md)
 
 ## Examples
 -

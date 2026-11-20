@@ -89,3 +89,4 @@ The review reports this comparison among negative and null results showing the r
 - [ChatGPT-4 illness scripts contained specific factual and specificity deficiencies, including an incorrect infection route for varicella and inappropriate treatment for hyperventilation syndrome](chatgpt4-illness-script-specific-deficiencies.md) — related
 - [Students' first choice for resolving learning problems in e-learning was searching the Internet, followed by asking peers and then asking teachers](exploration-internet-first-then-peers-then-teachers.md) — related
 - [Confabulation risk is highest for AI tutoring and lowest for AI-as-student use](confabulation-risk-varies-by-ai-use-case.md) — related
+- [Across 230 distinct topics explored with ChatGPT, five errors with the potential to induce misconceptions were detected, concerning types of goods, economic principles, and economies of scope.](five-misconception-errors-230-topics.md) — related

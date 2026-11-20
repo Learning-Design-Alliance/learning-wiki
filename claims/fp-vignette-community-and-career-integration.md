@@ -52,3 +52,4 @@ First-person reflective vignette by Dr. Weronika Walkosz, who participated in FP
 - [Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training](exposure-programs-increase-tech-pursuit.md) — a broader claim this one bears on
 - [Female faculty mentors, role models, and supportive peers provided reassurance and comfort that helped a woman physics major persist](female-mentorship-supports-persistence-women-physics.md) — related
 - [The LSSDS program shows high demand (oversubscription factor 5-8) and positive testimony from alumni and faculty.](lssds-oversubscription-factor-5-8-testimony.md) — related
+- [Family support through academic help and early exposure to science shaped the women's pathways to majoring in physics](family-support-pathway-physics-major.md) — related

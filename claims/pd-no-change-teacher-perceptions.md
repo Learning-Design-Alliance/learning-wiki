@@ -51,3 +51,4 @@ Questionnaire measures of perceptions of effective teachers and attitudes toward
 - [After an SDT-driven redesign of a two-day teacher workshop (one cohort of 26, no control group), self-reported AI-TPACK (d = 0.70), IPACK (d = 0.86) and AI attitude (d = 0.58) rose significantly from pre to post](sdt-driven-redesign-capacity-willingness-gains.md) — related
 - [Teacher satisfaction with SBI did not differ significantly between experienced and novice implementer cohorts](sbi-teacher-satisfaction-no-difference.md) — related
 - [Participants' attitudes toward computer science did not significantly change over the 2019 BPDM workshop](bpdm-2019-attitudes-no-change.md) — related
+- [Using Edukoi in science classes did not significantly change students' mATSI science-attitude scores](edukoi-no-matsi-engagement-change.md) — related

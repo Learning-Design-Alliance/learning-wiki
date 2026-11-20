@@ -51,3 +51,4 @@ Comparison of E-CLASS overall post-test score distributions between Spring 2017 
 - [Three E-CLASS items related to the transformation goals showed statistically significant favorable post-test shifts after the course transformation](three-eclass-items-significant-favorable-shift.md) — related
 - [Guided-lab-only courses show a small significant negative shift in E-CLASS scores over a semester](guided-labs-negative-shift.md) — related
 - [First-year physics lab students' overall E-CLASS scores decline significantly over one semester of instruction (d = −0.15)](fy-lab-e-class-overall-negative-shift.md) — related
+- [E-CLASS score decrease was smaller after the lab transformation (d = 0.10) than before it (d = 0.67)](eclass-decrease-smaller-post-transformation.md) — related

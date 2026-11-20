@@ -75,3 +75,4 @@ The review reports Lin et al.'s (2024) randomised controlled trial finding that 
 - [Reported benefits of AI integration were efficiency, personalization, and engagement, while challenges were equity, ethics, and academic integrity](ai-integration-benefits-and-challenges.md) — related
 - [IDs reported that GenAI enhanced collaboration with team members and stakeholders such as SMEs](genai-collaboration-smes.md) — related
 - [IDs reported that GenAI increased their efficiency by reducing the time it takes to write and create](genai-reduced-writing-time-efficiency.md) — related
+- [Adoption varied across teams: some integrated GenAI as a team collaborator, others restricted it to isolated use cases, and one group discontinued it](genai-team-adoption-variation.md) — related

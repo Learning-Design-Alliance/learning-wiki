@@ -44,7 +44,8 @@ The article recommends embedding wxMaxima so the software serves as assistance t
 - [Students can apply procedural knowledge to solve integration problems but show limited understanding of basic integration concepts](../claims/procedural-strong-conceptual-limited-integral.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Four-session introductory teacher-training course on WxMaxima and Geogebra with video tutorials](four-session-wxmaxima-geogebra-teacher-course.md)
 
 ## Examples
 -

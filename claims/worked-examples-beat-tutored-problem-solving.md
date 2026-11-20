@@ -50,3 +50,4 @@ The review reports, citing Salden et al. (2010), studies on integrating worked e
 - [Expertise reversal: high-guidance worked examples become ineffective or detrimental once learners have developed cognitive schemata](expertise-reversal-worked-examples.md) — related
 - [Studying worked examples is more effective and more efficient than problem solving for novice learners (the worked example effect)](worked-example-effect-novices-review.md) — related
 - [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — related
+- [Basic-level answers appear only in the paper group, possibly indicating a benefit of hands-on work with material artefacts](basic-level-answers-only-paper-group.md) — related

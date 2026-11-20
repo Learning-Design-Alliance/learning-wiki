@@ -66,3 +66,7 @@ Interview-based case evidence: the authors' interpretation of Leia's account of 
 - [Female physics students reported feeling belittled for their questions or efforts by instructors/TAs, which discouraged them from asking questions](belittled-questions-efforts-discourage-asking.md) — related
 - [Interviews with 70 undergraduates suggest that negative perceived recognition from instructors/TAs deteriorated women's physics self-efficacy and interest](instructor-recognition-interviews-self-efficacy-interest.md) — related
 - [Negative perceived recognition from instructors/TAs negatively influenced female students' self-efficacy, interest, and desire to persist in STEM](negative-recognition-harms-efficacy-interest-persistence.md) — related
+- [Faculty mentorship that encourages women to take challenging courses builds their sense of competence and recognition as physics people](faculty-mentorship-challenging-courses-competence-recognition.md) — related
+- [Formal leadership experiences help women in physics feel more confident and recognize themselves as physics people](leadership-experiences-confidence-physics-recognition.md) — related
+- [Mentorship, leadership, and career conceptualization supported competence and recognition but showed no direct connections to interest or performance in this preliminary data](no-direct-connections-interest-performance.md) — related
+- [Peer mentorship helps women in physics engage with their physics community and fosters a sense of belonging](peer-mentorship-belonging-physics-community.md) — related

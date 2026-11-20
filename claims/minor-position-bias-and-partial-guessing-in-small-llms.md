@@ -60,3 +60,4 @@ Stability evaluation (Table 3, Sec. 4): four cyclic option permutations per ques
 - [Common LLM error patterns are multiple-option selection, image misdiagnosis, and action prioritization failures](llm-error-patterns-jnme.md) — related
 - [Randomizing the order of answer options alone does not significantly affect BEMA scores for responses with valid times-in-testing](option-randomization-no-effect-bema-scores-valid-times.md) — related
 - [LLM student simulation is robust across repeated runs with non-deterministic temperature settings](llm-simulation-robustness-across-runs.md) — related
+- [ChatGPT shows a 23.8% bias toward selecting the first item in pairwise difficulty comparisons](chatgpt-first-item-bias-in-pairwise-comparison.md) — related

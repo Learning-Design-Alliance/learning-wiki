@@ -48,3 +48,5 @@ Cross-institution comparison of pre/post STPFaSL scores at six institutions, whe
 - [STPFaSL reliability: KR-20 of 0.77 and 0.61 for introductory courses, higher for advanced groups](stpfasl-kr20-reliability-values.md) — related
 - [Astro 101 students achieve similar learning gains regardless of institution type, class size, or background (as reported by the chapter, citing Prather et al. 2009)](astro101-similar-gains-regardless-institution-type.md) — a broader claim this one bears on
 - [Introductory students show low post-instruction scores and small normalized gains after traditional lecture-based instruction](stpfasl-low-posttest-gains-traditional-instruction.md) — related
+- [Introductory students show only modest pretest-to-posttest gains on STPFaSL-Long after traditional lecture-based instruction, with no significant calculus-based versus algebra-based difference](stpfasllong-modest-prepost-gains-traditional-instruction.md) — related
+- [The long and short versions of the STPFaSL instrument correlate highly (Pearson r = 0.88) when administered to the same Ph.D. students two weeks apart](stpfasllong-short-version-correlation-088.md) — related

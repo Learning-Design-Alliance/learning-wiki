@@ -86,3 +86,4 @@ The review reports, citing Premkumar et al. (2024), that "small sample sizes, sh
 - [Within-domain Socratic GenAI dialogue yields higher self-assessed critical thinking than outside-domain dialogue across all participants](within-domain-socratic-genai-raises-critical-thinking.md) — a narrower finding that bears on this claim
 - [Literature reports mixed and contradictory findings on video effectiveness](mixed-findings-on-video-effectiveness.md) — a narrower finding that bears on this claim
 - [PBL improves EFL students' critical thinking disposition, creativity, and language scores, with noted gender differences](pbl-improves-efl-critical-thinking.md) — related
+- [The review reports that overuse of ChatGPT can have detrimental effects on critical thinking abilities and problem-solving inventiveness](chatgpt-overuse-harms-critical-thinking.md) — reports the opposite

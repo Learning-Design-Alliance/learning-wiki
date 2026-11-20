@@ -67,3 +67,4 @@ A post hoc simple-effects analysis within the repeated-items condition of Experi
 - [Without initial instruction, varied retrieval practice matches varied worked examples and beats repeated retrieval practice for generalization](varied-retrieval-practice-matches-varied-worked-examples.md) — related
 - [When learners receive initial instruction, retrieval practice yields better generalization than worked examples regardless of item variability](retrieval-practice-beats-worked-examples-with-initial-instruction.md) — reports the opposite
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — reports the opposite
+- [Unique learning opportunities produce significantly better knowledge generalization to unseen items than repeated questions](unique-questions-better-generalization-than-repeated.md) — related

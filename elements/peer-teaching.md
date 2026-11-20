@@ -13,7 +13,7 @@ generated:
 # Peer Teaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 26 claims (16 for, 10 mixed) · 22 studies (9 causal, 4 associational, 3 qualitative, 3 design, 2 quant-synthesis, 1 review), `q1`–`q4` · 1 of 22 report an effect size · 25 claims rest on one study
+> **Evidence** · 29 claims (19 for, 10 mixed) · 23 studies (10 causal, 4 associational, 3 qualitative, 3 design, 2 quant-synthesis, 1 review), `q1`–`q4` · 1 of 23 report an effect size · 28 claims rest on one study
 
 ## Description
 Peer teaching places learners in the role of instructor: they explain, question, and elaborate material for classmates, then receive questions that probe their understanding. Preparing to teach and teaching itself force learners to reorganize knowledge, fill gaps, and articulate reasoning — a form of generative processing that benefits the teacher as much as the taught.
@@ -78,6 +78,9 @@ Peer teaching works because explaining to another person demands deeper processi
 - [Medical students experienced PAL sessions as a safe and egalitarian environment that shaped the type and style of learning](../claims/pal-safe-egalitarian-learning-environment.md) [~W] — attached 2026-11-09 from Tamachi Shameena et al. (2018), which proposed "Near-peer PAL scheme at Salford Royal NHS Foundation Trust".
 - [Tutees showed high acceptance of the course in post-session questionnaires, with strongly positive ratings for atmosphere, support and integration, and relatively weaker but still positive ratings on exam preparedness and anxiety](../claims/peer-exam-prep-high-questionnaire-acceptance.md) [~W] — attached 2026-11-09 from Huhn D et al. (2015), which proposed "HeiTiMed voluntary peer-led exam preparation course for international first-year medical students".
 - [Trainees valued repeated observation, instructing peers, and the opportunity for independent performance in the modified Peyton's Approach](../claims/trainees-valued-observation-instruction-performance.md) [+W] — attached 2026-11-10 from Nikendei C et al. (2014), which proposed "Modified Peyton's Approach for small group teaching (six-part model A–F)".
+- [In a CS1 randomised control trial, learners who taught an AVT session before the exam outperformed the class average on several exam questions, with improvements of 25 to 30 percentage points on the midterm](../claims/avt-teaching-improves-exam-performance.md) [+W] — attached 2026-11-20 from Learners Teaching Novices: An Uplifting Alternative Assessment, which proposed "Assessment via Teaching (AVT): a formative assessment in which learners tutor more novice students in 1:1 help sessions"; tests this page's relationship.
+- [AVT learners were more motivated to prepare and found the experience more enjoyable than learners who did a practice exam](../claims/avt-motivating-and-enjoyable.md) [+W] — attached 2026-11-20 from Learners Teaching Novices: An Uplifting Alternative Assessment, which proposed "Assessment via Teaching (AVT): a formative assessment in which learners tutor more novice students in 1:1 help sessions".
+- [Expert instructors judged that AVT learners helped novices make educationally helpful progress in 98% of sessions](../claims/avt-novice-impact-expert-assessment.md) [+W] — attached 2026-11-20 from Learners Teaching Novices: An Uplifting Alternative Assessment, which proposed "Assessment via Teaching (AVT): a formative assessment in which learners tutor more novice students in 1:1 help sessions".
 
 ## Related Elements
 - [Collaboration](collaboration.md) — the broader interaction structure peer teaching sits within

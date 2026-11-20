@@ -91,3 +91,4 @@ Study of 15 non-native English speaking EFL learners using AI dialogue systems f
 - [Excessive dependence on AI may reduce human interaction and dehumanize adult education](over-reliance-ai-reduces-human-interaction.md) — related
 - [The effectiveness of reflective AI-engagement mechanisms varies across users, depending on Need for Cognition, expertise, domain familiarity, and task difficulty](reflective-support-effects-vary-by-user.md) — related
 - [A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](lmfm-overreliance-impedes-critical-thinking.md) — related
+- [The review reports that overuse of ChatGPT can have detrimental effects on critical thinking abilities and problem-solving inventiveness](chatgpt-overuse-harms-critical-thinking.md) — possibly the same claim (merge candidate)

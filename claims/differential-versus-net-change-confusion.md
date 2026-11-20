@@ -49,3 +49,4 @@ Videotaped tutorial episode at School 1 in which two students reasoning about an
 - [Upper-division students show lingering confusion about state variables versus process variables, treating heat and work as if they were state functions](state-versus-process-variable-confusion-heat-engines.md) — related
 - [Some upper-division students struggle to apply the state function property of entropy to cyclic processes, requiring instructor intervention to conclude that entropy change over a cycle is zero](state-function-entropy-cycles-struggle.md) — related
 - [Upper-division students show difficulty reasoning about physically impossible situations, such as a heat engine with QL = 0, during tutorial activities](difficulty-reasoning-impossible-situations.md) — related
+- [Many students believe net work and net heat transfer are zero in cyclic processes, treating path-dependent variables as state variables](w-q-treated-as-state-variables-cyclic.md) — related

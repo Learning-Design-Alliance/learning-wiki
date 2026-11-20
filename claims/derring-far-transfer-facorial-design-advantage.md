@@ -54,3 +54,4 @@ In the same randomized experiment (N = 276), the far transfer test required desi
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [Near-errorless learning: participants acquiring procedural knowledge under accuracy instructions learned despite minimizing response errors](response-errors-not-needed-procedural-learning.md) — related
 - [The elaboration intervention is necessary for far transfer: only the group with instructional support outperformed control on the complex transfer task](elaboration-intervention-necessary-far-transfer.md) — related
+- [A worked-example intervention in regular high-school science classrooms yields significant and practically relevant gains in procedural and conceptual knowledge of USS and OMR, including near and far transfer, relative to a conventional-task control group](worked-examples-improve-uss-omr-knowledge.md) — related

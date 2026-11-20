@@ -71,6 +71,7 @@ Feedback only improves achievement when learners actually use it, and resubmissi
 - [Use formative quizzes, writing portfolios, and peer-feedback rubrics rather than relying only on a final examination](formative-assessment-toolkit-strategy.md)
 - [Use the attempt, compare, critique, and act learner routine to convert AI feedback into learning actions](attempt-compare-critique-act-routine.md)
 - [Fade explicit comparison-cycle support across the course (instructions first, then marks, then instructor support)](fading-comparison-cycle-support-strategy.md)
+- [Revise the online LT with step-based tutoring, richer feedback, standardized pre-lecture, and reduced plotting redundancy](pfolt-revision-strategy-its-feedback-prerecorded-lecture.md)
 
 ## Examples
 - **Writing-intensive courses using portfolio drafting** — students submit drafts, receive instructor comments, and revise; only the portfolio grade counts, so every piece goes through at least one revision cycle.

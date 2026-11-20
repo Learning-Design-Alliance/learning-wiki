@@ -51,3 +51,4 @@ This is the authors' theoretical position statement in the introduction, offered
 - [Physics faculty attribute student difficulty in quantum physics chiefly to its abstract, non-intuitive nature and, for some, to heavy mathematical demands](faculty-attribute-qp-difficulty-abstractness-math.md) — related
 - [The author argues that learning quantum mechanics is difficult and counter-intuitive and is much like learning a new language requiring solid mastery before fluency](learning-quantum-mechanics-like-learning-a-language.md) — related
 - [Enhancing information with visual data and stories is associated with a statistically significant difference in engagement levels in quantum computing education](visual-narrative-engagement-significant-difference.md) — related
+- [The article argues that early exposure to quantum information concepts helps young learners build stronger appetence for the field](early-quantum-exposure-builds-appetence.md) — related

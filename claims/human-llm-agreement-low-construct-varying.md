@@ -137,3 +137,4 @@ Human-LLM agreement for self-efficacy across configurations. Non-mini models out
 - [GPT-4-Turbo as an LLM Judge reliably selects better scaffolds and mitigates hallucination errors, while weaker LLM Judges do not](gpt4-turbo-judge-mitigates-hallucinations-weaker-judges-do-not.md) — related
 - [Model choice, prompting configuration, and rubric component all significantly affect LLM-human agreement, with significant interactions](mixed-effects-model-significant-main-and-interaction-effects.md) — related
 - [LLM-generated feedback quality ratings are similar to human ratings, whereas LLM authenticity ratings are higher and presumably inaccurate](llm-zero-shot-rater-feedback-similar-authenticity-inflated.md) — related
+- [GPT-4 achieves moderate-to-high agreement with human annotations when applying the five-aspect math feedback rubric, with 76% average label accuracy and a 0.56 average correlation of rubric scores.](gpt4-rubric-agreement-math-feedback.md) — related

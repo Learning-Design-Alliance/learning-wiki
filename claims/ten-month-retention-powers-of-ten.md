@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-20
 sources:
   - id: lonshakova-2023
     resource: "https://doi.org/10.48550/arXiv.2311.18192"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 22 trial-1 students re-tested 10 months later, all wrote billion, million and ten thousand in powers of ten, 77% remembered the dividing-by-ten rule, and 9% identified 2^10 ~ 10^3. [→ Lonshakova 2023](#lonshakova-2023)

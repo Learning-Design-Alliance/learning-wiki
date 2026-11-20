@@ -51,3 +51,4 @@ Qualitative theme from discussion posts and reflections in the 14-week course. P
 - [IDs use GenAI to brainstorm ideas and overcome creative blocks when drafting content](genai-brainstorm-ideas-creative-blocks.md) — related
 - [Eight students' common purpose for prompting was overcoming writer's block or generating new ideas when stuck](overcoming-writers-block-theme.md) — related
 - [EFL students prompt generative-AI tools for three main purposes during story writing: unawareness of rules, overcoming writer's block, and developing, expanding and improving the story](three-themes-efl-prompting-purposes.md) — related
+- [Students used GenAI brainstorming output as a creativity baseline that raised the bar for what counts as a new idea](genai-brainstorm-baseline-raise-bar.md) — related

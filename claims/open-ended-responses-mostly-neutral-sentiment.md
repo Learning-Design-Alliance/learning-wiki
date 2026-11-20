@@ -57,3 +57,4 @@ Sentiment polarity analysis using Python's TextBlob library on open-ended respon
 - [Sentiment analysis of open-ended SALG responses showed positive sentiments more abundant than negative in all years, with a higher positive proportion in the latter two years](ibis-sentiment-positive-trigrams-increased.md) — related
 - [STEM and non-STEM students did not differ in sentiment toward using ChatGPT in collaborative interdisciplinary learning](chatgpt-sentiment-no-discipline-difference.md) — related
 - [Most surveyed students reported a positive or neutral impact of ChatGPT use on their motivation and active participation in the physics course](chatgpt-positive-motivation-participation-survey.md) — related
+- [First-year computing students were overwhelmingly positive about generating recursion analogies with ChatGPT, with only 5.3% of coded reflections purely or partly negative](students-positive-sentiment-llm-analogy-activity.md) — related

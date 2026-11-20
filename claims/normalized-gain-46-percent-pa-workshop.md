@@ -48,3 +48,4 @@ Analysis of class-average normalized gain (average actual gain over maximum poss
 - [Relative knowledge gain differed by module from pre-test to post-test in one group with no comparison group: PA prescription and assessment had greater gains than benefits-and-risks](module-level-gains-pa-prescription-assessment.md) — a narrower finding that bears on this claim
 - [Knowledge gains from the workshop were largest in sampling and critical care domains for both professional groups](bronchoscopy-workshop-domain-specific-gains.md) — related
 - [A one-day physical activity prescription workshop significantly improves physicians' test scores from 67% to 82%](one-day-pa-workshop-improves-md-knowledge-scores.md) — a narrower finding that bears on this claim
+- [Playing GEA significantly improved food-education knowledge in individuals with NDD, with an average post-questionnaire improvement of 46%](gea-46-percent-food-education-gain-ndd.md) — related

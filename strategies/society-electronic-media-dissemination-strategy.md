@@ -45,6 +45,7 @@ The paper recommends deploying education and scientific initiatives first throug
 - [Disseminate research to practitioners through knowledge brokers and accessible formats such as short videos and social media threads](disseminate-via-knowledge-brokers.md)
 - [Use newsflashes—succinct email blasts announcing new research findings—to inform decision makers, stakeholders, and practitioners](newsflash-research-dissemination-strategy.md)
 - [Require dissemination and implementation plans so dementia education research reaches practice](dementia-research-dissemination-implementation-strategy.md)
+- [Confront science denialism by inviting the general public through institutional social media to collectively replicate a classic experiment, supported by a messaging group, a remote preparatory class and an electronic data form](collective-public-replication-against-denialism.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Hierarchical linear modeling of the combined laptop, calculator, and paper group
 - [Women and men report different lab activity role preferences at semester start, with women preferring notes and managing and men preferring equipment and analysis](gendered-lab-role-preferences-survey.md) — related
 - [In traditional guided-verification physics labs, no gender difference appears in the distribution of behaviour profiles](no-gender-difference-traditional-labs.md) — related
 - [Partner agreements increased women's and decreased men's equipment group fraction in Physics I Lab, with no statistically significant effect in Physics II Lab](partner-agreements-equipment-equity-effect.md) — related
+- [Gender-based inequities in educational physics labs are salient and persistent across curricula and contexts](persistent-gender-inequities-physics-labs.md) — related

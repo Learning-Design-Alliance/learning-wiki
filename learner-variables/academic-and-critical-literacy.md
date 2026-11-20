@@ -13,7 +13,7 @@ generated:
 # Academic and Critical Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 95 claims (58 show a difference, 25 mixed, 12 no difference) · 76 studies (32 causal, 15 associational, 8 quant-synthesis, 8 review, 6 qualitative, 4 design, 3 theoretical), `q1`–`q4` · 14 of 76 report an effect size · 92 claims rest on one study
+> **Evidence** · 96 claims (59 show a difference, 25 mixed, 12 no difference) · 77 studies (32 causal, 15 associational, 8 quant-synthesis, 8 review, 7 qualitative, 4 design, 3 theoretical), `q1`–`q4` · 14 of 77 report an effect size · 93 claims rest on one study
 
 ## Description
 This page brings together two related factors from the Learner Variability Navigator; its third, Core Academic Literacies (general fluency across the core subjects), is on [prior knowledge](prior-knowledge.md). Disciplinary literacy is the ability to read, write, speak and present in the ways each discipline uses (proofs, lab reports, historical arguments) and, for adults, in real-world domains such as health and finance. Critical literacy is the ability to identify a text's purpose, motives and possible biases, which supports comprehension and critical thinking and prepares learners for civic participation.
@@ -133,6 +133,7 @@ They are assessed through performance tasks rather than a single test: argumenta
 - [Intervention theses scored significantly higher on most rubric dimensions tied to science literacy and critical thinking, especially analysis](../claims/rubric-dimension-gains-inquiry-analysis.md) [+M] — measured as an outcome of the instruction studied
 - [Language and academic diversity hinder learning in heterogeneous PBL groups, frustrating both weaker and stronger students](../claims/heterogeneous-pbl-language-academic-diversity-hinders-learning.md) [+M] — learners who differ on it differ in outcomes
 - [There is specialist consensus on benefits of media education, including strengthening democracy, lifelong critical education, and development of students' critical capacity over memorization](../claims/media-education-consensus-benefits.md) [+W] — measured as an outcome of the instruction studied
+- [Students leveraged existing disciplinary computational literacy to engage with computational literature and began epistemic negotiation when defining projects](../claims/case-students-engage-computational-literature-epistemic-negotiation.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Functional Health Literacy in Adults (TOFHLA)** (Parker et al., 1995): This test measures the reading comprehension and numeracy skill components of health literacy in adults using real-life health situations.

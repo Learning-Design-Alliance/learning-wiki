@@ -59,3 +59,5 @@ Manual error coding of GPT-4V's incorrect explanations by three health care prof
 - [GPT-4 grading feedback sounds plausible but frequently contains incorrect or misleading statements](gpt4-feedback-plausible-but-misleading.md) — related
 - [The author judges 26 of GPT-4's free-response explanations entirely correct at the expert level, while GPT-3.5's wrong-answer explanations erred randomly or self-inconsistently](gpt4-free-responses-expert-level.md) — related
 - [Requiring explanations before answers increases the randomness of LLM incorrect answers and the confidence of correct ones](explanations-randomize-incorrect-boost-confidence.md) — related
+- [In a small proof-of-concept study, AI analysis of graduate students' explanations of BCI answers was rapid, informative, and provided actionable feedback on student thinking.](ai-analyzed-explanations-proof-of-concept.md) — related
+- [Across all feedback generation methods tested, most failures occur because the LLM cannot correctly identify the error in the student's incorrect answer, especially when multiple reasoning steps are required.](llm-failure-identifying-student-error.md) — related

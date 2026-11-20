@@ -50,6 +50,9 @@ The article distills its interviews into four instructor suggestions: ensure stu
 - [Use brief social-psychological classroom interventions (e.g., belonging and mindset interventions) to raise women's belonging, self-efficacy, confidence and interest in physics](brief-belonging-mindset-interventions-physics.md)
 - [Avoid labeling student questions or problems as easy, trivial or obvious, and address observed bias or microaggression rather than staying silent](avoid-trivial-labels-address-bias-physics.md)
 - [Address self-efficacy, social belonging, and growth mindset, help students interpret performance accurately, and provide recognition for effort](support-women-stem-persistence-motivation-recognition.md)
+- [Instructor-assigned groups and frequent check-ins to prevent student isolation](instructor-assigned-groups-check-ins.md)
+- [Form lab groups of three or more students avoiding groups with exactly one woman](no-isolated-woman-group-formation.md)
+- [Gather undergraduate women's own suggestions, separated into personal advice for peers and suggestions for physics instructors](women-suggestions-peers-and-instructors-strategy.md)
 
 ## Examples
 -

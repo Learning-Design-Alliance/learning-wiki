@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-11-20
 sources:
   - id: danny-doucette-2020
     resource: "https://doi.org/10.1088/1361-6404/ab7831"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The symmetry breaking into differentiated roles generally does not occur in same-gender groups, which tend to reach an equilibrium of similar types and amounts of work. [→ Danny Doucette 2020](#danny-doucette-2020)

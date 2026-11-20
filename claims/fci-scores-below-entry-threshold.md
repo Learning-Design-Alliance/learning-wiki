@@ -48,3 +48,4 @@ Descriptive comparison of Table 3 means against the Savinainen et al. entry thre
 ## Related Claims
 - [Mean FCI scores are similar across attempts within each course, with only a slight increase across the three course levels](fci-mean-scores-similar-across-attempts.md) — related
 - [Repeating a mechanics course does not change students' most frequent Newtonian-mechanics misconceptions: first-attempt and third-or-more-attempt students show similar dominant incorrect answers](course-repetition-no-change-fci-misconceptions.md) — related
+- [Bogotá engineering students show predominantly Aristotelian and Galilean conceptions of falling bodies on the FCI](fci-bogota-falling-body-conceptions-distribution.md) — related

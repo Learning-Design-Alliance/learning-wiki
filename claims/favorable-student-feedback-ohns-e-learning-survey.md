@@ -51,3 +51,4 @@ Post-study questionnaire distributed to all 19 students after OSCE results were 
 - [Participant feedback was uniformly positive and a six-month survey provides weak evidence of skill retention and long-term impact](participant-feedback-and-six-month-retention-survey.md) — related
 - [Trainees reported high satisfaction with the simulation course, rating training-effectiveness items highest, while disagreeing most that simulation can replace training on pregnant women](obstetric-sim-satisfaction-survey.md) — related
 - [Over 80% of RFPETM students gave positive evaluations of the model's teaching methods, learning experiences, and cultivation of innovative abilities](rfpetm-positive-student-evaluations-over-80-percent.md) — related
+- [The 2022 pilot of the course with 40 gifted high school students under the Hong Kong Education Bureau received favorable reviews showing engagement and enthusiasm](gifted-program-pilot-favorable-feedback-2022.md) — related

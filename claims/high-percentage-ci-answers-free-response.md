@@ -64,3 +64,4 @@ Results section, Problem 1 part (c), where students chose the correct answer but
 - [Students in the ChatGPT condition mistakenly assumed incorrect ChatGPT answers were correct (false positive rate 57%)](chatgpt-answer-overtrust-fpr-57-percent.md) — related
 - [Performance jumps from ChatGPT-3.5 to ChatGPT-4 and again from ChatGPT-4 to ChatGPT-4/CI, with Code Interpreter enabling accurate symbolic manipulation and numerical calculation](chatgpt4-ci-outperforms-chatgpt4-and-35.md) — related
 - [EJSS dashboard data can reveal students' specific misconceptions, e.g. confusing an angle with its complement in vector problems](ejss-dashboard-reveals-vector-angle-misconception.md) — related
+- [One knowledge-test question was excluded from scoring after only 29.17% of participants answered it correctly](knowledge-test-question-omitted-29-percent.md) — related

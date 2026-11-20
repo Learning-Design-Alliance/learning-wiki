@@ -75,3 +75,4 @@ Same ablation study (Table 6): disabling attention masking, KV caching, or dynam
 - [Ablations show the trustworthiness module contributes most to performance, and the explanation generator cuts human review time by 41%](ablation-trust-module-largest-contribution.md) — related
 - [Omitting the teacher's communication strategy causes the greatest drop in classifier accuracy, marking communication choice as the most impactful feature category.](communication-strategy-most-impactful-ablation.md) — related
 - [Ablation testing shows simplification and ordering transformations contribute most to canonical reduction, while many domain-specific functions had no effect](ablation-simplification-ordering-transformations-most-effective.md) — related
+- [Both BERT content embeddings and flashcard-level study features contribute to KAR3L's prediction accuracy and calibration](kar3l-ablation-content-and-history-both-help.md) — related

@@ -59,3 +59,4 @@ K-Means clustering of LIME coefficients from a Gaussian Naive Bayes model (F1 = 
 - [LIME analysis shows the latent features mainly encode information from eye and mouth areas of the face](lime-eye-mouth-areas-in-latent-features.md) — related
 - [Latent class analysis of pretest strategy-use identifies two subgroups of children, analogical and non-analogical reasoners, of roughly equal size](lca-two-strategy-classes-analogical-reasoners.md) — related
 - [Two-step cluster analysis of feature preferences yields two teacher clusters, with pluggability the most important predictor](two-cluster-feature-preferences-pluggability.md) — related
+- [Latent class analysis identifies seven qualitatively different answer patterns, and most students change class between pretest and posttest](lca-seven-classes-class-shifts.md) — related

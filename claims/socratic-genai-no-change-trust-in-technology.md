@@ -46,3 +46,4 @@ Wilcoxon signed-rank test on the faith-and-trust subscale across all participant
 
 ## Related Claims
 - [No significant GenAI-literacy-by-agent-condition interaction emerged, so the formal models did not support different literacy slopes across designs](no-literacy-by-agent-interaction.md) — related
+- [Participants trusted that the sonifications were faithful to the science data, with no evidence of a difference between BLV and sighted groups](sonification-trust-no-group-difference.md) — related

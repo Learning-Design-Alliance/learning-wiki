@@ -53,3 +53,4 @@ Qualitative analysis of section C answers and paired interviews with four studen
 - [Median student interest in further quantum computing learning remained at 4 before and after the module, with distribution changes showing some students wished to study QC further](qc-module-further-learning-interest.md) — related
 - [High school curricula are disconnected from contemporary quantum physics and quantum technologies, risking exclusion of new generations from society's technological construction](high-school-curricula-disconnected-second-quantum-revolution.md) — a broader claim this one bears on
 - [Agreement that physics teaching is 'a career valuable to society' increased after the module, interpreted as a possible small increase](tpis-valuable-to-society-increase.md) — related
+- [Students in the workshops reported interest in quantum spin and saw quantum science as relevant to the future of technology](student-interest-quantum-spin-workshops.md) — related

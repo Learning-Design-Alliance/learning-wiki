@@ -50,3 +50,4 @@ Observational analysis of clickstream sequences from 778 students in two offerin
 - [A forward linear review strategy predicted lower cognitive load regardless of modality, while scanning and slowing predicted higher cognitive load](linear-strategy-lower-cognitive-load.md) — related
 - [Failing students delay engagement with the course project until the end of the term while passing students access it throughout](project-access-timing-passing-failing.md) — related
 - [No hierarchical or hub-and-spoke position structure appeared in the data, suggesting active learning classes have a flatter social structure than the 'work with the smart student' expectation](no-hierarchy-active-learning-networks.md) — related
+- [In Unit 4, passing students began with forum and learning actions and ended with quiz review, while failing students began with quiz attempts and left instructor-suggested learning actions to the end](unit4-pass-fail-sequence-contrast.md) — related

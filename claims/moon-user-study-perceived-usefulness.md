@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-11-20
 sources:
   - id: christophe-casseau-2023
     resource: "https://doi.org/10.1109/vl-hcc57772.2023.00026"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-20 (automated, 2 of 2 entries) · not reviewed by a person
 > **Design limits** · Christophe Casseau 2023: no comparison group · Christophe Casseau 2023 (2): no comparison group (read from the study by two models, 2026-11-20)
 
 ## Subclaims

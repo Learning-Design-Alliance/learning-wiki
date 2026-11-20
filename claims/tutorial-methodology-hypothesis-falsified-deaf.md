@@ -47,3 +47,4 @@ DEAF analysis of 20 engineering students undergoing tutorial-based active instru
 ## Related Claims
 - [Global DEAF analysis of tutorial-based instruction reached maximum performance and homogeneity of approximately (0.75, 0.75) at the ninth application, coinciding with the exam date](deaf-global-maximum-075-at-exam-date.md) — a narrower finding that bears on this claim
 - [A concept probing graphical interpretation of velocity vs time from a narrative perspective failed to evolve, oscillating between partially clear and confused across applications](p2-concept-fails-to-evolve-oscillating.md) — related
+- [Tutorial-based active instruction on URM graphical interpretation left performance low and unchanged across 10 sections with high heterogeneity](tug-urm-tutorial-low-unchanged-performance.md) — related

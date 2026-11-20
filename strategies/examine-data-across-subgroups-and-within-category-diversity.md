@@ -47,6 +47,7 @@ The guide's first actionable recommendation directs leaders to disaggregate data
 - [Disaggregate engagement and performance data by subgroup and regularly evaluate and adjust support plans](disaggregated-data-monitoring-el-supports.md)
 - [Apply a set of dos and don'ts when examining school performance data to decide school support options](dos-and-donts-school-performance-data-interpretation.md)
 - [Use major examination outcomes to assess how schools support doctors from different backgrounds, and pursue multi-specialty, intersectional DA research](use-exam-outcomes-to-assess-institutional-support-and-multispecialty-da-research.md)
+- [Disaggregate BIPOC data into Black and Indigenous subgroups when analysing physics-community demographics](disaggregate-bipoc-data-physics-demographics.md)
 
 ## Examples
 -

@@ -29,7 +29,7 @@ grain_size: lesson
 # Formative Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 54 claims (23 for, 29 mixed, 2 against) · 62 studies (18 causal, 15 quant-synthesis, 13 review, 5 qualitative, 5 theoretical, 4 associational, 2 design), `q1`–`q4` · 17 of 62 report an effect size · 42 claims rest on one study
+> **Evidence** · 55 claims (24 for, 29 mixed, 2 against) · 63 studies (18 causal, 15 quant-synthesis, 13 review, 5 qualitative, 5 theoretical, 4 associational, 3 design), `q1`–`q4` · 17 of 63 report an effect size · 43 claims rest on one study
 
 ## Description
 
@@ -112,6 +112,7 @@ The seventeen claims restored here on 2026-10-01 were read against the model on 
 - [Formative assessment shows gains in student self-efficacy and motivation and particular benefits for disadvantaged and low-achieving students](../claims/formative-assessment-self-efficacy-low-achievers.md) [+W] — read 2026-10-19: a handbook chapter citing older studies, with no effect sizes printed; whether the loop narrows achievement gaps has no direct test in the wiki.
 - [POED diagnostic feedback led students to read supplementary materials after incorrect answers and then answer correctly, while POEE students repeated errors](../claims/poed-diagnostic-feedback-drives-supplementary-material-use.md) [+W] — attached 2026-10-29 from Kuan‑Fu Chen et al. (2025), which proposed "Embed misconception diagnosis with targeted feedback in inquiry-based learning rather than answer-only evaluation"; tests this page's relationship.
 - [Open-format formative assessment questions reveal student misconceptions and gaps in calculus fluency in an undergraduate electromagnetics course](../claims/open-format-questions-reveal-student-thinking-electromagnetics.md) [+W] — attached 2026-11-17 from Frank V. Kowalski et al. (2014), which proposed "Use open-format questions rather than multiple choice for formative assessment when the goal is to reveal student thinking and nurture creativity".
+- [In a small proof-of-concept study, AI analysis of graduate students' explanations of BCI answers was rapid, informative, and provided actionable feedback on student thinking.](../claims/ai-analyzed-explanations-proof-of-concept.md) [+W] — attached 2026-11-20 from Klymkowsky et al. (2024), which proposed "Formative assessment feedback must be actionable and embraced by instructors and course designers to make a difference".
 
 ## Design Decisions
 <!-- Restored 2026-10-01 with the claims above; written 2026-09-30 for the earlier version of this page, so its decisions predate the conditional model. Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

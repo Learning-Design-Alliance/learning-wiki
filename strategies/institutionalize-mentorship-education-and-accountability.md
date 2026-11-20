@@ -46,7 +46,8 @@ The paper's recommendations section synthesizes systemic actions: institutionali
 - [10Academy's near-peer industry mentoring achieved 90% job placement among 105 trainees with salaries 5x peer levels](../claims/10academy-90-percent-job-placement.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Paired mentee and mentor checklists to prompt critical thought on the research group environment](paired-mentorship-environment-checklists.md)
 
 ## Examples
 -

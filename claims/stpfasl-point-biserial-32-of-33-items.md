@@ -52,3 +52,4 @@ Item analysis of the final instrument computing the point biserial coefficient (
 - [The final 25-item test shows good reliability and item discrimination, with post-test item difficulty ranging from 0.2 to 0.8 and point biserial discrimination from 0.21 to 0.48](test-psychometrics-difficulty-discrimination.md) — related
 - [Most SJT items show positive corrected point-biserial discrimination, with 72% at 0.10 or higher](sjt-items-point-biserial-discrimination-mostly-positive.md) — related
 - [CTT parameters on the protoPIQL identified weak items (too easy or low discrimination), driving item removal and addition across versions](protopiql-ctt-weak-items-removed.md) — related
+- [Point biserial coefficients exceed the 0.2 criterion for 71 of 78 items in-person, with the below-threshold entropy items showing advanced students performing comparably to introductory students](stpfasllong-pbc-entropy-items-below-threshold.md) — related

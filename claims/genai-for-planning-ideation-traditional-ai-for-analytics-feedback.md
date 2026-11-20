@@ -59,3 +59,4 @@ Thematic synthesis of 28 empirical studies (2015-2025) on teacher-AI co-design o
 - ChatGPT was the most commonly used GenAI tool in reviewed programming education research — related
 - [GenAI tools proved most valuable in early UX ideation stages, while design and testing require a human touch](genai-most-valuable-early-ux-stages.md) — a narrower finding that bears on this claim
 - [IDs used GenAI as a design partner or personal assistant to streamline the design process](genai-design-partner-streamline-process.md) — related
+- [Fourteen types of teaching and learning methods/strategies were identified in ChatGPT-integrated lesson plans, led by cooperative learning (7/29)](fourteen-teaching-methods-chatgpt-lesson-plans.md) — related

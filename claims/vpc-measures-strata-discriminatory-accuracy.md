@@ -50,3 +50,4 @@ Definitional/interpretive statement in the exposition of the simple intersection
 - A systematic review identified 21 publications applying intersectional MAIHDA analysis, primarily in the health sciences — related
 - [Precision-weighted shrinkage in MAIHDA yields reliable conservative estimates for small strata and helps solve the multiple-testing problem](maihda-shrinkage-small-strata-advantages.md) — related
 - [Intersectional strata explain around 30% (age 11) and 25% (age 16) of the overall variance in London students' achievement](intersectional-strata-vpc-achievement-london.md) — a narrower finding that bears on this claim
+- [Additive main effects account for 79.6% of between-strata variance, leaving 20.4% attributable to intersectional effects](pcv-strata-variance-main-effects.md) — related

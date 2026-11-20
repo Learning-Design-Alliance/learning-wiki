@@ -47,3 +47,4 @@ Concentration-versus-score analysis of FCI responses (Fig. 1) from the field wor
 ## Related Claims
 - [Module analysis of FCI responses identified 13 student subgroups, with three normative groups differing in accuracy (77%, 73%, 53%) and in conceptual coherence](module-analysis-13-student-groups-fci.md) — related
 - [A two-level random model implemented by Monte Carlo agrees with the field FCI data, with maximum discrepancy of about 2% at seven correct answers](two-level-random-model-montecarlo-agreement.md) — related
+- [A two-level heuristic model fits the FCI correct-answer distribution, splitting students into a no-knowledge group (53%) and an eliminated-one-option group (47%)](two-level-heuristic-model-fci-fit.md) — related

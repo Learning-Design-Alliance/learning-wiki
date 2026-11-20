@@ -46,7 +46,8 @@ The authors recommend departments better facilitate the group search to improve 
 - [First-year coursework is perceived as being in conflict with searching for a research group, limiting time to explore research options](../claims/coursework-research-in-tension.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Track when students join research groups as a departmental metric to surface hidden inequities in the group search](track-group-joining-timing-metric.md)
 
 ## Examples
 -

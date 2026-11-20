@@ -51,3 +51,4 @@ Table 1 caption comparing category percentages across the calculus-based class (
 - [Calculus-based introductory students show large overlap with physics graduate students in good categorizations, suggesting a wide distribution of expertise](calc-intro-grad-overlap-categorization.md) — related
 - [Large introductory classes reveal a significantly wider spectrum of student expertise in categorization than the eight volunteers in the classic Chi study](wider-expertise-spectrum-large-classes-categorization.md) — related
 - [Because expertise plays a role in categorization, it is not appropriate to call all introductory students novices](not-appropriate-to-call-all-introductory-students-novices.md) — related
+- [Algebra-based students performed significantly worse than calculus-based students on questions related to heat transfer and work](algebra-based-worse-than-calculus-based-q-w.md) — related

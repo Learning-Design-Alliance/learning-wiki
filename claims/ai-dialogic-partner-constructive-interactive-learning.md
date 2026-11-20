@@ -86,3 +86,4 @@ Authors' interpretation in the interactive-use section: dialogue-partner uses of
 - [Students in both sections reported that reviewing with a partner would be more helpful for their learning than studying alone](students-prefer-partner-review.md) — related
 - [Theorists use analogies to generate new project ideas and to overcome conceptual challenges](theorists-analogies-generate-ideas-overcome-challenges.md) — related
 - [Eight students' common purpose for prompting was overcoming writer's block or generating new ideas when stuck](overcoming-writers-block-theme.md) — related
+- [Students used GenAI brainstorming output as a creativity baseline that raised the bar for what counts as a new idea](genai-brainstorm-baseline-raise-bar.md) — related

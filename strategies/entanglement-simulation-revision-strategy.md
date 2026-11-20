@@ -46,7 +46,8 @@ Based on the identified difficulties, the authors plan specific simulation revis
 - [Students incorrectly attribute properties of entangled states to product states, linked with difficulty translating a state from the Z to the X basis](../claims/product-state-entangled-properties-misconception.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use identified lab challenges, such as graph-interpretation difficulties, as the basis for deeper exploration in later lectures](lab-challenges-as-lecture-exploration-basis.md)
 
 ## Examples
 -

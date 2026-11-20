@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-20
 sources:
   - id: boris-tomašík-2025
     resource: "https://doi.org/10.1088/1742-6596/2950/1/012029"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 71 former participants surveyed in 2023, 35% claim the IMC influenced them to later choose physics or a related subject. [→ Boris Tomašík 2025](#boris-tomasik-2025)

@@ -62,3 +62,4 @@ Comparison of belonging by sub-discipline (biology vs physical sciences) among w
 - [Underrepresented students in a large remote CS course were more likely to request software-matched study groups than majority-group peers](underrepresented-students-request-software-matched-groups-more.md) — related
 - [Living at the intersection of multiple underrepresented identities compounded physics majors' lack of belonging](intersectional-uris-compound-lack-of-belonging.md) — related
 - [Physics majors with a greater number of underrepresented identities encounter more challenges than those with fewer or none](more-uris-more-challenges-physics-majors.md) — related
+- [Intersectional identities shaped negative experiences: one participant attributed negative peer experiences to both her race and her gender](intersectionality-race-gender-negative-experiences.md) — related

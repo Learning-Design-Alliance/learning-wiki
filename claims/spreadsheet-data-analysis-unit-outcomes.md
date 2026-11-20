@@ -49,3 +49,4 @@ Detailed analysis of Google Sheets outputs from 14 students in session 3 who vol
 - [Observed classroom implementation promoted science practices and core ideas, with Observing and Describing most frequent and coverage varying by unit](nico-nor-classroom-science-practices-coverage.md) — related
 - [Spreadsheets are harder to debug than comparable programs and lead less skilled users toward chartjunk](spreadsheet-drawbacks-debugging-chartjunk.md) — related
 - [During the IBM Q final project, spreadsheet-based data analysis and the concept of correlation were the most challenging aspects for students, while quantum circuit implementation and device characterization were among the least challenging](qcamp-correlation-spreadsheet-most-challenging.md) — a broader claim this one bears on
+- [Online astronomy CURE students reported high confidence in course-taught tools and skills, especially spreadsheets and online GUI tools](online-cure-high-skill-confidence.md) — related

@@ -48,3 +48,4 @@ Aggregate satisfaction result across the 2006–2015 questionnaire series, resta
 - [Female participation in the European Researchers' Night grew until it matched or slightly exceeded male participation by 2015](ern-gender-balance-shift-2015.md) — related
 - [In 2015, 70% of respondents said the event is useful to promote the researcher's role and 40% said it could encourage young people toward scientific careers](ern-2015-career-encouragement-perception.md) — related
 - [Research staff rate the recruitment GOSCE as highly acceptable, with nearly all reporting it taught them something new and provided valuable feedback](gosce-recruitment-training-acceptable-to-research-staff.md) — related
+- [Overall feedback on the storytelling activity was very positive, with 86.8% of students willing to participate again](positive-overall-feedback-willingness-participate-again.md) — related

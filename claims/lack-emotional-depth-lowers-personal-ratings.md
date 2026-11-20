@@ -55,3 +55,4 @@ Thematic analysis finding from Table 3, with more explicit expressions of emotio
 - [LLM-based virtual patients never ask for clarification of ambiguous questions, tending to provide overly detailed responses](never-ask-clarification-overly-detailed-responses.md) — related
 - [Verisimilitude limitations—absent visual, tonal, and nonverbal cues and lack of rapport—persisted as a limiting factor for all students using ChatGPT as a standardized patient](verisimilitude-limits-chatgpt-sp.md) — related
 - [Some pilot participants reported frustration with ChatGPT dialogues, sometimes becoming overly exhausting](chatgpt-dialogue-frustration-pilot.md) — related
+- [The review reports that ChatGPT's lack of emotional intelligence may leave students frustrated or feeling alienated when their problems are not properly handled](chatgpt-lacks-emotional-intelligence-alienation.md) — related

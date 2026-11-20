@@ -57,6 +57,7 @@ The article adapts six ethical considerations from the American Psychological As
 - [Address ethics and privacy considerations — transparency, security, student control, accountability, and informed consent — at the initial stages of MMLA design in simulation-based training](ethics-privacy-principles-mmla-simulator-design.md)
 - [Manage ethical risks of AI-driven TEFL tools through data protection policies, fairness audits, human oversight, and balanced-use design](ethical-safeguards-ai-tefl-tools-strategy.md)
 - [Use classification results only to support, not to exclude, students: keep interventions open to all while encouraging the most at-risk students to use them](ethical-use-classification-open-to-all-students.md)
+- [Establish ethical safeguards and debrief participants when piloting LLM tools with learners](ethical-safeguards-debrief-llm-pilots.md)
 
 ## Examples
 -

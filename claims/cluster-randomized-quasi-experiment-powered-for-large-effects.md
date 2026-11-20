@@ -76,3 +76,4 @@ Sensitivity analysis reported in §4.2 using G*Power 3.1 (two-tailed independent
 - Randomization does not ensure baseline equivalence in small-sample motor learning studies, so unbalanced pre-tests can overstate random-practice benefits — related
 - The study was adequately powered only for medium-to-large effects on the critical three-way interaction — related
 - The study was powered to detect effect sizes from d = 0.34 to 0.65 across the five tasks, so smaller effects would not have been reliably detected — related
+- [Simulation-based power analysis shows DCF detection achieves adequate power (> 0.8) for group sizes above roughly 250-350 students depending on effect size](dcf-power-analysis-simulation.md) — related

@@ -71,3 +71,4 @@ The review reports the Colorado group's values-affirmation result reducing gaps 
 - [Self-affirmation eliminated the Hispanic students' reading and mathematics deficit observed in the comparison group](self-affirmation-erased-hispanic-test-score-gap.md) — related
 - [Self-affirmation eliminated the female reading advantage over boys observed in the comparison group](self-affirmation-erased-female-reading-advantage.md) — related
 - [The review reports that a brief values-affirmation writing assignment raised Black students' semester grades, narrowing the Black-White achievement gap](values-affirmation-grade-gains-reported.md) — related
+- [Active learning and studio physics show mixed effects on gender gaps, depending on course design and implementation details](active-learning-gender-gap-effects-mixed.md) — a broader claim this one bears on

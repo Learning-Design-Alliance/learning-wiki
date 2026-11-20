@@ -47,3 +47,4 @@ Observational analysis of outgoing ties by Group 2 member (Fig. 4), noting BJ's 
 ## Related Claims
 - [Directional network analysis identified Herb as initiating predominantly off-topic interactions, a possible cause of Group 2's off-topic trend](herb-off-topic-initiations-group2.md) — related
 - [DHH students reported participating in science-related activities more often than hearing students](dhh-higher-science-participation.md) — related
+- [DHH students showed lower discourse engagement than their non-DHH group members in mixed hearing-ability groups](dhh-students-lower-engagement-labs.md) — a broader claim this one bears on

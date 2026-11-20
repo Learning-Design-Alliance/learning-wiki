@@ -60,3 +60,4 @@ Regression and descriptive comparison of students grouped by total utterances (b
 - [Higher GPT usage frequency is associated with more positive student perceptions, with significant differences between high and low usage groups](usage-frequency-associated-with-positive-perceptions-gpt-companion.md) — related
 - [Higher e-module engagement clusters had marginally higher final course grades, with significant differences for the Journal Article assignment and Concept Map modules](engagement-final-grade-differences-journal-concept-map.md) — related
 - [The chatbot's advantage was largest on questions about attendance requirements, midterm passing scores, and the course passing grade](chatbot-largest-gaps-logistics-questions.md) — related
+- [Students with no prior LLM-tool experience gained significantly more in final scores than prior users within the experimental group](no-prior-llm-experience-greater-gain.md) — related

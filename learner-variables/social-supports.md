@@ -13,7 +13,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 186 claims (142 show a difference, 32 mixed, 12 no difference) · 138 studies (53 associational, 27 qualitative, 19 causal, 17 review, 10 theoretical, 7 quant-synthesis, 5 design), `q1`–`q3` · 17 of 138 report an effect size · 186 claims rest on one study
+> **Evidence** · 187 claims (143 show a difference, 32 mixed, 12 no difference) · 139 studies (53 associational, 28 qualitative, 19 causal, 17 review, 10 theoretical, 7 quant-synthesis, 5 design), `q1`–`q3` · 17 of 139 report an effect size · 187 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -222,6 +222,7 @@ Social supports are the people available to help a learner if needed, and the le
 - [Students rate teacher support highly, above outreach benchmarks, but teachers alone could not have sustained the projects](../claims/prise-teacher-support-and-external-mentoring.md) [~M] — an instructional effect differs with it
 - [Percentage of isolated students decreased from 37% to 26% with the change to virtual context](../claims/isolated-students-decreased-virtual.md) [+M] — measured as an outcome of the instruction studied
 - [Networking and co-workers were the most important resource HEPA alumni used to obtain industry jobs](../claims/networking-most-important-resource-industry-jobs-hepa-alumni.md) [+M] — learners who differ on it differ in outcomes
+- [Family support through academic help and early exposure to science shaped the women's pathways to majoring in physics](../claims/family-support-pathway-physics-major.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

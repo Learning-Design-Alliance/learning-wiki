@@ -156,3 +156,4 @@ This meta-analysis synthesised 65 independent evaluations of school tutoring pro
 - [Pre-service teachers attribute their learning from experiencing peer tutoring to leading the process, peer interaction, preparing activities, and motivation](focus-group-tutor-learning-causes.md) — a narrower finding that bears on this claim
 - [Students reported that preparing and presenting their own materials increased their self-confidence and let them experience an educator role](sglm-self-confidence-educator-role.md) — a narrower finding that bears on this claim
 - [Teaching a basic LLM tutee produced knowledge-telling rather than knowledge-building](basic-llm-tutee-yields-knowledge-telling.md) — related
+- [Expert teachers watching AVT interactions could reliably predict when a learner understood material well, but not what the learner did not know—a one-sided signal of understanding](avt-one-sided-understanding-signal.md) — related

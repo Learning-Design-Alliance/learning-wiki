@@ -49,3 +49,4 @@ Same 291-form audience evaluation; feedback questions asked viewers to rate on 1
 - [BVI and non-BVI audiences responded similarly on most questions, with BVI audiences marginally more likely to rate the sounds 'very useful' (73% vs 61%)](bvi-non-bvi-similar-with-marginal-usefulness-difference.md) — related
 - [Improving accessibility of astronomy tools and methods benefits people with full sensory capacity as well as BVI persons](accessibility-benefits-everyone-astronomy.md) — related
 - [Watching the show shifted audience perceptions of accessibility: 74% were more convinced astronomy is accessible to BVI people and 82% wanted to find out more about science](show-shifted-accessibility-perceptions.md) — related
+- [Both BLV and sighted participants reported enjoying the astronomy sonifications, with no statistically significant group difference](sonification-enjoyment-both-groups.md) — related

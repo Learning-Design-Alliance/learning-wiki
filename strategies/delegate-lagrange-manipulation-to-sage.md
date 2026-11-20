@@ -41,6 +41,7 @@ For challenging problems such as the Wilberforce pendulum, students construct th
 ## Related Strategies
 
 - [Shift electrodynamics instruction toward interpretation of equations and graphical, qualitative exercises at the expense of algebraic manipulation](emphasize-interpretation-over-algebra-electrodynamics.md)
+- [Automation and geodesic manipulation functions to shift learner focus from construction to physical significance](geodesic-automation-manipulation.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Discussion-section finding from the interview study: participants at intersectio
 - [Racially marginalized students are less likely to report a sense of belonging in STEM education](marginalized-students-lower-stem-belonging.md) — a broader claim this one bears on
 - [Women of color are the least likely, and white men the most likely, to report a sense of belonging in STEM majors](intersectional-belonging-women-of-color-lowest-white-men-highest.md) — related
 - [Black women and participants with intersecting identities report being overlooked, facing microaggressions, and experiencing imposter syndrome in tech spaces](intersectional-identity-impact-black-women-tech.md) — related
+- [Intersectional identities shaped negative experiences: one participant attributed negative peer experiences to both her race and her gender](intersectionality-race-gender-negative-experiences.md) — a narrower finding that bears on this claim

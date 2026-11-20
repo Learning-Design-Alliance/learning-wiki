@@ -99,3 +99,4 @@ Identical non-GenAI homework items also differed significantly across halves (r=
 - [Personalized feedback produced no measurable differences in exam scores, final course grades, or D/F rates compared to generic messages](no-performance-gains-personalized-feedback.md) — related
 - [The chatbot's advantage was largest on questions about attendance requirements, midterm passing scores, and the course passing grade](chatbot-largest-gaps-logistics-questions.md) — related
 - [Andes produces learning gains by making graded homework feasible and by encouraging semantically well-formed problem solving with step-based feedback](andes-learning-gains-mechanisms.md) — related
+- [LLM-guided self-reflection after an assignment did not significantly improve exam scores two weeks later compared to no reflection (Study 1)](llm-reflection-exam-no-significant-gain-study1.md) — related

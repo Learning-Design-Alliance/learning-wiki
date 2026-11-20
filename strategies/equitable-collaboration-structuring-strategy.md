@@ -48,6 +48,7 @@ The authors describe five approaches they have started to implement to address i
 
 - [Add structured role assignments to inquiry-lab group work while preserving student decision-making agency](structured-roles-inquiry-lab-group-work.md)
 - [Use a three-part partner agreements intervention of individual reflections, partner agreement forms, and partner reflection forms to scaffold equitable group dynamics](partner-agreements-intervention-strategy.md)
+- [Explicitly assign and rotate lab group roles, with reflection on role participation](assign-rotate-lab-group-roles.md)
 
 ## Examples
 -

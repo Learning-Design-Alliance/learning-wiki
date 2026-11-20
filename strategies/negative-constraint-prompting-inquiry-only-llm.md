@@ -42,7 +42,8 @@ The article's constraint methodology combines three mechanisms: system prompts w
 - [Schema-constrained Structured Outputs eliminated parse failures: every /challenge and /unlock call returned a valid, fully-typed object during development testing](../claims/structured-outputs-eliminate-parse-failure-class.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Improve LLM feedback quality via JSON-schema prompts with hidden scoring keys and preprocessing code into structured dictionaries](llm-prompt-schema-and-preprocessing-strategy.md)
 
 ## Examples
 -

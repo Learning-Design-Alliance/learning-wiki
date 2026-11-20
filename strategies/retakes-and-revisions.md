@@ -63,6 +63,7 @@ Retakes and revisions operationalize [Assessment for Learning](../principles/ass
 - Standards-Based Grading — grading philosophy that makes score replacement coherent, since grades report current competence
 - Test-Enhanced Learning — retakes double as additional retrieval events
 - [Negotiate learning contracts at the start of term and allow test retakes until mastery](negotiate-contracts-allow-retakes.md)
+- [Use two-stage quizzes and reflection-based exam remediation in introductory physics assessments](two-stage-quiz-and-reflection-assessment-strategy.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — mastery exercises regenerate parallel problems; learners retry until reaching "mastery" level, with hints and instruction available between attempts.

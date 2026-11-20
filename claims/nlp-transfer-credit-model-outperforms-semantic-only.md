@@ -49,3 +49,4 @@ Results section comparison of the proposed three-pass model against a semantic-s
 - [Human annotators converge on a similarity threshold above 7 of 10 before offering transfer credit](annotators-require-similarity-above-7-for-credit.md) — related
 - [Expert annotation of learning outcome similarity is expensive and learning outcomes are often not publicly available](expert-annotation-of-learning-outcomes-is-expensive.md) — related
 - [Adjusting the lo_threshold parameter aligns the model's credit decisions with either lenient or strict human annotators](lo-threshold-tuning-matches-annotator-leniency.md) — related
+- [BERT-based topic matching paired learning outcomes in agreement with the curriculum framework's existing standard groupings for 95% of them (7,072 of 7,431).](bert-matching-95-percent-standard-agreement.md) — related

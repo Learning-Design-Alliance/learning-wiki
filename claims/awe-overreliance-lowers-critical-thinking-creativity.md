@@ -68,3 +68,4 @@ Risk finding from the systematic review's thematic analysis of 50 empirical stud
 - [Teachers express concern that student overreliance on AI may degrade independent thinking and hands-on scientific skills](teacher-concern-overreliance-ai-degrades-skills.md) — related
 - [A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](lmfm-overreliance-impedes-critical-thinking.md) — related
 - [Assessments requiring creative or critical thinking fall below a 50% solvability threshold for LLMs, per Akbar](creative-critical-thinking-below-50-percent-llm-solvability.md) — related
+- [Pre-service teachers anticipated ChatGPT would support questioning (16/29), individualized learning support (9/29), formative evaluation (8/29), critical thinking (5/29), and digital literacy (4/29)](anticipated-benefits-chatgpt-science-learning.md) — related

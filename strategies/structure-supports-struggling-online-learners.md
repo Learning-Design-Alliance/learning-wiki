@@ -45,6 +45,7 @@ Based on the finding that failing students applied a non-optimal, quiz-first str
 ## Related Strategies
 
 - [Design assignments with flexible deadlines during ERT to accommodate learners' increased obligations in crisis times](flexible-deadlines-ert-assignments.md)
+- [Identify struggling students early from in-unit assignment interactions and provide timely personalized support](early-identification-of-struggling-students-from-in-unit-interactions.md)
 
 ## Examples
 -

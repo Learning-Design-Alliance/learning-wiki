@@ -49,3 +49,4 @@ The authors' interpretation of the longitudinal randomized data: the one-day add
 
 ## Related Claims
 - [Self-perceived knowledge and preparation for the first major examination do not differ between Friendly Feedback, stress-management, and control groups despite rising from t5 to t8](self-perceived-preparation-does-not-differ-between-groups.md) — related
+- [Second-semester students start the semester with lower perceived stress than first-semester students, but levels match from the second period onward and rise again at semester's end](first-versus-second-semester-stress.md) — related

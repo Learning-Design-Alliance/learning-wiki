@@ -50,3 +50,4 @@ A worked illustrative example in the brief, assuming $100,000 salaries and benef
 - [Case study districts' staffing for English Learners falls well below Ohio cost-study recommendations for instructors and bilingual paraprofessionals](el-staffing-gaps-below-ohio-recommendations.md) — related
 - [Per-student special education costs fall with enrollment up to an ideal size, then rise as diseconomies of scale set in](special-education-economies-of-scale-ideal-enrollment.md) — related
 - [Even under the best prediction approach, students and teachers in 22 percent of incoming grade levels within SDP schools might have to be reassigned because of unexpected student mobility and maximum class size rules](sdp-enrollment-prediction-leaves-mobility-unaccounted.md) — related
+- [In classroom simulations, student-centric teaching gains from representational alignment fall off rapidly with class size and then plateau](class-size-moderates-alignment-benefit.md) — related

@@ -87,3 +87,4 @@ Blinded repeated measures ANOVA comparison of SME accuracy ratings of AI- versus
 - [Human TAs demonstrated stronger instructor voice, understanding, and helpfulness than AI in responding to student laboratory questions](human-tas-stronger-teaching-effectiveness-than-chatgpt.md) — related
 - [Students rated human TA responses more favorably overall but preferred ChatGPT responses 40% of the time](students-prefer-human-ta-responses-but-40-percent-prefer-chatgpt.md) — related
 - [Students found ChatGPT responses useful but insufficient in depth and detail compared with TA responses](students-find-chatgpt-useful-but-lacking-depth.md) — related
+- [Students rate human teachers higher than ChatGPT on problem-solving proficiency and prefer dialogues with human teachers](students-prefer-human-teacher-dialogue.md) — related

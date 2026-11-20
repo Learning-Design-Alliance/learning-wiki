@@ -70,3 +70,4 @@ Magnitude-comparison task within the same Expansions question (Table V). The art
 - [Some upper-division students struggle to apply the state function property of entropy to cyclic processes, requiring instructor intervention to conclude that entropy change over a cycle is zero](state-function-entropy-cycles-struggle.md) — related
 - [Graduate students demonstrated adaptability and metacognitive awareness in their approach to reasoning about entropy](graduate-entropy-reasoning-adaptability-metacognition.md) — related
 - [Most graduate students correctly rank entropies in a partitioned-box task, with pressure-equalization intuitions producing the main alternative rankings](partitioned-box-entropy-ranking-graduate-students.md) — related
+- [Students incorrectly think work is done in an irreversible free expansion of a gas into a vacuum](work-attributed-in-free-expansion.md) — related

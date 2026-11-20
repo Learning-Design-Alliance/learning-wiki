@@ -56,6 +56,7 @@ The article recommends deploying LLM-based chatbots as dynamic tutors in mechani
 - [Apply error mitigation such as self-consistency before deploying LLM-generated help, and frame unmitigated LLM feedback as an imperfect source](mitigate-llm-hint-errors-before-deployment.md)
 - [Build infrastructure-level mechanisms to monitor, benchmark, and control LLM response behavior across model transitions in conversation-based assessment](infrastructure-mechanisms-for-llm-response-consistency.md)
 - [Introduce prompt-engineering training before students use Gen AI for structured self-study techniques](prompt-engineering-training-before-gen-ai-self-study.md)
+- [Establish ethical safeguards and debrief participants when piloting LLM tools with learners](ethical-safeguards-debrief-llm-pilots.md)
 
 ## Examples
 -

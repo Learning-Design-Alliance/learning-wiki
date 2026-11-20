@@ -59,3 +59,4 @@ This is a single-case study (n=1) with research questions about appropriation an
 - [Students' appropriation of class interaction practices was mediated by prior sociohistorical educational experiences](prior-practices-mediate-class-interaction-appropriation.md) — related
 - [Restorying supports Black girls' identification of and resistance to dominant narratives in computing](restorying-supports-computing-identity-reconstruction.md) — related
 - [Conversation alone, via empathetic listening and reflective questioning, shifted faculty attitudes markedly toward openness to ESR in the QIS classroom](conversation-alone-shifted-faculty-attitudes-esr.md) — related
+- [A teacher's contact with Astrobiology themes prompted her to reframe her conception of science as open and unfinished and to reconsider routinised classroom practice](astrobiology-reframed-science-conception-teacher.md) — related

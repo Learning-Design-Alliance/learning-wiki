@@ -49,6 +49,7 @@ The article distills workshop consensus into concrete steps for launching interd
 - [Three strategic actions: build awareness of underrepresentation, invest in accessible pathways, and prioritize retention strategies](three-strategic-actions-tech-equity.md)
 - [Provide faculty professional development in adult learning theory and pedagogy for career pathways instruction](faculty-pd-adult-learning-career-pathways.md)
 - [Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating](four-level-ethical-ai-integration-strategy.md)
+- [Provide multiple accessible pathways into quantum education, from short videos to courses to majors, at all institution types](multiple-accessible-pathways-quantum-education.md)
 
 ## Examples
 -

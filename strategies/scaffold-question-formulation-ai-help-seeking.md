@@ -47,6 +47,7 @@ Based on observed differences in inquiry behavior, the article recommends that "
 - [Support children's ecological active learning through explanation prompts, active control, and environment design rather than explicit strategy training](support-ecological-active-learning-strategies.md)
 - [Adaptive systems should deliver prior-knowledge-tailored discrepancy prompts and regular self-assessment calibration prompts](pk-tailored-discrepancy-prompts.md)
 - [Support self-reflection through scaffolding, explicit instruction, simplified language, customization, and gamification](scaffold-self-reflection-makerspace-self-assessment.md)
+- [Nudge learners toward active practice and mitigate gaming behavior in LLM-based conversational tutoring](nudge-active-practice-mitigate-gaming.md)
 
 ## Examples
 -

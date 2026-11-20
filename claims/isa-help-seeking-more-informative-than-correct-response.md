@@ -51,3 +51,4 @@ Interpretation analysis of attention weights from the single-head Transformer En
 - [NCA scores of IIU input vectors order action types identically to the main-effects ordering (Spearman's ρ = 1)](nca-scores-align-with-main-effects.md) — related
 - [The Help Tutor improved students' in-tutor help-seeking behavior, but only for a subset of help-seeking action types](help-tutor-improved-in-tutor-help-seeking.md) — related
 - [In a TBL physiology course, higher-level questions were associated with more re-evaluation among student teammates](higher-level-questions-more-re-evaluation.md) — related
+- [Successful students showed significantly higher engagement action counts in in-unit assignments, while struggling students requested more hints, answers and explanations.](struggling-students-request-more-hints-answers-explanations.md) — related

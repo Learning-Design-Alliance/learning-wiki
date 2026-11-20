@@ -54,3 +54,4 @@ Item analysis of the Fall 2000 post-test for 1170 calculus-based students (α sl
 - [The QMFPS is reliable and shows good item discrimination for low-stakes assessment](qmfps-reliable-kr20-item-discrimination.md) — related
 - [Point biserial coefficient exceeds the 0.2 criterion for 32 of the 33 STPFaSL items](stpfasl-point-biserial-32-of-33-items.md) — related
 - [Item parameters of homework and online-exam items differ only insignificantly between resource-usage classes, and no performance quartile benefited or was harmed by online resource use](item-parameters-and-quartiles-null-usage-effects.md) — related
+- [Point biserial coefficients exceed the 0.2 criterion for 71 of 78 items in-person, with the below-threshold entropy items showing advanced students performing comparably to introductory students](stpfasllong-pbc-entropy-items-below-threshold.md) — related

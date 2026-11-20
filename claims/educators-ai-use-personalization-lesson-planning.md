@@ -100,3 +100,4 @@ Interview and listening-session data showed "some level of AI tool use" among ne
 - [Teachers most frequently use generic technologies (presentation tools, e-text readers) and rarely use subject-specific or formative assessment technologies](generic-tech-dominates-classroom-use.md) — related
 - [Teachers' most frequent needs were understanding students' cognitive deficits, further instruction in the emergence theory-based curriculum, and opportunities to plan lessons together](teacher-needs-themes-qualitative.md) — related
 - [Staff engagement with the social media platforms was variable, with tutors reviewing content mainly in face-to-face sessions](variable-staff-engagement-platforms.md) — related
+- [Fourteen types of teaching and learning methods/strategies were identified in ChatGPT-integrated lesson plans, led by cooperative learning (7/29)](fourteen-teaching-methods-chatgpt-lesson-plans.md) — related

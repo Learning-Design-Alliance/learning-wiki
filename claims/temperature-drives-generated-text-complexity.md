@@ -70,3 +70,4 @@ Two-sample one-sided t-tests on 1000 randomly sampled texts per generator/temper
 - [The three fine-tuned LLMs differ significantly in response length, readability, and similarity to posts](llm-response-length-readability-differences.md) — related
 - [Prompt-based personalization of an LLM/RAG teaching assistant produces measurable variation in response expression, length, and complexity across personalization conditions](prompt-personalization-measurable-response-variation.md) — related
 - [Hyperparameter setting with maximum token 53 and temperature 1 (Set C) yields the most accurate AGE grading performance](age-hyperparameter-set-c-most-accurate.md)
+- [GPT-4 and GPT-3.5 stories are linguistically simpler than LLaMA 2 stories, and Wikipedia definitions are the most complex texts](llm-stories-lower-linguistic-complexity.md) — related

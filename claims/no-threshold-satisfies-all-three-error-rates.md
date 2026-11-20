@@ -55,3 +55,4 @@ Threshold sensitivity sweep on the 2023–2025 pre-humanization collection (Tabl
 - [A linear mixed-effects model of detection error showed significant paper type, tool, and interaction effects, with underestimation largest for fully AI-generated papers and Pangram consistently producing the smallest errors](mixed-model-detection-error-underestimation.md) — related
 - [Inter-detector agreement between Pangram and GPTZero collapses after humanization, so a single vendor flag is not a reliable consensus signal](detector-agreement-collapses-after-humanization.md) — related
 - [GPTZero, an AI detector built for writing, fails to detect AI-generated code, assigning AI solutions lower suspicion scores than human solutions](gptzero-fails-ai-generated-code.md) — related
+- [A CLIP score threshold of 0.7 flags suspicious 3D models for manual review](clip-score-0-7-threshold-model-review.md) — related

@@ -82,3 +82,4 @@ The review reports Scala et al.'s (2025) randomised experiment comparing human-o
 - [Aggregate interaction volume did not demonstrate reduced human input; the strongest observed pattern was capacity expansion rather than proven labor substitution](capacity-expansion-not-labor-substitution.md) — related
 - [Graduate students reported maintaining or gaining a sense of agency when working with a GenAI research assistant](genai-use-preserves-or-strengthens-student-agency.md) — related
 - [GenAI cognitive offloading of lower-order tasks frees cognitive resources but risks reduced human evaluation skills](genai-cognitive-offloading-benefits-and-risks.md) — related
+- [GenAI was less fruitful in the definition stage of design, where students reflected it did not support critical thinking and risked shallow learning](genai-definition-stage-shallow-learning-risk.md) — a narrower finding that bears on this claim

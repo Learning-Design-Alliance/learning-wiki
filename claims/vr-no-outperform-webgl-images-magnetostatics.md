@@ -76,3 +76,4 @@ Repeated measures pre-post analysis of the 289-participant randomized study show
 - [Students rated the VR electrostatics intervention positively and equally across treatment groups](students-rate-vr-intervention-positively-equally.md) — related
 - [Preliminary VR training on unrelated content leads to a small but statistically significant improvement in electrostatics assessment gains](vr-preliminary-training-improves-electrostatics-gains.md) — related
 - [The benefit of preliminary VR training was limited to questions posed in VR, with no improvement on 2D computer-based posttest questions](vr-training-benefit-limited-to-vr-posed-questions.md) — related
+- [Oral placement therapists viewing unmodified 2D lecture video scored higher on a knowledge test than those viewing modified stereoscopic 3D VR video (92.00% vs 77.80% average)](vr-video-lower-knowledge-test-than-2d-lecture.md) — reports the opposite

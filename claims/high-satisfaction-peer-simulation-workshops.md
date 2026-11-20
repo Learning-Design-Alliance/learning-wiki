@@ -70,3 +70,4 @@ Satisfaction survey responses from 437 workshop attendances; the 2023–2024 sur
 - [Participants rated the one-day workshop highly, with overall satisfaction averaging 4.78 out of 5](pa-workshop-satisfaction-478-of-5.md) — related
 - [Pilot participants rated the CAI highly usable and effective for nutritional assessment learning](cai-pilot-high-usability-effectiveness-ratings.md) — related
 - [Students rated the simulations highly useful for their learning (average 4.0 of 5), and 80% of volunteered survey comments about the simulations were positive](student-perceptions-simulation-usefulness.md) — related
+- [Post-event evaluations show high satisfaction, with all survey ratings well over 4 out of 5 across the four rotating workshops](wac-evaluations-over-4-of-5.md) — a narrower finding that bears on this claim

@@ -47,3 +47,4 @@ Student survey (N = 189) on subject-specific learning difficulties: "Mathematics
 ## Related Claims
 - [Most students found probability difficult, mainly because of difficulty grasping its fundamental concepts](students-find-probability-difficult-concept-grasp.md) — a narrower finding that bears on this claim
 - [Systemic approach in in-service teacher education promotes holistic thinking but short, fragmented training hinders it (review reports Khisty, 1997)](systemic-approach-in-service-teacher-education.md) — related
+- [OMR difficulty is compounded because its conceptual and mathematical prerequisites are strongly interrelated, making total task solution probability the product of the component probabilities](omr-interrelated-prerequisite-complexity.md) — related

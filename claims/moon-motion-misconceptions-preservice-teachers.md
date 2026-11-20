@@ -58,3 +58,4 @@ Results from Q6–Q8 on the Moon's movements and the three-body system: "nearly 
 - [Incorrect answers about gravity on the moon remained comparable pre- and post-course (26% vs 24%), a topic not directly assessed in the course](gravity-misconceptions-unchanged-not-assessed.md) — related
 - [Students remain confused when changes of referential are needed to understand astronomical phenomena such as moon phases, seasons, eclipses and orbital motion around a common centre of mass](referential-change-difficulty-astronomy-students.md) — related
 - [Including astronomy topics improves science literacy and specific competencies, with many effect sizes of 0.8 or larger](astronomy-inclusion-improves-science-literacy.md) — related
+- [Around 10 percent of surveyed school students in grades 1 to 10 believed the Apollo Moon landings were a hoax](ten-percent-students-believe-moon-landing-hoax.md) — related

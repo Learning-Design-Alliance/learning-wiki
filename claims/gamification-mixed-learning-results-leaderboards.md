@@ -53,3 +53,4 @@ The chapter reports, citing Seaborn & Fels (2015) and Toda, Valle, & Isotani (20
 - [Reward techniques show positive meta-analytic effects for gamification and personalization, but perceptual fluency did not directly affect learning outcomes](reward-techniques-meta-analytic-effects-mixed.md) — reports the opposite
 - [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](gamification-raises-motivation-satisfaction.md) — related
 - [The gamified class achieved a higher average final grade (61% vs 53%), with correlation to gamification unconfirmed](gamification-higher-final-grades-python-course.md) — related
+- [Quiz grades stayed similar after gamification, suggesting students engaged meaningfully rather than gaming the leaderboard](meaningful-engagement-quiz-grades-similar.md) — a narrower finding that bears on this claim

@@ -46,6 +46,7 @@ The article structures its entire treatment as a sequence of numbered code boxes
 - [Teach multiple quantum algorithms on the same QUBO task so students learn to select a proper algorithm for a given computing task](same-qubo-multiple-algorithms-strategy.md)
 - [Use Python quantum code libraries such as Qiskit and Netsquid to deliver simulation-based exercises and support autonomous learning](python-quantum-libraries-simulation-exercises.md)
 - [Quantum hardware exploration assignments balancing authentic device access with simulator substitutes](quantum-hardware-exploration-assignments-strategy.md)
+- [Use real-hardware experiment results that deviate from theory to motivate a discussion of quantum error correction](real-hardware-error-observation-strategy.md)
 
 ## Examples
 -

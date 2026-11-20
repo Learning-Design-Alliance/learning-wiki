@@ -56,3 +56,4 @@ Review synthesis of modality comparisons including a randomized layperson trial 
 - [Combining video-based feedback with verbal feedback enhanced both skill acquisition and knowledge retention](video-plus-verbal-feedback-enhances-retention.md) — related
 - [School-based CPR training effectively promotes change in CPR knowledge and skills among adolescents](school-cpr-training-improves-adolescent-knowledge-skills.md) — a broader claim this one bears on
 - [Physicians learning CPR via IBL required substantially less time than the six-hour traditional lecture](ibl-time-savings-cpr-cme.md) — related
+- [Making predictions in predict-observe-explain demonstrations is associated with more accurate outcome reporting and better retention, but causality is unisolated](poe-prediction-associated-better-reporting-retention.md) — related

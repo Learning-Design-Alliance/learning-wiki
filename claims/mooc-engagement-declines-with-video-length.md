@@ -71,3 +71,4 @@ The dissertation reports, citing a large-scale log analysis of 6.9 million MOOC 
 - [Students accessed almost the entirety of a video only about half the time on average, and completion of lecture-oriented videos decreased with video length more steeply than completion of laboratory videos](in-video-completion-declines-with-lecture-video-length.md) — a narrower finding that bears on this claim
 - [Completion rates of viewing videos per learner negatively correlate with average video length across eight MOOCs](video-length-negative-correlation-completion-rate.md) — related
 - [MOOC viewing-duration hazard functions simultaneously exhibit a bathtub curve and a Lindy-effect decreasing tail](mooc-viewing-hazard-bathtub-lindy.md) — related
+- [Tutorly's video segmentation by learning goal achieved 73.7% overall accuracy within a five-second margin, with accuracy decreasing for longer videos](tutorly-segmentation-accuracy-73-7.md) — related

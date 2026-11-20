@@ -54,6 +54,7 @@ The article's practical implications recommend that universities avoid treating 
 - [Interventions targeting genAI misconceptions, epistemic orientation, and intellectual values to foster critical genAI use](interventions-targeting-genai-misconceptions-and-critical-thinking-dispositions.md)
 - [Run a preclass 30-minute AI literacy training covering query formulation and critical evaluation of AI output](preclass-ai-literacy-training-deepseek-pbl.md)
 - [Integrate generative AI into PBL under educator supervision, teaching students to formulate clinical questions and critically evaluate AI responses](supervised-critical-ai-integration-pbl-strategy.md)
+- [Integrate Generative AI literacy into curricula, including query formulation workshops and critical evaluation exercises](generative-ai-literacy-curriculum-integration.md)
 
 ## Examples
 -

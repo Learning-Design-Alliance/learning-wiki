@@ -43,6 +43,7 @@ The article describes an annotation procedure using an instruction-guided LLM fo
 - [Translate deductive coding rubrics into structured zero-shot prompts to compare LLM coding against human coding](zero-shot-prompt-codebook-translation-strategy.md)
 - [Four guidelines for designing LLM-assisted qualitative coding pipelines](guidelines-llm-qualitative-coding-pipelines.md)
 - [Use iterative prompt engineering mirroring human coders' labeling processes to refine LLM classification prompts](iterative-prompt-engineering-mirroring-human-coder-refinement.md)
+- [Expert-in-the-loop pipeline for generating and refining educational content with LLMs](expert-in-loop-llm-education-pipeline.md)
 
 ## Examples
 -

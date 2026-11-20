@@ -47,6 +47,7 @@ Because relatively few universities operate accelerator research facilities, the
 - [Reward top national-exam students with summer internships at research labs or tech companies, allocated per district to foster equal opportunities](district-allocated-summer-internships-strategy.md)
 - [Create HEPA-run industry internships and mentor training so early career scientists can experience industry settings without diluting core research](hepa-industry-internship-strategy.md)
 - [Establish an International Particle Physics Summer School for Teachers with international partners](international-physics-summer-school-teachers.md)
+- [Sustain laboratory practice under wartime online teaching by routing students to operating labs at partner institutions](wartime-online-teaching-partner-labs-strategy.md)
 
 ## Examples
 -

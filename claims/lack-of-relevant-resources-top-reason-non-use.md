@@ -47,3 +47,4 @@ A multiple-choice survey item asked respondents who did not use e-learning resou
 ## Related Claims
 - [Key barriers to SBE implementation are lack of knowledge or training, lack of awareness of resources, limited time and resources, and limited institutional support](sbe-barriers-knowledge-time-institutional-support.md) — related
 - [Reported barriers to simulation-based education implementation are lack of time, lack of teacher training, and cost of equipment and/or space](sbe-implementation-barriers-time-training-cost.md) — related
+- [Faculty cite irrelevance to their courses, a full curriculum, and lack of data science know-how as the top reasons for not teaching data science](faculty-barriers-thematic-coding.md) — related

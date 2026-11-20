@@ -46,6 +46,7 @@ One physics instructor implemented a group portion to introductory exams: "stude
 - [Two Stage Quizzes](two-stage-quizzes.md)
 - [Run a team-based answer-until-correct scratch-off review before exams](team-ifat-consensus-review-strategy.md)
 - [Support unfacilitated peer collaboration with a time constraint, a small reward, and an incentive for individual accountability.](peer-collaboration-time-reward-accountability.md)
+- [Use two-stage quizzes and reflection-based exam remediation in introductory physics assessments](two-stage-quiz-and-reflection-assessment-strategy.md)
 
 ## Examples
 -

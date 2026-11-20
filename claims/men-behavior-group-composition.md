@@ -77,3 +77,6 @@ Same cluster analysis restricted to mixed-gender inquiry-lab groups, comparing m
 - [In mixed-gender inquiry-lab groups, women spent about twice as much time as men analyzing data on laptops (14±7% vs 6±3% of the lab period)](women-twice-laptop-analysis-time.md) — related
 - [Self-selected groups show a tendency toward same-gender composition, which spreads to randomly assigned groups once students may change them](self-selection-same-gender-grouping.md) — related
 - [Gender was not a significant factor in selection of equipment-building and data-collection roles, but female students preferred an all-together collaborative work distribution while male students preferred rotating assigned roles](gendered-role-preferences-physics-lab-groups.md) — related
+- [Reported effect sizes for gender differences in first-year lab outcomes disagree across studies](effect-sizes-gender-lab-disagree.md) — related
+- [Task preferences in physics lab activities show no significant association with gender at any of the three institutions](no-gender-association-task-preference-physics-labs.md) — related
+- [No difference in discourse engagement level observed between female and male students in mixed-gender lab groups](no-gender-engagement-difference-mixed-groups.md) — related

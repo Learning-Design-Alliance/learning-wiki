@@ -67,3 +67,4 @@ Linear mixed-effects model (REML) on the same no-GPT tasks; the slopes of the co
 - [Students with prior GPT hints solved later GPT-free tasks significantly faster, while solution time did not differ significantly on tasks where hints were enabled](gpt-hints-faster-later-task-completion.md) — related
 - [On tasks with GPT hints enabled, the experimental group scored higher on successful submissions averaged across attempts, with statistically parallel improvement slopes](gpt-hints-higher-successful-submissions.md) — related
 - [Students with GPT hints enabled clicked to view regular platform feedback on failed tests significantly less often than controls on those tasks](gpt-hints-reduce-regular-feedback-use.md) — related
+- [Average number of attempts before reaching the correct answer served as the task-difficulty measure, with hints preventing bottleneck tasks in the MOOC](attempt-count-task-difficulty-mooc.md) — related

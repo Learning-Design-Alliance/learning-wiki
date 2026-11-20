@@ -53,3 +53,4 @@ Split-half reliability analysis (odd versus even items) of the 101 students' res
 - [Concept Test reliability was 0.72, rising to r = 0.84 after Spearman-Brown correction](concept-test-reliability-spearman-brown-084.md) — related
 - [A DistilBERT essay-scoring model shows sufficiently high internal consistency with Spearman-Brown coefficients from .77 to .92](distilbert-internal-consistency-spearman-brown-77-92.md) — related
 - [Overall LBCS internal consistency was good (α = 0.796) but the knowledge and skills dimension alone was not supported (α = 0.56)](lbcs-internal-consistency-alpha.md) — related
+- [Split-half administration shows comparable performance on the 22 common items regardless of item order, supporting reliability](stpfasllong-split-half-reliability-common-items.md) — related

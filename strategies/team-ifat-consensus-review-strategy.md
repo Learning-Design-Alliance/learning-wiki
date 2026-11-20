@@ -55,6 +55,7 @@ The article's implementable recipe: students first complete a multiple-choice te
 - [Team assignments graded by teachers plus anonymous peer scoring within and across teams](tbl-team-assignments-anonymous-peer-scoring.md)
 - [Use two-stage (group) exams and Calibrated Peer Review to make talking, writing, and collaboration manageable in large courses](two-stage-exams-and-calibrated-peer-review.md)
 - [Two-stage group exams with individual follow-up responses to provide collaboration with individual accountability](two-stage-group-exam-individual-accountability.md)
+- [Use two-stage quizzes and reflection-based exam remediation in introductory physics assessments](two-stage-quiz-and-reflection-assessment-strategy.md)
 
 ## Examples
 -

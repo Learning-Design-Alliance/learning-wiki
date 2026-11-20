@@ -69,3 +69,4 @@ PhD-or-equivalent completion within the same matched cohort: 13 cases (13.8%) vs
 - [Completing a BMedSc(Hons) is not associated with a greater likelihood of attaining a faculty position post-graduation](bmedschons-no-faculty-position-association.md) — related
 - [AMSJ publication is associated with higher degree attainment, driven by Masters degrees but not PhDs or graduate certificates/diplomas](amsj-publication-associated-higher-degree-attainment.md) — related
 - [No difference in demonstrated clinical knowledge between undergraduate and graduate medical degree students](no-undergrad-grad-knowledge-difference.md) — related
+- [About one third of SPT graduates obtain PhD degrees after graduation](spt-graduate-phd-outcomes.md) — related

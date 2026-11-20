@@ -66,3 +66,4 @@ The article reports, citing Wahle et al. (2022), that detection tools show "only
 - [AI-detection tools can detect raw ChatGPT output but provide a weak standard of evidence, raising false-allegation concerns](ai-detection-tools-weak-evidence-standard.md) — reports the opposite
 - [ChatGPT writes essays of comparable quality to human authors, which markers rarely flag as AI-generated](chatgpt-essay-quality-equivalent-human.md) — a narrower finding that bears on this claim
 - [The AI text classifier flagged more ChatGPT-group essays as likely AI-generated, but also produced false positives in the control group](ai-classifier-flags-more-gpt-essays-false-positives.md) — related
+- [Human markers identified AI versus human authorship only marginally better than random chance](human-judgment-ai-authorship-near-chance.md) — related

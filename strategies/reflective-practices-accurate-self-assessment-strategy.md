@@ -48,6 +48,7 @@ To address the gap between perceived and actual knowledge, the authors urge educ
 - [Provide early, proactive metacognitive support that guides feedback interpretation and strategy adjustment, beyond merely presenting performance information](early-proactive-calibration-support-tools.md)
 - [Provide clinicians with best-practice guidelines for delivering a dementia diagnosis and opportunities to reflect on their practice](guidelines-plus-reflection-for-diagnosis-delivery.md)
 - [Estimation and Prediction for Self-Awareness](estimation_and_prediction_for_self-awareness.md)
+- [Incorporate reflection mechanisms into LLM tutors to make them engaging and support metacognition](incorporate-reflection-into-llm-tutors.md)
 
 ## Examples
 -

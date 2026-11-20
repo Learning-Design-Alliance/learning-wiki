@@ -8,12 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
-newest_evidence: 2025
-recheck_by: 2028
+newest_evidence: 2026
+recheck_by: 2029
 sources:
-  - id: la-hadi-2025
+  - id: la-hadi-2026
     resource: "https://doi.org/10.48550/arxiv.2607.26067"
-    title: "La Hadi, A., Alibasa, M. J., Chen, G., & Asyhari, A. T. (2025). The “Easy Trap”: Why LLMs Underestimate Misconception-Driven Difficulty. https://arxiv.org/abs/2607.26067 [doi:10.48550/arxiv.2607.26067](https://doi.org/10.48550/arxiv.2607.26067)"
+    title: "La Hadi, A., Alibasa, M. J., Chen, G., & Asyhari, A. T. (2026). The “Easy Trap”: Why LLMs Underestimate Misconception-Driven Difficulty. https://arxiv.org/abs/2607.26067 Originally published 2025. [doi:10.48550/arxiv.2607.26067](https://doi.org/10.48550/arxiv.2607.26067)"
     author: "La Hadi, A., Alibasa, M. J., Chen, G., & Asyhari, A. T."
     q: 2
     i: "?"
@@ -32,18 +32,18 @@ sources:
 # LLMs systematically underestimate fraction items whose difficulty is driven by misconceptions (the "Easy Trap")
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
-`q2 i?` Fraction items consistently rated as easy by LLMs were among the most difficult for students; in the most extreme case only 34.2% of students correctly solved 100 ÷ 1/2. [→ La Hadi 2025](#la-hadi-2025)
-`q2 i?` As empirical difficulty increases (β > 0), fraction items become much harder for students while LLM-predicted difficulty increases less than expected, indicating a domain-specific bias rather than random error. [→ La Hadi 2025](#la-hadi-2025)
+`q2 i?` Fraction items consistently rated as easy by LLMs were among the most difficult for students; in the most extreme case only 34.2% of students correctly solved 100 ÷ 1/2. [→ La Hadi 2026](#la-hadi-2026)
+`q2 i?` As empirical difficulty increases (β > 0), fraction items become much harder for students while LLM-predicted difficulty increases less than expected, indicating a domain-specific bias rather than random error. [→ La Hadi 2026](#la-hadi-2026)
 
 ## Evidence
 
-### La Hadi 2025
+### La Hadi 2026
 
-La Hadi, A., Alibasa, M. J., Chen, G., & Asyhari, A. T. (2025). The “Easy Trap”: Why LLMs Underestimate Misconception-Driven Difficulty. https://arxiv.org/abs/2607.26067 [doi:10.48550/arxiv.2607.26067](https://doi.org/10.48550/arxiv.2607.26067)
+La Hadi, A., Alibasa, M. J., Chen, G., & Asyhari, A. T. (2026). The “Easy Trap”: Why LLMs Underestimate Misconception-Driven Difficulty. https://arxiv.org/abs/2607.26067 Originally published 2025. [doi:10.48550/arxiv.2607.26067](https://doi.org/10.48550/arxiv.2607.26067)
 
 `q2 · i?` · `associational · r2`
 
@@ -81,3 +81,4 @@ Figure 2 comparison of LLM-predicted versus empirical IRT difficulty shows non-f
 - [Curriculum graduates rated their expected performance worse than Master graduates while rating case difficulty similarly](self-assessment-performance-difference.md) — related
 - [Accuracy on difficult questions is significantly lower than on easy questions for all four LLMs](difficulty-effect-attenuated-llms.md) — related
 - [Honor-class students answered fewer rotational-inertia questions correctly than expected despite the computations being fairly easy](honor-class-underperform-rotational-inertia-questions.md) — a narrower finding that bears on this claim
+- [Instructors report using in-class quizzes with misconception traps, prediction-based discussions, and demonstrations, judging them useful without measured outcomes](instructor-quantum-diagnostic-instructional-practices.md) — related

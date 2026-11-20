@@ -51,3 +51,4 @@ Experiment 2: 81 juniors and seniors randomly assigned to questioning-with-train
 - [Neither rereading nor self-explanation changed comprehension test performance itself; effects were specific to monitoring accuracy](monitoring-effects-without-test-performance-gains.md) — related
 - [Self-questioning during study benefits low verbal ability high school students more than high verbal ability students (Experiment 1)](self-questioning-benefits-low-verbal-ability-more.md) — related
 - [Question quality, not study time, predicted comprehension test performance among questioners](question-quality-not-time-predicts-achievement.md) — related
+- [Reading Hurricane! two or more times was associated with higher posttest scores, but rereading Dragon's Lair was not associated with higher posttest outcomes](hurricane-repeated-reading-gains.md) — related

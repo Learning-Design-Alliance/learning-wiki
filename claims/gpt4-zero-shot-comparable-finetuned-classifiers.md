@@ -76,3 +76,5 @@ The same comparison section reports differentiated model profiles: "SetFit havin
 - [Few-shot LLM approaches outperform standalone supervised ML approaches, yet hand-crafted rules remain relevant](few-shot-llm-outperforms-ml-hcr-relevant.md) — related
 - [LLM data extraction accuracy varies by data type, with high precision but lower recall across tasks](llm-extraction-high-precision-lower-recall.md) — related
 - [Fine-tuning an LLM on expert (task, solution) data significantly improves its student synthesis performance, including capturing the student's behavior](finetuning-improves-llm-ss-student-synthesis.md) — related
+- [Zero-shot MeNSP scored science written responses without training data at Cohen's Kappa 0.30–0.57, improvable to 0.38 at the lower end with few-shot samples](mensp-zero-shot-scoring-kappa-range.md) — related
+- [Supervised ML is the most frequently used approach for automatic scoring of science assessments due to its high accuracy](supervised-ml-most-used-scoring-approach.md) — related

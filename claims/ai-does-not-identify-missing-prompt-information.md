@@ -48,3 +48,4 @@ The post-hoc review found that "only 4 AI responses noted that hematuria would t
 ## Related Claims
 - [Student prompts that omit key pertinent negatives are associated with AI-induced diagnostic errors](prompt-omission-pertinent-negatives-ai-errors.md) — related
 - [Students' top two concerns about educational LLM use are output quality (fabricated or misleading content, 53 mentions) and the verification burden (34 mentions)](students-top-concerns-output-quality-verification-burden.md) — related
+- [Prompting was a more profound challenge than participants anticipated: only two mentioned it as a concern before exposure, while 21 found phrasing prompts challenging afterwards.](prompting-underestimated-challenge-chatgpt-learning.md) — related

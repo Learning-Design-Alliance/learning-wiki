@@ -57,3 +57,4 @@ Fine-grained video analysis of a subset of individual groups, decomposing coarse
 - [Whether lab groups share or divide tasks does not seem to depend on single- versus mixed-gender composition](lab-task-sharing-independent-of-group-composition.md) — related
 - [Women in single-gender groups were dominant across all lab activity roles, while women in mixed-gender groups were dominant only on computer, paper, or group discussion](single-gender-women-dominant-across-all-lab-roles.md) — related
 - [No statistically significant gendered difference in laptop, calculator, and paper use was found in either lab course, and partner agreements showed no significant effect on these activities](no-gender-difference-notekeeping-activities.md) — related
+- [Gendered task division arises in mixed-gender lab groups, with men more likely to handle equipment, and is most pronounced in less-structured inquiry labs](gendered-task-division-mixed-gender-lab-groups.md) — related

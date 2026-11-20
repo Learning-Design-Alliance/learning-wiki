@@ -51,3 +51,4 @@ Paired pre/post Likert analysis of 52 students; Table II reports Communication p
 - [Perceived conceptual understanding and general ability in astronomy improved, with only moderate and anecdotal evidence respectively](astrobites-reading-conceptual-ability-gains.md) — related
 - [The reading assignment produced the largest perceived gains in students' ability to extract main takeaways of a paper](astrobites-reading-main-takeaways-largest-gain.md) — related
 - [Astrobites-based reading assignments significantly improved the perceived ability of undergraduates in astronomy-related courses to parse jargon in research literature](astrobites-reading-jargon-perception-improved.md) — related
+- [Online CURE students reported strong sense of belonging to the field and community of astronomy](online-cure-sense-of-belonging.md) — related

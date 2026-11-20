@@ -338,3 +338,4 @@ This claim does not imply that pure discovery is useless or that direct telling 
 - [Student-focused didactic architectures were used less frequently on average than teacher-focused architectures](student-focused-architectures-less-used.md) — related
 - [Students and teachers reported a need to balance student-directed inquiry with teacher-directed instruction when using the simulation](fgd-balance-student-inquiry-teacher-instruction.md) — related
 - [Solve-then-refine guidance (G4) may not have helped homework performance as much as other guidance forms in the classroom study](solve-then-refine-lower-homework-performance.md) — a narrower finding that bears on this claim
+- [Approximately 30% of lab reports showed no 'above and beyond' work](thirty-percent-no-above-and-beyond.md) — a narrower finding that bears on this claim

@@ -48,3 +48,5 @@ Human evaluation with 15 annotators rating 32 model-generated questions from fiv
 ## Related Claims
 - [In zero-shot evaluation, GPT-4's multi-label classification results were similar to what might be expected of fine-tuned classifiers, with SetFit and GPT-3.5 showing contrasting precision/recall patterns](gpt4-zero-shot-comparable-finetuned-classifiers.md) — related
 - [Fine-tuned 8B LLMs generate K-2 stories with difficulty-related metric scores statistically significantly different from (mostly better than) zero-shot GPT-4o and Llama 3.3 70B](finetuned-8b-llms-beat-zero-shot-large-models-on-difficulty-metrics.md) — related
+- [GPT-4 context descriptions improve story-matched 3D model generation quality from 3.2 to 4.6 out of 5](gpt4-descriptions-improve-3d-model-context-match.md) — related
+- [GPT-4 outperforms GPT-3.5 and LLaMA 2 in generating legal stories and educational questions](gpt4-outperforms-story-question-generation.md) — related

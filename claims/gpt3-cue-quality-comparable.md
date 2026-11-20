@@ -48,3 +48,4 @@ Human annotation study of GPT-3-generated cues (semantic relatedness on a 5-Like
 ## Related Claims
 - [GPT-3-generated incentive cues produced divergent question-asking performance similar to hand-crafted cues](gpt3-cues-match-handcrafted-performance.md) — related
 - [Children trained with the GPT-3-driven open-cue agent generated a significantly higher percentage of divergent questions than children with either incentive agent](open-agent-better-divergent-qa-performance.md) — related
+- [GPT-4 context descriptions improve story-matched 3D model generation quality from 3.2 to 4.6 out of 5](gpt4-descriptions-improve-3d-model-context-match.md) — related

@@ -85,3 +85,5 @@ Comparison reported in the Results section across the same four-course module-le
 - [A decision tree trained on Sample 2 week-2 data identifies a homework average of 62% as the highest-level threshold for classifying students at risk of a DFW outcome](decision-tree-homework-62-percent-threshold-dfw.md) — related
 - [Gradient boosted trees (xgboost) outperform maximum-likelihood logistic regression at predicting graduating semester by out-of-sample F1-score, except in semesters 15-16](xgboost-outperforms-mle-time-to-graduation.md) — related
 - [A random forest model trained on U.S. PISA data identifies top-decile U.S. science achievers with 71.6% accuracy](us-trained-model-71-6-accuracy-top-decile.md) — related
+- [ClickTree with the CatBoost classifier achieved higher validation AUC than Random Forest, Decision Tree and Logistic Regression on the same features.](catboost-outperformed-rf-dt-lr-validation-auc.md) — related
+- [Combining tutor talk moves with student ITS metrics predicts math assessment scores better than either feature source alone (AUC 0.77 vs 0.63 and 0.66)](combined-talk-moves-its-predict-math-achievement.md) — related

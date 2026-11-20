@@ -56,6 +56,8 @@ This strategy directs educators and policymakers to pair any GenAI assessment de
 - [Structured frameworks can guide effective and ethical LLM integration in nursing education](frameworks-guiding-llm-integration-nursing-education.md)
 - [Use LLM chatbots as interactive tutors for mechanics concepts while verifying reliability and addressing ethics and bias](llm-chatbot-tutors-mechanics-with-verification-caveats.md)
 - [Pair the scale with student-facing guidelines and multimedia on ethics, citation, limitations, and privacy](pair-aias-with-student-facing-guidelines.md)
+- [Establish ethical safeguards and debrief participants when piloting LLM tools with learners](ethical-safeguards-debrief-llm-pilots.md)
+- [Safeguard LLM feedback for students by stripping identity information, limiting interaction rounds, and forcing validated JSON output](llm-feedback-safety-safeguards-strategy.md)
 
 ## Examples
 -

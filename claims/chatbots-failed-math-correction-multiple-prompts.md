@@ -48,3 +48,4 @@ Pilot case study, §4.1.1 numerical comparison: the open-source Vicuna-33B chatb
 ## Related Claims
 - [Priming with an advanced prompt led Claude and ChatGPT (GPT-4 with Wolfram plugin) to produce completely correct annotated general solutions to the PhO problem](priming-yields-correct-general-solutions.md) — reports the opposite
 - [Teacher-provided correct answers and pre-prompting reduce erroneous LLM output and hallucinations compared with open chatbot use](leap-pre-prompting-reduces-hallucinations.md) — related
+- [Learners often accept or produce orders of magnitude that are completely implausible given knowledge available to them, even after instruction](implausible-orders-of-magnitude-learners.md) — related

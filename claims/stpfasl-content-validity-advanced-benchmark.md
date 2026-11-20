@@ -47,3 +47,5 @@ Benchmarking administration of the final STPFaSL to 21 Ph.D. pairs, 45 Ph.D. ind
 
 ## Related Claims
 - [STPFaSL reliability: KR-20 of 0.77 and 0.61 for introductory courses, higher for advanced groups](stpfasl-kr20-reliability-values.md) — related
+- [Advanced students outperform introductory students on the STPFaSL-Long in proctored in-class administration, supporting concurrent validity, but no group performs stellarly](stpfasllong-advanced-outperform-introductory-proctored.md) — related
+- [The long and short versions of the STPFaSL instrument correlate highly (Pearson r = 0.88) when administered to the same Ph.D. students two weeks apart](stpfasllong-short-version-correlation-088.md) — related

@@ -57,3 +57,4 @@ A key takeaway from the virtual discussion groups with state apprenticeship admi
 - [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — related
 - [Two educational modalities were identified: face-to-face classes using PowerPoint presentations and online training accessible 24/7 via institutional websites.](two-educational-modalities-face-to-face-and-online.md) — related
 - [Some learners found aspects of remote and hybrid instruction during the COVID-19 pandemic more inclusive and accessible than traditional in-person modes](remote-hybrid-more-accessible-some-learners.md) — related
+- [Post-test performance was comparable between online and in-person implementations despite reduced peer discussion online](comparable-posttest-online-in-person.md) — related

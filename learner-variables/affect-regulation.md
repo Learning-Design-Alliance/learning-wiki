@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 372 claims (262 show a difference, 67 mixed, 43 no difference) · 246 studies (96 associational, 67 causal, 33 review, 20 qualitative, 12 quant-synthesis, 10 design, 8 theoretical), `q1`–`q4` · 53 of 246 report an effect size · 364 claims rest on one study
+> **Evidence** · 373 claims (262 show a difference, 68 mixed, 43 no difference) · 247 studies (96 associational, 67 causal, 33 review, 21 qualitative, 12 quant-synthesis, 10 design, 8 theoretical), `q1`–`q4` · 53 of 247 report an effect size · 365 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -412,6 +412,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Test anxiety was not a significant predictor of assessment scores despite women reporting higher anxiety](../claims/test-anxiety-not-significant-predictor.md) [-M] — learners who differ on it differ in outcomes
 - [Subjects estimated that debugging with Eye reduces frustration by 61.43% on average](../claims/eye-survey-frustration-reduction.md) [+W] — measured as an outcome of the instruction studied
 - [Some pilot participants reported frustration with ChatGPT dialogues, sometimes becoming overly exhausting](../claims/chatgpt-dialogue-frustration-pilot.md) [+M] — measured as an outcome of the instruction studied
+- [Frustration sometimes preceded persistence and sometimes co-occurred with it during debugging](../claims/frustration-precedes-cooccurs-persistence.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

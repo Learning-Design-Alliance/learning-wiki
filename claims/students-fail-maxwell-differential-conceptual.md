@@ -51,3 +51,5 @@ Post-test conceptual questions on four electric and five magnetic field situatio
 - [Only 30% of electrodynamics students explicitly used boundary conditions on a conceptual question about the electric field outside a current-carrying wire](students-fail-activate-bcs-wire-context.md) — related
 - [Graduate physics students nearly ace most negativity questions but only three of 22 correctly answer the net-charge question](graduate-students-fail-net-charge-question.md) — related
 - [PER-based textbooks (Matter and Interactions, Six Ideas) present Maxwell's equations as correlations, not cause-effect relationships](per-based-textbooks-correlation-not-causation.md) — related
+- [About three in ten students wrongly treat the magnetic field circulation as proportional to the electric field itself rather than to its rate of change](students-confuse-electric-field-with-its-rate-of-change.md) — related
+- [Fewer than one in eight students correctly identify the displacement current when applying Ampère-Maxwell's law to a discharging circuit](students-fail-displacement-current-identification.md) — related

@@ -54,6 +54,8 @@ The article recommends that teacher education programs deliberately build in str
 - [Support teachers' digital competence development through operationalisations connecting technical and pedagogical knowledge while protecting educator well-being](connect-technical-pedagogical-support-wellbeing.md)
 - [Integrate structured guidance on responsible, critical AI use alongside self-directed learning approaches](structured-guidance-responsible-critical-ai-use-nursing.md)
 - [Integrate generative AI into PBL under educator supervision, teaching students to formulate clinical questions and critically evaluate AI responses](supervised-critical-ai-integration-pbl-strategy.md)
+- [Provide educators with professional development and training to use ChatGPT in instructional practices](educator-professional-development-for-chatgpt.md)
+- [Integrate Generative AI literacy into curricula, including query formulation workshops and critical evaluation exercises](generative-ai-literacy-curriculum-integration.md)
 
 ## Examples
 -

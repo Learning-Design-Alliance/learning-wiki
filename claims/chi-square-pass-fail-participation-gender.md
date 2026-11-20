@@ -48,3 +48,4 @@ Chi-square analyses of three categorical measures in the 100-student quasi-exper
 - [The four Solomon design groups showed no statistically significant difference in gender distribution (χ² = 2.849; p = .416)](gender-balance-four-groups-chi-square.md) — related
 - [Cluster membership is significantly associated with grade level but not gender](cluster-membership-grade-association.md) — related
 - [Learner confidence showed no association with passing rate at either baseline or post-curriculum assessment](sbml-slitalmp-confidence-passing-no-association.md) — related
+- [Comfort levels with physics laboratory activities show no significant association with gender at any of the three institutions](no-gender-association-comfort-physics-labs.md) — related

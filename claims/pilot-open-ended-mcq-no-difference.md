@@ -50,3 +50,4 @@ Pilot with second-year medical students randomized to open-ended versus multiple
 - [No significant difference between underprepared and college-ready students on final exam multiple-choice questions](final-exam-multiple-choice-no-significant-difference.md) — related
 - [Text reading relates more strongly to multiple-choice, cloze, and oral open-ended comprehension tasks than to written open-ended and retell tasks](comprehension-task-type-moderates-text-reading-relation.md) — related
 - [Student scores on the tunneling energy question depend strongly on question format and context](tunneling-question-scores-context-dependent.md) — reports the opposite
+- [In the 2021 in-person implementation, gains were polarized by question format: open-ended questions showed effect sizes of 1.5-2.0 while multiple-choice questions showed 0.30-0.80](inperson-gains-polarized-open-ended-vs-multiple-choice.md) — related

@@ -50,3 +50,4 @@ Paper survey (ESS) of 65 CS-course and 130 psychology-course students evaluating
 - [More than half of surveyed students raised subjective course factors (workload, professor, concurrent difficulty) that the automated model could not capture](students-raise-subjective-factors-beyond-model.md) — related
 - [Engineering and computer science students were less willing to use the automated advising feature than psychology students](technical-majors-more-wary-of-e-advisor.md) — related
 - [Students overwhelmingly intend to use advising support tools at home or with an advisor, and only a small minority would use one instead of an advisor](students-want-advising-tools-alongside-not-instead-of-advisors.md) — related
+- [Courses closely aligned with a student's home department content are significantly easier for that major even after controlling for student performance level](home-department-course-alignment-dcf.md) — related

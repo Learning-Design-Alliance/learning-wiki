@@ -50,3 +50,4 @@ Self-reported student perceptions from the two-year pilot of the quantum computi
 - [Visual puzzle-based representation can convey the Hong-Ou-Mandel effect without mathematical formalism](hom-effect-visual-explanation.md) — a broader claim this one bears on
 - [The author argues that combining simulations with experiments helps students see the connection between them and understand their limitations](simulation-experiment-combination-builds-connection-awareness.md) — related
 - [The authors report the activity's virtual component proved highly valuable for distance learning in quantum optics](virtual-component-valuable-distance-learning-quantum-optics.md) — related
+- [The article argues that early exposure to quantum information concepts helps young learners build stronger appetence for the field](early-quantum-exposure-builds-appetence.md) — related

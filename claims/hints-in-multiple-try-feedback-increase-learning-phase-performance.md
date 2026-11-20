@@ -52,3 +52,4 @@ Random-effects panel regression of 87 students' weekly session outcomes across t
 - [Error rates per completed problem-solving step did not significantly differ between conditions](no-difference-error-rate-log.md) — related
 - [Hints in multiple-try feedback marginally reduce students' metacognitive bias score](hints-marginal-bias-score-reduction.md) — related
 - [Additional statistics exercises added to the PBL course were reported ineffective by student evaluations, requiring better coordination with a biostatistics workshop](pbl-statistics-exercises-ineffective.md) — related
+- [Average number of attempts before reaching the correct answer served as the task-difficulty measure, with hints preventing bottleneck tasks in the MOOC](attempt-count-task-difficulty-mooc.md) — related

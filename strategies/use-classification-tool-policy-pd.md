@@ -49,6 +49,7 @@ The article recommends institutional uptake of the tool: "policy makers can use 
 - [Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating](four-level-ethical-ai-integration-strategy.md)
 - [Universities should provide vivid guidelines and education on how and where ChatGPT may be used for learning](university-guidelines-education-chatgpt-use.md)
 - [Provide accessible guidelines, training materials, or workshops to help students understand responsible GenAI use](accessible-genai-guidelines-training-workshops.md)
+- [Provide educators with professional development and training to use ChatGPT in instructional practices](educator-professional-development-for-chatgpt.md)
 
 ## Examples
 -

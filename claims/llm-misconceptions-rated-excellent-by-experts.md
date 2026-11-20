@@ -8,13 +8,13 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
-newest_evidence: 2025
+newest_evidence: 2026
 source_checked: 2026-10-20
-recheck_by: 2028
+recheck_by: 2029
 sources:
-  - id: parker-2025
+  - id: parker-2026
     resource: "https://doi.org/10.48550/arxiv.2605.00294"
-    title: "Parker, M. J., & Zavala-Cerna, M. G. (2025). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2605.00294 [doi:10.48550/arxiv.2605.00294](https://doi.org/10.48550/arxiv.2605.00294)"
+    title: "Parker, M. J., & Zavala-Cerna, M. G. (2026). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2605.00294 Originally published 2025. [doi:10.48550/arxiv.2605.00294](https://doi.org/10.48550/arxiv.2605.00294)"
     author: "Parker, M. J., & Zavala-Cerna, M. G."
     q: 3
     i: "?"
@@ -26,16 +26,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
-`q3 i?` Expert faculty rated 93.8% of LLM-generated misconceptions as Excellent on a structured rubric assessing plausibility, accuracy, relevance, and clarity. [→ Parker 2025](#parker-2025)
+`q3 i?` Expert faculty rated 93.8% of LLM-generated misconceptions as Excellent on a structured rubric assessing plausibility, accuracy, relevance, and clarity. [→ Parker 2026](#parker-2026)
 
 ## Evidence
 
-### Parker 2025
+### Parker 2026
 
-Parker, M. J., & Zavala-Cerna, M. G. (2025). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2605.00294 [doi:10.48550/arxiv.2605.00294](https://doi.org/10.48550/arxiv.2605.00294)
+Parker, M. J., & Zavala-Cerna, M. G. (2026). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2605.00294 Originally published 2025. [doi:10.48550/arxiv.2605.00294](https://doi.org/10.48550/arxiv.2605.00294)
 
 `q3 · i?` · `design · r2`
 
@@ -53,3 +53,4 @@ Expert evaluation of GPT-4-generated misconceptions for 48 problems across Immun
 - [Artifact-grounded agent responses are rated significantly higher than transcript-only responses on groundedness, analytical depth, helpfulness, relevance, and overall quality](artifact-grounded-responses-rated-higher.md) — related
 - [An LLM-based AI Evaluator agrees with expert human raters on collaboration transcripts at a level similar to inter-expert agreement](llm-evaluator-agreement-matches-expert-raters.md) — related
 - [Misconceptions can be uncovered in students’ written questions, with 11% of rated questions classified as containing a misconception](written-questions-uncover-misconceptions-11-percent.md) — related
+- [Subject-matter experts correctly labeled 400 of 570 learning-outcome pairs (70%), supporting the use of large language models in curriculum mapping.](expert-validation-70-percent-pairs.md) — related

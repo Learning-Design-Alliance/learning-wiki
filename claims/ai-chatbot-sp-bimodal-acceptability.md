@@ -52,3 +52,4 @@ Voluntary post-session survey of the 2026 cohort (20 of 24 students completed) c
 - [Virtual standardized patient interview comprehensiveness rose across successive SP consultations in the AI-assisted group, in one uncontrolled pre-post study](virtual-sp-interview-comprehensiveness-increases-sp1-sp3.md) — related
 - [All respondents reported confidence in performing virtual consultations after the experiential learning phase](vc-module-practical-phase-confidence.md) — related
 - [90% of MOOC exit survey respondents agreed or strongly agreed that the virtual patient exercise was helpful to their learning](vp-mooc-90-percent-helpful.md) — related
+- [90% of surveyed students (18/20) identified the expert and non-expert interviews as helpful or very helpful methodological instruments](cds-90-percent-interviews-helpful.md) — related

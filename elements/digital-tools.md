@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 203 claims (110 for, 78 mixed, 15 against) · 170 studies (83 causal, 24 review, 18 design, 16 associational, 15 quant-synthesis, 8 theoretical, 6 qualitative), `q1`–`q4` · 20 of 170 report an effect size · 202 claims rest on one study
+> **Evidence** · 205 claims (112 for, 78 mixed, 15 against) · 172 studies (84 causal, 24 review, 18 design, 17 associational, 15 quant-synthesis, 8 theoretical, 6 qualitative), `q1`–`q4` · 21 of 172 report an effect size · 204 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -238,6 +238,8 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [88% of students approved the Arduino as a tool for producing physics experiments](../claims/88-percent-students-approve-arduino-tool.md) [+W] — attached 2026-11-18 from Lima et al. (2020), which proposed "Arduino UNO Rev. 3 platform as a low-cost data-acquisition board for physics experiments".
 - [Elementary school students can perform video analysis of Brownian motion with little stress when a pre-compiled analysis file is prepared for them](../claims/elementary-students-video-analysis-brownian-motion-feasible.md) [+W] — attached 2026-11-19 from Makito Miyazaki et al. (2022), which proposed "Tracker-based pre-compiled video analysis activity for elementary students".
 - [Learning AI is argued to motivate students in STEM subjects by letting them meaningfully explore real-world applications of what they study](../claims/ai-learning-motivates-stem-students.md) [+W] — attached 2026-11-19 from Nathan Wang et al. (2022), which proposed "Accessible AI development tools for K-12: free cloud platforms and visual drag-and-drop software".
+- [Pre-school children practicing English vocabulary pronunciation with a mobile app (with or without hologram) scored significantly higher on the post-test than children using traditional image-based methods, with the holographic group highest](../claims/holographic-app-outperforms-traditional-pronunciation-practice.md) [+W] — attached 2026-11-20 from Rebeca Cerezo et al. (2017), which proposed "Arturito: an Android holographic mobile app for practicing English vocabulary pronunciation with speech recognition"; tests this page's relationship.
+- [For an EBAU geometry exercise, the optimal solution combines Geogebra for the visual relative-position part and WxMaxima for the calculation part](../claims/geogebra-wxmaxima-complement-ebau-geometry.md) [+W] — attached 2026-11-20 from José Manuel Fernández-Barroso (2024), which proposed "WxMaxima and Geogebra as free didactic tools for secondary mathematics".
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

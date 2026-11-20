@@ -54,3 +54,5 @@ Exploratory case study of the 2018 computational essay implementation in a 3rd-s
 - [Physics-debugging groups in P3 exhibit a unique group interaction afforded by the practices specific to computational physics, namely problem debugging](physics-debugging-unique-group-interaction-p3.md) — related
 - [Scaffolded task progression shifts novice reasoning from local completion toward diagnosis and systematic debugging as task demands increase](scaffolded-task-progression-diagnostic-shift.md) — related
 - [A computational essay assignment was implemented across two semesters, first as a voluntary pilot (17 students, 11 essays) and then as a mandatory course component](computational-essay-two-semester-implementation.md) — related
+- [Students leveraged existing disciplinary computational literacy to engage with computational literature and began epistemic negotiation when defining projects](case-students-engage-computational-literature-epistemic-negotiation.md) — related
+- [For one pair, explaining work in writing was harder than coding, and essay writing deepened their physics understanding](writing-harder-than-coding-deepened-understanding.md) — related

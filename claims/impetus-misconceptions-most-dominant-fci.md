@@ -52,3 +52,4 @@ Analysis of dominant incorrect answers in tables 4-6 identifies Impetus as the m
 - [Modified Module Analysis identified 9 groups of incorrect FCI answers on the pretest and 11 on the post-test, in most cases mappable to common misconceptions](mma-identifies-incorrect-answer-groups.md) — related
 - [ChatGPT's FCI errors include impetus-type preconceptions shared with beginning physics students](chatgpt-impetus-preconception-errors.md) — related
 - [ChatGPT correctly reasons within two validated preconceptions (centrifugal force and impetus) when prompted to respond as-if a student held them](chatgpt-reasons-within-preconceptions.md) — related
+- [Bogotá engineering students show predominantly Aristotelian and Galilean conceptions of falling bodies on the FCI](fci-bogota-falling-body-conceptions-distribution.md) — related

@@ -49,3 +49,4 @@ Item-by-item descriptive analysis (Table 5) of pretest and posttest performance.
 - [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md) — related
 - [Zlotos study found confidence gains at post-test and 6-month follow-up, with knowledge peaking immediately then declining but staying above pretest](zlotos-confidence-knowledge-trajectory.md) — related
 - [Non-verbal communication gains persisted at a two-month follow-up, with no statistically significant decline from post-test](peer-tutoring-asd-gains-retained-two-month-followup.md) — related
+- [Python data-analysis skills acquired in the first semester were largely retained after a three-month interruption, though retention varied across groups](python-skill-retention-three-month-break.md) — related

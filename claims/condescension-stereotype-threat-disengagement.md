@@ -62,3 +62,6 @@ Case-study interview evidence: Paulette's account of male professors' condescens
 - [Female physics students reported the physics learning environment felt unsafe due to condescending or intimidating behavior and cold calling](unsafe-environment-condescending-cold-calling.md) — related
 - [Exam culture with failing class averages and curving left physics majors feeling discouraged regardless of final grade](failing-exam-averages-discourage-physics-students.md) — related
 - [The fraction of student questions asked by women rose from 38.8% in spring 2019 to 67.3% in spring 2020](invitational-solicitation-increased-womens-question-fraction.md) — related
+- [Faculty perceptions separating academic-bound from industry-bound students affect women's recognition, competence, and belonging in physics](career-path-perceptions-recognition-competence-belonging.md) — related
+- [Peer mentorship helps women in physics engage with their physics community and fosters a sense of belonging](peer-mentorship-belonging-physics-community.md) — related
+- [Students left to work alone in pair-designed labs had negative experiences, particularly underrepresented students](solo-students-negative-experiences.md) — related

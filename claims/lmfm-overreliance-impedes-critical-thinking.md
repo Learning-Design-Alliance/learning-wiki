@@ -78,3 +78,5 @@ Perspective article (the authors' overview of opportunities and challenges, not 
 - [LLM responses that are incomplete or incorrect prompt students to question, verify and improve the information, fostering critical thinking through cycles of validation and correction](llm-errors-prompt-validation-cycles-critical-thinking.md) — reports the opposite
 - [Over-reliance on GAI risks weakening teaching and social presence and depriving students of foundational skill development](gai-overreliance-risks-presence-and-skills.md) — related
 - [The article argues, citing Chomsky and Schmidt, that schooling can function to disempower students and diminish broad critical thinking](schooling-can-disempower-critical-thinking.md) — related
+- [The review reports that overuse of ChatGPT can have detrimental effects on critical thinking abilities and problem-solving inventiveness](chatgpt-overuse-harms-critical-thinking.md) — possibly the same claim (merge candidate)
+- [The article argues that fading scaffolding and non-expert constraints mitigate the risk that AI assistance erodes critical thinking](scaffolding-fade-mitigates-ai-dependence-risk.md) — related

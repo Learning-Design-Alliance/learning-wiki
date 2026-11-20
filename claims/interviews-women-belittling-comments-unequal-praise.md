@@ -62,3 +62,7 @@ Individual semi-structured think-aloud interviews with 30 student volunteers (20
 - [Female physics students reported the physics learning environment felt unsafe due to condescending or intimidating behavior and cold calling](unsafe-environment-condescending-cold-calling.md) — related
 - [Rejection from potential research groups, perceived as personal failing, undermined belonging and drove consideration of leaving](group-search-rejection-undermined-belonging-attrition-risk.md) — related
 - [Sense of belonging experiences, such as encouragement and exclusion, shape students' interest in a method](sense-of-belonging-shapes-method-interest.md) — a broader claim this one bears on
+- [Faculty perceptions separating academic-bound from industry-bound students affect women's recognition, competence, and belonging in physics](career-path-perceptions-recognition-competence-belonging.md) — related
+- [Faculty mentorship that encourages women to take challenging courses builds their sense of competence and recognition as physics people](faculty-mentorship-challenging-courses-competence-recognition.md) — related
+- [Students left to work alone in pair-designed labs had negative experiences, particularly underrepresented students](solo-students-negative-experiences.md) — related
+- [All seven undergraduate women physics majors interviewed recalled negative experiences with their male peers during college](women-physics-majors-negative-male-peer-interactions.md) — related

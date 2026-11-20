@@ -66,3 +66,4 @@ Eight experienced mathematics teachers using the same conceptually-focused volum
 - [Mathematics in physics fills multiple epistemic roles: physical relation, calculation framework, web of ideas, and packaging of rules](epistemic-complexity-math-in-physics.md) — related
 - [Students' ADK in high school physics centers on using correct procedure to produce correct answers rather than conceptual understanding](student-adk-procedure-over-conceptual-understanding.md) — related
 - [Drawing physical terms helps students develop deeper understanding of the concepts behind the terms](drawing-terms-deepens-physics-concept-understanding.md) — related
+- [Students consciously chose challenges that led to deeper learning in 45 identified instances](choosing-challenges-45-instances.md) — related

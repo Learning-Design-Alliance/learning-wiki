@@ -53,3 +53,4 @@ Cluster analysis examining the range of roles within individual groups by lab ty
 - [Men behaved differently depending on group gender composition: men in single-gender groups were more often high Equipment users, while men in mixed-gender groups were more often high Other users](men-behavior-group-composition.md) — related
 - [Student behaviour profiles vary week to week rather than representing stable semester-long behaviour types](student-profiles-vary-week-to-week.md) — related
 - [Whether lab groups share or divide tasks does not seem to depend on single- versus mixed-gender composition](lab-task-sharing-independent-of-group-composition.md) — related
+- [Group members' discourse styles tend to be aligned, with most group-lab units showing only one or two styles](group-member-discourse-style-alignment.md) — related

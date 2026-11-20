@@ -51,3 +51,4 @@ Post-course paper questionnaire (42 matched pre-post answers from 48 voluntary p
 - [Students found Myartspace easy to use and reported the visit was more engaging than traditional museum visits](myartspace-easy-to-use-and-engaging.md) — related
 - [The sound-card measurement activity was easy to perform with large student groups and engaging for students](sound-card-activity-feasible-large-groups.md) — related
 - [Most student groups voluntarily adopted Python and Jupyter Notebooks for data analysis in their first-semester lab experiments, rising from 83% to 100%](python-jn-group-adoption-first-semester.md) — related
+- [Students in a first-semester physics lab course reached near-mastery of introductory Python data-analysis skills in the Implement category during the introductory Jupyter Notebook sessions](jn-intro-sessions-high-implement-scores.md) — related

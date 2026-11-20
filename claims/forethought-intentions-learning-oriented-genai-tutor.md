@@ -53,3 +53,4 @@ Preliminary AI-reported descriptive results from the forethought phase of the cl
 - [After-school moderated chat sessions enable scaffolded problem-solving discussion beyond classroom hours](after-school-chat-sessions-scaffold-problem-solving.md) — related
 - [The intervention increases students' intention to choose complex tasks and shifts goal orientation toward learning goals](intervention-increases-complex-task-intention-and-learning-goals.md) — related
 - [The prototype offers more comprehensive support to diverse learners than existing AI tutors such as Quizlet's Q-Chat](prototype-more-comprehensive-than-qchat.md) — related
+- [Thematic analysis of reflection chats identified four LLM support behaviors: positive affirmations, expanding on answers, offering guidance, and encouraging reflection](llm-reflection-interaction-themes.md) — related

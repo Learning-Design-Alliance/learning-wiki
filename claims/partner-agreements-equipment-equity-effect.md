@@ -54,3 +54,4 @@ The same model applied to the recorded Physics II sections. The article reports 
 - [In traditional guided-verification physics labs, no gender difference appears in the distribution of behaviour profiles](no-gender-difference-traditional-labs.md) — related
 - [In inquiry-based physics labs, women's profiles cluster in laptop use and men's in equipment use, indicating gendered task division](gendered-task-division-inquiry-labs.md) — related
 - [In mixed-gender lab groups, men spent more time on the equipment while women spent more time on paper](mixed-gender-lab-groups-men-equipment-women-paper.md) — related
+- [Gender-based inequities in educational physics labs are salient and persistent across curricula and contexts](persistent-gender-inequities-physics-labs.md) — related

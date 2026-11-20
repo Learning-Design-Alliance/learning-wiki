@@ -43,6 +43,7 @@ In spacetime, joining neighbouring sectors requires a Lorentz transformation rat
 
 - [Students calculate spacetime sector models themselves using a simplified method requiring only elementary mathematics](student-sector-model-calculation-strategy.md)
 - [Have students compute and construct sector models themselves from a given metric to study geodesics independently](students-compute-sector-models-from-metric-strategy.md)
+- [Automation and geodesic manipulation functions to shift learner focus from construction to physical significance](geodesic-automation-manipulation.md)
 
 ## Examples
 -

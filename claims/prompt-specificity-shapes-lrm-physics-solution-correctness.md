@@ -57,3 +57,4 @@ Phase I analysis of o4-mini outputs to three prompt variants (five submissions e
 - [Comparing analytic with Euler and Euler-Cromer numerical solutions led students to quantify iteration error, which affected position but not velocity](analytic-versus-numerical-solution-error-activity.md) — related
 - [Priming with an advanced prompt led Claude and ChatGPT (GPT-4 with Wolfram plugin) to produce completely correct annotated general solutions to the PhO problem](priming-yields-correct-general-solutions.md) — related
 - [Assessments more resistant to ChatGPT are open-ended, involve images or student-specific outputs, or do not specify expected output in detail](assessment-features-resistant-to-chatgpt.md) — related
+- [Prompt quality was significantly correlated with the effectiveness of CodeTutor's responses](prompt-quality-correlates-response-effectiveness.md) — related

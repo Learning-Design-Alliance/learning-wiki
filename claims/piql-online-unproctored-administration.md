@@ -70,3 +70,4 @@ The article reports small but significant performance differences on MCMR items 
 - [Most students taking the RBA online appear to take it seriously, though a small fraction completed it in ten minutes or less](online-rba-time-on-task-buy-in.md) — related
 - [Students choose more responses to MCMR items when assessments are administered online rather than on paper](online-administration-more-mcmr-responses.md) — related
 - [No significant differences in student performance on the PIQL's single-response items between on-paper and online administration](piql-sr-items-no-administration-effect.md) — related
+- [Average post-test scores after CQS administration reached 83% in the virtual implementation and 77% in the in-person implementation, with the lower in-person average attributed by the authors partly to unproctored virtual testing](cqs-posttest-averages-virtual-83-inperson-77.md) — related

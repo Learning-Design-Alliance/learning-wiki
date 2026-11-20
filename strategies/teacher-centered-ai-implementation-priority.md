@@ -42,6 +42,7 @@ The review's forward-looking agenda calls for AI deployments designed around tea
 - [Learning-by-teaching with robots and teachable agents is theoretically grounded in cooperative learning mechanisms, but direct experimental evaluations in elementary STEM classrooms remain limited](../claims/learning-by-teaching-robots-limited-direct-evidence.md) [~W]
 - [Use teachers' a priori needs as a research agenda guiding smart classroom design and policy](teacher-needs-research-agenda-smart-classrooms.md)
 - [Use pedagogical knowledge benchmarks to guide model selection and fine-tuning for educational AI, with ethical guardrails and human-in-the-loop deployment](pedagogy-benchmark-guided-model-selection-strategy.md)
+- [Integrate data science as a tool that enhances the existing physics curriculum rather than replacing it](data-science-as-enhancing-tool-not-replacement.md)
 
 ## Examples
 -

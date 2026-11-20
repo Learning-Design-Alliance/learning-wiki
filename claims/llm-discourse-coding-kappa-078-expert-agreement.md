@@ -62,3 +62,4 @@ Reliability validation of the LLM coding pipeline: an expert independently coded
 - The proposed coding scheme achieves high inter-rater reliability across design object, design move, and communication move dimensions — related
 - Coding of included studies reached 100% inter-coder reliability using the agreement formula — related
 - [SRL behaviors can be reliably hand-coded from out-of-the-box automated think-aloud transcriptions](whisper-transcripts-srl-coding-feasibility.md) — related
+- [Expert evaluators assessed Tutorly's prompt-pipeline controllability by annotating 277 dialogue messages against a hierarchical intent label scheme across three video topics](tutorly-controllability-277-messages.md) — related

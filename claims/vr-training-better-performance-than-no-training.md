@@ -54,3 +54,4 @@ Background-literature finding: the article reports, citing Alaker et al.'s meta-
 - [No significant differences found between virtual reality training and simulation training in GOALS scores or time to completion](vrt-versus-st-no-significant-difference.md) — related
 - [Virtual reality training improves economy-of-movement and error global rating scores compared with no additional training in one RCT](vrt-improves-grantcharov-grs-domains.md) — a narrower finding that bears on this claim
 - [Intensive basic laparoscopic skills training reduces time and errors when medical students later perform robotic tasks, in a review-reported dry lab cohort study](laparoscopic-training-eases-robotic-skill-acquisition.md) — related
+- [The published literature the review cites reports better surgical performance for clinicians trained with VR simulators than untrained controls](vr-training-better-surgical-performance-review.md) — possibly the same claim (merge candidate)

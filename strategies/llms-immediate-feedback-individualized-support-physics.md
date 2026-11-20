@@ -50,6 +50,7 @@ Based on their finding that LLMs underperform students on physics exams yet rema
 - [Implement AI in assessment as a hybrid support tool for low-stakes, formative stages while humans retain final grading authority](hybrid-ai-human-assessment-implementation.md)
 - [Use automatic reflection classification for preliminary feedback and workload support, with final assessment retained by educators](automated-reflection-preliminary-feedback-educator-final.md)
 - [Deploy AI-assisted classroom observation as a complementary first-pass screening and reflection tool, with raters retaining interpretive judgment](ai-assisted-observation-complementary-screening-strategy.md)
+- [Combine ChatGPT with human teachers in dialogic teaching rather than replacing human teachers](combine-chatgpt-with-human-teachers-strategy.md)
 
 ## Examples
 -

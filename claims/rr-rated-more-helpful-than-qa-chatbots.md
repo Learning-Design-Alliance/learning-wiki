@@ -49,3 +49,5 @@ Learning-experience ratings from the same 58-participant filtered sample, tested
 - [Log analysis: R&R learners used different teaching strategies, requested little help, and conversational learning took longer than reading](rr-log-analysis-strategies-help-time.md) — related
 - [Ruffle&Riley, teacher QA and LLM QA chatbots and reading show no significant post-test differences in a between-subject online study](rr-no-posttest-difference-four-conditions.md) — related
 - [No significant differences among chatbot conditions in engagement or perceived interruption](rr-no-engagement-interruption-differences.md) — related
+- [Ruffle&Riley was rated significantly more helpful for understanding, remembering, and support, and more enjoyable and coherent, than the QA chatbot conditions](rr-higher-learning-experience-ratings-than-qa-chatbots.md) — possibly the same claim (merge candidate)
+- [Ruffle&Riley users rated their perceived pre- and post-activity knowledge significantly higher than reading participants](rr-higher-perceived-knowledge-than-reading.md) — related

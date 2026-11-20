@@ -45,6 +45,7 @@ This strategy combines the memo's two implementable moves: at the beginning of t
 - [Require Retakes](require_retakes.md)
 - [Retakes And Revisions](retakes-and-revisions.md)
 - [Require a team contract at semester start to safeguard against group-work failures in ILB projects](team-contract-group-harmonization-strategy.md)
+- [Student-designed extra assignment contracts: propose, draft a contract with deliverables and proficiencies, revise, complete, and review](lbcg-student-contract-lifecycle-strategy.md)
 
 ## Examples
 -

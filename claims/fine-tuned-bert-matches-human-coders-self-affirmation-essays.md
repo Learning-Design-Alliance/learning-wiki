@@ -85,3 +85,4 @@ Interrater reliability analysis on an out-of-sample comparison dataset of 134 do
 - [Fine-tuned ELECTRA classifies Gibbs cycle phases in reflective sentences, with top-3 predictions reaching up to 98% F1](papagai-electra-gibbs-cycle-top3-f1-098.md) — related
 - [Trained logistic-regression coefficients align with the human coding scheme's inclusion and exclusion criteria](model-coefficients-align-with-coding-scheme-criteria.md) — related
 - [SRL behaviors can be reliably hand-coded from out-of-the-box automated think-aloud transcriptions](whisper-transcripts-srl-coding-feasibility.md) — related
+- [Cross-validation yielded higher machine-human agreement than self- and split-validation approaches in ML-based science assessment](cross-validation-yields-higher-mha.md) — related

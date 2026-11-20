@@ -70,3 +70,4 @@ In the same retrospective study, the impact section reports career-awareness out
 - [Remote-mentored girls completed tangible STEM projects distributed across computation (44%), game/animation/web (36%), and non-programming (20%) categories](remote-mentoring-project-type-distribution.md) — related
 - [Over 20 years the author supervised 65 undergraduates and 44 high school students in variable-star research projects, roughly evenly split by gender and about half visible minorities](percy-65-undergrads-44-high-school-students.md) — related
 - [Mentees' physics and researcher identity shifted from low-level to higher-level over the remote REU program](remote-reu-identity-growth.md) — related
+- [Annual student feedback reports at least 70% felt more confident and enthusiastic about pursuing a STEM career](p4p-70-percent-confidence-enthusiasm.md) — related

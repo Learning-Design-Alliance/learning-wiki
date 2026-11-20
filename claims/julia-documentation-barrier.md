@@ -47,3 +47,4 @@ Survey item on aspects of Julia programming that present an activation barrier (
 ## Related Claims
 - [Software environment set-up remained a significant pain point for students despite careful course design](environment-setup-pain-point-introductory-coding-course.md) — related
 - [Students in the Julia-based course did not find setting up the environment or learning Julia syntax to be significant activation barriers](julia-setup-syntax-not-activation-barriers.md) — related
+- [Student confidence in Python coding skills was lower and more variable than confidence in other course skills](online-cure-python-confidence-mixed.md) — related

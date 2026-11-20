@@ -70,3 +70,4 @@ Replication with a different sample of 23 students in January 2013. PBC analysis
 - The three statistical techniques produce consistent diagnoses of constraint quality across two experiments — a broader claim this one bears on
 - [Point-biserial item-total correlation is negatively related to test discriminating value and can be expressed via item and test difficulty and discrimination parameters](point-biserial-negative-test-discrimination-relation.md) — related
 - [Point biserial coefficient exceeds the 0.2 criterion for 32 of the 33 STPFaSL items](stpfasl-point-biserial-32-of-33-items.md) — related
+- [Point biserial coefficients exceed the 0.2 criterion for 71 of 78 items in-person, with the below-threshold entropy items showing advanced students performing comparably to introductory students](stpfasllong-pbc-entropy-items-below-threshold.md) — related

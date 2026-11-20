@@ -49,3 +49,4 @@ One-way ANOVAs comparing the three experimental groups at pretest and posttest o
 - [The three groups were equivalent on EPT pre-test scores before the intervention](equivalent-pretest-scores-three-electricity-groups.md) — related
 - [A one-way ANOVA found no significant difference in writing proficiency among the five pre-test groups](pretest-anova-five-groups-no-difference.md) — related
 - [Before implementation, the experimental and control groups showed no statistically significant difference in academic achievement pre-test scores](absl-social-studies-pretest-equivalence.md) — related
+- [Before the intervention the three groups did not differ significantly in prior pronunciation knowledge](pretest-no-significant-group-differences.md) — possibly the same claim (merge candidate)

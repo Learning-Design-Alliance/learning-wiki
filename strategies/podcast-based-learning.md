@@ -67,6 +67,7 @@ Audio-only delivery imposes distinct cognitive demands: without visual support, 
 - [Deliver video podcasts via shared URLs for supervised self-paced learning](shared-url-video-podcast-delivery.md)
 - [Use podcasts on mobile phones for extensive out-of-class listening practice](podcast-mobile-extensive-listening-strategy.md)
 - [Design multi-sensory shows with slow-paced, highly descriptive narration, advance warning of what comes next, and a calm low sensory load](slow-descriptive-narration-calm-multisensory-design.md)
+- [Support blind students' real-time code learning with flipped-classroom pacing, differentiated audio streams, and pre-course technical onboarding](flipped-onboarding-differentiated-audio-strategy.md)
 
 ## Examples
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** — short curriculum-aligned audio segments embedded in structured lessons.

@@ -54,3 +54,4 @@ Psychometric analysis of scores from 104 trained raters (102 scoring the negativ
 - [Assessment reliability was high: intra-rater ICCs of 0.98 and 0.79 and inter-rater ICCs of 0.92 and 0.73](osats-assessor-reliability-iccs.md) — related
 - [Peer and instructor assessment of high-fidelity-simulation-based clinical performance show high inter-rater reliability (ICC 0.685)](peer-instructor-icc-0685-simulation-assessment.md) — related
 - [A brief training video increases inter-rater reliability of grant reviewers' scale selections for both novice and experienced reviewers](training-video-increases-inter-rater-reliability.md) — related
+- [The five markers were inconsistent in their grading, with ICC values near zero and a significant ANOVA](marker-grading-inconsistency-icc-near-zero.md) — related

@@ -51,3 +51,4 @@ Discussion-section interpretation of interview data. The authors suggest frustra
 - [Generalizable detectors of students' affective states in DLPs remain an unsolved problem](no-generalizable-affective-detectors.md) — related
 - [Negative emotions are perceived to have either positive or negative impacts on learning, with faculty more likely than students to recognize their functional benefits](negative-emotions-dual-impact-faculty-see-benefits.md) — a broader claim this one bears on
 - [Teachers link low motivation and buy-in to middle-school developmental constraints, peer norms, and prior negative experiences with math or i-Ready](motivation-buy-in-theme-persistence.md) — related
+- [The review reports that ChatGPT's lack of emotional intelligence may leave students frustrated or feeling alienated when their problems are not properly handled](chatgpt-lacks-emotional-intelligence-alienation.md) — related

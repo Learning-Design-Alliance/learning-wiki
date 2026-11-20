@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 289 claims (219 show a difference, 50 mixed, 20 no difference) · 216 studies (117 associational, 40 causal, 30 review, 12 theoretical, 8 design, 7 qualitative, 2 quant-synthesis), `q1`–`q4` · 11 of 216 report an effect size · 287 claims rest on one study
+> **Evidence** · 291 claims (221 show a difference, 50 mixed, 20 no difference) · 218 studies (119 associational, 40 causal, 30 review, 12 theoretical, 8 design, 7 qualitative, 2 quant-synthesis), `q1`–`q4` · 11 of 218 report an effect size · 289 claims rest on one study
 
 ## How to read this page
 
@@ -326,6 +326,8 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Pilot findings on SPORT-C's motivational impact are preliminary and not generalizable, and the racial-identity comparison is inconclusive](../claims/sport-c-findings-preliminary-racial-identity-inconclusive.md) [~M] — an instructional effect differs by group
 - [Racial demographics other than Indigenous identity show no significant effect on the gender gap in physics continuation, including the proportion of Black residents](../claims/racial-demographics-null-gender-gap-effect.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The counternarrative study reported modest treatment-control differences in survey intent, with Cohen d values of 0.23, 0.13, 0.17 and 0.20 across female, non-female, minority and non-minority subgroups](../claims/counternarrative-effect-sizes-subgroups.md) [+W] — an instructional effect differs by group
+- [Across all three disciplines, the largest educational debts after instruction were consistently owed to Black and Hispanic women and first-generation Black men](../claims/largest-debts-owed-to-black-hispanic-women-first-gen-black-men.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Black and Indigenous people are severely underrepresented among Canadian physics students and professionals](../claims/black-indigenous-physicists-severely-underrepresented-canada.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

@@ -95,3 +95,5 @@ Exploratory K-means clustering among students only (n = 961, nine features, fixe
 - [Latent representations cluster into interpretable behavior types at question level, with less distinguishable task-switching clusters at student level](process-bert-representations-cluster-behavior-types.md) — related
 - [K-means clustering of self-reported resource usage identifies four student classes, from peer-and-helproom users to students using all resources including AI everywhere](four-resource-usage-clusters-physics.md) — related
 - [Self-rated trust in LLM responses declined significantly from pre-test to post-test after learners completed a problem-solving task with the LLM, in one group with no comparison group](trust-in-llm-declines-after-task.md) — related
+- [Four distinct usage patterns emerged, with conversation-focused users who did not request help showing the highest learning gains](four-usage-patterns-conversation-focused-highest-gains.md) — related
+- [Latent class analysis identifies seven qualitatively different answer patterns, and most students change class between pretest and posttest](lca-seven-classes-class-shifts.md) — related

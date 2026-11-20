@@ -54,3 +54,4 @@ Reported in the Discussion section, these are benchmark correlations of the auth
 - [Out-of-the-box LLMs agree with human essay grades far less than human raters agree with each other](llm-essay-scoring-weak-human-agreement.md) — related
 - [Corpus disambiguation can assign inaccurate word senses, which frequency statistics partly mitigate](corpus-disambiguation-inaccuracies.md) — related
 - [A small survey of users judged the system's semantic and Bloom similarity results useful for deciding between real learning objectives](lo-similarity-user-survey-usefulness.md) — related
+- [BERT-based topic matching paired learning outcomes in agreement with the curriculum framework's existing standard groupings for 95% of them (7,072 of 7,431).](bert-matching-95-percent-standard-agreement.md) — related

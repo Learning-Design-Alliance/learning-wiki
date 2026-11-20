@@ -48,3 +48,4 @@ Post-hoc two-tailed comparisons with Holm adjustment in the boot camp evaluation
 - [Boot Camp Across Module Knowledge Gain](boot-camp-across-module-knowledge-gain.md)
 - [The oral hygiene screening module showed a large pre-to-post knowledge gain (Cohen's d = 1.37)](oral-hygiene-screening-module-knowledge-gain.md) — related
 - [Exploratory pre-post questionnaire comparisons showed descriptively higher post-program means but no statistically significant differences after Holm adjustment](exploratory-pre-post-null-holm-adjusted.md) — related
+- [Entrants in the follow-on hybrid computing challenge consistently demonstrate significant performance gains via parallelization](wac-hybrid-challenge-performance-gains.md) — related

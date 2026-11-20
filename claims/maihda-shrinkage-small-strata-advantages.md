@@ -53,3 +53,7 @@ Methodological exposition of the shrinkage factor applied to strata-level residu
 - A systematic review identified 21 publications applying intersectional MAIHDA analysis, primarily in the health sciences — related
 - [The variance partition coefficient from the simple intersectional model quantifies how useful intersectional strata are for predicting educational outcomes](vpc-measures-strata-discriminatory-accuracy.md) — related
 - [Intersectional strata explain around 30% (age 11) and 25% (age 16) of the overall variance in London students' achievement](intersectional-strata-vpc-achievement-london.md) — related
+- [MAIHDA maintains prediction accuracy at smaller strata sample sizes than fixed effects models](maihda-accurate-smaller-strata-samples.md) — related
+- [The MAIHDA accuracy advantage over fixed effects is largest for the smallest strata, such as FG Black women](maihda-advantage-largest-small-strata.md) — related
+- [MAIHDA models produce more accurate predicted strata outcomes than fixed effects models across total sample sizes, with the advantage shrinking as total sample size grows](maihda-more-accurate-than-fixed-effects-strata.md) — related
+- [MAIHDA shows a small consistent negative bias in mean true error for strata sample sizes below ten individuals](maihda-negative-bias-tiny-strata.md) — a narrower finding that bears on this claim

@@ -24,7 +24,7 @@ sources:
 # Transfer of Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 41 claims (27 for, 13 mixed, 1 against) · 44 studies (20 causal, 9 review, 5 quant-synthesis, 5 theoretical, 3 qualitative, 1 associational, 1 design), `q1`–`q4` · 9 of 44 report an effect size · 37 claims rest on one study
+> **Evidence** · 42 claims (28 for, 13 mixed, 1 against) · 45 studies (20 causal, 9 review, 5 quant-synthesis, 5 theoretical, 3 qualitative, 2 associational, 1 design), `q1`–`q4` · 9 of 45 report an effect size · 38 claims rest on one study
 
 ## Conditional relationship
 
@@ -130,6 +130,7 @@ Claims bearing on transfer that the wiki holds and this model does not use. None
 - [Novice medical students with prior laparoscopic simulation skills perform significantly better on a robotic simulation peg transfer test than students without laparoscopic training](../claims/laparoscopic-to-robotic-skill-transference-novices.md) [+W] — attached 2026-11-08 from Kanitra John J. et al. (2021), which proposed "Laparoscopic simulation training during general surgery residency may be sufficient preparation for robotic surgery skills used post-residency"; tests this page's relationship.
 - [After working through the tutorial, all eight interviewed students drew correct free body diagrams and Newton's second law equations for a near-transfer three-box problem](../claims/post-tutorial-near-far-transfer-success.md) [+W] — attached 2026-11-17 from Chandralekha Singh (2016), which proposed "Five-stage problem solving structure with paired transfer problems"; tests this page's relationship.
 - [Many students fail to spontaneously activate boundary conditions when not explicitly prompted, especially outside the wave context](../claims/students-fail-to-activate-bcs-without-explicit-prompt.md) [+W] — attached 2026-11-17 from Ryan et al. (2017), which proposed "Vary boundary-condition problem contexts and require explicit reflection practice to address student difficulties".
+- [Unique learning opportunities produce significantly better knowledge generalization to unseen items than repeated questions](../claims/unique-questions-better-generalization-than-repeated.md) [+W] — attached 2026-11-20 from Beyond Repetition: The Role of Varied Questioning and Feedback in Knowledge Generalization, which proposed "Prioritize varied, unique practice questions over repeating identical questions to support knowledge generalization"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -59,8 +59,10 @@ The medium is not neutral: richer media increase perceived instructor presence a
 6. Provide captions or transcripts to maintain accessibility
 
 ## Related Strategies
+
 - [Action-Oriented Feedback](action-oriented-feedback.md) — the content standard any feedback medium should meet
 - [Check-Ins](../principles/check-ins.md) — brief media-rich touchpoints that sustain instructor presence between major feedback episodes
+- [Revise the online LT with step-based tutoring, richer feedback, standardized pre-lecture, and reduced plotting redundancy](pfolt-revision-strategy-its-feedback-prerecorded-lecture.md)
 
 ## Examples
 - **Screencast feedback in writing courses**: instructors at many universities use tools such as [Turnitin Feedback Studio](https://www.turnitin.com) or [ScreenPal](https://screenpal.com) to record narrated, annotated walkthroughs of student essays, pointing at specific sentences while explaining revisions.

@@ -53,6 +53,7 @@ The authors' forward-looking recommendation for university educators: because wo
 - [Promoting Belonging Through Cues and Representations](promoting_belonging_through_cues_and_representations.md)
 - [Recruit female instructors and explicitly request female nominations to improve gender balance in outreach](female-instructors-role-models-outreach-gender-balance.md)
 - [Target perceived recognition, not received recognition, when designing interventions to close gender gaps in perceived peer recognition](target-perceived-recognition-interventions.md)
+- [Gather undergraduate women's own suggestions, separated into personal advice for peers and suggestions for physics instructors](women-suggestions-peers-and-instructors-strategy.md)
 
 ## Examples
 -

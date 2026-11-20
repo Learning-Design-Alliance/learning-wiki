@@ -51,3 +51,4 @@ Self-reported approximate study hours collected after the seven weeks of teachin
 - [Flipped classroom students spent more time preparing before class but less time reviewing after class than lecture students](flipped-classroom-shifts-study-time-pre-post.md) — reports the opposite
 - [Students in the combined flipped classroom + PBL group spent significantly more preparation time than lecture-based students (172 ± 33 min vs 108 ± 15 min)](flipped-pbl-increases-preparation-time-burden.md) — related
 - [Self-reported exam preparation time did not differ between groups and did not positively correlate with examination scores](prep-time-null-correlation.md) — related
+- [AVT learners were more motivated to prepare and found the experience more enjoyable than learners who did a practice exam](avt-motivating-and-enjoyable.md) — reports the opposite

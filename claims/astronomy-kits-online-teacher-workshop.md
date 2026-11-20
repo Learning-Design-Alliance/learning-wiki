@@ -46,3 +46,4 @@ Practice report of a US Consulate Hyderabad-funded hands-on astronomy workshop m
 
 ## Related Claims
 - [A six-day online astronomy class with quiz-based certification attracted 475 registrations during Covid times](six-day-online-astronomy-class-475-registrations.md) — related
+- [Moving online expanded Python4Physics reach to 100-300 students per year from 30-70 countries](p4p-online-reach-expansion.md) — related

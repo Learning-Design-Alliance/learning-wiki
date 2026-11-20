@@ -75,3 +75,4 @@ A 2x2 mixed ANOVA on educational psychology interest (η2 = 0.084 time effect) s
 - [For effective self-regulators, mastery goals have a large positive and performance-avoidance goals a small negative effect on metacognition](mastery-goals-large-positive-avoidance-negative-metacognition.md) — related
 - [Self-directed learning scores increase significantly across the three measurements over the semester](self-directed-learning-increases-across-three-measurements.md) — related
 - [The interest-based studying intervention significantly reduced students' mastery-approach goals from pre-test to post-test](ibs-intervention-reduced-mastery-goals.md) — related
+- [Self-rated agreement with CodeTutor's comprehension declined significantly over the semester, with a weakly significant decline in preference for it as a TA replacement, in a single-group pre-post study with no comparison group](codetutor-attitudes-decline-over-time.md) — related

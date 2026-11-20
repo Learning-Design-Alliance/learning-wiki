@@ -51,3 +51,4 @@ Interview question Q2 on a water glass moving uniformly in the stationary frame 
 - [Introductory students treat the frictional force as governed by a special formula (e.g., equal to μsN), applying it even when they have correctly derived the equilibrium value.](friction-special-formula-belief.md) — related
 - [A coherence/expectations framework explains the analogy failure: students who do not value consistency in physics resort to memorized formulas and disregard the paired problem.](coherence-expectations-analogy-failure.md) — related
 - [Freshman students find rotating-system problems analyzed from an inertial frame without fictitious forces difficult, for four identifiable reasons](inertial-frame-rotation-problems-student-difficulty.md) — related
+- [Exposure to an explainer video containing misconceptions increases students' misconceptions without raising perceived understanding](misconception-video-increases-misconceptions.md) — related

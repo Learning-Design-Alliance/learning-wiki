@@ -58,3 +58,4 @@ Lexical comparison of female- versus male-prompted feedback for the same essays 
 - [Gender related to students' emotions but showed no significant effects on math grades, while intelligence and SES related positively to grades](covariates-gender-intelligence-ses-effects.md) — related
 - [Male students used discourse strategies to assert authority while female students used linguistic and paralinguistic strategies to challenge and assert themselves](gender-discourse-strategies-eap-reading-classroom.md) — related
 - [Automated LLM feedback may reduce instructor unconscious bias by evaluating responses equally without identification](llm-feedback-reduce-instructor-unconscious-bias.md) — reports the opposite
+- [The LLM-generated style feedback showed no differential feedback by gender in sentiment analysis and manual checks, and no inappropriate or demographically biased content was found](llm-style-feedback-no-gender-bias.md) — reports the opposite

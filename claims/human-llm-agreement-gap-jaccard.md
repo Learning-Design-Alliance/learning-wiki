@@ -113,3 +113,4 @@ Same agreement analysis at the model level. LLM-LLM Jaccard ranged from 0.37 to 
 - [GPT-4-Turbo as an LLM Judge reliably selects better scaffolds and mitigates hallucination errors, while weaker LLM Judges do not](gpt4-turbo-judge-mitigates-hallucinations-weaker-judges-do-not.md) — related
 - [LLM-generated feedback quality ratings are similar to human ratings, whereas LLM authenticity ratings are higher and presumably inaccurate](llm-zero-shot-rater-feedback-similar-authenticity-inflated.md) — related
 - [LLM scores are more consistent across trials than human scores, with GPT-4 using explanations showing the greatest confidence](llm-trial-consistency-exceeds-human-consistency.md) — related
+- [Expert evaluators assessed Tutorly's prompt-pipeline controllability by annotating 277 dialogue messages against a hierarchical intent label scheme across three video topics](tutorly-controllability-277-messages.md) — related

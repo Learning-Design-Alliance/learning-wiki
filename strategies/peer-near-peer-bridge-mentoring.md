@@ -53,4 +53,4 @@ The article recommends opportunities for peer and near-peer mentorship, in which
 -
 
 ## Key Sources
-- Cann, J. M., Martinez, A. O., Barnes, A., Doan, S., Ilesanmi, F., Lazzarini, M., Monsue, T., Pinedo, C., Cabrera Salazar, N., & Steele, A. (2023). Early Career Perspectives: For the NASA SMD Bridge Program Leads. NASA SMD Bridge Program Workshop white paper. https://arxiv.org/abs/2310.15287
+- Cann, J. M., Martinez, A. O., Barnes, A., Doan, S., Ilesanmi, F., Lazzarini, M., Monsue, T., Pinedo, C., Cabrera Salazar, N., & Steele, A. (2023). Early Career Perspectives: For the NASA SMD Bridge Program Leads. NASA SMD Bridge Program Workshop white paper. https://arxiv.org/abs/2310.15287. [doi:10.48550/arxiv.2310.15287](https://doi.org/10.48550/arxiv.2310.15287)

@@ -47,3 +47,4 @@ Observation from the parallel experimentation with about 25 teachers from school
 ## Related Claims
 - [Teachers trained in the RSA activity built the DIY structure in their own schools before the eBook was published](teachers-built-diy-structures-after-course.md) — related
 - [Teachers exposed to a professional development workshop overwhelmingly supported early teaching of Einsteinian physics (94%), with most (88%) requesting extra training](pdw-teachers-support-with-training-need.md) — related
+- [Teachers in the study saw value in ATB, citing time savings and quick agent training, and expressed willingness to integrate it into their classrooms.](atb-teachers-see-value-willing-to-adopt.md) — related

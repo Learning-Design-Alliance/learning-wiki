@@ -50,3 +50,4 @@ Structured questionnaire answered by 94 students (48 control, 46 TA) on self-stu
 - [Students in the combined flipped classroom + PBL group spent significantly more preparation time than lecture-based students (172 ± 33 min vs 108 ± 15 min)](flipped-pbl-increases-preparation-time-burden.md) — reports the opposite
 - [Time spent using the app versus course notes did not differ significantly between groups](app-versus-notes-usage-time-null.md) — related
 - [FC-TCLEBL students spent more time preparing before class but less time reviewing after class than LBC students, with no difference in total time](fc-tclebl-preparation-review-time-tradeoff.md) — reports the opposite
+- [AVT learners were more motivated to prepare and found the experience more enjoyable than learners who did a practice exam](avt-motivating-and-enjoyable.md) — reports the opposite

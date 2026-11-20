@@ -48,3 +48,4 @@ The review describes the First European Psychiatric Association MOOC on CBT, a m
 - [Viewing of the personalized AI videos declined sharply across the quarter, with views of the first week-9 video set suggesting fewer than 10% of the course population was watching voluntarily by the end of the course](video-views-declined-across-quarter.md) — related
 - [Videoconference-based learning was the most widely implemented online method in psychiatric trainee education](videoconference-most-implemented-psychiatric-education.md) — related
 - [The Quantum Mechanics for Everyone MOOC enrolled over 14,000 learners and over 145 students completed the final within five months of a 24-month run](qme-mooc-14000-learners-enrollment.md) — related
+- [38% of course learners successfully completed their quantum MOOC, and over 80% of exam participants passed the final exam.](openhpi-quantum-mooc-completion-and-exam-pass-rates.md) — related

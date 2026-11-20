@@ -66,3 +66,4 @@ Descriptive usability assessment using the System Usability Scale administered t
 - [Pilot participants rated the CAI highly usable and effective for nutritional assessment learning](cai-pilot-high-usability-effectiveness-ratings.md) — related
 - [The mobile game prototype received a high subjective usability score on the System Usability Scale](mobile-game-high-sus-usability-score.md) — related
 - [Students reported overall high satisfaction with the application (2.84, S.D. 0.13), with enjoyment rated highest](place-value-app-student-satisfaction-high.md) — related
+- [Metabook enables novice users to create 3D books with high usability, and usability and time satisfaction are uncorrelated with education level and waiting time](metabook-high-usability-novice-creation.md) — related

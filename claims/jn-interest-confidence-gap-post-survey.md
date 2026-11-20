@@ -46,3 +46,5 @@ Post-survey responses (figure 5, five key questions). The authors note a discrep
 
 ## Related Claims
 - [Most student groups voluntarily adopted Python and Jupyter Notebooks for data analysis in their first-semester lab experiments, rising from 83% to 100%](python-jn-group-adoption-first-semester.md) — related
+- [Students in a first-semester physics lab course reached near-mastery of introductory Python data-analysis skills in the Implement category during the introductory Jupyter Notebook sessions](jn-intro-sessions-high-implement-scores.md) — related
+- [Student confidence in Python coding skills was lower and more variable than confidence in other course skills](online-cure-python-confidence-mixed.md) — related

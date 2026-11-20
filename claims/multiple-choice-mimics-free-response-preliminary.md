@@ -48,3 +48,4 @@ The article reports, citing preliminary results from prior work, that multiple c
 - [Free-response answers in course A could be matched to the a priori multiple-choice choices for 84% (Question 1) and 88% (Question 2) of students](fr-answers-match-apriori-mc-choices.md) — a narrower finding that bears on this claim
 - [A relatively high percentage of correct-choice-incorrect-explanation (CI) answers appeared across many problems, revealing false positives invisible to answer-only scoring](high-percentage-ci-answers-free-response.md) — related
 - [LLMs' generation probabilities for multiple-choice distractors correlate moderately with how often students choose them](llm-distractor-likelihood-moderately-tracks-student-choices.md) — related
+- [Multiple-choice tests are intrinsically limited: unreflective distractors can be ignored and choosing the correct answer does not guarantee understanding.](multiple-choice-intrinsic-limits.md) — reports the opposite

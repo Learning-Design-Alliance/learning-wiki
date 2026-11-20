@@ -68,3 +68,5 @@ Descriptive log statistics from the same study: "participants submitted 1.33 ± 
 - [Ruffle&Riley produced a significantly more coherent conversation than the LLM QA chatbot and more enjoyment than both QA chatbots](rr-coherence-enjoyment-advantage.md) — related
 - [Ruffle&Riley rated significantly more helpful than QA chatbots for understanding, remembering and support](rr-rated-more-helpful-than-qa-chatbots.md) — related
 - [Natural language teaching takes significantly longer per input and yields significantly fewer teaching attempts and fewer features taught than sentence-selection](nl-teaching-slower-fewer-attempts.md) — related
+- [Conversation-log analysis found the system hosted coherent EMT-based dialogues but was lenient toward partial explanations and sometimes repeated requests](conversation-analysis-coherent-but-lenient.md) — related
+- [In Evaluation 2, Ruffle&Riley showed no significant learning gains over reading despite requiring much more learning time](rr-eval2-no-gain-advantage-over-reading.md) — related

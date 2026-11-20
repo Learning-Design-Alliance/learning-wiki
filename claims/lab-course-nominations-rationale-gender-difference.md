@@ -52,3 +52,4 @@ Thematic coding analysis of explanations for nominations of strong peers, with a
 - [Students' reported interaction topics closely align with course structure: small-group work dominates lab talk while homework dominates lecture talk](interaction-topics-align-with-course-structure.md) — related
 - [In-class outspokenness is the most prominent reason students give for recognizing strong physics peers, cited in about 40% of explanations in each semester](outspokenness-most-prominent-recognition-reason.md) — related
 - [On aggregate, men report significantly higher perceived peer recognition than women in both lab and lecture contexts, with small effect sizes](aggregate-gender-gap-perceived-recognition-small-effect.md) — related
+- [Reported effect sizes for gender differences in first-year lab outcomes disagree across studies](effect-sizes-gender-lab-disagree.md) — related

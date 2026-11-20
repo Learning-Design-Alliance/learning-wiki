@@ -53,3 +53,8 @@ Case-study interview evidence: Paulette's counterfactual about peer partnership 
 - [In one woman's interview account, recognition from a peer teaching assistant and from the students she later taught as a peer teacher improved her sense of belonging and self-efficacy in physics-adjacent courses](recognition-boosts-belonging-self-efficacy-women-physics.md) — related
 - [Mentees' sense of belonging grew out of community and social interactions and from scientific contribution](belonging-from-interaction-and-contribution.md) — related
 - [Case account: absence of mentor praise and encouragement preceded a high-achieving woman physics graduate leaving physics for another field](pollock-lack-of-recognition-case.md) — related
+- [Faculty mentorship that encourages women to take challenging courses builds their sense of competence and recognition as physics people](faculty-mentorship-challenging-courses-competence-recognition.md) — related
+- [Family support through academic help and early exposure to science shaped the women's pathways to majoring in physics](family-support-pathway-physics-major.md) — related
+- [Introducing peer mentors during career transition periods increases belonging, self-efficacy, and long-term retention](peer-mentors-transition-retention.md) — related
+- [Peer mentorship helps women in physics engage with their physics community and fosters a sense of belonging](peer-mentorship-belonging-physics-community.md) — related
+- [Students left to work alone in pair-designed labs had negative experiences, particularly underrepresented students](solo-students-negative-experiences.md) — related

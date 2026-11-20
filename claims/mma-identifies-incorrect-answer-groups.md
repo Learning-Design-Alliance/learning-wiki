@@ -56,3 +56,4 @@ Bootstrapped correlation-matrix community detection applied to incorrect FCI res
 - [MMA-P recovers incorrect communities similar to MMA while also identifying correct and mixed communities](mma-p-recovers-incorrect-communities-similar-to-mma.md) — related
 - [All 30 FCI taxonomy misconceptions appear as dominant incorrect answers, with 17 present in Phys. 1 and 15 in Phys. 2 and Phys. 3](all-fci-misconceptions-present-dominant-answers.md) — related
 - [Impetus misconceptions are the most dominant incorrect answers, with impetus-supplied-by-hit (I1) chosen by more than 70% of students answering incorrectly across attempts](impetus-misconceptions-most-dominant-fci.md) — related
+- [Latent class analysis identifies seven qualitatively different answer patterns, and most students change class between pretest and posttest](lca-seven-classes-class-shifts.md) — related

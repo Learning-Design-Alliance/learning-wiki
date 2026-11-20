@@ -58,6 +58,7 @@ The program pairs an online handout with slides and a 10-minute video covering i
 - [Use brief five-minute mini-simulation videos with small-group empathy mapping to reduce large-group simulation anxiety](mini-simulation-small-group-empathy-mapping-strategy.md)
 - [Outcome-based simulation seminar combining a 20-minute anatomy lecture, expert demonstration, and 60 minutes of hands-on practice in equipped booths](outcome-based-cvc-simulation-seminar-structure.md)
 - [Deliver ultrasound-guided aspiration training as a 15-minute orientation video followed by a 20-minute one-on-one workshop and a 5-minute independent skills test](video-workshop-skills-test-sequence-strategy.md)
+- [Write laboratory tutorials as detailed step-by-step instructions students follow independently without continual instructor guidance](step-by-step-self-guided-lab-tutorials.md)
 
 ## Examples
 -

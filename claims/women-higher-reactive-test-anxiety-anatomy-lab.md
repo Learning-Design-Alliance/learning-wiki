@@ -48,3 +48,4 @@ A covariate analysis from the mixed-effects models in the randomized crossover s
 - [Men reported higher monitoring judgments on health math problems than women, even accounting for performance accuracy](gender-difference-monitoring-judgments-health-math.md) — related
 - [Men report higher computer self-efficacy, domain identification, knowledge, and motivation than women](gender-gaps-computer-self-efficacy-knowledge-motivation.md) — related
 - [Men show significantly lower autonomous regulation than women among adult learners](gender-difference-autonomous-regulation-adults.md) — related
+- [Tool usage was similar for men and women and consistent across prior experience levels, but rose with age and was lower among non-binary students](style-feedback-demographic-usage-patterns.md) — related

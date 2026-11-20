@@ -50,3 +50,4 @@ Multiple regression analyses in Experiment 2 using study time and percentage of 
 - [Answers to elaborative interrogation questions were mostly poor in quality, and answer quality correlated positively with posttest scores](elaborative-interrogation-answer-quality-poor-correlates-with-posttest.md) — related
 - [Questioning-with-training produced higher posttest scores than read-reread study (Experiment 2)](questioning-with-training-beats-rereading.md) — related
 - [Reading comprehension measured with open questions uniquely predicts integration while cloze-measured comprehension does not](open-questions-comprehension-unique-predictor-integration.md) — related
+- [Higher performance on embedded comprehension questions predicted higher posttest scores on the Hurricane! Concept Knowledge Task](embedded-questions-predict-hurricane-posttest.md) — related

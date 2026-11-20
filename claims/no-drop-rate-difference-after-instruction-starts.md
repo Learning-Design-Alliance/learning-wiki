@@ -56,3 +56,4 @@ Secondary analysis regrouping the two-year drop data: online drops before course
 - Course modality moderated student experience: instructor responsiveness was more prevalent in face-to-face classes and online students reported more frustration — related
 - [Disappearing students complicated maintaining constructivist groups in the online course](disappearing-students-online-group-work.md) — related
 - [The redesigned course showed a non-significant 8.55% improvement in retention (drop/fail/withdraw) compared with the existing course.](pbl-altrg-redesign-retention-nonsignificant.md) — related
+- [A week after a TeachNow session, almost 30% more control-group students had dropped out compared to helped students](teachnow-session-reduces-dropout.md) — related

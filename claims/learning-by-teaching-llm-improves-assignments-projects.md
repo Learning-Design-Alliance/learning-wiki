@@ -75,3 +75,4 @@ Same quasi-experimental cohort comparison, exam measure. The article reports the
 - [Prompt-literacy guidance was associated with higher transcript-coded rule-following compliance than unrestricted LLM access, mainly in process-over-answer and stepwise-hint behaviors](guided-llm-training-raises-rule-following-compliance.md) — related
 - [AI-assisted software engineering courses assess primarily through participation, project work, and coding assignments rather than exams](ai-se-assessment-project-based-not-exams.md) — related
 - [Students used GAI in coursework but struggled to correct LLM-generated code during exams](students-struggle-correcting-llm-generated-code-exams.md) — related
+- [LLM-guided self-reflection after an assignment did not significantly improve exam scores two weeks later compared to no reflection (Study 1)](llm-reflection-exam-no-significant-gain-study1.md) — related

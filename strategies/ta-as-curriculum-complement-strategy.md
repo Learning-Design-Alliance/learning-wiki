@@ -44,6 +44,7 @@ The article recommends deploying TAs as an augmentation of district-adopted curr
 
 - [Integrate GAI-based teaching into medical curricula with robust curricular integration, technological support, and systematic training for educators and students](gai-curricular-integration-training-strategy.md)
 - [Use computerized fact-fluency training to complement, not substitute, classroom teaching](computerized-fluency-training-complements-classroom-teaching.md)
+- [Integrate data science as a tool that enhances the existing physics curriculum rather than replacing it](data-science-as-enhancing-tool-not-replacement.md)
 
 ## Examples
 -

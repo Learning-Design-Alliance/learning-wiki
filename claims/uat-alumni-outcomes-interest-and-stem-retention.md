@@ -69,3 +69,4 @@ Post-graduation pathway tracking of UAT alumni reported in the outcomes section,
 - [Post-program surveys show most students felt more likely to pursue STEM, more comfortable in university labs, and found the program appropriately challenging](discovery-survey-attitudes-comfort-pursuit.md) — related
 - [SSUK alumni are well represented in STEM and space careers, and 75% of alumni in STEM said SSUK encouraged them to do outreach](ssuk-alumni-stem-space-careers-outreach.md) — related
 - [Participation in informal science education activities is correlated with increased science interest, science identity development, and career intentions](isea-participation-science-identity-career-intentions.md) — a broader claim this one bears on
+- [Annual student feedback reports at least 70% felt more confident and enthusiastic about pursuing a STEM career](p4p-70-percent-confidence-enthusiasm.md) — related

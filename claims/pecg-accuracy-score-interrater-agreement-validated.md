@@ -53,3 +53,4 @@ Validation analysis of the Accuracy score using extended Bland–Altman plots, P
 - [In Study 2, inter-rater agreement for rating creative problem solving ideas was good to excellent across indicators](cps-idea-ratings-good-excellent-interrater-agreement.md) — related
 - [Inter-assessor agreement on OSCE scores is substantial, with a pooled intraclass correlation coefficient of 0.77](pt-osce-icc-assessors-substantial.md) — a broader claim this one bears on
 - [Pediatric cardiology trainees' ECG interpretations in pECGreview were generally correct in only 66.1% of responses, with a mean Accuracy score of 76.6 ± 13.7%](pecgreview-cohort-mean-accuracy-76-6-percent.md) — related
+- [The five markers were inconsistent in their grading, with ICC values near zero and a significant ANOVA](marker-grading-inconsistency-icc-near-zero.md) — related

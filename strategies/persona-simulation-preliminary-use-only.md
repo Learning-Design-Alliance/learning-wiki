@@ -48,6 +48,7 @@ The article's responsible-use recommendation is to deploy LLM-based student simu
 - [Evaluate LLM-based tutors with human-inspired methods such as simulated students and behavior analysis before classroom deployment](human-inspired-evaluation-of-llm-tutors.md)
 - [Use simulated student profiles (expected path, struggling learner, off-topic input) as test scenarios for AI tutor QA](simulated-student-profile-test-scenarios.md)
 - [Use simulated students to test and compare adaptive-system strategies before engaging human students](simulated-students-pre-deployment-testing.md)
+- [Use LM evaluators as coarse, preliminary evaluators to speed up educational content design, not as replacements for human evaluators or empirical studies](lm-as-coarse-evaluator-augmentor.md)
 
 ## Examples
 -

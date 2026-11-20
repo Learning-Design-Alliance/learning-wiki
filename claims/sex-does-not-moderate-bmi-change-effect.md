@@ -58,3 +58,4 @@ Moderation analysis adding sex interactions to the regression model in the 2-yea
 - [Gender, BMI, and sleep habits are not significantly associated with academic motivation in rehabilitation students](gender-bmi-sleep-not-associated-sdi.md) — related
 - [Lower BMI, higher healthy diet score, and better sleep quality are associated with high language performance in girls but not boys](bmi-diet-sleep-quality-girls-language-performance.md) — related
 - [Sex, BMI and urbanization correlate with fitness patterns and with exam scores, justifying their use as ANCOVA covariates](demographics-correlate-fitness-patterns-and-exam-scores.md) — related
+- [Gender does not significantly moderate the relationship between self-management and academic achievement](gender-no-moderation-self-management-achievement.md) — related

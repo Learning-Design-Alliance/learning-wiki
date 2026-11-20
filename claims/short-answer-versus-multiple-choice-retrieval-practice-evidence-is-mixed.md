@@ -159,3 +159,4 @@ The chapter reports laboratory experiments by Smith and Karpicke (2014), includi
 - [The number of quiz questions (five vs. ten) does not moderate the improvement in exam performance](quiz-question-number-does-not-moderate-testing-effect.md) — related
 - [No interaction between practice and final test question format: matching formats does not enhance the retrieval effect, challenging transfer-appropriate processing](no-format-interaction-challenges-tap.md) — related
 - [Practice question format (VSAQ vs MCQ) shows no significant main effect on final retention test performance in a real-life health science course](no-practice-format-effect-on-retention-vsaq-mcq.md) — related
+- [In the 2021 in-person implementation, gains were polarized by question format: open-ended questions showed effect sizes of 1.5-2.0 while multiple-choice questions showed 0.30-0.80](inperson-gains-polarized-open-ended-vs-multiple-choice.md) — related

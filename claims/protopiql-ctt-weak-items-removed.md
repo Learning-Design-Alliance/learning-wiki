@@ -50,3 +50,4 @@ CTT difficulty and discrimination distributions for each PIQL version (Fig. 1) i
 - [After removing poorly performing questions, physical specimens showed higher point biserial discriminatory capacity than VR, though both exceeded the accepted threshold](point-biserial-physical-higher-than-vr.md) — related
 - [CTT item selection dropped five low-discrimination items, retaining 20 items of moderate difficulty](glat-item-selection-discrimination.md) — related
 - [Point biserial coefficient exceeds the 0.2 criterion for 32 of the 33 STPFaSL items](stpfasl-point-biserial-32-of-33-items.md) — related
+- [Point biserial coefficients exceed the 0.2 criterion for 71 of 78 items in-person, with the below-threshold entropy items showing advanced students performing comparably to introductory students](stpfasllong-pbc-entropy-items-below-threshold.md) — related

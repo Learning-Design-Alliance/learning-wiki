@@ -82,3 +82,4 @@ Model comparison on a 20% scenario-held-out test set, with 3-fold cross-validati
 - [Model results are robust to varying training fraction and number of trees, but the highest-physics-degree factor is only marginally meaningful](hyperparameter-robustness-variable-importance.md) — related
 - [Random forest and support vector machine models also failed to beat chance when predicting laboratory performance, supporting the null result](rf-svm-also-fail-beat-chance-lab-performance.md) — related
 - [TF-IDF encoded text with a random forest classifier outperformed several strong baselines including LSTM, HAN, CNN and RCNN](tfidf-random-forest-beats-strong-baselines.md) — related
+- [ClickTree with the CatBoost classifier achieved higher validation AUC than Random Forest, Decision Tree and Logistic Regression on the same features.](catboost-outperformed-rf-dt-lr-validation-auc.md) — related

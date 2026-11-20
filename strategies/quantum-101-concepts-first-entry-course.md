@@ -52,6 +52,7 @@ The article recommends an introductory "Quantum 101" course with minimal math co
 - [Balance quantum-specific and general STEM content in new quantum programs, offer broad quantum courses for non-specialist roles, and engage business education](quantum-curriculum-recommendations-from-industry-survey.md)
 - [Schedule a yearly national junior-level undergraduate survey course to recruit students into AS&E and traineeship programs](junior-level-undergraduate-survey-course.md)
 - [Produce and maintain free, on-demand targeted MOOCs at the undergraduate level for AS&E education and recruiting](targeted-asande-moocs-strategy.md)
+- [Introduce mathematical and physical formalism only after intuitive understanding based on applications has been aroused.](applications-before-formalism-quantum-moocs.md)
 
 ## Examples
 -

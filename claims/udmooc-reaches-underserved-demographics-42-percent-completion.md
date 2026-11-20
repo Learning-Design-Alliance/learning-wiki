@@ -54,3 +54,4 @@ Descriptive demographic analysis of 27,265 active UDMOOC participants and 4894 D
 - [Healthcare MOOCs reach massive, multinational audiences but suffer very high dropout rates, several exceeding 90%](mooc-healthcare-massive-audience-high-dropout.md) — related
 - [YWYL MOOC students are predominantly male, young, educated in STEM, and from developed countries, with most reporting little programming experience](ywyl-mooc-student-background-demographics.md) — related
 - [Demographics alone provide very limited explanatory and predictive information about MOOC achievement](demographics-insufficient-mooc-achievement.md) — related
+- [The OpenHPI quantum MOOCs attracted a heterogeneous audience biased toward male IT professionals with university degrees, but also reached hundreds to thousands of participants outside that profile.](openhpi-quantum-mooc-audience-heterogeneous-it-biased.md) — related

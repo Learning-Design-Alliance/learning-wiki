@@ -51,3 +51,4 @@ Qualitative comparative case study reporting a summary table of ChatGPT-4 versus
 - [Bing Chat reached an incorrect conclusion in the ball-speed problem by assuming the time to reach half the maximum height is half the time to reach maximum height.](bing-chat-incorrect-half-height-assumption.md) — related
 - [ChatGPT-4's teddy bear answer was correct and detailed, addressing the common free-fall misconception and supporting critical thinking.](chatgpt4-correct-detailed-teddy-bear-answer.md) — related
 - [Bard gave an incorrect answer to the teddy bear acceleration problem, reproducing the misconception that acceleration is zero at the highest point of a trajectory.](bard-incorrect-zero-acceleration-highest-point.md) — related
+- [Students rate human teachers higher than ChatGPT on problem-solving proficiency and prefer dialogues with human teachers](students-prefer-human-teacher-dialogue.md) — related

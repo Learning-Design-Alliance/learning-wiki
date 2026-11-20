@@ -43,6 +43,7 @@ The article describes an instructional sequence in which targeted clicker questi
 
 - [Take Home_Practice_Sets](take-home_practice_sets.md)
 - [Design clicker questions as multiple choice, starting with simple factual review questions and ending with application problems](clicker-multiple-choice-question-design-sequence.md)
+- [Ask students to explain why wrong multiple-choice answers are wrong and why they chose their answer, then have an AI bot analyze the explanations](ai-analyzed-explanation-strategy.md)
 
 ## Examples
 -

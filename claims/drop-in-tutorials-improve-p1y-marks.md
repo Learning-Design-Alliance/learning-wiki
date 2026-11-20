@@ -66,3 +66,4 @@ Observational comparison in the 2007-08 class: only ~10% of the class attended t
 - [Tutoring center visits usually showed no significant difference in individual course performance, and sometimes tutored students performed worse](tutoring-visits-no-course-grade-advantage.md) — reports the opposite
 - [Avoiding tobacco, alcohol, and khat use during university is associated with better academic performance](substance-avoidance-associated-better-performance.md) — related
 - [Higher tutorial attendance was associated with higher numbers of honors grades on the online long case examination](attendance-associated-with-honors-grades.md) — related
+- [Top-performing course learners visited significantly more course items on average than the remaining participants, visiting more than 92% of items on average.](openhpi-quantum-mooc-top-performers-visited-more-items.md) — related

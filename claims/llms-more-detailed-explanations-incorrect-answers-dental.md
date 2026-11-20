@@ -48,3 +48,4 @@ Narrative finding from the systematic review's discussion section, attributed to
 ## Related Claims
 - [Gen-AI hallucinates sources and values and produces convincing but incorrect explanations, risking student misinformation](genai-hallucination-convincing-incorrect-explanations.md) — related
 - [LLMs perform worse on dental licensing examinations than on medical licensing examinations](llms-perform-worse-dental-than-medical-licensing-exams.md) — related
+- [In a small proof-of-concept study, AI analysis of graduate students' explanations of BCI answers was rapid, informative, and provided actionable feedback on student thinking.](ai-analyzed-explanations-proof-of-concept.md) — related

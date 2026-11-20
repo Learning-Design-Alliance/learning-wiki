@@ -47,3 +47,4 @@ Simulation study mirroring the BURST design, generating 32,000 student-year obse
 ## Related Claims
 - [Under within-cluster interference (a negative spillover effect on non-eligible treatment students), PWRD aggregation's power advantage over traditional methods grows, roughly doubling power for large effect sizes](pwrd-advantage-under-spillover.md) — related
 - [When the theory of change entirely fails (effects neither stacked nor persistent), standard methods outperform PWRD aggregation but the improvement never exceeds 3%](pwrd-small-loss-when-theory-fails.md) — a narrower finding that bears on this claim
+- [Simulation-based power analysis shows DCF detection achieves adequate power (> 0.8) for group sizes above roughly 250-350 students depending on effect size](dcf-power-analysis-simulation.md) — related

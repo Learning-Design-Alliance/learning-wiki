@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 475 claims (309 show a difference, 115 mixed, 51 no difference) · 341 studies (130 associational, 111 causal, 42 review, 16 theoretical, 15 qualitative, 14 quant-synthesis, 13 design), `q1`–`q4` · 92 of 341 report an effect size · 463 claims rest on one study
+> **Evidence** · 476 claims (310 show a difference, 115 mixed, 51 no difference) · 342 studies (130 associational, 112 causal, 42 review, 16 theoretical, 15 qualitative, 14 quant-synthesis, 13 design), `q1`–`q4` · 92 of 342 report an effect size · 464 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -525,6 +525,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Women who drop the first cluster of STEM majors earn significantly lower grades than men who persist, while women who drop the second cluster earn the same grades as men who persist](../claims/women-drop-cluster1-grades-midway-men-drop-persist.md) [~M] — learners who differ on it differ in outcomes
 - [Participants in a virtual ALMA tour reported increased interest in astronomy, both those already interested and those with little prior interest](../claims/tour-increased-astronomy-interest.md) [+M] — measured as an outcome of the instruction studied
 - [A scatter plot of content quality versus engagement shows a favorable link between high-quality content including visual data and stories and enhanced engagement](../claims/content-quality-engagement-scatter-plot.md) [+M] — measured as an outcome of the instruction studied
+- [Some previously disengaged students' engagement rose from semester 1 to semester 2, reaching some of the highest semester-2 levels after gamification, in one uncontrolled pre-post study](../claims/gamification-engages-previously-disengaged-students.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

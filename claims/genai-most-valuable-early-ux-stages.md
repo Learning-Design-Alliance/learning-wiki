@@ -52,3 +52,4 @@ Author's interpretive reflection in the Discussion section, not a tested result:
 - [Students used GenAI and XR in complementary roles: GenAI for ideation and visual reference generation, XR for spatial, contextual, and scale-based evaluation](genai-xr-complementary-roles-design.md) — related
 - [Teachers' tool preferences are stage-dependent, with pre-gen valued for ideation, mid-gen for structuring, post-gen for finalization, motivating hybrid workflows](stage-dependent-preferences-hybrid-workflows.md) — related
 - [Interviews indicated flipped learning supported studio readiness while the GenAI module served as a supplementary tool for early-stage visual ideation](interviews-flipped-readiness-genai-supplementary.md) — related
+- [Students found GenAI-generated storyboards unhelpful and returned to traditional pen-and-paper sketching](genai-storyboards-unhelpful-return-sketching.md) — related

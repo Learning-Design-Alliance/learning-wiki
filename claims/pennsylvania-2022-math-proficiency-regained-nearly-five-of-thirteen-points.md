@@ -52,3 +52,4 @@ Key findings of the same Mathematica research brief; math recovery was smaller i
 - [Pandemic achievement gaps in math and reading continued to narrow from spring 2021 through fall 2022](pandemic-achievement-gaps-narrowed-spring-2021-fall-2022.md) — related
 - [Achievement disparities remained wider in spring 2022 than before the pandemic, and constant-gain trends imply recovery timelines extending past federal recovery-fund spending deadlines](disparities-wider-recovery-past-funding-deadlines.md) — a broader claim this one bears on
 - [Student achievement remained below typical-year levels in fall 2022, with full recovery projected several years away](achievement-below-typical-recovery-years-away.md) — a broader claim this one bears on
+- [Georgia K-12 Math and English achievement rates declined significantly from 2019 to 2021 with a partial recovery in 2022 and a contraction of the score distribution](georgia-pandemic-achievement-rate-decline-2021.md) — related

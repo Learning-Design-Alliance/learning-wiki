@@ -58,3 +58,4 @@ Theoretical argument in the comment, citing prior work on training language mode
 - [People value emotional and esteem support more from close humans than from AI systems, with no significant difference for informational support](humans-valued-emotional-esteem-support-over-ai.md) — related
 - [Loneliness functions as a biological social-feedback signal that motivates relationship cultivation, and AI companions may silence that signal](loneliness-as-social-feedback-signal-ai-companions-silence.md) — related
 - [The authors argue that immediate automated responses can help overcome international students' feelings of isolation and reduce culturally rooted misunderstandings](immediate-response-reduces-isolation-claim.md) — related
+- [The review reports, citing Ray (2023), that ChatGPT can provide rapid responses and feedback on student work, aiding error correction](chatgpt-instant-feedback-error-correction.md) — related

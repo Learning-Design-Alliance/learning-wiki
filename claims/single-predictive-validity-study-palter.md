@@ -63,3 +63,4 @@ The review reports this as the only included study of predictive validity (Palte
 - [Trainees strongly supported a standardised laparoscopic curriculum and identified motivators including assessments, defined expectations, competitions and live-operating incentives](trainee-support-standardised-curriculum.md) — related
 - [Consequence validity evidence for simulation-based surgical assessments is rarely reported and remains unevaluated for the EMIG systems](emig-consequence-validity-evidence-gap.md) — related
 - [Only 3 of 17 studies evaluated skills transfer to patients or live animals after simulator training, limiting evidence for clinical outcomes](clinical-transfer-evaluated-in-three-of-seventeen.md) — a broader claim this one bears on
+- [The published literature the review cites reports better surgical performance for clinicians trained with VR simulators than untrained controls](vr-training-better-surgical-performance-review.md) — related

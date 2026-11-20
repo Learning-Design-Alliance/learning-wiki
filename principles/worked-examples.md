@@ -31,7 +31,7 @@ sources:
 # Worked Examples
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 38 claims (20 for, 15 mixed, 3 against) · 32 studies (22 causal, 4 theoretical, 3 quant-synthesis, 3 review), `q1`–`q4` · 7 of 32 report an effect size · 33 claims rest on one study
+> **Evidence** · 39 claims (20 for, 16 mixed, 3 against) · 33 studies (23 causal, 4 theoretical, 3 quant-synthesis, 3 review), `q1`–`q4` · 8 of 33 report an effect size · 34 claims rest on one study
 
 ## Conditional relationship
 
@@ -101,6 +101,7 @@ Each question below links a general claim that gathers the studies behind it int
 <!-- Re-read 2026-10-19: all sixteen claims listed here (eight restored 2026-10-01 from before the 2026-09-30 rewrite, eight attached by the linker 2026-10-07 to 2026-10-18) were read against the model and now sit in it: the situation table, the observation table, or Evidence and qualifications. New claims the linker attaches land below until the next re-read. -->
 Every claim previously listed here has been read against the model above and moved into it. Claims linked later appear below until they are read.
 - [Preceding worked-example demonstrations increase knowledge gains in technology-enhanced learning of sectional anatomy among novice medical students](../claims/worked-example-demonstrations-increase-sectional-anatomy-knowledge-gains.md) [+W] — attached 2026-11-04 from Fonseca Guilherme Reis Borges Coelho et al. (2026), which proposed "Provide outcome-focused audiovisual demonstrations before self-directed technology-enhanced learning for novice learners"; tests this page's relationship.
+- [Worked examples show positive average effects on learning, but their effects on transfer are inconclusive and depend on specific instructional practices](../claims/worked-example-transfer-effects-inconclusive.md) [~M] — attached 2026-11-20 from Loretan et al. (2022), which proposed "Design worked examples for strategy learning with explicit student self-explanation and salient subgoals of the solution procedure"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

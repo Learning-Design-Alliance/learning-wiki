@@ -54,6 +54,7 @@ The article recommends that hospitals "Formalize clinical peer‐mentorship prog
 - [Nursing programs strengthen academic achievement via mentorship, peer support, self-efficacy workshops and interactive learning environments](mentorship-peer-support-strengthen-professional-identity.md)
 - [Establish mentorship development activities and train-the-mentor programs to expand and improve mentorship](mentorship-development-and-train-the-mentor.md)
 - [Include peer and near-peer mentoring structures such as a bridge buddy system](peer-near-peer-bridge-mentoring.md)
+- [Separate faculty and student mentorship training workshops emphasizing five core attributes of effective mentorship](split-mentorship-training-five-attributes.md)
 
 ## Examples
 -

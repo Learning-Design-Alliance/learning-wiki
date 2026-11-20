@@ -50,3 +50,4 @@ Artificial action-log simulation (Figure 3) inserting a wrong response before an
 - [Single instances of help-seeking actions (answer requested, explanation requested) carry more predictive information than single correct or open responses (ISA)](isa-help-seeking-more-informative-than-correct-response.md) — related
 - [AI-generated homework hints were positively associated with exam performance only when exam questions closely matched the homework content](ai-hints-aligned-exam-performance-only.md) — related
 - [NCA scores of IIU input vectors order action types identically to the main-effects ordering (Spearman's ρ = 1)](nca-scores-align-with-main-effects.md) — related
+- [Successful students showed significantly higher engagement action counts in in-unit assignments, while struggling students requested more hints, answers and explanations.](struggling-students-request-more-hints-answers-explanations.md) — related

@@ -75,3 +75,4 @@ Per-video daily access analysis (Figure 7) of 161 students. "only about one-fift
 - [Low-performing students tended to procrastinate more on graded problem-solving exercises and on video watching with formative MCQs](low-performers-procrastinated-exercises-and-videos.md) — related
 - [Students used the rDSA system extensively during formative assessment, with usage peaking the day before the exam](rdsa-usage-peaks-before-exams.md) — related
 - [Failing students delay engagement with the course project until the end of the term while passing students access it throughout](project-access-timing-passing-failing.md) — related
+- [Early-semester stressors are weekly exercise sheets, the physics lab course, and math courses, shifting to exam preparation and exams later in the semester](physics-stressors-temporal-shift.md) — related

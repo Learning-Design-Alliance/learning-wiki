@@ -50,3 +50,4 @@ Program evaluation of the Space Public Outreach Team, in which 42 NANOGrav membe
 - [NANOGrav SPOT ambassador evaluations of 151 visits (2015-2019) indicate K-12 students were engaged and presentations were geared at the appropriate age level](nanograv-ambassador-evaluations-engagement-appropriate-level.md) — related
 - [Self-reported understanding of astronomy content shows a positive trend across all three cohorts, while interest gains are more varied but positive in each cycle](sattaa-interest-understanding-trends.md) — related
 - [Students successfully planned and conducted a public outreach observing session independently](students-public-outreach-session.md) — related
+- [Students showed limited motivation to pursue a physics career but wanted to learn more about gravitational-wave physics](motivation-topics-vs-career-pursuit-divergence.md) — related

@@ -58,3 +58,4 @@ The paper reports this as a cross-institutional pattern, citing Getman-Eraso & C
 - [General education teachers at RTI demonstration schools and comparable schools show no significant difference in self-reported RTI implementation practices](rti-demonstration-schools-no-difference-self-reported-practices.md) — related
 - [Ten of 40 programmes had a fully longitudinal communication curriculum and 25 a partial one](dach-longitudinal-communication-curricula.md) — related
 - [Extended professional development of 50 or more hours is needed before teachers substantially change their practice](fifty-hour-professional-development-practice-change.md) — related
+- [Teachers' sense of readiness to teach quantum differed by professional development format: 83% of extended in-person workshop participants expressed confidence versus 54% of online workshop participants](pd-format-readiness-quantum.md) — a narrower finding that bears on this claim

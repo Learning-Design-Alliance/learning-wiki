@@ -51,3 +51,4 @@ Questionnaire statements S5 and S6 (33 respondents): "the majority 79% believes 
 - [Virtual labs increase confidence but cannot fully replace hands-on experimental learning](virtual-labs-cannot-replace-hands-on-learning.md) — related
 - [Students view AI videos as appropriate for simple, visualizable, and supplemental learning contexts but inappropriate for complex, subjective, or interactive ones](students-contextualize-ai-video-appropriateness.md) — related
 - [Students rarely prepared an experimental situation for their videos (22%) although an experiment was shown in 64% of them](experiments-shown-but-rarely-prepared.md) — related
+- [Students reported GenAI was not yet good at purely hardware-related questions and issues](genai-weak-hardware-questions.md) — related

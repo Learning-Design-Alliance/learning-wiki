@@ -55,3 +55,4 @@ Formative assessment perception items (n = 47). The article reports "93.6% agree
 - [Adult learners expect AI to foster involvement by sparking questions, tapping interests, and providing continuous feedback and effort acknowledgment](ai-fosters-adult-learner-involvement.md) — related
 - [An expert evaluator rated all GPT-4-generated tests as helpful and comprehensive but noted questions were too easy for specialists](expert-rated-tests-very-helpful.md) — related
 - [Students rated the reflective practice teaching method highly, with mean agreement scores of 9.0 for usefulness and 8.4 for enhancing critical thinking](students-rate-rp-teaching-method-highly.md) — related
+- [Students rated CodeTutor highly for comprehension and syntax support but significantly lower for fostering critical thinking](codetutor-critical-thinking-concern.md) — reports the opposite

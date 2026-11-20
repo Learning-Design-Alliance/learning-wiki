@@ -64,6 +64,8 @@ The article recommends that institutions delivering remote education mix asynchr
 - [Use a blended e-learning plus face-to-face approach as a cost-effective way to deliver continuing medical education to clinicians](blended-elearning-facetoface-cost-effective-cme.md)
 - [Deliver the remote lab course through asynchronous Slack lectures plus Zoom Q&A sessions with individual student interviews](slack-zoom-remote-lab-course-delivery.md)
 - [Provide remote students with sample data, video lecture, and virtual walkthrough when in-person access is impossible](remote-lab-sample-data-substitute-strategy.md)
+- [Support blind students' real-time code learning with flipped-classroom pacing, differentiated audio streams, and pre-course technical onboarding](flipped-onboarding-differentiated-audio-strategy.md)
+- [Offer teacher continuing education remotely, with distributed dates and times and recorded sessions, to widen participation and scientist contact](online-format-recorded-sessions-teacher-outreach.md)
 
 ## Examples
 -

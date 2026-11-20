@@ -58,3 +58,4 @@ Qualitative analysis of three GPT-4o chat logs from one student. The article rep
 - [LLM-assisted hardware debugging requires consistent human feedback because the LLM's understanding of the circuit drifts](llm-debugging-requires-consistent-human-feedback.md) — related
 - [State-of-the-art multimodal LLMs cannot reliably interpret circuit diagrams and therefore cannot independently solve circuit analysis problems](vlm-cannot-interpret-circuit-diagrams.md) — related
 - [A four-part outreach program lets high-school and early undergraduate students perform meaningful hands-on quantum circuit calculations without advanced mathematics](qist-outreach-without-advanced-math.md) — related
+- [Thematic analysis of reflection chats identified four LLM support behaviors: positive affirmations, expanding on answers, offering guidance, and encouraging reflection](llm-reflection-interaction-themes.md) — related

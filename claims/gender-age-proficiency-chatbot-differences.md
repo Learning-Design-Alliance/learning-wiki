@@ -101,3 +101,4 @@ Age ANOVA on concern about being accused of breaching academic integrity (F = 2.
 - [Female students showed stronger motivation toward e-learning resources and training than male students](female-students-stronger-elearning-motivation.md) — related
 - [Student e-readiness showed virtually no gender differences except on two items concerning teaching-quality concern and English academic success](student-ereadiness-gender-null-except-two-items.md) — reports the opposite
 - [Perceived obstacles to online learning differ by grade level and computer/internet ability, and satisfaction differs by region, university type, and technology ability](group-differences-obstacles-satisfaction-characteristics.md) — related
+- [Males reported a significantly higher post-session belief than females that chatbots can improve learning, with a large effect size.](gender-difference-improve-learning-perception.md) — related

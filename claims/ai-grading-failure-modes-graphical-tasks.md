@@ -77,3 +77,4 @@ Qualitative false-negative example (Fig. 6, problem 6-C-b): the leftmost arrow w
 - [Automated note feedback system had occasional phrase recognition errors and false positives](automated-feedback-phrase-recognition-limitations.md) — related
 - [Most GPT-4 errors on TCM examination questions stemmed from misunderstanding of TCM concepts (55.3%), not misreading questions](gpt4-tcm-errors-concept-misunderstanding-55-3.md) — related
 - [GPT-4 grading feedback sounds plausible but frequently contains incorrect or misleading statements](gpt4-feedback-plausible-but-misleading.md) — related
+- [GPT-4 tends to assume feedback is correct when it sounds convincing but incorrectly identifies the student error or provides an invalid suggestion, and has a high false positive rate on the diagnostic label.](gpt4-feedback-evaluation-shortcomings.md) — related

@@ -55,3 +55,4 @@ Chi-squared-minimization fit of a one-parameter gender gap model f−m=a·m(1−
 - [Matched-samples studies find no post-test performance difference between men and women in introductory physics when matched on prior measures](matched-samples-no-gender-posttest-difference.md) — related
 - [Mechanics courses were a partial exception: some identical-question scores were significantly lower in flipped classes and the gender gap was generally not improved there](mechanics-flipped-outlier.md) — related
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — a broader claim this one bears on
+- [Active learning and studio physics show mixed effects on gender gaps, depending on course design and implementation details](active-learning-gender-gap-effects-mixed.md) — a broader claim this one bears on

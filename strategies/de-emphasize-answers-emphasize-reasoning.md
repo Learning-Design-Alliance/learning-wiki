@@ -89,6 +89,7 @@ Requiring learners to explain and justify their steps triggers self-explanation,
 - [Guide iteration with diagnostic questioning after failed tests](diagnostic-questioning-after-failed-tests.md)
 - [Ask teachers why a student might give an answer rather than what is wrong with it, to focus attention on the student's construction of ideas](ask-why-might-student-give-answer.md)
 - [Hypothesis-raising discussion on nuclear stability where no answer is wrong](nuclear-stability-hypothesis-raising-discussion.md)
+- [Ask students to explain why wrong multiple-choice answers are wrong and why they chose their answer, then have an AI bot analyze the explanations](ai-analyzed-explanation-strategy.md)
 
 ## Related Elements
 - [Articulation](../elements/articulation.md) — the mechanism by which reasoning becomes visible and discussable

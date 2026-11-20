@@ -44,6 +44,7 @@ For self-practice by VR novices, onboard players inside the application starting
 ## Related Strategies
 
 - [Test VR learning applications on a high number of novices to VR during development](test-vr-apps-on-many-novices.md)
+- [Begin laboratory training with explicit laser safety protocols before any alignment work](laser-safety-training-first.md)
 
 ## Examples
 -

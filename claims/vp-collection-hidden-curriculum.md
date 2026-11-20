@@ -50,3 +50,4 @@ Author interpretation drawing on Turbes et al.'s finding that case example demog
 - [Schools and teachers unintentionally communicate identity messages to adolescents through the hidden curriculum](hidden-curriculum-unintentional-identity-messages.md) — a broader claim this one bears on
 - [Learning happens across formal, non-formal and informal settings, face-to-face and online](formal-non-formal-informal-learning-settings-interplay.md) — a broader claim this one bears on
 - [VP diagnoses and disease onset are broadly comparable to German healthcare data](vp-diagnoses-comparable-to-healthcare-data.md) — related
+- [Faculty silence on certain topics itself conveys a message to students, regardless of intention](faculty-silence-conveys-message.md) — related

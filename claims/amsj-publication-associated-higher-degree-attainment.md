@@ -52,3 +52,4 @@ Matched-cohort univariate conditional logistic analysis of AMSJ authors versus c
 - [AMSJ publication remains independently predictive of future PubMed-indexed publication after adjustment for higher degree and faculty position (OR 2.56)](amsj-publication-independently-predictive-pubmed-multivariable.md) — related
 - [AMSJ authors were significantly more likely to enter surgical training, with no association for GP/emergency or physician training](amsj-publication-associated-surgical-training.md) — related
 - [No significant association was found between AMSJ publication and future faculty position attainment](amsj-publication-no-association-faculty-position.md) — related
+- [About one third of SPT graduates obtain PhD degrees after graduation](spt-graduate-phd-outcomes.md) — related

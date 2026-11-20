@@ -126170,5 +126170,581 @@
  "worked-examples\tG2 example-based instruction\tother guidance strategies": {
   "label": "worked examples vs other guidance strategies",
   "treatment_is_a": true
+ },
+ "active-learning\tCQS after lecture instruction\tLecture instruction before CQS": {
+  "label": "CQS after lecture vs lecture before CQS",
+  "treatment_is_a": true
+ },
+ "active-learning\tCQS with Zoom polling and instructor discussion\ttraditional lecture-based instruction": {
+  "label": "CQS with polling and instructor discussion vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tCQS with clicker questions and peer instruction\ttraditional lecture-based instruction": {
+  "label": "Clicker questions with peer instruction vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tCQS with individual online polling and instructor discussion\ttraditional lecture-based instruction before the CQS": {
+  "label": "CQS with individual polling and instructor discussion vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tCQS with peer discussion, clicker polling, and instructor discussion\ttraditional lecture-based instruction before the CQS": {
+  "label": "Clicker questions with peer and instructor discussion vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tCQS-supported instruction\timmediate post-test performance": {
+  "label": "CQS-supported instruction vs immediate post-test performance",
+  "treatment_is_a": true
+ },
+ "active-learning\tISLE-based iOLab laboratory modules\tpre-module self-assessment": {
+  "label": "ISLE/iOLab modules vs pre-module self-assessment",
+  "treatment_is_a": true
+ },
+ "active-learning\tISLE-based modules with hands-on experimentation and iOLab devices\tstudents’ pre-module self-assessments": {
+  "label": "ISLE/iOLab modules vs pre-module self-assessment",
+  "treatment_is_a": true
+ },
+ "active-learning\tISLE-based physics modules with iOLab digital devices\tstudents' pre-module self-assessment": {
+  "label": "ISLE/iOLab modules vs pre-module self-assessment",
+  "treatment_is_a": true
+ },
+ "active-learning\tIn-person CQS with peer discussion\tLecture instruction before CQS": {
+  "label": "CQS with peer instruction vs lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tJigsaw collaborative learning with AI speakers\tpre-Jigsaw classroom arrangement": {
+  "label": "Jigsaw collaborative learning vs pre-Jigsaw classroom arrangement",
+  "treatment_is_a": true
+ },
+ "active-learning\tOnline CQS with individual polling\tIn-person CQS with peer discussion and clickers": {
+  "label": "Online individual polling vs in-person peer instruction with clickers",
+  "treatment_is_a": true
+ },
+ "active-learning\tT-ODGI tutorial with active instruction\tstudents' initial performance": {
+  "label": "T-ODGI active instruction vs initial performance",
+  "treatment_is_a": true
+ },
+ "active-learning\tWAC live two-way classroom interaction\tinstant messaging, chat channels, and webinars": {
+  "label": "Live two-way classroom interaction vs messaging, chat, and webinars",
+  "treatment_is_a": true
+ },
+ "active-learning\tasynchronous PFOLT\tlecture-only": {
+  "label": "Asynchronous PFOLT vs lecture-only instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tasynchronous online interactive lecture-tutorial\tlecture-only instruction": {
+  "label": "Asynchronous interactive lecture-tutorial vs lecture-only instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tgenerating and reviewing multiple ChatGPT analogies\tcoding tasks or conventional instruction alone": {
+  "label": "Generating and reviewing multiple analogies vs coding tasks or conventional instruction alone",
+  "treatment_is_a": true
+ },
+ "active-learning\tin-person CQS implementation with Peer Instruction\tonline CQS implementation with Peer Instruction largely forgone": {
+  "label": "In-person peer instruction vs online CQS with peer instruction largely forgone",
+  "treatment_is_a": true
+ },
+ "active-learning\tin-person CQS with peer instruction and discussion\ttraditional lecture-based instruction": {
+  "label": "In-person CQS with peer instruction and discussion vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tin-person PFOLT\tlecture-only": {
+  "label": "In-person PFOLT vs lecture-only instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tin-person clicker-question sequence with full Peer Instruction\ttraditional lecture-based instruction": {
+  "label": "Clicker questions with full peer instruction vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tin-person online interactive lecture-tutorial\tlecture-only instruction": {
+  "label": "In-person interactive lecture-tutorial vs lecture-only instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tintegrated studio physics\ttraditional lecture-and-lab format": {
+  "label": "Integrated studio physics vs traditional lecture-and-lab format",
+  "treatment_is_a": true
+ },
+ "active-learning\tmultiple-choice question sequence with class discussion\ttraditional lecture-based instruction": {
+  "label": "Multiple-choice question sequence with class discussion vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tonline CQS with instructor discussion\ttraditional lecture-based instruction": {
+  "label": "Online CQS with instructor discussion vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tonline clicker-question sequence with instructor discussion\ttraditional lecture-based instruction": {
+  "label": "Online clicker-question sequence with instructor discussion vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer discussion\tindividual work": {
+  "label": "Peer discussion vs individual work",
+  "treatment_is_a": true
+ },
+ "active-learning\treal-world problem-solving class\tlecture-based class": {
+  "label": "Real-world problem-solving class vs lecture-based class",
+  "treatment_is_a": true
+ },
+ "active-learning\treal-world problem-solving course\tdidactic lecture-based course": {
+  "label": "Real-world problem-solving course vs didactic lecture-based course",
+  "treatment_is_a": true
+ },
+ "active-learning\treal-world problem-solving course\tlecture-based course": {
+  "label": "Real-world problem-solving course vs lecture-based course",
+  "treatment_is_a": true
+ },
+ "active-learning\treal-world problem-solving course\ttraditional lecture-based course": {
+  "label": "Real-world problem-solving course vs traditional lecture-based course",
+  "treatment_is_a": true
+ },
+ "active-learning\treal-world problem-solving format\tlecture-based format": {
+  "label": "Real-world problem-solving format vs lecture-based format",
+  "treatment_is_a": true
+ },
+ "active-learning\tstandard pencil-and-paper lecture-tutorial\tlecture-only instruction": {
+  "label": "Lecture-tutorial vs lecture-only instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudio physics course\tpre-transition course format": {
+  "label": "Studio physics course vs pre-transition course format",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudio-format introductory physics course\ttraditional-format introductory physics course": {
+  "label": "Studio-format physics course vs traditional-format physics course",
+  "treatment_is_a": true
+ },
+ "active-learning\ttutorial-based interactive instruction\tno comparison reported": {
+  "label": "Tutorial-based interactive instruction vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "active-learning\tuniversity-level Modeling Instruction\tpre-instruction": {
+  "label": "Modeling instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "case-comparison\tmultirepresentational exercise linking conventional and centered unit vectors\tunirepresentational exercise using only conventional unit vectors": {
+  "label": "multirepresentational vs unirepresentational",
+  "treatment_is_a": true
+ },
+ "debriefing\tLLM-based reflection\tquestionnaire-based reflection": {
+  "label": "LLM-guided reflection vs questionnaire-based reflection",
+  "treatment_is_a": true
+ },
+ "debriefing\tLLM-based reflection\treview of curated lecture slides": {
+  "label": "LLM-guided reflection vs review of curated lecture slides",
+  "treatment_is_a": true
+ },
+ "debriefing\tLLM-guided reflection after assignment\tno reflection after assignment": {
+  "label": "LLM-guided self-reflection after assignment vs no reflection after assignment",
+  "treatment_is_a": true
+ },
+ "debriefing\tLLM-guided self-reflection after assignment\tno reflection": {
+  "label": "LLM-guided self-reflection after assignment vs no reflection after assignment",
+  "treatment_is_a": true
+ },
+ "debriefing\tLLM-guided self-reflection after the assignment\tno reflection": {
+  "label": "LLM-guided self-reflection after assignment vs no reflection after assignment",
+  "treatment_is_a": true
+ },
+ "debriefing\tLLM-guided self-reflection after the assignment\tself-confidence before the assignment": {
+  "label": "LLM-guided self-reflection after assignment vs self-confidence before assignment",
+  "treatment_is_a": true
+ },
+ "debriefing\tassignment without reflection\tself-confidence before the assignment": {
+  "label": "No reflection after assignment vs self-confidence before assignment",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tsecond sequential DFT prompt\tfirst DFT prompt": {
+  "label": "second sequential prompt vs first prompt",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t20-minute intervention addressing vector-density interpretation\tpretest before the intervention": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tBloch sphere tutorial with explicit attention to θ/2 and an axes exercise\ttraditional lecture-based instruction": {
+  "label": "explicit instruction vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tafter traditional lecture-based instruction\tbefore traditional lecture-based instruction": {
+  "label": "post-instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmultirepresentational exercise contrasting conventional and centered unit vectors\tunirepresentational exercise using only conventional unit vectors": {
+  "label": "multirepresentational vs unirepresentational instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmultirepresentational intervention post-test\tmultirepresentational intervention pretest": {
+  "label": "post-instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteacher-presented quantum material as ungraded extra content\tquantum absent from the regular curriculum": {
+  "label": "instruction included vs instruction absent",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tunirepresentational intervention post-test\tunirepresentational intervention pretest": {
+  "label": "post-instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tChatGPT rapid feedback on student work\tnot stated": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tstudents who viewed style feedback\tstudents who did not view style feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tviewed style feedback\tdid not view style feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-timing\tImmediate ChatGPT feedback\tNo immediate ChatGPT feedback": {
+  "label": "Immediate feedback vs no immediate feedback",
+  "treatment_is_a": true
+ },
+ "feedback-timing\tcount opportunities after quiz feedback\tcount every practice attempt during the quiz": {
+  "label": "Opportunities after feedback vs opportunities during the quiz",
+  "treatment_is_a": true
+ },
+ "feedback-timing\tquiz-adjusted opportunities counted after feedback\tpractice opportunities counted during quizzes": {
+  "label": "Opportunities after feedback vs opportunities during the quiz",
+  "treatment_is_a": true
+ },
+ "feedback-timing\treal-time feedback\tdelayed feedback": {
+  "label": "Real-time feedback vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-timing\treal-time style feedback\tdelayed style feedback": {
+  "label": "Real-time feedback vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-timing\treal-time style feedback\tfeedback delayed by one week": {
+  "label": "Real-time feedback vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tDPO (Score + Mismatch)\tDPO (Score)": {
+  "label": "DPO with mismatched-feedback negatives vs DPO with rubric scores only",
+  "treatment_is_a": true
+ },
+ "feedback-type\tDPO (Score + Mismatch) feedback generation\tSFT Llama 2 feedback generation": {
+  "label": "DPO with rubric scores and mismatched-feedback negatives vs supervised fine-tuning feedback generation",
+  "treatment_is_a": true
+ },
+ "feedback-type\tDPO (Score + Mismatch) feedback generation\tZero-Shot Llama 2 feedback generation": {
+  "label": "DPO with rubric scores and mismatched-feedback negatives vs zero-shot feedback generation",
+  "treatment_is_a": true
+ },
+ "feedback-type\tDPO with rubric scores and mismatched-feedback negatives\tsupervised fine-tuning on human-written feedback": {
+  "label": "DPO with rubric scores and mismatched-feedback negatives vs supervised fine-tuning feedback generation",
+  "treatment_is_a": true
+ },
+ "feedback-type\tDPO with rubric scores and mismatched-feedback negatives\tzero-shot Llama 2 feedback": {
+  "label": "DPO with rubric scores and mismatched-feedback negatives vs zero-shot feedback generation",
+  "treatment_is_a": true
+ },
+ "feedback-type\tDPO with rubric scores and mismatched-feedback negatives\tzero-shot and supervised fine-tuning baselines": {
+  "label": "DPO with rubric scores and mismatched-feedback negatives vs zero-shot and supervised fine-tuning baselines",
+  "treatment_is_a": true
+ },
+ "feedback-type\tDPO with rubric scores plus mismatched-feedback hard negatives\tDPO with rubric scores only": {
+  "label": "DPO with mismatched-feedback negatives vs DPO with rubric scores only",
+  "treatment_is_a": true
+ },
+ "feedback-type\tDPO with rubric scores plus mismatched-feedback negatives\tDPO with rubric scores only": {
+  "label": "DPO with mismatched-feedback negatives vs DPO with rubric scores only",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-4\tother feedback-generation methods": {
+  "label": "GPT-4 feedback generation vs other feedback-generation methods",
+  "treatment_is_a": true
+ },
+ "feedback-type\tSFT-generated feedback\tother feedback-generation methods": {
+  "label": "Supervised-fine-tuning-generated feedback vs other feedback-generation methods",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback generation for questions requiring multiple reasoning steps\tfeedback generation for questions requiring fewer reasoning steps": {
+  "label": "Feedback for multi-step reasoning questions vs feedback for fewer-step reasoning questions",
+  "treatment_is_a": true
+ },
+ "feedback-type\tsecond polling attempt after an instructor hint or explanation\tfirst polling attempt without the subsequent hint": {
+  "label": "Feedback-informed second polling attempt vs initial polling attempt without subsequent feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tstyle edits directly incorporating viewed feedback\tother style edits by feedback viewers": {
+  "label": "Style edits directly incorporating viewed feedback vs other style edits by feedback viewers",
+  "treatment_is_a": true
+ },
+ "formative-assessment\t13-question clicker-question sequence with Peer Instruction\ttraditional lecture-based instruction": {
+  "label": "clicker questions with Peer Instruction vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "formative-assessment\t13-question clicker-question sequence with instructor feedback\ttraditional lecture-based instruction": {
+  "label": "clicker questions with instructor feedback vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tAVT learner provides 1:1 tutoring\tno significant novice progress or answer-giving": {
+  "label": "1:1 tutoring vs no tutoring or answer-giving",
+  "treatment_is_a": true
+ },
+ "formative-assessment\texpert prediction from AVT interaction\tlearner’s actual exam mistakes": {
+  "label": "expert prediction from tutoring interaction vs learner’s actual mistakes",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tmultiple-choice question sequence with class discussion and feedback\ttraditional lecture-based instruction": {
+  "label": "multiple-choice questions with discussion and feedback vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tmultiple-choice question sequence with discussion and feedback\ttraditional lecture-based instruction": {
+  "label": "multiple-choice questions with discussion and feedback vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tmultiple-choice question sequence with peer instruction, class discussion, and feedback\ttraditional lecture-based instruction": {
+  "label": "clicker questions with Peer Instruction, discussion, and feedback vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tresearch-validated clicker question sequence via Zoom\ttraditional lecture-based instruction": {
+  "label": "research-validated clicker questions via Zoom vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tresearch-validated clicker question sequence via Zoom\ttraditional lecture-based instruction before the sequence": {
+  "label": "research-validated clicker questions via Zoom vs instruction before the sequence",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tresearch-validated clicker question sequence with Peer Instruction\ttraditional lecture-based instruction": {
+  "label": "clicker questions with Peer Instruction vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tresearch-validated clicker question sequence with Peer Instruction\ttraditional lecture-based instruction before the sequence": {
+  "label": "clicker questions with Peer Instruction vs instruction before the sequence",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tsecond polling after instructor hint and opportunity to reconsider\tfirst polling response": {
+  "label": "second poll after an instructor hint and reconsideration vs first poll response",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tvalidated multiple-choice question sequence after lecture\ttraditional lecture-based instruction before the sequence": {
+  "label": "validated multiple-choice question sequence after lecture vs instruction before the sequence",
+  "treatment_is_a": true
+ },
+ "gamification\tLevel Up! Moodle gamification implemented\tno Level Up! gamification": {
+  "label": "Level Up! gamification vs no Level Up! gamification",
+  "treatment_is_a": true
+ },
+ "gamification\tLevel Up! gamification in semester 2\tno Level Up! in semester 1": {
+  "label": "Level Up! gamification vs no Level Up! gamification",
+  "treatment_is_a": true
+ },
+ "gamification\tLevel Up! gamification with points and leaderboard\tno Level Up! gamification": {
+  "label": "Level Up! gamification vs no Level Up! gamification",
+  "treatment_is_a": true
+ },
+ "gamification\tLevel Up! implemented\tsame course without Level Up! in the previous academic year": {
+  "label": "Level Up! gamification vs no Level Up! gamification",
+  "treatment_is_a": true
+ },
+ "gamification\tLevel Up! implemented in semester 1 2023-24\tLevel Up! not implemented in semester 1 2022-23": {
+  "label": "Level Up! gamification vs no Level Up! gamification",
+  "treatment_is_a": true
+ },
+ "gamification\tLevel Up! points and leaderboard implemented\tno Level Up! gamification": {
+  "label": "Level Up! gamification vs no Level Up! gamification",
+  "treatment_is_a": true
+ },
+ "gamification\tLevel Up! points and leaderboard implemented\tsame course without Level Up! in the previous academic year": {
+  "label": "Level Up! gamification vs no Level Up! gamification",
+  "treatment_is_a": true
+ },
+ "gamification\tLevel Up! points awarded for activity completion\tno Level Up! points": {
+  "label": "Points for activity completion vs no points",
+  "treatment_is_a": true
+ },
+ "media-design\tcentered unit-vector representation\tconventional unit-vector representation": {
+  "label": "centered unit-vector representation vs conventional unit-vector representation",
+  "treatment_is_a": true
+ },
+ "media-design\tdefinition plus LLM-generated story\tdefinition only": {
+  "label": "definition plus LLM-generated story vs definition only",
+  "treatment_is_a": true
+ },
+ "media-design\tinstrumental sonifications\tsynthesized sonifications": {
+  "label": "instrumental sonifications vs synthesized sonifications",
+  "treatment_is_a": true
+ },
+ "media-design\tlegal definition plus LLM-generated story\tlegal definition only": {
+  "label": "legal definition plus LLM-generated story vs legal definition only",
+  "treatment_is_a": true
+ },
+ "media-design\tmultirepresentational exercise linking conventional and centered unit vectors\tunirepresentational exercise using conventional unit vectors": {
+  "label": "multirepresentational exercise vs unirepresentational exercise",
+  "treatment_is_a": true
+ },
+ "media-design\tmultirepresentational exercise linking conventional and centered unit vectors\tunirepresentational exercise using conventional unit vectors only": {
+  "label": "multirepresentational exercise vs unirepresentational exercise",
+  "treatment_is_a": true
+ },
+ "media-design\tmultirepresentational intervention\tpretest before intervention": {
+  "label": "multirepresentational intervention vs pretest-only condition",
+  "treatment_is_a": true
+ },
+ "media-design\tunirepresentational intervention\tpretest before intervention": {
+  "label": "unirepresentational intervention vs pretest-only condition",
+  "treatment_is_a": true
+ },
+ "media-design\tvideo containing misconceptions\tscientifically accurate video": {
+  "label": "video containing misconceptions vs scientifically accurate video",
+  "treatment_is_a": true
+ },
+ "media-design\tvideo containing misconceptions about force\tscientifically accurate video": {
+  "label": "video containing misconceptions vs scientifically accurate video",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore frequent question repetition\tless frequent question repetition": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore learning items visited\tfewer learning items visited": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore readings of Dragon’s Lair\tfewer readings of Dragon’s Lair": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tread Hurricane! two or more times\tread Hurricane! fewer than two times": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "praise\tpeer praise for effort, strategies, and processes\tno comparison condition reported": {
+  "label": "praise vs no praise",
+  "treatment_is_a": true
+ },
+ "prompts\tLLM-based reflection\trevision of important lecture slides": {
+  "label": "reflection prompts vs revision of important lecture slides",
+  "treatment_is_a": true
+ },
+ "prompts\tpost-reflection confidence\tpre-reflection confidence": {
+  "label": "post-reflection confidence vs pre-reflection confidence",
+  "treatment_is_a": true
+ },
+ "prompts\tquestionnaire-based reflection\trevision of important lecture slides": {
+  "label": "reflection prompts vs revision of important lecture slides",
+  "treatment_is_a": true
+ },
+ "prompts\treal-time feedback with a nudge\treal-time feedback without a nudge": {
+  "label": "feedback with a nudge vs feedback without a nudge",
+  "treatment_is_a": true
+ },
+ "prompts\treal-time feedback with a prompt to view it\treal-time feedback without a prompt": {
+  "label": "feedback with a prompt to view it vs feedback without a prompt to view it",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tAttempting prequestions followed by learning opportunities\tInitial performance on the same prequestions": {
+  "label": "prequestioning followed by learning opportunities vs prequestioning alone",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tAttempting prequestions followed by learning opportunities\tInitial prequestion performance": {
+  "label": "prequestioning followed by learning opportunities vs prequestioning alone",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tPrequestioned concepts before instruction\tNon-prequestioned concepts": {
+  "label": "prequestioning vs no prequestioning",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tPrequestioning\tPostquestion retrieval practice": {
+  "label": "prequestioning vs postquestion retrieval practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tPrequestioning concepts before instruction\tUntested concepts without prior prequestioning": {
+  "label": "prequestioning vs no prequestioning",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tattempting prequestions before instruction\tperformance on the initial prequestions": {
+  "label": "prequestioning followed by learning opportunities vs prequestioning alone",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tpostquestions on previously prequestioned concepts\tpostquestions on non-prequestioned concepts": {
+  "label": "prequestioning vs no prequestioning",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tprequestioned concepts\tuntested concepts": {
+  "label": "prequestioning vs no prequestioning",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tprequestioning\tretrieval practice through postquestions": {
+  "label": "prequestioning vs postquestion retrieval practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\ttested postquestions after prequestioning\tinitial prequestion performance": {
+  "label": "postquestion retrieval after prequestioning vs initial prequestion retrieval",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tattempts do not affect the course grade\tattempts affect grades, creating exam-failure or low-grade pressure": {
+  "label": "attempts not affecting course grade vs attempts affecting course grade",
+  "treatment_is_a": true
+ },
+ "scaffolding\tCQS with instructor discussion and immediate feedback\ttraditional lecture-based instruction": {
+  "label": "instructor-supported CQS vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "scaffolding\tCQS with instructor discussion, immediate feedback, and Peer Instruction\ttraditional lecture-based instruction": {
+  "label": "peer-instruction-enhanced CQS vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "scaffolding\tin-person CQS with added CQS 3.4-3.5\tonline CQS without CQS 3.4-3.5": {
+  "label": "CQS with added components vs CQS without added components",
+  "treatment_is_a": true
+ },
+ "scaffolding\ttransformed lab with additional scaffolding and examples of above-and-beyond work\tinitial transformed lab with limited scaffolding": {
+  "label": "more scaffolding and exemplars vs limited scaffolding",
+  "treatment_is_a": true
+ },
+ "simulation\tVR group\tST group": {
+  "label": "simulation vs standard training",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual reality training\tcontrol group": {
+  "label": "simulation vs no training/control",
+  "treatment_is_a": true
+ },
+ "spacing\tPython skills revisited in second-semester exercises after a three-month interruption\tskills immediately after first-semester instruction": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "test-format\t48-question survey part\t52-question survey part": {
+  "label": "longer test vs shorter test",
+  "treatment_is_a": false
+ },
+ "test-format\tSTPFaSL-Long\tSTPFaSL-Short": {
+  "label": "longer test vs shorter test",
+  "treatment_is_a": true
+ },
+ "test-format\tdistractors reflecting student beliefs\tdistractors not reflecting student beliefs": {
+  "label": "belief-reflecting distractors vs non-belief-reflecting distractors",
+  "treatment_is_a": true
+ },
+ "test-format\tin-person paper administration\tdiscrimination criterion of 0.2": {
+  "label": "paper administration vs online administration",
+  "treatment_is_a": true
+ },
+ "test-format\tonline Qualtrics administration\tdiscrimination criterion of 0.2": {
+  "label": "paper administration vs online administration",
+  "treatment_is_a": false
+ },
+ "worked-examples\tworked examples\tcomparison condition": {
+  "label": "worked examples vs comparison condition",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked-example instruction\tconventional instruction": {
+  "label": "worked examples vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked-example instruction\tpractice instruction": {
+  "label": "worked examples vs practice instruction",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked-example intervention\tconventional tasks": {
+  "label": "worked examples vs conventional tasks",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked-example intervention\tconventional tasks with the same content, lesson plan, and teacher": {
+  "label": "worked examples vs conventional tasks",
+  "treatment_is_a": true
  }
 }

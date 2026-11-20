@@ -83,3 +83,5 @@ Same observational cluster analysis of student behavior profiles, comparing clus
 - [Whether lab groups share or divide tasks does not seem to depend on single- versus mixed-gender composition](lab-task-sharing-independent-of-group-composition.md) — related
 - [No statistically significant gendered difference in laptop, calculator, and paper use was found in either lab course, and partner agreements showed no significant effect on these activities](no-gender-difference-notekeeping-activities.md) — related
 - [Partner agreements increased women's and decreased men's equipment group fraction in Physics I Lab, with no statistically significant effect in Physics II Lab](partner-agreements-equipment-equity-effect.md) — related
+- [Task preferences in physics lab activities show no significant association with gender at any of the three institutions](no-gender-association-task-preference-physics-labs.md) — related
+- [Gender-based inequities in educational physics labs are salient and persistent across curricula and contexts](persistent-gender-inequities-physics-labs.md) — related

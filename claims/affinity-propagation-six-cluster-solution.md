@@ -58,3 +58,4 @@ Unsupervised clustering of Study 2 attempts on seven theoretically-selected vari
 - [AI-supported argumentative writing yields three distinct uptake clusters (text reproducers, text integrators, text reconstructors) based on recurring n-gram overlap](three-uptake-clusters-human-ai-cowriting.md)
 - [Unsupervised clustering of individual learning curves identifies seven distinct learner profiles whose proportions shift with target geometry](seven-learner-profiles-soft-dtw-clustering.md) — related
 - [Hierarchical clustering with weighted average linkage yields a six-cluster partition of the sample under an Inconsistency Coefficient threshold of 1.25, and the Variation Ratio Criterion peaks at six clusters](hierarchical-six-cluster-partition.md) — related
+- [SOM clustering of logged Stateful paths identifies three major student behavioural groups A, B, and C covering 76% of the student population](som-clustering-three-stateful-student-groups.md) — related

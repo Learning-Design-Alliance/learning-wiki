@@ -100,3 +100,4 @@ Manual error analysis found missed nuanced evidence mainly in long learning acti
 - [AI chatbots' incorrect answers on the CINECA test are predominantly logical errors rather than information or statistical errors](chatbot-incorrect-answers-predominantly-logical-errors.md) — related
 - [GPT-4 grading feedback sounds plausible but frequently contains incorrect or misleading statements](gpt4-feedback-plausible-but-misleading.md) — related
 - [Exam responses frequently exhibit combinations of the four errors in a single response, so instructors must be prepared to identify multiple errors at once](students-combine-multiple-vector-errors.md) — related
+- [Across all feedback generation methods tested, most failures occur because the LLM cannot correctly identify the error in the student's incorrect answer, especially when multiple reasoning steps are required.](llm-failure-identifying-student-error.md) — related

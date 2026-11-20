@@ -56,3 +56,4 @@ Case observation reported at the March 2025 ribbon cutting: a student on only hi
 - [Sysadmins find GenAI most effective for accelerating routine tasks such as scripting, troubleshooting, and documentation](genai-accelerates-routine-sysadmin-tasks.md) — related
 - [Proactive flow-aware highlighting helps fiction writers recognize latent knowledge gaps they would not search for on their own](proactive-highlighting-reveals-latent-knowledge-gaps.md) — related
 - [Learning Studio participation increased students' comfort with, and skills around, the Studio technologies](learning-studios-student-technology-comfort-increase.md) — related
+- [Graduate HCI design students found GenAI most useful in the execution phase of design, enabling faster prototyping iterations and freeing time for critical thinking](genai-execution-phase-faster-prototyping.md) — a broader claim this one bears on

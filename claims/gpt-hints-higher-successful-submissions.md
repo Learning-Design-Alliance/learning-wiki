@@ -68,3 +68,4 @@ Same mixed-effects model testing the group-by-attempt interaction on GPT-enabled
 - [Students with GPT hints enabled clicked to view regular platform feedback on failed tests significantly less often than controls on those tasks](gpt-hints-reduce-regular-feedback-use.md) — related
 - [Learners receiving ChatGPT-generated hints showed statistically significant learning gains compared to a no-hint control in an online mathematics tutoring experiment](chatgpt-hints-significant-gains-versus-control.md) — related
 - [Immediate post-feedback improvement is near zero on average and does not differ significantly across feedback conditions](baseline-post-feedback-gains-near-zero-no-condition-differences.md) — related
+- [Average number of attempts before reaching the correct answer served as the task-difficulty measure, with hints preventing bottleneck tasks in the MOOC](attempt-count-task-difficulty-mooc.md) — related

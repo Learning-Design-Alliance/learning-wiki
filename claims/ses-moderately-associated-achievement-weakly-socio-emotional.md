@@ -52,3 +52,4 @@ Descriptive bivariate correlation analyses in the French panel of 8934 students 
 - [Students with high educational goals gain more achievement from both higher individual SES and attending higher-SES schools (interaction B = 0.02 mathematics; 0.02 and 0.01 science)](education-goal-moderates-ses-effects.md) — related
 - [Academic performance correlates positively with intrinsic knowledge motivation, intrinsic achievement motivation, and self-efficacy](performance-correlates-intrinsic-motivation-self-efficacy.md) — related
 - [Self-regulation level (low/medium/high) differentially predicts self-efficacy, procrastination and achievement, with family socio-educational level also affecting achievement](sr-level-by-family-level-anova-achievement.md) — related
+- [Self-efficacy is positively correlated with academic achievement](self-efficacy-positively-correlated-academic-achievement.md) — related

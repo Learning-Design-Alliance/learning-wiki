@@ -49,3 +49,4 @@ Result from the Challenges Unique to Specific Identity Groups section of the int
 - [Nine of eleven physics majors felt disconnected from department faculty, and only the two participants with zero URIs did not express this concern](faculty-disconnect-uri-physics-majors.md) — related
 - [Living at the intersection of multiple underrepresented identities compounded physics majors' lack of belonging](intersectional-uris-compound-lack-of-belonging.md) — related
 - [Physics majors with a greater number of underrepresented identities encounter more challenges than those with fewer or none](more-uris-more-challenges-physics-majors.md) — a broader claim this one bears on
+- [Intersectional identities shaped negative experiences: one participant attributed negative peer experiences to both her race and her gender](intersectionality-race-gender-negative-experiences.md) — a narrower finding that bears on this claim

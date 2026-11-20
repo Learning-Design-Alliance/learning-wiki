@@ -50,3 +50,4 @@ Narrative review of prior work, reporting the study by Schneider and Pea (2014) 
 - [Real collaborative groups show higher physiological synchrony than randomly matched false groups on %REC, %DET, and ADL](real-groups-higher-synchrony-than-false-groups.md) — related
 - [Lexical alignment reduces ambiguity and cognitive costs and is detectable as recurrence in conversational data](lexical-alignment-reduces-ambiguity.md) — related
 - [Machine learning, including neural nets, can detect localized instances of good or poor collaboration during collaborative learning](neural-nets-detect-collaboration-quality.md) — related
+- [Gaze synchrony measures (KLD and MultiMatch similarity) do not significantly predict learning outcomes, failing to replicate prior findings](gaze-synchrony-does-not-predict-learning-outcomes.md) — related

@@ -64,6 +64,7 @@ Manipulating real equipment grounds abstract concepts in perceptual-motor experi
 - [Sequence simulation first, then repeat the same assignment with physical laboratory equipment](simulation-first-then-laboratory-sequence.md)
 - [Use computer-based simulated experiments before real-time laboratory experiments](virtual-experiments-before-real-lab.md)
 - [Couple real published laboratory experiments with simulated-experiments and graphical postprocessing](couple-real-lab-with-simulated-experiments.md)
+- [Write laboratory tutorials as detailed step-by-step instructions students follow independently without continual instructor guidance](step-by-step-self-guided-lab-tutorials.md)
 
 ## Examples
 - **PhET Interactive Simulations** (https://phet.colorado.edu) — research-based virtual labs used before or in place of physical equipment for circuit-building and chemistry procedures

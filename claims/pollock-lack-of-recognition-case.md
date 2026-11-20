@@ -49,3 +49,4 @@ Case-study evidence drawn from Pollock's memoir as quoted in the article. Decade
 - [Female faculty mentors, role models, and supportive peers provided reassurance and comfort that helped a woman physics major persist](female-mentorship-supports-persistence-women-physics.md) — related
 - [Interviewed women reported belittling instructor comments, unequal praise of men, and contemplating leaving their majors because of negative physics course experiences](interviews-women-belittling-comments-unequal-praise.md) — related
 - [Some female physics students reported instructors and advisors underestimating their abilities and potential](underestimated-abilities-potential.md) — related
+- [Faculty mentorship that encourages women to take challenging courses builds their sense of competence and recognition as physics people](faculty-mentorship-challenging-courses-competence-recognition.md) — related

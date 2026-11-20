@@ -47,6 +47,7 @@ The article recommends that AI-generated educational content undergo rigorous in
 - [Deploy AI as an auxiliary tool supplemented by structured measures including transparent auditing of algorithmic bias and data-processing privacy protocols](ai-auxiliary-tool-structured-safeguards-strategy.md)
 - [Integrate retrieval-augmented generation fact-checking alongside batch delivery to reduce residual factual errors in LLM-based medical education](rag-fact-checking-medical-education.md)
 - [Adopt ethical safeguards and pedagogically grounded frameworks when deploying GenAI assessment tools](ethical-safeguards-pedagogical-frameworks-genai-deployment.md)
+- [Expert-in-the-loop pipeline for generating and refining educational content with LLMs](expert-in-loop-llm-education-pipeline.md)
 
 ## Examples
 -

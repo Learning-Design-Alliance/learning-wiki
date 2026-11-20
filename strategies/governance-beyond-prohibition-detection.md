@@ -100,6 +100,7 @@ The article recommends that effective institutional governance extend beyond pro
 - [Integrate generative AI into PBL under educator supervision, teaching students to formulate clinical questions and critically evaluate AI responses](supervised-critical-ai-integration-pbl-strategy.md)
 - [Design hybrid learning models that integrate LLMs with critical reflection, and establish secondary validation mechanisms for AI-driven clinical decisions](hybrid-llm-learning-secondary-validation-strategy.md)
 - [Pair the scale with student-facing guidelines and multimedia on ethics, citation, limitations, and privacy](pair-aias-with-student-facing-guidelines.md)
+- [Integrate Generative AI literacy into curricula, including query formulation workshops and critical evaluation exercises](generative-ai-literacy-curriculum-integration.md)
 
 ## Examples
 -

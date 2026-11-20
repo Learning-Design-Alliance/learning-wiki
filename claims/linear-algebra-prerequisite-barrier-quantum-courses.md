@@ -48,3 +48,4 @@ The authors report, citing Meyer et al., a survey of 28 introductory undergradua
 ## Related Claims
 - [Prerequisites for introductory QIS courses vary substantially, with linear algebra the most common requirement (21 of 28 courses) while most courses require no CS or physics prerequisite](qis-prerequisite-variation.md) — related
 - [Student difficulties with mathematics, especially linear algebra, are the most frequently reported student difficulty in introductory QIS courses](qis-student-math-linear-algebra-difficulties.md) — related
+- [Students with some knowledge of quantum mostly learned about it online, especially online videos, with a few learning about it in high school or college courses](students-learn-quantum-online-media.md) — related

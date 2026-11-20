@@ -51,3 +51,5 @@ Qualitative class feedback from the first test at Scuola Media Don Milani with a
 - [Infant look-away follows a U-shaped pattern of information content, consistent with maintaining intermediate rates of information absorption (Goldilocks effect)](infant-goldilocks-look-away-u-shaped.md) — related
 - [A majority of students rated the gamified courses enjoyable or very enjoyable, with some reporting reduced school-related stress compared with non-gamified classes](gamified-courses-majority-enjoyable-stress-relief.md) — related
 - [The three-site synchronous format made spontaneous questioning difficult and divided the teacher's attention between face-to-face and online groups](synchronous-format-limited-spontaneous-questions.md) — related
+- [Middle-school students recognise colours through Edukoi sonification at near-ceiling accuracy with minimal training](edukoi-colour-recognition-effective.md) — related
+- [Using Edukoi in science classes did not significantly change students' mATSI science-attitude scores](edukoi-no-matsi-engagement-change.md) — related

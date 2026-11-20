@@ -50,3 +50,4 @@ Performance curves across augmentation levels 0x–100x (Fig. 2 for French; Figs
 - [Fine-tuning BERT-based classifiers on LLM-augmented student-response data outperforms unaugmented training for all tested concepts](llm-augmentation-beats-unaugmented-small-education-data.md) — related
 - [Datasets with entropy below 0.5 are difficult to augment enough to beat majority-label guessing](low-entropy-datasets-resist-augmentation.md) — related
 - [Self- and GPT-augmented performance peaks and degrades after 55x–89x augmentation, while Llama-augmented performance keeps rising toward 100x](performance-peak-augmentation-llama-rises.md) — related
+- [GPT-4 consistency checking retains 72% of synthetically generated invalid questions, discarding 27% classified as good and 1% as incorrect](consistency-checking-retains-72-percent-invalid-questions.md) — related

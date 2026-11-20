@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 485 claims (248 for, 209 mixed, 28 against) · 365 studies (115 associational, 90 design, 63 causal, 48 review, 30 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 33 of 365 report an effect size · 477 claims rest on one study
+> **Evidence** · 487 claims (250 for, 209 mixed, 28 against) · 366 studies (115 associational, 91 design, 63 causal, 48 review, 30 theoretical, 13 quant-synthesis, 6 qualitative), `q1`–`q3` · 33 of 366 report an effect size · 479 claims rest on one study
 
 ## Conditional relationship
 
@@ -329,6 +329,8 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Students from underrepresented groups are 83% more likely than their peers to be shifted from a passing grade under 4-point grading to a failing grade under percent grading.](../claims/urm-disproportionate-failing-under-percent.md) [+W] — attached 2026-11-19 from Cassandra A. Paul et al. (2022), which proposed "Switching from percent-scale grading to a 4-point grade scale (or similar) could reduce equity gaps by 20-25% without any other course changes."; tests this page's relationship.
 - [Classroom multiple-choice tests average 62 items with a mean test score of 65% and a length-adjusted reliability of 0.77, establishing a baseline for as-deployed classroom MCT psychometrics.](../claims/classroom-mct-baseline-psychometrics.md) [~W] — attached 2026-11-19 from Slepkov et al. (2020), which proposed "Use item-excluded correlations and length-normalized reliability, with empirically updated category ranges, when assessing classroom multiple-choice test quality.".
 - [GPT-4 rubric grades of written physics solutions correlate positively with manual grading, with R² ≈ 0.83 for total scores](../claims/gpt4-total-score-correlation-manual-grading.md) [+W] — attached 2026-11-19 from Gerd Kortemeyer (2023), which proposed "Use AI grading only for an initial sorting and flagging round in summative assessment, with human verification before scores are returned"; tests this page's relationship.
+- [A trivial baseline generating \"Hello\" for every prompt achieved the best BERTScore precision and DialogRPT updown scores, exposing construct-irrelevant sensitivity in the automated metrics.](../claims/hello-baseline-best-automated-metrics.md) [+W] — attached 2026-11-20 from Anaïs Tack et al. (2023), which proposed "Shared tasks on AI teacher response generation should develop or adopt domain-specific automated metrics that reward pedagogical ability rather than relying on general dialogue metrics.".
+- [DialogRPT scores were highly sensitive to the presence of a teacher prefix: identical GPT-4 responses scored 0.52 on updown with the prefix but 0.40 without it.](../claims/dialogrpt-teacher-prefix-sensitivity.md) [+W] — attached 2026-11-20 from Anaïs Tack et al. (2023), which proposed "Shared tasks on AI teacher response generation should develop or adopt domain-specific automated metrics that reward pedagogical ability rather than relying on general dialogue metrics.".
 
 ## Objective and learner-valued goal
 

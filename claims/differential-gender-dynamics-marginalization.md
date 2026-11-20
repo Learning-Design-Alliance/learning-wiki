@@ -54,3 +54,4 @@ Qualitative coding of the 38 interviews (14 of 38 students). Students described 
 - [Interviews with 70 undergraduates suggest that negative perceived recognition from instructors/TAs deteriorated women's physics self-efficacy and interest](instructor-recognition-interviews-self-efficacy-interest.md) — related
 - [Some female physics students reported instructors and advisors underestimating their abilities and potential](underestimated-abilities-potential.md) — related
 - [Exam culture with failing class averages and curving left physics majors feeling discouraged regardless of final grade](failing-exam-averages-discourage-physics-students.md) — related
+- [All seven undergraduate women physics majors interviewed recalled negative experiences with their male peers during college](women-physics-majors-negative-male-peer-interactions.md) — related

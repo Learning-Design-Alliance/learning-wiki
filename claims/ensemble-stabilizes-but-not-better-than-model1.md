@@ -59,3 +59,4 @@ Results section, Table 4: the rank-averaging ensemble of five trained models rea
 - [A multi-polygenic-score GPAΔ predicted achievement no better than the EA4 GPS alone](multi-gps-gpad-no-better-than-ea4-alone.md) — related
 - [An ensemble learner outperforms every individual base learner for predicting final exam score and course grade in a large introductory statistics course](ensemble-outperforms-base-learners-exam-grade.md) — related
 - [Each generalised plait ensemble (SVM, KNN, DCT) beats the single classifier, majority-vote and stacking ensemble of the same type in perceived task-difficulty classification (e.g., SVM plait error 14.54%, KNN plait 12.84%), though the DCT plait does not beat SVM stacking](plait-ensemble-outperforms-single-and-standard-ensembles.md) — related
+- [The ClickTree method achieved an AUC of 0.78844 on test data and ranked second in the EDM Cup 2023.](clicktree-auc-078844-ranked-second-edmcup2023.md) — related

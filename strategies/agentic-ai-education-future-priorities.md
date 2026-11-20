@@ -59,6 +59,7 @@ Drawing on the converging gaps across the reviewed literature, the review recomm
 - [Integrate AI tools into A-SPIRE's practical stages as an adjunct to human expertise, with ethical oversight](ai-integration-into-a-spire-practical-stages.md)
 - [Future CT-in-ELT research should prioritise inclusive, data-driven, longitudinal approaches integrating pedagogical experimentation and sociocultural perspectives](ct-elt-future-research-recommendations.md)
 - [Guide medical students to use ChatGPT cautiously with cross-checking, disclosure, and teacher oversight](cautious-chatgpt-use-teacher-oversight-strategy.md)
+- [Prioritize future research on ChatGPT's efficacy in STEM subjects and its support for collaborative learning and mental health](future-chatgpt-research-stem-collaboration-mental-health.md)
 
 ## Examples
 -

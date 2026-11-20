@@ -48,6 +48,7 @@ Based on the finding that creative drama outperformed comparison methods, the au
 
 - [Use creative drama techniques across different grades and courses to support achievement and affective outcomes](use-creative-drama-across-grades-and-courses.md)
 - [Encourage and improve the use of creative drama activities in Social Studies teaching, with extra attention at the 4th-grade level](encourage-creative-drama-social-studies-activities.md)
+- [Maximize humor, drama, and visualization in projects using current events and popular topics](humor-drama-visualization-project-strategy.md)
 
 ## Examples
 -
