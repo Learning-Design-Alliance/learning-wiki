@@ -53,6 +53,7 @@ The article recommends that edtech teams evaluate their AI models and outputs be
 - [Pre-deployment gate and per-epoch helpfulness rollback for vendors shipping LLM tutors to K-12 learners](educlaw-bench-deployment-gates-and-early-stopping.md)
 - [Deploy an educational chatbot to give students instant question-and-answer support outside class when teacher interaction time is limited](chatbot-out-of-class-instant-support.md)
 - [Apply human quality-check supervision before deploying LLM-generated hint content in tutoring systems](human-quality-checks-for-llm-hints.md)
+- [Use medical simulation to evaluate new AI clinical decision support systems before deployment](simulation-evaluation-ai-cdss-strategy.md)
 
 ## Examples
 -

@@ -45,6 +45,7 @@ Both efficacy studies used a blended model of implementation in which approximat
 - [Station Rotation](station-rotation.md)
 - [Blended Cognitive Tutor® implementation alternating collaborative textbook periods with adaptive software lab periods](cognitive-tutor-blended-textbook-software-schedule.md)
 - [Two blended-teaching methods combining computer-based and classroom work within Smart Kids technology](smart-kids-blended-teaching-methods.md)
+- [Tutor carousel rotation to reduce tutor variation in multi-tutor online courses](tutor-carousel-rotation-strategy.md)
 
 ## Examples
 -

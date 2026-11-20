@@ -49,3 +49,4 @@ Descriptive analysis of pretest-posttest scores in the same quasi-experiment: Ta
 - [Student responses to PBL statistics learning were positive, and more positive than responses to conventional learning](pbl-statistics-positive-student-responses.md) — related
 - [Experimental-class students scored higher on average (78 vs 70) on the science process skills test](recycle-practicum-higher-average-score.md) — related
 - [Before the intervention, only 21 of 37 students in the target class reached the minimum completeness criterion in listening](listening-kkm-baseline-21-of-37.md) — related
+- [Project- and inquiry-based practicum on acid-base material achieved 93.3% learning mastery](guided-inquiry-practicum-mastery-93-3.md) — related

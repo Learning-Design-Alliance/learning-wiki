@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-20
 sources:
   - id: alblooshi-as-2026
     resource: "https://doi.org/10.2196/95904"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of the 19 problematic questions, 11 (57.9%) received proposed wording or contextual revisions, 2 (10.5%) received presentation-only modifications, and 6 (31.6%) were retained in original wording; 6 additional non-problematic questions received limited consistency changes, and no items were removed. [→ Alblooshi AS 2026](#alblooshi-as-2026)

@@ -58,9 +58,11 @@ Instructional language competes with task content for limited working memory; co
 5. Pilot the instructions with a learner and revise wherever they ask "what do I do here?" — confusion points are instruction defects, not learner defects.
 
 ## Related Strategies
+
 - [Accessible Syntax](accessible_syntax.md) — the sentence-level craft underlying clear instructions
 - [Activate Background Knowledge](activating-prior-knowledge.md) — pre-teaching vocabulary and context so instructions can stay lean
 - [Modeling](../patterns/direct-instruction.md) — showing the task can substitute for some verbal instruction entirely
+- [Formulate behavioural objectives with action-verb descriptors instead of know or understand](behavioural-objective-verb-descriptors.md)
 
 ## Examples
 - Instead of "Please retrieve your textbooks and turn to page 57," say "Get your books. Open to page 57."

@@ -69,3 +69,7 @@ Authors' interpretation in the conclusions section, framed as the impact on the 
 - [Slightly more than half of former Masterclass participants work outside science and R&D, while STEM-related careers prevail overall](imc-fans-majority-outside-science-rd.md) — related
 - [Most surveyed young HEP practitioners report being influenced by Masterclasses towards particle physics, including six who had no prior ambition](imc-practitioners-influenced-toward-particle-physics.md) — a narrower finding that bears on this claim
 - [Former Masterclass participants report a positive shift in their attitude towards science and research](imc-positive-attitude-shift-science.md) — a narrower finding that bears on this claim
+- [Former Masterclass participants report that the event influenced their later choice of physics or a related subject](imc-influenced-physics-choice-35-percent.md) — a narrower finding that bears on this claim
+- [Masterclasses act as a nudge: they support participants ambivalent about particle physics but do not convert those clearly opposed](imc-nudge-effect-ambivalent-participants.md) — a narrower finding that bears on this claim
+- [Planned professions stated right after a Masterclass largely match respondents' actual later careers](imc-planned-vs-actual-career-diagonal.md) — related
+- [Interns reported enhanced skills toward a STEM career and a majority wanted to pursue particle physics research after their undergraduate degree](internship-enhanced-stem-skills-particle-physics-intent.md) — related

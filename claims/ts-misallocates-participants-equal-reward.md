@@ -10,6 +10,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-11-20
 sources:
   - id: williams-2021
     resource: "https://doi.org/10.48550/arXiv.2103.12198"
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q1`–`q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 
@@ -78,3 +79,5 @@ Authors' interpretation (type e) from the Discussion section of the case study, 
 - [No statistically significant difference exists among the three email subject-line arms' mean open rates under any of the three allocation policies](no-significant-difference-email-subject-line-arm-means.md) — a narrower finding that bears on this claim
 - [Weekly open-rate estimates hinted at non-stationary arm means, meaning the optimal subject line could change each week](non-stationary-weekly-email-open-rates.md) — related
 - [Thompson Sampling drastically shifted assignment toward a favoured arm with minimal exploration room, but the favoured arm varied across weeks](ts-drastic-shift-inconsistent-favoured-arm.md) — a narrower finding that bears on this claim
+- [Students shown a self-explanation prompt scored higher on the next problem than students shown no prompt in a traditional CS1 experiment](self-explanation-prompt-improves-subsequent-cs1-accuracy.md) — related
+- [An adaptive experiment served the self-explanation prompt condition to 82.6% of its students, a more than 30% reallocation toward the better outcome](adaptive-bandit-reallocates-majority-to-better-condition.md) — related

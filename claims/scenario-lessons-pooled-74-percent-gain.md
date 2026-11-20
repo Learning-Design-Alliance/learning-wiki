@@ -79,3 +79,4 @@ Per-lesson ANOVAs with time as factor (post vs. pre) on tutors' pretest-posttest
 - [Validity evidence for data-driven assessment tools relies predominantly on construct validity, with 11 of 35 studies using unvalidated tools](validity-evidence-construct-dominant-unvalidated-tools.md) — related
 - [A tutoring-based psychological and pedagogical support program produced a statistically significant improvement in first-year students' adaptation level in the experimental group but not in the control group](tutoring-program-significant-adaptation-improvement-experimental-group.md) — related
 - [Knowledge scores on guide content rose from 72.50% to 93.25% after guide use, but the change was not statistically significant](svi-guide-knowledge-score-nonsignificant-increase.md) — related
+- [Scores in all three experimental groups rose significantly from pretest to posttest, with gains between 25% and 35%](proof-blocks-within-group-induction-gains.md) — related

@@ -78,3 +78,4 @@ Diary excerpt from ChatGPT participant P11 illustrating that even a principle-or
 - [Fragmented vocabularies bias AI-mediated literature retrieval toward the user's home discipline](fragmented-vocabularies-bias-ai-retrieval.md) — related
 - [End users may prefer a biased recommender system over a fairer, more accurate debiased version](users-prefer-biased-recommender.md) — related
 - [ChatGPT and Google groups produced the most additional correct information beyond the sample solution; paper and video groups produced less](chatgpt-google-most-additional-information.md) — related
+- [Participants used ChatGPT by decomposing tasks into sub-tasks and integrating generated code per sub-task, obtaining only partial solutions](chatgpt-subtask-decomposition-partial-solutions.md) — related

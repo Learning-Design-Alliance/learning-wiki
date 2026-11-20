@@ -49,3 +49,4 @@ Cross-question theme analysis (Sec. IV A) of emergently coded interview transcri
 - [Graduate students frequently associate entropy directly with temperature, treating the two as monotonically related even when no general relationship applies](entropy-temperature-association-graduate-students.md) — related
 - [Most graduate students correctly rank entropies in a partitioned-box task, with pressure-equalization intuitions producing the main alternative rankings](partitioned-box-entropy-ranking-graduate-students.md) — related
 - [Graduate students demonstrated adaptability and metacognitive awareness in their approach to reasoning about entropy](graduate-entropy-reasoning-adaptability-metacognition.md) — a broader claim this one bears on
+- [Students understand Boltzmann's microscopic meaning of entropy but not its relation to the Clausius definition or why entropy never decreases for an isolated system](entropy-boltzmann-clausius-link-obscure.md) — related

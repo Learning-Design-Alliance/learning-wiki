@@ -53,3 +53,4 @@ Cross-item comparison of scoring mechanisms (Results): "Claude’s performance o
 - [Confidence-aware selective test-time scoring achieves the best average agreement with expert rubric scoring across six NGSS drawing items](ca-selective-best-average-agreement-drawings.md) — related
 - [On fully correct responses, the GPT few-shot models outperformed the fine-tuned models, averaging less than one category distance from the gold score](gpt-outperforms-finetuned-on-fully-correct-responses.md) — related
 - [LLMs differed substantially in how they conceptualized the minimally competent candidate and estimated item-level probabilities](llm-heterogeneity-mcc-conceptualization.md) — related
+- [GPT-4 and Claude-2.1 outperform engineering faculty on a closed-book mechanics conceptual exam, while human faculty retain an edge in Continuum Mechanics](gpt4-claude-outperform-mechanics-faculty-except-continuum-mechanics.md) — related

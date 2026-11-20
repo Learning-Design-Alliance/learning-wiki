@@ -51,3 +51,4 @@ Self-reported scholarly activities (Table 3) with nine planned comparisons under
 - [Assistant PoTs identify significantly more as researchers than tenured PoTs, with similar instructor identity, and DBER engagement predicts research identity](dber-predicts-research-identity.md) — related
 - [Most PoTs lack formal education-research training, and 60% report inadequate campus opportunities to develop scholarly skills](pot-training-resources-misalignment.md) — related
 - [PoTs who engage in DBER and generate peer-reviewed publications report greater influence on colleagues' teaching, while mentoring student researchers correlates negatively](scholarship-correlates-teaching-influence.md) — related
+- [Improvers conceptualize DBER as an opportunity to improve practice locally in an evidence-based way](improvers-dber-improve-practice-locally.md) — related

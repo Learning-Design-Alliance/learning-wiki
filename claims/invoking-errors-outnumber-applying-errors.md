@@ -51,3 +51,4 @@ Percentages of students who diagnosed their mistakes in the invoking and applyin
 - [Mistake type moderated diagnosability: application errors were diagnosable on the conventional problem but invocation errors were not](mistake-type-moderates-self-diagnosability.md) — related
 - [Students diagnose mistakes in which principles they invoked far more readily than mistakes in how principles were applied](invoking-easier-to-diagnose-than-applying.md) — related
 - [Productive use of assumptions simplifies problem solving and helps determine which principles apply](assumptions-simplify-problem-solving.md) — related
+- [The LSRC paradigm addressed learning but not practice or reinforcement, leaving students unable to apply concepts, especially in reasoning-heavy subjects](lsrc-learning-without-practice-gap.md) — related

@@ -72,3 +72,4 @@ The article's worked example: if only African American can be included as a vari
 - [Learning conditions worsen slightly but significantly over a school year absent intentional efforts to improve them](learning-conditions-worsen-over-school-year.md) — related
 - [Model accuracy of vision-based proctoring systems can vary across demographics, lighting conditions, and hardware setups, potentially disadvantaging some students](proctoring-accuracy-demographic-bias.md) — related
 - [Anonymity in computer-mediated collaboration can produce a stronger group identity than non-anonymous face-to-face situations](anonymity-strengthens-group-identity-cscl.md) — related
+- [Adding demographics slightly worsens assessment-based simulation, and demographics-only simulation drops heavily](demographics-limited-value-with-assessment-history.md) — related

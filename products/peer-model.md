@@ -36,3 +36,4 @@ The PEER Model is an evidence-based framework introduced and empirically tested 
 - Krstić, K., Nikitović, T., Altaras Dimitrijević, A., Jolić Marjanović, Z., Jošić, S., Mojović, K., Baucal, A. (2025). An Evidence-Based Framework for Training Students' Collaborative Problem-Solving Skills: Introducing and Testing the PEER Model. https://osf.io/rstwe/
 - Hutton John S, Huang Guixia, Phelan Kieran J, DeWitt Thomas, Ittenbach Richard F. (2018). Shared reading quality assessment by parental report: preliminary validation of the DialogPR. BMC Pediatrics. https://doi.org/10.1186/s12887-018-1298-1
 - Shams El-Adawy, Scott V. Franklin, and Eleanor C. Sayre. (2023). Emerging Physics Education Researchers' Growth in Professional Agency: Case Study. https://arxiv.org/abs/2307.06149
+- Shams El-Adawy, Cydney Alexis, Eleanor C. Sayre. (2023). Emerging STEM education researchers' positioning and perception of discipline-based education research. https://arxiv.org/abs/2308.04401

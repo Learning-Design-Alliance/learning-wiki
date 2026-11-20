@@ -53,3 +53,4 @@ Regression and ANCOVA analyses across the 15 sections testing alignment scores (
 - [Students' higher-order cognitive skills improve over a semester of introductory biology instruction regardless of instruction type](semester-biology-instruction-improves-higher-order-skills.md) — related
 - [After controlling for Bloom’s level, question familiarity had no effect on MLab exam performance, while Bloom’s level was a significant predictor](bloom-level-predicts-familiarity-does-not.md) — related
 - [RTOP scores correlate with assessment Bloom scores and with student participation rates](rtop-correlates-assessment-bloom-and-participation.md) — related
+- [Most analyzed papers align personalized gamification with high-level rather than low-level Bloom's taxonomy thinking skills](bloom-taxonomy-alignment-high-level-thinking.md) — related

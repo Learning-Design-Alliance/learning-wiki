@@ -80,3 +80,4 @@ The review reports Harrington et al. (2025) found that, despite identical instit
 - [Female students were more ethically sensitive than male students regardless of educational context group](females-more-ethically-sensitive.md) — related
 - [Student perceptions of AI technology may negatively influence satisfaction with synthetic voices](ai-perception-affects-satisfaction.md) — related
 - [In this Chinese medical-student sample, gender did not produce negative bias against female teachers, in contrast to findings reported from Western higher education](no-gender-bias-chinese-medical-set.md) — related
+- [No demographic differences emerged in teachers' perceived benefits, concerns, or trust in AI-EdTech by age, gender, education, or subject](no-demographic-differences-teacher-trust-ai.md) — related

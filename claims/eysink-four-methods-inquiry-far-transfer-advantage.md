@@ -70,3 +70,4 @@ A follow-up think-aloud study (N = 40) using the same four environments found st
 - [Hypermedia learners show the lowest total engagement in learning processes, devoting most processing to superficial activities](hypermedia-lowest-total-process-engagement.md) — related
 - [Guided discovery outperformed both unguided discovery and direct instruction in classic studies](guided-discovery-outperformed-both-extremes.md) — a broader claim this one bears on
 - [The elaboration intervention is necessary for far transfer: only the group with instructional support outperformed control on the complex transfer task](elaboration-intervention-necessary-far-transfer.md) — a narrower finding that bears on this claim
+- [Guided inquiry in chemistry actively involves students, increases learning independence, and is associated with higher learning achievement](guided-inquiry-advantages-achievement.md) — related

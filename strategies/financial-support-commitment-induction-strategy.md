@@ -46,6 +46,7 @@ Residencies offer living stipends, tuition remission, and loan forgiveness in ex
 - [Deploy service scholarships, loan forgiveness, and teacher residencies to staff high-need fields and schools](service-scholarships-residencies-staffing-strategy.md)
 - [Fund residents with stipends and halve tuition to make a yearlong coteaching residency financially accessible](stipends-and-tuition-subsidy-for-residency-access.md)
 - [Provide sufficient financial support — stipend, tuition, scholarships and health benefits — to remove financial barriers to PhD entry and retention](financial-support-bridge-retention-strategy.md)
+- [Provide participant stipends and free materials to remove financial barriers and reach socioeconomically diverse participants](qcamp-stipends-free-materials-diversity-strategy.md)
 
 ## Examples
 -

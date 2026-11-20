@@ -64,6 +64,7 @@ Strategy instruction paired with metacognitive reflection reliably improves prob
 - [Action Planning](action_planning.md) — the planning half of the self-regulation cycle that strategy use completes
 - [Use staged problem-solving reflection assignments to build metacognition around LLM use and surface student help-seeking perspectives](staged-problem-solving-reflections-llm-use.md)
 - [Explicitly teach and intensively practice self-regulated strategies in speaking classes](explicitly-teach-srl-strategies-speaking-classes.md)
+- [Use student error tasks in tandem with traditional problem-solving exercises, in class or on exams, to foster metacognitive skills](error-tasks-tandem-problem-solving-strategy.md)
 
 ## Examples
 - A math lesson built around a problem designed to make students feel "stuck," followed by a debrief where students name moves ("draw a picture," "work backwards," "try a smaller case") that are added to a class strategy chart.

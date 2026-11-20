@@ -54,6 +54,7 @@ The article recommends leveraging the eye-mind link so that "simulation-based le
 - [Use gaze-based automated strategy identification for teacher dashboards and personalized feedback in online statistics learning](gaze-based-teacher-dashboards-feedback.md)
 - [Embed eye-tracking heatmap review into simulation debriefing to give situation-awareness-focused feedback](eye-tracking-heatmap-debriefing-strategy.md)
 - [Use cognitive feedback showing cue–outcome relationships to improve nurses' risk judgement](cognitive-feedback-clinical-judgement-strategy.md)
+- [Design adaptive online learning interventions that model and visualize peer attention to optimize student attentiveness](peer-attention-visualization-intervention-strategy.md)
 
 ## Examples
 -

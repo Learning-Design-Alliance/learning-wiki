@@ -89,6 +89,7 @@ Inquiry supports learning by engaging learners in knowledge construction, which 
 
 **[Class Discussion](class-discussion.md) with discrepant events** — Instructor presents a demonstration whose outcome contradicts learners' predictions, then facilitates discussion where learners reconcile evidence with prior beliefs.
 - [Implement four-phase scientific inquiry with conceptual change in physics lessons](../strategies/four-phase-scientific-inquiry-conceptual-change-strategy.md)
+- [Use an open problem with discrepant data to scaffold student knowledge construction in the laboratory](../strategies/open-problem-discrepancy-knowledge-construction.md)
 
 ## Key Sources
 - Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning: A response to Kirschner, Sweller, and Clark (2006). *Educational Psychologist, 42*(2), 99–107. [doi:10.1080/00461520701263368](https://doi.org/10.1080/00461520701263368)

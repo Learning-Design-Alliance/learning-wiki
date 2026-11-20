@@ -81,6 +81,7 @@ New learning is stored in relation to existing knowledge structures; when releva
 - [Check context familiarity by asking the class to share what they know about a problem's context before working on it](share-context-knowledge-before-problem-solving.md)
 - [Activating and Using Background Knowledge](activating_and_using_background_knowledge.md) — variant that pairs activation with immediate application of what is recalled
 - [Embed the KWL strategy across inquiry phases to guide question generation and question-quality monitoring](kwl-integrated-inquiry-question-generation.md)
+- [Instructors can facilitate activation and sharing of known shared resources when students do not spontaneously activate them](facilitate-activation-of-shared-resources.md)
 
 ## Examples
 - **KWL charts ([Ogle, 1986](https://doi.org/10.1598/rt.39.6.11))** — Learners record what they *Know*, what they *Want* to know, and later what they *Learned*; widely used in reading instruction to structure activation before and reflection after a text.

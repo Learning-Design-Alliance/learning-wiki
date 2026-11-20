@@ -65,3 +65,4 @@ Follow-up analysis across Essay 3 submissions after the instructor explained rot
 ## Related Claims
 - [The stellar-dimming conceptual question in Essay 3 was the least successful, with only 36% of responses correct and 21% of students misinterpreting the question as asking about the duration of dimming](dimming-question-least-successful-misinterpretation.md) — related
 - [91% of Essay 1 students understood how orbital orientation affects whether a transit occurs, but only 55% of those correctly predicted the effect on transit duration](orbital-orientation-understood-duration-partially.md) — related
+- [Displaying peer attention regions reduces inattention and confusion durations during online video learning](peer-attention-reduces-inattention-confusion.md) — related

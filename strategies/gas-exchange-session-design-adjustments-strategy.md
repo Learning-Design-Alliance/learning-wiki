@@ -42,6 +42,7 @@ Free-text survey responses yielded concrete adjustments for implementing the pro
 - [Improve transmedia-curriculum professional development with classroom observation, Q&A-only webinars, and later scheduling](tec-pd-improvement-suggestions.md)
 - [Facilitate sessions with a welcoming environment, probing questions, and structured pauses](facilitation-protocol-probing-questions.md)
 - [Use questionnaire-driven iteration between flipped sessions to adjust difficulty and teacher scaffolding](questionnaire-driven-iteration-between-flipped-sessions.md)
+- [Adjust lab logistics responsively to student feedback: provide a submission window after lab sessions and form gender-balanced groups with freedom of choice](responsive-lab-logistics-strategy.md)
 
 ## Examples
 -

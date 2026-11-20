@@ -44,6 +44,7 @@ The authors recommend deploying simulated small-group sections as a supplement t
 - [Use ANN-based adaptive feedback to provide scalable, process-oriented real-time feedback at scale in higher education](scalable-ann-feedback-strategy.md)
 - [Use screen-based 360° contextual simulation videos as a scalable supplement when supervised practice opportunities are constrained](360-video-scalable-supplement-nursing.md)
 - [Deploy the diagnostic module as a supplement to any instruction strategy, from traditional to highly interactive](diagnostic-module-as-instruction-supplement.md)
+- [Deliver scalable automated talk-move feedback to online instructors as a complement to professional development](automated-talk-move-feedback-strategy.md)
 
 ## Examples
 -

@@ -83,3 +83,5 @@ Interrater reliability analysis on an out-of-sample comparison dataset of 134 do
 - [A mastery-based grading rubric produces consistent scores when used by untrained graders, with Cohen's kappa of 0.95](ccmi-grading-rubric-untrained-grader-reliability.md) — related
 - [Fine-tuning the discourse classifier on RST-DT-style segments reconciles the PDTB–RST framework mismatch and raises accuracy from 65.7% to 81.1%](rst-style-finetuning-raises-relation-accuracy.md) — related
 - [Fine-tuned ELECTRA classifies Gibbs cycle phases in reflective sentences, with top-3 predictions reaching up to 98% F1](papagai-electra-gibbs-cycle-top3-f1-098.md) — related
+- [Trained logistic-regression coefficients align with the human coding scheme's inclusion and exclusion criteria](model-coefficients-align-with-coding-scheme-criteria.md) — related
+- [SRL behaviors can be reliably hand-coded from out-of-the-box automated think-aloud transcriptions](whisper-transcripts-srl-coding-feasibility.md) — related

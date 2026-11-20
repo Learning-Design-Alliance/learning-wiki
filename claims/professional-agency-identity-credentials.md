@@ -49,3 +49,4 @@ Thematic analysis of designer narratives in the study; participants reported tha
 - [Students' GenAI use is ethically negotiated, with decisions emerging from intersecting personal integrity, institutional rules, fear of punishment and practical constraints](genai-use-ethically-negotiated-entangled.md) — related
 - [TBL fosters professional identity development](tbl-fosters-professional-identity.md) — related
 - [Prior student experience and possessing a professional credential did not influence students' higher self-efficacy values](prior-experience-credential-no-self-efficacy-influence.md) — related
+- [Negotiators experience unsettlement about where DBER fits within their professional lives, negotiating positioning, professional identity, and tension with STEM disciplines](negotiators-dber-unsettlement-positioning.md) — related

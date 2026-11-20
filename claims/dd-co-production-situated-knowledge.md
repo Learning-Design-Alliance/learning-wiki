@@ -73,3 +73,4 @@ Theme 2 of the same interview study reports an "interactive information exchange
 - [Faculty organized EdTech integration decisions in ways aligned with the principles](dexter-2023-faculty-decisions-aligned-principles.md) — related
 - [Uniting deliberate and aware epistemological perspectives is argued to benefit teachers' contextualized knowledge development, especially early in the career](uniting-epistemological-perspectives-benefits-teacher-knowledge.md) — related
 - [Stakeholder participants largely endorsed that the co-designed pedagogical design principles foster learning and motivation towards STEM](fg2-member-check-endorses-stem-design-principles.md) — related
+- [The article argues that traditional STEM ethics courses often fail to produce significant changes in ethical awareness and behavior, motivating humanities-informed curricula](traditional-ethics-courses-limited-behavior-change.md) — related

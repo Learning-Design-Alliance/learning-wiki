@@ -71,3 +71,4 @@ Thematic analysis of MD open-ended survey feedback on technological characterist
 - [Qualitative findings indicate SVVR immersion enhanced engagement, concentration, perceived realism, patient assessment, clinical decision-making, and interdisciplinary collaboration](qualitative-immersion-enhanced-engagement-realism.md) — related
 - [Digital learning platforms and virtual learning environments enhance knowledge retention and flexibility in orthodontic education](digital-platforms-enhance-orthodontic-knowledge-retention.md) — a broader claim this one bears on
 - [Student reflections identified understanding, motivation, flexibility, and feedback as key benefits of the online modules](student-reflections-positive-module-themes.md) — related
+- [Students gave positive feedback on the MKID laboratory course, which became the primary student-led initiative in the new laboratory course](positive-student-feedback-mkid-course-student-led.md) — related

@@ -127,3 +127,5 @@ Observational and interview study of four after-school sites; educators reported
 - [Students with disabilities report that STEM course practices create barriers to effectively engaging with class content](stem-course-barriers-engaging-content-disabilities.md) — related
 - [Students reported negative DGE experiences: technical issues, difficulty typing mathematical equations, and gaps in prerequisite knowledge](negative-dge-experiences-technical-prerequisite.md) — related
 - [No reviewed framework directly addresses the six main barriers to adoption of immersive technologies in education identified by the State of XR Report](frameworks-do-not-address-adoption-barriers.md) — related
+- [Google Colab notebooks proved a challenging coding interface for teenage learners in the bootcamp](google-colab-challenging-coding-interface-teens.md) — related
+- [Students in the Julia-based course did not find setting up the environment or learning Julia syntax to be significant activation barriers](julia-setup-syntax-not-activation-barriers.md) — related

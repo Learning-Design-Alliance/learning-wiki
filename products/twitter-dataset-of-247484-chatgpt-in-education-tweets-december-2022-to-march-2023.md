@@ -27,4 +27,4 @@ A corpus of English-language education-related tweets mentioning ChatGPT, collec
 -
 
 ## Key Sources
-- Li, L., Ma, Z., Fan, L., Lee, S., Yu, H., & Hemphill, L. (2023). ChatGPT in education: A discourse analysis of worries and concerns on social media. https://www.sciencedirect.com
+- Li, L., Ma, Z., Fan, L., Lee, S., Yu, H., & Hemphill, L. (2023). ChatGPT in education: A discourse analysis of worries and concerns on social media. https://www.sciencedirect.com. [doi:10.1007/s10639-023-12256-9](https://doi.org/10.1007/s10639-023-12256-9)

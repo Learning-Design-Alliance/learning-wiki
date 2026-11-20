@@ -1,0 +1,70 @@
+---
+type: claim
+title: "Ruffle&Riley, teacher QA and LLM QA chatbots and reading show no significant post-test differences in a between-subject online study"
+description: "Ruffle&Riley, teacher QA and LLM QA chatbots and reading show no significant post-test differences in a between-subject online study"
+id: rr-no-posttest-difference-four-conditions
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-19
+evidence_strength: moderate
+newest_evidence: 2023
+sources:
+  - id: robin-schmucker-2023
+    resource: "https://doi.org/10.48550/arXiv.2310.01420"
+    title: "Robin Schmucker, Meng Xia, Amos Azaria, Tom Mitchell. (2023). Ruffle&Riley: Towards the Automated Induction of Conversational Tutoring Systems. NeurIPS'23 Workshop on Generative AI for Education (GAIED). [doi:10.48550/arXiv.2310.01420](https://doi.org/10.48550/arXiv.2310.01420)"
+    author: Robin Schmucker, Meng Xia, Amos Azaria, Tom Mitchell
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
+  - id: robin-schmucker-2023-2
+    resource: "https://doi.org/10.48550/arXiv.2310.01420"
+    title: "Robin Schmucker, Meng Xia, Amos Azaria, Tom Mitchell. (2023). Ruffle&Riley: Towards the Automated Induction of Conversational Tutoring Systems. NeurIPS'23 Workshop on Generative AI for Education (GAIED). [doi:10.48550/arXiv.2310.01420](https://doi.org/10.48550/arXiv.2310.01420)"
+    author: Robin Schmucker, Meng Xia, Amos Azaria, Tom Mitchell
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# Ruffle&Riley, teacher QA and LLM QA chatbots and reading show no significant post-test differences in a between-subject online study
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` A one-way ANOVA did not detect significant differences in post-test scores among the reading, TQA, LQA and R&R conditions. [→ Robin Schmucker 2023](#robin-schmucker-2023)
+`q2 i?` Descriptively, R&R participants scored somewhat higher (5.19 ± 0.25) than TQA participants (4.14 ± 0.83), though not significantly. [→ Robin Schmucker 2023 (2)](#robin-schmucker-2023-2)
+
+## Evidence
+
+### Robin Schmucker 2023
+
+Robin Schmucker, Meng Xia, Amos Azaria, Tom Mitchell. (2023). Ruffle&Riley: Towards the Automated Induction of Conversational Tutoring Systems. NeurIPS'23 Workshop on Generative AI for Education (GAIED). [doi:10.48550/arXiv.2310.01420](https://doi.org/10.48550/arXiv.2310.01420)
+
+`q2 · i?` · `causal · r2`
+
+Between-subject online user study via Prolific; after attention-check filtering, 58 participants remained across reading, TQA, LQA and R&R conditions. The article reports "A one-way ANOV A did not detect significant differences in post-test scores among the four conditions" on a seven-question multiple-choice post-test; no effect size is printed.
+
+> "A one-way ANOV A did not detect significant differences in post-test scores among the four conditions. Therefore, we find support for H1b but not for H1a."
+
+### Robin Schmucker 2023 (2)
+
+Robin Schmucker, Meng Xia, Amos Azaria, Tom Mitchell. (2023). Ruffle&Riley: Towards the Automated Induction of Conversational Tutoring Systems. NeurIPS'23 Workshop on Generative AI for Education (GAIED). [doi:10.48550/arXiv.2310.01420](https://doi.org/10.48550/arXiv.2310.01420)
+
+`q2 · i?` · `causal · r2`
+
+Same study's descriptive post-test means with standard errors: "participants in R&R achieved somewhat higher scores (5.19 ± 0.25) than in TQA (4.14 ± 0.83)". These are untested descriptive values; no effect size is printed.
+
+> "Even though not significantly different, we observed that participants in R&R achieved somewhat higher scores (5.19 ± 0.25) than in TQA (4.14 ± 0.83)."
+
+## Discussion
+
+
+## Related Claims
+- [Log analysis: R&R learners used different teaching strategies, requested little help, and conversational learning took longer than reading](rr-log-analysis-strategies-help-time.md) — related
+- [Ruffle&Riley produced a significantly more coherent conversation than the LLM QA chatbot and more enjoyment than both QA chatbots](rr-coherence-enjoyment-advantage.md) — related
+- [Ruffle&Riley rated significantly more helpful than QA chatbots for understanding, remembering and support](rr-rated-more-helpful-than-qa-chatbots.md) — related
+- [No significant differences among chatbot conditions in engagement or perceived interruption](rr-no-engagement-interruption-differences.md) — related

@@ -72,3 +72,4 @@ Post-programme attitudinal results from the three-week Indonesian intervention (
 - [Fast 30% of minor-subject students reported having had no interest in physics before beginning their studies](minor-subject-students-no-physics-interest.md) — related
 - [Both male and female students' physics self-efficacy and interest declined from the beginning to the end of the course, with female students declining more](self-efficacy-interest-decline-pre-post-females-more.md) — related
 - [Both genders showed equal interest and enthusiasm in learning science, with no gender influence observed](equal-gender-interest-lower-primary-science.md) — related
+- [Correct associations of Einstein with relativity rise from 48.6% to 90.7% post-intervention, though 62.5% of incorrect pre-responses linked him to the light-bulb or electricity](einstein-familiarity-gains-q5.md) — related

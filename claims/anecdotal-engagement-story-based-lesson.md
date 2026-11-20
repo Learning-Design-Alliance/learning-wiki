@@ -48,3 +48,4 @@ Authors' informal observation during the single pilot lesson, reported as anecdo
 - [Teacher observations indicated sustained engagement in cartoon lessons versus diminishing excitement and reported boredom in bibliotherapy lessons](cartoon-lessons-engagement-versus-bibliotherapy-boredom.md) — related
 - [Experienced teachers can deduce student engagement profiles from visual observation, while beginning teachers struggle](experienced-teachers-deduce-engagement-profiles-visually.md) — related
 - [Positive Greetings At The Door Improve Engagement](positive-greetings-at-the-door-improve-engagement.md) — related
+- [A scatter plot of content quality versus engagement shows a favorable link between high-quality content including visual data and stories and enhanced engagement](content-quality-engagement-scatter-plot.md) — related

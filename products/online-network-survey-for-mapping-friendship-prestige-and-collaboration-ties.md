@@ -32,4 +32,4 @@ An online roster-based survey developed by Javier Pulgar et al. for measuring di
 
 ## Key Sources
 - Javier Pulgar, Diego Ramírez, Abigail Umanzor, Cristian Candia, Iván Sánchez. (2022). Long-term collaboration with strong friendship ties improves academic performance in remote and hybrid teaching modalities in high school physics. arXiv. https://arxiv.org/abs/2203.05638
-- Sundstrom, M., Simpfendoerfer, L. N., Tan, A., Heim, A. B., & Holmes, N. G. (2024). Who and what gets recognized in peer recognition. arXiv. https://arxiv.org/abs/2305.02415
+- Sundstrom, M., Simpfendoerfer, L. N., Tan, A., Heim, A. B., & Holmes, N. G. (2024). Who and what gets recognized in peer recognition. arXiv. https://arxiv.org/abs/2305.02415. [doi:10.1103/physrevphyseducres.20.010127](https://doi.org/10.1103/physrevphyseducres.20.010127)

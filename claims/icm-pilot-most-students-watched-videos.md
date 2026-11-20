@@ -47,3 +47,4 @@ Case observation of the first inverted session of the Higher Mathematics 3 pilot
 ## Related Claims
 - [Students primarily prepare for Clinical Skills Lab learning stations by watching instructional videos at home and concentrate on hands-on practice at the CSL](home-video-preparation-then-hands-on-csl.md) — related
 - [Students used the online lectures far more than the assigned readings, citing lack of time as the main barrier](lecture-use-high-reading-use-low.md) — related
+- [About one third of students reported technical issues installing or using the tool, mostly related to the 2022 desktop application](vector-field-tool-technical-issues-one-third.md) — related

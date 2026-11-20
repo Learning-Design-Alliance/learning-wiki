@@ -43,6 +43,7 @@ In the tutorial's guided questions, a first hint presents a hypothetical discuss
 - [Hint Design](hint-design.md)
 - [Scaffolded Practice Sequences](scaffolded-practice-sequences.md)
 - [Give Hints and Clues to Help Students Answer Questions](give_hints_and_clues_to_help_students_answer_questions.md)
+- [Provide the AI scaffold after independent work as a second opinion, or on demand for less motivated learners](ai-scaffold-second-opinion-on-demand.md)
 
 ## Examples
 -

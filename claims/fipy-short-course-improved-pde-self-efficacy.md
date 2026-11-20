@@ -47,3 +47,4 @@ Pre- and post-course survey of the remote two-day course; "A total of 9 students
 ## Related Claims
 - [Retrospective pre/post confidence rose on all four course learning objectives with large rank-biserial effects (N=159)](retrospective-confidence-gains-me373.md) — related
 - [Students’ prompt self-efficacy increased significantly after the scaffolded GenAI course (t = 3.729, p < .001)](prompt-self-efficacy-significant-increase.md) — a broader claim this one bears on
+- [A short course on computational thermodynamics produced a near-total increase in students' self-perceived confidence in mastering and applying computational thermodynamics concepts](computational-thermodynamics-course-confidence-increase.md) — related

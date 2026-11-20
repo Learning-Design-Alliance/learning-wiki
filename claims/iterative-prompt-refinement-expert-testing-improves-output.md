@@ -54,3 +54,4 @@ Author interpretation from the discussion section, supported by other studies sh
 - [The authors conclude the LLM-based simulator may be an accessible, cost-effective tool for clinical reasoning training, pending validation with objective outcomes](llm-simulator-accessible-cost-effective-pending-validation.md) — related
 - [Sysadmins shift from producing solutions to evaluating, correcting, and refining GenAI output, which still requires human expertise](sysadmin-expertise-shifts-to-validating-genai-output.md) — related
 - [LLM-based virtual patients never ask for clarification of ambiguous questions, tending to provide overly detailed responses](never-ask-clarification-overly-detailed-responses.md) — related
+- [Novice learners may struggle to identify ChatGPT errors or provide the prompt detail needed for high-quality output](novice-learners-struggle-to-spot-chatgpt-errors.md) — related

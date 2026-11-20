@@ -46,3 +46,4 @@ The review reports, citing Villani & Pacca (1987), that students "have problems 
 
 ## Related Claims
 - [Pre-service and future physics teachers show considerable difficulties with special relativity concepts such as proper time, time dilation, reference frames and events](teacher-alternative-conceptions-special-relativity.md) — related
+- [Students commonly view time as absolute and unaffected by the inertial observer](time-viewed-as-absolute-by-students.md) — possibly the same claim (merge candidate)

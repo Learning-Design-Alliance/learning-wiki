@@ -60,3 +60,4 @@ Synthesis of the Bangladesh Bureau of Statistics ICT Access and Use Survey FY202
 - [The imposition of e-learning during confinement created disproportionate limitations for older students, students in rural areas, and those with work and family responsibilities or limited electronic resources](e-learning-disadvantages-older-rural-family-students.md) — related
 - [Radio broadcasts have tremendous penetration among general publics without access to the internet in Latin America and other developing regions](radio-penetration-reaches-audiences-without-internet.md) — related
 - [Free or low-cost robotic telescope access equalises instrumentation access across socioeconomic and physical barriers](robotic-telescope-equity-access.md) — related
+- [One year after ChatGPT's release, introductory physics students still mostly use traditional internet resources rather than AI tools for homework](traditional-sites-beat-ai-in-help-seeking.md) — related

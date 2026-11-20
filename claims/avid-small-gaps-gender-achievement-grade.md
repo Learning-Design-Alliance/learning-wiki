@@ -53,3 +53,4 @@ Summary of measures by student type from the 2007 CPS AVID survey, comparing sta
 - Education Corps tutoring effects are stronger for boys (+0.33) than for girls (near zero), attributed to girls benefiting more from Tier 1 instruction — related
 - [AVID students in CPS report extremely high satisfaction with the program](avid-students-extremely-satisfied-cps-2007.md) — related
 - [Latino girls reported higher belonging and achievement than boys, and Latino subgroup and parent-education differences emerged in the sixth grade](latino-gender-subgroup-covariate-differences.md) — related
+- [Tenth-grade students are more likely than ninth graders to keep their original teammates and show higher team cooperation](tenth-graders-keep-original-groups-more.md) — related

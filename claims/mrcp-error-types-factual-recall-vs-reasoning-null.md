@@ -54,3 +54,4 @@ Two-proportion Z test on ChatGPT-4's 16 incorrect MRCP Part 1 questions (4 factu
 - [On a pre-course test, residency trainees in a nuclear medicine course scored above 90% on some conceptual items but below 65% on several treatment-application items, with wide variation across items](pre-course-test-reveals-application-deficit-traditional-teaching.md) — related
 - [The evaluated LLMs show higher accuracy on knowledge-based than case-based DUS questions, indicating a limitation in clinically oriented reasoning](llm-knowledge-beats-case-based-prosthodontics.md) — related
 - [Question type reliably accounts for variation in assessment performance within each test and combined](question-type-accounts-for-performance-variance.md) — related
+- [Teachers found it difficult to find questions ChatGPT-3.5 answers incorrectly because it is stronger on factual than conceptual questions](chatgpt35-factual-stronger-than-conceptual.md) — reports the opposite

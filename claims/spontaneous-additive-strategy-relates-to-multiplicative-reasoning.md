@@ -60,3 +60,4 @@ The exploratory design (n=31, single urban school, no control condition) limits 
 - [A student with learning difficulties independently anticipated where to start a coordinated count but failed to anticipate where to stop the unit-rate count with harder numbers](sld-anticipates-start-but-not-stop-in-mdc-hard-numbers.md) — related
 - Qualitative observations indicate Fraction Division transfer difficulty stemmed from weak connections between multiplicative/additive strategies and division, while Fraction Generalization difficulty stemmed from varied variable notation experience — related
 - [Understanding multiplication as counting in units is a crucial predictor of Grade 7 achievement](multiplication-counting-units-predicts-grade7-achievement.md) — related
+- [Doubling and halving activities with powers of two raised correct ancestor-counting scores to 85-96% in all three trials](powers-of-two-ancestor-counting-gains.md) — related

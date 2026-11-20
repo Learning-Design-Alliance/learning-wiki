@@ -40,6 +40,7 @@ The article's concluding recommendation identifies faculty as the critical lever
 
 - [Volunteer-first faculty recruitment with modeling of good practice rather than top-down mandates](volunteer-faculty-recruitment-modeling-practice.md)
 - [Design coaching programs as a systemic collective enterprise with shared vision, recruited and developed coaches, and continuous evaluation](systemic-coaching-program-design-six-pillars.md)
+- [Recruit competition organisers from former participants to renew the team and motivate current students](recruit-organisers-from-former-participants.md)
 
 ## Examples
 -

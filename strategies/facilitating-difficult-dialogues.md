@@ -66,6 +66,7 @@ Difficult dialogues work because productive discomfort — not comfort — drive
 - [Discussion-Based Learning](../principles/collaborative-learning.md) — the broader family of which difficult dialogues are the high-stakes subset
 - [Facilitate cognitive disequilibrium about ethnocentric views](facilitate-cognitive-disequilibrium.md)
 - [Use debates on controversial clinical issues as active-learning tools for higher-order thinking](debate-ethical-issues-active-learning.md)
+- [PD facilitation design that distances collaborative content discussion from assessment contexts](distancing-pd-task-from-assessment-framing.md)
 
 ## Examples
 - **University of Michigan Program on Intergroup Relations** ([igr.umich.edu](https://igr.umich.edu)) — semester-long intergroup dialogue courses pairing identity groups with trained facilitators; the most-studied implementation of the strategy

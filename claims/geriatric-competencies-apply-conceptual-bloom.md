@@ -67,3 +67,4 @@ Results-section distribution of the cognitive process dimension across the 257 c
 - [Geriatric core competencies for physicians, medical students, and nurses most frequently cover disease and comorbidities, pharmacologic/medication management, and cognitive/dementia problems](most-frequent-geriatric-competencies-disease-medication-cognition.md) — related
 - [The most emphasized geriatric core competencies fall under the ACGME 'patient care' category](geriatric-competencies-map-to-acgme-patient-care.md) — related
 - [Grading time varied systematically with Bloom's taxonomy category: procedural knowledge was fastest to grade and conceptual knowledge slowest](grading-time-varies-with-bloom-taxonomy-category.md) — related
+- [Most learning outcomes in Miami University's cybersecurity curriculum sit at the low Bloom's Taxonomy levels of Remember, Understand, and Apply](cybersec-curriculum-los-low-bloom-distribution.md) — related

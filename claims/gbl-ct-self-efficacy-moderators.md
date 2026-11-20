@@ -77,3 +77,4 @@ Wilcoxon Signed-Rank subgroup tests in the same one-group study. Significant inc
 - [Male students scored significantly higher than female students in spatial and intrapersonal intelligence](gender-differences-spatial-intrapersonal.md) — related
 - [Female students showed significantly higher learning gain, usability adjective ratings and educational experience than male students, but the SUS difference was not significant](ethics-game-gender-differences-favor-females.md) — related
 - [Male Podium Players showed larger average self-efficacy change than female Podium Players, contradicting the vicarious-experience hypothesis](podium-players-gender-change-contradicts-hypothesis.md) — related
+- [Female-identifying students started lower on self-efficacy items and saw smaller increases, with the PhIS4 shift barely meeting p < 0.05 and the PhIS5 shift not significant](self-efficacy-gains-smaller-for-female-students.md) — related

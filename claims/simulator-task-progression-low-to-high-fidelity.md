@@ -50,3 +50,4 @@ Analysis of Excerpt 1, a video-recorded interactional sequence in the simulator-
 - [VET teachers use body gestures and pointing to recreate the three-dimensional machine space represented two-dimensionally on the simulator screen.](teacher-gestures-recreate-3d-space-on-2d-screen.md) — related
 - [VET teachers use the real machine as the benchmark of legitimacy for simulator instruction and shift between teacher and future-colleague positions.](real-machine-benchmark-and-colleague-positioning.md) — related
 - [Simulator-based VET instruction in this study centres on volume training of routine tasks rather than rehearsing specific high-stakes, risky situations.](vet-simulator-instruction-volume-training-not-high-stakes.md) — related
+- [The lesson uses a simplified qubit model with real coefficients interpretable as circle coordinates, deliberately avoiding complex-number formalism](simplified-real-coefficient-qubit-model.md) — related

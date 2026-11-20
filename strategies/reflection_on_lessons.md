@@ -66,6 +66,7 @@ Reflection functions as self-regulated professional learning: teachers who monit
 - [New teachers should diagnose problem areas with reflection, mentoring, self-assessment, observation of experts, and video review](new-teacher-management-problem-identification-strategy.md)
 - [Review evidence of learning at three points: before, during, and after the lesson](three-evidence-review-points-strategy.md)
 - [Integrate planning, monitoring and reflecting strategies systematically into early-childhood lesson design](embed-planning-monitoring-reflecting-early-childhood-lessons.md)
+- [Run structured debrief sessions after each lesson module during teacher camps so teachers can reflect, adapt lessons, and surface needed adjustments](qcamp-teacher-debrief-sessions-strategy.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — instructional coaching externalizes and challenges reflection, guarding against biased self-assessment

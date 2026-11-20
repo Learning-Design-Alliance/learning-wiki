@@ -76,3 +76,4 @@ Reliability analysis of a single Gemini-Flash judge scored n=3 times across thir
 - [Substantial within-model output instability was identified, most notably GPT-5.2 in female urology (SD ±22.8%) and anatomy (SD ±14.2%)](llm-output-instability-female-urology-anatomy.md) — related
 - [The very narrow GEARS score range (SD < 0.5) limits the rubric's utility for identifying a competency inflection point](gears-narrow-score-range-limits-competency-threshold.md) — related
 - [GPT-4 grading shows high score variability across repeated rounds, especially for numerical correctness](gpt4-grading-score-variability.md) — related
+- [LLM student simulation is robust across repeated runs with non-deterministic temperature settings](llm-simulation-robustness-across-runs.md) — related

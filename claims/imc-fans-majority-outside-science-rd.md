@@ -71,3 +71,6 @@ Profession breakdown of the 71 fans (Figure 5) shows IT is the most populated gr
 - [Former Masterclass participants report a positive shift in their attitude towards science and research](imc-positive-attitude-shift-science.md) — related
 - [The authors conclude Masterclasses have a nudging effect on participants open to a scientific career and function as cultural transfer beyond particle physics](imc-nudging-effect-and-cultural-transfer.md) — related
 - [Most surveyed young HEP practitioners report being influenced by Masterclasses towards particle physics, including six who had no prior ambition](imc-practitioners-influenced-toward-particle-physics.md) — related
+- [Most former Masterclass respondents build careers outside science or R&D, most frequently in IT](imc-careers-spread-across-professions.md) — reports the opposite
+- [Former Masterclass participants report that the event influenced their later choice of physics or a related subject](imc-influenced-physics-choice-35-percent.md) — related
+- [Planned professions stated right after a Masterclass largely match respondents' actual later careers](imc-planned-vs-actual-career-diagonal.md) — related

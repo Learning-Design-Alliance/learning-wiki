@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: mixed
 newest_evidence: 2021
+source_checked: 2026-11-20
 sources:
   - id: postiglione-a-and-de-angelis-i-2021
     resource: "https://doi.org/10.1088/1361-6552/abd1c4"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only 3% of the sample chose the distractor 'a force that points downward' after the activity, and this answer disappeared at four months. [→ Postiglione A and De Angelis I 2021](#postiglione-a-and-de-angelis-i-2021)
@@ -71,3 +72,4 @@ Post-questionnaire item on the source of space-time deformation. The authors sta
 - [Explicitly addressing the rubber sheet's downward-gravity misconception was effective: only 3% of students chose the 'force that points downward' distractor after the activity](explicit-misconception-addressing-3-percent-distractor.md) — related
 - [The RSA activity helps high school students visualize, comprehend and remember Newtonian gravity and GR topics better than a traditional treatment](rsa-activity-improves-gravity-comprehension.md) — a broader claim this one bears on
 - [Year 7 Einsteinian gravity instruction conflicted with concurrent Euclidean geometry teaching, producing persistent confusion](year-7-euclidean-geometry-conflict-curved-space.md) — related
+- [Describing gravity as spacetime curvature increases markedly only in Years 10, 12 and 13, and the intervention fails to dispel force-based misconceptions overall](curvature-source-gravity-only-upper-years.md) — related

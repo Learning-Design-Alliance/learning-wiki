@@ -56,3 +56,4 @@ Document analysis of official university GenAI guidance pages across the 50-inst
 - [Students co-designing a GenAI course policy prioritized training for students and instructors, standardized disclosure procedures, and stronger institutional support](students-prioritize-training-disclosure-institutional-support-genai-policy.md) — related
 - [Strict AI prohibitions can intensify students' moral conflict without preventing AI use](strict-ai-prohibition-intensifies-moral-conflict.md) — related
 - [Both institutional and course-level guidance emphasize transparency and acknowledging or citing GenAI use, with 83% of syllabi providing explicit citation guidance](both-levels-emphasize-citation-transparency.md) — a narrower finding that bears on this claim
+- [Academic publishers permit declared GenAI use and AI-text detection tools show significant limitations, undermining prohibition-and-detection approaches](genai-publishers-permit-declared-use.md) — related

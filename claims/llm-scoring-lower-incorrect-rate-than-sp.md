@@ -53,3 +53,4 @@ Evidence snapshot section of a Viewpoint (the article describes itself as concep
 - [Multiagent framework demonstrated stable cross-specialty scalability with lower variability than single-LLM baseline](multiagent-stable-cross-specialty-scalability.md) — related
 - [Independent LLM evaluators agreed on agent rankings but differed markedly in leniency, with ceiling effects compressing between-agent discrimination](llm-evaluator-leniency-ceiling-effects.md) — related
 - [ChatGPT functioned effectively as an augmentation to traditional standardized patients but could not fully substitute for them](chatgpt-augments-not-replaces-sps.md) — related
+- [LLM scores are more consistent across trials than human scores, with GPT-4 using explanations showing the greatest confidence](llm-trial-consistency-exceeds-human-consistency.md) — related

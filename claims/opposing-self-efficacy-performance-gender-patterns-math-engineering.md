@@ -55,3 +55,4 @@ Combined analysis plotting effect sizes of gender differences in self-efficacy a
 - [Chemistry shows direct correspondence between self-efficacy and performance gender differences, with women higher on both](chemistry-self-efficacy-performance-alignment.md) — related
 - [Physics shows the most extreme self-efficacy/performance mismatch: men's self-efficacy advantage is much larger than their small grade advantage](physics-largest-self-efficacy-performance-mismatch.md) — related
 - [Women exhibited lower physics self-efficacy than men in all grade cohorts, and the gender imbalance increased with course grade](self-efficacy-gender-gap-increases-with-grade.md) — related
+- [For women, changes in physics self-efficacy and calculus self-efficacy track together; for men they do not](physics-calculus-selfefficacy-tracking-gender.md) — related

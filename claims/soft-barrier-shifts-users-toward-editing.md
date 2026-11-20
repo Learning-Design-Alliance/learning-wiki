@@ -50,3 +50,5 @@ Exploratory behavioral pilot with 18 participants using GPT-5.2 in a browser-bas
 - [Pass@1 is not a sufficient success metric for soft barriers because it conflates successful barriers with model generation failures](pass1-false-narrative-soft-barriers.md) — related
 - [Copying occurs on average about 12% of initial submissions nearly independent of ability, while low-ability students guess more than high-ability students](copying-12-percent-guessing-ability-dependent.md) — related
 - [Novices use AI code generators in varied patterns including copying task descriptions and submitting generated code unmodified](codex-usage-patterns-novices.md) — related
+- [Participants judge ChatGPT-generated code hard for novices to understand, yet expect non-proficient students to use it, suggesting reconfirmation of submissions](chatgpt-code-novice-comprehension-versus-expected-use.md) — related
+- [Participants' main strategy for using ChatGPT on programming tasks is copying the assignment's textual description into the tool and then adapting the retrieved code](chatgpt-copy-paste-assignment-description-strategy.md) — related

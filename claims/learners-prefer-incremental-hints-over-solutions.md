@@ -56,3 +56,7 @@ Participant quote from the four-week study's feedback data. Early in the study, 
 - [Adding hints to multiple-try feedback increases students' performance during the e-learning learning phase in an authentic university statistics course](hints-in-multiple-try-feedback-increase-learning-phase-performance.md) — related
 - [Students gave positive feedback on DPP and rated guided problem solving highly, but hints, chat, and participation-rate display were rated less useful](student-feedback-dpp-sceppsys.md) — related
 - [Pilot students requested clearer instructions, more accessible hints, and more mystery in escape room design](escape-room-improvement-suggestions.md) — related
+- [Most novice programmers (88%) preferred CodeTailor over receiving a direct AI-generated solution for learning](codetailor-preference-88-percent.md) — related
+- [Students applied more scaffolded practice elements independently on the posttest after using CodeTailor than after receiving an AI-generated solution](codetailor-higher-scaffolding-apply-rate.md) — a narrower finding that bears on this claim
+- [Novice programmers perceive CodeTailor's personalized Parsons puzzles as more engaging support than receiving a direct LLM-generated code solution](codetailor-more-engaging-than-ai-solution.md) — a narrower finding that bears on this claim
+- [Posttest programming scores did not differ significantly between CodeTailor support and receiving an AI-generated solution](codetailor-posttest-performance-null.md) — related

@@ -52,3 +52,4 @@ Theoretical-pedagogical argument in the section on problems of the conventional 
 - [None of the reviewed textbooks use the geometric approach, and nearly all order the derivation relativity-principle-first](textbooks-order-relativity-first-no-geometry.md) — related
 - [Standard textbook presentation of SHM as a differential equation is alien to most first-course students](shm-differential-equation-alien-to-introductory-students.md) — related
 - [The standard heuristic derivation is pedagogically undesirable because it is incomplete and its interpretation is confusing for students.](heuristic-derivation-pedagogically-undesirable.md) — related
+- [Students state the invariance of the speed of light correctly but fail to apply it, using the Galilean velocity addition formula instead](students-fail-apply-invariance-speed-light.md) — related

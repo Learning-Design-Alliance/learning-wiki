@@ -52,6 +52,7 @@ The authors recommend training students on prompt engineering before deploying G
 - [Teach prompt engineering before programming concepts, with scaffolded guidance for novices and exploratory approaches for advanced students](prompt-engineering-curriculum-integration-strategy.md)
 - [Train students in cooperative learning before applying cooperative techniques](train-students-before-cooperative-learning.md)
 - [Introduce SDM training with an explanatory flowchart of SDM steps before chatbot practice](sdm-flowchart-orientation-before-chatbot-practice.md)
+- [Use LLM chatbots as interactive tutors for mechanics concepts while verifying reliability and addressing ethics and bias](llm-chatbot-tutors-mechanics-with-verification-caveats.md)
 
 ## Examples
 -

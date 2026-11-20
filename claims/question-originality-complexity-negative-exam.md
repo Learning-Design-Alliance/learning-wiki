@@ -72,3 +72,4 @@ Hierarchical multiple regression on exam scores: Time 2 predictors raised total 
 - [Predictors of open-ended project performance showed a temporal reversal: early-semester DS-AQT complexity negatively predicted project performance while end-of-semester DS-AQT complexity positively predicted it](temporal-reversal-project-predictors.md) — related
 - [Students' activity within Lab4CE correlates positively with their learning achievement (r = 0.41, p = .002)](lab4ce-activity-achievement-correlation.md) — related
 - [The number of questions a student asked during TQ sessions significantly predicted final exam performance above reasoning ability and attendance](questions-asked-predict-final-exam.md) — related
+- [Changing the question solicitation script was associated with no change in the total number of questions asked by students](solicitation-script-no-change-in-total-questions.md) — related

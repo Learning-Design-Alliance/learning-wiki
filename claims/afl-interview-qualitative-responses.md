@@ -67,3 +67,4 @@ The interview analysis also recorded negative views from a minority: grade-free 
 - [Students trust and respect teachers who support them as learners through clear lessons, monitoring, feedback, and individualized support, not teachers who act as buddies](students-want-teachers-supporting-as-learners.md) — related
 - [K-12 students across five schools valued CyberScholar's detailed, specific, rubric-aligned feedback as helpful for identifying areas to revise](students-value-detailed-rubric-aligned-genai-feedback.md) — related
 - [Medical leads valued the ePortfolio as a way to systematically record and track students' progress and identify students needing remediation](eportfolio-tracked-student-progress-remediation.md) — related
+- [Flexibility in uptake and implementation of university materials was a responsive feature that gave teachers agency to adopt resources at their own pace](flexibility-in-uptake-gives-teachers-agency.md) — related

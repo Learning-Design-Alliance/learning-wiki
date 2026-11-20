@@ -13,7 +13,7 @@ generated:
 # Statistical Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 80 claims (54 show a difference, 21 mixed, 5 no difference) · 47 studies (22 causal, 6 qualitative, 6 design, 5 associational, 4 theoretical, 3 review, 1 quant-synthesis), `q1`–`q3` · 4 of 47 report an effect size · 80 claims rest on one study
+> **Evidence** · 81 claims (54 show a difference, 21 mixed, 6 no difference) · 48 studies (22 causal, 7 design, 6 qualitative, 5 associational, 4 theoretical, 3 review, 1 quant-synthesis), `q1`–`q3` · 4 of 48 report an effect size · 81 claims rest on one study
 
 ## Description
 Statistical reasoning is thinking about uncertainty and building mental models of real-world phenomena from data. The Learner Variability Navigator describes it as a cycle: learners pose a question about data, decide what data they need, gather it, organise, analyse and display it, and then describe what it shows and draw inferences to answer the question. It is assessed with questionnaires on understanding of variation (in chance settings such as dice, and in data and graphs) that pair multiple-choice items with written explanations, and with the data-analysis and probability subtests of diagnostic batteries.
@@ -119,6 +119,7 @@ LVN follows it from grade 3 to grade 10. It builds on [measurement](measurement.
 - [Students expect better data to narrow the distribution, most strongly for the Projectile Motion scenario](../claims/better-data-narrows-distribution-projectile-most.md) [~M] — measured as an outcome of the instruction studied
 - [Students who expect better data to leave the distribution unchanged justify this with inherent physical or measurement principles, mainly in quantum and distribution scenarios](../claims/principles-reasoning-better-data-stays-same.md) [~M] — measured as an outcome of the instruction studied
 - [Students who expect more data to narrow the distribution primarily justify this with purely statistical reasoning, suggesting a 'more data is better' heuristic](../claims/statistics-reasoning-more-data-narrow-heuristic.md) [+M] — measured as an outcome of the instruction studied
+- [ChatGPT's TUG-K responses show correct reasoning in 69.7% but correct visual interpretation in only 30.9%, with no significant association between the two](../claims/chatgpt-tug-k-reasoning-versus-vision-correctness.md) [-M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Statistical Variation Measure** (Watson et al., 2003): Questionnaire examining student understanding of statistical variation, including understanding of basic chance measurement and graph reading, variation in a chance setting (e.g., results of throwing a die), and variation in data and graphs. Students respond to multiple choice questions but also have space to explain their responses which allows for a more comprehensive measure of their understanding.

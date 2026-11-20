@@ -86,3 +86,4 @@ After one astrophysics professor kept her waiting months before reporting no fun
 - [Rejection from potential research groups, perceived as personal failing, undermined belonging and drove consideration of leaving](group-search-rejection-undermined-belonging-attrition-risk.md) — related
 - [Even the top students in a school can go almost unnoticed by adults in college planning, missing steering to selective colleges and relying on luck to find a good fit](top-students-unnoticed-college-planning.md) — related
 - [Two physics PhD students had drastically different experiences joining a research group in graduate school](drastically-different-phd-group-search-experiences.md) — a broader claim this one bears on
+- [Physics PhD students characterize joining a research group as a significant decision because of the advisor relationship, long-term commitment, career impact, and risk of leaving](joining-research-group-significant-decision-phd.md) — related

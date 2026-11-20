@@ -48,3 +48,4 @@ Repeated measures analysis of the three quizzes (weeks 5, 7 and 13) in the same 
 - [Pre-service teachers in an embedded-design inclusive education course recorded significantly higher pedagogical content knowledge posttest scores than peers in an applied-experience condition](embedded-design-higher-pck-posttest.md) — related
 - [The embedded design and applied experience groups did not differ significantly on the pretest of pedagogical content knowledge](no-pretest-difference-between-conditions.md) — related
 - [Accuracy differs significantly among the three intervention groups on the quiz, with graded values across groups](puzzle-intervention-groups-graded-quiz-accuracy.md) — related
+- [The cohort scored a mean quiz grade of 78.0 ± 12.4 out of 100](quiz-mean-grade-78-out-of-100.md) — related

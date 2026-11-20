@@ -50,3 +50,4 @@ Two-way ANOVA in a quasi-experimental 2×2 factorial study of fifth graders (exp
 - [Guided inquiry's advantage over conventional teaching holds for reflective but not impulsive students](guided-inquiry-advantage-reflective-only.md) — a narrower finding that bears on this claim
 - [Teaching model and cognitive style interact significantly in their effect on science achievement](teaching-model-cognitive-style-interaction.md) — related
 - [Fifth-graders taught with PAIKEM achieved higher mathematics learning results than those taught with conventional methods](paikem-outperforms-conventional-mathematics-outcomes.md) — related
+- [Guided inquiry produces higher cognitive learning outcomes than conventional learning in chemistry](guided-inquiry-higher-cognitive-outcomes.md) — related

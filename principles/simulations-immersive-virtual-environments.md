@@ -855,6 +855,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Attach skills-training models to a simulated patient so students attend to the person and practice communication during the procedure](../strategies/attach-model-to-simulated-patient-for-communication.md)
 - [Sequence learning from literature, through simulation, to authentication via real remote experiments](../strategies/simulate-then-authenticate-with-remote-experiment.md)
 - [Enriched distance-lab preparation scenario: a one-hour Skype session with OnLabs one to two days before the physical lab](../strategies/skype-onlabs-prelab-session-strategy.md)
+- [Deploy AI teacher models for guided practice with real-time feedback in writing, art, music, and VR/AR motor training](../strategies/ai-teacher-motor-domain-applications-strategy.md)
 
 ## Key Sources
 - Akcayir, M., & Akcayir, G. (2017). Advantages and challenges associated with augmented reality for education: A systematic review of the literature. *Educational Research Review, 20*, 1-11. [https://doi.org/10.1016/j.edurev.2016.11.002](https://doi.org/10.1016/j.edurev.2016.11.002)

@@ -251,3 +251,4 @@ The effectiveness of self-explanation can be limited by a learner's prior knowle
 - [Prior knowledge predicts how much students benefit from active-learning practices requiring self-constructed understanding; students with little prior knowledge often struggle](prior-knowledge-predicts-benefit-construction-based-learning.md) — related
 - [A new form of self-explanation was observed in which students compare their own solution to the expert's example solution](comparative-self-explanation-new-form.md) — related
 - [The authors hypothesize that explaining during small group time may lead students to wait for help rather than continue working through problems](explaining-may-not-promote-active-sense-making.md) — related
+- [Prompting LLMs to explain before answering improves their accuracy on mechanics conceptual questions](explanation-first-prompting-improves-llm-mechanics-accuracy.md) — related

@@ -75,3 +75,4 @@ Analysis of Zhimo's 1.5-hour interview shows his pragmatism was characterized by
 - [The competency model of AI literacy functions as a Freirean banking model, training users to adapt rather than transform](competency-model-as-banking-model.md) — related
 - [Despite a student's claims of purely human authorial agency, posthumanist analysis of his AI-mediated revision shows meaning co-produced through human-AI entanglement](zhimo-revision-meaning-negotiation.md) — related
 - [Three multilingual international students critically evaluated AI feedback, recognized peer-AI agreement, and maintained their voices while revising](multilingual-students-critically-evaluate-ai-feedback-pairr.md) — a broader claim this one bears on
+- [Students' attitudes toward AI shaped distinct preferences for how their AI interaction should be represented in usage reports](ai-attitudes-shape-report-preferences.md) — related

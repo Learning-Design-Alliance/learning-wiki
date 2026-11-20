@@ -56,6 +56,7 @@ The review identifies contextual conditions under which experiential nutrition e
 - [Implement sustained educator development programs including needs assessment, coaching, communities of practice, and experiential learning](educator-ai-development-support-programs.md)
 - [Education intervention programs should promote healthy dietary patterns and increase self-efficacy perceptions to support adolescent achievement](promote-mediterranean-diet-and-self-efficacy-intervention-strategy.md)
 - [School-based nutrition education, healthy food provision and smoking-prevention sessions to support adolescent achievement](school-nutrition-education-smoking-prevention-strategy.md)
+- [Attend to student characteristics, resource availability, and time allocation when implementing guided inquiry](guided-inquiry-implementation-conditions-strategy.md)
 
 ## Examples
 -

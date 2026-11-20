@@ -52,3 +52,4 @@ Blinded marking of AI-generated SQL submissions in the pilot quasi-experiment, w
 - [On descriptive analytical tasks ChatGPT produced logically structured work but lacked deep contextualization, domain-specific insights, and visual elements](chatgpt-descriptive-tasks-generic-outputs.md) — related
 - [The advanced o1 Preview model did not consistently outperform GPT-4, underperforming V3 on descriptive tasks](o1-preview-no-consistent-advantage.md) — related
 - [Very top-performing students outscored the AI essays, while the majority of the cohort performed comparably or worse](cohort-distribution-versus-ai-scores.md) — related
+- [ChatGPT scores 100% on most database-course labs but fails UML/ER diagram tasks, scoring 28.5/30 on midterm 1 and 17/30 on midterm 2](chatgpt-database-course-variable-performance.md) — related

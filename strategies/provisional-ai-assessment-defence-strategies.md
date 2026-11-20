@@ -50,6 +50,7 @@ The article recommends educators use its open-source code to run their own risk 
 - [Redesign assessments to require critical thinking, originality, interactive activities, and real-time or proctored formats](redesign-assessments-to-resist-chatgpt.md)
 - [Require process transparency artefacts: process logs, prompt records, reflective commentaries and oral defences](process-transparency-artefacts-strategy.md)
 - [Use a combined assessment approach: allow AI and internet access for an initial information-gathering phase, then shift to closed-book for independent synthesis](combined-open-then-closed-assessment-approach.md)
+- [Combine similarity detection using pre-generated AI answers with automatic application of instructor code-style heuristics to improve AI-code detection](combine-similarity-and-style-heuristics-detection.md)
 
 ## Examples
 -

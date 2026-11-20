@@ -166,3 +166,4 @@ The article reports, citing Liu et al. (2026), a randomized controlled trial in 
 - [LLM-assisted self-study yields higher post-intervention exam performance than traditional resources among early-career knowledge workers](llm-self-study-beats-traditional-resources-exam-performance.md) — related
 - [Teachers and students expect PAs to scaffold self-regulated learning by providing hints and questions rather than directly giving solutions](pa-scaffolding-hints-not-solutions.md) — related
 - [Exposure to AI-assisted training did not impair students' independent radiographic interpretation when AI support was removed](ai-training-did-not-impair-independent-interpretation.md) — related
+- [AI-assisted guided active reading lowers comprehension accuracy by 12% on average relative to manual writing, with the most variable (bimodal) outcomes across participants](ai-assisted-reading-accuracy-decline-bimodal.md) — related

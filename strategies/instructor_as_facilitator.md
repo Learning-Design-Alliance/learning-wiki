@@ -73,6 +73,7 @@ Facilitation works because it supports learners' basic psychological needs for a
 - [Position the teacher as facilitator of discussion who lets students struggle with problems and gives individualized feedback](teacher-as-facilitator-individualized-feedback-clinical-pbl.md)
 - [Tutor facilitation through four dynamic roles during group inquiry](tutor-four-role-dynamic-facilitation.md)
 - [Use weekly tutor feedback to move positive leaders toward a facilitation role and negative leaders toward positive leadership](weekly-tutor-feedback-to-shift-leader-roles.md)
+- [PD facilitation design that distances collaborative content discussion from assessment contexts](distancing-pd-task-from-assessment-framing.md)
 
 ## Examples
 - **Learner-centered teaching (Weimer, 2013)** — a framework in which the instructor progressively transfers responsibility for content, assessment, and course policies to students across a semester.

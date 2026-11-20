@@ -48,6 +48,7 @@ The authors recommend that educators use simulation as a complementary learning 
 - [Incorporate artificial intelligence and high-technology simulation methods into future oncology simulation research and practice](ai-enhanced-future-oncology-simulation.md)
 - [Use standalone VR for repeated self-directed skill maintenance between certification cycles](standalone-vr-skill-maintenance-strategy.md)
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
+- [Incorporate real-world situations and case studies into curricula to situate theoretical ideas in practical contexts](real-world-cases-situate-theory-strategy.md)
 
 ## Examples
 -

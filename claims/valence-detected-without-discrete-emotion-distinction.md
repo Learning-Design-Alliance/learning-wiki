@@ -71,3 +71,4 @@ Bonferroni-corrected pairwise t-tests on frustrated-instructor ratings in the sa
 - [Learners recognize an instructor's positive versus negative emotional tone in video lectures.](learners-recognize-instructor-emotional-tone-video.md) — a broader claim this one bears on
 - [On a multimodal transfer task, 33.1% of students recognized a deliberately reduced-valency humanitarian poster issue and linked it to an appropriate rhetorical effect](multimodal-poster-valency-rhetorical-transfer.md) — related
 - [The three-skill framework helps instructors diagnose whether student problems stem from discrete skill deficits or meta-strategic deficits (authors' experience)](framework-diagnoses-student-problems.md) — related
+- [Having choice over exercise objects raises the emotional valence of children's learning experience in the ITS](choice-raises-emotional-valence-learning-experience.md) — related

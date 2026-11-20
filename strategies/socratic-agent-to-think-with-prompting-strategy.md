@@ -53,6 +53,7 @@ The article's third session opened with a detailed prompt instructing the chatbo
 - [Students should treat GenAI as a critical dialogue partner, using informed, iterative prompting rather than collecting ready-made answers](treat-genai-as-critical-dialogue-partner.md)
 - [Design AI tutoring behaviors that withhold solutions, prompt recall, and ask critical questions](withhold-answers-prompt-recall-ask-questions.md)
 - [Socratic Questioning](socratic_questioning.md)
+- [Structure chatbot teacher-training activities as find a right and a wrong answer, guide improvement with questions, then reflect](chatgpt-socratic-activity-three-task-structure.md)
 
 ## Examples
 -

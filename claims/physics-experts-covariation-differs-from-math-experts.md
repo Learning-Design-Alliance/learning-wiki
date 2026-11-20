@@ -52,3 +52,4 @@ Replication of the Hobson and Moore study via 10 think-aloud interviews with phy
 - [All 15 physics experts simplified tasks explicitly using symmetry and/or limiting cases](experts-simplify-with-symmetry-and-limiting-cases.md) — related
 - [Physics experts solving graphing tasks use mathematics mental actions MMA 1-4 but show no evidence of MMA 5 (Smooth Continuous)](physics-experts-use-mma1-4-not-mma5.md) — a narrower finding that bears on this claim
 - [In a preliminary experiment, physics graduate students used quantities not given in the task and applied known models, behaviors distinct from mathematics graduate students](physics-grad-students-proxy-and-compiled-models-preliminary.md) — possibly the same claim (merge candidate)
+- [Physics experts' covariational reasoning in modeling tasks is not fully described by the mathematics mental-actions framework](physics-expert-covariation-beyond-math-framework.md) — a broader claim this one bears on

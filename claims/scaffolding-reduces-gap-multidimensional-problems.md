@@ -49,3 +49,4 @@ Comparison of two exam questions of different scaffolding levels, both 2-dimensi
 - [Mantel-Haenszel analysis flags three iCMA questions with significant male bias, all requiring interpretation of multi-dimensional diagrams](male-bias-multidimensional-diagram-questions.md) — related
 - [Neither multiple-choice format nor scaffolding level sufficiently explains the physics gender gap](neither-mc-nor-scaffolding-explains-gender-gap.md) — related
 - [Scaffolding does not preferentially benefit female students; apparent preferential gain is an artifact of achievement-level composition](scaffolding-gains-level-dependent-not-gender.md) — reports the opposite
+- [Q12 (projectile motion) was a dominant misconception for the male cohort but not for the female cohort](fci-q12-dm-male-not-female.md) — related

@@ -77,3 +77,4 @@ The review reports the Weber-Wulff et al. independent evaluation across "multipl
 - [Neither humans nor machines reliably detect machine-generated text; humans detect it at chance level](ai-text-detection-at-chance-level.md) — a narrower finding that bears on this claim
 - [Plagiarism detection software does not detect AI-generated essays because the text is original, not copied](plagiarism-software-fails-on-generated-text.md) — a narrower finding that bears on this claim
 - [AI-detection tools can detect raw ChatGPT output but provide a weak standard of evidence, raising false-allegation concerns](ai-detection-tools-weak-evidence-standard.md) — a narrower finding that bears on this claim
+- [Instructors and teaching assistants detect AI-generated code with only 69% accuracy and a 22% false positive rate, with large variability between raters](instructor-ai-detection-insufficient.md) — a narrower finding that bears on this claim

@@ -72,3 +72,4 @@ The review reports, citing Yu (2023), a mixed-methods study of university studen
 - [Students expressed satisfaction, engagement and motivation with all three systems, with final average assessments of 4.28, 4.61 and 4.47 out of 5.](students-satisfied-gamified-crs-anatomy.md) — related
 - [Students reported high satisfaction and increased motivation to learn from the gamified histology course](kahoot-satisfaction-motivation-histology.md) — related
 - [Gamification shows mixed results for learning performance, especially when based on scores and leaderboards](gamification-mixed-learning-results-leaderboards.md) — related
+- [Personalized gamification can enhance student cognition in programming courses by improving motivation, engagement, and learning outcomes](personalized-gamification-enhances-cognition-programming-courses.md) — related

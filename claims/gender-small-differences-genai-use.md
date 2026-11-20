@@ -81,3 +81,4 @@ Comparison of early-stage undergraduates (Years 1–2) with more advanced studen
 - [Baseline motivational states shape perceived AI benefits more than demographics, with female-coded gender the only significant demographic effect (lower perceived competence relief)](baseline-motivation-outweighs-demographics-ai-benefits.md) — related
 - [Treatment shows a moderate correlation with argumentation skill while demographic variables show negligible correlations](treatment-moderate-correlation-argumentation-demographics-negligible.md) — related
 - [Misconceptions showed no gender difference but were found only in medical students’ questions, not biomedical science students’ questions](misconceptions-discipline-and-gender-pattern.md) — related
+- [No demographic differences emerged in teachers' perceived benefits, concerns, or trust in AI-EdTech by age, gender, education, or subject](no-demographic-differences-teacher-trust-ai.md) — related

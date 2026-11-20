@@ -69,3 +69,4 @@ Description of the dashboard output of the same prototype: interaction informati
 - [Dashboard-monitoring is a newly observed orchestration type in which the teacher uses real-time AI dashboards to grasp student status and adjust lesson direction and pace (14 of 46 episodes)](dashboard-monitoring-orchestration-type.md) — related
 - [Learning analytics interventions for study success include alerts enabling teachers to give more individual attention, peer-to-peer communication facilitation, and recommendations for adaptive learning materials](la-interventions-alerts-peer-adaptive.md) — related
 - [It is unclear whether simulations designed for classroom use succeed in online, unsupervised courses](simulation-success-unsupervised-online-unclear.md) — related
+- [EJSS dashboard data can reveal students' specific misconceptions, e.g. confusing an angle with its complement in vector problems](ejss-dashboard-reveals-vector-angle-misconception.md) — related

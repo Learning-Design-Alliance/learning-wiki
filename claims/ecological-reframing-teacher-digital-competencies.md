@@ -47,3 +47,4 @@ Theoretical argument developed across the paper's foundational and discussion se
 
 ## Related Claims
 - [TPACK, while more comprehensive than SAMR, keeps focus on subject learning-related outcomes and is limited for broader teacher digital competence](tpack-subject-learning-focus-limit.md) — related
+- [Binary use/don't-use approaches to GenAI in assessment are inadequate; a scalar approach is needed](binary-genai-bans-inadequate-scalar-approach.md) — related

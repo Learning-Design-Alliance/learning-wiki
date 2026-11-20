@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-20
 sources:
   - id: eamonn-corrigan-2024
     resource: "https://doi.org/10.1139/cjp-2023-0319"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The proportion of Indigenous individuals had the second-largest average positive effect on SCR into grade 11 and 12 physics. [→ Eamonn Corrigan 2024](#eamonn-corrigan-2024)

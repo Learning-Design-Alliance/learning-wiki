@@ -71,3 +71,4 @@ The review's own moderator analysis plan (age, gender, screen size, dosage, SAMR
 - [Knowledge gains from e‐learning are not significantly moderated by study design, student level, delivery synchronicity, intervention duration, or repeat testing](elearning-ent-knowledge-moderators-null.md) — related
 - [An on-treatment analysis found no significant effect of intervention dosage on reading outcomes](vefp-dosage-null-on-treatment.md) — related
 - [Based on an analysis of 26 published articles comparing 30 potential factors, no single factor is sufficient to explain the gender gap](no-single-factor-explains-gender-gap.md) — related
+- [Effects of LP-based personalization are robust to individual characteristics such as school satisfaction, technology experience, gender and age](personalization-effects-robust-to-individual-characteristics.md) — related

@@ -50,3 +50,4 @@ Regression on a composite of self-reported influence on colleagues' teaching bel
 - [Most PoTs lack formal education-research training, and 60% report inadequate campus opportunities to develop scholarly skills](pot-training-resources-misalignment.md) — related
 - [Assistant PoTs are more likely to conduct discipline-based education research, while tenured PoTs are more likely to provide K-12 professional development; these survive correction](scholarly-activities-vary-by-rank-dber.md) — related
 - [Assistant (pre-tenure) PoTs report being expected to spend significantly more time on scholarly activities than tenured PoTs](assistant-pots-expected-more-scholarship-time.md) — related
+- [Improvers conceptualize DBER as an opportunity to improve practice locally in an evidence-based way](improvers-dber-improve-practice-locally.md) — related

@@ -46,3 +46,4 @@ Learner feedback survey from the 2008 AO Summer School, in which students rated 
 
 ## Related Claims
 - [The Fourier Optics and Vision Science activities received positive but lower 2008 learner ratings than the AO Demonstrator](fourier-optics-vision-science-2008-ratings.md) — related
+- [Students responded very positively to the course's content arrangement, with progression as the guiding design principle](progression-principle-well-received.md) — related

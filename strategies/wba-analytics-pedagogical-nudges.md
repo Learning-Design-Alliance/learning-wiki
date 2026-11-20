@@ -54,6 +54,7 @@ The authors propose using the analysis findings to trigger targeted nudges (e.g.
 - [Use coordination-based indicators rather than inactivity alone to trigger alerts and adaptive interventions for struggling groups](coordination-based-alert-strategy.md)
 - [Derive requirements for personalised nudges from empirical studies of learner engagement](requirements-driven-personalised-nudges-avw.md)
 - [Engage teachers with predictive analytics dashboards to trigger timely interventions with students at risk](teacher-engagement-with-pla-interventions.md)
+- [Design future interventions that nudge students toward exploratory, reflective practice behaviors (many sets/unsets with deliberate pacing) in open-ended tasks](nudge-toward-reflective-exploration-behaviors.md)
 
 ## Examples
 -

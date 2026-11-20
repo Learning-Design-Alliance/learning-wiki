@@ -54,6 +54,7 @@ The review identifies three primary ethical concerns—data privacy and security
 - [Deploy AI as an auxiliary tool supplemented by structured measures including transparent auditing of algorithmic bias and data-processing privacy protocols](ai-auxiliary-tool-structured-safeguards-strategy.md)
 - [Six APA-informed ethical considerations for integrating AI into systemic practice](apa-informed-ethical-considerations-ai-integration.md)
 - [Layer multiple safeguards to protect academic integrity in online examinations](online-exam-integrity-safeguards.md)
+- [Use LLM chatbots as interactive tutors for mechanics concepts while verifying reliability and addressing ethics and bias](llm-chatbot-tutors-mechanics-with-verification-caveats.md)
 
 ## Examples
 -

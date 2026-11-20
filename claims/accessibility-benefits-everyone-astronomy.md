@@ -48,3 +48,5 @@ Interviewee GF asserts that improved accessibility helps everyone and that makin
 - [Multi-sensory teaching benefits students of all levels of sight, according to interviewed BVI researchers](multisensory-teaching-benefits-all-sight-levels.md) — related
 - [Human hearing can pick out signals and patterns in noisy data presented as sound that may be harder to see in a noisy plot](hearing-signal-in-noisy-sonified-data.md) — a narrower finding that bears on this claim
 - [First-round interviews found most students believed technology could help BVI people access science mainly by curing blindness or special glasses, with only a minority suggesting other senses.](edukoi-interviews-bvi-accessibility-ideas.md) — related
+- [Both BVI and non-BVI audiences found the show's sound representations useful and enjoyable, with roughly 90% scoring 4 or 5](sounds-useful-enjoyable-bvi-non-bvi.md) — related
+- [Watching the show shifted audience perceptions of accessibility: 74% were more convinced astronomy is accessible to BVI people and 82% wanted to find out more about science](show-shifted-accessibility-perceptions.md) — related

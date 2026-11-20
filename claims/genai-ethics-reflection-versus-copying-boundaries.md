@@ -113,3 +113,4 @@ One student's account in the ethics theme of the same 25-student interview study
 - [Graduate students reported maintaining or gaining a sense of agency when working with a GenAI research assistant](genai-use-preserves-or-strengthens-student-agency.md) — related
 - [Students experienced ethically scaffolded AI tools as cognitive partners, metacognitive mirrors, and equity tools in EFL writing](ai-cognitive-partner-metacognitive-mirror-equity-roles.md) — related
 - [Exit interviews showed limited reflection: most ChatGPT users showed no sign of actively engaging with the physics exercises](exit-interviews-limited-reflection-chatgpt.md) — related
+- [ChatGPT provides only rudimentary reverse-engineering capability, and whether students could obfuscate code to fool the tool remains an open question](chatgpt-rudimentary-reverse-engineering-capability.md) — related

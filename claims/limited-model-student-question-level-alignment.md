@@ -56,3 +56,4 @@ Model–student comparison ranking questions by proportion correct (Table 2, Sec
 - [In a post hoc analysis, the bar-graph bias was stronger on harder questions than on easier questions](bar-graph-bias-stronger-on-harder-questions.md) — related
 - [The intermediate performance declines cannot be consistently attributed to changes in question difficulty across quizzes](declines-not-question-difficulty.md) — related
 - [Within the FCI-metric, questions 1 and 6 are the easiest and 25 and 26 the hardest, while questions 5, 13 and 18 discriminate best and question 29's item characteristic curve is almost flat](fci-item-difficulty-and-discrimination-extremes.md) — related
+- [ChatGPT's item difficulty and answer-option distributions are overrepresented at the extremes compared to students](chatgpt-tug-k-extreme-item-difficulty-distribution.md) — related

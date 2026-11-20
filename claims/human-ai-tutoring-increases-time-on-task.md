@@ -76,3 +76,4 @@ DiD comparison of proactive versus reactive groups on IXL time on task (Table 5)
 - [Human-AI tutoring is associated with a 36% rise in IXL skill proficiency, but the gap widened in favor of reactively tutored students (difference-in-differences preprint)](human-ai-tutoring-skill-proficiency-gap-widens.md) — related
 - [Proactive AI agent dialogues showed stronger conceptual–adequate reasoning links while reactive dialogues showed stronger factual/off-task associations](proactive-agent-dialogues-integrated-epistemic-reasoning.md) — related
 - [Proactive tutoring increases learners' use of metacognitive help tools compared with reactive tutoring](proactive-tutoring-increases-metacognitive-help-use.md) — related
+- [Hybrid human-AI tutoring has a positive and statistically significant effect on students' time spent practicing with IXL math software at Site 1](hybrid-tutoring-increases-time-spent-site1.md) — related

@@ -78,3 +78,4 @@ Stability check splitting the sample into two equal subsamples and repeating k-m
 - [Affinity propagation clustering of gameplay attempts yielded an interpretable six-cluster solution (part.6)](affinity-propagation-six-cluster-solution.md)
 - [ID learners' initial theoretical understanding is basic, perfunctory, and reliant on expert sources](initial-theoretical-understanding-basic-perfunctory.md) — related
 - [In-depth analysis of a typical session from each cluster yields ten behavioral structures interpreted via Schoenfeld's problem-solving phases](ten-behavioral-structures-schoenfeld.md) — related
+- [K-means clustering of self-reported resource usage identifies four student classes, from peer-and-helproom users to students using all resources including AI everywhere](four-resource-usage-clusters-physics.md) — related

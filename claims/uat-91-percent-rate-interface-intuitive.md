@@ -52,3 +52,4 @@ Usability outcome from the same preliminary user acceptance testing sessions (ap
 - [Students reported positive usability and acceptance of MentorChat](mentorchat-positive-usability-acceptance.md) — related
 - [Perceived usefulness and realism are the most common UX dimensions assessed, with less experienced users rating usefulness more positively](ux-usefulness-realism-dominant-dimensions.md) — related
 - [Questionnaire ranking with 248 participants using a five-level Likert item and a mean-points formula identifies ease of use and user-friendly interface as top MCL requirements](likert-questionnaire-ranks-mcl-basic-requirements.md) — related
+- [Students rated the graphical vector field tool as intuitive and user-friendly, with a usability and design scale mean of 0.76 (N = 125)](vector-field-tool-high-usability-ratings.md) — related

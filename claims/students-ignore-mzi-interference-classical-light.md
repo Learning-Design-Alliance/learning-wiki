@@ -48,3 +48,4 @@ Pretest data from upper-level undergraduate (N = 44) and Ph.D. (N = 45) quantum 
 ## Related Claims
 - [Many students ignore the interference of a classical beam of light through the MZI, and this difficulty was reduced after the QuILT (78% to 33% on Q1)](mzi-quilt-classical-interference-difficulty-reduced.md) — possibly the same claim (merge candidate)
 - [Think-aloud interviews with 15 upper-level undergraduate and graduate students identified common difficulties with single-photon MZI concepts](think-aloud-interviews-mzi-common-difficulties.md) — related
+- [Roughly 30% of students report the classical misconception that light needs a medium to travel](light-needs-medium-misconception.md) — related

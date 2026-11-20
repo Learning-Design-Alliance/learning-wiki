@@ -28,4 +28,4 @@ An IPyWidgets-based software package from Matelsky et al. for embedding natural-
 -
 
 ## Key Sources
-- Matelsky, J. K., Parodi, F., Liu, T., Lange, R. D., & Kording, K. P. (2023). A large language model-assisted education tool to provide feedback on open-ended responses. arXiv preprint. https://arxiv.org/abs/2308.02439
+- Matelsky, J. K., Parodi, F., Liu, T., Lange, R. D., & Kording, K. P. (2023). A large language model-assisted education tool to provide feedback on open-ended responses. arXiv preprint. https://arxiv.org/abs/2308.02439. [doi:10.48550/arxiv.2308.02439](https://doi.org/10.48550/arxiv.2308.02439)

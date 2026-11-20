@@ -47,3 +47,4 @@ Interview narrative of Alex, a first-year physics PhD student from an elite priv
 ## Related Claims
 - [Two physics PhD students had drastically different experiences joining a research group in graduate school](drastically-different-phd-group-search-experiences.md) — a broader claim this one bears on
 - [Having a mentor other than one's advisor during graduate school did not affect whether one was working in astronomy or physics after earning a PhD and completing any postdocs](extra-mentor-no-effect-on-retention.md) — related
+- [Physics PhD students characterize joining a research group as a significant decision because of the advisor relationship, long-term commitment, career impact, and risk of leaving](joining-research-group-significant-decision-phd.md) — related

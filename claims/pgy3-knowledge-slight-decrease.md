@@ -49,3 +49,4 @@ Descriptive pre/post percentages for the PGY3 subgroup in the simulation cohort'
 - [All residents significantly increased knowledge of the timing of endoscopy for acute esophageal variceal bleeds (p < .001)](endoscopy-timing-knowledge-gain-all-residents.md) — related
 - [Knowledge and confidence rose from pre-test to post-test, with PGY level (p < .001) and interest in GI (p = .001) associated with the increases in one uncontrolled single-group study](pgy-level-and-gi-interest-moderate-outcomes.md) — reports the opposite
 - [PGY1 and PGY2 residents showed statistically significant knowledge gains on treatment of nonvariceal GI bleeds after the simulation (PGY1 p < .001, PGY2 p = .001)](pgy1-pgy2-nonvariceal-bleed-knowledge-gains.md) — related
+- [Participants in both GutGPT and dashboard arms generally improved on the GI bleeding management educational assessment after simulation](gutgpt-content-mastery-improvement.md) — related

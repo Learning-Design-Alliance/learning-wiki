@@ -54,3 +54,4 @@ Linguistic ethnographic microanalysis of a video-recorded PD episode where a tea
 - [LLM coders replicate many human discursive moves but lack questioning, adaptive responsiveness, and emotional expressiveness](claim-llms-replicate-discursive-moves-lack-questioning.md)
 - [Teachers can respond to sensitive and emotional student contributions in whole-class life skills conversations by acknowledging the contribution, integrating it and redirecting toward general aspects of the topic, thereby avoiding a therapeutic role.](acknowledge-integrate-redirect-sensitive-student-contributions.md) — related
 - [An initial PD design that did not distinguish equity conceptions reified deficit perspectives of multilingual learners](initial-pd-reified-deficit-perspectives-of-mls.md) — related
+- [Analysis of one PD episode identifies four types of comfort-building moves that mitigate socio-emotional risk](four-comfort-building-move-types.md) — related

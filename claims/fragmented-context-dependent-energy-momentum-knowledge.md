@@ -49,3 +49,4 @@ Post-test response comparison between two conceptually similar items showed 10% 
 - [A problem's primary physics concept predicts persistence, with energy can dissipate problems eliciting the most](primary-concept-predicts-persistence.md) — related
 - [Many students hold that the denser the medium, the faster sound propagates, and which density reasoning is triggered depends on question context](denser-medium-faster-sound.md) — related
 - [Novices focus on dominant surface features such as mass or velocity when comparing interaction-force magnitudes](dominant-surface-features-drive-n3l-errors.md) — a narrower finding that bears on this claim
+- [ChatGPT-4 is unreliable on a basic conceptual introductory physics question about kinetic energy and momentum, giving the correct answer in only four of eight regenerated responses](chatgpt4-unreliable-ke-momentum-conceptual-question.md) — related

@@ -65,3 +65,4 @@ Design-comparison study of the DC school report card. The summary states that "p
 - [Students valued desktop VE-based simulation for its accessibility, allowing them to log in anytime and anywhere and to stop and resume sessions](dvsim-accessible-repeatable-practice.md) — related
 - [System & technical dimension significantly predicts e-learning satisfaction (β = 0.241), with lecture recording and remote access rated low by students](system-technical-dimension-predicts-satisfaction.md) — related
 - [Small device displays and limited input create interface challenges for implementing mobile tutors designed as multi-region desktop interfaces](mobile-tutor-small-display-interface-challenge.md) — related
+- [About one third of students reported technical issues installing or using the tool, mostly related to the 2022 desktop application](vector-field-tool-technical-issues-one-third.md) — related

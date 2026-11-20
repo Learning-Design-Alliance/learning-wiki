@@ -52,3 +52,4 @@ Open-ended survey item Q18, reported as qualitative themes in the Results for Q1
 - [Students trusted the plot plausibility of peer-written alternative endings more than ChatGPT-generated endings](peer-endings-more-plausible-than-chatgpt.md) — related
 - [Students rated the game positively, most often citing fun/interactive features, visuals, and new information learned](losing-the-lake-positive-student-feedback.md) — related
 - [Students identified peer interaction and writing outlet/access as the most positive features of the e-course tools](blackboard-cmc-part-c-features.md) — related
+- [Students viewed traditional artifact-based PBL assessment as inadequate for evaluating traits like creative thinking given generative AI's capabilities](artifact-assessment-inadequacy-genai-pbl.md) — related

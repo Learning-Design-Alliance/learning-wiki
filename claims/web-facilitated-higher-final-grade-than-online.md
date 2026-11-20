@@ -52,3 +52,4 @@ Same quasi-experimental three-section comparison; one-way ANOVA for final course
 - [No significant difference in final examination scores between online and hybrid students](no-significant-difference-final-examination.md) — related
 - [Hybrid-section students earned significantly fewer extra-credit points, and attendance correlated with total points across the cohort](engagement-measures-extra-credit-attendance.md) — related
 - [Students in the MPL and online-assessment semester earned higher letter grades than students in the previous semester of the same course](mpl-online-assessment-higher-grades-covid-semester.md) — related
+- [Engineering physics students encouraged to use ChatGPT throughout the semester earned lower grades than the control cohort across all grading periods, with a statistically significant difference in final-grade means](chatgpt-cohort-lower-physics2-grades.md) — related

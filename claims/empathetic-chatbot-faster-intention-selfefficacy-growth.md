@@ -56,3 +56,4 @@ Linear mixed-effects model on check-in form responses from the six-week within-s
 - [Purpose-built AI chatbot coaching is generally well received and supports short-term motivation and selected behavior change, but effects on sustained, meaningful outcomes are inconsistent](purpose-built-chatbot-coaching-short-term-benefits-inconsistent-sustained.md) — a broader claim this one bears on
 - [Changes in motivation outcomes were non-linear over six weeks, with TeachQuest sustaining interest and RJP maintaining self-efficacy](nonlinear-motivation-change-six-weeks.md) — related
 - [Affective outcomes (satisfaction, confidence, engagement) are consistently positive across ADS modalities but rest predominantly on subjective, short-term measures](ads-affective-outcomes-consistent-subjective.md) — related
+- [No significant differences among chatbot conditions in engagement or perceived interruption](rr-no-engagement-interruption-differences.md) — related

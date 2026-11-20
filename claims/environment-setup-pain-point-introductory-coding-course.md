@@ -68,3 +68,5 @@ Students rated activation barriers/difficulties associated with starting and app
 - [Students' basic ICT skills pose little barrier in classroom settings but major hurdles for individual and mobile use, mitigated by peer support and initial device setup](basic-ict-skills-setting-dependent-barrier.md) — related
 - [Pre-recording lectures added little production time once equipment was set up, but moving problem sets online increased grading workload](production-time-and-grading-workload-remote.md) — related
 - [Student feedback consistently rated the coding exercises as the most valuable and effective learning activity in Fundamentals of Quantum Engineering.](qe-coding-exercises-most-valuable-activity.md) — related
+- [Lack of documentation was rated a more significant barrier for Julia than for Python in the pilot course](julia-documentation-barrier.md) — related
+- [Students in the Julia-based course did not find setting up the environment or learning Julia syntax to be significant activation barriers](julia-setup-syntax-not-activation-barriers.md) — reports the opposite

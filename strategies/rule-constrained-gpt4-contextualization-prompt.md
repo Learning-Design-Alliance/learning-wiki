@@ -43,7 +43,8 @@ The authors used a few-shot prompt presenting input-output example pairs (e.g., 
 - [Prior research found context personalization to student interests associated with improved engagement, performance, and learning outcomes in algebra](../claims/walkington-interest-contextualization-engagement-performance.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Design GPT feedback prompts with few-shot examples covering each response category and documented student preconceptions as context](few-shot-prompt-with-preconceptions-for-feedback-generation.md)
 
 ## Examples
 -

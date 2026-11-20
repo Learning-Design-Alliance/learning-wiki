@@ -72,3 +72,4 @@ Essay-response analysis of Zeke's answer, which clearly described the O-P bond a
 - [In the first year of the course, around half of the analyzed students met or exceeded expectations on the ATP reconciliation essay question.](half-students-met-expectations-atp-essay-rubric.md) — related
 - [Students treat chemical bonds as physical entities, believing energy is required to form a bond and breaking a bond releases energy](bond-as-entity-energy-misconception.md) — related
 - [Statements students treat as misconceptions may be contextually reasonable; interdisciplinary reconciliation is a distinct instructional goal (Gregor case)](interdisciplinary-reconciliation-chemical-energy-gregor.md) — related
+- [Some students abandon a correct analytical solution mid-way and revert to an intuitive proportional answer](mid-solution-abandonment-analytical-reasoning.md) — related

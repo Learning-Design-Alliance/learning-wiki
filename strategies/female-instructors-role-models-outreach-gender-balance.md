@@ -46,6 +46,7 @@ ThaiPASS participation is by teacher nomination, and the organisers strongly enc
 ## Related Strategies
 
 - [Address gender bias in STEM classrooms through interventions and explicit discussion rather than assuming representation gains suffice](address-gender-bias-explicitly-stem-classrooms.md)
+- [Recruit competition organisers from former participants to renew the team and motivate current students](recruit-organisers-from-former-participants.md)
 
 ## Examples
 -

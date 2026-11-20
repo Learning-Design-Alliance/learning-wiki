@@ -49,3 +49,4 @@ Analytical comparison of two contrasting square-well energy problem statements i
 - [Some QM difficulties reflect operating in the wrong frame (displacement errors)](displacement-errors-qm-difficulties.md) — related
 - [Published quantum mechanics difficulties restructure into three framing error categories](qm-difficulties-three-framing-error-categories.md) — a broader claim this one bears on
 - [Coordinating multiple frames helps students monitor calculations and find errors, while staying only in algorithmic math makes checking solutions difficult](coordinating-frames-aids-error-monitoring.md) — related
+- [Few students showed difficulties with the new computing approach, mainly when extending quantum algorithms to more complex problems, and group work with practical exercises helped overcome them](quantum-chapter-student-difficulties-group-work.md) — related

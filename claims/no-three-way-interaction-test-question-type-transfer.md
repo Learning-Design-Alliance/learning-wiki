@@ -50,3 +50,4 @@ Posttest analysis of Experiment 1's mixed-effects model found the training-by-KC
 - [Learning of second language morphosyntactic rules is highly skill-specific: comprehension practice yields comprehension skill and production practice yields production skill](skill-specificity-l2-grammar-practice.md) — related
 - [The effect of retrieval practice format on reading comprehension does not differ significantly between lower-order and higher-order thinking questions](retrieval-format-by-levels-of-thinking-interaction-not-significant.md) — related
 - [In simulated learners with forgetting, study-practice yields higher skill gains while practice-only yields higher fact gains, mirroring the human pattern](al-simple-effects-mirror-human-pattern.md) — related
+- [Knowledge-state contents reconfigure AlgoBo's MCQ performance by knowledge type](reflect-respond-reconfigures-algobo-knowledge-level.md) — reports the opposite

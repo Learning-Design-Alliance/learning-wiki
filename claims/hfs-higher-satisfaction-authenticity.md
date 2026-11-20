@@ -53,3 +53,4 @@ Satisfaction was a secondary outcome measured with study-specific 7-point Likert
 - [Practitioners rate the simulation and its collaborative process as rather authentic](practitioners-rate-simulation-authentic.md) — related
 - [All groups report high simulator satisfaction, with novices most satisfied (median 44 vs 38 vs 35, p = 0.02)](high-satisfaction-bronchoscopy-simulator-novices-most-satisfied.md) — related
 - [Students were significantly more satisfied with high-fidelity simulation than with case-based discussion](simulation-higher-student-satisfaction.md) — related
+- [Students were significantly more satisfied learning with the traditional instructional format than with the VR format](control-format-higher-satisfaction-than-vr.md) — related

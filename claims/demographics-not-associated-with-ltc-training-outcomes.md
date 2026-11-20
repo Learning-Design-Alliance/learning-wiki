@@ -60,3 +60,4 @@ Multivariate linear regression in the 90-student study, controlling for gender, 
 - [Career intention and age are not significant predictors of medical students' confidence in anatomy knowledge](career-intention-age-not-predictors-anatomy-confidence.md) — a narrower finding that bears on this claim
 - [Gender has no significant effect on practical skill outcomes in spinal manipulation training](gender-no-effect-spinal-manipulation-outcomes.md) — a narrower finding that bears on this claim
 - [Videogame practice, gender, hand dominance, perceived manual skill, and surgical career intention did not determine laparoscopic task performance](no-demographic-factors-determine-laparoscopic-skill-acquisition.md) — related
+- [Effects of LP-based personalization are robust to individual characteristics such as school satisfaction, technology experience, gender and age](personalization-effects-robust-to-individual-characteristics.md) — related

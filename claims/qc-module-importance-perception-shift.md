@@ -51,3 +51,4 @@ Pre/post survey item on perceived societal importance of quantum computing from 
 - [After the visit, students describe learning quantum physics as more useful, interesting or important, and almost none become more negative](learning-quantum-valued-more-positively-after-visit.md) — related
 - [Instructors observe that media hype creates distorted preconceptions about quantum technology that they must actively dispel](media-hype-creates-distorted-preconceptions-quantum.md) — related
 - [Instructors report that popular media hype is a major motivator of student interest and enrollment in quantum computing electives](media-hype-motivates-student-enrollment-quantum-courses.md) — related
+- [A reported study found all three surveyed high school physics teachers struggled to enthuse their students about quantum physics](teachers-struggled-to-enthuse-students-quantum.md) — related

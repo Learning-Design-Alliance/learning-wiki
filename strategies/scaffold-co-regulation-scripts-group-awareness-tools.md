@@ -40,7 +40,8 @@ Because students reported comparatively few strategies at the co-level, the auth
 - [Social Levels Self Co Shared Regulation](../theories/self-regulated-learning.md)
 
 ## Related Strategies
-- 
+
+- [Visualise individual engagement to support socially shared regulation and timely teacher support in collaborative learning](visualise-individual-engagement-for-shared-regulation.md)
 
 ## Examples
 -

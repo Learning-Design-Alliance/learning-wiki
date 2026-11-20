@@ -48,7 +48,8 @@ The article implements its grading pipeline as an autograder on the PrairieLearn
 - [Student perceptions of the autograder were mixed, with the LaTeX workflow rated more positively than the grader itself](../claims/mixed-student-perception-lata.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Combine autograded frequent quizzes with few gradetools-graded open-ended assignments when teaching staff is limited](combine-autograded-quizzes-with-few-open-ended-assignments.md)
 
 ## Examples
 -

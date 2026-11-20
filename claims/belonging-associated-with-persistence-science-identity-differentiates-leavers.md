@@ -56,3 +56,4 @@ Comparison of coded belonging reasons between majors and leavers in the intervie
 - [Attrition rates differ widely across majors, with physics and mathematics students the most likely to drop and computer science, non-STEM, and psychology students the least likely](physics-mathematics-highest-attrition-among-declared-majors.md) — related
 - [Students identify diverse reasons why representation in STEM matters, spanning nine common themes](notecard-activity-representation-themes.md) — related
 - [Societal stereotypes, strongest in physics, contribute to lower sense of belonging for women and ERM students in physics](stereotypes-lower-belonging-women-erm-physics.md) — related
+- [Finding a research group holds differential importance for women and non-binary physics students, who screen groups for inclusivity and at times deprioritize preferred research topics](group-search-differential-importance-women-nonbinary.md) — related

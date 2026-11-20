@@ -71,3 +71,4 @@ Numerical analysis on DV showing accuracy depends on distance from the threshold
 - [Within-judge variance of the repeated LLM-judge rubric is negligible, but cross-model-family agreement remains untested](within-judge-stability-llm-rubric.md) — related
 - [AI grading of the exam is highly stable across five independent runs at the total-score level (ICC(A,1) = 0.967), with lower but still strong cell-level stability (ICC(A,1) = 0.836)](ai-grading-run-to-run-reliability-icc.md) — related
 - [Small student enrollments make RBA results difficult to interpret because statistical analysis is not valid on small numbers and scores fluctuate year to year.](small-course-rba-results-interpretation-fluctuations.md) — related
+- [ChatGPT's simulated lab data is heteroscedastic and unrealistic because noise scales with the magnitude of the measured value](chatgpt-simulated-data-heteroscedastic-unrealistic.md) — related

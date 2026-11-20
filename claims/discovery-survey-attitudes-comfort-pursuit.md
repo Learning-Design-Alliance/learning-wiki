@@ -67,3 +67,5 @@ Pre/post survey administration by teachers across the five terms (217 responses 
 - [Student participants reported that the online reading group left them more academically prepared for future careers and brought them closer to their classmates](phasrs-interviews-preparedness-closeness.md) — related
 - [Most secondary-school participants valued the service-learning collaboration positively: 60% liked collaborating with university students, 65% liked the activities, and 72% considered they had learned interesting things](secondary-students-positive-evaluation-abase-de-pros.md) — related
 - [Research indicates typical physics lab courses do not reach desired learning goals](typical-lab-courses-do-not-reach-goals.md) — related
+- [Interns reported enhanced skills toward a STEM career and a majority wanted to pursue particle physics research after their undergraduate degree](internship-enhanced-stem-skills-particle-physics-intent.md) — related
+- [A significant majority of interns expressed willingness to share their research experience with prospective interns during future informational webinars](interns-willing-share-experience-webinars.md) — related

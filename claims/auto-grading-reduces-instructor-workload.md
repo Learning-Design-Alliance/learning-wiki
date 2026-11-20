@@ -47,3 +47,4 @@ Experience report based on two university courses (CSE490Q at University of Wash
 ## Related Claims
 - [Automatically graded online exercises with unlimited attempts were frequently used by students, saving instructor grading time](automatic-grading-unlimited-exercise-attempts.md) — a broader claim this one bears on
 - [Teachers envisioned chatbots as extending teacher capacity and availability by providing additional access to support and redistributing planning workload](teachers-envision-chatbots-extending-capacity-availability.md) — related
+- [Sharing testing harnesses with students led to higher success levels on automatically graded programming assignments compared to an earlier session without shared harnesses](shared-testing-harnesses-higher-assignment-success.md) — related

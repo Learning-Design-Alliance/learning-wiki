@@ -50,3 +50,4 @@ Gaming-probe investigation within the case study: a user claiming prior knowledg
 - [Prompting alone could not keep the gpt-3.5-turbo model on-topic, while the text-davinci-002 engine stayed on-topic in the deployed chatbot](gpt35-turbo-off-topic-prompting-insufficient.md) — related
 - [LLM participant agents clarify stage goals, keep discussions on topic, and prompt deeper ethical reflection](llm-participants-stage-goal-clarification.md) — related
 - [ChatGPT sustains coherent, human-like multi-topic conversation and produces convincing creative content, as shown by the authors' own prompting test](chatgpt-interactive-conversational-capability.md) — reports the opposite
+- [ChatGPT provides only rudimentary reverse-engineering capability, and whether students could obfuscate code to fool the tool remains an open question](chatgpt-rudimentary-reverse-engineering-capability.md) — related

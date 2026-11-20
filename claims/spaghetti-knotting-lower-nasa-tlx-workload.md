@@ -52,3 +52,4 @@ NASA-TLX administered immediately after the post-training task in the RCT: "spag
 - [AR-assisted training reduces subjective workload (NASA-TLX) in novice learners](ar-training-reduces-subjective-workload.md) — related
 - [Spaghetti knotting and conventional knotting training do not differ on needle insertion accuracy, knotting stability, or tissue tightness](spaghetti-knotting-no-difference-accuracy-stability-tightness.md) — reports the opposite
 - [Laparoscopic novices trained digitally complete the final assessment tasks significantly faster than in-person trained novices, with the suture-and-knot task the only individual task reaching significance](digital-training-faster-task-completion-laparoscopy.md) — related
+- [VR-trained students reported mixed workload profiles: less temporal demand but more mental demand, physical demand, and effort than controls, none statistically significant](vr-mixed-nasa-tlx-workload-profile.md) — related

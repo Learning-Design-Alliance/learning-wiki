@@ -53,6 +53,7 @@ Based on the finding that heavy scaffolding may produce superficial self-diagnos
 
 - [Use a written self-diagnosis reflection exercise after group problem solving to help students identify areas of struggle](post-problem-solving-self-diagnosis-reflection-strategy.md)
 - [Limit support during self-diagnosis (final answer only, with notes and textbooks) before providing the detailed solution, to promote productive struggle](struggle-first-self-diagnosis-final-answer-only.md)
+- [Use student error tasks in tandem with traditional problem-solving exercises, in class or on exams, to foster metacognitive skills](error-tasks-tandem-problem-solving-strategy.md)
 
 ## Examples
 -

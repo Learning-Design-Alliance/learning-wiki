@@ -44,6 +44,7 @@ The article demonstrates producing a customized measurement application entirely
 - [Use a natural-language strategy guideline in the generator prompt so tutoring strategy can be revised without code changes](collearn-natural-language-strategy-guideline.md)
 - [Iterate the prompt in plain language and validate the simulation on technical, physical, and pedagogical levels](iterate-and-three-level-validation-ar-simulation-strategy.md)
 - [Use an AI-assisted vibe coding workflow with human pedagogical control to move educational tools from idea to classroom within days](vibe-coding-rapid-educational-tool-development.md)
+- [Have students write the instrument-control and analysis software themselves to build coding skills alongside experimental work](student-written-instrument-drivers-coding-skills.md)
 
 ## Examples
 -

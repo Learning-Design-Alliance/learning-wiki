@@ -28,4 +28,4 @@ STACK is an open-source computer-algebra-based assessment system that interprets
 -
 
 ## Key Sources
-- Gfrerer, M. H.; Marussig, B.; Maitz, K.; Bangerl, M. M. (2023). Teaching mechanics with individual exercise assignments and automated correction. https://arxiv.org/abs/2308.12694
+- Gfrerer, M. H.; Marussig, B.; Maitz, K.; Bangerl, M. M. (2023). Teaching mechanics with individual exercise assignments and automated correction. https://arxiv.org/abs/2308.12694. [doi:10.1002/pamm.202300168](https://doi.org/10.1002/pamm.202300168)

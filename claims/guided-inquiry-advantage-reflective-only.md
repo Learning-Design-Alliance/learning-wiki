@@ -70,3 +70,4 @@ Simple-effect t-test in impulsive students of the same quasi-experiment; guided 
 - [Guided inquiry learning yields higher fifth-grade science achievement than conventional teaching](guided-inquiry-beats-conventional-science-achievement.md) — a broader claim this one bears on
 - [Impulsive students' cognitive style tendency appears to shift toward reflective after guided inquiry](impulsive-style-shifts-reflective-inquiry.md) — related
 - [Teaching model and cognitive style interact significantly in their effect on science achievement](teaching-model-cognitive-style-interaction.md) — a broader claim this one bears on
+- [Guided inquiry produces higher cognitive learning outcomes than conventional learning in chemistry](guided-inquiry-higher-cognitive-outcomes.md) — related

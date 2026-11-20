@@ -47,3 +47,4 @@ Case-study analysis of Ken's think-aloud attempt at the Gravitron task. After en
 ## Related Claims
 - [Students' attempts to resolve inconsistencies in understanding involved the use of external representations such as force diagrams](inconsistency-resolution-involves-external-representations.md) — related
 - [In a completed physics problem-solving attempt, engagement with the Denotative Function and Demonstration components of modeling co-occurs with the explanation-generation stage of sensemaking, and the Inferential Function co-occurs with resolution](modeling-components-co-occur-sensemaking-stages-matthew.md) — related
+- [AI responses to the Gravitron task evidenced all sensemaking features except noticing gaps in their knowledge system, which around half of student responses showed](ai-sensemaking-features-except-noticing-gaps.md) — related

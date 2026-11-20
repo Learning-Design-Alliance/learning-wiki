@@ -69,3 +69,4 @@ NASA Task Load Index questionnaire administered after the simulated procedure. T
 - [Self-reported cognitive load (NASA TLX) is high and does not differ between expert and resident anesthetists in simulated PPH](nasa-tlx-no-group-difference-pph.md) — possibly the same claim (merge candidate)
 - [Workload ratings do not differ significantly by profession, prior AR experience, or prior HoloLens experience](workload-independent-of-background-and-ar-experience.md) — related
 - [Reviewer experience does not directly affect rating scale accuracy and does not interact with training condition](reviewer-experience-no-accuracy-effect.md) — related
+- [Peer attention cues do not significantly change cognitive workload, and workload positively correlates with test accuracy](peer-attention-workload-null-and-positive-correlation.md) — related

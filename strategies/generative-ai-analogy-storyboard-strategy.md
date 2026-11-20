@@ -45,4 +45,4 @@ The article recommends an AI-driven workflow: input a STEM concept, have GPT-4 g
 -
 
 ## Key Sources
-- Cao, C., Ding, Z., Lee, G.-G., Jiao, J., Lin, J., & Zhai, X. (2023). Elucidating STEM Concepts through Generative AI: A Multi-modal Exploration of Analogical Reasoning. arXiv preprint. https://arxiv.org/abs/2308.10454
+- Cao, C., Ding, Z., Lee, G.-G., Jiao, J., Lin, J., & Zhai, X. (2023). Elucidating STEM Concepts through Generative AI: A Multi-modal Exploration of Analogical Reasoning. arXiv preprint. https://arxiv.org/abs/2308.10454. [doi:10.48550/arxiv.2308.10454](https://doi.org/10.48550/arxiv.2308.10454)

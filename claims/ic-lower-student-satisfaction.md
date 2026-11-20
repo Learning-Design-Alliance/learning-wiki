@@ -69,3 +69,4 @@ End-of-course global satisfaction item in the randomized study; 88/93 (95%) cont
 - [The inverted classroom approach increased preclass workload relative to the traditional approach](ic-increased-preclass-workload.md) — related
 - [The inverted classroom approach did not increase student stress or enhance empathy for the instructor](ic-no-stress-or-empathy-difference.md) — related
 - [Students report lower satisfaction with and lower evaluation of curriculum effectiveness for online neurosurgery teaching than face-to-face teaching](satisfaction-effectiveness-lower-online-neurosurgery.md) — related
+- [Students were significantly more satisfied learning with the traditional instructional format than with the VR format](control-format-higher-satisfaction-than-vr.md) — related

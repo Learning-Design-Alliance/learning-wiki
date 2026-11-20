@@ -45,6 +45,7 @@ The article's inclusive-practices strategy spans recruitment (early, community-i
 - [Reduce barriers for diverse early childhood credential candidates through cost subsidies, flexible course logistics, cohort community, outreach, and specialized advising](multiple-access-strategies-diverse-ec-candidates.md)
 - [Start small and stage QIST program development from individual faculty expertise toward a future standalone major](qist-start-small-staged-development.md)
 - [Reduce entry barriers for underrepresented learners with cloud computing, payment, and mentorship](reduce-barriers-cloud-computing-payment-mentorship.md)
+- [Provide career development support for diverse pathways, especially non-academic careers, through skills workshops, alumni networks, and funded internships](non-academic-career-pathway-support.md)
 
 ## Examples
 -

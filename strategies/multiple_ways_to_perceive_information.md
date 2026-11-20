@@ -66,6 +66,7 @@ Multimodal presentation works when each mode carries a distinct, coordinated por
 - [Use multimedia graphic novel courseware with audio narration and TLH-based inquiry questions to foster critical thinking in history learning.](graphic-novel-audio-narration-history-courseware.md)
 - [Use parallel, standardized interactive computer presentations with multimodal demonstrations for technique-skill training](parallel-standardized-computer-presentations-strategy.md)
 - [Use a multi-modal, multi-sensory approach combining sound, touch and visual elements when designing astronomy education and outreach resources](multimodal-astronomy-resources-strategy.md)
+- [Design multi-sensory shows with slow-paced, highly descriptive narration, advance warning of what comes next, and a calm low sensory load](slow-descriptive-narration-calm-multisensory-design.md)
 
 ## Examples
 - **Khan Academy** (https://www.khanacademy.org) — narrated visual problem-solving videos with synchronized writing, exemplifying temporal contiguity.

@@ -54,3 +54,4 @@ Anonymous end-of-semester evaluation with 21 closed-ended 5-point items and four
 - [Students in one Physics First section predominantly reported liking Buddy Quizzes more than regular quizzes](buddy-quiz-student-feedback-predominantly-positive.md) — related
 - [Students evaluated the Learning Assistant role positively, with 88% agreeing LAs were valuable team members and 92% understanding and appreciating the role](positive-student-evaluations-of-las.md) — related
 - [The Buddy Quiz was deployed twice weekly-scale in two Physics First sections without curving grades](buddy-quiz-deployment-two-physics-first-sections.md) — related
+- [Students responded very positively to the course's content arrangement, with progression as the guiding design principle](progression-principle-well-received.md) — related

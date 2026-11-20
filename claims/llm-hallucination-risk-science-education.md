@@ -60,3 +60,4 @@ Narrative review discussion of chatbots and LLMs in education, attributing the h
 - [General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources](llm-accuracy-hallucination-coaching-risk.md) — a broader claim this one bears on
 - [AI-assisted scientific writing assignments risk fabricated references and altered chemical meaning](genai-writing-fabricated-references.md) — a narrower finding that bears on this claim
 - [Hallucination — the generation of inaccurate, unverified, or illogical content — is the most frequently reported technical challenge for LLMs in dental education](hallucination-most-frequent-technical-challenge.md) — related
+- [Using a black-box LLM for feedback generation limits transparency and explainability](black-box-llm-feedback-transparency-limitation.md) — related

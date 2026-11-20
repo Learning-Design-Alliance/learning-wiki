@@ -69,3 +69,4 @@ A human validation study had three domain experts independently score a stratifi
 - [Proportional bias: AI assigned relatively higher scores at the lower end of the performance distribution](proportional-bias-ai-higher-scores-lower-end.md) — related
 - [Student–expert agreement on bias assessment improves significantly after EBD training](student-expert-agreement-improves-post-ebd-training.md) — related
 - [Pearson correlations between AI and expert scores are weak (all r < 0.3) and statistically non-significant across all five criteria](ai-expert-pearson-weak-nonsignificant.md) — reports the opposite
+- [LLM scores are more consistent across trials than human scores, with GPT-4 using explanations showing the greatest confidence](llm-trial-consistency-exceeds-human-consistency.md) — related

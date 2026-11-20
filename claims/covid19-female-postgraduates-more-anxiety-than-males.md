@@ -72,3 +72,4 @@ Multivariable logistic regression (Table 9) of factors influencing mental health
 - [During the COVID-19 pandemic, most surveyed Chinese medical postgraduates had no or mild anxiety or depression symptoms and none had severe depression](covid19-medical-postgraduates-mild-mental-health-symptoms.md) — related
 - [There were no significant differences between surgical and internal medicine postgraduates in either mental health or academic performance during the pandemic](covid19-no-surgical-internal-differences-postgraduates.md) — related
 - [COVID-19 contagion anxiety for oneself or others increases the likelihood of poor academic performance by more than 3 times](contagion-anxiety-predictor-poor-performance.md) — related
+- [Graduate students report notably higher rates of depression and anxiety symptoms than the general population, and many who seek help feel unsupported](grad-mental-health-unsupported-counseling-need.md) — related

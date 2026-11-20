@@ -61,3 +61,4 @@ The report states that MSIs, HBCUs, and TCUs are historically lower-resourced th
 - [The COVID-19 shift to digital revealed inequality in access to education caused by technology access and online delivery that may not address student voice](pandemic-revealed-inequality-in-access-to-education.md) — a broader claim this one bears on
 - [Digital learning environments during the pandemic raise implications for addressing social inequities and education policy reform](digital-environments-social-inequities-policy-reform.md) — related
 - [The review finds digital environments produce disparate, even counterproductive effects during abrupt transitions and in low-resource communities](abrupt-transition-disparate-counterproductive-effects.md) — related
+- [Fewer than 5% of Ghana's roughly 42 private universities embraced remote learning during the pandemic](private-universities-less-than-5-percent-remote-learning.md) — related

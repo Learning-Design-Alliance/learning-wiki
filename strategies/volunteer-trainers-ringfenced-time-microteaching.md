@@ -45,7 +45,8 @@ The article's implementation findings support selecting trainers who volunteer f
 - [Training uptake was greater when teaching could be integrated with trainers' everyday working patterns and when trainers had ring-fenced time](../claims/workflow-integrated-teaching-greater-engagement.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Recruit competition organisers from former participants to renew the team and motivate current students](recruit-organisers-from-former-participants.md)
 
 ## Examples
 -

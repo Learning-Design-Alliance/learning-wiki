@@ -42,6 +42,7 @@ The SOLE (Self Organized Learning Environment) activity divides students into gr
 - [Structured inquiry session sequence: introduction, questioning, investigation, presentations, and synthesis](inquiry-session-sequence-questioning-investigation-presentation-synthesis.md)
 - [Group-Based Flipped Classroom](group-based_flipped_classroom.md)
 - [Modified Jigsaw Activities](modified_jigsaw_activities.md)
+- [Divide laboratory activities into parallel student-group strands merged in a joint final analysis](two-group-parallel-activity-division-mkid-lab.md)
 
 ## Examples
 -

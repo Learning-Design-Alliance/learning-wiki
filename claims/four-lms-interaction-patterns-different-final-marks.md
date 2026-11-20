@@ -50,3 +50,4 @@ Observational log analysis of a Moodle 2.0 course with 140 undergraduates; the a
 - [K-means clustering of K–8 students' platform trace data yields seven distinct engagement profiles](seven-engagement-profiles-k8-elearning.md) — related
 - [Semester control-question results correlated positively (r = 0.5530) with final-test results, supporting the evaluation system's predictive accuracy](control-question-results-correlate-final-test.md) — related
 - [Clustering 292 students' logs yields five SRL profiles differing in proactivity and performance](five-srl-profiles-292-students.md) — related
+- [K-means clustering of self-reported resource usage identifies four student classes, from peer-and-helproom users to students using all resources including AI everywhere](four-resource-usage-clusters-physics.md) — related

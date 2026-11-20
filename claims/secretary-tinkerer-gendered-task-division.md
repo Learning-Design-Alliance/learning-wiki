@@ -62,3 +62,4 @@ Reflexive ethnographic observations of twelve lab sections (more than 100 hours)
 - [Preliminary observation: the inequitable trio had two men and one woman while the equitable trio had two women and one man](gender-ratio-preliminary-lab-equity.md) — related
 - [In Physics I Lab control sections women were responsible for less equipment usage than men, but no gendered difference was observed in Physics II Lab](gendered-equipment-use-physics-i-not-ii.md) — related
 - [Women and men report different lab activity role preferences at semester start, with women preferring notes and managing and men preferring equipment and analysis](gendered-lab-role-preferences-survey.md) — related
+- [Gender was not a significant factor in selection of equipment-building and data-collection roles, but female students preferred an all-together collaborative work distribution while male students preferred rotating assigned roles](gendered-role-preferences-physics-lab-groups.md) — related

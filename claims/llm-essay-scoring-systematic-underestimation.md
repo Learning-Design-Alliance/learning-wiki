@@ -62,3 +62,5 @@ Bland-Altman bias analysis across five LLMs (GPT-4.1, Llama 4 Maverick, Gemini 2
 - [ChatGPT 3.5 grading with the best prompt was significantly lower than official IELTS examiner grades, indicating systematic bias in absolute grading](llm-grades-significantly-lower-than-examiners.md) — a narrower finding that bears on this claim
 - [Proportional bias: AI assigned relatively higher scores at the lower end of the performance distribution](proportional-bias-ai-higher-scores-lower-end.md) — related
 - [The very narrow GEARS score range (SD < 0.5) limits the rubric's utility for identifying a competency inflection point](gears-narrow-score-range-limits-competency-threshold.md) — related
+- [Machine coding shows a systematic offset dependent on the measured prevalence EC, which can be calibrated with a best-fit function S(EC)](systematic-offset-function-of-ec-calibration.md) — related
+- [Machine coding systematically over- or under-estimates code prevalence when the training set is outcome-unbalanced, with no offset at ptrain = 0.5](training-imbalance-causes-systematic-machine-coding-offset.md) — related

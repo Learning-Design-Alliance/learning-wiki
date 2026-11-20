@@ -73,3 +73,5 @@ Post-questionnaire item on what can deform space-time (Figure 4). The printed di
 - [In one uncontrolled pre-post study, primary pupils mostly explained gravity as interaction or deformation rather than everyday effects after a spacetime-simulator intervention](einsteinian-gravity-shifts-pupil-explanations.md) — related
 - [The RSA activity helps high school students visualize, comprehend and remember Newtonian gravity and GR topics better than a traditional treatment](rsa-activity-improves-gravity-comprehension.md) — a broader claim this one bears on
 - [Year 7 Einsteinian gravity instruction conflicted with concurrent Euclidean geometry teaching, producing persistent confusion](year-7-euclidean-geometry-conflict-curved-space.md) — related
+- [Describing gravity as spacetime curvature increases markedly only in Years 10, 12 and 13, and the intervention fails to dispel force-based misconceptions overall](curvature-source-gravity-only-upper-years.md) — related
+- [Belief that space has no shape falls from 58.2% to 42.4%, with 9.2% post-intervention noting space is curved around masses but flat otherwise](space-shape-misconception-partially-shifts.md) — related

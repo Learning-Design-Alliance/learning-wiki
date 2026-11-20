@@ -48,3 +48,5 @@ Multiple case study of three faculty (Olivia, Madison, Akemi) participating in a
 - [Get-started information from PEER gave participants a roadmap from research interest to viable DBER research question and project](get-started-information-roadmap-dber.md) — related
 - [Project mapping at PEER refined participants' short-term plans for their first DBER projects](project-mapping-refines-short-term-plans.md) — related
 - [Self-determination theory needs of competence, relatedness, and autonomy drive participants' motivation to engage in DBER](sdt-needs-drive-dber-motivation.md) — related
+- [Joiners conceptualize DBER as a new primary research field they want to fully engage in and grow in as professionals](joiners-dber-new-primary-research-field.md) — related
+- [Emerging DBER researchers face a DBER dichotomy and a STEM department dichotomy, with Joiners tending toward supportive contexts and Improvers and Negotiators the opposite](dber-stem-department-dichotomies-newcomers.md) — related

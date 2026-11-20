@@ -47,3 +47,4 @@ Correlational analysis of introductory lab students' responses linking personal 
 ## Related Claims
 - [E-CLASS results show reading journal articles and posing own questions rank low in students' perceived grade importance, prompting metacognitive plans](eclass-low-rank-for-journal-reading-and-own-questions.md) — related
 - [Asking questions is a valued scientific practice: all 23 experts agreed it is a key aspect of scientific research](asking-questions-key-scientific-practice-expert-consensus.md) — related
+- [Several E-CLASS items on lab-report formatting, asking experts for help, and choosing analysis methods kept low initial scores, indicating persisting low confidence and lack of autonomy](eclass-items-remained-low-persisting-confidence-gaps.md) — related

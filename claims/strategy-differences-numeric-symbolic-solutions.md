@@ -80,3 +80,4 @@ Same written-work analysis: 15% of symbolic solutions started with a = F/m, repl
 - [Students take varied solution paths on a well-structured mechanics problem, differing in starting codes](varied-starting-codes-well-structured-problem.md) — related
 - [The assessment task using symbolic variables (Ferris wheel) failed to elicit the expected evidence, unlike the six tasks with numerical quantities](symbolic-variables-task-failed-to-elicited-evidence.md) — related
 - [Declaring unknown physical quantities as symbolic variables in Sage promotes development of metacognitive skills](sage-symbolic-variables-metacognition.md) — related
+- [Students score significantly higher on a pictorially represented measurement-comparison item than on an isomorphic numerical item](pictorial-item-outperforms-numerical-measurement-comparison.md) — related

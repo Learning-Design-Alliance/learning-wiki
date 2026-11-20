@@ -95,3 +95,4 @@ Year-by-year analysis of the best-performing algorithm per study (Figure 8, RQ7)
 - [AI agreement with expert evaluators is moderate for the bean drop exercise, lower than for peg transfer](ai-moderate-agreement-bean-drop-assessment.md) — a narrower finding that bears on this claim
 - [The underlying sentence similarity algorithm achieves Pearson correlations of 0.8753 for word similarity and 0.8794 for sentence similarity against benchmarks](sentence-similarity-benchmark-correlations.md) — related
 - [A BERT-based model grades reflective level in English and German essays with a quadratic weighted kappa of 0.71](papagai-bert-reflective-level-qwk-071.md) — a narrower finding that bears on this claim
+- [Human inter-annotator agreement and dataset recall of 75.5 validate the benchmark's coverage of high-quality Socratic utterances](human-ita-dataset-recall-validation.md) — related

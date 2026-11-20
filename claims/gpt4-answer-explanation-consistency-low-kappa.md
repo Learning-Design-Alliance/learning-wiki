@@ -51,3 +51,4 @@ Human reviewers curated answers from GPT-4's item-by-item explanations without a
 - [Chatbot explanations achieved acceptable content validity (average CVI ≥0.92) despite occasional hallucinated or fabricated references](chatbot-explanations-acceptable-cvi-despite-hallucinated-references.md) — related
 - [GPT-4o was the most inconsistent chatbot, with 19 questions answered correctly in the first round answered incorrectly in the second](gpt-4o-most-inconsistent-across-rounds.md) — related
 - [Qualitative analysis of LLM answer explanations identified 3 ambiguous examination questions, supporting LLM use for question quality assurance](llm-explanations-flag-ambiguous-questions.md) — related
+- [LLM scores are more consistent across trials than human scores, with GPT-4 using explanations showing the greatest confidence](llm-trial-consistency-exceeds-human-consistency.md) — related

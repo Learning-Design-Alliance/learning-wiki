@@ -49,3 +49,4 @@ Attendance figure reported from the group's Virtual Seminars on Quantum Gravity 
 - [Virtual seminars enable faster dissemination of new research than in-person visits](virtual-seminars-faster-dissemination.md) — related
 - [The program's first teleconferenced academic conference drew 30 attendees, and a straw poll showed residents and faculty were happy with the format and interested in continuing remotely](first-teleconference-30-attendees-straw-poll-positive.md) — related
 - [Alumni participation was higher at the NAC's first virtual conference (16 registrants) than at the 2019 in-person conference (9 registrants)](virtual-nac-conference-higher-alumni-participation.md) — related
+- [The QuCS lecture series reached a large global audience, hosting nearly 40 lectures with over 40 speakers from more than eight countries and over 1000 subscribers](qucs-global-reach-40-lectures-1000-subscribers.md) — related

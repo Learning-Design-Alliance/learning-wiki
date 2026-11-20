@@ -63,3 +63,4 @@ This is a quasi-experimental, within-course comparison (not a randomized trial) 
 - [Action research shifted teacher-researchers from a problem-fixing orientation to a problem-posing orientation](action-research-shifts-to-problem-posing.md) — related
 - [Grounding curriculum development in conceptual frameworks and a systematic process (Kern) enabled scholarly dissemination of a pediatrics curriculum beyond the authors' institution](kern-framework-scholarly-dissemination-pediatrics-curriculum.md) — related
 - [Productive reflective discussion about teaching is anchored in specific observed practices and in connections between concrete examples and general principles of teaching and learning](contextual-and-conceptual-anchors-productive-reflection.md) — related
+- [Reframing a content question as a pedagogical task repositions teachers away from problem-solver risk and creates opportunities to practice CKT](pedagogical-reframing-repositions-teachers.md) — related

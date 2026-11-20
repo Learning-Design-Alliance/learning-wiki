@@ -58,3 +58,4 @@ Exploratory moderation analyses reported in Results: for each hypothesis, mixed 
 - [SDL modality and teacher role do not significantly moderate SDL effectiveness](sdl-modality-teacher-role-no-significant-moderation.md) — related
 - [The multiple identity intervention did not significantly buffer the stereotype threat effect: the three-way interaction was nonsignificant](multiple-identity-priming-no-three-way-buffering.md) — related
 - [Thesis-score gains from the writing intervention did not differ by ethnicity, Hispanic identity, or first-generation legacy status](equal-writing-intervention-gains-across-demographics.md) — related
+- [Neither age (within 7-13) nor prior knowledge played a significant role in achieving high post-test outcomes](age-and-prior-knowledge-not-significant.md) — a narrower finding that bears on this claim

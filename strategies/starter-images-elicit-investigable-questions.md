@@ -43,6 +43,7 @@ Students view pictures of stars one at a time and write questions on large sente
 
 - [Set aside off-topic student questions as QWWNDW ATTs and tell students in advance that many questions will fall in this category](qwwndw-att-question-parking.md)
 - [Sort And Classify](sort-and-classify.md)
+- [Use aesthetically striking, dual art-science images with the four-step Interdisciplinary Image Reading routine in astronomy lessons](four-step-image-reading-astronomy-lessons-strategy.md)
 
 ## Examples
 -

@@ -56,3 +56,4 @@ This is the authors' interpretation regarding ESPB, which has no hard constraint
 - [Students spontaneously set their own challenges and take ownership when exploring PhET simulations](students-self-challenges-phet-sims-ownership.md) — related
 - [Freely explored simulations engage students in making connections, making predictions, testing them and interpreting outcomes](quvis-simulations-promote-student-driven-inquiry.md) — related
 - [Choosing their own music was reported as the cornerstone of students taking ownership of the choreography](music-choice-drives-student-ownership.md) — related
+- [Flexibility in uptake and implementation of university materials was a responsive feature that gave teachers agency to adopt resources at their own pace](flexibility-in-uptake-gives-teachers-agency.md) — a narrower finding that bears on this claim

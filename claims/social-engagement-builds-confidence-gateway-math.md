@@ -53,3 +53,4 @@ Qualitative findings from interviews, surveys, and a diary study with 76 faculty
 - [Participants reported that the trust-building collaborative environment enabled open and vulnerable sharing](trust-climate-enabled-open-sharing.md) — related
 - [Teacher support is one of the strongest predictors of student belonging](teacher-support-strongest-predictor-school-belonging.md) — a broader claim this one bears on
 - [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](students-interaction-empathy-perspective-taking.md) — related
+- [Mutual sharing of vulnerability by veteran and novice teachers helps build a safe space for taking risks](mutual-vulnerability-sharing-builds-safety.md) — related

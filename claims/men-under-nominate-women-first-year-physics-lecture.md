@@ -54,3 +54,6 @@ ERGM analysis of peer-nomination networks in three remote introductory physics c
 - [Men disproportionately under-nominate women as strong in the course material in both offerings of both distinct lab and lecture physics courses](men-under-nominate-women-peer-recognition-physics.md) — related
 - [Women and men respondents produce significantly different ASES network partitions, with the men network most similar and the women network least similar to the full network](women-men-ases-partition-differences.md) — related
 - [Women disproportionately under-nominate men as strong in the spring offering of the lecture course, contrary to prior predictions](women-under-nominate-men-spring-lecture.md) — related
+- [On aggregate, men report significantly higher perceived peer recognition than women in both lab and lecture contexts, with small effect sizes](aggregate-gender-gap-perceived-recognition-small-effect.md) — related
+- [Men and women receive proportional recognition in lab contexts, but men receive disproportionately more recognition than expected in lecture contexts](received-recognition-proportional-lab-biased-lecture.md) — related
+- [For students receiving the same amount of peer recognition, women report significantly lower perceived recognition than men in both lab and lecture contexts](women-lower-perceived-recognition-same-received.md) — related

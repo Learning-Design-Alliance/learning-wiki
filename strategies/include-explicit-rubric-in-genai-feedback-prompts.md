@@ -41,6 +41,7 @@ The article recommends supplying a detailed, task-relevant rubric when prompting
 - [Provide LLM graders with the full human rubric, accepted solutions, and common-mistake penalties in the prompt (rubric-enhanced prompting)](rubric-enhanced-llm-grading-prompt.md)
 - [Reserve LLM grading for short, well-structured tasks with explicit rubrics or exemplar answers, newer models, and stable API pipelines](reserve-llm-grading-for-structured-rubric-tasks.md)
 - [Extend AI-assisted grading with LLM ensembles, richer prompts, and full-length essays](extend-llm-grading-ensembles-richer-prompts-essays.md)
+- [Score-based prompting: inform the LLM of rubric-based essay scores to elicit more constructive feedback](score-based-prompting-efl-feedback.md)
 
 ## Examples
 -

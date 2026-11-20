@@ -60,6 +60,7 @@ The article recommends that implementation of m-learning in developing countries
 - [Implement active learning grassroots-style in developing-country universities using open educational resources, local context-rich editing, and students' smartphones](grassroots-active-learning-open-resources-smartphones-strategy.md)
 - [Support international implementation by adapting the model locally, relying on local leaders, and providing long-term job-embedded professional development](international-implementation-adaptability-leadership.md)
 - [Tailor physician leadership training program content to the specific needs and cultural aspects of each region](tailor-leadership-training-to-regional-culture.md)
+- [Design flexible and adaptive technology interventions tailored to the specific socio-technological context of rural areas](context-tailored-rural-technology-design.md)
 
 ## Examples
 -

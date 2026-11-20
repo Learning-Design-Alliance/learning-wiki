@@ -71,3 +71,4 @@ Same structural model; the three predictors explained "45.9% of the variance in 
 - [Trust in AI partially mediates the associations of both perceived AI empowerment and perceived AI threat with GenAI dependence](trust-in-ai-partially-mediates-appraisals-genai-dependence.md) — related
 - [Epistemic and society-related AI knowledge were negatively associated with trust in GenAI](epistemic-knowledge-negatively-associated-with-genai-trust.md) — related
 - [The integrated model explains substantial variance in student engagement (R² = 0.700) in GenAI-supported learning](integrated-model-explains-engagement-variance-r2-700.md) — related
+- [Perceived benefits and concerns about AI-EdTech significantly predict K-12 teachers' trust in AI-EdTech, explaining 49% of variance in trust](benefits-concerns-predict-teacher-trust-ai-edtech.md) — related

@@ -48,3 +48,4 @@ Comparison of the highest-performing GPT-4 model against the T5 baseline from pr
 ## Related Claims
 - [Zero-shot GPT-4 with iterative prompt engineering achieves 77.30% dialogue act recognition accuracy, outperforming fine-tuned T5, CRF, and BLSTM baselines on a held-out test set.](gpt4-zero-shot-dialogue-act-recognition-outperforms-t5-baselines.md) — possibly the same claim (merge candidate)
 - [Prompt refinements targeting inter-label confusion yield superior recall rates for challenging dialogue act labels, including Command (F1 raised to 0.75) and Other (GPT-4 recall 0.67 vs. T5 0.54).](prompt-refinements-improve-recall-challenging-dialogue-acts.md) — related
+- [Fine-tuned Flan-T5 models perform very poorly on held-out Socratic debugging dialogues](flan-t5-finetuning-poor-socratic-debugging.md) — reports the opposite

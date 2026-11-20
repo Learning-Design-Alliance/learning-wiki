@@ -46,3 +46,4 @@ Synthesis of perception data reported in 15 of the review's 23 studies (65.21%).
 
 ## Related Claims
 - [K-12 students across five schools valued CyberScholar's detailed, specific, rubric-aligned feedback as helpful for identifying areas to revise](students-value-detailed-rubric-aligned-genai-feedback.md) — related
+- [Enforced rubric use in gradetools supports consistent, fair grading across students and questions](rubric-enforcement-consistent-fair-grading.md) — related

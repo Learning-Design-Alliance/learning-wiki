@@ -48,6 +48,7 @@ For challenging problems, the article's group S condition gave students only the
 - [Provide minimal external support (final answer plus notes/textbook) when the target problem is conventional and textbook-similar, to foster meaningful self-diagnosis](minimal-scaffolding-for-conventional-problem-self-diagnosis.md)
 - [Use a written self-diagnosis reflection exercise after group problem solving to help students identify areas of struggle](post-problem-solving-self-diagnosis-reflection-strategy.md)
 - [Provide a self-diagnosis rubric requiring students to explain specific missing details when reviewing their solutions](self-diagnosis-rubric-specific-details-strategy.md)
+- [Use student error tasks in tandem with traditional problem-solving exercises, in class or on exams, to foster metacognitive skills](error-tasks-tandem-problem-solving-strategy.md)
 
 ## Examples
 -

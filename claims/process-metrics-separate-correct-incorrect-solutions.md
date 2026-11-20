@@ -49,3 +49,4 @@ Stage-wise diagnostic comparison of L1-L4 metrics between incorrect and correct 
 - [Reasoning with ground-truth auxiliary diagrams consistently outperforms reasoning from the original diagram alone on GeoVAD-Bench](gt-aux-consistently-outperforms-no-aux-geometry.md) — related
 - [GeoWeave-8B achieves the highest open-source final-answer accuracy and process average on GeoVAD-Bench, gaining 25.3 and 30.4 percentage points over its base model](geoweave-8b-gains-over-basemodel.md) — related
 - [Step-level credit assignment added to Interleave-RL raises the reasoning score from 46.3% to 66.3% on GeoVAD-Bench](step-level-credit-assignment-boosts-reasoning.md) — related
+- [Incorrect vision is a stronger predictor of incorrect TUG-K answers than incorrect reasoning in a logistic regression](incorrect-vision-predicts-incorrect-answers.md) — related

@@ -70,3 +70,4 @@ Pre-intervention Euclidean-geometry items on triangle angle sums and parallel li
 - [The review reports that primary-school children commonly lack a spherical-Earth gravity model and associate gravity with the presence of air](children-gravity-air-alternative-conceptions-reported.md) — related
 - [Incorrect answers about gravity on the moon remained comparable pre- and post-course (26% vs 24%), a topic not directly assessed in the course](gravity-misconceptions-unchanged-not-assessed.md) — related
 - [Year 7 Einsteinian gravity instruction conflicted with concurrent Euclidean geometry teaching, producing persistent confusion](year-7-euclidean-geometry-conflict-curved-space.md) — reports the opposite
+- [Belief that space has no shape falls from 58.2% to 42.4%, with 9.2% post-intervention noting space is curved around masses but flat otherwise](space-shape-misconception-partially-shifts.md) — related

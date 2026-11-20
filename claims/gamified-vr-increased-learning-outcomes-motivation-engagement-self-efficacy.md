@@ -51,3 +51,4 @@ The review's synthesis of the included studies reports that with integrated virt
 - [Immersive technologies are rarely adopted in robotics GBL/gamification but studies using them report heightened engagement, improved spatial reasoning, and enhanced perceived realism](immersive-tech-underused-positive-outcomes-robotics.md) — related
 - [Virtual reality use in TEPBLL positively boosted students' motivation, supporting a self-determination theory interpretation](vr-projects-boost-motivation-sdt.md) — related
 - [VR-based safety training enhances self-efficacy more effectively than traditional lecture-based training](vr-safety-training-enhances-self-efficacy.md) — related
+- [Personalized gamification can enhance student cognition in programming courses by improving motivation, engagement, and learning outcomes](personalized-gamification-enhances-cognition-programming-courses.md) — related

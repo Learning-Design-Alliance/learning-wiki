@@ -49,3 +49,4 @@ Classroom experiments (Cochepin, 2022) on what the camera directly measures: pup
 - [Students commonly equate infrared images with heat rather than electromagnetic radiation](infrared-as-heat-misconception.md) — related
 - [Students continue to have difficulty differentiating heat energy and temperature even after studying thermochemistry](heat-temperature-differentiation-persists-after-instruction.md) — related
 - [Everyday heat and temperature conceptions remain highly relevant at the end of secondary school on ENEM items 2010_Q50 and 2013_Q48](enem-heat-temperature-conceptions.md) — related
+- [High-school students commonly hold unclear or erroneous concepts of heat, work and energy, treating heat and work as forms of energy](students-confuse-heat-work-energy-forms.md) — related

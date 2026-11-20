@@ -60,6 +60,7 @@ The article's implementable procedure: students draft an essay, submit it to Cha
 - [Scaffolded LLM-collaboration assignment cycle: draft, LLM critique, then rebut or incorporate](scaffolded-llm-argumentation-assignment-cycle.md)
 - [Integrate ChatGPT into hands-on skills training through pre-practice preparation, in-session tablet consultation, and post-practice reflection, capped at about 5 minutes per 30-minute session](chatgpt-capped-integration-skills-training-strategy.md)
 - [Add peer review and revision cycles to computational essay courses to supply feedback and correctness checking](peer-review-revision-for-computational-essays.md)
+- [Score-based prompting: inform the LLM of rubric-based essay scores to elicit more constructive feedback](score-based-prompting-efl-feedback.md)
 
 ## Examples
 -

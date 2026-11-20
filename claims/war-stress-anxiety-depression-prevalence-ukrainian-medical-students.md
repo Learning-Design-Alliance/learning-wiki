@@ -56,3 +56,4 @@ Cross-sectional DASS-21 survey of 776 medical students (180 males, 596 females) 
 - [In multiple regression, GPA was negatively associated with stress but positively associated with hyperarousal, anxiety, and depression, while intrusion and avoidance showed no significant influence](regression-stress-negative-hyperarousal-positive-gpa.md) — related
 - [44.2% of surveyed Ukrainian medical students reported significant PTSD symptoms, with the highest subscale score on hyperarousal](ptsd-significant-symptoms-medical-students-war.md) — related
 - [Overall SCL-90 positive rate was 41.2%, with female students showing higher positive rates for depression and males higher for paranoid ideation and psychoticism](scl90-positive-rate-gender-differences.md) — related
+- [Graduate students report notably higher rates of depression and anxiety symptoms than the general population, and many who seek help feel unsupported](grad-mental-health-unsupported-counseling-need.md) — related

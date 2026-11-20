@@ -49,3 +49,5 @@ Self-efficacy scores fractionated by course grade (Table 4 and Figure 2); the ar
 - [In engineering and mathematics, men report higher self-efficacy while women earn higher grades — self-efficacy and performance gender differences run in direct opposition](opposing-self-efficacy-performance-gender-patterns-math-engineering.md) — related
 - [First-year engineering women show significant self-efficacy gaps favoring men in mathematics, engineering, and physics but not chemistry, and all gaps close by the fourth year except physics](self-efficacy-gender-gaps-close-by-year-four-except-physics.md) — related
 - [Women showed larger normalized gains than men on the calculus transfer questions despite lower self-efficacy](women-larger-calculus-transfer-gains.md) — related
+- [Calculus proficiency and calculus self-efficacy are inversely correlated for women but not for men](gender-modulated-calculus-proficiency-selfefficacy-correlation.md) — related
+- [For women, changes in physics self-efficacy and calculus self-efficacy track together; for men they do not](physics-calculus-selfefficacy-tracking-gender.md) — related

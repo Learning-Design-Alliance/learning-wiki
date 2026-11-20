@@ -49,3 +49,5 @@ Two-dimensional histogram (Figure 8) combining Survey 1 answers to Q1.7 and Q1.8
 - [Slightly more than half of former Masterclass participants work outside science and R&D, while STEM-related careers prevail overall](imc-fans-majority-outside-science-rd.md) — related
 - [The shift in interest in CERN and particle physics among former participants is less pronounced than the attitude shift](imc-interest-cern-less-pronounced.md) — related
 - [Former Masterclass participants report a positive shift in their attitude towards science and research](imc-positive-attitude-shift-science.md) — related
+- [Most former Masterclass respondents build careers outside science or R&D, most frequently in IT](imc-careers-spread-across-professions.md) — related
+- [Masterclasses are associated with a positive shift in opinion about science, clearest among respondents working in science or R&D](imc-positive-attitude-shift-toward-science.md) — possibly the same claim (merge candidate)

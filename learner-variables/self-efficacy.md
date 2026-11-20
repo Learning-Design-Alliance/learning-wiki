@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 379 claims (289 show a difference, 49 mixed, 41 no difference) · 298 studies (96 causal, 96 associational, 34 review, 31 qualitative, 21 design, 10 quant-synthesis, 9 theoretical), `q1`–`q4` · 59 of 298 report an effect size · 375 claims rest on one study
+> **Evidence** · 380 claims (289 show a difference, 49 mixed, 42 no difference) · 299 studies (97 causal, 96 associational, 34 review, 31 qualitative, 21 design, 10 quant-synthesis, 9 theoretical), `q1`–`q4` · 59 of 299 report an effect size · 376 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -410,6 +410,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Student confidence in writing about a new scientific discovery increased, with 9 students feeling more confident post-course](../claims/sciwri-increased-confidence-writing-discovery.md) [+M] — measured as an outcome of the instruction studied
 - [A reflective essay argues that working through initially overwhelming physics problems lets learners begin to develop confidence, within and beyond the physics classroom](../claims/physics-problems-build-confidence.md) [+W] — measured as an outcome of the instruction studied
 - [Elementary students' perceived science ability significantly increased after the Dark Skies, Bright Kids astronomy program, while creativity and science aspirations did not change significantly](../claims/dsbk-science-confidence-increased.md) [+M] — measured as an outcome of the instruction studied
+- [Learners' self-confidence in their math-solving abilities remains stable across LLM-supported problem solving](../claims/math-self-confidence-stable-with-llm.md) [-M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

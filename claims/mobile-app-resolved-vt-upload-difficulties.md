@@ -49,3 +49,4 @@ Qualitative diary analysis from 5 experimental participants; the authors conclud
 - [During spring 2020 remote instruction, internet connectivity and hardware/software problems interfered with course participation for large shares of undergraduates](remote-covid-technology-access-problems-widespread.md) — related
 - [Students identified weaknesses in the AI feedback model: lack of real-time feedback, software/economic access barriers, and occasional incorrect or inconsistent outputs](genai-feedback-weaknesses-realtime-and-errors.md) — related
 - [Field usability testing during development surfaced and corrected coding, navigation, image-upload and display problems](writesim-field-usability-iterations-fixed-software-problems.md) — related
+- [About one third of students reported technical issues installing or using the tool, mostly related to the 2022 desktop application](vector-field-tool-technical-issues-one-third.md) — related

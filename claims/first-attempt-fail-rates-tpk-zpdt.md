@@ -50,3 +50,4 @@ Descriptive cohort comparison of exam pass/fail rates. First-attempt theoretical
 - [Student evaluation of learning conditions rated the ZPDT significantly higher than the TPK, particularly for theoretical and practical knowledge transfer](zpdt-vs-tpk-learning-conditions-student-evaluation.md) — related
 - [International medical graduates are far less likely than UK graduates to pass UK postgraduate medical written and clinical examinations at first attempt after adjustment](img-less-likely-pass-postgraduate-exams-first-attempt.md) — related
 - [Most first-year medical students (84.3%) pass all examinations at first attempt, with small fail, repeat and attrition groups](first-year-medical-outcome-distribution-ukcat12.md) — related
+- [Some students struggled transitioning from small guided assignments to the self-driven final project, with 2 of 10 enrolled students failing the course](guided-to-project-transition-struggle-failure.md) — related

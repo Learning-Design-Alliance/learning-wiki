@@ -42,7 +42,8 @@ The article presents scaffolding as the primary classroom application of Vygotsk
 - [Vygotsky Sociocultural Theory Overview](../theories/vygotsky-sociocultural-theory-overview.md)
 
 ## Related Strategies
-- 
+
+- [Use the CoRP framework to identify students' covariational reasoning resources and target instruction within their zone of proximal development](corp-lens-identify-resources-target-instruction.md)
 
 ## Examples
 -

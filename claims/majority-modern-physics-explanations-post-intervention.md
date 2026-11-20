@@ -47,3 +47,5 @@ Categorised analysis of answers to the question about what happens to space when
 ## Related Claims
 - [In one uncontrolled pre-post study, primary pupils mostly explained gravity as interaction or deformation rather than everyday effects after a spacetime-simulator intervention](einsteinian-gravity-shifts-pupil-explanations.md) — related
 - [Upper primary students retained Einsteinian physics concepts, most often space-time and curvature, up to nine years after a six-week intervention](einsteinian-concepts-retained-nine-years.md) — related
+- [Describing gravity as spacetime curvature increases markedly only in Years 10, 12 and 13, and the intervention fails to dispel force-based misconceptions overall](curvature-source-gravity-only-upper-years.md) — reports the opposite
+- [In one uncontrolled pre-post study, students' acceptance that parallel lines can meet rose after a one-off spacetime-curvature intervention, with the largest gains in Years 9, 11 and 12](one-off-gr-intervention-parallel-lines-gains.md) — related

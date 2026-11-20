@@ -69,3 +69,4 @@ Non-parametric test of the same item statistics comparison, conducted after a Ch
 - [GenAI-assisted items showed weaker corrected point-biserial discrimination and more negative discrimination than educator-crafted items](genai-mcq-weaker-discrimination.md) — related
 - [Including ethnicity does not significantly change item discrimination](ethnicity-inclusion-no-discrimination-effect.md) — related
 - [Item difficulty was slightly higher (easier) for 3-option items on the ITE-CCM only, while item discrimination was similar between formats on both exams](three-option-item-difficulty-discrimination-similar.md) — related
+- [Item parameters of homework and online-exam items differ only insignificantly between resource-usage classes, and no performance quartile benefited or was harmed by online resource use](item-parameters-and-quartiles-null-usage-effects.md) — related

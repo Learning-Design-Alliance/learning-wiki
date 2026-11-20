@@ -66,3 +66,5 @@ From the Computer Science teacher-capabilities case study: the disciplinary expe
 ## Related Claims
 - [Excessive GenAI reliance risks undermining foundational ICT knowledge, supporting supervised in-person assessment of foundational content](excessive-genai-reliance-hinders-foundational-knowledge.md) — related
 - [Students regard reduced critical thinking and originality as the biggest threat of ChatGPT use in academia](students-see-reduced-critical-thinking-as-biggest-chatgpt-threat.md) — related
+- [Plagiarized web programming submissions kept the original program semantic and were disguised mainly by color changes and identifier renaming](plagiarism-disguises-web-programming.md) — related
+- [By analogy with mathematics, where computers severely reduced the need for computation, syntax and algorithmic implementation in computing education might shift to AI assistive tools while learners retain design and evaluation](syntax-implementation-shift-to-ai-assistive-tools.md) — related

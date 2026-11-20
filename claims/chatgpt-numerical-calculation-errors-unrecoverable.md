@@ -48,3 +48,5 @@ Across the 76-problem homework sets, calculation errors occurred on 25 of 51 num
 ## Related Claims
 - [GPT-4o's correctness-labeling errors concentrate on final turns requiring numerical calculation, and its main KC-labeling error is assigning too few standards to a turn.](gpt-4o-annotation-errors-concentrate-on-final-turns-and-too-few-kcs.md) — related
 - [Error timing and stakes shape trust in AI systems: later errors may be more damaging, early errors may matter more, and trust recovers quickly after good post-error performance, with high-stakes errors causing abrupt collapse](error-timing-and-stakes-shape-trust.md) — related
+- [ChatGPT performance is stochastic across chat instances, and the models rarely meaningfully self-correct without a user pointing out a specific mistake](chatgpt-stochastic-self-correction-rare.md) — related
+- [One year after ChatGPT's release, introductory physics students still mostly use traditional internet resources rather than AI tools for homework](traditional-sites-beat-ai-in-help-seeking.md) — related

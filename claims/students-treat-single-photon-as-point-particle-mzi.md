@@ -50,3 +50,5 @@ Pretest question 2 in upper-level undergraduate and Ph.D. quantum mechanics cour
 - [Students hold the incorrect model that BS1 splits a photon into two half-energy photons, and this difficulty was reduced after the QuILT (39% to 17% on Q2)](mzi-quilt-photon-splitting-difficulty-reduced.md) — related
 - [Student understanding of wave-particle duality falls into three clusters ranging from classical to quasiquantum description](three-clusters-wave-particle-duality-understanding.md) — related
 - [Setting up and manipulating optics and taking and analyzing data are the most common student actions in single-photon experiment courses](single-photon-experiment-student-actions.md) — related
+- [The Indian curriculum treats the structure of the atom with early, repeated, historically structured introduction while wave-particle duality is introduced late and abruptly](curriculum-treatment-soa-versus-domr.md) — related
+- [A majority of interviewed students found the structure of the atom easier to understand than wave-particle duality, citing historical context as helpful](students-find-soa-easier-than-domr.md) — related

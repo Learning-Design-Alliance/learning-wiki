@@ -48,3 +48,4 @@ Survey 1 results on question Q1.8 (interest in news from CERN and particle physi
 - [Among fans, influence of IMC on career decision shows a hint of anti-correlation with pre-existing ambition, with ambivalent respondents nudged towards particle physics](imc-anticorrelation-ambition-influence-fans.md) — related
 - [Positive attitude shift and interest in CERN are more pronounced among respondents working in science or R&D](imc-attitude-stronger-science-rd-respondents.md) — related
 - [Former Masterclass participants report a positive shift in their attitude towards science and research](imc-positive-attitude-shift-science.md) — related
+- [Masterclasses are associated with a positive shift in opinion about science, clearest among respondents working in science or R&D](imc-positive-attitude-shift-toward-science.md) — related

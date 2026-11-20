@@ -57,3 +57,6 @@ The review reports, citing Ireson and Ayene et al., that cluster analysis of exi
 - [Students misapply object-based resources such as part-for-whole and dying away when reasoning about wave propagation and superposition](object-resources-misapplied-to-waves.md) — related
 - [Most second-year students misinterpret quantum uncertainty as measurement error rather than an intrinsic property](quantum-uncertainty-misread-as-measurement-error.md) — related
 - [Year 9 students used Einsteinian language to describe photons and waves after the Quantum world module](year-9-quantum-world-ep-language-outcomes.md) — a narrower finding that bears on this claim
+- [The Indian curriculum treats the structure of the atom with early, repeated, historically structured introduction while wave-particle duality is introduced late and abruptly](curriculum-treatment-soa-versus-domr.md) — related
+- [Students show inconsistent understanding of the wave nature of particles: about 65% identify electron-wave peaks as probability amplitude but only 35% call the wave nature of a particle a probability wave](inconsistent-probability-wave-understanding.md) — related
+- [A majority of interviewed students found the structure of the atom easier to understand than wave-particle duality, citing historical context as helpful](students-find-soa-easier-than-domr.md) — related

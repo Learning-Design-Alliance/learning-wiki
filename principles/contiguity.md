@@ -195,6 +195,7 @@ The expectation should weaken if new comparisons with novice learners on complex
 - [Proximity](../elements/proximity.md) — related text and graphics placed together, as a building block
 - [Just-in-Time Information](../elements/just-in-time-information.md) — information delivered where and when the learner needs it
 - [Apply evidence-based multimedia design principles](../strategies/apply-evidence-based-multimedia-design-principles.md)
+- [Design multi-sensory shows with slow-paced, highly descriptive narration, advance warning of what comes next, and a calm low sensory load](../strategies/slow-descriptive-narration-calm-multisensory-design.md)
 
 ## Key Sources
 - Ginns, P. (2006). Integrating information: A meta-analysis of the spatial contiguity and temporal contiguity effects. *Learning and Instruction, 16*(6), 511–525. [doi:10.1016/j.learninstruc.2006.10.001](https://doi.org/10.1016/j.learninstruc.2006.10.001)

@@ -70,3 +70,5 @@ Survey question B2 on which radiations are emitted by radioactive nucleus. Only 
 - [Students confuse nuclear fuel with reaction products regarding radioactive elements released in nuclear accidents](students-confuse-nuclear-fuel-reaction-products.md) — related
 - [A majority of students (58%) wrongly believe plutonium and uranium are the radioactive elements mainly released in a nuclear accident, confusing nuclear fuel with reaction products](fuel-vs-reaction-products-confusion.md) — related
 - [Greek non-physics-major undergraduate students hold inadequate and confused knowledge of general-interest nuclear issues, with incorrect answers exceeding correct ones in more than half of the questions](tei-students-faulty-nuclear-views.md) — a broader claim this one bears on
+- [The conception of activation of materials can reemerge in particular framings despite prior denial](activation-conception-reemerges-particular-framings.md) — related
+- [Pre-service teachers inadequately differentiate between radioactive matter and ionizing radiation and between fission and decay](pre-service-teachers-matter-radiation-fission-decay-conflation.md) — related

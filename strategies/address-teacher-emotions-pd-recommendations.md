@@ -42,6 +42,7 @@ The review synthesizes five categories of recommendations from the included stud
 ## Related Strategies
 
 - [Facilitators should monitor vulnerability and call out emotional regimes to preempt deficit narratives in teacher PD](attend-to-vulnerability-and-emotional-regimes-in-pd.md)
+- [PD facilitation design that distances collaborative content discussion from assessment contexts](distancing-pd-task-from-assessment-framing.md)
 
 ## Examples
 -

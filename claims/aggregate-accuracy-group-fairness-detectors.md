@@ -65,3 +65,4 @@ The review reports Pratama's study of scholarly abstracts, in which "97.22% aggr
 - [Lower-performing groups gain relative advantage because the scorer detects incorrect responses better for them, producing more false positives](lower-performers-more-false-positives-advantage.md) — related
 - [ChatGPT writes essays of comparable quality to human authors, which markers rarely flag as AI-generated](chatgpt-essay-quality-equivalent-human.md) — related
 - [The AI text classifier flagged more ChatGPT-group essays as likely AI-generated, but also produced false positives in the control group](ai-classifier-flags-more-gpt-essays-false-positives.md) — a narrower finding that bears on this claim
+- [Instructors and teaching assistants detect AI-generated code with only 69% accuracy and a 22% false positive rate, with large variability between raters](instructor-ai-detection-insufficient.md) — related

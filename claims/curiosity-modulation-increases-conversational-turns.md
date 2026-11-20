@@ -59,3 +59,4 @@ Engagement-depth analysis (§5.1) across 270 conversations reported in Table 2: 
 - [Students who engaged more meaningfully with the GenAI tended to have more sustained interest than control students (exploratory)](meaningful-genai-engagement-sustained-interest.md) — related
 - [The competitive Game Show increased students' tutoring engagement relative to baseline](game-show-increases-tutoring-engagement.md) — related
 - [A peer-role robot in break-time science classrooms did not increase overall science curiosity, though it increased for students who asked it questions](robovie-science-curiosity-mixed-effect.md) — related
+- [Correct tutoring improves AlgoBo's MCQ scores while random irrelevant conversation does not](correct-tutoring-improves-algobo-mcq-scores.md) — related

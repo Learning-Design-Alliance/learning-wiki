@@ -73,3 +73,4 @@ The article attributes this differential benefit, citing Steenbergen-Hu & Cooper
 - [Machine learning measures of student engagement correlate moderately to highly with manual ratings, but manual ratings better predict self-reported engagement](goldberg-ml-engagement-measurement.md) — related
 - [Steenbergen-Hu and Cooper found smaller ITS effects in K-12 school settings where lower-achievers did worse, but more positive ITS effects for university students versus conventional instruction](steenbergen-hu-cooper-school-vs-university-its-effects.md) — related
 - [Two-phase machine learning approach detects causal relations and chains in student essays](machine-learning-detects-causal-relations-essays.md) — a narrower finding that bears on this claim
+- [Systematic offsets are larger when machine coding data from a population different from the training population](population-shift-increases-machine-coding-systematics.md) — a narrower finding that bears on this claim

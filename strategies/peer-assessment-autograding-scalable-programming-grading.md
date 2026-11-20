@@ -46,6 +46,7 @@ The course combined two grading channels for online programming assignments: "pr
 
 - [Team assignments graded by teachers plus anonymous peer scoring within and across teams](tbl-team-assignments-anonymous-peer-scoring.md)
 - [Use LLM grading with an instructor's model answer and rubric for formative assessment of writing in large science classes](llm-formative-grading-model-answer-rubric.md)
+- [Combine autograded frequent quizzes with few gradetools-graded open-ended assignments when teaching staff is limited](combine-autograded-quizzes-with-few-open-ended-assignments.md)
 
 ## Examples
 -

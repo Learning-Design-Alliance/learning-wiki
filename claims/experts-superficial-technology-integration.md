@@ -54,3 +54,4 @@ Qualitative analysis (NVIVO-coded) of seven semi-structured interviews with lead
 - [Teacher educators show shallow understanding of GenAI tools and gaps in aligning AI use with pedagogical goals](teacher-educators-shallow-genai-understanding-gaps.md) — related
 - [Audiovisual media and new image technologies act as windows to the past that can enhance initiation into historical time, but require rigorous pedagogical examination](audiovisual-media-windows-to-the-past.md) — related
 - [Digital literacy reduced to instrumental and technical training is inadequate; authentic digital literacy requires critical understanding of techno-media languages](digital-literacy-beyond-instrumental-training.md) — related
+- [Binary use/don't-use approaches to GenAI in assessment are inadequate; a scalar approach is needed](binary-genai-bans-inadequate-scalar-approach.md) — related

@@ -55,3 +55,4 @@ Authors' summary of lessons from a two-year pilot of a full-year high school qua
 - [Some upper-level students claimed photon polarization states cannot serve as basis vectors for a two state system because a photon can have any polarization](photon-polarization-basis-state-difficulty.md) — related
 - [Students with only high-school-level math can learn rigorous fundamentals of quantum information and computation through a pictorial formalism](high-school-math-sufficient-quantum-information-fundamentals.md) — related
 - [In the authors' classroom experience, the polarizer experiment promoted better learning of matrix operations and illustrated how abstract mathematics models the real world](polarizer-activity-classroom-experience-report.md) — related
+- [The authors report the activity's virtual component proved highly valuable for distance learning in quantum optics](virtual-component-valuable-distance-learning-quantum-optics.md) — related

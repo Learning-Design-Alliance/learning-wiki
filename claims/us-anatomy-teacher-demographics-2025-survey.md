@@ -52,3 +52,4 @@ Cross-sectional electronic survey of US anatomy teachers identified via AAA, HAP
 - [Graduate coursework across the traditional anatomical sciences subdisciplines is inconsistent among US anatomy teachers](inconsistent-subdiscipline-graduate-coursework-anatomy-teachers.md) — related
 - [Final-survey respondents were highly educated: 40% held a master's degree and 30% a doctorate, 90% in a scientific discipline](mooc-survey-demographics-highly-educated.md) — related
 - [The professional profile of the sampled teachers is dominated by recent entrants holding specialization (lato-sensu) degrees rather than masters or doctorates](teacher-profile-specialization-degrees.md) — reports the opposite
+- [QuCS attendees were predominantly doctoral-level and showed a substantial gender imbalance (83.85% male, 14.62% female)](qucs-attendee-demographics-doctoral-gender-imbalance.md) — related

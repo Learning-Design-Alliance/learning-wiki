@@ -54,3 +54,4 @@ Theoretical argument in the commentary's integration-versus-differentiation sect
 - [Struggle is experienced as a necessary and motivating part of theoretical sensemaking](struggle-necessary-and-motivating.md) — related
 - [Students' negative emotional responses to elearning are interpretable as negative achievement emotions associated with maladaptive, rote learning strategies](negative-achievement-emotions-elearning-rote-strategies.md) — related
 - [Negative thoughts about struggling lead to anxiety and disengagement that occupy limited cognitive resources during problem solving](negative-thoughts-anxiety-detrimental-loop.md) — related
+- [Having choice over exercise objects raises the emotional valence of children's learning experience in the ITS](choice-raises-emotional-valence-learning-experience.md) — a narrower finding that bears on this claim

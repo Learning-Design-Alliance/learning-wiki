@@ -75,3 +75,5 @@ The review reports, citing De Hosson, Kermen & Parizot (2010), "a deep lack of u
 - [RelLab's frame-switching simulation supports student reasoning beyond static event diagrams and improved concept-question performance](rellab-frame-switching-supports-reasoning.md) — related
 - [An asymmetry misconception in time dilation was present pre-instruction and reduced after instruction](time-dilation-asymmetry-misconception.md) — related
 - [Teachers hold documented wrong concepts about special relativity, including treating E=mc2 as a mere unit-conversion formula and equating reference frame, coordinate system and observer](teacher-wrong-concepts-relativity-aleman.md) — related
+- [Students view Relativity as applying only at relativistic speeds or large masses, blurring the boundary with classical Mechanics](relativity-boundaries-classical-mechanics-view.md) — related
+- [Students show mixed misconceptions about length contraction, including viewing length as inherent and attributing contraction to high speed](length-contraction-misconceptions-students.md) — related

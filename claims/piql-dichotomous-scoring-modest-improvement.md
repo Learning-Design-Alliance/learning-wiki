@@ -51,3 +51,4 @@ Administration of the PIQL in large-enrollment calculus-based courses, scored di
 - [Item Response Curves expose per-item response patterns beyond dichotomous scoring, including persistent distractor choice and mixed responding](item-response-curves-reveal-patterns.md) — related
 - [A four-level scoring scheme for multiple-choice/multiple-response items reveals response nuance that dichotomous scoring hides](four-level-mcmr-scoring-reveals-nuance.md) — related
 - [PQL develops only slightly during introductory physics instruction, with effect sizes d = 0.3 (PreMech to PostMech) and d = 0.1 (PostMech to PostEM)](pql-develops-little-during-intro-physics.md) — possibly the same claim (merge candidate)
+- [Introductory physics instruction does not substantially improve students' covariational reasoning, even in research-based settings](intro-physics-instruction-limited-covariation-gains.md) — related

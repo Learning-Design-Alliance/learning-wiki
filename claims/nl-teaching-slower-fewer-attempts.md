@@ -69,3 +69,4 @@ Same repeated measures ANOVA on teaching metrics. Fewer features were taught in 
 - [Teaching via paraphrased natural language is perceived as more helpful for learning than sentence-selection, but this perception is not reflected in actual learning gains](nl-perceived-helpful-not-reflected-in-gains.md) — related
 - [A higher proportion of untaught features is learned when teaching via sentence-selection compared to natural language](sentence-selection-higher-proportion-untaught-learned.md) — related
 - [The amount of paraphrasing users engage in during natural language teaching is positively related to improved learning outcomes](paraphrasing-amount-positive-learning-relationship.md) — related
+- [Log analysis: R&R learners used different teaching strategies, requested little help, and conversational learning took longer than reading](rr-log-analysis-strategies-help-time.md) — related

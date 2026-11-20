@@ -53,3 +53,6 @@ Qualitative analysis of the third session, a Socratic-type dialogue about forces
 - [ChatGPT-4's teddy bear answer was correct and detailed, addressing the common free-fall misconception and supporting critical thinking.](chatgpt4-correct-detailed-teddy-bear-answer.md) — related
 - [ChatGPT-4 outperformed Bing Chat in response quality, context understanding, subject comprehension, and overall performance in Physics problem dialogues.](chatgpt4-outperformed-bing-chat-physics-responses.md) — related
 - [Most student groups adopted a probing approach when using ChatGPT in the take-home assignment](majority-groups-adopted-probing-approach.md) — related
+- [Worked ChatGPT prompt-and-response examples are presented as accelerating cybersecurity learning outcomes toward higher Bloom's Taxonomy levels, with ChatGPT acting as a tutorial or personalized tutor](chatgpt-examples-accelerate-cybersec-los-bloom-levels.md) — related
+- [A single correction by ChatGPT-4 is insufficient: the same physics error re-emerges after further probing questions](chatgpt4-error-reemerges-after-probing.md) — related
+- [Specifying the domain in a prompt shifts ChatGPT-4's response toward physics argumentation for an everyday-context problem](specifying-domain-shifts-chatgpt4-physics-argumentation.md) — related

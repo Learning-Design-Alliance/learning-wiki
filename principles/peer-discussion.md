@@ -22,7 +22,7 @@ sources:
 # Peer Discussion
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (10 for, 16 mixed, 1 against) · 36 studies (13 causal, 9 review, 8 quant-synthesis, 3 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 10 of 36 report an effect size · 18 claims rest on one study
+> **Evidence** · 28 claims (11 for, 16 mixed, 1 against) · 37 studies (14 causal, 9 review, 8 quant-synthesis, 3 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 10 of 37 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -90,6 +90,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 - [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Excessive epistemic distancing led one tutorial group to avoid discussing its ideas in its first tutorial discussion](../claims/excessive-distancing-avoids-discussion.md) [~W] — attached 2026-11-17 from Luke D. Conlin (2012), which proposed "Epistemic distancing helps groups evaluate ideas rather than persons, but too much distancing suppresses contribution".
+- [Co-construction rates varied from 0% to 71% and peaked for questions about half of students answered correctly individually](../claims/qm-co-construction-peaks-half-correct.md) [+W] — attached 2026-11-20 from Mary Jane Brundage et al. (2024), which proposed "Use unguided, instructor-free peer collaboration on individually attempted questions, with incentives for out-of-class use".
 
 ## Objective and learner-valued goal
 

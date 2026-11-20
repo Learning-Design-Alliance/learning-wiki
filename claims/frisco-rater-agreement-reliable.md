@@ -114,3 +114,5 @@ Reliability analysis of essay scoring by three high school physics teachers of 1
 - [Duplicate scoring of constructed-response exam questions reveals substantial inter-rater bias and random error even with high score correlations](cr-inter-rater-unreliability.md) — related
 - [Inter-rater agreement for 3D-LAP coding meets a 75% threshold across disciplines and dimensions](3d-lap-inter-rater-agreement.md) — related
 - [Early inter-rater reliability studies found significant variation between teachers grading the same assignment, about 5 points on a 100 point scale](inter-rater-grading-variation-five-points.md) — related
+- [Human inter-annotator agreement and dataset recall of 75.5 validate the benchmark's coverage of high-quality Socratic utterances](human-ita-dataset-recall-validation.md) — related
+- [SRL behaviors can be reliably hand-coded from out-of-the-box automated think-aloud transcriptions](whisper-transcripts-srl-coding-feasibility.md) — related

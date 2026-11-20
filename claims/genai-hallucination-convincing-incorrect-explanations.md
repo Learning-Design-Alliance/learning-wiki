@@ -90,3 +90,6 @@ Observation from the WBA transcripts (e.g. a developmental psychology question i
 - [Chatbot explanations achieved acceptable content validity (average CVI ≥0.92) despite occasional hallucinated or fabricated references](chatbot-explanations-acceptable-cvi-despite-hallucinated-references.md) — related
 - [ChatGPT produced incorrect singular values in its own SVD example, with errors of approximately 16% for the second and third singular values](chatgpt-svd-incorrect-singular-values.md) — a narrower finding that bears on this claim
 - [Confabulation risk is highest for AI tutoring and lowest for AI-as-student use](confabulation-risk-varies-by-ai-use-case.md) — related
+- [Using a black-box LLM for feedback generation limits transparency and explainability](black-box-llm-feedback-transparency-limitation.md) — related
+- [Teachers found it difficult to find questions ChatGPT-3.5 answers incorrectly because it is stronger on factual than conceptual questions](chatgpt35-factual-stronger-than-conceptual.md) — related
+- [A minority of surveyed students reported that ChatGPT reduced their critical or independent thinking or provided inaccurate physics information](minority-students-report-reduced-critical-thinking.md) — related

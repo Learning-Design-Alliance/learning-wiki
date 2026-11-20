@@ -54,3 +54,5 @@ Dependent samples t-tests on SOSESC-P survey responses from three MI courses (N 
 - [Among students who missed a vertical-transfer question on the pre-test, those answering it correctly on the post-test increased in self-efficacy while those still incorrect decreased](q3-improvers-higher-self-efficacy.md) — related
 - [Women showed larger normalized gains than men on the calculus transfer questions despite lower self-efficacy](women-larger-calculus-transfer-gains.md) — related
 - [The class showed positive but not statistically significant self-efficacy change over the semester (normalized change 0.09, Cohen's d = 0.27)](class-positive-nonsignificant-change-0-09.md) — related
+- [Women's calculus self-efficacy significantly decreases over the semester while men's shows little change](women-calculus-self-efficacy-decrease.md) — related
+- [For women, changes in physics self-efficacy and calculus self-efficacy track together; for men they do not](physics-calculus-selfefficacy-tracking-gender.md) — related

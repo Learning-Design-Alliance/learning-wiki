@@ -68,3 +68,4 @@ Item-level analysis reported in the discussion: only 2 of 10 statistical terms i
 - [EBM Confidence Scale scores correlated moderately positively with OSCE Physical Interview performance in the EBM-BOPPPS group](ebm-confidence-osce-physical-interview-correlation.md) — related
 - [EBM-BOPPPS clerks achieved significantly higher total OSCE scores than standalone BOPPPS clerks in a neurology clerkship RCT](ebm-boppps-higher-total-osce-neurology-clerkship.md) — related
 - [EBM-BOPPPS clerks reported significantly higher satisfaction on EBM-specific skills and problem-solving after Bonferroni correction](ebm-boppps-satisfaction-ebm-skills-problem-solving.md) — related
+- [A short course on computational thermodynamics produced a near-total increase in students' self-perceived confidence in mastering and applying computational thermodynamics concepts](computational-thermodynamics-course-confidence-increase.md) — related

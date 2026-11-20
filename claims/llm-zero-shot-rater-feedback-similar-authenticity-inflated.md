@@ -54,3 +54,6 @@ Paired feature-matched comparison of GPT-4.0-Turbo zero-shot ratings (3 runs per
 - [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](human-llm-agreement-low-construct-varying.md) — related
 - [In blind verification, model selection matters more than source type: Bradley-Terry ranking interleaves human coders and LLMs, with per-model win rates spanning significant human advantage to numerical LLM advantage](bradley-terry-model-selection-matters-more-than-source-type.md) — related
 - [GPT-4 achieved almost perfect inter-rater reliability with faculty after three iterations of rubric engineering on three of four medical school OEQ questions](gpt4-almost-perfect-irr-after-rubric-engineering.md) — related
+- [Student researchers' success at identifying GPT-generated feedback was low, with the graduate rater at 63% and undergraduates from 13% to 31%](low-success-identifying-gpt-feedback.md) — related
+- [All four student researchers rated GPT-generated feedback as more useful than human-written feedback](students-rate-gpt-feedback-more-useful.md) — related
+- [Student researchers perceived GPT-generated and human-written feedback as equally correct, with no clear trend favoring either](students-rate-gpt-feedback-equally-correct.md) — related

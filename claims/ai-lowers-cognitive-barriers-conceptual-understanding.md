@@ -53,3 +53,4 @@ Qualitative thematic analysis of interviews and open-ended questionnaires with f
 - [AI raises the ceiling on problem complexity by reducing access complexity rather than cognitive demand](ai-raises-problem-complexity-ceiling.md) — related
 - Students reported that ChatGPT enhanced engagement, comprehension, problem-solving, and perceived relevance in Quantum Theory — related
 - [Transforming quantum-mechanics concepts into concrete computer representations is proposed as a route to deeper understanding than abstract representations allow](computer-representations-deeper-quantum-understanding.md) — related
+- [Majorities of surveyed students reported that interacting with ChatGPT deepened their understanding of physics concepts and were satisfied with its adaptation to their knowledge level](students-report-deepened-understanding-chatgpt.md) — related

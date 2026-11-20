@@ -93,3 +93,5 @@ Exploratory K-means clustering among students only (n = 961, nine features, fixe
 - [K-means clustering identifies three distinct ability profiles among young new farmers, with varying overlap across competency dimensions.](kmeans-clustering-ability-profiles.md) — related
 - [Physicians could not be grouped into distinct learner clusters by motivation, self-assessment, and risk perception in the POCUS context](pocus-no-learner-clusters.md) — related
 - [Latent representations cluster into interpretable behavior types at question level, with less distinguishable task-switching clusters at student level](process-bert-representations-cluster-behavior-types.md) — related
+- [K-means clustering of self-reported resource usage identifies four student classes, from peer-and-helproom users to students using all resources including AI everywhere](four-resource-usage-clusters-physics.md) — related
+- [Self-rated trust in LLM responses declined significantly from pre-test to post-test after learners completed a problem-solving task with the LLM, in one group with no comparison group](trust-in-llm-declines-after-task.md) — related

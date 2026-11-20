@@ -71,3 +71,4 @@ Authors' summary of the 12-prompt benchmark in Sec. 4: prompting approaches sign
 - [Model and student error patterns on IVDA MCQs show limited question-level consistency but comparable difficulty distributions for easiest and hardest questions](limited-model-student-question-level-alignment.md) — related
 - [On MedQA, GPT-5.4-mini's accuracy increases monotonically with prompt sophistication across semantically equivalent questions, with generated Low Literacy prompt variants scoring significantly below Prompt Engineer variants](prompt-privilege-monotonic-accuracy-gap-medqa.md) — related
 - [Iterative persona refinement against reference answers achieved over 90% VSP response accuracy](vsp-persona-response-accuracy-over-90.md) — related
+- [Prompt scope affects models differently: GPT-3.5 benefits from broad all-domain prompts while GPT-4 benefits from domain-specific prompts](prompt-scope-gpt35-broad-gpt4-specific.md) — related

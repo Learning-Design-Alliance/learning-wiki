@@ -56,3 +56,4 @@ Numerical results on a held-out test set (Table 5) comparing the proposed simula
 - [The LLM observation function's per-answer mastery evidence correlates with true mastery at r = 0.68 pooled, but only r ≈ 0.15 within the weak tier, making it least reliable for low-ability learners](collearn-observation-function-within-tier-reliability.md) — related
 - [Angoff estimates correlated with observed item difficulty more strongly for LLMs than for faculty judges](llm-angoff-item-difficulty-correlation.md) — related
 - [MathBERT outperforms the best prior methods on three mathematics-education NLP tasks by 1.18% to 22.01% across metrics](mathbert-outperforms-prior-best-methods.md) — related
+- [Fine-grained per-question simulation of post-test performance outperforms whole-question-set simulation, with pre-test information and engagement improving realism](fine-grained-question-simulation-outperforms-coarse.md) — related

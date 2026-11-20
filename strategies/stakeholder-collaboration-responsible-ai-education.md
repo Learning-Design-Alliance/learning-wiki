@@ -53,4 +53,4 @@ The article recommends that concerns about generative AI in education be address
 -
 
 ## Key Sources
-- Li, L., Ma, Z., Fan, L., Lee, S., Yu, H., & Hemphill, L. (2023). ChatGPT in education: A discourse analysis of worries and concerns on social media. https://arxiv.org/abs/2305.02201
+- Li, L., Ma, Z., Fan, L., Lee, S., Yu, H., & Hemphill, L. (2023). ChatGPT in education: A discourse analysis of worries and concerns on social media. https://arxiv.org/abs/2305.02201. [doi:10.1007/s10639-023-12256-9](https://doi.org/10.1007/s10639-023-12256-9)

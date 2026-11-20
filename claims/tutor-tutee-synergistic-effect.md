@@ -53,3 +53,4 @@ This is the authors' interpretation (type e) of their randomized experiment: the
 - [Teachers perceived lower ability students benefited most from the paired reading programme, in both tutor and tutee roles](lower-ability-students-benefited-most-peer-tutoring.md) — related
 - [Tutees attribute their learning during peer tutoring to significant materials, direct and adjusted help from tutors, and dialogue between partners](focus-group-tutee-learning-causes.md) — related
 - [Tutoring participation fostered tutors' metacognitive development, relational skills, empathy, and emerging professional identity](tutor-development-through-peer-tutoring.md) — related
+- [Teaching a basic LLM tutee produced knowledge-telling rather than knowledge-building](basic-llm-tutee-yields-knowledge-telling.md) — related

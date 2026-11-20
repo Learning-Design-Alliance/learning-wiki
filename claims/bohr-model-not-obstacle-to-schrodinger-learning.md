@@ -51,3 +51,4 @@ Analysis of final-exam descriptions of a ground-state hydrogen atom across four 
 - [Interactive simulations with associated homework increased students' explicit discussion and multiple-model use, but not Schrödinger-model use](simulations-increase-explicit-model-discussion.md) — related
 - [Prompting students to reflect on the Schrödinger model within an exam question increases their use of that model](exam-prompting-increases-schrodinger-model-use.md) — related
 - [Secondary and lower undergraduate students have difficulty letting go of Bohr's planetary atomic model](difficulty-letting-go-bohr-planetary-model.md) — reports the opposite
+- [Most students retain the classical Rutherford or Bohr model of the atom despite later instruction in the quantum-mechanical model](students-retain-bohr-model-despite-quantum-instruction.md) — reports the opposite

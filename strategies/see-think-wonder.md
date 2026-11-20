@@ -109,6 +109,7 @@ The routine makes thinking visible and separates observation from interpretation
 - [KWL](../strategies/kwl.md) — a related pre-inquiry routine that elicits prior knowledge and questions, but without the evidence/inference separation
 - [Use the Ten Times Two routine to build observational vocabulary before data analysis](ten-times-two-looking-activity.md)
 - [Teacher-as-facilitator discussions driven by stimulating questions, with explicit promotion of proper scientific language](facilitator-question-driven-scientific-language.md)
+- [Use aesthetically striking, dual art-science images with the four-step Interdisciplinary Image Reading routine in astronomy lessons](four-step-image-reading-astronomy-lessons-strategy.md)
 
 ## Examples
 - **Science:** students observe a microscopic image of an unfamiliar cell, record observations, propose what it might be, and generate questions that launch a unit on cell structure.

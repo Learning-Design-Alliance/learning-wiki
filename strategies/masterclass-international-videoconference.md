@@ -50,6 +50,7 @@ The masterclass ends with an international videoconference in which 3-5 institut
 - [World Wide Data Day: a two-hour simplified masterclass organized by teachers at their own schools](world-wide-data-day-simplified-masterclass.md)
 - [World Wide Data Day: a short, single-day masterclass experience in schools with authentic LHC data](world-wide-data-day-w2d2-strategy.md)
 - [Special masterclasses for the International Day of Women and Girls in Science with female scientists as role models](women-in-science-masterclasses.md)
+- [Run a nation-wide online Masterclass with recorded lectures, volunteer troubleshooting help, and consultant videoconference rooms](nationwide-online-masterclass-pandemic-adaptation.md)
 
 ## Examples
 -

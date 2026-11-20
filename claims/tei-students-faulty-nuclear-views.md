@@ -56,3 +56,5 @@ Preliminary web-based survey of 131 TEI Piraeus engineering students answering a
 - [Greek technology-oriented undergraduates show low correct-response rates on most radiation and nuclear knowledge questions](greek-students-low-radiation-knowledge.md) — related
 - [Students confuse nuclear fuel with reaction products regarding radioactive elements released in nuclear accidents](students-confuse-nuclear-fuel-reaction-products.md) — a narrower finding that bears on this claim
 - [Students confuse ionizing and non-ionizing radiation about genetic mutation and radioactive emissions](students-confuse-ionizing-nonionizing-radiation.md) — a narrower finding that bears on this claim
+- [Pre-service teachers inadequately differentiate between radioactive matter and ionizing radiation and between fission and decay](pre-service-teachers-matter-radiation-fission-decay-conflation.md) — a narrower finding that bears on this claim
+- [Pre-service teachers describe radioactive materials in terms of elements, usually with atomic number greater than 84](radioactive-materials-described-as-heavy-elements.md) — related

@@ -61,3 +61,4 @@ One-way ANOVA in the randomized three-group experiment (teacher, Zero-shot, CoT;
 - [Few-shot with chain-of-thought prompting achieves the best concordance with human expert ratings for all tested LLMs](few-shot-cot-best-concordance-human-experts.md) — related
 - [CoT + few-shot prompting delivers high accuracy with minimal computational overhead, offering an efficient alternative to multi-agent frameworks](cot-few-shot-efficient-alternative.md) — related
 - [Choice of prompting technique (Zero Shot, In Context Learning, Confirmatory Check) shows no statistically significant effect on LLM Physics question performance at any academic level](prompting-technique-no-significant-effect-physics-questions.md) — related
+- [Chain-of-thought prompting increases recall at the expense of precision for GPT-4 but lowers GPT-3.5 performance](cot-recall-precision-tradeoff-socratic.md) — related

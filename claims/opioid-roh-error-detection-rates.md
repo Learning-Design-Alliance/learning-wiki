@@ -51,3 +51,4 @@ Observational evaluation of 86 paired simulation sessions with 172 geriatric hea
 - [Double-check performance during opioid preparation was poor, with a median of 1 of 7 items performed and only the dosage check exceeding 30% of pairs](opioid-roh-double-check-suboptimal.md) — related
 - [Participants rated the opioid RoH highly (9.2/10) and 73% reported a self-assessed knowledge gain, with high self-rated knowledge rising from 22% to 79%](opioid-roh-satisfaction-knowledge-gain.md) — related
 - [Missing isolation precautions for a documented influenza infection were overlooked by nearly all groups in the room of horror exercise](roh-isolation-precautions-overlooked.md) — related
+- [On its first exam use with 358 PHYS 115 students, the student error task yielded a mean score of 60% (median 70%, SD 26%), with 13% of students identifying all three embedded errors](student-error-task-first-exam-results.md) — related

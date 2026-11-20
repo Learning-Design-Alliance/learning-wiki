@@ -52,3 +52,4 @@ Pretest analysis of QMCS data across modern physics courses, shown in Fig. 1. Sc
 - [Reformed modern physics courses score higher than traditional ones on the QMCS, but average differences are small](qmcs-reformed-vs-traditional-small-differences.md) — related
 - [QMCS Version 2.0 shows item difficulties from 0.27 to 0.91, Cronbach Alpha of 0.44, and Ferguson's delta of 0.93](qmcs-item-and-test-statistics-v2.md) — related
 - [Graduate quantum students show no pretest-posttest difference and no correlation between QMCS scores and final exam scores](qmcs-graduate-courses-no-gains-no-correlation.md) — related
+- [Undergraduate students without mechanical engineering majors perform near random-guessing level on the mechanics exam](non-me-undergrads-near-random-guessing-mechanics-exam.md) — related

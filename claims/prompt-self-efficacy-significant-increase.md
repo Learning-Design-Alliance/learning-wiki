@@ -68,3 +68,4 @@ Paired-samples t-test on an eight-item 5-point prompt self-efficacy scale admini
 - [All four teaching methods were followed by significant pre-to-post gains in learning, satisfaction and self-efficacy](all-methods-pre-post-gains.md) — related
 - [Self-efficacy and knowledge rose from pre-test to post-test within the full sample, with the knowledge change significant and self-efficacy change also significant overall](full-sample-pre-post-increases-haematology.md) — related
 - [A short FiPy-based course improved students' self-efficacy related to PDEs, with the greatest boost among students with the least initial confidence](fipy-short-course-improved-pde-self-efficacy.md) — a narrower finding that bears on this claim
+- [Learners' self-reported confidence in using LLMs rose after guidance and fell significantly after task use, measured within conditions from pre-test to post-test](guidance-confidence-boost-then-drop.md) — related

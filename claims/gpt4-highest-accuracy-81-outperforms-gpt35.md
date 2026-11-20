@@ -87,3 +87,4 @@ Subgroup analysis by LLM type across the 36 included studies (GPT-4 n=30, GPT-3.
 - [GPT-4o and GPT-4 significantly outperform the medical student average accuracy of 59.3% on the same question set](gpt-4o-and-gpt-4-outperform-medical-student-average.md) — a narrower finding that bears on this claim
 - [GPT-4o and GPT-4 significantly outperform GPT-3.5 and Google Bard on overall accuracy across four medical licensing examinations](gpt4o-gpt4-outperform-gpt35-bard-medical-licensing-exams.md) — related
 - [ChatGPT 4.0 significantly outperforms ChatGPT 3.5 and Google Bard in accuracy on English NCLEX-RN practice MCQs](chatgpt-4-highest-accuracy-english-nclex-rn-mcqs.md) — a narrower finding that bears on this claim
+- [GPT-4 and Claude-2.1 outperform engineering faculty on a closed-book mechanics conceptual exam, while human faculty retain an edge in Continuum Mechanics](gpt4-claude-outperform-mechanics-faculty-except-continuum-mechanics.md) — related

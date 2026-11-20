@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-11-20
 sources:
   - id: p-g-kubendran-amos-2023
     resource: "https://doi.org/10.2139/ssrn.4484188"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When the same two questions were assigned to thirteen groups required to use ChatGPT, a cursory view of the responses revealed no noticeable similarities between groups. [→ P G Kubendran Amos 2023](#p-g-kubendran-amos-2023)

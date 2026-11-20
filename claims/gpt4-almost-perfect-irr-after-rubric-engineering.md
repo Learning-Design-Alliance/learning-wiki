@@ -69,3 +69,4 @@ Results of the three-iteration scoring study at ZSOM and UCSF, where faculty sco
 - [The scenario-based assessment showed high inter-rater reliability between the two interviewer raters (weighted kappa 0.88)](scenario-assessment-inter-rater-reliability-kappa-088.md) — related
 - [Students consider open-ended assignment grading fair but many find open-ended questions hard to answer](open-ended-assignments-fair-but-challenging.md) — related
 - [Inter-rater agreement for 3D-LAP coding meets a 75% threshold across disciplines and dimensions](3d-lap-inter-rater-agreement.md) — related
+- [Instructors rated approximately 70% of GPT-generated feedback statements as needing only minor or no modification, with an average rating of 2.06 on a 0-3 scale](instructors-rate-70-percent-gpt-feedback-minor-editing.md) — related

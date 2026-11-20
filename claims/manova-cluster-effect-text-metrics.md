@@ -58,3 +58,4 @@ Omnibus MANOVA treating the six benchmark scores as joint dependent variables to
 - [Textbook format choice produces a significant multivariate difference in university students' motivation and self-regulated learning scores](textbook-format-manova-omnibus-difference.md) — related
 - [Surface-feature similarity of passage pairs does not affect self-derivation performance or patterns of episode-detail endorsement](surface-similarity-no-effect-integration.md) — related
 - [Prompting type shows no significant effect on rated text quality (transfer, validity of conclusions, integration), with low interrater reliability for two criteria](prompting-no-effect-rated-text-quality.md) — related
+- [Automatic text-similarity metrics do not correlate with manual evaluation for Socratic utterance generation](automatic-metrics-uncorrelated-socratic-manual-eval.md) — related

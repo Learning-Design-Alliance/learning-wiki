@@ -51,6 +51,7 @@ Based on the logistical obstacles encountered in the first implementation, the a
 
 - [Dilute laboratory work across more sessions, plan each step, and avoid dead times when running labs with low-motivation vocational students](dilute-lab-work-plan-steps-avoid-dead-times-strategy.md)
 - [Provide active semester-long support to keep study groups active](semester-long-active-study-group-support.md)
+- [Tutor carousel rotation to reduce tutor variation in multi-tutor online courses](tutor-carousel-rotation-strategy.md)
 
 ## Examples
 -

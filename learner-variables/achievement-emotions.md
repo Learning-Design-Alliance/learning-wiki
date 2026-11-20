@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 284 claims (197 show a difference, 60 mixed, 27 no difference) · 180 studies (65 associational, 56 causal, 18 review, 16 qualitative, 13 design, 10 theoretical, 2 quant-synthesis), `q1`–`q4` · 40 of 180 report an effect size · 281 claims rest on one study
+> **Evidence** · 285 claims (198 show a difference, 60 mixed, 27 no difference) · 181 studies (65 associational, 56 causal, 18 review, 16 qualitative, 14 design, 10 theoretical, 2 quant-synthesis), `q1`–`q4` · 40 of 181 report an effect size · 282 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -319,6 +319,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Subjects estimated that debugging with Eye reduces frustration by 61.43% on average](../claims/eye-survey-frustration-reduction.md) [+W] — measured as an outcome of the instruction studied
 - [Participants report VR lessons significantly more enjoyable than PC lessons](../claims/vr-more-enjoyable-than-pc.md) [+M] — measured as an outcome of the instruction studied
 - [Participants rate the VR learning experience as enjoyable, with more than 75% agreeing or strongly agreeing](../claims/vr-enjoyment-high-ratings.md) [+M] — measured as an outcome of the instruction studied
+- [Some pilot participants reported frustration with ChatGPT dialogues, sometimes becoming overly exhausting](../claims/chatgpt-dialogue-frustration-pilot.md) [+M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

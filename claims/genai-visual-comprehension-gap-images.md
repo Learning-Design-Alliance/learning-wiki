@@ -50,3 +50,4 @@ The authors' interpretation of their benchmark result, reported in the discussio
 - [ChatGPT performs poorly on image-based data interpretation across DNA footprinting and BLI questions regardless of image detail](chatgpt-poor-image-inference-scientific-graphs.md) — related
 - [All four multimodal LLMs show a marked decrease in correct response rates on visually-based versus text-only JNEOT questions](llm-visual-question-decline-jneot.md) — a broader claim this one bears on
 - [All evaluated models struggle with spatial reasoning and precise visual replication on Turtle Graphics tasks](vlms-struggle-spatial-reasoning-visual-precision.md) — related
+- [ChatGPT's TUG-K responses show correct reasoning in 69.7% but correct visual interpretation in only 30.9%, with no significant association between the two](chatgpt-tug-k-reasoning-versus-vision-correctness.md) — a narrower finding that bears on this claim

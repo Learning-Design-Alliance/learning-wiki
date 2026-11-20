@@ -48,6 +48,7 @@ In response to the low-rated peer network, Cal-Bridge pairs volunteer peer mento
 
 - [Assign each scholar two mentors — a home-campus faculty member and a faculty member at a PhD-granting institution — meeting twice monthly](cal-bridge-joint-mentoring-strategy.md)
 - [Mentoring](mentoring.md)
+- [Include peer and near-peer mentoring structures such as a bridge buddy system](peer-near-peer-bridge-mentoring.md)
 
 ## Examples
 -

@@ -73,3 +73,4 @@ Bivariate correlation reported in the discussion of the moderation result for th
 - [Neither self-efficacy nor course type statistically predicted students' decisions to continue ChatGPT feedback conversations](self-efficacy-course-type-not-predict-continued-ai-conversations.md) — related
 - [Main structural paths remain substantively unchanged after controlling for gender, major, and AI tool use frequency](paths-robust-to-demographic-controls.md) — related
 - [Focal paths are robust to background controls, which did not directly predict AI integration intention](focal-paths-robust-to-background-controls.md) — related
+- [Among RATsApp users, intention to use shows a significant linear relation with frequency of use (0.42, p = 0.0014)](intention-to-use-relates-to-frequency-of-use-ratsapp.md) — related

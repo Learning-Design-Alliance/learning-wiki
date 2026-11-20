@@ -38,7 +38,8 @@ The article's case study points to a deployment recipe for predictive signals in
 - tutor-supported effort regulation
 
 ## Related Strategies
-- 
+
+- [Direct tutor effort toward the lowest-achieving students using a dashboard rather than a round-robin allocation](dashboard-directed-tutor-allocation.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Comparison of QMCS post-test scores across student backgrounds: 86% ± 5% for M.
 - [Modern physics students' QMCS pretest scores are only slightly above random guessing](qmcs-pretest-near-random-guessing.md) — related
 - [Reformed modern physics courses score higher than traditional ones on the QMCS, but average differences are small](qmcs-reformed-vs-traditional-small-differences.md) — related
 - [Graduate quantum students show no pretest-posttest difference and no correlation between QMCS scores and final exam scores](qmcs-graduate-courses-no-gains-no-correlation.md) — related
+- [Undergraduate students without mechanical engineering majors perform near random-guessing level on the mechanics exam](non-me-undergrads-near-random-guessing-mechanics-exam.md) — reports the opposite

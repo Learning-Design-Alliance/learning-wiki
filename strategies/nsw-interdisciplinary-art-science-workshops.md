@@ -55,6 +55,7 @@ NSW delivers hands-on community workshops where participants learn science conte
 - [Teach astronomy through dual-perspective storytelling (indigenous and Western science stories woven together)](dual-perspective-astronomy-storytelling.md)
 - [Dual-site Native Skywatchers educator workshops embedding star knowledge in authentic cultural context](native-skywatchers-educator-workshops.md)
 - [Arts and Crafts](arts_and_crafts.md)
+- [Use aesthetically striking, dual art-science images with the four-step Interdisciplinary Image Reading routine in astronomy lessons](four-step-image-reading-astronomy-lessons-strategy.md)
 
 ## Examples
 -

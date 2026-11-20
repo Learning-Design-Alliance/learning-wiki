@@ -53,3 +53,4 @@ Results-section analysis of preregistered task completion time (minutes, top-cod
 - [Access to a generative-AI assistant raises task performance for both lower- and higher-education adults, with significantly larger gains for lower-education participants](ai-assistance-raises-task-performance-larger-gains-lower-education.md) — related
 - [GenAI assistance narrows the productivity gap between native and non-native English speaking students](genai-productivity-leveling-nnes.md) — related
 - [Training with the voice-based synthetic assistant caused no statistically significant loss in task execution time and no significant time difference between groups across testing scenarios](vbsa-no-execution-time-loss.md) — related
+- [Plagiarism and AI assistance misuse both reduced completion time, with plagiarism reducing it more sharply than AI assistance](plagiarism-ai-reduced-completion-time-web-programming.md) — related

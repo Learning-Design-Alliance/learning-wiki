@@ -70,6 +70,7 @@ Multiple representations work because they distribute information across verbal 
 - [Design CSCL environments for group awareness and representational guidance to cut coordination load](cscl-group-awareness-representational-guidance.md)
 - [CSCL environments should support learners' engagement with multiple forms of representations and help them meaningfully connect them in ways that foster knowledge construction.](cscl-environments-support-multiple-representations.md)
 - [Bundle multiple provider education modalities (workshops, lectures, outreach visits, distributed materials) rather than a single session](bundle-provider-education-interventions.md)
+- [Design multi-sensory shows with slow-paced, highly descriptive narration, advance warning of what comes next, and a calm low sensory load](slow-descriptive-narration-calm-multisensory-design.md)
 
 ## Examples
 - **[CAST UDL Guidelines](https://udlguidelines.cast.org)** — the source framework for this strategy, with representation checkpoints for perception, language, and comprehension.

@@ -43,6 +43,7 @@ The article describes the pillar integration process (PIP), following Johnson et
 
 - [Follow guidelines distinguishing joint display development for analysis (process) versus reporting (product) purposes](guidelines-analysis-versus-reporting-joint-displays.md)
 - [Use qualitizing data transformation to convert quantitative results into narrative profiles for comparison with qualitative data](qualitizing-data-transformation-for-joint-displays.md)
+- [Divide laboratory activities into parallel student-group strands merged in a joint final analysis](two-group-parallel-activity-division-mkid-lab.md)
 
 ## Examples
 -

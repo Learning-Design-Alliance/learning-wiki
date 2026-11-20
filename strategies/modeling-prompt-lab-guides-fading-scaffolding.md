@@ -52,6 +52,7 @@ In transformed CU lab courses, lab guides explicitly prompted students to engage
 - [Use guided-inquiry prompts organized by modeling-framework stages (construction, prediction, measurement modeling, comparison, refinement) in a polarization-of-light lab](modeling-prompt-stages-polarization-lab.md)
 - [Three-part course transformation combining enhanced preparation, in-class analysis, and project accountability](three-part-electronics-course-transformation.md)
 - [Assessments of modeling should allow students to skip the propose-cause prompt and circle back after further measurements and revisions](assessment-allow-deferred-cause-proposals.md)
+- [Use an open problem with discrepant data to scaffold student knowledge construction in the laboratory](open-problem-discrepancy-knowledge-construction.md)
 
 ## Examples
 -

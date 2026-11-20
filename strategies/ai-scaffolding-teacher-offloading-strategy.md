@@ -43,6 +43,7 @@ Based on the observed differentiated trajectories and the time-lag effect in low
 - [Balance human and automated feedback to optimize writing skill development](balance-human-and-automated-feedback-writing.md)
 - [Design AI-supported programming courses with critique-the-AI phases, planned fading, and verification journals](critique-ai-phases-planned-fading-verification-journals.md)
 - [Tailor feedback strategies by question type: discourage MCQ trial-and-error and scaffold open-ended revision](tailor-feedback-strategy-by-question-type.md)
+- [Adapt open-endedness to learner skill level and scaffold exploration with graduated guidance](adapt-open-endedness-to-skill-level.md)
 
 ## Examples
 -

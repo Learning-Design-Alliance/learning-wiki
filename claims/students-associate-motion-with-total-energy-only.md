@@ -52,3 +52,4 @@ On question 2, which asked students to identify two different potential energy d
 - [Many students believe potential energy cannot be negative](students-believe-potential-energy-cannot-be-negative.md) — related
 - [Students fail to coordinate the multiple, ontologically conflicting descriptions embedded in physicists' language, which may produce patterns interpreted as misconceptions](students-fail-to-coordinate-conflicting-descriptions.md) — related
 - [Only 36% of introductory physics students correctly identified conserved total mechanical energy on a cyclist-uphill item even after instruction](confusion-forms-of-energy-36-percent.md) — related
+- [An initial time value acts as an anchor: students use t = 2 s instead of the requested t = 1 s when calculating the rate of change of kinetic energy](anchoring-effect-time-interval-projectile.md) — related

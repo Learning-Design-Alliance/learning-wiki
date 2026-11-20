@@ -66,3 +66,4 @@ Perception data from the mixed-methods study of 30 first-year EAP students, anal
 - [Prior studies summarised in one article report that students rate instructor feedback above AI-generated feedback, and rate AI feedback lower once they know its origin](students-prefer-human-feedback-over-ai.md) — related
 - [A majority of students (53.1%) preferred a combination of AI and expert feedback over either source alone](majority-prefer-combined-ai-expert-feedback.md) — related
 - [After experiencing exclusive e-learning, a majority of Croatian health sciences students preferred a future combination of classroom and e-learning over either alone](students-prefer-blended-future.md) — related
+- [Students did not show a clear preference for writing hints with or without the GPT-4 scaffold](no-clear-preference-gpt4-scaffold.md) — related

@@ -58,3 +58,4 @@ The article attributes this cognitive offloading argument to Atchley et al. (202
 - [Overreliance on GenAI risks diminishing higher-order thinking skills and programming logic](genai-overreliance-risks-hots-programming-logic.md) — related
 - [Cognitive offloading — using physical external elements to reduce task cognitive demand — improves performance in perception, memory, mathematical thinking, and spatial reasoning](cognitive-offloading-improves-performance-extended-mind.md) — related
 - [Gesturing facilitates thinking by offloading cognition and providing kinesthetic information that can change predictions](gesturing-facilitates-idea-construction.md) — related
+- [Attaining higher-order Bloom's skills such as create and plan requires retained lower-order knowledge, so lower skills cannot simply be delegated to lookup tools like ChatGPT](higher-order-bloom-skills-require-lower-order-knowledge.md) — related

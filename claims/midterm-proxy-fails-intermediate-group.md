@@ -48,3 +48,4 @@ Logistic regression using first-midterm scores as a proxy for final grade within
 ## Related Claims
 - [Final grade positively predicts persistence overall, but grades in the middle of the pack show no statistically significant correlation with persistence](final-grade-predicts-persistence-except-intermediate.md) — related
 - [For students with intermediate final grades, out-of-class network centrality—not grade or in-class centrality—is the statistically significant predictor of persistence](out-of-class-network-predicts-persistence-intermediate-grades.md) — related
+- [In a linear regression, the supervised on-campus exam score is the only statistically significant predictor of the final exam score](campus-exams-only-significant-final-predictor.md) — related

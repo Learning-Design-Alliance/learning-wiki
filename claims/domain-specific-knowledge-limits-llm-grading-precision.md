@@ -53,3 +53,4 @@ Authors' interpretation in the discussion, not a directly tested hypothesis: the
 - [More complex prompts tend to elicit superior results with advanced LLM versions (authors' observation)](complex-prompts-elicit-better-llm-results.md) — reports the opposite
 - [Switching from reference-based to contextual evaluation prompts improved GenAI grading accuracy](contextual-evaluation-prompt-improvement.md) — related
 - [Claude showed strong Turkish-language adaptability, which the authors attribute to its superior scenario performance](claude-turkish-language-adaptability.md) — related
+- [Prompt scope affects models differently: GPT-3.5 benefits from broad all-domain prompts while GPT-4 benefits from domain-specific prompts](prompt-scope-gpt35-broad-gpt4-specific.md) — related

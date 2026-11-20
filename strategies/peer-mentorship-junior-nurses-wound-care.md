@@ -53,6 +53,7 @@ The article recommends that hospitals "Formalize clinical peer‐mentorship prog
 - [Implement sepsis care bundles and formal sepsis training modules during healthcare student training](sepsis-care-bundles-during-training-strategy.md)
 - [Nursing programs strengthen academic achievement via mentorship, peer support, self-efficacy workshops and interactive learning environments](mentorship-peer-support-strengthen-professional-identity.md)
 - [Establish mentorship development activities and train-the-mentor programs to expand and improve mentorship](mentorship-development-and-train-the-mentor.md)
+- [Include peer and near-peer mentoring structures such as a bridge buddy system](peer-near-peer-bridge-mentoring.md)
 
 ## Examples
 -

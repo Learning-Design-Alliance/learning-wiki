@@ -52,3 +52,4 @@ Preliminary analysis of the IQWs satisfaction questionnaire (564 responses) show
 - [When conditioned on interest in physics outside school, male and female students' answers about wanting to be a scientist become very similar](masterclass-career-gap-conditional-on-physics-interest.md) — related
 - [In-person quantum outreach activities scored higher than online conferences in visitor satisfaction ratings](in-person-outreach-scored-better-than-online.md) — related
 - [Teachers and common visitors scored better than students across all satisfaction categories in quantum outreach events](teachers-score-better-than-students-outreach.md) — related
+- [All six female ISS project participants succeeded in a STEM major, suggesting the contest helped reduce the gender gap](iss-female-participants-stem-success.md) — related

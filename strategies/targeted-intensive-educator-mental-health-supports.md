@@ -46,6 +46,7 @@ For educators at increased risk, the brief recommends regular mental health chec
 - [Programming clubs should target upsolving discipline and peer network density through structured post-contest review and mentor-buddy systems](structured-upsolving-and-mentor-buddy-retention-strategy.md)
 - [Universities in conflict zones should implement mental health screenings, accessible counseling, support networks, and curricular adaptations to reduce academic pressure](wartime-student-mental-health-wellness-programs.md)
 - [Establish school-based health and wellbeing programs to prevent health-risk behaviors and improve academic performance](school-health-wellbeing-programs-academic-performance.md)
+- [Include peer and near-peer mentoring structures such as a bridge buddy system](peer-near-peer-bridge-mentoring.md)
 
 ## Examples
 -

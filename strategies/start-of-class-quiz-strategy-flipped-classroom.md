@@ -60,6 +60,7 @@ The article recommends that instructors use short quizzes at the beginning of fa
 - [Implementation practices for adopting preclass reading guides in college science courses](reading-guide-implementation-recommendations.md)
 - [Embed videos in active learning with interactive questions, student control, guiding questions, or homework integration](video-active-learning-embedding-strategies.md)
 - [Diagnose computation fluency with brief calculator-free quizzes, then provide practice or a math-for-physical-sciences course before the topic is needed](diagnose-remediate-math-automaticity-strategy.md)
+- [Combine autograded frequent quizzes with few gradetools-graded open-ended assignments when teaching staff is limited](combine-autograded-quizzes-with-few-open-ended-assignments.md)
 
 ## Examples
 -

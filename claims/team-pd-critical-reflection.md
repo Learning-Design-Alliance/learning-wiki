@@ -49,3 +49,4 @@ Thematic synthesis of seven qualitative and mixed-methods studies; Roblin and Ma
 - [Peer reflective groups encourage student teachers to challenge existing theories and model collaborative professional development](peer-reflective-groups-challenge-student-teacher-views.md) — related
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — a broader claim this one bears on
 - [Team-based professional development is associated with shifts toward more student-centered teaching in qualitative studies, but not in one quantitative online-training study](team-pd-teaching-approach-shift.md) — related
+- [Teaching Helper helps learners reflect on and sequence their teaching, but shows no significant metacognition improvement](teaching-helper-no-metacognition-gain.md) — related

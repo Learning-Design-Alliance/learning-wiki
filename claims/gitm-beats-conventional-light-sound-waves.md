@@ -81,3 +81,4 @@ Descriptive results in Table 2 from the quasi-experiment: experimental group pos
 - [Reflective inquiry instructional technique produces significantly higher achievement in Electronic Works trade than conventional teaching method](reflective-inquiry-beats-conventional-electronic-works.md) — related
 - [Student-centred approaches (problem-based learning, guided inquiry, cooperative learning) outperformed teacher-centred methods in the reviewed studies](student-centred-methods-outperform-teacher-centred.md) — a broader claim this one bears on
 - [Guided inquiry with wave simulations significantly improves AP physics students' wave characteristics content performance](guided-inquiry-simulation-wave-characteristics-gain.md) — related
+- [Guided inquiry produces higher cognitive learning outcomes than conventional learning in chemistry](guided-inquiry-higher-cognitive-outcomes.md) — related

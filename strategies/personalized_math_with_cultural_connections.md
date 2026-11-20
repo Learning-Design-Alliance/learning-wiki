@@ -64,6 +64,7 @@ Relevant, interest-based contexts increase engagement and can improve performanc
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — cultural contexts work by surfacing what students already know
 - [Analogies](../strategies/analogies.md) — a familiar context functions as an analogy for the abstract structure
 - [Present contextual mathematics problems in the local cultural context](local-cultural-context-problems-strategy.md)
+- [Design physics problems set in local ocean-literacy contexts so students connect physics to maritime life](ocean-literacy-contextual-physics-problems-strategy.md)
 
 ## Examples
 - **Walkington's adaptive personalization studies** — algebra problems personalized to hobbies (sports, music, gaming) improved performance in [ASSISTments](https://www.assistments.org)

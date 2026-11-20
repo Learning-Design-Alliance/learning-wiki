@@ -53,3 +53,4 @@ Theoretical argument in the section on why detection-oriented approaches are mis
 - [Perfect AI execution cannot remove four limits: accuracy does not settle end-setting, safety does not confer legitimacy, detection does not secure integrity, and outputs do not replace participation](four-limits-perfect-ai-execution.md) — related
 - [GenAI-era assessment reform should move beyond defensive approaches focused primarily on preventing misconduct or detecting AI use](beyond-defensive-assessment-genai-era.md) — possibly the same claim (merge candidate)
 - Standard empirical review criteria are not relevant to theoretical scholarship and may lead reviewers to reject it — related
+- [Binary use/don't-use approaches to GenAI in assessment are inadequate; a scalar approach is needed](binary-genai-bans-inadequate-scalar-approach.md) — related

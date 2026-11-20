@@ -46,3 +46,4 @@ Exploratory observational study at the 2012 Madrid Science Week with 17 particip
 
 ## Related Claims
 - [Effortful regulation is maximized at moderate levels of emotional and physiological reactivity and declines at very low or very high levels](inverted-u-arousal-executive-function.md) — related
+- [Having choice over exercise objects raises the emotional valence of children's learning experience in the ITS](choice-raises-emotional-valence-learning-experience.md) — related

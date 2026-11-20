@@ -130,6 +130,7 @@ Retrieval practice produces substantially more durable retention than restudying
 - [Implement retrieval practice as frequent low- or no-stakes quizzes with feedback, framed as learning opportunities](low-stakes-retrieval-practice-implementation.md)
 - [Embed low-stakes formative assessment activities throughout the course, such as think-pair-share, clicker questions, tutorials with pre- and post-tests, collaborative problem solving, minute papers, and concept maps](embedded-low-stakes-formative-assessment-activities.md)
 - [Use short variable tests as a pre-lecture attentiveness and attendance check](short-pre-lecture-attentiveness-attendance-test.md)
+- [Combine autograded frequent quizzes with few gradetools-graded open-ended assignments when teaching staff is limited](combine-autograded-quizzes-with-few-open-ended-assignments.md)
 
 ## Examples
 - **Team-Based Learning** ([tbl.teamslearn.org](http://www.tbl.teamslearn.org)) — individual Readiness Assurance Tests taken before team discussion, with immediate appeal and feedback

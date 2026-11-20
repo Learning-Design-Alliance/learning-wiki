@@ -47,3 +47,4 @@ Comparative case study of two physics PhD students' advisor searches based on se
 ## Related Claims
 - [A first-generation student's search was delayed by missing norms knowledge, conflicting departmental guidance, and funding-based rejections](conflicting-guidance-and-funding-rejections-delayed-group-search.md) — a narrower finding that bears on this claim
 - [REU participation and prior family familiarity gave Alex access to prospective advisors before matriculation, enabling pre-graduate-school matching](reu-access-enabled-early-advisor-matching.md) — a narrower finding that bears on this claim
+- [Physics PhD students characterize joining a research group as a significant decision because of the advisor relationship, long-term commitment, career impact, and risk of leaving](joining-research-group-significant-decision-phd.md) — a broader claim this one bears on

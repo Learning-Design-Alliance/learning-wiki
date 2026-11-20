@@ -48,3 +48,4 @@ Secondary analysis of the pre/post survey data examining learner characteristics
 - [All residents significantly increased knowledge of the timing of endoscopy for acute esophageal variceal bleeds (p < .001)](endoscopy-timing-knowledge-gain-all-residents.md) — related
 - [PGY1 and PGY2 residents showed statistically significant knowledge gains on treatment of nonvariceal GI bleeds after the simulation (PGY1 p < .001, PGY2 p = .001)](pgy1-pgy2-nonvariceal-bleed-knowledge-gains.md) — related
 - [PGY3 residents' knowledge decreased slightly from pre- to postsimulation on acute variceal hemorrhage (84.6% to 81.3%) and nonvariceal GI bleed treatment (100% to 96.9%)](pgy3-knowledge-slight-decrease.md) — reports the opposite
+- [Participants in both GutGPT and dashboard arms generally improved on the GI bleeding management educational assessment after simulation](gutgpt-content-mastery-improvement.md) — related

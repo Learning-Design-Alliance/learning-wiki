@@ -53,3 +53,7 @@ Correlation of Survey 1 answers to Q1.3 (pre-existing ambition) and Q1.4 (influe
 - [In a streamlined ATLAS Z-path masterclass, three of four ASP students became newly interested in pursuing particle physics in graduate school after analyzing ATLAS data](asp2022-atlas-masterclass-career-interest.md) — related
 - [Slightly more than half of former Masterclass participants work outside science and R&D, while STEM-related careers prevail overall](imc-fans-majority-outside-science-rd.md) — related
 - [Career plans stated after Masterclasses roughly align with current professions, with pronounced peaks in IT and physics and some respondents converging into physics or IT from other plans](imc-career-plans-diagonal-it-physics-peaks.md) — related
+- [Former Masterclass participants report that the event influenced their later choice of physics or a related subject](imc-influenced-physics-choice-35-percent.md) — related
+- [Masterclasses act as a nudge: they support participants ambivalent about particle physics but do not convert those clearly opposed](imc-nudge-effect-ambivalent-participants.md) — possibly the same claim (merge candidate)
+- [Planned professions stated right after a Masterclass largely match respondents' actual later careers](imc-planned-vs-actual-career-diagonal.md) — related
+- [Interns reported enhanced skills toward a STEM career and a majority wanted to pursue particle physics research after their undergraduate degree](internship-enhanced-stem-skills-particle-physics-intent.md) — related

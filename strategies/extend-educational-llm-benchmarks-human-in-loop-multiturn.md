@@ -43,6 +43,7 @@ The authors recommend several concrete next steps for educational LLM benchmarki
 - [Pair a contamination-resistant static benchmark core with a learner-in-the-loop layer for next-generation education evaluation](learner-in-the-loop-next-benchmark.md)
 - [Establish standardized misconception benchmarks using isomorphic items, paraphrases, and multi-turn curricula](standardized-misconception-benchmarks-ess.md)
 - [Improve LLM grading alignment through LLM-optimized guidelines, calibration examples, and median-of-parallels grading](llm-grading-alignment-optimization-strategies.md)
+- [Add human-in-the-loop capabilities so practitioners can edit or choose among LLM-generated tutoring script components](human-in-the-loop-cts-authoring-strategy.md)
 
 ## Examples
 -

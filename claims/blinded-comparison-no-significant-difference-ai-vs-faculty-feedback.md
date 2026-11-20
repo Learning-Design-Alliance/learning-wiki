@@ -51,3 +51,4 @@ An exploratory blinded review in which 25% of student responses were double mark
 - [A custom GPT-based model generated pharmacology SAQ feedback approximately 15 times faster than fully manual faculty marking in a pilot study](custom-gpt-saq-feedback-15x-faster-than-manual-marking.md) — related
 - [Human grading modestly increases the probability that students rate feedback as helpful](human-grading-raises-perceived-feedback-helpfulness.md) — related
 - [Students rate AI-generated and student-generated learning resources as statistically equivalent in code correctness, explanation correctness and helpfulness after blind peer review](ai-resources-rated-equivalent-to-student-resources.md) — related
+- [Student researchers perceived GPT-generated and human-written feedback as equally correct, with no clear trend favoring either](students-rate-gpt-feedback-equally-correct.md) — related

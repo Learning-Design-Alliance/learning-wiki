@@ -46,4 +46,4 @@ The article recommends combining multiple assessment activities and forms rather
 -
 
 ## Key Sources
-- Sabo, H. C., Odden, T. O. B., & Caballero, M. D. (2023). How do we assess computation in physics? https://scholar.google.com/scholar?q=%22How+do+we+assess+computation+in+physics%22
+- Sabo, H. C., Odden, T. O. B., & Caballero, M. D. (2023). How do we assess computation in physics? https://scholar.google.com/scholar?q=%22How+do+we+assess+computation+in+physics%22. [doi:10.48550/arxiv.2308.15983](https://doi.org/10.48550/arxiv.2308.15983)

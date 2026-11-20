@@ -58,6 +58,7 @@ The article recommends that resource-limited schools implement guided inquiry la
 - [Promote the flipped classroom in low-resource settings using free digital tools, peer instruction, and group discussions.](flipped-classroom-low-resource-settings-strategy.md)
 - [For online lab courses, use interactive virtual labs, simulations, and reflective assignments based on pedagogical journal articles](virtual-labs-simulations-journal-article-reflection-labs.md)
 - [Adapt the forest physics exercise to other settings and disciplines by preserving its salient points](adapt-forest-physics-exercise-local-context.md)
+- [Attend to student characteristics, resource availability, and time allocation when implementing guided inquiry](guided-inquiry-implementation-conditions-strategy.md)
 
 ## Examples
 -

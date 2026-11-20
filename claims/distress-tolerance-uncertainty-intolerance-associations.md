@@ -61,3 +61,4 @@ Narrative review attribution: the article reports that empirical studies have "c
 - [Stress, anxiety, and depressive symptoms show predominantly negative associations with academic performance in medical students](stress-anxiety-depression-negative-association-medical-students.md) — related
 - [CALM improved positive affect and distress tolerance](calm-improves-positive-affect-distress-tolerance.md) — related
 - [Higher extracurricular physical activity correlates with lower psychological distress, better cognitive ability, and better academic performance at follow-up](correlations-activity-distress-cognition-academics.md) — related
+- [Graduate students report notably higher rates of depression and anxiety symptoms than the general population, and many who seek help feel unsupported](grad-mental-health-unsupported-counseling-need.md) — related

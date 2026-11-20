@@ -99,3 +99,5 @@ Same prompting-strategy comparison: providing competency definitions from human 
 - [Few-shot with chain-of-thought prompting achieves the best concordance with human expert ratings for all tested LLMs](few-shot-cot-best-concordance-human-experts.md) — related
 - [CoT + few-shot prompting delivers high accuracy with minimal computational overhead, offering an efficient alternative to multi-agent frameworks](cot-few-shot-efficient-alternative.md) — related
 - [Three-level skill classification provides more informative feedback than binary high/low classification but makes the task harder](three-class-skill-grading-more-informative-than-binary.md) — related
+- [Chain-of-thought prompting increases recall at the expense of precision for GPT-4 but lowers GPT-3.5 performance](cot-recall-precision-tradeoff-socratic.md) — a narrower finding that bears on this claim
+- [Score-based prompting outperforms standard prompting on feedback accuracy, relevance, and helpfulness across all rubrics](score-based-prompting-outperforms-standard-quality.md) — related

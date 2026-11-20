@@ -75,3 +75,4 @@ Authors' discussion of observed attitudes and practical benefits: charts present
 - [The multimedia advantage was concentrated on tasks demanding visual and spatial comprehension, while scores on definitional tasks were similar between groups](multimedia-advantage-concentrated-visual-spatial-tasks.md) — related
 - [Post-learning media products spanned multiple mathematics topics: 42.8% geometry-related props, 28.57% arithmetic-related props, 51.43% could explain prop creation, and 60% could use shapes to run their code](post-learning-media-topic-distribution.md) — related
 - [Elementary students' internal thinking in geometry involves two types of abstraction: process and product](abstraction-process-product-types.md) — related
+- [Careless selection of astronomy images can promote undesirable alternative concepts, so image selection and detailed descriptions are crucial](image-selection-prevents-alternative-concepts-astronomy.md) — related

@@ -46,6 +46,7 @@ Because each remaining distractor must function effectively once options are red
 ## Related Strategies
 
 - [Use the medical health education item-writing evidence base to evaluate MOOC assessment quality](medical-education-protocol-for-mooc-mcq-review.md)
+- [Refine flagged assessment items by rewording ambiguous distractors and using student interviews](student-interview-distractor-refinement-strategy.md)
 
 ## Examples
 -

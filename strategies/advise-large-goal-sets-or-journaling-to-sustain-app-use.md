@@ -44,7 +44,8 @@ The article reports that "students with a large set of goals or who used a journ
 - [13 of 15 students stopped using the app halfway through placement as their attitude shifted from learning to working](../claims/app-usage-faded-learning-to-working-attitude-shift.md) [-W]
 
 ## Related Strategies
-- 
+
+- [Use weekly electronic reflection sheets to maintain dialogue and offer personalised support during school placements](weekly-reflection-sheets-placement-support.md)
 
 ## Examples
 -

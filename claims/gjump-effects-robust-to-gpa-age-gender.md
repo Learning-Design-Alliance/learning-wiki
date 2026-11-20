@@ -52,3 +52,4 @@ Secondary analyses of the three-group quasi-experiment: two-way ANOVA found no g
 - [Anesthesia students in the gamified Triple Jump (G-Jump) group scored significantly higher on the post-test than the control group, with no significant difference between G-Jump and TJE](gjump-higher-post-test-than-control.md) — related
 - [At two-week follow-up, both G-Jump and TJE groups scored significantly higher than control, with no significant difference between G-Jump and TJE](gjump-tje-follow-up-above-control.md) — related
 - [Group assignment retains a significant effect on total suturing scores after ANCOVA adjustment for GPA (partial eta squared = 0.248)](ancova-group-effect-suturing-gpa-adjusted.md) — related
+- [Effects of LP-based personalization are robust to individual characteristics such as school satisfaction, technology experience, gender and age](personalization-effects-robust-to-individual-characteristics.md) — related

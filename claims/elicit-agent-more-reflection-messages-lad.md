@@ -50,3 +50,4 @@ Exploratory case study: open bottom-up coding of a random sample of learner–LL
 - [JoL–mastery accuracy trajectories over the five weeks rose in the elicit condition, declined in the none condition, and were mixed in the tell condition](jol-accuracy-trajectories-by-condition.md) — related
 - [Tell and no-agent conditions showed no significant JoL–confidence correlations, with mixed results for progress and mastery](tell-none-conditions-mixed-jol-correlations.md) — related
 - [Students using the eliciting agent showed JoL ratings correlated with system learning metrics, strongest for mastery](elicit-condition-jol-accuracy-correlations.md) — related
+- [Teaching a basic LLM tutee produced knowledge-telling rather than knowledge-building](basic-llm-tutee-yields-knowledge-telling.md) — related

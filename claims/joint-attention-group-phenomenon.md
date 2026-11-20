@@ -51,3 +51,4 @@ This is the editorial's theoretical argument, drawing on Tomasello's comparative
 - [Collaboration quality relates to the ratio of group to individual activity in gaze-supported dyads](collaboration-quality-ratio-group-individual-activity.md) — related
 - [Joint visual attention correlates with collaboration quality, but unbalanced visual participation is negatively correlated with learning gains](joint-visual-attention-correlates-collaboration-quality.md) — related
 - [The meaning-making process was characterised by shared management, joint attention, mutual influence and reciprocal positioning](meaning-making-shared-management-joint-attention.md) — a broader claim this one bears on
+- [Peer attention cues increase valid focus, course following, and crowd gaze consistency, yet students retain adaptability in following peer cues](peer-attention-shapes-gaze-with-retained-adaptability.md) — a narrower finding that bears on this claim

@@ -186,6 +186,7 @@ Better reflections, higher course exams, changed practice, and delayed or transf
 - [Use discussion forums with three reflection prompts to structure students' dialogic reflection after viewing visualisations](../strategies/three-prompt-reflection-forum-strategy.md)
 - [5P reflection model for the GenAI era](../designs/5p-reflection-model-genai-era.md) — a five-stage iterative reflection cycle for students working with GenAI tools
 - [Use AI coach prompts for structured reflection and premortems to build metacognition](../strategies/ai-coach-reflection-premortem-strategy.md)
+- [Design future interventions that nudge students toward exploratory, reflective practice behaviors (many sets/unsets with deliberate pacing) in open-ended tasks](../strategies/nudge-toward-reflective-exploration-behaviors.md)
 
 ## Key Sources
 - Schon, D. A. (1983). *The reflective practitioner*. Basic Books.

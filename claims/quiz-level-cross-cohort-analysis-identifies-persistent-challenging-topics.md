@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
-newest_evidence: 2025
+newest_evidence: 2026
 sources:
-  - id: parker-2025
+  - id: parker-2026
     resource: "https://doi.org/10.48550/arxiv.2605.00294"
-    title: "Parker, M. J., & Zavala-Cerna, M. G. (2025). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2605.00294 [doi:10.48550/arxiv.2605.00294](https://doi.org/10.48550/arxiv.2605.00294)"
+    title: "Parker, M. J., & Zavala-Cerna, M. G. (2026). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2605.00294 Originally published 2025. [doi:10.48550/arxiv.2605.00294](https://doi.org/10.48550/arxiv.2605.00294)"
     author: "Parker, M. J., & Zavala-Cerna, M. G."
     q: 3
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Analyzing first-attempt performance on topic-focused quizzes across three cohorts identifies topics that are consistently challenging and central to course objectives. [→ Parker 2025](#parker-2025)
+`q3 i?` Analyzing first-attempt performance on topic-focused quizzes across three cohorts identifies topics that are consistently challenging and central to course objectives. [→ Parker 2026](#parker-2026)
 
 ## Evidence
 
-### Parker 2025
+### Parker 2026
 
-Parker, M. J., & Zavala-Cerna, M. G. (2025). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2605.00294 [doi:10.48550/arxiv.2605.00294](https://doi.org/10.48550/arxiv.2605.00294)
+Parker, M. J., & Zavala-Cerna, M. G. (2026). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2605.00294 Originally published 2025. [doi:10.48550/arxiv.2605.00294](https://doi.org/10.48550/arxiv.2605.00294)
 
 `q3 · i?` · `associational · r2`
 
@@ -51,3 +51,4 @@ Analysis of 9 course periods across 5 online biomedical science courses with 3,8
 - [Chatbot outreach showed suggestive effects on assignment completion in Microeconomics but no effects on assignments in Government](chatbot-assignment-completion-course-specific.md) — related
 - [In 2022/23 the Blood Science unit showed higher first-attempt pass rates (+14%) than other biomedical science units, but no comparable assessment data exist for earlier cohorts](blood-science-first-attempt-pass-rates-14-percent.md) — related
 - [Most students completed the online modules and passed the embedded review quizzes](high-module-completion-blended-pathology.md) — related
+- [The cohort scored a mean quiz grade of 78.0 ± 12.4 out of 100](quiz-mean-grade-78-out-of-100.md) — related

@@ -51,3 +51,4 @@ This is a conceptual argument in the article's Section 3.1, not an empirical stu
 - [Student errors on underestimated fraction items reflect systematic misconception patterns rather than random error](fraction-errors-systematic-misconception-patterns.md) — related
 - [Task performance and learning are related but fundamentally different processes](task-performance-and-learning-are-different-processes.md) — related
 - [Evaluating professionalism by behaviour alone risks the fundamental attribution error, because most observed behaviour is shaped by the situation](behaviour-only-evaluation-attribution-error.md) — related
+- [Interaction data can indicate students' solution strategies, e.g. distinguishing trial-and-error from analytic solving in a projectile game](ejss-data-reveals-trial-and-error-strategy.md) — related

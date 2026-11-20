@@ -53,3 +53,4 @@ The article's review of prior work, attributing this to Walkington's studies of 
 - [Students receiving personalized problems gamed the tutoring system less during the personalized unit, with no difference in a later unit](personalization-reduces-gaming-behavior.md) — a narrower finding that bears on this claim
 - [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](personalized-problem-contexts-boost-engagement-grades-4-8.md) — related
 - [Students are significantly worse at translating two-step algebra story problems than matched one-step problems, implicating a hidden integrative knowledge component](integrative-kc-two-step-algebra-translation.md) — related
+- [The article reports that contextual learning has been shown to increase students' interest in learning physics](contextual-learning-increases-physics-interest-attributed.md) — related

@@ -51,3 +51,4 @@ Regression analysis (Table 5) predicting five observation items from lesson-leve
 - [Baseline student talk ratios do not correlate with observation scores or value-added scores, with student word percentage correlating with instructional dialogue as the exception](student-talk-ratios-null-correlation.md) — related
 - [Dialogic discourse moves (uptake, focusing questions, student reasoning) correlate positively with teachers' value-added scores](dialogic-moves-correlate-value-added.md) — related
 - [Dialogue act features raise regression R² but do not significantly improve outcome prediction over a prior-performance baseline](da-features-not-significant-over-baseline.md) — related
+- [Connecting, the least frequent talk move, correlates most positively with attendance, section ratings, and assignment completion](connecting-talk-move-most-positive-correlation.md) — related

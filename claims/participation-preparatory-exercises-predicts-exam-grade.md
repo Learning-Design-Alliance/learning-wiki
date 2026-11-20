@@ -53,3 +53,4 @@ Linear regressions on the volunteered subsample (e.g. Year 1 n = 269 to Year 4 n
 - [Pre-course SRL level statistically significantly predicted participation in collaborative chat activities](pre-course-srl-predicts-collaborative-participation.md) — related
 - [Measured amount of self-testing significantly predicts final course score alongside prior knowledge in each semester](measured-self-testing-predicts-course-score.md) — related
 - [The number of questions a student asked during TQ sessions significantly predicted final exam performance above reasoning ability and attendance](questions-asked-predict-final-exam.md) — related
+- [In a linear regression, the supervised on-campus exam score is the only statistically significant predictor of the final exam score](campus-exams-only-significant-final-predictor.md) — related

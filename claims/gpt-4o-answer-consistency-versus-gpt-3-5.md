@@ -70,3 +70,4 @@ Comparative analysis of GPT-4o versus GPT-3.5 performance with chi-square test a
 - [Newer OpenAI LLM versions achieve significantly higher pooled accuracy on biomedical MCQs than earlier versions (GPT‐4o–o1: 90%; GPT‐4: 82%; GPT‐3/3.5: 59%)](openai-llm-accuracy-improves-across-versions-biomedical-mcq.md) — related
 - [Gemini 1.5 Pro shows the highest response consistency across 30 repeated exam attempts, significantly exceeding GPT-4o but statistically comparable to Claude](gemini-highest-response-consistency-repeated-attempts.md) — related
 - [ChatGPT-4o showed higher consistency in correct answer rates than students, with a narrow interquartile range versus wide variability among third-year students](chatgpt-4o-consistency-narrow-iqr-endodontic-accuracy.md) — related
+- [ChatGPT's TUG-K score distribution is much narrower than students' (interquartile range 2 vs 10)](chatgpt-tug-k-narrow-score-distribution.md) — related

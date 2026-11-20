@@ -50,6 +50,7 @@ Because ChatGPT can generate misleading or incorrect information and lacks real-
 ## Related Strategies
 
 - [Use GPT-4o to assist instructors in drafting lesson plans and generating test questions around specific clinical knowledge points, with expert oversight](gpt4o-lesson-plan-and-item-generation-strategy.md)
+- [Instructors should review and edit all AI-generated feedback before sending it to students](human-in-the-loop-review-of-ai-feedback.md)
 
 ## Examples
 -

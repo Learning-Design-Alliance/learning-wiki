@@ -46,6 +46,7 @@ This strategy covers the chatbot's pedagogical support during collaborative lear
 
 - [Support affective cohesion through positive atmosphere and empathy formation in chatbot dialogue](chatbot-affective-cohesion-positive-atmosphere-empathy.md)
 - [Teach AI through holistic, active, collaborative pedagogical strategies starting from real problem solving](active-real-problem-solving-ai-teaching.md)
+- [Visualise individual engagement to support socially shared regulation and timely teacher support in collaborative learning](visualise-individual-engagement-for-shared-regulation.md)
 
 ## Examples
 -

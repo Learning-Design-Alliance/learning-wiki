@@ -56,3 +56,4 @@ Pre/post comparison of LLM-assessed essay quality across six cycles, standardize
 - [AI access raises unaided essay quality in both sessions, while AI-generated text detectable in Session One essays disappears by Session Two](genai-raises-unaided-essay-quality.md) — related
 - [Frequent generative AI use for essay writing can foster metacognitive laziness, reducing intrinsic motivation and learning autonomy](genai-metacognitive-laziness-and-autonomy.md) — related
 - [Admissions staff rate essays they perceive as AI-generated lower than essays they believe are human-written, even after adjusting for measured essay quality and actual AI authorship](perceived-ai-use-lowers-staff-quality-ratings.md) — related
+- [Using generative AI for summary writing increases writing quality and productivity relative to unassisted manual writing](ai-writing-quality-productivity-gains.md) — related

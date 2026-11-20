@@ -55,3 +55,4 @@ Between-subjects effect from the same RM-ANOVA in Study 1: "no significant diffe
 - [Students who preferred AI feedback cited clarity, understandability, consistency, specificity, and 24/7 availability](ai-feedback-preference-clarity-availability-reasons.md) — related
 - [Reviews citing one randomised trial (Bastani et al. 2025) report that unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [Learners receiving ChatGPT-generated hints showed statistically significant learning gains compared to a no-hint control in an online mathematics tutoring experiment](chatgpt-hints-significant-gains-versus-control.md) — related
+- [Students did not show a clear preference for writing hints with or without the GPT-4 scaffold](no-clear-preference-gpt4-scaffold.md) — related

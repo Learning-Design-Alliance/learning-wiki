@@ -8,13 +8,13 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
-newest_evidence: 2026
+newest_evidence: 2025
 source_checked: 2026-11-04
-recheck_by: 2029
+recheck_by: 2028
 sources:
-  - id: cohn-2026
+  - id: cohn-2025
     resource: "https://doi.org/10.48550/arxiv.2504.02323"
-    title: "Cohn, C., Ashwin T S, Mohammed, N., & Biswas, G. (2026). CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback. arXiv preprint. https://arxiv.org/abs/2504.02323 [doi:10.48550/arxiv.2504.02323](https://doi.org/10.48550/arxiv.2504.02323)"
+    title: "Cohn, C., Ashwin T S, Mohammed, N., & Biswas, G. (2025). CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback. arXiv preprint. https://arxiv.org/abs/2504.02323 [doi:10.48550/arxiv.2504.02323](https://doi.org/10.48550/arxiv.2504.02323)"
     author: "Cohn, C., Ashwin T S, Mohammed, N., & Biswas, G."
     q: 1
     i: "?"
@@ -26,16 +26,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2025 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
-`q1 i?` In the Rules Task evaluation, the LLM sometimes cited the relevant student text and applicable rubric directive yet still failed to award the appropriate point, a case the authors term logical inconsistency. [→ Cohn 2026](#cohn-2026)
+`q1 i?` In the Rules Task evaluation, the LLM sometimes cited the relevant student text and applicable rubric directive yet still failed to award the appropriate point, a case the authors term logical inconsistency. [→ Cohn 2025](#cohn-2025)
 
 ## Evidence
 
-### Cohn 2026
+### Cohn 2025
 
-Cohn, C., Ashwin T S, Mohammed, N., & Biswas, G. (2026). CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback. arXiv preprint. https://arxiv.org/abs/2504.02323 [doi:10.48550/arxiv.2504.02323](https://doi.org/10.48550/arxiv.2504.02323)
+Cohn, C., Ashwin T S, Mohammed, N., & Biswas, G. (2025). CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback. arXiv preprint. https://arxiv.org/abs/2504.02323 [doi:10.48550/arxiv.2504.02323](https://doi.org/10.48550/arxiv.2504.02323)
 
 `q1 · i?` · `qualitative · r1`
 
@@ -69,3 +69,4 @@ Qualitative constant comparative analysis of GPT-4's reasoning chains during the
 - [Students' open-ended feedback clustered around improvements including incorporating clinical context, clearer AI explanation logic, and interactive or comparative features](student-suggested-feedback-improvements.md) — related
 - [Automated note feedback system had occasional phrase recognition errors and false positives](automated-feedback-phrase-recognition-limitations.md) — a narrower finding that bears on this claim
 - [Student peer review scoring of the formative MEQ* does not differ significantly from expert post-evaluation and correlates highly with it](peer-review-scoring-matches-expert-meq-evaluation.md) — related
+- [Score-based prompting generates more negative, straightforward, direct, and extensive feedback, and experts prefer it](score-based-prompting-feedback-characteristics-preference.md) — related

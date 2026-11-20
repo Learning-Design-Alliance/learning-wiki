@@ -43,6 +43,7 @@ The article recommends administering E-CLASS as a formative assessment tool: all
 - [Sorted, statement-by-statement instructor reports as formative assessment for lab courses](e-class-sorted-instructor-report-formative-assessment.md)
 - [Use iCARE regularly as a formative assessment and epistemic training tool in inquiry-based teaching](icare-regular-formative-epistemic-training-strategy.md)
 - [Best practices for administering attitudes and beliefs surveys: pre/post timing, framing, online and in-class protocols](administering-attitudes-beliefs-surveys-best-practices.md)
+- [Graphical DM dashboard of FCI pre-test results for rapid formative feedback in large cohorts](graphical-dm-dashboard-pretest-feedback.md)
 
 ## Examples
 -

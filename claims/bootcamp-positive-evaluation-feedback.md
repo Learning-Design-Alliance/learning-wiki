@@ -56,3 +56,4 @@ Final evaluation feedback collected from the 2014 and 2015 intern cohorts after 
 - [Trainees reported improved skills and self-confidence and supported making the at-home curriculum part of regular residency training](questionnaire-supports-curriculum-adoption.md) — related
 - [Students rated the dermatology e-learning course highly, with 90.9% rating it very good to excellent](elearning-dermatology-high-satisfaction-90-9.md) — related
 - [96% of first-year students endorsed including action physics in Physics 2 the following year](survey-96-percent-endorse-action-physics-inclusion.md) — related
+- [91.4% of surveyed students rated the three-day AI bootcamp's overall quality as high or very high](bootcamp-survey-91-4-percent-overall-satisfaction.md) — related

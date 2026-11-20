@@ -13,7 +13,7 @@ generated:
 # Operations and Place Value
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 101 claims (74 show a difference, 15 mixed, 12 no difference) · 63 studies (30 causal, 17 associational, 5 quant-synthesis, 5 design, 3 theoretical, 2 review, 1 qualitative), `q1`–`q4` · 14 of 63 report an effect size · 98 claims rest on one study
+> **Evidence** · 104 claims (76 show a difference, 16 mixed, 12 no difference) · 64 studies (30 causal, 17 associational, 6 design, 5 quant-synthesis, 3 theoretical, 2 review, 1 qualitative), `q1`–`q4` · 14 of 64 report an effect size · 101 claims rest on one study
 
 ## Description
 This page brings together two factors from the Learner Variability Navigator. Operations covers addition, subtraction, multiplication and division: at first learners treat an operation as an instruction about which calculation to do, and LVN stresses that they also need a conceptual understanding of what each operation means, which lets them estimate an approximate answer as well as calculate an exact one quickly and accurately. Place value is understanding that in the base-ten system the same digit stands for different values (ones, tens, hundreds) depending on its position, which children work out as they explore the size of numbers and how numbers relate.
@@ -138,6 +138,9 @@ Operations are assessed with standardised numerical operations subtests that ask
 - [Students learning place value with the application achieved higher post-lesson scores than students taught by the traditional method](../claims/place-value-app-beats-traditional-posttest.md) [+M] — measured as an outcome of the instruction studied
 - [The developed application met the 80/80 efficiency standard with during-lesson and posttest performance of 89.07/91.84](../claims/place-value-app-efficiency-89-91-exceeds-80-80.md) [+M] — measured as an outcome of the instruction studied
 - [IPLS and standard-course students showed statistically indistinguishable performance on problems requiring a single previously-taught model and on calculation skills](../claims/ipls-comparable-routine-problem-solving.md) [-M] — measured as an outcome of the instruction studied
+- [After the module, 90% of students described extreme objects spanning atomic to cosmological scales, with narrow-range answers falling to 10%](../claims/scale-of-universe-broad-range-gain.md) [+M] — measured as an outcome of the instruction studied
+- [In trials that added a dedicated practice activity, post-test use of adding powers of ten for multiplication reached 74% and 90%, against 16% and 10% pre-test, in uncontrolled sequential trials](../claims/powers-ten-multiplication-needs-practice.md) [+M] — measured as an outcome of the instruction studied
+- [Ten months after the module, all re-tested students could write large numbers in powers of ten, but only 9% correctly identified that 2^10 is approximately 10^3](../claims/ten-month-retention-powers-of-ten.md) [~M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Numerical Operations Subtest of the Wechsler Individual Achievement Test (WIAT-III)** (Wechsler, 2009): Standardized test of procedural knowledge of Operations: writing numbers, counting and solving arithmetic problems, up to fractions and negative integers.

@@ -48,3 +48,4 @@ Summary of the Phase 2 internal-consistency and score-variation analysis: althou
 ## Related Claims
 - [Principals in the pilot did not typically use all 22 rubric components when observing teachers](principals-used-subsets-of-rubric-components.md) — related
 - [Variation across schools in principal-assigned professional practice ratings suggests principals' standards may not be fully consistent across schools](pittsburgh-principal-practice-ratings-vary-across-schools.md) — related
+- [Enforced rubric use in gradetools supports consistent, fair grading across students and questions](rubric-enforcement-consistent-fair-grading.md) — related

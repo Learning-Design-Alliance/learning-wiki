@@ -51,6 +51,8 @@ After lab groups complete a context-rich problem and the instructor outlines the
 - [Use week-to-week written reflection rubrics and major-tailored context-rich problems to refine attitudinal categorization](week-to-week-rubric-analysis-strategy.md)
 - [Limit support during self-diagnosis (final answer only, with notes and textbooks) before providing the detailed solution, to promote productive struggle](struggle-first-self-diagnosis-final-answer-only.md)
 - [Weekly pre-lab context-rich problem-solving exercise with metacognitive self-diagnosis rubric](weekly-prelab-context-rich-self-diagnosis-strategy.md)
+- [Use student error tasks in tandem with traditional problem-solving exercises, in class or on exams, to foster metacognitive skills](error-tasks-tandem-problem-solving-strategy.md)
+- [Weekly formative assignments: application cards after the first session and short written reflections after the second](hi-stem-weekly-application-cards-reflections.md)
 
 ## Examples
 -

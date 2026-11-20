@@ -78,6 +78,7 @@ Dashboards are only as effective as the self-regulatory behavior they trigger; d
 - [Integrate real-time engagement analytics into large-class clinical instruction to support data-informed teaching](real-time-engagement-analytics-strategy.md)
 - [Use metric dashboards of the four quantitative measures for formative feedback in simulation-based surgical training](metric-dashboard-formative-feedback-strategy.md)
 - [Adopt a mobile-based gradebook with outcomes analytics to support feedback and academic planning](mobile-gradebook-outcomes-analytics-strategy.md)
+- [Graphical DM dashboard of FCI pre-test results for rapid formative feedback in large cohorts](graphical-dm-dashboard-pretest-feedback.md)
 
 ## Examples
 - **[Open University, UK — "Student Progress Dashboard"](https://www.open.ac.uk)** — self-referenced progress indicators shown to distance learners; evaluated studies found effects depended on students' prior attainment.

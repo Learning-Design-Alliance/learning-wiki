@@ -54,3 +54,4 @@ Controlled experiment on a subset of models with four configurations in which th
 - [GPT-4 identified a correct answer choice for nearly all generated questions, with a minority of spelling or selection errors](gpt4-correct-answer-choices-97-percent.md) — related
 - [Common LLM error patterns are multiple-option selection, image misdiagnosis, and action prioritization failures](llm-error-patterns-jnme.md) — related
 - [Reading the question before the answer options invites confirmation bias, the framing effect, the recency heuristic, and the curse of knowledge; reading answer choices first narrows the frame](answer-options-first-reduces-cognitive-biases.md) — related
+- [Humans and GPT-3.5 show guessing preferences among options while GPT-4 shows no discernible preference](guessing-preference-humans-gpt35-gpt4-no-bias.md) — related

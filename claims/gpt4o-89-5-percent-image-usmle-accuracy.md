@@ -61,3 +61,4 @@ Evaluation of all 38 publicly available image-based USMLE Step 1 and Step 2 CK s
 - [All three models show a higher likelihood of responding incorrectly to vignettes that were more challenging for medical students](vignette-difficulty-predicts-llm-error-rate.md) — related
 - [ChatGPT-4 achieves passing-level accuracy on 300 ABFM-type practice questions, with correct response rates of 88.67% (Custom Robot) and 87.33% (Regular)](chatgpt4-passing-accuracy-abfm-practice-questions.md) — related
 - [A sensitivity analysis excluding not-applicable answers (e.g., image-based items) yielded results similar to the main accuracy comparison](cineca-accuracy-sensitivity-analysis-similar-results.md) — related
+- [Students score significantly higher on a pictorially represented measurement-comparison item than on an isomorphic numerical item](pictorial-item-outperforms-numerical-measurement-comparison.md) — related

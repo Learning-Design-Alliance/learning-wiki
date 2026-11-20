@@ -55,6 +55,7 @@ Because many learners do not spontaneously explain, visualize, or enact learning
 - [Provide explicit process prompting (including picture-to-text transcription guidance) when visual storytelling precedes writing](explicit-prompting-for-visual-storytelling.md)
 - [Embed discussion and high-quality explanations within explicit, step-by-step mathematics instruction](embed-discussion-within-explicit-math-instruction.md)
 - [Adopt a guided hybrid homework approach when seminar time is limited for cartooning](guided-hybrid-homework-cartooning.md)
+- [Instructors can facilitate activation and sharing of known shared resources when students do not spontaneously activate them](facilitate-activation-of-shared-resources.md)
 
 ## Examples
 -

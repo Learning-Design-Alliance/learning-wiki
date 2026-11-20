@@ -49,6 +49,7 @@ For online flipped teaching during COVID-19, the article recommends four practic
 - [Use multi-dimensional assessment with computerized tracking to capture learning process in flipped classrooms](multi-dimensional-assessment-computerized-tracking.md)
 - [Apply Dong et al.'s five flipped-classroom recommendations step-by-step when integrating flipped simulation into PAL simulation courses](flipped-simulation-five-recommendations-strategy.md)
 - [Set team task difficulty so students must solve tasks through dynamic interaction rather than simple distribution of shares](challenging-team-tasks-dynamic-interaction-strategy.md)
+- [Recommend task difficulty per student from fuzzy cluster membership of prior grades](fuzzy-cluster-task-difficulty-strategy.md)
 
 ## Examples
 -

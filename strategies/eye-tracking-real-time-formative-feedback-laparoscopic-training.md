@@ -51,6 +51,7 @@ The authors recommend integrating CV-DL-extracted AOI-dependent and motion metri
 - [Use gaze tracking as a feedback tool to alert students and instructors to key moments in simulation learning](gaze-tracking-feedback-simulation-debriefing.md)
 - [Use eye-tracking feedback and gradually increasing case complexity to train targeted visual search and cognitive-load management in ECG education](eye-tracking-feedback-ecg-visual-strategy-training.md)
 - [Use simulated real-world tasks as a platform for deliberate practice and risk-perception training with cognitive-state monitoring](real-world-sim-deliberate-practice-strategy.md)
+- [Design adaptive online learning interventions that model and visualize peer attention to optimize student attentiveness](peer-attention-visualization-intervention-strategy.md)
 
 ## Examples
 -

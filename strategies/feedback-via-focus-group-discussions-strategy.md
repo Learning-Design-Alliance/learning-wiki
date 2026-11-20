@@ -54,6 +54,7 @@ The article recommends that teaching staff and school mentor teachers give candi
 - [Use weekly diary-report forms with feedback to develop pre-service teachers' self-regulation strategies](weekly-diary-report-forms-feedback.md)
 - [Provide prospective teachers with cooperative learning experiences during pre-service training](pre-service-cooperative-learning-experiences.md)
 - [Use awareness of mentoring positions to identify mentors' learning needs and tailor faculty development](position-awareness-for-tailored-mentor-development.md)
+- [Teaching-learning laboratory in which pre-service teachers study high school students' conceptions while reflecting on their own](teaching-learning-lab-pre-service-teachers-radioactivity.md)
 
 ## Examples
 -

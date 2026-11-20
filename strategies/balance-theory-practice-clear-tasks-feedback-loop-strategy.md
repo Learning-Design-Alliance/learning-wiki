@@ -54,6 +54,7 @@ The authors' recommendations for future interventions drawn from survey comments
 - [Implement brainstorming sessions in EFL writing lessons through small monitored groups with clarified problems, open expression, deferred judgment and fixed timing](brainstorming-session-procedures-efl-writing.md)
 - [Provide a manageable, easy-to-use e-learning offer and enable prompt practical application in small groups with instructor feedback](manageable-elearning-prompt-small-group-practice-strategy.md)
 - [When running course-integrated hackathons, balance the quantity of lecture theory against its applicability to hackathon tasks and provide ample feedback sessions](balance-lecture-theory-with-hackathon-applicability.md)
+- [Adjust lab logistics responsively to student feedback: provide a submission window after lab sessions and form gender-balanced groups with freedom of choice](responsive-lab-logistics-strategy.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ SEM hypothesis testing on the pooled 588-respondent dataset; hypotheses H7–H9 
 - [Compatibility influences m-learning behavioural intention and use behaviour in the pooled sample, with effects varying across countries](compatibility-predicts-ml-adoption.md) — related
 - [Effort expectancy positively influences behavioural intention to adopt m-learning in the three countries](ee-predicts-ml-bi-three-countries.md) — related
 - [Performance expectancy positively influences behavioural intention to adopt m-learning in Tunisia, Morocco, and Libya](pe-predicts-ml-bi-three-countries.md) — related
+- [Individual cultural values predict teachers' trust in AI-EdTech above and beyond perceived benefits and concerns](cultural-values-predict-teacher-trust-ai-edtech.md) — related

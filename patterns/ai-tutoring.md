@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 436 claims (193 for, 186 mixed, 57 against) · 299 studies (117 causal, 61 review, 39 design, 28 theoretical, 22 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 63 of 299 report an effect size · 420 claims rest on one study
+> **Evidence** · 437 claims (194 for, 186 mixed, 57 against) · 300 studies (118 causal, 61 review, 39 design, 28 theoretical, 22 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 64 of 300 report an effect size · 421 claims rest on one study
 
 ## Description and scope
 
@@ -308,6 +308,7 @@ Claims linked to this pattern that the model above does not use. All were read a
 - [Korbit (full) learning gains were around 92% higher than Korbit (no feedback) on raw gains, while the normalized-gain difference was smaller and not statistically significant](../claims/korbit-full-vs-no-feedback-raw-gains.md) [~W] — attached 2026-11-19 from A New Era: Intelligent Tutoring Systems Will Transform Online Learning for Millions, which proposed "Combine problem-solving exercises with personalized feedback in online learning platforms to improve learning outcomes and engagement"; tests this page's relationship.
 - [Students in the ChatGPT condition mistakenly assumed incorrect ChatGPT answers were correct (false positive rate 57%)](../claims/chatgpt-answer-overtrust-fpr-57-percent.md) [+W] — attached 2026-11-19 from Lars Krupp et al. (2023), which proposed "LLM-based educational support should inform students of model uncertainty and moderate interaction to encourage critical thinking"; tests this page's relationship.
 - [Copy & paste was the most used interaction strategy with ChatGPT, and 62% of final answers were extracted directly from ChatGPT](../claims/copy-paste-dominant-chatgpt-strategy.md) [+W] — attached 2026-11-19 from Lars Krupp et al. (2023), which proposed "LLM-based educational support should inform students of model uncertainty and moderate interaction to encourage critical thinking"; tests this page's relationship.
+- [Mode-shifting improves the density of knowledge-building messages in LBT conversations (Cohen's d = 0.71)](../claims/mode-shifting-improves-knowledge-building-density.md) [+M] — attached 2026-11-20 from Teach AI How to Code: Using Large Language Models as Teachable Agents for Programming Educ, which proposed "Mode-shifting: a tutee agent alternating between help-receiver and questioner modes".
 
 ## Illustrative design instance and observation record
 

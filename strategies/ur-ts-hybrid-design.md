@@ -50,7 +50,9 @@ The article describes a hybrid design in which, with epsilon = 0.5 probability, 
 - [MAB assignment overestimates effect sizes for normally distributed rewards, with greater overestimation for smaller true effects](../claims/mab-overestimates-effect-sizes.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Personalize adaptive experiments with Contextual Thompson Sampling to discover what works best for which student groups](contextual-ts-personalization-cs1.md)
+- [Apply adaptive experiments in CS1 to rapidly improve motivational supports and alternative forms of feedback and explanation](adaptive-experiments-for-cs1-motivation-and-feedback.md)
 
 ## Examples
 -

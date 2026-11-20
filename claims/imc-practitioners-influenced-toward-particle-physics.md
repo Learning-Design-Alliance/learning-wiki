@@ -69,3 +69,5 @@ Survey 2 retrospective question Q2.3 on pre-IMC ambition among the 19 practition
 - [In a streamlined ATLAS Z-path masterclass, three of four ASP students became newly interested in pursuing particle physics in graduate school after analyzing ATLAS data](asp2022-atlas-masterclass-career-interest.md) — related
 - [Slightly more than half of former Masterclass participants work outside science and R&D, while STEM-related careers prevail overall](imc-fans-majority-outside-science-rd.md) — related
 - [28% of Slovak masterclass participants reported at the end of the day that masterclasses influenced their choice of future studies](masterclass-influence-study-choice.md) — related
+- [Former Masterclass participants report that the event influenced their later choice of physics or a related subject](imc-influenced-physics-choice-35-percent.md) — related
+- [Masterclasses act as a nudge: they support participants ambivalent about particle physics but do not convert those clearly opposed](imc-nudge-effect-ambivalent-participants.md) — related

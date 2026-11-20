@@ -56,3 +56,5 @@ Descriptive analysis of task durations derived from Tobii interval markers (n=28
 - [Intensive AI assistance predicts strong task performance even with low engagement, but follow-up performance is substantially higher only when intensive AI use is combined with sustained task engagement](intensive-ai-use-carryover-requires-task-engagement.md) — related
 - [Participants spent more time learning in the VR environment than the control group spent studying the paper drawing](more-time-in-vre-than-paper.md) — related
 - [ChatGPT assistance did not reduce essay writing time: both groups required a similar duration and writing duration was not a significant predictor of essay score](chatgpt-no-writing-time-reduction.md) — reports the opposite
+- [Plagiarism and AI assistance misuse both reduced completion time, with plagiarism reducing it more sharply than AI assistance](plagiarism-ai-reduced-completion-time-web-programming.md) — related
+- [Plagiarized and AI-assisted web programming submissions earned test marks comparable to independent work](plagiarism-ai-comparable-test-marks-web-programming.md) — related

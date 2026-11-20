@@ -61,3 +61,4 @@ Descriptive survey results from an 18-item modified scale (Cronbach's α = 0.86)
 - [VLI learners held more positive attitudes toward the learning situation than TCI learners](vli-more-positive-attitudes-than-tci.md) — related
 - [Students held positive attitudes toward mobile-assisted vocabulary exercises, with an overall mean of 3.98 on a five-point scale](positive-attitudes-mobile-vocabulary-exercises.md) — related
 - [TAME-ChatGPT construct scores indicated a generally positive attitude towards ChatGPT and its use in the study sample](tame-chatgpt-positive-attitude-descriptive.md) — related
+- [Students' attitudes toward AI shaped distinct preferences for how their AI interaction should be represented in usage reports](ai-attitudes-shape-report-preferences.md) — related

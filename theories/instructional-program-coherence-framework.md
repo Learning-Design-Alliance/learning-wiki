@@ -56,6 +56,7 @@ The report defines instructional program coherence through three major condition
 
 - [Leaders should make data-based decisions to allocate resources on strategic and/or general leadership and climate based on level of measurement, implementation-specificity, and attitudinal dimension](../strategies/data-based-allocation-of-oc-resources.md)
 - [Adopt blended teaching in elementary mathematics and provide the resources and staff to support it](../strategies/adopt-blended-teaching-elementary-maths-strategy.md)
+- [Attend to student characteristics, resource availability, and time allocation when implementing guided inquiry](../strategies/guided-inquiry-implementation-conditions-strategy.md)
 
 ## Key Sources
 - Newmann, F. M., Smith, B., Allensworth, E., & Bryk, A. S. (2001). School Instructional Program Coherence: Benefits and Challenges. Consortium on Chicago School Research. https://eric.ed.gov/?id=ED

@@ -52,6 +52,7 @@ A concrete implementation recipe drawn from the article's test phase: administer
 - [Implement four user-suggested improvements when deploying interactive clinical avatar simulations](avatar-implementation-improvement-strategy.md)
 - [Iteratively add complex clinical content and refine difficulty level before a full trial](add-complex-clinical-content-next-iteration-strategy.md)
 - [Use first-course evaluation feedback to improve the structure of the next course iteration](feedback-driven-course-iteration-strategy.md)
+- [Adjust lab logistics responsively to student feedback: provide a submission window after lab sessions and form gender-balanced groups with freedom of choice](responsive-lab-logistics-strategy.md)
 
 ## Examples
 -

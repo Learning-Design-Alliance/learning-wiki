@@ -50,6 +50,7 @@ The essay describes two interventions to foster full participation and disrupt s
 - [Complex Instruction](complex_instruction.md)
 - [Promoting Belonging Through Instruction](promoting_belonging_through_instruction.md)
 - [Establish group norms and procedural roles, delegate authority, and monitor group dynamics to foster student accountability.](group-roles-norms-accountability.md)
+- [Actively support student community formation through counterspaces, cohort-bonding, and affinity groups, with implicit bias training for advisors](counterspaces-cohort-bonding-inclusive-community.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Models 7–9 of the quasi-experimental OLS regressions included strong and weak 
 - [Collaboration degree centrality and strong friendship ties predict mathematics grades, with weak ties showing no gains](strong-ties-predict-math-grades-weak-ties-null.md) — related
 - [Collaborating with friends perceived as good students predicts mathematics grades but not physics grades](strong-ties-with-prestige-predict-math-not-physics.md) — related
 - [The grade advantage of students perceived as proficient in physics fades across the hybrid year](prestige-advantage-fades-across-year.md) — related
+- [Within-group recognition of physics prestige depends on gender, average grades and team friendship, not on group-formation method](prestige-unaffected-by-group-formation-method.md) — related

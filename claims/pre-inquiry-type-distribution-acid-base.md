@@ -67,3 +67,4 @@ Selection procedure: seven fellow teachers and one science education specialist 
 ## Related Claims
 - [Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique](initial-inquiry-dominates-chatbot-question-types.md) — related
 - [In an exploratory study with 478 fifth and sixth graders, children with prompts available showed a more active and effective inquiry process than children without, with ability-related differences in prompt use](prompts-active-effective-inquiry-ability-differences.md) — related
+- [Project- and inquiry-based practicum on acid-base material achieved 93.3% learning mastery](guided-inquiry-practicum-mastery-93-3.md) — related

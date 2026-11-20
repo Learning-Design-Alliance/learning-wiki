@@ -50,6 +50,7 @@ The article recommends updating AI literacy frameworks so they "move beyond tool
 - [Define a shared empirical research agenda grounding K-12 AI education designs](k12-ai-education-research-agenda.md)
 - [Provide early, proactive metacognitive support that guides feedback interpretation and strategy adjustment, beyond merely presenting performance information](early-proactive-calibration-support-tools.md)
 - [Evaluate AI-assisted training with a post-training unaided assessment on a separate radiograph set](post-training-unaided-evaluation-strategy.md)
+- [Instructors should test leading AI tools regularly, benchmark assignments against them, and assess unaided student performance in person](instructor-ai-benchmarking-and-in-person-assessment.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Same survey, actual-time comparison (Table 2B). The tenured group also spent mor
 - [Assistant PoTs are more likely to conduct discipline-based education research, while tenured PoTs are more likely to provide K-12 professional development; these survive correction](scholarly-activities-vary-by-rank-dber.md) — related
 - [Assistant PoTs identify significantly more as researchers than tenured PoTs, with similar instructor identity, and DBER engagement predicts research identity](dber-predicts-research-identity.md) — related
 - [Most PoTs lack formal education-research training, and 60% report inadequate campus opportunities to develop scholarly skills](pot-training-resources-misalignment.md) — related
+- [Improvers conceptualize DBER as an opportunity to improve practice locally in an evidence-based way](improvers-dber-improve-practice-locally.md) — related

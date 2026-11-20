@@ -49,3 +49,5 @@ Pre/post single-group assessment within a hands-on high-fidelity simulation curr
 - [All residents significantly increased knowledge of the timing of endoscopy for acute esophageal variceal bleeds (p < .001)](endoscopy-timing-knowledge-gain-all-residents.md) — related
 - [Knowledge and confidence rose from pre-test to post-test, with PGY level (p < .001) and interest in GI (p = .001) associated with the increases in one uncontrolled single-group study](pgy-level-and-gi-interest-moderate-outcomes.md) — related
 - [PGY3 residents' knowledge decreased slightly from pre- to postsimulation on acute variceal hemorrhage (84.6% to 81.3%) and nonvariceal GI bleed treatment (100% to 96.9%)](pgy3-knowledge-slight-decrease.md) — related
+- [Participants in both GutGPT and dashboard arms generally improved on the GI bleeding management educational assessment after simulation](gutgpt-content-mastery-improvement.md) — a broader claim this one bears on
+- [Using GutGPT in simulated GI bleeding scenarios produced mixed effects on clinician trust and acceptance compared to the dashboard or search engine](gutgpt-mixed-trust-acceptance-effects.md) — related

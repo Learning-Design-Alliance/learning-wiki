@@ -49,3 +49,5 @@ Second WNMF experiment on features f6-f8 and f11-f14 (subjects by Bloom level) f
 - [Module learning outcomes align well with summative assessment action verbs at lower Bloom tiers (100%, 82%, 70%, 78%) but poorly for Evaluate (68%) and especially Create (17%)](pharmacology-lo-summative-alignment-evaluate-create-gap.md) — related
 - [All participant groups scored higher on lower cognitive levels (Remembering, Understanding, Applying) than on higher levels (Analysing, Evaluating, Creating)](lower-cognitive-levels-outscore-higher.md) — related
 - [Apps were used mainly for low levels of Bloom's taxonomy (knowledge and comprehension), with evaluation activities rare](mlw-apps-low-bloom-levels.md) — related
+- [Most analyzed papers align personalized gamification with high-level rather than low-level Bloom's taxonomy thinking skills](bloom-taxonomy-alignment-high-level-thinking.md) — related
+- [Most learning outcomes in Miami University's cybersecurity curriculum sit at the low Bloom's Taxonomy levels of Remember, Understand, and Apply](cybersec-curriculum-los-low-bloom-distribution.md) — related

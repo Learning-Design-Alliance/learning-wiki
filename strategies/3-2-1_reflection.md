@@ -66,6 +66,7 @@ The routine works because it forces generative processing: learners must select,
 - [Think-Pair-Share](../patterns/think-pair-share.md) — pairs individual written reflection with peer elaboration
 - [Weekly Thinking Science lesson routine for pre-service teachers: work the lesson as students, then metacognitive discussion, activity design, and written reflection](thinking-science-preservice-weekly-routine.md)
 - [Weekly reading responses with randomized in-class sharing to foster discussion of historical literature](weekly-reading-response-random-sharing.md)
+- [Weekly formative assignments: application cards after the first session and short written reflections after the second](hi-stem-weekly-application-cards-reflections.md)
 
 ## Examples
 - **Elementary science**: after a unit on the water cycle, students write 3 facts, 2 "wow" details, and 1 question; the teacher sorts the questions into the next day's mini-lesson

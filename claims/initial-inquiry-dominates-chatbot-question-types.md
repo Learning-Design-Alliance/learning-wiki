@@ -93,3 +93,7 @@ Within the Follow-Up Inquiry macro-category (26.4%, n = 746), the most common be
 - [Preclinical medical students use ChatGPT during case-based learning to automate answering workbook questions, bypassing retrieval, elaboration and group problem-solving](chatgpt-automates-cbl-workbook-effort.md) — a broader claim this one bears on
 - [Copy & paste was the most used interaction strategy with ChatGPT, and 62% of final answers were extracted directly from ChatGPT](copy-paste-dominant-chatgpt-strategy.md) — related
 - [Search engine users favoured preprocessing strategies while copy & paste was rare (3 uses)](search-engine-users-preprocessing-dominant.md) — related
+- [Participants' main strategy for using ChatGPT on programming tasks is copying the assignment's textual description into the tool and then adapting the retrieved code](chatgpt-copy-paste-assignment-description-strategy.md) — a narrower finding that bears on this claim
+- [Guidance strategies G1, G2 and G4 reduce verbatim copy-pasting of assignment questions to the LLM, while G3 increases rephrasing](guidance-reduces-verbatim-question-copying.md) — related
+- [Pre-service teachers successfully guided ChatGPT-3.5 to improve most wrong initial answers in a pilot study](pilot-teachers-guide-chatgpt35-successfully.md) — related
+- [Structured guidance strategies (G1, G3, G4) reduce unrelated student queries to an LLM tutor, while example-based instruction increases them](structured-guidance-reduces-unrelated-llm-queries.md) — related

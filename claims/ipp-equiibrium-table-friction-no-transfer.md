@@ -53,3 +53,4 @@ Classroom multiple-choice data comparing 115 students who answered only the tabl
 - [Scaffolding supports for analogical problem solving help calculus-based introductory physics students solve a static friction problem correctly](analogical-scaffolding-improves-friction-problem-solving.md) — related
 - [Among 131 students answering both problems in a work-on-ramp isomorphic pair, correct-answer rates fell from 65% on the frictionless ramp work problem to 27% on the rough-ramp problem](ipp-work-ramp-friction-distractor.md) — related
 - [Transfer between isomorphic questions depends on contextual closeness: no significant gain for the far pair (7)-(8) but significant gain for the closer pair (9)-(10)](transfer-depends-on-context-closeness.md) — related
+- [Correct answers on the numerical and pictorial items are correlated but far from identical, with asymmetric transfer between representations](nri-pri-correlation-asymmetric-transfer.md) — related

@@ -109,6 +109,7 @@ Hints are partial prompts or cues that help learners continue a task without ful
 - [Sequence lightly scaffolded hints before heavily scaffolded hints so scaffolding fades](../strategies/light-then-heavy-scaffolded-hints.md)
 - [Provide visual cues or hints for self-exploration before direct instruction to promote transfer in online tutorials](../strategies/cues-before-direct-instruction-online-tutorials.md)
 - [Use AI tutor prompts that push students to generate their own answers rather than receive solutions](../strategies/ai-tutor-generate-answers-strategy.md)
+- [Provide the AI scaffold after independent work as a second opinion, or on demand for less motivated learners](../strategies/ai-scaffold-second-opinion-on-demand.md)
 
 ## Key Sources
 - Koedinger, K. R., & Aleven, V. (2007). Exploring the assistance dilemma in experiments with cognitive tutors. *Educational Psychology Review, 19*(3), 239-264. [https://doi.org/10.1007/s10648-007-9049-0](https://doi.org/10.1007/s10648-007-9049-0)

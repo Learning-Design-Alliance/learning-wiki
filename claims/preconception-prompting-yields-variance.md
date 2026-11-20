@@ -68,3 +68,4 @@ Distributional analysis of preconception-prompted response sets (Fig. 2) reporte
 - [ChatGPT correctly reasons within two validated preconceptions (centrifugal force and impetus) when prompted to respond as-if a student held them](chatgpt-reasons-within-preconceptions.md) — related
 - [Prompting ChatGPT to respond as-if from different cohorts yields no differences in FCI response distributions](cohort-prompting-no-response-differences.md) — related
 - [ChatGPT's FCI errors include impetus-type preconceptions shared with beginning physics students](chatgpt-impetus-preconception-errors.md) — related
+- [ChatGPT's TUG-K score distribution is much narrower than students' (interquartile range 2 vs 10)](chatgpt-tug-k-narrow-score-distribution.md) — related

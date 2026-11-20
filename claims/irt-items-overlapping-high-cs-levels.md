@@ -67,3 +67,4 @@ Rasch (1-PL) results (Table 3, N = 296) and item information graphs (Fig. 1, Fig
 ## Related Claims
 - [GLAT shows robust structural validity and reliability under a 2-parameter logistic IRT model](glat-2pl-structural-validity-reliability.md) — reports the opposite
 - [The two-parameter logistic IRT model fit best only for the hypotheses-concerning-means bank; the one-parameter model sufficed for the other three banks](irt-model-fit-varies-by-item-bank.md) — related
+- [The 2-PL model is the best-fitting IRT model for the LPCA dataset](2pl-best-fit-lpcb-irt-model.md) — related

@@ -50,3 +50,4 @@ The essay reports, citing Sherin (2001), that "upper-division physics undergradu
 - [Michael's classroom talk shows a commitment to external coherence between intuitive physical explanation and mathematical/graphical representations](external-coherence-classroom-talk.md) — related
 - [Novice students often treat physics equations as mathematical grammar rather than integrating them with physical meaning, leading to predictable errors](novices-reason-from-mathematical-grammar.md) — related
 - [Introductory physics students can engage in genuine theoretical inquiry by deriving empirical gas laws from a simple particle model of gases](intro-physics-theoretical-inquiry-gas-laws.md) — related
+- [Introductory physics students recognize air-resistance–velocity covariation but engage only incomplete function choosing](physics-students-incomplete-function-choosing.md) — related

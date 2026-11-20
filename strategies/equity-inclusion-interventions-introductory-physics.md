@@ -54,6 +54,7 @@ The article recommends that physics departments direct equity and inclusion effo
 - [Frame physics as a science that benefits society to boost female students' engagement](frame-physics-as-benefiting-society-strategy.md)
 - [Boost learner confidence with growth mindset framing, early wins, and partially completed code](confidence-growth-mindset-madlibs-code.md)
 - [Adopt inclusive, non-lecture pedagogical practices and group-based problem solving in undergraduate physics](inclusive-non-lecture-physics-pedagogy-strategy.md)
+- [Use introductory physics courses as a venue for improving calculus fluency and transfer skills, with attention to self-efficacy effects on women](calculus-emphasis-introductory-physics-strategy.md)
 
 ## Examples
 -

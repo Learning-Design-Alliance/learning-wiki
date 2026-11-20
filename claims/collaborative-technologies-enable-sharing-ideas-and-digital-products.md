@@ -54,3 +54,4 @@ The article's abstract states this as the opening premise of the paper, a concep
 - [More persistent information is exchanged through the more persistent medium: the whiteboard acts as a shared memory rather than a grounding tool](persistence-more-persistent-info-more-persistent-medium.md) — related
 - [Social dynamics — trust, friendship, openness, and rudeness — shape the effectiveness of dialogic interactions](trust-and-social-dynamics-shape-dialogic-effectiveness.md) — related
 - [Sharing a projected display with multiple mice produced significant collaborative-learning gains for a whole classroom](multiple-mice-shared-display-collaborative-gains.md) — a narrower finding that bears on this claim
+- [All 13 teachers valued exchanging and developing pedagogical ideas and instructional materials with peers in the responsive PD community](peer-pedagogical-sharing-valued-by-all-teachers.md) — a narrower finding that bears on this claim

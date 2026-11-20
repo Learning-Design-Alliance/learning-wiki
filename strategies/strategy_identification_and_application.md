@@ -58,8 +58,10 @@ Naming a strategy after successfully using it converts an implicit, situational 
 6. On subsequent tasks, prompt students to consult the list and report which strategy they chose and why — fading the prompts over time [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the modeling method that makes strategies visible before students name their own
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — a structured version of strategy instruction with turn-taking roles
+- [Teach students to recognize when they are applying heuristics and how to exert control over them](recognize-and-control-heuristics-strategy.md)
 
 ## Examples
 - **Polya's heuristics in math class** — a teacher posts "understand, plan, carry out, look back" and, after students solve a hard problem, asks "What was your plan?" and adds student-named heuristics (draw a picture, try a smaller number) to an anchor chart.

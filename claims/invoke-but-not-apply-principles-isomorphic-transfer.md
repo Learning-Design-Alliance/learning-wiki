@@ -57,3 +57,6 @@ Analysis of intervention 1 and 2 students' written quiz solutions after learning
 - [Direct transfer often fails across distant contexts, so cross-disciplinary learning foregrounds transformative and integrative processes](far-transfer-failure-motivates-transformation-focus.md) — related
 - [Very few students accounted for the changing force orientation and centripetal acceleration when reasoning about the normal force, and most drew n and mg magnitudes inconsistent with their 𝑎𝑦 graphs](normal-force-question-student-difficulties.md) — related
 - [Productive use of assumptions simplifies problem solving and helps determine which principles apply](assumptions-simplify-problem-solving.md) — related
+- [The LSRC paradigm addressed learning but not practice or reinforcement, leaving students unable to apply concepts, especially in reasoning-heavy subjects](lsrc-learning-without-practice-gap.md) — related
+- [Students state the invariance of the speed of light correctly but fail to apply it, using the Galilean velocity addition formula instead](students-fail-apply-invariance-speed-light.md) — a narrower finding that bears on this claim
+- [Students apply the Principle of Equivalence correctly outside but fail inside a gravitational field](equivalence-principle-fails-inside-gravitational-field.md) — related

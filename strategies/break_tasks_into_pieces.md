@@ -71,6 +71,7 @@ Chunking reduces the working-memory and attentional demands of a task by letting
 - [Use guiding questions in a Socratic style to break research tasks into smaller steps and steer discussion](socratic-guiding-questions-research-tasks.md)
 - [Divide a demanding programming project into incrementally more complex chunks with small self-set goals](chunked-incremental-goals-student-programming-project.md)
 - [Design assignments as smaller pieces with fixed due dates to encourage earlier student work](small-exercises-fixed-deadlines-earlier-start.md)
+- [Break complex tasks into smaller sub-tasks when completing programming work with AI assistance](decompose-tasks-into-subtasks-for-ai-assistance.md)
 
 ## Examples
 - **Writing instruction:** a research essay broken into topic selection, source gathering, outline, draft, and revision, each with its own due date and rubric line — standard practice in process-writing curricula such as [Writer's Workshop](https://www.heinemann.com/writersworkshop/) models.

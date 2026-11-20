@@ -71,3 +71,5 @@ Intent-to-treat estimate from a proctored, in-person randomized experiment (211 
 - [Students learn more with a research-based AI tutor than with in-class active learning on identical content (post-test scores)](ai-tutor-beats-active-learning-post-test.md) — related
 - [Participants on the AI-tutored problem-solving platform (Platform B) achieved raw learning gains 70.43% higher than participants on the traditional video-and-quiz platform (Platform A) in a 3-hour linear regression course](platform-b-higher-raw-learning-gains.md) — related
 - [Codex and Baseline groups perform similarly on immediate post-test without AI access](codex-similar-immediate-posttest.md) — reports the opposite
+- [Participants with stronger prior knowledge and writing skill benefit most from AI-assisted active reading, while reading outside one's best field lowers accuracy](prior-knowledge-moderates-ai-learning-benefit.md) — related
+- [Using generative AI for summary writing increases writing quality and productivity relative to unassisted manual writing](ai-writing-quality-productivity-gains.md) — related

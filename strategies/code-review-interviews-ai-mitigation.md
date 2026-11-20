@@ -50,6 +50,7 @@ This strategy replaces AI bans with formative oral assessments: after each weekl
 - [Two-instrument assessment: AI-free coding quizzes plus verification-gated oral defenses of comment-stripped AI-assisted work](two-instrument-quiz-oral-defense-assessment.md)
 - [Require process transparency artefacts: process logs, prompt records, reflective commentaries and oral defences](process-transparency-artefacts-strategy.md)
 - [Assess the process: grade design rationales, prompt logs, and oral defenses, avoiding reliance on AI detectors](assess-process-evidence-genai.md)
+- [Weekly formative assignments: application cards after the first session and short written reflections after the second](hi-stem-weekly-application-cards-reflections.md)
 
 ## Examples
 -

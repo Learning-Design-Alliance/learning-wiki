@@ -27,4 +27,4 @@ A publicly released dataset of labeled erroneous algebra solution steps from Cog
 -
 
 ## Key Sources
-- McNichols, H., Zhang, M., & Lan, A. (2023). Algebra Error Classification with Large Language Models. https://arxiv.org/abs/2305.06163
+- McNichols, H., Zhang, M., & Lan, A. (2023). Algebra Error Classification with Large Language Models. https://arxiv.org/abs/2305.06163. [doi:10.1007/978-3-031-36272-9_30](https://doi.org/10.1007/978-3-031-36272-9_30)

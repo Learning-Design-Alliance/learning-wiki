@@ -47,6 +47,7 @@ A concrete integration recipe in which instructors design ChatGPT-supported acti
 - [Calibrate GenAI feedback through calibrated prompts and pedagogical (re-)framing](calibrated-prompts-and-pedagogical-reframing.md)
 - [Scenario B: constructing, critiquing, and reframing AI-mediated arguments](scenario-construct-critique-reframe-arguments.md)
 - [Have students generate, verify, and integrate ChatGPT answers judged by a teacher to build critical thinking](chatgpt-generate-verify-integrate-strategy.md)
+- [Use ChatGPT as a cited assistant and reference for programming and general tasks, with logical and critical thinking to validate its output](chatgpt-as-cited-assistant-with-critical-validation.md)
 
 ## Examples
 -

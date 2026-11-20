@@ -47,3 +47,4 @@ ERGM outspokenness variable, measurable only for Courses B and C (Course A had n
 ## Related Claims
 - [Lecture perception networks concentrate nominations around a few celebrities while lab perception networks do not](lecture-networks-centralized-lab-networks-diffuse.md) — related
 - [Lab section enrollment shapes nominations in both contexts, while discussion section enrollment predicts only lecture-context nominations](section-homophily-context-specific-nominations.md) — related
+- [In-class outspokenness is the most prominent reason students give for recognizing strong physics peers, cited in about 40% of explanations in each semester](outspokenness-most-prominent-recognition-reason.md) — related

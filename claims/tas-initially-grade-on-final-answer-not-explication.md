@@ -53,3 +53,4 @@ Analysis of 15 first-year TAs' Week 1 homework grading of two student solutions 
 - [TAs notice few of the example-solution features that the literature identifies as supportive of expert-like problem solving](tas-notice-few-research-recommended-solution-features.md) — related
 - [TAs' stated goals for grading are frequently not aligned with their actual grading practice](ta-grading-goals-practice-misalignment.md) — related
 - [When grading with the rubric, over half of TAs credited the brief solution with invoking and justifying useful principles even though the solution contained no explicit invoking or justifying](tas-credited-explication-without-evidence.md) — related
+- [Japanese students spend roughly one-fifth the problem-solving homework time of US students, a difference the article attributes to the absence of TA support](ta-support-homework-time-us-japan-gap.md) — related

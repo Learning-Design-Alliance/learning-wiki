@@ -48,3 +48,5 @@ End-of-course feedback from 14 of 35 students who completed the course; the arti
 - [Many students in beginner-programmer introductory physics classes report that the game-like programming exercise was enjoyable or fun](planetoids-exercise-enjoyment-survey.md) — related
 - [Qiskit-based exercises agree with theoretical predictions and support introducing quantum computing to undergraduates](qiskit-agrees-with-theory-classroom-effectiveness.md) — related
 - [Students named the Quantum Katas as the course component contributing most to their learning](quantum-katas-most-learning-contribution.md) — related
+- [During the IBM Q final project, spreadsheet-based data analysis and the concept of correlation were the most challenging aspects for students, while quantum circuit implementation and device characterization were among the least challenging](qcamp-correlation-spreadsheet-most-challenging.md) — related
+- [Few students showed difficulties with the new computing approach, mainly when extending quantum algorithms to more complex problems, and group work with practical exercises helped overcome them](quantum-chapter-student-difficulties-group-work.md) — related

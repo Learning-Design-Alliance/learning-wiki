@@ -42,6 +42,7 @@ The authors' forward-looking recommendation, prompted by a gain they call small.
 - [Faded Worked Examples](faded-worked-examples.md)
 - [Worked Examples For Game Based Puzzle Problem Solving](../designs/worked-examples-for-game-based-puzzle-problem-solving.md)
 - [Deliver examples with fading (completion strategy) and random (interleaved) sequencing, and promote active processing via self-explanation, subgoal labeling, and comparison](fade-interleave-and-activate-examples-delivery.md)
+- [Add explanations to completed Parsons puzzle blocks to support understanding of difficult details](add-explanations-to-parsons-blocks-strategy.md)
 
 ## Examples
 -

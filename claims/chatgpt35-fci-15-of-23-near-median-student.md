@@ -72,3 +72,5 @@ Comparison against the end-of-semester FCI post-test score distribution from the
 - [Relative to end-of-semester students in a Fall '18 introductory course, GPT-3.5 would fall at the 39th percentile and GPT-4 above the 96th percentile on the FCI](gpt4-fci-above-96th-percentile-students.md) — related
 - [ChatGPT based on GPT-4 solves the FCI accurately, scoring on average 83% correct](chatgpt-gpt4-solves-fci-accurately.md) — related
 - [Figure-to-text transcription of FCI items may cause difficulties for ChatGPT, with eleven items unsolved in every run](figure-transcription-hinders-chatgpt-fci.md) — related
+- [ChatGPT completes introductory CS1 and CS2 programming assignments with near-perfect accuracy, requiring almost no coding skill from the student](chatgpt-near-perfect-cs1-cs2-assignments.md) — related
+- [Review of prior studies finds ChatGPT-4 typically scores between 90 and 100% on the Force Concept Inventory, comparable to physics experts, while ChatGPT-3.5 scored 50-60%](chatgpt4-fci-expert-level-review-reported.md) — related

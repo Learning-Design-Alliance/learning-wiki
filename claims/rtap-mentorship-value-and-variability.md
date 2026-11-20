@@ -63,3 +63,5 @@ Interview finding on mentorship: mentors offered real-world examples, consistent
 - [Mentorship overlap and regular mentor meetings supported learner progress; same-discipline physician mentors served as role models](mentorship-overlap-and-role-modelling.md) — related
 - [Assigned mentors can produce superficial mentoring relationships; mentees should instead choose from a list of potential mentors](assigned-mentors-superficial-relationship.md) — related
 - [Scholars especially value mentors who attend to their well-being as a whole person, and identity-matched mentoring relationships can be especially meaningful or transformative](whole-person-and-identity-matched-mentoring-valued.md) — related
+- [Semester-extension interns were selected by scored factors of mentor input, peer and expert feedback on final presentations, and lecture attendance](semester-extension-selection-scored-factors.md) — related
+- [Intentional teacher groupings with responsive regrouping during in-person PD supported the formation of informal mentorships](intentional-grouping-supports-informal-mentorship.md) — related

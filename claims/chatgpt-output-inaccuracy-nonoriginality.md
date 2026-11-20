@@ -56,3 +56,4 @@ First-person expert account of asking ChatGPT in early December for an essay on 
 - [AI systems can produce biased or inaccurate diagnostic outputs, requiring critical teacher evaluation before integration](ai-biased-inaccurate-outputs-require-critical-evaluation.md) — related
 - [GenAI benefits vary across writing sub-tasks: organization and style improve marginally while policy logic shows no improvement](genai-subtask-differential-benefits.md) — related
 - [AI-generated virtual patients exhibit limitations including inauthentic conversational flow, excessive agreeableness, role departure, and clinical inaccuracy](ai-virtual-patient-limitations-flow-agreeableness-role-departure.md) — related
+- [Using a black-box LLM for feedback generation limits transparency and explainability](black-box-llm-feedback-transparency-limitation.md) — related

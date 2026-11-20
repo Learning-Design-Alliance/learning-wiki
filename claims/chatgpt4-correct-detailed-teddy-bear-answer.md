@@ -53,3 +53,4 @@ Analysis of the ChatGPT-4 response in the first session. The article reports it 
 - [The misconception that acceleration is zero at the top of toss-up motion persisted despite gains on the highest-point velocity item](zero-acceleration-apex-misconception-persists.md) — related
 - [The zero-velocity/zero-acceleration misconception at maximum height was virtually absent in this sample](absence-zero-velocity-acceleration-misconception.md) — related
 - [ChatGPT-4 outperformed Bing Chat in response quality, context understanding, subject comprehension, and overall performance in Physics problem dialogues.](chatgpt4-outperformed-bing-chat-physics-responses.md) — related
+- [Superfluous everyday details in a problem prompt distract ChatGPT-4 and degrade the physics quality of its responses](superfluous-context-degrades-chatgpt4-physics-responses.md) — related

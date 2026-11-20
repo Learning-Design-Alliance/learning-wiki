@@ -49,3 +49,4 @@ Observation across the main-study interviews: the article reports that "all of t
 - [Physics experts solving graphing tasks use mathematics mental actions MMA 1-4 but show no evidence of MMA 5 (Smooth Continuous)](physics-experts-use-mma1-4-not-mma5.md) — related
 - [Physics experts approach covariational graphing problems with behaviors distinct from those of mathematics experts](physics-experts-covariation-differs-from-math-experts.md) — related
 - [Expert physicists perform neighborhood analysis—identifying physically significant points, considering slope near them, and connecting those slopes into a smooth curve](neighborhood-analysis-expert-physicists.md) — related
+- [Physics experts' covariational reasoning in modeling tasks is not fully described by the mathematics mental-actions framework](physics-expert-covariation-beyond-math-framework.md) — related

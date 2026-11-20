@@ -125546,5 +125546,629 @@
  "worked-examples\tfour-step worked-example approach with explanations and error correction\tnot stated": {
   "label": "worked examples vs no worked examples",
   "treatment_is_a": true
+ },
+ "active-learning\t6-hour activity-based Powers of the Universe module with group learning\tpre-test scores": {
+  "label": "Powers of the Universe activity-based group-learning module vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\t6-hour activity-based module with group learning\tpre-module test before instruction": {
+  "label": "Powers of the Universe activity-based group-learning module vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tCodeTailor personalized Parsons puzzles\tLLM-generated solution": {
+  "label": "Personalized Parsons puzzle support vs LLM-generated solution",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer collaboration on QMFPS items about commutators and compatibility\tPeer collaboration on items in other topic categories": {
+  "label": "Peer collaboration on commutator and compatibility items vs peer collaboration on other QMFPS topics",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer collaboration on QMFPS items about eigenstates of operators corresponding to physical observables\tPeer collaboration on items in other topic categories": {
+  "label": "Peer collaboration on eigenstate items vs peer collaboration on other QMFPS topics",
+  "treatment_is_a": true
+ },
+ "active-learning\tPowers of the Universe activity-based module\tpre-test/before the module": {
+  "label": "Powers of the Universe activity-based module vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tPowers of the Universe doubling activity\tpre-test before the activity": {
+  "label": "Powers of the Universe doubling activity vs pre-activity baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tballoon-triangle hands-on activity and instruction\tpre-intervention responses": {
+  "label": "Hands-on balloon-triangle activity and instruction vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tlectures using live polling quizzes\tlectures without live polling quizzes": {
+  "label": "Live polling quizzes during lectures vs lectures without live polling",
+  "treatment_is_a": true
+ },
+ "active-learning\tone-off intervention including hands-on balloon triangle activity\tpre-intervention questionnaire": {
+  "label": "Hands-on balloon-triangle intervention vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tone-off workshop with visual demonstrations and hands-on activities\tpre-intervention baseline": {
+  "label": "Visual demonstrations and hands-on activities vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer collaboration across survey topics\ttopic-level construction rates": {
+  "label": "Peer collaboration across survey topics vs topic-level construction rates",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer collaboration after individual work\tindividual responses before collaboration": {
+  "label": "Peer collaboration after individual work vs individual work before collaboration",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer collaboration in groups\tindividual work": {
+  "label": "Peer collaboration in groups vs individual work",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer collaboration in groups of two or three\tindividual work": {
+  "label": "Peer collaboration in groups of two or three vs individual work",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer collaboration when no group member initially answered correctly\tindividual responses before collaboration": {
+  "label": "Peer collaboration after no group member initially answered correctly vs individual responses before collaboration",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer collaboration when no group member was initially correct\tindividual responses before collaboration": {
+  "label": "Peer collaboration after no group member was initially correct vs individual responses before collaboration",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer collaboration when no member was initially correct\tno student in the group answered correctly individually": {
+  "label": "Peer collaboration after no member was initially correct vs no-correct individual performance",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer collaboration when one group member was initially correct and another incorrect\tindividual responses before collaboration": {
+  "label": "Peer collaboration with one initially correct and one initially incorrect member vs individual responses before collaboration",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer collaboration when one member initially answered correctly\tindividual responses before collaboration": {
+  "label": "Peer collaboration with one initially correct member vs individual responses before collaboration",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer collaboration when one member was initially correct\tmixed individual responses, one correct and one incorrect": {
+  "label": "Peer collaboration with one initially correct member vs mixed individual responses",
+  "treatment_is_a": true
+ },
+ "active-learning\tpersonalized Parsons puzzle support\tLLM-generated solution": {
+  "label": "Personalized Parsons puzzle support vs LLM-generated solution",
+  "treatment_is_a": true
+ },
+ "active-learning\tpost-fellowship interview after value-focused discussions\tpre-fellowship interview": {
+  "label": "Value-focused fellowship discussions vs pre-fellowship baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\trevised lab with Arduino and smartphones\tpre-course baseline": {
+  "label": "Revised Arduino-and-smartphone laboratory vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\trevised lab with Arduino, smartphones, and more student decision-making\tpre-course baseline": {
+  "label": "Revised Arduino-and-smartphone laboratory with increased student decision-making vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tsmall-group collaborative think-aloud problem solving\tindividual problem solving": {
+  "label": "Small-group collaborative think-aloud problem solving vs individual problem solving",
+  "treatment_is_a": true
+ },
+ "active-learning\tspacetime-curvature intervention with demonstrations and practical activities\tpre-intervention responses": {
+  "label": "Spacetime-curvature demonstrations and practical activities vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tvalue-focused fellowship discussions\tpre-fellowship interview": {
+  "label": "Value-focused fellowship discussions vs pre-fellowship baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tvisual demonstrations and hands-on activities\tpre-intervention responses": {
+  "label": "Visual demonstrations and hands-on activities vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tworking in groups of two or three on the QMFPS\tworking individually on the QMFPS": {
+  "label": "Small-group collaboration on the QMFPS vs individual work on the QMFPS",
+  "treatment_is_a": true
+ },
+ "active-learning\tyear-long value-focused fellowship discussions\tpre-fellowship interviews": {
+  "label": "Value-focused fellowship discussions vs pre-fellowship baseline",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tZCO: ZPDES with contextual choice\tPCO: Predefined sequence with contextual choice": {
+  "label": "adaptive vs fixed sequence",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tZCO: ZPDES with learner choice\tPredef: fixed sequence without choice": {
+  "label": "adaptive curriculum with learner choice vs fixed curriculum without learner choice",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tZCO: adaptive ZPDES curriculum with learner choice\tPredef: fixed predefined sequence without learner choice": {
+  "label": "adaptive curriculum with learner choice vs fixed curriculum without learner choice",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tZPDES with choice of visual objects\tPredefined curriculum with choice of visual objects": {
+  "label": "adaptive vs fixed curriculum",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tZPDES with contextual learner choice\tZPDES without choice": {
+  "label": "contextual learner choice vs no choice",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tchoice of exercise visual objects\tno choice of visual objects": {
+  "label": "choice of exercise visual objects vs no choice",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tchoice of visual objects during exercises\tno choice of visual objects": {
+  "label": "choice of exercise visual objects vs no choice",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tflexible, voluntary uptake of PD materials\trequired immediate implementation of all materials": {
+  "label": "voluntary uptake vs required immediate implementation",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tlearner choice of exercise objects\tno learner choice": {
+  "label": "choice of exercise visual objects vs no choice",
+  "treatment_is_a": true
+ },
+ "autonomy-support\toption to change groups\tinitial control-group composition": {
+  "label": "option to change groups vs fixed group composition",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tself-selected affinity-based groups\trandomly assigned groups": {
+  "label": "self-selected groups vs randomly assigned groups",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tself-selected affinity-based groups\tteacher-randomly assigned groups": {
+  "label": "self-selected groups vs randomly assigned groups",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tself-selected groups\trandomly assigned groups": {
+  "label": "self-selected groups vs randomly assigned groups",
+  "treatment_is_a": true
+ },
+ "autonomy-support\t自由 navigation among questions\tpredetermined question sequence": {
+  "label": "free navigation vs predetermined question sequence",
+  "treatment_is_a": true
+ },
+ "case-comparison\tApplying the Pythagorean theorem to individual components or individual forces\tApplying it after summing the x- and y-components": {
+  "label": "individual-component vs resultant-vector application",
+  "treatment_is_a": true
+ },
+ "case-comparison\tassociate component signs with charge signs\tassign component signs from vector direction and coordinate axes": {
+  "label": "charge-sign-based vs direction-and-axis-based sign assignment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tG1 list of suggestions\tG1 absent": {
+  "label": "list of suggestions vs no suggestions",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tG1 list of suggestions\tother guidance strategies": {
+  "label": "list of suggestions vs other guidance strategies",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tprogrammed instruction\ttraditional didactic teaching": {
+  "label": "programmed instruction vs traditional didactic teaching",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tregular instruction\tno comparison reported": {
+  "label": "regular instruction vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tregular instruction in Special and General Relativity\tno comparison condition reported": {
+  "label": "regular instruction in Special and General Relativity vs no comparison condition reported",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tregular instruction in relativity\tno comparison group reported": {
+  "label": "regular instruction in relativity vs no comparison group reported",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tregular instructional series\tnot reported": {
+  "label": "regular instructional series vs not reported",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tregular instructional series on relativity\tno comparison condition stated": {
+  "label": "regular instructional series on relativity vs no comparison condition stated",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional lecture-based advanced mechanics instruction\tbeginning-of-course pre-test": {
+  "label": "traditional lecture-based advanced mechanics instruction vs beginning-of-course pre-test",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tupper-level post-instruction\tupper-level pre-instruction": {
+  "label": "upper-level post-instruction vs upper-level pre-instruction",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tshared automatic testing harnesses for self-evaluation\tstudents independently devised ways to validate solutions": {
+  "label": "shared testing harnesses vs self-developed validation methods",
+  "treatment_is_a": true
+ },
+ "feedback-presence\ttesting harnesses shared with students\tstudents developed their own validation methods": {
+  "label": "shared testing harnesses vs self-developed validation methods",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-4 GMSL reframing with one self-critique\texpert-teacher GMSL reframing": {
+  "label": "GPT-4 GMSL reframing with one self-critique vs expert-teacher GMSL reframing",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-4 GMSL reframing with one self-critique\toriginal unsupportive teacher utterance": {
+  "label": "GPT-4 reframing with one self-critique vs original unsupportive teacher utterance",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-4 GMSL reframing without self-critique\toriginal unsupportive teacher utterance": {
+  "label": "GPT-4 reframing without self-critique vs original unsupportive teacher utterance",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-4 model reframings\texpert teacher reframings": {
+  "label": "Model reframings vs expert-teacher reframings",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-4 reframing with one self-critique\tGPT-4 reframing with zero self-critiques": {
+  "label": "GPT-4 reframing with one self-critique vs GPT-4 reframing with zero self-critiques",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-4 reframing with one self-critique\toriginal teacher utterance": {
+  "label": "GPT-4 reframing with one self-critique vs original teacher utterance",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGPT-generated feedback\thuman-written feedback": {
+  "label": "GPT-generated feedback vs human-written feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\texpert-generated feedback\tno comparison reported": {
+  "label": "Expert-generated feedback vs comparison not reported",
+  "treatment_is_a": true
+ },
+ "feedback-type\texpert-teacher GMSL reframing\toriginal unsupportive teacher utterance": {
+  "label": "Expert-teacher GMSL reframing vs original unsupportive teacher utterance",
+  "treatment_is_a": true
+ },
+ "feedback-type\tmodel reframings\texpert teacher reframings": {
+  "label": "Model reframings vs expert-teacher reframings",
+  "treatment_is_a": true
+ },
+ "feedback-type\tscore-based LLM feedback\tbefore receiving feedback": {
+  "label": "Score-based LLM feedback vs before receiving feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tscore-based prompting\tstandard prompting": {
+  "label": "Score-based prompting vs standard prompting",
+  "treatment_is_a": true
+ },
+ "feedback-type\tscore-based prompting feedback\tbefore receiving feedback": {
+  "label": "Score-based prompting feedback vs before receiving feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tscore-based prompting feedback\tstandard prompting feedback": {
+  "label": "Score-based prompting feedback vs standard prompting feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tlive polling quizzes during lectures\tlectures without live polling quizzes": {
+  "label": "live polling quizzes vs no live polling quizzes",
+  "treatment_is_a": true
+ },
+ "gamification\tSleuth video-game-like platform\tmodule-based testing environment": {
+  "label": "gamified learning environment vs conventional module-based environment",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified marking scheme awarding higher marks for re-attempts\tmarking without the gamified re-attempt scheme": {
+  "label": "gamified re-attempt marking scheme vs standard marking",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified marking scheme with re-attempt scoring\tno such gamified marking scheme": {
+  "label": "gamified re-attempt marking scheme vs standard marking",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified marking with higher marks for re-attempts\tno gamified marking or re-attempt incentive": {
+  "label": "gamified re-attempt marking scheme vs standard marking",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified programming learning\tnon-gamified programming learning": {
+  "label": "gamified learning vs non-gamified learning",
+  "treatment_is_a": true
+ },
+ "gamification\tmark-as-completed button\tnot stated": {
+  "label": "mark-as-completed button vs no mark-as-completed button",
+  "treatment_is_a": true
+ },
+ "gamification\tpersonalized gamification\tcomparison condition not specified": {
+  "label": "personalized gamification vs non-personalized or unspecified gamification",
+  "treatment_is_a": true
+ },
+ "gamification\tpersonalized gamification\tnot specified": {
+  "label": "personalized gamification vs non-personalized or unspecified gamification",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tconstructing knowledge from an open RC-circuit problem with instructor guidance\treproducing established textbook results": {
+  "label": "guided discovery vs reproduction of established results",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tenvironment-based guided inquiry\tconventional instruction": {
+  "label": "guided inquiry vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided inquiry\tconventional instruction": {
+  "label": "guided inquiry vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided inquiry\tstructured inquiry": {
+  "label": "guided inquiry vs structured inquiry",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided inquiry across classroom-action-research cycles\tearlier cycle": {
+  "label": "guided inquiry across cycles vs earlier-cycle instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided inquiry-based learning\tconventional instruction": {
+  "label": "guided inquiry vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\topen-problem RC investigation with instructor guidance\treproducing established textbook results": {
+  "label": "guided discovery vs reproduction of established results",
+  "treatment_is_a": true
+ },
+ "media-design\tappropriate images with detailed, well-written descriptions\timages that are not carefully selected or described": {
+  "label": "carefully selected and described images vs poorly selected or described images",
+  "treatment_is_a": true
+ },
+ "media-design\tinformation enhanced with visual data and stories\tinformation without visual-narrative enhancement": {
+  "label": "visual-narrative enhancement vs no visual-narrative enhancement",
+  "treatment_is_a": true
+ },
+ "media-design\tpeer attention cues displayed\tno peer attention cues": {
+  "label": "peer attention cues vs no peer attention cues",
+  "treatment_is_a": true
+ },
+ "media-design\tpictorial representation (PRI)\tnumerical representation (NRI)": {
+  "label": "pictorial vs numerical representation",
+  "treatment_is_a": true
+ },
+ "media-design\tpictorial representation of measurements with error bars\tnumerical representation of measurements with uncertainties": {
+  "label": "pictorial vs numerical representation",
+  "treatment_is_a": true
+ },
+ "media-design\tpictorially represented item (PRI)\tnumerically represented item (NRI)": {
+  "label": "pictorial vs numerical representation",
+  "treatment_is_a": true
+ },
+ "media-design\tsimplified real-coefficient circle model\tfull complex-coefficient sphere model": {
+  "label": "simplified real-coefficient circle model vs full complex-coefficient sphere model",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual data and storytelling resources\tother group or non-visual-narrative resources": {
+  "label": "visual-narrative enhancement vs no visual-narrative enhancement",
+  "treatment_is_a": true
+ },
+ "practice-amount\tLPQs used more frequently in lectures\tLPQs not used more frequently": {
+  "label": "more frequent practice vs less frequent practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tPowers of the Universe module with Activity 11 added\tpre-test before instruction": {
+  "label": "added practice activity vs pretesting",
+  "treatment_is_a": true
+ },
+ "practice-amount\tUS coursework with TA support\tJapanese coursework with limited TA support": {
+  "label": "TA-supported coursework vs limited-TA coursework",
+  "treatment_is_a": true
+ },
+ "problem-first\tG4 Solve-Then-Refine\tG4 absent": {
+  "label": "problem-first vs no problem-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tG4 solve then refine with LLM\tG4 absent": {
+  "label": "problem-first vs no problem-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tG4 solve then refine with LLM\tother guidance strategies": {
+  "label": "LLM-supported problem-first vs other guidance strategies",
+  "treatment_is_a": true
+ },
+ "prompts\tCustom instructions\tNo custom instructions": {
+  "label": "Custom instructions vs no custom instructions",
+  "treatment_is_a": true
+ },
+ "prompts\tCustom instructions or prompt engineering\tNo custom instructions": {
+  "label": "Custom instructions or prompt engineering vs no custom instructions",
+  "treatment_is_a": true
+ },
+ "prompts\tDomain-specified prompt plus physics-teacher role instruction\tDomain-specified prompt without role instruction": {
+  "label": "Domain prompt with role instruction vs domain prompt without role instruction",
+  "treatment_is_a": true
+ },
+ "prompts\tFurther probing question comparing descent and ascent slopes\tEarlier leading question that elicited a correct correction": {
+  "label": "Further probing question vs earlier leading question",
+  "treatment_is_a": true
+ },
+ "prompts\tG3 metacognitive questioning\tG3 absent": {
+  "label": "G3 metacognitive questioning vs no G3 questioning",
+  "treatment_is_a": true
+ },
+ "prompts\tG3 metacognitive questioning\tother guidance strategies": {
+  "label": "G3 metacognitive questioning vs other guidance strategies",
+  "treatment_is_a": true
+ },
+ "prompts\tGPT-4 with explanation provided first\thuman test-takers": {
+  "label": "GPT-4 explanation-first response vs human test-takers",
+  "treatment_is_a": true
+ },
+ "prompts\tMode-shifting with why/how questions\tbaseline without Mode-shifting and Teaching Helper": {
+  "label": "Mode-shifting why/how questions vs baseline without mode-shifting and Teaching Helper",
+  "treatment_is_a": true
+ },
+ "prompts\tTeachYou with Mode-shifting\tbaseline without Mode-shifting": {
+  "label": "TeachYou with Mode-shifting vs baseline without Mode-shifting",
+  "treatment_is_a": true
+ },
+ "prompts\tTeachYou with Mode-shifting questions\tbaseline without Mode-shifting": {
+  "label": "TeachYou with Mode-shifting questions vs baseline without Mode-shifting",
+  "treatment_is_a": true
+ },
+ "prompts\tTeachYou with Teaching Helper\tbaseline without Mode-shifting and Teaching Helper": {
+  "label": "Teaching Helper vs baseline without Mode-shifting and Teaching Helper",
+  "treatment_is_a": true
+ },
+ "prompts\tTeachYou with Teaching Helper\tbaseline without Teaching Helper": {
+  "label": "Teaching Helper vs baseline without Teaching Helper",
+  "treatment_is_a": true
+ },
+ "prompts\tTeachYou with Teaching Helper metacognitive feedback\tbaseline without Mode-shifting and Teaching Helper": {
+  "label": "Teaching Helper with metacognitive feedback vs baseline without Mode-shifting and Teaching Helper",
+  "treatment_is_a": true
+ },
+ "prompts\tTeachYou with Teaching Helper metacognitive feedback\tbaseline without Teaching Helper": {
+  "label": "Teaching Helper with metacognitive feedback vs baseline without Teaching Helper",
+  "treatment_is_a": true
+ },
+ "prompts\tTeaching Helper with real-time metacognitive feedback and suggestions\tbaseline without Teaching Helper": {
+  "label": "Teaching Helper with real-time metacognitive feedback and suggestions vs baseline without Teaching Helper",
+  "treatment_is_a": true
+ },
+ "prompts\tbroader all-mechanics prompt for GPT-3.5 and domain-specific prompt for GPT-4\tdomain-specific prompt for GPT-3.5 and broader prompt for GPT-4": {
+  "label": "Broader all-mechanics prompt for GPT-3.5 and domain-specific prompt for GPT-4 vs domain-specific prompt for GPT-3.5 and broader prompt for GPT-4",
+  "treatment_is_a": true
+ },
+ "prompts\tdetailed, specific prompts\tbasic prompts": {
+  "label": "Detailed, specific prompts vs basic prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tdetailed, specific prompts\tbasic, less-detailed prompts": {
+  "label": "Detailed, specific prompts vs basic, less-detailed prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tdetailed, specific prompts requiring line fitting, graphs, error bars, chi-squared analysis, and uncertainty propagation\tbasic prompt asking ChatGPT to complete the activity": {
+  "label": "Detailed, analysis-intensive prompt vs basic activity prompt",
+  "treatment_is_a": true
+ },
+ "prompts\tdomain-specific prompt\tbroader-domain prompt": {
+  "label": "Domain-specific prompt vs broader-domain prompt",
+  "treatment_is_a": true
+ },
+ "prompts\tdomain-specified prompt\tunspecified prompt": {
+  "label": "Domain-specified prompt vs unspecified prompt",
+  "treatment_is_a": true
+ },
+ "prompts\texplain before answering\tanswer directly": {
+  "label": "Explain before answering vs answer directly",
+  "treatment_is_a": true
+ },
+ "prompts\texplanation before the answer\tdirect answer without prior explanation": {
+  "label": "Explanation before the answer vs direct answer without prior explanation",
+  "treatment_is_a": true
+ },
+ "prompts\tincline problems embedding everyday objects\tincline problems without embedded everyday objects": {
+  "label": "Incline problems with embedded everyday objects vs without embedded everyday objects",
+  "treatment_is_a": true
+ },
+ "prompts\tinterviewer prompting\tno interviewer prompting": {
+  "label": "Interviewer prompting vs no interviewer prompting",
+  "treatment_is_a": true
+ },
+ "prompts\tprompt covering all mechanics domains\tdomain-specific prompt": {
+  "label": "Broader all-mechanics prompt vs domain-specific prompt",
+  "treatment_is_a": true
+ },
+ "prompts\tprompting the model to explain before answering\tanswering directly": {
+  "label": "Explain before answering vs answer directly",
+  "treatment_is_a": true
+ },
+ "prompts\trequired explanation before answer\tdirect answer without explanation": {
+  "label": "Required explanation before answer vs direct answer without explanation",
+  "treatment_is_a": true
+ },
+ "prompts\tuploading real experimental data with explicit instructions for an ODR fit and uncertainty calculation\tbasic prompting with simulated data": {
+  "label": "Real experimental data with explicit ODR-fit and uncertainty instructions vs basic prompting with simulated data",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tLPQs in lectures\tno reported encouragement to study outside class": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "scaffolding\tLSRC integrated with local teachers’ efforts to adapt and deliver content\tLSRC without local-teacher mediation": {
+  "label": "local-teacher-mediated delivery vs non-mediated delivery",
+  "treatment_is_a": true
+ },
+ "scaffolding\tMode-shifting with agent-initiated why/how questions\tbaseline without Mode-shifting": {
+  "label": "mode-shifting with agent-initiated why/how questions vs no mode-shifting",
+  "treatment_is_a": true
+ },
+ "scaffolding\tTeachYou with Mode-shifting\tbaseline without Mode-shifting and Teaching Helper": {
+  "label": "TeachYou with mode-shifting vs baseline without mode-shifting or Teaching Helper",
+  "treatment_is_a": true
+ },
+ "scaffolding\tpersonalized Parsons-puzzle support\tLLM-generated solution": {
+  "label": "personalized Parsons-puzzle support vs LLM-generated solution",
+  "treatment_is_a": true
+ },
+ "scaffolding\tpersonalized partially movable Parsons puzzles\tfully movable Parsons puzzles": {
+  "label": "partially movable Parsons puzzles vs fully movable Parsons puzzles",
+  "treatment_is_a": true
+ },
+ "scaffolding\trearranged novice–veteran pairings\tinitial teacher pairings": {
+  "label": "rearranged novice–veteran pairings vs initial teacher-assigned pairings",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolded physics problem with assumption and force-identification sub-prompts\topen-ended physics problem": {
+  "label": "scaffolded problem with assumption and force-identification prompts vs open-ended problem",
+  "treatment_is_a": true
+ },
+ "scaffolding\tsubstantial preparation for quantum-circuit implementation and device characterization\tspreadsheet and correlation data analysis": {
+  "label": "substantial preparation for quantum-circuit implementation and device characterization vs spreadsheet and correlation data analysis",
+  "treatment_is_a": true
+ },
+ "self-explanation\tadaptive Thompson Sampling allocation\ttraditional uniform-random allocation": {
+  "label": "adaptive Thompson Sampling allocation vs traditional uniform-random allocation",
+  "treatment_is_a": true
+ },
+ "self-explanation\tself-explanation prompt\tno prompt": {
+  "label": "self-explanation prompt vs no prompt",
+  "treatment_is_a": true
+ },
+ "self-explanation\tself-explanation prompt\tno self-explanation prompt": {
+  "label": "self-explanation prompt vs no prompt",
+  "treatment_is_a": true
+ },
+ "self-explanation\tself-explanation prompt under adaptive Thompson Sampling\tno self-explanation prompt under adaptive Thompson Sampling": {
+  "label": "self-explanation prompt vs no prompt",
+  "treatment_is_a": true
+ },
+ "simulation\tGUI with simulated-data analysis\tlaboratory-only activity without simulated data": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\topen-ended VR drilling simulation\tcontrol training": {
+  "label": "simulation vs control training",
+  "treatment_is_a": true
+ },
+ "simulation\topen-ended VR drilling training\tcontrol training": {
+  "label": "simulation-based training vs control training",
+  "treatment_is_a": true
+ },
+ "simulation\tspacetime simulator demonstration\tpre-intervention responses": {
+  "label": "simulation intervention vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "test-format\tidentifying the denominator trigonometry error\tidentifying the component-sign error": {
+  "label": "Identifying denominator trigonometry error vs identifying component-sign error",
+  "treatment_is_a": true
+ },
+ "test-format\tidentifying the net-field magnitude error\tidentifying the component-sign error": {
+  "label": "Identifying net-field magnitude error vs identifying component-sign error",
+  "treatment_is_a": true
+ },
+ "test-format\tidentifying the net-field magnitude error\tidentifying the denominator trigonometry error": {
+  "label": "Identifying net-field magnitude error vs identifying denominator trigonometry error",
+  "treatment_is_a": true
+ },
+ "test-format\tonline unsupervised exams\ton-campus supervised exams": {
+  "label": "Online unsupervised exams vs on-campus supervised exams",
+  "treatment_is_a": true
+ },
+ "test-format\tonline unsupervised low-stakes exams\ton-campus supervised low-stakes exams": {
+  "label": "Online unsupervised exams vs on-campus supervised exams",
+  "treatment_is_a": true
+ },
+ "test-format\ttarget exam items (Q4, Q6, and Q8)\tother exam items, including Q1": {
+  "label": "Target exam items vs other exam items",
+  "treatment_is_a": true
+ },
+ "worked-examples\tG2 example-based instruction\tother guidance strategies": {
+  "label": "worked examples vs other guidance strategies",
+  "treatment_is_a": true
  }
 }

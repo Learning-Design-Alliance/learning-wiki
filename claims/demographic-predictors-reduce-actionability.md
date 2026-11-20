@@ -93,3 +93,4 @@ The authors argue such a model embeds a form of demographic destiny: it "risks d
 - [Incorporating more learning activity data reduced the potential bias caused by overreliance on demographic information](learning-activity-data-reduces-demographic-bias.md) — a narrower finding that bears on this claim
 - [The model was validated on the complete public school network of the Calabria region using real institutional, territorial, and demographic data](calabria-school-network-case-study.md) — related
 - [No demographic or prior-knowledge risk factors for being excluded from small groups or dropping out could be identified; students with and without grades were similar](no-demographic-risk-factors-lab-dropout.md) — related
+- [LLM-simulated virtual students show highly aligned demographic-outcome correlations with real students (r > 0.7) in most demographic factors](llm-virtual-students-demographic-outcome-correlation.md) — related

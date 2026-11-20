@@ -69,3 +69,4 @@ Comparison against the same end-of-semester post-test distribution: the article 
 - [ChatGPT3.5 answers 15 of 23 modified FCI questions correctly, scoring near or above the median end-of-semester student](chatgpt35-fci-15-of-23-near-median-student.md) — related
 - [ChatGPT4 gives no completely confused FCI free responses, with 20 of 23 assessed exactly correct](chatgpt4-fci-free-responses-exactly-correct.md) — related
 - [ChatGPT3.5's FCI answers are unstable only where its reasoning is confused, while ChatGPT4 is insensitive to perturbations](chatgpt-response-stability-perturbations.md) — related
+- [A majority of surveyed physics students rated ChatGPT useful for answering physics-related questions and would recommend it as a support tool in physics courses](students-rate-chatgpt-useful-physics-questions.md) — related

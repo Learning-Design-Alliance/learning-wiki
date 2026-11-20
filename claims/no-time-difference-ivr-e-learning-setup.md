@@ -50,3 +50,4 @@ Secondary endpoint from the same randomized trial (Table 1); the article states 
 - [IVR-trained participants self-assessed their performance more accurately than e-learning participants](ivr-accurate-self-assessment-confidence.md) — related
 - [Randomized controlled trials show improved trainee performance with iVR relative to control in analogous operating room assessments, but skill-translation evidence was previously limited to surrogate operating rooms](ivr-rct-evidence-improved-trainee-performance.md) — related
 - [No significant difference between VR and control groups in time spent on ultrasonographic tasks](no-time-difference-vr-ultrasound-tasks.md) — related
+- [The VR group showed larger but non-significant cognitive gains than the control group overall and in each cognitive category](vr-larger-cognitive-gains-non-significant.md) — related

@@ -66,3 +66,4 @@ Analysis of student responses to the same statement: "Among the 612 responses in
 ## Related Claims
 - [Faculty experts show majority but not complete consensus on E-CLASS statements](faculty-consensus-22-of-30-eclass-statements.md) — related
 - [Many students at all levels personally disagree or are neutral that error analysis helps them understand results, unlike expert physicists](students-not-expert-like-on-error-analysis-helpfulness.md) — related
+- [Several E-CLASS items on lab-report formatting, asking experts for help, and choosing analysis methods kept low initial scores, indicating persisting low confidence and lack of autonomy](eclass-items-remained-low-persisting-confidence-gaps.md) — related

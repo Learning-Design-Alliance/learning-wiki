@@ -66,3 +66,4 @@ The Summary's stated position: scrapping basic knowledge tests because ChatGPT c
 ## Related Claims
 - [Over-reliance on GAI risks weakening teaching and social presence and depriving students of foundational skill development](gai-overreliance-risks-presence-and-skills.md) — related
 - [GenAI undermines evidence rules by making work products ambiguous between student competence and AI capability, with substitution capacity depending on task cognitive demands](genai-disrupts-evidence-rules-asymmetrically.md) — a broader claim this one bears on
+- [Attaining higher-order Bloom's skills such as create and plan requires retained lower-order knowledge, so lower skills cannot simply be delegated to lookup tools like ChatGPT](higher-order-bloom-skills-require-lower-order-knowledge.md) — a narrower finding that bears on this claim

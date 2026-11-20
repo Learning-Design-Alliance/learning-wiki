@@ -77,3 +77,4 @@ Same FC questionnaire, offline-course items: 90.5% liked teacher-student interac
 - [Focus groups identified interaction, small class size, active in-class activities, and pre-class online engagement as factors in positive learning experiences, with students unsure the model would work in larger classes](flipped-focus-group-positive-experience-factors.md) — related
 - [Students reported positive experience with the tutor-web: 92% said they learned from it, but 82% preferred a mixture of tutor-web and written homework](tutor-web-student-survey-positive-mixed-preference.md) — related
 - [Flipped classroom techniques with video lectures were reported by one teacher to improve engagement and learning outcomes](flipped-classroom-video-lectures-report-improvement.md) — related
+- [80% of University of Ghana distance education is delivered in blended mode, with about 5600 students learning via a flipped format](ug-distance-education-80-percent-blended.md) — related

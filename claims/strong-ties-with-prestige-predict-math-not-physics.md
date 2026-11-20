@@ -69,3 +69,4 @@ Physics regression models C and D from the same OLS analysis showed no significa
 - [During remote teaching, strong friendship-based working ties positively predict physics grades while weak ties show no effect](strong-ties-favor-remote-physics-grades.md) — related
 - [Collaboration degree centrality and strong friendship ties predict mathematics grades, with weak ties showing no gains](strong-ties-predict-math-grades-weak-ties-null.md) — related
 - [Collaborating with friends who enjoy academic prestige yields the strongest grade gains late in the hybrid year](strong-ties-prestige-strongest-gains-year-end.md) — related
+- [Within-group recognition of physics prestige depends on gender, average grades and team friendship, not on group-formation method](prestige-unaffected-by-group-formation-method.md) — related

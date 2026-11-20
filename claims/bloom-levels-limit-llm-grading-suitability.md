@@ -50,3 +50,4 @@ Authors' interpretation in the discussion, linking the observed grading results 
 - [Both models target Higher Bloom levels far more accurately than Lower levels, with the general model outperforming the coder model upward](tza-higher-versus-lower-bloom-targets.md) — related
 - [Most student–AI interactions occur at the understand and apply Bloom levels, with analyze appearing rarely](cognitive-intent-mostly-understand-apply.md) — related
 - [DRM knowledge scores rose from pre-test to post-test after e-learning in one group with no comparison group; recall and comprehension were reported as comparatively stronger than complex decision-making knowledge afterward](e-learning-serves-recall-not-complex-decisions.md) — related
+- [Most learning outcomes in Miami University's cybersecurity curriculum sit at the low Bloom's Taxonomy levels of Remember, Understand, and Apply](cybersec-curriculum-los-low-bloom-distribution.md) — related

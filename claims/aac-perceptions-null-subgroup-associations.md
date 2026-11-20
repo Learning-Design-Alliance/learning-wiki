@@ -103,3 +103,4 @@ Spearman correlation analysis of continuous factors in the survey. Training dura
 - [ANOVA by demographic subgroups (sex, residence, year of study, monthly allowance, ethnicity, location) indicated significant group differences at post-test and follow-up](ree-stress-effects-across-demographic-subgroups.md) — related
 - [Participants' prior ICT skills did not significantly correlate with e-learning experience or with blended learning score increment](prior-ict-skills-not-correlated-with-bl-outcomes.md) — related
 - [Problem Project scores show moderate positive correlations with final exam scores across all demographic subgroups](problem-project-correlates-with-final-exam.md) — related
+- [Effects of LP-based personalization are robust to individual characteristics such as school satisfaction, technology experience, gender and age](personalization-effects-robust-to-individual-characteristics.md) — related

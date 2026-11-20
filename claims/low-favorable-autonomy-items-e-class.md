@@ -49,3 +49,4 @@ Postinstruction item analysis of the national data set identifies the four lowes
 - [BFY students score higher than FY students on E-CLASS, with statistically significant differences on 24 of 30 items](bfy-score-higher-than-fy-e-class.md) — related
 - [Skills-focused courses differed observationally from concepts-focused courses: fewer verification labs, more student agency, more uncertainty quantification and lab notebooks](skills-focused-courses-activity-profile.md) — related
 - [Students accurately predict expert-like E-CLASS responses on more than 80% of items in both FY and BFY courses](students-accurately-predict-expert-responses.md) — related
+- [Several E-CLASS items on lab-report formatting, asking experts for help, and choosing analysis methods kept low initial scores, indicating persisting low confidence and lack of autonomy](eclass-items-remained-low-persisting-confidence-gaps.md) — related

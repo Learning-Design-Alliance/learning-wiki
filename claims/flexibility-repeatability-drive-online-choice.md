@@ -53,3 +53,4 @@ Interview findings from ten medical students; one student described being able t
 - [Direct interaction with the lecturer was a key decision criterion for choosing the face-to-face format](lecturer-interaction-drives-face-to-face-choice.md) — related
 - [Students feel 'lost at sea' when facing a large, poorly signposted elearning resource, hindering study-time allocation](elearning-lost-at-sea-theme.md) — related
 - [Over 90% of students reported choosing the course section because of its time of day, not the instructor's active-learning reputation](section-choice-time-of-day-confound-check.md) — related
+- [Flexibility in uptake and implementation of university materials was a responsive feature that gave teachers agency to adopt resources at their own pace](flexibility-in-uptake-gives-teachers-agency.md) — related

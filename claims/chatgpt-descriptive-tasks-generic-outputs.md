@@ -53,3 +53,4 @@ Blinded rubric marking of AI business case submissions in the pilot quasi-experi
 - [AI was found lacking in diagnosing student misconceptions because models do not understand lack of logic or sense making](ai-lacking-diagnosing-misconceptions.md) — related
 - [Students perceived the automated personalized feedback as too general and lacking personal response](automated-feedback-perceived-too-general.md) — related
 - [ChatGPT performs poorly on health database SQL programming tasks, with the best AI version scoring 56% against a top student score of 100%](chatgpt-sql-programming-weak.md) — related
+- [ChatGPT scores 100% on most database-course labs but fails UML/ER diagram tasks, scoring 28.5/30 on midterm 1 and 17/30 on midterm 2](chatgpt-database-course-variable-performance.md) — related

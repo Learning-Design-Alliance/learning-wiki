@@ -20,6 +20,7 @@ The article proposes three modeling modes, larger patterns of reasoning combinin
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Three modeling modes — Function Knowing, Function Choosing, and Function Generating — describe integrated patterns of physics expert covariational reasoning**: The article proposes three modeling modes, larger patterns of reasoning combining the mathematics mental actions and the reasoning devices. Function Knowing applies a compiled model using physically significant points and MMA 1; Function Choosing uses the general trend between physically significant points to choose among compiled models via MMA 2; Function Generating uses neighborhood analysis and MMA 4 to build a curve from slopes at significant points. The authors report that "physics experts were likely to engage in one of three modes when graphically modeling the relationship between two quantities," and describe the modes as a spectrum from applying models to generating models where none exists. (Charlotte Zimmerman et al. (2023))
+- **Modeling Modes: function knowing, function choosing, and symbolic and graphical generation**: Modeling Modes describe the ways physics experts construct a specific mathematical representation for a given physics context, drawing on proceptual understanding, the Physics Mental Actions, and reasoning devices. Function Knowing applies a compiled model associating a parent function with a familiar context; Function Choosing selects among candidate functions using physically significant points and trend of change; Symbolic and Graphical Generation produces an explicit covariational relationship 'typically... when there is no known quantitative model for a context.' (Alexis Olsho et al. (2023))
 
 ### Claims
 - [Function Generating was a last-resort modeling mode, used primarily on the Drone task where no ready analytical model applied](../claims/function-generating-last-resort-mode.md) [+M]
@@ -29,3 +30,4 @@ The article proposes three modeling modes, larger patterns of reasoning combinin
 
 ## Key Sources
 - Charlotte Zimmerman, Alexis Olsho, Michael Loverude, and Suzanne White Brahmia. (2023). Expert covariational reasoning resources in physics graphing tasks. https://arxiv.org/abs/2306.00921
+- Alexis Olsho, Charlotte Zimmerman, and Suzanne White Brahmia. (2023). A framework for characterizing covariational reasoning in physics. https://arxiv.org/abs/2310.06941

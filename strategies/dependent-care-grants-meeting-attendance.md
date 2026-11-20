@@ -46,6 +46,7 @@ The section used an AAPT Section Mini-Grant to fund stipends for attendees with 
 - [Fund residents with stipends and halve tuition to make a yearlong coteaching residency financially accessible](stipends-and-tuition-subsidy-for-residency-access.md)
 - [Strategic staffing partnership model funds resident stipends while meeting LEA paraeducator and substitute staffing needs](strategic-staffing-partnership-model.md)
 - [Adopt a one-page Event Participation Code of Conduct distributed before and at meetings](one-page-code-of-conduct-meetings.md)
+- [Provide participant stipends and free materials to remove financial barriers and reach socioeconomically diverse participants](qcamp-stipends-free-materials-diversity-strategy.md)
 
 ## Examples
 -

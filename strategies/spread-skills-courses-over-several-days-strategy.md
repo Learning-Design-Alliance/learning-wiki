@@ -52,6 +52,7 @@ For time-limited skills courses that typically use massed practice, the authors 
 - [Structure surgical skills courses as short weekly spaced sessions instead of a single massed day](spaced-weekly-sessions-surgical-skills-courses.md)
 - [Divide lengthy clinical-skills workshops into a longitudinal series of shorter sessions to ameliorate fatigue and enable spaced repetition](longitudinal-shorter-clinical-skills-sessions-strategy.md)
 - [Design competitive learning strategies to distribute knowledge sessions uniformly over time](competitive-strategies-uniform-knowledge-sessions.md)
+- [Extend short-course duration to five or six sessions to spread material and allow more interaction](extend-short-course-to-five-or-six-sessions.md)
 
 ## Examples
 -

@@ -47,6 +47,7 @@ The study operationalizes SRL in think-aloud transcripts as four categories grou
 ## Examples
 
 - [Multilingual SRL detection pipeline using OpenAI text-embedding-3-small embeddings with a single-hidden-layer neural network classifier](../research-methods/multilingual-embedding-based-automated-classification-of-self-regulated-learning-think-alo.md)
+- [Provide SRL scaffolds during processing stages and after errors, informed by students' SRL cycle state](../strategies/srl-scaffolds-processing-stages-strategy.md)
 
 ## Key Sources
 - Conrad Borchers, Jiayi Zhang, Hendrik Fleischer, Sascha Schanze, Vincent Aleven, Ryan S. Baker. (2025). Large Language Models Generalize SRL Prediction to New Languages Within But Not Between Domains. Journal of Educational Data Mining, Volume 17, No 2. https://github.com/pcla-code/EDM24_SRL-detectors-for-think-aloud

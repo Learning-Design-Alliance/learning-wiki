@@ -39,6 +39,7 @@ To spread the milq approach beyond the German-speaking world, the materials were
 ## Related Strategies
 
 - [Lighthouse train-the-trainers strategy: phase-by-phase demonstration, return teaching, and a seven-step workshop sequence with follow-up seminars](cle-lighthouse-train-the-trainers-strategy.md)
+- [Run a 1-hour introductory quantum computing workshop built around the quantum bomb tester story, accessible to students as young as 11](quantum-bomb-tester-intro-workshop-strategy.md)
 
 ## Examples
 -

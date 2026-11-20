@@ -49,3 +49,6 @@ ERGM analysis of the spring lecture-course recognition network found the woman�
 - [Men disproportionately under-nominate women as strong in the course material in both offerings of both distinct lab and lecture physics courses](men-under-nominate-women-peer-recognition-physics.md) — related
 - [Men significantly under-nominate women as strong in lecture material in first-year physics courses, while women proportionately nominate both genders](men-under-nominate-women-first-year-physics-lecture.md) — related
 - [Women nominated women significantly more than men nominated men in Course C's lecture perception network only](women-over-nominate-women-course-c-lecture.md) — related
+- [In-class outspokenness is the most prominent reason students give for recognizing strong physics peers, cited in about 40% of explanations in each semester](outspokenness-most-prominent-recognition-reason.md) — related
+- [Outspokenness in direct peer interactions is associated with peer recognition in the fall course but not in the spring course](peer-interactions-recognition-fall-not-spring.md) — related
+- [Men and women receive proportional recognition in lab contexts, but men receive disproportionately more recognition than expected in lecture contexts](received-recognition-proportional-lab-biased-lecture.md) — related

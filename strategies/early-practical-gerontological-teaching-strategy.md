@@ -46,6 +46,7 @@ The authors recommend that gerontological nursing programs place practical teach
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
 - [Embed simulation-based scenarios into the curriculum as structured learning modules with guided debriefings and reflective exercises](simulation-modules-debriefing-strategy.md)
 - [Incorporate clinical simulation with structured debriefing into nursing education planning for biosafety and emotional management](simulation-debriefing-biosafety-planning-strategy.md)
+- [Incorporate real-world situations and case studies into curricula to situate theoretical ideas in practical contexts](real-world-cases-situate-theory-strategy.md)
 
 ## Examples
 -

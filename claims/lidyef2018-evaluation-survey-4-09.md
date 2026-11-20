@@ -54,3 +54,4 @@ Evaluation survey distributed on the last day of the school, using a 5-point Lik
 - [Students reported positive usability and acceptance of MentorChat](mentorchat-positive-usability-acceptance.md) — related
 - [Students rate the project component of the sustainable physics course very positively](high-student-ratings-project-component.md) — related
 - [Undergraduate students rated the two-day forest physics exercise highly, averaging 6.1 on a 1–7 enjoyment scale](positive-student-feedback-forest-physics-exercise.md) — related
+- [91.4% of surveyed students rated the three-day AI bootcamp's overall quality as high or very high](bootcamp-survey-91-4-percent-overall-satisfaction.md) — related

@@ -48,3 +48,4 @@ Third theme of the study's qualitative content analysis, stated in the abstract 
 - [Generative instructors drew on pedagogical knowledge to teach lessons focused on students generating reasoning, unlike active instructors](generative-instructors-pk-student-reasoning.md) — possibly the same claim (merge candidate)
 - [PCK and CK of secondary mathematics teachers can be distinguished empirically](pck-ck-empirically-distinguishable.md) — related
 - [Simulated student reasoning shifted teachers from task-solvers to teacher-reasoners who interpreted misconceptions as student logic](simulated-student-reasoning-pck-rehearsal.md) — related
+- [Reframing a content question as a pedagogical task repositions teachers away from problem-solver risk and creates opportunities to practice CKT](pedagogical-reframing-repositions-teachers.md) — related

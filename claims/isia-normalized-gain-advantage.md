@@ -47,3 +47,4 @@ Descriptive comparison of normalized gain scores <g> (ratio of actual to maximum
 ## Related Claims
 - [ISIA supported students at all academic achievement levels, with a significant treatment-by-level interaction only for conceptual understanding](isia-all-achievement-levels.md) — related
 - [Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02](hake-ie-gains-two-sd-greater.md) — related
+- [The ChatGPT cohort showed negative Hake factors on all three course evaluations, interpreted as a decline in conceptual understanding relative to the control cohort](negative-hake-factor-chatgpt-physics2.md) — related

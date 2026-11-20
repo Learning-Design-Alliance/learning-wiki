@@ -49,3 +49,4 @@ Fine-tuning comparison during the experimental set-up for the multilingual Longf
 - [Fine-tuned transformer DL models outperform feature-based SVM models for science readability classification across all three languages and configurations](dl-transformers-beat-svm-science-ara.md) — related
 - [Science readability models trained on context-specific corpora fail to generalize to unseen test corpora in all three languages](science-ara-models-poor-generalization-unseen-corpora.md) — related
 - [Science readability models classify texts substantially more accurately in a 2-level setup than in the 4-level ESO-grade setup](two-level-readability-easier-than-four-level.md) — related
+- [Fine-tuned Flan-T5 models perform very poorly on held-out Socratic debugging dialogues](flan-t5-finetuning-poor-socratic-debugging.md) — related

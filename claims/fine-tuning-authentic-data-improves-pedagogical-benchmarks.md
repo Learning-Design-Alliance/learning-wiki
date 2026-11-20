@@ -9,7 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-20
+source_checked: 2026-11-20
 recheck_by: 2028
 sources:
   - id: janos-perczel-2025
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
+> **Currency** · newest study 2025 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Parameter-efficient fine-tuning of Gemini 2.5 Flash and GPT-4o on authentic Polygence data improves student talk time, words per tutor turn, questions per interrogative turn, turns before wrap-up, uncovering student background, and coding-skill checks. [→ Janos Perczel 2025](#janos-perczel-2025)
@@ -54,3 +54,5 @@ Automated multi-turn evaluations (Fig. 7) of fine-tuned Gemini 2.5 Flash and GPT
 - [Off-the-shelf LLM tutors are more verbose than human tutors, leaving students only 5-15% of talk time versus close to 30% in human tutoring](off-the-shelf-llms-verbose-low-student-talk-time.md) — related
 - [Extended multi-turn dialogue does not produce effective tutoring: learning gains remain uniformly low and misconception reduction peaks around 24-25%](multi-turn-learning-gains-remain-low.md) — related
 - [Participating teams found that smaller fine-tuned models can be competitive and that DialogRPT tends to prefer complete answers over pedagogically scaffolded ones.](team-observations-model-size-and-metric-bias.md) — related
+- [On the HoCMaze-18 reference task, fine-tuned GPT-3.5 shows no significant difference from human tutors in student attempt synthesis](gpt35-ft-ss-approaches-tutorss-hocmaze18.md) — a narrower finding that bears on this claim
+- [Fine-tuning an LLM on expert (task, solution) data significantly improves its student synthesis performance, including capturing the student's behavior](finetuning-improves-llm-ss-student-synthesis.md) — related
