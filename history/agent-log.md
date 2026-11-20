@@ -5,6 +5,23 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-20 · the first published LDA research release enters the wiki as a cited source
+
+PR #523 (the maintainer's) adds three claims and one observation record from research release
+`checklist-grading-2026` 1.0.1, published on Zenodo (DOI 10.5281/zenodo.24023968, checked on
+DataCite: findable, title and author matching) from learning-research-reports, where its protocol,
+code, per-case outputs and audits live. The wiki cites the release by DOI rather than holding a
+release file in `research/releases/`, so `research/` stays synthetic scaffolding and the
+`study.release` edge is not used. Each claim is `status: review` and carries an *Evidence quality*
+line saying it rests on one release, not peer-reviewed, carried out by an AI system under one
+author and not independently replicated. The record is `source_type: platform-experiment`, so it is
+never pooled with depositors' findings. An earlier version of the PR still carried embargo banners,
+`status: draft` and a `study.release` reference to a file not in this repo, and was held for that.
+The branch conflicted with main only in generated files and logs; it was merged into the sweep
+branch with `merge_main.py` (8 conflicts settled, lint 0, research, observations, embargo and index
+checks clean). The rule "No LDA research is published in this wiki yet" in `CLAUDE.md` and the first
+line of `research/PUBLISHING.md` were updated to say so.
+
 ## 2026-11-17 · a preprint and its published version are one study
 
 The maintainer, after the first two arXiv batches: arXiv holds preprints of published articles, so the
