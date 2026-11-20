@@ -49,3 +49,4 @@ Post-study survey on voiceover and review game logistics, scored on a 7-point Li
 - [Students prefer review games over voiceovers and rate review games as enhancing knowledge, engagement, and a friendly atmosphere](review-game-student-enthusiasm.md) — related
 - [Student satisfaction with voiceovers declined significantly over the study period and across matriculation cohorts during and after the COVID-19 pandemic](voiceover-satisfaction-decline-pandemic.md) — related
 - [Dynamic slides did not improve knowledge acquisition compared to static slides](dynamic-slides-no-knowledge-benefit.md) — related
+- [The cohort scored a mean quiz grade of 78.0 ± 12.4 out of 100](quiz-mean-grade-78-out-of-100.md) — related

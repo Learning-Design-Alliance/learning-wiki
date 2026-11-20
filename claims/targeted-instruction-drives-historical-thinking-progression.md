@@ -53,3 +53,4 @@ Narrative synthesis of British cognitive-oriented empirical history education re
 - [Dimensions of historical thinking are conceptually decoupled: sophistication in one second-order concept does not imply sophistication in another](historical-thinking-dimensions-conceptually-decoupled.md) — related
 - [Before developing historical thinking skills, students approach the past with common sense, including presentism — seeing past people as sharing contemporary values](novice-presentism-common-sense-historical-understanding.md) — related
 - [Children's ideas about historical evidence progress through six identifiable steps between ages seven and fourteen](six-step-progression-ideas-historical-evidence.md) — related
+- [PI remained typically more effective than traditional didactic teaching despite criticisms targeting its social validity](pi-more-effective-than-didactic-teaching.md) — related

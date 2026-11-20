@@ -55,3 +55,4 @@ Phenomenographic content analysis of post-course semi-structured interviews with
 - [Qualitative findings indicate perceived benefits of recognition, meaning-making, and practical tips, alongside mixed emotional responses including distress](story-mine-qualitative-mixed-experiences.md) — related
 - [All six interviewed experimental-group preservice teachers said visual materials changed their outlook on global warming and made them follow related news more attentively](interviews-visual-materials-changed-outlook.md) — related
 - [In a six-student pilot, third-year students rated the QSim quantum simulation as useful and reported improved confidence with quantum concepts](qsim-pilot-evaluation.md) — related
+- [Teachers reported strong positive impacts after the QCaMP teacher camp, including increased confidence delivering quantum, computing, math, and physics instruction](qcamp-teacher-survey-positive-impacts.md) — related

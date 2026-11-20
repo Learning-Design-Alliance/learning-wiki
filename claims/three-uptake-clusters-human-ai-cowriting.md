@@ -55,3 +55,4 @@ In the preregistered study (n = 131 participants who interacted with ChatGPT), r
 - [Clustering n-gram flip sequences per task yields three distinct problem-solving strategy groups across the binary challenges](three-strategy-clusters-from-ngram-flip-sequences.md)
 - [Affordance resonance can be documented at scale through AI-generated logs identifying seed contributions and cascading uptake](ai-resonance-logs-catalytic-contributions.md) — related
 - In reviewed studies, individual data types were analyzed mainly with descriptive analysis, content analysis, network analysis, and clustering — a broader claim this one bears on
+- [Participants' main strategy for using ChatGPT on programming tasks is copying the assignment's textual description into the tool and then adapting the retrieved code](chatgpt-copy-paste-assignment-description-strategy.md) — related

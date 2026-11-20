@@ -47,3 +47,4 @@ Task performance in the Tetris study (N = 62), calculated from log files as fini
 ## Related Claims
 - [Variations in task difficulty are reflected in the intrinsic cognitive load scale, with boredom conditions reporting the lowest ICL](difficulty-variations-reflected-in-icl-scale.md) — related
 - [An unexpected effect: task difficulty variation in the Tetris study also produced differences in reported extraneous cognitive load](unexpected-ecl-effect-tetris-study.md) — related
+- [No significant difference in learning gain, flow, or perceived difficulty between predefined, self-determined, and DDA difficulty adjustment in an open-ended reasoning task](difficulty-adjustment-methods-no-difference-open-ended-task.md) — related

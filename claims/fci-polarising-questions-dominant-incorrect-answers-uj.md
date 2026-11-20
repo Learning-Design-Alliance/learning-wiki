@@ -52,3 +52,4 @@ Answer-distribution analysis (Figs. 4 and 5) of questions 5, 11, 13, 18, 29 and 
 - [Polarising effect fairly consistent for FCI questions 18, 29 and 30 but answers far more scattered for questions 5, 11 and 13](fci-polarising-consistency-varies-across-questions.md) — reports the opposite
 - [FCI polarising effect most pronounced in classes where physics comprehension is assumed to be greatest](fci-polarising-pronounced-higher-aptitude.md) — related
 - [On FCI questions 13 and 30 more polarised students favour the misleading answer than the correct one](fci-q13-q30-polarising-overtakes-correct.md) — related
+- [High co-construction items had a mix of incorrect answers with no dominant distractor and included complex multistep questions](qm-high-co-construction-item-features.md) — reports the opposite

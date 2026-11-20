@@ -44,3 +44,4 @@ Course observation: "Many students chose to frame their final projects as a Quan
 ## Related Claims
 - [Students reported that hands-on programming exercises and the final project contributed most to their learning in an undergraduate quantum computing course](programming-exercises-final-project-most-contributed-learning-quantum-course.md) — related
 - [Students named the Quantum Katas as the course component contributing most to their learning](quantum-katas-most-learning-contribution.md) — related
+- [Few students showed difficulties with the new computing approach, mainly when extending quantum algorithms to more complex problems, and group work with practical exercises helped overcome them](quantum-chapter-student-difficulties-group-work.md) — related

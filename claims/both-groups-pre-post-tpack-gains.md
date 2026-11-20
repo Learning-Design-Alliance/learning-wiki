@@ -62,3 +62,4 @@ Paired pre-post t-tests within each group of 30 teachers showed significant impr
 - [In both groups, knowledge post-test and persistence test scores rose significantly above pre-test, and persistence scores exceeded post-test scores](intragroup-knowledge-gains-both-groups.md) — related
 - [All four teaching methods were followed by significant pre-to-post gains in learning, satisfaction and self-efficacy](all-methods-pre-post-gains.md) — related
 - [Both instructional groups improved markedly on every outcome measure from pretest to posttest](both-groups-improved-laparoscopic-suturing.md) — related
+- [Scores in all three experimental groups rose significantly from pretest to posttest, with gains between 25% and 35%](proof-blocks-within-group-induction-gains.md) — related

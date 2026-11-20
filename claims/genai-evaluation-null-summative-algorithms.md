@@ -75,3 +75,4 @@ Final exam (maximum 113) comparison in the same crossover study; the article als
 - [Structured note-taking and MCQ creation as post-seminar homework produced no statistically significant difference in first-year physiotherapy students' summative exam performance](nt-vs-mcq-no-exam-performance-difference.md) — related
 - [On the midterm exam problem, where all students received the same instructions, the former intervention groups performed comparably](midterm-no-group-differences.md) — possibly the same claim (merge candidate)
 - [The three comparison and intervention groups performed about the same on the final exam, with no statistical difference between them](no-final-exam-difference-between-groups.md) — related
+- [Mode-shifting improves the density of knowledge-building messages in LBT conversations (Cohen's d = 0.71)](mode-shifting-improves-knowledge-building-density.md) — related

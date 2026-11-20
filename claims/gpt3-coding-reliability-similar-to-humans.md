@@ -55,3 +55,4 @@ Reliability analysis in which two researchers independently coded a random 10% o
 - Three expert coders reached 77.15% overall agreement (Fleiss' κ = 0.763) on the LCT MOOC sample, and over half of their disagreements lay between Exploration and Integration — related
 - [University students most often named teaching practices focused on interaction and relationships and on clarity as the best they had experienced](students-prefer-clarity-and-interaction-practices.md) — related
 - Coding of included studies reached 100% inter-coder reliability using the agreement formula — related
+- [Trained logistic-regression coefficients align with the human coding scheme's inclusion and exclusion criteria](model-coefficients-align-with-coding-scheme-criteria.md) — related

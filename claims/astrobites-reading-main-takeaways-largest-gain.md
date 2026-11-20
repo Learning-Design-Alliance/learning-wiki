@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-20
 sources:
   - id: briley-l-lewis-2025
     resource: "https://doi.org/10.1103/physrevphyseducres.21.010124"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Perceived ability to extract main takeaways improved with extremely strong evidence (p < 0.001, BF10 = 4.91 × 10^5), the highest degree of change across all categories. [→ Briley L. Lewis 2025](#briley-l-lewis-2025)

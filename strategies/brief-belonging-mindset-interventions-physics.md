@@ -54,6 +54,7 @@ The article recommends classroom interventions as one way to improve the learnin
 - [Instructor practices to support women in physics: prevent isolation, recognize students, monitor social dynamics, and advocate for smaller classes and affinity groups](instructor-practices-support-women-physics-courses.md)
 - [Set a High Bar for Each Student](set_a_high_bar_for_each_student.md)
 - [Use targeted randomized interventions on perceived recognition, self-efficacy, and interest, combined via meta-analysis, to distinguish statistically equivalent SEM models](experiments-distinguish-equivalent-sem-models.md)
+- [Use introductory physics courses as a venue for improving calculus fluency and transfer skills, with attention to self-efficacy effects on women](calculus-emphasis-introductory-physics-strategy.md)
 
 ## Examples
 -

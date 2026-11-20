@@ -48,3 +48,4 @@ Spearman rho analysis in the survey study (n = 72) relating resource-usefulness 
 - [Perceived subject difficulty across the MED4 curriculum correlates negatively with exam scores](perceived-subject-difficulty-negatively-correlates-with-exam-scores.md) — related
 - [Valuing teachers' professional competence correlates positively with renal physiology performance, not surviving correction](teacher-competence-valuation-positive-correlation.md) — related
 - [Reconstruction quality (Jaccard index) was not significantly correlated with navigation performance after multiple-comparison correction](jaccard-ie-correlation-fdr-nonsignificant.md) — related
+- [Among heavy internet-resource users, greater use of non-AI internet resources during online exams correlates negatively with online exam scores](heavy-internet-users-negative-exam-correlation.md) — related

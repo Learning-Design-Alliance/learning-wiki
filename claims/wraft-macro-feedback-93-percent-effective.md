@@ -50,3 +50,4 @@ Human evaluation of Claude 3.7 macro feedback on 201 paragraphs across the 40 te
 - [Directly prompted GPT-4o surface-level corrective edits were judged necessary and effective in 96.14% of 2049 identified edits](wraft-surface-feedback-96-percent-precision.md) — related
 - [In one essay-feedback system, fine-tuned models produced no usable deep-level feedback output, so only directly prompted LLMs were evaluated; the authors suggest prompting may be more effective than supervised fine-tuning for this task](sft-less-effective-than-prompting-for-feedback-generation.md) — related
 - [Existing AI × SEL policy claims concentrate at macro and meso levels, with almost none at the classroom level](policy-claims-macro-meso-dominance.md) — related
+- [gpt-3.5-turbo with standard prompting generates overly positive, indirect, and unhelpful essay feedback for EFL writing](gpt35-standard-prompting-overly-positive-feedback.md) — reports the opposite

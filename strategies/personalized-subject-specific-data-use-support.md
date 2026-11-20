@@ -54,6 +54,7 @@ Based on the finding that data use depends on both teacher characteristics and s
 - [Shift teacher professional development from information-based training to experience-based AI design activities in sustainability contexts](experience-based-ai-design-teacher-pd.md)
 - [Adapt Higher Education professional learning models to centre disciplinary culture when developing teachers' digital and pedagogical capabilities](he-professional-learning-centre-disciplinary-culture.md)
 - [Tailor infectious-disease training programs to trainees' sex, education level, professional background, and prior experience](tailor-training-to-trainee-characteristics.md)
+- [Design flexible and adaptive technology interventions tailored to the specific socio-technological context of rural areas](context-tailored-rural-technology-design.md)
 
 ## Examples
 -

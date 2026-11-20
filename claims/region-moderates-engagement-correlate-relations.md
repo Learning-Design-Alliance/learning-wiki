@@ -61,3 +61,4 @@ Moderator analyses tested gender, age, grade level, publication status, publicat
 - [Total DREEM scores differ by nationality, with Asian students scoring significantly higher than Middle Eastern and North American students](nationality-differences-dreem-scores.md) — related
 - [Bachelor grades, essay length and female sex positively predict master grades; students from Africa, Asia, Central and South America attain lower grades than European students](control-variables-predict-master-grades.md) — related
 - [Trainees with South Asian medical education backgrounds scored higher on the ACE tool than those from other regions](south-asian-background-higher-ace-scores.md) — related
+- [Teachers' trust in AI-EdTech differs geographically: higher in Brazilian, Israeli and Japanese samples than in Norwegian, Swedish and American samples](geographic-differences-teacher-trust-ai-edtech.md) — related

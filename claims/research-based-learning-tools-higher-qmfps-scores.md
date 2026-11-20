@@ -55,3 +55,4 @@ Quasi-experimental comparison across undergraduate QM courses, with N = 43 stude
 - [The DPT QuILT significantly improved pretest-to-posttest performance for both undergraduates and graduate students](quilt-improves-dpt-prepost-scores.md) — related
 - [Upper-level undergraduate and Ph.D. student performance rose from pretest to posttest after the MZI QuILT, with average normalized gain of 0.78, in one single-group pre-post study](quilt-mzi-normalized-gain-0-78.md) — related
 - [Graduate students scored significantly higher than undergraduates on the QMFPS, but both groups struggled](graduate-students-outperform-undergraduates-qmfps.md) — related
+- [Group performance on the QMFPS exceeded individual performance (72% vs 53%) after lecture-based instruction](qm-peer-group-beats-individual-qmfps.md) — related

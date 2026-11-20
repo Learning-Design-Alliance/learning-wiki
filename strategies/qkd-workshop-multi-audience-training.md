@@ -48,6 +48,8 @@ The authors position the QKD workshop system as "an indispensable instrument for
 
 - Modular Desktop Qkd University Apparatus
 - [Use focused, device-specific student-centered training sessions rather than spreading practice across many devices](focused-device-specific-student-centered-dam-training.md)
+- [Run a 1-hour introductory quantum computing workshop built around the quantum bomb tester story, accessible to students as young as 11](quantum-bomb-tester-intro-workshop-strategy.md)
+- [Reinforce the algorithmic component for computer science students and deepen the technological component for electrical engineering students](discipline-specific-quantum-component-reinforcement.md)
 
 ## Examples
 -

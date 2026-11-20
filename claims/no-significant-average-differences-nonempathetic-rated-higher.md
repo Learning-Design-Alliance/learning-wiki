@@ -52,3 +52,4 @@ Descriptive averages of post-conversation check-in form items across the three c
 - [Days in the study predict rising step counts but declining intention to follow chatbot advice regardless of empathetic condition](days-in-study-step-counts-up-intention-down.md) — related
 - [Non-expert participants often fail to notice empathy differences between chatbot versions, so self-reported perceived empathy alone is an unreliable assessment method](nonexpert-perceived-empathy-unreliable.md) — related
 - [Student compliance with weekly online self-tests decreased over the course of the test sequence](online-self-test-compliance-declines-over-time.md) — related
+- [No significant differences among chatbot conditions in engagement or perceived interruption](rr-no-engagement-interruption-differences.md) — related

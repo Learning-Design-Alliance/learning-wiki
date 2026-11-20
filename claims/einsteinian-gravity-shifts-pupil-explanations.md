@@ -50,3 +50,5 @@ Questionnaire study of 58 pupils aged 10–11 in three Turin primary classes; pr
 - [The RSA activity raises correct understanding of space-time and its deformation, with most students shifting to 'any mass' as the cause of deformation](rsa-improves-spacetime-deformation-answers.md) — related
 - [More than half of pupils' post-intervention explanations invoke modern-physics concepts (spacetime curvature or black holes)](majority-modern-physics-explanations-post-intervention.md) — related
 - [Year 7 Einsteinian gravity instruction conflicted with concurrent Euclidean geometry teaching, producing persistent confusion](year-7-euclidean-geometry-conflict-curved-space.md) — related
+- [Describing gravity as spacetime curvature increases markedly only in Years 10, 12 and 13, and the intervention fails to dispel force-based misconceptions overall](curvature-source-gravity-only-upper-years.md) — reports the opposite
+- [Belief that space has no shape falls from 58.2% to 42.4%, with 9.2% post-intervention noting space is curved around masses but flat otherwise](space-shape-misconception-partially-shifts.md) — related

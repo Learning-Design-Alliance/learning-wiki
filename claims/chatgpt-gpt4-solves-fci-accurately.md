@@ -51,3 +51,4 @@ Analysis of N = 14 ChatGPT (GPT-4) response sets on the 30-item FCI with figures
 - [ChatGPT3.5's FCI free responses split between expert-level accuracy and complete incoherence](chatgpt35-fci-free-response-expert-test.md) — related
 - [Figure-to-text transcription of FCI items may cause difficulties for ChatGPT, with eleven items unsolved in every run](figure-transcription-hinders-chatgpt-fci.md) — related
 - [Bootstrapped self-consistency at temperature 1.0 flags potentially incorrect GPT-4 answers: about half of inconsistent responses were incorrect versus about 5% of consistent ones](bootstrapping-self-consistency-flags-incorrect-answers.md) — related
+- [Transcribing one TUG-K graph item into text raised ChatGPT's correctness from 10% to 100%](graph-transcription-bypasses-vision-failure.md) — a narrower finding that bears on this claim

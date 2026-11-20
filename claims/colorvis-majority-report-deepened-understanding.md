@@ -48,3 +48,4 @@ An informal survey of the visual computing course in which the color science mod
 - [After completing the T5 color-correction tutorial, almost all students could correctly describe the key principle of color correction, whereas fewer than 10 could before](t5-pre-post-principle-improvement.md) — a narrower finding that bears on this claim
 - [Course final projects and co-design of additional tutorials provide further evidence of the tutorials' positive impact on student engagement](tutorials-final-projects-codesign-evidence.md) — related
 - [Students reported considerable satisfaction with the online program, with over 85% agreeing it was interactive and educational](student-satisfaction-online-case-program.md) — related
+- [Majorities of surveyed students reported that interacting with ChatGPT deepened their understanding of physics concepts and were satisfied with its adaptation to their knowledge level](students-report-deepened-understanding-chatgpt.md) — related

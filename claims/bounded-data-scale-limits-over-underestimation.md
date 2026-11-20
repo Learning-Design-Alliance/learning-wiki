@@ -54,3 +54,5 @@ Authors' interpretive discussion (type e) of a statistical explanation for the o
 - [Self-assessment is often inaccurate: high performers underestimate and lower performers overestimate their performance](self-assessment-inaccuracy-high-low-performers.md) — related
 - [On the knowledge test, the highest performers significantly underestimated their scores while lower performers significantly overestimated theirs](high-performers-underestimate-low-overestimate-knowledge-test.md) — related
 - [Fairness of opportunity necessarily leads to identical grades for everyone, making it inapplicable to examinations](fairness-of-opportunity-identical-grades.md) — related
+- [Machine coding shows a systematic offset dependent on the measured prevalence EC, which can be calibrated with a best-fit function S(EC)](systematic-offset-function-of-ec-calibration.md) — related
+- [Machine coding systematically over- or under-estimates code prevalence when the training set is outcome-unbalanced, with no offset at ptrain = 0.5](training-imbalance-causes-systematic-machine-coding-offset.md) — related

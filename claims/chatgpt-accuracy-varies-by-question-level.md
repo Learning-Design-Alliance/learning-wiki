@@ -74,3 +74,4 @@ The review reports, citing Tassoti (study A1 with 23 chemistry teacher candidate
 - [LLMs perform worse on complex, open-ended, or subjective assignments than on short, clearly formulated answers](llm-struggle-open-ended-subjective-tasks.md) — related
 - [General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources](llm-accuracy-hallucination-coaching-risk.md) — related
 - [Generative AI chatbots answer orthopaedic exam questions with moderate accuracy, below trainee performance](generative-ai-moderate-accuracy-ortho-exams.md) — related
+- [Assessments more resistant to ChatGPT are open-ended, involve images or student-specific outputs, or do not specify expected output in detail](assessment-features-resistant-to-chatgpt.md) — reports the opposite

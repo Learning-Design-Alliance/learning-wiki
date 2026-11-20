@@ -52,3 +52,4 @@ The review's synthesis of articles on atomic structure reports that despite diff
 - [Instructors were divided on the Bohr model, with two-thirds viewing it as misleading for students learning QM](qm-bohr-model-misleading-divided.md) — related
 - [Students frequently use multiple models of the atom rather than a single model](students-use-multiple-atomic-models.md) — related
 - [Interactive simulations with associated homework increased students' explicit discussion and multiple-model use, but not Schrödinger-model use](simulations-increase-explicit-model-discussion.md) — related
+- [Most students retain the classical Rutherford or Bohr model of the atom despite later instruction in the quantum-mechanical model](students-retain-bohr-model-despite-quantum-instruction.md) — a narrower finding that bears on this claim

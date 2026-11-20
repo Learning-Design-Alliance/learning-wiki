@@ -113,3 +113,5 @@ Within the same interview study, the two error-making students then solved the n
 - [The assessment task using symbolic variables (Ferris wheel) failed to elicit the expected evidence, unlike the six tasks with numerical quantities](symbolic-variables-task-failed-to-elicited-evidence.md) — related
 - [Fewer than half of introductory students could solve two equations symbolically for wavelength in the physics context, though most could solve an isomorphic purely mathematical system](poor-symbolic-manipulation-transfer-to-physics.md) — related
 - [Declaring unknown physical quantities as symbolic variables in Sage promotes development of metacognitive skills](sage-symbolic-variables-metacognition.md) — related
+- [Students score significantly higher on a pictorially represented measurement-comparison item than on an isomorphic numerical item](pictorial-item-outperforms-numerical-measurement-comparison.md) — related
+- [Some students mentally convert between numerical and pictorial representations, and their reasoning can change with representation](students-switch-representations-when-comparing-measurements.md) — related

@@ -49,6 +49,7 @@ The Communicating with Mentors session prepares students for workplace communica
 - [Acting/Role Play](acting-role-play.md)
 - [Role Play](role-play.md)
 - [Five-slides-in-five-minutes early presentation to assess and build intern understanding](five-slides-in-five-minutes-early-presentation.md)
+- [Structured mentoring and professional-development sessions including Entering Research, Entering Mentoring, and Five slides in five minutes](entering-research-mentoring-five-slides-strategy.md)
 
 ## Examples
 -

@@ -10,9 +10,9 @@ generated:
 evidence_strength: moderate
 newest_evidence: 2025
 sources:
-  - id: rose-e-wang-2025
+  - id: rose-e-wang-2024
     resource: "https://doi.org/10.48550/arxiv.2410.03017"
-    title: "Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)"
+    title: "Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2024). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)"
     author: Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky
     q: 4
     i: "?"
@@ -31,19 +31,19 @@ sources:
 # Tutor CoPilot's benefit is largest for lower-rated and less-experienced tutors (9 p.p. and 7 p.p.), diminishing as tutor effectiveness increases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r3` · `q4`
+> **Evidence** · 2 studies · 2 causal `r3` · `q4`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 > **Design limits** · Rose E. Wang 2025: groups were assigned but students were analysed as independent · Rose E. Wang 2025 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
-`q4 i?` Lower-rated tutors' students gained 9 p.p. in exit-ticket passing (56%→65%) and lower-experienced tutors' students gained 7 p.p. (61%→68%). [→ Rose E. Wang 2025](#rose-e-wang-2025)
+`q4 i?` Lower-rated tutors' students gained 9 p.p. in exit-ticket passing (56%→65%) and lower-experienced tutors' students gained 7 p.p. (61%→68%). [→ Rose E. Wang 2024](#rose-e-wang-2024)
 `q4 i?` Treatment effects diminished with increasing tutor effectiveness, and treatment-group students of lower-rated or less-experienced tutors performed at or above the level of control-group students with higher-rated or more experienced tutors. [→ Rose E. Wang 2025 (2)](#rose-e-wang-2025-2)
 
 ## Evidence
 
-### Rose E. Wang 2025
+### Rose E. Wang 2024
 
-Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)
+Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2024). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)
 
 `q4 · i?` · `causal · r3`
 
@@ -71,3 +71,4 @@ Same heterogeneity analysis (Figure 2, by tutor quality rating and experience). 
 - [Tutor CoPilot shows no statistically significant effects on participation points, student survey outcomes, or end-of-year math test scores](tutor-copilot-no-significant-effects-secondary-outcomes.md) — related
 - [The authors interpret the achievement gain as arising from students feeling more at ease with a peer tutor and from increased time in active learning](peer-tutor-ease-of-interaction-interpretation.md) — related
 - [The red/green sticky-note system for in-class support requests and exit-ticket feedback was popular and coincided with a rise in the Feedback criterion score from 0.47 to 1.32](sticky-note-formative-feedback-system.md) — related
+- [At Site 2, in one group with no comparison group, below-grade-level students passed more lessons during tutoring than before, while at-or-above-grade-level students passed fewer lessons](site2-needy-students-pass-more-lessons.md) — related

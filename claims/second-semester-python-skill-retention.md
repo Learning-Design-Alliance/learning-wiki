@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-20
 sources:
   - id: eugenio-tufino-2024
     resource: "https://doi.org/10.1088/1361-6404/ad4fcc"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Analysis of two in-class review exercises at the start of the second semester rated 83% of groups' Python data-analysis work as good (50%) or excellent (33%), with no group work evaluated as unsatisfying. [→ Eugenio Tufino 2024](#eugenio-tufino-2024)

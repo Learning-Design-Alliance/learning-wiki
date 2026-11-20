@@ -55,4 +55,4 @@ The paper supplies two metacognitive prompts: a reflection prompt in which the c
 -
 
 ## Key Sources
-- Mollick, E., & Mollick, L. (2023). Assigning AI: Seven Approaches for Students with Prompts. Wharton School of the University of Pennsylvania & Wharton Interactive. https://arxiv.org/abs/2306.10052
+- Mollick, E., & Mollick, L. (2023). Assigning AI: Seven Approaches for Students with Prompts. Wharton School of the University of Pennsylvania & Wharton Interactive. https://arxiv.org/abs/2306.10052. [doi:10.2139/ssrn.4475995](https://doi.org/10.2139/ssrn.4475995)

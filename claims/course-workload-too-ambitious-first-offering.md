@@ -44,3 +44,4 @@ Student feedback and author observation from the first offering: "the amount of 
 ## Related Claims
 - [Students reported implementation challenges with flipped learning: technical difficulties, workload, and deadlines](fl-implementation-challenges-technical-workload-deadlines.md) — related
 - [Students felt overwhelmed by the course workload and found contact time with lecturers inadequate](students-overwhelmed-workload-inadequate-contact-time.md) — related
+- [Most existing quantum computing courses offer only general introductions and neglect software and system level support, motivating the QuCS series](quantum-courses-neglect-software-system-level.md) — related

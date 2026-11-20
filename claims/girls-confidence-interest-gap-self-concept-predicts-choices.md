@@ -162,3 +162,4 @@ Correlational evidence cited in the overview (Simpkins and Davis-Kean 2005; Upde
 - [Minorities in brilliance-oriented disciplines experience higher levels of imposterism with negative career consequences](imposterism-in-brilliance-disciplines.md) — related
 - [Female students express significantly less interest in physics than male students, regardless of introductory course format](female-students-less-physics-interest.md) — related
 - [In comparison (Music) classes, project completion correlated with lower programming anxiety and higher problem-solving competency beliefs and programming self-concept](music-completion-anxiety-problem-solving-self-concept.md) — related
+- [All six female ISS project participants succeeded in a STEM major, suggesting the contest helped reduce the gender gap](iss-female-participants-stem-success.md) — related

@@ -54,3 +54,5 @@ Theoretical argument from the author's preface, offered as personal expert exper
 - [Teachers reported the game's intuitive, tangible approach to quantum physics encouraged weaker students to participate more actively](eqm-tangible-approach-weaker-students.md) — related
 - [Scaffolded play in Quantum Odyssey enables learners to intuitively work with established QIS topics without prior mathematics or physics exposure](visual-intuition-without-mathematics-quantum-concepts.md) — related
 - [The depth and timing of theory understanding students needed to observe quantum effects varied across students](varied-theory-depth-timing-quantum-effects.md) — related
+- [The authors posit that QP's entirely visual nature enhances understanding of quantum theory by lowering the technical barrier, making it suitable for high-school introduction](qp-visual-approach-lowers-technical-barrier.md) — related
+- [The worksheet is designed to address documented naive conceptions in quantum physics and to let students demonstrate understanding at higher Bloom's taxonomy levels](worksheet-addresses-naive-conceptions-bloom-levels.md) — related

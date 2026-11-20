@@ -54,3 +54,7 @@ Repeated administration of the Marshman et al. six-question Likert self-efficacy
 - [Students' physics interest and general science interest both decrease significantly over a semester of Modeling Instruction](mi-course-interest-decreases.md) — related
 - [Students' physics self-efficacy decreases significantly over a semester of Modeling Instruction introductory physics](mi-course-physics-self-efficacy-decrease.md) — reports the opposite
 - [Female students in calculus-based laboratory sections showed significant positive self-efficacy change, while algebra-based females were the only group with negative normalized change](female-calculus-based-significant-gains.md) — reports the opposite
+- [For women, changes in physics self-efficacy and calculus self-efficacy track together; for men they do not](physics-calculus-selfefficacy-tracking-gender.md) — related
+- [Female-identifying students started lower on self-efficacy items and saw smaller increases, with the PhIS4 shift barely meeting p < 0.05 and the PhIS5 shift not significant](self-efficacy-gains-smaller-for-female-students.md) — reports the opposite
+- [Women's calculus self-efficacy significantly decreases over the semester while men's shows little change](women-calculus-self-efficacy-decrease.md) — related
+- [Women display larger gains than men on applied calculus questions across a calculus-emphasized introductory physics semester](women-larger-applied-calculus-gains-em-physics.md) — related

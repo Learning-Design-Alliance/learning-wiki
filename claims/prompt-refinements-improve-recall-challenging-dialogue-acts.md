@@ -50,3 +50,4 @@ Error analysis of the highest-performing models using confusion matrices. The ar
 - [Iterative prompt engineering stages progressively improve GPT-3.5 dialogue act recognition accuracy from 0.369 to 0.631 on the training set.](iterative-prompt-engineering-improves-gpt-dialogue-act-accuracy.md) — related
 - [Provide-Info, Request-Info, and Other are the dialogue act labels most commonly confused by both GPT-4 and T5 classifiers.](provide-info-request-info-other-most-confused-labels.md) — related
 - [Zero-shot GPT-4 with iterative prompt engineering achieves 77.30% dialogue act recognition accuracy, outperforming fine-tuned T5, CRF, and BLSTM baselines on a held-out test set.](gpt4-zero-shot-dialogue-act-recognition-outperforms-t5-baselines.md) — a broader claim this one bears on
+- [Fine-tuned Flan-T5 models perform very poorly on held-out Socratic debugging dialogues](flan-t5-finetuning-poor-socratic-debugging.md) — related

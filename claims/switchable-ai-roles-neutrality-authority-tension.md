@@ -77,3 +77,5 @@ Thematic-analysis finding on role expansion: participants questioned the legitim
 - [K-12 students need competencies for effective human-AI teaming in future workplaces](k12-competencies-human-ai-teaming.md) — related
 - [Effects of pedagogical debate on students' viewpoints differ between scientific and socio-scientific domains](debate-viewpoint-change-domain-differentiated.md) — related
 - [AI tools show limitations in translating predictions into practical sustainability advice and envisioning values](ai-limitations-prediction-to-advice-values.md) — related
+- [College students envisioned over 100 AI usages in project-based learning serving six purposes, from automating tedious tasks to guiding learning](envisioned-ai-usage-six-purposes-pbl.md) — related
+- [Students proposed new assessment traits for an AI-rich future, with efficacy in using AI the most frequently mentioned](new-assessment-traits-ai-adoption-pbl.md) — related

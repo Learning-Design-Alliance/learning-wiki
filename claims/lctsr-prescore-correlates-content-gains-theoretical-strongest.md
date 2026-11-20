@@ -78,3 +78,5 @@ Correlational analysis over two years of conceptual physics courses relating pre
 - [Response accuracy and response confidence are highly correlated on the score level in the TUG-K (r = 0.63)](tug-k-accuracy-confidence-correlated.md) — related
 - [CLASS attitude scores are strongly related to change in TUG-K graph-interpretation scores for non-science majors](class-favorability-explains-tug-k-variance.md) — related
 - [CLCI posttest and follow-up scores correlate more strongly with students' physics grades (r = –.42) than pretest scores (r = –.24)](clci-grades-correlation-criterion-validity.md) — related
+- [ChatGPT's average TUG-K score (10.85, 41.7%) is similar to high-school physics students' average (12.25, 47%)](chatgpt-tug-k-average-similar-to-high-school-students.md) — related
+- [Incorrect vision is a stronger predictor of incorrect TUG-K answers than incorrect reasoning in a logistic regression](incorrect-vision-predicts-incorrect-answers.md) — related

@@ -40,7 +40,8 @@ For students not ready to read passages, the assessment's Phonological Awareness
 - [Simple View Of Reading Spanish Map Reading Fluency Design](../theories/simple-view-of-reading-spanish-map-reading-fluency-design.md)
 
 ## Related Strategies
-- 
+
+- [Use the CoRP framework to identify students' covariational reasoning resources and target instruction within their zone of proximal development](corp-lens-identify-resources-target-instruction.md)
 
 ## Examples
 -

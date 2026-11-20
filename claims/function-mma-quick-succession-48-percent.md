@@ -45,4 +45,4 @@ Timeline-chart analysis of the main-study interviews found a consistent interpla
 
 
 ## Related Claims
--
+- [Physics experts' covariational reasoning in modeling tasks is not fully described by the mathematics mental-actions framework](physics-expert-covariation-beyond-math-framework.md) — related

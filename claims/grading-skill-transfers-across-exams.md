@@ -53,3 +53,4 @@ Cross-exam transfer evaluation of per-exam LoRA adapters on held-out students of
 - [A short strict-grader preamble knocks 14 of 17 open-weights LLM graders out of the graded band on a computer-vision exam, with three stopping grading outright](llm-grader-strict-persona-collapse.md) — related
 - [Supervised ML/DL Bloom question classifiers trained on one dataset drop substantially in weighted F1 when tested on unseen datasets](supervised-bloom-classifiers-degrade-cross-dataset.md) — related
 - [The retention-versus-transfer performance difference between learner groups is stable across exams after the first exam](transfer-advantage-stable-across-exams-after-exam-one.md) — related
+- [Fine-tuned Flan-T5 models perform very poorly on held-out Socratic debugging dialogues](flan-t5-finetuning-poor-socratic-debugging.md) — related

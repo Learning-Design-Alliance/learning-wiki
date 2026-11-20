@@ -58,3 +58,4 @@ Manual error coding of GPT-4V's incorrect explanations by three health care prof
 - [AI chatbots' incorrect answers on the CINECA test are predominantly logical errors rather than information or statistical errors](chatbot-incorrect-answers-predominantly-logical-errors.md) — related
 - [GPT-4 grading feedback sounds plausible but frequently contains incorrect or misleading statements](gpt4-feedback-plausible-but-misleading.md) — related
 - [The author judges 26 of GPT-4's free-response explanations entirely correct at the expert level, while GPT-3.5's wrong-answer explanations erred randomly or self-inconsistently](gpt4-free-responses-expert-level.md) — related
+- [Requiring explanations before answers increases the randomness of LLM incorrect answers and the confidence of correct ones](explanations-randomize-incorrect-boost-confidence.md) — related

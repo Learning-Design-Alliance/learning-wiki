@@ -53,6 +53,7 @@ The article recommends that lab activities explicitly incorporate student docume
 
 - [Design lab courses so notebooks are an essential, authentic part of lab activities via multi-week projects and peer-reliant collaboration](authentic-notebook-use-multi-week-collaborative-labs.md)
 - [Evaluate notebooks holistically on interpretability rather than format, using peer feedback, oral quizzes, or a reproduction practicum](authentic-notebook-evaluation-methods.md)
+- [Structure an advanced lab sequence as a professional scientific collaboration with inter-group model testing](manifold-lab-collaboration-emulation-strategy.md)
 
 ## Examples
 -

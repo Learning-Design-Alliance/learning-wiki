@@ -57,3 +57,4 @@ The editorial reports Kapur and Kinzer's confirmation of their earlier productiv
 - [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — related
 - [Teams that coordinate, communicate, and document intermediate results solve EER problems more successfully](eer-structured-teams-solve-better.md) — related
 - [Students cannot reliably solve complex well-structured problems by reasoning without applying memorized algorithms](algorithms-required-complex-problems.md) — related
+- [In group think-aloud interviews, students collaboratively solved conceptual spherical-unit-vector problems that previous students had found difficult to solve individually](groups-solve-difficult-spherical-unit-vector-problems.md) — related

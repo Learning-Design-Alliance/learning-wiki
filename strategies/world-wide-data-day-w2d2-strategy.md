@@ -50,6 +50,7 @@ World Wide Data Day (W2D2), piloted by IMC in 2016, gives students a short, simp
 - [Special masterclasses for the International Day of Women and Girls in Science with female scientists as role models](women-in-science-masterclasses.md)
 - [World Wide Data Day: a two-hour simplified masterclass organized by teachers at their own schools](world-wide-data-day-simplified-masterclass.md)
 - [Engage students in hands-on analysis of real research data from a frontline science experiment](hands-on-real-research-data-analysis.md)
+- [Run a nation-wide online Masterclass with recorded lectures, volunteer troubleshooting help, and consultant videoconference rooms](nationwide-online-masterclass-pandemic-adaptation.md)
 
 ## Examples
 -

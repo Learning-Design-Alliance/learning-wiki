@@ -77,3 +77,5 @@ Literature synthesis in the processing-feedback section. The paper cites Essien 
 - [During the debrief, most students reported noticing wrong turns but very few spoke up, illustrating authoritative bias, bandwagon effect and halo effect first-hand](deliberate-getting-lost-evoked-biases-first-hand.md) — related
 - [GPT-4o sometimes selects correct answers with flawed reasoning and answers inaccuracies in an authoritative tone, risking user overconfidence](llm-flawed-reasoning-authoritative-tone.md) — a narrower finding that bears on this claim
 - [ChatGPT cannot correctly solve the ID-integrated physics problems due to difficulty handling personalized variables and non-standard angle conventions](chatgpt-fails-id-integrated-problems.md) — a narrower finding that bears on this claim
+- [Using a black-box LLM for feedback generation limits transparency and explainability](black-box-llm-feedback-transparency-limitation.md) — related
+- [Novice learners may struggle to identify ChatGPT errors or provide the prompt detail needed for high-quality output](novice-learners-struggle-to-spot-chatgpt-errors.md) — a narrower finding that bears on this claim

@@ -76,6 +76,7 @@ Action research operationalizes formative evaluation at the level of one's own t
 - [Support OLSit implementation through school-university action research collaboration](school-university-collaboration-action-research-olsit.md)
 - [Co-design the guided inquiry lesson package with the classroom teacher and collect multiple data sources](co-design-guided-inquiry-lesson-package-teachers.md)
 - [Science Education Initiative model of iterative course transformation](sei-course-transformation-model-em-ii.md)
+- [Teaching-learning laboratory in which pre-service teachers study high school students' conceptions while reflecting on their own](teaching-learning-lab-pre-service-teachers-radioactivity.md)
 
 ## Examples
 - **Lesson Study in Japanese elementary mathematics** (e.g., through [Mills College Lesson Study Group](https://www.lessonresearch.net)) — teams cycle through co-planning, observation, and revision of a single research lesson.

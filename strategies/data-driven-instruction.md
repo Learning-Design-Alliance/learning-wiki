@@ -67,6 +67,7 @@ DDI operationalizes [Assessment for Learning](../principles/assessment-for-learn
 - [Combine formative assessment information with MAP Growth scores for instructional decisions](combine-formative-assessment-with-map-growth-scores.md)
 - [Data-driven decision-making practices in tutoring programs](reading-corps-data-driven-decision-practices.md)
 - [Pair a CALL oral-language program with scripted teacher-led lessons for pre-teaching and reteaching](call-with-teacher-led-lessons-strategy.md)
+- [Direct tutor effort toward the lowest-achieving students using a dashboard rather than a round-robin allocation](dashboard-directed-tutor-allocation.md)
 
 ## Examples
 - **Uncommon Schools / Relay GSE DDI model** — weekly interim assessments, item-level analysis in teacher meetings, and scripted reteach plans; widely replicated in charter networks

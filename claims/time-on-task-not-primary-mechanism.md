@@ -53,3 +53,4 @@ Observational time-on-task analysis within the experiments (Figure 5; students e
 - [Students with the lowest pretest scores (0-2) showed larger improvement in the RL narrative condition than control in both studies, significant in study 2 only before multiple-hypothesis correction](rl-tutor-benefits-low-pretest-students.md) — related
 - [Low-pretest students trended to much higher engagement with the RL AI guide than control, while medium and high pretest groups were similar across conditions](rl-tutor-higher-engagement-low-pretest.md) — related
 - [Disfluency increased study times without improving performance, suggesting time was spent deciphering text rather than processing contents more deeply](disfluency-study-time-decoding-not-deeper.md) — related
+- [The benefits of hybrid human-AI tutoring are larger for lower pretest students than higher pretest students across all Site 1 measures](hybrid-tutoring-benefits-lower-pretest.md) — related

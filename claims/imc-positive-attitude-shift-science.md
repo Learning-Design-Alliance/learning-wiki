@@ -50,3 +50,5 @@ Survey 1 of former IMC participants asked via free-text question Q1.7 whether th
 - [The shift in interest in CERN and particle physics among former participants is less pronounced than the attitude shift](imc-interest-cern-less-pronounced.md) — related
 - [Positive attitude shift and interest in CERN are more pronounced among respondents working in science or R&D](imc-attitude-stronger-science-rd-respondents.md) — related
 - [The authors conclude Masterclasses have a nudging effect on participants open to a scientific career and function as cultural transfer beyond particle physics](imc-nudging-effect-and-cultural-transfer.md) — a broader claim this one bears on
+- [Masterclasses are associated with a positive shift in opinion about science, clearest among respondents working in science or R&D](imc-positive-attitude-shift-toward-science.md) — a narrower finding that bears on this claim
+- [Former Masterclass participants report that the event influenced their later choice of physics or a related subject](imc-influenced-physics-choice-35-percent.md) — related

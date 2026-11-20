@@ -49,6 +49,7 @@ The article recommends that instructors leverage in-class behavioral data collec
 - [Learning Dashboards](learning-dashboards.md)
 - [Deploy ML-based early-warning prediction to shift retention support from reactive to proactive intervention](ml-early-warning-proactive-retention-support.md)
 - [Repurpose a clinical chronic disease management platform as an interactive learning environment in residency training](repurpose-clinical-platform-as-learning-environment.md)
+- [Graphical DM dashboard of FCI pre-test results for rapid formative feedback in large cohorts](graphical-dm-dashboard-pretest-feedback.md)
 
 ## Examples
 -

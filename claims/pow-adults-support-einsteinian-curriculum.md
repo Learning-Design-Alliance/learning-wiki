@@ -55,3 +55,4 @@ Attitudinal post-questionnaire (Likert-type scale) from 25 adults attending the 
 - [The author argues that machine learning foundations should be part of the standard Physics curriculum because they are becoming standard research tools and build transferable career skills.](ml-foundations-standard-physics-curriculum.md) — related
 - [Pupils enjoyed the Einsteinian physics activities, answering the attitude research question positively](pupil-enjoyment-einsteinian-activities.md) — related
 - [In the face-to-face micro-credential course, half the participants were unclear about the everyday relevance of Einsteinian physics, prompting added real-world content](mc1-relevance-gap-drove-curriculum-refinement.md) — related
+- [77.1% of participants want to learn more about gravity and general relativity and 82.5% say Einsteinian physics should be in the curriculum](students-favour-gr-in-curriculum.md) — related

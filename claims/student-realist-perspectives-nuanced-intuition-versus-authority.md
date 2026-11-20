@@ -54,3 +54,4 @@ Post-instruction interview study with nineteen students from modern physics cour
 - [Most students hold mixed rather than consistent quantum or realist perspectives on measurement and uncertainty across multiple contexts.](mixed-quantum-realist-perspectives-majority.md) — related
 - [The author argues that learning quantum mechanics is difficult and counter-intuitive and is much like learning a new language requiring solid mastery before fluency](learning-quantum-mechanics-like-learning-a-language.md) — related
 - [Students reported mixed effects on familiarity: five found quantum less weird or mysterious, others unchanged or more mysterious](familiarity-weirdness-mixed-outcomes.md) — related
+- [The worksheet is designed to address documented naive conceptions in quantum physics and to let students demonstrate understanding at higher Bloom's taxonomy levels](worksheet-addresses-naive-conceptions-bloom-levels.md) — related

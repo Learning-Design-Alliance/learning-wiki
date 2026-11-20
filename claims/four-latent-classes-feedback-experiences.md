@@ -77,3 +77,4 @@ Profile plots and fit metrics characterised the four classes; AvePP values were 
 - [Hierarchical clustering of CDM attainment probabilities identifies five learner groups with distinct patterns of professional standards attainment](five-learner-profiles-standards-attainment.md) — related
 - [Latent class analysis of roadblock responses identified three roughly equally sized administrator groups—Limited, Moderate, and Considerable Roadblocks—differing in breadth and depth of concern](three-roadblock-severity-groups-latent-class.md) — related
 - [Four distinct action-control belief profiles (agentic, moderate, avoidant, and mixed) emerge among Finnish ninth graders](four-action-control-belief-profiles-ninth-graders.md) — related
+- [Formatting end-of-course survey data to show every individual student's responses reveals actionable information that counts-and-proportions tables do not](individual-response-survey-view-reveals-more.md) — related

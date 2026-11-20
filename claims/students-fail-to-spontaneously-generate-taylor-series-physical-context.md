@@ -53,3 +53,4 @@ Teaching interviews with four students in Year 1, in which students completed po
 - [Students execute formal Taylor series definitions correctly but rarely use optimized expansion-template mapping](taylor-execution-template-mapping-rare.md) — related
 - [A student who could reproduce the textbook derivation of the Boltzmann factor verbatim could not connect it to reservoir multiplicity, showing recitation without physical understanding](derivation-recitation-without-physical-understanding.md) — related
 - [On the finite-reservoirs homework question, only 12 of 25 students answered all parts correctly, and some students who identified the Carnot engine still failed to use ΔSuni = 0](frq-finite-reservoirs-carnot-disconnect.md) — related
+- [Students understand Boltzmann's microscopic meaning of entropy but not its relation to the Clausius definition or why entropy never decreases for an isolated system](entropy-boltzmann-clausius-link-obscure.md) — related

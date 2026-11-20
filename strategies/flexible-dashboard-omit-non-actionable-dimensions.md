@@ -50,4 +50,4 @@ The article's second design guideline is to "Allow a flexible dashboard design t
 -
 
 ## Key Sources
-- Mejia-Domenzain, P., Laini, E., Neshaei, S. P., Wambsganss, T., and Käser, T. (2023). Visualizing Self-Regulated Learner Profiles in Dashboards: Design Insights from Teachers. https://arxiv.org/abs/2305.16851
+- Mejia-Domenzain, P., Laini, E., Neshaei, S. P., Wambsganss, T., and Käser, T. (2023). Visualizing Self-Regulated Learner Profiles in Dashboards: Design Insights from Teachers. https://arxiv.org/abs/2305.16851. [doi:10.1007/978-3-031-36336-8_96](https://doi.org/10.1007/978-3-031-36336-8_96)

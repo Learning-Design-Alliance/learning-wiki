@@ -67,3 +67,4 @@ Secondary results from the mathematics OLS models: a significant female advantag
 - [In this cohort, females scored significantly higher in Chinese, English, and Politics, whereas males outperformed females in Mathematics, Physics, Chemistry, Geography, and overall achievement](gender-gap-subject-grades-chinese-cohort.md) — reports the opposite
 - [Male students score higher on average in mathematics achievement than females in both grades in descriptive comparisons](gender-descriptive-achievement-gap-grades-10-11.md) — reports the opposite
 - [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](pisa-sex-differences-math-small-reading-three-times-larger.md) — related
+- [Within-group recognition of physics prestige depends on gender, average grades and team friendship, not on group-formation method](prestige-unaffected-by-group-formation-method.md) — related

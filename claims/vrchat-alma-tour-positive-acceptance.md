@@ -49,3 +49,4 @@ Post-event Google Forms survey of the VRChat tour participants (44 responses fro
 - [Free-text responses highlighted realistic physical sensations from the 3D space and psychological closeness to the lecturer as key differences from face-to-face and conventional online events](vrchat-realism-and-closeness-themes.md) — related
 - [HMD participants reported better interaction with the guide than Desktop-mode and YouTube participants, though small subgroup numbers prevent a definitive conclusion](hmd-users-better-guide-interaction.md) — related
 - [Overall satisfaction with the virtual tour did not differ significantly by participation medium (HMD, Desktop mode, or YouTube)](no-satisfaction-difference-by-medium.md) — related
+- [Students responded very positively to the course's content arrangement, with progression as the guiding design principle](progression-principle-well-received.md) — related

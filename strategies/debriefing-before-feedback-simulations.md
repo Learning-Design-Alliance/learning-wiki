@@ -51,6 +51,7 @@ The authors recommend including reflective questions after the lesson and before
 - [Use RCDP with immediate directive feedback at scene interruptions, reserving debriefing for consolidation](rcdp-immediate-feedback-with-consolidation-debriefing.md)
 - [Use a structured debriefing session after simulation scenarios to consolidate learning points.](structured-debriefing-after-simulation.md)
 - [Use Pendleton's feedback model so the learner reflects first on their own performance](pendleton-feedback-model-strategy.md)
+- [Run structured debrief sessions after each lesson module during teacher camps so teachers can reflect, adapt lessons, and surface needed adjustments](qcamp-teacher-debrief-sessions-strategy.md)
 
 ## Examples
 -

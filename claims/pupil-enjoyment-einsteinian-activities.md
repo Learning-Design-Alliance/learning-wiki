@@ -48,3 +48,4 @@ Attitude evidence from the final questionnaire administered one month after the 
 ## Related Claims
 - [88% of students said hands-on activities helped them understand Einsteinian concepts, and 70% wanted to learn more Einsteinian physics](hands-on-activities-helped-clarity-einsteinian-concepts.md) — related
 - [Adults attending a public outreach workshop showed near-universal support for teaching Einsteinian physics in school, with 100% agreement that everyone should have the chance to know about gravity and light](pow-adults-support-einsteinian-curriculum.md) — related
+- [77.1% of participants want to learn more about gravity and general relativity and 82.5% say Einsteinian physics should be in the curriculum](students-favour-gr-in-curriculum.md) — related

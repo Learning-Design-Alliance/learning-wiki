@@ -55,3 +55,7 @@ Thematic analysis of reflective essays and both focus group interviews in the ca
 - [When refined prompts failed, novices overgeneralized and concluded LLMs could not detect anaphors, attributing failure to the model rather than to their prompting](novice-overgeneralization-llm-incapability.md) — related
 - [Positive attitudes toward ChatGPT increased from before to during the practicum](chatgpt-attitudes-increased-during-practicum.md) — related
 - [Early question prompts elicited LA responses too vague to reflect video-observed PCK until prompts explicitly asked about specific PCK components](explicit-pck-component-prompts-elicit-pckq.md) — related
+- [gpt-3.5-turbo with standard prompting generates overly positive, indirect, and unhelpful essay feedback for EFL writing](gpt35-standard-prompting-overly-positive-feedback.md) — related
+- [Novice learners may struggle to identify ChatGPT errors or provide the prompt detail needed for high-quality output](novice-learners-struggle-to-spot-chatgpt-errors.md) — a broader claim this one bears on
+- [Asking ChatGPT-4 to act like a physics teacher, combined with domain specification, produced a correct and well-formulated physics explanation of the Nascar fence-grinding trick](role-prompting-physics-teacher-correct-explanation.md) — a narrower finding that bears on this claim
+- [Specifying the domain in a prompt shifts ChatGPT-4's response toward physics argumentation for an everyday-context problem](specifying-domain-shifts-chatgpt4-physics-argumentation.md) — related

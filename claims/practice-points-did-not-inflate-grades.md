@@ -53,3 +53,4 @@ Linear regressions of total exam points on final grade in each quarter, tested v
 - [Across the total sample, exam scores correlated only weakly with total course points earned in learning activities (r = 0.30), suggesting grades did not strictly follow assessed learning](weak-correlation-exam-scores-course-points.md) — reports the opposite
 - [Overall intensity of use of the ten PORTAAL practices shows no significant correlation with student exam scores](practice-intensity-no-exam-correlation.md) — related
 - [Posttest QRQ scores correlated highly with course grades (r = 0.5), and learning gains were not correlated with pretest scores, indicating students at all levels benefited](qrq-grade-alignment-and-uniform-gains.md) — related
+- [Despite heavy external resource use, significant correlations between supervised and unsupervised assessments persist, so unsupervised assessments retain formative value](unsupervised-assessments-retain-formative-value.md) — related

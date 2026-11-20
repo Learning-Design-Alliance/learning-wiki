@@ -87,3 +87,4 @@ Three-way interaction analysis including Treatment, pre-intervention exam score,
 - [Baseline self-efficacy and knowledge differed by university type and GPA, and gain patterns differed: public students started higher while private students and low-GPA students gained more](demographic-moderators-of-training-gains.md) — related
 - [Among students with higher GPAs, control-group students achieved higher essay scores than ChatGPT-assisted students](higher-gpa-control-outperformed-gpt-group.md) — related
 - [Learners with higher prior programming competency benefit more from AI code generators on retention](prior-competency-moderates-codex-benefit.md) — a narrower finding that bears on this claim
+- [Participants with stronger prior knowledge and writing skill benefit most from AI-assisted active reading, while reading outside one's best field lowers accuracy](prior-knowledge-moderates-ai-learning-benefit.md) — reports the opposite

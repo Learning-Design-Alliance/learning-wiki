@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-20
 recheck_by: 2028
 sources:
   - id: charlotte-zimmerman-2023
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
+> **Currency** · newest study 2023 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In think-aloud graphing interviews, about 3/4 of the time Quantity codes were assigned to the same utterances as Task Context codes, indicating experts' symbolic reasoning is grounded in the physical context of the task. [→ Charlotte Zimmerman 2023](#charlotte-zimmerman-2023)
@@ -54,3 +55,4 @@ Thematic analysis of 15 think-aloud interviews with 10 graduate students and fiv
 - [Expert physicists use compiled relationships—previously known relationships between quantities—to draw graphs rather than considering the problem directly](compiled-relationships-expert-physicists.md) — related
 - [Physics experts approach covariational graphing problems with behaviors distinct from those of mathematics experts](physics-experts-covariation-differs-from-math-experts.md) — related
 - [Physics experts used reasoning about physical mechanisms to validate their mathematical models during graphing tasks](mechanistic-reasoning-validates-expert-models.md) — related
+- [Physics experts' covariational reasoning in modeling tasks is not fully described by the mathematics mental-actions framework](physics-expert-covariation-beyond-math-framework.md) — related

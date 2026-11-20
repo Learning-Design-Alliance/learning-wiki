@@ -71,3 +71,4 @@ Survey resource items (Table 6): Assistant PoTs received higher start-up funds (
 - [Assistant PoTs report spending more time on scholarship and less on service, but the scholarship difference did not remain significant after multiple-comparison correction](actual-time-scholarship-service-by-rank.md) — related
 - [PoTs who engage in DBER and generate peer-reviewed publications report greater influence on colleagues' teaching, while mentoring student researchers correlates negatively](scholarship-correlates-teaching-influence.md) — related
 - [Despite being valued, the scholar role receives insufficient time in practice, forcing clinicians to enact it on personal time](ot-scholar-role-enacted-on-personal-time.md) — related
+- [Improvers conceptualize DBER as an opportunity to improve practice locally in an evidence-based way](improvers-dber-improve-practice-locally.md) — related

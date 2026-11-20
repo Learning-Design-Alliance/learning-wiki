@@ -48,3 +48,4 @@ Intra-group analysis of the simulation group (n = 42): mean(SD) scores rose from
 - [Within-group knowledge gains from pre-test to post-test are statistically significant in both the intervention and control groups](within-group-knowledge-gains-both-groups-immunohematology.md) — related
 - [Within both training groups, knowledge scores rose significantly from pre-test to post-test, with very large within-group effect sizes](bls-prepost-knowledge-gain-both-groups.md) — related
 - [A 2-hour near-peer otolaryngology bootcamp significantly improves medical students' knowledge quiz scores](near-peer-bootcamp-knowledge-quiz-gain.md) — related
+- [The cohort scored a mean quiz grade of 78.0 ± 12.4 out of 100](quiz-mean-grade-78-out-of-100.md) — related

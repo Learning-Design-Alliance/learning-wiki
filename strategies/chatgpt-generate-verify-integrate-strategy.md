@@ -52,6 +52,7 @@ A classroom activity using ChatGPT to train information retrieval and critique: 
 - [Require students to justify how they used AI output: what they accepted, rejected, revised, or verified, and why](require-justification-of-ai-output-use.md)
 - [Use structured exercises requiring students to compare, critique, and justify against AI-generated code](compare-critique-ai-generated-code-exercises.md)
 - [Support learners to evaluate AI outputs by verifying sources, reporting errors, and overriding recommendations](evaluate-ai-outputs-verify-override.md)
+- [Use ChatGPT as a cited assistant and reference for programming and general tasks, with logical and critical thinking to validate its output](chatgpt-as-cited-assistant-with-critical-validation.md)
 
 ## Examples
 -

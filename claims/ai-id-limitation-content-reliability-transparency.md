@@ -69,3 +69,4 @@ Thematic synthesis of limitations (Table 7). The review notes Parsons & Curry (2
 - [Hallucination — the generation of inaccurate, unverified, or illogical content — is the most frequently reported technical challenge for LLMs in dental education](hallucination-most-frequent-technical-challenge.md) — related
 - [16.67% (2/12) of LLM-generated ophthalmology cases contained hallucinations, including contradictory gonioscopy findings and inappropriate imaging modalities](llm-case-hallucinations-2-of-12.md) — a narrower finding that bears on this claim
 - [DeepSeek-assisted PBL residents report higher trust in course information yet greater concern about inaccurate AI medical advice](deepseek-pbl-trust-paradox-inaccuracy-concern.md) — a narrower finding that bears on this claim
+- [Using a black-box LLM for feedback generation limits transparency and explainability](black-box-llm-feedback-transparency-limitation.md) — a narrower finding that bears on this claim

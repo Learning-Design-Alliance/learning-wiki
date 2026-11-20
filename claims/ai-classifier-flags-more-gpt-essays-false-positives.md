@@ -72,3 +72,4 @@ The authors' evaluation of the OpenAI AI text classifier on the Croatian-languag
 - [AI detectors using perplexity disproportionately misclassify non-native English writers, and the mechanism plausibly extends to other low-perplexity writers](perplexity-bias-non-native-english-writers.md) — a broader claim this one bears on
 - [AI-content detection tools achieve only marginally higher success than human reviewers, around 80% versus 78.4%](ai-detection-only-marginally-better-than-humans.md) — related
 - [ChatGPT-assisted essays showed slightly higher text unauthenticity (11.87%) than control essays (9.96%)](chatgpt-essays-higher-unauthenticity.md) — related
+- [Instructors and teaching assistants detect AI-generated code with only 69% accuracy and a 22% false positive rate, with large variability between raters](instructor-ai-detection-insufficient.md) — related

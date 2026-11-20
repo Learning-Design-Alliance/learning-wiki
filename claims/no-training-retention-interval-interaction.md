@@ -51,3 +51,4 @@ In Experiment 1's mixed-effects model, retention interval (uncontrolled trivia-t
 - [Several candidate moderators show no reliable effects: retention interval, test type, presentation mode, and publication status](interleaving-null-moderators-retention-test-presentation.md) — related
 - [Retrieval practice format, levels of thinking and retention interval show no significant three-way interaction on undergraduates' reading comprehension](retrieval-format-levels-of-thinking-retention-interval-three-way-interaction-not-significant.md) — related
 - [No testing effect was found for acquiring problem-solving skills through worked example study across eight experiments](testing-effect-absent-worked-example-study.md) — related
+- [Knowledge-state contents reconfigure AlgoBo's MCQ performance by knowledge type](reflect-respond-reconfigures-algobo-knowledge-level.md) — related

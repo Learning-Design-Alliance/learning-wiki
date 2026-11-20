@@ -59,3 +59,4 @@ Qualitative fieldwork during the 2004-05 school year in seven CHSRI schools, inc
 - [Multiple trends point to a de-professionalization of teachers in both the North and the South](de-professionalization-of-teachers-trends.md) — related
 - [In one school, well-defined instructional priorities plus deliberate leadership facilitated sustained developmental practices](developmental-practices-require-clear-priorities-and-leadership.md) — related
 - [CPD effectiveness may be fundamentally misunderstood when conceptualized as primarily an educational intervention rather than an organizational change intervention](cpd-as-organizational-change-intervention.md) — related
+- [Intentional teacher groupings with responsive regrouping during in-person PD supported the formation of informal mentorships](intentional-grouping-supports-informal-mentorship.md) — related

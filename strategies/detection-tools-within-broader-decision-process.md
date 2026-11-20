@@ -50,6 +50,7 @@ The article offers higher education institutions a concrete implementation appro
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
 - [Higher education leaders should develop more inclusive and future-oriented GenAI policies integrating social equity, interdisciplinary experimentation, and sustainability considerations](develop-inclusive-future-oriented-genai-policies.md)
 - [Institutional integrity programs combining ethical AI-use guidelines, clear definitions of dishonesty, and risk-awareness education](integrity-programs-ethical-ai-use-guidelines.md)
+- [Instructors should test leading AI tools regularly, benchmark assignments against them, and assess unaided student performance in person](instructor-ai-benchmarking-and-in-person-assessment.md)
 
 ## Examples
 -

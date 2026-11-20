@@ -51,3 +51,4 @@ Regression covariates in the 99,559-student survey with institution fixed effect
 - [Female students assign significantly higher ratings than male students to specific e-learning aspects, including planning, presential sessions, content, self-evaluation, tutor contribution and illustrations](female-higher-ratings-specific-aspects.md) — related
 - [Cluster analysis identified two student phenotypes differing in satisfaction, modality, gender and age](two-student-phenotypes-pbl-satisfaction.md) — related
 - [Female students reported significantly higher satisfaction with the course's online resources than male students](gender-gap-online-resource-satisfaction.md) — a narrower finding that bears on this claim
+- [LSRC integration in rural classrooms faces challenges from student competency gaps, socio-cultural differences, and the limits of live-streaming format](lsrc-rural-integration-challenges.md) — related

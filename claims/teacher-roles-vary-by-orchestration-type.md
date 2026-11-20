@@ -71,3 +71,4 @@ Inductive coding of roles not captured by the existing framework found that the 
 - [Explain-the-screen was the most frequent orchestration type (24 of 46 episodes), and in AI-based lessons it was dynamically reconfigured in real time by AI-generated learning data](explain-the-screen-most-frequent-reconfigured.md) — related
 - [Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use](teacher-role-shift-facilitator-ethical-supervisor.md) — related
 - [Student participation in scientific exhibitions shifts teachers from knowledge transmitters to mediators and makes students protagonists of teaching-learning](exhibition-student-protagonism-mediation.md) — related
+- [Local teachers reconfigured their role from content creators to content deliverers and conducted targeted efforts that enabled students to absorb streamed content](local-teacher-role-reconfiguration-lsrc.md) — related

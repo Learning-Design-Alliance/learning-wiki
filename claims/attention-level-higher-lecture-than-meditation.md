@@ -50,3 +50,4 @@ Same within-class meditation-versus-lecture comparison of averaged attention lev
 - [Single-brain attention level (individual average attention) does not significantly correlate with academic performance in this sample](single-brain-attention-level-no-correlation-performance.md) — related
 - [Student attention, indexed by occipital alpha power, is lower during teacher-initiated activities (lecture, video) than student-initiated activities (group work, independent work) in a college classroom](alpha-power-lower-teacher-initiated-than-student-initiated.md) — related
 - [Posterior alpha power is higher during idle and off-task states than during on-task states in cooperative learning](alpha-higher-idle-offtask-than-ontask.md) — related
+- [Group-level accuracy benefits of peer attention were not always significant when videos were analyzed individually](peer-attention-video-level-significance-limited.md) — related

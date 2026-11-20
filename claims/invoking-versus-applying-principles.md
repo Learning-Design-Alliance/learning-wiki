@@ -75,3 +75,6 @@ Analysis of students' written work shows that even after successfully applying C
 - [Most introductory students have difficulty qualitatively interpreting basic energy and momentum principles and applying them in physical situations](students-difficulty-qualitative-energy-momentum.md) — related
 - [Content-area difficulty is non-uniform: students perform better on energy-based mechanics than force-based mechanics and struggle most with momentum](content-area-difficulty-momentum-hardest.md) — related
 - [Productive use of assumptions simplifies problem solving and helps determine which principles apply](assumptions-simplify-problem-solving.md) — related
+- [On Q16, 35% of upper-level students selected only one principle (conservation of momentum alone, 21%, or mechanical energy constancy alone, 14%) as needed to solve the ballistics-collision problem](emcs-q16-single-principle-selection-upper-level.md) — related
+- [Students state the invariance of the speed of light correctly but fail to apply it, using the Galilean velocity addition formula instead](students-fail-apply-invariance-speed-light.md) — a narrower finding that bears on this claim
+- [Students apply the Principle of Equivalence correctly outside but fail inside a gravitational field](equivalence-principle-fails-inside-gravitational-field.md) — related

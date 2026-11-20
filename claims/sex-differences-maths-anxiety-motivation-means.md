@@ -84,3 +84,4 @@ Univariate ANOVAs across TEDS continuous variables; the article reports sex expl
 - [Female students report significantly less science confidence and enjoyment and more science anxiety than male peers, and higher prior math achievement predicts better attitudes](gender-and-sat-predict-science-attitudes.md) — related
 - [Integrated-gradient analysis found pretest score and math anxiety were the most influential features on the learned policy's pedagogical choices](integrated-gradient-policy-feature-importance.md) — related
 - [Female students express significantly less interest in physics than male students, regardless of introductory course format](female-students-less-physics-interest.md) — related
+- [All six female ISS project participants succeeded in a STEM major, suggesting the contest helped reduce the gender gap](iss-female-participants-stem-success.md) — related

@@ -45,6 +45,7 @@ During qualitative synthesis the research group replaced the term 'patient' with
 
 - [Redesign ISBTT programs with explicit interprofessional learning goals, power-focused debriefing, matched facilitators, and longitudinal formats](isbtt-redesign-strategy.md)
 - [Use equity-oriented quiz rewording and course redesigns to address gendered gain differences](equity-oriented-quiz-rewording-and-redesign.md)
+- [Refine flagged assessment items by rewording ambiguous distractors and using student interviews](student-interview-distractor-refinement-strategy.md)
 
 ## Examples
 -

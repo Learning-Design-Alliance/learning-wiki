@@ -46,7 +46,8 @@ The authors recommend concrete revisions to simulation design based on the study
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](../claims/contextualized-teaching-facilitates-transfer.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Incorporate real-world situations and case studies into curricula to situate theoretical ideas in practical contexts](real-world-cases-situate-theory-strategy.md)
 
 ## Examples
 -

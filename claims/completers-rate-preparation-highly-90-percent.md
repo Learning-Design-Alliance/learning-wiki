@@ -51,3 +51,4 @@ Analysis of CTC program completer survey responses from almost 60,000 completers
 - [California administrator induction is rated effective by over 90% of completers, with at least 85% reporting strong preparation on every CPSEL leadership skill](induction-rated-effective-cpsel-preparation.md) — related
 - [Post-session survey responses indicated students found the session relevant and worthwhile, valuing database search skills and citation management software](post-session-survey-perceptions-positive.md) — related
 - [Participants rated the liver model positively and 93% deemed it helpful preparation for clinical practice](participants-rate-liver-model-helpful.md) — related
+- [Students responded very positively to the course's content arrangement, with progression as the guiding design principle](progression-principle-well-received.md) — related

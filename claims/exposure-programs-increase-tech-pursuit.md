@@ -73,3 +73,4 @@ The scan's key idea following its compilation of exposure and exploration resour
 - [Early research involvement integrated a former student into the physics community and supported her path to a research career](fp-vignette-community-and-career-integration.md) — a narrower finding that bears on this claim
 - [Tracer study finds RTU astronomy graduates employed within six months, with research and computational skills most valued and oral communication flagged for improvement](rtu-astronomy-tracer-study-employment-skills.md) — related
 - [Interns lacked prior software exposure and research opportunities, requiring an initial software training phase](msi-interns-lacked-software-exposure-requiring-initial-training.md) — related
+- [Interns reported enhanced skills toward a STEM career and a majority wanted to pursue particle physics research after their undergraduate degree](internship-enhanced-stem-skills-particle-physics-intent.md) — related

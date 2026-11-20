@@ -50,3 +50,5 @@ Numerical experiment (Section 5.4.4, Figure 7) comparing TE+C fine-tuned from sy
 - [Fine-tuning on clean synthetic data yields limited gains on hand-drawn tasks, indicating limited robustness to out-of-distribution hand-drawn inputs](fine-tuning-limited-gains-hand-drawn-tasks.md) — related
 - [Fine-tuning primarily improves alignment between code generation and visual reasoning rather than visual understanding or spatial reasoning](fine-tuning-improves-code-reasoning-alignment.md) — related
 - [A fine-tuned BERT outperforms the leading tree-embedding baseline (TE+C) on algebra error classification without needing syntax trees](bert-outperforms-tree-embedding-error-classification.md) — related
+- [Accuracy gains from additional fine-tuning data plateau beyond 30 seconds per class](fine-tuning-gain-plateau-beyond-30-seconds.md) — related
+- [Transfer-learning personalization with 30 seconds of per-class EEG data raises AttentioNet accuracy to 92.3%](attentionet-personalization-30-seconds-92-3.md) — related

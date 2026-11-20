@@ -31,7 +31,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 183 claims (116 for, 54 mixed, 13 against) · 150 studies (31 causal, 30 review, 30 qualitative, 30 theoretical, 16 design, 12 associational, 1 quant-synthesis), `q1`–`q4` · 10 of 150 report an effect size · 179 claims rest on one study
+> **Evidence** · 184 claims (117 for, 54 mixed, 13 against) · 151 studies (32 causal, 30 review, 30 qualitative, 30 theoretical, 16 design, 12 associational, 1 quant-synthesis), `q1`–`q4` · 10 of 151 report an effect size · 180 claims rest on one study
 
 ## Conditional relationship
 
@@ -277,6 +277,7 @@ Claims this page cited that the model above does not use. Each keeps its old mar
 - [In the gross anatomy course survey (N = 749), Anatomage received significantly higher ratings than Magic Mirror on most statements, yet both systems were considered enhancements rather than replacements for dissection courses.](../claims/gross-anatomy-survey-anatomage-preferred-tutorial.md) [+M] — attached 2026-11-08 from Bork F et al. (2019), which proposed "Integrate 3D visualization systems into gross anatomy teaching as supplements that enable multimodal, self-directed learning, not as replacements for dissection"; tests this page's relationship.
 - [Students overwhelmingly intend to use advising support tools at home or with an advisor, and only a small minority would use one instead of an advisor](../claims/students-want-advising-tools-alongside-not-instead-of-advisors.md) [+W] — attached 2026-11-17 from Nicholas Mattei et al. (2014), which proposed "Advising support software should augment, not replace, in-person advising"; tests this page's relationship.
 - [Students reported that pairing hands-on real tools with virtual tools helped them verify and understand both instruments](../claims/students-report-real-and-virtual-tools-mutually-supporting.md) [+M] — attached 2026-11-17 from Wee et al. (2014), which proposed "Use simulations as complements to real laboratory instruments to make measurement learning more authentic and focused"; tests this page's relationship.
+- [Complete reliance on generative AI for summary-writing tasks reduces reading-comprehension accuracy by 25.1% relative to manual writing, after adjusting for background knowledge and demographics](../claims/ai-writing-reliance-reduces-comprehension-accuracy.md) [+W] — attached 2026-11-20 from QiRui Ju (2023), which proposed "Educators should warn students about over-dependence on generative AI and provide explicit guidance on its optimal use in coursework"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

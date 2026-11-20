@@ -48,6 +48,7 @@ The article recommends scaffolding visual puzzle play so that trial-and-error do
 - [Embed puzzles and challenges in simulations for continued engagement and self-assessment](embed-puzzles-and-challenges-in-sims.md)
 - [Logic Puzzles](logic_puzzles.md)
 - [Use interactive, student-centered reinforcement techniques such as puzzles in theoretical nursing courses](puzzle-reinforcement-theoretical-courses-strategy.md)
+- [Add explanations to completed Parsons puzzle blocks to support understanding of difficult details](add-explanations-to-parsons-blocks-strategy.md)
 
 ## Examples
 -

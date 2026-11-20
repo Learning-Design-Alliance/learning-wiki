@@ -52,3 +52,4 @@ Blinded preference evaluation by three health care professionals over explanatio
 - [With expert hints describing the image, 40% (22/55) of GPT-4V's incorrect responses switched to the correct answer](image-hints-corrected-40-percent-errors.md) — related
 - [In a simulated curbside consultation, GPT-4V required multiple specific physician-guided prompts to interpret complex case data accurately](curbside-consultation-required-multiple-prompts.md) — related
 - [The author judges 26 of GPT-4's free-response explanations entirely correct at the expert level, while GPT-3.5's wrong-answer explanations erred randomly or self-inconsistently](gpt4-free-responses-expert-level.md) — related
+- [Students did not show a clear preference for writing hints with or without the GPT-4 scaffold](no-clear-preference-gpt4-scaffold.md) — related

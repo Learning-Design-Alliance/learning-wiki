@@ -48,3 +48,6 @@ Replay of an actual momentum lecture's clicker sequence, including re-answering 
 ## Related Claims
 - [ChatGPT scored 60% on the Force Concept Inventory, at the suggested entry threshold for Newtonian physics](chatgpt-fci-score-60-percent-entry-threshold.md) — related
 - [Introductory students answered a conceptual momentum question at roughly half the correct rate of an isomorphic quantitative problem, but performed equally on both when the quantitative question came first](conceptual-quantitative-momentum-gap-introductory.md) — related
+- [Review of prior studies finds ChatGPT-4 typically scores between 90 and 100% on the Force Concept Inventory, comparable to physics experts, while ChatGPT-3.5 scored 50-60%](chatgpt4-fci-expert-level-review-reported.md) — related
+- [ChatGPT-4 is unreliable on a basic conceptual introductory physics question about kinetic energy and momentum, giving the correct answer in only four of eight regenerated responses](chatgpt4-unreliable-ke-momentum-conceptual-question.md) — reports the opposite
+- [A majority of surveyed physics students rated ChatGPT useful for answering physics-related questions and would recommend it as a support tool in physics courses](students-rate-chatgpt-useful-physics-questions.md) — related

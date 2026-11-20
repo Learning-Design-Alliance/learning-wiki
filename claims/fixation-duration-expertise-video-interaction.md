@@ -53,3 +53,4 @@ Linear mixed-effects modelling of 31,950 fixations with participants and videos 
 - [Experts shorten saccades selectively in video sections where enlarged lymph nodes are present](experts-shorten-saccades-when-elns-present.md) — related
 - [Novices show longer fixation durations on the adult box trainer than on the pediatric box trainer during peg transfer training](longer-fixation-durations-adult-than-pediatric-trainer.md) — related
 - [Experts gaze the blood-loss region significantly longer than novices during simulated PPH observation](experts-gaze-blood-loss-longer.md) — related
+- [Displaying peer attention regions reduces inattention and confusion durations during online video learning](peer-attention-reduces-inattention-confusion.md) — related

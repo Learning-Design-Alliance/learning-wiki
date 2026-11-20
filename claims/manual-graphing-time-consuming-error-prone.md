@@ -47,3 +47,4 @@ Authors' interpretive argument in the Discussion (type e), not a tested result: 
 ## Related Claims
 - [A WestEd research bulletin reports a curriculum revision that replaced a decorative photograph in a math problem with a problem-relevant sketch, on the developers' view that such photographs distract students](decorative-images-distract-from-math-problems.md) — related
 - [R can be used productively for data analysis and graphing in an introductory physics laboratory, as demonstrated on linear, non-linear, and histogram examples](r-productive-introductory-physics-laboratory.md) — related
+- [Pre-test laboratory reports often conclude RC decay is exponential and lack an argument that the data support a model within error](pretest-reports-lack-modeling-awareness.md) — related

@@ -42,7 +42,8 @@ Participants identified resource availability as a barrier and proposed that res
 - [Time was the most pervasive resource barrier, identified by two-thirds of studies](../claims/time-barrier-two-thirds-pal-studies.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Attend to student characteristics, resource availability, and time allocation when implementing guided inquiry](guided-inquiry-implementation-conditions-strategy.md)
 
 ## Examples
 -

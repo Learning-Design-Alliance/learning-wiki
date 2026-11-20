@@ -48,3 +48,5 @@ Video analysis of groups in the group phase of two-phase exams in two introducto
 - [Participation in the group phase correlates strongly and positively with solo-phase test performance relative to peers, and homogeneous groups show the flattest participation profiles](participation-correlates-solo-performance-quartile.md) — related
 - [Individual students participate more in group-exam discussions on questions they answered correctly in the solo phase](solo-correct-students-participate-more-group-exam.md) — related
 - [Group heterogeneity decreases average participation overall but increases participation of the highest-scoring students](heterogeneity-participation-leadership-shift.md) — related
+- [Co-construction rates varied from 0% to 71% and peaked for questions about half of students answered correctly individually](qm-co-construction-peaks-half-correct.md) — related
+- [Groups constructed knowledge at a high average rate of 80% when at least one member answered correctly individually](qm-peer-construction-rate-80-percent.md) — related

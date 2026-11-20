@@ -67,3 +67,4 @@ Cluster membership reported in the Results section and Table I. The most distinc
 - [The Building Models cluster is characterized by spoken representation and non-observation questions and contains five OST, four UMI, three TIP, and one SDI activity](building-models-cluster-non-observation-questions.md) — related
 - [The Learning Concepts cluster, the largest of the three, is characterized by prediction and observation features and contains all RTP, WP, TTU, and UI activities](learning-concepts-cluster-prediction-observation.md) — related
 - [K-means cluster analysis of 66 research-based physics activities from eleven curricula yields three design clusters](three-clusters-physics-activities-kmeans.md) — a broader claim this one bears on
+- [Students engaged as productively with model-generating NOMR VR labs as with hands-on ISLE labs, with zero boredom, worry, or apathy reported in VR2 and VR3](nomr-vr-engagement-comparable-hands-on.md) — related

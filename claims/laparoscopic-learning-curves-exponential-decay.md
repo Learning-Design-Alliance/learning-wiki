@@ -53,3 +53,4 @@ Authors' characterisation of the fitted learning curves from the randomised box-
 - [A learning-curve offset method estimates augmented-cues VR training as equivalent to 0.93 real tyre-change sessions versus 0.37 for conventional VR training](equivalent-training-sessions-learning-curve-offset.md) — a narrower finding that bears on this claim
 - [Upside-down mastery inversion occurs only as Na becomes greater than Nu, transitioning from bell-shaped to exponential-shaped curves](na-greater-than-nu-inversion-upside-down.md) — related
 - [Graduate students typically recognized the dominance of exponential growth faster than undergraduates when confronted with scaling arguments](graduate-students-faster-recognize-exponential-dominance.md) — related
+- [Pre-test laboratory reports often conclude RC decay is exponential and lack an argument that the data support a model within error](pretest-reports-lack-modeling-awareness.md) — related

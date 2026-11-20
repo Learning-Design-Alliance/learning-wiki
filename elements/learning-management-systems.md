@@ -13,7 +13,7 @@ generated:
 # Learning Management Systems
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (4 for, 6 mixed, 4 against) · 11 studies (5 associational, 2 theoretical, 1 causal, 1 qualitative, 1 design), `q1`–`q3` · 2 of 11 report an effect size · 14 claims rest on one study
+> **Evidence** · 15 claims (4 for, 7 mixed, 4 against) · 12 studies (5 associational, 2 design, 2 theoretical, 1 causal, 1 qualitative), `q1`–`q3` · 2 of 12 report an effect size · 15 claims rest on one study
 
 ## Description
 Learning management systems are the element in which course organization, materials, communication, and tracking are coordinated through an LMS.
@@ -37,6 +37,7 @@ Learning management systems are the element in which course organization, materi
 - [Blackboard-based blended teaching produced significantly higher academic achievement than traditional teaching, with η² = 0.75](../claims/blackboard-blended-teaching-achievement-eta-075.md) [+W] — attached 2026-11-01 from Wadha H. Al-Otaibi (2017), which proposed "Blackboard-based blended course design for Science Teaching Strategies (Code 423)"; tests this page's relationship.
 - [The experimental group showed statistically significant pre-to-post achievement gains in the EFL teaching methods course after Blackboard-based instruction](../claims/blackboard-instruction-significant-prepost-gains-efl-methods.md) [~W]
 - [Blackboard-based instruction was more effective than traditional instruction in improving post-test achievement, with the experimental group outperforming the control group](../claims/blackboard-outperformed-traditional-instruction-posttest.md) [+W]
+- [A completion-rate proxy indicated 80.4% of students were highly or fully engaged during the bootcamp](../claims/completion-rate-80-4-percent-highly-fully-engaged.md) [~W] — attached 2026-11-20 from Macar et al. (2023), which proposed "In-house online learning platform for informal AI education with live chat and engagement tracking".
 
 ## Examples
 

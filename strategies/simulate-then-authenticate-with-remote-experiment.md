@@ -52,6 +52,8 @@ The website operationalizes a learning sequence in which students first read on-
 - Remote Mach Zehnder Interferometer Website Portal
 - [Frontload experimentation and data analysis with real or virtual optical experiments before introducing mathematical formalism](experiments-before-mathematics-quantum-course-strategy.md)
 - [Quantum hardware exploration assignments balancing authentic device access with simulator substitutes](quantum-hardware-exploration-assignments-strategy.md)
+- [Learning by doing through authentic space-science experimentation in the chemistry lab](iss-chemistry-lab-learning-by-doing.md)
+- [Incorporating simulated-data analysis into lab software to enable remote participation](simulated-data-mode-remote-lab-participation.md)
 
 ## Examples
 -

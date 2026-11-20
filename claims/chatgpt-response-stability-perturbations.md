@@ -70,3 +70,5 @@ The same stability probing, including reworded input variants, applied to ChatGP
 - [ChatGPT3.5's FCI free responses split between expert-level accuracy and complete incoherence](chatgpt35-fci-free-response-expert-test.md) — related
 - [ChatGPT3.5 answers 15 of 23 modified FCI questions correctly, scoring near or above the median end-of-semester student](chatgpt35-fci-15-of-23-near-median-student.md) — related
 - [ChatGPT4 answers 22 of 23 modified FCI questions correctly, performing in the uppermost decile of physics students](chatgpt4-fci-22-of-23-uppermost-decile.md) — related
+- [ChatGPT completes introductory CS1 and CS2 programming assignments with near-perfect accuracy, requiring almost no coding skill from the student](chatgpt-near-perfect-cs1-cs2-assignments.md) — related
+- [ChatGPT-4 is unreliable on a basic conceptual introductory physics question about kinetic energy and momentum, giving the correct answer in only four of eight regenerated responses](chatgpt4-unreliable-ke-momentum-conceptual-question.md) — related

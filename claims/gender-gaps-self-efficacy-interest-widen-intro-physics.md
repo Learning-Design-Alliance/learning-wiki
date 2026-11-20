@@ -64,3 +64,6 @@ T-test comparison of pre and post survey scores by gender in a calculus-based in
 - [Female students in calculus-based laboratory sections showed significant positive self-efficacy change, while algebra-based females were the only group with negative normalized change](female-calculus-based-significant-gains.md) — related
 - [Women score significantly lower than men on physics identity, perceived recognition, self-efficacy, and interest at the end of introductory physics 1](gender-gaps-intro-physics-motivation-constructs.md) — related
 - [Female students express significantly less interest in physics than male students, regardless of introductory course format](female-students-less-physics-interest.md) — related
+- [Female-identifying students started lower on self-efficacy items and saw smaller increases, with the PhIS4 shift barely meeting p < 0.05 and the PhIS5 shift not significant](self-efficacy-gains-smaller-for-female-students.md) — a narrower finding that bears on this claim
+- [Women's calculus self-efficacy significantly decreases over the semester while men's shows little change](women-calculus-self-efficacy-decrease.md) — related
+- [Women display larger gains than men on applied calculus questions across a calculus-emphasized introductory physics semester](women-larger-applied-calculus-gains-em-physics.md) — related

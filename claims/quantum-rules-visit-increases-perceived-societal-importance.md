@@ -53,3 +53,4 @@ Paired-samples sign tests on pre-post questionnaires from 45 students across thr
 - [Students do not express the societal relevance of learning quantum physics for their own citizenship, even after acknowledging its applications](students-miss-citizen-voice-relevance-of-quantum.md) — related
 - [After the module, students' perceived societal importance of quantum computing shifted toward appreciating that the technology is in its infancy, with median importance unchanged at 4](qc-module-importance-perception-shift.md) — related
 - [Median student interest in further quantum computing learning remained at 4 before and after the module, with distribution changes showing some students wished to study QC further](qc-module-further-learning-interest.md) — related
+- [Agreement that physics teaching is 'a career valuable to society' increased after the module, interpreted as a possible small increase](tpis-valuable-to-society-increase.md) — related

@@ -50,3 +50,4 @@ Evaluation of all 179 AlgoRAG responses against instructor reference answers fou
 - [Per-topic performance varied: NP-completeness scored highest ROUGE-1 F1 (0.1285), sorting algorithms highest pedagogical quality (0.8250), and recurrence relations lowest pedagogical quality (0.6629)](algorag-topic-specific-performance-variation.md) — related
 - [The design strained on later proof-heavy topics, and students asked for better artifacts rather than fewer tests](proof-heavy-topics-strained-artifacts-requested.md) — related
 - [Cluster membership showed a strong multivariate effect on standard text-similarity metrics (Pillai's trace = 0.85, F(12, 248) = 15.31, p < 0.001)](manova-cluster-effect-text-metrics.md) — related
+- [Automatic text-similarity metrics do not correlate with manual evaluation for Socratic utterance generation](automatic-metrics-uncorrelated-socratic-manual-eval.md) — a broader claim this one bears on

@@ -56,3 +56,4 @@ The review contrasts classroom pilots of Cognitive Tutor and LISTEN in the devel
 - [Technological prerequisites such as internet access and device availability were identified only by the South African panel, with equity of education as a distal outcome](technological-prerequisites-south-african-panel-equity.md) — related
 - [Web-SPs and telesimulation face constraints in technological accessibility, internet stability, user confidence, and digital literacy](web-sp-technical-and-literacy-constraints.md) — related
 - [Software environment set-up remained a significant pain point for students despite careful course design](environment-setup-pain-point-introductory-coding-course.md) — related
+- [Students in the Julia-based course did not find setting up the environment or learning Julia syntax to be significant activation barriers](julia-setup-syntax-not-activation-barriers.md) — related

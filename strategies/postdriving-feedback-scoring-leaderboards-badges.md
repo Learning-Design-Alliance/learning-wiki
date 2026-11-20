@@ -50,6 +50,7 @@ The review recommends that to implement gamification without distracting the dri
 - [Gamified Practice](gamified-practice.md)
 - [Leaderboards](leaderboards.md)
 - [Badges](badges.md)
+- [Use review insights to design personalized gamification interventions while managing goal clarity and distraction risks](design-personalized-gamification-programming-strategy.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Questionnaire study of 6 high school classes (153 pre-, 125 post-, 42 delayed re
 - [Pre/post questionnaires with more than 200 high school students showed a remarkable improvement in knowledge of the addressed topics](rsa-student-questionnaire-improvement.md) — a narrower finding that bears on this claim
 - [The RSA activity helps high school students visualize, comprehend and remember Newtonian gravity and GR topics better than a traditional treatment](rsa-activity-improves-gravity-comprehension.md) — a narrower finding that bears on this claim
 - [Year 7 Einsteinian gravity instruction conflicted with concurrent Euclidean geometry teaching, producing persistent confusion](year-7-euclidean-geometry-conflict-curved-space.md) — related
+- [Describing gravity as spacetime curvature increases markedly only in Years 10, 12 and 13, and the intervention fails to dispel force-based misconceptions overall](curvature-source-gravity-only-upper-years.md) — related

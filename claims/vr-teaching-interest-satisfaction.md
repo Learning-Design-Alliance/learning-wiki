@@ -73,3 +73,4 @@ Meta-analysis pooling 5 RCTs (n=190) on satisfaction with instructional content 
 - [Students in TBL groups report higher satisfaction than students in LBL groups](tbl-higher-student-satisfaction-neurology.md) — related
 - [Student satisfaction with telemedicine ultrasound teaching is similar to traditional teaching, and distance formats are widely accepted by students](telemedicine-teaching-student-satisfaction-acceptance.md) — related
 - [Integrated teaching raises satisfaction with the teaching approach on learning interest, disease comprehension, and clinical reasoning, but not on research awareness or communication](integrated-teaching-approach-survey-mixed.md) — related
+- [Students were significantly more satisfied learning with the traditional instructional format than with the VR format](control-format-higher-satisfaction-than-vr.md) — reports the opposite

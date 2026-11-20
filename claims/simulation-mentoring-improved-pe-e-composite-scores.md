@@ -48,3 +48,4 @@ Video analysis of 39 matched first and last simulation videos (94 nurses, 33 pri
 - [The proportion of simulated cases in which mentees asked about epigastric pain rose significantly from first to last simulation in a single-group pre-post study with no comparison group](epigastric-pain-question-increased-simulations.md) — related
 - [Magnesium sulfate administration did not change from first to last simulated PE/E cases in a single-group pre-post comparison, despite overall management gains](magnesium-sulfate-administration-not-improved.md) — related
 - [Time from blood pressure measurement to antihypertensive administration decreased non-significantly in simulated PE/E cases](time-to-antihypertensive-decreased-nonsignificant.md) — related
+- [Changing the question solicitation script was associated with no change in the total number of questions asked by students](solicitation-script-no-change-in-total-questions.md) — related

@@ -55,3 +55,4 @@ Exploratory analysis: coded forum and wiki actions (coordination, monitoring, ma
 - [Sequence-alignment clusters of small-group action logs differ in productivity and balance of contribution, with the largest cluster showing the lowest word count and highest imbalance](sequence-alignment-clusters-differ-in-quality.md) — related
 - [Blackboard-based instruction is associated with more balanced participation than face-to-face discussion, where one or two participants tend to dominate](blackboard-more-balanced-participation-than-face-to-face.md) — related
 - [Combining instructional video and self-study immediately before testing yields equally high scores regardless of sequence](immediate-video-self-study-combination-sequence-null.md) — related
+- [Automatically detected drivers report significantly higher self-reported individual engagement than passengers in face-to-face collaborative learning](drivers-higher-self-reported-engagement.md) — related

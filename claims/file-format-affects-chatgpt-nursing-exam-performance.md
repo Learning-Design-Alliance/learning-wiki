@@ -69,3 +69,5 @@ Kruskal-Wallis test with Dann-Bonferroni post hoc comparisons across the five fo
 - [All four multimodal LLMs show a marked decrease in correct response rates on visually-based versus text-only JNEOT questions](llm-visual-question-decline-jneot.md) — related
 - [The PROMPT-ONLY format showed more variable performance than TEXT, PDF, and DOCX formats in ChatGPT-4's examination responses](prompt-only-format-more-variable.md) — a narrower finding that bears on this claim
 - [ChatGPT models achieve a pooled accuracy of 70.1% on national health licensing examinations](chatgpt-pooled-accuracy-70-percent-licensing-exams.md) — a broader claim this one bears on
+- [ChatGPT's TUG-K responses show correct reasoning in 69.7% but correct visual interpretation in only 30.9%, with no significant association between the two](chatgpt-tug-k-reasoning-versus-vision-correctness.md) — a narrower finding that bears on this claim
+- [Transcribing one TUG-K graph item into text raised ChatGPT's correctness from 10% to 100%](graph-transcription-bypasses-vision-failure.md) — a narrower finding that bears on this claim

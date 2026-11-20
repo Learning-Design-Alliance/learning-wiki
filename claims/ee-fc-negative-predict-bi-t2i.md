@@ -57,3 +57,4 @@ Latent-variable SEM of the 400-student survey. The article reports these negativ
 - [Effort expectancy has no direct effect on behavioral intention; its effect is fully mediated by attitude.](effort-expectancy-mediated-by-attitude.md) — reports the opposite
 - [Perceived limitations and perceived educational impact correlate strongly and positively, while both correlate negatively with purpose of internet use, confidence, and perceived advantages](ckapq-construct-correlation-pattern.md) — related
 - [Performance expectancy, effort expectancy, facilitating condition, hedonic motivation, and computer literacy each positively predict intention to use eLearning-based CPD](utaut2-positive-predictors-elcpd.md) — reports the opposite
+- [Perceived ease of use (Effort Expectancy) particularly increased for GutGPT arm participants after simulation](gutgpt-effort-expectancy-increase.md) — related

@@ -42,6 +42,7 @@ The article recommends treating response consistency in conversation-based asses
 - [Human-in-the-loop evaluation of LLM assessment conversations for fairness, bias, and explainability](human-in-the-loop-llm-cba-fairness-evaluation.md)
 - [Future research directions for reducing the LLM consistency gap on multistep clinical cases](future-research-reduce-consistency-gap.md)
 - [Evaluate LLMs for educational use with repeated-attempt consistency testing rather than single-attempt performance only](repeated-attempt-llm-evaluation-strategy.md)
+- [Use LLM chatbots as interactive tutors for mechanics concepts while verifying reliability and addressing ethics and bias](llm-chatbot-tutors-mechanics-with-verification-caveats.md)
 
 ## Examples
 -

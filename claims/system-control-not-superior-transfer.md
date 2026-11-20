@@ -58,3 +58,4 @@ The review attributes this conclusion to Salden, Paas, van der Pal and van Merri
 - [Reflected case-based training combined with explicit strategy instruction and adaptive tutoring yields the best transfer performance, whereas strategy instruction without tutoring adds no benefit over case-based training alone](tutored-strategy-training-most-effective-for-inference-drawing.md) — reports the opposite
 - [In the Academically Productive Talk system, review material and higher student skill level normally yielded better learning results](apt-moderators-material-and-skill-level.md) — related
 - [Piloting does not necessarily lead to the intended perception or increase of knowledge, since students follow directives without discussing meaning](piloting-not-necessarily-knowledge-gain.md) — related
+- [A key gap in personalized gamification research is static assignment of students to predetermined groups without fluidity](static-personalization-grouping-gap.md) — related

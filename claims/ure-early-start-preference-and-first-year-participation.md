@@ -67,3 +67,4 @@ Reported start timing from the same survey: "only about a third (38%) began cond
 ## Related Claims
 - [Students without research experience learned about UREs from fewer sources, within an informal, decentralized information environment](informal-ure-information-sources-fewer-without-experience.md) — related
 - [Students reported recalling more information with the TtR and enjoyed discussing answers with classmates, but asked for the activity to start earlier in class](ttr-student-perceptions-recall-and-interaction.md) — related
+- [Most interviewees wished their departments provided more structure and guidance during the research group search, particularly for connecting with faculty and peers](wishing-for-more-structure-group-search.md) — related

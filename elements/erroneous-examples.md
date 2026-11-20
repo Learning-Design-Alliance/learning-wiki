@@ -18,7 +18,7 @@ sources:
 # Erroneous Examples
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (4 for, 5 mixed, 1 against) · 5 studies (2 causal, 1 quant-synthesis, 1 review, 1 associational), `q2`–`q3` · 2 of 5 report an effect size · 9 claims rest on one study
+> **Evidence** · 11 claims (5 for, 5 mixed, 1 against) · 6 studies (2 causal, 1 quant-synthesis, 1 review, 1 associational, 1 design), `q2`–`q3` · 2 of 6 report an effect size · 10 claims rest on one study
 
 ## Description
 Erroneous examples are worked examples that intentionally contain a mistake for learners to identify, explain, and correct. They are useful when the design goal is to make misconceptions visible and strengthen conceptual discrimination, not just demonstrate a correct procedure.
@@ -57,6 +57,7 @@ Erroneous examples are worked examples that intentionally contain a mistake for 
 - [Correlations between the number of prompt mistakes and number of messages sent were non-significant or weak, giving little evidence that mistake count influenced prompting effort](../claims/mistake-count-message-count-weak-correlation.md) [~W]
 - [Prior knowledge moderates the effectiveness of erroneous and contrasting erroneous examples, with low-prior-knowledge learners benefiting in several studies but findings contradictory](../claims/prior-knowledge-moderates-errex-effectiveness.md) [~W]
 - [Time on task does not explain the erroneous-examples delayed learning advantage](../claims/time-on-task-does-not-explain-delayed-advantage.md) [~W]
+- [On its first exam use with 358 PHYS 115 students, the student error task yielded a mean score of 60% (median 70%, SD 26%), with 13% of students identifying all three embedded errors](../claims/student-error-task-first-exam-results.md) [+W] — attached 2026-11-20 from Colin S. Wallace et al. (2023), which proposed "Student error task: an exam question presenting a fictional student's erroneous work for real students to identify and explain"; tests this page's relationship.
 
 ## Related Elements
 - [Worked Examples](worked-examples.md)

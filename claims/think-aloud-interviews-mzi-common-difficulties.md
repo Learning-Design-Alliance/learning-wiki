@@ -60,3 +60,5 @@ Qualitative interview study during QuILT development. Common difficulties includ
 - [Students struggle with wave-particle duality of single photons, treating a photon as a point particle or as split into two photons after BS1](students-treat-single-photon-as-point-particle-mzi.md) — related
 - [Student understanding of wave-particle duality falls into three clusters ranging from classical to quasiquantum description](three-clusters-wave-particle-duality-understanding.md) — related
 - [Setting up and manipulating optics and taking and analyzing data are the most common student actions in single-photon experiment courses](single-photon-experiment-student-actions.md) — related
+- [Students show inconsistent understanding of the wave nature of particles: about 65% identify electron-wave peaks as probability amplitude but only 35% call the wave nature of a particle a probability wave](inconsistent-probability-wave-understanding.md) — related
+- [Roughly 30% of students report the classical misconception that light needs a medium to travel](light-needs-medium-misconception.md) — related

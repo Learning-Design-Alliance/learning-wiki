@@ -71,3 +71,4 @@ RQ2 thematic analysis of focus groups reports this tension in participants' ethi
 - [AI in accountability-oriented policy risks automated decision-making replacing human judgment and poor-quality data driving high-stakes decisions](aied-policy-automated-accountability-risks.md) — related
 - [Adult learners view building an ethical learner-AI relationship, with baked-in AI ethics norms, as important for socio-emotional interaction](ethical-learner-ai-relationship-socio-emotional.md) — related
 - [Panelists identified professionalism, reflective practice, and critical thinking—including bias awareness and data-informed decision-making—as a core domain](smh-collab-professionalism-reflective-practice-domain.md) — related
+- [Attaining higher-order Bloom's skills such as create and plan requires retained lower-order knowledge, so lower skills cannot simply be delegated to lookup tools like ChatGPT](higher-order-bloom-skills-require-lower-order-knowledge.md) — related

@@ -50,3 +50,4 @@ Authors' discussion comparing their percentage agreement with prior work: "ref.4
 - [A fine-tuned BERT model achieves almost perfect agreement with human coders when classifying student self-affirmation essays, matching human-human reliability](fine-tuned-bert-matches-human-coders-self-affirmation-essays.md) — related
 - [GPT-3 classified students' open-ended responses about teaching practices with reliability similar to that of human coders](gpt3-coding-reliability-similar-to-humans.md) — related
 - [Four distinct behavioral clusters in collaborative tutorial video are reliably codable, with 90% inter-rater agreement to five seconds' accuracy](four-behavioral-clusters-tutorial-video.md) — related
+- [Trained logistic-regression coefficients align with the human coding scheme's inclusion and exclusion criteria](model-coefficients-align-with-coding-scheme-criteria.md) — related

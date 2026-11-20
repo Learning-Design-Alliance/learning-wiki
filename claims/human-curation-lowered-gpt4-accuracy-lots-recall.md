@@ -50,3 +50,4 @@ Discussion section reporting the effect of human-curated answers on measured acc
 - [The 2022 Taiwanese TCM licensing examination questions were predominantly HOTS (55.3%), SAMC format (92.2%), and negatively framed (62.2%)](tcm-2022-exam-question-characteristics-hots-samc-negative.md) — related
 - [GPT-4 accuracy did not significantly correlate with most question characteristics, though TCM internal medicine, dermatology, and acupuncture showed significantly better performance](gpt4-accuracy-question-characteristics-no-significant-correlation.md) — related
 - [Most GPT-4 errors on TCM examination questions stemmed from misunderstanding of TCM concepts (55.3%), not misreading questions](gpt4-tcm-errors-concept-misunderstanding-55-3.md) — related
+- [LLM scores are more consistent across trials than human scores, with GPT-4 using explanations showing the greatest confidence](llm-trial-consistency-exceeds-human-consistency.md) — related

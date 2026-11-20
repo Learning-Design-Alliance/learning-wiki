@@ -51,3 +51,4 @@ Authors' summary of multiple surveys administered in two small IPLS test classes
 - [Post-program surveys show most students felt more likely to pursue STEM, more comfortable in university labs, and found the program appropriately challenging](discovery-survey-attitudes-comfort-pursuit.md) — related
 - [Students sometimes perceived the Arduino lab work as extra work tangential to the course syllabus and their careers](arduino-lab-perceived-as-extra-work.md) — reports the opposite
 - [Students in the author's course come to name DA as an important thing learned and pre-meds report it valuable for the MCAT](students-report-da-valuable-mcat.md) — related
+- [Most students in the reformed lab reported a favourable perception of the laboratory experience and responded positively to the introduction of Arduino boards](positive-student-perception-arduino-lab.md) — related

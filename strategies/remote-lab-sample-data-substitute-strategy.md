@@ -52,6 +52,7 @@ When pandemic conditions halted in-person instruction, the authors provided remo
 - [Blend asynchronous and synchronous sessions with technical support and virtual simulations when delivering flipped classrooms remotely](blend-async-sync-tech-support-virtual-simulations-remote-flipped.md)
 - [Deliver hands-on teacher PD remotely by mailing equipment kits and streaming demonstrations synchronously](mail-home-kits-synchronous-zoom-pd.md)
 - [Use short in-house videos to complement lectures by making instruments, locations, and processes accessible, then engage students with a question](short-videos-complement-lectures-strategy.md)
+- [Incorporating simulated-data analysis into lab software to enable remote participation](simulated-data-mode-remote-lab-participation.md)
 
 ## Examples
 -

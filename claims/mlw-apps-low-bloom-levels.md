@@ -50,3 +50,4 @@ Activity classification of the 71 apps by Bloom's taxonomy shows low-level activ
 - [Examination questions at one Pakistani agricultural university concentrated at the lower cognitive levels of Bloom's Taxonomy, dominated by comprehension and knowledge](exam-questions-concentrate-lower-bloom-levels.md) — related
 - [Exercise use by Bloom's taxonomy level differs by subject: languages emphasize remember/understand, societal subjects analyze/evaluate, science shows little use of higher levels](bloom-level-use-varies-by-subject.md) — related
 - [Most student–AI interactions occur at the understand and apply Bloom levels, with analyze appearing rarely](cognitive-intent-mostly-understand-apply.md) — related
+- [Most learning outcomes in Miami University's cybersecurity curriculum sit at the low Bloom's Taxonomy levels of Remember, Understand, and Apply](cybersec-curriculum-los-low-bloom-distribution.md) — related

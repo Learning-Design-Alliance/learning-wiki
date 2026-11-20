@@ -48,6 +48,7 @@ Because generative AI can produce notes and MCQs outside class, the authors prop
 - [Use LLMs as faculty-supervised adjuncts for automated MCQ pretesting and formative feedback](llm-faculty-supervised-mcq-pretesting-feedback.md)
 - [Pair AI-permitted take-home assignments with supervised modifications, oral defense, prediction, and transfer tasks to verify understanding](direct-conceptual-assessment-supervised-defense-transfer.md)
 - [Frame LLM use in biomedical education around low‐stakes formative tasks with expert‐guided verification and rationale requests](llm-low-stakes-formative-use-expert-verification-strategy.md)
+- [Conduct Level 1 (no-AI) assessments under supervision or as low-stakes formative tasks to protect equity](supervise-no-ai-level-1-assessments.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ The authors' qualitative review of six popular undergraduate modern physics text
 - [Instructors' major concern is students' conceptual difficulties in QM, which one instructor viewed as avoidable in many situations if inaccurate descriptions are not taught](qm-instructors-conceptual-difficulties-primary-concern.md) — related
 - [One semester of modern physics instruction significantly shifts student reasoning toward quantum-specific justifications on a measurement statement.](modern-physics-instruction-shifts-quantum-reasoning.md) — related
 - [Modern textbooks covering all four periods of quantum mechanics improved students' ability to develop quantum mechanics skills in an overall context](modern-texts-improve-overall-skills.md) — related
+- [After standard instruction, non-major physics undergraduate students encounter difficulties across all thematic units of the Theory of Relativity](relativity-difficulties-after-standard-instruction.md) — related

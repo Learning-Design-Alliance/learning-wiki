@@ -47,3 +47,4 @@ Qualitative case study: 52 Chinese-educated undergraduates over four years recei
 ## Related Claims
 - [Asking introverted Chinese learners to express perceptions of online feedback through metaphors elicited more profound reflection than direct questions](metaphor-elicits-profound-reflection-introverted-learners.md) — related
 - [Students with better computer knowledge had more positive attitudes toward the virtual museum application.](computer-knowledge-moderates-virtual-museum-attitudes.md) — related
+- [EFL learners strongly need rubric-based scores and immediate feedback, but few receive instructor feedback](efl-learners-need-scores-and-feedback.md) — related

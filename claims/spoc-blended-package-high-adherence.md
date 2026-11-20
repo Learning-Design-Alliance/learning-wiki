@@ -68,3 +68,4 @@ Intervention adherence assessed using platform-generated learning records and in
 - [Blended PbL students attend fewer lectures on site but watch more lecture videos than conventional PbL students](bpbl-shifts-lecture-attendance-to-videos.md) — related
 - [Most students in the blended PBL course showed improvements in information searching, reflection before intervening, debating, attendance, and communication](pbl-skills-improvements-blended-course.md) — related
 - [Participation in the Gravitas online seminars was substantial, with around 270 visualizations per YouTube video and 80 students on average during live sessions](gravitas-online-seminar-participation.md) — related
+- [The cohort scored a mean quiz grade of 78.0 ± 12.4 out of 100](quiz-mean-grade-78-out-of-100.md) — related

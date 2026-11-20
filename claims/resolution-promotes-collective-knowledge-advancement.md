@@ -51,3 +51,4 @@ The article's summary finding, stated by the authors as their overall conclusion
 - [Fifth graders in peer critique predominantly used soft (implied and/or mitigated) rather than direct forms of disagreement](students-soft-disagreement-peer-critique.md) — related
 - [Nearly all peer critique disagreements were resolved, mostly through concession, with co-construction appearing only in soft and mixed disagreements](disagreement-resolution-consensus-concession.md) — related
 - [Mixed and exclusively soft disagreement episodes featured more extended turns and more perspectives than exclusively direct episodes](mixed-soft-episodes-longer-more-perspectives.md) — related
+- [Analysis of one PD episode identifies four types of comfort-building moves that mitigate socio-emotional risk](four-comfort-building-move-types.md) — related

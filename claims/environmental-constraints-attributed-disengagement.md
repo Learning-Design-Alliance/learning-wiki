@@ -64,3 +64,4 @@ Semi-structured interviews with 28 purposively sampled teachers selected via hie
 - [Learner disengagement is widespread in developed countries' school systems](learner-disengagement-developed-countries-survey-data.md) — related
 - [Environmental barriers and supports across policy, practice, attitude, and knowledge/skill domains affect communicative competence](environmental-barriers-supports-aac-competence.md) — a broader claim this one bears on
 - [The authors identify disadvantages of organizing blended learning with Google Classroom, including predominance of external motivation, low readiness of some students, insufficient technical support, and the need for extra-curricular pedagogical support](google-classroom-blended-learning-disadvantages.md) — related
+- [Google Colab notebooks proved a challenging coding interface for teenage learners in the bootcamp](google-colab-challenging-coding-interface-teens.md) — related

@@ -79,3 +79,4 @@ Frustration violated normality, so medians and a Wilcoxon signed-rank test were 
 - [Just-in-time coaching significantly lowered trainee cognitive load on the mental demand, temporal demand, effort, and frustration NASA-TLX domains](jit-coaching-lowers-cognitive-load-nasa-tlx.md) — related
 - [Junior trainees reported significantly lower effort and frustration with AR-US than with S-US](ar-us-junior-trainees-lower-effort-frustration.md) — related
 - [AR workshop students reported significantly higher physical demand and effort on NASA-TLX than non-AR students](ar-higher-physical-demand-effort-nasa-tlx.md) — related
+- [VR-trained students reported mixed workload profiles: less temporal demand but more mental demand, physical demand, and effort than controls, none statistically significant](vr-mixed-nasa-tlx-workload-profile.md) — related

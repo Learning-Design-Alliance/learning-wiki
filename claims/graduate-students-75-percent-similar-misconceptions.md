@@ -70,3 +70,4 @@ Analysis of graduate student response patterns in Table V shows the same misconc
 - [Graduate students scored significantly higher than undergraduates on the QMFPS, but both groups struggled](graduate-students-outperform-undergraduates-qmfps.md) — related
 - [Upper-level undergraduates outperformed physics graduate students on the posttest, possibly due to grade incentive differences between courses](undergraduates-outperformed-graduates-posttest-grade-incentive.md) — reports the opposite
 - [Students who used a guided-inquiry tutorial on superposition with Gauss's law significantly outperformed comparison students on post-test questions (p < 0.001)](superposition-gauss-law-tutorial-improves-post-test.md) — related
+- [Group performance on the QMFPS exceeded individual performance (72% vs 53%) after lecture-based instruction](qm-peer-group-beats-individual-qmfps.md) — related

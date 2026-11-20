@@ -59,3 +59,4 @@ Descriptive Kirkpatrick level-1 (reaction) results from the end-of-program quest
 - [All residents rated the training very important and approved it despite having little prior box trainer and no animal training experience](residents-rated-training-very-important.md) — related
 - [Midwives rated the compact training highly, with 81% rating it excellent and all stating they would recommend it](high-satisfaction-compact-training.md) — related
 - [Students rated the dermatology e-learning course highly, with 90.9% rating it very good to excellent](elearning-dermatology-high-satisfaction-90-9.md) — related
+- [Students in the two editions achieved around 90% approval, an average grade of 15.5 out of 20, and gave the course the maximum student rating](quantum-chapter-approval-grades-ratings.md) — related

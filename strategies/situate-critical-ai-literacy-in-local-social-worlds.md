@@ -41,6 +41,7 @@ For curriculum designers and policymakers, the paper recommends shifting critica
 ## Related Strategies
 
 - [Structure opportunities for students to evaluate AI outputs using locally grounded criteria of relevance, harm, and usefulness](evaluate-ai-outputs-locally-grounded-criteria.md)
+- [Incorporate real-world situations and case studies into curricula to situate theoretical ideas in practical contexts](real-world-cases-situate-theory-strategy.md)
 
 ## Examples
 -

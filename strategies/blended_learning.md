@@ -104,6 +104,7 @@ Blended designs outperform either mode alone when the two components are deliber
 - [Blend didactic lectures with small-group active learning activities in biostatistics teaching](blended-small-group-biostatistics-teaching.md)
 - [Use a blended e-learning plus face-to-face approach as a cost-effective way to deliver continuing medical education to clinicians](blended-elearning-facetoface-cost-effective-cme.md)
 - [Fully web-enhanced lab delivery through an LMS with recorded sessions in synchronous and asynchronous modes](lms-recorded-synchronous-asynchronous-lab-delivery.md)
+- [Implement LMS, Moodle teaching, instructor personal webpages and virtual labs to improve blended learning quality in Ghanaian universities](lms-moodle-webpages-virtual-labs-improvement-strategy.md)
 
 ## Related Elements
 - [Lectures](../elements/lectures.md) — typically relocated to the online strand as recorded video

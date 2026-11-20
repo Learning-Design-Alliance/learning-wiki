@@ -63,6 +63,7 @@ Time pressure focuses attention and prevents the diffusion that occurs when task
 - Brain breaks — the complement to timed work intervals
 - [Manage pacing within a 40-minute period so AI comparison immediately follows manual estimation](immediate-ai-comparison-after-manual-estimation-pacing.md)
 - [Pace AI workshops to meet all students' needs, providing written extension tutorials for advanced students while keeping a low barrier to entry](pacing-with-extension-opportunities-strategy.md)
+- [Design future interventions that nudge students toward exploratory, reflective practice behaviors (many sets/unsets with deliberate pacing) in open-ended tasks](nudge-toward-reflective-exploration-behaviors.md)
 
 ## Examples
 - **[Pomodoro Technique](pomodoro-technique.md)** (https://francescocirillo.com) — 25-minute focus intervals with 5-minute breaks, widely adapted for study skills instruction.

@@ -48,3 +48,4 @@ Exploratory one-hour think-aloud Zoom interviews with 22 undergraduates in an up
 ## Related Claims
 - [Graduate students typically recognized the dominance of exponential growth faster than undergraduates when confronted with scaling arguments](graduate-students-faster-recognize-exponential-dominance.md) — related
 - [Students frequently attribute the classical-quantum distinction to the continuous nature of the quantum state, a framing better understood as analog-digital than quantum-classical](students-frame-quantum-difference-as-analog-digital.md) — related
+- [Pre-test laboratory reports often conclude RC decay is exponential and lack an argument that the data support a model within error](pretest-reports-lack-modeling-awareness.md) — related

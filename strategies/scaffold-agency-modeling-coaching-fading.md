@@ -48,6 +48,7 @@ The article recommends supporting students to make their own decisions in open-e
 - [Guided Play](guided-play.md)
 - [Design AI-supported programming courses with critique-the-AI phases, planned fading, and verification journals](critique-ai-phases-planned-fading-verification-journals.md)
 - [I Do, We Do, You Do](i_do_we_do_you_do.md)
+- [Adapt open-endedness to learner skill level and scaffold exploration with graduated guidance](adapt-open-endedness-to-skill-level.md)
 
 ## Examples
 -

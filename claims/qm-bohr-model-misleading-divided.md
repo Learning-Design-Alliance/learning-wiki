@@ -69,3 +69,4 @@ Shabnam Siddiqui and Chandralekha Singh. (2010). Surveying Instructors’ Attitu
 - [Instructors varied on emphasizing connections between classical mechanics and QM, with several focusing mainly on the differences](qm-cm-connections-emphasis-varied.md) — related
 - [Secondary and lower undergraduate students have difficulty letting go of Bohr's planetary atomic model](difficulty-letting-go-bohr-planetary-model.md) — related
 - [Over-emphasis on classical physics concepts can give students misconceptions and an incorrect image of science](classical-emphasis-leads-to-misconceptions-incorrect-image.md) — a broader claim this one bears on
+- [Most students retain the classical Rutherford or Bohr model of the atom despite later instruction in the quantum-mechanical model](students-retain-bohr-model-despite-quantum-instruction.md) — related

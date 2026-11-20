@@ -66,3 +66,4 @@ Paired t-test analyses stratified by round of question introduction (Bonferroni-
 ## Related Claims
 - [Lower question completion, PGY3 class and non-daily play predicted longitudinal attrition in a gamified knowledge competition.](attrition-predictors-completion-class-play-style.md) — related
 - [Content-retention scores rose from initial exam to final exam among students who initially failed to master microbiology course material and mastered it during oral examination retesting](oral-retest-improves-retention-low-performers.md) — related
+- [A gamified re-attempt marking scheme and free question navigation reportedly increased students' motivation to revisit tasks](ejss-gamified-marking-increased-re-attempt-motivation.md) — related

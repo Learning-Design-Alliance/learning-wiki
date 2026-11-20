@@ -69,3 +69,4 @@ The synthesis reports, citing the same global faculty survey, that "Preferences 
 - [Institutions diverge in default GenAI permission stances, ranging from unauthorized-unless-authorized to program-level carve-outs where instructors may not ban AI use](genai-default-permission-stance-divergence.md) — related
 - [Universities converge on disclosure and attribution expectations as the condition distinguishing legitimate AI assistance from misrepresentation](genai-disclosure-attribution-convergence.md) — related
 - [Chinese HSS students prefer partial or optional GenAI curricular integration supported by practice-oriented training and clear institutional guidelines](genai-partial-integration-preferences-hss.md) — related
+- [Academic publishers permit declared GenAI use and AI-text detection tools show significant limitations, undermining prohibition-and-detection approaches](genai-publishers-permit-declared-use.md) — related

@@ -53,3 +53,5 @@ Analysis of the fraction of interaction-network edges kept in the recognition ne
 - [Bias against female classmates was stronger in physical science courses: participants in life science courses selected higher proportions of women in all four nomination categories](course-type-moderates-peer-gender-bias.md) — related
 - [Higher final course grades relate to more lecture interaction connections in all four remote courses, but lab connections are mostly unrelated to grades except in EM-Eng](grades-lecture-not-lab-connections.md) — related
 - [Women disproportionately under-nominate men as strong in the spring offering of the lecture course, contrary to prior predictions](women-under-nominate-men-spring-lecture.md) — related
+- [Men and women receive proportional recognition in lab contexts, but men receive disproportionately more recognition than expected in lecture contexts](received-recognition-proportional-lab-biased-lecture.md) — related
+- [On aggregate, men report significantly higher perceived peer recognition than women in both lab and lecture contexts, with small effect sizes](aggregate-gender-gap-perceived-recognition-small-effect.md) — related

@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 706 claims (491 for, 187 mixed, 28 against) · 452 studies (202 causal, 91 design, 80 review, 38 quant-synthesis, 20 associational, 18 qualitative, 3 theoretical), `q1`–`q4` · 60 of 452 report an effect size · 695 claims rest on one study
+> **Evidence** · 707 claims (492 for, 187 mixed, 28 against) · 453 studies (203 causal, 91 design, 80 review, 38 quant-synthesis, 20 associational, 18 qualitative, 3 theoretical), `q1`–`q4` · 60 of 453 report an effect size · 696 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -765,6 +765,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Pre- to post-exam gains of 30% to 50% were obtained across the simulations tested at UTEP and UWO](../claims/simulation-pre-post-gains-30-50-percent.md) [+W] — attached 2026-11-18 from J. A. López et al. (2018), which proposed "Set of computer simulations of fundamental modern physics experiments with introductions, activity guides, and assessment instruments"; tests this page's relationship.
 - [The gamified 2D-random-walk dice experiment was rated easy by more than half of elementary participants, but goal-setting caused data loss at large trial numbers](../claims/dice-random-walk-experiment-easy-but-goal-causes-data-loss.md) [~M] — attached 2026-11-19 from Makito Miyazaki et al. (2022), which proposed "Dice game sheet for simulating 2D random walk".
 - [Students in the VR parallax activity measured parallactic motion in VR and derived quantitative star distances, with the vast majority performing well on the tasks](../claims/vr-parallax-quantitative-worksheet-performance.md) [+W] — attached 2026-11-19 from Gur Windmiller et al. (2021), which proposed "Two-part Unity VR stellar parallax activity: distance-ranking game followed by quantitative parallax measurement from an Earth orbit".
+- [Students engaged as productively with model-generating NOMR VR labs as with hands-on ISLE labs, with zero boredom, worry, or apathy reported in VR2 and VR3](../claims/nomr-vr-engagement-comparable-hands-on.md) [+W] — attached 2026-11-20 from Jared P. Canright et al. (2023), which proposed "Novel Observations in Mixed Reality (NOMR) labs"; tests this page's relationship.
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

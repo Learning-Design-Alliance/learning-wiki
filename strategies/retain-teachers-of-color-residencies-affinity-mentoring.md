@@ -53,6 +53,7 @@ The brief warns that recruitment efforts "are compromised when districts and sch
 - [State and federal policy recommendations: recruit and prepare more candidates, retain new teachers through early-career mentoring, and improve working conditions](teacher-shortage-policy-recommendations.md)
 - [Underwrite comprehensive preparation, improve teaching conditions, raise compensation, and expand induction to retain teachers of color](retain-teachers-of-color-four-policy-levers.md)
 - [Support teacher residency programs, which are associated with higher retention rates for teachers of color](teacher-residency-programs-retain-teachers-of-color.md)
+- [Actively support student community formation through counterspaces, cohort-bonding, and affinity groups, with implicit bias training for advisors](counterspaces-cohort-bonding-inclusive-community.md)
 
 ## Examples
 -

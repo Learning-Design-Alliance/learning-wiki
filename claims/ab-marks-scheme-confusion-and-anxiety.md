@@ -50,3 +50,4 @@ Practice-based report from the authors' trial of the A/B marks scheme in their e
 ## Related Claims
 - [Traditional exams behave like implicit tiered assessment but retain workload, anxiety and grade-inflation problems](traditional-exams-pass-at-fifty-percent-dilutes-competence-evidence.md) — related
 - [Authors judge the revised tiered scheme successful, with advanced tasks rewarding and learnable by choice](authors-judge-tiered-scheme-works-student-feedback.md) — related
+- [A gamified re-attempt marking scheme and free question navigation reportedly increased students' motivation to revisit tasks](ejss-gamified-marking-increased-re-attempt-motivation.md) — related

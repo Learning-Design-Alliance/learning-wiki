@@ -56,3 +56,4 @@ Participatory design study in which two K-12 interns gave daily and weekly feedb
 - [Iterative refinement across ten academic cycles improved scenario fidelity, debriefing structure, and CR alignment](iterative-refinement-ten-academic-cycles.md) — related
 - [Moderator engagement evolved from structured, formal guidance toward informal, personalized, and more complex dialogue over the cycles](moderator-engagement-progression-informal-complex.md) — related
 - [In the roller coaster loop dialogue, ChatGPT excelled at providing clear explanations, addressing misconceptions, and promoting active learning through Socratic questioning.](chatgpt-socratic-roller-coaster-active-learning.md) — related
+- [Worked ChatGPT prompt-and-response examples are presented as accelerating cybersecurity learning outcomes toward higher Bloom's Taxonomy levels, with ChatGPT acting as a tutorial or personalized tutor](chatgpt-examples-accelerate-cybersec-los-bloom-levels.md) — related

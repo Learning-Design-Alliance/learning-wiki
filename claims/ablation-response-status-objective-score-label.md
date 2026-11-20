@@ -67,3 +67,4 @@ Repeat of the ablation study with response status removed from the input and its
 ## Related Claims
 - [Without response status information, Process-BERT still predicts the NAEP score label well from behavior alone, though CKT slightly and non-significantly outperforms it](behavior-only-score-prediction-high-auc.md) — related
 - [On the finer-grained per-question label, Process-BERT slightly outperforms CKT with and without response status, with lower AUC than the score label](per-question-label-prediction.md) — related
+- [Fine-grained per-question simulation of post-test performance outperforms whole-question-set simulation, with pre-test information and engagement improving realism](fine-grained-question-simulation-outperforms-coarse.md) — related

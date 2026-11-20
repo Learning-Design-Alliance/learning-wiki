@@ -47,6 +47,7 @@ The article notes phrasing matters for equity and inclusion, citing McCullough &
 
 - [Reword learning outcomes with broadly applicable terms ('healthcare seeker', 'health professional') to support interprofessional application](reword-outcomes-with-healthcare-seeker-and-health-professional.md)
 - [Test-drive draft pre-/post-quizzes with colleagues and former students before first use](test-drive-draft-pre-post-quiz.md)
+- [Refine flagged assessment items by rewording ambiguous distractors and using student interviews](student-interview-distractor-refinement-strategy.md)
 
 ## Examples
 -

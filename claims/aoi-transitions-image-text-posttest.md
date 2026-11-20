@@ -50,3 +50,4 @@ Individual-level Pearson correlations during the poster phase of the within-grou
 - [Gaze similarity is stable across tasks: poster-phase gaze and transition measures correlate with game-phase gaze similarity](gaze-similarity-stable-across-tasks.md) — related
 - [Dyads with high gaze similarity during poster reading attain high average first posttest scores in informal learning](gaze-similarity-poster-learning-gain.md) — related
 - [Speech episodes strengthen the relation between gaze similarity and posttest scores in both poster and game phases](speech-episodes-moderate-gaze-learning.md) — related
+- [Peer attention cues increase valid focus, course following, and crowd gaze consistency, yet students retain adaptability in following peer cues](peer-attention-shapes-gaze-with-retained-adaptability.md) — related

@@ -51,3 +51,5 @@ Correlational analysis of difficulty indices computed for ten open-ended items f
 - [Scorer severity and standard difficulty were statistically adjusted using Many-Facet Rasch analysis before assignment and work measures were compared](rasch-adjustment-of-scorer-severity.md) — related
 - [CTT-based quiz difficulty rankings are validated by IRT analysis with near-perfect rank correlation](irt-validates-ctt-quiz-difficulty-ranking.md) — related
 - [Rasch analysis shows DialogPR item difficulty spans −2.00 to 1.06, with recall, discussion-before-reading, and completion prompts least endorsed and responding, discussion-after, and wh-/open-ended questions most endorsed](dialogpr-rasch-item-difficulty-ordering.md) — related
+- [CTT and IRT produce statistically comparable student ability estimates on the LPCA at the test level](ctt-irt-comparable-lpcb-ability-estimates.md) — related
+- [CTT and IRT item difficulty and discrimination indices do not differ significantly for the LPCA](ctt-irt-item-parameters-no-significant-difference.md) — related

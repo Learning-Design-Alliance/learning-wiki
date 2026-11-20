@@ -70,3 +70,5 @@ Blind-graded GPT-4o responses (ten per graph, full versus minimal BLI graph vers
 - [ChatGPT-4o's accuracy on U.S. Dental Decks was consistent across question formats (plain-text, case-box, and image-based)](chatgpt-4o-us-question-format-consistency.md) — reports the opposite
 - [ChatGPT underperforms doctoral students on long-answer experimental design questions, driven by poor apply-level control answers](chatgpt-underperforms-long-answer-apply-level-controls.md) — related
 - [Generative AI excels at processing digital text but struggles with interpreting text from images](genai-visual-comprehension-gap-images.md) — related
+- [Transcribing one TUG-K graph item into text raised ChatGPT's correctness from 10% to 100%](graph-transcription-bypasses-vision-failure.md) — related
+- [ChatGPT can be unreliable even on basic conceptual physics tasks when vision is correct, as on item 17 (5% correct vs 70% for students)](chatgpt-uncanny-reasoning-failures.md) — related

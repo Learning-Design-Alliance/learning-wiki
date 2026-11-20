@@ -72,3 +72,4 @@ The article's review of astronomy education research states that E3D from one- o
 - [Neural-network predictions agree with the analytical solution within the training domain and can extrapolate when the wavelength-distance product falls within the support of the training distribution, but fail when it does not](nn-extrapolation-lambda-z-support.md) — related
 - [Students in the VR parallax activity measured parallactic motion in VR and derived quantitative star distances, with the vast majority performing well on the tasks](vr-parallax-quantitative-worksheet-performance.md) — related
 - [Tactile 3D sky models help BVI users build a spatial mental image of the distribution of sky elements](tactile-sky-models-spatial-mental-image-bvi.md) — related
+- [Careless selection of astronomy images can promote undesirable alternative concepts, so image selection and detailed descriptions are crucial](image-selection-prevents-alternative-concepts-astronomy.md) — related

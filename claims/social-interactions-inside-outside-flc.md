@@ -50,3 +50,4 @@ Results-section theme on social interactions across the three cases, drawing on 
 - [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — related
 - [Honours community members perceive a safe and supportive environment that facilitates exploring new ideas](honours-community-safe-supportive-learning-environment.md) — related
 - [In communities with engagement and facilitation, members willingly shared artifacts and gave feedback, while programming-course communities produced little interaction beyond code-error questions and snippet sharing.](facilitation-enables-artifact-sharing-and-feedback.md) — related
+- [All 13 teachers valued exchanging and developing pedagogical ideas and instructional materials with peers in the responsive PD community](peer-pedagogical-sharing-valued-by-all-teachers.md) — related

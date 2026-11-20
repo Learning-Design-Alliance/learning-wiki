@@ -70,3 +70,5 @@ Qualitative judgement of GPT-3.5's explanations: ten were exactly correct, five 
 - [When GPT-4V answered incorrectly, its explanations frequently contained image misunderstandings, reasoning errors, and hallucinations](gpt4v-poor-explanations-incorrect-answers.md) — related
 - [An exploratory LLM-judge audit labels knowledge gaps (39.1%) and reasoning errors (26.9%) as the most frequent failure modes among incorrect frontier-model responses](llm-judge-audit-failure-modes.md) — related
 - [Health care professionals rated GPT-4V's explanations nearly on par with expert explanations when answers were correct, but overwhelmingly preferred expert explanations when answers were incorrect](explanation-preference-correct-versus-incorrect.md) — related
+- [Requiring explanations before answers increases the randomness of LLM incorrect answers and the confidence of correct ones](explanations-randomize-incorrect-boost-confidence.md) — related
+- [Humans and GPT-3.5 show guessing preferences among options while GPT-4 shows no discernible preference](guessing-preference-humans-gpt35-gpt4-no-bias.md) — related

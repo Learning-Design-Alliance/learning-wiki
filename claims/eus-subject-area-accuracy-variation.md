@@ -53,3 +53,4 @@ Subject-area breakdown of the same 84-question EUS benchmark (Table 2). Pharmacy
 - [LLM accuracy varied by subject area, with oral pathology (94%) and salivary gland diseases (91.8%) highest and radiological anatomy (67.3%) lowest; only Copilot showed a statistically significant across-subject difference](subject-area-accuracy-variation-dus-llms.md) — related
 - [LLM accuracy is uniformly high in OT basic sciences but lower on OT-specific content, widening further on visuals](basic-sciences-high-ot-specific-lower.md) — related
 - [LLM accuracy varied sharply by histology topic: perfect in foundational areas and lowest in Muscle (76.0%)](histology-topic-difficulty-llm-performance.md) — related
+- [Students received the highest quiz grades on foundational topics like rational agents and the Turing test, while AI and Ethics and History of AI questions were challenging](quiz-grades-highest-rational-agents-turing-test.md) — related

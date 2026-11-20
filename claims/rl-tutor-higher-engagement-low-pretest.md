@@ -49,3 +49,4 @@ Engagement measured with a child-designed self-report instrument (1-4 scale) in 
 - [An RL narrative AI tutor produced no statistically significant overall improvement over a no-support control in either of two randomized studies](rl-narrative-tutor-no-overall-gain.md) — related
 - [Students with the lowest pretest scores (0-2) showed larger improvement in the RL narrative condition than control in both studies, significant in study 2 only before multiple-hypothesis correction](rl-tutor-benefits-low-pretest-students.md) — related
 - [Longer time on task in the RL condition occurred across all pretest groups, so time on task is unlikely to be the primary reason for the low performers' benefit](time-on-task-not-primary-mechanism.md) — related
+- [The benefits of hybrid human-AI tutoring are larger for lower pretest students than higher pretest students across all Site 1 measures](hybrid-tutoring-benefits-lower-pretest.md) — related

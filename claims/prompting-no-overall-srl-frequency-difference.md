@@ -53,3 +53,4 @@ Frequency analysis of coded think-aloud data (8349 coded activities) from the 33
 - [Metacognitive prompting increases domain-general metacognitive SRL activities (goal specification and strategic planning) in young learners in a CBLE](prompting-increases-domain-general-metacognitive-srl.md) — reports the opposite
 - [Prompted learners’ sequential SRL structure resembled traditional SRL models, using reflection more as an ending activity than unprompted learners](prompting-reflection-ending-activity-structure.md) — related
 - [Metacognitive prompting did not significantly support young learners’ recall learning performance](prompting-no-recall-performance-effect.md) — related
+- [No significant overall difference in Learner+AI task performance across guidance types or LLM prompting, though examples and metacognitive questioning paired with an unprompted LLM showed exploratory gains](no-overall-performance-difference-guidance-llm-type.md) — related

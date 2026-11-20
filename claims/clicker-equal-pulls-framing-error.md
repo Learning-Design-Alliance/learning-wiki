@@ -47,3 +47,4 @@ Clicker responses in the author's algebra-based introductory physics class at th
 ## Related Claims
 - [Asking students to draw a graph before showing multiple-choice options leads to a significantly higher percentage ultimately answering the clicker question correctly](draw-graph-first-improves-clicker-answers.md) — related
 - [Substance-based ontological metaphors for gravity served as the source for teachers' generation of a sophisticated argument about equal gravitational acceleration](substance-ontologies-seed-sophisticated-argument.md) — related
+- [Post-intervention, descriptions of motion in gravitational fields shift away from falling-toward-ground answers, with orbital-motion descriptions doubling](orbital-motion-descriptions-double.md) — related

@@ -70,3 +70,4 @@ The authors' interpretation drawn from one year of classroom use at WPI; no meas
 - [Undergraduate students learning electromagnetism created their own Maple routines for vector-calculus operators and explored the meaning of the operators by applying them to fields](undergraduates-create-maple-routines-vector-operators.md) — related
 - [Central quantum concepts are teachable with high-school mathematics on a single qubit](qubit-concepts-high-school-mathematics.md) — related
 - [Composer used alongside mathematical expressions helped students reason about the imaginary part of wavefunctions](composer-and-math-support-imaginary-part-reasoning.md) — related
+- [The lesson uses a simplified qubit model with real coefficients interpretable as circle coordinates, deliberately avoiding complex-number formalism](simplified-real-coefficient-qubit-model.md) — related

@@ -13,7 +13,7 @@ generated:
 # Hands-on Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 35 claims (30 for, 5 mixed) · 31 studies (12 causal, 10 design, 3 quant-synthesis, 3 review, 2 associational, 1 theoretical), `q1`–`q4` · 2 of 31 report an effect size · 34 claims rest on one study
+> **Evidence** · 36 claims (31 for, 5 mixed) · 32 studies (13 causal, 10 design, 3 quant-synthesis, 3 review, 2 associational, 1 theoretical), `q1`–`q4` · 2 of 32 report an effect size · 35 claims rest on one study
 
 ## Description
 Hands-on learning is the element in which learners manipulate materials, tools, or environments directly while applying ideas in practice. It is useful when understanding depends on doing, making, testing, or experiencing rather than only discussing.
@@ -74,6 +74,7 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 - [Custom home experiment kits for remote introductory physics labs met critical learning goals, with students perceiving benefits beyond simulations or instructor-provided data](../claims/home-experiment-kits-met-critical-learning-goals.md) [+W] — attached 2026-11-18 from Daniel Howard et al. (2020), which proposed "Custom low-cost home experiment kit for remote first-semester introductory physics labs"; tests this page's relationship.
 - [During the COVID-19 emergency Lab2Go created Lab2Go@home, promoting experiments with poor materials or low-cost tools such as smartphone apps and Arduino, and continued these activities after the emergency because of school interest](../claims/lab2go-home-covid-low-cost-experiments.md) [+W] — attached 2026-11-19 from Il progetto Lab2Go per la diffusione della pratica laboratoriale nelle Scuole Secondarie d, which proposed "Arduino kits in Lab2Go: low-cost boards for physics experiments repeatable at home and for transversal coding skills".
 - [Confidence-weighted microdevice physics scores significantly increase after the sticker microfluidics activity](../claims/significant-confidence-weighted-score-gains.md) [+W] — attached 2026-11-19 from Delgado et al. (2022), which proposed "Sticker microfluidics classroom activity with four multilayer devices of increasing complexity".
+- [Correct responses that triangle angle sums can differ from 180 degrees rise from 11.3% to 83.6% after the balloon-geometry activity](../claims/balloon-activity-triangle-angle-gains.md) [+W] — attached 2026-11-20 from Corey McInerney et al. (2023), which proposed "Balloon-and-triangle activity for non-Euclidean geometry".
 
 ## The evidence by question
 - *Does a concrete stage help at all over abstract symbols alone?* [Manipulatives Improve Math Learning](../claims/manipulatives-improve-math-learning.md) [+M]

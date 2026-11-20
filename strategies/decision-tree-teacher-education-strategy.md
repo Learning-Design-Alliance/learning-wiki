@@ -57,4 +57,4 @@ The authors recommend that teacher education courses use the decision tree as a 
 -
 
 ## Key Sources
-- Bitzenbauer, P., Teußner, T., Veith, J., & Kulgemeyer, C. (2023). (How) Do pre-service teachers use YouTube features in the selection of instructional videos for physics teaching? arXiv preprint. https://arxiv.org/abs/2307.16326
+- Bitzenbauer, P., Teußner, T., Veith, J., & Kulgemeyer, C. (2023). (How) Do pre-service teachers use YouTube features in the selection of instructional videos for physics teaching? arXiv preprint. https://arxiv.org/abs/2307.16326. [doi:10.1007/s11165-023-10148-z](https://doi.org/10.1007/s11165-023-10148-z)

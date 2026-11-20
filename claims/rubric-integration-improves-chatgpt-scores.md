@@ -52,3 +52,4 @@ Comparative trend analysis across ChatGPT submission versions (V1-V4) in the pil
 - [Prompt quality and detailed scoring rubrics significantly influence the accuracy and consistency of LLM-generated grades](prompt-rubric-quality-drives-llm-grading.md) — a broader claim this one bears on
 - [Simple prompt engineering partially improves ChatGPT's apply-level performance, eliminating the significant gap with students](prompt-engineering-improves-chatgpt-apply-level.md) — related
 - [Very top-performing students outscored the AI essays, while the majority of the cohort performed comparably or worse](cohort-distribution-versus-ai-scores.md) — related
+- [ChatGPT scores 100% on most database-course labs but fails UML/ER diagram tasks, scoring 28.5/30 on midterm 1 and 17/30 on midterm 2](chatgpt-database-course-variable-performance.md) — related

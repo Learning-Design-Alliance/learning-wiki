@@ -46,6 +46,8 @@ The article recommends that concerns about AI-generated content quality in educa
 - [Allocate human and AI effort by dimension type: automate explicit-criteria dimensions, retain human review for pedagogical judgment](human-ai-division-of-labor-mcq-generation.md)
 - [Human-in-the-loop evaluation of LLM assessment conversations for fairness, bias, and explainability](human-in-the-loop-llm-cba-fairness-evaluation.md)
 - [Center co-design with teachers and students throughout AI tool R&D, using human-in-the-loop workflows as a primary risk mitigation](co-design-human-in-the-loop-ai-edtech-strategy.md)
+- [Add human-in-the-loop capabilities so practitioners can edit or choose among LLM-generated tutoring script components](human-in-the-loop-cts-authoring-strategy.md)
+- [Instructors should review and edit all AI-generated feedback before sending it to students](human-in-the-loop-review-of-ai-feedback.md)
 
 ## Examples
 -

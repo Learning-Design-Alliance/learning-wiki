@@ -79,3 +79,4 @@ Quasi-experimental Pre-test-Post-test Non Equivalent Groups Design with 71 under
 - [A ChatGPT-supported virtual manipulative learning environment produces higher anatomy academic achievement than simulation-only and traditional teaching](chatgpt-virtual-manipulatives-higher-anatomy-achievement.md) — related
 - [The article claims ICT-based physics teaching offers multimedia visualization, virtual laboratories, individualized learning paths, and networked communication as advantages over paper-based means](ict-advantages-physics-teaching-kazakhstan.md) — related
 - [Undergraduate chemistry students taught the reformed TC course showed significant improvement, with approximately two-thirds learning new knowledge](tc-course-36-students-significant-improvement.md) — related
+- [Guided inquiry produces higher cognitive learning outcomes than conventional learning in chemistry](guided-inquiry-higher-cognitive-outcomes.md) — related

@@ -44,6 +44,7 @@ The study proposes moving beyond "what works for whom?" at the individual level 
 ## Related Strategies
 
 - [Eight research-design recommendations for the next generation of SEL research](eight-recommendations-future-sel-research.md)
+- [Personalize adaptive experiments with Contextual Thompson Sampling to discover what works best for which student groups](contextual-ts-personalization-cs1.md)
 
 ## Examples
 -

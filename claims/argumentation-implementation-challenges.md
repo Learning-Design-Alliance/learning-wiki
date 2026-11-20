@@ -64,3 +64,4 @@ Practitioner perspectives in the primer identify these barriers: scaffolding and
 - [Institutional support and opportunities to teach were identified as key facilitators, while time constraints were the primary barrier to sustained skill application](facilitators-and-barriers-to-sustained-teaching-skills.md) — related
 - [Five barriers hinder implementation of physically active university teaching: uncertainty, lack of space, lack of time, students' unwillingness to move, and organisational social norms](five-barriers-physically-active-teaching.md) — related
 - [Time constraints are the major barrier to implementing additional physical activity in schools](time-constraints-major-barrier-pa.md) — related
+- [Guided inquiry implementation in chemistry is hindered by required time and students unfamiliar with the approach](guided-inquiry-weaknesses-time-familiarity.md) — related

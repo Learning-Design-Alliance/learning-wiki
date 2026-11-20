@@ -51,3 +51,4 @@ Same Mantel-Haenszel observational analysis of iCMA items at the Open University
 - [No gender gap appeared on the multiple-choice final exam, which included both conceptual and quantitative questions on similar topics](no-gender-gap-final-exam.md) — related
 - [Scaffolding may reduce the gender gap on specific multi-dimensional problems: a low-scaffolding 2D projectile question shows a significant male advantage while a high-scaffolding counterpart shows none](scaffolding-reduces-gap-multidimensional-problems.md) — related
 - [The same student cohorts show no statistically significant gender gap in end-of-course examination performance](no-exam-gender-gap-same-cohorts.md) — related
+- [Q12 (projectile motion) was a dominant misconception for the male cohort but not for the female cohort](fci-q12-dm-male-not-female.md) — related

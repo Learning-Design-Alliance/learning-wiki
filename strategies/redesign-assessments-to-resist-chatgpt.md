@@ -60,6 +60,7 @@ The article recommends that university staff design assessments that are harder 
 - [Use masked ChatGPT responses in spot-the-bot activities to foster students' critical evaluation of scientific accuracy](spot-the-bot-chatgpt-evaluation-activity.md)
 - [Critically evaluate advertised green building solutions to develop students' critical thinking](critical-review-greenwashing-solutions.md)
 - [Provisional assessment-defence strategies: question styles AI struggles with, pre-approval open-book exams, and routine AI-capability monitoring](provisional-ai-assessment-defence-strategies.md)
+- [Students should learn to solve problems both with and without AI tools, and carefully benchmark AI solutions against their own understanding](student-ai-benchmarking-and-dual-skill-strategy.md)
 
 ## Examples
 -

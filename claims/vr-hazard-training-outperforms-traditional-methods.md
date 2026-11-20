@@ -48,3 +48,4 @@ The review reports, citing Sacks et al., that VR proved "a superior method for h
 - [Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies](vr-ar-advantages-achievement-motivation-with-null-contrast.md) — a broader claim this one bears on
 - [Children learning water-safety content via 360° VR videos, traditional video, or posters show similar learning gains, with 95% improving knowledge and retaining it at one and eight weeks](360-vr-water-safety-learning-gains-retention.md) — related
 - [No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability](no-difference-operational-skills-usability.md) — reports the opposite
+- [The VR group showed larger but non-significant cognitive gains than the control group overall and in each cognitive category](vr-larger-cognitive-gains-non-significant.md) — related

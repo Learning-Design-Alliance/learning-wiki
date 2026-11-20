@@ -51,3 +51,4 @@ Meta-analytic analysis coding exam content into fact learning, concept learning,
 - [Deep understanding is characterized by coherent, interconnected mental schemas that make knowledge transferable](understanding-as-connected-coherent-schemas.md) — a broader claim this one bears on
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [Erroneous examples produce significantly higher delayed-test learning gains than problem solving for decimal learning](erroneous-examples-delayed-learning-gain-decimals.md) — related
+- [Knowledge-state contents reconfigure AlgoBo's MCQ performance by knowledge type](reflect-respond-reconfigures-algobo-knowledge-level.md) — related

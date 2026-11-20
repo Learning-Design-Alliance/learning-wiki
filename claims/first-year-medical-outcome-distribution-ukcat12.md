@@ -54,3 +54,4 @@ Descriptive analysis of the four-point outcome measure across the three UKCAT-12
 - [Candidates from minority ethnic backgrounds, especially Black or Black British candidates, are significantly less likely to pass postgraduate medical examinations at first attempt](minority-ethnic-lower-first-attempt-pass-odds.md) — related
 - [Candidates with registered disabilities are significantly less likely to pass written and clinical postgraduate medical examinations at first attempt](disability-lower-first-attempt-pass-odds.md) — related
 - [Male sex showed higher first-sitting pass rates in this cohort, contrasting with earlier MRCP studies that found no difference or the reverse direction](mrcp-part1-male-higher-pass-rate-vs-prior-studies.md) — related
+- [Some students struggled transitioning from small guided assignments to the self-driven final project, with 2 of 10 enrolled students failing the course](guided-to-project-transition-struggle-failure.md) — related

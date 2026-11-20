@@ -40,6 +40,7 @@ The toolkit organizes professional development over the course of eight one-hour
 
 - [Sustained teacher professional development with coaching and professional learning communities](sustained-pd-coaching-plc-teacher-training.md)
 - [Sustained, needs-based PBIS professional development with in-classroom coaching to build teacher capacity](sustained-pbis-professional-development-coaching.md)
+- [Extend short-course duration to five or six sessions to spread material and allow more interaction](extend-short-course-to-five-or-six-sessions.md)
 
 ## Examples
 -

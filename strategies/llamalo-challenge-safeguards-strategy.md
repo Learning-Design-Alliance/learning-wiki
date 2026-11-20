@@ -43,7 +43,8 @@ The article recommends addressing the chatbot's challenges both computationallal
 - [Fine-tuning frontier LLMs on authentic tutoring data improves performance on all six conversational and pedagogical benchmarks, moving values toward human-tutor levels](../claims/fine-tuning-authentic-data-improves-pedagogical-benchmarks.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use LLM chatbots as interactive tutors for mechanics concepts while verifying reliability and addressing ethics and bias](llm-chatbot-tutors-mechanics-with-verification-caveats.md)
 
 ## Examples
 -

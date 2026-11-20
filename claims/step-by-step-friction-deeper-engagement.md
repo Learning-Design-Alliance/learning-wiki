@@ -73,3 +73,4 @@ Participant interview quote from the lab study (P6) on the effect of removing th
 - [E-learning platforms allow self-paced navigation, enabling focus on areas of difficulty](e-learning-self-paced-navigation.md) — related
 - [Students perceived they achieved better under the demonstration method because they could see and hear the teacher's step-by-step explanations and were encouraged to ask questions](students-perceive-better-achievement-see-hear-ask-questions.md) — related
 - [A step-by-step remote-lab manual made students faster but produced more basic mistakes from unreasoned copying of example code](step-by-step-manual-speed-but-more-mistakes.md) — related
+- [Participants judge ChatGPT-generated code hard for novices to understand, yet expect non-proficient students to use it, suggesting reconfirmation of submissions](chatgpt-code-novice-comprehension-versus-expected-use.md) — related

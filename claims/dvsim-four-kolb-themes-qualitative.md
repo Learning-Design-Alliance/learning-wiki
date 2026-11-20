@@ -49,3 +49,4 @@ Qualitative interview study following COREQ, with interviewees randomly selected
 - [Healthcare providers' learning experiences during single-port robotic surgery transition training align with Kolb's four-stage experiential learning cycle](sp-transition-training-aligns-kolb-cycle.md) — related
 - [The e-learning platform mapped onto the four stages of the Kolb experiential learning cycle within a blended learning design](kolb-cycle-blended-elearning-mapping.md) — related
 - [A four-quadrant FEA-supported experiential module was implemented across three heat transfer topics without formal assessment](elt-fea-module-implemented-three-topics-unassessed.md) — related
+- [Thematic analysis of student interviews identified two overarching themes: difficulty of explaining physics to children and encouraging children to enjoy physics](tpis-two-themes-explaining-enjoying-physics.md) — related

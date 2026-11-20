@@ -48,6 +48,7 @@ The course structured learning as five weekly live video-conference lectures and
 ## Related Strategies
 
 - [Demonstration-Based Flipped Classroom](demonstration-based_flipped_classroom.md)
+- [Weekly formative assignments: application cards after the first session and short written reflections after the second](hi-stem-weekly-application-cards-reflections.md)
 
 ## Examples
 -

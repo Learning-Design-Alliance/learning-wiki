@@ -56,3 +56,4 @@ Cross-sectional online survey of 153 medical postgraduates at Zhejiang Universit
 - [Severe anxiety symptoms and moderate or severe sleep problems were associated with 12.2% and 11% reductions in academic performance respectively](severe-anxiety-sleep-problems-academic-reduction.md) — related
 - [There were no significant differences between surgical and internal medicine postgraduates in either mental health or academic performance during the pandemic](covid19-no-surgical-internal-differences-postgraduates.md) — related
 - [Over a third of Emirati university students screen positive for possible major depressive disorder and about a fifth for possible generalized anxiety disorder](emirati-students-prevalence-possible-mdd-gad.md) — related
+- [Graduate students report notably higher rates of depression and anxiety symptoms than the general population, and many who seek help feel unsupported](grad-mental-health-unsupported-counseling-need.md) — related

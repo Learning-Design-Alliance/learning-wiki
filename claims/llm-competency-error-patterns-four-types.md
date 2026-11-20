@@ -99,3 +99,4 @@ Manual error analysis found missed nuanced evidence mainly in long learning acti
 - [When GPT-4V answered incorrectly, its explanations frequently contained image misunderstandings, reasoning errors, and hallucinations](gpt4v-poor-explanations-incorrect-answers.md) — related
 - [AI chatbots' incorrect answers on the CINECA test are predominantly logical errors rather than information or statistical errors](chatbot-incorrect-answers-predominantly-logical-errors.md) — related
 - [GPT-4 grading feedback sounds plausible but frequently contains incorrect or misleading statements](gpt4-feedback-plausible-but-misleading.md) — related
+- [Exam responses frequently exhibit combinations of the four errors in a single response, so instructors must be prepared to identify multiple errors at once](students-combine-multiple-vector-errors.md) — related

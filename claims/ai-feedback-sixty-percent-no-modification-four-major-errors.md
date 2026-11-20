@@ -49,3 +49,4 @@ Accuracy analysis from the same pilot: amendments were classified by the faculty
 - [A git-history audit found 96.3% of AI-generated answer-key question blocks needed no post-release semantic repair](ai-answer-keys-mostly-correct-git-audit.md) — related
 - [A custom GPT-based model generated pharmacology SAQ feedback approximately 15 times faster than fully manual faculty marking in a pilot study](custom-gpt-saq-feedback-15x-faster-than-manual-marking.md) — related
 - [Students rated faculty-reviewed AI-generated pharmacology feedback favourably, with median scores of 4 out of 5 across clarity, actionability, confidence and usefulness](students-rate-moderated-ai-feedback-median-4-of-5.md) — related
+- [Instructors rated approximately 70% of GPT-generated feedback statements as needing only minor or no modification, with an average rating of 2.06 on a 0-3 scale](instructors-rate-70-percent-gpt-feedback-minor-editing.md) — related

@@ -58,3 +58,4 @@ Cross-case findings from interviews and classroom observations at four sites. Du
 - [Numerical exercises empower beginning quantum students to solve real problems without analytic solutions](computational-aspect-empowers-quantum-students.md) — related
 - [Connecting physics laboratory activities to students' professional enology context increased their involvement and attention, per the authors' observations and teacher interviews](winery-context-increased-physics-involvement.md) — related
 - [The four-step worked-example approach was implemented across multiple theoretical physics courses with active student participation and most students solving the final problem](four-step-worked-examples-feasible-upper-division-physics.md) — related
+- [Guided inquiry in chemistry actively involves students, increases learning independence, and is associated with higher learning achievement](guided-inquiry-advantages-achievement.md) — related

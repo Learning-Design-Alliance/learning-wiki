@@ -48,6 +48,7 @@ World Wide Data Day (W2D2) is a one-day simplified masterclass event held in Nov
 - [World Wide Data Day: a short, single-day masterclass experience in schools with authentic LHC data](world-wide-data-day-w2d2-strategy.md)
 - [Run a one-day astrophysics masterclass in which high school students analyze real research data in a university research setting](astrophysics-masterclass-one-day-real-data.md)
 - [Engage students in hands-on analysis of real research data from a frontline science experiment](hands-on-real-research-data-analysis.md)
+- [Run a nation-wide online Masterclass with recorded lectures, volunteer troubleshooting help, and consultant videoconference rooms](nationwide-online-masterclass-pandemic-adaptation.md)
 
 ## Examples
 -

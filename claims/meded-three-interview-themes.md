@@ -53,3 +53,4 @@ Semi-structured interviews conducted on Microsoft Teams, transcribed verbatim an
 - [Focus-group interviews of HMSS course students yielded three main themes: learner-centeredness, competencies, and career development](hmss-focus-group-three-themes.md) — related
 - [Student and teacher focus groups identified two themes beyond the Regmi and Jones framework: mental wellbeing and technical issues](focus-groups-extend-regmi-jones-framework-wellbeing-technical.md) — related
 - [Participating international medical students reported benefiting from technical and didactic as well as social learning experiences in the peer-guided course](peerguided-course-qualitative-benefits-international-students.md) — related
+- [Thematic analysis of student interviews identified two overarching themes: difficulty of explaining physics to children and encouraging children to enjoy physics](tpis-two-themes-explaining-enjoying-physics.md) — related

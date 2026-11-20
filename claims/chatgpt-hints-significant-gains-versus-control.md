@@ -74,3 +74,4 @@ Randomized online experiment (N = 274 Mechanical Turk participants) with a 3x4 d
 - [AI-tutor pedagogical interventions (hints) correlate negatively with learning gains, more strongly for participants with higher pre-quiz scores](hints-negatively-correlate-gains-moderated-by-prior-knowledge.md) — reports the opposite
 - [Students with prior GPT hints solved later GPT-free tasks significantly faster, while solution time did not differ significantly on tasks where hints were enabled](gpt-hints-faster-later-task-completion.md) — related
 - [On tasks with GPT hints enabled, the experimental group scored higher on successful submissions averaged across attempts, with statistically parallel improvement slopes](gpt-hints-higher-successful-submissions.md) — related
+- [Students did not show a clear preference for writing hints with or without the GPT-4 scaffold](no-clear-preference-gpt4-scaffold.md) — related

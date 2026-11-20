@@ -72,6 +72,7 @@ Many other systems for teaching problem-solving exist for specific domains — g
 - [Structure PBL instruction through the five steps of question, analysis, problem solving, results reporting, and reflection and evaluation](pbl-five-step-english-teaching-strategy.md)
 - [Provide explicit guidance and sustained practice on decomposing multi-step problems and connecting sub-problems when using solved examples for analogical reasoning](explicit-guidance-decompose-connect-subproblems.md)
 - [Decompose complex open statistics exercises into path-dependent stages with fallback stages and accepted input corridors](staged-path-dependent-exercise-decomposition.md)
+- [Teach students to recognize when they are applying heuristics and how to exert control over them](recognize-and-control-heuristics-strategy.md)
 
 ## Examples
 - **IDEAL in mathematics instruction:** a teacher models the full cycle on a non-routine word problem, then students work in pairs on a structurally similar problem using an IDEAL organizer, comparing their representation to the modeled one afterward.

@@ -50,6 +50,7 @@ The article recommends incorporating reliability evaluation and quality evaluati
 - [Integrate GPT models into LA-supported feedback systems with an iterative instructor-student validation loop to improve reliability](iterative-validation-loop-gpt-feedback-systems.md)
 - [Use Chain-of-Thought and Tree-of-Thought prompting to mitigate hallucination and weak complex reasoning in LLMs used for learning](cot-tot-prompting-mitigate-llm-hallucination.md)
 - [Incorporate student feedback loops so AI assessment systems improve accuracy and guide learning](student-feedback-loops-ai-assessment.md)
+- [Instructors should review and edit all AI-generated feedback before sending it to students](human-in-the-loop-review-of-ai-feedback.md)
 
 ## Examples
 -

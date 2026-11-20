@@ -51,3 +51,4 @@ Mathematical derivation (Theorems 3–6) establishing: L ranges [−1, 1] or [�
 - Simulations show L* values at chance stay centered at zero even when one affective state's base rate is disproportionately high — related
 - Simulations with two dominant base rates also show L* at chance centered at zero — related
 - When self-transitions are excluded, the L statistic's chance value becomes 1/(n−1)² for a state space with n affective states, so past L results excluding self-transitions were likely misinterpreted — related
+- [Re-analysis with a refined L metric found positive affect transitions differ by country, with only some transitions matching the D'Mello and Graesser model](affect-dynamics-transitions-country-differences.md) — related

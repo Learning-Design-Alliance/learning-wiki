@@ -70,6 +70,7 @@ Weekly reflection operationalizes the self-regulation cycle of forethought, perf
 - [Use weekly reflections aligned to ownership hallmarks as formative data alongside a validated survey](weekly-hallmark-aligned-reflections-strategy.md)
 - [Weekly individualized formative feedback on group work using three criteria](weekly-formative-feedback-group-work-p3.md)
 - [Weekly reading responses with randomized in-class sharing to foster discussion of historical literature](weekly-reading-response-random-sharing.md)
+- [Weekly formative assignments: application cards after the first session and short written reflections after the second](hi-stem-weekly-application-cards-reflections.md)
 
 ## Examples
 - **"Muddiest Point" weekly forms** — a classic Classroom Assessment Technique (Angelo & Cross): students name the least-clear idea of the week; the instructor opens the next class by addressing the most common muddles.

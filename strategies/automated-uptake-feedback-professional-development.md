@@ -52,6 +52,7 @@ The authors propose their uptake measure as "an automated tool to give feedback 
 ## Related Strategies
 
 - [Use automated funneling/focusing measures in teacher feedback and professional development tools](automated-feedback-funneling-focusing-tool-strategy.md)
+- [Deliver scalable automated talk-move feedback to online instructors as a complement to professional development](automated-talk-move-feedback-strategy.md)
 
 ## Examples
 -

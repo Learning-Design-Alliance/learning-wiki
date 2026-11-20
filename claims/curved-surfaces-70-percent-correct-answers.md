@@ -50,3 +50,5 @@ Post-intervention questionnaire item asking what happens to parallel lines and t
 ## Related Claims
 - [Galperin-based geometry instruction enabled poorly performing sixth graders to identify geometric items correctly, with 93% giving conceptual explanations](galperin-geometry-concept-teaching-experiment.md) — related
 - [Prior to intervention, pupils showed poor understanding of gravity as interaction but good grasp of Euclidean geometry basics](prior-knowledge-gravity-effects-euclidean-basics.md) — related
+- [Correct responses that triangle angle sums can differ from 180 degrees rise from 11.3% to 83.6% after the balloon-geometry activity](balloon-activity-triangle-angle-gains.md) — related
+- [Belief that space has no shape falls from 58.2% to 42.4%, with 9.2% post-intervention noting space is curved around masses but flat otherwise](space-shape-misconception-partially-shifts.md) — related

@@ -48,4 +48,4 @@ The chapter proposes a concrete resource commitment: organisations and their sup
 -
 
 ## Key Sources
-- Pompea, S. M. and Russo, P. (2023). Big Science and Science Education: Steps towards an Authentic Partnership. In Big Science in the 21st Century: Economic and Societal Impacts, Institute of Physics Publishing. https://arxiv.org/abs/2306.14554
+- Pompea, S. M. and Russo, P. (2023). Big Science and Science Education: Steps towards an Authentic Partnership. In Big Science in the 21st Century: Economic and Societal Impacts, Institute of Physics Publishing. https://arxiv.org/abs/2306.14554. [doi:10.1088/978-0-7503-3631-4ch44](https://doi.org/10.1088/978-0-7503-3631-4ch44)

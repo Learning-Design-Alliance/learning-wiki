@@ -46,6 +46,7 @@ The article recommends that university programming clubs focus retention efforts
 
 - [Reflection with Others](reflection_with_others.md)
 - [Provide targeted intensive supports for educators at elevated risk, including check-ins, buddy systems, and fast-access mental health services](targeted-intensive-educator-mental-health-supports.md)
+- [Include peer and near-peer mentoring structures such as a bridge buddy system](peer-near-peer-bridge-mentoring.md)
 
 ## Examples
 -

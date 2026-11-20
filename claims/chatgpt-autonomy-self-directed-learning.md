@@ -61,3 +61,4 @@ Interview thematic analysis: students reported learning independently from ChatG
 - [Human-AI writing practices were perceived to enhance doctoral students' cognitive and metacognitive engagement, confidence, and learner agency](ai-writing-engagement-confidence-agency.md) — related
 - [Students reported that coaching enhanced their self-determination in five ways, including autonomy, self-awareness, self-esteem, goal effectiveness, and realistic goal setting](coaching-enhances-self-determination-five-ways.md) — related
 - [Controlling instructional practices undermine students' motivation, whereas supportive practices are associated with better adjustment and engagement](controlling-practices-undermine-motivation.md) — related
+- [Participants judge ChatGPT-generated code hard for novices to understand, yet expect non-proficient students to use it, suggesting reconfirmation of submissions](chatgpt-code-novice-comprehension-versus-expected-use.md) — related

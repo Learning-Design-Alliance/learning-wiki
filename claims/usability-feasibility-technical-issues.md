@@ -59,3 +59,4 @@ Review synthesis of practical usability and feasibility outcomes in the Results 
 - [The e-learning intervention was acceptable and its completion feasible for nurse and pharmacist prescribers](elearning-animation-acceptable-useful-prescribers.md) — a narrower finding that bears on this claim
 - [The online testing method was acceptable and feasible, with 86.7% of invited clinicians completing a test](online-competence-test-completion-feasibility.md) — related
 - [Six of thirty-three practices experienced initial technical difficulties with the STAR online training, with video streaming delays causing frustration](star-online-technical-difficulties-six-of-33-practices.md) — related
+- [Some pilot participants reported frustration with ChatGPT dialogues, sometimes becoming overly exhausting](chatgpt-dialogue-frustration-pilot.md) — related

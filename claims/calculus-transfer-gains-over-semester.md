@@ -50,3 +50,5 @@ Pre/post administration of a three-question free-response calculus transfer asse
 - [Women showed larger normalized gains than men on the calculus transfer questions despite lower self-efficacy](women-larger-calculus-transfer-gains.md) — related
 - [No direct correlation is found between calculus-I proficiency and student performance in calculus-based physics I](no-correlation-calculus-proficiency-physics-i-performance.md) — related
 - [Correlations between the pure mathematics question and the transfer questions on the assessment were low, while the transfer questions correlated with each other](low-correlation-pure-math-transfer-questions.md) — related
+- [Applied calculus questions in physics context are answered correctly less often than pure calculus questions, and the gap persists at semester's end](applied-calculus-harder-than-pure-physics.md) — related
+- [Women display larger gains than men on applied calculus questions across a calculus-emphasized introductory physics semester](women-larger-applied-calculus-gains-em-physics.md) — a narrower finding that bears on this claim

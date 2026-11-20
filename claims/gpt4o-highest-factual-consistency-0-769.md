@@ -49,3 +49,4 @@ Factual consistency was assessed by segmenting medical records into minimal fact
 - [The OpenAI gpt-4o reference model outperformed all quantised models on human-rated coherence, fluency, relevance and cultural appropriateness, serving as an upper benchmark](gpt-4o-reference-outperformed-quantised-models-human-ratings.md) — related
 - [Qwen3-32B–based framework achieved the highest role-playing competency score of 39.67](qwen3-32b-highest-role-playing-score-39-67.md) — related
 - [Qwen3-32B–based multiagent framework achieved the lowest misleading rate of 1.28 percent vs 4.72 percent for single-LLM](qwen3-32b-lowest-misleading-rate-1-28.md) — related
+- [LLM scores are more consistent across trials than human scores, with GPT-4 using explanations showing the greatest confidence](llm-trial-consistency-exceeds-human-consistency.md) — related

@@ -63,3 +63,4 @@ The brief asserts, citing effective-PD research, that micro-credentials carry th
 - [Coaching is more effective when it is job-embedded with frequent face-to-face interaction between coach and teacher](job-embedded-coaching-active-learning.md) — related
 - [States broadened measures for identifying struggling schools while more districts reported improvement activities, particularly teacher professional development](essa-struggling-school-identification-broadened.md) — related
 - [In the face-to-face micro-credential course, half the participants were unclear about the everyday relevance of Einsteinian physics, prompting added real-world content](mc1-relevance-gap-drove-curriculum-refinement.md) — related
+- [Teachers most frequently identified access to instructional materials and sustained university support as the most salient features of the responsive PD program](teachers-value-materials-access-and-sustained-support-in-rpd.md) — related

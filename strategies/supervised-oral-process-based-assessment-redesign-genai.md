@@ -54,6 +54,7 @@ Participants described moving away from unsupervised written essays toward more 
 - [Replace or supplement essay assessment with interactive oral assessments (viva voces) where writing is not the skill being assessed](oral-viva-assessment-replace-essays.md)
 - [Use online viva voce as an alternative when assessment duration cannot be kept as short as the invigilated original](online-viva-voce-alternative-open-book.md)
 - [Shift assessment away from inauthentic timed examinations toward more scientifically authentic evaluation activities](shift-away-from-timed-examinations.md)
+- [Conduct Level 1 (no-AI) assessments under supervision or as low-stakes formative tasks to protect equity](supervise-no-ai-level-1-assessments.md)
 
 ## Examples
 -

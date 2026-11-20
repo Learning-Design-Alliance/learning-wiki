@@ -48,3 +48,4 @@ ERGM homophily-on-gender coefficients (Fig. 6) in the four remote courses show s
 ## Related Claims
 - [Assignment submission structure relates to gender balance in interaction networks: contexts where assignments were submitted in groups showed proportionate interaction between men and women](assignment-structure-gender-balance-networks.md) — related
 - [Gender differences in lecture network connections depend on course composition: women have fewer connections than men in gender-balanced M-Eng but more connections in majority-men M-Phys and EM-Phys](gender-connections-vary-by-course-composition.md) — related
+- [Self-selected groups show a tendency toward same-gender composition, which spreads to randomly assigned groups once students may change them](self-selection-same-gender-grouping.md) — related

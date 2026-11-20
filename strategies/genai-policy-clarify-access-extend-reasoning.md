@@ -44,6 +44,7 @@ The article's concluding recommendation is that educators should design GenAI co
 - [Graduate the AI policy across the curriculum so that permitted AI use tracks each course's pedagogical purpose](graduated-ai-policy-by-course-level.md)
 - [Provide explicit pedagogical guidance on effective and ethical GenAI use within specific assessment contexts, beyond prohibitions](explicit-pedagogical-guidance-genai-assessment-contexts.md)
 - [Universities should provide vivid guidelines and education on how and where ChatGPT may be used for learning](university-guidelines-education-chatgpt-use.md)
+- [Standardise the GenAI tools permitted in assessments, or limit advanced tools, to maintain equitable access](standardise-genai-tools-equitable-access.md)
 
 ## Examples
 -

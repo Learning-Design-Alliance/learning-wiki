@@ -47,6 +47,7 @@ The article recommends that e-learning designers and providers reduce the effort
 
 - [Design introductory educational technology courses around the four sources of self-efficacy, prioritizing mastery experiences](design-edtech-courses-around-self-efficacy-sources.md)
 - [Minimise efficacy burden and foster trust elements such as data security and privacy to support AI adoption](minimise-efficacy-burden-foster-trust-ai-adoption.md)
+- [Build teachers' basic AI understanding and self-efficacy through professional development to foster trust in AI-EdTech](pd-basic-ai-understanding-fosters-teacher-trust.md)
 
 ## Examples
 -

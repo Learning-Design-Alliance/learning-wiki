@@ -49,3 +49,4 @@ Human-rater readability evaluation (three raters, five-point scale) of 103 piece
 - [GPT models achieved high polarity agreement with instructors only for positive feedback on the Topic aspect, and could not reliably assess the other rubric aspects](gpt-polarity-agreement-low-except-topic.md) — related
 - [Structured developmental annotation (CLARA) achieves stronger alignment with developmental references than readability-based and direct prompting baselines](clara-outperforms-readability-and-prompting-baselines.md) — related
 - [LLMs and instructors agree broadly on where feedback belongs but diverge on exact sentence spans, with span overlap strongly goal-dependent and LLMs highlighting more of each essay](llm-instructor-span-overlap-goal-dependent.md) — related
+- [gpt-3.5-turbo with standard prompting generates overly positive, indirect, and unhelpful essay feedback for EFL writing](gpt35-standard-prompting-overly-positive-feedback.md) — reports the opposite

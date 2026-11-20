@@ -51,3 +51,4 @@ Human expert evaluation: three senior education experts rated a stratified sampl
 - [Ablating expert-informed structural components lowered LLM-judge scores on all dimensions, with largest drops in challenge quality, intent alignment, and domain grounding](ablation-structural-components-lower-judge-scores.md) — related
 - [At trait level PsyScore-AES ranks first in 10 of 11 dimensions (mean QWK 0.735), improving Voice scoring from 0.619 to 0.740 while trailing T-MES on Style](psyscore-trait-level-qwk-10-of-11.md) — related
 - [PsyScore-AES achieves a state-of-the-art average QWK of 0.747 on ASAP++, surpassing the strongest baseline SaMRL-large (0.722) and ranking first on 6 of 8 prompts](psyscore-aes-sota-qwk-0-747-asap.md) — related
+- [Score-based prompting outperforms standard prompting on feedback accuracy, relevance, and helpfulness across all rubrics](score-based-prompting-outperforms-standard-quality.md) — related

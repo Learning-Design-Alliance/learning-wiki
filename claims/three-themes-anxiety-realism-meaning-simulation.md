@@ -48,3 +48,4 @@ Thematic analysis of semi-structured interviews conducted within 24 hours of the
 - [Student interviews yielded three themes: emotions, feelings of being a doctor, and interactions with simulated participants](student-interview-themes-communication-curriculum.md) — related
 - [Focus groups identify structured practice, limited emotional realism, and recommendations for case variety and curriculum integration](aisp-focus-group-three-themes.md) — related
 - [Thematic analysis of focus groups and open-ended responses identified immersion, clinical communication practice and safe decision-making environments as key perceived benefits](vr-pilot-qualitative-benefit-themes.md) — related
+- [Thematic analysis of student interviews identified two overarching themes: difficulty of explaining physics to children and encouraging children to enjoy physics](tpis-two-themes-explaining-enjoying-physics.md) — related

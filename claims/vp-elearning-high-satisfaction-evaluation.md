@@ -70,3 +70,4 @@ Scope items answered on a 5-point Likert scale by the 24 users, where positive d
 - [In a pilot study, the TigerGPT survey chatbot achieved a 75% usability rating and an 81% satisfaction score, with 50% of participants preferring it over traditional surveys](tigergpt-pilot-usability-satisfaction.md) — related
 - [Non-users of the e-learning tool improved far less, with overall agreement reaching only 33.3% and significant gains on only two items](vp-elearning-nonusers-limited-improvement.md) — related
 - [Students reported high satisfaction with Body Interact™ VPS training and rated it as bridging learning gaps, providing real feedback, and giving clinical simulation experience](high-satisfaction-body-interact-vps-training.md) — related
+- [Students rated the graphical vector field tool as intuitive and user-friendly, with a usability and design scale mean of 0.76 (N = 125)](vector-field-tool-high-usability-ratings.md) — related

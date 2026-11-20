@@ -52,4 +52,4 @@ The comment's forward-looking recommendation for programs adopting barrier-reduc
 -
 
 ## Key Sources
-- Weissman, M. B. (2023). Comment on "Rubric-based holistic review represents a change from traditional graduate admissions approaches in physics". Department of Physics, University of Illinois at Urbana-Champaign. https://journals.aps.org/prper/
+- Weissman, M. B. (2023). Comment on "Rubric-based holistic review represents a change from traditional graduate admissions approaches in physics". Department of Physics, University of Illinois at Urbana-Champaign. https://journals.aps.org/prper/. [doi:10.1103/physrevphyseducres.19.028001](https://doi.org/10.1103/physrevphyseducres.19.028001)

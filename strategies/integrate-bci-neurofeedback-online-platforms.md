@@ -53,6 +53,7 @@ The authors recommend deploying accessible single-channel EEG neurofeedback toge
 - [Implement early-warning systems in real classrooms using easily accessible data and transparent machine learning techniques](early-warning-systems-accessible-data-transparent-ml.md)
 - [Deploy ML-based early-warning prediction to shift retention support from reactive to proactive intervention](ml-early-warning-proactive-retention-support.md)
 - [Use the K technique as a basis for building VR training models at scale](k-technique-basis-for-vr-training-models.md)
+- [Deploy EEG-based attention monitoring with personalization, portable devices, and naturalistic validation](eeg-attention-monitoring-deployment-strategy.md)
 
 ## Examples
 -

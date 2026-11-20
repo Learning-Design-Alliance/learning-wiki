@@ -65,6 +65,7 @@ Spacing is one of the most robust findings in learning science: distributed prac
 - [Cumulative Review](../strategies/cumulative-review.md) — course-level structure that operationalizes spacing across a term
 - [Spread time-limited skills courses over several days in shorter sessions rather than massing practice on one day](spread-skills-courses-over-several-days-strategy.md)
 - [Structure online practice as distributed, interleaved problem solving with retrieval practice rather than massed, blocked review](geas-distributed-interleaved-retrieval-design.md)
+- [Extend short-course duration to five or six sessions to spread material and allow more interaction](extend-short-course-to-five-or-six-sessions.md)
 
 ## Examples
 - **[Duolingo](../products/duolingo.md)** — schedules practice of previously learned vocabulary on an expanding-spaced algorithm, re-presenting items as recall strength decays.

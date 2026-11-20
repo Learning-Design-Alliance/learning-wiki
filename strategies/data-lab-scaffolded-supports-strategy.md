@@ -45,6 +45,7 @@ DATA Lab scaffolds its open-ended experiments with a stack of supports: three DL
 ## Related Strategies
 
 - [Adopt a scaffolded series of At Home Physics labs and incorporate virtual experiments into the class portion of the course](strategy-scaffolded-ahp-labs-plus-virtual-experiments.md)
+- [Use an open problem with discrepant data to scaffold student knowledge construction in the laboratory](open-problem-discrepancy-knowledge-construction.md)
 
 ## Examples
 -

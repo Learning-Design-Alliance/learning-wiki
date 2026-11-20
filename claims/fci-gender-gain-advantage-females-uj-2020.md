@@ -72,3 +72,5 @@ Table 3 paired results: female pre-test mean 31.0 (SD 12.3) vs male 37.0 (SD 19.
 - [Men scored higher than women on FCI pretest, FCI post-test, and solo-phase exam in introductory physics](fci-exam-gender-gaps-favor-men.md) — related
 - [Mean FCI scores differ significantly between male and female students at a moderate magnitude favoring male students (g = 0.61) across international PER studies](fci-gender-gap-moderate-favoring-males.md) — related
 - [A forced mid-semester transition to online teaching produced no appreciable drop in FCI normalized gain (G = 0.24) for first-year mechanics students](forced-online-transition-no-gain-loss-fci.md) — related
+- [No statistically significant difference between male and female students in FCI pre-test % correct or %nDM means](fci-pretest-gender-no-significant-difference.md) — related
+- [The 2020 cohort showed a significantly higher mean %nDM than the 2021 and 2022 cohorts on the FCI pre-test](fci-ndm-2020-cohort-significantly-higher.md) — related

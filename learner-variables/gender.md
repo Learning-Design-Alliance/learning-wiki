@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 762 claims (408 show a difference, 185 mixed, 169 no difference) · 532 studies (280 associational, 178 causal, 21 review, 18 quant-synthesis, 16 design, 12 theoretical, 7 qualitative), `q1`–`q4` · 78 of 532 report an effect size · 754 claims rest on one study
+> **Evidence** · 763 claims (409 show a difference, 185 mixed, 169 no difference) · 533 studies (281 associational, 178 causal, 21 review, 18 quant-synthesis, 16 design, 12 theoretical, 7 qualitative), `q1`–`q4` · 78 of 533 report an effect size · 755 claims rest on one study
 
 ## How to read this page
 
@@ -801,6 +801,7 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Women and racial minorities are underrepresented in the U.S. STEM workforce](../claims/women-urm-underrepresented-stem-workforce.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Female students' continuation rates into senior STEM courses grew faster than male students' in almost all Ontario STEM courses from 2007 to 2018](../claims/female-scr-growth-outpacing-males-ontario-stem.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The counternarrative study reported modest treatment-control differences in survey intent, with Cohen d values of 0.23, 0.13, 0.17 and 0.20 across female, non-female, minority and non-minority subgroups](../claims/counternarrative-effect-sizes-subgroups.md) [~M] — an instructional effect differs by group
+- [Female participation in CzAO is around 40–50% in school rounds (54–55% in the last two years) but averages only 20–40% in national finals, with younger categories showing higher percentages of female finalists](../claims/czao-female-participation-balance.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

@@ -42,6 +42,7 @@ The authors distil six transferable recommendations for educators adopting the a
 
 - [Treat AI as a guided support tool and explicitly build verification and skepticism into learning goals](ai-as-guided-support-tool-build-verification.md)
 - [Extend AI-assisted grading with LLM ensembles, richer prompts, and full-length essays](extend-llm-grading-ensembles-richer-prompts-essays.md)
+- [Add human-in-the-loop capabilities so practitioners can edit or choose among LLM-generated tutoring script components](human-in-the-loop-cts-authoring-strategy.md)
 
 ## Examples
 -

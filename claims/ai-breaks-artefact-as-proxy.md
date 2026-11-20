@@ -73,3 +73,4 @@ Theoretical argument in a conceptual essay: assessment systems treated artefacts
 - [Participants report AI-generated database diagrams were less accurate than what students had previously produced, cautioning against assuming AI artifacts are better](ai-database-diagrams-less-accurate.md) — a narrower finding that bears on this claim
 - [Lack of active involvement in problem-solving decreased participants' satisfaction with AI-generated essays](ai-essay-scaffolding-reduced-satisfaction-from-lack-involvement.md) — related
 - [Assessments requiring creative or critical thinking fall below a 50% solvability threshold for LLMs, per Akbar](creative-critical-thinking-below-50-percent-llm-solvability.md) — related
+- [Using generative AI for summary writing increases writing quality and productivity relative to unassisted manual writing](ai-writing-quality-productivity-gains.md) — related

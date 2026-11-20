@@ -69,3 +69,4 @@ Same survey's findings on harassment: 'one in every ﬁve women (21%) re- ported
 - [Most female physics Ph.D. students (67%) report experiencing discrimination during their studies, versus 19% of men, mainly on grounds of gender and pregnancy/parenthood](gender-discrimination-israeli-physics-phd.md) — a narrower finding that bears on this claim
 - [Moral and sexual harassment incidence is higher in subgroups differing from the cisgender-heterosexual majority profile](higher-harassment-non-cisgender-non-heterosexual.md) — related
 - [Harassment is high in the Brazilian physics community and more pronounced among women](harassment-high-more-pronounced-among-women.md) — related
+- [Finding a research group holds differential importance for women and non-binary physics students, who screen groups for inclusivity and at times deprioritize preferred research topics](group-search-differential-importance-women-nonbinary.md) — related

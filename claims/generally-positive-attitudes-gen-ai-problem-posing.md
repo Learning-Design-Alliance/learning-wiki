@@ -58,3 +58,4 @@ Phenomenological coding of the same 49 students' post-training reflections on pr
 - [Trainees and trainers hold mixed views on AI-generated heat maps for postoperative coaching](mixed-trainee-trainer-views-ai-heat-maps.md) — related
 - [Approximately 80% of voluntary TPS-group students expressed positive opinions of the strategy, citing improved understanding, participation, confidence and attitude](tps-student-opinions-mostly-positive.md) — related
 - [The multimedia tool was reported to motivate students and support positive attitudes toward the course](mbio-motivates-and-positive-attitudes.md) — related
+- [Participants viewed AI assistance as helpful for struggling students but doubted the understandability and correctness of AI-generated code and were neutral about recommending it with proper acknowledgment](student-perspectives-ai-assistance-likert.md) — related

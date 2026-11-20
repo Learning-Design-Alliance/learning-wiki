@@ -75,3 +75,4 @@ Same interview study, generic quantum uncertainty question. The article reports 
 - [Principles sources of uncertainty were largely inaccessible to students in classical mechanics, appearing only in the structured non-deterministic Brownian motion scenario](principles-inaccessible-in-classical-mechanics.md) — related
 - [Students who expect better data to leave the distribution unchanged justify this with inherent physical or measurement principles, mainly in quantum and distribution scenarios](principles-reasoning-better-data-stays-same.md) — related
 - [Many students attribute uncertainty to quantum principles even in a quantum experiment whose theory predicts a single-value outcome, which the authors suggest may be detrimental to reasoning](quantum-principles-accessible-even-when-irrelevant.md) — related
+- [Students attribute bending of light to classical mechanisms such as an invisible mirror](bending-of-light-attributed-to-invisible-mirror.md) — related

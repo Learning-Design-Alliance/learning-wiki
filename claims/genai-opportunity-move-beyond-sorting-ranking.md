@@ -50,3 +50,4 @@ Conceptual argument advanced in this conceptual paper's abstract. The authors ex
 - [The book argues that quality assessments can provide accurate and timely information to maximize student learning, in contrast to punitive testing rhetoric](quality-assessments-accurate-timely-information-maximize-learning.md) — related
 - [Staff recognise substantial opportunities to use GenAI to enhance teaching through streamlined administrative processes, improved curriculum and assessment design, and student-centred learning activities.](staff-see-genai-opportunities-teaching-enhancement.md) — related
 - [GenAI in CS education is argued to enhance student engagement, support equitable learning, and relieve instructional burden](genai-engagement-equity-instructional-burden-benefits.md) — related
+- [Binary use/don't-use approaches to GenAI in assessment are inadequate; a scalar approach is needed](binary-genai-bans-inadequate-scalar-approach.md) — related

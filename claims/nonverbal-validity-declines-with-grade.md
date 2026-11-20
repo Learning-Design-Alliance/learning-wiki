@@ -50,3 +50,4 @@ Grade-by-grade correlations in Table VI show declining validity of non-verbal ma
 - [Reading shows the greatest increase in correlation with intelligence tests as test material becomes more verbal](reading-correlation-increases-most-with-verbalness.md) — related
 - [More verbal intelligence-test material yields higher correlations with mental age and with verbal school subjects in grades IV-VIII](verbalness-raises-correlation-with-achievement.md) — related
 - [Correlations between intelligence tests and arithmetic peak at the somewhat-verbal step of the verbalness scale in both grade groups](arithmetic-correlation-peaks-somewhat-verbal.md) — related
+- [Simulated final exam scores become more realistic as more past assessment history is used to instantiate virtual students](more-assessment-history-improves-simulation.md) — related

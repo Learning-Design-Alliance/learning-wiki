@@ -50,6 +50,7 @@ A 3-hour introductory workshop supporting the rubric, built on "a series of pair
 
 - [CAE two-day workshops with microteaching to prepare instructors in active-learning strategies](cae-workshop-microteaching-preparation.md)
 - [Supplement lectures with hands-on group problem-solving sessions pairing undergraduates with graduate mentors](hands-on-graduate-mentorship-sessions-strategy.md)
+- [Have students write the instrument-control and analysis software themselves to build coding skills alongside experimental work](student-written-instrument-drivers-coding-skills.md)
 
 ## Examples
 -

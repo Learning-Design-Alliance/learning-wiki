@@ -21,6 +21,7 @@ SPRUCE is an online pre/post assessment instrument developed by Michael Vignal a
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **SPRUCE: a pre-post assessment of measurement uncertainty for introductory physics labs**: SPRUCE (Survey of Physics Reasoning on Uncertainty Concepts in Experiments) is a "pre-post assessment instrument intended for use in introductory (first- and second-year) physics lab courses to help instructors and researchers identify student strengths and challenges with measurement uncertainty." It was developed using Evidence-Centered Design to fill the absence of a widely-administrable research-based assessment focused explicitly on measurement uncertainty. The instrument contextualizes items in four physics experiments and is administered online. (Michael Vignal et al. (2023))
+- **SPRUCE: Survey of Physics Reasoning on Uncertainty Concepts in Experiments**: SPRUCE is an online, pre-post research-based assessment instrument for introductory physics laboratories that assesses students' knowledge and use of concepts related to measurement uncertainty. It was developed with Evidence-Centered Design and reports student progress along 14 dimensions called Assessment Objectives, which are "concise, specific articulations of measurable desired student performances regarding concepts and/or practices targeted by the assessment." Each item addresses at least one AO chosen with input from introductory laboratory instructors. Validation is described as an ongoing project. (Gayle Geschwind et al. (2023))
 
 ### Claims
 
@@ -29,3 +30,4 @@ SPRUCE is an online pre/post assessment instrument developed by Michael Vignal a
 
 ## Key Sources
 - Michael Vignal, Gayle Geschwind, Benjamin Pollard, Rachel Henderson, Marcos D. Caballero, H. J. Lewandowski. (2023). Survey of physics reasoning on uncertainty concepts in experiments: an assessment of measurement uncertainty for introductory physics labs. arXiv. https://arxiv.org/abs/2302.07336
+- Gayle Geschwind, Michael Vignal, and H. J. Lewandowski. (2023). Representational differences in how students compare measurements. https://arxiv.org/abs/2308.11543

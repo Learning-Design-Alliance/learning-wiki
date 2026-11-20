@@ -52,6 +52,7 @@ The strategy is to prompt a generative LLM such as ChatGPT with established, the
 ## Related Strategies
 
 - [Use rubric-guided multiagent LLM simulation workflows for scalable, auditable psychotherapy practice and formative feedback](multiagent-llm-simulation-psychotherapy-training-strategy.md)
+- [Run a controlled comparison of traditional cybersecurity instruction versus ChatGPT-augmented exploration, assessed with the Cybersecurity Concept Inventory](proposed-cci-chatgpt-controlled-comparison.md)
 
 ## Examples
 -

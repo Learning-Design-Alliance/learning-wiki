@@ -50,6 +50,7 @@ The review recommends adapting and modifying open inquiry for students with lowe
 - [Guided Inquiry](guided_inquiry.md)
 - [Tiered Assignments](tiered-assignments.md)
 - [Low Floor, High Ceiling Tasks](low-floor_high-ceiling_tasks.md)
+- [Adapt open-endedness to learner skill level and scaffold exploration with graduated guidance](adapt-open-endedness-to-skill-level.md)
 
 ## Examples
 -

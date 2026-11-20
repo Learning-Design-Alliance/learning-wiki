@@ -83,6 +83,7 @@ The study's concluding recommendation is that ethical AI use in higher education
 - [Institutions should actively disseminate exemplar prompts and provide secure platforms, faculty development, and quality-assurance mechanisms](institutional-responsibilities-genai-item-writing.md)
 - [Establish transparent ethical guidelines and faculty development for AI use in postgraduate coursework](ethical-ai-integration-guidelines-faculty-development-strategy.md)
 - [Six program-building actions: gathering subject-matter experts, institutional commitment, industry relationships, laboratory resources, assessment mechanisms, and faculty cluster hires](six-actions-building-qise-programs.md)
+- [Pair the scale with student-facing guidelines and multimedia on ethics, citation, limitations, and privacy](pair-aias-with-student-facing-guidelines.md)
 
 ## Examples
 -

@@ -72,3 +72,4 @@ Table I comparison of standardized test anxiety factor scores between female (N=
 - [Physics self-efficacy of both men and women decreased over the semester, with a smaller decrease for women](physics-self-efficacy-decrease-semester.md) — related
 - [Students' physics self-efficacy decreases significantly over a semester of Modeling Instruction introductory physics](mi-course-physics-self-efficacy-decrease.md) — related
 - [Women score significantly lower than men on physics identity, perceived recognition, self-efficacy, and interest at the end of introductory physics 1](gender-gaps-intro-physics-motivation-constructs.md) — related
+- [The fraction of student questions asked by women rose from 38.8% in spring 2019 to 67.3% in spring 2020](invitational-solicitation-increased-womens-question-fraction.md) — related

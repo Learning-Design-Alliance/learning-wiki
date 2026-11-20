@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 286 claims (139 for, 128 mixed, 19 against) · 213 studies (94 causal, 36 review, 28 quant-synthesis, 20 associational, 15 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 51 of 213 report an effect size · 262 claims rest on one study
+> **Evidence** · 288 claims (141 for, 128 mixed, 19 against) · 214 studies (94 causal, 36 review, 28 quant-synthesis, 20 associational, 16 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 51 of 214 report an effect size · 264 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -334,6 +334,8 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Personalized question-based feedback yields higher student learning gains than minimal and human-personalized feedback baselines in a real dialogue-based ITS](../claims/question-based-personalized-feedback-higher-learning-gains.md) [+W] — attached 2026-11-19 from Devang Kulshreshtha et al. (2022), which proposed "Cause-effect personalized feedback generation system in Korbit ITS"; tests this page's relationship.
 - [Asking questions about missing or incorrect answer components improves learning gains beyond merely revealing correct and incorrect parts](../claims/asking-questions-key-to-improving-answers.md) [+W] — attached 2026-11-19 from Devang Kulshreshtha et al. (2022), which proposed "Cause-effect personalized feedback generation system in Korbit ITS"; tests this page's relationship.
 - [Automated eye-tracking feedback improves resident sensitivity for suspicious pulmonary nodules more than no feedback (38.89% vs 5.56% absolute improvement)](../claims/eye-tracking-feedback-improves-nodule-detection-sensitivity.md) [+W] — attached 2026-11-19 from Ramirez-Tamayo et al. (2023), which proposed "Automated eye-tracking feedback report with six performance metrics and gaze heatmaps"; tests this page's relationship.
+- [All four student researchers rated GPT-generated feedback as more useful than human-written feedback](../claims/students-rate-gpt-feedback-more-useful.md) [+W] — attached 2026-11-20 from Tong Wan et al. (2023), which proposed "GPT-3.5-turbo grading assistant for feedback on free-response physics conceptual questions".
+- [Instructors rated approximately 70% of GPT-generated feedback statements as needing only minor or no modification, with an average rating of 2.06 on a 0-3 scale](../claims/instructors-rate-70-percent-gpt-feedback-minor-editing.md) [+W] — attached 2026-11-20 from Tong Wan et al. (2023), which proposed "GPT-3.5-turbo grading assistant for feedback on free-response physics conceptual questions".
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

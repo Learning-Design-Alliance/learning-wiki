@@ -68,3 +68,4 @@ Long-term follow-up questionnaire and phone interviews with 11 of the original 2
 - [Nine of eleven follow-up participants said the primary Einsteinian physics intervention prepared them for future science learning](intervention-prepared-future-science-learning.md) — related
 - [All follow-up participants remembered at least one hands-on activity, most often from the Gravity Discovery Centre excursion](hands-on-activities-remembered-long-term.md) — related
 - [More than half of pupils' post-intervention explanations invoke modern-physics concepts (spacetime curvature or black holes)](majority-modern-physics-explanations-post-intervention.md) — related
+- [Describing gravity as spacetime curvature increases markedly only in Years 10, 12 and 13, and the intervention fails to dispel force-based misconceptions overall](curvature-source-gravity-only-upper-years.md) — related

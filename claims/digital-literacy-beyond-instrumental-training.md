@@ -49,3 +49,4 @@ Theoretical argument in the abstract and introduction: the author contends that 
 - [Teacher educators show shallow understanding of GenAI tools and gaps in aligning AI use with pedagogical goals](teacher-educators-shallow-genai-understanding-gaps.md) — related
 - [University students in Communication and Education programs show low familiarity with media literacy, media education, and educommunication terms](students-low-familiarity-media-literacy-terms.md) — related
 - [Masterman's seven reasons for media education remain valid and are strengthened in the techno-media society](masterman-seven-reasons-media-education-valid.md) — related
+- [Binary use/don't-use approaches to GenAI in assessment are inadequate; a scalar approach is needed](binary-genai-bans-inadequate-scalar-approach.md) — related

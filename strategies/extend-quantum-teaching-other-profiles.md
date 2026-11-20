@@ -43,6 +43,7 @@ The authors' forward-looking recommendation is that "we would like to extend thi
 ## Related Strategies
 
 - [Use Python quantum code libraries such as Qiskit and Netsquid to deliver simulation-based exercises and support autonomous learning](python-quantum-libraries-simulation-exercises.md)
+- [Adapt unconventional popular-culture contexts to other quantum physics learning objectives](popular-culture-contexts-other-quantum-concepts.md)
 
 ## Examples
 -

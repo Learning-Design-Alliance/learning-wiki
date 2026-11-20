@@ -48,3 +48,4 @@ Teaching-experiment interview with four students at School 1 after classroom ins
 - [Only one of four interviewed students spontaneously generated a Taylor series expansion of reservoir entropy in the Boltzmann factor derivation](students-fail-to-spontaneously-generate-taylor-series-physical-context.md) — related
 - [Video data show students gain appreciation for the origin of the Boltzmann factor while participating in the tutorial](tutorial-video-appreciation-of-origin.md) — related
 - [Students may interpret and apply a given Taylor series yet be unable to generate an appropriate expansion in a novel context](interpret-given-taylor-series-but-cannot-generate-novel.md) — related
+- [Students understand Boltzmann's microscopic meaning of entropy but not its relation to the Clausius definition or why entropy never decreases for an isolated system](entropy-boltzmann-clausius-link-obscure.md) — related

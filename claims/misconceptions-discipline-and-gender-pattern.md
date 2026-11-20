@@ -68,3 +68,4 @@ Subgroup analysis by discipline in the same cohort; the article reports all misc
 - [Male students wrote good-quality MCQ in Pathophysiology significantly more frequently than female students](gender-difference-good-mcq-production.md) — reports the opposite
 - [Misconceptions can be uncovered in students’ written questions, with 11% of rated questions classified as containing a misconception](written-questions-uncover-misconceptions-11-percent.md) — related
 - [The interim assessment benefit did not differ by gender or study discipline, though females and medical students scored higher overall](interim-assessment-effect-uniform-across-subgroups.md) — related
+- [Q12 (projectile motion) was a dominant misconception for the male cohort but not for the female cohort](fci-q12-dm-male-not-female.md) — related

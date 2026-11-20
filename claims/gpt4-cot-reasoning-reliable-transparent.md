@@ -70,3 +70,4 @@ The chain-of-thought section states reliability was model-dependent: "Only the r
 - [High self-consistency between a simulator's reasoning and its own generated code does not imply alignment with real student reasoning or behavior](self-consistency-does-not-imply-student-alignment.md) — related
 - [Chain-of-thought and reasoning prompting significantly improve LLM proportional match with human-authored distractors over direct prompting on both math and science MCQs](reasoning-prompting-improves-llm-distractor-match.md) — related
 - [AI models inconsistently capture expert feedback points across generation attempts](ai-feedback-inconsistent-across-attempts.md) — related
+- [Using a black-box LLM for feedback generation limits transparency and explainability](black-box-llm-feedback-transparency-limitation.md) — reports the opposite

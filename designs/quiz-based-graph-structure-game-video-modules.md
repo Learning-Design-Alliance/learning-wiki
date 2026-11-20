@@ -48,4 +48,4 @@ The article introduces two graph structure education modules teaching the same c
 -
 
 ## Key Sources
-- Sharmin, S., Koiler, R., Sadik, R., Bhattacharjee, A., Patre, P. R., Kullu, P., Hohensee, C., Getchell, N., & Barmaki, R. L. (2024). Cognitive Engagement for STEM+C Education: Investigating Serious Game Impact on Graph Structure Learning with fNIRS. https://arxiv.org/abs/2307.13637
+- Sharmin, S., Koiler, R., Sadik, R., Bhattacharjee, A., Patre, P. R., Kullu, P., Hohensee, C., Getchell, N., & Barmaki, R. L. (2024). Cognitive Engagement for STEM+C Education: Investigating Serious Game Impact on Graph Structure Learning with fNIRS. https://arxiv.org/abs/2307.13637. [doi:10.1109/aixvr59861.2024.00032](https://doi.org/10.1109/aixvr59861.2024.00032)

@@ -71,3 +71,7 @@ Off-diagonal patterns in the same 36-response linkage analysis (Figure 6), descr
 - [In a streamlined ATLAS Z-path masterclass, three of four ASP students became newly interested in pursuing particle physics in graduate school after analyzing ATLAS data](asp2022-atlas-masterclass-career-interest.md) — related
 - [SSUK alumni are well represented in STEM and space careers, and 75% of alumni in STEM said SSUK encouraged them to do outreach](ssuk-alumni-stem-space-careers-outreach.md) — related
 - [The authors claim some students who attended the astrophysics Masterclass later enrolled in the Physics degree course, as an orientation effect](masterclass-orientation-to-physics-degree.md) — related
+- [Most former Masterclass respondents build careers outside science or R&D, most frequently in IT](imc-careers-spread-across-professions.md) — related
+- [Former Masterclass participants report that the event influenced their later choice of physics or a related subject](imc-influenced-physics-choice-35-percent.md) — related
+- [Planned professions stated right after a Masterclass largely match respondents' actual later careers](imc-planned-vs-actual-career-diagonal.md) — possibly the same claim (merge candidate)
+- [Interns reported enhanced skills toward a STEM career and a majority wanted to pursue particle physics research after their undergraduate degree](internship-enhanced-stem-skills-particle-physics-intent.md) — related

@@ -62,9 +62,11 @@ The strategy works because concrete visual referents reduce the blank-page probl
 6. **Optional revision cycle**: treat the draft as a seed for a full process essay with peer feedback and revision.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the image serves the same function: surfacing relevant experience before the task
 - Timed Free Writing / Quickwrites — the 11-minute essay is a structured variant of fluency-focused free writing
 - Picture Word Inductive Model — a related image-anchored literacy routine, oriented toward vocabulary and sentence building rather than essay ideation
+- [Use aesthetically striking, dual art-science images with the four-step Interdisciplinary Image Reading routine in astronomy lessons](four-step-image-reading-astronomy-lessons-strategy.md)
 
 ## Examples
 - **Gretchen Bernabei's "11-Minute Essay"** (Barry Lane & Gretchen Bernabei, *The Story of My Thinking*, Heinemann) — the widely used classroom routine from which this strategy derives: a photo, a truism, and an 11-minute timed draft structure (1 min truism, 3 min example, 3 min another example, 3 min literature/world, 1 min closing).

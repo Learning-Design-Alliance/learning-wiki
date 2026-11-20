@@ -89,3 +89,4 @@ Descriptive item analysis of the eight questions no current model ever answered 
 - [Practical exam scores are higher for anatomical regions with online image support than for unsupported regions within the same intervention groups](intra-group-image-supported-blocks-score-higher.md) — related
 - [AI and surgeons performed similarly on eight MCQ questions; the AI scored higher on anatomical/technical questions and surgeons scored higher on two practical-scenario questions](ai-versus-surgeon-question-level-pattern-vns.md) — related
 - [Residents' correct answers vary widely across nutrition topics, lowest for macronutrient distribution and highest for fish portions](topic-level-nutrition-knowledge-gaps-residents.md) — related
+- [Students received the highest quiz grades on foundational topics like rational agents and the Turing test, while AI and Ethics and History of AI questions were challenging](quiz-grades-highest-rational-agents-turing-test.md) — related

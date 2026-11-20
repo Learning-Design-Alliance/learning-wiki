@@ -52,3 +52,4 @@ Cross-study comparison with a German secondary-school study (77% drew a quantum 
 - [Comparing model behavior to real Euglena experiments helped students recognize subtle differences beyond what instructions discussed](bifocal-modeling-reveals-real-model-differences.md) — a broader claim this one bears on
 - [Instructors were divided on the Bohr model, with two-thirds viewing it as misleading for students learning QM](qm-bohr-model-misleading-divided.md) — related
 - [Secondary and lower undergraduate students have difficulty letting go of Bohr's planetary atomic model](difficulty-letting-go-bohr-planetary-model.md) — related
+- [Most students retain the classical Rutherford or Bohr model of the atom despite later instruction in the quantum-mechanical model](students-retain-bohr-model-despite-quantum-instruction.md) — related

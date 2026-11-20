@@ -48,7 +48,8 @@ The primer presents social regulation of learning as "the broader category of re
 - 
 
 ## Examples
--
+
+- [Visualise individual engagement to support socially shared regulation and timely teacher support in collaborative learning](../strategies/visualise-individual-engagement-for-shared-regulation.md)
 
 ## Key Sources
 - Hampton, S., Glazer, K., Dragnić-Cindrić, D., & Fusco, J. (2025). Social Regulation of Learning. Digital Promise. https://doi.org/10.51388/20.500.12265/249

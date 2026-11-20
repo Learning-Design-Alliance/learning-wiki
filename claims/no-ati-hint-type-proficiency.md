@@ -60,3 +60,4 @@ The study hypothesized an aptitude-treatment interaction with higher-proficiency
 - [The Aptitude Treatment Interaction model has a significant effect on students' mathematical creative thinking abilities compared to the Problem Based Learning model](ati-outperforms-pbl-math-creative-thinking.md) — related
 - [An early aptitude-by-treatment interaction favoring lower-scoring treatment students was no longer statistically significant after updated analyses](aptitude-treatment-interaction-nonsignificant-after-cleaning.md) — related
 - [Preparation-by-re-quizzing interactions do not significantly improve the posttest model](no-posttest-preparation-interaction.md) — related
+- [Higher performing students wrote more usable hints](course-performance-hint-utility.md) — related

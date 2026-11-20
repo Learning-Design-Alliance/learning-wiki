@@ -53,3 +53,4 @@ Error-penalty comparison during the real task: the article reports 9 RO particip
 - [Virtual reality training reduces intraoperative error counts compared with no additional training in laparoscopic cholecystectomy](vrt-reduces-intraoperative-errors-versus-nat.md) — related
 - [3D VR acclimatisation reduces simulator penalty scores versus 2D video, with task-level effects mixed](3d-vr-reduces-penalty-scores.md) — related
 - [AR training is consistently associated with reduced procedural errors across all studies measuring that outcome](ar-reduces-procedural-errors.md) — related
+- [Open-ended VR training produced non-significant positive trends on real machining performance: higher completion rate (75% vs 64%), fewer weighted errors, and less time on task than classroom instruction](open-ended-vr-better-psychomotor-trends.md) — related

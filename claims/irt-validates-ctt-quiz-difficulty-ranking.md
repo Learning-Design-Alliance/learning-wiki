@@ -55,3 +55,4 @@ IRT validation using the py-irt package on results from 765 Immunology students 
 - [Item response theory analysis identifies image optimization, structure diameter, and structure surface distance as the most difficult assessment items](irt-identifies-most-difficult-ultrasound-items.md) — related
 - [Class-average Δθ correlates strongly with ⟨g⟩ (r = 0.99), and an IAS of 25% is necessary but not sufficient for average Δθ > 1](class-average-delta-theta-ias-25-percent.md) — related
 - [Rasch-model difficulty estimates confirmed the three test sets were of augmented difficulty and that Post-Tests were less difficult than their corresponding Pre-Tests](rasch-difficulty-pre-post-tests.md) — related
+- [CTT and IRT produce statistically comparable student ability estimates on the LPCA at the test level](ctt-irt-comparable-lpcb-ability-estimates.md) — related

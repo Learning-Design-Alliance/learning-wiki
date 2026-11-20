@@ -50,3 +50,4 @@ Agreement analysis of paired detector scores (Table 7; n = 1,224 pairs in 2013�
 - [After humanization with Undetectable AI, fewer than 4% of AI-labeled rewrites remain detectable (FNR > 96%) for Pangram and GPTZero](humanization-drives-detection-below-4-percent.md) — related
 - [Applied to 1,163 real master's theses, Pangram flagged 529 (45.5%) as containing AI-generated content, mostly at low-to-moderate levels](pangram-flagged-45-percent-real-theses.md) — related
 - [No detection threshold simultaneously keeps original flag rates, light-edit capture, and AI-pool false negatives low](no-threshold-satisfies-all-three-error-rates.md) — related
+- [GPTZero, an AI detector built for writing, fails to detect AI-generated code, assigning AI solutions lower suspicion scores than human solutions](gptzero-fails-ai-generated-code.md) — related

@@ -57,3 +57,4 @@ Controlled re-scoring of all LLM rewrite variants after Undetectable AI v11 huma
 - [A linear mixed-effects model of detection error showed significant paper type, tool, and interaction effects, with underestimation largest for fully AI-generated papers and Pangram consistently producing the smallest errors](mixed-model-detection-error-underestimation.md) — related
 - [Both detectors achieved substantially lower accuracy on scientific writing than on humanities texts](detectors-lower-accuracy-scientific-writing.md) — related
 - [An experienced supervisor linked rising student writing proficiency to AI tools while flagging copy-pasting and undetectable AI-generated content](expert-flags-copy-pasting-undetectable-ai-content.md) — related
+- [GPTZero, an AI detector built for writing, fails to detect AI-generated code, assigning AI solutions lower suspicion scores than human solutions](gptzero-fails-ai-generated-code.md) — related

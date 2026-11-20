@@ -86,3 +86,4 @@ Evaluation of fine-tuned T5-small and BERT-base classifiers on the Eedi test dat
 - [About 400 labeled proofs are sufficient for adequate autograding performance](400-proofs-sufficient-training.md) — related
 - [LLM-generated student plans in a game-based learning environment are valid, with T5 plans closely matching student-created plans and GPT-3.5 producing more diverse plans, supporting real-time adaptive scaffolding](llm-plan-generation-adaptive-scaffolding-gbl.md) — related
 - [Misconceptions can be uncovered in students’ written questions, with 11% of rated questions classified as containing a misconception](written-questions-uncover-misconceptions-11-percent.md) — related
+- [GPT-3's recall varies significantly across talk moves, performing far worse than RoBERTa for Connecting](gpt3-recall-varies-connecting-worst.md) — related

@@ -53,6 +53,7 @@ An original program related to the Special class for gifted pupils in science in
 - [Popular public lectures adjusted to high school students, disseminated as books with multimedia CD](seenet-mtp-popular-lectures-books-strategy.md)
 - [Revise the gifted-class curriculum to reduce the range of selected contents while keeping quality and performance level](reduce-content-range-keep-quality-strategy.md)
 - [Use physics competition tasks as authentic problem sources spanning beginner to highly complex levels](competition-tasks-authentic-problem-sources.md)
+- [CASCADE competition: motivated pupils prepare educational physics content and present it to their peers](cascade-peer-education-competition.md)
 
 ## Examples
 -

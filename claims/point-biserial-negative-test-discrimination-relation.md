@@ -61,3 +61,4 @@ Analytical derivation under CTT (equations 1.13–1.15) expressing the point-bis
 - [Graph-based items on Wien's law and the luminosity-area-temperature relationship discriminate best between high- and low-ability Astro 101 students](graph-based-wien-items-discriminate.md) — a narrower finding that bears on this claim
 - [Point biserial coefficient exceeds the 0.2 criterion for 32 of the 33 STPFaSL items](stpfasl-point-biserial-32-of-33-items.md) — related
 - [Item-total point-biserial correlations inflate item discrimination scores, and item-excluded correlations provide a cleaner measure for classroom tests.](item-excluded-correlation-discrimination.md) — related
+- [Item parameters of homework and online-exam items differ only insignificantly between resource-usage classes, and no performance quartile benefited or was harmed by online resource use](item-parameters-and-quartiles-null-usage-effects.md) — related

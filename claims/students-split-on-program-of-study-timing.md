@@ -47,3 +47,5 @@ Across the three student types, most participants had enrolled without clear edu
 
 ## Related Claims
 - [Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training](exposure-programs-increase-tech-pursuit.md) — a broader claim this one bears on
+- [First-year coursework is perceived as being in conflict with searching for a research group, limiting time to explore research options](coursework-research-in-tension.md) — related
+- [Most interviewees wished their departments provided more structure and guidance during the research group search, particularly for connecting with faculty and peers](wishing-for-more-structure-group-search.md) — related

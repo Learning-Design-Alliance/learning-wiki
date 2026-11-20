@@ -54,3 +54,4 @@ End-of-course student perception questionnaire (Table 1) plus face-to-face inter
 - [Students reported that case-based learning positively affected socialization, communication and cooperative working](cbl-social-impact-student-opinions.md) — related
 - [A polymer-film Stokes-analysis lab can be introduced to non-physics science majors in general physics, and in the authors' experience students responded positively and completed it in the allocated time.](stokes-analysis-lab-for-non-physics-majors.md) — related
 - [With-OnLabs students responded positively on an ARCS-based satisfaction questionnaire, with nearly all endorsing the Skype session and a majority wanting it before every lab exercise](onlabs-skype-satisfaction-arcs-positive.md) — related
+- [Most students in the reformed lab reported a favourable perception of the laboratory experience and responded positively to the introduction of Arduino boards](positive-student-perception-arduino-lab.md) — related

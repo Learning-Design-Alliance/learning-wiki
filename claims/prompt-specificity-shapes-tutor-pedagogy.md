@@ -52,3 +52,4 @@ Simulation study replaying a stratified sample of 150 impasse turns (n=50 per ty
 - [Next-turn recovery from impasses declines steadily as impasse depth increases, with help-seeking impasses declining most sharply](recovery-declines-with-impasse-depth.md) — related
 - [Explicit no-direct-answers guardrails in teacher prompts reduced the AI's final-answer provision rate by 8.5 percentage points (16.2% to 7.7%)](no-direct-answers-guardrail-reduces-ai-answers.md) — related
 - [Model scale alone does not induce Socratic behavior: unaligned Qwen-72B achieves 0% scaffolding effectiveness and 96.7% keyword leakage](scale-alone-does-not-induce-socratic-behavior.md) — related
+- [The quality and accuracy of ChatGPT's output on a lab activity varies significantly with the detail and specificity of the prompts](prompt-detail-determines-chatgpt-lab-output-quality.md) — a narrower finding that bears on this claim

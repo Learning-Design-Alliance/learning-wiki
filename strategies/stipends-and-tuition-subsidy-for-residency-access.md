@@ -47,6 +47,7 @@ Claremont compensates candidates to make a yearlong coteaching model accessible 
 - [Fund stipends and laptops to remove financial barriers to participation](srmp-stipends-laptops-strategy.md)
 - [Offer dependent-care grants funded by a mini-grant to remove family-care barriers to meeting attendance](dependent-care-grants-meeting-attendance.md)
 - [Provide sufficient financial support — stipend, tuition, scholarships and health benefits — to remove financial barriers to PhD entry and retention](financial-support-bridge-retention-strategy.md)
+- [Provide participant stipends and free materials to remove financial barriers and reach socioeconomically diverse participants](qcamp-stipends-free-materials-diversity-strategy.md)
 
 ## Examples
 -

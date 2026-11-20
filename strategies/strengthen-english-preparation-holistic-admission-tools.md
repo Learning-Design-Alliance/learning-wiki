@@ -48,6 +48,7 @@ The article recommends that, given the strong role of English proficiency, "targ
 
 - [Establish standard definitions and mission-aligned competencies for admissions](standardize-admissions-definitions-mission-aligned-competencies.md)
 - [Institutions considering reduced reliance on standardized testing should validate changes locally and monitor medium- and long-term outcomes](local-validation-admissions-policy-changes.md)
+- [Equity-minded holistic selection rubric with minimal eligibility requirements](equity-minded-holistic-selection-rubric.md)
 
 ## Examples
 -

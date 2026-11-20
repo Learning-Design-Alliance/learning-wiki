@@ -61,3 +61,4 @@ Theoretical argument in this review paper, attributed to Vygotsky, that static i
 - [The ISEE Assessment proposes potentiality, operationalized as an individual's learning rate measured through dynamic formative assessments of personal learning trajectories, in place of merit-based assessment](potentiality-learning-rate-replaces-merit-assessment.md) — related
 - [Teacher ratings of school performance and learning potential did not correlate significantly with the trained group's dynamic post-test score, suggesting dynamic testing provides teachers with new information](teacher-ratings-uncorrelated-dynamic-posttest.md) — related
 - [Three new forms of mediated assistance emerge from a practice sequence prior to dynamic speaking assessments](new-forms-of-mediated-assistance-emerge.md) — related
+- [A key gap in personalized gamification research is static assignment of students to predetermined groups without fluidity](static-personalization-grouping-gap.md) — related

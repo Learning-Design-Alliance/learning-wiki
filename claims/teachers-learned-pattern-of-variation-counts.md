@@ -51,3 +51,4 @@ Post-lesson interviews with the three chemistry teachers after the two research 
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
 - [Lecturers and students do not discern the same things from the same disciplinary representation](lecturer-student-discernment-mismatch.md) — related
 - [Study group participation alone did not correlate with higher exam scores](group-participation-alone-no-exam-correlation.md) — a narrower finding that bears on this claim
+- [Guided inquiry in chemistry actively involves students, increases learning independence, and is associated with higher learning achievement](guided-inquiry-advantages-achievement.md) — reports the opposite

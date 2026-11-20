@@ -44,6 +44,7 @@ The authors distill their AY201b experience into implementable steps: "we recomm
 - [Improve active bioinformatics lessons by balancing theory with practice, clarifying tasks, providing detailed software tutorials, and running a regular feedback loop](balance-theory-practice-clear-tasks-feedback-loop-strategy.md)
 - [Implement the teach-and-question assignment with brief in-class training, example videos, partner-finding support, required audio recordings, and scattered instructor feedback](tq-implementation-strategy.md)
 - [Classroom demonstration script for WWT tour creation, contrasting numerical narration with interesting facts](wwt-tour-demonstration-script.md)
+- [Guide students through hypothesis-testing discussions instead of providing experimental recipes](st-guided-discussion-hypothesis-testing-questions.md)
 
 ## Examples
 -

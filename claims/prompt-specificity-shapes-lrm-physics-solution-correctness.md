@@ -56,3 +56,4 @@ Phase I analysis of o4-mini outputs to three prompt variants (five submissions e
 - [The authors observe that more specific physical descriptions in generation prompts tend to produce more physically coherent AI-generated motion](prompt-specificity-shapes-physical-coherence.md) — related
 - [Comparing analytic with Euler and Euler-Cromer numerical solutions led students to quantify iteration error, which affected position but not velocity](analytic-versus-numerical-solution-error-activity.md) — related
 - [Priming with an advanced prompt led Claude and ChatGPT (GPT-4 with Wolfram plugin) to produce completely correct annotated general solutions to the PhO problem](priming-yields-correct-general-solutions.md) — related
+- [Assessments more resistant to ChatGPT are open-ended, involve images or student-specific outputs, or do not specify expected output in detail](assessment-features-resistant-to-chatgpt.md) — related

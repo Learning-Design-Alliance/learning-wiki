@@ -55,6 +55,7 @@ The report recommends an iterative approach in which researchers use existing da
 - [Improve the e-learning package's explanations and feedback, then re-test in an adequately powered trial of 90 participants](improve-lacaep-then-powered-trial-strategy.md)
 - [Use a two-phase pre-usability testing method (requirements gathering then questionnaire ranking) before developing a mobile collaborative learning application](two-phase-pre-usability-testing-strategy.md)
 - [Run a pilot study before the full experiment and be willing to restart with an improved design](pilot-study-before-full-student-experiment.md)
+- [Apply adaptive experiments in CS1 to rapidly improve motivational supports and alternative forms of feedback and explanation](adaptive-experiments-for-cs1-motivation-and-feedback.md)
 
 ## Examples
 -

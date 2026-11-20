@@ -49,6 +49,7 @@ The article recommends that university teachers articulate their theories and be
 - [Train instructors in learner-centered practices through modules emphasizing collaboration, interaction, and caring about students](instructor-training-modules-learner-centered-practices.md)
 - [Institutional supports for adopting collaborative teaching: curriculum integration, teacher motivation, and continuous evaluation](institutional-supports-collaborative-teaching-adoption.md)
 - [Institutional design review to reduce pressure transmitted through assessment, communication, and workload systems](need-supportive-system-design-review.md)
+- [Professional development for emerging DBER researchers should account for DBER's close ties with disciplinary science and make norms explicit](pd-support-emerging-dber-researchers-strategy.md)
 
 ## Examples
 -

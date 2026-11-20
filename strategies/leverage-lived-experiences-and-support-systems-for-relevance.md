@@ -48,6 +48,7 @@ Based on Sam's case, the authors recommend that future reforms "should leverage 
 ## Related Strategies
 
 - [Anchor physics teaching in everyday-life contexts, using newspaper and advertisement story problems](everyday-context-story-problems.md)
+- [Design physics problems set in local ocean-literacy contexts so students connect physics to maritime life](ocean-literacy-contextual-physics-problems-strategy.md)
 
 ## Examples
 -

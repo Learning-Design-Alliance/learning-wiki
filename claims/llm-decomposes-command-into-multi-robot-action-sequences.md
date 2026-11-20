@@ -49,3 +49,4 @@ Multi-robot simulation experiment using the natural language input "all robots s
 - [LLM-generated robot control code succeeds on 100%, 94.4%, and 88.9% of simple, composite, and complex instructions respectively](llm-code-success-rate-declines-with-instruction-difficulty.md) — related
 - [The article constructs an educational benchmark of 108 instruction instances grouped into simple, composite, and complex difficulty levels](edusim-llm-three-level-instruction-difficulty-benchmark.md) — related
 - [Natural language control requires less human operation time than manual control for all five complex tasks tested](natural-language-control-faster-than-manual-complex-tasks.md) — related
+- [Participants used ChatGPT by decomposing tasks into sub-tasks and integrating generated code per sub-task, obtaining only partial solutions](chatgpt-subtask-decomposition-partial-solutions.md) — related

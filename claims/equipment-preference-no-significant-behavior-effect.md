@@ -50,3 +50,4 @@ Hierarchical linear model including an equipment-preference predictor and its in
 - [In Physics I Lab control sections women were responsible for less equipment usage than men, but no gendered difference was observed in Physics II Lab](gendered-equipment-use-physics-i-not-ii.md) — related
 - [Women and men report different lab activity role preferences at semester start, with women preferring notes and managing and men preferring equipment and analysis](gendered-lab-role-preferences-survey.md) — related
 - [No statistically significant gendered difference in laptop, calculator, and paper use was found in either lab course, and partner agreements showed no significant effect on these activities](no-gender-difference-notekeeping-activities.md) — related
+- [Students did not show a clear preference for writing hints with or without the GPT-4 scaffold](no-clear-preference-gpt4-scaffold.md) — related

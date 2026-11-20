@@ -55,3 +55,4 @@ Complete-case randomized comparison in the preregistered field experiment (86 ra
 - [Students learn more with a research-based AI tutor than with in-class active learning on identical content (post-test scores)](ai-tutor-beats-active-learning-post-test.md) — related
 - [AI access raises immediate unaided test scores by 7.2 percentage points (0.28 SD) after a timed learning phase](genai-access-raises-immediate-test-scores.md) — related
 - [In math problem solving, a tutor-plus-peers LLM arrangement produced the strongest unassisted post-task test accuracy, with accuracy increasing monotonically from Control to Tutor + Peers](tutor-plus-peers-strongest-unassisted-math-accuracy.md) — related
+- [Correct tutoring improves AlgoBo's MCQ scores while random irrelevant conversation does not](correct-tutoring-improves-algobo-mcq-scores.md) — a narrower finding that bears on this claim

@@ -55,6 +55,8 @@ To increase the effectiveness of mentorship, the article recommends that mentors
 - [Build supportive classroom and home environments and use constructive feedback to strengthen self-efficacy and engagement](supportive-environment-feedback-self-efficacy-strategy.md)
 - [Use reflective journals with mentoring and emotional-support interventions to support students in complex clinical placements](rlj-mentoring-emotional-support-strategy.md)
 - [Extend a research program into a complex mentoring program with community events, educational workshops, and collaborative projects](konkoly-mentoring-expansion-strategy.md)
+- [Structured mentoring and professional-development sessions including Entering Research, Entering Mentoring, and Five slides in five minutes](entering-research-mentoring-five-slides-strategy.md)
+- [Include peer and near-peer mentoring structures such as a bridge buddy system](peer-near-peer-bridge-mentoring.md)
 
 ## Examples
 -

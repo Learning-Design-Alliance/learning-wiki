@@ -307,3 +307,5 @@ Every entry this page had was a second-hand report of one trial (Bastani et al.,
 - [Students used GAI in coursework but struggled to correct LLM-generated code during exams](students-struggle-correcting-llm-generated-code-exams.md) — related
 - [Unstructured LLM use is associated with reduced engagement with primary reference texts and lower ability to identify hallucinations](unguided-llm-use-critical-appraisal-erosion.md) — related
 - [Students with prior GPT hints solved later GPT-free tasks significantly faster, while solution time did not differ significantly on tasks where hints were enabled](gpt-hints-faster-later-task-completion.md) — related
+- [AI-assisted guided active reading lowers comprehension accuracy by 12% on average relative to manual writing, with the most variable (bimodal) outcomes across participants](ai-assisted-reading-accuracy-decline-bimodal.md) — related
+- [Participants with stronger prior knowledge and writing skill benefit most from AI-assisted active reading, while reading outside one's best field lowers accuracy](prior-knowledge-moderates-ai-learning-benefit.md) — related

@@ -53,3 +53,4 @@ Pre-registered randomized experiment (N=2,997, Prolific). After practicing, all 
 - [Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [Editors observe GenAI has improved surface correctness of manuscripts and increased submissions, but this does not lead to better research quality](genai-surface-quality-submission-quantity-not-quality.md) — related
 - [Merely viewing an AI-generated writing example improved writing skill as much as actively practicing with the AI tool, with benefits persisting one day later](viewing-ai-example-as-effective-as-ai-practice.md) — related
+- [Using generative AI for summary writing increases writing quality and productivity relative to unassisted manual writing](ai-writing-quality-productivity-gains.md) — related

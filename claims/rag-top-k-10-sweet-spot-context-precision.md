@@ -52,3 +52,4 @@ Retrieval-setting experiments within the RAGAS evaluation of the system's pipeli
 - [ChatGPT zero-shot relevance extraction for instruction-quality assessment retrieves mostly irrelevant utterances and overestimates instruction quality](chatgpt-zero-shot-relevance-extraction-unreliable.md) — related
 - [NCERT-tailored RAG preprocessing and figure-aware indexing improve retrieval precision over a generic-chunking baseline, per the authors' assertion](ncert-tailored-rag-improves-retrieval-precision.md) — related
 - [The teacher-conference problem met the sweet spot of complexity: 10th graders generated solution ideas containing the targeted errors without solving the problem canonically](pf-problem-sweet-spot-complexity-pilot-tests.md) — related
+- [Superfluous everyday details in a problem prompt distract ChatGPT-4 and degrade the physics quality of its responses](superfluous-context-degrades-chatgpt4-physics-responses.md) — a narrower finding that bears on this claim

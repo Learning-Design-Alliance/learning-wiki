@@ -48,3 +48,4 @@ Qualitative error analysis of GPT-3.5's FCI responses. On item 7 it identified t
 ## Related Claims
 - [Texture-based visualizations expose MLLM difficulty in decoding local flow direction from animated vector fields, a difficulty specific to dense texture-based motion rather than directional reasoning generally](mllm-flow-direction-interpretation-error-texture-based.md) — related
 - [All evaluated models struggle with spatial reasoning and precise visual replication on Turtle Graphics tasks](vlms-struggle-spatial-reasoning-visual-precision.md) — a broader claim this one bears on
+- [Per-student attempt data can localise specific directional difficulties, such as combining north-south with east-west coordinates](ejss-attempt-data-localise-direction-difficulties.md) — related

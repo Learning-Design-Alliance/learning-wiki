@@ -52,6 +52,7 @@ The authors recommend that "Extending support services to students over the summ
 - [Proactive summer outreach via advisors or personalized text messages to college-intending graduates](proactive-summer-outreach-advisors-or-text.md)
 - [Course-based near-peer mentorship as a scalable alternative to faculty mentorship in large-enrollment STEM programs](scalable-course-based-near-peer-mentorship.md)
 - [Recruit course completers as teaching assistants for a summer school to consolidate and extend their learning](course-completers-as-summer-school-tas.md)
+- [Include peer and near-peer mentoring structures such as a bridge buddy system](peer-near-peer-bridge-mentoring.md)
 
 ## Examples
 -

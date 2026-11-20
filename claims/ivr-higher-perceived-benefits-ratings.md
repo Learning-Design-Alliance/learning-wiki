@@ -57,3 +57,4 @@ Post-operation Likert questionnaire in the randomized trial: "the participants r
 - [Trainees who assessed peer performance during simulation training were more satisfied with the training format than those who did not](peer-assessment-raises-training-satisfaction.md) — related
 - [Students rated the e-learning module significantly higher than existing online resources on enjoyment, guidance and overall value, and ranked it the most useful resource for learning leukaemia](elearning-module-rated-higher-than-existing-resources.md) — related
 - [Students find online feedback more enjoyable and useful than traditional feedback in undergraduate mathematical assessment](online-feedback-more-enjoyable-useful-than-traditional.md) — related
+- [Students were significantly more satisfied learning with the traditional instructional format than with the VR format](control-format-higher-satisfaction-than-vr.md) — reports the opposite

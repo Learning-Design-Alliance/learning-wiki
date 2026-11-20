@@ -68,3 +68,4 @@ Same survey's item on ChatGPT disadvantages: "The most common problem reported b
 - [In the performance phase, AI tools helped learners organize tasks and supported metacognitive monitoring, but sometimes inaccurately reflected tasks and lacked in-depth responses](ai-performance-phase-benefits-and-drawbacks.md) — related
 - [Verisimilitude limitations—absent visual, tonal, and nonverbal cues and lack of rapport—persisted as a limiting factor for all students using ChatGPT as a standardized patient](verisimilitude-limits-chatgpt-sp.md) — related
 - [Clinical pharmacy trainees gave generally positive evaluations of an AI-assisted multi-advisor BOPPPS teaching model](positive-evaluations-ai-boppps-clinical-pharmacy.md) — related
+- [A majority of surveyed students reported that interacting with ChatGPT enabled them to explore new approaches or perspectives in understanding physics](chatgpt-new-approaches-perspectives-survey.md) — related

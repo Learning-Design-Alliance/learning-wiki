@@ -49,3 +49,4 @@ SALG survey attitude items (Figure 2C) in the pre/post design. The article also 
 - [Student self-reported learning gains on the SALG survey do not accurately predict objective CAT gains in critical thinking](self-report-inaccurate-critical-thinking-gains.md) — related
 - [Students exposed to the flipped classroom reported largely positive perceptions, with 84% finding pre-class materials helpful and 76% reporting improved understanding](student-perceptions-flipped-classroom-gondar.md) — related
 - [Saudi nursing students perceived pre-class assignments in flipped learning as deepening their understanding of course content](fl-preclass-assignments-deepened-understanding-nursing.md) — related
+- [A short course on computational thermodynamics produced a near-total increase in students' self-perceived confidence in mastering and applying computational thermodynamics concepts](computational-thermodynamics-course-confidence-increase.md) — related

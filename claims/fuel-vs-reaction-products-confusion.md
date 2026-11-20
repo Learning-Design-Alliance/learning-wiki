@@ -53,3 +53,4 @@ Survey item Q6 on radionuclides released in a nuclear accident: 58% chose pluton
 - [Only 4% of surveyed students knew that fewer than 50 deaths were directly attributed to Chernobyl in the first three months, while 96% either did not know or overestimated the toll](chernobyl-death-toll-misconception.md) — related
 - [Students confuse ionizing and non-ionizing radiation about genetic mutation and radioactive emissions](students-confuse-ionizing-nonionizing-radiation.md) — related
 - [Students confuse nuclear fuel with reaction products regarding radioactive elements released in nuclear accidents](students-confuse-nuclear-fuel-reaction-products.md) — possibly the same claim (merge candidate)
+- [Pre-service teachers describe radioactive materials in terms of elements, usually with atomic number greater than 84](radioactive-materials-described-as-heavy-elements.md) — related

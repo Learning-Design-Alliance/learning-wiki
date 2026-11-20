@@ -48,3 +48,4 @@ Gender reporting for the seven 2019 workshops, presented in Figure 8. The articl
 - [Recent workshop attendance predicts confidence in performing CPR (aOR = 6.93), while male dentists report lower confidence (aOR = 0.59)](workshop-and-gender-predict-cpr-confidence.md) — related
 - [Retreat placement and newcomer catch-up framing were associated with the two highest-attendance workshops](retreat-and-catch-up-framing-high-attendance.md) — related
 - [Seven AstroBVI workshops in Lima reached 165 blind and visually impaired participants, 68 with low vision and 97 with blindness](astrobvi-peru-165-bvi-participants-seven-workshops.md) — related
+- [QuCS attendees were predominantly doctoral-level and showed a substantial gender imbalance (83.85% male, 14.62% female)](qucs-attendee-demographics-doctoral-gender-imbalance.md) — related

@@ -59,3 +59,4 @@ Narrative synthesis of satisfaction findings across the 27 included studies. The
 - [Satisfaction and engagement with the simulations predicted post-test knowledge and attitude outcomes](vct-satisfaction-engagement-predictors.md) — related
 - [VR simulation as a teaching strategy improved nursing students' satisfaction, self-confidence, and performance](vr-simulation-nursing-satisfaction-self-confidence-performance.md) — related
 - [Dissection shows only slightly better or equal learning effects compared with prosection or digital learning tools, though mostly short-term recall is tested](dissection-only-slightly-better-or-equal-learning-effects.md) — related
+- [VR-trained students showed a significantly smaller gain in self-efficacy for understanding the material than control students, despite better objective performance](vr-smaller-self-efficacy-understanding-gain.md) — related

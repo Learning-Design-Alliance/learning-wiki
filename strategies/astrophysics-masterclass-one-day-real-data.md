@@ -50,6 +50,7 @@ The Astrophysics Masterclass is a one-day outreach event during which high schoo
 - [International Day of Women and Girls in Science masterclasses with all-girl cohorts and women physicists](idwgs-all-girls-masterclasses-strategy.md)
 - [World Wide Data Day: a short, single-day masterclass experience in schools with authentic LHC data](world-wide-data-day-w2d2-strategy.md)
 - [World Wide Data Day: a two-hour simplified masterclass organized by teachers at their own schools](world-wide-data-day-simplified-masterclass.md)
+- [CASCADE competition: motivated pupils prepare educational physics content and present it to their peers](cascade-peer-education-competition.md)
 
 ## Examples
 -

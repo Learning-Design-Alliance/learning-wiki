@@ -50,3 +50,4 @@ Interview transcript analysis shows Sophia modified her program between rounding
 - [Comparing original texts to model paragraphs prompted noticing that was again focused on lexical features](model-comparison-noticing-lexical.md) — related
 - [Computational activities can provide fertile ground for student sensemaking, as an existence proof from one case](computation-fertile-ground-sensemaking.md) — a broader claim this one bears on
 - [The sensemaking idea that drew most heavily on computational knowledge proved the most fruitful](computational-knowledge-most-fruitful-sensemaking.md) — related
+- [AI responses to the Gravitron task evidenced all sensemaking features except noticing gaps in their knowledge system, which around half of student responses showed](ai-sensemaking-features-except-noticing-gaps.md) — related

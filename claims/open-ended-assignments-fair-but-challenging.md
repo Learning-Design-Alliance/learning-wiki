@@ -51,3 +51,4 @@ Likert-scale course evaluation item administered after an assignment was returne
 - [LLMs perform worse on complex, open-ended, or subjective assignments than on short, clearly formulated answers](llm-struggle-open-ended-subjective-tasks.md) — related
 - [Thematic analysis of open-ended feedback finds roughly twice as many positive as negative comments on the VR station, dominated by realism and fairness](vrs-thematic-realism-fairness.md) — related
 - [Students rated all student-facing design principles positively, with formative assessment and learning content rated highest (above 6 on a 7-point scale)](design-principles-rated-positively-survey.md) — related
+- [Enforced rubric use in gradetools supports consistent, fair grading across students and questions](rubric-enforcement-consistent-fair-grading.md) — related

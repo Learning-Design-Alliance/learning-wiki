@@ -52,6 +52,7 @@ In advanced undergraduate chemical engineering and physics courses, students fir
 - [Coupled Model: pairing interactive simulations with real-time, open-format, scaffolded formative assessment on one device per student](coupled-simulations-realtime-formative-assessment-strategy.md)
 - [Recast multiple-choice clicker questions as open-format questions requiring written justification to expose faulty reasoning behind correct answers](recast-clicker-questions-open-format-strategy.md)
 - [Replace board-work by a few selected students with device-based submission of all students' problem solutions for whole-class real-time feedback](whole-class-digital-ink-solution-submission-strategy.md)
+- [Adapt open-endedness to learner skill level and scaffold exploration with graduated guidance](adapt-open-endedness-to-skill-level.md)
 
 ## Examples
 -

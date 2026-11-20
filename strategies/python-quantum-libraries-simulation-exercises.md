@@ -56,6 +56,7 @@ Given the early maturity of quantum communications systems, the article recommen
 - [Teach quantum computing through reproducible code boxes that students run locally and on real quantum hardware](reproducible-code-boxes-quantum-teaching-strategy.md)
 - [Pair traditional quantum computation lecture topics with hands-on activities on real quantum systems](pair-lectures-with-hands-on-quantum-activities.md)
 - [Present interactive code in self-contained logical blocks with stable function definitions to shorten the hypothesis–experiment–result feedback loop](self-contained-interactive-code-blocks.md)
+- [Use reactive notebooks integrating explanatory text and code to support engagement and exploration](reactive-notebooks-integrated-text-code-strategy.md)
 
 ## Examples
 -

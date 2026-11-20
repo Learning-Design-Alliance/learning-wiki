@@ -80,3 +80,4 @@ Qualitative interviews with experimental-group participants. Student C said "The
 - [Student-proposed course projects turn out to be the most successful projects](student-proposed-projects-most-successful.md) — related
 - [83% of students preferred simulation-driven classroom teaching over non-simulation-driven teaching](students-prefer-simulation-driven-teaching.md) — related
 - [Teachers of the involved classes reported student enjoyment and stated they would reuse the course materials and Kahoot! with their pupils](teachers-reuse-intent-kahoot-materials.md) — related
+- [A significant majority of interns expressed willingness to share their research experience with prospective interns during future informational webinars](interns-willing-share-experience-webinars.md) — related

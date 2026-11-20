@@ -53,3 +53,4 @@ Downstream pilot of the full workshop (didactic, simulation with competency rubr
 - [All 20 enrolled residents completed the full simulation-based mastery learning program for nasolacrimal duct probing](sbml-nasolacrimal-probing-feasibility-completion.md) — related
 - [Users reported technical difficulties — low resolution (n = 17), irregular audio (n = 9), and dizziness after use — that qualify the simulation's usability.](360-vr-technical-difficulties-dizziness.md) — related
 - [Physician residents rated the LSM prototype's nipples and breast tissue as realistic (5.5/7) and reported it helped them learn breast assessment in a 2017 workshop](resident-lsm-prototype-realism-2017.md) — related
+- [About one third of students reported technical issues installing or using the tool, mostly related to the 2022 desktop application](vector-field-tool-technical-issues-one-third.md) — related

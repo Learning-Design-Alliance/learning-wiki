@@ -73,3 +73,4 @@ Qualitative analysis of the 10 interview transcripts found this compiled-relatio
 - [Physics experts used reasoning about physical mechanisms to validate their mathematical models during graphing tasks](mechanistic-reasoning-validates-expert-models.md) — related
 - [Physics experts solving graphing tasks use mathematics mental actions MMA 1-4 but show no evidence of MMA 5 (Smooth Continuous)](physics-experts-use-mma1-4-not-mma5.md) — related
 - [In a preliminary experiment, physics graduate students used quantities not given in the task and applied known models, behaviors distinct from mathematics graduate students](physics-grad-students-proxy-and-compiled-models-preliminary.md) — related
+- [Physics experts' covariational reasoning in modeling tasks is not fully described by the mathematics mental-actions framework](physics-expert-covariation-beyond-math-framework.md) — related

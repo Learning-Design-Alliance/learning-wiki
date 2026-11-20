@@ -71,3 +71,4 @@ Social validity data collected at posttest from intervention teachers using a si
 - [The fully online iteration maintained uniformly positive participant feedback and reached teachers who could not have joined an in-person program](sattaa-online-format-reach.md) — related
 - [Participant feedback on ASP2022 was generally positive, with most participants satisfied and willing to recommend ASP to colleagues](asp2022-feedback-generally-positive.md) — related
 - [Teachers judged the VR activity most suitable for the final months of the fourth or fifth year of Italian high school, and all said they would recommend it to other classes](vr-lab-visit-suitability-and-recommendation.md) — related
+- [A significant majority of interns expressed willingness to share their research experience with prospective interns during future informational webinars](interns-willing-share-experience-webinars.md) — related

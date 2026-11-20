@@ -50,3 +50,4 @@ The authors' interpretation drawn from the model (type e): the academic trajecto
 - [Most STEM faculty still rely primarily on lecture despite evidence favoring active learning](faculty-still-primarily-lecture-stem.md) — related
 - [PhD-granting institutions, especially the most prestigious, disproportionately reproduce pedagogical culture because they train future faculty](phd-granting-institutions-reproduce-pedagogical-culture.md) — related
 - [Italian nursing instructors most frequently use the traditional lecture, with 85.7% often or always using receptive (transmissive) architecture strategies](lecture-dominant-receptive-architecture-italian-nursing.md) — related
+- [PI remained typically more effective than traditional didactic teaching despite criticisms targeting its social validity](pi-more-effective-than-didactic-teaching.md) — related

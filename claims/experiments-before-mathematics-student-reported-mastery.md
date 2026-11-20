@@ -49,3 +49,4 @@ Self-reported student perceptions from the two-year pilot of the quantum computi
 - [Majorana judges that the purely mathematical method of presenting quantum mechanics has even greater inconveniences than the historical one](purely-mathematical-method-greater-inconveniences.md) — a broader claim this one bears on
 - [Visual puzzle-based representation can convey the Hong-Ou-Mandel effect without mathematical formalism](hom-effect-visual-explanation.md) — a broader claim this one bears on
 - [The author argues that combining simulations with experiments helps students see the connection between them and understand their limitations](simulation-experiment-combination-builds-connection-awareness.md) — related
+- [The authors report the activity's virtual component proved highly valuable for distance learning in quantum optics](virtual-component-valuable-distance-learning-quantum-optics.md) — related

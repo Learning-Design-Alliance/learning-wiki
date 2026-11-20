@@ -50,6 +50,7 @@ The authors propose organisational refinements to competition-based learning tou
 
 - [Extend competition benefits beyond participants by sharing excellent works, videos, and operational guidance through open online registration](open-resource-sharing-extend-competition-benefits.md)
 - [Scoring-format variations to shift the assessment toward formative or competitive functions](buddy-quiz-scoring-variation-strategy.md)
+- [Recruit competition organisers from former participants to renew the team and motivate current students](recruit-organisers-from-former-participants.md)
 
 ## Examples
 -

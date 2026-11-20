@@ -53,3 +53,4 @@ Per-topic analysis over the 179-question test set (Table 2, Fig. 2). NP-complete
 - [Cluster membership showed a strong multivariate effect on standard text-similarity metrics (Pillai's trace = 0.85, F(12, 248) = 15.31, p < 0.001)](manova-cluster-effect-text-metrics.md) — related
 - [Sciences-oriented students assimilated the studied sorting algorithm at a higher rate than humanities-oriented students during the black-box task](s-students-higher-algorithm-assimilation-rate-than-h-students.md) — related
 - [ROUGE overall performance is quite poor compared with LSA, BLEU and n-gram co-occurrence for summary assessment](rouge-poor-summary-assessment.md) — related
+- [Automatic text-similarity metrics do not correlate with manual evaluation for Socratic utterance generation](automatic-metrics-uncorrelated-socratic-manual-eval.md) — related

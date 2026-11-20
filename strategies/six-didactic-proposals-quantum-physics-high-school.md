@@ -49,6 +49,7 @@ The article distils its experience into six recommendations, stating that "the h
 - [Use computer simulations and software visualizations extensively to build students' visualization of quantum mechanics concepts](computer-simulations-visualize-quantum-concepts.md)
 - [Connect quantum physics learning to everyday life, citizenship and human relationships rather than applications alone](connect-quantum-learning-to-everyday-life-and-citizenship.md)
 - [Gradually introduce basic concepts of modern physics into high school physics curricula](gradually-introduce-modern-physics-high-school-curricula.md)
+- [Introduce modern physics concepts early, gradually, and with historical context, hands-on activities, and online visualization resources](early-gradual-historical-modern-physics-introduction.md)
 
 ## Examples
 -

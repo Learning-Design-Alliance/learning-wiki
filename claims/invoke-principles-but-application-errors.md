@@ -57,3 +57,4 @@ Error analysis of students' quiz work across both courses. The article reports t
 - [Students discovered the inherent slope bias from the small circle of rotation in the centripetal force procedure themselves, via the larger percent difference with theory](students-discovered-centripetal-procedure-bias.md) — related
 - [Very few students accounted for the changing force orientation and centripetal acceleration when reasoning about the normal force, and most drew n and mg magnitudes inconsistent with their 𝑎𝑦 graphs](normal-force-question-student-difficulties.md) — related
 - [Productive use of assumptions simplifies problem solving and helps determine which principles apply](assumptions-simplify-problem-solving.md) — related
+- [Students apply the Principle of Equivalence correctly outside but fail inside a gravitational field](equivalence-principle-fails-inside-gravitational-field.md) — related

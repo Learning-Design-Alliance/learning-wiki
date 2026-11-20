@@ -44,6 +44,7 @@ In future work, the authors recommend extending the framework beyond computer sc
 - [Re-arrange and extend the web-assisted flipped-classroom activity materials to other science subjects and disciplines](rearrange-web-assisted-materials-other-subjects.md)
 - [Adapt the blended online-PBL-CBL framework to other surgical disciplines and incorporate AI-assisted learning](adapt-blended-framework-other-disciplines-ai-future.md)
 - [Adapt the four-question unit-test design to the local syllabus while preserving coherence](adapt-unit-test-design-to-syllabus.md)
+- [Extend sequencing activities with AI-generated personalized puzzles to other subjects and higher-order skills](extend-sequencing-activities-beyond-programming-strategy.md)
 
 ## Examples
 -

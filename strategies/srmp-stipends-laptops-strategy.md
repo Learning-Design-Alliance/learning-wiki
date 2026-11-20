@@ -50,6 +50,7 @@ The author recommends paying student stipends of $1,000–1,500, based on roughl
 - [Recruit students with essays instead of transcripts and recommendation letters to avoid biased measures](srmp-essay-recruitment-strategy.md)
 - [Offer dependent-care grants funded by a mini-grant to remove family-care barriers to meeting attendance](dependent-care-grants-meeting-attendance.md)
 - [Provide sufficient financial support — stipend, tuition, scholarships and health benefits — to remove financial barriers to PhD entry and retention](financial-support-bridge-retention-strategy.md)
+- [Provide participant stipends and free materials to remove financial barriers and reach socioeconomically diverse participants](qcamp-stipends-free-materials-diversity-strategy.md)
 
 ## Examples
 -

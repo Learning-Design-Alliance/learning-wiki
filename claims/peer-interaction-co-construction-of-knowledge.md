@@ -54,3 +54,4 @@ Prior study cited as the authors' own research: introductory physics students fi
 - [Students in one uncontrolled pre-test-to-post-test study: groups in which no member answered the ICT correctly all answered the GCT correctly 31% of the time](qm-clicker-co-construction-31-percent.md) — related
 - [In an upper-level QM course, student performance on clicker questions rose significantly from ICT to GCT in one single-group pre-post study](qm-clicker-gct-improvement-over-ict.md) — related
 - [Students improved on most questions after peer interaction but did not improve on a synthesis question about electron probability, and reached ceiling on simple-application questions](qm-clicker-no-improvement-synthesis-question.md) — related
+- [Co-construction rates varied from 0% to 71% and peaked for questions about half of students answered correctly individually](qm-co-construction-peaks-half-correct.md) — related

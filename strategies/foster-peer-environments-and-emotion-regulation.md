@@ -57,6 +57,7 @@ The article recommends that universities move beyond curriculum delivery to fost
 - [Structure educational environments to facilitate role model identification and embed role models in a broader social network](structure-environments-for-role-model-identification.md)
 - [Foster supportive classroom environments and monitor academic emotions to improve English learning outcomes](supportive-classroom-emotion-monitoring-strategy.md)
 - [Strengthen teacher support, academic self-efficacy and positive academic emotions to raise university students' achievement](support-efficacy-emotions-enhancement-strategies.md)
+- [Promote cooperation strategies from the early stages of schooling: clear group roles, responsibilities, open communication and a supportive environment](early-group-cooperation-strategies.md)
 
 ## Examples
 -

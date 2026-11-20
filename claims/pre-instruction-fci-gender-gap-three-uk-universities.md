@@ -56,3 +56,5 @@ Analysis of matched pre-instruction FCI scores for male and female sub-cohorts a
 - [Two non-NA studies found female students outperformed male students on the FCI, contrasting the overall pattern](non-na-female-superiority-fci-studies.md) — reports the opposite
 - [Significant gender differences in FCI scores appear in every application of the test, with small to medium effect sizes](fci-gender-differences-all-applications.md) — a broader claim this one bears on
 - [Pre- and post-test FCI scores showed a moderate positive correlation (r = 0.504) overall, with a stronger correlation for male than female students](fci-pre-post-moderate-positive-correlation-uj.md) — related
+- [No statistically significant difference between male and female students in FCI pre-test % correct or %nDM means](fci-pretest-gender-no-significant-difference.md) — reports the opposite
+- [UJ cohorts departed significantly from Spanish cohorts on Q2 (displacement time depends on mass) and Q14 (ego-centred reference frame)](uj-q2-q14-departure-from-spanish-cohorts.md) — related

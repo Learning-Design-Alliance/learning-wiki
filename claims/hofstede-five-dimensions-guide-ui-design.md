@@ -50,3 +50,4 @@ Narrative review section on HCI. The review reports that designers use 'models o
 - [Cross-cultural study of university websites found similar technical features and audience-significant cultural emphases](callahan-university-websites-similar-features.md)
 - [Dimensional national-culture models (Hofstede; Hall) did not prove useful as a basis for modeling culture in educational technology design](dimensional-culture-models-insufficient-for-edtech-design.md) — reports the opposite
 - [Hofstede cultural dimensions (uncertainty avoidance, individualism-collectivism, masculinity-femininity, power distance) did not significantly influence m-learning behavioural intention](cultural-dimensions-no-effect-ml-bi.md) — related
+- [Individual cultural values predict teachers' trust in AI-EdTech above and beyond perceived benefits and concerns](cultural-values-predict-teacher-trust-ai-edtech.md) — related

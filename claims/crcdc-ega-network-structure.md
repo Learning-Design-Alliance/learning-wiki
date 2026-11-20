@@ -70,3 +70,4 @@ Dimensionality examination within the EGA network analysis. The article also rep
 - [Exploratory factor analysis supports the unidimensionality of the simulation-based assessment rubric, with all 14 items loading 0.60–0.81 on a single procedural competence factor](efa-unidimensional-simulation-rubric-procedural-competence.md) — related
 - [EFA identifies a two-factor structure (recognition and management) explaining 66.62% of item variance](gp-depression-scale-two-factor-structure-66-62-variance.md) — related
 - [Exploratory factor analysis of feedback identified three factors—motivation, skill development, and engagement—strongly correlated with the jigsaw approach](efa-jigsaw-motivation-skills-engagement.md) — related
+- [The survey instrument separates into three distinct scales: pure calculus, applied calculus, and calculus self-efficacy](three-scales-calculus-survey-validation.md) — related

@@ -51,3 +51,4 @@ Second-phase questionnaire ranking with 248 participants from education, busines
 - [91% of UAT participants rated the Taklif.AI user interface as intuitive](uat-91-percent-rate-interface-intuitive.md) — related
 - [Existing mobile learning applications are limited to short-funded pilot projects with narrow features, leaving MCL requirements unmet](mcl-pilot-projects-limited-features.md) — related
 - [A two-phase pre-usability testing method involving 106 users from 15 universities elicits basic user requirements for mobile collaborative learning applications](pre-usability-testing-elicits-mcl-user-requirements.md) — possibly the same claim (merge candidate)
+- [Students rated the graphical vector field tool as intuitive and user-friendly, with a usability and design scale mean of 0.76 (N = 125)](vector-field-tool-high-usability-ratings.md) — related

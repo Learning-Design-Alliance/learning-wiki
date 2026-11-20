@@ -55,3 +55,4 @@ Meta-regression moderator analysis with geographical region (7 levels) entered j
 - [Moderators of teachers' growth mindset effects include publication year, world region, publication status, dimensionality, referent, content, and study quality](teacher-growth-mindset-moderators.md) — related
 - [Total DREEM scores differ by nationality, with Asian students scoring significantly higher than Middle Eastern and North American students](nationality-differences-dreem-scores.md) — related
 - [Bachelor grades, essay length and female sex positively predict master grades; students from Africa, Asia, Central and South America attain lower grades than European students](control-variables-predict-master-grades.md) — related
+- [Teachers' trust in AI-EdTech differs geographically: higher in Brazilian, Israeli and Japanese samples than in Norwegian, Swedish and American samples](geographic-differences-teacher-trust-ai-edtech.md) — related

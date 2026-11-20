@@ -55,3 +55,4 @@ The review reports a quasi-experimental VR study (n = 50) in which "rule-based d
 - [Self-adaptive game design with multiple difficulty levels is positively associated with intervention effectiveness](self-adaptation-supports-effectiveness.md) — a broader claim this one bears on
 - [Proportion of correctly identified targets dropped linearly with game level for both children and adults, confirming the dynamic leveling technique adjusts difficulty nearly linearly](dynamic-leveling-linear-difficulty-adjustment.md)
 - [Difficulty adaptation significantly reduced the variance of task correctness and perceived difficulty across learners](adaptation-balances-outcome-variance-across-learners.md) — related
+- [No significant difference in learning gain, flow, or perceived difficulty between predefined, self-determined, and DDA difficulty adjustment in an open-ended reasoning task](difficulty-adjustment-methods-no-difference-open-ended-task.md) — reports the opposite

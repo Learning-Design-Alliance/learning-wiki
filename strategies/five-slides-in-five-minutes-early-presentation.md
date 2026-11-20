@@ -46,6 +46,7 @@ Early in the internship, interns meet their research mentors, discuss their proj
 
 - [Use scenario-based role-play to prepare interns for communicating with mentors](mentor-communication-scenario-role-play.md)
 - [Sequence a project course as a theoretical-analysis phase, an experimental phase, a written report and an oral presentation](theory-then-experiment-report-and-disputatio-sequence.md)
+- [Structured mentoring and professional-development sessions including Entering Research, Entering Mentoring, and Five slides in five minutes](entering-research-mentoring-five-slides-strategy.md)
 
 ## Examples
 -

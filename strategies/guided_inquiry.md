@@ -77,6 +77,7 @@ Guided inquiry outperforms unguided discovery because learners lack the prior kn
 - [Eight open student exploration activities investigating freezing of water with varied containers, covers, hardness, stirring and freezers](mpemba-student-exploration-activities.md)
 - [Three-phase semi-guided exploration design for teaching energy with a simulator](three-phase-semi-guided-simulator-design.md)
 - [Use guiding questions in a Socratic style to break research tasks into smaller steps and steer discussion](socratic-guiding-questions-research-tasks.md)
+- [Use an open problem with discrepant data to scaffold student knowledge construction in the laboratory](open-problem-discrepancy-knowledge-construction.md)
 
 ## Examples
 - **[IQWST (Investigating and Questioning our World through Science and Technology)](https://iqwst.org)** — a middle-school science curriculum in which lessons are organized around guided investigations of canonical phenomena, with embedded question prompts and reading scaffolds.

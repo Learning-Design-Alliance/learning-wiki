@@ -81,3 +81,4 @@ Discussion section example: Highline teachers who reviewed and recommended Ratio
 - [The authors attribute the motivation decrease to researcher-selected applications limiting autonomy, low technological literacy undermining competence, and weak relatedness](sdt-explanation-motivation-decrease-digital-workshop.md) — related
 - [Pre-test scores for perceived competence were lower among the intervention group than among the comparison groups, suggesting self-selection](lq-self-selection-lower-pretest-competence.md) — related
 - [A pilot of Jupyter with in-service physics teachers showed negative feedback, leading the authors to seek a simpler tool](jupyter-pilot-in-service-teachers-negative.md) — a narrower finding that bears on this claim
+- [Adding a math teacher during EdTech use raises engagement more for higher-pretest students, an effect the authors flag as potentially inequitable](math-teacher-effect-favors-higher-pretest.md) — related

@@ -69,3 +69,5 @@ Questionnaire evaluation within the field test, using six Likert-scale usability
 - [Students rated the educational card game very satisfactory overall (mean 4.29), with usefulness rated highest](card-game-very-satisfactory-ratings.md) — related
 - [Participants rate the VR learning experience as enjoyable, with more than 75% agreeing or strongly agreeing](vr-enjoyment-high-ratings.md) — related
 - [Prospective teachers rated ChatGPT 3.5 as highly usable but rated its output quality below neutral when creating physics tasks](chatgpt-high-usability-low-output-quality-ratings.md) — related
+- [Students perceived the tool as helpful for understanding vector field concepts and recommended its use, with an educational impact scale mean of 0.65 (N = 65)](vector-field-tool-perceived-educational-impact.md) — related
+- [Students rated the graphical vector field tool as intuitive and user-friendly, with a usability and design scale mean of 0.76 (N = 125)](vector-field-tool-high-usability-ratings.md) — related

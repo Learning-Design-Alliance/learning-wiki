@@ -81,3 +81,4 @@ Authors' interpretation of the mismatch between survey-reported consensus and co
 - [Inter-student diagnostic agreement was moderate for third-year and moderate-good for fifth-year students (Fleiss' Kappa 0.42 and 0.48)](fleiss-kappa-moderate-student-diagnostic-agreement.md) — related
 - [The OD marking rubric achieved fair-to-good inter-rater reliability, with higher agreement in the expert CR examiner group than the typical examiner group](od-rubric-fair-to-good-inter-rater-reliability.md) — related
 - [Post-training inter-reader reliability of PD-L1 high versus low/negative classification was moderately reliable at all three cut-offs (Fleiss' Kappa 0.581, 0.556, 0.535)](fleiss-kappa-moderate-all-cut-offs.md) — related
+- [Human inter-annotator agreement and dataset recall of 75.5 validate the benchmark's coverage of high-quality Socratic utterances](human-ita-dataset-recall-validation.md) — related

@@ -78,3 +78,4 @@ Post-experiment assessment in session 2: "a solid majority of 86%" viewed positi
 - [86% of students said the Arduino-based experiment contributed significantly to learning the content presented](86-percent-experiment-contributed-significantly-learning.md) — related
 - [Students responded very positively to the augmented-reality comic methodology: 100% wanted more such activities and 94% found the methodology easy to understand](student-acceptance-ar-comic-methodology.md) — related
 - [Classroom students rated VR lessons as most helpful for learning system pathways, and rated the auditory lesson higher than the visual lesson](classroom-system-pathways-ratings.md) — related
+- [Students responded very positively to the course's content arrangement, with progression as the guiding design principle](progression-principle-well-received.md) — related

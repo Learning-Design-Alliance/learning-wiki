@@ -69,3 +69,4 @@ NASA-TLX experienced-performance subscale comparison between groups using the Wi
 - [Subjective workload (NASA-TLX) did not differ between beginners and experts during simulated angiographies](nasa-tlx-did-not-differ-between-beginners-and-experts.md) — reports the opposite
 - [Novices reported higher temporal demand, performance, and frustration on NASA-TLX subscales than experts during peg transfer training](novices-higher-tlx-temporal-demand-performance-frustration.md) — reports the opposite
 - [NASA-TLX mental workload scores are higher in novices and differ significantly by experience level in tasks 1 and 2](nasa-tlx-mental-workload-differs-by-laparoscopic-experience.md) — related
+- [VR-trained students reported mixed workload profiles: less temporal demand but more mental demand, physical demand, and effort than controls, none statistically significant](vr-mixed-nasa-tlx-workload-profile.md) — related

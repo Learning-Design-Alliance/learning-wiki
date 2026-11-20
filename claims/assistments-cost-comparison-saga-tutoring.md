@@ -62,3 +62,4 @@ The authors' benchmark comparison in the discussion, citing Guryan et al. (2023)
 - [Teacher time imposes no incremental cost for ASSISTments above business-as-usual instruction](assistments-no-incremental-teacher-time-cost.md) — related
 - [The blended UBE course was delivered at a fraction of typical commercial training cost](blended-ube-course-low-cost-efficiency.md) — related
 - [Low-cost materials suffice for first-year research projects; the program began with $50 per group and now uses $200](fp-low-resource-requirements.md) — related
+- [Prior CTS authoring is costly: early ITS development ratios of 200:1 to 300:1, reduced to 40:1 by ASSISTment Builder and 50:1–100:1 by example tracing](its-authoring-development-ratios-background.md) — related

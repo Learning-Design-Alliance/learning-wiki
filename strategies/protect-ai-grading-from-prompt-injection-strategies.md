@@ -50,6 +50,7 @@ The article recommends a combination of organisational and technical measures ra
 
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
 - [Recommendations for using automatic grading systems more securely in practice](recommendations-safer-asag-deployment.md)
+- [Combine similarity detection using pre-generated AI answers with automatic application of instructor code-style heuristics to improve AI-code detection](combine-similarity-and-style-heuristics-detection.md)
 
 ## Examples
 -

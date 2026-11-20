@@ -75,3 +75,4 @@ Linguistic similarity analysis comparing each final training answer with the cha
 - [Case analysis assistance and Socratic dialogue simulation dominated GenAI usage, and dialogue-based interaction patterns were associated with better outcomes than passive use](genai-usage-patterns-dialogue-effective.md) — related
 - [GenAI chatbot support increased executive help-seeking but reduced metacognitive engagement compared to human expert support](genai-chatbot-increased-executive-help-seeking-reduced-metacognition.md) — related
 - [Copy & paste was the most used interaction strategy with ChatGPT, and 62% of final answers were extracted directly from ChatGPT](copy-paste-dominant-chatgpt-strategy.md) — related
+- [Participants' main strategy for using ChatGPT on programming tasks is copying the assignment's textual description into the tool and then adapting the retrieved code](chatgpt-copy-paste-assignment-description-strategy.md) — related

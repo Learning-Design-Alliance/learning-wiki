@@ -49,3 +49,4 @@ Intention-to-treat analysis of a randomized controlled trial of 40 laparoscopy-n
 - [No significant difference between RCH and human camera assistant groups in reaching competency in circle cutting or needle guidance tasks](rch-no-difference-circle-cutting-needle-guidance.md) — related
 - [Novices training with a remote-controlled camera holder report significantly lower total surgical workload than those with a human camera assistant](rch-lower-surgical-workload.md) — related
 - [Novice learners taught virtually complete the MISTELS peg transfer task faster than face-to-face-taught learners (11.25 vs 16.88 min; P=0.015)](online-group-faster-peg-transfer.md) — related
+- [Learners guided by a virtual AI teacher acquire the motor skill significantly faster, reaching a competence threshold in fewer sessions than non-guided learners](virtual-teacher-faster-skill-acquisition.md) — related

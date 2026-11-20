@@ -51,3 +51,4 @@ Overall post-intervention test (multiple-choice plus open-ended, max 18) in the 
 - [Structured prompting raises perceived interaction clarity and dependability but reduces perceived novelty of AI-supported learning](prompting-raises-perspicuity-dependability-lowers-novelty.md) — related
 - [Cognitive elaboration strategy significantly affects overall posttest performance, with self-generated elaboration highest](elaboration-strategy-affects-posttest-performance.md) — related
 - [PSBLW with open problems yields the highest posttest scores](psblw-open-problems-highest-posttest.md) — related
+- [No significant overall difference in Learner+AI task performance across guidance types or LLM prompting, though examples and metacognitive questioning paired with an unprompted LLM showed exploratory gains](no-overall-performance-difference-guidance-llm-type.md) — reports the opposite

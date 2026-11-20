@@ -66,3 +66,5 @@ Table 5 of the trial reports pairwise mean time differences and Cohen's d: Hybri
 ## Related Claims
 - [The relationship between time on task and posttest score differs by condition: essentially uncorrelated for Proof Blocks but moderately correlated for hybrid and written-proof activities](time-on-task-posttest-correlation-by-condition.md) — related
 - [The equal-learning and time results held in robustness and conditional analyses: across familiarity subgroups, across all rubric sections, and across both test questions](proof-blocks-results-robust-across-subgroups-and-rubric-sections.md) — a narrower finding that bears on this claim
+- [Proof Blocks problems with distractors took significantly longer to complete than problems without distractors](proof-blocks-distractors-increase-completion-time.md) — related
+- [Proof Blocks problems with distractors produced descriptively higher posttest scores than no-distractors or off-topic problems, but the differences were not statistically significant](proof-blocks-distractors-no-significant-gain.md) — related

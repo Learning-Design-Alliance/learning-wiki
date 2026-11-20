@@ -72,3 +72,4 @@ FY/BFY-separated comparison of CIS communication-activity reports; apparent diff
 - [The LCAS discovery and relevance scale differentiates CURE students from traditional lab students with a medium-large effect](lcas-discovery-relevance-differentiates-cures.md) — related
 - [Four E-CLASS items elicit less-than-50% expert-like responses in both FY and BFY courses, three of them concerning student autonomy](low-favorable-autonomy-items-e-class.md) — related
 - [Many instructors shifted remote lab learning goals toward reinforcing physics concepts, while skills-focused courses largely maintained their goals](shift-to-concept-focused-remote-lab-goals.md) — related
+- [Several E-CLASS items on lab-report formatting, asking experts for help, and choosing analysis methods kept low initial scores, indicating persisting low confidence and lack of autonomy](eclass-items-remained-low-persisting-confidence-gaps.md) — related

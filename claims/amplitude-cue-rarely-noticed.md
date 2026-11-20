@@ -47,3 +47,4 @@ Authors' interpretation from the interview and trial data, stated in the conclus
 
 ## Related Claims
 - [Among four revised photon depictions, Visualization III most often suggested productive ideas about superposition and was chosen least often for incorrect statements](visualization-iii-most-productive-superposition-interviews.md) — related
+- [Over 60% of Feedback participants reported noticing the peer attention cues, though the authors argue influence may also be unconscious](peer-attention-cue-awareness-self-report.md) — related

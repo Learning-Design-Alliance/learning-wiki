@@ -79,3 +79,5 @@ Distractor-per-item comparison (Table 7) from the same analysis; fully functioni
 - [Nonfunctioning distracters are more numerous in four- and five-option MCQs than in three-option MCQs](nonfunctioning-distracters-more-in-four-five-option-mcqs.md) — a broader claim this one bears on
 - [Reducing SBA options from five to three maintains exam reliability and fail rates while increasing mean percentage marks by 1-3%](reduced-option-sba-maintains-reliability-increases-marks.md) — related
 - [Classroom test designers predominantly use 4- and 5-option items, with 3-option items comprising less than 10% of all deployed items, despite expert recommendations favoring the 3-option format.](classroom-mct-option-number-prevalence.md) — related
+- [ChatGPT's item difficulty and answer-option distributions are overrepresented at the extremes compared to students](chatgpt-tug-k-extreme-item-difficulty-distribution.md) — related
+- [CodeTailor's personalized Parsons puzzles contain significantly fewer movable blocks than fully movable puzzles built from the same solution](codetailor-puzzles-more-concise.md) — related

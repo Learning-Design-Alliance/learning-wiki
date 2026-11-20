@@ -50,3 +50,4 @@ Random-effects meta-analysis of 20 studies (Npogil = 2599, Ncontrol = 5277) usin
 - [POGIL's pass-rate advantage holds across class sizes and regardless of reported instructor training, though small-class estimates rest on very few studies](pogil-pass-rate-moderators.md) — related
 - [The POGIL-specific findings confirm the Freeman et al. active-learning meta-analysis, with nearly identical failure rates and odds ratios](pogil-confirms-freeman-meta-analysis.md) — related
 - [Active learning produces better student outcomes than lecture across STEM, including lower failure rates and higher test performance](active-learning-superior-to-lecture-stem.md) — related
+- [Guided inquiry in chemistry actively involves students, increases learning independence, and is associated with higher learning achievement](guided-inquiry-advantages-achievement.md) — related

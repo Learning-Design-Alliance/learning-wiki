@@ -93,6 +93,7 @@ Retrieval of relevant prior knowledge at the start of instruction improves compr
 - [Use prior knowledge questions before, during and after reading comprehension passages](prior-knowledge-questions-reading-strategy.md)
 - [Use a progression of clinical cases to bridge prior knowledge and prompt critical questioning](case-progression-critical-questioning-strategy.md)
 - [Educator experiments: pre-lecture fundamentals quizzes, mental math, and prerequisite mathematics assessment](educator-experiments-lecture-preparation.md)
+- [Instructors can facilitate activation and sharing of known shared resources when students do not spontaneously activate them](facilitate-activation-of-shared-resources.md)
 
 ## Examples
 - **[KWL charts](https://www.readingrockets.org/strategies/kwl)** — a widely used reading-comprehension routine in which students list what they Know and Want to learn before reading, then return to record what they Learned.

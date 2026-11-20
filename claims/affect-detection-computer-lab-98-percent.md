@@ -47,3 +47,4 @@ The article describes a system reported by Bosch et al. that used computer visio
 
 ## Related Claims
 - [Combining more modalities does not always improve detection of learner mental states](more-modalities-not-always-better-mental-state-detection.md) — related
+- [Boredom, confusion, frustration, and engagement are the most detected emotions in sensor-free affect detection, appearing in more than 84% of reviewed works](sensor-free-most-detected-emotions-four.md) — related

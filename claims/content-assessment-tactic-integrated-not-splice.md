@@ -49,3 +49,4 @@ Sequence analysis of the stacked bar chart distributions for Tactic 2 sessions s
 - [High-performance learners show stronger alignment of learning tactic choices with the tasks provided in the learning design](high-performance-alignment-tactics-design.md) — related
 - [Learners from different performance groups differ in priorities of learning tactic usage across learning sessions](performance-groups-differ-tactic-usage.md) — related
 - [The four detected learning tactics differ significantly across all nine learning actions (MANOVA)](manova-significant-tactic-differences.md) — related
+- [A gamified re-attempt marking scheme and free question navigation reportedly increased students' motivation to revisit tasks](ejss-gamified-marking-increased-re-attempt-motivation.md) — related

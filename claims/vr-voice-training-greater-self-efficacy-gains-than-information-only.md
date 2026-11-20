@@ -57,3 +57,4 @@ Repeated measures ANOVA in a two-arm randomized controlled trial of 41 trainee t
 - [DMIS students rated course content and self-efficacy higher than controls after laboratory lectures](dmis-higher-course-content-self-efficacy-ratings.md) — related
 - [The control group, which received no communication training, exhibited significant gains in communication confidence and self-efficacy during the study period](control-group-confidence-selfefficacy-gains.md) — related
 - [Skills laboratory students report higher confidence, motivation, and perceived feedback benefit after training than bedside teaching students](skills-lab-higher-acceptance-confidence-motivation.md) — related
+- [VR-trained students showed a significantly smaller gain in self-efficacy for understanding the material than control students, despite better objective performance](vr-smaller-self-efficacy-understanding-gain.md) — reports the opposite

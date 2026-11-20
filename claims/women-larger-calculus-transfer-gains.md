@@ -53,3 +53,5 @@ Pre/post calculus transfer assessment in General Physics II; Table 1 shows women
 - [Men reported higher monitoring judgments on health math problems than women, even accounting for performance accuracy](gender-difference-monitoring-judgments-health-math.md) — related
 - [Asking the gender stereotype question before vs. after the FCI produced qualitatively similar trends in calculus-based students](stereotype-question-timing-qualitatively-similar.md) — related
 - [Students' physics self-efficacy decreases significantly over a semester of Modeling Instruction introductory physics](mi-course-physics-self-efficacy-decrease.md) — related
+- [Calculus proficiency and calculus self-efficacy are inversely correlated for women but not for men](gender-modulated-calculus-proficiency-selfefficacy-correlation.md) — related
+- [Women display larger gains than men on applied calculus questions across a calculus-emphasized introductory physics semester](women-larger-applied-calculus-gains-em-physics.md) — possibly the same claim (merge candidate)

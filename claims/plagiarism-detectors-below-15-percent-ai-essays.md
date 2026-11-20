@@ -55,3 +55,4 @@ Second-hand finding reported in the review's discussion of plagiarism concerns: 
 - [Plagiarism detection software does not detect AI-generated essays because the text is original, not copied](plagiarism-software-fails-on-generated-text.md) — a broader claim this one bears on
 - [AI-detection tools can detect raw ChatGPT output but provide a weak standard of evidence, raising false-allegation concerns](ai-detection-tools-weak-evidence-standard.md) — related
 - [AI essays passed plagiarism detection, scoring 2 ± 1% on Grammarly and 7 ± 2% on TurnitIn](ai-essays-pass-plagiarism-detection.md) — a narrower finding that bears on this claim
+- [Similarity-based detection of AI-generated code (MOSS, JPlag) is weak when few submissions are AI-generated and significantly more accurate when AI submissions reach 50%](similarity-detection-depends-on-ai-submission-rate.md) — related

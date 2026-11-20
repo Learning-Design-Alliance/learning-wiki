@@ -49,3 +49,5 @@ Network-level statistics (density and indegree centralization with bootstrap sta
 - [Students with higher final course grades receive significantly more peer nominations in every course and context](final-grade-predicts-peer-nominations-all-contexts.md) — related
 - [Lab section enrollment shapes nominations in both contexts, while discussion section enrollment predicts only lecture-context nominations](section-homophily-context-specific-nominations.md) — related
 - [Lab recognition networks show higher transitivity and connectedness than lecture networks, attributed to graded small-group lab work](lab-networks-higher-transitivity-than-lecture.md) — related
+- [Peer recognition is largely stable across semesters, but celebrity status can change dramatically in either direction even with the same students and instructor](celebrity-status-fluctuates-across-physics-sequence.md) — related
+- [Earning a high final grade is necessary but not sufficient for becoming a recognition celebrity, as all celebrities earned at least 90% yet some high performers went unrecognized](high-grade-necessary-not-sufficient-celebrity.md) — related

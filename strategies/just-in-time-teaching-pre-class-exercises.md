@@ -43,6 +43,7 @@ JiTT exercises cover material to be covered in the next class and are submitted 
 - [Use pre-class online discussion on Moodle followed by in-class instruction responsive to the discussion](pre-class-moodle-discussion-then-responsive-lesson.md)
 - [Three guidelines to encourage completion of targeted pre-class reading](targeted-pre-reading-guidelines.md)
 - [Periodic Astrobites reading assignments with guided questions, electronic response collection, and in-class discussion](method1-periodic-reading-guided-questions.md)
+- [Use weekly electronic reflection sheets to maintain dialogue and offer personalised support during school placements](weekly-reflection-sheets-placement-support.md)
 
 ## Examples
 -

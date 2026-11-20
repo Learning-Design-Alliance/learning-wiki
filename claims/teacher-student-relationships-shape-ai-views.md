@@ -48,3 +48,4 @@ Authors' interpretation offered in the Introduction as a headline finding of the
 - [Human teacher–GenAI collaboration in embodied mathematics learning calls for a complementary interaction model combining AI feedback with human metacognitive guidance](complementary-human-genai-interaction-model.md) — related
 - [Current AIED rests on five faulty assumptions that risk learner dependence, isolation, and reduced flourishing](five-faulty-assumptions-aied-dependence.md) — related
 - [Most teachers reported the workshops made understanding and teaching AI seem more feasible and wanted to bring the course into their classrooms](teachers-found-teaching-ai-more-feasible.md) — related
+- [Students' attitudes toward AI shaped distinct preferences for how their AI interaction should be represented in usage reports](ai-attitudes-shape-report-preferences.md) — related

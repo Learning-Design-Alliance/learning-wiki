@@ -62,6 +62,7 @@ Task analysis reduces extraneous cognitive load by externalizing the structure o
 - ["Headings and Highlight" Strategy](headings-and-highlight-strategy-variant.md) — the annotation move that marks key task requirements
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — connects the analyzed task to what learners already know about the genre
 - [Use guiding questions in a Socratic style to break research tasks into smaller steps and steer discussion](socratic-guiding-questions-research-tasks.md)
+- [Break complex tasks into smaller sub-tasks when completing programming work with AI assistance](decompose-tasks-into-subtasks-for-ai-assistance.md)
 
 ## Related Elements
 - [Chunking](../principles/chunking.md) — the sub-task decomposition mechanism

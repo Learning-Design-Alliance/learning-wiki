@@ -45,6 +45,7 @@ The editorial's forward-looking agenda calls for research on affect/emotion as s
 ## Related Strategies
 
 - [Use robust causal research designs (What Works Clearinghouse guidelines) for future emotion and digital learning studies](wwc-guidelines-emotion-digital-learning-research.md)
+- [Prioritize underrepresented emotion samples, shared log databases, open source code, and real-time CBLE integration in future sensor-free affect research](sensor-free-future-research-agenda.md)
 
 ## Examples
 -

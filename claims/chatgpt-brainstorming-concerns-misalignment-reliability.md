@@ -62,3 +62,4 @@ Reflexive thematic analysis of the written feedback from the 11 teachers in a un
 - [ChatGPT sustains coherent, human-like multi-topic conversation and produces convincing creative content, as shown by the authors' own prompting test](chatgpt-interactive-conversational-capability.md) — reports the opposite
 - [Task-related concerns emerged around time management and classroom behaviour during AI implementation](task-concerns-time-and-behaviour-management.md) — related
 - [A needs assessment with 14 teachers yielded eight main design issues for the BE COOL! learning environment, from curriculum fit to teacher monitoring and a teacher manual](teacher-needs-assessment-eight-issues.md) — related
+- [The quality and accuracy of ChatGPT's output on a lab activity varies significantly with the detail and specificity of the prompts](prompt-detail-determines-chatgpt-lab-output-quality.md) — related

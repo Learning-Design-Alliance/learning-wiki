@@ -50,3 +50,4 @@ Think-aloud interviews with three CU students on an E&M wave problem where BCs w
 - [Over a third of solutions inappropriately cancel exponential terms when the boundary is not at z=0, and physics context affects students' math execution](physics-context-affects-exponential-cancellation.md) — related
 - [Conservation-of-energy reasoning interferes with applying boundary conditions, with students equating wave amplitude with energy](energy-conservation-interference-bcs.md) — possibly the same claim (merge candidate)
 - [Many students fail to spontaneously activate boundary conditions when not explicitly prompted, especially outside the wave context](students-fail-to-activate-bcs-without-explicit-prompt.md) — possibly the same claim (merge candidate)
+- [An initial time value acts as an anchor: students use t = 2 s instead of the requested t = 1 s when calculating the rate of change of kinetic energy](anchoring-effect-time-interval-projectile.md) — related

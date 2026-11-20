@@ -50,6 +50,7 @@ From their experience scaling the course to 25–30 students in six groups, the 
 - [Coordinate skills-focused PBL courses with traditional didactic instruction rather than running them stand-alone](coordinate-pbl-with-didactic-instruction.md)
 - [Implementation recommendations for WeChat-based PBL: small teams, 1-week advance materials, active facilitation, and workload refinements](wechat-pbl-implementation-recommendations.md)
 - [Secure managerial commitment, train collaborators on PBL and collaboration skills, use a memorandum of agreement, and monitor and evaluate the collaboration](pbl-collaboration-implementation-recommendations.md)
+- [Guide students through hypothesis-testing discussions instead of providing experimental recipes](st-guided-discussion-hypothesis-testing-questions.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Mann–Whitney comparison of subtracted TONA networks between adaptive MAI (13 g
 - [Joint attention is a group phenomenon not reducible to either individual's mental representations](joint-attention-group-phenomenon.md) — related
 - D'Mello proposes attention tracking and management as a new AIED research direction — related
 - [The meaning-making process was characterised by shared management, joint attention, mutual influence and reciprocal positioning](meaning-making-shared-management-joint-attention.md) — related
+- [Peer attention cues increase valid focus, course following, and crowd gaze consistency, yet students retain adaptability in following peer cues](peer-attention-shapes-gaze-with-retained-adaptability.md) — related

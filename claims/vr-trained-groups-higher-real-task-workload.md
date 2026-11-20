@@ -71,3 +71,4 @@ NASA TLX ratings during the virtual training phase for the two VR groups (14 eac
 - [Self-rated cognitive workload is lower for digitally trained novices only during the Peg transfer task, with no differences on the other three tasks](digital-training-lower-nasa-tlx-peg-transfer-only.md) — related
 - [VR-trained participants perform with lower NASA-TLX workload than controls (40.04 ± 10.55 vs. 48.2 ± 9.88)](dvss-vr-training-lower-nasa-tlx-workload.md) — reports the opposite
 - [VR training after crossover was associated with significantly lower subjective workload (TLX) than theory-based training](vr-training-lower-subjective-workload-tlx.md) — related
+- [Peer attention cues do not significantly change cognitive workload, and workload positively correlates with test accuracy](peer-attention-workload-null-and-positive-correlation.md) — related

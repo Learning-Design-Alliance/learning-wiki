@@ -24,8 +24,7 @@ Edukoi is an interactive educational sonification tool developed by Guiotto Nai 
 
 ### Claims
 - [During a first middle-school test of Edukoi, classes maintained high attention and reported enjoyment, but found counting stars by sound very difficult.](../claims/edukoi-classroom-test-qualitative-feedback.md) [+M]
-- [A BVI student found it very difficult to locate sonified areas because no spatial reference showed where the camera and screen were.](../claims/edukoi-bvi-student-spatial-reference-difficulty.md) [-W]
-- [A BVI student found it very difficult to locate sonified areas because no spatial reference showed where the camera and screen were.](../claims/edukoi-bvi-student-spatial-reference-difficulty.md) [~W]
+- [A BVI student found it very difficult to locate sonified areas because no spatial reference showed where the camera and screen were.](../claims/edukoi-bvi-student-spatial-reference-difficulty.md) [-W] — (also cited [~W])
 
 ## Related Products and Programmes
 -

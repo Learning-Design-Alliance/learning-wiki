@@ -57,3 +57,5 @@ The authors' report on their two pilot implementations (Spring 2011 and Spring 2
 - [The 2014 AAPT goals for undergraduate physics lab curriculum are skills-focused and removed conceptual learning as an outcome, relative to the 1998 goals](aapt-2014-lab-goals-skills-focused.md) — related
 - [Experimental and control cohorts were statistically equivalent on conceptual physics diagnostics (FCI, MBT, BEMA) at entry and across the course](comparison-cycles-diagnostics-equivalent.md) — related
 - [Students in RealTime Physics inquiry-based labs were predicted to have higher post FCI scores than students in traditional labs](rtp-lab-higher-post-fci-scores.md) — related
+- [In a reformed Arduino/smartphone mechanics lab, overall E-CLASS student-view scores showed only a slight, non-significant pre/post increase and the average E-CLASS score did not deteriorate](arduino-lab-no-eclass-deterioration.md) — related
+- [Final exam scores showed no measurable difference between students in the Arduino/smartphone lab section and students in traditional lab sections](no-exam-score-difference-arduino-vs-traditional-sections.md) — related

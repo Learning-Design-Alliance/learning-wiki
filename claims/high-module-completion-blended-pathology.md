@@ -50,3 +50,4 @@ Observational usage data from SCORM packages for 264 Pathology students in Semes
 - [The free, self-paced micro-courses showed an 82% completion retention rate, and most participants found the online, asynchronous format appealing](micro-courses-high-retention-and-format-appeal.md) — related
 - [Embedded online quizzes are the article's proposed explanation for bPBL's knowledge gain among examination-oriented East Asian students](quizzes-explain-bpbl-knowledge-gain.md) — related
 - [Quiz-level first-attempt performance analysis across cohorts identifies persistently challenging topics in online biomedical science courses](quiz-level-cross-cohort-analysis-identifies-persistent-challenging-topics.md) — related
+- [The cohort scored a mean quiz grade of 78.0 ± 12.4 out of 100](quiz-mean-grade-78-out-of-100.md) — related

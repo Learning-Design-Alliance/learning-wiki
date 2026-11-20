@@ -40,6 +40,7 @@ When student questions were posed to ChatGPT in raw form, some were unclear or l
 
 - [Structured Questioning for Pair Talk](structured_questioning_for_pair_talk.md)
 - [Prompts & Questions](prompts-questions.md)
+- [Use specific, detailed, iterative and explicit prompts when directing ChatGPT Code Interpreter through laboratory tasks](chatgpt-lab-prompting-strategies.md)
 
 ## Examples
 -

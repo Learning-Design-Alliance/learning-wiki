@@ -82,3 +82,4 @@ The article reports the final 2PL model's fit (M2 = 225.325, RMSEA 0.031, SRMSR 
 - [The two-parameter logistic IRT model fit best only for the hypotheses-concerning-means bank; the one-parameter model sufficed for the other three banks](irt-model-fit-varies-by-item-bank.md) — related
 - [A 30-item Rasch calibration of the PSCI-ALPHA on a pooled sample of 83 response patterns satisfies the Rasch model, with item 7.1 easiest (β=-1.31) and item 4.4 most difficult (β=1.24), and independent-sample invariance supporting construct validity](psci-alpha-rasch-calibration-83-patterns.md) — related
 - [Guessing is a significant factor in LSCI responses, favoring the 3PL model (RMSEA 0.06) over the 2PL model (RMSEA 0.07)](3pl-guessing-parameter-lsci.md) — related
+- [The 2-PL model is the best-fitting IRT model for the LPCA dataset](2pl-best-fit-lpcb-irt-model.md) — related

@@ -50,3 +50,4 @@ Blinded rubric marking of AI solution design submissions in the pilot quasi-expe
 - [ChatGPT scores rose from V1 to V3 across assessment types in one uncontrolled pre-post study, with V3 achieving the highest average scores](rubric-integration-improves-chatgpt-scores.md) — a broader claim this one bears on
 - [ChatGPT performs poorly on health database SQL programming tasks, with the best AI version scoring 56% against a top student score of 100%](chatgpt-sql-programming-weak.md) — related
 - [Newer LLM versions generally outperformed older versions on dental examination questions](newer-llms-outperform-older-dental-exams.md) — related
+- [ChatGPT scores 100% on most database-course labs but fails UML/ER diagram tasks, scoring 28.5/30 on midterm 1 and 17/30 on midterm 2](chatgpt-database-course-variable-performance.md) — related

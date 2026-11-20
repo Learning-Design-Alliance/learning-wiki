@@ -50,3 +50,4 @@ Follow-up questionnaire and interviews with 11 participants aged 20-21, nine yea
 - [Reading-play recollection was split: just over half of participants recalled the play or a concept while the rest recalled nothing](reading-play-recollection-split.md) — related
 - [All follow-up participants remembered at least one hands-on activity, most often from the Gravity Discovery Centre excursion](hands-on-activities-remembered-long-term.md) — related
 - [88% of students said hands-on activities helped them understand Einsteinian concepts, and 70% wanted to learn more Einsteinian physics](hands-on-activities-helped-clarity-einsteinian-concepts.md) — related
+- [77.1% of participants want to learn more about gravity and general relativity and 82.5% say Einsteinian physics should be in the curriculum](students-favour-gr-in-curriculum.md) — related

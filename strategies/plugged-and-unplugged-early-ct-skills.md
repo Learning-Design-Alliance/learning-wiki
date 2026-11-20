@@ -40,6 +40,7 @@ The guide recommends that computational thinking skills, as the foundation for a
 - [Integrate computational thinking into existing disciplinary teaching across grade bands rather than adding it on](integrate-ct-into-disciplinary-learning.md)
 - [Build computational thinking skills in the younger grades through plugged and unplugged activities](develop-ct-skills-younger-grades.md)
 - [Use a phased unplugged-to-plugged progression to build girls' CT confidence before introducing digital tools](phased-unplugged-to-plugged-progression.md)
+- [Students should learn to solve problems both with and without AI tools, and carefully benchmark AI solutions against their own understanding](student-ai-benchmarking-and-dual-skill-strategy.md)
 
 ## Examples
 -

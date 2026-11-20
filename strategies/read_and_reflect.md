@@ -60,9 +60,11 @@ Post-reading reflection works because it converts passive reading into [Active L
 5. Close with a synthesis move: a constrained summary, a whole-class share of one insight per pair, or a written exit reflection ([Application](../elements/application.md) of the reading to a new question).
 
 ## Related Strategies
+
 - Reciprocal Teaching — a formalized read-and-reflect cycle in which students alternate predicting, questioning, clarifying, and summarizing roles
 - Literature Circles — extended small-group discussion structures built on the same post-reading reflection logic
 - Exit Tickets — the written, individual variant of the closing reflection step
+- [Frame generative AI as an optional comprehension aid during reading rather than a substitute for producing the summary](ai-as-reading-aid-not-writing-substitute.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the oral vehicle for the reflection phase

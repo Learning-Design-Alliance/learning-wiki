@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 177 claims (114 show a difference, 40 mixed, 23 no difference) · 85 studies (49 associational, 15 review, 13 causal, 5 quant-synthesis, 3 theoretical), `q1`–`q4` · 27 of 85 report an effect size · 177 claims rest on one study
+> **Evidence** · 178 claims (115 show a difference, 40 mixed, 23 no difference) · 86 studies (49 associational, 16 review, 13 causal, 5 quant-synthesis, 3 theoretical), `q1`–`q4` · 27 of 86 report an effect size · 178 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -212,6 +212,7 @@ Personality traits are relatively stable individual differences, most often meas
 - [Conscientiousness moderates the effect of explanations on learning gains: low-Conscientiousness users tended to learn better with explanations](../claims/conscientiousness-moderates-explanation-learning-gains.md) [~M] — an instructional effect differs with it
 - [Low-grit students improved substantially in math and English by 12th grade, challenging grit's expected advantage](../claims/low-grit-students-improved-grade12.md) [~M] — learners who differ on it differ in outcomes
 - [Profiles predicted 12th-grade science and English scores, with low grit significantly correlated with both](../claims/profiles-predict-grade12-science-english.md) [+M] — learners who differ on it differ in outcomes
+- [The effectiveness of personalized gamification varies with gamification element type, degree of personalization, and learner characteristics](../claims/personalized-gamification-effectiveness-varies-factors.md) [+M] — an instructional effect differs with it
 
 ## Related Learner Variables
 

@@ -69,3 +69,4 @@ Registration choices plotted in Figure 2 of the case study: attendees interested
 - [Student feedback on the Quantum Communications Lab workshop was assessed as very positive, with attendees of diverse profiles showing interest in different fundamentals of quantum communication](quantum-comm-lab-positive-student-feedback.md) — related
 - [Mexico was the country with the most participation, and a majority of registrants heard of the event through Facebook](mexico-most-participants-facebook-main-channel.md) — related
 - [Participants reported being generally more versed in linear algebra and Python whilst being new to quantum computing](participants-more-versed-python-linear-algebra-than-quantum.md) — related
+- [Half of detailed-survey respondents rated themselves as beginners, and quantum machine learning was the most popular topic (20 of 28 votes)](qucs-knowledge-levels-and-topic-interest.md) — related

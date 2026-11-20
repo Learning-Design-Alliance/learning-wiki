@@ -73,3 +73,4 @@ Follow-up focus interview with Franz, a CS-department instructor at a baccalaure
 - [Lack of coding and mathematics preparation can lead to frustration, stress and possibly failure in physics DS/ML courses, with equity concerns about prerequisite enforcement](coding-prerequisite-gaps-cause-frustration-failure.md) — related
 - [Replacing crystals with a single atom and a CO2 molecule, and the energy ellipsoid with a Lamé ellipsoid, reduces the prerequisites of the Feynman tensor introduction](lame-ellipsoid-tensor-introduction-reduced-prerequisites.md) — related
 - [Participants reported being generally more versed in linear algebra and Python whilst being new to quantum computing](participants-more-versed-python-linear-algebra-than-quantum.md) — related
+- [Advanced mathematical prerequisites, especially linear algebra, are the main barrier to entry in introductory quantum information courses](linear-algebra-prerequisite-barrier-quantum-courses.md) — related

@@ -78,6 +78,7 @@ The authors recommend that advanced simulation-based scenarios be embedded into 
 - [When planning simulation-based medical education, prioritise authentic roles, realistic teamwork and debriefing over the physical simulation site, using off-site simulation where convenient](prioritise-authentic-roles-and-debriefing-over-site.md)
 - [Permanently integrate simulation laboratory sessions into the curriculum of all students of health disciplines](integrate-simulation-laboratory-training-curriculum.md)
 - [Roll out scenario-based teaching modules built on the Climate App](climate-app-example-teaching-modules.md)
+- [Incorporate real-world situations and case studies into curricula to situate theoretical ideas in practical contexts](real-world-cases-situate-theory-strategy.md)
 
 ## Examples
 -

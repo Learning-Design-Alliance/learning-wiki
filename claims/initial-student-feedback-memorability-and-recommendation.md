@@ -51,3 +51,4 @@ An online feedback survey of 17 students eight weeks after the September 2019 se
 - [Students strongly agree that VR anatomy training enhances memorization and learning efficiency](vr-anatomy-training-enhances-memorization-agreement.md) — related
 - [Pilot survey of 12 anatomy students rated the app highly useful, immersive, and conducive to learning](pilot-survey-brain-app-high-usability-ratings.md) — related
 - [About 63% of responding first-year students agreed the CRE course contributed to their ability to demonstrate initiative and self-direction in learning](cre-satisfaction-self-direction-agreement.md) — related
+- [Students perceived the tool as helpful for understanding vector field concepts and recommended its use, with an educational impact scale mean of 0.65 (N = 65)](vector-field-tool-perceived-educational-impact.md) — related

@@ -55,3 +55,5 @@ Interview and written-survey evidence: three students remained committed to a st
 - [Students exhibit ontological flexibility, shifting among multiple stances toward the particle in a box: quantum particle, classical particle, and a blend of classical and quantum properties](ontological-flexibility-multiple-stances-piab.md) — related
 - [Secondary and lower undergraduate students have difficulty relating quantum physics to physical reality](students-difficulty-relating-quantum-physics-physical-reality.md) — a broader claim this one bears on
 - [Secondary students ascribe classical-like features to quantum observables and struggle to accept quantities having no definite value](secondary-students-classical-features-quantum-observables.md) — related
+- [Students attribute bending of light to classical mechanisms such as an invisible mirror](bending-of-light-attributed-to-invisible-mirror.md) — related
+- [Students view Relativity as applying only at relativistic speeds or large masses, blurring the boundary with classical Mechanics](relativity-boundaries-classical-mechanics-view.md) — related

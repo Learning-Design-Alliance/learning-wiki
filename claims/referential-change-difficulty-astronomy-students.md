@@ -53,3 +53,5 @@ The article's introduction states, citing prior literature on formal-thinking de
 - [Students frequently explain lunar phases as the Earth's shadow falling on the Moon (the eclipse theory)](eclipse-theory-alternative-conception.md) — related
 - [Bidimensional textbook schemes of the lunar phases hinder understanding of the three-dimensional phenomenon and blur the distinction between phases and eclipses](bidimensional-schemes-hinder-phase-learning.md) — related
 - [Students using Stellarium eclipse timing of Io determine Jupiter's mass as MJ = (1,9 ± 0,5) × 10^27 kg, consistent with the literature value](stellarium-io-eclipse-jupiter-mass.md) — related
+- [Students view Relativity as applying only at relativistic speeds or large masses, blurring the boundary with classical Mechanics](relativity-boundaries-classical-mechanics-view.md) — related
+- [UJ cohorts departed significantly from Spanish cohorts on Q2 (displacement time depends on mass) and Q14 (ego-centred reference frame)](uj-q2-q14-departure-from-spanish-cohorts.md) — related

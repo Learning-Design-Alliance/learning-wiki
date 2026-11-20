@@ -58,6 +58,7 @@ The review synthesizes implementable strategies for improving AI-generated virtu
 - [Configure the LLM simulated patient with behavioral constraints and standardized scripts to ensure consistency](llm-simulated-patient-prompt-constraints-strategy.md)
 - [Use detailed, comprehensive system prompts and patient-like prompt language to optimize LLM virtual patient performance](detailed-system-prompts-optimize-llm-virtual-patients.md)
 - [Use a simulated multiagent prompt combining role, instruction-based, chain, and few-shot prompting to generate OSCE stations with an LLM](simulated-multiagent-prompting-for-osce-generation.md)
+- [Design GPT feedback prompts with few-shot examples covering each response category and documented student preconceptions as context](few-shot-prompt-with-preconceptions-for-feedback-generation.md)
 
 ## Examples
 -

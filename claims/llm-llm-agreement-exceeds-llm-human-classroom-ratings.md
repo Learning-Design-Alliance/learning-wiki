@@ -58,3 +58,5 @@ Analysis of 16 LLMs' ordinal ratings of 479 lesson transcripts from 311 classroo
 - [The human-refined framework improved human agreement substantially but produced only modest gains for ICL-based LLM annotation](human-refined-framework-gains-humans-not-llms.md) — related
 - [GPT-4o mini showed progressive turn-level convergence with accumulating context while larger models showed increasing or stable error](turn-level-convergence-gpt-4o-mini.md) — related
 - [Out-of-the-box LLMs agree with human essay grades far less than human raters agree with each other](llm-essay-scoring-weak-human-agreement.md) — a broader claim this one bears on
+- [About 22.8% of task-related teacher utterances in the elementary math transcripts contained unsupportive language](high-rate-unsupportive-language-transcripts.md) — related
+- [GPT-4 outperforms GPT-3.5 in generating relevant and diverse Socratic debugging utterances, but remains below human expert levels](gpt4-outperforms-gpt35-socratic-debugging.md) — related

@@ -45,6 +45,7 @@ The article recommends embedding contextual, factor-aware support inside analyti
 - [Learning Dashboards](learning-dashboards.md)
 - [Awareness of Implicit Biases](awareness_of_implicit_biases.md)
 - [Design teacher-facing analytics that support interpretation of student persistence within classroom contexts](teacher-facing-analytics-persistence-interpretation.md)
+- [Provide real-time in-notebook visual guidance instead of relying on written instructions alone](in-notebook-real-time-execution-guidance.md)
 
 ## Examples
 -

@@ -71,3 +71,4 @@ A Digital Promise and Grunwald Associates (2015) survey of teachers, presented a
 - [72% of biology graduate students perceive a lack of support for developing instructional skills in their programs](grad-students-perceive-lack-instructional-support.md) — related
 - [Participating teachers report applying new particle physics content knowledge and trying new teaching practices in their classrooms](teacher-reported-classroom-application-of-pd-content.md) — related
 - [Post-undergrad respondents are generally satisfied with their graduate education, with satisfaction differing by current position](particle-physics-grad-satisfaction-position-differences.md) — related
+- [Intentional teacher groupings with responsive regrouping during in-person PD supported the formation of informal mentorships](intentional-grouping-supports-informal-mentorship.md) — related

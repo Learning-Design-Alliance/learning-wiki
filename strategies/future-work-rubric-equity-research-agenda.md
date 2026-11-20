@@ -43,7 +43,8 @@ The authors lay out a research agenda for rubric-based admissions: study impacts
 - [Males tended to score higher on the physics GRE rubric construct while females tended to score higher on community contributions and diversity contributions](../claims/rubric-sex-differences-three-constructs.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Equity-minded holistic selection rubric with minimal eligibility requirements](equity-minded-holistic-selection-rubric.md)
 
 ## Examples
 -

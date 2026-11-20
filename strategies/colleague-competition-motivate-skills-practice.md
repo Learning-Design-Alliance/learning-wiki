@@ -49,6 +49,7 @@ The article suggests framing training as a competition to motivate practice, wit
 
 - [Exercise Contests](exercise_contests.md)
 - [Combine monetary inducements with group-based competition for cash rewards to motivate lower-class adolescents](group-based-cash-reward-structure.md)
+- [Recruit competition organisers from former participants to renew the team and motivate current students](recruit-organisers-from-former-participants.md)
 
 ## Examples
 -

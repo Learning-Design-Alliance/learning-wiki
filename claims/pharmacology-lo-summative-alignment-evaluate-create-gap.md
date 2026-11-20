@@ -70,3 +70,4 @@ Same learning-outcome-to-assessment mapping; "less alignment" was found for Eval
 - [The selected-questions-verbs prompting strategy yields the strongest LLM Bloom classification, reaching weighted F1 up to 0.84](selected-questions-verbs-best-prompt.md) — related
 - [Student-authored PeerWise questions spanned all six revised-Bloom cognitive levels, with Clinical Pharmacology questions skewed toward lower levels](peerwise-question-cognitive-level-distribution.md) — related
 - [Exercise use by Bloom's taxonomy level differs by subject: languages emphasize remember/understand, societal subjects analyze/evaluate, science shows little use of higher levels](bloom-level-use-varies-by-subject.md) — related
+- [Most learning outcomes in Miami University's cybersecurity curriculum sit at the low Bloom's Taxonomy levels of Remember, Understand, and Apply](cybersec-curriculum-los-low-bloom-distribution.md) — related
