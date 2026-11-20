@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 127 claims (73 for, 51 mixed, 3 against) · 97 studies (44 causal, 19 quant-synthesis, 18 review, 8 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 26 of 97 report an effect size · 121 claims rest on one study
+> **Evidence** · 129 claims (73 for, 53 mixed, 3 against) · 98 studies (45 causal, 19 quant-synthesis, 18 review, 8 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 27 of 98 report an effect size · 123 claims rest on one study
 
 ## Conditional relationship
 
@@ -190,6 +190,8 @@ Claims read against this model that do not change it. Each says what it is and w
 - [Informal distribution of the game without instructions yielded low uptake, preventing a post-test of learning gains](../claims/informal-distribution-low-uptake-no-posttest.md) [~W] — attached 2026-11-19 from P. Klein et al. (2020), which proposed "Tiered feedback and score-based penalties to steer deliberate rather than trial-and-error play".
 - [Embedding the intrinsically integrated game Newton's Race in a lesson produced a large significant learning gain on game-related force and motion questions](../claims/embedded-newtons-race-lesson-large-learning-gain.md) [+W] — attached 2026-11-19 from Anne van der Linden et al. (2022), which proposed "Embed an educational game in a lesson with a debriefing session, a generalization assignment, and a transfer assignment to foster learning and transfer"; tests this page's relationship.
 - [After the embedded-game lesson, students applied force and motion knowledge to transfer situations as successfully as to game-related situations](../claims/embedded-game-lesson-transfer-matches-game-related-performance.md) [~W] — attached 2026-11-19 from Anne van der Linden et al. (2022), which proposed "Embed an educational game in a lesson with a debriefing session, a generalization assignment, and a transfer assignment to foster learning and transfer"; tests this page's relationship.
+- [Motivation, ease of use, required help, and platform integration show no significant difference between face-to-face and online game-based learning](../claims/motivation-usability-no-format-difference.md) [~W] — attached 2026-11-20 from Daniel López-Fernández et al. (2023), which proposed "Teachers combining face-to-face and online formats can rely on teacher-authored educational video games in either format".
+- [Students perceive some aspects of game-based learning (overall opinion, learning effectiveness, fun, future use, preference) more favorably in face-to-face than online format](../claims/face-to-face-more-favorable-perceptions-gbl.md) [~W] — attached 2026-11-20 from Daniel López-Fernández et al. (2023), which proposed "Teachers combining face-to-face and online formats can rely on teacher-authored educational video games in either format".
 
 ## Objective and learner-valued goal
 

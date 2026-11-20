@@ -70,3 +70,4 @@ OE2 confidence analysis over 1898 official question parts (1482 theory, 416 expe
 - [Focused rubric refinement that made required physics and scoring conditions explicit reduced AI–official disagreements on targeted questions (e.g., Grover item MAD 1.1 to 0.4 marks, r 0.70 to 0.82)](explicit-rubric-conditions-reduce-ai-disagreement.md) — related
 - [Most AI grading errors (87% for the best model) were attributable to transcription failures rather than rubric misapplication](transcription-failures-dominate-grading-errors.md) — related
 - [The revised Round II grading workflow reduced AI over-awarding and total-score MAD, most clearly for OE1 (7.1% to 4.8%) and QM (9.4% to 3.8%)](revised-workflow-reduces-overawarding-mad.md) — related
+- [AI-assisted grading achieves high precision for identifying passing exams but low recall, meaning failing grades still require human grading](high-precision-low-recall-ai-pass-fail.md) — related

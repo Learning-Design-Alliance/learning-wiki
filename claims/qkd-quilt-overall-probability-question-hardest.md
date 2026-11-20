@@ -48,3 +48,4 @@ Results for Q8, which requires properly accounting for each of four probabilitie
 - [Gains from the QKD QuILT persisted on a delayed posttest administered roughly two months later](qkd-quilt-delayed-posttest-retention.md) — related
 - [Upper-level undergraduate students show large pretest-to-posttest gains on quantum key distribution concepts after working through the QKD QuILT](qkd-quilt-pretest-posttest-gains.md) — a broader claim this one bears on
 - [Upper-level undergraduates' average scores rose from 56% on the pretest to 91% on the posttest after working through the QKD QuILT](quilt-qkd-prepost-average-score-improvement.md) — related
+- [Engaging with the QuILT substantially improves student performance on quantum computing concepts, with large effect sizes on difficult questions about N vs 2^N distinctions](quilt-improves-quantum-computing-understanding.md) — related

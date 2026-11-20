@@ -86,6 +86,7 @@ Structured roles counteract the well-documented failure modes of unstructured gr
 **[Complex Instruction (Cohen & Lotan)](https://ie.berkeley.edu/complex-instruction)** — Uses role assignments (facilitator, recorder, reporter, materials manager) alongside "multiple-ability" tasks specifically to equalize participation across status differences in heterogeneous classrooms.
 - [Use interdependence chains in which students link interdependent jobs and explain why each job needs the others](../strategies/interdependence-chains-activity.md)
 - [Use competency maps to rotate differentiated team roles such as facilitator, equity advocate, and data integrator based on expertise](../strategies/competency-maps-rotate-smh-team-roles.md)
+- [Run in-class group assignments with rotating member roles, ID-integrated problems, and JEDI ground rules reinforced by role holders](../strategies/rotating-roles-jedi-ground-rules-group-work.md)
 
 ## Key Sources
 - Aronson, E., Blaney, N., Stephan, C., Sikes, J., & Snapp, M. (1978). *The jigsaw classroom*. Sage.

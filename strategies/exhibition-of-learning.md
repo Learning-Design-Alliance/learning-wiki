@@ -90,6 +90,7 @@ Exhibitions leverage authentic audiences and purposes to raise the stakes and re
 - [Weave repeated low-stakes presentation practice into the course before the culminating research presentation](woven-presentation-practice-before-final-talks.md)
 - [Keep the outreach experiment scientist-operated rather than automated so visitors can ask questions and meet a living experimenter](scientist-operated-outreach-demonstration.md)
 - [Guerrilla-STEM: an itinerant astro-animation exhibition with hands-on activities in unexpected public locations to engage audiences not a priori attracted to science](guerrilla-stem-itinerant-astro-animation-exhibition.md)
+- [Culminate RAI training by having practitioners create and peer-review their own case studies](practitioners-as-case-study-creators-strategy.md)
 
 ## Examples
 - **EL Education (formerly Expeditionary Learning)** schools use "passage presentations" and final exhibitions in which students defend their work before panels of staff, family, and community members ([https://eleducation.org](https://eleducation.org))

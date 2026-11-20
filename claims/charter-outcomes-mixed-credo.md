@@ -60,3 +60,4 @@ The report describes the CREDO 16-state comparative study of charter versus trad
 - [Charter school learning gains have risen across CREDO's three national studies](charter-learning-gains-risen-across-credo-studies.md) — related
 - [Charter students receiving special education services show smaller learning gains than matched traditional public school peers](charter-special-education-smaller-gains.md) — a narrower finding that bears on this claim
 - [Charter schools in many of the 10 studied cities make overall positive contributions to students' learning growth relative to state averages](credo-cohort1-charter-positive-growth-contributions.md) — reports the opposite
+- [Reported outcomes of game-based education are mixed: 21 of 43 studies positive, 12 mixed, 10 negative](games-outcomes-21-positive-12-mixed-10-negative.md) — related

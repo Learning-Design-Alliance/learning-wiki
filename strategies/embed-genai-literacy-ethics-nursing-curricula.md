@@ -61,6 +61,7 @@ Under Theme Three, participants argued GenAI should be addressed deliberately in
 - [Mitigation strategy: AI-literacy curricula with fact-checking modules, comprehensive educator training, and transparent documentation of AI use](ai-literacy-fact-checking-mitigation-strategy.md)
 - [Embed ethics in AI capacity building using hands-on approaches, case studies, and role reversal](hands-on-case-study-ai-ethics-training.md)
 - [Structured frameworks can guide effective and ethical LLM integration in nursing education](frameworks-guiding-llm-integration-nursing-education.md)
+- [Develop clear ethical AI guidelines specifying appropriate uses, framing AI as supplementary, limiting direct output copying, and promoting transparency](ethical-ai-guidelines-to-mitigate-ai-guilt.md)
 
 ## Examples
 -

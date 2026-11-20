@@ -52,3 +52,4 @@ Descriptive self-agreement analysis measuring the percentage of questions where 
 - [Bootstrapped self-consistency at temperature 1.0 flags potentially incorrect GPT-4 answers: about half of inconsistent responses were incorrect versus about 5% of consistent ones](bootstrapping-self-consistency-flags-incorrect-answers.md) — related
 - [No statistically significant performance gap existed between Turkish and English administration of the same radiology questions to ChatGPT-5 and Gemini 2.5 Pro](no-language-gap-turkish-english-llm-radiology-accuracy.md) — related
 - [GPT-4o was the most inconsistent chatbot, with 19 questions answered correctly in the first round answered incorrectly in the second](gpt-4o-most-inconsistent-across-rounds.md) — related
+- [GPT-4 tends to excel on questions where students also perform well, but struggles on some mathematical-derivation problems students handle well](gpt4-excells-where-students-excel.md) — related

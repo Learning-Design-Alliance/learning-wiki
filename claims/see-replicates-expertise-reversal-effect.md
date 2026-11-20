@@ -9,6 +9,7 @@ generated:
   at: 2026-11-20
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-20
 sources:
   - id: joy-he-yueya-2024
     resource: "https://doi.org/10.48550/arXiv.2403.02795"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` According to GPT-3.5 simulated expert evaluations over 120 student personas, the worked-example group significantly outperforms the practice group on the post-test among low-expertise learners, while high-expertise learners show similar outcomes under both instruction types. [→ Joy He-Yueya 2024](#joy-he-yueya-2024)

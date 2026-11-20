@@ -87,6 +87,7 @@ Journaling supports metacognition because writing slows thinking and forces lear
 - Muddiest point / one-minute papers — the minimal footprint version, trading depth for frequency
 - Goal-setting journals — structured entries that pair reflection with commitment (see Morisano et al., below)
 - [Use AI coach prompts for structured reflection and premortems to build metacognition](ai-coach-reflection-premortem-strategy.md)
+- [Lab guides with metacognitive scaffolding prompting paired reflection on experimental results](lab-guides-metacognitive-scaffolding-reflection.md)
 
 ## Examples
 - **[Exam wrappers](exam-wrappers.md)** (widely used in STEM courses, e.g., at Carnegie Mellon's Eberly Center, https://www.cmu.edu/teaching/designteach/teach/examwrappers.html) — students complete a short written reflection after each exam on how they prepared and what they would change.

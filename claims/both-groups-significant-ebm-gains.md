@@ -66,3 +66,4 @@ Paired t-tests within each group showed significant pre-to-post gains. In the in
 - [A newly developed 19-item EBM competence test had student scores that rose from 4.8 (SD 1.2) before to 13.5 (SD 3.7) after a comparable EBM course in one uncontrolled pre-post study, and had high interrater reliability](ebm-competence-test-validated.md) — related
 - [Course participants achieved EBM competence-test scores statistically comparable to trained undergraduate health sciences students](ebm-scores-comparable-to-students.md) — related
 - [University students' software engineering ethics knowledge scores rose from pre-test to post-test after playing the Ethics Game, in one uncontrolled pre-post study](ethics-game-improves-se-ethics-knowledge.md) — a narrower finding that bears on this claim
+- [Game-based learning significantly increased knowledge outcomes for both groups](gamedevdojo-significant-knowledge-gains.md) — possibly the same claim (merge candidate)

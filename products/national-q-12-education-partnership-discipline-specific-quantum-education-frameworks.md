@@ -28,4 +28,4 @@ A set of discipline-specific K–12 curriculum-integration frameworks developed 
 -
 
 ## Key Sources
-- Holincheck, N.; Rosenberg, J.L.; Zhang, X.; Butler, T.N.; Colandene, M.; Dreyfus, B.W. (2024). Quantum Science and Technologies in K-12: Supporting Teachers to Integrate Quantum in STEM Classrooms. Educ. Sci. 14. https://www.mdpi.com/journal/education
+- Holincheck, N.; Rosenberg, J.L.; Zhang, X.; Butler, T.N.; Colandene, M.; Dreyfus, B.W. (2024). Quantum Science and Technologies in K-12: Supporting Teachers to Integrate Quantum in STEM Classrooms. Educ. Sci. 14. https://www.mdpi.com/journal/education. [doi:10.3390/educsci14030219](https://doi.org/10.3390/educsci14030219)

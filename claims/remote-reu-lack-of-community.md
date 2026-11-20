@@ -70,3 +70,4 @@ Interview data across the program; because in-person interaction was absent, men
 - [Barriers in mentor-mentee relationships and differing expectations introduced challenges in remote REU programs](remote-reu-mentor-mentee-barriers.md) — related
 - [Working from home introduced motivational challenges in remote REU programs](remote-reu-motivational-challenges.md) — related
 - [Mentees appreciated the remote REU format for flexibility and developing as independent learners](remote-format-independence-benefits.md) — related
+- [Students preferred in-person REUs and treated remote REUs as a last resort, valuing laboratory and social engagement opportunities](reu-in-person-preference-remote-last-resort.md) — related

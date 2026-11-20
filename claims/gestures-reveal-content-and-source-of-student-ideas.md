@@ -47,3 +47,4 @@ Detailed video analysis of a minute-and-a-half episode of three students and a T
 ## Related Claims
 - [Changes in gesture size, precision, and viewpoint indicate the decreasing novelty of student ideas across a series of statements](gesture-form-indicates-idea-novelty.md) — related
 - [A student's animated off-worksheet statements can function as bids for a frame change that the group may accept or ignore](behavioral-bids-for-frame-change.md) — related
+- [The Five Design-Sheet method helped students explore alternative ideas and articulate them clearly](fds-explores-alternative-ideas-clearly.md) — related

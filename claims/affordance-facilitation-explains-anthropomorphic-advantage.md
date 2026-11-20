@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: weak
-newest_evidence: 2011
+newest_evidence: 2012
 sources:
-  - id: murano-2011
+  - id: murano-2012
     resource: "https://doi.org/10.48550/arXiv.1208.3323"
-    title: "Murano, P. & Sethi, T. (2011). Anthropomorphic User Interface Feedback in a Sewing Context and Affordances. International Journal of Advanced Computer Science and Applications, Vol. 2, No. 4. [doi:10.48550/arXiv.1208.3323](https://doi.org/10.48550/arXiv.1208.3323)"
+    title: "Murano, P. & Sethi, T. (2012). Anthropomorphic User Interface Feedback in a Sewing Context and Affordances. International Journal of Advanced Computer Science and Applications, Vol. 2, No. 4. Originally published 2011. [doi:10.48550/arXiv.1208.3323](https://doi.org/10.48550/arXiv.1208.3323)"
     author: "Murano, P. & Sethi, T."
     q: 1
     i: "?"
@@ -24,17 +24,17 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 > **Design limits** · Murano 2011: the intervention came bundled with another change (read from the study by two models, 2026-11-17)
 
 ## Subclaims
-`q1 i?` The authors interpret the performance and perception advantages of the anthropomorphic condition as effects of facilitated cognitive and sensory affordances, since video shows the flow of a stitch and links seeing and hearing, whereas static diagrams lose that flow. [→ Murano 2011](#murano-2011)
+`q1 i?` The authors interpret the performance and perception advantages of the anthropomorphic condition as effects of facilitated cognitive and sensory affordances, since video shows the flow of a stitch and links seeing and hearing, whereas static diagrams lose that flow. [→ Murano 2012](#murano-2012)
 
 ## Evidence
 
-### Murano 2011
+### Murano 2012
 
-Murano, P. & Sethi, T. (2011). Anthropomorphic User Interface Feedback in a Sewing Context and Affordances. International Journal of Advanced Computer Science and Applications, Vol. 2, No. 4. [doi:10.48550/arXiv.1208.3323](https://doi.org/10.48550/arXiv.1208.3323)
+Murano, P. & Sethi, T. (2012). Anthropomorphic User Interface Feedback in a Sewing Context and Affordances. International Journal of Advanced Computer Science and Applications, Vol. 2, No. 4. Originally published 2011. [doi:10.48550/arXiv.1208.3323](https://doi.org/10.48550/arXiv.1208.3323)
 
 `q1 · i?` · `causal · r2`
 
@@ -54,3 +54,4 @@ Authors' interpretation (type e) offered in the experiment discussion section, n
 - [The authors interpret the Vitamin-based triangles teaching as more effective because multi-sensory materials raise attention and motivation](multisensory-materials-attention-motivation-interpretation.md) — a broader claim this one bears on
 - [Social presence from social cues can improve task performance (social facilitation) but may impair performance on complex tasks (social inhibition)](social-facilitation-social-presence-performance.md) — related
 - [Prior anthropomorphic-interface studies show inconsistent findings, with some favouring anthropomorphic feedback and others not, motivating the affordance-based explanation](inconsistent-anthropomorphic-interface-findings-literature.md) — related
+- [Anthropomorphizing chatbots has both positive effects on engagement and motivation and negative effects through unrealistic expectations and frustration](anthropomorphism-dual-engagement-frustration-effects.md) — related

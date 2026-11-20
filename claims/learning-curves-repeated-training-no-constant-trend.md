@@ -51,3 +51,4 @@ Learning curves of task 1 were examined in 15 participants who underwent the tra
 - [Individual learning curves vary, with some participants showing temporary fluoroscopy-time increases across sessions](individual-variability-in-simulator-learning-curves.md) — related
 - [Across repeated simulation sessions, residents showed a slight increase in skills assessment score and a decline in operative time](repeated-simulation-sessions-slight-score-increase-time-decline.md) — related
 - [Performance curves across 10 consecutive test applications were generally flat, with scores improving slightly then decaying and oscillating between sessions](flat-performance-curves-ten-applications.md) — related
+- [Presentation quality stays roughly constant with a slight decline across each semester, and correlates weakly negatively with number of peer evaluations completed](presentation-quality-declines-across-semester.md) — related

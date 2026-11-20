@@ -75,3 +75,5 @@ Findings of the faculty error review in the Results section. The article also re
 - [Students grading practice exams award significantly more points than a professional grader, about 25% more overall](peer-graders-more-lenient-than-professional.md) — related
 - [GPT-4 tends to assume feedback is correct when it sounds convincing but incorrectly identifies the student error or provides an invalid suggestion, and has a high false positive rate on the diagnostic label.](gpt4-feedback-evaluation-shortcomings.md) — related
 - [Across all feedback generation methods tested, most failures occur because the LLM cannot correctly identify the error in the student's incorrect answer, especially when multiple reasoning steps are required.](llm-failure-identifying-student-error.md) — related
+- [Fine-grained rubric grading of entire problems exceeds LLM bookkeeping capabilities, while parts-based grading is more reliable but misses nuances](rubric-granularity-affects-ai-grading-reliability.md) — related
+- [Traditional machine learning bias measures fail to transfer to LLM-generated educational content](traditional-bias-measures-fail-for-llm-education.md) — related

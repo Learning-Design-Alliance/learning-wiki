@@ -40,7 +40,8 @@ In its outlook the article proposes providing measurement data in a suitable for
 - realizing their own analysis ideas and making discoveries
 
 ## Related Strategies
-- 
+
+- [Cosmic Piano Masterclass: a session walking students through the complete experimental journey from detector assembly to data analysis](cosmic-piano-masterclass-session.md)
 
 ## Examples
 -

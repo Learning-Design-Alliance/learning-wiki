@@ -92,3 +92,4 @@ The authors place this alongside earlier cross-domain findings of a modest link 
 - [Non-cognitive traits (narcissism, aloofness, irrational thinking, conscientiousness, confidence, INVOLVEMENT) predict examination performance, but not Theme C](non-cognitive-traits-predict-exam-outcomes.md) — related
 - [Individual predictive correlations are weak (mostly 0.16–0.24) but the overall pattern of significant relationships exceeds chance (51 of 380, 13.4%)](weak-but-better-than-chance-predictive-correlations.md) — related
 - [No relationship between students' personality traits and their grades was unveiled, except a marginal negative agreeableness correlation in the first study](personality-traits-no-grade-relationship.md) — related
+- [Perceived positive personality factors correlate positively with learning outcomes, strongest for conscientiousness and the dialogue-only model](trait-learning-correlations-dialogue-only-strongest.md) — related

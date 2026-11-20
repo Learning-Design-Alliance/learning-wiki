@@ -51,3 +51,4 @@ From the communication characteristics theme: students said communication errors
 - [A conceptual framework paper reports, citing a meta-analysis (Roesler et al., 2021), that anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations](anthropomorphism-benefits-vary-by-context.md) — related
 - [Different humanlike design dimensions cue distinct classes of anthropomorphism inferences](design-dimensions-cue-distinct-attribution-classes.md) — related
 - [Teachers and students expect PAs to communicate along two dimensions — relational and task-related — mirroring instructional communication literature](pa-relational-task-related-communication-dimensions.md) — related
+- [Personalized feedback from anthropomorphized agents can enhance understanding and retention of information](anthropomorphic-personalized-feedback-retention.md) — related

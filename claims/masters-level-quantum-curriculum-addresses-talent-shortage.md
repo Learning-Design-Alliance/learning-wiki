@@ -50,3 +50,6 @@ Theoretical argument (no data) in the paper's industry-focused curriculum sectio
 - [Preferred degree level depends strongly on the quantum job role, with PhDs for quantum-specific roles and more consensus about skills than about degrees](quantum-degree-requirements-vary-by-role.md) — related
 - [Deep knowledge of quantum information science theory is not a necessary or sufficient requirement to work in the quantum industry; classical physics and engineering skills are highly valued](classical-skills-valued-over-deep-qis-theory.md) — related
 - [The article argues optical engineering merits independent departments because mastering optical design as a secondary subject alongside physics is slow and isolating](independent-optics-department-rationale.md) — related
+- [Quantum industry representatives widely report talent scarcity as a major workforce development challenge](qt-industry-talent-scarcity.md) — related
+- [Quantum companies are shifting from requiring PhD-level expertise toward hiring masters-level and engineering staff with QT awareness](qt-phd-to-masters-shift.md) — related
+- [Quantum technology systems engineering is a major industrial readiness gap with almost no university programs offering the skill set](qt-systems-engineering-gap.md) — related

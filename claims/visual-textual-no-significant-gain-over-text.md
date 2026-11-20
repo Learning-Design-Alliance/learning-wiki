@@ -56,3 +56,4 @@ Post-test ANOVA follow-up in the same classroom experiment: the Visual group (n=
 - [Representational scripting produced no individual learning gains: overall post-test scores did not exceed pre-test scores](no-individual-learning-gains.md) — related
 - [Effect sizes of Arduino-based education are statistically larger for textual than for visual programming language](arduino-effect-textual-language-larger.md) — related
 - [Using a blocks-based visual language instead of a text-based language has no significant overall effect on GUI-programming practical exam success](bbl-tbl-no-overall-exam-difference.md) — related
+- [Group A (textual code) showed larger pre-to-post knowledge test gains (+5 vs +3.3) while group B (visual metaphors) scored slightly higher post-intervention (7 vs 6.7)](text-objects-larger-knowledge-gain-visual-metaphors-higher-post-score.md) — related

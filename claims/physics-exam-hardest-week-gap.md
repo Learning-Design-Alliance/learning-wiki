@@ -50,3 +50,4 @@ Analysis of the passing group's extracted Markov chain (Fig. 3) and full chain i
 - [Most students who ultimately failed the exam still expected to pass three days before it, showing persistent overconfidence despite knowledge gain](failers-still-expected-to-pass.md) — related
 - [Review-based AI overall difficulty correlates strongly with problem-level student pass rate across 79 parallel-class exam problems](review-based-ai-difficulty-problem-level-correlation.md) — related
 - [AI review difficulty also correlates with problem-level non-attempt rate, providing process evidence beyond pass rate](ai-difficulty-non-attempt-rate-correlation.md) — related
+- [In a Fall 2023 physics course, 49% of quiz attempters passed within seven attempts, over 90% of passers did so within five attempts, and exam accuracy ranged from 30% to 61% across problem types](quiz-pass-and-exam-accuracy-descriptives.md) — related

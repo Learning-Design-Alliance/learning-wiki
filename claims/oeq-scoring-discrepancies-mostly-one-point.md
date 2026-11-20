@@ -54,3 +54,4 @@ Quantification of point-value differences between graders reported in the Result
 - [In one reviewed study, GPT-4 automated essay scoring showed score inflation, with AI–human rating discrepancies exceeding 1.5 standard deviations in 38% of graduate-level bibliographies](gpt4-essay-score-inflation.md) — related
 - [Adding a model answer to the GPT-4 prompt was counterproductive, lowering scoring reliability](model-answer-in-prompt-lowered-reliability.md) — related
 - [Agreement between AI-generated competency scores and human ratings was mixed across studies, with some reporting moderate to strong agreement and others showing score inflation and inconsistent performance](ai-ssp-score-agreement-with-human-ratings-mixed.md) — related
+- [GPT-4-based grading of open answers aligns moderately with expert human graders, with an average grade difference of 2.75%](gpt4-grading-aligns-with-human-graders.md) — related

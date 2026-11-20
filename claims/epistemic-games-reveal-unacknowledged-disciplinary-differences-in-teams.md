@@ -70,3 +70,4 @@ This is methodologically careful naturalistic research (q2-q3: peer-reviewed, sy
 - [The article claims its collaborative-writing rules originate from the authors' own frustrating and stressful experiences rather than from systematic study](rules-originate-from-authors-experience.md) — related
 - [Cross-field application of disciplinary knowledge is only explicitly emphasised from second year and foregrounded only in higher degrees](cross-field-application-timing-finding.md) — related
 - [The diverse perspectives of others profoundly enrich the problem-solving process, while collaboration poses its own challenges](diverse-perspectives-enrich-problem-solving.md) — related
+- [Disciplinary egocentrism hinders student-centric approaches in undergraduate education](disciplinary-egocentrism-undergraduate-barrier.md) — related

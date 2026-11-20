@@ -72,3 +72,4 @@ Same randomized two-condition experiment; immediate near-transfer contrast repor
 - [Students in active classrooms scored higher on tests of learning than students in passive lectures (0.46 SD higher, P < 0.001)](active-learning-higher-test-scores-than-lecture.md) — related
 - [Students taught with the SLC method show higher learning-independence questionnaire scores than students taught with lecture method](slc-higher-learning-independence-scores.md) — related
 - [Knowledge retention measured 4 weeks after instruction is higher for topics learned through self-directed learning than for topics learned through didactic lecture](sdl-four-week-retention-exceeds-didactic-lecture.md) — related
+- [Lectures followed by direct activities worked well, enabling students to try skills immediately after the lecture](lectures-followed-by-activities-worked.md) — related

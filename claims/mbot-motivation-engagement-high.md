@@ -53,3 +53,4 @@ Dimension 3 used participant observation with an estimation scale (no control co
 - [Students rated the interdisciplinary escape room positively, with the highest ratings for recommendation to peers, fun, relevance, and learning atmosphere](escape-room-student-satisfaction.md) — related
 - [A research-based escape room was rated 3.7 ± 0.31 out of 5 for overall experience by health professions student participants](morad-escape-overall-experience-rating.md) — related
 - [Participants reported similar engagement and motivation ratings for the game and video conditions, with no significant effects found](similar-engagement-ratings-game-video.md) — related
+- [Students rated the Eurogame escape room concept positively: 80% rated the room concept very important, EPs and the VP system good (80%), motivating (87%), and felt significantly challenged (76%)](eerp-acceptance-ratings.md) — related

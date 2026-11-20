@@ -50,6 +50,7 @@ At point ②, the article proposes predictive models that give students "a selec
 - [AI chatbots to moderate feedback loops and reframe self-reflection away from success versus failure](ai-chatbot-feedback-reframing.md)
 - [Architect teacher-in-the-loop agentic AI with escalation protocols, guardrail adjustability, and state-interruptibility](teacher-in-the-loop-agentic-architecture.md)
 - [Calibrate assistant support forms to preserve users' cognitive participation rather than making every interaction tutor-like](calibrate-llm-support-forms-for-cognitive-participation.md)
+- [Balancing a defined protocol with student agency through a property-choice exploratory phase](student-property-choice-agency-strategy.md)
 
 ## Examples
 -

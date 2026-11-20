@@ -67,3 +67,4 @@ Qualitative pattern analysis of ridge coefficients across 53 countries, illustra
 - [Achievement-enjoyment effects are relatively robust to country-level moderators (HDI, Education Index, GDP per capita), except a stronger student-achievement effect on reading enjoyment in higher-HDI countries](country-moderators-hdi-gdp-achievement-enjoyment.md) — related
 - [National gender-equality and human-development indicators show no consistent correlation with sex differences in mathematics or reading across the decade](no-consistent-correlation-gender-equality-sex-differences.md) — related
 - [U.S.-trained model accuracy drops linearly with national development (HDI)](us-model-accuracy-drops-linearly-with-hdi.md) — related
+- [Prior section attendance, country HDI, age, and gender predicted which students used GPT-4](gpt4-usage-demographic-predictors.md) — related

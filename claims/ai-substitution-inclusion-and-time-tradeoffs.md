@@ -78,3 +78,4 @@ Authors' stated trade-off on the substitution opportunity: freeing time for sear
 - [Students' generative AI use may function either as a scaffold supporting thinking or as a shortcut bypassing essential cognitive processes](ai-scaffold-or-shortcut-pathways.md) — related
 - [Generative AI tools risk inducing overestimated abilities and diminishing training of foundational skills](generative-ai-overconfidence-risk.md) — related
 - [Cognitive barriers—insufficient background knowledge or working memory capacity—impede productive engagement in generative learning activities](cognitive-barriers-impede-glas.md) — related
+- [The author reports that scaffolded learning makes the curriculum accessible and promotes equity by ensuring a strong foundational understanding before advancing](scaffolded-learning-promotes-equity-accessibility.md) — related

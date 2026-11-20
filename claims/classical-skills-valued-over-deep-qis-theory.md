@@ -58,3 +58,4 @@ In the interview study of 21 quantum companies, employers reported that deep QIS
 - [The article's analysis of a survey of 57 quantum companies finds employer-required skills cluster into three correlated subsets, with the largest (subset A) helping identify a potential quantum engineering curriculum.](quantum-industry-survey-three-skill-subsets.md) — related
 - [The article argues a master's-level industry-focused quantum curriculum is more economical than hiring PhDs to resolve the quantum talent shortage](masters-level-quantum-curriculum-addresses-talent-shortage.md) — related
 - [A reported study found all three surveyed high school physics teachers struggled to enthuse their students about quantum physics](teachers-struggled-to-enthuse-students-quantum.md) — related
+- [Quantum companies are shifting from requiring PhD-level expertise toward hiring masters-level and engineering staff with QT awareness](qt-phd-to-masters-shift.md) — related

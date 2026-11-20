@@ -71,3 +71,4 @@ Magnitude-comparison task within the same Expansions question (Table V). The art
 - [Graduate students demonstrated adaptability and metacognitive awareness in their approach to reasoning about entropy](graduate-entropy-reasoning-adaptability-metacognition.md) — related
 - [Most graduate students correctly rank entropies in a partitioned-box task, with pressure-equalization intuitions producing the main alternative rankings](partitioned-box-entropy-ranking-graduate-students.md) — related
 - [Students incorrectly think work is done in an irreversible free expansion of a gas into a vacuum](work-attributed-in-free-expansion.md) — related
+- [Many introductory students are unaware that total entropy must increase in irreversible processes such as free expansion and gas mixing, while upper-level students succeed](unaware-total-entropy-increases-irreversible.md) — reports the opposite

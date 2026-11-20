@@ -54,6 +54,7 @@ The thread's tasks place physical energy reasoning in biological contexts: a pro
 
 - [Design interdisciplinary exam and homework questions that ask students to use physics and mathematics for biological ends, such as explaining organismal structure, function, and diversity](biology-authentic-question-design-strategy.md)
 - [Integrating physics and mathematics into biology courses requires cross-disciplinary collaboration and attention to student epistemologies](cross-disciplinary-collaboration-biology-physics-integration.md)
+- [Use concept cartoon clicker questions to integrate evolutionary biology into introductory physics through active engagement](concept-cartoon-clickers-interdisciplinary-physics-strategy.md)
 
 ## Examples
 -

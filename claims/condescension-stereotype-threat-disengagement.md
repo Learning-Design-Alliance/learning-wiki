@@ -65,3 +65,5 @@ Case-study interview evidence: Paulette's account of male professors' condescens
 - [Faculty perceptions separating academic-bound from industry-bound students affect women's recognition, competence, and belonging in physics](career-path-perceptions-recognition-competence-belonging.md) — related
 - [Peer mentorship helps women in physics engage with their physics community and fosters a sense of belonging](peer-mentorship-belonging-physics-community.md) — related
 - [Students left to work alone in pair-designed labs had negative experiences, particularly underrepresented students](solo-students-negative-experiences.md) — related
+- [In Study 2, instructors' disparaging classroom language (e.g., calling material trivial) was picked up and reproduced by students, disseminating negative behaviors](instructor-language-disseminates-negative-culture.md) — related
+- [In the large research university department (Study 2), undergraduate women report male peers ignoring their contributions and male instructors enforcing negative stereotypes, while female peers serve as key support sources](study2-masculine-negative-peer-instructor-culture.md) — related

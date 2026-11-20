@@ -48,3 +48,4 @@ The authors' qualitative investigation testing ChatGPT against their own ID-inte
 ## Related Claims
 - [GenAI feedback limitations require students to exercise evaluative judgement](genai-limitations-require-evaluative-judgement.md) — a broader claim this one bears on
 - [ChatGPT-generated answer usage on assessments is below 12% in three of four courses and approximately 25% in one conceptual physics course, correlating with student discipline](chatgpt-usage-varies-by-discipline.md) — related
+- [Students have submitted wrong or conflicting GenAI-generated information in assignments (authors' own experience)](genai-hallucination-wrong-student-submissions.md) — related

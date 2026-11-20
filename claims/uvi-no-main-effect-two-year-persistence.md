@@ -72,3 +72,4 @@ The same basic model included FG, URM, and their interactions with the UVI. The 
 - [The UVI was indirectly associated with persistence via engagement and course grade for all students and for FG-URM students, robust to unmeasured confounding](uvi-indirect-persistence-via-grades-fg-urm.md) — related
 - [The UVI influenced short-term performance through engagement and long-term persistence through personal focus, two distinct motivational processes](uvi-two-distinct-motivational-processes.md) — related
 - [Biology course grade partially mediates the UV intervention's effects on course continuation and STEM major persistence](grades-mediate-uv-retention-effects.md) — related
+- [CUREs improve learning, motivation, and retention, and are particularly beneficial for under-represented minorities (reported from prior literature)](cures-improve-motivation-retention-urms.md) — reports the opposite

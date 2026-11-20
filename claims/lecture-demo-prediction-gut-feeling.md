@@ -67,3 +67,4 @@ During prediction interviews with an electron beam and bar magnets, the concrete
 - [Magnetic Force Perpendicularity 3D Difficulty](magnetic-force-perpendicularity-3d-difficulty.md)
 - [Students predict that wires carrying opposite currents attract, and even those correctly predicting repulsion could not explain it via magnetic-force reasoning](opposite-current-wires-attract-misconception.md) — related
 - [No participant explained induced current in moving-loop cases via the magnetic part of the Lorentz force, though it is the cause of EMI in those cases](emi-lorentz-force-explanation-absent.md) — related
+- [A giant 9:1 Arduino Uno replica with magnetic components lets students with visual impairments or motor skill difficulties participate actively in lectures](giant-arduino-replica-inclusive-handling.md) — related

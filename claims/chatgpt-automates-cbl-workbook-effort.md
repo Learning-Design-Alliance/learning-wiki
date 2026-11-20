@@ -56,3 +56,4 @@ Focused ethnography of 45 students across seven CBL sessions, using field notes,
 - [Copy & paste was the most used interaction strategy with ChatGPT, and 62% of final answers were extracted directly from ChatGPT](copy-paste-dominant-chatgpt-strategy.md) — related
 - [Search engine users favoured preprocessing strategies while copy & paste was rare (3 uses)](search-engine-users-preprocessing-dominant.md) — related
 - [Participants' main strategy for using ChatGPT on programming tasks is copying the assignment's textual description into the tool and then adapting the retrieved code](chatgpt-copy-paste-assignment-description-strategy.md) — related
+- [Unauthorized outside-resource and ChatGPT usage on assignments reduces significantly under in-class group work](group-work-reduces-unauthorized-resource-use.md) — related

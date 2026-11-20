@@ -53,6 +53,7 @@ For researchers studying SRL scaffolds, the article recommends methodological ch
 - [Improve robustness of color-effect research through statistical power, open practices, and multi-lab collaborations](color-research-power-open-practices-strategy.md)
 - [Future bilingualism research should combine mixed-method designs, multiple data collection tools and analysis methods, and larger samples](bilingualism-future-research-mixed-method-larger-samples.md)
 - [Future flipped classroom research should use larger multi-site samples, standardized facilitator training, and mixed-methods data collection](flipped-classroom-future-research-recommendations.md)
+- [Report control-condition context fully and adapt comparative methods to information completeness](report-control-context-recommendations.md)
 
 ## Examples
 -

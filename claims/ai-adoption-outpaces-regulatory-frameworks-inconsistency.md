@@ -74,3 +74,4 @@ Systematic literature review of recent studies on AI ethics in education. The re
 - [Australian universities show an escalating trend toward contingent academic appointments and a declining trend in continuing teaching-and-research staff](contingent-academic-employment-trend-australia.md) — related
 - [No framework, guidelines, policies or regulations have been devised to address the specific ethical issues raised by the use of AI in education](no-aied-ethics-framework-or-policy.md) — related
 - [Institutional approaches to academic integrity have shifted over two decades from punitive, rules-focused responses to educative, values-based approaches](ai-shift-punitive-to-educative-approaches.md) — related
+- [Many Hong Kong schools lack specific AI-use guidelines, leaving students uncertain whether AI use is permitted and to what extent](hk-schools-lack-ai-guidelines-student-uncertainty.md) — a narrower finding that bears on this claim

@@ -57,3 +57,4 @@ Multi-university study reviewed (Ref. [24]): a beam of electrons in spin state |
 - [Only 23% of students correctly predicted beam splitting for a Stern-Gerlach gradient perpendicular to the spin state, most wrongly claiming orthogonality prevents splitting](stern-gerlach-x-gradient-orthogonality-difficulty.md) — possibly the same claim (merge candidate)
 - [Only 41% of students correctly predicted two-spot splitting along z for a Stern-Gerlach apparatus with a vertical magnetic field gradient](graduate-students-low-sge-splitting-z.md) — related
 - [Secondary and lower undergraduate students have difficulty relating quantum physics to physical reality](students-difficulty-relating-quantum-physics-physical-reality.md) — related
+- [Schrödinger equation (98%) and three-dimensional quantum mechanics (94%) are the most taught themes; the Stern-Gerlach experiment appears in only 28% of curricula](quantum-curriculum-themes-sge-rare.md) — related

@@ -54,3 +54,4 @@ Analysis combining AIP department rosters (190 Ph.D.-highest and 55 MS-highest s
 - [Minority-serving status does not significantly predict QIS course availability once other factors are controlled, but correlates strongly with Pell grant share](msi-status-not-significant-predictor-qis-courses.md) — related
 - [Institutions with a high percentage of Pell grant recipients offer significantly fewer QIS courses](pell-grant-institutions-fewer-qis-courses.md) — related
 - [QIS education programs appear rarer in rural states and at institutions serving higher populations of low-income students](qis-programs-rarer-in-rural-states.md) — related
+- [Required quantum course counts show the same trend at Minority Serving Institutions as in the larger dataset](msi-course-requirements-same-trend.md) — related

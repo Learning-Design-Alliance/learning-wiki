@@ -53,3 +53,4 @@ All-candidates multivariate logistic regression on UKMED data; prior attainment 
 - [Religion predicts first-attempt outcomes, with effects differing by examination format and reversing direction for some groups](religion-predicts-first-attempt-outcomes-format-dependent.md) — related
 - [Total written assessment time at medical school correlates positively with graduates' mean first-attempt postgraduate examination performance, including after controlling for entry qualifications.](assessment-time-correlates-postgraduate-attainment.md) — related
 - [Prior educational attainment significantly predicts first-year medical school performance (r = .362)](educational-attainment-predicts-first-year-medical-performance.md) — related
+- [UCAS Tariff score is a strong predictor of first-class STEM degree outcomes, with each SD raising odds by 1.48](tariff-score-predicts-first-class-degrees.md) — related

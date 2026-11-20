@@ -51,3 +51,4 @@ The authors' theoretical argument in the introduction: conventional vectors form
 - [Numerical computation fosters student acceptance that kets are column vectors, bras row vectors, and operators matrices](numerical-computation-builds-ket-matrix-intuition.md) — related
 - [No overall multimedia effect on problem-solving performance in vector calculus: graphs did not significantly improve correctness](no-overall-multimedia-effect-vector-calculus.md) — related
 - [The graphical notation lowers barriers in learning and practicing vector calculus and fosters student self-motivation](graphical-notation-lowers-vector-calculus-barriers.md) — related
+- [Students judge preparatory math courses as at least somewhat helpful for physics, but helpfulness varies: introductory calculus and vector calculus were widely valued while lower-division linear algebra was insufficient preparation for quantum mechanics](preparatory-math-course-helpfulness-varies.md) — related

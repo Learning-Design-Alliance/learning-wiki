@@ -51,6 +51,7 @@ Students form groups with one Alice, one Bob, qubits, and Eavesdroppers. Alice p
 - [Play the BB84 quantum cryptography protocol using only part 1 of the game](entangle-game-bb84-extension.md)
 - [E91 entanglement-based key distribution game with CHSH test as eavesdropping check](e91-entanglement-key-game.md)
 - [Debriefing session that reveals Eve and discusses why the setup deviates from ideal BB84](eve-reveal-debriefing-strategy.md)
+- [Use action-based, unplugged activities to introduce quantum information and quantum key distribution](action-based-quantum-informatics-introduction.md)
 
 ## Examples
 -

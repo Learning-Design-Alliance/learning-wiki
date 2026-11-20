@@ -68,3 +68,4 @@ Authors' account of iterative course refinement across cohorts, including expand
 - [Faculty report stretch models are widely seen as effective for developmental writing and function best when the same instructor and student cohort persist across semesters](stretch-models-same-instructor-cohort-across-semesters.md) — related
 - [After instructors adjusted instruction using student data, course-feedback ratings rose to an average of 6.93 out of 7 with mode and median of 7](feedback-ratings-rose-after-instructional-adjustment.md) — related
 - [Beta testing of the course led to design changes: dropping pre-briefing, focusing each session on one PEARLS element, and adding breakout-room individual feedback](beta-tests-shaped-sl-simulation-course-design.md) — related
+- [Popular-vote selection of peer-customer projects produced low idea diversity and was replaced by instructor curation](popular-vote-selection-issues.md) — related

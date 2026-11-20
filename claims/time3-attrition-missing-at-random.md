@@ -47,3 +47,4 @@ Missing-data analysis supporting the missing-at-random assumption for the mixed 
 ## Related Claims
 - [The association between tachypnea detection and correct video answers varies by postgraduate year and age but not by sex](tachypnea-answer-interactions-pgy-age-sex.md) — related
 - [No statistically significant differences in PI staging accuracy were observed by sex, age, work experience or educational level](no-demographic-differences-pi-staging-accuracy.md) — related
+- [Orient-COVID's benefit did not vary significantly with participant sex, age, university grades, or prior COVID-19 case experience](orient-covid-factor-analysis-nulls.md) — related

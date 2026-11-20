@@ -50,3 +50,4 @@ Qualitative focus-group and reflective-paper study of the shared science-dance s
 - [Science students tended to translate scientific concepts literally into choreography while dance students sought creative exploration, creating a disconnect](literal-translation-versus-choreographic-exploration-disconnect.md) — related
 - [A minority of science students reported no learning benefit from teaching concepts through physical movement](some-science-students-no-benefit-from-movement.md) — reports the opposite
 - [Bodily activation with gestures and poses deepened student teachers' understanding of physics concepts conveyed in a digitized dance-physics performance](bodily-activation-deepened-physics-understanding-digital-performance.md) — a narrower finding that bears on this claim
+- [Role-playing a human synchrotron introduced acceleration concepts through learners embodying cavities and magnets](human-synchrotron-roleplay.md) — a narrower finding that bears on this claim

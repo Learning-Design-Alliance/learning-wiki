@@ -52,6 +52,7 @@ Under Encourage Evaluation of Emerging Technologies, the framework recommends pr
 - [Cautious, verified use of ChatGPT with critical cross-referencing of AI-provided sources](cautious-verified-chatgpt-use-strategy.md)
 - [Add opportunities for critical comparison of AI outputs to Socratic GenAI activities to enable trust calibration](critical-comparison-for-trust-calibration-strategy.md)
 - [Have students generate, verify, and integrate ChatGPT answers judged by a teacher to build critical thinking](chatgpt-generate-verify-integrate-strategy.md)
+- [Use students' comparison of explanations from different AI models as an activity to build critical evaluation of AI-generated content](compare-llm-explanations-critical-thinking.md)
 
 ## Examples
 -

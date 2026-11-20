@@ -46,7 +46,8 @@ The CoMSA offers a strategy for researchers to formalize assumptions about how e
 - [Formal theory offers advantages over common sense for guiding implementation, but empirical evidence of effectiveness is lacking](../claims/formal-theory-advantages-over-common-sense.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use executable computational models of learning to generate and test hypotheses about when instructional interventions will be effective](executable-theory-hypothesis-generation-strategy.md)
 
 ## Examples
 -

@@ -72,3 +72,4 @@ The review attributes this finding to Zeng et al. (2020), a secondary analysis o
 - [AP Computer Science participation is disproportionately low among girls and students of color](ap-cs-participation-gaps-gender-race.md) — related
 - Research on early childhood exclusionary discipline is accelerating but remains dominated by cross-sectional designs and convenience samples of a few hundred teachers. — related
 - [Children's prior expulsion history is positively associated with expulsion risk, while rated disruptiveness of behavior was not a significant predictor in the one study testing both.](prior-expulsion-history-predicts-expulsion-risk.md) — related
+- [Learning bias in early warning systems over-identifies African American and Hispanic students as at-risk due to biased disciplinary and attendance data](ews-learning-bias-over-identifies-minority-students.md) — related

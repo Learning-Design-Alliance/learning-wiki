@@ -9,6 +9,7 @@ generated:
   at: 2026-11-20
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-11-20
 recheck_by: 2027
 sources:
   - id: vincenzo-de-maio-2024
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: local conditions change quickly
+> **Currency** · newest study 2024 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Collective class scoring across three assignments showed learning outcomes LO1–LO4 achieved with percentages ranging from 85% to 90%, which the authors take as evidence the course reached its main objectives. [→ Vincenzo De Maio 2024](#vincenzo-de-maio-2024)

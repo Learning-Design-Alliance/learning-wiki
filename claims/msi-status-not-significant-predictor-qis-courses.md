@@ -70,3 +70,6 @@ Cross-correlation analysis of the regression's independent variables (Appendix C
 - [Master's-granting physics and astronomy institutions serve undergraduate populations with a substantially larger share of lower-income (Pell-eligible) students than Ph.D.-granting institutions](masters-institutions-serve-more-pell-eligible-undergraduates.md) — related
 - [Active QIS courses at US institutions are disproportionately concentrated at R1 private research universities, and most institutions offer none](qis-courses-concentrated-at-r1-private-institutions.md) — related
 - [QIS education programs appear rarer in rural states and at institutions serving higher populations of low-income students](qis-programs-rarer-in-rural-states.md) — related
+- [At minority-serving institutions, quantum was always taught (100%), atomic was taught less often (73%), and relativity slightly more often (73%) than in the larger dataset](modern-physics-topics-at-minority-serving-institutions.md) — related
+- [Required quantum course counts show the same trend at Minority Serving Institutions as in the larger dataset](msi-course-requirements-same-trend.md) — related
+- [Minority Serving Institutions show higher mean quantum hours (79.4) than the larger sample, suggesting no disparity in instructional time](msi-quantum-hours-higher-mean.md) — related

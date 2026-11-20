@@ -58,3 +58,4 @@ Multivariate logistic regression on 69,595 written and 38,485 clinical first att
 - [BME UK graduates and international medical graduates in postgraduate training are perceived to face additional difficulties that affect their learning and performance compared with white UK graduates](bme-img-additional-training-difficulties-impede-learning.md) — related
 - [Ethnicity effects on examination performance persist after taking performance at previous assessment stages into account](ethnicity-effects-persist-after-prior-performance-adjustment.md) — related
 - [Most first-year medical students (84.3%) pass all examinations at first attempt, with small fail, repeat and attrition groups](first-year-medical-outcome-distribution-ukcat12.md) — related
+- [Black and Asian students have significantly lower odds of achieving a first-class STEM degree than White students after multivariate adjustment](black-asian-lower-odds-first-class-stem-degrees.md) — related

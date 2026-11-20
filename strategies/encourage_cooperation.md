@@ -70,6 +70,7 @@ Cooperative structures work because articulating ideas to peers forces elaborati
 - [Deploy school computers for cooperative rather than one-per-student use](cooperative-computer-deployment-strategy.md)
 - [Structure positive interdependence through goal, role, and reward interdependence in cooperative base groups](structure-positive-interdependence-goal-role-reward.md)
 - [Support unfacilitated peer collaboration with a time constraint, a small reward, and an incentive for individual accountability.](peer-collaboration-time-reward-accountability.md)
+- [Twenty-second sketch-and-share group divergence strategy](twenty-second-sketch-share-divergence-strategy.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the lowest-overhead cooperative format

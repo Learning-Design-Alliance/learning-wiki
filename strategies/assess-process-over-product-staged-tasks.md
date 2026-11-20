@@ -46,6 +46,7 @@ This strategy designs assessments as sequences of interconnected tasks with guid
 - [Scaffolded critique-of-AI-output assignment sequence with paired verification of individual understanding](critique-ai-output-assignment-sequence.md)
 - [Require process transparency artefacts: process logs, prompt records, reflective commentaries and oral defences](process-transparency-artefacts-strategy.md)
 - [Assess the process: grade design rationales, prompt logs, and oral defenses, avoiding reliance on AI detectors](assess-process-evidence-genai.md)
+- [Create transparency through detailed electronic logging of work and learning processes rather than repairing the deficiencies of graded theses](log-work-learning-processes-portfolio.md)
 
 ## Examples
 -

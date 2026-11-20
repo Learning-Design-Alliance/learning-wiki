@@ -50,6 +50,7 @@ The review recommends that AI-mediated cognitive supports — such as text simpl
 - [Five reconciliation strategies academics use to manage AI-related guilt: tool framing, critical thinking emphasis, boundary setting, transparency, and denying reconciliation is needed](five-ai-guilt-reconciliation-strategies.md)
 - [Subordinate digital resources to pedagogical principles: authentic problematization, scaffolding, formative evaluation, and timely feedback](design-technology-with-not-only-in.md)
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
+- [Develop clear ethical AI guidelines specifying appropriate uses, framing AI as supplementary, limiting direct output copying, and promoting transparency](ethical-ai-guidelines-to-mitigate-ai-guilt.md)
 
 ## Examples
 -

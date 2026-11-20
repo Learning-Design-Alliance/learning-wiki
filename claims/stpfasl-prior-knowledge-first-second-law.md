@@ -48,3 +48,4 @@ Open-ended bonus questions on a midterm exam in a first-semester algebra-based c
 ## Related Claims
 - [Newton's laws, conservation of energy, and geometrical optics are the three physics concepts that are simultaneously pivotal, present in all four examined state standards, and particularly difficult to learn](three-pivotal-physics-concepts-standards.md) — related
 - [After transformed instruction most students state energy is conserved in tunneling, yet energy-loss reasoning persists in subtle forms](energy-conservation-stated-but-energy-loss-reasoning-persists.md) — related
+- [Most introductory students arrive with prior exposure to the first and second laws, which helps explain small pre-to-post gains on the survey](prior-exposure-thermodynamics-laws.md) — possibly the same claim (merge candidate)

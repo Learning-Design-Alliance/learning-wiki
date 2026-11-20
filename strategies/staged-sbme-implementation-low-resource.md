@@ -52,6 +52,7 @@ A staged implementation strategy for simulation-based medical education in finan
 - [Use short, gamified low-cost simulation tasks as an introductory pre-clinical training method before real laparoscopic exposure](gamified-low-cost-simulation-before-real-laparoscopy.md)
 - [Assess available resources and develop targeted team training to improve trauma care efficiency in resource-limited hospitals](resource-assessment-targeted-team-training-strategy.md)
 - [Start small and stage QIST program development from individual faculty expertise toward a future standalone major](qist-start-small-staged-development.md)
+- [Use small-scale, low-stakes incremental testing with both confirmatory and exploratory measures, scaling up progressively](incremental-testing-confirmatory-exploratory.md)
 
 ## Examples
 -

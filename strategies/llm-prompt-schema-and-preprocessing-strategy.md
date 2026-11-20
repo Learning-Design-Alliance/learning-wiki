@@ -46,6 +46,7 @@ The authors' prompt-engineering recipe for consistent, standardizable LLM feedba
 - [Constrain an LLM to inquiry-only questioning via negative system-prompt constraints plus strict JSON schemas](negative-constraint-prompting-inquiry-only-llm.md)
 - [Engineer LLM grading prompts with detailed, domain-specific evaluation criteria and band descriptors](prompt-llm-grading-with-detailed-band-descriptors.md)
 - [Design GPT feedback prompts with few-shot examples covering each response category and documented student preconceptions as context](few-shot-prompt-with-preconceptions-for-feedback-generation.md)
+- [Use structured TELeR-style prompts (Level 2-3) specifying output format to elicit instructional-goal variables from LLMs](teler-level2-3-prompt-variable-extraction.md)
 
 ## Examples
 -

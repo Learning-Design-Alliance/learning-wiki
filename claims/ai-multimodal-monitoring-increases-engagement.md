@@ -51,3 +51,4 @@ The review's discussion of its first research question reports that sensors and 
 - [Certain multimodal data combinations improve predictive model performance, with audio plus eye-tracking data most effective in one K–8 study](mmla-k8-modality-combinations-prediction.md) — related
 - [Facial features of negative emotions predict low rapport, but additional modalities added no predictive power](facial-features-low-rapport-no-added-modalities.md) — related
 - [Increased physiological arousal and higher physiological synchrony relate to more monitoring with negative valence](arousal-synchrony-negative-valence-monitoring.md) — related
+- [Multimodal integration of eye tracking, video, and physiological data enhances precision and robustness of aware and unaware mind-wandering detection and outperforms unimodal approaches](multimodal-outperforms-unimodal-mind-wandering-detection.md) — related

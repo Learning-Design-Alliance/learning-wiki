@@ -67,3 +67,4 @@ Same follow-up of the 14 winners asked the time between first exposure to quantu
 - [220 Spanish speakers registered for the beginner-friendly online quantum computing workshop series and hackathon, 66% of whom self-identified as introductory level](spanish-quantum-hackathon-220-registrants-66-percent-beginners.md) — related
 - [100% of responses to the participant feedback survey wanted to see more events like this in Spanish](participants-want-more-spanish-quantum-events.md) — related
 - [Mexico was the country with the most participation, and a majority of registrants heard of the event through Facebook](mexico-most-participants-facebook-main-channel.md) — related
+- [Grassroots quantum organizations employ a broad mix of teaching and learning methods including lectures, journal clubs, hackathons, games, and online and offline events](grassroots-quantum-teaching-methods-mix.md) — a broader claim this one bears on

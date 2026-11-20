@@ -49,6 +49,7 @@ Because newcomer teachers need competencies beyond standard English Learner prep
 - [State policy actions across the career continuum: attract, prepare, and develop/support/retain educators](tdf-state-policy-actions-career-continuum.md)
 - [Provide professional learning and a bilingual workforce so preK and early elementary educators can sustain home language and oral language development](bilingual-workforce-prek-professional-learning.md)
 - [Diverse hiring committees and intentional recruitment practices including HBCU/MSI outreach and higher-education partnerships](toc-diverse-hiring-committees-outreach.md)
+- [Recruit through locally connected educational entities and train via multilingual volunteer-led sessions](locally-connected-entities-multilingual-volunteer-training.md)
 
 ## Examples
 -

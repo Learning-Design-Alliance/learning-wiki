@@ -55,3 +55,4 @@ The article's introduction states, citing prior literature on formal-thinking de
 - [Students using Stellarium eclipse timing of Io determine Jupiter's mass as MJ = (1,9 ± 0,5) × 10^27 kg, consistent with the literature value](stellarium-io-eclipse-jupiter-mass.md) — related
 - [Students view Relativity as applying only at relativistic speeds or large masses, blurring the boundary with classical Mechanics](relativity-boundaries-classical-mechanics-view.md) — related
 - [UJ cohorts departed significantly from Spanish cohorts on Q2 (displacement time depends on mass) and Q14 (ego-centred reference frame)](uj-q2-q14-departure-from-spanish-cohorts.md) — related
+- [Only 7% of Indian grade 9 students identify all five lunar-phase images correctly, with intermediate phases showing widespread shape confusion](india-grade9-lunar-phase-recognition-low.md) — a narrower finding that bears on this claim

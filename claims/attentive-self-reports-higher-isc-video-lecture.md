@@ -45,3 +45,4 @@ Linear mixed-effects analysis at the probe level of lab eye-tracking data from 8
 ## Related Claims
 - [Attentive self-reports predict significantly lower Kullback-Leibler divergence between gaze density maps, indicating greater gaze synchrony](attentive-self-reports-lower-kld-gaze-synchrony.md) — related
 - [Attentive self-reports predict higher MultiMatch scanpath similarity, strongest for fixation-position similarity, but not for saccade length similarity](attentive-self-reports-higher-multimatch-similarity.md) — related
+- [Attentive learners show significantly greater gaze synchronization than less attentive learners during video lecture watching](gaze-synchrony-greater-among-attentive-learners.md) — possibly the same claim (merge candidate)

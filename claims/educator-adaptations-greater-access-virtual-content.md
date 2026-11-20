@@ -58,3 +58,4 @@ Study 2 educator interviews and telemetry data: educators tried different strate
 - [Teachers used Forms results to differentiate instruction, including forming working groups and modifying assessments for IEP accommodations](forms-differentiated-instruction-uses.md) — related
 - [Teaching with multimedia required the teacher to adjust and sometimes rewind the material to accommodate new-old information strategies](teacher-adjust-rewind-multimedia-listening.md) — related
 - [Providers tailor yoga through gentle modifications and prefer inclusive group delivery (teachers) versus goal-focused one-to-one delivery (therapists)](yoga-modification-teacher-therapist-styles.md) — related
+- [Hands-on STEM activities can be adapted to include students with disabilities, e.g. a buzzer paired with an LED outcome for a blind student](hands-on-stem-adaptable-for-disabilities.md) — related

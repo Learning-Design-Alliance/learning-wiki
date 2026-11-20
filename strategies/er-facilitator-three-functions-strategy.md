@@ -40,6 +40,7 @@ The review identifies three integral facilitator functions in EERs: "conducting 
 ## Related Strategies
 
 - [Teacher as facilitator monitoring VR progress and debriefing after diagnostic VR sessions](teacher-facilitator-role-in-poed-vr.md)
+- [Nine practical guidelines for designing and conducting educational escape rooms](escape-room-design-guidelines-nine.md)
 
 ## Examples
 -

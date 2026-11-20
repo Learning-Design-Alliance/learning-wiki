@@ -47,3 +47,4 @@ Cross-institution comparison of QMCA scores grouped into five concept frames: "T
 ## Related Claims
 - [A first 28-item multiple-choice version of the QMAT given to 61 students at two institutions showed strikingly similar item difficulty across institutions and low, comparable mean scores](mc-qmat-first-version-item-difficulty-similar-institutions.md) — related
 - [Student quantum-thinking scores varied across the five faculty members' courses, with Eric's class highest (3.54 quantum, 2.00 classical)](class-level-variation-quantum-thinking-scores.md) — related
+- [Mean scheduled classroom hours on quantum concepts across 56 institutions is 63.5 hours with wide range from 12 to 121.7 hours](quantum-instructional-hours-mean-63-5.md) — related

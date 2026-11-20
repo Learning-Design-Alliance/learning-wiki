@@ -49,4 +49,4 @@ Based on the difficulty analysis, the article recommends designing new teaching 
 -
 
 ## Key Sources
-- Rohani, N., Rohani, B., & Manataki, A. (2024). ClickTree: A Tree-based Method for Predicting Math Students' Performance Based on Clickstream Data. https://arxiv.org/abs/2403.14664
+- Rohani, N., Rohani, B., & Manataki, A. (2024). ClickTree: A Tree-based Method for Predicting Math Students' Performance Based on Clickstream Data. https://arxiv.org/abs/2403.14664. [doi:10.48550/arxiv.2403.14664](https://doi.org/10.48550/arxiv.2403.14664)

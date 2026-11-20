@@ -45,6 +45,7 @@ For solution providers, the report recommends delivering "on quick wins that vis
 - [Volunteer-first faculty recruitment with modeling of good practice rather than top-down mandates](volunteer-faculty-recruitment-modeling-practice.md)
 - [Build authentic stakeholder buy-in through relational strategies: show don't tell, slow down to speed up, engage resistors, and asset framing](relational-buy-in-strategies-restorative-implementation.md)
 - [Use pragmatic implementation and dissemination strategies to boost e-learning usage and sustainability](pragmatic-rlo-implementation-strategies.md)
+- [Start advanced courses with a Win-day-one approach that gives learners a complete answer first, then breaks down the code](win-day-one-answer-then-breakdown.md)
 
 ## Examples
 -

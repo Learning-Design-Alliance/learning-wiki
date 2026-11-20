@@ -50,3 +50,4 @@ Generalized linear mixed-effects growth curve model predicting probability of su
 - [Tutor training performance predicts real-life tutoring transcript scores, with a one SD increase in lesson performance associated with a 0.25 SD increase in transcript scores](training-performance-predicts-transcript-scores-025sd.md) — related
 - [Lasting pedagogical change is more likely when teachers try out strategies, receive feedback, and iteratively improve across multiple workshops](iterative-follow-up-supports-lasting-change.md) — a broader claim this one bears on
 - [Performance during the virtual pipetting lesson predicts real-life transfer test performance](in-lesson-performance-predicts-real-life-transfer.md) — reports the opposite
+- [A preliminary mixed linear model found no significant change in correct scores from the intervention to the post-intervention phase in one uncontrolled pre-post study](no-learning-effects-repeated-exposure-vla-task.md) — related

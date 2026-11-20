@@ -35,7 +35,7 @@ sources:
 # Experiential Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 59 claims (44 for, 15 mixed) · 61 studies (17 causal, 12 qualitative, 11 quant-synthesis, 11 review, 5 theoretical, 3 associational, 2 design), `q1`–`q4` · 10 of 61 report an effect size · 52 claims rest on one study
+> **Evidence** · 60 claims (45 for, 15 mixed) · 62 studies (17 causal, 12 qualitative, 11 quant-synthesis, 11 review, 5 theoretical, 3 associational, 3 design), `q1`–`q4` · 10 of 62 report an effect size · 53 claims rest on one study
 
 ## Conditional relationship
 
@@ -152,6 +152,7 @@ Claims this page cited before the 2026-10-02 rewrite. They are evidence about th
 - [Preclinical students who received part of their skills training as early clinical experiences in primary health care centers feel better prepared to perform clinical skills in their first clerkships than peers trained exclusively in a skills laboratory.](../claims/ece-phc-better-prepared-first-clerkships.md) [+W] — attached 2026-11-10 from Widyandana Doni; Majoor Gerard; Scherpbier Albert (2012), which proposed "Include early clinical experiences in primary health care centers in the preclinical curriculum to ease the transition into clerkships.".
 - [In first clerkships, skills-laboratory-only students report far more difficulties applying clinical skills than peers with early clinical experience in primary health care centers.](../claims/npt-more-clerkship-difficulties-than-pt.md) [+W] — attached 2026-11-10 from Widyandana Doni; Majoor Gerard; Scherpbier Albert (2012), which proposed "Include early clinical experiences in primary health care centers in the preclinical curriculum to ease the transition into clerkships.".
 - [Both ECE participants and skills-laboratory-only students believe the effectiveness of early clinical experience depends on the quality of supervision in the primary health care centers.](../claims/ece-effectiveness-depends-on-supervision-quality.md) [~W] — attached 2026-11-10 from Widyandana Doni; Majoor Gerard; Scherpbier Albert (2012), which proposed "Include early clinical experiences in primary health care centers in the preclinical curriculum to ease the transition into clerkships.".
+- [SciFabLab delivered 172 hands-on STEM workshops for primary school years 1–5 during the 2023/24 academic year, spanning ages 6 to 11](../claims/scifablab-172-primary-workshops-2023-24.md) [+M] — attached 2026-11-20 from Fior et al. (2025), which proposed "FabLab-based tangible and visual STEM learning".
 
 ## Objective and learner-valued goal
 

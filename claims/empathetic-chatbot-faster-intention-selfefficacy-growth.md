@@ -57,3 +57,4 @@ Linear mixed-effects model on check-in form responses from the six-week within-s
 - [Changes in motivation outcomes were non-linear over six weeks, with TeachQuest sustaining interest and RJP maintaining self-efficacy](nonlinear-motivation-change-six-weeks.md) — related
 - [Affective outcomes (satisfaction, confidence, engagement) are consistently positive across ADS modalities but rest predominantly on subjective, short-term measures](ads-affective-outcomes-consistent-subjective.md) — related
 - [No significant differences among chatbot conditions in engagement or perceived interruption](rr-no-engagement-interruption-differences.md) — related
+- [Adaptive empathetic feedback yields higher chatbot perceived affective support than fixed or no empathetic feedback in a preliminary user study](adaptive-empathetic-feedback-higher-chatbot-pas.md) — related

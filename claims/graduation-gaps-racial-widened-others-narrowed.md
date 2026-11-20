@@ -75,3 +75,4 @@ Subgroup trend analysis by race/ethnicity, gender, neighborhood poverty, and dis
 - [Georgia State's GPS Advising paired prediction with advising capacity and retention grants, and its strongest reported outcome was narrowed equity gaps rather than prediction accuracy](gps-advising-equity-gap-narrowing.md) — related
 - [Early educational interventions shift the mean of achievement distributions but do not narrow the distribution of individual differences](early-interventions-shift-mean-not-narrow-distribution.md) — related
 - [Structured transfer pathways show suggestive evidence of increasing equity gaps by favoring highest-achieving student groups](structured-transfer-pathways-equity-concerns.md) — related
+- [Interaction models indicate ethnicity, disability and SES awarding gaps were stable over time while the female advantage declined](awarding-gap-trends-interaction-models.md) — related

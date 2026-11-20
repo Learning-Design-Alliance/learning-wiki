@@ -41,6 +41,7 @@ Because creating a TTX from scratch is time-consuming, the authors recommend reu
 - [Use generative AI as a preparation accelerator for bounded execution-level tasks, not as a design partner](ai-assistant-bounded-preparation-tasks.md)
 - [Support instructors during execution with predefined email templates and instructor notes](predefined-email-templates-instructor-notes.md)
 - [Adapt and reuse existing outreach material, tailoring session length and topic selection to the audience](adapt-reuse-outreach-material-tailored.md)
+- [Reuse a well-designed remote escape room across courses and successive course editions to amortize its high creation effort](escape-room-reuse-across-editions.md)
 
 ## Examples
 -

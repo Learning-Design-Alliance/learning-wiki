@@ -48,3 +48,4 @@ Questionnaire administration of the ILS to all 307 participants in three middle 
 - [Preferred strategies and media differ across Felder-Silverman learning-style combinations, with A-S-Vi-Se students favouring games and simulations plus visual media](style-combination-strategy-media-mapping.md) — related
 - [No participating student had the R-I-Vi-G (Reflective-Intuitive-Visual-Global) learning-style combination, so its recommendations are inferred from similar combinations](no-rivi-g-participants.md) — related
 - [Middle-school students report question-and-answer methods as the most used and most liked instructional strategy, with lectures still popular](question-answer-most-used-liked-strategy.md) — related
+- [The fuzzy learning style recognition system's outputs correlate strongly with Felder-Silverman questionnaire results (84% overall)](fuzzy-style-system-correlates-with-questionnaire.md) — related

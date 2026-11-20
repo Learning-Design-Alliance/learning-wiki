@@ -22,7 +22,7 @@ sources:
 # Building Empathy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (18 for, 4 mixed, 1 against) · 33 studies (12 causal, 8 quant-synthesis, 7 review, 2 qualitative, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 33 report an effect size · 17 claims rest on one study
+> **Evidence** · 24 claims (19 for, 4 mixed, 1 against) · 34 studies (12 causal, 8 quant-synthesis, 7 review, 3 qualitative, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 34 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -89,6 +89,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Elementary students expressed significantly more opinion statements supporting the other-side when reading the other-side historical account than when reading their own-side account](../claims/more-other-side-support-reading-other-side-text.md) [+W] — attached 2026-10-23 from Iordanou et al. (2025), which proposed "Expose learners to the other side's narrative, authentically expressed by its representatives, to foster understanding of and empathy toward the other side"; tests this page's relationship.
 - [After the intervention, some students shifted from one-sided to two-sided reasoning: comments against their own side doubled and own-side support halved when reading the other-side text](../claims/shift-to-two-sided-reasoning-after-intervention.md) [+M] — attached 2026-10-23 from Iordanou et al. (2025), which proposed "Expose learners to the other side's narrative, authentically expressed by its representatives, to foster understanding of and empathy toward the other side"; tests this page's relationship.
 - [Qualitatively, students report learning the patient's perspective and valuing practical content such as the 15-15 Rule and glucagon practice](../claims/qualitative-patient-perspective-practical-content.md) [+W] — attached 2026-11-08 from Beverly Elizabeth A. et al. (2019), which proposed "Teach medical students about patients' everyday experiences of diabetes to build understanding and confidence in treating hypoglycemia".
+- [In physics faculty accounts, the cognitive empathy pathway is mediated by reflective witnessing, with experience and emotions as moderators](../claims/cognitive-empathy-pathway-reflective-witnessing.md) [+W] — attached 2026-11-20 from Alia Hamdan et al. (2024), which proposed "Promote cognitive empathy — through reflective witnessing — to mitigate empathy bias toward students unlike oneself".
 
 ## Objective and learner-valued goal
 

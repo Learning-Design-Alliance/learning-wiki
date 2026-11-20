@@ -49,3 +49,5 @@ In the correlational analysis of the 45-student pre-post study, the printed resu
 - [Higher semester of study correlated with higher pre- and post-test knowledge but not with greater knowledge gain from the escape room](escape-room-semester-knowledge-correlation.md) — related
 - [AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains](aic-moderates-llm-learning-gains.md) — related
 - [An escape room group achieved higher declarative mental health knowledge than case-based learning, but elevated anxiety and motivation negatively correlated with knowledge acquisition](escape-room-mental-health-knowledge-anxiety-motivation-tradeoff.md) — related
+- [Prior escape room research lacks robust effectiveness evidence, with very few controlled or pre-post designs](escape-room-evidence-gap-few-controlled-studies.md) — related
+- [A remote educational escape room for databases produced a statistically significant pre-to-post knowledge increase with a large effect size (r=0.69)](remote-escape-room-database-learning-gains.md) — related

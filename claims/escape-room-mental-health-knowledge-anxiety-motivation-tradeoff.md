@@ -67,3 +67,6 @@ The same study found "high motivation and satisfaction were noted among escape r
 - [A virtual escape room improved EM residents' knowledge more than a lecture, but motivation advantages varied by site](virtual-escape-room-versus-lecture-resident-knowledge.md) — related
 - [Higher pre-test scores were associated with lower knowledge gain from pre-test to post-test after an escape room, in one single-group pre-post study](escape-room-lower-prior-knowledge-greater-gain.md) — related
 - [A narrative review identifies four main outcome areas of VR, gamification, and escape rooms in medical and nursing education from 25 reviewed studies](vr-gamification-escape-rooms-four-outcome-areas-review.md) — a broader claim this one bears on
+- [Statistically significant pre-to-post knowledge score gains were observed in both the escape room and traditional lecture groups](both-interventions-significant-learning-gains.md) — related
+- [Prior escape room research lacks robust effectiveness evidence, with very few controlled or pre-post designs](escape-room-evidence-gap-few-controlled-studies.md) — related
+- [Students learning software modeling through an educational escape room outperform students taught by traditional lecture in knowledge acquisition (ANCOVA-adjusted post-test, r = 0.25)](escape-room-outperforms-lecture-software-modeling.md) — related

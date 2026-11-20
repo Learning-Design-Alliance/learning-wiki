@@ -76,3 +76,4 @@ Linguistic similarity analysis comparing each final training answer with the cha
 - [GenAI chatbot support increased executive help-seeking but reduced metacognitive engagement compared to human expert support](genai-chatbot-increased-executive-help-seeking-reduced-metacognition.md) — related
 - [Copy & paste was the most used interaction strategy with ChatGPT, and 62% of final answers were extracted directly from ChatGPT](copy-paste-dominant-chatgpt-strategy.md) — related
 - [Participants' main strategy for using ChatGPT on programming tasks is copying the assignment's textual description into the tool and then adapting the retrieved code](chatgpt-copy-paste-assignment-description-strategy.md) — related
+- [Enabling copy and paste increases LLM use during learning, and specifically increases substitutive solution requests but not explanation requests](copy-paste-increases-substitutive-llm-use.md) — related

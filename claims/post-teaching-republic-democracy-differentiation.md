@@ -48,3 +48,4 @@ Findings section, Table 8 summary of ideas after the events: the participant sta
 - [Metaconceptual teaching activities shifted all four 7th-grade participants from alternative conceptions to scientifically accurate understanding of the republic](metaconceptual-teaching-republic-conceptual-change.md) — a broader claim this one bears on
 - [Peer discussion and poster activities prompted students to articulate and revise their ideas, with metaconceptual awareness and evaluation observed](peer-discussion-revision-metaconceptual-awareness.md) — related
 - [Participants' pre-teaching conceptions of the republic conflated it with democracy or associated it with Atatürk](pre-teaching-republic-alternative-conceptions.md) — related
+- [The Five Design-Sheet method helped students explore alternative ideas and articulate them clearly](fds-explores-alternative-ideas-clearly.md) — related

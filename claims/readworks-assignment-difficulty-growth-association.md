@@ -69,3 +69,4 @@ Mixed-effects linear model of STAR Lexile growth including fixed effects of free
 - [Feature use related to a slight increase in multiple choice accuracy, larger for lower-Lexile students and for easier articles](readworks-feature-use-accuracy-gains.md) — related
 - [Using at least one feature raised students' multiple choice question attempt rate to 89 percent and eliminated the drop on hard assignments, with a significant feature-use × difficulty interaction](readworks-feature-use-engagement-attempts.md) — related
 - [Children who interacted with multiple complexity phases and completed above-average actions were far more likely to achieve above-average learning gains](ecolab-multi-phase-above-average-gains-odds-ratio.md) — related
+- [LLM-generated leveled texts skew more complex than the intended Lexile level regardless of model or prompting approach](generated-texts-skew-more-complex-than-intended.md) — related

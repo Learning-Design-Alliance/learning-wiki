@@ -53,6 +53,7 @@ The review concludes that GenAI's educational benefits are concentrated in speci
 - [Frame LLM integration as an assessable AI literacy competency with differentiated integrity policies and reasoning-focused assessment redesign](ai-literacy-competency-medical-curriculum-strategy.md)
 - [Differentiated, profile-matched university AI-readiness and career-education support instead of uniform AI-literacy programs](profile-differentiated-ai-career-education-support.md)
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
+- [Differentiate AI integration guidance by educational level (primary, secondary, undergraduate, graduate)](caiaf-educational-level-differentiation.md)
 
 ## Examples
 -

@@ -53,6 +53,7 @@ The article recommends combining validated self-report instruments with performa
 - [Design AI-supported programming courses with critique-the-AI phases, planned fading, and verification journals](critique-ai-phases-planned-fading-verification-journals.md)
 - [Sequenced skillfulness assessment and ethics sign-off across the training pathway](pat-sequenced-assessment-ethics-pathway.md)
 - [Apply the instrument from the beginning of SCI as continuous diagnostic assessment rather than only for final grading](iafee-ecs-continuous-use-from-sci-start.md)
+- [Tailor AI literacy instructional modalities to each audience: interactive K-12 activities, discipline-specific higher-ed applications, and workflow-focused workforce workshops](tailor-ai-literacy-modalities-by-audience.md)
 
 ## Examples
 -

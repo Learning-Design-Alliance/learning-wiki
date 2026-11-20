@@ -49,6 +49,7 @@ The paper recommends that students submit "process logs, AI prompt records, or o
 - [Establish prompting principles of neutrality, consistency, transparency, and reflexivity in oral assessment](prompting-principles-neutrality-consistency-transparency-reflexivity.md)
 - [Pair the AI chat with a paper worksheet that records what the chat cannot: sketches, agreed group statements and a short reflection](paper-worksheet-records-what-chat-cannot.md)
 - [Provisional assessment-defence strategies: question styles AI struggles with, pre-approval open-book exams, and routine AI-capability monitoring](provisional-ai-assessment-defence-strategies.md)
+- [Create transparency through detailed electronic logging of work and learning processes rather than repairing the deficiencies of graded theses](log-work-learning-processes-portfolio.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Qualitative interview and open-ended survey analysis of five undergraduate women
 - [Formal leadership experiences help women in physics feel more confident and recognize themselves as physics people](leadership-experiences-confidence-physics-recognition.md) — related
 - [Mentorship, leadership, and career conceptualization supported competence and recognition but showed no direct connections to interest or performance in this preliminary data](no-direct-connections-interest-performance.md) — related
 - [Peer mentorship helps women in physics engage with their physics community and fosters a sense of belonging](peer-mentorship-belonging-physics-community.md) — related
+- [Self-efficacy develops through self-recognition and other-recognition and leads students to seek new opportunities and develop positive feelings about a future career](self-efficacy-recognition-drives-subfield-choice-actions.md) — related

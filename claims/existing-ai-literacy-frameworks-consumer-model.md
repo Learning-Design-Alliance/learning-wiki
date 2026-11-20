@@ -56,3 +56,4 @@ Theoretical analysis of four publicly available AI literacy frameworks spanning 
 - [Teacher professional judgement is represented in AI ethics literature as an ethical and interpretive capacity central to responsible AI use, not a technical skill to be replaced](teacher-judgement-ethical-interpretive-capacity.md) — reports the opposite
 - [Technical assistance functions as a structural constraint that embeds World Bank frameworks in national policymaking, not merely as advice](world-bank-technical-assistance-structural-constraint.md) — related
 - Technical reframings of AIED criticism fail to address the fundamental political questions — a broader claim this one bears on
+- [Existing AI literacy frameworks predate public Gen-AI tools, leaving a gap the socio-technical curriculum addresses](ai-literacy-frameworks-predate-genai-gap.md) — a broader claim this one bears on

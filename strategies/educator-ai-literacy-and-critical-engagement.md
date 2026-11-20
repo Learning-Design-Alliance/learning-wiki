@@ -49,6 +49,7 @@ Among its educational implications, the article highlights the need for teacher 
 - [Faculty development for GenAI-era teaching innovation should address professional identity, AI literacy, and teaching self-efficacy alongside knowledge](faculty-development-targeting-identity-literacy-and-efficacy.md)
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
 - [Keep governance of teacher-AI design processes with teachers](governance-of-design-processes-remains-with-teachers.md)
+- [Educate students on the technical and ethical challenges of generative AI and the critical thinking needed to engage with such tools](ai-literacy-and-ethics-education-strategy.md)
 
 ## Examples
 -

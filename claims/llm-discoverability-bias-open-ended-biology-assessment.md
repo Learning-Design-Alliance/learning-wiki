@@ -56,3 +56,6 @@ The editorial reports, from a special-issue study of LLM-based formative assessm
 - [The Anna Karenina effect: the lower the quality of a Knowledge Profile, the less similar its responses are to each other in LLM embedding space](anna-karenina-within-kp-similarity-decreases.md) — related
 - [The most common student misconception of the big bang is an explosion of pre-existing matter into empty space](big-bang-explosion-into-empty-space-misconception.md) — related
 - [Clustering solutions by AI grading scores and similarity-of-approach roughly aligns with manual grading clusters and total scores](ai-clustering-aligns-manual-grading.md) — related
+- [The prompt-based method correctly identified subtle mixed-emotion and nuanced-feedback cues that the base model and CoT method missed](prompt-method-captures-subtle-emotion-cues.md) — related
+- [Fine-grained rubric grading of entire problems exceeds LLM bookkeeping capabilities, while parts-based grading is more reliable but misses nuances](rubric-granularity-affects-ai-grading-reliability.md) — related
+- [Traditional machine learning bias measures fail to transfer to LLM-generated educational content](traditional-bias-measures-fail-for-llm-education.md) — related

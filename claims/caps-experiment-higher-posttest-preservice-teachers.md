@@ -50,3 +50,5 @@ Quantitative experiment with 164 preservice teachers in an introductory special 
 - [Most interviewed HIL students perceived that effortfully replaying podcasts enhanced their learning](podcast-replaying-effortful-engagement.md) — related
 - [Using podcasts as a motivational teaching strategy significantly increased Iranian EFL learners' motivation for listening (ELCMS)](podcasts-increase-listening-motivation-efl.md) — related
 - [Video podcast instruction yields higher gain scores than conventional teaching in Educational Psychology among B.Ed students](video-podcast-higher-gain-scores-bed-psychology.md) — related
+- [AI-generated podcasts, both personalized and generalized, received significantly higher Attractiveness ratings than textbook reading](ai-podcasts-more-attractive-than-textbook.md) — related
+- [Personalized AI-generated podcasts produced significantly higher test scores than both generalized podcasts and textbook reading in the Philosophy subject](personalized-podcast-higher-philosophy-test-scores.md) — related

@@ -64,3 +64,4 @@ Subdimension analysis of MultiMatch models in the same probe-level mixed-effects
 - [Learners who self-report as attentive show significantly higher inter-subject correlation of gaze position and pupil diameter during video lecture viewing](attentive-self-reports-higher-isc-video-lecture.md) — related
 - [Attentive self-reports predict significantly lower Kullback-Leibler divergence between gaze density maps, indicating greater gaze synchrony](attentive-self-reports-lower-kld-gaze-synchrony.md) — related
 - [Gaze synchrony measures (KLD and MultiMatch similarity) do not significantly predict learning outcomes, failing to replicate prior findings](gaze-synchrony-does-not-predict-learning-outcomes.md) — related
+- [Attentive learners show significantly greater gaze synchronization than less attentive learners during video lecture watching](gaze-synchrony-greater-among-attentive-learners.md) — related

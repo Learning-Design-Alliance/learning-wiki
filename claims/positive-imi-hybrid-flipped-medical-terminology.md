@@ -51,3 +51,4 @@ One-sample t-tests on IMI subscales from 149 valid student responses in a hybrid
 - [Student satisfaction with the online flipped classroom course was significantly above the neutral point](ofc-student-satisfaction-above-neutral.md) — related
 - [The flipped classroom significantly increased instrumental, integrative and intrinsic motivation factors](flipped-classroom-raises-other-motivation-factors.md) — related
 - [Students rate DiffGame as enjoyable and valuable, but intrinsic motivation does not correlate with performance](diffgame-intrinsic-motivation-performance-null.md) — related
+- [Students in an immersive flipped online course reported high engagement, with all 25 survey items rated significantly above the scale midpoint](immersive-flipped-course-high-engagement-survey.md) — related

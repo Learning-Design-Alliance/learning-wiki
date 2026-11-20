@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: moderate
-newest_evidence: 2017
+newest_evidence: 2016
 sources:
-  - id: shih-yin-lin-and-chandralekha-singh-2017
+  - id: shih-yin-lin-and-chandralekha-singh-2016
     resource: "https://doi.org/10.48550/arXiv.1602.05697"
-    title: "Shih-Yin Lin and Chandralekha Singh. (2017). Effect of Scaffolding on Helping Introductory Physics Students Solve Quantitative Problems Involving Strong Alternative Conceptions. [doi:10.48550/arXiv.1602.05697](https://doi.org/10.48550/arXiv.1602.05697)"
+    title: "Shih-Yin Lin and Chandralekha Singh. (2016). Effect of Scaffolding on Helping Introductory Physics Students Solve Quantitative Problems Involving Strong Alternative Conceptions. [doi:10.48550/arXiv.1602.05697](https://doi.org/10.48550/arXiv.1602.05697)"
     author: Shih-Yin Lin and Chandralekha Singh
     q: 3
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` In both courses, students receiving scaffolding supports significantly outperformed the comparison group (p < 0.05), except calculus-based intervention group 1 (p=0.06). [→ Shih-Yin Lin and Chandralekha Singh 2017](#shih-yin-lin-and-chandralekha-singh-2017)
+`q3 i?` In both courses, students receiving scaffolding supports significantly outperformed the comparison group (p < 0.05), except calculus-based intervention group 1 (p=0.06). [→ Shih-Yin Lin and Chandralekha Singh 2016](#shih-yin-lin-and-chandralekha-singh-2016)
 
 ## Evidence
 
-### Shih-Yin Lin and Chandralekha Singh 2017
+### Shih-Yin Lin and Chandralekha Singh 2016
 
-Shih-Yin Lin and Chandralekha Singh. (2017). Effect of Scaffolding on Helping Introductory Physics Students Solve Quantitative Problems Involving Strong Alternative Conceptions. [doi:10.48550/arXiv.1602.05697](https://doi.org/10.48550/arXiv.1602.05697)
+Shih-Yin Lin and Chandralekha Singh. (2016). Effect of Scaffolding on Helping Introductory Physics Students Solve Quantitative Problems Involving Strong Alternative Conceptions. [doi:10.48550/arXiv.1602.05697](https://doi.org/10.48550/arXiv.1602.05697)
 
 `q3 · i?` · `causal · r2`
 
@@ -56,3 +56,4 @@ In-class recitation-quiz study with 410 students in calculus-based (183) and alg
 - [Intervention 2 (solve the target problem first, then learn from the analogical solved problem) was among the most effective scaffolds in both courses, while intervention 1 was among the least effective](intervention-2-most-effective-scaffold.md) — related
 - [Scaffolding supports roughly doubled the percentage of students who correctly used Newton's second law along the incline to solve for static friction](scaffolding-doubles-correct-newton-second-law-use.md) — related
 - [Providing the solved problem only after students attempt the quiz problem on their own was the most beneficial scaffolding in both course types](solved-example-after-self-attempt-most-beneficial.md) — reports the opposite
+- [The authors' own experience indicates students who received extra help after a concept test did better than those who did not](concept-test-early-intervention-authors-experience.md) — related

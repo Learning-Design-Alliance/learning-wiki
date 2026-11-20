@@ -54,3 +54,4 @@ Experimental comparative study running each of 4 LLMs 5 times per prompting cond
 - [All five LLMs answered every MCQ and showed high short-term test–retest agreement (AC1 0.79–1.00), indicating reproducible performance without selective abstention](llms-answered-every-mcq-high-test-retest-agreement.md) — related
 - [ChatGPT-4, Grok XI and Gemini showed strong test-retest consistency (kappa 0.869–0.916), whereas Qwen 2.5 (0.650) and DeepSeek-V3 (0.735) fluctuated more between sessions](llm-test-retest-consistency-dental-mcqs.md) — related
 - [Test-retest reliability of LLM answers to histology MCQs ranged from moderate (Gemini, DeepSeek) to excellent (Claude)](llm-test-retest-reliability-varies-histology.md) — related
+- [Preliminary re-testing found scaffolded COT unstable across runs while GPT-4o in chat mode reliably reached about 75% agreement using Detailed-Rubric COT](gpt4o-chat-mode-detailed-rubric-reliability.md) — related

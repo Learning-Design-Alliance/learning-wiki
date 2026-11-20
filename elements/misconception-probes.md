@@ -99,6 +99,7 @@ Probes work because learners cannot revise a belief they do not realize they hol
 - [Train teachers to diagnose intuitive conceptions and misconceptions with concept tests in their own classrooms](../strategies/concept-tests-misconception-diagnosis-strategy.md)
 - [Use group discussions and student presentations to quality-control students' physical intuitions](../strategies/intuition-quality-control-discussion-presentations.md)
 - [Ask students to explain why wrong multiple-choice answers are wrong and why they chose their answer, then have an AI bot analyze the explanations](../strategies/ai-analyzed-explanation-strategy.md)
+- [Use the elicit-confront-resolve strategy to structure tutorial questions that help students refine documented misconceptions](../strategies/ecr-strategy-tutorial-question-sequencing.md)
 
 ## Key Sources
 - Hestenes, D., Wells, M., & Swackhamer, G. (1992). Force Concept Inventory. *The Physics Teacher, 30*(3), 141–158. [doi:10.1119/1.2343497](https://doi.org/10.1119/1.2343497)

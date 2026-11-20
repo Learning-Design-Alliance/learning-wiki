@@ -76,3 +76,4 @@ Authors' interpretation (type e) offered in the results and discussion, contrast
 - [Prior gamification studies show mixed long-term effects, with some reporting declining motivation over time and competition potentially harming satisfaction](mixed-long-term-gamification-motivation-evidence.md) — related
 - [Students preferred competitive TP environments, with 53% selecting individual competition with one clicker per student as the environment in which they learned best.](students-prefer-individual-competition-tp.md) — related
 - [Gamification shows mixed results for learning performance, especially when based on scores and leaderboards](gamification-mixed-learning-results-leaderboards.md) — related
+- [Participants found the leaderboard competitive, enjoyed gaining positions, and wanted it in other platforms' user interfaces](participants-found-leaderboard-competitive-enjoyable.md) — related

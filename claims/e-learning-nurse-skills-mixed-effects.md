@@ -72,3 +72,4 @@ Same skills synthesis section reporting negative outcomes in 2 of 22 SRs. Defibr
 - [The curriculum provided each fellow numerous critical procedure opportunities, with a mean of 27 critical care procedures performed (67.5% of opportunities)](sbl-curriculum-critical-procedure-opportunities.md) — related
 - [Only one published assessment tool exists for intravenous cannulation despite it being a fundamental procedural skill](single-iv-cannulation-assessment-tool-published.md) — related
 - [Time to first defibrillation is numerically shorter in the app group but not statistically significant](app-numerical-earlier-defibrillation-trend.md) — related
+- [Reported outcomes of game-based education are mixed: 21 of 43 studies positive, 12 mixed, 10 negative](games-outcomes-21-positive-12-mixed-10-negative.md) — related

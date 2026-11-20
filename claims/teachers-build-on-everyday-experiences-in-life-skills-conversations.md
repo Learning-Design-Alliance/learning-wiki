@@ -60,3 +60,4 @@ Fine-grained interaction analysis of Sequence 1, a poster-making group work epis
 - [Drawing physical terms helps students develop deeper understanding of the concepts behind the terms](drawing-terms-deepens-physics-concept-understanding.md) — related
 - [Once students communicate concepts pictorially, they move beyond definitions and use everyday examples to convey terms to their group](pictorial-communication-prompts-everyday-examples.md) — related
 - [Students show greater interest in participating when the teacher demonstrates care for their needs, hopes and dreams](teacher-care-participation-interest.md) — related
+- [Student groups seamlessly interweave science concepts into their design reasoning during ED problem-solving](students-interweave-science-concepts-into-design-reasoning.md) — related

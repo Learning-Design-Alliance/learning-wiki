@@ -49,3 +49,4 @@ Log-based correlation analysis on Platform B from the comparative study, split b
 - [Students frequently used on-demand help ineffectively, and raw help frequency correlated negatively with learning gains](ineffective-help-seeking-log-data-findings.md) — related
 - [Learners receiving ChatGPT-generated hints showed statistically significant learning gains compared to a no-hint control in an online mathematics tutoring experiment](chatgpt-hints-significant-gains-versus-control.md) — reports the opposite
 - [Participants on the AI-tutored problem-solving platform (Platform B) achieved raw learning gains 70.43% higher than participants on the traditional video-and-quiz platform (Platform A) in a 3-hour linear regression course](platform-b-higher-raw-learning-gains.md) — related
+- [Weaker students benefited more from GPT-4 tutoring, contrary to prior findings](weaker-students-benefit-more-gpt4-tutoring.md) — related

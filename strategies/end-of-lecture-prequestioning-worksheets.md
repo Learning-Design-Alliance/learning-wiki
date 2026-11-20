@@ -58,4 +58,4 @@ The article describes a concrete implementation: at the end of each lecture sess
 -
 
 ## Key Sources
-- Pan, S. C., Han, J. Y. & Fung, F. M. (2024). Prequestioning Enhances Undergraduate Students' Learning in an Environmental Chemistry Course. https://arxiv.org/abs/2403.02788
+- Pan, S. C., Han, J. Y. & Fung, F. M. (2024). Prequestioning Enhances Undergraduate Students' Learning in an Environmental Chemistry Course. https://arxiv.org/abs/2403.02788. [doi:10.48550/arxiv.2403.02788](https://doi.org/10.48550/arxiv.2403.02788)

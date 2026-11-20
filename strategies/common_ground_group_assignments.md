@@ -66,6 +66,7 @@ Belonging is a measurable lever on achievement: brief interventions that normali
 - [Foster community in counsellor education through student organizations, common space, collegial feedback, and rewards for mutual support](foster-community-counsellor-education-practices.md)
 - [Use group roles, rotating roles, shared rubrics, and product-and-process debriefs to foster belonging in group work](group-roles-rubrics-debriefs-belonging.md)
 - [Support affective cohesion through positive atmosphere and empathy formation in chatbot dialogue](chatbot-affective-cohesion-positive-atmosphere-empathy.md)
+- [Structure class time around interactive group work with rotating group assignments to break down barriers between students of different backgrounds](rotating-group-work-class-structure-strategy.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — the lightweight opening move that surfaces shared experience

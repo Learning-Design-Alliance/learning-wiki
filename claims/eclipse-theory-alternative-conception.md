@@ -69,3 +69,4 @@ The authors cite prior studies (Baxter 1989; Schoon 1992; Iachel, Langhi e Scalv
 - [Many students cannot link an observation such as the new Moon to an explanation of the lunar phases, offering descriptive instead of explanatory answers](students-descriptive-not-explanatory-new-moon.md) — related
 - [Most preservice teachers believe the Moon does not rotate on its axis, and none correctly explained the Moon's same-face motion or a lunar eclipse](moon-motion-misconceptions-preservice-teachers.md) — related
 - [Students remain confused when changes of referential are needed to understand astronomical phenomena such as moon phases, seasons, eclipses and orbital motion around a common centre of mass](referential-change-difficulty-astronomy-students.md) — related
+- [Only 7% of Indian grade 9 students identify all five lunar-phase images correctly, with intermediate phases showing widespread shape confusion](india-grade9-lunar-phase-recognition-low.md) — related

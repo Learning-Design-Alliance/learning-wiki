@@ -52,3 +52,4 @@ Quasi-experiment with 218 introductory psychology students in two courses, one c
 - [The classroom testing effect transfers to mismatched test formats, but consistent quiz–exam formats yield a significantly larger effect (g = 0.531 vs. g = 0.399).](format-consistency-moderates-classroom-testing-effect.md) — related
 - [The number of quiz questions (five vs. ten) does not moderate the improvement in exam performance](quiz-question-number-does-not-moderate-testing-effect.md) — related
 - [Specific active strategies — completing problem sets, self-quizzing, and explaining concepts — were uniquely predictive of biology exam performance, while passive strategies were nonsignificant or negative](specific-active-strategies-uniquely-predictive-biology.md) — related
+- [Critical reflection during peer evaluation of peer presentations does not significantly improve quiz performance in a physics senior seminar](critical-reflection-peer-evaluation-no-quiz-gain.md) — related

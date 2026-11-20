@@ -46,6 +46,7 @@ The authors argue that fostering responsible AI usage extends beyond tool design
 - [Instructional designers use AI-ARC across analysis, design, development, and evaluation to align outcomes with responsible AI integration](ai-arc-design-heuristic-for-instructional-designers.md)
 - [Outline strategies and technological interventions to alleviate over-reliance and foster responsible use of AI dialogue systems](strategies-interventions-responsible-ai-use.md)
 - [Integrate Generative AI literacy into curricula, including query formulation workshops and critical evaluation exercises](generative-ai-literacy-curriculum-integration.md)
+- [Educate students on the technical and ethical challenges of generative AI and the critical thinking needed to engage with such tools](ai-literacy-and-ethics-education-strategy.md)
 
 ## Examples
 -

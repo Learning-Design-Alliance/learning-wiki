@@ -48,3 +48,5 @@ Rating statistics of the 32 statements in the main 2 questionnaire (six-level sc
 - [The linear PhD-only path will not be the only route to quantum careers; multiple entry points are needed](multiple-entry-points-quantum-careers.md) — related
 - [Expert-collected competences for the future quantum workforce fall into a three-part structure: theoretical background, practical background, and applications](three-part-structure-qt-workforce-competences.md) — related
 - [A majority of experts prefer a nearly equal distribution of quantum education across the four QT application areas, with any stronger focus on quantum computing](preferred-curriculum-distribution-qt-education.md) — related
+- [Program organisers intend QT master's graduates predominantly for industry careers: 82.3% of indicated career outcomes refer to industry versus 17.6% to academic paths](qt-masters-career-outcomes-industry-82-percent.md) — related
+- [Industry reports three fundamental training needs — basic awareness, targeted training and study programs — with group-specific priorities](qt-three-fundamental-training-needs.md) — related

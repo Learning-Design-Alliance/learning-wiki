@@ -53,6 +53,7 @@ Alongside the scale, the article urges institutions to keep developing GenAI pol
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
 - [Adopt ethical safeguards and pedagogically grounded frameworks when deploying GenAI assessment tools](ethical-safeguards-pedagogical-frameworks-genai-deployment.md)
 - [Establish comprehensive institutional AI governance frameworks including task forces, roadmaps, and transparent policies](institutional-ai-governance-framework-strategy.md)
+- [Enable phase: update ethics, privacy and academic integrity guidelines, upskill staff and students, and make evaluation GenAI-friendly](genai-enable-phase-guidelines-and-upskilling.md)
 
 ## Examples
 -

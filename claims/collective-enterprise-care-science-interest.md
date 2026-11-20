@@ -56,3 +56,4 @@ The review reports, citing Singleton et al. (2024), survey responses from 847 mi
 - [The paper reports that culturally responsive pedagogies are associated with more student engagement, agency, and responsibility for seeking information](crse-pedagogies-engagement-agency-claim.md) — related
 - [The Student Electronic Exit Ticket (SEET) is useful for gathering student perspectives on coherence, relevance, and participation during OpenSciEd enactment](seet-useful-student-perspective-instrument.md) — related
 - [Analyzing practical-measure data across student groups helps teachers tailor CRSE instruction](practical-measure-data-tailors-crse-instruction.md) — related
+- [The article reports that prior studies have demonstrated specific ways to enact culturally relevant pedagogy in teaching physics at the K-12 level, which increased students' interest and improved their attitude toward physics](crp-k12-physics-interest-attitude.md) — related

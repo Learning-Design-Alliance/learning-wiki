@@ -47,3 +47,4 @@ Authors' interpretation of the cognitive shift results (RQ3/RQ4) across six LLMs
 - [Fine-grained prompting improves Bloom-level category consistency and knowledge coverage of generated questions in the computer science domain](fgp-improves-catcons-knowcov.md) — related
 - [Under Chain-of-Thought prompting, higher Bloom-level classification accuracy correlates with lower category consistency in generated questions](negative-correlation-classification-catcons.md) — related
 - [The Bloom-driven framework generalizes to social-science questions, with automated rubrics agreeing strongly with experts on usability but only modestly on Bloom level](social-science-generalization-human-agreement.md) — related
+- [LLM-generated leveled texts skew more complex than the intended Lexile level regardless of model or prompting approach](generated-texts-skew-more-complex-than-intended.md) — related

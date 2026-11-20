@@ -54,3 +54,4 @@ In-depth MCDA of Website 2, which constructed a student- and scholar-facing pers
 - [Detection-led responses to AI in assessment face validity, fairness and trust limits](detection-limits-validity-fairness-trust.md) — related
 - [Humanizer sites deploy mystification through opaque algorithm references, scale claims, and unexplained success-rate claims](humanizer-mystification-success-rate-claims.md) — related
 - [AI-text detectors misclassify authentic TOEFL essays by non-native English speakers at a mean false-positive rate of 61.3% across seven detectors, far more often than native-speaker essays](detector-61-3-percent-false-positives-non-native-toefl.md) — a narrower finding that bears on this claim
+- [AI detection tools have low precision and are circumvented by adversarial techniques](ai-detection-tools-low-precision-adversarial-circumvention.md) — related

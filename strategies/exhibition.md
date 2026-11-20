@@ -67,6 +67,7 @@ Exhibitions work because an authentic audience raises the quality bar and gives 
 - Peer critique — the revision engine that makes exhibitions academically substantive
 - [Blend art and science in public exhibits and events to reach unconventional audiences](art-science-blended-outreach-events.md)
 - [Guerrilla-STEM: an itinerant astro-animation exhibition with hands-on activities in unexpected public locations to engage audiences not a priori attracted to science](guerrilla-stem-itinerant-astro-animation-exhibition.md)
+- [Culminate RAI training by having practitioners create and peer-review their own case studies](practitioners-as-case-study-creators-strategy.md)
 
 ## Examples
 - **[High Tech High](https://www.hightechhigh.org)** (San Diego) — semester-culminating exhibition nights where all students present projects to families and community members.

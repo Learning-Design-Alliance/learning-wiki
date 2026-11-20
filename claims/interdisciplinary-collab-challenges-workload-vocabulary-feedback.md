@@ -64,3 +64,4 @@ Interview findings: editing students finished early and had lighter loads, progr
 - [Barriers arising during interprofessional simulation sessions include unclear team leadership, unequal profession numbers, unfamiliar teammates, perceived hierarchies, and information-sharing gaps](sim-ipe-session-level-barriers.md) — related
 - [Students identified authentic cases, collaborative learning, feedback, worksheets, journal writing, and appropriate difficulty as beneficial, with time constraints and workload as challenges](focus-group-benefits-challenges-flipped-reasoning.md) — related
 - [Interdisciplinary communication between medical departments is perceived as essential, particularly in the ICU where multiple specialties cooperate](interdisciplinary-communication-icu-priority.md) — related
+- [Disciplinary egocentrism hinders student-centric approaches in undergraduate education](disciplinary-egocentrism-undergraduate-barrier.md) — related

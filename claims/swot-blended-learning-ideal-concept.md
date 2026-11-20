@@ -9,6 +9,7 @@ generated:
   at: 2026-10-30
 evidence_strength: weak
 newest_evidence: 2009
+source_checked: 2026-11-20
 sources:
   - id: granić-2009
     resource: "https://doi.org/10.1016/j.compedu.2009.05.018"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2009 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A preliminary SWOT analysis of e-Learning implementation cases concluded that blended learning is the ideal teaching concept for the future and that e-Learning implementation does not save time but creates new cooperation opportunities. [→ Granić 2009](#granic-2009)

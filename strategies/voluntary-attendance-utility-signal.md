@@ -45,6 +45,7 @@ The review proposes using voluntary attendance as a signal of perceived session 
 - [Weekly trainee-led CBL sessions with case presentation, self-directed research between sessions, and attendance and utility tracking](trainee-led-weekly-cbl-feasibility-session-cycle.md)
 - [Structure future flipped courses with assessed group-work elements and varied feedback sessions instead of mandating attendance](assessed-groupwork-and-varied-seminar-structure-strategy.md)
 - [Future research directions: control grade incentives, compare compulsory versus voluntary participation, and apply learning analytics to tweet types](twitter-study-future-research-directions.md)
+- [Grade incentives and mandatory in-class activities to ensure peer-customer participation](peer-customer-participation-incentives.md)
 
 ## Examples
 -

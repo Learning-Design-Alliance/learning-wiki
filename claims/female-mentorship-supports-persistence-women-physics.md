@@ -58,3 +58,5 @@ Case-study interview evidence: Paulette's counterfactual about peer partnership 
 - [Introducing peer mentors during career transition periods increases belonging, self-efficacy, and long-term retention](peer-mentors-transition-retention.md) — related
 - [Peer mentorship helps women in physics engage with their physics community and fosters a sense of belonging](peer-mentorship-belonging-physics-community.md) — related
 - [Students left to work alone in pair-designed labs had negative experiences, particularly underrepresented students](solo-students-negative-experiences.md) — related
+- [Self-efficacy develops through self-recognition and other-recognition and leads students to seek new opportunities and develop positive feelings about a future career](self-efficacy-recognition-drives-subfield-choice-actions.md) — related
+- [In the large research university department (Study 2), undergraduate women report male peers ignoring their contributions and male instructors enforcing negative stereotypes, while female peers serve as key support sources](study2-masculine-negative-peer-instructor-culture.md) — related

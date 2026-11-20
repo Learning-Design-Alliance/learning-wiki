@@ -70,3 +70,4 @@ Thematic analysis of the improvement question in the same 45-response dataset; c
 - [Students attributed competencies in teamwork, time management, quick thinking, critical thinking, communication, and confidence to team-based gamified quizzing](student-reported-competencies-gamified-quizzing.md) — related
 - [Educational escape rooms are reported to improve critical thinking, clinical reasoning, teamwork, communication, and soft skills in healthcare students](escape-rooms-improve-healthcare-student-outcomes.md) — related
 - [Students most frequently named collaboration as the competence required for the practice task](collaboration-most-named-required-competence.md) — related
+- [Students liked the escape room more than computer lab sessions but only slightly agreed they learned more from it](escape-room-vs-lab-sessions-preference.md) — related

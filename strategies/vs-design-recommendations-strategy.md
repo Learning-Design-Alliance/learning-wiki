@@ -79,6 +79,7 @@ The review's forward-looking recommendations for VS teaching design: future devi
 - [Use immersive VR to give scrub nurses a safe, low-pressure environment for repetitive practice of complex operations](ivr-safe-practice-environment-scrub-nurses.md)
 - [Future direction: more dynamic adaptation of virtual patients to contextual factors for a diverse, adaptable learning experience](dynamic-vp-contextual-adaptation-future-direction.md)
 - [Simplify novel-technique controls and support teachers when deploying role-play and immersive tools in lectures](simplify-role-play-controls-support-teachers-immersive-lecturing.md)
+- [Future VR-NRP development: add tactile feedback, target rural access, and adapt the environment to CPR and ACLS training](vr-nrp-future-directions-tactile-rural-cpr-acls.md)
 
 ## Examples
 -

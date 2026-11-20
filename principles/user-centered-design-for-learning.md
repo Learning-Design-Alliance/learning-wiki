@@ -184,6 +184,7 @@ Rated usability, task success, understanding of what a screen shows, and learnin
 - [Improve UI consistency and network system before scaling VR classroom use](../strategies/improve-ui-consistency-vr-classroom.md)
 - [Efficiently test school report card design changes at scale before adopting them](../strategies/test-report-card-designs-at-scale.md)
 - [Participatory design sessions with educators to gather usability feedback on educational robot prototypes](../strategies/participatory-design-educator-usability-sessions.md)
+- [Evaluate VR exhibition learning tools through post-experience user interviews plus twofold online surveys](../strategies/twofold-interview-survey-vr-exhibition-evaluation-plan.md)
 
 ## Key Sources
 - Earnshaw, Y., Tawfik, A. A., & Schmidt, M. (2018). User experience design. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/user_experience_design](https://edtechbooks.org/lidtfoundations/user_experience_design)

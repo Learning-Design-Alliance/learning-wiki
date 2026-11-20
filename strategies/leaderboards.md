@@ -68,6 +68,7 @@ Leaderboards operate on competitive and achievement-based motivation, which reli
 - [Use family recognition and weekly ranked scoring to incentivize intern motivation](family-recognition-incentive-mechanism.md)
 - [Use postdriving feedback mechanisms (drive scoring, leaderboards, achievement badges) instead of feedback during driving to avoid distraction](postdriving-feedback-scoring-leaderboards-badges.md)
 - [Anonymous monitoring page displaying library-level drill progress to encourage competition](anonymous-library-monitoring-page-competition.md)
+- [Add leaderboard-based virtual achievements to learning apps to increase user engagement time](add-leaderboards-to-learning-apps-strategy.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the scoring mechanism that feeds the leaderboard

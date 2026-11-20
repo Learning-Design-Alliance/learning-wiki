@@ -5,7 +5,11 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
-## 2026-11-20 · the first published LDA research release enters the wiki as a cited source
+## 2026-11-20 · a third published LDA research release enters the wiki as a cited source
+
+(Corrected the same day: the first version of this entry called it the first. Two earlier
+releases, `ai-grader-reliability-2026` and `learning-graph-budget-2026`, came in by the same route
+with PR #441 on 2026-10-31; the stale CLAUDE.md line had not been updated then.)
 
 PR #523 (the maintainer's) adds three claims and one observation record from research release
 `checklist-grading-2026` 1.0.1, published on Zenodo (DOI 10.5281/zenodo.24023968, checked on
@@ -20,7 +24,7 @@ never pooled with depositors' findings. An earlier version of the PR still carri
 The branch conflicted with main only in generated files and logs; it was merged into the sweep
 branch with `merge_main.py` (8 conflicts settled, lint 0, research, observations, embargo and index
 checks clean). The rule "No LDA research is published in this wiki yet" in `CLAUDE.md` and the first
-line of `research/PUBLISHING.md` were updated to say so.
+line of `research/PUBLISHING.md` were updated to name the published releases.
 
 ## 2026-11-17 · a preprint and its published version are one study
 

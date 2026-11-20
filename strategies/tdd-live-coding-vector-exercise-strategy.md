@@ -39,6 +39,7 @@ The APC introduces TDD by demonstrating the workflow live while implementing a s
 ## Related Strategies
 
 - [Real-time lecture demonstrations deriving theoretical predictions and testing them numerically with modifiable code](real-time-lecture-simulation-demonstrations.md)
+- [Teach programming with workshop-style live coding in which the instructor writes and executes code in real time](workshop-style-live-coding-instruction.md)
 
 ## Examples
 -

@@ -88,3 +88,4 @@ Interview and assessment-task analysis identified the most common probability mi
 - [Students fail to combine amplitudes of identical basis states before taking the absolute square when computing measurement probabilities](probability-coefficient-combination-difficulty.md) — related
 - [Secondary and lower undergraduate students have difficulty relating quantum physics to physical reality](students-difficulty-relating-quantum-physics-physical-reality.md) — a broader claim this one bears on
 - [Over-emphasis on classical physics concepts can give students misconceptions and an incorrect image of science](classical-emphasis-leads-to-misconceptions-incorrect-image.md) — a broader claim this one bears on
+- [Students perform well (85%+) after lecture alone on basic Born rule probability calculations and identifying possible states, suggesting lecture is sufficient for some foundational concepts](lecture-sufficient-for-some-quantum-basics.md) — related

@@ -71,3 +71,4 @@ Teachers' perceived workload was measured with the raw NASA-TLX (0–10 per subs
 - [LVG does not significantly reduce subjective cognitive workload (NASA-TLX) compared with 2D vision](lvg-nasa-tlx-no-difference.md) — related
 - [Mental effort did not differ by condition overall, except participants reviewing the AGREE II in the practice-exercise arm reported lower mental demand than the Tutorial arm](agree2-mental-effort-one-univariate-difference.md) — related
 - [Peer attention cues do not significantly change cognitive workload, and workload positively correlates with test accuracy](peer-attention-workload-null-and-positive-correlation.md) — related
+- [Cognitive load did not differ significantly between chatbot conditions, with trends toward lower performance and effort scores in the ChatGPT condition](cognitive-load-no-difference-chatbot-conditions.md) — related

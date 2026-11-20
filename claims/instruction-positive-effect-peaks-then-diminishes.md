@@ -59,3 +59,4 @@ Between-student response curve for Mechanics (Fig. 3), averaged across fall and 
 - [Traditional curriculum students outperformed M&I students on every FCI concept category.](traditional-outperforms-mi-all-fci-concepts.md) — related
 - [The EJS PbI treatment produced no significant advantage over traditional instruction on Newton's 3rd Law post-test items](ejs-pbi-no-significant-newtons-third-law-gain.md) — related
 - [The percentage of unanswered questions (%N/A) increased towards the end of the FCI pre-test](fci-na-responses-increase-toward-test-end.md) — related
+- [Dominant misconceptions persisted from pre-test to post-test, concentrated in questions on Newton's second and third laws, zero vector-sum of forces, and circular motion](persistent-dms-newton-laws-vector-circular.md) — related

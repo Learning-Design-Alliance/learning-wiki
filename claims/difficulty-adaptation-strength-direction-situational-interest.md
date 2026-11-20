@@ -72,3 +72,4 @@ Paired-samples t-tests across the six adaptation levels found "significant diffe
 - [There is a boundary condition for adaptive difficulty effects: adaptation strength must surpass a threshold to influence motivational outcomes](difficulty-adaptation-strength-threshold-boundary-condition.md) — related
 - [Difficulty adaptation significantly reduced the variance of task correctness and perceived difficulty across learners](adaptation-balances-outcome-variance-across-learners.md) — related
 - [Case-level perceived difficulty decreases with case number, and no fetal head position differences emerge within either technique](learning-effect-and-no-position-differences.md) — related
+- [Game-based learning group showed higher motivation and interest in game development](gamedevdojo-higher-motivation-interest.md) — related

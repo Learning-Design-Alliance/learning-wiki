@@ -76,3 +76,4 @@ A proxy comparison of word counts: the prompt template contained 356 words versu
 - [LearnLens's modular pipeline outperforms direct-prompt baselines on scoring quality while matching latency and cost on 100 authentic student answers](learnlens-modular-pipeline-beats-baselines-scoring.md) — related
 - [ConnectED reduces 45-minute lesson preparation time to approximately 15–20 minutes in-system, versus 3–4 hours for manual preparation](connected-reduces-lesson-preparation-time.md) — related
 - [Generative AI, when used under precise conditions, reduces the cost and time of producing high-quality MCQs without compromising quality](genai-reduces-mcq-cost-and-time.md) — related
+- [SensEmo's feedback system responds in about 3.1 seconds on average, and students made approximately 2.2 manual interventions per minute](sensemoo-response-time-and-acceptance.md) — related

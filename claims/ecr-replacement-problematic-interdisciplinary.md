@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2014
+source_checked: 2026-11-20
 sources:
   - id: benjamin-w-dreyfus-2014
     resource: "https://doi.org/10.1103/physrevstper.10.010115"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors argue theoretically that elicit-confront-resolve, which replaces a naive conception with a scientifically correct one, does not fit interdisciplinary conflicts where both ideas are canonically correct within their disciplines. [→ Benjamin W. Dreyfus 2014](#benjamin-w-dreyfus-2014)

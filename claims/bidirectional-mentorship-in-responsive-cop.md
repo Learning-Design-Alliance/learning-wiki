@@ -52,3 +52,4 @@ Analysis of 29 coded segments from 12 teachers on mentorship opportunities showe
 - [Teachers across career stages valued the practicality of instructional materials, meaning they could implement activities with few or no modifications](practicality-of-materials-valued-across-career-stages.md) — related
 - [Mutual sharing of vulnerability by veteran and novice teachers helps build a safe space for taking risks](mutual-vulnerability-sharing-builds-safety.md) — related
 - [All 13 teachers valued exchanging and developing pedagogical ideas and instructional materials with peers in the responsive PD community](peer-pedagogical-sharing-valued-by-all-teachers.md) — related
+- [Students across both programs strongly appreciated face-to-face events with quantum professionals and the communities built within their programs](face-to-face-industry-engagement-appreciation.md) — related

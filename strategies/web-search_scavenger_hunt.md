@@ -63,6 +63,7 @@ Scavenger hunts sit within the broader goal of information literacy: students le
 - [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — a companion framework for evaluating factual claims found online
 - [Case-Based Learning](case-based-learning.md) — both require locating and weighing evidence, though cases emphasize depth over retrieval speed
 - [Extend the workshop with teacher-proposed activities on the completed chart, such as isotope scavenger hunts, decay-chain identification and binding-energy calculations](teacher-proposed-chart-extension-activities.md)
+- [Scavenge-hunt in-class artist research activity strategy](scavenge-hunt-artist-research-strategy.md)
 
 ## Examples
 - A middle-school media literacy unit uses a hunt in which teams must answer current-events questions and earn double points for primary sources, followed by a debrief comparing .gov, .com, and .org results.

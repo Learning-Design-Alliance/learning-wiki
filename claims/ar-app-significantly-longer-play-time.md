@@ -47,3 +47,4 @@ Screen-recording data from the AR vs non-AR workshops compared play time via Wil
 ## Related Claims
 - [AR and non-AR groups showed no significant difference in motivation (intrinsic value, task anxiety, self-regulated learning) on the MSLQ-based survey](mslq-motivation-no-group-differences.md) — related
 - [Students' math scores on transformation matrices rose significantly from pre-test to post-test within both AR and non-AR workshop groups, with a larger observed rise in the AR group](brickxart-math-scores-improve-both-workshops.md) — related
+- [No significant difference in game completion times between groups](gamedevdojo-no-significant-time-difference.md) — related

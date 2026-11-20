@@ -50,6 +50,7 @@ The author reports developing and assessing Quantum Interactive Learning Tutoria
 - [Develop scaffolded quantum learning tools (QuILTs and peer-instruction) that exploit prior knowledge and computer-based visualization](quilts-visualization-scaffolding-strategy.md)
 - [Develop and assess Quantum Interactive Learning Tutorials (QuILTs) that take documented quantum formalism difficulties into account](quilt-tutorials-quantum-formalism-difficulties.md)
 - [Use survey findings on graduate student difficulties to inform first-year graduate quantum instruction and research-based tutorial design](grad-qm-difficulty-informed-instruction-strategy.md)
+- [Use ChatGPT-generated visualizations to make abstract quantum mechanics concepts accessible to undergraduates](chatgpt-visualization-quantum-concepts-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Descriptive survey analysis of item C41 in the 2023-24 six-school survey. The ar
 - [More than 90% of students report knowing about or having used an AI chatbot, a substantial increase in exposure compared to the prior year](ai-chatbot-exposure-over-90-percent-second-year.md) — related
 - [In the second year of generative AI chatbot availability, 72.06% of high school students report engaging in at least one academically dishonest behavior in the prior month, comparable to historical baselines](second-year-ai-chatbot-cheating-rate-72-percent.md) — related
 - [Teachers identify attendance, unreliable devices, prior academic gaps, and COVID-related disruption as compounding contextual barriers to persistence](contextual-barriers-persistence-theme.md) — related
+- [Unauthorized outside-resource and ChatGPT usage on assignments reduces significantly under in-class group work](group-work-reduces-unauthorized-resource-use.md) — related

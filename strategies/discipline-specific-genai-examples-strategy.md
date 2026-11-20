@@ -44,6 +44,7 @@ The article recommends that instructional designers support GenAI adoption by pr
 - [Personalized, subject-specific professional support combining teacher characteristics with school-level collaboration and leadership support](personalized-subject-specific-data-use-support.md)
 - [Embed AI literacy across disciplines by identifying intersections with existing content and using case studies, interdisciplinary modules, and collaborative projects](embed-ai-literacy-across-disciplines.md)
 - [Develop adaptive and discipline-specific GenAI feedback solutions](adaptive-discipline-specific-genai-feedback-solutions.md)
+- [Tailor AI literacy instructional modalities to each audience: interactive K-12 activities, discipline-specific higher-ed applications, and workflow-focused workforce workshops](tailor-ai-literacy-modalities-by-audience.md)
 
 ## Examples
 -

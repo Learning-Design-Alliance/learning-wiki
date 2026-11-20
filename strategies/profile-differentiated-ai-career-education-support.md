@@ -56,6 +56,8 @@ The article recommends that universities replace uniform AI-literacy programs wi
 - [Differentiate AI-integration support by learner profile rather than applying a uniform approach](profile-differentiated-ai-integration-strategies.md)
 - [Shift toward resilience-sensitive differentiated support rather than blanket universal support](resilience-sensitive-differentiated-support.md)
 - [Tailor university ChatGPT adoption policies to local context, including student age and academic performance](tailor-chatgpt-policies-age-gpa-context.md)
+- [Differentiate AI integration guidance by educational level (primary, secondary, undergraduate, graduate)](caiaf-educational-level-differentiation.md)
+- [Tailor AI literacy instructional modalities to each audience: interactive K-12 activities, discipline-specific higher-ed applications, and workflow-focused workforce workshops](tailor-ai-literacy-modalities-by-audience.md)
 
 ## Examples
 -

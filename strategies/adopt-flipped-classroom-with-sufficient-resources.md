@@ -50,6 +50,7 @@ The authors' forward-looking recommendation for instructors choosing between tea
 - [Equip instructors with concrete personalization strategies when adopting flipped designs dominated by group activities](personalization-strategies-flipped-designs.md)
 - [Provide adaptive online support and targeted guidance for students with weaker self-study motivation in blended flipped courses](adaptive-online-support-varied-self-study-strategy.md)
 - [Blended-learning sequencing: learn concrete conversation techniques online first, then deepen non-verbal and emotional aspects in physical SP units](blended-sp-techniques-online-first-physical-second.md)
+- [Design recommendations for immersive flipped learning courses](immersive-flipped-design-recommendations.md)
 
 ## Examples
 -

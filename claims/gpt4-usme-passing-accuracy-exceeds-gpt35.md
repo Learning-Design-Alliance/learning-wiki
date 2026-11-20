@@ -81,3 +81,4 @@ Narrative synthesis of 9 USMLE benchmark evaluation studies within the review's 
 - [GPT-4o significantly outperforms GPT-4 in management (88.8% vs 77.0%), and both beat GPT-3.5 (57.9%)](gpt-4o-management-accuracy-beats-gpt-4-and-gpt-3-5.md) — related
 - [GPT-4o and GPT-4 significantly outperform GPT-3.5 and Google Bard on overall accuracy across four medical licensing examinations](gpt4o-gpt4-outperform-gpt35-bard-medical-licensing-exams.md) — a broader claim this one bears on
 - [The four LLMs' accuracy varied across medical subject categories, with weaknesses in interdisciplinary questions, behavioral health, hematolymphoid topics, neurology and medical ethics](llm-accuracy-varies-by-medical-subject-category.md) — related
+- [GPT-4 reaches a 50% passing threshold in 89% of MCQ-based courses and 77% of open-answer courses](gpt4-passes-majority-of-courses.md) — a broader claim this one bears on

@@ -41,6 +41,7 @@ The article recommends that educators treat off-the-shelf LLMs as conversational
 ## Related Strategies
 
 - [Apply error mitigation such as self-consistency before deploying LLM-generated help, and frame unmitigated LLM feedback as an imperfect source](mitigate-llm-hint-errors-before-deployment.md)
+- [Use students' comparison of explanations from different AI models as an activity to build critical evaluation of AI-generated content](compare-llm-explanations-critical-thinking.md)
 
 ## Examples
 -

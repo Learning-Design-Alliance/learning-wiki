@@ -73,3 +73,4 @@ The article's worked example: if only African American can be included as a vari
 - [Model accuracy of vision-based proctoring systems can vary across demographics, lighting conditions, and hardware setups, potentially disadvantaging some students](proctoring-accuracy-demographic-bias.md) — related
 - [Anonymity in computer-mediated collaboration can produce a stronger group identity than non-anonymous face-to-face situations](anonymity-strengthens-group-identity-cscl.md) — related
 - [Adding demographics slightly worsens assessment-based simulation, and demographics-only simulation drops heavily](demographics-limited-value-with-assessment-history.md) — related
+- [Learning bias in early warning systems over-identifies African American and Hispanic students as at-risk due to biased disciplinary and attendance data](ews-learning-bias-over-identifies-minority-students.md) — a narrower finding that bears on this claim

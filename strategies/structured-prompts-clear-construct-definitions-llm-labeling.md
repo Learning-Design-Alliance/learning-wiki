@@ -47,6 +47,7 @@ The article recommends grounding LLM-assisted labeling in structured prompts tha
 - [Match LLM temperature settings to construct characteristics when coding educational dialogue](match-llm-temperature-to-construct-characteristics.md)
 - [Use LLMs to generate initial course metadata labels, shifting human taggers to a confirmatory role](llm-assisted-course-tagging-confirmatory-role.md)
 - [Instruction-guided LLM annotation with human-in-the-loop prompt refinement for large-scale interaction labeling](instruction-guided-llm-annotation-interaction-labels.md)
+- [Use structured TELeR-style prompts (Level 2-3) specifying output format to elicit instructional-goal variables from LLMs](teler-level2-3-prompt-variable-extraction.md)
 
 ## Examples
 -

@@ -61,3 +61,4 @@ The review reports, citing Wong et al. (2022), that mind wandering occupies "app
 - [In this course, students used about four active strategies, spent about half of study time actively, and reported distraction during roughly 20% of study time](study-habit-prevalence-intro-biology-course.md) — related
 - [Mind wandering increases and retention decreases across a 1-hour video lecture](mind-wandering-increases-across-long-lecture.md) — related
 - [Reaction time deteriorates after an hour of a stressful, difficult lecture in Mathematical Physics](reaction-time-deteriorates-after-hour-lecture.md) — related
+- [Mind wandering occupies roughly 30% of time in educational activities and accounts for approximately 7% of variability in learning outcomes, per the literature the dissertation reviews](mind-wandering-30-percent-time-7-percent-outcome-variability.md) — related

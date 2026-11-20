@@ -50,3 +50,4 @@ Descriptive cross-tabulation of the same 307 students' ILS combinations with lik
 - [Pictures are the most used and most liked instructional media in these middle schools, with thirteen media identified as applicable](pictures-most-used-liked-media.md) — related
 - [Middle-school students report question-and-answer methods as the most used and most liked instructional strategy, with lectures still popular](question-answer-most-used-liked-strategy.md) — related
 - [Learning gains under the coupled simulation-plus-formative-assessment model show no statistically significant correlation with student learning style (ILS) in engineering physics students](coupled-model-gains-independent-of-learning-style.md) — related
+- [The fuzzy learning style recognition system's outputs correlate strongly with Felder-Silverman questionnaire results (84% overall)](fuzzy-style-system-correlates-with-questionnaire.md) — related

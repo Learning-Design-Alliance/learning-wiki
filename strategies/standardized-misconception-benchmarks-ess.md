@@ -42,6 +42,7 @@ To address non-verifiability, the article calls for shared benchmark suites for 
 - [Extend educational LLM benchmarks with broader item formats, human-in-the-loop item curation, and multi-turn evidence-based feedback measures](extend-educational-llm-benchmarks-human-in-loop-multiturn.md)
 - [Extend educational LLM benchmarking toward multilingual contexts, real classroom interaction data, and targeted training for identified capability gaps](future-educational-llm-benchmark-extensions.md)
 - [Standardize reporting of LLM versions, processing dates, input selection criteria, and data quality protocols in future MCQ benchmarking research](standardized-llm-benchmarking-reporting-strategy.md)
+- [Three future research directions: education-focused benchmarks, a taxonomy of educational LLM harms, and multi-turn human feedback](three-recommendations-llm-education-research.md)
 
 ## Examples
 -

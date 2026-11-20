@@ -51,4 +51,4 @@ Within CDS, two interview instruments are scheduled by mid-term. Experts are inv
 -
 
 ## Key Sources
-- Bilkis, M., Moya Kohler, J., Vilariño, F. (2024). Challenge-Device-Synthesis: A Multi-Disciplinary Approach for the Development of Social Innovation Competences for Students of Artificial Intelligence. https://arxiv.org/abs/2405.19243
+- Bilkis, M., Moya Kohler, J., Vilariño, F. (2024). Challenge-Device-Synthesis: A Multi-Disciplinary Approach for the Development of Social Innovation Competences for Students of Artificial Intelligence. https://arxiv.org/abs/2405.19243. [doi:10.21125/edulearn.2024.1501](https://doi.org/10.21125/edulearn.2024.1501)

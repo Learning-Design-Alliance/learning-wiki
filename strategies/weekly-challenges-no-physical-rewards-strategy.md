@@ -48,6 +48,7 @@ The lecturers set challenges on Codecademy such as highest score in 1 and 4 week
 - [Gamified Practice](gamified-practice.md)
 - [Exercise Contests](exercise_contests.md)
 - [Goal Setting With Students](goal-setting-with-students.md)
+- [Add leaderboard-based virtual achievements to learning apps to increase user engagement time](add-leaderboards-to-learning-apps-strategy.md)
 
 ## Examples
 -

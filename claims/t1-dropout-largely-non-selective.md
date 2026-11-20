@@ -47,3 +47,4 @@ Dropout analysis comparing the 180 T1-participants with T0-only respondents on g
 ## Related Claims
 - [A second-year doctor-patient communication course is associated with significant self-assessed learning gains on all seven key learning objectives, largest for history taking (mean difference +1.7 'to know how', +1.8 'to show how')](communication-course-self-assessed-gains-all-objectives.md) — related
 - [Dropouts reported higher learning needs, lower knowledge scores, and more skeptical attitudes toward blended learning than completers](dropout-profile-higher-needs-lower-blended-expectations.md) — reports the opposite
+- [Students who dropped out before endline had lower baseline math scores than completers, though age and gender did not differ](rori-study-attrition-baseline-difference.md) — related

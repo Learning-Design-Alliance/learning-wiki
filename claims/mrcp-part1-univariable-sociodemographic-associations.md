@@ -54,3 +54,4 @@ Univariable chi-squared and rank tests in a retrospective longitudinal cohort of
 - [Univariate analyses show significant first-attempt pass-rate differences at MRCS by gender, ethnicity, age, graduate status and socioeconomic measures (all p < 0.05)](univariate-sociodemographic-associations-mrcs.md) — related
 - [Gateway students are significantly more likely than SEMED students to have demographic characteristics associated with low socioeconomic status and under-representation](gateway-students-more-underrepresented.md) — related
 - [Socioeconomic status and course type are not significant independent predictors of EPM ranking after adjustment](ses-course-type-not-independent-predictors-epm.md) — related
+- [Univariate analysis shows significant first-class degree gaps by ethnicity, gender, disability, SES, parental education, school type and duration](univariate-awarding-gaps-first-class.md) — related

@@ -55,3 +55,4 @@ Qualitative coding of the 38 interviews identified this subtheme in 17 of 38 stu
 - [Some female physics students reported instructors and advisors underestimating their abilities and potential](underestimated-abilities-potential.md) — related
 - [Exam culture with failing class averages and curving left physics majors feeling discouraged regardless of final grade](failing-exam-averages-discourage-physics-students.md) — related
 - [All seven undergraduate women physics majors interviewed recalled negative experiences with their male peers during college](women-physics-majors-negative-male-peer-interactions.md) — related
+- [In the large research university department (Study 2), undergraduate women report male peers ignoring their contributions and male instructors enforcing negative stereotypes, while female peers serve as key support sources](study2-masculine-negative-peer-instructor-culture.md) — related

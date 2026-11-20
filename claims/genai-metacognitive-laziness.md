@@ -73,3 +73,4 @@ The report attributes to cited research (Fan et al., 2024; Gerlich, 2025; Kosmyn
 - [In the performance phase, AI tools helped learners organize tasks and supported metacognitive monitoring, but sometimes inaccurately reflected tasks and lacked in-depth responses](ai-performance-phase-benefits-and-drawbacks.md) — related
 - [Students in virtual, technology-enhanced environments generally do not deploy effective metacognitive strategies unless guided by appropriate scaffolding](vle-learners-need-metacognitive-scaffolding.md) — related
 - [User-friendly XR systems are accessible to trainees with various levels of expertise (effort expectancy)](xr-effort-expectancy-user-friendly-systems.md) — related
+- [Deployed LLM-based systems risk overreliance because users may anthropomorphize conversational agents](anthropomorphization-overreliance-deployed-llms.md) — related

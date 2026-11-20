@@ -46,6 +46,7 @@ To operate the ITS in a German university regulatory environment, the authors im
 - [Four-step anonymization balancing disclosure risk and data utility](four-step-anonymization-engagement-data.md)
 - [Secure enclaves for privacy-protecting researcher access to student-level data](secure-enclave-kinetic-data-access.md)
 - [Three-level data protection mechanism for AI-SP privacy, informed consent, and legal risk management](ai-sp-three-level-data-protection.md)
+- [Use text-based LLM analysis instead of visual or physiological data collection to preserve privacy and scale emotion analysis](text-based-llm-analysis-privacy-preserving-strategy.md)
 
 ## Examples
 -

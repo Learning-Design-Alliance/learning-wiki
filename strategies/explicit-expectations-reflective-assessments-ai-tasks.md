@@ -48,6 +48,7 @@ This strategy packages the article's three named activity types for integrating 
 - [AI-generated-essay-then-critical-evaluation task sequence for teaching critical evaluation skills](ai-generate-then-critically-evaluate-task-sequence.md)
 - [Sequenced skillfulness assessment and ethics sign-off across the training pathway](pat-sequenced-assessment-ethics-pathway.md)
 - [Integrate artificial intelligence into digital teaching with careful planning, quality-assured data, and explicit teaching of critical handling](ai-integration-digital-teaching-pharmacy.md)
+- [Use students' comparison of explanations from different AI models as an activity to build critical evaluation of AI-generated content](compare-llm-explanations-critical-thinking.md)
 
 ## Examples
 -

@@ -69,3 +69,4 @@ In its summary the article reports that "recent studies have highlighted signifi
 - [Institutions diverge in default GenAI permission stances, ranging from unauthorized-unless-authorized to program-level carve-outs where instructors may not ban AI use](genai-default-permission-stance-divergence.md) — related
 - [Universities converge on caution toward AI-detection systems, warning against using detection scores as dispositive evidence of misconduct](ai-detector-skepticism-convergence.md) — related
 - [A majority of faculty believe student evaluation methods require significant change, and preferences tilt toward disclosure-based permission regimes over bans](faculty-demand-assessment-transformation-permission-regimes.md) — related
+- [AI detection tools have low precision and are circumvented by adversarial techniques](ai-detection-tools-low-precision-adversarial-circumvention.md) — related

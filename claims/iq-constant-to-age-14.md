@@ -58,3 +58,4 @@ The article reports, citing Terman and Stern, that IQs from successive testing o
 - [Individuals' composite scale ranks are fairly constant from age fourteen to fifteen](woolley-scale-ranks-stable-year-to-year.md) — related
 - [The question of the constancy of IQ is not settled; further studies with regular intervals and repeated tests of the same cases over a number of years are needed](iq-constancy-question-not-settled.md) — related
 - [The mental quotient is misleading as a general expression of mental development and is valuable only when cases are of the same age](mental-quotient-misleading-across-ages.md) — reports the opposite
+- [The article argues that relative learning progress, measured against a student's starting position, is a more meaningful indicator of individual learning success than absolute attainment](relative-learning-progress-individual-success.md) — related

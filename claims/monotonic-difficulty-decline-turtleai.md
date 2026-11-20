@@ -59,3 +59,4 @@ Fine-grained analysis of symbolic success rates across the three labeled difficu
 - [Success rates on the three activities were above 80%, 70%, and 60% respectively, indicating progressively challenging tasks](phylogeny-activity-success-rates.md) — a narrower finding that bears on this claim
 - [Simulated graduation rates decrease monotonically as curricular structural complexity increases](simulation-graduation-rates-decrease-with-structural-complexity.md) — a narrower finding that bears on this claim
 - [AI performance shows no clear trend across degree levels despite increasing question complexity](no-clear-trend-ai-performance-exam-level.md) — reports the opposite
+- [GPT-4 performance degrades on harder and cognitively more complex questions](gpt4-performance-degrades-on-harder-questions.md) — a narrower finding that bears on this claim

@@ -54,3 +54,4 @@ Table 2 presents matched pre- and post-intervention open reflections of the 11 s
 - [A VR-based OSCE station can be integrated into an established curricular OSCE with 93% of students using the VR technology without issues](vrs-osce-integration-feasible.md) — related
 - [Trainees reported improved skills and self-confidence and supported making the at-home curriculum part of regular residency training](questionnaire-supports-curriculum-adoption.md) — related
 - [Self-reported pre/post feedback on a Docker training event showed a perceived improvement in knowledge, but the measure only probes self-reported learning](docker-training-self-reported-knowledge-gain.md) — related
+- [Students perceived improvements in academic reading, writing, presentation, collaboration, and digital literacy skills after the immersive flipped course](immersive-flipped-perceived-learning-outcomes.md) — related

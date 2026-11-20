@@ -47,6 +47,7 @@ Because experiments run on real quantum hardware, "students could easily observe
 - [Alternate pen-and-paper predictions with IBM Q runs so students test their own circuit calculations](predict-then-test-pen-paper-ibm-q.md)
 - [Quantum hardware exploration assignments balancing authentic device access with simulator substitutes](quantum-hardware-exploration-assignments-strategy.md)
 - [Teach quantum computing through reproducible code boxes that students run locally and on real quantum hardware](reproducible-code-boxes-quantum-teaching-strategy.md)
+- [Use cloud-accessible quantum computing platforms so students run circuits on real quantum hardware](cloud-quantum-platforms-school-use.md)
 
 ## Examples
 -

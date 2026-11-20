@@ -69,3 +69,4 @@ Subscale-level mixed ANOVA on final Presence Questionnaire scores for the two VR
 - [VR-trained groups reported significantly higher real-task workload than the real-only control group, with no significant difference between the two VR groups](vr-trained-groups-higher-real-task-workload.md) — related
 - [Simulator sickness decreased over virtual training relative to baseline for the conventional-cues group, with no increase for either VR group](ssq-discomfort-decreased-over-vr-training.md) — related
 - [A learning-curve offset method estimates augmented-cues VR training as equivalent to 0.93 real tyre-change sessions versus 0.37 for conventional VR training](equivalent-training-sessions-learning-curve-offset.md) — related
+- [VR training produced significantly higher presence than desktop training on sensory and realism factors, but not on control, distraction, or ergonomic factors](vr-desktop-presence-sf-rf-differences.md) — related

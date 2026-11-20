@@ -67,3 +67,4 @@ In the parallel stratified matching analysis on first-exam users, droppers "perf
 - [Self-administered Exam Playbook use predicts higher exam scores in real-world college classes (d = 0.18)](exam-playbook-use-exam-performance.md) — related
 - [Exam Playbook benefits relate to dosage and to earlier use before exams](exam-playbook-dosage-timing-benefits.md) — related
 - [The instructor's own final exam showed the same direction of advantage on the intact randomized sample, with no difference on the pre-treatment midterm](instructor-final-confirms-tutor-advantage-direction.md) — related
+- [Students who adopted GPT-4 showed an estimated positive exam-score benefit (LATE ∆=6.86pp, ES=0.40), not significant after correction](gpt4-adopters-exam-score-late.md) — related

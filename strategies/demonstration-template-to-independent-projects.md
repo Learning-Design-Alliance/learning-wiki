@@ -55,6 +55,7 @@ The authors use computation in two main ways: live demonstrations of computer so
 - [Reuse algorithms across physics courses by scaling equations into shared dimensionless forms](reuse-scaled-algorithms-across-physics-courses.md)
 - [Workshop-based mini-research project walking students through the full research cycle](composer-mini-research-workshop-strategy.md)
 - [Provide nearly completed code with only a few pieces to finish, plus full solutions for self-checking](nearly-completed-code-scaffolding-strategy.md)
+- [Teach programming with workshop-style live coding in which the instructor writes and executes code in real time](workshop-style-live-coding-instruction.md)
 
 ## Examples
 -

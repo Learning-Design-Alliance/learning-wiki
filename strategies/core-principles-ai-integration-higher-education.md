@@ -70,6 +70,7 @@ The chapter establishes six core principles (Table 3) to guide AI use in higher 
 - [Align AI guidelines with broader institutional policies while addressing discipline-specific learning objectives and workforce demands](align-ai-guidelines-discipline-objectives-workforce.md)
 - [Develop student AI literacy and institutional GenAI policies, guidelines and safeguards for responsible integration](genai-literacy-and-institutional-policy-strategy.md)
 - [Six recommendations for educators addressing AI in Physics education](educator-recommendations-ai-physics-education.md)
+- [Educate students on the technical and ethical challenges of generative AI and the critical thinking needed to engage with such tools](ai-literacy-and-ethics-education-strategy.md)
 
 ## Related Principles
 - 

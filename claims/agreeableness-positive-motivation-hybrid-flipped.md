@@ -50,3 +50,4 @@ PLS-SEM path coefficients from the 149-student structural model linking agreeabl
 ## Related Claims
 - [Conscientiousness is positively associated with interest/enjoyment, effort/importance, and perceived competence in hybrid flipped learning](conscientiousness-positive-motivation-hybrid-flipped.md) — related
 - [Teacher extraversion, conscientiousness, emotional stability, and openness are each positively associated with teacher effectiveness, while agreeableness is not a significant correlate](big-five-teacher-effectiveness-meta-analysis.md) — related
+- [All agent variations were positively perceived across personality factors and learning outcomes regardless of modality](all-agents-positively-perceived.md) — related

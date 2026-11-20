@@ -51,3 +51,4 @@ Analysis of the community node found mentor-mentee communication "developed grad
 - [Remote REU participants persistently lacked community, and the resulting lack of in-person interaction pushed mentees into substantial independent learning](remote-reu-lack-of-community.md) — related
 - [Barriers in mentor-mentee relationships and differing expectations introduced challenges in remote REU programs](remote-reu-mentor-mentee-barriers.md) — related
 - [Mentoring relationships improve mentees' sense of belonging, with peer mentors having a profound impact](mentoring-improves-sense-of-belonging.md) — related
+- [Students new to research did not know how to approach their REU mentors with questions or needs, hindered by the mentor–mentee power dynamic](reu-students-unsure-approaching-mentors.md) — related

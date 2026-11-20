@@ -57,3 +57,4 @@ Authors' summary of the qualitative coding of mentee SoB quotes (N=46 coded segm
 - [Peer interaction and sense of belonging reach a minimum in year 2, when majors adjust to classes consisting primarily of physics majors](year-2-dip-peer-interaction-belonging.md) — related
 - [Mentoring relationships improve mentees' sense of belonging, with peer mentors having a profound impact](mentoring-improves-sense-of-belonging.md) — related
 - [Peer mentorship helps women in physics engage with their physics community and fosters a sense of belonging](peer-mentorship-belonging-physics-community.md) — related
+- [Students new to research did not know how to approach their REU mentors with questions or needs, hindered by the mentor–mentee power dynamic](reu-students-unsure-approaching-mentors.md) — related

@@ -48,3 +48,4 @@ Qualitative interview study of eight physics faculty using a semi-structured pro
 - [Faculty in this study displayed cognitive rather than emotional empathy toward struggling students](cognitive-not-emotional-empathy-faculty.md) — possibly the same claim (merge candidate)
 - [Faculty often rely on students to initiate communication about non-academic struggles; five participants could not recall any such example, and four of six Wray-coded participants reported none.](faculty-rely-on-student-initiated-communication.md) — related
 - [Empathy is not related to preservice teachers' noticing of ethnic microaggressions](empathy-not-related-to-microaggression-noticing.md) — related
+- [In physics faculty accounts, the cognitive empathy pathway is mediated by reflective witnessing, with experience and emotions as moderators](cognitive-empathy-pathway-reflective-witnessing.md) — related

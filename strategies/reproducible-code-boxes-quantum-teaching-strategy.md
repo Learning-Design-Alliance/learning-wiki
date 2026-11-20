@@ -47,6 +47,7 @@ The article structures its entire treatment as a sequence of numbered code boxes
 - [Use Python quantum code libraries such as Qiskit and Netsquid to deliver simulation-based exercises and support autonomous learning](python-quantum-libraries-simulation-exercises.md)
 - [Quantum hardware exploration assignments balancing authentic device access with simulator substitutes](quantum-hardware-exploration-assignments-strategy.md)
 - [Use real-hardware experiment results that deviate from theory to motivate a discussion of quantum error correction](real-hardware-error-observation-strategy.md)
+- [Use cloud-accessible quantum computing platforms so students run circuits on real quantum hardware](cloud-quantum-platforms-school-use.md)
 
 ## Examples
 -

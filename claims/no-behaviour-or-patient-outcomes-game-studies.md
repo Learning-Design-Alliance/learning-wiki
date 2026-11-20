@@ -55,3 +55,4 @@ Kirkpatrick-level outcome classification across the 21 included studies. The rev
 - [Attitude and satisfaction outcomes were mostly measured by item-by-item survey comparisons and showed generally positive but mixed results](vp-attitudes-satisfaction-mixed.md) — related
 - [Trainees and observers reported generally positive experiences with seven tools in 10 studies (Kirkpatrick level 1)](positive-trainee-experience-seven-tools.md) — related
 - [Most studies reporting change in attitude or behaviour rely on student self-reports, which is not a reliable method for measuring long-term changes in attitude](self-reports-unreliable-for-attitude-change.md) — related
+- [Reported outcomes of game-based education are mixed: 21 of 43 studies positive, 12 mixed, 10 negative](games-outcomes-21-positive-12-mixed-10-negative.md) — related

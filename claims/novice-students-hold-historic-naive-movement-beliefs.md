@@ -56,3 +56,4 @@ The article reports, citing prior studies (e.g. McCloskey, Clement, Whitaker), t
 - [Introductory modern physics students invoke concepts and beliefs paralleling expert physicists when arguing for favored interpretations of quantum mechanics](student-interpretive-stances-parallel-expert-physicists.md) — related
 - [Student misconceptions are ad hoc abductive inferences rather than stable entertained theories](misconceptions-as-ad-hoc-abductive-inferences.md) — related
 - [Adults around the globe hold naive conceptions about the viscous behavior of fluids, consistent with those found in prior qualitative research with children and students](adults-globally-hold-naive-conceptions-viscous-behavior.md) — a narrower finding that bears on this claim
+- [Gemini models used the intuitive term 'motion impetus' for momentum while Coral emphasized advanced topics such as inelastic collisions and quantum mechanics](llm-explanatory-style-divergence.md) — related

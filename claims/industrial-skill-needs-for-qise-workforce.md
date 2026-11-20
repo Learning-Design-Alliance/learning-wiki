@@ -76,3 +76,5 @@ As the article emphasizes, "all industry leaders spoke about the importance of b
 - [Many quantum-industry jobs require no important quantum skills, and non-quantum skills remain important for all jobs](many-quantum-jobs-need-no-quantum-skills.md) — related
 - [The article's analysis of a survey of 57 quantum companies finds employer-required skills cluster into three correlated subsets, with the largest (subset A) helping identify a potential quantum engineering curriculum.](quantum-industry-survey-three-skill-subsets.md) — related
 - [Industry respondents expect entry-level physics-bachelor data scientists to program daily and rate data manipulation, experimental design, statistics, and visualization as essential](industry-survey-entry-level-data-skills.md) — related
+- [Quantum technology systems engineering is a major industrial readiness gap with almost no university programs offering the skill set](qt-systems-engineering-gap.md) — related
+- [Industry reports three fundamental training needs — basic awareness, targeted training and study programs — with group-specific priorities](qt-three-fundamental-training-needs.md) — related

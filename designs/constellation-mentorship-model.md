@@ -49,4 +49,4 @@ The article presents a holistic, non-dyadic (constellation) mentorship model as 
 -
 
 ## Key Sources
-- Latouf, N., Schwartzman, E., McKaig, J., Doan, S., & Weingartner, J. (2024). Effective & Ethical Mentorship in Physics and Astronomy through Grassroots Organizations. arXiv. https://arxiv.org/abs/2405.14761
+- Latouf, N., Schwartzman, E., McKaig, J., Doan, S., & Weingartner, J. (2024). Effective & Ethical Mentorship in Physics and Astronomy through Grassroots Organizations. arXiv. https://arxiv.org/abs/2405.14761. [doi:10.3847/25c2cfeb.31201d9b](https://doi.org/10.3847/25c2cfeb.31201d9b)

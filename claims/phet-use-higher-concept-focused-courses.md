@@ -50,3 +50,4 @@ Closed-response survey analysis comparing PhET use across learning-goal categori
 - [Simulations were the most commonly referenced successful strategy in the emergency remote transition of physics labs](simulations-most-common-remote-lab-success.md) — related
 - [First-year students in skills-focused lab courses had higher postinstruction overall E-CLASS scores than students in concepts-focused courses](skills-focused-labs-higher-post-eclas-scores.md) — related
 - [In two minimally-guided PhET simulation activities, spectral clustering consistently identifies a larger systematic-inquiry cluster and a smaller free-exploration cluster across all three feature paradigms](systematic-free-inquiry-clusters-simulations.md) — related
+- [Surveyed lab courses show similarities, including common use of pre-constructed apparatuses and instructor hopes for students to learn technical skills](lab-courses-similarities-preconstructed-apparatus-technical-skills.md) — related

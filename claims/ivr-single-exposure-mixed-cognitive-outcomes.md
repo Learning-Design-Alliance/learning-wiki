@@ -74,3 +74,4 @@ The article attributes to Christopoulos et al. (2022) a retention advantage for 
 - [Teachers perceive 360° VR videos as engaging, feasible, and useful for explaining concepts difficult to demonstrate traditionally](teacher-focus-groups-vr-engagement.md) — related
 - [Students reported the VR headset added little over the 360-video viewed on a phone, citing setup effort and cost as barriers.](headset-added-little-over-360-video.md) — related
 - [iVR training has been reported as 34 times more cost-effective than a traditional course format](ivr-34x-more-cost-effective-than-traditional-course.md) — related
+- [Passive immersive VR viewing produces no advantage over video instructions in judgments of learning or memory (Experiment 2)](immersive-vr-no-advantage-exp2.md) — related

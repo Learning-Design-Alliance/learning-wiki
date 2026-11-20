@@ -49,4 +49,4 @@ The article recommends that instructors deliberately assign students to groups w
 -
 
 ## Key Sources
-- Doucette, D., D'Urso, B., & Singh, C. (2024). Lessons from Transforming Second-Year Honors Physics Lab. arXiv:2403.01525. https://arxiv.org/abs/2403.01525
+- Doucette, D., D'Urso, B., & Singh, C. (2024). Lessons from Transforming Second-Year Honors Physics Lab. arXiv:2403.01525. https://arxiv.org/abs/2403.01525. [doi:10.48550/arxiv.2403.01525](https://doi.org/10.48550/arxiv.2403.01525)

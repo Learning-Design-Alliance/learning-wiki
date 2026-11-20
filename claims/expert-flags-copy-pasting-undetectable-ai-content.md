@@ -50,3 +50,4 @@ Expert-interview finding from a professor with over two decades of research expe
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
 - [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](customized-ai-writing-persistent-challenges.md) — related
 - [After humanization with Undetectable AI, fewer than 4% of AI-labeled rewrites remain detectable (FNR > 96%) for Pangram and GPTZero](humanization-drives-detection-below-4-percent.md) — related
+- [Copy-and-paste-enabled substitutive LLM use trades topic volume for understanding: volume rises while understanding falls, leaving overall outcomes unchanged](substitution-volume-understanding-tradeoff.md) — related

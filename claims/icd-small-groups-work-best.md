@@ -66,3 +66,4 @@ The same experiential section reports a detector-sharing limit: "not more than s
 ## Related Claims
 - [About 3300 students from 26 countries participated in the five International Cosmic Days held since 2012](icd-3300-students-26-countries-five-years.md) — related
 - [About half of participating groups used the ICD text chat, mainly to ask questions and share photos of their project](icd-text-chat-used-by-half-of-groups.md) — related
+- [Learners measured real cosmic-ray muons with a portable detector and reenacted a particle collision](muon-detector-measurement-activity.md) — related

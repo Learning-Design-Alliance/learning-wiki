@@ -46,3 +46,4 @@ Analytical argument grounded in the Central Limit Theorem: each site-specific es
 
 ## Related Claims
 - [Random effects HLM models produce an unbiased estimate of the variance of true site-specific impacts regardless of the shape of the true distribution](hlm-unbiased-variance-true-impacts.md) — related
+- [Further simulations suggest the mean-of-cases estimator may be reliable in low-pretest-mean settings, and bias shrinks when score variance is reduced](appendix-simulations-low-pretest-reliable-mean-of-cases.md) — related

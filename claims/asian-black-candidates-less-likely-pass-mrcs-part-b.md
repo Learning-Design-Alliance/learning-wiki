@@ -52,3 +52,4 @@ Multivariate logistic regression in the Part B cohort (final model N = 1125) adj
 - [Ethnic-group differences in confidence bias are an artefact of cognitive test performance, whereas confidence judgement differences persist after adjustment](ethnic-differences-confidence-metrics-diverge.md) — related
 - [Students from Asian, Black, Mixed and Other ethnic groups are significantly less likely than White students to finish in the top tier of EPM rankings](ethnic-minority-students-less-likely-top-epm-rankings.md) — related
 - [OSCE station-level underperformance differs across ethnic minority subgroups](osce-station-disparities-vary-by-subgroup.md) — related
+- [Black and Asian students have significantly lower odds of achieving a first-class STEM degree than White students after multivariate adjustment](black-asian-lower-odds-first-class-stem-degrees.md) — related

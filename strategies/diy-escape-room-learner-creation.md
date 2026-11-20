@@ -41,6 +41,7 @@ At the end of the experience, D-UDA publishes the hyperlinks and descriptions of
 
 - [Student Game Design](student_game_design.md)
 - [Require authors to solve their own created levels before publishing, as a quality filter and a learning act in itself.](author-must-solve-own-level.md)
+- [Recommendations for creating and conducting game-based learning experiences with teacher-authored games](gbl-teacher-authored-creation-conduct-recommendations.md)
 
 ## Examples
 -

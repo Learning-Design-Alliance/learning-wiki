@@ -56,3 +56,4 @@ Chi-square comparisons of demographic variables in Table 1 (N = 4340) with Bonfe
 - [First-generation university students underperformed only on the language skills test](first-generation-underperformance-language-test-only.md) — related
 - [UKCAT showed less socio-demographic variation than school science scores, supporting its fairness aim](ukcat-less-sociodemographic-variation-than-tss.md) — related
 - [The authors interpret introductory community college astronomy as a potential equalizer for students of different ethnic and socioeconomic backgrounds](astronomy-equalizer-stem-access-interpretation.md) — related
+- [Univariate analysis shows significant first-class degree gaps by ethnicity, gender, disability, SES, parental education, school type and duration](univariate-awarding-gaps-first-class.md) — related

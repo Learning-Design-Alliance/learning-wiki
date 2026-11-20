@@ -56,3 +56,4 @@ Machine-coded free-text workflow responses (pre n=100, post n=99) from the adjud
 - [By the final survey wave, using LLMs for debugging and understanding concepts was nearly universal among surveyed students](debugging-and-concept-llm-use-nearly-universal-by-term-end.md) — related
 - [Curiosity about AI shifted between pre- and post-survey, from 71% to 50%, which the authors interpret as a move from diffuse curiosity to concrete critical engagement](curiosity-shifted-diffuse-to-critical.md) — related
 - [Prompt revisions per session rose from 1.8 in Week 2 to 4.6 in Week 11, and references to adaptation, tailoring and personalisation increased 47% across the semester](prompt-revision-engagement-increase.md) — related
+- [Complementary LLM use (asking for explanations) increases topic understanding but not overall learning outcomes](explanations-increase-topic-understanding.md) — related

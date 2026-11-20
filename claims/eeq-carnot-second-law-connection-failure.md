@@ -52,3 +52,4 @@ Aggregate written EEQ pretest data from five semesters at School 1 and one at Sc
 - [EEQ response patterns are statistically similar between two institutions on three of four sub-questions, but differ significantly on the Carnot working-substance question](eeq-cross-institution-response-similarity.md) — related
 - [Authors report that participants seem to have better understood the laws of thermodynamics after the game](participants-better-understand-thermodynamics.md) — related
 - [After traditional lecture-based instruction, only upper-level students reach 50% or more correct responses on cyclic-process heat and work questions, while most students answer internal energy questions correctly](cyclic-process-q-w-correct-rates-by-level.md) — related
+- [Upper-level students more often than introductory students expect entropy to increase in reversible cyclic processes, despite entropy being a state variable](entropy-increase-expectation-cyclic-processes.md) — related

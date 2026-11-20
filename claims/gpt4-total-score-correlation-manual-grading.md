@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-20
 recheck_by: 2026
 sources:
   - id: gerd-kortemeyer-2023
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
+> **Currency** · newest study 2023 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Total scores assigned by GPT-4 correlate with the author's manual total scores with R² ≈ 0.83, but fluctuations are higher in partial-credit situations. [→ Gerd Kortemeyer 2023](#gerd-kortemeyer-2023)
@@ -52,3 +53,4 @@ Correlation analysis of AI vs. manual total scores for 25 sample solutions (Fig.
 - [Round II raised exact question-part agreement from about 63% to about 70% and cut parts differing by more than one point from about 13% to 7%, while exact partial-credit scoring remained hardest](question-part-agreement-partial-credit-limits.md) — related
 - [AI total scores correlate strongly with official human scores on handwritten physics assessments (r = 0.91–0.97 in Round I; 0.93–0.96 in Round II)](ai-human-total-score-correlation-handwritten-physics.md) — related
 - [Focused rubric refinement that made required physics and scoring conditions explicit reduced AI–official disagreements on targeted questions (e.g., Grover item MAD 1.1 to 0.4 marks, r 0.70 to 0.82)](explicit-rubric-conditions-reduce-ai-disagreement.md) — related
+- [Rubric-based and parts-based grading workflows outperform problem-based grading, possibly because GPT-4-32k cannot reliably add numbers](wf1-wf2-outperform-wf3-grading.md) — related

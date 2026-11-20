@@ -55,3 +55,4 @@ Exit questionnaires with 15 closed questions on cognitive and affective states (
 - [Final-semester medical students reported that a primary care virtual patient supported self-directed learning and stimulated reflection](vp-primary-care-supports-self-directed-learning-student-reports.md) — related
 - [Most students rated the combination of virtual patients and teaching events positively as a worthwhile learning experience](students-rate-vp-integration-positively.md) — related
 - [Most participating clinicians rated the virtual patient as better than paper cases for training](vp-rated-better-than-paper-cases.md) — related
+- [Participants reported the case study format and small-group interaction were effective and engaging for learning RAI concepts](case-study-format-engagement-effectiveness.md) — related

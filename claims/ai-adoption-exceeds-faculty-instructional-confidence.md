@@ -76,3 +76,4 @@ The synthesis reports, citing the Digital Education Council Global AI Faculty Su
 - [ITS adoption is limited by instructors' lack of programming skills and high outsourcing costs](its-barriers-programming-skills-and-cost.md) — related
 - [Faculty overwhelmingly value active learning but report structural barriers to implementing it.](active-learning-valued-but-barriers-exist.md) — related
 - [Without training, new accessible resources can become a barrier rather than a support, so instructors and students must have access to training about using the resource](accessible-tools-training-required-to-avoid-barriers.md) — related
+- [A literature survey indicates limited or no adoption of GenAI by universities, reflecting stakeholder uncertainty](genai-literature-limited-university-adoption.md) — reports the opposite

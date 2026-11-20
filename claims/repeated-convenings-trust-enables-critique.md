@@ -83,3 +83,4 @@ Interview participants in the three content-specific communities, each convened 
 - [Interactions inside the Fellowship support material design through sharing ideas and feedback, while interactions outside the Fellowship can hinder implementation of new ideas](social-interactions-inside-outside-flc.md) — related
 - [Intern feedback indicated a strong in-person component is needed to build community in a virtual internship](in-person-component-needed-for-community.md) — related
 - [All 13 teachers valued exchanging and developing pedagogical ideas and instructional materials with peers in the responsive PD community](peer-pedagogical-sharing-valued-by-all-teachers.md) — related
+- [Empathy is co-constructed through communication, a reciprocal dynamic the individual-faculty model does not capture](empathy-co-constructed-dynamic.md) — related

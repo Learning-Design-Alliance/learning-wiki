@@ -71,3 +71,4 @@ Secondary quartile analysis using the final exam as proxy for learning success: 
 - [Pharmacology assessment items written under the integrated flipped case-based curriculum showed significantly higher item difficulty than legacy items while maintaining item discrimination](integrated-curriculum-higher-item-difficulty.md) — related
 - [Among students using all resources including AI, AI use during online exams correlates positively with improvement on duplicated final-exam problems](ai-users-positive-duplicate-problem-correlation.md) — related
 - [Despite heavy external resource use, significant correlations between supervised and unsupervised assessments persist, so unsupervised assessments retain formative value](unsupervised-assessments-retain-formative-value.md) — related
+- [Unauthorized outside-resource and ChatGPT usage on assignments reduces significantly under in-class group work](group-work-reduces-unauthorized-resource-use.md) — related

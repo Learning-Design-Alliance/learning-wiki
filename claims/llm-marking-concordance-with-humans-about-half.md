@@ -70,3 +70,4 @@ Score distribution comparison across the 2209 graded instances in the AI marking
 - [Human Graders of Open-Ended Work Agree With Each Other Less Than Treating One Grade as Ground Truth Implies](human-graders-agree-less-than-single-grade-ground-truth-implies.md) — related
 - [LLM-based scoring of Spanish argumentative writing achieves 60–80% per-item accuracy, slightly below human inter-rater agreement](llm-scoring-spanish-writing-60-80-accuracy-below-human-agreement.md) — related
 - [AI-generated short-form physics essays marked by five independent markers averaged 71 ± 2%, in strong agreement with the module average of 71 ± 5%](ai-essays-first-class-physics-essay-marks.md) — related
+- [GPT-4-based grading of open answers aligns moderately with expert human graders, with an average grade difference of 2.75%](gpt4-grading-aligns-with-human-graders.md) — related

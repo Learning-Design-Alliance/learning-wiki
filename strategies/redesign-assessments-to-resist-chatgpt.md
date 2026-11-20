@@ -61,6 +61,7 @@ The article recommends that university staff design assessments that are harder 
 - [Critically evaluate advertised green building solutions to develop students' critical thinking](critical-review-greenwashing-solutions.md)
 - [Provisional assessment-defence strategies: question styles AI struggles with, pre-approval open-book exams, and routine AI-capability monitoring](provisional-ai-assessment-defence-strategies.md)
 - [Students should learn to solve problems both with and without AI tools, and carefully benchmark AI solutions against their own understanding](student-ai-benchmarking-and-dual-skill-strategy.md)
+- [Use students' comparison of explanations from different AI models as an activity to build critical evaluation of AI-generated content](compare-llm-explanations-critical-thinking.md)
 
 ## Examples
 -

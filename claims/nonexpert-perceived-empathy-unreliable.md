@@ -53,3 +53,4 @@ Exit interviews with nine participants in the longitudinal user study, focusing 
 - [Starting interaction with the Empathetic chatbot is associated with the least attrition in the six-week study](empathetic-condition-least-attrition.md) — related
 - [Self-actualization (POI) correlates of rated counseling performance reported by Foulds could not be confirmed on replication](self-actualization-poi-findings-failed-replication.md) — related
 - [No significant differences among chatbot conditions in engagement or perceived interruption](rr-no-engagement-interruption-differences.md) — related
+- [Adaptive empathetic feedback yields higher chatbot perceived affective support than fixed or no empathetic feedback in a preliminary user study](adaptive-empathetic-feedback-higher-chatbot-pas.md) — related

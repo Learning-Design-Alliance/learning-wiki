@@ -50,3 +50,5 @@ Comparison of %nDMs for the questions of Martín-Blas et al. across Spanish grou
 - [Students at three UK universities show a statistically significant pre-instruction gender gap on the FCI, with males outperforming females](pre-instruction-fci-gender-gap-three-uk-universities.md) — related
 - [Male students outperform female students on practically all individual FCI items, before and after instruction](males-outperform-on-almost-all-fci-items.md) — related
 - [Students remain confused when changes of referential are needed to understand astronomical phenomena such as moon phases, seasons, eclipses and orbital motion around a common centre of mass](referential-change-difficulty-astronomy-students.md) — related
+- [Question 14 developed a normalised dominant misconception above the 50% threshold at post-test for Engineering students, despite no dominant incorrect choice at pre-test](q14-posttest-ndm-above-threshold-beng.md) — related
+- [UJ pre-test nDMs matched international trends for Q4, Q28, Q19, and Q9, but were lower for Q2 and Q14 compared with Spanish and Saudi cohorts](uj-ndm-cross-country-q2-q14-difference.md) — a broader claim this one bears on

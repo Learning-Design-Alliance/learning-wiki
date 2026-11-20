@@ -58,3 +58,4 @@ The introduction's summary of the Huang, Walkington, and Nathan study reports th
 - [In shared VR, teacher-learners showed a recurring multimodal sequence of discussion before embodied action on virtual objects](vr-discussion-before-embodied-action.md) — related
 - [Students' basic geometry skills on curved-solid objects improved after learning with the media](before-after-basic-geometry-skills-improved.md) — related
 - [Interacting with geometric abstract concepts during VR precedent exploration was associated with faster assemblage and higher reported understanding and motivation than building geometry alone](abstract-concepts-vr-precedent-faster-assemblage.md) — related
+- [Teaching basic programming concepts in VR with either textual code objects or visual metaphors can lead to increased CS self-efficacy and knowledge in novices (pilot, n=6)](vr-programming-both-formats-increase-self-efficacy-knowledge-pilot.md) — related

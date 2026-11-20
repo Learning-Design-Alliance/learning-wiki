@@ -8,7 +8,6 @@ generated:
 id: reference-answer-checklists-miss-false-claims-and-reward-key-terms
 evidence_strength:
 newest_evidence: 2026
-recheck_by: 2029
 sources:
   - id: porcaro-2026
     resource: "https://doi.org/10.5281/zenodo.24023968"
@@ -24,7 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 > **Evidence quality** · This claim rests on one research release that has not been peer-reviewed. Its research and writing were carried out by an AI system (Claude Code) under one human author, and its scope audit and reproduction were made by AI agents with no part in the work; no research team independent of the author has reviewed or replicated it. Treat it as a lead to check, not an established finding.
 
 A yes/no checklist written from a reference answer mostly asks whether expected content is present, so content that is added, whether false or irrelevant, falls outside what it checks. When a false sentence was added to a good short answer, an LLM grader's checklist score fell by 17% of the scale against 47% for a Likert rubric. When a sentence naming the right technical terms without understanding was added to a weak answer, the checklist score rose more (35% against 27%).

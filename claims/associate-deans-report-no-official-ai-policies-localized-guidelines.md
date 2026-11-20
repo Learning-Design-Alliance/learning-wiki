@@ -69,3 +69,4 @@ Qualitative case study based on an 11-question Qualtrics survey of academic lead
 - [LLMs redistributed educational labor while family and institutional rules left parents and professionals responsible for interpreting outputs and deciding how they entered practice](llm-redistributed-labor-rules-leave-interpretation-responsibility.md) — related
 - [No framework, guidelines, policies or regulations have been devised to address the specific ethical issues raised by the use of AI in education](no-aied-ethics-framework-or-policy.md) — related
 - [Faculty perceive support for improving teaching as higher at the local unit level than at the UBC leadership level.](local-unit-support-exceeds-leadership-support.md) — related
+- [Many Hong Kong schools lack specific AI-use guidelines, leaving students uncertain whether AI use is permitted and to what extent](hk-schools-lack-ai-guidelines-student-uncertainty.md) — related

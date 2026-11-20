@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 120 claims (68 for, 42 mixed, 10 against) · 120 studies (34 review, 31 causal, 13 theoretical, 12 qualitative, 11 associational, 10 design, 9 quant-synthesis), `q1`–`q4` · 10 of 120 report an effect size · 115 claims rest on one study
+> **Evidence** · 123 claims (71 for, 42 mixed, 10 against) · 122 studies (34 review, 33 causal, 13 theoretical, 12 qualitative, 11 associational, 10 design, 9 quant-synthesis), `q1`–`q4` · 10 of 122 report an effect size · 118 claims rest on one study
 
 ## Conditional relationship
 
@@ -186,6 +186,9 @@ Claims this page cited that were re-read against the model (on 2026-10-15, and a
 - [The tailored e-module significantly and durably changed experienced GPs’ perceptions of patients with sleep problems](../claims/elearning-durable-change-gp-patient-perceptions.md) [+W] — attached 2026-11-08 from Creupelandt Hanne et al. (2019), which proposed "Tailor e-interventions to target-group characteristics to promote durable behavior change in experienced clinicians"; tests this page's relationship.
 - [The personalized method outperforms the data-quality-weighted FedIRT baseline by at least 5% in most cases](../claims/meta-learning-beats-fedirt-by-5pt.md) [+W] — attached 2026-11-19 from Yun-Wei Chu et al. (2018), which proposed "Do not down-weight underrepresented student subgroups when aggregating student models".
 - [Beginner-level students benefit most from matched question variants, with a 19% relative reduction in ultimate failure rate and a 30% relative reduction in skip rate versus control](../claims/beginners-benefit-most-from-matched-question-variants.md) [+W] — attached 2026-11-19 from Elkins et al. (2022), which proposed "Personalize the linguistic phrasing of tutor questions to student proficiency level"; tests this page's relationship.
+- [Learning-style-based homogeneous grouping with tailored content raises academic success in an e-learning course (17.65 vs 12.60 out of 20)](../claims/learning-style-grouping-raises-academic-success.md) [+W] — attached 2026-11-20 from Mohammadreza Amiri et al. (2022), which proposed "Homogeneous learning-style grouping with per-group tailored content"; tests this page's relationship.
+- [Learning-style-based grouping raises academic satisfaction in an e-learning course (67% vs 37%)](../claims/learning-style-grouping-raises-satisfaction.md) [+W] — attached 2026-11-20 from Mohammadreza Amiri et al. (2022), which proposed "Homogeneous learning-style grouping with per-group tailored content"; tests this page's relationship.
+- [Personalized AI-generated podcasts produced significantly higher test scores than both generalized podcasts and textbook reading in the Philosophy subject](../claims/personalized-podcast-higher-philosophy-test-scores.md) [+W] — attached 2026-11-20 from Tiffany D. Do et al. (2024), which proposed "Personalize AI-generated educational content to learners' interests and majors because it can enhance learning outcomes when the context connects to the learner"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

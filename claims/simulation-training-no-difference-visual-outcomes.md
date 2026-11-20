@@ -47,3 +47,4 @@ Patient-specific visual acuity outcomes for all procedures during the 12-month p
 ## Related Claims
 - [Postoperative best-corrected visual acuity improvement was statistically comparable between experienced and inexperienced surgeons](bcva-improvement-comparable-experienced-inexperienced-surgeons.md) — related
 - [Virtual reality simulation training is associated with safer cataract surgery outcomes than supervised surgical training on actual patients alone](vrs-safer-than-supervised-cataract-training.md) — related
+- [No significant difference in game completion times between groups](gamedevdojo-no-significant-time-difference.md) — related

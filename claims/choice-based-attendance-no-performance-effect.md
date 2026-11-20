@@ -49,3 +49,4 @@ Quasi-experimental comparison of final lecture grade distributions across two se
 - [Introducing case-study-focused PBL unit design improved student feedback ratings, with gains in 2021/22 maintained or further improved in 2022/23](pbl-redesign-improved-blood-science-feedback.md) — related
 - [Engagement with interactive H5P online activities was low relative to formative MCQs, with 30% completion of case study activities and 65% of weekly MCQs in 22/23](h5p-online-engagement-lower-than-mcqs.md) — related
 - [Student retention in the restructured three-component online physics courses ranges from 85% to 99%, exceeding typical in-person retention levels](online-physics-retention-85-99-percent.md) — related
+- [Grade distributions stay similar across semesters, but students in the 70-92 range improve and missing assignments drop significantly under group work](group-work-grade-distribution-and-missing-assignments.md) — related

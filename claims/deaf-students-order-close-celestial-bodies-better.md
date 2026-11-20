@@ -51,3 +51,4 @@ Post-test comparison of two ordering questions in the same single-group study of
 - [Deaf students held alternative conceptions about seasons, attributing them to the Moon's shadow and clouds](deaf-students-alternative-seasons-conceptions.md) — related
 - [Deaf students in a 7-day astronomy project learned between 9 and 13 new astronomy words in sign language](deaf-students-learned-9-13-astronomy-sign-words.md) — related
 - [Splitting one compound question about Earth's rotation and translation into two separate questions raised correct answers from about 10% to about 80%](question-splitting-earth-movements-accuracy.md) — related
+- [Only 35% of Indian grade 9 students correctly order distances from Earth, with students unsure where stars belong in the sequence](india-grade9-astronomical-distance-scale-deficiency.md) — related

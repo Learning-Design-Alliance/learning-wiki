@@ -50,3 +50,5 @@ Interview analysis of mentor-mentee pairs in the remote REU study; the authors r
 - [Mentors and mentees in remote STEM mentoring perceived different sets of challenges: mentees time management and logistics, mentors STEM content delivery and social challenges](remote-mentoring-divergent-challenges-by-role.md) — related
 - [Working from home introduced motivational challenges in remote REU programs](remote-reu-motivational-challenges.md) — related
 - [Remote REU mentees had a hard time accessing the right technologies while working from home](remote-reu-technology-access-challenges.md) — related
+- [REU mentors' expectations for students varied widely, from appropriately scoped projects to tasks mismatched with students' skill levels](reu-mentor-expectations-varied.md) — related
+- [Students new to research did not know how to approach their REU mentors with questions or needs, hindered by the mentor–mentee power dynamic](reu-students-unsure-approaching-mentors.md) — related

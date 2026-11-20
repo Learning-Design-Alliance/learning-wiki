@@ -50,3 +50,4 @@ Prior to testing the FA effect, the study checked control variables in the whole
 - [Chatbot and search engine classes showed no significant baseline differences in science learning ability and knowledge before the intervention](class-level-baseline-equivalence-chatbot-vs-search-engine.md) — related
 - [Mid-term exam scores favored the experimental group (79.8 ± 7.0 vs 71.5 ± 7.3, mean difference 8.3, P < 0.001) with baseline prerequisite scores equivalent between groups](ai-kg-midterm-and-baseline-equivalence.md) — related
 - [Baseline equivalence held between conditions, but both groups scored far below the grade 8 proficiency cut score](assistments-baseline-equivalence-proficiency-gap.md) — related
+- [Treatment and control groups were statistically equivalent at baseline on math scores, gender, and age](rori-study-baseline-equivalence.md) — possibly the same claim (merge candidate)

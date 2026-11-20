@@ -92,13 +92,13 @@ work is done, not that the check is broken.
   catches copying, not prose retyped from memory, so an agent with the private repo
   attached must still treat anything it read there as embargoed unless told otherwise.
 
-- **No LDA research may be drafted here; the first published release is in.**
-  The first published LDA research reached the wiki on 2026-11-20: release
-  `checklist-grading-2026` 1.0.1 (DOI 10.5281/zenodo.24023968), published by the maintainer in
-  learning-research-reports with its protocol, code and audits, and cited here only as a source
-  (three claims and `observations/lazuli-grader-checklist-2026.yaml`, `source_type:
-  platform-experiment`; PR #523). Its governance files live with the release, not in this repo's
-  `research/`, which still holds synthetic scaffolding only. The one real governance file,
+- **No LDA research may be drafted here; published releases are cited as sources.**
+  Published LDA releases (`ai-grader-reliability-2026` and `learning-graph-budget-2026`, PR #441,
+  2026-10-31; `checklist-grading-2026` 1.0.1, DOI 10.5281/zenodo.24023968, PR #523, 2026-11-20)
+  live in learning-research-reports with their protocols, code and audits. The wiki carries their
+  claims and `observations/lazuli-*` records, citing each release by DOI, `source_type:
+  platform-experiment`. Their governance files are not in this repo's `research/`, which still
+  holds synthetic scaffolding only. The one real governance file,
   `lazuli-platform-telemetry` (which forbids publication), **moved on 2026-09-24** to the
   private repo's transplant tree, `Learning-engineering-research:research/wiki/research/
   protocols/lazuli-platform-telemetry/1.0.0.yaml`, byte-for-byte; the mentions of it below

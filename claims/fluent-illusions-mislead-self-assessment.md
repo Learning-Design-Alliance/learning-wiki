@@ -200,3 +200,4 @@ Participants studied words printed in different font sizes for a free-recall tes
 - [Passive exposure such as rereading is ineffective for creating memories, while retrieval practice and deliberate practice of skills support learning; frequent active homework can increase biology performance](active-homework-retrieval-practice-effectiveness.md) — related
 - [Measuring teaching outcomes cautiously is urged because measurements could create illusions about what students actually learn](measuring-teaching-outcomes-illusion-risk.md) — a broader claim this one bears on
 - [Processing fluency directs student attention to the most accessible cues (initial velocity, mass), which combine with associative activation to produce wrong comparisons](processing-fluency-accessible-cues-projectile.md) — related
+- [LLM access increases perceived learning beyond what actual learning differences explain](llms-inflate-perceived-learning.md) — related

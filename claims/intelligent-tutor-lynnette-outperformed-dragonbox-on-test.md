@@ -51,3 +51,4 @@ Narrative review of Long and Aleven's classroom experiment comparing the equatio
 - [Intelligent tutoring systems are reported to improve learning outcomes, especially in structured knowledge domains](its-improve-outcomes-structured-domains.md) — related
 - [Intelligent tutoring systems have been shown to improve upon typical classroom instruction](its-improve-upon-typical-classroom-instruction.md) — a broader claim this one bears on
 - [Students enjoyed KERMIT's adaptability and found it a valuable asset to their learning](kermit-students-enjoyed-adaptability.md) — related
+- [Participants with theoretical knowledge outperformed on knowledge questions but lagged on advanced game levels](gamedevdojo-theoretical-vs-advanced-levels.md) — related

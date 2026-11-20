@@ -52,3 +52,6 @@ Cross-sectional pre-post evaluation of an interdisciplinary medical escape room 
 - [The oral hygiene screening module showed a large pre-to-post knowledge gain (Cohen's d = 1.37)](oral-hygiene-screening-module-knowledge-gain.md) — related
 - [A sepsis-themed educational escape room improved residents' knowledge scores with retention at three months](sepsis-escape-room-resident-knowledge-retention.md) — related
 - [Scores rose from first to second session and from second to third session in one uncontrolled pre-post study; first-to-second d = 0.89 and second-to-third d = 1.07](5cardsgame-score-effect-sizes.md) — related
+- [Statistically significant pre-to-post knowledge score gains were observed in both the escape room and traditional lecture groups](both-interventions-significant-learning-gains.md) — a broader claim this one bears on
+- [Prior escape room research lacks robust effectiveness evidence, with very few controlled or pre-post designs](escape-room-evidence-gap-few-controlled-studies.md) — related
+- [A remote educational escape room for databases produced a statistically significant pre-to-post knowledge increase with a large effect size (r=0.69)](remote-escape-room-database-learning-gains.md) — related

@@ -57,3 +57,4 @@ Descriptive analysis of a modified 18-item UTAUT2 questionnaire completed post-i
 - [All eleven pilot participants recommended curricular integration of VR, and matched self-reported reflections on perceived usefulness shifted from hesitant or uninformed pre-course views to strongly positive post-course views in a single-group pre-post study](vr-pilot-unanimous-curricular-endorsement.md) — related
 - [Participants rate the vENC app positively, with ease of navigation lower and some VR-mode discomfort reported](venc-participant-feedback-acceptable.md) — related
 - [80% of digital-group students strongly endorse the use of digital-human simulation for echocardiography teaching](digital-human-high-acceptance.md) — related
+- [Students perceived improvements in academic reading, writing, presentation, collaboration, and digital literacy skills after the immersive flipped course](immersive-flipped-perceived-learning-outcomes.md) — related

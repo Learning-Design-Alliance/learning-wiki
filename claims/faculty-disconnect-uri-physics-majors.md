@@ -48,3 +48,4 @@ Result from the Lack of Community section of interviews with 11 physics majors: 
 - [Physics majors with a greater number of underrepresented identities encounter more challenges than those with fewer or none](more-uris-more-challenges-physics-majors.md) — related
 - [Eight of nine participants with underrepresented identities reported challenges specifically tied to one or more of their URIs](uri-specific-challenges-physics-majors.md) — related
 - [Living at the intersection of multiple underrepresented identities compounded physics majors' lack of belonging](intersectional-uris-compound-lack-of-belonging.md) — related
+- [Eleven of twelve interviewed students expressed unequivocal confidence they could succeed at their degree and finding a job, and both programs produced positive affective outcomes](positive-self-efficacy-both-quantum-programs.md) — related

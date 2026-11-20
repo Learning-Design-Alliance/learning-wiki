@@ -50,3 +50,4 @@ Theoretical argument in the transfer section, citing transfer literature (e.g., 
 - [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) — related
 - [After learning from the solved isomorphic problem, students could invoke the relevant principles but were often unable to apply them correctly when application details changed](invoke-but-not-apply-principles-isomorphic-transfer.md) — related
 - [Cross-field application of disciplinary knowledge is only explicitly emphasised from second year and foregrounded only in higher degrees](cross-field-application-timing-finding.md) — related
+- [Students apply basis-change knowledge nearly perfectly when explicitly asked but often fail to recognize its applicability when it is an implicit step in another problem](basis-change-explicit-versus-implicit-application.md) — a narrower finding that bears on this claim

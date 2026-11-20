@@ -53,3 +53,4 @@ Qualitative collection of written comments from end-of-semester course evaluatio
 - [Student feedback on the story-writing activity was overwhelmingly negative in both semesters despite high effort](story-writing-negative-feedback.md) — related
 - [All student comments on the course's design elements were positive in final-exam reflections and course evaluations](positive-student-reflections-course-design-elements.md) — a broader claim this one bears on
 - [Students reacted positively to ALPaCA objective-based grading in end-of-semester free-response surveys](alpaca-positive-student-survey-comments.md) — related
+- [Interactive symbol-card Q&A sessions were used to foster active participation in accelerator physics lectures](symbol-card-qa-accelerator-lectures.md) — related

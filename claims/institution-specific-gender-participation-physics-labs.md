@@ -9,6 +9,7 @@ generated:
   at: 2026-11-20
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-20
 sources:
   - id: bilas-paul-2024
     resource: "https://doi.org/10.48550/arXiv.2405.15049"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` SUNY Farmingdale and Valdosta State showed no significant male-female participation differences, while Fairmont State showed a significant difference in time spent on lab tasks. [→ Bilas Paul 2024](#bilas-paul-2024)

@@ -50,6 +50,7 @@ The article's pedagogical principle of proactive knowledge checking instructs Ch
 
 - [Question Answering](question-answering.md)
 - [Interactive Delivery With Questioning](interactive_delivery_with_questioning.md)
+- [Use proactive GenAI agents that guide students through visualisations with pre-defined scaffolding questions and feedback on responses](proactive-genai-scaffolding-questions-strategy.md)
 
 ## Examples
 -

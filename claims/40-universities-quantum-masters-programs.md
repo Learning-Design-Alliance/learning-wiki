@@ -49,3 +49,5 @@ Review of publicly available resources, web searches, journal publications, comm
 - [Educational outcome research for autistic students is geographically concentrated in North America and Europe, with no disciplinary or attendance items from Asia or South America](autism-outcome-research-geographic-concentration.md) — related
 - [The evidence base on anatomy teacher profiles is geographically skewed toward the Americas and toward medicine, limiting generalizability](anatomy-teacher-evidence-geographic-bias.md) — related
 - [Bachelor's-degree job demand is stronger in US/Canada, with regional divergence in degree requirements](bachelors-demand-stronger-us-canada-quantum-jobs.md) — related
+- [A global survey identified 86 Quantum Technology master's programs, with 72.1% of currently running programs established since the start of 2021](86-qt-masters-programs-growth-since-2021.md) — related
+- [QT master's programs are geographically concentrated in Europe (41 programs), with France and Germany hosting the most (9 each), and 32 programs across the United States, United Kingdom, Australia and Canada](qt-masters-geographical-distribution.md) — related

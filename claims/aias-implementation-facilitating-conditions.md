@@ -62,3 +62,4 @@ Theme 2 of the hybrid thematic analysis of five focus groups. Staff reported mar
 - [Culturally and religiously grounded educational contexts function as sensitivity amplifiers revealing conditional dynamics of AI integration](value-based-contexts-sensitivity-amplifiers.md) — related
 - [Australian universities show an escalating trend toward contingent academic appointments and a declining trend in continuing teaching-and-research staff](contingent-academic-employment-trend-australia.md) — related
 - [Educators experienced unrecognised workload and institutional pressure when designing digital teaching resources, undermining maintenance of high standards](educator-workload-unrecognised-digital-resource-design.md) — related
+- [A literature survey indicates limited or no adoption of GenAI by universities, reflecting stakeholder uncertainty](genai-literature-limited-university-adoption.md) — related

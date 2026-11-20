@@ -72,3 +72,4 @@ The same simulation traced for discrimination (Fig. 7) and learner ability (Fig.
 - [Copying occurs on average about 12% of initial submissions nearly independent of ability, while low-ability students guess more than high-ability students](copying-12-percent-guessing-ability-dependent.md) — related
 - [Introducing the learner traits stabilizes item parameter estimates: difficulty divergence is absorbed and more items show positive discrimination](learner-traits-stabilize-item-parameters.md) — related
 - [System accuracy degrades progressively as noise increases, reaching zero accuracy at 98% noise](bci-accuracy-degrades-to-zero-at-98-percent-noise.md) — related
+- [Question difficulty estimates are highly stable across successive years (correlation 0.98) while student ability estimates correlate only moderately (0.54)](difficulty-stable-ability-changes-across-years.md) — related

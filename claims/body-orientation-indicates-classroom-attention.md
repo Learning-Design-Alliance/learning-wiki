@@ -69,3 +69,4 @@ Case analysis of continuous course visualization (Figure 10, case B, minutes 14�
 - [Hard-sample filtering threshold τ = 0.2 and orientation loss weight λ = 0.05 yield the best detection–orientation balance](tau-lambda-ablation-optimal-settings.md) — related
 - [A decoupled prediction head improves orientation estimation over a coupled head across YOLOv5 and YOLOv11 backbones](decoupled-head-improves-orientation-estimation.md) — related
 - [GPT-4V characterizes learners' small-group engagement from seating orientation and suggests improvements](gpt4v-analyzes-learner-engagement.md) — a narrower finding that bears on this claim
+- [Hand-raising can be detected in authentic classroom videos with a view-invariant, occlusion-robust skeleton-based machine learning approach as an indicator of behavioral engagement](skeleton-based-hand-raising-detection-classroom.md) — related

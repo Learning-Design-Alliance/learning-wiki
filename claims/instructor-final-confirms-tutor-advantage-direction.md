@@ -53,3 +53,4 @@ Instructor-administered course assessment on file for all 86 randomized students
 - [Prior GenAI-solution evaluation showed no significant benefit on exam problems structurally aligned with the homework, with the midterm comparison inconclusive due to a floor effect](genai-aligned-exam-null-floor-effect.md) — reports the opposite
 - [Within individuals, adopting the Exam Playbook tracks better subsequent exam performance and dropping it tracks worse](exam-playbook-adopt-drop-intraindividual.md) — related
 - [The three comparison and intervention groups performed about the same on the final exam, with no statistical difference between them](no-final-exam-difference-between-groups.md) — related
+- [Students who adopted GPT-4 showed an estimated positive exam-score benefit (LATE ∆=6.86pp, ES=0.40), not significant after correction](gpt4-adopters-exam-score-late.md) — related

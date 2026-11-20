@@ -48,3 +48,4 @@ Findings section on negative high school experiences reports that "Four out of t
 ## Related Claims
 - [All seven undergraduate women physics majors interviewed recalled negative experiences with their male peers during college](women-physics-majors-negative-male-peer-interactions.md) — related
 - [Interviews with 70 undergraduates suggest that negative perceived recognition from instructors/TAs deteriorated women's physics self-efficacy and interest](instructor-recognition-interviews-self-efficacy-interest.md) — related
+- [In the small liberal arts college department (Study 1), undergraduate women report positive peer camaraderie and accessible, supportive faculty of both genders](study1-supportive-peer-faculty-culture.md) — related

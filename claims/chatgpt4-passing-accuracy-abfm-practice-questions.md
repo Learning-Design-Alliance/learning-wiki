@@ -54,3 +54,4 @@ Observational evaluation of two ChatGPT-4 versions on 300 AAFP Family Medicine B
 - [Large language models achieve a pooled accuracy of 63.69% (95% CI 60.26%-67.06%) in answering dental examination questions](llm-pooled-accuracy-dental-exam-63-69.md) — related
 - [Newer OpenAI LLM versions achieve significantly higher pooled accuracy on biomedical MCQs than earlier versions (GPT‐4o–o1: 90%; GPT‐4: 82%; GPT‐3/3.5: 59%)](openai-llm-accuracy-improves-across-versions-biomedical-mcq.md) — related
 - [ChatGPT-3.5 correctly answered 43.9% of Arabic-language Israeli OBGYN medical licensure exam questions, scoring below 50%](chatgpt-arabic-obgyn-licensure-44-percent.md) — related
+- [GPT-4 answers 65.8% of university assessment questions correctly by majority vote and can produce correct answers for 85.1% of questions with at least one prompting strategy](gpt4-answers-65-8-percent-majority-vote.md) — related

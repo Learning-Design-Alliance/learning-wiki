@@ -56,3 +56,4 @@ Distractor analysis of Problem 13 responses on the multiple-choice test; intervi
 - [Students incorrectly claim that a non-conducting charged object shields its interior from the electric field due to external charges](nonconductor-shielding-misconception.md) — related
 - [After traditional instruction, only about 35% of students found the electric field direction at point A and only 14% at point B on a pre-test combining a line charge and charged cylinder](pretest-direction-line-cylinder-low-success.md) — related
 - [Many students, especially in the comparison group, wrongly assume the electric field is zero outside an arrangement of three parallel charged infinite sheets](zero-field-outside-sheets-overgeneralization.md) — related
+- [The most challenging EM concepts for upper-level students are shielding, electric field-potential connection, magnetic force on a charge, and Faraday's law/Lenz's law](four-most-challenging-em-concepts-upper-level.md) — related

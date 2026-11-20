@@ -49,3 +49,4 @@ Theoretical argument in the Language section: the author contends no AI system t
 - [LLM output can be misleading or erroneous because a stochastic element in text generation sometimes selects less likely continuations, so it requires continuous supervision and critical evaluation by domain experts.](llm-stochastic-output-requires-domain-expertise.md) — related
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
 - The article argues moving toward distributed systems is an existential necessity for academic AIED research — related
+- [Deployed LLM-based systems risk overreliance because users may anthropomorphize conversational agents](anthropomorphization-overreliance-deployed-llms.md) — related

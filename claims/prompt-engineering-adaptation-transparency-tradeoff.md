@@ -56,3 +56,5 @@ Theoretical design argument from the paper's discussion section (§9.2), not an 
 - [A 4-bit quantized 27B local Teacher LLM generated knowledge in the required format, suggesting accessible-resource implementations may be feasible](quantized-local-teacher-llm-feasible.md) — a narrower finding that bears on this claim
 - [Delimiting Untrusted Learner Text Largely Blocked Authority-Claim Injection on One Model](delimiting-untrusted-learner-text-defeats-authority-claim-injection.md) — related
 - [The best-scoring prompt-engineered approaches did not match the fine-tuned models on emotion detection and Gibbs cycle tasks](papagai-finetuned-outperforms-gpt3-davinci.md) — related
+- [Catastrophic forgetting is prevalent when fine-tuning LLMs, risking loss of general knowledge in customized educational models](catastrophic-forgetting-llm-fine-tuning.md) — related
+- [Prompt customization introduces at least three types of prompting bias: majority label, recency, and common token bias](prompting-bias-three-types.md) — related

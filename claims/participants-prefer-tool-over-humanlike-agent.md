@@ -51,3 +51,4 @@ When asked directly whether humanlikeness should be a goal (§5.3.3), participan
 - [Different humanlike design dimensions cue distinct classes of anthropomorphism inferences](design-dimensions-cue-distinct-attribution-classes.md) — a broader claim this one bears on
 - [A conceptual framework paper reports, citing a meta-analysis (Roesler et al., 2021), that anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations](anthropomorphism-benefits-vary-by-context.md) — a broader claim this one bears on
 - [Students warn that overly perfect, anthropomorphic PA communication can be unsettling and produce uncanny valley effects](pa-anthropomorphism-uncanny-valley-caution.md) — related
+- [Personalized feedback from anthropomorphized agents can enhance understanding and retention of information](anthropomorphic-personalized-feedback-retention.md) — related

@@ -76,3 +76,4 @@ Secondary correlational analysis within both the experimental and control groups
 - [Intervention effects on error attitudes do not differ across the three student attitude types](no-differential-effects-student-types.md) — related
 - [Students' perceptions toward the writing process were not correlated with their writing performance in either condition](no-correlation-perceptions-writing-performance.md) — related
 - [Among NMAE-using 2nd–4th graders, intervention condition significantly affected performance across editing, DELV-S DVAR, and writing-task outcomes](dialect-intervention-omnibus-glm-effect.md) — a narrower finding that bears on this claim
+- [Students rated both game-based interventions very positively on motivation, learning usefulness, and organization, with only one significant between-group perception difference](positive-perceptions-both-interventions.md) — related

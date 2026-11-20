@@ -55,3 +55,4 @@ The review reports, citing Chuang et al., a cheating-detection system using time
 - [A webcam-only automatic cheating detector achieved recall of 78.6%, precision of 84.6%, and accuracy of 83.3% in a MOOP experiment](moop-webcam-acd-detection-metrics.md) — related
 - [Machine learning measures of student engagement correlate moderately to highly with manual ratings, but manual ratings better predict self-reported engagement](goldberg-ml-engagement-measurement.md) — related
 - [Fusing pose information from multiple camera views makes the model's pose-related ratings more robust than single-view human judgements, which are limited by participant angle and initial posture.](multiview-fusion-robust-pose-ratings.md) — related
+- [Hand-raising can be detected in authentic classroom videos with a view-invariant, occlusion-robust skeleton-based machine learning approach as an indicator of behavioral engagement](skeleton-based-hand-raising-detection-classroom.md) — related

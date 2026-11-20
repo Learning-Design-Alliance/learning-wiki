@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-17
 evidence_strength: moderate
-newest_evidence: 2011
+newest_evidence: 2012
 sources:
-  - id: murano-2011
+  - id: murano-2012
     resource: "https://doi.org/10.48550/arXiv.1208.3323"
-    title: "Murano, P. & Sethi, T. (2011). Anthropomorphic User Interface Feedback in a Sewing Context and Affordances. International Journal of Advanced Computer Science and Applications, Vol. 2, No. 4. [doi:10.48550/arXiv.1208.3323](https://doi.org/10.48550/arXiv.1208.3323)"
+    title: "Murano, P. & Sethi, T. (2012). Anthropomorphic User Interface Feedback in a Sewing Context and Affordances. International Journal of Advanced Computer Science and Applications, Vol. 2, No. 4. Originally published 2011. [doi:10.48550/arXiv.1208.3323](https://doi.org/10.48550/arXiv.1208.3323)"
     author: "Murano, P. & Sethi, T."
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` For task 2, the anthropomorphic condition rated clarity, satisfaction, and stimulation significantly higher both while going through the tutorial and while carrying out the task, and rated instructions as significantly easier to understand. [→ Murano 2011](#murano-2011)
+`q2 i?` For task 2, the anthropomorphic condition rated clarity, satisfaction, and stimulation significantly higher both while going through the tutorial and while carrying out the task, and rated instructions as significantly easier to understand. [→ Murano 2012](#murano-2012)
 
 ## Evidence
 
-### Murano 2011
+### Murano 2012
 
-Murano, P. & Sethi, T. (2011). Anthropomorphic User Interface Feedback in a Sewing Context and Affordances. International Journal of Advanced Computer Science and Applications, Vol. 2, No. 4. [doi:10.48550/arXiv.1208.3323](https://doi.org/10.48550/arXiv.1208.3323)
+Murano, P. & Sethi, T. (2012). Anthropomorphic User Interface Feedback in a Sewing Context and Affordances. International Journal of Advanced Computer Science and Applications, Vol. 2, No. 4. Originally published 2011. [doi:10.48550/arXiv.1208.3323](https://doi.org/10.48550/arXiv.1208.3323)
 
 `q2 · i?` · `causal · r2`
 
@@ -50,3 +50,4 @@ Subjective responses on a five-point Likert post-experiment questionnaire in the
 - [When cognitive and sensory affordances are not facilitated, errors and task completion time increase significantly, particularly for more difficult tasks, and user perceptions become more negative](unfacilitated-affordances-increase-errors-time-negative-perceptions.md) — related
 - [For the more difficult chain-stitch task, the anthropomorphic condition completed the task significantly faster and viewed the tutorial significantly fewer times than the non-anthropomorphic condition](anthropomorphic-faster-completion-fewer-tutorial-visits-difficult-task.md) — related
 - [Participants in the anthropomorphic condition perceived the overall sewing tasks as significantly easier, perceived the quantity of on-screen information as significantly better, and felt significantly more able to remember the learned stitch](anthropomorphic-perceived-ease-information-retention.md) — related
+- [Personalized feedback from anthropomorphized agents can enhance understanding and retention of information](anthropomorphic-personalized-feedback-retention.md) — related

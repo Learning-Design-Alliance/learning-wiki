@@ -49,3 +49,4 @@ The article's analysis of the evidence-of-student-understanding critical compone
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
 - [A structured feedback-and-reflection cycle (pre-lesson plan review, immediate verbal comments, written feedback, take-up time, and open-ended questioning) supported the mentee's reflective development](structured-feedback-reflection-cycle-mentoring.md) — related
+- [Popular-vote selection of peer-customer projects produced low idea diversity and was replaced by instructor curation](popular-vote-selection-issues.md) — related

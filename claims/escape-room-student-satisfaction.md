@@ -50,3 +50,6 @@ Descriptive statistics (means, SDs) from the 15-item evaluation questionnaire co
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [All participating nursing students evaluated the room of horror as relevant and educational for professional practice and would recommend it to peers](roh-students-rated-format-relevant-educational.md) — related
 - [A research-based escape room was rated 3.7 ± 0.31 out of 5 for overall experience by health professions student participants](morad-escape-overall-experience-rating.md) — related
+- [Students rated the Eurogame escape room concept positively: 80% rated the room concept very important, EPs and the VP system good (80%), motivating (87%), and felt significantly challenged (76%)](eerp-acceptance-ratings.md) — related
+- [Students liked the escape room more than computer lab sessions but only slightly agreed they learned more from it](escape-room-vs-lab-sessions-preference.md) — related
+- [Students held very positive perceptions of the remote database escape room, with 97.6% recommending it and 95.6% wanting similar activities in other courses](remote-escape-room-positive-perceptions.md) — related

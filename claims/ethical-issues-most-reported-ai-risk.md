@@ -103,3 +103,4 @@ Content analysis of risks/limitations across the 18 included studies, coded into
 - [The LLM gave the learner warnings, ethical advice, and feedback on their PFA performance, including psychoeducation](llm-gives-learner-feedback-and-warnings.md) — related
 - [Gender bias in LLM outputs is an emerging ethical concern for nursing education](llm-gender-bias-nursing-education-concern.md) — related
 - [Twitter users' concerns about ChatGPT in education converge on five frequently discussed categories: academic integrity, impact on learning outcomes and skill development, limitation of capabilities, policy and social concerns, and workforce challenges](chatgpt-education-five-concern-categories.md) — related
+- [Learning bias in early warning systems over-identifies African American and Hispanic students as at-risk due to biased disciplinary and attendance data](ews-learning-bias-over-identifies-minority-students.md) — related

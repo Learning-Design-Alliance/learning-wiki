@@ -102,6 +102,7 @@ Video is a delivery medium, not a pedagogy — its effectiveness depends entirel
 - [For online lectures, decide between synchronous streaming and asynchronous delivery, and always post recordings for equity](online-lecture-synchronous-asynchronous-recordings-equity.md)
 - [Use pre-recorded sub-lectures of roughly 10 minutes with interspersed graded assessments, and use synchronous time for active engagement](short-prerecorded-sublectures-interspersed-assessments.md)
 - [Interleave a narrated video with live commentary and Kahoot! quizzes to engage online audiences and surface misconceptions](video-parts-live-commentary-kahoot-online-strategy.md)
+- [Use short (5 to 10 minute) educational videos with conversational narration and visual demonstrations to support learning](short-educational-videos-ipls.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — short narrated screencasts with worked examples, followed by practice exercises; a canonical application of the short-video-plus-practice model

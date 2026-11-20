@@ -69,3 +69,4 @@ Exploratory descriptive subgroup analysis by baseline tertiles (33rd and 67th pe
 - [Patient-rated communication shows no significant change over time and no significant group × time difference in either simulation modality, though a nonsignificant large between-group effect favors the individual group descriptively](sbl-communication-no-change-group-trend.md) — related
 - [Effects of AI-assisted peer teaching are largest for students with low baseline knowledge](ai-assisted-peer-teaching-largest-effect-low-baseline.md) — reports the opposite
 - [The CRI-HT gain difference between baseline subgroups is not statistically significant](aisp-cri-ht-subgroup-gain-not-significant.md) — related
+- [Overall knowledge gains did not differ significantly between SAM and control groups in either study](sam-overall-gains-not-significant.md) — related

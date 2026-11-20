@@ -52,3 +52,4 @@ Focus group discussions with ACoRD project participants (n = 25 across four FGDs
 - [Training and technical assistance is most engaging when it is grounded in clear expectations, designed around recipient needs, developed with ongoing recipient input, accessible, delivered by equipped providers, and framed as a partnership](ta-engagement-six-elements-interviews.md) — a broader claim this one bears on
 - [Online-only course conveyed case-management and organisational competencies but not physical examination or manual skills](online-course-competencies-gained-and-missing-manual-skills.md) — related
 - [Editors broadly agree on expected technical tasks of peer reviewers but differ in the level of depth they expect](agreement-on-technical-tasks-differing-depth.md) — related
+- [REU mentors' expectations for students varied widely, from appropriately scoped projects to tasks mismatched with students' skill levels](reu-mentor-expectations-varied.md) — related

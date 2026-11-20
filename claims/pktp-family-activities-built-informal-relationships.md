@@ -62,3 +62,4 @@ Findings from the developmental evaluation's triangulated survey, interview, foc
 - [Adult family members of included children reported improved expectations, family activities, and social outcomes, with 71% reporting regular best-friend play and visitation](family-quality-of-life-inclusive-placement.md) — related
 - [Action research created opportunities for teachers to become more complete members of their communities of practice](action-research-community-membership.md) — related
 - [Parents' school involvement and perceptions of teacher responsiveness are related to children's academic and social competence in pre-kindergarten](parent-involvement-teacher-responsiveness-prek-competence.md) — related
+- [Students across both programs strongly appreciated face-to-face events with quantum professionals and the communities built within their programs](face-to-face-industry-engagement-appreciation.md) — related

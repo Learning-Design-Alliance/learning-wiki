@@ -6,11 +6,11 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 ## In short
 
-The wiki holds **18,313 distinct studies** behind 81,370 claims. What they add up to (the sections below have the detail):
+The wiki holds **18,419 distinct studies** behind 81,844 claims. What they add up to (the sections below have the detail):
 
 - **Few studies can show a cause.** 31% are experiments or systematic reviews (`q3` or `q4`); only 1% are pre-registered trials or well-powered meta-analyses (`q4`). 59% are quasi-experiments, observational studies or narrative reviews, and 10% are case studies, opinion or theory.
-- **Few print an effect size.** 4,414 of 18,313 studies (24%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
-- **Strong work is not only trials.** 1,962 studies are rated `r3`, done well for their kind; 1,349 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
+- **Few print an effect size.** 4,433 of 18,419 studies (24%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
+- **Strong work is not only trials.** 1,974 studies are rated `r3`, done well for their kind; 1,361 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
 - **Most findings stand alone.** 99% of claims rest on one study; a finding reported once, in one setting, has not been shown to hold elsewhere.
 - **Not all research reaches design.** 79% of studies, and 52% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
 - **Principles and patterns.** Of 224 pages written in the conditional format, 106 have research testing their central relationship, at least in part, and 118 carry a labelled default design because nothing in the wiki tests it. Their citations of claims are 3% strong, 29% moderate and 68% weak, and 53% supporting, 41% conditional and 5% against.
@@ -21,33 +21,33 @@ These figures describe two things at once: what education research has produced,
 
 | | |
 |---|---|
-| Claims | 81,370 |
-| Evidence entries | 95,806 |
-| Distinct studies | 18,313 |
-| Claims resting on one study | 80,621 (99%) |
+| Claims | 81,844 |
+| Evidence entries | 96,364 |
+| Distinct studies | 18,419 |
+| Claims resting on one study | 81,095 (99%) |
 | Claims with no coded evidence | 3 |
-| Studies reporting an effect size | 4,414 of 18,313 (24%) |
+| Studies reporting an effect size | 4,433 of 18,419 (24%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 169 | 3,183 | 2,521 | 433 | 6,306 |
+| causal | 169 | 3,203 | 2,531 | 433 | 6,336 |
 | quant-synthesis | 206 | 387 | 88 | 135 | 816 |
-| review | 340 | 1,049 | 167 | 156 | 1,712 |
-| associational | 238 | 2,395 | 1,344 | 319 | 4,296 |
-| qualitative | 533 | 639 | 108 | 118 | 1,398 |
-| design | 229 | 2,000 | 441 | 67 | 2,737 |
-| theoretical | 247 | 619 | 98 | 83 | 1,047 |
+| review | 341 | 1,053 | 168 | 156 | 1,718 |
+| associational | 238 | 2,401 | 1,353 | 319 | 4,311 |
+| qualitative | 540 | 646 | 108 | 118 | 1,412 |
+| design | 231 | 2,020 | 448 | 70 | 2,769 |
+| theoretical | 249 | 626 | 98 | 83 | 1,056 |
 | not yet coded | | | | | 1 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 1,760 (10%) | 10,865 (59%) | 5,490 (30%) | 198 (1%) |
+| 1,778 (10%) | 10,940 (59%) | 5,503 (30%) | 198 (1%) |
 
-**Studies per claim:** 0: 3, 1: 80,621, 2: 650, 3: 74, 4 or more: 22.
+**Studies per claim:** 0: 3, 1: 81,095, 2: 650, 3: 74, 4 or more: 22.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -105,7 +105,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Process goals lead to better skill acquisition for novices than outcome goals.](claims/process-goals-outperform-outcome-goals-for-novices.md) | 106 pages | 2 | q3 | 0 of 2 |
 | [Worked-example guidance becomes less effective as learner expertise increases.](claims/worked-examples-less-effective-with-expertise.md) | 98 pages | 2 | q3 | 0 of 2 |
 | [In one 37-student classroom experiment, learning scores differ across media combinations …](claims/media-combinations-affect-recall-and-retention.md) | 90 pages | 1 | q3 | 0 of 1 |
-| [In school studies, cooperative and peer-learning methods that reward groups on every …](claims/cooperative-learning-group-rewards-and-individual-accountability.md) | 88 pages | 3 | q2–q3 | 2 of 3 |
+| [In school studies, cooperative and peer-learning methods that reward groups on every …](claims/cooperative-learning-group-rewards-and-individual-accountability.md) | 89 pages | 3 | q2–q3 | 2 of 3 |
 | [Adding relevant pictures or graphics to text improves learning from it, with a small …](claims/dual-coding-improves-learning.md) | 86 pages | 3 | q2–q4 | 1 of 3 |
 | [Interesting but irrelevant details can impair comprehension and transfer, with effects …](claims/seductive-details-effect.md) | 86 pages | 6 | q2–q3 | 1 of 6 |
 | [Building Empathy Improves Intergroup Attitudes](claims/building-empathy-improves-intergroup-attitudes.md) | 80 pages | 3 | q3–q4 | 0 of 3 |
@@ -116,7 +116,7 @@ Of the 39 claims cited from 50 or more pages, **6 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-897 claims are cited both ways.
+900 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -132,7 +132,7 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 | [Praise for intelligence, rather than for effort, after success undermines children's …](claims/feedback-praise-reduces-learning.md) | 5 | 7 | 8 | 3 |
 | [Example-based sequences outperform problem-only practice for novices, and fading support …](claims/worked-examples-with-practice-improve-transfer.md) | 44 | 1 | 8 | 2 |
 | [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 379 | 9 | 5 | 2 |
-| [Fluent Illusions Mislead Self Assessment](claims/fluent-illusions-mislead-self-assessment.md) | 2 | 6 | 5 | 2 |
+| [Fluent Illusions Mislead Self Assessment](claims/fluent-illusions-mislead-self-assessment.md) | 3 | 6 | 5 | 2 |
 | [PS-I effects vary by grade level: negative for 2nd–5th graders and increasing with age](claims/psi-effect-increases-with-grade-level.md) | 1 | 1 | 5 | 1 |
 | [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while …](claims/rewards-undermine-intrinsic-motivation.md) | 11 | 10 | 5 | 5 |
 | [Prompting learners to self-explain improves understanding and problem solving on …](claims/self-explanation-improves-conceptual-understanding.md) | 443 | 25 | 5 | 4 |
@@ -150,14 +150,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 170 | 170 | 35 | 0 |
 | [elements](elements/index.md) | 1,057 | 798 | 2 | 0 |
 | [patterns](patterns/index.md) | 54 | 54 | 38 | 0 |
-| [strategies](strategies/index.md) | 15,946 | 11,656 | 1 | 0 |
+| [strategies](strategies/index.md) | 16,044 | 11,729 | 1 | 0 |
 | [processes](processes/index.md) | 18 | 17 | 14 | 0 |
 | [methods](methods/index.md) | 37 | 22 | 1.5 | 0 |
 | [theories](theories/index.md) | 1,360 | 925 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 75 | 75 | 100 | 0 |
-| [designs](designs/index.md) | 5,076 | 3,505 | 1 | 1 |
-| [products](products/index.md) | 5,211 | 3,708 | 1 | 1 |
-| [research-methods](research-methods/index.md) | 1,341 | 1,043 | 1 | 0 |
+| [designs](designs/index.md) | 5,129 | 3,520 | 1 | 1 |
+| [products](products/index.md) | 5,258 | 3,731 | 1 | 1 |
+| [research-methods](research-methods/index.md) | 1,354 | 1,050 | 1 | 0 |
 
 ## Toward pooled estimates
 

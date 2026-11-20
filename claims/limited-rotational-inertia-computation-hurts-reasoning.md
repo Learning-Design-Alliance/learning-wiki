@@ -49,3 +49,4 @@ The article reports, citing Rimoldini and Singh's study of rotational dynamics c
 - [Honor-class students averaged 71 percent correct on rotational-inertia questions versus 56 percent for the non-honor class](honor-71-percent-versus-non-honor-56-percent-rotational-inertia.md) — related
 - [Upper-level physics majors did not outperform non-honors introductory students on rotational-inertia question 3](physics-majors-no-better-than-intro-on-question-3.md) — related
 - [Students readily perform a wrong surface-element computation that still yields the correct moment of inertia, illustrating why verification must be taught explicitly](wrong-surface-element-right-answer-cone-example.md) — related
+- [Only about a third of first-year engineering students correctly compute moment of inertia in a two-ball system, and around a quarter give reductionist single-variable explanations](moment-of-inertia-first-year-categories.md) — related

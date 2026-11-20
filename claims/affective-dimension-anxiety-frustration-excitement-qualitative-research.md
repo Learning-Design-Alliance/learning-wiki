@@ -58,3 +58,4 @@ Affective-dimension findings from the meta-data-analysis of 25 published article
 - [Students whose anxiety, surprise or enjoyment decreased over the course achieved more positive learning-outcome change than students with stable trajectories in those emotions.](decreasing-emotions-linked-better-learning-gains.md) — related
 - [Students receiving feedback report greater concentration and anxiety, while control students report more enjoyment](feedback-concentration-anxiety-tradeoff.md) — related
 - [Students' affective responses to project struggles and successes are complex, making POS emotive scale responses difficult to interpret](complex-affect-complicates-emotive-scales.md) — a narrower finding that bears on this claim
+- [Students perceived the quantum industry as exciting but also associated it with negative emotions such as frustration](student-emotions-about-quantum-industry.md) — related

@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 517 claims (247 for, 240 mixed, 30 against) · 281 studies (136 causal, 62 associational, 34 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 8 design), `q1`–`q4` · 93 of 281 report an effect size · 510 claims rest on one study
+> **Evidence** · 520 claims (249 for, 241 mixed, 30 against) · 282 studies (137 causal, 62 associational, 34 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 8 design), `q1`–`q4` · 94 of 282 report an effect size · 513 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -561,6 +561,9 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [The certainty-correctness relationship varies by ability grouping derived from number correct](../claims/certainty-correctness-varies-by-score-group.md) [~W] — attached 2026-11-09 from Tweed M.J. et al. (2017), which proposed "Certainty, safety and knowledge as independent but intertwined factors in clinical decision-making".
 - [Regulation of metacognition increases significantly over the first academic year](../claims/regulation-metacognition-increases-first-year.md) [+W] — attached 2026-11-09 from Hong Wei Han et al. (2015), which proposed "Two-dimensional model of metacognitive skills: knowledge and regulation".
 - [First-year medical students' knowledge of metacognition shows no significant change over the academic year](../claims/no-change-metacognitive-knowledge-first-year.md) [~W] — attached 2026-11-09 from Hong Wei Han et al. (2015), which proposed "Two-dimensional model of metacognitive skills: knowledge and regulation".
+- [Video assembly instructions raise judgments of learning relative to static diagrams without improving recognition performance (Experiment 1)](../claims/video-instructions-raise-jol-not-learning-exp1.md) [+M] — attached 2026-11-20 from Benjamin A. Clegg et al. (2022), which proposed "Multimedia heuristic account: rich media uniformly inflate perceptions of learning, dissociated from outcomes"; tests this page's relationship.
+- [Across both experiments, richer-format groups reported elevated judgments of learning versus static diagrams, but memory did not differ among any of the four groups](../claims/cross-experiment-jol-elevated-memory-null.md) [+W] — attached 2026-11-20 from Benjamin A. Clegg et al. (2022), which proposed "Multimedia heuristic account: rich media uniformly inflate perceptions of learning, dissociated from outcomes"; tests this page's relationship.
+- [Passive immersive VR viewing produces no advantage over video instructions in judgments of learning or memory (Experiment 2)](../claims/immersive-vr-no-advantage-exp2.md) [~W] — attached 2026-11-20 from Benjamin A. Clegg et al. (2022), which proposed "Multimedia heuristic account: rich media uniformly inflate perceptions of learning, dissociated from outcomes"; tests this page's relationship.
 
 ## The evidence by question
 

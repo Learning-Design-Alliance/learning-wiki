@@ -53,3 +53,4 @@ Vignette stems asking for the next best step in treatment (n=178 of the 342 seco
 - [GPT-4o answered image-based USMLE sample items with 89.5% accuracy versus GPT-4's 73.4%, a numerically higher but not statistically significant difference](gpt4o-89-5-percent-image-usmle-accuracy.md) — related
 - [LLM version progression explains about half of the variance in biomedical MCQ accuracy, with GPT‐4o_o1 over six times as likely as GPT‐3/3.5 to answer correctly](llm-version-meta-regression-explains-accuracy-variance.md) — a broader claim this one bears on
 - [Any type of prompt significantly improved performance for both GPT-3.5 (68% vs 54%, P=.03) and GPT-4 (85% vs 79%, P<.01)](prompts-improve-chatgpt-exam-accuracy.md) — related
+- [GPT-4 reaches a 50% passing threshold in 89% of MCQ-based courses and 77% of open-answer courses](gpt4-passes-majority-of-courses.md) — related

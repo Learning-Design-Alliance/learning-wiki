@@ -57,4 +57,4 @@ This strategy adapts existing multiple-choice or concept-inventory questions by 
 -
 
 ## Key Sources
-- Klymkowsky, M.W. & Cooper, M.M. (2024). The end of multiple choice tests: using AI to enhance assessment. Living preprint. https://arxiv.org/abs/2406.07481
+- Klymkowsky, M.W. & Cooper, M.M. (2024). The end of multiple choice tests: using AI to enhance assessment. Living preprint. https://arxiv.org/abs/2406.07481. [doi:10.48550/arxiv.2406.07481](https://doi.org/10.48550/arxiv.2406.07481)

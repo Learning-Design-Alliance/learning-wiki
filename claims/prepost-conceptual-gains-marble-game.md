@@ -47,3 +47,4 @@ Short-answer pre-post test in Biophysics (Spring 2012, N = 13), with the pretest
 ## Related Claims
 - [Most students transferred the marble game modeling process to derive a novel osmosis model under final exam conditions](osmosis-final-exam-transfer-marble-game.md) — related
 - [The tutor-access learning gain was concentrated in conceptual depth of written answers rather than multiple-choice scores](tutor-gain-concentrated-in-written-reasoning-depth.md) — related
+- [Particle-card sorting and marble-collision statistics activities introduced elementary particles and indirect measurement](particle-card-sorting-marble-statistics.md) — related

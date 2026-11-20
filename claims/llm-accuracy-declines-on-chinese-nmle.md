@@ -50,3 +50,4 @@ Benchmarking evaluation of the same four LLMs on 139 Chinese-language NMLE sampl
 - [GPT-4 and GPT-4o accuracy exceeds the NMLE passing threshold and the typical national pass rate](gpt4-gpt4o-exceed-nmle-passing-threshold.md) — related
 - [All tested LLMs exceeded the NMLE passing threshold yet stayed below 80% accuracy across all units and years](llms-pass-nmle-but-ceiling-below-80-percent.md) — related
 - [GPT-4o and GPT-4 significantly outperform GPT-3.5 and Google Bard on overall accuracy across four medical licensing examinations](gpt4o-gpt4-outperform-gpt35-bard-medical-licensing-exams.md) — related
+- [GPT-4 reaches a 50% passing threshold in 89% of MCQ-based courses and 77% of open-answer courses](gpt4-passes-majority-of-courses.md) — reports the opposite

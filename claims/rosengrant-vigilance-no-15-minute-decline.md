@@ -75,3 +75,4 @@ Minute-by-minute plotting of on-task behavior over whole sessions in the same Ro
 - [Student attention in traditional lectures declines after about ten minutes and is almost fully lost after 15 to 20 minutes (as reported by the review)](lecture-attention-declines-ten-minutes.md) — reports the opposite
 - [Students' concentration reportedly fades after 15-20 minutes during a traditional lecture](concentration-fades-15-20-minutes-traditional-lecture.md) — reports the opposite
 - [Interest values stayed above the average value of 50 throughout teaching, indicating immersion](interest-above-50-indicates-immersion.md) — related
+- [Participant attrition between workshop sessions remained a persistent challenge across both workshop iterations](rai-workshop-attrition-challenge.md) — related

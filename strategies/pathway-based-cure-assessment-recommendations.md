@@ -45,7 +45,8 @@ The report recommends a collective research program: define short-, medium-, and
 - [CUREs develop students' critical thinking, experimental design, and quantitative analysis skills and provide a more inclusive research environment](../claims/cures-develop-skills-inclusive-environment.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Assessment of a computational CURE using research-validated surveys, coursework analysis, and instructor observation](cure-assessment-surveys-strategy.md)
 
 ## Examples
 -

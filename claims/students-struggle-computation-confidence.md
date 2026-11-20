@@ -49,3 +49,4 @@ Theme from the same exploratory interview study of five physics majors after com
 - [After computationally integrated courses, physics students saw computation as a normal and valuable part of physics practice with community-aligned benefits](students-see-computation-normal-valuable.md) — related
 - [Students demonstrate some expectations for computational proficiency that are misaligned with the physics community](student-proficiency-expectations-misaligned.md) — related
 - [Some CURE students experience the discovery nature of CUREs as a struggle that undermines their sense of scientific capability](some-cure-students-struggle-with-discovery-uncertainty.md) — related
+- [The author reports that more experienced students tutor others in the Scientific Computing with Python course, building confidence among less computationally-prepared students](peer-tutoring-mixed-computational-preparation.md) — related

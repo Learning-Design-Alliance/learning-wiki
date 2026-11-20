@@ -52,3 +52,4 @@ Meta-regression of knowledge-related learning from the included RCR studies; the
 - [RCR courses produce a pooled mean effect of g = 0.52, with knowledge (0.64) and behavior (0.69) outcomes showing larger average effects than judgment (0.41)](rcr-training-pooled-main-effects.md) — related
 - [Positive learner attitudes were measured after only one supervised application and may decline with repeated or mandatory use](attitudes-after-one-supervised-use.md) — related
 - [A blend of learning activities works best: students find learning by doing essential but not exclusively experiential learning](blend-of-learning-activities-works-best-qualitative-research.md) — related
+- [Mandatory in-class group work improves students' respect, honesty and fairness toward assignment guidelines and class ethics compared with individual homework](group-work-improves-respect-for-assignment-guidelines.md) — related

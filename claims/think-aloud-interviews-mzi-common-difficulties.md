@@ -62,3 +62,4 @@ Qualitative interview study during QuILT development. Common difficulties includ
 - [Setting up and manipulating optics and taking and analyzing data are the most common student actions in single-photon experiment courses](single-photon-experiment-student-actions.md) — related
 - [Students show inconsistent understanding of the wave nature of particles: about 65% identify electron-wave peaks as probability amplitude but only 35% call the wave nature of a particle a probability wave](inconsistent-probability-wave-understanding.md) — related
 - [Roughly 30% of students report the classical misconception that light needs a medium to travel](light-needs-medium-misconception.md) — related
+- [Students entering the single-photon interferometer experiment predicted that single photons would not interfere with themselves because photons pick a path at a beam splitter](students-predict-single-photons-not-interfere.md) — a narrower finding that bears on this claim

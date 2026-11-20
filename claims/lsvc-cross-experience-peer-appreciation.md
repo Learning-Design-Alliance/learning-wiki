@@ -55,3 +55,4 @@ Inductive qualitative coding of five semi-structured interviews (teachers with 3
 - [All 13 teachers valued exchanging and developing pedagogical ideas and instructional materials with peers in the responsive PD community](peer-pedagogical-sharing-valued-by-all-teachers.md) — related
 - [Teachers across career stages valued the practicality of instructional materials, meaning they could implement activities with few or no modifications](practicality-of-materials-valued-across-career-stages.md) — related
 - [Giving teachers opportunities to design and run PD workshops brought resource-sharing helpful for novice, experienced, and out-of-field teachers](teacher-co-design-workshops-bring-resource-sharing.md) — possibly the same claim (merge candidate)
+- [Students across both programs strongly appreciated face-to-face events with quantum professionals and the communities built within their programs](face-to-face-industry-engagement-appreciation.md) — related

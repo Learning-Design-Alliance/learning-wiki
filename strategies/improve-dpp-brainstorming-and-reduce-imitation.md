@@ -46,6 +46,7 @@ Based on student feedback and the null/negative quantitative results, the author
 ## Related Strategies
 
 - [Apply peer-facilitated learning in online programming courses to improve learning outcomes](apply-peer-facilitated-learning-online-programming.md)
+- [Use structured active learning techniques — think-pair-share, brainstorming, demonstration, and group work — in IPLS teaching](active-learning-techniques-tps-brainstorm-demonstration-groupwork.md)
 
 ## Examples
 -

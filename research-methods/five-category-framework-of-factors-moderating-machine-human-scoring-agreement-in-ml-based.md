@@ -29,4 +29,4 @@ The chapter presents an extended framework, derived from the author's prior lite
 -
 
 ## Key Sources
-- Zhai, X. (2024). AI and Machine Learning for Next Generation Science Assessments. Jiao, H., & Lissitz, R. W. (Eds.). Machine learning, natural language processing and psychometrics. Charlotte, NC: Information Age Publisher. https://arxiv.org/abs/2405.06660v1
+- Zhai, X. (2024). AI and Machine Learning for Next Generation Science Assessments. Jiao, H., & Lissitz, R. W. (Eds.). Machine learning, natural language processing and psychometrics. Charlotte, NC: Information Age Publisher. https://arxiv.org/abs/2405.06660v1. [doi:10.1108/979-8-88730-606-320251011](https://doi.org/10.1108/979-8-88730-606-320251011)

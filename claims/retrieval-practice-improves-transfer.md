@@ -134,3 +134,5 @@ Participants studied prose passages and then either repeatedly restudied them or
 - [The authors hypothesise that the long-menu format encourages retrieval practice that may support mid- and long-term retention](long-menu-encourages-retrieval-practice-hypothesis.md) — related
 - [Retrieval practice produced greater meaningful learning than elaborative concept mapping, including on inference and concept-map final tests (review-reported)](retrieval-practice-beats-concept-mapping.md) — related
 - [Testing improved transfer of knowledge to new domains relative to restudy (review-reported)](testing-promotes-transfer-across-domains.md) — a narrower finding that bears on this claim
+- [Learning from failed quiz attempts appears highly specific to problem format and generally lacks transfer to a new problem context](failed-attempt-learning-lacks-transfer.md) — a narrower finding that bears on this claim
+- [Students with self-identified prior exposure to presentation topics outperform those with none on retention and transfer quiz questions](prior-exposure-predicts-presentation-quiz-performance.md) — related

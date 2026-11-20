@@ -50,3 +50,4 @@ Qualitative analysis of math journals and follow-up group interviews from both g
 - [Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance](gai-dst-interview-six-themes.md) — related
 - [Students' attitudes toward life made gradual progress across the ten weekly themes of the course](gradual-attitude-progress-across-weekly-themes.md) — related
 - [Experimental-group students described literature lessons using the discourse analysis method as enjoyable and confidence-building, reporting increased interest and participation](discourse-analysis-increases-interest-and-participation.md) — related
+- [The Five Design-Sheet method helped students explore alternative ideas and articulate them clearly](fds-explores-alternative-ideas-clearly.md) — related

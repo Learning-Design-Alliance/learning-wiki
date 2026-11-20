@@ -45,6 +45,7 @@ Based on survey feedback, the authors recommend concrete revisions for future it
 ## Related Strategies
 
 - [Collect student feedback via online surveys and act on it: prioritize live video-lectures over posted presentations, manageable task loads, and extended thesis deadlines](strategy-student-suggestions-improve-e-learning.md)
+- [Assessment of a computational CURE using research-validated surveys, coursework analysis, and instructor observation](cure-assessment-surveys-strategy.md)
 
 ## Examples
 -

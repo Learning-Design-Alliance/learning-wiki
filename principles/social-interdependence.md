@@ -153,6 +153,7 @@ Group product quality, individual achievement at the end of a unit, delayed rete
 - [Use structured online peer evaluation to reduce free-riding in cooperative group work](../strategies/peer-evaluation-reduce-free-riding-strategy.md)
 - [Implement cooperative learning through four named practices and a balance of group and individual grades](../strategies/bioled-cooperative-learning-practices.md)
 - [Use matrix grading on team assignments to penalize free-riding and reward carrying the team](../strategies/matrix-grading-team-assignments.md)
+- [Refine group work by adding individual accountability: individual member work, re-implemented roles and rules, self or peer grading, and separated per-meeting tasks](../strategies/group-work-individual-accountability-refinements.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365-379. [https://doi.org/10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

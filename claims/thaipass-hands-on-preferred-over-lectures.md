@@ -47,3 +47,4 @@ Survey responses from the 2019 ThaiPASS summer school comparing enjoyment of lec
 ## Related Claims
 - [Participants in the 2018 ThaiPASS summer school rated the activities overwhelmingly positively, with the galactic chemical evolution sessions the most well received and the Euler method session the worst received.](thaipass-2018-overwhelmingly-positive-feedback.md) — related
 - [The 2019 pre/post surveys suggest ThaiPASS enhanced students' perceptions of the subject material, with post-school responses showing a higher proportion of top scores and overwhelmingly high interest in a STEM career.](thaipass-2019-pre-post-perception-gains.md) — related
+- [Software engineering students hold overwhelmingly positive perceptions of the educational escape room and prefer it over traditional lectures](positive-student-perceptions-escape-room.md) — related

@@ -71,3 +71,5 @@ This is exploratory, proof-of-concept research (the authors' own characterizatio
 - [Science students reported that embodying scientific concepts through choreography deepened their understanding of those concepts](embodied-choreography-deepened-science-concept-understanding.md) — related
 - [A minority of science students reported no learning benefit from teaching concepts through physical movement](some-science-students-no-benefit-from-movement.md) — related
 - [AR movement-sensing software enhanced physics learners' learning attitude and learning result in magnetic field instruction](ar-magnetic-field-learning-attitude-result.md) — related
+- [The article reports that prior studies have demonstrated specific ways to enact culturally relevant pedagogy in teaching physics at the K-12 level, which increased students' interest and improved their attitude toward physics](crp-k12-physics-interest-attitude.md) — related
+- [Role-playing a human synchrotron introduced acceleration concepts through learners embodying cavities and magnets](human-synchrotron-roleplay.md) — a narrower finding that bears on this claim

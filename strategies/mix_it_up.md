@@ -64,6 +64,7 @@ The strategy operationalizes the [intergroup contact](../theories/situated-learn
 - [Jigsaw](../patterns/collaborative-learning.md) — a task structure that makes cross-group interdependence unavoidable
 - [Facilitate online social interaction through small, non-obligatory discussion groups and support teachers to adapt their teaching style](small-non-obligatory-discussion-groups-blended-support.md)
 - [Lower participation barriers with presenter slide sets, discussion questions, and opening personal check-ins](phasrs-barrier-lowering-session-design.md)
+- [Structure class time around interactive group work with rotating group assignments to break down barriers between students of different backgrounds](rotating-group-work-class-structure-strategy.md)
 
 ## Examples
 - **[Mix It Up at Lunch Day](https://www.learningforjustice.org/professional-development/mix-it-up-at-lunch-day)** (Learning for Justice, formerly Teaching Tolerance) — schools assign lunch-table groupings and provide conversation starter cards to break up cafeteria cliques.

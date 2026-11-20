@@ -61,3 +61,4 @@ Manual error coding of GPT-4V's incorrect explanations by three health care prof
 - [Requiring explanations before answers increases the randomness of LLM incorrect answers and the confidence of correct ones](explanations-randomize-incorrect-boost-confidence.md) — related
 - [In a small proof-of-concept study, AI analysis of graduate students' explanations of BCI answers was rapid, informative, and provided actionable feedback on student thinking.](ai-analyzed-explanations-proof-of-concept.md) — related
 - [Across all feedback generation methods tested, most failures occur because the LLM cannot correctly identify the error in the student's incorrect answer, especially when multiple reasoning steps are required.](llm-failure-identifying-student-error.md) — related
+- [The GPT-4 tutor made errors in fewer than 1% of homework questions](gpt4-tutor-low-error-rate.md) — related

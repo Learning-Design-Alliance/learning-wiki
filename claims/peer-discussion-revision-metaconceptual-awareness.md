@@ -51,3 +51,4 @@ Findings section on republic-related metaconceptual processes: interview exchang
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — related
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — a broader claim this one bears on
 - [A gallery feedback activity significantly improved participants' course projects](gallery-poster-feedback-improved-projects.md) — related
+- [The Five Design-Sheet method helped students explore alternative ideas and articulate them clearly](fds-explores-alternative-ideas-clearly.md) — related

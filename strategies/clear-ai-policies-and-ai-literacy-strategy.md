@@ -46,6 +46,7 @@ The authors recommend that doctoral-granting institutions develop "clear and pro
 - [Prepare teachers to use AI expeditiously and provide AI-text detectors for evaluation, alongside updated academic-integrity rules](teacher-ai-preparedness-and-detectors-strategy.md)
 - [Provide AI literacy training, human-AI interaction opportunities, and ethical-use guidelines and policies for instructional designers](ai-literacy-training-ethical-genai-guidelines-ids.md)
 - [Establish transparent ethical guidelines and faculty development for AI use in postgraduate coursework](ethical-ai-integration-guidelines-faculty-development-strategy.md)
+- [Enable phase: update ethics, privacy and academic integrity guidelines, upskill staff and students, and make evaluation GenAI-friendly](genai-enable-phase-guidelines-and-upskilling.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Paired-samples t-test comparing pretest and posttest writing (Trinity ISE) resul
 - [At post-test, the multiple intelligences group significantly outperformed the traditionally instructed control group on the writing test](mi-group-outperformed-control-post-test-writing.md) — related
 - [Portfolio-based instruction improves EFL learners' reading comprehension scores relative to non-portfolio instruction](portfolio-assessment-improves-efl-reading-comprehension.md) — related
 - [Portfolio-based instruction raises EFL learners' motivation in reading comprehension courses](portfolio-assessment-raises-efl-motivation.md) — related
+- [The article argues that a continuous portfolio of practice-related work samples gives a more comprehensive overview of student achievement than point-based assessment by exams and final theses](continuous-portfolio-comprehensive-overview.md) — related

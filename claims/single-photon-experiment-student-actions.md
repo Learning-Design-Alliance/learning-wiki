@@ -71,3 +71,4 @@ Course-type comparison within the same survey (Fig. 3, left panel): "One distinc
 - [Think-aloud interviews with 15 upper-level undergraduate and graduate students identified common difficulties with single-photon MZI concepts](think-aloud-interviews-mzi-common-difficulties.md) — related
 - [Students struggle with wave-particle duality of single photons, treating a photon as a point particle or as split into two photons after BS1](students-treat-single-photon-as-point-particle-mzi.md) — related
 - [Nearly all students were excited by the single-photon experiments, but optical alignment time detracted for some](student-excitement-alignment-detractor.md) — related
+- [Setting up and observing an alignment laser before single-photon measurements helped students internalize wave behavior and translate it to single photons](alignment-laser-scaffold-single-photon-understanding.md) — a narrower finding that bears on this claim

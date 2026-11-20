@@ -13,7 +13,7 @@ generated:
 # Apprentice Learner Architecture
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 4 studies (3 design, 1 causal), `q2` · 0 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 7 claims (5 for, 2 mixed) · 5 studies (4 design, 1 causal), `q2` · 0 of 5 report an effect size · 7 claims rest on one study
 
 ## Description
 A domain-general architecture and authoring framework by MacLellan and Koedinger for creating teachable-agent tutors with learner models that can be trained across diverse instructional domains.
@@ -33,6 +33,8 @@ A domain-general architecture and authoring framework by MacLellan and Koedinger
 - [In SimStudent simulations across three math and science domains, interleaved-order curricula yielded as effective or more effective learning than blocked-order curricula](../claims/simstudent-interleaved-as-or-more-effective.md) [+M]
 - [Simulated learners can match human error rates overall while learning faster and making different kinds of errors than the students they model](../claims/simulated-learners-differ-from-humans-in-error-types.md) [~W] — attached 2026-11-05 from Weitekamp et al. (2020): Apprentice Learner agents compared with 117 students on a fractions tutor
 - [A computational model of learning reproduced the direction of two tutor A/B experiments without human training data, but not students' absolute performance](../claims/computational-learner-model-predicts-tutor-experiment-direction.md) [~W] — attached 2026-11-05 from MacLellan (2025), a preprint
+- [Tuning Apprentice Learner agents to individual students with HyperOpt reduces prediction error relative to a generic baseline on the tutor problems used for tuning](../claims/hyperopt-tuned-agents-lower-error-same-data.md) [+M]
+- [HyperOpt tuning also improves predictions of target students' performance on unseen later problems (temporal cross-validation)](../claims/tuned-agents-better-unseen-data.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -44,3 +46,4 @@ A domain-general architecture and authoring framework by MacLellan and Koedinger
 - Weitekamp, D., Ye, Z., Rachatasumrit, N., Harpstead, E., & Koedinger, K. (2020). Investigating differential error types between human and simulated learners. In Artificial Intelligence in Education (AIED 2020), LNCS 12163, 586-597. https://doi.org/10.1007/978-3-030-52237-7_47
 - MacLellan, C. J. (2025). Model human learners: Computational models to guide instructional design. arXiv preprint arXiv:2502.02456. https://doi.org/10.48550/arXiv.2502.02456
 - Glen Smith, Adit Gupta, and Chris MacLellan. (2024). Apprentice Tutor Builder: A Platform For Users to Create and Personalize Intelligent Tutors. https://arxiv.org/abs/2404.07883
+- Christopher James MacLellan, Kimberly Stowers, Lisa Brady. (2022). Evaluating Alternative Training Interventions Using Personalized Computational Models of Learning. Advances in Cognitive Systems, 10. https://arxiv.org/abs/2408.13684

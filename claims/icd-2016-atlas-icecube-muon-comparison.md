@@ -67,3 +67,4 @@ The same section reports the outcome of comparing large-scale and student data: 
 - International Cosmic Day Event Pattern
 - [Mixing ATLAS and CMS masterclass institutes in the same videoconference confused students, who did not understand the other experiment's terminology and could lose interest](mixing-atlas-cms-institutes-videoconference-confusion.md) — related
 - [About 3300 students from 26 countries participated in the five International Cosmic Days held since 2012](icd-3300-students-26-countries-five-years.md) — related
+- [Learners measured real cosmic-ray muons with a portable detector and reenacted a particle collision](muon-detector-measurement-activity.md) — related

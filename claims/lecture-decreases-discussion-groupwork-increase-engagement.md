@@ -63,3 +63,4 @@ Proportion of class time devoted to group work 0.04 0.01 **"
 - [Students perceived the problem-based fundamental nursing curriculum as predominantly lecture-based despite its problem-based design intention](students-perceived-pbln-as-lecture-based.md) — related
 - [The article argues that traditional teacher-centered lecturing fails to provide interaction and that active engagement is measurably more effective for understanding](traditional-lecture-fails-interaction-active-engagement-more-effective.md) — related
 - [Flipped classroom techniques with video lectures were reported by one teacher to improve engagement and learning outcomes](flipped-classroom-video-lectures-report-improvement.md) — a narrower finding that bears on this claim
+- [Modern physics courses are predominantly lecture-based (74.9%) with low adoption of interactive pedagogical approaches](modern-physics-pedagogy-lecture-dominant-low-interactivity.md) — related

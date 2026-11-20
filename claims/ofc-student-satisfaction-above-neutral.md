@@ -54,3 +54,4 @@ One-sample t-test on a 17-item satisfaction questionnaire (Cronbach's alpha = 0.
 - [Flipped classroom students reported higher satisfaction with the teaching model and course duration and higher learning interest](flipped-classroom-satisfaction-interest-gains.md) — related
 - [Intervention-group students perceived a moderate level of effectiveness of the flipped teaching classroom, rating logical thinking and application of knowledge highest](flipped-teaching-moderate-perceived-effectiveness.md) — related
 - [Educators reported overall satisfaction of 3.44 on a 5-point Likert scale with switching to online mode](educator-satisfaction-e-learning-3-44.md) — related
+- [Students in an immersive flipped online course reported high engagement, with all 25 survey items rated significantly above the scale midpoint](immersive-flipped-course-high-engagement-survey.md) — related

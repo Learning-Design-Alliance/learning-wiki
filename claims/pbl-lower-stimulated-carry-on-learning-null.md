@@ -51,3 +51,4 @@ Same survey (Table 9): the carry-on-learning item showed PBL mean 3.82 vs non-PB
 - [RCL and PBL groups did not differ significantly on drill-and-practice posttest items](rcl-pbl-no-difference-drill-practice.md) — related
 - [Senior secondary students taught Further Mathematics with problem-based learning scored significantly higher on a post-test teacher-made test than students taught with the traditional method](pbl-beats-traditional-method-tmt-further-mathematics.md) — related
 - [Sixth-grade students taught with robotic cooperative learning scored significantly higher on critical-thinking posttest items than students taught with problem-based learning](rcl-critical-thinking-posttest-higher-than-pbl.md) — related
+- [Personalization did not improve Attractiveness ratings, and no significant effects were found on the Stimulation subscale](personalization-no-enjoyment-benefit.md) — related
