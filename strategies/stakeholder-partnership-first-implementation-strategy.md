@@ -57,6 +57,7 @@ The article's concrete recommendation for researchers and practitioners beginnin
 - [Involve attending physicians in simulation-based training and conduct frequent needs analyses to fit training to local context](involve-attendings-sbt-needs-analyses.md)
 - [Integrate staff training into the organisation's own schedule and LMS, simplify the program, and assess home readiness before implementation](integrate-training-organisation-lms-readiness-assessment.md)
 - [Begin spectral assignment by scanning the whole spectrum for repeating patterns, then apply empirical relations and iterate in a bootstrap fashion](scan-for-repeating-patterns-bootstrap-assignment.md)
+- [Sustain a new program through stakeholder feedback structures and active industry partnerships](program-sustainability-feedback-industry-ties.md)
 
 ## Examples
 -

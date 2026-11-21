@@ -70,3 +70,4 @@ Post-hoc pattern of the Age × Abstraction interaction: "no sta­tistically sign
 - [Students were reasonably accurate overall across the nine scored interview questions (M = 6.17, SD = 2.12), with accuracy varying by question type](overall-interview-accuracy-reasonable.md) — related
 - [Ramp task levels are ordered by difficulty: performance declines as the number of variables to set increases](cvs-level-difficulty-ordering.md) — related
 - [Relational reasoning shifts by grade level and object familiarity in students grades 1 to 12](relational-reasoning-varies-by-grade-and-familiarity.md) — related
+- [Concreteness fading activity equalized vector knowledge across age groups: pre-test differences between Year 10 and Year 12 disappeared at post-test](concreteness-fading-equalizes-age-groups-vector.md) — related

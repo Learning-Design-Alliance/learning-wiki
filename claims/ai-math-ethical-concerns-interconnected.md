@@ -103,3 +103,5 @@ Review synthesis on the digital access gap [S21, G26]: without measures to broad
 - [Workplace-based assessment and recruitment are perceived as vulnerable to bias, whereas Royal College examinations are typically perceived as more rigorous and fair](assessment-recruitment-bias-perceptions.md) — related
 - [Unequal access to stylus-enabled writing devices within a group slowed online collaborative discussions](device-inequality-slows-online-group-discussions.md) — related
 - [AI use in classrooms carries confabulation, bias, privacy, and instructional risks that require active management](four-classroom-ai-risks.md) — possibly the same claim (merge candidate)
+- [Educators proactively raise that LLM-based edtech could exacerbate systemic inequality through differentially bearable costs](educators-concern-systemic-inequality.md) — related
+- [Many tutoring-system studies collect extensive student data but lack thorough examination of how sensitive information is managed and protected](tutoring-systems-data-privacy-gap.md) — related

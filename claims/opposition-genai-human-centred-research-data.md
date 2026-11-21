@@ -56,3 +56,4 @@ RQ2 theme on human-centred research data: the focus-group analysis reports "stro
 - [Faculty members and students identify both user-related and algorithm-related ethical risks in AI use in education](user-and-algorithm-related-ethical-risks-ai-education.md) — related
 - [IDs raised data security, privacy, authorship, ownership, and plagiarism concerns, noting a lack of guidelines and policies for ethical GenAI use](genai-data-security-authorship-policy-gaps.md) — possibly the same claim (merge candidate)
 - [Multi-platform comparison without exchanging data addresses privacy and data security concerns](multi-platform-comparison-avoids-data-exchange-privacy.md) — related
+- [Many tutoring-system studies collect extensive student data but lack thorough examination of how sensitive information is managed and protected](tutoring-systems-data-privacy-gap.md) — related

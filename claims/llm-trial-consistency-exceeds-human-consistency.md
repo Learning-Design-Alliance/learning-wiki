@@ -54,3 +54,4 @@ Consistency analysis using the mean upper-triangle Pearson correlation across tr
 - [Human review of GPT-4's explanations reduced overall accuracy from 43.9% to 40.3% and 39.1%, driven mainly by LOTS and recall questions](human-curation-lowered-gpt4-accuracy-lots-recall.md) — related
 - [GPT-4o–based multiagent framework achieved the highest factual consistency score of 0.769](gpt4o-highest-factual-consistency-0-769.md) — related
 - [Most GPT-4 errors on TCM examination questions stemmed from misunderstanding of TCM concepts (55.3%), not misreading questions](gpt4-tcm-errors-concept-misunderstanding-55-3.md) — related
+- [Gains in explaining engagement mechanisms were smaller: advanced reasoning rose from 0.55% to 9.42% and incorrect answers fell from 22.40% to 13.09%](engagement-explanations-weaker-gains.md) — related

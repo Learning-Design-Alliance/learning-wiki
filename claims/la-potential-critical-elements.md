@@ -50,3 +50,4 @@ Survey of 45 participants ranking importance of elements on a 5-Likert scale fou
 - [European HE institutions perceive LA primarily as a tool to enhance teaching and institutional management, with teaching and support staff as main users](la-perceived-teaching-management-tool.md) — related
 - [Privacy and data protection was a critical governance theme, raised by over half the expert panel](privacy-data-protection-genai-governance-theme.md) — related
 - [Teaching staff distrusted third parties in LA on privacy and ethics, centring on data sharing and ownership](third-party-privacy-ethics-distrust.md) — related
+- [Many tutoring-system studies collect extensive student data but lack thorough examination of how sensitive information is managed and protected](tutoring-systems-data-privacy-gap.md) — related

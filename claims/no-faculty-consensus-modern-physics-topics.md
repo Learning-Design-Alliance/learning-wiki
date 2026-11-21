@@ -77,3 +77,4 @@ Some faculty listed measurement as among the most important concepts while sever
 - [Physics teaching is described as stuck in outdated pre-20th-century content, and barriers to including Modern and Contemporary Physics are multiple and interacting](mcp-teaching-outdated-content-barriers.md) — related
 - [Introductory physics classes essentially ignore modern physics, and textbooks contain mostly 18th- and 19th-century concepts](introductory-physics-classes-ignore-modern-physics.md) — related
 - [Research-intensive programs have largely converged on a set of modern physics topics without a community conversation or consensus](modern-physics-curricular-variability-no-consensus.md) — related
+- [Third-year students provided definitions more aligned with contemporary physics than other grades](lower-grade-students-contemporary-physics-definitions.md) — related

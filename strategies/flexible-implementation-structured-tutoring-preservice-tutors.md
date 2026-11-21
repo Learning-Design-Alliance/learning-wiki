@@ -39,6 +39,7 @@ The report suggests that schools and districts using a highly structured tutorin
 ## Related Strategies
 
 - [Integrate tutoring into the regular school day rather than scheduling it outside instructional time](integrate-tutoring-into-regular-school-day.md)
+- [Offer adult learners flexible, continuously available tutoring outside traditional work hours](flexible-after-hours-tutor-availability-adults.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Case-study observation from the 2014 Science Fair project at Colégio Pedro II's
 - [Students completed more trials with the simulation program than with real experiments for battery-and-resistor circuits](more-simulation-trials-than-real-experiments.md) — related
 - [High school students using the Every Circuit virtual module scored higher on the post-quiz than the paper-based control group after starting with nearly identical pre-quiz scores](every-circuit-post-quiz-outperformed-control.md) — related
 - [Life-science students enter IPLS courses with salient ideas about energy grounded in chemical bonds and ATP from their biology and chemistry coursework.](ipls-students-incoming-atp-bond-energy-ideas.md) — related
+- [Students built a functional power bank from nine reclaimed Li-ion 18650 batteries connected in series and parallel, delivering an 11 V, 6.6 Ah equivalent battery](metareciclagem-powerbank-9-baterias-11v-6-6ah.md) — related

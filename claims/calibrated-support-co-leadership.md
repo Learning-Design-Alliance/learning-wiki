@@ -129,3 +129,4 @@ Contrast finding from the same reflection analysis: when staff assumed too much 
 - [Managers describe a mutual responsibility between managers and nurses for continued learning](mutual-responsibility-continued-learning-managers-nurses.md) — related
 - [The teacher played a vital role in the session's success by providing guidance, expert comments and a supportive environment](teacher-guidance-vital-holistic-feedback-session.md) — related
 - [In P3 group work, a tutor-identified positive leader progressed from citing prior experience toward facilitative codes such as Creating a Plan and Bought into Group between Week 1 and Week 4](natasha-leader-progression-toward-facilitation.md) — a narrower finding that bears on this claim
+- [During the activity students improved group communication, exercised creativity in problem-solving, and took ownership of the collective investigative process.](nos-activity-communication-creativity-ownership.md) — related

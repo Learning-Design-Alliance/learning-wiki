@@ -87,3 +87,4 @@ Interrater reliability analysis on an out-of-sample comparison dataset of 134 do
 - [SRL behaviors can be reliably hand-coded from out-of-the-box automated think-aloud transcriptions](whisper-transcripts-srl-coding-feasibility.md) — related
 - [Cross-validation yielded higher machine-human agreement than self- and split-validation approaches in ML-based science assessment](cross-validation-yields-higher-mha.md) — related
 - [NLP topic modeling (BERTopic) cross-validates human coding of syllabi but misses rare topics, creating an equity-relevant bias](bertopic-cross-validation-human-coding-syllabi-bias-rare-topics.md) — a narrower finding that bears on this claim
+- [A fine-tuned BERT encoder achieves the best agreement with human coding (AUROC 0.916) among three encoder variants on held-out student responses to the same four problems](bert-finetuned-best-auroc-sensemaking.md) — related

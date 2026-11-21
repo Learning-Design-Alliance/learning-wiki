@@ -53,3 +53,4 @@ Narrative synthesis of 11 faculty perception studies within the review's Results
 - [The most frequently cited ethical concerns about GenAI in research were hallucinated facts, fabricated references, and misleading content](hallucinated-facts-fabricated-references-top-concerns.md) — related
 - [Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks](students-view-llms-useful-but-requiring-critical-use.md) — related
 - [Potential negative consequences of LLM use in nursing education include academic integrity concerns, inaccurate output, bias, and over-reliance](llm-nursing-education-negative-consequences.md) — related
+- [Educators proactively raise concerns that LLMs could inhibit student learning, especially critical thinking, and most respond by limiting classroom LLM use](educators-concern-llms-inhibit-student-learning.md) — related

@@ -49,3 +49,4 @@ The article reports, citing Kononowicz et al., the result of a systematic review
 - [The review reports SBME yields positive outcomes across oncology subspecialties, including communication skills, chemotherapy safety, and radiation oncology competencies](sbme-positive-outcomes-oncology-subspecialties.md) — related
 - [Seventh-grade pupils taught chemical content with a virtual laboratory acquired more knowledge than pupils taught without dynamic visualization](virtual-laboratory-improves-chemical-knowledge-acquisition.md) — related
 - [VPS engagement is judged more useful for learning clinical reasoning than for acquiring medical knowledge](vps-more-useful-for-reasoning-than-knowledge.md) — related
+- [A review of 50 empirical studies found virtual laboratory learning outcomes equal or better than traditional labs](virtual-labs-outcomes-equal-or-better-50-study-review.md) — related

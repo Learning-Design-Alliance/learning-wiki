@@ -49,6 +49,7 @@ The article introduces AI concepts to young children who are still learning to r
 - [Use a phased unplugged-to-plugged progression to build girls' CT confidence before introducing digital tools](phased-unplugged-to-plugged-progression.md)
 - [Introduce practical life materials into non-Montessori classrooms to support fine motor skills and attention](introduce-practical-life-materials-non-montessori.md)
 - [Analogies](analogies.md)
+- [Introduce LLM concepts through hands-on Python activities that progress from simple examples to increasing complexity with physics-related tasks](hands-on-python-llm-introduction-strategy.md)
 
 ## Examples
 -

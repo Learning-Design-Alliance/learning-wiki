@@ -191,3 +191,4 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Students reported that hands-on quantum programming labs improved hands-on skills and understanding of the rationale behind experiments](positive-student-feedback-quantum-labs.md) — related
 - [Students held generally positive views about integrating computation into the physics laboratory course and maintained them throughout the intervention](positive-student-attitudes-computation-integration.md) — related
 - [Students reported largely positive attitudes toward the ISLE-iOLab lab modules, with 61% rating the activities fun and interesting](positive-student-reception-isle-iolab-modules.md) — related
+- [Students evaluated the remote experimental model positively, reporting improved understanding, motivation, and self-directed learning, while noting time cost, resource limitations, and video quality issues](student-evaluation-remote-model-strengths-weaknesses.md) — related

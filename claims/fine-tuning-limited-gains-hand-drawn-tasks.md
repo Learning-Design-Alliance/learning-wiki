@@ -53,3 +53,4 @@ Main-results analysis across dataset types: DSCraft contains hand-drawn renderin
 - [All evaluated models struggle with spatial reasoning and precise visual replication on Turtle Graphics tasks](vlms-struggle-spatial-reasoning-visual-precision.md) — related
 - [Fine-tuning is associated with more compact generated code, with the fine-tuned Qwen2-VL-72B maintaining a length ratio near 1.0 while the base model's failed outputs become substantially longer](fine-tuning-compact-code-length-ratio.md) — related
 - [Pre-training on synthetic data before fine-tuning on limited real data improves math operation classification accuracy, with the largest gains when real data is extremely limited](synthetic-pretraining-finetuning-limited-real-data.md) — related
+- [A DeBERTa agent fine-tuned on LLM-generated synthetic data achieved a MAP@3 of 0.936 on a synthetic test set, up from 0.532 for DeBERTa alone](synthetic-data-finetuned-deberta-map3-0936.md) — related

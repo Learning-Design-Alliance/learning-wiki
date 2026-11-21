@@ -48,3 +48,4 @@ Cross-sectional questionnaire administered to 73 physicians and residents at two
 ## Related Claims
 - [Prior participation in research projects was associated with higher theoretical science scores among Brazilian ENT physicians and residents](research-participation-higher-theory-scores.md) — related
 - [Most surveyed Brazilian ENT physicians and residents had participated in undergraduate research or authored a paper](high-rates-undergraduate-research-participation.md) — related
+- [On the final multiple-choice test after the intervention, 72-90% of students answered each of the four theory questions correctly](final-test-multiple-choice-majority-correct.md) — related

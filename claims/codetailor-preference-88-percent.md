@@ -48,3 +48,5 @@ Preference question in the reflective interview of the within-subjects study; 17
 - [K-12 learners preferred incremental hints and multiple attempts over immediately revealed solutions](learners-prefer-incremental-hints-over-solutions.md) — related
 - [CodeTailor's personalized Parsons puzzles contain significantly fewer movable blocks than fully movable puzzles built from the same solution](codetailor-puzzles-more-concise.md) — related
 - [CodeTailor generates correct solutions closer to a student's incorrect code than a most common student solution](codetailor-solution-closeness-technical-eval.md) — related
+- [Student perceptions of both puzzle scaffolding and complete solutions were mixed, revealing a trade-off in when to provide what types of support](mixed-perceptions-support-type-tradeoff.md) — related
+- [Novice programmers given personalized Parsons puzzle scaffolding on help requests spend significantly longer practicing write-code problems than those given complete LLM-generated solutions](parsons-scaffolding-longer-practice-time-than-complete-solutions.md) — related

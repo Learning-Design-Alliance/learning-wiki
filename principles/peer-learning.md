@@ -230,6 +230,7 @@ Pair performance, each learner's immediate unaided performance, delayed retentio
 - **Real-time digital peer response**: Learners respond to classmates' work in a shared platform while the task is still revisable.
 - **Two-stage review**: Learners first identify strengths and evidence, then suggest one or two specific next moves.
 - [Simulate the peer-review process for lab reports as part of assessment](../strategies/peer-review-simulation-lab-report-assessment.md)
+- [Make AI peer dialogue more inquisitive: identify the student's misconception first, ask them to elaborate, and let dialogue length be flexible](../strategies/inquisitive-ai-peer-dialogue-strategy.md)
 
 ### Illustrative
 

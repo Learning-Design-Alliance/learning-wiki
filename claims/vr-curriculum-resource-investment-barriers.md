@@ -71,3 +71,4 @@ Theme 3 participant quote on barriers to sharing software programs; others felt 
 - [Missed CVC training opportunities were attributed to time constraints, variable patient volume, and inconsistent access to equipment and funding](cvc-training-opportunities-limited-time-volume-equipment.md) — related
 - [Institutional support and opportunities to teach were identified as key facilitators, while time constraints were the primary barrier to sustained skill application](facilitators-and-barriers-to-sustained-teaching-skills.md) — related
 - [Informatization of higher education institution management faces high costs, missing specialists, and missing links between facilities](informatization-management-problems.md) — related
+- [The authors assert that VR laboratory simulation democratizes learning opportunities at a fraction of the cost](vr-labs-democratize-access-assertion.md) — reports the opposite

@@ -56,3 +56,4 @@ Evaluation (RQ1) of LLM grading of teams' incident-response emails against instr
 - [Students rated regular announcements/e-mail reminders and grading rubrics for all assignments as the most beneficial learner-to-instructor strategies](announcements-rubrics-top-learner-instructor-strategies.md) — related
 - [Some VLMs perform near chance on binary judgments of student correctness, and error-assessment behavior is idiosyncratic across models](binary-correctness-judgments-near-chance.md) — related
 - [Revising the rubric to operationalize pedagogical constructs raises human–machine agreement for openness and depth](rubric-revision-improves-machine-alignment.md) — related
+- [GPT-4o's performance is weaker in Laboratory skills (35.0%), which include strategies for data collection and analysis](gpt4o-subject-category-variation-lab-weakest.md) — related

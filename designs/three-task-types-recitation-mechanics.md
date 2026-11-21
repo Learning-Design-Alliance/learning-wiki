@@ -57,4 +57,4 @@ The course combined three task types on weekly exercise sheets: nine smartphone-
 -
 
 ## Key Sources
-- Lahme, S. Z., Dorsel, D., Heinke, H., Klein, P., Müller, A., Stampfer, C., and Staacks, S. (2025). Recitation tasks revamped? Students’ perceptions of smartphone-based experimental and programming tasks in introductory mechanics. https://arxiv.org/abs/2411.13382
+- Lahme, S. Z., Dorsel, D., Heinke, H., Klein, P., Müller, A., Stampfer, C., and Staacks, S. (2025). Recitation tasks revamped? Students’ perceptions of smartphone-based experimental and programming tasks in introductory mechanics. https://arxiv.org/abs/2411.13382. [doi:10.1103/bwpv-z3xh](https://doi.org/10.1103/bwpv-z3xh)

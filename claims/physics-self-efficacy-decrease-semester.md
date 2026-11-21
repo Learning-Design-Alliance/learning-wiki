@@ -58,3 +58,4 @@ Repeated administration of the Marshman et al. six-question Likert self-efficacy
 - [Female-identifying students started lower on self-efficacy items and saw smaller increases, with the PhIS4 shift barely meeting p < 0.05 and the PhIS5 shift not significant](self-efficacy-gains-smaller-for-female-students.md) — reports the opposite
 - [Women's calculus self-efficacy significantly decreases over the semester while men's shows little change](women-calculus-self-efficacy-decrease.md) — related
 - [Women display larger gains than men on applied calculus questions across a calculus-emphasized introductory physics semester](women-larger-applied-calculus-gains-em-physics.md) — related
+- [Both women's and men's physics self-efficacy and interest scores declined from the beginning to the end of the first algebra-based physics course](self-efficacy-interest-decline-over-physics-1.md) — related

@@ -51,3 +51,4 @@ Moderator analysis across the study's three creativity categories (A creative th
 - [Robotics education significantly boosts creativity of primary and junior secondary students but shows no significant effect on senior secondary students](robotics-creativity-education-level-moderator.md) — related
 - [Robotics education has a significant positive above-moderate effect on student creativity (SMD = 0.576)](robotics-education-above-moderate-creativity-effect.md) — a broader claim this one bears on
 - [Laboratory environments produce a larger creativity effect than ordinary classrooms in robotics education](robotics-creativity-laboratory-vs-classroom.md) — related
+- [The authors report that their reforms improved students' understanding of object-oriented programming and their practical and innovative ability](reforms-improve-oo-understanding-reported.md) — a narrower finding that bears on this claim

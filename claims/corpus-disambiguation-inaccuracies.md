@@ -49,3 +49,4 @@ The authors' qualitative inspection of the disambiguated data for LO3 in the Ill
 - [The disambiguation-enhanced word similarity algorithm produces better results than the baseline Li et al. algorithm for synonym pairs with similar meaning, and comparable results otherwise](disambiguation-word-similarity-better-for-synonyms.md) — related
 - [Contextual diversity — the number of unique documents a word appears in — is more closely associated with adult lexical processing than raw frequency](contextual-diversity-beats-raw-frequency.md) — related
 - [The underlying sentence similarity algorithm achieves Pearson correlations of 0.8753 for word similarity and 0.8794 for sentence similarity against benchmarks](sentence-similarity-benchmark-correlations.md) — related
+- [Skip-Gram captures semantic relationships better than CBOW for low-frequency words such as 'pulsar'](skipgram-better-low-frequency-words.md) — related

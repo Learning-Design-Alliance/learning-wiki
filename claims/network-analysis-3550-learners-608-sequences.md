@@ -47,3 +47,4 @@ The review describes a case study by Ifenthaler et al. (2020) using navigational
 ## Related Claims
 - [Most learners disregarded the system's learning and repetition recommendations, with self-regulated decision-making taking precedence over the suggested path](learners-disregard-g4l-recommendations.md) — related
 - [Even when motivated to distinguish and informed that differences matter, learners in Experiment 1 blocked 68% of their study sequence choices](blocking-persists-despite-motivation-and-instruction.md) — related
+- [The observation-focused lab is teacher-determined at its ends but gives students considerable intermediate freedom with no theoretical comparison, indicating that sequencing-based characterisations of inquiry are insufficient](inquiry-rubric-sequencing-insufficient.md) — related

@@ -90,3 +90,4 @@ The review's RQ2 synthesis reports that when mistakes happen, models "can provid
 - [Self-paced problem-solving simulation projects can facilitate in-depth exploration of course contents (authors' experience)](self-paced-simulation-projects-in-depth-exploration.md) — a narrower finding that bears on this claim
 - [The article argues that traditional STEM ethics courses often fail to produce significant changes in ethical awareness and behavior, motivating humanities-informed curricula](traditional-ethics-courses-limited-behavior-change.md) — related
 - [Retrieved narrative cases enable Drama Manager narrative control when the emerging fabula matches case contexts](cases-enable-drama-manager-intervention.md) — related
+- [The authors report that their reforms improved students' understanding of object-oriented programming and their practical and innovative ability](reforms-improve-oo-understanding-reported.md) — related

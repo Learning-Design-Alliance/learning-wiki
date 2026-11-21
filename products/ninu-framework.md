@@ -30,4 +30,4 @@ A planning and reflection framework developed by a German network for inclusive 
 - [NinU self-study manual with theory overview, examples and exercises for inclusive science lesson planning](ninu-self-study-manual-with-theory-overview-examples-and-exercises-for-inclusive-science-l.md)
 
 ## Key Sources
-- Lenzer, S., Pannullo, L., Nehring, A. & Stinken-Rösner, L. (2024). Towards Scientific Literacy in Inclusive Science Education – A Self-Study Manual to Support Pre- and In-Service Teachers. https://creativecommons.org/licenses/by-sa/4.0/
+- Lenzer, S., Pannullo, L., Nehring, A. & Stinken-Rösner, L. (2024). Towards Scientific Literacy in Inclusive Science Education – A Self-Study Manual to Support Pre- and In-Service Teachers. https://creativecommons.org/licenses/by-sa/4.0/. [doi:10.48550/arxiv.2411.03020](https://doi.org/10.48550/arxiv.2411.03020)

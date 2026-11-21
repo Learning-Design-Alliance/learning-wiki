@@ -64,3 +64,4 @@ Regression analyses in the cross-sectional survey (Table 2). All five Big Five t
 - [Non-cognitive traits (narcissism, aloofness, irrational thinking, conscientiousness, confidence, INVOLVEMENT) predict examination performance, but not Theme C](non-cognitive-traits-predict-exam-outcomes.md) — related
 - [No relationship between students' personality traits and their grades was unveiled, except a marginal negative agreeableness correlation in the first study](personality-traits-no-grade-relationship.md) — reports the opposite
 - [Perceived positive personality factors correlate positively with learning outcomes, strongest for conscientiousness and the dialogue-only model](trait-learning-correlations-dialogue-only-strongest.md) — related
+- [No pre-existing personality, motivation, self-efficacy, or attitude-toward-AI differences distinguished dropouts from completers](no-preexisting-traits-dropout-completer-maic.md) — related

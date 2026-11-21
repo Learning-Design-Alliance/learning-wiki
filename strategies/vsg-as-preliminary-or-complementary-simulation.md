@@ -81,6 +81,7 @@ The authors recommend integrating well-designed VSGs into nursing education as p
 - [Move patient cases from classroom training into the serious game to enhance preparation and enable a shorter blended design](move-cases-to-game-blended-design-strategy.md)
 - [Combine interactive virtual patient preparation with standard hands-on simulation training for procedural skills](vp-blended-preparation-before-skills-training.md)
 - [Move instrument practice onto the Internet with 3D simulation and group discussion](online-3d-instrument-practice-strategy.md)
+- [Design pediatric procedural preparation with interactivity and real-time feedback rather than passive immersion alone](interactive-feedback-procedural-preparation-strategy.md)
 
 ## Examples
 -

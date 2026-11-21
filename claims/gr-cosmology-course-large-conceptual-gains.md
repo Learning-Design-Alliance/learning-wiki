@@ -49,3 +49,4 @@ Pre-post study of 70 students (conceptual test completed by 68) across four coho
 - [The course significantly increases curiosity state (d = 0.46) and shows a small, non-significant increase in self-concept (d = 0.26)](cosmology-course-curiosity-self-concept-gains.md) — related
 - [For physics misconceptions, pre-test dominant wrong answers were overtaken by correct answers after the cosmology course, in one uncontrolled pre-post study](cosmology-course-reduces-misconceptions.md) — a narrower finding that bears on this claim
 - [The course produces no significant change in interest and no change in perceived relevance of science](cosmology-course-no-interest-relevance-change.md) — related
+- [A historical-epistemological teaching-learning sequence on gravitational physics contextualizes contemporary physics and stimulates curiosity and cooperative learning in upper secondary students](tls-historical-epistemological-gravitational-physics.md) — related

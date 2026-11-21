@@ -59,3 +59,4 @@ MANCOVA in the same randomized experiment (N = 91) using five enjoyment items fr
 - [Overall satisfaction with the virtual tour did not differ significantly by participation medium (HMD, Desktop mode, or YouTube)](no-satisfaction-difference-by-medium.md) — related
 - [Passive immersive VR viewing produces no advantage over video instructions in judgments of learning or memory (Experiment 2)](immersive-vr-no-advantage-exp2.md) — related
 - [The VR simulation produced a significantly increased feeling of presence compared with 360-degree NRP video](vr-nrp-higher-presence-than-360-video.md) — related
+- [Immersive VR conditions outperform 2D video on knowledge retention, and Game-VR yields the highest overall preparedness](game-vr-highest-preparedness.md) — related

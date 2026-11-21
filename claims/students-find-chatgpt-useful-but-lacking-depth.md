@@ -64,3 +64,5 @@ Qualitative student comment (S1) on how students generally evaluated ChatGPT's a
 - [ChatGPT feedback significantly improved university students' answer scores in an AR quantum cryptography lab experiment, with a large effect](chatgpt-feedback-improves-ar-quantum-crypto-lab-scores.md) — related
 - [Students without prior ChatGPT experience in physics stated they would use such tools after the lab for short, simple explanations](novice-students-adopt-chatgpt-for-simple-explanations.md) — related
 - [Students expected ChatGPT could serve as a substitute for the teacher in answering conceptual questions during labs](students-see-chatgpt-as-teacher-substitute-conceptual-questions.md) — related
+- [Participants praise the platform's feedback reports for code quality and incremental learning but find them lacking depth and sometimes inconsistent](feedback-reports-praised-lack-depth.md) — related
+- [Students showed no significant overall preference between LLM and TA feedback, preferred LLM feedback on correctly answered questions, and disliked only Nvidia-70B feedback on incorrect answers](students-no-significant-preference-llm-vs-ta-feedback.md) — related

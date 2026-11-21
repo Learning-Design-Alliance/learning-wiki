@@ -44,7 +44,9 @@ The article outlines how educators can adopt collaborative smartphone experiment
 - [Collaborative smartphone pendulum data collected via a web form let students conduct an experiment before the lecture explains the theory, reproducing the expected pendulum behavior](../claims/web-form-flipped-lecture-experiment.md) [+W]
 
 ## Related Strategies
+
 - Phyphox Network Interface
+- [Use the phyphox Arduino/MicroPython libraries so educators and learners with rudimentary programming knowledge can build app-connected experiments](phyphox-libraries-teaching-strategy.md)
 
 ## Examples
 -

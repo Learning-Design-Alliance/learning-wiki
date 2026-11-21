@@ -64,3 +64,4 @@ Randomized controlled trial reported in the review: 40 surgical trainees with fe
 - [Training on the dV-Trainer VR simulator improves dry lab console performance compared with dry lab training alone, in a review-reported resident study](dv-trainer-training-improves-console-performance.md) — related
 - [VR simulator training improves tissue-exercise performance only in trainees with low baseline robotic skills, indicating a need for tailored curricula](vr-training-benefit-limited-to-low-baseline-trainees.md) — reports the opposite
 - [A VR simulator warm-up practice session improves dry lab task performance and reduces errors for both basic and complex robotic skills](vr-warmup-improves-task-performance.md) — reports the opposite
+- [A review of 50 empirical studies found virtual laboratory learning outcomes equal or better than traditional labs](virtual-labs-outcomes-equal-or-better-50-study-review.md) — related

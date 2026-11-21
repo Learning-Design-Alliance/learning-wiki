@@ -55,3 +55,4 @@ Qualitative theme from interview accounts: multiple participants named ego and c
 - [A common lack of respect for the learning activity negatively influences learning even when the group interacts well](lack-respect-learning-activity-harms-learning.md) — related
 - [Finding the right visual metaphors was key to students interpreting scientific concepts accurately without being too literal](metaphor-finding-key-art-science-interpretation.md) — related
 - [Science and dance students lacked a common disciplinary language but successfully bridged the gap using visuals](visuals-bridged-disciplinary-language-gap.md) — related
+- [Students fluent in C-style structured programming struggle to accept object-oriented ideas when first using an object-oriented language](c-background-blocks-oo-adoption.md) — related

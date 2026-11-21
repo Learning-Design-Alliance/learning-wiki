@@ -72,6 +72,7 @@ Help seeking depends on learners first accurately judging their own comprehensio
 - [Scaffold question formulation and active help-seeking in AI-supported tutoring systems](scaffold-question-formulation-ai-help-seeking.md)
 - [Design AI tutoring behaviors that withhold solutions, prompt recall, and ask critical questions](withhold-answers-prompt-recall-ask-questions.md)
 - [Guide student teachers' AI prompts with a shared three-element structure (context, challenge, requested support) while leaving wording individual](three-element-ai-prompt-structure.md)
+- [Structure teachable-agent dialogue around a five-stage help-seeking process](five-stage-help-seeking-agent-dialogue.md)
 
 ## Examples
 - **Intelligent tutoring systems** (e.g., Carnegie Learning's MATHia, ASSISTments) implement on-demand hint sequences; research on the Geometry Tutor showed that hint quality and learner persistence in using them, not mere availability, determine learning gains.

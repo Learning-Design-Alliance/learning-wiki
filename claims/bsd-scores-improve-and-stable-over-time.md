@@ -50,3 +50,4 @@ Repeated-measures MANOVA on 240 students in an introductory family science cours
 - [Students' self-reported attitudes warmed over time while perceptions of campus difficulty and safety for target-group members worsened](attitude-perception-changes-over-time.md) — related
 - [Students in the Control condition held less positive BSDS attitudes averaged across time than students in the Display and Activity conditions](control-condition-preexisting-less-positive.md) — related
 - [Lecture only, lecture plus seeing peer BSDS responses, and lecture plus the BSDS activity were equally effective at shifting student attitudes](three-teaching-methods-equally-effective.md) — related
+- [Student attitudes toward LLM graders became more positive over the semester, and students strongly felt a manual-review option must remain available](student-attitudes-toward-llm-graders-improved-over-semester.md) — a narrower finding that bears on this claim

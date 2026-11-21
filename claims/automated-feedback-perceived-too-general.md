@@ -54,3 +54,4 @@ Descriptive analysis of the usability questionnaire responses from the 121 stude
 - [Students report that feedback in DPBL is occasionally lacking despite general contentment with tasks](dpbl-feedback-occasionally-lacking.md) — related
 - [On descriptive analytical tasks ChatGPT produced logically structured work but lacked deep contextualization, domain-specific insights, and visual elements](chatgpt-descriptive-tasks-generic-outputs.md) — related
 - [Students appreciated e-moderator support (mean 3.4–4.1 of 5) though some found first-module messages too strict](e-moderator-support-appreciated-some-strict-messages.md) — related
+- [Participants praise the platform's feedback reports for code quality and incremental learning but find them lacking depth and sometimes inconsistent](feedback-reports-praised-lack-depth.md) — related

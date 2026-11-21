@@ -52,3 +52,4 @@ Teaching-program moderator analysis within the meta-analysis; the article report
 - [Gamified educational robots increase creativity in a STEM curriculum](gamified-robots-increase-stem-creativity.md) — a narrower finding that bears on this claim
 - [All 23 experimental group students demonstrated the desire and ability to realize innovative approaches](experimental-group-innovative-approaches.md) — related
 - [The authors report that first-year students in the CDIO-ILB showed professional skills such as project and time management, critical thinking, creativity, and innovation](cdio-ilb-first-year-professional-skills-observation.md) — a narrower finding that bears on this claim
+- [The authors report that their reforms improved students' understanding of object-oriented programming and their practical and innovative ability](reforms-improve-oo-understanding-reported.md) — related

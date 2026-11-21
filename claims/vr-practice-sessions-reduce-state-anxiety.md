@@ -50,3 +50,4 @@ This evidence comes from the study's first reported finding, a within-condition 
 - [Immediate task repetition benefits oral performance, including fluency, self-correction and reduced anxiety](immediate-repetition-benefits-oral-performance.md) — a broader claim this one bears on
 - [State math anxiety decreases across repeated measurement points during the arithmetic task, consistent with habituation](state-math-anxiety-decreases-during-task.md) — a broader claim this one bears on
 - [Second-year medical students improve their intercultural and interprofessional communication performance between first and second run-throughs of MPathic-VR scenarios](mpathic-vr-repeat-runthrough-improvement.md) — related
+- [All four preparation modalities reduced self-reported MRI anxiety, with no significant difference between conditions](all-modalities-reduce-mri-anxiety.md) — related

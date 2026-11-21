@@ -57,3 +57,4 @@ Authors' observational report on end-of-semester final projects, which replaced 
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related
 - [In both TBL formats, tRAT and iSAT scores significantly improve over preceding iRAT scores](tbl-trat-isat-improve-over-irat.md) — related
 - [By the final group project, all students were competent at explaining systems of differential equations in plain language, despite early-semester difficulty.](final-project-ode-plain-language-competence.md) — related
+- [Blue-sky (open-ended, no pre-defined projects) format succeeds in team project conceptualization despite initial participant self-doubt](blue-sky-project-ownership.md) — related

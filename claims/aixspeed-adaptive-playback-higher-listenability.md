@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
-newest_evidence: 2025
+newest_evidence: 2026
 sources:
-  - id: kazuki-kawamura-2025
+  - id: kazuki-kawamura-2026
     resource: "https://doi.org/10.48550/arxiv.2608.08990"
-    title: "Kazuki Kawamura. (2025). AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques. Doctoral dissertation, The University of Tokyo. https://arxiv.org/abs/2608.08990 [doi:10.48550/arxiv.2608.08990](https://doi.org/10.48550/arxiv.2608.08990)"
+    title: "Kazuki Kawamura. (2026). AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques. Doctoral dissertation, The University of Tokyo. https://arxiv.org/abs/2608.08990 Originally published 2025. [doi:10.48550/arxiv.2608.08990](https://doi.org/10.48550/arxiv.2608.08990)"
     author: Kazuki Kawamura
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` In a blind evaluation with 50 participants, speech with phoneme-level speed adjustment received higher mean opinion scores than constant-speed playback matched to the same average speeds. [→ Kazuki Kawamura 2025](#kazuki-kawamura-2025)
+`q2 i?` In a blind evaluation with 50 participants, speech with phoneme-level speed adjustment received higher mean opinion scores than constant-speed playback matched to the same average speeds. [→ Kazuki Kawamura 2026](#kazuki-kawamura-2026)
 
 ## Evidence
 
-### Kazuki Kawamura 2025
+### Kazuki Kawamura 2026
 
-Kazuki Kawamura. (2025). AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques. Doctoral dissertation, The University of Tokyo. https://arxiv.org/abs/2608.08990 [doi:10.48550/arxiv.2608.08990](https://doi.org/10.48550/arxiv.2608.08990)
+Kazuki Kawamura. (2026). AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques. Doctoral dissertation, The University of Tokyo. https://arxiv.org/abs/2608.08990 Originally published 2025. [doi:10.48550/arxiv.2608.08990](https://doi.org/10.48550/arxiv.2608.08990)
 
 `q2 · i?` · `causal · r1`
 
@@ -50,3 +50,4 @@ Blind user evaluation of the AIxSpeed adaptive playback system with 50 participa
 ## Related Claims
 - [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — related
 - [FastPerson video summarization halves viewing time with no significant quiz-score loss versus normal playback](fastperson-halves-viewing-time-no-quiz-loss.md) — related
+- [Learners with low L2 proficiency (under 700 TOEIC) answer comprehension quizzes more correctly with the adaptive playback speed system than without it](system-improves-comprehension-low-proficiency.md) — related

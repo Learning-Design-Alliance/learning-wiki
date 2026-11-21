@@ -69,6 +69,8 @@ The brief recommends that postsecondary leaders develop comprehensive AI usage g
 - [Deploy the predictive model as a mid-semester triage tool with capacity-aligned thresholds, recalibration, non-punitive governance, and bias auditing](mid-semester-triage-deployment-strategy.md)
 - [Stratified human oversight and verification safeguards for clinical LLM deployment, scaled to task risk](stratified-human-oversight-clinical-llm-deployment.md)
 - [Pair the scale with student-facing guidelines and multimedia on ethics, citation, limitations, and privacy](pair-aias-with-student-facing-guidelines.md)
+- [Institutional adoption strategy for ABCD assessments: infrastructure, policy, faculty development, audits, and hybrid human-AI grading](abcd-assessment-institutional-adoption-strategy.md)
+- [Responsible AI measures for tutoring systems: encryption, security audits, access controls, transparency, bias mitigation, and governance oversight](responsible-ai-measures-tutoring-systems.md)
 
 ## Examples
 -

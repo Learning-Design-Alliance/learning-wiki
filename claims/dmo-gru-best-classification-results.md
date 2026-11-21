@@ -52,3 +52,4 @@ Comparative evaluation in the Results section reports the proposed DMO-GRU model
 - [Machine learning methods outperformed logistic regression in classification accuracy across reviewed studies](ml-outperforms-logistic-regression-aied.md) — a broader claim this one bears on
 - [Deep learning models (LSTM, GRU, transformer) achieve high and comparable accuracy (0.90–0.93) on physiological exam-outcome prediction](deep-learning-models-comparable-accuracy-physiological-exam-prediction.md) — related
 - [GRU is the lowest-performing model across both single-task and multi-task competency modeling, likely due to its two gating units versus LSTMs' three](gru-lowest-performing-competency-model.md) — reports the opposite
+- [A hybrid CNN-GRU deep learning model outperforms traditional machine learning and standalone deep models in predicting quiz performance from fNIRS signals](cnn-gru-outperforms-baselines-fnirs-performance-prediction.md) — reports the opposite

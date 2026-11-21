@@ -78,3 +78,4 @@ As the article emphasizes, "all industry leaders spoke about the importance of b
 - [Industry respondents expect entry-level physics-bachelor data scientists to program daily and rate data manipulation, experimental design, statistics, and visualization as essential](industry-survey-entry-level-data-skills.md) — related
 - [Quantum technology systems engineering is a major industrial readiness gap with almost no university programs offering the skill set](qt-systems-engineering-gap.md) — related
 - [Industry reports three fundamental training needs — basic awareness, targeted training and study programs — with group-specific priorities](qt-three-fundamental-training-needs.md) — related
+- [Interviews with industry and students identified required competencies and shaped three guiding principles for a QIS undergraduate program](qis-program-interviews-competencies.md) — related

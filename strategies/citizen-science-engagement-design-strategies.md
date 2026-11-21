@@ -47,6 +47,7 @@ The article's future-research section offers concrete design moves for K-5 citiz
 ## Related Strategies
 
 - [Train citizen scientists in qualitative assessment by supporting three needs: diverse stream experiences, peer discussion, and narrative construction](volunteer-qualitative-assessment-training-needs.md)
+- [Develop citizen science projects that go beyond pattern recognition to provide avenues for further learning and independent thought](citizen-science-beyond-pattern-recognition.md)
 
 ## Examples
 -

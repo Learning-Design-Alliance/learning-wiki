@@ -54,3 +54,4 @@ Multi-turn results across mathematics, physics, and chemistry show metacognitive
 - [No evaluated LLM tutor is reliably safe: every model exceeds 60% harm rate on at least five risk categories in single-turn and six in multi-turn evaluation](no-llm-tutor-reliably-safe-60-percent-harm.md) — related
 - [LLM teaching effectiveness varies substantially across subject domains, strongest where knowledge points apply directly and weakest in physics and chemistry](llm-teaching-effectiveness-varies-by-domain.md) — related
 - [Informational harm is the sole dimension that decreases in multi-turn interaction, dropping from 60.52% to 11.90%](informational-harm-drops-multi-turn.md) — related
+- [Edtech providers actively mitigate technical harms, but the stochastic nature of LLMs prevents guaranteed harm-free outputs](provider-technical-harm-mitigation-stochastic-limit.md) — related

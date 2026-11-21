@@ -53,3 +53,4 @@ The guide's cohort-view section explains that this view shows students who teste
 - [Sample selection bias may have led the study to overestimate language outcomes for adolescents with long-term CI use](ci-study-selection-bias-overestimate.md) — related
 - [Sensitivity analyses restricting to students assessed in all 15 terms reproduced the full-sample between-group comparisons](sensitivity-15-term-subsample-same-comparisons.md) — related
 - [Systematic demographic differences in available fall 2020 assessment data suggest COVID-19 impacts on the most vulnerable students may be underestimated](covid-impact-vulnerable-students-may-be-underestimated.md) — related
+- [E-TRIALS' Get Help button design prevents post-randomization selection bias when analyzing only students who requested support](e-trials-get-help-avoids-selection-bias.md) — related

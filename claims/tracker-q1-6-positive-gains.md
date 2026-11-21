@@ -54,3 +54,4 @@ Item-level analysis of the 8-item pre-posttest for 123 students. The article rep
 - [Application items on higher initial velocity and lower gravitational acceleration showed near-zero and negative gains (Q7 +4%, Q8 -10%)](tracker-q7-q8-application-items-not-improved.md) — related
 - [Tracker video analysis lets students infer kinematics quantities from real video, yielding values consistent with gravitational acceleration](tracker-video-analysis-infers-kinematics-values.md) — related
 - [Teachers addressed graph comprehension consistently at high levels across observed lessons, while covariational reasoning enactment varied widely by lesson](gc-consistent-cov-varied-across-lessons.md) — related
+- [Phenomenographic analysis revealed qualitatively different levels of student understanding, from descriptive recall to causal interpretation to abstract inference](phenomenographic-levels-analogical-reasoning.md) — related

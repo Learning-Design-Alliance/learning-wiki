@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../strategies/citizen-science-beyond-pattern-recognition.md
+---
+
+# Revision history: [strategies/citizen-science-beyond-pattern-recognition](../strategies/citizen-science-beyond-pattern-recognition.md)
+
+### 2026-11-21 · ingest · process:wiki-ingest
+Ingested from arxiv-2501.06538 (Astronomy and Society: The Road Ahead) via eval_harness.py + ingest_extractions.py

@@ -66,3 +66,4 @@ The author projects enrollment of 494 students by 2020-2021, citing "a limited n
 
 ## Related Claims
 - [Tracer study finds RTU astronomy graduates employed within six months, with research and computational skills most valued and oral communication flagged for improvement](rtu-astronomy-tracer-study-employment-skills.md) — related
+- [Online physics BS enrollment at ASU has grown rapidly, reaching 478 students in Spring 2025 versus 178 in-person](asu-online-physics-bs-enrollment-478-vs-178.md) — related

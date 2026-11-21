@@ -83,3 +83,4 @@ Questionnaire with five-point Likert scales and open-text feedback in both user-
 - [GPT-4o sometimes selects correct answers with flawed reasoning and answers inaccuracies in an authoritative tone, risking user overconfidence](llm-flawed-reasoning-authoritative-tone.md) — related
 - [Interviews identify CV creation and review challenges: structure confusion, over-describing of skills, inaccuracies and trust issues](interview-cv-creation-review-challenges.md) — related
 - [Students and faculty both cite personalized learning support as the top benefit and misinformation as the top risk of genAI in STEM education](genai-stem-benefits-risks-perceptions.md) — related
+- [Navigation to source text and images increases perceived trustworthiness of AI responses by enabling verification](mudoc-trustworthiness-navigation.md) — related

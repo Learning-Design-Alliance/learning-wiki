@@ -62,3 +62,4 @@ Null check before hypothesis testing in the 100-student study. The ART ANOVA on 
 - [HNU Adaptive students received significantly more total hints than Control, with no difference in on-demand hints or overall hint justification rate](hnu-adaptive-hint-counts-and-justification.md) — related
 - [Participants requested far fewer ChatGPT hints than manual hints, but this yielded no time savings](fewer-chatgpt-hints-no-time-savings.md) — related
 - [Adaptivity condition shows no significant association with optional verbal interaction with the AI tutor](adaptivity-no-effect-verbal-interaction.md) — related
+- [Chat usage per attempt peaks for medium-difficulty problems and is lowest for hard problems](chat-usage-peaks-medium-lowest-hard.md) — related

@@ -73,3 +73,5 @@ Intent-to-treat estimate from a proctored, in-person randomized experiment (211 
 - [Codex and Baseline groups perform similarly on immediate post-test without AI access](codex-similar-immediate-posttest.md) — reports the opposite
 - [Participants with stronger prior knowledge and writing skill benefit most from AI-assisted active reading, while reading outside one's best field lowers accuracy](prior-knowledge-moderates-ai-learning-benefit.md) — related
 - [Using generative AI for summary writing increases writing quality and productivity relative to unassisted manual writing](ai-writing-quality-productivity-gains.md) — related
+- [In a within-subjects study (N=24), learners using DBox achieved significantly higher correctness scores on unassisted test problems than learners using freely chosen baseline tools](dbox-higher-test-correctness-than-baseline.md) — a narrower finding that bears on this claim
+- [AI-generated summary materials improve reading comprehension, with image summaries raising post-reading test scores by 7.50% over baseline](genai-summary-materials-raise-post-reading-scores.md) — related

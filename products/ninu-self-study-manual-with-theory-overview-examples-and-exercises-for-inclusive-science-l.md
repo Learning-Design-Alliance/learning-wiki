@@ -29,4 +29,4 @@ A self-study manual developed by the NinU network for pre-service and in-service
 - [NinU framework](ninu-framework.md)
 
 ## Key Sources
-- Lenzer, S., Pannullo, L., Nehring, A. & Stinken-Rösner, L. (2024). Towards Scientific Literacy in Inclusive Science Education – A Self-Study Manual to Support Pre- and In-Service Teachers. https://creativecommons.org/licenses/by-sa/4.0/
+- Lenzer, S., Pannullo, L., Nehring, A. & Stinken-Rösner, L. (2024). Towards Scientific Literacy in Inclusive Science Education – A Self-Study Manual to Support Pre- and In-Service Teachers. https://creativecommons.org/licenses/by-sa/4.0/. [doi:10.48550/arxiv.2411.03020](https://doi.org/10.48550/arxiv.2411.03020)

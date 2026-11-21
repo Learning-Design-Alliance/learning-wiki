@@ -53,3 +53,4 @@ Exploratory data analysis plotting course-level and module-level heat maps of pr
 - [For disengaged starters, starting low and failing to improve engagement was consequential, associated with a high probability of early drop-out, though about half improved](disengaged-starters-nonimproving-engagement-dropout.md) — related
 - [Higher e-module engagement clusters had marginally higher final course grades, with significant differences for the Journal Article assignment and Concept Map modules](engagement-final-grade-differences-journal-concept-map.md) — related
 - [Heat-map analysis reveals six individual learning patterns, with mid and late learners comprising about 24% of the class](heat-map-six-learning-patterns.md) — related
+- [Hierarchical clustering of system profiles identified four course-level engagement profiles: early disengagers, stagnating interactors, survived lurkers, and active completers](four-course-engagement-cluster-profiles-maic.md) — related

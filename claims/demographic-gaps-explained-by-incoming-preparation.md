@@ -79,3 +79,4 @@ The comment reports, citing Salehi et al. [1], that college exam scores can be p
 - [Controlling for incoming calculus grades and FCI scores did not reduce URM gaps as a Student Deficit model predicts](preparation-controls-fail-to-explain-urm-gaps.md) — reports the opposite
 - [Practice-study grade gains persist across the range of pre-college math test score, with similar gains in the lowest, intermediate, and highest test-score terciles](study-gains-persistent-across-math-ability-terciles.md) — related
 - [Gender significantly predicted physics course grades once the physics-related course variable was removed, in both linear and logistic models](gender-predicts-physics-course-grades.md) — related
+- [Exam gender gaps that depend on exam stakes indicate that high-stakes exams are not measuring differences in physics knowledge or ability between demographic groups](stakes-gap-invalidates-exam-measure.md) — related

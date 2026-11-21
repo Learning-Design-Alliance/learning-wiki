@@ -13,7 +13,7 @@ generated:
 # Learning-Style Preferences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 79 claims (44 show a difference, 16 mixed, 19 no difference) · 49 studies (24 causal, 9 associational, 7 review, 4 design, 2 qualitative, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 11 of 49 report an effect size · 78 claims rest on one study
+> **Evidence** · 80 claims (45 show a difference, 16 mixed, 19 no difference) · 50 studies (25 causal, 9 associational, 7 review, 4 design, 2 qualitative, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 11 of 50 report an effect size · 79 claims rest on one study
 
 ## Bottom line
 
@@ -117,6 +117,7 @@ Learning-style preferences are learners' reported preferences for one mode or fo
 - [Learning gains from InkSurvey-based formative assessment were achieved by students of all learning styles, not only visual or kinesthetic learners](../claims/inksurvey-gains-across-learning-styles.md) [-M] — an effect differed by reported style in this study; matching to style is not supported overall
 - [Learning style/teaching style congruency is related to academic performance and to student evaluations of the course and instructor, and S–N preference discrepancy appears to contribute to student dissatisfaction](../claims/mbti-congruency-performance-evaluations.md) [+W] — an effect differed by reported style in this study; matching to style is not supported overall
 - [No single MBTI preference combination is best: each learning style has strengths and weaknesses, challenging the reduction of learning potential to a single dimension such as intelligence](../claims/no-best-learning-style-combination.md) [~W] — learners reporting different styles differed here; not a test of matching instruction to style
+- [Learners' divergent learning preferences and cognitive styles shaped their evaluations of adaptive versus structured AI tutor styles](../claims/ai-tutor-style-learning-preference-divergence.md) [+M] — an effect differed by reported style in this study; matching to style is not supported overall
 
 ## The evidence by question
 - *What should the adaptation be based on: responses, or learner styles and preferences?* [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [+S]

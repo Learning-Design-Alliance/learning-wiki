@@ -71,3 +71,4 @@ Results from Workflow 2 (parts-based grading). Switching from 22 rubric items to
 - [Rubric-based and parts-based grading workflows outperform problem-based grading, possibly because GPT-4-32k cannot reliably add numbers](wf1-wf2-outperform-wf3-grading.md) — a broader claim this one bears on
 - [LLMs show discoverability bias: they accurately identify only high-quality open-ended biology responses and miss nuanced misconceptions](llm-discoverability-bias-open-ended-biology-assessment.md) — related
 - [GPT-4 scoring errors clustered on multiple possible answers, unrecognized vocabulary, and missed incorrect or missing answers, while faculty were overly generous graders](gpt4-faculty-error-patterns-oeq-scoring.md) — related
+- [Prompt composition shifts LLM grading bias: rubric-only prompts yield stricter grading, examples-only prompts more lenient grading, and combining both produces the best results](rubric-examples-prompt-variant-balances-grading-bias.md) — related

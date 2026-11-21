@@ -46,6 +46,7 @@ The review's forward-looking pedagogical recommendation is to integrate AI-power
 - [Discourage mental offloading to AI by balancing guidance depth and frequency with application opportunities](discourage-mental-offloading-balance-guidance-application.md)
 - [Scaffolded AI integration with teacher training and reflective tasks to reduce over-reliance](scaffolded-ai-integration-teacher-training-reflective-tasks.md)
 - [Frame learner and automated feedback as complementary rather than conflicting](frame-feedback-sources-as-complementary.md)
+- [Balance AI assistance with human tutoring to optimize learning outcomes](balance-ai-assistance-human-tutoring.md)
 
 ## Examples
 -

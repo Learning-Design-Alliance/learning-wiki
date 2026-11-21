@@ -55,3 +55,4 @@ The review cites prior empirical work by Zhao et al. (2019) showing that facial 
 - [Physical presence of a robotic tutor agent is not significantly related to students' task performance in an emotionally-adaptive ITS](physical-presence-no-task-performance-effect.md) — related
 - [People preferred interacting with a humanoid robot over a comparable on-screen agent and showed less socially undesirable behaviour](robot-preferred-over-screen-agent-less-undesirable-behavior.md) — related
 - [Students warn that overly perfect, anthropomorphic PA communication can be unsettling and produce uncanny valley effects](pa-anthropomorphism-uncanny-valley-caution.md) — related
+- [Latent class profiles differ sharply: computer-based systems are 100% non-anthropomorphic with 90% text-based feedback, while verbal systems are 100% physical-robot interaction and multimodal systems are 80% fully anthropomorphic](lca-class-feature-profiles.md) — related

@@ -44,6 +44,7 @@ The authors recommend that universities strengthen AI technology course introduc
 
 - [Differentiated interventions integrating AI literacy training, psychological capital cultivation, and professional identity reinforcement](differentiated-interventions-ai-literacy-psycap-commitment.md)
 - [Faculty development for GenAI-era teaching innovation should address professional identity, AI literacy, and teaching self-efficacy alongside knowledge](faculty-development-targeting-identity-literacy-and-efficacy.md)
+- [Differentiate GenAI training by students' likely work function and integrate GenAI literacy across courses with faculty development](differentiated-genai-training-by-function.md)
 
 ## Examples
 -

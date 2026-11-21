@@ -50,3 +50,5 @@ The review's application-related challenges section states that "using LLMs in d
 - [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — related
 - [Free-text comments raised fairness concerns about pairing with a weaker partner and technical and organizational issues with the digital format](whisper-exam-fairness-and-digital-format-criticisms.md) — related
+- [Educators proactively raise concerns that LLMs could inhibit student learning, especially critical thinking, and most respond by limiting classroom LLM use](educators-concern-llms-inhibit-student-learning.md) — related
+- [Most edtech providers do not explore harms arising from human-LLM interactions such as academic dishonesty](providers-neglect-human-llm-interaction-harms.md) — related

@@ -43,6 +43,7 @@ The proposed approval method replaces generic assessment with "trabajos finales 
 - [Sustain computational instruction with flipped homework while replacing the faculty-intensive final project with peer review or student videos](sustaining-computational-instruction-strategy.md)
 - [Introduce integral calculus through a practical everyday problem — fairly slicing a watermelon — to motivate students and counter dropout from scientific curricula](everyday-practical-problem-introduction-calculus.md)
 - [Propose a liberal arts course on mathematical modeling for sustainability for students from diverse academic backgrounds](liberal-arts-course-modeling-sustainability.md)
+- [Complex engineering problem mapping questions (P1-P7) in the project report to evidence Washington Accord attributes](cep-mapping-questions-project-report-strategy.md)
 
 ## Examples
 -

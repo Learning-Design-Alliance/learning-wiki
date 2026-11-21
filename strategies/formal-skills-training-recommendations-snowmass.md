@@ -54,6 +54,7 @@ The article recommends that physics programs replace inadequate informal skill a
 - [Present undergraduates a realistic view of particle physics career paths](undergrad-realistic-career-paths.md)
 - [Educators should expose students to accurate depictions of physics careers and underemphasized skills such as interdisciplinary communication and computational problem-solving](accurate-career-depictions-career-decision-strategy.md)
 - [Embed research-community engagement: internships, guest lectures, and conference participation in a master's program](research-community-embedded-masters-program.md)
+- [Sustain a new program through stakeholder feedback structures and active industry partnerships](program-sustainability-feedback-industry-ties.md)
 
 ## Examples
 -

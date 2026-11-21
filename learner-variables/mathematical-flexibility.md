@@ -13,7 +13,7 @@ generated:
 # Mathematical Flexibility
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 25 claims (15 show a difference, 7 mixed, 3 no difference) · 21 studies (13 causal, 4 associational, 2 qualitative, 1 quant-synthesis, 1 review), `q1`–`q4` · 8 of 21 report an effect size · 24 claims rest on one study
+> **Evidence** · 26 claims (16 show a difference, 7 mixed, 3 no difference) · 22 studies (13 causal, 4 associational, 3 qualitative, 1 quant-synthesis, 1 review), `q1`–`q4` · 8 of 22 report an effect size · 25 claims rest on one study
 
 ## Description
 Mathematical flexibility is the ability to keep several representations of a number in mind (a fraction as a shaded region, a decimal, a point on a line) and several ways of solving a problem, and to move among them adaptively, choosing the strategy that suits the problem rather than always using the same one. The Learner Variability Navigator says it helps learners understand concepts more deeply and find solutions more efficiently. It is measured with tasks that test knowledge of multiple strategies for solving equations and judgement of which is most efficient.
@@ -61,6 +61,7 @@ LVN follows it from preschool to grade 10. Its general counterpart is cognitive 
 - [Learning behavior engagement correlates positively with operational skill outcomes, with no significant correlation for flexibility](../claims/engagement-correlates-skill-outcomes.md) [-M] — learners who differ on it differ in outcomes
 - [The authors report role reversal cultivates flexible problem-solving compared with one-way traditional teaching](../claims/role-reversal-flexible-problem-solving-claim.md) [+W] — measured as an outcome of the instruction studied
 - [Correct numeric solutions far more often began by finding an unknown in terms of known quantities (86% vs 50%), while symbolic solutions more often began with equations containing multiple unknowns (32% vs 2%)](../claims/strategy-differences-numeric-symbolic-solutions.md) [+M] — learners who differ on it differ in outcomes
+- [Less successful GR problem-solving strategies lacked integration between mathematical reasoning and physical visualization, with minimal or absent conceptualization and computation](../claims/unsuccessful-strategies-lack-math-physics-integration.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Flexibility in problem solving** (Star & Rittle-Johnson, 2008): Measures students' knowledge of multiple strategies and strategy efficiency in equation solving.

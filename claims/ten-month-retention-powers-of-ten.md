@@ -54,3 +54,4 @@ Retention questionnaire with 22 trial-1 participants ten months after the module
 - [Doubling and halving activities with powers of two raised correct ancestor-counting scores to 85-96% in all three trials](powers-of-two-ancestor-counting-gains.md) — related
 - [In trials that added a dedicated practice activity, post-test use of adding powers of ten for multiplication reached 74% and 90%, against 16% and 10% pre-test, in uncontrolled sequential trials](powers-ten-multiplication-needs-practice.md) — related
 - [After the module, 90% of students described extreme objects spanning atomic to cosmological scales, with narrow-range answers falling to 10%](scale-of-universe-broad-range-gain.md) — related
+- [Before the activity, students knew atomic constituents but most misjudged atomic scale](atom-scale-misconception-46-percent.md) — related

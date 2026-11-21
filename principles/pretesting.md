@@ -38,7 +38,7 @@ sources:
 # Pretesting (Prequestions Before Study)
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (11 for, 20 mixed, 4 against) · 34 studies (19 causal, 5 quant-synthesis, 5 review, 4 theoretical, 1 associational), `q1`–`q4` · 13 of 34 report an effect size · 29 claims rest on one study
+> **Evidence** · 36 claims (11 for, 21 mixed, 4 against) · 35 studies (20 causal, 5 quant-synthesis, 5 review, 4 theoretical, 1 associational), `q1`–`q4` · 13 of 35 report an effect size · 30 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,7 @@ Taken together: for new material studied soon after, a short attempted pretest b
 - [Errorless discrimination training avoids emotional responses and yields more effective transfer](../claims/errorless-discrimination-learning-transfer-advantage.md) [-W], [The usefulness of induction and errorful learning varies with the type of terminal task](../claims/task-type-moderates-induction-error-usefulness.md) [~W] and [Self-discovery through errorful exploration is basically incompatible with error minimization](../claims/self-discovery-incompatible-with-error-minimization.md) [~W]: Glaser's 1966 analysis of errorful learning (pigeon studies, theoretical argument); the older argument against designing for errors, which the pretesting studies, with the answer supplied, do not bear out for verbal material.
 - [Adaptive spaced retrieval practice produced higher end-of-semester posttest performance than learner-directed AI study](../claims/adaptive-retrieval-posttest-retention-advantage.md) [~M] and [Post-baseline practice condition has a significant multivariate effect after adaptive AI-assisted pretesting](../claims/condition-multivariate-effect-posttest-effort.md) [~M]: one study of what follows an AI-assisted adaptive pretest; it compares practice conditions after the pretest, not pretesting against none.
 - [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+M]: the post-study counterpart this design hands over to in later sessions.
+- [Fixed pre-written pretesting and adaptive AI-assisted pretesting produce no significant difference in final test performance on a linear, well-structured computational task](../claims/fixed-vs-ai-pretesting-null-structured-task.md) [~M] — attached 2026-11-21 from Mahir Akgun (2025), which proposed "Align pretesting approach with task cognitive demands: use adaptive AI pretesting for complex exploratory tasks, fixed pretesting suffices for structured computational tasks".
 
 ## Objective and learner-valued goal
 

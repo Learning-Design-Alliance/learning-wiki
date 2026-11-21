@@ -50,3 +50,4 @@ Item-level pre/post E-CLASS analysis in the same 2021/22 cohort. The article rep
 - [Skills-focused courses differed observationally from concepts-focused courses: fewer verification labs, more student agency, more uncertainty quantification and lab notebooks](skills-focused-courses-activity-profile.md) — related
 - [Students' non-expert beliefs about error analysis persist despite high grade importance and regular practice](grade-incentive-and-practice-do-not-fix-error-analysis-beliefs.md) — related
 - [Students and experts sharply disagree on whether the main goal of communicating results is a correctly formatted report](students-experts-disagree-report-formatting-goal.md) — related
+- [The review reports, citing Tufino and Organtini, that integrating Arduino and smartphones into mechanics labs enhanced students' ownership of experimental design and improved modeling and data interpretation skills](smartipl-arduino-mechanics-ownership-modeling.md) — related

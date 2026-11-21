@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 309 claims (226 show a difference, 47 mixed, 36 no difference) · 215 studies (88 causal, 60 associational, 23 review, 20 design, 11 qualitative, 7 quant-synthesis, 6 theoretical), `q1`–`q4` · 53 of 215 report an effect size · 303 claims rest on one study
+> **Evidence** · 311 claims (228 show a difference, 47 mixed, 36 no difference) · 217 studies (89 causal, 61 associational, 23 review, 20 design, 11 qualitative, 7 quant-synthesis, 6 theoretical), `q1`–`q4` · 54 of 217 report an effect size · 305 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -344,6 +344,8 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Changing one's mind was negatively associated with students' interest in the day's topic, with students half as likely to be interested on days they changed their minds](../claims/dsbk-changing-mind-negative-interest-association.md) [+M] — learners who differ on it differ in outcomes
 - [Interest formation differs between astrophysics and biomedical physics: astrophysics interest arises from popular culture and coursework, biomedical physics interest from research and practical experiences](../claims/astrophysics-versus-biomedical-interest-formation-differences.md) [+M] — measured as an outcome of the instruction studied
 - [Popular culture figures and media influenced participants' early astronomy interest and career aspirations](../claims/popular-culture-astronomy-interest.md) [+M] — measured as an outcome of the instruction studied
+- [End-of-course physics interest is predicted mainly by beginning-of-course interest, with smaller contributions from peer interaction and perceived recognition](../claims/post-interest-predicted-by-pre-interest-peer-interaction-recognition.md) [+M] — learners who differ on it differ in outcomes
+- [Learning with AI-generated explanations raises situational interest compared with textbook materials](../claims/ai-explanations-raise-situational-interest.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

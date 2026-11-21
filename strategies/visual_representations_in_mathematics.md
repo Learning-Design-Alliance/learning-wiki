@@ -68,6 +68,7 @@ Visual representations reduce working memory demands by holding intermediate qua
 - [Equip classrooms with visualization software such as CAS and DGS so students construct their own knowledge of hard concepts](cas-visualization-classrooms-for-hard-concepts.md)
 - [Four constructivist pedagogic practices: multiple representations, interconnecting knowledge, extended context, and comparisons/contrasts](constructivist-pedagogic-practices-gerace.md)
 - [Provide specific instruction on drawing diagrams to increase students' use of diagrams in problem solving](specific-diagram-instruction-strategy.md)
+- [Guide students to begin problem solving with qualitative reasoning and a diagram before formal mathematical manipulation](qualitative-first-diagram-before-formal-manipulation-strategy.md)
 
 ## Examples
 - **Singapore Math / Math in Focus** — strip (bar) models are the central representation for word problems across grades K–8; students draw bars to represent known and unknown quantities before writing equations.

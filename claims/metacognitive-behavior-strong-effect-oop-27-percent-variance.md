@@ -9,6 +9,7 @@ generated:
   at: 2026-11-20
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-21
 sources:
   - id: bostjan-bubnic-2024
     resource: "https://doi.org/10.1145/3699538.3699593"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-21 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Metacognitive behavior, measured on-line via prediction and postdiction judgments, had a strong positive effect on programming performance (γ2 = 0.52, p < 0.001), supporting H2. [→ Bostjan Bubnic 2024](#bostjan-bubnic-2024)

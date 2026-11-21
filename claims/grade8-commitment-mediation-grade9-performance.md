@@ -54,3 +54,4 @@ Indirect-effect tests following the first structural equation model (model fit C
 - [Grade-7 parental support for college education, family SES, and youths' educational expectations each directly and positively predict educational achievement in mid-thirties adulthood](grade7-family-individual-factors-direct-adult-achievement.md) — related
 - [Grade-9 educational performance mediates the effect of grade-7 family SES on adult educational achievement, whereas grade-8 academic commitment does not](grade9-performance-mediation-family-ses-adult-achievement.md) — related
 - [A review reports that executive function mediates the link between family SES and middle-school academic achievement](ef-mediation-ses-achievement.md) — related
+- [Participants from homeowner families scored higher in Mathematics, Physics, and English than participants from rented accommodation](housing-status-grade-differences-qpic-cohort.md) — related

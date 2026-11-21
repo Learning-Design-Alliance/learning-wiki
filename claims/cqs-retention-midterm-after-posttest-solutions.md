@@ -46,3 +46,4 @@ Follow-up analysis in in-person class 2 (N = 28, Table IV) of midterm performanc
 
 ## Related Claims
 - [Three weeks after the CQS, in one single-group pre-post study with no comparison group, students in the second in-person class showed no appreciable change in basis-change and translation performance, while question 7 performance rose nearly to full correctness from post-test to midterm](cqs-retention-midterm-three-weeks.md) — related
+- [Student performance rose from pre-test to post-test after implementing the quantum measurement MQS with peer instruction, in one group with no comparison group; questions 2b, 4b, and 4c showed major pre-test-to-post-test changes](mqs-improves-quantum-measurement-posttest.md) — related

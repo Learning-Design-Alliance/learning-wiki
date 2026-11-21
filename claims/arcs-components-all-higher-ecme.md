@@ -71,3 +71,4 @@ satisfaction 40.86±2.71 50.17±7.34 6.51 0.001"
 - [Most students reacted positively to the VR experience and felt it contributed to their learning](vr-positive-student-reactions.md) — related
 - [Achievement groups differ significantly in Attention, Relevance, and Confidence but not Satisfaction on the IMMS](anova-imms-achievement-groups.md) — reports the opposite
 - [Self-rated learning motivation scores across all four ARCS dimensions rose significantly from pre-test to post-test in one uncontrolled pre-post study of Code.org instruction](codeorg-imms-motivation-gains.md) — related
+- [Learning with AI-generated explanations raises sixth-graders' positive-activating emotions compared with textbook materials](ai-explanations-raise-positive-activating-emotions.md) — related

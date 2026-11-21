@@ -52,3 +52,4 @@ Qualitative comparative case study reporting a summary table of ChatGPT-4 versus
 - [ChatGPT-4's teddy bear answer was correct and detailed, addressing the common free-fall misconception and supporting critical thinking.](chatgpt4-correct-detailed-teddy-bear-answer.md) — related
 - [Bard gave an incorrect answer to the teddy bear acceleration problem, reproducing the misconception that acceleration is zero at the highest point of a trajectory.](bard-incorrect-zero-acceleration-highest-point.md) — related
 - [Students rate human teachers higher than ChatGPT on problem-solving proficiency and prefer dialogues with human teachers](students-prefer-human-teacher-dialogue.md) — related
+- [Integrating teaching agents with a knowledge graph significantly enhanced the quality of Socratic teaching dialogue compared with agent-only and no-agent configurations](kg-integration-enhanced-teaching-dialogue-quality.md) — related

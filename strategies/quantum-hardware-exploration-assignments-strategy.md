@@ -53,6 +53,7 @@ Hardware exploration assignments let students run programs on real quantum devic
 - [Use cloud-accessible quantum computing platforms so students run circuits on real quantum hardware](cloud-quantum-platforms-school-use.md)
 - [Design quantum courses around cloud-based platforms and simulators where hardware access is limited](cloud-based-quantum-platforms-course-design.md)
 - [Teach Ocean SDK via account setup, Leap/SAPI authentication, and job submission to D-Wave QPUs](ocean-sdk-dwave-teaching-sequence.md)
+- [Incorporate remote cloud-accessible quantum experiments to extend experimental-skills opportunities to students at less-resourced institutions](remote-quantum-experiments-access-strategy.md)
 
 ## Examples
 -

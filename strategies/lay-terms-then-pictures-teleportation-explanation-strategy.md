@@ -44,6 +44,7 @@ The article prescribes an explanation sequence for physicists addressing non-sci
 ## Related Strategies
 
 - [In public physics talks, establish vivid contact, invite audience perceptions, and give simple answers to typical quantum questions](vivid-contact-audience-perception-outreach-strategy.md)
+- [Seven-step moderator sequence for introducing Quantum Port](quantum-port-moderator-sequence.md)
 
 ## Examples
 -

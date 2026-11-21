@@ -63,6 +63,7 @@ The brief recommends that districts address AI literacy gaps through comprehensi
 - [Foster collaboration among stakeholders to develop strategies for responsible and ethical use of generative AI in education](stakeholder-collaboration-responsible-ai-education.md)
 - [Run larger randomized controlled trials and involve multiple stakeholders before setting LLM education policy](larger-rcts-multistakeholder-llm-adoption.md)
 - [Implement GenAI literacy in teacher education through a scaffolded four-step approach](scaffolded-genai-literacy-implementation-strategy.md)
+- [Institutional adoption strategy for ABCD assessments: infrastructure, policy, faculty development, audits, and hybrid human-AI grading](abcd-assessment-institutional-adoption-strategy.md)
 
 ## Examples
 -

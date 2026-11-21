@@ -50,6 +50,7 @@ The article describes adapting another group's published outreach material for a
 - [Reuse and adapt existing scenarios to make repeated TTX delivery sustainable](scenario-reuse-for-sustainable-ttx-delivery.md)
 - [Design outreach experiments to be easily repeatable so teachers can incorporate them into their own lessons, and keep teachers central to the activities](repeatable-experiments-teachers-central-outreach.md)
 - [Use attributed borrowed videos and quizzes in outreach sections to attract younger students and support assimilation](quizzes-and-attributed-video-for-assimilation.md)
+- [Adapt the magnet-tube activity by audience: limit materials for younger students, add sound-based digital timing, run it after formal electromagnetism study, and add peer-review and consensus dynamics for non-epistemic NOS](magnet-tube-activity-adaptation-strategies.md)
 
 ## Examples
 -

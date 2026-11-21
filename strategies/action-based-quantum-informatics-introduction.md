@@ -45,6 +45,8 @@ For younger or less advanced students, the article recommends enactive approache
 
 - [BB84 classroom activity with eavesdropper roles and a security test on part of the key](bb84-classroom-eavesdropping-activity.md)
 - [E91 entanglement-based key distribution game with CHSH test as eavesdropping check](e91-entanglement-key-game.md)
+- [Adopt Qubit Touchdown as an accessible outreach and classroom resource for introducing quantum computing and boosting confidence](qubit-touchdown-classroom-outreach-strategy.md)
+- [Staging the Nobel Prize-winning CHSH experiment as a 'living crib' with the public playing its phases](staged-nobel-experiment-living-crib.md)
 
 ## Examples
 -

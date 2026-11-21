@@ -50,6 +50,7 @@ The article observes that despite the lack of a figure in the problem statement,
 - [Visual Representations in Mathematics](visual_representations_in_mathematics.md)
 - [Demonstrate the step-by-step process of constructing free-body diagrams rather than presenting already completed diagrams](demonstrate-fbd-construction-step-by-step.md)
 - [Choose problems with multiple entry points to stimulate discussion of different solution approaches](multiple-entry-point-problems.md)
+- [Guide students to begin problem solving with qualitative reasoning and a diagram before formal mathematical manipulation](qualitative-first-diagram-before-formal-manipulation-strategy.md)
 
 ## Examples
 -

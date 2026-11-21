@@ -49,3 +49,4 @@ One-way ANOVA by frequency of AI use in the quantitative phase (N = 302), descri
 - [Prior AI-related training is associated with higher perception scores in the overall score and the willingness, attitudes, and personal-experiences dimensions](prior-ai-training-associated-perceptions.md) — related
 - [Primary school teachers report moderately positive overall perceptions of AI in mathematics instruction, with willingness and attitudes higher than personal experience](moderately-positive-teacher-ai-perceptions-primary-math.md) — related
 - [Positive and negative AI perceptions are strongly negatively co-related within individuals (τ = −0.819), refuting an ambivalent-attitude reading of aggregate frequencies](perception-polarisation-tau-negative-0819.md) — related
+- [More extensive AI training is associated with more frequent use of AI for pronunciation teaching](ai-training-associated-with-more-frequent-pronunciation-ai-use.md) — related

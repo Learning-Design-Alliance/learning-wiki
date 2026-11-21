@@ -50,3 +50,4 @@ The article reports ROSE (Relevance in Science Education) findings that "astrono
 - [Embedding gravitational-wave science across a year-long astronomy curriculum gave coherence to previously disconnected units and motivated students](grav-wave-theme-coheres-curriculum.md) — related
 - [About 50,000 people in Europe saw live Planeterrella demonstrations of auroral formation within five years, via nine Planeterrellas in four countries](planeterrella-50000-viewers-five-years.md) — related
 - [Brazilian students' most-voted science topics include high-energy and particle physics, motivating its inclusion in high school](rose-survey-student-interest-particle-physics.md) — related
+- [For young people, the internet, specifically YouTube, is the major source of learning astronomy content in India](youtube-major-source-astronomy-learning-young-indians.md) — related

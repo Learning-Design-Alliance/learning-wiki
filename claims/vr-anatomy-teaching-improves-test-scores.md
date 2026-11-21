@@ -78,3 +78,4 @@ Meta-analysis of 15 randomized controlled trials with 816 learners (745 medical 
 - [UK surgical program directors reported residents' anatomy knowledge as seriously lacking or needing refresher training, and anatomical-error claims rose seven-fold between 1995 and 2000](uk-directors-resident-anatomy-deficits.md) — related
 - [No significant difference in knowledge gain between VR and 2D-drawing groups among participants with professional background](no-vr-gain-for-professionals.md) — reports the opposite
 - [VR-based learning of a construction detail yields significantly better knowledge gain than 2D drawings for participants with little pre-existing knowledge](vr-better-knowledge-gain-low-prior-knowledge.md) — related
+- [Embodied VR laboratory modules improved pre- to post-test scores on all three test questions in an engineering student trial](embodied-vle-pre-post-score-gains.md) — related

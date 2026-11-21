@@ -149,3 +149,4 @@ An open question is how much of the benefit comes from the discussion itself ver
 - [Pairs of students produced higher-quality videos than students working alone, with a few exceptions](pairs-produce-higher-quality-videos.md) — a narrower finding that bears on this claim
 - [Reading-play recollection was split: just over half of participants recalled the play or a concept while the rest recalled nothing](reading-play-recollection-split.md) — related
 - [Peer discussion after individual work and hints increased scientifically correct isobaric-process explanations from 52% to 80%](peer-discussion-isobaric-explanations-52-to-80.md) — a narrower finding that bears on this claim
+- [Post-test performance was approximately equal regardless of AI explanation quality, suggesting the dialogue process rather than explanation correctness drives the gain](post-test-performance-independent-of-ai-explanation-quality.md) — related

@@ -51,3 +51,4 @@ Most students remembered hearing about Acceleration or Beer's Law but did not re
 - [The MSS framework functions as a learning progression with diverse students, who demonstrate engagement at all levels below their highest attained level](mss-framework-learning-progression-diverse-students.md) — related
 - [Engaging in level 2 quantitative Pattern sensemaking appears critical for transitioning to level 3](level-2-pattern-engagement-critical-for-level-3-transition.md) — related
 - [In two minimally-guided PhET simulation activities, spectral clustering consistently identifies a larger systematic-inquiry cluster and a smaller free-exploration cluster across all three feature paradigms](systematic-free-inquiry-clusters-simulations.md) — related
+- [Most students from historically marginalized STEM backgrounds progressed from the lowest to the highest MSS level after completing one directed self-guided activity](dsgl-activity-mss-level-progression.md) — related

@@ -52,3 +52,4 @@ An authors' interpretive claim (type e) from the literature-review section, grou
 - [Substance-based ontological metaphors for gravity served as the source for teachers' generation of a sophisticated argument about equal gravitational acceleration](substance-ontologies-seed-sophisticated-argument.md) — a narrower finding that bears on this claim
 - [Incorrect answers about gravity on the moon remained comparable pre- and post-course (26% vs 24%), a topic not directly assessed in the course](gravity-misconceptions-unchanged-not-assessed.md) — related
 - [Multiplying definitions of force in textbooks may contribute to students' conceptual problems with force](force-definition-variability-hinders-learning.md) — related
+- [Students' definitions revealed common misconceptions about gravity and the Big Bang, often framed through metaphorical language](gravitational-physics-misconceptions-definitions.md) — related

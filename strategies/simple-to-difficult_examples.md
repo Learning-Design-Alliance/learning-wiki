@@ -65,6 +65,7 @@ Sequencing examples from simple to complex manages intrinsic load during schema 
 - [Teach word-problem schemas in a graduated sequence: concrete linear models first, then nonlinear, then closed nonlinear patterns](graduated-pp-instructional-sequence.md)
 - [Select simple, typical, important authentic cases and sequence them from simple to complex, starting text-based before immersive modalities](sequenced-authentic-whole-task-cases-flipped-learning.md)
 - [Sequence learning tasks from simple structure relaxation to substitution reactions in an interactive quantum chemistry setting](interactive-qc-task-sequence-strategy.md)
+- [Introduce LLM concepts through hands-on Python activities that progress from simple examples to increasing complexity with physics-related tasks](hands-on-python-llm-introduction-strategy.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — how early simple examples are typically presented

@@ -50,6 +50,7 @@ Based on the fine-grained conversation analysis of real-life feedback conversati
 ## Related Strategies
 
 - [Use conversation analysis of real interactions to underpin and enhance role play and simulated patient training rather than replace it](use-ca-to-enhance-simulation-design.md)
+- [Make AI peer dialogue more inquisitive: identify the student's misconception first, ask them to elaborate, and let dialogue length be flexible](inquisitive-ai-peer-dialogue-strategy.md)
 
 ## Examples
 -

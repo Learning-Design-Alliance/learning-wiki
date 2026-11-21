@@ -50,3 +50,4 @@ Within-subjects user study (46 adults, counterbalanced order) comparing teaching
 - [A higher proportion of untaught features is learned when teaching via sentence-selection compared to natural language](sentence-selection-higher-proportion-untaught-learned.md) — related
 - [The amount of paraphrasing users engage in during natural language teaching is positively related to improved learning outcomes](paraphrasing-amount-positive-learning-relationship.md) — related
 - [Students' understanding of conversational AI (natural language understanding and response) did not differ significantly from pre-test to post-test in one group with no comparison group after the workshops](no-significant-gain-conversational-ai-understanding.md) — related
+- [The teachable agent reduced mental effort but not mental load: the groups did not differ significantly on mental load](chat-melody-mental-effort-not-mental-load.md) — related

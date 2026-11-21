@@ -56,3 +56,4 @@ Zero-shot evaluation on most- and least-common distractor prediction tasks over 
 - [Neural-network predictions agree with the analytical solution within the training domain and can extrapolate when the wavelength-distance product falls within the support of the training distribution, but fail when it does not](nn-extrapolation-lambda-z-support.md) — related
 - [Student errors on cause-effect exercises are most frequently incorrect-cause-incorrect-effect, followed by missing-cause-correct-effect](error-distribution-cause-effect-exercises.md) — related
 - [Open-response beta piloting confirmed that planned multiple-choice distractors covered the most frequent incorrect student answers](spruce-distractor-validation-betas.md) — related
+- [Unconditioned single-phase distractor testing converges to the most common misconception and cannot validate understanding of individual student cognition](unconditioned-testing-converges-common-misconception.md) — related

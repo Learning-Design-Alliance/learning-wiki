@@ -53,3 +53,4 @@ Descriptive analysis of usage rates by generational cohort (Pew Research Center 
 - [Syntea usage is slightly higher among Bachelor's (58.17%) than Master's students (54.25%), possibly reflecting program structure rather than acceptance](syntea-usage-bachelor-master-difference.md) — related
 - [Full-time students use Syntea slightly more than part-time students (59.49% vs 55.71%)](syntea-usage-study-mode-difference.md) — related
 - [Syntea usage rates differ slightly by gender, with female students (59.05%) higher than male students (54.94%)](syntea-usage-gender-differences.md) — related
+- [Voluntary tutor users skew female and approximately three years older than non-users](adult-tutor-user-demographic-skew.md) — related

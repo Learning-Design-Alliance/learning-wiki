@@ -49,3 +49,4 @@ Regression experiment (SMOReg, 10-fold CV) treating the three TOEFL11 proficienc
 - [A broad linguistic feature set yields 73.2% classification accuracy for three-level proficiency scoring of TOEFL11 essays](broad-linguistic-features-73-percent-toefl11-classification.md) — related
 - [On the FCE corpus the feature set performs comparably to prior work (r = 0.64 on test), though below one coherence-feature study](fce-regression-comparable-to-prior-aes-work.md) — related
 - [GPT-3 achieved reliable accuracy in automated essay scoring on TOEFL11 essays](gpt3-automated-essay-scoring-toefl.md) — related
+- [RNE and RNI computed from predicted scores closely match actual cognitive effort values, with Pearson r > 0.94 across tested participants](predicted-rne-rni-match-actual-trends.md) — related

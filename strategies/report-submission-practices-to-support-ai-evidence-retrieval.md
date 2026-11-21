@@ -48,6 +48,7 @@ Because extraction errors in equations, figures, tables, and graphs can generate
 - [Mitigate transcription failures through image-quality supports: quality review before submission, preview transcriptions, and multiple submission modes](image-quality-mitigations-handwritten-grading.md)
 - [Walk through plots slowly: axes first, then legend, then scientific meaning, privileging the paper's own dataset](plot-walkthrough-axes-legend-meaning-strategy.md)
 - [Store submissions with student identifiers embedded in regular file paths to enable automated retrieval and iteration](identifier-in-file-path-submission-storage.md)
+- [Use native Google Docs for materials with critical figures, and tagged high-quality PDFs when PDF distribution is required](google-docs-format-for-ai-parsed-figures-strategy.md)
 
 ## Examples
 -

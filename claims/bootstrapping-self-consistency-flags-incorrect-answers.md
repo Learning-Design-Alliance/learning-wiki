@@ -66,3 +66,4 @@ Bootstrapping analysis submitting each exam to GPT-4 50 times (API 'n' parameter
 - [ChatGPT based on GPT-4 solves the FCI accurately, scoring on average 83% correct](chatgpt-gpt4-solves-fci-accurately.md) — related
 - [GPT-4 answers 65.8% of university assessment questions correctly by majority vote and can produce correct answers for 85.1% of questions with at least one prompting strategy](gpt4-answers-65-8-percent-majority-vote.md) — related
 - [GPT-4 can override correct reasoning with default answers to technical physics questions, such as reverting to 9.81 m/s² for gravitational acceleration.](gpt4-default-answer-override.md) — related
+- [GPT-4o's incorrect answers are far from random, gravitating toward specific incorrect answers](gpt4o-consistent-incorrect-answers.md) — related

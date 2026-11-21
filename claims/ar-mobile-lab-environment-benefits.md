@@ -50,3 +50,4 @@ The article's concluding section, based on literature analysis and observation o
 - [Reported benefits of educational augmented reality include motivation, attention, understanding, memorization, and safe experimentation](ar-reported-benefits-motivation-memorization.md) — related
 - [The article argues that a mobile information and educational environment of a HEI yields institutional advantages and gives every student free, time- and place-independent access to discipline materials](mobile-ios-advantages.md) — related
 - [Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies](vr-ar-advantages-achievement-motivation-with-null-contrast.md) — a broader claim this one bears on
+- [The authors assert that VR laboratory simulation democratizes learning opportunities at a fraction of the cost](vr-labs-democratize-access-assertion.md) — related

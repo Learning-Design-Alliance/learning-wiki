@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 477 claims (310 show a difference, 116 mixed, 51 no difference) · 343 studies (130 associational, 112 causal, 42 review, 16 qualitative, 16 theoretical, 14 quant-synthesis, 13 design), `q1`–`q4` · 92 of 343 report an effect size · 465 claims rest on one study
+> **Evidence** · 480 claims (313 show a difference, 116 mixed, 51 no difference) · 345 studies (131 associational, 113 causal, 42 review, 16 qualitative, 16 theoretical, 14 quant-synthesis, 13 design), `q1`–`q4` · 92 of 345 report an effect size · 468 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -527,6 +527,9 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [A scatter plot of content quality versus engagement shows a favorable link between high-quality content including visual data and stories and enhanced engagement](../claims/content-quality-engagement-scatter-plot.md) [+M] — measured as an outcome of the instruction studied
 - [Some previously disengaged students' engagement rose from semester 1 to semester 2, reaching some of the highest semester-2 levels after gamification, in one uncontrolled pre-post study](../claims/gamification-engages-previously-disengaged-students.md) [+M] — measured as an outcome of the instruction studied
 - [Interest formation differs between astrophysics and biomedical physics: astrophysics interest arises from popular culture and coursework, biomedical physics interest from research and practical experiences](../claims/astrophysics-versus-biomedical-interest-formation-differences.md) [~M] — measured as an outcome of the instruction studied
+- [End-of-course physics interest is predicted mainly by beginning-of-course interest, with smaller contributions from peer interaction and perceived recognition](../claims/post-interest-predicted-by-pre-interest-peer-interaction-recognition.md) [+M] — learners who differ on it differ in outcomes
+- [End-of-course physics self-efficacy is predicted by belonging (b = 0.49), pre self-efficacy (b = 0.45), peer interaction (b = 0.21), and perceived recognition (b = 0.13)](../claims/belonging-predicts-post-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
+- [Participants described NeuroChat as more engaging, human-like, and enjoyable than the control chatbot, supporting higher subjective engagement](../claims/neurochat-subjective-engagement-themes.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

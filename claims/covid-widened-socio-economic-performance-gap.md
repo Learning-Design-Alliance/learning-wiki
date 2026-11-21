@@ -60,3 +60,4 @@ Country-level analysis of the Pandemic-Related Performance Gap (difference betwe
 - [Tablet-based DGBL shows strong efficacy for children from low-SES families](tablet-dgbl-effective-low-ses-children.md) — related
 - [Selection into Dutch COVID-19 remediation programs was strongly linked to disadvantage, with students with extremely low test scores most likely to participate](remediation-selection-linked-to-disadvantage.md) — related
 - [School achievement level is associated with school type and socio-economic status, entrenching educational disadvantage in Chile](school-achievement-level-associated-ses-school-type.md) — related
+- [Socio-economically disadvantaged students were overrepresented among those needing team support and underrepresented among self-sufficient students](socioeconomic-background-readiness-association.md) — related

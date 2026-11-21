@@ -93,3 +93,4 @@ The authors place this alongside earlier cross-domain findings of a modest link 
 - [Individual predictive correlations are weak (mostly 0.16–0.24) but the overall pattern of significant relationships exceeds chance (51 of 380, 13.4%)](weak-but-better-than-chance-predictive-correlations.md) — related
 - [No relationship between students' personality traits and their grades was unveiled, except a marginal negative agreeableness correlation in the first study](personality-traits-no-grade-relationship.md) — related
 - [Perceived positive personality factors correlate positively with learning outcomes, strongest for conscientiousness and the dialogue-only model](trait-learning-correlations-dialogue-only-strongest.md) — related
+- [No pre-existing personality, motivation, self-efficacy, or attitude-toward-AI differences distinguished dropouts from completers](no-preexisting-traits-dropout-completer-maic.md) — related

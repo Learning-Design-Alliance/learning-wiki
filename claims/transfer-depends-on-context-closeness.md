@@ -73,3 +73,4 @@ Experiment 1 Batman/boat versus rain/cart momentum pair: Table 1 shows significa
 - [Giving both problems of a car-on-incline isomorphic problem pair did not improve performance on the friction problem](ipp-friction-car-incline-no-transfer.md) — related
 - [Extending learning from a two-step solved problem to a three-step problem is much harder than transferring between two two-step problems](two-to-three-step-transfer-harder.md) — related
 - [Knowledge gained in Newton's Race transfers only to situations closely resembling the game environment, not to different situations](newtons-race-transfer-limited-to-game-like-situations.md) — a narrower finding that bears on this claim
+- [Direct transfer models tend to experience more pronounced performance issues when overall contextual similarity between source and target institutions falls below 0.5](overall-similarity-below-05-performance-issues.md) — related

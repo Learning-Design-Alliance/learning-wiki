@@ -58,3 +58,4 @@ Finding from the PAs' activities theme in the interview study: teachers describe
 - [Near-peers tend to answer student questions directly, while faculty better stimulate students to think critically about unanswered questions and how to fill competence gaps](faculty-stimulate-thinking-on-competence-gaps.md) — related
 - [Trainers stimulate collaborative learning and reflection by asking questions, promoting dialog, and encouraging thinking aloud](sbl-collaborative-learning-reflection-questioning.md) — related
 - [Directly showing student risk scores to students, teachers, or administrators can worsen student outcomes](risk-score-disclosure-harms-students.md) — related
+- [Users report that Disha's Socratic hint-based guidance fosters independent thinking and critical problem-solving](disha-socratic-hints-foster-independent-thinking.md) — related

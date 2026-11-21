@@ -51,4 +51,4 @@ A delivery strategy for outreach data-analysis activities: host the exercise on 
 -
 
 ## Key Sources
-- Ragoni, S., for the ALICE collaboration. (2024). Outreach, educational activities and communication of the ALICE collaboration. 42nd International Conference on High Energy Physics (ICHEP2024), Prague. https://arxiv.org/abs/2410.19507
+- Ragoni, S., for the ALICE collaboration. (2024). Outreach, educational activities and communication of the ALICE collaboration. 42nd International Conference on High Energy Physics (ICHEP2024), Prague. https://arxiv.org/abs/2410.19507. [doi:10.22323/1.476.1159](https://doi.org/10.22323/1.476.1159)

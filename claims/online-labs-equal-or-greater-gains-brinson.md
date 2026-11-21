@@ -48,3 +48,4 @@ The review reports Brinson's (2015) synthesis of empirical comparisons of online
 - [Effect sizes for inquiry-based biology labs appear greatest in introductory courses and course-based research experiences, with the largest gains in disciplinary content knowledge](inquiry-lab-effect-sizes-greatest-introductory-research.md) — related
 - [Virtual laboratories match physical laboratories on conceptual mastery, with domain-specific advantages and disadvantages](virtual-matches-physical-conceptual-mastery.md) — possibly the same claim (merge candidate)
 - [Students using simulations achieve conceptual understanding similar to students in hands-on labs when both can manipulate variables](simulation-similar-conceptual-understanding-zacharia.md) — related
+- [A review of 50 empirical studies found virtual laboratory learning outcomes equal or better than traditional labs](virtual-labs-outcomes-equal-or-better-50-study-review.md) — possibly the same claim (merge candidate)

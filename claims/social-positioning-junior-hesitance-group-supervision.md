@@ -60,3 +60,4 @@ Focus group finding interpreted through social positioning theory: balancing the
 - [Less experienced teachers' talk about process is almost exclusively in the initiation-response-feedback (IRF) format, limiting social-regulatory group dynamics](irf-dominates-novice-teacher-process-talk.md) — related
 - [Junior students feel insecure about deficient anatomical knowledge before clerkships, while senior students can put these feelings in perspective](student-insecurity-anatomical-knowledge.md) — related
 - [Primary school teachers often feel insecure about teaching science subjects because these are outside their training](primary-teachers-insecure-teaching-science.md) — related
+- [Formative interviews identified contribution anxiety, navigation barriers, material-connection difficulty, and unmet reflection needs in pre-class asynchronous discussion](pre-class-discussion-contribution-anxiety-challenges.md) — related

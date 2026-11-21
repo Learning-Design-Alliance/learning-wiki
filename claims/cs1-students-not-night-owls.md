@@ -48,3 +48,4 @@ Descriptive analysis of pooled keystroke timestamps across both contexts: 54% of
 ## Related Claims
 - [Students' working-time patterns are similar on weekdays and weekends, suggesting diurnal preference rather than external constraints governs when they work](weekday-weekend-diurnal-preference.md) — related
 - [Unsupervised clustering of CS1 keystroke data yields four chronotypes matching those reported for general populations](cs1-keystroke-clustering-four-chronotypes.md) — related
+- [Adult learners use voluntary tutors predominantly on Thursdays and during evening and late-night hours](adult-tutor-temporal-usage-thursday-evening.md) — reports the opposite

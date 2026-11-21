@@ -58,3 +58,4 @@ Qualitative teacher case study and survey responses. One teacher reported "Lower
 - [Teachers perceived improved communication between tutoring pairs, with Year 7 students showing more confidence in communication](peer-tutoring-improved-pair-communication.md) — related
 - [Teachers in a 16-week cross-age peer tutoring RCT reported high implementation fidelity and support, with 94% reporting pairs worked well together](teacher-reported-high-fidelity-peer-tutoring-implementation.md) — related
 - [RAP strategy instruction combined with a multicomponent motivational system produced significant reading comprehension gains with very large effect sizes in both peer-tutoring groups](rap-peer-tutoring-motivational-system-significant-gains.md) — related
+- [Educators provide more individual attention to lower-achieving students than their higher-achieving peers in paired tutoring](tutors-attend-more-to-lower-achieving-students.md) — related

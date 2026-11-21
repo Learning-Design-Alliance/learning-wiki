@@ -56,3 +56,4 @@ Attitudinal questions administered to the same randomized treatment groups in th
 - [Students using stereoscopic VR did not significantly outperform students using WebGL simulations or static 2D images on 3D magnetostatics items](vr-no-outperform-webgl-images-magnetostatics.md) — related
 - [Students rated the VR electrostatics intervention positively and equally across treatment groups](students-rate-vr-intervention-positively-equally.md) — reports the opposite
 - [Participant reception of VR-modified video was polarized: 2D viewers reported higher average enjoyment, knowledge gained, and engagement, while exactly half of 3D viewers preferred VR to traditional lecture](polarized-reception-vr-vs-2d-video.md) — related
+- [Immersive VR conditions outperform 2D video on knowledge retention, and Game-VR yields the highest overall preparedness](game-vr-highest-preparedness.md) — related

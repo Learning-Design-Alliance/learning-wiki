@@ -48,3 +48,4 @@ The article provides a systematic overview of the pedagogical benefits proposed 
 - [The empirical evidence for claimed pedagogical benefits of virtual characters is weak and inconclusive](virtual-character-pedagogical-benefits-weak-evidence.md) — related
 - [A 2024 vendor white paper cites research that avatars provide social presence and that realistic avatars in intelligent tutoring systems can increase student-tutor engagement](avatar-social-presence-increases-tutor-engagement.md) — related
 - [Multimodal communication in virtual worlds makes the boundary between real identity and avatar highly permeable](avatar-real-identity-boundary-permeable.md) — related
+- [Using quotes from mythical historical figures as a motivating educational resource is proposed as one of the fundamental contributions of an electromagnetism teaching approach](historical-quotes-motivating-resource-electromagnetism.md) — a narrower finding that bears on this claim

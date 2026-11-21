@@ -9,6 +9,7 @@ generated:
   at: 2026-11-20
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-21
 sources:
   - id: abhishek-purohit-2024
     resource: "https://doi.org/10.48550/arXiv.2410.21219"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across seven groups of learners with varied backgrounds, participants' grades improved by an average of 3.91 points out of 10 after ENSAR-based sessions with the Qureka! Box. [→ Abhishek Purohit 2024](#abhishek-purohit-2024)

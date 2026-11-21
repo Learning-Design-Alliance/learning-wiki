@@ -51,3 +51,4 @@ Instructor and staff notes plus survey themes from the KT1 course: pre-disclosed
 - [AI severs the correlation between artefact quality and cognitive engagement, breaking the artefact-as-proxy for learning](ai-breaks-artefact-as-proxy.md) — related
 - [Prior e-learning platforms in the reviewed literature were reported as difficult to learn and non-flexible, motivating a Nigeria-specific system](blackboard-reported-non-flexible-hard-to-learn.md) — related
 - [Despite engagement, students' later reports show severe difficulties evaluating static friction force and its uncertainty, most commonly using only instrument sensibility](report-difficulties-uncertainty-evaluation.md) — related
+- [Some students given complete LLM-generated solutions copied and submitted answers within minutes without engaging with the practice](complete-solution-students-copy-submit-quickly.md) — related

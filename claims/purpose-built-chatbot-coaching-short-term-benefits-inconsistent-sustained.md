@@ -52,3 +52,4 @@ The review's own synthesis of empirical AI-coaching studies in education and hea
 - [Frequent generative AI use for essay writing can foster metacognitive laziness, reducing intrinsic motivation and learning autonomy](genai-metacognitive-laziness-and-autonomy.md) — related
 - [In a six-week within-subject study, the Empathetic PA coaching chatbot improves intention to follow and self-efficacy faster over time than the Non-Empathetic condition](empathetic-chatbot-faster-intention-selfefficacy-growth.md) — a narrower finding that bears on this claim
 - [GenAI chatbot yielded immediate essay score gains but no gains in intrinsic motivation or longer-term knowledge outcomes](genai-immediate-gains-no-motivation-longterm.md) — related
+- [NeuroChat produced no significant difference in short-term learning outcomes (quiz and essay scores) compared to the control chatbot](neurochat-no-learning-outcome-difference.md) — a narrower finding that bears on this claim

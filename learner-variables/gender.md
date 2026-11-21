@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 767 claims (411 show a difference, 187 mixed, 169 no difference) · 535 studies (282 associational, 178 causal, 22 review, 18 quant-synthesis, 16 design, 12 theoretical, 7 qualitative), `q1`–`q4` · 78 of 535 report an effect size · 759 claims rest on one study
+> **Evidence** · 774 claims (413 show a difference, 191 mixed, 170 no difference) · 539 studies (284 associational, 180 causal, 22 review, 18 quant-synthesis, 16 design, 12 theoretical, 7 qualitative), `q1`–`q4` · 78 of 539 report an effect size · 766 claims rest on one study
 
 ## How to read this page
 
@@ -806,6 +806,13 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Gender-based differences in lab participation are institution-specific: two institutions show no significant difference while one shows a significant difference](../claims/institution-specific-gender-participation-physics-labs.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Gendered task division arises in mixed-gender lab groups, with men more likely to handle equipment, and is most pronounced in less-structured inquiry labs](../claims/gendered-task-division-mixed-gender-lab-groups.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Skills-based lab curricula reduce or reverse gender gaps in ECLASS scores, and benefit students of all genders relative to concepts-focused labs](../claims/skills-based-labs-reduce-gender-gaps-eclass.md) [+M] — an instructional effect differs by group
+- [Female students outscored male students on most low-stakes first-attempt exams in retake classes, and retakes benefited male students slightly more](../claims/first-attempt-low-stakes-gap-positive.md) [~M] — an instructional effect differs by group
+- [Female students receive significantly less individual attention than male students, with the largest gap in mixed-gender pairs](../claims/gender-gap-tutor-attention-mixed-gender-pairs.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Gender differences in end-of-course outcomes are mediated rather than direct: no moderation by gender was found and gender did not directly predict any outcome](../claims/gender-effects-mediated-not-moderated.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [In calculus-based physics II EBAE courses, the CSEM gender gap increased from 4% to 10%, with male students showing larger normalized gains than female students](../claims/csem-gender-gap-increased-calc-ebae.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [In mixed-gender pairs, lower-achieving female students receive less attention than higher-achieving male peers, while lower-achieving male students receive substantially more](../claims/achievement-priority-reversed-for-girls-mixed-gender.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The FCI gender gap in algebra-based courses is more pronounced at higher ability levels based on pretest scores](../claims/fci-gender-gap-larger-high-ability.md) [~M] — an instructional effect differs by group
+- [The high-stakes final exam gender gap is about 50% larger than the medium-stakes in-term exam gap and is not removed by controlling for in-term exam scores](../claims/final-exam-higher-stakes-larger-gap.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

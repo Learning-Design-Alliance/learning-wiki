@@ -184,6 +184,7 @@ Comprehension while the visual is in view, recall a week later, transfer to a ne
 - [Three-step construction of lens ray diagrams from bundles of elemental images, with focal points redefined in terms of elemental images](../strategies/elemental-image-ray-diagram-construction.md)
 - [Provide specific instruction on drawing diagrams to increase students' use of diagrams in problem solving](../strategies/specific-diagram-instruction-strategy.md)
 - [Integrate aesthetic pictures into physics tasks at the start of a lesson and for application and transfer](../strategies/aesthetic-pictures-in-tasks-teaching-strategy.md)
+- [Guide students to begin problem solving with qualitative reasoning and a diagram before formal mathematical manipulation](../strategies/qualitative-first-diagram-before-formal-manipulation-strategy.md)
 
 ## Key Sources
 - Paivio, A. (1990). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)

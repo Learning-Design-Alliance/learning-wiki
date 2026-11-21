@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-21
 sources:
   - id: andrew-j-mason-and-chandralekha-singh-2016
     resource: "https://doi.org/10.1088/0143-0807/37/5/055704"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only approximately 35% of introductory students disagreed that symbolic problems are more difficult, and 45% agreed they prefer to solve symbolically first and plug in numbers at the very end, while faculty and Ph.D. responses were comparable to each other and more favorable. [→ Andrew J. Mason and Chandralekha Singh 2016](#andrew-j-mason-and-chandralekha-singh-2016)

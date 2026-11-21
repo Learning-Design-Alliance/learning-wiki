@@ -54,3 +54,4 @@ Subgroup analysis by question type (A1, A2, A3/A4, B1) across both exam years, t
 - [On the CDLE benchmark, DeepSeek-R1, GPT-5 Thinking, Gemini 2.5 Pro, and OpenAI o3 significantly outperform GPT-4o in overall accuracy, with Gemini 2.5 Pro highest at 91.67%](cdle-four-llms-outperform-gpt4o-overall.md) — related
 - [GPT-4o achieves significantly higher overall accuracy than GPT-4 and GPT-3.5 on the 2020 and 2021 Chinese NMLE](gpt4o-highest-accuracy-chinese-nmle.md) — related
 - [AI performance shows no clear trend across degree levels despite increasing question complexity](no-clear-trend-ai-performance-exam-level.md) — related
+- [On real student responses, the synthetic-data-trained agent outperformed GPT-4o on Top1 accuracy (44.2% vs 40.8%) and Top3 F1 (0.731 vs 0.706)](agent-outperforms-gpt4o-top1-top3.md) — related

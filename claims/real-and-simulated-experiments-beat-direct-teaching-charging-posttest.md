@@ -54,3 +54,4 @@ Quasi-experimental posttest comparison among three groups (Real n=86, Sim n=81, 
 - [Student satisfaction was higher after simulator-based teaching than after traditional teaching](simulator-teaching-higher-student-satisfaction.md) — related
 - [AP physics students' electrostatics content performance scores rose from pre-test to post-test after guided inquiry with PhET simulations, in one uncontrolled pre-post study](guided-inquiry-simulation-electrostatics-gain.md) — related
 - [Students overwhelmingly report that the simulations influenced their post-test answer choices](student-feedback-simulations-influenced-answers.md) — related
+- [All three tutoring methods produced comparable post-test gains on conceptual and computational physics questions](tutoring-methods-comparable-conceptual-computational.md) — related

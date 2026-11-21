@@ -128150,5 +128150,641 @@
  "media-design\tcolor-coding used to separate and distinguish information\tother stated reasons for color use": {
   "label": "color-coding to separate and distinguish information vs color-coding for other reasons",
   "treatment_is_a": true
+ },
+ "active-learning\tEBAE course\tLB course": {
+  "label": "active-engagement instruction vs lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tEBAE course\tLB course, same instructor": {
+  "label": "active-engagement instruction vs lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tEBAE courses averaged across instructors\tLB courses averaged across instructors": {
+  "label": "active-engagement instruction vs lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tevidence-based active-engagement algebra-based physics course\tprimarily lecture-based algebra-based physics course": {
+  "label": "active-engagement instruction vs lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\thistorically and epistemologically contextualized TLS with debates, collaborative activities, and formative assessment\tno comparison condition reported": {
+  "label": "active-learning intervention vs no reported comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tinquiry-based analogical black-box activity\tinitial word-cloud responses before the activity": {
+  "label": "inquiry activity vs pre-activity baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tinquiry-based analogical black-box activity\tno comparison condition stated": {
+  "label": "active-learning intervention vs no reported comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tinquiry-based elevator experiment\tactivities before the elevator experiment": {
+  "label": "inquiry activity vs pre-activity baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive exhibition activities on entanglement and Bell’s inequalities\tno comparison condition stated": {
+  "label": "active-learning intervention vs no reported comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tquantum-measurement MQS implementation\tpretest before MQS implementation": {
+  "label": "active-learning intervention vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tremote filmed projectile experiment\tconventional or non-practical instruction": {
+  "label": "practical active learning vs conventional or non-practical instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tremote filmed projectile experiment\tin-person hands-on laboratory experience": {
+  "label": "in-person hands-on experiment vs remote filmed experiment",
+  "treatment_is_a": false
+ },
+ "active-learning\tresearch-based MQS with peer instruction\tpretest before MQS implementation": {
+  "label": "active-learning intervention vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tresearch-based multiple-choice question sequence with peer instruction\tpre-MQS instruction": {
+  "label": "active-learning intervention vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tteacher-guided discussion of fundamental topics and provocative questions\tteacher presentations while students take notes": {
+  "label": "active discussion and questioning vs passive presentation and note-taking",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tcontent allowing room for autonomous thinking\tcontent with specific examples that may restrict free thinking": {
+  "label": "autonomy-supportive content vs controlling content",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tobservation-focused experiment with minimal instruction and student method changes\tformulaic laboratory note-keeping instruction": {
+  "label": "student-directed inquiry vs formulaic instruction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\topen-ended project choice with organizer encouragement and occasional feedback\tinitial unsupported open-ended project choice": {
+  "label": "supported choice vs unsupported choice",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudents design equitable and accessible learning spaces\tstudents only experience those spaces": {
+  "label": "participatory design vs passive exposure",
+  "treatment_is_a": true
+ },
+ "case-comparison\tNGC 1566 galaxy print\tNGC 3344 galaxy print": {
+  "label": "NGC 1566 galaxy print vs NGC 3344 galaxy print",
+  "treatment_is_a": true
+ },
+ "case-comparison\tWhirlpool Galaxy print\tNGC 1566 galaxy print": {
+  "label": "Whirlpool Galaxy print vs NGC 1566 galaxy print",
+  "treatment_is_a": true
+ },
+ "case-comparison\tcomparing his work with posted solutions during HWC\this correct initial solution": {
+  "label": "Comparing with posted solutions vs retaining the correct initial solution",
+  "treatment_is_a": true
+ },
+ "debriefing\tFAR-based reflection and final plenary debate\tstudents' pre-activity understanding": {
+  "label": "debriefing vs no debriefing",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tStream 1 versus Stream 2\tThe other stream sequence": {
+  "label": "Stream 1 vs Stream 2",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tStream 1, starting with level A\tStream 2, starting with level B": {
+  "label": "Starting with level A vs starting with level B",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tconnected teaching sequence using Java system classes and a graphics-area example to introduce OOP concepts\tconventional sequence of Java history, syntax, and separate OOP concepts with simple unrelated examples": {
+  "label": "Connected/integrated example sequence vs conventional/disconnected sequence",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\thands-on simulation usage before theory\ttheory and general simulation concepts before hands-on usage": {
+  "label": "Hands-on usage before theory vs theory before hands-on usage",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tAI-literacy text explaining how LLMs work\tgeneral introduction to ChatGPT": {
+  "label": "AI-literacy instruction vs general ChatGPT introduction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tAI-literacy text on effective ChatGPT use and prompting\tgeneral introduction to ChatGPT": {
+  "label": "AI-literacy instruction vs general ChatGPT introduction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tafter learning the game’s connections to quantum computing\tafter playing Qubit Touchdown, before the connections lesson": {
+  "label": "Technical-connections instruction vs no technical-connections instruction yet",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tbrief AI literacy intervention text\tbrief ChatGPT introduction text": {
+  "label": "AI-literacy instruction vs general ChatGPT introduction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tbrief AI literacy text about LLM mechanisms, limitations, risks, and usage strategies\tbrief introductory text about ChatGPT": {
+  "label": "AI-literacy instruction vs general ChatGPT introduction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tbrief AI literacy text on LLM mechanisms, limitations, risks, and usage strategies\tbrief introductory text about ChatGPT": {
+  "label": "AI-literacy instruction vs general ChatGPT introduction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tbrief AI-literacy text\tgeneral ChatGPT introduction": {
+  "label": "AI-literacy instruction vs general ChatGPT introduction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tguided instruction to reinterpret limits as sums\tnot stated": {
+  "label": "Guided instruction vs unspecified instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tlearning the game’s connections to quantum computing\tafter playing Qubit Touchdown": {
+  "label": "Technical-connections instruction vs no technical-connections instruction yet",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tlearning the game’s connections to quantum computing after playing\tplaying the game before the technical explanation": {
+  "label": "Technical-connections instruction after gameplay vs gameplay before technical-connections instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tlearning the game’s connections to quantum computing after playing\tplaying the game without the technical-connections explanation": {
+  "label": "Technical-connections instruction after gameplay vs gameplay without technical-connections instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tplaying Qubit Touchdown and learning its quantum-computing connections\tplaying Qubit Touchdown before learning its quantum-computing connections": {
+  "label": "Technical-connections instruction after gameplay vs gameplay before technical-connections instruction",
+  "treatment_is_a": true
+ },
+ "fading\tthree-stage concreteness-fading game with augmented reality and a tangible robot\tpre-test baseline": {
+  "label": "concreteness fading vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "feedback-type\tLLM-written feedback\thuman TA-written feedback": {
+  "label": "LLM-written feedback vs human TA-written feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tSimilar example feedback\tDifferent example feedback": {
+  "label": "similar-example feedback vs different-example feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tcomprehensive feedback on correctness, efficiency, and code quality\tlimited feedback from other coding platforms": {
+  "label": "comprehensive feedback vs limited feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback on code quality, efficiency, and readability\texplanations of why a solution worked or failed": {
+  "label": "code quality, efficiency, and readability feedback vs solution-explanation feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tsimilar example feedback\tdifferent example feedback": {
+  "label": "similar-example feedback vs different-example feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\twhole-solution, all-or-nothing feedback\tfine-grained, step-by-step feedback": {
+  "label": "fine-grained, step-by-step feedback vs whole-solution, all-or-nothing feedback",
+  "treatment_is_a": false
+ },
+ "formative-assessment\tAI-generated scoring and performance feedback\tno specified comparison": {
+  "label": "AI-generated scoring and performance feedback vs no specified comparison",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tTLS with wording and crossroads definition activities\tnone reported": {
+  "label": "TLS wording and crossroads definition activities vs none reported",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tconditioned two-phase distractor generation using each student’s prior mistake\tunconditioned single-phase distractor generation": {
+  "label": "Conditioned two-phase distractor generation based on prior mistakes vs unconditioned single-phase distractor generation",
+  "treatment_is_a": true
+ },
+ "gamification\tAHlam Na 2.0 gameplay\tpretest before gameplay": {
+  "label": "gamified gameplay vs pretest/no gameplay",
+  "treatment_is_a": true
+ },
+ "gamification\tAHlam Na 2.0 gameplay to level 10 or above\tpretest before gameplay": {
+  "label": "gamified gameplay vs pretest/no gameplay",
+  "treatment_is_a": true
+ },
+ "gamification\tAHlam Na 2.0 gameplay to level 9 or below\tpretest before gameplay": {
+  "label": "gamified gameplay vs pretest/no gameplay",
+  "treatment_is_a": true
+ },
+ "gamification\tAHlam Na 2.0 mobile game\tpretest before gameplay": {
+  "label": "gamified gameplay vs pretest/no gameplay",
+  "treatment_is_a": true
+ },
+ "gamification\tQuantum Port card game for learning quantum teleportation\tnon-gamified or mathematically formal instruction": {
+  "label": "gamified instruction vs non-gamified/formal instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tQuantum Port card-game gamification\tnot stated": {
+  "label": "gamification vs not stated",
+  "treatment_is_a": true
+ },
+ "gamification\tafter playing Qubit Touchdown\tbefore playing Qubit Touchdown": {
+  "label": "after gameplay vs before gameplay",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified interactive VR\tpassive VR": {
+  "label": "gamified interactive VR vs passive VR",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified interactive VR MRI simulation\tstandard 2D educational video": {
+  "label": "gamified interactive VR simulation vs standard 2D educational video",
+  "treatment_is_a": true
+ },
+ "gamification\tplaying Qubit Touchdown\tbefore playing Qubit Touchdown": {
+  "label": "after gameplay vs before gameplay",
+  "treatment_is_a": true
+ },
+ "gamification\tplaying Qubit Touchdown\tbefore playing the game": {
+  "label": "after gameplay vs before gameplay",
+  "treatment_is_a": true
+ },
+ "gamification\tplaying Qubit Touchdown and learning its connections to quantum computing\tbefore playing Qubit Touchdown": {
+  "label": "after gameplay vs before gameplay",
+  "treatment_is_a": true
+ },
+ "gamification\tplaying Qubit Touchdown and learning its connections to quantum computing\tbefore playing the game": {
+  "label": "after gameplay vs before gameplay",
+  "treatment_is_a": true
+ },
+ "gamification\tplaying Qubit Touchdown and learning its connections to quantum computing\tbefore playing the game and learning its connections": {
+  "label": "after gameplay vs before gameplay",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tSocratic hint-based guidance\tdirect-solution platforms such as ChatGPT": {
+  "label": "guided discovery vs direct solution provision",
+  "treatment_is_a": true
+ },
+ "media-design\tAI-generated image augmentation\tbaseline reading without GenAI augmentation": {
+  "label": "AI-generated image augmentation vs baseline reading without image augmentation",
+  "treatment_is_a": true
+ },
+ "media-design\tAI-generated image augmentation\tbaseline text-only reading": {
+  "label": "AI-generated image augmentation vs text-only reading",
+  "treatment_is_a": true
+ },
+ "media-design\tAI-generated image summaries\tAI-generated single images": {
+  "label": "AI-generated image summaries vs AI-generated single images",
+  "treatment_is_a": true
+ },
+ "media-design\tAI-generated image summaries\tbaseline text-only reading": {
+  "label": "AI-generated image summaries vs text-only reading",
+  "treatment_is_a": true
+ },
+ "media-design\tAI-generated image summary\tbaseline reading without GenAI augmentation": {
+  "label": "AI-generated image summaries vs baseline reading without image augmentation",
+  "treatment_is_a": true
+ },
+ "media-design\tAI-generated image-summary augmentation\tbaseline reading without GenAI augmentation": {
+  "label": "AI-generated image summaries vs baseline reading without image augmentation",
+  "treatment_is_a": true
+ },
+ "media-design\tAI-generated image-summary augmentation\tbaseline text-only reading": {
+  "label": "AI-generated image summaries vs text-only reading",
+  "treatment_is_a": true
+ },
+ "media-design\tAI-generated story images\tbaseline text-only reading": {
+  "label": "AI-generated story images vs text-only reading",
+  "treatment_is_a": true
+ },
+ "media-design\tAI-generated text summaries\tbaseline text-only reading": {
+  "label": "AI-generated text summaries vs text-only reading",
+  "treatment_is_a": true
+ },
+ "media-design\tAI-generated text summary\tbaseline reading without GenAI augmentation": {
+  "label": "AI-generated text summaries vs baseline reading without text augmentation",
+  "treatment_is_a": true
+ },
+ "media-design\tAI-generated text-summary augmentation\tbaseline reading without GenAI augmentation": {
+  "label": "AI-generated text summaries vs baseline reading without text augmentation",
+  "treatment_is_a": true
+ },
+ "media-design\tAI-generated text-summary augmentation\tbaseline text-only reading": {
+  "label": "AI-generated text summaries vs text-only reading",
+  "treatment_is_a": true
+ },
+ "media-design\tBloch sphere\tCircle Notation, Quantum Bead, and Qake": {
+  "label": "Bloch sphere vs other qubit representations",
+  "treatment_is_a": true
+ },
+ "media-design\tCircle Notation\tBloch sphere, Quantum Bead, and Qake": {
+  "label": "Circle Notation vs other qubit representations",
+  "treatment_is_a": true
+ },
+ "media-design\tCircle Notation\tother qubit representations": {
+  "label": "Circle Notation vs other qubit representations",
+  "treatment_is_a": true
+ },
+ "media-design\tQake\tBloch sphere": {
+  "label": "Qake vs Bloch sphere",
+  "treatment_is_a": true
+ },
+ "media-design\tQake\tBloch sphere, Circle Notation, and Quantum Bead": {
+  "label": "Qake vs other qubit representations",
+  "treatment_is_a": true
+ },
+ "media-design\tQuantum Bead\tBloch sphere, Circle Notation, and Qake": {
+  "label": "Quantum Bead vs other qubit representations",
+  "treatment_is_a": true
+ },
+ "media-design\tQuantum Bead\tCircle Notation": {
+  "label": "Quantum Bead vs Circle Notation",
+  "treatment_is_a": true
+ },
+ "media-design\tQuantum Bead\tQake": {
+  "label": "Quantum Bead vs Qake",
+  "treatment_is_a": true
+ },
+ "media-design\tQuantum Bead representation\tBloch sphere representation": {
+  "label": "Quantum Bead vs Bloch sphere",
+  "treatment_is_a": true
+ },
+ "media-design\tQuantum Bead representation\tCircle Notation": {
+  "label": "Quantum Bead vs Circle Notation",
+  "treatment_is_a": true
+ },
+ "media-design\tbaseline multimedia unit plus Dirac formalism and Bloch sphere\tbaseline multimedia unit without redundant representations": {
+  "label": "Redundant Dirac-formalism and Bloch-sphere representations vs no redundant representations",
+  "treatment_is_a": true
+ },
+ "media-design\tbaseline multimedia unit plus a redundant Bloch-sphere representation\tbaseline multimedia unit without the redundant representation": {
+  "label": "Redundant Bloch-sphere representation vs no redundant representation",
+  "treatment_is_a": true
+ },
+ "media-design\tbaseline multimedia unit plus both redundant Dirac-formalism and Bloch-sphere representations\tbaseline multimedia unit without additional redundant representations": {
+  "label": "Redundant Dirac-formalism and Bloch-sphere representations vs no redundant representations",
+  "treatment_is_a": true
+ },
+ "media-design\tbaseline multimedia unit plus redundant Dirac equation and Bloch sphere\tbaseline multimedia unit alone": {
+  "label": "Redundant Dirac-equation and Bloch-sphere representations vs no additional representations",
+  "treatment_is_a": true
+ },
+ "media-design\tbaseline unit plus Bloch sphere\tbaseline unit plus symbolic-mathematical equation": {
+  "label": "Bloch-sphere representation vs symbolic-mathematical equation",
+  "treatment_is_a": true
+ },
+ "media-design\tbaseline unit plus symbolic-mathematical equation\tbaseline multimedia unit without redundant representations": {
+  "label": "Symbolic-mathematical equation vs no redundant representations",
+  "treatment_is_a": true
+ },
+ "media-design\tbistable optical illusions for superposition and collapse\tno empirical comparison": {
+  "label": "Bistable optical-illusion analogy vs no empirical comparison",
+  "treatment_is_a": true
+ },
+ "media-design\tflipping card with different bistable drawings on each side\tno empirical comparison": {
+  "label": "Flipping-card bistable-drawing analogy vs no empirical comparison",
+  "treatment_is_a": true
+ },
+ "media-design\tfour study conditions differing in redundant representations\toverall condition mean": {
+  "label": "Four redundant-representation conditions vs overall condition mean",
+  "treatment_is_a": true
+ },
+ "media-design\tinformationally redundant representation conditions\ttraditional multimedia control unit": {
+  "label": "Informationally redundant representations vs traditional multimedia control",
+  "treatment_is_a": true
+ },
+ "media-design\titems containing unneeded images\ttext-only items": {
+  "label": "Unneeded images vs text-only items",
+  "treatment_is_a": true
+ },
+ "media-design\titems requiring visual interpretation of images\tpurely text-based items": {
+  "label": "Required visual-interpretation images vs text-only items",
+  "treatment_is_a": true
+ },
+ "media-design\titems with images\tpurely text-based items": {
+  "label": "Images vs text-only items",
+  "treatment_is_a": true
+ },
+ "media-design\titems with required images\ttext-only items": {
+  "label": "Required images vs text-only items",
+  "treatment_is_a": true
+ },
+ "media-design\tlarge blocks of solution text and lengthy chat conversations\tstructured step-by-step presentation": {
+  "label": "Structured step-by-step presentation vs large blocks of solution text and lengthy chat conversations",
+  "treatment_is_a": false
+ },
+ "media-design\tlegible handwriting\tmessy handwriting": {
+  "label": "Legible handwriting vs messy handwriting",
+  "treatment_is_a": true
+ },
+ "media-design\tnative Google Docs containing the graph\tPDF exported from Google Docs containing the same graph": {
+  "label": "Native Google Docs graph vs PDF-exported graph",
+  "treatment_is_a": true
+ },
+ "media-design\tpaired bistable drawings as a teleportation analogy\tno empirical comparison described": {
+  "label": "Paired bistable-drawing teleportation analogy vs no empirical comparison",
+  "treatment_is_a": true
+ },
+ "media-design\tpaired identical or inverted bistable drawings\tno empirical comparison": {
+  "label": "Paired identical-or-inverted bistable drawings vs no empirical comparison",
+  "treatment_is_a": true
+ },
+ "media-design\tpurely text-based items\titems requiring visual interpretation of images": {
+  "label": "Required visual-interpretation images vs text-only items",
+  "treatment_is_a": false
+ },
+ "media-design\trelative transitions to the symbolic-mathematical representation\trelative transitions to the graphic-geometric representation": {
+  "label": "Symbolic-mathematical representation vs graphic-geometric representation",
+  "treatment_is_a": true
+ },
+ "media-design\trepresentation pairs with the same dimension\trepresentation pairs with different dimensions": {
+  "label": "Same-dimensional representation pairs vs different-dimensional representation pairs",
+  "treatment_is_a": true
+ },
+ "media-design\tspinning optical-illusion drawings\tclassical rotating-object explanation": {
+  "label": "Spinning optical-illusion drawings vs classical rotating-object explanation",
+  "treatment_is_a": true
+ },
+ "media-design\tspinning-illusion drawings\tclassical spinning-marble analogy": {
+  "label": "Spinning-illusion drawings vs classical spinning-marble analogy",
+  "treatment_is_a": true
+ },
+ "media-design\twritten descriptions with 0 images\twritten descriptions with more than 2 images": {
+  "label": "Written descriptions with more than two images vs written descriptions with zero images",
+  "treatment_is_a": false
+ },
+ "practice-amount\tincreased practice opportunities\tfirst attempt or fewer practice opportunities": {
+  "label": "more practice opportunities vs fewer practice opportunities",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore practice opportunities in the tutor\tfewer practice opportunities": {
+  "label": "more practice opportunities vs fewer practice opportunities",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore skill practice opportunities\tfewer skill practice opportunities": {
+  "label": "more skill practice opportunities vs fewer skill practice opportunities",
+  "treatment_is_a": true
+ },
+ "practice-amount\tregular analysis of argumentative texts\tless or no regular analysis": {
+  "label": "regular analysis practice vs less or no regular analysis practice",
+  "treatment_is_a": true
+ },
+ "problem-first\tattempted the two-way chi-square problem before ChatGPT access\timmediate ChatGPT access without pretesting": {
+  "label": "problem-first vs immediate assistance",
+  "treatment_is_a": true
+ },
+ "prompts\tgood, specific prompts\tbad, underspecified prompts": {
+  "label": "specific prompts vs underspecified prompts",
+  "treatment_is_a": true
+ },
+ "prompts\thomework corrections with reflective comments\tcomments confined to the original homework-correction framework": {
+  "label": "reflective comments vs standard correction comments",
+  "treatment_is_a": true
+ },
+ "prompts\treflect prompt before requesting an additional hint\tregular hint without a reflection prompt": {
+  "label": "reflection-before-hint prompts vs direct hints",
+  "treatment_is_a": true
+ },
+ "prompts\tstructured support for metacognitive reflection\texisting guidance": {
+  "label": "structured metacognitive-reflection support vs existing guidance",
+  "treatment_is_a": true
+ },
+ "prompts\tstudent-generated engineering-design task with reflective activity and existing scaffolds\tno alternative condition reported": {
+  "label": "reflective activity with existing scaffolds vs no alternative condition reported",
+  "treatment_is_a": true
+ },
+ "scaffolding\tChat Melody LLM-based teachable agent with structured dialogue and iterative guidance\tindependent analysis using instructional materials and recorded lecture videos": {
+  "label": "structured dialogue and iterative guidance vs independent analysis with instructional materials and recorded lectures",
+  "treatment_is_a": true
+ },
+ "scaffolding\tDBox learner-LLM co-decomposition\tbaseline": {
+  "label": "learner-LLM co-decomposition vs baseline",
+  "treatment_is_a": true
+ },
+ "scaffolding\tDBox learner-LLM co-decomposition\tbaseline condition": {
+  "label": "learner-LLM co-decomposition vs baseline",
+  "treatment_is_a": true
+ },
+ "scaffolding\tGenAI use with a detailed, high-quality overall software design and expert guidance\tGenAI use without a detailed, high-quality overall software design": {
+  "label": "detailed overall software design with expert guidance vs no detailed overall software design",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcomplete solutions from existing assistance tools\tminimal, tailored guidance": {
+  "label": "complete solutions vs minimal tailored guidance",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdirected self-guided MSS activity\tpre-activity MSS performance": {
+  "label": "directed self-guided MSS activity vs pre-activity performance",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdirected self-guided MSS activity\tpre-activity assessment": {
+  "label": "directed self-guided MSS activity vs pre-activity assessment",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdirected self-guided MSS activity followed by a delayed MSS assessment\tperformance before the activity": {
+  "label": "delayed post-activity MSS assessment vs pre-activity performance",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdirected self-guided MSS activity followed by an immediate transfer task\tperformance before the activity": {
+  "label": "immediate post-activity transfer task vs pre-activity performance",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdirected self-guided MSS activity using simulations, feedback, and summaries\tpre-assessment before the activity": {
+  "label": "directed self-guided MSS activity with simulations, feedback, and summaries vs pre-assessment",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplicit CER argumentation scaffolds in Fall 2023\tminimal argumentation scaffolding in Fall 2022": {
+  "label": "explicit or structured CER argumentation scaffolds vs minimal or no argumentation scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplicit CER argumentation scaffolds in Spring 2024\tminimal argumentation scaffolding in Fall 2022": {
+  "label": "explicit or structured CER argumentation scaffolds vs minimal or no argumentation scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplicit CER-based argumentation scaffolds\tminimal scaffolding or no argumentation instruction": {
+  "label": "explicit or structured CER argumentation scaffolds vs minimal or no argumentation scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplicit, structured argumentation scaffolds\tminimal or no argumentation scaffolding": {
+  "label": "explicit or structured CER argumentation scaffolds vs minimal or no argumentation scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tguided IRSA data activity with scaffolding and filtering guidance\tthe same activity without scaffolding": {
+  "label": "scaffolded activity with filtering guidance vs the same activity without scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tincreased guidance for iterative problem framing\texisting guidance": {
+  "label": "increased guidance for iterative problem framing vs existing guidance",
+  "treatment_is_a": true
+ },
+ "scaffolding\tlater semesters with more heavily structured CER scaffolds\tearlier semesters with minimal or less structured scaffolding": {
+  "label": "more heavily structured CER scaffolds vs minimal or less structured scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tpersonalized Parsons puzzle scaffolding\tcomplete personalized correct code solution": {
+  "label": "personalized Parsons-puzzle scaffolding vs complete personalized correct code solution",
+  "treatment_is_a": true
+ },
+ "scaffolding\tpersonalized Parsons puzzles\tcomplete personalized code solutions": {
+  "label": "personalized Parsons-puzzle scaffolding vs complete personalized code solution",
+  "treatment_is_a": true
+ },
+ "scaffolding\tpersonalized Parsons-puzzle scaffolding\tcomplete personalized code solution": {
+  "label": "personalized Parsons-puzzle scaffolding vs complete personalized code solution",
+  "treatment_is_a": true
+ },
+ "scaffolding\tstructured support for design limitations and feasibility\texisting guidance": {
+  "label": "structured support for design limitations and feasibility vs existing guidance",
+  "treatment_is_a": true
+ },
+ "scaffolding\tstudent-generated engineering-design task with existing guidance and rubric\tno alternative condition reported": {
+  "label": "student-generated engineering-design task with existing guidance and rubric vs no alternative condition reported",
+  "treatment_is_a": true
+ },
+ "scaffolding\tstudent-generated engineering-design task with physics and mathematics rubric support\tno alternative condition reported": {
+  "label": "student-generated engineering-design task with physics and mathematics rubric support vs no alternative condition reported",
+  "treatment_is_a": true
+ },
+ "scaffolding\tupdated Training Manual with adaptive scaffolding after unsuccessful attempts\tinitial Training Manual that more persistently withheld direct solutions": {
+  "label": "adaptive scaffolding after unsuccessful attempts vs persistent withholding of direct solutions",
+  "treatment_is_a": true
+ },
+ "scaffolding\tupdated Training Manual with adaptive scaffolding after unsuccessful attempts\tinitial Training Manual that persistently withheld direct solutions": {
+  "label": "adaptive scaffolding after unsuccessful attempts vs persistent withholding of direct solutions",
+  "treatment_is_a": true
+ },
+ "simulation\tcomputational implementation of a multi-type particle interaction model\tnot stated": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tdiseño y modificación del modelo de partículas\tno comparación especificada": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\timplementación educativa del modelo de partículas\tno comparación especificada": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\timplementación educativa del modelo de partículas en Python\tno comparación especificada": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\timplementación y experimentación con el modelo de partículas\tno comparación especificada": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tinterdisciplinary particle-model project connecting physics, mathematics, programming, and systems thinking\tnot stated": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tprogramming and implementing the particle simulation in Python\tnot stated": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tvisual and game-like particle simulation activities\tnot stated": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "test-format\t2 hr individual plus 1 hr group final exam\ttraditional individual-only final exam": {
+  "label": "individual-plus-group exam vs individual-only exam",
+  "treatment_is_a": true
+ },
+ "test-format\tasynchronous two-stage final exam with 3-hour individual stage and 1.5-hour group stage\ttwo-stage midterm group exams": {
+  "label": "two-stage final exam vs two-stage midterm exam",
+  "treatment_is_a": true
+ },
+ "test-format\tperceived understanding after collaborative group exam\taverage group exam score": {
+  "label": "perceived understanding vs average group exam score",
+  "treatment_is_a": true
+ },
+ "test-format\tperceived understanding after collaborative group exam\taverage individual exam score": {
+  "label": "perceived understanding vs average individual exam score",
+  "treatment_is_a": true
+ },
+ "test-format\ttwo-stage final exam with a group stage\ttwo-stage midterm exam with a group stage": {
+  "label": "two-stage final exam vs two-stage midterm exam",
+  "treatment_is_a": true
  }
 }

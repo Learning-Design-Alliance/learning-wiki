@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 293 claims (223 show a difference, 50 mixed, 20 no difference) · 220 studies (119 associational, 41 causal, 31 review, 12 theoretical, 8 design, 7 qualitative, 2 quant-synthesis), `q1`–`q4` · 11 of 220 report an effect size · 291 claims rest on one study
+> **Evidence** · 295 claims (223 show a difference, 51 mixed, 21 no difference) · 222 studies (120 associational, 41 causal, 31 review, 12 theoretical, 8 qualitative, 8 design, 2 quant-synthesis), `q1`–`q4` · 11 of 222 report an effect size · 293 claims rest on one study
 
 ## How to read this page
 
@@ -330,6 +330,8 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Black and Indigenous people are severely underrepresented among Canadian physics students and professionals](../claims/black-indigenous-physicists-severely-underrepresented-canada.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [NAPLAN's design bias favouring standard Australian English exacerbates inequity for LBOTE students, especially in remote Indigenous communities](../claims/naplan-lbote-inequity.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Prior physics and math preparation differed significantly by gender and race/ethnicity at course entry](../claims/prior-preparation-gaps-gender-race.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [All student groups constructed a functional black box and engaged in authentic experimental reasoning, inferring hidden obstacle shapes from marble scattering](../claims/black-box-scientific-reasoning-groups.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Lower-achieving Black students receive additional attention only when paired with another Black student, not in mixed-race pairs](../claims/black-students-attention-only-in-black-black-pairs.md) [~M] — an instructional effect differs by group
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

@@ -51,3 +51,4 @@ Section 3 of the position paper reports, citing Stadermann, van den Berg and Goe
 - [Physics faculty lack consensus on what topics should be taught in modern physics](no-faculty-consensus-modern-physics-topics.md) — related
 - [Physics teaching is described as stuck in outdated pre-20th-century content, and barriers to including Modern and Contemporary Physics are multiple and interacting](mcp-teaching-outdated-content-barriers.md) — a broader claim this one bears on
 - [Textbook writers often fail to provide prompts for explicit reflection on NoS despite the explicit-reflective approach being essential](nos-textbooks-lack-explicit-reflection-prompts.md) — related
+- [Entering 12th-grade pupils had little prior knowledge of quantum concepts: entanglement was mentioned twice and EPR once among 55 answers](pupils-little-prior-knowledge-entanglement.md) — a narrower finding that bears on this claim

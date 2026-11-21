@@ -13,7 +13,7 @@ generated:
 # Epistemic Beliefs
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 78 claims (57 show a difference, 14 mixed, 7 no difference) · 53 studies (12 causal, 12 qualitative, 8 design, 7 review, 7 associational, 4 theoretical, 3 quant-synthesis), `q1`–`q3` · 3 of 53 report an effect size · 78 claims rest on one study
+> **Evidence** · 79 claims (58 show a difference, 14 mixed, 7 no difference) · 54 studies (13 qualitative, 12 causal, 8 design, 7 review, 7 associational, 4 theoretical, 3 quant-synthesis), `q1`–`q3` · 3 of 54 report an effect size · 79 claims rest on one study
 
 ## Description
 Epistemic (or epistemological) beliefs are what a learner takes knowledge and knowing to be. Learners who see knowledge as certain, simple and given by authority tend to read conflicting sources less critically and to expect quick answers; learners who see it as tentative and evidence-based integrate sources and argue more. Beliefs are measured by questionnaires and interviews and vary by domain. They predict comprehension of conflicting texts and argumentation, moderate inquiry-based designs, and are an outcome that instruction in the nature of science or in sourcing can change.
@@ -110,6 +110,7 @@ Epistemic (or epistemological) beliefs are what a learner takes knowledge and kn
 - [Nature-of-science perceptions showed no statistically significant change after the astronomy program, but the majority of students' beliefs aligned with NOS tenets throughout](../claims/dsbk-nos-perceptions-unchanged-yet-aligned.md) [-M] — measured as an outcome of the instruction studied
 - [Students' belief that they only need to get answers in a science class often blocks building an appropriate story](../claims/answer-focus-blocks-story-building.md) [+W] — learners who differ on it differ in outcomes
 - [Traditional demonstration-and-verification labs do not measurably contribute to conceptual understanding and harm epistemological attitudes](../claims/traditional-verification-labs-ineffective.md) [+M] — measured as an outcome of the instruction studied
+- [A magnet-in-tube NOS activity led high school students to assimilate consensual epistemic aspects of the nature of science, including that there is no universal scientific method and that observation is theory-laden.](../claims/nos-magnet-tube-activity-epistemic-assimilation.md) [+W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Can instruction shift learners' views of how scientific knowledge is made and judged, and do the shifts last?* [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](../claims/both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) [+M]

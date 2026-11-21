@@ -48,3 +48,4 @@ Pearson correlations on 74 successfully recorded viewings (twitches ranged 3 to 
 - [Changes in presence over the two videos interacted with major: Early Childhood major for emotional connectivity and STEM focus for awareness of self](major-interactions-presence-change.md) — related
 - [Participants noticed more pivotal moments after the Minecraft.edu video than after the real-classroom video, especially student-driven moments](more-pivotal-moments-minecraftedu-video.md) — related
 - [The XRPS shows sufficient Rasch-based validity and reliability evidence for measuring presence in immersive 360-degree videos of gaming environments](xrps-valid-gaming-environment-360-videos.md) — related
+- [Head motion during the gamified VR session is strongly negatively correlated with preparedness scores (Spearman's ρ ≈ −0.75)](head-motion-preparedness-correlation.md) — related

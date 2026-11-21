@@ -47,3 +47,4 @@ Grading task with 231 pre-service teachers who rated strong and weak essays with
 ## Related Claims
 - [Analytic grades matched expert criteria more often for weak essays while holistic grades did so for strong essays](consensus-agreement-expert-criteria-by-approach-and-essay.md) — related
 - [Grading variability: 40.7% of grade variance lies between teachers and essay quality is the largest random effect](variance-decomposition-teacher-grading.md) — related
+- [Form-substance discrimination develops from novice holistic impressions toward expert analytical separation and responds to pedagogical intervention](fsd-developmental-trajectory-novice-to-expert.md) — related

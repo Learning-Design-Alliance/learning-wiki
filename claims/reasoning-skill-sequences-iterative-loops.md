@@ -52,3 +52,4 @@ Analysis of skill patterns across students and cases, illustrated in Fig. 3 with
 - [Regulatory sequencing in synchronous CSCL: cognitive interactions initiate cycles, co-regulation iterates with task execution, and SSRL follows socio-emotional interactions](regulation-sequencing-pattern-synchronous-cscl.md) — related
 - [Markov transition analysis shows the three clusters differ in workflow dynamics: iterative optimization loops, rapid prototyping flows, and browsing-anchored exploration](markov-workflow-dynamics-three-clusters.md) — related
 - [Expert problem-solving follows no consistent order of decisions: sequences vary, with flexible connections and repeated iterations between decisions](no-consistent-order-expert-decisions.md) — related
+- [Student teams need increased guidance for iterative problem framing in student-generated engineering design tasks](increased-guidance-iterative-problem-framing.md) — related

@@ -50,3 +50,4 @@ Narrative thematic synthesis of the review corpus (21 reports, 20 studies suppor
 - [Physical and virtual laboratory modalities produce different learning processes and transfer despite equivalent test scores](modality-differences-in-process-and-transfer.md) — related
 - [Combining a video experiment with a virtual experiment does not foster conceptual understanding more than a virtual experiment alone during remote schooling](video-virtual-combination-no-advantage-over-virtual-only.md) — reports the opposite
 - [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — related
+- [Students reported that pandemic suspension of laboratory activities negatively impacted their learning, even with remote experiments, and preferred in-person lab work](students-prefer-in-person-labs-over-remote.md) — reports the opposite

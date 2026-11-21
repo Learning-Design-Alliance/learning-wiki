@@ -92,3 +92,4 @@ The paper cites Basori et al. (2011) for the claim that realistic avatars commun
 - [Participants rate SOPHIE's actionable feedback highest among system features, above avatar realism](sophie-actionable-feedback-highest-rated-feature.md) — related
 - [Qualitative themes indicate high-trait motivational language and embodied expression both benefited the learning experience](qualitative-embodiment-and-motivational-language-benefits.md) — a narrower finding that bears on this claim
 - [Moderate adaptivity, but not high adaptivity, significantly increases visual attention to the AI tutor avatar relative to a non-adaptive baseline](moderate-adaptivity-increases-avatar-dwell-time.md) — related
+- [ITS and RTS occupy complementary strengths: software-based systems excel in cognitive adaptability and scalability while robot-based systems excel in emotional and social engagement](its-rts-complementary-strengths.md) — related

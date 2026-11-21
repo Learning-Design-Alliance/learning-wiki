@@ -54,3 +54,4 @@ Survey of 590 questionnaires (roughly 200 each year, 2013-2015) filled out by Sl
 - [In a streamlined ATLAS Z-path masterclass, three of four ASP students became newly interested in pursuing particle physics in graduate school after analyzing ATLAS data](asp2022-atlas-masterclass-career-interest.md) — related
 - [Career plans stated after Masterclasses roughly align with current professions, with pronounced peaks in IT and physics and some respondents converging into physics or IT from other plans](imc-career-plans-diagonal-it-physics-peaks.md) — related
 - [Most former Masterclass respondents build careers outside science or R&D, most frequently in IT](imc-careers-spread-across-professions.md) — related
+- [More than 50% of Indian Astronomy Olympiad medalists over the past 25 years pursued a PhD in sciences or engineering](olympiad-medalists-majority-pursue-phd.md) — related

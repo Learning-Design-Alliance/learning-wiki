@@ -50,3 +50,5 @@ Study of GE-CLASS pre/post responses from Potsdam laboratory courses analyzed on
 - [Potsdam (GE-CLASS) students' personal views agree with experts less than filtered US (E-CLASS) physics majors both before and after instruction](ge-class-lower-than-eclass-you-questions.md) — related
 - [Cumulative score distributions show Potsdam students reach lower total scores pre and post instruction, with larger instructional shifts for GE-CLASS, significant only for GE EXPERT-questions](ge-class-cumulative-distribution-lower.md) — related
 - [GE-CLASS students know experts' views better than their personal views show, and the E-/GE-CLASS gap on EXPERT-questions narrows after instruction](you-expert-gap-and-narrowing.md) — related
+- [Respondents know expert views better than they hold them: overall Expert scores exceed YOU scores on the E-CLASS](expert-scores-exceed-you-scores.md) — related
+- [All item-wise pre-to-post shifts in both SEE and YOU scores show negligible effect sizes (Cohen's d < 0.2), with conclusions resting on low uncertainty from large sample sizes](item-shifts-negligible-effect-sizes.md) — related

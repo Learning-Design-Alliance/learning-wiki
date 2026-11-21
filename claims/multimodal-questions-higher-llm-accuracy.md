@@ -54,3 +54,4 @@ Subgroup analysis by question format across the included studies (text-only 47 s
 - [LLMs underperformed on image-based dental examination questions compared with text-based questions](llms-underperform-image-based-questions.md) — reports the opposite
 - [LLMs perform worse on dental licensing examinations than on medical licensing examinations](llms-perform-worse-dental-than-medical-licensing-exams.md) — related
 - [ChatGPT-4o's accuracy on U.S. Dental Decks was consistent across question formats (plain-text, case-box, and image-based)](chatgpt-4o-us-question-format-consistency.md) — related
+- [GPT-4o performs far worse on items requiring image interpretation (49%) than on text-only items (81%)](gpt4o-required-image-items-weaker.md) — related

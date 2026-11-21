@@ -51,3 +51,4 @@ Platform usage data from the cross-sectional survey (Table 2), analyzed by chi-s
 - [Titles and thumbnails mirror transcript framing: learning-oriented language and imagery dominate G1/G2 while productivity and urgency language dominate G3](multimodal-titles-thumbnails-mirror-framing.md) — related
 - [Viewers of learning-oriented content describe ChatGPT as a tutor or thinking partner, while viewers of output-oriented content raise over-reliance and cognitive-offloading concerns](viewer-comments-diverge-by-framing.md) — related
 - [Indian students rely mainly on online resources, especially YouTube, for astronomy learning beyond textbooks, and curricula do not teach evaluation of online credibility](india-students-youtube-primary-astronomy-resource.md) — related
+- [For young people, the internet, specifically YouTube, is the major source of learning astronomy content in India](youtube-major-source-astronomy-learning-young-indians.md) — related

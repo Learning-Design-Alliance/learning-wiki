@@ -57,3 +57,4 @@ Multivariable logistic regression on the 1,134-student sample with Hosmer–Leme
 - [Risk of GPA decline during the shift to eLearning was higher among senior students, students with a B-grade GPA, and students with shy personalities](gpa-decline-predictors-elearning-shift.md) — related
 - [COVID-19 contagion anxiety for oneself or others increases the likelihood of poor academic performance by more than 3 times](contagion-anxiety-predictor-poor-performance.md) — related
 - [Learning concentration impairment during distance education is the strongest predictor of poor academic performance, raising the odds more than 8 times](concentration-impairment-strongest-predictor-poor-performance.md) — related
+- [Academic department and GPA predicted correctness: engineering students had the highest odds of correct responses, and self-reported course grades mostly did not predict performance](department-gpa-predict-radian-understanding.md) — related

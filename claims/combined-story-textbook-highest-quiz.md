@@ -52,3 +52,4 @@ Experiment 2 with 86 undergraduates assigned to story, photocopied textbook, typ
 - [Quiz accuracy declines from immediate to 1-week delayed testing regardless of text medium](quiz-accuracy-declines-after-one-week-delay.md) — related
 - [No significant interactions emerged between text medium and any other variable (test time, complexity, engagement)](no-interactions-with-text-medium.md) — related
 - [The advantage of having read the story was evident up to three weeks later on both quiz and recall measures](story-advantage-persists-three-weeks.md) — related
+- [Summaries act as a pre-reading tool, with visual summaries advantageous in time-sensitive reading](summaries-as-prereading-cognitive-tool.md) — related

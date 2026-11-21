@@ -54,3 +54,4 @@ Annual student feedback from the Python4Physics program, as reported by the auth
 - [Every surveyed NAC student reported that peer support made them feel more comfortable in STEM despite rarely encountering career scientists of similar race or ethnicity](nac-peer-support-comfort-in-stem.md) — related
 - [Students oriented toward STEM careers show more positive science attitudes, with non-STEM-intending students least positively impacted and astronomy/physics-career students most](astro-attitude-correlates-stem-career-orientation.md) — related
 - [Students who engage with STEM professionals and science-related activities are more likely to pursue STEM degrees, per figures a report cites](stem-engagement-increases-degree-pursuit.md) — related
+- [More than 50% of Indian Astronomy Olympiad medalists over the past 25 years pursued a PhD in sciences or engineering](olympiad-medalists-majority-pursue-phd.md) — related

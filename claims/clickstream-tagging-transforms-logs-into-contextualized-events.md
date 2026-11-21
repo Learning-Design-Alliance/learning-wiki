@@ -53,3 +53,4 @@ Descriptive account of the CLICKSTREAM prototyping process, in which learning sc
 - [Audit finds the stored context fields do not operationally distinguish contextual-scope Types C and D](context-type-c-d-not-operationally-distinguished.md) — related
 - [Epistemic network analysis provides a better account of temporal patterns between socio-cognitive events than coding-and-counting](ena-outperforms-coding-and-counting-temporality.md) — related
 - [Revising the material based on log files, mapped learning habits and evaluation results raised achievement in the following semester](log-based-revision-improves-achievement.md) — related
+- [Tutor usage concentrates in the course unit with the highest tutor-topic coverage, exceeding combined usage of all other units](tutor-usage-concentrates-highest-coverage-unit.md) — related

@@ -68,6 +68,7 @@ Questioning that targets the *reasoning behind* an error converts a mistake into
 - [Evaluate learning twofold: check activity results and question students in discussion](twofold-activity-evaluation-questions-discussion.md)
 - [Provide learners with teacher training before AVT sessions, coaching them to guide rather than tell](teacher-training-before-avt-sessions.md)
 - [Configure ChatGPT prompts to act as a teacher who guides students toward correct answers without revealing them](chatgpt-teacher-guidance-prompting-strategy.md)
+- [Guide students through step-by-step error breakdowns instead of presenting correct answers](step-by-step-error-breakdown-strategy.md)
 
 ## Examples
 - Instead of telling a student they cannot subtract a larger number from a smaller number, ask: "Do we have enough ones to take 7 ones from 3 ones?" Instead of directly correcting an incorrectly renamed minuend, ask: "Does 8 tens and 13 tens equal 83?"

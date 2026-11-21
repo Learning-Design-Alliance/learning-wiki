@@ -73,3 +73,4 @@ Descriptive 20-year trend for Black/African American bachelor's degrees in the p
 - [The plotted ratio of physics degrees shows fluctuation with a recent decrease described as clearly obvious](physics-degree-ratio-recent-decrease.md) — related
 - [Self-reported URM fractions in recent USPAS sessions ranged from 14% to 16%, with Black/African American counts chronically low](uspas-urm-fractions-recent-sessions.md) — related
 - [The workshop proposed center outcomes targeting diversity because QISE fields currently have among the lowest percentages of women and of people who are African-American, Black, and/or Latine](qise-diversity-gap-motivates-center.md) — related
+- [Online physics BS enrollment at ASU has grown rapidly, reaching 478 students in Spring 2025 versus 178 in-person](asu-online-physics-bs-enrollment-478-vs-178.md) — related

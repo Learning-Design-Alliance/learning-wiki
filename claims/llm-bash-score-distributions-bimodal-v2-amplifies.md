@@ -55,3 +55,4 @@ Descriptive distribution analysis of the four LLMs' grades under both prompt var
 - [Average H-scores rose from near-zero in pre-LLM offerings to 11.9 in Spring 2026, with maximum scores reaching 81](h-score-distributions-rose-over-time.md) — related
 - [All four LLMs passed both JNME exams under official scoring, with near-perfect scores in essential sections](llms-pass-jnme-official-scoring.md) — related
 - [In this cohort, 47% of students achieved a perfect CRT score with a mean of 2.1/3, higher than a large cross-study reference population](crt-score-distribution-skewed-high.md) — related
+- [Carelessness estimates from the contextual slip models are bimodally distributed while BKFC estimates are normally distributed](carelessness-estimate-distribution-differences.md) — related

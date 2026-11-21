@@ -58,3 +58,4 @@ Repeated-measures ANOVA on the 30-student experimental group's three attitude me
 - [Within the experimental group, AAT, EIS and EAS scores rose significantly from pre-test to post-test](experimental-group-prepost-gains.md) — related
 - [Within-group gains over time occurred in both groups for academic performance, but only the embodied learning group showed significant within-group gains in attitudes and self-efficacy.](el-within-group-gains-three-outcomes.md) — related
 - [AI attitudes improve in all groups with no significant between-group differences](ai-attitudes-improve-all-groups-no-between-group-difference.md) — a broader claim this one bears on
+- [Student attitudes toward LLM graders became more positive over the semester, and students strongly felt a manual-review option must remain available](student-attitudes-toward-llm-graders-improved-over-semester.md) — a narrower finding that bears on this claim

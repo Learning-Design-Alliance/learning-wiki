@@ -69,3 +69,4 @@ Experiment 1B replicated Experiment 1A with 120 undergraduates; "change scores w
 - [Participants report VR lessons significantly more enjoyable than PC lessons](vr-more-enjoyable-than-pc.md) — related
 - [VR lessons rated easier to use than PC, but only in the larger-sample experiments](vr-ease-of-use-mixed-across-experiments.md) — related
 - [Learning in immersive VR produces higher self-reported presence, agency, location, body ownership, and embodied learning than learning via a PC screen](vr-higher-presence-agency-embodied-learning-than-pc.md) — related
+- [Embodied VR laboratory modules improved pre- to post-test scores on all three test questions in an engineering student trial](embodied-vle-pre-post-score-gains.md) — related

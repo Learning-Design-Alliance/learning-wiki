@@ -49,3 +49,4 @@ Trial-based comparison in which the same LLMs answered with and without a requir
 - [Chain-of-Thought rationale quality shows no direct correlation with the accuracy of simulated student responses](cot-rationale-quality-no-correlation-simulated-accuracy.md) — related
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — related
 - [LLM scores are more consistent across trials than human scores, with GPT-4 using explanations showing the greatest confidence](llm-trial-consistency-exceeds-human-consistency.md) — related
+- [Gains in explaining engagement mechanisms were smaller: advanced reasoning rose from 0.55% to 9.42% and incorrect answers fell from 22.40% to 13.09%](engagement-explanations-weaker-gains.md) — a narrower finding that bears on this claim

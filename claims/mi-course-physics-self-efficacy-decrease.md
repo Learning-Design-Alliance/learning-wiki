@@ -56,3 +56,4 @@ Dependent samples t-tests on SOSESC-P survey responses from three MI courses (N 
 - [The class showed positive but not statistically significant self-efficacy change over the semester (normalized change 0.09, Cohen's d = 0.27)](class-positive-nonsignificant-change-0-09.md) — related
 - [Women's calculus self-efficacy significantly decreases over the semester while men's shows little change](women-calculus-self-efficacy-decrease.md) — related
 - [For women, changes in physics self-efficacy and calculus self-efficacy track together; for men they do not](physics-calculus-selfefficacy-tracking-gender.md) — related
+- [Both women's and men's physics self-efficacy and interest scores declined from the beginning to the end of the first algebra-based physics course](self-efficacy-interest-decline-over-physics-1.md) — related

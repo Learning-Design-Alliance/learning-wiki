@@ -52,3 +52,4 @@ C. Z. Mann, J. Wang, A. Sales, and J. A. Gagnon-Bartsch. (2024). Using publicly 
 - [Fitting an imputation model with all covariates using only the small trial sample reduces precision relative to pretest-only adjustment](rct-only-all-covariates-hurt-precision.md) — related
 - [A machine learning model using 105 predictors predicts next-year standardized math achievement with out-of-sample prediction R-squared of .70–.78](ml-model-predicts-next-year-math-achievement-r2-70-78.md) — related
 - [A U.S.-trained ridge regression model explains 60.8% of variance in U.S. science achievement and outperforms a forward-selected OLS model](ridge-model-60-8-variance-outperforms-ols.md) — related
+- [The LOOP estimator provides an unbiased ATE estimate with greater precision than the Student's t-test when covariate imputation improves on mean imputation](loop-estimator-unbiased-precise.md) — related

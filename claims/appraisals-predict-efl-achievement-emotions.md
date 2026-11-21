@@ -57,3 +57,4 @@ Structural paths in the LSEM of 1103 Chinese college EFL learners. The article r
 - [Foreign language enjoyment, boredom, and anxiety each significantly mediate the relationship between social support and English academic achievement](fl-emotions-mediate-support-achievement.md) — related
 - [English academic self-concept moderates the association of social support with foreign language enjoyment (positively) and foreign language anxiety (negatively)](self-concept-moderates-support-emotion-paths.md) — related
 - [Control appraisals strongly predict student teachers' emotions, whereas value appraisals show no significant relation](control-appraisals-predict-emotions.md) — reports the opposite
+- [Higher student writing assessment literacy is negatively associated with writing anxiety among Chinese EFL undergraduates](swal-negatively-predicts-writing-anxiety.md) — related

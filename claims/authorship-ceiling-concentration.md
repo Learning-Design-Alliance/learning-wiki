@@ -48,3 +48,4 @@ Descriptive statistics of the 133-case dataset (Table 1, Figure 1B) show authors
 ## Related Claims
 - [Distributions of external control scores differ across school-function domains, with curriculum skewing toward internal control](control-score-distributions-vary-by-domain.md) — related
 - [Average H-scores rose from near-zero in pre-LLM offerings to 11.9 in Spring 2026, with maximum scores reaching 81](h-score-distributions-rose-over-time.md) — related
+- [Participants showed near-ceiling representational competence with the provided external representations before the learning unit](representational-competence-ceiling.md) — related

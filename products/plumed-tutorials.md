@@ -33,4 +33,4 @@ An open, searchable website run by the PLUMED community that distributes communi
 - [Automated compatibility badges and documentation tooltips annotating PLUMED input files in tutorials](automated-compatibility-badges-and-documentation-tooltips-annotating-plumed-input-files-in.md)
 
 ## Key Sources
-- Tribello, G. A., et al. (2024). PLUMED Tutorials: a collaborative, community-driven learning ecosystem. https://arxiv.org/abs/2412.03595
+- Tribello, G. A., et al. (2024). PLUMED Tutorials: a collaborative, community-driven learning ecosystem. https://arxiv.org/abs/2412.03595. [doi:10.48550/arxiv.2412.03595](https://doi.org/10.48550/arxiv.2412.03595)

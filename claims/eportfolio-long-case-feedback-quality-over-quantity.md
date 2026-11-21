@@ -46,3 +46,4 @@ Thematic analysis of three student focus groups (21 students) on receiving feedb
 
 ## Related Claims
 - [Feedback quantity and timeliness varied across three clinical schools, with each student receiving between 4 – 5.4 feedback episodes for eight long cases](eportfolio-long-case-feedback-quantity-timeliness-varied.md) — related
+- [Participants praise the platform's feedback reports for code quality and incremental learning but find them lacking depth and sometimes inconsistent](feedback-reports-praised-lack-depth.md) — related

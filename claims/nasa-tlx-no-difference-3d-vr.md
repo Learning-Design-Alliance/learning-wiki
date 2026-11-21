@@ -58,3 +58,5 @@ Secondary outcome of the feasibility RCT, NASA TLX completed after the video and
 - [The video condition showed descriptively higher task-load scores than the game condition, with no statistically significant difference](vbl-higher-task-load-not-significant.md) — related
 - [Cognitive load did not differ significantly between chatbot conditions, with trends toward lower performance and effort scores in the ChatGPT condition](cognitive-load-no-difference-chatbot-conditions.md) — related
 - [Perceived cognitive load did not differ between VR and slideshow learning conditions](no-cognitive-load-difference-vr-slideshow.md) — related
+- [The AR-rendered-cube setup did not add to learners' reported cognitive load compared to a regular cube with video tutorials](ar-setup-no-extra-cognitive-load.md) — related
+- [All modalities met usability expectations, but Game-VR incurred the highest cognitive workload while remaining within tolerable limits](vr-workload-usability-tradeoff.md) — related

@@ -46,3 +46,4 @@ The editorial reports the boundary condition from Zong and Schunn's study: "fine
 
 ## Related Claims
 - [This issue's peer-review study is reported to find fine-grained matching by prior performance is needed to yield a significant effect of pairing, unlike coarse-grained matching](fine-grained-skill-matching-needed-peer-review.md) — a broader claim this one bears on
+- [Pairs of non-Black students and pairs of non-EL students receive less individual attention than mixed-composition pairs](pair-composition-race-el-attention.md) — related

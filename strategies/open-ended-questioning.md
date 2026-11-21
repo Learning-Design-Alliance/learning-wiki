@@ -64,6 +64,7 @@ Open questions push learners beyond retrieval into elaboration, explanation, and
 - [Socratic Seminar](socratic-seminar.md) — a full pattern built on student-to-student open questioning
 - [Use low-stakes, multiple-entry warm-ups like \"Which One Doesn't Belong?\" to reduce fear of wrong answers](which-one-doesnt-belong-low-stakes-warmup.md)
 - [Use post-presentation survey questions adapted from Sinclair to elicit and code learners' metacognitive justifications](sinclair-post-presentation-survey-strategy.md)
+- [Pose provocative open discussion questions about Maxwell's equations to stimulate the search for correct answers](provocative-discussion-questions-maxwell-equations.md)
 
 ## Examples
 - **Reciprocal Teaching (Palincsar & Brown)** — students take turns generating open questions about a text segment, alongside summarizing and predicting; see [Reciprocal Teaching](../elements/reciprocal-teaching.md).

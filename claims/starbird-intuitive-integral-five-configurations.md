@@ -49,3 +49,4 @@ Textual analysis (type d/e) of Starbird's (2006) presentation in section 4, usin
 - [Students can apply procedural knowledge to solve integration problems but show limited understanding of basic integration concepts](procedural-strong-conceptual-limited-integral.md) — related
 - [Understanding Stewart's formal definition of the definite integral demands mobilizing a system of prior knowledge across a network of semiotic functions](stewart-definition-prior-knowledge-demands.md) — related
 - [Intuition functions as something distinct from formal reasoning but enabling it](intuition-enables-formal-reasoning.md) — related
+- [Calculus students find conceptualizing the product of two quantities the most complex part of definite-integral problem solving](students-struggle-product-quantities-definite-integrals.md) — related

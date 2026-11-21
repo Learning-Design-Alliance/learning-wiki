@@ -9,6 +9,7 @@ generated:
   at: 2026-11-20
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-11-21
 sources:
   - id: wenya-zhang-2024
     resource: "https://doi.org/10.2139/ssrn.4969409"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Parents with limited statistical literacy turn to media league tables that are mischaracterized as definitive measures of school quality. [→ Wenya Zhang 2024](#wenya-zhang-2024)

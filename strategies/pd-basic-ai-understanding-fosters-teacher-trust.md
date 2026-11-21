@@ -48,6 +48,7 @@ The article recommends teacher training and professional development that develo
 ## Related Strategies
 
 - [Minimize platform complexity and build instructor self-efficacy through training to support e-learning adoption](minimize-complexity-and-build-self-efficacy-training.md)
+- [Design LLM-based edtech so educators can mediate harms, vet tools through independent regulators, and explore educator-led tool-building](educator-centered-edtech-design-recommendations.md)
 
 ## Examples
 -

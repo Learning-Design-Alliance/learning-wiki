@@ -50,3 +50,4 @@ Multiple regression with posttest Overall Rating as outcome, pretest rating, two
 - [Adult learners using the closed-loop ITS improved significantly across all seven BARS presentation dimensions over a 30-day practice window (Cohen's d = 0.39–0.90)](its-prepost-gains-all-seven-bars-dimensions.md) — related
 - [Oral presentation performance improved significantly over time, but only control-group students showed statistically significant growth between the two presentations](performance-growth-over-time-only-control-significant.md) — related
 - [Minutes spent using Khan Academy was strongly associated with topics mastered but unrelated to test scores](minutes-spent-topics-mastered-strong-correlation.md) — related
+- [Voluntary tutor usage is positively correlated with Unit 1 assessment grades among adult learners (Transactions coefficient 0.26, p < 0.001)](tutor-transactions-positive-grade-correlation.md) — related

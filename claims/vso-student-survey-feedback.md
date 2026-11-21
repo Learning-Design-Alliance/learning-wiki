@@ -55,3 +55,4 @@ Self-report survey on a 5-point Likert scale administered via WeChat to the 86 e
 - [Each of the four ARCS motivational components (attention, relevance, confidence, satisfaction) was rated significantly higher in the e-learning group](arcs-components-all-higher-ecme.md) — related
 - [Students in the blended PBL-CBL-seminar group report higher teaching-mode evaluation, internship-effect self-evaluation, and satisfaction than LBL students](blended-group-higher-questionnaire-satisfaction.md) — related
 - [Students report high satisfaction with both interactive video and traditional demonstration approaches](high-satisfaction-both-video-and-demonstration.md) — related
+- [Students evaluated the remote experimental model positively, reporting improved understanding, motivation, and self-directed learning, while noting time cost, resource limitations, and video quality issues](student-evaluation-remote-model-strengths-weaknesses.md) — related

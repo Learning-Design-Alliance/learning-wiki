@@ -56,3 +56,4 @@ Idea-deletion coding across the 45-participant experiment: three Interactive Eng
 - [Editing by readiness level: word additions did not differ by group, but deletion patterns differed, with SITU users refraining from deleting words from paragraphs marked ready](situ-editing-by-readiness-level-patterns.md) — related
 - [A conflict arises between creators' rights to delete their own content and the system's need for active content sharing](content-ownership-deletion-versus-sharing-conflict.md) — related
 - [Cognitive conflict from differing group opinions motivates students to revise their ideas in ILSC learning](cognitive-conflict-drives-idea-revision-ilsc.md) — a broader claim this one bears on
+- [In a within-subjects lab study (n = 12), Glitter improved discussion engagement, sparked new ideas, supported reflection, and increased preparedness for in-class activities](glitter-lab-study-improves-pre-class-engagement.md) — related

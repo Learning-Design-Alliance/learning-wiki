@@ -28,4 +28,4 @@ A PLUMED tutorial-rendering tool that validates input files against PLUMED versi
 - [PLUMED Tutorials](plumed-tutorials.md)
 
 ## Key Sources
-- Tribello, G. A., et al. (2024). PLUMED Tutorials: a collaborative, community-driven learning ecosystem. https://arxiv.org/abs/2412.03595
+- Tribello, G. A., et al. (2024). PLUMED Tutorials: a collaborative, community-driven learning ecosystem. https://arxiv.org/abs/2412.03595. [doi:10.48550/arxiv.2412.03595](https://doi.org/10.48550/arxiv.2412.03595)

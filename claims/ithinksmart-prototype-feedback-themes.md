@@ -78,3 +78,4 @@ The authors' interpretation of the same feedback themes, stating the prototype "
 - [Most participants express interest in interacting with other students within the virtual reality simulation](virtual-doc-multiplayer-interest.md) — related
 - [Most Movement Simulation Reality items required revision, and students flagged 18 items overall versus nine for workers](movement-reality-items-require-revision.md) — related
 - [Visual objective markers significantly improved navigation of the virtual environment for students less familiar with virtual games](objective-markers-aid-novice-game-navigation.md) — related
+- [Informal exhibition surveys showed strong public engagement, with appreciation for guides' pedagogical skills and interactive elements](exhibition-surveys-show-strong-engagement.md) — related

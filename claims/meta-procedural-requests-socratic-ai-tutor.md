@@ -58,3 +58,4 @@ Observational frequency analysis of the 2,874-turn corpus from 221 sessions. The
 - [Post-solution dialogues in physics tutoring most prominently serve explaining conceptual knowledge and integrating it with strategic problem-solving knowledge](post-solution-dialogue-roles-conceptual-integration.md) — related
 - [Treatment group discourse followed a seven-step developmental process while control group discourse followed only three steps and rarely settled on a position](seven-step-versus-three-step-discourse-process.md) — related
 - [Guided Socratic worked examples carry the chapter's mathematical content, with the learner supplying each intermediate step](socratic-worked-examples-spherical-geometry.md) — related
+- [A NotebookLM-based tutor configured with a Training Manual and teacher-curated sources can facilitate Socratic dialogue for conceptual physics problems](notebooklm-socratic-tutor-facilitates-dialogue.md) — related

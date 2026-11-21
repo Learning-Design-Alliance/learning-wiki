@@ -66,3 +66,4 @@ Matched pre/post data for N = 18 students in the interdisciplinary Foundations o
 ## Related Claims
 - [Upper-level undergraduate students show large pretest-to-posttest gains on quantum key distribution concepts after working through the QKD QuILT](qkd-quilt-pretest-posttest-gains.md) — a broader claim this one bears on
 - [Computing the overall probability of generating a shared key bit is the hardest QKD QuILT skill, improving from roughly 10% to roughly 60% correct](qkd-quilt-overall-probability-question-hardest.md) — related
+- [The largest pre-to-post gains occurred on questions about position measurement and consecutive measurements (4a, 4d, 4e), though post-test correctness still left room for improvement](consecutive-measurement-largest-gains.md) — related

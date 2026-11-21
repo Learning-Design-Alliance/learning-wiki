@@ -59,3 +59,4 @@ Univariate chi-square analysis of first-attempt pass/fail outcomes for 5780 Part
 - [The authors interpret introductory community college astronomy as a potential equalizer for students of different ethnic and socioeconomic backgrounds](astronomy-equalizer-stem-access-interpretation.md) — reports the opposite
 - [Demographic variables (gender, ethnicity, socioeconomic status, age) are not significant predictors of community college astronomy performance](demographics-not-predictors-community-college-astronomy-performance.md) — related
 - [Univariate analysis shows significant first-class degree gaps by ethnicity, gender, disability, SES, parental education, school type and duration](univariate-awarding-gaps-first-class.md) — related
+- [Gender and culture influence how proposals are written and how successful they are, and dual-anonymous peer review at ESO has not cancelled the gender gap in proposal success rates](gender-bias-proposal-review.md) — related

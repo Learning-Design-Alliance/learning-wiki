@@ -55,3 +55,4 @@ Class rhythm heatmap analysis (Figure 3) of the pilot cohort's temporal interact
 - [Residents answered a gamified medical knowledge competition heavily outside scheduled hours, with 28.8% of questions completed on weekends and 53.1% between 17:00 and 08:00.](kaizen-im-off-hours-engagement.md) — related
 - [Health professional students' use of an online learning repository peaks at times of increased academic need such as examinations](repository-usage-peaks-exam-periods.md) — related
 - [Questions peaked 2–3 minutes after a new topic was introduced and at the video's final minute](sam-question-timing-peaks.md) — related
+- [Platform chat activity follows a structured pattern, peaking at 5 PM and dropping nearly to zero by 9 PM](hourly-chat-activity-peak-evening.md) — related

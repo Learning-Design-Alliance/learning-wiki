@@ -8,12 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
-newest_evidence: 2025
-recheck_by: 2030
+newest_evidence: 2026
+recheck_by: 2031
 sources:
-  - id: kudina-2025
+  - id: kudina-2026
     resource: "https://doi.org/10.48550/arxiv.2606.16626"
-    title: "Kudina, O. (2025). Using AI in engineering education: a balancing act, driven by clear purpose. Draft version, to appear in The Routledge Handbook of the Philosophy of Engineering, 2nd ed. https://arxiv.org/abs/2606.16626 [doi:10.48550/arxiv.2606.16626](https://doi.org/10.48550/arxiv.2606.16626)"
+    title: "Kudina, O. (2026). Using AI in engineering education: a balancing act, driven by clear purpose. Draft version, to appear in The Routledge Handbook of the Philosophy of Engineering, 2nd ed. https://arxiv.org/abs/2606.16626 Originally published 2025. [doi:10.48550/arxiv.2606.16626](https://doi.org/10.48550/arxiv.2606.16626)"
     author: Kudina, O.
     q: 2
     i: "?"
@@ -25,16 +25,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
-`q2 i?` In the questionnaire, the most frequently cited problematic aspect of LLM use was incorrect, fabricated or misleading output (53 responses), followed by the constant need to cross-check outputs (34 responses). [→ Kudina 2025](#kudina-2025)
+`q2 i?` In the questionnaire, the most frequently cited problematic aspect of LLM use was incorrect, fabricated or misleading output (53 responses), followed by the constant need to cross-check outputs (34 responses). [→ Kudina 2026](#kudina-2026)
 
 ## Evidence
 
-### Kudina 2025
+### Kudina 2026
 
-Kudina, O. (2025). Using AI in engineering education: a balancing act, driven by clear purpose. Draft version, to appear in The Routledge Handbook of the Philosophy of Engineering, 2nd ed. https://arxiv.org/abs/2606.16626 [doi:10.48550/arxiv.2606.16626](https://doi.org/10.48550/arxiv.2606.16626)
+Kudina, O. (2026). Using AI in engineering education: a balancing act, driven by clear purpose. Draft version, to appear in The Routledge Handbook of the Philosophy of Engineering, 2nd ed. https://arxiv.org/abs/2606.16626 Originally published 2025. [doi:10.48550/arxiv.2606.16626](https://doi.org/10.48550/arxiv.2606.16626)
 
 `q2 · i?` · `associational · r1`
 
@@ -62,3 +62,4 @@ Questionnaire analysis of problematic aspects, summarized in Table 3 with counts
 - [Implementation constraints identified were factual accuracy and content drift, culturally narrow outputs, prompt fatigue, and data privacy concerns](gpt-implementation-constraints-ite.md) — a narrower finding that bears on this claim
 - [AI responses do not consistently identify missing clinical information in incomplete student prompts](ai-does-not-identify-missing-prompt-information.md) — related
 - [85% of students used LLMs for post-class case generation practice but raised concerns about content accuracy and difficulty calibration](post-class-llm-practice-student-concerns.md) — related
+- [Participants value AI tools like ChatGPT for doubt resolution but cross-check against verified platforms, and most still balance AI with human guidance](ai-tools-doubt-resolution-cross-checking.md) — related

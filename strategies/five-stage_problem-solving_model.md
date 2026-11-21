@@ -67,6 +67,7 @@ The model's value lies in converting problem solving from an unstructured search
 - [Structure PBL instruction through the five steps of question, analysis, problem solving, results reporting, and reflection and evaluation](pbl-five-step-english-teaching-strategy.md)
 - [Assign students new word problems requiring them to discover their own solution steps and algorithms.](assign-novel-word-problems-self-discovery.md)
 - [Use a five-step framework for context-rich problems: focus on the problem, describe the physics, plan the solution, execute the plan, evaluate the answer](heller-five-step-context-rich-problem-framework.md)
+- [Structure teachable-agent dialogue around a five-stage help-seeking process](five-stage-help-seeking-agent-dialogue.md)
 
 ## Examples
 - **Mathematics classrooms**: Students restate a word problem in their own words, list knowns and unknowns, sketch a diagram, attempt a solution showing all work, then verify the answer against the original question — Polya's understand/plan/carry out/look-back cycle in practice

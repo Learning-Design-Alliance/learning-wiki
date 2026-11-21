@@ -50,3 +50,4 @@ Results-section analysis of Table 1, where GPT baseline results are taken from p
 - [Chain-of-thought prompting increases recall at the expense of precision for GPT-4 but lowers GPT-3.5 performance](cot-recall-precision-tradeoff-socratic.md) — possibly the same claim (merge candidate)
 - [Automatic text-similarity metrics do not correlate with manual evaluation for Socratic utterance generation](automatic-metrics-uncorrelated-socratic-manual-eval.md) — related
 - [GPT-4 context descriptions improve story-matched 3D model generation quality from 3.2 to 4.6 out of 5](gpt4-descriptions-improve-3d-model-context-match.md) — related
+- [QUEST-trained question generators raise simulated exam scores by 18.5% over the next strongest baseline across five subjects](quest-trained-generators-18-5-percent-exam-gain.md) — related

@@ -50,3 +50,4 @@ Set of three experiments using a computer-based electronics lesson with verbal o
 - [In one author's classroom media experiments, intuitive learners tended to score above sensing learners, though not in every format comparison](intuitive-learners-outperform-sensing-learners.md) — related
 - [Meta-analyses testing the matching hypothesis show a negligible overall effect of matching teaching to students' learning styles (d = 0.04)](matching-learning-styles-negligible-effect.md) — a broader claim this one bears on
 - [In the face-to-face classroom, sensing and verbal learning styles correlate positively with student satisfaction](sensing-verbal-styles-satisfaction-face-to-face.md) — reports the opposite
+- [Verbal vs. visual preference learners show distinct gaze patterns, though no statistical correlation is claimed](verbal-visual-preference-gaze-patterns.md) — reports the opposite

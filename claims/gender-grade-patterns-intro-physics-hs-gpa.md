@@ -88,3 +88,4 @@ Table I row: physics 2 grade means of 2.73 (male) vs 2.48 (female), p < 0.001, C
 - [First-year gender differences in physics grades favored male students among low-GPE students, but were reduced or reversed in second-year courses](first-year-physics-gender-gap-low-gpe-reverses-second-year.md) — related
 - [Sample 1 female students earned somewhat higher course grades than male students despite lower FCI scores](fci-female-course-grades-higher.md) — reports the opposite
 - [Male-instructed classes show a small performance gender gap in favor of males (0.20 SD), while female-instructed classes show no significant gap](male-instructed-classes-performance-gap.md) — related
+- [Male participants scored significantly higher than female participants in Mathematics and Physics grades in the QPic cohort](gender-grade-gap-math-physics-qpic-cohort.md) — related

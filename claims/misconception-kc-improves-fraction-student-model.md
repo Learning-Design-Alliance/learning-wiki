@@ -56,3 +56,5 @@ This is evidence about a component an adaptive tutor could rely on, a student-mo
 
 - [Equal accuracy on fraction comparison items can mask fundamentally different misconceptions](fraction-accuracy-masks-distinct-misconceptions.md) — related
 - [Probability ranking, consistent with novice fraction-comparison strategies such as numerator-denominator differences, is the most common incorrect justification students give for probability ratio answers](probability-ranking-common-incorrect-justification.md) — related
+- [Passing the two-phase test implies the AI can identify misconceptions and generate targeted practice problems for at least a (1−ε) fraction of student misconceptions](passing-test-implies-feedback-capability.md) — related
+- [Statistical sampling theory shows high-confidence validation of misconception tracking is feasible with approximately 100 students and roughly 25 questions per student](sampling-theory-feasible-validation-student-counts.md) — related

@@ -67,3 +67,4 @@ Experiment 2 (219 Prolific participants, two-item ECL and GCL scales, α = 0.66 
 - [Prior-knowledge ratings differed between instructor-presence conditions in both experiments, complicating interpretation of the Experiment 1 transfer effect](prior-knowledge-differences-instructor-presence.md) — related
 - [Temporary instructor presence on lecture slides did not enhance retention or transfer learning outcomes across two preregistered experiments](temporary-instructor-presence-no-learning-benefit.md) — related
 - [Instructor presence did not raise self-reported social presence or perceived learning, contrary to a recent meta-analytic finding](instructor-presence-no-social-presence-effect.md) — related
+- [Study condition showed no significant overall effect on extraneous or germane cognitive load](no-ecl-gcl-condition-effect.md) — related

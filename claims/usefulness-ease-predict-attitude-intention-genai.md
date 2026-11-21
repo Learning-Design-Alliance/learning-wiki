@@ -69,3 +69,4 @@ PLS-SEM analysis in the 434-teacher sample testing H1–H4. PU→AOU (β = 0.178
 - [Computer self-efficacy is positively correlated with all TAM variables in students' use of Zoom for language learning](computer-self-efficacy-positive-correlation-tam-zoom.md) — related
 - [Perceived ease of use of Zoom is positively correlated with perceived usefulness, attitude and behavioral intention](peu-positive-correlation-tam-zoom.md) — related
 - [The game showed a small improvement over time in Theory of Planned Behaviour variables but no significant condition effect on attitudes, intentions or behaviour](tpb-time-effect-no-condition-effect.md) — related
+- [Perceived Usefulness, Perceived Ease of Use, and Behavioral Intention toward ABCD technologies show no significant relationship among college students](pu-peou-bi-no-relationship-abcd-assessments.md) — reports the opposite

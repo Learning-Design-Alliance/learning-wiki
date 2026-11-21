@@ -49,3 +49,4 @@ Qualitative coding of the open-ended critical thinking questionnaire given to pe
 - [Reflective narratives reveal five themes: student learning, perceived utility of videos, information and digital skills, teamwork and problem-solving, and challenges](five-themes-video-creation-reflections.md) — related
 - [Peer feedback promoted critical reflection, collaboration and engagement, but one interviewed student doubted its reliability because peers were statistics beginners](peer-feedback-soft-evaluative-judgement-statistics.md) — related
 - [PLTL peer leaders show no significant overall critical thinking difference from a matched non-PLTL control group, though controls trended toward negative gains](pltl-vs-control-cctst-no-significant-interaction.md) — related
+- [Users report that Disha's Socratic hint-based guidance fosters independent thinking and critical problem-solving](disha-socratic-hints-foster-independent-thinking.md) — related

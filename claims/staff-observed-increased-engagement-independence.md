@@ -53,3 +53,4 @@ Focus group interviews with 3 staff members who supervised the project. Staff no
 - [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
 - [Students gave positive feedback on the MKID laboratory course, which became the primary student-led initiative in the new laboratory course](positive-student-feedback-mkid-course-student-led.md) — related
+- [During the activity students improved group communication, exercised creativity in problem-solving, and took ownership of the collective investigative process.](nos-activity-communication-creativity-ownership.md) — related

@@ -47,3 +47,4 @@ Statistical analysis of pretest-posttest Engineering Attitudes Survey answers fr
 - [Pre/post survey showed only a small, non-significant positive change in students' views of science](small-nonsignificant-tssi-change-inclusive-astronomy.md) — related
 - [Quantitative Likert-scale attitude data showed no trends significant at the p<0.05 level using a Wilcoxon signed rank test](sciwri-quantitative-nonsignificant-wilcoxon.md) — related
 - [A four-lesson AI and Robotics workshop with open-source robots and Montessori-based activities is feasible for children aged 6-9 in a low-resource Mexican town](pilot-ai-robotics-workshop-mexican-town-feasible.md) — related
+- [Engagement profiles showed no significant pre-to-post changes in motivation or academic self-efficacy, and attitudes toward AI increased only among active completers](affective-outcomes-engagement-profiles-maic.md) — related

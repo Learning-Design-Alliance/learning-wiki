@@ -50,3 +50,5 @@ E-/GE-CLASS comparison study: pre-instruction E-CLASS EXPERT score was 0.858±0.
 - [Item-level: Potsdam YOU-views are significantly lower on 30% of items, largest shifts are positive for Q29/Q17 and negative for Q18, and the highest/lowest items are the same in both datasets](ge-class-item-level-differences.md) — related
 - [Potsdam (GE-CLASS) students' personal views agree with experts less than filtered US (E-CLASS) physics majors both before and after instruction](ge-class-lower-than-eclass-you-questions.md) — related
 - [Potsdam students' personal views (YOU-questions) shift positively upon instruction with a very small effect size](ge-class-you-pre-post-small-positive-shift.md) — related
+- [Respondents know expert views better than they hold them: overall Expert scores exceed YOU scores on the E-CLASS](expert-scores-exceed-you-scores.md) — related
+- [All item-wise pre-to-post shifts in both SEE and YOU scores show negligible effect sizes (Cohen's d < 0.2), with conclusions resting on low uncertainty from large sample sizes](item-shifts-negligible-effect-sizes.md) — related

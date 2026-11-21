@@ -50,3 +50,4 @@ The chapter summarizes multiple misconception studies (Prather et al. 2003; Wall
 - [LLMs show discoverability bias: they accurately identify only high-quality open-ended biology responses and miss nuanced misconceptions](llm-discoverability-bias-open-ended-biology-assessment.md) — related
 - [The proportion of students dismissing the Big Bang theory as unsubstantiated speculation decreased from pre-course to post-course](big-bang-dismissal-decreased-post-course.md) — related
 - [The proportion of responses expressing space as empty dramatically reduced after the soundscape, challenging the empty-space misconception](emptiness-misconception-reduced-after-soundscape.md) — a narrower finding that bears on this claim
+- [Students' definitions revealed common misconceptions about gravity and the Big Bang, often framed through metaphorical language](gravitational-physics-misconceptions-definitions.md) — related

@@ -52,3 +52,4 @@ Pilot study questionnaire findings following the structured demonstration of Bea
 - [Novice AI users showed a Trust-but-Can't-Verify pattern: accepting unfamiliar constructs they could not assess, then symptom-level debugging](trust-but-cant-verify-novices.md) — related
 - [Students remained cautious about relying on GenAI throughout the creative process, citing imperfect outputs and perceived loss of ownership](student-cautions-genai-ownership-and-output-quality.md) — related
 - [Thematic coding of student reflections shows peers seen as understanding context and AI feedback seen as actionable, with one quarter of reflections expressing skepticism of AI](pairr-reflections-show-critical-interrogation-of-ai-feedback.md) — related
+- [Learners attempt to share personal values with LLM-generated learning materials as they would with human instructors, raising design questions about AI versus human disclosure](sharing-personal-values-with-llm-materials.md) — related

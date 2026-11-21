@@ -59,3 +59,4 @@ Results from Q6–Q8 on the Moon's movements and the three-body system: "nearly 
 - [Students remain confused when changes of referential are needed to understand astronomical phenomena such as moon phases, seasons, eclipses and orbital motion around a common centre of mass](referential-change-difficulty-astronomy-students.md) — related
 - [Including astronomy topics improves science literacy and specific competencies, with many effect sizes of 0.8 or larger](astronomy-inclusion-improves-science-literacy.md) — related
 - [Around 10 percent of surveyed school students in grades 1 to 10 believed the Apollo Moon landings were a hoax](ten-percent-students-believe-moon-landing-hoax.md) — related
+- [Students' astronomical misconceptions persist and they revert to them unless the alternative ideas are directly confronted while teaching](astronomy-misconceptions-persist-unless-confronted.md) — related

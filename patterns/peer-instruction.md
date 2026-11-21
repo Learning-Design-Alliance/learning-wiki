@@ -20,7 +20,7 @@ grain_size: lesson
 # Peer Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 33 claims (18 for, 15 mixed) · 36 studies (15 causal, 5 quant-synthesis, 5 review, 5 associational, 4 theoretical, 2 qualitative), `q1`–`q4` · 9 of 36 report an effect size · 27 claims rest on one study
+> **Evidence** · 34 claims (19 for, 15 mixed) · 37 studies (16 causal, 5 quant-synthesis, 5 review, 5 associational, 4 theoretical, 2 qualitative), `q1`–`q4` · 9 of 37 report an effect size · 28 claims rest on one study
 
 ## Description and scope
 
@@ -106,6 +106,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [In an upper-level QM course, student performance on clicker questions rose significantly from ICT to GCT in one single-group pre-post study](../claims/qm-clicker-gct-improvement-over-ict.md) [+W] — attached 2026-11-17 from Ryan Sayer et al. (2016), which proposed "Peer instruction sequence: individual clicker response, 1-2 minute peer discussion in groups of two or three, individual re-response, then whole-class discussion".
 - [Rotating student groups at each interaction partly solved the influence of advanced students on average students in PI](../claims/group-rotation-reduces-advanced-student-influence.md) [+W] — attached 2026-11-19 from Paco H. Talero L (2022), which proposed "PI cycle with hands-on experiments and rotating groups of 2–4 students answering individually then by group".
 - [In one uncontrolled pre-post study, gain curves for learning about falling bodies through PI showed a more or less linear evolution over ten measurement points, without peaks, dips or interference usually reported](../claims/linear-learning-curve-no-peaks-pi.md) [~W] — attached 2026-11-19 from Paco H. Talero L (2022), which proposed "PI cycle with hands-on experiments and rotating groups of 2–4 students answering individually then by group".
+- [Student performance rose from pre-test to post-test after implementing the quantum measurement MQS with peer instruction, in one group with no comparison group; questions 2b, 4b, and 4c showed major pre-test-to-post-test changes](../claims/mqs-improves-quantum-measurement-posttest.md) [+W] — attached 2026-11-21 from Yangqiuting Li et al. (2024), which proposed "Carefully sequenced multiple-choice question sequence with peer instruction, built from common student difficulties"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

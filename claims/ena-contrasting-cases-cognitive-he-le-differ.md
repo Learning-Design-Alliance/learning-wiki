@@ -53,3 +53,4 @@ Epistemic Network Analysis of contrasting cases comparing 26 high-effectiveness 
 - [University students with high versus low GenAI literacy scores show significantly different ENA interaction structures during an AI-assisted abstract writing task](genai-literacy-groups-differ-in-ena-interaction-structure.md) — related
 - [Epistemic network analysis shows high-learning groups integrate re-annotations with knowledge-confirming discourse more densely than low-learning groups](ena-high-learning-dense-reannotation-discourse-networks.md) — related
 - [Epistemic network analysis provides a better account of temporal patterns between socio-cognitive events than coding-and-counting](ena-outperforms-coding-and-counting-temporality.md) — related
+- [Epistemic Network Analysis revealed a knowledge co-construction tendency in active questioners versus a co-regulation tendency in responsive navigators](ena-coconstruction-versus-coregulation.md) — related

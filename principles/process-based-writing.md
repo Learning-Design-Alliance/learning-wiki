@@ -217,6 +217,7 @@ Better drafts with help, better final versions, better unaided writing on the ne
 - [Argumentative Essay Writing online module with FeedbackFruits peer feedback](../designs/aew-module-feedbackfruits-peer-feedback.md)
 - [For children, keep editing separate from composing: revise during writing, edit grammar after content is complete](../strategies/separate-composing-from-editing.md)
 - [Add peer review and revision cycles to computational essay courses to supply feedback and correctness checking](../strategies/peer-review-revision-for-computational-essays.md)
+- [Revise proposals by removing dead wood, avoiding generic opening statements, writing short clear sentences, and playing the critical reviewer of your own draft](../strategies/proposal-revision-strategy.md)
 
 ## Key Sources
 - Hayes, J. R., & Flower, L. S. (1980). Identifying the organization of writing processes. In *Cognitive processes in writing* (pp. 3-30). Lawrence Erlbaum.

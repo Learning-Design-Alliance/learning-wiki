@@ -55,6 +55,7 @@ The article recommends that institutions sequence AI and online expansion so tha
 - [Develop statutory e-Learning guidelines through multi-stakeholder policy dialogues and build staff capacity in e-Learning content development before scaling up](statutory-elearning-guidelines-policy-dialogue-strategy.md)
 - [Train faculty in a blended learning format and build a multidisciplinary development team](faculty-blended-training-team-strategy.md)
 - [Multi-level intervention strategies for institutions, faculty and students to improve online engineering instruction](online-engineering-instruction-intervention-strategies.md)
+- [Institutional adoption strategy for ABCD assessments: infrastructure, policy, faculty development, audits, and hybrid human-AI grading](abcd-assessment-institutional-adoption-strategy.md)
 
 ## Examples
 -

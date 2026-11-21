@@ -67,3 +67,4 @@ The recall ANOVA showed a genre-by-time interaction, "F (3, 82) = 3.07, p = .03,
 - [In Experiment 2, reading the textbook-plus-story produced higher quiz scores than reading either version of the textbook alone, while the story outperformed the photocopied textbook](combined-story-textbook-highest-quiz.md) — related
 - [The advantage of having read the story was evident up to three weeks later on both quiz and recall measures](story-advantage-persists-three-weeks.md) — related
 - [In Experiment 2, the textbook-plus-story condition produced the greatest transportation, and the story alone produced greater transportation than either textbook version](transportation-varies-by-text-genre-exp2.md) — related
+- [Summaries act as a pre-reading tool, with visual summaries advantageous in time-sensitive reading](summaries-as-prereading-cognitive-tool.md) — related

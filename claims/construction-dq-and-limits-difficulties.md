@@ -73,3 +73,4 @@ Same exam corpus (N=166 with Construction elements). The article notes this find
 - [Procedural math fluency is often not the primary barrier; upper-division students struggle to interpret and generate mathematical expressions in physics](interpretation-not-procedural-fluency-barrier.md) — a broader claim this one bears on
 - [Difficulty expressing the differential line or area element fades across consecutive exposures, decreasing from 14% to 9% of line-distribution solutions from Class. Mech. to E&M](differential-element-difficulty-fades-over-time.md) — related
 - [Execution errors are rarely the primary barrier to student success; most fundamental execution errors are preceded by significant difficulties in activation or construction](execution-errors-rarely-primary-barrier.md) — related
+- [The limit-to-zero conception of the differential can hinder students' understanding of integrals as sums](zero-limit-differential-hinders-integral-as-sum.md) — related

@@ -103,3 +103,4 @@ Interview and listening-session data showed "some level of AI tool use" among ne
 - [Fourteen types of teaching and learning methods/strategies were identified in ChatGPT-integrated lesson plans, led by cooperative learning (7/29)](fourteen-teaching-methods-chatgpt-lesson-plans.md) — related
 - [STEM faculty show cautious adoption of genAI for teaching, mostly for preparing materials rather than student-facing tasks](faculty-cautious-genai-teaching-adoption.md) — related
 - [Reviewed studies report positive pre-service teacher perceptions of GenAI as a learning tool in Ghana and Greece](pst-positive-genai-perceptions-reviewed-studies.md) — related
+- [Participants value AI tools like ChatGPT for doubt resolution but cross-check against verified platforms, and most still balance AI with human guidance](ai-tools-doubt-resolution-cross-checking.md) — related

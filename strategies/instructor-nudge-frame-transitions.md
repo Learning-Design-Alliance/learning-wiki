@@ -54,6 +54,7 @@ The article recommends that instructors use the framework diagnostically during 
 - [Attend to students' epistemic frames during problem solving and deliberately shift or follow them to keep students productive](attend-to-and-shift-student-frames-strategy.md)
 - [Instructors use framing-based insights to devise strategic plans for in-class group work that promote productive framing and student-induced frame shifts](strategic-in-class-group-work-productive-framing.md)
 - [Attend to epistemic stances toward group work as one way to support productive and equitable group work](attend-to-epistemic-stances-for-equitable-group-work.md)
+- [Teachers use SPF as a methodological guide: analyze students' frame transitions and provide targeted feedback during problem-solving activities](spf-teacher-diagnostic-frame-transition-analysis.md)
 
 ## Examples
 -

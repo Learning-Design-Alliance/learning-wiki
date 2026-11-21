@@ -68,3 +68,4 @@ Task-completion observation for the Forward Euler solver task in both ThaiPASS'1
 - [Adding a brief introduction to basic calculus before the Forward Euler task in 2019 was followed by a significant increase in student attainment and engagement.](thaipass-calculus-intro-increased-attainment.md) — related
 - [Students using LEO Works analyse real satellite data at a close to professional standard and produce colour images and spectral-index maps](students-analyse-real-satellite-data-professional-standard.md) — related
 - [Efficacy of colour imaging as an astronomy engagement gateway remains largely unvalidated](colour-imaging-efficacy-unvalidated.md) — related
+- [The one-hour cluster activity often took two class sessions with frequent data science scaffolding](one-hour-activity-often-took-two-sessions.md) — related

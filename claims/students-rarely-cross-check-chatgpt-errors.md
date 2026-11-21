@@ -53,3 +53,5 @@ Ethnographic observation across all groups; on one occasion ChatGPT incorrectly 
 - [Warning labels alone did not improve performance or reduce reliance on GenAI advice, and students sometimes adopted incorrect AI answers](genai-warning-labels-insufficient-reliance.md) — related
 - [Within prompt–response AI interfaces, students without guidance rarely move beyond prompt tuning, yielding interactions of limited educational value and increased reliance on outputs](prompt-response-interface-limits-learning-value.md) — related
 - [Students generally trusted ChatGPT's theoretical answers without fact-checking, and some anthropomorphized the tool as possessing knowledge](student-trust-and-anthropomorphizing-chatgpt.md) — related
+- [Participants value AI tools like ChatGPT for doubt resolution but cross-check against verified platforms, and most still balance AI with human guidance](ai-tools-doubt-resolution-cross-checking.md) — reports the opposite
+- [High school students show widespread over-reliance on ChatGPT recommendations, adopting incorrect advice in 52.1% of trials](widespread-over-reliance-chatgpt-math-puzzles.md) — related

@@ -72,3 +72,4 @@ Study I, Task 1 (relationship v = λƒ): the same two-group delayed post-test co
 - [MIT-based teaching produced significantly higher permanence-test scores three weeks after instruction than conventional teaching](mit-teaching-higher-permanence-scores-visual-arts.md) — related
 - [The exploratory simulation task produced a higher average normalized gain than the traditional laboratory experiment in Study I](exploratory-task-higher-normalized-gain.md) — related
 - [Guided inquiry with wave simulations significantly improves AP physics students' wave characteristics content performance](guided-inquiry-simulation-wave-characteristics-gain.md) — related
+- [A review of 50 empirical studies found virtual laboratory learning outcomes equal or better than traditional labs](virtual-labs-outcomes-equal-or-better-50-study-review.md) — related

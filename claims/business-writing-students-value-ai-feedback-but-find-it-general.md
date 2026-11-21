@@ -64,3 +64,4 @@ Trends and comments from the Job or Graduate/Professional School Application ass
 - [Students perceived the automated personalized feedback as too general and lacking personal response](automated-feedback-perceived-too-general.md) — a narrower finding that bears on this claim
 - [On descriptive analytical tasks ChatGPT produced logically structured work but lacked deep contextualization, domain-specific insights, and visual elements](chatgpt-descriptive-tasks-generic-outputs.md) — a narrower finding that bears on this claim
 - [Student groups perceive peer assessment in PtBL as beneficial for feedback and engagement but raise bias concerns](student-perceptions-peer-assessment-benefits-bias.md) — related
+- [Participants praise the platform's feedback reports for code quality and incremental learning but find them lacking depth and sometimes inconsistent](feedback-reports-praised-lack-depth.md) — related

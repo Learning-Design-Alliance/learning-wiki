@@ -51,6 +51,7 @@ The article recommends a staged pathway in which adoption is phased (practice, m
 - [Adopt a hybrid model combining virtual and in-person OSCE components, assigning telehealth-suitable skills to virtual stations](hybrid-virtual-in-person-osce-strategy.md)
 - [Integrate the PHLCS into staged medical education assessment and OSCEs](phlcs-staged-assessment-and-osce-strategy.md)
 - [Adopt TDS by piloting in smaller cohorts within institutions that already use traditional double scoring](pilot-tds-in-small-cohorts-with-existing-ds.md)
+- [Institutional adoption strategy for ABCD assessments: infrastructure, policy, faculty development, audits, and hybrid human-AI grading](abcd-assessment-institutional-adoption-strategy.md)
 
 ## Examples
 -

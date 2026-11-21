@@ -42,6 +42,7 @@ The article offers a stepwise recipe: write high-level future-proof lemmas descr
 - [Give feedback against final-standard learning outcomes from day one, supported by a workshop to interpret early failing grades](day-one-final-standard-feedback.md)
 - [Embedding safeguards: LO workshops, feedback phrased in LO terms, weekly teacher meetings, and management briefings](embedding-safeguards-lo-programmatic-assessment.md)
 - [Develop Observable Criteria](develop_observable_criteria.md)
+- [Assignment design strategy using ULOs, qualification level and Bloom's Taxonomy action verbs, with expert examination and refinement rather than regeneration](genai-assignment-design-blooms-refinement-strategy.md)
 
 ## Examples
 -

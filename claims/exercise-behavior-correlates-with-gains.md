@@ -70,3 +70,4 @@ Same log-based correlation analysis on Platform B: time on exercises correlated 
 - [A higher number of completed simulations correlated with better quiz performance, but the author explicitly warns this correlation does not establish causation](simulation-count-correlates-with-quiz-performance.md) — related
 - [Completion rate (percentage of screen cards viewed) correlated with post-test score, but usage time and formative scores did not](completion-rate-correlates-posttest.md) — related
 - [Exam scores correlate positively with correct submissions and negatively with incorrect submissions and solution access](trace-frequencies-correlate-with-exam-scores.md) — related
+- [Teams that learn better use AR less as the activity progresses, while robot usage does not significantly affect learning gain](less-ar-use-signals-abstraction-learning.md) — related

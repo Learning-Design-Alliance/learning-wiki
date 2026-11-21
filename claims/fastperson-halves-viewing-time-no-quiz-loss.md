@@ -8,12 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
-newest_evidence: 2025
-source_checked: 2026-11-05
+newest_evidence: 2026
 sources:
-  - id: kazuki-kawamura-2025
+  - id: kazuki-kawamura-2026
     resource: "https://doi.org/10.48550/arxiv.2608.08990"
-    title: "Kazuki Kawamura. (2025). AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques. Doctoral dissertation, The University of Tokyo. https://arxiv.org/abs/2608.08990 [doi:10.48550/arxiv.2608.08990](https://doi.org/10.48550/arxiv.2608.08990)"
+    title: "Kazuki Kawamura. (2026). AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques. Doctoral dissertation, The University of Tokyo. https://arxiv.org/abs/2608.08990 Originally published 2025. [doi:10.48550/arxiv.2608.08990](https://doi.org/10.48550/arxiv.2608.08990)"
     author: Kazuki Kawamura
     q: 2
     i: "?"
@@ -32,18 +31,18 @@ sources:
 # FastPerson video summarization halves viewing time with no significant quiz-score loss versus normal playback
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
+> **Evidence** · 2 studies · 1 causal `r1`, 1 design `r2` · `q2`
+> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` In experiments with 40 participants watching educational videos, FastPerson achieved an average 53% reduction in viewing time with no statistically significant difference in quiz scores compared with normal playback. [→ Kazuki Kawamura 2025](#kazuki-kawamura-2025)
+`q2 i?` In experiments with 40 participants watching educational videos, FastPerson achieved an average 53% reduction in viewing time with no statistically significant difference in quiz scores compared with normal playback. [→ Kazuki Kawamura 2026](#kazuki-kawamura-2026)
 `q2 i?` 78% of FastPerson participants rated the chapter-by-chapter summary/full-video switching functionality as useful or very useful. [→ Kazuki Kawamura 2025 (2)](#kazuki-kawamura-2025-2)
 
 ## Evidence
 
-### Kazuki Kawamura 2025
+### Kazuki Kawamura 2026
 
-Kazuki Kawamura. (2025). AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques. Doctoral dissertation, The University of Tokyo. https://arxiv.org/abs/2608.08990 [doi:10.48550/arxiv.2608.08990](https://doi.org/10.48550/arxiv.2608.08990)
+Kazuki Kawamura. (2026). AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques. Doctoral dissertation, The University of Tokyo. https://arxiv.org/abs/2608.08990 Originally published 2025. [doi:10.48550/arxiv.2608.08990](https://doi.org/10.48550/arxiv.2608.08990)
 
 `q2 · i?` · `causal · r1`
 
@@ -71,3 +70,4 @@ User-experience ratings from the same 40-participant experiment: a large majorit
 - [AIxSpeed phoneme-level adaptive playback yields higher listenability ratings than constant-speed playback at matched average speed](aixspeed-adaptive-playback-higher-listenability.md) — related
 - An adaptive strategy combining intra-subtest item selection with inter-subtest branching halves achievement test battery length with no loss in measurement quality — related
 - [Watching a novel lecture at 1.5× speed showed no significant difference in immediate quiz performance compared with 1.0× speed for the transducers video](one-point-five-speed-no-significant-difference-transducers-quiz.md) — related
+- [Learners with low L2 proficiency (under 700 TOEIC) answer comprehension quizzes more correctly with the adaptive playback speed system than without it](system-improves-comprehension-low-proficiency.md) — related

@@ -51,3 +51,4 @@ Self-reported outcomes from the authors' decade of mentoring middle-school to co
 - [Freshman Projects projects frequently develop into ongoing research with presentations and student-coauthored publications](fp-projects-blossom-into-publications.md) — a broader claim this one bears on
 - [A student meteor-research project presented at the 2019 MAES won first place in the state-school student group category](maes-2019-meteor-project-first-place-state-schools.md) — a narrower finding that bears on this claim
 - [Students won multiple OTDK prizes in 2019 and 2021, with more first places in 2021](konkoly-students-otdk-prizes.md) — a narrower finding that bears on this claim
+- [Twelve first-year high school students developed physics curriculum knowledge and practical competencies through the metarecycling project, winning science-fair recognition](estudantes-aprendizagem-fisica-metareciclagem-reconhecimento.md) — related

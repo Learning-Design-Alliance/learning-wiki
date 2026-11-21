@@ -75,3 +75,4 @@ Interview finding from the concerns subcategory; participants noted that "connec
 - [Universities in developing countries lacked the financial resources and technical infrastructure to purchase and operate e-learning platforms during COVID-19](universities-lacked-finance-infrastructure-e-learning.md) — related
 - [The openness of a free MOOC does not guarantee equitable access: YWYL enrollment skewed toward developed countries because unrestricted high-speed internet is a necessity](mooc-openness-does-not-guarantee-equitable-access.md) — related
 - [Free or low-cost robotic telescope access equalises instrumentation access across socioeconomic and physical barriers](robotic-telescope-equity-access.md) — related
+- [Scalability and accessibility gaps persist: software systems struggle to reach under-resourced regions while robot systems face high hardware costs](tutoring-systems-scalability-gaps.md) — related

@@ -78,3 +78,4 @@ The review reports these reliance findings as consistent with automation-bias re
 - [Students rarely cross-check ChatGPT outputs, and use it most on topics where they have least knowledge, increasing risk of absorbing errors](students-rarely-cross-check-chatgpt-errors.md) — related
 - [The LLM gave the learner warnings, ethical advice, and feedback on their PFA performance, including psychoeducation](llm-gives-learner-feedback-and-warnings.md) — related
 - [Physicians need awareness that AI tools can negatively influence their cognitive processes, including over-reliance on AI-generated advice](ai-tools-negative-cognitive-influence-physicians.md) — related
+- [A brief AI literacy intervention did not significantly reduce high school students' over-reliance on incorrect ChatGPT recommendations](brief-ai-literacy-intervention-no-over-reliance-reduction.md) — related

@@ -65,6 +65,7 @@ Design challenges sit at the productive end of inquiry-based learning: they work
 - [Project-Based Learning](project-based-learning-pbl.md) — design challenges are a common project type within it
 - [Peer Review](../elements/peer-review.md) — structured critique of design rationales sharpens criteria use
 - [Iteratively re-solving wicked challenges through scenario development and collaborative deliberation](iteratively-re-solving-wicked-challenges.md)
+- [Open-ended team project with hardware criteria, week-by-week task allocation, and a public project show with industry evaluators](open-ended-cep-team-project-strategy.md)
 
 ## Examples
 - **[Learning by Design](https://link.springer.com/article/10.1023/A:1023905509753)** (Kolodner's LBD curriculum) — middle-school science units where students design vehicles and containers, then run "design rules" discussions to extract science principles.

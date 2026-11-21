@@ -52,3 +52,4 @@ Analysis of exam solutions for spontaneous verification of the charge in a regio
 - [Students rarely spontaneously check units or limiting behavior to verify their potential solutions](students-do-not-spontaneously-reflect.md) — related
 - [Students rarely spontaneously reflect on their SoV solutions in either Cartesian or spherical geometries](spontaneous-reflection-rare-sov-solutions.md) — related
 - [Very few students spontaneously reflect on their solutions, with only 20 of 329 students making explicit reflective checks on exams](spontaneous-reflection-rare-across-contexts.md) — a broader claim this one bears on
+- [Without prompting, students repeated their experiments several times to average fall times, and later proposed more precise tools and more objects as ways to increase confidence in conclusions.](students-spontaneous-repetition-and-tool-proposals.md) — related

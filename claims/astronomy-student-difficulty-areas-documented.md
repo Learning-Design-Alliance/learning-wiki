@@ -70,3 +70,4 @@ Instructor observations across course offerings on parallax (d = 1/p) and Kepler
 - [Lack of prior knowledge about the astronomy topics worked in the course was the most-cited difficulty, reported by 44% of participants](lack-prior-astronomy-knowledge-main-difficulty.md) — related
 - [Students judged activity difficulty as balanced overall, but a minority found the topics hard and interest gains were higher for high-energy astrophysics than for solar system work](ssdc-outreach-difficulty-and-interest-patterns.md) — related
 - [The RSA activity improves mastery of Kepler's laws, with the largest gain on the second law, and improves understanding of gravity assist](rsa-improves-kepler-laws-and-gravity-assist.md) — related
+- [Indian class IX students are highly interested in astronomy but a minority show proficiency in celestial sizes, distances and lunar phases](class-ix-high-interest-low-proficiency-astronomy-concepts.md) — related

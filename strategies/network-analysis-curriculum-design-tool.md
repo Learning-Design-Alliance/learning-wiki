@@ -46,7 +46,8 @@ The article recommends using its themes-network model as a systematic aid when d
 - [The proposed network model captures quantitative differences between engineering curricula that a non-temporal mapping does not](../claims/network-model-captures-curriculum-differences.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Sequence CS+X courses carefully in the curriculum: not too early, not too late](sequence-cs-x-courses-timing-strategy.md)
 
 ## Examples
 -

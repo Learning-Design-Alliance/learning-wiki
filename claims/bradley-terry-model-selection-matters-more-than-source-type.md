@@ -92,3 +92,4 @@ Bradley-Terry model fit to all 801 decisive blind comparisons over the eight ver
 - [LLMs show moderate agreement with human coders when extracting explicitly stated data from education studies](llms-moderate-agreement-explicit-data-extraction-education.md) — related
 - [Ranking and pairwise comparison reduce graders' cognitive load relative to numeric scoring, with limits when submissions are similar or numerous](ranking-reduces-grader-cognitive-load.md) — related
 - [LLM-generated feedback quality ratings are similar to human ratings, whereas LLM authenticity ratings are higher and presumably inaccurate](llm-zero-shot-rater-feedback-similar-authenticity-inflated.md) — related
+- [Victory conditions compare AI and human prediction quality against each other and against random guessing, requiring both to significantly beat chance](victory-conditions-beat-random-guessing.md) — related

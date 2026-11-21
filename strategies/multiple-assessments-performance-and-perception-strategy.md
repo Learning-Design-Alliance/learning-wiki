@@ -43,6 +43,7 @@ The article recommends that instructors and administrators examine the instrumen
 - [Assess blended e-learning outcomes with both achievement tests and self-assessment](assess-both-achievement-test-and-self-assessment.md)
 - [Use pre/post attitude surveys with detailed instructor feedback reports as formative assessment for lab course transformation](formative-attitude-survey-feedback-reports-lab-courses.md)
 - [Evaluate curriculum reform with long-term follow-up surveys after graduation, not student evaluations](long-term-followup-curriculum-evaluation.md)
+- [Evaluate educational initiatives with front-end, formative and summative assessments, including pre/post testing and long-term follow-up](three-phase-evaluation-educational-initiatives.md)
 
 ## Examples
 -

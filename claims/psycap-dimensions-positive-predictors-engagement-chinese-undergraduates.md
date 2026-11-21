@@ -52,3 +52,4 @@ Random-coefficient HLM of 3,388 students nested in classes, with gender as contr
 - [Psychological capital significantly and positively predicts competency in interdisciplinary teaching, with self-efficacy the most influential dimension](psycap-predicts-cit-self-efficacy.md) — related
 - [Resilience is positively associated with competency among Chinese radiology residents](resilience-positive-competency-radiology-residents.md) — a narrower finding that bears on this claim
 - [No significant gender differences in self-efficacy, optimism, resilience, perceived stress or GPA among medical undergraduates](no-gender-differences-psychosocial-variables-gpa.md) — related
+- [Higher student writing assessment literacy is positively associated with writing self-efficacy among Chinese EFL undergraduates](swal-positively-predicts-writing-self-efficacy.md) — related

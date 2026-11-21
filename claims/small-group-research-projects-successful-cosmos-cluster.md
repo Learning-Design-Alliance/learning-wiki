@@ -48,3 +48,4 @@ Descriptive practitioner account of the COSMOS Cluster 7 astronomy course, in wh
 - [School-based mental health supports benefit students, but staffing ratios and service availability fall far short of recommendations](school-mental-health-supports-benefits-and-shortages.md) — related
 - [California's ECE programs vary widely in teacher qualifications, staff-to-child ratios, and curriculum requirements, creating programs of varying quality](california-ece-quality-standards-inconsistent-three-aspects.md) — related
 - [Active learning produces better student outcomes than lecture across STEM, including lower failure rates and higher test performance](active-learning-superior-to-lecture-stem.md) — a broader claim this one bears on
+- [Field testing showed focusing on cluster learning outcomes led to more success than concerns over IRSA interface competence](cluster-outcomes-focus-more-success-than-tool-competence.md) — related

@@ -70,3 +70,5 @@ Survey responses to the same position-probability question; "Eleven percent of t
 - [Beginning graduate students who can compute measurement probabilities often cannot use them to find expectation values: 67% answered Question 2(b) correctly but only 39% answered Question 2(c) correctly](expectation-value-calculation-difficulty.md) — related
 - [Students misjudge how relative phases and stationarity affect expectation values of position, momentum, and energy](expectation-value-misconceptions-phase-and-time-dependence.md) — related
 - [Students confuse the density of states with particle number density or the distribution function](density-of-states-confused-with-particle-number.md) — related
+- [A common student difficulty is failing to distinguish between the eigenstates of energy and position operators](energy-position-eigenstate-confusion.md) — related
+- [Before the MQS, students were less likely to answer correctly on position-measurement questions than energy-measurement questions, and struggled more with consecutive measurements with a time interval](position-measurement-harder-than-energy.md) — related

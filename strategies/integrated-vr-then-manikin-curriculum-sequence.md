@@ -53,6 +53,7 @@ The article recommends an integrated, staged approach leveraging both modalities
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
 - [Three-stage instructional sequence: theoretical instruction, virtual simulation training, then phantom-head practice](three-stage-vs-irrigation-instructional-framework.md)
+- [Sequence CS+X courses carefully in the curriculum: not too early, not too late](sequence-cs-x-courses-timing-strategy.md)
 
 ## Examples
 -

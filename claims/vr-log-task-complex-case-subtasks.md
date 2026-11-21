@@ -49,3 +49,4 @@ Exploratory analysis of head-mounted display log data from the VR group (usable 
 - [Four weeks of bimanual tracking training significantly improves 1:1 subtask performance with training time, with no group effect on the 1:1 task](btt-11-performance-improves-with-training-time.md) — related
 - [On complex subtasks, both training time and the group-by-time interaction significantly predict performance, with the complex group better at later progress tests](btt-complex-subtask-group-by-time-effect.md) — related
 - [AI assistance provides no significant overall time savings and can slow completion on easy task variants, with chat-interface friction (prompting time) dominating on trivial tasks](ai-no-efficiency-gain-simple-tasks.md) — related
+- [Subtask-level performance effects are mixed: the AI group did better on calculating the constant of proportionality, the textbook group better on two table values](ai-explanations-mixed-subtask-performance.md) — related

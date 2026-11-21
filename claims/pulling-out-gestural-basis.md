@@ -52,3 +52,4 @@ Across episodes, Alex drew a path on the whiteboard and gestured the trajectory 
 - [The pulling out resource is reusable: students reactivate it two months later on a more general three-dimensional problem with non-zero potential](pulling-out-resource-reusable-two-months.md) — related
 - [Unpacking separation of variables yields a resource graph of three conceptual and three procedural resources](sov-unpacked-resource-graph.md) — related
 - [Students use a \"pulling out\" procedural resource to separate the time and space parts of the wave function when solving the TDSE](pulling-out-procedural-resource-pdes.md) — related
+- [Reactivating the conceptual metaphor frame as a final consistency check — verifying units and boundary-condition behavior — is proposed as a crucial late step in physics problem solving](metaphor-frame-final-consistency-check.md) — related

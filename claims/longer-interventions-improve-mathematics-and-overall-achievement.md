@@ -77,3 +77,4 @@ Subgroup analysis by intervention duration for overall academic achievement. The
 - [Longer VR interventions (at least 1 day) show larger score effects than interventions under 1 day](vr-anatomy-duration-moderates-effects.md) — related
 - [Longer IMCI training duration (≥11 days) is associated with stronger performance benefits in most domains](imci-longer-training-duration-stronger-benefits.md)
 - [High-duration structured PA is associated with higher mathematical self-concept than low-duration structured PA, with no difference between low-duration participants and non-participants](high-duration-structured-pa-higher-math-self-concept.md) — reports the opposite
+- [The Summer 2015 in-person workshop showed anomalously low gain and effect size, attributed to its shorter one-week duration or improving program implementation](summer-2015-workshop-anomalous-low-gain.md) — related

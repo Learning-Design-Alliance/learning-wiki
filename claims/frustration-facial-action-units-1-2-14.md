@@ -50,3 +50,4 @@ Association rule mining (a priori algorithm) on 100 randomly selected AU records
 - [Confusion during learning is associated with facial action units 4, 7, and 12, with tightened lids tending to trigger a lowered brow](confusion-facial-action-units-4-7-12.md)
 - [The emote-aloud procedure is limited by non-reporting and floor effects: 2 of 7 participants did not verbalise affective states and four states were removed from analysis](emote-aloud-floor-effects-limitation.md)
 - [Emote-aloud protocols show learner emotions correlate systematically with AutoTutor dialogue features](emote-aloud-emotions-correlate-with-dialogue-features.md) — related
+- [Other facial action units, face tilt, and gaze direction did not show significant differences as indicators of L2 comprehension](other-aus-gaze-tilt-null-difference.md) — related

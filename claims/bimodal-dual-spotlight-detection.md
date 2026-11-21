@@ -48,3 +48,4 @@ Exp 1e (bimodal, 40.6% at 800 and 1200 Hz edges) showed a linear contrast favori
 - [Distributional learning modulates tone detection in noise, with better detection of high-probability frequencies](distributional-learning-modulates-tone-detection.md) — a broader claim this one bears on
 - [Graded proximity effects: equiprobable rare tones near a distribution mode are detected better than distant ones](proximity-to-mode-graded-detection.md) — related
 - [Distributional learning across a task-irrelevant dimension slows duration decisions for low-probability frequencies](task-irrelevant-distribution-slows-duration-decisions.md) — related
+- [Carelessness estimates from the contextual slip models are bimodally distributed while BKFC estimates are normally distributed](carelessness-estimate-distribution-differences.md) — related

@@ -50,3 +50,4 @@ GLMM analysis of 38 participants' choices in the observational shock-avoidance t
 - [Describing demonstrators as Best versus Worst changed participants' ratings of the demonstrators' performance even though actual performance was identical](description-shifts-performance-ratings.md) — related
 - [Reinforcement learning modeling revealed avoidance of choices made by demonstrators described as Worst, with description affecting copying rather than observational outcome learning](rl-avoidance-of-worst-demonstrators.md) — related
 - [Observing peer videos benefited students regardless of whether the peer performance was better or worse than their own](peer-videos-benefit-regardless-of-performance-level.md) — related
+- [Post-test performance was approximately equal regardless of AI explanation quality, suggesting the dialogue process rather than explanation correctness drives the gain](post-test-performance-independent-of-ai-explanation-quality.md) — related

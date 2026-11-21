@@ -78,3 +78,4 @@ A proxy comparison of word counts: the prompt template contained 356 words versu
 - [Generative AI, when used under precise conditions, reduces the cost and time of producing high-quality MCQs without compromising quality](genai-reduces-mcq-cost-and-time.md) — related
 - [SensEmo's feedback system responds in about 3.1 seconds on average, and students made approximately 2.2 manual interventions per minute](sensemoo-response-time-and-acceptance.md) — related
 - [MCQ-only practice takes significantly less completion time than open-response-only or combined practice, with roughly 29–35% practice-time reductions](mcq-only-faster-completion-time.md) — related
+- [Once trained, the ML models annotate student responses far faster than manual application of the measurement scheme (under 1 minute versus about 5 hours per ~100 responses for one problem)](ml-annotation-faster-than-manual-coding.md) — related

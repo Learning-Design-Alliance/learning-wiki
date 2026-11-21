@@ -57,3 +57,4 @@ One-way ANOVA comparing diagnostic accuracy across Big Five personality trait gr
 - [AI-assisted training did not significantly improve undergraduate dental students' diagnostic scores for proximal caries extension compared with conventional radiology training](ai-training-no-gain-dental-caries-diagnostic-scores.md) — related
 - [All five Big Five personality traits significantly predict academic achievement among medical master's students](big-five-traits-predict-achievement-medical-postgraduates.md) — related
 - [Self-confidence significantly predicts dental students' diagnostic accuracy in radiographic interpretation](self-confidence-predicts-radiographic-diagnostic-accuracy.md) — related
+- [No pre-existing personality, motivation, self-efficacy, or attitude-toward-AI differences distinguished dropouts from completers](no-preexisting-traits-dropout-completer-maic.md) — related

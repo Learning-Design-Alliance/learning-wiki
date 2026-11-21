@@ -46,3 +46,4 @@ Descriptive regional fNIRS analysis comparing LPFC and VMPFC activation in the p
 
 ## Related Claims
 - [In a pilot fNIRS study, the game-based learning group showed descriptively higher overall prefrontal ∆HbO than the video group, with no statistically significant difference](gbl-higher-pfc-hbo-pilot-fnirs.md) — related
+- [Interpretability analysis indicates LPFC activity contributed significantly to the model's performance prediction](lpfc-dominates-fnirs-performance-prediction.md) — related

@@ -53,6 +53,7 @@ The article recommends that business programmes move towards structured AI liter
 - [Integrate structured guidance on responsible, critical AI use alongside self-directed learning approaches](structured-guidance-responsible-critical-ai-use-nursing.md)
 - [Teach students AI literacy and critical evaluation skills for productive genAI use in STEM coursework](ai-literacy-critical-evaluation-genai-strategy.md)
 - [Embed AI tools into disciplinary teaching to develop critical literacies and produce 'maximally intelligent users' rather than uncritical acceptors of AI output.](embed-ai-critical-literacy-disciplinary-context.md)
+- [Differentiate GenAI training by students' likely work function and integrate GenAI literacy across courses with faculty development](differentiated-genai-training-by-function.md)
 
 ## Examples
 -

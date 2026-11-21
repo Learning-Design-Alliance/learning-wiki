@@ -53,3 +53,4 @@ Qualitative sub-theme from written reflections of 26 midwifery students; the vis
 - [Repetitive delivery of similar teaching sessions consolidated peer teachers' anatomical knowledge](anatomy-ems-repetition-consolidates-knowledge.md) — related
 - [Attendees perceived that Anatomy Club workshops improved their understanding of anatomy and medical pathologies and increased their anatomical knowledge](anatomy-club-perceived-understanding-knowledge-gains.md) — related
 - [Students report that interactive visualizations in class were motivating and aided understanding of core concepts](student-survey-interactive-visualizations-motivating.md) — related
+- [Phenomenographic analysis revealed qualitatively different levels of student understanding, from descriptive recall to causal interpretation to abstract inference](phenomenographic-levels-analogical-reasoning.md) — related

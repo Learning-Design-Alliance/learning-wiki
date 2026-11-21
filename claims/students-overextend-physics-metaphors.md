@@ -58,3 +58,4 @@ Case study of a four-student homework group videotaped while solving a French an
 - [Students fail to transfer the superposition principle from classical contexts to particle waves and treat stationary states as the only allowed wave functions](superposition-lateral-transfer-difficulty.md) — related
 - [Students misapply object-based resources such as part-for-whole and dying away when reasoning about wave propagation and superposition](object-resources-misapplied-to-waves.md) — related
 - [Interaction with physicist tutors is where most learning takes place in masterclasses](physicist-tutors-central-to-masterclass-learning.md) — related
+- [SPF makes semiotic misalignments — metaphor misuse, language conflicts, and graph misreads — analyzable where prior framing frameworks could not capture them in detail](spf-makes-semiotic-misalignments-analyzable.md) — a broader claim this one bears on

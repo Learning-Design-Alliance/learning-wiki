@@ -59,3 +59,4 @@ The contrasting position is that children's ideas form coherent mental models co
 - [The collaboration revealed that some art students held a misconception of science as a body of knowledge rather than a process](students-science-as-process-misconception.md) — related
 - [Verification-lab predictions derive from authoritative sources rather than students' own ideas, so students may never confront their misconceptions](verification-lab-predictions-authoritative-source.md) — related
 - [Students can coordinate correct causal elements yet draw flawed inferences, as in speed/distance compensation arguments the qualitative logic table shows cannot yield a conclusion](flawed-compensation-inference-qualitative-logic.md) — related
+- [Students' astronomical misconceptions persist and they revert to them unless the alternative ideas are directly confronted while teaching](astronomy-misconceptions-persist-unless-confronted.md) — reports the opposite

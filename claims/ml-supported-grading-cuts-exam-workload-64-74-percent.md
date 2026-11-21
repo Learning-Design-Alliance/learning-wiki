@@ -47,3 +47,4 @@ Results section: time estimates from the timed retake-exam grading were used to 
 ## Related Claims
 - [A page-by-page, rubric-guided multimodal LLM workflow graded an authentic handwritten exam in about three hours at roughly $100 in token costs, versus about $3,500 in TA time](ai-grading-workflow-feasibility-cost.md) — related
 - [Human scoring and feedback for HDR takes about 11 minutes 30 seconds per learner, while GPT-based scoring and feedback is nearly instant](hdr-human-scoring-time-burden.md) — related
+- [Once trained, the ML models annotate student responses far faster than manual application of the measurement scheme (under 1 minute versus about 5 hours per ~100 responses for one problem)](ml-annotation-faster-than-manual-coding.md) — a narrower finding that bears on this claim

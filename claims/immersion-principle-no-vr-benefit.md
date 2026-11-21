@@ -122,3 +122,5 @@ Table 6 summary of the author's lab's experimental tests reports the immersion p
 - [VR training produced significantly higher presence than desktop training on sensory and realism factors, but not on control, distraction, or ergonomic factors](vr-desktop-presence-sf-rf-differences.md) — related
 - [Learning gains do not differ significantly between VR-based and computer-based pedagogical agents](no-significant-learning-gain-difference-vr-vs-desktop-pas.md) — a narrower finding that bears on this claim
 - [Learners using both VR-based and computer-based pedagogical agents achieve statistically significant learning gains](pa-vr-significant-learning-gains-both-modalities.md) — related
+- [Immersive VR conditions outperform 2D video on knowledge retention, and Game-VR yields the highest overall preparedness](game-vr-highest-preparedness.md) — reports the opposite
+- [All modalities met usability expectations, but Game-VR incurred the highest cognitive workload while remaining within tolerable limits](vr-workload-usability-tradeoff.md) — related

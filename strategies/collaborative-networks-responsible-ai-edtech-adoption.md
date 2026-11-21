@@ -52,6 +52,7 @@ The brief recommends that state and district leaders scale and sustain AI-enable
 - [Use a community of practice to collaboratively develop university-wide online orientation resources](community-of-practice-collaborative-orientation-development.md)
 - [Build school staff capacity to support student leaders and sustain cyber leader networks across schools](staff-capacity-and-cyber-leader-networks-strategy.md)
 - [Launch community-of-practice activities and interprofessional empowerment networks to sustain teacher motivation](community-of-practice-activities-sustain-teacher-motivation.md)
+- [Design LLM-based edtech so educators can mediate harms, vet tools through independent regulators, and explore educator-led tool-building](educator-centered-edtech-design-recommendations.md)
 
 ## Examples
 -

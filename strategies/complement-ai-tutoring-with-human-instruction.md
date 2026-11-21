@@ -44,6 +44,7 @@ The authors recommend that AI Socratic tutoring be embedded alongside human inst
 
 - [Set clear AI guardrails positioning AI as a complement to human instruction with age-appropriate progressions](ai-guardrails-complement-human-instruction.md)
 - [Treat AI as a guided support tool and explicitly build verification and skepticism into learning goals](ai-as-guided-support-tool-build-verification.md)
+- [Balance AI assistance with human tutoring to optimize learning outcomes](balance-ai-assistance-human-tutoring.md)
 
 ## Examples
 -

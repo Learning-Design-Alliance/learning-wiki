@@ -64,3 +64,4 @@ Bootstrapped specific indirect effects (5,000 samples) in the PLS-SEM model of 5
 - [Higher AI agency is associated with lower intention to use AI in education, while transparency, explainability, and privacy do not directly predict intention to use](ai-agency-negative-direct-predictor-itu.md) — related
 - [Computer self-efficacy mediates the relationship between technological literacy attained through the Contextualized-OLPC project and functional literacy](computer-self-efficacy-mediation-olpc-functional-literacy.md) — related
 - [Self-efficacy partially mediates the relationship between autonomous motivation and innovative teaching](self-efficacy-partially-mediates-motivation-innovation.md) — related
+- [Personalized Learning, Academic Integrity, Trust in Evaluation, Collaborative Learning, and Learning Analytics do not significantly predict Behavioral Intention toward ABCD assessments](clt-factors-not-predictors-of-behavioral-intention.md) — related

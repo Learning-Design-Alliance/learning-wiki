@@ -55,3 +55,4 @@ Modified SUS questionnaire interviews with 71 fourth-year clinical medical stude
 - [Learning Moment achieved high perceived usability, with a mean System Usability Scale score of 80.9 among medical and physician assistant students](lm-mean-sus-score-80-9.md) — related
 - [Learner satisfaction with the telestroke simulation training is excellent, with more than 95% rating it 5/5](high-satisfaction-telestroke-simulation-training.md) — related
 - [Third- and fourth-year medical students reported high overall satisfaction (85%) with simulation based learning](sbl-high-satisfaction-85-percent-medical-students.md) — related
+- [The AR learning environment achieved excellent usability among secondary school students, with an average SUS score of 80.18 (SD: 12.06).](ar-lorentz-force-sus-80-excellent-usability.md) — related

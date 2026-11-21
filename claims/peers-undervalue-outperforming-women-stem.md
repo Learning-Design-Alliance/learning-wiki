@@ -77,3 +77,4 @@ Authors' interpretive argument in the Discussion: because women outperformed men
 - [Men disproportionately under-nominate women as strong in the course material in both offerings of both distinct lab and lecture physics courses](men-under-nominate-women-peer-recognition-physics.md) — related
 - [On aggregate, men report significantly higher perceived peer recognition than women in both lab and lecture contexts, with small effect sizes](aggregate-gender-gap-perceived-recognition-small-effect.md) — related
 - [Men and women receive proportional recognition in lab contexts, but men receive disproportionately more recognition than expected in lecture contexts](received-recognition-proportional-lab-biased-lecture.md) — related
+- [Gender and culture influence how proposals are written and how successful they are, and dual-anonymous peer review at ESO has not cancelled the gender gap in proposal success rates](gender-bias-proposal-review.md) — related

@@ -50,3 +50,4 @@ Ablation study (§5.2, Table 2) comparing Wikipedia2Vec versus one-hot keyword f
 - [A GNN-based RL recommender learns to recover corpus structure and substantially outperforms a uniform random policy in the small-data regime on simulated learners](gnn-rl-policy-beats-random-small-data.md) — related
 - [The single-head base model (Model 1) outperformed the more complex Model 2, suggesting overfitting in the larger architecture](model1-outperforms-complex-model2.md) — related
 - [Pre-training a recommender system on sequential corpora improves sample efficiency for adaptive learning path personalization in the small data regime](pretraining-improves-sample-efficiency-adaptive-sequencing.md) — related
+- [Word2Vec analogies reveal societal stereotypes encoded in training data, such as completing 'man : surgeon :: woman : ?' with 'nurse'](word2vec-analogy-gender-bias.md) — related

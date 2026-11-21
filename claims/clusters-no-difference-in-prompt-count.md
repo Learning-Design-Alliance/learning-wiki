@@ -50,3 +50,4 @@ Null result from the n=131 study testing whether prompt frequency explained upta
 - [AI-supported argumentative writing yields three distinct uptake clusters (text reproducers, text integrators, text reconstructors) based on recurring n-gram overlap](three-uptake-clusters-human-ai-cowriting.md) — a broader claim this one bears on
 - [Text reproducers copied nearly all of their final text from ChatGPT with long verbatim sequences, while text integrators showed fragment-level micro-uptake](text-reproducers-near-verbatim-copying.md) — related
 - [Affinity for technology interaction differed across clusters, with text reproducers highest and integrators scoring higher than reconstructors (d = 0.59)](ati-differs-across-uptake-clusters.md) — related
+- [ChatGPT-generated step-by-step instructions enabled successful trial use of ImageJ for counting objects in images during a hackathon demonstration](chatgpt-instructions-enable-imagej-trial-use.md) — related

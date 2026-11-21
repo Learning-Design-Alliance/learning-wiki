@@ -15,7 +15,7 @@ grain_size: lesson
 # Develop Understanding
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 42 claims (21 for, 18 mixed, 3 against) · 56 studies (28 causal, 10 review, 8 quant-synthesis, 4 qualitative, 4 theoretical, 2 associational), `q1`–`q4` · 10 of 56 report an effect size · 34 claims rest on one study
+> **Evidence** · 43 claims (22 for, 18 mixed, 3 against) · 57 studies (28 causal, 10 review, 8 quant-synthesis, 4 qualitative, 4 theoretical, 2 associational, 1 design), `q1`–`q4` · 10 of 57 report an effect size · 35 claims rest on one study
 
 ## Description and scope
 
@@ -122,6 +122,7 @@ Claims this page cited before the 2026-10-05 rewrite and not used as core eviden
 - [Conceptual change texts with concept maps produced significantly higher post-test concept scores than traditional teaching for air pressure](../claims/conceptual-change-texts-concept-maps-beat-traditional-air-pressure-posttest.md) [+W] — attached 2026-11-02 from Akbaş et al. (2011), which proposed "Use conceptual change texts together with concept maps to remediate misconceptions".
 - [Fourth graders taught with conceptual change texts scored significantly higher on the post-test than peers taught with traditional methods](../claims/cct-posttest-favors-experimental-group.md) [+W] — attached 2026-11-02 from Orhan Dağdelen (2015), which proposed "Conceptual change text structure: question, dissatisfaction, refutation, and example-based reinforcement"; tests this page's relationship.
 - [Even students who choose the wrong answer on a multiple-choice physics question can generate the correct explanation when prompted for alternatives](../claims/wrong-answer-students-generate-correct-explanations.md) [+W] — attached 2026-11-18 from Nolan K. Weinlader et al. (2018), which proposed "When students can generate correct reasoning among alternatives, instruction should focus on helping them select the correct reasoning rather than only presenting it".
+- [Students commonly hold four misconceptions about double-slit interference, the most damaging being that constructive interference requires both pathlengths to be integer multiples of the wavelength](../claims/four-double-slit-interference-misconceptions.md) [+W] — attached 2026-11-21 from Beth Parks et al. (2022), which proposed "Design interference exercises that reinforce the pathlength-difference condition ΔL = nλ, not the condition that both pathlengths be integer multiples".
 
 ## Illustrative design instance and observation record
 

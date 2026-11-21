@@ -61,3 +61,4 @@ Exploratory comparison of NASA TLX global change scores in the randomized trial 
 - [Perceived workload and desire to become a surgeon did not differ between video-platform and textbook groups](workload-and-career-goal-no-differences.md) — related
 - [Self-reported cognitive load (NASA TLX) is high and does not differ between expert and resident anesthetists in simulated PPH](nasa-tlx-no-group-difference-pph.md) — related
 - [Peer attention cues do not significantly change cognitive workload, and workload positively correlates with test accuracy](peer-attention-workload-null-and-positive-correlation.md) — related
+- [The AR-rendered-cube setup did not add to learners' reported cognitive load compared to a regular cube with video tutorials](ar-setup-no-extra-cognitive-load.md) — related

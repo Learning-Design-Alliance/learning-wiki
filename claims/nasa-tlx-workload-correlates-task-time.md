@@ -54,3 +54,4 @@ Pearson and Spearman correlation analysis across all 23 participants in the same
 - [Resident workload is predicted by PGY level, sleep, operative time, case number, and pre-procedure anxiety in both simulated and live robotic bariatric surgery](workload-regression-predictors-pgy-sleep-time-stai.md) — related
 - [Limited laparoscopy exposure does not significantly improve medical students' initial objective performance on robot-assisted digital laparoscopy tasks](limited-laparoscopy-exposure-no-robotic-performance-gain.md) — related
 - [Subjective cognitive workload decreases across teleoperation training and lower workload is associated with higher performance](workload-decreases-with-teleoperation-skill.md) — related
+- [Teams that learn better use AR less as the activity progresses, while robot usage does not significantly affect learning gain](less-ar-use-signals-abstraction-learning.md) — related

@@ -54,6 +54,8 @@ The article recommends that instructors use the four-frame framework to notice h
 
 - [Instructors nudge students into more productive frames to resolve framing-based impasses](instructor-nudge-frame-transitions.md)
 - [Instructors use framing-based insights to devise strategic plans for in-class group work that promote productive framing and student-induced frame shifts](strategic-in-class-group-work-productive-framing.md)
+- [SPF learning cycle: begin problem solving in pictorial and visual language frames before algorithmic execution](spf-learning-cycle-pictorial-start.md)
+- [Teachers use SPF as a methodological guide: analyze students' frame transitions and provide targeted feedback during problem-solving activities](spf-teacher-diagnostic-frame-transition-analysis.md)
 
 ## Examples
 -

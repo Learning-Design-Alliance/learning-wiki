@@ -41,6 +41,7 @@ The article's second design consideration recommends that learner and automated 
 - [Distinguish the purposes and scales of coexisting feedback sources in educational gig platforms](distinguish-feedback-types-multisource-gig-platforms.md)
 - [Balance human and automated feedback to optimize writing skill development](balance-human-and-automated-feedback-writing.md)
 - [Use AI automated feedback tools to foster students' dispositions for partnering with teachers around feedback](ai-feedback-fosters-teacher-partnership-dispositions.md)
+- [Balance AI assistance with human tutoring to optimize learning outcomes](balance-ai-assistance-human-tutoring.md)
 
 ## Examples
 -

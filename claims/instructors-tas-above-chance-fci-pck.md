@@ -55,3 +55,4 @@ Comparison of 30 instructors and 25 graduate students in a TA training course ag
 - [Instructors overestimate introductory students' failure to identify contact forces and other forces on FCI force-identification items](instructors-overestimate-students-missing-contact-forces.md) — related
 - [Physics TAs struggle to identify many common alternate conceptions of introductory students that persist after traditional instruction on the CSEM](tas-struggle-identify-persistent-alternate-conceptions-csem.md) — related
 - [Recent teaching experience in introductory mechanics does not correlate with instructors' ability to identify students' alternate conceptions on the FCI](teaching-experience-not-correlated-fci-pck.md) — related
+- [Victory conditions compare AI and human prediction quality against each other and against random guessing, requiring both to significantly beat chance](victory-conditions-beat-random-guessing.md) — related

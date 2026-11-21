@@ -201,3 +201,4 @@ Participants studied words printed in different font sizes for a free-recall tes
 - [Measuring teaching outcomes cautiously is urged because measurements could create illusions about what students actually learn](measuring-teaching-outcomes-illusion-risk.md) — a broader claim this one bears on
 - [Processing fluency directs student attention to the most accessible cues (initial velocity, mass), which combine with associative activation to produce wrong comparisons](processing-fluency-accessible-cues-projectile.md) — related
 - [LLM access increases perceived learning beyond what actual learning differences explain](llms-inflate-perceived-learning.md) — related
+- [Humans equate processing ease with validity, so visually fluent presentation biases judgments of content quality](fluency-bias-processing-ease-equated-with-validity.md) — related

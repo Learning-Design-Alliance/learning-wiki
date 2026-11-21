@@ -58,3 +58,4 @@ Results from Q3 of the questionnaire on simple astronomical concepts: the study 
 - [A non-negligible share of the general public holds misconceptions about the seasons, the poles, and the Sun's zenith position](general-public-astronomy-misconceptions-kahoot-2020.md) — related
 - [Pre-service primary teachers largely relate seasons to the Sun's height, but about a third misplace the zenith Sun in Rome](pre-service-teachers-misconceptions-seasons-zenith.md) — related
 - [Roughly a third of school students in synchronous online sessions show misconceptions about seasons, polar day/night, and the zenith position of the Sun](school-students-astronomy-misconceptions-online-sessions.md) — related
+- [Students' astronomical misconceptions persist and they revert to them unless the alternative ideas are directly confronted while teaching](astronomy-misconceptions-persist-unless-confronted.md) — related

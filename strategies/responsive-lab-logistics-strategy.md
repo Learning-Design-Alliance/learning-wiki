@@ -49,6 +49,7 @@ Two implementable adjustments drawn from the course's own student feedback. Firs
 - [Session-design adjustments suggested by student feedback: shorten or split the manual, add facilitators, schedule the session earlier, and keep facilitator synthesis pauses](gas-exchange-session-design-adjustments-strategy.md)
 - [Use questionnaire-driven iteration between flipped sessions to adjust difficulty and teacher scaffolding](questionnaire-driven-iteration-between-flipped-sessions.md)
 - [Improve active bioinformatics lessons by balancing theory with practice, clarifying tasks, providing detailed software tutorials, and running a regular feedback loop](balance-theory-practice-clear-tasks-feedback-loop-strategy.md)
+- [Form equitable TBL teams via a voluntary equity-score questionnaire and Greedy Algorithm-based balanced partitioning](equity-score-greedy-team-formation-strategy.md)
 
 ## Examples
 -

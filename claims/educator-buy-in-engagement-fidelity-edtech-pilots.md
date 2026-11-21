@@ -82,3 +82,4 @@ Discussion section example: Highline teachers who reviewed and recommended Ratio
 - [Pre-test scores for perceived competence were lower among the intervention group than among the comparison groups, suggesting self-selection](lq-self-selection-lower-pretest-competence.md) — related
 - [A pilot of Jupyter with in-service physics teachers showed negative feedback, leading the authors to seek a simpler tool](jupyter-pilot-in-service-teachers-negative.md) — a narrower finding that bears on this claim
 - [Adding a math teacher during EdTech use raises engagement more for higher-pretest students, an effect the authors flag as potentially inequitable](math-teacher-effect-favors-higher-pretest.md) — related
+- [Educators proactively raise that LLM-based edtech increases their workload and decreases their autonomy](educator-workload-and-autonomy-harms.md) — related

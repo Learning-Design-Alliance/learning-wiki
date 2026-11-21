@@ -48,3 +48,4 @@ Qualitative case illustration from the pilot debriefings: in a scenario with int
 - [Structured debriefings enabled all scenario participants to reflect on and discuss their performance with constructive instructor feedback](three-phase-debriefing-reflection-feedback.md) — related
 - [Both leaders spent approximately 80% of scenario time fixating on predefined relevant areas](fpa-leaders-80-percent-fixation-relevant-areas.md) — related
 - [The expert leader showed greater patient-directed fixation and balanced gaze transitions, whereas the resident leader showed prolonged fixation within nonspecific areas](fpa-expert-vs-resident-gaze-distribution.md) — related
+- [Other facial action units, face tilt, and gaze direction did not show significant differences as indicators of L2 comprehension](other-aus-gaze-tilt-null-difference.md) — related

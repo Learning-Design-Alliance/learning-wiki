@@ -48,3 +48,4 @@ Authors' summary of the two-experiment pattern in the Discussion: story readers 
 - [Text genre influenced uncued free recall of facts about the disorder, with textbook-plus-story readers recalling the most facts and a genre-by-time interaction emerging](text-genre-free-recall-interaction.md) — related
 - [In Experiment 2, reading the textbook-plus-story produced higher quiz scores than reading either version of the textbook alone, while the story outperformed the photocopied textbook](combined-story-textbook-highest-quiz.md) — related
 - [Transportation into the discourse accounted for long-term retention of the material but not for the initial advantage of the story over the textbook](transportation-mediation-of-retention.md) — related
+- [Summaries act as a pre-reading tool, with visual summaries advantageous in time-sensitive reading](summaries-as-prereading-cognitive-tool.md) — related

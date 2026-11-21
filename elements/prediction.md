@@ -85,6 +85,7 @@ Predictions leverage the pretesting effect: attempting to answer before instruct
 **Prequestioning in video learning** — Embedding a multiple-choice prediction before each segment of an instructional video; research shows improved learning of the queried content [Carpenter & Toftness, 2017](https://doi.org/10.1037/xap0000125).
 
 **Predict-Observe-Explain (POE)** — A published science-teaching routine (White & Gunstone, 1992) in which learners predict a demonstration's outcome, observe it, and explain any discrepancy — directly targeting misconception revision.
+- [Ask students to formulate hypotheses about the experiment's outcome before observing it, then resolve them through the demonstration](../strategies/hypothesis-formulation-before-elevator-demonstration.md)
 
 ## Key Sources
 - Kornell, N., Hays, M. J., & Bjork, R. A. (2009). Unsuccessful retrieval attempts enhance subsequent learning. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 35*(4), 989–998. [doi:10.1037/a0015729](https://doi.org/10.1037/a0015729)

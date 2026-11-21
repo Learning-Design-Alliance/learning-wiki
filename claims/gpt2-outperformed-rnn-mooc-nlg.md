@@ -87,3 +87,4 @@ Results-section cosine-similarity evaluation using BERT word embeddings; GPT-2 a
 - [The special issue reports that a GPT-2 model could provide supportive and contextual replies to MOOC learners to a similar extent as humans](gpt2-mooc-forum-replies-similar-to-humans.md) — related
 - [A small validation survey found the trained GPT-2 model generated supportive, contextual replies comparable to humans and generalizable to a new similar MOOC](gpt2-survey-validation-generalizable.md) — related
 - [Gemma and LLaMA produce higher-quality responses than GPT-2 by TIGERSCORE, with accuracy and comprehension gaps remaining](gemma-llama-outperform-gpt2-tigerscore.md) — related
+- [Larger GPT-2 variants tended to produce more coherent and contextually appropriate text, illustrating scaling laws in a simplified setting](gpt2-model-size-coherence-scaling.md) — related

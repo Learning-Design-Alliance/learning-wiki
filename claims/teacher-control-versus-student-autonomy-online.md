@@ -48,3 +48,4 @@ The commentary's Limitations section, citing Weiner (2003), reports a tension be
 - [Lack of online-teaching training constrains teachers' ability to apply the framework, per cited literature](teacher-online-training-gap-constrains-framework.md) — related
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — reports the opposite
 - [Nearly all reviewed serious games include game mechanics providing freedom of gameplay, most commonly choice options, interactive elements, and free exploration](freedom-of-gameplay-mechanics-common.md) — related
+- [The observation-focused lab is teacher-determined at its ends but gives students considerable intermediate freedom with no theoretical comparison, indicating that sequencing-based characterisations of inquiry are insufficient](inquiry-rubric-sequencing-insufficient.md) — related

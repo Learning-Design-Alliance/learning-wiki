@@ -53,3 +53,4 @@ Analysis of written student feedback collected at a Finnish university during th
 - Topic 4 (dissatisfaction with workload) contradicts thematic analysis and appears invalid — related
 - [Simulated personalized feedback generation covered 1,401 test participants with topic counts ranging from 34 to 243 depending on student cluster](ptm-feedback-simulation-1401-participants.md) — related
 - [LDA topic modelling of free-text feedback yielded six topics consolidated into themes of ease, assessment, comprehension, interactivity, clarity and summary](lda-six-topics-course-feedback.md) — related
+- [The final LDA model for the combined corpus achieved a coherence score of 0.577, selected from 15 averaged models using the elbow method and qualitative inspection.](lda-model-coherence-0-577-selection.md) — related

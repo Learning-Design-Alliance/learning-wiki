@@ -78,3 +78,4 @@ After applying ThresholdOptimizer, the article observed "a slight drop in perfor
 - [Education algorithm fairness is measured with a diverse set of metrics, most commonly ABROCA, TPR/TNR, FPR/FNR disparity metrics, and group difference in performance](education-fairness-metrics-diverse-set.md) — related
 - [Most reviewed education-fairness studies found no strict tradeoff between fairness and accuracy](no-strict-fairness-accuracy-tradeoff.md) — related
 - [Educational AI systems risk perpetuating demographic bias, which a group-level disparity measure can quantify to promote fairness](demographic-disparity-measure-for-educational-ai-fairness.md) — related
+- [Sequential training over two institutions selected by demographic similarity improves model fairness without compromising performance, and the larger the initial unfairness the stronger the mitigation](sequential-training-improves-fairness-without-performance-loss.md) — related

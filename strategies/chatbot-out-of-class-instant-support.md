@@ -46,6 +46,7 @@ The article recommends providing suitable learning tools for out-of-class biolog
 - [Use asynchronous AI tutoring for students' first engagement with challenging material, reserving class time for higher-order skills](ai-tutor-first-exposure-flipped-strategy.md)
 - [Use a non-generative AI chatbot with a pre-programmed, human-curated knowledge base to answer student questions with pre-approved responses](non-generative-chatbot-knowledge-base-strategy.md)
 - [Evaluate AI systems before deploying them with students](evaluate-ai-before-deployment-with-students.md)
+- [Offer adult learners flexible, continuously available tutoring outside traditional work hours](flexible-after-hours-tutor-availability-adults.md)
 
 ## Examples
 -

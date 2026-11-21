@@ -47,3 +47,4 @@ The article reports, citing Barbera (2013), an observational example of implausi
 
 ## Related Claims
 - [GPT-3.5's numerical result for the PhO problem was two orders of magnitude off, and none of the tested chatbots corrected numerical errors even after multiple prompts](chatbots-failed-math-correction-multiple-prompts.md) — related
+- [Before the activity, students knew atomic constituents but most misjudged atomic scale](atom-scale-misconception-46-percent.md) — a narrower finding that bears on this claim

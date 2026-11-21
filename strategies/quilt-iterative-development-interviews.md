@@ -50,6 +50,7 @@ QuILT development is a cyclical iterative process. Preliminary tutorials are dra
 - [Use theoretical task analysis and individual talk-aloud interviews to develop and refine tutorials](task-analysis-talk-aloud-tutorial-refinement.md)
 - [Use structured think-aloud sessions with a semi-structured moderator guide to capture student feedback for iterative AI tool refinement](think-aloud-moderator-guide-ai-refinement.md)
 - [Develop and assess Quantum Interactive Learning Tutorials (QuILTs) that take documented quantum formalism difficulties into account](quilt-tutorials-quantum-formalism-difficulties.md)
+- [Iteratively develop and refine a pedagogical Training Manual by observing the tutor's actual behavior in preliminary tests](iterative-training-manual-refinement-strategy.md)
 
 ## Examples
 -

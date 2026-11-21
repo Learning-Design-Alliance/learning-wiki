@@ -48,3 +48,4 @@ The article's framing statement, offered without reported data or test statistic
 - [Students cite research skill development, collaboration skills, active learning, and increased motivation as the most beneficial aspects of the PBL-based CRE](cre-open-ended-benefits.md) — related
 - [The process evaluation found PBL developed pupils' oracy, communication, teamwork and research skills](pbl-process-evaluation-skills-benefits.md) — related
 - [Open-ended student feedback yielded four themes: PBL is acceptable, challenging but beneficial, improves soft skills, and suits only students with basic accounting knowledge](pbl-qualitative-feedback-four-themes.md) — related
+- [Traditional lecture-based electromagnetism teaching is said to do little to facilitate understanding, motivating the proposed discussion-based resources](traditional-lectures-little-facilitate-em-understanding.md) — related

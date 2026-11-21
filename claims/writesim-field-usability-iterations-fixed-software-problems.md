@@ -50,3 +50,4 @@ Formative field usability testing by the development team and senior RoR researc
 - [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — related
 - [Teachers use the portal primarily to search for and download material rather than to share or upload it](portal-use-downloading-over-uploading.md) — related
 - [WriteSim TCExam has been used informally to train roughly 25-30 novice researchers, with positive informal reports but no measured outcomes](writesim-informally-trained-novice-researchers.md) — related
+- [Formative interviews identified contribution anxiety, navigation barriers, material-connection difficulty, and unmet reflection needs in pre-class asynchronous discussion](pre-class-discussion-contribution-anxiety-challenges.md) — related

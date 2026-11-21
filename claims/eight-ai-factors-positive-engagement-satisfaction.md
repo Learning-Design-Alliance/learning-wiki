@@ -61,3 +61,4 @@ Systematic review of 30 studies (2020–2025) identified via PRISMA screening of
 - [Investigating factors that influence learners' online interaction and engagement is framed as crucial for e-learning success](interaction-engagement-crucial-elearning-success.md) — a broader claim this one bears on
 - [Information quality, system quality, instructor attitude, assessment diversity, and learner interaction predict satisfaction](five-determinants-of-elearning-satisfaction.md) — related
 - [In a pilot study of student-centered guest lecturing, most online graduate students reported positive satisfaction and perceived engagement with the approach](pilot-positive-perceptions-student-centered-guest-lecturing.md) — related
+- [Learners' divergent learning preferences and cognitive styles shaped their evaluations of adaptive versus structured AI tutor styles](ai-tutor-style-learning-preference-divergence.md) — related

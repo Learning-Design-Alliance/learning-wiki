@@ -50,3 +50,4 @@ Cognitive load measured with Klepsch et al.'s 8-item instrument after the collab
 - [Embodied GenAI agents in mixed reality raised engagement and lowered cognitive load for 26 post-secondary learners during collaborative problem-solving](embodied-mr-agents-engagement-cognitive-load-26-learners.md) — related
 - [Training on AI interaction strategies slightly increases cognitive load during AI-assisted design](ai-interaction-training-slightly-increases-cognitive-load.md) — related
 - [GenAI training attenuates the predictive effect of prior GenAI experience on revision performance](training-attenuates-genai-experience-effect.md) — related
+- [Learning with AI-generated explanations lowers both intrinsic and extrinsic cognitive load compared with textbook materials](ai-explanations-lower-cognitive-load.md) — related

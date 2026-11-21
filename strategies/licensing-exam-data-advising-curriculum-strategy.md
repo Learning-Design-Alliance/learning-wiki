@@ -48,6 +48,7 @@ The article recommends that institutional match-outcome data be used to guide st
 ## Related Strategies
 
 - [Advise graduates to schedule the certification examination when fully prepared and no acute life events are occurring, using mock board scores as objective data](board-timing-advice-life-events-mock-scores.md)
+- [Match mentors and mentees using application data via speed matching, a stable marriage algorithm, or manual pairing](mentor-mentee-matching-methods.md)
 
 ## Examples
 -

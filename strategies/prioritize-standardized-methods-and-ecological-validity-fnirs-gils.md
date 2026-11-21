@@ -40,6 +40,7 @@ For future multimedia learning research and neuroadaptive systems, the review re
 
 - [Prioritize construct-to-data mappings, multimodal validation, ethical implementation, and cross-disciplinary collaboration for domain-specific adaptive systems](domain-specific-adaptivity-research-priorities.md)
 - [Human-in-the-loop instructor control as a design direction for adaptive learning systems](human-in-loop-instructor-realtime-adaptive-control.md)
+- [Build real-time cognitive effort estimation systems using live fNIRS data and dynamic model outputs to support adaptive learning](real-time-fnirs-cognitive-effort-adaptive-learning-strategy.md)
 
 ## Examples
 -

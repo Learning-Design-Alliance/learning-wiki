@@ -48,3 +48,4 @@ Qualitative interviews with 12 quantum physics instructors who collectively taug
 ## Related Claims
 - [Instructors collectively identify eight sources of quantum misconceptions spanning teaching methods, educational materials, and students](eight-instructor-reported-misconception-sources.md) — related
 - [Instructors report using in-class quizzes with misconception traps, prediction-based discussions, and demonstrations, judging them useful without measured outcomes](instructor-quantum-diagnostic-instructional-practices.md) — related
+- [Spinning illusion drawings represent quantum spin as apparent rotation without actual rotation, avoiding the misleading classical marble analogy](spinning-illusions-quantum-spin-representation.md) — related

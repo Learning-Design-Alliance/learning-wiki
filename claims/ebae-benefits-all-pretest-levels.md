@@ -50,3 +50,6 @@ Table V analysis dividing students into three pretest-based groups in same-instr
 - [Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02](hake-ie-gains-two-sd-greater.md) — related
 - [A non-flipped EBAE course using active learning in class and reformed recitations produced performance comparable to a flipped course](non-flipped-ebae-comparable-to-flipped.md) — related
 - [Normalized gains on conceptual surveys are largest in EBAE courses compared with lecture-based courses of the same type](normalized-gain-largest-ebae-courses.md) — related
+- [In same-instructor algebra-based courses, the bottom 1/3 of female students benefited more from EBAE pedagogies on the final exam than the bottom 1/3 of male students, while top and middle 1/3 male students benefited more](bottom-third-women-benefit-ebae-final-exam.md) — related
+- [Male and female students in EBAE introductory physics courses outperform their counterparts in LB courses on FCI/CSEM posttests despite no pretest difference](ebae-outperforms-lb-conceptual-posttest.md) — related
+- [The FCI gender gap in algebra-based courses is more pronounced at higher ability levels based on pretest scores](fci-gender-gap-larger-high-ability.md) — related

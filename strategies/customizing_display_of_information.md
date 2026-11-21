@@ -56,8 +56,10 @@ Reading is a visual task constrained by working memory; poorly formatted display
 5. Encourage learners to treat settings as personal and adjustable per task — pair with [Accommodations](../elements/accommodations.md) where a formal need exists
 
 ## Related Strategies
+
 - Chunking and segmenting content — the content-side complement to display-side customization; both reduce extraneous load
 - Providing accessible source formats — customization is only possible when materials are published reflowably
+- [Tailor AI-generated supplementary material format to individual learner preferences](preference-matched-genai-supplements-strategy.md)
 
 ## Related Elements
 - [Chunking](../principles/chunking.md) — breaking content into digestible units; display customization controls how those units are visually presented

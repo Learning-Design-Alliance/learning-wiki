@@ -58,3 +58,5 @@ One-way ANOVA comparing users and non-users on 5-point Likert items (3 neutral) 
 - [VLI learners held more positive attitudes toward the learning situation than TCI learners](vli-more-positive-attitudes-than-tci.md) — related
 - [Year 3 participants showed more positive attitudes toward the integrated courses than year 1 participants (97% vs 74% positive)](year3-more-positive-attitude-integrated-courses.md) — related
 - [Students report low self-assessed knowledge but high perceived need for education and willingness to train](low-self-knowledge-high-education-need.md) — related
+- [Teachers who use AI more frequently hold stronger beliefs in its effectiveness and greater willingness to integrate it, but not fewer perceived drawbacks](higher-ai-use-linked-to-stronger-effectiveness-beliefs.md) — related
+- [EFL teachers agree more on AI's perceived effectiveness and their willingness to integrate it than on perceived drawbacks for pronunciation teaching](teachers-agree-more-on-ai-effectiveness-than-drawbacks-pronunciation.md) — related
