@@ -51,4 +51,4 @@ The article recommends continuing to develop the multi-agent design pattern in w
 -
 
 ## Key Sources
-- Guo, S., Latif, E., Zhou, Y., Huang, X., & Zhai, X. (2024). Using Generative AI and Multi-Agents to Provide Automatic Feedback. https://arxiv.org/abs/2411.07407
+- Guo, S., Latif, E., Zhou, Y., Huang, X., & Zhai, X. (2024). Using Generative AI and Multi-Agents to Provide Automatic Feedback. https://arxiv.org/abs/2411.07407. [doi:10.48550/arxiv.2411.07407](https://doi.org/10.48550/arxiv.2411.07407)

@@ -53,3 +53,4 @@ Linear mixed-effects model of 6000 trials from 100 adults rating 60 blurred imag
 - [Correctness Confidence linearly predicts curiosity, with higher confidence in a guess associated with greater curiosity](correctness-confidence-linearly-predicts-curiosity.md) — reports the opposite
 - [Curiosity ratings are functionally distinct from subjective uncertainty ratings: uncertainty declines near-linearly with confidence while curiosity is inverted-U shaped](curiosity-distinct-from-subjective-uncertainty.md) — related
 - [Only medium-level incongruity between individual knowledge and wiki information causes cognitive conflict that motivates equilibration](medium-incongruity-inverted-u-cognitive-conflict.md) — related
+- [In a preliminary teaching trial (n = 20), 85% of students reported improved understanding of phase-displacement relationships and 40% reported heightened interest in precision metrology](ofi-teaching-trial-student-outcomes.md) — related

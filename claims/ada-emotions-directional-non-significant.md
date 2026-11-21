@@ -56,3 +56,4 @@ Mann-Whitney U group comparison of post-intervention emotion scores in the clust
 - [EDA learners showed enthusiasm for reading tasks and reported that emotional support reduced anxiety about performance](eda-learners-enthusiasm-and-reduced-anxiety.md) — related
 - [Cognitive load and positive/negative activating emotions did not differ among feedback conditions, but instructor-led debriefing produced stronger positive deactivating emotions (relief/relaxation)](affective-cognitive-load-equivalence-instructor-relief.md) — related
 - [After the intervention, the AI group reported significantly more positive emotional and motivational experiences and significantly lower negative emotions than the Excel group](ai-group-emotional-motivational-advantage-post-test.md) — reports the opposite
+- [Learning with AI-generated explanations lowers both intrinsic and extrinsic cognitive load compared with textbook materials](ai-explanations-lower-cognitive-load.md) — related

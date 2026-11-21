@@ -40,6 +40,7 @@ A CAC member described a summer career-exploration model in which students "try 
 
 - [Support digitally fluent career pathways through ecosystems, educator training, work-based learning, convenings, and showcases](clpi-digital-fluency-pathway-supports.md)
 - [Next-phase agenda: pilot and refine STEM pathways, align STEM education with local economic demands, and plan a sustaining backbone organization](stem-pathways-pilots-backbone-next-phase.md)
+- [Open-ended team project with hardware criteria, week-by-week task allocation, and a public project show with industry evaluators](open-ended-cep-team-project-strategy.md)
 
 ## Examples
 -

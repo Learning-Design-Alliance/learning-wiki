@@ -69,3 +69,5 @@ ANCOVA with pre-test scores as covariate compared students who taught a gpt-4 te
 - [ChatGPT-assisted learners report higher posttest learning motivation and self-efficacy than video-only learners](chatgpt-assisted-learning-raises-motivation-self-efficacy.md) — related
 - [ChatGPT-assisted and video-only groups show no significant difference in theoretical knowledge test scores before operational learning](no-group-difference-theoretical-knowledge-pretest.md) — related
 - [ChatGPT-assisted students excelled in advanced topics such as recursion and dynamic programming, scoring 15-20% higher than the TA-only group](chatgpt-assisted-advanced-topics-15-20-percent-higher.md) — related
+- [Students who analyzed music with the LLM-based teachable agent Chat Melody achieved significantly higher adjusted post-test scores than students who analyzed independently](chat-melody-higher-music-theory-posttest.md) — a narrower finding that bears on this claim
+- [The teachable agent reduced mental effort but not mental load: the groups did not differ significantly on mental load](chat-melody-mental-effort-not-mental-load.md) — related

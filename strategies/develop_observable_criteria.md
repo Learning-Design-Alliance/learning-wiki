@@ -73,6 +73,7 @@ Explicit criteria support learning because they enable self-regulation: learners
 - [Use cognitive taxonomies such as SOLO as reliable processes for constructing learning objectives that are epistemic aims](solo-taxonomy-reliable-process-learning-objectives.md)
 - [Stepwise process for creating learning outcomes using SOLO taxonomy verbs and rubric scales](solo-verb-lo-creation-process.md)
 - [Formulate behavioural objectives with action-verb descriptors instead of know or understand](behavioural-objective-verb-descriptors.md)
+- [Assignment design strategy using ULOs, qualification level and Bloom's Taxonomy action verbs, with expert examination and refinement rather than regeneration](genai-assignment-design-blooms-refinement-strategy.md)
 
 ## Examples
 - **Marzano proficiency scales** — a 4-point scale ("1 = with help, partial success … 4 = in-depth inferences and applications") published for thousands of K–12 standards; teachers post the scale so students know what "meeting the standard" means before instruction.

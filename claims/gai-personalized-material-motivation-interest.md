@@ -56,3 +56,4 @@ Classroom experiment comparing AI-generated context-personalized vs. standard le
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Across 11 CORI studies, mean effect sizes ranged from 0.49 for self-efficacy to 1.20 for intrinsic motivation, generally exceeding average motivation-intervention effects](cori-meta-analysis-mean-effect-sizes.md) — related
 - [Performance benefits of UVIs may be limited to the perceived-useful content unless usefulness generalizes or interest develops](uvi-performance-benefits-context-limited.md) — related
+- [Learning with AI-generated explanations raises situational interest compared with textbook materials](ai-explanations-raise-situational-interest.md) — related

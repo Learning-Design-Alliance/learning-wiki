@@ -54,6 +54,7 @@ The website operationalizes a learning sequence in which students first read on-
 - [Quantum hardware exploration assignments balancing authentic device access with simulator substitutes](quantum-hardware-exploration-assignments-strategy.md)
 - [Learning by doing through authentic space-science experimentation in the chemistry lab](iss-chemistry-lab-learning-by-doing.md)
 - [Incorporating simulated-data analysis into lab software to enable remote participation](simulated-data-mode-remote-lab-participation.md)
+- [Incorporate remote cloud-accessible quantum experiments to extend experimental-skills opportunities to students at less-resourced institutions](remote-quantum-experiments-access-strategy.md)
 
 ## Examples
 -

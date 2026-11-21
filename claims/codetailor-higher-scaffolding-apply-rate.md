@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-19
 evidence_strength: moderate
+source_checked: 2026-11-21
 sources:
   - id: xinying-hou-2024
     title: Xinying Hou 2024
@@ -21,7 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
+> **Currency** · no dated study recorded · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The scaffolding apply rate was significantly higher in the CodeTailor condition than in the baseline condition. [→ Xinying Hou 2024](#xinying-hou-2024)
@@ -49,3 +50,4 @@ Analysis of 14 of the 18 participants (those who used support in all four practi
 - [CodeTailor generates correct solutions closer to a student's incorrect code than a most common student solution](codetailor-solution-closeness-technical-eval.md) — related
 - [K-12 learners preferred incremental hints and multiple attempts over immediately revealed solutions](learners-prefer-incremental-hints-over-solutions.md) — a broader claim this one bears on
 - [Post-baseline practice condition has a significant multivariate effect on combined posttest performance and observed practice effort after adaptive AI-assisted pretesting](condition-multivariate-effect-posttest-effort.md) — a broader claim this one bears on
+- [Novice programmers given personalized Parsons puzzle scaffolding on help requests spend significantly longer practicing write-code problems than those given complete LLM-generated solutions](parsons-scaffolding-longer-practice-time-than-complete-solutions.md) — related

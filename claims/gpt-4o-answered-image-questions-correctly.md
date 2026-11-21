@@ -52,3 +52,4 @@ Because the two text-only models cannot process images, the examination's two im
 - [ChatGPT-4o mini outperformed the average human candidate on part 2 of the 2023 PNA, while ChatGPT-3.5 Turbo scored significantly below humans on part 1](chatgpt-4o-mini-outperformed-human-pna-candidates.md) — related
 - [ChatGPT-4o mini achieved 65% (48/74) accuracy on the 2023 Portuguese PNA medical examination, surpassing ChatGPT-3.5 Turbo's 54% (40/74)](chatgpt-4o-mini-65-percent-pna-surpasses-35-turbo.md) — related
 - [A sensitivity analysis excluding not-applicable answers (e.g., image-based items) yielded results similar to the main accuracy comparison](cineca-accuracy-sensitivity-analysis-similar-results.md) — related
+- [GPT-4o answered only 59% of pre-test questions correctly, with accuracy dropping sharply as the number of images per question increased](gpt4o-fci-accuracy-drops-with-images.md) — related

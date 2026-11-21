@@ -51,3 +51,4 @@ Explanatory stepwise backward multivariable linear regression (RQ2, Table 5) con
 - [The final regression model predicting exam points included non-biology GPA, ethnicity/nationality, and treatment, explaining roughly 44% of adjusted variance](regression-model-exam-points-gpa-ethnicity-treatment.md) — related
 - [Tutor interaction parameters show mixed or statistically insignificant correlations with performance, and small cohesive groups with limited tutor role tended to perform better](tutor-interaction-parameters-mixed-correlation.md) — related
 - [Structural models including the PageRank centrality variable explain significantly more variance than otherwise similar models without it](centrality-improves-model-fit.md) — related
+- [Voluntary tutor usage is positively correlated with Unit 1 assessment grades among adult learners (Transactions coefficient 0.26, p < 0.001)](tutor-transactions-positive-grade-correlation.md) — related

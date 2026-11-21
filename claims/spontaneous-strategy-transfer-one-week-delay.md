@@ -72,3 +72,4 @@ Experiment 2 final recall in both sessions favored the instructed group, showing
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — related
 - [On a delayed assessment 1 to 3 months later, many students transferred their appreciation of variation to another context and could explain the meaning of variation](delayed-assessment-variation-transfer.md) — related
 - [Strategy transfer to social studies content was incomplete without teacher reminders.](anticipatory-guide-transfer-social-studies.md) — related
+- [Without prompting, students repeated their experiments several times to average fall times, and later proposed more precise tools and more objects as ways to increase confidence in conclusions.](students-spontaneous-repetition-and-tool-proposals.md) — related

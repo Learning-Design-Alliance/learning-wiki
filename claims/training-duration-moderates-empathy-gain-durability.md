@@ -51,3 +51,4 @@ Narrative comparison in the Discussion attributing this finding to van Winkle et
 - [Confidence gains after brief RaT workshops do not automatically translate into improved teaching performance](confidence-gains-not-translate-performance.md) — related
 - [Reported benefits of physical activity programs on executive functions depend on program duration and the executive domain analyzed](pa-program-duration-dependent-ef-benefits.md) — related
 - [Effects of the brief gatekeeper training were measured only immediately after the intervention; durability is unknown](gatekeeper-training-durability-unknown.md) — related
+- [The Summer 2015 in-person workshop showed anomalously low gain and effect size, attributed to its shorter one-week duration or improving program implementation](summer-2015-workshop-anomalous-low-gain.md) — related

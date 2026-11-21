@@ -64,3 +64,6 @@ Group comparison in the cluster-randomized controlled study (N = 195 ninth-grade
 - [Context-personalized AI-generated learning material increases primary students' intrinsic motivation and interest compared with standard material](gai-personalized-material-motivation-interest.md) — related
 - [Students gave positive feedback on both non-conventional activities, reporting greater interest, understanding and proactivity](positive-student-feedback-interventions.md) — related
 - [After the intervention, the AI group reported significantly more positive emotional and motivational experiences and significantly lower negative emotions than the Excel group](ai-group-emotional-motivational-advantage-post-test.md) — related
+- [Learning with AI-generated explanations lowers both intrinsic and extrinsic cognitive load compared with textbook materials](ai-explanations-lower-cognitive-load.md) — related
+- [Learning with AI-generated explanations raises sixth-graders' positive-activating emotions compared with textbook materials](ai-explanations-raise-positive-activating-emotions.md) — related
+- [Learning with AI-generated explanations raises situational interest compared with textbook materials](ai-explanations-raise-situational-interest.md) — related

@@ -69,3 +69,6 @@ Descriptive analysis of the course census found QIS courses rare overall: the "m
 - [In the undergraduate-only QIS course model, the public-private disparity is no longer separately significant and the funding-by-urbanization interaction disappears](undergraduate-qis-courses-funding-gap-not-significant.md) — related
 - [Institutions with a high percentage of Pell grant recipients offer significantly fewer QIS courses](pell-grant-institutions-fewer-qis-courses.md) — related
 - [Minority-serving status does not significantly predict QIS course availability once other factors are controlled, but correlates strongly with Pell grant share](msi-status-not-significant-predictor-qis-courses.md) — related
+- [61 U.S. institutions offer 89 distinct QISE programs, concentrated at PhD-granting institutions](61-institutions-89-qise-programs.md) — related
+- [One-third of sampled institutions offer no course mentioning quantum, with significant differences by Carnegie classification and MSI status](one-third-institutions-no-quantum-courses.md) — related
+- [QISE programs are heavily concentrated at PhD-granting institutions, which are 25% of the sample but 89% of program-offering institutions](qise-programs-concentrated-phd-granting.md) — related

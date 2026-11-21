@@ -43,6 +43,7 @@ To strengthen consensus in data extraction, the team "first conducted practice r
 ## Related Strategies
 
 - [Adopt a conservative abstract-screening strategy with a 'maybe' category and keyword exclusion filters to prevent premature exclusion](conservative-abstract-screening-maybe-category.md)
+- [Team-Based Efforts to Enhance Reliability (TBEER): constructive intercoder consensus during qualitative analysis](tbeer-team-based-reliability-process.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Authors' interpretation from their interaction study, not a tested result: Appro
 - [Participants' prompting was often limited, with poorly formulated prompts leading to vague or unhelpful outputs](poorly-formulated-prompts-vague-outputs.md) — a narrower finding that bears on this claim
 - [Iterative prompt refinement and expert pilot-testing may partly explain favorable LLM virtual patient output quality](iterative-prompt-refinement-expert-testing-improves-output.md) — related
 - [ChatGPT provided vague, partially incorrect, or irrelevant guidance on lab-specific procedures, leading some groups to abandon it](chatgpt-unreliable-lab-procedure-guidance.md) — related
+- [In the software project, junior developers without language experience wrote code with GenAI (Co-Pilot) under a detailed design, but this augmentation depends on high-quality design](code-project-junior-developers-copilot.md) — related

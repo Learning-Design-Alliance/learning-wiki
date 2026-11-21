@@ -51,3 +51,4 @@ Computational evaluation on 6,005 NCTE transcript segments (4,775 train / 1,230 
 - [Both fine-tuned models show regression toward the mean in score-wise bias, and error rises monotonically above score 3.0, with high scores hardest to predict](score-wise-bias-regression-to-mean-awe.md) — related
 - [LLaMA's LoRA adaptation compresses its prediction range to roughly 2.0–4.0, while Gemma maintains a broader distribution closer to the ground truth](llama-prediction-range-compression.md) — related
 - [Prompt customization introduces at least three types of prompting bias: majority label, recency, and common token bias](prompting-bias-three-types.md) — related
+- [RNE and RNI computed from predicted scores closely match actual cognitive effort values, with Pearson r > 0.94 across tested participants](predicted-rne-rni-match-actual-trends.md) — related

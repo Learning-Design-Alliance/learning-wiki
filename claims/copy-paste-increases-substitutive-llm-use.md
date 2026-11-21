@@ -67,3 +67,4 @@ Regressions on treated subjects from Studies 2 and 3 (n = 94) show copy and past
 - [Copy-and-paste-enabled substitutive LLM use trades topic volume for understanding: volume rises while understanding falls, leaving overall outcomes unchanged](substitution-volume-understanding-tradeoff.md) — related
 - [Most unrestricted-mode interactions were direct answer retrieval: 52.9% of exercise interactions were copy-paste of the question, and participant answers were linguistically near-identical to chatbot text in 25.3% of cases](unrestricted-mode-answer-retrieval-copy-paste.md) — related
 - [Guidance strategies G1, G2 and G4 reduce verbatim copy-pasting of assignment questions to the LLM, while G3 increases rephrasing](guidance-reduces-verbatim-question-copying.md) — related
+- [Some students given complete LLM-generated solutions copied and submitted answers within minutes without engaging with the practice](complete-solution-students-copy-submit-quickly.md) — related

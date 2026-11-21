@@ -167,3 +167,4 @@ The core interpretive point is that "is lecture effective?" is the wrong questio
 - [Open play time with an interactive simulation supports the teacher in leading student-centered, inquiry-based classroom discourse](open-play-sim-time-supports-inquiry.md) — related
 - [The author observes that student audiences pay more attention to peer-delivered astronomy talks than to the same topic in a teacher's lecture](peer-delivered-astronomy-talks-higher-attention.md) — related
 - [Using CMODS is argued to shift teaching from passive to active methods and activate students' learning activity](cmods-passive-to-active-shift.md) — related
+- [Traditional lecture-based electromagnetism teaching is said to do little to facilitate understanding, motivating the proposed discussion-based resources](traditional-lectures-little-facilitate-em-understanding.md) — related

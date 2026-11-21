@@ -157,3 +157,4 @@ This meta-analysis synthesised 65 independent evaluations of school tutoring pro
 - [Students reported that preparing and presenting their own materials increased their self-confidence and let them experience an educator role](sglm-self-confidence-educator-role.md) — a narrower finding that bears on this claim
 - [Teaching a basic LLM tutee produced knowledge-telling rather than knowledge-building](basic-llm-tutee-yields-knowledge-telling.md) — related
 - [Expert teachers watching AVT interactions could reliably predict when a learner understood material well, but not what the learner did not know—a one-sided signal of understanding](avt-one-sided-understanding-signal.md) — related
+- [Post-test performance was approximately equal regardless of AI explanation quality, suggesting the dialogue process rather than explanation correctness drives the gain](post-test-performance-independent-of-ai-explanation-quality.md) — related

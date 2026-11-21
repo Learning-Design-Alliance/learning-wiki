@@ -53,3 +53,4 @@ Descriptive SUS survey of 30 of 70 invited clerkship students (42.8% response ra
 - [Students rated the HoloLens 2 above average on the System Usability Scale (mean 79.4)](hololens-sus-79-above-average-usability.md) — related
 - [The VR system received a mean System Usability Scale score of 76.68, indicating good usability](vr-als-system-sus-76-good-usability.md) — related
 - [Fourth-year medical students rated the interdisciplinary simulation system 'excellent' on a modified SUS (mean 80.77)](sus-80-77-interdisciplinary-simulation-system.md) — related
+- [The AR learning environment achieved excellent usability among secondary school students, with an average SUS score of 80.18 (SD: 12.06).](ar-lorentz-force-sus-80-excellent-usability.md) — related

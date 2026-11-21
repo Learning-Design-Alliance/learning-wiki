@@ -54,4 +54,4 @@ The paper recommends that teachers actively use AI tools that prioritize explain
 -
 
 ## Key Sources
-- Maity, S. and Deroy, A. (2024). Human-Centric eXplainable AI in Education. https://arxiv.org/abs/2410.19822
+- Maity, S. and Deroy, A. (2024). Human-Centric eXplainable AI in Education. https://arxiv.org/abs/2410.19822. [doi:10.35542/osf.io/k5u9b](https://doi.org/10.35542/osf.io/k5u9b)

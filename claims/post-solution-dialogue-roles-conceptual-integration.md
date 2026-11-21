@@ -49,3 +49,4 @@ Qualitative transcript analysis in Study 1, in which seven tutors individually g
 - [Educators redefined AI's educational role from answer provider to learning partner and tutor supporting conceptual understanding](ai-learning-partner-tutor-redefinition.md) — related
 - [The top of the student-discourse distribution contains essentially no categories of explicit conceptual reasoning, prediction, comparison to similar problems, or critical engagement with the tutor's suggestions](conceptual-reasoning-absent-from-discourse-head.md) — related
 - [Human tutors adapt post-solution discussions to students' ability levels and current-problem performance](tutors-adapt-post-solution-discussions-to-students.md) — related
+- [A NotebookLM-based tutor configured with a Training Manual and teacher-curated sources can facilitate Socratic dialogue for conceptual physics problems](notebooklm-socratic-tutor-facilitates-dialogue.md) — related

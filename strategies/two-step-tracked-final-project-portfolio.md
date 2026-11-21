@@ -41,6 +41,7 @@ In undergraduate settings the author uses a final open-ended project resembling 
 - [Design exercises that ask students to match or beat the performance of a published paper, and seed proposed solutions with deliberate poor choices for students to improve.](match-or-beat-published-paper-exercises.md)
 - [Build a project-based computational physics course grounded in expert practice, culminating in a student-chosen final project](expert-grounded-project-based-cp-course.md)
 - [Use computational essays as semester-long projects with revision, portfolio-based assessment, or as a stepping stone to programming integration](computational-essays-teaching-and-assessment-uses.md)
+- [Seven-step didactic activity sequence from conceptual exploration to a real-world final project](particle-model-didactic-activity-sequence.md)
 
 ## Examples
 -

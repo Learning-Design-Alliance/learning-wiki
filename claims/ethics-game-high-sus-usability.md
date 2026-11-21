@@ -52,3 +52,4 @@ Usability evaluation (RQ3) using the standardized System Usability Scale in part
 - [Students rated AISSA's usability as excellent, with an average SUS score of 83.38 from 30 of 46 pilot students](aissa-sus-usability-83.md) — related
 - [University students' software engineering ethics knowledge scores rose from pre-test to post-test after playing the Ethics Game, in one uncontrolled pre-post study](ethics-game-improves-se-ethics-knowledge.md) — related
 - [Students rated the Ethics Game as a useful educational tool, with a mean educational-experience rating of 3.87 out of 5](ethics-game-perceived-useful-educational-tool.md) — related
+- [The AR learning environment achieved excellent usability among secondary school students, with an average SUS score of 80.18 (SD: 12.06).](ar-lorentz-force-sus-80-excellent-usability.md) — related

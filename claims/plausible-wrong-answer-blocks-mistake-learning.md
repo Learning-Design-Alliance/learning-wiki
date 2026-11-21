@@ -47,3 +47,4 @@ From the think-aloud interviews on problem 2, the article reports student 6 conf
 ## Related Claims
 - [Without explicit incentives, many advanced students do not automatically learn from their midterm mistakes even when provided correct solutions and graded exams](advanced-students-do-not-automatically-learn-from-mistakes.md) — a broader claim this one bears on
 - [The answer-until-correct procedure is asserted to let students learn from their mistakes in real time by correcting initially inaccurate responses](answer-until-correct-real-time-learning.md) — related
+- [Students comparing their work to posted solutions can misjudge correctness, correcting work that was actually correct and misidentifying their errors](hwc-solution-comparison-misjudgments.md) — related

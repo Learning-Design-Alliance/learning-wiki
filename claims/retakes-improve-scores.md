@@ -49,3 +49,4 @@ Paired t tests comparing first-attempt and post-retake total exam scores in each
 - [Racial/ethnic and socioeconomic score disparities increased from before to after optional exam retakes in one group with no comparison group; differences in participation were also reported](retakes-exacerbate-score-disparities.md) — reports the opposite
 - [Students overwhelmingly liked optional exam retakes and perceived them as helping their learning, with most retakers reporting substantial study effort](retakes-popular-perceived-learning-benefit.md) — related
 - [Students who worked a job, especially more than 20 h a week, were less likely to retake exams even when retakes were offered during class time or online](working-students-less-likely-retake.md) — related
+- [Female students outscored male students on most low-stakes first-attempt exams in retake classes, and retakes benefited male students slightly more](first-attempt-low-stakes-gap-positive.md) — related

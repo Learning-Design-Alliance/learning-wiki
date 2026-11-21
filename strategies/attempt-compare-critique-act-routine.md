@@ -50,6 +50,7 @@ The article proposes a learner routine in which the learner first completes the 
 - [Begin implementation with the curriculum problem rather than the AI tool, specifying learning outcome, learner task, AI contribution, educator role, and required learner action](curriculum-problem-first-implementation-design.md)
 - [Revision And Resubmission](revision-and-resubmission.md)
 - [Revision Cycles](revision-cycles.md)
+- [On resubmission, never take rejection personally, use reviewer feedback to improve, make the proposal clearer and shorter, strengthen the science case, and spread referee risk across applications](resubmission-improvement-strategy.md)
 
 ## Examples
 -

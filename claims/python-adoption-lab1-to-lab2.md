@@ -9,6 +9,7 @@ generated:
   at: 2026-11-20
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-21
 sources:
   - id: e-tufino-2025
     resource: "https://doi.org/10.1088/1742-6596/2950/1/012022"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Python and Jupyter Notebook usage, while optional, increased from 83% adoption in LAB1 to complete adoption in LAB2, with progression in skill mastery observed. [→ E. Tufino 2025](#e-tufino-2025)

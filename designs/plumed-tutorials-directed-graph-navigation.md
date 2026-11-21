@@ -47,4 +47,4 @@ Each tutorial renders a Mermaid directed graph guiding learners through its reso
 -
 
 ## Key Sources
-- Tribello, G. A., et al. (2024). PLUMED Tutorials: a collaborative, community-driven learning ecosystem. https://arxiv.org/abs/2412.03595
+- Tribello, G. A., et al. (2024). PLUMED Tutorials: a collaborative, community-driven learning ecosystem. https://arxiv.org/abs/2412.03595. [doi:10.48550/arxiv.2412.03595](https://doi.org/10.48550/arxiv.2412.03595)

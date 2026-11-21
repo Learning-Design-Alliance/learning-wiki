@@ -56,6 +56,7 @@ The article recommends that teachers treat LLM output as a starting point for co
 - [Hybrid pedagogical framework: AI-generated cases refined through expert review and supplemented with curated imaging data](hybrid-ai-expert-case-generation-framework.md)
 - [Use GPT-4o to assist instructors in drafting lesson plans and generating test questions around specific clinical knowledge points, with expert oversight](gpt4o-lesson-plan-and-item-generation-strategy.md)
 - [Craft educational LLM prompts using iterative refinement, role-playing, and constraints with suitable context](three-pillar-educational-prompting-strategy.md)
+- [Iteratively develop and refine a pedagogical Training Manual by observing the tutor's actual behavior in preliminary tests](iterative-training-manual-refinement-strategy.md)
 
 ## Examples
 -

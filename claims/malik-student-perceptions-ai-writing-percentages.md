@@ -65,3 +65,4 @@ Case study reported within the review: Malik et al. enlisted 245 undergraduate s
 - [Most students expressed misinformation concerns and lacked confidence in their AI-related skills](students-report-misinformation-concerns-low-ai-confidence.md) — related
 - [Among 20 undergraduates, 95% agreed LLM-generated cases enriched learning resources and 80% reported improved interdisciplinary integration and learning efficiency](student-perceptions-llm-cases-benefits.md) — related
 - [Potential negative consequences of LLM use in nursing education include academic integrity concerns, inaccurate output, bias, and over-reliance](llm-nursing-education-negative-consequences.md) — a broader claim this one bears on
+- [Educators proactively raise concerns that LLMs could inhibit student learning, especially critical thinking, and most respond by limiting classroom LLM use](educators-concern-llms-inhibit-student-learning.md) — related

@@ -49,3 +49,4 @@ Exploratory outcome: participants completed the NASA-TLX after the second TABLT 
 - [Teacher perceived workload did not differ significantly across conditions on any NASA-TLX subscale, though the experimental condition was descriptively lower on most subscales](aied-u-no-significant-workload-difference.md) — related
 - [Under NASA TLX, AR-group students felt more frustrated but believed they performed relatively better, with nearly equal overall workload scores](nasa-tlx-frustration-perceived-performance-ar.md) — related
 - [Laser visual guidance shows no significant improvement over 2D vision in laparoscopic motor skill parameters among surgical novices](lvg-no-significant-motor-skill-improvement.md) — related
+- [Using the system reduces learners' mental workload on Temporal Demand and Effort dimensions but not on Performance](system-reduces-workload-temporal-effort.md) — related

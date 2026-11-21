@@ -55,3 +55,4 @@ The article's challenge analysis (type e) argues VET students may already be dis
 - [A narrow focus on cognitive outcomes in evaluating educational inequality may perpetuate or increase inequality](cognitive-outcome-focus-may-perpetuate-inequality.md) — a broader claim this one bears on
 - [Digital learning environments during the pandemic raise implications for addressing social inequities and education policy reform](digital-environments-social-inequities-policy-reform.md) — related
 - [OER are a mixed blessing for equity: without purposeful use toward equity and justice they can reinforce inequities](oer-mixed-blessing-for-equity.md) — related
+- [Educators proactively raise that LLM-based edtech could exacerbate systemic inequality through differentially bearable costs](educators-concern-systemic-inequality.md) — related

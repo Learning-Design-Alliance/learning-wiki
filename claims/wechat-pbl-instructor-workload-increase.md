@@ -47,3 +47,4 @@ Authors' informal feedback from instructors in the RCT, explicitly not quantitat
 ## Related Claims
 - [Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification](ai-feedback-interest-workload-timeliness.md) — a broader claim this one bears on
 - [Pedagogical considerations and workload reduction potential are additional factors influencing teachers' acceptance of AI-EdTech, beyond trust](pedagogical-considerations-workload-reduction-acceptance-factors.md) — related
+- [Educators proactively raise that LLM-based edtech increases their workload and decreases their autonomy](educator-workload-and-autonomy-harms.md) — related

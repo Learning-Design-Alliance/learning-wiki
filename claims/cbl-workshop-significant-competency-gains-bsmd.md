@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-21
 sources:
   - id: chauhan-sneha-martin-luke-senthil-vani-cheema-herjot-deon-marcel-2025
     resource: "https://doi.org/10.36834/cmej.78885"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After the workshop, students' retrospective pre-post self-ratings improved significantly on all three workshop objectives (p < 0.05 for each). [→ Chauhan Sneha; Martin Luke; Senthil Vani; Cheema Herjot; D'Eon Marcel 2025](#chauhan-sneha-martin-luke-senthil-vani-cheema-herjot-deon-marcel-2025)

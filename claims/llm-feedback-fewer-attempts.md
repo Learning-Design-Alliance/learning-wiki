@@ -54,3 +54,4 @@ Negative binomial generalized linear mixed-effects model (NB-GLMM) on attempts t
 - [Natural language AI feedback is associated with faster convergence to correct solutions](nl-feedback-faster-convergence-correctness.md) — related
 - [Feedback type did not affect whether students solved assignments; solution rates were very similar across all conditions](feedback-type-no-effect-solution-rates.md) — related
 - [In a 235-student statics lecture, 143 students completed all three individual exercise assignments, with hundreds of (re-)submissions per assignment](assignment-participation-statics-lecture.md) — related
+- [Physics-STAR tutoring reduced time spent on information-based questions relative to the other two tutoring methods](physics-star-reduced-information-question-time.md) — related

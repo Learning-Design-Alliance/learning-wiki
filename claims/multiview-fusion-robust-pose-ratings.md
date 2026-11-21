@@ -52,3 +52,4 @@ Authors' interpretation (qualitative exemplar analysis in the Results and discus
 - [Limited camera views and poor sound quality are the two main weaknesses of live video observation](lvo-weaknesses-limited-view-poor-sound.md) — related
 - [Recording angle alone does not affect self-reported cognitive load during video observation or task execution](recording-angle-no-cognitive-load-effect.md) — related
 - [Ergonomic working posture quality varies by component: students succeeded best at clock position and shoulder rest, least at neck inclination and lumbar lordosis](ergonomic-posture-component-variation.md) — related
+- [Tablet pose jerkiness on the velocity-setting sheet mediates the relationship between mean attempts and post-test score](tablet-pose-jerkiness-mediates-posttest-score.md) — related

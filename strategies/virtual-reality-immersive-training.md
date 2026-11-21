@@ -121,6 +121,8 @@ Immersion can increase engagement and situational interest, but engagement is no
 - [Favor hands-on simulation over VR when cost, intuitiveness, and eye strain matter](hands-on-over-vr-cost-intuitiveness-eye-strain.md)
 - [Deliver emergency simulation training at scale using 360-degree VR blended with in-person clinical placements](vr-simulation-scalable-blended-emergency-training.md)
 - [Use immersive VR to give scrub nurses a safe, low-pressure environment for repetitive practice of complex operations](ivr-safe-practice-environment-scrub-nurses.md)
+- [Design pediatric procedural preparation with interactivity and real-time feedback rather than passive immersion alone](interactive-feedback-procedural-preparation-strategy.md)
+- [Split-testing format: embodied interaction versus 3D video demonstration within the same VR environment](within-vr-split-testing-format.md)
 
 ## Examples
 - **Osso VR** (https://ossovr.com) — hands-on surgical training simulations with performance analytics used in medical device training and residency preparation.

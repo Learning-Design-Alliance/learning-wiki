@@ -69,3 +69,5 @@ Intra-group pooled CSEM pre/post analysis (Table II) of calculus-based LB, calcu
 - [A non-flipped EBAE course using active learning in class and reformed recitations produced performance comparable to a flipped course](non-flipped-ebae-comparable-to-flipped.md) — related
 - [EBAE instruction benefits students at all pretest performance levels, with higher gains in every pretest third](ebae-benefits-all-pretest-levels.md) — related
 - [Interactive engagement instruction yields significantly higher normalized learning gains than traditional lecture on both the FCI and FMCE](ie-higher-gains-than-lecture-physics-50k.md) — a broader claim this one bears on
+- [Male and female students in EBAE introductory physics courses outperform their counterparts in LB courses on FCI/CSEM posttests despite no pretest difference](ebae-outperforms-lb-conceptual-posttest.md) — related
+- [The gender gap on FCI/CSEM conceptual surveys persisted in EBAE courses and was not reduced relative to LB courses](gender-gap-persists-ebae-physics.md) — related

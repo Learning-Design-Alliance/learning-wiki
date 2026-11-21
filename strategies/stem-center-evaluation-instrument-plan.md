@@ -45,6 +45,7 @@ The article prescribes formative and summative evaluation using instruments incl
 - [Assess motivational development with multi-faceted, ongoing, longitudinal measures including scaffolding observation](multifaceted-ongoing-motivational-development-assessment.md)
 - [Two-stage research design identifying and integrating cultural and social learning cues (CSLC) into informal STEM programs](two-stage-cslc-research-design.md)
 - [Combine COPUS observation with an SDT-based survey to monitor progress toward active learning](combine-copus-sdt-survey-monitoring.md)
+- [Evaluate educational initiatives with front-end, formative and summative assessments, including pre/post testing and long-term follow-up](three-phase-evaluation-educational-initiatives.md)
 
 ## Examples
 -

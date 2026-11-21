@@ -42,7 +42,8 @@ This teaching strategy replaces the common practice of posting students directly
 - [Population Dynamics Mcmc Teaching Framework](../designs/population-dynamics-mcmc-teaching-framework.md)
 
 ## Related Strategies
-- 
+
+- [Teach data analysis methods through simplified implementations of advanced algorithms such as Metropolis-Hastings](simplified-algorithm-implementations-teaching-strategy.md)
 
 ## Examples
 -

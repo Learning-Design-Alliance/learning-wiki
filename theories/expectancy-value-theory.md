@@ -138,6 +138,7 @@ The theory is explicitly integrative — it is often used as the organizing fram
 
 - [Nurture the perceived value of creativity through joyful practice, task relevance, varied tasks, and enthusiastic teacher modeling](../strategies/nurture-perceived-value-of-creativity-strategies.md)
 - [Align reward with focus support and with SEVT value facets when designing instruction](../strategies/align-reward-with-focus-support-and-value-facets.md)
+- [Evaluate interventions by whether they increase resources or lower extraneous demands while holding rigor constant](../strategies/increase-resources-lower-extraneous-demands-hold-rigor.md)
 
 ## Key Sources
 - Wigfield, A., & Eccles, J. S. (2000). Expectancy-value theory of achievement motivation. *Contemporary Educational Psychology, 25*, 68–81.

@@ -55,3 +55,4 @@ Class statement and follow-up interview with one student (pseudonym Anita) refle
 - [Students treat chemical bonds as physical entities, believing energy is required to form a bond and breaking a bond releases energy](bond-as-entity-energy-misconception.md) — a broader claim this one bears on
 - [A novice undergraduate student similarly blends substance and location ontologies when reasoning about ATP hydrolysis energy](novice-substance-location-blend-energy.md) — related
 - [Students exhibit ontological flexibility, shifting among multiple stances toward the particle in a box: quantum particle, classical particle, and a blend of classical and quantum properties](ontological-flexibility-multiple-stances-piab.md) — related
+- [SPF makes semiotic misalignments — metaphor misuse, language conflicts, and graph misreads — analyzable where prior framing frameworks could not capture them in detail](spf-makes-semiotic-misalignments-analyzable.md) — related

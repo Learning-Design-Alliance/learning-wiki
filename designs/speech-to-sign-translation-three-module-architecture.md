@@ -52,4 +52,4 @@ The article describes a pipeline for translating spoken or text language to sign
 -
 
 ## Key Sources
-- Wanzare, L., Okutoyi, J., Kang'ahi, M., & Ayere, M. (2024). Kenyan Sign Language (KSL) Dataset: Using Artificial Intelligence (AI) in Bridging Communication Barrier among the Deaf Learners. https://ai4d.africa/
+- Wanzare, L., Okutoyi, J., Kang'ahi, M., & Ayere, M. (2024). Kenyan Sign Language (KSL) Dataset: Using Artificial Intelligence (AI) in Bridging Communication Barrier among the Deaf Learners. https://ai4d.africa/. [doi:10.48550/arxiv.2410.18295](https://doi.org/10.48550/arxiv.2410.18295)

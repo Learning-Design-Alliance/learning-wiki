@@ -71,3 +71,4 @@ Same Rasch analysis of the Australian sample: the most difficult items to endors
 - [Scientific reasoning levels are linked directly to sophistication of epistemological beliefs among Malaysian Muslim students](scientific-reasoning-linked-epistemological-sophistication.md) — related
 - [Items ranked from easiest to most difficult are identical under CTT and MFRM](identical-item-difficulty-ranking-ctt-mfrm.md) — related
 - [CTT and MFRM yield similar item difficulty results for open-ended questions regardless of crossed or nested design](ctt-mfrm-agreement-robust-to-design.md) — related
+- [Analytical reasoning capacity and skeptical disposition predict resistance to pseudo-profound statements](analytical-reasoning-predicts-pseudoprofound-resistance.md) — related

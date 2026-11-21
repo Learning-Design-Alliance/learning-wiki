@@ -61,3 +61,4 @@ Thematic analysis of reflective essays and both focus group interviews in the ca
 - [Specifying the domain in a prompt shifts ChatGPT-4's response toward physics argumentation for an everyday-context problem](specifying-domain-shifts-chatgpt4-physics-argumentation.md) — related
 - [ChatGPT interactions shifted some groups' awareness of critical aspects of acoustic levitation, sometimes toward unproductive foci](chatgpt-shifts-student-structure-of-awareness.md) — related
 - [ChatGPT provided vague, partially incorrect, or irrelevant guidance on lab-specific procedures, leading some groups to abandon it](chatgpt-unreliable-lab-procedure-guidance.md) — a narrower finding that bears on this claim
+- [In the authors' experience, content generated with good prompts is more detailed and topic-aligned than content generated with bad prompts](good-prompts-yield-detailed-aligned-genai-content.md) — possibly the same claim (merge candidate)

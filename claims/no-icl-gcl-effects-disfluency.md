@@ -53,3 +53,5 @@ Regression analyses of subjective cognitive load ratings (Cognitive Load Questio
 - [Transitions between text and animation areas of interest are uniquely predicted by intrinsic load (sentence complexity)](text-animation-transitions-predicted-by-intrinsic-load.md) — related
 - [No group differences in intrinsic or germane cognitive load between video-analysis and traditional conditions](no-group-differences-icl-gcl.md) — related
 - [Germane cognitive load did not differ significantly between the exploRNN and text groups](no-gcl-difference-explornn-text.md) — related
+- [Learning with four external representations (IG3) was associated with significantly higher intrinsic cognitive load than the control group](four-representations-increased-icl.md) — related
+- [Study condition showed no significant overall effect on extraneous or germane cognitive load](no-ecl-gcl-condition-effect.md) — related

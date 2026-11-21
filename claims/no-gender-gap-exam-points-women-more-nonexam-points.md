@@ -71,3 +71,4 @@ Same control-section regression applied to low-stakes non-exam points: "women ea
 - [Women score lower than men in high-stakes final exams across advanced undergraduate STEM courses, with mean differences of 2.5 to ~7 points on a 100-point scale](gender-gap-high-stakes-exams-advanced-stem.md) — reports the opposite
 - [Gender differences in assessment points earned remained small but statistically significant after controlling for math course type and level](gender-gap-persists-controlling-course-enrollment.md) — related
 - [Undergraduate women earned slightly but significantly higher course grades than men in both life and physical science STEM courses](women-higher-course-grades-stem-courses.md) — related
+- [The high-stakes final exam gender gap is about 50% larger than the medium-stakes in-term exam gap and is not removed by controlling for in-term exam scores](final-exam-higher-stakes-larger-gap.md) — related

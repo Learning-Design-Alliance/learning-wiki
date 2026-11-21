@@ -49,3 +49,4 @@ Analysis of two 1-hour interviews per student around PhET Acceleration and Beer'
 - [The cognitive framework for blended math-science sensemaking effectively characterizes engagement by undergraduates from diverse and underrepresented backgrounds](mss-framework-effective-diverse-populations.md) — related
 - [Engaging in level 2 quantitative Pattern sensemaking appears critical for transitioning to level 3](level-2-pattern-engagement-critical-for-level-3-transition.md) — related
 - [PhET simulations support meaningful engagement in blended MSS by diverse students with essentially no prior knowledge of the relevant content](phet-simulations-support-mss-no-prior-knowledge.md) — related
+- [Most students from historically marginalized STEM backgrounds progressed from the lowest to the highest MSS level after completing one directed self-guided activity](dsgl-activity-mss-level-progression.md) — related

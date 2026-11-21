@@ -58,3 +58,4 @@ Think-aloud interviews with four introductory students plus a few graduate stude
 - [Distinguishing fundamental physical principles from surface features is a critical aspect of problem solving](distinguish-principles-from-surface-features.md) — related
 - [The developers chose peer-reviewed simulations of specific named discs over generic models to maximise outreach value](peer-reviewed-specific-disc-data-design-choice.md) — related
 - [Evidence for the surface-feature specificity hypothesis was mixed: mismatched versions correlated more in Study 1 and for the near transfer pair, but matched versions correlated more for the far transfer pair](surface-feature-specificity-effect-mixed.md) — related
+- [Heuristic processes cued by task surface features can produce misleading initial task interpretations that students maintain rather than revise](heuristic-cues-produce-misleading-initial-task-interpretations.md) — related

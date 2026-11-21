@@ -63,6 +63,7 @@ Free writing functions as a generative warm-up that lowers the activation cost o
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — free writing is one concrete vehicle for this activation step
 - [Annotating](../principles/annotating.md) — a slower, text-anchored form of generative engagement with material
 - [Use freewriting as a private, ungraded warm-up to unlock ideas and release tension](freewriting-private-ungraded-warmup.md)
+- [Revise proposals by removing dead wood, avoiding generic opening statements, writing short clear sentences, and playing the critical reviewer of your own draft](proposal-revision-strategy.md)
 
 ## Examples
 - **Peter Elbow's classroom protocol** (*Writing Without Teachers*, 1973): daily 10-minute free writes with looping, treating freewriting as the core generative engine of the writing process.

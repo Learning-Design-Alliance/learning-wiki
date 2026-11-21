@@ -87,3 +87,4 @@ FCI administered as pre-test at the start of CLASP A and post-test at the end of
 - [A forced mid-semester transition to online teaching produced no appreciable drop in FCI normalized gain (G = 0.24) for first-year mechanics students](forced-online-transition-no-gain-loss-fci.md) — related
 - [Median normalized gains across repeatedly taught courses generally exceeded 0.25, with one course improving between its first and third implementation](longitudinal-median-gains-exceed-025-fig1.md) — related
 - [The GPT-3.5-to-GPT-4 score jump corresponds to a hypothetical normalized learning gain of g = 86.7%, more than twice the average effect of an interactive physics course](gpt4-hypothetical-normalized-gain-86-7.md) — related
+- [All three tutoring methods produced comparable post-test gains on conceptual and computational physics questions](tutoring-methods-comparable-conceptual-computational.md) — related

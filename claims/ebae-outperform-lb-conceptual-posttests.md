@@ -69,3 +69,5 @@ Inter-group comparison of pooled calculus-based physics II courses using t-tests
 - [Normalized gains on conceptual surveys are largest in EBAE courses compared with lecture-based courses of the same type](normalized-gain-largest-ebae-courses.md) — related
 - [Conceptual survey posttest scores correlate moderately with final exam scores in introductory physics](conceptual-survey-final-exam-moderate-correlation.md) — related
 - [A non-flipped EBAE course using active learning in class and reformed recitations produced performance comparable to a flipped course](non-flipped-ebae-comparable-to-flipped.md) — related
+- [Male and female students in EBAE introductory physics courses outperform their counterparts in LB courses on FCI/CSEM posttests despite no pretest difference](ebae-outperforms-lb-conceptual-posttest.md) — a narrower finding that bears on this claim
+- [The gender gap on FCI/CSEM conceptual surveys persisted in EBAE courses and was not reduced relative to LB courses](gender-gap-persists-ebae-physics.md) — related

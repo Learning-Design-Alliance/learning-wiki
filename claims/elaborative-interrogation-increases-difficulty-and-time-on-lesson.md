@@ -76,3 +76,4 @@ ANOVA on 1-7 Likert difficulty self-ratings after the lesson. The elaborative-in
 - [Questioning-with-training produced higher posttest scores than read-reread study (Experiment 2)](questioning-with-training-beats-rereading.md) — related
 - [Participants rated the complex three-population scenario as more difficult than the simple one-population scenario](visigarp-scenario2-difficulty.md) — related
 - [Course sections given guided reflection assignments wrote roughly twice as much reflection as sections given free assignments](guided-reflection-produces-longer-reflections.md) — related
+- [Analogical reasoning problems were rated far more difficult than incremental concept learning problems, drawing more questions and time](ana-harder-than-inc.md) — related

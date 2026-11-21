@@ -61,4 +61,4 @@ The article proposes a second path alongside robust assessment: integrating AI t
 -
 
 ## Key Sources
-- Pimbblet, K.A., & Morrell, L.J. (2024). Can ChatGPT pass a physics degree? Making a case for reformation of assessment of undergraduate degrees. European Journal of Physics. https://chat.openai.com/chat
+- Pimbblet, K.A., & Morrell, L.J. (2024). Can ChatGPT pass a physics degree? Making a case for reformation of assessment of undergraduate degrees. European Journal of Physics. https://chat.openai.com/chat. [doi:10.1088/1361-6404/ad9874](https://doi.org/10.1088/1361-6404/ad9874)

@@ -45,6 +45,7 @@ When students cannot explain nuclear stability with known interactions, the teac
 
 - [Teacher-as-facilitator discussions driven by stimulating questions, with explicit promotion of proper scientific language](facilitator-question-driven-scientific-language.md)
 - [De-emphasize Answers, Emphasize Reasoning](de-emphasize-answers-emphasize-reasoning.md)
+- [Pose provocative open discussion questions about Maxwell's equations to stimulate the search for correct answers](provocative-discussion-questions-maxwell-equations.md)
 
 ## Examples
 -

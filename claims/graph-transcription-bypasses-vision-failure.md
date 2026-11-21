@@ -54,3 +54,4 @@ Illustrative quick test on a single item across 60 repetitions, not a systematic
 - [LLM accuracy drops from 96% on text-only to 74% on multimodal physics problems, with significant differences emerging among models](multimodal-physics-accuracy-drops-to-74-percent.md) — a broader claim this one bears on
 - [All four multimodal LLMs show a marked decrease in correct response rates on visually-based versus text-only JNEOT questions](llm-visual-question-decline-jneot.md) — a broader claim this one bears on
 - [ChatGPT-4's performance on the Japanese National Nursing Examination differs by attached file format, with JPG (26% median) far below text-based formats (87%-94% medians)](file-format-affects-chatgpt-nursing-exam-performance.md) — a broader claim this one bears on
+- [The same v–t graph is interpreted correctly in a native Google Doc but fails to parse when exported to default PDF](notebooklm-graph-parsing-docs-vs-pdf.md) — related

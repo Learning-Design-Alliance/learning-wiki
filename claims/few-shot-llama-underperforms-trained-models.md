@@ -52,3 +52,4 @@ Results section comparison for the QC code across five model types; the few-shot
 - [Zero-shot LLMs perform only marginally above random in five-class competency classification but exceed 70% accuracy on binary classification](zero-shot-llm-granularity-competency-classification.md) — related
 - [Mid-range degradation is conditioned on task-specific adaptation: it is most severe for few-shot LLMs with few examples, decreases with more task-specific data, and is mildest for the fine-tuned encoder](task-specific-adaptation-conditions-mid-range-degradation.md) — a broader claim this one bears on
 - [Adding a prompt to fine-tuned LLaMA yields performance similar to unprompted fine-tuned LLaMA](prompted-llama-similar-to-unprompted.md) — related
+- [Source-free domain adaptation methods that succeed in computer vision underperform direct application of pre-trained models for retention prediction](sfda-underperforms-in-retention-prediction.md) — related

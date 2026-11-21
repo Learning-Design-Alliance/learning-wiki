@@ -70,3 +70,4 @@ Wilcoxon signed rank tests compared retake and initial quiz scores across offeri
 - [Quiz retakes and low-stakes assessments increased students' sense of autonomy over grade outcomes and study decisions](quiz-retakes-increase-autonomy.md) — related
 - [Students report overwhelmingly positive perceptions of the oral retest intervention, including fairness, pride, and improved retention](positive-student-perceptions-oral-retest.md) — related
 - [Students overwhelmingly liked optional exam retakes and perceived them as helping their learning, with most retakers reporting substantial study effort](retakes-popular-perceived-learning-benefit.md) — related
+- [The zero gender gap in retake classes is not explained by women being more likely to take retakes: men and women retook exams at similar rates](retake-uptake-no-gender-difference.md) — related

@@ -54,3 +54,4 @@ Human evaluation of Step 1 (Theory-only) codebooks generated three times by GPT-
 - [Empirical studies support Zimmerman's cyclical and multi-level SRL models, including a linear trend favoring training more SRL phases](zimmerman-cyclical-model-empirical-support.md) — related
 - [Prompting is a form of writing: task definition is a constitutive element of knowledge production, not a neutral procedural step](prompting-as-writing-task-definition-constitutive.md) — related
 - Zimmerman's (2000) model was the most frequently cited SRL model (74%) and Pintrich's (2000) model followed (67.4%), with model choice not affecting the areas promoted — related
+- [GPT-4o identifies learners' thought-process step statuses more accurately from code than from natural-language descriptions, with the largest gap for sequence-change errors](gpt4o-code-vs-natural-language-step-status-accuracy.md) — related

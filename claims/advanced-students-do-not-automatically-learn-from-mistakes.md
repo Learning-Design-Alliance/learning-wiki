@@ -100,3 +100,5 @@ Among comparison group students, a comparable number regressed as improved on th
 - [The incentive to correct mistakes had greater impact on final exam performance of students who had not performed well on the midterm exam](mistake-correction-incentives-benefit-low-performers-most.md) — related
 - [Students using personalized automatic quiz generation corrected previous mistakes more frequently than students with traditional computer-aided question generation](personalized-quiz-generation-improves-mistake-correction.md) — a narrower finding that bears on this claim
 - [Completed solutions and mistakes offer opportunities for reflection that improve future problem solving](post-solution-reflection-and-mistake-analysis.md) — reports the opposite
+- [Students report high mental engagement during the final group exam even though they know they will not be re-tested on the material](final-group-exam-engagement-high-without-retesting.md) — related
+- [Students report that homework corrections reduce stress and support learning, and that without HWCs they do not independently reflect on posted solutions](hwc-reduce-stress-affective-benefit.md) — related

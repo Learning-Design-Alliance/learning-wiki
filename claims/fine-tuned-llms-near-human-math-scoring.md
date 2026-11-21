@@ -50,3 +50,4 @@ The editorial reports, citing Morris et al. (2024), a prize-winning automated ma
 - [A fine-tuned BERT model achieves almost perfect agreement with human coders when classifying student self-affirmation essays, matching human-human reliability](fine-tuned-bert-matches-human-coders-self-affirmation-essays.md) — related
 - [Both fine-tuned models show regression toward the mean in score-wise bias, and error rises monotonically above score 3.0, with high scores hardest to predict](score-wise-bias-regression-to-mean-awe.md) — related
 - [Human-perceived item difficulty (human-human QWK) does not reliably predict LLM scoring difficulty on the same items](human-difficulty-does-not-predict-llm-difficulty.md) — related
+- [A fine-tuned BERT encoder achieves the best agreement with human coding (AUROC 0.916) among three encoder variants on held-out student responses to the same four problems](bert-finetuned-best-auroc-sensemaking.md) — related

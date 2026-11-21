@@ -44,6 +44,7 @@ The article recommends carefully designing how uncertainty is communicated in AI
 - [Use predicted hint-taking likelihood and hint effects to adaptively decide whether to withhold or provide hints](adaptive-hint-withholding-from-hint-prediction.md)
 - [Teach students to read AI critically and discuss the difference between fluency and thought](teach-critical-reading-of-ai-outputs.md)
 - [Make partners' AI use visible through transparency mechanisms in early collaborative programming phases](ai-use-transparency-features-collaborative-programming.md)
+- [Structure teachable-agent dialogue around a five-stage help-seeking process](five-stage-help-seeking-agent-dialogue.md)
 
 ## Examples
 -

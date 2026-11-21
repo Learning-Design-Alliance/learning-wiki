@@ -58,3 +58,4 @@ Thematic analysis of reflection reports and interviews. Of 114 codes related to 
 - [Students exercise ethical agency in GenAI use through human-AI collaboration strategies, personal ethical frameworks, strategic calibration of use, and resistance to over-reliance](student-ethical-agency-genai-use.md) — a broader claim this one bears on
 - [Hybridization of authorship blends human and AI-generated content, often without learners' explicit awareness of the boundary, normalizing formulaic rhetorical structures](hybridization-of-authorship-argumentation.md) — related
 - [Comparative evaluation of AI output taught students that AI is not infallible and reinforced critical reading](ai-comparative-evaluation-critical-reading.md) — related
+- [Learners attempt to share personal values with LLM-generated learning materials as they would with human instructors, raising design questions about AI versus human disclosure](sharing-personal-values-with-llm-materials.md) — related

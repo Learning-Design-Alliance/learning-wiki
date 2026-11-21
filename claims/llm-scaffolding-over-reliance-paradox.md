@@ -56,3 +56,4 @@ The review reports a single-group observational study of beginner CFL learners u
 - [System-controlled adaptive instruction does not necessarily yield higher transfer than nonadaptive static approaches](system-control-not-superior-transfer.md) — related
 - [Higher user satisfaction and self-evaluation do not necessarily correlate with academic performance in an ERS deployment](ers-satisfaction-not-correlate-academic-performance.md) — related
 - [Self-efficacy and objectively assessed handover performance show no significant correlation in the Team FIRST cohorts](no-correlation-self-efficacy-handover-performance.md) — related
+- [Self-directed engagement with LLM-generated skill content fosters positive, engaged responses, including preference for content that leaves room for autonomous thinking](self-direction-fosters-engaged-responses.md) — related

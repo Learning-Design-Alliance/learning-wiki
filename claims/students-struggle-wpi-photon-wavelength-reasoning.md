@@ -73,3 +73,4 @@ From individual interviews where students predicted the screen pattern when phot
 - [Students who learned WPI reasoning in the MZI context spontaneously used it on DSE polarizer questions, using it correctly 79% of the time](wpi-reasoning-transfers-to-dse.md) — related
 - [After QuILT instruction, 91% of undergraduate students correctly interpreted the effect of photon wavelength on the interference pattern on the posttest](posttest-91-percent-correct-photon-wavelength.md) — related
 - [Think-aloud interviews suggest students who worked only on the DSE QuILT spontaneously transferred WPI reasoning to the polarizer questions](think-aloud-interviews-wpi-transfer-mechanism.md) — related
+- [Students commonly hold four misconceptions about double-slit interference, the most damaging being that constructive interference requires both pathlengths to be integer multiples of the wavelength](four-double-slit-interference-misconceptions.md) — related

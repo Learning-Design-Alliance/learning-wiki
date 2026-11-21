@@ -86,3 +86,4 @@ Self-report interviews and surveys: "the interviews and surveys indicated that s
 - [Most former students reported using group processing after their seminar and rated it as transferable to other contexts](group-processing-skills-transferable-to-other-contexts.md) — related
 - [Students exposed to the IPLM CbMW felt better prepared to solve real-world computer networking problems than students not exposed to it.](iplm-exposure-increased-perceived-preparedness.md) — related
 - [Student interviews indicate the formatted plan demanded more work and time, with mixed perceptions of step helpfulness](interview-perceptions-problem-solving-plan-steps.md) — related
+- [The redesigned lab curriculum is reported to significantly improve student learning outcomes in formulating and solving complex engineering problems and activities](micro-lab-curriculum-improves-cep-outcomes.md) — related

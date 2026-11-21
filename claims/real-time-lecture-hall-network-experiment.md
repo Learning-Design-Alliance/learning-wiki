@@ -47,3 +47,4 @@ Real-time collaborative experiment in the same physics course: students received
 ## Related Claims
 - [Filtering incoming data is essential for large-audience network experiments, and autocorrelation-quality thresholds plus mid-series mass selection remove most erroneous points](filtering-large-audience-experiment-data.md) — related
 - [Collaborative smartphone pendulum data collected via a web form let students conduct an experiment before the lecture explains the theory, reproducing the expected pendulum behavior](web-form-flipped-lecture-experiment.md) — related
+- [In a 36-participant lab course, all students including programming novices succeeded in creating a distance-time plot in phyphox with an ESP32 board and the MicroPython library](lab-course-36-participants-distance-time-plot-success.md) — related

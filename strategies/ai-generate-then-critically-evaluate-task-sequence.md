@@ -54,6 +54,7 @@ This strategy embeds ChatGPT into pedagogy as a catalyst for critical thinking r
 - [Design AI-integration activities that set explicit expectations for AI-assisted work, integrate reflective assessments of AI outputs, and build tasks strengthening critical thinking and academic integrity](explicit-expectations-reflective-assessments-ai-tasks.md)
 - [Run a preclass 30-minute AI literacy training covering query formulation and critical evaluation of AI output](preclass-ai-literacy-training-deepseek-pbl.md)
 - [Use masked ChatGPT responses in spot-the-bot activities to foster students' critical evaluation of scientific accuracy](spot-the-bot-chatgpt-evaluation-activity.md)
+- [Sequence AI-writing instruction by competence: build low-achieving students' independent process writing capacity first, then teach finer-grain AI integration skills to high achievers](competence-sequenced-ai-writing-instruction.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Regression analyses of subjective ECL ratings after learning and after testing i
 - [Neither disfluency nor distinctiveness affected memory across three experiments with alien-list stimuli](disfluency-distinctiveness-null-rummer.md) — related
 - [Mediation hypotheses via extraneous cognitive load and mental effort are unsupported](humour-mediation-cognitive-load-unsupported.md) — related
 - [Presentation framerate did not affect detection accuracy despite 28 images/s being judged too fast](framerate-no-accuracy-effect.md) — related
+- [Study condition showed no significant overall effect on extraneous or germane cognitive load](no-ecl-gcl-condition-effect.md) — related

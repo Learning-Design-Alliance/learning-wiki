@@ -43,6 +43,7 @@ The report recommends teaching students when, why, and how to elaborate on new i
 - [Making Connections](making_connections.md)
 - [Question Generation](question-generation.md)
 - [Promote interaction between provider and receiver of peer feedback to stimulate elaboration on judgments](promote-provider-receiver-interaction-feedback.md)
+- [Make AI peer dialogue more inquisitive: identify the student's misconception first, ask them to elaborate, and let dialogue length be flexible](inquisitive-ai-peer-dialogue-strategy.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Interview case from the belief-versus-behavior analysis: participant P16 express
 - [Perceived institutional AI regulation differs significantly across STEM subjects, with mathematics and natural sciences perceived as prohibitive and computer science as permissive](subject-specific-ai-regulation-perceptions.md) — related
 - [Universities converge on disclosure and attribution expectations as the condition distinguishing legitimate AI assistance from misrepresentation](genai-disclosure-attribution-convergence.md) — related
 - [Students have submitted wrong or conflicting GenAI-generated information in assignments (authors' own experience)](genai-hallucination-wrong-student-submissions.md) — related
+- [A strict confidentiality protocol in the Training Manual prevented the tutor from revealing its operational instructions when prompted during testing](training-manual-confidentiality-protocol-adherence.md) — related

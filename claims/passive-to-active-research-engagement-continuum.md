@@ -51,3 +51,4 @@ The phenomenographic interview study reports that the categories and themes toge
 - [Identical overt behaviors can reflect different engagement modes: a video-watching example](identical-overt-behavior-different-modes.md) — related
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — a broader claim this one bears on
 - [The four categories of understanding research are structured by three themes of expanding awareness: students' own engagement, perceptions of faculty as research-active educators, and experiences of teaching and learning activities](three-themes-expanding-awareness.md) — a narrower finding that bears on this claim
+- [Phenomenographic analysis revealed qualitatively different levels of student understanding, from descriptive recall to causal interpretation to abstract inference](phenomenographic-levels-analogical-reasoning.md) — related

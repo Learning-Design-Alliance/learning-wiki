@@ -59,3 +59,4 @@ Narrative review argument about access equity, not a tested comparison. The revi
 - [Students accept a robotic telescope in place of on-site practical work when realistic activities, a stable internet connection, and at least one live video feed are present](re-acceptance-conditions.md) — related
 - [Students who observed remotely, unlike those physically present at the telescope, often did not fully understand the observing procedure](remote-observing-loss-of-procedural-insight.md) — related
 - [Access to telescopes and planetariums is limited among Indian secondary students, with large socioeconomic disparities, and most students overestimate how many stars they can see](india-students-astronomy-resource-access-disparities.md) — related
+- [Only about a quarter of Indian school students reported having ever observed through a telescope](quarter-students-ever-observed-telescope.md) — related

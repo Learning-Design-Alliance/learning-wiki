@@ -58,3 +58,4 @@ Comparison of R² values across seven SEM models in Table III (all R² significa
 - [Sense of belonging is best predicted by self-efficacy in every model except year 2 majors, with peer interaction the next best predictor except in year 4](belonging-best-predicted-by-self-efficacy.md) — related
 - [Perceived recognition is the top predictor of physics identity for physics majors in every year of study, with regression models explaining over 50% of identity variance](recognition-top-predictor-identity-all-years.md) — related
 - [Self-efficacy of physics majors is predicted by perceived recognition and sense of belonging, with belonging becoming the best predictor in years 3 and 4](self-efficacy-predicted-by-belonging-recognition.md) — related
+- [End-of-course physics self-efficacy is predicted by belonging (b = 0.49), pre self-efficacy (b = 0.45), peer interaction (b = 0.21), and perceived recognition (b = 0.13)](belonging-predicts-post-self-efficacy.md) — related

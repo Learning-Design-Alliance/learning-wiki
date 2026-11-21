@@ -65,3 +65,4 @@ Adapted SUS administered to clinician testers after each testing round of the te
 - [The Ethics Quarter e-learning intervention achieves good usability among nurse managers (mean SUS 85.40)](ethics-quarter-good-usability-sus-85.md) — related
 - [Learners rated the e-GAL reference implementation Acceptable and Good with a median and mean SUS score of 75](sus-75-acceptable-gesture-platform.md) — related
 - [Earning badges was associated with greater completion of remaining questions only in round 2, with no significant badge effect in rounds 1 and 3.](badge-effect-on-completion-mixed-by-round.md) — related
+- [The system achieves Good usability, scoring 73.75 on average (SD=14.66) on the SUS](sus-good-usability-73-75.md) — related

@@ -104,3 +104,4 @@ Manual error analysis found missed nuanced evidence mainly in long learning acti
 - [The GPT-4 tutor made errors in fewer than 1% of homework questions](gpt4-tutor-low-error-rate.md) — related
 - [A single GenAI agent generating feedback on science constructed responses produces over-praise in 15.42% of feedback and over-inference in 27.20%, with 9.58% exhibiting both](single-agent-genai-feedback-over-praise-over-inference-rates.md) — related
 - [The AutoFeedback multi-agent system significantly outperforms a single GenAI agent by reducing over-praise and over-inference in generated feedback](autofeedback-multi-agent-reduces-over-praise-over-inference.md) — related
+- [Providing URLs alone left the MyGPT PHYSBO tutor inaccurate, while uploading official documentation PDFs substantially improved response accuracy](mygpt-pdf-upload-improves-accuracy.md) — related

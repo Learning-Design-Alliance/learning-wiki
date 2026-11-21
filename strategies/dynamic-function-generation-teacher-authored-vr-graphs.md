@@ -46,6 +46,7 @@ As future work, the authors intend to replace the current statically-compiled di
 - [Evaluate VR math environments by collecting homogeneous-sample student questionnaire responses before drawing conclusions](homogeneous-sample-questionnaire-evaluation-vr-math.md)
 - [Have students build and explore their own multi-dimensional wire configurations (solenoids, Helmholtz coils, toroidal systems) with the superposition routine before lengthy theoretical derivations](student-built-3d-magnetic-field-models-strategy.md)
 - [Develop dedicated augmented reality libraries for building learning systems in the mobile-oriented learning environment of higher education institutions](ar-libraries-mobile-learning-future.md)
+- [Automatically reconfigure the physical learning task via AR rendering to generate targeted practice opportunities on unmastered skills](ar-automatic-task-reconfiguration-strategy.md)
 
 ## Examples
 -

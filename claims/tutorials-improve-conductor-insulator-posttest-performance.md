@@ -51,3 +51,4 @@ Controlled pre-/post-test study in equivalent introductory physics courses using
 - [In Harvard's introductory physics course, average FCI posttest scores and normalized gain rose sharply in the year it switched from traditional lectures to Peer Instruction](fci-gain-increased-peer-instruction-harvard.md) — related
 - [Pupils taught with the IWB and XERTE resource scored no better on post-tests than pupils taught traditionally](iwb-no-significant-score-difference-mauritius.md) — related
 - [Tutorial and comparison groups performed comparably on the pre-test after traditional lecture-based instruction (p = 0.6)](superposition-tutorial-groups-comparable-pretest.md) — related
+- [Targeted dialogue with a fallible AI Peer raised post-test FCI scores by 10.5 percentage points and normalized gain by over 20 points versus a control group](ai-peer-dialogue-improves-fci-gains.md) — related

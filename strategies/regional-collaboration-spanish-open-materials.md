@@ -48,6 +48,7 @@ A set of access-oriented strategies: developing and translating open-access mate
 - [Expand mCLEIMS through faculty development, standardized scenario templates, and a train-the-trainer model](mcleims-expansion-train-the-trainer-strategy.md)
 - [Release handmade simulators as open technology under a Creative Commons license to broaden access and encourage reproduction and improvement](open-source-release-of-handmade-simulators.md)
 - [Tiered certification tracks with regional simulation hubs, mobile units, and shared access to avoid excluding resource-limited centres](tiered-certification-regional-hubs-strategy.md)
+- [Incorporate remote cloud-accessible quantum experiments to extend experimental-skills opportunities to students at less-resourced institutions](remote-quantum-experiments-access-strategy.md)
 
 ## Examples
 -

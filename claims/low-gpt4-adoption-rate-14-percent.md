@@ -49,3 +49,4 @@ Descriptive adoption measure from the RCT experiment group (n=3,581): "only a sm
 - [Advertising and providing GPT-4 access significantly decreased diagnostic exam participation in an online coding class](gpt4-advertisement-lowered-exam-participation.md) — related
 - [A quarter of students offered a free AI tutor never tried it once, making first-session adoption a deployment problem](first-session-adoption-problem-free-ai-tutor.md) — related
 - [Approximately two-thirds of teacher education students chose not to adopt GenAI in assessments even when its use was allowed](two-thirds-students-declined-genai-when-allowed.md) — related
+- [Only a minority of adult learners voluntarily adopt optional tutors, with 14.81% using them at least once](low-voluntary-tutor-adult-adoption-rate.md) — related

@@ -67,3 +67,4 @@ The review attributes this to prior meta-analytic work (Mammadov, 2022; Poropat,
 - [Cognitive ability is the strongest pretraining predictor of academic and military GPA](cognitive-ability-best-predictor-academic-military-gpa.md) — related
 - [Conscientiousness measured by the CI appears to be a stable characteristic not modified by teaching and clinical exposure in years 1–2](conscientiousness-stable-not-modified-by-teaching.md) — related
 - [Non-cognitive traits (narcissism, aloofness, irrational thinking, conscientiousness, confidence, INVOLVEMENT) predict examination performance, but not Theme C](non-cognitive-traits-predict-exam-outcomes.md) — a narrower finding that bears on this claim
+- [No pre-existing personality, motivation, self-efficacy, or attitude-toward-AI differences distinguished dropouts from completers](no-preexisting-traits-dropout-completer-maic.md) — related

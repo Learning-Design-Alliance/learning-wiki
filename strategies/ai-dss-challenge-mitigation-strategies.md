@@ -48,6 +48,7 @@ The review maps each identified challenge—model interpretability, algorithmic 
 - [Deploy AI as an auxiliary tool supplemented by structured measures including transparent auditing of algorithmic bias and data-processing privacy protocols](ai-auxiliary-tool-structured-safeguards-strategy.md)
 - [Preserve data integrity through input checks, deduplication, backups and access controls before deploying IoT](data-integrity-practices-iot-education.md)
 - [Safeguards for equitable and unbiased educational GAI deployment: access subsidies, bias testing, and diverse training datasets](gai-education-equity-bias-safeguards.md)
+- [Responsible AI measures for tutoring systems: encryption, security audits, access controls, transparency, bias mitigation, and governance oversight](responsible-ai-measures-tutoring-systems.md)
 
 ## Examples
 -

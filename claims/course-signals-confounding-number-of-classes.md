@@ -85,3 +85,4 @@ The paper's review of the Course Signals deployment, piloted at Purdue in 2007, 
 - [Sensitivity analysis indicated medium-to-large unobserved confounding would be needed to eliminate the reported pandemic effects](unobserved-confounder-sensitivity-pandemic-effects.md) — related
 - [Medium and large achievement effects are confounded by combined interventions or non-controlled designs](lad-achievement-effects-confounded.md) — related
 - [Just-in-time interventions had no significant effects on course dropout rates or scores](jit-interventions-no-effect-scores-dropout.md) — related
+- [E-TRIALS' Get Help button design prevents post-randomization selection bias when analyzing only students who requested support](e-trials-get-help-avoids-selection-bias.md) — related

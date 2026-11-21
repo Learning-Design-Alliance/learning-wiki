@@ -63,3 +63,5 @@ Correlation analysis (Table 4) among participants in the two AI-assisted conditi
 - [Open student models made students more aware of knowledge deficiencies and improved their learning decisions](open-student-models-self-assessment.md) — related
 - [Physicians need awareness that AI tools can negatively influence their cognitive processes, including over-reliance on AI-generated advice](ai-tools-negative-cognitive-influence-physicians.md) — related
 - [Students with positive prior ChatGPT experience showed confirmation bias, maintaining or improving quality ratings despite recognizing deficiencies](confirmation-bias-in-chatgpt-evaluation.md) — related
+- [Decision time is negatively associated with over-reliance and positively associated with under-reliance on ChatGPT recommendations](decision-time-reliance-associations.md) — related
+- [High school students show widespread over-reliance on ChatGPT recommendations, adopting incorrect advice in 52.1% of trials](widespread-over-reliance-chatgpt-math-puzzles.md) — related

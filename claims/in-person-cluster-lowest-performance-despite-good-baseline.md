@@ -50,3 +50,4 @@ Descriptive cluster-profile analysis (Table 3, Cluster 1, n = 59); 86.5% receive
 - [Students with online education had higher final exam scores than those with in-person education in pre-clinical medical English coursework](online-education-higher-final-exam-scores-preclinical-medical-english.md) — related
 - [Cluster analysis identified four medical student subgroups with significantly different final exam scores, ranging from 75.1 to 85.8](four-academic-performance-profiles-medical-students.md) — related
 - [Male sex was the only factor independently associated with lower skills retention one year after simulation training](male-sex-lower-skills-retention-apr.md) — related
+- [Cluster analysis identified three learner profiles at k=3, with the highest-scoring cluster showing the largest percentage of human words](cluster-k3-highest-score-most-human-words.md) — related

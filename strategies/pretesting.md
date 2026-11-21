@@ -66,6 +66,7 @@ Pretesting exploits the finding that unsuccessful retrieval attempts enhance lat
 - [Pre-questioning: teacher and students generate questions and inferences about a passage summary before reading](pre-questioning-strategy-recipe.md)
 - [Administer a pretest before training so instructors can tailor methods and materials to participants' prior understanding](pretest-informs-trainer-material-selection.md)
 - [Deploy prequestioning as a low-preparation end-of-lecture worksheet routine with immediate answer feedback](end-of-lecture-prequestioning-worksheets.md)
+- [Require learners to attempt the task and answer pretest questions before granting access to ChatGPT](struggle-first-prompt-later-strategy.md)
 
 ## Examples
 - **Kornell's inductive-learning experiments** — participants guessed which painting style matched an artist before being told, and later identified artists better than a no-pretest control group ([Kornell, Hays & Bjork, 2009](https://doi.org/10.1037/a0015273))

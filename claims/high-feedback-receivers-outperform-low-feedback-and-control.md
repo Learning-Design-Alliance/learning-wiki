@@ -50,3 +50,4 @@ One-way ANOVA across three groups (control, 8 low-feedback receivers, 7 high-fee
 - [Beginning EFL learners who produced written output and received corrective feedback outperformed input-only learners on a delayed receptive vocabulary post-test](output-plus-feedback-outperforms-input-only-receptive-vocabulary.md) — related
 - [All three groups benefited from the instructional intervention, with both experimental groups benefiting the most](all-groups-benefited-experimental-most.md) — related
 - [Posttest grammar scores differed significantly among the three feedback groups (omnibus ANOVA)](posttest-anova-significant-group-difference-grammar.md) — related
+- [Rubikon learners exercised significantly more knowledge components during practice than both baselines](rubikon-more-knowledge-components-exercised.md) — related

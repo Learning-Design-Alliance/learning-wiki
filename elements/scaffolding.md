@@ -13,7 +13,7 @@ generated:
 # Scaffolding
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (3 for, 3 mixed, 2 against) · 7 studies (5 causal, 1 quant-synthesis, 1 associational), `q3` · 4 of 7 report an effect size · 8 claims rest on one study
+> **Evidence** · 9 claims (4 for, 3 mixed, 2 against) · 8 studies (6 causal, 1 quant-synthesis, 1 associational), `q3` · 4 of 8 report an effect size · 9 claims rest on one study
 
 ## Description
 Scaffolding is the element in which support is added temporarily so learners can perform tasks they could not yet complete independently.
@@ -44,6 +44,7 @@ Scaffolding is the element in which support is added temporarily so learners can
 - [Real-time visual scaffolding does not significantly change high-EF learners' strategy use between scaffolding and non-scaffolding conditions](../claims/scaffolding-no-effect-high-ef-strategy.md) [~W] — attached 2026-10-29 from Huang et al. (2026), which proposed "Real-time visual scaffolding programming system with color-coded blocks and synchronized visual output".
 - [Students prefer the lowly scaffolded, strategy-free tutoring system for usability and enjoyment](../claims/students-prefer-low-scaffolded-strategy-free-tutor.md) [-W]
 - [Motivational scaffolding in an e-learning environment produces a large main effect on academic self-efficacy in higher education students](../claims/motivational-scaffolding-raises-academic-self-efficacy-elearning.md) [+W] — attached 2026-11-02 from Nilson Valencia-Vallejo et al. (2017), which proposed "Introductory Course to Mathematics e-learning environment with embedded four-stage motivational scaffolding"; tests this page's relationship.
+- [Novice programmers given personalized Parsons puzzle scaffolding on help requests spend significantly longer practicing write-code problems than those given complete LLM-generated solutions](../claims/parsons-scaffolding-longer-practice-time-than-complete-solutions.md) [+W] — attached 2026-11-21 from Xinying Hou et al. (2025), which proposed "LLM-powered personalized Parsons puzzles as write-code scaffolding".
 
 ## Related Elements
 - [Fading](fading.md)

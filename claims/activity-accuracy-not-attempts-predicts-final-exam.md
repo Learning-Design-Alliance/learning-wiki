@@ -68,3 +68,4 @@ Correlation analysis showing number of attempts per activity was not associated 
 - [Instructed students allocated more total time to learning, and time was correlated with successful retrieval attempts](instructions-increase-learning-time-allocation.md) — related
 - [Treatment group assignment does not affect final exam grades, but performance in the e-learning sessions predicts exam scores](session-performance-predicts-exam-no-treatment-effect.md) — related
 - [Number of correctly retrieved and acquired Word Engine items each correlated moderately with VST score gains](word-engine-use-correlates-vst-gains.md) — related
+- [Fewer and decreasing in-game attempts predict better vector learning: mean attempts negatively correlate with post-test and MCQ scores](fewer-attempts-predict-vector-learning.md) — related

@@ -70,3 +70,5 @@ The authors' predicate-analysis coding of the same Episode 1 transcript identifi
 - [Expert physicists apply matter-based predicates to non-material concepts in professional discourse](experts-use-matter-predicates-for-nonmaterial-concepts.md) — a broader claim this one bears on
 - [Daniel's letter-grade analogy reconceived gravity as an intensive property that is not enhanced or diluted by combining or dividing objects](letter-grade-analogy-gravity-intensive-property.md) — related
 - [Students commonly attribute spiral galaxy structure to matter swirling into a central black hole](spiral-arms-black-hole-misconception.md) — related
+- [Students' conceptual metaphors about the atom mostly fell into Harrison and Treagust's simple analogy category, with some enriched and one extended analogy](cma-metaphor-classification-harrison-treagust.md) — related
+- [Students' definitions revealed common misconceptions about gravity and the Big Bang, often framed through metaphorical language](gravitational-physics-misconceptions-definitions.md) — related

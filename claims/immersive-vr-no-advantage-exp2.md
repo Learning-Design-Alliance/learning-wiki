@@ -50,3 +50,4 @@ Between-subjects campus-recruited experiment with 34 participants (17 per condit
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — a broader claim this one bears on
 - [High-immersion VR produced significantly higher enjoyment than video instruction, with a medium effect size](vr-higher-enjoyment-than-video.md) — related
 - [Video assembly instructions raise judgments of learning relative to static diagrams without improving recognition performance (Experiment 1)](video-instructions-raise-jol-not-learning-exp1.md) — related
+- [Immersive VR conditions outperform 2D video on knowledge retention, and Game-VR yields the highest overall preparedness](game-vr-highest-preparedness.md) — reports the opposite

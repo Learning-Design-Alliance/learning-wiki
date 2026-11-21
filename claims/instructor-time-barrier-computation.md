@@ -52,3 +52,4 @@ Interview evidence on the instructor-time force: one interviewee prioritized "ge
 - [Computation integration requires choosing an accessible, affordable platform, a barrier specific to computation because no universal physics coding language exists](accessible-platform-barrier-computation.md) — related
 - [ITS adoption is limited by instructors' lack of programming skills and high outsourcing costs](its-barriers-programming-skills-and-cost.md) — related
 - [The five systemic forces limiting research-informed teaching reform identified by Dancy and Henderson replicate when the reform is integrating computation into undergraduate physics](systemic-forces-replicate-computation-integration.md) — a broader claim this one bears on
+- [Instructors request supports including student educational materials, instructor background materials and training, time, a troubleshooting contact, and a resource-sharing platform](oqtant-instructor-support-needed.md) — related

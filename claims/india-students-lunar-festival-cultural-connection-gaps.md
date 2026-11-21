@@ -67,3 +67,4 @@ Demographic analysis of the festival questions. The quote reports the reversed d
 - [Indian grade 9 students show large socioeconomic and gender gaps in correctly ordering celestial sizes, with only 65% answering correctly overall](india-grade9-celestial-size-ordering-gaps.md) — related
 - [Only 7% of Indian grade 9 students identify all five lunar-phase images correctly, with intermediate phases showing widespread shape confusion](india-grade9-lunar-phase-recognition-low.md) — related
 - [Indian secondary students show high interest in astronomy, but career aspiration is higher among resource-poor students (46% vs 30%) and awareness of the astronomer pathway is poor](india-students-astronomy-interest-career-aspirations.md) — related
+- [Indian class IX students are highly interested in astronomy but a minority show proficiency in celestial sizes, distances and lunar phases](class-ix-high-interest-low-proficiency-astronomy-concepts.md) — related

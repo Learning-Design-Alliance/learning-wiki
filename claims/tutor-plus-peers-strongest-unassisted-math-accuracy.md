@@ -77,3 +77,5 @@ Same Experiment-1 test-phase analysis of isomorphic problem variants solved unas
 - [Zero scores on the course-requirements test occurred exclusively in the Traditional group, and most AI-group students reached five or more correct answers](zero-scores-only-traditional-group.md) — related
 - [Learners' self-confidence in their math-solving abilities remains stable across LLM-supported problem solving](math-self-confidence-stable-with-llm.md) — related
 - [LLM access increases perceived learning beyond what actual learning differences explain](llms-inflate-perceived-learning.md) — related
+- [Targeted dialogue with a fallible AI Peer raised post-test FCI scores by 10.5 percentage points and normalized gain by over 20 points versus a control group](ai-peer-dialogue-improves-fci-gains.md) — related
+- [In a within-subjects study (N=24), learners using DBox achieved significantly higher correctness scores on unassisted test problems than learners using freely chosen baseline tools](dbox-higher-test-correctness-than-baseline.md) — related

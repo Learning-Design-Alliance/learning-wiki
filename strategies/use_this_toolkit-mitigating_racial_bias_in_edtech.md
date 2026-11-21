@@ -77,6 +77,7 @@ The toolkit treats bias mitigation as a design discipline rather than a complian
 - [Monitor equity: provision access for all students, audit outputs for bias, and study heterogeneous impacts](monitor-equity-genai.md)
 - [Deploy AI as an auxiliary tool supplemented by structured measures including transparent auditing of algorithmic bias and data-processing privacy protocols](ai-auxiliary-tool-structured-safeguards-strategy.md)
 - [Safeguards for equitable and unbiased educational GAI deployment: access subsidies, bias testing, and diverse training datasets](gai-education-equity-bias-safeguards.md)
+- [Responsible AI measures for tutoring systems: encryption, security audits, access controls, transparency, bias mitigation, and governance oversight](responsible-ai-measures-tutoring-systems.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — disaggregated outcome evaluation is the toolkit's core verification step

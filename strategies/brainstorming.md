@@ -66,6 +66,7 @@ Brainstorming operationalizes the principle of separating idea generation from i
 - [Alternate student work forms: small groups, brainstorming, and oral presentation in project work](alternate-work-forms-small-groups-brainstorming.md)
 - [Use structured active learning techniques — think-pair-share, brainstorming, demonstration, and group work — in IPLS teaching](active-learning-techniques-tps-brainstorm-demonstration-groupwork.md)
 - [Twenty-second sketch-and-share group divergence strategy](twenty-second-sketch-share-divergence-strategy.md)
+- [Sloppy jotting: unstructured, error-filled brainstorming to separate idea generation from surface polishing](sloppy-jotting-brainstorming-strategy.md)
 
 ## Examples
 - **Design thinking curricula** (e.g., the Stanford d.school K-12 Lab resources, https://dschool.stanford.edu) use brainstorming as the ideation stage, with explicit rules and silent "stacking" of sticky notes before clustering.

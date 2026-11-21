@@ -29,4 +29,4 @@ A Guo et al. dataset containing 240 human-scored, class-balanced middle-school s
 - [Red dye diffusion performance-based assessment task for middle school NGSS performance expectation MS-PS1-4](red-dye-diffusion-performance-based-assessment-task-for-middle-school-ngss-performance-exp.md)
 
 ## Key Sources
-- Guo, S., Latif, E., Zhou, Y., Huang, X., & Zhai, X. (2024). Using Generative AI and Multi-Agents to Provide Automatic Feedback. https://arxiv.org/abs/2411.07407
+- Guo, S., Latif, E., Zhou, Y., Huang, X., & Zhai, X. (2024). Using Generative AI and Multi-Agents to Provide Automatic Feedback. https://arxiv.org/abs/2411.07407. [doi:10.48550/arxiv.2411.07407](https://doi.org/10.48550/arxiv.2411.07407)

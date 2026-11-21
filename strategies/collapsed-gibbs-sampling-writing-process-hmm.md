@@ -43,6 +43,7 @@ The article proposes "a collapsed Gibbs sampling algorithm as the parameter esti
 ## Related Strategies
 
 - [Fit the combined parameter A and fix P(G) or P(L0) externally as an alternative to Dirichlet priors when fitting the BKT HMM](fit-a-fix-one-parameter-alternative-to-dirichlet-priors.md)
+- [Teach data analysis methods through simplified implementations of advanced algorithms such as Metropolis-Hastings](simplified-algorithm-implementations-teaching-strategy.md)
 
 ## Examples
 -

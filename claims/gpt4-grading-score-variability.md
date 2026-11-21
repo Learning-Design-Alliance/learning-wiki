@@ -49,3 +49,4 @@ Analysis of rubric grading tables (Tables I–III) from an average of 15 AI grad
 - [GPT-4 rubric grades of written physics solutions correlate positively with manual grading, with R² ≈ 0.83 for total scores](gpt4-total-score-correlation-manual-grading.md) — related
 - [Within-judge variance of the repeated LLM-judge rubric is negligible, but cross-model-family agreement remains untested](within-judge-stability-llm-rubric.md) — related
 - [Prompt quality and detailed scoring rubrics significantly influence the accuracy and consistency of LLM-generated grades](prompt-rubric-quality-drives-llm-grading.md) — a broader claim this one bears on
+- [GPT-4o sometimes incorrectly judges non-standard but correct solution approaches as wrong, flagging correct solutions as incorrect in five of 25 tasks](gpt4o-flags-non-standard-correct-approaches-incorrect.md) — related

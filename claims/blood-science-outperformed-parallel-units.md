@@ -68,3 +68,4 @@ Same-cohort cross-unit comparison of attendance recorded via PRESTO software and
 - [Introducing case-study-focused PBL unit design improved student feedback ratings, with gains in 2021/22 maintained or further improved in 2022/23](pbl-redesign-improved-blood-science-feedback.md) — a broader claim this one bears on
 - [Redesigned case study tutorials and practical classes received substantially more positive student feedback, including a 25% increase for tutorials and roughly 35% for practicals](case-study-tutorials-practicals-feedback-gains.md) — related
 - [Attendance at case study tutorial sessions increased by 20% in 2022/23 compared with 2021/22](tutorial-attendance-increase-2223.md) — related
+- [Student feedback after the redesigned course showed a positive learning curve and experiences](micro-lab-student-survey-positive-experience.md) — a broader claim this one bears on

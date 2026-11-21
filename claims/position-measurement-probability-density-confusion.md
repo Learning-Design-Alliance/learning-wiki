@@ -70,3 +70,4 @@ Analysis of Q2 responses on position measurement for psi2(x); "Eleven percent of
 - [Students incorrectly assume the probability density for measuring position is time-independent, and this error is context-dependent](students-assume-position-probability-density-time-independent.md) — related
 - [Students misjudge how relative phases and stationarity affect expectation values of position, momentum, and energy](expectation-value-misconceptions-phase-and-time-dependence.md) — related
 - [Students confuse the density of states with particle number density or the distribution function](density-of-states-confused-with-particle-number.md) — related
+- [A common student difficulty is failing to distinguish between the eigenstates of energy and position operators](energy-position-eigenstate-confusion.md) — related

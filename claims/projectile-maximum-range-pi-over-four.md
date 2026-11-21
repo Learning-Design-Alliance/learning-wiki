@@ -49,3 +49,4 @@ Analytical derivation from the range formula R = (v0²/g) sin 2θ (equation 11),
 - [First-year university students studying projectile motion with a Mathematica program achieve higher post-test scores than students using a projectile motion experiment set](mathematica-program-higher-projectile-achievement.md) — related
 - [Initial findings suggest video modeling pedagogy is suitable for active and deep learning through predicting, observing and explaining](video-modeling-suits-active-deep-learning.md) — related
 - [Energy conservation plus the identity a = (1/2)d(v²)/dx yields the falling rope's velocity and acceleration in a form suitable for beginning students](rope-energy-method-beginning-students.md) — related
+- [Tablet pose jerkiness on the velocity-setting sheet mediates the relationship between mean attempts and post-test score](tablet-pose-jerkiness-mediates-posttest-score.md) — related

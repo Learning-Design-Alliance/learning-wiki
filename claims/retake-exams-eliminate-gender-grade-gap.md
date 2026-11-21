@@ -52,3 +52,4 @@ HLM fit comparing 4 retake classes (N = 610) with 52 non-retake classes (N = 12,
 - [Each structural change benefited one demographic group only: concepts-first did not change the gender gap and retakes did not change the URM gap](course-structure-changes-group-specific-effects.md) — related
 - [Students accepted acceptable/unacceptable quiz grading only when retake exams were offered](students-accept-coarse-grading-only-with-retakes.md) — related
 - [A mastery class offering two quizzes per lecture retained a gender grade gap similar to usual CLASP classes](two-quizzes-per-lecture-gender-gap-remains.md) — related
+- [The GPA-controlled in-term exam gender gap is about 0.23 standard deviations in medium-stakes non-retake classes but approximately zero in low-stakes retake classes](stakes-interaction-zeroes-gender-gap.md) — related

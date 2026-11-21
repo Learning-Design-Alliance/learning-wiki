@@ -53,3 +53,4 @@ Participation analysis in the five-week field period: weekly completion of the 2
 - [In a four-month field study, students used the digital tutor extensively, initiating over 37,000 sessions and solving more than 80,000 formative questions](digital-tutor-field-study-high-usage.md) — related
 - [Offering technology support enhanced motivational access: 9 patients joined after learning support was available](offering-support-enhanced-motivational-access.md) — related
 - [Only 14.2% of students offered the course GPT-4 interface chose to use it](low-gpt4-adoption-rate-14-percent.md) — related
+- [Only a minority of adult learners voluntarily adopt optional tutors, with 14.81% using them at least once](low-voluntary-tutor-adult-adoption-rate.md) — related

@@ -55,3 +55,4 @@ After-task frustration self-report (1–5) from the within-subjects comparison (
 - [Contingent tutoring held delegation at the level of an answer-on-request assistant while delivering more artifacts, one decision at a time](contingent-tutor-delegation-held-delivery-rose.md) — related
 - [A contingent AI tutor places metacognitive demand equal to a question-only tutor and higher than an answer-on-request assistant](contingent-tutor-metacognitive-demand-matches-withholding-tutor.md) — related
 - [Perceived task load and germane load did not differ between the contingent tutor and either baseline](perceived-load-unchanged-under-contingent-tutor.md) — related
+- [Withholding direct answers frustrated some pre-service teachers, while an updated tutor with adaptive scaffolding received an overwhelmingly positive reception from approximately 95 in-service teachers](socratic-tutor-motivation-frustration-reception.md) — related

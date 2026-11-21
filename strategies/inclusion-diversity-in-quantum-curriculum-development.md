@@ -42,6 +42,7 @@ While developing a cutting-edge curriculum, the article states it is important t
 - [Design at the Margins](design_at_the_margins.md)
 - [Use extracurricular activities and inclusion-oriented clubs to build cross-group connections, while removing access barriers](extracurricular-shared-goals-cross-group-connections.md)
 - [Six recommendations for moving toward a data-driven, worker-centered learning ecosystem](six-recommendations-worker-centered-data-ecosystem.md)
+- [Incorporate remote cloud-accessible quantum experiments to extend experimental-skills opportunities to students at less-resourced institutions](remote-quantum-experiments-access-strategy.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Faculty survey of N=63 introductory QISE courses at US institutions classifying 
 - [Deutsch's algorithm and quantum error correcting codes were statistically more likely to be taught in physics-listed than non-physics introductory QISE courses](physics-courses-deutsch-algorithm-error-correction.md) — related
 - [Pairing classical and quantum error-correction levels confronts players with the no-cloning difference between bits and qubits](contrastive-error-correction-levels-no-cloning.md) — related
 - [US research-intensive institutions require one to five quantum-related courses, with 92% requiring two and half requiring three](quantum-course-requirements-us-institutions.md) — related
+- [The diagrammatically matched game design allows jargon-free teaching and implicit learning of quantum teleportation](quantum-port-jargon-free-implicit-learning.md) — related

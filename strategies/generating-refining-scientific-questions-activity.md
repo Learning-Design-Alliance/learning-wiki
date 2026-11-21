@@ -54,6 +54,7 @@ On the first day of the course, students anonymously write questions about authe
 - [Making assumptions visible by reserving a dedicated notebook area during investigations](making-assumptions-visible-notebook-practice.md)
 - [Form random and new groups for each activity so everyone works with everyone](random-new-groups-each-activity.md)
 - [Three-stage development of concept questions from open-ended misconception surveys](misconception-survey-question-development-strategy.md)
+- [Scaffolded guided-inquiry activity in which students build color-magnitude diagrams of star clusters from Gaia data](gaia-cmd-cluster-inquiry-activity-strategy.md)
 
 ## Examples
 -

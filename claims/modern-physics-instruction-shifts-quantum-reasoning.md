@@ -59,3 +59,4 @@ Emergent coding of approximately 600 optional open-ended text-box responses to C
 - [ENG-INT was the only one of four compared courses where a significant majority of students ended the semester disagreeing that an unobserved atomic electron exists at a definite position.](eng-int-only-course-majority-disagree-localized-electrons.md) — related
 - [In the transformed ENG-INT course, 98% of students reported interest in quantum physics after instruction, and no student gave a negative response.](eng-int-nearly-unanimous-post-instruction-interest.md) — related
 - [Popular undergraduate modern physics textbooks contain misstatements claiming special relativity applies only to inertial frames](textbook-misstatements-sr-inertial-only.md) — related
+- [Third-year students provided definitions more aligned with contemporary physics than other grades](lower-grade-students-contemporary-physics-definitions.md) — related

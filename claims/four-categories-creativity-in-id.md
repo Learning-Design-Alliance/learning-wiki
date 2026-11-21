@@ -48,3 +48,4 @@ Phenomenographic analysis of 2019 unstructured Zoom interviews and 2023 open-end
 - [Experts experience creativity as vital to instructional design practice but unacknowledged in the field and its curricula](creativity-unacknowledged-in-id.md) — related
 - [Experts describe reliance on linear, systematic ID process models as a risk that can suppress rather than foster creative thinking](linear-id-models-suppress-creativity.md) — a narrower finding that bears on this claim
 - [The six experts rated their creative self-efficacy high on the CSE scale (M = 3.7, SD = 0.2, α = 0.74)](expert-creative-self-efficacy-high.md) — related
+- [Phenomenographic analysis revealed qualitatively different levels of student understanding, from descriptive recall to causal interpretation to abstract inference](phenomenographic-levels-analogical-reasoning.md) — related

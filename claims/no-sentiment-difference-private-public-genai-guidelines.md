@@ -51,3 +51,4 @@ Sentiment analysis using the VADER Sentiment Intensity Analyzer on 214 guideline
 - [Sentiment differs significantly across target audiences, with faculty-targeted guidelines more positive than student-targeted ones](audience-sentiment-difference-faculty-students.md) — related
 - [Public-sector university students show higher knowledge and more positive attitudes toward antifungal stewardship than private-sector students](public-sector-students-higher-knowledge-antifungal.md) — related
 - [Physicians working in the private sector prefer communication-domain competencies more than others](private-sector-communication-domain-preference.md) — related
+- [Age, teaching experience, education level, and school sector did not significantly influence teachers' AI use for pronunciation teaching](age-experience-education-sector-no-effect-ai-use.md) — related

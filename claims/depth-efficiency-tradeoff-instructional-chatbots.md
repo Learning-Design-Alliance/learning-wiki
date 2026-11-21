@@ -54,3 +54,5 @@ Qualitative findings from the 41-instructor user study, drawn from surveys and 1
 - [Authoring tool usability trades off against the depth and flexibility of the ITSs that can be built](authoring-tool-usability-power-tradeoff.md) — related
 - [Qualitative analysis suggests CTS dialog-based interaction already provides a natural level of learner control.](cts-dialog-provides-natural-learner-control.md) — related
 - [Participating teams found that smaller fine-tuned models can be competitive and that DialogRPT tends to prefer complete answers over pedagogically scaffolded ones.](team-observations-model-size-and-metric-bias.md) — related
+- [Learners' divergent learning preferences and cognitive styles shaped their evaluations of adaptive versus structured AI tutor styles](ai-tutor-style-learning-preference-divergence.md) — related
+- [GenAI use in the workforce varies by work function and by the expertise of the user, from fine-tuned technical deployments to off-the-shelf applications](genai-use-varies-by-function-and-expertise.md) — related

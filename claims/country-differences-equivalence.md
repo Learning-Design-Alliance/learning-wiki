@@ -48,3 +48,4 @@ Multilevel SEM with country dummy variables (England as reference) across 2760 s
 - [The negative correlation between non-traditional textbook practice and equivalence understanding disappears in non-mandatory textbook countries](textbook-correlation-nonmandatory-null.md) — related
 - [The relation between teacher knowledge and equivalence understanding is not moderated by country](no-country-moderation-teacher-knowledge.md) — related
 - [Teachers' knowledge of students' relational strategies relates to class-level understanding of equivalence across six countries](teacher-relational-knowledge-equivalence.md) — related
+- [Students' difficulties with electromagnetism are cross-national and attributed to inherent characteristics of the material](cross-national-em-learning-difficulties.md) — related

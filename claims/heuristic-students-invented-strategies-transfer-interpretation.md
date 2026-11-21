@@ -52,3 +52,4 @@ The author's interpretive discussion of the experimental results, offered withou
 - [Success in developing the canonical solution is not a necessary condition for learning from generation, but failure is not claimed to be indispensable either](canonical-success-not-necessary-for-learning.md) — related
 - [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) — related
 - [Youth engaged free-choice learning heuristics in everyday problem-solving but typically skipped the assess phase](youth-skip-assess-phase-free-choice-heuristics.md) — related
+- [Interpreting unfamiliar code connected to a physical model demanded autonomy and conceptual integration, serving as an assessment of transfer](stage3-unfamiliar-code-transfer-assessment.md) — a narrower finding that bears on this claim

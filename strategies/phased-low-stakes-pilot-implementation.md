@@ -52,6 +52,7 @@ The article recommends a pragmatic institutional model: "begin with low-stakes p
 - [Phased implementation of AI assessment starting with root opportunities in low-stakes settings](phased-ai-assessment-implementation-roadmap.md)
 - [Adopt a step-wise approach to technology integration in clinical skills teaching, starting with simple familiar tools matched to learning outcomes](stepwise-technology-integration-clinical-skills.md)
 - [Plan ICM evaluations with multiple proximal outcome criteria, multiple data sources and time points, capture of unintended effects, moderators and process data](icm-evaluation-planning-strategy.md)
+- [Institutional adoption strategy for ABCD assessments: infrastructure, policy, faculty development, audits, and hybrid human-AI grading](abcd-assessment-institutional-adoption-strategy.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Change-score analysis from the beginning of Physics 1 to the beginning of Physic
 - [A short beginning-of-semester social-psychological intervention closed the gender gap in performance in an introductory calculus-based physics course](short-belonging-intervention-closed-gender-gap-physics.md) — related
 - [Students' physics interest and general science interest both decrease significantly over a semester of Modeling Instruction](mi-course-interest-decreases.md) — related
 - [Students' physics self-efficacy decreases significantly over a semester of Modeling Instruction introductory physics](mi-course-physics-self-efficacy-decrease.md) — related
+- [Both women's and men's physics self-efficacy and interest scores declined from the beginning to the end of the first algebra-based physics course](self-efficacy-interest-decline-over-physics-1.md) — related

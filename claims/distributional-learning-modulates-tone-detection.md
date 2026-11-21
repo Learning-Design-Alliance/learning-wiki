@@ -51,3 +51,4 @@ Online tone-in-noise detection experiments (Exp 1b-f) sampled five frequencies w
 - [Distributional learning across a task-irrelevant dimension slows duration decisions for low-probability frequencies](task-irrelevant-distribution-slows-duration-decisions.md) — related
 - [Perceptual sensitivity and decisions rapidly update in volatile statistical contexts](rapid-updating-volatile-distributions.md) — related
 - [Massed exposure to a single frequency produces lasting suppression of detection at distant frequencies](massed-single-frequency-suppression.md) — related
+- [Carelessness estimates from the contextual slip models are bimodally distributed while BKFC estimates are normally distributed](carelessness-estimate-distribution-differences.md) — related

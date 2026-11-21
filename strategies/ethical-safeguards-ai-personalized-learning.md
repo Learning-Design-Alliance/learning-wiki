@@ -70,6 +70,7 @@ The review identifies three central ethical challenges for AI-driven personalize
 - [Establish a centralized database of anonymized simulation data accessible to global research groups](centralized-anonymized-simulation-database.md)
 - [Establish ethical safeguards and debrief participants when piloting LLM tools with learners](ethical-safeguards-debrief-llm-pilots.md)
 - [Safeguards for equitable and unbiased educational GAI deployment: access subsidies, bias testing, and diverse training datasets](gai-education-equity-bias-safeguards.md)
+- [Responsible AI measures for tutoring systems: encryption, security audits, access controls, transparency, bias mitigation, and governance oversight](responsible-ai-measures-tutoring-systems.md)
 
 ## Examples
 -

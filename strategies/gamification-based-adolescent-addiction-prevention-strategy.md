@@ -52,6 +52,7 @@ The authors recommend that policymakers and social and health planners "use gami
 - Gamified Mobile Addiction Prevention App
 - [Multi-level institutional response to problematic internet use: digital wellbeing policies, psychoeducational curriculum programs, peer-led initiatives, and screening services](ia-multi-level-institutional-response-strategy.md)
 - [Schools should tailor preventative initiatives with awareness of adolescent substance use](school-substance-use-preventative-awareness-strategy.md)
+- [Integrate and actively promote the AHlam Na 2.0 app across Philippine regions to widen adolescent health education reach](promote-ahlam-na-nationwide-strategy.md)
 
 ## Examples
 -

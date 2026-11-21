@@ -48,3 +48,4 @@ Difficulty documented on pre-test question (2) using the line-plus-cylinder geom
 ## Related Claims
 - [Students have difficulty with the principle of superposition, failing to distinguish the field due to individual charges from the net electric field](superposition-principle-difficulty.md) — related
 - [Students who used a guided-inquiry tutorial on superposition with Gauss's law significantly outperformed comparison students on post-test questions (p < 0.001)](superposition-gauss-law-tutorial-improves-post-test.md) — related
+- [Introductory physics students learning Gauss's law struggle with superposition and with distinguishing the electric field vector from electric flux as a scalar accumulation](gauss-law-students-struggle-field-versus-flux.md) — a broader claim this one bears on

@@ -83,3 +83,4 @@ Results for the five image-based questions (3 electrocardiograms, 2 CT scans), K
 - [A sensitivity analysis excluding not-applicable answers (e.g., image-based items) yielded results similar to the main accuracy comparison](cineca-accuracy-sensitivity-analysis-similar-results.md) — related
 - [GPT-4 and Claude-2.1 outperform engineering faculty on a closed-book mechanics conceptual exam, while human faculty retain an edge in Continuum Mechanics](gpt4-claude-outperform-mechanics-faculty-except-continuum-mechanics.md) — related
 - [GPT-4 improves gaze and question-answering simulation relative to GPT-3.5, while Gemini Pro and Llama 2 70B drop on those measures](foundation-model-comparison-student-simulation.md) — related
+- [GPT-4o answered only 59% of pre-test questions correctly, with accuracy dropping sharply as the number of images per question increased](gpt4o-fci-accuracy-drops-with-images.md) — related

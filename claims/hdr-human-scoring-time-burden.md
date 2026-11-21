@@ -74,3 +74,4 @@ Time analysis (Table 8): five graders spent 138 minutes scoring 117 responses pl
 - [A renewed course-paper evaluation procedure cut grading time from two weeks to three days for 256 papers with high scorer agreement](renewed-paper-evaluation-efficiency.md) — related
 - [Form-recognition marking enabled return of workshop-test feedback within 30 minutes of the end of an assessment session for a class of 240 students](rapid-marking-feedback-within-30-minutes-class-of-240.md) — related
 - [Grading one efficient-design unit test takes about 6 minutes or less, about 3 hours for a class of about 30 students](six-minutes-grading-per-student-test.md) — related
+- [Once trained, the ML models annotate student responses far faster than manual application of the measurement scheme (under 1 minute versus about 5 hours per ~100 responses for one problem)](ml-annotation-faster-than-manual-coding.md) — related

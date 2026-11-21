@@ -48,3 +48,4 @@ Test-phase iteration in the EDIPT cycle: questionnaire results triggered a redes
 - [Test scores on flipped-taught chapters (respiratory and female reproductive systems) were significantly higher for the 2021 design-thinking flipped cohort than for the 2020 cohort](dt-flipped-chapter-test-scores-significantly-improved.md) — related
 - [Kuwaiti pre-service teachers held favourable perceptions of flipped learning, with over 90% agreement on six questionnaire items](positive-student-perceptions-flipped-learning.md) — related
 - [Students responded with polarised feedback to a redesigned technology-rich active-learning course, with almost a quarter disliking the flipped-video approach](polarised-student-feedback-technology-rich-active-learning-course.md) — related
+- [Student feedback after the redesigned course showed a positive learning curve and experiences](micro-lab-student-survey-positive-experience.md) — related

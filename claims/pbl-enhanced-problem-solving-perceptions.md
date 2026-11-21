@@ -53,3 +53,4 @@ Summary feedback table (n = 29) reporting the combined percentage agreeing or st
 - [Students using GCLA rated their higher-order thinking skills—critical thinking, problem-solving, and creativity—higher than students using traditional ChatGPT](gcla-improves-hots.md) — related
 - [Postgraduate immunology students report that small-group mind maps encouraged idea sharing (87% agree or strongly agree)](pbl-small-group-mind-maps-idea-sharing-immunology.md) — related
 - [Most staff and students doubt that every student is creative but agree creativity methods do not hinder problem solving](low-belief-every-student-creative.md) — related
+- [During the activity students improved group communication, exercised creativity in problem-solving, and took ownership of the collective investigative process.](nos-activity-communication-creativity-ownership.md) — related

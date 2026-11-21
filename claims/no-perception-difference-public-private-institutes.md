@@ -48,3 +48,4 @@ Comparison analysis of 202 private-sector and 622 public-sector students using P
 ## Related Claims
 - [No significant difference was found between public and private university students in knowledge of oral complications and care management for head and neck cancer patients](no-public-private-university-knowledge-difference.md) — related
 - [Students enrolled in private medical colleges report significantly higher self-directed learning readiness than public-college students](private-college-students-higher-sdl-readiness.md) — related
+- [Age, teaching experience, education level, and school sector did not significantly influence teachers' AI use for pronunciation teaching](age-experience-education-sector-no-effect-ai-use.md) — related

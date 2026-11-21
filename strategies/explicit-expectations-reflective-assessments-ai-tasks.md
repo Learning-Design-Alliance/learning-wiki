@@ -49,6 +49,7 @@ This strategy packages the article's three named activity types for integrating 
 - [Sequenced skillfulness assessment and ethics sign-off across the training pathway](pat-sequenced-assessment-ethics-pathway.md)
 - [Integrate artificial intelligence into digital teaching with careful planning, quality-assured data, and explicit teaching of critical handling](ai-integration-digital-teaching-pharmacy.md)
 - [Use students' comparison of explanations from different AI models as an activity to build critical evaluation of AI-generated content](compare-llm-explanations-critical-thinking.md)
+- [Sequence AI-writing instruction by competence: build low-achieving students' independent process writing capacity first, then teach finer-grain AI integration skills to high achievers](competence-sequenced-ai-writing-instruction.md)
 
 ## Examples
 -

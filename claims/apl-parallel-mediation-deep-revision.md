@@ -69,3 +69,4 @@ Specific indirect effects assessed with a 10,000-resample bootstrapping procedur
 - [Autonomous learning motivation and intrinsic motivation significantly predict English scores](autonomous-intrinsic-motivation-predict-english-scores.md) — related
 - [Perceived competence, intrinsic motivation, external regulation, engagement, and perceived learning rose from pre-test to post-test in one group with no comparison group (path analysis)](sdt-path-engagement-mediation-tbl.md) — related
 - [Pre-course motivation to learn predicts post-course SEPCQ scores, supporting self-regulated learning theory](motivation-predicts-sepcq-gains.md) — related
+- [Higher student writing assessment literacy is positively associated with writing achievement motivation among Chinese EFL undergraduates](swal-positively-predicts-achievement-motivation.md) — related

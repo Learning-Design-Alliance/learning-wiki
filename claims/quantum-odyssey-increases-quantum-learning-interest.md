@@ -48,3 +48,4 @@ Pre-/post-questionnaire comparison across the 10 groups shows the post-test "Int
 - [Students reported above-average interest/enjoyment after playing Quantum Dreams, but did not perceive it as feeling like other good games](imi-scores-quantum-dreams-play-session.md) — related
 - [Students with no prior quantum computing background can solve entry-level quantum compilation puzzles using Quantum Odyssey's visual puzzle interface](quantum-odyssey-untrained-students-solve-quantum-puzzles.md) — related
 - [Scaffolded play in Quantum Odyssey enables learners to intuitively work with established QIS topics without prior mathematics or physics exposure](visual-intuition-without-mathematics-quantum-concepts.md) — related
+- [Students' self-reported interest in exploring quantum computing increased slightly after playing Qubit Touchdown (favorable shift 10.4%, p<0.05), in one uncontrolled pre-post study](qubit-touchdown-interest-increase.md) — related

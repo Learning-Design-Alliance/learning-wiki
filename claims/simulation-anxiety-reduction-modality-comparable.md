@@ -72,3 +72,4 @@ Between-groups anxiety comparison in the same trial showed no significant differ
 - [Telesimulation is a viable alternative to in-person simulation for improving clinician access to pediatric feeding training](telesimulation-viable-access-alternative-pediatric-feeding.md) — related
 - [Telesimulation produces clinical reasoning improvements comparable to in-person simulation, with a numerically greater but non-significant change in the telesimulation group](telesimulation-comparable-clinical-reasoning-in-person.md) — related
 - [Telesimulation achieves enhanced self-reported knowledge and confidence in line with in-person simulation](telesimulation-knowledge-confidence-in-line-with-in-person.md) — related
+- [All four preparation modalities reduced self-reported MRI anxiety, with no significant difference between conditions](all-modalities-reduce-mri-anxiety.md) — related

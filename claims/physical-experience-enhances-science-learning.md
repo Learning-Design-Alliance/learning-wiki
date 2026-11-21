@@ -126,3 +126,4 @@ Undergraduates studying heat and temperature were assigned to physical manipulat
 - [Class-set experiment kits enable small-group hands-on experimentation in ordinary science classes](class-set-kits-enable-small-group-hands-on-experiments.md) — a narrower finding that bears on this claim
 - [Undergraduate physics students using a visuo-haptic Coriolis simulation scored 15% higher on a quiz than a reading-and-video group](visuo-haptic-coriolis-15-percent-quiz-gain.md) — related
 - [Students using simulations achieve conceptual understanding similar to students in hands-on labs when both can manipulate variables](simulation-similar-conceptual-understanding-zacharia.md) — related
+- [Embodied VR laboratory modules improved pre- to post-test scores on all three test questions in an engineering student trial](embodied-vle-pre-post-score-gains.md) — a narrower finding that bears on this claim

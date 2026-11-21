@@ -90,3 +90,4 @@ Age distribution of the 240 completers spans 11-80 years; the largest group is "
 - [Graduates were predominantly female (84.87%) and mostly nurses (58.16%)](graduate-demographics-female-nurse-predominance.md) — related
 - [Newly developed digital learning tools increase student motivation, enjoyment and engagement, but participation is usually voluntary and skewed toward senior students](digital-tools-increase-motivation-engagement-voluntary-participation.md) — a broader claim this one bears on
 - [A digital divide in age, sex and education shapes who benefits from health apps, motivating iterative development](digital-divide-iterative-health-app-development.md) — related
+- [Voluntary tutor users skew female and approximately three years older than non-users](adult-tutor-user-demographic-skew.md) — related

@@ -50,3 +50,4 @@ Eye-tracking analysis of pupil diameter change from baseline during the learning
 - [Self-reported mental effort increased less across tasks in the ChatGPT condition while perceived difficulty rose equally in both groups](chatgpt-flatter-mental-effort-trajectory.md) — related
 - [ChatGPT-assisted and video-only groups show no significant difference in theoretical knowledge test scores before operational learning](no-group-difference-theoretical-knowledge-pretest.md) — related
 - [Experts show lower pupil dilation changes than residents during ECG interpretation, indicating lower cognitive load](experts-lower-pupil-dilation-cognitive-load.md) — related
+- [The teachable agent reduced mental effort but not mental load: the groups did not differ significantly on mental load](chat-melody-mental-effort-not-mental-load.md) — related

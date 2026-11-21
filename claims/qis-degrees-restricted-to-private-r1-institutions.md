@@ -69,3 +69,5 @@ The catalog search of institutions with sufficient QIS coursework identified "a 
 - [Institutions with a high percentage of Pell grant recipients offer significantly fewer QIS courses](pell-grant-institutions-fewer-qis-courses.md) — related
 - [Active QIS courses at US institutions are disproportionately concentrated at R1 private research universities, and most institutions offer none](qis-courses-concentrated-at-r1-private-institutions.md) — related
 - [In the undergraduate-only QIS course model, the public-private disparity is no longer separately significant and the funding-by-urbanization interaction disappears](undergraduate-qis-courses-funding-gap-not-significant.md) — related
+- [61 U.S. institutions offer 89 distinct QISE programs, concentrated at PhD-granting institutions](61-institutions-89-qise-programs.md) — related
+- [QISE programs are heavily concentrated at PhD-granting institutions, which are 25% of the sample but 89% of program-offering institutions](qise-programs-concentrated-phd-granting.md) — related

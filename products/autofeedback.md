@@ -32,4 +32,4 @@ AutoFeedback is a GPT-4o-based multi-agent system developed by Guo et al. that g
 - [MALA (Modular Artificial Learning Assistance)](mala-modular-artificial-learning-assistance.md)
 
 ## Key Sources
-- Guo, S., Latif, E., Zhou, Y., Huang, X., & Zhai, X. (2024). Using Generative AI and Multi-Agents to Provide Automatic Feedback. https://arxiv.org/abs/2411.07407
+- Guo, S., Latif, E., Zhou, Y., Huang, X., & Zhai, X. (2024). Using Generative AI and Multi-Agents to Provide Automatic Feedback. https://arxiv.org/abs/2411.07407. [doi:10.48550/arxiv.2411.07407](https://doi.org/10.48550/arxiv.2411.07407)

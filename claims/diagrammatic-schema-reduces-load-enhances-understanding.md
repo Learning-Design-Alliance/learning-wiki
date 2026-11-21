@@ -51,3 +51,4 @@ The thesis's overall conclusion from its five experiments, stated in the abstrac
 - [Element interactivity and expertise reversal effects: cognitive load effects diminish and may reverse as expertise increases because known elements chunk into single elements](expertise-reversal-effect-element-interactivity.md) — related
 - [Both cognitive offloading and the transient information effect reduce extraneous cognitive load by making information more accessible or less transient](shared-mechanism-reducing-extraneous-load.md) — related
 - [Understanding depends on the degree of interaction among elements of information](understanding-depends-on-element-interaction.md) — related
+- [The diagrammatically matched game design allows jargon-free teaching and implicit learning of quantum teleportation](quantum-port-jargon-free-implicit-learning.md) — related

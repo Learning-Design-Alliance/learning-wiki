@@ -68,6 +68,7 @@ Prediction functions as a form of pretesting: even when predictions are wrong, g
 - [Use small-group discussion of a phenomenon-describing problem before text study to bridge prior knowledge and new information](small-group-problem-discussion-before-text.md)
 - [Have learners generate or guess answers to broad brainstorming questions before searching the internet for specific answers](thinking-before-googling-strategy.md)
 - [Begin a physics problem by predicting from remembered experience, then check against calculation](predict-from-experience-then-check-calculation.md)
+- [Ask students to formulate hypotheses about the experiment's outcome before observing it, then resolve them through the demonstration](hypothesis-formulation-before-elevator-demonstration.md)
 
 ## Related Elements
 - [Activation](../elements/activation.md) — the cognitive function prediction serves

@@ -62,3 +62,5 @@ The review's synthesis of included studies (RQ1 findings section) reports that i
 - [Debugging GenAI-generated code fosters critical, reflective, logical, and adaptive thinking skills](debugging-genai-code-fosters-thinking-skills.md) — a narrower finding that bears on this claim
 - [Without prompting, 14 students wrote on course evaluations that the course improved critical thinking, with other unprompted comments citing skepticism and scientific reasoning.](unprompted-evaluations-critical-thinking.md) — related
 - [16.67% (2/12) of LLM-generated ophthalmology cases contained hallucinations, including contradictory gonioscopy findings and inappropriate imaging modalities](llm-case-hallucinations-2-of-12.md) — related
+- [In the authors' experience, content generated with good prompts is more detailed and topic-aligned than content generated with bad prompts](good-prompts-yield-detailed-aligned-genai-content.md) — related
+- [Self-directed engagement with LLM-generated skill content fosters positive, engaged responses, including preference for content that leaves room for autonomous thinking](self-direction-fosters-engaged-responses.md) — related

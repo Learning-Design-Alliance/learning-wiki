@@ -55,4 +55,4 @@ For developers pursuing radical constructivist MARSGs—games affording flexible
 -
 
 ## Key Sources
-- Nelson, C.R.; Gabbard, J.L. (2023). Pedagogical Design Considerations for Mobile Augmented Reality Serious Games (MARSGs): A Literature Review. Electronics. https://www.mdpi.com/journal/electronics
+- Nelson, C.R.; Gabbard, J.L. (2023). Pedagogical Design Considerations for Mobile Augmented Reality Serious Games (MARSGs): A Literature Review. Electronics. https://www.mdpi.com/journal/electronics. [doi:10.3390/electronics12214524](https://doi.org/10.3390/electronics12214524)

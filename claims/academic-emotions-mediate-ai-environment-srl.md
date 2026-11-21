@@ -83,3 +83,4 @@ The structural model retained a significant direct path after including the thre
 - [Boredom negatively mediates the relationship between teacher caring behavior and English academic performance](boredom-negative-mediation-tcb-eap.md) — related
 - [Enjoyment positively mediates the relationship between teacher caring behavior and English academic performance](enjoyment-positive-mediation-tcb-eap.md) — related
 - [Online class-related enjoyment is significantly positively correlated with academic achievement among college students](online-enjoyment-correlates-academic-achievement.md) — related
+- [AI-assisted adaptive pretesting increases interest and enjoyment relative to fixed pretesting on a complex exploratory task, but not other motivational dimensions](ai-pretesting-interest-enjoyment-gain.md) — related

@@ -99,3 +99,5 @@ Observation from the WBA transcripts (e.g. a developmental psychology question i
 - [Manual inspection finds LLM-generated leveled texts risk introducing misinformation and show inconsistent edit distribution](generated-leveled-texts-misinformation-and-uneven-edits.md) — a narrower finding that bears on this claim
 - [GPT-4 can produce non-hallucinated academic sources when appropriately prompted for literature reviews.](gpt4-non-hallucinated-sources-literature-review.md) — reports the opposite
 - [ChatGPT produced incomplete or incorrect solutions for complex DSA topics such as dynamic programming, recursion, and visual representations](chatgpt-dsa-limitations-complex-topics.md) — related
+- [GPT-2 produces less reliable and often inaccurate text for physics-specific prompts than for general prompts](gpt2-physics-prompts-less-reliable.md) — a narrower finding that bears on this claim
+- [Providing URLs alone left the MyGPT PHYSBO tutor inaccurate, while uploading official documentation PDFs substantially improved response accuracy](mygpt-pdf-upload-improves-accuracy.md) — a narrower finding that bears on this claim

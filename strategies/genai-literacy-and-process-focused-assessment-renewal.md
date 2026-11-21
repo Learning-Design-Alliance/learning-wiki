@@ -47,6 +47,7 @@ Rather than relying on detectors as gatekeeping mechanisms, the article recommen
 - [Provide explicit instructional boundary cues, process-oriented assessment, and peer modeling of verification to frame responsible GenAI use](boundary-cues-and-peer-modeling-for-genai-use.md)
 - [Cultivate learners' critical AI literacy and integrity-focused group practices for GenAI-supported group work](critical-ai-literacy-integrity-focused-group-practices.md)
 - [Frame LLM integration as an assessable AI literacy competency with differentiated integrity policies and reasoning-focused assessment redesign](ai-literacy-competency-medical-curriculum-strategy.md)
+- [Differentiate GenAI training by students' likely work function and integrate GenAI literacy across courses with faculty development](differentiated-genai-training-by-function.md)
 
 ## Examples
 -

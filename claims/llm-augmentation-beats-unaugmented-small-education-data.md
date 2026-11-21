@@ -50,3 +50,4 @@ Systematic fine-tuning experiment (15,120 BERT-based models over two datasets, s
 - [Only two EduBehaviors configurations reach macro-F1 comparable to the fine-tuned RoBERTa encoder (0.76) trained on expert-labelled TalkMoves data](edubehaviors-underperforms-finetuned-encoder.md) — related
 - [Augmentation levels below 20x produce unreliable classification performance in small educational datasets](low-augmentation-levels-unreliable.md) — related
 - [Datasets with entropy below 0.5 are difficult to augment enough to beat majority-label guessing](low-entropy-datasets-resist-augmentation.md) — related
+- [A DeBERTa agent fine-tuned on LLM-generated synthetic data achieved a MAP@3 of 0.936 on a synthetic test set, up from 0.532 for DeBERTa alone](synthetic-data-finetuned-deberta-map3-0936.md) — related

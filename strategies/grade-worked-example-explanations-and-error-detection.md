@@ -47,6 +47,7 @@ Where problem-solving performance counts toward grading or exam admission, the a
 - [Redesign AI-era physics courses around an unaided written examination with mock exams, prepared tutorial discussion, and research-shaped tasks as bonus work with scaffolding](kt1-next-course-redesign-strategy.md)
 - [Erroneous Examples](erroneous_examples.md)
 - [Instruct pairs to jointly explain problem-solving steps while working with a step-based intelligent tutoring system](joint-explanation-with-its-strategy.md)
+- [Guide students through step-by-step error breakdowns instead of presenting correct answers](step-by-step-error-breakdown-strategy.md)
 
 ## Examples
 -

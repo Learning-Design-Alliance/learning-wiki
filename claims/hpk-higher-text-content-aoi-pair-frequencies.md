@@ -47,3 +47,4 @@ Eight chi-square analyses (α = .00625) on the eye-tracking subset (n = 30) test
 ## Related Claims
 - [No significant differences in proportions of fixations on single areas of interest by prior knowledge group during learning with MetaTutor](no-single-aoi-fixation-differences-by-prior-knowledge.md) — related
 - [Differential sequence mining shows significant differences in frequencies of SRL process sequences by prior knowledge group while controlling for condition](differential-sequence-mining-srl-frequencies-by-prior-knowledge.md) — related
+- [Eye-tracking AOI ratios reveal substantial individual differences in engagement with GenAI materials](aoi-ratio-individual-differences-genai.md) — related

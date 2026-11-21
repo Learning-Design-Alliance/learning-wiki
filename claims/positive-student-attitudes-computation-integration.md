@@ -48,3 +48,4 @@ Pre- and post-course surveys on attitudinal and emotional dimensions completed i
 - [Students held uniformly positive attitudes toward learning programming early, and these views persisted or improved after instruction](positive-attitudes-programming-persist.md) — related
 - [Most student groups voluntarily adopted Python and Jupyter Notebooks for data analysis in their first-semester lab experiments, rising from 83% to 100%](python-jn-group-adoption-first-semester.md) — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
+- [Computation-based activities should be integrated into laboratory tasks with appropriate scaffolding](computation-integration-lab-scaffolding.md) — related

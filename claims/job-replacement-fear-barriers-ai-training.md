@@ -56,3 +56,4 @@ The brief asserts, as an observational gap statement without printed data, that 
 - [University students' engagement with AI tools tends to cluster at two extremes: avoidance and uncritical use](student-ai-engagement-clusters-two-extremes.md) — related
 - [Agency metaphors expressed fear that GenAI steals human agency and threatens jobs, reflecting a binary human-versus-machine model](agency-metaphors-genai-fear-of-agency-loss.md) — related
 - [Students fear that declaring AI use will lead to lower marks even when permitted, creating a 'Disclosure Trap' that drives AI use underground](disclosure-trap-penalty-for-transparency.md) — related
+- [Teachers with more extensive AI training express fewer concerns about AI replacing the human element and about data collection](more-ai-training-fewer-concerns-human-element-data.md) — related

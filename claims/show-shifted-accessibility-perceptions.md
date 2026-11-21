@@ -52,3 +52,4 @@ Self-report items from the 291-form audience evaluation: one question on perceiv
 - [Both BVI and non-BVI audiences found the show's sound representations useful and enjoyable, with roughly 90% scoring 4 or 5](sounds-useful-enjoyable-bvi-non-bvi.md) — related
 - [Improving accessibility of astronomy tools and methods benefits people with full sensory capacity as well as BVI persons](accessibility-benefits-everyone-astronomy.md) — related
 - [The completed planetarium show drew turnout on par with other ETSU shows and overwhelmingly positive audience feedback](appalachian-show-positive-audience-reception.md) — related
+- [More than 90% of volunteers asked questions after print examination and wanted to know more about astronomy, indicating the prints stimulated interest without supplemental material](prints-stimulate-astronomy-interest-90-percent.md) — related

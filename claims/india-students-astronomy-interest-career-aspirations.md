@@ -71,3 +71,4 @@ Same survey, career-aspiration question: 40% of all students responded affirmati
 - [Space and life in outer space are the most interesting science topics for learners, and learning about astronomical objects promotes abstract thought](astronomy-most-interesting-science-topic.md) — a broader claim this one bears on
 - [Informal student feedback was positive, with pupils reporting increased interest in astronomy and feeling like real astronomers](positive-informal-student-feedback-pilot.md) — related
 - [Indian students show gaps in connecting lunar festivals to astronomy, with resource-poor and female students outperforming on cultural-festival questions](india-students-lunar-festival-cultural-connection-gaps.md) — related
+- [Indian class IX students are highly interested in astronomy but a minority show proficiency in celestial sizes, distances and lunar phases](class-ix-high-interest-low-proficiency-astronomy-concepts.md) — a broader claim this one bears on

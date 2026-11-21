@@ -87,3 +87,5 @@ RQ3 thematic analysis of focus groups reports these output-quality concerns; par
 - [Most residents rarely evaluate the quality of evidence or review references in online educational materials](residents-rarely-review-references.md) — related
 - [Pre-service teachers expressed concerns about ChatGPT's accuracy (11/29) and students' potential over-dependence (13/29), and proposed remedies of diversified information sources and structured classroom interactions](chatgpt-accuracy-overdependence-concerns-remedies.md) — related
 - [Students and faculty both cite personalized learning support as the top benefit and misinformation as the top risk of genAI in STEM education](genai-stem-benefits-risks-perceptions.md) — related
+- [The content team used GenAI sparingly to augment creativity and routine tasks, but found outputs stale, lacking diversity for their context, and raising intellectual-property concerns](content-team-sparingly-creativity-limits.md) — related
+- [GenAI content generation requires iterative refinement, accurate training material, and pre-processing of image-heavy reference data](genai-content-generation-iterative-refinement-accuracy.md) — related

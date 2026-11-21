@@ -54,3 +54,4 @@ The authors' own observation while customizing and testing prompts within the LE
 - [Domain-specific knowledge, rather than model complexity or general abilities, limits the precision of LLM criterion-based grading](domain-specific-knowledge-limits-llm-grading-precision.md) — reports the opposite
 - [Prompt scope affects models differently: GPT-3.5 benefits from broad all-domain prompts while GPT-4 benefits from domain-specific prompts](prompt-scope-gpt35-broad-gpt4-specific.md) — related
 - [AskBD mitigates conformity bias in advanced LLMs but its benefits are less evident for base models](askbd-mitigates-bias-advanced-models.md) — related
+- [Prompt composition shifts LLM grading bias: rubric-only prompts yield stricter grading, examples-only prompts more lenient grading, and combining both produces the best results](rubric-examples-prompt-variant-balances-grading-bias.md) — related

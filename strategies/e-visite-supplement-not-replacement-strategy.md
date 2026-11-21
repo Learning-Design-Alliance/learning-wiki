@@ -55,6 +55,7 @@ The article recommends integrating interactive electronic visualization formats 
 - [Use repeatable virtual standardized patient practice with real-time feedback as a low-cost supplement to bedside and standardized patient teaching](vsp-repeatable-practice-strategy.md)
 - [Blend e-learning with traditional learning rather than a sudden switch to e-learning](blend-elearning-traditional-learning-strategy.md)
 - [Introduce global health through e-learning in conjunction with face-to-face small group teaching](e-learning-combined-with-face-to-face-global-health-teaching.md)
+- [Optional campus workshop during semester break to address missing physical interaction and group interaction](optional-campus-workshop-semester-break.md)
 
 ## Examples
 -

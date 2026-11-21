@@ -63,6 +63,7 @@ Adjusting display parameters changes how much working-memory capacity is consume
 - [Accessible syntax](accessible_syntax.md) — simplifying sentence structure addresses the same decoding barriers at the text level rather than the display level
 - [Providing multiple means of representation](providing_multiple_means_of_representation.md) — customizable display is the delivery mechanism for this UDL principle
 - [Use captioning to provide adaptable mobile messages across contexts, with font and placement guidelines](captioning-guidelines-for-mlearning-messages.md)
+- [Tailor AI-generated supplementary material format to individual learner preferences](preference-matched-genai-supplements-strategy.md)
 
 ## Examples
 - **[CAST UDL Guidelines](https://udlguidelines.cast.org)** — "Multiple Means of Representation" includes customizable display as a named checkpoint, with concrete options (text size, contrast, captions, text-to-speech).

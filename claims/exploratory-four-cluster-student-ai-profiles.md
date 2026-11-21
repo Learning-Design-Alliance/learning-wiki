@@ -97,3 +97,4 @@ Exploratory K-means clustering among students only (n = 961, nine features, fixe
 - [Self-rated trust in LLM responses declined significantly from pre-test to post-test after learners completed a problem-solving task with the LLM, in one group with no comparison group](trust-in-llm-declines-after-task.md) — related
 - [Four distinct usage patterns emerged, with conversation-focused users who did not request help showing the highest learning gains](four-usage-patterns-conversation-focused-highest-gains.md) — related
 - [Latent class analysis identifies seven qualitatively different answer patterns, and most students change class between pretest and posttest](lca-seven-classes-class-shifts.md) — related
+- [High interaction volume does not always equate to productive learning in an LLM-empowered course](high-interaction-not-always-productive-learning.md) — related

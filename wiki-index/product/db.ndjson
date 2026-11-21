@@ -1,1 +1,2 @@
 {"description":"DBagent is a course-specific LLM-based educational agent developed by Li et al.","id":"dbagent","path":"products/dbagent.md","status":"review","title":"DBagent","type":"product"}
+{"description":"DBox is an interactive GPT-4o-based programming-learning tool with a scaffolded step-tree interface for decomposing algorithmic solutions and supporting code implementation, developed by its study authors.","id":"dbox","path":"products/dbox.md","status":"review","title":"DBox","type":"product"}

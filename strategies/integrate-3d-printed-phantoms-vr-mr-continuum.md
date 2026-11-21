@@ -54,6 +54,7 @@ The article proposes integrating the 3D-printed simulator into virtual and mixed
 - [Prefer mixed reality with hand tracking over head-mounted-display controllers for gesture-simulation training](mr-hand-tracking-over-hmd-controllers.md)
 - [Refine tactile properties of 3D-printed simulators by adjusting photopolymer resin formulations](refine-tactile-properties-resin-formulation-adjustment.md)
 - [Use patient-specific 3D-printed phantoms to educate junior surgeons and preoperative patients and for preoperative rehearsal planning](patient-specific-phantom-education-strategy.md)
+- [Augment 3D tactile prints with audio, colored light, and heat cues for features such as stars and galaxy centers](multimodal-augmentations-audio-light-heat.md)
 
 ## Examples
 -

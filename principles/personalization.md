@@ -273,6 +273,7 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [Accommodate every MBTI preference in a course so students are exposed to non-preferred styles and diversify their learning strategies](../strategies/accommodate-every-preference-diversify-strategies.md)
 - [Restructure the adaptive-course classroom as a discussion-based setting with broad multidisciplinary problems](../strategies/discussion-based-classroom-broad-multidisciplinary-problems.md)
 - [Tailor lecture content to the background of the local student cohort](../strategies/tailor-lectures-to-local-background.md)
+- [Align AI tutor response style with learners' personal learning preferences, e.g., via presets or learning preferences over time](../strategies/align-ai-tutor-style-with-learner-preferences.md)
 
 ### Validated
 - [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M] — Walkington (2013) personalized algebra word problems to individual learners' out-of-school interests (sports, music, gaming) and found improved performance relative to standard contexts, with the largest gains for struggling learners.

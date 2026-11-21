@@ -77,3 +77,4 @@ Five formal think-aloud interviews with students who had completed E&M 1. Four o
 - [Difficulty expressing the difference vector remains persistent across all three contexts, with 30-45% of students unable to produce a correct expression](difference-vector-difficulty-persistent-across-contexts.md) — related
 - [Difficulty expressing the differential line or area element fades across consecutive exposures, decreasing from 14% to 9% of line-distribution solutions from Class. Mech. to E&M](differential-element-difficulty-fades-over-time.md) — related
 - [Execution errors are rarely the primary barrier to student success; most fundamental execution errors are preceded by significant difficulties in activation or construction](execution-errors-rarely-primary-barrier.md) — related
+- [The limit-to-zero conception of the differential can hinder students' understanding of integrals as sums](zero-limit-differential-hinders-integral-as-sum.md) — related

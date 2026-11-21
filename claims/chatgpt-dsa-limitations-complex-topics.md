@@ -72,3 +72,5 @@ The same limitation analysis, informed by feedback from students and professors 
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
 - [Students whose TA used ChatGPT with structured prompts scored 16.50 points higher on average than students in traditional TA-only instruction](ta-chatgpt-hybrid-16-point-score-gain.md) — related
 - [Gen-AI hallucinates sources and values and produces convincing but incorrect explanations, risking student misinformation](genai-hallucination-convincing-incorrect-explanations.md) — related
+- [In the authors' experience, content generated with good prompts is more detailed and topic-aligned than content generated with bad prompts](good-prompts-yield-detailed-aligned-genai-content.md) — related
+- [GPT-2 produces less reliable and often inaccurate text for physics-specific prompts than for general prompts](gpt2-physics-prompts-less-reliable.md) — related

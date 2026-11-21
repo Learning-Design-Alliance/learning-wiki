@@ -79,6 +79,7 @@ Argumentation supports learning by requiring learners to coordinate evidence wit
 
 **Project Zero's [Claim–Evidence–Reasoning routines](https://pz.harvard.edu/thinking-routines)** — Harvard Project Zero thinking routines that scaffold argument construction across subjects.
 - [Scaffolded LLM-collaboration assignment cycle: draft, LLM critique, then rebut or incorporate](../strategies/scaffolded-llm-argumentation-assignment-cycle.md)
+- [Use natural language, debates and controversy-oriented historical framing to teach contemporary physics and orient students toward STEM](../strategies/natural-language-debates-stem-orientation-strategy.md)
 
 ## Key Sources
 - Kuhn, D. (2010). Teaching and learning science as argument. *Science Education, 94*(5), 810–824. [doi:10.1002/sce.20395](https://doi.org/10.1002/sce.20395)

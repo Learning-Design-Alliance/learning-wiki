@@ -73,3 +73,5 @@ Cross-correlation analysis of the regression's independent variables (Appendix C
 - [At minority-serving institutions, quantum was always taught (100%), atomic was taught less often (73%), and relativity slightly more often (73%) than in the larger dataset](modern-physics-topics-at-minority-serving-institutions.md) — related
 - [Required quantum course counts show the same trend at Minority Serving Institutions as in the larger dataset](msi-course-requirements-same-trend.md) — related
 - [Minority Serving Institutions show higher mean quantum hours (79.4) than the larger sample, suggesting no disparity in instructional time](msi-quantum-hours-higher-mean.md) — related
+- [61 U.S. institutions offer 89 distinct QISE programs, concentrated at PhD-granting institutions](61-institutions-89-qise-programs.md) — related
+- [One-third of sampled institutions offer no course mentioning quantum, with significant differences by Carnegie classification and MSI status](one-third-institutions-no-quantum-courses.md) — reports the opposite

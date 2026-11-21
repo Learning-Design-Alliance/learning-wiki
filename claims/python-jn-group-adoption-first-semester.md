@@ -9,6 +9,7 @@ generated:
   at: 2026-11-19
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-21
 sources:
   - id: eugenio-tufino-2024
     resource: "https://doi.org/10.1088/1361-6404/ad4fcc"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Although use was not mandatory, 83% of student groups used Python and JNs for data analysis in the first experiment and 100% in the second, which the authors read as increased confidence and proficiency. [→ Eugenio Tufino 2024](#eugenio-tufino-2024)
@@ -53,3 +54,4 @@ Analysis of student groups' laboratory notebooks during two first-semester exper
 - [Students in a first-semester physics lab course reached near-mastery of introductory Python data-analysis skills in the Implement category during the introductory Jupyter Notebook sessions](jn-intro-sessions-high-implement-scores.md) — related
 - [Students held generally positive views about integrating computation into the physics laboratory course and maintained them throughout the intervention](positive-student-attitudes-computation-integration.md) — related
 - [Optional Python and Jupyter Notebook use rose from 83% of groups in the first lab experiment to complete adoption in the second, with skill progression from LAB1 to LAB2](python-adoption-lab1-to-lab2.md) — possibly the same claim (merge candidate)
+- [Computation-based activities should be integrated into laboratory tasks with appropriate scaffolding](computation-integration-lab-scaffolding.md) — related

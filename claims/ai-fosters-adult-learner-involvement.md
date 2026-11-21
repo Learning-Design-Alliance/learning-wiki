@@ -73,3 +73,5 @@ Thematic analysis of semi-structured interviews with 20 adult learners, prompted
 - [Frequent, timely, actionable feedback improves learning, and AI mentors can help provide it under oversight](ai-mentor-frequent-feedback-improves-learning.md) — related
 - [Participants viewed AI assistance as helpful for struggling students but doubted the understandability and correctness of AI-generated code and were neutral about recommending it with proper acknowledgment](student-perspectives-ai-assistance-likert.md) — related
 - [GAI tools can dynamically generate Socratic questions based on student interactions, fostering deeper analysis and active engagement](gai-socratic-questioning-engagement.md) — related
+- [In a within-subjects lab study (n = 12), Glitter improved discussion engagement, sparked new ideas, supported reflection, and increased preparedness for in-class activities](glitter-lab-study-improves-pre-class-engagement.md) — related
+- [Self-directed engagement with LLM-generated skill content fosters positive, engaged responses, including preference for content that leaves room for autonomous thinking](self-direction-fosters-engaged-responses.md) — related

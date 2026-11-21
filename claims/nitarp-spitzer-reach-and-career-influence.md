@@ -69,3 +69,4 @@ A brief Spring 2014 survey of NITARP+Spitzer alumni with a 50% response rate, re
 - [NAMI On Campus Club participants reported high confidence in their clubs' impact, with 72–100% agreement across survey items](nami-campus-club-survey-outcomes.md) — related
 - [NITARP educators' self-described motivations span a whole inward-to-outward range and shift along the continuum during the program year](educators-shift-inward-outward-motivation-continuum.md) — related
 - [Over the program's lifetime, NITARP teams have contributed more than 120 poster papers to the AAS and contributed to eight refereed papers in major astronomy journals](nitarp-program-outputs-posters-papers.md) — related
+- [More than 50% of Indian Astronomy Olympiad medalists over the past 25 years pursued a PhD in sciences or engineering](olympiad-medalists-majority-pursue-phd.md) — related

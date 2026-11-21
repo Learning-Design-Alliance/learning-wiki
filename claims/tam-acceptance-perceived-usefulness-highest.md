@@ -55,3 +55,4 @@ Reaction-level technology-acceptance survey using a 21-item questionnaire adapte
 - [Student satisfaction with the gamified radiology training exceeds the acceptance cutoff across all seven TAM components, with enjoyment among the highest-rated dimensions](tam-satisfaction-above-cutoff-all-components.md) — related
 - [Expert clinicians rate the VR-based airway training system positively on feasibility, perceived usefulness and ease of use](vr-airway-tam-positive-ratings.md) — related
 - [Practitioners rated MEYA as acceptable, understandable, and feasible on the URP-I](meya-implementation-outcomes-urp-i.md) — related
+- [Participants rated AHlam Na 2.0 positively on all Technology Acceptance Model constructs, with perceived usefulness the highest and intention to use the lowest](ahlam-na-tam-satisfaction-ratings.md) — related

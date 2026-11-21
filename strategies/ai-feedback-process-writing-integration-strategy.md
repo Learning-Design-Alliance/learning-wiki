@@ -52,6 +52,7 @@ The article's procedure: students receive explicit genre instruction, draft inde
 - [Implement Hyland's (2007) four-stage genre-based writing cycle: modeling, joint construction, independent construction, and comparing.](hyland-four-stage-genre-writing-cycle.md)
 - [Carefully vet freely available video resources for clinical correlation and procedural detail rather than assuming all supplemental video content is comparably rigorous](vet-video-resources-clinical-correlation-rigor.md)
 - [Add peer review and revision cycles to computational essay courses to supply feedback and correctness checking](peer-review-revision-for-computational-essays.md)
+- [Use LLMs to improve and proofread your own writing while keeping your voice, define prompts carefully, and treat all LLM output as a draft to edit critically](llm-assisted-proposal-writing-strategy.md)
 
 ## Examples
 -

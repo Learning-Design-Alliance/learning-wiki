@@ -9,6 +9,7 @@ generated:
   at: 2026-11-20
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-11-21
 sources:
   - id: maria-rita-vasconcelos-brandão-souza-2024
     resource: "https://doi.org/10.59396/29651964jmfis.7-2.11.2024"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors interpret their preliminary experience as indicating the RPG can promote engagement and better comprehension of scientific concepts like the photoelectric effect. [→ Maria Rita Vasconcelos Brandão Souza 2024](#maria-rita-vasconcelos-brandao-souza-2024)

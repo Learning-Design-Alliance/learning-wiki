@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 438 claims (194 for, 187 mixed, 57 against) · 302 studies (120 causal, 61 review, 39 design, 28 theoretical, 22 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 65 of 302 report an effect size · 421 claims rest on one study
+> **Evidence** · 443 claims (197 for, 189 mixed, 57 against) · 305 studies (122 causal, 61 review, 39 design, 28 theoretical, 22 quant-synthesis, 17 associational, 16 qualitative), `q1`–`q4` · 65 of 305 report an effect size · 426 claims rest on one study
 
 ## Description and scope
 
@@ -310,6 +310,11 @@ Claims linked to this pattern that the model above does not use. All were read a
 - [Copy & paste was the most used interaction strategy with ChatGPT, and 62% of final answers were extracted directly from ChatGPT](../claims/copy-paste-dominant-chatgpt-strategy.md) [+W] — attached 2026-11-19 from Lars Krupp et al. (2023), which proposed "LLM-based educational support should inform students of model uncertainty and moderate interaction to encourage critical thinking"; tests this page's relationship.
 - [Mode-shifting improves the density of knowledge-building messages in LBT conversations (Cohen's d = 0.71)](../claims/mode-shifting-improves-knowledge-building-density.md) [+M] — attached 2026-11-20 from Teach AI How to Code: Using Large Language Models as Teachable Agents for Programming Educ, which proposed "Mode-shifting: a tutee agent alternating between help-receiver and questioner modes".
 - [Score improvements with ChatGPT feedback varied by question, reaching significance on Q2, Q3 and Q4 but not Q1](../claims/feedback-score-gains-vary-by-question.md) [~W] — attached 2026-11-20 from Atakan Coban et al. (2024), which proposed "Structure answer sub-parts clearly within ChatGPT prompts so that incomplete answers receive feedback"; tests this page's relationship.
+- [Targeted dialogue with a fallible AI Peer raised post-test FCI scores by 10.5 percentage points and normalized gain by over 20 points versus a control group](../claims/ai-peer-dialogue-improves-fci-gains.md) [+M] — attached 2026-11-21 from Weijers et al. (2025), which proposed "Frame AI as a fallible peer rather than an authoritative tutor, explicitly informing students of its error rate"; tests this page's relationship.
+- [Post-test performance was approximately equal regardless of AI explanation quality, suggesting the dialogue process rather than explanation correctness drives the gain](../claims/post-test-performance-independent-of-ai-explanation-quality.md) [~M] — attached 2026-11-21 from Weijers et al. (2025), which proposed "Frame AI as a fallible peer rather than an authoritative tutor, explicitly informing students of its error rate"; tests this page's relationship.
+- [Users report that Disha's Socratic hint-based guidance fosters independent thinking and critical problem-solving](../claims/disha-socratic-hints-foster-independent-thinking.md) [+W] — attached 2026-11-21 from Raj Gupta et al. (2025), which proposed "Socratic guardrails: AI hints and structured feedback instead of direct solutions"; tests this page's relationship.
+- [Students who analyzed music with the LLM-based teachable agent Chat Melody achieved significantly higher adjusted post-test scores than students who analyzed independently](../claims/chat-melody-higher-music-theory-posttest.md) [+W] — attached 2026-11-21 from Lingxi Jin et al. (2025), which proposed "Teachable agents should prompt reflection and reasoning rather than supplying immediate answers"; tests this page's relationship.
+- [The teachable agent reduced mental effort but not mental load: the groups did not differ significantly on mental load](../claims/chat-melody-mental-effort-not-mental-load.md) [~W] — attached 2026-11-21 from Lingxi Jin et al. (2025), which proposed "Teachable agents should prompt reflection and reasoning rather than supplying immediate answers".
 
 ## Illustrative design instance and observation record
 

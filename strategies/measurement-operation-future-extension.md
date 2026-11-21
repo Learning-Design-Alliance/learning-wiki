@@ -48,6 +48,7 @@ In the limitations and future improvements section, the authors propose a concre
 - [Use the Quantum Penny Flip game as the introduction to gate-based quantum computing](quantum-penny-flip-introduction-strategy.md)
 - [Team projects in which students discover quantum concepts (teleportation presentation and engaging Grover-algorithm video)](team-discovery-projects-teleportation-grover.md)
 - [Adapt unconventional popular-culture contexts to other quantum physics learning objectives](popular-culture-contexts-other-quantum-concepts.md)
+- [Seven-step moderator sequence for introducing Quantum Port](quantum-port-moderator-sequence.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Interview study with 12 freshmen from community colleges and University of Puert
 - [The MSS framework functions as a learning progression with diverse students, who demonstrate engagement at all levels below their highest attained level](mss-framework-learning-progression-diverse-students.md) — related
 - [PhET simulations support meaningful engagement in blended MSS by diverse students with essentially no prior knowledge of the relevant content](phet-simulations-support-mss-no-prior-knowledge.md) — related
 - [Interview analysis of PhET-simulation scenarios provides validity evidence for every level and sublevel of the blended Math-Sci sensemaking framework](blended-sensemaking-framework-validity-evidence.md) — related
+- [Most students from historically marginalized STEM backgrounds progressed from the lowest to the highest MSS level after completing one directed self-guided activity](dsgl-activity-mss-level-progression.md) — related

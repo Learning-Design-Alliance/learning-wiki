@@ -53,3 +53,4 @@ Linear regression on course and survey variables for all 221 participants, disca
 - [Despite heavy external resource use, significant correlations between supervised and unsupervised assessments persist, so unsupervised assessments retain formative value](unsupervised-assessments-retain-formative-value.md) — possibly the same claim (merge candidate)
 - [Among heavy internet-resource users, greater use of non-AI internet resources during online exams correlates negatively with online exam scores](heavy-internet-users-negative-exam-correlation.md) — related
 - [Course learners' final-exam scores correlated positively with the percentage of course items visited (R² = 0.27 in a linear regression).](openhpi-quantum-mooc-score-correlates-items-visited.md) — related
+- [Voluntary tutor usage is positively correlated with Unit 1 assessment grades among adult learners (Transactions coefficient 0.26, p < 0.001)](tutor-transactions-positive-grade-correlation.md) — related

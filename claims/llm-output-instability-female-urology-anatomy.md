@@ -51,3 +51,4 @@ Consistency secondary outcome from five independent runs per model, quantified b
 - [Self-Consistency is the most reproducible strategy across repeated runs yet shows weaker agreement with teacher mean scores (ICC (2,1) = 0.537)](sc-repeatable-but-weaker-agreement.md) — related
 - [Within-judge variance of the repeated LLM-judge rubric is negligible, but cross-model-family agreement remains untested](within-judge-stability-llm-rubric.md) — related
 - [Item-by-implementation instability is substantial: a model can be reliable on some items and unreliable on others, varying across studies and training regimes](item-implementation-instability-scoring.md) — related
+- [GPT-2 generates different text for the same prompt across repeated runs, demonstrating its stochastic output](gpt2-stochastic-output-varies-across-runs.md) — related

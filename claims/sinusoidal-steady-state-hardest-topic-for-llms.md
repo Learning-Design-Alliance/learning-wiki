@@ -49,3 +49,4 @@ Cross-topic comparison in the benchmark results. The article reports the topic-l
 - [GPT-4o shows more consistent performance than Llama 3 70B across topics and metrics, while Llama 3 70B falls below 60% on the unit metric for three advanced topics](gpt4o-consistency-vs-llama3-unit-weakness.md) — related
 - [GPT-4o and Llama 3 70B significantly outperform GPT-3.5 Turbo across all five homework-assessment metrics in circuit analysis](gpt4o-llama3-outperform-gpt35-circuit-homework-assessment.md) — related
 - [Llama 3 70B outperforms GPT-4o on completeness and method metrics due to its leniency, but performs significantly worse on the unit metric](llama3-lenient-gpt4o-rigor-tradeoff.md) — related
+- [LLM grading performance generally correlates with parameter count, and 4-bit quantization has negligible effect on grading performance](llm-grading-performance-scales-with-parameters.md) — related

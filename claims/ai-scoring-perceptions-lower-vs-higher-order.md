@@ -55,3 +55,4 @@ Likert-type perception items in the survey of 93 undergraduates, summarized as a
 - [Students rated ChatGPT-generated narrative endings equal to or higher than student-written endings on setting, themes, clarity of language and tone](chatgpt-endings-rated-higher-narrative-elements.md) — related
 - [Rubric use liberated students from the narrow grammar-based perception of writing but not from the teacher's authority](rubrics-liberate-from-grammar-not-authority.md) — related
 - [The AI feedback agent reliably detected empathy, reassurance, clarity, and tone balance but inconsistently assessed SPIKES adherence, improving when SPIKES was spelled out as a 6-step bulleted list](ai-feedback-agent-spikes-accuracy-mixed.md) — related
+- [Students trust blockchain for assessment integrity but are skeptical of AI fairness and personalized feedback in learning assessments](student-perceptions-blockchain-trusted-ai-fairness-skepticism.md) — related

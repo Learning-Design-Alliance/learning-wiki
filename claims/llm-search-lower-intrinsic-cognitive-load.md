@@ -58,3 +58,4 @@ ANCOVA in the same randomized experiment (n=91) controlling for prior knowledge.
 - [ChatGPT participants experienced meta-cognitive load and frictions, with slightly more unsatisfied endings than Google participants](chatgpt-meta-cognitive-load-unsatisfied-endings.md) — related
 - [LLM-supported socio-scientific inquiry lowered cognitive load but produced lower-quality reasoning and argumentation than conventional search](llm-inquiry-lower-load-lower-reasoning.md) — a broader claim this one bears on
 - [Tracing and pointing does not significantly reduce self-reported intrinsic cognitive load](tracing-pointing-no-intrinsic-load-reduction.md) — related
+- [Students using the teachable agent reported significantly lower overall cognitive load during music analysis than students analyzing independently](chat-melody-lower-overall-cognitive-load.md) — related

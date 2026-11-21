@@ -48,3 +48,4 @@ Reasoning-capability analysis comparing accuracy distributions of engineering fa
 - [Prompting LLMs to explain before answering improves their accuracy on mechanics conceptual questions](explanation-first-prompting-improves-llm-mechanics-accuracy.md) — reports the opposite
 - [The author judges 26 of GPT-4's free-response explanations entirely correct at the expert level, while GPT-3.5's wrong-answer explanations erred randomly or self-inconsistently](gpt4-free-responses-expert-level.md) — related
 - [When GPT-4V answered incorrectly, its explanations frequently contained image misunderstandings, reasoning errors, and hallucinations](gpt4v-poor-explanations-incorrect-answers.md) — related
+- [Gains in explaining engagement mechanisms were smaller: advanced reasoning rose from 0.55% to 9.42% and incorrect answers fell from 22.40% to 13.09%](engagement-explanations-weaker-gains.md) — related

@@ -47,3 +47,4 @@ Pre/post E-CLASS survey comparison across years in the honors physics lab. The a
 ## Related Claims
 - [The transformed lab course produced no statistically significant difference in overall post-instruction E-CLASS scores compared to the original course](lab-transformation-no-overall-eclass-change.md) — related
 - [Pre/post E-CLASS scores showed a small decrease in expert-like responses and no statistically significant pre-post differences in a partially reformed lab course](e-class-pre-post-no-significant-change-mixed-labs.md) — related
+- [Students' average self-recognition as expert experimental physicists decreases from pre-instruction to post-instruction administration of the E-CLASS](self-recognition-decreases-pre-to-post.md) — related

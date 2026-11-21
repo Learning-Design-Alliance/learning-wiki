@@ -46,6 +46,7 @@ Participants proposed implementable practices to counter isolation in hybrid del
 ## Related Strategies
 
 - [Learning Students Names](learning-students-names.md)
+- [Optional campus workshop during semester break to address missing physical interaction and group interaction](optional-campus-workshop-semester-break.md)
 
 ## Examples
 -

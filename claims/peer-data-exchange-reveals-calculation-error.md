@@ -47,3 +47,5 @@ Classroom observation of the peer data-exchange step of the lab. The article rep
 ## Related Claims
 - [Students' empirical fits of simulated magnetopause locations show good internal agreement, though student estimates and simulation-calculated locations often disagree beyond uncertainties](magnetopause-lab-student-fits-agree-internally-but-differ-from-simulation-values.md) — related
 - [Role-based information asymmetry with infrared beaming encourages cross-team information exchange and collaborative discussion](role-asymmetry-beaming-promotes-cross-team-exchange.md) — related
+- [Students who used the projectile-alone mass instead of the combined spring-projectile system mass showed approximately 80% discrepancy between calculated velocities, versus approximately 6% for students using the correct mass](incorrect-mass-usage-80-percent-velocity-discrepancy.md) — related
+- [Student groups rarely fail to collect data revealing the ball bounce minimum, and the experiment's observational nature makes note keeping authentic](student-groups-reveal-bounce-minimum.md) — related

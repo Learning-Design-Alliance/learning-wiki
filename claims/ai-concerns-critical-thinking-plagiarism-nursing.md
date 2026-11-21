@@ -109,3 +109,4 @@ Qualitative interview findings from the discussion of concerns; faculty worried 
 - [A small minority of participants (about 5%) explicitly disliked AI-generated content, raising ethical design concerns](minority-dislike-ai-generated-content.md) — related
 - [Misuse of GenAI has the potential to undermine critical thinking and creativity skills nurtured through traditional teaching methods](genai-misuse-may-undermine-critical-thinking-creativity.md) — related
 - [Students and faculty both cite personalized learning support as the top benefit and misinformation as the top risk of genAI in STEM education](genai-stem-benefits-risks-perceptions.md) — related
+- [Educators proactively raise concerns that LLMs could inhibit student learning, especially critical thinking, and most respond by limiting classroom LLM use](educators-concern-llms-inhibit-student-learning.md) — related

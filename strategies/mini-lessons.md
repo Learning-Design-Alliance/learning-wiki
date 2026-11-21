@@ -66,6 +66,7 @@ Mini lessons manage attention and cognitive load by limiting the amount of new i
 - [Run standardized 60-minute simulation workshops in small groups of 5 with a fixed sequence of introduction, demonstration, supervised practice, and feedback](standardized-small-group-simulation-workshop-sequence.md)
 - [Use brief five-minute mini-simulation videos with small-group empathy mapping to reduce large-group simulation anxiety](mini-simulation-small-group-empathy-mapping-strategy.md)
 - [Deliver ultrasound-guided aspiration training as a 15-minute orientation video followed by a 20-minute one-on-one workshop and a 5-minute independent skills test](video-workshop-skills-test-sequence-strategy.md)
+- [Use nano-classes (20-minute teaching modules followed by 10-minute Q&A) as the guided instruction unit in teaching hackathons](nano-classes-20-minute.md)
 
 ## Examples
 - **Reading and writing workshops** (Teachers College Reading & Writing Project, [https://readingandwritingproject.org](https://readingandwritingproject.org)) — a 10-minute mini lesson opens each workshop block: connection, teaching point with demonstration, active engagement, link to independent work.

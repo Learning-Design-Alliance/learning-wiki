@@ -61,3 +61,4 @@ Qualitative interview findings from five women physics majors; participants desc
 - [The Peer Mentorship Program increased scholars' sense of community, with 95% of 2020-21 survey respondents reporting connections they could reach out to for help, up from no more than 50% the first year](peer-mentorship-program-increased-sense-community.md) — related
 - [Recognition from faculty and research mentors fostered students' self-efficacy, choice, and persistence in astronomy](faculty-recognition-astronomy-persistence.md) — related
 - [Peer socialization, including mentoring groups and astronomy clubs, supported persistence in the astronomy major](peer-socialization-persistence-astronomy.md) — related
+- [Student-led near-peer mentoring programs cultivate student agency and ownership of learning environments by involving students in designing equitable and accessible spaces](near-peer-programs-cultivate-student-agency-ownership.md) — related

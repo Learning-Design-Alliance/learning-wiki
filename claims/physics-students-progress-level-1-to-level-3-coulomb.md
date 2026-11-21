@@ -47,3 +47,4 @@ Pre/post level assignment in an algebra-based introductory physics course (73 st
 ## Related Claims
 - [Most chemistry groups progressed from level 1 to level 3 of the cognitive framework after the Heat Capacity activity](chemistry-groups-progress-level-1-to-level-3-heat-capacity.md) — related
 - [Research-based tutorials on Coulomb's law, superposition, symmetry and Gauss's law improve pre-/post-test performance in calculus-based introductory physics courses](electrostatics-tutorials-pre-post-gains.md) — related
+- [Most students from historically marginalized STEM backgrounds progressed from the lowest to the highest MSS level after completing one directed self-guided activity](dsgl-activity-mss-level-progression.md) — related

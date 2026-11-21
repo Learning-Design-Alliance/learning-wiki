@@ -45,4 +45,4 @@ The article adopts the ADDIE model (Analyze, Design, Develop, Implement, Evaluat
 -
 
 ## Key Sources
-- Wanzare, L., Okutoyi, J., Kang'ahi, M., & Ayere, M. (2024). Kenyan Sign Language (KSL) Dataset: Using Artificial Intelligence (AI) in Bridging Communication Barrier among the Deaf Learners. https://arxiv.org/abs/2410.18295
+- Wanzare, L., Okutoyi, J., Kang'ahi, M., & Ayere, M. (2024). Kenyan Sign Language (KSL) Dataset: Using Artificial Intelligence (AI) in Bridging Communication Barrier among the Deaf Learners. https://arxiv.org/abs/2410.18295. [doi:10.48550/arxiv.2410.18295](https://doi.org/10.48550/arxiv.2410.18295)

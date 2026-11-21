@@ -51,3 +51,4 @@ Correlation analysis of the 75-student survey data testing Hypotheses 3 and 4 in
 - [Perceived ease of use was the strongest predictor of both perceived usefulness (β = 1.02) and behavioral intention to use 3D Organon (β = 1.01)](ease-of-use-strongest-predictor-usefulness-intention.md) — related
 - [Perceived usefulness and perceived ease of use of GenAI tools significantly predict teachers' attitudes and behavioural intention](usefulness-ease-predict-attitude-intention-genai.md) — related
 - [Perceived usefulness of Zoom is strongly positively correlated with students' attitude toward it and their behavioral intention to use it in language learning](pu-strongly-correlated-attitude-behavioral-intention-zoom.md) — related
+- [Perceived Usefulness, Perceived Ease of Use, and Behavioral Intention toward ABCD technologies show no significant relationship among college students](pu-peou-bi-no-relationship-abcd-assessments.md) — reports the opposite

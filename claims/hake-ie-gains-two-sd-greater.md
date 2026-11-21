@@ -110,3 +110,5 @@ The article reports (Introduction) Hake's large multi-course survey as backgroun
 - [The GPT-3.5-to-GPT-4 score jump corresponds to a hypothetical normalized learning gain of g = 86.7%, more than twice the average effect of an interactive physics course](gpt4-hypothetical-normalized-gain-86-7.md) — related
 - [A Graasp inquiry learning space for second-order differential equations via the simple pendulum achieved a mean Hake gain of 0.37, a medium gain close to that of traditional models](hake-gain-0-37-graasp-ils-second-order-ode.md) — related
 - [RPS students scored 0.22 standard deviations higher on the post-diagnostic than lecture students with the same incoming physics knowledge](rps-higher-postdiagnostic-learning-gains.md) — a narrower finding that bears on this claim
+- [Targeted dialogue with a fallible AI Peer raised post-test FCI scores by 10.5 percentage points and normalized gain by over 20 points versus a control group](ai-peer-dialogue-improves-fci-gains.md) — related
+- [Prior knowledge significantly influenced interaction patterns in the LLM-empowered course](prior-knowledge-influences-interaction-patterns-maic.md) — related

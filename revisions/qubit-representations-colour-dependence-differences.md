@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/qubit-representations-colour-dependence-differences.md
+---
+
+# Revision history: [claims/qubit-representations-colour-dependence-differences](../claims/qubit-representations-colour-dependence-differences.md)
+
+### 2026-11-21 · ingest · process:wiki-ingest
+Ingested from arxiv-2409.17197 (Exploring the mechanisms of qubit representations and introducing a new category system for visual representations: Results from expert ratings) via eval_harness.py + ingest_extractions.py

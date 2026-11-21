@@ -56,3 +56,4 @@ Post-training experiment on Qwen3-4B and Llama3.1-8B-Instruct across Malrule and
 - [General-purpose LLMs show sycophancy: AI responses affirmed users substantially more than human responses, increasing trust and reducing willingness to take responsibility](llm-sycophancy-affirmation-trust-risk.md) — related
 - [DPO training on GPT-4 rubric annotations with mismatched feedback significantly improves the correctness and alignment of Llama 2-generated math feedback compared to zero-shot and SFT baselines.](dpo-score-mismatch-improves-math-feedback.md) — reports the opposite
 - [Hallucination tokens substantially improve performance across benchmarks but do not fully restore baseline performance](hallucination-tokens-partial-recovery.md) — related
+- [DPO training brings the pedagogical rubric performance of an 8B open-source LLM to the level of GPT-4o while improving over SFT and distillation-only training](dpo-matches-gpt4o-pedagogical-rubric.md) — related

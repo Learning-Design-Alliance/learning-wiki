@@ -51,3 +51,4 @@ Pearson correlation analysis of questionnaire responses from 75 Saudi undergradu
 - [Attitude, facilitating conditions, and social influence correlate most strongly with behavioral intention, while perceived ease of use correlates weakest](at-fc-si-strongest-bi-correlates-peou-weakest.md) — related
 - [Perceived usefulness, attitude, and behavioral intention form a significant TAM pathway predicting GenAI adoption among law students](tam-pathway-genai-adoption-law-students.md) — related
 - [Perceived usefulness, rather than perceived ease of use, was the primary predictor of LLM adoption across TAM-based studies](perceived-usefulness-predicts-llm-adoption.md) — a broader claim this one bears on
+- [Perceived Usefulness, Perceived Ease of Use, and Behavioral Intention toward ABCD technologies show no significant relationship among college students](pu-peou-bi-no-relationship-abcd-assessments.md) — reports the opposite

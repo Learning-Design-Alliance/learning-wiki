@@ -57,7 +57,9 @@ Summative assessment is the element in which a learner's performance is judged a
 - [Competency-Based Learning](../patterns/competency-based-learning.md)
 
 ## Examples
+
 - Final exams, end-of-unit projects, capstones, and certification assessments.
+- [Evaluate educational initiatives with front-end, formative and summative assessments, including pre/post testing and long-term follow-up](../strategies/three-phase-evaluation-educational-initiatives.md)
 
 ## Key Sources
 - Harlen, W. (2005). Teachers' summative practices and assessment for learning. *The Curriculum Journal, 16*(2), 207-223. [https://doi.org/10.1080/09585170500136093](https://doi.org/10.1080/09585170500136093)

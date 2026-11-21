@@ -90,3 +90,4 @@ Grading-consistency analysis using Pearson r across blind and mark-scheme condit
 - [Prompt quality and detailed scoring rubrics significantly influence the accuracy and consistency of LLM-generated grades](prompt-rubric-quality-drives-llm-grading.md) — a broader claim this one bears on
 - [Graded Exemplars Shift an LLM Grader by the Level They Are Marked At](graded-exemplars-shift-an-llm-grader-by-the-level-they-are-marked-at.md) — related
 - [In one study of five LLMs scoring 60 undergraduate essays on IELTS rubric dimensions, systematic underestimation of human scores was the dominant bias trend, with some models also compressing scores into a narrow range](llm-essay-scoring-systematic-underestimation.md) — related
+- [Prompt composition shifts LLM grading bias: rubric-only prompts yield stricter grading, examples-only prompts more lenient grading, and combining both produces the best results](rubric-examples-prompt-variant-balances-grading-bias.md) — related

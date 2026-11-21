@@ -62,3 +62,4 @@ Stability evaluation (Table 3, Sec. 4): four cyclic option permutations per ques
 - [LLM student simulation is robust across repeated runs with non-deterministic temperature settings](llm-simulation-robustness-across-runs.md) — related
 - [ChatGPT shows a 23.8% bias toward selecting the first item in pairwise difficulty comparisons](chatgpt-first-item-bias-in-pairwise-comparison.md) — related
 - [Coding chatbot answers by meaning rather than by stated letter raises measured BEMA performance, revealing answer-option-list misinterpretation](meaning-coding-raises-bema-scores.md) — related
+- [GPT-2 generates different text for the same prompt across repeated runs, demonstrating its stochastic output](gpt2-stochastic-output-varies-across-runs.md) — related

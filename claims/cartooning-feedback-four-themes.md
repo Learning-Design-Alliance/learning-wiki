@@ -54,3 +54,4 @@ Inductive thematic analysis (following Maguire & Delahunt and Braun & Clarke) of
 - [Thematic analysis of student comments identified 'experience' as the primary theme in student feedback on SBE](sbe-feedback-experience-primary-theme.md) — related
 - [Learners commenting on an online curriculum comment most on overall module quality (32.7% of comments), followed by module content (16.0%), with few comments on questions, length, or website function](learners-comment-most-on-quality-then-content.md) — related
 - [Students report learning a lot, finding the content interesting, and enjoying working like researchers](prise-qualitative-experience-themes.md) — related
+- [Informal exhibition surveys showed strong public engagement, with appreciation for guides' pedagogical skills and interactive elements](exhibition-surveys-show-strong-engagement.md) — related

@@ -50,3 +50,4 @@ Descriptive secondary outcome from the same RCT: the 22 AR participants complete
 - [Learner acceptance of AI simulations is generally high, with System Usability Scale scores of 61.6 to 78.56 and 72%-93% willingness to recommend](ai-simulation-high-learner-acceptance.md) — related
 - [Participants rate the remote AR simulation system as highly usable, with mixed responses only about needing technical support](remote-ar-simulation-sus-high-usability.md) — related
 - [The TV-based home telehealth technology was easy to learn and use, with a mean System Usability Scale score of 94.4](high-usability-tv-based-rehab-technology.md) — related
+- [The system achieves Good usability, scoring 73.75 on average (SD=14.66) on the SUS](sus-good-usability-73-75.md) — related

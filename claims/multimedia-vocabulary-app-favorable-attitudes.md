@@ -54,3 +54,4 @@ Questionnaire data from the experimental study of 80 freshmen using the multimed
 - [The article reports that the REACT strategy affects learners' learning motivation and attitudes and contributes to a more positive learning environment](react-affects-motivation-attitudes.md) — related
 - [Students positively perceived YouTube's usefulness, ease of use, and their attitude toward it for vocabulary learning](student-positive-perceptions-youtube-vocabulary.md) — related
 - [Most students reacted positively to the VR experience and felt it contributed to their learning](vr-positive-student-reactions.md) — related
+- [Student attitudes toward LLM graders became more positive over the semester, and students strongly felt a manual-review option must remain available](student-attitudes-toward-llm-graders-improved-over-semester.md) — related

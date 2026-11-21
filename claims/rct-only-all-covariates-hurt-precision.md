@@ -49,3 +49,4 @@ Trial-only comparison for the 44 Texas CTAI schools: the all-covariates random f
 - [In auxiliary Texas school data, a random forest with all predictors predicts math TAKS passing rates better than OLS with the pretest alone](rf-all-predictors-beats-pretest-auxiliary.md) — related
 - [Random forest models consistently outperform neural networks for predicting math TAKS passing rates in the auxiliary data](random-forests-outperform-neural-nets-auxiliary.md) — related
 - [Imputing missing predictor values without conditioning on the outcome variable biases estimates toward zero even when data are missing completely at random](imputation-omitting-outcome-biases-toward-zero.md) — related
+- [The LOOP estimator provides an unbiased ATE estimate with greater precision than the Student's t-test when covariate imputation improves on mean imputation](loop-estimator-unbiased-precise.md) — related

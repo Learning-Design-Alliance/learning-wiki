@@ -53,3 +53,4 @@ Descriptive self-agreement analysis measuring the percentage of questions where 
 - [No statistically significant performance gap existed between Turkish and English administration of the same radiology questions to ChatGPT-5 and Gemini 2.5 Pro](no-language-gap-turkish-english-llm-radiology-accuracy.md) — related
 - [GPT-4o was the most inconsistent chatbot, with 19 questions answered correctly in the first round answered incorrectly in the second](gpt-4o-most-inconsistent-across-rounds.md) — related
 - [GPT-4 tends to excel on questions where students also perform well, but struggles on some mathematical-derivation problems students handle well](gpt4-excells-where-students-excel.md) — related
+- [Items difficult for GPT-4o in English tend to remain difficult in other languages, with correct-response rates rising from 18% to 82% as English agreement increases](item-difficulty-consistent-across-languages.md) — related

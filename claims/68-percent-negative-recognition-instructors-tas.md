@@ -57,3 +57,4 @@ Semi-structured empathetic interviews with 38 female undergraduate and first-yea
 - [Sense of belonging experiences, such as encouragement and exclusion, shape students' interest in a method](sense-of-belonging-shapes-method-interest.md) — a broader claim this one bears on
 - [Faculty perceptions separating academic-bound from industry-bound students affect women's recognition, competence, and belonging in physics](career-path-perceptions-recognition-competence-belonging.md) — related
 - [All seven undergraduate women physics majors interviewed recalled negative experiences with their male peers during college](women-physics-majors-negative-male-peer-interactions.md) — related
+- [In a qualitative interview study of students with negative perceptions of introductory physics, classroom/course structure, instructor, and exam experiences were the most negative experience types](intro-physics-classroom-instructor-exam-most-negative.md) — related

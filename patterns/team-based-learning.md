@@ -15,7 +15,7 @@ grain_size: unit, course
 # Team Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 122 claims (80 for, 38 mixed, 4 against) · 64 studies (21 causal, 17 quant-synthesis, 8 review, 8 design, 6 associational, 3 theoretical, 1 qualitative), `q1`–`q4` · 20 of 64 report an effect size · 113 claims rest on one study
+> **Evidence** · 123 claims (81 for, 38 mixed, 4 against) · 65 studies (21 causal, 17 quant-synthesis, 8 review, 8 design, 7 associational, 3 theoretical, 1 qualitative), `q1`–`q4` · 20 of 65 report an effect size · 114 claims rest on one study
 
 ## Description and scope
 
@@ -137,6 +137,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [No significant difference between medical and physiotherapy students' perceptions of the TBL experience](../claims/no-discipline-difference-tbl-perceptions.md) [~W] — attached 2026-11-08 from Burgess A et al. (2020), which proposed "Use the small-group, task-focused characteristics of TBL as a student-centred strategy to support interprofessional learning goals".
 - [Uneven team ratios and late integration of physiotherapy students into established medical teams hindered interprofessional contributions](../claims/uneven-team-ratio-hindered-physio-contribution.md) [~W] — attached 2026-11-08 from Burgess A et al. (2020), which proposed "Use the small-group, task-focused characteristics of TBL as a student-centred strategy to support interprofessional learning goals".
 - [Team-Based Learning in an IPLS course produces a small positive overall self-efficacy shift for she-identifying students](../claims/tbl-ipls-overall-self-efficacy-gain-she-students.md) [+W] — attached 2026-11-18 from Brokk Toggerson et al. (2021), which proposed "Team-Based Learning pattern for large-enrollment IPLS: flipped preparation, five-person semester-long diverse teams, and 35% team-based grading".
+- [Over 90% of surveyed students prefer the two-stage final exam format, and self-perceived understanding rises sharply from after the individual exam to after the group exam](../claims/over-90-percent-prefer-two-stage-final-perceived-understanding-gains.md) [+W] — attached 2026-11-21 from Callaghan et al. (2025), which proposed "Adding a group stage to final exams in courses that already use two-stage midterms maintains attitudinal benefits without compromising the final exam's evaluative purpose".
 
 ## Illustrative design instance and observation record
 

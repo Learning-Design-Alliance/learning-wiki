@@ -51,3 +51,4 @@ Automated evaluation of GPT-4o on 1,062 publicly available EUNACOM multiple-choi
 - [GPT-4 achieves the highest pooled accuracy among LLMs (81%), significantly outperforming GPT-3.5 (60%)](gpt4-highest-accuracy-81-outperforms-gpt35.md) — related
 - [GPT-4 achieves a pooled MCQ accuracy of 81% on medical licensing examinations, significantly surpassing GPT-3.5's 58%](gpt4-81-percent-pooled-accuracy-surpasses-gpt35.md) — related
 - [Temperature settings (0.3, 0.6, 1.3) did not significantly affect GPT-4o accuracy on EUNACOM questions](temperature-no-effect-eunacom-accuracy.md) — related
+- [Only for Portuguese and Spanish did a majority of GPT-4o's answers remain entirely in the nominal language](gpt4o-language-switching-behavior.md) — related

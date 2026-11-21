@@ -47,3 +47,4 @@ Group comparison of dialogue volume in the MAIC course. The article also reports
 ## Related Claims
 - [Students with low prior knowledge achieved the greatest learning gains in the multi-agent AI course, with a significant main effect of prior knowledge on gain](low-prior-knowledge-greatest-gains-multi-agent.md) — related
 - [High prior knowledge students engaged more in co-regulation behaviors while low prior knowledge students relied more on question-raising and idea-confirming sequences](prior-knowledge-differentiates-co-regulation-co-construction.md) — related
+- [High interaction volume does not always equate to productive learning in an LLM-empowered course](high-interaction-not-always-productive-learning.md) — related

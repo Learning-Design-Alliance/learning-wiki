@@ -49,3 +49,4 @@ Regression analysis of final course scores versus sessional GPA for 99 students 
 - [Women scored about 33 SAT-M points lower than men who took the same math course and received the same grade](women-33-sat-points-lower-matched-course-grade.md) — related
 - [Second-year students rate a co-taught interdisciplinary biophysics course highly, with 91% positive overall ratings over six years](current-topics-biophysics-high-student-satisfaction.md) — related
 - [Students' CT performance correlates with their overall GPA, suggesting CT as a predictor of academic success](ct-performance-correlates-with-gpa.md) — related
+- [In-term exam averages correlate with final exam scores more strongly than incoming GPA does](in-term-final-correlation-stronger-than-gpa.md) — related

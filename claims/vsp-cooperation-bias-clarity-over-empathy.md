@@ -48,3 +48,4 @@ Study-team testing of VSP behavior across learner types during the Evaluation ph
 ## Related Claims
 - [LLM-annotated EPITOME scores show the Non-Empathetic chatbot expresses significantly lower empathy on all three dimensions, while Standard and Empathetic chatbots are not significantly different](llm-epitome-scores-differentiate-nonempathetic.md) — related
 - [The AI feedback agent reliably detected empathy, reassurance, clarity, and tone balance but inconsistently assessed SPIKES adherence, improving when SPIKES was spelled out as a 6-step bulleted list](ai-feedback-agent-spikes-accuracy-mixed.md) — related
+- [A strict confidentiality protocol in the Training Manual prevented the tutor from revealing its operational instructions when prompted during testing](training-manual-confidentiality-protocol-adherence.md) — related

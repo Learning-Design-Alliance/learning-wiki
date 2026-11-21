@@ -70,6 +70,7 @@ Drawing converts verbal/numeric problem statements into a second, visual represe
 - [Disassemble-and-rebuild consensus task for teaching optical conjugation and relays](ao-rebuild-consensus-design-task.md)
 - [Explicitly teach problem-solving heuristics (visualizing, checking conservation principles, examining limiting cases) to help students build and employ physical intuition](explicitly-teach-problem-solving-heuristics-strategy.md)
 - [Provide specific instruction on drawing diagrams to increase students' use of diagrams in problem solving](specific-diagram-instruction-strategy.md)
+- [Guide students to begin problem solving with qualitative reasoning and a diagram before formal mathematical manipulation](qualitative-first-diagram-before-formal-manipulation-strategy.md)
 
 ## Examples
 - **Singapore Math bar models** — a national curriculum sequence in which students progress from concrete objects to standardized bar diagrams for word problems ([Thinking Blocks](https://www.mathplayground.com/thinkingblocks.html) offers an interactive version)

@@ -47,6 +47,7 @@ As an alternative to the CHSH approach, the article proposes a Bell-test treatme
 
 - [E91 entanglement-based key distribution game with CHSH test as eavesdropping check](e91-entanglement-key-game.md)
 - [Teach quantum entanglement via principle explanation in analogy to the standard special relativity introduction](principle-explanation-entanglement-strategy.md)
+- [Staging the Nobel Prize-winning CHSH experiment as a 'living crib' with the public playing its phases](staged-nobel-experiment-living-crib.md)
 
 ## Examples
 -

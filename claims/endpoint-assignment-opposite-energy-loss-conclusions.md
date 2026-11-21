@@ -64,4 +64,4 @@ Descriptive analysis of the Group Two spreadsheet approach, in which the first v
 
 
 ## Related Claims
--
+- [Student groups rarely fail to collect data revealing the ball bounce minimum, and the experiment's observational nature makes note keeping authentic](student-groups-reveal-bounce-minimum.md) — related

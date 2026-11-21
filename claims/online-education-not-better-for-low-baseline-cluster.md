@@ -52,3 +52,4 @@ Descriptive cluster-profile analysis (Table 3, Cluster 2, n = 54); approximately
 - [Students with online education had higher final exam scores than those with in-person education in pre-clinical medical English coursework](online-education-higher-final-exam-scores-preclinical-medical-english.md) — reports the opposite
 - [English proficiency, class attendance, and entrance exam score were bivariably associated with academic performance](english-proficiency-attendance-entrance-score-bivariable-associations.md) — related
 - [Students working mostly from home and primarily taking quizzes (cluster C5) do not show improved performance](home-quiz-use-no-performance-gain.md) — related
+- [Cluster analysis identified three learner profiles at k=3, with the highest-scoring cluster showing the largest percentage of human words](cluster-k3-highest-score-most-human-words.md) — related

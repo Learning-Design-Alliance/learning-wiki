@@ -47,6 +47,7 @@ For the shift from teacher-centric delivery to AI-augmented facilitation, the ar
 - [Embed structured AI literacy in business curricula: teach verification, comparison, and transparent AI-use declarations rather than restricting or unrestrictedly encouraging GenAI](structured-ai-literacy-genai-business-curricula.md)
 - [Use technology-mediated learning to shift the trainer's role from knowledge provider to facilitator and foster reflection](technology-mediated-learning-for-teacher-reflection.md)
 - [Refocus education from reckoning skills towards judgement skills and problem formulation](prioritise-judgement-skills-and-problem-formulation-curriculum.md)
+- [Differentiate GenAI training by students' likely work function and integrate GenAI literacy across courses with faculty development](differentiated-genai-training-by-function.md)
 
 ## Examples
 -

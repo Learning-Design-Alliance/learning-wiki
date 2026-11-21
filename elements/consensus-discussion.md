@@ -80,6 +80,7 @@ Consensus discussions force learners to articulate, defend, and revise their rea
 
 **Mock jury exercises in law courses** — Small groups deliberate a case and must return a unanimous verdict with written rationale, directly modeling the consensus demands of real jury practice.
 - [Integrate evaluation into the learning process with learners participating in creating and understanding standards](../strategies/integrate-evaluation-into-learning-process-participation.md)
+- [Use natural language, debates and controversy-oriented historical framing to teach contemporary physics and orient students toward STEM](../strategies/natural-language-debates-stem-orientation-strategy.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

@@ -58,3 +58,4 @@ Inductive thematic analysis of open-ended responses from all 149 students, coded
 - [A previous direct-lesson introduction of Audacity produced weak engagement and no materials, while the flipped-classroom format produced engagement and educational materials](direct-lesson-vs-flipped-engagement-contrast.md) — related
 - [Mentees appreciated the remote REU format for flexibility and developing as independent learners](remote-format-independence-benefits.md) — related
 - [In a survey of 110 ASP2024 participants, attendees appreciated the hybrid arrangement but online participants were less satisfied and mostly desired in-person participation](asp2024-hybrid-format-feedback.md) — related
+- [Students evaluated the remote experimental model positively, reporting improved understanding, motivation, and self-directed learning, while noting time cost, resource limitations, and video quality issues](student-evaluation-remote-model-strengths-weaknesses.md) — related

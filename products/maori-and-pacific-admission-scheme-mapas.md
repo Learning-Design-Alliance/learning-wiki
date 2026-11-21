@@ -13,7 +13,7 @@ generated:
 # Māori and Pacific Admission Scheme (MAPAS)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q2`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (2 associational), `q2`–`q3` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The University of Auckland Faculty of Medical and Health Sciences' equity-targeted admissions programme combines interviews and academic testing to recommend an undergraduate, bridging, or foundation entry pathway for Māori and Pacific applicants.
@@ -22,11 +22,13 @@ The University of Auckland Faculty of Medical and Health Sciences' equity-target
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **MAPAS equity-targeted admissions process (MMI, objective testing, and recommendations)**: The Māori and Pacific Admission Scheme is an "equity-targeted admissions process" for applicants with Māori and Pacific ancestry at the University of Auckland's Faculty of Medical and Health Sciences. Its December interview process combines a Multiple Mini Interview with four 8-minute stations (career aspirations, academic preparation, family support, student information), an English test and a mathematics test, from which a Recommendations Team advises each applicant's best starting point: Bachelor, CertHSc bridging/foundation, or Not FMHS. Advice is provisional in December, finalised in January, and not binding for applicants meeting guaranteed entry criteria. (Curtis E et al. (2015))
 - **MAPAS equity-targeted admissions process combining cognitive and non-cognitive selection tools**: The Māori and Pacific Admission Scheme is a tertiary admissions process at the University of Auckland for applicants with verified Māori and/or Pacific ancestry, in operation since 1972. It combines a Multiple Mini Interview with four 8-minute stations, mathematics and English tests, and secondary school results to recommend a best starting point: CertHSc bridging study, Bachelor-level entry, or Not FMHS. The interview is "delivered within an indigenous cultural context" beginning with a pōwhiri, with whānau hosted and supported throughout the day. The authors present it as a possible exemplar for institutions seeking to widen participation. (Curtis Elana et al. (2015))
+- **Universities should invest in comprehensive, flexible and inclusive admissions processes with alternative entry pathways for indigenous and ethnic minority applicants**: The article recommends that tertiary institutions committed to widening participation provide admissions processes that combine cognitive tools (school results, mathematics and English testing) and non-cognitive tools (MMI stations), advise applicants on their best starting point, and offer bridging/foundation alternative entry pathways. The authors argue such processes gather a broad range of information about applicant preparation and are "strongly associated with positive academic outcomes in the first year of tertiary study" for Māori and Pacific students. (Curtis E et al. (2015))
 
 ### Claims
 - [Following MAPAS advice on best starting point is associated with higher first-year GPA and much higher odds of passing all courses among Māori and Pacific health students](../claims/mapas-advice-followed-first-year-outcomes.md) [+M]
 - [NCEA Rank Score is the most significant predictor of first-year GPA and of passing all courses for Māori and Pacific health students](../claims/ncea-rank-score-predicts-first-year-outcomes.md) [+M]
 - [December provisional and January final MAPAS recommendations show good agreement (Kappa 0.46)](../claims/december-january-recommendation-agreement-kappa.md) [+M]
+- [Exposure to at least two senior science subjects is associated with higher first-year GPA and higher odds of passing all courses](../claims/any-two-sciences-first-year-outcomes.md) [+M]
 
 ## Related Products and Programmes
 -

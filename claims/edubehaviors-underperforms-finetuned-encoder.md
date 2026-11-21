@@ -58,3 +58,4 @@ Stated comparison in the Limitations section, benchmarking against the fine-tune
 - [GPT-3 achieves higher precision than RoBERTa for every talk-move classifier, with gains of at least 5 and up to 21 points](gpt3-higher-precision-than-roberta-talk-moves.md) — reports the opposite
 - [GPT-3's recall varies significantly across talk moves, performing far worse than RoBERTa for Connecting](gpt3-recall-varies-connecting-worst.md) — related
 - [Prompt customization introduces at least three types of prompting bias: majority label, recency, and common token bias](prompting-bias-three-types.md) — related
+- [Source-free domain adaptation methods that succeed in computer vision underperform direct application of pre-trained models for retention prediction](sfda-underperforms-in-retention-prediction.md) — related

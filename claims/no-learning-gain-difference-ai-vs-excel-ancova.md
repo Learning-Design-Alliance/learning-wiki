@@ -50,3 +50,4 @@ ANCOVA on post-test scores of the randomized two-group experiment (n = 50, 25 pe
 - [ANCOVA on post-test RCPM scores found no statistically significant difference between the experimental and control groups](mle-posttest-ancova-no-significant-group-difference.md) — a broader claim this one bears on
 - [The post-test advantage of generative AI-supported instruction persists after controlling for pre-test performance (ANCOVA)](genai-geometry-ancova-group-effect.md) — related
 - [Post-test environmental attitudes did not differ significantly between experimental and control groups in the ANCOVA](posttest-eas-ancova-no-significant-difference.md) — related
+- [AI-generated explanations show no significant effect on overall physics performance-test scores](ai-explanations-no-overall-performance-effect.md) — related

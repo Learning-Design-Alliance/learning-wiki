@@ -74,3 +74,4 @@ Comparison against the end-of-semester FCI post-test score distribution from the
 - [Figure-to-text transcription of FCI items may cause difficulties for ChatGPT, with eleven items unsolved in every run](figure-transcription-hinders-chatgpt-fci.md) — related
 - [ChatGPT completes introductory CS1 and CS2 programming assignments with near-perfect accuracy, requiring almost no coding skill from the student](chatgpt-near-perfect-cs1-cs2-assignments.md) — related
 - [Review of prior studies finds ChatGPT-4 typically scores between 90 and 100% on the Force Concept Inventory, comparable to physics experts, while ChatGPT-3.5 scored 50-60%](chatgpt4-fci-expert-level-review-reported.md) — related
+- [GPT-4o answered only 59% of pre-test questions correctly, with accuracy dropping sharply as the number of images per question increased](gpt4o-fci-accuracy-drops-with-images.md) — related

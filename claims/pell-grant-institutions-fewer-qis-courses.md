@@ -51,3 +51,4 @@ Negative binomial regression across 456 US institutions (Table II) found Pell gr
 - [Master's-granting physics and astronomy institutions serve undergraduate populations with a substantially larger share of lower-income (Pell-eligible) students than Ph.D.-granting institutions](masters-institutions-serve-more-pell-eligible-undergraduates.md) — related
 - [Active QIS courses at US institutions are disproportionately concentrated at R1 private research universities, and most institutions offer none](qis-courses-concentrated-at-r1-private-institutions.md) — related
 - [QIS education programs appear rarer in rural states and at institutions serving higher populations of low-income students](qis-programs-rarer-in-rural-states.md) — a broader claim this one bears on
+- [61 U.S. institutions offer 89 distinct QISE programs, concentrated at PhD-granting institutions](61-institutions-89-qise-programs.md) — related

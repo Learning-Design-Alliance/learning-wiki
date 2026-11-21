@@ -59,3 +59,4 @@ The review's Research Question 7 synthesis across included studies. It concludes
 - [Human teacher–GenAI collaboration in embodied mathematics learning calls for a complementary interaction model combining AI feedback with human metacognitive guidance](complementary-human-genai-interaction-model.md) — related
 - [Teacher-AI design collaboration faces recurring challenges including prompt literacy, curriculum misalignment, epistemic uncertainty, and explainability barriers](teacher-ai-codesign-challenges-prompt-literacy-alignment-trust.md) — related
 - [Hybrid models combining SDVT with real-time feedback may enhance learner autonomy while maintaining instructional oversight](hybrid-sdvt-rt-feedback-benefits.md) — related
+- [ITS and RTS occupy complementary strengths: software-based systems excel in cognitive adaptability and scalability while robot-based systems excel in emotional and social engagement](its-rts-complementary-strengths.md) — related

@@ -48,3 +48,4 @@ From the same Malaysian survey, which administered Lawson's Classroom Test of Sc
 - [Among Malaysian Muslim science students, intensity of discord over scientific claims shows no direct link to scientific reasoning ability](no-direct-link-discord-scientific-reasoning-malaysian.md) — related
 - [Australian and Malaysian Muslim learners ranked discord items differently, with Australian students most resistant to anti-science statements and most accepting of divine-cause statements](australian-malaysian-discord-item-differences.md) — related
 - [Malaysian Muslim students' discord scores are inversely related to sophistication of epistemological beliefs](discord-inversely-related-epistemological-beliefs.md) — related
+- [Analytical reasoning capacity and skeptical disposition predict resistance to pseudo-profound statements](analytical-reasoning-predicts-pseudoprofound-resistance.md) — related

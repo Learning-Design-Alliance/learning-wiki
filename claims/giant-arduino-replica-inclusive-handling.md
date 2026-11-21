@@ -51,3 +51,4 @@ Design-experience report from Section 4.1. The authors built a larger (9:1) scal
 - [Instructors perceive open forms of labwork and specific digital technologies (e.g., microcontrollers for experimental skills) as useful for reaching their learning objectives](open-labwork-and-specific-technologies-useful-for-objectives.md) — related
 - [Students sometimes perceived the Arduino lab work as extra work tangential to the course syllabus and their careers](arduino-lab-perceived-as-extra-work.md) — related
 - [Lecture-demonstration predictions prompted gut-feeling reasoning: students had more difficulty reconciling force-field perpendicularity with real setups than with equations](lecture-demo-prediction-gut-feeling.md) — related
+- [Students with low prior microcontroller experience reported feeling confident to use the microcontroller in other projects after the lab course](self-reported-confidence-microcontroller-after-lab-course.md) — related

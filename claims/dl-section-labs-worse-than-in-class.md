@@ -47,3 +47,4 @@ Observational comparison of average scores per assessment method plotted across 
 ## Related Claims
 - [The DL section performed best in the skill-based assessment, which the authors attribute to taking the exam at home](dl-section-best-in-skill-based-assessment.md) — related
 - [Mid-semester scores differ significantly between some pairs of the four course sections, with section 02 differing significantly from sections 01, 04 and DL](welch-t-test-section-pair-differences-it341.md) — related
+- [Online Advanced Lab students perform comparably to in-person students on average, but with a broader performance distribution](online-advanced-lab-performance-comparable-broader-distribution.md) — reports the opposite

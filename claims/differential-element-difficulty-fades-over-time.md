@@ -50,3 +50,4 @@ Exam-solution coding of line-distribution questions found the fraction of studen
 - [A new difficulty with interpreting and expressing the volume current density emerges in magnetostatics, representing 90% of differential element difficulties in that context](current-density-new-difficulty-magnetostatics.md) — related
 - [Upper-division students have difficulty mapping physical systems onto the Coulomb potential integral, especially expressing the differential charge element and difference vector](construction-dq-script-r-difficulties.md) — related
 - [Construction of the model was the largest source of difficulties with Coulomb's Law integrals, concentrated in expressing the differential charge element and integration limits](construction-dq-and-limits-difficulties.md) — related
+- [The limit-to-zero conception of the differential can hinder students' understanding of integrals as sums](zero-limit-differential-hinders-integral-as-sum.md) — related

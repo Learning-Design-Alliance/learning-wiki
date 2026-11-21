@@ -65,6 +65,7 @@ The article recommends that institutions fund AI literacy initiatives that embed
 - [Frame LLM integration as an assessable AI literacy competency with differentiated integrity policies and reasoning-focused assessment redesign](ai-literacy-competency-medical-curriculum-strategy.md)
 - [Support AI literacy, safe AI use, team-based learning, and innovation-supportive work environments, with mentoring for low-support settings](ai-literacy-innovation-support-nursing-management-strategy.md)
 - [Future directions: formalized AI-literacy curricula, collaboration, research, and advocacy for CMFT](future-directions-ai-cmft-training-and-collaboration.md)
+- [Differentiate GenAI training by students' likely work function and integrate GenAI literacy across courses with faculty development](differentiated-genai-training-by-function.md)
 
 ## Examples
 -

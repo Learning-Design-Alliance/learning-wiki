@@ -67,6 +67,7 @@ Visualizing improves comprehension and problem solving because external represen
 - [Score full conceptual-index diagrams A and other students B so students benefit from each other's help in solving problems.](a-score-diagram-feedback-strategy.md)
 - [Provide specific instruction on drawing diagrams to increase students' use of diagrams in problem solving](specific-diagram-instruction-strategy.md)
 - [Design risk-explanation visuals with external consistency to established clinical charts, grid lines for what-if reasoning, and legends mapping encodings to risk levels](petal-x-design-decisions-strategy.md)
+- [Guide students to begin problem solving with qualitative reasoning and a diagram before formal mathematical manipulation](qualitative-first-diagram-before-formal-manipulation-strategy.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — modeling how to construct a representation

@@ -82,3 +82,4 @@ Figure 2 comparison of LLM-predicted versus empirical IRT difficulty shows non-f
 - [Accuracy on difficult questions is significantly lower than on easy questions for all four LLMs](difficulty-effect-attenuated-llms.md) — related
 - [Honor-class students answered fewer rotational-inertia questions correctly than expected despite the computations being fairly easy](honor-class-underperform-rotational-inertia-questions.md) — a narrower finding that bears on this claim
 - [Instructors report using in-class quizzes with misconception traps, prediction-based discussions, and demonstrations, judging them useful without measured outcomes](instructor-quantum-diagnostic-instructional-practices.md) — related
+- [LLM grading bias relative to TAs varies with question difficulty: near-zero on trivial and easy questions, mildly stringent on medium, and more generous than TAs on hard questions](llm-grading-bias-varies-by-question-difficulty.md) — related

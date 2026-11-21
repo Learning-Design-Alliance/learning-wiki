@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 329 claims (212 show a difference, 63 mixed, 54 no difference) · 207 studies (79 associational, 69 causal, 29 review, 10 quant-synthesis, 7 qualitative, 7 theoretical, 6 design), `q1`–`q4` · 50 of 207 report an effect size · 321 claims rest on one study
+> **Evidence** · 331 claims (214 show a difference, 63 mixed, 54 no difference) · 209 studies (80 associational, 69 causal, 29 review, 10 quant-synthesis, 7 qualitative, 7 design, 7 theoretical), `q1`–`q4` · 50 of 209 report an effect size · 323 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -365,6 +365,8 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Test anxiety was not a significant predictor of assessment scores despite women reporting higher anxiety](../claims/test-anxiety-not-significant-predictor.md) [-M] — learners who differ on it differ in outcomes
 - [Review reports BCI training reduced mathematics anxiety in a within-subjects study](../claims/bci-training-reduced-math-anxiety-review-attributed.md) [+W] — measured as an outcome of the instruction studied
 - [NAPLAN testing elevates student stress and anxiety, with feelings intense among older students](../claims/naplan-student-anxiety-stress.md) [+W] — measured as an outcome of the instruction studied
+- [Compared with traditional individual-only finals, students report the two-stage final increased their learning and 3-month retention and lowered their anxiety, with no perceived drop in group motivation](../claims/two-stage-final-vs-traditional-student-perceptions.md) [+M] — measured as an outcome of the instruction studied
+- [Higher student writing assessment literacy is negatively associated with writing anxiety among Chinese EFL undergraduates](../claims/swal-negatively-predicts-writing-anxiety.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

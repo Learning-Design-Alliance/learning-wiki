@@ -92,3 +92,4 @@ Same qualitative manipulation check: roles reversed across conditions — in the
 - [An exploratory path model suggests perceived responsible behavior mediates the association between KBD and both learner motivation and acceptance](kbd-path-model-responsible-behavior-predicts-motivation-acceptance.md) — related
 - [Contrary to similar research, an asocial robot produced higher learning gains than a more social robot in a tutoring study](asocial-robot-higher-learning-gains.md) — related
 - [Student control scores show preliminary support for correlation with agreement scores in student-robot dialogue](control-score-agreement-score-correlation-preliminary.md) — related
+- [Physics-STAR LLM tutoring produced higher post-test scores on information-based physics questions than generic LLM tutoring or teacher lecture](physics-star-higher-information-question-scores.md) — related

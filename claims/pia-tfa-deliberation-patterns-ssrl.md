@@ -63,3 +63,4 @@ Agglomerative hierarchical clustering of 42 three-minute deliberation sequences 
 - [Emotional synchrony frequency differs slightly across regulatory activities but the metric does not discriminate SSRL, cognitive, and task-execution interactions](emotional-synchrony-differs-by-regulatory-activity-limited-discrimination.md) — related
 - [Students who changed one parameter at a time in model fitting were more efficient than those changing multiple parameters](parameter-fitting-strategy-efficiency.md) — related
 - [Uncertainty is conceptually distinct from failure: it is an epistemic and metacognitive state, while failure is defined relative to an evaluative criterion](uncertainty-distinct-from-failure.md) — related
+- [Active completers split into two interaction subprofiles: active questioners dominated by questioning and negotiation, and responsive navigators dominated by responding and regulatory behaviors](questioners-versus-navigators-subclusters.md) — related

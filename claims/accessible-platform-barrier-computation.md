@@ -70,3 +70,4 @@ Interview evidence on affordability and access: a teacher needed "a class set of
 - [Institutional IT departments and policies form a barrier specific to integrating computation, as instructors may need server access and support that IT does not provide](it-department-barrier-computation.md) — related
 - [Departmental norms around computation differ from general reform norms: instructors carefully frame computation so it does not appear more important than existing paper-and-pencil teaching](departmental-norms-computation-framing.md) — related
 - [Requiring ROOT software installation limits accessibility of the original ALICE Masterclass](root-installation-barrier-limits-access.md) — a narrower finding that bears on this claim
+- [Computation-based activities should be integrated into laboratory tasks with appropriate scaffolding](computation-integration-lab-scaffolding.md) — related

@@ -68,3 +68,4 @@ Chi-square analysis of the distance question across demographics. The quote show
 - [Indian grade 9 students show large socioeconomic and gender gaps in correctly ordering celestial sizes, with only 65% answering correctly overall](india-grade9-celestial-size-ordering-gaps.md) — related
 - [Deaf students ordered close celestial bodies more successfully than far celestial bodies after the project](deaf-students-order-close-celestial-bodies-better.md) — related
 - [Access to telescopes and planetariums is limited among Indian secondary students, with large socioeconomic disparities, and most students overestimate how many stars they can see](india-students-astronomy-resource-access-disparities.md) — related
+- [Indian class IX students are highly interested in astronomy but a minority show proficiency in celestial sizes, distances and lunar phases](class-ix-high-interest-low-proficiency-astronomy-concepts.md) — a broader claim this one bears on

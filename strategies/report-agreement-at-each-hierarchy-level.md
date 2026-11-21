@@ -39,6 +39,7 @@ For multi-label coding with large hierarchical codebooks, the article recommends
 ## Related Strategies
 
 - [Use two researchers as independent instruments for interpretation instead of one researcher confirming the other's reliability](two-researchers-independent-interpretive-instruments.md)
+- [Team-Based Efforts to Enhance Reliability (TBEER): constructive intercoder consensus during qualitative analysis](tbeer-team-based-reliability-process.md)
 
 ## Examples
 -

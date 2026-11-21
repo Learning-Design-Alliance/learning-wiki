@@ -60,3 +60,4 @@ Fine-grained analysis of symbolic success rates across the three labeled difficu
 - [Simulated graduation rates decrease monotonically as curricular structural complexity increases](simulation-graduation-rates-decrease-with-structural-complexity.md) — a narrower finding that bears on this claim
 - [AI performance shows no clear trend across degree levels despite increasing question complexity](no-clear-trend-ai-performance-exam-level.md) — reports the opposite
 - [GPT-4 performance degrades on harder and cognitively more complex questions](gpt4-performance-degrades-on-harder-questions.md) — a narrower finding that bears on this claim
+- [LLM grading bias relative to TAs varies with question difficulty: near-zero on trivial and easy questions, mildly stringent on medium, and more generous than TAs on hard questions](llm-grading-bias-varies-by-question-difficulty.md) — related

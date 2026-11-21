@@ -146,3 +146,5 @@ Participants also reported "the lack of emotional connection and dependence on t
 - [Lesson plans contained both appropriate and inappropriate ChatGPT use cases, including reliance on non-existent video links and visual tasks unsuited to text-based ChatGPT](appropriate-inappropriate-chatgpt-use-cases.md) — related
 - [Pre-service teachers expressed concerns about ChatGPT's accuracy (11/29) and students' potential over-dependence (13/29), and proposed remedies of diversified information sources and structured classroom interactions](chatgpt-accuracy-overdependence-concerns-remedies.md) — related
 - [ChatGPT produced incomplete or incorrect solutions for complex DSA topics such as dynamic programming, recursion, and visual representations](chatgpt-dsa-limitations-complex-topics.md) — related
+- [GenAI content generation requires iterative refinement, accurate training material, and pre-processing of image-heavy reference data](genai-content-generation-iterative-refinement-accuracy.md) — related
+- [GPT-2 produces less reliable and often inaccurate text for physics-specific prompts than for general prompts](gpt2-physics-prompts-less-reliable.md) — related

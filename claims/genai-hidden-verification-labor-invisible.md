@@ -72,3 +72,4 @@ Interview theme on hidden productivity costs: P14 must "explain the context repe
 - [Non-expert students exhibit intuitive behaviors towards LLM-based AI systems when prompt engineering](student-intuitive-prompting-behaviors.md) — related
 - [IDs used GenAI as a design partner or personal assistant to streamline the design process](genai-design-partner-streamline-process.md) — related
 - [Faculty described a gradual identity shift from educator–clinician toward service-oriented clinician under repeated exposure to service-oriented metrics](htp-faculty-role-identity-shift-toward-service-provider.md) — related
+- [GenAI content generation requires iterative refinement, accurate training material, and pre-processing of image-heavy reference data](genai-content-generation-iterative-refinement-accuracy.md) — a narrower finding that bears on this claim

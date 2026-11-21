@@ -51,3 +51,4 @@ Benchmark evaluation of three LLMs on 283 student solutions from 119 circuit ana
 - [Llama 3 70B outperforms GPT-4o on completeness and method metrics due to its leniency, but performs significantly worse on the unit metric](llama3-lenient-gpt4o-rigor-tradeoff.md) — related
 - [Sinusoidal steady-state analysis is the most challenging topic for both GPT-4o and Llama 3 70B in homework assessment](sinusoidal-steady-state-hardest-topic-for-llms.md) — related
 - [State-of-the-art multimodal LLMs cannot reliably interpret circuit diagrams and therefore cannot independently solve circuit analysis problems](vlm-cannot-interpret-circuit-diagrams.md) — related
+- [LLM grading performance generally correlates with parameter count, and 4-bit quantization has negligible effect on grading performance](llm-grading-performance-scales-with-parameters.md) — a broader claim this one bears on

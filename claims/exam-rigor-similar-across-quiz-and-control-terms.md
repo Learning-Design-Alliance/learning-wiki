@@ -50,3 +50,4 @@ Bloom's taxonomy analysis of a random 25% sample of exam questions from all six 
 - [Examination questions at one Pakistani agricultural university concentrated at the lower cognitive levels of Bloom's Taxonomy, dominated by comprehension and knowledge](exam-questions-concentrate-lower-bloom-levels.md) — related
 - [Student-authored physics questions mostly require application or analysis, with under 5% at the lowest recall level](student-questions-majority-above-recall-bloom.md) — related
 - [Students in terms with online, open-book preclass reading quizzes earned 4.9% more exam points than control-term students with equivalent non-biology GPA](reading-quizzes-raise-community-college-exam-scores.md) — related
+- [High-utility questions are weakly related to exam-question similarity and Bloom's cognitive depth, suggesting they are not paraphrases of exam questions](high-utility-questions-not-exam-paraphrases.md) — related
