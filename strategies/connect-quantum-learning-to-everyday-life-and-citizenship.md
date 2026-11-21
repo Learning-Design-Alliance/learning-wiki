@@ -48,6 +48,7 @@ Based on the finding that acknowledging technological applications is not enough
 
 - [Use analogies to everyday phenomena when teaching advanced physics concepts to high school students](everyday-analogies-for-advanced-physics.md)
 - [Six didactic proposals for high-school Quantum Physics teaching](six-didactic-proposals-quantum-physics-high-school.md)
+- [Narrow the scope of quantum outreach and make quantum technologies relatable to everyday life](narrow-scope-relatable-quantum-outreach.md)
 
 ## Examples
 -

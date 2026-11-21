@@ -66,3 +66,4 @@ Blind pairwise human study on a domain-stratified subset of 45 TutorBench sessio
 - [Blinded board-certified clinicians prefer the RL-trained agent in 87.6% of side-by-side comparisons for overall clinical impression](residencyrl-clinician-preference-side-by-side.md) — related
 - [Pearson correlations between AI and expert scores are weak (all r < 0.3) and statistically non-significant across all five criteria](ai-expert-pearson-weak-nonsignificant.md) — reports the opposite
 - [Human teachers' preferences for LM-generated worksheets correlate significantly with evaluator LM judgments (r = 0.661), but teachers sometimes cannot distinguish worksheets the LM perceives as different](lm-judgments-align-with-teacher-preferences.md) — related
+- [LLM-derived rubric scores show strong agreement with expert judgments in a field study of middle school students](llm-rubric-scores-agree-with-expert-judgments.md) — related

@@ -59,3 +59,4 @@ Findings on the ChatGPT feedback group in the case study. Students such as John 
 - [Students report heightened autonomy in English learning through self-directed regulation, personalized feedback, and active evaluation of ChatGPT suggestions](chatgpt-autonomy-self-directed-learning.md) — related
 - [Effects of AI-generated test case feedback depend critically on feedback validity](test-case-feedback-effects-depend-on-validity.md) — related
 - [Comparative evaluation of AI output taught students that AI is not infallible and reinforced critical reading](ai-comparative-evaluation-critical-reading.md) — related
+- [Students who provided complete, contextual, conceptual prompts to ChatGPT received more accurate responses and showed greater gains than students who gave incomplete, procedural prompts](conceptual-prompts-better-chatgpt-outcomes.md) — a narrower finding that bears on this claim

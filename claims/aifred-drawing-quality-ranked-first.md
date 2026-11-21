@@ -67,3 +67,4 @@ Inferential tests on the professor rankings: a Friedman test gave χ2 = 57.06, p
 ## Related Claims
 - [AIfred is faster for early image-generation modifications but ChatGPT becomes faster at four modifications, with no overall significant time difference](aifred-image-generation-completion-time.md) — related
 - [ChatGPT-assisted lesson plans for children's STEAM art education received higher blind expert quality ratings than traditional teacher-generated plans (average 21.0 vs 17.0)](chatgpt-assisted-plans-outscore-traditional-art-lesson-plans.md) — related
+- [Blind expert reviewers ranked PAGE-generated personalized content far above the human-authored baseline on personalization relevance and student engagement](page-expert-eval-outperforms-human-baseline.md) — related

@@ -46,4 +46,4 @@ The article argues that mHealth applications should extend rather than substitut
 -
 
 ## Key Sources
-- Ta, A.; Salgin, N.; Demir, M.; Reindel, K. P.; Mehta, R. K.; McDonald, A.; McCord, C.; Sasangohar, F. (2025). Real-Time Stress Monitoring, Detection, and Management in College Students: A Wearable Technology and Machine-Learning Approach. https://www.tamu.edu
+- Ta, A.; Salgin, N.; Demir, M.; Reindel, K. P.; Mehta, R. K.; McDonald, A.; McCord, C.; Sasangohar, F. (2025). Real-Time Stress Monitoring, Detection, and Management in College Students: A Wearable Technology and Machine-Learning Approach. https://www.tamu.edu. [doi:10.48550/arxiv.2505.15974](https://doi.org/10.48550/arxiv.2505.15974)

@@ -54,3 +54,4 @@ This is a background attribution: the article cites research by Fox, Zwickl, and
 - [The article's analysis of a survey of 57 quantum companies finds employer-required skills cluster into three correlated subsets, with the largest (subset A) helping identify a potential quantum engineering curriculum.](quantum-industry-survey-three-skill-subsets.md) — related
 - [Quantum technology systems engineering is a major industrial readiness gap with almost no university programs offering the skill set](qt-systems-engineering-gap.md) — related
 - [Interviews with industry and students identified required competencies and shaped three guiding principles for a QIS undergraduate program](qis-program-interviews-competencies.md) — related
+- [Industry members regard creative problem-solving of complex problems as a first competence for engineering graduates regardless of specialization](industry-values-creative-problem-solving.md) — related

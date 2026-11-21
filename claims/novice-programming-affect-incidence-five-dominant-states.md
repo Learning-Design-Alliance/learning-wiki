@@ -55,3 +55,4 @@ Fine-grained affect incidence analysis of 9696 retrospective affect judgments fr
 - [GPT hint availability did not significantly change the frequency of students' self-reported affective states during programming practice](gpt-hints-no-affect-impact.md) — related
 - [Boredom, confusion, frustration, and engagement are the most detected emotions in sensor-free affect detection, appearing in more than 84% of reviewed works](sensor-free-most-detected-emotions-four.md) — related
 - [Frustration sometimes preceded persistence and sometimes co-occurred with it during debugging](frustration-precedes-cooccurs-persistence.md) — related
+- [Confusion, Curiosity, Frustration, and Anxiety dominate novice programmers' emotional experiences in r/learnprogramming posts](confusion-curiosity-frustration-dominate-informal-programming-posts.md) — related

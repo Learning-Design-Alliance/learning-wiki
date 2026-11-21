@@ -45,6 +45,7 @@ The article proposes a four-part item allocation scheme for learning-oriented qu
 ## Related Strategies
 
 - [Item allocation rules: start easy, increase difficulty with grade, and re-select past incorrect and old material with some probability](item-allocation-rules-difficulty-with-grade.md)
+- [Mix new and previously solved questions in short mobile quizzes using weighted selection favoring less-recent, previously incorrect, and marked items](weighted-quiz-mixing-new-and-revisit-items.md)
 
 ## Examples
 -

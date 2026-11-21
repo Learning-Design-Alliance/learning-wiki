@@ -62,6 +62,7 @@ Generating problems requires learners to analyze the deep structure of word prob
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — reviewing familiar problem structures before posing gives learners raw material to work from
 - [Peer Discussion](peer-discussion.md) — the critique phase where structural awareness is made explicit
 - [Assign students new word problems requiring them to discover their own solution steps and algorithms.](assign-novel-word-problems-self-discovery.md)
+- [Three-category extension framework: optimise, understand, hypothesise](optimise-understand-hypothesise-extensions.md)
 
 ## Examples
 - **Cognitively Guided Instruction classrooms** use problem-posing extensions after children solve story problems, asking them to invent new problems for the same number relationship ([Cognitively Guided Instruction (CGI) for Math](../principles/responsive-teaching.md))

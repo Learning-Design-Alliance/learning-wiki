@@ -63,3 +63,4 @@ Questionnaire item on excitement about the science topics covered, from the same
 - [A sustained five-session outreach programme stimulated self-reported interest in science among 54–64% of sixth-form participants](sustained-outreach-stimulated-interest-science.md) — related
 - [The Einstein-First programme improved students' interest in physics, with female students' interest rising from 50% to nearly match males' initial 80%](einstein-first-female-interest-increase.md) — related
 - [Over 80% of surveyed students reported positive impact of outreach on recognizing connections between physics topics and overall understanding, and 85% on teamwork and networking](outreach-survey-understanding-teamwork-impacts.md) — related
+- [86.4% of students agreed the course motivated them to pursue a STEM career](qpic-course-motivated-stem-career.md) — related

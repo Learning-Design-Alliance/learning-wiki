@@ -58,6 +58,7 @@ The authors recommend that "curriculum developers could create subject-specific 
 - [Use intentional, scenario‐based curriculum design with AI literacy embedded across subjects](scenario-based-ai-literacy-curriculum-design.md)
 - [Embed new curricular content by replacing an existing clerkship activity rather than adding instructional time](replace-existing-clerkship-activity-strategy.md)
 - [Infuse evolutionary content into existing courses and rotations rather than creating new courses](infuse-evolution-into-existing-curricula.md)
+- [Embed quantum computing modules into existing statistical physics courses rather than teaching quantum computing in isolation](embed-qc-in-statistical-physics-courses-strategy.md)
 
 ## Examples
 -

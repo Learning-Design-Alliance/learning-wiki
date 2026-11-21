@@ -52,6 +52,7 @@ Each workshop session lasted approximately 60 minutes and "followed a standardiz
 - [Run in-situ simulation sessions in five stages from pre-briefing to immediate feedback](five-stage-insitu-simulation-session-structure.md)
 - [Hands-on workshop sequence: study an existing model, modify it, then self-direct a personal customization project](ejs-hands-on-model-modification-workshop-strategy.md)
 - [Classroom implementation structure: preparation, introduction, activity, feedback cycle](activity-feedback-cycle-classroom-structure.md)
+- [Run art/science workshops as short scientific presentations followed by hands-on animation activities, refined through participant feedback](astro-animation-workshop-recipe.md)
 
 ## Examples
 -

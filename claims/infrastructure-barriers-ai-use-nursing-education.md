@@ -77,3 +77,4 @@ Interview finding from the concerns subcategory; participants noted that "connec
 - [Free or low-cost robotic telescope access equalises instrumentation access across socioeconomic and physical barriers](robotic-telescope-equity-access.md) — related
 - [Scalability and accessibility gaps persist: software systems struggle to reach under-resourced regions while robot systems face high hardware costs](tutoring-systems-scalability-gaps.md) — related
 - [Technical and infrastructure deficiencies, including unreliable internet, outdated devices, and lack of IT support, hinder consistent digital integration](infrastructure-deficiencies-hinder-digital-integration.md) — possibly the same claim (merge candidate)
+- [Existing Minecraft-in-education research assumes infrastructure and teacher support unavailable in low-resource, multilingual, exam-oriented settings](minecraft-research-assumes-well-resourced-settings.md) — related

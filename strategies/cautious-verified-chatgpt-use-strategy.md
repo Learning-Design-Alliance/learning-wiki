@@ -53,6 +53,8 @@ The article recommends using ChatGPT as a thesis-writing assistant while verifyi
 - [Cross-verify LLM answers using multiple models to reduce the risk of overconfident misinformation](cross-verification-multiple-llm-models.md)
 - [Use ChatGPT as a cited assistant and reference for programming and general tasks, with logical and critical thinking to validate its output](chatgpt-as-cited-assistant-with-critical-validation.md)
 - [Use LLMs to improve and proofread your own writing while keeping your voice, define prompts carefully, and treat all LLM output as a draft to edit critically](llm-assisted-proposal-writing-strategy.md)
+- [Require literature citations on every substantive AI claim to build trust-but-verify habits](ai-claims-with-citations-strategy.md)
+- [Peer review of AI-assisted writing with hallucination-flagging to build awareness of fabricated content](peer-review-hallucination-flagging-strategy.md)
 
 ## Examples
 -

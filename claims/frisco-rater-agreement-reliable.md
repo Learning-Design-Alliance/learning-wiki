@@ -117,3 +117,4 @@ Reliability analysis of essay scoring by three high school physics teachers of 1
 - [Human inter-annotator agreement and dataset recall of 75.5 validate the benchmark's coverage of high-quality Socratic utterances](human-ita-dataset-recall-validation.md) — related
 - [SRL behaviors can be reliably hand-coded from out-of-the-box automated think-aloud transcriptions](whisper-transcripts-srl-coding-feasibility.md) — related
 - [Scaffolded COT prompting brings GPT-3.5 grading agreement with human raters to 70%-80%, comparable to agreement between two human raters](scaffolded-cot-human-level-agreement-gpt35-grading.md) — related
+- [The Evaluation Agent's post-session feedback was rated appropriate in 87% of 60 sampled sessions with substantial inter-expert agreement (κ = 0.76)](evaluation-agent-feedback-validation.md) — related

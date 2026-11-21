@@ -52,3 +52,4 @@ Qualitative comparison of professor interviews and student recitation-quiz respo
 - [Students showed strong and accurate physical intuitions for extreme or special cases across multiple physics problems](strong-accurate-intuitions-extreme-cases.md) — related
 - [Students spontaneously used special case reasoning on the ellipse problem but needed prompting for extreme cases](ellipse-special-case-spontaneous-extreme-prompted.md) — related
 - [Experts consider difficult or uncertain problem areas, needed information, priorities, and information-gathering plans significantly more than novices, while novices more often focus on a potential solution](novice-expert-problem-solving-decision-differences.md) — related
+- [Introductory physics students seldom employ spontaneous analogies when explaining the Morse potential curve in a language suitable for second graders](students-seldom-spontaneous-analogies-second-grader-morse.md) — related

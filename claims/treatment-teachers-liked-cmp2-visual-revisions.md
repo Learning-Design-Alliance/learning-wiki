@@ -48,3 +48,4 @@ Survey of treatment teachers in the RCT (22 of 59 responded), rating the changes
 - [Teacher viewpoints on visuals in the revised and original CMP2 curriculum were generally in line with theory and empirical evidence for the instructional design principles](teacher-viewpoints-align-with-visual-design-principles.md) — related
 - [Treatment teachers viewed math-irrelevant visuals less favorably than control teachers, suggesting use of the revised curriculum and PD shifted views](treatment-teachers-less-favorable-math-irrelevant-visuals.md) — related
 - [Control teachers held generally favorable viewpoints toward the visuals in the original CMP2 books, including math-irrelevant visuals](control-teachers-favorable-original-cmp2-visuals.md) — related
+- [Teachers reported student engagement was strongest for visually appealing, interactive activities aligned with their existing curricula](visual-interactive-activities-engaging.md) — related

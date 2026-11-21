@@ -77,3 +77,4 @@ Pangram 4 detector applied to essays from the same randomized experiment. The ar
 - [Prior genAI use and incentives show no clear effects on later memory retention](genai-no-clear-memory-effect.md) — related
 - [Intervention studies reported larger effect sizes than cross-sectional studies, and studies including more teaching assistants reported larger effects](moderators-intervention-design-teaching-assistants.md) — related
 - [GenAI assistance shows a leveling effect on writing quality for non-native English speaking students](genai-quality-leveling-nnes.md) — a narrower finding that bears on this claim
+- [Essays written after learning with search are flagged for plagiarism significantly more than essays written after learning with an LLM](search-essays-more-plagiarism-flags.md) — related

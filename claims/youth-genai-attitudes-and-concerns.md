@@ -62,3 +62,4 @@ Survey data reported in the learner-gaps section: non-using youth cited "concern
 - [Students express concerns about GenAI, with non-users (never/rarely) significantly more concerned than other users, and concerns uncorrelated with knowledge](genai-concerns-nonusers-differ.md) — related
 - [Students express willingness to integrate GenAI in learning and future careers, and willingness correlates with knowledge and frequency of use](students-willing-to-use-genai-correlates.md) — related
 - [AI literacy and formal AI training remain low among nursing and health-professions students, though attitudes are largely positive](low-ai-literacy-positive-attitudes-health-students.md) — related
+- [Teachers, especially in the sciences, tend to hold a positive attitude toward using ChatGPT in the educational process (as reported in prior research cited by the article)](science-teachers-positive-attitude-chatgpt-reported.md) — related

@@ -79,3 +79,4 @@ Descriptive analysis of the structured reflection instrument (Table 4): AI impro
 - [Focus-group participants preferred creating their own essays while viewing ChatGPT as an initial resource for fundamentals and idea generation](participants-prefer-own-essays-chatgpt-initial-resource.md) — possibly the same claim (merge candidate)
 - [Experts perceived AI-assisted hints as more consistent than human-only hints and reported retaining control over generation](experts-perceived-consistency-and-control.md) — related
 - [Students express growing ownership and confidence in their ethical decision-making when invited to write and revisit AI use policies](ai-policy-ownership-agency.md) — related
+- [Professors held a hierarchy of acceptability for GenAI text processing: granular language tasks seen as legitimate, initial drafting viewed with skepticism](genai-text-processing-acceptability-hierarchy.md) — related

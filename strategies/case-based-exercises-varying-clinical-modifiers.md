@@ -50,6 +50,7 @@ A curricular recommendation the authors derive from the rising share of Type III
 - [Use community hospital clinical clerkships to increase student exposure to common diseases and community-oriented care](community-hospital-clerkships-common-disease-exposure.md)
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
+- [Use AI-handled simulation mechanics to shift class time and assessment toward reflection on parameter choices](ai-simulation-reflection-assessment-strategy.md)
 
 ## Examples
 -

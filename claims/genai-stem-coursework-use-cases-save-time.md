@@ -51,3 +51,4 @@ Survey of 40 STEM students; 34 students (85%) reported using genAI in STEM cours
 - [Students rated ChatGPT highly for completing activities more quickly, among the highest-scoring survey items in both courses](chatgpt-rated-high-for-speed-of-completion.md) — related
 - [Student surveys show widespread AI use, desire for instructor guidance, and 'checking correctness' as a frequent use](student-surveys-ai-use-guidance-checking-correctness.md) — related
 - [College STEM students report high adoption of generative AI tools, predominantly free versions of frontier LLMs](high-student-genai-adoption-free-llms.md) — related
+- [About 20% of students chose not to use AI on the problem, most commonly citing confidence in their own understanding or unfamiliarity with the tool](students-opt-out-of-ai-use.md) — related

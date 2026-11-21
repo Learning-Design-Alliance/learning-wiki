@@ -56,3 +56,4 @@ Post-survey Likert perception measures from the same randomized experiment (N=13
 - [15% of students used an external LLM, with the highest descriptive rate in the Socratic + Full Context condition, mainly citing inadequate guidance](external-llm-use-inadequate-guidance.md) — related
 - [Socratic + No Context produces the highest query volume and Direct + No Context the longest messages](ai-ta-query-volume-and-message-length.md) — related
 - [Socratic feedback is associated with higher task orientation and comprehension monitoring than directive feedback; on feedback regulation it has no main effect, but its effect depends on agent type](socratic-feedback-comprehension-monitoring-task-orientation.md) — related
+- [AI role significantly affects task confidence, perceived AI helpfulness, and ease of interaction, with the Struggling Student rated lowest on all three](ai-role-affects-user-experience-measures.md) — related

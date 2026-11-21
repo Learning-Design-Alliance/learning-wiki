@@ -50,3 +50,4 @@ Zero-shot LLM evaluation of four models on question-level binary correctness pre
 - In system cold-start scenarios, CLST outperformed every baseline KT model across all five datasets, with the largest gains at 8 training students — related
 - Representing exercises by KC name descriptions outperformed ID-based representation when aligning an LLM to knowledge tracing — related
 - [Knowledge tracing performance on tutoring dialogues is relatively low, with a maximum of around 76% AUC, which the authors take to show dialogueKT is a challenging task.](dialogue-kt-performance-is-relatively-low-compared-to-standard-kt.md) — related
+- [Fine-tuned LLaMA NTKT models outperform deep learning KT baselines on the Eedi dataset, exceeding 10 percentage points in AUC over the best baseline](ntkt-outperforms-kt-baselines-edi.md) — related

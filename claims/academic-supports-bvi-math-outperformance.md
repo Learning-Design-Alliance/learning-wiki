@@ -49,3 +49,4 @@ The review reports, citing Giesen et al. (2012), a six-year longitudinal study f
 - [BVI students face material and instructional barriers: late STEM materials, error-laden tactile worksheets, and variable teacher graphic descriptions](bvi-material-instructional-barriers.md) — related
 - [Students of certified teachers outperformed students of under-certified teachers, including TFA teachers, on all three SAT-9 subtests in low-income districts](certified-outperform-undercertified-sat9.md) — related
 - [Vision is not required for developing number sense and math skills in BVI learners](vision-not-required-for-number-sense-bvi.md) — related
+- [Mainstream science education presents systemic barriers to BVI students, including untrained teachers, scarce adapted materials, and omitted practical work, driving underrepresentation in science careers](systemic-barriers-bvi-science-education.md) — related

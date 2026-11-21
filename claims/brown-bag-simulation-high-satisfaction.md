@@ -53,3 +53,4 @@ Postsimulation formative feedback on a 5-point Likert satisfaction scale collect
 - [Interns evaluate the 5-day intensive curriculum very positively, with most endorsing continuation and expansion](bootcamp-positive-evaluation-feedback.md) — related
 - [Residents rate the prognosis curriculum highly acceptable and relevant (mean 4.5 on a 5-point scale)](prognosis-curriculum-high-acceptability-ratings.md) — related
 - [Students rated near-peer lectures and small-group seminars highly on relevance, delivery and tutor knowledge](near-peer-lecture-seminar-feedback-ratings.md) — related
+- [Participants rated the modelling course highly, with over 90% rating sessions highly for satisfaction, engagement, and applicability](high-engagement-feedback-modelling-onboarding-course.md) — related

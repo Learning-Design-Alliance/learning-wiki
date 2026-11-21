@@ -46,3 +46,4 @@ Descriptive report of the SKATING pilot's production workflow: the lecturer reco
 
 ## Related Claims
 - [Pre-recording lectures added little production time once equipment was set up, but moving problem sets online increased grading workload](production-time-and-grading-workload-remote.md) — related
+- [Producing an AI-generated instructional video with the workflow takes roughly 3-4 times less instructor time than recording a human instructional video](aiiv-production-three-to-four-times-faster.md) — related

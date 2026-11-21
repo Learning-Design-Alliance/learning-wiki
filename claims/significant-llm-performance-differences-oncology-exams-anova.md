@@ -73,3 +73,4 @@ Chi-square test on the number of passed exams per model, reported in the Results
 - [GPT-4o achieves the highest overall accuracy on KMLE questions (83.2%), significantly outperforming Claude 3.5 Sonnet and Gemini 1.5 Pro across 2022–2024](gpt4o-highest-kmle-accuracy-83-2.md) — related
 - [Model strengths differ by question type: Gemini 1.5 Pro leads on A1 recall and image-based questions, Claude 3.5 Sonnet on A2 application, and Gemini and GPT-4o on case analysis](llm-strengths-vary-by-srtp-question-type.md) — related
 - [Across three midterms, the four feedback conditions (basic, textbook links, AI feedback, AI + textbook) showed no consistently significant differences in exam performance](no-significant-difference-four-feedback-conditions-practice-exams.md) — related
+- [Prompt Type 2 (model solution only) produced significantly lower consistency than Prompt Types 1 and 3](model-solution-only-prompt-lower-consistency.md) — related

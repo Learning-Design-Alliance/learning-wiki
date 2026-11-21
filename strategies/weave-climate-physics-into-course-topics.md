@@ -52,6 +52,7 @@ Rather than a separate course, climate change is introduced through intersection
 - [Embed GenAI into existing pedagogical strategies instead of undertaking full curriculum redesign](embed-genai-into-existing-pedagogical-strategies.md)
 - [Embed AI literacy across disciplines by identifying intersections with existing content and using case studies, interdisciplinary modules, and collaborative projects](embed-ai-literacy-across-disciplines.md)
 - [Integrate data science as a tool that enhances the existing physics curriculum rather than replacing it](data-science-as-enhancing-tool-not-replacement.md)
+- [Embed quantum computing modules into existing statistical physics courses rather than teaching quantum computing in isolation](embed-qc-in-statistical-physics-courses-strategy.md)
 
 ## Examples
 -

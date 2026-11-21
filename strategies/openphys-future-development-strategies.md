@@ -51,6 +51,7 @@ Based on student feedback and best practices in simulation-based learning, the a
 
 - [Add virtual simulation to the online platform of blended clinical skills courses](virtual-simulation-in-blended-skills-platform.md)
 - [Design and implement VS teaching with simplified interfaces, multimodal feedback, multilingual diverse case libraries, pre-training, and controlled VR session lengths](vs-design-recommendations-strategy.md)
+- [Three paired, modular simulation-based lab activities on measurement uncertainty](pdl-three-lab-activities-strategy.md)
 
 ## Examples
 -

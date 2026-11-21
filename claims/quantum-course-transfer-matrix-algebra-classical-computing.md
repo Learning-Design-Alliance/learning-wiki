@@ -69,3 +69,4 @@ Focus-group report from one three-student group in the pilot course, describing 
 - [More students reported math discomfort in the first half of the spins-first QM semester despite the second half requiring more computationally intensive mathematics](math-discomfort-higher-first-half-semester.md) — related
 - [In the authors' classroom experience, the polarizer experiment promoted better learning of matrix operations and illustrated how abstract mathematics models the real world](polarizer-activity-classroom-experience-report.md) — related
 - [Participants reported being generally more versed in linear algebra and Python whilst being new to quantum computing](participants-more-versed-python-linear-algebra-than-quantum.md) — related
+- [Teaching quantum systems through student-written Python simulations deepened students' understanding of linear algebra and quantum physics, according to educator reports](python-simulation-teaching-deepened-understanding.md) — related

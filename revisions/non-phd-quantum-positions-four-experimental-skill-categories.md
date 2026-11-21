@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/non-phd-quantum-positions-four-experimental-skill-categories.md
+---
+
+# Revision history: [claims/non-phd-quantum-positions-four-experimental-skill-categories](../claims/non-phd-quantum-positions-four-experimental-skill-categories.md)
+
+### 2026-11-21 · ingest · process:wiki-ingest
+Ingested from arxiv-2510.12936 (Experimental Skills for Non-PhD Roles in the Quantum Industry) via eval_harness.py + ingest_extractions.py

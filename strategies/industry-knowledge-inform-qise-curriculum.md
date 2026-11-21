@@ -48,7 +48,8 @@ The article recommends using its role-level and task-level data in QISE educatio
 - [As required quantum expertise increases from proficient to expert, QISE roles become more specialized, and expert hands-on roles demand deep theoretical understanding](../claims/higher-expertise-roles-specialization.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Prioritize discussion of the theory behind quantum hardware in QISE theory courses to prepare students for entry-level industry positions](prioritize-hardware-theory-in-qise-courses-strategy.md)
 
 ## Examples
 -

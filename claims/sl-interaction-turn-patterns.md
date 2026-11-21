@@ -55,3 +55,4 @@ Transcript analysis of recorded SL and face-to-face role-plays counting concepts
 - [Interactive engagement requires both partners' utterances to be primarily constructive and a sufficient degree of turn taking](interactive-requires-constructive-turn-taking.md) — a broader claim this one bears on
 - [The number of conversational turns is more closely associated with children's language skills and language-related brain function than the raw number of words heard, regardless of family income or education.](conversational-turns-predict-language-development.md) — related
 - [Experimental group showed greater fluency in discourse analysis](sct-tblt-fluency-advantage.md) — related
+- [In the pilot data, high-progress and low-progress students had similar numbers of dialogue turns per session, but high-progress students produced longer utterances (15.3 vs 11.5 words per turn)](hp-longer-utterances-similar-turn-counts.md) — related

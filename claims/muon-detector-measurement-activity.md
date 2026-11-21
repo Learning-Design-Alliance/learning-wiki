@@ -49,3 +49,4 @@ Program report on the final part of the particle physics workshop. After an intr
 - [About ten ASP students gained hands-on experience assembling and taking data with a QuarkNet cosmic ray detector and trying Cosmic Watch detectors](asp2022-cosmic-ray-workshop-hands-on.md) — related
 - [Organizers report the ICD works best in groups of 20 or fewer students, with no more than six students sharing one detector for autonomous experimenting](icd-small-groups-work-best.md) — related
 - [Particle-card sorting and marble-collision statistics activities introduced elementary particles and indirect measurement](particle-card-sorting-marble-statistics.md) — related
+- [Early test-session feedback identified measurement issues and informed design improvements](escape-room-test-feedback-improved-design.md) — related

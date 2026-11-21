@@ -44,6 +44,7 @@ The authors recommend concrete design directions for AI-assisted microlearning t
 
 - [Support less digitally savvy learners with targeted digital scaffolding and add collaborative activities to AI-enhanced microlearning](digital-scaffolding-and-peer-interaction-microlearning.md)
 - [Add opportunities for critical comparison of AI outputs to Socratic GenAI activities to enable trust calibration](critical-comparison-for-trust-calibration-strategy.md)
+- [Add contextual framing (historical introduction) before AI-generated narrative gameplay](contextual-framing-ai-generated-narratives.md)
 
 ## Examples
 -

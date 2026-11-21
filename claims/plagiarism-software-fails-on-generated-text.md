@@ -55,3 +55,4 @@ The author's informal check of the GPT-3 essay against two online plagiarism det
 - [AI-text detectors misclassify authentic TOEFL essays by non-native English speakers at a mean false-positive rate of 61.3% across seven detectors, far more often than native-speaker essays](detector-61-3-percent-false-positives-non-native-toefl.md) — related
 - [In a single-institution study, the joint system of Turnitin detection plus faculty judgement formally reported only 54.5 per cent of AI-generated submissions](turnitin-joint-system-54-5-percent-reporting.md) — related
 - [AI essays passed plagiarism detection, scoring 2 ± 1% on Grammarly and 7 ± 2% on TurnitIn](ai-essays-pass-plagiarism-detection.md) — related
+- [Essays written after learning with search are flagged for plagiarism significantly more than essays written after learning with an LLM](search-essays-more-plagiarism-flags.md) — related

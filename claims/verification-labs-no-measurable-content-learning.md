@@ -49,3 +49,4 @@ The article reports, citing its Refs. 1 and 2 (multi-institution and introductor
 - [Pre-lab prediction work improves the lab experience and cooperative groups reduce frustration](pre-lab-prediction-improves-lab-experience.md) — related
 - [Students learn what they are tested on, so physics instruction needs well-defined, measurable learning goals and assessment tools commensurate with those goals](well-defined-learning-goals-physics-assessment.md) — related
 - [Traditional demonstration-and-verification labs do not measurably contribute to conceptual understanding and harm epistemological attitudes](traditional-verification-labs-ineffective.md) — possibly the same claim (merge candidate)
+- [Traditional instructional labs are generally unsuccessful at supporting conceptual learning and negatively impact development of expertlike epistemological attitudes](traditional-labs-fail-conceptual-epistemological-goals.md) — a broader claim this one bears on

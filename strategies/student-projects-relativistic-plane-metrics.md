@@ -41,6 +41,7 @@ The concluding section proposes assignable investigations that deepen understand
 ## Related Strategies
 
 - [Undergraduate project assignment investigating exact calculation of numbers beyond floating point precision in Fortran](arbitrary-precision-undergraduate-project-assignment.md)
+- [Three-category extension framework: optimise, understand, hypothesise](optimise-understand-hypothesise-extensions.md)
 
 ## Examples
 -

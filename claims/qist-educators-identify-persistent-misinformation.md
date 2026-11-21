@@ -51,3 +51,4 @@ Semi-structured think-aloud interviews with five college QIST educators (two wit
 - [Over-simplification of QIST concepts can lead early learners to incorrect mental models, as teleportation demonstrations may suggest material transport](qist-oversimplification-incorrect-mental-models.md) — related
 - [Instructors collectively identify eight sources of quantum misconceptions spanning teaching methods, educational materials, and students](eight-instructor-reported-misconception-sources.md) — related
 - [Bi-stable drawings help show that quantum teleportation transports no object, because the destination identity is present from channel preparation](bi-stable-drawings-teleportation-misconception.md) — related
+- [A key distinction between Category 3 and Category 4 conceptions of quantum teleportation is whether learners assume Bob needs complete knowledge of the teleported state](entanglement-complete-knowledge-assumption-teleportation.md) — related

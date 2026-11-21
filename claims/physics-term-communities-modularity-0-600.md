@@ -68,3 +68,4 @@ Average shortest path length analysis between communities (Fig. 6); the article 
 - [Infomap community structure matches the curriculum's block organization exactly for Mathematics and partially for Physics and the integrated network](infomap-communities-match-curriculum-blocks.md) — related
 - [Module analysis of FCI responses identified 13 student subgroups, with three normative groups differing in accuracy (77%, 73%, 53%) and in conceptual coherence](module-analysis-13-student-groups-fci.md) — related
 - [In small interactive-engagement sections, network density and community counts stayed effectively constant over the semester](small-sections-constant-density-communities.md) — related
+- [Curriculum-similarity network analysis of 31 Nanjing University departments identifies four disciplinary communities with sequentially decreasing degree centrality](four-disciplinary-communities-curriculum-similarity.md) — related

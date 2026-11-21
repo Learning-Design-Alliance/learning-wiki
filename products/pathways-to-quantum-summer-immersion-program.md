@@ -29,4 +29,4 @@ A three-week quantum-information-science summer programme run by George Mason Un
 -
 
 ## Key Sources
-- Simons, J. R., Holincheck, N., Rosenberg, J. L., & Akesson, L. M. (2025). Pathways to Quantum: Fostering High School Student Interest in Quantum Information Science. https://arxiv.org/abs/2508.03838
+- Simons, J. R., Holincheck, N., Rosenberg, J. L., & Akesson, L. M. (2025). Pathways to Quantum: Fostering High School Student Interest in Quantum Information Science. https://arxiv.org/abs/2508.03838. [doi:10.1109/qce65121.2025.20509](https://doi.org/10.1109/qce65121.2025.20509)

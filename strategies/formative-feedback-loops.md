@@ -63,6 +63,7 @@ Formative feedback loops operationalize [Assessment for Learning](../principles/
 - [Retrieval Practice](retrieval-practice-activities.md) — a checkpoint mechanism that both elicits evidence and strengthens memory
 - [Mastery Learning](mastery-learning.md) — loops with an explicit criterion-referenced exit condition
 - [Using Mathspace workflows to provide timely, mastery-oriented feedback on student work](mathspace-mastery-oriented-feedback-workflow.md)
+- [Close the loop by re-aligning teaching units and assessment components using ITU and ISAC evidence within PDCA cycles](tu-sac-realignment-pdca-strategy.md)
 
 ## Examples
 - **Draft–feedback–revision cycles in writing instruction** — Black & Wiliam's review documents large gains when teachers embed comment-based feedback and revision into ordinary classroom work.

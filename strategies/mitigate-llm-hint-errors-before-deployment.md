@@ -53,6 +53,7 @@ The article recommends that educators and system designers not integrate raw LLM
 - [Apply human quality-check supervision before deploying LLM-generated hint content in tutoring systems](human-quality-checks-for-llm-hints.md)
 - [Optimize LLM hint quality through prompt engineering, model fine-tuning, and correlation mining of hint properties](optimize-llm-hints-prompt-engineering-finetuning.md)
 - [Use LLM chatbots as interactive tutors for mechanics concepts while verifying reliability and addressing ethics and bias](llm-chatbot-tutors-mechanics-with-verification-caveats.md)
+- [Use LLMs as neutral mediators in peer learning through bias-mitigated feedback, structured-feedback scaffolding, and rubric-driven peer assessment](llm-peer-learning-mediator-strategy.md)
 
 ## Examples
 -

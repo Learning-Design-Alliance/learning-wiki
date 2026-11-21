@@ -49,3 +49,4 @@ One-way ANCOVA on post-test total Self-Efficacy Scale for English scores, contro
 - [Traditional reading instruction without attention to learning styles yields non-significant gains in reading comprehension and self-efficacy](traditional-efl-instruction-non-significant-gains.md) — related
 - [English reading comprehension achievement correlates moderately and positively with English self-efficacy before and after instruction](reading-comprehension-self-efficacy-moderate-correlation.md) — related
 - [Explicit strategy instruction alone did not significantly improve learners' English self-efficacy.](strategy-instruction-no-significant-effect-on-self-efficacy.md) — related
+- [Using LingoQ for three weeks significantly increased EFL workers' self-efficacy in English skills (9.5% average gain, p < 0.001)](lingoq-self-efficacy-gain-deployment.md) — a narrower finding that bears on this claim

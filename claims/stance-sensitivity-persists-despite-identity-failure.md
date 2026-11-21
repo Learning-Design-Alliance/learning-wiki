@@ -49,3 +49,4 @@ Manipulation checks among 685 AI targets confirmed the stance manipulation: supp
 - [Representational similarity analysis shows identity judgments are organised around subjective impressions, orthogonal to diagnostic cue structure](representational-dissociation-subjective-impressions.md) — related
 - [Minimal human-like cues suffice to trigger automatic social reactions to embodied agents, though the role of visual social cues remains contested](minimal-social-cues-trigger-automatic-social-reactions.md) — related
 - [General-purpose LLMs show sycophancy: AI responses affirmed users substantially more than human responses, increasing trust and reducing willingness to take responsibility](llm-sycophancy-affirmation-trust-risk.md) — related
+- [Groups were randomly assigned to human-only, supportive-AI or contrarian-AI compositions in an individual-group-individual design on a survival-ranking task](three-condition-random-group-assignment-igi-design.md) — related

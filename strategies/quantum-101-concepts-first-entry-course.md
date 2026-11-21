@@ -55,6 +55,7 @@ The article recommends an introductory "Quantum 101" course with minimal math co
 - [Introduce mathematical and physical formalism only after intuitive understanding based on applications has been aroused.](applications-before-formalism-quantum-moocs.md)
 - [Integrate application-oriented QISE content into existing academic pathways, including a quantum applications course for all STEM majors and upskilling certificates](application-oriented-qise-pathways-strategy.md)
 - [Use open-ended research projects on QISE applications to societal challenges (especially medical technologies) as the vehicle for introducing quantum concepts to students without prerequisites](qise-medical-application-projects-strategy.md)
+- [Lower barriers to access through free entry and multilingual content](free-entry-multilingual-exhibition-content.md)
 
 ## Examples
 -

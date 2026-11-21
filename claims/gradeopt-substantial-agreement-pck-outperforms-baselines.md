@@ -55,3 +55,4 @@ Secondary analysis of agreed-on human codes from 268 U.S. middle school mathemat
 - [AI systems perform poorly at identifying Shulman CK, PCK and GPK categories in line-by-line coding](ai-poor-shulman-coding-accuracy.md) — reports the opposite
 - [GPT-3 classified students' open-ended responses about teaching practices with reliability similar to that of human coders](gpt3-coding-reliability-similar-to-humans.md) — related
 - [Multi-agent LLM parsers achieve near-perfect agreement with human experts when evaluating the reliability of LLM-generated SRL scaffolds](multi-agent-llm-reliability-evaluation-near-perfect-agreement.md) — related
+- [LLM-based grading of open-ended geometry explanations shows substantial agreement with teacher judgments (overall agreement 0.866, Cohen's κ = 0.737)](llm-grading-substantial-teacher-agreement-open-ended-geometry.md) — related

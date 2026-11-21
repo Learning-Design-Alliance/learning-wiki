@@ -67,3 +67,4 @@ Authors' interpretation of the questionnaire data: the lowest-ranked items were 
 - [Webinar participants perceive greater freedom of choice than learning-platform participants](webinar-greater-perceived-choice.md) — related
 - [The most valued motivational item was autonomy or freedom of choice of the skills to acquire (M = 8.33)](maes-autonomy-choice-main-motivational-stimulus.md) — related
 - [Students reported above-average interest/enjoyment after playing Quantum Dreams, but did not perceive it as feeling like other good games](imi-scores-quantum-dreams-play-session.md) — related
+- [The RPG condition showed 21–27% higher one-week vocabulary retention than the control, whose retention declined](rpg-higher-one-week-retention-slang.md) — related

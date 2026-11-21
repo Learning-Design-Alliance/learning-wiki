@@ -72,6 +72,8 @@ For curriculum design, the chapter recommends a transdisciplinary approach in wh
 - [Design recommendations for art-science collaboration courses](astro-animation-recommendations-strategy.md)
 - [Integrate hands-on AI project modules directly into core subjects as an intermediate approach between informal and formal AI education](integrate-ai-modules-into-core-subjects.md)
 - [Embed AI tools into disciplinary teaching to develop critical literacies and produce 'maximally intelligent users' rather than uncritical acceptors of AI output.](embed-ai-critical-literacy-disciplinary-context.md)
+- [Embed quantum computing modules into existing statistical physics courses rather than teaching quantum computing in isolation](embed-qc-in-statistical-physics-courses-strategy.md)
+- [Structured cross-disciplinary mechanisms: interdisciplinary laboratories and 'AIGC + discipline' micro-programmes](interdisciplinary-labs-aigc-microprogrammes.md)
 
 ## Examples
 -

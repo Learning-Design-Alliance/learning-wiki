@@ -72,3 +72,4 @@ Effect-size evaluation of the structural model in the 434-teacher PLS-SEM study,
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — the general claim this finding bears on, with the studies behind it
 - [Teacher self-efficacy significantly predicts perceived usefulness and perceived ease of use of GenAI tools](self-efficacy-predicts-usefulness-ease-genai.md) — related
 - [Perceived enjoyment of GenAI tools is positively associated with in-service teachers' attitudes, perceived ease of use and behavioural intention in a Dominican Republic survey](enjoyment-predicts-attitude-ease-intention-genai.md) — related
+- [Design thinking and computational thinking are significant positive predictors of mathematical modelling self-efficacy, with design thinking showing the much larger effect](dt-ct-predict-mmse-pls-sem.md) — related

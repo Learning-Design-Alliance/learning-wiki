@@ -53,3 +53,4 @@ Linear mixed-effects analysis of Experiment II multi-turn conversations (educati
 - [Model family and prompt format moderate the level of simulated ADHD persona expression](model-and-prompt-moderate-persona-expression.md) — related
 - [Scripted conversations with recurring task-relevant prompts nearly eliminate observer-rated persona drift, up to a 97% reduction for high-intensity education personas](scripted-interaction-eliminates-observer-drift.md) — related
 - [Across-session focus gains extend to students with ADHD, though within-session gains do not](focus-coach-gains-extend-adhd-students.md) — related
+- [UDL-transformed CS1 lecture slides raised simulated average scores for dyslexia, ADHD and neurotypical personas relative to control groups](udl-slides-higher-simulated-scores-dyslexia-adhd-neurotypical.md) — related

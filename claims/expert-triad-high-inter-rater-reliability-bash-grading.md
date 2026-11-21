@@ -117,3 +117,4 @@ Inter-rater reliability analysis of the three instructors' independent blind gra
 - [Inter-rater agreement for 3D-LAP coding meets a 75% threshold across disciplines and dimensions](3d-lap-inter-rater-agreement.md) — related
 - [The five markers were inconsistent in their grading, with ICC values near zero and a significant ANOVA](marker-grading-inconsistency-icc-near-zero.md) — reports the opposite
 - [Comparative judgment improves both accuracy and inter-rater reliability over categorical judgment in labeling student open responses](comparative-judgment-improves-accuracy-and-irr.md) — related
+- [The Evaluation Agent's post-session feedback was rated appropriate in 87% of 60 sampled sessions with substantial inter-expert agreement (κ = 0.76)](evaluation-agent-feedback-validation.md) — related

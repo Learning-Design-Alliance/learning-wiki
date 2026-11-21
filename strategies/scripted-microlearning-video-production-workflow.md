@@ -46,6 +46,7 @@ The article prescribes a three-step production process for short videos covering
 - [Pre-planned scripts and teleprompter use to achieve conversational, personalized narration](preplanned-scripts-teleprompter-personalization.md)
 - [Video Based Instruction](video-based-instruction.md)
 - [Storyboard the video before recording, pairing a word-for-word script with representative images](storyboard-before-recording-strategy.md)
+- [Workflow for producing animated video lessons: identify the problem, build animations first, then add narration](manim-animated-video-lesson-workflow.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Igroup Presence Questionnaire after the 3D simulation (Table 1: e.g. involvement
 - [Intervention-group students reported moderate presence in the VSP, highest for spatial presence and lowest for perceived realism](moderate-presence-ipq-vsp.md) — related
 - [RiNeo MR is a proof-of-concept whose effectiveness for learning outcomes has not yet been validated against manikin-based training](rineo-proof-of-concept-effectiveness-untested.md) — related
 - [Participants experience the VR emergency scenarios with a high degree of presence (mean IPQ general presence 6.0 of 7) without differences between experience groups](vr-scenarios-high-presence-ipq.md) — related
+- [In a CAVE-based VR sales simulation, condition had no significant effect on presence (IPQ) or social presence (SPQ)](cave-sales-vr-no-presence-condition-effect.md) — related

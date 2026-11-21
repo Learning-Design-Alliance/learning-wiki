@@ -83,3 +83,4 @@ Descriptive trend analysis shown in Figure 6 for high school graduating classes 
 - [The six-year college graduation rate for CPS graduates enrolling in four-year colleges rose to 50 percent in 2014, 10 points below the national rate](cps-college-graduation-50-percent-2014.md) — related
 - [The CPS four-year college enrollment rate rose from 33 percent in 2006 to 42 percent in 2014, slightly below the national rate](cps-four-year-enrollment-33-to-42-percent.md) — related
 - [Space Explorers graduates matriculate in college as science majors at a rate 500% better than predicted by combined national and Chicago Public Schools statistics](space-explorers-graduates-science-majors.md) — related
+- [Reported DSS outcomes include several students transferring to four-year colleges to complete STEM degrees and professional researchers gaining publications and mentorship experience.](dss-student-transfers-and-researcher-benefits.md) — related

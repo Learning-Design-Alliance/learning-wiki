@@ -49,3 +49,4 @@ Self-report questionnaire study of the Cagliari storytelling activity: 76 studen
 - [MANOVA shows a significant school-type difference: humanities students rated the monologue and poems higher, scientific students rated STEM engagement higher](manova-school-type-difference-monologue-poems.md) — related
 - [High-school students are reported to be able to assimilate modern physics concepts such as gravitational waves and relate them to their daily lives](students-assimilate-modern-physics-concepts.md) — related
 - [Students showed limited motivation to pursue a physics career but wanted to learn more about gravitational-wave physics](motivation-topics-vs-career-pursuit-divergence.md) — related
+- [86.4% of students agreed the course motivated them to pursue a STEM career](qpic-course-motivated-stem-career.md) — related

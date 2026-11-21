@@ -55,3 +55,4 @@ Pre-assessment survey of perceived comfort administered to the 80 participants b
 - [BLS-certified nursing students cannot adequately perform CPR compressions and ventilations at pretest](bls-certified-students-fail-cpr-pretest.md) — related
 - [The large majority of students (93.5%) expressed confidence in their ability to perform BLS maneuvers after the online course](online-bls-self-efficacy-confidence-rate.md) — related
 - [Participants widely accepted the media-supported approach, agreeing the video provided an adequate, explicit and sufficiently explained introduction to BLS skills](msa-high-participant-acceptance.md) — related
+- [98% of P&A respondents agree writing is important for a career, but confidence is lower for papers (78%) and proposals (61%)](pa-community-values-writing-confidence-gap-papers-proposals.md) — related

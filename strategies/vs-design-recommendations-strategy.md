@@ -82,6 +82,7 @@ The review's forward-looking recommendations for VS teaching design: future devi
 - [Future VR-NRP development: add tactile feedback, target rural access, and adapt the environment to CPR and ACLS training](vr-nrp-future-directions-tactile-rural-cpr-acls.md)
 - [Design pediatric procedural preparation with interactivity and real-time feedback rather than passive immersion alone](interactive-feedback-procedural-preparation-strategy.md)
 - [Enhance virtual laboratory platforms with live experiment videos, mobile-friendly versions, and adaptive learning pathways](openphys-future-development-strategies.md)
+- [Design VR sales simulations with supportive context, greater realism, minimized technical disruptions, and balanced cognitive load](cave-sales-simulation-lessons-learned.md)
 
 ## Examples
 -

@@ -142,3 +142,4 @@ Human-LLM agreement for self-efficacy across configurations. Non-mini models out
 - [GenAI-generated driving theory questions show strong model-expert agreement on accuracy and relevancy, with the model slightly outperforming the expert on weighted average](genai-question-accuracy-relevancy-strong-agreement.md) — related
 - [LLM quality metrics do not predict human learning outcomes from explanations](llm-quality-metrics-do-not-predict-human-learning.md) — a narrower finding that bears on this claim
 - [Core problem-statement metrics show only moderate judge agreement, and multi-class metrics (Bloom level, difficulty) perform poorly](problem-statement-metrics-moderate-categorical-poor.md) — a narrower finding that bears on this claim
+- [Expert-rated quality of LLM feedback averages 3.98 on a five-point guidance rubric but varies substantially by item (Q9: 4.55; Q15: 3.33)](feedback-guidance-quality-varies-by-item.md) — related

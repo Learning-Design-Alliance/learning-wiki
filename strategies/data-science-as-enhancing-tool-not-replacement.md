@@ -51,6 +51,7 @@ The article recommends that introducing data science should not displace fundame
 - [Embed resilience and coherence-strengthening interventions into existing curricular structures rather than standalone courses](embed-soc-interventions-existing-frameworks.md)
 - [Integrate simulation technologies with traditional teaching through blended approaches tailored to specific clinical tasks](blended-simulation-integration-orthodontic-curricula.md)
 - [Prioritize teacher-centered AI implementations that enhance rather than replace human expertise](teacher-centered-ai-implementation-priority.md)
+- [Embed quantum computing modules into existing statistical physics courses rather than teaching quantum computing in isolation](embed-qc-in-statistical-physics-courses-strategy.md)
 
 ## Examples
 -

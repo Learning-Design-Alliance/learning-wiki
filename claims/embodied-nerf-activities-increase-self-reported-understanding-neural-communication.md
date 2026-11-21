@@ -72,3 +72,4 @@ Paired-sample t-tests on the same 39-student pre-post survey; 14 outliers identi
 - [The online seminar with preparatory case processing was rated positively for deepening understanding and enabling active participation](online-seminar-case-preparation-positive-ratings.md) — related
 - [Science students reported that embodying scientific concepts through choreography deepened their understanding of those concepts](embodied-choreography-deepened-science-concept-understanding.md) — related
 - [Bodily activation with gestures and poses deepened student teachers' understanding of physics concepts conveyed in a digitized dance-physics performance](bodily-activation-deepened-physics-understanding-digital-performance.md) — related
+- [Many workshop participants could articulate new scientific concepts post-workshop, often grounded in visual or embodied understanding](workshop-learning-gains-embodied-understanding.md) — related

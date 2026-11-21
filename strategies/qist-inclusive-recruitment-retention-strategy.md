@@ -47,6 +47,8 @@ The article's inclusive-practices strategy spans recruitment (early, community-i
 - [Reduce entry barriers for underrepresented learners with cloud computing, payment, and mentorship](reduce-barriers-cloud-computing-payment-mentorship.md)
 - [Provide career development support for diverse pathways, especially non-academic careers, through skills workshops, alumni networks, and funded internships](non-academic-career-pathway-support.md)
 - [Invest in learning communities, mentorship programs, and active learning classrooms to boost belonging and engagement among engineering students](invest-learning-communities-mentorship-active-classrooms.md)
+- [Design early QIST courses for diverse backgrounds: emphasize applications and career pathways, develop confidence with competence, and do not teach them as physics courses](early-qist-course-design-diverse-backgrounds.md)
+- [Increase role models and the visibility of underrepresented QIST researchers, e.g., as invited speakers and on decision-making committees](increase-role-models-visibility-underrepresented-qist.md)
 
 ## Examples
 -

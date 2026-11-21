@@ -56,3 +56,4 @@ Qualitative thematic analysis of open-ended focus group interviews with students
 - [Open-ended feedback themes highlighted course quality, instructor teaching, hands-on experience, and requests for advanced and refresher sessions](pocus-course-feedback-themes.md) — related
 - [In-depth interviews identified clinical relevance, case-based scenarios, models, visualization, and facilitator interaction as key perceived strengths of the simulation-based intervention](interview-themes-simulation-strengths.md) — related
 - [Focus groups identified five themes about riAniMO: realism, team strength, reduced training burden, facilitator feedback, and evaluation transparency](rianimo-focus-group-five-themes.md) — related
+- [Teachers reported student engagement was strongest for visually appealing, interactive activities aligned with their existing curricula](visual-interactive-activities-engaging.md) — a narrower finding that bears on this claim

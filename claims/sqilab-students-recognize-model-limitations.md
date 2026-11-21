@@ -51,3 +51,4 @@ Qualitative analysis of one student's final conclusion from the SQILab sample (F
 - [Prior SQILabs instruction significantly improved the quality of students' follow-up reasoning on comparisons, with no significant difference between the two SQILabs groups](sqilabs-improves-follow-up-reasoning-quality.md) — related
 - [Students entering a physics lab designed for model evaluation may initially frame the lab as verifying a provided model rather than evaluating it](students-frame-labs-as-model-verification.md) — related
 - [A whole class discussion revealing that the model broke down directly challenged Ali and Ben's model-verifying frame](whole-class-discussion-challenges-model-verifying-frame.md) — related
+- [Three pendulum labs designed from the same theoretical perspective diverge for three interacting reasons: institutional expectations, ancillary goals, and differing implications of shared commitments](three-pendulum-labs-diverge-shared-theory.md) — related

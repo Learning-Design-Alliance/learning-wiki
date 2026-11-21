@@ -51,3 +51,4 @@ Systematic review of sensory dimensions across included studies. The review repo
 - [Kinesthetic learners in the experiment class score worse than kinesthetic learners in the non-experiment class](kinesthetic-learners-worse-off-experiment-class.md) — related
 - [Learning styles tend to change with cognitive and mental development, shifting from kinesthetic dominance in elementary school toward visual and multimodal styles at higher levels](learning-styles-change-across-education-levels.md) — related
 - [Students rated dynamic visual, auditory, and still-image resources as contributing more to skill acquisition than kinesthetic simulator practice or self-written notes](multimodal-resource-contribution-rankings.md) — related
+- [Visual learning styles are dominant among surveyed physics students, reaching 53.06% at SHS A](visual-learning-style-dominant-physics-survey.md) — related

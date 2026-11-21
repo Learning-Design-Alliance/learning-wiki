@@ -52,6 +52,7 @@ The Guide treats data collection as "a vital component of diversity efforts" and
 
 - [Investigate stakeholder privacy requirements and define transparent rules for learner-data use](aied-learner-data-privacy-practices.md)
 - [Address ethics and privacy considerations — transparency, security, student control, accountability, and informed consent — at the initial stages of MMLA design in simulation-based training](ethics-privacy-principles-mmla-simulator-design.md)
+- [Protect anonymity in EDI data collection by not reporting or collapsing subgroups with fewer than 5 individuals](collapse-subgroups-below-five-individuals.md)
 
 ## Examples
 -

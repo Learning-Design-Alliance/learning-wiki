@@ -49,3 +49,4 @@ Cost and processing-time analysis for 1,000 lesson completions based on OpenAI A
 - [Claude's few-shot scoring behaved erratically across items: best few-shot model on Item 1 but by far the worst model on Item 2](claude-erratic-few-shot-performance-across-items.md) — reports the opposite
 - [GPT-4o and GPT-4-turbo demonstrate proficiency autograding open responses for low-stakes assessment, with poor GPT-4-turbo performance on some lessons](gpt-llm-autograding-proficiency-low-stakes.md) — related
 - [CoT + few-shot prompting delivers high accuracy with minimal computational overhead, offering an efficient alternative to multi-agent frameworks](cot-few-shot-efficient-alternative.md) — related
+- [Localized pre-LLM computation and caching in COTUTOR reduces LLM prompts by 30% with estimated cost savings of 15% for GPT-4o and 42% for Claude 3.7](cotutor-caching-reduces-llm-prompts-cost.md) — related

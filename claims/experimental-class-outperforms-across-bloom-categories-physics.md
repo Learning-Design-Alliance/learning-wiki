@@ -48,3 +48,4 @@ Post-test PCC scores were categorized by revised Bloom's taxonomy levels. Experi
 - [Experimental class outperforms control class on every individual science process skill indicator](experimental-class-outperforms-every-sps-indicator.md) — related
 - [Experimental class shows higher average SPS observation percentages across all three meetings](experimental-class-higher-sps-observation-across-meetings.md) — related
 - [Student-authored physics questions mostly require application or analysis, with under 5% at the lowest recall level](student-questions-majority-above-recall-bloom.md) — related
+- [Restructured filter evaluation produced score improvements of up to 62.5% over the same students' previous evaluations](restructured-filter-evaluation-score-improvement.md) — related

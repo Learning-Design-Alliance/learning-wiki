@@ -55,3 +55,4 @@ Theoretical argument from the literature review framing cognitive offloading as 
 - [Pedagogically scaffolded generative AI in design thinking education augments rather than replaces human judgment](genai-scaffolded-augments-human-judgment-design-thinking.md) — reports the opposite
 - [Student reflections identify speed and scaffolding as the dominant theme, with verification burden, overreliance worries, and prompt precision also prevalent](reflection-themes-copilot-comment-workflow.md) — related
 - [Repeated reflective prompts may habituate, so scaffolding can replace rather than strengthen the user's own metacognitive habits](reflective-scaffolding-habituation-deskilling.md) — related
+- [Human-AI complementarity: most productive outcomes arise when AI augments rather than automates core educational processes](human-ai-complementarity-augment-not-automate.md) — related

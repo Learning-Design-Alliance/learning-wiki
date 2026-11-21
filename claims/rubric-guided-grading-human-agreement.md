@@ -54,3 +54,4 @@ In the review's descriptive outcome signals for assessment, it reports that "rub
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
 - [Automated essay scoring can achieve high agreement with human raters but faces calibration constraints](aes-high-agreement-calibration-constraint.md) — a narrower finding that bears on this claim
 - [The proposed AES system predicts holistic essay scores through predicted rubric scores, achieving a QWK of 0.78, competitive with cutting-edge AES tools reporting 0.77–0.81](aes-holistic-qwk-078-competitive.md) — related
+- [Expert-graded essay scores increase significantly from pre to post learning with both tools, except flow/organization and spelling/grammar/mechanics](pre-post-gains-both-tools.md) — related

@@ -57,6 +57,7 @@ The article recommends implementing proficiency-based progression (PBP) training
 - [Peer-scored deliberate practice against predefined metrics with benchmark-gated progression in simulation training](peer-scored-metrics-deliberate-practice-benchmark-gated-progression.md)
 - [Structure at-home laparoscopic training as deliberate practice with objective metrics, feedback and proficiency benchmarks](at-home-deliberate-practice-laparoscopic-curriculum.md)
 - [Incorporate camera metrics into existing RAMIS proficiency-based curricula and automated feedback systems](camera-metrics-proficiency-curricula-strategy.md)
+- [Four-module progressive teacher training curriculum totaling 72 hours with optional authoring module](four-module-minecraft-teacher-training-bangladesh.md)
 
 ## Examples
 -

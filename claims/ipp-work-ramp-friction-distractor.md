@@ -53,3 +53,4 @@ Written multiple-choice responses from 131 introductory students on the paired b
 - [Most students could not reason about static friction without a given coefficient of friction in a crate equilibrium question](static-friction-no-resultant-force-low-correct.md) — related
 - [Giving students both isomorphic problems simultaneously did not improve performance or reveal the underlying similarity](ipp-pairing-did-not-add-insight.md) — related
 - [Even with an explicit instruction to make an analogy with a solved tension problem, only 35% of introductory physics students correctly solved the isomorphic friction problem.](explicit-analogy-instruction-insufficient-friction.md) — related
+- [After tutorial or worked-example instruction students solve the identical problem well but transfer poorly to a similar-context problem; adding an on-ramp module improves pre-instruction transfer](on-ramp-modules-improve-transfer-tutorial-sequence.md) — related

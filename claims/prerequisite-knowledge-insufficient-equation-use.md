@@ -49,3 +49,4 @@ Phase II analysis of the modified Q2 with the added instruction to explain reaso
 - [Roughly half of modern physics students and 61% of quantum mechanics students had all prerequisite knowledge for the proton problem, and lacking it predicted incorrect answers](prerequisite-knowledge-gap-qabc.md) — related
 - [Explicitly asking students to show reasoning did not shift students toward a Conceptual Physics frame](explicit-reasoning-prompt-failed-to-shift-frames.md) — related
 - [Students seldom convert conceptual questions into quantitative ones, even when explicitly encouraged by an interviewer](students-avoid-conceptual-to-quantitative-conversion.md) — related
+- [Students' learning outcomes skew toward quantitative proficiency because assessment and practice prioritize equations even when teaching emphasizes concepts, and faculty agree assessment emphasis drives student focus](intent-versus-implementation-assessment-skew.md) — related

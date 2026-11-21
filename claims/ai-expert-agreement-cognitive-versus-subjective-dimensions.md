@@ -82,3 +82,5 @@ Validation subset of 40 dialogues spanning all 8 agents, independently rescored 
 - [Crowd-sourced rubric scoring by trained laypeople produces scores comparable to expert raters at substantially lower cost](crowd-sourced-assessment-comparable-expert-lower-cost.md) — related
 - [Rater agreement for the TEAM Assessment Tool was near or above 0.5 for 8 of 11 questions, with lower agreement on the more subjective composure and morale items](team-tool-rater-agreement-icc.md) — related
 - [Item-level scoring consistency is poor for several subjective rubric items, with ICCs near or below 0.4](poor-item-level-icc-subjective-osce-items.md) — related
+- [Expert-rated quality of LLM feedback averages 3.98 on a five-point guidance rubric but varies substantially by item (Q9: 4.55; Q15: 3.33)](feedback-guidance-quality-varies-by-item.md) — related
+- [LLM-derived rubric scores show strong agreement with expert judgments in a field study of middle school students](llm-rubric-scores-agree-with-expert-judgments.md) — reports the opposite

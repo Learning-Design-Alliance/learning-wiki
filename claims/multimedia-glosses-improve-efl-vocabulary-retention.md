@@ -83,3 +83,4 @@ Delayed measurement two weeks after the posttest with the same 45 participants; 
 - [Multisensory language teaching improves reading retention in young English learners a month after treatment, with a large effect size.](mslt-improves-reading-retention.md) — related
 - [The posttest advantage of literacy-based instruction persisted two weeks later on the delayed posttest (d = .51)](literacy-methods-delayed-posttest-advantage-persists.md) — related
 - [Pronunciation scores rose from pre-test to delayed post-test four weeks after Audio Articulation Method instruction, in one single-group pre-post study](aam-gains-persist-delayed-posttest.md) — related
+- [The RPG condition showed 21–27% higher one-week vocabulary retention than the control, whose retention declined](rpg-higher-one-week-retention-slang.md) — related

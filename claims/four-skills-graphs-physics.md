@@ -51,3 +51,4 @@ The article's framing section enumerates four skills, stating that "Learning to 
 - [Michael's classroom talk shows a commitment to external coherence between intuitive physical explanation and mathematical/graphical representations](external-coherence-classroom-talk.md) — related
 - [Sensorimotor action supports learning when it makes concept-relevant relations easier to process](action-helps-when-concept-relevant-relations-easier.md) — related
 - [Graphing difficulties cluster into graph construction, variable ordering, and data translation categories, with construction difficulties most frequent](graphing-difficulties-three-convention-categories.md) — related
+- [Preliminary informal-education experience indicates weather stations have strong potential for developing students' data collection, graphing, and interpretation skills](weather-station-preliminary-data-skills-potential.md) — related

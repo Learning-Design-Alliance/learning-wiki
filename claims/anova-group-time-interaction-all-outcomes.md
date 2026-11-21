@@ -54,3 +54,4 @@ Repeated-measures ANOVA (Table 4) in the pilot RCT testing group (experimental v
 - [The escape room-based physical activity intervention significantly reduces perceived stress and self-imposed academic pressure in adolescents](escape-room-pa-reduces-stress-and-self-pressure.md) — a narrower finding that bears on this claim
 - [Perceived stress increased significantly across the year for the traditional assessment cohort but not for the progress testing cohort](pt-reduced-stress-traditional-increase.md) — related
 - [GAD-7 and PSS declined significantly over time in both groups, but treatment-by-time interactions were not significant](gad7-pss-time-decline-no-group-interaction.md) — reports the opposite
+- [Over an 8-week pilot, students using the agent showed statistically significant pre-post reductions in stress and anxiety and gains in motivation with large effect sizes (Cohen's d 0.87–1.20)](pilot-psychometric-gains-stress-anxiety-motivation.md) — related

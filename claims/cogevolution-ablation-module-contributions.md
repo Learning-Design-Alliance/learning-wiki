@@ -93,3 +93,5 @@ Ablation experiment (Table 3) with the w/o Evo-Update variant reports Mistake Pr
 - [In the EduAgent framework, removing past cognitive states from memory significantly reduced simulation performance](eduagent-ablation-contextual-memory-critical.md) — related
 - [Adding a memory (forgetting) mechanism slightly decreases simulated learning gains overall yet improves alignment with human results, apparently by letting agents discard incorrect rules](forgetting-mechanism-decreases-gains-improves-alignment.md) — related
 - [Ablations show the trustworthiness module contributes most to performance, and the explanation generator cuts human review time by 41%](ablation-trust-module-largest-contribution.md) — related
+- [Removing the retrieval component sharply reduced instructional accuracy and expressive clarity of generated content](retrieval-augmentation-crucial-for-accuracy-clarity.md) — related
+- [Removing any of TASA's three modules degrades performance, with the forgetting score contributing an average 6.8% drop in normalized learning gain when eliminated](tasa-ablation-module-importance.md) — related

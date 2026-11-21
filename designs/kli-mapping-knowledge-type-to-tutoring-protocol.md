@@ -20,7 +20,7 @@ sources:
 > **Evidence** · no claims cited
 
 ## Description
-The article uses the Knowledge-Learning-Instruction framework to select tutoring protocols within pedagogical prompts, ensuring alignment between the knowledge type being acquired and the tutoring strategy. The KLI framework categorizes three broad classes of learning events: memory and fluency, induction and refinement, and understanding and sense-making, each mapped to evidence-based instructional methods. Code writing is treated as a variable-variable KC best served by induction and refinement, where "One effective approach is the worked example method (Sweller and Cooper, 1985)"; debugging is treated as a principle-type KC best served by prompted self-explanation.
+The article uses the Knowledge-Learning-Instruction framework to select tutoring protocols within pedagogical prompts, ensuring alignment between the knowledge type being acquired and the tutoring strategy. The KLI framework categorizes three broad classes of learning events: memory and fluency, induction and refinement, and understanding and sense-making, each mapped to evidence-based instructional methods. Code writing is treated as a variable-variable KC best served by induction and refinement, where "One effective approach is the worked example method ([Sweller and Cooper, 1985](https://doi.org/10.1207/s1532690xci0201_3))"; debugging is treated as a principle-type KC best served by prompted self-explanation.
 
 ## Design Implications
 

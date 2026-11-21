@@ -13,7 +13,7 @@ generated:
 # Statistical Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 84 claims (57 show a difference, 21 mixed, 6 no difference) · 51 studies (22 causal, 8 design, 6 qualitative, 5 review, 5 associational, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 4 of 51 report an effect size · 84 claims rest on one study
+> **Evidence** · 85 claims (58 show a difference, 21 mixed, 6 no difference) · 52 studies (22 causal, 9 design, 6 qualitative, 5 review, 5 associational, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 4 of 52 report an effect size · 85 claims rest on one study
 
 ## Description
 Statistical reasoning is thinking about uncertainty and building mental models of real-world phenomena from data. The Learner Variability Navigator describes it as a cycle: learners pose a question about data, decide what data they need, gather it, organise, analyse and display it, and then describe what it shows and draw inferences to answer the question. It is assessed with questionnaires on understanding of variation (in chance settings such as dice, and in data and graphs) that pair multiple-choice items with written explanations, and with the data-analysis and probability subtests of diagnostic batteries.
@@ -123,6 +123,7 @@ LVN follows it from grade 3 to grade 10. It builds on [measurement](measurement.
 - [Thematic analysis of participant feedback identified three themes: challenges of audio-based learning, difficulties setting up the software environment, and benefits for data literacy and confidence](../claims/blind-learners-qualitative-themes.md) [+M] — measured as an outcome of the instruction studied
 - [Misinterpretation of My School data by parents and media has produced league tables that distort perceptions of school quality](../claims/my-school-data-misinterpretation-league-tables.md) [+W] — learners who differ on it differ in outcomes
 - [The review reports, citing Tufino and Organtini, that integrating Arduino and smartphones into mechanics labs enhanced students' ownership of experimental design and improved modeling and data interpretation skills](../claims/smartipl-arduino-mechanics-ownership-modeling.md) [+M] — measured as an outcome of the instruction studied
+- [Preliminary informal-education experience indicates weather stations have strong potential for developing students' data collection, graphing, and interpretation skills](../claims/weather-station-preliminary-data-skills-potential.md) [+W] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Statistical Variation Measure** (Watson et al., 2003): Questionnaire examining student understanding of statistical variation, including understanding of basic chance measurement and graph reading, variation in a chance setting (e.g., results of throwing a die), and variation in data and graphs. Students respond to multiple choice questions but also have space to explain their responses which allows for a more comprehensive measure of their understanding.
@@ -137,6 +138,7 @@ LVN follows it from grade 3 to grade 10. It builds on [measurement](measurement.
 ## Examples
 
 - [Conclude the lab with a whole-class graph comparison to launch discussion of systematic errors and experimental design](../strategies/class-graph-discussion-systematic-errors-strategy.md)
+- [Post-measurement data analysis and reflection: graphing in Excel, identifying correlations, and student-proposed improvements](../strategies/weather-station-data-analysis-reflection-strategy.md)
 
 ## Key Sources
 - Digital Promise. *Learner Variability Navigator*: Statistical Reasoning (Building Math 3-6, Building Math 7-10). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/math-3-6/factors/statistical-reasoning-math-3-6/summary). Licensed CC BY-NC 4.0.

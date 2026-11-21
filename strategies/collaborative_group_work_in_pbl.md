@@ -71,6 +71,7 @@ Collaboration improves learning when it is structured — with group goals, indi
 - [Structure positive interdependence through goal, role, and reward interdependence in cooperative base groups](structure-positive-interdependence-goal-role-reward.md)
 - [Structure collaborative tasks intentionally to build social connections, not just content mastery, if cohesiveness is a goal](intentionally-structured-collaboration-for-cohesiveness.md)
 - [Structure cooperative learning tasks in heterogeneous groups to build social cohesion and student-to-student relationships](heterogeneous-cooperative-grouping-hpe-strategy.md)
+- [Offer flexible group and individual work options, structured peer-support opportunities, and low-stakes group activities to build confidence](flexible-group-options-structured-peer-support-low-stakes-start.md)
 
 ## Related Elements
 - [Peer Collaboration](../elements/peer-collaboration.md) — the core element this strategy structures

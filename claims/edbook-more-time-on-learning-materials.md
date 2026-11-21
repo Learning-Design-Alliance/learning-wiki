@@ -51,3 +51,4 @@ Within-subjects user study with 20 programming learners comparing EDBook to equi
 - [Combined prompts produce substantially longer engagement with the text material than relevance prompts alone or no prompts](combined-prompts-longer-text-engagement.md) — a broader claim this one bears on
 - [Both hint conditions took more time-on-task than control, but ChatGPT and human tutor conditions did not differ in session time](hint-conditions-time-on-task.md) — related
 - [Participants found it easier to navigate and search tutorial content in the webpage-plus-ChatGPT condition than in EDBook](webpage-easier-navigation-than-edbook.md) — related
+- [Students learning with LLM-personalized content scored higher on a post-session knowledge assessment than students using standardized materials](page-personalized-content-knowledge-assessment-gain.md) — related

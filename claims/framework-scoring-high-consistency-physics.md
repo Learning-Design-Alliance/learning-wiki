@@ -72,3 +72,4 @@ Three trained content specialists scored anonymized physics exam questions from 
 - [Interview analysis of PhET-simulation scenarios provides validity evidence for every level and sublevel of the blended Math-Sci sensemaking framework](blended-sensemaking-framework-validity-evidence.md) — related
 - [Applying the six-construct AI literacy framework, the teams showed relative literacy levels from high (Concept) to low (Content), with Create low or absent across all teams](genai-literacy-levels-rated-per-team.md) — related
 - [Comparative judgment improves both accuracy and inter-rater reliability over categorical judgment in labeling student open responses](comparative-judgment-improves-accuracy-and-irr.md) — related
+- [LLM-derived rubric scores show strong agreement with expert judgments in a field study of middle school students](llm-rubric-scores-agree-with-expert-judgments.md) — related

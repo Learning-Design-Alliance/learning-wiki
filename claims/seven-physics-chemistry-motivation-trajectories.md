@@ -77,3 +77,4 @@ Latent growth curve analysis preceded the mixture models; curvilinear models fit
 - [Experimental group students' interest in physics and chemistry declined significantly during the first half of the school year while their interest in biology increased](physics-chemistry-interest-decline-biology-increase-mobile-inquiry.md) — related
 - [Adolescents' academic self-concept decreases over 1.5 years in mid-adolescence](asc-declines-over-1-5-years-mid-adolescence.md) — related
 - [Connection to personal interests shaped a participant's engagement with STEM course content in both negative and positive directions](personal-interest-relevance-engagement-autism.md) — related
+- [Although the women developed initial interest in physics in diverse ways, they followed a similar trajectory of declining self-efficacy while their coping strategies differed](shared-declining-trajectory-varied-coping.md) — reports the opposite

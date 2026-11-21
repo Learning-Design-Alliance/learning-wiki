@@ -61,6 +61,7 @@ The review recommends that educators craft assignments incorporating generative 
 - [Require students to justify AI-assisted solutions and compare AI-generated with self-developed code](justify-and-compare-ai-assisted-solutions.md)
 - [Incorporate AI-generated text into teaching: students critique AI essays and write better versions](critique-ai-generated-essays-activity.md)
 - [Design AI-assisted activities that require students to explain reasoning and evaluate AI outputs against disciplinary criteria](ai-assisted-activities-requiring-explanation-and-evaluation.md)
+- [Design GenAI-integrated tasks that cast the tool as an object of critique rather than a solution generator](genai-as-critique-object-task-design.md)
 
 ## Examples
 -

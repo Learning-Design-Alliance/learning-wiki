@@ -47,3 +47,4 @@ Implementation of the metrics on a sample single-section course (Table I). CLO a
 
 ## Related Claims
 - [Under normally distributed marks, CLO attainment is a linear function of questions' average marks and composite student achievement stays constant up to the 70% passing threshold](attainment-linear-achievement-constant-below-threshold.md) — related
+- [Student-performance analysis shows five of six CLOs meet the 80% achievement threshold, with CLO4 at 78% flagged for adjustment](isp-clo-clo4-below-80-percent-threshold.md) — related

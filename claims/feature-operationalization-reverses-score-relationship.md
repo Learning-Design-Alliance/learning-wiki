@@ -69,3 +69,4 @@ The authors conclude from the FCE weight table (e.g., TTR negative, corrected TT
 - [Type-token ratio showed a non-monotonic relationship with predicted difficulty, with both very low and very high lexical diversity increasing predicted text difficulty](ttr-nonmonotonic-difficulty-pattern.md) — related
 - [Systematic linguistic differences exist between demographic groups in PISA text responses, including response length, lexical diversity, and out-of-vocabulary tokens](linguistic-group-differences-pisa-responses.md) — related
 - [Harpin's type-token ratio of the first 100 words indicates vocabulary diversity, but the rate of TTR drop after the first 100 words does not differentiate attainment levels](ttr-first-100-words-indicates-vocabulary-diversity.md) — related
+- [LLM interfaces elicit learning inputs with significantly higher word count and lexical diversity (CTTR) than search interfaces](llm-richer-input-word-count-cttr.md) — related

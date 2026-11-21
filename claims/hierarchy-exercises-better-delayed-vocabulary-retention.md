@@ -67,3 +67,4 @@ Descriptive comparison of immediate and delayed means in both groups. The articl
 - [Grade 5 EFL students doing hierarchy vocabulary exercises scored significantly higher than students doing copying exercises on an immediate vocabulary post-test](hierarchy-exercises-beat-copying-immediate-vocabulary.md) — related
 - [Most individual control-group learners' vocabulary scores declined from post-test to delayed post-test](control-group-individual-sharp-decline-delayed-posttest.md) — related
 - [Vocabulary test scores correlated positively with reading comprehension in both groups, with stronger correlations in the hierarchy group](vocabulary-reading-comprehension-positive-correlation.md) — related
+- [The RPG condition showed 21–27% higher one-week vocabulary retention than the control, whose retention declined](rpg-higher-one-week-retention-slang.md) — related

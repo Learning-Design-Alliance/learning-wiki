@@ -48,3 +48,4 @@ Pooled-data correlation analysis across both experiments, correlating individual
 - [Rated enjoyment of a synopsis predicts readers' willingness to take on a temporal cost (waiting for more book information) in both experiments](enjoyment-predicts-willingness-to-wait.md) — related
 - [Average task enjoyment correlates with trait-based reading motivation (AMRS) but not with reading engagement](task-enjoyment-correlates-with-amrs.md) — related
 - [Higher synopsis enjoyment predicts better comprehension of that synopsis, even controlling for reading ability in Experiment 1](enjoyment-predicts-synopsis-comprehension.md) — related
+- [Misconception reduction was uncorrelated with changes in career motivation and with the number of lectures attended](misconception-reduction-uncorrelated-with-motivation-and-attendance.md) — related

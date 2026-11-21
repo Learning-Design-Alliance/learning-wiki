@@ -55,3 +55,4 @@ Description of the common design of the three Gates-funded pilot interventions, 
 - [Friedman's prediction that training could occur anytime and anywhere has proven only partially true, as most simulation training still depends on dedicated centers with specialized equipment](space-dimension-partially-realized.md) — related
 - [Three proficiency-based pilot programs implemented the design principles differently, with a strong data management system as a common thread](proficiency-pilots-varied-implementation-data-management-common-thread.md) — possibly the same claim (merge candidate)
 - [Students valued desktop VE-based simulation for its accessibility, allowing them to log in anytime and anywhere and to stop and resume sessions](dvsim-accessible-repeatable-practice.md) — related
+- [OBER enabled outcome mastery measurement embedded in the normal recommendation flow, without separate dedicated testing phases](ober-embedded-outcome-measurement.md) — related

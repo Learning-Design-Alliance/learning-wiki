@@ -59,3 +59,4 @@ Authors' interpretation (type e) from the Discussion, not a tested result: the a
 - [Asking students to engage in prior learning before CBL is likely to enhance their confidence to participate](prior-learning-enhances-confidence-cbl.md) — related
 - [The authors interpret the pattern of gains as showing students benefited most from practicing the SVI testing format rather than from gaining knowledge](svi-format-practice-benefited-most.md) — related
 - [Working with ready-made computer models aids clarity and motivation but is largely reproductive](ready-made-models-reproductive-limitation.md) — related
+- [Simulated case studies of NMC2025 use report qualitative learning outcomes in domain content, process skills, and exposure to research knowledge](nmc2025-case-studies-qualitative-outcomes.md) — related

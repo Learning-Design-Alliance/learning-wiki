@@ -52,6 +52,7 @@ A concrete recipe for converting existing lectures into online modules: use prev
 
 - [Build online multimedia lessons with slide-sharing, survey, and video-sharing tools in a three-stage workflow](common-tools-ctml-lesson-workflow.md)
 - [Pre-recorded Instructional Video](pre-recorded_instructional_video.md)
+- [Workflow for producing animated video lessons: identify the problem, build animations first, then add narration](manim-animated-video-lesson-workflow.md)
 
 ## Examples
 -

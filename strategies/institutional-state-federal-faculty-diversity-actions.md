@@ -51,6 +51,7 @@ The report recommends a multi-level action set: institutions should develop spec
 - [State and federal policy recommendations: recruit and prepare more candidates, retain new teachers through early-career mentoring, and improve working conditions](teacher-shortage-policy-recommendations.md)
 - [Leverage QISE program development to promote diversity, equity, and inclusion in engineering](qise-dei-program-recommendations.md)
 - [Recruit and retain underrepresented students in QIST through early outreach, funded research experiences, industry mentorship, and a code of conduct](qist-inclusive-recruitment-retention-strategy.md)
+- [Increase role models and the visibility of underrepresented QIST researchers, e.g., as invited speakers and on decision-making committees](increase-role-models-visibility-underrepresented-qist.md)
 
 ## Examples
 

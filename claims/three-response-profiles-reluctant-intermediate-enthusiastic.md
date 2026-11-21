@@ -68,3 +68,4 @@ Item-level inspection of the reluctant cluster (n = 23) showing lower scores wer
 - [Teachers' post-workshop platform engagement fell into three behavioral profiles, with most teachers showing minimal creation and browsing](three-behavioral-engagement-profiles-ai-agent-creation.md) — related
 - [Cluster analysis of instructors identifies three user groups that differ in several AI literacy dimensions, with the ethics scale providing a clear distinction](three-instructor-user-groups-ethics-distinction.md) — related
 - [Sparse K-Means clustering of FIAS-coded OSTE feedback stations identifies three distinct teaching-behavior profiles among clinical teachers](sparse-kmeans-three-clusters-fias-oste.md) — related
+- [Global competence profiles of the physics instructors concentrate at the Intermediate level, depicting a teaching community in transition](intermediate-profile-concentration-physics-instructors.md) — related

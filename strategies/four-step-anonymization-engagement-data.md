@@ -43,6 +43,7 @@ The anonymization tip sheet defines anonymization as 'removing information that 
 - [Three-level data protection mechanism for AI-SP privacy, informed consent, and legal risk management](ai-sp-three-level-data-protection.md)
 - [Use real family health questions as the driver for intern literature retrieval and response](family-health-questions-drive-learning.md)
 - [Store submissions with student identifiers embedded in regular file paths to enable automated retrieval and iteration](identifier-in-file-path-submission-storage.md)
+- [Protect anonymity in EDI data collection by not reporting or collapsing subgroups with fewer than 5 individuals](collapse-subgroups-below-five-individuals.md)
 
 ## Examples
 -

@@ -40,6 +40,7 @@ The article argues that introducing students to QIST concepts early is critical 
 
 - [Pair traditional quantum computation lecture topics with hands-on activities on real quantum systems](pair-lectures-with-hands-on-quantum-activities.md)
 - [Use visual, computation-based introduction to atoms and molecules to introduce nanotechnology concepts to high-school students](visual-nano-introduction-strategy.md)
+- [Design early QIST courses for diverse backgrounds: emphasize applications and career pathways, develop confidence with competence, and do not teach them as physics courses](early-qist-course-design-diverse-backgrounds.md)
 
 ## Examples
 -

@@ -45,6 +45,7 @@ The practice-integrated pillar recommends that learning tasks end in real-world 
 
 - [Authentic Audiences and Purposes](authentic_audiences_and_purposes.md)
 - [Make-Believe: Problem-Based Learning](make-believe-problem-based_learning.md)
+- [Future course evolution: multimodal integration, agent-based systems, responsible AI, and industry partnerships](future-directions-multimodal-agents-responsible-ai.md)
 
 ## Examples
 -

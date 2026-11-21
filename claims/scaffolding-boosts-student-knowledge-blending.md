@@ -48,3 +48,4 @@ Quantitative distribution of the second sensemaking element (Table 3): six of ei
 - [After working through the tutorial, all eight interviewed students drew correct free body diagrams and Newton's second law equations for a near-transfer three-box problem](post-tutorial-near-far-transfer-success.md) — related
 - [Think-aloud interviews suggest students drawing productive diagrams were engaged in conceptual sense-making and made fewer mistakes when they used their diagrams](interviews-diagram-sense-making.md) — related
 - [Every student solution to the open-ended Gravitron problem used force diagrams while only three of the AI solutions did](students-outpace-ai-in-diagram-representation-use.md) — related
+- [Scaffolded tests that break problems into sub-problems showed smaller learning gains than unscaffolded tests, suggesting scaffolding in assessment can obscure evidence of learning from a tutorial](scaffolded-tests-obscure-learning-evidence.md) — related

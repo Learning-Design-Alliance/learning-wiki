@@ -69,3 +69,4 @@ Abstract-level summary consistent with the tree result: closed reproduction ques
 - [Initial reasoning questions in CBL are associated with high student non-response (61%)](initial-reasoning-questions-high-non-response.md) — related
 - [Follow-up response differed by profession: emergency nursing trainees and paramedics responded significantly more often than medical students](c2c-followup-nonresponse-by-profession.md) — related
 - [Feynman Bot learners elaborated open-ended answers with scenario or case-study evidence, while every passive learner gave short answers without explanations](feynman-bot-open-ended-elaboration.md) — related
+- [Post-feedback conversion of incorrect answers reaches 36.7% overall, highest for closed-ended items (55.1%) and lower for CGT (35.6%) and open-ended (33.9%) items](post-feedback-conversion-rate-by-question-type.md) — related

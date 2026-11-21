@@ -51,3 +51,5 @@ Summary of the qualitative slide-type comparison reported in the results section
 - [Students rate LLM-generated simplified instructions positively, averaging 7.83 on a 1-10 usefulness scale across 42 ratings in a live cybersecurity course](student-feedback-7-83-ocr-llm-instructions.md) — related
 - [Multimodal input consistently improves accuracy but not F1, model size correlates moderately with performance, and reasoning models show mixed results](multimodality-size-reasoning-mixed-effects.md) — a broader claim this one bears on
 - [The pipeline generated grounded questions about complex multimodal diagrams, citing visual evidence](grounded-multimodal-diagram-questions.md) — related
+- [Google Gemini generates accurate, context-sensitive voice scripts for visually rich academic PowerPoint slides from a single-line prompt](gemini-accurate-scripts-visual-slides.md) — related
+- [Multimodal RAG with slide images outperforms text-only slide retrieval for a vision-capable LLM](multimodal-rag-slide-images-outperform-text.md) — related

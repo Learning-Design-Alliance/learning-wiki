@@ -51,3 +51,4 @@ Descriptive program report of 2019 participation in the practice section: 'over 
 - [International Masterclasses reach over 10,000 high school students per year with authentic experiment data and international videoconferences](imc-reaches-10000-students-yearly.md) — possibly the same claim (merge candidate)
 - [International Masterclasses let students worldwide analyze real ATLAS particle collision data, attracting around 13,000 students from around 60 countries annually](masterclasses-real-atlas-data-13000-students.md) — related
 - [Particle-card sorting and marble-collision statistics activities introduced elementary particles and indirect measurement](particle-card-sorting-marble-statistics.md) — related
+- [International Masterclasses let high-school students analyse real experimental data and present results, engaging over 13,000 students annually across 60 countries](ippo-international-masterclasses-real-data-engagement.md) — related

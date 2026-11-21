@@ -56,3 +56,4 @@ Quasi-experimental pre-post study of third graders at two Midwestern public elem
 - [Self-efficacy and performance goal motivation did not change significantly in any of the three groups](no-change-self-efficacy-performance-goal.md) — related
 - [The three teaching methods showed no significant post-test differences on the other five SMTML motivation dimensions](no-between-group-differences-other-motivation-dimensions.md) — related
 - [The experimental group's anxiety control changed significantly from pre- to post-treatment while the control group's did not](anxiety-control-change-within-groups.md) — related
+- [Over an 8-week pilot, students using the agent showed statistically significant pre-post reductions in stress and anxiety and gains in motivation with large effect sizes (Cohen's d 0.87–1.20)](pilot-psychometric-gains-stress-anxiety-motivation.md) — related

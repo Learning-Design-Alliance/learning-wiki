@@ -33,7 +33,7 @@ grain_size: course, program
 # Constructive Alignment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 20 claims (12 for, 7 mixed, 1 against) · 22 studies (6 quant-synthesis, 6 theoretical, 4 causal, 3 associational, 2 review, 1 qualitative), `q1`–`q4` · 10 of 22 report an effect size · 17 claims rest on one study
+> **Evidence** · 22 claims (14 for, 7 mixed, 1 against) · 24 studies (6 quant-synthesis, 6 theoretical, 4 causal, 4 associational, 2 review, 1 qualitative, 1 design), `q1`–`q4` · 10 of 24 report an effect size · 19 claims rest on one study
 
 ## Description and scope
 
@@ -129,6 +129,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](../claims/no-pretest-listening-difference-groups.md) [+W]
 - [TOEFL-materials instruction did not change learners' views toward TBLT](../claims/toefl-instruction-no-view-change.md) [+W]
 - [Assessment drives learning, and assessment tools that probe only algorithmic plug-and-chug procedures eliminate students' incentives to acquire deep understanding](../claims/assessment-drives-learning-algorithmic-tests-undermine-deep-understanding.md) [+W] — attached 2026-11-17 from Chandralekha Singh (2017), which proposed "State measurable learning goals shared with students, spanning all levels of Bloom's taxonomy, and assess with tools commensurate with those goals".
+- [ISAC-to-ITU ratios indicate delivered assessments align with delivered teaching across all CLOs and PLOs](../claims/isac-itu-ratios-confirm-tu-sac-alignment.md) [+W] — attached 2026-11-21 from Derouich (2025), which proposed "Use acceptance bands around alignment ratios to distinguish normal variation from misalignment warranting action".
+- [Students' learning outcomes skew toward quantitative proficiency because assessment and practice prioritize equations even when teaching emphasizes concepts, and faculty agree assessment emphasis drives student focus](../claims/intent-versus-implementation-assessment-skew.md) [+W] — attached 2026-11-21 from Ghimire et al. (2025), which proposed "Explicitly reward all stages of the ASPIRE problem-solving heuristic (Analyze, Plan, Implement, Reflect, Evaluate) so expert-like problem-solving is valued beyond finding and manipulating equations".
 
 ## Illustrative design instance and observation record
 

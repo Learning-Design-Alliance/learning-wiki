@@ -42,6 +42,7 @@ The article proposes extensions for different student levels: students can build
 
 - [Per-solver student exploration exercises that modify or extend the solver to build deeper method understanding](pyro-student-exploration-extensions.md)
 - [Teach performance measurement before parallelism and template-based alternatives](measure-performance-first-strategy.md)
+- [Have students build simulators from scratch instead of using established frameworks that abstract away implementation details](build-simulators-from-scratch-strategy.md)
 
 ## Examples
 -

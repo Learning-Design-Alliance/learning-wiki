@@ -63,3 +63,4 @@ Qualitative thematic analysis of workshop metaphors. Three themes emerged: GenAI
 - [Human relationships are primary means of education, and knowledge of humans' unlearned tendencies is necessary to efficient planning for education in general.](instincts-and-people-as-educational-means-foundation.md) — related
 - [Online feedback is valued by introverted learners for its relational and expressive role, providing a private one-to-one exchange that avoids face-threat](online-feedback-relational-role-introverted-learners.md) — related
 - [Over time CBR workers occupied dual roles of expert and close friend for participants, converging with high 'Building trust' ENACT scores](cbr-workers-dual-roles-expert-and-close-friend.md) — related
+- [Professors framed GenAI as a discussion partner, but observed that students mostly used it for low-level technical tasks rather than Socratic dialogue](genai-discussion-partner-framing-student-gap.md) — related

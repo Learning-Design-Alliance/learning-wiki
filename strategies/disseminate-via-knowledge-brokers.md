@@ -47,6 +47,7 @@ Because classroom teachers rarely seek out research, the report recommends reach
 - [Build a misconceptions inventory from expert-rated written questions and disseminate it among tutors](misconceptions-inventory-for-tutors.md)
 - [Disseminate MGI education and research capabilities through scientific societies and electronic media to enable inclusive participation](society-electronic-media-dissemination-strategy.md)
 - [Use alternative dissemination formats (blogs, plain-language summaries, graphical and video abstracts) to connect education research with practitioners](alternative-dber-dissemination-formats.md)
+- [Spread innovative educational outreach ideas through social media, colleague networks and teacher professional development](spread-outreach-ideas-via-social-media-and-teacher-pd.md)
 
 ## Examples
 -

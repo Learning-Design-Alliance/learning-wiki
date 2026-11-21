@@ -45,6 +45,7 @@ The article recommends that instructors use the two-way communication enabled by
 
 - [Design flipped-classroom videos with sound-image synchronization, short durations, full-body instructor visibility, and opportunities for immediate questions](flipped-video-design-recommendations.md)
 - [Use Learning Assistants to give student groups timely feedback and to surface where students are stuck](la-timely-feedback-and-instructor-communication-strategy.md)
+- [Adapt quantum activity time allocations and materials by grade level, and provide extra resources for harder questions](grade-level-adaptation-quantum-activities.md)
 
 ## Examples
 -

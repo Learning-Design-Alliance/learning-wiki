@@ -51,3 +51,4 @@ The review attributes this to Leslie et al. and related work (refs 4-6): expecta
 - [Theorists report perseverance and endurance matter more for success in theoretical physics than innate brilliance](perseverance-over-brilliance-theory-careers.md) — reports the opposite
 - [Minorities in brilliance-oriented disciplines experience higher levels of imposterism with negative career consequences](imposterism-in-brilliance-disciplines.md) — related
 - [Students perceived barriers to quantum careers including the belief that quantum is only accessible to geniuses, a requirement of advanced education, perceived risk, and lack of women in the field](quantum-career-barriers-genius-perception.md) — a narrower finding that bears on this claim
+- [Educators view the inequitable culture of physics, including brilliance attribution and overconfident self-presentation, as a major barrier that could seep into QIST](physics-culture-barrier-qist-diversity.md) — related

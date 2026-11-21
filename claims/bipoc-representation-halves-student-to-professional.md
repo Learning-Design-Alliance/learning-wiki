@@ -46,4 +46,4 @@ Descriptive comparison across roles shown in Fig. 4; among students 22% identifi
 
 
 ## Related Claims
--
+- [In the 2020 CanPhysCounts national survey, representation of women and gender diverse physicists drops by around 35% between undergraduate students and physics careers, and by almost 60% among BIPOC women and gender diverse physicists](canphyscounts-35-percent-career-drop.md) — related

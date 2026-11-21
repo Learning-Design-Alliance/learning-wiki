@@ -47,6 +47,7 @@ The game extends to quantum cryptography: one student plays Alice, another Bob, 
 - [Follow the demonstration with a qualitative discussion encoding a shared encryption key in measurement outcomes and detecting an eavesdropper via Bell test failure](post-demo-qkd-encryption-discussion.md)
 - [BB84 classroom activity with eavesdropper roles and a security test on part of the key](bb84-classroom-eavesdropping-activity.md)
 - [Debriefing session that reveals Eve and discusses why the setup deviates from ideal BB84](eve-reveal-debriefing-strategy.md)
+- [Demonstrating quantum key distribution (BB84 and E91) with Quantum Dice](quantum-dice-qkd-demonstration-strategy.md)
 
 ## Examples
 -

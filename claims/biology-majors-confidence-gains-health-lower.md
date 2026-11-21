@@ -54,3 +54,4 @@ Pre-post CLASS analysis by major (Table III; n = 33 biology, 22 health, 11 CCS):
 - [Health science majors begin and end the course more novice-like and with lower FCI gains and course grades than biology and other natural science majors](health-science-majors-lower-course-outcomes.md) — related
 - [Students perceiving irrelevance scored significantly less expert-like on the CLASS posttest overall and within almost every item cluster, with moderate effect sizes](class-posttest-significant-relevance-differences.md) — related
 - [Students became more confident explaining science concepts to others after the course, with 9 students increasing in confidence](sciwri-increased-confidence-explaining-science.md) — related
+- [Longitudinal CLASS-Bio administration showed biology majors' attitudes became more expert-like from first to fourth year, from 64.5% to 72% expert-like responses](class-bio-longitudinal-attitude-gain-hansen-birol.md) — related

@@ -47,3 +47,4 @@ Questionnaire study of the intervention group (n = 62 complete responses per ite
 ## Related Claims
 - [Two thirds of e-learning group students reported using the voluntary e-learning platform frequently for practical course preparation](two-thirds-used-elearning-frequently.md) — related
 - [General interest in ORL did not differ significantly between the e-learning and non-e-learning groups](orl-interest-no-group-difference.md) — related
+- [About one third of enrolled students regularly engaged with the course's supportive Moodle activities](moodle-engagement-one-third.md) — related

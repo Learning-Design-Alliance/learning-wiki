@@ -56,3 +56,4 @@ Theoretical argument under the resources framework (Hammer, Elby, Scherr, Redish
 - [Students unfamiliar with many-symbol equations may freeze and try to reduce symbols to numbers rather than parse them as physical quantities](students-freeze-with-many-symbol-equations.md) — a narrower finding that bears on this claim
 - [The author argues numerical estimation in general-education courses should start with examples everyone can relate to, since everyone eats](start-numerical-reasoning-with-relatable-examples.md) — related
 - [Declaring unknown physical quantities as symbolic variables in Sage promotes development of metacognitive skills](sage-symbolic-variables-metacognition.md) — related
+- [Some students reported frustration and confusion with ChatGPT due to misinterpreted input, unfamiliar equation formats, and skipped solution steps](student-frustrations-with-chatgpt.md) — related

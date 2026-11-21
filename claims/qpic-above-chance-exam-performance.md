@@ -48,3 +48,4 @@ One-sample t-test on the final quantum exam scores of the 54-participant QPic co
 ## Related Claims
 - [82% of high-school participants passed the QPic end-of-training exam and 48% achieved a distinction, conditional on canary and sentinel questions](qpic-exam-pass-distinction-rates.md) — related
 - [Final-year medical students answer only about half of basic medical-statistics questions correctly, little above the 25% chance level](students-half-correct-quick-risk-test-pretest.md) — related
+- [High school students without advanced mathematical prerequisites passed a graduate-level quantum exam after an eight-week QPic course, with 82% passing and 48% earning distinction](qpic-high-schoolers-82-percent-pass-graduate-exam.md) — a broader claim this one bears on

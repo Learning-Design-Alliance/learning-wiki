@@ -69,3 +69,5 @@ The article's summary of the co-construction analysis against a guessing baselin
 - [A large fraction of group responses was retained: about 80% of individual responses two weeks later matched the pair's group responses.](peer-group-responses-retained-two-weeks.md) — related
 - [Students in one uncontrolled pre-test-to-post-test study: groups in which no member answered the ICT correctly all answered the GCT correctly 31% of the time](qm-clicker-co-construction-31-percent.md) — related
 - [In an upper-level QM course, student performance on clicker questions rose significantly from ICT to GCT in one single-group pre-post study](qm-clicker-gct-improvement-over-ict.md) — related
+- [Co-construction of knowledge is rare in unguided peer groups: correct consensus when neither member was correct individually occurred in only 19% of eligible cases](co-construction-rare-19-percent-graduate-csem.md) — related
+- [Knowledge construction occurred in 93% of eligible cases and co-construction in 72% of eligible cases across MCS questions during unguided peer collaboration](construction-co-construction-rates-ta-mcs.md) — related

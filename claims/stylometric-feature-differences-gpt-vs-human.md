@@ -51,3 +51,4 @@ Paired t-tests and point-biserial correlations on document-level median feature 
 - [Humanization works by systematically suppressing detector-salient surface cues — long-token ratio, AWL density, and lexical diversity — rather than fragmenting syntax](humanization-suppresses-detector-salient-cues.md) — related
 - [Type-token ratio showed a non-monotonic relationship with predicted difficulty, with both very low and very high lexical diversity increasing predicted text difficulty](ttr-nonmonotonic-difficulty-pattern.md) — related
 - [Elevated detector scores track long-token and Academic Word List density, with numeric and non-alphabetic token ratios correlating negatively](detector-scores-track-long-token-and-awl-density.md) — related
+- [LLM interfaces elicit learning inputs with significantly higher word count and lexical diversity (CTTR) than search interfaces](llm-richer-input-word-count-cttr.md) — related

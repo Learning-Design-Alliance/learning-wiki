@@ -53,3 +53,4 @@ The authors' analytical argument: because verification labs aim to confirm previ
 - [Verification labs impose high cognitive load while enhanced lecture demonstrations impose much lower cognitive load](verification-labs-high-cognitive-load.md) — related
 - [Authoritative science teaching fosters the mistaken idea that truth is easy to arrive at and self-evident](authoritative-teaching-hinders-enquiry.md) — related
 - [Students' astronomical misconceptions persist and they revert to them unless the alternative ideas are directly confronted while teaching](astronomy-misconceptions-persist-unless-confronted.md) — related
+- [Traditional instructional labs are generally unsuccessful at supporting conceptual learning and negatively impact development of expertlike epistemological attitudes](traditional-labs-fail-conceptual-epistemological-goals.md) — a broader claim this one bears on

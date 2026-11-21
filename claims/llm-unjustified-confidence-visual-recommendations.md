@@ -62,3 +62,4 @@ In Student C's chat log debugging the probe-setting problem (P6) with an unknown
 - [Confidence testing diagnoses misconceptions: two post-test questions showed negative confidence-score correlations](rci-confidence-misconception-diagnosis.md) — related
 - [Student pairs’ component replacements followed an order pattern: all pairs replaced the 100 Ω resistor, all-but-one replaced the faulty op-amp, and the resistor was always replaced before the op-amp, mostly during problem formulation.](repair-order-resistor-before-op-amp.md) — related
 - [Photodiodes and op-amps are common apparatus in optics and electronics labs, making them candidate assessment contexts](photodiodes-op-amps-common-contexts.md) — related
+- [The customized ChatGPT can accurately process graphical information when images are submitted directly through the interface](custom-gpt-direct-image-submission-accurate.md) — related

@@ -53,3 +53,4 @@ RCT selectivity outcome (Exhibit 8; 2,336 Find the Fit vs. 2,107 regular advisin
 - [Find the Fit led Upward Bound students to apply to more-selective colleges](find-the-fit-led-students-to-apply-to-more-selective-colleges.md) — related
 - [Find the Fit increased the share of Upward Bound students who applied to four or more colleges](find-the-fit-increased-four-or-more-college-applications.md) — related
 - [Out-of-class assignments shift specific grade proportions upward: the A proportion rises from 16.9% to 24.2% while the D proportion falls from 15.5% to 7.5%](grade-proportion-shifts-a-and-d.md) — related
+- [Applicant-to-seat competition moderates whether quota-track differences appear, with Physics least and Biology most competitive](applicant-seat-ratio-moderates-track-differences.md) — related

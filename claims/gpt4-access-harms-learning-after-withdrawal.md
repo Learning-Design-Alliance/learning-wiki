@@ -314,3 +314,4 @@ Every entry this page had was a second-hand report of one trial (Bastani et al.,
 - [GPT-3.5-generated personalized hints for programming assignments improved task-solving but students showed lower success rates without hints, indicating potential reliance](gpt-hints-programming-reliance.md) — related
 - [In a within-subjects study (N=24), learners using DBox achieved significantly higher correctness scores on unassisted test problems than learners using freely chosen baseline tools](dbox-higher-test-correctness-than-baseline.md) — reports the opposite
 - [Pretesting before accessing ChatGPT significantly improves final test performance compared with immediate AI access in a structured statistics task](pretest-before-chatgpt-improves-final-test.md) — related
+- [Students who engaged with ChatGPT during a physics problem showed higher learning gains than students who did not use AI](chatgpt-users-higher-physics-gains.md) — reports the opposite

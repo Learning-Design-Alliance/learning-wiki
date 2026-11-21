@@ -49,3 +49,4 @@ Survey finding from the GSFC Visitor Center presentation and a MICA public outre
 - [NEA-funded evaluation finds presenting astronomy via animation highly attractive to audiences, but specific science learning benefits from an additional scientific presentation alongside the screening](astro-animation-screening-attractive-science-learning-needs-support.md) — related
 - [Screening animations alone may raise scientific awareness, but additional context is essential for science learning](animation-alone-insufficient-context-needed.md) — related
 - [MICA astro-animation artwork has been used for science outreach to a greater extent than SAIC art-science coursework](mica-saic-outreach-use-comparison.md) — related
+- [Presenting astronomy via animation is highly attractive to a range of audiences, though additional scientific material is valuable for science learning](astro-animation-attractive-to-audiences.md) — related

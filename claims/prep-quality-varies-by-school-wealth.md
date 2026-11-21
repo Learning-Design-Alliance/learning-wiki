@@ -55,3 +55,4 @@ A second-hand finding in section 3 of the brief, attributed in endnote 19 to a L
 - [Mentoring and coaching programs are associated with stronger principal practices, higher teacher ratings, and better student outcomes](principal-mentoring-coaching-improves-practice.md) — related
 - [In a large California study, principals' preparation quality and professional development access predicted teacher retention and student achievement gains](california-principal-preparation-pd-outcomes.md) — related
 - [District support for principals’ continuous improvement varies by school poverty and racial composition](district-support-varies-school-characteristics.md) — related
+- [Successful writing preparation in P&A often depends on K-12 foundations, mentor/institution choice, or self-direction, creating inequality](reliance-on-background-creates-writing-education-inequality.md) — related

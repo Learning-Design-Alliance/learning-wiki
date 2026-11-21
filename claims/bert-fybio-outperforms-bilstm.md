@@ -49,3 +49,4 @@ Model comparison (Table 5) of BERT-FYBIO against a five-layer Bi-LSTM architectu
 - [Fine-tuned BERT outperforms FFNN and LSTM deep learning architectures for classifying segments of written reflections, with weighted F1 average of .82](bert-outperforms-ffnn-lstm-reflective-writing-classification.md) — a broader claim this one bears on
 - [BERT was the best unimodal text classifier for Key Stage classification with an F1 score of 0.75](bert-best-unimodal-f1-075.md) — related
 - [Most student posts in the emoji-annotated biology course contained at least one emoji, with #question and #i-think used most often](emoji-posts-majority-self-report.md) — related
+- [The multimodal BiLSTM fusion model outperformed text-only BERT and prosody-only SVM baselines across accuracy, F1, and Cohen's Kappa](multimodal-fusion-outperforms-unimodal-baselines.md) — related

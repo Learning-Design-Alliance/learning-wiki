@@ -50,3 +50,4 @@ Thematic analysis (NVIVO 12 Pro) of 12 semi-structured interviews and 12 lesson 
 - [Advanced EFL learners reported positive perceptions of learning formulaic sequences through TV series, valuing visual context](positive-learner-perceptions-fs-tv-series.md) — related
 - [Student questionnaire responses confirm the mismatch, with students reporting that integral listening-speaking teaching rarely occurs](student-questionnaire-confirms-integral-teaching-mismatch.md) — related
 - [Language features, listening-material features, and listening-phase implementation predict integral teaching practice, while instructional techniques was removed as a weak predictor](themes-predict-integral-listening-speaking-practice.md) — related
+- [Physics teachers at the surveyed schools rely on static, non-interactive media and have not widely adopted interactive multimedia](static-media-dominance-teacher-barriers.md) — related

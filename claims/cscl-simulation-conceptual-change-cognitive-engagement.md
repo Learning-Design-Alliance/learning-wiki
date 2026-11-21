@@ -82,3 +82,4 @@ Qualitative case-study analysis of conversational interactions of 7 dyads workin
 - [Students can conduct inquiry learning of science using teacher-created computer simulations, with more ambitious tasks including students creating and remixing their own simulations as representations of their understanding](ejs-simulations-support-inquiry-learning.md) — related
 - [Open play time with an interactive simulation supports the teacher in leading student-centered, inquiry-based classroom discourse](open-play-sim-time-supports-inquiry.md) — related
 - [Reading-play recollection was split: just over half of participants recalled the play or a concept while the rest recalled nothing](reading-play-recollection-split.md) — related
+- [Interactive simulations improve conceptual understanding by up to 30-40% compared with traditional instruction, per research the paper cites](interactive-simulations-30-40-faster-mastery-cited.md) — related

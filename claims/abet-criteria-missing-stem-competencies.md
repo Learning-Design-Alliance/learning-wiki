@@ -49,3 +49,5 @@ Document comparison of the study's 52 important STEM descriptors against the ele
 - [Nine skills, four knowledge types, and four work activities are relatively more important for STEM than non-STEM occupations (effect size r > 0.3)](stem-vs-nonstem-effect-size-descriptors.md) — related
 - [The five most important work activities for STEM workers concern obtaining, deciding about, and updating information and knowledge](top-stem-work-activities-information.md) — related
 - [MÜDEK-accredited computer engineering programs' curricula include mobile technologies, parallel programming and expert systems, and commonly start instruction with Java](mudek-programs-curricula-java-mobile-parallel.md) — related
+- [Industry members perceive that international accreditation such as ABET raises education quality by aligning programs with international standards](accreditation-perceived-quality-alignment.md) — related
+- [The competencies industry members require from graduates align with the student outcomes suggested by ABET accreditation](industry-competencies-align-abet-outcomes.md) — related

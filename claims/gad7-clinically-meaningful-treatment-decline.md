@@ -46,3 +46,4 @@ Modeled GAD-7 trajectories from the 12-week trial; the article reports this as a
 
 ## Related Claims
 - [GAD-7 and PSS declined significantly over time in both groups, but treatment-by-time interactions were not significant](gad7-pss-time-decline-no-group-interaction.md) — reports the opposite
+- [Over an 8-week pilot, students using the agent showed statistically significant pre-post reductions in stress and anxiety and gains in motivation with large effect sizes (Cohen's d 0.87–1.20)](pilot-psychometric-gains-stress-anxiety-motivation.md) — related

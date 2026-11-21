@@ -49,3 +49,4 @@ Expert judgment stage: Teguh Suharto summarised questionnaire and interview resu
 - [Primary school students aged 9–12 perceive a sense of agency—choice over content, personalization, self-directed performance, and task completion—as a core element of fun in learning](agency-student-perceived-fun-element-primary.md) — related
 - [Students perceive manageable challenge matched to their skills, with a sense of accomplishment, as an intrinsically rewarding element of fun in formal learning](challenge-accomplishment-fun-primary.md) — related
 - [Water Module students found the active, integrative teaching style stimulating for independent and critical thinking despite initial discomfort](water-module-active-learning-reception.md) — related
+- [Hands-on exhibition activities based on early animation forms (flipbooks, zoetropes, phenakistoscopes) best met criteria of being short, simple, and fun](early-animation-forms-accessible-activities.md) — related

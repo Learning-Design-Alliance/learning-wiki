@@ -50,6 +50,7 @@ The article implemented targeted improvements based on student feedback, which "
 - [Iteratively refine teaching modules using learner feedback and expert review each course block](iterative-module-refinement-learner-expert-feedback.md)
 - [Refine hybrid BOPPPS structures by stressing course interconnections, clearer online instructions, and students-led summary while reducing self-learning burden](hboppps-refinement-strategy.md)
 - [Propose hybrid experiential learning combining virtual and physical laboratories to bridge theory and practice in quantum education](hybrid-virtual-physical-lab-strategy.md)
+- [Use C++ safety interlocks with AI-assistant alerts to enforce HV safety protocols in virtual labs](safety-interlocks-ai-alerts-virtual-hv-training.md)
 
 ## Examples
 -

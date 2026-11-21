@@ -69,3 +69,5 @@ Task-completion observation for the Forward Euler solver task in both ThaiPASS'1
 - [Students using LEO Works analyse real satellite data at a close to professional standard and produce colour images and spectral-index maps](students-analyse-real-satellite-data-professional-standard.md) — related
 - [Efficacy of colour imaging as an astronomy engagement gateway remains largely unvalidated](colour-imaging-efficacy-unvalidated.md) — related
 - [The one-hour cluster activity often took two class sessions with frequent data science scaffolding](one-hour-activity-often-took-two-sessions.md) — related
+- [A three-day summer school training BVI high school students in command line, LaTeX and Python led all three participants to integrate into university science courses](bvi-summer-school-tool-training-integration.md) — related
+- [DSS student researchers successfully analyzed large volumes of real astronomical data, including 150 data sets and, in project 1, 250 GB of Chandra observations covering 800 individual sources.](dss-students-analyzed-150-datasets-800-sources.md) — related

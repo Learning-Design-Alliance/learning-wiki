@@ -47,3 +47,4 @@ Thematic analysis of Study 1 chat logs and post-interaction student responses by
 ## Related Claims
 - [An LLM debugging assistant correctly interprets brief, informal natural-language prompts describing circuits](llm-handles-natural-language-circuit-prompts.md) — related
 - [Adolescent students' stated pre-chat intentions with an AI math tutor tilt strongly toward scaffolded support rather than answer offloading](forethought-intentions-learning-oriented-genai-tutor.md) — related
+- [Qualitative SCAT analysis of 26+ GAMER PAT gameplay chat logs identified an emergent four-phase scaffolding pattern: question posing, meta-perspective, structuring, and recursive reflection](gamer-pat-four-phase-scaffolding-pattern.md) — related

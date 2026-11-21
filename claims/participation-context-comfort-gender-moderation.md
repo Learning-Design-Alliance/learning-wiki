@@ -48,3 +48,4 @@ Study III linear mixed-effects model with model selection on the adapted Micari 
 ## Related Claims
 - [Cisgender men speak more during small-group or whole-class discussions, reinforcing perceptions of greater competence in STEM.](men-speak-more-discussions-competence-perceptions.md) — related
 - [Male and female subjects responded differently, confounding interpretation](sex-differences-confound-attitude-change.md) — related
+- [A greater percentage of women than men typically worked in groups, and during the pandemic women working in groups increased to 66% while men decreased to 46%](gender-composition-twa-twg-shifted-during-covid.md) — related

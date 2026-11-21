@@ -60,3 +60,4 @@ Automated evaluation of eight prompting configurations for two proprietary LLMs 
 - [Data scarcity and long-form generation remain bottlenecks: on Prompt 8 prompting outperforms SFT and GRPO](data-scarcity-and-length-bottleneck-prompt-8.md) — related
 - [In one essay-feedback system, fine-tuned models produced no usable deep-level feedback output, so only directly prompted LLMs were evaluated; the authors suggest prompting may be more effective than supervised fine-tuning for this task](sft-less-effective-than-prompting-for-feedback-generation.md) — related
 - [Rubric-aligned NLP features for evidence and organization outperform proxy-feature and coherence baselines and generalize across datasets](rubric-aligned-nlp-features-outperform-proxies.md) — related
+- [Rubric-wise achievement was strongest for conceptual knowledge and structured application and weakest for proactive use of engineering tools](rubric5-proactive-tool-use-weakest-area.md) — related

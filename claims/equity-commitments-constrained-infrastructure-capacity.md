@@ -71,3 +71,4 @@ Focus group finding: virtually every participant stressed equity, but campuses l
 - [No evaluation of use, comprehensibility or effectiveness of RehAmpTT has been conducted in the main target group](rehamptt-no-evaluation-conducted.md) — a narrower finding that bears on this claim
 - [Funded fellowships secured protected time and enabled accreditation, but were seen as a partial solution to substance use disorders](funding-protected-time-partial-solution.md) — related
 - [The representation matters facilitator persona needs autonomy support: funding, institutional buy-in, and infrastructure for informal physics](tracy-representation-matters-needs.md) — related
+- [Course implementation faced four challenge types, each addressed with targeted pedagogical solutions](implementation-challenges-heterogeneous-backgrounds-resources.md) — related

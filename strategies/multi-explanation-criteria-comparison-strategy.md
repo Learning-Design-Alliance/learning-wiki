@@ -47,7 +47,8 @@ A two-phase activity for teacher preparation: present several explanations of th
 - [For themselves, beginning physics teachers unanimously valued consistency and relative completeness of an explanation over its simplicity and mnemonic value](../claims/sts-value-consistency-for-themselves.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Offer several competing explanations for an observed phenomenon and have pupils evaluate and verify which is best supported by evidence](competing-explanations-evaluation-strategy.md)
 
 ## Examples
 -

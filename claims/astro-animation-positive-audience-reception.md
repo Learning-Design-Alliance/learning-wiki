@@ -48,3 +48,4 @@ Mixed-methods evaluation of the MICA astro-animation program using surveys of sc
 - [Audiences showed more enthusiasm when animations were presented jointly by animators and scientists](joint-animator-scientist-presentation-enthusiasm.md) — related
 - [NEA-funded evaluation finds presenting astronomy via animation highly attractive to audiences, but specific science learning benefits from an additional scientific presentation alongside the screening](astro-animation-screening-attractive-science-learning-needs-support.md) — a broader claim this one bears on
 - [MICA astro-animation artwork has been used for science outreach to a greater extent than SAIC art-science coursework](mica-saic-outreach-use-comparison.md) — related
+- [Presenting astronomy via animation is highly attractive to a range of audiences, though additional scientific material is valuable for science learning](astro-animation-attractive-to-audiences.md) — a broader claim this one bears on

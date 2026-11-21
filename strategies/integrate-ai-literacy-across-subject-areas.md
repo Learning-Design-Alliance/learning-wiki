@@ -59,6 +59,7 @@ The report recommends that educators 'integrate AI literacy within the topics th
 - [Integrate CT into existing subjects such as sciences, maths and English when a standalone CS course is not feasible](integrate-ct-into-existing-subjects.md)
 - [Integrate AI into core curricula by using data that students already produce in subject activities to teach data-related AI competencies](student-produced-data-ai-integration-strategy.md)
 - [Integrate hands-on AI project modules directly into core subjects as an intermediate approach between informal and formal AI education](integrate-ai-modules-into-core-subjects.md)
+- [Embed quantum computing modules into existing statistical physics courses rather than teaching quantum computing in isolation](embed-qc-in-statistical-physics-courses-strategy.md)
 
 ## Examples
 -

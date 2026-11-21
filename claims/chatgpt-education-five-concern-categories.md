@@ -55,3 +55,4 @@ Discourse analysis of 16,011 original negative-sentiment tweets, clustered by BE
 - [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — related
 - [Twitter sentiment toward ChatGPT in education was generally positive during December 2022 to March 2023](chatgpt-education-positive-sentiment.md) — related
 - [NLP topic modeling (BERTopic) cross-validates human coding of syllabi but misses rare topics, creating an equity-relevant bias](bertopic-cross-validation-human-coding-syllabi-bias-rare-topics.md) — related
+- [Novice programmers' expressed support needs fall into five categories, with topic explanation/resource recommendation (653) and technical support (615) most frequent](five-support-need-categories-novice-programmers.md) — related

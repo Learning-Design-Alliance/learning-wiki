@@ -42,6 +42,7 @@ The review identifies the conditions under which agreement with human grades was
 - [Include an explicit rubric in GenAI feedback prompts, even in Zero-shot conditions](include-explicit-rubric-in-genai-feedback-prompts.md)
 - [Engineer LLM grading prompts with detailed, domain-specific evaluation criteria and band descriptors](prompt-llm-grading-with-detailed-band-descriptors.md)
 - [Use LLM grading with an instructor's model answer and rubric for formative assessment of writing in large science classes](llm-formative-grading-model-answer-rubric.md)
+- [Build replaceable pipelines around robust APIs or mid-sized open models instead of training bespoke foundation models](replaceable-pipelines-mid-sized-open-models.md)
 
 ## Examples
 -

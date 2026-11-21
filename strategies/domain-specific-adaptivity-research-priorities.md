@@ -58,6 +58,7 @@ Drawing on the issue's discussion paper, the editorial sets priorities for futur
 - [Districts should build community-shared visions, evaluation infrastructure, and policies for procuring and using AI edtech](district-ai-policy-evaluation-infrastructure-strategy.md)
 - [Prioritize standardized fNIRS methods, ecologically valid learning settings, and evaluation of real-time neural adaptation feasibility](prioritize-standardized-methods-and-ecological-validity-fnirs-gils.md)
 - [Build real-time cognitive effort estimation systems using live fNIRS data and dynamic model outputs to support adaptive learning](real-time-fnirs-cognitive-effort-adaptive-learning-strategy.md)
+- [Prioritize robust ethical frameworks, enhanced memory architectures, and culturally adaptive designs coordinating cultural intelligence, emotional responsiveness, and memory-driven personalization in virtual and robotic AI agents](future-priorities-culturally-adaptive-ai-agents.md)
 
 ## Examples
 -

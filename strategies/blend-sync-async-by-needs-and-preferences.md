@@ -56,6 +56,7 @@ The authors recommend that decisions between asynchronous and synchronous delive
 - [Fully web-enhanced lab delivery through an LMS with recorded sessions in synchronous and asynchronous modes](lms-recorded-synchronous-asynchronous-lab-delivery.md)
 - [Redesign in-person peer tutoring for lockdown conditions by combining synchronous tutor-led sessions with asynchronous questionnaires, exercises and recordings](online-peer-tutoring-redesign-strategy.md)
 - [Run neutron-star spreadsheet activities flexibly online or in demonstrator-led sessions with supporting multimedia](flexible-online-or-led-neutron-star-activities.md)
+- [Improve future QPic course delivery through in-person or peer-interactive formats and better scheduling](qpic-future-delivery-in-person-peer-interaction.md)
 
 ## Examples
 -

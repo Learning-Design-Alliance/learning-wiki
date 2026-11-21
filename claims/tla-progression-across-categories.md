@@ -49,3 +49,4 @@ In the outcome space's most complex category, students described TLAs that "focu
 - [Learners' reciprocity patterns shifted from other-regulation toward self-regulation across the G-DA course](reciprocity-shifted-toward-self-regulation.md) — related
 - [Students emphasising rehearsal and memorisation techniques showed lower conceptual understanding and less DLC interaction](rehearsal-negative-concept-dlc-interaction.md) — related
 - [Most student essays remained at a descriptive reflection level despite repeated AI feedback](essays-remain-descriptive-despite-ai-feedback.md) — related
+- [Conceptions of measurement progress across the outcome space from passive classical measurement to measurement as an active process that determines outcomes](measurement-conceptions-progression-quantum-teleportation.md) — related

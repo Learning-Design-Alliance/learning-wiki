@@ -71,6 +71,8 @@ The review identifies three central ethical challenges for AI-driven personalize
 - [Establish ethical safeguards and debrief participants when piloting LLM tools with learners](ethical-safeguards-debrief-llm-pilots.md)
 - [Safeguards for equitable and unbiased educational GAI deployment: access subsidies, bias testing, and diverse training datasets](gai-education-equity-bias-safeguards.md)
 - [Responsible AI measures for tutoring systems: encryption, security audits, access controls, transparency, bias mitigation, and governance oversight](responsible-ai-measures-tutoring-systems.md)
+- [Design AI tutoring copilots with human oversight, hallucination mitigation, and privacy safeguards](cotutor-human-oversight-hallucination-mitigation-strategy.md)
+- [Prioritize robust ethical frameworks, enhanced memory architectures, and culturally adaptive designs coordinating cultural intelligence, emotional responsiveness, and memory-driven personalization in virtual and robotic AI agents](future-priorities-culturally-adaptive-ai-agents.md)
 
 ## Examples
 -

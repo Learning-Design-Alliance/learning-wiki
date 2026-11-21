@@ -77,3 +77,4 @@ Qualitative transcript excerpts from the think-aloud activity "span four diﬀer
 - [No assessments of students' modeling ability exist for upper-division physics labs](no-upper-division-modeling-assessments.md) — related
 - [Think-aloud interviews validate the framework's focus on measurement system models](think-aloud-validation-measurement-system-models.md) — possibly the same claim (merge candidate)
 - [Upper-division students working on an op-amp circuit spent the most time making measurements, making comparisons, and enacting revisions, and much less time proposing causes and constructing models](students-most-time-measurements-comparisons-revisions.md) — related
+- [Student think-aloud interviews were used iteratively to test and refine the simulation, the PDL+CODAP platform, and the lab activities](student-interview-testing-refinement-pdl.md) — related

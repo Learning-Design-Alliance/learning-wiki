@@ -60,3 +60,4 @@ Analysis of user-LLM interaction logs found more than 70% single-turn interactio
 - [GenAI assistance after targeted instruction reduces graduate students' professional writing time by 56.7%](genai-instruction-writing-time-reduction.md) — related
 - [Custom prompt engineering did not measurably improve ChatGPT-4/CI problem-solving performance on the tested problems](custom-prompts-no-measurable-gain.md) — related
 - [A slight majority of students prompt genAI to directly generate solutions rather than to scaffold their own problem-solving](students-prompt-genai-direct-solutions.md) — related
+- [Chatbot users transition from a 'Chatbot as Machine' mental model to 'Chatbot as Human' after initial prompts](chatbot-mental-model-shift-machine-to-human.md) — related

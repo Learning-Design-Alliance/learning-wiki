@@ -49,6 +49,7 @@ The article describes a classroom project adapted from a social work practice in
 
 - [Implement Photovoice with team-based learning as a two-stage activity: individual photo documentation with SHOWeD reflection, then group discussion and class presentation](photovoice-tbl-two-stage-activity-strategy.md)
 - [Before Photovoice assignments, integrate ethics training, scaffold teamwork skills, provide standardized consent templates for photographing minors, and align projects with learning outcomes and assessment rubrics](photovoice-implementation-recommendations.md)
+- [Offer open-choice creative extra-credit projects in which students weave their interests and hobbies with physics](open-choice-creative-physics-extra-credit-projects.md)
 
 ## Examples
 -

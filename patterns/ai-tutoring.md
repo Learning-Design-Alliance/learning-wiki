@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 445 claims (199 for, 189 mixed, 57 against) · 307 studies (124 causal, 61 review, 39 design, 28 theoretical, 22 quant-synthesis, 17 associational, 16 qualitative), `q1`–`q4` · 65 of 307 report an effect size · 428 claims rest on one study
+> **Evidence** · 446 claims (199 for, 190 mixed, 57 against) · 308 studies (124 causal, 61 review, 40 design, 28 theoretical, 22 quant-synthesis, 17 associational, 16 qualitative), `q1`–`q4` · 65 of 308 report an effect size · 429 claims rest on one study
 
 ## Description and scope
 
@@ -317,6 +317,7 @@ Claims linked to this pattern that the model above does not use. All were read a
 - [The teachable agent reduced mental effort but not mental load: the groups did not differ significantly on mental load](../claims/chat-melody-mental-effort-not-mental-load.md) [~W] — attached 2026-11-21 from Lingxi Jin et al. (2025), which proposed "Teachable agents should prompt reflection and reasoning rather than supplying immediate answers".
 - [In an RCT, students taught by an AI instructional agent reported significantly higher perceived learner control than students taught by a human teacher or a MOOC with chatbot](../claims/ai-agent-higher-perceived-learner-control-rct.md) [+M] — attached 2026-11-21 from Fei Qin et al. (2025), which proposed "Design AI instructional agents to combine structured lecture delivery with flexible pacing and real-time questioning".
 - [Students taught by the AI instructional agent achieved significantly higher post-test scores than the human teacher and MOOC groups](../claims/ai-agent-higher-posttest-scores-rct.md) [+M] — attached 2026-11-21 from Fei Qin et al. (2025), which proposed "Design AI instructional agents to combine structured lecture delivery with flexible pacing and real-time questioning"; tests this page's relationship.
+- [Despite ECD grounding, about 20% of the LLM-generated feedback contained minor to substantial errors, which students rarely detected](../claims/llm-feedback-20-percent-errors.md) [~W] — attached 2026-11-21 from Holger Maus et al. (2025), which proposed "Ground LLM-generated feedback in expert solutions and learners' own approaches rather than unguided LLM reasoning".
 
 ## Illustrative design instance and observation record
 

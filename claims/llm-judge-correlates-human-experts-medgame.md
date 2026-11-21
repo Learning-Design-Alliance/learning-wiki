@@ -59,3 +59,5 @@ Human validation of the LLM-as-a-Judge protocol: three medical Ph.D. holders rat
 - [An LLM-based analogy judge validated against expert judgments shows moderate-to-strong agreement and screens most generated analogies as meeting baseline adequacy](anvil-llm-judge-analogy-screening.md) — related
 - [Automated formative scores showed strong rank-order agreement with blinded expert ratings for participation, reflection, and reasoning dimensions](maple-cr-formative-expert-convergence.md) — related
 - [Human teachers' preferences for LM-generated worksheets correlate significantly with evaluator LM judgments (r = 0.661), but teachers sometimes cannot distinguish worksheets the LM perceives as different](lm-judgments-align-with-teacher-preferences.md) — related
+- [LLM-derived rubric scores show strong agreement with expert judgments in a field study of middle school students](llm-rubric-scores-agree-with-expert-judgments.md) — related
+- [Blind expert reviewers ranked PAGE-generated personalized content far above the human-authored baseline on personalization relevance and student engagement](page-expert-eval-outperforms-human-baseline.md) — related

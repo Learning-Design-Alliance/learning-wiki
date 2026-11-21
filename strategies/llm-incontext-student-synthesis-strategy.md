@@ -50,6 +50,7 @@ The article recommends leveraging LLMs' in-context learning for student modeling
 ## Related Strategies
 
 - [Use retrieval-augmented generation over a curated domain corpus as a resource-efficient alternative to fine-tuning for specializing LLMs in niche domains](rag-curated-corpus-domain-specialization.md)
+- [Build replaceable pipelines around robust APIs or mid-sized open models instead of training bespoke foundation models](replaceable-pipelines-mid-sized-open-models.md)
 
 ## Examples
 -

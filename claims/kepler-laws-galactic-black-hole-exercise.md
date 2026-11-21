@@ -51,3 +51,4 @@ Described classroom exercise using a stack of 16 years of ESO VLT images of the 
 - [Readers of the manual rated it highly and most planned to realize the activities, preferring Kepler's laws and black holes](manual-reader-questionnaire-ratings.md) — related
 - [From Kepler's third law with the student-derived orbit, students estimated the HAT-P-7b stellar mass as 1.4823±0.4107 solar masses](students-estimate-star-mass-keplers-third-law.md) — a narrower finding that bears on this claim
 - [The frozen-star picture of black holes was a historical obstacle and remains a stumbling point for students](frozen-star-picture-stumbling-point.md) — related
+- [Students derive that Kepler's proportionality constant k is inversely proportional to the host star's mass](k-inversely-proportional-star-mass.md) — related

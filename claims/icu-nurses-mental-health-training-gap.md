@@ -57,3 +57,4 @@ Survey item frequencies from the cross‐sectional study of 502 Jordanian ICU nu
 - [Students' free-text expectations at baseline centered on wanting better preparation, especially for treatment planning and first patient contact](baseline-comments-wish-better-preparation.md) — related
 - [All surveyed residents wanted more expert-made videos of specific surgical techniques in their training](residents-want-more-expert-technique-videos.md) — related
 - [All participants reported feeling inadequately competent regarding mental health conditions and dissatisfied with the mental health course](nqn-mental-health-competency-deficiency.md) — related
+- [Only 46% of respondents felt their education prepared them for career writing, and over 60% wanted a course or formal training](minority-feel-prepared-majority-want-formal-writing-training.md) — related

@@ -67,3 +67,4 @@ Same survey, Sam persona: participants rated perceived adaptivity lower for adap
 - [The adaptive virtual patient produces a steadily climbing disclosure trajectory across a session while a prompt-only baseline with the same LLM and persona stays flat](avp-climbing-disclosure-vs-static-flat.md) — related
 - [In the AVP, per-turn disclosure change responds to trainee exploration but not measurably to trainee empathy, and the static baseline shows no significant joint response](avp-exploration-drives-disclosure-change.md) — related
 - [Expert evaluation found the virtual patient realistic and immediate ACT feedback increased therapists' awareness of intervention choices](expert-evaluation-realism-and-feedback-awareness.md) — related
+- [Students learning with LLM-personalized content scored higher on a post-session knowledge assessment than students using standardized materials](page-personalized-content-knowledge-assessment-gain.md) — related

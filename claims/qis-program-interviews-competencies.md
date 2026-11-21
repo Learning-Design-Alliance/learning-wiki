@@ -49,3 +49,4 @@ Interview study conducted in 2020 as part of program development. Industry repre
 - [Quantum industry employers value coding, statistics, laboratory experience, electronics, problem-solving, materials properties, and quantum algorithms](industry-quantum-employer-skill-set.md) — related
 - [Deep knowledge of quantum information science theory is not a necessary or sufficient requirement to work in the quantum industry; classical physics and engineering skills are highly valued](classical-skills-valued-over-deep-qis-theory.md) — related
 - [An earlier interview study of 21 quantum companies found engineering and experimental physicist roles most common and classical programming, statistics, and lab experience most valued](fox-2020-quantum-workforce-interview-findings.md) — related
+- [Industry members identify task planning and time management as a needed competence for entry-level engineers](industry-values-task-planning-time-management.md) — related

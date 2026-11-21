@@ -85,3 +85,4 @@ Stability analysis over 10 independent K-Means++ runs with different random seed
 - [A hybrid K-Means/HDBSCAN clustering method outperforms K-Means and HDBSCAN alone on silhouette score and Davies-Bouldin Index for physics strategy essays](hybrid-clustering-outperforms-kmeans-hdbscan-essays.md) — related
 - [The 3-clusters analysis yields better clustering performance than the 4-clusters analysis](three-experience-levels-clustering-outperforms-four.md) — related
 - [Time series clustering of network metrics identifies distinct developmental trajectories of visual search](time-series-clustering-distinct-gaze-trajectories.md) — related
+- [K-means clustering of rubric scores identified six learner profiles, with Rubric 5 weakness common across multiple clusters](kmeans-six-learner-profiles-rubric-scores.md) — related

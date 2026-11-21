@@ -69,3 +69,4 @@ Exploratory comparison of CJs for incorrect answers (Table 4). Confidence in inc
 - [Children of both age groups improved monitoring and control accuracy from T1 to T2 for both test formats, mainly for incorrect rather than correct answers](longitudinal-improvement-monitoring-control-incorrect-answers.md) — related
 - [Children's text comprehension test performance improved from T1 to T2, driven mainly by second graders, with fewer omission errors over time](test-performance-gains-t1-to-t2.md) — related
 - [One knowledge-test question was excluded from scoring after only 29.17% of participants answered it correctly](knowledge-test-question-omitted-29-percent.md) — related
+- [Post-feedback conversion of incorrect answers reaches 36.7% overall, highest for closed-ended items (55.1%) and lower for CGT (35.6%) and open-ended (33.9%) items](post-feedback-conversion-rate-by-question-type.md) — related

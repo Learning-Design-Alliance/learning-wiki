@@ -70,3 +70,4 @@ The article asserts as its framing premise that "Student engagement increases st
 - [Peer support strategies yield participant benefits including reduced isolation, improved teaching behaviours, and unexpected learning for observers, but student learning outcomes are rarely reported](peer-support-participant-benefits-student-outcomes-rare.md) — related
 - [Some students committed plagiarism in forum posts, detected and flagged by peers and tutors](forum-plagiarism-incident-challenge.md) — related
 - [Game-based learning can increase student engagement and motivation, and cited studies link it to improved learning outcomes](game-based-learning-engagement-motivation-outcomes.md) — a narrower finding that bears on this claim
+- [Human connections with instructors and peers were the factors most tied to student satisfaction and performance in pandemic online courses](human-connection-tied-to-online-satisfaction.md) — a narrower finding that bears on this claim

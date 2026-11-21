@@ -53,3 +53,4 @@ Qualitative thematic analysis of semi-structured interviews with five purposivel
 - [Within this LMS-integrated design, personalised GPT use fell into four recurring cognitive partnership roles: conceptual tutor, co-designer, reflective mirror, and cognitive challenger](gpt-cognitive-partner-typology-four-roles.md) — related
 - [Students experienced ethically scaffolded AI tools as cognitive partners, metacognitive mirrors, and equity tools in EFL writing](ai-cognitive-partner-metacognitive-mirror-equity-roles.md) — related
 - [Group collaborative culture shapes ChatGPT use: weaker collaborative cultures use it sooner and more passively, stronger cultures use it less and more critically](collaborative-culture-moderates-chatgpt-use.md) — related
+- [Professors framed GenAI as a discussion partner, but observed that students mostly used it for low-level technical tasks rather than Socratic dialogue](genai-discussion-partner-framing-student-gap.md) — related

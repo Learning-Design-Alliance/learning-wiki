@@ -20,6 +20,7 @@ A one-day international cosmic-ray outreach event run by participating research 
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **International Cosmic Day (ICD) engaging a worldwide student audience with real astroparticle data**: The International Cosmic Day, organized each year by DESY, is an annual event engaging a larger audience in the spirit of the masterclasses. High school students from across the world carry out hands-on measurements of the cosmic ray flux and work with real astroparticle physics data, while scientists share their experiences. Each participating institute chooses the format and content of the day, with videoconferences between groups in other countries, drawings and photographic competitions adding what the article calls a "distinctive flavour that enriches the experience". (IPPOG Collaboration (2025))
 
 ### Claims
 - [About 3300 students from 26 countries participated in the five International Cosmic Days held since 2012](../claims/icd-3300-students-26-countries-five-years.md) [+W]
@@ -30,3 +31,4 @@ A one-day international cosmic-ray outreach event run by participating research 
 
 ## Key Sources
 - M. Hütten, T. Karg, C. Schwerdt, C. Steppa and M. Walter. (2017). The International Cosmic Day – An Outreach Event for Astroparticle Physics. 35th International Cosmic Ray Conference — ICRC2017. https://arxiv.org/abs/1711.01441
+- IPPOG Collaboration. (2025). IPPOG: a global network for particle physics outreach and education. arXiv:2509.17643 [physics.ed-ph]. https://arxiv.org/abs/2509.17643

@@ -54,3 +54,4 @@ Narrative review synthesis of ten included higher-education studies comparing se
 - [The SKT-SRL shows low, mostly non-significant correlations with SRL microanalysis (online measure)](skt-srl-microanalysis-low-correlation.md) — a narrower finding that bears on this claim
 - [Trace data tend to predict achievement better than self-reports, but self-reports of global SRL intensity can outperform traces](traces-predict-achievement-better-than-self-reports.md) — related
 - [Research favors fine-grained knowledge components, but fine granularity brings practical costs that can outweigh better data fit](fine-granularity-knowledge-components-practical-costs.md) — related
+- [A systematic review of 67 papers indicates current online learning analytics remains at a macro, coarse-grained level that cannot pinpoint concept-level comprehension barriers](online-learning-analytics-macro-coarse-grained-limitation.md) — related

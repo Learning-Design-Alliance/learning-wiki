@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 574 claims (368 for, 181 mixed, 25 against) · 369 studies (165 causal, 81 review, 43 design, 39 quant-synthesis, 27 qualitative, 11 theoretical, 3 associational), `q1`–`q4` · 64 of 369 report an effect size · 569 claims rest on one study
+> **Evidence** · 574 claims (368 for, 181 mixed, 25 against) · 370 studies (166 causal, 81 review, 43 design, 39 quant-synthesis, 27 qualitative, 11 theoretical, 3 associational), `q1`–`q4` · 64 of 370 report an effect size · 568 claims rest on one study
 
 ## Conditional relationship
 

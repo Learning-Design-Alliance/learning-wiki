@@ -54,6 +54,7 @@ Because LLM outputs are probabilistic and can contain hallucinations or bias, th
 - [Human-in-the-loop quality control for AI-generated educational content](human-in-the-loop-ai-content-quality-control.md)
 - [Integrate a teacher or instructor interface to review and correct AI-generated content alongside AI feedback](hybrid-ai-human-feedback-instructor-interface.md)
 - [Structure AI-assisted feedback to prioritize instructor-authored content, then instructor-edited AI suggestions, with pure AI comments only filling gaps](instructor-authored-feedback-priority.md)
+- [Use hybrid AI feedback combining directive guidance with reflective prompts in large-enrolment and online courses](hybrid-ai-feedback-large-courses-strategy.md)
 
 ## Examples
 -

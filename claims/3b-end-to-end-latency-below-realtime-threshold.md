@@ -47,3 +47,4 @@ Pre-user study technical measurement using a video-based frame-counting method w
 - [The Photon Fusion VR learning system achieves stable real-time communication with minimal device load](photon-fusion-stable-realtime-communication.md) — related
 - [An ELEVATE prototype achieves near real-time end-to-end tutoring interaction on consumer-grade school hardware without cloud GPUs](elevate-prototype-near-real-time-consumer-hardware.md) — a broader claim this one bears on
 - [The prototype maintains total end-to-end latency of 3-5 seconds between query completion and RAG-generated response delivery](hdr-vr-platform-3-5-second-latency.md) — related
+- [VLab-HV's Light version maintains 30 fps on low-end systems with 8 GB RAM and integrated GPUs](vlab-hv-light-version-30fps-low-end.md) — related

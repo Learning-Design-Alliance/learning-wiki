@@ -60,3 +60,4 @@ Findings from the authors' reading of participants' critical evaluations in the 
 - [Students broadly endorse LLMs as educational aids (74% positive) while 61% raise integrity concerns, 59% cite hallucination risk, and 82% report no institutional guidance](student-llm-perceptions-no-guidance-majority.md) — related
 - [Most residents rarely evaluate the quality of evidence or review references in online educational materials](residents-rarely-review-references.md) — related
 - [Confabulation risk is highest for AI tutoring and lowest for AI-as-student use](confabulation-risk-varies-by-ai-use-case.md) — related
+- [In API-based evaluation, ChatGPT's assessment of technical and conceptual content is irregular and often inaccurate](chatgpt-api-unreliable-technical-assessment.md) — related

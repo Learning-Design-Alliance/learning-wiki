@@ -53,3 +53,4 @@ Students' feedback questionnaire administered to both experimental groups after 
 - [Teachers report high satisfaction and willingness to recommend We Have Skills!](whs-high-social-validity-satisfaction.md) — related
 - [Songs and practice opportunities may support skill retention and peer bonding](whs-songs-practice-retention-bonding.md) — related
 - [Teachers of the involved classes reported student enjoyment and stated they would reuse the course materials and Kahoot! with their pupils](teachers-reuse-intent-kahoot-materials.md) — related
+- [Student feedback on extra-credit creative physics projects was overwhelmingly positive, with students reporting enjoyment and deeper physics thinking](positive-feedback-extra-credit-physics-humanities-projects.md) — related

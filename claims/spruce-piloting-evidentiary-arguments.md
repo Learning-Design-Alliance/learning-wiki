@@ -48,3 +48,4 @@ Development study across six pilot versions administered January–November 2022
 ## Related Claims
 - [Items were revised or removed when student reasoning could not be mapped to responses; same-reasoning-different-answer mismatches drove CMR redesigns](spruce-item-refinement-reasoning-mapping.md) — related
 - [Open-response beta piloting confirmed that planned multiple-choice distractors covered the most frequent incorrect student answers](spruce-distractor-validation-betas.md) — related
+- [The collaborative regex activity was pilot tested in a community college Python course and revised before redeployment](regex-activity-community-college-pilot.md) — related

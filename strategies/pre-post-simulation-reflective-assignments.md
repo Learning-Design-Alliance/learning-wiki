@@ -46,6 +46,7 @@ Before each simulation session, students complete a preparatory task aligned wit
 - [Debriefing](debriefing.md)
 - [Implement SST as pre-class self-study, a scenario simulation with role players and mannequin deterioration, debriefing, and post-class personalized feedback](sst-session-recipe-emergency-residents.md)
 - [Share the simulation scenario with learners in advance and repeat the scenario within sessions](advance-scenario-sharing-and-repetition-strategy.md)
+- [Use AI-handled simulation mechanics to shift class time and assessment toward reflection on parameter choices](ai-simulation-reflection-assessment-strategy.md)
 
 ## Examples
 -

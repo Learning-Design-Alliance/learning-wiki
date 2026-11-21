@@ -49,3 +49,4 @@ Cross-domain decomposition of the first-person interactive simulation (Figure 6)
 - [Static Knowledge Grounding and Dynamic Personal Memory are complementary: removing both yields the largest quality degradation](skg-dpm-complementary-ablation-deeptutor.md) — related
 - [Human raters' preferences align with the LLM judge on TutorBench (Pearson r = 0.82 across metric-level win rates)](human-llm-judge-preference-alignment-deeptutor.md) — related
 - [LLM teaching effectiveness varies substantially across subject domains, strongest where knowledge points apply directly and weakest in physics and chemistry](llm-teaching-effectiveness-varies-by-domain.md) — related
+- [RAG mitigates knowledge gaps on topics where LLMs are weak, yielding the largest topic-level gains on Human–Computer Interaction](rag-mitigates-topic-knowledge-gaps-hci.md) — related

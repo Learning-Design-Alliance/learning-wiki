@@ -68,3 +68,4 @@ The same multiple-response CUE question administered at external institutions sh
 - [Roughly a quarter of Cartesian SoV exam solutions contained only Execution errors, and Fourier's trick was preferred over simpler term matching](cartesian-sov-execution-only-errors-common.md) — related
 - [Students rarely spontaneously reflect on their SoV solutions in either Cartesian or spherical geometries](spontaneous-reflection-rare-sov-solutions.md) — related
 - [Students consistently activate SoV resources on canonical Cartesian electrostatics exam prompts](cartesian-sov-activation-canonical-prompts.md) — related
+- [Students struggle with separation of variables, writing the general solution as a superposition, and applying the Fourier trick, and the tutorial reduced these difficulties by the unscaffolded posttest](tutorial-reduces-separation-variables-difficulties.md) — related

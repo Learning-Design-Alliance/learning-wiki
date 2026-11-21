@@ -49,3 +49,4 @@ In the interview study, Educator A reflected on misinformation that entanglement
 - [Quantum physics instructors report recurring student misconceptions including faster-than-light entanglement, spin as literal rotation, and conscious-observer collapse](instructor-reported-quantum-misconceptions.md) — related
 - [Bi-stable drawings help show that quantum teleportation transports no object, because the destination identity is present from channel preparation](bi-stable-drawings-teleportation-misconception.md) — related
 - [Over-simplification of QIST concepts can lead early learners to incorrect mental models, as teleportation demonstrations may suggest material transport](qist-oversimplification-incorrect-mental-models.md) — related
+- [Quantum educators recommend teaching quantum and supporting mathematical concepts early, in high school and early college, to students from diverse backgrounds](early-quantum-teaching-educator-recommendation.md) — related

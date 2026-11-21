@@ -50,3 +50,4 @@ Quasi-experimental comparison across two sections of the same introductory mecha
 - [Chatbot outreach increased supplemental instruction tutoring attendance by about two percentage points, mediating a small share of the grade effect](chatbot-increases-tutoring-attendance.md) — related
 - [In the Spring 2015 replication, extra credit was insufficient to motivate voting or problem modification, with only about 5% of about 160 students submitting modifications](spring-2015-motivation-failure.md) — reports the opposite
 - [Completing supplemental math material 1 (vectors) is associated with better exam performance, and the association grows with the material's relevance to exam content](vectors-material-completion-better-exam-performance.md) — related
+- [Nudging students to write a plan increased extra-credit completion without any grade incentive attached to the survey](plan-writing-nudge-increases-early-completion.md) — related

@@ -56,3 +56,4 @@ In Student B's chat log debugging the common source amplifier (P4), ChatGPT 5.1 
 - [Item characteristics associated with LLM-human discrepancy on multimodal OSPE items cluster into three mechanisms: non-standard histological staining, 3D spatial reasoning from 2D images, and semantic inflexibility in short-answer evaluation](llm-ospe-divergence-mechanisms.md) — related
 - [A four-part outreach program lets high-school and early undergraduate students perform meaningful hands-on quantum circuit calculations without advanced mathematics](qist-outreach-without-advanced-math.md) — related
 - [Image generation frequently failed to represent all components of multi-component STEM analogies](image-generation-misses-analogy-components.md) — related
+- [The customized ChatGPT can accurately process graphical information when images are submitted directly through the interface](custom-gpt-direct-image-submission-accurate.md) — related

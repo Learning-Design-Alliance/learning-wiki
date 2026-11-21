@@ -50,3 +50,4 @@ Unsupervised k-means clustering (scikit-learn defaults, ten initializations, max
 - [Exploratory factor analysis of 384 learners' log data identifies four factors in usage of UDL-guided elements, indicating learners remain consistent in decisions such as video vs. text and tasks with or without help](efafour-factors-udl-usage-consistency.md) — related
 - [K-Means++ clustering of self-reported behavioral proxies yields six distinct, stable learner profiles (k = 6, Silhouette = 0.62)](six-behavioral-learner-profiles-kmeans-plus.md) — related
 - [K-means clustering of K–8 students' platform trace data yields seven distinct engagement profiles](seven-engagement-profiles-k8-elearning.md) — related
+- [K-means clustering of rubric scores identified six learner profiles, with Rubric 5 weakness common across multiple clusters](kmeans-six-learner-profiles-rubric-scores.md) — related

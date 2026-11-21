@@ -100,3 +100,4 @@ Linking mentor coaching reports to first-year REACH ratings for hired student te
 - [Undergraduate ophthalmology teaching is widely perceived as inadequate preparation for ED work](undergraduate-ophthalmology-teaching-inadequate.md) — a narrower finding that bears on this claim
 - [Comprehensive induction had no impact on teacher satisfaction or feelings of preparedness](induction-no-impact-satisfaction-preparedness.md) — related
 - [Coaching support was not always perceived as needed or accessible: some students relied on supportive mentors, and others could not engage due to time constraints and infrequent group meetings](coaching-support-not-always-accessible.md) — related
+- [Students report better preparation to judge when traditional ML versus LLM approaches are appropriate](exit-surveys-technology-selection-preparedness.md) — related

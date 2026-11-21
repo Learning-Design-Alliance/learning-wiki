@@ -47,7 +47,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 116 claims (52 for, 58 mixed, 6 against) · 112 studies (35 causal, 16 review, 16 theoretical, 14 associational, 13 quant-synthesis, 12 qualitative, 6 design), `q1`–`q4` · 19 of 112 report an effect size · 110 claims rest on one study
+> **Evidence** · 118 claims (53 for, 59 mixed, 6 against) · 113 studies (36 causal, 16 review, 16 theoretical, 14 associational, 13 quant-synthesis, 12 qualitative, 6 design), `q1`–`q4` · 20 of 113 report an effect size · 112 claims rest on one study
 
 ## Conditional relationship
 
@@ -183,6 +183,8 @@ Claims this page cites that do not change the model above. Each was read against
 - [In an equitable trio, the highest-inchargeness student uses her inchargeness to acknowledge her partners' bids](../claims/equitable-trio-janelle-acknowledges-bids.md) [+W] — attached 2026-11-19 from Sophia Jeon et al. (2018), which proposed "High-inchargeness students should use their position to acknowledge peers' bids, since inchargeness can make groups more or less equitable".
 - [In a large CS1 course, random versus expertise-balanced grouping did not significantly affect poor-performing students' improvement across 11 sessions](../claims/grouping-method-no-significant-improvement-difference-cs1.md) [~M] — attached 2026-11-20 from Tong Wu et al. (2024), which proposed "Design collaborative programming activities for interaction quality and individual factors rather than relying solely on group-composition mechanisms".
 - [Expert students' presence did not guarantee improvement for struggling peers; identified failure factors include fragmented advice and absent structured guidance](../claims/expert-presence-not-guarantee-improvement-failure-factors.md) [~W] — attached 2026-11-20 from Tong Wu et al. (2024), which proposed "Design collaborative programming activities for interaction quality and individual factors rather than relying solely on group-composition mechanisms".
+- [Graduate students' CSEM performance rose from individual to group administration after unguided peer interaction, in one uncontrolled pre-post study](../claims/unguided-peer-interaction-improves-graduate-csem-scores.md) [+W] — attached 2026-11-21 from Ghimire et al. (2024), which proposed "Incorporate unguided peer group interaction inside and outside the classroom so students at all levels learn from each other"; tests this page's relationship.
+- [In one single-group pre-post study, Q14 (electrical shielding) group scores were 40% versus 26% individually, while on Q30 (Faraday's law) option E rose from 5% to 10% after peer interaction](../claims/peer-groups-converge-incorrect-beyond-zpf.md) [~W] — attached 2026-11-21 from Ghimire et al. (2024), which proposed "Incorporate unguided peer group interaction inside and outside the classroom so students at all levels learn from each other"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

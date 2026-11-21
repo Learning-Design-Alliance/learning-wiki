@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-21
 recheck_by: 2029
 sources:
   - id: lorenzo-stacchio-2026
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A working prototype deployed in a real-world educational context runs on affordable devices typical of public school settings and achieves near real-time end-to-end interaction without cloud-based GPUs. [→ Lorenzo Stacchio 2026](#lorenzo-stacchio-2026)
@@ -53,3 +54,4 @@ Prototype demonstration in a real-world educational context: the authors report 
 - [The end-to-end attention-estimation pipeline meets the one-second prediction stride on an NVIDIA A100 GPU, with warm latency of 50.65 ms per window and 1.02 ms for the temporal model](real-time-pipeline-latency-one-second-stride-a100.md) — related
 - [The article evaluated the action selection engines' speed for real-time tutoring use](action-selection-speed-evaluation.md) — related
 - [VTutor produced lip-synced animation within one second in a browser, versus 143 seconds for SadTalker to generate a 7-second video](vtutor-realtime-latency-vs-sadtalker.md) — a narrower finding that bears on this claim
+- [VLab-HV's Light version maintains 30 fps on low-end systems with 8 GB RAM and integrated GPUs](vlab-hv-light-version-30fps-low-end.md) — related

@@ -50,3 +50,4 @@ Multinomial regression testing whether later academic achievement (standardized 
 - [Gender predicted SRL profile membership, with male students more likely in lower SRL profiles; major, prior experience, and time commitment did not predict membership](gender-predicts-srl-profile-membership.md) — related
 - [All five academic identity dimensions significantly predict academic performance, led by academic commitment (β = 0.648)](identity-dimensions-predict-performance-jiroft.md) — related
 - [Students' gender, race, maternal education level, and social-economic ranking predicted latent profile membership](demographics-predict-noncognitive-profiles.md) — related
+- [In a multinomial logistic regression, only the frequency of reading instructional journals significantly predicted profile membership; teaching experience, teacher education, school type and doctoral degree did not.](journal-reading-only-significant-profile-predictor.md) — related

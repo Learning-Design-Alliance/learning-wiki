@@ -71,3 +71,4 @@ The authors argue, citing Karaseur (2012), that common locational phrases about 
 - [Only 7% of Indian grade 9 students identify all five lunar-phase images correctly, with intermediate phases showing widespread shape confusion](india-grade9-lunar-phase-recognition-low.md) — related
 - [Indian class IX students are highly interested in astronomy but a minority show proficiency in celestial sizes, distances and lunar phases](class-ix-high-interest-low-proficiency-astronomy-concepts.md) — related
 - [67% of Boyacá secondary students correctly identify the lunar phases, the strongest-performing astronomy topic assessed](boyaca-students-lunar-phases-67-percent-correct.md) — related
+- [The article asserts, without a reported test of student understanding, that teaching eclipses in a planetarium dome helps students understand the three-dimensional geometry of the Earth and Moon orbits](dome-eclipse-3d-orbit-geometry.md) — related

@@ -53,3 +53,4 @@ Spearman correlations by gender and semester (Table 2) in the N = 426 sample. Ta
 - [The worst-performing surgical residents self-rate their performance similarly to the best-performing residents despite large objective differences, demonstrating the Dunning-Kruger effect](dk-effect-surgery-residents-laparoscopic-cholecystectomy.md) — related
 - [Female participants reported worse self-assessments than male participants, and self-assessment–score consistency differed by sex only at one time point](gender-self-assessment-inconsistency.md) — related
 - [Quizzical participation showed no gender difference even though males outperformed females on course exams in both cohorts](no-gender-difference-quizzical-participation.md) — related
+- [Learners with lower prior knowledge show a greater illusion of understanding, tentatively supporting the Dunning–Kruger effect as a mechanism](low-knowledge-learners-greater-illusion-of-understanding.md) — related

@@ -51,6 +51,7 @@ An introductory activity in which students build position-time graphs by walking
 - [Measure and Graph Data](measure_and_graph_data.md)
 - [Prediction-experiment-comparison (PEC) cycle built cooperatively with simulation software and the interactive whiteboard](pec-prediction-experiment-comparison-cycle.md)
 - [Use embodied and physical modeling activities to complement computational modeling so programming commands become experientially real](embodied-modeling-complements-computational-modeling.md)
+- [Integrate exoplanet data activities across physics and mathematics classes to build data-analysis skills including logarithms and graph construction](cross-subject-exoplanet-data-analysis-strategy.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ POE test-score analysis of 21 freshman physics majors in a Predict-Observe-Expla
 - [The inversion error persists through both observation of the demonstration and augmented-video instruction](inversion-error-persists-instruction.md) — related
 - [Distractor analysis reveals significant conceptual learning during observation of the demonstration and during augmented-video instruction despite low total scores](distractor-analysis-hidden-conceptual-learning.md) — reports the opposite
 - [During the Predict task, unconfident physics students focus significantly longer on relevant task areas than confident students with comparable scores](eye-tracking-confidence-visit-duration-predict.md) — related
+- [Daily-life contexts for inertial forces and polar coordinates produced conceptual insights students valued](inertial-forces-contexts-conceptual-insights.md) — related

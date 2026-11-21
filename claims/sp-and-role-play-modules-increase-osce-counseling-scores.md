@@ -52,3 +52,4 @@ Group-randomized trial of 113 fourth-year medical students randomized by clerksh
 - [Online course and role-playing seminar produce no statistically significant difference in overall OSCE counselling performance for smoking cessation](osce-overall-no-difference-online-vs-roleplay.md) — related
 - [Student self-confidence is higher after the SP module than after the peer role-play module (d = 0.37)](sp-module-higher-self-confidence-than-role-play.md) — related
 - [OSCE scores and fail rates did not differ pairwise between standardised patient scenario groups and the peer role play group, with Intervention B scoring lowest](sp-vs-peer-role-play-osce-no-difference.md) — related
+- [In a four-week randomized crossover study, EasyMED training produced OSCE gains comparable to human SP training (16.89 vs 15.36 points)](easymed-comparable-osce-gains-human-sp.md) — related

@@ -49,4 +49,4 @@ Restructuration, as the article presents it, arises from changes in the represen
 -
 
 ## Key Sources
-- Coelho, R., Pea, R., Schunn, C., Cheng, J., and Liu, J. (2025). Advancing Quantum Information Science Pre-College Education: The Case for Learning Sciences Collaboration. arXiv:2508.00668. https://arxiv.org/abs/2508.00668
+- Coelho, R., Pea, R., Schunn, C., Cheng, J., and Liu, J. (2025). Advancing Quantum Information Science Pre-College Education: The Case for Learning Sciences Collaboration. arXiv:2508.00668. https://arxiv.org/abs/2508.00668. [doi:10.1109/qce65121.2025.20508](https://doi.org/10.1109/qce65121.2025.20508)

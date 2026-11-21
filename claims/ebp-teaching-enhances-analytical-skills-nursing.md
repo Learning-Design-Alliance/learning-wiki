@@ -55,3 +55,4 @@ Qualitative synthesis of student self-reports across the included studies; the r
 - [Nursing students held positive attitudes toward mind mapping as a teaching method (average survey score 4.13 ± 0.73)](positive-attitudes-mind-mapping-teaching-nursing.md) — related
 - [Over-reliance on AI dialogue systems reduces students' critical and analytical thinking skills, especially when they become overly dependent on AI-generated content](overreliance-ai-dialogue-reduces-critical-analytical-thinking.md) — related
 - [Theory-based EBP teaching produced significant knowledge gains in two nursing studies and one medical-study summative assessment](theory-based-ebp-teaching-knowledge-gains.md) — related
+- [Simulated case studies of NMC2025 use report qualitative learning outcomes in domain content, process skills, and exposure to research knowledge](nmc2025-case-studies-qualitative-outcomes.md) — related

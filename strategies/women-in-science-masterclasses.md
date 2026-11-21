@@ -49,6 +49,7 @@ IMC holds special masterclasses for the International Day of Women and Girls in 
 - [World Wide Data Day: a two-hour simplified masterclass organized by teachers at their own schools](world-wide-data-day-simplified-masterclass.md)
 - [World Wide Data Day: a short, single-day masterclass experience in schools with authentic LHC data](world-wide-data-day-w2d2-strategy.md)
 - [Masterclass workshops in developing countries through collaboration with the African School of Fundamental Physics](asp-africa-masterclass-outreach-workshops.md)
+- [Run STEM outreach workshops exclusively for girls, taught and tutored entirely by female scientists and physics students](girls-only-stem-workshop-format.md)
 
 ## Examples
 -

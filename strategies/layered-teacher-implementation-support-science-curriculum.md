@@ -93,6 +93,7 @@ In the evaluated trial, intervention teachers received a layered support package
 - [Structure teacher professional development workshops as short, off-site events with grouped collaboration and iterative feedback rounds](nice-workshop-structure-strategy.md)
 - [Use professional development workshops that pair hands-on curriculum activities with a summary of classroom trial results to build teacher support](pdw-showcase-with-research-evidence-strategy.md)
 - [Support teacher adoption through compensated training workshops and focusing on one course stream initially](qc-module-teacher-training-workshop-strategy.md)
+- [Four-module progressive teacher training curriculum totaling 72 hours with optional authoring module](four-module-minecraft-teacher-training-bangladesh.md)
 
 ## Examples
 -

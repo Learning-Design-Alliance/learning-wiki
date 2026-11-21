@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 191 claims (146 show a difference, 31 mixed, 14 no difference) · 101 studies (42 causal, 25 associational, 13 review, 8 quant-synthesis, 6 design, 4 theoretical, 3 qualitative), `q1`–`q3` · 20 of 101 report an effect size · 189 claims rest on one study
+> **Evidence** · 192 claims (147 show a difference, 31 mixed, 14 no difference) · 102 studies (42 causal, 25 associational, 13 review, 8 quant-synthesis, 7 design, 4 theoretical, 3 qualitative), `q1`–`q3` · 20 of 102 report an effect size · 190 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -226,6 +226,7 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Replacing a point-and-click environment with Jupyter notebooks plus continual advising led Ph.D. candidates to full acceptance of data science tools and creative analysis](../claims/jupyter-intervention-full-acceptance-creativity.md) [+M] — measured as an outcome of the instruction studied
 - [AI projects are argued to form a classroom context highly conducive to creativity because they offer many degrees of design freedom and task-appropriate applications](../claims/ai-projects-foster-creativity.md) [+W] — measured as an outcome of the instruction studied
 - [Misuse of GenAI has the potential to undermine critical thinking and creativity skills nurtured through traditional teaching methods](../claims/genai-misuse-may-undermine-critical-thinking-creativity.md) [~W] — measured as an outcome of the instruction studied
+- [In algebra-based introductory physics courses, instructors can use creative projects to foster creativity and critical thinking while students connect physics with humanities, social sciences, and everyday life](../claims/intro-physics-courses-opportunity-connect-humanities-everyday-life.md) [+W] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

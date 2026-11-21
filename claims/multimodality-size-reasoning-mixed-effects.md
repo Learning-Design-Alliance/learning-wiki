@@ -11,9 +11,9 @@ evidence_strength: mixed
 newest_evidence: 2026
 recheck_by: 2029
 sources:
-  - id: yoonsu-kim-2026
+  - id: yoonsu-kim-2025
     resource: "https://doi.org/10.48550/arxiv.2504.00843"
-    title: "Yoonsu Kim, Hyoungwook Jin, Hayeon Doh, Eunhye Kim, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, and Juho Kim. (2026). Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work. arXiv. https://arxiv.org/abs/2504.00843 [doi:10.48550/arxiv.2504.00843](https://doi.org/10.48550/arxiv.2504.00843)"
+    title: "Yoonsu Kim, Hyoungwook Jin, Hayeon Doh, Eunhye Kim, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, and Juho Kim. (2025). Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work. arXiv. https://arxiv.org/abs/2504.00843 [doi:10.48550/arxiv.2504.00843](https://doi.org/10.48550/arxiv.2504.00843)"
     author: Yoonsu Kim, Hyoungwook Jin, Hayeon Doh, Eunhye Kim, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, and Juho Kim
     q: 2
     i: "?"
@@ -32,18 +32,18 @@ sources:
 # Multimodal input consistently improves accuracy but not F1, model size correlates moderately with performance, and reasoning models show mixed results
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i2` medium
+> **Evidence** · 2 studies · 1 associational `r1`, 1 design `r2` · `q2` · `i2` medium
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
-`q2 i?` Image-input models consistently outperformed their text-only counterparts in accuracy, but F1 improvements were inconsistent. [→ Yoonsu Kim 2026](#yoonsu-kim-2026)
+`q2 i?` Image-input models consistently outperformed their text-only counterparts in accuracy, but F1 improvements were inconsistent. [→ Yoonsu Kim 2025](#yoonsu-kim-2025)
 `q2 i2` Model size showed a moderate positive relationship with F1 (Spearman's ρ=.570, p=.053). [→ Yoonsu Kim 2026 (2)](#yoonsu-kim-2026-2)
 
 ## Evidence
 
-### Yoonsu Kim 2026
+### Yoonsu Kim 2025
 
-Yoonsu Kim, Hyoungwook Jin, Hayeon Doh, Eunhye Kim, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, and Juho Kim. (2026). Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work. arXiv. https://arxiv.org/abs/2504.00843 [doi:10.48550/arxiv.2504.00843](https://doi.org/10.48550/arxiv.2504.00843)
+Yoonsu Kim, Hyoungwook Jin, Hayeon Doh, Eunhye Kim, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, and Juho Kim. (2025). Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work. arXiv. https://arxiv.org/abs/2504.00843 [doi:10.48550/arxiv.2504.00843](https://doi.org/10.48550/arxiv.2504.00843)
 
 `q2 · i?` · `design · r2`
 
@@ -80,3 +80,4 @@ Correlational analysis of model size versus F1 across the 18 models. The article
 - [Studies using both text- and image-based questions show higher pooled LLM accuracy (78%) than text-only studies (71%)](multimodal-questions-higher-llm-accuracy.md) — possibly the same claim (merge candidate)
 - [LLMs underperformed on image-based dental examination questions compared with text-based questions](llms-underperform-image-based-questions.md) — reports the opposite
 - [All four multimodal LLMs show a marked decrease in correct response rates on visually-based versus text-only JNEOT questions](llm-visual-question-decline-jneot.md) — reports the opposite
+- [Multimodal RAG with slide images outperforms text-only slide retrieval for a vision-capable LLM](multimodal-rag-slide-images-outperform-text.md) — a narrower finding that bears on this claim

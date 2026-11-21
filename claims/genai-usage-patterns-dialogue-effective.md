@@ -74,3 +74,4 @@ The authors' interpretive statement drawn from the usage-log analysis in the Gen
 - [Students report that GenAI's immediate feedback enabled iterative learning and low-stakes practice, the dominant qualitative themes of the intervention](iterative-feedback-low-stakes-practice-themes.md) — related
 - [In the roller coaster loop dialogue, ChatGPT excelled at providing clear explanations, addressing misconceptions, and promoting active learning through Socratic questioning.](chatgpt-socratic-roller-coaster-active-learning.md) — related
 - [GAI tools can dynamically generate Socratic questions based on student interactions, fostering deeper analysis and active engagement](gai-socratic-questioning-engagement.md) — related
+- [Professors framed GenAI as a discussion partner, but observed that students mostly used it for low-level technical tasks rather than Socratic dialogue](genai-discussion-partner-framing-student-gap.md) — reports the opposite

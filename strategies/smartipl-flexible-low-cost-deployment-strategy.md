@@ -49,6 +49,7 @@ The review recommends using SmartIPLs as a complementary modality rather than a 
 ## Related Strategies
 
 - [Quantum Straw activity sequence: hands-on smartphone spectroscopy with collaborative data pooling and a low-cost spectrometer](quantum-straw-activity-sequence.md)
+- [Deploy the offline tutor via smartphone apps and Raspberry Pi community knowledge hubs](offline-deployment-smartphone-raspberry-pi.md)
 
 ## Examples
 -

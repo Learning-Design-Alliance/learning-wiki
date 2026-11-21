@@ -60,3 +60,5 @@ Self-report questionnaire from a focus group of school pupils at one school, rep
 - [Teachers and common visitors scored better than students across all satisfaction categories in quantum outreach events](teachers-score-better-than-students-outreach.md) — related
 - [77.1% of participants want to learn more about gravity and general relativity and 82.5% say Einsteinian physics should be in the curriculum](students-favour-gr-in-curriculum.md) — related
 - [Students in the workshops reported interest in quantum spin and saw quantum science as relevant to the future of technology](student-interest-quantum-spin-workshops.md) — related
+- [Only about a quarter of teachers observed student interest in quantum-related careers after the activities, with most responses neutral](modest-career-interest-after-activities.md) — related
+- [Agreement was even stronger on statements about the workshop bringing girls closer to real scientific work and supporting STEM decision-making](workshop-survey-science-careers.md) — related

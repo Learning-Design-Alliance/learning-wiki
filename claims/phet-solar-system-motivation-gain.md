@@ -49,3 +49,4 @@ Motivation questionnaire (20 statements adapted from CAQ, Science Motivation Que
 - [Game-based and PowerPoint instruction produced no significant difference in students' attitudes toward the nutrition course](no-attitude-difference-game-versus-powerpoint.md) — related
 - [The understanding (C2) cognitive domain showed the smallest but still favorable gain favoring PhET, with experimental N-gain 0.49 versus control 0.31](phet-cognitive-domain-c2-gain.md) — related
 - [Students' conceptual understanding and motivation correlate moderately (score correlation 0.46) when learning the Solar System with PhET simulation](phet-understanding-motivation-correlation.md) — related
+- [Students hold moderately positive attitudes toward physics learning (65.69%) but learning effort averages only 62.02%](positive-attitudes-low-effort-physics-survey.md) — related

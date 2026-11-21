@@ -69,3 +69,5 @@ Topic-level aggregation found "All topics had between 74% and 85% construction",
 - [Group performance on the QMFPS exceeded individual performance (72% vs 53%) after lecture-based instruction](qm-peer-group-beats-individual-qmfps.md) — related
 - [Co-construction rates varied from 0% to 71% and peaked for questions about half of students answered correctly individually](qm-co-construction-peaks-half-correct.md) — related
 - [Group participation is highest on questions where at least one but no more than half of the group answered correctly in the solo phase](two-phase-exam-participation-peaks-mixed-correctness.md) — related
+- [Knowledge construction occurred in 93% of eligible cases and co-construction in 72% of eligible cases across MCS questions during unguided peer collaboration](construction-co-construction-rates-ta-mcs.md) — related
+- [In 88% of eligible cases, groups with one member correct and one incorrect individually gave the correct CSEM answer after working together, in a single-group pre-post study](construction-of-knowledge-88-percent-graduate-csem.md) — related

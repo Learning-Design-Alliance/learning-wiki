@@ -53,3 +53,4 @@ The article reports, citing Sawyer (2012), that "groups outperform individuals" 
 - [Collaborative learning is beneficial or detrimental depending on individual and situational factors](collaborative-learning-conditionally-beneficial.md) — related
 - [Homogeneous-high groups showed the highest productivity; heterogeneous groups outperformed homogeneous-average and homogeneous-low groups, and low-activity students were more productive in homogeneous groups](group-composition-productivity-effects.md) — related
 - [PBL in small groups supports creativity through openness to new ideas, handling problems from different angles, and imagining various solutions](pbl-small-group-creativity.md) — a narrower finding that bears on this claim
+- [An educator reports that diverse teams and committees tend to work better and be more creative than homogeneous ones](diverse-teams-more-creative-educator-observation.md) — a narrower finding that bears on this claim

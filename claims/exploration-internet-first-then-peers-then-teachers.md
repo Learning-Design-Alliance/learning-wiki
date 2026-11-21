@@ -48,3 +48,4 @@ Interview-based content analysis finding on the exploration sub-theme. The artic
 ## Related Claims
 - [Poorly grounded GenAI self-study risks fabricated content and inferior learning relative to curated resources](genai-self-study-fabrication-curated-resources.md) — related
 - [Students prioritise speed and specificity of answers over depth when under workbook-completion pressure, favouring ChatGPT over multi-resource searching](efficiency-prioritised-over-depth-cbl.md) — related
+- [TikTok creators construct a peer pedagogy of four success pathways: strategic resource curation, relentless practice, systematic memorisation with active recall, and deliberate over-preparation](tiktok-peer-pedagogy-four-pathways.md) — related

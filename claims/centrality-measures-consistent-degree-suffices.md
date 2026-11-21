@@ -90,3 +90,4 @@ Correlation analysis on the integrated 90-content Physics-plus-Mathematics netwo
 - [In a Modeling Instruction physics course, classroom network centrality predicts final course grade over and above prior GPA for three of four centrality measures tested](centrality-predicts-grade-beyond-gpa.md) — related
 - [Infomap community structure matches the curriculum's block organization exactly for Mathematics and partially for Physics and the integrated network](infomap-communities-match-curriculum-blocks.md) — related
 - [Excluding instructional staff from the network leaves all centrality measures but closeness statistically unchanged between medians](instructor-exclusion-wilcoxon-null.md) — related
+- [Curriculum-similarity network analysis of 31 Nanjing University departments identifies four disciplinary communities with sequentially decreasing degree centrality](four-disciplinary-communities-curriculum-similarity.md) — related

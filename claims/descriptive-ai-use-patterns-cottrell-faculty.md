@@ -48,3 +48,4 @@ Descriptive analysis of survey use questions from 90 retained responses. The art
 - [Respondents anticipated using LLMs most often (23%), followed by NLP (17%), predictive AI (14%), chatbots (13%), and ASR (10%)](rfi-technology-types-llm-most-common.md) — related
 - [Technology implementation in higher education depends on individual initiative rather than institutional systems, with governance structures rarely including those responsible for implementation](implementation-depends-on-individual-initiative-not-systems.md) — related
 - [Students and faculty use AI for different tasks: students for applied learning activities, faculty for academic and instructional tasks](role-based-ai-use-students-faculty.md) — related
+- [Non-native information workers heavily rely on LLM-based chatbots for work-related English tasks, most commonly for look-up, translation, and proofreading](efl-workers-rely-llm-chatbots-language-queries.md) — related

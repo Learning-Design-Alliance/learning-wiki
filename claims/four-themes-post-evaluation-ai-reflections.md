@@ -85,3 +85,4 @@ Context-specific sentiment analysis with a custom lexicon and LDA topic modellin
 - [No themes in the thematic analysis related to the Evaluation and Feedback step of Kern's curriculum design process.](no-themes-evaluation-feedback-step.md) — related
 - [Students' willingness to use AI varies by task type: greater acceptance for research and idea generation, hesitation for writing and homework](ai-willingness-varies-by-task-type.md) — related
 - [Students attribute the usefulness of AI-generated feedback to twelve features spanning four themes: Evaluation, Content, Presentation, and Depth](twelve-valued-ai-feedback-features-four-themes.md) — related
+- [Professors held a hierarchy of acceptability for GenAI text processing: granular language tasks seen as legitimate, initial drafting viewed with skepticism](genai-text-processing-acceptability-hierarchy.md) — related

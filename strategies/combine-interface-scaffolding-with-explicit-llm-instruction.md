@@ -56,4 +56,4 @@ Based on the finding that structured-interface prompting behaviors did not trans
 -
 
 ## Key Sources
-- Brender, J., El-Hamamsy, L., Uittenhove, K., Mondada, F., Bumbacher, E. (2025). Structured Prompts, Better Outcomes? Exploring the Effects of a Structured Interface with ChatGPT in a Graduate Robotics Course. https://arxiv.org/abs/2507.07767
+- Brender, J., El-Hamamsy, L., Uittenhove, K., Mondada, F., Bumbacher, E. (2025). Structured Prompts, Better Outcomes? Exploring the Effects of a Structured Interface with ChatGPT in a Graduate Robotics Course. https://arxiv.org/abs/2507.07767. [doi:10.1007/978-3-032-03870-8_7](https://doi.org/10.1007/978-3-032-03870-8_7)

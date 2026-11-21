@@ -45,7 +45,7 @@ Discussion-level interpretation (attributed by the review to Hamilton et al., 20
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should a simulation or virtual-reality module sit beside hands-on practice or replace it?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **7 distinct studies** (3 review, 3 causal, 1 qualitative), `q1`–`q3`, 1 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should a simulation or virtual-reality module sit beside hands-on practice or replace it?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **8 distinct studies** (3 review, 3 causal, 1 qualitative, 1 kind not coded), `q1`–`q3`, 1 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -54,6 +54,7 @@ Discussion-level interpretation (attributed by the review to Hamilton et al., 20
 | Early Science with Nico and Nor® 2022 | q1 · qualitative · r? | i? | [Digital tools complemented hands-on investigations by providing opportunities not possible](nico-nor-digital-tools-complement-hands-on.md) (supports) |
 | [Kelly McNeil 2026](https://doi.org/10.51388/20.500.12265/284) | q2 · review · r2 | i? | [The review reports that real-world experiential simulations offer affordances beyond virtu](real-world-simulations-embodiment-affordances.md) (supports) |
 | [Malikova Z 2026](https://doi.org/10.3389/feduc.2026.1964629) | q2 · review · r3 | i? | [AI-generated and prebuilt simulations produced higher immediate conceptual-assessment scor](simulation-advantage-immediate-not-sustained.md) (qualifies) |
+| Yossi Ben-Zion 2025 | q2 | i? | [AI-generated and prebuilt simulations produced higher immediate conceptual-assessment scor](simulation-advantage-immediate-not-sustained.md) (qualifies) |
 | [Kontra et al. 2015](https://doi.org/10.1177/0956797615569355) | q3 · causal · r? | i? | [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) (qualifies) |
 | [Zacharia & Olympiou 2011](https://doi.org/10.1016/j.learninstruc.2010.03.001) | q2 · causal · r? | i? | [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) (qualifies) |
 <!-- synthesis:end -->

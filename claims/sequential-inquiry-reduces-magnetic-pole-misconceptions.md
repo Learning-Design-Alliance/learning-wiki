@@ -52,3 +52,4 @@ Concept-frequency analysis of pretest, posttest, and retention test responses of
 - [An asymmetry misconception in time dilation was present pre-instruction and reduced after instruction](time-dilation-asymmetry-misconception.md) — related
 - [Counter-intuitive observations are often more effective for honing students' research skills than experiments with predictable outcomes](counterintuitive-observations-foster-research-skills.md) — related
 - [Students conflate magnetic poles with electric charges, failing to distinguish a bar magnet from an electric dipole](electric-magnetic-dipole-confusion.md) — related
+- [Most students' number of magnetism concepts they could explain more than doubled from pre-test to post-test after one viewing of the dome show, with further gains after a second viewing, in one group with no comparison group](dome-magnetism-show-doubles-concept-explanations.md) — related

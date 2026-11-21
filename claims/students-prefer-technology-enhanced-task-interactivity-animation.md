@@ -54,3 +54,4 @@ Qualitative interview component of the mixed methods study. Students reported pr
 - [Teacher observations and student opinions indicated relatively positive attitudes toward using animations in vocabulary learning](positive-attitudes-toward-animation-vocabulary-learning.md) — related
 - [Students show deficiencies in improving school performance, group work, problem solving and communication in learning activities with ICT, despite positive attitudes toward technology.](escuela2-students-deficiencies-higher-order.md) — related
 - [A scatter plot of content quality versus engagement shows a favorable link between high-quality content including visual data and stories and enhanced engagement](content-quality-engagement-scatter-plot.md) — related
+- [Teachers reported student engagement was strongest for visually appealing, interactive activities aligned with their existing curricula](visual-interactive-activities-engaging.md) — related

@@ -53,3 +53,4 @@ Infomap community detection on the undirected Mathematics network, excluding tra
 - [Relaxing sparsification thresholds did not merge FCI misconceptions into a coherent non-Newtonian framework; they appear to exist relatively independently as small groups of consistent answers](fci-misconceptions-independent-small-groups.md) — related
 - [Integrating Physics and Mathematics into one network raises average degree (22.58) while lowering density relative to either subject alone](integrated-network-higher-degree-lower-density.md) — related
 - [Community detection yields 15 communities (modularity ≈ 0.600), but some conceptually related physics terms are not clustered together](physics-term-communities-modularity-0-600.md) — related
+- [Curriculum-similarity network analysis of 31 Nanjing University departments identifies four disciplinary communities with sequentially decreasing degree centrality](four-disciplinary-communities-curriculum-similarity.md) — related

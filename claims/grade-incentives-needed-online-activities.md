@@ -49,3 +49,5 @@ Interview and survey accounts of fall 2020 flipped and asynchronous physics clas
 - [Counting questions students procrastinate, practicing little until late in the semester, while counting days spreads practice across the term](counting-questions-procrastination-pattern.md) — related
 - [Flipped-format students attempt online homework questions more often and more steadily across the weeks surrounding an exam than standard-format students](flipped-students-attempt-homework-more-often.md) — related
 - [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — related
+- [Nudging students to write a plan increased extra-credit completion without any grade incentive attached to the survey](plan-writing-nudge-increases-early-completion.md) — reports the opposite
+- [Students do not effectively use self-paced digital tools without grade incentives and support, whether in flipped courses or optional self-study tutorials](student-engagement-needs-incentives-support.md) — possibly the same claim (merge candidate)

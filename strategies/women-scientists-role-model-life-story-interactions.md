@@ -47,6 +47,7 @@ The strategy organises interactions between girls and women scientists so that w
 - [Run workshops for teachers on why it is important to bring more girls into STEM](teacher-workshop-bring-girls-into-stem.md)
 - [Restorying Computing Futures Through Electronic Quilting](restorying-through-electronic-quilting.md)
 - [Use culturally diverse examples, values affirmation, and equity strategies to reduce stress and support students' sense of belonging in science](culturally-diverse-examples-equity-strategy.md)
+- [Support women and equity-seeking groups in physics through national organizations offering speaking opportunities, workshops, panels and networking](national-edi-groups-support-women-physics.md)
 
 ## Examples
 -

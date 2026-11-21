@@ -50,3 +50,4 @@ In the same within-subjects study of 20 learners, the number of attempts to try 
 - [Participants found it easier to navigate and search tutorial content in the webpage-plus-ChatGPT condition than in EDBook](webpage-easier-navigation-than-edbook.md) — related
 - [Participants preferred EDBook content when learning material for the first time and standard LLM interactions when already familiar with the material](edbook-preferred-for-first-time-learning.md) — related
 - [Learners spent significantly more time on learning materials in EDBook than with equivalent webpage content plus ChatGPT](edbook-more-time-on-learning-materials.md) — related
+- [Students learning with LLM-personalized content scored higher on a post-session knowledge assessment than students using standardized materials](page-personalized-content-knowledge-assessment-gain.md) — related

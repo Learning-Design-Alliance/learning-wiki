@@ -78,3 +78,4 @@ RQ2 model-level comparison across all prompting strategies and datasets (Table 3
 - [Fine-tuned GPT-3.5 surpassed fine-tuned BERT in automatic scoring of science written responses, with a statistically significant 9.1% average accuracy increase](finetuned-gpt35-surpasses-bert-science-scoring.md) — related
 - [The prompt-based method maintains high accuracy and contextual understanding across diverse educational contexts and interaction types](prompt-method-robust-across-contexts.md) — related
 - [Parsers trained on MUDT outperform UD-trained baselines in-domain, and cross-domain transfer is asymmetric with performance degrading sharply when UD-trained models are applied to MUDT data](mudt-parsers-outperform-ud-baselines.md) — related
+- [NTKT maintains stable performance on unseen cold-start questions while baselines show a significant drop between seen and unseen questions](ntkt-question-cold-start-stability.md) — a narrower finding that bears on this claim

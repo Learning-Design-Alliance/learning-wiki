@@ -48,3 +48,4 @@ Independent t-test comparing extreme groups (Strong-CT n = 28, Weak-CT n = 30) o
 - [Total critical thinking disposition scores correlate positively with PBL performance scores and all five performance dimensions in undergraduate medical students](ct-disposition-correlates-pbl-performance.md) — related
 - [Strong-CT and Weak-CT students performed similarly in Early-Half PBL tutorials but differed significantly in Late-Half tutorials](ct-group-difference-emerges-late-half.md) — related
 - [PBL performance improved significantly across the semester in Strong-CT students but not in Weak-CT students](pbl-improvement-strong-ct-only.md) — related
+- [Eleventh-grade physics students show critically low critical thinking skills, averaging 27.80% across five indicators](critical-thinking-low-27-80-percent-physics-survey.md) — related

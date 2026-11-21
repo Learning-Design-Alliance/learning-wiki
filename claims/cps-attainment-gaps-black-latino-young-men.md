@@ -61,3 +61,4 @@ Descriptive subgroup analysis from the 2018 snapshot comparing DAI projections f
 - [An estimated 18 percent of CPS ninth-graders will obtain a four-year college degree within 10 years of starting high school (Bachelor's DAI, 2015)](cps-bachelors-dai-18-percent-2015.md) — related
 - [Attainment indices vary sharply by race/ethnicity and gender: Black young men face a projected PAI of 12.6 percent versus 62.0 percent for Asian/Pacific Islander young women](cps-2019-attainment-indices-race-gender-disparities.md) — related
 - [CPS's Bachelor's Degree Attainment Index rose 7 percentage points, from 11 percent for 2006 ninth-graders to 18 percent for 2016 ninth-graders](cps-bachelors-dai-rose-7-points.md) — related
+- [Reported DSS outcomes include several students transferring to four-year colleges to complete STEM degrees and professional researchers gaining publications and mentorship experience.](dss-student-transfers-and-researcher-benefits.md) — related

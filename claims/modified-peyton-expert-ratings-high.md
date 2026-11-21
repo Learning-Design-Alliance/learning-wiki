@@ -51,3 +51,4 @@ Expert-rating component of the descriptive study: two blinded observers (n = 2) 
 - [Two independent blinded video raters showed excellent agreement when scoring chest tube insertions with the modified OSATS (ICC=0.96)](osats-chest-tube-interrater-reliability-icc.md) — related
 - [Trainees' self-efficacy for IV catheter insertion increased significantly after skills-lab training using the modified Peyton's Approach for small groups](modified-peyton-small-group-self-efficacy-gain.md) — related
 - [Blinded independent OSCE rating of tutor scanning images reached very high inter-rater agreement (ICC 0.97)](osce-blinded-rating-icc-0-97.md) — related
+- [The Evaluation Agent's post-session feedback was rated appropriate in 87% of 60 sampled sessions with substantial inter-expert agreement (κ = 0.76)](evaluation-agent-feedback-validation.md) — related

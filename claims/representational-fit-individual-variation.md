@@ -66,3 +66,5 @@ Qualitative theme from interview accounts in the same study: some students found
 - [Science and dance students lacked a common disciplinary language but successfully bridged the gap using visuals](visuals-bridged-disciplinary-language-gap.md) — related
 - [Students' metacognitive reflections recommend instructors use concrete experiments and practical movement situations when teaching graphical representation](instructor-concrete-experiments-recommendation.md) — related
 - [Education experts judged Physics Playground not usable on its own and recommended teacher-led introduction and richer visual representation of abstract concepts](experts-vr-needs-teacher-integration.md) — related
+- [Qualitative accounts indicate contextual anchoring — examples tied to a student's own interests and background — made abstract concepts feel concrete and reduced cognitive load](contextual-anchoring-aha-moments-cognitive-load.md) — related
+- [Scientists' hand gestures, animated into visual metaphors, help make complex astronomical concepts relatable and engaging](scientist-hand-gestures-animation-relatable.md) — related

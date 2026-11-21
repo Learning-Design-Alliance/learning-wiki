@@ -76,3 +76,4 @@ The article reports the retained items' difficulty spread and that discriminatio
 - [CTT parameters on the protoPIQL identified weak items (too easy or low discrimination), driving item removal and addition across versions](protopiql-ctt-weak-items-removed.md) — related
 - [Point biserial coefficient exceeds the 0.2 criterion for 32 of the 33 STPFaSL items](stpfasl-point-biserial-32-of-33-items.md) — related
 - [Point biserial coefficients exceed the 0.2 criterion for 71 of 78 items in-person, with the below-threshold entropy items showing advanced students performing comparably to introductory students](stpfasllong-pbc-entropy-items-below-threshold.md) — related
+- [Mid-difficulty questions discriminate best between students, while very easy questions show attenuated discrimination](mid-difficulty-questions-discriminate-best.md) — related

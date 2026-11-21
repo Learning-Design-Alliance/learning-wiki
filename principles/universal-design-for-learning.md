@@ -35,7 +35,7 @@ sources:
 # Universal Design For Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (16 for, 7 mixed) · 36 studies (14 review, 7 causal, 5 quant-synthesis, 4 theoretical, 3 qualitative, 2 design, 1 associational), `q1`–`q4` · 6 of 36 report an effect size · 15 claims rest on one study
+> **Evidence** · 25 claims (17 for, 8 mixed) · 37 studies (14 review, 8 causal, 5 quant-synthesis, 4 theoretical, 3 qualitative, 2 design, 1 associational), `q1`–`q4` · 6 of 37 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -138,6 +138,8 @@ Learners, tasks and outcomes differ across these claims (memory experiments, phy
 - [The package claims minimal technical English limits workplace training through comprehension, confidence and written-form difficulties](../claims/minimal-technical-english-limits-training.md) [+W]
 - [A 16-week universally designed online depth-of-vocabulary intervention improved standardized vocabulary knowledge relative to a control group in fifth graders](../claims/online-depth-vocabulary-intervention-improved-standardized-vocabulary.md) [+W] — attached 2026-10-15 from Proctor et al. (2011), which proposed "Design digital literacy interventions so bilingual learners can access all texts and activities in both of their languages".
 - [Proactive and reactive investment are complementary types of accessibility work, with proactive strategies benefiting all learners](../claims/proactive-reactive-investment-labs.md) [+W] — attached 2026-11-19 from D. R. Dounas-Frazer et al. (2021), which proposed "Incorporate Universal Design for Learning principles into the design and implementation of laboratory courses and activities".
+- [UDL-transformed CS1 lecture slides raised simulated average scores for dyslexia, ADHD and neurotypical personas relative to control groups](../claims/udl-slides-higher-simulated-scores-dyslexia-adhd-neurotypical.md) [+W] — attached 2026-11-21 from DiverseClaire: Simulating Students to Improve Introductory Programming Course Materials fo, which proposed "UDL and WCAG 2.2 slide-transformation pattern for accessible course materials"; tests this page's relationship.
+- [UDL interventions to lecture slides offered no benefit to simulated ASD learners, with each intervention rated lower on average than the original slides](../claims/udl-interventions-no-benefit-asd-learners.md) [~W] — attached 2026-11-21 from DiverseClaire: Simulating Students to Improve Introductory Programming Course Materials fo, which proposed "UDL and WCAG 2.2 slide-transformation pattern for accessible course materials"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -182,6 +184,7 @@ The expectation should weaken if comparisons of a design with several routes aga
 - [For computer-based physics exercises with broadly distributed abilities, keep the task level as baseline, add flexibility, and retain a text-based completion option](../strategies/vispa-course-iteration-recommendations.md)
 - [Accommodate every MBTI preference in a course so students are exposed to non-preferred styles and diversify their learning strategies](../strategies/accommodate-every-preference-diversify-strategies.md)
 - [Design physics courses with UDL by examining the why, what, and how of teaching to find student barriers, then adding supports and options](../strategies/why-what-how-udl-course-examination-strategy.md)
+- [Offer CS1 course materials in multiple formats to accommodate different learner preferences](../strategies/multiple-format-cs1-materials-strategy.md)
 
 ### Illustrative
 

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-21
 sources:
   - id: razan-hamed-2025
     resource: "https://doi.org/10.1119/perc.2025.pr.hamed"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the teacher role participants generated pictures, cartoons, analogies, activities, and graphs, while in the student role they generated pictures, analogies, stories, and equations; only three of 20 generated the same type across roles. [→ Razan Hamed 2025](#razan-hamed-2025)

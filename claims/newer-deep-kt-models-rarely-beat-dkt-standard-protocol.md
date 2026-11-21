@@ -64,3 +64,5 @@ The benchmark compares models from the deep learning family only; it does not in
 - [Concatenating SANN code vectors with DKT inputs improves next-attempt prediction by about 10% AUC over original DKT](sann-code-vectors-improve-knowledge-tracing.md) — related
 - [AKT-MLd achieves the best overall performance across benchmarks, with gains most pronounced on high-KC datasets](akt-mld-best-overall-benchmarks.md) — related
 - [SBRKT achieves the highest AUC on several knowledge tracing benchmarks and ranks second on the others, despite sparse discrete representations](sbrkt-auc-vs-baselines.md) — related
+- [Instantiating TASA with DKT as the knowledge tracing model yields the highest average learning gain among five KT variants](dkt-best-kt-backbone-for-tasa.md) — related
+- [Fine-tuned LLaMA NTKT models outperform deep learning KT baselines on the Eedi dataset, exceeding 10 percentage points in AUC over the best baseline](ntkt-outperforms-kt-baselines-edi.md) — related

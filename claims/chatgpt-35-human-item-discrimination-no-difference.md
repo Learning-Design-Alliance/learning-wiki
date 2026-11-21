@@ -57,3 +57,4 @@ Pairwise meta-analysis found "no significant difference in the average item disc
 - [Clinical scenario and integration-type AI questions discriminated better than knowledge-recall questions](clinical-scenario-questions-higher-discrimination.md) — reports the opposite
 - [ChatGPT can complete multiple-choice exams to a very high standard, across disciplines and including image- and data-based questions](chatgpt-high-performance-mcq-exams.md) — related
 - [Item parameters of homework and online-exam items differ only insignificantly between resource-usage classes, and no performance quartile benefited or was harmed by online resource use](item-parameters-and-quartiles-null-usage-effects.md) — related
+- [Mid-difficulty questions discriminate best between students, while very easy questions show attenuated discrimination](mid-difficulty-questions-discriminate-best.md) — related

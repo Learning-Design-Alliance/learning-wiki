@@ -49,6 +49,7 @@ The validated scenario organizes each in-situ simulation session into an explici
 - [Structured inquiry session sequence: introduction, questioning, investigation, presentations, and synthesis](inquiry-session-sequence-questioning-investigation-presentation-synthesis.md)
 - [Hands-on workshop sequence: study an existing model, modify it, then self-direct a personal customization project](ejs-hands-on-model-modification-workshop-strategy.md)
 - [Classroom implementation structure: preparation, introduction, activity, feedback cycle](activity-feedback-cycle-classroom-structure.md)
+- [Use a three-phase branching narrative with converging checkpoints to place learners in diverse communicative scenarios](three-phase-branching-narrative-strategy.md)
 
 ## Examples
 -

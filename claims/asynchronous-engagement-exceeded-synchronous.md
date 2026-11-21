@@ -51,3 +51,4 @@ Attendance and platform-usage records from the tutoring programme; the article r
 - [Logistical flexibility of the asynchronous and quasi-synchronous modalities supported behavioral engagement, while the synchronous modality's scheduling demands disrupted participation](logistical-flexibility-behavioral-engagement.md) — related
 - [Most remote courses used both synchronous and asynchronous delivery mechanisms](remote-courses-mixed-synchronous-asynchronous-delivery.md) — related
 - [84% of students preferred scheduling their collaborative exam asynchronously at their own convenience over fixed instructor-scheduled evening times](students-prefer-async-scheduling.md) — related
+- [About one third of enrolled students regularly engaged with the course's supportive Moodle activities](moodle-engagement-one-third.md) — related

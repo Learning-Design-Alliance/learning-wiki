@@ -54,3 +54,4 @@ Multinomial logistic regression (R3STEP in Mplus) of auxiliary covariates on pro
 - [Magnet schools show significantly lower cultural and critical mathematics instruction and higher racial stereotyping than neighborhood schools](magnet-schools-lower-ccmi-higher-stereotyping.md) — related
 - [Student perceptions of school racial stereotyping are not directly associated with racial-mathematical profile membership](stereotyping-not-associated-with-profile-membership.md) — related
 - [Non-cognitive profiles significantly predicted 9th-grade mathematics and science achievement but not English](profiles-predict-grade9-math-science.md) — related
+- [In a multinomial logistic regression, only the frequency of reading instructional journals significantly predicted profile membership; teaching experience, teacher education, school type and doctoral degree did not.](journal-reading-only-significant-profile-predictor.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-21
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-21
 sources:
   - id: learnlm-team-2025
     resource: "https://doi.org/10.48550/arXiv.2509.13348"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-21 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students who used Learn Your Way received higher scores than Digital Reader students on the Immediate Assessment (p=0.03). [→ LearnLM Team 2025](#learnlm-team-2025)
@@ -66,3 +67,5 @@ Same RCT's Retention Assessment, emailed three days post-session and designed to
 ## Related Claims
 - [Learners rated the assessment's difficulty similarly across conditions, with no statistically significant difference between Learn Your Way and the Digital Reader](assessment-difficulty-rating-no-significant-difference.md) — related
 - [Across all learning-experience survey measures, Learn Your Way was rated more positively than the Digital Reader, with several differences statistically significant](learn-your-way-survey-more-positive-ratings.md) — related
+- [Students using Learn Your Way scored significantly higher on an immediate recall assessment than students using a digital textbook](learn-your-way-better-immediate-recall.md) — related
+- [Learn Your Way students also scored significantly higher on a delayed long-term recall assessment 3-7 days after learning](learn-your-way-better-long-term-recall.md) — related

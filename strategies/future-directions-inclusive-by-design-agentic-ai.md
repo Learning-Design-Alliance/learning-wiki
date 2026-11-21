@@ -52,6 +52,8 @@ The article's future directions section recommends four research and development
 - [Integrate autonomy and agency paradigms, standardise instruments, probe non-demographic moderators, and extend evaluations to longitudinal real-world settings](integrate-paradigms-longitudinal-hri-autonomy-research.md)
 - [Prioritize construct-to-data mappings, multimodal validation, ethical implementation, and cross-disciplinary collaboration for domain-specific adaptive systems](domain-specific-adaptivity-research-priorities.md)
 - [Human-in-the-loop instructor control as a design direction for adaptive learning systems](human-in-loop-instructor-realtime-adaptive-control.md)
+- [Future course evolution: multimodal integration, agent-based systems, responsible AI, and industry partnerships](future-directions-multimodal-agents-responsible-ai.md)
+- [Prioritize robust ethical frameworks, enhanced memory architectures, and culturally adaptive designs coordinating cultural intelligence, emotional responsiveness, and memory-driven personalization in virtual and robotic AI agents](future-priorities-culturally-adaptive-ai-agents.md)
 
 ## Examples
 -

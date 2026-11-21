@@ -87,3 +87,4 @@ Another student comment in the same theme, noting the virtual lab hastened learn
 - [Students independently characterize sources after guided work on the first source, reaching the day's research objective](guided-to-independent-source-characterization.md) — related
 - [A step-by-step remote-lab manual made students faster but produced more basic mistakes from unreasoned copying of example code](step-by-step-manual-speed-but-more-mistakes.md) — related
 - [Teachers reported significant shifts toward valuing guided inquiry labs after one or more years in the IPaSS Community of Practice.](retrospective-gis-perception-shifts-toward-guided-inquiry.md) — related
+- [The optics inquiry activities were piloted with primary and secondary pupils in an informal physics education centre in 2024/2025 and the worksheets revised based on feedback](optics-worksheets-piloted-2024-2025-revised.md) — related

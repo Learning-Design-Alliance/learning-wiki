@@ -52,3 +52,4 @@ Experiment 2 agent-persona perception measured with the API-R (Ryu & Baylor, 200
 - [Gesture type affects reported mental effort, with lower effort for beat gestures in Experiment 1 and for deictic gestures in Experiment 2, but no effect on mental load](gesture-type-mental-effort-effects.md) — related
 - [Frontal addressing in an instructional video enhances parasocial interaction and retention performance](frontal-addressing-enhances-psi-and-retention.md) — related
 - [Facilitator authenticity and credibility are extremely important for students to trust and benefit from social-psychological activities](facilitator-authenticity-credibility-intervention.md) — related
+- [Learners direct more attention to educational agents that employ gestures to indicate empathy, perceiving these interactions as more natural and meaningful than those lacking social cues.](empathy-gestures-increase-learner-attention.md) — related

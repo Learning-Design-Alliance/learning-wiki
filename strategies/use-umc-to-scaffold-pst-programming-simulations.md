@@ -50,6 +50,7 @@ The article's first design principle recommends the use-modify-create approach a
 - [Design use-stage simulations so PSTs can explore the science phenomenon without programming](explore-science-phenomenon-without-programming.md)
 - [Keep initial TK-requirements low using block-based platforms and easily graspable simulation code](keep-tk-requirements-low-block-based-simulation-code.md)
 - [Use → Modify → Create scaffolding strategy to navigate tensions between personal and disciplinary authenticity](use-modify-create-scaffolding-strategy.md)
+- [Structure MicroSim lesson plans as a PRIMM progression: Predict, Run, Investigate, Modify, Make](microsim-primm-lesson-progression.md)
 
 ## Examples
 -

@@ -66,3 +66,4 @@ Repeating the t-test for computer science and physical science majors only, hist
 ## Related Claims
 - [Men reported greater interest in quantum careers than women across all majors, but this gender difference disappeared among physical science and computer science majors](gender-interest-quantum-careers-major-dependent.md) — related
 - [Societal stereotypes, strongest in physics, contribute to lower sense of belonging for women and ERM students in physics](stereotypes-lower-belonging-women-erm-physics.md) — related
+- [Educators report that siloed disciplinary preparation in the interdisciplinary QIST field can undermine students' sense of belonging, especially for historically marginalized groups](siloed-preparation-belonging-qist.md) — related

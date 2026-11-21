@@ -65,3 +65,4 @@ The article attributes to Lowenthal et al. (2020) the report that "asynchronous 
 - [Online-only format fostered more intensive student–teacher communication, with cameras on and small groups as key enablers](online-teacher-communication-more-intensive-cameras-small-groups.md) — related
 - [Adding synchronous communication to asynchronous online courses is associated with greater social presence and, in some contexts, improved learning outcomes](synchronous-communication-social-presence-online.md) — related
 - [Percentage of isolated students decreased from 37% to 26% with the change to virtual context](isolated-students-decreased-virtual.md) — related
+- [Human connections with instructors and peers were the factors most tied to student satisfaction and performance in pandemic online courses](human-connection-tied-to-online-satisfaction.md) — related

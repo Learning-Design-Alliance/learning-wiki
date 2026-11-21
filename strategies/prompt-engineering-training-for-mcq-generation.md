@@ -48,6 +48,7 @@ The review recommends that educators craft prompts carefully when generating MCQ
 ## Related Strategies
 
 - [Optimize LLM hint quality through prompt engineering, model fine-tuning, and correlation mining of hint properties](optimize-llm-hints-prompt-engineering-finetuning.md)
+- [Train teachers in the GPEI methodology and named prompting patterns (Persona Pattern, Interview Pattern, Chain-of-Thought) to improve their use of ChatGPT](gpei-prompt-patterns-teacher-training-strategy.md)
 
 ## Examples
 -

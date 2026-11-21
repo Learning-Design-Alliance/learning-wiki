@@ -50,3 +50,4 @@ The author's observational report from two years of offering the course-chapter,
 - [Students began with no quantum computing knowledge and by course end could implement quantum algorithms, with some contributing katas back to the public open-source repository](students-contributed-katas-open-source-by-course-end.md) — related
 - [Problem statement phrasing promotes different initial frames and may elicit different difficulties](problem-statements-promote-frames.md) — related
 - [Physics faculty attribute student difficulty in quantum physics chiefly to its abstract, non-intuitive nature and, for some, to heavy mathematical demands](faculty-attribute-qp-difficulty-abstractness-math.md) — related
+- [The practical prepared students for quantum computing theses: 6 participants were recruited for final theses and all finished successfully](six-thesis-recruits-all-finished.md) — related

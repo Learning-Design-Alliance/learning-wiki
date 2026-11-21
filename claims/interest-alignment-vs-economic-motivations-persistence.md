@@ -58,3 +58,4 @@ ANOVA tests of survey-rated motivations across the three persistence groups (524
 - [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](personalized-problem-contexts-boost-engagement-grades-4-8.md) — related
 - [Time constraints (47.3%) and course difficulty (27.7%) are the two largest barriers to completing the LC101 coursework phase](time-and-difficulty-largest-coursework-barriers.md) — related
 - [Accrual accounting and health economics were the least relevant courses and gained among the lowest post-test scores](accrual-accounting-health-economics-least-relevant-lowest-scores.md) — related
+- [Non-personalized materials produce deepening disengagement over time, while interest-aligned engagement persists, though topic-level alignment can mismatch learner expectations](personalization-disengagement-mismatch-qualitative.md) — related

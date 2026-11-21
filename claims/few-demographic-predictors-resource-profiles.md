@@ -63,3 +63,4 @@ Manual three-step BCH multinomial logistic regression of latent class membership
 - [Students' gender, race, maternal education level, and social-economic ranking predicted latent profile membership](demographics-predict-noncognitive-profiles.md) — reports the opposite
 - [AI-generated hint use was equitable across gender and race/ethnicity groups, with most students trying at least one hint](ai-hints-use-equitable-across-groups.md) — related
 - [Only first-year classification significantly predicted lower outreach participation; no gender, race, international, or LGBTQIA+ differences were observed](outreach-participation-demographic-nulls-first-years.md) — related
+- [In a multinomial logistic regression, only the frequency of reading instructional journals significantly predicted profile membership; teaching experience, teacher education, school type and doctoral degree did not.](journal-reading-only-significant-profile-predictor.md) — related

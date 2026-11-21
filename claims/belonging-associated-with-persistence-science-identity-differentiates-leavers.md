@@ -58,3 +58,4 @@ Comparison of coded belonging reasons between majors and leavers in the intervie
 - [Societal stereotypes, strongest in physics, contribute to lower sense of belonging for women and ERM students in physics](stereotypes-lower-belonging-women-erm-physics.md) — related
 - [Finding a research group holds differential importance for women and non-binary physics students, who screen groups for inclusivity and at times deprioritize preferred research topics](group-search-differential-importance-women-nonbinary.md) — related
 - [Gender moderates the belonging–persistence relationship: women report lower intent to persist at low belonging but exceed men when belonging is strong](gender-moderates-sb-ip.md) — related
+- [Educators report that siloed disciplinary preparation in the interdisciplinary QIST field can undermine students' sense of belonging, especially for historically marginalized groups](siloed-preparation-belonging-qist.md) — related

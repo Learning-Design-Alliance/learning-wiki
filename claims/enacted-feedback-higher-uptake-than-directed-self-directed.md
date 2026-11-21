@@ -53,3 +53,4 @@ Binomial GLMM on log data from 51,296 resources across the three workflow condit
 - [Workflow condition is associated with students' self-assessment confidence](workflow-condition-self-assessment-confidence-effect.md) — related
 - [Selecting a suggested option in the scaffold was associated with higher compliance for four out of twenty scaffold options in the generalized condition.](selecting-scaffold-options-associated-higher-compliance.md) — related
 - [LiftUpp's workflow-based iPad observation yields large-scale real-time performance data in dental clinics](liftupp-workflow-observation-data-scale.md) — related
+- [Resource quality outcomes do not differ significantly across directive, metacognitive, and hybrid AI feedback conditions](ai-feedback-type-resource-quality-null.md) — related

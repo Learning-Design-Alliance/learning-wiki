@@ -69,6 +69,7 @@ Misconceptions are resistant to simple transmission of correct information; lear
 - [Use group discussions and student presentations to quality-control students' physical intuitions](intuition-quality-control-discussion-presentations.md)
 - [Elicit and critically engage with media-derived claims as a myth-busting approach to media-inflated preconceptions](elicit-confront-media-claims-myth-busting.md)
 - [Use the elicit-confront-resolve strategy to structure tutorial questions that help students refine documented misconceptions](ecr-strategy-tutorial-question-sequencing.md)
+- [Confront pupils with a physically incorrect statement to create cognitive conflict and trigger verification and reasoning](incorrect-statement-cognitive-conflict-strategy.md)
 
 ## Examples
 - **Physics education research curricula** such as *Tutorials in Introductory Physics* (University of Washington) and *RealTime Physics* use pre-tutorial predictions, discrepant experiments, and guided reconciliation to repair force-and-motion misconceptions. [https://www.phys.washington.edu/groups/peg/](https://www.phys.washington.edu/groups/peg/)

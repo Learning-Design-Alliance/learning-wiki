@@ -56,3 +56,4 @@ Descriptive overall-performance analysis (Figure 5) of the two-run averaged scor
 - [Current LLMs answer USMLE-style anatomy MCQs with an average accuracy of 76.8%, far above GPT-3.5's 44.4% a year earlier and above random guessing](current-llms-anatomy-mcq-76-8-percent-accuracy.md) — related
 - [GPT-4o showed the highest accuracy (92.9%) on anatomy MCQs, followed by Claude, Copilot, and Gemini](gpt-4o-highest-anatomy-mcq-accuracy.md) — related
 - [GPT-4o scores 75% on LLM-translated FCI versions across 53 languages, 76% on back-translations, and 77% in English, with GPT-o1 reaching 84% in English](fci-gpt4o-translation-overall-accuracy.md) — related
+- [The choice of backbone LLM shaped affective content dimensions, with DeepSeek-r1 outperforming GPT-4o and OpenAI-o1 on engagement, naturalness, and personalization relevance](backbone-model-choice-shapes-affective-dimensions.md) — related

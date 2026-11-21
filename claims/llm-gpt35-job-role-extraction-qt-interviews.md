@@ -50,3 +50,4 @@ LLM-assisted analysis of anonymized interview transcripts using two prompts, yie
 - [LLMs show moderate agreement with human coders when extracting explicitly stated data from education studies](llms-moderate-agreement-explicit-data-extraction-education.md) — a broader claim this one bears on
 - [Five distinct faculty personas emerged from interviews about physics assessment practices](personas-five-physics-faculty-archetypes.md) — related
 - [Human review remains essential after GPT-based codebook generation, producing a final refined SRL codebook of eleven constructs](human-refinement-essential-gpt-codebooks.md) — related
+- [Persona-based evaluation with three learner personas finds contextually appropriate, clear and accurate system behaviour across proficiency profiles](langlingual-persona-based-evaluation.md) — related

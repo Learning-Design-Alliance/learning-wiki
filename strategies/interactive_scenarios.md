@@ -84,6 +84,7 @@ Interactive scenarios work because they require learners to apply knowledge to a
 - [Use hybrid simulations combining real-world materials with low-cost simulators to enable realistic, interactive scenarios at reduced cost](hybrid-simulation-real-world-materials-low-cost-simulators.md)
 - [Embed simulation-based scenarios into the curriculum as structured learning modules with guided debriefings and reflective exercises](simulation-modules-debriefing-strategy.md)
 - [Use context-rich problems that place the student in a realistic scenario with missing or excess data to promote transfer](context-rich-problems-promote-transfer.md)
+- [Use a three-phase branching narrative with converging checkpoints to place learners in diverse communicative scenarios](three-phase-branching-narrative-strategy.md)
 
 ## Examples
 - **[Harvard Business Publishing Simulations](https://www.harvardbusiness.org/)** — business simulations (e.g., the Change Management simulation) where learners make sequential strategic decisions and see organizational consequences unfold.

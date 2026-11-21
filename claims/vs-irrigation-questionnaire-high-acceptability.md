@@ -97,3 +97,4 @@ Reliability analysis of the four questionnaire domains (perceived learning effec
 - [Students rated the dermatology e-learning course highly, with 90.9% rating it very good to excellent](elearning-dermatology-high-satisfaction-90-9.md) — related
 - [Learners rated the circuit-measuring cooperative system positively on a five-point Likert questionnaire](likert-questionnaire-positive-circuit-measuring-system.md) — related
 - [High learning experience and engagement scores from WBLT questionnaire](gamedevdojo-high-wblt-scores.md) — related
+- [Participants rated the modelling course highly, with over 90% rating sessions highly for satisfaction, engagement, and applicability](high-engagement-feedback-modelling-onboarding-course.md) — related

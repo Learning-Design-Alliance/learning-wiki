@@ -56,6 +56,7 @@ The article recommends a workflow using only commonly available tools: create co
 - [Produce PBL scenario animations inexpensively with off-the-shelf web-based animation apps](off-the-shelf-animation-scenario-production-strategy.md)
 - [Build online modules from existing lecture slides with narration, animations, and embedded formative review quizzes](reuse-lecture-slides-interactive-modules-strategy.md)
 - [Low-cost mathcast production workflow: Wacom tablet, free drawing and screen-capture software, and YouTube hosting with analytics](low-cost-mathcast-production-workflow.md)
+- [Workflow for producing animated video lessons: identify the problem, build animations first, then add narration](manim-animated-video-lesson-workflow.md)
 
 ## Examples
 -

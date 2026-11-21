@@ -46,6 +46,7 @@ The article recommends that future analyses of physics-community demographics br
 - [Examine data across subgroups and account for diversity within subgroup categories before interpreting score differences](examine-data-across-subgroups-and-within-category-diversity.md)
 - [Disaggregate student outcome data by demographic variables when evaluating educational interventions](disaggregate-outcomes-by-demographics-strategy.md)
 - [Disaggregate participation data intersectionally by race and gender to surface disparities hidden in aggregate analyses](strategies-disaggregate-participation-data-intersectionally.md)
+- [Protect anonymity in EDI data collection by not reporting or collapsing subgroups with fewer than 5 individuals](collapse-subgroups-below-five-individuals.md)
 
 ## Examples
 -

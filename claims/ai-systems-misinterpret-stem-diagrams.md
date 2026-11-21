@@ -74,3 +74,4 @@ Illustrative failure analysis of network topology interpretation (Figure 1c), de
 - [The GPT-4 contextualization system fails on geometry problems involving graphs, tables, or diagrammatic components](gpt4-contextualization-geometry-visual-limitation.md) — related
 - [Image generation frequently failed to represent all components of multi-component STEM analogies](image-generation-misses-analogy-components.md) — a narrower finding that bears on this claim
 - [Graphical GenAI systems failed to produce reliable scientific illustrations for college-level content, with error rates approaching 100%](image-genai-error-rates-approaching-100-percent.md) — related
+- [API-based evaluation fails on graphical and mathematical content because the model cannot parse images, tables, graphs and embedded equations](chatgpt-api-cannot-parse-figures-equations.md) — a broader claim this one bears on

@@ -52,6 +52,7 @@ Because users differed in interface preference, the authors recommend that "diff
 - [Incorporate virtual learning for communication training alongside face-to-face practice for added realism](mix-vl-with-face-to-face-practice.md)
 - [Communication domain: inform users, enable contact with faculty, and provide live interaction with experts](postgraduate-me-communication-live-expert-interaction.md)
 - [Iterate the 3D training tool with fixed viewpoints, step animations, instant feedback, and profession-tailored delivery formats](iv-tool-iteration-strategy.md)
+- [Offer CS1 course materials in multiple formats to accommodate different learner preferences](multiple-format-cs1-materials-strategy.md)
 
 ## Examples
 -

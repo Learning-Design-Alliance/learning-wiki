@@ -54,3 +54,4 @@ Mixed-methods survey of 152 of 153 students enrolled in two experiential learnin
 - [Student self-ratings exceeded instructor expectations in four competency domains but fell short in professional knowledge-skills and teamwork](self-ratings-versus-instructor-expectations-gap.md) — related
 - [90% of MOOC exit survey respondents agreed or strongly agreed that the virtual patient exercise was helpful to their learning](vp-mooc-90-percent-helpful.md) — related
 - [Students on the hybrid module reported that teamwork helped them solve the design problem and developed awareness of team roles](tdps-teamwork-outcomes-survey.md) — related
+- [86.4% of students agreed the course motivated them to pursue a STEM career](qpic-course-motivated-stem-career.md) — related

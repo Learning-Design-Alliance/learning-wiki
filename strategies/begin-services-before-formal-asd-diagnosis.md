@@ -52,6 +52,7 @@ The article recommends that children whose behavioral problems prompt referral f
 - [Response To Intervention](response-to-intervention.md)
 - [Multi-Tiered System of Supports (MTSS)](multi-tiered-system-of-supports-mtss.md)
 - [Design interactive educational systems to exhibit human-like behavior patterns: conversation, questioning, answering, volunteering information, and responding to emotional changes](human-like-interaction-design-for-children.md)
+- [Sequence ASD intervention design so that behavioral and emotional pattern understanding precedes skill development](sequential-behavioral-understanding-before-skill-development-asd.md)
 
 ## Examples
 -

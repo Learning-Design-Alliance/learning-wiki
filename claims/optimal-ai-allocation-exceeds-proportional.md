@@ -67,3 +67,4 @@ Controlled single-student numerical comparison with d=10 components, receptivity
 - [Additional AI-assisted learning budget yields diminishing returns in final mastery](diminishing-returns-ai-budget.md) — related
 - [Knowledge-tracing mastery decisions are more equitable than fixed practice but can still under-serve some students when the learner model is fit to the aggregate population or makes wrong assumptions](knowledge-tracing-equity-depends-on-model-accuracy.md) — related
 - [Smart Teaching allocation jointly reflects class-level knowledge gaps and predefined course-content emphasis](st-allocation-balances-gaps-and-emphasis.md) — related
+- [Resource allocation across education sessions can be formulated and solved as a convex optimization problem maximizing terminal student sentiment](convex-optimization-resource-allocation-sentiment.md) — related

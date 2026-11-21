@@ -55,3 +55,4 @@ The author, drawing on years of teaching an intermediate mechanics class with ph
 - [Most movement toward the correct answer among wrong-choice respondents is a direct migration from the fictitious-force choice X to the correct choice](wrong-choice-migration-x-to-correct-choice.md) — related
 - [In an initial test before the intervention, most secondary students answered questions on inertial frames correctly except one on gravity in inertial reference frames (17% correct)](initial-test-inertial-frame-gravity-confusion.md) — related
 - [67% of Boyacá secondary students cannot identify the four fundamental interactions of nature](boyaca-students-fundamental-forces-67-percent-unclear.md) — related
+- [Daily-life contexts for inertial forces and polar coordinates produced conceptual insights students valued](inertial-forces-contexts-conceptual-insights.md) — related

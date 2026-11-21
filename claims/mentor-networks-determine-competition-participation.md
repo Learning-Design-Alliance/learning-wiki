@@ -55,3 +55,4 @@ Interpretation of physics competition participation changes across the decade, p
 - [Intensive three-year professional development changed Leader Teachers' practice dramatically, but peer diffusion of reform was uneven](leader-teacher-diffusion-uneven.md) — related
 - [The authors' mentored projects show high competition placement rates and frequent publication](mentored-science-project-outcome-rates.md) — related
 - [Twelve first-year high school students developed physics curriculum knowledge and practical competencies through the metarecycling project, winning science-fair recognition](estudantes-aprendizagem-fisica-metareciclagem-reconhecimento.md) — related
+- [Applicant-to-seat competition moderates whether quota-track differences appear, with Physics least and Biology most competitive](applicant-seat-ratio-moderates-track-differences.md) — related

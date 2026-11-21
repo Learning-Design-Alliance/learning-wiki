@@ -53,3 +53,4 @@ Field test in which 19 participants (12 female, 7 male, mean age 36.6) independe
 - [Students rated Orthotrainer as usable (mean SUS 77.62) and reported high online learning readiness](orthotrainer-sus-and-olrs-favourable.md) — related
 - [Experimental-group participants rated TibetCPR highly usable (SUS = 84.3, an Excellent rating), with the highest items on voluntary engagement and independent use](tibetcpr-high-usability-sus-84-3.md) — related
 - [The system achieves Good usability, scoring 73.75 on average (SD=14.66) on the SUS](sus-good-usability-73-75.md) — related
+- [Overall performance scores in the field study averaged 69.81 with high variability across students](overall-score-distribution-mean-69-81.md) — related

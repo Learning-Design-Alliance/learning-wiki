@@ -54,3 +54,4 @@ End-of-course satisfaction questionnaire administered to the online-group studen
 - [Students rate digital simulated-person communication seminars highly, with 63% giving a very good and 37% a good overall grade](digital-sp-seminars-high-student-acceptance.md) — related
 - [Students rated the virtual simulation system highly across learning effectiveness, usability, instructional value, and satisfaction (means above 4.2/5; Cronbach's α > 0.80)](vs-irrigation-questionnaire-high-acceptability.md) — related
 - [Interns evaluate the 5-day intensive curriculum very positively, with most endorsing continuation and expansion](bootcamp-positive-evaluation-feedback.md) — related
+- [Participants rated the modelling course highly, with over 90% rating sessions highly for satisfaction, engagement, and applicability](high-engagement-feedback-modelling-onboarding-course.md) — related

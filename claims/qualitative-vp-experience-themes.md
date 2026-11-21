@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-21
 sources:
   - id: cecil-julia-2026
     resource: "https://doi.org/10.1186/s12909-026-09917-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Inductive content analysis of open-ended responses identified positive experiences (conversational coherence, safe practice setting, immediate structured feedback) and negative ones (short responses, technical issues, lacking avatar expressivity). [→ Cecil Julia 2026](#cecil-julia-2026)
@@ -73,3 +74,4 @@ Qualitative inductive content analysis of participants' open-ended responses in 
 - [Qualitative responses indicate AI feedback was mostly perceived positively (49% of responses), with concerns about feedback quality, relevance and technical delays](qualitative-themes-ai-feedback-perceptions.md) — related
 - [Qualitative interviews identified a judgment-free practice environment and specific actionable feedback as key mechanisms of SOPHIE's training value](sophie-qualitative-judgment-free-actionable-feedback.md) — related
 - [Students valued the balance, clarity, specificity, and immediacy of AI feedback, but reported mixed emotions, context-recognition failures, and technical problems](student-perceptions-of-ai-feedback-mixed.md) — related
+- [Qualitative feedback indicates students prioritized competence itself over any specific teaching style in AI roles](students-prioritize-competence-over-style.md) — related

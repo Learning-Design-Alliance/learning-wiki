@@ -55,3 +55,5 @@ Semi-structured empathetic interviews with 16 undergraduate women physics and as
 - [All seven undergraduate women physics majors interviewed recalled negative experiences with their male peers during college](women-physics-majors-negative-male-peer-interactions.md) — related
 - [Female faculty mentors, role models, and supportive peers provided reassurance and comfort that helped a woman physics major persist](female-mentorship-supports-persistence-women-physics.md) — related
 - [Some female students report exclusion, stereotype threat, and reluctance to speak up in male-dominated lab groups](qualitative-gender-barriers-lab-groups.md) — related
+- [Inappropriate behavior by male students in the unsupervised undergraduate physics lounge drives many female students to avoid the space](physics-lounge-inappropriate-behavior-women-avoid.md) — related
+- [Women physics majors experience stereotype threat, hesitating to seek help or speak in class for fear of confirming doubts about women's competence](stereotype-threat-women-physics-help-seeking.md) — related

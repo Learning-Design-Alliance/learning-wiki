@@ -51,3 +51,4 @@ Descriptive analysis of web analytics presented in Fig. 5 and Fig. 6: unique vie
 - [Students with low internet bandwidth could complete the course when offered offline video download and batch mode alternatives](low-bandwidth-mitigation-strategies.md) — related
 - [Students requested richer content and improved audio, video and download quality when asked to suggest podcast improvements](podcast-improvement-suggestions-content-and-quality.md) — related
 - [Students rated the endocrinology videos as useful for learning and accessed them repeatedly, including via mobile download](student-perceptions-video-usefulness-and-access.md) — related
+- [Animated Manim video lessons shared on social media attracted substantial viewer engagement, including a video passing a thousand views in 3 days](manim-video-lessons-viewer-engagement.md) — related

@@ -30,7 +30,7 @@ sources:
 # Cognitive Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 42 claims (24 for, 16 mixed, 2 against) · 48 studies (22 causal, 6 qualitative, 5 review, 5 theoretical, 4 quant-synthesis, 4 associational, 2 design), `q1`–`q4` · 11 of 48 report an effect size · 34 claims rest on one study
+> **Evidence** · 43 claims (24 for, 17 mixed, 2 against) · 49 studies (23 causal, 6 qualitative, 5 review, 5 theoretical, 4 quant-synthesis, 4 associational, 2 design), `q1`–`q4` · 12 of 49 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,7 @@ Re-read 2026-10-19: every claim listed here before that date was read against th
 - [In the biology course ARS questions were intended mainly to check in and elicit immediate recall, while the engineering course used ARS questions to prompt conceptual and quantitative reasoning on new scenarios](../claims/ars-check-in-versus-conceptual-reasoning-across-courses.md) [+W] — attached 2026-11-18 from Koretsky et al. (2018), which proposed "Design and evaluate active learning tools by foregrounding the intended student thinking and sense-making processes, not only performance gains relative to controls".
 - [Despite different implementations, both courses' ARS and GIW tools were intended to engage students in conceptual reasoning and quantitative reasoning around key disciplinary topics](../claims/shared-sense-making-targets-across-tools.md) [+W] — attached 2026-11-18 from Koretsky et al. (2018), which proposed "Design and evaluate active learning tools by foregrounding the intended student thinking and sense-making processes, not only performance gains relative to controls".
 - [Tasks that together cue real-world contexts, mechanistic explanation, multiple representations, and physical interpretation of mathematics increase the likelihood of student sensemaking in physics](../claims/task-features-increase-likelihood-sensemaking-physics.md) [+W] — attached 2026-11-19 from Amogh Sirnoorkar et al. (2023), which proposed "Frame task-design arguments in agent-based cuing vocabulary rather than task-feature prescriptions"; tests this page's relationship.
+- [Over the long term, both high- and low-level tasks are similarly effective, with belief of understanding aligning with knowledge at follow-up only in the task groups](../claims/long-term-both-task-types-similarly-effective.md) [~M] — attached 2026-11-21 from Madeleine Hörnlein et al. (2024), which proposed "Explainer videos should not be used in isolation but combined with cognitively demanding follow-up activities"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

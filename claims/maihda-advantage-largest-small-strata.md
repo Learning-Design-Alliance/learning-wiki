@@ -50,3 +50,4 @@ Simulation comparison of mean absolute true errors per strata (Table 4). "The la
 - [MAIHDA models produce more accurate predicted strata outcomes than fixed effects models across total sample sizes, with the advantage shrinking as total sample size grows](maihda-more-accurate-than-fixed-effects-strata.md) — related
 - [Precision-weighted shrinkage in MAIHDA yields reliable conservative estimates for small strata and helps solve the multiple-testing problem](maihda-shrinkage-small-strata-advantages.md) — related
 - [MAIHDA shows a small consistent negative bias in mean true error for strata sample sizes below ten individuals](maihda-negative-bias-tiny-strata.md) — related
+- [Mean absolute error between the 19 subgroup means and the pan-Asian aggregate was 3.9 percentage points at pretest and 4.0 at posttest, roughly 4-5 weeks of learning](mae-subgroup-vs-pan-asian-four-weeks.md) — related

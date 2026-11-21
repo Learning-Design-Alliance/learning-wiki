@@ -60,6 +60,7 @@ The article recommends guarded, faculty-supervised use of LLMs as adjuncts to MC
 - [Use controlled feedback mechanisms in chatbot-based exam practice to promote critical thinking and iterative learning](controlled-feedback-chatbot-exam-practice.md)
 - [Implement hybrid AI-generation with expert calibration for examination production](hybrid-ai-generation-expert-calibration-strategy.md)
 - [Use automated assessment across MCQs, short free-text answers, and essay marking to increase feedback during learning](automated-assessment-three-approaches-strategy.md)
+- [Use ChatGPT as a teacher-supervised complementary tool for formative assessment of laboratory reports, not as an automated grader](teacher-supervised-chatgpt-formative-assessment-strategy.md)
 
 ## Examples
 -

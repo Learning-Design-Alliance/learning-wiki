@@ -54,3 +54,4 @@ Instructor-administered course assessment on file for all 86 randomized students
 - [Within individuals, adopting the Exam Playbook tracks better subsequent exam performance and dropping it tracks worse](exam-playbook-adopt-drop-intraindividual.md) — related
 - [The three comparison and intervention groups performed about the same on the final exam, with no statistical difference between them](no-final-exam-difference-between-groups.md) — related
 - [Students who adopted GPT-4 showed an estimated positive exam-score benefit (LATE ∆=6.86pp, ES=0.40), not significant after correction](gpt4-adopters-exam-score-late.md) — related
+- [The AI-permitted group outperformed the offline group on both midterms, but on the final exam the offline group outperformed the AI group with no statistically significant difference.](ai-group-midterm-outperformance-final-null.md) — reports the opposite

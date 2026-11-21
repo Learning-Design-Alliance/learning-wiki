@@ -105,3 +105,4 @@ The review reports, from a single chemistry study in its table, that detailed ru
 - [GPT-4 grading shows high score variability across repeated rounds, especially for numerical correctness](gpt4-grading-score-variability.md) — a narrower finding that bears on this claim
 - [Providing a mark scheme substantially improves LLM grading accuracy and consistency, with GPT-4 shifting closest to human grades](mark-scheme-improves-llm-grading.md) — a narrower finding that bears on this claim
 - [Adding explanation text to rubric items targeting observed machine-grading errors cut cases where GPT-4o differed from both human graders from 21.7% to 9.6% on Question 2](rubric-explanation-targeting-machine-errors.md) — a narrower finding that bears on this claim
+- [ChatGPT's grading consistency does not improve with increased prompt specificity in essay evaluation](chatgpt-grading-consistency-not-improved-by-prompt-specificity.md) — reports the opposite

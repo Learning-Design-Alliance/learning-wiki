@@ -94,6 +94,7 @@ Tiering operationalizes instruction within each learner's zone of proximal devel
 - [Support low-ability students in open inquiry with graduated scaffolds such as general procedures and worked examples](graduated-scaffolds-low-ability-open-inquiry.md)
 - [Implement Glogster and cooperative learning differentiated instruction through staged group inquiry with tiered, choice-based products](glogster-staged-group-inquiry-strategy.md)
 - [Tiered content goals provide multiple entry points for students with varied background knowledge](tiered-content-goals-entry-points.md)
+- [Adapt Dice versions and basis orientations across educational levels, and develop teaching guides and expanded protocols](quantum-dice-differentiation-and-future-development-strategy.md)
 
 ## Examples
 - **Parallel math tasks (Marilyn Burns / NCTM tradition)**: all students investigate the same relationship (e.g., patterns in perimeter), with tiers offering manipulatives and sentence frames, open investigation, or a generalization-and-proof challenge.

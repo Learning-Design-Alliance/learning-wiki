@@ -50,3 +50,4 @@ Experiment 2 reversed the language order (English as L1, German/Finnish as L2) s
 - [Language models showed substantial L1 loss from before to after longer L1 training to convergence, in one group with no comparison group](convergence-training-no-entrenchment.md) — related
 - [L1–L2 relatedness affects L2 perplexity but not BLiMP grammatical performance unless plasticity is reduced](language-relatedness-ppl-not-blimp.md) — related
 - [Language models show no critical period for L2 acquisition: delayed L2 exposure does not improve L2 performance](lms-no-critical-period-l2-acquisition.md) — related
+- [Early stopping on course-material perplexity lets CPT adapt to course materials while minimizing forgetting, per validation-loss dynamics](cpt-early-stopping-validation-perplexity-dynamics.md) — a narrower finding that bears on this claim

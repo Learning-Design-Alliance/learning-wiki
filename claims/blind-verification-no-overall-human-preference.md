@@ -86,3 +86,4 @@ Baseline checks within the same blind verification protocol. Position of the two
 - [Participants preferred outlining to depicting overall, with nearly half preferring outlining](learners-prefer-outlining-over-depicting.md) — related
 - [Trained logistic-regression coefficients align with the human coding scheme's inclusion and exclusion criteria](model-coefficients-align-with-coding-scheme-criteria.md) — related
 - [LLM-generated feedback was rated as fairer, more useful and more acceptable when perceived as coming from a human source rather than from an LLM](llm-feedback-rated-higher-when-ascribed-human.md) — related
+- [Blind expert reviewers ranked PAGE-generated personalized content far above the human-authored baseline on personalization relevance and student engagement](page-expert-eval-outperforms-human-baseline.md) — related

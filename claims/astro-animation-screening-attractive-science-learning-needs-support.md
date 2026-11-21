@@ -55,3 +55,4 @@ NEA grant-supported evaluation using surveys and interviews with scientists, ani
 - [Animation students reported the class as an effective way to learn science and to connect their art practice with astronomy](astro-animation-student-science-learning.md) — related
 - [Audiences showed more enthusiasm when animations were presented jointly by animators and scientists](joint-animator-scientist-presentation-enthusiasm.md) — related
 - [MICA astro-animation artwork has been used for science outreach to a greater extent than SAIC art-science coursework](mica-saic-outreach-use-comparison.md) — related
+- [Presenting astronomy via animation is highly attractive to a range of audiences, though additional scientific material is valuable for science learning](astro-animation-attractive-to-audiences.md) — possibly the same claim (merge candidate)

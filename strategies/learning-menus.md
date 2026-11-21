@@ -67,6 +67,7 @@ Learning menus operationalize differentiation by pairing teacher-designed tasks 
 - [Let students choose the complexity level of the LLM feedback](student-selected-feedback-complexity-level.md)
 - [Offer a wide variety of optional form-focussed activities learners choose from according to individual needs, pre- or post-task](optional-choice-based-fonf-activities.md)
 - [Treat the consensus competency and practice list as a menu of options and invest in faculty development while prioritization and evaluation research proceed](competency-list-as-menu-plus-faculty-development.md)
+- [Provide pre-loaded trajectories so students can focus on radiated power rather than approximating motion with controllers](pre-loaded-trajectories-focus-on-radiated-power.md)
 
 ## Examples
 - **Tiered product menu in a history unit** — all students address the same essential question; options are a written analysis, a narrated documentary segment, or a structured debate brief, each scored with the same rubric.

@@ -55,3 +55,4 @@ One-way ANOVA on point biserial values from the mock bellringer exam after exclu
 - [Most protoPIQL questions show acceptable CTT difficulty and discrimination once thresholds are adjusted for item difficulty](protopiql-ctt-item-statistics.md) — related
 - [The QMFPS is reliable and shows good item discrimination for low-stakes assessment](qmfps-reliable-kr20-item-discrimination.md) — related
 - [CTT parameters on the protoPIQL identified weak items (too easy or low discrimination), driving item removal and addition across versions](protopiql-ctt-weak-items-removed.md) — related
+- [Mid-difficulty questions discriminate best between students, while very easy questions show attenuated discrimination](mid-difficulty-questions-discriminate-best.md) — related

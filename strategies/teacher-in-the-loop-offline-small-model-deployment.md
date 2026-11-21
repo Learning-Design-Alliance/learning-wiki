@@ -45,6 +45,7 @@ The article recommends deploying the adapted, quantized 4B model as an offline b
 - [Integrate AI-formative tools state-wide and deploy offline-capable Edge AI servers](statewide-ai-formative-integration-edge-servers.md)
 - [Local deployment via PyPI installation or flash-drive distribution for regions with limited internet](local-deployment-flash-drive-pypi-distribution.md)
 - [Deploy offline SLMs as virtual tutors with native-language localization for physics and photonics education in low-connectivity regions](slm-offline-native-language-tutors.md)
+- [Deploy the offline tutor via smartphone apps and Raspberry Pi community knowledge hubs](offline-deployment-smartphone-raspberry-pi.md)
 
 ## Examples
 -

@@ -51,6 +51,7 @@ Survey respondents cited a lack of formal instruction to prepare for career path
 - [Recruit and retain underrepresented students in QIST through early outreach, funded research experiences, industry mentorship, and a code of conduct](qist-inclusive-recruitment-retention-strategy.md)
 - [Retention supports for teachers of color: networking platforms, safe spaces, mental health resources, race-conscious mentorship, and flexible career pathways](toc-retention-supports-mentoring-mental-health.md)
 - [Include peer and near-peer mentoring structures such as a bridge buddy system](peer-near-peer-bridge-mentoring.md)
+- [Proactively build a professional community as an asset during institutional disruption](build-community-network-asset.md)
 
 ## Examples
 -

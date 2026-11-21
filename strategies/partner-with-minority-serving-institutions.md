@@ -43,6 +43,7 @@ The article recommends collaborations with minority-serving institutions (HBCUs,
 - [Diverse hiring committees and intentional recruitment practices including HBCU/MSI outreach and higher-education partnerships](toc-diverse-hiring-committees-outreach.md)
 - [Partner with immigrant-serving community-based organizations to engage linguistically diverse families and sustain feedback loops](partner-community-based-organizations-el-family-engagement.md)
 - [Grow-your-own and recruitment initiatives: alternative programs, Minority Serving Institutions, high-school pipeline programs, and district human-capital efforts to diversify the teacher workforce.](toc-pipeline-recruitment-practices.md)
+- [Create collaborative cross-institutional research partnerships between four-year colleges and under-resourced institutions, facilitated by a professional researcher and a community college instructor](cross-institutional-cc-research-partnership-creation.md)
 
 ## Examples
 -

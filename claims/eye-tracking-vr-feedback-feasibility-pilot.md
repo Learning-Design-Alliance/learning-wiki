@@ -60,3 +60,4 @@ Feasibility outcomes from the pilot trial: 40 interns enrolled, 5 excluded befor
 - [A pilot robotic simulation course adapted from Intuitive Surgical training was successfully implemented with senior medical students](pilot-robotic-course-implemented-senior-students.md) — related
 - [A remote, fully online pilot RCT design for e-learning evaluation is feasible, with 61.4% of randomised participants completing the trial](remote-pilot-rct-feasible-elearning.md) — related
 - [Automated eye-tracking feedback improves resident sensitivity for suspicious pulmonary nodules more than no feedback (38.89% vs 5.56% absolute improvement)](eye-tracking-feedback-improves-nodule-detection-sensitivity.md) — related
+- [In pilot trials, undergraduate students reproduced the full molecular communication chain within a single laboratory session and achieved stable data rates of up to 0.5 bit/s over a 15 cm channel](pilot-students-reproduce-mc-chain-0-5-bits.md) — related

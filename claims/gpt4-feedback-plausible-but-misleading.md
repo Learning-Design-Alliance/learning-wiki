@@ -58,3 +58,4 @@ Qualitative analysis of AI-generated feedback summaries for the 25 solutions. Th
 - [Among final-answer-correct SLM solutions to physics problem-solving questions, 75-98% contain at least one reasoning error in formulation or execution](slm-physics-answer-reasoning-gap.md) — related
 - [GenAI services can be used to verify the quality of generated isomorphic problems, identifying and correcting erroneous items](genai-verification-of-generated-item-quality.md) — related
 - [Qualitative analysis attributes some human–AAG scoring discrepancies to human grading errors such as overlooking a missing zero or incorrect calculation processes](ta-grading-errors-discrepancy-analysis.md) — related
+- [Despite ECD grounding, about 20% of the LLM-generated feedback contained minor to substantial errors, which students rarely detected](llm-feedback-20-percent-errors.md) — related

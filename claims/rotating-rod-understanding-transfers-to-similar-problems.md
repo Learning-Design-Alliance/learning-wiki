@@ -47,3 +47,4 @@ Authors' interpretation, not a tested result: the article states that similar do
 ## Related Claims
 - [Freshman students find rotating-system problems analyzed from an inertial frame without fictitious forces difficult, for four identifiable reasons](inertial-frame-rotation-problems-student-difficulty.md) — related
 - [Nearly half of first-semester physics students believe the centrifugal force is only required when the object is coupled to the rotating system](centrifugal-force-coupling-misconception.md) — related
+- [Daily-life contexts for inertial forces and polar coordinates produced conceptual insights students valued](inertial-forces-contexts-conceptual-insights.md) — related

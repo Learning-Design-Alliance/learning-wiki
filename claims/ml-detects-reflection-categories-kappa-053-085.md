@@ -66,3 +66,4 @@ Evaluation of machine learning models trained on a random 80% of labeled sentenc
 - [A BERT-based model grades reflective level in English and German essays with a quadratic weighted kappa of 0.71](papagai-bert-reflective-level-qwk-071.md) — related
 - [SRL behaviors can be reliably hand-coded from out-of-the-box automated think-aloud transcriptions](whisper-transcripts-srl-coding-feasibility.md) — related
 - [Cross-validation yielded higher machine-human agreement than self- and split-validation approaches in ML-based science assessment](cross-validation-yields-higher-mha.md) — related
+- [LLM-based grading of open-ended geometry explanations shows substantial agreement with teacher judgments (overall agreement 0.866, Cohen's κ = 0.737)](llm-grading-substantial-teacher-agreement-open-ended-geometry.md) — related

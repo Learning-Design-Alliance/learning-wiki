@@ -9,6 +9,7 @@ generated:
   at: 2026-11-18
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-11-21
 sources:
   - id: emily-m-stump-2020
     resource: "https://doi.org/10.1119/perc.2020.pr.stump"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-21 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Comparing data to theory, participants drew only on measurement limitations and physical limitations, similarly in both contexts. [→ Emily M. Stump 2020](#emily-m-stump-2020)

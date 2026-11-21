@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 119 claims (75 for, 41 mixed, 3 against) · 96 studies (70 causal, 10 quant-synthesis, 9 review, 3 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 20 of 96 report an effect size · 113 claims rest on one study
+> **Evidence** · 121 claims (76 for, 42 mixed, 3 against) · 97 studies (71 causal, 10 quant-synthesis, 9 review, 3 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 20 of 97 report an effect size · 115 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -155,6 +155,8 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [In the factorial analysis, multimedia-based training had a significant effect on ΔOSATS (4.6 vs 1.7, p = 0.001) while practical training did not (3.6 vs 2.8, p = 0.38)](../claims/factorial-multimedia-effect-significant-practical-not.md) [+W] — attached 2026-11-10 from Pape-Koehler Carolina et al. (2013), which proposed "Webop multimedia Internet platform with operation primer for laparoscopic cholecystectomy training"; tests this page's relationship.
 - [Physics teachers and undergraduates without formal CTML instruction predominantly choose multimedia materials aligned with CTML principles, with unanimous choice of the Multimedia-Principle-aligned format](../claims/physics-participants-choose-ctml-aligned-materials.md) [+W] — attached 2026-11-20 from Aline N. Braga et al. (2024), which proposed "Six validated pairs of aligned/unaligned multimedia presentations on optics (Coherence, Signaling, Spatial Contiguity, Segmentation, Multimedia, Personalization)".
 - [Adult learners report similar affect toward the human instructor video and the AI synthetic video](../claims/affect-similar-human-and-ai-video.md) [~M] — attached 2026-11-20 from Lia et al. (2024), which proposed "AI-generated synthetic video learning material built with Synthesia".
+- [Students taught with AI-generated instructional videos perform comparably to students taught with human instructional videos on course quizzes](../claims/aiiv-comparable-quiz-performance-hiv.md) [~M] — attached 2026-11-21 from Dengsheng Zhang (2025), which proposed "Semi-automated AIIV workflow combining Google Gemini script generation, Amazon Polly voice synthesis, and PowerPoint video assembly".
+- [Students report highly positive perceptions of AI-generated instructional videos on clarity, coherence, alignment and usability](../claims/aiiv-positive-student-survey-perceptions.md) [+M] — attached 2026-11-21 from Dengsheng Zhang (2025), which proposed "Semi-automated AIIV workflow combining Google Gemini script generation, Amazon Polly voice synthesis, and PowerPoint video assembly".
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

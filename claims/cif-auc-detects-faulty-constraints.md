@@ -68,3 +68,4 @@ CIF analysis of experiment 2 data confirmed the candidates identified by the oth
 - The three statistical techniques produce consistent diagnoses of constraint quality across two experiments — a broader claim this one bears on
 - [Point-biserial correlation analysis detects anomalous constraints in CBM problem solving data](pbc-detects-anomalous-constraints.md) — related
 - [Cronbach's alpha if-item-deleted analysis identifies constraints that reduce problem consistency](cronbach-alpha-if-deleted-constraint-analysis.md) — related
+- [Among university physics instructors in engineering programs, technical mastery, methodological/digital integration, communication and innovation competences (C1, C2, C6, C9) show stronger development than information literacy and digital ethics/safety (C7, C8)](physics-instructor-competence-strengths-c1-c2-c6-c9.md) — related

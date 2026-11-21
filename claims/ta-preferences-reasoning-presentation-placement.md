@@ -49,3 +49,4 @@ Table 3 preference data from the GAIQ artifact-comparison activity with 24 TAs, 
 - [Physics TAs notice and value features that explicate an expert-like problem solving process, but the features they notice most are surface features such as diagrams, overviews and length](tas-notice-surface-features-of-problem-solutions.md) — related
 - [TAs notice few of the example-solution features that the literature identifies as supportive of expert-like problem solving](tas-notice-few-research-recommended-solution-features.md) — related
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related
+- [Some students reported frustration and confusion with ChatGPT due to misinterpreted input, unfamiliar equation formats, and skipped solution steps](student-frustrations-with-chatgpt.md) — related

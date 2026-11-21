@@ -83,3 +83,4 @@ Same multinomial logistic regression analysis. The three non-gender predictors w
 - [Socio-demographic characteristics and A-level qualifications did not distinguish course-completers from non-completers among identified struggling students](demographics-alevels-not-distinguish-strugglers.md) — related
 - [A reviewed study identified 17 user characteristics considered sources of adaptation for adaptive learning systems](seventeen-user-characteristics-adaptation-sources.md) — related
 - [Students' gender, race, maternal education level, and social-economic ranking predicted latent profile membership](demographics-predict-noncognitive-profiles.md) — related
+- [In a multinomial logistic regression, only the frequency of reading instructional journals significantly predicted profile membership; teaching experience, teacher education, school type and doctoral degree did not.](journal-reading-only-significant-profile-predictor.md) — related

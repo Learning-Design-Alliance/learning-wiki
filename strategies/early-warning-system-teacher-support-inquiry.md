@@ -58,6 +58,7 @@ The article recommends building early warning systems that integrate cognitive, 
 - [Collect social network survey data at midsemester to identify at-risk students while intervention is still possible](midsemester-network-survey-early-identification.md)
 - [Use classification results only to support, not to exclude, students: keep interventions open to all while encouraging the most at-risk students to use them](ethical-use-classification-open-to-all-students.md)
 - [Identify struggling students early from in-unit assignment interactions and provide timely personalized support](early-identification-of-struggling-students-from-in-unit-interactions.md)
+- [Extend the framework with Explainable AI techniques and multimodal signals in future work](future-xai-and-multimodal-extension-strategy.md)
 
 ## Examples
 -

@@ -61,3 +61,4 @@ In the preliminary check, neither fine-tuned model produced usable output (fine-
 - [DPO training brings the pedagogical rubric performance of an 8B open-source LLM to the level of GPT-4o while improving over SFT and distillation-only training](dpo-matches-gpt4o-pedagogical-rubric.md) — related
 - [End-to-end fine-tuning improves error identification, and o1-mini surpasses it in exact match but performs worse on the Hausdorff distance metric](mathedu-error-identification-end-to-end-and-o1-mini.md) — related
 - [LoRA fine-tuning a small LLM significantly improves answer correctness classification over prompted baselines, with the single-task model with rationale significantly outperforming Llama3 70B without rationale](mathedu-finetuning-improves-correctness-classification.md) — related
+- [Domain fine-tuning did not outperform strong base LLMs for feedback generation and mostly slightly reduced performance](fine-tuning-no-gain-over-base-models.md) — related

@@ -69,3 +69,4 @@ Same survey, open-response question on whether the tutorials are more helpful in
 - [Upper-level undergraduate and Ph.D. student performance rose from pretest to posttest after the MZI QuILT, with average normalized gain of 0.78, in one single-group pre-post study](quilt-mzi-normalized-gain-0-78.md) — related
 - [In-class evaluation of the quantum eraser QuILT with 18 upper-level undergraduates and 18 first-year graduate students yielded an average normalized gain of 0.72 from pretest to posttest](quantum-eraser-quilt-normalized-gain-0-72.md) — related
 - [Undergraduates taught with research-based learning tools scored significantly higher on the QMFPS than those who were not](research-based-learning-tools-higher-qmfps-scores.md) — related
+- [In an end-of-course survey, more than half of AI4CHEM students identified in-class Colab tutorials as the component that most helped them learn AI concepts](colab-tutorials-most-endorsed-ai4chem.md) — related

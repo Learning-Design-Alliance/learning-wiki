@@ -94,6 +94,7 @@ Retrieval practice produces substantially stronger long-term retention than rest
 - [Reopen graded quizzes as ungraded, delayed practice near exam time and encourage all students — especially lower prior performers — to use them](delayed-requizzing-strategy.md)
 - [Implement retrieval practice as frequent low- or no-stakes quizzes with feedback, framed as learning opportunities](low-stakes-retrieval-practice-implementation.md)
 - [Structure online practice as distributed, interleaved problem solving with retrieval practice rather than massed, blocked review](geas-distributed-interleaved-retrieval-design.md)
+- [Mix new and previously solved questions in short mobile quizzes using weighted selection favoring less-recent, previously incorrect, and marked items](weighted-quiz-mixing-new-and-revisit-items.md)
 
 ## Examples
 - **[Team-Based Learning](https://www.teambasedlearning.org)** — Readiness Assurance Tests given at the start of each unit include items from all prior units, so earlier content is re-retrieved throughout the course.

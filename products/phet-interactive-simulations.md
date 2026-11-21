@@ -13,7 +13,7 @@ generated:
 # PhET Interactive Simulations
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 4 studies (2 qualitative, 1 design, 1 theoretical), `q1`–`q2` · 0 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 5 studies (2 qualitative, 2 design, 1 theoretical), `q1`–`q2` · 0 of 5 report an effect size · 6 claims rest on one study
 
 ## Description
 Free, interactive science and mathematics simulation software developed and distributed by the PhET Interactive Simulations project at the University of Colorado Boulder.
@@ -26,6 +26,7 @@ Free, interactive science and mathematics simulation software developed and dist
 - **Electric Field Hockey interactive simulation (PhET)**: The Electric Field Hockey is a PhET interactive simulation that "simulates individual electric charges and their interaction according to electrostatic theories (e.g., Coulomb's law) and Newtonian kinetics." Students drag positive (red) and negative (blue) source charges onto a simulated field to make a positive test-charge puck hit a goal, observing attraction, repulsion, and the puck's trajectory. It offers four gradient challenge levels (practice plus levels 1-3 with walls), optional field-line and trace representations, and adjustable puck mass. (Cao (2008))
 - **PhET interactive simulations as assessment and learning environment for blended math-science sensemaking**: PhET simulations (Acceleration and Beer's Law) served as the interactive context for interviews probing MSS levels. They offer "a dynamic and interactive assessment environment that allows for accumulation of new evidence and feedback associated with changing parameters of the system in question." The article argues they lower cognitive load, minimize prior-knowledge requirements, and provide accessible representations supporting MSS engagement across diverse backgrounds. (Kaldaras et al. (2024))
 - **PhET interactive simulations as representational supports for engaging marginalized learners in MSS**: PhET interactive computer simulations are used as the exploration environment in which students complete MSS tasks across framework levels. The article states that "By limiting cognitive load and providing intuitive visual representations with a minimum of text to interpret, the simulations are effective for students with a wide range of educational backgrounds." They let students manipulate parameters while focusing exploration on the most relevant variables, offering a simplified-but-not-too-simplified system for exploring mathematical aspects of a phenomenon without requiring prior knowledge. Prior work by the authors found PhET simulations foster authentic engagement in the dynamic MSS process and offer valuable supports for historically marginalized learners. (Kaldaras et al. (2024))
+- **Projectile Data Lab (PDL): a noise-enhanced PhET simulation for measurement uncertainty**: Projectile Data Lab is a new PhET simulation featuring statistical noise and measurement tools in the context of projectile motion, designed so students explore "systems with uncertainty, the representation of variability, and the connection of physical apparatus with both the source and magnitude of variability". It has four screens — Variability, Sources, Measures, and Sampling — each layering on new capabilities to reduce initial cognitive load, with implicit scaffolding throughout. Since publication in May 2024 it has been run over 850,000 times and translated into 35 languages. (Qiaoyi Liu et al. (2025))
 
 ### Claims
 - [Interactive simulations with associated homework increased students' explicit discussion and multiple-model use, but not Schrödinger-model use](../claims/simulations-increase-explicit-model-discussion.md) [+M]
@@ -33,6 +34,7 @@ Free, interactive science and mathematics simulation software developed and dist
 - [Students spontaneously set their own challenges and take ownership when exploring PhET simulations](../claims/students-self-challenges-phet-sims-ownership.md) [+W]
 - [PhET simulations support meaningful engagement in blended MSS by diverse students with essentially no prior knowledge of the relevant content](../claims/phet-simulations-support-mss-no-prior-knowledge.md) [+M]
 - [Level-2 students from diverse backgrounds use PhET simulations more frequently and productively than students from dominant backgrounds](../claims/diverse-students-use-phet-simulations-more.md) [+M]
+- [Most surveyed physics lab instructors report that the targeted measurement-uncertainty learning goals align with their course objectives](../claims/instructor-survey-alignment-measurement-uncertainty-goals.md) [+M]
 
 ## Related Products and Programmes
 
@@ -45,3 +47,4 @@ Free, interactive science and mathematics simulation software developed and dist
 - Cao, Y. (2008). High School Students' Group Interaction with the Electric Field Hockey Interactive Simulation. http://phet.colorado.edu/en/simulation/electric-hockey
 - Kaldaras, L., & Wieman, C. (2024). Investigating Blended Math-Science Sensemaking with a diverse undergraduate population. https://arxiv.org/abs/2405.07905
 - Kaldaras, L., & Wieman, C. (2024). Directed Self-Guided Learning of Blended Math-Science Sensemaking for Historically Marginalized STEM Learners.
+- Qiaoyi Liu, Matthew Blackman, Gayle Geschwind, Catherine Carter, Katherine K. Perkins and H. J. Lewandowski. (2025). Integrating noise into PhET simulations to promote student learning of measurement uncertainty. arXiv preprint. https://arxiv.org/abs/2509.25769

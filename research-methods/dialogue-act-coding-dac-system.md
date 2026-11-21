@@ -27,6 +27,7 @@ The DAC system identifies "dialogue acts", the communicative function of each ut
 <!-- How each source describes or uses the method -->
 - **Dialogue Act Coding (DAC) system: five communicative functions and 29 dialogue acts recognized via discourse markers**: The DAC system identifies "dialogue acts", the communicative function of each utterance typed during online collaboration, building on the Verbal Observation System and discourse-analysis research. Its core assumption is that language users "signal the intended meaning and interpretation of their utterances to their discourse partners by means of explicit 'discourse markers'". It distinguishes five main communicative functions: "(1) Argumentative..., (2) Responsive..., (3) Elicitative..., (4) Informative..., and (5) Imperative (commands)", specifying "a total of 29 different dialogue acts". The system was used in CSCL studies of history and language arts inquiry tasks. (Erkens et al. (2008))
 - **Default catch-all code (InfStm?) flags uncodable messages for manual checking**: When the DAC filter finds no discourse marker in a message, it assigns the InfStm? code as a default catch-all, marking the message for manual checking rather than risking a wrong automatic code. The article states "If the system does not find a discourse marker in a message, the message is coded by the label InfStm? as a default catch-all." This means "the researcher still has to check and code some parts of the protocol (about 10%)", but the job is simplified because large parts are already coded and uncoded parts are easy to find.
+- **Speech Act Theory as the framework for inferring pedagogical intentions from learner–LLM dialogue turns**: The study adopts Searle's Speech Act Theory as its foundational framework, built on three principles: an utterance conveys both content and intention; the expressed content results from the speaker's hidden intention; and the hidden intention can be inferred from the expressed content. The intention behind an utterance is termed a dialogue act, which represents the "function of the meaning of the sentence". The framework underpins inferring pedagogical intentions of educational LLMs and learners from dialogue turns, enabling analysis of pedagogical strategies from learner–LLM dialogues. (Liqun He et al. (2024))
 
 ### Claims
 - [Automatic DAC coding of dialogue acts agrees substantially with manual coding (79.0% agreement, kappa 0.75)](../claims/dac-automatic-coding-agrees-with-manual-coding.md) [+M]
@@ -37,8 +38,8 @@ The DAC system identifies "dialogue acts", the communicative function of each ut
 
 ## Key Sources
 - Erkens, G., & Janssen, J. (2008). Automatic coding of dialogue acts in collaboration protocols. Computer-Supported Collaborative Learning, 3, 447-470. https://doi.org/10.1007/s11412-008-9052-6
-
 <!-- merged 2026-10-20 from strategies/infstm-catchall-default-code-strategy ("Use a default catch-all code (InfStm?) to flag uncodable messages for manual checking"), an isolated part of this page (maintainer 2026-10-20: fold approved): its body as it stood. Its bullets this page lacked were added above.
+- Liqun He, Manolis Mavrikis, Mutlu Cukurova. (2024). Towards Mining Effective Pedagogical Strategies from Learner–LLM Educational Dialogues. AIED Doctoral Consortium paper, University College London. https://www.ucl.ac.uk
 
 # Use a default catch-all code (InfStm?) to flag uncodable messages for manual checking
 

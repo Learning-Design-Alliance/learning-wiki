@@ -48,3 +48,4 @@ Informal participant surveys during the 2023 public exhibition "Dire l'indicibil
 - [First-level participant feedback found the iThinkSmart prototype engaging but flagged movement, navigation, graphics, and device-support issues for improvement](ithinksmart-prototype-feedback-themes.md) — related
 - [Thematic analysis of 120 free-form comments identified four themes: improved learning experience, engagement, collaborative learning and skill development](cartooning-feedback-four-themes.md) — related
 - [Free-text responses showed appreciation for training that was timely, hands-on, and interprofessional, alongside logistical and organizational limitations](qualitative-themes-jit-simulation-value-and-limitations.md) — related
+- [Hands-on exhibition activities based on early animation forms (flipbooks, zoetropes, phenakistoscopes) best met criteria of being short, simple, and fun](early-animation-forms-accessible-activities.md) — related

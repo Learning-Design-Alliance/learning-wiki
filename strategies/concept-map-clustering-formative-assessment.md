@@ -56,4 +56,4 @@ Apply unsupervised and semi-supervised clustering of learner concept-map graph m
 -
 
 ## Key Sources
-- Weihs, J.-P., Weihs, A., Gjerde, V., & Drange, H. (2025). Unsupervised and semi-supervised clustering methods to identify and refine participant experience levels in educational research. https://arxiv.org/abs/2508.03840
+- Weihs, J.-P., Weihs, A., Gjerde, V., & Drange, H. (2025). Unsupervised and semi-supervised clustering methods to identify and refine participant experience levels in educational research. https://arxiv.org/abs/2508.03840. [doi:10.48550/arxiv.2508.03840](https://doi.org/10.48550/arxiv.2508.03840)

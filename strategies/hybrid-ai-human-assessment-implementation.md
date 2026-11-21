@@ -66,6 +66,8 @@ The article's implications recommend that institutions "avoid positioning AI as 
 - [Use LM evaluators as coarse, preliminary evaluators to speed up educational content design, not as replacements for human evaluators or empirical studies](lm-as-coarse-evaluator-augmentor.md)
 - [Structure AI-assisted feedback to prioritize instructor-authored content, then instructor-edited AI suggestions, with pure AI comments only filling gaps](instructor-authored-feedback-priority.md)
 - [Use ML-derived achievement predictions to identify general risk factors and support policy, not to rank individual students for high-stakes decisions](use-predictions-for-risk-factors-not-individual-ranking.md)
+- [Position AI writing-support systems as adjuncts to supervision and prompts for reflective dialogue rather than authoritative sources of truth](ai-writing-support-as-adjunct-to-supervision.md)
+- [Use ChatGPT as a teacher-supervised complementary tool for formative assessment of laboratory reports, not as an automated grader](teacher-supervised-chatgpt-formative-assessment-strategy.md)
 
 ## Examples
 -

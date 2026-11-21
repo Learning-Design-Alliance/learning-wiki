@@ -50,6 +50,7 @@ The article recommends several concrete ways to incorporate the tutorial: in cla
 - [Embed low-stakes formative assessment activities throughout the course, such as think-pair-share, clicker questions, tutorials with pre- and post-tests, collaborative problem solving, minute papers, and concept maps](embedded-low-stakes-formative-assessment-activities.md)
 - [Implement multiple-choice question sequences as clicker questions with individual commitment, peer discussion, and instructor-led whole-class discussion at checkpoints](clicker-mqs-peer-discussion-implementation.md)
 - [Add a peer instruction (think–pair–share) component after the initial clicker poll to build student connection](peer-instruction-after-clicker-poll.md)
+- [Share the VR in a dome: pause, clicker-question, and branch on mastery](share-the-vr-clicker-dome-strategy.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Kepler's-third-law calculation using the student-derived orbit and period, with 
 - [Students using Stellarium eclipse timing of Io determine Jupiter's mass as MJ = (1,9 ± 0,5) × 10^27 kg, consistent with the literature value](stellarium-io-eclipse-jupiter-mass.md) — a broader claim this one bears on
 - [Students estimated the orbital period of Kepler-2 from two consecutive transits as 2.201631±0.011335 days, close to the literature value](students-estimate-orbital-period-kepler-2.md) — related
 - [Secondary-school students' averaged estimation of the HAT-P-7b transit duration from the MAST light curve (0.1667±0.009 days) matches the literature value](students-estimate-transit-duration-hat-p-7b.md) — related
+- [Students derive that Kepler's proportionality constant k is inversely proportional to the host star's mass](k-inversely-proportional-star-mass.md) — related

@@ -50,6 +50,7 @@ The authors recommend that educational programs treat Generative AI literacy —
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
 - [Integrate structured opportunities for critical engagement with AI into teacher education programs](structured-critical-ai-engagement-teacher-education.md)
 - [Invest in sustained, role-specific, discipline-specific professional learning and structured student AI literacy pathways across PK16](role-specific-sustained-ai-professional-learning-pathways.md)
+- [Incorporate structured AI-literacy, including prompt formulation and critical evaluation of AI output, into STEM education](structured-ai-literacy-stem-strategy.md)
 
 ## Examples
 -
